@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-11-20T00:00:35.528Z
+- Updated At: 2025-11-21T00:00:52.045Z
 
 ## Products
 
 - [Chenille Soft Velvet - Tablecloth - Black exclusive at The Tablecloth](https://thetableclothstore.com/products/chenille-soft-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Chenille Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:42Z
+  Updated: 2025-11-20T23:11:40Z
   Vendor: The Tablecloth Store
   Product Type: Chenille Velvet Fabric
   Availability: Available
@@ -115,8 +115,8 @@
   - [108 Square](https://thetableclothstore.com/products/chenille-soft-velvet-tablecloth-black-the-tablecloth-store?variant=46822806388961)
     Availability: Available
     Price: $109.99 USD
-- [Chenille Soft Velvet - Custom Tablecloths](https://thetableclothstore.com/products/chenille-soft-velvet-tablecloth-begonia-the-tablecloth-store): Fabric: Chenille Velvet Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:04:44Z
+- [Chenille Soft Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/chenille-soft-velvet-tablecloth-begonia-the-tablecloth-store): Fabric: Chenille Velvet Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:11:40Z
   Vendor: The Tablecloth Store
   Product Type: Chenille Velvet Fabric
   Availability: Available
@@ -221,7 +221,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Chenille Soft Velvet - Tablecloth - Blush exclusive at The Tablecloth](https://thetableclothstore.com/products/chenille-soft-velvet-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Chenille Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:46Z
+  Updated: 2025-11-20T23:11:41Z
   Vendor: The Tablecloth Store
   Product Type: Chenille Velvet Fabric
   Availability: Available
@@ -326,7 +326,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Chenille Soft Velvet - Tablecloth - Burgundy exclusive at The](https://thetableclothstore.com/products/chenille-soft-velvet-tablecloth-burgundy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Chenille Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:49Z
+  Updated: 2025-11-20T23:11:41Z
   Vendor: The Tablecloth Store
   Product Type: Chenille Velvet Fabric
   Availability: Available
@@ -431,7 +431,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Chenille Soft Velvet - Tablecloth - Forest exclusive at The Tablecloth](https://thetableclothstore.com/products/chenille-soft-velvet-tablecloth-forest-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Chenille Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:51Z
+  Updated: 2025-11-20T23:11:42Z
   Vendor: The Tablecloth Store
   Product Type: Chenille Velvet Fabric
   Availability: Available
@@ -536,7 +536,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Chenille Soft Velvet - Tablecloth - Gold exclusive at The Tablecloth](https://thetableclothstore.com/products/chenille-soft-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Chenille Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:53Z
+  Updated: 2025-11-20T23:11:42Z
   Vendor: The Tablecloth Store
   Product Type: Chenille Velvet Fabric
   Availability: Available
@@ -641,7 +641,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Chenille Soft Velvet - Tablecloth - Ice Blue exclusive at The](https://thetableclothstore.com/products/chenille-soft-velvet-tablecloth-ice-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Chenille Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:55Z
+  Updated: 2025-11-20T23:11:43Z
   Vendor: The Tablecloth Store
   Product Type: Chenille Velvet Fabric
   Availability: Available
@@ -745,8 +745,8 @@
   - [108 Square](https://thetableclothstore.com/products/chenille-soft-velvet-tablecloth-ice-blue-the-tablecloth-store?variant=46822812877025)
     Availability: Available
     Price: $109.99 USD
-- [Ivory Chenille Soft Velvet - Custom Tablecloths](https://thetableclothstore.com/products/chenille-soft-velvet-tablecloth-ivory-the-tablecloth-store): Fabric: Chenille Velvet Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:04:57Z
+- [Ivory Chenille Soft Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/chenille-soft-velvet-tablecloth-ivory-the-tablecloth-store): Fabric: Chenille Velvet Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:11:43Z
   Vendor: The Tablecloth Store
   Product Type: Chenille Velvet Fabric
   Availability: Available
@@ -851,7 +851,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Chenille Soft Velvet - Tablecloth - Mauve exclusive at The Tablecloth](https://thetableclothstore.com/products/chenille-soft-velvet-tablecloth-mauve-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Chenille Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:59Z
+  Updated: 2025-11-20T23:11:44Z
   Vendor: The Tablecloth Store
   Product Type: Chenille Velvet Fabric
   Availability: Available
@@ -956,7 +956,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Chenille Soft Velvet - Tablecloth - Navy exclusive at The Tablecloth](https://thetableclothstore.com/products/chenille-soft-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Chenille Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:05:01Z
+  Updated: 2025-11-20T23:11:51Z
   Vendor: The Tablecloth Store
   Product Type: Chenille Velvet Fabric
   Availability: Available
@@ -1061,7 +1061,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Chenille Soft Velvet - Tablecloth - Silver exclusive at The Tablecloth](https://thetableclothstore.com/products/chenille-soft-velvet-tablecloth-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Chenille Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:05:05Z
+  Updated: 2025-11-20T23:11:52Z
   Vendor: The Tablecloth Store
   Product Type: Chenille Velvet Fabric
   Availability: Available
@@ -1166,7 +1166,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Chenille Soft Velvet - Tablecloth - White exclusive at The Tablecloth](https://thetableclothstore.com/products/chenille-soft-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Chenille Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:05:07Z
+  Updated: 2025-11-20T23:11:52Z
   Vendor: The Tablecloth Store
   Product Type: Chenille Velvet Fabric
   Availability: Available
@@ -1271,7 +1271,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Dover Floral Digital Print Fabric - Tablecloth - Celadon exclusive at](https://thetableclothstore.com/products/dover-floral-digital-print-fabric-tablecloth-celadon-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Floral Digital Print Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:14:17Z
+  Updated: 2025-11-20T23:11:53Z
   Vendor: The Tablecloth Store
   Product Type: Dover Digital Print Fabric
   Availability: Available
@@ -1376,7 +1376,7 @@
     Availability: Available
     Price: $129.99 USD
 - [Dover Floral Digital Print Fabric - Tablecloth - Pink exclusive at The](https://thetableclothstore.com/products/dover-floral-digital-print-fabric-tablecloth-pink-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Floral Digital Print Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:14:20Z
+  Updated: 2025-11-20T23:11:53Z
   Vendor: The Tablecloth Store
   Product Type: Dover Digital Print Fabric
   Availability: Available
@@ -1480,8 +1480,8 @@
   - [108 Square](https://thetableclothstore.com/products/dover-floral-digital-print-fabric-tablecloth-pink-the-tablecloth-store?variant=46829262930145)
     Availability: Available
     Price: $129.99 USD
-- [Wedgewood Blue Dover Floral Digital Print Fabric - Custom Tablecloths](https://thetableclothstore.com/products/dover-floral-digital-print-fabric-tablecloth-wedgewood-the-tablecloth-store): Fabric: Floral Digital Print Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:14:23Z
+- [Wedgewood Blue Dover Floral Digital Print Fabric Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/dover-floral-digital-print-fabric-tablecloth-wedgewood-the-tablecloth-store): Fabric: Floral Digital Print Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:11:54Z
   Vendor: The Tablecloth Store
   Product Type: Dover Digital Print Fabric
   Availability: Available
@@ -1586,7 +1586,7 @@
     Availability: Available
     Price: $129.99 USD
 - [Derby Floral Digital Print - Tablecloth - Pink exclusive at The](https://thetableclothstore.com/products/derby-floral-digital-print-tablecloth-pink-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Floral Digital Print Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:14:25Z
+  Updated: 2025-11-20T23:11:55Z
   Vendor: The Tablecloth Store
   Product Type: Derby Digital Print Fabric
   Availability: Available
@@ -1691,7 +1691,7 @@
     Availability: Available
     Price: $129.99 USD
 - [Derby Floral Digital Print - Tablecloth - Wedgwood exclusive at The](https://thetableclothstore.com/products/derby-floral-digital-print-tablecloth-wedgwood-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Floral Digital Print Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:14:28Z
+  Updated: 2025-11-20T23:11:55Z
   Vendor: The Tablecloth Store
   Product Type: Derby Digital Print Fabric
   Availability: Available
@@ -1795,8 +1795,8 @@
   - [108 Square](https://thetableclothstore.com/products/derby-floral-digital-print-tablecloth-wedgwood-the-tablecloth-store?variant=46829266600161)
     Availability: Available
     Price: $129.99 USD
-- [Celadon Derby Floral Digital Print - Custom Tablecloths](https://thetableclothstore.com/products/derby-floral-digital-print-tablecloth-celadon-the-tablecloth-store): Fabric: Floral Digital Print Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:14:30Z
+- [Celadon Derby Floral Digital Print Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/derby-floral-digital-print-tablecloth-celadon-the-tablecloth-store): Fabric: Floral Digital Print Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:11:56Z
   Vendor: The Tablecloth Store
   Product Type: Derby Digital Print Fabric
   Availability: Available
@@ -1901,7 +1901,7 @@
     Availability: Available
     Price: $129.99 USD
 - [Derby Floral Digital Print - Tablecloth - Fuchsia exclusive at The](https://thetableclothstore.com/products/derby-floral-digital-print-tablecloth-fuchsia-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Floral Digital Print Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:14:31Z
+  Updated: 2025-11-20T23:11:56Z
   Vendor: The Tablecloth Store
   Product Type: Derby Digital Print Fabric
   Availability: Available
@@ -2006,7 +2006,7 @@
     Availability: Available
     Price: $129.99 USD
 - [Bonanza Jacquard, Quilted Look - Tablecloth - Blush exclusive at The](https://thetableclothstore.com/products/bonanza-jacquard-quilted-look-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:10:53Z
+  Updated: 2025-11-20T23:11:57Z
   Vendor: The Tablecloth Store
   Product Type: Bonanza Jacquard Fabric
   Availability: Available
@@ -2110,8 +2110,8 @@
   - [108 Square](https://thetableclothstore.com/products/bonanza-jacquard-quilted-look-tablecloth-blush-the-tablecloth-store?variant=46823183319265)
     Availability: Available
     Price: $165.99 USD
-- [Champagne Bonanza Jacquard, Quilted Look - Custom Tablecloths](https://thetableclothstore.com/products/bonanza-jacquard-quilted-look-tablecloth-champagne-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:10:56Z
+- [Champagne Bonanza Jacquard, Quilted Look Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/bonanza-jacquard-quilted-look-tablecloth-champagne-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:11:58Z
   Vendor: The Tablecloth Store
   Product Type: Bonanza Jacquard Fabric
   Availability: Available
@@ -2216,7 +2216,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Bonanza Jacquard, Quilted Look - Tablecloth - Ivory exclusive at The](https://thetableclothstore.com/products/bonanza-jacquard-quilted-look-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:00Z
+  Updated: 2025-11-20T23:11:58Z
   Vendor: The Tablecloth Store
   Product Type: Bonanza Jacquard Fabric
   Availability: Available
@@ -2321,7 +2321,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Bonanza Jacquard, Quilted Look - Tablecloth - White exclusive at The](https://thetableclothstore.com/products/bonanza-jacquard-quilted-look-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:08:57Z
+  Updated: 2025-11-20T23:11:59Z
   Vendor: The Tablecloth Store
   Product Type: Bonanza Jacquard Fabric
   Availability: Available
@@ -2426,7 +2426,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Sprite Jacquard - Tablecloth - Silver exclusive at The Tablecloth](https://thetableclothstore.com/products/sprite-jacquard-tablecloth-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:09:00Z
+  Updated: 2025-11-20T23:12:00Z
   Vendor: The Tablecloth Store
   Product Type: Sprite Jacquard Fabric
   Availability: Available
@@ -2530,8 +2530,8 @@
   - [108 Square](https://thetableclothstore.com/products/sprite-jacquard-tablecloth-silver-the-tablecloth-store?variant=46822943457505)
     Availability: Available
     Price: $109.99 USD
-- [Blush Sprite Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/sprite-jacquard-tablecloth-blush-the-tablecloth-store): Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:09:04Z
+- [Blush Sprite Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/sprite-jacquard-tablecloth-blush-the-tablecloth-store): Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:12:01Z
   Vendor: The Tablecloth Store
   Product Type: Sprite Jacquard Fabric
   Availability: Available
@@ -2636,7 +2636,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Sprite Jacquard - Tablecloth - Ivory exclusive at The Tablecloth Store](https://thetableclothstore.com/products/sprite-jacquard-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:09:08Z
+  Updated: 2025-11-20T23:12:02Z
   Vendor: The Tablecloth Store
   Product Type: Sprite Jacquard Fabric
   Availability: Available
@@ -2741,7 +2741,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Sprite Jacquard - Tablecloth - Mint exclusive at The Tablecloth Store](https://thetableclothstore.com/products/sprite-jacquard-tablecloth-mint-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:09:12Z
+  Updated: 2025-11-20T23:12:02Z
   Vendor: The Tablecloth Store
   Product Type: Sprite Jacquard Fabric
   Availability: Available
@@ -2846,7 +2846,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Sprite Jacquard - Tablecloth - Teal exclusive at The Tablecloth Store](https://thetableclothstore.com/products/sprite-jacquard-tablecloth-teal-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:09:16Z
+  Updated: 2025-11-20T23:12:03Z
   Vendor: The Tablecloth Store
   Product Type: Sprite Jacquard Fabric
   Availability: Available
@@ -2951,7 +2951,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Sprite Jacquard - Tablecloth - White exclusive at The Tablecloth Store](https://thetableclothstore.com/products/sprite-jacquard-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:09:19Z
+  Updated: 2025-11-20T23:12:04Z
   Vendor: The Tablecloth Store
   Product Type: Sprite Jacquard Fabric
   Availability: Available
@@ -3056,7 +3056,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Square Jacquard, Quilted Look - Tablecloth - Navy exclusive at The](https://thetableclothstore.com/products/square-jacquard-quilted-look-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:02Z
+  Updated: 2025-11-20T23:12:04Z
   Vendor: The Tablecloth Store
   Product Type: Square Jacquard Fabric
   Availability: Available
@@ -3161,7 +3161,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Square Jacquard, Quilted Look - Tablecloth - Champagne exclusive at](https://thetableclothstore.com/products/square-jacquard-quilted-look-tablecloth-champagne-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:04Z
+  Updated: 2025-11-20T23:12:05Z
   Vendor: The Tablecloth Store
   Product Type: Square Jacquard Fabric
   Availability: Available
@@ -3266,7 +3266,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Square Jacquard, Quilted Look - Tablecloth - Midnight exclusive at The](https://thetableclothstore.com/products/square-jacquard-quilted-look-tablecloth-midnight-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:06Z
+  Updated: 2025-11-20T23:12:05Z
   Vendor: The Tablecloth Store
   Product Type: Square Jacquard Fabric
   Availability: Available
@@ -3371,7 +3371,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Square Jacquard, Quilted Look - Tablecloth - Snow exclusive at The](https://thetableclothstore.com/products/square-jacquard-quilted-look-tablecloth-snow-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:08Z
+  Updated: 2025-11-20T23:12:06Z
   Vendor: The Tablecloth Store
   Product Type: Square Jacquard Fabric
   Availability: Available
@@ -3476,7 +3476,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Square Jacquard, Quilted Look - Tablecloth - Alabaster exclusive at](https://thetableclothstore.com/products/square-jacquard-quilted-look-tablecloth-alabaster-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:11Z
+  Updated: 2025-11-20T23:12:07Z
   Vendor: The Tablecloth Store
   Product Type: Square Jacquard Fabric
   Availability: Available
@@ -3581,7 +3581,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Square Jacquard, Quilted Look - Tablecloth - Gold exclusive at The](https://thetableclothstore.com/products/square-jacquard-quilted-look-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:13Z
+  Updated: 2025-11-20T23:12:07Z
   Vendor: The Tablecloth Store
   Product Type: Square Jacquard Fabric
   Availability: Available
@@ -3686,7 +3686,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Track Jacquard, Quilted Look - Tablecloth - White exclusive at The](https://thetableclothstore.com/products/track-jacquard-quilted-look-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:15Z
+  Updated: 2025-11-20T23:12:08Z
   Vendor: The Tablecloth Store
   Product Type: Track Jacquard Fabric
   Availability: Available
@@ -3791,7 +3791,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Track Jacquard, Quilted Look - Tablecloth - Off White exclusive at The](https://thetableclothstore.com/products/track-jacquard-quilted-look-tablecloth-off-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:17Z
+  Updated: 2025-11-20T23:12:08Z
   Vendor: The Tablecloth Store
   Product Type: Track Jacquard Fabric
   Availability: Available
@@ -3896,7 +3896,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Track Jacquard, Quilted Look - Tablecloth - Blush exclusive at The](https://thetableclothstore.com/products/track-jacquard-quilted-look-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:19Z
+  Updated: 2025-11-20T23:12:09Z
   Vendor: The Tablecloth Store
   Product Type: Track Jacquard Fabric
   Availability: Available
@@ -4000,7 +4000,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Track Jacquard, Quilted Look - Tablecloth - Navy exclusive at The](https://thetableclothstore.com/products/track-jacquard-quilted-look-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:21Z
+  Updated: 2025-11-20T23:12:09Z
   Vendor: The Tablecloth Store
   Product Type: Track Jacquard Fabric
   Availability: Available
@@ -4104,7 +4104,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Treasure Jacquard, Quilted Look - Tablecloth - Navy/Gold exclusive at](https://thetableclothstore.com/products/treasure-jacquard-quilted-look-tablecloth-navy-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:23Z
+  Updated: 2025-11-20T23:12:10Z
   Vendor: The Tablecloth Store
   Product Type: Treasure Jacquard Fabric
   Availability: Available
@@ -4209,7 +4209,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Treasure Jacquard, Quilted Look - Tablecloth - Red/Gold exclusive at](https://thetableclothstore.com/products/treasure-jacquard-quilted-look-tablecloth-red-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:25Z
+  Updated: 2025-11-20T23:12:10Z
   Vendor: The Tablecloth Store
   Product Type: Treasure Jacquard Fabric
   Availability: Available
@@ -4314,7 +4314,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Treasure Jacquard, Quilted Look - Tablecloth - White exclusive at The](https://thetableclothstore.com/products/treasure-jacquard-quilted-look-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:27Z
+  Updated: 2025-11-20T23:12:11Z
   Vendor: The Tablecloth Store
   Product Type: Treasure Jacquard Fabric
   Availability: Available
@@ -4419,7 +4419,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Treasure Jacquard, Quilted Look - Tablecloth - Off White exclusive at](https://thetableclothstore.com/products/treasure-jacquard-quilted-look-tablecloth-off-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:29Z
+  Updated: 2025-11-20T23:12:11Z
   Vendor: The Tablecloth Store
   Product Type: Treasure Jacquard Fabric
   Availability: Available
@@ -4524,7 +4524,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Black exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:05:11Z
+  Updated: 2025-11-20T23:12:12Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -4629,7 +4629,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Burgundy exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-burgundy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:05:14Z
+  Updated: 2025-11-20T23:12:12Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -4733,8 +4733,8 @@
   - [108 Square](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-burgundy-the-tablecloth-store?variant=46822821626081)
     Availability: Available
     Price: $109.99 USD
-- [Forest Abstract Crushed Velvet - Custom Tablecloths](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-forest-the-tablecloth-store): Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:05:19Z
+- [Forest Abstract Crushed Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-forest-the-tablecloth-store): Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:12:13Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -4839,7 +4839,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Blush exclusive at The Tablecloth Store](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:05:23Z
+  Updated: 2025-11-20T23:12:14Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -4944,7 +4944,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Abstract Crushed Velvet - Tablecloth - French Blue exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-french-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:05:26Z
+  Updated: 2025-11-20T23:12:15Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -5049,7 +5049,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Mauve exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-mauve-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:05:30Z
+  Updated: 2025-11-20T23:12:15Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -5154,7 +5154,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Gold exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:05:34Z
+  Updated: 2025-11-20T23:12:16Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -5259,7 +5259,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Maize exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-maize-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:05:38Z
+  Updated: 2025-11-20T23:12:17Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -5364,7 +5364,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Natural exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-natural-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:05:42Z
+  Updated: 2025-11-20T23:12:18Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -5469,7 +5469,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Ocean exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-ocean-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:05:45Z
+  Updated: 2025-11-20T23:12:19Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -5574,7 +5574,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Brocade Damask Velvet - Tablecloth - Black exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:01:31Z
+  Updated: 2025-11-20T23:12:19Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -5628,7 +5628,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Navy exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:05:49Z
+  Updated: 2025-11-20T23:12:20Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -5733,7 +5733,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Brocade Damask Velvet - Tablecloth - Blush exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:01:33Z
+  Updated: 2025-11-20T23:12:20Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -5787,7 +5787,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Olive exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-olive-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:05:52Z
+  Updated: 2025-11-20T23:12:21Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -5892,7 +5892,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Brocade Damask Velvet - Tablecloth - Forest exclusive at The](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-forest-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:01:35Z
+  Updated: 2025-11-20T23:12:22Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -5946,7 +5946,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Damask Velvet - Tablecloth - Chocolate exclusive at The](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-chocolate-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:01:37Z
+  Updated: 2025-11-20T23:12:27Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -6000,7 +6000,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Plum exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-plum-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:05:56Z
+  Updated: 2025-11-20T23:12:27Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -6105,7 +6105,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Brocade Damask Velvet - Tablecloth - Cafe exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-cafe-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:01:38Z
+  Updated: 2025-11-20T23:12:28Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -6159,7 +6159,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Rose exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-rose-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:06:00Z
+  Updated: 2025-11-20T23:12:29Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -6264,7 +6264,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Brocade Damask Velvet - Tablecloth - Sand exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-sand-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:01:40Z
+  Updated: 2025-11-20T23:12:29Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -6318,7 +6318,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Silver exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:06:04Z
+  Updated: 2025-11-20T23:12:30Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -6423,7 +6423,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Brocade Damask Velvet - Tablecloth - Taupe exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-taupe-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:01:42Z
+  Updated: 2025-11-20T23:12:31Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -6477,7 +6477,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Seafoam exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-seafoam-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:06:08Z
+  Updated: 2025-11-20T23:12:31Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -6582,7 +6582,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Brocade Damask Velvet - Tablecloth - White exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:01:44Z
+  Updated: 2025-11-20T23:12:32Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -6636,7 +6636,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Taupe exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-taupe-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:06:11Z
+  Updated: 2025-11-20T23:12:33Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -6741,7 +6741,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Brocade Damask Velvet - Tablecloth - Gold exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:01:45Z
+  Updated: 2025-11-20T23:12:34Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -6795,7 +6795,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Damask Velvet - Tablecloth - Burgundy exclusive at The](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-burgundy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:01:47Z
+  Updated: 2025-11-20T23:12:34Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -6849,7 +6849,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - White exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:34Z
+  Updated: 2025-11-20T23:12:35Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -6954,7 +6954,7 @@
     Availability: Available
     Price: $149.99 USD
 - [Brocade Hunter Velvet - Tablecloth - Goldenrod exclusive at The](https://thetableclothstore.com/products/brocade-hunter-velvet-tablecloth-goldenrod-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:05Z
+  Updated: 2025-11-20T23:12:36Z
   Vendor: The Tablecloth Store
   Product Type: Hunter Velvet Fabric
   Availability: Available
@@ -7022,8 +7022,8 @@
   - [70 Square](https://thetableclothstore.com/products/brocade-hunter-velvet-tablecloth-goldenrod-the-tablecloth-store?variant=46842975060193)
     Availability: Available
     Price: $74.99 USD
-- [Brocade Damask Velvet - Custom Tablecloths](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-charcoal-the-tablecloth-store): Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:01:48Z
+- [Brocade Damask Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-charcoal-the-tablecloth-store): Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:12:37Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -7077,7 +7077,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Hunter Velvet - Tablecloth - Sky Blue exclusive at The](https://thetableclothstore.com/products/brocade-hunter-velvet-tablecloth-sky-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:08Z
+  Updated: 2025-11-20T23:12:37Z
   Vendor: The Tablecloth Store
   Product Type: Hunter Velvet Fabric
   Availability: Available
@@ -7145,8 +7145,8 @@
   - [70 Square](https://thetableclothstore.com/products/brocade-hunter-velvet-tablecloth-sky-blue-the-tablecloth-store?variant=46842975748321)
     Availability: Available
     Price: $74.99 USD
-- [Gold Brocade Hunter Velvet - Custom Tablecloths](https://thetableclothstore.com/products/brocade-hunter-velvet-tablecloth-gold-the-tablecloth-store): Fabric: Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:15:11Z
+- [Gold Brocade Hunter Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/brocade-hunter-velvet-tablecloth-gold-the-tablecloth-store): Fabric: Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:12:38Z
   Vendor: The Tablecloth Store
   Product Type: Hunter Velvet Fabric
   Availability: Available
@@ -7214,8 +7214,8 @@
   - [70 Square](https://thetableclothstore.com/products/brocade-hunter-velvet-tablecloth-gold-the-tablecloth-store?variant=46842976633057)
     Availability: Available
     Price: $74.99 USD
-- [Ivory Brocade Damask Velvet - Custom Tablecloths](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-ivory-the-tablecloth-store): Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:01:51Z
+- [Ivory Brocade Damask Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-ivory-the-tablecloth-store): Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:12:39Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -7269,7 +7269,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Hunter Velvet - Tablecloth - Green exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-hunter-velvet-tablecloth-green-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:14Z
+  Updated: 2025-11-20T23:12:39Z
   Vendor: The Tablecloth Store
   Product Type: Hunter Velvet Fabric
   Availability: Available
@@ -7337,8 +7337,8 @@
   - [70 Square](https://thetableclothstore.com/products/brocade-hunter-velvet-tablecloth-green-the-tablecloth-store?variant=46842977353953)
     Availability: Available
     Price: $74.99 USD
-- [Natural Brocade Hunter Velvet - Custom Tablecloths](https://thetableclothstore.com/products/brocade-hunter-velvet-tablecloth-natural-the-tablecloth-store): Fabric: Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:15:16Z
+- [Natural Brocade Hunter Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/brocade-hunter-velvet-tablecloth-natural-the-tablecloth-store): Fabric: Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:12:40Z
   Vendor: The Tablecloth Store
   Product Type: Hunter Velvet Fabric
   Availability: Available
@@ -7407,7 +7407,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Brocade Damask Velvet - Tablecloth - Seafoam exclusive at The](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-seafoam-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:01:52Z
+  Updated: 2025-11-20T23:12:41Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -7461,7 +7461,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Damask Velvet - Tablecloth - Navy exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:01:54Z
+  Updated: 2025-11-20T23:12:41Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -7515,7 +7515,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Black exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:01:55Z
+  Updated: 2025-11-20T23:12:42Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -7569,7 +7569,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Navy exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:01:57Z
+  Updated: 2025-11-20T23:12:43Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -7623,7 +7623,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Charcoal exclusive at The](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-charcoal-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:01:59Z
+  Updated: 2025-11-20T23:12:44Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -7677,7 +7677,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Chocolate exclusive at The](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-chocolate-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:02:01Z
+  Updated: 2025-11-20T23:12:44Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -7730,8 +7730,8 @@
   - [108 Square](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-chocolate-the-tablecloth-store?variant=46418271666401)
     Availability: Available
     Price: $136.99 USD
-- [Burgundy Brocade Scroll Velvet - Custom Tablecloths](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-burgundy-the-tablecloth-store): Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:02Z
+- [Burgundy Brocade Scroll Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-burgundy-the-tablecloth-store): Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:12:45Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -7785,7 +7785,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Forest exclusive at The](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-forest-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:02:04Z
+  Updated: 2025-11-20T23:12:46Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -7839,7 +7839,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Cafe exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-cafe-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:02:05Z
+  Updated: 2025-11-20T23:12:46Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -7893,7 +7893,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - White exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:02:07Z
+  Updated: 2025-11-20T23:12:47Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -7947,7 +7947,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Ivory exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:02:09Z
+  Updated: 2025-11-20T23:12:48Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -8001,7 +8001,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Blush exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:02:11Z
+  Updated: 2025-11-20T23:12:48Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -8055,7 +8055,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Gold exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:02:12Z
+  Updated: 2025-11-20T23:12:49Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -8109,7 +8109,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Taupe exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-taupe-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:02:14Z
+  Updated: 2025-11-20T23:12:50Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -8163,7 +8163,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Sand exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-sand-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:02:16Z
+  Updated: 2025-11-20T23:12:50Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -8217,7 +8217,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Seafoam exclusive at The](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-seafoam-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:02:18Z
+  Updated: 2025-11-20T23:12:51Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -8271,7 +8271,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Gate Brocade Velvet - Tablecloth - Black exclusive at The Tablecloth](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:18Z
+  Updated: 2025-11-20T23:12:52Z
   Vendor: The Tablecloth Store
   Product Type: Gate Velvet Fabric
   Availability: Available
@@ -8340,7 +8340,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Gate Brocade Velvet - Tablecloth - Champagne exclusive at The](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-champagne-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:19Z
+  Updated: 2025-11-20T23:12:52Z
   Vendor: The Tablecloth Store
   Product Type: Gate Velvet Fabric
   Availability: Available
@@ -8409,7 +8409,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Gate Brocade Velvet - Tablecloth - Forest exclusive at The Tablecloth](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-forest-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:20Z
+  Updated: 2025-11-20T23:12:53Z
   Vendor: The Tablecloth Store
   Product Type: Gate Velvet Fabric
   Availability: Available
@@ -8478,7 +8478,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Gate Brocade Velvet - Tablecloth - Gold exclusive at The Tablecloth](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:21Z
+  Updated: 2025-11-20T23:12:53Z
   Vendor: The Tablecloth Store
   Product Type: Gate Velvet Fabric
   Availability: Available
@@ -8547,7 +8547,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Gate Brocade Velvet - Tablecloth - Ivory exclusive at The Tablecloth](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:22Z
+  Updated: 2025-11-20T23:12:54Z
   Vendor: The Tablecloth Store
   Product Type: Gate Velvet Fabric
   Availability: Available
@@ -8616,7 +8616,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Gate Brocade Velvet - Tablecloth - Olive exclusive at The Tablecloth](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-olive-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:23Z
+  Updated: 2025-11-20T23:12:54Z
   Vendor: The Tablecloth Store
   Product Type: Gate Velvet Fabric
   Availability: Available
@@ -8684,8 +8684,8 @@
   - [70 Square](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-olive-the-tablecloth-store?variant=46842982465761)
     Availability: Available
     Price: $74.99 USD
-- [White Gate Brocade Velvet - Custom Tablecloths](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-white-the-tablecloth-store): Fabric: Rich Brocade Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:15:24Z
+- [White Gate Brocade Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/gate-brocade-velvet-tablecloth-white-the-tablecloth-store): Fabric: Rich Brocade Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:12:55Z
   Vendor: The Tablecloth Store
   Product Type: Gate Velvet Fabric
   Availability: Available
@@ -8754,7 +8754,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Black exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:26Z
+  Updated: 2025-11-20T23:12:56Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -8823,7 +8823,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Cafe exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-cafe-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:29Z
+  Updated: 2025-11-20T23:12:57Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -8892,7 +8892,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Charcoal exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-charcoal-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:31Z
+  Updated: 2025-11-20T23:12:57Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -8961,7 +8961,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Forest exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-forest-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:33Z
+  Updated: 2025-11-20T23:12:58Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9030,7 +9030,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Copper exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-copper-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:34Z
+  Updated: 2025-11-20T23:12:59Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9099,7 +9099,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Blush exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:36Z
+  Updated: 2025-11-20T23:12:59Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9168,7 +9168,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Champagne exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-champagne-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:38Z
+  Updated: 2025-11-20T23:13:00Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9237,7 +9237,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Gold exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:40Z
+  Updated: 2025-11-20T23:13:06Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9306,7 +9306,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Plum exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-plum-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:42Z
+  Updated: 2025-11-20T23:13:06Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9375,7 +9375,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Navy exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:44Z
+  Updated: 2025-11-20T23:13:07Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9444,7 +9444,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Lavender exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-lavender-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:45Z
+  Updated: 2025-11-20T23:13:08Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9513,7 +9513,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Green exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-green-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:48Z
+  Updated: 2025-11-20T23:13:09Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9582,7 +9582,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Black exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:06:15Z
+  Updated: 2025-11-20T23:13:09Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -9686,8 +9686,8 @@
   - [108 Square](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-black-the-tablecloth-store?variant=46822844203233)
     Availability: Available
     Price: $109.99 USD
-- [Red Huntsville Brocade Velvet - Custom Tablecloths](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-red-the-tablecloth-store): Fabric: Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:15:49Z
+- [Red Huntsville Brocade Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-red-the-tablecloth-store): Fabric: Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:13:10Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9756,7 +9756,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Navy exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:06:19Z
+  Updated: 2025-11-20T23:13:11Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -9861,7 +9861,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Oyster exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-oyster-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:51Z
+  Updated: 2025-11-20T23:13:11Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9930,7 +9930,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - White exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:06:23Z
+  Updated: 2025-11-20T23:13:12Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -10035,7 +10035,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Natural exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-natural-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:06:27Z
+  Updated: 2025-11-20T23:13:13Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -10140,7 +10140,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Maize exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-maize-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:53Z
+  Updated: 2025-11-20T23:13:14Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -10208,8 +10208,8 @@
   - [70 Square](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-maize-the-tablecloth-store?variant=46842994983137)
     Availability: Available
     Price: $74.99 USD
-- [Seafoam Riverdale Crushed Velvet - Custom Tablecloths](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-seafoam-the-tablecloth-store): Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:06:30Z
+- [Seafoam Riverdale Crushed Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-seafoam-the-tablecloth-store): Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:13:15Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -10314,7 +10314,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Seafoam exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-seafoam-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:54Z
+  Updated: 2025-11-20T23:13:15Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -10383,7 +10383,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Rosset exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-rosset-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:06:34Z
+  Updated: 2025-11-20T23:13:16Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -10488,7 +10488,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Eggshell exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-eggshell-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:06:38Z
+  Updated: 2025-11-20T23:13:17Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -10593,7 +10593,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Sky Blue exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-sky-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:57Z
+  Updated: 2025-11-20T23:13:17Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -10662,7 +10662,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Champagne exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-champagne-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:06:41Z
+  Updated: 2025-11-20T23:13:18Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -10767,7 +10767,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Gold exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:06:45Z
+  Updated: 2025-11-20T23:13:19Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -10872,7 +10872,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Silver exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:15:59Z
+  Updated: 2025-11-20T23:13:19Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -10941,7 +10941,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Hunter exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-hunter-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:06:49Z
+  Updated: 2025-11-20T23:13:20Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -11046,7 +11046,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Wine exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-wine-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:00Z
+  Updated: 2025-11-20T23:13:21Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -11115,7 +11115,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Maroon exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-maroon-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:06:53Z
+  Updated: 2025-11-20T23:13:21Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -11220,7 +11220,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Silver exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:06:57Z
+  Updated: 2025-11-20T23:13:22Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -11325,7 +11325,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - White exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:02Z
+  Updated: 2025-11-20T23:13:23Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -11394,7 +11394,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Antique White exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-antique-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:07:00Z
+  Updated: 2025-11-20T23:13:24Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -11498,7 +11498,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Shiny Velvet - Tablecloth - Black exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:04Z
+  Updated: 2025-11-20T23:13:25Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -11567,7 +11567,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Red exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-red-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:06Z
+  Updated: 2025-11-20T23:13:25Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -11636,7 +11636,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Fire Red exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-fire-red-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:08Z
+  Updated: 2025-11-20T23:13:26Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -11705,7 +11705,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - White exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:10Z
+  Updated: 2025-11-20T23:13:27Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -11774,7 +11774,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Antique White exclusive at The Tablecloth](https://thetableclothstore.com/products/shiny-velvet-tablecloth-antique-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:12Z
+  Updated: 2025-11-20T23:13:27Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -11843,7 +11843,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Apple Green exclusive at The Tablecloth](https://thetableclothstore.com/products/shiny-velvet-tablecloth-apple-green-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:14Z
+  Updated: 2025-11-20T23:13:28Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -11912,7 +11912,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Begonia exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-begonia-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:16Z
+  Updated: 2025-11-20T23:13:29Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -11981,7 +11981,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Aqua exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-aqua-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:18Z
+  Updated: 2025-11-20T23:13:29Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12050,7 +12050,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Blush exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:19Z
+  Updated: 2025-11-20T23:13:30Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12119,7 +12119,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Burgundy exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-burgundy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:22Z
+  Updated: 2025-11-20T23:13:31Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12188,7 +12188,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Champagne exclusive at The Tablecloth](https://thetableclothstore.com/products/shiny-velvet-tablecloth-champagne-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:24Z
+  Updated: 2025-11-20T23:13:31Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12257,7 +12257,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Charcoal exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-charcoal-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:27Z
+  Updated: 2025-11-20T23:13:32Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12326,7 +12326,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Cherry Red exclusive at The Tablecloth](https://thetableclothstore.com/products/shiny-velvet-tablecloth-cherry-red-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:28Z
+  Updated: 2025-11-20T23:13:33Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12395,7 +12395,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Black exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:30Z
+  Updated: 2025-11-20T23:13:34Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -12464,7 +12464,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Chocolate exclusive at The Tablecloth](https://thetableclothstore.com/products/shiny-velvet-tablecloth-chocolate-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:32Z
+  Updated: 2025-11-20T23:13:34Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12533,7 +12533,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Avocado exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-avocado-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:34Z
+  Updated: 2025-11-20T23:13:35Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -12602,7 +12602,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Copper exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-copper-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:36Z
+  Updated: 2025-11-20T23:13:36Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12671,7 +12671,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Blush exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:38Z
+  Updated: 2025-11-20T23:13:36Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -12740,7 +12740,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Champagne exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-champagne-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:40Z
+  Updated: 2025-11-20T23:13:37Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -12809,7 +12809,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Dark Blue exclusive at The Tablecloth](https://thetableclothstore.com/products/shiny-velvet-tablecloth-dark-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:41Z
+  Updated: 2025-11-20T23:13:38Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12878,7 +12878,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Charcoal exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-charcoal-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:45Z
+  Updated: 2025-11-20T23:13:39Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -12947,7 +12947,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Chocolate exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-chocolate-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:47Z
+  Updated: 2025-11-20T23:13:39Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13016,7 +13016,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Forest exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-forest-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:50Z
+  Updated: 2025-11-20T23:13:40Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -13085,7 +13085,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Dark Navy exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-dark-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:52Z
+  Updated: 2025-11-20T23:13:41Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13154,7 +13154,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Navy exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:54Z
+  Updated: 2025-11-20T23:13:46Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13223,7 +13223,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Gold exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:56Z
+  Updated: 2025-11-20T23:13:47Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -13292,7 +13292,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Grey exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-grey-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:16:58Z
+  Updated: 2025-11-20T23:13:48Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13361,7 +13361,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Fucshia exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-fucshia-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:00Z
+  Updated: 2025-11-20T23:13:48Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -13430,7 +13430,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Levende exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-levende-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:01Z
+  Updated: 2025-11-20T23:13:49Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13499,7 +13499,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Ivory exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:03Z
+  Updated: 2025-11-20T23:13:50Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13568,7 +13568,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Grey exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-grey-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:05Z
+  Updated: 2025-11-20T23:13:50Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -13637,7 +13637,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Royal Blue exclusive at The Tablecloth](https://thetableclothstore.com/products/soft-velvet-tablecloth-royal-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:07Z
+  Updated: 2025-11-20T23:13:51Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13706,7 +13706,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Rose exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-rose-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:09Z
+  Updated: 2025-11-20T23:13:52Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13775,7 +13775,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Ivory exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:11Z
+  Updated: 2025-11-20T23:13:52Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -13844,7 +13844,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Malaga exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-malaga-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:13Z
+  Updated: 2025-11-20T23:13:53Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13913,7 +13913,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Gold exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:15Z
+  Updated: 2025-11-20T23:13:54Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13982,7 +13982,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Levender exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-levender-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:17Z
+  Updated: 2025-11-20T23:13:55Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -14051,7 +14051,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Black exclusive at The Tablecloth](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:19Z
+  Updated: 2025-11-20T23:13:55Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -14119,8 +14119,8 @@
   - [70 Square](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-black-the-tablecloth-store?variant=46843031257313)
     Availability: Available
     Price: $74.99 USD
-- [Red Vails Brocade Velvet - Custom Tablecloths](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-red-the-tablecloth-store): Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:17:21Z
+- [Red Vails Brocade Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-red-the-tablecloth-store): Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:13:56Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -14189,7 +14189,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Dusty Rose exclusive at The Tablecloth](https://thetableclothstore.com/products/soft-velvet-tablecloth-dusty-rose-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:23Z
+  Updated: 2025-11-20T23:13:57Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -14257,8 +14257,8 @@
   - [70 Square](https://thetableclothstore.com/products/soft-velvet-tablecloth-dusty-rose-the-tablecloth-store?variant=46843032666337)
     Availability: Available
     Price: $74.99 USD
-- [Blush Vails Brocade Velvet - Custom Tablecloths](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-blush-the-tablecloth-store): Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:17:25Z
+- [Blush Vails Brocade Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-blush-the-tablecloth-store): Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:13:58Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -14327,7 +14327,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Lilac exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-lilac-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:28Z
+  Updated: 2025-11-20T23:13:58Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -14396,7 +14396,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Russet exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-russet-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:29Z
+  Updated: 2025-11-20T23:13:59Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -14465,7 +14465,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Champagne exclusive at The](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-champagne-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:31Z
+  Updated: 2025-11-20T23:14:00Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -14534,7 +14534,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Forest exclusive at The Tablecloth](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-forest-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:33Z
+  Updated: 2025-11-20T23:14:00Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -14603,7 +14603,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Silver exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:36Z
+  Updated: 2025-11-20T23:14:01Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -14672,7 +14672,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Gold exclusive at The Tablecloth](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:38Z
+  Updated: 2025-11-20T23:14:02Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -14741,7 +14741,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Mauve exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-mauve-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:39Z
+  Updated: 2025-11-20T23:14:02Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -14810,7 +14810,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Ice Blue exclusive at The](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-ice-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:41Z
+  Updated: 2025-11-20T23:14:03Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -14879,7 +14879,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Seafoam exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-seafoam-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:44Z
+  Updated: 2025-11-20T23:14:04Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -14948,7 +14948,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Ivory exclusive at The Tablecloth](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:47Z
+  Updated: 2025-11-20T23:14:04Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -15016,8 +15016,8 @@
   - [70 Square](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-ivory-the-tablecloth-store?variant=46843040432353)
     Availability: Available
     Price: $74.99 USD
-- [Soft Green SWEDAN Soft Velvet - Custom Tablecloths](https://thetableclothstore.com/products/soft-velvet-tablecloth-soft-green-the-tablecloth-store): Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:17:50Z
+- [Soft Green SWEDAN Soft Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/soft-velvet-tablecloth-soft-green-the-tablecloth-store): Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:14:05Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -15086,7 +15086,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Navy exclusive at The Tablecloth](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:53Z
+  Updated: 2025-11-20T23:14:06Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -15155,7 +15155,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Malaga exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-malaga-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:55Z
+  Updated: 2025-11-20T23:14:06Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -15224,7 +15224,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Burgundy exclusive at The](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-burgundy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:17:57Z
+  Updated: 2025-11-20T23:14:07Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -15292,8 +15292,8 @@
   - [70 Square](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-burgundy-the-tablecloth-store?variant=46843043283169)
     Availability: Available
     Price: $74.99 USD
-- [White SWEDAN Soft Velvet - Custom Tablecloths](https://thetableclothstore.com/products/soft-velvet-tablecloth-white-the-tablecloth-store): Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:17:59Z
+- [White SWEDAN Soft Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/soft-velvet-tablecloth-white-the-tablecloth-store): Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:14:08Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -15362,7 +15362,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Olive exclusive at The Tablecloth](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-olive-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:18:01Z
+  Updated: 2025-11-20T23:14:09Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -15431,7 +15431,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Navy exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:18:03Z
+  Updated: 2025-11-20T23:14:09Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -15499,8 +15499,8 @@
   - [70 Square](https://thetableclothstore.com/products/shiny-velvet-tablecloth-navy-the-tablecloth-store?variant=46843045347553)
     Availability: Available
     Price: $74.99 USD
-- [SWEDAN Soft Velvet - Custom Tablecloths](https://thetableclothstore.com/products/soft-velvet-tablecloth-brass-the-tablecloth-store): Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:18:04Z
+- [SWEDAN Soft Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/soft-velvet-tablecloth-brass-the-tablecloth-store): Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:14:10Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -15569,7 +15569,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - White exclusive at The Tablecloth](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:18:07Z
+  Updated: 2025-11-20T23:14:11Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -15638,7 +15638,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Olive exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-olive-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:18:09Z
+  Updated: 2025-11-20T23:14:12Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -15707,7 +15707,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Plum exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-plum-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:18:11Z
+  Updated: 2025-11-20T23:14:12Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -15776,7 +15776,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Rust exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-rust-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:18:13Z
+  Updated: 2025-11-20T23:14:13Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -15845,7 +15845,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Seafoam exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-seafoam-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:18:15Z
+  Updated: 2025-11-20T23:14:14Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -15913,8 +15913,8 @@
   - [70 Square](https://thetableclothstore.com/products/shiny-velvet-tablecloth-seafoam-the-tablecloth-store?variant=46843049705697)
     Availability: Available
     Price: $74.99 USD
-- [Silver Shiny Velveteen - Custom Tablecloths](https://thetableclothstore.com/products/shiny-velvet-tablecloth-silver-the-tablecloth-store): Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:18:17Z
+- [Silver Shiny Velveteen Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/shiny-velvet-tablecloth-silver-the-tablecloth-store): Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:14:15Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -15983,7 +15983,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Soft Green exclusive at The Tablecloth](https://thetableclothstore.com/products/shiny-velvet-tablecloth-soft-green-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:18:19Z
+  Updated: 2025-11-20T23:14:15Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -16052,7 +16052,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Tiffany exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-tiffany-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:18:21Z
+  Updated: 2025-11-20T23:14:16Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -16121,7 +16121,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Wine exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-wine-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:14:58Z
+  Updated: 2025-11-20T23:14:17Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -16190,7 +16190,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Blush exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-blush-the-tablecloth-store-1): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:07:04Z
+  Updated: 2025-11-20T23:14:18Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -16294,8 +16294,8 @@
   - [108 Square](https://thetableclothstore.com/products/soft-velvet-tablecloth-blush-the-tablecloth-store-1?variant=46822858424545)
     Availability: Available
     Price: $109.99 USD
-- [Black NEWPORT118 Soft Velvet - Custom Tablecloths](https://thetableclothstore.com/products/soft-velvet-tablecloth-black-the-tablecloth-store-1): Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:07:08Z
+- [Black NEWPORT118 Soft Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/soft-velvet-tablecloth-black-the-tablecloth-store-1): Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:14:18Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -16400,7 +16400,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Brick exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-brick-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:07:12Z
+  Updated: 2025-11-20T23:14:19Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -16505,7 +16505,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Baby Blue exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-baby-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:07:16Z
+  Updated: 2025-11-20T23:14:20Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -16610,7 +16610,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Ivory exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-ivory-the-tablecloth-store-1): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:07:19Z
+  Updated: 2025-11-20T23:14:21Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -16715,7 +16715,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Hunter exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-hunter-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:07:23Z
+  Updated: 2025-11-20T23:14:21Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -16820,7 +16820,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Maroon exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-maroon-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:07:27Z
+  Updated: 2025-11-20T23:14:29Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -16925,7 +16925,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Eggshell exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-eggshell-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:07:31Z
+  Updated: 2025-11-20T23:14:30Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17030,7 +17030,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Silver exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-silver-the-tablecloth-store-1): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:07:35Z
+  Updated: 2025-11-20T23:14:31Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17135,7 +17135,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Olive exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-olive-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:07:38Z
+  Updated: 2025-11-20T23:14:31Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17239,8 +17239,8 @@
   - [108 Square](https://thetableclothstore.com/products/soft-velvet-tablecloth-olive-the-tablecloth-store?variant=46822868582625)
     Availability: Available
     Price: $109.99 USD
-- [Mauve NEWPORT118 Soft Velvet - Custom Tablecloths](https://thetableclothstore.com/products/soft-velvet-tablecloth-mauve-the-tablecloth-store): Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:07:43Z
+- [Mauve NEWPORT118 Soft Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/soft-velvet-tablecloth-mauve-the-tablecloth-store): Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:14:32Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17345,7 +17345,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - White exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-white-the-tablecloth-store-1): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:07:46Z
+  Updated: 2025-11-20T23:14:33Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17450,7 +17450,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Navy exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-navy-the-tablecloth-store-1): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:07:50Z
+  Updated: 2025-11-20T23:14:34Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17555,7 +17555,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Royal exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-royal-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:07:54Z
+  Updated: 2025-11-20T23:14:34Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17660,7 +17660,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Roseet exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-roseet-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:07:57Z
+  Updated: 2025-11-20T23:14:35Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17764,8 +17764,8 @@
   - [108 Square](https://thetableclothstore.com/products/soft-velvet-tablecloth-roseet-the-tablecloth-store?variant=46822875693281)
     Availability: Available
     Price: $109.99 USD
-- [Soft Green NEWPORT118 Soft Velvet - Custom Tablecloths](https://thetableclothstore.com/products/soft-velvet-tablecloth-soft-green-the-tablecloth-store-1): Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:08:01Z
+- [Soft Green NEWPORT118 Soft Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/soft-velvet-tablecloth-soft-green-the-tablecloth-store-1): Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:14:36Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17870,7 +17870,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Wedgwood exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-wedgwood-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:08:05Z
+  Updated: 2025-11-20T23:14:36Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17975,7 +17975,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Amber exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-amber-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:08:09Z
+  Updated: 2025-11-20T23:14:37Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18080,7 +18080,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Aqua exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-aqua-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:08:13Z
+  Updated: 2025-11-20T23:14:38Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18185,7 +18185,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Antique White exclusive at The Tablecloth](https://thetableclothstore.com/products/soft-velvet-tablecloth-antique-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:08:16Z
+  Updated: 2025-11-20T23:14:39Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18290,7 +18290,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Cinnamon exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-cinnamon-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:08:20Z
+  Updated: 2025-11-20T23:14:39Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18395,7 +18395,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Lime exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-lime-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:08:24Z
+  Updated: 2025-11-20T23:14:40Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18500,7 +18500,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Deer exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-deer-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:08:28Z
+  Updated: 2025-11-20T23:14:41Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18605,7 +18605,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Grass exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-grass-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:08:32Z
+  Updated: 2025-11-20T23:14:41Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18710,7 +18710,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Loden Green exclusive at The Tablecloth](https://thetableclothstore.com/products/soft-velvet-tablecloth-loden-green-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:08:35Z
+  Updated: 2025-11-20T23:14:42Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18815,7 +18815,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Mint exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-mint-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:08:39Z
+  Updated: 2025-11-20T23:14:43Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18920,7 +18920,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Purple exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-purple-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:08:43Z
+  Updated: 2025-11-20T23:14:44Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -19025,7 +19025,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Paprika exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-paprika-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:08:47Z
+  Updated: 2025-11-20T23:14:44Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -19130,7 +19130,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Tulip exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-tulip-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:08:51Z
+  Updated: 2025-11-20T23:14:45Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -19235,7 +19235,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Catch Jacquard - Tablecloth - Silver exclusive at The Tablecloth Store](https://thetableclothstore.com/products/catch-jacquard-tablecloth-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 110" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:14:33Z
+  Updated: 2025-11-20T23:14:46Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -19340,7 +19340,7 @@
     Availability: Available
     Price: $129.99 USD
 - [Catch Jacquard - Tablecloth - Ivory exclusive at The Tablecloth Store](https://thetableclothstore.com/products/catch-jacquard-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 110" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:14:35Z
+  Updated: 2025-11-20T23:14:46Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -19444,8 +19444,8 @@
   - [108 Square](https://thetableclothstore.com/products/catch-jacquard-tablecloth-ivory-the-tablecloth-store?variant=46829274038497)
     Availability: Available
     Price: $129.99 USD
-- [Onyx Catch Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/catch-jacquard-tablecloth-onyx-the-tablecloth-store): Fabric: Jacquard Width: 110" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:14:36Z
+- [Onyx Catch Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/catch-jacquard-tablecloth-onyx-the-tablecloth-store): Fabric: Jacquard Width: 110" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:14:47Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -19550,7 +19550,7 @@
     Availability: Available
     Price: $129.99 USD
 - [Catch Jacquard - Tablecloth - Ebony exclusive at The Tablecloth Store](https://thetableclothstore.com/products/catch-jacquard-tablecloth-ebony-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 110" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:14:38Z
+  Updated: 2025-11-20T23:14:47Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -19654,8 +19654,8 @@
   - [108 Square](https://thetableclothstore.com/products/catch-jacquard-tablecloth-ebony-the-tablecloth-store?variant=46829276266721)
     Availability: Available
     Price: $129.99 USD
-- [White Gastonia Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/gastonia-jacquard-tablecloth-white-the-tablecloth-store): Fabric: Jacquard Width: 110" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:09:23Z
+- [White Gastonia Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/gastonia-jacquard-tablecloth-white-the-tablecloth-store): Fabric: Jacquard Width: 110" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:14:48Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -19760,7 +19760,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Gastonia Jacquard - Tablecloth - Beige exclusive at The Tablecloth](https://thetableclothstore.com/products/gastonia-jacquard-tablecloth-beige-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 110" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:09:25Z
+  Updated: 2025-11-20T23:14:48Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -19865,7 +19865,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Gastonia Jacquard - Tablecloth - Champagne exclusive at The Tablecloth](https://thetableclothstore.com/products/gastonia-jacquard-tablecloth-champagne-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 110" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:09:27Z
+  Updated: 2025-11-20T23:14:49Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -19970,7 +19970,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Gastonia Jacquard - Tablecloth - Blush exclusive at The Tablecloth](https://thetableclothstore.com/products/gastonia-jacquard-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 110" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:09:29Z
+  Updated: 2025-11-20T23:14:49Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -20075,7 +20075,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Gastonia Jacquard - Tablecloth - Gold exclusive at The Tablecloth](https://thetableclothstore.com/products/gastonia-jacquard-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 110" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:09:32Z
+  Updated: 2025-11-20T23:14:50Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -20180,7 +20180,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Gastonia Jacquard - Tablecloth - Silver exclusive at The Tablecloth](https://thetableclothstore.com/products/gastonia-jacquard-tablecloth-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 110" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:09:34Z
+  Updated: 2025-11-20T23:14:50Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -20285,7 +20285,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Gastonia Jacquard - Tablecloth - Blue exclusive at The Tablecloth](https://thetableclothstore.com/products/gastonia-jacquard-tablecloth-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 110" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:09:36Z
+  Updated: 2025-11-20T23:14:51Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -20390,7 +20390,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Starlight Metallic - Tablecloth - Blue exclusive at The Tablecloth](https://thetableclothstore.com/products/starlight-metallic-tablecloth-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Metallic Width: 118" Fabric Content: 95% polyester, 5% Lurex. Description
-  Updated: 2025-11-19T22:12:40Z
+  Updated: 2025-11-20T23:14:51Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -20495,7 +20495,7 @@
     Availability: Available
     Price: $149.99 USD
 - [Starlight Metallic - Tablecloth - Blush exclusive at The Tablecloth](https://thetableclothstore.com/products/starlight-metallic-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Metallic Width: 118" Fabric Content: 95% polyester, 5% Lurex. Description
-  Updated: 2025-11-19T22:12:41Z
+  Updated: 2025-11-20T23:14:52Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -20600,7 +20600,7 @@
     Availability: Available
     Price: $149.99 USD
 - [Starlight Metallic - Tablecloth - Champagne exclusive at The](https://thetableclothstore.com/products/starlight-metallic-tablecloth-champagne-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Metallic Width: 118" Fabric Content: 95% polyester, 5% Lurex. Description
-  Updated: 2025-11-19T22:12:44Z
+  Updated: 2025-11-20T23:14:53Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -20705,7 +20705,7 @@
     Availability: Available
     Price: $149.99 USD
 - [CHRISMA Jacquard - Tablecloth - Beige exclusive at The Tablecloth](https://thetableclothstore.com/products/chrisma-jacquard-tablecloth-beige-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:31Z
+  Updated: 2025-11-20T23:14:53Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -20810,7 +20810,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Starlight Metallic - Tablecloth - Mint exclusive at The Tablecloth](https://thetableclothstore.com/products/starlight-metallic-tablecloth-mint-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Metallic Width: 118" Fabric Content: 95% polyester, 5% Lurex. Description
-  Updated: 2025-11-19T22:12:48Z
+  Updated: 2025-11-20T23:14:54Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -20915,7 +20915,7 @@
     Availability: Available
     Price: $149.99 USD
 - [Starlight Metallic - Tablecloth - White exclusive at The Tablecloth](https://thetableclothstore.com/products/starlight-metallic-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Metallic Width: 118" Fabric Content: 95% polyester, 5% Lurex. Description
-  Updated: 2025-11-19T22:12:52Z
+  Updated: 2025-11-20T23:14:54Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -21019,8 +21019,8 @@
   - [108 Square](https://thetableclothstore.com/products/starlight-metallic-tablecloth-white-the-tablecloth-store?variant=46823503495393)
     Availability: Available
     Price: $149.99 USD
-- [Gold CHRISMA Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/chrisma-jacquard-tablecloth-gold-the-tablecloth-store): Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:11:34Z
+- [Gold CHRISMA Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/chrisma-jacquard-tablecloth-gold-the-tablecloth-store): Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:14:55Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -21125,7 +21125,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Starlight Metallic - Tablecloth - Ivory exclusive at The Tablecloth](https://thetableclothstore.com/products/starlight-metallic-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Metallic Width: 118" Fabric Content: 95% polyester, 5% Lurex. Description
-  Updated: 2025-11-19T22:12:57Z
+  Updated: 2025-11-20T23:14:55Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -21230,7 +21230,7 @@
     Availability: Available
     Price: $149.99 USD
 - [CHRISMA Jacquard - Tablecloth - Onyx exclusive at The Tablecloth Store](https://thetableclothstore.com/products/chrisma-jacquard-tablecloth-onyx-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:35Z
+  Updated: 2025-11-20T23:14:55Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -21335,7 +21335,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Starlight Metallic - Tablecloth - Grey exclusive at The Tablecloth](https://thetableclothstore.com/products/starlight-metallic-tablecloth-grey-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Metallic Width: 118" Fabric Content: 95% polyester, 5% Lurex. Description
-  Updated: 2025-11-19T22:12:59Z
+  Updated: 2025-11-20T23:14:56Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -21440,7 +21440,7 @@
     Availability: Available
     Price: $149.99 USD
 - [CHRISMA Jacquard - Tablecloth - Pink exclusive at The Tablecloth Store](https://thetableclothstore.com/products/chrisma-jacquard-tablecloth-pink-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:38Z
+  Updated: 2025-11-20T23:14:56Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -21545,7 +21545,7 @@
     Availability: Available
     Price: $165.99 USD
 - [CHRISMA Jacquard - Tablecloth - Grass exclusive at The Tablecloth](https://thetableclothstore.com/products/chrisma-jacquard-tablecloth-grass-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:39Z
+  Updated: 2025-11-20T23:14:57Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -21650,7 +21650,7 @@
     Availability: Available
     Price: $165.99 USD
 - [CHRISMA Jacquard - Tablecloth - Grey exclusive at The Tablecloth Store](https://thetableclothstore.com/products/chrisma-jacquard-tablecloth-grey-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:42Z
+  Updated: 2025-11-20T23:14:57Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -21755,7 +21755,7 @@
     Availability: Available
     Price: $165.99 USD
 - [CHRISMA Jacquard - Tablecloth - White exclusive at The Tablecloth](https://thetableclothstore.com/products/chrisma-jacquard-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:44Z
+  Updated: 2025-11-20T23:14:58Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -21860,7 +21860,7 @@
     Availability: Available
     Price: $165.99 USD
 - [CHRISMA Jacquard - Tablecloth - Purple exclusive at The Tablecloth](https://thetableclothstore.com/products/chrisma-jacquard-tablecloth-purple-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:46Z
+  Updated: 2025-11-20T23:14:59Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -21964,7 +21964,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Mumbai Sparkling Jacquard - Tablecloth - White exclusive at The](https://thetableclothstore.com/products/mumbai-sparkling-jacquard-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:13:02Z
+  Updated: 2025-11-20T23:14:59Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -22069,7 +22069,7 @@
     Availability: Available
     Price: $149.99 USD
 - [Mumbai Sparkling Jacquard - Tablecloth - Blue exclusive at The](https://thetableclothstore.com/products/mumbai-sparkling-jacquard-tablecloth-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:13:04Z
+  Updated: 2025-11-20T23:15:05Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -22174,7 +22174,7 @@
     Availability: Available
     Price: $149.99 USD
 - [Mumbai Sparkling Jacquard - Tablecloth - Grey exclusive at The](https://thetableclothstore.com/products/mumbai-sparkling-jacquard-tablecloth-grey-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:13:06Z
+  Updated: 2025-11-20T23:15:06Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -22279,7 +22279,7 @@
     Availability: Available
     Price: $149.99 USD
 - [Mumbai Sparkling Jacquard - Tablecloth - Ivory exclusive at The](https://thetableclothstore.com/products/mumbai-sparkling-jacquard-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:13:08Z
+  Updated: 2025-11-20T23:15:06Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -22384,7 +22384,7 @@
     Availability: Available
     Price: $149.99 USD
 - [Mumbai Sparkling Jacquard - Tablecloth - Midnight exclusive at The](https://thetableclothstore.com/products/mumbai-sparkling-jacquard-tablecloth-midnight-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:13:09Z
+  Updated: 2025-11-20T23:15:07Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -22489,7 +22489,7 @@
     Availability: Available
     Price: $149.99 USD
 - [FALLEN LEAVES Jacquard Leave Print - Tablecloth - Black exclusive at](https://thetableclothstore.com/products/fallen-leaves-jacquard-leave-print-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:14:40Z
+  Updated: 2025-11-20T23:15:07Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -22594,7 +22594,7 @@
     Availability: Available
     Price: $129.99 USD
 - [FOLIAGE Jacquard Leave Print - Tablecloth - Black exclusive at The](https://thetableclothstore.com/products/foliage-jacquard-leave-print-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:14:45Z
+  Updated: 2025-11-20T23:15:08Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -22699,7 +22699,7 @@
     Availability: Available
     Price: $129.99 USD
 - [FOLIAGE Jacquard Leave Print - Tablecloth - Gold exclusive at The](https://thetableclothstore.com/products/foliage-jacquard-leave-print-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:14:47Z
+  Updated: 2025-11-20T23:15:08Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -22804,7 +22804,7 @@
     Availability: Available
     Price: $129.99 USD
 - [Gold MILANO Jacquard Print Metallic Marbleized - Custom Tablecloths - The Tablecloth Store](https://thetableclothstore.com/products/milano-jacquard-print-metallic-marbleized-tablecloth-black-gold-the-tablecloth-store): Fabric: Jacquard Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam - The Tablecloth Store
-  Updated: 2025-11-19T22:13:56Z
+  Updated: 2025-11-20T23:15:09Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -22909,7 +22909,7 @@
     Availability: Available
     Price: $149.99 USD
 - [Beige MILANO Jacquard Print Metallic Marbleized - Custom Tablecloths - The Tablecloth Store](https://thetableclothstore.com/products/milano-jacquard-print-metallic-marbleized-tablecloth-beige-the-tablecloth-store): Fabric: Jacquard Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam - The Tablecloth Store
-  Updated: 2025-11-19T22:13:58Z
+  Updated: 2025-11-20T23:15:10Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -23014,7 +23014,7 @@
     Availability: Available
     Price: $149.99 USD
 - [Gray MILANO Jacquard Print Metallic Marbleized - Custom Tablecloths - The Tablecloth Store](https://thetableclothstore.com/products/milano-jacquard-print-metallic-marbleized-tablecloth-grey-the-tablecloth-store): Fabric: Jacquard Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam - The Tablecloth Store
-  Updated: 2025-11-19T22:13:59Z
+  Updated: 2025-11-20T23:15:10Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -23119,7 +23119,7 @@
     Availability: Available
     Price: $149.99 USD
 - [Onyx MILANO Jacquard Print Metallic Marbleized - Custom Tablecloths - The Tablecloth Store](https://thetableclothstore.com/products/milano-jacquard-print-metallic-marbleized-tablecloth-onyx-the-tablecloth-store): Fabric: Jacquard Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam - The Tablecloth Store
-  Updated: 2025-11-19T22:14:01Z
+  Updated: 2025-11-20T23:15:11Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -23224,7 +23224,7 @@
     Availability: Available
     Price: $149.99 USD
 - [PALMS Jacquard Palm Tree Print - Tablecloth - Green exclusive at The](https://thetableclothstore.com/products/palms-jacquard-palm-tree-print-tablecloth-green-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:14:48Z
+  Updated: 2025-11-20T23:15:11Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -23329,7 +23329,7 @@
     Availability: Available
     Price: $129.99 USD
 - [PALMS Jacquard Palm Tree Print - Tablecloth - Natural exclusive at The](https://thetableclothstore.com/products/palms-jacquard-palm-tree-print-tablecloth-natural-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:14:50Z
+  Updated: 2025-11-20T23:15:12Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -23434,7 +23434,7 @@
     Availability: Available
     Price: $129.99 USD
 - [Turquoise MILANO Jacquard Print Metallic Marbleized - Custom Tablecloths - The Tablecloth Store](https://thetableclothstore.com/products/milano-jacquard-print-metallic-marbleized-tablecloth-turquoise-the-tablecloth-store): Fabric: Jacquard Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam - The Tablecloth Store
-  Updated: 2025-11-19T22:14:03Z
+  Updated: 2025-11-20T23:15:12Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -23539,7 +23539,7 @@
     Availability: Available
     Price: $149.99 USD
 - [MILANO Jacquard Print Metallic Marbleized - Custom Tablecloths - The Tablecloth Store](https://thetableclothstore.com/products/milano-jacquard-print-metallic-marbleized-tablecloth-aqua-the-tablecloth-store): Fabric: Jacquard Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam - The Tablecloth Store
-  Updated: 2025-11-19T22:14:04Z
+  Updated: 2025-11-20T23:15:13Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -23644,7 +23644,7 @@
     Availability: Available
     Price: $149.99 USD
 - [POPPY Jacquard Tulip Print - Tablecloth - Brown exclusive at The](https://thetableclothstore.com/products/poppy-jacquard-tulip-print-tablecloth-brown-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:09:38Z
+  Updated: 2025-11-20T23:15:13Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -23749,7 +23749,7 @@
     Availability: Available
     Price: $129.99 USD
 - [POPPY Jacquard Tulip Print - Tablecloth - Light Blue exclusive at The](https://thetableclothstore.com/products/poppy-jacquard-tulip-print-tablecloth-light-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:14:52Z
+  Updated: 2025-11-20T23:15:14Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -23854,7 +23854,7 @@
     Availability: Available
     Price: $129.99 USD
 - [ASTER Floral Digital Print Metallic - Tablecloth - Plum exclusive at](https://thetableclothstore.com/products/aster-floral-digital-print-metallic-tablecloth-plum-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:09Z
+  Updated: 2025-11-20T23:15:15Z
   Vendor: The Tablecloth Store
   Product Type: Digital Print Fabric
   Availability: Available
@@ -23908,7 +23908,7 @@
     Availability: Available
     Price: $147.99 USD
 - [ASTER Floral Digital Print Metallic - Tablecloth - Mauve exclusive at](https://thetableclothstore.com/products/aster-floral-digital-print-metallic-tablecloth-mauve-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:10Z
+  Updated: 2025-11-20T23:15:15Z
   Vendor: The Tablecloth Store
   Product Type: Digital Print Fabric
   Availability: Available
@@ -23961,8 +23961,8 @@
   - [108 Square](https://thetableclothstore.com/products/aster-floral-digital-print-metallic-tablecloth-mauve-the-tablecloth-store?variant=46482236408033)
     Availability: Available
     Price: $147.99 USD
-- [Green ASTER Floral Digital Print Metallic - Custom Tablecloths](https://thetableclothstore.com/products/aster-floral-digital-print-metallic-tablecloth-green-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:04:11Z
+- [Green ASTER Floral Digital Print Metallic Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/aster-floral-digital-print-metallic-tablecloth-green-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:16Z
   Vendor: The Tablecloth Store
   Product Type: Digital Print Fabric
   Availability: Available
@@ -24016,7 +24016,7 @@
     Availability: Available
     Price: $147.99 USD
 - [LILY Digital Print - Tablecloth - Blue exclusive at The Tablecloth](https://thetableclothstore.com/products/lily-digital-print-tablecloth-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:12Z
+  Updated: 2025-11-20T23:15:21Z
   Vendor: The Tablecloth Store
   Product Type: Digital Print Fabric
   Availability: Available
@@ -24070,7 +24070,7 @@
     Availability: Available
     Price: $147.99 USD
 - [LILY Digital Print - Tablecloth - Mauve exclusive at The Tablecloth](https://thetableclothstore.com/products/lily-digital-print-tablecloth-mauve-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:13Z
+  Updated: 2025-11-20T23:15:21Z
   Vendor: The Tablecloth Store
   Product Type: Digital Print Fabric
   Availability: Available
@@ -24124,7 +24124,7 @@
     Availability: Available
     Price: $147.99 USD
 - [PARROT Digital Print - Tablecloth - Blue exclusive at The Tablecloth](https://thetableclothstore.com/products/parrot-digital-print-tablecloth-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:14Z
+  Updated: 2025-11-20T23:15:22Z
   Vendor: The Tablecloth Store
   Product Type: Digital Print Fabric
   Availability: Available
@@ -24177,8 +24177,8 @@
   - [108 Square](https://thetableclothstore.com/products/parrot-digital-print-tablecloth-blue-the-tablecloth-store?variant=46482238865633)
     Availability: Available
     Price: $147.99 USD
-- [Mint PARROT Digital Print - Custom Tablecloths](https://thetableclothstore.com/products/parrot-digital-print-tablecloth-mint-the-tablecloth-store): Fabric: Digital Print Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:04:14Z
+- [Mint PARROT Digital Print Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/parrot-digital-print-tablecloth-mint-the-tablecloth-store): Fabric: Digital Print Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:22Z
   Vendor: The Tablecloth Store
   Product Type: Digital Print Fabric
   Availability: Available
@@ -24232,7 +24232,7 @@
     Availability: Available
     Price: $147.99 USD
 - [SPRING GARDEN Floral Digital Print - Tablecloth - Black exclusive at](https://thetableclothstore.com/products/spring-garden-floral-digital-print-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:13:11Z
+  Updated: 2025-11-20T23:15:23Z
   Vendor: The Tablecloth Store
   Product Type: Digital Print Fabric
   Availability: Available
@@ -24337,7 +24337,7 @@
     Availability: Available
     Price: $149.99 USD
 - [SPRING GARDEN Floral Digital Print - Tablecloth - Blue exclusive at](https://thetableclothstore.com/products/spring-garden-floral-digital-print-tablecloth-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:13:13Z
+  Updated: 2025-11-20T23:15:24Z
   Vendor: The Tablecloth Store
   Product Type: Digital Print Fabric
   Availability: Available
@@ -24442,7 +24442,7 @@
     Availability: Available
     Price: $149.99 USD
 - [SPRING GARDEN Floral Digital Print - Tablecloth - Fuchsia exclusive at](https://thetableclothstore.com/products/spring-garden-floral-digital-print-tablecloth-fuchsia-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:13:14Z
+  Updated: 2025-11-20T23:15:24Z
   Vendor: The Tablecloth Store
   Product Type: Digital Print Fabric
   Availability: Available
@@ -24547,7 +24547,7 @@
     Availability: Available
     Price: $149.99 USD
 - [SPRING GARDEN Floral Digital Print - Tablecloth - Gold-Lilac exclusive](https://thetableclothstore.com/products/spring-garden-floral-digital-print-tablecloth-gold-lilac-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:13:16Z
+  Updated: 2025-11-20T23:15:25Z
   Vendor: The Tablecloth Store
   Product Type: Digital Print Fabric
   Availability: Available
@@ -24651,8 +24651,8 @@
   - [108 Square](https://thetableclothstore.com/products/spring-garden-floral-digital-print-tablecloth-gold-lilac-the-tablecloth-store?variant=46823517683937)
     Availability: Available
     Price: $149.99 USD
-- [Green SPRING GARDEN Floral Digital Print - Custom Tablecloths](https://thetableclothstore.com/products/spring-garden-floral-digital-print-tablecloth-purple-green-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:13:18Z
+- [Green SPRING GARDEN Floral Digital Print Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/spring-garden-floral-digital-print-tablecloth-purple-green-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:25Z
   Vendor: The Tablecloth Store
   Product Type: Digital Print Fabric
   Availability: Available
@@ -24757,7 +24757,7 @@
     Availability: Available
     Price: $149.99 USD
 - [SPRING GARDEN Floral Digital Print - Tablecloth - Red exclusive at The](https://thetableclothstore.com/products/spring-garden-floral-digital-print-tablecloth-red-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:13:19Z
+  Updated: 2025-11-20T23:15:26Z
   Vendor: The Tablecloth Store
   Product Type: Digital Print Fabric
   Availability: Available
@@ -24861,8 +24861,8 @@
   - [108 Square](https://thetableclothstore.com/products/spring-garden-floral-digital-print-tablecloth-red-the-tablecloth-store?variant=46823520174305)
     Availability: Available
     Price: $149.99 USD
-- [Black FESTOON Floral Digital Print - Custom Tablecloths](https://thetableclothstore.com/products/festoon-floral-digital-print-tablecloth-black-the-tablecloth-store): Fabric: Digital Print Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:04:15Z
+- [Black FESTOON Floral Digital Print Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/festoon-floral-digital-print-tablecloth-black-the-tablecloth-store): Fabric: Digital Print Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:26Z
   Vendor: The Tablecloth Store
   Product Type: Digital Print Fabric
   Availability: Available
@@ -24916,7 +24916,7 @@
     Availability: Available
     Price: $147.99 USD
 - [Marble Jacquard - Tablecloth - Copan exclusive at The Tablecloth Store](https://thetableclothstore.com/products/marble-jacquard-tablecloth-copan-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:10Z
+  Updated: 2025-11-20T23:15:27Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -24970,7 +24970,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Marble Jacquard - Tablecloth - White exclusive at The Tablecloth Store](https://thetableclothstore.com/products/marble-jacquard-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:11Z
+  Updated: 2025-11-20T23:15:28Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25023,8 +25023,8 @@
   - [108 Square](https://thetableclothstore.com/products/marble-jacquard-tablecloth-white-the-tablecloth-store?variant=46418422726881)
     Availability: Available
     Price: $166.99 USD
-- [Silver Stardust Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/stardust-metallic-jacquard-tablecloth-white-silver-the-tablecloth-store): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:19Z
+- [Silver Stardust Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/stardust-metallic-jacquard-tablecloth-white-silver-the-tablecloth-store): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:28Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25078,7 +25078,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Stardust Metallic Jacquard - Tablecloth - Grey-Silver exclusive at The](https://thetableclothstore.com/products/stardust-metallic-jacquard-tablecloth-grey-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:02:20Z
+  Updated: 2025-11-20T23:15:29Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25131,8 +25131,8 @@
   - [108 Square](https://thetableclothstore.com/products/stardust-metallic-jacquard-tablecloth-grey-silver-the-tablecloth-store?variant=46418278678753)
     Availability: Available
     Price: $136.99 USD
-- [White Portland Hight's Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/portland-hights-jacquard-tablecloth-white-the-tablecloth-store): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:12Z
+- [White Portland Hight's Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/portland-hights-jacquard-tablecloth-white-the-tablecloth-store): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:29Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25186,7 +25186,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Stardust Metallic Jacquard - Tablecloth - Ivory exclusive at The](https://thetableclothstore.com/products/stardust-metallic-jacquard-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:02:21Z
+  Updated: 2025-11-20T23:15:30Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25240,7 +25240,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Portland Hight's Jacquard - Tablecloth - Ivory exclusive at The](https://thetableclothstore.com/products/portland-hights-jacquard-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:13Z
+  Updated: 2025-11-20T23:15:30Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25294,7 +25294,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Stardust Metallic Jacquard - Tablecloth - Teal exclusive at The](https://thetableclothstore.com/products/stardust-metallic-jacquard-tablecloth-teal-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:02:22Z
+  Updated: 2025-11-20T23:15:31Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25348,7 +25348,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Portland Hight's Jacquard - Tablecloth - Blush exclusive at The](https://thetableclothstore.com/products/portland-hights-jacquard-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:14Z
+  Updated: 2025-11-20T23:15:31Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25402,7 +25402,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Portland Hight's Jacquard - Tablecloth - Mocha exclusive at The](https://thetableclothstore.com/products/portland-hights-jacquard-tablecloth-mocha-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:15Z
+  Updated: 2025-11-20T23:15:32Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25456,7 +25456,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Stardust Metallic Jacquard - Tablecloth - Green exclusive at The](https://thetableclothstore.com/products/stardust-metallic-jacquard-tablecloth-green-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:02:23Z
+  Updated: 2025-11-20T23:15:32Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25509,8 +25509,8 @@
   - [108 Square](https://thetableclothstore.com/products/stardust-metallic-jacquard-tablecloth-green-the-tablecloth-store?variant=46418280251617)
     Availability: Available
     Price: $136.99 USD
-- [Beige Portland Jacquard  - Custom Tablecloths](https://thetableclothstore.com/products/portland-jacquard-tablecloth-beige-the-tablecloth-store): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:17Z
+- [Beige Portland Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/portland-jacquard-tablecloth-beige-the-tablecloth-store): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:33Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25564,7 +25564,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Portland Hight's Jacquard - Tablecloth - Sky Blue exclusive at The](https://thetableclothstore.com/products/portland-hights-jacquard-tablecloth-sky-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:18Z
+  Updated: 2025-11-20T23:15:34Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25617,8 +25617,8 @@
   - [108 Square](https://thetableclothstore.com/products/portland-hights-jacquard-tablecloth-sky-blue-the-tablecloth-store?variant=46418426101985)
     Availability: Available
     Price: $166.99 USD
-- [Burgundy Stardust Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/stardust-metallic-jacquard-tablecloth-burgundy-the-tablecloth-store): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:24Z
+- [Burgundy Stardust Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/stardust-metallic-jacquard-tablecloth-burgundy-the-tablecloth-store): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:34Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25672,7 +25672,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Portland Jacquard  - Tablecloth - Magenta exclusive at The Tablecloth](https://thetableclothstore.com/products/portland-jacquard-tablecloth-magenta-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:19Z
+  Updated: 2025-11-20T23:15:34Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25726,7 +25726,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Portland Hight's Jacquard - Tablecloth - Cloud Blue exclusive at The](https://thetableclothstore.com/products/portland-hights-jacquard-tablecloth-cloud-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:20Z
+  Updated: 2025-11-20T23:15:35Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25780,7 +25780,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Stardust Metallic Jacquard - Tablecloth - Royal exclusive at The](https://thetableclothstore.com/products/stardust-metallic-jacquard-tablecloth-royal-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:02:25Z
+  Updated: 2025-11-20T23:15:36Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25834,7 +25834,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Portland Jacquard  - Tablecloth - Copan exclusive at The Tablecloth](https://thetableclothstore.com/products/portland-jacquard-tablecloth-copan-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:22Z
+  Updated: 2025-11-20T23:15:36Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25888,7 +25888,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Stardust Metallic Jacquard - Tablecloth - Brown exclusive at The](https://thetableclothstore.com/products/stardust-metallic-jacquard-tablecloth-brown-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:02:25Z
+  Updated: 2025-11-20T23:15:37Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25941,8 +25941,8 @@
   - [108 Square](https://thetableclothstore.com/products/stardust-metallic-jacquard-tablecloth-brown-the-tablecloth-store?variant=46418282217697)
     Availability: Available
     Price: $136.99 USD
-- [Onyx Delhi Metallic Flower Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/delhi-metallic-flower-jacquard-tablecloth-onyx-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:11:48Z
+- [Onyx Delhi Metallic Flower Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/delhi-metallic-flower-jacquard-tablecloth-onyx-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:37Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26047,7 +26047,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Portland Jacquard  - Tablecloth - Gold exclusive at The Tablecloth](https://thetableclothstore.com/products/portland-jacquard-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:24Z
+  Updated: 2025-11-20T23:15:38Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26101,7 +26101,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Stardust Metallic Jacquard - Tablecloth - Black exclusive at The](https://thetableclothstore.com/products/stardust-metallic-jacquard-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:02:27Z
+  Updated: 2025-11-20T23:15:38Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26154,8 +26154,8 @@
   - [108 Square](https://thetableclothstore.com/products/stardust-metallic-jacquard-tablecloth-black-the-tablecloth-store?variant=46418282741985)
     Availability: Available
     Price: $136.99 USD
-- [Gray Delhi Metallic Flower Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/delhi-metallic-flower-jacquard-tablecloth-grey-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:11:50Z
+- [Gray Delhi Metallic Flower Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/delhi-metallic-flower-jacquard-tablecloth-grey-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:39Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26260,7 +26260,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Portland Jacquard  - Tablecloth - Silver exclusive at The Tablecloth](https://thetableclothstore.com/products/portland-jacquard-tablecloth-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:25Z
+  Updated: 2025-11-20T23:15:40Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26314,7 +26314,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Delhi Metallic Flower Jacquard - Tablecloth - Midnight exclusive at](https://thetableclothstore.com/products/delhi-metallic-flower-jacquard-tablecloth-midnight-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:52Z
+  Updated: 2025-11-20T23:15:40Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26418,8 +26418,8 @@
   - [108 Square](https://thetableclothstore.com/products/delhi-metallic-flower-jacquard-tablecloth-midnight-the-tablecloth-store?variant=46823214711009)
     Availability: Available
     Price: $165.99 USD
-- [Blue Delhi Metallic Flower Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/delhi-metallic-flower-jacquard-tablecloth-blue-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:11:54Z
+- [Blue Delhi Metallic Flower Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/delhi-metallic-flower-jacquard-tablecloth-blue-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:41Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26523,8 +26523,8 @@
   - [108 Square](https://thetableclothstore.com/products/delhi-metallic-flower-jacquard-tablecloth-blue-the-tablecloth-store?variant=46823215792353)
     Availability: Available
     Price: $165.99 USD
-- [Taupe Portland Jacquard  - Custom Tablecloths](https://thetableclothstore.com/products/portland-jacquard-tablecloth-taupe-the-tablecloth-store): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:27Z
+- [Taupe Portland Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/portland-jacquard-tablecloth-taupe-the-tablecloth-store): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:41Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26578,7 +26578,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Delhi Metallic Flower Jacquard - Tablecloth - Antique White exclusive](https://thetableclothstore.com/products/delhi-metallic-flower-jacquard-tablecloth-antique-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:11:56Z
+  Updated: 2025-11-20T23:15:42Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26682,8 +26682,8 @@
   - [108 Square](https://thetableclothstore.com/products/delhi-metallic-flower-jacquard-tablecloth-antique-white-the-tablecloth-store?variant=46823216873697)
     Availability: Available
     Price: $165.99 USD
-- [Navy Delhi Metallic Flower Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/delhi-metallic-flower-jacquard-tablecloth-navy-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:11:58Z
+- [Navy Delhi Metallic Flower Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/delhi-metallic-flower-jacquard-tablecloth-navy-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:47Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26788,7 +26788,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Portland Jacquard  - Tablecloth - Blush exclusive at The Tablecloth](https://thetableclothstore.com/products/portland-jacquard-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:29Z
+  Updated: 2025-11-20T23:15:48Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26842,7 +26842,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Portland Jacquard  - Tablecloth - Grey exclusive at The Tablecloth](https://thetableclothstore.com/products/portland-jacquard-tablecloth-grey-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:30Z
+  Updated: 2025-11-20T23:15:48Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26896,7 +26896,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Portland Jacquard  - Tablecloth - Cloud Blue exclusive at The](https://thetableclothstore.com/products/portland-jacquard-tablecloth-cloud-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:32Z
+  Updated: 2025-11-20T23:15:49Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26950,7 +26950,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Portland Jacquard  - Tablecloth - Black-Gold exclusive at The](https://thetableclothstore.com/products/portland-jacquard-tablecloth-black-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:34Z
+  Updated: 2025-11-20T23:15:50Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -27004,7 +27004,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Allium Jacquard - Tablecloth - Gold exclusive at The Tablecloth Store](https://thetableclothstore.com/products/allium-jacquard-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:12:00Z
+  Updated: 2025-11-20T23:15:50Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -27109,7 +27109,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Allium Jacquard - Tablecloth - Navy exclusive at The Tablecloth Store](https://thetableclothstore.com/products/allium-jacquard-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:12:02Z
+  Updated: 2025-11-20T23:15:51Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -27213,8 +27213,8 @@
   - [108 Square](https://thetableclothstore.com/products/allium-jacquard-tablecloth-navy-the-tablecloth-store?variant=46823220183265)
     Availability: Available
     Price: $165.99 USD
-- [Off White Allium Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/allium-jacquard-tablecloth-off-white-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:12:04Z
+- [Off White Allium Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/allium-jacquard-tablecloth-off-white-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:51Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -27319,7 +27319,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Allium Jacquard - Tablecloth - Onyx exclusive at The Tablecloth Store](https://thetableclothstore.com/products/allium-jacquard-tablecloth-onyx-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:12:06Z
+  Updated: 2025-11-20T23:15:52Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -27423,8 +27423,8 @@
   - [108 Square](https://thetableclothstore.com/products/allium-jacquard-tablecloth-onyx-the-tablecloth-store?variant=46823222378721)
     Availability: Available
     Price: $165.99 USD
-- [Classic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/classic-jacquard-tablecloth-fucshia-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:35Z
+- [Classic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/classic-jacquard-tablecloth-fucshia-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:53Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -27478,7 +27478,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Classic Jacquard - Tablecloth - Green exclusive at The Tablecloth](https://thetableclothstore.com/products/classic-jacquard-tablecloth-green-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:36Z
+  Updated: 2025-11-20T23:15:53Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -27531,8 +27531,8 @@
   - [108 Square](https://thetableclothstore.com/products/classic-jacquard-tablecloth-green-the-tablecloth-store?variant=46418433081569)
     Availability: Available
     Price: $166.99 USD
-- [Silver Classic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/classic-jacquard-tablecloth-silver-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:37Z
+- [Silver Classic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/classic-jacquard-tablecloth-silver-the-tablecloth-store): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:54Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -27586,7 +27586,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Classic Jacquard - Tablecloth - Ivory exclusive at The Tablecloth](https://thetableclothstore.com/products/classic-jacquard-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:38Z
+  Updated: 2025-11-20T23:15:54Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -27640,7 +27640,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Classic Jacquard - Tablecloth - Taupe exclusive at The Tablecloth](https://thetableclothstore.com/products/classic-jacquard-tablecloth-taupe-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:01:24Z
+  Updated: 2025-11-20T23:15:55Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -27693,8 +27693,8 @@
   - [108 Square](https://thetableclothstore.com/products/classic-jacquard-tablecloth-taupe-the-tablecloth-store?variant=46418098585825)
     Availability: Available
     Price: $166.99 USD
-- [Black Marisol Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/marisol-jacquard-tablecloth-black-the-tablecloth-store): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:04:16Z
+- [Black Marisol Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/marisol-jacquard-tablecloth-black-the-tablecloth-store): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:55Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -27747,8 +27747,8 @@
   - [108 Square](https://thetableclothstore.com/products/marisol-jacquard-tablecloth-black-the-tablecloth-store?variant=46482240831713)
     Availability: Available
     Price: $147.99 USD
-- [Navy Marisol Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/marisol-jacquard-tablecloth-navy-the-tablecloth-store): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:04:17Z
+- [Navy Marisol Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/marisol-jacquard-tablecloth-navy-the-tablecloth-store): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:55Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -27802,7 +27802,7 @@
     Availability: Available
     Price: $147.99 USD
 - [Marisol Jacquard - Tablecloth - Wine exclusive at The Tablecloth Store](https://thetableclothstore.com/products/marisol-jacquard-tablecloth-wine-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:18Z
+  Updated: 2025-11-20T23:15:56Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -27856,7 +27856,7 @@
     Availability: Available
     Price: $147.99 USD
 - [Marisol Jacquard - Tablecloth - Fuchsia exclusive at The Tablecloth](https://thetableclothstore.com/products/marisol-jacquard-tablecloth-fuchsia-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:19Z
+  Updated: 2025-11-20T23:15:57Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -27910,7 +27910,7 @@
     Availability: Available
     Price: $147.99 USD
 - [Marisol Jacquard - Tablecloth - Mocha exclusive at The Tablecloth](https://thetableclothstore.com/products/marisol-jacquard-tablecloth-mocha-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:20Z
+  Updated: 2025-11-20T23:15:57Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -27964,7 +27964,7 @@
     Availability: Available
     Price: $147.99 USD
 - [Marisol Jacquard - Tablecloth - Silver exclusive at The Tablecloth](https://thetableclothstore.com/products/marisol-jacquard-tablecloth-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:21Z
+  Updated: 2025-11-20T23:15:58Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28018,7 +28018,7 @@
     Availability: Available
     Price: $147.99 USD
 - [Triangle Metallic Jacquard - Tablecloth - White exclusive at The](https://thetableclothstore.com/products/triangle-metallic-jacquard-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Metallic Jacquard Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:25Z
+  Updated: 2025-11-20T23:15:58Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28071,8 +28071,8 @@
   - [108 Square](https://thetableclothstore.com/products/triangle-metallic-jacquard-tablecloth-white-the-tablecloth-store?variant=46609944314081)
     Availability: Available
     Price: $185.99 USD
-- [Lilac Marisol Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/marisol-jacquard-tablecloth-lilac-the-tablecloth-store): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:04:22Z
+- [Lilac Marisol Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/marisol-jacquard-tablecloth-lilac-the-tablecloth-store): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:59Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28125,8 +28125,8 @@
   - [108 Square](https://thetableclothstore.com/products/marisol-jacquard-tablecloth-lilac-the-tablecloth-store?variant=46482244632801)
     Availability: Available
     Price: $147.99 USD
-- [Crystal Triangle Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/triangle-metallic-jacquard-tablecloth-crystal-the-tablecloth-store): Fabric: Metallic Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:04:26Z
+- [Crystal Triangle Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/triangle-metallic-jacquard-tablecloth-crystal-the-tablecloth-store): Fabric: Metallic Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:15:59Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28180,7 +28180,7 @@
     Availability: Available
     Price: $185.99 USD
 - [Marisol Jacquard - Tablecloth - Ivory exclusive at The Tablecloth](https://thetableclothstore.com/products/marisol-jacquard-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:04:23Z
+  Updated: 2025-11-20T23:16:00Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28233,8 +28233,8 @@
   - [108 Square](https://thetableclothstore.com/products/marisol-jacquard-tablecloth-ivory-the-tablecloth-store?variant=46482245157089)
     Availability: Available
     Price: $147.99 USD
-- [Triangle Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/triangle-metallic-jacquard-tablecloth-delft-the-tablecloth-store): Fabric: Metallic Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:04:27Z
+- [Triangle Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/triangle-metallic-jacquard-tablecloth-delft-the-tablecloth-store): Fabric: Metallic Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:00Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28288,7 +28288,7 @@
     Availability: Available
     Price: $185.99 USD
 - [Misty Jacquard - Tablecloth - White exclusive at The Tablecloth Store](https://thetableclothstore.com/products/misty-jacquard-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:03:39Z
+  Updated: 2025-11-20T23:16:01Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28342,7 +28342,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Triangle Metallic Jacquard - Tablecloth - Sage - The Tablecloth Store](https://thetableclothstore.com/products/triangle-metallic-jacquard-tablecloth-sage): Fabric: Metallic Jacquard Width: 58" Fabric Content: 100% Polyester Description - The Tablecloth Store
-  Updated: 2025-11-19T22:04:27Z
+  Updated: 2025-11-20T23:16:01Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28396,7 +28396,7 @@
     Availability: Available
     Price: $185.99 USD
 - [Marisol Jacquard - Tablecloth - White - The Tablecloth Store](https://thetableclothstore.com/products/marisol-jacquard-tablecloth-white): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester Description - The Tablecloth Store
-  Updated: 2025-11-19T22:01:27Z
+  Updated: 2025-11-20T23:16:02Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28450,7 +28450,7 @@
     Availability: Available
     Price: $147.99 USD
 - [Misty Jacquard - Tablecloth - Ivory - The Tablecloth Store](https://thetableclothstore.com/products/misty-jacquard-tablecloth-ivory): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester Description - The Tablecloth Store
-  Updated: 2025-11-19T22:03:40Z
+  Updated: 2025-11-20T23:16:02Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28504,7 +28504,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Misty Jacquard - Tablecloth - Mint - The Tablecloth Store](https://thetableclothstore.com/products/misty-jacquard-tablecloth-mint): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester Description - The Tablecloth Store
-  Updated: 2025-11-19T22:03:41Z
+  Updated: 2025-11-20T23:16:03Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28558,7 +28558,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Triangle Metallic Jacquard - Tablecloth - Cinnamon - The Tablecloth Store](https://thetableclothstore.com/products/triangle-metallic-jacquard-tablecloth-cinnamon): Fabric: Metallic Jacquard Width: 58" Fabric Content: 100% Polyester Description - The Tablecloth Store
-  Updated: 2025-11-19T22:04:29Z
+  Updated: 2025-11-20T23:16:03Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28611,8 +28611,8 @@
   - [108 Square](https://thetableclothstore.com/products/triangle-metallic-jacquard-tablecloth-cinnamon?variant=46609946640609)
     Availability: Available
     Price: $185.99 USD
-- [Gray Misty Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/misty-jacquard-tablecloth-grey): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:42Z
+- [Gray Misty Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/misty-jacquard-tablecloth-grey): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:03Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28666,7 +28666,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Triangle Metallic Jacquard - Tablecloth - Gold - The Tablecloth Store](https://thetableclothstore.com/products/triangle-metallic-jacquard-tablecloth-gold): Fabric: Metallic Jacquard Width: 58" Fabric Content: 100% Polyester Description - The Tablecloth Store
-  Updated: 2025-11-19T22:04:29Z
+  Updated: 2025-11-20T23:16:04Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28720,7 +28720,7 @@
     Availability: Available
     Price: $185.99 USD
 - [Misty Jacquard - Tablecloth - Blue - The Tablecloth Store](https://thetableclothstore.com/products/misty-jacquard-tablecloth-blue): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester Description - The Tablecloth Store
-  Updated: 2025-11-19T22:03:43Z
+  Updated: 2025-11-20T23:16:05Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28773,8 +28773,8 @@
   - [108 Square](https://thetableclothstore.com/products/misty-jacquard-tablecloth-blue?variant=46418436751585)
     Availability: Available
     Price: $166.99 USD
-- [Midnight Triangle Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/triangle-metallic-jacquard-tablecloth-midnight): Fabric: Metallic Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:04:30Z
+- [Midnight Triangle Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/triangle-metallic-jacquard-tablecloth-midnight): Fabric: Metallic Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:11Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28827,8 +28827,8 @@
   - [108 Square](https://thetableclothstore.com/products/triangle-metallic-jacquard-tablecloth-midnight?variant=46609947918561)
     Availability: Available
     Price: $185.99 USD
-- [Blush Frontier Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-blush): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:27Z
+- [Blush Frontier Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-blush): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:11Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28881,8 +28881,8 @@
   - [108 Square](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-blush?variant=46418283299041)
     Availability: Available
     Price: $136.99 USD
-- [White Frontier Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-white): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:28Z
+- [White Frontier Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-white): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:12Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28936,7 +28936,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Frontier Jacquard - Tablecloth - Ivory - The Tablecloth Store](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-ivory): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester Description - The Tablecloth Store
-  Updated: 2025-11-19T22:02:29Z
+  Updated: 2025-11-20T23:16:12Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -28990,7 +28990,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Frontier Jacquard - Tablecloth - Silver - The Tablecloth Store](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-silver): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester Description - The Tablecloth Store
-  Updated: 2025-11-19T22:02:30Z
+  Updated: 2025-11-20T23:16:13Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -29044,7 +29044,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Des Arts Jacquard - Tablecloth - Black - The Tablecloth Store](https://thetableclothstore.com/products/des-arts-jacquard-tablecloth-black): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester Description - The Tablecloth Store
-  Updated: 2025-11-19T22:03:44Z
+  Updated: 2025-11-20T23:16:13Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -29097,8 +29097,8 @@
   - [108 Square](https://thetableclothstore.com/products/des-arts-jacquard-tablecloth-black?variant=46418437275873)
     Availability: Available
     Price: $166.99 USD
-- [Taupe Frontier Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-taupe): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:31Z
+- [Taupe Frontier Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-taupe): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:14Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -29152,7 +29152,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Des Arts Jacquard - Tablecloth - Blush - The Tablecloth Store](https://thetableclothstore.com/products/des-arts-jacquard-tablecloth-blush): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester Description - The Tablecloth Store
-  Updated: 2025-11-19T22:03:44Z
+  Updated: 2025-11-20T23:16:14Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -29206,7 +29206,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Des Arts Jacquard - Tablecloth - Ivory - The Tablecloth Store](https://thetableclothstore.com/products/des-arts-jacquard-tablecloth-ivory): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester Description - The Tablecloth Store
-  Updated: 2025-11-19T22:03:45Z
+  Updated: 2025-11-20T23:16:15Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -29259,8 +29259,8 @@
   - [108 Square](https://thetableclothstore.com/products/des-arts-jacquard-tablecloth-ivory?variant=46418438324449)
     Availability: Available
     Price: $166.99 USD
-- [Mauve Frontier Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-mauve): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:32Z
+- [Mauve Frontier Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-mauve): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:15Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -29313,8 +29313,8 @@
   - [108 Square](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-mauve?variant=46418286051553)
     Availability: Available
     Price: $136.99 USD
-- [Navy Des Arts Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/des-arts-jacquard-tablecloth-navy): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:46Z
+- [Navy Des Arts Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/des-arts-jacquard-tablecloth-navy): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:16Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -29367,8 +29367,8 @@
   - [108 Square](https://thetableclothstore.com/products/des-arts-jacquard-tablecloth-navy?variant=46418438848737)
     Availability: Available
     Price: $166.99 USD
-- [Frontier Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-brass): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:33Z
+- [Frontier Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-brass): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:16Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -29421,8 +29421,8 @@
   - [108 Square](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-brass?variant=46418286575841)
     Availability: Available
     Price: $136.99 USD
-- [Silver Des Arts Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/des-arts-jacquard-tablecloth-silver): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:47Z
+- [Silver Des Arts Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/des-arts-jacquard-tablecloth-silver): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:17Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -29475,8 +29475,8 @@
   - [108 Square](https://thetableclothstore.com/products/des-arts-jacquard-tablecloth-silver?variant=46418439373025)
     Availability: Available
     Price: $166.99 USD
-- [Blue Frontier Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-copan-blue): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:34Z
+- [Blue Frontier Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-copan-blue): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:17Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -29529,8 +29529,8 @@
   - [108 Square](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-copan-blue?variant=46418288115937)
     Availability: Available
     Price: $136.99 USD
-- [White Mahwah Metallic Marbleized - Custom Tablecloths](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-white): Fabric: Width: 54" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:48Z
+- [White Mahwah Metallic Marbleized Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-white): Fabric: Width: 54" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:18Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -29583,8 +29583,8 @@
   - [108 Square](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-white?variant=46418439897313)
     Availability: Available
     Price: $166.99 USD
-- [Mahwah Metallic Marbleized - Custom Tablecloths](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-aqua): Fabric: Width: 54" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:49Z
+- [Mahwah Metallic Marbleized Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-aqua): Fabric: Width: 54" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:18Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -29637,8 +29637,8 @@
   - [108 Square](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-aqua?variant=46418440454369)
     Availability: Available
     Price: $166.99 USD
-- [Purple Frontier Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-purple): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:35Z
+- [Purple Frontier Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-purple): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:19Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -29691,8 +29691,8 @@
   - [108 Square](https://thetableclothstore.com/products/frontier-jacquard-tablecloth-purple?variant=46418288640225)
     Availability: Available
     Price: $136.99 USD
-- [Gold Mahwah Metallic Marbleized - Custom Tablecloths](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-black-gold): Fabric: Width: 54" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:50Z
+- [Gold Mahwah Metallic Marbleized Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-black-gold): Fabric: Width: 54" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:19Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -29745,8 +29745,8 @@
   - [108 Square](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-black-gold?variant=46418440978657)
     Availability: Available
     Price: $166.99 USD
-- [Green Mahwah Metallic Marbleized - Custom Tablecloths](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-green): Fabric: Width: 54" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:51Z
+- [Green Mahwah Metallic Marbleized Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-green): Fabric: Width: 54" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:20Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -29799,8 +29799,8 @@
   - [108 Square](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-green?variant=46418441502945)
     Availability: Available
     Price: $166.99 USD
-- [Navy Mahwah Metallic Marbleized - Custom Tablecloths](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-navy): Fabric: Width: 54" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:52Z
+- [Navy Mahwah Metallic Marbleized Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-navy): Fabric: Width: 54" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:20Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -29853,8 +29853,8 @@
   - [108 Square](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-navy?variant=46418442027233)
     Availability: Available
     Price: $166.99 USD
-- [PATIO Jacquard Print Metallic - Custom Tablecloths](https://thetableclothstore.com/products/patio-jacquard-print-metallic-tablecloth-brick): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:13:39Z
+- [PATIO Jacquard Print Metallic Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/patio-jacquard-print-metallic-tablecloth-brick): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
+  Updated: 2025-11-20T23:16:21Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -29958,8 +29958,8 @@
   - [108 Square](https://thetableclothstore.com/products/patio-jacquard-print-metallic-tablecloth-brick?variant=46823539704033)
     Availability: Available
     Price: $149.99 USD
-- [Onyx Mahwah Metallic Marbleized - Custom Tablecloths](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-onyx): Fabric: Width: 54" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:53Z
+- [Onyx Mahwah Metallic Marbleized Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-onyx): Fabric: Width: 54" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:21Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -30012,8 +30012,8 @@
   - [108 Square](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-onyx?variant=46418442551521)
     Availability: Available
     Price: $166.99 USD
-- [Onyx PATIO Jacquard Print Metallic - Custom Tablecloths](https://thetableclothstore.com/products/patio-jacquard-print-metallic-tablecloth-onyx): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:13:42Z
+- [Onyx PATIO Jacquard Print Metallic Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/patio-jacquard-print-metallic-tablecloth-onyx): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
+  Updated: 2025-11-20T23:16:22Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -30117,8 +30117,8 @@
   - [108 Square](https://thetableclothstore.com/products/patio-jacquard-print-metallic-tablecloth-onyx?variant=46823540850913)
     Availability: Available
     Price: $149.99 USD
-- [Silver PATIO Jacquard Print Metallic - Custom Tablecloths](https://thetableclothstore.com/products/patio-jacquard-print-metallic-tablecloth-silver): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:13:44Z
+- [Silver PATIO Jacquard Print Metallic Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/patio-jacquard-print-metallic-tablecloth-silver): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
+  Updated: 2025-11-20T23:16:22Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -30222,8 +30222,8 @@
   - [108 Square](https://thetableclothstore.com/products/patio-jacquard-print-metallic-tablecloth-silver?variant=46823542030561)
     Availability: Available
     Price: $149.99 USD
-- [Gold Mahwah Metallic Marbleized - Custom Tablecloths](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-silver-gold): Fabric: Width: 54" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:54Z
+- [Gold Mahwah Metallic Marbleized Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-silver-gold): Fabric: Width: 54" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:23Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -30276,8 +30276,8 @@
   - [108 Square](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-silver-gold?variant=46418443075809)
     Availability: Available
     Price: $166.99 USD
-- [Sky Blue PATIO Jacquard Print Metallic - Custom Tablecloths](https://thetableclothstore.com/products/patio-jacquard-print-metallic-tablecloth-sky-blue): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-19T22:13:46Z
+- [Sky Blue PATIO Jacquard Print Metallic Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/patio-jacquard-print-metallic-tablecloth-sky-blue): Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
+  Updated: 2025-11-20T23:16:23Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -30381,8 +30381,8 @@
   - [108 Square](https://thetableclothstore.com/products/patio-jacquard-print-metallic-tablecloth-sky-blue?variant=46823543210209)
     Availability: Available
     Price: $149.99 USD
-- [Taupe Mahwah Metallic Marbleized - Custom Tablecloths](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-taupe): Fabric: Width: 54" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:55Z
+- [Taupe Mahwah Metallic Marbleized Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-taupe): Fabric: Width: 54" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:24Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -30435,8 +30435,8 @@
   - [108 Square](https://thetableclothstore.com/products/mahwah-metallic-marbleized-tablecloth-taupe?variant=46418443600097)
     Availability: Available
     Price: $166.99 USD
-- [White New Delhi Metallic Flower Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/new-delhi-metallic-flower-jacquard-tablecloth-antique-white): Fabric: Jacquard Width: 120" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:12:09Z
+- [White New Delhi Metallic Flower Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/new-delhi-metallic-flower-jacquard-tablecloth-antique-white): Fabric: Jacquard Width: 120" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:24Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -30540,8 +30540,8 @@
   - [108 Square](https://thetableclothstore.com/products/new-delhi-metallic-flower-jacquard-tablecloth-antique-white?variant=46823223558369)
     Availability: Available
     Price: $165.99 USD
-- [Blush New Delhi Metallic Flower Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/new-delhi-metallic-flower-jacquard-tablecloth-blush): Fabric: Jacquard Width: 120" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:12:10Z
+- [Blush New Delhi Metallic Flower Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/new-delhi-metallic-flower-jacquard-tablecloth-blush): Fabric: Jacquard Width: 120" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:25Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -30645,8 +30645,8 @@
   - [108 Square](https://thetableclothstore.com/products/new-delhi-metallic-flower-jacquard-tablecloth-blush?variant=46823224639713)
     Availability: Available
     Price: $165.99 USD
-- [Crystal New Delhi Metallic Flower Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/new-delhi-metallic-flower-jacquard-tablecloth-crystal): Fabric: Jacquard Width: 120" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:12:13Z
+- [Crystal New Delhi Metallic Flower Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/new-delhi-metallic-flower-jacquard-tablecloth-crystal): Fabric: Jacquard Width: 120" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:25Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -30750,8 +30750,8 @@
   - [108 Square](https://thetableclothstore.com/products/new-delhi-metallic-flower-jacquard-tablecloth-crystal?variant=46823225721057)
     Availability: Available
     Price: $165.99 USD
-- [New Delhi Metallic Flower Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/new-delhi-metallic-flower-jacquard-tablecloth-combo): Fabric: Jacquard Width: 120" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:12:15Z
+- [New Delhi Metallic Flower Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/new-delhi-metallic-flower-jacquard-tablecloth-combo): Fabric: Jacquard Width: 120" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:26Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -30855,8 +30855,8 @@
   - [108 Square](https://thetableclothstore.com/products/new-delhi-metallic-flower-jacquard-tablecloth-combo?variant=46823226835169)
     Availability: Available
     Price: $165.99 USD
-- [Beige Cambridge Floral Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-beige): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:57Z
+- [Beige Cambridge Floral Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-beige): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:27Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -30909,8 +30909,8 @@
   - [108 Square](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-beige?variant=46418456248545)
     Availability: Available
     Price: $188.99 USD
-- [Black Cambridge Floral Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-black): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:57Z
+- [Black Cambridge Floral Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-black): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:27Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -30963,8 +30963,8 @@
   - [108 Square](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-black?variant=46418456838369)
     Availability: Available
     Price: $188.99 USD
-- [Blue Cambridge Floral Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-blue): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:58Z
+- [Blue Cambridge Floral Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-blue): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:28Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31017,8 +31017,8 @@
   - [108 Square](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-blue?variant=46418457362657)
     Availability: Available
     Price: $188.99 USD
-- [Blue Denver Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/denver-jacquard-tablecloth-cold-blue): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:42Z
+- [Blue Denver Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/denver-jacquard-tablecloth-cold-blue): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:28Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31071,8 +31071,8 @@
   - [108 Square](https://thetableclothstore.com/products/denver-jacquard-tablecloth-cold-blue?variant=46418325504225)
     Availability: Available
     Price: $200.99 USD
-- [Crystal Cambridge Floral Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-crystal): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:59Z
+- [Crystal Cambridge Floral Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-crystal): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:29Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31125,8 +31125,8 @@
   - [108 Square](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-crystal?variant=46418457886945)
     Availability: Available
     Price: $188.99 USD
-- [Crystal Denver Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/denver-jacquard-tablecloth-crystal): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:43Z
+- [Crystal Denver Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/denver-jacquard-tablecloth-crystal): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:29Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31179,8 +31179,8 @@
   - [108 Square](https://thetableclothstore.com/products/denver-jacquard-tablecloth-crystal?variant=46418326061281)
     Availability: Available
     Price: $200.99 USD
-- [Beige Denver Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/denver-jacquard-tablecloth-gold-beige): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:44Z
+- [Beige Denver Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/denver-jacquard-tablecloth-gold-beige): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:30Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31233,8 +31233,8 @@
   - [108 Square](https://thetableclothstore.com/products/denver-jacquard-tablecloth-gold-beige?variant=46418326585569)
     Availability: Available
     Price: $200.99 USD
-- [Navy Cambridge Floral Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-navy): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:04:00Z
+- [Navy Cambridge Floral Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-navy): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:30Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31287,8 +31287,8 @@
   - [108 Square](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-navy?variant=46418458411233)
     Availability: Available
     Price: $188.99 USD
-- [Gray Denver Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/denver-jacquard-tablecloth-gold-grey): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:45Z
+- [Gray Denver Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/denver-jacquard-tablecloth-gold-grey): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:30Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31341,8 +31341,8 @@
   - [108 Square / Grey](https://thetableclothstore.com/products/denver-jacquard-tablecloth-gold-grey?variant=46418327142625)
     Availability: Available
     Price: $200.99 USD
-- [Wine Cambridge Floral Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-wine): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:04:01Z
+- [Wine Cambridge Floral Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-wine): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:35Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31395,8 +31395,8 @@
   - [108 Square](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-wine?variant=46418458935521)
     Availability: Available
     Price: $188.99 USD
-- [Navy Denver Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/denver-jacquard-tablecloth-gold-navy): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:46Z
+- [Navy Denver Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/denver-jacquard-tablecloth-gold-navy): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:35Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31449,8 +31449,8 @@
   - [108 Square](https://thetableclothstore.com/products/denver-jacquard-tablecloth-gold-navy?variant=46418327666913)
     Availability: Available
     Price: $200.99 USD
-- [White Cambridge Floral Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-white): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:04:02Z
+- [White Cambridge Floral Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-white): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:36Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31503,8 +31503,8 @@
   - [108 Square](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-white?variant=46418459459809)
     Availability: Available
     Price: $188.99 USD
-- [Silver Cambridge Floral Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-silver): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:04:03Z
+- [Silver Cambridge Floral Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-silver): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:36Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31557,8 +31557,8 @@
   - [108 Square](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-silver?variant=46418459984097)
     Availability: Available
     Price: $188.99 USD
-- [Antique Beacon Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-antique): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:47Z
+- [Antique Beacon Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-antique): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:37Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31611,8 +31611,8 @@
   - [108 Square](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-antique?variant=46418328223969)
     Availability: Available
     Price: $200.99 USD
-- [Purple Cambridge Floral Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-purple): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:01:25Z
+- [Purple Cambridge Floral Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-purple): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:37Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31665,8 +31665,8 @@
   - [108 Square](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-purple?variant=46418116968673)
     Availability: Available
     Price: $188.99 USD
-- [Blush Beacon Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-blush): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:48Z
+- [Blush Beacon Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-blush): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:38Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31719,8 +31719,8 @@
   - [108 Square](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-blush?variant=46418328781025)
     Availability: Available
     Price: $200.99 USD
-- [Crystal Beacon Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-crystal): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:49Z
+- [Crystal Beacon Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-crystal): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:38Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31773,8 +31773,8 @@
   - [108 Square](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-crystal?variant=46418329305313)
     Availability: Available
     Price: $200.99 USD
-- [Crystal Beaconsfield Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-crystal): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:50Z
+- [Crystal Beaconsfield Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-crystal): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:39Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31827,8 +31827,8 @@
   - [108 Square](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-crystal?variant=46418329862369)
     Availability: Available
     Price: $200.99 USD
-- [Gray Beacon Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-grey): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:50Z
+- [Gray Beacon Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-grey): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:39Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31881,8 +31881,8 @@
   - [108 Square / Grey](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-grey?variant=46418330386657)
     Availability: Available
     Price: $200.99 USD
-- [Gold Beaconsfield Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-gold): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:51Z
+- [Gold Beaconsfield Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-gold): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:40Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31935,8 +31935,8 @@
   - [108 Square](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-gold?variant=46418330910945)
     Availability: Available
     Price: $200.99 USD
-- [Ivory Beacon Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-ivory): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:52Z
+- [Ivory Beacon Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-ivory): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:40Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31989,8 +31989,8 @@
   - [108 Square](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-ivory?variant=46418331435233)
     Availability: Available
     Price: $200.99 USD
-- [Gray Beaconsfield Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-grey): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:53Z
+- [Gray Beaconsfield Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-grey): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:41Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -32043,8 +32043,8 @@
   - [108 Square / Grey](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-grey?variant=46418331992289)
     Availability: Available
     Price: $200.99 USD
-- [Gold Beaconsfield Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-gold): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:54Z
+- [Gold Beaconsfield Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-gold): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:41Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -32097,8 +32097,8 @@
   - [108 Square](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-gold?variant=46418332516577)
     Availability: Available
     Price: $200.99 USD
-- [Onyx Beacon Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-onyx): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:55Z
+- [Onyx Beacon Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-onyx): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:42Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -32151,8 +32151,8 @@
   - [108 Square](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-onyx?variant=46418333040865)
     Availability: Available
     Price: $200.99 USD
-- [Onyx Beaconsfield Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-onyx): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:56Z
+- [Onyx Beaconsfield Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-onyx): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:42Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -32205,8 +32205,8 @@
   - [108 Square](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-onyx?variant=46418333565153)
     Availability: Available
     Price: $200.99 USD
-- [Antique Gravel Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/gravel-metallic-jacquard-tablecloth-antique): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:57Z
+- [Antique Gravel Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/gravel-metallic-jacquard-tablecloth-antique): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have
+  Updated: 2025-11-20T23:16:43Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -32259,8 +32259,8 @@
   - [108 Square](https://thetableclothstore.com/products/gravel-metallic-jacquard-tablecloth-antique?variant=46418334089441)
     Availability: Available
     Price: $200.99 USD
-- [Red Beacon Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-red): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:58Z
+- [Red Beacon Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-red): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:43Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -32313,8 +32313,8 @@
   - [108 Square](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-red?variant=46418334613729)
     Availability: Available
     Price: $200.99 USD
-- [Crystal Gravel Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/gravel-metallic-jacquard-tablecloth-crystal): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:59Z
+- [Crystal Gravel Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/gravel-metallic-jacquard-tablecloth-crystal): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:44Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -32367,8 +32367,8 @@
   - [108 Square](https://thetableclothstore.com/products/gravel-metallic-jacquard-tablecloth-crystal?variant=46418335138017)
     Availability: Available
     Price: $200.99 USD
-- [Red Beaconsfield Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-red): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:00Z
+- [Red Beaconsfield Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-red): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:44Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -32421,8 +32421,8 @@
   - [108 Square](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-red?variant=46418335662305)
     Availability: Available
     Price: $200.99 USD
-- [Midnight Gravel Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/gravel-metallic-jacquard-tablecloth-midnight): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:00Z
+- [Midnight Gravel Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/gravel-metallic-jacquard-tablecloth-midnight): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:45Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -32475,8 +32475,8 @@
   - [108 Square](https://thetableclothstore.com/products/gravel-metallic-jacquard-tablecloth-midnight?variant=46418336186593)
     Availability: Available
     Price: $200.99 USD
-- [Silver Beacon Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-silver): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:01Z
+- [Silver Beacon Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-silver): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:45Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -32529,8 +32529,8 @@
   - [108 Square](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-silver?variant=46418336710881)
     Availability: Available
     Price: $200.99 USD
-- [Silver Beaconsfield Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-silver): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:02Z
+- [Silver Beaconsfield Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-silver): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:46Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -32583,8 +32583,8 @@
   - [108 Square](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-silver?variant=46418337235169)
     Availability: Available
     Price: $200.99 USD
-- [Gold Gravel Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/gravel-metallic-jacquard-tablecloth-navy-gold): Fabric: Jacquard Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:03Z
+- [Gold Gravel Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/gravel-metallic-jacquard-tablecloth-navy-gold): Elegant Jacquard Tablecloth – Perfect for Weddings, Events & Fine Home Dining Fabric: Jacquard Width: 58" Material: 100% Polyester Bring timeless elegance to any setting with our Premium Jacquard Tablecloth, expertly crafted from 100% polyester for a soft, beautiful drape, and easy maintenance. Whether you’re designing a sophisticated wedding reception or refreshing your home décor,this tablecloth offers the ideal blend of luxury and practicality. Stunning Design for Every Occasion For Weddings & Events: Add a refined touch to receptions, banquets, showers, parties, and corporate gatherings. The rich Jacquard weave elevates any event theme. For Home Décor: Perfect for daily dining, holiday entertaining, or creating a polished look in your kitchen or dining room. Available in a range of classic and contemporary colors to complement any home style. Custom-Made for a Perfect Fit Each order is sewn to your specifications, ensuring a flawless fit for any table size or shape. Available custom pieces include: Tablecloths in any size Matching napkin sets Table runners Placemats Sample Option See and feel the quality before you buy! We offer a fabric sample so you can preview color and texture in your own lighting and setting. Easy Care & Long-Lasting Quality Machine washable Tumble dry on low Cool iron if needed Enjoy long-lasting color and shape, even after multiple washes. Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:46Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -32637,8 +32637,8 @@
   - [108 Square](https://thetableclothstore.com/products/gravel-metallic-jacquard-tablecloth-navy-gold?variant=46418337759457)
     Availability: Available
     Price: $200.99 USD
-- [White Beacon Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-white): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:03:04Z
+- [White Beacon Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-white): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:47Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -32691,62 +32691,62 @@
   - [108 Square](https://thetableclothstore.com/products/beacon-metallic-jacquard-tablecloth-white?variant=46418338283745)
     Availability: Available
     Price: $200.99 USD
-- [Silver Beaconsfield Metallic Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-silver): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:01:26Z
+- [Silver Beaconsfield Metallic Jacquard Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/silver-beaconsfield-metallic-jacquard-custom-tablecloths): Fabric: Jacquard Width: 57" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have
+  Updated: 2025-11-20T23:16:48Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/5848/1377/files/BEACONSFIELD-IVORY-SLVR-103.jpg?v=1755199370
-  - [Fabric Sample](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-silver?variant=46418125193441)
+  - [Fabric Sample](https://thetableclothstore.com/products/silver-beaconsfield-metallic-jacquard-custom-tablecloths?variant=46418125193441)
     Availability: Available
     Price: $1.00 USD
-  - [52 x 70](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-silver?variant=46418125226209)
+  - [52 x 70](https://thetableclothstore.com/products/silver-beaconsfield-metallic-jacquard-custom-tablecloths?variant=46418125226209)
     Availability: Available
     Price: $75.99 USD
-  - [52 x 102](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-silver?variant=46418125258977)
+  - [52 x 102](https://thetableclothstore.com/products/silver-beaconsfield-metallic-jacquard-custom-tablecloths?variant=46418125258977)
     Availability: Available
     Price: $103.99 USD
-  - [90 x 132](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-silver?variant=46418125291745)
+  - [90 x 132](https://thetableclothstore.com/products/silver-beaconsfield-metallic-jacquard-custom-tablecloths?variant=46418125291745)
     Availability: Available
     Price: $238.99 USD
-  - [90 x 156](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-silver?variant=46418125324513)
+  - [90 x 156](https://thetableclothstore.com/products/silver-beaconsfield-metallic-jacquard-custom-tablecloths?variant=46418125324513)
     Availability: Available
     Price: $272.99 USD
-  - [108 x 156](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-silver?variant=46418125357281)
+  - [108 x 156](https://thetableclothstore.com/products/silver-beaconsfield-metallic-jacquard-custom-tablecloths?variant=46418125357281)
     Availability: Available
     Price: $277.99 USD
-  - [52 Round](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-silver?variant=46418125390049)
+  - [52 Round](https://thetableclothstore.com/products/silver-beaconsfield-metallic-jacquard-custom-tablecloths?variant=46418125390049)
     Availability: Available
     Price: $62.99 USD
-  - [72 Round](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-silver?variant=46418125422817)
+  - [72 Round](https://thetableclothstore.com/products/silver-beaconsfield-metallic-jacquard-custom-tablecloths?variant=46418125422817)
     Availability: Available
     Price: $140.99 USD
-  - [84 Round](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-silver?variant=46418125455585)
+  - [84 Round](https://thetableclothstore.com/products/silver-beaconsfield-metallic-jacquard-custom-tablecloths?variant=46418125455585)
     Availability: Available
     Price: $162.99 USD
-  - [96 Round](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-silver?variant=46418125488353)
+  - [96 Round](https://thetableclothstore.com/products/silver-beaconsfield-metallic-jacquard-custom-tablecloths?variant=46418125488353)
     Availability: Available
     Price: $183.99 USD
-  - [108 Round](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-silver?variant=46418125521121)
+  - [108 Round](https://thetableclothstore.com/products/silver-beaconsfield-metallic-jacquard-custom-tablecloths?variant=46418125521121)
     Availability: Available
     Price: $200.99 USD
-  - [52 Square](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-silver?variant=46418125553889)
+  - [52 Square](https://thetableclothstore.com/products/silver-beaconsfield-metallic-jacquard-custom-tablecloths?variant=46418125553889)
     Availability: Available
     Price: $62.99 USD
-  - [72 Square](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-silver?variant=46418125586657)
+  - [72 Square](https://thetableclothstore.com/products/silver-beaconsfield-metallic-jacquard-custom-tablecloths?variant=46418125586657)
     Availability: Available
     Price: $140.99 USD
-  - [84 Square](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-silver?variant=46418125619425)
+  - [84 Square](https://thetableclothstore.com/products/silver-beaconsfield-metallic-jacquard-custom-tablecloths?variant=46418125619425)
     Availability: Available
     Price: $162.99 USD
-  - [96 Square](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-silver?variant=46418125652193)
+  - [96 Square](https://thetableclothstore.com/products/silver-beaconsfield-metallic-jacquard-custom-tablecloths?variant=46418125652193)
     Availability: Available
     Price: $183.99 USD
-  - [108 Square](https://thetableclothstore.com/products/beaconsfield-metallic-jacquard-tablecloth-ivory-silver?variant=46418125684961)
+  - [108 Square](https://thetableclothstore.com/products/silver-beaconsfield-metallic-jacquard-custom-tablecloths?variant=46418125684961)
     Availability: Available
     Price: $200.99 USD
-- [Gold GRANITE - Digital Print Satin - Custom Tablecloths](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-black-gold): Fabric: Satin Granite Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:36Z
+- [Gold GRANITE - Digital Print Satin Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-black-gold): Fabric: Satin Granite Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:48Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -32799,58 +32799,58 @@
   - [108 Square](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-black-gold?variant=46418289295585)
     Availability: Available
     Price: $136.99 USD
-- [Gold GRANITE - Digital Print Satin - Custom Tablecloths](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-blue-gold): Fabric: Satin Granite Width: 58" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:02:37Z
+- [Gold GRANITE - Digital Print Satin Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/gold-granite-digital-print-satin-tablecloth-custom): Transform Your Event with the Gold Granite Digital Print Satin Tablecloth Imagine the soft glow of golden hues dancing across an elegantly set table, where ever
+  Updated: 2025-11-20T23:16:49Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/5848/1377/files/GRANITE-BLUE-GOLD.jpg?v=1755199368
-  - [Fabric Sample](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-blue-gold?variant=46418289328353)
+  - [Fabric Sample](https://thetableclothstore.com/products/gold-granite-digital-print-satin-tablecloth-custom?variant=46418289328353)
     Availability: Available
     Price: $1.00 USD
-  - [52 x 70](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-blue-gold?variant=46418289361121)
+  - [52 x 70](https://thetableclothstore.com/products/gold-granite-digital-print-satin-tablecloth-custom?variant=46418289361121)
     Availability: Available
     Price: $54.99 USD
-  - [52 x 102](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-blue-gold?variant=46418289393889)
+  - [52 x 102](https://thetableclothstore.com/products/gold-granite-digital-print-satin-tablecloth-custom?variant=46418289393889)
     Availability: Available
     Price: $71.99 USD
-  - [90 x 132](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-blue-gold?variant=46418289426657)
+  - [90 x 132](https://thetableclothstore.com/products/gold-granite-digital-print-satin-tablecloth-custom?variant=46418289426657)
     Availability: Available
     Price: $160.99 USD
-  - [90 x 156](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-blue-gold?variant=46418289459425)
+  - [90 x 156](https://thetableclothstore.com/products/gold-granite-digital-print-satin-tablecloth-custom?variant=46418289459425)
     Availability: Available
     Price: $183.99 USD
-  - [108 x 156](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-blue-gold?variant=46418289492193)
+  - [108 x 156](https://thetableclothstore.com/products/gold-granite-digital-print-satin-tablecloth-custom?variant=46418289492193)
     Availability: Available
     Price: $188.99 USD
-  - [52 Round](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-blue-gold?variant=46418289524961)
+  - [52 Round](https://thetableclothstore.com/products/gold-granite-digital-print-satin-tablecloth-custom?variant=46418289524961)
     Availability: Available
     Price: $46.99 USD
-  - [72 Round](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-blue-gold?variant=46418289557729)
+  - [72 Round](https://thetableclothstore.com/products/gold-granite-digital-print-satin-tablecloth-custom?variant=46418289557729)
     Availability: Available
     Price: $99.99 USD
-  - [84 Round](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-blue-gold?variant=46418289590497)
+  - [84 Round](https://thetableclothstore.com/products/gold-granite-digital-print-satin-tablecloth-custom?variant=46418289590497)
     Availability: Available
     Price: $112.99 USD
-  - [96 Round](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-blue-gold?variant=46418289623265)
+  - [96 Round](https://thetableclothstore.com/products/gold-granite-digital-print-satin-tablecloth-custom?variant=46418289623265)
     Availability: Available
     Price: $124.99 USD
-  - [108 Round](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-blue-gold?variant=46418289656033)
+  - [108 Round](https://thetableclothstore.com/products/gold-granite-digital-print-satin-tablecloth-custom?variant=46418289656033)
     Availability: Available
     Price: $136.99 USD
-  - [52 Square](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-blue-gold?variant=46418289688801)
+  - [52 Square](https://thetableclothstore.com/products/gold-granite-digital-print-satin-tablecloth-custom?variant=46418289688801)
     Availability: Available
     Price: $46.99 USD
-  - [72 Square](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-blue-gold?variant=46418289721569)
+  - [72 Square](https://thetableclothstore.com/products/gold-granite-digital-print-satin-tablecloth-custom?variant=46418289721569)
     Availability: Available
     Price: $99.99 USD
-  - [84 Square](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-blue-gold?variant=46418289754337)
+  - [84 Square](https://thetableclothstore.com/products/gold-granite-digital-print-satin-tablecloth-custom?variant=46418289754337)
     Availability: Available
     Price: $112.99 USD
-  - [96 Square](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-blue-gold?variant=46418289787105)
+  - [96 Square](https://thetableclothstore.com/products/gold-granite-digital-print-satin-tablecloth-custom?variant=46418289787105)
     Availability: Available
     Price: $124.99 USD
-  - [108 Square](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-blue-gold?variant=46418289819873)
+  - [108 Square](https://thetableclothstore.com/products/gold-granite-digital-print-satin-tablecloth-custom?variant=46418289819873)
     Availability: Available
     Price: $136.99 USD
 - [Black Granite - Digital Print Satin Tablecloths – Custom Elegance by T](https://thetableclothstore.com/products/black-granite-digital-print-satin-tablecloths): Transform Your Event with the Black Granite Digital Print Satin Tablecloth Imagine walking into a beautifully adorned venue, where the air is filled with laught
@@ -32961,8 +32961,8 @@
   - [108 Square](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth?variant=46418236932321)
     Availability: Available
     Price: $136.99 USD
-- [Aqua LYNN Jacquard Print Metallic - Custom Tablecloths](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-aqua): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-11-19T22:10:06Z
+- [Aqua LYNN Jacquard Print Metallic Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-aqua): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
+  Updated: 2025-11-20T23:16:51Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -33066,8 +33066,8 @@
   - [108 Square](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-aqua?variant=46823146848481)
     Availability: Available
     Price: $109.99 USD
-- [Fuchsia LYNN Jacquard Print Metallic - Custom Tablecloths](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-fuchsia): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-11-19T22:10:10Z
+- [Fuchsia LYNN Jacquard Print Metallic Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-fuchsia): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
+  Updated: 2025-11-20T23:16:52Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -33171,8 +33171,8 @@
   - [108 Square](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-fuchsia?variant=46823147929825)
     Availability: Available
     Price: $109.99 USD
-- [Green LYNN Jacquard Print Metallic - Custom Tablecloths](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-green): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-11-19T22:10:14Z
+- [Green LYNN Jacquard Print Metallic Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-green): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
+  Updated: 2025-11-20T23:16:53Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -33276,8 +33276,8 @@
   - [108 Square](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-green?variant=46823149043937)
     Availability: Available
     Price: $109.99 USD
-- [Plum LYNN Jacquard Print Metallic - Custom Tablecloths](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-plum): Fabric: Jacquard Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-11-19T22:10:17Z
+- [Plum LYNN Jacquard Print Metallic Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-plum): Fabric: Jacquard Width: 118" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
+  Updated: 2025-11-20T23:16:53Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -33381,8 +33381,8 @@
   - [108 Square](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-plum?variant=46823150158049)
     Availability: Available
     Price: $109.99 USD
-- [Silver LYNN Jacquard Print Metallic - Custom Tablecloths](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-silver): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-11-19T22:10:21Z
+- [Silver LYNN Jacquard Print Metallic Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-silver): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
+  Updated: 2025-11-20T23:16:54Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -33490,133 +33490,133 @@
 ## Collections
 
 - [Chenille {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/chenille-fabric): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:26Z
+  Updated: 2025-11-20T23:11:54Z
   Total Products: 14
 - [Soft velvet - The Tablecloth Store](https://thetableclothstore.com/collections/sweden-velvet-fabric): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:26Z
+  Updated: 2025-11-20T23:14:11Z
   Total Products: 22
 - [Soft Velvet {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/newport-velvet-fabric-118-width): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:26Z
+  Updated: 2025-11-20T23:14:46Z
   Total Products: 30
 - [Shiny velvet - The Tablecloth Store](https://thetableclothstore.com/collections/shiny-velvet): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:26Z
+  Updated: 2025-11-20T23:14:18Z
   Total Products: 35
 - [Dover {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/dover-fabric): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:26Z
+  Updated: 2025-11-20T23:11:55Z
   Total Products: 4
 - [Derby {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/derby): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-20T23:11:57Z
   Total Products: 5
 - [Treasure {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/treasure): - The Tablecloth Store
-  Updated: 2025-11-10T12:20:42Z
+  Updated: 2025-11-20T23:12:12Z
   Total Products: 5
 - [Bonanza {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/bonanza): - The Tablecloth Store
-  Updated: 2025-11-18T12:21:54Z
+  Updated: 2025-11-20T23:12:01Z
   Total Products: 5
 - [Crushed Velvet {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/crushed-velvet-double-width): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-20T23:13:25Z
   Total Products: 14
 - [Brocade Velvet - The Tablecloth Store](https://thetableclothstore.com/collections/brocade-velvet): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-20T23:12:52Z
   Total Products: 14
 - [Brocade Velvet - The Tablecloth Store](https://thetableclothstore.com/collections/brocade-velvet-1): - The Tablecloth Store
-  Updated: 2025-10-26T11:22:11Z
+  Updated: 2025-11-20T23:12:43Z
   Total Products: 14
 - [Huntsville Velvet - The Tablecloth Store](https://thetableclothstore.com/collections/huntsville-velvet): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-20T23:13:24Z
   Total Products: 21
 - [Hunter Velvet - The Tablecloth Store](https://thetableclothstore.com/collections/hunter-velvet): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-20T23:12:41Z
   Total Products: 6
 - [Square {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/square-double-width): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-20T23:12:08Z
   Total Products: 7
 - [Abstract Crushed {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/abstract-crushed-double-width): - The Tablecloth Store
-  Updated: 2025-11-14T12:22:00Z
+  Updated: 2025-11-20T23:12:36Z
   Total Products: 18
 - [Track - The Tablecloth Store](https://thetableclothstore.com/collections/track): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-20T23:12:10Z
   Total Products: 5
 - [Gastonia - The Tablecloth Store](https://thetableclothstore.com/collections/gastonia): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-20T23:14:52Z
   Total Products: 8
 - [Chrisma - The Tablecloth Store](https://thetableclothstore.com/collections/chrisma): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-20T23:15:00Z
   Total Products: 9
 - [Gate - The Tablecloth Store](https://thetableclothstore.com/collections/gate): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-20T23:12:56Z
   Total Products: 8
 - [Vails - The Tablecloth Store](https://thetableclothstore.com/collections/vails): - The Tablecloth Store
-  Updated: 2025-11-10T12:20:42Z
+  Updated: 2025-11-20T23:14:12Z
   Total Products: 13
 - [Starlight - The Tablecloth Store](https://thetableclothstore.com/collections/starlight): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-20T23:14:57Z
   Total Products: 8
 - [Catch - The Tablecloth Store](https://thetableclothstore.com/collections/catch): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-20T23:14:48Z
   Total Products: 5
 - [Sprite - The Tablecloth Store](https://thetableclothstore.com/collections/sprite): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-20T23:12:05Z
   Total Products: 7
 - [Foliage - The Tablecloth Store](https://thetableclothstore.com/collections/foliage): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-20T23:15:10Z
   Total Products: 3
 - [Fallen Leaves - The Tablecloth Store](https://thetableclothstore.com/collections/fallen-leaves): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-20T23:15:08Z
   Total Products: 2
 - [Lynn - The Tablecloth Store](https://thetableclothstore.com/collections/lynn): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-20T23:16:56Z
   Total Products: 6
 - [Milano - The Tablecloth Store](https://thetableclothstore.com/collections/milano): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:28Z
+  Updated: 2025-11-20T23:15:14Z
   Total Products: 7
 - [Palms - The Tablecloth Store](https://thetableclothstore.com/collections/palms): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:28Z
+  Updated: 2025-11-20T23:15:13Z
   Total Products: 3
 - [Poppy - The Tablecloth Store](https://thetableclothstore.com/collections/poppy): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:28Z
+  Updated: 2025-11-20T23:15:15Z
   Total Products: 3
 - [Caracas - The Tablecloth Store](https://thetableclothstore.com/collections/caracas): - The Tablecloth Store
   Updated: 2025-08-25T16:16:15Z
   Total Products: 13
 - [Mumbai - The Tablecloth Store](https://thetableclothstore.com/collections/mumbai): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:28Z
+  Updated: 2025-11-20T23:15:08Z
   Total Products: 6
 - [Marble - The Tablecloth Store](https://thetableclothstore.com/collections/marble): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:28Z
+  Updated: 2025-11-20T23:15:29Z
   Total Products: 3
 - [Stardust - The Tablecloth Store](https://thetableclothstore.com/collections/stardust): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:28Z
+  Updated: 2025-11-20T23:15:40Z
   Total Products: 10
 - [Portland - The Tablecloth Store](https://thetableclothstore.com/collections/portland): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:28Z
+  Updated: 2025-11-20T23:15:51Z
   Total Products: 18
 - [Garden - The Tablecloth Store](https://thetableclothstore.com/collections/garden): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:28Z
+  Updated: 2025-11-20T23:15:27Z
   Total Products: 12
 - [Delhi - The Tablecloth Store](https://thetableclothstore.com/collections/delhi): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:28Z
+  Updated: 2025-11-20T23:15:48Z
   Total Products: 7
 - [Inline - The Tablecloth Store](https://thetableclothstore.com/collections/inline): - The Tablecloth Store
   Updated: 2025-10-20T16:51:28Z
   Total Products: 9
 - [Allium - The Tablecloth Store](https://thetableclothstore.com/collections/allium): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:28Z
+  Updated: 2025-11-20T23:15:53Z
   Total Products: 5
 - [Classic - The Tablecloth Store](https://thetableclothstore.com/collections/classic): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:28Z
+  Updated: 2025-11-20T23:15:54Z
   Total Products: 2
 - [Marisol - The Tablecloth Store](https://thetableclothstore.com/collections/marisol): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:28Z
+  Updated: 2025-11-20T23:16:03Z
   Total Products: 10
 - [Sparkle - The Tablecloth Store](https://thetableclothstore.com/collections/sparkle): - The Tablecloth Store
   Updated: 2025-10-20T16:51:28Z
   Total Products: 8
 - [Triangle - The Tablecloth Store](https://thetableclothstore.com/collections/triangle): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:28Z
+  Updated: 2025-11-20T23:16:12Z
   Total Products: 8
 - [Misty - The Tablecloth Store](https://thetableclothstore.com/collections/misty): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:28Z
+  Updated: 2025-11-20T23:16:06Z
   Total Products: 7
 - [Vine Tree - The Tablecloth Store](https://thetableclothstore.com/collections/vine-tree): - The Tablecloth Store
   Updated: 2025-10-20T16:51:28Z
@@ -33625,85 +33625,85 @@
   Updated: 2025-10-20T16:51:28Z
   Total Products: 1
 - [Frontier - The Tablecloth Store](https://thetableclothstore.com/collections/frontier): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:28Z
+  Updated: 2025-11-20T23:16:20Z
   Total Products: 10
 - [Des Arts - The Tablecloth Store](https://thetableclothstore.com/collections/des-arts): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:28Z
+  Updated: 2025-11-20T23:16:18Z
   Total Products: 6
 - [Mahwah - The Tablecloth Store](https://thetableclothstore.com/collections/mahwah): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:29Z
+  Updated: 2025-11-20T23:16:25Z
   Total Products: 9
 - [York - The Tablecloth Store](https://thetableclothstore.com/collections/york): - The Tablecloth Store
   Updated: 2025-10-20T16:51:29Z
   Total Products: 6
 - [Patio - The Tablecloth Store](https://thetableclothstore.com/collections/patio): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:29Z
+  Updated: 2025-11-20T23:16:25Z
   Total Products: 5
 - [New Delhi - The Tablecloth Store](https://thetableclothstore.com/collections/new-delhi): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:29Z
+  Updated: 2025-11-20T23:16:27Z
   Total Products: 5
 - [Cambridge - The Tablecloth Store](https://thetableclothstore.com/collections/cambridge): - The Tablecloth Store
-  Updated: 2025-11-10T12:20:42Z
+  Updated: 2025-11-20T23:16:39Z
   Total Products: 10
 - [Denver - The Tablecloth Store](https://thetableclothstore.com/collections/denver): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:29Z
+  Updated: 2025-11-20T23:16:37Z
   Total Products: 6
 - [Lanora - The Tablecloth Store](https://thetableclothstore.com/collections/lanora): - The Tablecloth Store
   Updated: 2025-10-20T16:51:29Z
   Total Products: 12
 - [Beacon - The Tablecloth Store](https://thetableclothstore.com/collections/beacon): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:29Z
+  Updated: 2025-11-20T23:16:48Z
   Total Products: 10
 - [Beaconsfield - The Tablecloth Store](https://thetableclothstore.com/collections/beaconsfield): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:29Z
+  Updated: 2025-11-20T23:16:49Z
   Total Products: 9
 - [Gravel - The Tablecloth Store](https://thetableclothstore.com/collections/gravel): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:29Z
+  Updated: 2025-11-20T23:16:48Z
   Total Products: 5
 - [Calcutta - The Tablecloth Store](https://thetableclothstore.com/collections/calcutta): - The Tablecloth Store
   Updated: 2025-10-20T16:51:29Z
   Total Products: 5
 - [Granite - The Tablecloth Store](https://thetableclothstore.com/collections/granite): - The Tablecloth Store
-  Updated: 2025-10-28T14:39:44Z
+  Updated: 2025-11-20T23:16:50Z
   Total Products: 5
 - [Lily - The Tablecloth Store](https://thetableclothstore.com/collections/lily): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:29Z
+  Updated: 2025-11-20T23:15:22Z
   Total Products: 3
 - [Festoon - The Tablecloth Store](https://thetableclothstore.com/collections/festoon): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:29Z
+  Updated: 2025-11-20T23:15:27Z
   Total Products: 2
 - [Aurura - The Tablecloth Store](https://thetableclothstore.com/collections/aurura): - The Tablecloth Store
   Updated: 2025-10-20T16:51:29Z
   Total Products: 0
 - [Aster - The Tablecloth Store](https://thetableclothstore.com/collections/aster): - The Tablecloth Store
-  Updated: 2025-10-27T18:34:13Z
+  Updated: 2025-11-20T23:15:17Z
   Total Products: 4
 - [Parrot - The Tablecloth Store](https://thetableclothstore.com/collections/parrot): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:29Z
+  Updated: 2025-11-20T23:15:24Z
   Total Products: 3
 - [APPPlaza - Best Sellers - The Tablecloth Store](https://thetableclothstore.com/collections/appplaza-best-sellers): - The Tablecloth Store
-  Updated: 2025-11-18T12:21:54Z
+  Updated: 2025-11-20T23:16:56Z
   Total Products: 613
 - [All Products (ChatGPT-AI Product Description) - The Tablecloth Store](https://thetableclothstore.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - The Tablecloth Store
-  Updated: 2025-11-18T12:21:54Z
+  Updated: 2025-11-20T23:16:56Z
   Total Products: 613
 - [SPRING GARDEN - The Tablecloth Store](https://thetableclothstore.com/collections/spring-garden): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:29Z
+  Updated: 2025-11-20T23:15:27Z
   Total Products: 7
 - [LYNSFIELD - The Tablecloth Store](https://thetableclothstore.com/collections/lynsfield): - The Tablecloth Store
   Updated: 2025-10-20T16:51:29Z
   Total Products: 7
 - [Our full catalog - The Tablecloth Store](https://thetableclothstore.com/collections/our-full-catalog): - The Tablecloth Store
-  Updated: 2025-11-18T12:21:54Z
+  Updated: 2025-11-20T23:16:56Z
   Total Products: 592
 - [Try out - The Tablecloth Store](https://thetableclothstore.com/collections/try-out): - The Tablecloth Store
   Updated: 2025-09-04T18:59:07Z
   Total Products: 0
 - [72 Inch - The Tablecloth Store](https://thetableclothstore.com/collections/72-inch): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:29Z
+  Updated: 2025-11-20T23:14:11Z
   Total Products: 22
 - [New! Shopify performance sharing is now turned on - The Tablecloth Store](https://thetableclothstore.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - The Tablecloth Store
-  Updated: 2025-11-18T12:21:54Z
+  Updated: 2025-11-20T23:16:56Z
   Total Products: 613
 
 ## Blogs
@@ -33801,6 +33801,9 @@
     Author: User
   - [Tutorial for Linens that Impress: From Setup to Cleanup](https://thetableclothstore.com/blogs/news/tutorial-for-linens-that-impress-from-setup-to-cleanup): Tutorial for Linens that Impress: From Setup to Cleanup
     Updated: 2025-11-18T02:08:05Z
+    Author: User
+  - [Choosing the Right Tablecloth for Casual Gatherings](https://thetableclothstore.com/blogs/news/choosing-the-right-tablecloth-for-casual-gatherings): Choosing the Right Tablecloth for Casual Gatherings
+    Updated: 2025-11-20T01:30:48Z
     Author: User
 
 ## Store Pages
