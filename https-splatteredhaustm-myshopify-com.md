@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-25T14:09:39Z
 - Contact Email: splatteredhaus@gmail.com
-- Updated At: 2025-11-19T00:00:20.744Z
+- Updated At: 2025-11-21T00:00:55.132Z
 
 ## Products
 
@@ -1745,7 +1745,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371439.jpg?v=1763232386
     Price: $81.33 USD
 - [Punk Rock Love Letter Round Square Pendant Chunky Necklace Lover](https://splatteredhaustm.myshopify.com/products/punk-rock-love-letter-round-square-pendant-chunky-necklace-lover-hip-hop-jewelry): Length:49cm - Splattered Haus TM
-  Updated: 2025-11-18T17:17:49Z
+  Updated: 2025-11-20T17:16:11Z
   Vendor: Feelontop Jewellery
   Product Type: n/a
   Availability: Available
@@ -3218,7 +3218,7 @@
   Updated: 2025-11-15T06:38:09Z
   Total Products: 1
 - [OPEN - Best Sellers - Splattered Haus TM](https://splatteredhaustm.myshopify.com/collections/open-best-sellers): Explore the Best Sellers from OPEN Why You Should Check Out OPEN - Best Sellers OPEN - Best Sellers  - Splattered Haus TM
-  Updated: 2025-11-18T17:17:51Z
+  Updated: 2025-11-20T17:16:12Z
   Total Products: 77
 - [staff picks - Splattered Haus TM](https://splatteredhaustm.myshopify.com/collections/staff-picks): - Splattered Haus TM
   Updated: 2025-11-15T06:38:07Z
