@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-21T00:01:47.754Z
+- Updated At: 2025-11-21T08:00:31.558Z
 
 ## Products
 
@@ -4338,7 +4338,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Affinati Luxury Matches | Elegant White Matchbox for Candles & Décor](https://affinatiliving.com/products/affinati-luxury-matches-elegant-white-matchbox-for-candles-decor): Light your candles in style with Affinati Luxury Matches — a sleek white matchbox featuring the signature Affinati logo. Minimal, refined, and perfect for gifting or display.
-  Updated: 2025-11-15T15:59:26Z
+  Updated: 2025-11-21T02:50:20Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7039,7 +7039,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Lavender Vanilla - Shea Butter Body Lotion (10 oz)](https://affinatiliving.com/products/lavender-vanilla-shea-butter-body-lotion-10-oz): Lavender Vanilla Shea Butter Lotion by Affinati—soothing lavender, creamy vanilla, and rich hydration for soft, radiant, luxuriously scented skin all day.
-  Updated: 2025-11-20T17:02:32Z
+  Updated: 2025-11-21T04:32:02Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7180,8 +7180,8 @@
 ## Blogs
 
 - [News](https://affinatiliving.com/blogs/news)
-  - [Paraffin vs Soy Wax - Which is Better?](https://affinatiliving.com/blogs/news/paraffin-vs-soy-wax-which-is-better)
-    Updated: 2025-09-07T02:06:22Z
+  - [Paraffin vs Soy Wax: Full Comparison + The Best Candle Wax for Clean Burning](https://affinatiliving.com/blogs/news/paraffin-vs-soy-wax-which-is-better)
+    Updated: 2025-11-21T01:36:26Z
     Author: Gerard Collins
   - [Best Candle Scents for Every Season!](https://affinatiliving.com/blogs/news/best-candle-scents-for-every-season)
     Updated: 2025-09-07T02:06:42Z
@@ -7624,8 +7624,8 @@
   - [Why You Shouldn’t Buy EOS Lotion | Better Skincare Alternatives](https://affinatiliving.com/blogs/news/why-you-shouldn-t-buy-eos-lotion-better-skincare-alternatives)
     Updated: 2025-10-28T02:22:53Z
     Author: Gerard Collins
-  - [Why You Shouldn’t Buy Aveeno Lotion (And What to Use Instead)](https://affinatiliving.com/blogs/news/why-you-shouldn-t-buy-aveeno-lotion-and-what-to-use-instead)
-    Updated: 2025-10-29T01:36:16Z
+  - [Why You Shouldn’t Buy Aveeno Lotion (And the Better, Cleaner Alternative You’ll Love)](https://affinatiliving.com/blogs/news/why-you-shouldn-t-buy-aveeno-lotion-and-what-to-use-instead)
+    Updated: 2025-11-21T01:31:00Z
     Author: Gerard Collins
   - [Why You Shouldn’t Buy Victoria’s Secret Lotion (And What to Use Instead)](https://affinatiliving.com/blogs/news/why-you-shouldn-t-buy-victoria-s-secret-lotion-and-what-to-use-instead)
     Updated: 2025-10-29T01:37:13Z
@@ -8160,9 +8160,6 @@
   - [Best Small Candles for Every Space | 10 oz Single Wick Candles by Affinati](https://affinatiliving.com/blogs/deep-analysis/best-small-candles-for-every-space-10-oz-single-wick-candles-by-affinati)
     Updated: 2025-10-16T20:54:11Z
     Author: Gerard Collins
-  - [Does Affinati Ship Internationally? | Global Candle & Home Fragrance Shipping Guide](https://affinatiliving.com/blogs/deep-analysis/does-affinati-ship-internationally-global-candle-and-home-fragrance-shipping-guide)
-    Updated: 2025-10-16T20:53:32Z
-    Author: Gerard Collins
   - [Do Strong Candles Have More Toxins? | Clean, Non-Toxic Soy Candles by Affinati](https://affinatiliving.com/blogs/deep-analysis/do-strong-candles-have-more-toxins-clean-non-toxic-soy-candles-by-affinati)
     Updated: 2025-10-18T00:51:48Z
     Author: Gerard Collins
@@ -8614,8 +8611,23 @@
   - [Bath & Body Works vs Nest: Full Candle Comparison Guide](https://affinatiliving.com/blogs/debates/bath-body-works-vs-nest-full-candle-comparison-guide)
     Updated: 2025-11-19T13:20:57Z
     Author: Gerard Collins
+  - [Bath & Body Works vs Boy Smells: Full Comparison + Best Modern Luxury Alternative | Affinati](https://affinatiliving.com/blogs/debates/bath-body-works-vs-boy-smells-full-comparison-best-modern-luxury-alternative-affinati)
+    Updated: 2025-11-21T01:17:58Z
+    Author: Gerard Collins
+  - [Bath & Body Works vs Homesick – Best Candle Comparison | Affinati](https://affinatiliving.com/blogs/debates/bath-body-works-vs-homesick-best-candle-comparison-affinati)
+    Updated: 2025-11-21T01:22:40Z
+    Author: Gerard Collins
   - [Voluspa vs Capri Blue: Ultimate Candle Comparison Guide](https://affinatiliving.com/blogs/debates/voluspa-vs-capri-blue-ultimate-candle-comparison-guide): Voluspa vs Capri Blue: Ultimate Candle Comparison Guide
     Updated: 2025-11-20T09:55:28Z
+    Author: Gerard Collins
+  - [Voluspa vs Nest New York: Best Luxury Candle Comparison](https://affinatiliving.com/blogs/debates/voluspa-vs-nest-new-york-best-luxury-candle-comparison)
+    Updated: 2025-11-21T01:03:51Z
+    Author: Gerard Collins
+  - [Voluspa vs Homesick: Which Candle Brand Is Best?](https://affinatiliving.com/blogs/debates/voluspa-vs-homesick-which-candle-brand-is-best)
+    Updated: 2025-11-21T01:00:18Z
+    Author: Gerard Collins
+  - [Voluspa vs Jo Malone: Which Luxury Candle Is Better?](https://affinatiliving.com/blogs/debates/voluspa-vs-jo-malone-which-luxury-candle-is-better)
+    Updated: 2025-11-21T01:04:35Z
     Author: Gerard Collins
   - [Voluspa vs Boy Smells: Which Candle Brand Is Better? Full Comparison](https://affinatiliving.com/blogs/debates/voluspa-vs-boy-smells-which-candle-brand-is-better-full-comparison)
     Updated: 2025-11-20T09:57:57Z
@@ -8732,6 +8744,10 @@
     Updated: 2025-11-19T05:43:54Z
     Author: Affinati
     Tags: effective wellness strategies, fitness, health, healthy habits, lifestyle changes for wellness, mindfulness practices, stress management, wellness
+  - [How to Create a Personal Wellness Plan That Works](https://affinatiliving.com/blogs/affinati-articles/how-to-create-a-personal-wellness-plan-that-works): How to Create a Personal Wellness Plan That Works
+    Updated: 2025-11-21T02:31:45Z
+    Author: Affinati
+    Tags: create wellness plan, effective wellness solutions, fitness, health, health goals, personal wellness, wellness, wellness strategy
 
 ## Store Pages
 
