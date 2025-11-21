@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-11-09T14:00:17Z
 - Contact Email: isabelle.berthier@rocketmail.com
-- Updated At: 2025-11-19T00:01:14.389Z
+- Updated At: 2025-11-21T00:01:26.355Z
 
 ## Products
 
@@ -247,45 +247,45 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-youth-leggings-white-front-6911b3d80a8ba.jpg?v=1763030133
     Price: €27.50 EUR
 - [Unisex Sweatshirt in the mood for clouds](https://kin-design-france.myshopify.com/products/unisex-sweatshirt): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Subtle orange hue shifts with lighting in the Orange color variant. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, bisphenols and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), kin design ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at isabelle.berthier@rocketmail.com or write to us 5, place du président Magnaud Saint Yrieix La Perche France.Size guide LENGTH (cm) WIDTH (cm) S 68.6 50.8 M 71.1 55.9 L 73.7 61 XL 76.2 66 2XL 78.7 71.1 3XL 81.3 76.2 4XL 83.8 81.3 5XL 86.4 86.4
-  Updated: 2025-11-12T08:02:19Z
+  Updated: 2025-11-20T12:26:36Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/IMG-5953.png?v=1762857202
   - [S](https://kin-design-france.myshopify.com/products/unisex-sweatshirt?variant=56152571740535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-black-front-6911b8a29a00e.jpg?v=1762857202
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-black-front-6911b8a29a00e.jpg?v=1763641595
     Price: €29.50 EUR
   - [M](https://kin-design-france.myshopify.com/products/unisex-sweatshirt?variant=56152571773303)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-black-front-6911b8a29a00e.jpg?v=1762857202
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-black-front-6911b8a29a00e.jpg?v=1763641595
     Price: €29.50 EUR
   - [L](https://kin-design-france.myshopify.com/products/unisex-sweatshirt?variant=56152571806071)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-black-front-6911b8a29a00e.jpg?v=1762857202
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-black-front-6911b8a29a00e.jpg?v=1763641595
     Price: €29.50 EUR
   - [XL](https://kin-design-france.myshopify.com/products/unisex-sweatshirt?variant=56152571838839)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-black-front-6911b8a29a00e.jpg?v=1762857202
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-black-front-6911b8a29a00e.jpg?v=1763641595
     Price: €29.50 EUR
   - [2XL](https://kin-design-france.myshopify.com/products/unisex-sweatshirt?variant=56152571871607)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-black-front-6911b8a29a00e.jpg?v=1762857202
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-black-front-6911b8a29a00e.jpg?v=1763641595
     Price: €31.50 EUR
   - [3XL](https://kin-design-france.myshopify.com/products/unisex-sweatshirt?variant=56152571904375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-black-front-6911b8a29a00e.jpg?v=1762857202
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-black-front-6911b8a29a00e.jpg?v=1763641595
     Price: €33.50 EUR
   - [4XL](https://kin-design-france.myshopify.com/products/unisex-sweatshirt?variant=56152571937143)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-black-front-6911b8a29a00e.jpg?v=1762857202
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-black-front-6911b8a29a00e.jpg?v=1763641595
     Price: €26.00 EUR
   - [5XL](https://kin-design-france.myshopify.com/products/unisex-sweatshirt?variant=56152571969911)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-black-front-6911b8a29a00e.jpg?v=1762857202
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-black-front-6911b8a29a00e.jpg?v=1763641595
     Price: €28.00 EUR
 - [Recycled Swimsuit for young girls](https://kin-design-france.myshopify.com/products/all-over-print-youth-swimsuit): What are the things you're looking for in a youth swimsuit? Comfortable fit? Check. Elastic and soft fabric? Check. Lovely print? Check. As you can see, this girls' swimsuit has all the main points needed in a swimsuit for those active kiddos who seem to be in perpetual motion. • 75% recycled polyester, 25% elastane for production in the US/Mexico • 82% polyester, 18% elastane for production in Latvia • Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico • Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia • Double layer front • Bias binding in black or white • Sewn with an overlock stitch • Smooth and comfortable microfiber yarn • Four-way stretch material stretches and recovers on the cross and lengthwise grains • Blank product components sourced from Mexico and China Please note that contact with rough surfaces and velcro fasteners should be avoided since they can pull out the white fibers in the fabric, damaging the swimsuit’s appearance. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! • Traceability: - Knitting—China - Dyeing—China - Manufacturing—Latvia • Contains 0% recycled polyester • Contains 0% dangerous substances • This item releases plastic microfibers into the environment during washing Age restrictions: For children EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), kin design ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at isabelle.berthier@rocketmail.com or write to us 5, place du président Magnaud Saint Yrieix La Perche France.Size guide HEIGHT (cm) CHEST (cm) WAIST (cm) HIPS (cm) 8 134 69 60 73 10 140 72 62 77 12 146 75 64 80 14 152 78 66 83 16 158 81 67 86 18 164 84 68 88 20 170.2 87 69 90
-  Updated: 2025-11-12T08:02:19Z
+  Updated: 2025-11-20T12:05:19Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -498,10 +498,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/womens-high-top-canvas-shoes-white-front-6915dd54a46f7.jpg?v=1763040643
     Price: €49.50 EUR
-- [Women's Rash Guard](https://kin-design-france.myshopify.com/products/womens-rash-guard): Don't be afraid to be your most active self in this smooth and versatile long-sleeve rash guard! It protects you from the sun, wind, and other elements while doing sports, and the slim fit, flat ergonomic seams, and the longer body gives extra comfort. • 75% recycled polyester, 25% elastane for production in the US/Mexico • 82% polyester, 18% elastane for production in Latvia • Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico • Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia • Very soft four-way stretch fabric that stretches and recovers on the cross and lengthwise grains • Fitted design • Comfortable longer body and sleeves • Flatseam and coverstitch • Blank product components sourced from Mexico and China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), kin design ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at isabelle.berthier@rocketmail.com or write to us 5, place du président Magnaud Saint Yrieix La Perche France.Size guide CHEST (cm) WAIST (cm) HIPS (cm) XS 88 68 94 S 92 72 98 M 96 76 102 L 104 84 110 XL 112 92 118 2XL 120 100 126 3XL 128 108 134
-  Updated: 2025-11-14T23:32:30Z
+- [Recycled Women's Rash Guard](https://kin-design-france.myshopify.com/products/womens-rash-guard): Don't be afraid to be your most active self in this smooth and versatile long-sleeve rash guard! It protects you from the sun, wind, and other elements while doing sports, and the slim fit, flat ergonomic seams, and the longer body gives extra comfort. • 75% recycled polyester, 25% elastane for production in the US/Mexico • 82% polyester, 18% elastane for production in Latvia • Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico • Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia • Very soft four-way stretch fabric that stretches and recovers on the cross and lengthwise grains • Fitted design • Comfortable longer body and sleeves • Flatseam and coverstitch • Blank product components sourced from Mexico and China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), kin design ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at isabelle.berthier@rocketmail.com or write to us 5, place du président Magnaud Saint Yrieix La Perche France.Size guide CHEST (cm) WAIST (cm) HIPS (cm) XS 88 68 94 S 92 72 98 M 96 76 102 L 104 84 110 XL 112 92 118 2XL 120 100 126 3XL 128 108 134
+  Updated: 2025-11-20T12:04:41Z
   Vendor: Kin design France
-  Product Type: 
+  Product Type: top
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/Photoroom_20251114_124138.png?v=1763120633
   - [XS](https://kin-design-france.myshopify.com/products/womens-rash-guard?variant=56181325562231)
@@ -532,8 +532,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-womens-rash-guard-white-front-69171319c5756.jpg?v=1763120633
     Price: €42.00 EUR
-- [Leggings](https://kin-design-france.myshopify.com/products/leggings-2): Stylish, durable, and a hot fashion staple. These polyester/spandex leggings are made of a comfortable microfiber yarn, and they'll never lose their stretch. • 75% recycled polyester, 25% elastane for production in the US/Mexico • 82% polyester, 18% elastane for production in Latvia • Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico • Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia • Made of a microfiber yarn, which makes the item smooth and comfortable • Four-way stretch fabric that stretches and recovers on the cross and lengthwise grains • Elastic waistband • Overlock and coverstitch • Blank product components sourced from Mexico and China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! • Traceability: - Knitting—China - Dyeing—China - Manufacturing—Latvia • Contains 0% recycled polyester • Contains 0% dangerous substances • This item releases plastic microfibers into the environment during washing Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), kin design ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at isabelle.berthier@rocketmail.com or write to us 5, place du président Magnaud Saint Yrieix La Perche France.Size guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114
-  Updated: 2025-11-16T21:42:33Z
+- [Recycled Leggings for women](https://kin-design-france.myshopify.com/products/leggings-2): Stylish, durable, and a hot fashion staple. These polyester/spandex leggings are made of a comfortable microfiber yarn, and they'll never lose their stretch. • 75% recycled polyester, 25% elastane for production in the US/Mexico • 82% polyester, 18% elastane for production in Latvia • Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico • Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia • Made of a microfiber yarn, which makes the item smooth and comfortable • Four-way stretch fabric that stretches and recovers on the cross and lengthwise grains • Elastic waistband • Overlock and coverstitch • Blank product components sourced from Mexico and China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! • Traceability: - Knitting—China - Dyeing—China - Manufacturing—Latvia • Contains 0% recycled polyester • Contains 0% dangerous substances • This item releases plastic microfibers into the environment during washing Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), kin design ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at isabelle.berthier@rocketmail.com or write to us 5, place du président Magnaud Saint Yrieix La Perche France.Size guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114
+  Updated: 2025-11-20T23:25:09Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -558,18 +558,154 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-69199c68c826a.jpg?v=1763287450
     Price: €35.00 EUR
+- [Unisex organic sweatshirt](https://kin-design-france.myshopify.com/products/unisex-organic-sweatshirt): The Unisex organic sweatshirt is made of organic and recycled materials, and feels soft and cozy to the touch. It has set-in sleeves, 2×2 rib at collar, and a self-fabric neck tape. Order your next eco-friendly essential and hit the streets in style! Ideal with our black&red leggings from the collection fly like a bird. • 80% organic cotton, 20% recycled polyester • 100% organic cotton exterior • Frenchy terry knit • Set-in sleeves • 2×2 rib at collar • Self-fabric neck tape • Blank product sourced from Bangladesh Disclaimer: US customers should order a size up as the EU sizes for this supplier correspond to a smaller size in the US market. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the EU REACH requirements. In compliance with the General Product Safety Regulation (GPSR), kin design ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at isabelle.berthier@rocketmail.com or write to us 5, place du président Magnaud Saint Yrieix La Perche France. Size guide CHEST WIDTH (cm) BODY LENGTH (cm) S 51 68 M 54 70 L 57 72 XL 60 74 XXL 63 76
+  Updated: 2025-11-20T12:21:18Z
+  Vendor: Kin design France
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/IMG-6133.png?v=1763641278
+  - [S](https://kin-design-france.myshopify.com/products/unisex-organic-sweatshirt?variant=56214068298103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-organic-sweatshirt-red-front-691efd4fd8755.jpg?v=1763641278
+    Price: €39.00 EUR
+  - [M](https://kin-design-france.myshopify.com/products/unisex-organic-sweatshirt?variant=56214068330871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-organic-sweatshirt-red-front-691efd4fd8755.jpg?v=1763641278
+    Price: €39.00 EUR
+  - [L](https://kin-design-france.myshopify.com/products/unisex-organic-sweatshirt?variant=56214068363639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-organic-sweatshirt-red-front-691efd4fd8755.jpg?v=1763641278
+    Price: €39.00 EUR
+  - [XL](https://kin-design-france.myshopify.com/products/unisex-organic-sweatshirt?variant=56214068396407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-organic-sweatshirt-red-front-691efd4fd8755.jpg?v=1763641278
+    Price: €39.00 EUR
+  - [XXL](https://kin-design-france.myshopify.com/products/unisex-organic-sweatshirt?variant=56214068429175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-organic-sweatshirt-red-front-691efd4fd8755.jpg?v=1763641278
+    Price: €39.00 EUR
+- [Recycled Leggings for women](https://kin-design-france.myshopify.com/products/leggings-3): Stylish, durable, and a hot fashion staple. These polyester/spandex leggings are made of a comfortable microfiber yarn, and they'll never lose their stretch. • 75% recycled polyester, 25% elastane for production in the US/Mexico • 82% polyester, 18% elastane for production in Latvia • Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico • Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia • Made of a microfiber yarn, which makes the item smooth and comfortable • Four-way stretch fabric that stretches and recovers on the cross and lengthwise grains • Elastic waistband • Overlock and coverstitch • Blank product components sourced from Mexico and China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! • Traceability: - Knitting—China - Dyeing—China - Manufacturing—Latvia • Contains 0% recycled polyester • Contains 0% dangerous substances • This item releases plastic microfibers into the environment during washing Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), kin design ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at isabelle.berthier@rocketmail.com or write to us 5, place du président Magnaud Saint Yrieix La Perche France.Size guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114
+  Updated: 2025-11-20T16:48:09Z
+  Vendor: Kin design France
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/IMG-6131.png?v=1763641278
+  - [XS](https://kin-design-france.myshopify.com/products/leggings-3?variant=56214100181367)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-691efef862214.jpg?v=1763639898
+    Price: €35.00 EUR
+  - [S](https://kin-design-france.myshopify.com/products/leggings-3?variant=56214100214135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-691efef862214.jpg?v=1763639898
+    Price: €35.00 EUR
+  - [M](https://kin-design-france.myshopify.com/products/leggings-3?variant=56214100246903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-691efef862214.jpg?v=1763639898
+    Price: €35.00 EUR
+  - [L](https://kin-design-france.myshopify.com/products/leggings-3?variant=56214100279671)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-691efef862214.jpg?v=1763639898
+    Price: €35.00 EUR
+  - [XL](https://kin-design-france.myshopify.com/products/leggings-3?variant=56214100312439)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-691efef862214.jpg?v=1763639898
+    Price: €35.00 EUR
+- [Sports Bra](https://kin-design-france.myshopify.com/products/sports-bra): Get the perfect bra for your workouts! This comfy bra has a soft moisture-wicking fabric, extra materials in shoulder straps, and removable padding for maximum support. • 75% recycled polyester, 25% elastane for production in the US/Mexico • 82% polyester, 18% elastane for production in Latvia • Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico • Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia • Sports mesh lining: 92% polyester, 8% spandex (in the US), and 90% polyester, 10% elastane (in the EU) • Padding: 100% polyurethane perforated foam and 100% polyester moisture-wicking fabric • Four-way stretch material • Scoop neckline and racerback • Support material in shoulder straps, and a wide elastic under breasts • Best for A–C cups • Removable padding included • Mesh lining with slits for removing paddings • Flat seams and bias binding that eliminate rubbing • Blank product components sourced from Mexico and China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! • Traceability: - Knitting—China - Dyeing—China - Manufacturing—Latvia • Contains 0% recycled polyester • Contains 0% dangerous substances • This item releases plastic microfibers into the environment during washing Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), kin design ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at isabelle.berthier@rocketmail.com or write to us 5, place du président Magnaud Saint Yrieix La Perche France.Size guide CHEST (cm) UNDERBUST (cm) XS 84 73 S 88 75 M 92 77 L 100 81 XL 108 85 2XL 116 89
+  Updated: 2025-11-20T21:44:20Z
+  Vendor: Kin design France
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/IMG-6136.png?v=1763644044
+  - [XS](https://kin-design-france.myshopify.com/products/sports-bra?variant=56214431760759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-white-front-691f0fa15d83b.jpg?v=1763644044
+    Price: €39.00 EUR
+  - [S](https://kin-design-france.myshopify.com/products/sports-bra?variant=56214431793527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-white-front-691f0fa15d83b.jpg?v=1763644044
+    Price: €39.00 EUR
+  - [M](https://kin-design-france.myshopify.com/products/sports-bra?variant=56214431826295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-white-front-691f0fa15d83b.jpg?v=1763644044
+    Price: €39.00 EUR
+  - [L](https://kin-design-france.myshopify.com/products/sports-bra?variant=56214431859063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-white-front-691f0fa15d83b.jpg?v=1763644044
+    Price: €39.00 EUR
+  - [XL](https://kin-design-france.myshopify.com/products/sports-bra?variant=56214431891831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-white-front-691f0fa15d83b.jpg?v=1763644044
+    Price: €39.00 EUR
+  - [2XL](https://kin-design-france.myshopify.com/products/sports-bra?variant=56214431924599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-white-front-691f0fa15d83b.jpg?v=1763644044
+    Price: €39.00 EUR
+- [Sports Bra B](https://kin-design-france.myshopify.com/products/sports-bra-b): Get the perfect bra for your workouts! This comfy bra has a soft moisture-wicking fabric, extra materials in shoulder straps, and removable padding for maximum support. Ideal to coordinateur with our in the mood for clouds legging black. • 75% recycled polyester, 25% elastane for production in the US/Mexico • 82% polyester, 18% elastane for production in Latvia • Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico • Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia • Sports mesh lining: 92% polyester, 8% spandex (in the US), and 90% polyester, 10% elastane (in the EU) • Padding: 100% polyurethane perforated foam and 100% polyester moisture-wicking fabric • Four-way stretch material • Scoop neckline and racerback • Support material in shoulder straps, and a wide elastic under breasts • Best for A–C cups • Removable padding included • Mesh lining with slits for removing paddings • Flat seams and bias binding that eliminate rubbing • Blank product components sourced from Mexico and China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! • Traceability: - Knitting—China - Dyeing—China - Manufacturing—Latvia • Contains 0% recycled polyester • Contains 0% dangerous substances • This item releases plastic microfibers into the environment during washing Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), kin design ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at isabelle.berthier@rocketmail.com or write to us 5, place du président Magnaud Saint Yrieix La Perche France. Size guide CHEST (cm) UNDERBUST (cm) XS 84 73 S 88 75 M 92 77 L 100 81 XL 108 85 2XL 116 89
+  Updated: 2025-11-20T13:49:38Z
+  Vendor: Kin design France
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/IMG-6141.png?v=1763646032
+  - [Black / XS](https://kin-design-france.myshopify.com/products/sports-bra-b?variant=56214562242935)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-black-front-691f14ff4ca6c.jpg?v=1763646032
+    Price: €39.00 EUR
+  - [Black / S](https://kin-design-france.myshopify.com/products/sports-bra-b?variant=56214562275703)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-black-front-691f14ff4ca6c.jpg?v=1763646032
+    Price: €39.00 EUR
+  - [Black / M](https://kin-design-france.myshopify.com/products/sports-bra-b?variant=56214562308471)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-black-front-691f14ff4ca6c.jpg?v=1763646032
+    Price: €39.00 EUR
+  - [Black / L](https://kin-design-france.myshopify.com/products/sports-bra-b?variant=56214562341239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-black-front-691f14ff4ca6c.jpg?v=1763646032
+    Price: €39.00 EUR
+  - [Black / XL](https://kin-design-france.myshopify.com/products/sports-bra-b?variant=56214562374007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-black-front-691f14ff4ca6c.jpg?v=1763646032
+    Price: €39.00 EUR
+  - [Black / 2XL](https://kin-design-france.myshopify.com/products/sports-bra-b?variant=56214562406775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-black-front-691f14ff4ca6c.jpg?v=1763646032
+    Price: €39.00 EUR
+  - [White / XS](https://kin-design-france.myshopify.com/products/sports-bra-b?variant=56214562439543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-white-front-691f14ff4d861.jpg?v=1763646032
+    Price: €39.00 EUR
+  - [White / S](https://kin-design-france.myshopify.com/products/sports-bra-b?variant=56214562472311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-white-front-691f14ff4d861.jpg?v=1763646032
+    Price: €39.00 EUR
+  - [White / M](https://kin-design-france.myshopify.com/products/sports-bra-b?variant=56214562505079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-white-front-691f14ff4d861.jpg?v=1763646032
+    Price: €39.00 EUR
+  - [White / L](https://kin-design-france.myshopify.com/products/sports-bra-b?variant=56214562537847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-white-front-691f14ff4d861.jpg?v=1763646032
+    Price: €39.00 EUR
+  - [White / XL](https://kin-design-france.myshopify.com/products/sports-bra-b?variant=56214562570615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-white-front-691f14ff4d861.jpg?v=1763646032
+    Price: €39.00 EUR
+  - [White / 2XL](https://kin-design-france.myshopify.com/products/sports-bra-b?variant=56214562603383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-padded-sports-bra-white-front-691f14ff4d861.jpg?v=1763646032
+    Price: €39.00 EUR
 
 ## Collections
 
 - [Home page](https://kin-design-france.myshopify.com/collections/frontpage): Kin Design is a French creative brand designed for those who want to consume fashion differently. Using a print-on-demand model, each piece is made only when ordered, helping reduce unnecessary stock, minimize waste, and support a more eco-friendly approach to clothing. Every design is created by a French artist inspired by nature. Her inspirations shape unique, poetic, and authentic illustrations, resulting in an original and modern collection available for immediate purchase. With Kin Design, you choose unique, ethical, and affordable products that are made to last and carry real meaning. A brand with a strong identity, where creativity and environmental consciousness come together to offer a responsible and accessible fashion experience for everyone. Français Kin Design est une marque française de création textile pensée pour celles et ceux qui souhaitent consommer autrement. Grâce au print à la demande, chaque pièce est fabriquée uniquement lorsqu’elle est commandée, ce qui permet de réduire les stocks inutiles, de limiter les déchets et de promouvoir une approche plus écologique de la mode. Chaque design est imaginé par une créatrice française passionnée par la nature. Ses inspirations se retrouvent dans des illustrations uniques, poétiques et authentiques, donnant naissance à une collection originale, moderne et immédiatement disponible à la commande. Avec Kin Design, vous choisissez des produits originaux, éthiques et abordables, conçus pour durer et porteurs de sens. Une marque à l’identité forte, où créativité et respect de l’environnement se rencontrent pour proposer une expérience de mode responsable et accessible à tous.
-  Updated: 2025-11-17T10:42:32Z
-  Total Products: 10
+  Updated: 2025-11-20T13:18:28Z
+  Total Products: 12
 - [In the mood for clouds](https://kin-design-france.myshopify.com/collections/in-the-mood-for-clouds): In the Moods for Clouds By KIN Design — French creation, ethical and poetic Light as air, soft as a summer breeze, the “In the Moods for Clouds” collection invites you to dream. Imagined by the French designer behind KIN Design, this line of clothing celebrates the beauty of the sky and those fleeting moments when clouds tell their own stories. Each piece is printed on demand, reducing textile waste and embracing a more mindful way of creating. The cloud-inspired prints capture the movement, softness, and ever-changing shapes of the sky, offering silhouettes that are both airy and contemporary. Crafted from recycled and eco-friendly materials, the collection reflects KIN Design’s commitment to sustainable fashion and French craftsmanship. From oversized sweatshirts to minimalist tees and eco-designed tote bags, every item from In the Moods for Clouds is an ode to softness, freedom, and imagination — a little piece of sky you can wear.
-  Updated: 2025-11-17T10:19:27Z
-  Total Products: 11
+  Updated: 2025-11-20T13:18:28Z
+  Total Products: 12
 - [Fly like a Bird](https://kin-design-france.myshopify.com/collections/fly-like-a-bird): 🕊️ Fly Like a Bird – The New Collection by KIN Design Take flight with Fly Like a Bird, the new collection from KIN Design — a poetic blend of freedom, creativity, and conscious design for men, women, and children. Inspired by the lightness of the sky and the beauty of movement, each piece combines comfort and elegance through carefully chosen materials — from organic cotton to recycled polyester and custom-printed fabrics made on demand. Every design is crafted in France with KIN Design’s signature touch: exclusive prints, reversible styles, and a commitment to slow fashion that respects both people and the planet. Whether you’re exploring the city or chasing the wind, Fly Like a Bird invites you to move freely, dress consciously, and express your true colors. ✨ Fly Like a Bird – Sustainable freedom for every generation. ✨
-  Updated: 2025-11-17T10:42:32Z
-  Total Products: 2
+  Updated: 2025-11-20T12:02:04Z
+  Total Products: 4
 
 ## Blogs
 
