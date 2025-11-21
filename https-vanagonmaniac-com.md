@@ -6,7 +6,7 @@
 - Timezone: Europe/Riga
 - Created At: 2022-09-15T15:01:28Z
 - Contact Email: vanagonmaniac@gmail.com
-- Updated At: 2025-11-20T00:01:39.810Z
+- Updated At: 2025-11-21T00:01:35.797Z
 
 ## Products
 
@@ -2443,7 +2443,7 @@
     Availability: Available
     Price: €520.00 EUR
 - [Magnetic Mosquito Net for VW T4 Eurovan Sliding Door + Trunk BLACK](https://vanagonmaniac.com/products/magnetic-mosquito-net-for-vw-t4-eurovan-sliding-door-black): Keep your VW T4 campervan bug-free with this premium-quality magnetic insect screen designed specifically for the sliding side door and rear hatch.
-  Updated: 2025-11-10T22:28:11Z
+  Updated: 2025-11-20T03:08:45Z
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
@@ -3084,10 +3084,10 @@
   Updated: 2025-11-11T12:36:44Z
   Total Products: 9
 - [T25/T3](https://vanagonmaniac.com/collections/t25): Volkswagen T25/T3/VANAGON/SCA/REIMO pop-top replacement canvas. Brand new VW Westfalia pop-up camper replacement canvas weather weather-resistant, model fit and in 14 colours.
-  Updated: 2025-11-10T22:28:08Z
+  Updated: 2025-11-20T12:11:01Z
   Total Products: 11
 - [T4](https://vanagonmaniac.com/collections/t4): Volkswagen T4 Replacement Pop Top Canvas for short wheel and long wheel base.
-  Updated: 2025-11-10T22:28:08Z
+  Updated: 2025-11-20T12:11:01Z
   Total Products: 12
 - [Accessories](https://vanagonmaniac.com/collections/accessories)
   Updated: 2025-11-10T22:28:08Z
@@ -3099,7 +3099,7 @@
   Updated: 2025-11-10T22:28:08Z
   Total Products: 1
 - [MOSQUITO NETS](https://vanagonmaniac.com/collections/mosquito-nets): VW camper mosquito nets for T3/T25, T4/Eurovan, and T5.No-see-um mesh. Sliding door, rear hatch, and cab options.Closures: zipper or magnetic. Model-specific fit. EU-made.DDP worldwide shipping (duties & taxes prepaid, no hidden fees).
-  Updated: 2025-11-10T22:28:08Z
+  Updated: 2025-11-20T12:11:01Z
   Total Products: 4
 - [Top sellers](https://vanagonmaniac.com/collections/top-sellers)
   Updated: 2025-11-10T22:28:08Z
@@ -3108,10 +3108,10 @@
   Updated: 2025-11-10T22:28:08Z
   Total Products: 1
 - [Insulation](https://vanagonmaniac.com/collections/insulation): Thermal Insulation Kits VW Pop-Top Roof & Windows! Upgrade your camper comfort with premium 9-layer thermal insulation, engineered for Volkswagen campervans and crafted by VanagonManiac. Our insulation kits are made in Latvia, Europe using top-quality materials that guarantee perfect fit, all-season comfort, and modern design.
-  Updated: 2025-11-10T22:28:08Z
+  Updated: 2025-11-20T12:11:01Z
   Total Products: 6
 - [AVADA - Best Sellers](https://vanagonmaniac.com/collections/avada-best-sellers)
-  Updated: 2025-11-11T19:31:24Z
+  Updated: 2025-11-20T12:11:01Z
   Total Products: 38
 
 ## Blogs
