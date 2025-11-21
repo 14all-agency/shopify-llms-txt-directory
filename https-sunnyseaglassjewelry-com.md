@@ -6,23 +6,23 @@
 - Timezone: America/New_York
 - Created At: 2025-08-22T04:17:36Z
 - Contact Email: Sunnymello810@gmail.com
-- Updated At: 2025-11-19T00:00:46.348Z
+- Updated At: 2025-11-21T00:00:48.840Z
 
 ## Products
 
-- [White Sea Glass Sailboat Necklace  in Sterling Silver - www.Sunny Sea Glass Jewelry.com](https://sunnyseaglassjewelry.com/products/white-sea-glass-sailboat-earrings-in-sterling-silver): Gorgeous shade of cultured Frosted Clear White sea glass  !!!   Experience the charm of the sea with this handcrafted sailboat necklace and earrings  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-16T10:47:38Z
+- [Sailboat Sea Glass Necklace - Sterling Silver Handcrafted Jewelry](https://sunnyseaglassjewelry.com/products/white-sea-glass-sailboat-earrings-in-sterling-silver): Discover the beauty of the Sailboat Sea Glass Necklace in sterling silver. Perfect for everyday wear, this handcrafted piece captures the charm of the sea and adventure.
+  Updated: 2025-11-20T22:10:32Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/White-Sea-Glass-Sailboat-Earrings-in-Sterling-Silver-My-Store-79494185.jpg?v=1763246900
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/White-Sea-Glass-Sailboat-Earrings-in-Sterling-Silver-My-Store-79494185.jpg?v=1763676631
   Price: $42.95 USD
-- [Beach Wave Necklace in .925 Sterling Silver, Ocean Wave Necklace,](https://sunnyseaglassjewelry.com/products/blue-beach-wave-necklace-in-925-sterling-silver-ocean-wave-necklace-blue-beach-wave-sea-glass-necklace-wave-lampwork-pendant-necklace): Gorgeous Handmade Lampwork Ocean Wave glass necklace. We keep the memory of timeless sea breezes, sea-wind of the night, Golden sand,  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-11T22:48:26Z
+- [Blue Beach Wave Necklace - Sterling Silver Ocean Glass Pendant | Shop Now](https://sunnyseaglassjewelry.com/products/blue-beach-wave-necklace-in-925-sterling-silver-ocean-wave-necklace-blue-beach-wave-sea-glass-necklace-wave-lampwork-pendant-necklace): Discover the Blue Beach Wave Necklace, a stunning sterling silver ocean wave glass necklace. Handmade with care, perfect for sea-inspired jewelry lovers.
+  Updated: 2025-11-20T22:10:33Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/a7f2484a-il_fullxfull.6187453841_obfi.jpg?v=1762901114
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/a7f2484a-il_fullxfull.6187453841_obfi.jpg?v=1763676632
   - [17&quot; chain](https://sunnyseaglassjewelry.com/products/blue-beach-wave-necklace-in-925-sterling-silver-ocean-wave-necklace-blue-beach-wave-sea-glass-necklace-wave-lampwork-pendant-necklace?variant=42904239898705)
     Availability: Available
     Price: $44.95 USD
@@ -32,12 +32,12 @@
   - [19&quot; chain](https://sunnyseaglassjewelry.com/products/blue-beach-wave-necklace-in-925-sterling-silver-ocean-wave-necklace-blue-beach-wave-sea-glass-necklace-wave-lampwork-pendant-necklace?variant=42904239964241)
     Availability: Available
     Price: $44.95 USD
-- [Holiday Dangle Earrings, Ready Ship in ONE day, Sea Glass Christmas](https://sunnyseaglassjewelry.com/products/holiday-dangle-earrings-ready-ship-in-one-day-sea-glass-christmas-tree-earrings-beach-glass-christmas-tree-earrings-sea-glass-jewelry): Celebrate the season with these charming Holiday dangle earrings, perfect for daily wear or special events. Crafted with light Aqua Sea glass beads  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-11T22:58:27Z
+- [Holiday Dangle Earrings - Sea Glass Christmas Tree Jewelry, Ready to Ship](https://sunnyseaglassjewelry.com/products/holiday-dangle-earrings-ready-ship-in-one-day-sea-glass-christmas-tree-earrings-beach-glass-christmas-tree-earrings-sea-glass-jewelry): Shop Holiday Dangle Earrings with sea glass beads, perfect for Christmas. Ready to ship in one day. Add festive sparkle with these unique sea glass jewelry pieces.
+  Updated: 2025-11-20T22:10:37Z
   Vendor: My Store
   Product Type: Sea Glass Earrings
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/14a4d398-il_fullxfull.6552478169_pilz.jpg?v=1762901703
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/14a4d398-il_fullxfull.6552478169_pilz.jpg?v=1763676636
   - [Sterling silver / Red star](https://sunnyseaglassjewelry.com/products/holiday-dangle-earrings-ready-ship-in-one-day-sea-glass-christmas-tree-earrings-beach-glass-christmas-tree-earrings-sea-glass-jewelry?variant=42904241274961)
     Availability: Available
     Price: $28.95 USD
@@ -56,12 +56,12 @@
   - [Gold finished / Silver Star](https://sunnyseaglassjewelry.com/products/holiday-dangle-earrings-ready-ship-in-one-day-sea-glass-christmas-tree-earrings-beach-glass-christmas-tree-earrings-sea-glass-jewelry?variant=42904241438801)
     Availability: Available
     Price: $23.95 USD
-- [Christmas Tree  Ready Ship in ONE day, Sea Glass dangling](https://sunnyseaglassjewelry.com/products/christmas-tree-earrings-ready-ship-in-one-day-sea-glass-dangling-earrings-beach-glass-christmas-tree-earrings-holiday-gifts-for-her): Beautiful Holiday earrings for everyday or special occasions. Fun &amp; festive holiday earrings sure to be noticed! These earrings will make a great  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-17T01:59:58Z
+- [Christmas Tree Earrings - Festive Sea Glass Jewelry, Ready to Ship](https://sunnyseaglassjewelry.com/products/christmas-tree-earrings-ready-ship-in-one-day-sea-glass-dangling-earrings-beach-glass-christmas-tree-earrings-holiday-gifts-for-her): Shop Christmas Tree Earrings featuring beautiful sea glass beads, perfect for holidays or gifts. Ready to ship in one day, ideal for a festive look.
+  Updated: 2025-11-20T22:10:32Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/dba9b35e-il_fullxfull.6486470056_bbi4.jpg?v=1762902136
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/dba9b35e-il_fullxfull.6486470056_bbi4.jpg?v=1763676631
   - [Sterling silver / Red star](https://sunnyseaglassjewelry.com/products/christmas-tree-earrings-ready-ship-in-one-day-sea-glass-dangling-earrings-beach-glass-christmas-tree-earrings-holiday-gifts-for-her?variant=42904245338193)
     Availability: Available
     Price: $28.95 USD
@@ -80,12 +80,12 @@
   - [Gold finished / Silver star](https://sunnyseaglassjewelry.com/products/christmas-tree-earrings-ready-ship-in-one-day-sea-glass-dangling-earrings-beach-glass-christmas-tree-earrings-holiday-gifts-for-her?variant=42904245502033)
     Availability: Available
     Price: $23.95 USD
-- [Wire Wrpped Antiqued Copper Bracelet ,Adjustable  Wire Wrapped](https://sunnyseaglassjewelry.com/products/wire-wrpped-antiqued-copper-bracelet-adjustable-wire-wrapped-bracelet-copper-bangle-cuff-filigree-bracelet-filigree-leaf-vine-bracelet): This handcrafted bracelet features genuine copper wires in varying gauges, carefully antiqued to create a rich, warm patina. The rustic design is  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-11T23:09:14Z
+- [Copper Bangle Bracelet - Handcrafted Adjustable Wire Wrapped Antique Jewelry](https://sunnyseaglassjewelry.com/products/wire-wrpped-antiqued-copper-bracelet-adjustable-wire-wrapped-bracelet-copper-bangle-cuff-filigree-bracelet-filigree-leaf-vine-bracelet): Discover our handcrafted Copper bangle Bracelet featuring genuine copper wires, antique finish, and elegant leaf and vine design. Perfect for wrist sizes 7-8 inches.
+  Updated: 2025-11-20T22:10:42Z
   Vendor: My Store
   Product Type: Wire Wrapped Bracelet/Anklet
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/0993c168-il_fullxfull.868417449_sp8q.jpg?v=1762902358
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/0993c168-il_fullxfull.868417449_sp8q.jpg?v=1763676640
   - [NO Leaf glass beads / 6](https://sunnyseaglassjewelry.com/products/wire-wrpped-antiqued-copper-bracelet-adjustable-wire-wrapped-bracelet-copper-bangle-cuff-filigree-bracelet-filigree-leaf-vine-bracelet?variant=42904245534801)
     Availability: Available
     Price: $30.95 USD
@@ -113,12 +113,12 @@
   - [Brown Leaf / 8](https://sunnyseaglassjewelry.com/products/wire-wrpped-antiqued-copper-bracelet-adjustable-wire-wrapped-bracelet-copper-bangle-cuff-filigree-bracelet-filigree-leaf-vine-bracelet?variant=42904245796945)
     Availability: Available
     Price: $30.95 USD
-- [White  Bracelet, Minimalist Bracelet, Tiny  Bracelet, Blue](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet): This elegant 6mm lab-created opal bracelet features sterling silver beads and a delicate, durable chain. Its minimalist style adds a subtle, versatile  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-11T23:32:26Z
+- [White Opal Bracelet - Elegant Beaded Sterling Silver Jewelry, Perfect Gift](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet): Discover the beautiful White Opal Bracelet featuring lab-created opal beads and sterling silver. Perfect for any occasion, versatile, and stylish in four colors.
+  Updated: 2025-11-20T22:10:36Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/1814cea8-il_fullxfull.6063799993_2k85.jpg?v=1762903753
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/9314dbca-il_fullxfull.6063797871_ddsk.jpg?v=1763676635
   - [No.1  white / 5.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904251695185)
     Availability: Available
     Price: $29.95 USD
@@ -227,36 +227,36 @@
   - [No.4 Aqua blue / 9.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252842065)
     Availability: Available
     Price: $29.95 USD
-- [Periwinkle Sea Glass Earrings in Sterling Silver Earwires-Lavender](https://sunnyseaglassjewelry.com/products/periwinkle-sea-glass-earrings-in-sterling-silver-earwires-lavender-recycled-glass-earrings-glass-earrings-beach-weddings-sea-glass-earrings): Beautiful lavender sea glass! ~ in shade of periwinkle/lavender !!! This is my new collection: recycled /cultured Sea glass jewelry. The same soft  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-11T23:48:23Z
+- [Periwinkle Sea Glass Earrings - Lavender Recycled Glass Jewelry, Sterling Silver](https://sunnyseaglassjewelry.com/products/periwinkle-sea-glass-earrings-in-sterling-silver-earwires-lavender-recycled-glass-earrings-glass-earrings-beach-weddings-sea-glass-earrings): Shop beautiful Periwinkle Sea Glass Earrings featuring lavender recycled glass and sterling silver earwires. Perfect for beach weddings and sea glass lovers.
+  Updated: 2025-11-20T22:10:40Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/14877cea-il_fullxfull.6187461883_9k7z.jpg?v=1762904768
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/14877cea-il_fullxfull.6187461883_9k7z.jpg?v=1763676639
   - [Crystal](https://sunnyseaglassjewelry.com/products/periwinkle-sea-glass-earrings-in-sterling-silver-earwires-lavender-recycled-glass-earrings-glass-earrings-beach-weddings-sea-glass-earrings?variant=42904250450001)
     Availability: Available
     Price: $24.75 USD
   - [Pearl](https://sunnyseaglassjewelry.com/products/periwinkle-sea-glass-earrings-in-sterling-silver-earwires-lavender-recycled-glass-earrings-glass-earrings-beach-weddings-sea-glass-earrings?variant=42904250482769)
     Availability: Available
     Price: $24.75 USD
-- [Seafoam Green Sea Glass Silver Earrgs-Green  Recycled Glass Earrgs](https://sunnyseaglassjewelry.com/products/seafoam-green-sea-glass-silver-earrings-green-recycled-glass-earrings-in-sterling-silver-earwires-beach-weddings-sea-glass-earrings): Sea glass Beads in shade of light Sea Green !!! This is my new collection: recycled /cultured Sea glass jewelry. The same soft finish as found in  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-11T23:56:58Z
+- [Seafoam Green Sea Glass Earrings - Recycled Sterling Silver & Beach Jewelry](https://sunnyseaglassjewelry.com/products/seafoam-green-sea-glass-silver-earrings-green-recycled-glass-earrings-in-sterling-silver-earwires-beach-weddings-sea-glass-earrings): Discover elegant Seafoam Green Sea Glass earrings crafted with recycled materials, sterling silver, crystals, and pearls, perfect for beach weddings and summer looks.
+  Updated: 2025-11-20T22:10:42Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/91bb1423-il_fullxfull.6187539607_6zna.jpg?v=1762905240
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/91bb1423-il_fullxfull.6187539607_6zna.jpg?v=1763676641
   - [Crystal](https://sunnyseaglassjewelry.com/products/seafoam-green-sea-glass-silver-earrings-green-recycled-glass-earrings-in-sterling-silver-earwires-beach-weddings-sea-glass-earrings?variant=42904251170897)
     Availability: Available
     Price: $24.75 USD
   - [Pearl](https://sunnyseaglassjewelry.com/products/seafoam-green-sea-glass-silver-earrings-green-recycled-glass-earrings-in-sterling-silver-earwires-beach-weddings-sea-glass-earrings?variant=42904251203665)
     Availability: Available
     Price: $24.75 USD
-- [Handmade Macrame Sea Glass Bracelet, Hunter Green Sea Glass Bracelet,](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-hunter-green-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets-surfers-sea-glass-bracelet): Pretty &amp; fun Sea Glass bracelet! A great gift for a friend who loves beaches &amp; oceans. Fun &amp; pretty summer beach bracelet!. Th bracelet  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-12T00:00:35Z
+- [Handmade Macrame Sea Glass Bracelet - Adjustable Beach Jewelry](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-hunter-green-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets-surfers-sea-glass-bracelet): Discover our Handmade Macrame Sea Glass Bracelet, a stylish and adjustable sea glass bracelet perfect for beach lovers. Great gift idea!
+  Updated: 2025-11-20T22:10:37Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/d62aafac-il_fullxfull.7120554864_2sr4.jpg?v=1762905440
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/d62aafac-il_fullxfull.7120554864_2sr4.jpg?v=1763676636
   - [No.1](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-hunter-green-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets-surfers-sea-glass-bracelet?variant=42904251531345)
     Availability: Available
     Price: $20.00 USD
@@ -266,12 +266,12 @@
   - [No.3](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-hunter-green-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets-surfers-sea-glass-bracelet?variant=42904251596881)
     Availability: Available
     Price: $20.00 USD
-- [Macramé Goldstone Bracelet with Sliding Knot ,Bohemian Design Jewelry,](https://sunnyseaglassjewelry.com/products/macrame-goldstone-bracelet-with-sliding-knot-bohemian-design-jewelry-boho-style-stone-beaded-adjustable-bracelet-brown-bracelet): GOLD STONES are known for sparkle &amp; glitter This handcrafted macramé goldstone bracelet features a sliding knot design that combines bohemian  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-12T00:17:28Z
+- [Macramé Goldstone Bracelet - Bohemian Jewelry with Natural Stone Beads](https://sunnyseaglassjewelry.com/products/macrame-goldstone-bracelet-with-sliding-knot-bohemian-design-jewelry-boho-style-stone-beaded-adjustable-bracelet-brown-bracelet): Discover the elegance of the Macramé Goldstone Bracelet, a handcrafted boho style jewelry piece with sparkling goldstone beads and adjustable sliding knot for perfect fit.
+  Updated: 2025-11-20T22:10:38Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/67a7b6d3-il_fullxfull.7168304095_hm3k.jpg?v=1762906452
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/67a7b6d3-il_fullxfull.7168304095_hm3k.jpg?v=1763676637
   - [No.1 Old Gold](https://sunnyseaglassjewelry.com/products/macrame-goldstone-bracelet-with-sliding-knot-bohemian-design-jewelry-boho-style-stone-beaded-adjustable-bracelet-brown-bracelet?variant=42904252940369)
     Availability: Available
     Price: $20.95 USD
@@ -281,19 +281,19 @@
   - [2 Brown](https://sunnyseaglassjewelry.com/products/macrame-goldstone-bracelet-with-sliding-knot-bohemian-design-jewelry-boho-style-stone-beaded-adjustable-bracelet-brown-bracelet?variant=42904253005905)
     Availability: Available
     Price: $20.95 USD
-- [Tree of Life Brooch Pin-Lapel pin,Wire Wrapped Peridot Tree of life](https://sunnyseaglassjewelry.com/products/tree-of-life-brooch-pin-lapel-pin-august-gemstone-birthstones-wire-wrapped-peridot-tree-of-life-brooch): This listing is for the Tree of Life Brooch Pin, Lapel pin, August gemstone birthstone!! Perfect Gift for all year round to wear!!!- an Anniversary,  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-12T00:37:44Z
+- [Tree of Life Brooch - Wire Wrapped Peridot Pendant, Unique Gift](https://sunnyseaglassjewelry.com/products/tree-of-life-brooch-pin-lapel-pin-august-gemstone-birthstones-wire-wrapped-peridot-tree-of-life-brooch): Shop the beautiful Tree of Life Brooch, a wire wrapped Peridot pendant, perfect for gifting year-round. Handmade with sterling silver, a symbol of life and wisdom.
+  Updated: 2025-11-20T22:10:37Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/bb657a7c-il_fullxfull.6413046407_ddm4.jpg?v=1762907676
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/bb657a7c-il_fullxfull.6413046407_ddm4.jpg?v=1763676636
   Price: $45.95 USD
-- [Christmas Tree  Seafoam Green Sea Glass Christmas Dangle](https://sunnyseaglassjewelry.com/products/christmas-tree-earrings-sea-glass-christmas-dangle-earrings-sterling-silver-holiday-christmas-earrings-coastal-holiday-earrings): Beautiful Holiday earrings for everyday or special occasions. Fun &amp; festive holiday earrings sure to be noticed! These earrings will make a great  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-12T00:41:44Z
+- [Christmas Tree Earrings - Seafoam Green Sea Glass Christmas Dangle Earrings](https://sunnyseaglassjewelry.com/products/christmas-tree-earrings-sea-glass-christmas-dangle-earrings-sterling-silver-holiday-christmas-earrings-coastal-holiday-earrings): Shop beautiful Christmas Tree Earrings with seafoam green sea glass beads, perfect for holidays or daily wear. A festive gift idea!
+  Updated: 2025-11-20T22:10:36Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/71de24ef-il_fullxfull.6502574933_s696.jpg?v=1762907884
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/71de24ef-il_fullxfull.6502574933_s696.jpg?v=1763676635
   - [Sterling silver / Red star](https://sunnyseaglassjewelry.com/products/christmas-tree-earrings-sea-glass-christmas-dangle-earrings-sterling-silver-holiday-christmas-earrings-coastal-holiday-earrings?variant=42904256905297)
     Availability: Available
     Price: $28.95 USD
@@ -312,24 +312,24 @@
   - [Gold finished / Silver Star](https://sunnyseaglassjewelry.com/products/christmas-tree-earrings-sea-glass-christmas-dangle-earrings-sterling-silver-holiday-christmas-earrings-coastal-holiday-earrings?variant=42904257069137)
     Availability: Available
     Price: $23.95 USD
-- [Wire wrapped Sea Glass Jewelry in Sterling Silver, Sea Glass Silver](https://sunnyseaglassjewelry.com/products/wire-wrapped-sea-glass-jewelry-in-sterling-silver-sea-glass-silver-earrings-dangling-earrings-beach-weddings-sea-glass-earrings): Feel the Ocean's Whisper – Wire wrapped 6mm Blue Sea Glass Earrings in .925 Sterling Silver Add a touch of seaside serenity to your everyday look with  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-12T01:01:42Z
+- [Wire wrapped Sea Glass Jewelry in Sterling Silver - Beach Earrings](https://sunnyseaglassjewelry.com/products/wire-wrapped-sea-glass-jewelry-in-sterling-silver-sea-glass-silver-earrings-dangling-earrings-beach-weddings-sea-glass-earrings): Discover stunning wire wrapped Sea Glass jewelry in sterling silver. Perfect for beach weddings, gifts, or everyday seaside style. Shop now for handcrafted beauty.
+  Updated: 2025-11-20T22:10:42Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/0030e6aa-il_fullxfull.6771426532_ib9a.jpg?v=1762909129
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/0030e6aa-il_fullxfull.6771426532_ib9a.jpg?v=1763676641
   - [Sterling Silver](https://sunnyseaglassjewelry.com/products/wire-wrapped-sea-glass-jewelry-in-sterling-silver-sea-glass-silver-earrings-dangling-earrings-beach-weddings-sea-glass-earrings?variant=42904258412625)
     Availability: Available
     Price: $22.95 USD
   - [18Kt gold finished](https://sunnyseaglassjewelry.com/products/wire-wrapped-sea-glass-jewelry-in-sterling-silver-sea-glass-silver-earrings-dangling-earrings-beach-weddings-sea-glass-earrings?variant=42904258445393)
     Availability: Available
     Price: $22.95 USD
-- [Sterling Silver Ocean Wave  Lampwork Glass Ocean Wave](https://sunnyseaglassjewelry.com/products/sterling-silver-ocean-wave-necklace-lampwork-glass-ocean-wave-necklace-blue-beach-wave-necklace-beach-wave-jewelry-nautical-jewelry): A beautiful Handmade Lampwork Ocean Wave glass necklace in .925 Sterling Silver. We keep the memory of timeless sea breezes, sea-wind of the night,  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-12T01:16:23Z
+- [Sterling Silver Ocean Wave Necklace - Handmade Blue Beach Jewelry](https://sunnyseaglassjewelry.com/products/sterling-silver-ocean-wave-necklace-lampwork-glass-ocean-wave-necklace-blue-beach-wave-necklace-beach-wave-jewelry-nautical-jewelry): Discover the beauty of the Sterling Silver Ocean Wave Necklace, a handmade jewelry piece featuring lampwork glass, Swarovski crystal, and sterling silver for a nautical charm.
+  Updated: 2025-11-20T22:10:42Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sterling-Silver-Ocean-Wave-Necklace_-Lampwork-Glass-Ocean-Wave-Necklace_-Blue-Beach-Wave-Necklace_-Beach-Wave-Jewelry-_-Nautical-Jewelry-My-Store-9814827.jpg?v=1762909999
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sterling-Silver-Ocean-Wave-Necklace_-Lampwork-Glass-Ocean-Wave-Necklace_-Blue-Beach-Wave-Necklace_-Beach-Wave-Jewelry-_-Nautical-Jewelry-My-Store-9814827.jpg?v=1763676640
   - [17 / Silver finish](https://sunnyseaglassjewelry.com/products/sterling-silver-ocean-wave-necklace-lampwork-glass-ocean-wave-necklace-blue-beach-wave-necklace-beach-wave-jewelry-nautical-jewelry?variant=42904260509777)
     Availability: Available
     Price: $38.75 USD
@@ -357,12 +357,12 @@
   - [20 / Pearl finish](https://sunnyseaglassjewelry.com/products/sterling-silver-ocean-wave-necklace-lampwork-glass-ocean-wave-necklace-blue-beach-wave-necklace-beach-wave-jewelry-nautical-jewelry?variant=42904260771921)
     Availability: Available
     Price: $38.75 USD
-- [Wave Necklace, Lapmwork Ocean Wave Necklace, Blue  Wave Necklace,](https://sunnyseaglassjewelry.com/products/wave-necklace-lapmwork-ocean-wave-necklace-blue-beach-wave-necklace-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver): A beautiful Handmade Lampwork Ocean Wave glass necklace in .925 Sterling Silver. We keep the memory of timeless sea breezes, sea-wind of the night,  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-12T01:19:27Z
+- [Wave Necklace - Beautiful Ocean Wave Lampwork Jewelry in Sterling Silver](https://sunnyseaglassjewelry.com/products/wave-necklace-lapmwork-ocean-wave-necklace-blue-beach-wave-necklace-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver): Discover the stunning Wave Necklace, a handcrafted ocean wave lampwork glass jewelry piece in .925 sterling silver. Perfect beach-inspired jewelry gift!
+  Updated: 2025-11-20T22:10:51Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wave-Necklace_-Lapmwork-Ocean-Wave-Necklace_-Blue-Beach-Wave-Necklace_-Beach-Wave-Jewelry_-Blue-Sea-Glass-Necklace-sterling-silver-My-Store-9815713.jpg?v=1762910209
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wave-Necklace_-Lapmwork-Ocean-Wave-Necklace_-Blue-Beach-Wave-Necklace_-Beach-Wave-Jewelry_-Blue-Sea-Glass-Necklace-sterling-silver-My-Store-9815713.jpg?v=1763676650
   - [17](https://sunnyseaglassjewelry.com/products/wave-necklace-lapmwork-ocean-wave-necklace-blue-beach-wave-necklace-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver?variant=42904260804689)
     Availability: Available
     Price: $38.75 USD
@@ -372,12 +372,12 @@
   - [19](https://sunnyseaglassjewelry.com/products/wave-necklace-lapmwork-ocean-wave-necklace-blue-beach-wave-necklace-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver?variant=42904260870225)
     Availability: Available
     Price: $38.75 USD
-- [Ocean Beach Wave Necklace, Blue Beach Wave Necklace,Ocean Wave](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver): A beautiful Handmade Lampwork Ocean Wave glass necklace in .925 Sterling Silver. We keep the memory of timeless sea breezes, sea-wind of the night,  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-12T01:21:50Z
+- [Ocean Beach Wave Necklace - Handmade Sterling Silver Beach Jewelry](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver): Discover the beauty of the Ocean Beach Wave Necklace, a handmade sterling silver pendant featuring a stunning blue ocean wave glass bead, perfect for beach lovers.
+  Updated: 2025-11-20T22:10:47Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Ocean-Beach-Wave-Necklace_-Blue-Beach-Wave-Necklace_Ocean-Wave-Lampwork-Pendant_-Beach-Wave-Jewelry_-Blue-Sea-Glass-Necklace-sterling-silver-My-Store-9816574.jpg?v=1762910387
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Ocean-Beach-Wave-Necklace_-Blue-Beach-Wave-Necklace_Ocean-Wave-Lampwork-Pendant_-Beach-Wave-Jewelry_-Blue-Sea-Glass-Necklace-sterling-silver-My-Store-9816574.jpg?v=1763676646
   - [17](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver?variant=42904260902993)
     Availability: Available
     Price: $38.75 USD
@@ -387,43 +387,43 @@
   - [19](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver?variant=42904260968529)
     Availability: Available
     Price: $38.75 USD
-- [STERLING SILVER Green Sea Glass  Light Green  Sea Glass](https://sunnyseaglassjewelry.com/products/sterling-silver-green-sea-glass-earrings-light-green-sea-glass-earrings-beach-weddings-beach-glass-jewelry-peridot-sea-glass-earrings): Gorgeous Sea glass Beads in shade of green !!! This my new collection: recycled /cultured Sea glass jewelry. The same soft finish as found in natural  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:16:43Z
+- [STERLING SILVER Green Sea Glass Earrings - Beach Jewelry & Weddings](https://sunnyseaglassjewelry.com/products/sterling-silver-green-sea-glass-earrings-light-green-sea-glass-earrings-beach-weddings-beach-glass-jewelry-peridot-sea-glass-earrings): Shop STERLING SILVER Green Sea Glass Earrings, perfect for beach weddings and jewelry lovers. Handcrafted with recycled sea glass and sterling silver, stylish and eco-friendly.
+  Updated: 2025-11-20T22:10:47Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/STERLING-SILVER-Green-Sea-Glass-Earrings_-Light-Green-Sea-Glass-Earrings_-Beach-Weddings_-Beach-Glass-Jewelry_-Peridot-Sea-glass-Earrings_-My-Store-9825220.jpg?v=1762481794
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/STERLING-SILVER-Green-Sea-Glass-Earrings_-Light-Green-Sea-Glass-Earrings_-Beach-Weddings_-Beach-Glass-Jewelry_-Peridot-Sea-glass-Earrings_-My-Store-9825220.jpg?v=1763676646
   - [Silver Bead](https://sunnyseaglassjewelry.com/products/sterling-silver-green-sea-glass-earrings-light-green-sea-glass-earrings-beach-weddings-beach-glass-jewelry-peridot-sea-glass-earrings?variant=42904265556049)
     Availability: Available
     Price: $22.95 USD
   - [Crystal](https://sunnyseaglassjewelry.com/products/sterling-silver-green-sea-glass-earrings-light-green-sea-glass-earrings-beach-weddings-beach-glass-jewelry-peridot-sea-glass-earrings?variant=42904265588817)
     Availability: Available
     Price: $22.95 USD
-- [Sea Glass Earrings in STERLING SILVER,Light Green  Sea Glass Earrings,](https://sunnyseaglassjewelry.com/products/sea-glass-earrings-in-sterling-silver-light-green-sea-glass-earrings-beach-weddings-beach-glass-jewelry-peridot-sea-glass-earrings): Gorgeous Sea glass Beads in shade of green !!! This my new collection: recycled /cultured Sea glass jewelry. The same soft finish as found in natural  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:17:09Z
+- [Sea Glass Earrings in Sterling Silver - Light Green Beach Jewelry, Perfect for Weddings](https://sunnyseaglassjewelry.com/products/sea-glass-earrings-in-sterling-silver-light-green-sea-glass-earrings-beach-weddings-beach-glass-jewelry-peridot-sea-glass-earrings): Shop stunning Sea Glass Earrings in Sterling Silver, featuring light green recycled sea glass beads. Ideal for beach weddings and unique jewelry ensembles.
+  Updated: 2025-11-20T22:10:47Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Earrings-in-STERLING-SILVER_Light-Green-Sea-Glass-Earrings_-Beach-Weddings_-Beach-Glass-Jewelry_-Peridot-Sea-glass-Earrings_-My-Store-9826971.jpg?v=1762481813
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Earrings-in-STERLING-SILVER_Light-Green-Sea-Glass-Earrings_-Beach-Weddings_-Beach-Glass-Jewelry_-Peridot-Sea-glass-Earrings_-My-Store-9826971.jpg?v=1763676646
   - [Silver Bead](https://sunnyseaglassjewelry.com/products/sea-glass-earrings-in-sterling-silver-light-green-sea-glass-earrings-beach-weddings-beach-glass-jewelry-peridot-sea-glass-earrings?variant=42904265621585)
     Availability: Available
     Price: $22.95 USD
   - [Crystal](https://sunnyseaglassjewelry.com/products/sea-glass-earrings-in-sterling-silver-light-green-sea-glass-earrings-beach-weddings-beach-glass-jewelry-peridot-sea-glass-earrings?variant=42904265654353)
     Availability: Available
     Price: $22.95 USD
-- [Blue Sea Glass Earrings in Sterling Silver, Blue Sea Glass Dangle](https://sunnyseaglassjewelry.com/products/blue-sea-glass-earrings-in-sterling-silver-blue-sea-glass-dangle-earrings-beach-weddings-blue-earrings-cobalt-sea-glass-earrings): Gorgeous Sea glass Beads in shade of Cobalt Blue !!! This my new collection: recycled /cultured Sea glass jewelry. The same soft finish as found in  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:18:59Z
+- [Blue Sea Glass Earrings - Sterling Silver Dangle Jewelry for Beach Weddings](https://sunnyseaglassjewelry.com/products/blue-sea-glass-earrings-in-sterling-silver-blue-sea-glass-dangle-earrings-beach-weddings-blue-earrings-cobalt-sea-glass-earrings): Shop stunning Blue Sea Glass Earrings crafted with recycled sea glass beads in cobalt blue, sterling silver wire wrapping, perfect for beach weddings and casual wear.
+  Updated: 2025-11-20T22:10:47Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Sea-Glass-Earrings-in-Sterling-Silver_-Blue-Sea-Glass-Dangle-Earrings_-Beach-Weddings_-Blue-earrings_-Cobalt-Sea-glass-Earrings_-My-Store-9830626.jpg?v=1762481922
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Sea-Glass-Earrings-in-Sterling-Silver_-Blue-Sea-Glass-Dangle-Earrings_-Beach-Weddings_-Blue-earrings_-Cobalt-Sea-glass-Earrings_-My-Store-9830626.jpg?v=1763676646
   Price: $24.95 USD
-- [Nautical White Sea Glass Sailboat Necklace & Earring SET in Sterling](https://sunnyseaglassjewelry.com/products/nautical-white-sea-glass-sailboat-necklace-earring-set-in-sterling-silver-ocean-inspired-beach-glass-sailboat-necklace-and-earring-set): Beautiful shade of cultured Frosted Clear White sea glass !!! This is my one of the cultured Sea glass Sailboat Necklace &amp; Earrings. The same soft  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-17T01:59:58Z
+- [Sea Glass Sailboat Necklace - Ocean-Inspired Sterling Silver Jewelry](https://sunnyseaglassjewelry.com/products/nautical-white-sea-glass-sailboat-necklace-earring-set-in-sterling-silver-ocean-inspired-beach-glass-sailboat-necklace-and-earring-set): Shop our Sea Glass Sailboat Necklace & Earring SET, crafted with frosted white sea glass and sterling silver. Perfect for ocean lovers and beach enthusiasts.
+  Updated: 2025-11-20T22:10:43Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Nautical-White-Sea-Glass-Sailboat-Necklace-_-Earring-SET-in-Sterling-Silver_-Ocean-Inspired-Beach-Glass-Sailboat-Necklace-and-Earring-SET_-My-Store-9831031.jpg?v=1762481928
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Nautical-White-Sea-Glass-Sailboat-Necklace-_-Earring-SET-in-Sterling-Silver_-Ocean-Inspired-Beach-Glass-Sailboat-Necklace-and-Earring-SET_-My-Store-9831031.jpg?v=1763676642
   - [Necklace ONLY / 18 inch](https://sunnyseaglassjewelry.com/products/nautical-white-sea-glass-sailboat-necklace-earring-set-in-sterling-silver-ocean-inspired-beach-glass-sailboat-necklace-and-earring-set?variant=42904268734545)
     Availability: Available
     Price: $26.95 USD
@@ -442,12 +442,12 @@
   - [Earrings ONLY / No chain/earrings](https://sunnyseaglassjewelry.com/products/nautical-white-sea-glass-sailboat-necklace-earring-set-in-sterling-silver-ocean-inspired-beach-glass-sailboat-necklace-and-earring-set?variant=42904268898385)
     Availability: Available
     Price: $26.95 USD
-- [Christmas Tree Earrings, Sea Glass Tree Dangling Earrings, Holiday](https://sunnyseaglassjewelry.com/products/christmas-tree-earrings-sea-glass-christmas-tree-dangling-earrings-holiday-christmas-tree-earrings-winter-dangling-earrings-sea-glass): Beautiful Holiday earrings for everyday or special occasions. Fun &amp; festive holiday earrings sure to be noticed! These earrings will make a great  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-08T03:15:03Z
+- [Christmas Tree Earrings - Festive Sea Glass Dangle Jewelry for Holiday](https://sunnyseaglassjewelry.com/products/christmas-tree-earrings-sea-glass-christmas-tree-dangling-earrings-holiday-christmas-tree-earrings-winter-dangling-earrings-sea-glass): Discover beautiful Christmas Tree Earrings featuring sea glass beads, perfect for holiday celebrations or everyday wear. A great gift idea!
+  Updated: 2025-11-20T22:10:48Z
   Vendor: My Store
   Product Type: Holiday Sea Glass Necklace
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Christmas-Tree-Earrings_-Sea-Glass-Tree-Dangling-Earrings_-Holiday-tree-Earrings_-My-Store-9833533.jpg?v=1762481959
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Christmas-Tree-Earrings_-Sea-Glass-Tree-Dangling-Earrings_-Holiday-tree-Earrings_-My-Store-9833533.jpg?v=1763676647
   - [Sterling silver / Red star](https://sunnyseaglassjewelry.com/products/christmas-tree-earrings-sea-glass-christmas-tree-dangling-earrings-holiday-christmas-tree-earrings-winter-dangling-earrings-sea-glass?variant=42904272568401)
     Availability: Available
     Price: $28.95 USD
@@ -466,12 +466,12 @@
   - [Gold finished / Silver star](https://sunnyseaglassjewelry.com/products/christmas-tree-earrings-sea-glass-christmas-tree-dangling-earrings-holiday-christmas-tree-earrings-winter-dangling-earrings-sea-glass?variant=42904272732241)
     Availability: Available
     Price: $23.95 USD
-- [Sea Glass Pendant Necklace, Wire Wrapped Beach Glass Necklace,](https://sunnyseaglassjewelry.com/products/sea-glass-pendant-necklace-wire-wrapped-beach-glass-necklace-sterling-silver-sea-glass-blue-green-periwinkle-white-sea-glass-necklace): Gorgeous Sea Burst Beads ~ in the multiple shades of colors!.... Cultured Sea glass jewelry. The same soft finish as found in natural sea glass. These  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:19:52Z
+- [Sea Glass Pendant Necklace - Wire Wrapped Beach Glass with Sterling Silver](https://sunnyseaglassjewelry.com/products/sea-glass-pendant-necklace-wire-wrapped-beach-glass-necklace-sterling-silver-sea-glass-blue-green-periwinkle-white-sea-glass-necklace): Shop the best Sea Glass Pendant Necklace, featuring wire wrapped beach glass in vibrant blue, green, periwinkle & white shades, crafted with sterling silver. Perfect personalized jewelry!
+  Updated: 2025-11-20T22:10:52Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Pendant-Necklace_-Wire-Wrapped-Beach-Glass-Necklace_-Sterling-Silver-Sea-Glass_-Blue_-Green_-Periwinkle-_-White-Sea-Glass-Necklace-My-Store-9835496.jpg?v=1762481979
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Pendant-Necklace_-Wire-Wrapped-Beach-Glass-Necklace_-Sterling-Silver-Sea-Glass_-Blue_-Green_-Periwinkle-_-White-Sea-Glass-Necklace-My-Store-9835496.jpg?v=1763676651
   - [No.1 Lt. Green / 17](https://sunnyseaglassjewelry.com/products/sea-glass-pendant-necklace-wire-wrapped-beach-glass-necklace-sterling-silver-sea-glass-blue-green-periwinkle-white-sea-glass-necklace?variant=42904272765009)
     Availability: Available
     Price: $38.95 USD
@@ -556,12 +556,12 @@
   - [No. Seafoam Green / 20](https://sunnyseaglassjewelry.com/products/sea-glass-pendant-necklace-wire-wrapped-beach-glass-necklace-sterling-silver-sea-glass-blue-green-periwinkle-white-sea-glass-necklace?variant=42904273649745)
     Availability: Available
     Price: $38.95 USD
-- [Deerskin Lace Leather Bracelet, Father's Day Bracelet, Custom 3](https://sunnyseaglassjewelry.com/products/deerskin-lace-leather-bracelet-fathers-day-bracelet-custom-3-strands-flat-braid-woven-men-leather-bracelet-unisex-braided-bracelet): *** Please note that the price for this listing is for the ONE Bracelet. ***These bracelets are made with 3-strands of 3 mm width Braided Deerskin  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:22:11Z
+- [Deerskin Lace Leather Bracelet - Custom Unisex Braided Style for Men & Women](https://sunnyseaglassjewelry.com/products/deerskin-lace-leather-bracelet-fathers-day-bracelet-custom-3-strands-flat-braid-woven-men-leather-bracelet-unisex-braided-bracelet): Shop the Deerskin Lace Leather Bracelet, a soft, flexible, and stylish unisex bracelet perfect for gifts or everyday wear, available in various lengths and colors.
+  Updated: 2025-11-20T22:10:56Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire Wrapped Bracelet/Anklet
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Deerskin-Lace-Leather-Bracelet_-Father_s-Day-Bracelet_-Custom-3-STRANDS-FLAT-Braid-Woven-Men-Leather-Bracelet_-Unisex-Braided-Bracelet-Sunny-Sea-Glass-Jewelry-9840227.jpg?v=1762482115
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Deerskin-Lace-Leather-Bracelet_-Father_s-Day-Bracelet_-Custom-3-STRANDS-FLAT-Braid-Woven-Men-Leather-Bracelet_-Unisex-Braided-Bracelet-Sunny-Sea-Glass-Jewelry-9840227.jpg?v=1763676655
   - [#1  Black / 6.0](https://sunnyseaglassjewelry.com/products/deerskin-lace-leather-bracelet-fathers-day-bracelet-custom-3-strands-flat-braid-woven-men-leather-bracelet-unisex-braided-bracelet?variant=42904274567249)
     Availability: Available
     Price: $24.95 USD
@@ -622,57 +622,57 @@
   - [#5 Buckskin/Tan/Turq / 9.0](https://sunnyseaglassjewelry.com/products/deerskin-lace-leather-bracelet-fathers-day-bracelet-custom-3-strands-flat-braid-woven-men-leather-bracelet-unisex-braided-bracelet?variant=42904276074577)
     Availability: Available
     Price: $25.95 USD
-- [Starfish Charm  Beach theme Bracelets, Starfish Charm beaded](https://sunnyseaglassjewelry.com/products/starfish-charm-bracelet-beach-theme-bracelets-starfish-charm-beaded-bracelet-summer-beach-jewelry-beach-boho-bracelet): Pretty &amp; fun Beaded bracelet  Starfish in shade of blue, white &amp; silver. Fun &amp; pretty summer beach bracelet!. This bracelet is made  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:22:18Z
+- [Starfish Charm Bracelet | Beach Theme Beaded Summer Jewelry](https://sunnyseaglassjewelry.com/products/starfish-charm-bracelet-beach-theme-bracelets-starfish-charm-beaded-bracelet-summer-beach-jewelry-beach-boho-bracelet): Discover the perfect Starfish Charm Bracelet for beach lovers. This fun, colorful 7-inch beaded bracelet with sea-inspired charms is ideal for summer!
+  Updated: 2025-11-20T22:10:43Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Starfish-Charm-Bracelet_-Beach-theme-Bracelets_-Starfish-Charm-beaded-Bracelet_-Summer-Beach-Jewelry_-Beach-Boho-Bracelet-My-Store-9841234.jpg?v=1762482126
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Starfish-Charm-Bracelet_-Beach-theme-Bracelets_-Starfish-Charm-beaded-Bracelet_-Summer-Beach-Jewelry_-Beach-Boho-Bracelet-My-Store-9841234.jpg?v=1763676642
   Price: $20.95 USD
-- [Sailboat Sea Glass Earrings in Sterling Silver, Beach glass Earrings,](https://sunnyseaglassjewelry.com/products/sailboat-sea-glass-earrings-in-sterling-silver-beach-glass-earrings-ocean-inspired-crystal-white-sea-glass-sailboat-earrings): Beautiful shade of cultured Frosted Clear White sea glass !!! This is my one of the cultured Sea glass Sailboat Earrings. The same soft finish as  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-15T22:48:33Z
+- [Sea Glass Earrings - Ocean-Inspired Sterling Silver Sailboat Jewelry](https://sunnyseaglassjewelry.com/products/sailboat-sea-glass-earrings-in-sterling-silver-beach-glass-earrings-ocean-inspired-crystal-white-sea-glass-sailboat-earrings): Discover beautiful Sea Glass Earrings crafted with frosted white sea glass and sterling silver, perfect for ocean lovers and beach wanderers.
+  Updated: 2025-11-20T22:10:52Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sailboat-Sea-Glass-Earrings-in-Sterling-Silver_-Beach-glass-Earrings_-Ocean-Inspired-Crystal-White-Sea-Glass-Sailboat-Earrings-My-Store-9842252.jpg?v=1762482143
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sailboat-Sea-Glass-Earrings-in-Sterling-Silver_-Beach-glass-Earrings_-Ocean-Inspired-Crystal-White-Sea-Glass-Sailboat-Earrings-My-Store-9842252.jpg?v=1763676651
   - [No.1 Blue](https://sunnyseaglassjewelry.com/products/sailboat-sea-glass-earrings-in-sterling-silver-beach-glass-earrings-ocean-inspired-crystal-white-sea-glass-sailboat-earrings?variant=42904276172881)
     Availability: Available
     Price: $26.95 USD
   - [No.2 Aqua Blue](https://sunnyseaglassjewelry.com/products/sailboat-sea-glass-earrings-in-sterling-silver-beach-glass-earrings-ocean-inspired-crystal-white-sea-glass-sailboat-earrings?variant=42904276205649)
     Availability: Available
     Price: $26.95 USD
-- [STERLING SILVER Peridot Green Beach Glass Earrings, Green Sea Glass](https://sunnyseaglassjewelry.com/products/sterling-silver-peridot-green-beach-glass-earrings-green-sea-glass-dangling-earrings-beach-wedding-earrings-beach-summer-earrings): Gorgeous light green shade !! This is my line: recycled /cultured Sea glass jewelry. The same soft finish as found in natural sea glass. These fun,  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:24:47Z
+- [Sterling Silver Peridot Earrings - Beach & Summer Style | YourShopName](https://sunnyseaglassjewelry.com/products/sterling-silver-peridot-green-beach-glass-earrings-green-sea-glass-dangling-earrings-beach-wedding-earrings-beach-summer-earrings): Discover stunning Sterling Silver Peridot earrings featuring beach glass and vibrant green sea glass. Perfect for summer outings and beach weddings. Shop now!
+  Updated: 2025-11-20T22:10:51Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/STERLING-SILVER-Peridot-Green-Beach-Glass-Earrings_-Green-Sea-Glass-dangling-Earrings_-beach-Wedding-Earrings_-Beach-Summer-Earrings_-My-Store-9848588.jpg?v=1762482211
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/STERLING-SILVER-Peridot-Green-Beach-Glass-Earrings_-Green-Sea-Glass-dangling-Earrings_-beach-Wedding-Earrings_-Beach-Summer-Earrings_-My-Store-9848588.jpg?v=1763676650
   - [No. 1](https://sunnyseaglassjewelry.com/products/sterling-silver-peridot-green-beach-glass-earrings-green-sea-glass-dangling-earrings-beach-wedding-earrings-beach-summer-earrings?variant=42904278466641)
     Availability: Available
     Price: $26.95 USD
   - [No. 2](https://sunnyseaglassjewelry.com/products/sterling-silver-peridot-green-beach-glass-earrings-green-sea-glass-dangling-earrings-beach-wedding-earrings-beach-summer-earrings?variant=42904278499409)
     Availability: Available
     Price: $26.95 USD
-- [Wire wrapped Sea Glass Jewelry in Sterling Silver, Sea Glass Silver](https://sunnyseaglassjewelry.com/products/wire-wrapped-sea-glass-jewelry-in-sterling-silver-sea-glass-silver-earrings-dangling-earrings-beach-weddings-sea-glass-earrings-1): Beautiful Very pale Seafoam Blue Sea glass beads are wire wrapped in .925 sterling silver wire accented with Swarovski crystals. Sea glass beads  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:26:08Z
+- [Wire wrapped Sea Glass Jewelry - Sterling Silver Earrings for Beach Weddings](https://sunnyseaglassjewelry.com/products/wire-wrapped-sea-glass-jewelry-in-sterling-silver-sea-glass-silver-earrings-dangling-earrings-beach-weddings-sea-glass-earrings-1): Discover elegant Wire wrapped Sea Glass Jewelry, featuring pale blue sea glass beads, Swarovski crystals, and sterling silver for perfect beach wedding accessories.
+  Updated: 2025-11-20T22:10:55Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-wrapped-Sea-Glass-Jewelry-in-Sterling-Silver_-Sea-Glass-Silver-Earrings_-Dangling-Earrings-_Beach-Weddings_-Sea-Glass-earrings-My-Store-9857132.jpg?v=1762482361
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-wrapped-Sea-Glass-Jewelry-in-Sterling-Silver_-Sea-Glass-Silver-Earrings_-Dangling-Earrings-_Beach-Weddings_-Sea-Glass-earrings-My-Store-9857132.jpg?v=1763676654
   Price: $22.95 USD
-- [Sea Glass Earrings, Royal  Sea Glass Earrings in Sterling Silver,](https://sunnyseaglassjewelry.com/products/sea-glass-earrings-royal-blue-sea-glass-earrings-in-sterling-silver-blue-sea-glass-dangling-earrings-beach-weddings-dangling-earrings): Gorgeous shade of Blue !!! This is my new collection: recycled / Sea glass jewelry. The same soft finish as found in natural sea glass. These  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:26:13Z
+- [Sea Glass Earrings - Beautiful Royal Blue Sterling Silver Dangling Earrings](https://sunnyseaglassjewelry.com/products/sea-glass-earrings-royal-blue-sea-glass-earrings-in-sterling-silver-blue-sea-glass-dangling-earrings-beach-weddings-dangling-earrings): Shop stunning Sea Glass Earrings in royal blue, featuring cultured sea glass beads wire wrapped in Sterling Silver. Perfect for beach weddings and special occasions.
+  Updated: 2025-11-20T22:10:59Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Earrings_-Royal-Blue-Sea-Glass-Earrings-in-Sterling-Silver_-Blue-Sea-Glass-Dangling-Earrings_-Beach-Weddings_-Dangling-Earrings-My-Store-9857612.jpg?v=1762482367
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Earrings_-Royal-Blue-Sea-Glass-Earrings-in-Sterling-Silver_-Blue-Sea-Glass-Dangling-Earrings_-Beach-Weddings_-Dangling-Earrings-My-Store-9857612.jpg?v=1763676658
   Price: $24.95 USD
-- [Wire Wrapped Sea Glass Necklace in Sterling Silver, Sea Glass Wavey](https://sunnyseaglassjewelry.com/products/wire-wrapped-sea-glass-necklace-in-sterling-silver-sea-glass-wavey-design-blue-green-periwinkle-necklace-ocean-inspired-jewelry): Gorgeous Sea Burst Beads ~ in the multiple shades of colors!.... Cultured Sea glass jewelry. The same soft finish as found in natural sea glass. *This  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:26:26Z
+- [Wire Wrapped Sea Glass Necklace - Ocean Inspired Jewelry in Sterling Silver](https://sunnyseaglassjewelry.com/products/wire-wrapped-sea-glass-necklace-in-sterling-silver-sea-glass-wavey-design-blue-green-periwinkle-necklace-ocean-inspired-jewelry): Discover the stunning Wire Wrapped Sea Glass Necklace, an ocean-inspired jewelry piece featuring colorful sea glass and sterling silver, customizable with pearls, crystals, and silver accents.
+  Updated: 2025-11-20T22:10:56Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-Wrapped-Sea-Glass-Necklace-in-Sterling-Silver_-Sea-Glass-Wavey-design-Blue_-Green_-Periwinkle-Necklace_-Ocean-inspired-Jewelry-My-Store-9858198.jpg?v=1762482372
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-Wrapped-Sea-Glass-Necklace-in-Sterling-Silver_-Sea-Glass-Wavey-design-Blue_-Green_-Periwinkle-Necklace_-Ocean-inspired-Jewelry-My-Store-9858198.jpg?v=1763676655
   - [No / 17](https://sunnyseaglassjewelry.com/products/wire-wrapped-sea-glass-necklace-in-sterling-silver-sea-glass-wavey-design-blue-green-periwinkle-necklace-ocean-inspired-jewelry?variant=42904284594257)
     Availability: Available
     Price: $38.95 USD
@@ -769,19 +769,19 @@
   - [No.7 Seafoam Green / 20](https://sunnyseaglassjewelry.com/products/wire-wrapped-sea-glass-necklace-in-sterling-silver-sea-glass-wavey-design-blue-green-periwinkle-necklace-ocean-inspired-jewelry?variant=42904285610065)
     Availability: Available
     Price: $38.95 USD
-- [Wire wrapped Long Sea  Earrings in Sterling Silver, Aqua Blue Sea](https://sunnyseaglassjewelry.com/products/wire-wrapped-long-sea-glass-earrings-in-sterling-silver-aqua-blue-sea-glass-silver-earrings-beach-weddings-sea-glass-jewelry-beach-glass): This beautiful earring design is inspired by the sea. Cultured Sea Glass Long Drop Earring sets are perfect for everyday wear. The resulting frosty  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:27:52Z
+- [Wire wrapped Long Sea Glass Earrings | Sterling Silver Aqua Blue Jewelry](https://sunnyseaglassjewelry.com/products/wire-wrapped-long-sea-glass-earrings-in-sterling-silver-aqua-blue-sea-glass-silver-earrings-beach-weddings-sea-glass-jewelry-beach-glass): Discover the beautiful Wire wrapped Long Sea Glass Earrings, inspired by the sea. Perfect for beach weddings and everyday wear with .925 sterling silver.
+  Updated: 2025-11-20T22:10:56Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-wrapped-Long-Sea-Glass-Earrings-in-Sterling-Silver_-Aqua-Blue-Sea-Glass-Silver-Earrings_Beach-Weddings_-Sea-Glass-Jewelry_-Beach-Glass-My-Store-9859193.jpg?v=1762482384
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-wrapped-Long-Sea-Glass-Earrings-in-Sterling-Silver_-Aqua-Blue-Sea-Glass-Silver-Earrings_Beach-Weddings_-Sea-Glass-Jewelry_-Beach-Glass-My-Store-9859193.jpg?v=1763676655
   Price: $23.95 USD
-- [Handmade Cobalt Blue Sea Glass Earrings in Sterling Silver, Wire](https://sunnyseaglassjewelry.com/products/handmade-cobalt-blue-sea-glass-earrings-in-sterling-silver-wire-wrapped-blue-sea-glass-earrings-beach-weddings-cobalt-sea-glass-earrings): Gorgeous Sea glass Beads in shade of Cobalt Blue !!! This is cultured Sea glass jewelry. The same soft finish as found in natural sea glass. These  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:28:19Z
+- [Handmade Cobalt Blue Sea Glass Earrings | Sterling Silver & Unique Design](https://sunnyseaglassjewelry.com/products/handmade-cobalt-blue-sea-glass-earrings-in-sterling-silver-wire-wrapped-blue-sea-glass-earrings-beach-weddings-cobalt-sea-glass-earrings): Shop Handmade Cobalt Blue Sea Glass Earrings, crafted with lab-created sea glass and sterling silver wire. Perfect for beach weddings, ocean lovers, and style lovers.
+  Updated: 2025-11-20T22:11:04Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Handmade-Cobalt-Blue-Sea-Glass-Earrings-in-Sterling-Silver_-Wire-Wrapped-Blue-Sea-Glass-Earrings_-Beach-Weddings_-Cobalt-Sea-glass-Earrings_-My-Store-9860919.jpg?v=1762482482
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Handmade-Cobalt-Blue-Sea-Glass-Earrings-in-Sterling-Silver_-Wire-Wrapped-Blue-Sea-Glass-Earrings_-Beach-Weddings_-Cobalt-Sea-glass-Earrings_-My-Store-9860919.jpg?v=1763676662
   - [Silver Bead](https://sunnyseaglassjewelry.com/products/handmade-cobalt-blue-sea-glass-earrings-in-sterling-silver-wire-wrapped-blue-sea-glass-earrings-beach-weddings-cobalt-sea-glass-earrings?variant=42904282628177)
     Availability: Available
     Price: $24.75 USD
@@ -791,24 +791,24 @@
   - [Pearl](https://sunnyseaglassjewelry.com/products/handmade-cobalt-blue-sea-glass-earrings-in-sterling-silver-wire-wrapped-blue-sea-glass-earrings-beach-weddings-cobalt-sea-glass-earrings?variant=42904282693713)
     Availability: Available
     Price: $24.75 USD
-- [STERLING SILVER Sailboat Sea Glass  Cobalt Blue Sea Glass](https://sunnyseaglassjewelry.com/products/sterling-silver-sailboat-sea-glass-earrings-cobalt-blue-sea-glass-earrings-blue-sea-glass-earrings-beach-weddings-sea-glass): Gorgeous shade of Cobalt Blue !!! This is my new collection: recycled /cultured Sea glass jewelry. The same soft finish as found in natural sea glass.  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-16T11:03:49Z
+- [Sailboat Sea Glass Earrings - Cobalt Blue Jewelry for Beach Weddings](https://sunnyseaglassjewelry.com/products/sterling-silver-sailboat-sea-glass-earrings-cobalt-blue-sea-glass-earrings-blue-sea-glass-earrings-beach-weddings-sea-glass): Discover beautiful Sailboat Sea Glass Earrings in cobalt blue, perfect for beach weddings. Handcrafted with recycled sea glass and sterling silver. Shop now!
+  Updated: 2025-11-20T22:11:01Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/STERLING-SILVER-Sailboat-Sea-Glass-Earrings_-Cobalt-Blue-Sea-Glass-Earrings_-Blue-Sea-Glass-Earrings_-Beach-Weddings_-Sea-glass-My-Store-9861540.jpg?v=1762482490
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/STERLING-SILVER-Sailboat-Sea-Glass-Earrings_-Cobalt-Blue-Sea-Glass-Earrings_-Blue-Sea-Glass-Earrings_-Beach-Weddings_-Sea-glass-My-Store-9861540.jpg?v=1763676660
   - [No.1](https://sunnyseaglassjewelry.com/products/sterling-silver-sailboat-sea-glass-earrings-cobalt-blue-sea-glass-earrings-blue-sea-glass-earrings-beach-weddings-sea-glass?variant=42904282726481)
     Availability: Available
     Price: $26.95 USD
   - [No.2](https://sunnyseaglassjewelry.com/products/sterling-silver-sailboat-sea-glass-earrings-cobalt-blue-sea-glass-earrings-blue-sea-glass-earrings-beach-weddings-sea-glass?variant=42904282759249)
     Availability: Available
     Price: $26.95 USD
-- [Seafoam Sea glass Triangle designed Earring in Sterling Silver, Wire](https://sunnyseaglassjewelry.com/products/seafoam-sea-glass-triangle-designed-earring-in-sterling-silver-wire-wrapped-sea-glass-earrings-everyday-casual-dangling-earrings): Lovely Seafoam green shade of cultured Sea Glass  in Sterling Silver. * Seafoam Green Earrings for everyday or special occasions. These  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:28:45Z
+- [Seafoam Sea Glass Triangle Earrings - Sterling Silver Dangle Jewelry](https://sunnyseaglassjewelry.com/products/seafoam-sea-glass-triangle-designed-earring-in-sterling-silver-wire-wrapped-sea-glass-earrings-everyday-casual-dangling-earrings): Discover elegant Seafoam Sea Glass earrings in sterling silver, perfect for daily wear or special occasions. A delightful gift for ocean lovers.
+  Updated: 2025-11-20T22:10:59Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Seafoam-Sea-glass-Triangle-designed-Earring-in-Sterling-Silver_-Wire-Wrapped-Sea-Glass-Earrings_-Everyday-Casual-Dangling-Earrings_-My-Store-9863223.jpg?v=1762482512
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Seafoam-Sea-glass-Triangle-designed-Earring-in-Sterling-Silver_-Wire-Wrapped-Sea-Glass-Earrings_-Everyday-Casual-Dangling-Earrings_-My-Store-9863223.jpg?v=1763676658
   - [Silver Bead Top](https://sunnyseaglassjewelry.com/products/seafoam-sea-glass-triangle-designed-earring-in-sterling-silver-wire-wrapped-sea-glass-earrings-everyday-casual-dangling-earrings?variant=42904284495953)
     Availability: Available
     Price: $23.95 USD
@@ -818,12 +818,12 @@
   - [Crystal Bead Top](https://sunnyseaglassjewelry.com/products/seafoam-sea-glass-triangle-designed-earring-in-sterling-silver-wire-wrapped-sea-glass-earrings-everyday-casual-dangling-earrings?variant=42904284561489)
     Availability: Available
     Price: $23.95 USD
-- [Celtic Inspired Sea Glass Dangling Earrings, Sterling Silver Clover](https://sunnyseaglassjewelry.com/products/celtic-inspired-sea-glass-dangling-earrings-sterling-silver-clover-coastal-style-sea-glass-jewelry-wired-lucky-charm-sea-glass-earrings): These exquisite Celtic sea glass earrings make the perfect glass beach jewelry set, ideal as a wedding style accessory with stunning design  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:29:08Z
+- [Celtic Inspired Sea Glass Earrings - Sterling Silver & Coastal Style](https://sunnyseaglassjewelry.com/products/celtic-inspired-sea-glass-dangling-earrings-sterling-silver-clover-coastal-style-sea-glass-jewelry-wired-lucky-charm-sea-glass-earrings): Discover the beauty of Celtic Inspired Sea Glass earrings, perfect as wedding or summer accessories. Handmade with vibrant sea glass and Irish knot design.
+  Updated: 2025-11-20T22:11:00Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Celtic-Inspired-Sea-Glass-Dangling-Earrings_-Sterling-Silver-Clover-Coastal-Style-Sea-Glass-Jewelry_-Wired-Lucky-Charm-Sea-Glass-Earrings-My-Store-9864293.jpg?v=1762482526
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Celtic-Inspired-Sea-Glass-Dangling-Earrings_-Sterling-Silver-Clover-Coastal-Style-Sea-Glass-Jewelry_-Wired-Lucky-Charm-Sea-Glass-Earrings-My-Store-9864293.jpg?v=1763676659
   - [No.1 Turquoise Blue / Silver](https://sunnyseaglassjewelry.com/products/celtic-inspired-sea-glass-dangling-earrings-sterling-silver-clover-coastal-style-sea-glass-jewelry-wired-lucky-charm-sea-glass-earrings?variant=42904285708369)
     Availability: Available
     Price: $25.95 USD
@@ -860,12 +860,12 @@
   - [No.4 Pacific Blue / Crystal](https://sunnyseaglassjewelry.com/products/celtic-inspired-sea-glass-dangling-earrings-sterling-silver-clover-coastal-style-sea-glass-jewelry-wired-lucky-charm-sea-glass-earrings?variant=42904286068817)
     Availability: Available
     Price: $25.95 USD
-- [Blue Sea glass Triangle designed Earring in Sterling Silver, Wire](https://sunnyseaglassjewelry.com/products/blue-sea-glass-triangle-designed-earring-in-sterling-silver-wire-wrapped-sea-glass-earrings-everyday-casual-dangling-blue-earrings): *Beautiful Blue shade of cultured Sea Glass earrings in Sterling Silver. * Blue Earrings for everyday or special occasions. These earrings will make a  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:29:17Z
+- [Blue Sea glass Triangle Earrings - Sterling Silver, Stylish & Durable](https://sunnyseaglassjewelry.com/products/blue-sea-glass-triangle-designed-earring-in-sterling-silver-wire-wrapped-sea-glass-earrings-everyday-casual-dangling-blue-earrings): Shop stunning Blue Sea glass Triangle earrings in sterling silver, perfect for everyday wear or special occasions. Elegant, lightweight, and beach-inspired.
+  Updated: 2025-11-20T22:11:09Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Sea-glass-Triangle-designed-Earring-in-Sterling-Silver_-Wire-Wrapped-Sea-Glass-Earrings_-Everyday-Casual-Dangling-Blue-Earrings_-My-Store-9865274.jpg?v=1762482537
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Sea-glass-Triangle-designed-Earring-in-Sterling-Silver_-Wire-Wrapped-Sea-Glass-Earrings_-Everyday-Casual-Dangling-Blue-Earrings_-My-Store-9865274.jpg?v=1763676667
   - [Sterling silver Top](https://sunnyseaglassjewelry.com/products/blue-sea-glass-triangle-designed-earring-in-sterling-silver-wire-wrapped-sea-glass-earrings-everyday-casual-dangling-blue-earrings?variant=42904286134353)
     Availability: Available
     Price: $23.95 USD
@@ -875,24 +875,24 @@
   - [Blue Crystal Top](https://sunnyseaglassjewelry.com/products/blue-sea-glass-triangle-designed-earring-in-sterling-silver-wire-wrapped-sea-glass-earrings-everyday-casual-dangling-blue-earrings?variant=42904286199889)
     Availability: Available
     Price: $23.95 USD
-- [Blue Sea Glass Earrings, Cobalt Blue Sea Glass Earrings in STERLING](https://sunnyseaglassjewelry.com/products/blue-sea-glass-earrings-cobalt-blue-sea-glass-earrings-in-sterling-silver-beach-weddings-beach-glass-jewelry-cobalt-sea-glass-earrings): Gorgeous Sea glass Beads in shade of Cobalt Blue !!! This my new collection: recycled /cultured Sea glass jewelry. The same soft finish as found in  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:29:39Z
+- [Blue Sea Glass Earrings - Cobalt Blue Sea Glass Jewelry in Sterling Silver](https://sunnyseaglassjewelry.com/products/blue-sea-glass-earrings-cobalt-blue-sea-glass-earrings-in-sterling-silver-beach-weddings-beach-glass-jewelry-cobalt-sea-glass-earrings): Discover beautiful Blue Sea Glass Earrings featuring cobalt blue sea glass beads in sterling silver, perfect for beach weddings and casual summer outfits.
+  Updated: 2025-11-20T22:11:05Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Sea-Glass-Earrings_-Cobalt-Blue-Sea-Glass-Earrings-in-STERLING-SILVER_-Beach-Weddings_-Beach-Glass-Jewelry_-Cobalt-Sea-glass-Earrings_-My-Store-9867518.jpg?v=1762482567
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Sea-Glass-Earrings_-Cobalt-Blue-Sea-Glass-Earrings-in-STERLING-SILVER_-Beach-Weddings_-Beach-Glass-Jewelry_-Cobalt-Sea-glass-Earrings_-My-Store-9867518.jpg?v=1763676663
   - [Silver Bead](https://sunnyseaglassjewelry.com/products/blue-sea-glass-earrings-cobalt-blue-sea-glass-earrings-in-sterling-silver-beach-weddings-beach-glass-jewelry-cobalt-sea-glass-earrings?variant=42904287314001)
     Availability: Available
     Price: $22.95 USD
   - [Crystal](https://sunnyseaglassjewelry.com/products/blue-sea-glass-earrings-cobalt-blue-sea-glass-earrings-in-sterling-silver-beach-weddings-beach-glass-jewelry-cobalt-sea-glass-earrings?variant=42904287346769)
     Availability: Available
     Price: $22.95 USD
-- [Sterling Silver Sea Glass Bracelet, Custom Sea Glass Bracelet,](https://sunnyseaglassjewelry.com/products/sterling-silver-sea-glass-bracelet-custom-sea-glass-bracelet-personalized-bracelet-for-her-chain-link-bracelet-friendship-bracelet): This custom sterling silver bracelet features beautiful blue and green cultured sea glass beads with a soft, natural finish. Each freeform bead is  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-11T22:30:41Z
+- [Sterling Silver Sea Glass Bracelet - Custom & Personalized Jewelry](https://sunnyseaglassjewelry.com/products/sterling-silver-sea-glass-bracelet-custom-sea-glass-bracelet-personalized-bracelet-for-her-chain-link-bracelet-friendship-bracelet): Discover the beauty of a Sterling Silver Sea Glass Bracelet. Custom and personalized, it's perfect for gifting and everyday elegance. Shop now!
+  Updated: 2025-11-20T22:11:03Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sterling-Silver-Sea-Glass-Bracelet_-Custom-Sea-Glass-Bracelet_-Personalized-Bracelet-for-Her_-My-Store-9868473.jpg?v=1762482582
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sterling-Silver-Sea-Glass-Bracelet_-Custom-Sea-Glass-Bracelet_-Personalized-Bracelet-for-Her_-My-Store-9868473.jpg?v=1763676662
   - [5.5 / Blue Bracelet](https://sunnyseaglassjewelry.com/products/sterling-silver-sea-glass-bracelet-custom-sea-glass-bracelet-personalized-bracelet-for-her-chain-link-bracelet-friendship-bracelet?variant=42904288198737)
     Availability: Available
     Price: $34.95 USD
@@ -953,12 +953,12 @@
   - [7.5 / No Letter Green Brac](https://sunnyseaglassjewelry.com/products/sterling-silver-sea-glass-bracelet-custom-sea-glass-bracelet-personalized-bracelet-for-her-chain-link-bracelet-friendship-bracelet?variant=42904288821329)
     Availability: Available
     Price: $34.95 USD
-- [Sailboat Sea Glass  Periwinkle Sea Glass Earrings Sea Glass](https://sunnyseaglassjewelry.com/products/sailboat-sea-glass-earrings-periwinkle-sea-glass-earrings-sea-glass-earrings-beach-wedding-beach-glass-dangle-earrings-sea-glass-jewelry): Gorgeous shade of Periwinkle !!! This is my new collection: recycled /cultured Sea glass jewelry. The same soft finish as found in natural sea glass.  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:31:46Z
+- [Sailboat Sea Glass Earrings - Beautiful Periwinkle Beach Jewelry](https://sunnyseaglassjewelry.com/products/sailboat-sea-glass-earrings-periwinkle-sea-glass-earrings-sea-glass-earrings-beach-wedding-beach-glass-dangle-earrings-sea-glass-jewelry): Explore the elegant Sailboat Sea Glass Earrings with vibrant Periwinkle color, perfect for beach weddings or as unique sea glass jewelry. Buy now!
+  Updated: 2025-11-20T22:11:08Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sailboat-Sea-Glass-Earrings_-Periwinkle-Sea-Glass-Earrings-Sea-Glass-Earrings_-Beach-Wedding_-Beach-glass-Dangle-earrings_-Sea-Glass-Jewelry-My-Store-9873155.jpg?v=1762482691
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sailboat-Sea-Glass-Earrings_-Periwinkle-Sea-Glass-Earrings-Sea-Glass-Earrings_-Beach-Wedding_-Beach-glass-Dangle-earrings_-Sea-Glass-Jewelry-My-Store-9873155.jpg?v=1763676667
   - [No.1](https://sunnyseaglassjewelry.com/products/sailboat-sea-glass-earrings-periwinkle-sea-glass-earrings-sea-glass-earrings-beach-wedding-beach-glass-dangle-earrings-sea-glass-jewelry?variant=42904289017937)
     Availability: Available
     Price: $26.95 USD
@@ -968,12 +968,12 @@
   - [No.3](https://sunnyseaglassjewelry.com/products/sailboat-sea-glass-earrings-periwinkle-sea-glass-earrings-sea-glass-earrings-beach-wedding-beach-glass-dangle-earrings-sea-glass-jewelry?variant=42904289083473)
     Availability: Available
     Price: $26.95 USD
-- [Sterling Silver Sea Glass Dragonfly Charm Periwinkle SeaGlass](https://sunnyseaglassjewelry.com/products/sterling-silver-sea-glass-dragonfly-charm-earrings-periwinkle-sea-glass-earrings-beach-weddings-blue-earring-green-sea-glass-earrings): Gorgeous Sea glass earrings in many shades to choose from....... This my new collection: recycled /cultured Sea glass jewelry, the same soft finish as  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:32:23Z
+- [Sterling Silver Sea Glass Dragonfly Earrings - Beach Wedding Jewelry](https://sunnyseaglassjewelry.com/products/sterling-silver-sea-glass-dragonfly-charm-earrings-periwinkle-sea-glass-earrings-beach-weddings-blue-earring-green-sea-glass-earrings): Shop stunning Sterling Silver Sea Glass earrings featuring colorful recycled sea glass and a delicate dragonfly charm, perfect for beach weddings and special occasions.
+  Updated: 2025-11-20T22:11:06Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sterling-Silver-Sea-Glass-Dragonfly-Charm-Earrings_Periwinkle-SeaGlass-Earrings_-Beach-Weddings_Blue-earring_-Green-Sea-glass-Earrings_-My-Store-9875620.jpg?v=1762482724
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sterling-Silver-Sea-Glass-Dragonfly-Charm-Earrings_Periwinkle-SeaGlass-Earrings_-Beach-Weddings_Blue-earring_-Green-Sea-glass-Earrings_-My-Store-9875620.jpg?v=1763676665
   - [1-Dk Pacific Blue](https://sunnyseaglassjewelry.com/products/sterling-silver-sea-glass-dragonfly-charm-earrings-periwinkle-sea-glass-earrings-beach-weddings-blue-earring-green-sea-glass-earrings?variant=42904289116241)
     Availability: Available
     Price: $22.95 USD
@@ -1004,12 +1004,12 @@
   - [10-Frosted Clear](https://sunnyseaglassjewelry.com/products/sterling-silver-sea-glass-dragonfly-charm-earrings-periwinkle-sea-glass-earrings-beach-weddings-blue-earring-green-sea-glass-earrings?variant=42904289411153)
     Availability: Available
     Price: $22.95 USD
-- [green Sea Glass dangling earrings with sterling silver ,Handmade green](https://sunnyseaglassjewelry.com/products/green-sea-glass-dangling-earrings-with-sterling-silver-handmade-green-sea-glass-dangle-earrings-green-sea-glass-beach-wedding-jewelry): Gorgeous light green shade !! These earrings  cultured Sea glass. The same soft finish as found in natural sea glass. These fun, colorful earrings  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:34:08Z
+- [Green Sea Glass Earrings | Handmade Sterling Silver Dangles for Beach Wedding](https://sunnyseaglassjewelry.com/products/green-sea-glass-dangling-earrings-with-sterling-silver-handmade-green-sea-glass-dangle-earrings-green-sea-glass-beach-wedding-jewelry): Discover beautiful green sea glass earrings Featuring handcrafted sterling silver wires, Swarovski pearls, and recycled sea glass beads for a unique Beach Wedding jewelry look.
+  Updated: 2025-11-20T22:10:53Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/green-Sea-Glass-dangling-earrings-with-sterling-silver-_Handmade-green-sea-glass-dangle-earrings_-Green-sea-glass-Beach-Wedding-jewelry-My-Store-9879059.jpg?v=1762482829
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/green-Sea-Glass-dangling-earrings-with-sterling-silver-_Handmade-green-sea-glass-dangle-earrings_-Green-sea-glass-Beach-Wedding-jewelry-My-Store-9879059.jpg?v=1763676652
   - [Silver Bead](https://sunnyseaglassjewelry.com/products/green-sea-glass-dangling-earrings-with-sterling-silver-handmade-green-sea-glass-dangle-earrings-green-sea-glass-beach-wedding-jewelry?variant=42904289738833)
     Availability: Available
     Price: $22.95 USD
@@ -1019,12 +1019,12 @@
   - [Pearl](https://sunnyseaglassjewelry.com/products/green-sea-glass-dangling-earrings-with-sterling-silver-handmade-green-sea-glass-dangle-earrings-green-sea-glass-beach-wedding-jewelry?variant=42904289804369)
     Availability: Available
     Price: $22.95 USD
-- [Unique artisan-crafted blue sea glass earrings, Cobalt Blue Sea Glass](https://sunnyseaglassjewelry.com/products/unique-artisan-crafted-blue-sea-glass-earrings-cobalt-blue-sea-glass-earrings-in-sterling-silver-beach-weddings-blue-sea-glass-earrings): Gorgeous Sea glass Beads in shade of Cobalt Blue !!! This my new collection: recycled /cultured Sea glass jewelry. The same soft finish as found in  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:34:10Z
+- [Unique artisan-crafted blue sea glass earrings - Handcrafted Sterling Silver Jewelry](https://sunnyseaglassjewelry.com/products/unique-artisan-crafted-blue-sea-glass-earrings-cobalt-blue-sea-glass-earrings-in-sterling-silver-beach-weddings-blue-sea-glass-earrings): Discover unique artisan-crafted blue sea glass earrings, featuring cobalt blue sea glass beads, sterling silver wire wrapping, and elegant dangle design, perfect for beach weddings.
+  Updated: 2025-11-20T22:11:13Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Unique-artisan-crafted-blue-sea-glass-earrings_-Cobalt-Blue-Sea-Glass-Earrings-in-Sterling-Silver_-Beach-Weddings_-Blue-Sea-glass-Earrings_-My-Store-9879836.jpg?v=1762482838
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Unique-artisan-crafted-blue-sea-glass-earrings_-Cobalt-Blue-Sea-Glass-Earrings-in-Sterling-Silver_-Beach-Weddings_-Blue-Sea-glass-Earrings_-My-Store-9879836.jpg?v=1763676672
   - [Silver Bead](https://sunnyseaglassjewelry.com/products/unique-artisan-crafted-blue-sea-glass-earrings-cobalt-blue-sea-glass-earrings-in-sterling-silver-beach-weddings-blue-sea-glass-earrings?variant=42904289837137)
     Availability: Available
     Price: $22.95 USD
@@ -1034,12 +1034,12 @@
   - [Pearl](https://sunnyseaglassjewelry.com/products/unique-artisan-crafted-blue-sea-glass-earrings-cobalt-blue-sea-glass-earrings-in-sterling-silver-beach-weddings-blue-sea-glass-earrings?variant=42904289902673)
     Availability: Available
     Price: $22.95 USD
-- [Beach Glass Necklace, Sky Blue Sea Glass Sand Dollar Necklace. Sea](https://sunnyseaglassjewelry.com/products/beach-glass-necklace-sky-blue-sea-glass-sand-dollar-necklace-sea-themed-charm-necklace-beach-weddings-bridesmaid-necklace-jewelry): Gorgeous Sea glass beads  shade of light sky Blue !!! This is my new collection: recycled /cultured Sea glass jewelry. The same soft fish as found  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:35:32Z
+- [Beach Glass Necklace - Sky Blue Sea Glass & Sand Dollar Charm Jewelry](https://sunnyseaglassjewelry.com/products/beach-glass-necklace-sky-blue-sea-glass-sand-dollar-necklace-sea-themed-charm-necklace-beach-weddings-bridesmaid-necklace-jewelry): Shop our beautiful Beach Glass Necklace featuring sky blue sea glass beads and a sand dollar charm, perfect for beach weddings and bridesmaids. Unique recycled jewelry.
+  Updated: 2025-11-20T22:10:52Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Beach-Glass-Necklace_-Sky-Blue-Sea-Glass-Sand-Dollar-Necklace.-Sea-themed-Charm-Necklace_-Beach-Weddings_-Bridesmaid-Necklace-jewelry-My-Store-9886572.jpg?v=1762482925
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Beach-Glass-Necklace_-Sky-Blue-Sea-Glass-Sand-Dollar-Necklace.-Sea-themed-Charm-Necklace_-Beach-Weddings_-Bridesmaid-Necklace-jewelry-My-Store-9886572.jpg?v=1763676651
   - [Necklace w/silver / 18 inches](https://sunnyseaglassjewelry.com/products/beach-glass-necklace-sky-blue-sea-glass-sand-dollar-necklace-sea-themed-charm-necklace-beach-weddings-bridesmaid-necklace-jewelry?variant=42904293736529)
     Availability: Available
     Price: $38.95 USD
@@ -1067,31 +1067,31 @@
   - [Necklace/crystal / 22 inches](https://sunnyseaglassjewelry.com/products/beach-glass-necklace-sky-blue-sea-glass-sand-dollar-necklace-sea-themed-charm-necklace-beach-weddings-bridesmaid-necklace-jewelry?variant=42904293998673)
     Availability: Available
     Price: $38.75 USD
-- [White Semi transparent Sea Glass Silver -Recycled Glass](https://sunnyseaglassjewelry.com/products/white-semi-transparent-sea-glass-silver-earrings-recycled-glass-earrings-in-sterling-silver-earwires-beach-weddings-sea-glass-earrings): Sea glass Beads in shade of semi transparent !!! This is my new collection: recycled /cultured Sea glass jewelry. The same soft finish as found in  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:35:38Z
+- [White Semi Transparent Sea Glass Earrings - Recycled Silver Jewelry](https://sunnyseaglassjewelry.com/products/white-semi-transparent-sea-glass-silver-earrings-recycled-glass-earrings-in-sterling-silver-earwires-beach-weddings-sea-glass-earrings): Shop stunning White Semi Transparent Sea Glass earrings, crafted with recycled glass and sterling silver earwires. Perfect for beach weddings or casual wear.
+  Updated: 2025-11-20T22:10:57Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/White-Semi-transparent-Sea-Glass-Silver-Earrings-Recycled-Glass-Earrings-in-Sterling-silver-Earwires_-Beach-Weddings_-Sea-Glass-earrings-My-Store-9887087.jpg?v=1762482931
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/White-Semi-transparent-Sea-Glass-Silver-Earrings-Recycled-Glass-Earrings-in-Sterling-silver-Earwires_-Beach-Weddings_-Sea-Glass-earrings-My-Store-9887087.jpg?v=1763676656
   Price: $22.95 USD
-- [Sea Glass Earrings,Light Blue Sea Glass Earrings in STERLING SILVER,](https://sunnyseaglassjewelry.com/products/sea-glass-earrings-light-blue-sea-glass-earrings-in-sterling-silver-beach-glass-jewelry-sea-glass-dangling-earrings-beach-wedding-jewelry): Gorgeous Sea glass Beads in shade of Blue !!! This my new collection: recycled /cultured Sea glass jewelry. The same soft finish as found in natural  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:35:49Z
+- [Sea Glass Earrings - Light Blue Sterling Silver Dangling Beach Jewelry](https://sunnyseaglassjewelry.com/products/sea-glass-earrings-light-blue-sea-glass-earrings-in-sterling-silver-beach-glass-jewelry-sea-glass-dangling-earrings-beach-wedding-jewelry): Shop gorgeous Sea Glass Earrings in light blue, crafted with recycled sea glass beads and sterling silver for a perfect beach wedding or casual look.
+  Updated: 2025-11-20T22:11:12Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Earrings_Light-Blue-Sea-Glass-Earrings-in-STERLING-SILVER_-Beach-Glass-Jewelry_-Sea-glass-Dangling-Earrings_Beach-Wedding-Jewelry-My-Store-9887594.jpg?v=1762482938
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Earrings_Light-Blue-Sea-Glass-Earrings-in-STERLING-SILVER_-Beach-Glass-Jewelry_-Sea-glass-Dangling-Earrings_Beach-Wedding-Jewelry-My-Store-9887594.jpg?v=1763676671
   - [Silver Bead](https://sunnyseaglassjewelry.com/products/sea-glass-earrings-light-blue-sea-glass-earrings-in-sterling-silver-beach-glass-jewelry-sea-glass-dangling-earrings-beach-wedding-jewelry?variant=42904294031441)
     Availability: Available
     Price: $22.95 USD
   - [Crystal](https://sunnyseaglassjewelry.com/products/sea-glass-earrings-light-blue-sea-glass-earrings-in-sterling-silver-beach-glass-jewelry-sea-glass-dangling-earrings-beach-wedding-jewelry?variant=42904294064209)
     Availability: Available
     Price: $22.95 USD
-- [Beach Earrings,Aqua  Sea Glass Earrings in Sterling Silver, Aqua](https://sunnyseaglassjewelry.com/products/beach-earrings-aqua-blue-sea-glass-earrings-in-sterling-silver-aqua-blue-sea-glass-earrings-beach-weddings-aqua-blue-dangling-earrings): Gorgeous shade of Aqua Blue !!! This is my new collection: recycled /cultured Sea glass jewelry. The same soft finish as found in natural sea glass.  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:37:28Z
+- [Beach Earrings - Aqua Blue Sea Glass Earrings in Sterling Silver | Unique Jewelry](https://sunnyseaglassjewelry.com/products/beach-earrings-aqua-blue-sea-glass-earrings-in-sterling-silver-aqua-blue-sea-glass-earrings-beach-weddings-aqua-blue-dangling-earrings): Shop beautiful Beach Earrings featuring Aqua Blue Sea Glass in sterling silver, perfect for beach weddings and summer accessories. Stylish dangling earrings.
+  Updated: 2025-11-20T22:11:16Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Beach-Earrings_Aqua-Blue-Sea-Glass-Earrings-in-Sterling-Silver_-Aqua-Blue-Sea-Glass-Earrings_-Beach-Weddings_-Aqua-Blue-Dangling-Earrings-My-Store-9889919.jpg?v=1762483025
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Beach-Earrings_Aqua-Blue-Sea-Glass-Earrings-in-Sterling-Silver_-Aqua-Blue-Sea-Glass-Earrings_-Beach-Weddings_-Aqua-Blue-Dangling-Earrings-My-Store-9889919.jpg?v=1763676675
   - [Crystal](https://sunnyseaglassjewelry.com/products/beach-earrings-aqua-blue-sea-glass-earrings-in-sterling-silver-aqua-blue-sea-glass-earrings-beach-weddings-aqua-blue-dangling-earrings?variant=42904295833681)
     Availability: Available
     Price: $22.95 USD
@@ -1101,24 +1101,24 @@
   - [Silver](https://sunnyseaglassjewelry.com/products/beach-earrings-aqua-blue-sea-glass-earrings-in-sterling-silver-aqua-blue-sea-glass-earrings-beach-weddings-aqua-blue-dangling-earrings?variant=42904295899217)
     Availability: Available
     Price: $22.95 USD
-- [Blue  Glass Starfish Silver Charm Dangling Earrings, Spiral Design](https://sunnyseaglassjewelry.com/products/blue-sea-glass-starfish-silver-charm-dangling-earrings-spiral-design-sea-glass-nautical-design-earrings-coastal-ocean-theme-earrings): Feel the Ocean's Whisper – Wire wrapped 8mm Royal Blue Sea Glass Spiral Design Earrings in .925 Sterling Silver. These lovely light weight dangling  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:40:15Z
+- [Blue Sea Glass Starfish Silver Charm Earrings | Nautical Coastal Jewelry](https://sunnyseaglassjewelry.com/products/blue-sea-glass-starfish-silver-charm-dangling-earrings-spiral-design-sea-glass-nautical-design-earrings-coastal-ocean-theme-earrings): Shop the Blue Sea Glass Starfish Silver Charm Earrings, featuring wire wrapped 8mm blue sea glass in a spiral design. Perfect for coastal style lovers and beach weddings.
+  Updated: 2025-11-20T22:11:09Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Sea-Glass-Starfish-Silver-Charm-Dangling-Earrings_-Spiral-Design-Sea-Glass-Nautical-Design-Earrings_-Coastal-Ocean-Theme-Earrings-My-Store-9899152.jpg?v=1762483204
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Sea-Glass-Starfish-Silver-Charm-Dangling-Earrings_-Spiral-Design-Sea-Glass-Nautical-Design-Earrings_-Coastal-Ocean-Theme-Earrings-My-Store-9899152.jpg?v=1763676668
   - [Sterling Silver](https://sunnyseaglassjewelry.com/products/blue-sea-glass-starfish-silver-charm-dangling-earrings-spiral-design-sea-glass-nautical-design-earrings-coastal-ocean-theme-earrings?variant=42904296980561)
     Availability: Available
     Price: $27.95 USD
   - [Gold Finished](https://sunnyseaglassjewelry.com/products/blue-sea-glass-starfish-silver-charm-dangling-earrings-spiral-design-sea-glass-nautical-design-earrings-coastal-ocean-theme-earrings?variant=42904297013329)
     Availability: Available
     Price: $22.95 USD
-- [Braided Deerskin Lace Leather Bracelet,Dad's Gift from daughter,3](https://sunnyseaglassjewelry.com/products/braided-deerskin-lace-leather-bracelet-dads-gift-from-daughter-3-strands-flat-braid-stacking-woven-leather-bracelet-unisex-bracelet-anklet): *** Please note that the price for this listing is for the ONE Bracelet. ***These bracelets are made with 3-strands of 3 mm width Braided Deerskin  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:40:36Z
+- [Braided Deerskin Lace Leather Bracelet - Unisex Stacking Woven Gift](https://sunnyseaglassjewelry.com/products/braided-deerskin-lace-leather-bracelet-dads-gift-from-daughter-3-strands-flat-braid-stacking-woven-leather-bracelet-unisex-bracelet-anklet): Buy Braided Deerskin Lace for a soft, flexible, and stylish unisex leather bracelet or anklet, perfect for gifts or stacking. Made in the USA, customizable length and color.
+  Updated: 2025-11-20T22:11:17Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Braided-Deerskin-Lace-Leather-Bracelet_Dad_s-Gift-from-daughter_3-STRANDS-FLAT-Braid.-Stacking-Woven-Leather-Bracelet_unisex-Bracelet-Anklet-My-Store-9900132.jpg?v=1762483218
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Braided-Deerskin-Lace-Leather-Bracelet_Dad_s-Gift-from-daughter_3-STRANDS-FLAT-Braid.-Stacking-Woven-Leather-Bracelet_unisex-Bracelet-Anklet-My-Store-9900132.jpg?v=1763676676
   - [#1 Brown/Saddle Tan / 5.5](https://sunnyseaglassjewelry.com/products/braided-deerskin-lace-leather-bracelet-dads-gift-from-daughter-3-strands-flat-braid-stacking-woven-leather-bracelet-unisex-bracelet-anklet?variant=42904297701457)
     Availability: Available
     Price: $22.95 USD
@@ -1269,12 +1269,12 @@
   - [#5 Saddle Tan / 10.0](https://sunnyseaglassjewelry.com/products/braided-deerskin-lace-leather-bracelet-dads-gift-from-daughter-3-strands-flat-braid-stacking-woven-leather-bracelet-unisex-bracelet-anklet?variant=42904299307089)
     Availability: Available
     Price: $22.95 USD
-- [Sterling Silver Sailboat Necklace with chain,Beach Glass Necklace,](https://sunnyseaglassjewelry.com/products/sterling-silver-sailboat-necklace-with-chain-beach-glass-necklace-cobalt-blue-sea-glass-necklace-beach-weddings-bridesmaid-necklace-jewelry): Gorgeous Sea Burst Beads ~ in shade of Cobalt Blue !!! Recycled /cultured Sea glass jewelry. The same soft finish as found in natural sea glass. These  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:41:44Z
+- [Sterling Silver Sailboat Necklace - Elegant Beach Glass Jewelry for Weddings](https://sunnyseaglassjewelry.com/products/sterling-silver-sailboat-necklace-with-chain-beach-glass-necklace-cobalt-blue-sea-glass-necklace-beach-weddings-bridesmaid-necklace-jewelry): Discover the beauty of the Sterling Silver Sailboat Necklace. Perfect for beach weddings and bridesmaids, crafted with recycled sea glass and sterling silver.
+  Updated: 2025-11-20T22:11:11Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sterling-Silver-Sailboat-Necklace-with-chain_Beach-Glass-Necklace_-Cobalt-Blue-Sea-Glass-Necklace_Beach-Weddings_Bridesmaid-Necklace-jewelry-My-Store-9906483.jpg?v=1762483293
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sterling-Silver-Sailboat-Necklace-with-chain_Beach-Glass-Necklace_-Cobalt-Blue-Sea-Glass-Necklace_Beach-Weddings_Bridesmaid-Necklace-jewelry-My-Store-9906483.jpg?v=1763676670
   - [Silver bead on Top / 17](https://sunnyseaglassjewelry.com/products/sterling-silver-sailboat-necklace-with-chain-beach-glass-necklace-cobalt-blue-sea-glass-necklace-beach-weddings-bridesmaid-necklace-jewelry?variant=42904300191825)
     Availability: Available
     Price: $39.95 USD
@@ -1311,19 +1311,19 @@
   - [Swarovski pearl / 20](https://sunnyseaglassjewelry.com/products/sterling-silver-sailboat-necklace-with-chain-beach-glass-necklace-cobalt-blue-sea-glass-necklace-beach-weddings-bridesmaid-necklace-jewelry?variant=42904300552273)
     Availability: Available
     Price: $39.95 USD
-- [Wire wrapped Sea Glass Jewelry in Sterling Silver, Sea Glass Silver](https://sunnyseaglassjewelry.com/products/wire-wrapped-sea-glass-jewelry-in-sterling-silver-sea-glass-silver-earrings-dangling-earrings-beach-weddings-sea-glass-earrings-2): This beautiful earring design is inspired by the sea. Cultured Sea Glass Wave Drop Earring sets are perfect for everyday wear. The resulting frosty  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:43:59Z
+- [Wire wrapped Sea Glass Jewelry in Sterling Silver - Elegant Earrings](https://sunnyseaglassjewelry.com/products/wire-wrapped-sea-glass-jewelry-in-sterling-silver-sea-glass-silver-earrings-dangling-earrings-beach-weddings-sea-glass-earrings-2): Discover beautiful wire wrapped Sea Glass Jewelry in Sterling Silver. Perfect for beach weddings or everyday wear, these sea glass earrings add a touch of the ocean.
+  Updated: 2025-11-20T22:11:07Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-wrapped-Sea-Glass-Jewelry-in-Sterling-Silver_-Sea-Glass-Silver-Earrings_-Dangling-Earrings-_Beach-Weddings_-Sea-Glass-earrings-My-Store-9912667.jpg?v=1762483427
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-wrapped-Sea-Glass-Jewelry-in-Sterling-Silver_-Sea-Glass-Silver-Earrings_-Dangling-Earrings-_Beach-Weddings_-Sea-Glass-earrings-My-Store-9912667.jpg?v=1763676666
   Price: $24.95 USD
-- [Handmade Sea Glass Starfish Silver Charm Dangling Earrings, Spiral](https://sunnyseaglassjewelry.com/products/handmade-sea-glass-starfish-silver-charm-dangling-earrings-spiral-design-sea-glass-nautical-design-earrings-coastal-ocean-theme-earrings): Feel the Ocean's Whisper – Wire wrapped 8mm Turquoise Blue Sea Glass Spiral Design Earrings in .925 Sterling Silver. These lovely light weight  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:44:08Z
+- [Handmade Sea Glass - Coastal Silver Earrings with Nautical Charm | Sea Glass Jewelry](https://sunnyseaglassjewelry.com/products/handmade-sea-glass-starfish-silver-charm-dangling-earrings-spiral-design-sea-glass-nautical-design-earrings-coastal-ocean-theme-earrings): Shop Handmade Sea Glass earrings featuring spiral design and nautical charms. Perfect for summer and coastal lovers, crafted in sterling silver with vibrant colors.
+  Updated: 2025-11-20T22:11:20Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Handmade-Sea-Glass-Starfish-Silver-Charm-Dangling-Earrings_-Spiral-Design-Sea-Glass-Nautical-Design-Earrings_-Coastal-Ocean-Theme-Earrings-My-Store-9913265.jpg?v=1762483435
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Handmade-Sea-Glass-Starfish-Silver-Charm-Dangling-Earrings_-Spiral-Design-Sea-Glass-Nautical-Design-Earrings_-Coastal-Ocean-Theme-Earrings-My-Store-9913265.jpg?v=1763676679
   - [Sterling Silver / Royal Blue](https://sunnyseaglassjewelry.com/products/handmade-sea-glass-starfish-silver-charm-dangling-earrings-spiral-design-sea-glass-nautical-design-earrings-coastal-ocean-theme-earrings?variant=42904302649425)
     Availability: Available
     Price: $27.95 USD
@@ -1366,12 +1366,12 @@
   - [Gold Finished / Frosted white](https://sunnyseaglassjewelry.com/products/handmade-sea-glass-starfish-silver-charm-dangling-earrings-spiral-design-sea-glass-nautical-design-earrings-coastal-ocean-theme-earrings?variant=42904303075409)
     Availability: Available
     Price: $22.95 USD
-- [Rustic Soft  Lace Leather for Jewelry in Copper, Wire Wrapped](https://sunnyseaglassjewelry.com/products/rustic-soft-deerskin-lace-leather-for-jewelry-in-copper-wire-wrapped-deerskin-lace-3-mm1-8-inch-width-black-brown-leather-made-in-usa): This 3 mm wide deerskin lace leather necklace features antique copper end tabs and a sturdy lobster clasp. Lightweight with slight stretch, it  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:46:07Z
+- [Deerskin Lace Leather - Rustic Soft Jewelry Leather in Copper & Black - Made in USA](https://sunnyseaglassjewelry.com/products/rustic-soft-deerskin-lace-leather-for-jewelry-in-copper-wire-wrapped-deerskin-lace-3-mm1-8-inch-width-black-brown-leather-made-in-usa): Shop high-quality Deerskin Lace Leather, perfect for jewelry making. Durable, soft, and stylish with variations in color. Made in the USA for authenticity.
+  Updated: 2025-11-20T22:11:13Z
   Vendor: My Store
   Product Type: Wire wrapped necklace
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Rustic-Soft-Deerskin-Lace-Leather-for-Jewelry-in-Copper_-Wire-Wrapped-Deerskin-Lace-3-mm1-8-inch_-Width_-Black_-Brown-Leather_-Made-in-USA-My-Store-9917539.jpg?v=1762483549
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Rustic-Soft-Deerskin-Lace-Leather-for-Jewelry-in-Copper_-Wire-Wrapped-Deerskin-Lace-3-mm1-8-inch_-Width_-Black_-Brown-Leather_-Made-in-USA-My-Store-9917539.jpg?v=1763676672
   - [14 inch / No.1 Black](https://sunnyseaglassjewelry.com/products/rustic-soft-deerskin-lace-leather-for-jewelry-in-copper-wire-wrapped-deerskin-lace-3-mm1-8-inch-width-black-brown-leather-made-in-usa?variant=42904307171409)
     Availability: Available
     Price: $14.95 USD
@@ -1522,24 +1522,24 @@
   - [26 inch / Buckskin](https://sunnyseaglassjewelry.com/products/rustic-soft-deerskin-lace-leather-for-jewelry-in-copper-wire-wrapped-deerskin-lace-3-mm1-8-inch-width-black-brown-leather-made-in-usa?variant=42904308777041)
     Availability: Available
     Price: $20.95 USD
-- [SeaGlass Earrings,Beach Glass Earrings in STERLING SILVER, Turquoise](https://sunnyseaglassjewelry.com/products/seaglass-earrings-beach-glass-earrings-in-sterling-silver-turquoise-blue-sea-glass-earrings-beach-weddings-beach-glass-jewelry): Gorgeous Sea glass Beads in shade of Turquoise Aqua Blue!!! This my new collection: recycled /cultured Sea glass jewelry. The same soft finish as  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:46:46Z
+- [SeaGlass Earrings - Turquoise Blue Beach Glass Jewelry in Sterling Silver](https://sunnyseaglassjewelry.com/products/seaglass-earrings-beach-glass-earrings-in-sterling-silver-turquoise-blue-sea-glass-earrings-beach-weddings-beach-glass-jewelry): Discover stunning SeaGlass Earrings featuring vibrant turquoise blue sea glass, perfect for beach weddings or casual wear, crafted in sterling silver.
+  Updated: 2025-11-20T22:11:19Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/SeaGlass-Earrings_Beach-Glass-Earrings-in-STERLING-SILVER_-Turquoise-Blue-Sea-Glass-Earrings_Beach-Weddings_-Beach-Glass-Jewelry_-My-Store-9920252.jpg?v=1762483590
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/SeaGlass-Earrings_Beach-Glass-Earrings-in-STERLING-SILVER_-Turquoise-Blue-Sea-Glass-Earrings_Beach-Weddings_-Beach-Glass-Jewelry_-My-Store-9920252.jpg?v=1763676678
   - [Silver Bead](https://sunnyseaglassjewelry.com/products/seaglass-earrings-beach-glass-earrings-in-sterling-silver-turquoise-blue-sea-glass-earrings-beach-weddings-beach-glass-jewelry?variant=42904306122833)
     Availability: Available
     Price: $22.95 USD
   - [Crystal](https://sunnyseaglassjewelry.com/products/seaglass-earrings-beach-glass-earrings-in-sterling-silver-turquoise-blue-sea-glass-earrings-beach-weddings-beach-glass-jewelry?variant=42904306155601)
     Availability: Available
     Price: $22.95 USD
-- [Spiral Sea Glass Earrings with Starfish Silver Charm, Spiral Dangle](https://sunnyseaglassjewelry.com/products/spiral-sea-glass-earrings-with-starfish-silver-charm-spiral-dangle-earrings-spiral-green-sea-glass-nautical-earrings-ocean-theme-earrings): Feel the Ocean's Whisper – Wire wrapped 8mm peridot green Sea Glass Spiral Earrings in .925 Sterling Silver or solver filled wire. These lovely light  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:46:50Z
+- [Spiral Sea Glass Earrings - Nautical Jewelry with Starfish Charm](https://sunnyseaglassjewelry.com/products/spiral-sea-glass-earrings-with-starfish-silver-charm-spiral-dangle-earrings-spiral-green-sea-glass-nautical-earrings-ocean-theme-earrings): Discover our Spiral Sea Glass Earrings featuring starfish charms and ocean-inspired design, perfect for summer and coastal lovers. Buy now for a beach-ready look!
+  Updated: 2025-11-20T22:11:18Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Spiral-Sea-Glass-Earrings-with-Starfish-Silver-Charm_-Spiral-Dangle-Earrings_-Spiral-Green-Sea-Glass-Nautical-Earrings_-Ocean-Theme-Earrings-My-Store-9920940.jpg?v=1762483598
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Spiral-Sea-Glass-Earrings-with-Starfish-Silver-Charm_-Spiral-Dangle-Earrings_-Spiral-Green-Sea-Glass-Nautical-Earrings_-Ocean-Theme-Earrings-My-Store-9920940.jpg?v=1763676677
   - [Sterling Silver / Royal Blue](https://sunnyseaglassjewelry.com/products/spiral-sea-glass-earrings-with-starfish-silver-charm-spiral-dangle-earrings-spiral-green-sea-glass-nautical-earrings-ocean-theme-earrings?variant=42904309792849)
     Availability: Available
     Price: $27.95 USD
@@ -1603,12 +1603,12 @@
   - [Gold Finished / Frosted white](https://sunnyseaglassjewelry.com/products/spiral-sea-glass-earrings-with-starfish-silver-charm-spiral-dangle-earrings-spiral-green-sea-glass-nautical-earrings-ocean-theme-earrings?variant=42904310448209)
     Availability: Available
     Price: $22.95 USD
-- [Sea Glass Dragonfly Charm Ankle Bracelet, Blue Sea Glass Anklet, Beach](https://sunnyseaglassjewelry.com/products/sea-glass-dragonfly-charm-ankle-bracelet-blue-sea-glass-anklet-beach-foot-jewelry-summer-fashion-beach-ankle-anklet-gift-for-all-ages): *Gorgeous Sea Burst Beads ~ in shade of gorgeous Blue &amp; green! This is my collection: cultured Sea glass jewelry. The same soft finish as found in  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:49:31Z
+- [Sea Glass Dragonfly Charm Anklet - Beach Jewelry for All Ages, Summer Fashion](https://sunnyseaglassjewelry.com/products/sea-glass-dragonfly-charm-ankle-bracelet-blue-sea-glass-anklet-beach-foot-jewelry-summer-fashion-beach-ankle-anklet-gift-for-all-ages): Shop the Sea Glass Dragonfly Charm anklet, a perfect beach accessory with blue and green sea glass, anchor charms, and Swarovski crystals for summer style lovers.
+  Updated: 2025-11-20T22:11:22Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Dragonfly-Charm-Ankle-Bracelet_-Blue-Sea-Glass-Anklet_-Beach-Foot-Jewelry_-Summer-Fashion-Beach-Ankle_-Anklet-Gift-for-All-Ages-My-Store-9928520.jpg?v=1762483757
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Dragonfly-Charm-Ankle-Bracelet_-Blue-Sea-Glass-Anklet_-Beach-Foot-Jewelry_-Summer-Fashion-Beach-Ankle_-Anklet-Gift-for-All-Ages-My-Store-9928520.jpg?v=1763676681
   - [7.0](https://sunnyseaglassjewelry.com/products/sea-glass-dragonfly-charm-ankle-bracelet-blue-sea-glass-anklet-beach-foot-jewelry-summer-fashion-beach-ankle-anklet-gift-for-all-ages?variant=42904313004113)
     Availability: Available
     Price: $19.95 USD
@@ -1630,19 +1630,19 @@
   - [10.0](https://sunnyseaglassjewelry.com/products/sea-glass-dragonfly-charm-ankle-bracelet-blue-sea-glass-anklet-beach-foot-jewelry-summer-fashion-beach-ankle-anklet-gift-for-all-ages?variant=42904313200721)
     Availability: Available
     Price: $19.95 USD
-- [Sea Glass Anklet, Anklet in Gold Filled,  Style Summer Bracelet,](https://sunnyseaglassjewelry.com/products/sea-glass-anklet-anklet-in-gold-filled-beach-style-summer-bracelet-beach-lover-nautical-jewelry-gifts-for-all-ages-ocean-theme-anklet): *Gorgeous Sea Burst Beads ~ in shade of gorgeous Blue &amp; green! This is my collection: cultured Sea glass jewelry. The same soft finish as found in  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:49:38Z
+- [Sea Glass Anklet - Beach Style Summer Bracelet in Gold Filled, Nautical Jewelry](https://sunnyseaglassjewelry.com/products/sea-glass-anklet-anklet-in-gold-filled-beach-style-summer-bracelet-beach-lover-nautical-jewelry-gifts-for-all-ages-ocean-theme-anklet): Discover the beautiful Sea Glass Anklet, a perfect beach style summer bracelet in gold filled with ocean-inspired design, ideal for beach lovers and nautical jewelry fans.
+  Updated: 2025-11-20T22:11:26Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Anklet_-Anklet-in-Gold-Filled_-Beach-Style-Summer-Bracelet_-Beach-Lover-Nautical-Jewelry-Gifts-For-All-Ages_-Ocean-Theme-anklet-My-Store-9929352.jpg?v=1762483768
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Anklet_-Anklet-in-Gold-Filled_-Beach-Style-Summer-Bracelet_-Beach-Lover-Nautical-Jewelry-Gifts-For-All-Ages_-Ocean-Theme-anklet-My-Store-9929352.jpg?v=1763676685
   Price: $26.95 USD
-- [Green Beach Glass Earrings in Sterling Silver Earwires, May Birthstone](https://sunnyseaglassjewelry.com/products/green-beach-glass-earrings-in-sterling-silver-earwires-may-birthstone-sea-glass-earrings-green-sea-glass-dangle-earrings-beach-earrings): Gorgeous light green shade !! These earrings  cultured Sea glass. The same soft finish as found in natural sea glass. These fun, colorful earrings  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:50:12Z
+- [Green Beach Glass Earrings in Sterling Silver - May Birthstone Sea Glass](https://sunnyseaglassjewelry.com/products/green-beach-glass-earrings-in-sterling-silver-earwires-may-birthstone-sea-glass-earrings-green-sea-glass-dangle-earrings-beach-earrings): Shop beautiful Green Beach Glass Earrings with sterling silver earwires, perfect as May birthstone jewelry. Light green sea glass dangle earrings for a beach-inspired look.
+  Updated: 2025-11-20T22:11:26Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Green-Beach-Glass-Earrings-in-Sterling-Silver-Earwires_-May-Birthstone-Sea-Glass-Earrings_-Green-sea-glass-dangle-earrings_-Beach-Earrings-My-Store-9931998.jpg?v=1762483801
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Green-Beach-Glass-Earrings-in-Sterling-Silver-Earwires_-May-Birthstone-Sea-Glass-Earrings_-Green-sea-glass-dangle-earrings_-Beach-Earrings-My-Store-9931998.jpg?v=1763676685
   - [Silver Bead](https://sunnyseaglassjewelry.com/products/green-beach-glass-earrings-in-sterling-silver-earwires-may-birthstone-sea-glass-earrings-green-sea-glass-dangle-earrings-beach-earrings?variant=42904313757777)
     Availability: Available
     Price: $22.95 USD
@@ -1652,19 +1652,19 @@
   - [Pearl](https://sunnyseaglassjewelry.com/products/green-beach-glass-earrings-in-sterling-silver-earwires-may-birthstone-sea-glass-earrings-green-sea-glass-dangle-earrings-beach-earrings?variant=42904313823313)
     Availability: Available
     Price: $22.95 USD
-- [Brown Sea Glass  Adjustable Sea Glass Macrame Bracelets,](https://sunnyseaglassjewelry.com/products/brown-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets-bracelet-nautical-sea-glass-bracelet-beach-bracelet-sea-glass-jewelry): Pretty &amp; fun Sea Glass bracelet! A great gift for a friend who loves beaches &amp; oceans. Fun &amp; pretty summer beach bracelet!. Th bracelet  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:50:37Z
+- [Brown Sea Glass Bracelet - Adjustable Nautical Beach Jewelry (65 characters)](https://sunnyseaglassjewelry.com/products/brown-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets-bracelet-nautical-sea-glass-bracelet-beach-bracelet-sea-glass-jewelry): Discover the beautiful Brown Sea Glass Bracelet, an adjustable nautical beach jewelry piece perfect for ocean lovers. Great gift idea! (164 characters)
+  Updated: 2025-11-20T22:11:27Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Brown-Sea-Glass-Bracelet_-Adjustable-Sea-Glass-Macrame-Bracelets_-Bracelet_-Nautical-Sea-Glass-Bracelet_-Beach-Bracelet_-Sea-Glass-Jewelry-My-Store-9933722.jpg?v=1762483825
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Brown-Sea-Glass-Bracelet_-Adjustable-Sea-Glass-Macrame-Bracelets_-Bracelet_-Nautical-Sea-Glass-Bracelet_-Beach-Bracelet_-Sea-Glass-Jewelry-My-Store-9933722.jpg?v=1763676686
   Price: $20.00 USD
-- [Ocean Beach Wave Necklace, Blue Beach Wave Necklace,Ocean Wave](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver-1): Stylish Handmade Lampwork Ocean Wave glass necklace in .925 Sterling Silver. We keep the memory of timeless sea breezes, sea-wind of the night, Golden  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:50:49Z
+- [Ocean Beach Wave Necklace - Sterling Silver Blue Sea Glass Pendant, Beach Jewelry](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver-1): Discover the Ocean Beach Wave Necklace, a stunning blue sea glass jewelry piece crafted in sterling silver. Perfect as beach jewelry or a beach wave gift.
+  Updated: 2025-11-20T22:11:32Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Ocean-Beach-Wave-Necklace_-Blue-Beach-Wave-Necklace_Ocean-Wave-Lampwork-Pendant_-Beach-Wave-Jewelry_-Blue-Sea-Glass-Necklace-sterling-silver-My-Store-9934661.jpg?v=1762483837
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Ocean-Beach-Wave-Necklace_-Blue-Beach-Wave-Necklace_Ocean-Wave-Lampwork-Pendant_-Beach-Wave-Jewelry_-Blue-Sea-Glass-Necklace-sterling-silver-My-Store-9934661.jpg?v=1763676691
   - [Necklace / 17](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver-1?variant=42904316346449)
     Availability: Available
     Price: $38.95 USD
@@ -1689,19 +1689,19 @@
   - [Earrings / 20](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver-1?variant=42904316608593)
     Availability: Available
     Price: $42.95 USD
-- [Handmade Macrame Sea Glass Bracelet, Adjustable Sea Glass Macrame](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets-seafoam-bracelet-nautical-sea-glass-bracelet-surfers-bracelet): Pretty &amp; fun Sea Glass bracelet! A great gift for a friend who loves beaches &amp; oceans. Fun &amp; pretty summer beach bracelet!. Th bracelet  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:52:04Z
+- [Handmade Macrame Sea Glass Bracelet - Adjustable Nautical Summer Accessory](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets-seafoam-bracelet-nautical-sea-glass-bracelet-surfers-bracelet): Explore our Handmade Macrame Sea Glass Bracelet, a beautiful adjustable seafoam bracelet perfect for beach lovers and surfers. A stylish gift for ocean enthusiasts!
+  Updated: 2025-11-20T22:11:04Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Handmade-Macrame-Sea-Glass-Bracelet_-Adjustable-Sea-Glass-Macrame-Bracelets_Seafoam-Bracelet_-Nautical-Sea-Glass-Bracelet_Surfer_s-Bracelet_-My-Store-9935470.jpg?v=1762483846
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Handmade-Macrame-Sea-Glass-Bracelet_-Adjustable-Sea-Glass-Macrame-Bracelets_Seafoam-Bracelet_-Nautical-Sea-Glass-Bracelet_Surfer_s-Bracelet_-My-Store-9935470.jpg?v=1763676663
   Price: $20.00 USD
-- [Handmade Sail Boat Blue  Glass Necklace in Sterling Silver, Blue](https://sunnyseaglassjewelry.com/products/handmade-sail-boat-blue-sea-glass-necklace-in-sterling-silver-blue-sea-glass-necklace-beach-inspired-blue-sea-glass-sail-boat-necklace): Gorgeous shade of Blue !!! This is one of my collection: cultured Sea glass jewelry. The same soft finish as found in natural sea glass. These fun,  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-16T11:01:52Z
+- [Handmade Sailboat Blue Sea Glass Necklace - Beach-inspired Sterling Silver Jewelry](https://sunnyseaglassjewelry.com/products/handmade-sail-boat-blue-sea-glass-necklace-in-sterling-silver-blue-sea-glass-necklace-beach-inspired-blue-sea-glass-sail-boat-necklace): Shop the Handmade Sailboat Blue Sea Glass Necklace, a beautiful beach-inspired jewelry piece with genuine sea glass and sterling silver, perfect for summer or every day.
+  Updated: 2025-11-20T22:11:33Z
   Vendor: My Store
   Product Type: Sea glass Necklace
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Handmade-Sail-Boat-Blue-Sea-Glass-Necklace-in-Sterling-Silver_-Blue-Sea-Glass-Necklace_-Beach-inspired-blue-sea-glass-Sail-Boat-Necklace-My-Store-9936443.jpg?v=1762483917
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Handmade-Sail-Boat-Blue-Sea-Glass-Necklace-in-Sterling-Silver_-Blue-Sea-Glass-Necklace_-Beach-inspired-blue-sea-glass-Sail-Boat-Necklace-My-Store-9936443.jpg?v=1763676692
   - [17](https://sunnyseaglassjewelry.com/products/handmade-sail-boat-blue-sea-glass-necklace-in-sterling-silver-blue-sea-glass-necklace-beach-inspired-blue-sea-glass-sail-boat-necklace?variant=42904316870737)
     Availability: Available
     Price: $42.95 USD
@@ -1714,24 +1714,24 @@
   - [20](https://sunnyseaglassjewelry.com/products/handmade-sail-boat-blue-sea-glass-necklace-in-sterling-silver-blue-sea-glass-necklace-beach-inspired-blue-sea-glass-sail-boat-necklace?variant=42904316969041)
     Availability: Available
     Price: $45.95 USD
-- [Hand Crafted Cobalt Blue Beach Glass Jewelry in sterling silver,](https://sunnyseaglassjewelry.com/products/hand-crafted-cobalt-blue-beach-glass-jewelry-in-sterling-silver-pacific-blue-sea-glass-earrings-sea-glass-earrings-beach-glass-jewelry): Gorgeous Sea Burst Beads ~ in shade of gorgeous Blue! This is one of my sea glass collection: cultured Sea glass jewelry. The same soft finish as  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:52:48Z
+- [Hand Crafted Cobalt Blue Beach Glass Jewelry | Sterling Silver Earrings](https://sunnyseaglassjewelry.com/products/hand-crafted-cobalt-blue-beach-glass-jewelry-in-sterling-silver-pacific-blue-sea-glass-earrings-sea-glass-earrings-beach-glass-jewelry): Discover the elegance of Hand Crafted Cobalt Blue Beach Glass Jewelry with sterling silver, featuring Pacific Blue Sea Glass Earrings in my unique sea glass collection.
+  Updated: 2025-11-20T22:11:21Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Hand-Crafted-Cobalt-Blue-Beach-Glass-Jewelry-in-sterling-silver_-Pacific-Blue-Sea-Glass-Earrings_-Sea-Glass-Earrings_-Beach-Glass-Jewelry-My-Store-9938897.jpg?v=1762483949
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Hand-Crafted-Cobalt-Blue-Beach-Glass-Jewelry-in-sterling-silver_-Pacific-Blue-Sea-Glass-Earrings_-Sea-Glass-Earrings_-Beach-Glass-Jewelry-My-Store-9938897.jpg?v=1763676680
   - [No. Royal Rlue](https://sunnyseaglassjewelry.com/products/hand-crafted-cobalt-blue-beach-glass-jewelry-in-sterling-silver-pacific-blue-sea-glass-earrings-sea-glass-earrings-beach-glass-jewelry?variant=42904317296721)
     Availability: Available
     Price: $22.95 USD
   - [No.2 Pacific Blue](https://sunnyseaglassjewelry.com/products/hand-crafted-cobalt-blue-beach-glass-jewelry-in-sterling-silver-pacific-blue-sea-glass-earrings-sea-glass-earrings-beach-glass-jewelry?variant=42904317329489)
     Availability: Available
     Price: $22.95 USD
-- [Beach Glass Necklace in Sterling Silver, Wire Wrapped Genuine](https://sunnyseaglassjewelry.com/products/green-beach-glass-necklace-in-sterling-silver-wire-wrapped-genuine-green-beach-glass-necklace-sea-glass-jewelry-ocean-treasure-necklace): This genuine emerald sea glass pendant necklace is a stunning coastal accessory crafted with an ocean-inspired wire wrap design, making it the perfect  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:53:16Z
+- [Green Beach Glass Necklace - Sterling Silver Sea Glass Jewelry](https://sunnyseaglassjewelry.com/products/green-beach-glass-necklace-in-sterling-silver-wire-wrapped-genuine-green-beach-glass-necklace-sea-glass-jewelry-ocean-treasure-necklace): Discover the beauty of a Green Beach Glass Necklace with sterling silver wire wrap, perfect for beach lovers. A timeless ocean treasure for daily wear.
+  Updated: 2025-11-20T22:10:59Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Green-Beach-Glass-Necklace-in-Sterling-Silver_-Wire-Wrapped-Genuine-Green-Beach-Glass-Necklace_-Sea-Glass-Jewelry_-Ocean-Treasure-Necklace-My-Store-9941638.jpg?v=1762483985
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Green-Beach-Glass-Necklace-in-Sterling-Silver_-Wire-Wrapped-Genuine-Green-Beach-Glass-Necklace_-Sea-Glass-Jewelry_-Ocean-Treasure-Necklace-My-Store-9941638.jpg?v=1763676658
   - [17](https://sunnyseaglassjewelry.com/products/green-beach-glass-necklace-in-sterling-silver-wire-wrapped-genuine-green-beach-glass-necklace-sea-glass-jewelry-ocean-treasure-necklace?variant=42904318410833)
     Availability: Available
     Price: $42.95 USD
@@ -1744,12 +1744,12 @@
   - [20](https://sunnyseaglassjewelry.com/products/green-beach-glass-necklace-in-sterling-silver-wire-wrapped-genuine-green-beach-glass-necklace-sea-glass-jewelry-ocean-treasure-necklace?variant=42904318509137)
     Availability: Available
     Price: $42.95 USD
-- [Natural Beach Glass Necklace, Seafoam Green  Beach Glass Necklace,](https://sunnyseaglassjewelry.com/products/natural-beach-glass-necklace-seafoam-green-beach-glass-necklace-wired-sea-glass-jewelry-gifts-for-beach-lover-ocean-inspired-pendant): One of Kind RARE Seafoam Color Sea Glass Necklace! This genuine emerald sea glass pendant necklace is a stunning coastal accessory crafted with an  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:53:28Z
+- [Natural Beach Glass Necklace - Ocean-Inspired Seafoam Green Pendant](https://sunnyseaglassjewelry.com/products/natural-beach-glass-necklace-seafoam-green-beach-glass-necklace-wired-sea-glass-jewelry-gifts-for-beach-lover-ocean-inspired-pendant): Discover the beauty of the Natural Beach Glass Necklace featuring a rare seafoam green sea glass pendant, crafted with sterling silver wire wrap, perfect as beach lover gifts.
+  Updated: 2025-11-20T22:11:01Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Natural-Beach-Glass-Necklace_-Seafoam-Green-Beach-Glass-Necklace_-Wired-Sea-Glass-Jewelry_-Gifts-for-Beach-lover_-Ocean-inspired-Pendant-My-Store-9942535.jpg?v=1762483998
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Natural-Beach-Glass-Necklace_-Seafoam-Green-Beach-Glass-Necklace_-Wired-Sea-Glass-Jewelry_-Gifts-for-Beach-lover_-Ocean-inspired-Pendant-My-Store-9942535.jpg?v=1763676660
   - [17](https://sunnyseaglassjewelry.com/products/natural-beach-glass-necklace-seafoam-green-beach-glass-necklace-wired-sea-glass-jewelry-gifts-for-beach-lover-ocean-inspired-pendant?variant=42904317362257)
     Availability: Available
     Price: $42.95 USD
@@ -1762,12 +1762,12 @@
   - [20](https://sunnyseaglassjewelry.com/products/natural-beach-glass-necklace-seafoam-green-beach-glass-necklace-wired-sea-glass-jewelry-gifts-for-beach-lover-ocean-inspired-pendant?variant=42904317460561)
     Availability: Available
     Price: $42.95 USD
-- [Genuine White Beach  Necklace, Wire Wrapped Naturally Tumbled Sea](https://sunnyseaglassjewelry.com/products/genuine-white-beach-glass-necklace-wire-wrapped-naturally-tumbled-sea-glass-necklace-white-sea-glass-pendant-necklace-in-sterling-silver): This genuine RARE White sea glass pendant necklace is a stunning coastal accessory crafted with an ocean-inspired wire wrap design, making it the  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:53:32Z
+- [White Beach Glass Necklace | Sterling Silver Sea Glass Pendant](https://sunnyseaglassjewelry.com/products/genuine-white-beach-glass-necklace-wire-wrapped-naturally-tumbled-sea-glass-necklace-white-sea-glass-pendant-necklace-in-sterling-silver): Shop our beautiful White Beach Glass Necklace, featuring a natural, ocean-tumbled sea glass pendant with sterling silver wire wrap. Perfect coastal jewelry gift!
+  Updated: 2025-11-20T22:11:24Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Genuine-White-Beach-Glass-Necklace_-Wire-Wrapped-Naturally-Tumbled-Sea-Glass-Necklace_-White-Sea-Glass-Pendant-Necklace-in-Sterling-Silver-My-Store-9943062.jpg?v=1762484003
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Genuine-White-Beach-Glass-Necklace_-Wire-Wrapped-Naturally-Tumbled-Sea-Glass-Necklace_-White-Sea-Glass-Pendant-Necklace-in-Sterling-Silver-My-Store-9943062.jpg?v=1763676683
   - [17](https://sunnyseaglassjewelry.com/products/genuine-white-beach-glass-necklace-wire-wrapped-naturally-tumbled-sea-glass-necklace-white-sea-glass-pendant-necklace-in-sterling-silver?variant=42904318541905)
     Availability: Available
     Price: $42.95 USD
@@ -1780,12 +1780,12 @@
   - [20](https://sunnyseaglassjewelry.com/products/genuine-white-beach-glass-necklace-wire-wrapped-naturally-tumbled-sea-glass-necklace-white-sea-glass-pendant-necklace-in-sterling-silver?variant=42904318640209)
     Availability: Available
     Price: $42.95 USD
-- [Beach  Necklace Starfish Charm in .925 Sterling Silver, Blue Sea](https://sunnyseaglassjewelry.com/products/beach-glass-necklace-starfish-charm-in-925-sterling-silver-blue-sea-glass-necklace-starfish-necklace-wire-wrapped-blue-sea-glass-pendant): We keep the memory of timeless sea breezes, sea-wind of the night, Golden sand, Dazzling/Shimmering sunlight making the sand sparkle like a thousand  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:53:39Z
+- [Beach Glass Necklace - Sterling Silver Starfish Pendant & Blue Sea Glass](https://sunnyseaglassjewelry.com/products/beach-glass-necklace-starfish-charm-in-925-sterling-silver-blue-sea-glass-necklace-starfish-necklace-wire-wrapped-blue-sea-glass-pendant): Discover the beauty of our Beach Glass Necklace featuring a sterling silver starfish charm and handcrafted blue sea glass, perfect for beach lovers and coastal enthusiasts.
+  Updated: 2025-11-20T22:11:37Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Beach-Glass-Necklace-Starfish-Charm-in-.925-Sterling-Silver_-Blue-Sea-Glass-Necklace_-Starfish-Necklace_-Wire-Wrapped-Blue-Sea-Glass-Pendant-My-Store-9943727.jpg?v=1762484013
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Beach-Glass-Necklace-Starfish-Charm-in-.925-Sterling-Silver_-Blue-Sea-Glass-Necklace_-Starfish-Necklace_-Wire-Wrapped-Blue-Sea-Glass-Pendant-My-Store-9943727.jpg?v=1763676696
   - [17&quot; chain](https://sunnyseaglassjewelry.com/products/beach-glass-necklace-starfish-charm-in-925-sterling-silver-blue-sea-glass-necklace-starfish-necklace-wire-wrapped-blue-sea-glass-pendant?variant=42904318672977)
     Availability: Available
     Price: $39.95 USD
@@ -1798,12 +1798,12 @@
   - [20&quot;chain](https://sunnyseaglassjewelry.com/products/beach-glass-necklace-starfish-charm-in-925-sterling-silver-blue-sea-glass-necklace-starfish-necklace-wire-wrapped-blue-sea-glass-pendant?variant=42904318771281)
     Availability: Available
     Price: $39.95 USD
-- [Clover Bracelet in Sterling Silver, St Patrick's Bracelet, Wire](https://sunnyseaglassjewelry.com/products/clover-bracelet-in-sterling-silver-st-patricks-bracelet-wire-wrapped-celtic-clover-bracelet-gifts-for-her-lucky-clover-bracelet): A beautiful stylish handcrafted Clover Bracelet is made with 6mm light blue Aquamarine gemstone &amp; wired Four leaf clover. These hand hammered .925  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:55:11Z
+- [Clover Bracelet in Sterling Silver - Handcrafted Lucky Celtic Jewelry](https://sunnyseaglassjewelry.com/products/clover-bracelet-in-sterling-silver-st-patricks-bracelet-wire-wrapped-celtic-clover-bracelet-gifts-for-her-lucky-clover-bracelet): Discover the beautiful Clover Bracelet in Sterling Silver, featuring blue Aquamarine gemstones and wire-wrapped four-leaf clovers, perfect as a gift or for everyday wear.
+  Updated: 2025-11-20T22:11:30Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Clover-Bracelet-in-Sterling-Silver_-St-Patrick_s-Bracelet_-Wire-Wrapped-Celtic-Clover-Bracelet_-Gifts-for-Her_-Lucky-Clover-Bracelet-My-Store-9945811.jpg?v=1762484097
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Clover-Bracelet-in-Sterling-Silver_-St-Patrick_s-Bracelet_-Wire-Wrapped-Celtic-Clover-Bracelet_-Gifts-for-Her_-Lucky-Clover-Bracelet-My-Store-9945811.jpg?v=1763676689
   - [6.0](https://sunnyseaglassjewelry.com/products/clover-bracelet-in-sterling-silver-st-patricks-bracelet-wire-wrapped-celtic-clover-bracelet-gifts-for-her-lucky-clover-bracelet?variant=42904319262801)
     Availability: Available
     Price: $34.95 USD
@@ -1819,12 +1819,12 @@
   - [8.0](https://sunnyseaglassjewelry.com/products/clover-bracelet-in-sterling-silver-st-patricks-bracelet-wire-wrapped-celtic-clover-bracelet-gifts-for-her-lucky-clover-bracelet?variant=42904319393873)
     Availability: Available
     Price: $34.95 USD
-- [Bracelet Malachite in Sterling Silver, Wire Wrapped Celtic](https://sunnyseaglassjewelry.com/products/clover-bracelet-malachite-in-sterling-silver-st-patricks-bracelet-wire-wrapped-celtic-clover-bracelet-green-bracelet-malachie-jewelry): A beautiful stylish handcrafted Clover Bracelet is made with A+++ Natural 6 mm Malachite gemstone &amp; wired four leaf clovers. This hand hammered  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:55:31Z
+- [Clover Bracelet Malachite in Sterling Silver | Handcrafted Celtic Jewelry](https://sunnyseaglassjewelry.com/products/clover-bracelet-malachite-in-sterling-silver-st-patricks-bracelet-wire-wrapped-celtic-clover-bracelet-green-bracelet-malachie-jewelry): Discover the beauty of the Clover Bracelet with Malachite in sterling silver. Handcrafted, wire-wrapped, and customizable for a perfect fit and style.
+  Updated: 2025-11-20T22:11:32Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Clover-Bracelet-Malachite-in-Sterling-Silver_-Wire-Wrapped-Celtic-Clover-Bracelet_-My-Store-9947670.jpg?v=1762484126
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Clover-Bracelet-Malachite-in-Sterling-Silver_-Wire-Wrapped-Celtic-Clover-Bracelet_-My-Store-9947670.jpg?v=1763676691
   - [6.0](https://sunnyseaglassjewelry.com/products/clover-bracelet-malachite-in-sterling-silver-st-patricks-bracelet-wire-wrapped-celtic-clover-bracelet-green-bracelet-malachie-jewelry?variant=42904319459409)
     Availability: Available
     Price: $32.65 USD
@@ -1840,36 +1840,36 @@
   - [8.0](https://sunnyseaglassjewelry.com/products/clover-bracelet-malachite-in-sterling-silver-st-patricks-bracelet-wire-wrapped-celtic-clover-bracelet-green-bracelet-malachie-jewelry?variant=42904319590481)
     Availability: Available
     Price: $32.65 USD
-- [Dragonfly Sea Glass Earrings,Sea Beach Glass Dragonfly Earrings,](https://sunnyseaglassjewelry.com/products/dragonfly-sea-glass-earrings-sea-beach-glass-dragonfly-earrings-turquoise-blue-sea-glass-earrings-dragonfly-earrings-fantasy-earrings): Gorgeous Sea glass Beads in shade of Turquoise Aqua Blue!!! These fun, colorful earrings are made with approximately 18 mm in square shaped sea glass  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:55:52Z
+- [Dragonfly Sea Glass Earrings - Turquoise Blue Sea Glass Jewelry](https://sunnyseaglassjewelry.com/products/dragonfly-sea-glass-earrings-sea-beach-glass-dragonfly-earrings-turquoise-blue-sea-glass-earrings-dragonfly-earrings-fantasy-earrings): Shop stunning Dragonfly Sea Glass Earrings featuring turquoise blue sea beads and charming dragonfly charms, perfect as colorful, summer accessories.
+  Updated: 2025-11-20T22:11:32Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Dragonfly-Sea-Glass-Earrings_Sea-Beach-Glass-Dragonfly-Earrings_-Turquoise-Blue-Sea-Glass-Earrings_-Dragonfly-Earrings_-Fantasy-Earrings-My-Store-9949140.jpg?v=1762484140
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Dragonfly-Sea-Glass-Earrings_Sea-Beach-Glass-Dragonfly-Earrings_-Turquoise-Blue-Sea-Glass-Earrings_-Dragonfly-Earrings_-Fantasy-Earrings-My-Store-9949140.jpg?v=1763676691
   - [Surgical Steel](https://sunnyseaglassjewelry.com/products/dragonfly-sea-glass-earrings-sea-beach-glass-dragonfly-earrings-turquoise-blue-sea-glass-earrings-dragonfly-earrings-fantasy-earrings?variant=42904320868433)
     Availability: Available
     Price: $18.95 USD
   - [Sterling Silver](https://sunnyseaglassjewelry.com/products/dragonfly-sea-glass-earrings-sea-beach-glass-dragonfly-earrings-turquoise-blue-sea-glass-earrings-dragonfly-earrings-fantasy-earrings?variant=42904320901201)
     Availability: Available
     Price: $18.95 USD
-- [Beach Glass Jewelry, Blue Sea Glass  Necklace and Earrings in Sterling](https://sunnyseaglassjewelry.com/products/beach-glass-jewelry-blue-sea-glass-necklace-and-earrings-in-sterling-silver-blue-seaglass-necklace-summer-sea-glass-jewelry-set): Gorgeous Sea Burst Beads ~ in shade of gorgeous Blue !!! This is my new collection: cultured Sea glass jewelry. The same soft finish as found in  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:56:14Z
+- [Beach Glass Jewelry| Blue Sea Glass Necklace & Earrings in Sterling Silver](https://sunnyseaglassjewelry.com/products/beach-glass-jewelry-blue-sea-glass-necklace-and-earrings-in-sterling-silver-blue-seaglass-necklace-summer-sea-glass-jewelry-set): Discover beautiful Beach Glass Jewelry, including a Blue Sea Glass Necklace and Earrings set in sterling silver, perfect for summer jewelry collection.
+  Updated: 2025-11-20T22:11:36Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Beach-Glass-Jewelry_-Blue-Sea-Glass-Necklace-and-Earrings-in-Sterling-Silver_-Blue-SeaGlass-Necklace_-Summer-Sea-Glass-Jewelry-SET_-My-Store-9951015.jpg?v=1762484161
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Beach-Glass-Jewelry_-Blue-Sea-Glass-Necklace-and-Earrings-in-Sterling-Silver_-Blue-SeaGlass-Necklace_-Summer-Sea-Glass-Jewelry-SET_-My-Store-9951015.jpg?v=1763676695
   - [Necklace ONLY](https://sunnyseaglassjewelry.com/products/beach-glass-jewelry-blue-sea-glass-necklace-and-earrings-in-sterling-silver-blue-seaglass-necklace-summer-sea-glass-jewelry-set?variant=42904320671825)
     Availability: Available
     Price: $39.95 USD
   - [Earrings ONLY](https://sunnyseaglassjewelry.com/products/beach-glass-jewelry-blue-sea-glass-necklace-and-earrings-in-sterling-silver-blue-seaglass-necklace-summer-sea-glass-jewelry-set?variant=42904320704593)
     Availability: Available
     Price: $22.95 USD
-- [Blue Sea Beach  Earrings in Sterling Silver Earwires, Blue Sea](https://sunnyseaglassjewelry.com/products/blue-sea-beach-glass-earrings-in-sterling-silver-earwires-blue-sea-glass-earrings-beach-weddings-blue-earrings-you-pick-your-favorite): Gorgeous Sea Burst Beads ~ in shade of gorgeous Blue !!! This is my new collection: cultured Sea glass jewelry. The same soft finish as found in  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:56:24Z
+- [Blue Sea Glass Earrings - Sterling Silver Wire Wrapped Beach Jewelry](https://sunnyseaglassjewelry.com/products/blue-sea-beach-glass-earrings-in-sterling-silver-earwires-blue-sea-glass-earrings-beach-weddings-blue-earrings-you-pick-your-favorite): Discover beautiful Blue Sea Glass Earrings crafted with sterling silver wires and unique glass beads, perfect for beach weddings and summer style. Shop now!
+  Updated: 2025-11-20T22:11:37Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Sea-Beach-Glass-Earrings-in-Sterling-Silver-Earwires_-Blue-Sea-Glass-Earrings_-Beach-Weddings_-Blue-earrings-You-Pick-Your-Favorite-My-Store-9951832.jpg?v=1762484172
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Sea-Beach-Glass-Earrings-in-Sterling-Silver-Earwires_-Blue-Sea-Glass-Earrings_-Beach-Weddings_-Blue-earrings-You-Pick-Your-Favorite-My-Store-9951832.jpg?v=1763676696
   - [No.1  Pearl](https://sunnyseaglassjewelry.com/products/blue-sea-beach-glass-earrings-in-sterling-silver-earwires-blue-sea-glass-earrings-beach-weddings-blue-earrings-you-pick-your-favorite?variant=42904320737361)
     Availability: Available
     Price: $22.95 USD
@@ -1882,24 +1882,24 @@
   - [No.4 Silver bead](https://sunnyseaglassjewelry.com/products/blue-sea-beach-glass-earrings-in-sterling-silver-earwires-blue-sea-glass-earrings-beach-weddings-blue-earrings-you-pick-your-favorite?variant=42904320835665)
     Availability: Available
     Price: $22.95 USD
-- [Green Beach Glass Jewelry, Shamrock Green Sea Glass  Necklace and](https://sunnyseaglassjewelry.com/products/green-beach-glass-jewelry-shamrock-green-sea-glass-necklace-and-earrings-in-sterling-silver-sea-glass-necklace-sea-glass-jewelry-set): Gorgeous Sea Burst Beads ~ in shade of gorgeous Deep Green! This is my new collection: cultured Sea glass jewelry. The same soft finish as found in  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:56:33Z
+- [Green Beach Glass Jewelry - Sterling Silver Sea Glass Necklace & Earrings](https://sunnyseaglassjewelry.com/products/green-beach-glass-jewelry-shamrock-green-sea-glass-necklace-and-earrings-in-sterling-silver-sea-glass-necklace-sea-glass-jewelry-set): Explore our Green Beach Glass Jewelry collection featuring Sterling Silver Sea Glass Necklace and Earrings set with unique, cultured sea glass beads. Perfect for elegant occasions!
+  Updated: 2025-11-20T22:11:40Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Green-Beach-Glass-Jewelry_-Shamrock-Green-Sea-Glass-Necklace-and-Earrings-in-Sterling-Silver_-Sea-Glass-Necklace_-Sea-Glass-Jewelry-SET_-My-Store-9952632.jpg?v=1762484183
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Green-Beach-Glass-Jewelry_-Shamrock-Green-Sea-Glass-Necklace-and-Earrings-in-Sterling-Silver_-Sea-Glass-Necklace_-Sea-Glass-Jewelry-SET_-My-Store-9952632.jpg?v=1763676699
   - [Necklace ONLY](https://sunnyseaglassjewelry.com/products/green-beach-glass-jewelry-shamrock-green-sea-glass-necklace-and-earrings-in-sterling-silver-sea-glass-necklace-sea-glass-jewelry-set?variant=42904320475217)
     Availability: Available
     Price: $38.95 USD
   - [Earrings ONLY](https://sunnyseaglassjewelry.com/products/green-beach-glass-jewelry-shamrock-green-sea-glass-necklace-and-earrings-in-sterling-silver-sea-glass-necklace-sea-glass-jewelry-set?variant=42904320507985)
     Availability: Available
     Price: $22.95 USD
-- [Blue  Necklace, Blue Sea Glass  necklace, Seaglass Pendant](https://sunnyseaglassjewelry.com/products/blue-wave-necklace-blue-sea-glass-wave-necklace-seaglass-pendant-wave-design-sterling-silver-wire-necklace-beach-style-ocean-wave-swirl): Gorgeous Handmade Ocean Wave glass necklace. We keep the memory of timeless sea breezes, sea-wind of the night, Golden sand, Dazzling/Shimmering  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:56:48Z
+- [Blue Wave Necklace - Handcrafted Ocean Wave Sea Glass Pendant Sterling Silver](https://sunnyseaglassjewelry.com/products/blue-wave-necklace-blue-sea-glass-wave-necklace-seaglass-pendant-wave-design-sterling-silver-wire-necklace-beach-style-ocean-wave-swirl): Discover the stunning Blue Wave Necklace featuring genuine cobalt blue sea glass and sterling silver wire wrapping, perfect for beach lovers and ocean enthusiasts.
+  Updated: 2025-11-20T22:11:40Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Wave-Necklace_-Blue-Sea-Glass-Wave-necklace_-Seaglass-Pendant-Wave-Design-Sterling-Silver-Wire-Necklace_Beach-Style-Ocean-Wave-Swirl-My-Store-9953585.jpg?v=1762484194
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Wave-Necklace_-Blue-Sea-Glass-Wave-necklace_-Seaglass-Pendant-Wave-Design-Sterling-Silver-Wire-Necklace_Beach-Style-Ocean-Wave-Swirl-My-Store-9953585.jpg?v=1763676699
   - [17](https://sunnyseaglassjewelry.com/products/blue-wave-necklace-blue-sea-glass-wave-necklace-seaglass-pendant-wave-design-sterling-silver-wire-necklace-beach-style-ocean-wave-swirl?variant=42904320540753)
     Availability: Available
     Price: $40.95 USD
@@ -1912,12 +1912,12 @@
   - [20](https://sunnyseaglassjewelry.com/products/blue-wave-necklace-blue-sea-glass-wave-necklace-seaglass-pendant-wave-design-sterling-silver-wire-necklace-beach-style-ocean-wave-swirl?variant=42904320639057)
     Availability: Available
     Price: $40.95 USD
-- [Green Seaglass Pendant Necklace in  Sterling Silver, Wire Wrapped](https://sunnyseaglassjewelry.com/products/green-seaglass-pendant-necklace-in-sterling-silver-wire-wrapped-beach-glass-necklacefor-beach-lovers-natual-peridot-green-sea-glass): Gorgeous Sea Burst Beads ~ in the vibrant green shades of colors!.... This genuine emerald sea glass pendant necklace is a stunning coastal accessory  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:56:58Z
+- [Green Seaglass Pendant Necklace in Sterling Silver | Coastal Jewelry](https://sunnyseaglassjewelry.com/products/green-seaglass-pendant-necklace-in-sterling-silver-wire-wrapped-beach-glass-necklacefor-beach-lovers-natual-peridot-green-sea-glass): Explore the stunning Green Seaglass Pendant necklace crafted with sterling silver wire wrap, perfect for beach lovers and natural jewelry enthusiasts.
+  Updated: 2025-11-20T22:11:44Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Green-Seaglass-Pendant-Necklace-in-Sterling-Silver_-Wire-Wrapped-Beach-Glass-Necklacefor-Beach-Lovers_-Natual-Peridot-Green-Sea-Glass-My-Store-9954422.jpg?v=1762484204
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Green-Seaglass-Pendant-Necklace-in-Sterling-Silver_-Wire-Wrapped-Beach-Glass-Necklacefor-Beach-Lovers_-Natual-Peridot-Green-Sea-Glass-My-Store-9954422.jpg?v=1763676702
   - [17](https://sunnyseaglassjewelry.com/products/green-seaglass-pendant-necklace-in-sterling-silver-wire-wrapped-beach-glass-necklacefor-beach-lovers-natual-peridot-green-sea-glass?variant=42904320933969)
     Availability: Available
     Price: $44.95 USD
@@ -1930,31 +1930,31 @@
   - [20](https://sunnyseaglassjewelry.com/products/green-seaglass-pendant-necklace-in-sterling-silver-wire-wrapped-beach-glass-necklacefor-beach-lovers-natual-peridot-green-sea-glass?variant=42904321032273)
     Availability: Available
     Price: $44.95 USD
-- [Light Sapphire Blue Sea  Earrings, STERLING SILVER Sailboat Sea](https://sunnyseaglassjewelry.com/products/light-sapphire-blue-sea-glass-earrings-sterling-silver-sailboat-sea-glass-earrings-blue-sea-glass-earrings-beach-weddings-sea-glass): Gorgeous shade of Light Sapphire Blue !!! This is my new collection: recycled /cultured Sea glass jewelry. The same soft finish as found in natural  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:58:09Z
+- [Light Sapphire Blue Sea Glass Earrings - Sterling Silver Sea Glass Jewelry](https://sunnyseaglassjewelry.com/products/light-sapphire-blue-sea-glass-earrings-sterling-silver-sailboat-sea-glass-earrings-blue-sea-glass-earrings-beach-weddings-sea-glass): Shop beautiful Light Sapphire Blue Sea Glass Earrings, crafted with recycled sea glass and sterling silver. Perfect for beach weddings and summer accessories.
+  Updated: 2025-11-20T22:11:36Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Light-Sapphire-Blue-Sea-Glass-Earrings_-STERLING-SILVER-Sailboat-Sea-Glass-Earrings_-Blue-Sea-Glass-Earrings_-Beach-Weddings_-Sea-glass-My-Store-9955722.jpg?v=1762484275
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Light-Sapphire-Blue-Sea-Glass-Earrings_-STERLING-SILVER-Sailboat-Sea-Glass-Earrings_-Blue-Sea-Glass-Earrings_-Beach-Weddings_-Sea-glass-My-Store-9955722.jpg?v=1763676695
   - [No.1](https://sunnyseaglassjewelry.com/products/light-sapphire-blue-sea-glass-earrings-sterling-silver-sailboat-sea-glass-earrings-blue-sea-glass-earrings-beach-weddings-sea-glass?variant=42904321556561)
     Availability: Available
     Price: $26.95 USD
   - [No.2](https://sunnyseaglassjewelry.com/products/light-sapphire-blue-sea-glass-earrings-sterling-silver-sailboat-sea-glass-earrings-blue-sea-glass-earrings-beach-weddings-sea-glass?variant=42904321589329)
     Availability: Available
     Price: $26.95 USD
-- [Pacific Blue Dangle Earring, Wire Wrap Blue Sea Glass in Sterling](https://sunnyseaglassjewelry.com/products/pacific-blue-dangle-earring-wire-wrap-blue-sea-glass-in-sterling-silver-sea-glass-beach-jewelry-summer-accessory-ocean-theme-coastal-gift): This statement earring design is inspired by the sea. Cultured Sea Glass Long Drop Earring sets are perfect for everyday wear. These handmade sea  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:59:08Z
+- [Pacific Blue Dangle Earring - Ocean-Inspired Sterling Silver Jewelry](https://sunnyseaglassjewelry.com/products/pacific-blue-dangle-earring-wire-wrap-blue-sea-glass-in-sterling-silver-sea-glass-beach-jewelry-summer-accessory-ocean-theme-coastal-gift): Shop the Pacific Blue Dangle Earring, featuring hand-crafted sea glass and sterling silver for a perfect beach-style summer accessory and coastal gift.
+  Updated: 2025-11-20T22:11:09Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Pacific-Blue-Dangle-Earring_-Wire-Wrap-Blue-Sea-Glass-in-Sterling-Silver_-Sea-Glass-Beach-Jewelry-Summer-Accessory_-Ocean-Theme-Coastal-Gift-My-Store-9960268.jpg?v=1762484334
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Pacific-Blue-Dangle-Earring_-Wire-Wrap-Blue-Sea-Glass-in-Sterling-Silver_-Sea-Glass-Beach-Jewelry-Summer-Accessory_-Ocean-Theme-Coastal-Gift-My-Store-9960268.jpg?v=1763676668
   Price: $22.95 USD
-- [Crystal Bracelets, Swarovski Crystal Anklet/Bracelets in Sterling](https://sunnyseaglassjewelry.com/products/crystal-bracelets-swarovski-crystal-anklet-bracelets-in-sterling-silver-april-birthstone-wedding-bridesmaid-crystal-bracelets): Add a touch of sparkle with this Swarovski crystal anklet or bracelet, made with genuine 4mm crystal AB beads and finished in sterling silver. Perfect  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:59:19Z
+- [Crystal Bracelets - Swarovski Crystal Anklet & Bracelets in Sterling Silver](https://sunnyseaglassjewelry.com/products/crystal-bracelets-swarovski-crystal-anklet-bracelets-in-sterling-silver-april-birthstone-wedding-bridesmaid-crystal-bracelets): Shop exquisite Crystal Bracelets, including Swarovski crystal anklets and bracelets in sterling silver. Perfect for any occasion, gift-ready and comfortable to wear.
+  Updated: 2025-11-20T22:11:49Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Crystal-Bracelets_-Swarovski-Crystal-Anklet-Bracelets-in-Sterling-Silver_-April-Birthstone_-Wedding-Bridesmaid-Crystal-Bracelets_-My-Store-9961993.jpg?v=1762484349
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Crystal-Bracelets_-Swarovski-Crystal-Anklet-Bracelets-in-Sterling-Silver_-April-Birthstone_-Wedding-Bridesmaid-Crystal-Bracelets_-My-Store-9961993.jpg?v=1763676708
   - [5.5 / #1 Clear AB](https://sunnyseaglassjewelry.com/products/crystal-bracelets-swarovski-crystal-anklet-bracelets-in-sterling-silver-april-birthstone-wedding-bridesmaid-crystal-bracelets?variant=42904324374609)
     Availability: Available
     Price: $33.45 USD
@@ -2105,19 +2105,19 @@
   - [7.5 / #10 Blue Zircon AB](https://sunnyseaglassjewelry.com/products/crystal-bracelets-swarovski-crystal-anklet-bracelets-in-sterling-silver-april-birthstone-wedding-bridesmaid-crystal-bracelets?variant=42904325980241)
     Availability: Available
     Price: $35.95 USD
-- [Wire wrapped Long  Glass Earrings in Sterling Silver, Pacific Blue](https://sunnyseaglassjewelry.com/products/wire-wrapped-long-sea-glass-earrings-in-sterling-silver-pacific-blue-sea-glass-silver-earrings-beach-weddings-sea-glass-jewelry-beach-glass): This beautiful earring design is inspired by the sea. Cultured Sea Glass Long Drop Earring sets are perfect for everyday wear. These handmade sea  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:59:38Z
+- [Wire wrapped Long Sea Glass Earrings - Sterling Silver Beach Jewelry](https://sunnyseaglassjewelry.com/products/wire-wrapped-long-sea-glass-earrings-in-sterling-silver-pacific-blue-sea-glass-silver-earrings-beach-weddings-sea-glass-jewelry-beach-glass): Shop elegant Wire wrapped Long Sea Glass Earrings crafted with sterling silver, perfect for beach weddings, summer style, and coastal jewelry lovers.
+  Updated: 2025-11-20T22:11:41Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-wrapped-Long-Sea-Glass-Earrings-in-Sterling-Silver_-Pacific-Blue-Sea-Glass-Silver-Earrings_Beach-Weddings_Sea-Glass-Jewelry_Beach-Glass-My-Store-9963424.jpg?v=1762484359
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-wrapped-Long-Sea-Glass-Earrings-in-Sterling-Silver_-Pacific-Blue-Sea-Glass-Silver-Earrings_Beach-Weddings_Sea-Glass-Jewelry_Beach-Glass-My-Store-9963424.jpg?v=1763676700
   Price: $22.95 USD
-- [Sea Glass Necklace Beach Style Pendant with Sterling Silver Chain,](https://sunnyseaglassjewelry.com/products/sea-glass-necklace-beach-style-pendant-with-sterling-silver-chain-minimalist-design-ocean-light-weight-bohemian-necklace-choose-colors): Gorgeous shade of Blue !!! This is one of my collection: cultured Sea glass jewelry. The same soft finish as found in natural sea glass. These fun,  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:05:05Z
+- [Sea Glass Necklace Beach Style Pendant with Sterling Silver Chain - Minimalist Ocean Jewelry](https://sunnyseaglassjewelry.com/products/sea-glass-necklace-beach-style-pendant-with-sterling-silver-chain-minimalist-design-ocean-light-weight-bohemian-necklace-choose-colors): Shop the best Sea Glass Necklace, featuring vibrant blue and green sea glass with sterling silver chain, perfect for beach wear and summer style. Unique and lightweight.
+  Updated: 2025-11-20T22:11:45Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Necklace-Beach-Style-Pendant-with-Sterling-Silver-Chain_-Minimalist-Design-Ocean-Light-Weight-Bohemian-Necklace_-Choose-Colors-My-Store-9982422.jpg?v=1762484689
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Necklace-Beach-Style-Pendant-with-Sterling-Silver-Chain_-Minimalist-Design-Ocean-Light-Weight-Bohemian-Necklace_-Choose-Colors-My-Store-9982422.jpg?v=1763676704
   - [16 / No.1](https://sunnyseaglassjewelry.com/products/sea-glass-necklace-beach-style-pendant-with-sterling-silver-chain-minimalist-design-ocean-light-weight-bohemian-necklace-choose-colors?variant=42904333320273)
     Availability: Available
     Price: $27.95 USD
@@ -2154,12 +2154,12 @@
   - [19 / No.3](https://sunnyseaglassjewelry.com/products/sea-glass-necklace-beach-style-pendant-with-sterling-silver-chain-minimalist-design-ocean-light-weight-bohemian-necklace-choose-colors?variant=42904333680721)
     Availability: Available
     Price: $27.95 USD
-- [Dolphin Charm Sea Glass Necklace, Beach Glass Pendent with Dolphin](https://sunnyseaglassjewelry.com/products/dolphin-charm-sea-glass-necklace-beach-glass-pendent-with-dolphin-charm-jewelry-gift-idea-for-ocean-theme-coastal-style-marine-jewelry): Gorgeous Handmade Blue Coastal Sea Glass Necklace with Sterling Silver Dolphin Charm. Sterling Silver Dolphin charm measures 16 x 9 mm. We keep the  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:05:15Z
+- [Dolphin Charm Sea Glass Necklace - Ocean Themed Coastal Jewelry](https://sunnyseaglassjewelry.com/products/dolphin-charm-sea-glass-necklace-beach-glass-pendent-with-dolphin-charm-jewelry-gift-idea-for-ocean-theme-coastal-style-marine-jewelry): Shop this Dolphin Charm Sea Glass Necklace, a stunning ocean-inspired jewelry piece featuring a sterling silver dolphin charm and blue sea glass beads, perfect as a gift.
+  Updated: 2025-11-20T22:11:49Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Dolphin-Charm-Sea-Glass-Necklace_-Beach-Glass-Pendent-with-Dolphin-charm-Jewelry_-Gift-Idea-for-Ocean-Theme-Coastal-Style-Marine-Jewelry-My-Store-9983476.jpg?v=1762484704
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Dolphin-Charm-Sea-Glass-Necklace_-Beach-Glass-Pendent-with-Dolphin-charm-Jewelry_-Gift-Idea-for-Ocean-Theme-Coastal-Style-Marine-Jewelry-My-Store-9983476.jpg?v=1763676708
   - [17](https://sunnyseaglassjewelry.com/products/dolphin-charm-sea-glass-necklace-beach-glass-pendent-with-dolphin-charm-jewelry-gift-idea-for-ocean-theme-coastal-style-marine-jewelry?variant=42904333189201)
     Availability: Available
     Price: $45.75 USD
@@ -2172,31 +2172,31 @@
   - [20](https://sunnyseaglassjewelry.com/products/dolphin-charm-sea-glass-necklace-beach-glass-pendent-with-dolphin-charm-jewelry-gift-idea-for-ocean-theme-coastal-style-marine-jewelry?variant=42904333287505)
     Availability: Available
     Price: $45.75 USD
-- [Blue Sea Glass Earrings, Beach Glass Dangling Earrings with Paddle](https://sunnyseaglassjewelry.com/products/blue-sea-glass-earrings-beach-glass-dangling-earrings-with-paddle-shape-charms-925-sterling-silver-earrings-beach-glass-jewelry-for-her): These fun &amp; flattering  glass earrings are perfect as beach lovers, making them ideal summer fashion statement pieces. These are handcrafted  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:05:22Z
+- [Blue Sea Glass Earrings - Beach Glass Dangling Sterling Silver Jewelry](https://sunnyseaglassjewelry.com/products/blue-sea-glass-earrings-beach-glass-dangling-earrings-with-paddle-shape-charms-925-sterling-silver-earrings-beach-glass-jewelry-for-her): Discover these beautiful Blue Sea Glass Earrings, perfect for beach lovers and summer fashion. Handcrafted sterling silver dangle earrings with paddle charms.
+  Updated: 2025-11-20T22:11:47Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Sea-Glass-Earrings_-Beach-Glass-Dangling-Earrings-with-Paddle-shape-Charms_-.925-Sterling-Silver-Earrings_-Beach-Glass-Jewelry-for-Her-My-Store-9984129.jpg?v=1762484716
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Sea-Glass-Earrings_-Beach-Glass-Dangling-Earrings-with-Paddle-shape-Charms_-.925-Sterling-Silver-Earrings_-Beach-Glass-Jewelry-for-Her-My-Store-9984129.jpg?v=1763676706
   Price: $26.95 USD
-- [READY to  SHIP in 1 to 2  days,  Tree Earrings, Wired](https://sunnyseaglassjewelry.com/products/ready-to-ship-in-1-to-2-days-christmas-tree-earrings-wired-christmas-earrings-swirled-christmas-tree-dangling-earrings-holiday-jewelry): These are ready to be shipped in 1 to 2 days, so you could wear them all throughout the holiday season. This listing is for the cute &amp; fun  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:05:47Z
+- [Christmas Tree Earrings - Ready to Ship in 1-2 Days | Holiday Jewelry](https://sunnyseaglassjewelry.com/products/ready-to-ship-in-1-to-2-days-christmas-tree-earrings-wired-christmas-earrings-swirled-christmas-tree-dangling-earrings-holiday-jewelry): Shop these ready-to-ship Christmas Tree Earrings, perfect for the holiday season. Handcrafted with crystals & glass beads, they dangle 1-1/4 inches from hypoallergenic gold wires.
+  Updated: 2025-11-20T22:11:09Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/READY-to-SHIP-in-1-to-2-days_-Christmas-Tree-Earrings_-Wired-Christmas-Earrings_-Swirled-Christmas-Tree-dangling-Earrings_-Holiday-jewelry-My-Store-9985691.jpg?v=1762484736
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/READY-to-SHIP-in-1-to-2-days_-Christmas-Tree-Earrings_-Wired-Christmas-Earrings_-Swirled-Christmas-Tree-dangling-Earrings_-Holiday-jewelry-My-Store-9985691.jpg?v=1763676667
   - [Red drop earrings](https://sunnyseaglassjewelry.com/products/ready-to-ship-in-1-to-2-days-christmas-tree-earrings-wired-christmas-earrings-swirled-christmas-tree-dangling-earrings-holiday-jewelry?variant=42904334794833)
     Availability: Available
     Price: $16.95 USD
   - [Green drop earring](https://sunnyseaglassjewelry.com/products/ready-to-ship-in-1-to-2-days-christmas-tree-earrings-wired-christmas-earrings-swirled-christmas-tree-dangling-earrings-holiday-jewelry?variant=42904334827601)
     Availability: Available
     Price: $16.95 USD
-- [READY to  SHIP in 1 to 2  days,  Tree Earrings, Wired](https://sunnyseaglassjewelry.com/products/ready-to-ship-in-1-to-2-days-christmas-tree-earrings-wired-christmas-earrings-swirled-christmas-tree-dangling-earrings-holiday-jewelry-1): These are ready to be shipped in 1 to 2 days, so you could wear them all throughout the holiday season. This listing is for the cute &amp; fun  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:06:02Z
+- [Christmas Tree Earrings - Ready to Ship in 1-2 Days | Holiday Jewelry](https://sunnyseaglassjewelry.com/products/ready-to-ship-in-1-to-2-days-christmas-tree-earrings-wired-christmas-earrings-swirled-christmas-tree-dangling-earrings-holiday-jewelry-1): Shop these ready-to-ship Christmas Tree Earrings, perfect for the holiday season. Handmade with crystals & glass beads, featuring hypoallergenic stainless steel earwires.
+  Updated: 2025-11-20T22:11:51Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/READY-to-SHIP-in-1-to-2-days_-Christmas-Tree-Earrings_-Wired-Christmas-Earrings_-Swirled-Christmas-Tree-dangling-Earrings_-Holiday-jewelry-My-Store-9986520.jpg?v=1762484747
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/READY-to-SHIP-in-1-to-2-days_-Christmas-Tree-Earrings_-Wired-Christmas-Earrings_-Swirled-Christmas-Tree-dangling-Earrings_-Holiday-jewelry-My-Store-9986520.jpg?v=1763676710
   - [Red drop earrings / Silver](https://sunnyseaglassjewelry.com/products/ready-to-ship-in-1-to-2-days-christmas-tree-earrings-wired-christmas-earrings-swirled-christmas-tree-dangling-earrings-holiday-jewelry-1?variant=42904334860369)
     Availability: Available
     Price: $16.95 USD
@@ -2209,12 +2209,12 @@
   - [Green drop earring / Gold finished](https://sunnyseaglassjewelry.com/products/ready-to-ship-in-1-to-2-days-christmas-tree-earrings-wired-christmas-earrings-swirled-christmas-tree-dangling-earrings-holiday-jewelry-1?variant=42904334958673)
     Availability: Available
     Price: $16.95 USD
-- [Swarovski Crystal Anklet/Bracelet, Swarovski Crystal Bracelets in](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1): This elegant Swarovski crystal anklet or bracelet adds sparkle to any look. Made with genuine Swarovski crystals and finished with a sterling silver  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:07:51Z
+- [Swarovski Crystal Anklet - Elegant Sterling Silver Crystal Bracelet](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1): Shop the beautiful Swarovski Crystal Anklet. Crafted with genuine Swarovski crystals in sterling silver, perfect for daily wear or special occasions. Free gift-wrapping!
+  Updated: 2025-11-20T22:11:12Z
   Vendor: My Store
   Product Type: Wire Wrapped Bracelet/Anklet
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Swarovski-Crystal-Anklet-Bracelet_-Swarovski-Crystal-Bracelets-in-Sterling-Silver_-Crystal-Bracelet_-Crystal-Anklets_-Bridal-Bracelet-My-Store-9991082.jpg?v=1762484855
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Swarovski-Crystal-Anklet-Bracelet_-Swarovski-Crystal-Bracelets-in-Sterling-Silver_-Crystal-Bracelet_-Crystal-Anklets_-Bridal-Bracelet-My-Store-9991082.jpg?v=1763676671
   - [5.5 / No.1 Pearl](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338104401)
     Availability: Available
     Price: $28.95 USD
@@ -2365,12 +2365,12 @@
   - [8.5 / no.2 Clear AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339710033)
     Availability: Available
     Price: $31.95 USD
-- [Tree of life Necklace, Peridot Tree of Life Necklace in Sterling](https://sunnyseaglassjewelry.com/products/tree-of-life-necklace-peridot-tree-of-life-necklace-in-sterling-silver-august-birthstone-green-tree-of-life-necklace-christmas-tree-of-life): We handmade this unique &amp; gorgeous wire wrapped Tree of Life pendant necklace. The pendant is made with gorgeous semi transparent Peridot gemstone  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:08:22Z
+- [Tree of Life Necklace - Sterling Silver & Peridot Pendant, Handmade](https://sunnyseaglassjewelry.com/products/tree-of-life-necklace-peridot-tree-of-life-necklace-in-sterling-silver-august-birthstone-green-tree-of-life-necklace-christmas-tree-of-life): Discover our handmade Tree of Life Necklace with Peridot gemstone in sterling silver. Perfect for gift-giving, symbolizing life, strength, and protection.
+  Updated: 2025-11-20T22:11:43Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Tree-of-life-Necklace_-Peridot-Tree-of-Life-Necklace-in-Sterling-Silver_-Christmas-Tree-of-Life-My-Store-9994062.jpg?v=1762484892
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Tree-of-life-Necklace_-Peridot-Tree-of-Life-Necklace-in-Sterling-Silver_-Christmas-Tree-of-Life-My-Store-9994062.jpg?v=1763676702
   - [17 inch](https://sunnyseaglassjewelry.com/products/tree-of-life-necklace-peridot-tree-of-life-necklace-in-sterling-silver-august-birthstone-green-tree-of-life-necklace-christmas-tree-of-life?variant=42904342790225)
     Availability: Available
     Price: $58.25 USD
@@ -2386,19 +2386,19 @@
   - [24 inch](https://sunnyseaglassjewelry.com/products/tree-of-life-necklace-peridot-tree-of-life-necklace-in-sterling-silver-august-birthstone-green-tree-of-life-necklace-christmas-tree-of-life?variant=42904342921297)
     Availability: Available
     Price: $58.25 USD
-- [Starfish Earrings in Sterling Silver, Beach Style  Jewelry,](https://sunnyseaglassjewelry.com/products/starfish-earrings-in-sterling-silver-beach-style-summer-jewelry-summer-vibes-ocean-theme-opal-starfish-dangling-earrings-opal-earrings): Embrace the beachy  vibe with these sterling silver dangle earrings featuring dazzling 12mm lab-created blue starfish opal charms. Simple yet elegant,  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:08:59Z
+- [Starfish Earrings in Sterling Silver - Beach Style Summer Jewelry](https://sunnyseaglassjewelry.com/products/starfish-earrings-in-sterling-silver-beach-style-summer-jewelry-summer-vibes-ocean-theme-opal-starfish-dangling-earrings-opal-earrings): Discover elegant Starfish Earrings in sterling silver featuring dazzling blue opal charms, perfect for summer beach vibes and ocean-inspired fashion accessories.
+  Updated: 2025-11-20T22:11:51Z
   Vendor: My Store
   Product Type: Sea Glass Earrings
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Starfish-Earrings-in-Sterling-Silver_-Beach-Style-Summer-Jewelry_-Summer-Vibes-Ocean-Theme-Opal-Starfish-dangling-Earrings_-Opal-Earrings-My-Store-9996519.jpg?v=1762484926
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Starfish-Earrings-in-Sterling-Silver_-Beach-Style-Summer-Jewelry_-Summer-Vibes-Ocean-Theme-Opal-Starfish-dangling-Earrings_-Opal-Earrings-My-Store-9996519.jpg?v=1763676710
   Price: $27.95 USD
-- [Sterling Silver Starfish Anklet ,Beach Style  Jewelry, Beach](https://sunnyseaglassjewelry.com/products/sterling-silver-anklet-beach-style-summer-jewelry-beach-summer-vibes-ocean-theme-starfish-design-bracelet-custom-length-chain-available): Capture the essence of summer with this stunning double-strand sterling silver bracelet or anklet featuring a charming starfish design and a vibrant  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:10:14Z
+- [Sterling Silver Starfish Anklet - Beach Style Summer Jewelry & Ocean Theme](https://sunnyseaglassjewelry.com/products/sterling-silver-anklet-beach-style-summer-jewelry-beach-summer-vibes-ocean-theme-starfish-design-bracelet-custom-length-chain-available): Shop the Sterling Silver Starfish Anklet, perfect for beach lovers. Custom length available, featuring a starfish design and vibrant blue opal centerpiece, ideal for summer vibes.
+  Updated: 2025-11-20T22:11:53Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sterling-Silver-Starfish-Anklet-_Beach-Style-Summer-Jewelry_-Beach-Summer-Vibes-Ocean-Theme-Starfish-Design-Bracelet_-Custom-Length-Chain-Available-My-Store-9997717.jpg?v=1762484995
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sterling-Silver-Starfish-Anklet-_Beach-Style-Summer-Jewelry_-Beach-Summer-Vibes-Ocean-Theme-Starfish-Design-Bracelet_-Custom-Length-Chain-Available-My-Store-9997717.jpg?v=1763676712
   - [6.0 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-anklet-beach-style-summer-jewelry-beach-summer-vibes-ocean-theme-starfish-design-bracelet-custom-length-chain-available?variant=42904342364241)
     Availability: Available
     Price: $28.95 USD
@@ -2426,12 +2426,12 @@
   - [10.00 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-anklet-beach-style-summer-jewelry-beach-summer-vibes-ocean-theme-starfish-design-bracelet-custom-length-chain-available?variant=42904342626385)
     Availability: Available
     Price: $28.95 USD
-- [Ocean Beach Wave Necklace, Blue Beach Wave Necklace,Ocean Wave](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver-2): Gorgeous Handmade Lampwork Ocean Wave glass necklace in Sterling Silver. We keep the memory of timeless sea breezes, sea-wind of the night, Golden  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:11:14Z
+- [Ocean Beach Wave Necklace - Stunning Blue Beach Wave Jewelry in Sterling Silver](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver-2): Shop the Ocean Beach Wave Necklace, a beautiful handmade blue beach wave jewelry piece with ocean wave lampwork pendant in sterling silver, perfect for beach lovers.
+  Updated: 2025-11-20T22:11:47Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Ocean-Beach-Wave-Necklace_-Blue-Beach-Wave-Necklace_Ocean-Wave-Lampwork-Pendant_-Beach-Wave-Jewelry_-Blue-Sea-Glass-Necklace-sterling-silver-My-Store-10002147.jpg?v=1762485059
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Ocean-Beach-Wave-Necklace_-Blue-Beach-Wave-Necklace_Ocean-Wave-Lampwork-Pendant_-Beach-Wave-Jewelry_-Blue-Sea-Glass-Necklace-sterling-silver-My-Store-10002147.jpg?v=1763676706
   - [17 / sterling silver](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver-2?variant=42904344002641)
     Availability: Available
     Price: $41.95 USD
@@ -2441,12 +2441,12 @@
   - [19 / sterling silver](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver-2?variant=42904344068177)
     Availability: Available
     Price: $41.95 USD
-- [White Opal Necklace, STERLING SILVER October Opal Birthstone](https://sunnyseaglassjewelry.com/products/white-opal-necklace-sterling-silver-october-opal-birthstone-necklace-wire-wrapped-opal-necklace-lab-created-white-opal-necklace): This gorgeous, light,&amp; beautiful dazzling teardrop simulated/syntic Opal is wire wrapped using .925 sterling silver. *** A beautiful gift for  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:11:22Z
+- [White Opal Necklace - Sterling Silver October Birthstone Jewelry, Dazzling Wire Wrapped Pendant](https://sunnyseaglassjewelry.com/products/white-opal-necklace-sterling-silver-october-opal-birthstone-necklace-wire-wrapped-opal-necklace-lab-created-white-opal-necklace): Discover the beauty of our White Opal Necklace, a stunning October birthstone jewelry piece crafted with sterling silver and synthetic opal for a dazzling effect.
+  Updated: 2025-11-20T22:11:53Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/White-Opal-Necklace_-STERLING-SILVER-October-Opal-Birthstone-Necklace_Wire-Wrapped-Opal-Necklace-_Lab-Created-White-Opal-Necklace_-My-Store-10002952.jpg?v=1762485070
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/White-Opal-Necklace_-STERLING-SILVER-October-Opal-Birthstone-Necklace_Wire-Wrapped-Opal-Necklace-_Lab-Created-White-Opal-Necklace_-My-Store-10002952.jpg?v=1763676712
   - [16 inch](https://sunnyseaglassjewelry.com/products/white-opal-necklace-sterling-silver-october-opal-birthstone-necklace-wire-wrapped-opal-necklace-lab-created-white-opal-necklace?variant=42904344428625)
     Availability: Available
     Price: $76.95 USD
@@ -2462,12 +2462,12 @@
   - [22 inch](https://sunnyseaglassjewelry.com/products/white-opal-necklace-sterling-silver-october-opal-birthstone-necklace-wire-wrapped-opal-necklace-lab-created-white-opal-necklace?variant=42904344559697)
     Availability: Available
     Price: $82.95 USD
-- [Wire Wrapped Peridot/Amethyst Bracelet, Adjustable Silver](https://sunnyseaglassjewelry.com/products/wire-wrapped-peridot-amethyst-bracelet-adjustable-amethyst-silver-bracelet-august-birthstone-bracelet-silver-bangle-cuff-wrap-bracelet): This stunning bracelet features green Peridot and purple-lavender Amethyst gemstones, hand wire wrapped with tarnish-resistant silver craft wire in  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-17T02:16:39Z
+- [Wire Wrapped Peridot/Amethyst Bracelet - Adjustable Silver Birthstone](https://sunnyseaglassjewelry.com/products/wire-wrapped-peridot-amethyst-bracelet-adjustable-amethyst-silver-bracelet-august-birthstone-bracelet-silver-bangle-cuff-wrap-bracelet): Shop the stylish Wire Wrapped Peridot/Amethyst Bracelet. An adjustable silver birthstone bracelet featuring unique gemstones, perfect for gifting or personal adornment.
+  Updated: 2025-11-20T22:11:57Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire Wrapped Bracelet/Anklet
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-Wrapped-Peridot-Amethyst-Bracelet_-Adjustable-Silver-bracelet_Birthstone-Bracelet_-Sunny-Sea-Glass-Jewelry-10003810.jpg?v=1762485079
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-Wrapped-Peridot-Amethyst-Bracelet_-Adjustable-Silver-bracelet_Birthstone-Bracelet_-Sunny-Sea-Glass-Jewelry-10003810.jpg?v=1763676716
   - [5.5](https://sunnyseaglassjewelry.com/products/wire-wrapped-peridot-amethyst-bracelet-adjustable-amethyst-silver-bracelet-august-birthstone-bracelet-silver-bangle-cuff-wrap-bracelet?variant=42904344100945)
     Availability: Available
     Price: $32.95 USD
@@ -2486,12 +2486,12 @@
   - [8](https://sunnyseaglassjewelry.com/products/wire-wrapped-peridot-amethyst-bracelet-adjustable-amethyst-silver-bracelet-august-birthstone-bracelet-silver-bangle-cuff-wrap-bracelet?variant=42904344264785)
     Availability: Available
     Price: $35.95 USD
-- [Ocean Beach Wave Necklace, Blue Beach Wave Necklace,Ocean Wave](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver-3): Gorgeous Handmade Lampwork Ocean Wave glass necklace. We keep the memory of timeless sea breezes, sea-wind of the night, Golden sand,  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:11:56Z
+- [Ocean Beach Wave Necklace - Handmade Sterling Silver & Glass Pendant](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver-3): Discover the beauty of the Ocean Beach Wave Necklace, a stunning handmade sterling silver and glass pendant capturing the essence of sea breezes and waves, perfect for jewelry lovers.
+  Updated: 2025-11-20T22:11:55Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Ocean-Beach-Wave-Necklace_-Blue-Beach-Wave-Necklace_Ocean-Wave-Lampwork-Pendant_-Beach-Wave-Jewelry_-Blue-Sea-Glass-Necklace-sterling-silver-My-Store-10005419.jpg?v=1762485100
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Ocean-Beach-Wave-Necklace_-Blue-Beach-Wave-Necklace_Ocean-Wave-Lampwork-Pendant_-Beach-Wave-Jewelry_-Blue-Sea-Glass-Necklace-sterling-silver-My-Store-10005419.jpg?v=1763676714
   - [17 / Sterling Silver](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver-3?variant=42904344756305)
     Availability: Available
     Price: $40.95 USD
@@ -2501,12 +2501,12 @@
   - [20 / Sterling Silver](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver-3?variant=42904344821841)
     Availability: Available
     Price: $42.95 USD
-- [Clover Bracelet in Sterling Silver, St Patrick's Bracelet, Wire](https://sunnyseaglassjewelry.com/products/clover-bracelet-in-sterling-silver-st-patricks-bracelet-wire-wrapped-celtic-clover-bracelet-gifts-for-her-lucky-clover-bracelet-1): A beautiful stylish handcrafted Clover Bracelet is made with pale pink &amp; white shell pearls. This hand hammered .925 sterling silver 4 petal  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:12:53Z
+- [Clover Bracelet in Sterling Silver - Lucky Handmade St Patrick's Jewelry](https://sunnyseaglassjewelry.com/products/clover-bracelet-in-sterling-silver-st-patricks-bracelet-wire-wrapped-celtic-clover-bracelet-gifts-for-her-lucky-clover-bracelet-1): Shop now for the beautiful Clover Bracelet in Sterling Silver, perfect for St Patrick's Day. Handmade, customizable, and ideal as a gift for her.
+  Updated: 2025-11-20T22:11:58Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire Wrapped Bracelet/Anklet
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Clover-Bracelet-in-Sterling-Silver_-St-Patrick_s-Bracelet_-Wire-Wrapped-Celtic-Clover-Bracelet_-Gifts-for-Her_-Lucky-Clover-Bracelet-Sunny-Sea-Glass-Jewelry-10006270.jpg?v=1762485115
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Clover-Bracelet-in-Sterling-Silver_-St-Patrick_s-Bracelet_-Wire-Wrapped-Celtic-Clover-Bracelet_-Gifts-for-Her_-Lucky-Clover-Bracelet-Sunny-Sea-Glass-Jewelry-10006270.jpg?v=1763676716
   - [6.0](https://sunnyseaglassjewelry.com/products/clover-bracelet-in-sterling-silver-st-patricks-bracelet-wire-wrapped-celtic-clover-bracelet-gifts-for-her-lucky-clover-bracelet-1?variant=42904344592465)
     Availability: Available
     Price: $34.95 USD
@@ -2522,12 +2522,12 @@
   - [8.0](https://sunnyseaglassjewelry.com/products/clover-bracelet-in-sterling-silver-st-patricks-bracelet-wire-wrapped-celtic-clover-bracelet-gifts-for-her-lucky-clover-bracelet-1?variant=42904344723537)
     Availability: Available
     Price: $34.95 USD
-- [Wave Lampwork  Necklace in .925 Sterling Silver, Ocean Wave Necklace,](https://sunnyseaglassjewelry.com/products/wave-lampwork-necklace-in-925-sterling-silver-ocean-wave-necklace-blue-beach-wave-sea-glass-necklace-nautical-sea-glass-jewelry-for-her): Stylish Handmade Lampwork Ocean Wave glass necklace in Sterling Silver. We keep the memory of timeless sea breezes, sea-wind of the night, Golden  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:14:04Z
+- [Wave Lampwork Necklace - Ocean Wave in Sterling Silver, Blue Beach Jewelry](https://sunnyseaglassjewelry.com/products/wave-lampwork-necklace-in-925-sterling-silver-ocean-wave-necklace-blue-beach-wave-sea-glass-necklace-nautical-sea-glass-jewelry-for-her): Discover the stunning Wave Lampwork Necklace featuring a hand wire-wrapped ocean wave glass bead in sterling silver, perfect nautical jewelry for her. Shop now!
+  Updated: 2025-11-20T22:11:15Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wave-Lampwork-Necklace-in-.925-Sterling-Silver_-Ocean-Wave-Necklace_-Blue-Beach-Wave-Sea-Glass-Necklace_-Nautical-Sea-Glass-Jewelry-for-Her-My-Store-10010885.jpg?v=1762485228
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wave-Lampwork-Necklace-in-.925-Sterling-Silver_-Ocean-Wave-Necklace_-Blue-Beach-Wave-Sea-Glass-Necklace_-Nautical-Sea-Glass-Jewelry-for-Her-My-Store-10010885.jpg?v=1763676674
   - [17&quot; chain / Silver Top Finish](https://sunnyseaglassjewelry.com/products/wave-lampwork-necklace-in-925-sterling-silver-ocean-wave-necklace-blue-beach-wave-sea-glass-necklace-nautical-sea-glass-jewelry-for-her?variant=42904347050065)
     Availability: Available
     Price: $39.95 USD
@@ -2546,12 +2546,12 @@
   - [19&quot; chain / Crystal Top Finish](https://sunnyseaglassjewelry.com/products/wave-lampwork-necklace-in-925-sterling-silver-ocean-wave-necklace-blue-beach-wave-sea-glass-necklace-nautical-sea-glass-jewelry-for-her?variant=42904347213905)
     Availability: Available
     Price: $39.95 USD
-- [Sea Glass Pendant in Leather & Sterling Silver Beads, Surfer Gifts for](https://sunnyseaglassjewelry.com/products/sea-glass-pendant-in-leather-sterling-silver-beads-surfer-gifts-for-men-beach-lovers-necklace-beach-glass-necklace): Limited stock. Each Sea glass is unique in nature, We drilled them in center, then finished with a 1.0 mm leather,&amp; sterling silver beads. Brown  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:14:13Z
+- [Sea Glass Pendant in Leather & Silver Beads - Beach Lovers Necklace](https://sunnyseaglassjewelry.com/products/sea-glass-pendant-in-leather-sterling-silver-beads-surfer-gifts-for-men-beach-lovers-necklace-beach-glass-necklace): Discover our unique Sea Glass Pendant, crafted with leather and sterling silver beads. Perfect surfer gifts for men and beach lovers. Limited stock!
+  Updated: 2025-11-20T22:11:54Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Pendant-in-Leather-_-Sterling-Silver-Beads_-Surfer-Gifts-for-Men_-Beach-Lovers-Necklace_-Beach-Glass-Necklace_-My-Store-10011627.jpg?v=1762485240
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Pendant-in-Leather-_-Sterling-Silver-Beads_-Surfer-Gifts-for-Men_-Beach-Lovers-Necklace_-Beach-Glass-Necklace_-My-Store-10011627.jpg?v=1763676713
   - [No.1  off white](https://sunnyseaglassjewelry.com/products/sea-glass-pendant-in-leather-sterling-silver-beads-surfer-gifts-for-men-beach-lovers-necklace-beach-glass-necklace?variant=42904347246673)
     Availability: Available
     Price: $20.95 USD
@@ -2561,12 +2561,12 @@
   - [No.3 Brown](https://sunnyseaglassjewelry.com/products/sea-glass-pendant-in-leather-sterling-silver-beads-surfer-gifts-for-men-beach-lovers-necklace-beach-glass-necklace?variant=42904347312209)
     Availability: Available
     Price: $20.95 USD
-- [Sterling Silver  Sea Glass Earrings,Sky  Sea Glass Earrings,](https://sunnyseaglassjewelry.com/products/sterling-silver-blue-sea-glass-earrings-sky-blue-sea-glass-earrings-blue-sea-glass-earrings-beach-jewelry-blue-glass-dangling-earrings): Gorgeous shade of Blue !!! This is my new collection: cultured Sea glass jewelry. The same soft finish as found in natural sea glass. These fun,  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:14:27Z
+- [Sterling Silver Blue Sea Glass Earrings - Stunning Beach Jewelry](https://sunnyseaglassjewelry.com/products/sterling-silver-blue-sea-glass-earrings-sky-blue-sea-glass-earrings-blue-sea-glass-earrings-beach-jewelry-blue-glass-dangling-earrings): Explore our beautiful Sterling Silver Blue Sea Glass Earrings. Perfect for beach lovers and jewelry enthusiasts. Shop the collection today!
+  Updated: 2025-11-20T22:11:58Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sterling-Silver-Blue-Sea-Glass-Earrings_Sky-Blue-Sea-Glass-Earrings_-Blue-Sea-Glass-Earrings_-Beach-Jewelry_-Blue-Glass-Dangling-Earrings-My-Store-10012592.jpg?v=1762485253
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sterling-Silver-Blue-Sea-Glass-Earrings_Sky-Blue-Sea-Glass-Earrings_-Blue-Sea-Glass-Earrings_-Beach-Jewelry_-Blue-Glass-Dangling-Earrings-My-Store-10012592.jpg?v=1763676717
   - [Crystal](https://sunnyseaglassjewelry.com/products/sterling-silver-blue-sea-glass-earrings-sky-blue-sea-glass-earrings-blue-sea-glass-earrings-beach-jewelry-blue-glass-dangling-earrings?variant=42904347344977)
     Availability: Available
     Price: $22.95 USD
@@ -2576,12 +2576,12 @@
   - [Silver](https://sunnyseaglassjewelry.com/products/sterling-silver-blue-sea-glass-earrings-sky-blue-sea-glass-earrings-blue-sea-glass-earrings-beach-jewelry-blue-glass-dangling-earrings?variant=42904347410513)
     Availability: Available
     Price: $22.95 USD
-- [Sailboat  STERLING SILVER Peridot Green Beach Glass Sailboat](https://sunnyseaglassjewelry.com/products/sailboat-necklace-sterling-silver-peridot-green-beach-glass-sailboat-necklace-green-sea-glassn-ecklace-nautical-sailboat-necklace): Gorgeous light green shade !! This is my cultured Sea glass jewelry. The same soft finish as found in natural sea glass. This fun, colorful sailboat  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:14:38Z
+- [Sailboat Necklace - Sterling Silver & Sea Glass Nautical Jewelry, Green](https://sunnyseaglassjewelry.com/products/sailboat-necklace-sterling-silver-peridot-green-beach-glass-sailboat-necklace-green-sea-glassn-ecklace-nautical-sailboat-necklace): Discover the perfect Sailboat Necklace, made with sterling silver and vibrant green sea glass. A beautiful nautical piece, ideal for beach lovers and jewelry collectors.
+  Updated: 2025-11-20T22:11:17Z
   Vendor: My Store
   Product Type: Sea glass Necklace
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sailboat-Necklace_-STERLING-SILVER-Peridot-Green-Beach-Glass-Sailboat-Necklace_-Green-Sea-GlassN-ecklace_-Nautical-Sailboat-Necklace-My-Store-10013173.jpg?v=1762485261
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sailboat-Necklace_-STERLING-SILVER-Peridot-Green-Beach-Glass-Sailboat-Necklace_-Green-Sea-GlassN-ecklace_-Nautical-Sailboat-Necklace-My-Store-10013173.jpg?v=1763676676
   - [17](https://sunnyseaglassjewelry.com/products/sailboat-necklace-sterling-silver-peridot-green-beach-glass-sailboat-necklace-green-sea-glassn-ecklace-nautical-sailboat-necklace?variant=42904347443281)
     Availability: Available
     Price: $38.95 USD
@@ -2594,45 +2594,45 @@
   - [20](https://sunnyseaglassjewelry.com/products/sailboat-necklace-sterling-silver-peridot-green-beach-glass-sailboat-necklace-green-sea-glassn-ecklace-nautical-sailboat-necklace?variant=42904347541585)
     Availability: Available
     Price: $41.95 USD
-- [Serling silver Abalone Tree  Life Necklace,Wire Wrapped Abalone Tree](https://sunnyseaglassjewelry.com/products/ready-ship-in-1-to-2-days-sterling-silver-abalone-tree-of-life-necklace-wire-wrapped-abalone-tree-of-life-necklace-tree-of-life-jewelry): This stunning Rainbow Abalone pendant is carefully wire wrapped with .925 sterling silver, featuring hammered and forged wire for added strength and  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:14:44Z
+- [Serling silver Abalone Tree of Life Necklace - Elegant Wire Wrapped Jewelry](https://sunnyseaglassjewelry.com/products/ready-ship-in-1-to-2-days-sterling-silver-abalone-tree-of-life-necklace-wire-wrapped-abalone-tree-of-life-necklace-tree-of-life-jewelry): Shop the Serling silver Abalone Tree of Life Necklace featuring vibrant abalone shell, sterling silver, and a meaningful Tree of Life design. Handcrafted and unique.
+  Updated: 2025-11-20T22:11:22Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire wrapped necklace
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Serling-silver-Abalone-Tree-of-Life-Necklace_Wire-Wrapped-Abalone-Tree-of-Life-Necklace_-Tree-of-Life-Jewelry-Sunny-Sea-Glass-Jewelry-10013712.jpg?v=1762485270
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Serling-silver-Abalone-Tree-of-Life-Necklace_Wire-Wrapped-Abalone-Tree-of-Life-Necklace_-Tree-of-Life-Jewelry-Sunny-Sea-Glass-Jewelry-10013712.jpg?v=1763676680
   Price: $54.95 USD
-- [Sea Glass Earrings, Wire Wrapped Light Blue Sea Glass Earrings in](https://sunnyseaglassjewelry.com/products/sea-glass-earrings-wire-wrapped-light-blue-sea-glass-earrings-in-sterling-silver-beach-glass-jewelry-sea-glass-dangling-earrings): Gorgeous Sea glass Beads in shade of Blue !!! This is cultured Sea glass jewelry. The same soft finish as found in natural sea glass. These fun,  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:16:45Z
+- [Sea Glass Earrings - Light Blue Wire Wrapped Sterling Silver Jewelry](https://sunnyseaglassjewelry.com/products/sea-glass-earrings-wire-wrapped-light-blue-sea-glass-earrings-in-sterling-silver-beach-glass-jewelry-sea-glass-dangling-earrings): Shop beautiful Sea Glass Earrings with wire wrapped Light Blue Sea Glass in sterling silver. Perfect beach jewelry, dangling style, and handcrafted quality.
+  Updated: 2025-11-20T22:12:01Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Earrings_-Wire-Wrapped-Light-Blue-Sea-Glass-Earrings-in-STERLING-SILVER_-Beach-Glass-Jewelry_-Sea-glass-Dangling-Earrings_-My-Store-10019656.jpg?v=1762485392
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Earrings_-Wire-Wrapped-Light-Blue-Sea-Glass-Earrings-in-STERLING-SILVER_-Beach-Glass-Jewelry_-Sea-glass-Dangling-Earrings_-My-Store-10019656.jpg?v=1763676720
   Price: $22.95 USD
-- [Wire Wrapped handmade Blue Sea Glass Earrgs, Blue Sea Glass Earrgs](https://sunnyseaglassjewelry.com/products/wire-wrapped-handmade-blue-sea-glass-earrings-blue-sea-glass-earrings-in-sterling-silver-beach-glass-jewelry-sea-glass-dangling-earrings): Gorgeous Sea glass Beads in shade of Blue !!! This is cultured Sea glass jewelry. The same soft finish as found in natural sea glass. These fun,  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:16:56Z
+- [Wire Wrapped Handmade Blue Sea Glass Earrings - Sterling Silver, Beach Jewelry](https://sunnyseaglassjewelry.com/products/wire-wrapped-handmade-blue-sea-glass-earrings-blue-sea-glass-earrings-in-sterling-silver-beach-glass-jewelry-sea-glass-dangling-earrings): Discover beautiful Wire Wrapped handmade Blue Sea Glass Earrings in sterling silver. Perfect beach jewelry, dangling sea glass earrings with vibrant color.
+  Updated: 2025-11-20T22:12:01Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-Wrapped-handmade-Blue-Sea-Glass-Earrings_-Blue-Sea-Glass-Earrings-in-STERLING-SILVER_-Beach-Glass-Jewelry_-Sea-glass-Dangling-Earrings_-My-Store-10020415.jpg?v=1762485403
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-Wrapped-handmade-Blue-Sea-Glass-Earrings_-Blue-Sea-Glass-Earrings-in-STERLING-SILVER_-Beach-Glass-Jewelry_-Sea-glass-Dangling-Earrings_-My-Store-10020415.jpg?v=1763676720
   Price: $22.95 USD
-- [Adjustable Sea Glass Macrame Anklets, Sea Glass Ankle Bracelet, Blue](https://sunnyseaglassjewelry.com/products/adjustable-sea-glass-macrame-anklets-sea-glass-ankle-bracelet-blue-green-ankle-bracelet-nautical-sea-glass-bracelet-sea-glass-jewelry): Pretty &amp; cute Sea Glass ankle ! A great gift for a friend who loves beaches &amp; oceans. Fun &amp; pretty summer beach anklet!. This  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:17:09Z
+- [Adjustable Sea Glass Anklets - Blue Green Nautical Ankle Bracelets](https://sunnyseaglassjewelry.com/products/adjustable-sea-glass-macrame-anklets-sea-glass-ankle-bracelet-blue-green-ankle-bracelet-nautical-sea-glass-bracelet-sea-glass-jewelry): Discover beautiful Adjustable Sea Glass Anklets featuring cultured sea glass beads and macrame design. Perfect for beach lovers and ocean enthusiasts.
+  Updated: 2025-11-20T22:11:59Z
   Vendor: My Store
   Product Type: Sea Glass Bracelet/Anklet
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Adjustable-Sea-Glass-Macrame-Anklets_-Sea-Glass-Ankle-Bracelet_-Blue-Green-Ankle-Bracelet_-Nautical-Sea-Glass-Bracelet_-Sea-Glass-Jewelry-My-Store-10021139.jpg?v=1762485415
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Adjustable-Sea-Glass-Macrame-Anklets_-Sea-Glass-Ankle-Bracelet_-Blue-Green-Ankle-Bracelet_-Nautical-Sea-Glass-Bracelet_-Sea-Glass-Jewelry-My-Store-10021139.jpg?v=1763676718
   - [blue cord](https://sunnyseaglassjewelry.com/products/adjustable-sea-glass-macrame-anklets-sea-glass-ankle-bracelet-blue-green-ankle-bracelet-nautical-sea-glass-bracelet-sea-glass-jewelry?variant=42904349933649)
     Availability: Available
     Price: $17.95 USD
   - [Lavender cord](https://sunnyseaglassjewelry.com/products/adjustable-sea-glass-macrame-anklets-sea-glass-ankle-bracelet-blue-green-ankle-bracelet-nautical-sea-glass-bracelet-sea-glass-jewelry?variant=42904349966417)
     Availability: Available
     Price: $17.95 USD
-- [Periwinkle Sea Glass Earrings in STERLING SILVER, Sea Glass](https://sunnyseaglassjewelry.com/products/periwinkle-sea-glass-earrings-in-sterling-silver-sea-glass-earrings-beach-weddings-beach-glass-jewelry-wired-sea-glass-earrings): Gorgeous Sea glass Beads in shade of Periwinkle! Bluish Lavender shades! This my new collection: recycled /cultured Sea glass jewelry. The same soft  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:18:59Z
+- [Periwinkle Sea Glass Earrings - Sterling Silver, Beach Jewelry, Beach Weddings](https://sunnyseaglassjewelry.com/products/periwinkle-sea-glass-earrings-in-sterling-silver-sea-glass-earrings-beach-weddings-beach-glass-jewelry-wired-sea-glass-earrings): Discover stunning Periwinkle Sea Glass Earrings in sterling silver, perfect for beach weddings and beach jewelry lovers. Handcrafted recycled sea glass earrings.
+  Updated: 2025-11-20T22:12:06Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Periwinkle-Sea-Glass-Earrings-in-STERLING-SILVER_-Sea-Glass-Earrings_Beach-Weddings_-Beach-Glass-Jewelry_-Wired-Sea-glass-Earrings_-Sunny-Sea-Glass-Jewelry-10025477.jpg?v=1762485474
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Periwinkle-Sea-Glass-Earrings-in-STERLING-SILVER_-Sea-Glass-Earrings_Beach-Weddings_-Beach-Glass-Jewelry_-Wired-Sea-glass-Earrings_-Sunny-Sea-Glass-Jewelry-10025477.jpg?v=1763676725
   - [Silver Bead](https://sunnyseaglassjewelry.com/products/periwinkle-sea-glass-earrings-in-sterling-silver-sea-glass-earrings-beach-weddings-beach-glass-jewelry-wired-sea-glass-earrings?variant=42904350457937)
     Availability: Available
     Price: $22.95 USD
@@ -2642,31 +2642,31 @@
   - [pearl](https://sunnyseaglassjewelry.com/products/periwinkle-sea-glass-earrings-in-sterling-silver-sea-glass-earrings-beach-weddings-beach-glass-jewelry-wired-sea-glass-earrings?variant=42904350523473)
     Availability: Available
     Price: $22.95 USD
-- [Blue Sea Glass Earrings in Sterling Silver, Cobalt Blue Sea Glass](https://sunnyseaglassjewelry.com/products/blue-sea-glass-earrings-in-sterling-silver-cobalt-blue-sea-glass-dangling-earrings-beach-wedding-jewelry-coastal-ocean-inspired-jewelry): Gorgeous Sea glass Beads in shade of Cobalt Blue !!! This my new collection: recycled /cultured Sea glass jewelry. The same soft finish as found in  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:19:17Z
+- [Blue Sea Glass Earrings - Sterling Silver, Beach Wedding Jewelry](https://sunnyseaglassjewelry.com/products/blue-sea-glass-earrings-in-sterling-silver-cobalt-blue-sea-glass-dangling-earrings-beach-wedding-jewelry-coastal-ocean-inspired-jewelry): Shop gorgeous Blue Sea Glass Earrings crafted with sterling silver. Perfect as beach wedding jewelry and summer accessories, embodying coastal ocean style.
+  Updated: 2025-11-20T22:12:09Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Sea-Glass-Earrings-in-Sterling-Silver_-Cobalt-Blue-Sea-Glass-Dangling-Earrings_-Beach-Wedding-Jewelry_-Coastal-Ocean-Inspired-Jewelry-My-Store-10027067.jpg?v=1762485551
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Sea-Glass-Earrings-in-Sterling-Silver_-Cobalt-Blue-Sea-Glass-Dangling-Earrings_-Beach-Wedding-Jewelry_-Coastal-Ocean-Inspired-Jewelry-My-Store-10027067.jpg?v=1763676728
   Price: $24.96 USD
-- [Cobalt Blue Beach Glass Earrings in STERLING SILVER, Blue Sea Glass](https://sunnyseaglassjewelry.com/products/cobalt-blue-beach-glass-earrings-in-sterling-silver-blue-sea-glass-earrings-beach-weddings-beach-glass-jewelry-cobalt-sea-glass-earrings): Gorgeous Sea glass Beads in shade of Cobalt Blue !!! This my new collection: recycled /cultured Sea glass jewelry. The same soft finish as found in  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:19:35Z
+- [Cobalt Blue Beach Glass Earrings - Sterling Silver, Sea Glass Jewelry](https://sunnyseaglassjewelry.com/products/cobalt-blue-beach-glass-earrings-in-sterling-silver-blue-sea-glass-earrings-beach-weddings-beach-glass-jewelry-cobalt-sea-glass-earrings): Shop Cobalt Blue Beach Glass Earrings with sterling silver and recycled sea glass beads. Perfect for beach weddings and sea glass jewelry lovers.
+  Updated: 2025-11-20T22:12:04Z
   Vendor: My Store
   Product Type: Sea Glass Earrings
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Cobalt-Blue-Beach-Glass-Earrings-in-STERLING-SILVER_-Blue-Sea-Glass-Earrings_Beach-Weddings_-Beach-Glass-Jewelry_-Cobalt-Sea-glass-Earrings_-My-Store-10027596.jpg?v=1762485560
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Cobalt-Blue-Beach-Glass-Earrings-in-STERLING-SILVER_-Blue-Sea-Glass-Earrings_Beach-Weddings_-Beach-Glass-Jewelry_-Cobalt-Sea-glass-Earrings_-My-Store-10027596.jpg?v=1763676723
   - [Silver Bead](https://sunnyseaglassjewelry.com/products/cobalt-blue-beach-glass-earrings-in-sterling-silver-blue-sea-glass-earrings-beach-weddings-beach-glass-jewelry-cobalt-sea-glass-earrings?variant=42904351637585)
     Availability: Available
     Price: $22.95 USD
   - [Crystal](https://sunnyseaglassjewelry.com/products/cobalt-blue-beach-glass-earrings-in-sterling-silver-blue-sea-glass-earrings-beach-weddings-beach-glass-jewelry-cobalt-sea-glass-earrings?variant=42904351670353)
     Availability: Available
     Price: $22.95 USD
-- [Wire Wrapped Rainbow  Necklace in Antiqued Copper WHOLE PIECE,](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace): This large whole Abalone shell pendant is artfully wire wrapped in a Tree of Life design using genuine antiqued copper wire. The hammered and forged  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:19:40Z
+- [Wire Wrapped Rainbow Abalone Necklace - Handcrafted Copper Pendant](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace): Discover the stunning Wire Wrapped Rainbow Abalone Necklace featuring a vibrant iridescent shell pendant on an antiqued copper chain, symbolizing life, wisdom, and protection.
+  Updated: 2025-11-20T22:12:02Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-Wrapped-Rainbow-Abalone-Necklace-in-Antiqued-Copper-WHOLE-PIECE_-Abalone-Shell-Pendant_-Abalone-Shell-Tree-of-Life-Copper-Necklace_-My-Store-10028132.jpg?v=1762485566
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-Wrapped-Rainbow-Abalone-Necklace-in-Antiqued-Copper-WHOLE-PIECE_-Abalone-Shell-Pendant_-Abalone-Shell-Tree-of-Life-Copper-Necklace_-My-Store-10028132.jpg?v=1763676721
   - [18 / Antiqued Copper](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904351703121)
     Availability: Available
     Price: $49.95 USD
@@ -2715,12 +2715,12 @@
   - [24 / Tan D.Lace](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904352194641)
     Availability: Available
     Price: $54.95 USD
-- [Chandelier Amazonite Earring for Wedding Formal Jewelry Boho Style](https://sunnyseaglassjewelry.com/products/chandelier-amazonite-earring-for-wedding-formal-jewelry-boho-style-statement-piece-wire-wrapped-dangle-beach-set): These elegant sterling silver chandelier earrings showcase a beautiful waterfall design, ideal for boho beach weddings or formal occasions.  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:20:23Z
+- [Chandelier Amazonite Earring - Elegant Boho Beach Wedding Jewelry](https://sunnyseaglassjewelry.com/products/chandelier-amazonite-earring-for-wedding-formal-jewelry-boho-style-statement-piece-wire-wrapped-dangle-beach-set): Shop the stunning Chandelier Amazonite Earring, perfect for wedding and formal occasions. Handcrafted with sterling silver, Amazonite stones, and Swarovski crystals.
+  Updated: 2025-11-20T22:12:05Z
   Vendor: My Store
   Product Type: Wire Wrapped Earrings
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Chandelier-Amazonite-Earring-for-Wedding-Formal-Jewelry-Boho-Style-Statement-Piece-Wire-Wrapped-Dangle-Beach-Set_-My-Store-10032059.jpg?v=1762485607
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Chandelier-Amazonite-Earring-for-Wedding-Formal-Jewelry-Boho-Style-Statement-Piece-Wire-Wrapped-Dangle-Beach-Set_-My-Store-10032059.jpg?v=1763676724
   Price: $34.95 USD
 - [Turquoise Dangling Earrings in Sterling Silver, Chandelier Earrings](https://sunnyseaglassjewelry.com/products/turquoise-dangling-earrings-in-sterling-silver-chandelier-earrings-with-howlite-turquoise-turquoise-earrings-statement-earrings): These weight, handcrafted turquoise dangle earrings showcase the natural allure of 4 mm howlite turquoise stones, elegantly arranged to catch the  - Sunny Sea Glass Jewelry
   Updated: 2025-11-07T03:20:41Z
@@ -3234,12 +3234,12 @@
   - [22 inch / tan leather](https://sunnyseaglassjewelry.com/products/june-birthstone-pendant-necklace-rainbow-moonstone-necklace-wire-wrapped-moonstone-jewelry-antiqued-copper-blue-flashmoonstone-jewelry?variant=42904363368529)
     Availability: Available
     Price: $49.45 USD
-- [Tiger Eye  Wire Wrapped Cat Eye Aurora Tiger Eye Dangle](https://sunnyseaglassjewelry.com/products/tiger-eye-earrings-wire-wrapped-cat-eye-aurora-tiger-eye-dangle-earrings-gemstone-earrings-orange-fire-agate-gemstone-earrings): These fabulous earrings are hand wrapped with 10 mm Cat Eye Aurora Tiger Eye Beads using a warm copper wires in herringbone weave style. * Since these  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:28:20Z
+- [Tiger Eye Earrings | Handcrafted Wire Wrapped Cat Eye Aurora Beads](https://sunnyseaglassjewelry.com/products/tiger-eye-earrings-wire-wrapped-cat-eye-aurora-tiger-eye-dangle-earrings-gemstone-earrings-orange-fire-agate-gemstone-earrings): Discover stunning Tiger Eye Earrings featuring 10mm aurora cat eye beads, copper wire-wrapped in a stylish herringbone weave, perfect for any occasion.
+  Updated: 2025-11-20T22:12:11Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Tiger-Eye-Earrings_-Wire-Wrapped-Cat-Eye-Aurora-Tiger-Eye-Dangle-Earrings_-Gemstone-Earrings_-Orange-Fire-Agate-Gemstone-Earrings_-My-Store-10056176.jpg?v=1762486078
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Tiger-Eye-Earrings_-Wire-Wrapped-Cat-Eye-Aurora-Tiger-Eye-Dangle-Earrings_-Gemstone-Earrings_-Orange-Fire-Agate-Gemstone-Earrings_-My-Store-10056176.jpg?v=1763676730
   - [#1 pinkish color](https://sunnyseaglassjewelry.com/products/tiger-eye-earrings-wire-wrapped-cat-eye-aurora-tiger-eye-dangle-earrings-gemstone-earrings-orange-fire-agate-gemstone-earrings?variant=42904362025041)
     Availability: Available
     Price: $21.95 USD
@@ -3249,12 +3249,12 @@
   - [#3 greenish color](https://sunnyseaglassjewelry.com/products/tiger-eye-earrings-wire-wrapped-cat-eye-aurora-tiger-eye-dangle-earrings-gemstone-earrings-orange-fire-agate-gemstone-earrings?variant=42904362090577)
     Availability: Available
     Price: $21.95 USD
-- [Wire Wrapped Rose  Pendant,Rose  Copper Necklace,Pink Rose](https://sunnyseaglassjewelry.com/products/wire-wrapped-rose-quartz-pendant-rose-quartz-copper-necklace-pink-rose-quartz-jewelry-healing-gemstone-grandmas-gift-rose-quartz-heart-1): This listing is for the beautiful wire wrapped Pink Rose Quartz Pendant Necklace. This beautiful Pink rose quartz is wire wrapped in copper wires. The  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:28:21Z
+- [Wire Wrapped Rose Quartz Pendant - Beautiful Pink Rose Quartz Jewelry](https://sunnyseaglassjewelry.com/products/wire-wrapped-rose-quartz-pendant-rose-quartz-copper-necklace-pink-rose-quartz-jewelry-healing-gemstone-grandmas-gift-rose-quartz-heart-1): Discover the Wire Wrapped Rose Quartz Pendant, a stunning pink gemstone necklace. Perfect gift for grandmothers, offering love and healing energies.
+  Updated: 2025-11-20T22:12:09Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-Wrapped-Rose-Quartz-Pendant_Rose-Quartz-Copper-Necklace_Pink-Rose-Quartz-Jewelry_-Healing-Gemstone-_Grandmas-Gift_-Rose-Quartz-Heart-My-Store-10056859.jpg?v=1762486092
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-Wrapped-Rose-Quartz-Pendant_Rose-Quartz-Copper-Necklace_Pink-Rose-Quartz-Jewelry_-Healing-Gemstone-_Grandmas-Gift_-Rose-Quartz-Heart-My-Store-10056859.jpg?v=1763676728
   - [Antiqued Copper / 18](https://sunnyseaglassjewelry.com/products/wire-wrapped-rose-quartz-pendant-rose-quartz-copper-necklace-pink-rose-quartz-jewelry-healing-gemstone-grandmas-gift-rose-quartz-heart-1?variant=42904363401297)
     Availability: Available
     Price: $44.95 USD
@@ -3303,12 +3303,12 @@
   - [Black / 24](https://sunnyseaglassjewelry.com/products/wire-wrapped-rose-quartz-pendant-rose-quartz-copper-necklace-pink-rose-quartz-jewelry-healing-gemstone-grandmas-gift-rose-quartz-heart-1?variant=42904363892817)
     Availability: Available
     Price: $49.95 USD
-- [Wire Wrapped Antiqued Copper Bracelet,Adjustable Peridot Bangle/Cuff](https://sunnyseaglassjewelry.com/products/wire-wrapped-antiqued-copper-bracelet-adjustable-bracelet-peridot-bangle-cuff-leaf-wrap-bracelet-august-birthstone-bracelet): Made to order, this stunning bracelet is handcrafted by wire wrapping semi-transparent green Peridot gemstones with genuine copper wires of varying  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:28:33Z
+- [Wire Wrapped Copper Bracelet - Adjustable Peridot Leaf Cuff | Handcrafted](https://sunnyseaglassjewelry.com/products/wire-wrapped-antiqued-copper-bracelet-adjustable-bracelet-peridot-bangle-cuff-leaf-wrap-bracelet-august-birthstone-bracelet): Discover our Wire Wrapped Copper Bracelet featuring adjustable Peridot gemstones, handcrafted for elegance. Perfect for promoting healing and prosperity.
+  Updated: 2025-11-20T22:12:07Z
   Vendor: My Store
   Product Type: Wire Wrapped Bracelet/Anklet
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-Wrapped-Antiqued-Copper-Bracelet_Adjustable-Peridot-Bangle-Cuff-Leaf-bracelet-My-Store-10057785.jpg?v=1762486103
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-Wrapped-Antiqued-Copper-Bracelet_Adjustable-Peridot-Bangle-Cuff-Leaf-bracelet-My-Store-10057785.jpg?v=1763676726
   - [5.5](https://sunnyseaglassjewelry.com/products/wire-wrapped-antiqued-copper-bracelet-adjustable-bracelet-peridot-bangle-cuff-leaf-wrap-bracelet-august-birthstone-bracelet?variant=42904362647633)
     Availability: Available
     Price: $35.25 USD
@@ -3334,24 +3334,24 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Wire-Wrapped-Antiqued-Copper-Bracelet_Adjustable-Peridot-Bangle-Cuff-Leaf-bracelet-My-Store-10057843.jpg?v=1762486104
     Price: $35.25 USD
-- [Turquoise Blue Beach Glass Jewelry, Blue Sea Glass  Necklace and](https://sunnyseaglassjewelry.com/products/turquoise-blue-beach-glass-jewelry-blue-sea-glass-necklace-and-earrings-in-sterling-silver-sea-glass-necklace-sea-glass-jewelry-set): Gorgeous Sea Burst Beads ~  shade of gorgeous Turquoise Blue! This is my new collection: cultured Sea glass jewelry. The same soft fish as found  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:28:45Z
+- [Turquoise Blue Beach Glass Jewelry - Stylish Sterling Silver Necklace & Earrings](https://sunnyseaglassjewelry.com/products/turquoise-blue-beach-glass-jewelry-blue-sea-glass-necklace-and-earrings-in-sterling-silver-sea-glass-necklace-sea-glass-jewelry-set): Discover stunning Turquoise Blue Beach Glass Jewelry, including necklaces and earrings in sterling silver with cultured sea glass and crystal accents, perfect for any occasion.
+  Updated: 2025-11-20T22:12:15Z
   Vendor: My Store
   Product Type: Sea Glass Earrings
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Turquoise-Blue-Beach-Glass-Jewelry_-Blue-Sea-Glass-Necklace-and-Earrings-in-Sterling-Silver_-Sea-Glass-Necklace_-Sea-Glass-Jewelry-SET_-My-Store-10058272.jpg?v=1762486108
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Turquoise-Blue-Beach-Glass-Jewelry_-Blue-Sea-Glass-Necklace-and-Earrings-in-Sterling-Silver_-Sea-Glass-Necklace_-Sea-Glass-Jewelry-SET_-My-Store-10058272.jpg?v=1763676734
   - [Necklace ONLY](https://sunnyseaglassjewelry.com/products/turquoise-blue-beach-glass-jewelry-blue-sea-glass-necklace-and-earrings-in-sterling-silver-sea-glass-necklace-sea-glass-jewelry-set?variant=42904363991121)
     Availability: Available
     Price: $38.95 USD
   - [Earrings ONLY](https://sunnyseaglassjewelry.com/products/turquoise-blue-beach-glass-jewelry-blue-sea-glass-necklace-and-earrings-in-sterling-silver-sea-glass-necklace-sea-glass-jewelry-set?variant=42904364023889)
     Availability: Available
     Price: $22.95 USD
-- [Starfish Pearl Charm Necklace, Beach Theme Crystal Pearl Necklace,](https://sunnyseaglassjewelry.com/products/starfish-pearl-charm-necklace-beach-theme-crystal-pearl-necklace-earrings-starfish-beach-theme-bridal-bridesmaid-necklace-and-earrings): Ideal for a beach-themed bridal or bridesmaid look, this elegant necklace and earring set combines simplicity with charm. Featuring lustrous 4 and 6mm  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:28:50Z
+- [Starfish Pearl Charm Necklace - Beach Theme Crystal Pearl Jewelry for Weddings](https://sunnyseaglassjewelry.com/products/starfish-pearl-charm-necklace-beach-theme-crystal-pearl-necklace-earrings-starfish-beach-theme-bridal-bridesmaid-necklace-and-earrings): Shop the beautiful Starfish Pearl Charm Necklace, perfect for beach-themed bridal or bridesmaid looks. Elegant necklace and earrings set with Swarovski pearls and sterling silver.
+  Updated: 2025-11-20T22:12:13Z
   Vendor: My Store
   Product Type: Wire wrapped necklace
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Starfish-Pearl-Charm-Necklace_-Beach-Theme-Crystal-Pearl-Necklace_-Earrings_-Starfish-Beach-Theme-Bridal-Bridesmaid-Necklace-and-Earrings-My-Store-10059462.jpg?v=1762486120
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Starfish-Pearl-Charm-Necklace_-Beach-Theme-Crystal-Pearl-Necklace_-Earrings_-Starfish-Beach-Theme-Bridal-Bridesmaid-Necklace-and-Earrings-My-Store-10059462.jpg?v=1763676732
   - [Necklace ONLY](https://sunnyseaglassjewelry.com/products/starfish-pearl-charm-necklace-beach-theme-crystal-pearl-necklace-earrings-starfish-beach-theme-bridal-bridesmaid-necklace-and-earrings?variant=42904363925585)
     Availability: Available
     Price: $64.95 USD
@@ -4003,7 +4003,7 @@
     Availability: Available
     Price: $39.95 USD
 - [White Sea Glass Sailboat Earrings in Sterling Silver, Ocean-Inspired](https://sunnyseaglassjewelry.com/products/white-sea-glass-sailboat-earrings-in-sterling-silver-ocean-inspired-beach-glass-sailboat-necklace-and-earring-set-nautical-beach-jewelry): Experience the beauty of the ocean with this stunning White Sea Glass Sailboat Necklace and Earring Set. Each piece features cultured frosted clear  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-15T22:48:27Z
+  Updated: 2025-11-20T22:10:32Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -4077,12 +4077,12 @@
   - [20 / No.2](https://sunnyseaglassjewelry.com/products/sterling-silver-wired-christmas-tree-necklace-sea-glass-christmas-tree-necklace-holiday-jewelry-holiday-gifts-for-her-coastal-holiday?variant=42904377655377)
     Availability: Available
     Price: $42.85 USD
-- [Blue Opalite Full Moon Tree of Life Pendant in Antiqued copper - Wire](https://sunnyseaglassjewelry.com/products/blue-opalite-full-moon-tree-of-life-pendant-in-antiqued-copper-wire-wrapped-full-moon-tree-of-life-pendant-necklace-opalite-moon-tree): Mystical Night Moonstone Tree of Life Pendant Necklace! This unique pendant is made with Blue Opalite Moonstone using genuine copper wires in various  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:46:15Z
+- [Blue Opalite Full Moon Tree of Life Pendant in Copper - Handcrafted Necklace](https://sunnyseaglassjewelry.com/products/blue-opalite-full-moon-tree-of-life-pendant-in-antiqued-copper-wire-wrapped-full-moon-tree-of-life-pendant-necklace-opalite-moon-tree): Discover the Blue Opalite Full Moon pendant, a mystical handmade Tree of Life necklace with genuine copper wires and a stunning moonstone centerpiece, perfect for spiritual expression.
+  Updated: 2025-11-20T22:12:11Z
   Vendor: My Store
   Product Type: Wire wrapped necklace
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Opalite-Full-Moon-Tree-of-Life-Pendant-in-Antiqued-copper-Wire-Wrapped-Full-Moon-Tree-of-Life-Pendant-Necklace_-Opalite-Moon-Tree-My-Store-10096848.jpg?v=1762487155
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Opalite-Full-Moon-Tree-of-Life-Pendant-in-Antiqued-copper-Wire-Wrapped-Full-Moon-Tree-of-Life-Pendant-Necklace_-Opalite-Moon-Tree-My-Store-10096848.jpg?v=1763676730
   - [Antiqued Copper / 18 inches](https://sunnyseaglassjewelry.com/products/blue-opalite-full-moon-tree-of-life-pendant-in-antiqued-copper-wire-wrapped-full-moon-tree-of-life-pendant-necklace-opalite-moon-tree?variant=42904377819217)
     Availability: Available
     Price: $39.95 USD
@@ -4092,12 +4092,12 @@
   - [Antiqued Copper / 22 inches](https://sunnyseaglassjewelry.com/products/blue-opalite-full-moon-tree-of-life-pendant-in-antiqued-copper-wire-wrapped-full-moon-tree-of-life-pendant-necklace-opalite-moon-tree?variant=42904377884753)
     Availability: Available
     Price: $39.95 USD
-- [Necklace in Copper, tree of Life Necklace,Wire Wrapped](https://sunnyseaglassjewelry.com/products/garnet-necklace-in-copper-garnet-tree-of-life-necklace-wire-wrapped-garnet-tree-of-life-january-birthstone-tree-of-life-jewelry-red-garnet): This listing is for the Garnet tree of life in Antiqued copper wires. This unique wire wrapped Tree of Life is made with deep red Garnet gemstone  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:46:37Z
+- [Garnet Necklace – Handcrafted Copper Tree of Life Pendant, January Birthstone](https://sunnyseaglassjewelry.com/products/garnet-necklace-in-copper-garnet-tree-of-life-necklace-wire-wrapped-garnet-tree-of-life-january-birthstone-tree-of-life-jewelry-red-garnet): Explore our Garnet Necklace, a unique wire-wrapped Tree of Life jewelry featuring deep red garnet gemstones, perfect for January birthdays. Handcrafted and detailed.
+  Updated: 2025-11-20T22:12:17Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Garnet-Necklace-in-Copper_Garnet-tree-of-Life-Necklace_Wire-Wrapped-Garnet-Tree-of-Life_January-Birthstone-Tree-of-Life-Jewelry_-Red-Garnet-My-Store-10097881.jpg?v=1762487178
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Garnet-Necklace-in-Copper_Garnet-tree-of-Life-Necklace_Wire-Wrapped-Garnet-Tree-of-Life_January-Birthstone-Tree-of-Life-Jewelry_-Red-Garnet-My-Store-10097881.jpg?v=1763676736
   - [Antiqued Copper / 17](https://sunnyseaglassjewelry.com/products/garnet-necklace-in-copper-garnet-tree-of-life-necklace-wire-wrapped-garnet-tree-of-life-january-birthstone-tree-of-life-jewelry-red-garnet?variant=42904378900561)
     Availability: Available
     Price: $45.95 USD
@@ -4146,12 +4146,12 @@
   - [Saddle Tan / 22](https://sunnyseaglassjewelry.com/products/garnet-necklace-in-copper-garnet-tree-of-life-necklace-wire-wrapped-garnet-tree-of-life-january-birthstone-tree-of-life-jewelry-red-garnet?variant=42904379392081)
     Availability: Available
     Price: $45.95 USD
-- [Sterling Silver Tree  Life Pendant Aquamarine/Peridot Gemstone Tree](https://sunnyseaglassjewelry.com/products/sterling-silver-tree-of-life-pendant-aquamarine-peridot-gemstone-tree-of-life-pendant-necklace-march-birthstone-march-birthday-gift-for-her): We hmade this unique &amp; gorgeous wire wrapped Tree of Life pendant for March Birthstone necklace. The pendant is made with light blue Aquamarine  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:46:48Z
+- [Sterling Silver Tree of Life Pendant - Aquamarine & Peridot, Handmade Jewelry](https://sunnyseaglassjewelry.com/products/sterling-silver-tree-of-life-pendant-aquamarine-peridot-gemstone-tree-of-life-pendant-necklace-march-birthstone-march-birthday-gift-for-her): Buy the Sterling Silver Tree of Life Pendant, featuring Aquamarine and Peridot gemstones. A unique, handcrafted necklace perfect as a March birthday gift!
+  Updated: 2025-11-20T22:12:20Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire wrapped necklace
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sterling-Silver-Tree-of-Life-Pendant-Aquamarine-Peridot-Gemstone-Tree-of-Life-Pendant-Sunny-Sea-Glass-Jewelry-10098783.jpg?v=1762487198
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sterling-Silver-Tree-of-Life-Pendant-Aquamarine-Peridot-Gemstone-Tree-of-Life-Pendant-Sunny-Sea-Glass-Jewelry-10098783.jpg?v=1763676739
   - [17 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-tree-of-life-pendant-aquamarine-peridot-gemstone-tree-of-life-pendant-necklace-march-birthstone-march-birthday-gift-for-her?variant=42904378212433)
     Availability: Available
     Price: $58.25 USD
@@ -4161,12 +4161,12 @@
   - [20 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-tree-of-life-pendant-aquamarine-peridot-gemstone-tree-of-life-pendant-necklace-march-birthstone-march-birthday-gift-for-her?variant=42904378277969)
     Availability: Available
     Price: $58.25 USD
-- [Mother's Day Gift, Ready Ship in ship in 1 to 2 days,Amethyst/Peridot](https://sunnyseaglassjewelry.com/products/mothers-day-gift-ready-ship-in-ship-in-1-to-2-days-amethyst-peridot-tree-of-life-february-peridot-family-birthstone-tree-of-life-pendant): This listing is for the Amethyst/Peridot Tree of Life Pendant Necklace with Chain We handmade this pretty wire wrapped Tree of Life pendant necklace.  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:48:08Z
+- [Mother's Day Gift - Amethyst Peridot Tree of Life Pendant Necklace](https://sunnyseaglassjewelry.com/products/mothers-day-gift-ready-ship-in-ship-in-1-to-2-days-amethyst-peridot-tree-of-life-february-peridot-family-birthstone-tree-of-life-pendant): Discover the perfect Mother's Day Gift with this handmade Amethyst Peridot Tree of Life pendant necklace, symbolizing love, wisdom, and protection. Ready to ship in 1-2 days!
+  Updated: 2025-11-20T22:12:14Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire wrapped necklace
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Mother_s-Day-Gift_-Ready-Ship-in-ship-in-1-to-2-days_Amethyst-Peridot-Tree-of-Life_-February-Peridot-Family-Birthstone-Tree-of-life-Pendant-Sunny-Sea-Glass-Jewelry-10099259.jpg?v=1762487209
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Mother_s-Day-Gift_-Ready-Ship-in-ship-in-1-to-2-days_Amethyst-Peridot-Tree-of-Life_-February-Peridot-Family-Birthstone-Tree-of-life-Pendant-Sunny-Sea-Glass-Jewelry-10099259.jpg?v=1763676733
   - [17 inch / Sterling silver](https://sunnyseaglassjewelry.com/products/mothers-day-gift-ready-ship-in-ship-in-1-to-2-days-amethyst-peridot-tree-of-life-february-peridot-family-birthstone-tree-of-life-pendant?variant=42904379523153)
     Availability: Available
     Price: $57.95 USD
@@ -4182,12 +4182,12 @@
   - [24 inch / Sterling silver](https://sunnyseaglassjewelry.com/products/mothers-day-gift-ready-ship-in-ship-in-1-to-2-days-amethyst-peridot-tree-of-life-february-peridot-family-birthstone-tree-of-life-pendant?variant=42904379654225)
     Availability: Available
     Price: $57.95 USD
-- [Beach Necklace, Ocean  Necklace in Sterling silver, Blue Ocean](https://sunnyseaglassjewelry.com/products/beach-necklace-ocean-wave-necklace-in-sterling-silver-blue-ocean-wave-lampwork-glass-necklace-blue-ocean-wave-glass-necklace): Gorgeous Handmade Artisan Lampwork Ocean Wave glass necklace in Leather!! We keep the memory of timeless sea breezes, sea-wind of the night, Golden  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:48:27Z
+- [Beach Necklace - Ocean Wave Sterling Silver and Glass Pendant](https://sunnyseaglassjewelry.com/products/beach-necklace-ocean-wave-necklace-in-sterling-silver-blue-ocean-wave-lampwork-glass-necklace-blue-ocean-wave-glass-necklace): Shop this beautiful Beach Necklace featuring an Ocean Wave Lampwork Glass pendant in sterling silver, capturing the essence of the sea with a stunning design.
+  Updated: 2025-11-20T22:12:22Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Sea glass Necklace
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Beach-Necklace_-Ocean-Wave-Necklace-in-Sterling-silver_-Blue-Ocean-Wave-Lampwork-Glass-Necklace_-Blue-Ocean-Wave-Glass-Necklace_-Sunny-Sea-Glass-Jewelry-10099829.jpg?v=1762487293
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Beach-Necklace_-Ocean-Wave-Necklace-in-Sterling-silver_-Blue-Ocean-Wave-Lampwork-Glass-Necklace_-Blue-Ocean-Wave-Glass-Necklace_-Sunny-Sea-Glass-Jewelry-10099829.jpg?v=1763676741
   - [17 inch](https://sunnyseaglassjewelry.com/products/beach-necklace-ocean-wave-necklace-in-sterling-silver-blue-ocean-wave-lampwork-glass-necklace-blue-ocean-wave-glass-necklace?variant=42904379424849)
     Availability: Available
     Price: $42.95 USD
@@ -4231,7 +4231,7 @@
     Availability: Available
     Price: $79.95 USD
 - [Sailboat Sea  Necklace, Periwinkle Sea , Beach Wedding, Sea](https://sunnyseaglassjewelry.com/products/sailboat-sea-glass-necklace-periwinkle-sea-glass-pendant-beach-wedding-beach-glass-necklace-in-sterling-silver-sea-glass-jewelry): Gorgeous shade of Periwinkle !!! This is my cultured Sea glass Sailboat Necklace. The same soft finish as found in natural sea glass. These fun,  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-15T22:48:29Z
+  Updated: 2025-11-20T13:14:06Z
   Vendor: My Store
   Product Type: Sea glass Necklace
   Availability: Available
@@ -4486,7 +4486,7 @@
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Opal-jewelry_-STERLING-SILVER-White-Opal-Tree-of-Life-Necklace_-October-Birthstone-Sunny-Sea-Glass-Jewelry-10109847.jpg?v=1762487657
   Price: $79.95 USD
 - [White Sea Glass Sailboat Earrings in Sterling Silver, Ocean-Inspired](https://sunnyseaglassjewelry.com/products/white-sea-glass-sailboat-earrings-in-sterling-silver-ocean-inspired-beach-glass-sailboat-necklace-and-earring-set): Experience the elegance of cultured Frosted Clear White  glass in this exquisite Sailboat Necklace and Earring set. Each piece features freeform  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-16T10:40:58Z
+  Updated: 2025-11-20T22:10:32Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Holiday Sea Glass Necklace
   Availability: Available
