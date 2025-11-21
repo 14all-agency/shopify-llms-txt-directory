@@ -176,7 +176,7 @@ firmer compression sculptwear
 - Timezone: Europe/Dublin
 - Created At: 2023-06-26T10:59:59Z
 - Contact Email: help@sugar-spicy.com
-- Updated At: 2025-11-21T16:00:25.988Z
+- Updated At: 2025-11-21T20:00:27.058Z
 
 BUSINESS INFORMATION — SUGAR + SPICY
 =========================================================
@@ -2103,56 +2103,111 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Availability: Not Available
     Price: $78.00 USD
 - [Indulge yourself with the Sugar + Spicy Seamless Covered Bust Bodysuit](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit): The internet's favourite sculpting bodysuit it's now updated for an even better fit. Feature Lightweight NILIT® nylon fabric, comfy and breathable alone with a perfect shaping effect to supportive underbust design for relaxing support. It has a Snap closure design on the crotch, making it convenient for your lavatory visits.
-  Updated: 2025-11-16T05:46:38Z
+  Updated: 2025-11-21T17:15:21Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-09-10T172144.640.png?v=1694364522
   - [Black / XS-S](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=45798171443512)
     Availability: Available
-    Price: $68.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1184481370_900x_8929c2de-da0c-4c11-b6fc-42b58e79fe03.jpg?v=1763744416
+    Price: $82.00 USD
   - [Black / M-L](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=45798171541816)
     Availability: Available
-    Price: $68.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1184481370_900x_8929c2de-da0c-4c11-b6fc-42b58e79fe03.jpg?v=1763744416
+    Price: $82.00 USD
   - [Black / XL-XXL](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=45798171640120)
     Availability: Available
-    Price: $68.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1184481370_900x_8929c2de-da0c-4c11-b6fc-42b58e79fe03.jpg?v=1763744416
+    Price: $82.00 USD
   - [Black / 3XL-4XL](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=45798171738424)
     Availability: Available
-    Price: $68.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1184481370_900x_8929c2de-da0c-4c11-b6fc-42b58e79fe03.jpg?v=1763744416
+    Price: $82.00 USD
   - [Black / 5XL](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=45798171836728)
     Availability: Available
-    Price: $68.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1184481370_900x_8929c2de-da0c-4c11-b6fc-42b58e79fe03.jpg?v=1763744416
+    Price: $82.00 USD
   - [Sienna / XS-S](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=45798171410744)
     Availability: Available
-    Price: $68.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1184481376_900x_2e49d78c-21c7-443a-b364-f6de1835e66e.jpg?v=1763744416
+    Price: $82.00 USD
   - [Sienna / M-L](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=45798171509048)
     Availability: Available
-    Price: $68.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1184481376_900x_2e49d78c-21c7-443a-b364-f6de1835e66e.jpg?v=1763744416
+    Price: $82.00 USD
   - [Sienna / XL-XXL](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=45798171607352)
     Availability: Available
-    Price: $68.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1184481376_900x_2e49d78c-21c7-443a-b364-f6de1835e66e.jpg?v=1763744416
+    Price: $82.00 USD
   - [Sienna / 3XL-4XL](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=45798171705656)
     Availability: Available
-    Price: $68.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1184481376_900x_2e49d78c-21c7-443a-b364-f6de1835e66e.jpg?v=1763744416
+    Price: $82.00 USD
   - [Sienna / 5XL](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=45798171803960)
     Availability: Available
-    Price: $68.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1184481376_900x_2e49d78c-21c7-443a-b364-f6de1835e66e.jpg?v=1763744416
+    Price: $82.00 USD
   - [Navajowhite / XS-S](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=45798171476280)
     Availability: Available
-    Price: $68.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1191434714_900x_938a58f9-2e5d-41e4-8fa0-a30dba895adf.jpg?v=1763744416
+    Price: $82.00 USD
   - [Navajowhite / M-L](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=45798171574584)
     Availability: Available
-    Price: $68.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1191434714_900x_938a58f9-2e5d-41e4-8fa0-a30dba895adf.jpg?v=1763744416
+    Price: $82.00 USD
   - [Navajowhite / XL-XXL](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=45798171672888)
     Availability: Available
-    Price: $68.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1191434714_900x_938a58f9-2e5d-41e4-8fa0-a30dba895adf.jpg?v=1763744416
+    Price: $82.00 USD
   - [Navajowhite / 3XL-4XL](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=45798171771192)
     Availability: Available
-    Price: $68.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1191434714_900x_938a58f9-2e5d-41e4-8fa0-a30dba895adf.jpg?v=1763744416
+    Price: $82.00 USD
   - [Navajowhite / 5XL](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=45798171869496)
     Availability: Available
-    Price: $68.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1191434714_900x_938a58f9-2e5d-41e4-8fa0-a30dba895adf.jpg?v=1763744416
+    Price: $82.00 USD
+  - [Red / XS-S](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=51383468720440)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1184481372_862x_d5c801f1-58d3-4f15-ba0f-ef688fdf8045.jpg?v=1763744416
+    Price: $82.00 USD
+  - [Red / M-L](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=51383468753208)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1184481372_862x_d5c801f1-58d3-4f15-ba0f-ef688fdf8045.jpg?v=1763744416
+    Price: $82.00 USD
+  - [Red / XL-XXL](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=51383468785976)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1184481372_862x_d5c801f1-58d3-4f15-ba0f-ef688fdf8045.jpg?v=1763744416
+    Price: $82.00 USD
+  - [Red / 3XL-4XL](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=51383468818744)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1184481372_862x_d5c801f1-58d3-4f15-ba0f-ef688fdf8045.jpg?v=1763744416
+    Price: $82.00 USD
+  - [Red / 5XL](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=51383468851512)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1184481372_862x_d5c801f1-58d3-4f15-ba0f-ef688fdf8045.jpg?v=1763744416
+    Price: $82.00 USD
+  - [Pink / XS-S](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=51383468884280)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1191434707_900x_d8b09b78-150b-435c-b0b6-666ff7b8f74f.jpg?v=1763744416
+    Price: $82.00 USD
+  - [Pink / M-L](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=51383468917048)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1191434707_900x_d8b09b78-150b-435c-b0b6-666ff7b8f74f.jpg?v=1763744416
+    Price: $82.00 USD
+  - [Pink / XL-XXL](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=51383468949816)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1191434707_900x_d8b09b78-150b-435c-b0b6-666ff7b8f74f.jpg?v=1763744416
+    Price: $82.00 USD
+  - [Pink / 3XL-4XL](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=51383468982584)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1191434707_900x_d8b09b78-150b-435c-b0b6-666ff7b8f74f.jpg?v=1763744416
+    Price: $82.00 USD
+  - [Pink / 5XL](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit?variant=51383469015352)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1191434707_900x_d8b09b78-150b-435c-b0b6-666ff7b8f74f.jpg?v=1763744416
+    Price: $82.00 USD
 - [Thigh-High Shaper: Sculpt & Slim](https://sugar-spicy.com/products/three-clip-body-shaper): Discover the ultimate body shaper for a flawless silhouette! This mid-thigh shaper provides solid tummy and waist control, extra back thigh compression for a lifted look, and three buckles with side drop glues to prevent slipping. Flattens your tummy and slim legs, ensuring 360° hip-line support.
   Updated: 2025-11-17T23:05:45Z
   Vendor: Sugar + Spicy
@@ -4288,16 +4343,16 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
   Updated: 2025-11-20T22:56:38Z
   Total Products: 6
 - [Sugar + Spicy: Designing Shapewear, Empowering Bodies](https://sugar-spicy.com/collections/shop): Embrace your body with shapewear designed for every size and shape. Our technically advanced solutions enhance your curves while our stretchy underwear adapts to you. We're setting new standards for comfort and confidence.
-  Updated: 2025-11-17T12:14:06Z
+  Updated: 2025-11-21T17:05:23Z
   Total Products: 72
 - [Sugar + Spicy New Arrivals | Discover the Latest Trends](https://sugar-spicy.com/collections/new): Explore our latest collection of stylish and trendy pieces. From everyday essentials to statement-making outfits, find your new favorites today.
   Updated: 2025-11-16T20:56:02Z
   Total Products: 29
 - [Sugar Bodysuits for Women With Every Type of Body](https://sugar-spicy.com/collections/sugar-bodysuits): Elevate your confidence with Sugar + Spicy's inclusive range of body shapers, underwear, and shapewear. Our products empower women of all races, body types, and financial backgrounds, delivering comfort and allure. Celebrate your uniqueness with us!
-  Updated: 2025-11-21T15:44:47Z
+  Updated: 2025-11-21T17:05:23Z
   Total Products: 41
 - [Sugar + Spicy Sale - Last chance to shop these sale styles!](https://sugar-spicy.com/collections/sale): "These most-wanted silhouettes are selling fast!" We are setting new standards by providing solutions for every body. From technically constructed shapewear that enhances your curves to underwear that stretches to twice its size, our goal is to consistently innovate on the past and advance our industry for the future.
-  Updated: 2025-09-13T20:49:46Z
+  Updated: 2025-11-21T17:05:23Z
   Total Products: 9
 - [Looking for Sexy Bodysuits? Designed for All Bodies Type](https://sugar-spicy.com/collections/spicy-bodysuits): Striking. Provocative. Alluring. Experience the perfect balance of confidence and sensuality with our captivating Spicy Bodysuits creation. A simple lingerie bodysuit has become a daywear trend, giving your outfit a sexy feel to adorn your curves.
   Updated: 2025-11-20T22:55:59Z
@@ -4312,13 +4367,13 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
   Updated: 2025-11-17T12:14:06Z
   Total Products: 22
 - [Looking For More 2](https://sugar-spicy.com/collections/looking-for-more-2)
-  Updated: 2025-11-15T22:56:45Z
+  Updated: 2025-11-21T17:05:23Z
   Total Products: 31
 - [Looking For More 3](https://sugar-spicy.com/collections/looking-for-more-3)
   Updated: 2025-11-17T12:14:06Z
   Total Products: 24
 - [Sugar + Spicy Bodysuits and Shapewears Compression Levels LIGHT](https://sugar-spicy.com/collections/light): [LIGHT] Shapewear with light compression offers minimal shaping and smoothing. It's designed to provide a gentle and comfortable level of support without significantly altering the body's contours. Light compression shapewear is suitable for everyday wear and can help minimize slight imperfections without feeling restrictive.
-  Updated: 2025-11-16T23:38:38Z
+  Updated: 2025-11-21T17:05:23Z
   Total Products: 44
 - [Sugar + Spicy Bodysuits and Shapewears Compression Levels MEDIUM](https://sugar-spicy.com/collections/medium): [MEDIUM] Shapewear with medium compression offers moderate shaping and smoothing. It provides more noticeable support than light compression shapewear and can help create a smoother appearance under clothing. Medium compression shapewear is often used for special occasions when you want to enhance your silhouette without sacrificing comfort.
   Updated: 2025-08-06T20:28:52Z
