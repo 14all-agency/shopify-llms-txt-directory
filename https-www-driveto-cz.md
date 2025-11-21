@@ -12,7 +12,7 @@ Zprostředkováváme operativní leasing vozidel od všech značek a leasingový
 - Contact Email: info@driveto.cz
 - Contact Phone: +420790285631
 - Address: Jankovcova 1569/2c, Holešovice, 170 00 Praha 7
-- Updated At: 2025-11-20T00:01:59.893Z
+- Updated At: 2025-11-21T00:02:49.991Z
 
 ## Naše služby
 
@@ -786,35 +786,38 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto9_bc620e0c-f83c-4a7c-bc95-df4a765f0f2c.webp?v=1761572632
     Price: 16 033,00 Kč CZK
 - [Škoda Kodiaq RS 2.0 TSI 195 kW Natural 95 4x4 Automatická převodovka](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka): Kodiaq je ve sportovně laděné verzi RS vrcholem, který si můžete dopřát. Jedná se o druhou generaci, která světlo světa spatřila roku 2024. Změn se zde odehrálo opravdu mnoho, což je na první pohled znát. Design působí modernějším a mohutnějším dojmem. Verze RS dodává vozu sportovní a agresivní nádech. Vypadá zkrátka skvěle. Přední přísný výraz formují LED světlomety a široká maska s chromovým dekorem. Pocit robustnosti navozují vytažené blatníky a zadní části dominují propojená světla s charakteristickým tvarem ve tvaru písmene C. Interiér je oblast, která byla pozměněna nejvíc. Za zmínku rozhodně stojí pohodlná sportovní sedadla se skvělým bočním vedením a celkově výborná pozice za volantem. Potěší také kvalitní materiály, bohatá výbava, snadné ovládání a veliká obrazovka zábavního systému. Odkládacích prostorů je zde stále velké množství a celkově je vnitřní prostor na špičkové úrovni. Narostl i objem zavazadlového prostoru (+ 75 litrů) na aktuálních 910 litrů. To je mimochodem více, než nabízí největší SUV od Audi - model Q7. Nový je i podvozek, který poskytuje vozu lepší komfort a jízdní vlastnosti v zatáčkách. Pod kapotou se nachází silný benzínový dvoulitr o výkonu 195 kW, který dodává vozu vynikající dynamiku. Nechybí ani pohon 4x4 a automatická převodovka. Všechny tyto atributy z nového Kodiaqu druhé generace dělají rychlé a praktické SUV, které se brzy stane novým českým ideálem.
-  Updated: 2025-11-18T10:35:14Z
+  Updated: 2025-11-20T08:03:15Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqRS2.0foto1.webp?v=1761572806
+  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=62645349515613)
+    Availability: Available
+    Price: 12 575,00 Kč CZK
   - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439426909)
     Availability: Available
-    Price: 10 831,00 Kč CZK
+    Price: 13 286,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439459677)
     Availability: Available
-    Price: 11 720,00 Kč CZK
+    Price: 14 159,00 Kč CZK
   - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439492445)
     Availability: Available
-    Price: 12 441,00 Kč CZK
+    Price: 14 867,00 Kč CZK
   - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439525213)
     Availability: Available
-    Price: 13 529,00 Kč CZK
+    Price: 15 938,00 Kč CZK
   - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439557981)
     Availability: Available
-    Price: 14 341,00 Kč CZK
+    Price: 16 737,00 Kč CZK
   - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439590749)
     Availability: Available
-    Price: 15 334,00 Kč CZK
+    Price: 17 720,00 Kč CZK
   - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439623517)
     Availability: Available
-    Price: 16 056,00 Kč CZK
+    Price: 18 430,00 Kč CZK
   - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439656285)
     Availability: Available
-    Price: 16 971,00 Kč CZK
+    Price: 19 335,00 Kč CZK
 - [Škoda Kodiaq Sportline 1.5 TSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-1-5-tsi-110kw-natural-95-automaticka-prevodovka): Nový Kodiaq byl představen na jaře roku 2024. Změn se zde odehrálo opravdu mnoho, což je viditelné na první pohled. Tento kus je navíc v nejzajímavější variantě Sportline. Design působí modernějším a podstatně mohutnějším dojmem. Přední přísný výraz formují LED světlomety a široká maska s chromovým dekorem. Pocit robustnosti navozují vytažené blatníky a zadní části dominují propojená světla s charakteristickým tvarem ve tvaru písmene C. Interiér je oblast, která se změnila úplně nejvíc. Za zmínku rozhodně stojí pohodlná sedadla a výborná pozice za volantem. Potěší také kvalitní materiály, bohatá výbava, snadné ovládání a veliká obrazovka zábavního systému. Odkládacích prostorů je zde stále velké množství a celkově je vnitřní prostor na špičkové úrovni. Narostl i objem zavazadlového prostoru (+ 75 litrů) na aktuálních 910 litrů. To je mimochodem více, než nabízí největší SUV od Audi - Q7. Nový je i podvozek, který poskytuje vozu ještě lepší komfort a jízdní vlastnosti. Pod kapotou se nachází benzínový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Všechny tyto atributy z nového Kodiaqu druhé generace dělají prvotřídní SUV, které se brzy stane novým českým ideálem.
   Updated: 2025-10-29T18:43:40Z
   Vendor: Driveto
@@ -2884,7 +2887,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 15 990,00 Kč CZK
 - [Audi Q5 Sportback S line 2.0 TDI 150 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka): Model Q5 je středně velké SUV, které si oblíbili zákazníci, kteří chtějí dostatek prostoru pro posádku a zavazadla, ale zároveň nechtějí přehnaně velké vozidlo, se kterým je už složitější parkování či jízda na úzkých silnicích. Jedná se o zcela nový model, který byl představen na konci roku 2024. Přídomek Sportback značí svažující-se záď, což je v dnešní době velmi populární a dodává to sportovní nádech. Pod kapotou pracuje osvědčený naftový motor o výkonu 150 kW, který dodává vozu slušnou dynamiku, ale zároveň je úsporný. Kombinovaně není problém jezdit s lehkou nohou okolo 6 litrů. Milovníky hor také potěší vyhlášený pohon všech kol quattro, díky kterému vůz dokáže vyjet i pořádně zasněžené kopce, čemuž pomáhá solidní světlá výška. Podvozek vozu dodává skvělé jízdní vlastnosti - je komfortní, ale zároveň stabilní v zatáčkách. Tento kousek je navíc krásně vybavený - celková cena včetně příplatků šplhá k 1,9 milionu.
-  Updated: 2025-11-10T07:48:52Z
+  Updated: 2025-11-20T10:15:35Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -3646,27 +3649,6 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [30000 km / 24 měsíců / Červená](https://www.driveto.cz/products/audi-q3-s-line-1-5-tfsi-110-kw-natural-95-automaticka-prevodovka?variant=58865144660317)
     Availability: Available
     Price: 11 990,00 Kč CZK
-- [BMW X3 M Sport xDrive20d 145 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/bmw-x3-m-sport-xdrive20d-145-kw-nafta-4x4-automaticka-prevodovka): Nová X3 byla představena v polovině roku 2024. Vyznačuje se ještě větší sportovní přitažlivostí, vizuální působivostí a univerzálností. Přináší výjimečný klid a jistotu při každodenní jízdě i na delších cestách. V interiéru nového BMW X3 se snoubí robustní funkčnost, dostatek prostoru a prémiová atmosféra s osobitým stylem. Design palubní desky, obložení dveří a použité materiály představují nový směr pro modelové portfolio BMW. Dieselový motor 20d xDrive je hospodárnější a výkonnější než kdykoli předtím, zrychlí z 0 na 100 km/h za 7,7 sekundy. Kombinovaná spotřeba se v klidném režimu pohybuje kolem 6 litrů. Nové BMW X3 je moderní všestranné SUV, které si zamilujete.
-  Updated: 2025-11-13T13:15:09Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX3MSportfoto1_9cb3b45c-8247-46be-96ae-fafd20ce3a5e.webp?v=1761735061
-  - [10000 km / 36 měsíců / Bílá Alpine](https://www.driveto.cz/products/bmw-x3-m-sport-xdrive20d-145-kw-nafta-4x4-automaticka-prevodovka?variant=57912978735453)
-    Availability: Available
-    Price: 15 724,00 Kč CZK
-  - [15000 km / 36 měsíců / Bílá Alpine](https://www.driveto.cz/products/bmw-x3-m-sport-xdrive20d-145-kw-nafta-4x4-automaticka-prevodovka?variant=57924269965661)
-    Availability: Available
-    Price: 16 125,00 Kč CZK
-  - [20000 km / 36 měsíců / Bílá Alpine](https://www.driveto.cz/products/bmw-x3-m-sport-xdrive20d-145-kw-nafta-4x4-automaticka-prevodovka?variant=57924269998429)
-    Availability: Available
-    Price: 17 137,00 Kč CZK
-  - [25000 km / 36 měsíců / Bílá Alpine](https://www.driveto.cz/products/bmw-x3-m-sport-xdrive20d-145-kw-nafta-4x4-automaticka-prevodovka?variant=57924270031197)
-    Availability: Available
-    Price: 18 430,00 Kč CZK
-  - [30000 km / 36 měsíců / Bílá Alpine](https://www.driveto.cz/products/bmw-x3-m-sport-xdrive20d-145-kw-nafta-4x4-automaticka-prevodovka?variant=57924270063965)
-    Availability: Available
-    Price: 18 809,00 Kč CZK
 - [Toyota RAV4 GR Sport 2.5 Hybrid 163 kW Benzín 4x4 Automatická převodovka](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka): Toyota RAV4 je robustní SUV, které je ve světě naprostým hitem - prodalo se jich přes 11 milionů. Design páté generace zaujme na první pohled - ostře řezané hrany v kombinaci se svalnatými blatníky navozují jedinečné charisma. Uvnitř se pyšní nadprůměrnou prostorností a potěší také tradiční koncepce, která zahrnuje klasická tlačítka a další ovladače. Díky tomu se velice dobře ovládá. Dotykový displej tu je samozřejmě také. Nechybí ani možnost zrcadlení telefonu do infotainmentu. Pohon vozu má na starost velký benzínový motor o objemu 2,5 litru, který je doplněn o elektromotor a akumulátor. Jde tedy o hybrid, který umí jet čistě na elektřinu a brzděním dobíjí baterii. Díky tomu zvládá po městě jezdit se spotřebou okolo 4 - 5 litrů. Potěší také vysoký výkon, který dodává vozu velmi hezkou dynamiku. Tento kousek navíc disponuje i pohonem všech čtyř kol, díky čemuž snadněji zvládne i lehčí terén či zasněženou silnici.
   Updated: 2025-11-18T12:27:57Z
   Vendor: Driveto
@@ -5317,19 +5299,19 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
 ## Collections
 
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/operativni-leasing): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-19T23:02:16Z
-  Total Products: 229
+  Updated: 2025-11-20T19:15:15Z
+  Total Products: 232
 - [Operativní leasing Škoda | Driveto.cz](https://www.driveto.cz/collections/skoda): Operativní leasing Škoda pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-19T21:51:53Z
+  Updated: 2025-11-20T12:21:52Z
   Total Products: 71
 - [Elektromobily na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/elektromobily): Elektromobily na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-19T18:38:09Z
+  Updated: 2025-11-20T12:21:52Z
   Total Products: 25
 - [Skladové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/skladove-vozy): Skladové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-20T00:01:47Z
-  Total Products: 164
+  Updated: 2025-11-20T15:45:18Z
+  Total Products: 168
 - [Operativní leasing Tesla | Driveto.cz](https://www.driveto.cz/collections/tesla): Operativní leasing Tesla pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-06T15:39:41Z
+  Updated: 2025-11-20T12:21:52Z
   Total Products: 2
 - [Operativní leasing Alfa Romeo | Driveto.cz](https://www.driveto.cz/collections/alfa-romeo): Operativní leasing Alfa Romeo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-06T15:33:05Z
@@ -5338,19 +5320,19 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-10-26T11:17:59Z
   Total Products: 2
 - [Operativní leasing BMW | Driveto.cz](https://www.driveto.cz/collections/bmw): Operativní leasing BMW pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-19T11:08:04Z
-  Total Products: 11
+  Updated: 2025-11-20T12:21:52Z
+  Total Products: 12
 - [Operativní leasing Mini | Driveto.cz](https://www.driveto.cz/collections/mini): Operativní leasing Mini pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-27T12:08:11Z
   Total Products: 1
 - [Operativní leasing MG | Driveto.cz](https://www.driveto.cz/collections/mg): Operativní leasing MG pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-18T12:21:17Z
-  Total Products: 4
+  Updated: 2025-11-20T15:45:18Z
+  Total Products: 6
 - [Operativní leasing Lexus | Driveto.cz](https://www.driveto.cz/collections/lexus): Operativní leasing Lexus pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-17T09:02:46Z
   Total Products: 0
 - [Operativní leasing Cupra | Driveto.cz](https://www.driveto.cz/collections/cupra): Operativní leasing Cupra pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-19T17:29:13Z
+  Updated: 2025-11-20T12:21:52Z
   Total Products: 17
 - [Operativní leasing Nissan | Driveto.cz](https://www.driveto.cz/collections/nissan): Operativní leasing Nissan pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-17T12:01:23Z
@@ -5362,59 +5344,59 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-18T12:21:17Z
   Total Products: 4
 - [Operativní leasing Toyota | Driveto.cz](https://www.driveto.cz/collections/toyota): Operativní leasing Toyota pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-19T22:27:44Z
+  Updated: 2025-11-20T12:21:52Z
   Total Products: 44
 - [Operativní leasing Volvo | Driveto.cz](https://www.driveto.cz/collections/volvo): Operativní leasing Volvo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-20T00:01:10Z
+  Updated: 2025-11-20T12:21:52Z
   Total Products: 11
 - [Operativní leasing Audi | Driveto.cz](https://www.driveto.cz/collections/audi): Operativní leasing Audi pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-19T23:02:39Z
+  Updated: 2025-11-20T12:21:52Z
   Total Products: 14
 - [Operativní leasing Peugeot | Driveto.cz](https://www.driveto.cz/collections/peugeot): Operativní leasing Peugeot pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-19T22:26:16Z
+  Updated: 2025-11-20T12:21:52Z
   Total Products: 3
 - [Operativní leasing Hyundai | Driveto.cz](https://www.driveto.cz/collections/hyundai): Operativní leasing Hyundai pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-19T12:22:19Z
+  Updated: 2025-11-20T12:21:52Z
   Total Products: 4
 - [Operativní leasing Kia | Driveto.cz](https://www.driveto.cz/collections/kia): Operativní leasing Kia pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-19T12:22:19Z
+  Updated: 2025-11-20T12:21:52Z
   Total Products: 5
 - [Operativní leasing Volkswagen | Driveto.cz](https://www.driveto.cz/collections/volkswagen): Operativní leasing Volkswagen pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-19T12:05:18Z
+  Updated: 2025-11-20T12:21:52Z
   Total Products: 23
 - [Akční nabídky na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/akcni-nabidky): Akční nabídky na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-20T00:01:35Z
-  Total Products: 30
+  Updated: 2025-11-20T12:21:52Z
+  Total Products: 31
 - [Operativní leasing Renault | Driveto.cz](https://www.driveto.cz/collections/renault): Operativní leasing Renault pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-19T12:22:19Z
+  Updated: 2025-11-20T12:21:52Z
   Total Products: 2
 - [Užitkové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/uzitkove-vozy): Užitkové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-19T12:22:19Z
+  Updated: 2025-11-20T12:21:52Z
   Total Products: 8
 - [Osobní vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/osobni-vozy): Osobní vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-19T23:04:28Z
-  Total Products: 231
+  Updated: 2025-11-20T15:45:18Z
+  Total Products: 234
 - [Plug-in vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/plug-in): Plug-in vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-19T15:03:05Z
+  Updated: 2025-11-20T12:21:52Z
   Total Products: 10
 - [Mild hybridy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/mild-hybrid): Mild hybridy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-18T09:52:06Z
+  Updated: 2025-11-20T12:21:52Z
   Total Products: 4
 - [Operativní leasing se zimními pneumatikami | Driveto.cz](https://www.driveto.cz/collections/vcetne-zimnich-pneumatik): Operativní leasing se zimními pneumatikami pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-17T12:21:47Z
-  Total Products: 3
+  Updated: 2025-11-20T12:21:52Z
+  Total Products: 4
 - [Operativní leasing Maxus | Driveto.cz](https://www.driveto.cz/collections/maxus): Operativní leasing Maxus pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-12T11:50:31Z
   Total Products: 0
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/all): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-19T23:03:24Z
-  Total Products: 229
+  Updated: 2025-11-20T15:45:18Z
+  Total Products: 232
 - [Operativní leasing Opel | Driveto.cz](https://www.driveto.cz/collections/opel): Operativní leasing Opel pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-17T12:21:46Z
+  Updated: 2025-11-20T12:21:52Z
   Total Products: 3
 - [BLACK FRIDAY | Driveto.cz](https://www.driveto.cz/collections/black-friday): Využijte Black Friday na Driveto. Operativní leasing na auta skladem nebo s rychlou dostupností. Nejlepší nabídky roku bez starostí a jednoduše online.
-  Updated: 2025-11-19T23:01:05Z
-  Total Products: 21
+  Updated: 2025-11-20T12:21:52Z
+  Total Products: 22
 
 ## Blogs
 
