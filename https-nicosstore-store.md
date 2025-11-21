@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-11-19T00:00:28.049Z
+- Updated At: 2025-11-21T00:00:51.428Z
 
 ## Products
 
 - [Unisex Comfort Sweatshirt for Ultimate Style and All-Day Comfort](https://nicosstore.store/products/unisex-comfort-sweatshirt): Elevate your wardrobe with our Unisex Comfort Sweatshirt. Designed for ultimate style and coziness, it's perfect for any occasion. Shop now and experience unparalleled comfort!
-  Updated: 2025-11-15T21:18:14Z
+  Updated: 2025-11-19T21:27:22Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -73,7 +73,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-crew-neck-sweatshirt-light-pink-front-68d2fdae264a9.jpg?v=1761778560
     Price: €25.50 EUR
 - [Women's Softstyle T-Shirt - Basic Comfort for Everyday Wear and Style](https://nicosstore.store/products/womens-softstyle-t-shirt): Discover the ultimate comfort with our Women's Softstyle T-Shirt. Perfect for everyday wear, this stylish tee offers a soft feel and flattering fit. Elevate your wardrobe today!
-  Updated: 2025-11-15T21:18:36Z
+  Updated: 2025-11-19T21:27:23Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -155,7 +155,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-basic-softstyle-t-shirt-white-front-68d2c7e633653.jpg?v=1761778867
     Price: €19.50 EUR
 - [Women's Fitted Racerback Tank Top](https://nicosstore.store/products/womens-fitted-racerback-tank-top): Women's Fitted Racerback Tank Top. Perfect for workouts or casual outings, this stylish tank offers comfort and confidence. Shop now!
-  Updated: 2025-11-15T21:18:50Z
+  Updated: 2025-11-19T21:27:23Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -257,7 +257,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-ideal-racerback-tank-top-white-back-68d438376dc4f.jpg?v=1758738502
     Price: €18.00 EUR
 - [Unisex fleece zip up hoodie- Nico's Store](https://nicosstore.store/products/unisex-fleece-zip-up-hoodie-nicos-store): Unisex fleece zip up hoodie- Nico's Store. Perfect for comfort and style. Get yours today and embrace your passion on every adventure!
-  Updated: 2025-11-15T21:18:59Z
+  Updated: 2025-11-19T21:27:23Z
   Vendor: Nico`s Store
   Product Type: Hoodie
   Availability: Available
@@ -283,14 +283,14 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-fleece-zip-up-hoodie-charcoal-heather-back-68d4306d45066.jpg?v=1761779137
     Price: €42.50 EUR
 - [Stylish Crossbody Bag for Women - Perfect for Everyday Use](https://nicosstore.store/products/stylish-crossbody-bag-for-women-perfect-for-everyday-use): Stylish Crossbody Bag for Women - Perfect for Everyday Use. Perfectly combine fashion and functionality—your ideal crossbody bag for women awaits!
-  Updated: 2025-11-15T21:19:05Z
+  Updated: 2025-11-20T05:42:54Z
   Vendor: Nico`s Store
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-crossbody-bag-white-left-front-68d431ff61730.jpg?v=1761779262
-  Price: €27.00 EUR
+  Price: €37.00 EUR
 - [Women's Athletic Shoes for Ultimate Performance](https://nicosstore.store/products/womens-athletic-shoes-for-ultimate-performance): Women's Athletic Shoes for Ultimate Performance. Engineered for ultimate performance and comfort, elevate your workouts today!
-  Updated: 2025-11-15T21:19:09Z
+  Updated: 2025-11-19T21:27:24Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -356,7 +356,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-athletic-shoes-white-left-front-68d434dedcf84.jpg?v=1761779329
     Price: €48.50 EUR
 - [High-Performance Leggings for Ultimate Comfort](https://nicosstore.store/products/high-performance-leggings-for-ultimate-comfort): High-Performance Leggings for Ultimate Comfort. Perfect for workouts or everyday wear, they provide support and style for all occasions.
-  Updated: 2025-11-15T21:19:14Z
+  Updated: 2025-11-20T05:42:42Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -364,25 +364,25 @@
   - [XS](https://nicosstore.store/products/high-performance-leggings-for-ultimate-comfort?variant=55736527683909)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-leggings-white-right-68d57d77dd55e.jpg?v=1761779382
-    Price: €23.00 EUR
+    Price: €31.00 EUR
   - [S](https://nicosstore.store/products/high-performance-leggings-for-ultimate-comfort?variant=55736527716677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-leggings-white-right-68d57d77dd55e.jpg?v=1761779382
-    Price: €23.00 EUR
+    Price: €31.00 EUR
   - [M](https://nicosstore.store/products/high-performance-leggings-for-ultimate-comfort?variant=55736527749445)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-leggings-white-right-68d57d77dd55e.jpg?v=1761779382
-    Price: €23.00 EUR
+    Price: €31.00 EUR
   - [L](https://nicosstore.store/products/high-performance-leggings-for-ultimate-comfort?variant=55736527782213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-leggings-white-right-68d57d77dd55e.jpg?v=1761779382
-    Price: €23.00 EUR
+    Price: €31.00 EUR
   - [XL](https://nicosstore.store/products/high-performance-leggings-for-ultimate-comfort?variant=55736527814981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-leggings-white-right-68d57d77dd55e.jpg?v=1761779382
-    Price: €23.00 EUR
+    Price: €31.00 EUR
 - [Unisex Ringer T-Shirt Comfort for Everyone](https://nicosstore.store/products/unisex-ringer-t-shirt-comfort-for-everyone): Unisex Ringer T-Shirt Comfort for Everyone. Perfect for casual wear, it features a classic design and a soft touch. Elevate your wardrobe with this versatile.
-  Updated: 2025-11-15T21:19:20Z
+  Updated: 2025-11-19T21:27:24Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -412,7 +412,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-ringer-t-shirt-natural-midnight-navy-front-68d57fbe0514e.jpg?v=1761779447
     Price: €23.50 EUR
 - [Basic Kitty Pillow Comfort and Cutie for Your Cat](https://nicosstore.store/products/basic-kitty-pillow-comfort-and-cutie-for-your-cat): Basic Kitty Pillow Comfort and Cutie for Your Cat. Treat your feline friend to a cozy haven they’ll love. Shop now for ultimate relaxation!
-  Updated: 2025-11-15T21:19:25Z
+  Updated: 2025-11-19T21:27:24Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -430,7 +430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-basic-pillow-22x22-front-68d58ae0930b1.jpg?v=1761779570
     Price: €21.50 EUR
 - [Skater Dress Floral Print - Embrace Style with Flower Story](https://nicosstore.store/products/skater-dress-floral-print-embrace-style-with-flower-story): Skater Dress Floral Print - Embrace Style with Flower Story. Perfect for any occasion, this dress combines comfort and elegance. Get yours today!
-  Updated: 2025-11-15T21:19:31Z
+  Updated: 2025-11-20T05:42:27Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -438,33 +438,33 @@
   - [XS](https://nicosstore.store/products/skater-dress-floral-print-embrace-style-with-flower-story?variant=55745519550789)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-skater-dress-white-front-68d6be348b47e.jpg?v=1761779618
-    Price: €31.50 EUR
+    Price: €45.00 EUR
   - [S](https://nicosstore.store/products/skater-dress-floral-print-embrace-style-with-flower-story?variant=55745519583557)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-skater-dress-white-front-68d6be348b47e.jpg?v=1761779618
-    Price: €31.50 EUR
+    Price: €45.00 EUR
   - [M](https://nicosstore.store/products/skater-dress-floral-print-embrace-style-with-flower-story?variant=55745519616325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-skater-dress-white-front-68d6be348b47e.jpg?v=1761779618
-    Price: €31.50 EUR
+    Price: €45.00 EUR
   - [L](https://nicosstore.store/products/skater-dress-floral-print-embrace-style-with-flower-story?variant=55745519649093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-skater-dress-white-front-68d6be348b47e.jpg?v=1761779618
-    Price: €31.50 EUR
+    Price: €45.00 EUR
   - [XL](https://nicosstore.store/products/skater-dress-floral-print-embrace-style-with-flower-story?variant=55745519681861)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-skater-dress-white-front-68d6be348b47e.jpg?v=1761779618
-    Price: €31.50 EUR
+    Price: €45.00 EUR
   - [2XL](https://nicosstore.store/products/skater-dress-floral-print-embrace-style-with-flower-story?variant=55745519714629)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-skater-dress-white-front-68d6be348b47e.jpg?v=1761779618
-    Price: €33.50 EUR
+    Price: €45.00 EUR
   - [3XL](https://nicosstore.store/products/skater-dress-floral-print-embrace-style-with-flower-story?variant=55745519747397)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-skater-dress-white-front-68d6be348b47e.jpg?v=1761779618
-    Price: €36.00 EUR
+    Price: €45.00 EUR
 - [Golf Rope Cap Nico's store - Stylish and Functional](https://nicosstore.store/products/golf-rope-cap-nicos-store-stylish-and-functional): Golf Rope Cap Nico's store - Stylish and Functional  . This stylish and functional golf rope cap offers ultimate comfort and sun protection on the course.
-  Updated: 2025-11-15T21:19:59Z
+  Updated: 2025-11-19T21:27:25Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -490,7 +490,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/golf-rope-cap-yellow-navy-front-68d6c0eddaab0.jpg?v=1761779973
     Price: €22.00 EUR
 - [Flare leggings abstract dream unique design](https://nicosstore.store/products/flare-leggings-abstract-dream-unique-design): Flare leggings abstract dream unique design. Embrace vibrant designs and feel confident in every move. Shop now for your unique look!
-  Updated: 2025-11-15T21:20:06Z
+  Updated: 2025-11-20T05:42:15Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -498,49 +498,49 @@
   - [2XS](https://nicosstore.store/products/flare-leggings-abstract-dream-unique-design?variant=55746195161413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-flare-leggings-white-left-68d6ddc9626eb.jpg?v=1761780037
-    Price: €29.00 EUR
+    Price: €42.00 EUR
   - [XS](https://nicosstore.store/products/flare-leggings-abstract-dream-unique-design?variant=55746195194181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-flare-leggings-white-left-68d6ddc9626eb.jpg?v=1761780037
-    Price: €29.00 EUR
+    Price: €42.00 EUR
   - [S](https://nicosstore.store/products/flare-leggings-abstract-dream-unique-design?variant=55746195226949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-flare-leggings-white-left-68d6ddc9626eb.jpg?v=1761780037
-    Price: €29.00 EUR
+    Price: €42.00 EUR
   - [M](https://nicosstore.store/products/flare-leggings-abstract-dream-unique-design?variant=55746195259717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-flare-leggings-white-left-68d6ddc9626eb.jpg?v=1761780037
-    Price: €29.00 EUR
+    Price: €42.00 EUR
   - [L](https://nicosstore.store/products/flare-leggings-abstract-dream-unique-design?variant=55746195292485)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-flare-leggings-white-left-68d6ddc9626eb.jpg?v=1761780037
-    Price: €29.00 EUR
+    Price: €42.00 EUR
   - [XL](https://nicosstore.store/products/flare-leggings-abstract-dream-unique-design?variant=55746195325253)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-flare-leggings-white-left-68d6ddc9626eb.jpg?v=1761780037
-    Price: €29.00 EUR
+    Price: €42.00 EUR
   - [2XL](https://nicosstore.store/products/flare-leggings-abstract-dream-unique-design?variant=55746195358021)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-flare-leggings-white-left-68d6ddc9626eb.jpg?v=1761780037
-    Price: €31.00 EUR
+    Price: €42.00 EUR
   - [3XL](https://nicosstore.store/products/flare-leggings-abstract-dream-unique-design?variant=55746195390789)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-flare-leggings-white-left-68d6ddc9626eb.jpg?v=1761780037
-    Price: €32.50 EUR
+    Price: €42.00 EUR
   - [4XL](https://nicosstore.store/products/flare-leggings-abstract-dream-unique-design?variant=55746195423557)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-flare-leggings-white-left-68d6ddc9626eb.jpg?v=1761780037
-    Price: €34.50 EUR
+    Price: €42.00 EUR
   - [5XL](https://nicosstore.store/products/flare-leggings-abstract-dream-unique-design?variant=55746195456325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-flare-leggings-white-left-68d6ddc9626eb.jpg?v=1761780037
-    Price: €36.50 EUR
+    Price: €42.00 EUR
   - [6XL](https://nicosstore.store/products/flare-leggings-abstract-dream-unique-design?variant=55746195489093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-flare-leggings-white-left-68d6ddc9626eb.jpg?v=1761780037
-    Price: €38.50 EUR
+    Price: €42.00 EUR
 - [Embroidered Beanie nico high quality material](https://nicosstore.store/products/embroidered-beanie-nico-high-quality-material): Embroidered Beanie nico high quality material. This trendy embroidered beanie adds a unique touch to your outfit while keeping you cozy all season long.
-  Updated: 2025-11-15T21:20:14Z
+  Updated: 2025-11-19T21:27:25Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -570,7 +570,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/knit-beanie-white-front-68d94a4c0f163.jpg?v=1761780235
     Price: €15.00 EUR
 - [Best Knit V-neck vest timeless design](https://nicosstore.store/products/best-knit-v-neck-vest-timeless-design): Best Knit V-neck vest timeless design. Perfect for layering or solo wear, this versatile piece adds elegance to any outfit. Shop now for comfort and style!
-  Updated: 2025-11-15T21:20:38Z
+  Updated: 2025-11-20T05:42:00Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -578,41 +578,41 @@
   - [2XS](https://nicosstore.store/products/best-knit-v-neck-vest-timeless-design?variant=55759840248133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/knitted-v-neck-vest-custom-2xs-front-68d94f324354c.jpg?v=1761780304
-    Price: €35.00 EUR
+    Price: €42.00 EUR
   - [3XS](https://nicosstore.store/products/best-knit-v-neck-vest-timeless-design?variant=55759840280901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/knitted-v-neck-vest-custom-3xs-front-68d94f3243396.jpg?v=1761780273
-    Price: €35.00 EUR
+    Price: €42.00 EUR
   - [XS](https://nicosstore.store/products/best-knit-v-neck-vest-timeless-design?variant=55759840313669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/knitted-v-neck-vest-custom-xs-front-68d94f32436eb.jpg?v=1761780338
-    Price: €35.00 EUR
+    Price: €42.00 EUR
   - [S](https://nicosstore.store/products/best-knit-v-neck-vest-timeless-design?variant=55759840346437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/knitted-v-neck-vest-custom-s-front-68d94f324284c.jpg?v=1761780253
-    Price: €35.00 EUR
+    Price: €42.00 EUR
   - [M](https://nicosstore.store/products/best-knit-v-neck-vest-timeless-design?variant=55759840379205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/knitted-v-neck-vest-custom-m-front-68d94f324398d.jpg?v=1761780385
-    Price: €35.00 EUR
+    Price: €42.00 EUR
   - [L](https://nicosstore.store/products/best-knit-v-neck-vest-timeless-design?variant=55759840411973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/knitted-v-neck-vest-custom-l-front-68d94f3243bb7.jpg?v=1761780420
-    Price: €35.00 EUR
+    Price: €42.00 EUR
   - [XL](https://nicosstore.store/products/best-knit-v-neck-vest-timeless-design?variant=55759840444741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/knitted-v-neck-vest-custom-xl-front-68d94f3243dda.jpg?v=1761780452
-    Price: €35.00 EUR
+    Price: €42.00 EUR
   - [2XL](https://nicosstore.store/products/best-knit-v-neck-vest-timeless-design?variant=55759840477509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/knitted-v-neck-vest-custom-2xl-front-68d94f324400e.jpg?v=1761780486
-    Price: €37.00 EUR
+    Price: €42.00 EUR
   - [3XL](https://nicosstore.store/products/best-knit-v-neck-vest-timeless-design?variant=55759840510277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/knitted-v-neck-vest-custom-3xl-front-68d94f324425a.jpg?v=1761780524
-    Price: €37.00 EUR
+    Price: €42.00 EUR
 - [Unisex Peace Sweatshirt for a Better World](https://nicosstore.store/products/unisex-peace-sweatshirt-for-a-better-world): Unisex Peace Sweatshirt for a Better World. Perfect for spreading joy and promoting a better world, this stylish piece is a must-have for all.
-  Updated: 2025-11-15T21:20:44Z
+  Updated: 2025-11-19T21:27:25Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -662,7 +662,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68d9550497be3.jpg?v=1761780561
     Price: €33.50 EUR
 - [Women’s Micro-Rib Tank Top - Stylish and Comfortable](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable): Women’s Micro-Rib Tank Top - Stylish and Comfortable . This stylish and comfortable women's ribbed tank top is perfect for layering or wearing .
-  Updated: 2025-11-15T21:21:05Z
+  Updated: 2025-11-20T05:41:46Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -670,101 +670,101 @@
   - [Athletic Heather / XS](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770297565509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-athletic-heather-front-68dabb5be40dc.jpg?v=1761780649
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Athletic Heather / S](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770297598277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-athletic-heather-front-68dabb5be40dc.jpg?v=1761780649
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Athletic Heather / M](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770297631045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-athletic-heather-front-68dabb5be40dc.jpg?v=1761780649
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Athletic Heather / L](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770297663813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-athletic-heather-front-68dabb5be40dc.jpg?v=1761780649
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Athletic Heather / XL](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770297696581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-athletic-heather-front-68dabb5be40dc.jpg?v=1761780649
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Athletic Heather / 2XL](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770297729349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-athletic-heather-front-68dabb5be40dc.jpg?v=1761780649
-    Price: €18.50 EUR
+    Price: €30.00 EUR
   - [Solid Baby Blue Blend / XS](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770297762117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-68dabb5be539d.jpg?v=1761780736
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Solid Baby Blue Blend / S](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770297794885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-68dabb5be539d.jpg?v=1761780736
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Solid Baby Blue Blend / M](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770297827653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-68dabb5be539d.jpg?v=1761780736
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Solid Baby Blue Blend / L](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770297860421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-68dabb5be539d.jpg?v=1761780736
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Solid Baby Blue Blend / XL](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770297893189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-68dabb5be539d.jpg?v=1761780736
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Solid Baby Blue Blend / 2XL](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770297925957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-baby-blue-blend-front-68dabb5be539d.jpg?v=1761780736
-    Price: €18.50 EUR
+    Price: €30.00 EUR
   - [Solid Pink Blend / XS](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770297958725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-pink-blend-front-68dabb5be56d7.jpg?v=1761780809
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Solid Pink Blend / S](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770297991493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-pink-blend-front-68dabb5be56d7.jpg?v=1761780809
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Solid Pink Blend / M](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770298024261)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-pink-blend-front-68dabb5be56d7.jpg?v=1761780809
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Solid Pink Blend / L](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770298057029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-pink-blend-front-68dabb5be56d7.jpg?v=1761780809
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Solid Pink Blend / XL](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770298089797)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-pink-blend-front-68dabb5be56d7.jpg?v=1761780809
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Solid Pink Blend / 2XL](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770298122565)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-pink-blend-front-68dabb5be56d7.jpg?v=1761780809
-    Price: €18.50 EUR
+    Price: €30.00 EUR
   - [Solid White Blend / XS](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770298155333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-white-blend-front-68dabb5be5b1b.jpg?v=1761780883
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Solid White Blend / S](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770298188101)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-white-blend-front-68dabb5be5b1b.jpg?v=1761780883
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Solid White Blend / M](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770298220869)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-white-blend-front-68dabb5be5b1b.jpg?v=1761780883
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Solid White Blend / L](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770298253637)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-white-blend-front-68dabb5be5b1b.jpg?v=1761780883
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Solid White Blend / XL](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770298286405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-white-blend-front-68dabb5be5b1b.jpg?v=1761780883
-    Price: €17.00 EUR
+    Price: €30.00 EUR
   - [Solid White Blend / 2XL](https://nicosstore.store/products/women-s-micro-rib-tank-top-stylish-and-comfortable?variant=55770298319173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-micro-rib-tank-top-solid-white-blend-front-68dabb5be5b1b.jpg?v=1761780883
-    Price: €18.50 EUR
+    Price: €30.00 EUR
 - [Unisex Long Sleeve Angel Tee with Unique Print](https://nicosstore.store/products/unisex-long-sleeve-angel-tee-with-unique-print): Unisex Long Sleeve Angel Tee with Unique Print, designed for comfort and style. Perfect for any occasion, this tee adds  divine inspiration to your wardrobe!
-  Updated: 2025-11-15T21:21:32Z
+  Updated: 2025-11-19T21:27:25Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -934,7 +934,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-long-sleeve-tee-white-front-2-68dabdc84871a.jpg?v=1761781243
     Price: €24.50 EUR
 - [Unisex Halloween Clown Hoodie for Fun and Festive Style](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style): Unisex Halloween Clown Hoodie for Fun and Festive Style. Perfect for fun and festive events, this hoodie is both stylish and comfortable. Get yours now!
-  Updated: 2025-11-15T21:22:00Z
+  Updated: 2025-11-20T05:41:32Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -942,121 +942,121 @@
   - [Black / S](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452132165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-68dac692abc2b.jpg?v=1761781378
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [Black / M](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452164933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-68dac692abc2b.jpg?v=1761781378
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [Black / L](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452197701)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-68dac692abc2b.jpg?v=1761781378
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [Black / XL](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452230469)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-68dac692abc2b.jpg?v=1761781378
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [Black / 2XL](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452263237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-68dac692abc2b.jpg?v=1761781378
-    Price: €34.00 EUR
+    Price: €48.00 EUR
   - [Black / 3XL](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452296005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-black-front-68dac692abc2b.jpg?v=1761781378
-    Price: €35.50 EUR
+    Price: €48.00 EUR
   - [Team Royal / S](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452328773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-68dac692b2976.jpg?v=1761781451
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [Team Royal / M](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452361541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-68dac692b2976.jpg?v=1761781451
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [Team Royal / L](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452394309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-68dac692b2976.jpg?v=1761781451
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [Team Royal / XL](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452427077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-68dac692b2976.jpg?v=1761781451
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [Team Royal / 2XL](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452459845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-68dac692b2976.jpg?v=1761781451
-    Price: €34.00 EUR
+    Price: €48.00 EUR
   - [Team Royal / 3XL](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452492613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-team-royal-front-68dac692b2976.jpg?v=1761781451
-    Price: €35.50 EUR
+    Price: €48.00 EUR
   - [Carbon Grey / S](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452525381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-68dac692a5c42.jpg?v=1761781344
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [Carbon Grey / M](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452558149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-68dac692a5c42.jpg?v=1761781344
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [Carbon Grey / L](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452590917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-68dac692a5c42.jpg?v=1761781344
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [Carbon Grey / XL](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452623685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-68dac692a5c42.jpg?v=1761781344
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [Carbon Grey / 2XL](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452656453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-68dac692a5c42.jpg?v=1761781344
-    Price: €34.00 EUR
+    Price: €48.00 EUR
   - [Carbon Grey / 3XL](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452689221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-carbon-grey-front-68dac692a5c42.jpg?v=1761781344
-    Price: €35.50 EUR
+    Price: €48.00 EUR
   - [Bone / S](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452721989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-bone-front-68dac692c2255.jpg?v=1761781553
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [Bone / M](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452754757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-bone-front-68dac692c2255.jpg?v=1761781553
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [Bone / L](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452787525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-bone-front-68dac692c2255.jpg?v=1761781553
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [Bone / XL](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452820293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-bone-front-68dac692c2255.jpg?v=1761781553
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [Bone / 3XL](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452885829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-bone-front-68dac692c2255.jpg?v=1761781553
-    Price: €35.50 EUR
+    Price: €48.00 EUR
   - [White / S](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452918597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-68dac692d987a.jpg?v=1761781638
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [White / M](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452951365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-68dac692d987a.jpg?v=1761781638
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [White / L](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770452984133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-68dac692d987a.jpg?v=1761781638
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [White / XL](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770453016901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-68dac692d987a.jpg?v=1761781638
-    Price: €31.50 EUR
+    Price: €48.00 EUR
   - [White / 2XL](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770453049669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-68dac692d987a.jpg?v=1761781638
-    Price: €34.00 EUR
+    Price: €48.00 EUR
   - [White / 3XL](https://nicosstore.store/products/unisex-halloween-clown-hoodie-for-fun-and-festive-style?variant=55770453082437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-68dac692d987a.jpg?v=1761781638
-    Price: €35.50 EUR
+    Price: €48.00 EUR
 - [Crossover leggings with pockets](https://nicosstore.store/products/crossover-leggings-with-pockets): Elevate your wardrobe with our Crossover Leggings with Pockets. Perfect for workouts or everyday wear,stylish leggings combine comfort and functionality.
-  Updated: 2025-11-15T21:22:11Z
+  Updated: 2025-11-20T05:41:14Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -1064,49 +1064,49 @@
   - [2XS](https://nicosstore.store/products/crossover-leggings-with-pockets?variant=55770535231813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-crossover-leggings-with-pockets-white-front-2-68daccea7e0b8.jpg?v=1761781687
-    Price: €28.50 EUR
+    Price: €45.00 EUR
   - [XS](https://nicosstore.store/products/crossover-leggings-with-pockets?variant=55770535264581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-crossover-leggings-with-pockets-white-front-2-68daccea7e0b8.jpg?v=1761781687
-    Price: €28.50 EUR
+    Price: €45.00 EUR
   - [S](https://nicosstore.store/products/crossover-leggings-with-pockets?variant=55770535297349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-crossover-leggings-with-pockets-white-front-2-68daccea7e0b8.jpg?v=1761781687
-    Price: €28.50 EUR
+    Price: €45.00 EUR
   - [M](https://nicosstore.store/products/crossover-leggings-with-pockets?variant=55770535330117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-crossover-leggings-with-pockets-white-front-2-68daccea7e0b8.jpg?v=1761781687
-    Price: €28.50 EUR
+    Price: €45.00 EUR
   - [L](https://nicosstore.store/products/crossover-leggings-with-pockets?variant=55770535362885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-crossover-leggings-with-pockets-white-front-2-68daccea7e0b8.jpg?v=1761781687
-    Price: €28.50 EUR
+    Price: €45.00 EUR
   - [XL](https://nicosstore.store/products/crossover-leggings-with-pockets?variant=55770535395653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-crossover-leggings-with-pockets-white-front-2-68daccea7e0b8.jpg?v=1761781687
-    Price: €28.50 EUR
+    Price: €45.00 EUR
   - [2XL](https://nicosstore.store/products/crossover-leggings-with-pockets?variant=55770535428421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-crossover-leggings-with-pockets-white-front-2-68daccea7e0b8.jpg?v=1761781687
-    Price: €29.50 EUR
+    Price: €45.00 EUR
   - [3XL](https://nicosstore.store/products/crossover-leggings-with-pockets?variant=55770535461189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-crossover-leggings-with-pockets-white-front-2-68daccea7e0b8.jpg?v=1761781687
-    Price: €31.00 EUR
+    Price: €45.00 EUR
   - [4XL](https://nicosstore.store/products/crossover-leggings-with-pockets?variant=55770535493957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-crossover-leggings-with-pockets-white-front-2-68daccea7e0b8.jpg?v=1761781687
-    Price: €32.50 EUR
+    Price: €45.00 EUR
   - [5XL](https://nicosstore.store/products/crossover-leggings-with-pockets?variant=55770535526725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-crossover-leggings-with-pockets-white-front-2-68daccea7e0b8.jpg?v=1761781687
-    Price: €34.00 EUR
+    Price: €45.00 EUR
   - [6XL](https://nicosstore.store/products/crossover-leggings-with-pockets?variant=55770535559493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-crossover-leggings-with-pockets-white-front-2-68daccea7e0b8.jpg?v=1761781687
-    Price: €35.50 EUR
+    Price: €45.00 EUR
 - [Kids Leggings for Ultimate Comfort and Style](https://nicosstore.store/products/kids-leggings-for-ultimate-comfort-and-style): Kids Leggings for Ultimate Comfort and Style. Perfect for playtime or casual outings, these leggings will keep your little ones cozy all day long!
-  Updated: 2025-11-15T21:22:17Z
+  Updated: 2025-11-20T05:40:52Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -1114,33 +1114,33 @@
   - [2T](https://nicosstore.store/products/kids-leggings-for-ultimate-comfort-and-style?variant=55783294370117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-kids-leggings-white-left-front-68dc0b9213776.jpg?v=1761781846
-    Price: €17.50 EUR
+    Price: €27.50 EUR
   - [3T](https://nicosstore.store/products/kids-leggings-for-ultimate-comfort-and-style?variant=55783294402885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-kids-leggings-white-left-front-68dc0b9213776.jpg?v=1761781846
-    Price: €17.50 EUR
+    Price: €27.50 EUR
   - [4T](https://nicosstore.store/products/kids-leggings-for-ultimate-comfort-and-style?variant=55783294435653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-kids-leggings-white-left-front-68dc0b9213776.jpg?v=1761781846
-    Price: €17.50 EUR
+    Price: €27.50 EUR
   - [5T](https://nicosstore.store/products/kids-leggings-for-ultimate-comfort-and-style?variant=55783294468421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-kids-leggings-white-left-front-68dc0b9213776.jpg?v=1761781846
-    Price: €17.50 EUR
+    Price: €27.50 EUR
   - [6](https://nicosstore.store/products/kids-leggings-for-ultimate-comfort-and-style?variant=55783294501189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-kids-leggings-white-left-front-68dc0b9213776.jpg?v=1761781846
-    Price: €17.50 EUR
+    Price: €27.50 EUR
   - [6X](https://nicosstore.store/products/kids-leggings-for-ultimate-comfort-and-style?variant=55783294533957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-kids-leggings-white-left-front-68dc0b9213776.jpg?v=1761781846
-    Price: €17.50 EUR
+    Price: €27.50 EUR
   - [7](https://nicosstore.store/products/kids-leggings-for-ultimate-comfort-and-style?variant=55783294566725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-kids-leggings-white-left-front-68dc0b9213776.jpg?v=1761781846
-    Price: €17.50 EUR
+    Price: €27.50 EUR
 - [Youth Long Sleeve T-Shirt for Comfortable Everyday Wear](https://nicosstore.store/products/youth-long-sleeve-t-shirt-for-comfortable-everyday-wear): Youth Long Sleeve T-Shirt for Comfortable Everyday Wear. Perfect for comfortable everyday wear, it offers style and versatility for any occasion. Shop now!
-  Updated: 2025-11-15T21:22:48Z
+  Updated: 2025-11-20T05:40:38Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -1148,53 +1148,53 @@
   - [Navy / S](https://nicosstore.store/products/youth-long-sleeve-t-shirt-for-comfortable-everyday-wear?variant=55783334871365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-long-sleeve-tee-navy-front-68dc0e9949ae7.jpg?v=1761781939
-    Price: €20.50 EUR
+    Price: €30.50 EUR
   - [Navy / M](https://nicosstore.store/products/youth-long-sleeve-t-shirt-for-comfortable-everyday-wear?variant=55783334904133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-long-sleeve-tee-navy-front-68dc0e9949ae7.jpg?v=1761781939
-    Price: €20.50 EUR
+    Price: €30.50 EUR
   - [Navy / L](https://nicosstore.store/products/youth-long-sleeve-t-shirt-for-comfortable-everyday-wear?variant=55783334936901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-long-sleeve-tee-navy-front-68dc0e9949ae7.jpg?v=1761781939
-    Price: €20.50 EUR
+    Price: €30.50 EUR
   - [Red / S](https://nicosstore.store/products/youth-long-sleeve-t-shirt-for-comfortable-everyday-wear?variant=55783334969669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-long-sleeve-tee-red-front-68dc0e994a00d.jpg?v=1761782024
-    Price: €20.50 EUR
+    Price: €30.50 EUR
   - [Red / M](https://nicosstore.store/products/youth-long-sleeve-t-shirt-for-comfortable-everyday-wear?variant=55783335002437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-long-sleeve-tee-red-front-68dc0e994a00d.jpg?v=1761782024
-    Price: €20.50 EUR
+    Price: €30.50 EUR
   - [Red / L](https://nicosstore.store/products/youth-long-sleeve-t-shirt-for-comfortable-everyday-wear?variant=55783335035205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-long-sleeve-tee-red-front-68dc0e994a00d.jpg?v=1761782024
-    Price: €20.50 EUR
+    Price: €30.50 EUR
   - [Athletic Heather / S](https://nicosstore.store/products/youth-long-sleeve-t-shirt-for-comfortable-everyday-wear?variant=55783335067973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-long-sleeve-tee-athletic-heather-front-68dc0e994a898.jpg?v=1761782129
-    Price: €20.50 EUR
+    Price: €30.50 EUR
   - [Athletic Heather / M](https://nicosstore.store/products/youth-long-sleeve-t-shirt-for-comfortable-everyday-wear?variant=55783335100741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-long-sleeve-tee-athletic-heather-front-68dc0e994a898.jpg?v=1761782129
-    Price: €20.50 EUR
+    Price: €30.50 EUR
   - [Athletic Heather / L](https://nicosstore.store/products/youth-long-sleeve-t-shirt-for-comfortable-everyday-wear?variant=55783335133509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-long-sleeve-tee-athletic-heather-front-68dc0e994a898.jpg?v=1761782129
-    Price: €20.50 EUR
+    Price: €30.50 EUR
   - [White / S](https://nicosstore.store/products/youth-long-sleeve-t-shirt-for-comfortable-everyday-wear?variant=55783335166277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-long-sleeve-tee-white-front-68dc0e994bd01.jpg?v=1761782233
-    Price: €20.50 EUR
+    Price: €30.50 EUR
   - [White / M](https://nicosstore.store/products/youth-long-sleeve-t-shirt-for-comfortable-everyday-wear?variant=55783335199045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-long-sleeve-tee-white-front-68dc0e994bd01.jpg?v=1761782233
-    Price: €20.50 EUR
+    Price: €30.50 EUR
   - [White / L](https://nicosstore.store/products/youth-long-sleeve-t-shirt-for-comfortable-everyday-wear?variant=55783335231813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-long-sleeve-tee-white-front-68dc0e994bd01.jpg?v=1761782233
-    Price: €20.50 EUR
+    Price: €30.50 EUR
 - [Friendly Tote Bag for Sustainable and Everyday Use](https://nicosstore.store/products/friendly-tote-bag-for-sustainable-and-everyday-use): Friendly Tote Bag for Sustainable and Everyday Use. Durable, stylish, and planet-friendly, it's your go-to choice for reducing plastic waste!
-  Updated: 2025-11-15T21:22:53Z
+  Updated: 2025-11-19T21:27:27Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -1208,7 +1208,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/eco-tote-bag-oyster-front-68dc1533eff03.jpg?v=1761782366
     Price: €19.00 EUR
 - [Unisex Cyber Print Hoodie for Stylish Comfort](https://nicosstore.store/products/unisex-cyber-print-hoodie-for-stylish-comfort): Unisex Cyber Print Hoodie for Stylish Comfort. Enjoy stylish comfort for any occasion, blending trendy design with cozy warmth. Perfect for all genders!
-  Updated: 2025-11-15T21:23:01Z
+  Updated: 2025-11-19T21:27:27Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -1258,7 +1258,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-hoodie-white-right-68dc17208a943.jpg?v=1761782400
     Price: €45.00 EUR
 - [Men's Canvas Slip-On Shoes for Effortless Style and Comfort](https://nicosstore.store/products/mens-canvas-slip-on-shoes-for-effortless-style-and-comfort): Men's Canvas Slip-On Shoes for Effortless Style and Comfort. Perfect for effortless style and all-day comfort, these shoes are a must-have for any modern man.
-  Updated: 2025-11-15T21:23:13Z
+  Updated: 2025-11-19T21:27:27Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -1400,7 +1400,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/mens-slip-on-canvas-shoes-white-front-2-68dd5b36d03d0.jpg?v=1761782511
     Price: €44.00 EUR
 - [Women’s High Top Canvas Shoes - Essential Stylish Footwear for All](https://nicosstore.store/products/womens-high-top-canvas-shoes): Meta description: Discover the perfect blend of style and comfort with our Women’s high top canvas shoes. Essential for any wardrobe, these versatile shoes elevate your casual look effortlessly.
-  Updated: 2025-11-15T21:23:20Z
+  Updated: 2025-11-19T21:27:27Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -1466,7 +1466,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-high-top-canvas-shoes-white-front-68dd60016d24f.jpg?v=1761782668
     Price: €47.50 EUR
 - [Women's Leopard Lace-up Canvas Shoes for Stylish Comfort](https://nicosstore.store/products/womens-leopard-lace-up-canvas-shoes-for-stylish-comfort): Women's Leopard Lace-up Canvas Shoes for Stylish Comfort. Perfect for any outfit, these trendy women's leopard canvas shoes combine fashion and function.
-  Updated: 2025-11-15T21:23:28Z
+  Updated: 2025-11-19T21:27:28Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -1532,7 +1532,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-lace-up-canvas-shoes-white-front-68dd67cbeb1d9.jpg?v=1761782752
     Price: €50.00 EUR
 - [Unisex Optic Illusion Hoodie for Stylish Comfort](https://nicosstore.store/products/unisex-optic-illusion-hoodie-for-stylish-comfort): Unisex Optic Illusion Hoodie for Stylish Comfort. Experience ultimate comfort and a unique design that stands out. Shop now for a trendy look that fits all!
-  Updated: 2025-11-15T21:23:36Z
+  Updated: 2025-11-19T21:27:28Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -1582,7 +1582,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-hoodie-white-front-68dd6ca1f23da.jpg?v=1761782859
     Price: €45.00 EUR
 - [Women's Tribal Print T-Shirt - Stylish and Unique Design](https://nicosstore.store/products/womens-tribal-print-t-shirt-stylish-and-unique-design): Women's Tribal Print T-Shirt - Stylish and Unique Design. Featuring a stylish and unique design, this shirt is perfect for making a statement.
-  Updated: 2025-11-17T17:26:02Z
+  Updated: 2025-11-19T21:27:28Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -1590,29 +1590,29 @@
   - [XS](https://nicosstore.store/products/womens-tribal-print-t-shirt-stylish-and-unique-design?variant=55791994503493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-womens-crew-neck-t-shirt-white-front-68dd6f2887530.jpg?v=1761783035
-    Price: €23.99 EUR
+    Price: €30.99 EUR
   - [S](https://nicosstore.store/products/womens-tribal-print-t-shirt-stylish-and-unique-design?variant=55791994536261)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-womens-crew-neck-t-shirt-white-front-68dd6f2887530.jpg?v=1761783035
-    Price: €23.99 EUR
+    Price: €30.99 EUR
   - [M](https://nicosstore.store/products/womens-tribal-print-t-shirt-stylish-and-unique-design?variant=55791994569029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-womens-crew-neck-t-shirt-white-front-68dd6f2887530.jpg?v=1761783035
-    Price: €23.99 EUR
+    Price: €30.99 EUR
   - [L](https://nicosstore.store/products/womens-tribal-print-t-shirt-stylish-and-unique-design?variant=55791994601797)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-womens-crew-neck-t-shirt-white-front-68dd6f2887530.jpg?v=1761783035
-    Price: €23.99 EUR
+    Price: €30.99 EUR
   - [XL](https://nicosstore.store/products/womens-tribal-print-t-shirt-stylish-and-unique-design?variant=55791994634565)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-womens-crew-neck-t-shirt-white-front-68dd6f2887530.jpg?v=1761783035
-    Price: €23.99 EUR
+    Price: €30.99 EUR
   - [2XL](https://nicosstore.store/products/womens-tribal-print-t-shirt-stylish-and-unique-design?variant=55791994667333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-womens-crew-neck-t-shirt-white-front-68dd6f2887530.jpg?v=1761783035
-    Price: €25.49 EUR
+    Price: €30.99 EUR
 - [Unique Stylish & Comfortable Headwear](https://nicosstore.store/products/unique-stylish-comfortable-headwear): Unique Stylish & Comfortable Headwear option that combines comfort and flair. Perfect for any occasion, elevate your look today!
-  Updated: 2025-11-15T21:23:53Z
+  Updated: 2025-11-20T09:56:05Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -1620,17 +1620,17 @@
   - [S](https://nicosstore.store/products/unique-stylish-comfortable-headwear?variant=55792157917509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-beanie-white-right-front-68dd722ad4496.jpg?v=1761783086
-    Price: €14.49 EUR
+    Price: €20.00 EUR
   - [M](https://nicosstore.store/products/unique-stylish-comfortable-headwear?variant=55792157950277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-beanie-white-right-front-68dd722ad4496.jpg?v=1761783086
-    Price: €14.49 EUR
+    Price: €20.00 EUR
   - [L](https://nicosstore.store/products/unique-stylish-comfortable-headwear?variant=55792157983045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-beanie-white-right-front-68dd722ad4496.jpg?v=1761783086
-    Price: €14.49 EUR
+    Price: €20.00 EUR
 - [New design Unisex t-shirt essential](https://nicosstore.store/products/new-design-unisex-t-shirt): New design Unisex t-shirt , designed for comfort and versatility. Perfect for any occasion, this essential piece elevates your wardrobe.
-  Updated: 2025-11-15T21:24:04Z
+  Updated: 2025-11-19T21:27:28Z
   Vendor: Nico`s Store
   Product Type: T-Shirt
   Availability: Available
@@ -1638,81 +1638,81 @@
   - [Charity Pink / XS](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800924602693)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-charity-pink-front-68deb9813ca8f.jpg?v=1761783629
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Charity Pink / S](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800924635461)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-charity-pink-front-68deb9813ca8f.jpg?v=1761783629
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Charity Pink / M](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800924668229)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-charity-pink-front-68deb9813ca8f.jpg?v=1761783629
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Charity Pink / L](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800924700997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-charity-pink-front-68deb9813ca8f.jpg?v=1761783629
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Charity Pink / XL](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800924733765)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-charity-pink-front-68deb9813ca8f.jpg?v=1761783629
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Charity Pink / 2XL](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800924766533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-charity-pink-front-68deb9813ca8f.jpg?v=1761783629
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Turquoise / XS](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800924799301)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-turquoise-front-68deb9813ea14.jpg?v=1761783645
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Turquoise / S](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800924832069)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-turquoise-front-68deb9813ea14.jpg?v=1761783645
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Turquoise / M](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800924864837)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-turquoise-front-68deb9813ea14.jpg?v=1761783645
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Turquoise / L](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800924897605)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-turquoise-front-68deb9813ea14.jpg?v=1761783645
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Turquoise / XL](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800924930373)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-turquoise-front-68deb9813ea14.jpg?v=1761783645
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Turquoise / 2XL](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800924963141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-turquoise-front-68deb9813ea14.jpg?v=1761783645
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Solid White Blend / XS](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800924995909)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-solid-white-blend-front-68deb9811c3b5.jpg?v=1761783514
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Solid White Blend / S](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800925028677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-solid-white-blend-front-68deb9811c3b5.jpg?v=1761783514
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Solid White Blend / M](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800925061445)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-solid-white-blend-front-68deb9811c3b5.jpg?v=1761783514
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Solid White Blend / L](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800925094213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-solid-white-blend-front-68deb9811c3b5.jpg?v=1761783514
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Solid White Blend / XL](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800925126981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-solid-white-blend-front-68deb9811c3b5.jpg?v=1761783514
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Solid White Blend / 2XL](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800925159749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-solid-white-blend-front-68deb9811c3b5.jpg?v=1761783514
-    Price: €13.50 EUR
+    Price: €28.59 EUR
   - [Solid White Blend / 3XL](https://nicosstore.store/products/new-design-unisex-t-shirt?variant=55800925192517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/unisex-staple-t-shirt-solid-white-blend-front-68deb9811c3b5.jpg?v=1761783514
-    Price: €15.00 EUR
+    Price: €28.59 EUR
 - [Leopard Fleece Jacket - Stylish Zip Up Design](https://nicosstore.store/products/leopard-fleece-jacket-stylish-zip-up-design): Leopard Fleece Jacket - Stylish Zip Up Design. Featuring a trendy zip-up design, this soft jacket offers ultimate comfort and warmth for any occasion. Shop now!
-  Updated: 2025-11-17T07:00:38Z
+  Updated: 2025-11-20T02:20:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1734,7 +1734,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3ef299f16d854caab6343103d9c9dd52-Max-Origin.webp?v=1761783753
     Price: €44.22 EUR
 - [Camouflage Print Long Sleeve Top](https://nicosstore.store/products/camouflage-print-long-sleeve-top): Camouflage Print Long Sleeve Top. Featuring a trendy mesh design, this top is perfect for everyday wear. Shop now for a versatile wardrobe staple!
-  Updated: 2025-11-18T08:42:04Z
+  Updated: 2025-11-20T18:52:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1742,21 +1742,21 @@
   - [Green Camouflage / S](https://nicosstore.store/products/camouflage-print-long-sleeve-top?variant=55821785301317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/147b9c4aa0a94e2e80aecd4287964f75-Max-Origin.webp?v=1761783948
-    Price: €13.64 EUR
+    Price: €23.64 EUR
   - [Green Camouflage / M](https://nicosstore.store/products/camouflage-print-long-sleeve-top?variant=55821785334085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/147b9c4aa0a94e2e80aecd4287964f75-Max-Origin.webp?v=1761783948
-    Price: €13.64 EUR
+    Price: €23.64 EUR
   - [Green Camouflage / L](https://nicosstore.store/products/camouflage-print-long-sleeve-top?variant=55821785366853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/147b9c4aa0a94e2e80aecd4287964f75-Max-Origin.webp?v=1761783948
-    Price: €13.64 EUR
+    Price: €23.64 EUR
   - [Green Camouflage / XL](https://nicosstore.store/products/camouflage-print-long-sleeve-top?variant=55821785399621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/147b9c4aa0a94e2e80aecd4287964f75-Max-Origin.webp?v=1761783948
-    Price: €13.64 EUR
+    Price: €23.64 EUR
 - [High-Low Hoodie with Kangaroo Pocket](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket): High-Low Hoodie with Kangaroo Pocket. This trendy high-low hoodie combines comfort and fashion, perfect for any casual occasion. Shop now!
-  Updated: 2025-11-15T21:24:45Z
+  Updated: 2025-11-20T05:39:26Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1764,85 +1764,85 @@
   - [Apricot / S](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825549918533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/382938fba31448719b0d3aa690161de4-Max-Origin.webp?v=1761784114
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Apricot / M](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825549951301)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/382938fba31448719b0d3aa690161de4-Max-Origin.webp?v=1761784114
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Apricot / L](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825549984069)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/382938fba31448719b0d3aa690161de4-Max-Origin.webp?v=1761784114
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Apricot / XL](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825550016837)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/382938fba31448719b0d3aa690161de4-Max-Origin.webp?v=1761784114
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Apricot / 2XL](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825550049605)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/382938fba31448719b0d3aa690161de4-Max-Origin.webp?v=1761784114
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Black / S](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825550082373)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/143588110c8f4be4a4f6ac40312a619b-Max-Origin.webp?v=1761784166
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Black / M](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825550115141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/143588110c8f4be4a4f6ac40312a619b-Max-Origin.webp?v=1761784166
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Black / L](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825550147909)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/143588110c8f4be4a4f6ac40312a619b-Max-Origin.webp?v=1761784166
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Black / XL](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825550180677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/143588110c8f4be4a4f6ac40312a619b-Max-Origin.webp?v=1761784166
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Black / 2XL](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825550213445)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/143588110c8f4be4a4f6ac40312a619b-Max-Origin.webp?v=1761784166
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Brown / S](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825550246213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2fce54b7d8974f5ebf1d8fc14427e555-Max-Origin.webp?v=1761784237
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Brown / M](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825550278981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2fce54b7d8974f5ebf1d8fc14427e555-Max-Origin.webp?v=1761784237
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Brown / L](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825550311749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2fce54b7d8974f5ebf1d8fc14427e555-Max-Origin.webp?v=1761784237
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Brown / XL](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825550344517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2fce54b7d8974f5ebf1d8fc14427e555-Max-Origin.webp?v=1761784237
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Brown / 2XL](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825550377285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2fce54b7d8974f5ebf1d8fc14427e555-Max-Origin.webp?v=1761784237
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Gray / S](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825550410053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cad51d2329e343fd845d669cb8a8c67f-Max-Origin.webp?v=1761784291
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Gray / M](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825550442821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cad51d2329e343fd845d669cb8a8c67f-Max-Origin.webp?v=1761784291
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Gray / L](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825550475589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cad51d2329e343fd845d669cb8a8c67f-Max-Origin.webp?v=1761784291
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Gray / XL](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825550508357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cad51d2329e343fd845d669cb8a8c67f-Max-Origin.webp?v=1761784291
-    Price: €27.72 EUR
+    Price: €32.72 EUR
   - [Gray / 2XL](https://nicosstore.store/products/high-low-hoodie-with-kangaroo-pocket?variant=55825550541125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cad51d2329e343fd845d669cb8a8c67f-Max-Origin.webp?v=1761784291
-    Price: €27.72 EUR
+    Price: €32.72 EUR
 - [Cozy Oversized Hooded Jacket for Ultimate Comfort and Style](https://nicosstore.store/products/cozy-oversized-hooded-jacket-for-ultimate-comfort-and-style): Cozy Oversized Hooded Jacket for Ultimate Comfort and Style. Perfect for ultimate comfort, this jacket is your go-to for chilly days.
-  Updated: 2025-11-15T21:24:49Z
+  Updated: 2025-11-19T21:27:29Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1868,7 +1868,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4cda634d6b7a46f1aac1e82e25cc93af-Max-Origin.webp?v=1761784338
     Price: €35.22 EUR
 - [Floral Mock Neck Top - Long Sleeve Style](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style): Floral Mock Neck Top - Long Sleeve Style . This long sleeve style combines comfort and effortless elegance, perfect for any occasion. Shop now
-  Updated: 2025-11-15T21:25:29Z
+  Updated: 2025-11-20T18:24:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1876,125 +1876,125 @@
   - [Light Indigo / S](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555390789)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/be5235d8-c1e3-4d6d-aec6-7b301a8d51fd-Max-Origin.webp?v=1761784396
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Light Indigo / M](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555423557)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/be5235d8-c1e3-4d6d-aec6-7b301a8d51fd-Max-Origin.webp?v=1761784396
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Light Indigo / L](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555456325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/be5235d8-c1e3-4d6d-aec6-7b301a8d51fd-Max-Origin.webp?v=1761784396
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Light Indigo / XL](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555489093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/be5235d8-c1e3-4d6d-aec6-7b301a8d51fd-Max-Origin.webp?v=1761784396
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Light Indigo / 2XL](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555521861)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/be5235d8-c1e3-4d6d-aec6-7b301a8d51fd-Max-Origin.webp?v=1761784396
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Blush Pink / S](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555554629)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8f4a7b8e-3cf4-4872-9a87-a130d8067145-Max-Origin.webp?v=1761784489
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Blush Pink / M](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555587397)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8f4a7b8e-3cf4-4872-9a87-a130d8067145-Max-Origin.webp?v=1761784489
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Blush Pink / L](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555620165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8f4a7b8e-3cf4-4872-9a87-a130d8067145-Max-Origin.webp?v=1761784489
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Blush Pink / XL](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555652933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8f4a7b8e-3cf4-4872-9a87-a130d8067145-Max-Origin.webp?v=1761784489
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Blush Pink / 2XL](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555685701)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8f4a7b8e-3cf4-4872-9a87-a130d8067145-Max-Origin.webp?v=1761784489
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Teal / S](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555718469)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/092778cc-e791-4384-9990-3e991f6e084f-Max-Origin.webp?v=1761784600
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Teal / M](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555751237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/092778cc-e791-4384-9990-3e991f6e084f-Max-Origin.webp?v=1761784600
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Teal / L](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555784005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/092778cc-e791-4384-9990-3e991f6e084f-Max-Origin.webp?v=1761784600
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Teal / XL](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555816773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/092778cc-e791-4384-9990-3e991f6e084f-Max-Origin.webp?v=1761784600
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Teal / 2XL](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555849541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/092778cc-e791-4384-9990-3e991f6e084f-Max-Origin.webp?v=1761784600
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Caramel / S](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555882309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feac6875-207b-47c1-8dbb-42b65b13bb2e-Max-Origin.webp?v=1761784709
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Caramel / M](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555915077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feac6875-207b-47c1-8dbb-42b65b13bb2e-Max-Origin.webp?v=1761784709
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Caramel / L](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555947845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feac6875-207b-47c1-8dbb-42b65b13bb2e-Max-Origin.webp?v=1761784709
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Caramel / XL](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825555980613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feac6875-207b-47c1-8dbb-42b65b13bb2e-Max-Origin.webp?v=1761784709
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Caramel / 2XL](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825556013381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feac6875-207b-47c1-8dbb-42b65b13bb2e-Max-Origin.webp?v=1761784709
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Leopard / S](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825556046149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/00c9998c-73fb-4f94-af9e-3ed62c1b9b25-Max-Origin.webp?v=1761784809
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Leopard / M](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825556078917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/00c9998c-73fb-4f94-af9e-3ed62c1b9b25-Max-Origin.webp?v=1761784809
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Leopard / L](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825556111685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/00c9998c-73fb-4f94-af9e-3ed62c1b9b25-Max-Origin.webp?v=1761784809
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Leopard / XL](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825556144453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/00c9998c-73fb-4f94-af9e-3ed62c1b9b25-Max-Origin.webp?v=1761784809
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Leopard / 2XL](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825556177221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/00c9998c-73fb-4f94-af9e-3ed62c1b9b25-Max-Origin.webp?v=1761784809
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Black / S](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825556209989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/292211b4-e7f5-4bf2-8f22-ab00407f6fec-Max-Origin.webp?v=1761784947
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Black / M](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825556242757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/292211b4-e7f5-4bf2-8f22-ab00407f6fec-Max-Origin.webp?v=1761784947
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Black / L](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825556275525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/292211b4-e7f5-4bf2-8f22-ab00407f6fec-Max-Origin.webp?v=1761784947
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Black / XL](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825556308293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/292211b4-e7f5-4bf2-8f22-ab00407f6fec-Max-Origin.webp?v=1761784947
-    Price: €14.16 EUR
+    Price: €24.16 EUR
   - [Black / 2XL](https://nicosstore.store/products/floral-mock-neck-top-long-sleeve-style?variant=55825556341061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/292211b4-e7f5-4bf2-8f22-ab00407f6fec-Max-Origin.webp?v=1761784947
-    Price: €14.16 EUR
+    Price: €24.16 EUR
 - [Waffle Knit Round Neck Top for Effortless Comfort](https://nicosstore.store/products/waffle-knit-round-neck-top-for-effortless-comfort): Waffle Knit Round Neck Top for Effortless Comfort . Effortlessly stylish and comfortable, this top is perfect for any occasion.
-  Updated: 2025-11-15T21:25:43Z
+  Updated: 2025-11-20T05:38:48Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2002,65 +2002,65 @@
   - [Yellow / S](https://nicosstore.store/products/waffle-knit-round-neck-top-for-effortless-comfort?variant=55825740595525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/defaf198f48a4ba388c94fb78fcaa723-Max-Origin.webp?v=1761785008
-    Price: €22.42 EUR
+    Price: €28.42 EUR
   - [Yellow / M](https://nicosstore.store/products/waffle-knit-round-neck-top-for-effortless-comfort?variant=55825740628293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/defaf198f48a4ba388c94fb78fcaa723-Max-Origin.webp?v=1761785008
-    Price: €22.42 EUR
+    Price: €28.42 EUR
   - [Yellow / L](https://nicosstore.store/products/waffle-knit-round-neck-top-for-effortless-comfort?variant=55825740661061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/defaf198f48a4ba388c94fb78fcaa723-Max-Origin.webp?v=1761785008
-    Price: €22.42 EUR
+    Price: €28.42 EUR
   - [Yellow / XL](https://nicosstore.store/products/waffle-knit-round-neck-top-for-effortless-comfort?variant=55825740693829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/defaf198f48a4ba388c94fb78fcaa723-Max-Origin.webp?v=1761785008
-    Price: €22.42 EUR
+    Price: €28.42 EUR
   - [Yellow / 2XL](https://nicosstore.store/products/waffle-knit-round-neck-top-for-effortless-comfort?variant=55825740726597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/defaf198f48a4ba388c94fb78fcaa723-Max-Origin.webp?v=1761785008
-    Price: €22.42 EUR
+    Price: €28.42 EUR
   - [Burgundy / S](https://nicosstore.store/products/waffle-knit-round-neck-top-for-effortless-comfort?variant=55825740759365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a13f42322a7b4bf9ac16a9b192533d5d-Max-Origin.webp?v=1761785115
-    Price: €22.42 EUR
+    Price: €28.42 EUR
   - [Burgundy / M](https://nicosstore.store/products/waffle-knit-round-neck-top-for-effortless-comfort?variant=55825740792133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a13f42322a7b4bf9ac16a9b192533d5d-Max-Origin.webp?v=1761785115
-    Price: €22.42 EUR
+    Price: €28.42 EUR
   - [Burgundy / L](https://nicosstore.store/products/waffle-knit-round-neck-top-for-effortless-comfort?variant=55825740824901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a13f42322a7b4bf9ac16a9b192533d5d-Max-Origin.webp?v=1761785115
-    Price: €22.42 EUR
+    Price: €28.42 EUR
   - [Burgundy / XL](https://nicosstore.store/products/waffle-knit-round-neck-top-for-effortless-comfort?variant=55825740857669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a13f42322a7b4bf9ac16a9b192533d5d-Max-Origin.webp?v=1761785115
-    Price: €22.42 EUR
+    Price: €28.42 EUR
   - [Burgundy / 2XL](https://nicosstore.store/products/waffle-knit-round-neck-top-for-effortless-comfort?variant=55825740890437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a13f42322a7b4bf9ac16a9b192533d5d-Max-Origin.webp?v=1761785115
-    Price: €22.42 EUR
+    Price: €28.42 EUR
   - [Aqua / S](https://nicosstore.store/products/waffle-knit-round-neck-top-for-effortless-comfort?variant=55825740923205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8b9b3da06fef4ffa8d8fc8c266aad154-Max-Origin.webp?v=1761785133
-    Price: €22.42 EUR
+    Price: €28.42 EUR
   - [Aqua / M](https://nicosstore.store/products/waffle-knit-round-neck-top-for-effortless-comfort?variant=55825740955973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8b9b3da06fef4ffa8d8fc8c266aad154-Max-Origin.webp?v=1761785133
-    Price: €22.42 EUR
+    Price: €28.42 EUR
   - [Aqua / L](https://nicosstore.store/products/waffle-knit-round-neck-top-for-effortless-comfort?variant=55825740988741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8b9b3da06fef4ffa8d8fc8c266aad154-Max-Origin.webp?v=1761785133
-    Price: €22.42 EUR
+    Price: €28.42 EUR
   - [Aqua / XL](https://nicosstore.store/products/waffle-knit-round-neck-top-for-effortless-comfort?variant=55825741021509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8b9b3da06fef4ffa8d8fc8c266aad154-Max-Origin.webp?v=1761785133
-    Price: €22.42 EUR
+    Price: €28.42 EUR
   - [Aqua / 2XL](https://nicosstore.store/products/waffle-knit-round-neck-top-for-effortless-comfort?variant=55825741054277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8b9b3da06fef4ffa8d8fc8c266aad154-Max-Origin.webp?v=1761785133
-    Price: €22.42 EUR
+    Price: €28.42 EUR
 - [Drawstring Wide Leg Pants with Pockets](https://nicosstore.store/products/drawstring-wide-leg-pants-with-pockets): Drawstring Wide Leg Pants with Pockets! Perfect for comfort and versatility, these pants are essential for any wardrobe. Elevate your look today!
-  Updated: 2025-11-18T08:01:31Z
+  Updated: 2025-11-20T08:50:43Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2110,7 +2110,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/44272cb6304f423388228a3c2e1f6c13-Max.jpg?v=1761785344
     Price: €41.75 EUR
   - [Black / XL](https://nicosstore.store/products/drawstring-wide-leg-pants-with-pockets?variant=55825743905093)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/44272cb6304f423388228a3c2e1f6c13-Max.jpg?v=1761785344
     Price: €41.75 EUR
   - [French Blue / S](https://nicosstore.store/products/drawstring-wide-leg-pants-with-pockets?variant=55825743937861)
@@ -2178,7 +2178,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b0ddb2e7c75941d18f1fa6397bd60dcf-Max.jpg?v=1761785626
     Price: €41.75 EUR
 - [Quality Bow Print Shoulder Bag](https://nicosstore.store/products/quality-bow-print-shoulder-bag): Quality Bow Print Shoulder Bag. This chic and versatile accessory combines fashion and function, making it the perfect addition to any outfit. Shop now!
-  Updated: 2025-11-15T21:26:24Z
+  Updated: 2025-11-20T05:38:22Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2186,13 +2186,13 @@
   - [White / One Size](https://nicosstore.store/products/quality-bow-print-shoulder-bag?variant=55825746395461)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3f2f72d7-545d-48ff-89e8-3ce44cbbd237-Max-Origin.webp?v=1761785717
-    Price: €11.40 EUR
+    Price: €21.40 EUR
   - [Blue / One Size](https://nicosstore.store/products/quality-bow-print-shoulder-bag?variant=55825746428229)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6073f04e-284f-4395-a61a-6f693d3e6565-Max-Origin.webp?v=1761785772
-    Price: €11.40 EUR
+    Price: €21.40 EUR
 - [Leopard Furry Jacket with Zip Up Long Sleeves](https://nicosstore.store/products/leopard-furry-jacket-with-zip-up-long-sleeves): Leopard Furry Jacket with Zip Up Long Sleeves. This stylish zip-up jacket features long sleeves and a trendy leopard print, perfect for any occasion.
-  Updated: 2025-11-15T21:26:30Z
+  Updated: 2025-11-20T05:38:07Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2200,25 +2200,25 @@
   - [Blush Pink / S](https://nicosstore.store/products/leopard-furry-jacket-with-zip-up-long-sleeves?variant=55825894441285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9ba22ea1-9c50-4ae4-a4dd-6c37c944714d-Max.webp?v=1761785789
-    Price: €29.44 EUR
+    Price: €39.44 EUR
   - [Blush Pink / M](https://nicosstore.store/products/leopard-furry-jacket-with-zip-up-long-sleeves?variant=55825894474053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9ba22ea1-9c50-4ae4-a4dd-6c37c944714d-Max.webp?v=1761785789
-    Price: €29.44 EUR
+    Price: €39.44 EUR
   - [Blush Pink / L](https://nicosstore.store/products/leopard-furry-jacket-with-zip-up-long-sleeves?variant=55825894506821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9ba22ea1-9c50-4ae4-a4dd-6c37c944714d-Max.webp?v=1761785789
-    Price: €29.44 EUR
+    Price: €39.44 EUR
   - [Blush Pink / XL](https://nicosstore.store/products/leopard-furry-jacket-with-zip-up-long-sleeves?variant=55825894539589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9ba22ea1-9c50-4ae4-a4dd-6c37c944714d-Max.webp?v=1761785789
-    Price: €29.44 EUR
+    Price: €39.44 EUR
   - [Blush Pink / 2XL](https://nicosstore.store/products/leopard-furry-jacket-with-zip-up-long-sleeves?variant=55825894572357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9ba22ea1-9c50-4ae4-a4dd-6c37c944714d-Max.webp?v=1761785789
-    Price: €29.44 EUR
+    Price: €39.44 EUR
 - [Leopard Hoodie for Women Long Sleeve](https://nicosstore.store/products/leopard-hoodie-for-women-long-sleeve): Leopard Hoodie for Women Long Sleeve . Featuring a half button long sleeve design, this trendy hoodie is perfect for casual outings. Shop now!
-  Updated: 2025-11-15T21:26:34Z
+  Updated: 2025-11-20T06:01:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2240,7 +2240,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/43b285e2-1149-4a98-8863-897c6119b5bf-Max.webp?v=1761785882
     Price: €23.65 EUR
 - [Cable-Knit Cap Sleeve Sweater full size](https://nicosstore.store/products/cable-knit-cap-sleeve-sweater): Cable-Knit Cap Sleeve Sweater. Featuring a double take full-size round neck design, it's perfect for any occasion. Shop now for comfort and elegance!
-  Updated: 2025-11-15T21:27:17Z
+  Updated: 2025-11-19T21:27:31Z
   Vendor: Trendsi
   Product Type: Sweatshirt
   Availability: Available
@@ -2366,7 +2366,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/976b66c0-03a7-4198-ac1d-531adbfd2b7d-Max.webp?v=1761786416
     Price: €21.32 EUR
 - [Pima Cotton Long Sleeve T-Shirt with Exposed Seam](https://nicosstore.store/products/pima-cotton-long-sleeve-t-shirt-with-exposed-seam): Pima Cotton Long Sleeve T-Shirt with Exposed Seam. Perfect blend of comfort and style for your wardrobe. Shop now!
-  Updated: 2025-11-15T21:27:22Z
+  Updated: 2025-11-19T21:27:31Z
   Vendor: Trendsi
   Product Type: Sweatshirt
   Availability: Available
@@ -2388,7 +2388,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/029fb0d8-97a9-44ea-a675-8ebf4e5f1fc8-Max.webp?v=1761786502
     Price: €37.03 EUR
 - [Cotton Striped Long Sleeve Top with Collared Neck](https://nicosstore.store/products/cotton-striped-long-sleeve-top-with-collared-neck): Cotton Striped Long Sleeve Top with Collared Neck. Featuring a stylish collared neck and wide stripes, this top is perfect for any casual outing.
-  Updated: 2025-11-15T21:27:27Z
+  Updated: 2025-11-19T21:27:31Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2410,7 +2410,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c93dea16-102f-4c71-b2c7-2818ac87c2ca-Max.webp?v=1761786573
     Price: €36.84 EUR
 - [Zip Up Long Sleeve Set with Pants](https://nicosstore.store/products/zip-up-long-sleeve-set-with-pants): Zip Up Long Sleeve Set with Pants . This stylish and comfortable apparel includes pants for versatile looks. Perfect for any occasion, shop now!
-  Updated: 2025-11-15T21:27:32Z
+  Updated: 2025-11-19T21:27:31Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2432,7 +2432,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/71e61ef1-8138-41a2-8a10-de146f7999a0-Max-Origin.webp?v=1761786647
     Price: €44.63 EUR
 - [Double Take Fleece Hoodie full size](https://nicosstore.store/products/double-take-fleece-hoodie-full-size): Double Take Fleece Hoodie full size features an exposed seam design for a trendy look. Perfect for all occasions!
-  Updated: 2025-11-15T21:27:37Z
+  Updated: 2025-11-19T21:27:31Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2486,7 +2486,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9cdec346-8f02-4bee-b8c1-7a83e62b1b86-Max.webp?v=1761786772
     Price: €32.26 EUR
 - [Textured Long Sleeve Sweatshirt for Ultimate Comfort](https://nicosstore.store/products/textured-long-sleeve-sweatshirt-for-ultimate-comfort): Textured Long Sleeve Sweatshirt for Ultimate Comfort.Perfect for any occasion, this must-have piece will elevate your wardrobe effortlessly.
-  Updated: 2025-11-15T21:27:42Z
+  Updated: 2025-11-19T21:27:32Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2512,7 +2512,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/69970997521447278c9cdd284b7e91a1-Max-Origin.webp?v=1761786810
     Price: €26.12 EUR
 - [Lace Detail Long Sleeve Hoodie with Drawstring](https://nicosstore.store/products/lace-detail-long-sleeve-hoodie-with-drawstring): Lace Detail Long Sleeve Hoodie with Drawstring. This trendy piece features a chic drawstring and delicate lace accents, perfect for casual or cozy outings.
-  Updated: 2025-11-18T17:00:42Z
+  Updated: 2025-11-20T20:40:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2530,7 +2530,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2cafd15c-e9df-4764-9221-ceb0aea190c2-Max-Origin.webp?v=1761786885
     Price: €32.90 EUR
 - [High-Waisted Distressed Skinny Jeans](https://nicosstore.store/products/high-waisted-distressed-skinny-jeans): High-Waisted Distressed Skinny Jeans. Perfectly blending comfort and trend, these jeans are a must-have for your wardrobe. Shop now for a chic look!
-  Updated: 2025-11-15T21:27:57Z
+  Updated: 2025-11-19T21:27:32Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2552,7 +2552,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/255541427cc1417d84feed53feb8ef61-Max-Origin.webp?v=1761786989
     Price: €39.07 EUR
 - [Men's Slim Fit Distressed Jeans](https://nicosstore.store/products/mens-slim-fit-distressed-jeans): Men's Slim Fit Distressed Jeans . Perfect for any occasion, these jeans combine a trendy look with ultimate comfort. Elevate your wardrobe today!
-  Updated: 2025-11-15T21:28:03Z
+  Updated: 2025-11-19T21:27:32Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2578,7 +2578,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/967739d56efe4b268af11b2b4fa58c07-Max-Origin.webp?v=1761787120
     Price: €49.79 EUR
 - [Heart Print Lounge Set - Button Up Top and Pants](https://nicosstore.store/products/heart-print-lounge-set-button-up-top-and-pants): Heart Print Lounge Set - Button Up Top and Pants. Perfect for relaxation, this set combines style and comfort for your downtime. Shop now!
-  Updated: 2025-11-15T21:28:09Z
+  Updated: 2025-11-19T21:27:32Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2604,7 +2604,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d3875cfc-aabb-4ff0-95c6-fc6ccd88cb83-Max-Origin.webp?v=1761787211
     Price: €44.76 EUR
 - [Open Front Longline Cardigan with Side Pockets](https://nicosstore.store/products/open-front-longline-cardigan-with-side-pockets): Open Front Longline Cardigan with Side Pockets. Featuring side pockets, this versatile piece is perfect for layering. Shop now for comfort and chic appeal!
-  Updated: 2025-11-15T21:28:28Z
+  Updated: 2025-11-19T21:27:32Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2689,52 +2689,108 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4ba2c43e913640809642e8eec8fb59e6-Max-Origin.webp?v=1761787477
     Price: €26.70 EUR
+- [Autumn Winter Hoodie Dress for Women](https://nicosstore.store/products/autumn-winter-hoodie-dress-for-women): Autumn Winter Hoodie Dress for Women. Long-sleeved and exceptionally comfortable, it's perfect for your fall and winter wardrobe!
+  Updated: 2025-11-20T18:43:09Z
+  Vendor: Nico`s Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/PNlMKBfXyFwafyLe.webp?v=1761787528
+  - [Red / 2XL](https://nicosstore.store/products/autumn-winter-hoodie-dress-for-women?variant=55839786041669)
+    Availability: Available
+    Price: €30.99 EUR
+  - [Red / L](https://nicosstore.store/products/autumn-winter-hoodie-dress-for-women?variant=55839786074437)
+    Availability: Available
+    Price: €30.99 EUR
+  - [Red / M](https://nicosstore.store/products/autumn-winter-hoodie-dress-for-women?variant=55839786107205)
+    Availability: Available
+    Price: €30.99 EUR
+  - [Red / S](https://nicosstore.store/products/autumn-winter-hoodie-dress-for-women?variant=55839786139973)
+    Availability: Available
+    Price: €30.99 EUR
+  - [Red / XL](https://nicosstore.store/products/autumn-winter-hoodie-dress-for-women?variant=55839786172741)
+    Availability: Available
+    Price: €30.99 EUR
+  - [Black / 2XL](https://nicosstore.store/products/autumn-winter-hoodie-dress-for-women?variant=55839786205509)
+    Availability: Available
+    Price: €30.99 EUR
+  - [Black / L](https://nicosstore.store/products/autumn-winter-hoodie-dress-for-women?variant=55839786238277)
+    Availability: Available
+    Price: €30.99 EUR
+  - [Black / M](https://nicosstore.store/products/autumn-winter-hoodie-dress-for-women?variant=55839786271045)
+    Availability: Available
+    Price: €30.99 EUR
+  - [Black / S](https://nicosstore.store/products/autumn-winter-hoodie-dress-for-women?variant=55839786303813)
+    Availability: Available
+    Price: €30.99 EUR
+  - [Black / XL](https://nicosstore.store/products/autumn-winter-hoodie-dress-for-women?variant=55839786336581)
+    Availability: Available
+    Price: €30.99 EUR
+  - [Grey / 2XL](https://nicosstore.store/products/autumn-winter-hoodie-dress-for-women?variant=55839786369349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/PNlMKBfXyFwafyLe.webp?v=1761787528
+    Price: €30.99 EUR
+  - [Grey / L](https://nicosstore.store/products/autumn-winter-hoodie-dress-for-women?variant=55839786402117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/MRUTbIy1FCbN1xjX.webp?v=1761787563
+    Price: €30.99 EUR
+  - [Grey / M](https://nicosstore.store/products/autumn-winter-hoodie-dress-for-women?variant=55839786434885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6iUwOJpvaXDeUprk.webp?v=1761787614
+    Price: €30.99 EUR
+  - [Grey / S](https://nicosstore.store/products/autumn-winter-hoodie-dress-for-women?variant=55839786467653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/X01mVhzM6RSje5rn.webp?v=1761787595
+    Price: €30.99 EUR
+  - [Grey / XL](https://nicosstore.store/products/autumn-winter-hoodie-dress-for-women?variant=55839786500421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/pZkYYfTfygEQYem9.webp?v=1761787547
+    Price: €30.99 EUR
 - [Cute Bear Plush Winter Slippers for Home Warmth](https://nicosstore.store/products/cute-bear-plush-winter-slippers-for-home-warmth): Cute Bear Plush Winter Slippers for Home Warmth! Ideal for home warmth, these bear plush winter slippers are perfect for chilly days. Treat yourself today!
-  Updated: 2025-11-15T21:28:47Z
+  Updated: 2025-11-19T21:27:32Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/Sh7PD0KLsiQR9lbx.webp?v=1761787632
   - [White / 42to43](https://nicosstore.store/products/cute-bear-plush-winter-slippers-for-home-warmth?variant=55839798198597)
     Availability: Available
-    Price: €19.99 EUR
+    Price: €30.00 EUR
   - [White / 44to45](https://nicosstore.store/products/cute-bear-plush-winter-slippers-for-home-warmth?variant=55839798231365)
     Availability: Available
-    Price: €19.99 EUR
+    Price: €30.00 EUR
   - [Brown / 36to37](https://nicosstore.store/products/cute-bear-plush-winter-slippers-for-home-warmth?variant=55839798264133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/Sh7PD0KLsiQR9lbx.webp?v=1761787632
-    Price: €20.99 EUR
+    Price: €30.00 EUR
   - [Brown / 38to39](https://nicosstore.store/products/cute-bear-plush-winter-slippers-for-home-warmth?variant=55839798296901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8orxt8gEIZfIuDic.webp?v=1761787703
-    Price: €20.99 EUR
+    Price: €30.00 EUR
   - [White / 40to41](https://nicosstore.store/products/cute-bear-plush-winter-slippers-for-home-warmth?variant=55839798329669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ITQ1SlKlcS3yByhG.webp?v=1761787721
-    Price: €19.99 EUR
+    Price: €30.00 EUR
   - [White / 38to39](https://nicosstore.store/products/cute-bear-plush-winter-slippers-for-home-warmth?variant=55839798362437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/sgIY0dnIuCU3VS0t.webp?v=1761787668
-    Price: €19.99 EUR
+    Price: €30.00 EUR
   - [White / 36to37](https://nicosstore.store/products/cute-bear-plush-winter-slippers-for-home-warmth?variant=55839798395205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/KqbqJHM0DjoM4h1o.webp?v=1761787774
-    Price: €19.99 EUR
+    Price: €30.00 EUR
   - [Brown / 40to41](https://nicosstore.store/products/cute-bear-plush-winter-slippers-for-home-warmth?variant=55839798427973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/eOSRBqu5eGucpSTN.webp?v=1761787685
-    Price: €20.99 EUR
+    Price: €30.00 EUR
   - [Brown / 42to43](https://nicosstore.store/products/cute-bear-plush-winter-slippers-for-home-warmth?variant=55839798460741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/DHRrO9FuEmolCgbl.webp?v=1761787757
-    Price: €20.99 EUR
+    Price: €30.00 EUR
   - [Brown / 44to45](https://nicosstore.store/products/cute-bear-plush-winter-slippers-for-home-warmth?variant=55839798493509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/oSvYUgNGduHlt5vf.webp?v=1761787651
-    Price: €20.99 EUR
+    Price: €30.00 EUR
 - [Casual Plaid Women's Jacket with Pockets](https://nicosstore.store/products/casual-plaid-womens-jacket-with-pockets-for-fall-winter): Casual Plaid Women's Jacket with Pockets . Featuring cozy pockets and a stylish design, it's perfect for layering and staying warm. Shop now!
-  Updated: 2025-11-15T21:29:16Z
+  Updated: 2025-11-19T21:27:32Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -2742,67 +2798,67 @@
   - [Khaki / S(4)](https://nicosstore.store/products/casual-plaid-womens-jacket-with-pockets-for-fall-winter?variant=55840092815685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6THiqpDLWHkXBygN.webp?v=1761787792
-    Price: €21.49 EUR
+    Price: €39.44 EUR
   - [coffee / S(4)](https://nicosstore.store/products/casual-plaid-womens-jacket-with-pockets-for-fall-winter?variant=55840092848453)
     Availability: Available
-    Price: €21.49 EUR
+    Price: €39.44 EUR
   - [coffee / M(6)](https://nicosstore.store/products/casual-plaid-womens-jacket-with-pockets-for-fall-winter?variant=55840092881221)
     Availability: Available
-    Price: €21.48 EUR
+    Price: €39.44 EUR
   - [coffee / L(8/10)](https://nicosstore.store/products/casual-plaid-womens-jacket-with-pockets-for-fall-winter?variant=55840092913989)
     Availability: Available
-    Price: €21.49 EUR
+    Price: €39.44 EUR
   - [coffee / XL(12)](https://nicosstore.store/products/casual-plaid-womens-jacket-with-pockets-for-fall-winter?variant=55840092946757)
     Availability: Available
-    Price: €21.49 EUR
+    Price: €39.44 EUR
   - [coffee / XXL(14)](https://nicosstore.store/products/casual-plaid-womens-jacket-with-pockets-for-fall-winter?variant=55840092979525)
     Availability: Available
-    Price: €21.49 EUR
+    Price: €39.44 EUR
   - [Black / M(6)](https://nicosstore.store/products/casual-plaid-womens-jacket-with-pockets-for-fall-winter?variant=55840093012293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/CjN2j16wQx5xwQvU.webp?v=1761787897
-    Price: €21.49 EUR
+    Price: €39.44 EUR
   - [Black / L(8/10)](https://nicosstore.store/products/casual-plaid-womens-jacket-with-pockets-for-fall-winter?variant=55840093045061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9xu5yvgRpeQtlt3R.webp?v=1761787880
-    Price: €21.49 EUR
+    Price: €39.44 EUR
   - [Khaki / L(8/10)](https://nicosstore.store/products/casual-plaid-womens-jacket-with-pockets-for-fall-winter?variant=55840093077829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/maKmwz49IkWqFrvm.webp?v=1761787861
-    Price: €21.49 EUR
+    Price: €39.44 EUR
   - [Khaki / XL(12)](https://nicosstore.store/products/casual-plaid-womens-jacket-with-pockets-for-fall-winter?variant=55840093110597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/vqVMYWrQlzqgYT6P.webp?v=1761787809
-    Price: €21.49 EUR
+    Price: €39.44 EUR
   - [Khaki / XXL(14)](https://nicosstore.store/products/casual-plaid-womens-jacket-with-pockets-for-fall-winter?variant=55840093143365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/r70b9ZWrkfR8eq0Q.webp?v=1761788155
-    Price: €21.49 EUR
+    Price: €39.44 EUR
   - [Black / XXL(14)](https://nicosstore.store/products/casual-plaid-womens-jacket-with-pockets-for-fall-winter?variant=55840093176133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/EB0E6UrukJHpk34Q.webp?v=1761787828
-    Price: €21.49 EUR
+    Price: €39.44 EUR
   - [Black / S(4)](https://nicosstore.store/products/casual-plaid-womens-jacket-with-pockets-for-fall-winter?variant=55840093208901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/LrcVQSbz1nL8Y3Bx.webp?v=1761787844
-    Price: €21.49 EUR
+    Price: €39.44 EUR
   - [Khaki / M(6)](https://nicosstore.store/products/casual-plaid-womens-jacket-with-pockets-for-fall-winter?variant=55840093241669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/wS1ZBgxEFy0QLn4i.webp?v=1761787913
-    Price: €21.49 EUR
+    Price: €39.44 EUR
   - [Black / XL(12)](https://nicosstore.store/products/casual-plaid-womens-jacket-with-pockets-for-fall-winter?variant=55840093274437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/wt3InKIzSRfPqPVB.webp?v=1761787967
-    Price: €21.49 EUR
+    Price: €39.44 EUR
 - [Anti-Shedding Hair Mask for Frizz Control](https://nicosstore.store/products/anti-shedding-hair-mask-for-frizz-control): Anti-Shedding Hair Mask for Frizz Control . Designed for frizz control and ultimate smoothness, this mask nourishes and strengthens every strand.
-  Updated: 2025-11-15T21:29:24Z
+  Updated: 2025-11-19T21:27:32Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/DYRp3HelGSih6QGq.webp?v=1761788171
-  Price: €8.59 EUR
+  Price: €18.99 EUR
 - [Personalized Christmas Leggings](https://nicosstore.store/products/personalized-christmas-leggings-for-womens-fashion): Personalized Christmas Leggings! Perfect for women’s fashion, these custom leggings add holiday cheer to any outfit. Order yours todaya unique seasonal look!
-  Updated: 2025-11-15T21:29:44Z
+  Updated: 2025-11-19T21:27:33Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -2810,221 +2866,221 @@
   - [Blue / M](https://nicosstore.store/products/personalized-christmas-leggings-for-womens-fashion?variant=55840426099013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/kR5xJHKhphKtLf27.webp?v=1761788268
-    Price: €11.97 EUR
+    Price: €27.99 EUR
   - [Blue / S](https://nicosstore.store/products/personalized-christmas-leggings-for-womens-fashion?variant=55840426131781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/yb9JB0k5sStkfSD6.webp?v=1761788440
-    Price: €11.79 EUR
+    Price: €27.99 EUR
   - [Blue / XL](https://nicosstore.store/products/personalized-christmas-leggings-for-womens-fashion?variant=55840426164549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/xsvhDcJ3w0fhUzPj.webp?v=1761788408
-    Price: €12.14 EUR
+    Price: €27.99 EUR
   - [Dark Brown / S](https://nicosstore.store/products/personalized-christmas-leggings-for-womens-fashion?variant=55840426197317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/Lasha5BB7OFlO9PI.webp?v=1761788424
-    Price: €11.79 EUR
+    Price: €27.99 EUR
   - [Dark Brown / M](https://nicosstore.store/products/personalized-christmas-leggings-for-womens-fashion?variant=55840426230085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/Ik4i9Xd2mOB6KBUT.webp?v=1761788521
-    Price: €11.97 EUR
+    Price: €27.99 EUR
   - [Dark Brown / XL](https://nicosstore.store/products/personalized-christmas-leggings-for-womens-fashion?variant=55840426262853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/RCq7AGGL0T3uW3Lf.webp?v=1761788483
-    Price: €12.14 EUR
+    Price: €27.99 EUR
   - [Dark Brown / XXXL](https://nicosstore.store/products/personalized-christmas-leggings-for-womens-fashion?variant=55840426295621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/LxUjgktqPg5YZfBn.webp?v=1761788462
-    Price: €12.50 EUR
+    Price: €27.99 EUR
   - [Red / M](https://nicosstore.store/products/personalized-christmas-leggings-for-womens-fashion?variant=55840426328389)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/Alsnmdg0na8RImxq.webp?v=1761788304
-    Price: €11.97 EUR
+    Price: €27.99 EUR
   - [Red / XXL](https://nicosstore.store/products/personalized-christmas-leggings-for-womens-fashion?variant=55840426361157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7qE6oxKYmfcNeZ46.webp?v=1761788539
-    Price: €12.32 EUR
+    Price: €27.99 EUR
   - [Red / XXXL](https://nicosstore.store/products/personalized-christmas-leggings-for-womens-fashion?variant=55840426393925)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/DLoctsVcggnu4Pie.webp?v=1761788371
-    Price: €12.50 EUR
+    Price: €27.99 EUR
   - [Blue / XXL](https://nicosstore.store/products/personalized-christmas-leggings-for-womens-fashion?variant=55840426426693)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/TulBmkwuSMWWR5ue.webp?v=1761788388
-    Price: €12.32 EUR
+    Price: €27.99 EUR
   - [Red / S](https://nicosstore.store/products/personalized-christmas-leggings-for-womens-fashion?variant=55840426459461)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/O8QeJDiicCw93thv.webp?v=1761788503
-    Price: €11.79 EUR
+    Price: €27.99 EUR
   - [Red / XL](https://nicosstore.store/products/personalized-christmas-leggings-for-womens-fashion?variant=55840426492229)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9tbVEaS2rKNhWhbG.webp?v=1761788287
-    Price: €12.14 EUR
+    Price: €27.99 EUR
   - [Dark Brown / XXL](https://nicosstore.store/products/personalized-christmas-leggings-for-womens-fashion?variant=55840426524997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3ChzHngYPeumhYoO.webp?v=1761788320
-    Price: €12.32 EUR
+    Price: €27.99 EUR
   - [Blue / XXXL](https://nicosstore.store/products/personalized-christmas-leggings-for-womens-fashion?variant=55840426557765)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1EuyRYuk2RvBiE9e.webp?v=1761788337
-    Price: €12.50 EUR
+    Price: €27.99 EUR
 - [LED Fiber Optic Sneakers for Couples – Light Up Your Love](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples): LED Fiber Optic Sneakers! Perfect for date nights and special occasions, these stylish sneakers add a fun twist to your footwear collection.
-  Updated: 2025-11-15T21:29:50Z
+  Updated: 2025-11-19T21:27:33Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/tLCMIbpZqe9ZUWKv.webp?v=1761788557
   - [White / 35](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840480461125)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [White / 36](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840480493893)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [White / 37](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840480526661)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [White / 38](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840480559429)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [White / 39](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840480592197)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [White / 40](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840480624965)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [White / 41](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840480657733)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [White / 42](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840480690501)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [White / 43](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840480723269)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [White / 44](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840480756037)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [White / 45](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840480788805)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [White / 46](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840480821573)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [White / 34](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840480854341)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Black / 35](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840480887109)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Black / 36](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840480919877)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Black / 37](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840480952645)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Black / 38](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840480985413)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Black / 39](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481018181)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Black / 40](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481050949)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Black / 41](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481083717)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Black / 42](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481116485)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Black / 43](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481149253)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Black / 44](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481182021)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Black / 45](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481214789)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Black / 46](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481247557)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Black / 34](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481280325)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Pink / 35](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481313093)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Pink / 36](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481345861)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Pink / 37](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481378629)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Pink / 38](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481411397)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Pink / 39](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481444165)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Pink / 40](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481476933)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Pink / 41](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481509701)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Pink / 42](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481542469)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Pink / 43](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481575237)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Pink / 44](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481608005)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Pink / 45](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481640773)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Pink / 46](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481673541)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Pink / 34](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481706309)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Green / 35](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481739077)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Green / 36](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481771845)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Green / 37](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481804613)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Green / 38](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481837381)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Green / 39](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481870149)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Green / 40](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481902917)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Green / 41](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481935685)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Green / 42](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840481968453)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Green / 43](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840482001221)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Green / 44](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840482033989)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
   - [Green / 45](https://nicosstore.store/products/led-fiber-optic-sneakers-for-couples?variant=55840482066757)
     Availability: Available
-    Price: €27.16 EUR
+    Price: €38.99 EUR
 - [Lace V-Neck Dress – Elegant Tie Detail and Sexy Design](https://nicosstore.store/products/lace-v-neck-dress-elegant-tie-detail-and-sexy-design): Lace V-Neck Dress – Elegant Tie Detail and Sexy Design. This sexy design perfectly balances elegance , making it a must-have for any occasion. Shop now!
-  Updated: 2025-11-15T21:30:01Z
+  Updated: 2025-11-20T06:18:18Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -3032,21 +3088,21 @@
   - [blue / S](https://nicosstore.store/products/lace-v-neck-dress-elegant-tie-detail-and-sexy-design?variant=55840486850885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/D4ko4aLq0PFc20Zy.webp?v=1761788623
-    Price: €15.40 EUR
+    Price: €30.00 EUR
   - [blue / XL](https://nicosstore.store/products/lace-v-neck-dress-elegant-tie-detail-and-sexy-design?variant=55840486883653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/xQK7EmIYA7r3o4lh.webp?v=1761788734
-    Price: €15.59 EUR
+    Price: €30.00 EUR
   - [blue / L](https://nicosstore.store/products/lace-v-neck-dress-elegant-tie-detail-and-sexy-design?variant=55840486916421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1kV3w7e3u4mtRlNe.webp?v=1761788668
-    Price: €15.63 EUR
+    Price: €30.00 EUR
   - [blue / M](https://nicosstore.store/products/lace-v-neck-dress-elegant-tie-detail-and-sexy-design?variant=55840486949189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/LHllK6wvUTp4d1IQ.webp?v=1761788638
-    Price: €15.46 EUR
+    Price: €30.00 EUR
 - [Women's Polka Dot Dress essential cloth](https://nicosstore.store/products/womens-polka-dot-dress-essential-cloth): Women's Polka Dot Dress essential cloth. Perfect blend of classic charm and modern comfort from Nico’s Store.
-  Updated: 2025-11-15T21:30:11Z
+  Updated: 2025-11-19T21:27:33Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -3054,17 +3110,17 @@
   - [Red / S](https://nicosstore.store/products/womens-polka-dot-dress-essential-cloth?variant=55840488816965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/hDoSHRBusKoRMzwL.webp?v=1761788768
-    Price: €11.89 EUR
+    Price: €25.44 EUR
   - [Red / M](https://nicosstore.store/products/womens-polka-dot-dress-essential-cloth?variant=55840488849733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1lwEwmiOC9uITeVl.webp?v=1761788883
-    Price: €12.21 EUR
+    Price: €25.44 EUR
   - [Red / L](https://nicosstore.store/products/womens-polka-dot-dress-essential-cloth?variant=55840488882501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/mb5DC97e6OjLZ19d.webp?v=1761788853
-    Price: €12.20 EUR
+    Price: €25.44 EUR
 - [Red Floral Superman T-Shirt – Women's Long Sleeve Top](https://nicosstore.store/products/red-floral-superman-t-shirt): The Red Floral Superman T-Shirt combines floral beauty with superhero flair. Stay confident and stylish in this long sleeve women’s tee from Nico’s Store.
-  Updated: 2025-11-15T21:30:26Z
+  Updated: 2025-11-19T21:27:33Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -3072,33 +3128,33 @@
   - [Red / XXXXL](https://nicosstore.store/products/red-floral-superman-t-shirt?variant=55840491012421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/VVVZrQ9GrzBKYEsO.webp?v=1761788900
-    Price: €9.65 EUR
+    Price: €25.01 EUR
   - [Red / XXXL](https://nicosstore.store/products/red-floral-superman-t-shirt?variant=55840491045189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/teDEnSQXYMwvuRil.webp?v=1761788966
-    Price: €9.65 EUR
+    Price: €25.01 EUR
   - [Red / XL](https://nicosstore.store/products/red-floral-superman-t-shirt?variant=55840491077957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5vgYbEfA4JZpN2qQ.webp?v=1761789018
-    Price: €9.65 EUR
+    Price: €25.01 EUR
   - [Red / XXL](https://nicosstore.store/products/red-floral-superman-t-shirt?variant=55840491110725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/oV5ACQvatuYAcPGo.webp?v=1761788982
-    Price: €9.65 EUR
+    Price: €25.01 EUR
   - [Red / L](https://nicosstore.store/products/red-floral-superman-t-shirt?variant=55840491143493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/QoJzqlvmv4kX6zYR.webp?v=1761789084
-    Price: €9.65 EUR
+    Price: €25.01 EUR
   - [Red / M](https://nicosstore.store/products/red-floral-superman-t-shirt?variant=55840491176261)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4fH5VYq247x0AmIh.webp?v=1761789051
-    Price: €9.65 EUR
+    Price: €25.01 EUR
   - [Red / S](https://nicosstore.store/products/red-floral-superman-t-shirt?variant=55840491209029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/lGII4fLVP5gMv17w.webp?v=1761789068
-    Price: €9.65 EUR
+    Price: €25.01 EUR
 - [Women's Fashion Print Set – Trendy Casual Design 2023](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023): Explore the Women's Fashion Print Set featuring trendy designs and soft comfort. A perfect casual outfit for everyday style from Nico’s Store.
-  Updated: 2025-11-15T21:33:53Z
+  Updated: 2025-11-19T21:27:33Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -3106,205 +3162,205 @@
   - [Khakis maze / S](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840500580677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/Ua69L1FVpZVp7dJx.webp?v=1761789971
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Khakis maze / M](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840500613445)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/87gt6ka22HbnCzLP.webp?v=1761790002
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Khakis maze / L](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840500646213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/PkzRYqkWNff11L03.webp?v=1761790051
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Red print / L](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840500678981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/RbQyIUTA7JM20ysK.webp?v=1761790132
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Khakis maze / XXXL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840500711749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/r3Q0nAHYeXbby0Jb.webp?v=1761790181
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Red print / XL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840500744517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/lotBPIYQz0xQG8wn.webp?v=1761790304
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Red print / XXXL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840500777285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/MJwhF8KgqOYyLmn6.webp?v=1761790375
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Army green print / S](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840500810053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/D97Hj7tgUduPHc2r.webp?v=1761790082
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Army green print / L](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840500842821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/MHjgr6dFx5KXq8Sc.webp?v=1761790228
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Army green print / M](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840500875589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/mE322TysorY1m8yy.webp?v=1761790320
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Army green print / XXXL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840500908357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/L3GX7UYvahK4dc49.webp?v=1761790391
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Army green print / XL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840500941125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/tDjOB2rU4CYBom2n.webp?v=1761790149
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Army green print / XXL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840500973893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/Nh67Uc00FepEqWuu.webp?v=1761790521
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Red Plaid / S](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501006661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/wlGRWNQ1jMnMlGGa.webp?v=1761790543
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Red Plaid / M](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501039429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/BtzAoUTzga1g3rfM.webp?v=1761790585
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Red Plaid / XL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501072197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/nte1XYM1DtB1tOpJ.webp?v=1761790458
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Red Plaid / L](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501104965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/aEyKZjuvWIybw8gM.webp?v=1761790640
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Red Plaid / XXXL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501137733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/OKS4zCNi6qkc8WsT.webp?v=1761790715
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [White Labyrinth / S](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501170501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6EeKMhEGtmBGQyPN.webp?v=1761790821
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Red Plaid / XXL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501203269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/G1kNxowfvhv6375M.webp?v=1759774103
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [White Labyrinth / L](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501236037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3fD3PH08lAyB1Ytu.webp?v=1759774125
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [White Labyrinth / M](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501268805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/buMtjmiETXCTUzl1.webp?v=1759774135
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [White Labyrinth / XL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501301573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/irs2ZMswy8UL8O8r.webp?v=1761790782
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [White Labyrinth / XXXL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501334341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/tKAChOoylNzaCoBG.webp?v=1759774156
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [White Labyrinth / XXL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501367109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/Pxx390h0qD80mkHO.webp?v=1759774114
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Yellow print / M](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501399877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/Jb8MH1YrLzcoEjcG.webp?v=1759774167
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Yellow print / L](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501432645)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cN7IfAyTrI0LovfN.webp?v=1759774188
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Yellow print / XXXL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501465413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/kOq8TSBh68oqDgsM.webp?v=1759774146
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Yellow print / XXL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501498181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/hptDSvCpbMFxD3dW.webp?v=1759774198
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Navy blue printing / S](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501530949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/Ocqe8uBxJnolLahN.webp?v=1759774177
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Navy blue printing / M](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501563717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4kZzCzQoYnfYfGSl.webp?v=1759774220
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Navy blue printing / XXXL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501596485)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0DW8V8NaTaaOZcny.webp?v=1759774231
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Navy blue printing / L](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501629253)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/sObk1XtoBm2W0B2u.webp?v=1761790566
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Navy blue printing / XL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501662021)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/E0D9YFCNeOtoet05.webp?v=1759774251
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [Navy blue printing / XXL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501694789)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/WJlXvQjuvK7akmAB.webp?v=1759774241
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [ORANGE PRINT / S](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501727557)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/EeZwfzNsWi7WHgkC.webp?v=1761790606
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [ORANGE PRINT / M](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501760325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/E1zUanYs2L17hefW.webp?v=1759774262
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [ORANGE PRINT / L](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501793093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4AKyNraxk0ikJaZ3.webp?v=1761790677
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [ORANGE PRINT / XL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501825861)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/szFgWkNVaTueXM59.webp?v=1759774282
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [ORANGE PRINT / XXL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501858629)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/JxNrbyCJM9wzaauz.webp?v=1759774293
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [ORANGE PRINT / XXXL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501891397)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bD8sGmEd8CriOMpd.webp?v=1759774314
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [New Color Lake Green Print / M](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501924165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/hxYBsXNKCpd2tW5F.webp?v=1759774326
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [New Color Lake Green Print / S](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501956933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/tQnCyUqsQPxiAoWR.webp?v=1759774346
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [New Color Lake Green Print / XXL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840501989701)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/mpz7uVRD2G5Nahjz.webp?v=1759774356
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [New color navy blue / XL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840502022469)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/vDUXHuSLqYwtlJxv.webp?v=1761790198
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [New color navy blue / L](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840502055237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ENFiBvbe44Kzhmho.webp?v=1759774304
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [New Color Lake Green Print / XL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840502088005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/vh4QYtoSK9H80MzN.webp?v=1761790732
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [New Color Lake Green Print / L](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840502120773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/S9KbseSqCdl9qB62.webp?v=1759774378
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [New Color Lake Green Print / XXXL](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840502153541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/J3ePNrobqJ1WF9rF.webp?v=1759774389
-    Price: €17.24 EUR
+    Price: €35.00 EUR
   - [New color navy blue / S](https://nicosstore.store/products/womens-fashion-print-set-trendy-casual-design-2023?variant=55840502186309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/W2by3AC98ub0P0SE.webp?v=1761790068
-    Price: €17.24 EUR
+    Price: €35.00 EUR
 - [Women's Knit Sneakers with Thick Wedge Sole](https://nicosstore.store/products/1855-womens-knit-sneakers-with-thick-wedge-sole): Shop the Women's Knit Sneakers featuring a breathable design and thick wedge sole for comfort and lift. Step out in style with Nico’s Store footwear.
-  Updated: 2025-11-15T21:35:50Z
+  Updated: 2025-11-19T21:27:33Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -3510,98 +3566,98 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/P16cpQ54RYsD3eOz.webp?v=1761791522
     Price: €13.83 EUR
 - [Solid Color Women's Zip Sweater – Cozy Lapel Design](https://nicosstore.store/products/solid-color-womens-zip-sweater): Discover the Solid Color Women's Zip Sweater with a lapel collar and sleek design. Stay cozy, stylish, and confident with Nico’s Store fashion essentials.
-  Updated: 2025-11-15T21:36:11Z
+  Updated: 2025-11-20T16:24:29Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5abrGVBp5SxSCj1H.webp?v=1761791762
   - [white / 2XL](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840515686725)
     Availability: Available
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [white / L](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840515719493)
     Availability: Available
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [white / M](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840515752261)
     Availability: Available
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [white / S](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840515785029)
     Availability: Available
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [white / XL](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840515817797)
     Availability: Available
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [green / 2XL](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840515850565)
     Availability: Available
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [green / L](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840515883333)
     Availability: Available
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [green / M](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840515916101)
     Availability: Available
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [green / S](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840515948869)
     Availability: Available
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [green / XL](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840515981637)
     Availability: Available
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [grey / 2XL](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840516014405)
     Availability: Available
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [grey / L](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840516047173)
     Availability: Available
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [grey / M](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840516079941)
     Availability: Available
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [grey / S](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840516112709)
     Availability: Available
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [grey / XL](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840516145477)
     Availability: Available
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [Black / L](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840516178245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5abrGVBp5SxSCj1H.webp?v=1761791762
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [beige / S](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840516211013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/qlCkF5ROgKvY2vrH.webp?v=1761791782
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [Black / S](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840516243781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5pyWuKgvbTkORtaE.webp?v=1761791828
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [beige / 2XL](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840516276549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/pTIVaqG59E0NSPOZ.webp?v=1761791881
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [beige / L](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840516309317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cVop9O7FY7bsIEjR.webp?v=1761791982
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [beige / M](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840516342085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7SBoICSUFlqnbVpH.webp?v=1761791916
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [beige / XL](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840516374853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ysPyHKrAn1UG0YvL.webp?v=1761791931
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [Black / M](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840516407621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/g0QQu971ymWQKP4Y.webp?v=1761791965
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [Black / 2XL](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840516440389)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/Qj8ZoDBThoXER9mY.webp?v=1761791813
-    Price: €19.75 EUR
+    Price: €29.75 EUR
   - [Black / XL](https://nicosstore.store/products/solid-color-womens-zip-sweater?variant=55840516473157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8zJsu0KlHNCHb8kt.webp?v=1761791999
-    Price: €19.75 EUR
+    Price: €29.75 EUR
 - [Korean Style High Heel Shoes for Women](https://nicosstore.store/products/korean-style-high-heel-shoes-for-women): Korean Style High Heel Shoes for Women. Featuring a sweet stiletto design, these heels blend comfort and elegance, perfect for any occasion.
-  Updated: 2025-11-15T21:37:37Z
+  Updated: 2025-11-19T21:27:34Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -3807,70 +3863,70 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/wWfbCTYciN9O4fFV.webp?v=1759778078
     Price: €26.09 EUR
 - [Men's Knit Sweater High Collar for Autumn Winter Wear](https://nicosstore.store/products/mens-knit-sweater-high-collar-for-autumn-winter-wear): Men's Knit Sweater High Collar for Autumn Winter Wear. Perfect for autumn and winter wear, this sweater combines comfort and sophistication effortlessly.
-  Updated: 2025-11-15T21:37:53Z
+  Updated: 2025-11-19T21:27:34Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/Ajr5ZPlDSzVauyAp.webp?v=1761792889
   - [White / S](https://nicosstore.store/products/mens-knit-sweater-high-collar-for-autumn-winter-wear?variant=55841637368133)
     Availability: Available
-    Price: €14.10 EUR
+    Price: €20.00 EUR
   - [Black / S](https://nicosstore.store/products/mens-knit-sweater-high-collar-for-autumn-winter-wear?variant=55841637400901)
     Availability: Available
-    Price: €14.10 EUR
+    Price: €20.00 EUR
   - [Dark grey / S](https://nicosstore.store/products/mens-knit-sweater-high-collar-for-autumn-winter-wear?variant=55841637433669)
     Availability: Available
-    Price: €14.10 EUR
+    Price: €20.00 EUR
   - [White / M](https://nicosstore.store/products/mens-knit-sweater-high-collar-for-autumn-winter-wear?variant=55841637466437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/EfE2s2ReIaZ85DCC.webp?v=1761793138
-    Price: €13.04 EUR
+    Price: €20.00 EUR
   - [White / L](https://nicosstore.store/products/mens-knit-sweater-high-collar-for-autumn-winter-wear?variant=55841637499205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/Ajr5ZPlDSzVauyAp.webp?v=1761792889
-    Price: €13.35 EUR
+    Price: €20.00 EUR
   - [White / XXL](https://nicosstore.store/products/mens-knit-sweater-high-collar-for-autumn-winter-wear?variant=55841637531973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/JuHX9yJcslQqvaKo.webp?v=1761793043
-    Price: €13.94 EUR
+    Price: €20.00 EUR
   - [Black / L](https://nicosstore.store/products/mens-knit-sweater-high-collar-for-autumn-winter-wear?variant=55841637564741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1nTvcGAhuLp7OMzm.webp?v=1761792911
-    Price: €13.35 EUR
+    Price: €20.00 EUR
   - [Dark grey / M](https://nicosstore.store/products/mens-knit-sweater-high-collar-for-autumn-winter-wear?variant=55841637597509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bp1P7COo84xjkM7M.webp?v=1761793006
-    Price: €13.04 EUR
+    Price: €20.00 EUR
   - [Dark grey / L](https://nicosstore.store/products/mens-knit-sweater-high-collar-for-autumn-winter-wear?variant=55841637630277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/CpZX7Mwpa1EJNy7H.webp?v=1761792988
-    Price: €13.35 EUR
+    Price: €20.00 EUR
   - [Dark grey / XL](https://nicosstore.store/products/mens-knit-sweater-high-collar-for-autumn-winter-wear?variant=55841637663045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/QASwQCiaaAX7Q1py.webp?v=1761792928
-    Price: €13.65 EUR
+    Price: €20.00 EUR
   - [Black / M](https://nicosstore.store/products/mens-knit-sweater-high-collar-for-autumn-winter-wear?variant=55841637695813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3lgXhU0YNLunTAgP.webp?v=1761792951
-    Price: €13.04 EUR
+    Price: €20.00 EUR
   - [Dark grey / XXL](https://nicosstore.store/products/mens-knit-sweater-high-collar-for-autumn-winter-wear?variant=55841637728581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/SbRg1B2MmNid05ne.webp?v=1761793023
-    Price: €13.94 EUR
+    Price: €20.00 EUR
   - [Black / XL](https://nicosstore.store/products/mens-knit-sweater-high-collar-for-autumn-winter-wear?variant=55841637761349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/crPlXap000TSwViM.webp?v=1761792971
-    Price: €13.65 EUR
+    Price: €20.00 EUR
   - [Black / XXL](https://nicosstore.store/products/mens-knit-sweater-high-collar-for-autumn-winter-wear?variant=55841637794117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/sRzwQ01a73Eiwn0K.webp?v=1761793062
-    Price: €13.94 EUR
+    Price: €20.00 EUR
   - [White / XL](https://nicosstore.store/products/mens-knit-sweater-high-collar-for-autumn-winter-wear?variant=55841637826885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b6lKVJmRrU9h11t3.webp?v=1761793081
-    Price: €13.65 EUR
+    Price: €20.00 EUR
 - [Men's Single Breasted Jacket in Solid Color](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color): Men's Single Breasted Jacket in Solid Color. Perfect for any occasion, this essential piece combines elegance and versatility. Shop now!
-  Updated: 2025-11-15T21:38:18Z
+  Updated: 2025-11-19T21:27:34Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -3878,77 +3934,77 @@
   - [Black / 2XL](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688301893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6N1V6BART5DwqJjJ.webp?v=1761793155
-    Price: €27.33 EUR
+    Price: €30.00 EUR
   - [Black / L](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688334661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/pSQCxLY5iB0FQu1p.webp?v=1761793358
-    Price: €26.74 EUR
+    Price: €30.00 EUR
   - [Black / M](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688367429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cnP6G1XvmJuEN9Fi.webp?v=1761793477
-    Price: €26.43 EUR
+    Price: €30.00 EUR
   - [Black / XL](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688400197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dSFzrocYYAxkWpfk.webp?v=1761793337
-    Price: €27.04 EUR
+    Price: €30.00 EUR
   - [Green / 4XL](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688432965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/XZoeRM5WUZ4nMiID.webp?v=1761793209
-    Price: €27.94 EUR
+    Price: €30.00 EUR
   - [Green / 2XL](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688465733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/jW8Jmu5KWIxR39e0.webp?v=1761793495
-    Price: €27.33 EUR
+    Price: €30.00 EUR
   - [Green / XL](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688498501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bq1UzZuQAZhBrn02.webp?v=1761793441
-    Price: €27.04 EUR
+    Price: €30.00 EUR
   - [Green / M](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688531269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/Tyd8gxAAOhJUVneQ.webp?v=1761793459
-    Price: €26.43 EUR
+    Price: €30.00 EUR
   - [Khaki / 2XL](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688564037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b1w2q7KFjA5AYizp.webp?v=1761793422
-    Price: €27.33 EUR
+    Price: €30.00 EUR
   - [Khaki / M](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688596805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9iWEp68EYIXEDKLA.webp?v=1761793399
-    Price: €26.43 EUR
+    Price: €30.00 EUR
   - [Khaki / 3XL](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688629573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/eXGpjrz3Vm7inruT.webp?v=1761793263
-    Price: €27.64 EUR
+    Price: €30.00 EUR
   - [Green / L](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688662341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8PHV5KGEgsGxhnWP.webp?v=1761793379
-    Price: €26.74 EUR
+    Price: €30.00 EUR
   - [Khaki / L](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688695109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/DwdviSgS2K7n3N1a.webp?v=1761793174
-    Price: €26.74 EUR
+    Price: €30.00 EUR
   - [Green / 3XL](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688727877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/oIvzTnjBf8HemWoj.webp?v=1761793228
-    Price: €27.64 EUR
+    Price: €30.00 EUR
   - [Khaki / XL](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688760645)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/pSyXQWoCniQmif4a.webp?v=1761793243
-    Price: €27.04 EUR
+    Price: €30.00 EUR
   - [Black / 3XL](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688793413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/mkJyyhrl9JV50AgB.webp?v=1761793299
-    Price: €27.64 EUR
+    Price: €30.00 EUR
   - [Khaki / 4XL](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688826181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/vADSuTqoWmslpLej.webp?v=1761793318
-    Price: €27.94 EUR
+    Price: €30.00 EUR
   - [Black / 4XL](https://nicosstore.store/products/mens-single-breasted-jacket-in-solid-color?variant=55849688858949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3kx9djMHVaPZfWnw.webp?v=1761793280
-    Price: €27.94 EUR
+    Price: €30.00 EUR
 - [Fashionable Studded Backpack and Versatile Crossbody Bag](https://nicosstore.store/products/fashionable-studded-backpack-and-versatile-crossbody-bag): Fashionable Studded Backpack and Versatile Crossbody Bag. Versatile and chic, this bag transitions  to a crossbody, it a must-have accessory for any occasion.
-  Updated: 2025-11-15T21:38:24Z
+  Updated: 2025-11-19T21:27:34Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -3965,7 +4021,7 @@
     Availability: Not Available
     Price: €29.88 EUR
 - [Women's Flyknit Casual Sports Shoes](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes): Women's Flyknit Casual Sports Shoes . Designed for comfort and style, these shoes are perfect for your active lifestyle. Shop now!
-  Updated: 2025-11-15T21:38:55Z
+  Updated: 2025-11-19T21:27:34Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -3973,85 +4029,85 @@
   - [Pink / 36](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922036037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/RoCSI1Ylj2vLlLzp.webp?v=1761793607
-    Price: €25.76 EUR
+    Price: €28.00 EUR
   - [Blue / 37](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922068805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/Yi4yAoaU1ExVrwyH.webp?v=1761793703
-    Price: €26.39 EUR
+    Price: €28.00 EUR
   - [Pink / 37](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922101573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/nS5YrYIaA16Gpmuf.webp?v=1761793625
-    Price: €26.39 EUR
+    Price: €28.00 EUR
   - [Black / 36](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922134341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/P71QDYQDfLGuWRhe.webp?v=1761793683
-    Price: €25.76 EUR
+    Price: €28.00 EUR
   - [Pink / 39](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922167109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2SVmGJHOf1bssKR7.webp?v=1761793721
-    Price: €27.68 EUR
+    Price: €28.00 EUR
   - [Blue / 38](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922199877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ewGetxXYh3sNG667.webp?v=1761793665
-    Price: €27.04 EUR
+    Price: €28.00 EUR
   - [Black / 40](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922232645)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/hCqf3WuoiFnvVa8B.webp?v=1761793998
-    Price: €28.33 EUR
+    Price: €28.00 EUR
   - [Pink / 40](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922265413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/HZRDcEn28dOZqfuf.webp?v=1761793646
-    Price: €28.33 EUR
+    Price: €28.00 EUR
   - [Grey / 40](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922298181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/eFeBR0kDajkQnAI0.webp?v=1761794032
-    Price: €28.33 EUR
+    Price: €28.00 EUR
   - [Black / 37](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922330949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/rrF5k7uexDvW533Q.webp?v=1761794016
-    Price: €26.39 EUR
+    Price: €28.00 EUR
   - [Blue / 39](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922363717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/Vjq2UJ28EWlVC0KA.webp?v=1761793738
-    Price: €27.68 EUR
+    Price: €28.00 EUR
   - [Blue / 36](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922396485)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/971HR4FClPLuWN7V.webp?v=1761793791
-    Price: €25.76 EUR
+    Price: €28.00 EUR
   - [Black / 38](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922429253)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/DUJT6Lzrwkgdifr1.webp?v=1761793845
-    Price: €27.04 EUR
+    Price: €28.00 EUR
   - [Pink / 38](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922462021)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/EcrWq0Q2EyYRPoJr.webp?v=1761793960
-    Price: €27.04 EUR
+    Price: €28.00 EUR
   - [Grey / 39](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922494789)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/C6HbaczAnm41BRlH.webp?v=1761793901
-    Price: €27.68 EUR
+    Price: €28.00 EUR
   - [Grey / 36](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922527557)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6HDRk7Kji1eMojRM.webp?v=1761793774
-    Price: €25.76 EUR
+    Price: €28.00 EUR
   - [Grey / 38](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922560325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/kTCgJgXo9PnjB8R8.webp?v=1761793979
-    Price: €27.04 EUR
+    Price: €28.00 EUR
   - [Black / 39](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922593093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/LcLH43touHpisMf2.webp?v=1761793939
-    Price: €27.68 EUR
+    Price: €28.00 EUR
   - [Blue / 40](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922625861)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/VxGOudMAmfYl0TUK.webp?v=1761793880
-    Price: €28.33 EUR
+    Price: €28.00 EUR
   - [Grey / 37](https://nicosstore.store/products/womens-flyknit-casual-sports-shoes?variant=55849922658629)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dWLRYHvWRqZzpjJ9.webp?v=1761793828
-    Price: €26.39 EUR
+    Price: €28.00 EUR
 - [Double Take Full Size Plaid Hooded Coat](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat): Double Take Full Size Plaid Hooded Coat. Perfect for layering, this chic plaid hooded coat offers warmth and fashion in one striking design. Grab yours today!
-  Updated: 2025-11-15T21:39:12Z
+  Updated: 2025-11-19T21:27:34Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4059,101 +4115,101 @@
   - [Red / S](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850010673477)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5e56bafa-481f-4c85-9709-757c86705ff2-Max.webp?v=1761794052
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Red / M](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850010706245)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5e56bafa-481f-4c85-9709-757c86705ff2-Max.webp?v=1761794052
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Red / L](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850010739013)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5e56bafa-481f-4c85-9709-757c86705ff2-Max.webp?v=1761794052
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Red / XL](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850010771781)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5e56bafa-481f-4c85-9709-757c86705ff2-Max.webp?v=1761794052
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Red / 2XL](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850010804549)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5e56bafa-481f-4c85-9709-757c86705ff2-Max.webp?v=1761794052
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Red / 3XL](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850010837317)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5e56bafa-481f-4c85-9709-757c86705ff2-Max.webp?v=1761794052
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Khaki / S](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850010870085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/121cb82f-ac13-403b-af99-1592b2ade8f6-Max.webp?v=1761794104
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Khaki / M](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850010902853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/121cb82f-ac13-403b-af99-1592b2ade8f6-Max.webp?v=1761794104
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Khaki / L](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850010935621)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/121cb82f-ac13-403b-af99-1592b2ade8f6-Max.webp?v=1761794104
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Khaki / XL](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850010968389)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/121cb82f-ac13-403b-af99-1592b2ade8f6-Max.webp?v=1761794104
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Khaki / 2XL](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850011001157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/121cb82f-ac13-403b-af99-1592b2ade8f6-Max.webp?v=1761794104
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Khaki / 3XL](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850011033925)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/121cb82f-ac13-403b-af99-1592b2ade8f6-Max.webp?v=1761794104
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Camel / S](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850011066693)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/766131db-19f9-4888-b081-09df603d5296-Max.webp?v=1761794172
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Camel / M](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850011099461)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/766131db-19f9-4888-b081-09df603d5296-Max.webp?v=1761794172
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Camel / L](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850011132229)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/766131db-19f9-4888-b081-09df603d5296-Max.webp?v=1761794172
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Camel / XL](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850011164997)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/766131db-19f9-4888-b081-09df603d5296-Max.webp?v=1761794172
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Camel / 2XL](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850011197765)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/766131db-19f9-4888-b081-09df603d5296-Max.webp?v=1761794172
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Camel / 3XL](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850011230533)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/766131db-19f9-4888-b081-09df603d5296-Max.webp?v=1761794172
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Black / S](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850011263301)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5af58fd0-4597-42a0-9982-721b9bcc9374-Max.webp?v=1761794224
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Black / M](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850011296069)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5af58fd0-4597-42a0-9982-721b9bcc9374-Max.webp?v=1761794224
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Black / L](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850011328837)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5af58fd0-4597-42a0-9982-721b9bcc9374-Max.webp?v=1761794224
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Black / XL](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850011361605)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5af58fd0-4597-42a0-9982-721b9bcc9374-Max.webp?v=1761794224
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Black / 2XL](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850011394373)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5af58fd0-4597-42a0-9982-721b9bcc9374-Max.webp?v=1761794224
-    Price: €10.99 EUR
+    Price: €28.99 EUR
   - [Black / 3XL](https://nicosstore.store/products/double-take-full-size-plaid-hooded-coat?variant=55850011427141)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5af58fd0-4597-42a0-9982-721b9bcc9374-Max.webp?v=1761794224
-    Price: €10.99 EUR
+    Price: €28.99 EUR
 - [Full Size Striped Trim Jacket and Pants -Modern Edge Jacket](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket): Full Size Striped Trim Jacket and Pants -Modern Edge Jacket This plus-size ensemble combines style and comfort for effortless chic any day of the week.
-  Updated: 2025-11-15T21:40:00Z
+  Updated: 2025-11-19T21:27:34Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4161,205 +4217,205 @@
   - [Khaki / XS](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062414149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7434393eaf654cefbf6a4d252e59727f-Max-Origin.webp?v=1761794278
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Khaki / S](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062446917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7434393eaf654cefbf6a4d252e59727f-Max-Origin.webp?v=1761794278
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Khaki / M](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062479685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7434393eaf654cefbf6a4d252e59727f-Max-Origin.webp?v=1761794278
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Khaki / L](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062512453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7434393eaf654cefbf6a4d252e59727f-Max-Origin.webp?v=1761794278
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Khaki / XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062545221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7434393eaf654cefbf6a4d252e59727f-Max-Origin.webp?v=1761794278
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Khaki / 2XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062577989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7434393eaf654cefbf6a4d252e59727f-Max-Origin.webp?v=1761794278
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Khaki / 3XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062610757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7434393eaf654cefbf6a4d252e59727f-Max-Origin.webp?v=1761794278
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Black / XS](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062643525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/580caf7d3d6b4b2db4e7a31535c7ba78-Max-Origin.webp?v=1761794354
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Black / S](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062676293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/580caf7d3d6b4b2db4e7a31535c7ba78-Max-Origin.webp?v=1761794354
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Black / M](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062709061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/580caf7d3d6b4b2db4e7a31535c7ba78-Max-Origin.webp?v=1761794354
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Black / L](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062741829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/580caf7d3d6b4b2db4e7a31535c7ba78-Max-Origin.webp?v=1761794354
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Black / XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062774597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/580caf7d3d6b4b2db4e7a31535c7ba78-Max-Origin.webp?v=1761794354
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Black / 2XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062807365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/580caf7d3d6b4b2db4e7a31535c7ba78-Max-Origin.webp?v=1761794354
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Black / 3XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062840133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/580caf7d3d6b4b2db4e7a31535c7ba78-Max-Origin.webp?v=1761794354
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [White / XS](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062872901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/16972c785b1142c7ae347a29ddcf2a69-Max-Origin.webp?v=1761794419
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [White / S](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062905669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/16972c785b1142c7ae347a29ddcf2a69-Max-Origin.webp?v=1761794419
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [White / M](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062938437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/16972c785b1142c7ae347a29ddcf2a69-Max-Origin.webp?v=1761794419
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [White / L](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850062971205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/16972c785b1142c7ae347a29ddcf2a69-Max-Origin.webp?v=1761794419
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [White / XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063003973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/16972c785b1142c7ae347a29ddcf2a69-Max-Origin.webp?v=1761794419
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [White / 2XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063036741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/16972c785b1142c7ae347a29ddcf2a69-Max-Origin.webp?v=1761794419
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [White / 3XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063069509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/16972c785b1142c7ae347a29ddcf2a69-Max-Origin.webp?v=1761794419
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Army Green / XS](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063102277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b622176da62d4a679c3ae3b9580c0031-Max-Origin.webp?v=1761794477
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Army Green / S](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063135045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b622176da62d4a679c3ae3b9580c0031-Max-Origin.webp?v=1761794477
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Army Green / M](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063167813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b622176da62d4a679c3ae3b9580c0031-Max-Origin.webp?v=1761794477
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Army Green / L](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063200581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b622176da62d4a679c3ae3b9580c0031-Max-Origin.webp?v=1761794477
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Army Green / XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063233349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b622176da62d4a679c3ae3b9580c0031-Max-Origin.webp?v=1761794477
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Army Green / 2XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063266117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b622176da62d4a679c3ae3b9580c0031-Max-Origin.webp?v=1761794477
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Army Green / 3XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063298885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b622176da62d4a679c3ae3b9580c0031-Max-Origin.webp?v=1761794477
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Dark Brown / XS](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063331653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/913b77a9f861424bbd6f5cb698fd0269-Max-Origin.webp?v=1761794527
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Dark Brown / S](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063364421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/913b77a9f861424bbd6f5cb698fd0269-Max-Origin.webp?v=1761794527
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Dark Brown / M](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063397189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/913b77a9f861424bbd6f5cb698fd0269-Max-Origin.webp?v=1761794527
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Dark Brown / L](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063429957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/913b77a9f861424bbd6f5cb698fd0269-Max-Origin.webp?v=1761794527
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Dark Brown / XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063462725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/913b77a9f861424bbd6f5cb698fd0269-Max-Origin.webp?v=1761794527
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Dark Brown / 2XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063495493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/913b77a9f861424bbd6f5cb698fd0269-Max-Origin.webp?v=1761794527
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Dark Brown / 3XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063528261)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/913b77a9f861424bbd6f5cb698fd0269-Max-Origin.webp?v=1761794527
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Gray / XS](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063561029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f984eee2f14845dd9bde3b1a61dd1951-Max-Origin.webp?v=1761794578
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Gray / S](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063593797)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f984eee2f14845dd9bde3b1a61dd1951-Max-Origin.webp?v=1761794578
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Gray / M](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063626565)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f984eee2f14845dd9bde3b1a61dd1951-Max-Origin.webp?v=1761794578
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Gray / L](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063659333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f984eee2f14845dd9bde3b1a61dd1951-Max-Origin.webp?v=1761794578
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Gray / XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063692101)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f984eee2f14845dd9bde3b1a61dd1951-Max-Origin.webp?v=1761794578
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Gray / 2XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063724869)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f984eee2f14845dd9bde3b1a61dd1951-Max-Origin.webp?v=1761794578
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Gray / 3XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063757637)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f984eee2f14845dd9bde3b1a61dd1951-Max-Origin.webp?v=1761794578
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Light Blue / XS](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063790405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e00961104ec04d5798afc72394390829-Max-Origin.webp?v=1761794625
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Light Blue / S](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063823173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e00961104ec04d5798afc72394390829-Max-Origin.webp?v=1761794625
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Light Blue / M](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063855941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e00961104ec04d5798afc72394390829-Max-Origin.webp?v=1761794625
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Light Blue / L](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063888709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e00961104ec04d5798afc72394390829-Max-Origin.webp?v=1761794625
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Light Blue / XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063921477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e00961104ec04d5798afc72394390829-Max-Origin.webp?v=1761794625
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Light Blue / 2XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063954245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e00961104ec04d5798afc72394390829-Max-Origin.webp?v=1761794625
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Light Blue / 3XL](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850063987013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e00961104ec04d5798afc72394390829-Max-Origin.webp?v=1761794625
-    Price: €29.99 EUR
+    Price: €48.99 EUR
   - [Light Green / XS](https://nicosstore.store/products/full-size-striped-trim-jacket-and-pants-modern-edge-jacket?variant=55850064019781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c5fecea26ea84a26bea04e3a64641ebf-Max-Origin.webp?v=1761794675
-    Price: €29.99 EUR
+    Price: €48.99 EUR
 - [Button Up Vest and Jeans Set for Chic Casual Style](https://nicosstore.store/products/button-up-vest-and-jeans-set-for-chic-casual-style): Button Up Vest and Jeans Set for Chic Casual Style. Perfect for effortless chic looks, this versatile outfit is a must-have for any wardrobe. Shop now!
-  Updated: 2025-11-15T21:40:10Z
+  Updated: 2025-11-19T21:27:34Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4367,37 +4423,37 @@
   - [Blue / S](https://nicosstore.store/products/button-up-vest-and-jeans-set-for-chic-casual-style?variant=55850101702981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4b018a9e03874a5290d2b53771ed505d-Max-Origin.webp?v=1761794970
-    Price: €39.99 EUR
+    Price: €59.99 EUR
   - [Blue / M](https://nicosstore.store/products/button-up-vest-and-jeans-set-for-chic-casual-style?variant=55850101735749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4b018a9e03874a5290d2b53771ed505d-Max-Origin.webp?v=1761794970
-    Price: €39.99 EUR
+    Price: €59.99 EUR
   - [Blue / L](https://nicosstore.store/products/button-up-vest-and-jeans-set-for-chic-casual-style?variant=55850101768517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4b018a9e03874a5290d2b53771ed505d-Max-Origin.webp?v=1761794970
-    Price: €39.99 EUR
+    Price: €59.99 EUR
   - [Blue / XL](https://nicosstore.store/products/button-up-vest-and-jeans-set-for-chic-casual-style?variant=55850101801285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4b018a9e03874a5290d2b53771ed505d-Max-Origin.webp?v=1761794970
-    Price: €39.99 EUR
+    Price: €59.99 EUR
   - [Black / S](https://nicosstore.store/products/button-up-vest-and-jeans-set-for-chic-casual-style?variant=55850101834053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/317e9c956d4c40d991cfec0067be0d58-Max-Origin.webp?v=1761794917
-    Price: €39.99 EUR
+    Price: €59.99 EUR
   - [Black / M](https://nicosstore.store/products/button-up-vest-and-jeans-set-for-chic-casual-style?variant=55850101866821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/317e9c956d4c40d991cfec0067be0d58-Max-Origin.webp?v=1761794917
-    Price: €39.99 EUR
+    Price: €59.99 EUR
   - [Black / L](https://nicosstore.store/products/button-up-vest-and-jeans-set-for-chic-casual-style?variant=55850101899589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/317e9c956d4c40d991cfec0067be0d58-Max-Origin.webp?v=1761794917
-    Price: €39.99 EUR
+    Price: €59.99 EUR
   - [Black / XL](https://nicosstore.store/products/button-up-vest-and-jeans-set-for-chic-casual-style?variant=55850101932357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/317e9c956d4c40d991cfec0067be0d58-Max-Origin.webp?v=1761794917
-    Price: €39.99 EUR
+    Price: €59.99 EUR
 - [Men's Color Block Zip Up Hoodie Trendy Casual Jacket](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket): Men's Color Block Zip Up Hoodie Trendy Casual Jacket. This trendy jacket features a comfortable hood and vibrant color blocks, perfect for everyday wear.
-  Updated: 2025-11-16T12:32:04Z
+  Updated: 2025-11-19T21:27:35Z
   Vendor: Nico`s Store
   Product Type: Hoodie
   Availability: Available
@@ -4405,85 +4461,85 @@
   - [Red / M](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871267766597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dd66c92036efacf3480e8fb5318cee99_a1d9ebbd987d.jpg?v=1761795269
-    Price: €15.99 EUR
+    Price: €60.00 EUR
   - [Black / M](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871267799365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3e668e7213ef6621d15770a7d1919346_35ed0fed9a00.jpg?v=1761795288
-    Price: €17.99 EUR
+    Price: €60.00 EUR
   - [Light Grey / M](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871267832133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/63e9c76d1ff80a7f3bf7bf6945782da2_d9614db69737.jpg?v=1761795305
-    Price: €14.59 EUR
+    Price: €60.00 EUR
   - [Dark Gray / M](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871267864901)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5bcdcf898a09c1733add01b3b9a70015_a15f9e81fcb1.jpg?v=1761795324
-    Price: €116.38 EUR
+    Price: €60.00 EUR
   - [Red / L](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871267897669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dd66c92036efacf3480e8fb5318cee99_a1d9ebbd987d.jpg?v=1761795269
-    Price: €15.99 EUR
+    Price: €60.00 EUR
   - [Black / L](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871267930437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3e668e7213ef6621d15770a7d1919346_35ed0fed9a00.jpg?v=1761795288
-    Price: €17.99 EUR
+    Price: €60.00 EUR
   - [Light Grey / L](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871267963205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/63e9c76d1ff80a7f3bf7bf6945782da2_d9614db69737.jpg?v=1761795305
-    Price: €14.59 EUR
+    Price: €60.00 EUR
   - [Blue / L](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871267995973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c5aab92905d3818e0881196dbe061d18_10227a3461ed.jpg?v=1761795339
-    Price: €15.28 EUR
+    Price: €60.00 EUR
   - [Dark Gray / L](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871268028741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5bcdcf898a09c1733add01b3b9a70015_a15f9e81fcb1.jpg?v=1761795324
-    Price: €116.38 EUR
+    Price: €60.00 EUR
   - [Red / XL](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871268061509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dd66c92036efacf3480e8fb5318cee99_a1d9ebbd987d.jpg?v=1761795269
-    Price: €15.99 EUR
+    Price: €60.00 EUR
   - [Black / XL](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871268094277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3e668e7213ef6621d15770a7d1919346_35ed0fed9a00.jpg?v=1761795288
-    Price: €17.99 EUR
+    Price: €60.00 EUR
   - [Light Grey / XL](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871268127045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/63e9c76d1ff80a7f3bf7bf6945782da2_d9614db69737.jpg?v=1761795305
-    Price: €14.59 EUR
+    Price: €60.00 EUR
   - [Blue / XL](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871268159813)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c5aab92905d3818e0881196dbe061d18_10227a3461ed.jpg?v=1761795339
-    Price: €15.28 EUR
+    Price: €60.00 EUR
   - [Dark Gray / XL](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871268192581)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5bcdcf898a09c1733add01b3b9a70015_a15f9e81fcb1.jpg?v=1761795324
-    Price: €116.38 EUR
+    Price: €60.00 EUR
   - [Red / XXL](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871268225349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dd66c92036efacf3480e8fb5318cee99_a1d9ebbd987d.jpg?v=1761795269
-    Price: €15.99 EUR
+    Price: €60.00 EUR
   - [Black / XXL](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871268258117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3e668e7213ef6621d15770a7d1919346_35ed0fed9a00.jpg?v=1761795288
-    Price: €17.99 EUR
+    Price: €60.00 EUR
   - [Light Grey / XXL](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871268290885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/63e9c76d1ff80a7f3bf7bf6945782da2_d9614db69737.jpg?v=1761795305
-    Price: €14.59 EUR
+    Price: €60.00 EUR
   - [Blue / XXL](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871268323653)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c5aab92905d3818e0881196dbe061d18_10227a3461ed.jpg?v=1761795339
-    Price: €15.28 EUR
+    Price: €60.00 EUR
   - [Dark Gray / XXL](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871268356421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5bcdcf898a09c1733add01b3b9a70015_a15f9e81fcb1.jpg?v=1761795324
-    Price: €116.38 EUR
+    Price: €60.00 EUR
   - [Blue / M](https://nicosstore.store/products/mens-color-block-zip-up-hoodie-trendy-casual-jacket?variant=55871268389189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c5aab92905d3818e0881196dbe061d18_10227a3461ed.jpg?v=1761795339
-    Price: €15.28 EUR
+    Price: €60.00 EUR
 - [Devine Contrast T-Shirt Short Sleeve Style basic](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic): Devine Contrast T-Shirt Short Sleeve Style basic. This scoop neck, short sleeve essential combines style and comfort, perfect for any occasion. Shop now!
-  Updated: 2025-11-15T21:41:01Z
+  Updated: 2025-11-19T21:27:35Z
   Vendor: Trendsi
   Product Type: T-Shirt
   Availability: Available
@@ -4491,85 +4547,85 @@
   - [White / S](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185424709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e8a527bb-a62d-4313-ae8a-9a213a49af42-Max.webp?v=1761795356
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [White / M](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185457477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e8a527bb-a62d-4313-ae8a-9a213a49af42-Max.webp?v=1761795356
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [White / L](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185490245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e8a527bb-a62d-4313-ae8a-9a213a49af42-Max.webp?v=1761795356
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [White / XL](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185523013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e8a527bb-a62d-4313-ae8a-9a213a49af42-Max.webp?v=1761795356
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [Light Gray / S](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185555781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a68c3e6d-24ab-4505-a55c-51050c2b111c-Max.webp?v=1761795414
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [Light Gray / M](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185588549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a68c3e6d-24ab-4505-a55c-51050c2b111c-Max.webp?v=1761795414
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [Light Gray / L](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185621317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a68c3e6d-24ab-4505-a55c-51050c2b111c-Max.webp?v=1761795414
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [Light Gray / XL](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185654085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a68c3e6d-24ab-4505-a55c-51050c2b111c-Max.webp?v=1761795414
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [Blush Pink / S](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185686853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2911d64f-930c-4c1c-b941-4202a338a251-Max.webp?v=1761795515
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [Blush Pink / M](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185719621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2911d64f-930c-4c1c-b941-4202a338a251-Max.webp?v=1761795515
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [Blush Pink / L](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185752389)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2911d64f-930c-4c1c-b941-4202a338a251-Max.webp?v=1761795515
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [Blush Pink / XL](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185785157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2911d64f-930c-4c1c-b941-4202a338a251-Max.webp?v=1761795515
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [Gray / S](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185817925)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/700d0874-dc5e-4e8e-82c8-bde8a7090f3c-Max.webp?v=1761795571
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [Gray / M](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185850693)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/700d0874-dc5e-4e8e-82c8-bde8a7090f3c-Max.webp?v=1761795571
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [Gray / L](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185883461)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/700d0874-dc5e-4e8e-82c8-bde8a7090f3c-Max.webp?v=1761795571
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [Gray / XL](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185916229)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/700d0874-dc5e-4e8e-82c8-bde8a7090f3c-Max.webp?v=1761795571
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [Black / S](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185948997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/826b4037-2662-4d12-a1df-03c571d78594-Max.webp?v=1761795671
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [Black / M](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895185981765)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/826b4037-2662-4d12-a1df-03c571d78594-Max.webp?v=1761795671
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [Black / L](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895186014533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/826b4037-2662-4d12-a1df-03c571d78594-Max.webp?v=1761795671
-    Price: €13.79 EUR
+    Price: €23.79 EUR
   - [Black / XL](https://nicosstore.store/products/devine-contrast-t-shirt-short-sleeve-style-basic?variant=55895186047301)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/826b4037-2662-4d12-a1df-03c571d78594-Max.webp?v=1761795671
-    Price: €13.79 EUR
+    Price: €23.79 EUR
 - [Devine Star T-Shirt - Round Neck Short Sleeve](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve): Devine Star T-Shirt - Round Neck Short Sleeve This round neck, short sleeve tee offers ultimate comfort and a unique design perfect for any occasion. Shop now!
-  Updated: 2025-11-15T21:41:33Z
+  Updated: 2025-11-19T21:27:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4577,85 +4633,85 @@
   - [Black / S](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384031557)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/343bb7b1-50e3-4db7-ab74-522bc0b787b5-Max.webp?v=1761795757
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [Black / M](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384064325)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/343bb7b1-50e3-4db7-ab74-522bc0b787b5-Max.webp?v=1761795757
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [Black / L](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384097093)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/343bb7b1-50e3-4db7-ab74-522bc0b787b5-Max.webp?v=1761795757
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [Black / XL](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384129861)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/343bb7b1-50e3-4db7-ab74-522bc0b787b5-Max.webp?v=1761795757
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [Gray / S](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384162629)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0e97eead-8b36-438d-b881-ad40823cfe15-Max.webp?v=1761795822
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [Gray / M](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384195397)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0e97eead-8b36-438d-b881-ad40823cfe15-Max.webp?v=1761795822
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [Gray / L](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384228165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0e97eead-8b36-438d-b881-ad40823cfe15-Max.webp?v=1761795822
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [Gray / XL](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384260933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0e97eead-8b36-438d-b881-ad40823cfe15-Max.webp?v=1761795822
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [White / S](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384293701)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5e1f0f70-6394-47ea-b8c6-aba80ea11de3-Max.webp?v=1761795908
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [White / M](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384326469)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5e1f0f70-6394-47ea-b8c6-aba80ea11de3-Max.webp?v=1761795908
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [White / L](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384359237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5e1f0f70-6394-47ea-b8c6-aba80ea11de3-Max.webp?v=1761795908
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [White / XL](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384392005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5e1f0f70-6394-47ea-b8c6-aba80ea11de3-Max.webp?v=1761795908
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [Navy / S](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384424773)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d8031432-72ee-4995-85e6-84ecec2dd6d6-Max.webp?v=1761796014
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [Navy / M](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384457541)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d8031432-72ee-4995-85e6-84ecec2dd6d6-Max.webp?v=1761796014
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [Navy / L](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384490309)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d8031432-72ee-4995-85e6-84ecec2dd6d6-Max.webp?v=1761796014
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [Navy / XL](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384523077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d8031432-72ee-4995-85e6-84ecec2dd6d6-Max.webp?v=1761796014
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [Blush Pink / S](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384555845)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e9c656d2-8a7a-41a7-8a0a-5c097fbd263d-Max.webp?v=1761796088
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [Blush Pink / M](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384588613)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e9c656d2-8a7a-41a7-8a0a-5c097fbd263d-Max.webp?v=1761796088
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [Blush Pink / L](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384621381)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e9c656d2-8a7a-41a7-8a0a-5c097fbd263d-Max.webp?v=1761796088
-    Price: €11.82 EUR
+    Price: €25.82 EUR
   - [Blush Pink / XL](https://nicosstore.store/products/devine-star-t-shirt-round-neck-short-sleeve?variant=55895384654149)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e9c656d2-8a7a-41a7-8a0a-5c097fbd263d-Max.webp?v=1761796088
-    Price: €11.82 EUR
+    Price: €25.82 EUR
 - [Round Neck T-Shirt Pants Set Style by Nico's Store](https://nicosstore.store/products/round-neck-t-shirt-pants-set-style-by-nicos-store): Round Neck T-Shirt Pants Set Style by Nico's Store. Perfect for effortless style, this set combines comfort and fashion for any occasion. Shop now!
-  Updated: 2025-11-15T21:42:07Z
+  Updated: 2025-11-19T21:27:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4663,21 +4719,21 @@
   - [Blush Pink / S](https://nicosstore.store/products/round-neck-t-shirt-pants-set-style-by-nicos-store?variant=55895638311237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/aaa03bcf-d12c-4a89-acea-426c50587bee-Max-Origin.webp?v=1761796690
-    Price: €21.99 EUR
+    Price: €38.99 EUR
   - [Blush Pink / M](https://nicosstore.store/products/round-neck-t-shirt-pants-set-style-by-nicos-store?variant=55895638344005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/aaa03bcf-d12c-4a89-acea-426c50587bee-Max-Origin.webp?v=1761796690
-    Price: €21.99 EUR
+    Price: €38.99 EUR
   - [Blush Pink / L](https://nicosstore.store/products/round-neck-t-shirt-pants-set-style-by-nicos-store?variant=55895638376773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/aaa03bcf-d12c-4a89-acea-426c50587bee-Max-Origin.webp?v=1761796690
-    Price: €21.99 EUR
+    Price: €38.99 EUR
   - [Blush Pink / XL](https://nicosstore.store/products/round-neck-t-shirt-pants-set-style-by-nicos-store?variant=55895638409541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/aaa03bcf-d12c-4a89-acea-426c50587bee-Max-Origin.webp?v=1761796690
-    Price: €21.99 EUR
+    Price: €38.99 EUR
 - [Ruched Long Sleeve Blouse with Drape Collar](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar): Ruched Long Sleeve Blouse with Drape Collar. This elegant piece offers effortless sophistication, perfect for any occasion. Shop now for timeless fashion!
-  Updated: 2025-11-18T04:46:00Z
+  Updated: 2025-11-19T21:27:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4685,205 +4741,205 @@
   - [Khaki / S](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896120688965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b2392b58bb8543a6ab5451e0e9ea81f2-Max-Origin.webp?v=1761796756
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Khaki / M](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896120721733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b2392b58bb8543a6ab5451e0e9ea81f2-Max-Origin.webp?v=1761796756
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Khaki / L](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896120754501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b2392b58bb8543a6ab5451e0e9ea81f2-Max-Origin.webp?v=1761796756
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Khaki / XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896120787269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b2392b58bb8543a6ab5451e0e9ea81f2-Max-Origin.webp?v=1761796756
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Khaki / 2XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896120820037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b2392b58bb8543a6ab5451e0e9ea81f2-Max-Origin.webp?v=1761796756
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Grey / S](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896120852805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2c61d8e42422413ea6505061898f258f-Max-Origin.webp?v=1761796816
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Grey / M](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896120885573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2c61d8e42422413ea6505061898f258f-Max-Origin.webp?v=1761796816
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Grey / L](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896120918341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2c61d8e42422413ea6505061898f258f-Max-Origin.webp?v=1761796816
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Grey / XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896120951109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2c61d8e42422413ea6505061898f258f-Max-Origin.webp?v=1761796816
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Grey / 2XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896120983877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2c61d8e42422413ea6505061898f258f-Max-Origin.webp?v=1761796816
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Black / S](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121016645)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b1be43cc80a241d7a76313f4ec6e1470-Max-Origin.webp?v=1761796878
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Black / M](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121049413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b1be43cc80a241d7a76313f4ec6e1470-Max-Origin.webp?v=1761796878
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Black / L](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121082181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b1be43cc80a241d7a76313f4ec6e1470-Max-Origin.webp?v=1761796878
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Black / XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121114949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b1be43cc80a241d7a76313f4ec6e1470-Max-Origin.webp?v=1761796878
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Black / 2XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121147717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b1be43cc80a241d7a76313f4ec6e1470-Max-Origin.webp?v=1761796878
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Blue / S](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121180485)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee8535b0ce2c4257a9cc3edb35a73efc-Max-Origin.webp?v=1761796931
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Blue / M](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121213253)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee8535b0ce2c4257a9cc3edb35a73efc-Max-Origin.webp?v=1761796931
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Blue / L](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121246021)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee8535b0ce2c4257a9cc3edb35a73efc-Max-Origin.webp?v=1761796931
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Blue / XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121278789)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee8535b0ce2c4257a9cc3edb35a73efc-Max-Origin.webp?v=1761796931
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Blue / 2XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121311557)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee8535b0ce2c4257a9cc3edb35a73efc-Max-Origin.webp?v=1761796931
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Pink / S](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121344325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c9c8f4d2711b4fb18ae2d0ccdf00e40c-Max-Origin.webp?v=1761796989
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Pink / M](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121377093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c9c8f4d2711b4fb18ae2d0ccdf00e40c-Max-Origin.webp?v=1761796989
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Pink / L](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121409861)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c9c8f4d2711b4fb18ae2d0ccdf00e40c-Max-Origin.webp?v=1761796989
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Pink / XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121442629)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c9c8f4d2711b4fb18ae2d0ccdf00e40c-Max-Origin.webp?v=1761796989
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Pink / 2XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121475397)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c9c8f4d2711b4fb18ae2d0ccdf00e40c-Max-Origin.webp?v=1761796989
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Burgundy / S](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121508165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/03db6e6e20c24fb8afc29932ab271587-Max-Origin.webp?v=1761797039
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Burgundy / M](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121540933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/03db6e6e20c24fb8afc29932ab271587-Max-Origin.webp?v=1761797039
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Burgundy / L](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121573701)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/03db6e6e20c24fb8afc29932ab271587-Max-Origin.webp?v=1761797039
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Burgundy / XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121606469)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/03db6e6e20c24fb8afc29932ab271587-Max-Origin.webp?v=1761797039
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Burgundy / 2XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121639237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/03db6e6e20c24fb8afc29932ab271587-Max-Origin.webp?v=1761797039
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [White / S](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121672005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fd5f4948345e4415a18b57cc2cbb7d12-Max-Origin.webp?v=1761797093
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [White / M](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121704773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fd5f4948345e4415a18b57cc2cbb7d12-Max-Origin.webp?v=1761797093
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [White / L](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121737541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fd5f4948345e4415a18b57cc2cbb7d12-Max-Origin.webp?v=1761797093
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [White / XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121770309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fd5f4948345e4415a18b57cc2cbb7d12-Max-Origin.webp?v=1761797093
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [White / 2XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121803077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fd5f4948345e4415a18b57cc2cbb7d12-Max-Origin.webp?v=1761797093
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Purple / S](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121835845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/955a5b47575b400aa27bf651df1426bc-Max-Origin.webp?v=1761797146
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Purple / M](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121868613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/955a5b47575b400aa27bf651df1426bc-Max-Origin.webp?v=1761797146
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Purple / L](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121901381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/955a5b47575b400aa27bf651df1426bc-Max-Origin.webp?v=1761797146
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Purple / XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121934149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/955a5b47575b400aa27bf651df1426bc-Max-Origin.webp?v=1761797146
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Purple / 2XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121966917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/955a5b47575b400aa27bf651df1426bc-Max-Origin.webp?v=1761797146
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Navy Blue / S](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896121999685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8ba9eba39c67465c89fde714c31a41d1-Max-Origin.webp?v=1761797199
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Navy Blue / M](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896122032453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8ba9eba39c67465c89fde714c31a41d1-Max-Origin.webp?v=1761797199
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Navy Blue / L](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896122065221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8ba9eba39c67465c89fde714c31a41d1-Max-Origin.webp?v=1761797199
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Navy Blue / XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896122097989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8ba9eba39c67465c89fde714c31a41d1-Max-Origin.webp?v=1761797199
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Navy Blue / 2XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896122130757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8ba9eba39c67465c89fde714c31a41d1-Max-Origin.webp?v=1761797199
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Yellow / S](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896122163525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e57ea952fe6c4985beafe28d07bb261c-Max-Origin.webp?v=1761797254
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Yellow / M](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896122196293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e57ea952fe6c4985beafe28d07bb261c-Max-Origin.webp?v=1761797254
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Yellow / L](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896122229061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e57ea952fe6c4985beafe28d07bb261c-Max-Origin.webp?v=1761797254
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Yellow / XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896122261829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e57ea952fe6c4985beafe28d07bb261c-Max-Origin.webp?v=1761797254
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Yellow / 2XL](https://nicosstore.store/products/ruched-long-sleeve-blouse-with-drape-collar?variant=55896122294597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e57ea952fe6c4985beafe28d07bb261c-Max-Origin.webp?v=1761797254
-    Price: €19.99 EUR
+    Price: €29.99 EUR
 - [Luxurious Cropped Zip-Up Style by Nico's Store](https://nicosstore.store/products/luxurious-cropped-zip-up-style-by-nicos-store): Luxurious Cropped Zip-Up Style by Nico's Store. This stylish cropped zip-up jacket offers ultimate comfort and chic appeal, for any occasion.
-  Updated: 2025-11-18T04:10:56Z
+  Updated: 2025-11-20T15:42:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5049,7 +5105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fdec728e9ec94a13994354900c2f81c2-Max-Origin.webp?v=1761797599
     Price: €32.30 EUR
 - [Round Toe Platform Boots -Nico's store](https://nicosstore.store/products/round-toe-platform-boots-nicos-store): Round Toe Platform Boots -Nico's store! Comfortable and chic, these boots are perfect for any occasion. Shop now for the ultimate footwear statement!
-  Updated: 2025-11-15T21:43:20Z
+  Updated: 2025-11-19T21:27:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5057,53 +5113,53 @@
   - [Camel / 36](https://nicosstore.store/products/round-toe-platform-boots-nicos-store?variant=55896426807621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f2d07443e86d4e68817a8ccdc6272d52-Max-Origin.webp?v=1761797731
-    Price: €25.99 EUR
+    Price: €42.99 EUR
   - [Camel / 37](https://nicosstore.store/products/round-toe-platform-boots-nicos-store?variant=55896426840389)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f2d07443e86d4e68817a8ccdc6272d52-Max-Origin.webp?v=1761797731
-    Price: €25.99 EUR
+    Price: €42.99 EUR
   - [Camel / 38](https://nicosstore.store/products/round-toe-platform-boots-nicos-store?variant=55896426873157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f2d07443e86d4e68817a8ccdc6272d52-Max-Origin.webp?v=1761797731
-    Price: €25.99 EUR
+    Price: €42.99 EUR
   - [Camel / 39](https://nicosstore.store/products/round-toe-platform-boots-nicos-store?variant=55896426905925)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f2d07443e86d4e68817a8ccdc6272d52-Max-Origin.webp?v=1761797731
-    Price: €25.99 EUR
+    Price: €42.99 EUR
   - [Camel / 40](https://nicosstore.store/products/round-toe-platform-boots-nicos-store?variant=55896426938693)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f2d07443e86d4e68817a8ccdc6272d52-Max-Origin.webp?v=1761797731
-    Price: €25.99 EUR
+    Price: €42.99 EUR
   - [Camel / 41](https://nicosstore.store/products/round-toe-platform-boots-nicos-store?variant=55896426971461)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f2d07443e86d4e68817a8ccdc6272d52-Max-Origin.webp?v=1761797731
-    Price: €25.99 EUR
+    Price: €42.99 EUR
   - [Khaki / 36](https://nicosstore.store/products/round-toe-platform-boots-nicos-store?variant=55896427004229)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d0986dfe41394309833c9276eb7a632d-Max-Origin.webp?v=1761797805
-    Price: €25.99 EUR
+    Price: €42.99 EUR
   - [Khaki / 37](https://nicosstore.store/products/round-toe-platform-boots-nicos-store?variant=55896427036997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d0986dfe41394309833c9276eb7a632d-Max-Origin.webp?v=1761797805
-    Price: €25.99 EUR
+    Price: €42.99 EUR
   - [Khaki / 38](https://nicosstore.store/products/round-toe-platform-boots-nicos-store?variant=55896427069765)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d0986dfe41394309833c9276eb7a632d-Max-Origin.webp?v=1761797805
-    Price: €25.99 EUR
+    Price: €42.99 EUR
   - [Khaki / 39](https://nicosstore.store/products/round-toe-platform-boots-nicos-store?variant=55896427102533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d0986dfe41394309833c9276eb7a632d-Max-Origin.webp?v=1761797805
-    Price: €25.99 EUR
+    Price: €42.99 EUR
   - [Khaki / 40](https://nicosstore.store/products/round-toe-platform-boots-nicos-store?variant=55896427135301)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d0986dfe41394309833c9276eb7a632d-Max-Origin.webp?v=1761797805
-    Price: €25.99 EUR
+    Price: €42.99 EUR
   - [Khaki / 41](https://nicosstore.store/products/round-toe-platform-boots-nicos-store?variant=55896427168069)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d0986dfe41394309833c9276eb7a632d-Max-Origin.webp?v=1761797805
-    Price: €25.99 EUR
+    Price: €42.99 EUR
 - [Round Toe Platform Boots for Stylish Comfort and Support](https://nicosstore.store/products/round-toe-platform-boots-for-stylish-comfort-and-support): Round Toe Platform Boots for Stylish Comfort and Support Durable, cushioned, and chic perfect for casual wear, outings, or all-day comfort.
-  Updated: 2025-11-15T21:43:32Z
+  Updated: 2025-11-19T21:27:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5253,7 +5309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0e2d5598d1014ca89da96b0dbd1298ba-Max-Origin.webp?v=1761797887
     Price: €35.99 EUR
 - [Side Zip Faux Fur Boots from Nico's store](https://nicosstore.store/products/side-zip-faux-fur-boots-from-nicos-store): Side Zip Faux Fur Boots from Nico's store.Embrace chic style and warmth this season. Perfect for cozy outfits and daily adventures!
-  Updated: 2025-11-16T18:53:03Z
+  Updated: 2025-11-19T21:27:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5261,69 +5317,69 @@
   - [Brown / 36](https://nicosstore.store/products/side-zip-faux-fur-boots-from-nicos-store?variant=55896449909061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/911db75a43bf4ad3b78ee250aa5e9e38-Max-Origin.webp?v=1761798099
-    Price: €29.99 EUR
+    Price: €41.99 EUR
   - [Brown / 37](https://nicosstore.store/products/side-zip-faux-fur-boots-from-nicos-store?variant=55896449941829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/911db75a43bf4ad3b78ee250aa5e9e38-Max-Origin.webp?v=1761798099
-    Price: €29.99 EUR
+    Price: €41.99 EUR
   - [Brown / 38](https://nicosstore.store/products/side-zip-faux-fur-boots-from-nicos-store?variant=55896449974597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/911db75a43bf4ad3b78ee250aa5e9e38-Max-Origin.webp?v=1761798099
-    Price: €29.99 EUR
+    Price: €41.99 EUR
   - [Brown / 39](https://nicosstore.store/products/side-zip-faux-fur-boots-from-nicos-store?variant=55896450007365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/911db75a43bf4ad3b78ee250aa5e9e38-Max-Origin.webp?v=1761798099
-    Price: €29.99 EUR
+    Price: €41.99 EUR
   - [Brown / 40](https://nicosstore.store/products/side-zip-faux-fur-boots-from-nicos-store?variant=55896450040133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/911db75a43bf4ad3b78ee250aa5e9e38-Max-Origin.webp?v=1761798099
-    Price: €29.99 EUR
+    Price: €41.99 EUR
   - [Brown / 41](https://nicosstore.store/products/side-zip-faux-fur-boots-from-nicos-store?variant=55896450072901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/911db75a43bf4ad3b78ee250aa5e9e38-Max-Origin.webp?v=1761798099
-    Price: €29.99 EUR
+    Price: €41.99 EUR
   - [Brown / 42](https://nicosstore.store/products/side-zip-faux-fur-boots-from-nicos-store?variant=55896450105669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/911db75a43bf4ad3b78ee250aa5e9e38-Max-Origin.webp?v=1761798099
-    Price: €29.99 EUR
+    Price: €41.99 EUR
   - [Brown / 43](https://nicosstore.store/products/side-zip-faux-fur-boots-from-nicos-store?variant=55896450138437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/911db75a43bf4ad3b78ee250aa5e9e38-Max-Origin.webp?v=1761798099
-    Price: €29.99 EUR
+    Price: €41.99 EUR
   - [Black / 36](https://nicosstore.store/products/side-zip-faux-fur-boots-from-nicos-store?variant=55896450171205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9bc02e767fba4aac931d56abc8a2c7a4-Max-Origin.webp?v=1761797996
-    Price: €29.99 EUR
+    Price: €41.99 EUR
   - [Black / 37](https://nicosstore.store/products/side-zip-faux-fur-boots-from-nicos-store?variant=55896450203973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9bc02e767fba4aac931d56abc8a2c7a4-Max-Origin.webp?v=1761797996
-    Price: €29.99 EUR
+    Price: €41.99 EUR
   - [Black / 38](https://nicosstore.store/products/side-zip-faux-fur-boots-from-nicos-store?variant=55896450236741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9bc02e767fba4aac931d56abc8a2c7a4-Max-Origin.webp?v=1761797996
-    Price: €29.99 EUR
+    Price: €41.99 EUR
   - [Black / 39](https://nicosstore.store/products/side-zip-faux-fur-boots-from-nicos-store?variant=55896450269509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9bc02e767fba4aac931d56abc8a2c7a4-Max-Origin.webp?v=1761797996
-    Price: €29.99 EUR
+    Price: €41.99 EUR
   - [Black / 40](https://nicosstore.store/products/side-zip-faux-fur-boots-from-nicos-store?variant=55896450302277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9bc02e767fba4aac931d56abc8a2c7a4-Max-Origin.webp?v=1761797996
-    Price: €29.99 EUR
+    Price: €41.99 EUR
   - [Black / 41](https://nicosstore.store/products/side-zip-faux-fur-boots-from-nicos-store?variant=55896450335045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9bc02e767fba4aac931d56abc8a2c7a4-Max-Origin.webp?v=1761797996
-    Price: €29.99 EUR
+    Price: €41.99 EUR
   - [Black / 42](https://nicosstore.store/products/side-zip-faux-fur-boots-from-nicos-store?variant=55896450367813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9bc02e767fba4aac931d56abc8a2c7a4-Max-Origin.webp?v=1761797996
-    Price: €29.99 EUR
+    Price: €41.99 EUR
   - [Black / 43](https://nicosstore.store/products/side-zip-faux-fur-boots-from-nicos-store?variant=55896450400581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9bc02e767fba4aac931d56abc8a2c7a4-Max-Origin.webp?v=1761797996
-    Price: €29.99 EUR
+    Price: €41.99 EUR
 - [Striped Mesh Lace Up Sneakers](https://nicosstore.store/products/striped-mesh-lace-up-sneakers): Striped Mesh Lace Up Sneakers . Featuring a unique contrast mesh design, these sneakers offer comfort and trendsetting flair. Perfect for any outfit!
-  Updated: 2025-11-15T21:43:59Z
+  Updated: 2025-11-19T21:27:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5331,61 +5387,61 @@
   - [Orange / 36](https://nicosstore.store/products/striped-mesh-lace-up-sneakers?variant=55896485855557)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a8849feca7444cfcb8fcb4782b41b783-Max-Origin.webp?v=1761798331
-    Price: €14.99 EUR
+    Price: €28.00 EUR
   - [Orange / 37](https://nicosstore.store/products/striped-mesh-lace-up-sneakers?variant=55896485888325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a8849feca7444cfcb8fcb4782b41b783-Max-Origin.webp?v=1761798331
-    Price: €14.99 EUR
+    Price: €28.00 EUR
   - [Orange / 38](https://nicosstore.store/products/striped-mesh-lace-up-sneakers?variant=55896485921093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a8849feca7444cfcb8fcb4782b41b783-Max-Origin.webp?v=1761798331
-    Price: €14.99 EUR
+    Price: €28.00 EUR
   - [Orange / 39](https://nicosstore.store/products/striped-mesh-lace-up-sneakers?variant=55896485953861)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a8849feca7444cfcb8fcb4782b41b783-Max-Origin.webp?v=1761798331
-    Price: €14.99 EUR
+    Price: €28.00 EUR
   - [Orange / 40](https://nicosstore.store/products/striped-mesh-lace-up-sneakers?variant=55896485986629)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a8849feca7444cfcb8fcb4782b41b783-Max-Origin.webp?v=1761798331
-    Price: €14.99 EUR
+    Price: €28.00 EUR
   - [Orange / 41](https://nicosstore.store/products/striped-mesh-lace-up-sneakers?variant=55896486019397)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a8849feca7444cfcb8fcb4782b41b783-Max-Origin.webp?v=1761798331
-    Price: €14.99 EUR
+    Price: €28.00 EUR
   - [Orange / 42](https://nicosstore.store/products/striped-mesh-lace-up-sneakers?variant=55896486052165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a8849feca7444cfcb8fcb4782b41b783-Max-Origin.webp?v=1761798331
-    Price: €14.99 EUR
+    Price: €28.00 EUR
   - [Burgundy / 36](https://nicosstore.store/products/striped-mesh-lace-up-sneakers?variant=55896486084933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8abdc438634f4b99884640a4502d0928-Max-Origin.webp?v=1761798174
-    Price: €14.99 EUR
+    Price: €28.00 EUR
   - [Burgundy / 37](https://nicosstore.store/products/striped-mesh-lace-up-sneakers?variant=55896486117701)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8abdc438634f4b99884640a4502d0928-Max-Origin.webp?v=1761798174
-    Price: €14.99 EUR
+    Price: €28.00 EUR
   - [Burgundy / 38](https://nicosstore.store/products/striped-mesh-lace-up-sneakers?variant=55896486150469)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8abdc438634f4b99884640a4502d0928-Max-Origin.webp?v=1761798174
-    Price: €14.99 EUR
+    Price: €28.00 EUR
   - [Burgundy / 39](https://nicosstore.store/products/striped-mesh-lace-up-sneakers?variant=55896486183237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8abdc438634f4b99884640a4502d0928-Max-Origin.webp?v=1761798174
-    Price: €14.99 EUR
+    Price: €28.00 EUR
   - [Burgundy / 40](https://nicosstore.store/products/striped-mesh-lace-up-sneakers?variant=55896486216005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8abdc438634f4b99884640a4502d0928-Max-Origin.webp?v=1761798174
-    Price: €14.99 EUR
+    Price: €28.00 EUR
   - [Burgundy / 41](https://nicosstore.store/products/striped-mesh-lace-up-sneakers?variant=55896486248773)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8abdc438634f4b99884640a4502d0928-Max-Origin.webp?v=1761798174
-    Price: €14.99 EUR
+    Price: €28.00 EUR
   - [Burgundy / 42](https://nicosstore.store/products/striped-mesh-lace-up-sneakers?variant=55896486281541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8abdc438634f4b99884640a4502d0928-Max-Origin.webp?v=1761798174
-    Price: €14.99 EUR
+    Price: €28.00 EUR
 - [Perfect Ronaldo Youth T-Shirt for Young Fans](https://nicosstore.store/products/perfect-ronaldo-youth-t-shirt-for-young-fans): Perfect Ronaldo Youth T-Shirt for Young Fans .This stylish and comfortable tee features an eye-catching Ronaldo print, perfect for your favorite soccer star.
-  Updated: 2025-11-15T21:44:05Z
+  Updated: 2025-11-19T21:27:36Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -5393,25 +5449,25 @@
   - [XS](https://nicosstore.store/products/perfect-ronaldo-youth-t-shirt-for-young-fans?variant=55921805197637)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-sports-tee-white-front-2-68ed32ccb1ad3.jpg?v=1761798398
-    Price: €13.00 EUR
+    Price: €25.00 EUR
   - [S](https://nicosstore.store/products/perfect-ronaldo-youth-t-shirt-for-young-fans?variant=55921805230405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-sports-tee-white-front-2-68ed32ccb1ad3.jpg?v=1761798398
-    Price: €13.00 EUR
+    Price: €25.00 EUR
   - [M](https://nicosstore.store/products/perfect-ronaldo-youth-t-shirt-for-young-fans?variant=55921805263173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-sports-tee-white-front-2-68ed32ccb1ad3.jpg?v=1761798398
-    Price: €13.00 EUR
+    Price: €25.00 EUR
   - [L](https://nicosstore.store/products/perfect-ronaldo-youth-t-shirt-for-young-fans?variant=55921805295941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-sports-tee-white-front-2-68ed32ccb1ad3.jpg?v=1761798398
-    Price: €13.00 EUR
+    Price: €25.00 EUR
   - [XL](https://nicosstore.store/products/perfect-ronaldo-youth-t-shirt-for-young-fans?variant=55921805328709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-sports-tee-white-front-2-68ed32ccb1ad3.jpg?v=1761798398
-    Price: €13.00 EUR
+    Price: €25.00 EUR
 - [Unisex Abstract Print Sweatshirt](https://nicosstore.store/products/unisex-abstract-print-sweatshirt): Elevate your style with our unisex abstract print sweatshirt, designed for trendy comfort. Perfect for any casual outing, it's a must-have for your wardrobe!
-  Updated: 2025-11-15T21:44:12Z
+  Updated: 2025-11-19T21:27:36Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -5419,49 +5475,49 @@
   - [2XS](https://nicosstore.store/products/unisex-abstract-print-sweatshirt?variant=55921951867205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68ed41037f0aa.jpg?v=1761798494
-    Price: €26.00 EUR
+    Price: €49.00 EUR
   - [XS](https://nicosstore.store/products/unisex-abstract-print-sweatshirt?variant=55921951899973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68ed41037f0aa.jpg?v=1761798494
-    Price: €26.00 EUR
+    Price: €49.00 EUR
   - [S](https://nicosstore.store/products/unisex-abstract-print-sweatshirt?variant=55921951932741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68ed41037f0aa.jpg?v=1761798494
-    Price: €26.00 EUR
+    Price: €49.00 EUR
   - [M](https://nicosstore.store/products/unisex-abstract-print-sweatshirt?variant=55921951965509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68ed41037f0aa.jpg?v=1761798494
-    Price: €26.00 EUR
+    Price: €49.00 EUR
   - [L](https://nicosstore.store/products/unisex-abstract-print-sweatshirt?variant=55921951998277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68ed41037f0aa.jpg?v=1761798494
-    Price: €26.00 EUR
+    Price: €49.00 EUR
   - [XL](https://nicosstore.store/products/unisex-abstract-print-sweatshirt?variant=55921952031045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68ed41037f0aa.jpg?v=1761798494
-    Price: €26.00 EUR
+    Price: €49.00 EUR
   - [2XL](https://nicosstore.store/products/unisex-abstract-print-sweatshirt?variant=55921952063813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68ed41037f0aa.jpg?v=1761798494
-    Price: €27.50 EUR
+    Price: €49.00 EUR
   - [3XL](https://nicosstore.store/products/unisex-abstract-print-sweatshirt?variant=55921952096581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68ed41037f0aa.jpg?v=1761798494
-    Price: €28.50 EUR
+    Price: €49.00 EUR
   - [4XL](https://nicosstore.store/products/unisex-abstract-print-sweatshirt?variant=55921952129349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68ed41037f0aa.jpg?v=1761798494
-    Price: €30.00 EUR
+    Price: €49.00 EUR
   - [5XL](https://nicosstore.store/products/unisex-abstract-print-sweatshirt?variant=55921952162117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68ed41037f0aa.jpg?v=1761798494
-    Price: €31.50 EUR
+    Price: €49.00 EUR
   - [6XL](https://nicosstore.store/products/unisex-abstract-print-sweatshirt?variant=55921952194885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68ed41037f0aa.jpg?v=1761798494
-    Price: €33.00 EUR
+    Price: €49.00 EUR
 - [Unisex Bomber Jacket Nico's store](https://nicosstore.store/products/unisex-bomber-jacket-nicos-store): Unisex Bomber Jacket Nico's store. Perfect for any occasion, this versatile jacket combines comfort and fashion.
-  Updated: 2025-11-15T21:44:18Z
+  Updated: 2025-11-19T21:27:36Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -5469,33 +5525,33 @@
   - [XS](https://nicosstore.store/products/unisex-bomber-jacket-nicos-store?variant=55922009866565)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-bomber-jacket-white-left-68ed44a58bd95.jpg?v=1761798606
-    Price: €45.50 EUR
+    Price: €60.00 EUR
   - [S](https://nicosstore.store/products/unisex-bomber-jacket-nicos-store?variant=55922009899333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-bomber-jacket-white-left-68ed44a58bd95.jpg?v=1761798606
-    Price: €45.50 EUR
+    Price: €60.00 EUR
   - [M](https://nicosstore.store/products/unisex-bomber-jacket-nicos-store?variant=55922009932101)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-bomber-jacket-white-left-68ed44a58bd95.jpg?v=1761798606
-    Price: €45.50 EUR
+    Price: €60.00 EUR
   - [L](https://nicosstore.store/products/unisex-bomber-jacket-nicos-store?variant=55922009964869)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-bomber-jacket-white-left-68ed44a58bd95.jpg?v=1761798606
-    Price: €45.50 EUR
+    Price: €60.00 EUR
   - [XL](https://nicosstore.store/products/unisex-bomber-jacket-nicos-store?variant=55922009997637)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-bomber-jacket-white-left-68ed44a58bd95.jpg?v=1761798606
-    Price: €45.50 EUR
+    Price: €60.00 EUR
   - [2XL](https://nicosstore.store/products/unisex-bomber-jacket-nicos-store?variant=55922010030405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-bomber-jacket-white-left-68ed44a58bd95.jpg?v=1761798606
-    Price: €46.50 EUR
+    Price: €60.00 EUR
   - [3XL](https://nicosstore.store/products/unisex-bomber-jacket-nicos-store?variant=55922010063173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-bomber-jacket-white-left-68ed44a58bd95.jpg?v=1761798606
-    Price: €47.50 EUR
+    Price: €60.00 EUR
 - [Lovelet High Waist Active Pants](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets): Lovelet High Waist Active Pants enjoy comfort, style, and functionality with these must-have pants designed for active lifestyles.
-  Updated: 2025-11-15T21:44:47Z
+  Updated: 2025-11-19T21:27:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5503,69 +5559,69 @@
   - [Gray / S](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets?variant=55922142314821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1cf25ffc-6e0a-4aca-add5-7527872cbf4d-Max.webp?v=1761798685
-    Price: €15.59 EUR
+    Price: €29.00 EUR
   - [Gray / M](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets?variant=55922142347589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1cf25ffc-6e0a-4aca-add5-7527872cbf4d-Max.webp?v=1761798685
-    Price: €15.59 EUR
+    Price: €29.00 EUR
   - [Gray / L](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets?variant=55922142380357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1cf25ffc-6e0a-4aca-add5-7527872cbf4d-Max.webp?v=1761798685
-    Price: €15.59 EUR
+    Price: €29.00 EUR
   - [Gray / XL](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets?variant=55922142413125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1cf25ffc-6e0a-4aca-add5-7527872cbf4d-Max.webp?v=1761798685
-    Price: €15.59 EUR
+    Price: €29.00 EUR
   - [Black / S](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets?variant=55922142445893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/880c7c73-7e16-4fdc-9759-772b819acb43-Max.webp?v=1761798791
-    Price: €15.59 EUR
+    Price: €29.00 EUR
   - [Black / M](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets?variant=55922142478661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/880c7c73-7e16-4fdc-9759-772b819acb43-Max.webp?v=1761798791
-    Price: €15.59 EUR
+    Price: €29.00 EUR
   - [Black / L](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets?variant=55922142511429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/880c7c73-7e16-4fdc-9759-772b819acb43-Max.webp?v=1761798791
-    Price: €15.59 EUR
+    Price: €29.00 EUR
   - [Black / XL](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets?variant=55922142544197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/880c7c73-7e16-4fdc-9759-772b819acb43-Max.webp?v=1761798791
-    Price: €15.59 EUR
+    Price: €29.00 EUR
   - [Camel / S](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets?variant=55922142576965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0f93556c-5764-4978-9a4b-af9169c1b1de-Max.webp?v=1761798948
-    Price: €15.59 EUR
+    Price: €29.00 EUR
   - [Camel / M](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets?variant=55922142609733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0f93556c-5764-4978-9a4b-af9169c1b1de-Max.webp?v=1761798948
-    Price: €15.59 EUR
+    Price: €29.00 EUR
   - [Camel / L](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets?variant=55922142642501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0f93556c-5764-4978-9a4b-af9169c1b1de-Max.webp?v=1761798948
-    Price: €15.59 EUR
+    Price: €29.00 EUR
   - [Camel / XL](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets?variant=55922142675269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0f93556c-5764-4978-9a4b-af9169c1b1de-Max.webp?v=1761798948
-    Price: €15.59 EUR
+    Price: €29.00 EUR
   - [Brown / S](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets?variant=55922142708037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/78fd4d23-d9b7-48c4-867e-71f023336601-Max.webp?v=1761799021
-    Price: €15.59 EUR
+    Price: €29.00 EUR
   - [Brown / M](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets?variant=55922142740805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/78fd4d23-d9b7-48c4-867e-71f023336601-Max.webp?v=1761799021
-    Price: €15.59 EUR
+    Price: €29.00 EUR
   - [Brown / L](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets?variant=55922142773573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/78fd4d23-d9b7-48c4-867e-71f023336601-Max.webp?v=1761799021
-    Price: €15.59 EUR
+    Price: €29.00 EUR
   - [Brown / XL](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets?variant=55922142806341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/78fd4d23-d9b7-48c4-867e-71f023336601-Max.webp?v=1761799021
-    Price: €15.59 EUR
+    Price: €29.00 EUR
 - [Full Size Collared Long Sleeve](https://nicosstore.store/products/full-size-collared-long-sleeve): Full Size Collared Long Sleeve Mini Dress. Perfect for any occasion, this trendy piece combines elegance and comfort. Shop now!
-  Updated: 2025-11-15T21:44:50Z
+  Updated: 2025-11-19T21:27:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5573,29 +5629,29 @@
   - [Deep Red / S](https://nicosstore.store/products/full-size-collared-long-sleeve?variant=55922146410821)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7ce51a3d-1690-408e-a089-0f07b170e388-Max.webp?v=1761799097
-    Price: €10.99 EUR
+    Price: €21.00 EUR
   - [Deep Red / M](https://nicosstore.store/products/full-size-collared-long-sleeve?variant=55922146443589)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7ce51a3d-1690-408e-a089-0f07b170e388-Max.webp?v=1761799097
-    Price: €10.99 EUR
+    Price: €21.00 EUR
   - [Deep Red / L](https://nicosstore.store/products/full-size-collared-long-sleeve?variant=55922146476357)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7ce51a3d-1690-408e-a089-0f07b170e388-Max.webp?v=1761799097
-    Price: €10.99 EUR
+    Price: €21.00 EUR
   - [Deep Red / XL](https://nicosstore.store/products/full-size-collared-long-sleeve?variant=55922146509125)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7ce51a3d-1690-408e-a089-0f07b170e388-Max.webp?v=1761799097
-    Price: €10.99 EUR
+    Price: €21.00 EUR
   - [Deep Red / 2XL](https://nicosstore.store/products/full-size-collared-long-sleeve?variant=55922146541893)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7ce51a3d-1690-408e-a089-0f07b170e388-Max.webp?v=1761799097
-    Price: €10.99 EUR
+    Price: €21.00 EUR
   - [Deep Red / 3XL](https://nicosstore.store/products/full-size-collared-long-sleeve?variant=55922146574661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7ce51a3d-1690-408e-a089-0f07b170e388-Max.webp?v=1761799097
-    Price: €10.99 EUR
+    Price: €21.00 EUR
 - [Devine Contrast Trim Set -Round Neck Top and Pants Set](https://nicosstore.store/products/devine-contrast-trim-set-round-neck-top-and-pants-set): Devine Contrast Trim Set -Round Neck Top and Pants Set . This round neck top and pants set offers effortless elegance for any occasion. Shop now!
-  Updated: 2025-11-15T21:45:06Z
+  Updated: 2025-11-19T21:27:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5603,53 +5659,53 @@
   - [Cream / S](https://nicosstore.store/products/devine-contrast-trim-set-round-neck-top-and-pants-set?variant=55922155848005)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cb364e60-f440-48a9-a30c-eacd8dcd135b-Max.webp?v=1761799132
-    Price: €29.99 EUR
+    Price: €40.00 EUR
   - [Cream / M](https://nicosstore.store/products/devine-contrast-trim-set-round-neck-top-and-pants-set?variant=55922155880773)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cb364e60-f440-48a9-a30c-eacd8dcd135b-Max.webp?v=1761799132
-    Price: €29.99 EUR
+    Price: €40.00 EUR
   - [Cream / L](https://nicosstore.store/products/devine-contrast-trim-set-round-neck-top-and-pants-set?variant=55922155913541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cb364e60-f440-48a9-a30c-eacd8dcd135b-Max.webp?v=1761799132
-    Price: €29.99 EUR
+    Price: €40.00 EUR
   - [Cream / XL](https://nicosstore.store/products/devine-contrast-trim-set-round-neck-top-and-pants-set?variant=55922155946309)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cb364e60-f440-48a9-a30c-eacd8dcd135b-Max.webp?v=1761799132
-    Price: €29.99 EUR
+    Price: €40.00 EUR
   - [Black / S](https://nicosstore.store/products/devine-contrast-trim-set-round-neck-top-and-pants-set?variant=55922155979077)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fe0144de-1466-4550-a437-ab7cb5495b4e-Max.webp?v=1761799183
-    Price: €29.99 EUR
+    Price: €40.00 EUR
   - [Black / M](https://nicosstore.store/products/devine-contrast-trim-set-round-neck-top-and-pants-set?variant=55922156011845)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fe0144de-1466-4550-a437-ab7cb5495b4e-Max.webp?v=1761799183
-    Price: €29.99 EUR
+    Price: €40.00 EUR
   - [Black / L](https://nicosstore.store/products/devine-contrast-trim-set-round-neck-top-and-pants-set?variant=55922156044613)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fe0144de-1466-4550-a437-ab7cb5495b4e-Max.webp?v=1761799183
-    Price: €29.99 EUR
+    Price: €40.00 EUR
   - [Black / XL](https://nicosstore.store/products/devine-contrast-trim-set-round-neck-top-and-pants-set?variant=55922156077381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fe0144de-1466-4550-a437-ab7cb5495b4e-Max.webp?v=1761799183
-    Price: €29.99 EUR
+    Price: €40.00 EUR
   - [Light Gray / S](https://nicosstore.store/products/devine-contrast-trim-set-round-neck-top-and-pants-set?variant=55922156110149)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/94be74aa-b73e-45e3-bf99-aed641cbb859-Max.webp?v=1761799253
-    Price: €29.99 EUR
+    Price: €40.00 EUR
   - [Light Gray / M](https://nicosstore.store/products/devine-contrast-trim-set-round-neck-top-and-pants-set?variant=55922156142917)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/94be74aa-b73e-45e3-bf99-aed641cbb859-Max.webp?v=1761799253
-    Price: €29.99 EUR
+    Price: €40.00 EUR
   - [Light Gray / L](https://nicosstore.store/products/devine-contrast-trim-set-round-neck-top-and-pants-set?variant=55922156175685)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/94be74aa-b73e-45e3-bf99-aed641cbb859-Max.webp?v=1761799253
-    Price: €29.99 EUR
+    Price: €40.00 EUR
   - [Light Gray / XL](https://nicosstore.store/products/devine-contrast-trim-set-round-neck-top-and-pants-set?variant=55922156208453)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/94be74aa-b73e-45e3-bf99-aed641cbb859-Max.webp?v=1761799253
-    Price: €29.99 EUR
+    Price: €40.00 EUR
 - [Devine Ruched Blouse with Mock Neck and Short Sleeves](https://nicosstore.store/products/devine-ruched-blouse-with-mock-neck-and-short-sleeves): Devine Ruched Blouse with Mock Neck and Short Sleeves Perfect for any occasion, this blouse combines style and comfort effortlessly.
-  Updated: 2025-11-15T21:45:32Z
+  Updated: 2025-11-19T21:27:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5657,65 +5713,65 @@
   - [Red / S](https://nicosstore.store/products/devine-ruched-blouse-with-mock-neck-and-short-sleeves?variant=55922177442117)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b96a15d1-5751-4197-8ba2-35c9682ae32a-Max.webp?v=1761799349
-    Price: €10.99 EUR
+    Price: €25.00 EUR
   - [Red / M](https://nicosstore.store/products/devine-ruched-blouse-with-mock-neck-and-short-sleeves?variant=55922177474885)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b96a15d1-5751-4197-8ba2-35c9682ae32a-Max.webp?v=1761799349
-    Price: €10.99 EUR
+    Price: €25.00 EUR
   - [Red / L](https://nicosstore.store/products/devine-ruched-blouse-with-mock-neck-and-short-sleeves?variant=55922177507653)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b96a15d1-5751-4197-8ba2-35c9682ae32a-Max.webp?v=1761799349
-    Price: €10.99 EUR
+    Price: €25.00 EUR
   - [Tan / S](https://nicosstore.store/products/devine-ruched-blouse-with-mock-neck-and-short-sleeves?variant=55922177540421)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/600b0dc7-7eb1-47ca-b3fb-fd699a23a3bd-Max.webp?v=1761799426
-    Price: €10.99 EUR
+    Price: €25.00 EUR
   - [Tan / M](https://nicosstore.store/products/devine-ruched-blouse-with-mock-neck-and-short-sleeves?variant=55922177573189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/600b0dc7-7eb1-47ca-b3fb-fd699a23a3bd-Max.webp?v=1761799426
-    Price: €10.99 EUR
+    Price: €25.00 EUR
   - [Tan / L](https://nicosstore.store/products/devine-ruched-blouse-with-mock-neck-and-short-sleeves?variant=55922177605957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/600b0dc7-7eb1-47ca-b3fb-fd699a23a3bd-Max.webp?v=1761799426
-    Price: €10.99 EUR
+    Price: €25.00 EUR
   - [White / S](https://nicosstore.store/products/devine-ruched-blouse-with-mock-neck-and-short-sleeves?variant=55922177638725)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8ef3290a-558f-4a49-94b9-45142894aa10-Max.webp?v=1761799510
-    Price: €10.99 EUR
+    Price: €25.00 EUR
   - [White / M](https://nicosstore.store/products/devine-ruched-blouse-with-mock-neck-and-short-sleeves?variant=55922177671493)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8ef3290a-558f-4a49-94b9-45142894aa10-Max.webp?v=1761799510
-    Price: €10.99 EUR
+    Price: €25.00 EUR
   - [White / L](https://nicosstore.store/products/devine-ruched-blouse-with-mock-neck-and-short-sleeves?variant=55922177704261)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8ef3290a-558f-4a49-94b9-45142894aa10-Max.webp?v=1761799510
-    Price: €10.99 EUR
+    Price: €25.00 EUR
   - [Pink / S](https://nicosstore.store/products/devine-ruched-blouse-with-mock-neck-and-short-sleeves?variant=55922177737029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/75b948bb-fc4b-47f3-9380-cdf808f92360-Max.webp?v=1761799582
-    Price: €10.99 EUR
+    Price: €25.00 EUR
   - [Pink / M](https://nicosstore.store/products/devine-ruched-blouse-with-mock-neck-and-short-sleeves?variant=55922177769797)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/75b948bb-fc4b-47f3-9380-cdf808f92360-Max.webp?v=1761799582
-    Price: €10.99 EUR
+    Price: €25.00 EUR
   - [Pink / L](https://nicosstore.store/products/devine-ruched-blouse-with-mock-neck-and-short-sleeves?variant=55922177802565)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/75b948bb-fc4b-47f3-9380-cdf808f92360-Max.webp?v=1761799582
-    Price: €10.99 EUR
+    Price: €25.00 EUR
   - [Black / S](https://nicosstore.store/products/devine-ruched-blouse-with-mock-neck-and-short-sleeves?variant=55922177835333)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/88e3dbfa-2919-44de-97ad-d1280108e462-Max.webp?v=1761799680
-    Price: €10.99 EUR
+    Price: €25.00 EUR
   - [Black / M](https://nicosstore.store/products/devine-ruched-blouse-with-mock-neck-and-short-sleeves?variant=55922177868101)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/88e3dbfa-2919-44de-97ad-d1280108e462-Max.webp?v=1761799680
-    Price: €10.99 EUR
+    Price: €25.00 EUR
   - [Black / L](https://nicosstore.store/products/devine-ruched-blouse-with-mock-neck-and-short-sleeves?variant=55922177900869)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/88e3dbfa-2919-44de-97ad-d1280108e462-Max.webp?v=1761799680
-    Price: €10.99 EUR
+    Price: €25.00 EUR
 - [Contrast Sleeveless Knit Top Set with Mini Skirt](https://nicosstore.store/products/contrast-sleeveless-knit-top-set-with-mini-skirt): Contrast Sleeveless Knit Top Set with Mini Skirt featuring a chic mini skirt. Perfect for any occasion, this set combines comfort and trend effortlessly.
-  Updated: 2025-11-15T21:45:45Z
+  Updated: 2025-11-19T21:27:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5723,41 +5779,41 @@
   - [White / S](https://nicosstore.store/products/contrast-sleeveless-knit-top-set-with-mini-skirt?variant=55922189074757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0dd128f2ef0843f7990bd4219288e274-Max.jpg?v=1761799755
-    Price: €22.99 EUR
+    Price: €40.99 EUR
   - [White / M](https://nicosstore.store/products/contrast-sleeveless-knit-top-set-with-mini-skirt?variant=55922189107525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0dd128f2ef0843f7990bd4219288e274-Max.jpg?v=1761799755
-    Price: €22.99 EUR
+    Price: €40.99 EUR
   - [White / L](https://nicosstore.store/products/contrast-sleeveless-knit-top-set-with-mini-skirt?variant=55922189140293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0dd128f2ef0843f7990bd4219288e274-Max.jpg?v=1761799755
-    Price: €22.99 EUR
+    Price: €40.99 EUR
   - [Chocolate / S](https://nicosstore.store/products/contrast-sleeveless-knit-top-set-with-mini-skirt?variant=55922189173061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d48d9d48b68940da9e2dd0c0342e9c01-Max.jpg?v=1761799816
-    Price: €22.99 EUR
+    Price: €40.99 EUR
   - [Chocolate / M](https://nicosstore.store/products/contrast-sleeveless-knit-top-set-with-mini-skirt?variant=55922189205829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d48d9d48b68940da9e2dd0c0342e9c01-Max.jpg?v=1761799816
-    Price: €22.99 EUR
+    Price: €40.99 EUR
   - [Chocolate / L](https://nicosstore.store/products/contrast-sleeveless-knit-top-set-with-mini-skirt?variant=55922189238597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d48d9d48b68940da9e2dd0c0342e9c01-Max.jpg?v=1761799816
-    Price: €22.99 EUR
+    Price: €40.99 EUR
   - [Black / S](https://nicosstore.store/products/contrast-sleeveless-knit-top-set-with-mini-skirt?variant=55922189271365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/67a3524546cb488c82979dda7935b7e5-Max.jpg?v=1761799871
-    Price: €22.99 EUR
+    Price: €40.99 EUR
   - [Black / M](https://nicosstore.store/products/contrast-sleeveless-knit-top-set-with-mini-skirt?variant=55922189304133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/67a3524546cb488c82979dda7935b7e5-Max.jpg?v=1761799871
-    Price: €22.99 EUR
+    Price: €40.99 EUR
   - [Black / L](https://nicosstore.store/products/contrast-sleeveless-knit-top-set-with-mini-skirt?variant=55922189336901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/67a3524546cb488c82979dda7935b7e5-Max.jpg?v=1761799871
-    Price: €22.99 EUR
+    Price: €40.99 EUR
 - [Quality Round Neck Long Sleeve Top](https://nicosstore.store/products/quality-round-neck-long-sleeve-top): Quality Round Neck Long Sleeve Top . Soft, versatile, and comfortable perfect for lounging, casual outings, or everyday wear.
-  Updated: 2025-11-15T21:45:49Z
+  Updated: 2025-11-19T21:27:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5765,25 +5821,25 @@
   - [Black / S](https://nicosstore.store/products/quality-round-neck-long-sleeve-top?variant=55922198479173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1f3faa88399643f6a94b96552fc6e016-Max.webp?v=1761799935
-    Price: €20.99 EUR
+    Price: €38.99 EUR
   - [Black / M](https://nicosstore.store/products/quality-round-neck-long-sleeve-top?variant=55922198511941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1f3faa88399643f6a94b96552fc6e016-Max.webp?v=1761799935
-    Price: €20.99 EUR
+    Price: €38.99 EUR
   - [Black / L](https://nicosstore.store/products/quality-round-neck-long-sleeve-top?variant=55922198544709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1f3faa88399643f6a94b96552fc6e016-Max.webp?v=1761799935
-    Price: €20.99 EUR
+    Price: €38.99 EUR
   - [Black / XL](https://nicosstore.store/products/quality-round-neck-long-sleeve-top?variant=55922198577477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1f3faa88399643f6a94b96552fc6e016-Max.webp?v=1761799935
-    Price: €20.99 EUR
+    Price: €38.99 EUR
   - [Black / 2XL](https://nicosstore.store/products/quality-round-neck-long-sleeve-top?variant=55922198610245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1f3faa88399643f6a94b96552fc6e016-Max.webp?v=1761799935
-    Price: €20.99 EUR
+    Price: €38.99 EUR
 - [Slim Fit Plaid Shirt for Men Casual Style](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style): Slim Fit Plaid Shirt for Men Casual Style Classic plaid design, modern slim fit, and versatile perfect for casual outings or semi-formal wear.
-  Updated: 2025-11-15T21:46:12Z
+  Updated: 2025-11-19T21:27:37Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -5791,76 +5847,76 @@
   - [Blue / 2XL](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950160593221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/kMnpoY37H6addnA8.webp?v=1761800007
-    Price: €17.11 EUR
+    Price: €20.00 EUR
   - [Blue / 3XL](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950160625989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/Fl3rgD4GKkcfIzjP.webp?v=1761800267
-    Price: €17.47 EUR
+    Price: €20.00 EUR
   - [Blue / 4XL](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950160658757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ZBCxrSxZkMxUAHme.webp?v=1761800209
-    Price: €17.83 EUR
+    Price: €20.00 EUR
   - [Red / 2XL](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950160691525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/kxOvGTkQrVfHQW6J.webp?v=1761800029
-    Price: €17.11 EUR
+    Price: €20.00 EUR
   - [Blue / L](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950160724293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/qtK19OTClrcCY5LZ.webp?v=1761800248
-    Price: €16.42 EUR
+    Price: €20.00 EUR
   - [Blue / M](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950160757061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/qqGGvZ5OE5KojHgK.webp?v=1761800227
-    Price: €16.07 EUR
+    Price: €20.00 EUR
   - [Blue / XL](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950160789829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/u4o2NedIR16tHBeC.webp?v=1761800067
-    Price: €16.77 EUR
+    Price: €20.00 EUR
   - [Red / 3XL](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950160822597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/oaeynrdNTCyllq6C.webp?v=1761800322
-    Price: €17.47 EUR
+    Price: €20.00 EUR
   - [Red / 4XL](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950160855365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4xMAzzHFNFgVDOwI.webp?v=1761800049
-    Price: €17.83 EUR
+    Price: €20.00 EUR
   - [Red / M](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950160888133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0tQgVuGeK32NYDuz.webp?v=1761800303
-    Price: €16.07 EUR
+    Price: €20.00 EUR
   - [Red / L](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950160920901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/HBawsWs1jL839EUW.webp?v=1761800287
-    Price: €16.42 EUR
+    Price: €20.00 EUR
   - [Red / XL](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950160953669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/OWkvsW3xV0V2LzvN.webp?v=1761800086
-    Price: €16.77 EUR
+    Price: €20.00 EUR
   - [White / L](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950160986437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/XcV1jGxne2IsUXAA.webp?v=1761800137
-    Price: €16.42 EUR
+    Price: €20.00 EUR
   - [White / 2XL](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950161019205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/j9XgqlkYESB2i34j.webp?v=1761800156
-    Price: €17.11 EUR
+    Price: €20.00 EUR
   - [White / 3XL](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950161051973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/CVLaLHmSdtoqJn7E.webp?v=1761800172
-    Price: €17.47 EUR
+    Price: €20.00 EUR
   - [White / 4XL](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950161084741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/t3WjVTfEqKwbXdFn.webp?v=1761800121
-    Price: €17.83 EUR
+    Price: €20.00 EUR
   - [White / XL](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950161117509)
     Availability: Available
-    Price: €16.77 EUR
+    Price: €20.00 EUR
   - [White / M](https://nicosstore.store/products/slim-fit-plaid-shirt-for-men-casual-style?variant=55950161150277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/LNwmb5wv7z23Etip.webp?v=1761800192
-    Price: €16.07 EUR
+    Price: €20.00 EUR
 - [Multi-Purpose Portable Backpack for Men and Women](https://nicosstore.store/products/multi-purpose-portable-backpack-for-men-and-women): Multi-Purpose Portable Backpack for Men and Women  Durable, spacious, and comfortable perfect for work, school, travel, or outdoor adventures.
-  Updated: 2025-11-15T21:46:19Z
+  Updated: 2025-11-19T21:27:37Z
   Vendor: Nico`s Store
   Product Type: Bags
   Availability: Available
@@ -5886,7 +5942,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/JzTHfrtujtupmQLm.webp?v=1761800412
     Price: €23.15 EUR
 - [Men's Hoodie and Pants Set for Ultimate Comfort and Style](https://nicosstore.store/products/mens-hoodie-and-pants-set-for-ultimate-comfort-and-style): Men's Hoodie and Pants Set for Ultimate Comfort and Style, designed for ultimate comfort and style. Perfect for any occasion,  and fashion effortlessly.
-  Updated: 2025-11-15T21:46:30Z
+  Updated: 2025-11-19T21:27:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6084,7 +6140,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9c81b127-0ba9-4be8-a78f-9cc193ae3846-Max-Origin.webp?v=1761800581
     Price: €29.99 EUR
 - [Men's Leather Bomber Jacket Nico's store](https://nicosstore.store/products/mens-leather-bomber-jacket-nicos-store): Men's Leather Bomber Jacket Nico's store Premium leather, durable, and versatile perfect for casual, work, or evening wear.
-  Updated: 2025-11-15T21:46:35Z
+  Updated: 2025-11-19T21:27:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6092,45 +6148,45 @@
   - [Black / S](https://nicosstore.store/products/mens-leather-bomber-jacket-nicos-store?variant=55988001997125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b5437e162c45445dae5d46e2053a937f-Max-Origin.webp?v=1761800639
-    Price: €39.49 EUR
+    Price: €49.49 EUR
   - [Black / M](https://nicosstore.store/products/mens-leather-bomber-jacket-nicos-store?variant=55988002029893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b5437e162c45445dae5d46e2053a937f-Max-Origin.webp?v=1761800639
-    Price: €39.49 EUR
+    Price: €49.49 EUR
   - [Black / L](https://nicosstore.store/products/mens-leather-bomber-jacket-nicos-store?variant=55988002062661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b5437e162c45445dae5d46e2053a937f-Max-Origin.webp?v=1761800639
-    Price: €39.49 EUR
+    Price: €49.49 EUR
   - [Black / XL](https://nicosstore.store/products/mens-leather-bomber-jacket-nicos-store?variant=55988002095429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b5437e162c45445dae5d46e2053a937f-Max-Origin.webp?v=1761800639
-    Price: €39.49 EUR
+    Price: €49.49 EUR
   - [Black / 2XL](https://nicosstore.store/products/mens-leather-bomber-jacket-nicos-store?variant=55988002128197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b5437e162c45445dae5d46e2053a937f-Max-Origin.webp?v=1761800639
-    Price: €39.49 EUR
+    Price: €49.49 EUR
   - [White / S](https://nicosstore.store/products/mens-leather-bomber-jacket-nicos-store?variant=55988002160965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/463dd605a77343f48ce7d71317c1cd68-Max-Origin.webp?v=1761800600
-    Price: €39.49 EUR
+    Price: €49.49 EUR
   - [White / M](https://nicosstore.store/products/mens-leather-bomber-jacket-nicos-store?variant=55988002193733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/463dd605a77343f48ce7d71317c1cd68-Max-Origin.webp?v=1761800600
-    Price: €39.49 EUR
+    Price: €49.49 EUR
   - [White / L](https://nicosstore.store/products/mens-leather-bomber-jacket-nicos-store?variant=55988002226501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/463dd605a77343f48ce7d71317c1cd68-Max-Origin.webp?v=1761800600
-    Price: €39.49 EUR
+    Price: €49.49 EUR
   - [White / XL](https://nicosstore.store/products/mens-leather-bomber-jacket-nicos-store?variant=55988002259269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/463dd605a77343f48ce7d71317c1cd68-Max-Origin.webp?v=1761800600
-    Price: €39.49 EUR
+    Price: €49.49 EUR
   - [White / 2XL](https://nicosstore.store/products/mens-leather-bomber-jacket-nicos-store?variant=55988002292037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/463dd605a77343f48ce7d71317c1cd68-Max-Origin.webp?v=1761800600
-    Price: €39.49 EUR
+    Price: €49.49 EUR
 - [Men's Plus Size Corduroy Jacket with Chest Pockets](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets): Men's Plus Size Corduroy Jacket with Chest Pockets ,Stay stylish and comfortable with our Men’s Plus Size Corduroy Jacket featuring chest pockets.
-  Updated: 2025-11-15T21:46:43Z
+  Updated: 2025-11-19T21:27:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6138,117 +6194,117 @@
   - [Beige / M](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007076165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3b3810b568db45029f5dce4ae7f127f3-Max-Origin.webp?v=1761800678
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Beige / L](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007108933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3b3810b568db45029f5dce4ae7f127f3-Max-Origin.webp?v=1761800678
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Beige / XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007141701)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3b3810b568db45029f5dce4ae7f127f3-Max-Origin.webp?v=1761800678
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Beige / 2XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007174469)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3b3810b568db45029f5dce4ae7f127f3-Max-Origin.webp?v=1761800678
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Beige / 3XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007207237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3b3810b568db45029f5dce4ae7f127f3-Max-Origin.webp?v=1761800678
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Beige / 4XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007240005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3b3810b568db45029f5dce4ae7f127f3-Max-Origin.webp?v=1761800678
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Beige / 5XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007272773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3b3810b568db45029f5dce4ae7f127f3-Max-Origin.webp?v=1761800678
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Black / M](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007305541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b1379b663ed44f3a9ef2ffe692f599a-Max-Origin.webp?v=1761800694
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Black / L](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007338309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b1379b663ed44f3a9ef2ffe692f599a-Max-Origin.webp?v=1761800694
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Black / XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007371077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b1379b663ed44f3a9ef2ffe692f599a-Max-Origin.webp?v=1761800694
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Black / 2XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007403845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b1379b663ed44f3a9ef2ffe692f599a-Max-Origin.webp?v=1761800694
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Black / 3XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007436613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b1379b663ed44f3a9ef2ffe692f599a-Max-Origin.webp?v=1761800694
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Black / 4XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007469381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b1379b663ed44f3a9ef2ffe692f599a-Max-Origin.webp?v=1761800694
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Black / 5XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007502149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b1379b663ed44f3a9ef2ffe692f599a-Max-Origin.webp?v=1761800694
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Coffee / M](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007534917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b18ffabcef484574b8e546d372079d6a-Max-Origin.webp?v=1761800713
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Coffee / L](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007567685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b18ffabcef484574b8e546d372079d6a-Max-Origin.webp?v=1761800713
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Coffee / XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007600453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b18ffabcef484574b8e546d372079d6a-Max-Origin.webp?v=1761800713
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Coffee / 2XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007633221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b18ffabcef484574b8e546d372079d6a-Max-Origin.webp?v=1761800713
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Coffee / 3XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007665989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b18ffabcef484574b8e546d372079d6a-Max-Origin.webp?v=1761800713
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Coffee / 4XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007698757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b18ffabcef484574b8e546d372079d6a-Max-Origin.webp?v=1761800713
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Coffee / 5XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007731525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b18ffabcef484574b8e546d372079d6a-Max-Origin.webp?v=1761800713
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Military Green / M](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007764293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ce57325af4ad4bceab742c86872d2e6d-Max-Origin.webp?v=1761800766
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Military Green / L](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007797061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ce57325af4ad4bceab742c86872d2e6d-Max-Origin.webp?v=1761800766
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Military Green / XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007829829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ce57325af4ad4bceab742c86872d2e6d-Max-Origin.webp?v=1761800766
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Military Green / 2XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007862597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ce57325af4ad4bceab742c86872d2e6d-Max-Origin.webp?v=1761800766
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Military Green / 3XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007895365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ce57325af4ad4bceab742c86872d2e6d-Max-Origin.webp?v=1761800766
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Military Green / 4XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007928133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ce57325af4ad4bceab742c86872d2e6d-Max-Origin.webp?v=1761800766
-    Price: €25.99 EUR
+    Price: €45.99 EUR
   - [Military Green / 5XL](https://nicosstore.store/products/mens-plus-size-corduroy-jacket-with-chest-pockets?variant=55988007960901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ce57325af4ad4bceab742c86872d2e6d-Max-Origin.webp?v=1761800766
-    Price: €25.99 EUR
+    Price: €45.99 EUR
 - [Men's Long Sleeve Zip Up Jacket](https://nicosstore.store/products/mens-long-sleeve-zip-up-jacket): Men's Long Sleeve Zip Up Jacket . Perfect for any occasion, this jacket combines functionality and fashion effortlessly. Upgrade your wardrobe today!
-  Updated: 2025-11-15T21:46:49Z
+  Updated: 2025-11-19T21:27:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6256,65 +6312,65 @@
   - [Black / XS](https://nicosstore.store/products/mens-long-sleeve-zip-up-jacket?variant=55988012974405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/121b9669-6348-4e5d-a9f6-c90f35bcd3a6-Max-Origin.webp?v=1761800861
-    Price: €32.99 EUR
+    Price: €42.99 EUR
   - [Black / S](https://nicosstore.store/products/mens-long-sleeve-zip-up-jacket?variant=55988013007173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/121b9669-6348-4e5d-a9f6-c90f35bcd3a6-Max-Origin.webp?v=1761800861
-    Price: €32.99 EUR
+    Price: €42.99 EUR
   - [Black / M](https://nicosstore.store/products/mens-long-sleeve-zip-up-jacket?variant=55988013039941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/121b9669-6348-4e5d-a9f6-c90f35bcd3a6-Max-Origin.webp?v=1761800861
-    Price: €32.99 EUR
+    Price: €42.99 EUR
   - [Black / L](https://nicosstore.store/products/mens-long-sleeve-zip-up-jacket?variant=55988013072709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/121b9669-6348-4e5d-a9f6-c90f35bcd3a6-Max-Origin.webp?v=1761800861
-    Price: €32.99 EUR
+    Price: €42.99 EUR
   - [Black / XL](https://nicosstore.store/products/mens-long-sleeve-zip-up-jacket?variant=55988013105477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/121b9669-6348-4e5d-a9f6-c90f35bcd3a6-Max-Origin.webp?v=1761800861
-    Price: €32.99 EUR
+    Price: €42.99 EUR
   - [Gray / XS](https://nicosstore.store/products/mens-long-sleeve-zip-up-jacket?variant=55988013138245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6042ccfb-182b-4666-b204-66ca47a649bd-Max-Origin.webp?v=1761800844
-    Price: €32.99 EUR
+    Price: €42.99 EUR
   - [Gray / S](https://nicosstore.store/products/mens-long-sleeve-zip-up-jacket?variant=55988013171013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6042ccfb-182b-4666-b204-66ca47a649bd-Max-Origin.webp?v=1761800844
-    Price: €32.99 EUR
+    Price: €42.99 EUR
   - [Gray / M](https://nicosstore.store/products/mens-long-sleeve-zip-up-jacket?variant=55988013203781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6042ccfb-182b-4666-b204-66ca47a649bd-Max-Origin.webp?v=1761800844
-    Price: €32.99 EUR
+    Price: €42.99 EUR
   - [Gray / L](https://nicosstore.store/products/mens-long-sleeve-zip-up-jacket?variant=55988013236549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6042ccfb-182b-4666-b204-66ca47a649bd-Max-Origin.webp?v=1761800844
-    Price: €32.99 EUR
+    Price: €42.99 EUR
   - [Gray / XL](https://nicosstore.store/products/mens-long-sleeve-zip-up-jacket?variant=55988013269317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6042ccfb-182b-4666-b204-66ca47a649bd-Max-Origin.webp?v=1761800844
-    Price: €32.99 EUR
+    Price: €42.99 EUR
   - [Blue / XS](https://nicosstore.store/products/mens-long-sleeve-zip-up-jacket?variant=55988013302085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0ffbc727-3d3c-4165-b6c1-6e3dae3f923c-Max-Origin.webp?v=1761800784
-    Price: €32.99 EUR
+    Price: €42.99 EUR
   - [Blue / S](https://nicosstore.store/products/mens-long-sleeve-zip-up-jacket?variant=55988013334853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0ffbc727-3d3c-4165-b6c1-6e3dae3f923c-Max-Origin.webp?v=1761800784
-    Price: €32.99 EUR
+    Price: €42.99 EUR
   - [Blue / M](https://nicosstore.store/products/mens-long-sleeve-zip-up-jacket?variant=55988013367621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0ffbc727-3d3c-4165-b6c1-6e3dae3f923c-Max-Origin.webp?v=1761800784
-    Price: €32.99 EUR
+    Price: €42.99 EUR
   - [Blue / L](https://nicosstore.store/products/mens-long-sleeve-zip-up-jacket?variant=55988013400389)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0ffbc727-3d3c-4165-b6c1-6e3dae3f923c-Max-Origin.webp?v=1761800784
-    Price: €32.99 EUR
+    Price: €42.99 EUR
   - [Blue / XL](https://nicosstore.store/products/mens-long-sleeve-zip-up-jacket?variant=55988013433157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0ffbc727-3d3c-4165-b6c1-6e3dae3f923c-Max-Origin.webp?v=1761800784
-    Price: €32.99 EUR
+    Price: €42.99 EUR
 - [Men's Plus Size Denim Blazer Nico's store](https://nicosstore.store/products/mens-plus-size-denim-blazer-nicos-store): Men's Plus Size Denim Blazer Nico's store. This single-breasted jacket combines comfort and sophistication, perfect for any occasion.
-  Updated: 2025-11-15T21:46:56Z
+  Updated: 2025-11-19T21:27:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6322,81 +6378,53 @@
   - [Dark Blue / M](https://nicosstore.store/products/mens-plus-size-denim-blazer-nicos-store?variant=55988022804805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3c7e3a25-0de7-418f-94b9-5d679205ef84-Max-Origin.webp?v=1761800880
-    Price: €49.99 EUR
+    Price: €65.99 EUR
   - [Dark Blue / L](https://nicosstore.store/products/mens-plus-size-denim-blazer-nicos-store?variant=55988022837573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3c7e3a25-0de7-418f-94b9-5d679205ef84-Max-Origin.webp?v=1761800880
-    Price: €49.99 EUR
+    Price: €65.99 EUR
   - [Dark Blue / XL](https://nicosstore.store/products/mens-plus-size-denim-blazer-nicos-store?variant=55988022870341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3c7e3a25-0de7-418f-94b9-5d679205ef84-Max-Origin.webp?v=1761800880
-    Price: €49.99 EUR
+    Price: €65.99 EUR
   - [Dark Blue / 2XL](https://nicosstore.store/products/mens-plus-size-denim-blazer-nicos-store?variant=55988022903109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3c7e3a25-0de7-418f-94b9-5d679205ef84-Max-Origin.webp?v=1761800880
-    Price: €49.99 EUR
+    Price: €65.99 EUR
   - [Dark Blue / 3XL](https://nicosstore.store/products/mens-plus-size-denim-blazer-nicos-store?variant=55988022935877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3c7e3a25-0de7-418f-94b9-5d679205ef84-Max-Origin.webp?v=1761800880
-    Price: €49.99 EUR
+    Price: €65.99 EUR
   - [Dark Blue / 4XL](https://nicosstore.store/products/mens-plus-size-denim-blazer-nicos-store?variant=55988022968645)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3c7e3a25-0de7-418f-94b9-5d679205ef84-Max-Origin.webp?v=1761800880
-    Price: €49.99 EUR
+    Price: €65.99 EUR
   - [Light Blue / M](https://nicosstore.store/products/mens-plus-size-denim-blazer-nicos-store?variant=55988023001413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1af578ab-01aa-44b9-886a-24435fdbd21b-Max-Origin.webp?v=1761800940
-    Price: €49.99 EUR
+    Price: €65.99 EUR
   - [Light Blue / L](https://nicosstore.store/products/mens-plus-size-denim-blazer-nicos-store?variant=55988023034181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1af578ab-01aa-44b9-886a-24435fdbd21b-Max-Origin.webp?v=1761800940
-    Price: €49.99 EUR
+    Price: €65.99 EUR
   - [Light Blue / XL](https://nicosstore.store/products/mens-plus-size-denim-blazer-nicos-store?variant=55988023066949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1af578ab-01aa-44b9-886a-24435fdbd21b-Max-Origin.webp?v=1761800940
-    Price: €49.99 EUR
+    Price: €65.99 EUR
   - [Light Blue / 2XL](https://nicosstore.store/products/mens-plus-size-denim-blazer-nicos-store?variant=55988023099717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1af578ab-01aa-44b9-886a-24435fdbd21b-Max-Origin.webp?v=1761800940
-    Price: €49.99 EUR
+    Price: €65.99 EUR
   - [Light Blue / 3XL](https://nicosstore.store/products/mens-plus-size-denim-blazer-nicos-store?variant=55988023132485)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1af578ab-01aa-44b9-886a-24435fdbd21b-Max-Origin.webp?v=1761800940
-    Price: €49.99 EUR
+    Price: €65.99 EUR
   - [Light Blue / 4XL](https://nicosstore.store/products/mens-plus-size-denim-blazer-nicos-store?variant=55988023165253)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1af578ab-01aa-44b9-886a-24435fdbd21b-Max-Origin.webp?v=1761800940
-    Price: €49.99 EUR
-- [fantastic Lilly the Pink Ebook](https://nicosstore.store/products/fantastic-lilly-the-pink-ebook): fantastic Lilly the Pink Ebook . Engaging, adventurous, and captivating—perfect for fans of fantasy, suspense, and unforgettable heroines.
-  Updated: 2025-11-18T06:22:25Z
-  Vendor: Nico`s Store
-  Product Type: Ebook
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/lillyebokcover.jpg?v=1761800976
-  Price: €5.99 EUR
-- [Lilly the Pink Ultimate Sacrifice Ebook](https://nicosstore.store/products/lilly-the-pink-ultimate-sacrifice-ebook): Unlock the power of transformation with the Lilly the Pink Ultimate Sacrifice Ebook. Discover insights and guidance to elevate your journey today!
-  Updated: 2025-11-15T21:47:11Z
-  Vendor: Nico`s Store
-  Product Type: Ebook
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/theultimatesacrificeebook.jpg?v=1761801144
-  Price: €5.99 EUR
-- [Elyza A Heroine's Legacy Ebook](https://nicosstore.store/products/elyza-a-heroines-legacy-ebook): Elyza A Heroine's Legacy Ebook Engaging, adventurous, and full of suspense—perfect for fans of fantasy, heroism, and mystery.
-  Updated: 2025-11-15T21:47:19Z
-  Vendor: Nico`s Store
-  Product Type: Ebook
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/elyzacopertaebook.jpg?v=1761801220
-  Price: €5.99 EUR
-- [Elyza The Return of the Evil One Ebook](https://nicosstore.store/products/elyza-the-return-of-the-evil-one-ebook): Elyza The Return of the Evil One Ebook  The Return of the Evil One eBook. Thrilling, mysterious, and captivating—perfect for fantasy and horror fans.
-  Updated: 2025-11-15T21:47:28Z
-  Vendor: Nico`s Store
-  Product Type: Ebook
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/elyzav4cover.jpg?v=1761801335
-  Price: €5.99 EUR
+    Price: €65.99 EUR
 - [Textured Zip Up Jacket for Stylish Layering](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering): Textured Zip Up Jacket for Stylish Layering versatile, and perfect for layering—ideal for casual outings, work, or everyday chic looks.
-  Updated: 2025-11-15T21:47:47Z
+  Updated: 2025-11-19T21:27:38Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6404,105 +6432,105 @@
   - [Gray/white / S](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681358149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9f1a089b9c9a4e8ea1fd97037f1058a2-Max-Origin.webp?v=1761801468
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Gray/white / M](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681390917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9f1a089b9c9a4e8ea1fd97037f1058a2-Max-Origin.webp?v=1761801468
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Gray/white / L](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681423685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9f1a089b9c9a4e8ea1fd97037f1058a2-Max-Origin.webp?v=1761801468
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Gray/white / XL](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681456453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9f1a089b9c9a4e8ea1fd97037f1058a2-Max-Origin.webp?v=1761801468
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Gray/white / 2XL](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681489221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9f1a089b9c9a4e8ea1fd97037f1058a2-Max-Origin.webp?v=1761801468
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Dark Navy / S](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681521989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c63eb62c51ae4e7a8ee53fa282b69edf-Max-Origin.webp?v=1761801528
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Dark Navy / M](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681554757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c63eb62c51ae4e7a8ee53fa282b69edf-Max-Origin.webp?v=1761801528
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Dark Navy / L](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681587525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c63eb62c51ae4e7a8ee53fa282b69edf-Max-Origin.webp?v=1761801528
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Dark Navy / XL](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681620293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c63eb62c51ae4e7a8ee53fa282b69edf-Max-Origin.webp?v=1761801528
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Dark Navy / 2XL](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681653061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c63eb62c51ae4e7a8ee53fa282b69edf-Max-Origin.webp?v=1761801528
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Black / S](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681685829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/52f7b81c294447ba99af3113ecf75a3c-Max-Origin.webp?v=1761801588
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Black / M](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681718597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/52f7b81c294447ba99af3113ecf75a3c-Max-Origin.webp?v=1761801588
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Black / L](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681751365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/52f7b81c294447ba99af3113ecf75a3c-Max-Origin.webp?v=1761801588
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Black / XL](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681784133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/52f7b81c294447ba99af3113ecf75a3c-Max-Origin.webp?v=1761801588
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Black / 2XL](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681816901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/52f7b81c294447ba99af3113ecf75a3c-Max-Origin.webp?v=1761801588
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Blue / S](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681849669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/eb1f858be0fd4b52b98a96c7b16c8a64-Max-Origin.webp?v=1761801655
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Blue / M](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681882437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/eb1f858be0fd4b52b98a96c7b16c8a64-Max-Origin.webp?v=1761801655
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Blue / L](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681915205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/eb1f858be0fd4b52b98a96c7b16c8a64-Max-Origin.webp?v=1761801655
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Blue / XL](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681947973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/eb1f858be0fd4b52b98a96c7b16c8a64-Max-Origin.webp?v=1761801655
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Blue / 2XL](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027681980741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/eb1f858be0fd4b52b98a96c7b16c8a64-Max-Origin.webp?v=1761801655
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Purple / S](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027682013509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fd158eb56a054786b8a0c6931df23337-Max-Origin.webp?v=1761801716
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Purple / M](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027682046277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fd158eb56a054786b8a0c6931df23337-Max-Origin.webp?v=1761801716
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Purple / L](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027682079045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fd158eb56a054786b8a0c6931df23337-Max-Origin.webp?v=1761801716
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Purple / XL](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027682111813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fd158eb56a054786b8a0c6931df23337-Max-Origin.webp?v=1761801716
-    Price: €22.99 EUR
+    Price: €37.99 EUR
   - [Purple / 2XL](https://nicosstore.store/products/textured-zip-up-jacket-for-stylish-layering?variant=56027682144581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fd158eb56a054786b8a0c6931df23337-Max-Origin.webp?v=1761801716
-    Price: €22.99 EUR
+    Price: €37.99 EUR
 - [Zip Up Quilted Puffer Coat high quality](https://nicosstore.store/products/zip-up-quilted-puffer-coat-high-quality): Zip Up Quilted Puffer Coat high quality Lightweight, cozy, and durable—perfect for winter, casual outings, outdoor adventures.
-  Updated: 2025-11-15T21:47:52Z
+  Updated: 2025-11-19T21:27:38Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6510,21 +6538,21 @@
   - [Black / S](https://nicosstore.store/products/zip-up-quilted-puffer-coat-high-quality?variant=56027689976133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/33412ef7f45e48a0afb1b9f1abb3eb1d-Max-Origin.webp?v=1761801860
-    Price: €45.99 EUR
+    Price: €55.99 EUR
   - [Black / M](https://nicosstore.store/products/zip-up-quilted-puffer-coat-high-quality?variant=56027690008901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/33412ef7f45e48a0afb1b9f1abb3eb1d-Max-Origin.webp?v=1761801860
-    Price: €45.99 EUR
+    Price: €55.99 EUR
   - [Black / L](https://nicosstore.store/products/zip-up-quilted-puffer-coat-high-quality?variant=56027690041669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/33412ef7f45e48a0afb1b9f1abb3eb1d-Max-Origin.webp?v=1761801860
-    Price: €45.99 EUR
+    Price: €55.99 EUR
   - [Black / XL](https://nicosstore.store/products/zip-up-quilted-puffer-coat-high-quality?variant=56027690074437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/33412ef7f45e48a0afb1b9f1abb3eb1d-Max-Origin.webp?v=1761801860
-    Price: €45.99 EUR
+    Price: €55.99 EUR
 - [Quality men's Plus Size Utility Vest](https://nicosstore.store/products/quality-mens-plus-size-utility-vest): Quality men's Plus Size Utility Vest Durable, lightweight, and functional perfect for travel, work, adventure comfort.
-  Updated: 2025-11-15T21:48:01Z
+  Updated: 2025-11-19T21:27:38Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6532,173 +6560,173 @@
   - [Dark Blue / M](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707179333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/68715a4e477c4acaa5ec0f61f31fed86-Max-Origin.webp?v=1761801918
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Dark Blue / L](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707212101)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/68715a4e477c4acaa5ec0f61f31fed86-Max-Origin.webp?v=1761801918
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Dark Blue / XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707244869)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/68715a4e477c4acaa5ec0f61f31fed86-Max-Origin.webp?v=1761801918
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Dark Blue / 2XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707277637)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/68715a4e477c4acaa5ec0f61f31fed86-Max-Origin.webp?v=1761801918
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Dark Blue / 3XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707310405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/68715a4e477c4acaa5ec0f61f31fed86-Max-Origin.webp?v=1761801918
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Dark Blue / 4XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707343173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/68715a4e477c4acaa5ec0f61f31fed86-Max-Origin.webp?v=1761801918
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Dark Blue / 5XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707375941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/68715a4e477c4acaa5ec0f61f31fed86-Max-Origin.webp?v=1761801918
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Khaki / M](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707408709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/35d6e41f8ead4129928e26dab6e6ca68-Max-Origin.webp?v=1761801963
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Khaki / L](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707441477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/35d6e41f8ead4129928e26dab6e6ca68-Max-Origin.webp?v=1761801963
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Khaki / XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707474245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/35d6e41f8ead4129928e26dab6e6ca68-Max-Origin.webp?v=1761801963
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Khaki / 2XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707507013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/35d6e41f8ead4129928e26dab6e6ca68-Max-Origin.webp?v=1761801963
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Khaki / 3XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707539781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/35d6e41f8ead4129928e26dab6e6ca68-Max-Origin.webp?v=1761801963
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Khaki / 4XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707572549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/35d6e41f8ead4129928e26dab6e6ca68-Max-Origin.webp?v=1761801963
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Khaki / 5XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707605317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/35d6e41f8ead4129928e26dab6e6ca68-Max-Origin.webp?v=1761801963
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Army Green / M](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707638085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d6d11b0fdee84faea64c12da93548e1f-Max-Origin.webp?v=1761801878
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Army Green / L](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707670853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d6d11b0fdee84faea64c12da93548e1f-Max-Origin.webp?v=1761801878
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Army Green / XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707703621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d6d11b0fdee84faea64c12da93548e1f-Max-Origin.webp?v=1761801878
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Army Green / 2XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707736389)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d6d11b0fdee84faea64c12da93548e1f-Max-Origin.webp?v=1761801878
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Army Green / 3XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707769157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d6d11b0fdee84faea64c12da93548e1f-Max-Origin.webp?v=1761801878
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Army Green / 4XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707801925)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d6d11b0fdee84faea64c12da93548e1f-Max-Origin.webp?v=1761801878
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Army Green / 5XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707834693)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d6d11b0fdee84faea64c12da93548e1f-Max-Origin.webp?v=1761801878
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Black / M](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707867461)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a9fbb0cd4f1b4632a5773fb80b08e2e1-Max-Origin.webp?v=1761801897
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Black / L](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707900229)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a9fbb0cd4f1b4632a5773fb80b08e2e1-Max-Origin.webp?v=1761801897
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Black / XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707932997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a9fbb0cd4f1b4632a5773fb80b08e2e1-Max-Origin.webp?v=1761801897
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Black / 2XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707965765)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a9fbb0cd4f1b4632a5773fb80b08e2e1-Max-Origin.webp?v=1761801897
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Black / 3XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027707998533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a9fbb0cd4f1b4632a5773fb80b08e2e1-Max-Origin.webp?v=1761801897
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Black / 4XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027708031301)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a9fbb0cd4f1b4632a5773fb80b08e2e1-Max-Origin.webp?v=1761801897
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Black / 5XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027708064069)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a9fbb0cd4f1b4632a5773fb80b08e2e1-Max-Origin.webp?v=1761801897
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Brick Red / M](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027708096837)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ccf91ca908d947a2a8c9e491fcd80b9e-Max-Origin.webp?v=1761801942
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Brick Red / L](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027708129605)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ccf91ca908d947a2a8c9e491fcd80b9e-Max-Origin.webp?v=1761801942
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Brick Red / XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027708162373)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ccf91ca908d947a2a8c9e491fcd80b9e-Max-Origin.webp?v=1761801942
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Brick Red / 2XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027708195141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ccf91ca908d947a2a8c9e491fcd80b9e-Max-Origin.webp?v=1761801942
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Brick Red / 3XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027708227909)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ccf91ca908d947a2a8c9e491fcd80b9e-Max-Origin.webp?v=1761801942
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Brick Red / 4XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027708260677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ccf91ca908d947a2a8c9e491fcd80b9e-Max-Origin.webp?v=1761801942
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Brick Red / 5XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027708293445)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ccf91ca908d947a2a8c9e491fcd80b9e-Max-Origin.webp?v=1761801942
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Grey / M](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027708326213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dd5a486b2f1644eca5622517c7780201-Max-Origin.webp?v=1761801983
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Grey / L](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027708358981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dd5a486b2f1644eca5622517c7780201-Max-Origin.webp?v=1761801983
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Grey / XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027708391749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dd5a486b2f1644eca5622517c7780201-Max-Origin.webp?v=1761801983
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Grey / 2XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027708424517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dd5a486b2f1644eca5622517c7780201-Max-Origin.webp?v=1761801983
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Grey / 3XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027708457285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dd5a486b2f1644eca5622517c7780201-Max-Origin.webp?v=1761801983
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Grey / 4XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027708490053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dd5a486b2f1644eca5622517c7780201-Max-Origin.webp?v=1761801983
-    Price: €33.99 EUR
+    Price: €42.99 EUR
   - [Grey / 5XL](https://nicosstore.store/products/quality-mens-plus-size-utility-vest?variant=56027708522821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dd5a486b2f1644eca5622517c7780201-Max-Origin.webp?v=1761801983
-    Price: €33.99 EUR
+    Price: €42.99 EUR
 - [Best Unisex Halloween Sweatshirt](https://nicosstore.store/products/best-unisex-halloween-sweatshirt): Best Unisex Halloween Sweatshirt Soft, warm, and stylish—perfect for spooky season, parties, or casual fall outfits for everyone.
-  Updated: 2025-11-15T21:48:10Z
+  Updated: 2025-11-19T21:27:38Z
   Vendor: Nico`s Store
   Product Type: Sweatshirt
   Availability: Available
@@ -6706,49 +6734,49 @@
   - [2XS](https://nicosstore.store/products/best-unisex-halloween-sweatshirt?variant=56045540311365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761802101
-    Price: €26.00 EUR
+    Price: €52.00 EUR
   - [XS](https://nicosstore.store/products/best-unisex-halloween-sweatshirt?variant=56045540344133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761802101
-    Price: €26.00 EUR
+    Price: €52.00 EUR
   - [S](https://nicosstore.store/products/best-unisex-halloween-sweatshirt?variant=56045540376901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761802101
-    Price: €26.00 EUR
+    Price: €52.00 EUR
   - [M](https://nicosstore.store/products/best-unisex-halloween-sweatshirt?variant=56045540409669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761802101
-    Price: €26.00 EUR
+    Price: €52.00 EUR
   - [L](https://nicosstore.store/products/best-unisex-halloween-sweatshirt?variant=56045540442437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761802101
-    Price: €26.00 EUR
+    Price: €52.00 EUR
   - [XL](https://nicosstore.store/products/best-unisex-halloween-sweatshirt?variant=56045540475205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761802101
-    Price: €26.00 EUR
+    Price: €52.00 EUR
   - [2XL](https://nicosstore.store/products/best-unisex-halloween-sweatshirt?variant=56045540507973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761802101
-    Price: €27.50 EUR
+    Price: €52.00 EUR
   - [3XL](https://nicosstore.store/products/best-unisex-halloween-sweatshirt?variant=56045540540741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761802101
-    Price: €28.50 EUR
+    Price: €52.00 EUR
   - [4XL](https://nicosstore.store/products/best-unisex-halloween-sweatshirt?variant=56045540573509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761802101
-    Price: €30.00 EUR
+    Price: €52.00 EUR
   - [5XL](https://nicosstore.store/products/best-unisex-halloween-sweatshirt?variant=56045540606277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761802101
-    Price: €31.50 EUR
+    Price: €52.00 EUR
   - [6XL](https://nicosstore.store/products/best-unisex-halloween-sweatshirt?variant=56045540639045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761802101
-    Price: €33.00 EUR
+    Price: €52.00 EUR
 - [Houndstooth Print Blazer with Stylish Lapel Collar](https://nicosstore.store/products/houndstooth-print-blazer-with-stylish-lapel-collar): Houndstooth Print Blazer with Stylish Lapel Collar. Chic, versatile, and tailored perfect for work, casual outings, or formal events.
-  Updated: 2025-11-15T21:48:16Z
+  Updated: 2025-11-20T23:27:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6756,25 +6784,25 @@
   - [Plaid / S](https://nicosstore.store/products/houndstooth-print-blazer-with-stylish-lapel-collar?variant=56074982392133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b1311ad4-717d-44e5-94c3-b05e8679aed6-Max-Origin.webp?v=1761815324
-    Price: €29.99 EUR
+    Price: €45.99 EUR
   - [Plaid / M](https://nicosstore.store/products/houndstooth-print-blazer-with-stylish-lapel-collar?variant=56074982424901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b1311ad4-717d-44e5-94c3-b05e8679aed6-Max-Origin.webp?v=1761815324
-    Price: €29.99 EUR
+    Price: €45.99 EUR
   - [Plaid / L](https://nicosstore.store/products/houndstooth-print-blazer-with-stylish-lapel-collar?variant=56074982457669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b1311ad4-717d-44e5-94c3-b05e8679aed6-Max-Origin.webp?v=1761815324
-    Price: €29.99 EUR
+    Price: €45.99 EUR
   - [Plaid / XL](https://nicosstore.store/products/houndstooth-print-blazer-with-stylish-lapel-collar?variant=56074982490437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b1311ad4-717d-44e5-94c3-b05e8679aed6-Max-Origin.webp?v=1761815324
-    Price: €29.99 EUR
+    Price: €45.99 EUR
   - [Plaid / 2XL](https://nicosstore.store/products/houndstooth-print-blazer-with-stylish-lapel-collar?variant=56074982523205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b1311ad4-717d-44e5-94c3-b05e8679aed6-Max-Origin.webp?v=1761815324
-    Price: €29.99 EUR
+    Price: €45.99 EUR
 - [Halloween Zip-Up Hoodie with Drawstring Design](https://nicosstore.store/products/halloween-zip-up-hoodie-with-drawstring-design): Halloween Zip-Up Hoodie with Drawstring Design . Soft, comfortable, and stylish perfect for Halloween parties, casual outings, or everyday wear.
-  Updated: 2025-11-15T21:48:35Z
+  Updated: 2025-11-19T21:27:39Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6782,53 +6810,53 @@
   - [Blush Pink / S](https://nicosstore.store/products/halloween-zip-up-hoodie-with-drawstring-design?variant=56074983833925)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/96c6a3f2-06c5-404f-abef-87e910340e6f-Max-Origin.webp?v=1761815329
-    Price: €35.22 EUR
+    Price: €39.22 EUR
   - [Blush Pink / M](https://nicosstore.store/products/halloween-zip-up-hoodie-with-drawstring-design?variant=56074983866693)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/96c6a3f2-06c5-404f-abef-87e910340e6f-Max-Origin.webp?v=1761815329
-    Price: €35.22 EUR
+    Price: €39.22 EUR
   - [Blush Pink / L](https://nicosstore.store/products/halloween-zip-up-hoodie-with-drawstring-design?variant=56074983899461)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/96c6a3f2-06c5-404f-abef-87e910340e6f-Max-Origin.webp?v=1761815329
-    Price: €35.22 EUR
+    Price: €39.22 EUR
   - [Blush Pink / XL](https://nicosstore.store/products/halloween-zip-up-hoodie-with-drawstring-design?variant=56074983932229)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/96c6a3f2-06c5-404f-abef-87e910340e6f-Max-Origin.webp?v=1761815329
-    Price: €35.22 EUR
+    Price: €39.22 EUR
   - [skull / S](https://nicosstore.store/products/halloween-zip-up-hoodie-with-drawstring-design?variant=56074983964997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7b7f5d53-5529-4ed3-aaad-3e70555916c7-Max-Origin.webp?v=1761815337
-    Price: €35.22 EUR
+    Price: €39.22 EUR
   - [skull / M](https://nicosstore.store/products/halloween-zip-up-hoodie-with-drawstring-design?variant=56074983997765)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7b7f5d53-5529-4ed3-aaad-3e70555916c7-Max-Origin.webp?v=1761815337
-    Price: €35.22 EUR
+    Price: €39.22 EUR
   - [skull / L](https://nicosstore.store/products/halloween-zip-up-hoodie-with-drawstring-design?variant=56074984030533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7b7f5d53-5529-4ed3-aaad-3e70555916c7-Max-Origin.webp?v=1761815337
-    Price: €35.22 EUR
+    Price: €39.22 EUR
   - [skull / XL](https://nicosstore.store/products/halloween-zip-up-hoodie-with-drawstring-design?variant=56074984063301)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7b7f5d53-5529-4ed3-aaad-3e70555916c7-Max-Origin.webp?v=1761815337
-    Price: €35.22 EUR
+    Price: €39.22 EUR
   - [Black / S](https://nicosstore.store/products/halloween-zip-up-hoodie-with-drawstring-design?variant=56074984096069)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e517824e-2f80-43b5-8088-4ae926e653d0-Max-Origin.webp?v=1761815367
-    Price: €35.22 EUR
+    Price: €39.22 EUR
   - [Black / M](https://nicosstore.store/products/halloween-zip-up-hoodie-with-drawstring-design?variant=56074984128837)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e517824e-2f80-43b5-8088-4ae926e653d0-Max-Origin.webp?v=1761815367
-    Price: €35.22 EUR
+    Price: €39.22 EUR
   - [Black / L](https://nicosstore.store/products/halloween-zip-up-hoodie-with-drawstring-design?variant=56074984161605)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e517824e-2f80-43b5-8088-4ae926e653d0-Max-Origin.webp?v=1761815367
-    Price: €35.22 EUR
+    Price: €39.22 EUR
   - [Black / XL](https://nicosstore.store/products/halloween-zip-up-hoodie-with-drawstring-design?variant=56074984194373)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e517824e-2f80-43b5-8088-4ae926e653d0-Max-Origin.webp?v=1761815367
-    Price: €35.22 EUR
+    Price: €39.22 EUR
 - [Abstract Print Maxi Dress - Long Sleeve Fashion Statement for Elegance](https://nicosstore.store/products/abstract-print-maxi-dress): Elevate your wardrobe with our Abstract Print Maxi Dress. This long sleeve dress combines elegance with a bold fashion statement, perfect for any occasion. Shop now!
-  Updated: 2025-11-15T21:48:44Z
+  Updated: 2025-11-19T21:27:39Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6836,21 +6864,21 @@
   - [White Black / S](https://nicosstore.store/products/abstract-print-maxi-dress?variant=56075021025605)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cef70912-34f7-4ad2-830d-57ab9e41970e-Max-Origin.webp?v=1761815370
-    Price: €26.13 EUR
+    Price: €32.13 EUR
   - [White Black / M](https://nicosstore.store/products/abstract-print-maxi-dress?variant=56075021058373)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cef70912-34f7-4ad2-830d-57ab9e41970e-Max-Origin.webp?v=1761815370
-    Price: €26.13 EUR
+    Price: €32.13 EUR
   - [White Black / L](https://nicosstore.store/products/abstract-print-maxi-dress?variant=56075021091141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cef70912-34f7-4ad2-830d-57ab9e41970e-Max-Origin.webp?v=1761815370
-    Price: €26.13 EUR
+    Price: €32.13 EUR
   - [White Black / XL](https://nicosstore.store/products/abstract-print-maxi-dress?variant=56075021123909)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cef70912-34f7-4ad2-830d-57ab9e41970e-Max-Origin.webp?v=1761815370
-    Price: €26.13 EUR
+    Price: €32.13 EUR
 - [Polka Dot Tie Neck Blouse - Stylish Quality Blouse for Effortless Chic](https://nicosstore.store/products/quality-polka-dot-tie-neck-blouse): Quality Polka Dot Tie Neck Blouse  Step into timeless elegance with our Polka Dot Tie Neck Blouse, a perfect blend of sophistication, charm,
-  Updated: 2025-11-15T21:48:51Z
+  Updated: 2025-11-19T21:27:39Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6858,25 +6886,25 @@
   - [Dust Storm / S](https://nicosstore.store/products/quality-polka-dot-tie-neck-blouse?variant=56075040096581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8346cee6de1c4c6589851f03896899e8-Max-Origin.webp?v=1761815386
-    Price: €25.99 EUR
+    Price: €35.99 EUR
   - [Dust Storm / M](https://nicosstore.store/products/quality-polka-dot-tie-neck-blouse?variant=56075040129349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8346cee6de1c4c6589851f03896899e8-Max-Origin.webp?v=1761815386
-    Price: €25.99 EUR
+    Price: €35.99 EUR
   - [Dust Storm / L](https://nicosstore.store/products/quality-polka-dot-tie-neck-blouse?variant=56075040162117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8346cee6de1c4c6589851f03896899e8-Max-Origin.webp?v=1761815386
-    Price: €25.99 EUR
+    Price: €35.99 EUR
   - [Dust Storm / XL](https://nicosstore.store/products/quality-polka-dot-tie-neck-blouse?variant=56075040194885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8346cee6de1c4c6589851f03896899e8-Max-Origin.webp?v=1761815386
-    Price: €25.99 EUR
+    Price: €35.99 EUR
   - [Dust Storm / 2XL](https://nicosstore.store/products/quality-polka-dot-tie-neck-blouse?variant=56075040227653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8346cee6de1c4c6589851f03896899e8-Max-Origin.webp?v=1761815386
-    Price: €25.99 EUR
+    Price: €35.99 EUR
 - [Button Up Long Sleeve Outerwear for Stylish Comfort and Versatility](https://nicosstore.store/products/button-up-long-sleeve-outerwear): Stay stylish and warm with our Button Up Long Sleeve Outerwear  crafted for comfort, durability, and timeless elegance for every season and occasion.
-  Updated: 2025-11-17T15:16:16Z
+  Updated: 2025-11-19T21:27:39Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6884,69 +6912,69 @@
   - [Dust Storm / S](https://nicosstore.store/products/button-up-long-sleeve-outerwear?variant=56075050451269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1c721752-0f73-4994-ad95-c3984579a28f-Max-Origin.webp?v=1761815400
-    Price: €32.88 EUR
+    Price: €42.88 EUR
   - [Dust Storm / M](https://nicosstore.store/products/button-up-long-sleeve-outerwear?variant=56075050484037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1c721752-0f73-4994-ad95-c3984579a28f-Max-Origin.webp?v=1761815400
-    Price: €32.88 EUR
+    Price: €42.88 EUR
   - [Dust Storm / L](https://nicosstore.store/products/button-up-long-sleeve-outerwear?variant=56075050516805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1c721752-0f73-4994-ad95-c3984579a28f-Max-Origin.webp?v=1761815400
-    Price: €32.88 EUR
+    Price: €42.88 EUR
   - [Dust Storm / XL](https://nicosstore.store/products/button-up-long-sleeve-outerwear?variant=56075050549573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1c721752-0f73-4994-ad95-c3984579a28f-Max-Origin.webp?v=1761815400
-    Price: €32.88 EUR
+    Price: €42.88 EUR
   - [Camel / S](https://nicosstore.store/products/button-up-long-sleeve-outerwear?variant=56075050582341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/050cb889-e034-49d4-a07f-0c5bf08c5688-Max-Origin.webp?v=1761815422
-    Price: €32.88 EUR
+    Price: €42.88 EUR
   - [Camel / M](https://nicosstore.store/products/button-up-long-sleeve-outerwear?variant=56075050615109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/050cb889-e034-49d4-a07f-0c5bf08c5688-Max-Origin.webp?v=1761815422
-    Price: €32.88 EUR
+    Price: €42.88 EUR
   - [Camel / L](https://nicosstore.store/products/button-up-long-sleeve-outerwear?variant=56075050647877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/050cb889-e034-49d4-a07f-0c5bf08c5688-Max-Origin.webp?v=1761815422
-    Price: €32.88 EUR
+    Price: €42.88 EUR
   - [Camel / XL](https://nicosstore.store/products/button-up-long-sleeve-outerwear?variant=56075050680645)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/050cb889-e034-49d4-a07f-0c5bf08c5688-Max-Origin.webp?v=1761815422
-    Price: €32.88 EUR
+    Price: €42.88 EUR
   - [Black / S](https://nicosstore.store/products/button-up-long-sleeve-outerwear?variant=56075050713413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/88610af2-4450-4e8e-89c6-f0b8bf9ea4f6-Max-Origin.webp?v=1761815432
-    Price: €32.88 EUR
+    Price: €42.88 EUR
   - [Black / M](https://nicosstore.store/products/button-up-long-sleeve-outerwear?variant=56075050746181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/88610af2-4450-4e8e-89c6-f0b8bf9ea4f6-Max-Origin.webp?v=1761815432
-    Price: €32.88 EUR
+    Price: €42.88 EUR
   - [Black / L](https://nicosstore.store/products/button-up-long-sleeve-outerwear?variant=56075050778949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/88610af2-4450-4e8e-89c6-f0b8bf9ea4f6-Max-Origin.webp?v=1761815432
-    Price: €32.88 EUR
+    Price: €42.88 EUR
   - [Black / XL](https://nicosstore.store/products/button-up-long-sleeve-outerwear?variant=56075050811717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/88610af2-4450-4e8e-89c6-f0b8bf9ea4f6-Max-Origin.webp?v=1761815432
-    Price: €32.88 EUR
+    Price: €42.88 EUR
   - [Scarlet / S](https://nicosstore.store/products/button-up-long-sleeve-outerwear?variant=56075050844485)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4fff548-b90d-466a-a5d0-14ec262c7c27-Max-Origin.webp?v=1761815451
-    Price: €32.88 EUR
+    Price: €42.88 EUR
   - [Scarlet / M](https://nicosstore.store/products/button-up-long-sleeve-outerwear?variant=56075050877253)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4fff548-b90d-466a-a5d0-14ec262c7c27-Max-Origin.webp?v=1761815451
-    Price: €32.88 EUR
+    Price: €42.88 EUR
   - [Scarlet / L](https://nicosstore.store/products/button-up-long-sleeve-outerwear?variant=56075050910021)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4fff548-b90d-466a-a5d0-14ec262c7c27-Max-Origin.webp?v=1761815451
-    Price: €32.88 EUR
+    Price: €42.88 EUR
   - [Scarlet / XL](https://nicosstore.store/products/button-up-long-sleeve-outerwear?variant=56075050942789)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4fff548-b90d-466a-a5d0-14ec262c7c27-Max-Origin.webp?v=1761815451
-    Price: €32.88 EUR
+    Price: €42.88 EUR
 - [Double-Breasted Overcoat - Stylish Wool Blend Winter Outerwear for Men](https://nicosstore.store/products/double-breasted-overcoat): Elevate your winter wardrobe with our Double-Breasted Overcoat. This stylish wool blend outerwear combines warmth and elegance, perfect for any occasion. Stay chic this season!
-  Updated: 2025-11-17T15:16:17Z
+  Updated: 2025-11-19T21:27:39Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6954,69 +6982,69 @@
   - [Dust Storm / S](https://nicosstore.store/products/double-breasted-overcoat?variant=56075052351813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9556811e-1d76-4fe3-a597-154cc896f7a9-Max-Origin.webp?v=1761815401
-    Price: €35.00 EUR
+    Price: €49.00 EUR
   - [Dust Storm / M](https://nicosstore.store/products/double-breasted-overcoat?variant=56075052384581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9556811e-1d76-4fe3-a597-154cc896f7a9-Max-Origin.webp?v=1761815401
-    Price: €35.00 EUR
+    Price: €49.00 EUR
   - [Dust Storm / L](https://nicosstore.store/products/double-breasted-overcoat?variant=56075052417349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9556811e-1d76-4fe3-a597-154cc896f7a9-Max-Origin.webp?v=1761815401
-    Price: €35.00 EUR
+    Price: €49.00 EUR
   - [Dust Storm / XL](https://nicosstore.store/products/double-breasted-overcoat?variant=56075052450117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9556811e-1d76-4fe3-a597-154cc896f7a9-Max-Origin.webp?v=1761815401
-    Price: €35.00 EUR
+    Price: €49.00 EUR
   - [Pale Blush / S](https://nicosstore.store/products/double-breasted-overcoat?variant=56075052482885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d1e44b66-a35f-47e1-995a-c6cc438f1e92-Max-Origin.webp?v=1761815412
-    Price: €35.00 EUR
+    Price: €49.00 EUR
   - [Pale Blush / M](https://nicosstore.store/products/double-breasted-overcoat?variant=56075052515653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d1e44b66-a35f-47e1-995a-c6cc438f1e92-Max-Origin.webp?v=1761815412
-    Price: €35.00 EUR
+    Price: €49.00 EUR
   - [Pale Blush / L](https://nicosstore.store/products/double-breasted-overcoat?variant=56075052548421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d1e44b66-a35f-47e1-995a-c6cc438f1e92-Max-Origin.webp?v=1761815412
-    Price: €35.00 EUR
+    Price: €49.00 EUR
   - [Pale Blush / XL](https://nicosstore.store/products/double-breasted-overcoat?variant=56075052581189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d1e44b66-a35f-47e1-995a-c6cc438f1e92-Max-Origin.webp?v=1761815412
-    Price: €35.00 EUR
+    Price: €49.00 EUR
   - [Black / S](https://nicosstore.store/products/double-breasted-overcoat?variant=56075052613957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8f291fe1-f755-4da3-8934-1f1e398b78cb-Max-Origin.webp?v=1761815422
-    Price: €35.00 EUR
+    Price: €49.00 EUR
   - [Black / M](https://nicosstore.store/products/double-breasted-overcoat?variant=56075052646725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8f291fe1-f755-4da3-8934-1f1e398b78cb-Max-Origin.webp?v=1761815422
-    Price: €35.00 EUR
+    Price: €49.00 EUR
   - [Black / L](https://nicosstore.store/products/double-breasted-overcoat?variant=56075052679493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8f291fe1-f755-4da3-8934-1f1e398b78cb-Max-Origin.webp?v=1761815422
-    Price: €35.00 EUR
+    Price: €49.00 EUR
   - [Black / XL](https://nicosstore.store/products/double-breasted-overcoat?variant=56075052712261)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8f291fe1-f755-4da3-8934-1f1e398b78cb-Max-Origin.webp?v=1761815422
-    Price: €35.00 EUR
+    Price: €49.00 EUR
   - [Caramel / S](https://nicosstore.store/products/double-breasted-overcoat?variant=56075052745029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d1d43188-f913-4e71-b3d1-3c9401c5e232-Max-Origin.webp?v=1761815438
-    Price: €35.00 EUR
+    Price: €49.00 EUR
   - [Caramel / M](https://nicosstore.store/products/double-breasted-overcoat?variant=56075052777797)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d1d43188-f913-4e71-b3d1-3c9401c5e232-Max-Origin.webp?v=1761815438
-    Price: €35.00 EUR
+    Price: €49.00 EUR
   - [Caramel / L](https://nicosstore.store/products/double-breasted-overcoat?variant=56075052810565)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d1d43188-f913-4e71-b3d1-3c9401c5e232-Max-Origin.webp?v=1761815438
-    Price: €35.00 EUR
+    Price: €49.00 EUR
   - [Caramel / XL](https://nicosstore.store/products/double-breasted-overcoat?variant=56075052843333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d1d43188-f913-4e71-b3d1-3c9401c5e232-Max-Origin.webp?v=1761815438
-    Price: €35.00 EUR
+    Price: €49.00 EUR
 - [Ribbed Knit Top and Skirt Set for Effortless Chic Everyday Style](https://nicosstore.store/products/ribbed-knit-top-and-skirt-set): Elevate your everyday style with our Ribbed Knit Top and Skirt Set. This chic ensemble combines comfort and fashion for effortless versatility. Shop now to upgrade your wardrobe!
-  Updated: 2025-11-15T21:49:44Z
+  Updated: 2025-11-19T21:27:39Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7024,21 +7052,21 @@
   - [Light Gray / XS](https://nicosstore.store/products/ribbed-knit-top-and-skirt-set?variant=56086109552965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2721f925c24345408b1822a05e32e58e-Max-Origin.webp?v=1761855763
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Light Gray / S](https://nicosstore.store/products/ribbed-knit-top-and-skirt-set?variant=56086109585733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2721f925c24345408b1822a05e32e58e-Max-Origin.webp?v=1761855763
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Light Gray / M](https://nicosstore.store/products/ribbed-knit-top-and-skirt-set?variant=56086109618501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2721f925c24345408b1822a05e32e58e-Max-Origin.webp?v=1761855763
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Light Gray / L](https://nicosstore.store/products/ribbed-knit-top-and-skirt-set?variant=56086109651269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2721f925c24345408b1822a05e32e58e-Max-Origin.webp?v=1761855763
-    Price: €35.99 EUR
+    Price: €45.99 EUR
 - [Plus Size Sherpa Shacket - Full Size Single-Breasted Outerwear](https://nicosstore.store/products/plus-size-sherpa-shacket): Stay cozy and stylish with our Full Size Plus Size Sherpa Shacket. This single-breasted plus size sherpa shacket is perfect for layering, ensuring comfort without sacrificing fashion.
-  Updated: 2025-11-18T16:11:41Z
+  Updated: 2025-11-19T21:27:39Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7046,133 +7074,133 @@
   - [Deep Pink / S](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169190725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feed3005-0689-4fd2-8e7c-e09c3c46cbf1-Max-Origin.webp?v=1761855851
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Deep Pink / M](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169223493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feed3005-0689-4fd2-8e7c-e09c3c46cbf1-Max-Origin.webp?v=1761855851
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Deep Pink / L](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169256261)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feed3005-0689-4fd2-8e7c-e09c3c46cbf1-Max-Origin.webp?v=1761855851
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Deep Pink / XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169289029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feed3005-0689-4fd2-8e7c-e09c3c46cbf1-Max-Origin.webp?v=1761855851
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Deep Pink / 2XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169321797)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feed3005-0689-4fd2-8e7c-e09c3c46cbf1-Max-Origin.webp?v=1761855851
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Deep Pink / 3XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169354565)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feed3005-0689-4fd2-8e7c-e09c3c46cbf1-Max-Origin.webp?v=1761855851
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Deep Pink / 4XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169387333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feed3005-0689-4fd2-8e7c-e09c3c46cbf1-Max-Origin.webp?v=1761855851
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Deep Pink / 5XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169420101)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feed3005-0689-4fd2-8e7c-e09c3c46cbf1-Max-Origin.webp?v=1761855851
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Black / S](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169452869)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/047a59e5-4d2b-457a-8a81-638ee450ee50-Max-Origin.webp?v=1761855863
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Black / M](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169485637)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/047a59e5-4d2b-457a-8a81-638ee450ee50-Max-Origin.webp?v=1761855863
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Black / L](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169518405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/047a59e5-4d2b-457a-8a81-638ee450ee50-Max-Origin.webp?v=1761855863
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Black / XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169551173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/047a59e5-4d2b-457a-8a81-638ee450ee50-Max-Origin.webp?v=1761855863
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Black / 2XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169583941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/047a59e5-4d2b-457a-8a81-638ee450ee50-Max-Origin.webp?v=1761855863
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Black / 3XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169616709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/047a59e5-4d2b-457a-8a81-638ee450ee50-Max-Origin.webp?v=1761855863
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Black / 4XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169649477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/047a59e5-4d2b-457a-8a81-638ee450ee50-Max-Origin.webp?v=1761855863
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Black / 5XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169682245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/047a59e5-4d2b-457a-8a81-638ee450ee50-Max-Origin.webp?v=1761855863
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Green / S](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169715013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2310422e-7190-4d49-b121-2bd8b101d088-Max-Origin.webp?v=1761855873
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Green / M](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169747781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2310422e-7190-4d49-b121-2bd8b101d088-Max-Origin.webp?v=1761855873
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Green / L](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169780549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2310422e-7190-4d49-b121-2bd8b101d088-Max-Origin.webp?v=1761855873
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Green / XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169813317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2310422e-7190-4d49-b121-2bd8b101d088-Max-Origin.webp?v=1761855873
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Green / 2XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169846085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2310422e-7190-4d49-b121-2bd8b101d088-Max-Origin.webp?v=1761855873
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Green / 3XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169878853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2310422e-7190-4d49-b121-2bd8b101d088-Max-Origin.webp?v=1761855873
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Green / 4XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169911621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2310422e-7190-4d49-b121-2bd8b101d088-Max-Origin.webp?v=1761855873
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Green / 5XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169944389)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2310422e-7190-4d49-b121-2bd8b101d088-Max-Origin.webp?v=1761855873
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Yellow / S](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086169977157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761855886
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Yellow / M](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086170009925)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761855886
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Yellow / L](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086170042693)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761855886
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Yellow / XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086170075461)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761855886
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Yellow / 2XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086170108229)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761855886
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Yellow / 3XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086170140997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761855886
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Yellow / 4XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086170173765)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761855886
-    Price: €22.59 EUR
+    Price: €32.59 EUR
   - [Yellow / 5XL](https://nicosstore.store/products/plus-size-sherpa-shacket?variant=56086170206533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761855886
-    Price: €22.59 EUR
+    Price: €32.59 EUR
 - [Drawstring Christmas Hoodie - Zip Up Hooded Jacket for Festive Comfort](https://nicosstore.store/products/drawstring-christmas-hoodie): Elevate your holiday style with our Drawstring Christmas Hoodie Zip Up Hooded Jacket. Perfect for cozy gatherings, this festive hoodie combines comfort and cheer in one stylish piece!
-  Updated: 2025-11-17T02:01:36Z
+  Updated: 2025-11-19T21:27:39Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7180,25 +7208,25 @@
   - [White / S](https://nicosstore.store/products/drawstring-christmas-hoodie?variant=56086182527301)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/614855e3-7739-4ae0-a82d-1a05d76a9da5-Max.webp?v=1761855891
-    Price: €29.63 EUR
+    Price: €39.63 EUR
   - [White / M](https://nicosstore.store/products/drawstring-christmas-hoodie?variant=56086182560069)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/614855e3-7739-4ae0-a82d-1a05d76a9da5-Max.webp?v=1761855891
-    Price: €29.63 EUR
+    Price: €39.63 EUR
   - [White / L](https://nicosstore.store/products/drawstring-christmas-hoodie?variant=56086182592837)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/614855e3-7739-4ae0-a82d-1a05d76a9da5-Max.webp?v=1761855891
-    Price: €29.63 EUR
+    Price: €39.63 EUR
   - [White / XL](https://nicosstore.store/products/drawstring-christmas-hoodie?variant=56086182625605)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/614855e3-7739-4ae0-a82d-1a05d76a9da5-Max.webp?v=1761855891
-    Price: €29.63 EUR
+    Price: €39.63 EUR
   - [White / 2XL](https://nicosstore.store/products/drawstring-christmas-hoodie?variant=56086182658373)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/614855e3-7739-4ae0-a82d-1a05d76a9da5-Max.webp?v=1761855891
-    Price: €29.63 EUR
+    Price: €39.63 EUR
 - [Teddy Bear Ear Hooded Fleece Outerwear - Nico`s Store](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear): Teddy Bear Ear Hooded Fleece Outerwear - Nico`s Store. Soft, cozy, and stylish perfect for lounging, casual outings, or layering.
-  Updated: 2025-11-15T21:50:35Z
+  Updated: 2025-11-19T21:27:39Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7206,45 +7234,45 @@
   - [Khaki / S](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086221979973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a276af4be44480c9d0acf088546d2d9-Max-Origin.webp?v=1761855935
-    Price: €23.99 EUR
+    Price: €40.99 EUR
   - [Khaki / M](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222012741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a276af4be44480c9d0acf088546d2d9-Max-Origin.webp?v=1761855935
-    Price: €23.99 EUR
+    Price: €40.99 EUR
   - [Khaki / L](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222045509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a276af4be44480c9d0acf088546d2d9-Max-Origin.webp?v=1761855935
-    Price: €23.99 EUR
+    Price: €40.99 EUR
   - [Khaki / XL](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222078277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a276af4be44480c9d0acf088546d2d9-Max-Origin.webp?v=1761855935
-    Price: €23.99 EUR
+    Price: €40.99 EUR
   - [Khaki / 2XL](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222111045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a276af4be44480c9d0acf088546d2d9-Max-Origin.webp?v=1761855935
-    Price: €23.99 EUR
+    Price: €40.99 EUR
   - [Black / S](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222143813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d9f78f52992b40dda65ff71063eb1e9e-Max-Origin.webp?v=1761855953
-    Price: €23.99 EUR
+    Price: €40.99 EUR
   - [Black / M](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222176581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d9f78f52992b40dda65ff71063eb1e9e-Max-Origin.webp?v=1761855953
-    Price: €23.99 EUR
+    Price: €40.99 EUR
   - [Black / L](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222209349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d9f78f52992b40dda65ff71063eb1e9e-Max-Origin.webp?v=1761855953
-    Price: €23.99 EUR
+    Price: €40.99 EUR
   - [Black / XL](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222242117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d9f78f52992b40dda65ff71063eb1e9e-Max-Origin.webp?v=1761855953
-    Price: €23.99 EUR
+    Price: €40.99 EUR
   - [Black / 2XL](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222274885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d9f78f52992b40dda65ff71063eb1e9e-Max-Origin.webp?v=1761855953
-    Price: €23.99 EUR
+    Price: €40.99 EUR
 - [Heart Fuzzy Fleece Jacket - Cozy Zip-Up Outerwear for All Seasons](https://nicosstore.store/products/heart-fuzzy-fleece-jacket): Stay warm and stylish with our Heart Fuzzy Fleece Jacket. This zip-up outerwear combines comfort and fashion, perfect for chilly days. Embrace cozy vibes today!
-  Updated: 2025-11-15T21:50:41Z
+  Updated: 2025-11-19T21:27:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7252,25 +7280,25 @@
   - [Black / S](https://nicosstore.store/products/heart-fuzzy-fleece-jacket?variant=56086241542469)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/30bfdb7bea1c489d9c5ebf3323091cef-Max-Origin.webp?v=1761855989
-    Price: €25.77 EUR
+    Price: €38.77 EUR
   - [Black / M](https://nicosstore.store/products/heart-fuzzy-fleece-jacket?variant=56086241575237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/30bfdb7bea1c489d9c5ebf3323091cef-Max-Origin.webp?v=1761855989
-    Price: €25.77 EUR
+    Price: €38.77 EUR
   - [Black / L](https://nicosstore.store/products/heart-fuzzy-fleece-jacket?variant=56086241608005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/30bfdb7bea1c489d9c5ebf3323091cef-Max-Origin.webp?v=1761855989
-    Price: €25.77 EUR
+    Price: €38.77 EUR
   - [Black / XL](https://nicosstore.store/products/heart-fuzzy-fleece-jacket?variant=56086241640773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/30bfdb7bea1c489d9c5ebf3323091cef-Max-Origin.webp?v=1761855989
-    Price: €25.77 EUR
+    Price: €38.77 EUR
   - [Black / 2XL](https://nicosstore.store/products/heart-fuzzy-fleece-jacket?variant=56086241673541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/30bfdb7bea1c489d9c5ebf3323091cef-Max-Origin.webp?v=1761855989
-    Price: €25.77 EUR
+    Price: €38.77 EUR
 - [Paisley Pattern Blouse - Notched Long Sleeves for Effortless Style](https://nicosstore.store/products/paisley-pattern-blouse): Elevate your wardrobe with our paisley pattern blouse featuring notched long sleeves. Perfect for effortless style, this blouse adds a chic touch to any outfit. Shop now!
-  Updated: 2025-11-15T23:14:36Z
+  Updated: 2025-11-19T21:27:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7278,85 +7306,85 @@
   - [White / S](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133599625541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4c9e2c23742b449e8c44c858da6cec1f-Max-Origin.webp?v=1762127536
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [White / M](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133599658309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4c9e2c23742b449e8c44c858da6cec1f-Max-Origin.webp?v=1762127536
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [White / L](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133599691077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4c9e2c23742b449e8c44c858da6cec1f-Max-Origin.webp?v=1762127536
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [White / XL](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133599723845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4c9e2c23742b449e8c44c858da6cec1f-Max-Origin.webp?v=1762127536
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [White / 2XL](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133599756613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4c9e2c23742b449e8c44c858da6cec1f-Max-Origin.webp?v=1762127536
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [Navy Blue / S](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133599789381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e294b3dfde35452aaaa33ebd010451fb-Max-Origin.webp?v=1762127556
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [Navy Blue / M](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133599822149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e294b3dfde35452aaaa33ebd010451fb-Max-Origin.webp?v=1762127556
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [Navy Blue / L](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133599854917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e294b3dfde35452aaaa33ebd010451fb-Max-Origin.webp?v=1762127556
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [Navy Blue / XL](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133599887685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e294b3dfde35452aaaa33ebd010451fb-Max-Origin.webp?v=1762127556
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [Navy Blue / 2XL](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133599920453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e294b3dfde35452aaaa33ebd010451fb-Max-Origin.webp?v=1762127556
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [Black / S](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133599953221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/64df85bfff5049c595de5eaa9d70ec03-Max-Origin.webp?v=1762127568
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [Black / M](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133599985989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/64df85bfff5049c595de5eaa9d70ec03-Max-Origin.webp?v=1762127568
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [Black / L](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133600018757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/64df85bfff5049c595de5eaa9d70ec03-Max-Origin.webp?v=1762127568
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [Black / XL](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133600051525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/64df85bfff5049c595de5eaa9d70ec03-Max-Origin.webp?v=1762127568
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [Black / 2XL](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133600084293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/64df85bfff5049c595de5eaa9d70ec03-Max-Origin.webp?v=1762127568
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [Matcha Green / S](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133600117061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b9cf256719864e81902323921ad74faa-Max-Origin.webp?v=1762127582
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [Matcha Green / M](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133600149829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b9cf256719864e81902323921ad74faa-Max-Origin.webp?v=1762127582
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [Matcha Green / L](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133600182597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b9cf256719864e81902323921ad74faa-Max-Origin.webp?v=1762127582
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [Matcha Green / XL](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133600215365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b9cf256719864e81902323921ad74faa-Max-Origin.webp?v=1762127582
-    Price: €20.99 EUR
+    Price: €35.99 EUR
   - [Matcha Green / 2XL](https://nicosstore.store/products/paisley-pattern-blouse?variant=56133600248133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b9cf256719864e81902323921ad74faa-Max-Origin.webp?v=1762127582
-    Price: €20.99 EUR
+    Price: €35.99 EUR
 - [Plus Size Fleece Sweatshirt - Comfortable Full Zip & Lined for Men](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt): Stay cozy and stylish with our Men's Plus Size Fleece Sweatshirt. This full zip, lined sweatshirt offers ultimate comfort and warmth. Perfect for layering during chilly days!
-  Updated: 2025-11-15T21:51:11Z
+  Updated: 2025-11-19T21:27:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7364,101 +7392,101 @@
   - [Beige / L](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133601689925)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bb1c5259-fbde-4ad7-bc7d-e3e4611664fd-Max-Origin.webp?v=1762127707
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Beige / XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133601722693)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bb1c5259-fbde-4ad7-bc7d-e3e4611664fd-Max-Origin.webp?v=1762127707
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Beige / 2XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133601755461)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bb1c5259-fbde-4ad7-bc7d-e3e4611664fd-Max-Origin.webp?v=1762127707
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Beige / 3XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133601788229)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bb1c5259-fbde-4ad7-bc7d-e3e4611664fd-Max-Origin.webp?v=1762127707
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Beige / 4XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133601820997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bb1c5259-fbde-4ad7-bc7d-e3e4611664fd-Max-Origin.webp?v=1762127707
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Beige / 5XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133601853765)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bb1c5259-fbde-4ad7-bc7d-e3e4611664fd-Max-Origin.webp?v=1762127707
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Black / L](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133601886533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d5fcd1fc-a8ce-49c5-b635-4e08d9453c32-Max-Origin.webp?v=1762127697
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Black / XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133601919301)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d5fcd1fc-a8ce-49c5-b635-4e08d9453c32-Max-Origin.webp?v=1762127697
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Black / 2XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133601952069)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d5fcd1fc-a8ce-49c5-b635-4e08d9453c32-Max-Origin.webp?v=1762127697
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Black / 3XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133601984837)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d5fcd1fc-a8ce-49c5-b635-4e08d9453c32-Max-Origin.webp?v=1762127697
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Black / 4XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133602017605)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d5fcd1fc-a8ce-49c5-b635-4e08d9453c32-Max-Origin.webp?v=1762127697
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Black / 5XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133602050373)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d5fcd1fc-a8ce-49c5-b635-4e08d9453c32-Max-Origin.webp?v=1762127697
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Dark Gray / L](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133602083141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/70eefe10-4eb1-4b88-a09e-cfb307dc4886-Max-Origin.webp?v=1762127702
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Dark Gray / XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133602115909)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/70eefe10-4eb1-4b88-a09e-cfb307dc4886-Max-Origin.webp?v=1762127702
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Dark Gray / 2XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133602148677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/70eefe10-4eb1-4b88-a09e-cfb307dc4886-Max-Origin.webp?v=1762127702
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Dark Gray / 3XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133602181445)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/70eefe10-4eb1-4b88-a09e-cfb307dc4886-Max-Origin.webp?v=1762127702
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Dark Gray / 4XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133602214213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/70eefe10-4eb1-4b88-a09e-cfb307dc4886-Max-Origin.webp?v=1762127702
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Dark Gray / 5XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133602246981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/70eefe10-4eb1-4b88-a09e-cfb307dc4886-Max-Origin.webp?v=1762127702
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Navy / L](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133602279749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2a44d3c7-ec6e-4509-a960-1bc2e0929b7e-Max-Origin.webp?v=1762127704
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Navy / XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133602312517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2a44d3c7-ec6e-4509-a960-1bc2e0929b7e-Max-Origin.webp?v=1762127704
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Navy / 2XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133602345285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2a44d3c7-ec6e-4509-a960-1bc2e0929b7e-Max-Origin.webp?v=1762127704
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Navy / 3XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133602378053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2a44d3c7-ec6e-4509-a960-1bc2e0929b7e-Max-Origin.webp?v=1762127704
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Navy / 4XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133602410821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2a44d3c7-ec6e-4509-a960-1bc2e0929b7e-Max-Origin.webp?v=1762127704
-    Price: €30.59 EUR
+    Price: €40.59 EUR
   - [Navy / 5XL](https://nicosstore.store/products/mens-plus-size-fleece-sweatshirt?variant=56133602443589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2a44d3c7-ec6e-4509-a960-1bc2e0929b7e-Max-Origin.webp?v=1762127704
-    Price: €30.59 EUR
+    Price: €40.59 EUR
 - [Men's Plus Size Bomber Jacket - Quilted Knit with Stand Collar Style](https://nicosstore.store/products/mens-plus-size-bomber-jacket): Elevate your style with our Men's Plus Size Bomber Jacket. This quilted knit with a stand collar offers exceptional comfort and a modern look. Perfect for any occasion!
-  Updated: 2025-11-15T21:51:26Z
+  Updated: 2025-11-19T21:27:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7466,105 +7494,105 @@
   - [Black / M](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622300997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/541b404c21f543a9898d02ec82cdd1ed-Max-Origin.webp?v=1762127901
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Black / L](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622333765)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/541b404c21f543a9898d02ec82cdd1ed-Max-Origin.webp?v=1762127901
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Black / XL](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622366533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/541b404c21f543a9898d02ec82cdd1ed-Max-Origin.webp?v=1762127901
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Black / 2XL](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622399301)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/541b404c21f543a9898d02ec82cdd1ed-Max-Origin.webp?v=1762127901
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Black / 3XL](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622432069)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/541b404c21f543a9898d02ec82cdd1ed-Max-Origin.webp?v=1762127901
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Air Force Blue / M](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622464837)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a9f461e57b6d4d989c4a6cfaa12513bd-Max-Origin.webp?v=1762127911
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Air Force Blue / L](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622497605)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a9f461e57b6d4d989c4a6cfaa12513bd-Max-Origin.webp?v=1762127911
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Air Force Blue / XL](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622530373)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a9f461e57b6d4d989c4a6cfaa12513bd-Max-Origin.webp?v=1762127911
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Air Force Blue / 2XL](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622563141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a9f461e57b6d4d989c4a6cfaa12513bd-Max-Origin.webp?v=1762127911
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Air Force Blue / 3XL](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622595909)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a9f461e57b6d4d989c4a6cfaa12513bd-Max-Origin.webp?v=1762127911
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Burgundy / M](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622628677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/93e9eba665df48398bdde0b21a4d005c-Max-Origin.webp?v=1762127922
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Burgundy / L](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622661445)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/93e9eba665df48398bdde0b21a4d005c-Max-Origin.webp?v=1762127922
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Burgundy / XL](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622694213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/93e9eba665df48398bdde0b21a4d005c-Max-Origin.webp?v=1762127922
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Burgundy / 2XL](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622726981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/93e9eba665df48398bdde0b21a4d005c-Max-Origin.webp?v=1762127922
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Burgundy / 3XL](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622759749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/93e9eba665df48398bdde0b21a4d005c-Max-Origin.webp?v=1762127922
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Light Gray / M](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622792517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a10871412c4a42439d32c6ef26bb9bfc-Max-Origin.webp?v=1762127928
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Light Gray / L](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622825285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a10871412c4a42439d32c6ef26bb9bfc-Max-Origin.webp?v=1762127928
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Light Gray / XL](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622858053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a10871412c4a42439d32c6ef26bb9bfc-Max-Origin.webp?v=1762127928
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Light Gray / 2XL](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622890821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a10871412c4a42439d32c6ef26bb9bfc-Max-Origin.webp?v=1762127928
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Light Gray / 3XL](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622923589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a10871412c4a42439d32c6ef26bb9bfc-Max-Origin.webp?v=1762127928
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Gray / M](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622956357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/99f9e5a4f2544e448faf4784d10cd359-Max-Origin.webp?v=1762127936
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Gray / L](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133622989125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/99f9e5a4f2544e448faf4784d10cd359-Max-Origin.webp?v=1762127936
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Gray / XL](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133623021893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/99f9e5a4f2544e448faf4784d10cd359-Max-Origin.webp?v=1762127936
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Gray / 2XL](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133623054661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/99f9e5a4f2544e448faf4784d10cd359-Max-Origin.webp?v=1762127936
-    Price: €26.99 EUR
+    Price: €36.99 EUR
   - [Gray / 3XL](https://nicosstore.store/products/mens-plus-size-bomber-jacket?variant=56133623087429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/99f9e5a4f2544e448faf4784d10cd359-Max-Origin.webp?v=1762127936
-    Price: €26.99 EUR
+    Price: €36.99 EUR
 - [Men's Plus Size Coat - Zip Up Long Sleeve for Ultimate Comfort & Style](https://nicosstore.store/products/mens-plus-size-coat): Elevate your style with our Men's Plus Size Coat Zip Up Long Sleeve. Designed for ultimate comfort and versatility, this coat is perfect for any occasion. Shop now!
-  Updated: 2025-11-15T21:51:30Z
+  Updated: 2025-11-19T21:27:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7572,33 +7600,33 @@
   - [Brown / M](https://nicosstore.store/products/mens-plus-size-coat?variant=56133651267909)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/41e8885dcc404ffbac047633ca0a424d-Max-Origin.webp?v=1762128382
-    Price: €50.00 EUR
+    Price: €59.00 EUR
   - [Brown / L](https://nicosstore.store/products/mens-plus-size-coat?variant=56133651300677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/41e8885dcc404ffbac047633ca0a424d-Max-Origin.webp?v=1762128382
-    Price: €50.00 EUR
+    Price: €59.00 EUR
   - [Brown / XL](https://nicosstore.store/products/mens-plus-size-coat?variant=56133651333445)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/41e8885dcc404ffbac047633ca0a424d-Max-Origin.webp?v=1762128382
-    Price: €50.00 EUR
+    Price: €59.00 EUR
   - [Brown / 2XL](https://nicosstore.store/products/mens-plus-size-coat?variant=56133651366213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/41e8885dcc404ffbac047633ca0a424d-Max-Origin.webp?v=1762128382
-    Price: €50.00 EUR
+    Price: €59.00 EUR
   - [Brown / 3XL](https://nicosstore.store/products/mens-plus-size-coat?variant=56133651398981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/41e8885dcc404ffbac047633ca0a424d-Max-Origin.webp?v=1762128382
-    Price: €50.00 EUR
+    Price: €59.00 EUR
   - [Brown / 4XL](https://nicosstore.store/products/mens-plus-size-coat?variant=56133651431749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/41e8885dcc404ffbac047633ca0a424d-Max-Origin.webp?v=1762128382
-    Price: €50.00 EUR
+    Price: €59.00 EUR
   - [Brown / 5XL](https://nicosstore.store/products/mens-plus-size-coat?variant=56133651464517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/41e8885dcc404ffbac047633ca0a424d-Max-Origin.webp?v=1762128382
-    Price: €50.00 EUR
+    Price: €59.00 EUR
 - [Pearl Embellished Cardigan - Stylish Button Up Design for Elegance](https://nicosstore.store/products/pearl-embellished-cardigan): Elevate your wardrobe with our Pearl Embellished Cardigan. This stylish button-up design adds a touch of elegance to any outfit, making it perfect for all occasions.
-  Updated: 2025-11-18T12:36:57Z
+  Updated: 2025-11-20T05:40:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7606,17 +7634,17 @@
   - [Red / S](https://nicosstore.store/products/pearl-embellished-cardigan?variant=56133658968389)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/303a23ad6c7f43c4b2bbc5ee9c8dc8ee-Max-Origin.webp?v=1762128538
-    Price: €30.11 EUR
+    Price: €40.11 EUR
   - [Red / M](https://nicosstore.store/products/pearl-embellished-cardigan?variant=56133659001157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/303a23ad6c7f43c4b2bbc5ee9c8dc8ee-Max-Origin.webp?v=1762128538
-    Price: €30.11 EUR
+    Price: €40.11 EUR
   - [Red / L](https://nicosstore.store/products/pearl-embellished-cardigan?variant=56133659033925)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/303a23ad6c7f43c4b2bbc5ee9c8dc8ee-Max-Origin.webp?v=1762128538
-    Price: €30.11 EUR
+    Price: €40.11 EUR
 - [One Button Wool Blend Overcoat - Stylish Warmth for Every Occasion](https://nicosstore.store/products/one-button-wool-blend-overcoat): Step out in timeless elegance with the One Button Wool Blend Overcoat from Nico’s Store — warm, sophisticated, and perfect for refined, modern style.
-  Updated: 2025-11-15T21:52:08Z
+  Updated: 2025-11-19T21:27:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7624,69 +7652,69 @@
   - [Camel / S](https://nicosstore.store/products/one-button-wool-blend-overcoat?variant=56133685903685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a0e17f9343864692bab84f44625aaf07-Max-Origin.webp?v=1762128726
-    Price: €37.99 EUR
+    Price: €47.99 EUR
   - [Camel / M](https://nicosstore.store/products/one-button-wool-blend-overcoat?variant=56133685936453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a0e17f9343864692bab84f44625aaf07-Max-Origin.webp?v=1762128726
-    Price: €37.99 EUR
+    Price: €47.99 EUR
   - [Camel / L](https://nicosstore.store/products/one-button-wool-blend-overcoat?variant=56133685969221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a0e17f9343864692bab84f44625aaf07-Max-Origin.webp?v=1762128726
-    Price: €37.99 EUR
+    Price: €47.99 EUR
   - [Camel / XL](https://nicosstore.store/products/one-button-wool-blend-overcoat?variant=56133686001989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a0e17f9343864692bab84f44625aaf07-Max-Origin.webp?v=1762128726
-    Price: €37.99 EUR
+    Price: €47.99 EUR
   - [Brown / S](https://nicosstore.store/products/one-button-wool-blend-overcoat?variant=56133686034757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/18352da00ecc4ec5b35e0be10f4fdd01-Max-Origin.webp?v=1762128745
-    Price: €37.99 EUR
+    Price: €47.99 EUR
   - [Brown / M](https://nicosstore.store/products/one-button-wool-blend-overcoat?variant=56133686067525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/18352da00ecc4ec5b35e0be10f4fdd01-Max-Origin.webp?v=1762128745
-    Price: €37.99 EUR
+    Price: €47.99 EUR
   - [Brown / L](https://nicosstore.store/products/one-button-wool-blend-overcoat?variant=56133686100293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/18352da00ecc4ec5b35e0be10f4fdd01-Max-Origin.webp?v=1762128745
-    Price: €37.99 EUR
+    Price: €47.99 EUR
   - [Brown / XL](https://nicosstore.store/products/one-button-wool-blend-overcoat?variant=56133686133061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/18352da00ecc4ec5b35e0be10f4fdd01-Max-Origin.webp?v=1762128745
-    Price: €37.99 EUR
+    Price: €47.99 EUR
   - [Khaki / S](https://nicosstore.store/products/one-button-wool-blend-overcoat?variant=56133686165829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/031b40315c28475bb758c570b4a8f07c-Max-Origin.webp?v=1762128760
-    Price: €37.99 EUR
+    Price: €47.99 EUR
   - [Khaki / M](https://nicosstore.store/products/one-button-wool-blend-overcoat?variant=56133686198597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/031b40315c28475bb758c570b4a8f07c-Max-Origin.webp?v=1762128760
-    Price: €37.99 EUR
+    Price: €47.99 EUR
   - [Khaki / L](https://nicosstore.store/products/one-button-wool-blend-overcoat?variant=56133686231365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/031b40315c28475bb758c570b4a8f07c-Max-Origin.webp?v=1762128760
-    Price: €37.99 EUR
+    Price: €47.99 EUR
   - [Khaki / XL](https://nicosstore.store/products/one-button-wool-blend-overcoat?variant=56133686264133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/031b40315c28475bb758c570b4a8f07c-Max-Origin.webp?v=1762128760
-    Price: €37.99 EUR
+    Price: €47.99 EUR
   - [Black / S](https://nicosstore.store/products/one-button-wool-blend-overcoat?variant=56133686296901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ca2d6fe21f7d4838bfe16b3b04adcb65-Max-Origin.webp?v=1762128779
-    Price: €37.99 EUR
+    Price: €47.99 EUR
   - [Black / M](https://nicosstore.store/products/one-button-wool-blend-overcoat?variant=56133686329669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ca2d6fe21f7d4838bfe16b3b04adcb65-Max-Origin.webp?v=1762128779
-    Price: €37.99 EUR
+    Price: €47.99 EUR
   - [Black / L](https://nicosstore.store/products/one-button-wool-blend-overcoat?variant=56133686362437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ca2d6fe21f7d4838bfe16b3b04adcb65-Max-Origin.webp?v=1762128779
-    Price: €37.99 EUR
+    Price: €47.99 EUR
   - [Black / XL](https://nicosstore.store/products/one-button-wool-blend-overcoat?variant=56133686395205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ca2d6fe21f7d4838bfe16b3b04adcb65-Max-Origin.webp?v=1762128779
-    Price: €37.99 EUR
+    Price: €47.99 EUR
 - [Hooded Zip-Up Jacket - Stylish Comfort for Every Season at Nicos Store](https://nicosstore.store/products/hooded-zip-up-jacket-nicos-store): Discover ultimate comfort and style with our Hooded Zip-Up Jacket at Nicos Store. Perfect for layering, this versatile jacket is your go-to for any occasion. Shop now!
-  Updated: 2025-11-15T21:52:13Z
+  Updated: 2025-11-19T21:27:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7694,21 +7722,21 @@
   - [Red / S](https://nicosstore.store/products/hooded-zip-up-jacket-nicos-store?variant=56133691310405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fbc3893dcaab4d09bd0e25e75aa735fd-Max-Origin.webp?v=1762128758
-    Price: €34.55 EUR
+    Price: €44.55 EUR
   - [Red / M](https://nicosstore.store/products/hooded-zip-up-jacket-nicos-store?variant=56133691343173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fbc3893dcaab4d09bd0e25e75aa735fd-Max-Origin.webp?v=1762128758
-    Price: €34.55 EUR
+    Price: €44.55 EUR
   - [Red / L](https://nicosstore.store/products/hooded-zip-up-jacket-nicos-store?variant=56133691375941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fbc3893dcaab4d09bd0e25e75aa735fd-Max-Origin.webp?v=1762128758
-    Price: €34.55 EUR
+    Price: €44.55 EUR
   - [Red / XL](https://nicosstore.store/products/hooded-zip-up-jacket-nicos-store?variant=56133691408709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fbc3893dcaab4d09bd0e25e75aa735fd-Max-Origin.webp?v=1762128758
-    Price: €34.55 EUR
+    Price: €44.55 EUR
 - [Full Size Casual Zip-Up Hoodie - Longline Hooded Jacket for Comfort](https://nicosstore.store/products/full-size-casual-zip-up-hoodie): Elevate your style with our Full Size Casual Zip-Up Hoodie. This longline hooded jacket offers comfort and versatility, perfect for any casual outing. Grab yours today!
-  Updated: 2025-11-15T21:52:20Z
+  Updated: 2025-11-19T21:27:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7716,69 +7744,69 @@
   - [Beige / S](https://nicosstore.store/products/full-size-casual-zip-up-hoodie?variant=56133694751045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f2e98f39fa414ac5a2ee39b4346647e4-Max-Origin.webp?v=1762128806
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Beige / M](https://nicosstore.store/products/full-size-casual-zip-up-hoodie?variant=56133694783813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f2e98f39fa414ac5a2ee39b4346647e4-Max-Origin.webp?v=1762128806
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Beige / L](https://nicosstore.store/products/full-size-casual-zip-up-hoodie?variant=56133694816581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f2e98f39fa414ac5a2ee39b4346647e4-Max-Origin.webp?v=1762128806
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Beige / XL](https://nicosstore.store/products/full-size-casual-zip-up-hoodie?variant=56133694849349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f2e98f39fa414ac5a2ee39b4346647e4-Max-Origin.webp?v=1762128806
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Beige / 2XL](https://nicosstore.store/products/full-size-casual-zip-up-hoodie?variant=56133694882117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f2e98f39fa414ac5a2ee39b4346647e4-Max-Origin.webp?v=1762128806
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Beige / 3XL](https://nicosstore.store/products/full-size-casual-zip-up-hoodie?variant=56133694914885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f2e98f39fa414ac5a2ee39b4346647e4-Max-Origin.webp?v=1762128806
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Beige / 4XL](https://nicosstore.store/products/full-size-casual-zip-up-hoodie?variant=56133694947653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f2e98f39fa414ac5a2ee39b4346647e4-Max-Origin.webp?v=1762128806
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Beige / 5XL](https://nicosstore.store/products/full-size-casual-zip-up-hoodie?variant=56133694980421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f2e98f39fa414ac5a2ee39b4346647e4-Max-Origin.webp?v=1762128806
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Brown / S](https://nicosstore.store/products/full-size-casual-zip-up-hoodie?variant=56133695013189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5dd7d2de37ff4cb7950d58f03070ab7a-Max-Origin.webp?v=1762128797
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Brown / M](https://nicosstore.store/products/full-size-casual-zip-up-hoodie?variant=56133695045957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5dd7d2de37ff4cb7950d58f03070ab7a-Max-Origin.webp?v=1762128797
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Brown / L](https://nicosstore.store/products/full-size-casual-zip-up-hoodie?variant=56133695078725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5dd7d2de37ff4cb7950d58f03070ab7a-Max-Origin.webp?v=1762128797
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Brown / XL](https://nicosstore.store/products/full-size-casual-zip-up-hoodie?variant=56133695111493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5dd7d2de37ff4cb7950d58f03070ab7a-Max-Origin.webp?v=1762128797
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Brown / 2XL](https://nicosstore.store/products/full-size-casual-zip-up-hoodie?variant=56133695144261)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5dd7d2de37ff4cb7950d58f03070ab7a-Max-Origin.webp?v=1762128797
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Brown / 3XL](https://nicosstore.store/products/full-size-casual-zip-up-hoodie?variant=56133695177029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5dd7d2de37ff4cb7950d58f03070ab7a-Max-Origin.webp?v=1762128797
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Brown / 4XL](https://nicosstore.store/products/full-size-casual-zip-up-hoodie?variant=56133695209797)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5dd7d2de37ff4cb7950d58f03070ab7a-Max-Origin.webp?v=1762128797
-    Price: €35.99 EUR
+    Price: €45.99 EUR
   - [Brown / 5XL](https://nicosstore.store/products/full-size-casual-zip-up-hoodie?variant=56133695242565)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5dd7d2de37ff4cb7950d58f03070ab7a-Max-Origin.webp?v=1762128797
-    Price: €35.99 EUR
+    Price: €45.99 EUR
 - [Textured Knit Zip Up Outerwear – Full Size Stylish Comfort for All](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size): Stay cozy and stylish in our Full Size Textured Knit Zip Up Outerwear — soft, warm, and perfect for effortless layering and all-season comfort.
-  Updated: 2025-11-15T21:53:02Z
+  Updated: 2025-11-19T21:27:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7786,205 +7814,205 @@
   - [Red / S](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133695766853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/711c2cf2e6b74caca737d90cedc740d2-Max-Origin.webp?v=1762128841
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Red / M](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133695799621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/711c2cf2e6b74caca737d90cedc740d2-Max-Origin.webp?v=1762128841
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Red / L](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133695832389)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/711c2cf2e6b74caca737d90cedc740d2-Max-Origin.webp?v=1762128841
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Red / XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133695865157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/711c2cf2e6b74caca737d90cedc740d2-Max-Origin.webp?v=1762128841
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Red / 2XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133695897925)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/711c2cf2e6b74caca737d90cedc740d2-Max-Origin.webp?v=1762128841
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Red / 3XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133695930693)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/711c2cf2e6b74caca737d90cedc740d2-Max-Origin.webp?v=1762128841
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Red / 4XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133695963461)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/711c2cf2e6b74caca737d90cedc740d2-Max-Origin.webp?v=1762128841
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Red / 5XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133695996229)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/711c2cf2e6b74caca737d90cedc740d2-Max-Origin.webp?v=1762128841
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [White / S](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696028997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/07ca7cde352e4673898cf204d8bad323-Max-Origin.webp?v=1762128851
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [White / M](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696061765)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/07ca7cde352e4673898cf204d8bad323-Max-Origin.webp?v=1762128851
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [White / L](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696094533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/07ca7cde352e4673898cf204d8bad323-Max-Origin.webp?v=1762128851
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [White / XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696127301)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/07ca7cde352e4673898cf204d8bad323-Max-Origin.webp?v=1762128851
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [White / 2XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696160069)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/07ca7cde352e4673898cf204d8bad323-Max-Origin.webp?v=1762128851
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [White / 3XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696192837)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/07ca7cde352e4673898cf204d8bad323-Max-Origin.webp?v=1762128851
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [White / 4XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696225605)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/07ca7cde352e4673898cf204d8bad323-Max-Origin.webp?v=1762128851
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [White / 5XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696258373)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/07ca7cde352e4673898cf204d8bad323-Max-Origin.webp?v=1762128851
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Black / S](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696291141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4018e15b3b5945359f26fce1a8e81b35-Max-Origin.webp?v=1762128865
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Black / M](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696323909)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4018e15b3b5945359f26fce1a8e81b35-Max-Origin.webp?v=1762128865
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Black / L](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696356677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4018e15b3b5945359f26fce1a8e81b35-Max-Origin.webp?v=1762128865
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Black / XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696389445)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4018e15b3b5945359f26fce1a8e81b35-Max-Origin.webp?v=1762128865
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Black / 2XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696422213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4018e15b3b5945359f26fce1a8e81b35-Max-Origin.webp?v=1762128865
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Black / 3XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696454981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4018e15b3b5945359f26fce1a8e81b35-Max-Origin.webp?v=1762128865
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Black / 4XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696487749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4018e15b3b5945359f26fce1a8e81b35-Max-Origin.webp?v=1762128865
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Black / 5XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696520517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4018e15b3b5945359f26fce1a8e81b35-Max-Origin.webp?v=1762128865
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Orange / S](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696553285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31606e4ef6594cb3991e6975ab7b8123-Max-Origin.webp?v=1762128871
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Orange / M](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696586053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31606e4ef6594cb3991e6975ab7b8123-Max-Origin.webp?v=1762128871
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Orange / L](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696618821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31606e4ef6594cb3991e6975ab7b8123-Max-Origin.webp?v=1762128871
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Orange / XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696651589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31606e4ef6594cb3991e6975ab7b8123-Max-Origin.webp?v=1762128871
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Orange / 2XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696684357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31606e4ef6594cb3991e6975ab7b8123-Max-Origin.webp?v=1762128871
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Orange / 3XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696717125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31606e4ef6594cb3991e6975ab7b8123-Max-Origin.webp?v=1762128871
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Orange / 4XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696749893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31606e4ef6594cb3991e6975ab7b8123-Max-Origin.webp?v=1762128871
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Orange / 5XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696782661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31606e4ef6594cb3991e6975ab7b8123-Max-Origin.webp?v=1762128871
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Blue / S](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696815429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4290a5d87d3648ceba2e54f1fff6607e-Max-Origin.webp?v=1762128882
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Blue / M](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696848197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4290a5d87d3648ceba2e54f1fff6607e-Max-Origin.webp?v=1762128882
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Blue / L](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696880965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4290a5d87d3648ceba2e54f1fff6607e-Max-Origin.webp?v=1762128882
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Blue / XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696913733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4290a5d87d3648ceba2e54f1fff6607e-Max-Origin.webp?v=1762128882
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Blue / 2XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696946501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4290a5d87d3648ceba2e54f1fff6607e-Max-Origin.webp?v=1762128882
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Blue / 3XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133696979269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4290a5d87d3648ceba2e54f1fff6607e-Max-Origin.webp?v=1762128882
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Blue / 4XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133697012037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4290a5d87d3648ceba2e54f1fff6607e-Max-Origin.webp?v=1762128882
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Blue / 5XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133697044805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4290a5d87d3648ceba2e54f1fff6607e-Max-Origin.webp?v=1762128882
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Rose Red / S](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133697077573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/382d17dbc01a4157b4c8f17273d9cd1c-Max-Origin.webp?v=1762128891
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Rose Red / M](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133697110341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/382d17dbc01a4157b4c8f17273d9cd1c-Max-Origin.webp?v=1762128891
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Rose Red / L](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133697143109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/382d17dbc01a4157b4c8f17273d9cd1c-Max-Origin.webp?v=1762128891
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Rose Red / XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133697175877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/382d17dbc01a4157b4c8f17273d9cd1c-Max-Origin.webp?v=1762128891
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Rose Red / 2XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133697208645)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/382d17dbc01a4157b4c8f17273d9cd1c-Max-Origin.webp?v=1762128891
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Rose Red / 3XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133697241413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/382d17dbc01a4157b4c8f17273d9cd1c-Max-Origin.webp?v=1762128891
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Rose Red / 4XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133697274181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/382d17dbc01a4157b4c8f17273d9cd1c-Max-Origin.webp?v=1762128891
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Rose Red / 5XL](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133697306949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/382d17dbc01a4157b4c8f17273d9cd1c-Max-Origin.webp?v=1762128891
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Brown / S](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133697339717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2b27f53802374cd2b636f15b1a41f762-Max-Origin.webp?v=1762128902
-    Price: €30.55 EUR
+    Price: €39.55 EUR
   - [Brown / M](https://nicosstore.store/products/full-size-textured-knit-zip-up-outerwear-plus-size?variant=56133697372485)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2b27f53802374cd2b636f15b1a41f762-Max-Origin.webp?v=1762128902
-    Price: €30.55 EUR
+    Price: €39.55 EUR
 - [Button Up Sleeveless Longline Vest Coat - Nico`s Store](https://nicosstore.store/products/button-up-sleeveless-longline-vest-coat): Elevate your wardrobe with our Button Up Sleeveless Longline Vest Coat sleek, versatile, and perfect for layering a polished, modern look.
-  Updated: 2025-11-15T21:53:18Z
+  Updated: 2025-11-19T21:27:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7992,65 +8020,65 @@
   - [Red / S](https://nicosstore.store/products/button-up-sleeveless-longline-vest-coat?variant=56133706481989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d6e9b303-e1a9-452d-a6dd-3cf293cf59a9-Max-Origin.webp?v=1762129026
-    Price: €22.99 EUR
+    Price: €38.99 EUR
   - [Red / M](https://nicosstore.store/products/button-up-sleeveless-longline-vest-coat?variant=56133706514757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d6e9b303-e1a9-452d-a6dd-3cf293cf59a9-Max-Origin.webp?v=1762129026
-    Price: €22.99 EUR
+    Price: €38.99 EUR
   - [Red / L](https://nicosstore.store/products/button-up-sleeveless-longline-vest-coat?variant=56133706547525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d6e9b303-e1a9-452d-a6dd-3cf293cf59a9-Max-Origin.webp?v=1762129026
-    Price: €22.99 EUR
+    Price: €38.99 EUR
   - [Red / XL](https://nicosstore.store/products/button-up-sleeveless-longline-vest-coat?variant=56133706580293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d6e9b303-e1a9-452d-a6dd-3cf293cf59a9-Max-Origin.webp?v=1762129026
-    Price: €22.99 EUR
+    Price: €38.99 EUR
   - [Red / 2XL](https://nicosstore.store/products/button-up-sleeveless-longline-vest-coat?variant=56133706613061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d6e9b303-e1a9-452d-a6dd-3cf293cf59a9-Max-Origin.webp?v=1762129026
-    Price: €22.99 EUR
+    Price: €38.99 EUR
   - [Black / S](https://nicosstore.store/products/button-up-sleeveless-longline-vest-coat?variant=56195545137477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0e9ce08b-39ed-4aea-9d72-69b5ab475453-Max-Origin.webp?v=1762129021
-    Price: €22.99 EUR
+    Price: €38.99 EUR
   - [Black / M](https://nicosstore.store/products/button-up-sleeveless-longline-vest-coat?variant=56195545170245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0e9ce08b-39ed-4aea-9d72-69b5ab475453-Max-Origin.webp?v=1762129021
-    Price: €22.99 EUR
+    Price: €38.99 EUR
   - [Black / L](https://nicosstore.store/products/button-up-sleeveless-longline-vest-coat?variant=56195545203013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0e9ce08b-39ed-4aea-9d72-69b5ab475453-Max-Origin.webp?v=1762129021
-    Price: €22.99 EUR
+    Price: €38.99 EUR
   - [Black / XL](https://nicosstore.store/products/button-up-sleeveless-longline-vest-coat?variant=56195545235781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0e9ce08b-39ed-4aea-9d72-69b5ab475453-Max-Origin.webp?v=1762129021
-    Price: €22.99 EUR
+    Price: €38.99 EUR
   - [Black / 2XL](https://nicosstore.store/products/button-up-sleeveless-longline-vest-coat?variant=56195545268549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0e9ce08b-39ed-4aea-9d72-69b5ab475453-Max-Origin.webp?v=1762129021
-    Price: €22.99 EUR
+    Price: €38.99 EUR
   - [Kaki / S](https://nicosstore.store/products/button-up-sleeveless-longline-vest-coat?variant=56195545301317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1ca28b56-d462-4e10-8cf2-d620a3ca41ab-Max-Origin.webp?v=1762129053
-    Price: €22.99 EUR
+    Price: €38.99 EUR
   - [Kaki / M](https://nicosstore.store/products/button-up-sleeveless-longline-vest-coat?variant=56195545334085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1ca28b56-d462-4e10-8cf2-d620a3ca41ab-Max-Origin.webp?v=1762129053
-    Price: €22.99 EUR
+    Price: €38.99 EUR
   - [Kaki / L](https://nicosstore.store/products/button-up-sleeveless-longline-vest-coat?variant=56195545366853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1ca28b56-d462-4e10-8cf2-d620a3ca41ab-Max-Origin.webp?v=1762129053
-    Price: €22.99 EUR
+    Price: €38.99 EUR
   - [Kaki / XL](https://nicosstore.store/products/button-up-sleeveless-longline-vest-coat?variant=56195545399621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1ca28b56-d462-4e10-8cf2-d620a3ca41ab-Max-Origin.webp?v=1762129053
-    Price: €22.99 EUR
+    Price: €38.99 EUR
   - [Kaki / 2XL](https://nicosstore.store/products/button-up-sleeveless-longline-vest-coat?variant=56195545432389)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1ca28b56-d462-4e10-8cf2-d620a3ca41ab-Max-Origin.webp?v=1762129053
-    Price: €22.99 EUR
+    Price: €38.99 EUR
 - [Best Wide Leg Printed Pants for Effortless Style and Comfort](https://nicosstore.store/products/best-wide-leg-printed-pants): Elevate your wardrobe with the best wide leg printed pants. Discover effortless style and comfort in our stunning designs, perfect for any occasion. Shop now!
-  Updated: 2025-11-15T21:53:54Z
+  Updated: 2025-11-19T21:27:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8058,85 +8086,85 @@
   - [Camel / S](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133722898757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c432d4f5-b1de-4f8f-8e0e-444317979efc-Max.webp?v=1762129142
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Camel / M](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133722931525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c432d4f5-b1de-4f8f-8e0e-444317979efc-Max.webp?v=1762129142
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Camel / L](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133722964293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c432d4f5-b1de-4f8f-8e0e-444317979efc-Max.webp?v=1762129142
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Camel / XL](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133722997061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c432d4f5-b1de-4f8f-8e0e-444317979efc-Max.webp?v=1762129142
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Dark Blue / S](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133723029829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5c1476e5-6476-4e1c-895a-7e3357ad7b3e-Max.webp?v=1762129162
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Dark Blue / M](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133723062597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5c1476e5-6476-4e1c-895a-7e3357ad7b3e-Max.webp?v=1762129162
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Dark Blue / L](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133723095365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5c1476e5-6476-4e1c-895a-7e3357ad7b3e-Max.webp?v=1762129162
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Dark Blue / XL](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133723128133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5c1476e5-6476-4e1c-895a-7e3357ad7b3e-Max.webp?v=1762129162
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Dark Green / S](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133723160901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d8f5d606-c492-4e70-9fde-447ed9ae9d24-Max.webp?v=1762129181
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Dark Green / M](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133723193669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d8f5d606-c492-4e70-9fde-447ed9ae9d24-Max.webp?v=1762129181
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Dark Green / L](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133723226437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d8f5d606-c492-4e70-9fde-447ed9ae9d24-Max.webp?v=1762129181
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Dark Green / XL](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133723259205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d8f5d606-c492-4e70-9fde-447ed9ae9d24-Max.webp?v=1762129181
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Deep Red / S](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133723291973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/78665492-1ad0-426e-ae14-88390d58ffa1-Max.webp?v=1762129204
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Deep Red / M](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133723324741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/78665492-1ad0-426e-ae14-88390d58ffa1-Max.webp?v=1762129204
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Deep Red / L](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133723357509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/78665492-1ad0-426e-ae14-88390d58ffa1-Max.webp?v=1762129204
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Deep Red / XL](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133723390277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/78665492-1ad0-426e-ae14-88390d58ffa1-Max.webp?v=1762129204
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Multicolor / S](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133723423045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/51d53568-6211-4273-9cfb-938ce0d10b62-Max.webp?v=1762129223
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Multicolor / M](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133723455813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/51d53568-6211-4273-9cfb-938ce0d10b62-Max.webp?v=1762129223
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Multicolor / L](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133723488581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/51d53568-6211-4273-9cfb-938ce0d10b62-Max.webp?v=1762129223
-    Price: €18.66 EUR
+    Price: €28.66 EUR
   - [Multicolor / XL](https://nicosstore.store/products/best-wide-leg-printed-pants?variant=56133723521349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/51d53568-6211-4273-9cfb-938ce0d10b62-Max.webp?v=1762129223
-    Price: €18.66 EUR
+    Price: €28.66 EUR
 - [Ruffled Wide Leg High Waist Pants for Effortless Style with Pockets](https://nicosstore.store/products/ruffled-wide-leg-high-waist-pants): Elevate your wardrobe with our Ruffled Wide Leg High Waist Pants. Featuring stylish ruffles and pockets, these pants offer effortless style for any occasion. Discover comfort and elegance today!
-  Updated: 2025-11-15T21:54:00Z
+  Updated: 2025-11-20T01:40:51Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8144,21 +8172,21 @@
   - [Dark Gray / S](https://nicosstore.store/products/ruffled-wide-leg-high-waist-pants?variant=56133751210309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3baba23378144874868195ab0407c1ae-Max-Origin.webp?v=1762129241
-    Price: €25.33 EUR
+    Price: €35.33 EUR
   - [Dark Gray / M](https://nicosstore.store/products/ruffled-wide-leg-high-waist-pants?variant=56133751243077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3baba23378144874868195ab0407c1ae-Max-Origin.webp?v=1762129241
-    Price: €25.33 EUR
+    Price: €35.33 EUR
   - [Dark Gray / L](https://nicosstore.store/products/ruffled-wide-leg-high-waist-pants?variant=56133751275845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3baba23378144874868195ab0407c1ae-Max-Origin.webp?v=1762129241
-    Price: €25.33 EUR
+    Price: €35.33 EUR
   - [Dark Gray / XL](https://nicosstore.store/products/ruffled-wide-leg-high-waist-pants?variant=56133751308613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3baba23378144874868195ab0407c1ae-Max-Origin.webp?v=1762129241
-    Price: €25.33 EUR
+    Price: €35.33 EUR
 - [Mineral Wash High Waist Pants - Stylish Comfort with Patched Pockets](https://nicosstore.store/products/mineral-wash-high-waist-pants): Elevate your style with our Mineral Wash High Waist Pants featuring patched pockets. Experience ultimate comfort and chic fashion in one must-have piece. Perfect for any occasion!
-  Updated: 2025-11-18T08:20:36Z
+  Updated: 2025-11-19T21:27:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8166,21 +8194,21 @@
   - [Teal / S](https://nicosstore.store/products/mineral-wash-high-waist-pants?variant=56133806522693)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8d179b57efa640488c3212c2aa867179-Max-Origin.webp?v=1762129349
-    Price: €35.55 EUR
+    Price: €45.55 EUR
   - [Teal / M](https://nicosstore.store/products/mineral-wash-high-waist-pants?variant=56133806555461)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8d179b57efa640488c3212c2aa867179-Max-Origin.webp?v=1762129349
-    Price: €35.55 EUR
+    Price: €45.55 EUR
   - [Teal / L](https://nicosstore.store/products/mineral-wash-high-waist-pants?variant=56133806588229)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8d179b57efa640488c3212c2aa867179-Max-Origin.webp?v=1762129349
-    Price: €35.55 EUR
+    Price: €45.55 EUR
   - [Teal / XL](https://nicosstore.store/products/mineral-wash-high-waist-pants?variant=56133806620997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8d179b57efa640488c3212c2aa867179-Max-Origin.webp?v=1762129349
-    Price: €35.55 EUR
+    Price: €45.55 EUR
 - [Smocked Printed Maxi Skirt - Stylish & Comfortable Fashion Essential](https://nicosstore.store/products/quality-smocked-printed-maxi-skirt): Embrace effortless elegance with our Quality Smocked Printed Maxi Skirt — featuring vibrant prints, a flattering fit, and all-day comfort for any occasion.
-  Updated: 2025-11-15T21:54:15Z
+  Updated: 2025-11-19T21:27:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8188,25 +8216,25 @@
   - [Dusty Pink / S](https://nicosstore.store/products/quality-smocked-printed-maxi-skirt?variant=56133807833413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2322584983504bb493e55904a9c76689-Max-Origin.webp?v=1762129376
-    Price: €24.04 EUR
+    Price: €34.04 EUR
   - [Dusty Pink / M](https://nicosstore.store/products/quality-smocked-printed-maxi-skirt?variant=56133807866181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2322584983504bb493e55904a9c76689-Max-Origin.webp?v=1762129376
-    Price: €24.04 EUR
+    Price: €34.04 EUR
   - [Dusty Pink / L](https://nicosstore.store/products/quality-smocked-printed-maxi-skirt?variant=56133807898949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2322584983504bb493e55904a9c76689-Max-Origin.webp?v=1762129376
-    Price: €24.04 EUR
+    Price: €34.04 EUR
   - [Dusty Pink / XL](https://nicosstore.store/products/quality-smocked-printed-maxi-skirt?variant=56133807931717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2322584983504bb493e55904a9c76689-Max-Origin.webp?v=1762129376
-    Price: €24.04 EUR
+    Price: €34.04 EUR
   - [Dusty Pink / 2XL](https://nicosstore.store/products/quality-smocked-printed-maxi-skirt?variant=56133807964485)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2322584983504bb493e55904a9c76689-Max-Origin.webp?v=1762129376
-    Price: €24.04 EUR
+    Price: €34.04 EUR
 - [Full Size Wide Leg Pants with Drawstring Waist for Ultimate Comfort](https://nicosstore.store/products/full-size-wide-leg-pants): Discover comfort and style with our Full Size Wide Leg Pants with Drawstring Waist. Perfect for any occasion, these pants offer a relaxed fit and versatile appeal. Shop now!
-  Updated: 2025-11-15T21:54:42Z
+  Updated: 2025-11-19T21:27:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8214,145 +8242,145 @@
   - [Light Brown / S](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133811732805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cda982cc6451472fa9bcf20ee1a897e9-Max-Origin.webp?v=1762129441
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Light Brown / M](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133811765573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cda982cc6451472fa9bcf20ee1a897e9-Max-Origin.webp?v=1762129441
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Light Brown / XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133811798341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cda982cc6451472fa9bcf20ee1a897e9-Max-Origin.webp?v=1762129441
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Light Brown / 2XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133811831109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cda982cc6451472fa9bcf20ee1a897e9-Max-Origin.webp?v=1762129441
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Light Brown / 3XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133811863877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cda982cc6451472fa9bcf20ee1a897e9-Max-Origin.webp?v=1762129441
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Navy Blue / S](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133811896645)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4eec3370b70e4948a06dc4578679154b-Max-Origin.webp?v=1762129452
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Navy Blue / M](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133811929413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4eec3370b70e4948a06dc4578679154b-Max-Origin.webp?v=1762129452
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Navy Blue / XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133811962181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4eec3370b70e4948a06dc4578679154b-Max-Origin.webp?v=1762129452
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Navy Blue / 2XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133811994949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4eec3370b70e4948a06dc4578679154b-Max-Origin.webp?v=1762129452
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Navy Blue / 3XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812027717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4eec3370b70e4948a06dc4578679154b-Max-Origin.webp?v=1762129452
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [White / S](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812060485)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/15a6ce5f53af4bae8602490459350480-Max-Origin.webp?v=1762129462
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [White / M](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812093253)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/15a6ce5f53af4bae8602490459350480-Max-Origin.webp?v=1762129462
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [White / XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812126021)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/15a6ce5f53af4bae8602490459350480-Max-Origin.webp?v=1762129462
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [White / 2XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812158789)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/15a6ce5f53af4bae8602490459350480-Max-Origin.webp?v=1762129462
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [White / 3XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812191557)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/15a6ce5f53af4bae8602490459350480-Max-Origin.webp?v=1762129462
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Black / S](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812224325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cf3cee91bd8142e2baecf2a81c77a9a9-Max-Origin.webp?v=1762129476
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Black / M](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812257093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cf3cee91bd8142e2baecf2a81c77a9a9-Max-Origin.webp?v=1762129476
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Black / XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812289861)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cf3cee91bd8142e2baecf2a81c77a9a9-Max-Origin.webp?v=1762129476
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Black / 2XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812322629)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cf3cee91bd8142e2baecf2a81c77a9a9-Max-Origin.webp?v=1762129476
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Black / 3XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812355397)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cf3cee91bd8142e2baecf2a81c77a9a9-Max-Origin.webp?v=1762129476
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Pink / S](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812388165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6b9960d0994942fb9b38ebbe17f0b13d-Max-Origin.webp?v=1762129485
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Pink / M](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812420933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6b9960d0994942fb9b38ebbe17f0b13d-Max-Origin.webp?v=1762129485
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Pink / XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812453701)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6b9960d0994942fb9b38ebbe17f0b13d-Max-Origin.webp?v=1762129485
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Pink / 2XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812486469)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6b9960d0994942fb9b38ebbe17f0b13d-Max-Origin.webp?v=1762129485
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Pink / 3XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812519237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6b9960d0994942fb9b38ebbe17f0b13d-Max-Origin.webp?v=1762129485
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Grey / S](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812552005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/24fb1951e07348a2ad33ae1c6a943703-Max-Origin.webp?v=1762129504
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Grey / M](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812584773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/24fb1951e07348a2ad33ae1c6a943703-Max-Origin.webp?v=1762129504
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Grey / XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812617541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/24fb1951e07348a2ad33ae1c6a943703-Max-Origin.webp?v=1762129504
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Grey / 2XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812650309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/24fb1951e07348a2ad33ae1c6a943703-Max-Origin.webp?v=1762129504
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Grey / 3XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812683077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/24fb1951e07348a2ad33ae1c6a943703-Max-Origin.webp?v=1762129504
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Army Green / S](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812715845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4d5b38d320140309e47367900491a16-Max-Origin.webp?v=1762129494
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Army Green / M](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812748613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4d5b38d320140309e47367900491a16-Max-Origin.webp?v=1762129494
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Army Green / XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812781381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4d5b38d320140309e47367900491a16-Max-Origin.webp?v=1762129494
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Army Green / 2XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812814149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4d5b38d320140309e47367900491a16-Max-Origin.webp?v=1762129494
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Army Green / 3XL](https://nicosstore.store/products/full-size-wide-leg-pants?variant=56133812846917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4d5b38d320140309e47367900491a16-Max-Origin.webp?v=1762129494
-    Price: €19.99 EUR
+    Price: €29.99 EUR
 - [Solid Color Midi Dress: Ruched Detail & Long Sleeves for Effortless Style](https://nicosstore.store/products/solid-color-midi-dress): Elevate your wardrobe with our solid color midi dress featuring ruched details and long sleeves. Perfect for effortless style, this dress is a must-have for any occasion.
-  Updated: 2025-11-18T01:40:52Z
+  Updated: 2025-11-19T21:27:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8360,65 +8388,65 @@
   - [Coffee Brown / S](https://nicosstore.store/products/solid-color-midi-dress?variant=56133824708933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9e5f06d2-5fbb-4954-b8cc-39d3e9636048-Max-Origin.webp?v=1762197664
-    Price: €30.00 EUR
+    Price: €40.00 EUR
   - [Coffee Brown / M](https://nicosstore.store/products/solid-color-midi-dress?variant=56133824741701)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9e5f06d2-5fbb-4954-b8cc-39d3e9636048-Max-Origin.webp?v=1762197664
-    Price: €30.00 EUR
+    Price: €40.00 EUR
   - [Coffee Brown / L](https://nicosstore.store/products/solid-color-midi-dress?variant=56133824774469)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9e5f06d2-5fbb-4954-b8cc-39d3e9636048-Max-Origin.webp?v=1762197664
-    Price: €30.00 EUR
+    Price: €40.00 EUR
   - [Coffee Brown / XL](https://nicosstore.store/products/solid-color-midi-dress?variant=56133824807237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9e5f06d2-5fbb-4954-b8cc-39d3e9636048-Max-Origin.webp?v=1762197664
-    Price: €30.00 EUR
+    Price: €40.00 EUR
   - [Coffee Brown / 2XL](https://nicosstore.store/products/solid-color-midi-dress?variant=56133824840005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9e5f06d2-5fbb-4954-b8cc-39d3e9636048-Max-Origin.webp?v=1762197664
-    Price: €30.00 EUR
+    Price: €40.00 EUR
   - [Cerise / S](https://nicosstore.store/products/solid-color-midi-dress?variant=56133824872773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/69661c91-1533-4ee1-bb7b-4d4d62b7bef4-Max-Origin.webp?v=1762197718
-    Price: €30.00 EUR
+    Price: €40.00 EUR
   - [Cerise / M](https://nicosstore.store/products/solid-color-midi-dress?variant=56133824905541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/69661c91-1533-4ee1-bb7b-4d4d62b7bef4-Max-Origin.webp?v=1762197718
-    Price: €30.00 EUR
+    Price: €40.00 EUR
   - [Cerise / L](https://nicosstore.store/products/solid-color-midi-dress?variant=56133824938309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/69661c91-1533-4ee1-bb7b-4d4d62b7bef4-Max-Origin.webp?v=1762197718
-    Price: €30.00 EUR
+    Price: €40.00 EUR
   - [Cerise / XL](https://nicosstore.store/products/solid-color-midi-dress?variant=56133824971077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/69661c91-1533-4ee1-bb7b-4d4d62b7bef4-Max-Origin.webp?v=1762197718
-    Price: €30.00 EUR
+    Price: €40.00 EUR
   - [Cerise / 2XL](https://nicosstore.store/products/solid-color-midi-dress?variant=56133825003845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/69661c91-1533-4ee1-bb7b-4d4d62b7bef4-Max-Origin.webp?v=1762197718
-    Price: €30.00 EUR
+    Price: €40.00 EUR
   - [Deep Red / S](https://nicosstore.store/products/solid-color-midi-dress?variant=56133825036613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0d7b32e5-0b81-4fc3-8494-22b31bf8379a-Max-Origin.webp?v=1762197749
-    Price: €30.00 EUR
+    Price: €40.00 EUR
   - [Deep Red / M](https://nicosstore.store/products/solid-color-midi-dress?variant=56133825069381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0d7b32e5-0b81-4fc3-8494-22b31bf8379a-Max-Origin.webp?v=1762197749
-    Price: €30.00 EUR
+    Price: €40.00 EUR
   - [Deep Red / L](https://nicosstore.store/products/solid-color-midi-dress?variant=56133825102149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0d7b32e5-0b81-4fc3-8494-22b31bf8379a-Max-Origin.webp?v=1762197749
-    Price: €30.00 EUR
+    Price: €40.00 EUR
   - [Deep Red / XL](https://nicosstore.store/products/solid-color-midi-dress?variant=56133825134917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0d7b32e5-0b81-4fc3-8494-22b31bf8379a-Max-Origin.webp?v=1762197749
-    Price: €30.00 EUR
+    Price: €40.00 EUR
   - [Deep Red / 2XL](https://nicosstore.store/products/solid-color-midi-dress?variant=56133825167685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0d7b32e5-0b81-4fc3-8494-22b31bf8379a-Max-Origin.webp?v=1762197749
-    Price: €30.00 EUR
+    Price: €40.00 EUR
 - [V Neck Babydoll Dress with Smocked Bust and Bubble Sleeves - Shop Now](https://nicosstore.store/products/v-neck-babydoll-dress): Discover the perfect blend of style and comfort with our V Neck Babydoll Dress featuring a smocked bust and bubble sleeves. Elevate your wardrobe today!
-  Updated: 2025-11-17T17:18:02Z
+  Updated: 2025-11-19T21:27:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8426,21 +8454,21 @@
   - [Black / S](https://nicosstore.store/products/v-neck-babydoll-dress?variant=56133827526981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/678836ed-328a-4eff-8cfb-f9f271822470-Max-Origin.webp?v=1762197611
-    Price: €34.11 EUR
+    Price: €41.11 EUR
   - [Black / M](https://nicosstore.store/products/v-neck-babydoll-dress?variant=56133827559749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/678836ed-328a-4eff-8cfb-f9f271822470-Max-Origin.webp?v=1762197611
-    Price: €34.11 EUR
+    Price: €41.11 EUR
   - [Black / L](https://nicosstore.store/products/v-neck-babydoll-dress?variant=56133827592517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/678836ed-328a-4eff-8cfb-f9f271822470-Max-Origin.webp?v=1762197611
-    Price: €34.11 EUR
+    Price: €41.11 EUR
   - [Black / XL](https://nicosstore.store/products/v-neck-babydoll-dress?variant=56133827625285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/678836ed-328a-4eff-8cfb-f9f271822470-Max-Origin.webp?v=1762197611
-    Price: €34.11 EUR
+    Price: €41.11 EUR
 - [Plus Size Short Sleeve Dress - Stylish Round Neck Design for Comfort](https://nicosstore.store/products/plus-size-short-sleeve-dress): Discover our Plus Size Short Sleeve Dress with Round Neck Design, perfect for any occasion. Shop now for stylish comfort and flattering fit! Embrace your curves today!
-  Updated: 2025-11-15T21:55:36Z
+  Updated: 2025-11-19T21:27:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8448,25 +8476,25 @@
   - [Army Green / 1XL](https://nicosstore.store/products/plus-size-short-sleeve-dress?variant=56133856297285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/314db60b-7f7e-4940-9b14-831d0393e2be-Max-Origin.webp?v=1762197585
-    Price: €23.49 EUR
+    Price: €29.49 EUR
   - [Army Green / 2XL](https://nicosstore.store/products/plus-size-short-sleeve-dress?variant=56133856330053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/314db60b-7f7e-4940-9b14-831d0393e2be-Max-Origin.webp?v=1762197585
-    Price: €23.49 EUR
+    Price: €29.49 EUR
   - [Army Green / 3XL](https://nicosstore.store/products/plus-size-short-sleeve-dress?variant=56133856362821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/314db60b-7f7e-4940-9b14-831d0393e2be-Max-Origin.webp?v=1762197585
-    Price: €23.49 EUR
+    Price: €29.49 EUR
   - [Army Green / 4XL](https://nicosstore.store/products/plus-size-short-sleeve-dress?variant=56133856395589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/314db60b-7f7e-4940-9b14-831d0393e2be-Max-Origin.webp?v=1762197585
-    Price: €23.49 EUR
+    Price: €29.49 EUR
   - [Army Green / 5XL](https://nicosstore.store/products/plus-size-short-sleeve-dress?variant=56133856428357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/314db60b-7f7e-4940-9b14-831d0393e2be-Max-Origin.webp?v=1762197585
-    Price: €23.49 EUR
+    Price: €29.49 EUR
 - [Bodycon Dress - Fabulous Style at Nico's Store - Nico`s Store](https://nicosstore.store/products/bodycon-dress-nicos-store): Discover the Allure of a Bodycon Dress at Nico's StoreWelcome to Nico's Store, where fashion meets elegance! Our bodycon dress is designed to enhance your natural curves while providing unmatched comfort and style. Perfect for any occasion, from a night out with friends to an elegant dinner party, this dress is a must-have addition to your wardrobe.Why Choose Our Bodycon Dress?The bodycon dress is not just a trend; it’s a statement piece that allows you to express your unique style while ensuring you always look your best. Crafted with high-quality materials, this dress hugs your body in all the right places, giving you a chic and polished look. Explore the key features and benefits that make our bodycon dress a favorite among fashion enthusiasts: Flattering Fit: The body-hugging silhouette of our dress accentuates your curves, making you feel confident and beautiful. Versatile Style: Whether you pair it with heels for a night out or sandals for a casual brunch, this dress can be styled in countless ways. Comfortable Fabric: Made from a blend of high-quality materials, our bodycon dress offers both stretch and comfort, allowing you to move freely. Easy Care: This dress is machine washable, making it easy to keep it looking great for any occasion. Exceptional Quality and DesignAt Nico's Store, we prioritize quality and design. Our bodycon dress is meticulously crafted to ensure durability and style. The fabric is breathable and lightweight, making it suitable for all-day wear without sacrificing comfort. Plus, with a variety of colors and patterns available, you can find the perfect option that complements your personality.Perfect for Every OccasionNo matter the event, our bodycon dress is an ideal choice. Dress it up with statement jewelry and high heels for a glamorous look at a wedding or formal event. Alternatively, dress it down with a denim jacket and sneakers for a trendy day out. The versatility of our dress means you can create multiple outfits with just one piece, ensuring great value for your wardrobe.Fashion Tips and Styling IdeasTo make the most of your bodycon dress, consider the following styling tips: Layer with a Blazer: For a sophisticated office look, add a tailored blazer over the top. Accessorize Wisely: Statement earrings or a chunky bracelet can elevate your outfit instantly. Footwear Matters: Choose stilettos for a night out, or opt for flats for a casual day. Seasonal Additions: During colder months, pair with tights and boots for a stylish layered look. Customer ReviewsOur bodycon dress has been loved by many! Here’s what our customers are saying:"I absolutely love this dress! It fits perfectly and hugs my curves just right. I wore it to a party and received endless compliments!" - Jessica W."This is my go-to dress for any occasion. Stylish and comfy, I can wear it all day!" - Mia D.Join our satisfied customers in discovering the magic of the bodycon dress!Explore Our Collection TodayReady to elevate your wardrobe? Experience the stylish fit and feel of the bodycon dress at Nico's Store today! With just a few clicks, you can have this fabulous dress delivered right to your door. Don’t wait—stand out and show off your unique style with our irresistible bodycon dress.Order now and embrace the fabulousness that comes with wearing a bodycon dress! - Nico`s Store
-  Updated: 2025-11-15T21:55:44Z
+  Updated: 2025-11-19T21:27:42Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -8474,25 +8502,25 @@
   - [XS](https://nicosstore.store/products/bodycon-dress-nicos-store?variant=56137556328773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-bodycon-dress-white-front-69079c4d8c494.jpg?v=1762197570
-    Price: €22.50 EUR
+    Price: €35.00 EUR
   - [S](https://nicosstore.store/products/bodycon-dress-nicos-store?variant=56137556361541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-bodycon-dress-white-front-69079c4d8c494.jpg?v=1762197570
-    Price: €22.50 EUR
+    Price: €35.00 EUR
   - [M](https://nicosstore.store/products/bodycon-dress-nicos-store?variant=56137556394309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-bodycon-dress-white-front-69079c4d8c494.jpg?v=1762197570
-    Price: €22.50 EUR
+    Price: €35.00 EUR
   - [L](https://nicosstore.store/products/bodycon-dress-nicos-store?variant=56137556427077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-bodycon-dress-white-front-69079c4d8c494.jpg?v=1762197570
-    Price: €22.50 EUR
+    Price: €35.00 EUR
   - [XL](https://nicosstore.store/products/bodycon-dress-nicos-store?variant=56137556459845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-bodycon-dress-white-front-69079c4d8c494.jpg?v=1762197570
-    Price: €22.50 EUR
+    Price: €35.00 EUR
 - [Unisex Cotton Hoodie Japan Theme for Comfortable Style - Nico`s Store](https://nicosstore.store/products/unisex-cotton-hoodie-japan-theme): Unisex Cotton Hoodie Japan Theme: Embrace Comfort and StyleDiscover the ultimate blend of style and comfort with our unisex cotton hoodie Japan theme. This hoodie is designed for those who appreciate not only fashion but also the unique culture and aesthetics of Japan. Crafted from high-quality cotton, our hoodie provides a soft and breathable experience, making it perfect for any casual occasion, whether you're lounging at home or out in the city.Our unisex cotton hoodie Japan theme features a stunning design inspired by traditional Japanese art, allowing you to express your individuality effortlessly. It’s perfect for anyone looking to add a touch of flair to their wardrobe while enjoying the everyday convenience of a hoodie.Why Choose Our Unisex Cotton Hoodie Japan Theme?This hoodie isn’t just about looks; it combines functionality with fashion, making it a must-have for your closet. Here are some of the key benefits: Premium Quality Cotton: Made from 100% high-quality cotton, this hoodie guarantees durability and softness against your skin. Unique Design: Featuring a beautifully crafted Japan theme, this hoodie allows you to flaunt a unique cultural representation. Unisex Fit: Designed for everyone, this hoodie can be worn comfortably by anyone, making it a versatile addition to your wardrobe. Perfect for Layering: Its lightweight and breathable material makes it an ideal choice for layering or wearing on its own. Detailed Product FeaturesThe unisex cotton hoodie Japan theme isn’t just stylish; it comes loaded with practical features that enhance your wearing experience. Let's dive deeper into what makes this hoodie exceptional.Comfortable FitThe unisex design ensures that this hoodie suits all body types, providing a relaxed fit that allows for easy movement. Whether you're on the go or enjoying a quiet day at home, you'll feel comfortable and stylish at the same time.Easy CareWorrying about laundry is a thing of the past! Our unisex cotton hoodie Japan theme is machine washable and maintains its shape and vibrant colors even after multiple washes, ensuring that your investment lasts season after season.Perfect for Any SeasonThis hoodie is not just ideal for chilly days. It works great in spring and summer too, making it an all-year-round companion. Its breathable fabric allows you to stay cool while providing warmth when needed.Ecological ResponsibilityWe care about the environment. By choosing our unisex cotton hoodie Japan theme, you’re not only making a stylish choice but also a sustainable one. Our production methods prioritize eco-friendliness, ensuring minimal impact on our planet.Where to Wear the Unisex Cotton Hoodie Japan ThemeVersatility is one of our hoodie’s strongest suits. Here are some suggestions on where to wear yours: At Home: Perfect for lounging or doing your daily chores in true comfort and style. Casual Outings: Pair it with jeans or shorts for a relaxed yet fashionable look on outings. Travel: Lightweight and easy to pack; it will become your favorite travel companion. Social Gatherings: Stand out in gatherings by showcasing your great taste for unique fashion. SpecificationsOur unisex cotton hoodie Japan theme is available in a variety of sizes, from small to extra-large, ensuring that you find the perfect fit. With multiple colors inspired by traditional Japanese palettes, you’re sure to find one that matches your personal style.With a beautiful hood to shield you from unpredictable weather and front pockets for storage or keeping your hands warm, this hoodie brings together form and function beautifully.Customer TestimonialsDon’t just take our word for it! Here’s what some of our satisfied customers have to say about the unisex cotton hoodie Japan theme:“Absolutely love my Japanese-themed hoodie! It fits perfectly and is so comfortable. I’ve received so many compliments!” - Sarah K.“The design is unique, and I appreciate how soft it feels. Best purchase I’ve made in a while.” - Jason R.Order Your Unisex Cotton Hoodie Japan Theme Today!Elevate your wardrobe with our unisex cotton hoodie Japan theme. It’s more than just clothing; it’s an expression of unique style and cultural appreciation. Don’t wait! Experience the perfect blend of comfort and aesthetics today. Click here to order now and step into a new realm of casual elegance! - Nico`s Store
-  Updated: 2025-11-15T21:55:50Z
+  Updated: 2025-11-19T21:27:42Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -8500,49 +8528,49 @@
   - [2XS](https://nicosstore.store/products/unisex-cotton-hoodie-japan-theme?variant=56143603073349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-cotton-hoodie-white-front-6908fbe081fb6.jpg?v=1762197499
-    Price: €41.50 EUR
+    Price: €59.00 EUR
   - [XS](https://nicosstore.store/products/unisex-cotton-hoodie-japan-theme?variant=56143603106117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-cotton-hoodie-white-front-6908fbe081fb6.jpg?v=1762197499
-    Price: €41.50 EUR
+    Price: €59.00 EUR
   - [S](https://nicosstore.store/products/unisex-cotton-hoodie-japan-theme?variant=56143603138885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-cotton-hoodie-white-front-6908fbe081fb6.jpg?v=1762197499
-    Price: €41.50 EUR
+    Price: €59.00 EUR
   - [M](https://nicosstore.store/products/unisex-cotton-hoodie-japan-theme?variant=56143603171653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-cotton-hoodie-white-front-6908fbe081fb6.jpg?v=1762197499
-    Price: €41.50 EUR
+    Price: €59.00 EUR
   - [L](https://nicosstore.store/products/unisex-cotton-hoodie-japan-theme?variant=56143603204421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-cotton-hoodie-white-front-6908fbe081fb6.jpg?v=1762197499
-    Price: €41.50 EUR
+    Price: €59.00 EUR
   - [XL](https://nicosstore.store/products/unisex-cotton-hoodie-japan-theme?variant=56143603237189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-cotton-hoodie-white-front-6908fbe081fb6.jpg?v=1762197499
-    Price: €41.50 EUR
+    Price: €59.00 EUR
   - [2XL](https://nicosstore.store/products/unisex-cotton-hoodie-japan-theme?variant=56143603269957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-cotton-hoodie-white-front-6908fbe081fb6.jpg?v=1762197499
-    Price: €43.00 EUR
+    Price: €59.00 EUR
   - [3XL](https://nicosstore.store/products/unisex-cotton-hoodie-japan-theme?variant=56143603302725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-cotton-hoodie-white-front-6908fbe081fb6.jpg?v=1762197499
-    Price: €45.00 EUR
+    Price: €59.00 EUR
   - [4XL](https://nicosstore.store/products/unisex-cotton-hoodie-japan-theme?variant=56143603335493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-cotton-hoodie-white-front-6908fbe081fb6.jpg?v=1762197499
-    Price: €46.00 EUR
+    Price: €59.00 EUR
   - [5XL](https://nicosstore.store/products/unisex-cotton-hoodie-japan-theme?variant=56143603368261)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-cotton-hoodie-white-front-6908fbe081fb6.jpg?v=1762197499
-    Price: €48.00 EUR
+    Price: €59.00 EUR
   - [6XL](https://nicosstore.store/products/unisex-cotton-hoodie-japan-theme?variant=56143603401029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-cotton-hoodie-white-front-6908fbe081fb6.jpg?v=1762197499
-    Price: €49.50 EUR
+    Price: €59.00 EUR
 - [Double Take Hoodie and Pants Set for Ultimate Comfort and Style](https://nicosstore.store/products/double-take-hoodie-and-pants-set): Elevate your loungewear with the Double Take Hoodie and Pants Set. Enjoy ultimate comfort and style for any occasion. Perfect for relaxed days or chic outings!
-  Updated: 2025-11-15T21:56:05Z
+  Updated: 2025-11-19T21:27:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8550,61 +8578,61 @@
   - [Cerulean / S](https://nicosstore.store/products/double-take-hoodie-and-pants-set?variant=56144257384773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ec96dc1b-3d3e-4034-8cd3-70508f9cc954-Max.webp?v=1762345251
-    Price: €30.01 EUR
+    Price: €40.01 EUR
   - [Cerulean / M](https://nicosstore.store/products/double-take-hoodie-and-pants-set?variant=56144257417541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ec96dc1b-3d3e-4034-8cd3-70508f9cc954-Max.webp?v=1762345251
-    Price: €30.01 EUR
+    Price: €40.01 EUR
   - [Cerulean / L](https://nicosstore.store/products/double-take-hoodie-and-pants-set?variant=56144257450309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ec96dc1b-3d3e-4034-8cd3-70508f9cc954-Max.webp?v=1762345251
-    Price: €30.01 EUR
+    Price: €40.01 EUR
   - [Cerulean / XL](https://nicosstore.store/products/double-take-hoodie-and-pants-set?variant=56144257483077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ec96dc1b-3d3e-4034-8cd3-70508f9cc954-Max.webp?v=1762345251
-    Price: €30.01 EUR
+    Price: €40.01 EUR
   - [Cerulean / 1XL](https://nicosstore.store/products/double-take-hoodie-and-pants-set?variant=56144257515845)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ec96dc1b-3d3e-4034-8cd3-70508f9cc954-Max.webp?v=1762345251
-    Price: €30.01 EUR
+    Price: €40.01 EUR
   - [Cerulean / 2XL](https://nicosstore.store/products/double-take-hoodie-and-pants-set?variant=56144257548613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ec96dc1b-3d3e-4034-8cd3-70508f9cc954-Max.webp?v=1762345251
-    Price: €30.01 EUR
+    Price: €40.01 EUR
   - [Cerulean / 3XL](https://nicosstore.store/products/double-take-hoodie-and-pants-set?variant=56144257581381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ec96dc1b-3d3e-4034-8cd3-70508f9cc954-Max.webp?v=1762345251
-    Price: €30.01 EUR
+    Price: €40.01 EUR
   - [Black / S](https://nicosstore.store/products/double-take-hoodie-and-pants-set?variant=56144257614149)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/74f532d2-4439-4dc6-966e-7e08c81501ed-Max.webp?v=1762345280
-    Price: €30.01 EUR
+    Price: €40.01 EUR
   - [Black / M](https://nicosstore.store/products/double-take-hoodie-and-pants-set?variant=56144257646917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/74f532d2-4439-4dc6-966e-7e08c81501ed-Max.webp?v=1762345280
-    Price: €30.01 EUR
+    Price: €40.01 EUR
   - [Black / L](https://nicosstore.store/products/double-take-hoodie-and-pants-set?variant=56144257679685)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/74f532d2-4439-4dc6-966e-7e08c81501ed-Max.webp?v=1762345280
-    Price: €30.01 EUR
+    Price: €40.01 EUR
   - [Black / XL](https://nicosstore.store/products/double-take-hoodie-and-pants-set?variant=56144257712453)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/74f532d2-4439-4dc6-966e-7e08c81501ed-Max.webp?v=1762345280
-    Price: €30.01 EUR
+    Price: €40.01 EUR
   - [Black / 1XL](https://nicosstore.store/products/double-take-hoodie-and-pants-set?variant=56144257745221)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/74f532d2-4439-4dc6-966e-7e08c81501ed-Max.webp?v=1762345280
-    Price: €30.01 EUR
+    Price: €40.01 EUR
   - [Black / 2XL](https://nicosstore.store/products/double-take-hoodie-and-pants-set?variant=56144257777989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/74f532d2-4439-4dc6-966e-7e08c81501ed-Max.webp?v=1762345280
-    Price: €30.01 EUR
+    Price: €40.01 EUR
   - [Black / 3XL](https://nicosstore.store/products/double-take-hoodie-and-pants-set?variant=56144257810757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/74f532d2-4439-4dc6-966e-7e08c81501ed-Max.webp?v=1762345280
-    Price: €30.01 EUR
+    Price: €40.01 EUR
 - [Reindeer Polka Dot Dress for Kids with Button Detail - Adorable & Fun](https://nicosstore.store/products/reindeer-polka-dot-dress-for-kids): Elevate your child's holiday wardrobe with our charming Reindeer Polka Dot Dress for Kids. Featuring playful button details, this dress is perfect for festive celebrations.
-  Updated: 2025-11-15T21:56:10Z
+  Updated: 2025-11-19T21:27:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8612,17 +8640,17 @@
   - [Red / 6T](https://nicosstore.store/products/reindeer-polka-dot-dress-for-kids?variant=56144263414085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a701ef65-9eb1-4c03-9e24-03de1cbbd983-Max-Origin.webp?v=1762345325
-    Price: €14.99 EUR
+    Price: €28.99 EUR
   - [Red / 7T](https://nicosstore.store/products/reindeer-polka-dot-dress-for-kids?variant=56144263446853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a701ef65-9eb1-4c03-9e24-03de1cbbd983-Max-Origin.webp?v=1762345325
-    Price: €14.99 EUR
+    Price: €28.99 EUR
   - [Red / 8T](https://nicosstore.store/products/reindeer-polka-dot-dress-for-kids?variant=56144263479621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a701ef65-9eb1-4c03-9e24-03de1cbbd983-Max-Origin.webp?v=1762345325
-    Price: €14.99 EUR
+    Price: €28.99 EUR
 - [Children's Bear Ear Outerwear for Cozy Comfort - Perfect for Playtime](https://nicosstore.store/products/childrens-bear-ear-outerwear): Stay warm and stylish with our Children's Bear Ear Outerwear! Perfect for cozy comfort, this adorable piece will keep your little ones snug and happy throughout chilly days.
-  Updated: 2025-11-15T21:56:15Z
+  Updated: 2025-11-19T21:27:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8630,17 +8658,17 @@
   - [Pale Blush / 6T](https://nicosstore.store/products/childrens-bear-ear-outerwear?variant=56144263905605)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e30e1938-60dc-4538-9deb-323a713dee0a-Max-Origin.webp?v=1762345377
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Pale Blush / 7T](https://nicosstore.store/products/childrens-bear-ear-outerwear?variant=56144263938373)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e30e1938-60dc-4538-9deb-323a713dee0a-Max-Origin.webp?v=1762345377
-    Price: €19.99 EUR
+    Price: €29.99 EUR
   - [Pale Blush / 8T](https://nicosstore.store/products/childrens-bear-ear-outerwear?variant=56144263971141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e30e1938-60dc-4538-9deb-323a713dee0a-Max-Origin.webp?v=1762345377
-    Price: €19.99 EUR
+    Price: €29.99 EUR
 - [Children's Warm Leopard Jacket with Hood - Cozy and Stylish Outerwear](https://nicosstore.store/products/childrens-warm-leopard-jacket): Keep your little one cozy and stylish with our children's warm leopard jacket. Featuring a hood and lined interior, it’s perfect for chilly days. Shop now for comfort and cuteness!
-  Updated: 2025-11-15T21:56:23Z
+  Updated: 2025-11-19T21:27:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8648,25 +8676,25 @@
   - [Black / 8Y](https://nicosstore.store/products/childrens-warm-leopard-jacket?variant=56144264593733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3b629b6753ef4e4e97b4bae582c0d26f-Max-Origin.webp?v=1762345454
-    Price: €29.99 EUR
+    Price: €38.99 EUR
   - [Black / 9Y](https://nicosstore.store/products/childrens-warm-leopard-jacket?variant=56144264626501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3b629b6753ef4e4e97b4bae582c0d26f-Max-Origin.webp?v=1762345454
-    Price: €29.99 EUR
+    Price: €38.99 EUR
   - [Black / 10Y](https://nicosstore.store/products/childrens-warm-leopard-jacket?variant=56144264659269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3b629b6753ef4e4e97b4bae582c0d26f-Max-Origin.webp?v=1762345454
-    Price: €29.99 EUR
+    Price: €38.99 EUR
   - [Black / 12Y](https://nicosstore.store/products/childrens-warm-leopard-jacket?variant=56144264692037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3b629b6753ef4e4e97b4bae582c0d26f-Max-Origin.webp?v=1762345454
-    Price: €29.99 EUR
+    Price: €38.99 EUR
   - [Black / 14Y](https://nicosstore.store/products/childrens-warm-leopard-jacket?variant=56144264724805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3b629b6753ef4e4e97b4bae582c0d26f-Max-Origin.webp?v=1762345454
-    Price: €29.99 EUR
+    Price: €38.99 EUR
 - [Children's Fuzzy Cardigan Dress Set with Plaid Dress for Cozy Style](https://nicosstore.store/products/childrens-fuzzy-cardigan-dress-set): Meta Description: Discover our children's fuzzy cardigan dress set featuring a stylish plaid dress. Perfect for cozy playdates or family gatherings, this outfit combines comfort and charm seamlessly!
-  Updated: 2025-11-15T21:56:32Z
+  Updated: 2025-11-19T21:27:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8674,25 +8702,25 @@
   - [Black / 8Y](https://nicosstore.store/products/childrens-fuzzy-cardigan-dress-set?variant=56144264954181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d231a5c8683e415c864d863b6eacfb04-Max-Origin.webp?v=1762345477
-    Price: €25.54 EUR
+    Price: €29.54 EUR
   - [Black / 9Y](https://nicosstore.store/products/childrens-fuzzy-cardigan-dress-set?variant=56144264986949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d231a5c8683e415c864d863b6eacfb04-Max-Origin.webp?v=1762345477
-    Price: €25.54 EUR
+    Price: €29.54 EUR
   - [Black / 10Y](https://nicosstore.store/products/childrens-fuzzy-cardigan-dress-set?variant=56144265019717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d231a5c8683e415c864d863b6eacfb04-Max-Origin.webp?v=1762345477
-    Price: €25.54 EUR
+    Price: €29.54 EUR
   - [Black / 12Y](https://nicosstore.store/products/childrens-fuzzy-cardigan-dress-set?variant=56144265052485)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d231a5c8683e415c864d863b6eacfb04-Max-Origin.webp?v=1762345477
-    Price: €25.54 EUR
+    Price: €29.54 EUR
   - [Black / 14Y](https://nicosstore.store/products/childrens-fuzzy-cardigan-dress-set?variant=56144265085253)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d231a5c8683e415c864d863b6eacfb04-Max-Origin.webp?v=1762345477
-    Price: €25.54 EUR
+    Price: €29.54 EUR
 - [Children's Faux Fur Outerwear for Stylish Comfort with Hood & Tie Waist](https://nicosstore.store/products/childrens-faux-fur-outerwear): Elevate your child's style with our children's faux fur outerwear featuring a cozy hood and tie waist for a perfect fit. Ideal for comfort and trendy looks this season!
-  Updated: 2025-11-15T21:56:42Z
+  Updated: 2025-11-19T21:27:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8700,45 +8728,45 @@
   - [Apricot / 8Y](https://nicosstore.store/products/childrens-faux-fur-outerwear?variant=56144265511237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/74d95142d15b4bf98f05a0741794d218-Max-Origin.webp?v=1762345520
-    Price: €27.22 EUR
+    Price: €35.22 EUR
   - [Apricot / 9Y](https://nicosstore.store/products/childrens-faux-fur-outerwear?variant=56144265544005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/74d95142d15b4bf98f05a0741794d218-Max-Origin.webp?v=1762345520
-    Price: €27.22 EUR
+    Price: €35.22 EUR
   - [Apricot / 10Y](https://nicosstore.store/products/childrens-faux-fur-outerwear?variant=56144265576773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/74d95142d15b4bf98f05a0741794d218-Max-Origin.webp?v=1762345520
-    Price: €27.22 EUR
+    Price: €35.22 EUR
   - [Apricot / 11Y](https://nicosstore.store/products/childrens-faux-fur-outerwear?variant=56144265609541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/74d95142d15b4bf98f05a0741794d218-Max-Origin.webp?v=1762345520
-    Price: €27.22 EUR
+    Price: €35.22 EUR
   - [Apricot / 12Y](https://nicosstore.store/products/childrens-faux-fur-outerwear?variant=56144265642309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/74d95142d15b4bf98f05a0741794d218-Max-Origin.webp?v=1762345520
-    Price: €27.22 EUR
+    Price: €35.22 EUR
   - [Black / 8Y](https://nicosstore.store/products/childrens-faux-fur-outerwear?variant=56144265675077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a3a5757eeb704e64b1e1ecb171610581-Max-Origin.webp?v=1762345538
-    Price: €27.22 EUR
+    Price: €35.22 EUR
   - [Black / 9Y](https://nicosstore.store/products/childrens-faux-fur-outerwear?variant=56144265707845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a3a5757eeb704e64b1e1ecb171610581-Max-Origin.webp?v=1762345538
-    Price: €27.22 EUR
+    Price: €35.22 EUR
   - [Black / 10Y](https://nicosstore.store/products/childrens-faux-fur-outerwear?variant=56144265740613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a3a5757eeb704e64b1e1ecb171610581-Max-Origin.webp?v=1762345538
-    Price: €27.22 EUR
+    Price: €35.22 EUR
   - [Black / 11Y](https://nicosstore.store/products/childrens-faux-fur-outerwear?variant=56144265773381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a3a5757eeb704e64b1e1ecb171610581-Max-Origin.webp?v=1762345538
-    Price: €27.22 EUR
+    Price: €35.22 EUR
   - [Black / 12Y](https://nicosstore.store/products/childrens-faux-fur-outerwear?variant=56144265806149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a3a5757eeb704e64b1e1ecb171610581-Max-Origin.webp?v=1762345538
-    Price: €27.22 EUR
+    Price: €35.22 EUR
 - [Children's Puff Sleeve Outfit - Stylish Top and Pants Set for Kids](https://nicosstore.store/products/childrens-puff-sleeve-outfit): Elevate your child's wardrobe with our stylish Children's Puff Sleeve Outfit. This adorable top and pants set combines comfort and fashion, perfect for every occasion!
-  Updated: 2025-11-15T21:56:49Z
+  Updated: 2025-11-19T21:27:43Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8746,25 +8774,25 @@
   - [Dusty Pink / 8Y](https://nicosstore.store/products/childrens-puff-sleeve-outfit?variant=56144266592581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dbaf2c9a54124bfeb86a31b93b71b76f-Max-Origin.webp?v=1762345600
-    Price: €25.99 EUR
+    Price: €33.99 EUR
   - [Dusty Pink / 9Y](https://nicosstore.store/products/childrens-puff-sleeve-outfit?variant=56144266625349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dbaf2c9a54124bfeb86a31b93b71b76f-Max-Origin.webp?v=1762345600
-    Price: €25.99 EUR
+    Price: €33.99 EUR
   - [Dusty Pink / 10Y](https://nicosstore.store/products/childrens-puff-sleeve-outfit?variant=56144266658117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dbaf2c9a54124bfeb86a31b93b71b76f-Max-Origin.webp?v=1762345600
-    Price: €25.99 EUR
+    Price: €33.99 EUR
   - [Dusty Pink / 12Y](https://nicosstore.store/products/childrens-puff-sleeve-outfit?variant=56144266690885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dbaf2c9a54124bfeb86a31b93b71b76f-Max-Origin.webp?v=1762345600
-    Price: €25.99 EUR
+    Price: €33.99 EUR
   - [Dusty Pink / 14Y](https://nicosstore.store/products/childrens-puff-sleeve-outfit?variant=56144266723653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dbaf2c9a54124bfeb86a31b93b71b76f-Max-Origin.webp?v=1762345600
-    Price: €25.99 EUR
+    Price: €33.99 EUR
 - [Children's Zip-Up Hooded Jacket - Stylish Quilted Comfort for Kids](https://nicosstore.store/products/childrens-zip-up-hooded-jacket): Keep your little ones cozy and stylish with our Children's Zip-Up Hooded Jacket. Featuring a quilted design for ultimate comfort, this jacket is perfect for any adventure.
-  Updated: 2025-11-15T21:56:56Z
+  Updated: 2025-11-19T21:27:43Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8772,25 +8800,25 @@
   - [Dusty Pink / 8Y](https://nicosstore.store/products/childrens-zip-up-hooded-jacket?variant=56144267182405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d5dfddc7721b4ea8988fe6f37345431c-Max-Origin.webp?v=1762345639
-    Price: €21.62 EUR
+    Price: €27.62 EUR
   - [Dusty Pink / 9Y](https://nicosstore.store/products/childrens-zip-up-hooded-jacket?variant=56144267215173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d5dfddc7721b4ea8988fe6f37345431c-Max-Origin.webp?v=1762345639
-    Price: €21.62 EUR
+    Price: €27.62 EUR
   - [Dusty Pink / 10Y](https://nicosstore.store/products/childrens-zip-up-hooded-jacket?variant=56144267247941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d5dfddc7721b4ea8988fe6f37345431c-Max-Origin.webp?v=1762345639
-    Price: €21.62 EUR
+    Price: €27.62 EUR
   - [Dusty Pink / 11Y](https://nicosstore.store/products/childrens-zip-up-hooded-jacket?variant=56144267280709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d5dfddc7721b4ea8988fe6f37345431c-Max-Origin.webp?v=1762345639
-    Price: €21.62 EUR
+    Price: €27.62 EUR
   - [Dusty Pink / 12Y](https://nicosstore.store/products/childrens-zip-up-hooded-jacket?variant=56144267313477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d5dfddc7721b4ea8988fe6f37345431c-Max-Origin.webp?v=1762345639
-    Price: €21.62 EUR
+    Price: €27.62 EUR
 - [Children's Christmas Reindeer Outfit - Adorable Set with Ruffle Trim](https://nicosstore.store/products/childrens-christmas-reindeer-outfit): Dress your little one in festive cheer with our Children's Christmas Reindeer Outfit Set with Ruffle Trim. Perfect for holiday celebrations and pictures. Shop now for the perfect Christmas style!
-  Updated: 2025-11-15T21:57:08Z
+  Updated: 2025-11-19T21:27:43Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8798,25 +8826,25 @@
   - [White / 12-18M](https://nicosstore.store/products/childrens-christmas-reindeer-outfit?variant=56144267936069)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/12f52640-0873-400b-8c85-f5f3d1530059-Max-Origin.webp?v=1762345683
-    Price: €23.49 EUR
+    Price: €29.49 EUR
   - [White / 18-24M](https://nicosstore.store/products/childrens-christmas-reindeer-outfit?variant=56144267968837)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/12f52640-0873-400b-8c85-f5f3d1530059-Max-Origin.webp?v=1762345683
-    Price: €23.49 EUR
+    Price: €29.49 EUR
   - [White / 2-3](https://nicosstore.store/products/childrens-christmas-reindeer-outfit?variant=56144268001605)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/12f52640-0873-400b-8c85-f5f3d1530059-Max-Origin.webp?v=1762345683
-    Price: €23.49 EUR
+    Price: €29.49 EUR
   - [White / 3-4](https://nicosstore.store/products/childrens-christmas-reindeer-outfit?variant=56144268034373)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/12f52640-0873-400b-8c85-f5f3d1530059-Max-Origin.webp?v=1762345683
-    Price: €23.49 EUR
+    Price: €29.49 EUR
   - [White / 5-6](https://nicosstore.store/products/childrens-christmas-reindeer-outfit?variant=56144268067141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/12f52640-0873-400b-8c85-f5f3d1530059-Max-Origin.webp?v=1762345683
-    Price: €23.49 EUR
+    Price: €29.49 EUR
 - [Children's Spiderman Hoodie Set with Pants for Kids - Stylish & Comfy](https://nicosstore.store/products/childrens-spiderman-hoodie-set): Meta Description: Shop our Children's Spiderman Hoodie Set, complete with comfy pants for kids. Perfect for playtime or lounging, this stylish set is a must-have for little superheroes!
-  Updated: 2025-11-15T21:57:16Z
+  Updated: 2025-11-19T21:27:43Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8824,45 +8852,45 @@
   - [Red / 18-24M](https://nicosstore.store/products/childrens-spiderman-hoodie-set?variant=56144268460357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee3b9d19862c4e4182352c3a730f0175-Max-Origin.webp?v=1762345723
-    Price: €23.49 EUR
+    Price: €29.49 EUR
   - [Red / 2-3](https://nicosstore.store/products/childrens-spiderman-hoodie-set?variant=56144268493125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee3b9d19862c4e4182352c3a730f0175-Max-Origin.webp?v=1762345723
-    Price: €23.49 EUR
+    Price: €29.49 EUR
   - [Red / 3-4](https://nicosstore.store/products/childrens-spiderman-hoodie-set?variant=56144268525893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee3b9d19862c4e4182352c3a730f0175-Max-Origin.webp?v=1762345723
-    Price: €23.49 EUR
+    Price: €29.49 EUR
   - [Red / 4-5](https://nicosstore.store/products/childrens-spiderman-hoodie-set?variant=56144268558661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee3b9d19862c4e4182352c3a730f0175-Max-Origin.webp?v=1762345723
-    Price: €23.49 EUR
+    Price: €29.49 EUR
   - [Red / 6-7](https://nicosstore.store/products/childrens-spiderman-hoodie-set?variant=56144268591429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee3b9d19862c4e4182352c3a730f0175-Max-Origin.webp?v=1762345723
-    Price: €23.49 EUR
+    Price: €29.49 EUR
   - [Black / 18-24M](https://nicosstore.store/products/childrens-spiderman-hoodie-set?variant=56144268624197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/696f8db80262445291780d6013410eec-Max-Origin.webp?v=1762345734
-    Price: €23.49 EUR
+    Price: €29.49 EUR
   - [Black / 2-3](https://nicosstore.store/products/childrens-spiderman-hoodie-set?variant=56144268656965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/696f8db80262445291780d6013410eec-Max-Origin.webp?v=1762345734
-    Price: €23.49 EUR
+    Price: €29.49 EUR
   - [Black / 3-4](https://nicosstore.store/products/childrens-spiderman-hoodie-set?variant=56144268689733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/696f8db80262445291780d6013410eec-Max-Origin.webp?v=1762345734
-    Price: €23.49 EUR
+    Price: €29.49 EUR
   - [Black / 4-5](https://nicosstore.store/products/childrens-spiderman-hoodie-set?variant=56144268722501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/696f8db80262445291780d6013410eec-Max-Origin.webp?v=1762345734
-    Price: €23.49 EUR
+    Price: €29.49 EUR
   - [Black / 6-7](https://nicosstore.store/products/childrens-spiderman-hoodie-set?variant=56144268755269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/696f8db80262445291780d6013410eec-Max-Origin.webp?v=1762345734
-    Price: €23.49 EUR
+    Price: €29.49 EUR
 - [Children's Plaid Hooded Set - Trendy Button Up Top & Pants for Kids](https://nicosstore.store/products/childrens-plaid-hooded-set): Discover our stylish Children's Plaid Hooded Set featuring a button-up top and comfortable pants, perfect for playtime or outings. Shop now for cozy and trendy kids' apparel!
-  Updated: 2025-11-15T21:57:23Z
+  Updated: 2025-11-19T21:27:43Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8870,25 +8898,25 @@
   - [Red / 6-9M](https://nicosstore.store/products/childrens-plaid-hooded-set?variant=56144304177477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4e073eb20f154f34ae76891d078d4992-Max-Origin.webp?v=1762346495
-    Price: €25.14 EUR
+    Price: €32.14 EUR
   - [Red / 9-12M](https://nicosstore.store/products/childrens-plaid-hooded-set?variant=56144304210245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4e073eb20f154f34ae76891d078d4992-Max-Origin.webp?v=1762346495
-    Price: €25.14 EUR
+    Price: €32.14 EUR
   - [Red / 12-18M](https://nicosstore.store/products/childrens-plaid-hooded-set?variant=56144304243013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4e073eb20f154f34ae76891d078d4992-Max-Origin.webp?v=1762346495
-    Price: €25.14 EUR
+    Price: €32.14 EUR
   - [Red / 18-24M](https://nicosstore.store/products/childrens-plaid-hooded-set?variant=56144304275781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4e073eb20f154f34ae76891d078d4992-Max-Origin.webp?v=1762346495
-    Price: €25.14 EUR
+    Price: €32.14 EUR
   - [Red / 2-3](https://nicosstore.store/products/childrens-plaid-hooded-set?variant=56144304308549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4e073eb20f154f34ae76891d078d4992-Max-Origin.webp?v=1762346495
-    Price: €25.14 EUR
+    Price: €32.14 EUR
 - [Children's Short Sleeve Dress with Fun Prints for Stylish Kids Wear](https://nicosstore.store/products/childrens-short-sleeve-dress): Shop our Children's Short Sleeve Dress featuring fun prints! Perfect for playtime and outings, this dress offers comfort and style that kids will love. Find the perfect fit today!
-  Updated: 2025-11-15T21:57:29Z
+  Updated: 2025-11-19T21:27:43Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8896,25 +8924,25 @@
   - [Tan / 5Y](https://nicosstore.store/products/childrens-short-sleeve-dress?variant=56144305357125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bf74248d954c40cab998bc55d30ec0fb-Max-Origin.webp?v=1762346540
-    Price: €20.93 EUR
+    Price: €28.93 EUR
   - [Tan / 6Y](https://nicosstore.store/products/childrens-short-sleeve-dress?variant=56144305389893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bf74248d954c40cab998bc55d30ec0fb-Max-Origin.webp?v=1762346540
-    Price: €20.93 EUR
+    Price: €28.93 EUR
   - [Tan / 7Y](https://nicosstore.store/products/childrens-short-sleeve-dress?variant=56144305422661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bf74248d954c40cab998bc55d30ec0fb-Max-Origin.webp?v=1762346540
-    Price: €20.93 EUR
+    Price: €28.93 EUR
   - [Tan / 8Y](https://nicosstore.store/products/childrens-short-sleeve-dress?variant=56144305455429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bf74248d954c40cab998bc55d30ec0fb-Max-Origin.webp?v=1762346540
-    Price: €20.93 EUR
+    Price: €28.93 EUR
   - [Tan / 9Y](https://nicosstore.store/products/childrens-short-sleeve-dress?variant=56144305488197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bf74248d954c40cab998bc55d30ec0fb-Max-Origin.webp?v=1762346540
-    Price: €20.93 EUR
+    Price: €28.93 EUR
 - [Children's Spider T-Shirt and Pants Set - Fun Round Neck Outfit for Kids](https://nicosstore.store/products/childrens-spider-t-shirt-and-pants-set): Discover our vibrant Children's Spider T-Shirt and Pants Set, perfect for playtime! This short sleeve round neck outfit offers comfort and style for your little superhero. Shop now!
-  Updated: 2025-11-18T08:04:11Z
+  Updated: 2025-11-19T21:27:43Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8922,21 +8950,21 @@
   - [Red / 4Y](https://nicosstore.store/products/childrens-spider-t-shirt-and-pants-set?variant=56144306176325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/574dc4b6-be53-4cb0-85d6-8540bd5fa892-Max.webp?v=1762346576
-    Price: €14.62 EUR
+    Price: €23.62 EUR
   - [Red / 5Y](https://nicosstore.store/products/childrens-spider-t-shirt-and-pants-set?variant=56144306209093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/574dc4b6-be53-4cb0-85d6-8540bd5fa892-Max.webp?v=1762346576
-    Price: €14.62 EUR
+    Price: €23.62 EUR
   - [Red / 6Y](https://nicosstore.store/products/childrens-spider-t-shirt-and-pants-set?variant=56144306241861)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/574dc4b6-be53-4cb0-85d6-8540bd5fa892-Max.webp?v=1762346576
-    Price: €14.62 EUR
+    Price: €23.62 EUR
   - [Red / 7Y](https://nicosstore.store/products/childrens-spider-t-shirt-and-pants-set?variant=56144306274629)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/574dc4b6-be53-4cb0-85d6-8540bd5fa892-Max.webp?v=1762346576
-    Price: €14.62 EUR
+    Price: €23.62 EUR
 - [Women Graphic Lounge Set - Stylish Comfort with Printed Letter Design](https://nicosstore.store/products/women-graphic-lounge-set): Elevate your relaxation with our Women Graphic Lounge Set, featuring a stylish printed letter design. Enjoy ultimate comfort and effortless chic in every moment!
-  Updated: 2025-11-15T21:57:42Z
+  Updated: 2025-11-19T21:27:43Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8944,25 +8972,25 @@
   - [Mint / S](https://nicosstore.store/products/women-graphic-lounge-set?variant=56144309027141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d2f4a33021db448da04be57a0a244660-Max.jpg?v=1762796812
-    Price: €27.74 EUR
+    Price: €32.74 EUR
   - [Mint / M](https://nicosstore.store/products/women-graphic-lounge-set?variant=56144309059909)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d2f4a33021db448da04be57a0a244660-Max.jpg?v=1762796812
-    Price: €27.74 EUR
+    Price: €32.74 EUR
   - [Mint / L](https://nicosstore.store/products/women-graphic-lounge-set?variant=56144309092677)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d2f4a33021db448da04be57a0a244660-Max.jpg?v=1762796812
-    Price: €27.74 EUR
+    Price: €32.74 EUR
   - [Mint / XL](https://nicosstore.store/products/women-graphic-lounge-set?variant=56144309125445)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d2f4a33021db448da04be57a0a244660-Max.jpg?v=1762796812
-    Price: €27.74 EUR
+    Price: €32.74 EUR
   - [Mint / 2XL](https://nicosstore.store/products/women-graphic-lounge-set?variant=56144309158213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d2f4a33021db448da04be57a0a244660-Max.jpg?v=1762796812
-    Price: €27.74 EUR
+    Price: €32.74 EUR
 - [Girls Graphic Lounge Set - Printed Letter Design for Stylish Comfort](https://nicosstore.store/products/girls-graphic-lounge-set): Elevate your child's comfort with our Girls Graphic Lounge Set featuring a stylish printed letter design. Perfect for playtime or relaxation, this trendy lounge set is a must-have!
-  Updated: 2025-11-17T16:46:01Z
+  Updated: 2025-11-20T21:22:23Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8970,21 +8998,21 @@
   - [Mint / 4Y-5Y](https://nicosstore.store/products/girls-graphic-lounge-set?variant=56144309616965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/371e258095e24a2da4c1012f0ddd8d96-Max.jpg?v=1762346738
-    Price: €22.54 EUR
+    Price: €29.54 EUR
   - [Mint / 6Y-7Y](https://nicosstore.store/products/girls-graphic-lounge-set?variant=56144309649733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/371e258095e24a2da4c1012f0ddd8d96-Max.jpg?v=1762346738
-    Price: €22.54 EUR
+    Price: €29.54 EUR
   - [Mint / 8Y-9Y](https://nicosstore.store/products/girls-graphic-lounge-set?variant=56144309682501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/371e258095e24a2da4c1012f0ddd8d96-Max.jpg?v=1762346738
-    Price: €22.54 EUR
+    Price: €29.54 EUR
   - [Mint / 10Y-11Y](https://nicosstore.store/products/girls-graphic-lounge-set?variant=56144309715269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/371e258095e24a2da4c1012f0ddd8d96-Max.jpg?v=1762346738
-    Price: €22.54 EUR
+    Price: €29.54 EUR
 - [Full Size Plus Size Cowl Neck Long Sleeve Top - Perfectly Flattering Plus Size Cowl Neck Top - Nico`s Store](https://nicosstore.store/products/plus-size-cowl-neck-top): ✨ Full Size Plus Size Cowl Neck Long Sleeve Top - Your Ultimate Style Essential! ✨ Elevate your wardrobe with our Full Size Plus Size Cowl Neck Long Sleeve Top! Designed for the confident woman who values style and comfort, this top is your go-to solution for any occasion. Whether you’re out with friends or enjoying a cozy night in, this flattering piece ensures you look and feel fabulous! 🌟 Key Features: Soft & Stretchy Fabric: Made from high-quality materials that provide all-day comfort. Flattering Cowl Neck Design: Enhances your silhouette while offering elegant coverage. Versatile Color Options: Choose from a range of colors to express your unique style. Easy Care: Machine washable and retains shape and color after multiple washes. Perfect for Layering: Ideal for pairing with jeans, leggings, or skirts. 📏 Specifications: Material: Premium Blend Available Sizes: 1X, 2X, 3X Care Instructions: Machine Wash Cold 💬 Customer Reviews: "This top has become my go-to! It’s so comfortable and fits perfectly. I love the color options too!" - Jessica L. "I was amazed by how flattering this top is! The fabric is soft and drapes beautifully. I want one in every color!" - Amanda R. 🛒 Make It Yours Today! Don’t miss out on the chance to transform your wardrobe with the Full Size Plus Size Cowl Neck Long Sleeve Top! Order now and enjoy quick shipping and a hassle-free return policy. Add this essential piece to your cart and redefine your fashion game! - Nico`s Store
-  Updated: 2025-11-16T20:20:18Z
+  Updated: 2025-11-20T20:47:21Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8992,197 +9020,197 @@
   - [Deep Red / S](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491214149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/39dea225e36f40d08bb2ea292e8a52c9-Max-Origin.webp?v=1763324367
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Deep Red / M](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491246917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/39dea225e36f40d08bb2ea292e8a52c9-Max-Origin.webp?v=1763324367
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Deep Red / L](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491279685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/39dea225e36f40d08bb2ea292e8a52c9-Max-Origin.webp?v=1763324367
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Deep Red / XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491312453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/39dea225e36f40d08bb2ea292e8a52c9-Max-Origin.webp?v=1763324367
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Deep Red / 2XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491345221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/39dea225e36f40d08bb2ea292e8a52c9-Max-Origin.webp?v=1763324367
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Deep Red / 3XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491377989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/39dea225e36f40d08bb2ea292e8a52c9-Max-Origin.webp?v=1763324367
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Deep Red / 4XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491410757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/39dea225e36f40d08bb2ea292e8a52c9-Max-Origin.webp?v=1763324367
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Deep Red / 5XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491443525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/39dea225e36f40d08bb2ea292e8a52c9-Max-Origin.webp?v=1763324367
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Grey / S](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491476293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ac670996cdba49ca93a2644483d0fd84-Max-Origin.webp?v=1763324377
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Grey / M](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491509061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ac670996cdba49ca93a2644483d0fd84-Max-Origin.webp?v=1763324377
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Grey / L](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491541829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ac670996cdba49ca93a2644483d0fd84-Max-Origin.webp?v=1763324377
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Grey / XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491574597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ac670996cdba49ca93a2644483d0fd84-Max-Origin.webp?v=1763324377
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Grey / 2XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491607365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ac670996cdba49ca93a2644483d0fd84-Max-Origin.webp?v=1763324377
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Grey / 3XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491640133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ac670996cdba49ca93a2644483d0fd84-Max-Origin.webp?v=1763324377
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Grey / 4XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491672901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ac670996cdba49ca93a2644483d0fd84-Max-Origin.webp?v=1763324377
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Grey / 5XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491705669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ac670996cdba49ca93a2644483d0fd84-Max-Origin.webp?v=1763324377
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Khaki / S](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491738437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2eca4ccf816c4fdb91d80b74635f2e12-Max-Origin.webp?v=1763324386
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Khaki / M](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491771205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2eca4ccf816c4fdb91d80b74635f2e12-Max-Origin.webp?v=1763324386
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Khaki / L](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491803973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2eca4ccf816c4fdb91d80b74635f2e12-Max-Origin.webp?v=1763324386
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Khaki / XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491836741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2eca4ccf816c4fdb91d80b74635f2e12-Max-Origin.webp?v=1763324386
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Khaki / 2XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491869509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2eca4ccf816c4fdb91d80b74635f2e12-Max-Origin.webp?v=1763324386
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Khaki / 3XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491902277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2eca4ccf816c4fdb91d80b74635f2e12-Max-Origin.webp?v=1763324386
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Khaki / 4XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491935045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2eca4ccf816c4fdb91d80b74635f2e12-Max-Origin.webp?v=1763324386
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Khaki / 5XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222491967813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2eca4ccf816c4fdb91d80b74635f2e12-Max-Origin.webp?v=1763324386
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Deep Rose / S](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492000581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8609aa66e8a045c3ab8ec7f6c463a952-Max-Origin.webp?v=1763324394
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Deep Rose / M](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492033349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8609aa66e8a045c3ab8ec7f6c463a952-Max-Origin.webp?v=1763324394
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Deep Rose / L](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492066117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8609aa66e8a045c3ab8ec7f6c463a952-Max-Origin.webp?v=1763324394
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Deep Rose / XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492098885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8609aa66e8a045c3ab8ec7f6c463a952-Max-Origin.webp?v=1763324394
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Deep Rose / 2XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492131653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8609aa66e8a045c3ab8ec7f6c463a952-Max-Origin.webp?v=1763324394
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Deep Rose / 3XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492164421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8609aa66e8a045c3ab8ec7f6c463a952-Max-Origin.webp?v=1763324394
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Deep Rose / 4XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492197189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8609aa66e8a045c3ab8ec7f6c463a952-Max-Origin.webp?v=1763324394
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Deep Rose / 5XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492229957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8609aa66e8a045c3ab8ec7f6c463a952-Max-Origin.webp?v=1763324394
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Green / S](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492262725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8226b6bb-cd19-4e57-b73d-40fa8ee70867-Max-Origin.webp?v=1763324404
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Green / M](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492295493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8226b6bb-cd19-4e57-b73d-40fa8ee70867-Max-Origin.webp?v=1763324404
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Green / L](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492328261)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8226b6bb-cd19-4e57-b73d-40fa8ee70867-Max-Origin.webp?v=1763324404
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Green / XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492361029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8226b6bb-cd19-4e57-b73d-40fa8ee70867-Max-Origin.webp?v=1763324404
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Green / 2XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492393797)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8226b6bb-cd19-4e57-b73d-40fa8ee70867-Max-Origin.webp?v=1763324404
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Green / 3XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492426565)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8226b6bb-cd19-4e57-b73d-40fa8ee70867-Max-Origin.webp?v=1763324404
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Green / 4XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492459333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8226b6bb-cd19-4e57-b73d-40fa8ee70867-Max-Origin.webp?v=1763324404
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Green / 5XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492492101)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8226b6bb-cd19-4e57-b73d-40fa8ee70867-Max-Origin.webp?v=1763324404
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Pink / S](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492524869)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f77135e13c25403c8e9c6c214e66b7bf-Max-Origin.webp?v=1763324411
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Pink / M](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492557637)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f77135e13c25403c8e9c6c214e66b7bf-Max-Origin.webp?v=1763324411
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Pink / L](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492590405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f77135e13c25403c8e9c6c214e66b7bf-Max-Origin.webp?v=1763324411
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Pink / XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492623173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f77135e13c25403c8e9c6c214e66b7bf-Max-Origin.webp?v=1763324411
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Pink / 2XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492655941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f77135e13c25403c8e9c6c214e66b7bf-Max-Origin.webp?v=1763324411
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Pink / 3XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492688709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f77135e13c25403c8e9c6c214e66b7bf-Max-Origin.webp?v=1763324411
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Pink / 4XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492721477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f77135e13c25403c8e9c6c214e66b7bf-Max-Origin.webp?v=1763324411
-    Price: €19.01 EUR
+    Price: €25.01 EUR
   - [Pink / 5XL](https://nicosstore.store/products/plus-size-cowl-neck-top?variant=56222492754245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f77135e13c25403c8e9c6c214e66b7bf-Max-Origin.webp?v=1763324411
-    Price: €19.01 EUR
+    Price: €25.01 EUR
 - [Full Size Plus Size Tie-Dye Wide Leg Pants for Effortless Style - Nico`s Store](https://nicosstore.store/products/plus-size-tie-dye-wide-leg-pants): 🌈 Full Size Plus Size Tie-Dye Wide Leg Pants for Effortless Style Step into a world of vibrant fashion with our Full Size Plus Size Tie-Dye Wide Leg Pants! Designed not just for comfort but for making a statement, these pants are your perfect companion for any occasion. Imagine the feeling of soft, breathable fabric that moves with you, while the eye-catching tie-dye pattern elevates your outfit effortlessly. ✨ Key Features Breathable Fabric: Stay cool and comfortable all day long. Versatile Styling Options: Dress them up or down with ease. Elastic Waistband: Offers a flexible, easy fit for all-day wear. Vibrant Tie-Dye Patterns: Unique designs that showcase your individuality. 📏 Specifications Material High-Quality Blend Fit Relaxed Wide Leg Care Instructions Wash in cold water, hang to dry Sizes Available Variety of Plus Sizes 💬 Customer Reviews "These are the most comfortable pants I've ever owned! Perfect for lounging or going out!" - Sarah T. "I love the unique tie-dye pattern! They fit beautifully and feel amazing!" - Jessica M. 🛒 Shop Now! Ready to embrace effortless style? Don't miss out on our Full Size Plus Size Tie-Dye Wide Leg Pants! Add them to your cart now and step out with confidence and flair! - Nico`s Store
-  Updated: 2025-11-16T20:20:33Z
+  Updated: 2025-11-19T21:27:44Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9190,29 +9218,29 @@
   - [Multicolor / S](https://nicosstore.store/products/plus-size-tie-dye-wide-leg-pants?variant=56222607245637)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8c983ac0-5430-4a55-bcc3-bf6e1a49b6f2-Max-Origin.webp?v=1763324406
-    Price: €25.99 EUR
+    Price: €28.99 EUR
   - [Multicolor / M](https://nicosstore.store/products/plus-size-tie-dye-wide-leg-pants?variant=56222607278405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8c983ac0-5430-4a55-bcc3-bf6e1a49b6f2-Max-Origin.webp?v=1763324406
-    Price: €25.99 EUR
+    Price: €28.99 EUR
   - [Multicolor / L](https://nicosstore.store/products/plus-size-tie-dye-wide-leg-pants?variant=56222607311173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8c983ac0-5430-4a55-bcc3-bf6e1a49b6f2-Max-Origin.webp?v=1763324406
-    Price: €25.99 EUR
+    Price: €28.99 EUR
   - [Multicolor / XL](https://nicosstore.store/products/plus-size-tie-dye-wide-leg-pants?variant=56222607343941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8c983ac0-5430-4a55-bcc3-bf6e1a49b6f2-Max-Origin.webp?v=1763324406
-    Price: €25.99 EUR
+    Price: €28.99 EUR
   - [Multicolor / 2XL](https://nicosstore.store/products/plus-size-tie-dye-wide-leg-pants?variant=56222607376709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8c983ac0-5430-4a55-bcc3-bf6e1a49b6f2-Max-Origin.webp?v=1763324406
-    Price: €25.99 EUR
+    Price: €28.99 EUR
   - [Multicolor / 3XL](https://nicosstore.store/products/plus-size-tie-dye-wide-leg-pants?variant=56222607409477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8c983ac0-5430-4a55-bcc3-bf6e1a49b6f2-Max-Origin.webp?v=1763324406
-    Price: €25.99 EUR
+    Price: €28.99 EUR
 - [Plus Size Wide Leg Pants in Abstract Print for Stylish Comfort - Nico`s Store](https://nicosstore.store/products/plus-size-wide-leg-pants): ✨ Plus Size Wide Leg Pants in Abstract Print: Your New Go-To for Stylish Comfort! ✨ Step into effortless elegance with our Plus Size Wide Leg Pants, designed for the modern woman who values both fashion and comfort. Crafted in a stunning abstract print, these pants are perfect for any occasion—be it a day at the office or a night out with friends. Embrace your curves and express your unique style confidently! 🌟 Key Features: Eye-Catching Abstract Print: Stand out with a unique design that adds artistry to your outfit. Comfortable Fit: Enjoy a relaxed fit that allows for movement and all-day wear. Versatile Styling: Pair with tees, blouses, or sweaters for endless outfit possibilities. Durable Material: Made to last, with stretch that keeps its shape wear after wear. Sustainable Fashion: Crafted with eco-friendly materials for responsible shopping. 📏 Specifications: Material: High-Quality Fabric Fit: Wide Leg Care: Machine wash cold, tumble dry low 💬 Customer Reviews: “These pants are a game-changer! The fit is perfect, and the print is so fun. I wear them everywhere!” - Sarah L. “Finally, wide leg pants that are both stylish and comfortable. I love how versatile they are!” - Jessica K. 🛒 Ready to Transform Your Wardrobe? Don’t wait to embrace the comfort and style you deserve! Add our Plus Size Wide Leg Pants to your cart today and step out in confidence! - Nico`s Store
-  Updated: 2025-11-16T20:20:42Z
+  Updated: 2025-11-20T09:15:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9220,25 +9248,25 @@
   - [Ivory / 1XL](https://nicosstore.store/products/plus-size-wide-leg-pants?variant=56222628970821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dfe1d161dda643e8a2a0edf56ec92b7a-Max-Origin.webp?v=1763324422
-    Price: €20.99 EUR
+    Price: €30.99 EUR
   - [Ivory / 2XL](https://nicosstore.store/products/plus-size-wide-leg-pants?variant=56222629003589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dfe1d161dda643e8a2a0edf56ec92b7a-Max-Origin.webp?v=1763324422
-    Price: €20.99 EUR
+    Price: €30.99 EUR
   - [Ivory / 3XL](https://nicosstore.store/products/plus-size-wide-leg-pants?variant=56222629036357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dfe1d161dda643e8a2a0edf56ec92b7a-Max-Origin.webp?v=1763324422
-    Price: €20.99 EUR
+    Price: €30.99 EUR
   - [Ivory / 4XL](https://nicosstore.store/products/plus-size-wide-leg-pants?variant=56222629069125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dfe1d161dda643e8a2a0edf56ec92b7a-Max-Origin.webp?v=1763324422
-    Price: €20.99 EUR
+    Price: €30.99 EUR
   - [Ivory / 5XL](https://nicosstore.store/products/plus-size-wide-leg-pants?variant=56222629101893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dfe1d161dda643e8a2a0edf56ec92b7a-Max-Origin.webp?v=1763324422
-    Price: €20.99 EUR
+    Price: €30.99 EUR
 - [Children's Floral Dress - Long Sleeve Casual Dress for Girls - Nico`s Store](https://nicosstore.store/products/childrens-floral-dress): 🌺 Enchanting Children's Floral Dress - Long Sleeve Casual Dress for Girls Transform your little girl’s wardrobe with our stunning Children's Floral Dress, the perfect blend of charm, comfort, and versatility. Whether it's a family gathering, a birthday celebration, or a sunny day out, this dress will make her feel special and confident! ✨ Why You'll Love This Dress Vibrant Floral Patterns: Featuring bright, playful designs, this dress captures the beauty of nature, allowing your child to express her unique style. Comfort Meets Style: Crafted from high-quality, breathable fabric, it offers warmth and unrestricted movement, perfect for active play. Versatile Fashion: Dress it up for special occasions or keep it casual for everyday wear; this dress adapts to any situation. Sustainable Choice: Made with eco-friendly materials and ethical production practices, feel good about your purchase! Easy Care: Machine washable for hassle-free cleaning, making it ideal for busy parents. 📏 Specifications Material: 100% Cotton Sizes Available: 2-10 years Care Instructions: Machine washable 🌟 Customer Reviews “My daughter absolutely loves this dress! The colors are bright, and it fits her perfectly.” - Jessica W. “A fantastic dress for all occasions. We’ve received so many compliments!” - Sarah L. 🛒 Ready to Make a Purchase? Don't miss out on adding this beautiful dress to her collection. Click the button below and let her shine in this enchanting floral dress! - Nico`s Store
-  Updated: 2025-11-16T20:20:51Z
+  Updated: 2025-11-19T21:27:44Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9268,7 +9296,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/90ef8dfb-13b1-45f5-af2d-8ee0c55b3a99-Max-Origin.webp?v=1763324438
     Price: €22.99 EUR
 - [Children's Christmas Pajamas - Reindeer Striped Pajama Set - Nico`s Store](https://nicosstore.store/products/childrens-christmas-pajamas): 🎄 Children's Christmas Pajamas - Reindeer Striped Pajama Set 🎄 Bring the magic of Christmas to bedtime! Our Children's Christmas Pajamas featuring an adorable reindeer design and playful stripes are perfect for keeping your little ones cozy and festive during the holiday season. Crafted from soft, breathable fabric, these pajamas promise comfort and joy, ensuring every Christmas moment is unforgettable. ✨ Why Choose Our Pajama Set? ✨ Festive Delight: The charming reindeer and vibrant stripes make each night a fun celebration. Ultimate Comfort: High-quality, soft materials allow for unrestricted movement, perfect for sleep or play. Durable Design: Our pajamas withstand holiday wash cycles, keeping their shape and color for years to come. Versatile Use: Ideal for cozy movie nights, family gatherings, or Christmas morning excitement. 📏 Sizes for Every Child: Size 2T 3T 4T 5T 🌱 Eco-friendly & Safe: Rest easy knowing our pajamas are made with eco-friendly materials that meet strict safety standards, prioritizing your child's health. 🧺 Easy Care Instructions: Kids can be messy! Our pajamas are machine washable and easy to care for—just toss them in and tumble dry. 💖 Join the Fun This Christmas! Snuggle up in our festive pajamas and create cherished memories with your loved ones. Don’t miss out on making your child’s holiday season extra special. Order your Children's Christmas Pajamas today and let the festivities begin! ⭐ Customer Reviews: “Our kids absolutely love their reindeer pajamas! They’re soft, cute, and perfect for Christmas morning!” - Sarah M. - Nico`s Store
-  Updated: 2025-11-16T20:21:27Z
+  Updated: 2025-11-19T21:27:44Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9314,7 +9342,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4ece7405-ae8d-4f1b-b0a5-6d2106f2f332-Max-Origin.webp?v=1763324474
     Price: €20.00 EUR
 - [Top Handle Crossbody Bag - Nico`s Store](https://nicosstore.store/products/top-handle-crossbody-bag): ✨ Elevate Your Style with the Top Handle Crossbody Bag ✨ Meet your new favorite accessory—the Top Handle Crossbody Bag! This chic and versatile bag is designed for the modern woman who values both fashion and functionality. Whether you're navigating a busy workday or enjoying a leisurely weekend, this bag adapts to your lifestyle with ease. 🌟 Unmatched Versatility Transformative Style: Switch effortlessly from a stylish top handle to a hands-free crossbody with a detachable strap. Spacious Interior: Ample space for all your essentials—smartphone, wallet, makeup, and more—while maintaining a sleek look. Adjustable Comfort: Find your perfect fit with an adjustable strap designed for all-day wear. Trendy Colors: Available in a variety of stylish hues to match your unique personality. Easy Organization: Multiple pockets keep your belongings neatly organized and easily accessible. 📏 Specifications Material: High-quality synthetic leather Dimensions: 12" x 9" x 4" Weight: 1.2 lbs Strap Length: Adjustable from 24" to 48" 💬 Customer Reviews "This bag is a game-changer! Perfect for my busy days, and I love how it looks!" - Sarah K. "Stylish and functional! I get compliments every time I wear it." - Jessica M. 🛒 Your New Favorite Accessory Awaits! Why wait? Experience the perfect blend of style and practicality with the Top Handle Crossbody Bag. Add it to your cart today and step out in confidence! - Nico`s Store
-  Updated: 2025-11-16T20:22:15Z
+  Updated: 2025-11-19T21:27:44Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9332,7 +9360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5262258440bb4c09a3b06e22297a93e7-Max-Origin.webp?v=1763324519
     Price: €28.11 EUR
 - [Ribbed Knit Wrap Dress for Effortless Style and Comfort - Nico`s Store](https://nicosstore.store/products/ribbed-knit-wrap-dress): 🌟 Ribbed Knit Wrap Dress: Elevate Your Everyday Style! 🌟 Step into a world of elegance and ease with our Ribbed Knit Wrap Dress, meticulously crafted for the modern woman who craves both comfort and style. This dress is not just an outfit; it’s your go-to solution for any occasion, effortlessly transitioning from day to night with a chic flair. ✨ Key Features: 👗 Versatile Design: Perfect for casual brunches or formal meetings. 💖 Flattering Silhouette: Adjustable wrap style enhances your natural curves. 🔄 Easy Care: Machine washable, retains shape and color. 🎨 Available Colors: Choose from an array of stunning hues to match your personality. 📏 Specifications: Material: High-quality ribbed knit Fit: Adjustable wrap style Care Instructions: Machine wash cold, tumble dry low 🗣️ Customer Reviews: “This dress is a game changer! So comfortable and flattering!” - Sarah, Verified Buyer “I wear it to work and out to dinner; it's that versatile!” - Jessica, Verified Buyer 🚀 Get Yours Today! Don’t miss out on the chance to elevate your wardrobe with the Ribbed Knit Wrap Dress—where comfort meets chic style. Click below to shop now and embrace effortless elegance! - Nico`s Store
-  Updated: 2025-11-16T20:23:25Z
+  Updated: 2025-11-19T21:27:44Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9498,7 +9526,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e0d39a3d-8bbf-4c3f-838f-f1b9f56ee40d-Max-Origin.webp?v=1763324598
     Price: €20.26 EUR
 - [Children's Butterfly Dress - Long Sleeve Casual Dress for Girls - Nico`s Store](https://nicosstore.store/products/childrens-butterfly-dress): ✨ Enchanting Children's Butterfly Dress - Long Sleeve Casual Dress for Girls ✨ Unleash your little one's imagination with our delightful Children's Butterfly Dress! This long sleeve casual dress combines vibrant colors and whimsical patterns, crafted for young fashionistas who want to express their unique style while staying comfortable. Made from premium materials, this dress is perfect for every little girl's wardrobe, ensuring she feels as beautiful as she looks! 🌟 Key Features: Soft & Comfortable Fabric: Made from a high-quality blend of cotton and polyester for all-day wear. Adorable Butterfly Print: Captures the magic of nature, ideal for birthdays, playdates, and family gatherings. Versatile Design: Perfect for dressing up or down, making it suitable for any occasion. Easy Care: Machine washable and durable, maintaining its charm wash after wash. Comfortable Fit: Elastic waistband for unrestricted movement during play. Perfect Gift: A thoughtful present for birthdays, holidays, or just to brighten her day! 📏 Specifications: Material: Cotton & Polyester Sizes Available: Variety of sizes for all shapes Care Instructions: Machine wash cold, tumble dry low 💬 Customer Reviews: "My daughter loves her new dress! The butterfly design sparks her imagination!" - Sarah M. "This dress is not only cute but also super comfortable for all-day wear." - Emily T. 🚀 Ready to Make Her Day? Don't miss the chance to add this enchanting Children's Butterfly Dress to her wardrobe! Click the link to explore this delightful outfit and give her the gift of style and comfort today! - Nico`s Store
-  Updated: 2025-11-16T20:22:23Z
+  Updated: 2025-11-19T21:27:44Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9528,7 +9556,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dbf161c7-18f2-4256-833e-008fdf16cbf4-Max-Origin.webp?v=1763324527
     Price: €22.97 EUR
 - [Color Block Shoulder Bag - Nico`s Store](https://nicosstore.store/products/color-block-shoulder-bag): Elevate Your Style with the Color Block Shoulder Bag! Introducing the Color Block Shoulder Bag—a delightful blend of fashion and functionality. Whether you're headed to brunch with friends or an important meeting, this bag effortlessly enhances your look while keeping your essentials organized. With its vibrant hues and modern design, it’s more than just an accessory; it’s a statement of your unique style. ✨ Key Features: Spacious Interior: Perfect for your phone, wallet, makeup, and more, allowing you to carry all your essentials with ease. Durable Materials: Crafted to withstand daily wear while maintaining its stunning appearance. Adjustable Strap: Customizable for your preferred style—be it crossbody or shoulder carry. Eye-Catching Design: Trendy color-blocking adds a playful flair to any outfit, making it a must-have for fashion lovers. 📏 Specifications: Dimensions: 12" x 10" x 5" Materials: High-quality synthetic leather Weight: 1.2 lbs 🌟 Customer Reviews: "I love how versatile this bag is! It goes with everything!" - Jamie "The color-blocking is so fun! I've received tons of compliments!" - Sarah 🛒 Make It Yours Today! Why wait to elevate your accessory game? The Color Block Shoulder Bag is the ultimate blend of style and practicality, ready to redefine your wardrobe. Click here to purchase and express your unique fashion sense! - Nico`s Store
-  Updated: 2025-11-16T20:23:11Z
+  Updated: 2025-11-19T21:27:44Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9558,7 +9586,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a881269d761e46b7b7997d9ef28bf2d4-Max-Origin.webp?v=1763324590
     Price: €25.99 EUR
 - [Ribbed Knit Cami Cardigan Shorts Set for Stylish Comfort - Nico`s Store](https://nicosstore.store/products/ribbed-knit-cami-cardigan-shorts-set): 🌟 Ribbed Knit Cami Cardigan Shorts Set: Elevate Your Everyday Style! 🌟 Step into a world of style and comfort with our Ribbed Knit Cami Cardigan Shorts Set. Designed for the modern woman, this chic ensemble effortlessly blends casual elegance with cozy comfort. Perfect for lounging at home, brunching with friends, or running errands, this set is a must-have for every wardrobe! ✨ Ultimate Comfort & Versatility ✨ Soft Ribbed Fabric: Luxurious feel that caresses your skin. Chic Cardigan: Effortlessly layered look for any occasion. Flattering Shorts: Designed to enhance your figure while providing all-day comfort. Versatile Styling: Transition seamlessly from home to outings, dressed up or down! 📏 Specifications 📏 Material Soft Ribbed Knit Available Colors Multiple Options Sizes S, M, L, XL 💬 Customer Reviews 💬 "I can’t get enough of this set! It’s my go-to for every occasion!" – Sarah K. "So soft and fits perfectly! I bought two colors!" – Jessica T. 🛒 Order Yours Today! 🛒 Don’t miss out on the ultimate blend of comfort and style. Click below to add the Ribbed Knit Cami Cardigan Shorts Set to your cart and refresh your wardrobe today! Add to Cart - Nico`s Store
-  Updated: 2025-11-16T20:23:44Z
+  Updated: 2025-11-19T21:27:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9576,7 +9604,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e3eb3aa5d922450a8582b65e80ad84d1-Max-Origin.webp?v=1763324616
     Price: €45.55 EUR
 - [Leather Crossbody Bag with Charm - Nico`s Store](https://nicosstore.store/products/leather-crossbody-bag-with-charm): ✨ Elevate Your Style with Our Leather Crossbody Bag with Charm! Imagine a bag that combines elegance, durability, and practicality, all while turning heads wherever you go. Our Leather Crossbody Bag is designed for the modern woman who craves both fashion and function. Crafted from premium leather and adorned with a whimsical charm detail, this bag is your ultimate companion for shopping, dining, and traveling. 🌟 Why You'll Love It: Durable Material: Made from high-quality leather, this bag withstands daily wear while maintaining its chic appeal. Spacious Design: Multiple compartments keep your essentials organized—no more digging around! Adjustable Strap: Wear it crossbody or on your shoulder for maximum comfort. Unique Charm Detail: A touch of personality that makes your bag uniquely yours. 📏 Specifications: Dimensions: 10" x 8" x 3" Color Variations: Classic Black, Vibrant Red, Elegant Taupe Easy to Clean: Wipeable leather for effortless maintenance Lightweight Design: Comfortable for all-day wear 💬 What Our Customers Are Saying: "I absolutely love this leather crossbody bag! The charm adds a unique touch, and it fits everything I need. I get compliments every time I wear it!" - Sarah T. "The quality is exceptional; it feels luxurious and looks fantastic. Highly recommend!" - Michelle R. 🛍️ Ready to Transform Your Style? This Leather Crossbody Bag is more than just an accessory—it's a statement of style and confidence. Don’t miss out on the opportunity to enhance your wardrobe with this must-have item. Click below to add to your cart and step out in style! - Nico`s Store
-  Updated: 2025-11-16T20:24:32Z
+  Updated: 2025-11-19T21:27:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9594,7 +9622,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/06181b63-1fd7-449d-ac9d-117f43c791a8-Max-Origin.webp?v=1763324656
     Price: €29.26 EUR
 - [Zip Up Waterproof Hooded Jacket for Ultimate Protection and Style - Nico`s Store](https://nicosstore.store/products/zip-up-waterproof-hooded-jacket): Zip Up Waterproof Hooded Jacket: Your Ultimate Shield Against the Elements Meet the Zip Up Waterproof Hooded Jacket—where style meets unbeatable protection. Designed for the modern adventurer, this jacket is your go-to companion for any weather. Crafted from high-quality materials, it keeps you dry, warm, and effortlessly chic, ensuring you make a statement wherever you go. ✨ Exceptional Features: Durable Waterproof Material: Premium fabric repels heavy rain and wind, ensuring maximum dryness. Adjustable Hood: Customizable fit keeps your head snug and dry. Multiple Pockets: Ample storage for essentials, keeping your hands free. Lightweight and Packable: Folds easily into your backpack, perfect for travel. Comfortable Fit: Designed for all body types, with breathable lining for all-day comfort. 📝 Specifications: Material: Premium Waterproof Fabric Sizes: XS, S, M, L, XL Colors: Various Options Available 💬 Customer Reviews: “I stayed completely dry on my hike! The jacket is stylish and so comfortable.” - Sarah W. “Perfect for my morning runs and looks great with everything!” - Mike R. 🚀 Ready to Elevate Your Wardrobe? Your next adventure deserves the best. Don’t miss the chance to own the Zip Up Waterproof Hooded Jacket. Experience unmatched comfort and style, rain or shine. Click below to shop now! - Nico`s Store
-  Updated: 2025-11-16T20:25:56Z
+  Updated: 2025-11-19T21:27:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9700,7 +9728,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/492428f7d272465e80e683a534d5804a-Max-Origin.webp?v=1763324738
     Price: €38.55 EUR
 - [Children's Lion Print Jacket - Warm Padded Hooded Jacket for Kids - Nico`s Store](https://nicosstore.store/products/childrens-lion-print-jacket): 🐾 Children's Lion Print Jacket - Your Kid's New Favorite Outerwear! Transform your little one's wardrobe with our adorable Children's Lion Print Jacket! Designed to keep kids cozy and stylish, this warm padded hooded jacket is perfect for school, park outings, and outdoor adventures. Your child will love sporting this charming lion-themed piece that sparks joy and conversation! ✨ Unmatched Warmth and Comfort Premium Materials: Crafted from high-quality fabrics for exceptional warmth and durability. Padded Insulation: Provides an extra layer of coziness for those chilly days. Cozy Hood: Shields against biting winds, keeping little ears warm. Easy Care: Machine washable for effortless cleaning – perfect for active kids! Variety of Sizes: Available for toddlers to pre-teens for a snug fit! 🌟 Perfect for Any Occasion This versatile jacket transitions seamlessly from casual outings to school activities. Pair it with jeans for a relaxed look or dress it up with accessories. It's not just a jacket; it's a canvas for your child's personal style! 📏 Specifications Material: High-quality polyester Insulation: Padded Care Instructions: Machine washable Sizes: Toddler, Kids, Pre-Teen 💬 Customer Reviews "My daughter loves her lion jacket! It's so warm and she gets compliments everywhere we go!" - Sarah T. 🛒 Your Child's New Favorite Jacket Awaits! Don't miss out on this delightful jacket! Your child deserves to feel warm and look cool. Click the button below to grab your Children's Lion Print Jacket today! Buy Now! - Nico`s Store
-  Updated: 2025-11-16T20:25:04Z
+  Updated: 2025-11-19T21:27:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9730,7 +9758,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/aeb4d491-8ba9-46b4-8dde-e0f45ed760d9-Max-Origin.webp?v=1763324693
     Price: €32.06 EUR
 - [Double Take V-Neck Printed Blouse - Full Size Short Sleeve Fashion Top - Nico`s Store](https://nicosstore.store/products/v-neck-printed-blouse): Double Take V-Neck Printed Blouse - Your New Style Essential! Step up your fashion game with the Double Take V-Neck Printed Blouse! This versatile top combines elegance and comfort, making it the ultimate choice for any occasion. Whether you're at the office, enjoying a brunch with friends, or dressing up for a night out, this blouse will ensure you exude confidence and style. 🌟 Key Features: Chic V-Neckline: Enhances your silhouette while offering a touch of sophistication. Flattering Fit: Relaxed short sleeves and a comfortable shape that complements all body types. Unique Prints: Eye-catching designs that make a statement without overwhelming your look. Easy Care: Durable fabric that withstands washing, keeping its shape and vibrancy. 📏 Specifications: Material: High-quality polyester blend Available Sizes: Full sizes (S, M, L, XL) Care Instructions: Machine washable 💬 Customer Reviews: Join the chorus of happy customers! Here’s what they are saying: “Absolutely love this blouse! It’s perfect for work and looks great with jeans on weekends. Highly recommend!” – Sarah M. “The prints are gorgeous and the fit is true to size. I’ve received so many compliments!” – Jessica K. 🛒 Shop with Confidence! Your satisfaction is our top priority! Enjoy easy returns and exchanges. Don’t miss the chance to elevate your wardrobe with the Double Take V-Neck Printed Blouse. Click the button below to explore our stunning prints and secure yours today! Shop the Double Take V-Neck Printed Blouse Now! - Nico`s Store
-  Updated: 2025-11-17T12:17:53Z
+  Updated: 2025-11-19T21:27:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9784,7 +9812,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/05d54d73-bd3e-46c3-aba4-8dc10687d379-Max.webp?v=1763381856
     Price: €19.87 EUR
 - [Scoop Neck Buttoned Magic Dress with Pockets - Double Take Sleeveless Style - Nico`s Store](https://nicosstore.store/products/scoop-neck-buttoned-magic-dress): Scoop Neck Buttoned Magic Dress with Pockets - Double Take Sleeveless Style Step into effortless style and comfort with our Scoop Neck Buttoned Magic Dress. This enchanting dress is designed to be your go-to outfit for any occasion. Featuring a flattering scoop neckline and chic button details, it seamlessly combines elegance with practicality. Plus, with functional pockets, you can carry your essentials while looking fabulous! ✨ Why You’ll Love the Scoop Neck Buttoned Magic Dress ✨ Designed for Every Occasion: From casual outings to formal events, this dress is versatile enough to suit your lifestyle. Exceptional Comfort: Crafted from a soft, breathable fabric that drapes beautifully, ensuring you feel fabulous all day long. Functionality Meets Style: Enjoy the convenience of pockets without sacrificing your chic look. Flattering Fit: The elegant silhouette enhances your natural curves, making it a universally flattering choice. Easy to Style: Pair with sandals for daywear or dress up with heels for evening elegance. 📏 Specifications Material: Soft, breathable fabric Neckline: Scoop Neck Buttons: Chic button detail Pockets: Two functional pockets Sizes: Available in a wide range 🗣️ Customer Reviews Our customers can’t get enough of the Scoop Neck Buttoned Magic Dress! Many appreciate its perfect blend of style and comfort, highlighting its transformative ability from day to night. Join the community of satisfied shoppers today! 🛍️ Ready to Make It Yours? If you’re looking for a dress that effortlessly combines chic design with everyday practicality, the Scoop Neck Buttoned Magic Dress is your answer. Shop now and elevate your wardrobe with this must-have piece! - Nico`s Store
-  Updated: 2025-11-17T12:17:59Z
+  Updated: 2025-11-19T21:27:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9862,7 +9890,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/725d6b9496224514832706b14b71f75c-Max.jpg?v=1763381868
     Price: €25.99 EUR
 - [Off-Shoulder Pleated Midi Dress with Ruffle Detail - Nico`s Store](https://nicosstore.store/products/off-shoulder-pleated-midi-dress): Unleash Your Elegance with Our Off-Shoulder Pleated Midi Dress Step into a world of sophistication and grace with our Off-Shoulder Pleated Midi Dress. Crafted for the modern woman who values both style and comfort, this exquisite dress is perfect for garden parties, weddings, and evening events. Feel confident and chic as you embrace your unique fashion sense. Key Features: Flattering Off-Shoulder Design: Showcases your shoulders with an elegant touch. Elegant Pleated Fabric: Adds texture and depth, making it a standout choice. Ruffle Details: Delicate ruffles enhance your feminine flair. Versatile Midi Length: Perfect for both casual outings and formal events. Specifications: Material: High-quality breathable fabric Care: Easy care, machine washable Sizes: Available in a wide range of sizes What Our Customers Say: "This dress made me feel like a queen at the party! The compliments were endless!" - Emma R. Ready to Elevate Your Wardrobe? Don’t miss your chance to own this must-have piece. Experience the perfect blend of style, comfort, and versatility with our Off-Shoulder Pleated Midi Dress. Order yours today and be the center of attention! - Nico`s Store
-  Updated: 2025-11-18T10:40:48Z
+  Updated: 2025-11-19T21:27:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9884,7 +9912,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e37097768c4246aab2c48d3ff0b3172d-Max-Origin.webp?v=1763381861
     Price: €43.55 EUR
 - [Double Take Full Size Printed Flounce Sleeve Blouse - Nico`s Store](https://nicosstore.store/products/double-take-full-size-printed-flounce-sleeve-blouse): ✨ Double Take Full Size Printed Flounce Sleeve Blouse ✨ Elevate your wardrobe with our stunning Double Take Full Size Printed Flounce Sleeve Blouse—a perfect blend of elegance and comfort. This versatile piece is designed for the modern woman who values style and individuality, making it an essential addition to both casual and professional settings. 🌟 Key Features: Flattering Fit: Flounce sleeves add femininity, while the tailored silhouette ensures comfort without sacrificing style. Eye-Catching Prints: Choose from a range of beautiful prints to express your personality and make a statement. High-Quality Fabric: Crafted from premium materials for durability and a luxurious feel that lasts. Easy Care: Machine washable for effortless maintenance, keeping your blouse fresh for every occasion. 📏 Specifications: Material: Premium Blend Sizes Available: Full Range (Check Sizing Chart) Care Instructions: Machine Washable 💬 Customer Reviews: "This blouse is a game changer! I love how it fits and feels. I've received so many compliments!" - Sarah J. 🛒 Get Yours Today! Transform your outfit and embrace elegance with the Double Take Full Size Printed Flounce Sleeve Blouse. Don’t wait—experience style and comfort that turns heads. Shop now and join countless satisfied customers who have made this blouse their go-to favorite! - Nico`s Store
-  Updated: 2025-11-17T12:18:24Z
+  Updated: 2025-11-19T21:27:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9914,7 +9942,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/afa328f3-102a-487f-8b53-5f9439ff7cf4-Max.webp?v=1763381892
     Price: €22.59 EUR
 - [Classic High-Waisted Skinny Jeans for a Timeless Look - Nico`s Store](https://nicosstore.store/products/classic-high-waisted-skinny-jeans): 👖 Classic High-Waisted Skinny Jeans: Your Timeless Style Essential Step into a world of effortless elegance with our Classic High-Waisted Skinny Jeans. Designed for the modern individual, these jeans provide the perfect blend of style, comfort, and versatility. Whether you're dressing up for a night out or enjoying a casual brunch, these jeans will accentuate your figure and elevate your outfit. 🌟 Key Features You’ll Love: Flattering High-Waisted Fit: Enhances your natural shape for an hourglass silhouette. Ultimate Comfort: Soft, stretchy fabric allows for all-day wear without restriction. Versatile Style: Easily transitions from day to night, making it a closet staple. Durable Construction: Crafted from quality materials that withstand the test of time. Easy Maintenance: Machine washable and easy to care for—perfect for your busy lifestyle. 📝 Specifications: Material: High-quality cotton blend Sizes Available: XS - XL Color Options: Classic Blue, Black, and Light Wash 💬 Customer Reviews: "These jeans are a game-changer! They fit like a glove and can be dressed up or down!" – Sarah T. "Finally, a pair of jeans that are both stylish and comfortable!" – Jake R. 🚀 Order Your Classic High-Waisted Skinny Jeans Today! Don't miss out on the chance to enhance your wardrobe with these must-have jeans. Experience the perfect combination of style, comfort, and durability. Order now and redefine your style! - Nico`s Store
-  Updated: 2025-11-17T12:18:47Z
+  Updated: 2025-11-19T21:27:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -9936,7 +9964,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/08112af5-fcce-49a9-964d-a6e416ac88dd-Max-Origin.webp?v=1763381908
     Price: €32.99 EUR
 - [Winter Waterproof Snow Boots with Warm Fur Lining - Nico`s Store](https://nicosstore.store/products/winter-waterproof-snow-boots-with-warm-fur-lining): Winter Waterproof Snow Boots with Warm Fur Lining Embrace the winter wonderland with our Winter Waterproof Snow Boots, designed to keep your feet warm, dry, and stylish in the harshest conditions. Whether you're conquering snowy trails or navigating city sidewalks, these boots are your ultimate ally in cold weather adventures. ✨ Features That Stand Out Waterproof Design: High-quality materials keep your feet dry in any weather. Warm Fur Lining: Enjoy plush warmth that wraps your feet in comfort during chilly outings. Durable Outsole: Rugged rubber sole provides excellent traction on icy surfaces, preventing slips. Stylish & Versatile: Sleek design that complements your winter wardrobe for both adventures and daily wear. 📏 Specifications Material: Waterproof synthetic fabric Lining: Faux fur Sole: Rubber Sizes: Available in multiple sizes Colors: Black, Red, Earthy tones 🌟 Customer Reviews Speak Volumes "These boots changed my winter experience! No more cold feet!" - Sarah J. "Stylish and functional! Perfect for my winter hikes." - Mike T. 👉 Order Your Pair Today! Don’t let winter weather hold you back! Step into comfort and style with our Winter Waterproof Snow Boots. Click below to choose your size and color, and make this winter your coziest yet! - Nico`s Store
-  Updated: 2025-11-17T12:19:22Z
+  Updated: 2025-11-19T21:27:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10026,7 +10054,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b603c5a9c5214c90bfeff242ec4a2d8c-Max-Origin.webp?v=1763381959
     Price: €45.55 EUR
 - [Round Toe Platform Slip-Ons with Fleece Lining - Nico`s Store](https://nicosstore.store/products/round-toe-platform-slip-ons): Step Up Your Style with Our Round Toe Platform Slip-Ons! Embrace the perfect fusion of comfort and chic with our Round Toe Platform Slip-Ons with Fleece Lining. Designed for the dynamic lifestyle, these shoes effortlessly transition from a cozy day at home to brunch with friends, ensuring you look and feel fabulous every step of the way! ✨ Key Features: Heavenly Fleece Lining: Wrap your feet in warmth, perfect for chilly days. Roomy Round Toe Design: Enjoy freedom and comfort without pinching. Versatile Style: Dress them up or down for any occasion. Easy Care: Durable materials ensure effortless cleaning and maintenance. Perfect Fit: Range of sizes with elastic sides for easy on-and-off wear. 🛠️ Specifications: Material Premium Fabric Lining Fleece Sole Type Platform Available Sizes 6-11 🌟 What Our Customers Say: "These slip-ons are a game changer! The fleece lining is incredibly cozy, and I can wear them all day without discomfort." - Sarah J. 🛒 Ready to Elevate Your Footwear Collection? Don’t miss out on the ultimate blend of style and comfort! Order your Round Toe Platform Slip-Ons today and step into a world of happy feet! - Nico`s Store
-  Updated: 2025-11-17T12:19:44Z
+  Updated: 2025-11-19T21:27:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10140,7 +10168,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/05ffefe1d46a4c699d8110a382d17f54-Max-Origin.webp?v=1763381965
     Price: €29.99 EUR
 - [Rhinestone Toe Post Sandals for Effortless Style and Comfort - Nico`s Store](https://nicosstore.store/products/rhinestone-toe-post-sandals): ✨ Rhinestone Toe Post Sandals: Where Comfort Meets Glamour! ✨ Step into summer with our stunning Rhinestone Toe Post Sandals, designed to elevate your style while keeping your feet blissfully comfortable. Perfect for those sun-drenched days, these sandals are not just a fashion accessory—they're a lifestyle choice! Whether you're off to the beach or brunching with friends, make a statement with every step. 🌟 Key Features 🌟 Chic Design: Dazzling rhinestone embellishments add an eye-catching sparkle. Exceptional Comfort: Ergonomic toe post and cushioned footbed keep you comfortable all day. Durable Materials: Crafted from high-quality materials for long-lasting wear. Versatile Style: Easily pairs with sundresses, maxi dresses, or casual outfits. Travel-Friendly: Lightweight design makes them easy to pack for any adventure. 📏 Specifications 📏 Material: High-quality synthetic with rhinestone accents Sizes: Available in multiple sizes Color Options: Various colors to match your style Care Instructions: Wipe clean with a damp cloth; store away from sunlight 🌈 Customer Reviews 🌈 “These sandals are a total game-changer! I wore them all day at the beach, and my feet felt fantastic!” - Sarah M. “Absolutely love the sparkle! They make every outfit pop.” - Jessica L. 🛒 Ready to Shine? 🛒 Don't miss your chance to own these fabulous Rhinestone Toe Post Sandals! Elevate your footwear game and experience the perfect blend of style and comfort. Order yours today and step into effortless elegance! - Nico`s Store
-  Updated: 2025-11-17T12:20:02Z
+  Updated: 2025-11-19T21:27:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10226,7 +10254,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9dc8f60043cb456ea6317b79db22b8c6-Max-Origin.webp?v=1763382001
     Price: €29.44 EUR
 - [Contrast Lace Up Athletic Shoes for Ultimate Performance and Style - Nico`s Store](https://nicosstore.store/products/contrast-lace-up-athletic-shoes): Elevate Your Game with Contrast Lace Up Athletic Shoes Unleash your full potential with our Contrast Lace Up Athletic Shoes—where cutting-edge performance meets eye-catching style. Designed for the modern athlete and fashion-forward individual, these shoes are perfect for everything from high-intensity workouts to casual outings. Step into comfort and confidence, and let your footwear do the talking! ✨ Key Features Unmatched Comfort: Cushioned insoles provide all-day support, keeping your feet energized for any activity. Breathable Mesh: Keeps your feet cool and dry, preventing moisture buildup during workouts. Durability: Engineered with robust materials and a rubber outsole for excellent traction on all surfaces. Stylish Design: Vibrant contrasts ensure you look great whether at the gym or out with friends. 📏 Specifications Material: Mesh upper, rubber outsole Weight: Lightweight Sizes Available: Full range of sizes 🌟 Customer Reviews "These shoes are my go-to for everything! Super comfortable and stylish!" - Jamie R. "Finally, shoes that support my runs without compromising on style!" - Alex T. 🛒 Order Yours Today! Don’t wait to transform your athletic experience! Click the button below to select your size and color, and step into a world of comfort and style with Contrast Lace Up Athletic Shoes! - Nico`s Store
-  Updated: 2025-11-17T12:21:20Z
+  Updated: 2025-11-19T21:27:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10288,7 +10316,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/164c4df4a4834370b5deb6db7b1d395b-Max-Origin.webp?v=1763382079
     Price: €29.99 EUR
 - [Pointed Toe Block Heel Boots for Stylish Comfort - Nico`s Store](https://nicosstore.store/products/pointed-toe-block-heel-boots): Step Up Your Style with Pointed Toe Block Heel Boots Transform your wardrobe with our Pointed Toe Block Heel Boots, where elegance meets comfort. Designed for the modern woman, these boots effortlessly blend sophistication with practicality. Whether you're heading to the office, a dinner date, or enjoying a weekend outing, these boots are your go-to choice for versatile, chic footwear. ✨ Unmatched Comfort and Style Experience the perfect fusion of style and comfort. The pointed toe design elongates your legs, while the sturdy block heel ensures stability with every step, allowing you to walk confidently throughout your day. 🔍 Key Features Premium Materials: Crafted from high-quality materials for durability and a luxurious feel. Comfortable Block Heel: Designed for all-day wear, providing height without sacrificing comfort. Versatile Design: Pairs effortlessly with dresses, skirts, and jeans for a stylish look. Easy On/Off: Features a convenient side zipper for quick styling. 📏 Specifications Material Genuine Leather Heel Height 3 inches Sizes Available 5-10 (US) Colors Black, Brown, Tan 💬 Customer Testimonials Join the ranks of satisfied customers who love our boots: “These are the most comfortable heels I’ve ever owned! I can wear them all day without any discomfort.” – Jessica T. “Absolutely in love with the style! They go with everything in my wardrobe.” – Sarah L. 🛍️ Don’t Wait, Elevate Your Wardrobe! Ready to step out in style? Our Pointed Toe Block Heel Boots are the perfect blend of comfort and chic sophistication. Invest in your style today and experience the difference! Order your pair now! - Nico`s Store
-  Updated: 2025-11-17T12:21:44Z
+  Updated: 2025-11-19T21:27:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10486,7 +10514,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/710e0521c7d64ac58a5a845026de65fb-Max-Origin.webp?v=1763382080
     Price: €34.99 EUR
 - [Lace Up Round Toe Boots for Stylish Comfort and Durability - Nico`s Store](https://nicosstore.store/products/lace-up-round-toe-boots): Lace Up Round Toe Boots: Step into Stylish Comfort and Unmatched Durability! Welcome to a new era of footwear with our Lace Up Round Toe Boots—crafted for those who refuse to compromise on style or practicality. Whether you're conquering the city streets or exploring the great outdoors, these boots seamlessly blend fashion-forward design with robust functionality, making them the ultimate companion for every adventure. ✨ Effortlessly Stylish Design With a sleek silhouette and modern round toe, these boots elevate any outfit. The spacious toe box ensures comfort, allowing you to wear them all day without a second thought. 🌟 Unmatched Comfort Breathable Material: Keeps your feet fresh and comfortable all day long. Adjustable Fit: Lace-up design allows for a customizable fit for maximum comfort. Durable Construction: Reinforced stitching and sturdy sole designed to withstand daily wear. Fashion-Forward Look: Available in multiple colors to suit your unique style. 🧗‍♂️ Exceptional Durability for Every Adventure Our Lace Up Round Toe Boots are built to last. The tough outer material resists scratches and scuffs, while the rubber sole provides excellent traction, ensuring you’re ready for anything. 🌍 Versatile Usage Scenarios From rugged hikes to casual brunches, these boots transition smoothly to fit any occasion, making them a versatile staple in your wardrobe. 👟 Perfect Fit for Everyone Available in a range of sizes, our boots cater to all foot shapes, making them suitable for everyone. 💧 Maintenance Tips for Longevity Keep your boots looking pristine with simple care tips: clean regularly with a damp cloth and allow to dry naturally. 💬 Customer Reviews Join the many satisfied customers who rave about the comfort and style of our Lace Up Round Toe Boots. Experience the perfect blend of fashion and functionality! 🚀 Don’t Miss Out! Elevate your footwear collection today! Order your Lace Up Round Toe Boots and step out in confidence, ready for whatever life throws your way! - Nico`s Store
-  Updated: 2025-11-17T12:22:02Z
+  Updated: 2025-11-19T21:27:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10556,7 +10584,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/96112dd95f8d4462b83ef688bfa64d77-Max-Origin.webp?v=1763382121
     Price: €41.36 EUR
 - [Breathable Mesh Athletic Shoes - Lace Up for Optimal Comfort and Performance - Nico`s Store](https://nicosstore.store/products/breathable-mesh-athletic-shoes): 🏃‍♀️ Breathable Mesh Athletic Shoes - Lace Up for Optimal Comfort and Performance Unlock your potential with our Breathable Mesh Athletic Shoes! Designed for athletes and everyday adventurers alike, these shoes offer the perfect fusion of style and functionality. Feel the difference with every step, whether you're crushing your workout or enjoying a casual day out. ✨ Key Features & Benefits Exceptional Breathability: Lightweight mesh upper enhances airflow to keep your feet cool and dry. Superior Comfort: Cushioned insoles mold to your feet, reducing fatigue for all-day wear. Durable Construction: High-quality materials ensure longevity while maintaining a chic look. Stylish Design: Versatile colors and styles to complement any outfit, ideal for workouts and casual outings. Advanced Ventilation: Innovative mesh fabric prevents overheating, enhancing comfort during intense activities. Enhanced Arch Support: Orthotic-friendly insoles provide vital support, reducing injury risk. Lightweight Flexibility: Experience natural movement without the bulk, perfect for any sport. Easy Maintenance: Quick cleaning with a simple wipe or machine wash. Ideal for All Activities: From gym sessions to outdoor adventures, these shoes fit every lifestyle. 📏 Specifications Material: Mesh upper with cushioned insole Closure: Lace-up Weight: Lightweight Sizes Available: US 6 - 12 🌟 Customer Reviews “These shoes changed the game for my workouts! They’re incredibly comfortable and stylish.” - Emily R. “Perfect for my daily runs. I love how breathable they are!” - John D. 🛒 Order Yours Today! Don’t miss out on the ultimate combination of style, comfort, and performance. Click the ‘Add to Cart’ button now and elevate your footwear experience! - Nico`s Store
-  Updated: 2025-11-17T12:22:50Z
+  Updated: 2025-11-19T21:27:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10610,7 +10638,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7d9040745070458ead2f5a03dd9cc528-Max-Origin.webp?v=1763382124
     Price: €29.74 EUR
 - [Button-Front Drawstring Hoodie - Nico`s Store](https://nicosstore.store/products/button-front-drawstring-hoodie): Elevate Your Wardrobe with Our Button-Front Drawstring Hoodie Step into comfort and style with our Button-Front Drawstring Hoodie, designed for those who value both fashion and functionality. This unique piece effortlessly blends a classic silhouette with modern flair, making it your go-to choice for any occasion—whether you're out with friends, working from home, or enjoying a cozy night in. ✨ Key Features: Chic Button-Front Design: A sophisticated twist that stands out from standard hoodies. Soft, Quality Fabric: Experience unparalleled comfort that lasts all day. Adjustable Drawstring: Customize your fit for ultimate snugness or relaxed style. Versatile Styling: Dress it up with jeans, or layer it over a dress for a trendy look. Durable & Easy Care: Designed for everyday wear, maintain style with hassle-free washing. 📏 Specifications: Material: Soft Cotton Blend Available Colors: Black, Gray, Navy, Burgundy Sizes: S, M, L, XL 🌟 Customer Reviews: “I adore my hoodie! It’s incredibly soft and the button detail really elevates the look!” - Sarah J. “Best hoodie I've ever owned! I wear it everywhere and get compliments non-stop!” - Mark T. 🛒 Ready to Upgrade Your Style? Don’t miss the chance to add this versatile and stylish hoodie to your collection! Click below to shop now and embrace the perfect blend of comfort and chic! Shop Now! - Nico`s Store
-  Updated: 2025-11-17T15:53:30Z
+  Updated: 2025-11-19T21:27:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10716,7 +10744,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bea6c4bbc5cf4b459aa7c87c4182f327-Max-Origin.webp?v=1763382220
     Price: €33.11 EUR
 - [Printed Long Sleeve Blouse - Nico`s Store](https://nicosstore.store/products/printed-long-sleeve-blouse): ✨ Elevate Your Style with Our Printed Long Sleeve Blouse! ✨ Discover the perfect blend of elegance and comfort with our Printed Long Sleeve Blouse. Designed for the modern woman, this blouse is not just a piece of clothing; it's a statement. Whether you’re heading to the office, a brunch with friends, or a night out, this versatile blouse elevates any outfit, making you feel confident and chic. With its delightful frill details and buttoned front, this blouse embraces your unique style while ensuring all-day comfort. 🌟 Key Features: Stylish frill accents for a feminine touch Classic buttoned design for a polished look Crafted from 95% polyester and 5% spandex for durability Easy care: machine wash cold and tumble dry low Imported for exceptional quality 📏 Specifications: Size Top Length (inches) Bust (inches) Sleeve Length (inches) S 24.4 39.4 0 M 24.8 40.9 0 L 25.2 43.3 0 XL 25.6 45.7 0 2XL 26 48 0 🗣️ Customer Reviews: "This blouse has quickly become my favorite! It's perfect for any occasion and the quality is outstanding!" - Jane D. "I love how it fits and feels! It adds a touch of elegance to my wardrobe." - Sarah K. 🛍️ Don't Miss Out! Transform your wardrobe with the Printed Long Sleeve Blouse today! Click 'Add to Cart' and embrace effortless style that speaks volumes. - Nico`s Store
-  Updated: 2025-11-18T19:31:05Z
+  Updated: 2025-11-19T21:27:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10762,7 +10790,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3c83e03ad6d44072a7434b517355278d-Max-Origin.webp?v=1763382214
     Price: €32.07 EUR
 - [Merry Christmas Tee - Short Sleeve Graphic Tee for Festive Cheer in Style - Nico`s Store](https://nicosstore.store/products/merry-christmas-tee): Merry Christmas Tee - Short Sleeve Graphic Tee for Festive Cheer in StyleGet ready to spread the holiday spirit with our Merry Christmas tee! This short sleeve graphic tee is designed not just to bring festive cheer but also to ensure you're the most stylish person at any holiday gathering. Comfortable, vibrant, and perfect for both understated and loud celebrations, this tee is an essential piece for your Christmas wardrobe. Made from premium, soft cotton fabric, our Merry Christmas tee provides all-day comfort, making it suitable for everything from festive parties to a cozy evening at home. The eye-catching design captures the essence of the holiday season, making it a wonderful addition to your winter style. Stand out in a crowd and embrace the joy of Christmas with this uniquely designed shirt! Why Choose Our Merry Christmas Tee? This Merry Christmas tee is more than just a piece of clothing; it’s a celebration of joy, community, and love. Here are some key benefits and features: High-Quality Fabric: Made with 100% breathable cotton, ensuring maximum comfort all day long. Unique Design: Features intricate and festive graphic prints that resonate with the Christmas spirit. Versatile Style: Suitable for casual gatherings, holiday parties, or as loungewear during the winter months. Perfect Gift: An excellent gift choice for friends and family who love to celebrate Christmas in style. Celebrate in Style It's the most wonderful time of the year, and what better way to celebrate than in our Merry Christmas tee? Whether you're attending a holiday office party, getting together with family, or just hanging out with friends, this stunning graphic tee allows you to showcase your love for the festive season without compromising comfort. Available in a variety of sizes, our Merry Christmas tee is designed to fit all body types. The relaxed fit ensures ease of movement, whether you're dancing around the Christmas tree or relaxing on the couch with some cocoa. Pair it with your favorite jeans, leggings, or a cozy cardigan for the ultimate holiday look. Perfect for Every Occasion This tee isn’t just a holiday outfit; it’s a versatile piece that can transition from holiday festivities to everyday wear. The timeless message radiates positivity and joy, perfect for making memories with loved ones. This makes it a fantastic addition to your seasonal wardrobe! Love to travel? Our Merry Christmas tee is an ideal companion for winter vacations or holiday getaways. Take a piece of the Christmas spirit wherever you go! Care Instructions To keep your Merry Christmas tee looking its best, we recommend washing it inside out in cold water and tumble drying on low heat. With proper care, your festive tee will remain vibrant and comfortable wear after wear. Customer Satisfaction Guaranteed We believe in the quality of our products. Your satisfaction is our top priority! If you're not completely satisfied with your Merry Christmas tee, please reach out to us. We are here to help! Join the Festive Spirit Today! Get your own Merry Christmas tee today and elevate your holiday spirit in style! Don’t wait — stock is limited, and you won’t want to miss out on this festive must-have. Click the “Add to Cart” button now and be ready to show off your Christmas cheer this season! - Nico`s Store
-  Updated: 2025-11-18T12:20:37Z
+  Updated: 2025-11-20T18:24:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10776,7 +10804,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c92f7a2c45bc48a1bd1f7d0c167393de-Max-Origin.webp?v=1763382347
     Price: €28.99 EUR
   - [Scarlet / L](https://nicosstore.store/products/merry-christmas-tee?variant=56247721951557)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c92f7a2c45bc48a1bd1f7d0c167393de-Max-Origin.webp?v=1763382347
     Price: €28.99 EUR
   - [Scarlet / XL](https://nicosstore.store/products/merry-christmas-tee?variant=56247721984325)
@@ -10788,7 +10816,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c92f7a2c45bc48a1bd1f7d0c167393de-Max-Origin.webp?v=1763382347
     Price: €28.99 EUR
 - [Floral Midi Dress with Textured Square Neck Design - Nico`s Store](https://nicosstore.store/products/floral-midi-dress): 🌸 Floral Textured Square Neck Midi Dress Elevate your wardrobe with our Floral Textured Square Neck Midi Dress, a captivating blend of style and comfort. Perfect for day-to-night transitions, this dress is designed for the modern woman who values both sophistication and ease. With its beautiful floral texture and flattering silhouette, it's not just a dress; it's a statement that embodies confidence and grace. ✨ Key Features: **Elegant Design:** The square neck adds a touch of sophistication, while the floral texture brings a refreshing charm. **Comfort Fit:** Crafted from 100% premium polyester, this dress is lightweight and breathable. **Versatile Style:** Perfect for any occasion - from brunch with friends to evening events. **Easy Care:** Simply machine wash cold and tumble dry low for effortless maintenance. **Customer Favorite:** Top-rated by users for its flattering fit and timeless appeal. 📏 Specifications: Size Length (in) Waist (in) Hip (in) Bust (in) S 46.9 29.1 39.4 35 M 47.6 30.7 40.9 36.6 L 48.4 33.1 43.3 39 XL 49.2 35.4 45.7 41.3 📝 Customer Reviews: "This dress fits like a dream! I received so many compliments at the wedding!" - Sarah J. "The floral texture is stunning and perfect for summer!" - Emily R. 🛒 Ready to Turn Heads? Don't miss out on adding this wardrobe essential to your collection. Click 'Add to Cart' now and embrace the elegance of the Floral Textured Square Neck Midi Dress! - Nico`s Store
-  Updated: 2025-11-17T12:26:17Z
+  Updated: 2025-11-19T21:27:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10810,7 +10838,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/99ef84eb-08f3-4142-9a5f-5ed61c7fabc5-Max-Origin.webp?v=1763382369
     Price: €38.99 EUR
 - [High Waist Wide Leg Jeans - Nico`s Store](https://nicosstore.store/products/high-waist-wide-leg-jeans): High Waist Wide Leg Jeans: Elevate Your Everyday Style! Step into a world of comfort and confidence with our High Waist Wide Leg Jeans. Designed for the modern woman, these jeans seamlessly blend timeless style with ultimate comfort. Whether you're heading to brunch or running errands, these jeans are your perfect companion. Crafted with a unique blend of cotton and polyester, they offer a flattering silhouette that enhances your natural curves and provides a chic look for any occasion. ✨ Key Features Buttoned Design: Simple yet sophisticated closure for a polished look. No Stretch: Structured fit that maintains its shape throughout the day. Premium Material: 85% cotton, 15% polyester for breathability and durability. Easy Care: Machine washable in cold water; tumble dry low for convenience. Imported Quality: Sourced for exceptional craftsmanship. 📏 Specifications Size Bottom Length Waist Hip Inseam S 40.6 29.1 41.3 0 M 40.8 31.1 43.3 0 L 41.1 33.5 45.7 0 XL 41.4 36.2 48.4 0 ⭐ Customer Reviews "These jeans are a game-changer! They fit perfectly and make me feel so confident!" - Sarah K. "I love the wide-leg style; it's so trendy and comfortable!" - Emma L. 🛒 Ready to Transform Your Wardrobe? Don’t miss out on the chance to redefine your style! Grab your High Waist Wide Leg Jeans today and experience the perfect blend of comfort and fashion! - Nico`s Store
-  Updated: 2025-11-17T12:26:28Z
+  Updated: 2025-11-19T21:27:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10832,7 +10860,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/05640044-99ac-4f8f-91c3-8e973de3a858-Max-Origin.webp?v=1763382375
     Price: €34.99 EUR
 - [High Waist Straight Leg Jeans - Nico`s Store](https://nicosstore.store/products/high-waist-straight-leg-jeans): Elevate Your Style with Our High Waist Straight Leg Jeans! Transform your wardrobe with these must-have high waist straight leg jeans, where comfort meets contemporary elegance. Designed for every body type, these jeans offer a flattering silhouette that effortlessly transitions from office chic to weekend casual. Experience the perfect fit that enhances your natural curves while ensuring all-day comfort. ✨ Key Features: Comfortable Fit: Crafted from soft stretch fabric that moves with you. Flattering Design: The high waist cinches elegantly at the waist, enhancing your silhouette. Versatile Styling: Pair with anything from classic tees to trendy blouses. Durable Quality: Made from premium materials, designed to last. 📏 Specifications: Sizes: XS, S, M, L, XL Colors: Classic Denim Blue, Black, Light Wash 🌟 What Our Customers Say: "These jeans fit like a glove! They are my go-to for both work and play!" - Sarah M. "Finally, jeans that are both stylish and comfortable!" - Emily R. 🛒 Get Yours Today! Don’t miss the chance to revolutionize your wardrobe! Our high waist straight leg jeans are not just a purchase; they’re an investment in your style and confidence. Shop now and embrace a new level of fashion that celebrates you! - Nico`s Store
-  Updated: 2025-11-17T12:26:33Z
+  Updated: 2025-11-19T21:27:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10854,7 +10882,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4021efc6-c4aa-4cfc-aae4-ebf17a00924d-Max-Origin.webp?v=1763382392
     Price: €36.95 EUR
 - [Paisley Balloon Sleeve Blouse with Notched Design - Nico`s Store](https://nicosstore.store/products/paisley-balloon-sleeve-blouse): Paisley Notched Balloon Sleeve Blouse Elevate your everyday wardrobe with the Paisley Notched Balloon Sleeve Blouse, a customer favorite that blends comfort with style effortlessly. Made from 100% premium cotton, this blouse offers a breathable and soft touch, making it perfect for all-day wear. The unique notched neckline and balloon sleeves add a playful yet sophisticated flair to any outfit, whether you're heading to the office or enjoying a weekend brunch. 🌟 Key Features: **Timeless Design**: A basic style that never goes out of fashion. **Comfortable Fit**: Features a notched neckline for an elegant touch. **Quality Material**: Crafted from 100% cotton for a soft, breathable experience. **Easy Care**: Machine washable for effortless maintenance. **Imported Quality**: Designed with care and attention to detail. 📏 Specifications: Size Top Length (inches) Bust (inches) Sleeve Length (inches) S 24.4 40.2 26.6 M 24.8 41.7 27 L 25.2 44.1 31.3 XL 25.6 46.5 27.8 2XL 26 49.6 28.1 🗣️ Customer Reviews: “This blouse is my go-to for every occasion! It’s so comfortable and stylish.” - Emily R. “The balloon sleeves are a game-changer! I always get compliments.” - Sarah L. 🛒 Ready to Shine? Don’t miss out on adding this versatile and chic blouse to your collection. Order the Paisley Notched Balloon Sleeve Blouse today and experience the perfect blend of style and comfort! - Nico`s Store
-  Updated: 2025-11-17T12:35:13Z
+  Updated: 2025-11-19T21:27:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10940,7 +10968,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b86ce24f-1d83-49a5-8219-1cb1207e6a9c-Max-Origin.webp?v=1763382896
     Price: €29.99 EUR
 - [Smocked Balloon Sleeve Midi Dress with Round Neck Design - Nico`s Store](https://nicosstore.store/products/smocked-balloon-sleeve-midi-dress): 🌟 Smocked Round Neck Balloon Sleeve Midi Dress Elevate your wardrobe with our stunning Smocked Round Neck Balloon Sleeve Midi Dress! Perfect for any occasion, this dress combines elegance and comfort, making it a top choice for fashion-forward individuals. Its unique smocked design provides a flattering fit, while the charming balloon sleeves add a touch of whimsy. Whether you're attending a brunch, a garden party, or a casual day out, this dress is your go-to piece that promises to turn heads. ✨ Key Features: **Stylish Smocked Design:** Accentuates your silhouette and adds texture. **Chic Balloon Sleeves:** Create a fashionable, airy look. **Midi Length:** Perfectly balances elegance and comfort. **100% Polyester:** Durable and easy to care for. **Machine Washable:** Hassle-free cleaning for your busy lifestyle. 📏 Specifications: Size Length (inches) Bust (inches) Waist (inches) Hip (inches) S 46.5 37.8 0 0 M 47 39.4 0 0 L 47.6 41.7 0 0 XL 48.2 44.1 0 0 2XL 48.8 46.5 0 0 🛍️ Customer Reviews: "This dress is a game changer! The fit is perfect, and I get compliments every time I wear it!" - Sarah W. 💖 Don’t Miss Out! Add the Smocked Round Neck Balloon Sleeve Midi Dress to your cart today and experience effortless style and comfort! - Nico`s Store
-  Updated: 2025-11-17T12:35:02Z
+  Updated: 2025-11-19T21:27:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10966,7 +10994,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7fc40e5e-b4a1-45bb-acef-41af57cf96ee-Max-Origin.webp?v=1763382885
     Price: €29.25 EUR
 - [Floral Print Midi Dress with Long Sleeves and Square Neck - Nico`s Store](https://nicosstore.store/products/floral-print-midi-dress): Floral Print Long Sleeve Square Neck Midi Dress Step into elegance with our Floral Print Long Sleeve Square Neck Midi Dress! Perfect for any occasion, this dress combines a romantic floral design with a modern silhouette, making it a must-have for every wardrobe. Whether you're attending a garden party or enjoying a casual day out, this dress offers effortless style and comfort. ✨ Features: 🌸 **Ruffled and Smocked Design**: Adds a playful touch to your look. 🌀 **Slightly Stretchy Fabric**: Ensures a comfortable fit that moves with you. 🧵 **Unlined Body**: Lightweight and breathable for all-day wear. 🌿 **Premium Material**: Made from 95% polyester and 5% spandex for durability and stretch. 🧺 **Easy Care**: Machine wash cold and tumble dry low for convenience. ✈️ **Imported Quality**: Crafted with care to meet high standards. 📏 Specifications: Size Length (inches) Waist (inches) Bust (inches) S 42.1 23.6 34.6 M 42.5 25.2 36.2 L 42.9 27.6 38.6 XL 43.3 29.9 40.9 🌟 Customer Reviews: "This dress is my new favorite! The fit is perfect, and I love the floral print!" - Emma R. "Absolutely stunning! I received so many compliments at the party!" - Sarah J. 🛒 Call to Action: Don't miss out on adding this stunning Floral Print Long Sleeve Square Neck Midi Dress to your collection! Shop now and embrace your inner style icon! - Nico`s Store
-  Updated: 2025-11-17T12:37:28Z
+  Updated: 2025-11-19T21:27:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11036,7 +11064,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d32629e4033542a9a53f46bd8afab285-Max-Origin.webp?v=1763383030
     Price: €37.73 EUR
 - [Christmas Bow Socks - Festive Knee-High Winter Fashion - Nico`s Store](https://nicosstore.store/products/christmas-bow-socks): 🎄 Christmas Bow Knee-High Socks Step into the holiday spirit with our Christmas Bow Knee-High Socks! Crafted from soft, breathable cotton, these delightful socks are perfect for cozying up by the fire or adding a festive touch to your holiday outfits. Designed for comfort and style, they are a top-rated customer favorite that will elevate your winter wardrobe. ✨ Features: Material: High-quality, soft cotton for all-day comfort Design: Adorable bow detail that brings holiday cheer Size: One Size fits most (Actual Length: 23.6 inches) Imported: Quality craftsmanship from abroad 📏 Specifications: Size Actual Length (inches) One Size 23.6 💬 Customer Reviews: "These socks are not only cute, but they're also incredibly soft! Perfect for the holidays!" - Jane D. "I bought these as a gift, and my friend loved them! They fit perfectly!" - Mark T. 🛒 Ready to Celebrate? Don't miss out on the chance to bring joy to your winter wardrobe! Order your Christmas Bow Knee-High Socks today and step into the festive season with style! - Nico`s Store
-  Updated: 2025-11-17T12:37:19Z
+  Updated: 2025-11-19T21:27:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11062,7 +11090,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f51101d3-75cc-44ec-85de-d851cd3e7132-Max-Origin.webp?v=1763383027
     Price: €27.55 EUR
 - [Polka Dot Halter Neck Mini Dress with Twisted Front Design - Nico`s Store](https://nicosstore.store/products/polka-dot-halter-neck-mini-dress): 🌟 Polka Dot Halter Neck Twisted Front Mini Dress Elevate your style with our stunning Polka Dot Halter Neck Twisted Front Mini Dress! Perfect for brunches, beach days, or evening outings, this dress embraces your figure while adding a playful flair with its charming polka dot pattern. Crafted with a slightly stretchy blend of polyester and spandex, it ensures comfort without compromising on fashion. Be prepared to turn heads and feel fabulous! ✨ Features: 💖 Ruched & Twisted Design: Adds a unique twist that flatters your silhouette. 🌈 Slightly Stretchy Material: Offers a comfortable fit that moves with you. 🎉 Not Lined: Lightweight and breathable for warm days. 📏 Specifications: Size Length (in) Waist (in) Bust (in) Hip (in) S 20.1 26 28.3 0 M 20.5 27.6 29.9 0 L 21.1 29.9 32.3 0 XL 21.7 32.3 34.6 0 🌟 Customer Reviews: "This dress is a game-changer! It hugs my curves perfectly and makes me feel confident!" - Sarah L. 🛍️ Ready to Shine? Don't miss your chance to own this top-rated favorite! Click "Add to Cart" now and step out in style! - Nico`s Store
-  Updated: 2025-11-17T12:37:37Z
+  Updated: 2025-11-19T21:27:48Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11084,7 +11112,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/43d988bf6f364140a01b5ffcf726d322-Max-Origin.webp?v=1763383056
     Price: €26.44 EUR
 - [One Shoulder Tie Waist Dress for Effortless Style and Elegance - Nico`s Store](https://nicosstore.store/products/one-shoulder-tie-waist-dress): One Shoulder Tie Waist Dress Elevate your wardrobe with the stunning One Shoulder Tie Waist Dress! Perfect for any occasion, this dress blends sophisticated style with effortless charm. Whether you're heading to a brunch date or a night out, its unique asymmetrical design and flattering belted waist will make you feel confident and chic. This customer favorite is designed to enhance your silhouette, ensuring you stand out in a crowd! ✨ Key Features: Asymmetrical Design: A modern twist that flatters every body type. Belted Waist: Accentuates your curves for a tailored look. No Stretch Fabric: 95% polyester and 5% spandex for a structured fit. Unlined Body: Lightweight, perfect for layering and versatility. Easy Care: Machine washable for effortless maintenance. 📏 Specifications: Size Length (inches) Bust (inches) Sleeve Length (inches) S 34.4 37.8 23.6 M 34.8 39.4 24 L 35.2 40.9 24.4 XL 35.6 42.5 24.8 🌟 Customer Reviews: "This dress is my go-to for every occasion! The fit is perfect and I always get compliments!" - Sarah J. "I love how it flatters my figure and the fabric feels amazing!" - Emily R. 🛍️ Don't Miss Out! Transform your style and confidence with the One Shoulder Tie Waist Dress today. Add it to your cart now and embrace the elegance! - Nico`s Store
-  Updated: 2025-11-17T12:38:48Z
+  Updated: 2025-11-19T21:27:48Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11138,7 +11166,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c41c15af-66af-43ac-abf7-6dd11c7b62eb-Max-Origin.webp?v=1763383119
     Price: €28.59 EUR
 - [Cutout Sleeveless Dress for Effortless Style and Elegance - Nico`s Store](https://nicosstore.store/products/cutout-sleeveless-dress): ✨ Cutout Printed Sleeveless Dress - Embrace Your Bold Side! ✨ Step into the spotlight with our Cutout Printed Sleeveless Dress, designed for the confident woman who loves to make a statement. This dress combines playful cutouts with a chic design, making it perfect for everything from brunch with friends to a night out on the town. Feel the fabric hug your curves as you radiate elegance and style! 🌟 Key Features: 💖 Unique Tied Cutout Design: Flaunt your figure with a daring yet sophisticated look. 🌬️ Flattering Slit: Move freely with added allure. 🧵 Quality Material: Crafted from 95% polyester and 5% spandex for a comfortable fit. 🧼 Easy Care: Machine washable for effortless maintenance. 🇺🇸 Imported: Designed with global inspiration. 📏 Specifications: Size Length (inches) Bust (inches) S 47.2 34.6 M 47.6 36.2 L 48 38.6 XL 48.4 40.9 2XL 48.8 43.3 🗣️ Customer Reviews: "This dress is my new favorite! The cutouts are so chic, and I received compliments all night!" - Sarah J. "Comfortable and stylish, perfect for any occasion!" - Emily R. 🛍️ Ready to Turn Heads? Don’t miss out on adding this stunning Cutout Printed Sleeveless Dress to your wardrobe. Click 'Add to Cart' now and express your unique style! - Nico`s Store
-  Updated: 2025-11-17T12:40:22Z
+  Updated: 2025-11-19T21:27:48Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11284,7 +11312,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e8e9f103-ac5e-4f30-b106-f43ad11f209e-Max-Origin.webp?v=1763383222
     Price: €38.55 EUR
 - [Cutout Cold-Shoulder Dress for Effortless Style and Elegance Online](https://nicosstore.store/products/cutout-cold-shoulder-dress): Elevate your wardrobe with our Cutout Cold-Shoulder Dress. Perfect for effortless style and elegance, this dress combines comfort and chic design for any occasion. Shop now!
-  Updated: 2025-11-18T20:10:29Z
+  Updated: 2025-11-20T19:10:58Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11306,7 +11334,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/20049d3b9f5545649bcf9e6899063d00-Max.jpg?v=1763494261
     Price: €25.00 EUR
 - [Reindeer Sweater for Cozy Winter Style - Perfect Round Neck Comfort](https://nicosstore.store/products/reindeer-sweater): Cozy up this winter with our Reindeer Sweater. This stylish round neck design offers warmth and festive flair, perfect for holiday gatherings and chilly days. Shop now!
-  Updated: 2025-11-18T20:11:46Z
+  Updated: 2025-11-20T19:10:59Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11352,7 +11380,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b448700e635f40a78ef299ae35e6388f-Max.jpg?v=1763494346
     Price: €35.00 EUR
 - [Full Size Christmas Dress - Long Sleeves for Festive Celebrations](https://nicosstore.store/products/full-size-christmas-dress): Shop our Full Size Christmas Dress with Long Sleeves, perfect for festive celebrations. Enjoy stylish comfort and make unforgettable memories this holiday season!
-  Updated: 2025-11-18T20:16:44Z
+  Updated: 2025-11-20T19:10:59Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11430,7 +11458,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c51a87e7bdfb407ba9fc3b8b798991d3-Max.jpg?v=1763494496
     Price: €24.00 EUR
 - [Santa T-Shirt - Round Neck Short Sleeve for Festive Style Appeal](https://nicosstore.store/products/santa-t-shirt): Celebrate the festive season in style with our Santa T-Shirt! This round neck short sleeve tee combines comfort and holiday cheer, making it a must-have for your festive wardrobe.
-  Updated: 2025-11-18T20:17:59Z
+  Updated: 2025-11-20T19:10:59Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11444,7 +11472,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8dfa501c-156b-4897-815b-edb91930939d-Max.webp?v=1763494545
     Price: €25.99 EUR
   - [Deep Red / L](https://nicosstore.store/products/santa-t-shirt?variant=56355097608517)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8dfa501c-156b-4897-815b-edb91930939d-Max.webp?v=1763494545
     Price: €25.99 EUR
   - [Deep Red / XL](https://nicosstore.store/products/santa-t-shirt?variant=56355097641285)
@@ -11456,7 +11484,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8dfa501c-156b-4897-815b-edb91930939d-Max.webp?v=1763494545
     Price: €25.99 EUR
 - [Christmas Lounge Set: Round Neck Top and Pants for Cozy Comfort](https://nicosstore.store/products/christmas-lounge-set): Shop our Christmas lounge set featuring a cozy round neck top and matching pants for ultimate comfort. Perfect for holiday relaxation and festive gatherings.
-  Updated: 2025-11-18T20:19:18Z
+  Updated: 2025-11-20T19:10:59Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11478,7 +11506,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/502f4c4b75c14ebfb3ad3f20281f3dfc-Max.webp?v=1763494602
     Price: €30.54 EUR
 - [Christmas Santa Sweatshirt - Festive Rhinestone Drop Shoulder Style](https://nicosstore.store/products/christmas-santa-sweatshirt): Elevate your festive wardrobe with our Christmas Santa Sweatshirt! This stylish drop shoulder design features sparkling rhinestones, perfect for holiday celebrations and cozy gatherings.
-  Updated: 2025-11-18T20:21:52Z
+  Updated: 2025-11-20T19:10:59Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11504,7 +11532,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a467f18b754740fbb5cd2b5b941795c0-Max-Origin.webp?v=1763494674
     Price: €38.58 EUR
 - [Children's Christmas Dress - Festive Long Sleeve Holiday Dress for Kids](https://nicosstore.store/products/childrens-christmas-dress): Dress your little one in our adorable Children's Christmas Dress. Perfect for holiday celebrations, this festive long sleeve dress combines comfort and style for memorable moments.
-  Updated: 2025-11-18T20:23:34Z
+  Updated: 2025-11-20T19:11:00Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11534,7 +11562,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7762a266-00e1-41f1-b478-71fe17bb23d4-Max-Origin.webp?v=1763494756
     Price: €25.99 EUR
 - [Christmas One Piece Dress for Kids - Festive Style with Headband](https://nicosstore.store/products/childrens-christmas-one-piece-dress-for-kids): Dress your little ones in our charming Christmas One Piece Dress for Kids, complete with a festive headband. Perfect for holiday celebrations, this outfit ensures they shine bright this season!
-  Updated: 2025-11-18T20:25:07Z
+  Updated: 2025-11-20T19:11:00Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11652,7 +11680,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/803fddee5bab4e7bb38be1602cf02a77-Max-Origin.webp?v=1763494810
     Price: €27.99 EUR
 - [Children's Christmas Pajama Set - Santa Round Neck for Kids Holiday Fun](https://nicosstore.store/products/childrens-christmas-pajama-set): Get your little ones in the festive spirit with our Children's Christmas Pajama Set. This cozy Santa round neck pajama set is perfect for holiday gatherings and cozy nights.
-  Updated: 2025-11-18T20:26:32Z
+  Updated: 2025-11-20T19:11:00Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11681,36 +11709,1768 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/14e1d82b-3eeb-4ca7-93ec-e194c714f6bf-Max-Origin.webp?v=1763494844
     Price: €26.99 EUR
+- [Merry & Bright Christmas T Shirt - Floral Design for Holiday Cheer](https://nicosstore.store/products/merry-bright-christmas-t-shirt): Elevate your holiday spirit with our Merry & Bright Christmas T Shirt featuring a stunning floral design. Perfect for festive gatherings or cozy nights. Shop now!
+  Updated: 2025-11-20T23:21:11Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b83e90ab43140daa2fc3354f702f25b-Max-Origin.webp?v=1763576040
+  - [White / S](https://nicosstore.store/products/merry-bright-christmas-t-shirt?variant=56362857791813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b83e90ab43140daa2fc3354f702f25b-Max-Origin.webp?v=1763576040
+    Price: €25.25 EUR
+  - [White / M](https://nicosstore.store/products/merry-bright-christmas-t-shirt?variant=56362857824581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b83e90ab43140daa2fc3354f702f25b-Max-Origin.webp?v=1763576040
+    Price: €25.25 EUR
+  - [White / L](https://nicosstore.store/products/merry-bright-christmas-t-shirt?variant=56362857857349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b83e90ab43140daa2fc3354f702f25b-Max-Origin.webp?v=1763576040
+    Price: €25.25 EUR
+  - [White / XL](https://nicosstore.store/products/merry-bright-christmas-t-shirt?variant=56362857890117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b83e90ab43140daa2fc3354f702f25b-Max-Origin.webp?v=1763576040
+    Price: €25.25 EUR
+  - [White / 2XL](https://nicosstore.store/products/merry-bright-christmas-t-shirt?variant=56362857922885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b83e90ab43140daa2fc3354f702f25b-Max-Origin.webp?v=1763576040
+    Price: €25.25 EUR
+- [Polka Dot Crossbody Bag - Stylish Cylinder Design for Daily Use](https://nicosstore.store/products/polka-dot-crossbody-bag): Shop our Polka Dot Crossbody Bag featuring a stylish cylinder design perfect for everyday use. Elevate your fashion with this chic and practical accessory today!
+  Updated: 2025-11-20T19:11:01Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/736e1427016c4c3e897eba155db42237-Max-Origin.webp?v=1763576077
+  Price: €23.90 EUR
+- [Christmas Reindeer Dress for Kids - Polka Dot Long Sleeve Design](https://nicosstore.store/products/christmas-reindeer-dress-for-kids): Meta Description: Dress your little ones in our adorable Christmas Reindeer Dress for Kids! Featuring playful polka dots and long sleeves, it's perfect for holiday celebrations and photos.
+  Updated: 2025-11-20T19:11:01Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/80ff241315c24306bcaacf9aac3107c2-Max-Origin.webp?v=1763576100
+  - [Red / 2T](https://nicosstore.store/products/christmas-reindeer-dress-for-kids?variant=56362862379333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/80ff241315c24306bcaacf9aac3107c2-Max-Origin.webp?v=1763576100
+    Price: €24.23 EUR
+  - [Red / 3T](https://nicosstore.store/products/christmas-reindeer-dress-for-kids?variant=56362862412101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/80ff241315c24306bcaacf9aac3107c2-Max-Origin.webp?v=1763576100
+    Price: €24.23 EUR
+  - [Red / 4T](https://nicosstore.store/products/christmas-reindeer-dress-for-kids?variant=56362862444869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/80ff241315c24306bcaacf9aac3107c2-Max-Origin.webp?v=1763576100
+    Price: €24.23 EUR
+  - [Red / 5T](https://nicosstore.store/products/christmas-reindeer-dress-for-kids?variant=56362862477637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/80ff241315c24306bcaacf9aac3107c2-Max-Origin.webp?v=1763576100
+    Price: €24.23 EUR
+  - [Red / 6T](https://nicosstore.store/products/christmas-reindeer-dress-for-kids?variant=56362862510405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/80ff241315c24306bcaacf9aac3107c2-Max-Origin.webp?v=1763576100
+    Price: €24.23 EUR
+  - [Red / 7T](https://nicosstore.store/products/christmas-reindeer-dress-for-kids?variant=56362862543173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/80ff241315c24306bcaacf9aac3107c2-Max-Origin.webp?v=1763576100
+    Price: €24.23 EUR
+- [Christmas Unicorn Dress for Kids - Long Sleeve Holiday Gift for Girls](https://nicosstore.store/products/christmas-unicorn-dress-for-kids): Meta description: Delight your child this holiday season with our Christmas unicorn dress for kids! Long sleeves and magical designs make it the perfect festive gift for any little unicorn lover.
+  Updated: 2025-11-20T19:11:01Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4870e3f493e24becb585145e45ddda91-Max-Origin.webp?v=1763576119
+  - [Red / 2T](https://nicosstore.store/products/christmas-unicorn-dress-for-kids?variant=56362866442565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4870e3f493e24becb585145e45ddda91-Max-Origin.webp?v=1763576119
+    Price: €23.66 EUR
+  - [Red / 3T](https://nicosstore.store/products/christmas-unicorn-dress-for-kids?variant=56362866475333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4870e3f493e24becb585145e45ddda91-Max-Origin.webp?v=1763576119
+    Price: €23.66 EUR
+  - [Red / 4T](https://nicosstore.store/products/christmas-unicorn-dress-for-kids?variant=56362866508101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4870e3f493e24becb585145e45ddda91-Max-Origin.webp?v=1763576119
+    Price: €23.66 EUR
+  - [Red / 5T](https://nicosstore.store/products/christmas-unicorn-dress-for-kids?variant=56362866540869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4870e3f493e24becb585145e45ddda91-Max-Origin.webp?v=1763576119
+    Price: €23.66 EUR
+  - [Red / 6T](https://nicosstore.store/products/christmas-unicorn-dress-for-kids?variant=56362866573637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4870e3f493e24becb585145e45ddda91-Max-Origin.webp?v=1763576119
+    Price: €23.66 EUR
+  - [Red / 7T](https://nicosstore.store/products/christmas-unicorn-dress-for-kids?variant=56362866606405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4870e3f493e24becb585145e45ddda91-Max-Origin.webp?v=1763576119
+    Price: €23.66 EUR
+- [Men's Plus Size Hoodie - Casual Long Sleeve Slim Fit for Style & Comfort](https://nicosstore.store/products/mens-plus-size-hoodie): Elevate your wardrobe with our Men's Plus Size Hoodie. Designed for style and comfort, this casual slim fit long sleeve hoodie is perfect for any occasion. Order now!
+  Updated: 2025-11-20T19:11:01Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4b15df2c3a3d4d3593d766a9fbf8503e-Max-Origin.webp?v=1763576153
+  - [White / M](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872242501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/50386b0bd08d4d30abf98d54b33d0b8c-Max-Origin.webp?v=1763576153
+    Price: €25.49 EUR
+  - [White / L](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872275269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/50386b0bd08d4d30abf98d54b33d0b8c-Max-Origin.webp?v=1763576153
+    Price: €25.49 EUR
+  - [White / XL](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872308037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/50386b0bd08d4d30abf98d54b33d0b8c-Max-Origin.webp?v=1763576153
+    Price: €25.49 EUR
+  - [White / 2XL](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872340805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/50386b0bd08d4d30abf98d54b33d0b8c-Max-Origin.webp?v=1763576153
+    Price: €25.49 EUR
+  - [White / 3XL](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872373573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/50386b0bd08d4d30abf98d54b33d0b8c-Max-Origin.webp?v=1763576153
+    Price: €25.49 EUR
+  - [Khaki / M](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872406341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/85c89ae4fef948dd99bfcc401116493b-Max-Origin.webp?v=1763576153
+    Price: €25.49 EUR
+  - [Khaki / L](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872439109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/85c89ae4fef948dd99bfcc401116493b-Max-Origin.webp?v=1763576153
+    Price: €25.49 EUR
+  - [Khaki / XL](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872471877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/85c89ae4fef948dd99bfcc401116493b-Max-Origin.webp?v=1763576153
+    Price: €25.49 EUR
+  - [Khaki / 2XL](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872504645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/85c89ae4fef948dd99bfcc401116493b-Max-Origin.webp?v=1763576153
+    Price: €25.49 EUR
+  - [Khaki / 3XL](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872537413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/85c89ae4fef948dd99bfcc401116493b-Max-Origin.webp?v=1763576153
+    Price: €25.49 EUR
+  - [Gray / M](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872570181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/511d4bc33e5b41208a13125e2d54ff1e-Max-Origin.webp?v=1763576153
+    Price: €25.49 EUR
+  - [Gray / L](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872602949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/511d4bc33e5b41208a13125e2d54ff1e-Max-Origin.webp?v=1763576153
+    Price: €25.49 EUR
+  - [Gray / XL](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872635717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/511d4bc33e5b41208a13125e2d54ff1e-Max-Origin.webp?v=1763576153
+    Price: €25.49 EUR
+  - [Gray / 2XL](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872668485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/511d4bc33e5b41208a13125e2d54ff1e-Max-Origin.webp?v=1763576153
+    Price: €25.49 EUR
+  - [Gray / 3XL](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872701253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/511d4bc33e5b41208a13125e2d54ff1e-Max-Origin.webp?v=1763576153
+    Price: €25.49 EUR
+  - [Black / M](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872734021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/df549a5f26a84037ba9ee0a49edfa4eb-Max-Origin.webp?v=1763576157
+    Price: €25.49 EUR
+  - [Black / L](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872766789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/df549a5f26a84037ba9ee0a49edfa4eb-Max-Origin.webp?v=1763576157
+    Price: €25.49 EUR
+  - [Black / XL](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872799557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/df549a5f26a84037ba9ee0a49edfa4eb-Max-Origin.webp?v=1763576157
+    Price: €25.49 EUR
+  - [Black / 2XL](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872832325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/df549a5f26a84037ba9ee0a49edfa4eb-Max-Origin.webp?v=1763576157
+    Price: €25.49 EUR
+  - [Black / 3XL](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872865093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/df549a5f26a84037ba9ee0a49edfa4eb-Max-Origin.webp?v=1763576157
+    Price: €25.49 EUR
+  - [Army Green / M](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872897861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1e68293b8b0c48a095fa6b2b8e7d477d-Max-Origin.webp?v=1763576157
+    Price: €25.49 EUR
+  - [Army Green / L](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872930629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1e68293b8b0c48a095fa6b2b8e7d477d-Max-Origin.webp?v=1763576157
+    Price: €25.49 EUR
+  - [Army Green / XL](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872963397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1e68293b8b0c48a095fa6b2b8e7d477d-Max-Origin.webp?v=1763576157
+    Price: €25.49 EUR
+  - [Army Green / 2XL](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362872996165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1e68293b8b0c48a095fa6b2b8e7d477d-Max-Origin.webp?v=1763576157
+    Price: €25.49 EUR
+  - [Army Green / 3XL](https://nicosstore.store/products/mens-plus-size-hoodie?variant=56362873028933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1e68293b8b0c48a095fa6b2b8e7d477d-Max-Origin.webp?v=1763576157
+    Price: €25.49 EUR
+- [Men's Plus Size Sherpa Hoodie - Zip Up for Comfort and Style](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie): Stay cozy and stylish with our Men's Plus Size Sherpa Hoodie. This zip-up hoodie offers ultimate comfort and warmth, perfect for any occasion. Experience the perfect fit today!
+  Updated: 2025-11-20T19:11:02Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4e73aa31-8b7d-4abd-acbe-f737d2498dcd-Max-Origin.webp?v=1763576188
+  - [Gray / M](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362873520453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4e73aa31-8b7d-4abd-acbe-f737d2498dcd-Max-Origin.webp?v=1763576188
+    Price: €24.99 EUR
+  - [Gray / L](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362873553221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4e73aa31-8b7d-4abd-acbe-f737d2498dcd-Max-Origin.webp?v=1763576188
+    Price: €24.99 EUR
+  - [Gray / XL](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362873585989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4e73aa31-8b7d-4abd-acbe-f737d2498dcd-Max-Origin.webp?v=1763576188
+    Price: €24.99 EUR
+  - [Gray / 2XL](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362873618757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4e73aa31-8b7d-4abd-acbe-f737d2498dcd-Max-Origin.webp?v=1763576188
+    Price: €24.99 EUR
+  - [Gray / 3XL](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362873651525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4e73aa31-8b7d-4abd-acbe-f737d2498dcd-Max-Origin.webp?v=1763576188
+    Price: €24.99 EUR
+  - [Gray / 4XL](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362873684293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4e73aa31-8b7d-4abd-acbe-f737d2498dcd-Max-Origin.webp?v=1763576188
+    Price: €24.99 EUR
+  - [Gray / 5XL](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362873717061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4e73aa31-8b7d-4abd-acbe-f737d2498dcd-Max-Origin.webp?v=1763576188
+    Price: €24.99 EUR
+  - [Black / M](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362873749829)
+    Availability: Available
+    Price: €24.99 EUR
+  - [Black / L](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362873782597)
+    Availability: Available
+    Price: €24.99 EUR
+  - [Black / XL](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362873815365)
+    Availability: Available
+    Price: €24.99 EUR
+  - [Black / 2XL](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362873848133)
+    Availability: Available
+    Price: €24.99 EUR
+  - [Black / 3XL](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362873880901)
+    Availability: Available
+    Price: €24.99 EUR
+  - [Black / 4XL](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362873913669)
+    Availability: Available
+    Price: €24.99 EUR
+  - [Black / 5XL](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362873946437)
+    Availability: Available
+    Price: €24.99 EUR
+  - [Burgundy / M](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362873979205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31a8e0355e024c9a8a5397f9c0e2d640-Max-Origin.webp?v=1763576187
+    Price: €24.99 EUR
+  - [Burgundy / L](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362874011973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31a8e0355e024c9a8a5397f9c0e2d640-Max-Origin.webp?v=1763576187
+    Price: €24.99 EUR
+  - [Burgundy / XL](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362874044741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31a8e0355e024c9a8a5397f9c0e2d640-Max-Origin.webp?v=1763576187
+    Price: €24.99 EUR
+  - [Burgundy / 2XL](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362874077509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31a8e0355e024c9a8a5397f9c0e2d640-Max-Origin.webp?v=1763576187
+    Price: €24.99 EUR
+  - [Burgundy / 3XL](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362874110277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31a8e0355e024c9a8a5397f9c0e2d640-Max-Origin.webp?v=1763576187
+    Price: €24.99 EUR
+  - [Burgundy / 4XL](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362874143045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31a8e0355e024c9a8a5397f9c0e2d640-Max-Origin.webp?v=1763576187
+    Price: €24.99 EUR
+  - [Burgundy / 5XL](https://nicosstore.store/products/mens-plus-size-sherpa-hoodie?variant=56362874175813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31a8e0355e024c9a8a5397f9c0e2d640-Max-Origin.webp?v=1763576187
+    Price: €24.99 EUR
+- [Solid Color Crossbody Bag - Stylish, Versatile, and Functional Accessory](https://nicosstore.store/products/solid-color-crossbody-bag): Discover our stylish Solid Color Crossbody Bag, perfect for any occasion. Compact yet spacious, it combines fashion and functionality, making it your go-to accessory. Shop now!
+  Updated: 2025-11-20T19:11:02Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/65baddb8-67b6-42d4-bc07-5074dbfde43d-Max-Origin.webp?v=1763576220
+  Price: €18.17 EUR
+- [PU Leather Backpack Bag - Stylish Flap Closure for Everyday Use](https://nicosstore.store/products/pu-leather-backpack-bag): Discover our PU Leather Backpack Bag with Flap Closure, perfect for stylish everyday use. Elevate your look and function with this sleek, durable accessory. Shop now!
+  Updated: 2025-11-20T19:11:02Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9b009896-a618-4848-a2b7-7bf1800453a8-Max-Origin.webp?v=1763576248
+  Price: €20.00 EUR
+- [Mini Crossbody Bag - Stylish and Versatile Handbag for Every Occasion](https://nicosstore.store/products/mini-crossbody-bag): Elevate your style with our Mini Crossbody Bag with Top Handle. This stylish and versatile handbag is perfect for any occasion, offering convenience and chic design in one.
+  Updated: 2025-11-20T19:11:02Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ce61a2122f7b41c8a7ac7a29e6873378-Max-Origin.webp?v=1763576330
+  Price: €20.00 EUR
+- [Merry & Bright Christmas T Shirt - Floral Design for Holiday Cheer](https://nicosstore.store/products/childrens-christmas-santa-striped-pajama-set): Elevate your holiday spirit with our Merry & Bright Christmas T Shirt featuring a stunning floral design. Perfect for festive gatherings or cozy nights. Shop now!
+  Updated: 2025-11-20T21:04:46Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/22d8f582-a6bb-4d4a-8af7-14310cd79e74-Max-Origin.webp?v=1763576372
+  - [Deep Red / 6-12M](https://nicosstore.store/products/childrens-christmas-santa-striped-pajama-set?variant=56362888757573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/22d8f582-a6bb-4d4a-8af7-14310cd79e74-Max-Origin.webp?v=1763576372
+    Price: €23.21 EUR
+  - [Deep Red / 12-18M](https://nicosstore.store/products/childrens-christmas-santa-striped-pajama-set?variant=56362888790341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/22d8f582-a6bb-4d4a-8af7-14310cd79e74-Max-Origin.webp?v=1763576372
+    Price: €23.21 EUR
+  - [Deep Red / 18-24M](https://nicosstore.store/products/childrens-christmas-santa-striped-pajama-set?variant=56362888823109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/22d8f582-a6bb-4d4a-8af7-14310cd79e74-Max-Origin.webp?v=1763576372
+    Price: €23.21 EUR
+  - [Deep Red / 2-3](https://nicosstore.store/products/childrens-christmas-santa-striped-pajama-set?variant=56362888855877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/22d8f582-a6bb-4d4a-8af7-14310cd79e74-Max-Origin.webp?v=1763576372
+    Price: €23.21 EUR
+  - [Deep Red / 3-4](https://nicosstore.store/products/childrens-christmas-santa-striped-pajama-set?variant=56362888888645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/22d8f582-a6bb-4d4a-8af7-14310cd79e74-Max-Origin.webp?v=1763576372
+    Price: €23.21 EUR
+- [Printed Tie Neck Dress: Short Sleeve Design for Effortless Elegance](https://nicosstore.store/products/printed-tie-neck-dress): Elevate your style with our Printed Tie Neck Dress. This effortless short sleeve design combines comfort and elegance, perfect for any occasion. Shop now for a look that turns heads!
+  Updated: 2025-11-20T19:11:03Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7cf5c36d-ab59-49b8-b18c-9677a03c73a2-Max.webp?v=1763576426
+  - [Pink / S](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915266885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7cf5c36d-ab59-49b8-b18c-9677a03c73a2-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Pink / M](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915299653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7cf5c36d-ab59-49b8-b18c-9677a03c73a2-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Pink / L](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915332421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7cf5c36d-ab59-49b8-b18c-9677a03c73a2-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Pink / XL](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915365189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7cf5c36d-ab59-49b8-b18c-9677a03c73a2-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Pink / 2XL](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915397957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7cf5c36d-ab59-49b8-b18c-9677a03c73a2-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Sherbet / S](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915430725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/46f9fb53-a108-4e54-bbd1-6438dc332c66-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Sherbet / M](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915463493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/46f9fb53-a108-4e54-bbd1-6438dc332c66-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Sherbet / L](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915496261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/46f9fb53-a108-4e54-bbd1-6438dc332c66-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Sherbet / XL](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915529029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/46f9fb53-a108-4e54-bbd1-6438dc332c66-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Sherbet / 2XL](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915561797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/46f9fb53-a108-4e54-bbd1-6438dc332c66-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Beige / S](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915594565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5739407a-1284-4bc7-bebc-490f6a12a4ac-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Beige / M](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915627333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5739407a-1284-4bc7-bebc-490f6a12a4ac-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Beige / L](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915660101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5739407a-1284-4bc7-bebc-490f6a12a4ac-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Beige / XL](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915692869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5739407a-1284-4bc7-bebc-490f6a12a4ac-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Beige / 2XL](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915725637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5739407a-1284-4bc7-bebc-490f6a12a4ac-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Blue / S](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915758405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b42f6366-4c15-4115-97a3-ae784d576655-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Blue / M](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915791173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b42f6366-4c15-4115-97a3-ae784d576655-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Blue / L](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915823941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b42f6366-4c15-4115-97a3-ae784d576655-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Blue / XL](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915856709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b42f6366-4c15-4115-97a3-ae784d576655-Max.webp?v=1763576426
+    Price: €20.07 EUR
+  - [Blue / 2XL](https://nicosstore.store/products/printed-tie-neck-dress?variant=56362915889477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b42f6366-4c15-4115-97a3-ae784d576655-Max.webp?v=1763576426
+    Price: €20.07 EUR
+- [Floral Long Sleeve Top with Mock Neck for Effortless Style and Comfort](https://nicosstore.store/products/floral-long-sleeve-top): Elevate your wardrobe with our Floral Long Sleeve Top featuring a stylish mock neck. Perfect for effortless style, this top combines comfort and elegance for any occasion.
+  Updated: 2025-11-20T19:11:03Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fe064bc7-9fec-413b-af9f-e168cd125ae8-Max.webp?v=1763576457
+  - [Floral / S](https://nicosstore.store/products/floral-long-sleeve-top?variant=56362929783109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fe064bc7-9fec-413b-af9f-e168cd125ae8-Max.webp?v=1763576457
+    Price: €20.00 EUR
+  - [Floral / M](https://nicosstore.store/products/floral-long-sleeve-top?variant=56362929815877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fe064bc7-9fec-413b-af9f-e168cd125ae8-Max.webp?v=1763576457
+    Price: €20.00 EUR
+  - [Floral / L](https://nicosstore.store/products/floral-long-sleeve-top?variant=56362929848645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fe064bc7-9fec-413b-af9f-e168cd125ae8-Max.webp?v=1763576457
+    Price: €20.00 EUR
+  - [Floral / XL](https://nicosstore.store/products/floral-long-sleeve-top?variant=56362929881413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fe064bc7-9fec-413b-af9f-e168cd125ae8-Max.webp?v=1763576457
+    Price: €20.00 EUR
+  - [Floral / 2XL](https://nicosstore.store/products/floral-long-sleeve-top?variant=56362929914181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fe064bc7-9fec-413b-af9f-e168cd125ae8-Max.webp?v=1763576457
+    Price: €20.00 EUR
+- [Tie-Dye Long Sleeve Dress in Round Neck Design - Full Size Fashion](https://nicosstore.store/products/tie-dye-long-sleeve-dress): Elevate your wardrobe with our Full Size Tie-Dye Long Sleeve Dress featuring a stylish round neck design. Perfect for any occasion, this tie-dye long sleeve dress blends comfort and chic effortlessly.
+  Updated: 2025-11-20T20:45:21Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8b64a0c1-4187-4b40-bd96-fdd2446f6899-Max.webp?v=1763576496
+  - [Coral / S](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931061061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8b64a0c1-4187-4b40-bd96-fdd2446f6899-Max.webp?v=1763576496
+    Price: €20.57 EUR
+  - [Coral / M](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931093829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8b64a0c1-4187-4b40-bd96-fdd2446f6899-Max.webp?v=1763576496
+    Price: €20.57 EUR
+  - [Coral / L](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931126597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8b64a0c1-4187-4b40-bd96-fdd2446f6899-Max.webp?v=1763576496
+    Price: €20.57 EUR
+  - [Coral / XL](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931159365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8b64a0c1-4187-4b40-bd96-fdd2446f6899-Max.webp?v=1763576496
+    Price: €20.57 EUR
+  - [Coral / 2XL](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931192133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8b64a0c1-4187-4b40-bd96-fdd2446f6899-Max.webp?v=1763576496
+    Price: €20.57 EUR
+  - [Coral / 3XL](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931224901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8b64a0c1-4187-4b40-bd96-fdd2446f6899-Max.webp?v=1763576496
+    Price: €20.57 EUR
+  - [Heliotrope Purple / S](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931257669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1d596c96-a000-4559-92e8-a95c95da8c68-Max.webp?v=1763576495
+    Price: €20.57 EUR
+  - [Heliotrope Purple / M](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931290437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1d596c96-a000-4559-92e8-a95c95da8c68-Max.webp?v=1763576495
+    Price: €20.57 EUR
+  - [Heliotrope Purple / L](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931323205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1d596c96-a000-4559-92e8-a95c95da8c68-Max.webp?v=1763576495
+    Price: €20.57 EUR
+  - [Heliotrope Purple / XL](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931355973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1d596c96-a000-4559-92e8-a95c95da8c68-Max.webp?v=1763576495
+    Price: €20.57 EUR
+  - [Heliotrope Purple / 2XL](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931388741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1d596c96-a000-4559-92e8-a95c95da8c68-Max.webp?v=1763576495
+    Price: €20.57 EUR
+  - [Heliotrope Purple / 3XL](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931421509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1d596c96-a000-4559-92e8-a95c95da8c68-Max.webp?v=1763576495
+    Price: €20.57 EUR
+  - [Lime / S](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931454277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4c280055-e5e0-4870-ac76-9faf1e832464-Max.webp?v=1763576495
+    Price: €20.57 EUR
+  - [Lime / M](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931487045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4c280055-e5e0-4870-ac76-9faf1e832464-Max.webp?v=1763576495
+    Price: €20.57 EUR
+  - [Lime / L](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931519813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4c280055-e5e0-4870-ac76-9faf1e832464-Max.webp?v=1763576495
+    Price: €20.57 EUR
+  - [Lime / XL](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931552581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4c280055-e5e0-4870-ac76-9faf1e832464-Max.webp?v=1763576495
+    Price: €20.57 EUR
+  - [Lime / 2XL](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931585349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4c280055-e5e0-4870-ac76-9faf1e832464-Max.webp?v=1763576495
+    Price: €20.57 EUR
+  - [Lime / 3XL](https://nicosstore.store/products/tie-dye-long-sleeve-dress?variant=56362931618117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4c280055-e5e0-4870-ac76-9faf1e832464-Max.webp?v=1763576495
+    Price: €20.57 EUR
+- [Plus Size Satin Mini Slip Dress with Lace Trim for Elegant Style](https://nicosstore.store/products/plus-size-satin-mini-slip-dress): Elevate your style with our Full Size Plus Size Satin Mini Slip Dress with Lace Trim. This stylish plus size satin mini slip dress offers comfort and elegance for any occasion.
+  Updated: 2025-11-20T19:11:04Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d95c7f43d95a4e8e9229f30c787620d2-Max-Origin.webp?v=1763576585
+  - [Black / S](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933158213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d95c7f43d95a4e8e9229f30c787620d2-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [Black / M](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933190981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d95c7f43d95a4e8e9229f30c787620d2-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [Black / L](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933223749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d95c7f43d95a4e8e9229f30c787620d2-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [Black / XL](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933256517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d95c7f43d95a4e8e9229f30c787620d2-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [Black / 2XL](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933289285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d95c7f43d95a4e8e9229f30c787620d2-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [Black / 3XL](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933322053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d95c7f43d95a4e8e9229f30c787620d2-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [Red / S](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933354821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6a6cc6354ca74410a44ff204832552db-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [Red / M](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933387589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6a6cc6354ca74410a44ff204832552db-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [Red / L](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933420357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6a6cc6354ca74410a44ff204832552db-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [Red / XL](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933453125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6a6cc6354ca74410a44ff204832552db-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [Red / 2XL](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933485893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6a6cc6354ca74410a44ff204832552db-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [Red / 3XL](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933518661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6a6cc6354ca74410a44ff204832552db-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [Blue / S](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933551429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/91107530e7f14e078bd5b7fd0e408a83-Max-Origin.webp?v=1763576584
+    Price: €14.91 EUR
+  - [Blue / M](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933584197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/91107530e7f14e078bd5b7fd0e408a83-Max-Origin.webp?v=1763576584
+    Price: €14.91 EUR
+  - [Blue / L](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933616965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/91107530e7f14e078bd5b7fd0e408a83-Max-Origin.webp?v=1763576584
+    Price: €14.91 EUR
+  - [Blue / XL](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933649733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/91107530e7f14e078bd5b7fd0e408a83-Max-Origin.webp?v=1763576584
+    Price: €14.91 EUR
+  - [Blue / 2XL](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933682501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/91107530e7f14e078bd5b7fd0e408a83-Max-Origin.webp?v=1763576584
+    Price: €14.91 EUR
+  - [Blue / 3XL](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933715269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/91107530e7f14e078bd5b7fd0e408a83-Max-Origin.webp?v=1763576584
+    Price: €14.91 EUR
+  - [White / S](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933748037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/499d0fbf7ebe46f2b7c27e03cfc5b2f1-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [White / M](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933780805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/499d0fbf7ebe46f2b7c27e03cfc5b2f1-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [White / L](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933813573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/499d0fbf7ebe46f2b7c27e03cfc5b2f1-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [White / XL](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933846341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/499d0fbf7ebe46f2b7c27e03cfc5b2f1-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [White / 2XL](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933879109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/499d0fbf7ebe46f2b7c27e03cfc5b2f1-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [White / 3XL](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933911877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/499d0fbf7ebe46f2b7c27e03cfc5b2f1-Max-Origin.webp?v=1763576585
+    Price: €14.91 EUR
+  - [Purple / S](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933944645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/506aba95c6b74a00a190fe65aa35fb28-Max-Origin.webp?v=1763576584
+    Price: €14.91 EUR
+  - [Purple / M](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362933977413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/506aba95c6b74a00a190fe65aa35fb28-Max-Origin.webp?v=1763576584
+    Price: €14.91 EUR
+  - [Purple / L](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362934010181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/506aba95c6b74a00a190fe65aa35fb28-Max-Origin.webp?v=1763576584
+    Price: €14.91 EUR
+  - [Purple / XL](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362934042949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/506aba95c6b74a00a190fe65aa35fb28-Max-Origin.webp?v=1763576584
+    Price: €14.91 EUR
+  - [Purple / 2XL](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362934075717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/506aba95c6b74a00a190fe65aa35fb28-Max-Origin.webp?v=1763576584
+    Price: €14.91 EUR
+  - [Purple / 3XL](https://nicosstore.store/products/plus-size-satin-mini-slip-dress?variant=56362934108485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/506aba95c6b74a00a190fe65aa35fb28-Max-Origin.webp?v=1763576584
+    Price: €14.91 EUR
+- [Men's Plus Size Windproof Jacket - Lightweight Hooded Outdoor Jacket](https://nicosstore.store/products/mens-plus-size-windproof-jacket): Stay warm and stylish with our Men's Plus Size Windproof Jacket. This full-size, lightweight hooded outdoor jacket offers ultimate protection and comfort for any adventure.
+  Updated: 2025-11-20T19:11:04Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b99e331f0734718b113f227b8d19766-Max-Origin.webp?v=1763576922
+  - [Creamy-white / S](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977001797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b99e331f0734718b113f227b8d19766-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Creamy-white / M](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977034565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b99e331f0734718b113f227b8d19766-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Creamy-white / L](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977067333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b99e331f0734718b113f227b8d19766-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Creamy-white / XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977100101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b99e331f0734718b113f227b8d19766-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Creamy-white / 2XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977132869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b99e331f0734718b113f227b8d19766-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Creamy-white / 3XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977165637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b99e331f0734718b113f227b8d19766-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Creamy-white / 4XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977198405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b99e331f0734718b113f227b8d19766-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Creamy-white / 5XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977231173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1b99e331f0734718b113f227b8d19766-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Pink / S](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977263941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/67606d75508f4e11aeffba37fb6af22e-Max-Origin.webp?v=1763576918
+    Price: €49.45 EUR
+  - [Pink / M](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977296709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/67606d75508f4e11aeffba37fb6af22e-Max-Origin.webp?v=1763576918
+    Price: €49.45 EUR
+  - [Pink / L](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977329477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/67606d75508f4e11aeffba37fb6af22e-Max-Origin.webp?v=1763576918
+    Price: €49.45 EUR
+  - [Pink / XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977362245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/67606d75508f4e11aeffba37fb6af22e-Max-Origin.webp?v=1763576918
+    Price: €49.45 EUR
+  - [Pink / 2XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977395013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/67606d75508f4e11aeffba37fb6af22e-Max-Origin.webp?v=1763576918
+    Price: €49.45 EUR
+  - [Pink / 3XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977427781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/67606d75508f4e11aeffba37fb6af22e-Max-Origin.webp?v=1763576918
+    Price: €49.45 EUR
+  - [Pink / 4XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977460549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/67606d75508f4e11aeffba37fb6af22e-Max-Origin.webp?v=1763576918
+    Price: €49.45 EUR
+  - [Pink / 5XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977493317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/67606d75508f4e11aeffba37fb6af22e-Max-Origin.webp?v=1763576918
+    Price: €49.45 EUR
+  - [Black / S](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977526085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/898509e7d4e1460ca77c7c6f063c5c11-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Black / M](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977558853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/898509e7d4e1460ca77c7c6f063c5c11-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Black / L](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977591621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/898509e7d4e1460ca77c7c6f063c5c11-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Black / XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977624389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/898509e7d4e1460ca77c7c6f063c5c11-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Black / 2XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977657157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/898509e7d4e1460ca77c7c6f063c5c11-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Black / 3XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977689925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/898509e7d4e1460ca77c7c6f063c5c11-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Black / 4XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977722693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/898509e7d4e1460ca77c7c6f063c5c11-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Black / 5XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977755461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/898509e7d4e1460ca77c7c6f063c5c11-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Burnt Yellow / S](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977788229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a6aec6b24494366bdd46e8dde037619-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Burnt Yellow / M](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977820997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a6aec6b24494366bdd46e8dde037619-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Burnt Yellow / L](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977853765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a6aec6b24494366bdd46e8dde037619-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Burnt Yellow / XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977886533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a6aec6b24494366bdd46e8dde037619-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Burnt Yellow / 2XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977919301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a6aec6b24494366bdd46e8dde037619-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Burnt Yellow / 3XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977952069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a6aec6b24494366bdd46e8dde037619-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Burnt Yellow / 4XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362977984837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a6aec6b24494366bdd46e8dde037619-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+  - [Burnt Yellow / 5XL](https://nicosstore.store/products/mens-plus-size-windproof-jacket?variant=56362978017605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a6aec6b24494366bdd46e8dde037619-Max-Origin.webp?v=1763576922
+    Price: €49.45 EUR
+- [Men's Camouflage Hooded Jacket for Stylish Outdoor Adventures -](https://nicosstore.store/products/mens-camouflage-hooded-jacket): Elevate your outdoor adventures with our Men's camouflage hooded jacket. Stylish, versatile, and designed for comfort, it's the perfect gear for any adventurer.
+  Updated: 2025-11-20T19:11:04Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4d36e4d8d4d4d14874f7da4e393c610-Max-Origin.webp?v=1763577065
+  - [Black / XXS](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363000955205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3cf5a6407f964ccfbf1c43a632a22ff0-Max-Origin.webp?v=1763577068
+    Price: €50.00 EUR
+  - [Black / XS](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363000987973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3cf5a6407f964ccfbf1c43a632a22ff0-Max-Origin.webp?v=1763577068
+    Price: €50.00 EUR
+  - [Black / S](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001020741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3cf5a6407f964ccfbf1c43a632a22ff0-Max-Origin.webp?v=1763577068
+    Price: €50.00 EUR
+  - [Black / M](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001053509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3cf5a6407f964ccfbf1c43a632a22ff0-Max-Origin.webp?v=1763577068
+    Price: €50.00 EUR
+  - [Black / L](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001086277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3cf5a6407f964ccfbf1c43a632a22ff0-Max-Origin.webp?v=1763577068
+    Price: €50.00 EUR
+  - [Black / XL](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001119045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3cf5a6407f964ccfbf1c43a632a22ff0-Max-Origin.webp?v=1763577068
+    Price: €50.00 EUR
+  - [Black / 2XL](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001151813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3cf5a6407f964ccfbf1c43a632a22ff0-Max-Origin.webp?v=1763577068
+    Price: €50.00 EUR
+  - [Army Green / XXS](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001184581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4d36e4d8d4d4d14874f7da4e393c610-Max-Origin.webp?v=1763577065
+    Price: €50.00 EUR
+  - [Army Green / XS](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001217349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4d36e4d8d4d4d14874f7da4e393c610-Max-Origin.webp?v=1763577065
+    Price: €50.00 EUR
+  - [Army Green / S](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001250117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4d36e4d8d4d4d14874f7da4e393c610-Max-Origin.webp?v=1763577065
+    Price: €50.00 EUR
+  - [Army Green / M](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001282885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4d36e4d8d4d4d14874f7da4e393c610-Max-Origin.webp?v=1763577065
+    Price: €50.00 EUR
+  - [Army Green / L](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001315653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4d36e4d8d4d4d14874f7da4e393c610-Max-Origin.webp?v=1763577065
+    Price: €50.00 EUR
+  - [Army Green / XL](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001348421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4d36e4d8d4d4d14874f7da4e393c610-Max-Origin.webp?v=1763577065
+    Price: €50.00 EUR
+  - [Army Green / 2XL](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001381189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4d36e4d8d4d4d14874f7da4e393c610-Max-Origin.webp?v=1763577065
+    Price: €50.00 EUR
+  - [Khaki / XXS](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001413957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4a330545aa9941ab9d7afcca3d5558af-Max-Origin.webp?v=1763577065
+    Price: €50.00 EUR
+  - [Khaki / XS](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001446725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4a330545aa9941ab9d7afcca3d5558af-Max-Origin.webp?v=1763577065
+    Price: €50.00 EUR
+  - [Khaki / S](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001479493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4a330545aa9941ab9d7afcca3d5558af-Max-Origin.webp?v=1763577065
+    Price: €50.00 EUR
+  - [Khaki / M](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001512261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4a330545aa9941ab9d7afcca3d5558af-Max-Origin.webp?v=1763577065
+    Price: €50.00 EUR
+  - [Khaki / L](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001545029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4a330545aa9941ab9d7afcca3d5558af-Max-Origin.webp?v=1763577065
+    Price: €50.00 EUR
+  - [Khaki / XL](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001577797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4a330545aa9941ab9d7afcca3d5558af-Max-Origin.webp?v=1763577065
+    Price: €50.00 EUR
+  - [Khaki / 2XL](https://nicosstore.store/products/mens-camouflage-hooded-jacket?variant=56363001610565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4a330545aa9941ab9d7afcca3d5558af-Max-Origin.webp?v=1763577065
+    Price: €50.00 EUR
+- [Fuzzy Round Toe Slip-Ons for Stylish Comfort and Everyday Wear](https://nicosstore.store/products/fuzzy-round-toe-slip-ons): Discover ultimate comfort and style with our fuzzy round toe slip-ons. Perfect for effortless wear, these cozy shoes are a must-have for your wardrobe. Shop now!
+  Updated: 2025-11-20T19:11:06Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f3896c14-e0e2-4e34-9275-a464830da171-Max-Origin.webp?v=1763577284
+  - [White / 36](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005313349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f3896c14-e0e2-4e34-9275-a464830da171-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [White / 37](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005346117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f3896c14-e0e2-4e34-9275-a464830da171-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [White / 38](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005378885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f3896c14-e0e2-4e34-9275-a464830da171-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [White / 39](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005411653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f3896c14-e0e2-4e34-9275-a464830da171-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [White / 40](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005444421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f3896c14-e0e2-4e34-9275-a464830da171-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [White / 41](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005477189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f3896c14-e0e2-4e34-9275-a464830da171-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [White / 42](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005509957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f3896c14-e0e2-4e34-9275-a464830da171-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [White / 43](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005542725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f3896c14-e0e2-4e34-9275-a464830da171-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Deep Red / 36](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005575493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/da7f86ca-64e3-48a3-b601-b2b6ecfd0432-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Deep Red / 37](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005608261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/da7f86ca-64e3-48a3-b601-b2b6ecfd0432-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Deep Red / 38](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005641029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/da7f86ca-64e3-48a3-b601-b2b6ecfd0432-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Deep Red / 39](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005673797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/da7f86ca-64e3-48a3-b601-b2b6ecfd0432-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Deep Red / 40](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005706565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/da7f86ca-64e3-48a3-b601-b2b6ecfd0432-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Deep Red / 41](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005739333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/da7f86ca-64e3-48a3-b601-b2b6ecfd0432-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Deep Red / 42](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005772101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/da7f86ca-64e3-48a3-b601-b2b6ecfd0432-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Deep Red / 43](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005804869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/da7f86ca-64e3-48a3-b601-b2b6ecfd0432-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Black / 36](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005837637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/664d33dc-699e-49de-94b4-00cca348c35b-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Black / 37](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005870405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/664d33dc-699e-49de-94b4-00cca348c35b-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Black / 38](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005903173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/664d33dc-699e-49de-94b4-00cca348c35b-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Black / 39](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005935941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/664d33dc-699e-49de-94b4-00cca348c35b-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Black / 40](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363005968709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/664d33dc-699e-49de-94b4-00cca348c35b-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Black / 41](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006001477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/664d33dc-699e-49de-94b4-00cca348c35b-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Black / 42](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006034245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/664d33dc-699e-49de-94b4-00cca348c35b-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Black / 43](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006067013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/664d33dc-699e-49de-94b4-00cca348c35b-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Purple / 36](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006099781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fedc0fc9-f6e5-4276-b086-62e9f49ec2a4-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Purple / 37](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006132549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fedc0fc9-f6e5-4276-b086-62e9f49ec2a4-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Purple / 38](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006165317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fedc0fc9-f6e5-4276-b086-62e9f49ec2a4-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Purple / 39](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006198085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fedc0fc9-f6e5-4276-b086-62e9f49ec2a4-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Purple / 40](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006230853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fedc0fc9-f6e5-4276-b086-62e9f49ec2a4-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Purple / 41](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006263621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fedc0fc9-f6e5-4276-b086-62e9f49ec2a4-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Purple / 42](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006296389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fedc0fc9-f6e5-4276-b086-62e9f49ec2a4-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Purple / 43](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006329157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fedc0fc9-f6e5-4276-b086-62e9f49ec2a4-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Beige / 36](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006361925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/77c54958-f446-4911-83d7-8e4aad7832a8-Max-Origin.webp?v=1763577283
+    Price: €30.49 EUR
+  - [Beige / 37](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006394693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/77c54958-f446-4911-83d7-8e4aad7832a8-Max-Origin.webp?v=1763577283
+    Price: €30.49 EUR
+  - [Beige / 38](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006427461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/77c54958-f446-4911-83d7-8e4aad7832a8-Max-Origin.webp?v=1763577283
+    Price: €30.49 EUR
+  - [Beige / 39](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006460229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/77c54958-f446-4911-83d7-8e4aad7832a8-Max-Origin.webp?v=1763577283
+    Price: €30.49 EUR
+  - [Beige / 40](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006492997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/77c54958-f446-4911-83d7-8e4aad7832a8-Max-Origin.webp?v=1763577283
+    Price: €30.49 EUR
+  - [Beige / 41](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006525765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/77c54958-f446-4911-83d7-8e4aad7832a8-Max-Origin.webp?v=1763577283
+    Price: €30.49 EUR
+  - [Beige / 42](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006558533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/77c54958-f446-4911-83d7-8e4aad7832a8-Max-Origin.webp?v=1763577283
+    Price: €30.49 EUR
+  - [Beige / 43](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006591301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/77c54958-f446-4911-83d7-8e4aad7832a8-Max-Origin.webp?v=1763577283
+    Price: €30.49 EUR
+  - [Dark Gray / 36](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006624069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c4088002-a801-469e-adc4-6e3d8a6edc4a-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Dark Gray / 37](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006656837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c4088002-a801-469e-adc4-6e3d8a6edc4a-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Dark Gray / 38](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006689605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c4088002-a801-469e-adc4-6e3d8a6edc4a-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Dark Gray / 39](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006722373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c4088002-a801-469e-adc4-6e3d8a6edc4a-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Dark Gray / 40](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006755141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c4088002-a801-469e-adc4-6e3d8a6edc4a-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Dark Gray / 41](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006787909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c4088002-a801-469e-adc4-6e3d8a6edc4a-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Dark Gray / 42](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006820677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c4088002-a801-469e-adc4-6e3d8a6edc4a-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Dark Gray / 43](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006853445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c4088002-a801-469e-adc4-6e3d8a6edc4a-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Dusty Pink / 36](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006886213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1d034f52-7e31-482b-a062-c376b5cf4a7a-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+  - [Dusty Pink / 37](https://nicosstore.store/products/fuzzy-round-toe-slip-ons?variant=56363006918981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1d034f52-7e31-482b-a062-c376b5cf4a7a-Max-Origin.webp?v=1763577284
+    Price: €30.49 EUR
+- [Merry & Bright Christmas T Shirt - Floral Design for Holiday Cheer](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress): Elevate your holiday spirit with our Merry & Bright Christmas T Shirt featuring a stunning floral design. Perfect for festive gatherings or cozy nights. Shop now!
+  Updated: 2025-11-20T21:04:53Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/eabd1e27be8d4c0593558411c7ba94a7-Max-Origin.webp?v=1763577395
+  - [Red / 0-3M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011244357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/eabd1e27be8d4c0593558411c7ba94a7-Max-Origin.webp?v=1763577395
+    Price: €24.94 EUR
+  - [Red / 3-6M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011277125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/eabd1e27be8d4c0593558411c7ba94a7-Max-Origin.webp?v=1763577395
+    Price: €24.94 EUR
+  - [Red / 6-9M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011309893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/eabd1e27be8d4c0593558411c7ba94a7-Max-Origin.webp?v=1763577395
+    Price: €24.94 EUR
+  - [Red / 9-12M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011342661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/eabd1e27be8d4c0593558411c7ba94a7-Max-Origin.webp?v=1763577395
+    Price: €24.94 EUR
+  - [Red / 12-18M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011375429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/eabd1e27be8d4c0593558411c7ba94a7-Max-Origin.webp?v=1763577395
+    Price: €24.94 EUR
+  - [Multicolor / 0-3M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011408197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31c6d6a2cced4255a982c180893f319d-Max-Origin.webp?v=1763577394
+    Price: €24.94 EUR
+  - [Multicolor / 3-6M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011440965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31c6d6a2cced4255a982c180893f319d-Max-Origin.webp?v=1763577394
+    Price: €24.94 EUR
+  - [Multicolor / 6-9M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011473733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31c6d6a2cced4255a982c180893f319d-Max-Origin.webp?v=1763577394
+    Price: €24.94 EUR
+  - [Multicolor / 9-12M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011506501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31c6d6a2cced4255a982c180893f319d-Max-Origin.webp?v=1763577394
+    Price: €24.94 EUR
+  - [Multicolor / 12-18M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011539269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/31c6d6a2cced4255a982c180893f319d-Max-Origin.webp?v=1763577394
+    Price: €24.94 EUR
+  - [Deep Red / 0-3M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011572037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bd8ae10d7c2a46d1860e5f3538d1c335-Max-Origin.webp?v=1763577394
+    Price: €24.94 EUR
+  - [Deep Red / 3-6M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011604805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bd8ae10d7c2a46d1860e5f3538d1c335-Max-Origin.webp?v=1763577394
+    Price: €24.94 EUR
+  - [Deep Red / 6-9M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011637573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bd8ae10d7c2a46d1860e5f3538d1c335-Max-Origin.webp?v=1763577394
+    Price: €24.94 EUR
+  - [Deep Red / 9-12M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011670341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bd8ae10d7c2a46d1860e5f3538d1c335-Max-Origin.webp?v=1763577394
+    Price: €24.94 EUR
+  - [Deep Red / 12-18M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011703109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/bd8ae10d7c2a46d1860e5f3538d1c335-Max-Origin.webp?v=1763577394
+    Price: €24.94 EUR
+  - [Scarlet / 0-3M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011735877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6a725046631847b8add1b299777f3b66-Max-Origin.webp?v=1763577395
+    Price: €24.94 EUR
+  - [Scarlet / 3-6M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011768645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6a725046631847b8add1b299777f3b66-Max-Origin.webp?v=1763577395
+    Price: €24.94 EUR
+  - [Scarlet / 6-9M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011801413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6a725046631847b8add1b299777f3b66-Max-Origin.webp?v=1763577395
+    Price: €24.94 EUR
+  - [Scarlet / 9-12M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011834181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6a725046631847b8add1b299777f3b66-Max-Origin.webp?v=1763577395
+    Price: €24.94 EUR
+  - [Scarlet / 12-18M](https://nicosstore.store/products/childrens-christmas-stocking-tulle-ruffle-dress?variant=56363011866949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6a725046631847b8add1b299777f3b66-Max-Origin.webp?v=1763577395
+    Price: €24.94 EUR
+- [Reindeer Christmas Sweater - Festive Long Sleeve Holiday Knit for You](https://nicosstore.store/products/reindeer-christmas-sweater): Elevate your holiday spirit with our Reindeer Christmas Sweater! This festive long sleeve knit combines comfort and style, perfect for all your seasonal gatherings. Shop now!
+  Updated: 2025-11-20T19:11:06Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d1023f59-27af-48ef-a828-e543703f1fea-Max-Origin.webp?v=1763577529
+  - [Red / S](https://nicosstore.store/products/reindeer-christmas-sweater?variant=56363013538117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d1023f59-27af-48ef-a828-e543703f1fea-Max-Origin.webp?v=1763577529
+    Price: €32.75 EUR
+  - [Red / M](https://nicosstore.store/products/reindeer-christmas-sweater?variant=56363013570885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d1023f59-27af-48ef-a828-e543703f1fea-Max-Origin.webp?v=1763577529
+    Price: €32.75 EUR
+  - [Red / L](https://nicosstore.store/products/reindeer-christmas-sweater?variant=56363013603653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d1023f59-27af-48ef-a828-e543703f1fea-Max-Origin.webp?v=1763577529
+    Price: €32.75 EUR
+  - [Red / XL](https://nicosstore.store/products/reindeer-christmas-sweater?variant=56363013636421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d1023f59-27af-48ef-a828-e543703f1fea-Max-Origin.webp?v=1763577529
+    Price: €32.75 EUR
+  - [Black / S](https://nicosstore.store/products/reindeer-christmas-sweater?variant=56363013669189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/934de1d5-87e9-4993-bc99-19638e844f84-Max-Origin.webp?v=1763577529
+    Price: €32.75 EUR
+  - [Black / M](https://nicosstore.store/products/reindeer-christmas-sweater?variant=56363013701957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/934de1d5-87e9-4993-bc99-19638e844f84-Max-Origin.webp?v=1763577529
+    Price: €32.75 EUR
+  - [Black / L](https://nicosstore.store/products/reindeer-christmas-sweater?variant=56363013734725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/934de1d5-87e9-4993-bc99-19638e844f84-Max-Origin.webp?v=1763577529
+    Price: €32.75 EUR
+  - [Black / XL](https://nicosstore.store/products/reindeer-christmas-sweater?variant=56363013767493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/934de1d5-87e9-4993-bc99-19638e844f84-Max-Origin.webp?v=1763577529
+    Price: €32.75 EUR
+- [Lace Up Ankle Boots for Trendy Style and All-Day Comfort - Shop Now](https://nicosstore.store/products/lace-up-ankle-boots): Step into style with our Lace Up Ankle Boots. Perfect for any occasion, these boots offer a blend of comfort and fashion. Elevate your look today with our chic lace up ankle boots!
+  Updated: 2025-11-20T19:11:06Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cc515a703b4e4b40ad164f53a35f76d7-Max-Origin.webp?v=1763577633
+  - [White / 36](https://nicosstore.store/products/lace-up-ankle-boots?variant=56363028185413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cc515a703b4e4b40ad164f53a35f76d7-Max-Origin.webp?v=1763577633
+    Price: €38.46 EUR
+  - [White / 37](https://nicosstore.store/products/lace-up-ankle-boots?variant=56363028218181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cc515a703b4e4b40ad164f53a35f76d7-Max-Origin.webp?v=1763577633
+    Price: €38.46 EUR
+  - [White / 38](https://nicosstore.store/products/lace-up-ankle-boots?variant=56363028250949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cc515a703b4e4b40ad164f53a35f76d7-Max-Origin.webp?v=1763577633
+    Price: €38.46 EUR
+  - [White / 39](https://nicosstore.store/products/lace-up-ankle-boots?variant=56363028283717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cc515a703b4e4b40ad164f53a35f76d7-Max-Origin.webp?v=1763577633
+    Price: €38.46 EUR
+  - [White / 40](https://nicosstore.store/products/lace-up-ankle-boots?variant=56363028316485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cc515a703b4e4b40ad164f53a35f76d7-Max-Origin.webp?v=1763577633
+    Price: €38.46 EUR
+  - [White / 41](https://nicosstore.store/products/lace-up-ankle-boots?variant=56363028349253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cc515a703b4e4b40ad164f53a35f76d7-Max-Origin.webp?v=1763577633
+    Price: €38.46 EUR
+  - [White / 42](https://nicosstore.store/products/lace-up-ankle-boots?variant=56363028382021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cc515a703b4e4b40ad164f53a35f76d7-Max-Origin.webp?v=1763577633
+    Price: €38.46 EUR
+  - [White / 43](https://nicosstore.store/products/lace-up-ankle-boots?variant=56363028414789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cc515a703b4e4b40ad164f53a35f76d7-Max-Origin.webp?v=1763577633
+    Price: €38.46 EUR
+- [Christmas Loafers - Stylish and Comfortable Round Toe Holiday Footwear](https://nicosstore.store/products/christmas-loafers): Step into the holiday spirit with our Christmas Round Toe Loafers. Stylish and comfortable, these Christmas loafers are perfect for festive gatherings. Shop now and celebrate in style!
+  Updated: 2025-11-20T22:21:51Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8ba1a538990e4cf59d98d653e894201e-Max-Origin.webp?v=1763670620
+  - [Color / 35](https://nicosstore.store/products/christmas-loafers?variant=56379650834757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f8084a2c8a8947fbbee87150024f5dcf-Max-Origin.webp?v=1763670619
+    Price: €37.55 EUR
+  - [Color / 36](https://nicosstore.store/products/christmas-loafers?variant=56379650867525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f8084a2c8a8947fbbee87150024f5dcf-Max-Origin.webp?v=1763670619
+    Price: €37.55 EUR
+  - [Color / 37](https://nicosstore.store/products/christmas-loafers?variant=56379650900293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f8084a2c8a8947fbbee87150024f5dcf-Max-Origin.webp?v=1763670619
+    Price: €37.55 EUR
+  - [Color / 38](https://nicosstore.store/products/christmas-loafers?variant=56379650933061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f8084a2c8a8947fbbee87150024f5dcf-Max-Origin.webp?v=1763670619
+    Price: €37.55 EUR
+  - [Color / 39](https://nicosstore.store/products/christmas-loafers?variant=56379650965829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f8084a2c8a8947fbbee87150024f5dcf-Max-Origin.webp?v=1763670619
+    Price: €37.55 EUR
+  - [Color / 40](https://nicosstore.store/products/christmas-loafers?variant=56379650998597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f8084a2c8a8947fbbee87150024f5dcf-Max-Origin.webp?v=1763670619
+    Price: €37.55 EUR
+  - [Color / 41](https://nicosstore.store/products/christmas-loafers?variant=56379651031365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f8084a2c8a8947fbbee87150024f5dcf-Max-Origin.webp?v=1763670619
+    Price: €37.55 EUR
+  - [Color / 42](https://nicosstore.store/products/christmas-loafers?variant=56379651064133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f8084a2c8a8947fbbee87150024f5dcf-Max-Origin.webp?v=1763670619
+    Price: €37.55 EUR
+  - [Color / 43](https://nicosstore.store/products/christmas-loafers?variant=56379651096901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/f8084a2c8a8947fbbee87150024f5dcf-Max-Origin.webp?v=1763670619
+    Price: €37.55 EUR
+- [Perfee Smocked Long Pants - Stylish Floral Print for Effortless Chic](https://nicosstore.store/products/perfee-smocked-long-pants): Discover ultimate comfort and style with Perfee Smocked Long Pants. Featuring a vibrant floral print, these pants are perfect for any occasion. Shop now for this must-have!
+  Updated: 2025-11-20T22:21:52Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/160b43ed5e5d4bdf81cb4fcb9bb96c01-Max.jpg?v=1763670875
+  - [Multicolor / S](https://nicosstore.store/products/perfee-smocked-long-pants?variant=56379752284485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/160b43ed5e5d4bdf81cb4fcb9bb96c01-Max.jpg?v=1763670875
+    Price: €25.00 EUR
+  - [Multicolor / M](https://nicosstore.store/products/perfee-smocked-long-pants?variant=56379752317253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/160b43ed5e5d4bdf81cb4fcb9bb96c01-Max.jpg?v=1763670875
+    Price: €25.00 EUR
+  - [Multicolor / L](https://nicosstore.store/products/perfee-smocked-long-pants?variant=56379752350021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/160b43ed5e5d4bdf81cb4fcb9bb96c01-Max.jpg?v=1763670875
+    Price: €25.00 EUR
+  - [Multicolor / XL](https://nicosstore.store/products/perfee-smocked-long-pants?variant=56379752382789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/160b43ed5e5d4bdf81cb4fcb9bb96c01-Max.jpg?v=1763670875
+    Price: €25.00 EUR
+- [Furry Suede Flat Sneakers for Ultimate Comfort and Chic Style](https://nicosstore.store/products/furry-suede-flat-sneakers): Elevate your footwear collection with our furry suede flat sneakers. Experience ultimate comfort and style in every step. Perfect for casual outings and everyday wear!
+  Updated: 2025-11-20T22:21:53Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0c53a2be-8bce-4bc4-9c70-9df13f791f6f-Max.webp?v=1763671192
+  - [Navy / 36(US5)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379768996165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a4fd281-501b-4e34-bc90-b577c369b905-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Navy / 37(US6)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769028933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a4fd281-501b-4e34-bc90-b577c369b905-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Navy / 38(US7)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769061701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a4fd281-501b-4e34-bc90-b577c369b905-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Navy / 39(US8)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769094469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a4fd281-501b-4e34-bc90-b577c369b905-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Navy / 40(US9)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769127237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a4fd281-501b-4e34-bc90-b577c369b905-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Navy / 41(US10)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769160005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a4fd281-501b-4e34-bc90-b577c369b905-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Navy / 42(US10.5)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769192773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a4fd281-501b-4e34-bc90-b577c369b905-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Navy / 43(US11)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769225541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a4fd281-501b-4e34-bc90-b577c369b905-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Chocolate / 36(US5)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769258309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a8ed442-c560-4be9-aed5-22ec4b02f444-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Chocolate / 37(US6)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769291077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a8ed442-c560-4be9-aed5-22ec4b02f444-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Chocolate / 38(US7)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769323845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a8ed442-c560-4be9-aed5-22ec4b02f444-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Chocolate / 39(US8)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769356613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a8ed442-c560-4be9-aed5-22ec4b02f444-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Chocolate / 40(US9)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769389381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a8ed442-c560-4be9-aed5-22ec4b02f444-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Chocolate / 41(US10)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769422149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a8ed442-c560-4be9-aed5-22ec4b02f444-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Chocolate / 42(US10.5)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769454917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a8ed442-c560-4be9-aed5-22ec4b02f444-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Chocolate / 43(US11)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769487685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a8ed442-c560-4be9-aed5-22ec4b02f444-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Black / 36(US5)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769520453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee045c9a-eb37-46a2-9a38-122d10aaa1e8-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Black / 37(US6)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769553221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee045c9a-eb37-46a2-9a38-122d10aaa1e8-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Black / 38(US7)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769585989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee045c9a-eb37-46a2-9a38-122d10aaa1e8-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Black / 39(US8)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769618757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee045c9a-eb37-46a2-9a38-122d10aaa1e8-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Black / 40(US9)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769651525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee045c9a-eb37-46a2-9a38-122d10aaa1e8-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Black / 41(US10)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769684293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee045c9a-eb37-46a2-9a38-122d10aaa1e8-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Black / 42(US10.5)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769717061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee045c9a-eb37-46a2-9a38-122d10aaa1e8-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Black / 43(US11)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769749829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ee045c9a-eb37-46a2-9a38-122d10aaa1e8-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Gray / 36(US5)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769782597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e9b7e53d-0f43-49df-9d28-e93c8a91cc96-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Gray / 37(US6)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769815365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e9b7e53d-0f43-49df-9d28-e93c8a91cc96-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Gray / 38(US7)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769848133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e9b7e53d-0f43-49df-9d28-e93c8a91cc96-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Gray / 39(US8)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769880901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e9b7e53d-0f43-49df-9d28-e93c8a91cc96-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Gray / 40(US9)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769913669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e9b7e53d-0f43-49df-9d28-e93c8a91cc96-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Gray / 41(US10)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769946437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e9b7e53d-0f43-49df-9d28-e93c8a91cc96-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Gray / 42(US10.5)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379769979205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e9b7e53d-0f43-49df-9d28-e93c8a91cc96-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Gray / 43(US11)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379770011973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e9b7e53d-0f43-49df-9d28-e93c8a91cc96-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Beige / 36(US5)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379770044741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/42ebb09e-c7bb-478d-b4fd-c46c05fced61-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Beige / 37(US6)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379770077509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/42ebb09e-c7bb-478d-b4fd-c46c05fced61-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Beige / 38(US7)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379770110277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/42ebb09e-c7bb-478d-b4fd-c46c05fced61-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Beige / 39(US8)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379770143045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/42ebb09e-c7bb-478d-b4fd-c46c05fced61-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Beige / 40(US9)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379770175813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/42ebb09e-c7bb-478d-b4fd-c46c05fced61-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Beige / 41(US10)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379770208581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/42ebb09e-c7bb-478d-b4fd-c46c05fced61-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Beige / 42(US10.5)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379770241349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/42ebb09e-c7bb-478d-b4fd-c46c05fced61-Max.webp?v=1763671192
+    Price: €25.74 EUR
+  - [Beige / 43(US11)](https://nicosstore.store/products/furry-suede-flat-sneakers?variant=56379770274117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/42ebb09e-c7bb-478d-b4fd-c46c05fced61-Max.webp?v=1763671192
+    Price: €25.74 EUR
+- [Leopard Lace Up Athletic Shoes - Cutout Mesh Design for Comfort](https://nicosstore.store/products/leopard-lace-up-athletic-shoes): Discover our Cutout Leopard Lace Up Athletic Shoes. Featuring a breathable mesh design, these stylish sneakers ensure comfort and support for every step. Shop now!
+  Updated: 2025-11-20T22:21:54Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/95081a95-e1c1-4d59-9ace-dd4e1501a6be-Max.webp?v=1763671222
+  - [Black / 36(US5)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379771945285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/95081a95-e1c1-4d59-9ace-dd4e1501a6be-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Black / 37(US6)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379771978053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/95081a95-e1c1-4d59-9ace-dd4e1501a6be-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Black / 38(US7)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772010821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/95081a95-e1c1-4d59-9ace-dd4e1501a6be-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Black / 39(US8)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772043589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/95081a95-e1c1-4d59-9ace-dd4e1501a6be-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Black / 40(US9)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772076357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/95081a95-e1c1-4d59-9ace-dd4e1501a6be-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Black / 41(US10)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772109125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/95081a95-e1c1-4d59-9ace-dd4e1501a6be-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Black / 42(US10.5)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772141893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/95081a95-e1c1-4d59-9ace-dd4e1501a6be-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Black / 43(US11)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772174661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/95081a95-e1c1-4d59-9ace-dd4e1501a6be-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Royal Blue / 36(US5)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772207429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5273ebe0-7484-448e-8085-ecdef2f311fa-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Royal Blue / 37(US6)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772240197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5273ebe0-7484-448e-8085-ecdef2f311fa-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Royal Blue / 38(US7)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772272965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5273ebe0-7484-448e-8085-ecdef2f311fa-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Royal Blue / 39(US8)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772305733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5273ebe0-7484-448e-8085-ecdef2f311fa-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Royal Blue / 40(US9)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772338501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5273ebe0-7484-448e-8085-ecdef2f311fa-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Royal Blue / 41(US10)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772371269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5273ebe0-7484-448e-8085-ecdef2f311fa-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Royal Blue / 42(US10.5)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772404037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5273ebe0-7484-448e-8085-ecdef2f311fa-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Royal Blue / 43(US11)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772436805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5273ebe0-7484-448e-8085-ecdef2f311fa-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Dusty Pink / 36(US5)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772469573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/271c9667-9f3a-4764-86cd-0fb34672f533-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Dusty Pink / 37(US6)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772502341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/271c9667-9f3a-4764-86cd-0fb34672f533-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Dusty Pink / 38(US7)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772535109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/271c9667-9f3a-4764-86cd-0fb34672f533-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Dusty Pink / 39(US8)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772567877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/271c9667-9f3a-4764-86cd-0fb34672f533-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Dusty Pink / 40(US9)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772600645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/271c9667-9f3a-4764-86cd-0fb34672f533-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Dusty Pink / 41(US10)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772633413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/271c9667-9f3a-4764-86cd-0fb34672f533-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Dusty Pink / 42(US10.5)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772666181)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/271c9667-9f3a-4764-86cd-0fb34672f533-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Dusty Pink / 43(US11)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772698949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/271c9667-9f3a-4764-86cd-0fb34672f533-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [White / 36(US5)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772731717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c1679874-c808-4fdd-b979-98517fce0241-Max.webp?v=1763671221
+    Price: €22.04 EUR
+  - [White / 37(US6)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772764485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c1679874-c808-4fdd-b979-98517fce0241-Max.webp?v=1763671221
+    Price: €22.04 EUR
+  - [White / 38(US7)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772797253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c1679874-c808-4fdd-b979-98517fce0241-Max.webp?v=1763671221
+    Price: €22.04 EUR
+  - [White / 39(US8)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772830021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c1679874-c808-4fdd-b979-98517fce0241-Max.webp?v=1763671221
+    Price: €22.04 EUR
+  - [White / 40(US9)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772862789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c1679874-c808-4fdd-b979-98517fce0241-Max.webp?v=1763671221
+    Price: €22.04 EUR
+  - [White / 41(US10)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772895557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c1679874-c808-4fdd-b979-98517fce0241-Max.webp?v=1763671221
+    Price: €22.04 EUR
+  - [White / 42(US10.5)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772928325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c1679874-c808-4fdd-b979-98517fce0241-Max.webp?v=1763671221
+    Price: €22.04 EUR
+  - [White / 43(US11)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772961093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c1679874-c808-4fdd-b979-98517fce0241-Max.webp?v=1763671221
+    Price: €22.04 EUR
+  - [Yellow / 36(US5)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379772993861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3f712066-7e6c-4fd6-b05d-6cca15700d90-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Yellow / 37(US6)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379773026629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3f712066-7e6c-4fd6-b05d-6cca15700d90-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Yellow / 38(US7)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379773059397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3f712066-7e6c-4fd6-b05d-6cca15700d90-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Yellow / 39(US8)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379773092165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3f712066-7e6c-4fd6-b05d-6cca15700d90-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Yellow / 40(US9)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379773124933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3f712066-7e6c-4fd6-b05d-6cca15700d90-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Yellow / 41(US10)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379773157701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3f712066-7e6c-4fd6-b05d-6cca15700d90-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Yellow / 42(US10.5)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379773190469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3f712066-7e6c-4fd6-b05d-6cca15700d90-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Yellow / 43(US11)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379773223237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3f712066-7e6c-4fd6-b05d-6cca15700d90-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Red / 36(US5)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379773256005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3f4f718a-c2e6-4104-9ea9-3644812dd90d-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Red / 37(US6)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379773288773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3f4f718a-c2e6-4104-9ea9-3644812dd90d-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Red / 38(US7)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379773321541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3f4f718a-c2e6-4104-9ea9-3644812dd90d-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Red / 39(US8)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379773354309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3f4f718a-c2e6-4104-9ea9-3644812dd90d-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Red / 40(US9)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379773387077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3f4f718a-c2e6-4104-9ea9-3644812dd90d-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Red / 41(US10)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379773419845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3f4f718a-c2e6-4104-9ea9-3644812dd90d-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Red / 42(US10.5)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379773452613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3f4f718a-c2e6-4104-9ea9-3644812dd90d-Max.webp?v=1763671222
+    Price: €22.04 EUR
+  - [Red / 43(US11)](https://nicosstore.store/products/leopard-lace-up-athletic-shoes?variant=56379773485381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3f4f718a-c2e6-4104-9ea9-3644812dd90d-Max.webp?v=1763671222
+    Price: €22.04 EUR
+- [Contrast Trim Maxi Dress Set with Cropped Cardigan for Chic Style](https://nicosstore.store/products/contrast-trim-maxi-dress-set): Elevate your wardrobe with our Contrast Trim Maxi Dress Set with Cropped Cardigan. Perfect for any occasion, this stylish set combines comfort and elegance effortlessly!
+  Updated: 2025-11-20T22:21:55Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1e16fc05-6142-4feb-98fa-94970b4b0b75-Max-Origin.webp?v=1763671463
+  - [Cream / S](https://nicosstore.store/products/contrast-trim-maxi-dress-set?variant=56379788165445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1e16fc05-6142-4feb-98fa-94970b4b0b75-Max-Origin.webp?v=1763671463
+    Price: €46.65 EUR
+  - [Cream / M](https://nicosstore.store/products/contrast-trim-maxi-dress-set?variant=56379788198213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1e16fc05-6142-4feb-98fa-94970b4b0b75-Max-Origin.webp?v=1763671463
+    Price: €46.65 EUR
+  - [Cream / L](https://nicosstore.store/products/contrast-trim-maxi-dress-set?variant=56379788230981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1e16fc05-6142-4feb-98fa-94970b4b0b75-Max-Origin.webp?v=1763671463
+    Price: €46.65 EUR
+  - [Cream / XL](https://nicosstore.store/products/contrast-trim-maxi-dress-set?variant=56379788263749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1e16fc05-6142-4feb-98fa-94970b4b0b75-Max-Origin.webp?v=1763671463
+    Price: €46.65 EUR
+- [Printed Hoodie and Pants Set for Ultimate Comfort and Style - Shop Now](https://nicosstore.store/products/printed-hoodie-and-pants-set): Discover our stylish printed hoodie and pants set, designed for ultimate comfort. Perfect for lounging or casual outings, this set combines fashion and relaxation effortlessly.
+  Updated: 2025-11-20T22:21:56Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/983616bb-29d9-4f65-9f67-0a8973244576-Max-Origin.webp?v=1763671565
+  - [Black / S](https://nicosstore.store/products/printed-hoodie-and-pants-set?variant=56379790721349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/983616bb-29d9-4f65-9f67-0a8973244576-Max-Origin.webp?v=1763671565
+    Price: €36.04 EUR
+  - [Black / M](https://nicosstore.store/products/printed-hoodie-and-pants-set?variant=56379790754117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/983616bb-29d9-4f65-9f67-0a8973244576-Max-Origin.webp?v=1763671565
+    Price: €36.04 EUR
+  - [Black / L](https://nicosstore.store/products/printed-hoodie-and-pants-set?variant=56379790786885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/983616bb-29d9-4f65-9f67-0a8973244576-Max-Origin.webp?v=1763671565
+    Price: €36.04 EUR
+  - [Black / XL](https://nicosstore.store/products/printed-hoodie-and-pants-set?variant=56379790819653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/983616bb-29d9-4f65-9f67-0a8973244576-Max-Origin.webp?v=1763671565
+    Price: €36.04 EUR
+- [Cinnamon Plaid Corduroy Patchwork Chest Pocket Shacket](https://nicosstore.store/products/cinnamon-plaid-corduroy-patchwork-chest-pocket-shacket): Size Chart (INCH) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Relax S 4-6 34-36 8-10 43.5 44.1 22.8 20.1 27.8 M 8-10 38-40 12-14 45.9 46.5 24.0 20.3 28.5 L 12-14 42-44 16-18 48.2 48.8 25.2 20.5 29.3 XL 16-18 46-48 20-22 51.4 52.0 26.8 20.5 30.1 2XL 20-22 50-52 24-26 54.5 55.1 28.3 20.5 30.9 Elasticity None Size Chart (CM) Sizes US Sizes Euro Sizes UK Sizes Bust Hem Width Shoulder Sleeve Length Length Relax Relax Relax Relax Relax S 4-6 34-36 8-10 110.5 112 58 51 70.5 M 8-10 38-40 12-14 116.5 118 61 51.5 72.5 L 12-14 42-44 16-18 122.5 124 64 52 74.5 XL 16-18 46-48 20-22 130.5 132 68 52 76.5 2XL 20-22 50-52 24-26 138.5 140 72 52 78.5 Elasticity None This plaid jacket creates a classic and timeless appeal. Versatile shirt style for a casual yet trendy look. Luxurious corduroy material for texture and warmth. Functional chest pockets for added convenience.
+  Updated: 2025-11-20T23:07:12Z
+  Vendor: Dear-Lover Dropshipping
+  Product Type: Outerwear/Plaid Shackets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/08b0c492f0e4b478.jpg?v=1763676015
+  - [Cinnamon / S / 100%Polyester](https://nicosstore.store/products/cinnamon-plaid-corduroy-patchwork-chest-pocket-shacket?variant=56380101067077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/08b0c492f0e4b478.jpg?v=1763676015
+    Price: €33.65 EUR
+  - [Cinnamon / M / 100%Polyester](https://nicosstore.store/products/cinnamon-plaid-corduroy-patchwork-chest-pocket-shacket?variant=56380101099845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/08b0c492f0e4b478.jpg?v=1763676015
+    Price: €33.65 EUR
+  - [Cinnamon / L / 100%Polyester](https://nicosstore.store/products/cinnamon-plaid-corduroy-patchwork-chest-pocket-shacket?variant=56380101132613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/08b0c492f0e4b478.jpg?v=1763676015
+    Price: €33.65 EUR
+  - [Cinnamon / XL / 100%Polyester](https://nicosstore.store/products/cinnamon-plaid-corduroy-patchwork-chest-pocket-shacket?variant=56380101165381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/08b0c492f0e4b478.jpg?v=1763676015
+    Price: €33.65 EUR
+  - [Cinnamon / 2XL / 100%Polyester](https://nicosstore.store/products/cinnamon-plaid-corduroy-patchwork-chest-pocket-shacket?variant=56380101198149)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/08b0c492f0e4b478.jpg?v=1763676015
+    Price: €33.65 EUR
 
 ## Collections
 
-- [Home page - Nico`s Store](https://nicosstore.store/collections/frontpage): MAKE IK IN YOUR WAY - Nico`s Store
-  Updated: 2025-11-16T12:49:37Z
+- [nicos store *_* - Premium Quality Clothing for Stylish Looks](https://nicosstore.store/collections/nicos-store-_): Discover stylish and premium quality clothing at nicos store *_*. Elevate your wardrobe with unique designs that combine comfort and elegance. Shop now for the best selections!
+  Updated: 2025-11-20T21:34:18Z
   Total Products: 97
-- [Clothing at Nicos Store - Stylish & Affordable Options](https://nicosstore.store/collections/clothing-at-nicos-store): Clothing at  Nicos Store
-  Updated: 2025-11-18T20:21:54Z
-  Total Products: 95
-- [Shoes - Nico`s Store](https://nicosstore.store/collections/shoes): - Nico`s Store
-  Updated: 2025-11-16T12:29:06Z
-  Total Products: 18
+- [For him and her: Unique Cloths for Every Occasion and Style](https://nicosstore.store/collections/clothing-at-nicos-store): Discover the perfect cloths for any occasion with our "For Him and Her" collection. Unique items tailored for everyone, ensuring memorable moments and lasting impressions.
+  Updated: 2025-11-20T22:20:38Z
+  Total Products: 106
+- [Shoes at Nico's Store - Discover Your Perfect Pair Today!](https://nicosstore.store/collections/shoes-at-nicos-store): Discover your perfect pair of shoes at Nico's Store! Explore our stylish collection, designed for comfort and quality. Shop now for the latest trends in footwear!
+  Updated: 2025-11-20T21:35:41Z
+  Total Products: 22
 - [Personal Care - Nico`s Store](https://nicosstore.store/collections/personal-care): - Nico`s Store
-  Updated: 2025-11-16T12:29:06Z
+  Updated: 2025-11-20T19:10:57Z
   Total Products: 1
-- [Luggage and Bags Collection - Shop at Nico's Store](https://nicosstore.store/collections/luggage-bags): Luggage and bags available at Nico's Store. Discover high-quality styles for every travel need today!
-  Updated: 2025-11-16T12:29:06Z
-  Total Products: 7
-- [Kids collection at Nico`s Store - Nico`s Store](https://nicosstore.store/collections/kids-collection-at-nico-s-store): kids collection at nico`s store-because kids desirve all our attention - Nico`s Store
-  Updated: 2025-11-18T20:26:33Z
+- [Luggage and Bags Collection - Shop at Nico's Store](https://nicosstore.store/collections/luggage-and-bags): Discover top-quality Luggage and Bags at Nico's Store. Shop trendy, durable options perfect for your travels, style, and convenience. Find your ideal bag today!
+  Updated: 2025-11-20T21:38:44Z
+  Total Products: 10
+- [Kids Collection at Nico's Store - Trendy Styles for Every Little One](https://nicosstore.store/collections/kids-collection-at-nico-s-store): Discover the vibrant Kids collection at Nico's Store, featuring trendy apparel and accessories for every little one. Shop now for styles that inspire creativity and fun!
+  Updated: 2025-11-20T21:43:30Z
   Total Products: 21
-- [Nico`s Store Brand products - Nico`s Store](https://nicosstore.store/collections/nico-s-store-brand-products): Nico`s Store brand products... NICO - Nico`s Store
-  Updated: 2025-11-16T12:29:07Z
+- [Nico's Store Clothing Brand Products - Affordable Quality Fashion Deals](https://nicosstore.store/collections/nicos-store-clothing-brand-products): Discover Nico's Store clothing brand products, where quality meets affordability. Shop stylish and comfortable apparel perfect for any occasion. Find your new favorite today!
+  Updated: 2025-11-20T21:46:38Z
   Total Products: 34
-- [Ebooks by Albu Nicolae Ionut at Nico`s Store - Nico`s Store](https://nicosstore.store/collections/ebooks-by-albu-nicolae-ionut-at-nico-s-store): Step inside to another world .Discover the fantasy with a e book from Nico`s Store - Nico`s Store
-  Updated: 2025-11-16T12:29:07Z
-  Total Products: 4
-- [Christmas collection - Nico`s Store](https://nicosstore.store/collections/christmas-collection): Be ready for Christmas ,try your unique style with a product from Nico`s Store - Nico`s Store
-  Updated: 2025-11-18T20:26:33Z
-  Total Products: 14
+- [Christmas Clothing Collection: Celebrate the Season with Stylish Finds](https://nicosstore.store/collections/christmas-clothing-collection): Discover our Christmas clothing collection, filled with festive wonders for everyone. Celebrate the season with stylish apparel that spreads holiday cheer and joy!
+  Updated: 2025-11-20T21:42:15Z
+  Total Products: 20
 
 ## Store Pages
 
@@ -11726,13 +13486,13 @@
 - [Privacy Policy](https://nicosstore.store/policies/privacy-policy)
   Updated: 2025-09-26T20:09:58+02:00
 - [Shipping Policy](https://nicosstore.store/policies/shipping-policy)
-  Updated: 2025-10-11T20:41:15+02:00
+  Updated: 2025-11-19T20:54:20+01:00
 - [Refund Policy](https://nicosstore.store/policies/refund-policy)
-  Updated: 2025-11-01T09:58:38+01:00
+  Updated: 2025-11-19T21:28:33+01:00
 - [Terms of Service](https://nicosstore.store/policies/terms-of-service)
   Updated: 2025-09-23T21:01:37+02:00
 - [Contact Information](https://nicosstore.store/policies/contact-information)
-  Updated: 2025-10-06T20:56:23+02:00
+  Updated: 2025-11-19T20:58:08+01:00
 
 ## Optional
 
