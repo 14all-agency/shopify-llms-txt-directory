@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-09-14T12:12:19Z
 - Contact Email: golyoltd@gmail.com
-- Updated At: 2025-11-20T00:01:50.908Z
+- Updated At: 2025-11-21T00:01:14.564Z
 
 ## Products
 
@@ -5162,7 +5162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/HS8R2.jpg?v=1763444541
     Price: $29.00 USD
 - [Package Protection](https://qingsnkueens.com/products/shipguard-shipping-protection)
-  Updated: 2025-11-19T18:20:24Z
+  Updated: 2025-11-20T12:50:56Z
   Vendor: Qings & Kueens
   Product Type: Wenexus-Warranty
   Availability: Available
