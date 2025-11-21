@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-09-30T12:20:15Z
 - Contact Email: info@aevitas-uk.co.uk
-- Updated At: 2025-11-20T20:00:30.172Z
+- Updated At: 2025-11-21T00:01:31.684Z
 
 ## Products
 
@@ -88,7 +88,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/8-Watch-Box-Cognac-Brown-Genuine-Leather-Velvet-Lining-by-Aevitas.webp?v=1760447163
   Price: £176.95 GBP
 - [Men's Large Brown Valet Tray with 8 Watch Holders by Aevitas](https://aevitas-uk.co.uk/products/cognac-brown-genuine-leather-watch-winder-slide-away-door-deep-brown-velvet-lining-by-aevitas): Men's Valet Tray Organiser by Aevitas is the perfect way to get your man organised. With more space than most other valet trays, great for all the things we need everyday
-  Updated: 2025-11-16T12:18:46Z
+  Updated: 2025-11-20T20:09:31Z
   Vendor: Aevitas
   Product Type: Watch Box
   Availability: Available
@@ -906,7 +906,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/12-Watch-Winder-Safe-Luxury-Black-Leather-with-Contrast-Stitching-by-Aevitas.webp?v=1760449217
   Price: £3,495.00 GBP
 - [Premium Single Watch Roll Green Leather Super Soft Suede Lining](https://aevitas-uk.co.uk/products/premium-single-watch-roll-green-leather-with-super-soft-suede-lining): Premium Single Watch roll in Green finest quality animal friendly leather, a great choice for the holiday or business trip allowing stylish safe storage
-  Updated: 2025-11-11T16:10:52Z
+  Updated: 2025-11-20T20:20:11Z
   Vendor: Aevitas
   Product Type: Watch Travel case
   Availability: Available
@@ -1535,7 +1535,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Premium-12-Watch-Box-in-Cherry-Wood-Piano-Gloss-Finish-with-Luxury-Lining.webp?v=1760451513
   Price: £244.95 GBP
 - [Men's Large Black Valet Tray with 8 Watch Holders by Aevitas](https://aevitas-uk.co.uk/products/mens-large-black-valet-tray-with-8-watch-holders-by-aevitas): Men's Valet Tray Organiser by Aevitas is the perfect way to get your man organised. With more space than most other valet trays, this is great for all the things we need
-  Updated: 2025-11-11T16:10:55Z
+  Updated: 2025-11-20T20:04:04Z
   Vendor: Aevitas
   Product Type: Watch Box
   Availability: Available
