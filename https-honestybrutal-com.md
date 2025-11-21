@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-07T02:43:04Z
 - Contact Email: alex@honestybrutal.com
-- Updated At: 2025-11-19T00:00:26.694Z
+- Updated At: 2025-11-21T00:00:27.473Z
 
 ## Products
 
@@ -830,7 +830,7 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/EmeraldNexusTeeFront.jpg?v=1756430630
     Price: $75.00 USD
 - [Prismatic Petals Tee](https://honestybrutal.com/products/prismatic-petals): The Artist Statement: Color bursts like a sudden bloom—Prismatic Petals scatters saturated reds, violets, golds, and greens across the body in radiant, petal-like forms. Each cluster feels in motion, hovering between floral and flame. The Technicals: 95% polyester, 5% elastane Premium mid-weight jersey Four-way stretch Regular fit Transparency: Crafted just for you when you order—reducing overproduction and supporting thoughtful consumption.
-  Updated: 2025-10-05T17:02:19Z
+  Updated: 2025-11-19T16:24:28Z
   Vendor: Honesty Brutal
   Product Type: T-Shirt
   Availability: Available
@@ -2531,22 +2531,22 @@
   Updated: 2025-10-03T13:22:08Z
   Total Products: 21
 - [Burst, Bloom, and Flow](https://honestybrutal.com/collections/burst-bloom-and-flow): Energy. Motion. Transformation. Burst, Bloom, Flow captures the raw intensity of creation—bold, fluid, and alive. Wear the motion. Feel the flow.
-  Updated: 2025-10-07T11:19:10Z
+  Updated: 2025-11-20T12:22:05Z
   Total Products: 20
 - [First Impressions](https://honestybrutal.com/collections/honesty-brutal): Logo as statement. Be the pioneer.
   Updated: 2025-10-02T13:13:11Z
   Total Products: 4
 - [All Products](https://honestybrutal.com/collections/all-products): Wear Art. Wear Your Truth.
-  Updated: 2025-10-04T16:08:32Z
+  Updated: 2025-11-20T12:22:05Z
   Total Products: 75
 - [Pets](https://honestybrutal.com/collections/little-love): Wearable art, now for four legs
   Updated: 2025-09-08T13:28:53Z
   Total Products: 1
 - [Apparel](https://honestybrutal.com/collections/apparel): Wearable art. Everyday truth.
-  Updated: 2025-10-07T11:19:10Z
+  Updated: 2025-11-20T12:22:05Z
   Total Products: 57
 - [Shirts](https://honestybrutal.com/collections/shirts): Not clothes, but canvases. Shirts that move with you, speak for you, and refuse to stay quiet.
-  Updated: 2025-10-07T11:19:10Z
+  Updated: 2025-11-20T12:22:05Z
   Total Products: 36
 - [Jackets](https://honestybrutal.com/collections/bombers): Canvas reimagined in motion.
   Updated: 2025-10-02T14:15:46Z
