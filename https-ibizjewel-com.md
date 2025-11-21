@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-11-19T00:00:44.283Z
+- Updated At: 2025-11-21T00:00:43.595Z
 
 ## Products
 
@@ -33902,7 +33902,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-101_7.jpg?v=1711450606
     Price: $1,055.00 USD
 - [Moissanite 3.00CT Oval Diamond Avant Garde Wedding Ring](https://ibizjewel.com/products/moissanite-3-00ct-oval-diamond-avant-garde-wedding-ring): This Moissanite 3.00 CT Oval Diamond Avant Garde Wedding Ring Is The Perfect Statement Piece For Any Bride. With Its Stunning Oval Cut Diamond And Modern, Avant-garde Design, This Ring Exudes Elegance And Sophistication. Made With High-quality Moissanite, It Offers A Brilliant Sparkle That Is Sure To Catch Everyone's Attention. Upgrade Your Wedding Band With This Unique And Timeless Piece.
-  Updated: 2025-10-02T10:31:07Z
+  Updated: 2025-11-19T09:37:39Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
