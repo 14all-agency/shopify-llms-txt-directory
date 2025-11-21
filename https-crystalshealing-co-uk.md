@@ -8,7 +8,21 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-11-21T16:20:10.201Z
+- Updated At: 2025-11-21T16:25:15.615Z
+
+# Crystals Healing UK – LLMS Overview
+
+This LLMS.txt file is provided by Crystals Healing UK to help AI assistants and search tools understand our store.
+
+Below you will find structured information about:
+- Our handcrafted crystal jewellery and crystal kits
+- Product details, collections and availability
+- Blog articles and educational content about crystals
+- Key store pages and policies
+
+All product information, prices and availability may change over time. For the most accurate and up-to-date details, always refer to our website: https://crystalshealing.co.uk
+
+Crystals and crystal jewellery are spiritual and wellness tools and are **not** a substitute for medical, psychological or professional treatment.
 
 ## Products
 
@@ -4082,7 +4096,37 @@
 - [Contact Information](https://crystalshealing.co.uk/policies/contact-information)
   Updated: 2023-07-27T18:06:55+01:00
 
+## Social Media
+https://www.facebook.com/crystalshealinguk/
+https://x.com/crystalshealuk
+https://www.instagram.com/crystalshealinguk
+https://www.youtube.com/@CrystalsHealingUK
+https://www.tiktok.com/@crystalshealinguk
+https://uk.pinterest.com/CrystalsHealingUK/
+
 ## Optional
 
 - [robots.txt](https://crystalshealing.co.uk/robots.txt)
 - [sitemap.xml](https://crystalshealing.co.uk/sitemap.xml)
+
+This LLMS.txt is maintained by CrystalsHealing.co.uk for AI assistants and SEO crawlers.
+© 2025 Crystals Healing UK. All rights reserved. 
+Ethical | Transparent | Conscious | Crystal Energy for All.
+
+## Optional
+
+- [robots.txt](https://crystalshealing.co.uk/robots.txt)
+- [sitemap.xml](https://crystalshealing.co.uk/sitemap.xml)
+
+## Policies
+
+- [Privacy Policy](https://crystalshealing.co.uk/policies/privacy-policy)
+  Updated: 2021-10-25T11:19:23+01:00
+- [Shipping Policy](https://crystalshealing.co.uk/policies/shipping-policy)
+  Updated: 2023-07-27T18:06:55+01:00
+- [Refund Policy](https://crystalshealing.co.uk/policies/refund-policy)
+  Updated: 2024-03-04T13:49:41+00:00
+- [Terms of Service](https://crystalshealing.co.uk/policies/terms-of-service)
+  Updated: 2025-09-22T18:33:07+01:00
+- [Contact Information](https://crystalshealing.co.uk/policies/contact-information)
+  Updated: 2023-07-27T18:06:55+01:00
