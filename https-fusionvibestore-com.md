@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-11-20T00:00:54.722Z
+- Updated At: 2025-11-21T00:00:26.383Z
 
 ## Products
 
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a8bf7a9a-6417-44bb-87a9-5c236807c372.jpg?v=1757311437
     Price: $19.00 USD
 - [Self-Stirring Magnetic Mug | Automatic Stirring Coffee Cup (14oz/400ml)](https://fusionvibestore.com/products/self-stirring-magnetic-mug): Never stir your coffee again! This self-stirring mug uses a magnetic mechanism to mix your drink perfectly. Great for coffee, hot chocolate, and protein shakes. A perfect gift idea!
-  Updated: 2025-11-15T19:45:00Z
+  Updated: 2025-11-20T06:45:02Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -1109,7 +1109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
 - [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
-  Updated: 2025-11-19T21:15:38Z
+  Updated: 2025-11-20T22:13:31Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -1592,7 +1592,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c2105949-4190-4040-911e-eb4ae86ba1b3.jpg?v=1761120612
     Price: $25.23 USD
 - [Women's Fashion Casual Pocket Top](https://fusionvibestore.com/products/womens-fashion-casual-pocket-top): Product information: Design: plants and flowers Style: Pullover Version type: Loose type Sleeve length: Long sleeves Sleeve type: Lantern sleeve Collar type: hooded Thickness: Medium Popular element: Pockets Process: Digital printing Main fabric: Polyester (polyester) Color: Khaki, light grey Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweatshirt X1PCS Product Image:
-  Updated: 2025-11-12T08:27:15Z
+  Updated: 2025-11-20T16:26:07Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3541,7 +3541,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/71a29876-a740-4a88-9086-06dbe0426531.jpg?v=1763541850
     Price: $43.67 USD
 - [E99 Drone Quadcopter Dual Camera HD Aerial Photography Remote Control](https://fusionvibestore.com/products/e99-drone-quadcopter-dual-camera-hd-aerial-photography-remote-control): E99 Drone Quadcopter Dual Camera HD Aerial Photography Remote Control Aircraft
-  Updated: 2025-11-19T14:48:25Z
+  Updated: 2025-11-20T01:54:31Z
   Vendor: z60ja0-0n
   Product Type: Electronics
   Availability: Available
@@ -3562,7 +3562,7 @@
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e6795cc1-e529-4b8e-922d-0031a652b9e4.jpg?v=1763546282
   Price: $36.78 USD
 - [Women's Fashion Printed Short Sleeve Dress](https://fusionvibestore.com/products/womens-fashion-printed-short-sleeve-dress): Product information: Fabric name: polyester Color: green Sleeve type: regular sleeve Main fabric composition: polyester (polyester fiber) Size: S, M, L, XL Skirt length: midi skirt Sleeve length: short sleeve Skirt category: dress Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Dress Product Image:
-  Updated: 2025-11-19T14:27:26Z
+  Updated: 2025-11-20T02:38:27Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
