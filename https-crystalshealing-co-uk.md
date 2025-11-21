@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-11-20T00:00:30.226Z
+- Updated At: 2025-11-21T00:00:52.069Z
 
 Welcome to CrystalsHealing.co.uk – the UK’s crystal jewellery & holistic wellbeing shop.
 We specialize in ethically sourced crystals, handmade jewellery, and energy-balancing accessories designed to support mindfulness, protection, and manifestation.
@@ -4225,7 +4225,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/29b95af077e7892fff1b995f4bc4125d-Photoroom.jpg?v=1749664097
   Price: £18.80 GBP
 - [Mahogany Obsidian Bracelet](https://crystalshealing.co.uk/products/mahogany-obsidian-bracelet-stylish-grounding-jewelry): Elevate your style with the natural beauty of this Mahogany Obsidian Bracelet A timeless accessory that blends elegance and the grounding energy of gemstones. The rich, earthy tones of mahogany and deep black swirls make this bracelet a standout piece, perfect for adding warmth and sophistication to any outfit. Mahogany Obsidian is renowned for its protective and grounding properties, believed to dispel negativity and promote strength, focus, and emotional stability. This versatile bracelet is perfect for both men and women, whether as a thoughtful gift or a meaningful addition to your own collection. Why Choose the Mahogany Obsidian Bracelet? Natural Gemstones: Each bead showcases unique patterns and deep colors for a one-of-a-kind piece. Timeless Style: Complements casual and formal outfits effortlessly. Energy Benefits: Associated with protection, grounding, and emotional balance. Gift Ready: Packaged beautifully, ideal for birthdays, anniversaries, or special occasions. Wear it alone for a minimalist look or stack it with other bracelets to express your personal style. This Mahogany Obsidian Bracelet is more than just jewelry—it’s a statement of strength, confidence, and elegance. Order yours today and embrace the transformative energy of natural gemstones!
-  Updated: 2025-11-18T16:34:37Z
+  Updated: 2025-11-20T08:12:24Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
