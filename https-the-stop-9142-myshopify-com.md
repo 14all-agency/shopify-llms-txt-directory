@@ -5,12 +5,12 @@
 - Currency: USD
 - Timezone: America/Indiana/Indianapolis
 - Created At: 2025-11-08T22:46:01Z
-- Updated At: 2025-11-18T23:49:31.373Z
+- Updated At: 2025-11-21T00:00:54.898Z
 
 ## Products
 
 - [BiBi Bow Detail Sleeves Fleece Sweatshirt](https://the-stop-9142.myshopify.com/products/bibi-bow-detail-sleeves-fleece-sweatshirt): This sleeveless sweater top showcases a stylish Mardi Gras checker pattern, perfect for adding a festive touch to your wardrobe. The checker pattern captures the lively and colorful spirit of Mardi Gras celebrations. With its sleeveless design, this top is versatile for layering or wearing on its own. The unique checker pattern adds a modern and chic twist to a classic sweater style. Embrace the Mardi Gras festivities in style with this trendy and eye-catching sleeveless sweater top. Features:Bow Stretch:Slightly stretchy Material composition:SELF 76%POLYESTER 24%COTTON CONT1 100%POLYESTER CONT2 72%POLYESTER 24%COTTON 4%SPANDEX Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Waist S 33-35 25-27 M 35-38 27-30 L 38-40 30-32 XL 40-42 32-34
-  Updated: 2025-11-18T12:56:58Z
+  Updated: 2025-11-20T03:37:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -32,7 +32,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/f09a91c4-c8cf-450f-8870-bdfc788768eb-Max-Origin.webp?v=1763427410
     Price: $63.26 USD
 - [Zenana Acid Washed Batwing Sleeve Fleece Sweatshirt](https://the-stop-9142.myshopify.com/products/zenana-acid-washed-batwing-sleeve-fleece-sweatshirt): The Acid Washed Batwing Sleeve Fleece Sweatshirt is a cozy and trendy essential for the colder seasons. The acid-washed design gives it a unique and edgy look that stands out. With batwing sleeves, this sweatshirt offers a relaxed and comfortable fit. Made of fleece fabric, it provides warmth and softness for all-day comfort. Perfect for adding a stylish and casual vibe to your winter wardrobe. Features:Oversized,Ribbed Stretch:Slightly stretchy Material composition:60%COTTON, 40%POLYESTER Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Waist S/M 34-38 26-31 L/XL 39-42 32-35
-  Updated: 2025-11-18T12:57:10Z
+  Updated: 2025-11-20T19:04:29Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -46,7 +46,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/d62cc09aefcc442d8ad2b120be8e1ec5-Max-Origin.webp?v=1763427423
     Price: $41.32 USD
 - [BiBi Christmas Theme Sequin Lattering Sweater](https://the-stop-9142.myshopify.com/products/bibi-christmas-theme-sequin-lattering-sweater): This sweater top is perfect for the festive season with its Christmas theme and sequin lettering. The sequins add a touch of sparkle and glamour to the design. It features a cozy and comfortable fit to keep you warm during the holiday gatherings. The sweater top is versatile and can be dressed up or down for various occasions. Celebrate in style with this fun and festive Christmas-themed sweater top! Features:Basic style Stretch:Slightly stretchy Material composition:100%POLYESTER Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Top Length S 34 26.5 M 37 27 L 40 27.5 XL 41 28
-  Updated: 2025-11-18T14:18:11Z
+  Updated: 2025-11-20T03:37:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -68,7 +68,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/da24a5bb133449c69c07e340cd302f87-Max-Origin.webp?v=1763427434
     Price: $55.04 USD
 - [BiBi Sequin Christmas Gift Box Embroideries Pullover](https://the-stop-9142.myshopify.com/products/bibi-sequin-christmas-gift-box-embroideries-pullover): Elevate your holiday wardrobe with the Sequin Christmas Gift Box Embroideries Pullover. This charming pullover features intricate sequin embroidery depicting festive gift boxes, adding a touch of sparkle and whimsy to your look. Perfect for spreading holiday cheer and getting into the Christmas spirit. Stand out at holiday gatherings with this playful and unique sweater. Embrace the joy and magic of the season with this delightful pullover! Features:Basic style Stretch:Slightly stretchy Material composition:100% POLYESTER Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Waist S 33-35 25-27 M 35-38 27-30 L 38-40 30-32 XL 40-42 32-34
-  Updated: 2025-11-18T14:24:44Z
+  Updated: 2025-11-19T19:50:04Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -90,7 +90,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/3c7d62b41e7a46909cd15144f9e35e8c-Max-Origin.webp?v=1763427458
     Price: $61.98 USD
 - [BiBi Christmas Wreath Merry Letter Knit Top](https://the-stop-9142.myshopify.com/products/bibi-christmas-wreath-merry-letter-knit-top): The Christmas Wreath Merry Letter Knit Top is a festive and joyful addition to your holiday wardrobe. Featuring a charming Christmas wreath design and cheerful "Merry" lettering, this knit top captures the spirit of the season. Made from cozy and comfortable knit fabric, it is perfect for staying warm during winter festivities. Whether you're celebrating with loved ones or spreading holiday cheer, this top is a merry and stylish choice. Embrace the magic of Christmas with this delightful knit top that will keep you feeling festive all season long. Features:Basic Style Stretch:Slightly stretchy Material composition:100%POLYESTER Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Top Length S 34 26.5 M 37 27 L 40 27.5 XL 41 28
-  Updated: 2025-11-18T12:59:12Z
+  Updated: 2025-11-19T19:50:07Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -168,7 +168,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/aa41162928e7485b9585f2fecd29d05c-Max-Origin.webp?v=1763427646
     Price: $65.99 USD
 - [SO ME Soft Touch Hairy Loose Fit Cozy Sweater Cardigan](https://the-stop-9142.myshopify.com/products/so-me-soft-touch-hairy-loose-fit-cozy-sweater-cardigan): This cozy sweater cardigan is designed with a soft touch and hairy texture for ultimate comfort. The loose fit silhouette allows for easy layering and a relaxed feel. With its cozy design, this cardigan is perfect for chilly days and cozy nights. Stay warm and stylish in this versatile piece that pairs well with any outfit. Elevate your loungewear collection with this soft touch hairy sweater cardigan for a cozy and chic look. Features:Buttoned Stretch:Slightly stretchy Material composition:70%POLYESTER 30%NYLON Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Sleeve Length Top Length S 35-36 21.5 22 M 37-38 22 23 L 39-40 22.5 23.5 XL 41-43 23 24
-  Updated: 2025-11-18T20:42:43Z
+  Updated: 2025-11-20T17:27:51Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -270,7 +270,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/d28e2858c67444e7bd399dd3d5443278-Max-Origin.webp?v=1763428039
     Price: $49.99 USD
 - [RISEN Mid Rise Ankle Straight Jeans with Cuffed Hem](https://the-stop-9142.myshopify.com/products/risen-mid-rise-ankle-straight-jeans-with-cuffed-hem): Elevate your denim collection with these mid-rise ankle straight jeans featuring a cuffed hem detail. The mid-rise waist offers a comfortable and flattering fit for everyday wear. The ankle length and straight leg design create a classic and versatile silhouette that easily transitions from day to night. The cuffed hem adds a touch of on-trend style and showcases your favorite footwear. Step out in style with these chic mid-rise ankle straight jeans with a cuffed hem. Features:Raw Hem,Pocketed,Washed Stretch:Slightly stretchy Material composition:94% COTTON, 4% POLYESTER, 2% SPANDEX Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0(24) 24 31 9.5 28.5-32.5 1(25) 25 32 9.5 28.5-32.5 3(26) 26 33 9.5 28.5-32.5 5(27) 27 34 10.5 228.5-32.5 7(28) 28 35 10.5 28.5-32.5 9(29) 29 36 10.5 28.5-32.5 11(30) 30 37 11.5 28.5-32.5 13(31) 31 38 11.5 28.5-32.5 15(32) 32 39 11.5 28.5-32.5
-  Updated: 2025-11-18T20:42:43Z
+  Updated: 2025-11-20T02:53:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -312,7 +312,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/2ce85d3cf1df421a8e09fcc19dc2c26b-Max-Origin.webp?v=1763428091
     Price: $64.99 USD
 - [Judy Blue Full Size High Rise Button Fly Skinny Jeans Plus Size](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-high-rise-button-fly-skinny-jeans-plus-size): The High Rise Button Fly Skinny Jeans are a stylish and flattering choice for any fashion-forward individual. With a high-rise waist, they provide a comfortable and flattering fit while elongating the legs. The button fly closure adds a retro and trendy touch to the classic skinny jean silhouette. Perfect for creating a sleek and polished look, these jeans are versatile and easy to style for any occasion. Show off your curves and stay on-trend with these chic and versatile skinny jeans. Features:Buttoned,Pocketed Stretch:Slightly stretchy Material composition:93% COTTON, 6% POLYESTER,1% SPANDEX Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0/24 24 31 10.5 28.5 1/25 25 32 10.5 28.5 3/26 26 33 10.5 28.5 5/27 27 34 11 28.5 7/28 28 35 11 28.5 9/29 29 36 11 28.5 11/30 30 37 11.5 28.5 13/31 31 38 11.5 28.5 15/32 32 39 11.5 28.5 14W 33 40 12 29 16W 34 41 12 29 18W 35 42 12 29 20W 36 43 12.5 29 22W 37 44 12.5 29 24W 38 45 12.5 29
-  Updated: 2025-11-18T13:09:14Z
+  Updated: 2025-11-20T15:58:21Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -492,14 +492,14 @@
   Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/6c8ddb251fe34b6dab2ebaadcc65a5a1-Max-Origin.webp?v=1763428389
   Price: $42.99 USD
 - [Nicole Lee USA Sun and Sand Shoulder Bag](https://the-stop-9142.myshopify.com/products/nicole-lee-usa-sun-and-sand-shoulder-bag): Sail through sunny days with our Sun & Sand Shoulder Bag, your go-to tropical treasure, splashed with breezy palms, dreamy hammocks, and all the ocean-kissed magic to make every outing feel like a beachside escape! Pebbled vegan leather exterior with glossy patent leather accents Dual shoulder straps (13" drop) with snap button closure to adjoin sides Extended two-way zip top closure Front is embellished with resin fruits, beaded embellishments and trims Metal feet at the base for added protection Gold-tone hardware Logo hardware lettering and bow zipper pulls Exclusive print interior lining in polyester Back interior zip pocket with key ring strap 2 front interior slip pockets Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length Actual Width Actual Height OS 10.8 4 5.8
-  Updated: 2025-11-18T14:38:50Z
+  Updated: 2025-11-19T02:00:02Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/5d1578a87c19428db5cd1dd9b09a5ee0-Max-Origin.webp?v=1763428403
   Price: $65.99 USD
 - [Nicole Lee USA Sun and Sand 3 Piece Bag Set](https://the-stop-9142.myshopify.com/products/nicole-lee-usa-sun-and-sand-3-piece-bag-set): Soak up the sunshine in style with our Sun & Sand 3-Piece Set, featuring a handbag, crossbody, and wallet all wrapped in breezy palms, hammock daydreams, and beachy bliss! It’s your ultimate vacay-ready trio to bring tropical vibes wherever you roam!3 Piece Set Product Details (Handbag, Crossbody, Wallet) Vegan leather exterior with glossy patent leather accents Logo engraved nameplate and bow zipper pulls Gold-tone hardware Exclusive print interior lining in polyester Weight: 3 lbs Imported Handbag: Dual top handles (11" drop) Two-way zip top closure Back slip pocket Metal feet at the base for added protection Back interior zip pocket with key ring strap 2 front interior slip pockets Size: 15.5"L x 5.25"W x 11.25"H Mini Crossbody: Top handle (2.5" drop) 2 Zip top closure compartments Side D-rings for optional crossbody strap attachment Interior front slip pocket Includes adjustable, detachable crossbody strap Size: 9.5"L x 4.5"W x 6.5"H Wallet: Wrap-around zip closure Solid interior lining 2 interior note sleeves, 4 credit card slots, 1 center zip coin compartment Size: 7.5"L x 1"W x 4"H
-  Updated: 2025-11-18T13:13:57Z
+  Updated: 2025-11-19T02:00:03Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -534,12 +534,458 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/dbc3c20248984add92985f0bc4af35e9-Max-Origin.webp?v=1763428470
     Price: $64.99 USD
+- [Judy Blue Full Size Washed Thermal Skinny Jeans Plus Size](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size): These Washed Thermal Skinny Jeans combine style with functionality for a trendy look. Made from a stretchy thermal fabric, they provide both comfort and warmth in colder weather. The washed finish adds a cool, worn-in effect for a casual vibe. The skinny fit offers a flattering silhouette that can be easily dressed up or down. Stay cozy and fashionable while rocking these versatile and chic jeans. Features:Buttoned,Pocketed Stretch:Slightly stretchy Material composition:93.7%Cotton 5%Polyester 1.3%Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0/24 24 31 10 28.5 1/25 25 32 10 28.5 3/26 26 33 10 28.5 5/27 27 34 10 28.5 7/28 28 35 10 28.5 9/29 29 36 10 28.5 11/30 30 37 10 28.5 13/31 31 38 10 28.5 15/32 32 39 10 28.5 14W 33 40 11.8 28.5 16W 34 41 11.8 28.5 18W 35 42 11.8 28.5 20W 36 43 11.8 28.5 22W 37 44 11.8 28.5 24W 38 45 11.8 28.5
+  Updated: 2025-11-20T19:53:06Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1deabc7653b64761a45df60d47bc6768-Max-Origin.webp?v=1763511376
+  - [DK / 0(24)](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size?variant=47300001693952)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1deabc7653b64761a45df60d47bc6768-Max-Origin.webp?v=1763511376
+    Price: $64.28 USD
+  - [DK / 1(25)](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size?variant=47300001726720)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1deabc7653b64761a45df60d47bc6768-Max-Origin.webp?v=1763511376
+    Price: $64.28 USD
+  - [DK / 3(26)](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size?variant=47300001759488)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1deabc7653b64761a45df60d47bc6768-Max-Origin.webp?v=1763511376
+    Price: $64.28 USD
+  - [DK / 5(27)](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size?variant=47300001792256)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1deabc7653b64761a45df60d47bc6768-Max-Origin.webp?v=1763511376
+    Price: $64.28 USD
+  - [DK / 7(28)](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size?variant=47300001825024)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1deabc7653b64761a45df60d47bc6768-Max-Origin.webp?v=1763511376
+    Price: $64.28 USD
+  - [DK / 9(29)](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size?variant=47300001857792)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1deabc7653b64761a45df60d47bc6768-Max-Origin.webp?v=1763511376
+    Price: $64.28 USD
+  - [DK / 11(30)](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size?variant=47300001890560)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1deabc7653b64761a45df60d47bc6768-Max-Origin.webp?v=1763511376
+    Price: $64.28 USD
+  - [DK / 13(31)](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size?variant=47300001923328)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1deabc7653b64761a45df60d47bc6768-Max-Origin.webp?v=1763511376
+    Price: $64.28 USD
+  - [DK / 15(32)](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size?variant=47300001956096)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1deabc7653b64761a45df60d47bc6768-Max-Origin.webp?v=1763511376
+    Price: $64.28 USD
+  - [DK / 14W](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size?variant=47300001988864)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1deabc7653b64761a45df60d47bc6768-Max-Origin.webp?v=1763511376
+    Price: $68.92 USD
+  - [DK / 16W](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size?variant=47300002021632)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1deabc7653b64761a45df60d47bc6768-Max-Origin.webp?v=1763511376
+    Price: $68.92 USD
+  - [DK / 18W](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size?variant=47300002054400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1deabc7653b64761a45df60d47bc6768-Max-Origin.webp?v=1763511376
+    Price: $68.92 USD
+  - [DK / 20W](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size?variant=47300002087168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1deabc7653b64761a45df60d47bc6768-Max-Origin.webp?v=1763511376
+    Price: $68.92 USD
+  - [DK / 22W](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size?variant=47300002119936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1deabc7653b64761a45df60d47bc6768-Max-Origin.webp?v=1763511376
+    Price: $68.92 USD
+  - [DK / 24W](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size?variant=47300002152704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1deabc7653b64761a45df60d47bc6768-Max-Origin.webp?v=1763511376
+    Price: $68.92 USD
+- [POL Ruffled Floral Lace Skirt with Unbalanced Hem](https://the-stop-9142.myshopify.com/products/pol-ruffled-floral-lace-skirt-with-unbalanced-hem): The lace skirt with an unbalanced hem detail and pointed solid pattern is a sophisticated and stylish piece that adds elegance to any outfit. The regular fit of the skirt ensures a comfortable and flattering silhouette that is perfect for any occasion. The intricate lace fabric creates a delicate and feminine look, while the pointed solid pattern adds a modern and edgy touch. The unbalanced hem detail gives the skirt a unique and eye-catching design element, making it a standout piece in your wardrobe. Pair this skirt with a simple top and heels for a chic and trendy ensemble that exudes confidence and style. Features:Lace,Asymmetrical,Ruffled,Slit Body:Lined Material composition:SELF: 90% POLYESTER, 10% SPANDEX CONTRAST: 100% POLYESTER Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Length S 13.8 33 M 15.8 33.5 L 17.8 34
+  Updated: 2025-11-19T12:18:15Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/feefc3cc-f897-49b0-a4ae-282bdc2d8b63-Max-Origin.webp?v=1763511481
+  - [OFF WHITE / S](https://the-stop-9142.myshopify.com/products/pol-ruffled-floral-lace-skirt-with-unbalanced-hem?variant=47300015522048)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/feefc3cc-f897-49b0-a4ae-282bdc2d8b63-Max-Origin.webp?v=1763511481
+    Price: $57.99 USD
+  - [OFF WHITE / M](https://the-stop-9142.myshopify.com/products/pol-ruffled-floral-lace-skirt-with-unbalanced-hem?variant=47300015554816)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/feefc3cc-f897-49b0-a4ae-282bdc2d8b63-Max-Origin.webp?v=1763511481
+    Price: $57.99 USD
+  - [OFF WHITE / L](https://the-stop-9142.myshopify.com/products/pol-ruffled-floral-lace-skirt-with-unbalanced-hem?variant=47300015587584)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/feefc3cc-f897-49b0-a4ae-282bdc2d8b63-Max-Origin.webp?v=1763511481
+    Price: $57.99 USD
+- [Zenana Acid Wash Fleece Sweatpants with Pockets](https://the-stop-9142.myshopify.com/products/zenana-acid-wash-fleece-sweatpants-with-pockets): These jogger pants offer a relaxed and comfortable fit, perfect for casual wear. The elastic waistband with an adjustable drawstring ensures a secure and customizable fit. Made from a soft and breathable fabric, these pants feature a vintage wash for a unique and stylish look. The ankle cuffs and side pockets add functionality, making them ideal for everyday activities. The versatile design allows for easy pairing with various tops and shoes. Features:Drawstring,Pocketed Material composition:60%COTTON, 40%POLYESTER Care instructions:Machine wash cold. Tumble dry low. Imported
+  Updated: 2025-11-20T19:04:28Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/3d386481-6207-41b4-9da4-b7100b442dba-Max-Origin.webp?v=1763511535
+  - [DK GREEN / S](https://the-stop-9142.myshopify.com/products/zenana-acid-wash-fleece-sweatpants-with-pockets?variant=47300024762624)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/3d386481-6207-41b4-9da4-b7100b442dba-Max-Origin.webp?v=1763511535
+    Price: $34.99 USD
+  - [DK GREEN / M](https://the-stop-9142.myshopify.com/products/zenana-acid-wash-fleece-sweatpants-with-pockets?variant=47300024795392)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/3d386481-6207-41b4-9da4-b7100b442dba-Max-Origin.webp?v=1763511535
+    Price: $34.99 USD
+  - [DK GREEN / L](https://the-stop-9142.myshopify.com/products/zenana-acid-wash-fleece-sweatpants-with-pockets?variant=47300024828160)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/3d386481-6207-41b4-9da4-b7100b442dba-Max-Origin.webp?v=1763511535
+    Price: $34.99 USD
+- [Western Aztec Half Zip Plush Sweatshirt](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt): Features:Buttoned,Pocketed Stretch:Slightly stretchy Material composition:95%polyester,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.8 42.9 23.8 M 25.6 45.3 24.2 L 26.4 47.6 24.6 XL 27.2 50.8 25
+  Updated: 2025-11-20T23:21:56Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/a28d6d32-45ab-4694-9786-4c9d5739099f-Max-Origin.webp?v=1763511659
+  - [Beige / S](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt?variant=47300043997440)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/a28d6d32-45ab-4694-9786-4c9d5739099f-Max-Origin.webp?v=1763511659
+    Price: $45.99 USD
+  - [Beige / M](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt?variant=47300044030208)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/a28d6d32-45ab-4694-9786-4c9d5739099f-Max-Origin.webp?v=1763511659
+    Price: $45.99 USD
+  - [Beige / L](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt?variant=47300044062976)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/a28d6d32-45ab-4694-9786-4c9d5739099f-Max-Origin.webp?v=1763511659
+    Price: $45.99 USD
+  - [Beige / XL](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt?variant=47300044095744)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/a28d6d32-45ab-4694-9786-4c9d5739099f-Max-Origin.webp?v=1763511659
+    Price: $45.99 USD
+  - [Black / S](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt?variant=47300044128512)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/fed2810b07f04a3783ed0321a2511b62-Max-Origin.webp?v=1763511659
+    Price: $45.99 USD
+  - [Black / M](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt?variant=47300044161280)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/fed2810b07f04a3783ed0321a2511b62-Max-Origin.webp?v=1763511659
+    Price: $45.99 USD
+  - [Black / L](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt?variant=47300044194048)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/fed2810b07f04a3783ed0321a2511b62-Max-Origin.webp?v=1763511659
+    Price: $45.99 USD
+  - [Black / XL](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt?variant=47300044226816)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/fed2810b07f04a3783ed0321a2511b62-Max-Origin.webp?v=1763511659
+    Price: $45.99 USD
+- [Leopard Round Neck Raglan Sleeve Sweatshirt](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 42.5 27.2 M 25.6 44.5 27.6 L 26 46.5 28 XL 26.4 49.2 28.3 2XL 26.8 52 28.7
+  Updated: 2025-11-20T19:20:41Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/4f6ddefc4ce34eeb9d7da6a4a6b1eff7-Max-Origin.webp?v=1763511678
+  - [Grass Green / S](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300048814336)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/4f6ddefc4ce34eeb9d7da6a4a6b1eff7-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Grass Green / M](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300048847104)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/4f6ddefc4ce34eeb9d7da6a4a6b1eff7-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Grass Green / L](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300048879872)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/4f6ddefc4ce34eeb9d7da6a4a6b1eff7-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Grass Green / XL](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300048912640)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/4f6ddefc4ce34eeb9d7da6a4a6b1eff7-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Grass Green / 2XL](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300048945408)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/4f6ddefc4ce34eeb9d7da6a4a6b1eff7-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Brown / S](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300048978176)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/f149de1986b64c6e97a88e05227114c0-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Brown / M](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049010944)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/f149de1986b64c6e97a88e05227114c0-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Brown / L](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049043712)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/f149de1986b64c6e97a88e05227114c0-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Brown / XL](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049076480)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/f149de1986b64c6e97a88e05227114c0-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Brown / 2XL](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049109248)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/f149de1986b64c6e97a88e05227114c0-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Dark Gray / S](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049142016)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/29bb7357c2db4a429b77bd6ca8ab1797-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Dark Gray / M](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049174784)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/29bb7357c2db4a429b77bd6ca8ab1797-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Dark Gray / L](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049207552)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/29bb7357c2db4a429b77bd6ca8ab1797-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Dark Gray / XL](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049240320)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/29bb7357c2db4a429b77bd6ca8ab1797-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Dark Gray / 2XL](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049273088)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/29bb7357c2db4a429b77bd6ca8ab1797-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Pink / S](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049305856)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1a2aa68b2210417a903ded019ed718ef-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Pink / M](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049338624)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1a2aa68b2210417a903ded019ed718ef-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Pink / L](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049371392)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1a2aa68b2210417a903ded019ed718ef-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Pink / XL](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049404160)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1a2aa68b2210417a903ded019ed718ef-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Pink / 2XL](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049436928)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/1a2aa68b2210417a903ded019ed718ef-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Black / S](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049469696)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/636bbb206fb64d7db77e4e8b9390f3a9-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Black / M](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049502464)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/636bbb206fb64d7db77e4e8b9390f3a9-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Black / L](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049535232)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/636bbb206fb64d7db77e4e8b9390f3a9-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Black / XL](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049568000)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/636bbb206fb64d7db77e4e8b9390f3a9-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Black / 2XL](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049600768)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/636bbb206fb64d7db77e4e8b9390f3a9-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Deep Teal / S](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049633536)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Deep Teal / M](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049666304)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Deep Teal / L](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049699072)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Deep Teal / XL](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049731840)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+  - [Deep Teal / 2XL](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=47300049764608)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1763511678
+    Price: $39.06 USD
+- [Leopard Mock Neck Long Sleeve Mesh Top](https://the-stop-9142.myshopify.com/products/leopard-mock-neck-long-sleeve-mesh-top): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Waist S 24.4 31.5 24 28.3 M 25.2 33.9 24.4 30.7 L 26 36.2 24.8 33.1 XL 26.8 39.4 25.2 36.2
+  Updated: 2025-11-20T23:40:36Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/03680892b04f4181bcb46b24a0860326-Max-Origin.webp?v=1763511719
+  - [Leopard / S](https://the-stop-9142.myshopify.com/products/leopard-mock-neck-long-sleeve-mesh-top?variant=47300054941952)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/03680892b04f4181bcb46b24a0860326-Max-Origin.webp?v=1763511719
+    Price: $15.99 USD
+  - [Leopard / M](https://the-stop-9142.myshopify.com/products/leopard-mock-neck-long-sleeve-mesh-top?variant=47300054974720)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/03680892b04f4181bcb46b24a0860326-Max-Origin.webp?v=1763511719
+    Price: $15.99 USD
+  - [Leopard / L](https://the-stop-9142.myshopify.com/products/leopard-mock-neck-long-sleeve-mesh-top?variant=47300055007488)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/03680892b04f4181bcb46b24a0860326-Max-Origin.webp?v=1763511719
+    Price: $15.99 USD
+  - [Leopard / XL](https://the-stop-9142.myshopify.com/products/leopard-mock-neck-long-sleeve-mesh-top?variant=47300055040256)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/03680892b04f4181bcb46b24a0860326-Max-Origin.webp?v=1763511719
+    Price: $15.99 USD
+- [Textured Notched Raglan Sleeve Sweatshirt](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 24.8 39.4 M 25.2 40.9 L 25.6 43.3 XL 26 45.7 2XL 26.4 48
+  Updated: 2025-11-20T03:14:45Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/6dc49f782e7b43e49684b25cc34638c0-Max-Origin.webp?v=1763511749
+  - [Gray/white / S](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300060545280)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/146885da5dbc45eb9b6ea1655583b849-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Gray/white / M](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300060578048)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/146885da5dbc45eb9b6ea1655583b849-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Gray/white / L](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300060610816)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/146885da5dbc45eb9b6ea1655583b849-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Gray/white / XL](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300060643584)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/146885da5dbc45eb9b6ea1655583b849-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Gray/white / 2XL](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300060676352)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/146885da5dbc45eb9b6ea1655583b849-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Army Green / S](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300060709120)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/15e8c2a6039b498b91dd063f5a9a3472-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Army Green / M](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300060741888)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/15e8c2a6039b498b91dd063f5a9a3472-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Army Green / L](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300060774656)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/15e8c2a6039b498b91dd063f5a9a3472-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Army Green / XL](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300060807424)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/15e8c2a6039b498b91dd063f5a9a3472-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Army Green / 2XL](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300060840192)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/15e8c2a6039b498b91dd063f5a9a3472-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Black / S](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300060872960)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/6dc49f782e7b43e49684b25cc34638c0-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Black / M](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300060905728)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/6dc49f782e7b43e49684b25cc34638c0-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Black / L](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300060938496)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/6dc49f782e7b43e49684b25cc34638c0-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Black / XL](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300060971264)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/6dc49f782e7b43e49684b25cc34638c0-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Black / 2XL](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061004032)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/6dc49f782e7b43e49684b25cc34638c0-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Ivory / S](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061036800)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/30f9a612faf241738c3ec4ac0b634de4-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Ivory / M](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061069568)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/30f9a612faf241738c3ec4ac0b634de4-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Ivory / L](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061102336)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/30f9a612faf241738c3ec4ac0b634de4-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Ivory / XL](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061135104)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/30f9a612faf241738c3ec4ac0b634de4-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Ivory / 2XL](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061167872)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/30f9a612faf241738c3ec4ac0b634de4-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Brown / S](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061200640)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/85ea8ff020974c178499eb41ca357b98-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Brown / M](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061233408)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/85ea8ff020974c178499eb41ca357b98-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Brown / L](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061266176)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/85ea8ff020974c178499eb41ca357b98-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Brown / XL](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061298944)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/85ea8ff020974c178499eb41ca357b98-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Brown / 2XL](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061331712)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/85ea8ff020974c178499eb41ca357b98-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Gray / S](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061364480)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/a80f44097b4d4dffbae172f69891bcdb-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Gray / M](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061397248)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/a80f44097b4d4dffbae172f69891bcdb-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Gray / L](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061430016)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/a80f44097b4d4dffbae172f69891bcdb-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Gray / XL](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061462784)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/a80f44097b4d4dffbae172f69891bcdb-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Gray / 2XL](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061495552)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/a80f44097b4d4dffbae172f69891bcdb-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Blue / S](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061528320)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/4e8e61a9471d4e0cac2ea6fdc873f7d0-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Blue / M](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061561088)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/4e8e61a9471d4e0cac2ea6fdc873f7d0-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Blue / L](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061593856)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/4e8e61a9471d4e0cac2ea6fdc873f7d0-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Blue / XL](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061626624)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/4e8e61a9471d4e0cac2ea6fdc873f7d0-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
+  - [Blue / 2XL](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt?variant=47300061659392)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/4e8e61a9471d4e0cac2ea6fdc873f7d0-Max-Origin.webp?v=1763511749
+    Price: $32.99 USD
 
 ## Collections
 
 - [Products - Couture](https://the-stop-9142.myshopify.com/collections/products): - Couture
-  Updated: 2025-11-18T02:51:31Z
-  Total Products: 26
+  Updated: 2025-11-19T00:22:29Z
+  Total Products: 33
+- [Tops - Couture](https://the-stop-9142.myshopify.com/collections/tops): - Couture
+  Updated: 2025-11-19T00:24:39Z
+  Total Products: 15
+- [Bottoms - Couture](https://the-stop-9142.myshopify.com/collections/bottoms): - Couture
+  Updated: 2025-11-19T00:25:12Z
+  Total Products: 8
+- [Purses - Couture](https://the-stop-9142.myshopify.com/collections/purses): - Couture
+  Updated: 2025-11-19T00:25:37Z
+  Total Products: 8
+- [Shoes - Couture](https://the-stop-9142.myshopify.com/collections/shoes): - Couture
+  Updated: 2025-11-19T00:26:12Z
+  Total Products: 1
 
 ## Store Pages
 
