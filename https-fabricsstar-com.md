@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-11-20T00:00:54.652Z
+- Updated At: 2025-11-21T00:00:35.038Z
 
 ## Products
 
@@ -217,7 +217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/61KKboPNG1L._AC.jpg?v=1757517100
     Price: $1.00 USD
 - [Sensory Wall Reversible Sequin Fabric - Arts & Crafts | Fabrics Star](https://fabricsstar.com/products/sensory-wall-reversible-sequin-fabric): Bring fun and creativity to your projects with Sensory Wall Reversible Sequin Fabric from Fabrics Star. Available in 5 colors, this fabric is easy to flip!
-  Updated: 2025-11-16T16:30:43Z
+  Updated: 2025-11-20T15:54:37Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/White.jpg?v=1757517222
     Price: $1.00 USD
 - [Brocade Velvet Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/brocade-scroll-velvet-fabric): Add a touch of sophistication to your upholstery projects with Brocade Scroll Velvet Fabric from Fabrics Star. Buy brocade velvet fabric for premium quality fabric.
-  Updated: 2025-11-17T19:24:17Z
+  Updated: 2025-11-20T23:28:01Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-11-18T02:33:02Z
+  Updated: 2025-11-20T15:47:17Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -3109,7 +3109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CAMBRIDGE-PURPLE-551-1.jpg?v=1757517618
     Price: $1.00 USD
 - [Vails Brocade Velvet Fabric, 72" Wide for Home Decor](https://fabricsstar.com/products/vails-brocade-velvet-fabric-72-inch-in-width-ideal-for-home-decor): Shop Vails Brocade Velvet Fabric, 72 Inch in Width. Ideal embossed material sold by the yard, cut to order for all your home decor needs.
-  Updated: 2025-11-18T06:20:06Z
+  Updated: 2025-11-20T20:41:20Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -4669,7 +4669,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FIESTA-SILVER-WHITE-3.jpg?v=1757518017
     Price: $1.00 USD
 - [SPRINKLE Two Size Sequin Fabric on Sheer Material ,2- Way Stretch, 52 Inch. In Width, | Home Decor](https://fabricsstar.com/products/srinkle-two-size-sequin-fabric-on-sheer-material-2-way-stretch-52-inch-in-width-home-decor): DIMENSION - Size of the fabric is 52 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 52' x 36'. Order of 3 yards (Qty=3) is 52’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL - The sequin fabric by the yard is made of 100% polyester. It has a mesh 2-way stretch base and is embellished with sequins. It's recommended to hand wash the fabric with cold water to maintain its quality. GREAT FOR DECORATION - Sequin fabric is a stunning and attractive material that is perfect for decorating weddings, Halloween parties, birthdays, bridal and baby showers, parties, backdrops, celebrations, holidays, graduations, and other special events. Its sparkle adds a touch of glamour to any occasion! GREAT FOR SEWING - Sequin fabric is an ideal fabric for sewing projects due to its ease of cutting. It can be used for a wide range of DIY, arts & crafts and sewing needs, including dresses, skirts, mermaid dresses, pillows, costumes, tablecloths, table runners, curtains, hats, headbands, shoes, bags, and much more. Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-11-16T18:31:21Z
+  Updated: 2025-11-20T12:29:27Z
   Vendor: Fabrics Star
   Product Type: Sequin Mesh Fabric
   Availability: Available
@@ -8055,7 +8055,7 @@
     Availability: Available
     Price: $1.00 USD
 - [AINSLEY Embroidered Sheer Sequin Fabric, 54 Inch. in Width](https://fabricsstar.com/products/ainsley)
-  Updated: 2025-11-12T16:00:30Z
+  Updated: 2025-11-20T17:20:34Z
   Vendor: Fabrics Star
   Product Type: Sequin Mesh Fabric
   Availability: Available
@@ -9748,34 +9748,34 @@
   Updated: 2025-11-17T12:14:05Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-11-18T12:15:16Z
+  Updated: 2025-11-20T23:11:57Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-11-19T12:15:44Z
   Total Products: 32
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard](https://fabricsstar.com/collections/jacquards-fabrics): Explore premium jacquard fabrics at Fabrics Star. Buy jacquard fabric online for exquisite designs and top-notch quality, perfect for your next project!
-  Updated: 2025-11-19T12:15:44Z
+  Updated: 2025-11-20T23:16:53Z
   Total Products: 219
 - [Digital Print Fabric by the Yard | Digital Fabric Printing - Fabrics Star](https://fabricsstar.com/collections/digital-print-fabric): Discover stunning digital print fabric at Fabrics Star. Shop high-quality materials with vibrant designs, perfect for your creative projects and digital fabric printing.
-  Updated: 2025-10-28T14:39:48Z
+  Updated: 2025-11-20T23:16:54Z
   Total Products: 38
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard - Fabrics Star](https://fabricsstar.com/collections/jacquard-print-fabric): Shop elegant jacquard print fabric at Fabrics Star. Discover unique designs and premium-quality jacquard print materials for your creative projects!
-  Updated: 2025-10-23T17:10:48Z
+  Updated: 2025-11-20T23:16:59Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-11-19T12:15:44Z
+  Updated: 2025-11-20T23:16:59Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-11-19T12:15:44Z
+  Updated: 2025-11-20T23:16:59Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-11-19T12:15:44Z
+  Updated: 2025-11-20T23:16:59Z
   Total Products: 534
 - [72](https://fabricsstar.com/collections/72)
   Updated: 2025-11-18T12:15:16Z
   Total Products: 12
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-11-19T12:15:44Z
+  Updated: 2025-11-20T23:16:59Z
   Total Products: 666
 
 ## Blogs
