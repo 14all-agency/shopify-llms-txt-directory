@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-09-05T05:49:56Z
 - Contact Email: sales@ultraiser.com
-- Updated At: 2025-11-20T00:00:26.988Z
+- Updated At: 2025-11-21T00:00:27.107Z
 
 The ULTRAISER is a portable HIFU (High-Intensity Focused Ultrasound) machine designed for home use, focusing on anti-aging and skin smoothing treatments. It is available for purchase online.
 
@@ -156,6 +156,9 @@ The ULTRAISER is a portable HIFU (High-Intensity Focused Ultrasound) machine des
     Author: Ultraiser HIFU
   - [Announcing Our Anti-Wrinkle Contest Winner!](https://www.ultraiser.com/blogs/news/announcing-our-anti-wrinkle-contest-winner): <p>A huge thank you to everyone who entered our <b>Skin Care Anti-Wrinkle Contest</b>! We were overwhelmed by the response and are thrilled to announce that the winner.</p>
     Updated: 2025-09-22T04:39:47Z
+    Author: Doo Won Choi
+  - [Black Friday Special - 10% Off All Ultraiser Products!](https://www.ultraiser.com/blogs/news/black-friday-special-10-off-all-ultraiser-products): <p>Enjoy 10% OFF Storewide! Valid now through December 6th, 2025. We are offering a 10% discount on our entire lineup of premium products.</p>
+    Updated: 2025-11-20T11:19:06Z
     Author: Doo Won Choi
 - [Glossary](https://www.ultraiser.com/blogs/glossary)
   - [HIFU (High-Intensity Focused Ultrasound)](https://www.ultraiser.com/blogs/glossary/hifu-high-intensity-focused-ultrasound): <p><span>HIFU is a non-invasive treatment using focused ultrasound to heat deep tissue, boosting collagen and elastin for skin tightening, lifting, and medical use.</span></p>
