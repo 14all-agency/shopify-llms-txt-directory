@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-01-11T16:47:40Z
 - Contact Email: info@alhalalcosmetics.nl
-- Updated At: 2025-11-20T02:26:42.980Z
+- Updated At: 2025-11-21T00:01:13.521Z
 
 ## Products
 
@@ -928,8 +928,8 @@
 - [Vegan nagellak en biologische nagellak - halal cosmetics](https://alhalalcosmetics.nl/collections/vegan-nagellak): Shop vegan nagellak  en biologische nagellak bij Al Halal Cosmetics. Onze waterdoorlatende en ademende nagellak is 100% halal, wudu-proof en verkrijgbaar in prachtige kleuren.
   Updated: 2025-11-12T17:59:08Z
   Total Products: 40
-- [Zuurstofdoorlatende Nagellak: De Gezonde Keuze voor Halal & Wudu](https://alhalalcosmetics.nl/collections/zuurstofdoorlatende-nails-polish): Shop nu zuurstofdoorlatende Halal nagellak die je nagels laat ademen. Halal, vegan en gezond voor je nagels – perfect bij kalknagels of gevoelige nagels.
-  Updated: 2025-11-17T08:53:38Z
+- [Zuurstofdoorlatende Nagellak: Halal en alcoholvrij](https://alhalalcosmetics.nl/collections/zuurstofdoorlatende-nagellak): Shop nu zuurstofdoorlatende Halal nagellak die je nagels laat ademen. Halal, vegan en gezond voor je nagels – perfect bij kalknagels of gevoelige nagels.
+  Updated: 2025-11-20T09:57:46Z
   Total Products: 42
 - [wasserdurchlässiger nagellack  - Halal Nagellack](https://alhalalcosmetics.nl/collections/wasserdurchlassiger-nagellack): Unsere Nagellacke Sophia und Shajia Halal sind 100 % wasserdurchlässige Nagellack. Jetzt sauerstoffdurchlässigen Nagellack kaufen.
   Updated: 2025-11-06T02:18:43Z
