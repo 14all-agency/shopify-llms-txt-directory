@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-11-20T00:00:25.486Z
+- Updated At: 2025-11-21T00:00:54.494Z
 
 ## Products
 
@@ -76,12 +76,12 @@
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/bio20320wh_flame_60612.webp?v=1753873581
   Price: 1.399,00 € EUR
 - [Bio Ethanolkamin freistehend schwarz kaufen☝hier im Shop](https://www.pelios.de/products/topeka-freistehender-schwarzer-biokamin): Bio Ethanolkamin freistehend schwarz ➥ Dieser freistehende Biokamin ist perfekt zum Trennen von zwei Räumen ✓ Indoor-Standkamin von ScandiFlames
-  Updated: 2025-10-27T07:09:46Z
+  Updated: 2025-11-20T18:39:53Z
   Vendor: ScandiFlames
   Product Type: 3-seitiger Ethanol Einbaukamin, Freistehender Ethanol Kamin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/bio20216bk_51600.webp?v=1753873562
-  Price: 1.599,00 € EUR
+  Price: 1.499,00 € EUR
 - [Ethanolkamin freistehend weiß kaufen☝ Bioethanol-Standkamin](https://www.pelios.de/products/lansing-bioethanol-standkamin-weiss): Ethanolkamin freistehend weiß kaufen ★ 3,5-Liter-Brenner mit bis zu 7,5 Stunden Brenndauer ✓ 3,3 kW Wärmeleistung ✓ 1m breit ✓ Marke ScandiFlames
   Updated: 2025-10-27T06:56:34Z
   Vendor: ScandiFlames
@@ -97,12 +97,12 @@
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/scandiflames_electric_wall_mounted_fireplace_azurite_127cm_white__1__57338.webp?v=1753873509
   Price: 999,00 € EUR
 - [Elektro-Wandkamin mit Heizung kaufen☝über 2m breit](https://www.pelios.de/products/azurite-213-cm-elektro-wandkamin-schwarz): Elektro-Wandkamin mit Heizung kaufen 213 cm in schwarz ✓ ohne Brandgefahr ✓ 9 Flammenfarbkombinationen ✓ zwei Heizstufen: 750W oder 1500W ✓ Timerfunktion ✓
-  Updated: 2025-10-27T03:11:42Z
+  Updated: 2025-11-20T18:23:39Z
   Vendor: ScandiFlames Electric
   Product Type: Elektro Wandkamin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/scandiflames_electric_fireplace_wall_mounted_azurite_213cm__1__57333.webp?v=1753873494
-  Price: 1.595,00 € EUR
+  Price: 1.495,00 € EUR
 - [Elektro Wandkamin kaufen ☝ Feroza 137 cm in schwarz](https://www.pelios.de/products/feroza-137-cm-elektro-wandkamin-schwarz): Elektro Wandkamin kaufen ➥ Der elektrische Wandkamin Feroza benötigt nur Strom, ohne Brandgefahr und kann in 3 Farben eingestellt werden. 750 oder 1500 W.
   Updated: 2025-10-27T03:05:06Z
   Vendor: ScandiFlames Electric
@@ -230,7 +230,7 @@
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/decoration_stone_bioethanol_fireplace_45435.webp?v=1759855680
   Price: 75,00 € EUR
 - [Dakota - 3-seitiger Bio-Ethanol-Wandkamin in schwarz o. weiß](https://www.pelios.de/products/dakota-3-seitiger-schwarz-wandkamin): Dreiseitiger Bioethanol-Wandkamin aus schwarzem, pulverbeschichtetem Stahl inkl. 3,5-Liter-Brenner mit breiter Flamme und langer Brenndauer. Hauptspezifikationen Produkttyp Bioethanol Wandkamin Marke ScandiFlames Verwendung Indoor Garantie 2 Jahre Maße & Gewicht Länge/Breite 80 cm Höhe 60 cm Tiefe 30 cm Gewicht 27 kg Technische Spezifikationen Mindestraumgröße 70 m³ Brennstoff Bioethanol Brenndauer bis zu 7,5 Stunden Kapazität 3,5 Liter Wärmeleistung (Max.) 3,3 kW Verbrauch 0,46 L/Stunden Empfohlener Luftaustausch 1 Brennkammerrspezifikationen Einstellbar Ja Steuerung Manuell Flammelänge 45 cm Brennkammermodell 3,5 Liter Superior Fernbedienung Nein Material und Aussehen Material Stahl Farbe Schwarz Form Rechteckig Inklusive Scheibe Ja Installationsdetails Abzug/Schornstein Nicht erforderlich Stromanforderungen Nein
-  Updated: 2025-11-11T15:58:22Z
+  Updated: 2025-11-20T16:56:40Z
   Vendor: ScandiFlames
   Product Type: Bioethanol Wandkamin
   Availability: Available
@@ -238,11 +238,11 @@
   - [Schwarz](https://www.pelios.de/products/dakota-3-seitiger-schwarz-wandkamin?variant=52070404915539)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/bio10049_51655.webp?v=1759858094
-    Price: 985,00 € EUR
+    Price: 955,00 € EUR
   - [Weiß](https://www.pelios.de/products/dakota-3-seitiger-schwarz-wandkamin?variant=52070404948307)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/tre_sidet_hvid_vaegpejs_80_cm_bio10049wh_1__45320_54f41071-0f9c-4d23-89b7-698446f215b1.webp?v=1759858596
-    Price: 985,00 € EUR
+    Price: 955,00 € EUR
 - [Keramikhölzer zur Deko für Muztag Gaskamine](https://www.pelios.de/products/keramikholzer-fur-muztag-gaskamine): ProduktübersichtMöchten Sie Ihrem Muztag Gaskamin einen neuen Look verpassen? Dann haben Sie mit dieser Keramik-Holz Version jetzt die Möglichkeit.
   Updated: 2025-11-11T15:58:23Z
   Vendor: Muztag
@@ -270,22 +270,22 @@
   Updated: 2025-11-11T15:58:21Z
   Total Products: 2
 - [Ethanolkamin kaufen ☝ hier günstig im Qualitäts-Shop](https://www.pelios.de/collections/ethanolkamin): Ethanolkamin kaufen ★ mega Qualität und schnelle Lieferung garantiert ✔ ausschließlich Bioethanol, das speziell für Ethanol-Kamine hergestellt wurde
-  Updated: 2025-11-19T22:13:00Z
+  Updated: 2025-11-20T18:39:54Z
   Total Products: 12
 - [Elektrokamin kaufen ☝ hier günstig im Qualitäts-Shop](https://www.pelios.de/collections/elektrokamin): Elektrokamin kaufen ★ Pelios ist Ihr Vertriebspartner für hochwertige Elektro-Kamine führender Marken - große Auswahl von traditionell bis modern.
-  Updated: 2025-11-11T15:58:21Z
+  Updated: 2025-11-20T18:23:40Z
   Total Products: 3
 - [Terrassenheizung, angenehme Wärme für den Outdoor-Bereich](https://www.pelios.de/collections/terassenheizung): Terrassenheizung, Elegant oder modern – ob Heizstrahler im klassischen Stil oder Heizbänder im minimalistischen Look: hier findet jeder sein Reichweitendesign
   Updated: 2025-11-12T12:27:44Z
   Total Products: 8
 - [geeignet bis 15 qm](https://www.pelios.de/collections/geeignet-bis-15-qm)
-  Updated: 2025-11-11T15:58:21Z
+  Updated: 2025-11-20T18:23:40Z
   Total Products: 3
 - [bis 20 qm](https://www.pelios.de/collections/bis-20-qm)
   Updated: 2025-11-19T22:13:00Z
   Total Products: 4
 - [bis 30 qm](https://www.pelios.de/collections/bis-25-qm)
-  Updated: 2025-11-11T15:58:21Z
+  Updated: 2025-11-20T18:39:54Z
   Total Products: 8
 - [bis 100qm](https://www.pelios.de/collections/bis-100qm)
   Updated: 2025-11-11T15:58:21Z
@@ -297,19 +297,19 @@
   Updated: 2025-11-14T15:15:58Z
   Total Products: 1
 - [Wandmontage](https://www.pelios.de/collections/wandmontage)
-  Updated: 2025-11-11T15:58:22Z
+  Updated: 2025-11-20T18:23:40Z
   Total Products: 8
 - [Raumteiler](https://www.pelios.de/collections/raumteiler)
-  Updated: 2025-11-11T15:58:22Z
+  Updated: 2025-11-20T18:39:54Z
   Total Products: 2
 - [außen](https://www.pelios.de/collections/aussen)
   Updated: 2025-11-12T12:27:44Z
   Total Products: 7
 - [ohne Rauch](https://www.pelios.de/collections/ohne-rauch)
-  Updated: 2025-11-19T22:13:00Z
+  Updated: 2025-11-20T18:39:54Z
   Total Products: 14
 - [ohne Strom](https://www.pelios.de/collections/ohne-strom)
-  Updated: 2025-11-19T22:13:00Z
+  Updated: 2025-11-20T18:39:54Z
   Total Products: 11
 - [Infrarot](https://www.pelios.de/collections/infrarot)
   Updated: 2025-11-11T15:58:22Z
