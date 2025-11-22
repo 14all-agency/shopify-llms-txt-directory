@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-11-20T00:00:40.522Z
+- Updated At: 2025-11-22T00:00:40.013Z
 
 ## Products
 
@@ -671,7 +671,7 @@
   Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/BBBUG-BULLDOG-SOAP-2025.jpg?v=1742486577
   Price: $12.95 USD
 - [Blissful Nose Butter – Moisturizing Balm for Dry Dog Noses](https://theblissfulpets.com/products/just-a-nose-butter): Soothe and moisturize your dog’s dry, crusty nose with Blissful Nose Butter – a natural, gentle balm loved by pets of all breeds.
-  Updated: 2025-11-14T17:27:39Z
+  Updated: 2025-11-20T22:18:26Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1574,14 +1574,14 @@
   Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/page-16.jpg?v=1731955311
   Price: $29.95 USD
 - [The Blissful Dog Holiday Tube Combo, Dog Stocking Stuffer](https://theblissfulpets.com/products/the-blissful-dog-holiday-tube-combo-dog-stocking-stuffer): Our 3-Cute Puppies Tube Combo is perfect for multi-dog households, dog lovers gifts, and anyone who loves cute puppies! This combo contains 4 - .15oz Tubes, these are lip balm-sized tubes aka Chapstick sized. Perfect Holiday Gifts for your dog. Combo Includes Nose, Paw, Elbow & Boo Boo Butter. Nose & Boo Boo Butter has 3-Cute Puppies Label. Paw Butter and Elbow Butter as shown. Includes tips, hints and directions brochure, Gift Box with Holiday Ribbon & Hanger for on tree.
-  Updated: 2025-11-19T18:39:10Z
+  Updated: 2025-11-20T05:07:51Z
   Vendor: The Blissful Pets
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/page-1.jpg?v=1731956132
   Price: $19.95 USD
 - [The Blissful Cat Holiday Tube Combo, Cat Stocking Stuffer](https://theblissfulpets.com/products/the-blissful-cat-holiday-tube-combo-cat-stocking-stuffer): Our Cat Tube Combo is perfect for multi-cat households, cat lovers gifts, and anyone who loves cute cats! This combo contains 3 - .15oz Tubes, these are lip balm-sized tubes aka Chapstick sized. Perfect Holiday Gifts for your cat. Combo Includes Nose, Paw & Boo Boo Butter. Includes tips, hints and directions brochure, Gift Box with Holiday Ribbon & Hanger for on tree.
-  Updated: 2025-11-19T18:46:57Z
+  Updated: 2025-11-20T06:54:10Z
   Vendor: The Blissful Pets
   Product Type: 
   Availability: Available
@@ -1597,10 +1597,10 @@
   Updated: 2025-11-19T18:35:54Z
   Total Products: 8
 - [Dog Grooming](https://theblissfulpets.com/collections/dog-grooming)
-  Updated: 2025-11-18T12:23:28Z
+  Updated: 2025-11-21T12:22:41Z
   Total Products: 19
 - [Shop All Dog](https://theblissfulpets.com/collections/shop-all-dog)
-  Updated: 2025-11-19T18:35:54Z
+  Updated: 2025-11-21T12:22:41Z
   Total Products: 37
 - [Sensitive Skin](https://theblissfulpets.com/collections/sensitive-skin)
   Updated: 2025-11-08T12:26:09Z
