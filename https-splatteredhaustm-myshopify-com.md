@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-25T14:09:39Z
 - Contact Email: splatteredhaus@gmail.com
-- Updated At: 2025-11-21T00:00:55.132Z
+- Updated At: 2025-11-22T00:00:41.048Z
 
 ## Products
 
@@ -1745,12 +1745,12 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371439.jpg?v=1763232386
     Price: $81.33 USD
 - [Punk Rock Love Letter Round Square Pendant Chunky Necklace Lover](https://splatteredhaustm.myshopify.com/products/punk-rock-love-letter-round-square-pendant-chunky-necklace-lover-hip-hop-jewelry): Length:49cm - Splattered Haus TM
-  Updated: 2025-11-20T17:16:11Z
+  Updated: 2025-11-21T17:18:10Z
   Vendor: Feelontop Jewellery
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/6_9758178e-23aa-4ae7-85f9-d8a24ac7c459.jpg?v=1763232423
-  Price: $2.49 USD
+  Price: $2.47 USD
 - [9mm Square Necklace Chain Men's Hip Hop Link Finish Zirconia Copper](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry): 9mm Square Necklace Chain Men's Hip Hop Link Finish Zirconia Copper Gold Color Fashion Rock Jewelry  - Splattered Haus TM
   Updated: 2025-11-17T07:35:29Z
   Vendor: Vimost Shop
@@ -3042,7 +3042,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1763233146
     Price: $125.48 USD
 - [Hand holding Dollar Pouch Dripping Pendant Men's Gold Color Necklace](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry): Hand holding Dollar Pouch Dripping Pendant Men's Gold Color Necklace Charm Bling Bling Cubic Zircon  - Splattered Haus TM
-  Updated: 2025-11-17T07:40:00Z
+  Updated: 2025-11-21T05:44:08Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -3050,43 +3050,43 @@
   - [gold color / Cuban chain / United States, 18inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953284410)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
-    Price: $40.46 USD
+    Price: $40.68 USD
   - [gold color / Rope chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953317178)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
-    Price: $40.46 USD
+    Price: $40.68 USD
   - [gold color / Rope chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953349946)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
-    Price: $40.59 USD
+    Price: $40.81 USD
   - [gold color / 4mm tennis chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953382714)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
-    Price: $67.81 USD
+    Price: $69.18 USD
   - [gold color / 4mm tennis chain / United States, 18inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953415482)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
-    Price: $55.22 USD
+    Price: $56.33 USD
   - [gold color / 4mm tennis chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953448250)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
-    Price: $73.79 USD
+    Price: $69.24 USD
   - [gold color / 5mm tennis chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953481018)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
-    Price: $68.01 USD
+    Price: $69.38 USD
   - [gold color / 5mm tennis chain / United States, 18inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953513786)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
-    Price: $55.42 USD
+    Price: $56.53 USD
   - [gold color / 5mm tennis chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953546554)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
-    Price: $73.99 USD
+    Price: $69.43 USD
   - [gold color / Cuban chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953579322)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
-    Price: $40.46 USD
+    Price: $40.68 USD
 - [Gold Color Pineapple shape Necklace & Pendant With 4mm Tennis Chain](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm): Brand Name: Bubble letter Metals Type: Copper Gender: Men Necklace Type: Pendant Necklaces Style:  - Splattered Haus TM
   Updated: 2025-11-17T07:40:23Z
   Vendor: Vimost Shop
@@ -3218,7 +3218,7 @@
   Updated: 2025-11-15T06:38:09Z
   Total Products: 1
 - [OPEN - Best Sellers - Splattered Haus TM](https://splatteredhaustm.myshopify.com/collections/open-best-sellers): Explore the Best Sellers from OPEN Why You Should Check Out OPEN - Best Sellers OPEN - Best Sellers  - Splattered Haus TM
-  Updated: 2025-11-20T17:16:12Z
+  Updated: 2025-11-21T17:18:11Z
   Total Products: 77
 - [staff picks - Splattered Haus TM](https://splatteredhaustm.myshopify.com/collections/staff-picks): - Splattered Haus TM
   Updated: 2025-11-15T06:38:07Z
