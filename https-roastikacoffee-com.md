@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-09-11T02:03:25Z
 - Contact Email: info@roastikacoffee.com
-- Updated At: 2025-11-19T00:00:48.739Z
+- Updated At: 2025-11-22T00:01:13.987Z
 
 ## Products
 
@@ -161,12 +161,30 @@
   - [20lbs bag - $$7.25/lb](https://roastikacoffee.com/products/brazil-cerrado?variant=46857061531892)
     Availability: Available
     Price: $141.06 USD
+- [Colombia Supremo Green Coffee Beans -  Natural Process | ROASTIKA](https://roastikacoffee.com/products/decaf-colombia-natural-process): Explore Roastika's Colombia Supremo green coffee beans from Bucaramanga. Premium Arabica, natural process for rich flavor, perfect for home roasting or cafés.
+  Updated: 2025-11-21T21:11:38Z
+  Vendor: Roastika
+  Product Type: Arabica
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/5018/9812/files/Main_Pics_1bed8483-c07b-49fb-b344-5b7ccf12e1ed.png?v=1763753597
+  - [Lowest](https://roastikacoffee.com/products/decaf-colombia-natural-process?variant=47212410044660)
+    Availability: Not Available
+    Price: $9.45 USD
+  - [5 lb. Bag - $12.01/lb](https://roastikacoffee.com/products/decaf-colombia-natural-process?variant=47212410077428)
+    Availability: Available
+    Price: $60.03 USD
+  - [10 lb. Bag - $10.69/lb](https://roastikacoffee.com/products/decaf-colombia-natural-process?variant=47212410110196)
+    Availability: Available
+    Price: $106.92 USD
+  - [20 lb. Bag - $9.45/lb](https://roastikacoffee.com/products/decaf-colombia-natural-process?variant=47212410142964)
+    Availability: Available
+    Price: $189.00 USD
 
 ## Collections
 
 - [Fresh Unroasted Green Coffee Beans in Bulk](https://roastikacoffee.com/collections/unroasted): Shop specialty-grade unroasted green coffee beans for home roasting—origins from Ethiopia, Colombia, Brazil and more. Bulk options and fast shipping.
-  Updated: 2025-11-18T12:27:15Z
-  Total Products: 16
+  Updated: 2025-11-21T19:33:17Z
+  Total Products: 17
 - [Premium Roasted Coffee Bean Collection](https://roastikacoffee.com/collections/roasted): Indulge in the rich aroma of freshly roasted coffee beans with our premium selection. Experience true quality and exceptional flavor.
   Updated: 2025-10-24T19:17:30Z
   Total Products: 8
@@ -174,14 +192,14 @@
   Updated: 2025-10-24T19:17:30Z
   Total Products: 2
 - [All Collection Products Green Coffee and Roasted Coffee](https://roastikacoffee.com/collections/all-collection-products): Discover our collection of premium Green Coffee and Roasted Coffee products for an unparalleled coffee experience.
-  Updated: 2025-11-18T12:27:15Z
-  Total Products: 25
+  Updated: 2025-11-21T19:33:17Z
+  Total Products: 26
 - [Shop the Best Green Coffee Products Online](https://roastikacoffee.com/collections/all): Discover a variety of high-quality green coffee products to elevate your morning routine and energize your day.
-  Updated: 2025-11-18T12:27:15Z
-  Total Products: 25
+  Updated: 2025-11-21T19:33:17Z
+  Total Products: 26
 - [Colombia Green Coffee Beans Collection](https://roastikacoffee.com/collections/colombia): Discover Colombia's finest green coffee beans in our exclusive collection. Rich flavor profiles and high quality guaranteed. Shop now!
-  Updated: 2025-11-17T12:28:28Z
-  Total Products: 2
+  Updated: 2025-11-21T19:33:17Z
+  Total Products: 3
 - [Ethiopia Green Coffee Beans Collection](https://roastikacoffee.com/collections/ethiopia): Discover Ethiopian green coffee—Yirgacheffe, Sidamo, Guji. Floral, citrus, and berry notes with a tea-like body; specialty unroasted beans for home roasting.
   Updated: 2025-11-11T12:28:14Z
   Total Products: 2
@@ -237,6 +255,9 @@
     Author: Roastika
   - [Problems and Solutions in the Unroasted Green Coffee Supply Chain](https://roastikacoffee.com/blogs/news/problems-and-solutions-in-the-unroasted-green-coffee-supply-chain): Problems and Solutions in the Unroasted Green Coffee Supply Chain
     Updated: 2025-11-16T20:01:10Z
+    Author: Roastika
+  - [Key Differences in Green Coffee Harvesting Across Various Origins](https://roastikacoffee.com/blogs/news/key-differences-in-green-coffee-harvesting-across-various-origins): Key Differences in Green Coffee Harvesting Across Various Origins
+    Updated: 2025-11-21T20:01:14Z
     Author: Roastika
 
 ## Store Pages
