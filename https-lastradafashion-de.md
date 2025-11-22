@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-11-21T00:00:47.191Z
+- Updated At: 2025-11-22T00:00:52.723Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
@@ -55,7 +55,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11311145.jpg?v=1727093923
     Price: 25,00 € EUR
 - [Spitzentop in Seidenoptik](https://lastradafashion.de/products/top-mit-spitze): Zart, feminin und luxuriös – dieses Top in edler Seidenoptik bringt romantischen Charme und modische Raffinesse perfekt zusammen. Die feine florale Spitze am tiefen V-Ausschnitt und den Trägern verleiht dem Look eine sinnliche Note, während die fließende Qualität sanft die Figur umspielt. Der raffinierte Schnitt mit zartem Faltenwurf unterhalb der Brust sorgt für eine schmeichelnde Silhouette. Dieses Top ist ein vielseitiger Styling-Partner mit femininer Ausstrahlung. Ein Must-have für jeden Kleiderschrank. Materialzusammensetzung 60 % Viskose 40 % Polyester Pflegehinweis Schonwaschgang bei 30 °C nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln nicht chemisch reinigen Passform und Schnitt Lockerer, kastiger Schnitt mit leicht verkürztem Saum und Ballonärmeln Materialqualität Leicht, weich, fließend, leicht transparent Verarbeitung Glänzender Stoff in Seidenoptik, florale Spitzenborte
-  Updated: 2025-11-20T19:56:27Z
+  Updated: 2025-11-21T09:26:42Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -435,7 +435,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/grosse-blumen-brosche-la-strada-9.jpg?v=1719331925
     Price: 12,00 € EUR
 - [Elegantes Feinstrick-Shirt](https://lastradafashion.de/products/elegantes-feinstrick-shirt): Eleganz in ihrer pursten Form: Das Feinstrick-Shirt begeistert mit seiner cleanen Silhouette und dem edlen Look. Der weich fließende V-Ausschnitt bringt feminine Raffinesse ins Spiel, während der körpernahe, aber nicht anliegende Schnitt angenehm schmeichelt. Die glatte Feinstrick-Optik wirkt besonders hochwertig und sorgt in Kombination mit den schmalen, langen Ärmeln für eine stilvolle Linienführung. Dank des edlen Materials trägt sich das Shirt besonders angenehm auf der Haut und bietet hohen Tragekomfort – perfekt für den Alltag und elegante Anlässe. Ein dezentes Highlight, das in keiner stilbewussten Garderobe fehlen darf – ein echtes Must-have!
-  Updated: 2025-11-19T11:25:21Z
+  Updated: 2025-11-21T14:55:05Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -682,7 +682,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwMjg5MTguanBn.jpg?v=1733129297
     Price: 15,90 € EUR
 - [Feinstrickpullover](https://lastradafashion.de/products/basic-feinstrickpullover): Ein modernes Essential mit femininer Silhouette – dieser Pullover besticht durch seine klare Linie und das weiche, feine Maschenbild. Der klassische Rundhalsausschnitt wird durch die angeschnittenen Fledermausärmel und die umschmeichelte Taille stilvoll kontrastiert. Die leicht verkürzte, körpernahe Passform am Saumverlauf lässt sich ideal zu High-Waist-Hosen oder Röcken kombinieren und zaubert eine elegante Kontur. Dieser Pullover begleitet dich stilvoll durch jeden Tag. Ein Must-have für elegante Wohlfühlmomente.
-  Updated: 2025-11-20T17:41:10Z
+  Updated: 2025-11-21T16:42:02Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -742,7 +742,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NjEzMzkuanBn.jpg?v=1740491944
     Price: 139,00 € EUR
 - [Sweatshirt mit Blüten-Applikation](https://lastradafashion.de/products/sweatshirt-mit-blueten-applikation): Lässig trifft luxuriös: Das Sweatshirt verleiht deinem Casual-Look ein stilvolles Update, es wird durch die große Blüten-Applikation mit plastischen Blütenblättern und funkelndem Strass-Mittelpunkt zum echten Eyecatcher. Der klassische Rundhalsausschnitt und die gerade, leicht verkürzte Passform sorgen für eine moderne Silhouette mit Wohlfühlfaktor. Ein Highlight für alle, die Alltag mit Glamour verbinden möchten – ideal zu Jeans, Stoffhose oder Rock kombinierbar. Ein Fashion-Piece mit besonderem Charme – dieses Sweatshirt ist ein stilvolles Must-have für deine Garderobe.
-  Updated: 2025-11-20T15:55:31Z
+  Updated: 2025-11-21T16:42:06Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
