@@ -6,19 +6,19 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-06-07T09:35:30Z
 - Contact Email: afshaparfumsofficial@gmail.com
-- Updated At: 2025-11-21T00:01:00.530Z
+- Updated At: 2025-11-22T00:00:26.367Z
 
 ## Products
 
 - [Shop Now: Casanova by Afsha Parfums - Best Dubai Perfume in India for Unmatched Charisma](https://afshaparfums.in/products/casanova-luxury-perfume-in-india): Discover and shop Casanova by Afsha Parfums, a rare and alluring fragrance that embodies charisma like a crimson moon. Perfect for those who seek a unique scent experience. Explore the best Dubai perfume in India that leaves a lasting impression.
-  Updated: 2025-11-18T05:03:25Z
+  Updated: 2025-11-21T10:15:57Z
   Vendor: Afsha Parfums
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/0319/0461/files/DSC_5656copy.png?v=1717755335
   Price: ₹1,799.00 INR
 - [Shop Now Opulent Oud by Afsha Parfums - Best Premium Dubai Perfume in India](https://afshaparfums.in/products/opulent-oud-luxury-perfume-in-india): Discover true elegance with Opulent Oud by Afsha Parfums, a sophisticated fragrance crafted for those who cherish luxury. More than just a scent, it’s an experience that captivates and leaves a lasting impression. Explore the best premium Dubai perfume in India.
-  Updated: 2025-11-12T09:23:45Z
+  Updated: 2025-11-21T10:15:55Z
   Vendor: Afsha Parfums
   Product Type: 
   Availability: Available
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/0319/0461/files/DSC_5628copy.png?v=1717756322
   Price: ₹1,499.00 INR
 - [Shop Now Emperor Best Premium Dubai Perfume in India - Afsha Parfums](https://afshaparfums.in/products/emperor-premium-dubai-perfume-in-india): Best premium Dubai perfume in India Discover and shop Emperor by Afsha Parfums, a captivating unisex fragrance that exudes regal sophistication. Encased in a sleek, purple and white bottle, this scent is a symbol of modern elegance.
-  Updated: 2025-11-12T09:23:46Z
+  Updated: 2025-11-21T10:15:57Z
   Vendor: Afsha Parfums
   Product Type: 
   Availability: Available
@@ -42,7 +42,7 @@
 ## Collections
 
 - [Afsha Parfums | Premium Dubai Perfumes Now Available in India](https://afshaparfums.in/collections/frontpage): Discover the luxury of Dubai with Afsha Parfums. Shop our exclusive collection of premium fragrances, now available in India. Elevate your scent with long-lasting, exotic perfumes inspired by the essence of Dubai. The Spirit of Dubai, Luxury Perfumes Online in India
-  Updated: 2025-11-14T12:17:33Z
+  Updated: 2025-11-21T12:19:22Z
   Total Products: 7
 
 ## Blogs
