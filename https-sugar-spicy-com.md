@@ -176,7 +176,7 @@ firmer compression sculptwear
 - Timezone: Europe/Dublin
 - Created At: 2023-06-26T10:59:59Z
 - Contact Email: help@sugar-spicy.com
-- Updated At: 2025-11-22T16:00:27.374Z
+- Updated At: 2025-11-22T20:00:26.179Z
 
 BUSINESS INFORMATION — SUGAR + SPICY
 =========================================================
@@ -1867,7 +1867,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-09-12T133140.993.png?v=1694530298
     Price: $82.00 USD
 - [Sugar + Spicy Cover-Breast Open-Back for Confidence](https://sugar-spicy.com/products/cover-breast-open-back-bodysuit): Elevate your style with our body-shaping bodysuits. Made from high-quality, elastic fabric, they provide all-day comfort. Adjustable straps, low scoop back, and snap closure design make them versatile and convenient. Discover confidence-boosting fashion today.
-  Updated: 2025-11-16T05:25:28Z
+  Updated: 2025-11-22T19:46:58Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -3860,7 +3860,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_36.png?v=1732122236
     Price: $72.00 USD
 - [Sugar + Spicy Shaping Flare Pants | High-Waisted, Body-Contouring, Stylish](https://sugar-spicy.com/products/body-contouring-flare-pants): High-waisted flare pants with shaping mesh. Comfortable, stylish, and perfect for any occasion.
-  Updated: 2025-11-17T08:53:37Z
+  Updated: 2025-11-22T19:53:25Z
   Vendor: Sugar + Spicy
   Product Type: Pants
   Availability: Available
@@ -4393,14 +4393,14 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
   Updated: 2025-11-21T22:30:33Z
   Total Products: 8
 - [Looking for Sexy Bodysuits? Designed for All Bodies Type](https://sugar-spicy.com/collections/spicy-bodysuits): Striking. Provocative. Alluring. Experience the perfect balance of confidence and sensuality with our captivating Spicy Bodysuits creation. A simple lingerie bodysuit has become a daywear trend, giving your outfit a sexy feel to adorn your curves.
-  Updated: 2025-11-21T22:12:06Z
+  Updated: 2025-11-22T19:59:29Z
   Total Products: 12
 - [Sugar + Spicy Body Shaper Bodysuits for Every Body](https://sugar-spicy.com/collections/body-shaper): Take your shapewear to the next level. Targeted compression sculpts without squeezing and flexible boning prevent roll-down. Breathable, sweat-wicking fabric keeps you cool. Lingerie-inspired designs are just as sexy as they are supportive.
-  Updated: 2025-11-20T22:55:19Z
-  Total Products: 23
+  Updated: 2025-11-22T19:59:29Z
+  Total Products: 22
 - [Best Sellers Sugar + Spicy Body Shapers Developed For All Bodies Type](https://sugar-spicy.com/collections/best-sellers)
-  Updated: 2025-11-17T23:14:28Z
-  Total Products: 11
+  Updated: 2025-11-22T19:49:13Z
+  Total Products: 12
 - [Looking for More](https://sugar-spicy.com/collections/looking-for-more)
   Updated: 2025-11-17T12:14:06Z
   Total Products: 22
