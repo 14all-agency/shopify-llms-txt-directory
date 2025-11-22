@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-11-21T00:00:35.038Z
+- Updated At: 2025-11-22T00:00:59.587Z
 
 ## Products
 
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-11-20T15:47:17Z
+  Updated: 2025-11-21T20:25:04Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -4491,7 +4491,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TROPICAL-TURQUISE.jpg?v=1757517974
     Price: $1.00 USD
 - [QUINCY Sequin Fabric on Mesh Material ,2-Way Stretch, 52 Inch. In Width, | Home Decor](https://fabricsstar.com/products/quincy-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor): DIMENSION - Size of the fabric is 52 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 52' x 36'. Order of 3 yards (Qty=3) is 52’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL - The sequin fabric by the yard is made of 100% polyester. It has a mesh 2-way stretch base and is embellished with sequins. It's recommended to hand wash the fabric with cold water to maintain its quality. GREAT FOR DECORATION - Sequin fabric is a stunning and attractive material that is perfect for decorating weddings, Halloween parties, birthdays, bridal and baby showers, parties, backdrops, celebrations, holidays, graduations, and other special events. Its sparkle adds a touch of glamour to any occasion! GREAT FOR SEWING - Sequin fabric is an ideal fabric for sewing projects due to its ease of cutting. It can be used for a wide range of DIY, arts & crafts and sewing needs, including dresses, skirts, mermaid dresses, pillows, costumes, tablecloths, table runners, curtains, hats, headbands, shoes, bags, and much more. Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-10-23T20:17:21Z
+  Updated: 2025-11-21T21:11:43Z
   Vendor: Fabrics Star
   Product Type: Sequin Mesh Fabric
   Availability: Available
@@ -9745,10 +9745,10 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 1
 - [Buy Sequin Fabric Online | Sequins By The Yard - Fabrics Star](https://fabricsstar.com/collections/sequin-fabrics): Shop sequin fabrics online at Fabrics Star. Find dazzling & elegant sequins by the yard for your next project, offering sparkle and style in every design.
-  Updated: 2025-11-17T12:14:05Z
+  Updated: 2025-11-21T12:13:26Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-11-20T23:11:57Z
+  Updated: 2025-11-21T12:13:26Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-11-19T12:15:44Z
@@ -9763,19 +9763,19 @@
   Updated: 2025-11-20T23:16:59Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-11-20T23:16:59Z
+  Updated: 2025-11-21T12:13:26Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-11-20T23:16:59Z
+  Updated: 2025-11-21T12:13:26Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
   Updated: 2025-11-20T23:16:59Z
   Total Products: 534
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-11-18T12:15:16Z
+  Updated: 2025-11-21T12:13:26Z
   Total Products: 12
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-11-20T23:16:59Z
+  Updated: 2025-11-21T12:13:26Z
   Total Products: 666
 
 ## Blogs
