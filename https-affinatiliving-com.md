@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-22T12:00:31.058Z
+- Updated At: 2025-11-22T16:00:29.929Z
 
 ## Products
 
@@ -1941,20 +1941,6 @@
   - [Pack of 10](https://affinatiliving.com/products/midnight-ember-apothecary-candle?variant=42406849806417)
     Availability: Available
     Price: $49.95 USD
-- [Fresh Sage Candle (Clearance)](https://affinatiliving.com/products/fresh-sage-signature-candle-copy): Fresh Sage Signature Candle – 10 oz Bring the outdoors in with the crisp, herbal aroma of our Fresh Sage Signature Candle. Housed in a modern 10 oz glass container, this candle is made from a premium soy wax blend that offers a clean, even burn. The scent features earthy sage with subtle green notes, creating a refreshing and grounding ambiance. Scented strongly to fill your space with lasting fragrance. Perfect for adding a clean, natural touch to any room in your home.
-  Updated: 2025-10-04T18:43:38Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/Photoroom_20250307_105726.jpg?v=1746028885
-  Price: $14.95 USD
-- [Eucalyptus & Spearmint Candle (Clearance)](https://affinatiliving.com/products/eucalyptus-spearmint-signature-candle-copy): Eucalyptus & Spearmint Signature Candle – 10 oz Refresh your space with the crisp, cooling aroma of our Eucalyptus & Spearmint Signature Candle. Poured into a sleek 10 oz glass container, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance combines invigorating eucalyptus with bright spearmint for a spa-like scent that clears the mind and soothes the senses. Scented strongly to fill your space with lasting fragrance. Perfect for creating a clean, calming atmosphere in any room of your home.
-  Updated: 2025-10-04T22:35:49Z
-  Vendor: Affinati
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/Photoroom_20250307_105430.jpg?v=1746028847
-  Price: $14.95 USD
 - [Hawaiian Hibiscus Candle (Clearance)](https://affinatiliving.com/products/hawaiian-hibiscus-signature-candle-copy): Hawaiian Hibiscus Signature Candle – 10 oz Transport your senses to the islands with our Hawaiian Hibiscus Signature Candle. This 10 oz candle comes in a sleek glass container and is crafted from a premium soy wax blend for a smooth, even burn. The vibrant scent features tropical hibiscus petals, lush greenery, and a hint of fruity sweetness for a sunny, exotic escape. Scented strongly to fill your space with lasting fragrance. Ideal for creating a bright, floral atmosphere that brings the spirit of aloha into your home.
   Updated: 2025-10-04T14:47:28Z
   Vendor: Affinati
@@ -7105,10 +7091,10 @@
   Updated: 2025-11-17T12:10:17Z
   Total Products: 12
 - [Candles on Sale](https://affinatiliving.com/collections/candles-on-sale)
-  Updated: 2025-11-20T12:08:04Z
+  Updated: 2025-11-22T15:13:32Z
   Total Products: 23
 - [All Sale](https://affinatiliving.com/collections/all-sale)
-  Updated: 2025-11-16T12:08:28Z
+  Updated: 2025-11-22T15:13:32Z
   Total Products: 9
 - [Body Care on Sale](https://affinatiliving.com/collections/body-care-on-sale)
   Updated: 2025-05-15T08:35:07Z
@@ -7132,7 +7118,7 @@
   Updated: 2025-11-20T12:08:04Z
   Total Products: 111
 - [Spring Candle Scents](https://affinatiliving.com/collections/spring-candle-scents)
-  Updated: 2025-11-20T12:08:04Z
+  Updated: 2025-11-22T15:13:16Z
   Total Products: 82
 - [Masculine Candle Scents](https://affinatiliving.com/collections/masculine-scents): Explore the Masculine Candle Collection — bold scents like Smoked Bourbon, Mahogany Teakwood, and Tobacco. Long-lasting 3-wick and wooden wick candles with rich, rugged aromas.
   Updated: 2025-11-19T17:38:53Z
@@ -7141,7 +7127,7 @@
   Updated: 2025-11-20T12:08:04Z
   Total Products: 58
 - [Nature Candle Scents](https://affinatiliving.com/collections/nature-candle-scents): Discover the Nature Candle Collection — fresh, earthy scents like Eucalyptus Tea, Driftwood & Sea Salt, and Blackberry Sage. Long-lasting candles inspired by the outdoors.
-  Updated: 2025-11-20T12:08:04Z
+  Updated: 2025-11-22T15:13:32Z
   Total Products: 132
 - [Vanilla Candles](https://affinatiliving.com/collections/vanilla-candles): Indulge in Affinati’s Vanilla Candle Collection—luxury soy wax candles with rich, long-lasting fragrance. Shop 3-wick and signature vanilla candles for cozy nights, stress relief, and everyday comfort.
   Updated: 2025-11-20T12:08:04Z
@@ -7150,7 +7136,7 @@
   Updated: 2025-11-19T17:38:52Z
   Total Products: 7
 - [Eucalyptus Candles](https://affinatiliving.com/collections/eucalyptus-candles): Explore eucalyptus candles for relaxation and wellness. Shop Affinati’s eucalyptus mint candles — luxury soy blends with a fresh, calming scent.
-  Updated: 2025-11-19T17:38:52Z
+  Updated: 2025-11-22T15:13:16Z
   Total Products: 8
 - [Woody Candle Scents](https://affinatiliving.com/collections/woody-candle-scents): Shop the Woody Scents Collection — candles, diffusers, and room sprays in rich aromas like Mahogany Teakwood, Tobacco, and Driftwood & Sea Salt. Warm, earthy, long-lasting fragrance for every space.
   Updated: 2025-11-19T17:38:53Z
