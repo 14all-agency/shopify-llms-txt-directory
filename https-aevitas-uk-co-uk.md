@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-09-30T12:20:15Z
 - Contact Email: info@aevitas-uk.co.uk
-- Updated At: 2025-11-22T04:00:30.801Z
+- Updated At: 2025-11-22T08:00:30.418Z
 
 ## Products
 
@@ -955,7 +955,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/4-Watch-Box-with-Cufflink-Storage-Natural-Walnut-Finish-by-Aevitas.webp?v=1760449408
   Price: £139.95 GBP
 - [8 Watch Box with Cufflink Storage Natural Walnut Finish by Aevitas](https://aevitas-uk.co.uk/products/8-watch-box-with-cufflink-storage-natural-walnut-finish-by-aevitas): Our New 8 Watch Box with Cufflink Storage in Natural Walnut Finish is perfect for storing your watches and cufflinks. Luxury soft green suede like interior
-  Updated: 2025-11-21T12:53:50Z
+  Updated: 2025-11-22T05:45:15Z
   Vendor: Aevitas
   Product Type: Watch Box
   Availability: Available
