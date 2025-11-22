@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-06-10T13:24:53Z
 - Contact Email: georgina@georginatalfana.com
-- Updated At: 2025-11-20T00:00:26.640Z
+- Updated At: 2025-11-22T00:00:26.774Z
 
 ## Products
 
@@ -1135,6 +1135,13 @@
   - [10-12 pax](https://www.georginatalfana.com/products/walking-holiday-in-the-lake-district?variant=54540821528844)
     Availability: Available
     Price: £905.00 GBP
+- [Moderate walking holiday in the Spanish Pyrenees](https://www.georginatalfana.com/products/moderate-walking-holiday-in-the-spanish-pyrenees): Day 1: Arrive in Zaragoza. where you will be met by your guide Private transfer in a 9 seater people carrier to your hotel in Panticosa. 2 hour journey. Trip briefing and Q&A with your guide before dinner Hotel and dinner included Day 2: Ibon de Pedrafita A gentle walk starting at Piedrafita de Jaca 1300m takes you through woodland to Ibon de Piedrafta 1600m which is a wonderful spot to take a picnic and relax. En route there is evidence of fossils in the sedimentary rocks beside the river. Then head back down to the village. 4-5 hours of walking Hotel breakfast, packed lunch and dinner included Day 3: Faja Racon - Ordesa Valley The day starts with a beautiful drive to Pradere de Ordesa where we take a moderate ascent of the northern slopes above the valley and follow a balcony route with beautiful views of the waterfalls below. The path will take us down to the upper valley where we can explore more of the water features at this UNESCO site 5 hours of walking Hotel breakfast, packed lunch and dinner included Day 4: Punta del Pacino - butterflies A circular route starting nearby Sallent de Gallego 1300m, going clockwise to the peak of Punta del Pacino 1965m where you will see lots of swallowtail butterflies 5-6 hours of walking Hotel breakfast, packed lunch and dinner included Day 5: Rest day Day trip to Jaca known as the "pearl of the Pyrenees" 40 minute private transfer to Jaca, visit at your own leisure the citadel and cathedral, after which you will have a group dinner with featuring of a tasting menu of traditional cuisine Hotel breakfast, packed lunch and dinner included Day 6: Circular walk from Panticosa Sabacos This walk starts from our hotel whereby we take the gondola up to Puntal de los Petros 1865 and make our walk to Ibon de Sabocos and Cuello Sabocas 2090m where you will see many horses grazing. We continue along the Ricon del Verde where we can see the impressive rock formations of the surrounding mountain range. We will return following the river route back to Panticos 1200m 6 hours walking Hotel breakfast, packed lunch and dinner included Day 7: Walk on the border of France with griffon vultures Starting at Cabane de l'Araille 1700m, circular walk, col de l'lou 2194m, Pic de Peyreget 2487m, Refuge de pombie 2032m, return to start point. 6 hours walking Hotel breakfast, packed lunch and dinner included Day 8: Depart for UK 2 hour private transfer to the airport. Hotel and breakfast only included Included in the price: 7 nights accommodation in 3* hotel, meals as a above, transfers to and from airport, transfers to and from treks and Jaca day trip, fully qualified International Mountain Leader, gondola on day 6, tasting menu on day 5 Not included; flights, insurance, tips for the guides, alcoholic beverages, water purifying tablets, mineral water and soft drinks, sightseeing entrance fees, optional visit to Baths of Tiberia 45€, single supplement £385
+  Updated: 2025-11-20T19:46:01Z
+  Vendor: Georgina Talfana Treks
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/pyreneesweek3022.jpg?v=1763623224
+  Price: £1,370.00 GBP
 
 ## Collections
 
@@ -1145,8 +1152,8 @@
   Updated: 2025-10-02T13:38:01Z
   Total Products: 4
 - [Pyrenees - Spain](https://www.georginatalfana.com/collections/pyrenees-spain): Bespoke trekking holidays in the Spanish Pyrenees organised by Georgina Talfana qualified International Mountain Leader
-  Updated: 2025-10-02T13:38:01Z
-  Total Products: 3
+  Updated: 2025-11-20T07:16:47Z
+  Total Products: 4
 - [Himalayas - Nepal](https://www.georginatalfana.com/collections/himalayas-nepal): Bespoke trekking holidays in Nepal - Himalayas organised by Georgina Talfana qualified International Mountain Leader
   Updated: 2025-10-02T13:38:01Z
   Total Products: 2
@@ -1181,16 +1188,16 @@
   Updated: 2025-08-17T06:52:48Z
 - [Verbier Eco Clothing](https://www.georginatalfana.com/pages/verbier-eco-clothing): Care about the environment and about what you are wearing? Visit our range at Verbier Eco Clothing to see our ethically printed on demand clothing ...
   Updated: 2025-11-18T06:16:52Z
-- [Georgina Talfana - IML](https://www.georginatalfana.com/pages/georgina-talfana-iml): Georgina Talfana is a qualified International Mountain Leader based in Woodbridge, UK. Georgina can take you for guided day walks and snowshoeing a...
-  Updated: 2025-08-18T15:55:52Z
+- [Georgina Talfana - IML](https://www.georginatalfana.com/pages/georgina-talfana-iml): Georgina Talfana is a qualified International Mountain Leader. Georgina can take you for guided day walks and snowshoeing as well as organise your ...
+  Updated: 2025-11-20T07:06:40Z
 - [Duke of Edinburgh's Award expeditions](https://www.georginatalfana.com/pages/duke-of-edinburghs-award-expeditions): Georgina is an accredited expeditions assessor and can train and assess groups up to gold level. Georgina has vast experience of working with schoo...
-  Updated: 2025-11-18T06:08:31Z
+  Updated: 2025-11-20T07:04:47Z
 - [Outdoor Education Instructor](https://www.georginatalfana.com/pages/outdoor-education-instructor): Georgina feels very strongly about sharing her love and knowledge for the natural environment with young people and adults. Georgina has over 23 ye...
   Updated: 2025-11-18T06:10:48Z
 - [Georgina Talfana - CV](https://www.georginatalfana.com/pages/georgina-talfana-cv): OUTDOOR QUALIFICATIONS /SKILLS MLTB International Mountain Leader 04/07 MLTB Winter Mountain Leader (trained) 02/06 MLTB Summer Mountain Leader 08/...
   Updated: 2024-10-15T09:14:46Z
-- [Terms & Conditions for Hibiscus Surfwear](https://www.georginatalfana.com/pages/terms-conditions-for-verbier-eco-clothing): In placing your order, you agree to and fully acknowledge the following: Product representation The initial model mockup image offers a representat...
-  Updated: 2025-08-17T06:48:15Z
+- [Terms & Conditions for Verbier Eco Clothing](https://www.georginatalfana.com/pages/terms-conditions-for-verbier-eco-clothing): In placing your order, you agree to and fully acknowledge the following: Product representation The initial model mockup image offers a representat...
+  Updated: 2025-11-20T07:07:51Z
 - [Copy of Duke of Edinburgh's Award expeditions](https://www.georginatalfana.com/pages/copy-of-duke-of-edinburghs-award-expeditions): Georgina is an accredited expeditions assessor and can train groups up to gold level. She can also help you organise your qualifying expedition ven...
   Updated: 2025-09-29T10:04:21Z
 - [Your privacy choices](https://www.georginatalfana.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
