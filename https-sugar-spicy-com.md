@@ -176,7 +176,7 @@ firmer compression sculptwear
 - Timezone: Europe/Dublin
 - Created At: 2023-06-26T10:59:59Z
 - Contact Email: help@sugar-spicy.com
-- Updated At: 2025-11-22T08:00:26.892Z
+- Updated At: 2025-11-22T12:00:25.677Z
 
 BUSINESS INFORMATION — SUGAR + SPICY
 =========================================================
@@ -2103,7 +2103,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Availability: Not Available
     Price: $78.00 USD
 - [Indulge yourself with the Sugar + Spicy Seamless Covered Bust Bodysuit](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit): The internet's favourite sculpting bodysuit it's now updated for an even better fit. Feature Lightweight NILIT® nylon fabric, comfy and breathable alone with a perfect shaping effect to supportive underbust design for relaxing support. It has a Snap closure design on the crotch, making it convenient for your lavatory visits.
-  Updated: 2025-11-21T22:32:30Z
+  Updated: 2025-11-22T08:07:56Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -2739,7 +2739,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/MT200279-SK1-202101206007f911b7da4.jpg?v=1763419836
     Price: $108.00 USD
 - [Enhanced Sculpting Bodysuit for Targeted Control](https://sugar-spicy.com/products/full-body-shaper): Discover our updated mid-thigh bodysuit for ultimate sculpting and control. Flatten your tummy, enhance your curves, and enjoy seamless comfort. Shop now!
-  Updated: 2025-11-21T23:19:18Z
+  Updated: 2025-11-22T11:18:42Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -2865,7 +2865,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-37398362882272_900x_027d2dde-2e83-440d-a224-0ad58c0ec756.png?v=1763384145
     Price: $112.00 USD
 - [Fancy Cupped Bodysuit: Underwire Support & Slimming Compression](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit): Elevate comfort with our cupped bodysuit! It features an underwire fit for excellent support & flexible compression cups, adjustable back closure for a perfect fit, built-in slimming effects, and a crotch-overlapping design for convenience. Perfect for all-day wear & enhancing your confidence.
-  Updated: 2025-11-21T23:48:11Z
+  Updated: 2025-11-22T11:44:37Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -2943,7 +2943,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225708.599.png?v=1699046703
     Price: $98.00 USD
 - [Sculpt Your Silhouette Effortlessly with Our Mid-Thigh Bodysuit!](https://sugar-spicy.com/products/sculptress-firm-body-shaper): Shop our front scoop neck, open-back, and mid-thigh bodysuit for everyday sculpting perfection. Crafted with soft, stretchy materials, this bodysuit offers targeted soft-level compression, emphasizing a contoured midsection, lifted butt, and trimmed thighs.
-  Updated: 2025-11-21T23:29:26Z
+  Updated: 2025-11-22T11:31:44Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
