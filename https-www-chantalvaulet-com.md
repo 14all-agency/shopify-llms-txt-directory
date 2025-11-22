@@ -44,7 +44,7 @@ Ethical Brilliance. Timeless Elegance.
 - Created At: 2025-01-16T13:53:30Z
 - Contact Email: Info@chantalvaulet.com 
 - Contact Phone: +48 575 543 743
-- Updated At: 2025-11-21T00:00:29.288Z
+- Updated At: 2025-11-22T00:00:42.318Z
 
 ## Products
 
@@ -6843,7 +6843,7 @@ Ethical Brilliance. Timeless Elegance.
     Availability: Available
     Price: €95.00 EUR
 - [Calina Moissanite Wedding Band | 0.7CT Seven Stone | Stackable Anniversary Ring](https://www.chantalvaulet.com/products/the-calina-moissanite-seven-stone-band): Shop the Calina seven stone moissanite band. 0.7CT total weight, classic prong setting, perfect as wedding ring or stackable band. Timeless everyday elegance.
-  Updated: 2025-11-09T01:45:24Z
+  Updated: 2025-11-21T14:46:27Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
