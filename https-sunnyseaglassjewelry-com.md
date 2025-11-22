@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-08-22T04:17:36Z
 - Contact Email: Sunnymello810@gmail.com
-- Updated At: 2025-11-21T00:00:48.840Z
+- Updated At: 2025-11-22T00:00:51.882Z
 
 ## Products
 
 - [Sailboat Sea Glass Necklace - Sterling Silver Handcrafted Jewelry](https://sunnyseaglassjewelry.com/products/white-sea-glass-sailboat-earrings-in-sterling-silver): Discover the beauty of the Sailboat Sea Glass Necklace in sterling silver. Perfect for everyday wear, this handcrafted piece captures the charm of the sea and adventure.
-  Updated: 2025-11-20T22:10:32Z
+  Updated: 2025-11-21T01:14:33Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -114,7 +114,7 @@
     Availability: Available
     Price: $30.95 USD
 - [White Opal Bracelet - Elegant Beaded Sterling Silver Jewelry, Perfect Gift](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet): Discover the beautiful White Opal Bracelet featuring lab-created opal beads and sterling silver. Perfect for any occasion, versatile, and stylish in four colors.
-  Updated: 2025-11-20T22:10:36Z
+  Updated: 2025-11-21T01:06:37Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -1534,12 +1534,12 @@
   - [Crystal](https://sunnyseaglassjewelry.com/products/seaglass-earrings-beach-glass-earrings-in-sterling-silver-turquoise-blue-sea-glass-earrings-beach-weddings-beach-glass-jewelry?variant=42904306155601)
     Availability: Available
     Price: $22.95 USD
-- [Spiral Sea Glass Earrings - Nautical Jewelry with Starfish Charm](https://sunnyseaglassjewelry.com/products/spiral-sea-glass-earrings-with-starfish-silver-charm-spiral-dangle-earrings-spiral-green-sea-glass-nautical-earrings-ocean-theme-earrings): Discover our Spiral Sea Glass Earrings featuring starfish charms and ocean-inspired design, perfect for summer and coastal lovers. Buy now for a beach-ready look!
-  Updated: 2025-11-20T22:11:18Z
+- [Sea Glass Starfish Dangle Earrings - Nautical Spiral Ocean Jewelry, Silver Charm](https://sunnyseaglassjewelry.com/products/spiral-sea-glass-earrings-with-starfish-silver-charm-spiral-dangle-earrings-spiral-green-sea-glass-nautical-earrings-ocean-theme-earrings): Discover elegant Sea Glass Starfish Dangle Earrings featuring spiral green sea glass, silver charms, and nautical style—perfect for summer or coastal fashion lovers.
+  Updated: 2025-11-21T00:22:43Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Spiral-Sea-Glass-Earrings-with-Starfish-Silver-Charm_-Spiral-Dangle-Earrings_-Spiral-Green-Sea-Glass-Nautical-Earrings_-Ocean-Theme-Earrings-My-Store-9920940.jpg?v=1763676677
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Spiral-Sea-Glass-Earrings-with-Starfish-Silver-Charm_-Spiral-Dangle-Earrings_-Spiral-Green-Sea-Glass-Nautical-Earrings_-Ocean-Theme-Earrings-My-Store-9920940.jpg?v=1763684555
   - [Sterling Silver / Royal Blue](https://sunnyseaglassjewelry.com/products/spiral-sea-glass-earrings-with-starfish-silver-charm-spiral-dangle-earrings-spiral-green-sea-glass-nautical-earrings-ocean-theme-earrings?variant=42904309792849)
     Availability: Available
     Price: $27.95 USD
