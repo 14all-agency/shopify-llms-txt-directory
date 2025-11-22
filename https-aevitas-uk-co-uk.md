@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-09-30T12:20:15Z
 - Contact Email: info@aevitas-uk.co.uk
-- Updated At: 2025-11-21T20:00:30.182Z
+- Updated At: 2025-11-22T00:02:03.147Z
 
 ## Products
 
@@ -682,7 +682,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Single-Watch-Winder-Black-Leather-White-Stitching-Mains-or-Battery-by-Aevitas.webp?v=1760450314
   Price: £209.95 GBP
 - [Single Watch Winder Black Leather Finish by Aevitas](https://aevitas-uk.co.uk/products/single-watch-winder-black-leather-red-stitching-mains-or-battery-by-aevitas): Keep your automatic watch wound with our single watch winder in black leather finish. Features quiet operation and multiple settings.
-  Updated: 2025-11-21T12:53:12Z
+  Updated: 2025-11-21T20:28:17Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
