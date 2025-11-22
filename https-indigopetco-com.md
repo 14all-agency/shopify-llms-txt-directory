@@ -6,7 +6,7 @@
 - Timezone: America/Phoenix
 - Created At: 2017-12-15T19:49:34Z
 - Contact Email: contact@Indigopetco.com
-- Updated At: 2025-11-21T23:27:36.923Z
+- Updated At: 2025-11-22T00:01:24.972Z
 
 ## Products
 
@@ -1724,7 +1724,7 @@
   Image: https://cdn.shopify.com/s/files/1/2646/1218/files/indigopetco-com-chameleon-cable-chomper-default-title-chameleon-cable-chomper-4464185606186.jpg?v=1712093751
   Price: $11.99 USD
 - [Pet DeShedding Glove](https://indigopetco.com/products/pet-deshedding-glove): Groom and de-shed your pet while you bond! The IndigoPetCo DeShedding Glove removes loose fur gently and effectively. Great for dogs, cats, and all coat types.
-  Updated: 2025-11-18T22:20:37Z
+  Updated: 2025-11-21T23:44:50Z
   Vendor: IndigoPetco.com
   Product Type: Pet DeShedding Glove
   Availability: Available
@@ -2939,7 +2939,7 @@ Customer experience is our priority We are here for you with 24/7 customer servi
   Image: https://cdn.shopify.com/s/files/1/2646/1218/files/indigopetco-com-reusable-sticky-roller-default-title-reusable-sticky-roller-40802960343318.jpg?v=1712094417
   Price: $24.95 USD
 - [IndigoPet Hair Removal Broom](https://indigopetco.com/products/indigopet-hair-removal-broom): Exceptional Quality & Unmatched Durability Our company's latest innovation, the Indigo Pet Hair Removal Broom, redefines cleanliness with its superior construction. Crafted from premium, eco-friendly materials, this broom offers unparalleled durability and effectiveness. The advanced bristle technology ensures a thorough sweep, effortlessly capturing even the most stubborn pet hair from all surfaces. Designed to withstand the test of time, our broom delivers consistent, high-performance cleaning, making it the ultimate tool for pet owners seeking a spotless, hair-free home. Experience the blend of luxury and functionality, and transform your cleaning routine with our state-of-the-art Pet Hair Removal Broom. Our Indigo Pet Hair Removal Broom also comes with a lifetime warranty. Removes Fur: Our pet hair removal broom attracts pet hair like a magnet to easily remove fur from carpets, rugs, tile, hardwood, and linoleum. Telescopic Handle: The handle extends from 29 inches to 50 inches giving it a total of 60" in length, making perfect for reaching those fur balls in high places without a ladder. Easy Cleanup: Wash away excess hair on the rubber broom bristles with soapy water. Built-In Squeegee: Includes a built-in rubber squeegee that's perfect for cleaning windows and spills. Frequently Asked Questions: Q: Why not just use a vacuum? A: Our broom lifts up your carpet with the soft rubber bristles and collects all the hair your vacuum cannot reach. Q: Why not use a broom for my tile or hardwood floors? A: Our broom has soft rubber bristles that act as a magnet to pet hair. Have you ever tried sweeping up pet hair and it just flies all over the house? With our broom that will not happen!
-  Updated: 2025-11-21T22:00:05Z
+  Updated: 2025-11-21T23:55:21Z
   Vendor: IndigoPetco.com
   Product Type: brooms
   Availability: Available
@@ -2960,7 +2960,7 @@ Customer experience is our priority We are here for you with 24/7 customer servi
   Image: https://cdn.shopify.com/s/files/1/2646/1218/files/indigopetco-com-indigo-mini-lint-and-pet-hair-remover-default-title-indigo-mini-lint-and-pet-hair-remover-44432823124246.jpg?v=1719596712
   Price: $14.00 USD
 - [Indigo Pro V2 Pet Hair Survival Kit](https://indigopetco.com/products/indigo-pro-v2-pet-hair-survival-kit): Indigo Pet Hair Removal broom - best for carpet, rugs, tile, and vinyl. (60" Handle)! Indigo Pro - for clothes, cars, rugs, cat towers, & more! Indigo Mini - for small spaces & on the go! Bundle and save $14 The Indigo Pro V2 Pet Hair Survival Kit is a great set of tools to remove lint/pet hair from carpet, rugs, clothes, hardwood, tile, cars, furniture, bedding, & more!
-  Updated: 2025-11-21T22:05:13Z
+  Updated: 2025-11-22T00:00:21Z
   Vendor: IndigoPetco.com
   Product Type: Indigo Pro V2 Pet Hair Survival Kit
   Availability: Available
@@ -2981,7 +2981,7 @@ Customer experience is our priority We are here for you with 24/7 customer servi
   Image: https://cdn.shopify.com/s/files/1/2646/1218/files/IMG_9593.jpg?v=1748908112
   Price: $12.95 USD
 - [Indigo Laundry Pet Hair Removal Fish - 6 Pack](https://indigopetco.com/products/indigo-laundry-pet-hair-removal-fish-6-pack): Indigo Laundry Pet Hair Catcher - 6 Pack Finally—Laundry Without the Fur! Tired of pet hair clinging to everything? Just toss these in your washer or dryer and watch the magic happen. No more lint rolling, no more re-washing. Your clothes come out actually clean. What Makes It a Game-Changer: ✓ 6-Pack Value – Multiple catchers = more hair trapped per load ✓ Works Double Duty – Grab hair in the wash AND the dryer✓ Saves Your Machines – Prevents clogs and costly repairs✓ Reusable – Just rinse and reuse (eco-friendly + money-saving)✓ Bonus Use – Wipe pet hair off couches, car seats, jackets—no water needed✓ Fabric-Safe – Gentle on everything from jeans to delicates Pro Tip: Use 2-3 for regular loads, more for pet blankets or heavily furred items. The Bottom Line: Less time de-furring, more time with your pet. It's that simple. FAQ❓ Q: How does it actually work?A: The specialized microfiber surface grabs pet hair, lint, and dander during the wash/dry cycle. Hair sticks to the catcher instead of your clothes. Q: Do I need to replace them?A: Nope! Just rinse under water, air dry, and they're ready to go again. Each catcher lasts hundreds of uses. Q: Will it work with my pet's hair type?A: Works great with most pet hair (dogs, cats, rabbits, etc.). Very short or fine hair may be trickier, but you'll still see major improvement. Q: Can I use it on delicate fabrics?A: Yes, but skip it for chunky knits or heavily textured sweaters—stick to regular clothing, bedding, and towels. Q: Why 6 catchers?A: More catchers = more surface area = better results! Plus, you'll always have clean ones ready while others are drying. Q: What if it doesn't work for me?A: Use 2-3 catchers per load for best results. The more hair your pet sheds, the more catchers you'll want to use. Ready for fur-free laundry? Add to cart now! 🛒
-  Updated: 2025-11-21T23:23:20Z
+  Updated: 2025-11-21T23:43:20Z
   Vendor: IndigoPetco.com
   Product Type: Indigo Laundry Pet Hair Catcher - 6 Pack
   Availability: Available
