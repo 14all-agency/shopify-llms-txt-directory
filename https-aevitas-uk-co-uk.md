@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-09-30T12:20:15Z
 - Contact Email: info@aevitas-uk.co.uk
-- Updated At: 2025-11-22T16:00:30.653Z
+- Updated At: 2025-11-22T20:00:29.632Z
 
 ## Products
 
@@ -1296,7 +1296,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/8-Watch-Box-in-Black-Leather-Finish-Fine-Quality-by-Aevitas.webp?v=1760451062
   Price: £159.95 GBP
 - [4 Watch Box in Black Leather Finish Fine Quality by Aevitas](https://aevitas-uk.co.uk/products/4-watch-box-in-black-leather-finish-fine-quality-by-aevitas): The Black Vegan Leather 4 Watch Box by Aevitas is a great quality and best design watch box. It can hold up to 4 wrist watches in the soft yet firm cushion in the position
-  Updated: 2025-11-21T12:54:40Z
+  Updated: 2025-11-22T17:24:06Z
   Vendor: Aevitas
   Product Type: Watch Box
   Availability: Available
@@ -1944,7 +1944,7 @@
 
 - [News | Watch Winders and Boxes all the Newest Products Information](https://aevitas-uk.co.uk/blogs/news): Welcome to our Blog. Here you will find all the news about our Watch Winders and Boxes, Upcoming Events. Sign up to our News Letter and we will keep you updated by email.
   - [Enhance Your Timepiece: Crystal Collection Watch Winders](https://aevitas-uk.co.uk/blogs/news/new-crystal-collection-watch-winders): Enhance Your Timepiece: Crystal Collection Watch Winders
-    Updated: 2025-04-25T08:59:56Z
+    Updated: 2025-11-22T16:22:16Z
     Author: Lee Mead
     Tags: Breitling Watch Winders, Carbon Fibre, Crystal Collection, Rolex Watch Winder, Watch Winder
   - [Aevitas Colourful Watch Winders - Enhance Your Timepiece Care](https://aevitas-uk.co.uk/blogs/news/aevitas-colourful-watch-winders): Aevitas Colourful Watch Winders - Enhance Your Timepiece Care
