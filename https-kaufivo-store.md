@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-21T08:09:19Z
 - Contact Email: kaufivo@gmail.com
-- Updated At: 2025-11-19T00:00:22.685Z
+- Updated At: 2025-11-22T00:00:26.276Z
 
 ## Products
 
@@ -221,11 +221,11 @@
   Image: https://cdn.shopify.com/s/files/1/0965/3334/8642/files/5669103459.jpg?v=1761321566
   Price: ₹499.00 INR
 - [Acrylic Paint on Glass - 3D LED Light Glass Acrylic Writing Pad](https://kaufivo.store/products/acrylic-paint-on-glass): Transform your creativity with our 3D LED Light Glass Acrylic Writing Pad. Perfect for applying acrylic paint on glass, this innovative tool elevates your artistic designs effortlessly.
-  Updated: 2025-11-16T02:17:52Z
+  Updated: 2025-11-19T12:00:08Z
   Vendor: 3ga309-94
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0965/3334/8642/files/5812769308.jpg?v=1763216263
+  Image: https://cdn.shopify.com/s/files/1/0965/3334/8642/files/5812769308.jpg?v=1763553589
   Price: ₹699.00 INR
 
 ## Collections
@@ -294,23 +294,25 @@
 
 ## Store Pages
 
-- [99 Store - Contact Us for Inquiries and Support Today!](https://kaufivo.store/pages/contact-99-store): Contact 99 Store for Inquiries and SupportWelcome to 99 Store, your one-stop destination for all your shopping needs! Whether you are searching for...
-  Updated: 2025-10-08T12:47:35Z
+- [99 Store - Contact Us for Inquiries and Support Today!](https://kaufivo.store/pages/contact-99-store): Contact 99 Store for Inquiries and Support Welcome to 99 Store, your one-stop destination for all your shopping needs! Whether you are searching fo...
+  Updated: 2025-11-19T08:23:01Z
 - [99 Store Review Submission - Share Your Thoughts and Feedback Today](https://kaufivo.store/pages/review-submission-99-store): Why You Should Trust the 99 Store for Your Shopping NeedsWelcome to the 99 Store, your ultimate destination for unbeatable deals and quality produc...
   Updated: 2025-10-08T12:48:42Z
 - [NULL](https://kaufivo.store/pages/html-sitemap): Products Stainless Steel Pet Grooming Glove - Gentle Deshedding Brush for Pet Grooming near Me 4 in 1 Portable Electric Vegetable Cutter Set Automa...
   Updated: 2025-11-15T14:10:00Z
+- [About Us - Discover Our Story, Values, and Commitment to You](https://kaufivo.store/pages/about-us): Learn More About Us: Your Trusted Source for Quality ProductsWelcome to our "About Us" page, where we take pride in sharing our story and values wi...
+  Updated: 2025-11-19T07:23:13Z
 
 ## Policies
 
 - [Privacy Policy](https://kaufivo.store/policies/privacy-policy)
   Updated: 2025-09-21T13:39:30+05:30
 - [Shipping Policy](https://kaufivo.store/policies/shipping-policy)
-  Updated: 2025-09-25T17:37:26+05:30
+  Updated: 2025-11-19T13:14:48+05:30
 - [Refund Policy](https://kaufivo.store/policies/refund-policy)
-  Updated: 2025-09-25T17:35:37+05:30
+  Updated: 2025-11-19T13:09:18+05:30
 - [Terms of Service](https://kaufivo.store/policies/terms-of-service)
-  Updated: 2025-09-25T17:36:02+05:30
+  Updated: 2025-11-19T13:11:34+05:30
 - [Contact Information](https://kaufivo.store/policies/contact-information)
   Updated: 2025-09-25T17:38:39+05:30
 
