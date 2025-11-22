@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-11-17T00:00:50.621Z
+- Updated At: 2025-11-22T00:00:36.143Z
 
 ## Products
 
@@ -767,7 +767,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polyethylene-back-tie-apron-blue-800mm-x-1250mm-x-30mu-500-pieces-heavy-duty-plastic-body-protection-essential-supplies-436457.jpg?v=1719445549
   Price: $119.00 NZD
 - [Polyethylene Back Tie Apron - White, 800mm x 1250mm x 30mu - 500 Pieces *Heavy Duty](https://essentialsupplies.co.nz/products/polyethylene-back-tie-apron-white-800mm-x-1250mm-x-30mu-500-heavy-duty): Disposable back tie aprons are designed from economic and lightweight polyethylene to protect against splashes and spills. Ideal for use in the medical, food processing and cleaning industries. Convenient and hygienic, removing the need for washing after each use. Constructed from economic and lightweight polyethylene Back tieIdeal for use in the medical, food processing and cleaning industries Size: 800mm x 1250mm Content: 500 pieces Colour: White
-  Updated: 2025-01-09T09:38:50Z
+  Updated: 2025-11-19T02:02:57Z
   Vendor: Mattews Packaging
   Product Type: Plastic Body Protection
   Availability: Available
@@ -893,7 +893,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polypropylene-isolation-gown-yellow-1200mm-x-1400mm-40gsm-30-pieces-isolation-gowns-essential-supplies-743558.jpg?v=1719445565
   Price: $74.00 NZD
 - [Polypropylene Isolation Gown - Blue, 1200mm x 1400mm, 40gsm - 30 Pieces](https://essentialsupplies.co.nz/products/polypropylene-isolation-gown-blue-1200mm-x-1400mm-40gsm-30): Disposable polypropylene isolation gown with 40gsm anti leakage absorption properties to isolate alcohols, oils, water and blood. Ideal for use in the medical, health care and food processing industries. Features a tie around waist, elastic cuffs and a velcro neck fastener for a snug fit. 40gsm Anti leakage absorption properties to isolate alcohols, oils, water and blood Ideal for use in the medical, health care and food processing industries Features a tie around waist, elastic cuffs and a velcro neck fastener for a snug fit Size: 1200mm x 1400mm Content: 30 pieces Colour: Blue
-  Updated: 2025-02-13T03:44:17Z
+  Updated: 2025-11-19T01:54:03Z
   Vendor: Mattews Packaging
   Product Type: Isolation Gowns
   Availability: Available
@@ -970,7 +970,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polyethylene-sleeveless-aprons-white-800mm-x-1400mm-x-30mu-250-pieces-plastic-body-protection-essential-supplies-188602.jpg?v=1719445569
   Price: $119.00 NZD
 - [Polyethylene Splash Jacket - White, 800mm x 1300mm x 30mu - 200 Pieces](https://essentialsupplies.co.nz/products/polyethylene-splash-jacket-white-800mm-x-1300mm-x-30mu-200): Disposable splash jackets made from lightweight and durable polyethylene provide full length body protection against spills and contamination.Ideal for use in the medical, food processing, cleaning and farming industries. Available as one size fits all. Made from lightweight and durable polyethylene Provides full length body protection against spills and contaminationIdeal for use in the medical, food processing, cleaning and farming industries Size: 800mm x 1300mm Content: 200 pieces Colour: White
-  Updated: 2025-01-19T08:53:20Z
+  Updated: 2025-11-18T09:14:02Z
   Vendor: Mattews Packaging
   Product Type: Plastic Body Protection
   Availability: Available
@@ -2398,7 +2398,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/thick-scouring-pads-red-115mm-x-250mm-x-20mm-5-pad-pack-medium-duty-scourers-essential-supplies-309168.jpg?v=1719445910
   Price: $15.00 NZD
 - [Message Tape Do Not Stack - White/Red, 48mm x 100m x 50mu - 36 Rolls](https://essentialsupplies.co.nz/products/message-tape-do-not-stack-white-red-48mm-x-100m-x-50mu-36): Printed message tape made from high quality polypropylene with a acrylic adhesive and bold print. Dual purpose packaging to keep items safe and protected while communicating your message clearly.Great for providing instruction to couriers about fragile or other contents. Typical Applications: Dual purpose alternative to stickers or labels Great for providing instruction to couriers about fragile or other contents Colour: Red print on White tape Printed: DO NOT STACK Size: 48mm x 100mt 36 rolls
-  Updated: 2025-01-09T06:49:53Z
+  Updated: 2025-11-17T04:47:01Z
   Vendor: Mattews Packaging
   Product Type: Printed Message Tape
   Availability: Available
@@ -2447,7 +2447,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/message-tape-hold-whitered-48mm-x-100m-x-50mu-printed-message-tape-essential-supplies-177176.jpg?v=1719445328
   Price: $6.00 NZD
 - [Message Tape Asbestos Removal - Yellow/Black, 48mm x 100m x 50mu](https://essentialsupplies.co.nz/products/message-tape-asbestos-removal-yellow-black-48mm-x-100m-x-50mu-36): Printed message tape made from high quality polypropylene with a acrylic adhesive and bold print.Dual purpose packaging to keep items safe and protected while communicating your message clearly. Typical Applications:Parcels and Packaging - seal, bundle, wrap, inform, promote or advise with one easy label Polypropylene 50mu Printed: ASBESTOS REMOVAL IN PROGRESS Label size: 48mm x 100mt
-  Updated: 2025-05-29T00:56:28Z
+  Updated: 2025-11-18T11:48:54Z
   Vendor: Mattews Packaging
   Product Type: Printed Message Tape
   Availability: Available
@@ -3112,7 +3112,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/foaming-wall-dispenser-white-1000ml-capacity-1-dispenser-includes-empty-cartridge-foaming-wall-dispensers-essential-supplies-847515.jpg?v=1719445074
   Price: $56.00 NZD
 - [Foaming Wall Dispenser - Black, 1000ml Capacity - 1 Dispenser + Includes Empty Cartridge](https://essentialsupplies.co.nz/products/foaming-wall-dispenser-black-1000ml-capacity-1-includes-empty-cartridge): This manual foaming dispenser is made from sturdy and durable ABS plastic.Convenient, lockable bulk fill system helps to reduce maintenance costs and minimise wastage. Easily mountable and refillable these dispensers are suitable for use in bathrooms, kitchens, offices, hotels and restaurants. Stylish modern design Made from sturdy and durable ABS plastic Suitable for use in bathrooms, kitchens, offices, hotels, restaurants etc. Case colour: Black Capacity: 1000ml
-  Updated: 2025-01-10T19:18:58Z
+  Updated: 2025-11-18T12:17:16Z
   Vendor: Mattews Packaging
   Product Type: Foaming Wall Dispensers
   Availability: Available
@@ -3168,7 +3168,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/liquid-wall-dispenser-gold-1000ml-capacity-1-dispenser-includes-empty-cartridge-liquid-wall-dispensers-essential-supplies-600643.jpg?v=1719445418
   Price: $55.00 NZD
 - [Cube Tissue Dispenser - White, 90 Sheet Capacity (1) *Wall Mountable](https://essentialsupplies.co.nz/products/cube-tissue-dispenser-white-90-sheet-capacity-1-wall-mountable): This cube shaped facial tissue dispenser is a professional, tidy way to dispense tissues.Great for use in the office, classroom, meeting rooms, reception areas, washrooms and more.Dispenser has a cube shaped 90 sheet capacity. These dispensers offer a crisp, clean and professional appearance to complement your space. The dispenser has a complete lid and base with screw holes for wall mounting. Hygienic tissue dispensing Dispenser has a 90 sheet capacity (Cube shaped) Dispenser has a complete lid and base with screw holes for wall mounting Colour: White
-  Updated: 2025-01-08T19:01:10Z
+  Updated: 2025-11-17T08:01:58Z
   Vendor: Mattews Packaging
   Product Type: Facial Tissue Dispensers
   Availability: Available
@@ -3259,7 +3259,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/acrylic-office-tape-clear-18mm-x-66m-x-45mu-762mm-core-large-core-office-tape-essential-supplies-678329.jpg?v=1719444766
   Price: $2.25 NZD
 - [Acrylic Office Tape - Clear, 24mm x 66m x 45mu, 76.2mm Core - *Large Core](https://essentialsupplies.co.nz/products/acrylic-office-tape-clear-24mm-x-66m-x-45mu-76-2mm-core-72-large-core): Transparent office tape is crystal clear with a glossy finish. Ideal for all home and office requirements, with good stickability and a smooth cut and flow when used with tape dispensers or by hand. Colour: Clear Size: 24mm x 66mt Content: 72 Rolls
-  Updated: 2025-01-16T00:39:26Z
+  Updated: 2025-11-17T11:32:28Z
   Vendor: Mattews Packaging
   Product Type: Office Tape
   Availability: Available
@@ -3441,7 +3441,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/household-toilet-roll-dispenser-white-20mm-core-size-1-dispenser-use-with-mph27225-toilet-tissue-dispensers-essential-supplies-789449.jpg?v=1719445185
   Price: $68.00 NZD
 - [Household Toilet Roll Dispenser - White, 40mm Core Size - 1 Dispenser](https://essentialsupplies.co.nz/products/household-toilet-roll-dispenser-white-40mm-core-size-1): Wrapped toilet tissue dispensers offer a practical and durable roll dispensing solution.Ensure your bathroom is always fully hygienically stocked. Compatible with the complete toilet tissue range with a 2 roll capacity and easy switch over mechanism. Suitable for rolls on 40mm core Sturdy and durable design Colour: Translucent White
-  Updated: 2025-01-08T18:18:18Z
+  Updated: 2025-11-18T09:16:42Z
   Vendor: Mattews Packaging
   Product Type: Toilet Tissue Dispensers
   Availability: Available
@@ -4146,7 +4146,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/economy-indoor-broom-red-300mm-x-22mm-x-1200mm-soft-bristles-brooms-essential-supplies-592977.jpg?v=1719445083
   Price: $23.00 NZD
 - [Deluxe Indoor Broom - Blue, 300mm x 22mm x 1200mm, Soft Bristles](https://essentialsupplies.co.nz/products/deluxe-indoor-broom-blue-300mm-x-22mm-x-1200mm-soft-bristles-4): Deluxe indoor brooms with premium quality soft bristles to sweep the finest dust and a powder coated steel handle for maximum strength. Features a front scraper for stubborn debris, and a grip-master handle lock for added stability.
-  Updated: 2025-02-15T10:36:41Z
+  Updated: 2025-11-19T10:37:19Z
   Vendor: Mattews Packaging
   Product Type: Brooms
   Availability: Available
@@ -4482,7 +4482,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/flat-mop-head-frame-head-blue-400mm-wide-1-frame-mops-essential-supplies-498288.jpg?v=1719445081
   Price: $32.00 NZD
 - [Flat Mop Head Frame Head - Blue, 500mm Wide - 1 Frame](https://essentialsupplies.co.nz/products/flat-mop-head-frame-head-blue-500mm-wide-1)
-  Updated: 2025-02-14T07:41:40Z
+  Updated: 2025-11-18T00:57:56Z
   Vendor: Mattews Packaging
   Product Type: Mops
   Availability: Available
@@ -4538,7 +4538,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/flat-mop-pad-blue-wet-dry-640mm-wide-1-pad-mops-essential-supplies-388056.jpg?v=1719445062
   Price: $32.00 NZD
 - [Dust Control Mop Handle - Silver, 25mm x 1400mm - 1 Handle](https://essentialsupplies.co.nz/products/dust-control-mop-handle-silver-25mm-x-1400mm-1)
-  Updated: 2025-02-18T15:02:48Z
+  Updated: 2025-11-18T02:09:37Z
   Vendor: Mattews Packaging
   Product Type: Mops
   Availability: Available
@@ -4629,7 +4629,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/safety-sign-blank-yellow-290mm-x-660mm-cleaning-signs-essential-supplies-934903.jpg?v=1719445789
   Price: $29.00 NZD
 - [Squeegee Window Washer - Black, 200mm Wide](https://essentialsupplies.co.nz/products/squeegee-window-washer-black-200mm-wide-6): Squeegee Pro window cleaners feature a premium quality reversible twin life blade for added durability and a streak free finish. Sturdy and robust with an anodised aluminum channel construction. Available in a range of head widths from 200mm to 400mm.
-  Updated: 2025-01-08T19:29:15Z
+  Updated: 2025-11-18T09:12:58Z
   Vendor: Mattews Packaging
   Product Type: Window Cleaning
   Availability: Available
@@ -5959,7 +5959,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/latex-sandy-thermal-work-glove-blueblack-2xl-120-pairs-thermal-work-gloves-essential-supplies-807401.jpg?v=1719445346
   Price: $399.00 NZD
 - [Nitrile Waterproof Thermal Work Glove - Black/Yellow, M - 120 Pairs](https://essentialsupplies.co.nz/products/nitrile-waterproof-thermal-work-glove-black-yellow-m-12): Foam nitrile thermal waterproof gloves lined with 280g of acrylic offer thermal insulation for temperatures as low as -20°C. Gloves are 100% waterproof with a knit cuff to comfortably fit the hand, retaining heat for warmth and protection. Designed for cool store, freezer, outdoor and other cold climate environments.
-  Updated: 2025-01-15T00:41:50Z
+  Updated: 2025-11-19T11:43:55Z
   Vendor: Mattews Packaging
   Product Type: Thermal Work Gloves
   Availability: Available
@@ -6799,7 +6799,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/pvc-floor-marking-tape-white-48mm-x-33m-x-150mu-floor-marking-tape-essential-supplies-135635.jpg?v=1719445691
   Price: $7.00 NZD
 - [PVC Floor Marking Tape - Yellow, 48mm x 33m x 150mu](https://essentialsupplies.co.nz/products/pvc-floor-marking-tape-yellow-48mm-x-33m-x-150mu-18): Heavy duty floor marking tape made from coloured PVC film with a high strength tack adhesive and premium tensile strength. With good UV and waterproof resistance, ideal for marking factory and warehouse floor areas. Available in a range of vibrant colours.
-  Updated: 2025-01-09T23:30:56Z
+  Updated: 2025-11-19T04:35:08Z
   Vendor: Mattews Packaging
   Product Type: Floor Marking Tape
   Availability: Available
@@ -6813,7 +6813,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/pvc-floor-marking-tape-orange-48mm-x-33m-x-150mu-floor-marking-tape-essential-supplies-629200.jpg?v=1719445669
   Price: $7.00 NZD
 - [PVC Floor Marking Tape - Yellow/Black, 72mm x 33m x 150mu](https://essentialsupplies.co.nz/products/pvc-floor-marking-tape-yellow-black-72mm-x-33m-x-150mu-24): Heavy duty floor marking tape made from coloured PVC film with a high strength tack adhesive and premium tensile strength. With good UV and waterproof resistance, ideal for marking factory and warehouse floor areas. Available in a range of vibrant colours.
-  Updated: 2025-02-12T21:57:44Z
+  Updated: 2025-11-17T08:51:57Z
   Vendor: Mattews Packaging
   Product Type: Floor Marking Tape
   Availability: Available
@@ -7462,7 +7462,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/bolt-prestretch-hand-stretch-film-clear-390mm-x-340m-x-7mu-4-rolls-dispenser-film-hand-stretch-film-essential-supplies-118000.jpg?v=1719444760
   Price: $52.00 NZD
 - [Prestretch Hand Stretch Film - Clear, 450mm x 600m x 6mu - 4 Rolls - *Extended Core](https://essentialsupplies.co.nz/products/prestretch-hand-stretch-film-clear-450mm-x-600m-x-6mu-4-extended-core): Nano grade hand stretch film is a 6 micron film, which is our most cost efficient packaging solution. The pre stretched film is lightweight and easy to use. The clear finish enables simple scanning of barcodes through the packaging. Quiet roll unwinding for minimised disturbance. Great for freight, logistics and manufacturing with a roll size of 450mm wide by 600m long.
-  Updated: 2025-01-09T19:24:14Z
+  Updated: 2025-11-18T01:50:43Z
   Vendor: Mattews Packaging
   Product Type: Hand Stretch Film
   Availability: Available
@@ -7580,7 +7580,7 @@
   Updated: 2024-07-15T02:47:01Z
   Total Products: 137
 - [Protective Wear](https://essentialsupplies.co.nz/collections/protective-wear)
-  Updated: 2024-07-15T02:47:01Z
+  Updated: 2025-11-18T12:15:47Z
   Total Products: 139
 - [Packaging & Tape](https://essentialsupplies.co.nz/collections/packaging-tape)
   Updated: 2024-07-15T02:47:02Z
@@ -7859,7 +7859,7 @@
   Updated: 2024-07-15T02:47:08Z
   Total Products: 6
 - [Reusable Aprons](https://essentialsupplies.co.nz/collections/reusable-aprons)
-  Updated: 2024-07-15T02:47:08Z
+  Updated: 2025-11-18T12:15:47Z
   Total Products: 6
 - [Safety Vests](https://essentialsupplies.co.nz/collections/safety-vests)
   Updated: 2024-07-15T02:47:08Z
