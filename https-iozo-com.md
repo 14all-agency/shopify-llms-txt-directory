@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2021-11-22T06:53:24Z
 - Contact Email: sale@iozo.com
-- Updated At: 2025-11-21T00:01:16.549Z
+- Updated At: 2025-11-22T00:01:11.013Z
 
 ## Products
 
