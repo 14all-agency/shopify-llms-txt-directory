@@ -176,7 +176,7 @@ firmer compression sculptwear
 - Timezone: Europe/Dublin
 - Created At: 2023-06-26T10:59:59Z
 - Contact Email: help@sugar-spicy.com
-- Updated At: 2025-11-21T20:00:27.058Z
+- Updated At: 2025-11-22T04:00:27.800Z
 
 BUSINESS INFORMATION — SUGAR + SPICY
 =========================================================
@@ -2103,7 +2103,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Availability: Not Available
     Price: $78.00 USD
 - [Indulge yourself with the Sugar + Spicy Seamless Covered Bust Bodysuit](https://sugar-spicy.com/products/seamless-covered-bust-bodysuit): The internet's favourite sculpting bodysuit it's now updated for an even better fit. Feature Lightweight NILIT® nylon fabric, comfy and breathable alone with a perfect shaping effect to supportive underbust design for relaxing support. It has a Snap closure design on the crotch, making it convenient for your lavatory visits.
-  Updated: 2025-11-21T17:15:21Z
+  Updated: 2025-11-21T22:32:30Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -2496,46 +2496,58 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_4.png?v=1763331453
     Price: $72.00 USD
 - [Revolutionary 3D Shaper: Sculpt, Lift, and Shape with Confidence!](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit): Discover the ultimate sculpting shaper for a sleek silhouette! Our lightweight and powerful 3D full-coverage design lifts flattens, and contours with comfort. Bra clips ensure it stay in place, while seamless leg openings provide a smooth transition. Shape confidently, and remain invisible under clothes!
-  Updated: 2025-11-18T01:23:31Z
+  Updated: 2025-11-21T23:57:30Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-10T181140.160.png?v=1702235151
   - [Black / XS-S](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit?variant=45857195688248)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-39967602999520_900x_206ce188-8fd6-41dc-b23b-5343d92c29d8.jpg?v=1763401939
     Price: $112.00 USD
   - [Black / M-L](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit?variant=45857195786552)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-39967602999520_900x_206ce188-8fd6-41dc-b23b-5343d92c29d8.jpg?v=1763401939
     Price: $112.00 USD
   - [Black / XL-XXL](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit?variant=45857195884856)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-39967602999520_900x_206ce188-8fd6-41dc-b23b-5343d92c29d8.jpg?v=1763401939
     Price: $112.00 USD
   - [Black / 3XL-4XL](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit?variant=45857195983160)
     Availability: Available
-    Price: $112.00 USD
-  - [Navajowhite / XS-S](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit?variant=45857195655480)
-    Availability: Available
-    Price: $112.00 USD
-  - [Navajowhite / M-L](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit?variant=45857195753784)
-    Availability: Available
-    Price: $112.00 USD
-  - [Navajowhite / XL-XXL](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit?variant=45857195852088)
-    Availability: Available
-    Price: $112.00 USD
-  - [Navajowhite / 3XL-4XL](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit?variant=45857195950392)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-39967602999520_900x_206ce188-8fd6-41dc-b23b-5343d92c29d8.jpg?v=1763401939
     Price: $112.00 USD
   - [Sienna / XS-S](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit?variant=45872571973944)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-39967603032288_900x_45499215-326e-4f08-a6ae-038a85e228a4.jpg?v=1763401939
     Price: $112.00 USD
   - [Sienna / M-L](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit?variant=45872572006712)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-39967603032288_900x_45499215-326e-4f08-a6ae-038a85e228a4.jpg?v=1763401939
     Price: $112.00 USD
   - [Sienna / XL-XXL](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit?variant=45872572039480)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-39967603032288_900x_45499215-326e-4f08-a6ae-038a85e228a4.jpg?v=1763401939
     Price: $112.00 USD
   - [Sienna / 3XL-4XL](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit?variant=45872572072248)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-39967603032288_900x_45499215-326e-4f08-a6ae-038a85e228a4.jpg?v=1763401939
+    Price: $112.00 USD
+  - [Navajowhite / XS-S](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit?variant=45857195655480)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-32643946643607_900x_e0526511-d9ba-4f12-951c-5596a2c405bf.jpg?v=1763401939
+    Price: $112.00 USD
+  - [Navajowhite / M-L](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit?variant=45857195753784)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-32643946643607_900x_e0526511-d9ba-4f12-951c-5596a2c405bf.jpg?v=1763401939
+    Price: $112.00 USD
+  - [Navajowhite / XL-XXL](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit?variant=45857195852088)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-32643946643607_900x_e0526511-d9ba-4f12-951c-5596a2c405bf.jpg?v=1763401939
+    Price: $112.00 USD
+  - [Navajowhite / 3XL-4XL](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit?variant=45857195950392)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-32643946643607_900x_e0526511-d9ba-4f12-951c-5596a2c405bf.jpg?v=1763401939
     Price: $112.00 USD
 - [Seamless Shaping: All-Day Comfort High-waisted Mid-thigh Shaper Shorts](https://sugar-spicy.com/products/high-waisted-mid-thigh-shaper-shorts): Experience our high-waisted shaping garment! Lightweight, seamless design with targeted shaping zones for stomach support. Soft yarns, no-slip waistband, and shirring for a perfect fit. Embrace smooth curves and freedom of movement effortlessly. Say goodbye to muffin tops and hello to a confident you!
   Updated: 2025-11-12T04:16:15Z
@@ -2622,7 +2634,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Availability: Not Available
     Price: $98.00 USD
 - [Sculpt Your Silhouette Effortlessly with Our Mid-Thigh Bodysuit!](https://sugar-spicy.com/products/seamless-covered-open-back-sculptwear): Shop our front scoop neck, open-back, and mid-thigh bodysuit for everyday sculpting perfection. Crafted with soft, stretchy materials, this bodysuit offers targeted soft-level compression, emphasizing a contoured midsection, lifted butt, and trimmed thighs.
-  Updated: 2025-11-16T06:24:39Z
+  Updated: 2025-11-21T23:29:26Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -2673,7 +2685,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Availability: Not Available
     Price: $82.00 USD
 - [Low Back Seamless Bodysuit - Achieve Sexy Curves with Our Sculpting Shaper](https://sugar-spicy.com/products/low-back-seamless-bodysuit): Elevate your style game with our sculpting shaper! Experience 3D buttock lifting, waist reduction, and abdomen flattening for a sleeker silhouette. Designed for comfort and style, our mid-thigh shaper enhances body curves>
-  Updated: 2025-11-18T10:32:17Z
+  Updated: 2025-11-21T23:23:56Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -2727,7 +2739,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/MT200279-SK1-202101206007f911b7da4.jpg?v=1763419836
     Price: $108.00 USD
 - [Enhanced Sculpting Bodysuit for Targeted Control](https://sugar-spicy.com/products/full-body-shaper): Discover our updated mid-thigh bodysuit for ultimate sculpting and control. Flatten your tummy, enhance your curves, and enjoy seamless comfort. Shop now!
-  Updated: 2025-11-18T00:21:08Z
+  Updated: 2025-11-21T23:19:18Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -2853,67 +2865,85 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-37398362882272_900x_027d2dde-2e83-440d-a224-0ad58c0ec756.png?v=1763384145
     Price: $112.00 USD
 - [Fancy Cupped Bodysuit: Underwire Support & Slimming Compression](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit): Elevate comfort with our cupped bodysuit! It features an underwire fit for excellent support & flexible compression cups, adjustable back closure for a perfect fit, built-in slimming effects, and a crotch-overlapping design for convenience. Perfect for all-day wear & enhancing your confidence.
-  Updated: 2025-08-30T22:12:04Z
+  Updated: 2025-11-21T23:48:11Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T221707.491.png?v=1699046703
   - [Black / S](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960134000952)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225836.968.png?v=1699046703
     Price: $98.00 USD
   - [Black / M](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960134132024)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225836.968.png?v=1699046703
     Price: $98.00 USD
   - [Black / L](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960134230328)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225836.968.png?v=1699046703
     Price: $98.00 USD
   - [Black / XL](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960134328632)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225836.968.png?v=1699046703
     Price: $98.00 USD
   - [Black / XXL](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960134426936)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225836.968.png?v=1699046703
     Price: $98.00 USD
   - [Black / 3XL](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960134525240)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225836.968.png?v=1699046703
     Price: $98.00 USD
   - [Saddlebrown / S](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960134033720)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225604.794.png?v=1699046703
     Price: $98.00 USD
   - [Saddlebrown / M](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960134164792)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225604.794.png?v=1699046703
     Price: $98.00 USD
   - [Saddlebrown / L](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960134263096)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225604.794.png?v=1699046703
     Price: $98.00 USD
   - [Saddlebrown / XL](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960134361400)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225604.794.png?v=1699046703
     Price: $98.00 USD
   - [Saddlebrown / XXL](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960134459704)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225604.794.png?v=1699046703
     Price: $98.00 USD
   - [Saddlebrown / 3XL](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960134558008)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225604.794.png?v=1699046703
     Price: $98.00 USD
   - [Navajowhite / S](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960133935416)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225708.599.png?v=1699046703
     Price: $98.00 USD
   - [Navajowhite / M](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960134066488)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225708.599.png?v=1699046703
     Price: $98.00 USD
   - [Navajowhite / L](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960134197560)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225708.599.png?v=1699046703
     Price: $98.00 USD
   - [Navajowhite / XL](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960134295864)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225708.599.png?v=1699046703
     Price: $98.00 USD
   - [Navajowhite / XXL](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960134394168)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225708.599.png?v=1699046703
     Price: $98.00 USD
   - [Navajowhite / 3XL](https://sugar-spicy.com/products/fancy-cupped-mid-thigh-tummy-control-bodysuit?variant=45960134492472)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-02T225708.599.png?v=1699046703
     Price: $98.00 USD
 - [Sculpt Your Silhouette Effortlessly with Our Mid-Thigh Bodysuit!](https://sugar-spicy.com/products/sculptress-firm-body-shaper): Shop our front scoop neck, open-back, and mid-thigh bodysuit for everyday sculpting perfection. Crafted with soft, stretchy materials, this bodysuit offers targeted soft-level compression, emphasizing a contoured midsection, lifted butt, and trimmed thighs.
-  Updated: 2025-11-16T06:31:24Z
+  Updated: 2025-11-21T23:29:26Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -3017,51 +3047,59 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shaping-dress-42613329592544_900x_6a406eba-2fa0-4357-a699-b265894d133b_8.png?v=1734542900
     Price: $98.00 USD
-- [Body-Shaping Shapewear with Diamond Neckline and Triple-Layer Control](https://sugar-spicy.com/products/firm-body-shapewear): Elevate your figure with our luxurious shapewear. Featuring a diamond neckline, steel ring support, triple-layer abdominal control, and a convenient crotch button, this piece offers comfort and confidence. Enhance your curves with built-in back lifting and peach buttock shaping.
-  Updated: 2025-11-15T10:32:29Z
+- [Firm Body-Shaping Shapewear w/ Triple-Layer Control](https://sugar-spicy.com/products/firm-body-shapewear): Elevate your figure with luxurious shapewear featuring a diamond neckline, steel ring support, triple abdominal control, crotch button, and peach-lifting back shaping.
+  Updated: 2025-11-21T23:15:43Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2024-09-21T180818.693.png?v=1726938825
   - [Black / S](https://sugar-spicy.com/products/firm-body-shapewear?variant=49266234851640)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2024-09-20T230917.949.png?v=1726870486
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_64.png?v=1763766880
     Price: $118.00 USD
   - [Black / M](https://sugar-spicy.com/products/firm-body-shapewear?variant=49266234884408)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2024-09-20T230917.949.png?v=1726870486
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_64.png?v=1763766880
+    Price: $118.00 USD
+  - [Black / L](https://sugar-spicy.com/products/firm-body-shapewear?variant=51385735283000)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_64.png?v=1763766880
     Price: $118.00 USD
   - [Black / XL](https://sugar-spicy.com/products/firm-body-shapewear?variant=49266234917176)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2024-09-20T230917.949.png?v=1726870486
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_64.png?v=1763766880
     Price: $118.00 USD
   - [Black / 2XL](https://sugar-spicy.com/products/firm-body-shapewear?variant=49266234949944)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2024-09-20T230917.949.png?v=1726870486
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_64.png?v=1763766880
     Price: $118.00 USD
   - [Black / 3XL](https://sugar-spicy.com/products/firm-body-shapewear?variant=49266457706808)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2024-09-20T230917.949.png?v=1726870486
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_64.png?v=1763766880
     Price: $118.00 USD
   - [Navajowhite / S](https://sugar-spicy.com/products/firm-body-shapewear?variant=49266234982712)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2024-09-20T230720.479.png?v=1726870488
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_61.png?v=1763766880
     Price: $118.00 USD
   - [Navajowhite / M](https://sugar-spicy.com/products/firm-body-shapewear?variant=49266235015480)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_61.png?v=1763766880
+    Price: $118.00 USD
+  - [Navajowhite / L](https://sugar-spicy.com/products/firm-body-shapewear?variant=51385735315768)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2024-09-20T230720.479.png?v=1726870488
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_61.png?v=1763766880
     Price: $118.00 USD
   - [Navajowhite / XL](https://sugar-spicy.com/products/firm-body-shapewear?variant=49266235048248)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2024-09-20T230720.479.png?v=1726870488
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_61.png?v=1763766880
     Price: $118.00 USD
   - [Navajowhite / 2XL](https://sugar-spicy.com/products/firm-body-shapewear?variant=49266235081016)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2024-09-20T230720.479.png?v=1726870488
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_61.png?v=1763766880
     Price: $118.00 USD
   - [Navajowhite / 3XL](https://sugar-spicy.com/products/firm-body-shapewear?variant=49266457739576)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2024-09-20T230720.479.png?v=1726870488
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_61.png?v=1763766880
     Price: $118.00 USD
 - [Sugar + Spicy Seamless Deep V-Neck Shapewear with Removable Cups](https://sugar-spicy.com/products/deep-v-tummy-control-catsuit): Elevate your curves with our luxurious shapewear. This seamless piece offers comfort and confidence and features a deep V-neckline, removable padded cups, and 360° control. Our tight-knit structure and breathable fabric enhance your figure.
   Updated: 2025-11-15T07:26:19Z
@@ -4346,16 +4384,16 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
   Updated: 2025-11-21T17:05:23Z
   Total Products: 72
 - [Sugar + Spicy New Arrivals | Discover the Latest Trends](https://sugar-spicy.com/collections/new): Explore our latest collection of stylish and trendy pieces. From everyday essentials to statement-making outfits, find your new favorites today.
-  Updated: 2025-11-16T20:56:02Z
-  Total Products: 29
+  Updated: 2025-11-21T23:44:47Z
+  Total Products: 28
 - [Sugar Bodysuits for Women With Every Type of Body](https://sugar-spicy.com/collections/sugar-bodysuits): Elevate your confidence with Sugar + Spicy's inclusive range of body shapers, underwear, and shapewear. Our products empower women of all races, body types, and financial backgrounds, delivering comfort and allure. Celebrate your uniqueness with us!
-  Updated: 2025-11-21T17:05:23Z
-  Total Products: 41
+  Updated: 2025-11-21T23:55:07Z
+  Total Products: 42
 - [Sugar + Spicy Sale - Last chance to shop these sale styles!](https://sugar-spicy.com/collections/sale): "These most-wanted silhouettes are selling fast!" We are setting new standards by providing solutions for every body. From technically constructed shapewear that enhances your curves to underwear that stretches to twice its size, our goal is to consistently innovate on the past and advance our industry for the future.
-  Updated: 2025-11-21T17:05:23Z
-  Total Products: 9
+  Updated: 2025-11-21T22:30:33Z
+  Total Products: 8
 - [Looking for Sexy Bodysuits? Designed for All Bodies Type](https://sugar-spicy.com/collections/spicy-bodysuits): Striking. Provocative. Alluring. Experience the perfect balance of confidence and sensuality with our captivating Spicy Bodysuits creation. A simple lingerie bodysuit has become a daywear trend, giving your outfit a sexy feel to adorn your curves.
-  Updated: 2025-11-20T22:55:59Z
+  Updated: 2025-11-21T22:12:06Z
   Total Products: 12
 - [Sugar + Spicy Body Shaper Bodysuits for Every Body](https://sugar-spicy.com/collections/body-shaper): Take your shapewear to the next level. Targeted compression sculpts without squeezing and flexible boning prevent roll-down. Breathable, sweat-wicking fabric keeps you cool. Lingerie-inspired designs are just as sexy as they are supportive.
   Updated: 2025-11-20T22:55:19Z
