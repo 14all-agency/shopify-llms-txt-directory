@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-01-28T02:13:08Z
 - Contact Email: contact@conquest.fit
-- Updated At: 2025-11-21T00:01:00.646Z
+- Updated At: 2025-11-22T00:00:30.210Z
 
 ## Products
 
@@ -1127,6 +1127,9 @@
     Author: Conquest Nutrition
   - [Fitness Superfoods: Nutritional Powerhouses to Boost Your Health and Wellness](https://www.conquest.fit/blogs/news/fitness-superfoods-nutritional-powerhouses-to-boost-your-health-and-wellness): Fitness Superfoods: Nutritional Powerhouses to Boost Your Health and Wellness
     Updated: 2025-11-19T07:05:00Z
+    Author: Conquest Nutrition
+  - [Maximizing Wellness with the Right Balance of Fitness and Nutrition](https://www.conquest.fit/blogs/news/maximizing-wellness-with-the-right-balance-of-fitness-and-nutrition): Maximizing Wellness with the Right Balance of Fitness and Nutrition
+    Updated: 2025-11-21T07:07:15Z
     Author: Conquest Nutrition
 
 ## Store Pages
