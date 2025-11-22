@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-09-30T12:20:15Z
 - Contact Email: info@aevitas-uk.co.uk
-- Updated At: 2025-11-22T08:00:30.418Z
+- Updated At: 2025-11-22T12:00:29.253Z
 
 ## Products
 
@@ -556,7 +556,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Premium-Triple-Watch-Roll-in-Black-Saffiano-Leather-with-Super-Black-Suede-Lining.webp?v=1760447632
   Price: £94.95 GBP
 - [Premium 2 Watch Winder in Zebrano Ebony Wood Piano Lacquer by Aevitas](https://aevitas-uk.co.uk/products/premium-2-watch-winder-in-zebrano-ebony-wood-piano-lacquer-by-aevitas): Introducing the Premium 2 Watch Winder, a true masterpiece by Aevitas
-  Updated: 2025-11-21T12:52:50Z
+  Updated: 2025-11-22T11:33:16Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -955,7 +955,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/4-Watch-Box-with-Cufflink-Storage-Natural-Walnut-Finish-by-Aevitas.webp?v=1760449408
   Price: £139.95 GBP
 - [8 Watch Box with Cufflink Storage Natural Walnut Finish by Aevitas](https://aevitas-uk.co.uk/products/8-watch-box-with-cufflink-storage-natural-walnut-finish-by-aevitas): Our New 8 Watch Box with Cufflink Storage in Natural Walnut Finish is perfect for storing your watches and cufflinks. Luxury soft green suede like interior
-  Updated: 2025-11-22T05:45:15Z
+  Updated: 2025-11-22T09:48:26Z
   Vendor: Aevitas
   Product Type: Watch Box
   Availability: Available
@@ -1074,7 +1074,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Single-Watch-Winder-Black-Leather-Blue-Lining-Mains-or-Battery-by-Aevitas.webp?v=1760450027
   Price: £219.95 GBP
 - [Single Watch Winder Black Leather Grey Lining Mains or Battery](https://aevitas-uk.co.uk/products/single-watch-winder-black-leather-grey-lining-mains-or-battery-by-aevitas): Single Watch Winder Black Leather Watch Winder for All Automatic Watches. Smart Black Leather (Vegan) finish with Grey Lining and Stitching. Free UK Delivery
-  Updated: 2025-11-21T12:54:07Z
+  Updated: 2025-11-22T08:27:36Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -1415,7 +1415,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Black-Oak-Veneer-Watch-Box-for-10-Watches-Extra-Storage-Drawer-Premium-Quality.webp?v=1760453077
   Price: £219.95 GBP
 - [Premium 6 Watch Box in Piano Black Gloss Finish Black Luxury Lining](https://aevitas-uk.co.uk/products/premium-6-watch-box-in-piano-black-gloss-finish-with-black-luxury-lining): Beautifully Hand Crafted Premium Wooden 6 Watch Box with luxury Black suede lining. As you can see in the images it can handle large watches.
-  Updated: 2025-11-21T12:54:57Z
+  Updated: 2025-11-22T12:00:09Z
   Vendor: Aevitas
   Product Type: Watch Box
   Availability: Available
@@ -1747,7 +1747,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Extra-Large-Premium-Jewellery-Box-White-Wood-with-Camel-Colour-Lining-by-Aevitas.webp?v=1760452493
   Price: £249.95 GBP
 - [Premium Jewellery Box Extra Large Size Mahogany Wood with Camel Colour Lining by Aevitas](https://aevitas-uk.co.uk/products/premium-jewellery-box-extra-large-size-mahogany-wood-with-camel-colour-lining-by-aevitas-1): Premium Jewellery Box Glossy Mahogany Wood Finish with Camel Colour Lining by Aevitas Experience the sophistication of the Premium Extra Large Jewellery Box by Aevitas, showcasing a stunning Mahogany wood finish enhanced by a multi-layered lacquer that accentuates its natural grain. The interior features a plush camel-coloured suedette lining, offering gentle protection for your valuable jewellery. Spacious enough to hold necklaces, watches, bracelets, and rings, this elegant box keeps all your treasures neatly organised. With dimensions of 35 cm wide, 26 cm deep, and 21 cm high, it provides generous storage while remaining compact. Crafted from strong, high-quality wood and presented in a branded gift box, it’s a perfect gift or a luxurious treat for yourself. Elevate your jewellery storage with this enduring classic. See Matching Watch Box Here
-  Updated: 2025-11-21T12:55:40Z
+  Updated: 2025-11-22T11:39:41Z
   Vendor: Aevitas Watch Winders
   Product Type: Jewellery Box
   Availability: Available
