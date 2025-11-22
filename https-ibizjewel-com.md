@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-11-21T00:00:43.595Z
+- Updated At: 2025-11-22T00:00:59.291Z
 
 ## Products
 
@@ -44658,6 +44658,9 @@
     Updated: 2025-11-17T03:42:21Z
     Author: Heris K.
     Tags: diamond rings, diamonds, eco-friendly diamond choices, ethical jewelry, jewelry, salt and pepper, salt and pepper diamond ring, sustainability, sustainable engagement options
+  - [Salt and Pepper Diamond Rings: The Next Trend & How to Choose](https://ibizjewel.com/blogs/news/salt-and-pepper-diamond-rings-the-next-trend-how-to-choose)
+    Updated: 2025-11-21T07:24:04Z
+    Author: work inventions
 
 ## Store Pages
 
