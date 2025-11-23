@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2024-11-01T17:53:57Z
 - Contact Email: sglobalresorts@gmail.com
-- Updated At: 2025-11-21T00:00:54.056Z
+- Updated At: 2025-11-23T00:00:32.404Z
 
 ## Products
 
@@ -15948,6 +15948,10 @@
     Updated: 2025-11-17T10:08:51Z
     Author: Oceanfront Products
     Tags: apparel, cozy travel outfits, oceanfront tee, pumpkin spice, relaxation, style, sweatshirts, travel, travel essentials, travel planner, tshirts, ultimate relaxation wear
+  - [Embrace Coastal Serenity With the Mermaidcore Sweatshirt — Your Travel Planner's Ultimate Oceanfront Essential](https://oceanfrontproducts.com/blogs/journal/embrace-coastal-serenity-with-the-mermaidcore-sweatshirt-your-travel-planners-ultimate-oceanfront-essential): Embrace Coastal Serenity With the Mermaidcore Sweatshirt — Your Travel Planner's Ultimate Oceanfront Essential
+    Updated: 2025-11-21T10:03:10Z
+    Author: Oceanfront Products
+    Tags: apparel, beach attire, coastal, mermaidcore style, ocean, oceanfront essentials, sweatshirt fashion, sweatshirts, travel, travel essentials, travel planner, travel planner tips, tshirts
 
 ## Store Pages
 
