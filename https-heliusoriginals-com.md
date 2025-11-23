@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T09:00:11Z
 - Contact Email: info@heliusoriginals.com
-- Updated At: 2025-11-20T00:00:51.603Z
+- Updated At: 2025-11-23T00:00:26.235Z
 
 ## Products
 
@@ -73,14 +73,14 @@
   Image: https://cdn.shopify.com/s/files/1/0668/7883/2865/products/artisanal-aroma-boards-premium-ontario-wood.jpg?v=1756411679
   Price: $90.99 USD
 - [Spring Cocktail Recipe Book Vol.1](https://heliusoriginals.com/products/spring-cocktail-recipe-book-vol-1): Discover the captivating world of Helius Originals Spring Smoked Cocktail Recipe Book, your ultimate guide to crafting mesmerizing smoked cocktails that will elevate your mixology skills and delight your senses. Available as an easy-to-download digital edition, this beautifully designed recipe book is a must-have for cocktail enthusiasts and home bartenders alike who are looking to impress their guests and indulge in the enchanting flavors of spring.Our expert mixologists at Helius Originals have thoughtfully curated a collection of 10 exclusive spring-inspired smoked cocktail recipes that artfully blend classic techniques with innovative ingredients and unique presentations. Each recipe has been meticulously crafted to ensure you can recreate the magic of Helius Originals in the comfort of your own home.As you immerse yourself in the world of smoky spring cocktails, you'll discover enticing concoctions featuring an array of aromatic ingredients, such as elderflower, lavender, and rose, expertly paired with the rich, smoky notes of mezcal, peated scotch, and lapsang souchong tea syrup. The vivid step-by-step instructions and precise measurements make it simple for you to shake, stir, and savor these delightful creations.By downloading the Helius Originals Spring Smoked Cocktail Recipe Book, you'll expand your mixology repertoire and unlock the secrets to transforming ordinary gatherings into unforgettable experiences. So why wait? Embrace the allure of spring, master the art of smoked cocktails, and bring the magic of Helius Originals to your home with just a few clicks. Download your copy today and let your cocktail adventure begin!
-  Updated: 2025-10-03T00:50:05Z
+  Updated: 2025-11-20T14:18:21Z
   Vendor: Helius Originals
   Product Type: ebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0668/7883/2865/products/HeliusOriginalsSpringsmokerecipebookcocktailcover.png?v=1681489647
   Price: $0.00 USD
 - [Smoked Cocktail Recipes for Fall | Helius Originals Recipe Book](https://heliusoriginals.com/products/smoked-cocktail-book-fall): Discover our Fall Smoke Cocktail Recipe Book featuring smoked twists on the Manhattan cocktail recipe, Aviation, Zombie, Toronto, and more.
-  Updated: 2025-10-03T00:50:06Z
+  Updated: 2025-11-20T14:18:21Z
   Vendor: Helius Originals
   Product Type: ebook
   Availability: Available
