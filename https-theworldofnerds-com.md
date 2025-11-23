@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-11-22T00:00:36.965Z
+- Updated At: 2025-11-23T00:00:57.214Z
 
 ## Products
 
@@ -5520,7 +5520,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7895copy.jpg?v=1740116090
   Price: ₹2,340.00 INR
 - [WHITE-LEXUS LX570 SCALE - 1:24 D2](https://theworldofnerds.com/products/white-lexus-lx570-scale-1-24): This 1:24 scale WHITE-LEXUS LX570 offers a realistic and detailed miniature of the luxurious car. Crafted with precision and attention to detail, it showcases the iconic design and high-performance features of the Lexus LX570. Perfect for collectors and enthusiasts alike.
-  Updated: 2025-07-29T05:13:38Z
+  Updated: 2025-11-22T07:50:54Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
