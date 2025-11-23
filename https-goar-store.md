@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-08-13T12:49:55Z
 - Contact Email: joseluisgonzalezarsb@gmail.com
-- Updated At: 2025-11-21T00:01:48.195Z
+- Updated At: 2025-11-23T00:01:11.586Z
 
 ## Products
 
@@ -18,14 +18,14 @@
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/M0806652_P10.jpg?v=1763549826
   Price: 2020,26 € EUR
 - [In-ear Bluetooth Headphones Xiaomi Buds 6 Active](https://goar.store/products/in-ear-bluetooth-headphones-xiaomi-buds-6-active): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy In-ear Bluetooth Headphones Xiaomi Buds 6 Active at an unbeatable price.Type: Headphones In-ear Headphones
-  Updated: 2025-11-20T22:40:42Z
+  Updated: 2025-11-21T22:45:38Z
   Vendor: Xiaomi
   Product Type: Computers | Electronics > Electronics | Sound > Wireless headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/2504092413215_S0241642_P00.jpg?v=1763549837
   Price: 18,11 € EUR
 - [Smartphone OnePlus Nord CE5 5G 6,77" Octa Core 8 GB RAM 256 GB Black](https://goar.store/products/smartphone-oneplus-nord-ce5-5g-677-octa-core-8-gb-ram-256-gb-black): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone OnePlus Nord CE5 5G 6,77" Octa Core 8 GB RAM 256 GB Black at an unbeatable price. Product with plug: Yes Type: Smartphone Type of plug: Plug EU Repairability Index: 6.9 Technology: AMOLED Battery capacity: 5200 mAh Screen: 6,77" Operating System: Android Power: 80 W Connectivity: Wi-Fi Camera: 16 mpx 50 Mp Connections: USB-C Processor: Octa Core RAM Memory: 8 GB RAM Internal Memory: 256 GB Colour: Black
-  Updated: 2025-11-20T22:40:43Z
+  Updated: 2025-11-22T22:45:16Z
   Vendor: OnePlus
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
@@ -39,19 +39,19 @@
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/8717332340132_I00.jpg?v=1763549824
   Price: 177,82 € EUR
 - [In-ear Bluetooth Headphones Huawei FreeBuds SE 2 White](https://goar.store/products/in-ear-bluetooth-headphones-huawei-freebuds-se-2-white): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy In-ear Bluetooth Headphones Huawei FreeBuds SE 2 White at an unbeatable price. Type: Headphones with Microphone Wireless Headphones In-ear Headphones Colour: White Characteristics: Noise cancellation Case Built-in microphone Wireless Guarantee Installation guide included Built-in battery Connections: USB-C Power supply: USB Built-in microphone: Yes Material: Plastic Connectivity: Bluetooth Bluetooth 5.3 Type of headphones: In-ear headphones IP rating: IP54 Approx. autonomy: 9 hours 40 hours Frequency: 20 - 20000 Hz Control type: Touchpad Battery: Yes Recommended age: Adults Headphones: Binaural Recommended use: Calls and music Battery type: Litio Ion
-  Updated: 2025-11-20T03:54:43Z
+  Updated: 2025-11-22T10:58:30Z
   Vendor: Huawei
   Product Type: Computers | Electronics > Electronics | Sound > Wireless headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6942103101359_I20.jpg?v=1763549835
   Price: 31,04 € EUR
 - [Bluetooth Waterproof Headphones](https://goar.store/products/pro-4-tws-wireless-headphones-earphone-bluetooth-compatible-5-3-waterproof-headset-with-mic-for-xiaomi-iphone-pro4-earbuds-1): Experience immersive sound and seamless connectivity with NNEOBA headphones, designed for active lifestyles. Specifications: Bluetooth Version: 5.3 Waterproof Rating: Yes (sweat and splash resistant) Battery Life: Up to 12 hours Maximum Wireless Range: <10m In-ear Style: Yes Microphone: Yes Charging Method: USB cable Driver Diameter: 20mm Frequency Response Range: 20 - 20000 Hz Impedance: Up to 32 Ω Benefits: Superior waterproof design for outdoor use Stable and fast Bluetooth 5.3 connectivity Comfortable in-ear style for a secure fit Quick and easy pairing with all Bluetooth devices Lightweight and portable charging case included Description:Elevate your listening experience with NNEOBA Wireless Headphones. Featuring advanced Bluetooth 5.3 technology, these headphones ensure a quick and reliable connection to your devices, making them perfect for music lovers on the go. Their waterproof design allows you to enjoy your favorite tunes during workouts or outdoor activities without worry. The in-ear style not only provides a snug fit but also effectively blocks out ambient noise, immersing you in sound. With features like binaural calling and automatic pairing, these headphones are a smart choice for anyone looking to combine convenience with high-quality audio. Enjoy freedom, style, and performance with NNEOBA!
-  Updated: 2025-11-20T10:56:26Z
+  Updated: 2025-11-22T10:56:29Z
   Vendor: OBA
   Product Type: Electronics > Headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/Pro-4-TWS-Wireless-Headphones-Earphone-Bluetooth-compatible-5-3-Waterproof-Headset-with-Mic-for-Xiaomi_9342be22-17d3-43ae-b38d-81f9860f5fee.webp?v=1763549828
-  Price: 55,53 € EUR
+  Price: 55,43 € EUR
 - [Smartphone Apple 6,9" 1 TB White](https://goar.store/products/smartphone-apple-69-1-tb-white): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone Apple 6,9" 1 TB White at an unbeatable price. Diagonal of the screen (cm): 17,5 cm Product with plug: Yes Type: Smartphone Dual SIM Type of plug: Plug EU Repairability Index: 8.3 Screen: 6,9" Operating System: iOS Power: 30 W Connectivity: NFC Bluetooth Wi-Fi BeiDou 5G Wi-Fi positioning Bluetooth 5.3 Camera: 12 mpx 48 MP Front Triple Connections: USB-C USB USB 3.2 Processor: Hexa Core RAM Memory: 8 GB RAM Internal Memory: 1 TB Colour: White Characteristics: GPS Barometer Ambient light sensor Videocall HDR Automatic focus Voice activation Fast and safe charging Cordless Charger Proximity sensor Ceramic Shield Screen with rounded corners Flat screen Sensors: Accelerometer Gyroscope IP rating: IP68 Includes: Speaker USB Type-C - USB Type-C Functions: ECO Geo-localisation Vibration Technology: Mime Glonass OLED Shine: 1000 cd/m² Angle: 120º Speed: 120 Hz Flash: No Battery type: Litio Ion Nuclei: 6 Nuclei 16 Nuclei Resolution (px): 3840 x 2160 px 2160 px
   Updated: 2025-11-20T22:40:41Z
   Vendor: Apple
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6925281969560_S9917492_P01.jpg?v=1763549838
   Price: 58,61 € EUR
 - [Smartphone Xiaomi Redmi A5 Octa Core 3 GB RAM 64 GB Black](https://goar.store/products/smartphone-xiaomi-redmi-a5-octa-core-3-gb-ram-64-gb-black): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone Xiaomi Redmi A5 Octa Core 3 GB RAM 64 GB Black at an unbeatable price.The Xiaomi Redmi A5 is a smartphone that stands out for its balanced combination of performance, battery life, and multimedia, ideal for users seeking a functional and versatile device. Its Midnight Black color design offers a sober and elegant look, while its large 6.88-inch display delivers an immersive visual experience with support for an adaptive refresh rate up to 120 Hz, ensuring smoother scrolling and animations when browsing or consuming content. Powered by an Unisoc T7250 octa-core processor, this model provides adequate performance for daily tasks and efficient multitasking, complemented by 3 GB of RAM for a smooth experience. For storage, it includes 64 GB, offering enough space for apps, photos, and files, expandable via microSD cards (according to official Xiaomi specifications). The AI-enhanced dual rear camera features a 32MP main sensor that captures sharper, clearer images even in low light thanks to a larger lens that increases light intake by 18%, plus an 8MP front camera with fill light for sharp, well-balanced selfies. Connectivity options include basic features such as GPS, enabling precise real-time navigation and location. Its 5200 mAh battery provides extended autonomy for continuous use without frequent recharging, also supporting 15W fast charging that significantly reduces charging time. This combination makes the Redmi A5 a solid mid-range option, suited for those needing a versatile smartphone with good multimedia capacity, lasting battery, and adequate power for everyday use. Its design and technical specs reflect Xiaomi’s commitment to offering competitive devices that balance features and price. Type of plug: Plug EU Type: Smartphone Dual SIM LPDDR4X Product with plug: Yes Resolution (px): 1080 px 1920 x 1080 px Accelerometer: Yes Nuclei: 8 8 Nuclei GPS: Yes Connectivity: GPS Galileo 5G Bluetooth Wi-Fi 4G Dual SIM Bluetooth 5.2 WCDMA Frequency: 120 Hz Glonass: Yes Characteristics: Fast charging Electronic compass GPS Front-facing camera Extendable memory Touchscreen Ambient light sensor MMS Videocall Dual SIM Wi-Fi Guarantee HD Screen Android Installation guide included Fast and safe charging SMS Fingerprint reader Rearview camera Proximity sensor Flat screen Protective Case: Yes Radio FM: Yes Memory Type: LPDDR4X Speed: 1,8 ghz 1.8 GHz Includes: USB-C Cable Protective Case Colour: Midnight black Black Approx. weight: 193 g Diagonal of the screen (cm): 17,5 cm 16,5 cm Shine: 450 cd/m² 450 CD / M² Screen: 6,88" Operating System: Android 15 Android Android 13 Connections: USB-C USB 4G Jack 3.5 mm Dual SIM Battery capacity: 5000 mAh 5200 mAh Processor: Octa Core Unisoc RAM Memory: 3 GB RAM Internal Memory: 64 GB Energy classification: B Aperture: F/2,0 Sensors: Accelerometer Camera: 8 MP Front Rear Functions: ECO Technology: 4G/LTE Glonass Resolution: 1080 p Formats: AAC, SBC SIM: Dual SIM Not included: Adapter AC Compatible memory cards: MicroSD (TransFlash)
-  Updated: 2025-11-20T22:40:40Z
+  Updated: 2025-11-22T22:44:25Z
   Vendor: Xiaomi
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
@@ -88,7 +88,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/8806095299723_M0803329_P00.jpg?v=1763549825
   Price: 701,66 € EUR
 - [Smartphone Xiaomi POCO M7 Octa Core 6 GB RAM 128 GB Blue 6,9"](https://goar.store/products/smartphone-xiaomi-poco-m7-octa-core-6-gb-ram-128-gb-blue-69): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone Xiaomi POCO M7 Octa Core 6 GB RAM 128 GB Blue 6,9" at an unbeatable price. Diagonal of the screen (cm): 17,5 cm Product with plug: Yes Type: Smartphone Dual SIM LPDDR4X Energy classification: B Processor: Octa Core QUALCOMM SNAPDRAGON 685 RAM Memory: 6 GB RAM Internal Memory: 128 GB Colour: Blue Characteristics: GPS Ambient light sensor Installation guide included Fast and safe charging Fingerprint reader Proximity sensor Connections: USB-C 4G Connectivity: Bluetooth Wi-Fi NFC Bluetooth 5.0 BeiDou WCDMA Aperture: F/1,8 Sensors: Accelerometer Screen: 6,9" Frequency: 144 Hz Includes: Infrared Sensor Protective Case Camera: Dual 8 MP Front Functions: ECO Resolution: 2340 x 1080 px Rechargeable lithium battery: 7000 mAh Technology: Glonass Maximum memory card size: 2 TB Compatible memory cards: MicroSD (TransFlash) Shine: 700 cd/m² Nuclei: 8 Nuclei Processor Family: Qualcomm Snapdragon
-  Updated: 2025-11-20T02:41:38Z
+  Updated: 2025-11-21T22:45:37Z
   Vendor: Xiaomi
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
@@ -101,27 +101,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/22e5cbf5-64b2-4662-b59b-b64cfc515186.png?v=1763549817
   Price: 117,07 € EUR
-- [Smartphone Xiaomi 2409FPCC4G 6,67" Octa Core 12 GB RAM 256 GB Green](https://goar.store/products/smartphone-xiaomi-2409fpcc4g-667-octa-core-12-gb-ram-256-gb-green): If you are looking for new market trending items, we present the Smartphone Xiaomi 2409FPCC4G 6,67" Octa Core 12 GB RAM 256 GB Green!The Xiaomi Poco M7 Pro is a smartphone designed for users who need power and smooth multitasking and gaming, equipped with an efficient Dimensity 7025-Ultra 6 nm processor that ensures 5G connectivity and agile performance. This device stands out for its large 12 GB RAM, which facilitates simultaneous management of apps and processes, and a generous 256 GB internal storage, ideal for storing extensive multimedia content and apps without space concerns. Its 6.67-inch AMOLED display with a 120 Hz refresh rate and 394 pixels per inch density offers a sharp, colorful visual experience, with high brightness ensuring optimal visibility even outdoors. For photography, it includes a 20-megapixel front camera with wide-angle and automatic zoom adjustment, perfect for clear, well-defined selfies and group shots. Additionally, the modern green design features a soft texture and ergonomic curves that improve grip and provide an elegant, slim appearance. The phone has a USB-C connection, the current standard for fast and versatile charging and data transfer. Its large 5110 mAh battery, combined with a 45 W ultra-fast turbo charging system, allows efficient charging reaching over 60% power in just 30 minutes, extending autonomy for intensive use without interruptions. Overall, the Xiaomi Poco M7 Pro combines power, outstanding battery life, and excellent visual quality in a format designed to offer a balanced and up-to-date experience for any demanding user. Product with plug: Yes Type: Smartphone Type of plug: Plug EU Diagonal of the screen (cm): 16,9 cm Technology: AMOLED Battery capacity: 5110 MAH Screen: 6,67" Operating System: Android Power: 45 W Connectivity: Wi-Fi NFC Camera: 20 mpx 50 Mp Connections: USB-C Processor: Octa Core RAM Memory: 12 GB RAM Internal Memory: 256 GB Colour: Green
-  Updated: 2025-11-20T22:40:41Z
-  Vendor: Xiaomi
-  Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6932554428440_M0806005_P00.jpg?v=1763549833
-  Price: 233,00 € EUR
 - [Smartphone Apple iPhone 15 Pro 6,1" 1 TB Titanium](https://goar.store/products/smartphone-apple-iphone-15-pro-61-1-tb-titanium): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone Apple iPhone 15 Pro 6,1" 1 TB Titanium at an unbeatable price. Diagonal of the screen (cm): 15,5 cm Product with plug: Yes Type: Smartphone Dual SIM Type of plug: Plug EU Repairability Index: 7.6 Screen: 6,1" Operating System: iOS Power: 20 W Connectivity: NFC Bluetooth Wi-Fi BeiDou 5G Wi-Fi positioning Wi-Fi 6 GHz Bluetooth 5.3 Camera: 12 mpx 48 MP 12 MP Front Triple Connections: USB-C USB Processor: Hexa Core RAM Memory: 8 GB RAM Internal Memory: 1 TB Colour: Grey Titanium Characteristics: GPS Barometer Ambient light sensor MMS Videocall HDR Voice activation Fast and safe charging SMS Cordless Charger Image stabilisation Proximity sensor Ceramic Shield Screen with rounded corners Flat screen Sensors: Accelerometer Gyroscope Magnetic IP rating: IP68 Functions: ECO Geo-localisation Vibration Technology: Mime Glonass OLED Capacitive Shine: 1000 cd/m² Not included: Adapter AC Angle: 120º Speed: 120 Hz Includes: USB Type-C - USB Type-C Battery type: Litio Ion Nuclei: 6 Nuclei 16 Nuclei Resolution (px): 3840 x 2160 px 2160 px
-  Updated: 2025-11-20T22:40:41Z
+  Updated: 2025-11-22T22:45:17Z
   Vendor: Apple
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0195949021039_M0801903_P00.jpg?v=1763549823
   Price: 1387,09 € EUR
 - [Smartphone Google GA05769-GB 6,3" Octa Core 8 GB RAM 128 GB Black](https://goar.store/products/smartphone-google-ga05769-gb-63-octa-core-8-gb-ram-128-gb-black): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone Google GA05769-GB 6,3" Octa Core 8 GB RAM 128 GB Black at an unbeatable price. Type of plug: Plug EU Type: Smartphone Dual SIM Product with plug: Yes Diagonal of the screen (cm): 16 cm Characteristics: Stereo Fingerprint-resistant Water resistant GPS Barometer Ambient light sensor HDR Cordless Charger Fingerprint reader Proximity sensor Gorilla Glass Flat screen Image stabilisation: Yes Nuclei: 8 8 Nuclei GPS: Yes Connectivity: GPS Galileo 4G Wi-Fi 6E ghz NFC Bluetooth BeiDou 5G LTE Wi-Fi 6 GHz Glonass: Yes Gyroscope: Yes Technology: Corning Gorilla Glass Mime Glonass Cordless Charger: Yes Connections: Dual SIM nano SIM USB-C Functions: Barometer ECO Includes: USB A to USB-C Cable USB Type-C - USB Type-C Height: 15,5 cm Operating System: Android 15 Android Repairability Index: 8.7 Battery capacity: 5100 mAh Screen: 6,3" Power: 23 W Camera: 13 mpx 48 MP Dual 13 MP Front Processor: Octa Core Google Tensor G2 RAM Memory: 8 GB RAM Internal Memory: 128 GB Colour: Black Sensors: Gyroscope Magnetic SIM: Dual SIM Not included: Adapter AC Frequency: 120 Hz Angle: 120º Aspect ratio: 20:9 Contrast Ratio: 1000000:1 Resolution (px): 1080 px
-  Updated: 2025-11-20T22:40:41Z
+  Updated: 2025-11-21T22:45:40Z
   Vendor: Google
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0840353922273_S8110771_P01.jpg?v=1763549818
-  Price: 497,79 € EUR
+  Price: 500,77 € EUR
 - [Smartphone Xiaomi Redmi 13C 5G 6,74" Mediatek Dimensity 6100+ 4 GB RAM 128 GB Black](https://goar.store/products/smartphone-xiaomi-redmi-13c-5g-674-mediatek-dimensity-6100-4-gb-ram-128-gb-black): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone Xiaomi Redmi 13C 5G 6,74" Mediatek Dimensity 6100+ 4 GB RAM 128 GB Black at an unbeatable price.The Redmi 13C 5G from Xiaomi is a smartphone designed for users seeking a balanced device with modern connectivity and good battery life. It features a powerful Dimensity 6100+ 5G processor built on 6 nm technology, which, together with its high-performance A76 cores at 2.2 GHz, ensures a smooth and fast experience in daily apps, browsing, and multimedia, while providing access to 5G networks for low-latency streaming and downloads. Its large 6.74-inch LCD screen with a 90 Hz refresh rate delivers smooth and sharp images, ideal for enjoying videos and games; additionally, its low blue light technology and DC dimming help reduce eye strain during extended use. Regarding storage and memory, it stands out with 4 GB of RAM for efficient multitasking and 128 GB of internal storage, ample space for documents, photos, and apps without needing extra storage. The main 50 MP camera with Xiaomi Imaging Engine technology optimizes shots for detailed photos with excellent HDR reproduction, even in low light, thanks to fast startup and precise focus; it is complemented by advanced features such as facial recognition for convenient and secure unlocking. In design, it features a black finish with straight edges that enhance ergonomic grip and a modern look, while its 5,000 mAh battery provides robust autonomy for uninterrupted use. Additionally, GPS integration facilitates location and navigation, important for users who demand practical functionality and up-to-date connectivity. Overall, the Redmi 13C 5G combines solid technical specs and features tailored to an audience prioritizing effective performance, a large display, and accessible photography, positioning itself as a competitive option within Xiaomi’s entry-to-midrange lineup. Colour: Black Characteristics: Sensors Screen Facial Recognition Fingerprint identity sensor GPS Ambient light sensor MMS HDR Guarantee Installation guide included Fast and safe charging SMS Fingerprint reader Proximity sensor Gorilla Glass Flat screen Internal Memory: 128 GB Processor: Octa Core Mediatek Dimensity 6100+ MediaTek Helio G85 RAM Memory: 4 GB RAM Product with plug: Yes Type: Smartphone Dual SIM LPDDR4X Screen: 6,74" Connections: USB-C USB 4G Jack 3.5 mm USB-A - USB-C Connectivity: Bluetooth Wi-Fi 5G NFC BeiDou WCDMA Bluetooth 5.3 Compatible memory cards: SD, SDHC, SDXC MicroSD (TransFlash) Battery capacity: 5000 mAh Camera: 50 Mp 5 Mpx 8 MP 2 Mp Front Triple Type of plug: Plug EU Diagonal of the screen (cm): 17,1 cm Operating System: Android Android 13 Power: 18 W Speed: 2 GHz 90 Hz 1.8 GHz Aperture: F/1,8 Technology: LED Glonass LCD Capacitive Sensors: Accelerometer Includes: Speaker Functions: ECO Vibration Resolution: 1600 x 720 px Maximum memory card size: 1 TB Approx. standby time battery life: 600 hours Formats: AAC, SBC Nuclei: 8 Nuclei Processor Family: MediaTek Resolution (px): 1920 x 1080 px Shine: 450 CD / M² Length: 16,8 cm
   Updated: 2025-11-20T00:05:53Z
   Vendor: Xiaomi
@@ -130,19 +123,12 @@
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6941812776049_M0804347_P00.jpg?v=1763549842
   Price: 136,35 € EUR
 - [Smartphone TCL T612B 6,78" Octa Core 8 GB RAM 256 GB Blue](https://goar.store/products/smartphone-tcl-t612b-678-octa-core-8-gb-ram-256-gb-blue): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone TCL T612B 6,78" Octa Core 8 GB RAM 256 GB Blue at an unbeatable price.The TCL 40 NXTPAPER is a smartphone designed to offer an exceptional and comfortable visual experience for users. It features a large 6.78-inch LCD display with Full HD+ resolution and a 90 Hz refresh rate, delivering sharp and smooth images ideal for reading, browsing, or enjoying multimedia content with great clarity. This screen incorporates the innovative NXTPAPER technology, which mimics the feel and texture of paper thanks to its matte, fingerprint-resistant finish that reduces glare and protects eyesight by intelligently reducing blue light without altering colors, ensuring a more comfortable and safer viewing experience even under direct sunlight. In terms of performance, it includes 8 GB of RAM to ensure smooth multitasking and fast response in daily use and demanding apps. Additionally, it offers 256 GB of internal storage, enough space to store a large number of photos, apps, and files without worrying about running out of space. The photographic capabilities of the TCL 40 NXTPAPER stand out, with a 32 MP front camera for detailed and vivid selfies, and a 50 MP main rear camera system that includes specialized modes such as night mode, high-resolution mode, macro camera, and an ultra-wide-angle sensor of 114.9º, providing versatility to capture everything from close-ups to group shots without distortion. The device also supports GPS navigation, useful for geolocation and maps on the go. Regarding battery life, the smartphone is equipped with a 5010 mAh battery that ensures long-lasting use throughout the day and also offers 33 W ultra-fast charging, significantly reducing recharge time to keep performance active. The Boom 3D sound system complements the multimedia experience with immersive and powerful audio, suitable for calls as well as music or audiobook playback. Presented in an elegant blue color, the TCL 40 NXTPAPER combines design, technology, and functionality for users who value eye protection and high-quality viewing in a versatile and powerful device. Overall, this model offers a balanced proposal that meets both entertainment and productivity needs. Type of plug: Plug EU Type: Smartphone Dual SIM Nuclei: 2 Nuclei Battery capacity: 5000 mAh 5010 MAH Product with plug: Yes Repairability Index: 8.0 Screen: 6,78" Operating System: Android Android 13 Power: 33 W Connectivity: Wi-Fi NFC Bluetooth 4G HSPA+ BeiDou Bluetooth 5.1 LTE Camera: 50 Mp 5 Mp 2 Mp Front Triple 32 Mp Connections: USB-C USB USB 2.0 4G Jack 3.5 mm Processor: Octa Core ARM Cortex-A55 Mediatek Helio G88 RAM Memory: 8 GB RAM Internal Memory: 256 GB Colour: Blue Characteristics: GPS LCD Screen Ambient light sensor Installation guide included Fast and safe charging Fingerprint reader Proximity sensor Flat screen Language: English Speed: 2 GHz 90 Hz 2.2 GHz Aperture: F/1,8 Sensors: Accelerometer Battery operated: No Functions: ECO Technology: Glonass Capacitive Maximum memory card size: 2 TB Compatible memory cards: MicroSD (TransFlash) Angle: 88,8º Includes: USB Type-C - USB Type-C Battery type: Litio Ion Rechargeable lithium battery Processor Family: MediaTek Resolution (px): 1920 x 1080 px Diagonal of the screen (cm): 17,2 cm Shine: 450 CD / M²
-  Updated: 2025-11-20T00:24:25Z
+  Updated: 2025-11-21T22:44:36Z
   Vendor: TCL
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/4894461975276_M0805438_P00.jpg?v=1763549840
   Price: 182,84 € EUR
-- [Smartphone Vivo Y03 Octa Core 4 GB RAM 128 GB Black](https://goar.store/products/smartphone-vivo-y03-octa-core-4-gb-ram-128-gb-black): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone Vivo Y03 Octa Core 4 GB RAM 128 GB Black at an unbeatable price.The Vivo smartphone in black combines a modern design with features tailored to daily needs. It has a 6.56-inch touchscreen that provides a spacious and comfortable viewing area for browsing, multimedia, and apps, delivering a clear and smooth visual experience. Its 128 GB RAM along with 128 GB internal storage ensure efficient performance and ample space to save apps, photos, videos, and other files without worrying about memory shortage. Additionally, this model offers 4G connectivity, enabling a stable and fast internet connection, ideal for daily mobile network use. The combination of its technical features with Vivo’s trusted brand support makes it suitable for users seeking versatility or a functional device for everyday tasks and multimedia entertainment. This smartphone represents a balanced option in the market where storage capacity and screen quality are essential aspects. Type of plug: Plug EU Type: Smartphone Smartphones, Mobile phones Diagonal of the screen (cm): 16,7 cm 16,5 cm Product with plug: Yes Touchscreen: Yes Technology: LCD AMOLED Screen: 6,56" 6,5" Processor: MediaTek Helio G85 Octa Core RAM Memory: 128 GB RAM 4 GB RAM Characteristics: Ambient light sensor Proximity sensor Touchscreen Connectivity: Wi-Fi NFC 4G Battery capacity: 5000 mAh Internal Memory: 128 GB Colour: Black Operating System: Android 14
-  Updated: 2025-11-20T02:34:32Z
-  Vendor: Vivo
-  Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6935117881171_S9916707_P01.jpg?v=1763549845
-  Price: 110,40 € EUR
 - [Headphones JBL JBLLIVEFLEXSVR Silver](https://goar.store/products/headphones-jbl-jblliveflexsvr-silver): If you are looking for new market trending items, we present the Headphones JBL JBLLIVEFLEXSVR Silver! Type: Headphones Wireless Headphones with Microphone In-ear Headphones Colour: Silver Characteristics: Built-in battery Water resistant Case Noise reduction Built-in microphone Wireless Guarantee Installation guide included Plug and play Touch control 32 Ohm Connectivity: Bluetooth Bluetooth 5.3 Includes: USB-C Cable Charger IP rating: IP54 Connections: USB-C Type of headphones: In-ear headphones Compatible: Amazon Alexa Google Home Frequency: 20 - 2000 Hz 2,4 GHz Control type: Touchpad Dynamic Battery: Yes Approx. call time battery life: 4 hours Headphones: Binaural Recommended use: Calls and music Battery type: Litio Ion Approx. autonomy: 40 hours
   Updated: 2025-11-20T00:43:29Z
   Vendor: JBL
@@ -151,7 +137,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6925281960840_S55314534_P40.jpg?v=1763549820
   Price: 152,07 € EUR
 - [Smartphone Samsung Galaxy A16 Octa Core 4 GB RAM 128 GB Green 6,7"](https://goar.store/products/smartphone-samsung-galaxy-a16-octa-core-4-gb-ram-128-gb-green-67): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone Samsung Galaxy A16 Octa Core 4 GB RAM 128 GB Green 6,7" at an unbeatable price.The Samsung Galaxy A16 Smartphone in light green is a balanced choice for users seeking functionality and design in a mid-range device. With a 6.7-inch display, it offers an ideal size for a comfortable and wide viewing experience, perfect for multimedia playback and smooth browsing. This model features 4 GB of RAM, ensuring stable performance in everyday app management and multitasking, while its 128 GB internal storage provides enough space to save photos, videos, apps, and documents without needing extra storage. Key features include the GPS positioning system, essential for navigation and location apps, along with an ambient light sensor that automatically adjusts screen brightness to improve visibility and optimize power consumption based on lighting conditions. Additionally, the compact and modern design in green tones adds a distinctive aesthetic touch, while the Samsung brand guarantees the device’s quality and reliability. The Galaxy A16 meets the needs of those requiring a functional smartphone with sufficient technical specifications for daily use and a size that facilitates handling and portability. Product with plug: Yes Type of plug: Plug EU Type: Smartphone Characteristics: Holder Screen WiFi Android USB interface Sensors Connections: USB-C Connectivity: NFC Wi-Fi Battery capacity: 5000 mAh Processor: Octa Core RAM Memory: 4 GB RAM Internal Memory: 128 GB Colour: Green Screen: 6,7" Weight: 200 g Camera: 50 Mp Diagonal of the screen (cm): 17 cm
-  Updated: 2025-11-20T22:40:36Z
+  Updated: 2025-11-21T22:44:37Z
   Vendor: Samsung
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
@@ -172,14 +158,14 @@
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6941812731857_M0804314_P00.jpg?v=1763549849
   Price: 125,51 € EUR
 - [Smartphone Apple iPhone 15 6,1" Hexa Core 6 GB RAM 256 GB Yellow](https://goar.store/products/smartphone-apple-iphone-15-61-hexa-core-6-gb-ram-256-gb-yellow): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone Apple iPhone 15 6,1" Hexa Core 6 GB RAM 256 GB Yellow at an unbeatable price.The Apple iPhone 15 is a next-generation smartphone that combines technological innovation and refined design in a compact format thanks to its 6.1-inch OLED display, offering a vibrant and high-fidelity visual experience. This model stands out for its powerful performance driven by the advanced A16 Bionic chip, ensuring smooth execution of demanding apps and efficient battery use, supported by a 3349 mAh capacity that allows up to 20 hours of video playback. Its 6 GB RAM and 256 GB internal storage provide fast response and ample space for all types of multimedia content and applications. Regarding photography, it features a main camera with very high resolution that captures details with up to four times more definition, combining three optical zoom levels (ultra-wide x0.5, wide x1, and telephoto x2) to achieve perfect framing in any situation. It also introduces portrait innovations with the ability to change focus even after taking the photo, thanks to automatic depth information capture. Videos are recorded in 4K HDR, with Action and Cinema modes offering professional results. The device includes the Dynamic Island feature, facilitating intuitive and visual multitasking by expanding or splitting notifications for quick and organized control. Connectivity is another strong point with the new USB-C connector, allowing the use of a single cable to charge different Apple devices and supporting fast charging, reaching 50% in just 30 minutes with compatible adapters, plus support for MagSafe wireless charging. Finally, it includes additional sensors such as GPS and barometer, providing advanced navigation and environmental measurement features aimed at active, tech-savvy users. Its distinctive yellow color adds a modern and personal touch. This device represents Apple’s natural evolution in the premium smartphone segment, combining power, versatility, and an integrated ecosystem. Screen: 6,1" Internal Memory: 256 GB Product with plug: Yes Type: Smartphone Camera shutter release Dual SIM Type of plug: Plug EU Diagonal of the screen (cm): 15,5 cm Repairability Index: 7.5 Operating System: iOS Power: 20 W Connectivity: NFC Bluetooth Wi-Fi BeiDou 5G Wi-Fi positioning eSIM Wi-Fi 6 GHz Bluetooth 5.3 Camera: 12 mpx 48 MP Dual 12 MP Front Connections: USB-C USB Processor: Hexa Core RAM Memory: 6 GB RAM Colour: Yellow Characteristics: GPS Barometer Touchscreen Ambient light sensor MMS Videocall HDR Automatic focus Voice activation Fast and safe charging SMS Cordless Charger Image stabilisation Proximity sensor Ceramic Shield Screen with rounded corners Flat screen Functions: Shutter release ECO Geo-localisation Vibration Digital zoom: 10x Energy classification: B Sensors: Accelerometer Gyroscope IP rating: IP68 Power supply: USB Compatible: Windows Includes: Speaker USB Type-C - USB Type-C Technology: Mime Glonass OLED Capacitive Shine: 1000 cd/m² Not included: Adapter AC Angle: 120º Battery type: Litio Ion Approx. autonomy: 20 hours Nuclei: 6 Nuclei 16 Nuclei Resolution (px): 3840 x 2160 px 2160 px
-  Updated: 2025-11-20T03:54:44Z
+  Updated: 2025-11-21T22:45:43Z
   Vendor: Apple
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0195949037320_M0801876_P00.jpg?v=1763549850
   Price: 875,15 € EUR
 - [Smartphone Xiaomi Redmi 15 128 GB 6,9" QUALCOMM SNAPDRAGON 685 6 GB RAM Black Midnight black](https://goar.store/products/smartphone-xiaomi-redmi-15-128-gb-69-qualcomm-snapdragon-685-6-gb-ram-black-midnight-black): If you are looking for new market trending items, we present the Smartphone Xiaomi Redmi 15 128 GB 6,9" QUALCOMM SNAPDRAGON 685 6 GB RAM Black Midnight black!The Redmi 15 from Xiaomi is a smartphone designed for users who prioritize a balance between a large screen, capacity, and essential features in an affordable device. It features a 6.9-inch display that offers ample space for multimedia content, providing an immersive experience for browsing, gaming, and video consumption. Its finish in black or Midnight black combines a modern look with a glass back cover that feels pleasant to the touch and looks elegant. Equipped with 6 GB of RAM and 128 GB of internal storage, it allows smooth multitasking and storing a considerable amount of files, photos, and apps without relying on external memory. Key features include GPS for precise location and navigation, as well as facial recognition for secure and fast unlocking using biometric technology. It also has an ambient light sensor that automatically adjusts screen brightness to optimize visibility and battery consumption according to the environment. Xiaomi guarantees the device’s quality and durability with official support and after-sales service. In short, the Redmi 15 is a solid choice for those seeking a smartphone with a large screen, generous memory, and basic connectivity and security tools, all in a sober and functional design. Type: Smartphone Smartphones, Mobile phones Dual SIM LPDDR4X Product with plug: Yes Material: Glass Characteristics: Facial Recognition Fast charging GPS Ambient light sensor Guarantee Installation guide included Fast and safe charging Fingerprint reader Proximity sensor Flat screen Connectivity: Wi-Fi GPS Galileo Bluetooth 5.1 Bluetooth 4G NFC Bluetooth 5.0 BeiDou WCDMA Quantity: 1 Nuclei: 8 8 Nuclei GPS: Yes Connections: USB 3.2 USB-C 4G Includes: USB-C Cable Protective Case Glonass: Yes Image stabilisation: Yes Accelerometer: Yes Type of plug: Plug EU Approx. weight: 224 g Speed: 2,8 GHz 2.8 GHz Resolution (px): 2340 x 1080 px 1920 x 1080 px Diagonal of the screen (cm): 17,5 cm Battery capacity: 7000 mAh Processor: Snapdragon 685 Octa Core QUALCOMM SNAPDRAGON 685 Resolution: 374 PPP 2340 x 1080 px Charge power: 33 W Energy classification: B Camera: 8 mpx 50 Mp 8 MP Front Rear Power: 33 W Screen: 6.9" 6,9" IP rating: IP64 Internal Memory: 128 GB Colour: Black Midnight black Operating System: Android Form factor: Bar Aperture: F/1,8 Sensors: Accelerometer Number of pieces: 5 Pieces Approx. autonomy: 14 hours Frequency: 144 Hz SIM: nano SIM Dual SIM Rechargeable lithium battery: 7000 mAh Technology: Glonass Not included: Adapter AC Maximum memory card size: 2 TB Compatible memory cards: MicroSD (TransFlash) Shine: 700 cd/m² RAM Memory: 6 GB RAM Processor Family: Qualcomm Snapdragon
-  Updated: 2025-11-19T23:57:46Z
+  Updated: 2025-11-21T22:45:43Z
   Vendor: Xiaomi
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
@@ -200,19 +186,19 @@
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6941764469631_R00.jpg?v=1763549857
   Price: 94,67 € EUR
 - [Tablet cover Compulocks 140W209SWLW White Black](https://goar.store/products/tablet-cover-compulocks-140w209swlw-white-black): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Tablet cover Compulocks 140W209SWLW White Black at an unbeatable price. Type: Tablet cover Colour: White Black Screen: 10,9" Compatible: Apple iPad (10th gen.) VESA 75 x 75, 100 x 100 Material: Aluminium Type of fastening: Key Diagonal of the screen (cm): 27,7 cm
-  Updated: 2025-11-20T10:56:26Z
+  Updated: 2025-11-22T22:44:22Z
   Vendor: Compulocks
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Tablet cases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/906286780.jpg?v=1763549859
-  Price: 452,21 € EUR
+  Price: 454,04 € EUR
 - [Smartphone Google GA10316-GB 6,3" Octa Core 16 GB RAM 256 GB Green](https://goar.store/products/smartphone-google-ga10316-gb-63-octa-core-16-gb-ram-256-gb-green): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone Google GA10316-GB 6,3" Octa Core 16 GB RAM 256 GB Green at an unbeatable price. Diagonal of the screen (cm): 16 cm Product with plug: Yes Type: Smartphone Dual SIM Screen: 6,3" Operating System: Android Power: 30 W Connectivity: NFC Bluetooth BeiDou 5G LTE Camera: 50 Mp Front Triple Connections: USB-C Processor: Octa Core RAM Memory: 16 GB RAM Internal Memory: 256 GB Colour: Green Characteristics: GPS Barometer Ambient light sensor HDR Automatic focus Image stabilisation Fingerprint reader Proximity sensor Gorilla Glass Flat screen Energy classification: A Sensors: Accelerometer Gyroscope Magnetic Functions: ECO Technology: Mime Glonass OLED Frequency: 120 Hz Angle: 123º Aspect ratio: 20:9 Resolution (px): 1080 px
-  Updated: 2025-11-20T03:21:08Z
+  Updated: 2025-11-21T22:45:41Z
   Vendor: Google
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0840353925526_M0806622_P00.jpg?v=1763549858
-  Price: 1144,51 € EUR
+  Price: 1135,59 € EUR
 - [Smartphone Apple MXVU3QL/A Hexa Core 8 GB RAM 128 GB Black 6,7"](https://goar.store/products/smartphone-apple-mxvu3qla-hexa-core-8-gb-ram-128-gb-black-67): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone Apple MXVU3QL/A Hexa Core 8 GB RAM 128 GB Black 6,7" at an unbeatable price. Colour: Black Diagonal of the screen (cm): 17 cm 15,5 cm Internal Memory: 128 GB Camera: 48 MP Connectivity: 5G Bluetooth NFC Connections: Dual SIM Screen: 6,7" 6,1" Operating System: iOS Resolution (px): 2796 X 1290 PX Product with plug: Yes Type: Smartphone Type of plug: Plug EU Characteristics: HDR Screen Zoom Voice control Apple Pay Screen WiFi Sensors Night mode Proximity sensor Magnifying glass Processor: Hexa Core RAM Memory: 8 GB RAM
   Updated: 2025-11-20T03:40:35Z
   Vendor: Apple
@@ -228,7 +214,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6941764450066_S9917690_P01.jpg?v=1763549881
   Price: 160,74 € EUR
 - [Smartphone Apple MFYN4QN/A 6,9" Hexa Core 12 GB RAM 256 GB Orange](https://goar.store/products/smartphone-apple-mfyn4qna-69-hexa-core-12-gb-ram-256-gb-orange): If you are looking for new market trending items, we present the Smartphone Apple MFYN4QN/A 6,9" Hexa Core 12 GB RAM 256 GB Orange! Diagonal of the screen (cm): 17,5 cm Product with plug: Yes Type: Smartphone Dual SIM Screen: 6,9" Operating System: iOS Power: 40 W Connectivity: NFC Bluetooth BeiDou 5G Wi-Fi positioning Camera: 48 MP Front Triple Connections: USB-C USB 3.2 Processor: Hexa Core A19 Pro RAM Memory: 12 GB RAM Internal Memory: 256 GB Colour: Orange Characteristics: GPS Barometer Ambient light sensor Videocall HDR Automatic focus Voice activation Fast and safe charging SMS Cordless Charger Image stabilisation Proximity sensor Screen with rounded corners Flat screen Energy classification: A Sensors: Accelerometer Gyroscope Magnetic Power supply: USB Compatible: Windows Includes: Speaker Functions: ECO Geo-localisation Vibration Technology: Mime Glonass OLED Shine: 1000 cd/m² Not included: Adapter AC Frequency: 120 Hz Angle: 120º Battery type: Litio Ion Nuclei: 6 Nuclei Resolution (px): 3840 x 2160 px 2160 px
-  Updated: 2025-11-20T22:40:43Z
+  Updated: 2025-11-21T22:45:36Z
   Vendor: Apple
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
@@ -242,42 +228,35 @@
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6932554454135_S9919574_P00.jpg?v=1763549889
   Price: 182,93 € EUR
 - [Smartphone Google G45RY 6,8" Octa Core 16 GB RAM 256 GB Grey](https://goar.store/products/smartphone-google-g45ry-68-octa-core-16-gb-ram-256-gb-grey): If you are looking for new market trending items, we present the Smartphone Google G45RY 6,8" Octa Core 16 GB RAM 256 GB Grey! Type: Smartphone Dual SIM Product with plug: Yes Type of plug: Plug EU Battery capacity: 5200 mAh Screen: 6,8" Operating System: Android Power: 45 W Connectivity: NFC Bluetooth BeiDou 5G LTE Camera: 50 Mp Front Triple Connections: USB-C Processor: Octa Core RAM Memory: 16 GB RAM Internal Memory: 256 GB Colour: Grey Characteristics: GPS Barometer Ambient light sensor HDR Automatic focus Image stabilisation Fingerprint reader Proximity sensor Gorilla Glass Flat screen Energy classification: B Sensors: Accelerometer Gyroscope Magnetic Functions: ECO Technology: Mime Glonass OLED Frequency: 120 Hz Angle: 123º Aspect ratio: 20:9 Resolution (px): 1080 px Diagonal of the screen (cm): 17,3 cm
-  Updated: 2025-11-20T22:40:41Z
+  Updated: 2025-11-21T22:45:37Z
   Vendor: Google
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0840353927797_I01.jpg?v=1763549893
-  Price: 1223,39 € EUR
+  Price: 1220,41 € EUR
 - [Smartphone Google GEHN3 6,3" Octa Core 16 GB RAM 128 GB Black](https://goar.store/products/smartphone-google-gehn3-63-octa-core-16-gb-ram-128-gb-black): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone Google GA09601-GB 6,3" Octa Core 16 GB RAM 128 GB Black at an unbeatable price. Type: Smartphone Dual SIM Product with plug: Yes Diagonal of the screen (cm): 16 cm Type of plug: Plug EU Screen: 6,3" Operating System: Android Power: 30 W Connectivity: NFC Bluetooth BeiDou 5G LTE Camera: 50 Mp Front Triple Connections: USB-C Processor: Octa Core RAM Memory: 16 GB RAM Internal Memory: 128 GB Colour: Black Characteristics: GPS Barometer Ambient light sensor HDR Automatic focus Image stabilisation Fingerprint reader Proximity sensor Gorilla Glass Flat screen Energy classification: A Sensors: Accelerometer Gyroscope Magnetic Functions: ECO Technology: Mime Glonass OLED Frequency: 120 Hz Angle: 123º Aspect ratio: 20:9 Resolution (px): 1080 px
-  Updated: 2025-11-20T22:40:41Z
+  Updated: 2025-11-21T22:44:36Z
   Vendor: Google
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0840353925977_I00.jpg?v=1763549882
-  Price: 1044,80 € EUR
-- [Smartphone Samsung S25+ MINT 6,7" 12 GB RAM 256 GB](https://goar.store/products/smartphone-samsung-s25-mint-67-12-gb-ram-256-gb): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone Samsung S25+ MINT 6,7" 12 GB RAM 256 GB at an unbeatable price. Diagonal of the screen (cm): 17 cm Product with plug: Yes Type: Smartphone Dual SIM Characteristics: GPS Barometer Ambient light sensor Automatic focus Fast and safe charging Cordless Charger Fingerprint reader Geomagnetic sensor Proximity sensor Gorilla Glass Screen with rounded corners Flat screen Connections: USB USB-C Connectivity: Bluetooth Wi-Fi NFC BeiDou 5G Operating System: Android Aperture: F/1,8 Technology: LED Mime AMOLED Glonass Sensors: Accelerometer Gyroscope Magnetometer IP rating: IP68 RAM Memory: 12 GB RAM Screen: 6,7" Camera: Front 10 Mp Triple Functions: ECO Not included: Adapter AC Speed: 120 Hz Digital zoom: 30x Internal Memory: 256 GB Nuclei: 8 Nuclei Processor Family: Qualcomm Snapdragon
-  Updated: 2025-11-20T02:39:18Z
-  Vendor: Samsung
-  Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/8806095858630_I60.jpg?v=1763549877
-  Price: 1299,20 € EUR
+  Price: 1016,53 € EUR
 - [Smartphone Samsung A176 8-256 GY V2 Octa Core 8 GB RAM 256 GB Grey 6,7"](https://goar.store/products/smartphone-samsung-a176-8-256-gy-v2-octa-core-8-gb-ram-256-gb-grey-67): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone Samsung A176 8-256 GY V2 Octa Core 8 GB RAM 256 GB Grey 6,7" at an unbeatable price. Type: Smartphone Product with plug: Yes Diagonal of the screen (cm): 17 cm Type of plug: Plug EU Battery capacity: 5000 mAh Processor: Octa Core RAM Memory: 8 GB RAM Internal Memory: 256 GB Colour: Grey Energy classification: B Operating System: Android Screen: 6,7" Connectivity: 5G Camera: Front Triple Maximum memory card size: 2 TB Characteristics: Flat screen
-  Updated: 2025-11-20T22:40:41Z
+  Updated: 2025-11-22T22:44:25Z
   Vendor: Samsung
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/8806097640264_I00.jpg?v=1763549889
   Price: 245,73 € EUR
 - [Smartphone Xiaomi X7 PRO 6,67" Octa Core 12 GB RAM 256 GB Black](https://goar.store/products/smartphone-xiaomi-x7-pro-667-octa-core-12-gb-ram-256-gb-black): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone Xiaomi X7 PRO 6,67" Octa Core 12 GB RAM 256 GB Black at an unbeatable price.The X7 PRO from Xiaomi is an advanced smartphone designed for those who demand high performance and outstanding visual and photographic experience. Equipped with the powerful Dimensity 8400-Ultra 4 nm processor and ARM Cortex-A725 CPU architecture, this device ensures smooth and fast handling of games and multitasking, further supported by Xiaomi HyperOS 2 technology and the intelligent cooling system LiquidCool 4.0, which maintain optimal temperature even during prolonged heavy use. Its 6.67-inch AMOLED CrystalRes display with 1.5K resolution offers vivid colors and high peak brightness, optimized with HDR and Wet Touch technology to improve touch response under various conditions, including moisture or surface smudges. This model combines aesthetics with functionality, featuring an elegant black design with an innovative dual-finish texture that provides a distinctive look and comfortable ergonomics. Regarding storage and memory, it offers options of 8 GB or 12 GB RAM alongside ample 256 GB space, ideal for storing games, apps, and multimedia without worries. Battery life is ensured by its 6000 mAh battery with ultra-fast 90W Hypercharge, combining speed and safety through Surge P2 and G1 chips, plus technologies to enhance battery efficiency and durability. On the audiovisual side, it stands out with its main camera system featuring a Sony IMX882 50 MP sensor with f/1.5 aperture, optical and electronic stabilization (OIS and EIS), plus an 8 MP ultra-wide and a 20 MP front camera, enabling 4K video recording at 60 fps and advanced AI autofocus. The photo suite includes AI features like AI Erase Pro to remove unwanted elements and AI Film to easily create cinematic videos. Complementing the experience, it offers AI Super Cinema surround sound with dual speakers and automatic call volume enhancement via AI Call Boost. Additionally, it includes GPS connectivity and sensors like ambient light that optimize daily use. Overall, the Xiaomi Poco X7 Pro is a balanced proposal combining power, technological innovation, and modern design in a smartphone capable of meeting the needs of demanding users in performance, photography, and mobile entertainment. Diagonal of the screen (cm): 16,9 cm Product with plug: Yes Type: Smartphone Dual SIM Type of plug: Plug EU Repairability Index: 7.7 Technology: AMOLED Glonass Battery capacity: 6000 mAh Screen: 6,67" Operating System: Android Power: 90 W Connectivity: NFC Bluetooth Wi-Fi BeiDou 5G WCDMA Wi-Fi 6 GHz Camera: 20 mpx 50 Mp Dual 8 MP Front 20 Mp Connections: USB-C Processor: Octa Core RAM Memory: 12 GB RAM 8 GB RAM Internal Memory: 256 GB Colour: Black Characteristics: GPS Touchscreen Ambient light sensor HDR Guarantee Installation guide included Fast and safe charging Fingerprint reader Proximity sensor Gorilla Glass Energy classification: C Sensors: Accelerometer Gyroscope Power supply: USB Functions: ECO Includes: Protective Case Not included: Adapter AC Frequency: 120 Hz Shine: 700 cd/m² Nuclei: 8 Nuclei Processor Family: MediaTek Resolution (px): 2160 px
-  Updated: 2025-11-20T01:11:34Z
+  Updated: 2025-11-21T22:45:43Z
   Vendor: Xiaomi
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6932554409302_M0805541_P01.jpg?v=1763549887
-  Price: 352,57 € EUR
+  Price: 364,84 € EUR
 - [Smartphone Vivo Y03 Octa Core 4 GB RAM 128 GB Green](https://goar.store/products/smartphone-vivo-y03-octa-core-4-gb-ram-128-gb-green): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone Vivo Y03 Octa Core 4 GB RAM 128 GB Green at an unbeatable price.The Vivo smartphone in green offers a notable balance between functionality and design thanks to its 4 GB RAM, which provides smooth performance for everyday tasks and moderate multitasking. It features a 128 GB storage capacity, allowing ample space for apps, photos, videos, and documents without worrying about running out of room. Its 6.56-inch touchscreen delivers a wide and comfortable visual experience, ideal for browsing, multimedia, and reading, with a large enough surface to enable precise touch interaction. In terms of connectivity, it includes Bluetooth, facilitating wireless connection to external devices such as headphones, speakers, or compatible accessories, enhancing the device’s versatility. This Vivo model suits users looking for a smartphone with balanced features for daily use, communication, and multimedia entertainment, integrating essential technologies for stable and satisfactory operation. Overall, it represents a practical and functional option within the smartphone segment offering good performance and generous storage. Type of plug: Plug EU Type: Smartphone Smartphones, Mobile phones Diagonal of the screen (cm): 16,7 cm 16,5 cm Product with plug: Yes Touchscreen: Yes Connectivity: Bluetooth Wi-Fi NFC 4G Technology: LCD AMOLED Screen: 6,56" 6,5" Processor: MediaTek Helio G85 Octa Core Characteristics: Ambient light sensor Proximity sensor Touchscreen Battery capacity: 5000 mAh RAM Memory: 4 GB RAM Internal Memory: 128 GB Colour: Green Operating System: Android 14
-  Updated: 2025-11-20T10:56:42Z
+  Updated: 2025-11-21T22:44:36Z
   Vendor: Vivo
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
@@ -384,28 +363,28 @@
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/cd74b853-4c21-4f87-8ab3-89c22a1be91d.jpg?v=1763563899
   Price: 49,99 € EUR
 - [Tempo Smartwatch with Bluetooth Calling - Midnight Black](https://goar.store/products/tempo-smartwatch-with-bluetooth-calling-midnight-black): Tempo Smart Watch blends minimalist design with powerful performance.Featuring a vibrant AMOLED display, 100+ sport modes, and advanced health tracking—from heart rate and SpO₂ to menstrual insights. Take calls from your wrist. Control your music. Stay connected in every moment.IP68 water resistance and a 15-day battery mean it’s always ready—no matter where the day takes you. It’s like your phone… but lighter, faster, and strapped to your wrist.
-  Updated: 2025-11-20T10:56:26Z
+  Updated: 2025-11-22T10:56:29Z
   Vendor: Tinymoose
   Product Type: Smart Watch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/Tempo-Black-Product-Listing-2048x2048-2.png?v=1763565023
-  Price: 43,26 € EUR
+  Price: 43,36 € EUR
 - [Headphones Logitech 960-001698](https://goar.store/products/headphones-logitech-960-001698): If you are looking for new market trending items, we present the Headphones Logitech 960-001698!The Logitech Rally Board 65 is an advanced group videoconferencing system designed for professional environments where quality and connectivity are essential. This device features a 65-inch large-format LCD screen (165.1 cm diagonal) with 4K Ultra HD resolution of 3840 x 2160 pixels, delivering sharp and precise images ideal for high-definition collaborative meetings. Its compatibility with multiple video formats, including 720p, 900p, 1080p, 1440p, and 2160p, and a maximum frame rate of 30 frames per second, ensure a smooth and detailed visual experience. Additionally, it offers a 4x digital zoom that allows precise focusing on different elements during presentations or video calls. Regarding connectivity, the Rally Board 65 is equipped with various options to integrate into corporate networks, including HDMI, USB-C, Ethernet (RJ45), Bluetooth, and Wi-Fi interfaces, facilitating connection to external devices and digital platforms without restrictions. Its graphite finish provides a sober and professional look, suitable for meeting rooms and modern workspaces. Overall, the Logitech Rally Board 65 combines advanced imaging technology and versatile connectivity in an all-in-one solution to optimize videoconferencing and visual collaboration in business settings. Type: Headphones Colour: Graphite Characteristics: Touchscreen Built-in display Built-in speakers Connections: HDMI USB-C RJ45 Ethernet LAN 2 USB x 3 Connectivity: Bluetooth Wi-Fi Technology: LCD Cable length: 3 m
-  Updated: 2025-11-20T19:08:38Z
+  Updated: 2025-11-22T22:44:22Z
   Vendor: Logitech
   Product Type: Computers | Electronics > Electronics | Peripherals and spares > Microphones and headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/1064652720.jpg?v=1763592169
-  Price: 8445,64 € EUR
+  Price: 8445,61 € EUR
 - [Headphones Lenovo Black](https://goar.store/products/headphones-lenovo-black): If you are looking for new market trending items, we present the Headphones Lenovo Black! Type: Headphones Headphones with Microphone In-ear Headphones Colour: Black Connections: USB-C USB Jack 3.5 mm Battery capacity: 500 mAh Material: Plastic Characteristics: Built-in microphone Wireless Guarantee Installation guide included 16 ohm Built-in battery Connectivity: Bluetooth Bluetooth 5.3 Type of headphones: In-ear headphones Range: 10 m Approx. autonomy: 7 hours 36 hours Compatible: Android, iOS Frequency: 20 - 20000 Hz Cable length: 30 cm Control type: Touchpad Dynamic Battery: Yes Power: 50 W Headphones: Binaural
-  Updated: 2025-11-20T10:42:56Z
+  Updated: 2025-11-21T22:44:37Z
   Vendor: Lenovo
   Product Type: Computers | Electronics > Electronics | Peripherals and spares > Microphones and headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0195892111498_I00.jpg?v=1763592170
   Price: 52,62 € EUR
 - [Headphones Motorola](https://goar.store/products/headphones-motorola): If you are looking for new market trending items, we present the Headphones Motorola!The Motorola Moto Buds 500 ANC are in-ear wireless earphones that stand out for their advanced technology integration and daily comfort. They feature Bluetooth connectivity, allowing a stable, cable-free connection with compatible devices, enhancing mobility and avoiding tangles. These earphones include an active noise cancellation (ANC) system designed to reduce ambient noise and provide a more immersive listening experience, ideal for noisy environments like public transport or crowded spaces. Their compact, ergonomic design ensures a secure and comfortable fit, adapting well to the ear for extended use without discomfort. Additionally, they come with an integrated microphone, enabling clear hands-free calls and voice commands. The black color finish offers an elegant and understated look, matching the modern and functional style typical of Motorola. The sound quality aims to deliver balanced performance, with defined bass and clear highs, suitable for various music genres and multimedia consumption. Overall, the Motorola Moto Buds 500 ANC provide a practical and complete solution for those who want the freedom of wireless sound combined with effective external noise reduction and direct communication options, all in a compact, portable format. They are a solid choice for users seeking Bluetooth earphones with multimedia features and functional performance that blend quality and accessible technology. Type: Headphones In-ear Headphones Connectivity: Bluetooth
-  Updated: 2025-11-20T12:36:20Z
+  Updated: 2025-11-22T00:42:05Z
   Vendor: Motorola
   Product Type: Computers | Electronics > Electronics | Peripherals and spares > Microphones and headphones
   Availability: Available
@@ -417,25 +396,25 @@
   Updated: 2025-08-17T05:43:27Z
   Total Products: 0
 - [SMARTPHONES](https://goar.store/collections/smartphones): Descubre nuestra amplia selección de smartphones de las mejores marcas: Apple, Samsung, Xiaomi, Google y más. Encuentra el móvil perfecto para ti.
-  Updated: 2025-11-20T22:40:37Z
-  Total Products: 32
+  Updated: 2025-11-22T10:56:35Z
+  Total Products: 31
 - [AURICULARES Y AUDIO](https://goar.store/collections/auriculares-y-audio): Auriculares Bluetooth, in-ear, gaming y altavoces de marcas premium como JBL, Samsung, Huawei y Xiaomi. Sonido de calidad para todos los presupuestos
-  Updated: 2025-11-20T10:57:00Z
+  Updated: 2025-11-22T22:44:23Z
   Total Products: 6
 - [ACCESORIOS](https://goar.store/collections/accesorios): Fundas, protectores y accesorios para tus dispositivos. Protege y personaliza tu smartphone o tablet.
-  Updated: 2025-11-20T10:56:27Z
+  Updated: 2025-11-22T22:44:23Z
   Total Products: 1
 - [APPLE](https://goar.store/collections/apple): Toda la gama de iPhone: desde modelos económicos hasta los Pro Max más potentes. Tecnología Apple con garantía.
-  Updated: 2025-11-20T22:40:37Z
+  Updated: 2025-11-21T22:44:23Z
   Total Products: 8
 - [SAMSUNG](https://goar.store/collections/samsung): Smartphones Samsung Galaxy: desde la serie A económica hasta los flagship S25. Calidad y innovación Samsung.
   Updated: 2025-11-20T22:40:37Z
   Total Products: 4
 - [XIAOMI](https://goar.store/collections/xiaomi): Smartphones Xiaomi, Redmi y POCO. La mejor relación calidad-precio del mercado. Tecnología accesible para todos.
-  Updated: 2025-11-19T22:42:38Z
+  Updated: 2025-11-21T22:44:23Z
   Total Products: 11
 - [GOOGLE PIXELL](https://goar.store/collections/google-pixell): Google Pixel con Android puro y la mejor fotografía computacional. 7 años de actualizaciones garantizadas.
-  Updated: 2025-11-20T10:56:27Z
+  Updated: 2025-11-21T22:44:23Z
   Total Products: 4
 - [HUAWEI](https://goar.store/collections/huawei): Smartphones y auriculares Huawei. Tecnología innovadora y diseño premium.
   Updated: 2025-11-19T10:56:52Z
@@ -447,14 +426,14 @@
   Updated: 2025-11-19T10:56:52Z
   Total Products: 1
 - [GAMA ALTA (más de 800€)](https://goar.store/collections/gama-alta-mas-de-800): Los smartphones más potentes y exclusivos: iPhone Pro, Samsung S25, Google Pixel Pro. Tecnología de vanguardia.
-  Updated: 2025-11-20T22:40:37Z
+  Updated: 2025-11-22T22:44:23Z
   Total Products: 12
 - [GAMA MEDIA (200€-800€)](https://goar.store/collections/gama-media-200-800): Smartphones con excelente relación calidad-precio. Especificaciones sólidas sin pagar precios premium.
-  Updated: 2025-11-20T22:40:37Z
+  Updated: 2025-11-22T22:44:23Z
   Total Products: 10
 - [ECONÓMICOS (menos de 200€)](https://goar.store/collections/economicos-menos-de-200): Smartphones y auriculares a precio imbatible. Calidad accesible para todos los presupuestos.
-  Updated: 2025-11-20T22:40:37Z
-  Total Products: 28
+  Updated: 2025-11-22T10:56:35Z
+  Total Products: 27
 - [Smartphones Económicos Baratos - Menos de 200€ | Goar Store](https://goar.store/collections/smartphones-economicos): Compra smartphones económicos de calidad por menos de 200€. Xiaomi, Realme, Samsung y más. Garantía oficial y envío rápido en España.
   Updated: 2025-11-18T08:17:50Z
   Total Products: 0
