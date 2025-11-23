@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-09-30T12:20:15Z
 - Contact Email: info@aevitas-uk.co.uk
-- Updated At: 2025-11-22T20:00:29.632Z
+- Updated At: 2025-11-23T00:01:20.071Z
 
 ## Products
 
@@ -1570,7 +1570,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/2-Watch-Winder-in-Black-and-Blue-Smooth-Leather-Finish-by-Aevitas_55bbf4b2.webp?v=1760451755
   Price: £399.95 GBP
 - [4 Watch Winder in Smooth Black and Blue Leather Finish by Aevitas](https://aevitas-uk.co.uk/products/4-watch-winder-in-smooth-black-and-blue-leather-finish-by-aevitas): 4 Watch Winder in Black and Blue Smooth Leather 4 Watch Winder in Black Vegan Leather Finish with smart Blue lining. This Aevitas Watch Winder is what you need! Our Patented Watch Holder is large enough for Men's Larger Wrist Sizes yet versatile enough to set watches of smaller wrist sizes. Perfect for those really large face watches upto 70 mm wide and driven by the our latest German Motors. These Watch Winders will wind any brand of automatic watch, the Turns per Day settings are : 650, 750, 850, 1000, or 1950 in Either or Both Directions which is perfect for all Top Brand Watches include Rolex, Omega and Breitling etc. Each Rotor can be set and individually controlled. This is perfect for 100% of Automatic watch Brands. These rotations are 100% Accurate and Digitally counted. Our 4 Watch Winder will never over wind your watches, it completes its intermittent winding program during a 12 hour period and then rests for 12 hours, allowing your watch to run as it would without being worn during night time. Perfectly mimicking natural winding whilst on your wrist. Smart Interior is finished in Blue with Contrasting Chromed trim. Fully Serviceable for exceptionally long life. 2 Year Guarantee. Size 28.5 x 27 x 21.5 cm Features Include 12 O'clock Stop Each Rotor can be set and individually controlled Holds Watches upto 70mm Wide Watch Holder for all wrist Sizes from 16cm to 22cm 12 Hour Sleep Cycle so yours will never be interrupted! Magnetically Shielded Motor with Near Silent Operation Fine Smooth Finish Auto Stop when Door Opened Internal LED Light Mains or Battery Operated (recommend general running on mains power) Fully Serviceable for exceptionally long life Very easy instructions to set the winder can be downloaded HERE
-  Updated: 2025-11-21T12:55:20Z
+  Updated: 2025-11-22T23:08:35Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
