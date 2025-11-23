@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-09-30T12:20:15Z
 - Contact Email: info@aevitas-uk.co.uk
-- Updated At: 2025-11-23T16:00:29.190Z
+- Updated At: 2025-11-23T20:00:29.940Z
 
 ## Products
 
@@ -906,7 +906,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/12-Watch-Winder-Safe-Luxury-Black-Leather-with-Contrast-Stitching-by-Aevitas.webp?v=1760449217
   Price: £3,495.00 GBP
 - [Premium Single Watch Roll Green Leather Super Soft Suede Lining](https://aevitas-uk.co.uk/products/premium-single-watch-roll-green-leather-with-super-soft-suede-lining): Premium Single Watch roll in Green finest quality animal friendly leather, a great choice for the holiday or business trip allowing stylish safe storage
-  Updated: 2025-11-21T12:53:47Z
+  Updated: 2025-11-23T18:04:37Z
   Vendor: Aevitas
   Product Type: Watch Travel case
   Availability: Available
@@ -1761,7 +1761,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Premium-Jewellery-Box-Extra-Large-Size-White-Gloss-Finish-with-Camel-Colour-Lining-by-Aevitas.webp?v=1760452538
   Price: £229.95 GBP
 - [Premium Jewellery Box Extra Large Size Camphor Finish with Camel Colour Lining by Aevitas](https://aevitas-uk.co.uk/products/premium-jewellery-box-extra-large-size-camphor-finish-with-camel-colour-lining-by-aevitas-1): Premium Jewellery Box Camphor Finish with Camel Colour Lining by Aevitas Discover the elegance of the Premium Extra Large Jewellery Box by Aevitas, crafted in exquisite camphor wood finish with a multi layered lacquer polished shine that highlights its natural beauty. Inside, the soft camel-coloured suedette lining provides a luxurious cushion for your precious items. Designed to accommodate a wide range of jewellery, including necklaces, watches, bracelets, and rings, this spacious box keeps your treasures beautifully organised and protected. Measuring 38 cm wide, 27 cm deep, and 16.5 cm high, it offers ample storage without taking up too much space. Really good strong high quality wooden jewellery box. Presented in a quality gift box with logo, it makes an ideal gift or a special indulgence for yourself. Elevate your jewellery storage with this timeless piece. See matching watch box here
-  Updated: 2025-11-21T12:55:42Z
+  Updated: 2025-11-23T18:49:19Z
   Vendor: Aevitas Watch Winders
   Product Type: Jewellery Box
   Availability: Available
