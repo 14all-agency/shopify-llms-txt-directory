@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-23T04:00:31.807Z
+- Updated At: 2025-11-23T08:00:31.796Z
 
 ## Products
 
@@ -6319,7 +6319,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Signature/Original/Sm & Lg Wooden Wick Black Lids (12 Pack)](https://affinatiliving.com/products/signature-black-lids)
-  Updated: 2025-11-22T19:15:43Z
+  Updated: 2025-11-23T07:15:48Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7004,11 +7004,11 @@
     Availability: Available
     Price: $99.95 USD
 - [Carrot Cake Original Candle](https://affinatiliving.com/products/carrot-cake-original-candle): Fill your home with the warm, bakery-fresh aroma of spiced carrot cake, creamy vanilla frosting, and cozy cinnamon. This 10 oz soy-blend candle offers a clean, even burn and a strong, long-lasting scent—perfect for adding comforting, homemade sweetness to any room.
-  Updated: 2025-11-23T04:00:00Z
+  Updated: 2025-11-23T04:00:50Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/26949B80-06CA-4B36-A043-559C03B9BD0B.png?v=1763558015
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7725.png?v=1763870449
   - [Single Order](https://affinatiliving.com/products/carrot-cake-original-candle?variant=58396376596561)
     Availability: Available
     Price: $14.95 USD
