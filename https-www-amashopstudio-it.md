@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-11-21T00:00:48.409Z
+- Updated At: 2025-11-23T00:01:05.552Z
 
 ## Products
 
@@ -976,7 +976,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/ORSETTOFOTO.jpg?v=1739741415
   Price: 9,00 € EUR
 - [Tappetino mouse ' Sti cazzi!' personalizzabile con nome, data o dedica](https://www.amashopstudio.it/products/tappetino-mouse-sti-cazzi-personalizzabile-con-nome-data-o-dedica): Tappetino mouse con frase ironica stampato con colori brillanti . Fai un regalo unico . Personalizzato con stampa sublimatica. Personalizzalo con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care ! Misure: 23 x 19 cm - spessore 5 mm
-  Updated: 2025-09-17T14:59:29Z
+  Updated: 2025-11-22T04:41:18Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -3160,7 +3160,7 @@
   Updated: 2025-09-17T14:59:12Z
   Total Products: 2
 - [Ultimi arrivi](https://www.amashopstudio.it/collections/ultimi-arrivi)
-  Updated: 2025-11-12T12:26:01Z
+  Updated: 2025-11-21T12:25:32Z
   Total Products: 147
 - [Tote bag](https://www.amashopstudio.it/collections/tote-bag)
   Updated: 2025-09-17T14:59:12Z
@@ -3169,7 +3169,7 @@
   Updated: 2025-09-17T14:59:12Z
   Total Products: 6
 - [Portachiavi](https://www.amashopstudio.it/collections/portachiavi)
-  Updated: 2025-11-12T12:26:01Z
+  Updated: 2025-11-21T12:25:32Z
   Total Products: 8
 - [T-shirt](https://www.amashopstudio.it/collections/t-shirt)
   Updated: 2025-09-17T14:59:12Z
