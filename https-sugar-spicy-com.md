@@ -176,7 +176,7 @@ firmer compression sculptwear
 - Timezone: Europe/Dublin
 - Created At: 2023-06-26T10:59:59Z
 - Contact Email: help@sugar-spicy.com
-- Updated At: 2025-11-23T12:00:27.338Z
+- Updated At: 2025-11-23T16:00:26.970Z
 
 BUSINESS INFORMATION — SUGAR + SPICY
 =========================================================
@@ -2043,7 +2043,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-09-19T182551.605.png?v=1695148653
     Price: $48.00 USD
 - [Sugar + Spicy Upper Arm Slimming Body Shaper](https://sugar-spicy.com/products/upper-arm-slimming-body-shaper): This arm shapers with an open bust U-shape design to prevent your chest droop; it can lift your breasts, effectively firm control armpit and back flabby fat, make your upper body no lumps or bumps, create a slimmer figure, boost your confidence and makes you feel sexy when you wear it.
-  Updated: 2025-11-22T22:38:50Z
+  Updated: 2025-11-23T12:22:04Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -2085,46 +2085,58 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Availability: Available
     Price: $78.00 USD
 - [Curves in Confidence: High Waist Shaping Butt Lifter for Instant Lift](https://sugar-spicy.com/products/high-waist-butt-lifter): Elevate your confidence with our High Waist Shaping Butt Lifter! Embrace curves effortlessly with removable pads for fuller buttocks. Compressive fabric smooths and enhances, perfect under tight clothes. Fashionable and versatile, achieves natural lift instantly.
-  Updated: 2025-11-23T11:59:08Z
+  Updated: 2025-11-23T12:01:40Z
   Vendor: Sugar + Spicy
   Product Type: Butt Lifter Body Shaper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-26T185733.190.png?v=1701029611
   - [Black / S](https://sugar-spicy.com/products/high-waist-butt-lifter?variant=45767036731704)
-    Availability: Not Available
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_75.png?v=1763899147
     Price: $88.00 USD
   - [Black / M](https://sugar-spicy.com/products/high-waist-butt-lifter?variant=45767036797240)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_75.png?v=1763899147
     Price: $88.00 USD
   - [Black / L](https://sugar-spicy.com/products/high-waist-butt-lifter?variant=45767036862776)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_75.png?v=1763899147
     Price: $88.00 USD
   - [Black / XL](https://sugar-spicy.com/products/high-waist-butt-lifter?variant=45767037026616)
-    Availability: Not Available
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_75.png?v=1763899147
     Price: $88.00 USD
   - [Black / XXL](https://sugar-spicy.com/products/high-waist-butt-lifter?variant=45767037190456)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_75.png?v=1763899147
     Price: $88.00 USD
   - [Black / 3XL](https://sugar-spicy.com/products/high-waist-butt-lifter?variant=45767037387064)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_75.png?v=1763899147
     Price: $88.00 USD
   - [Navajowhite / S](https://sugar-spicy.com/products/high-waist-butt-lifter?variant=45767036698936)
-    Availability: Not Available
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_69.png?v=1763899147
     Price: $88.00 USD
   - [Navajowhite / M](https://sugar-spicy.com/products/high-waist-butt-lifter?variant=45767036764472)
-    Availability: Not Available
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_69.png?v=1763899147
     Price: $88.00 USD
   - [Navajowhite / L](https://sugar-spicy.com/products/high-waist-butt-lifter?variant=45767036830008)
-    Availability: Not Available
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_69.png?v=1763899147
     Price: $88.00 USD
   - [Navajowhite / XL](https://sugar-spicy.com/products/high-waist-butt-lifter?variant=45767036928312)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_69.png?v=1763899147
     Price: $88.00 USD
   - [Navajowhite / XXL](https://sugar-spicy.com/products/high-waist-butt-lifter?variant=45767037124920)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_69.png?v=1763899147
     Price: $88.00 USD
   - [Navajowhite / 3XL](https://sugar-spicy.com/products/high-waist-butt-lifter?variant=45767037288760)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_69.png?v=1763899147
     Price: $88.00 USD
 - [Sugar + Spice V-Neck One-Piece Bodysuit](https://sugar-spicy.com/products/v-neck-one-piece-bodysuit): This bodysuit will surely get you noticed―an ultra-versatile deep v-neckline bodysuit is simultaneously tight-fitting, functional, and stylish, having back large U-shaped design, suitable for wedding dresses, evening dresses, low-front and low-back styles.
   Updated: 2025-11-16T05:44:12Z
@@ -2598,28 +2610,58 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-32643946643607_900x_e0526511-d9ba-4f12-951c-5596a2c405bf.jpg?v=1763895721
     Price: $112.00 USD
 - [Seamless Shaping: All-Day Comfort High-waisted Mid-thigh Shaper Shorts](https://sugar-spicy.com/products/high-waisted-mid-thigh-shaper-shorts): Experience our high-waisted shaping garment! Lightweight, seamless design with targeted shaping zones for stomach support. Soft yarns, no-slip waistband, and shirring for a perfect fit. Embrace smooth curves and freedom of movement effortlessly. Say goodbye to muffin tops and hello to a confident you!
-  Updated: 2025-11-12T04:16:15Z
+  Updated: 2025-11-23T12:36:19Z
   Vendor: Sugar + Spicy
   Product Type: Shapewar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-04T181314.011.png?v=1701715459
   - [Black / S](https://sugar-spicy.com/products/high-waisted-mid-thigh-shaper-shorts?variant=45871284912440)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_81.png?v=1763901378
     Price: $88.00 USD
   - [Black / M](https://sugar-spicy.com/products/high-waisted-mid-thigh-shaper-shorts?variant=45871284977976)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_81.png?v=1763901378
     Price: $88.00 USD
   - [Black / L](https://sugar-spicy.com/products/high-waisted-mid-thigh-shaper-shorts?variant=45871285076280)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_81.png?v=1763901378
     Price: $88.00 USD
   - [Black / XL](https://sugar-spicy.com/products/high-waisted-mid-thigh-shaper-shorts?variant=45871285141816)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_81.png?v=1763901378
     Price: $88.00 USD
   - [Black / XXL](https://sugar-spicy.com/products/high-waisted-mid-thigh-shaper-shorts?variant=45871285207352)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_81.png?v=1763901378
     Price: $88.00 USD
   - [Black / XXXL](https://sugar-spicy.com/products/high-waisted-mid-thigh-shaper-shorts?variant=45871285272888)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_81.png?v=1763901378
+    Price: $88.00 USD
+  - [Navajowhite / S](https://sugar-spicy.com/products/high-waisted-mid-thigh-shaper-shorts?variant=51388882223416)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_80.png?v=1763901378
+    Price: $88.00 USD
+  - [Navajowhite / M](https://sugar-spicy.com/products/high-waisted-mid-thigh-shaper-shorts?variant=51388882256184)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_80.png?v=1763901378
+    Price: $88.00 USD
+  - [Navajowhite / L](https://sugar-spicy.com/products/high-waisted-mid-thigh-shaper-shorts?variant=51388882288952)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_80.png?v=1763901378
+    Price: $88.00 USD
+  - [Navajowhite / XL](https://sugar-spicy.com/products/high-waisted-mid-thigh-shaper-shorts?variant=51388882321720)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_80.png?v=1763901378
+    Price: $88.00 USD
+  - [Navajowhite / XXL](https://sugar-spicy.com/products/high-waisted-mid-thigh-shaper-shorts?variant=51388882354488)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_80.png?v=1763901378
+    Price: $88.00 USD
+  - [Navajowhite / XXXL](https://sugar-spicy.com/products/high-waisted-mid-thigh-shaper-shorts?variant=51388882387256)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_80.png?v=1763901378
     Price: $88.00 USD
 - [Zip-Front High-Waisted Shorts with Firm Control and Butt-Lifting Design!](https://sugar-spicy.com/products/zip-front-high-waisted-shorts): Elevate your style with our Zip-Front High-Waisted Shorts—firm control for a sleek silhouette. Four steel bones and drop glue ensure no rolling or curling. Flaunt a natural shape with the butt-lifting design. Perfect for snug outfits, embrace confidence and comfort.
   Updated: 2025-07-31T11:20:54Z
