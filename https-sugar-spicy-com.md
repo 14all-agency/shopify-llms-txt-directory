@@ -176,7 +176,7 @@ firmer compression sculptwear
 - Timezone: Europe/Dublin
 - Created At: 2023-06-26T10:59:59Z
 - Contact Email: help@sugar-spicy.com
-- Updated At: 2025-11-23T16:00:26.970Z
+- Updated At: 2025-11-23T20:00:27.106Z
 
 BUSINESS INFORMATION — SUGAR + SPICY
 =========================================================
@@ -1783,7 +1783,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Availability: Not Available
     Price: $92.00 USD
 - [Sculpt Your Perfect Shape with Our Ultimate Firm Control Waist Cincher!](https://sugar-spicy.com/products/front-zipper-shaper-bodysuit): Enhance your silhouette with our Firm Control Waist Cincher. Featuring a discreet reverse zipper, convenient crotch buckle, and adjustable straps, it's perfect under tight clothes. Achieve the tummy and core control you desire. Shop now!
-  Updated: 2025-11-22T04:44:17Z
+  Updated: 2025-11-23T18:53:01Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -2269,58 +2269,73 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-bodysuit-1191434707_900x_d8b09b78-150b-435c-b0b6-666ff7b8f74f.jpg?v=1763744416
     Price: $82.00 USD
 - [Thigh-High Shaper: Sculpt & Slim](https://sugar-spicy.com/products/three-clip-body-shaper): Discover the ultimate body shaper for a flawless silhouette! This mid-thigh shaper provides solid tummy and waist control, extra back thigh compression for a lifted look, and three buckles with side drop glues to prevent slipping. Flattens your tummy and slim legs, ensuring 360° hip-line support.
-  Updated: 2025-11-17T23:05:45Z
+  Updated: 2025-11-23T18:14:55Z
   Vendor: Sugar + Spicy
   Product Type: Butt Lifter Body Shaper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-10T203233.330.png?v=1702240848
   - [Black / XS-S](https://sugar-spicy.com/products/three-clip-body-shaper?variant=45843610468664)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-08T205419.749.png?v=1702240848
     Price: $78.00 USD
   - [Black / M-L](https://sugar-spicy.com/products/three-clip-body-shaper?variant=45843610566968)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-08T205419.749.png?v=1702240848
     Price: $78.00 USD
   - [Black / XL-XXL](https://sugar-spicy.com/products/three-clip-body-shaper?variant=45843610665272)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-08T205419.749.png?v=1702240848
     Price: $78.00 USD
   - [Black / 3XL-4XL](https://sugar-spicy.com/products/three-clip-body-shaper?variant=45843610763576)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-08T205419.749.png?v=1702240848
     Price: $78.00 USD
   - [Black / 5XL](https://sugar-spicy.com/products/three-clip-body-shaper?variant=45843610861880)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-08T205419.749.png?v=1702240848
     Price: $78.00 USD
   - [Sienna / XS-S](https://sugar-spicy.com/products/three-clip-body-shaper?variant=45843610501432)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-08T204658.382.png?v=1702240848
     Price: $78.00 USD
   - [Sienna / M-L](https://sugar-spicy.com/products/three-clip-body-shaper?variant=45843610599736)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-08T204658.382.png?v=1702240848
     Price: $78.00 USD
   - [Sienna / XL-XXL](https://sugar-spicy.com/products/three-clip-body-shaper?variant=45843610698040)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-08T204658.382.png?v=1702240848
     Price: $78.00 USD
   - [Sienna / 3XL-4XL](https://sugar-spicy.com/products/three-clip-body-shaper?variant=45843610796344)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-08T204658.382.png?v=1702240848
     Price: $78.00 USD
   - [Sienna / 5XL](https://sugar-spicy.com/products/three-clip-body-shaper?variant=45843610894648)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-08T204658.382.png?v=1702240848
     Price: $78.00 USD
   - [Navajowhite / XS-S](https://sugar-spicy.com/products/three-clip-body-shaper?variant=46315887526200)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-08T205536.072.png?v=1702240848
     Price: $78.00 USD
   - [Navajowhite / M-L](https://sugar-spicy.com/products/three-clip-body-shaper?variant=46315887624504)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-08T205536.072.png?v=1702240848
     Price: $78.00 USD
   - [Navajowhite / XL-XXL](https://sugar-spicy.com/products/three-clip-body-shaper?variant=46315887722808)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-08T205536.072.png?v=1702240848
     Price: $78.00 USD
   - [Navajowhite / 3XL-4XL](https://sugar-spicy.com/products/three-clip-body-shaper?variant=46315887788344)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-08T205536.072.png?v=1702240848
     Price: $78.00 USD
   - [Navajowhite / 5XL](https://sugar-spicy.com/products/three-clip-body-shaper?variant=46315887886648)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-08T205536.072.png?v=1702240848
     Price: $78.00 USD
 - [Sculpt Your Silhouette for Tummy Control, Waist Reduction](https://sugar-spicy.com/products/seamless-shapewear-bodysuit): Transform Your Silhouette with Ease: Our Seamless Shapewear Bodysuit with Removable Straps! Achieve Tummy Control and Waist Reduction with Adjustable Comfort. Experience Invisible Shaping, Back Support, and Perfect Posture. Discover the Confidence You Deserve!
-  Updated: 2025-11-16T05:52:19Z
+  Updated: 2025-11-23T18:38:53Z
   Vendor: Sugar + Spicy
   Product Type: Shapewar
   Availability: Available
@@ -2342,7 +2357,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-09-22T223142.369.png?v=1695660931
     Price: $98.00 USD
   - [Sienna / XS-S](https://sugar-spicy.com/products/seamless-shapewear-bodysuit?variant=45843615056184)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-09-22T222804.551.png?v=1695660931
     Price: $98.00 USD
   - [Sienna / M-L](https://sugar-spicy.com/products/seamless-shapewear-bodysuit?variant=45843615154488)
@@ -2374,7 +2389,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-09-22T222845.706.png?v=1695660931
     Price: $98.00 USD
 - [Sculpt & Support: High-Waisted Shapewear Shorts for Confidence](https://sugar-spicy.com/products/seamless-sculpt-high-waited-shorts): Elevate your confidence with our high-waisted shapewear shorts. Firm compression, butt-shaping pockets, and breathable mesh detail. Say goodbye to rolling with a silicone underband. Slimming mid-thigh length, chafe prevention, and discreet under clothes. Redefine your silhouette effortlessly.
-  Updated: 2025-11-23T10:59:01Z
+  Updated: 2025-11-23T18:05:00Z
   Vendor: Sugar + Spicy
   Product Type: Shapewar
   Availability: Available
@@ -2556,7 +2571,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_4.png?v=1763331453
     Price: $72.00 USD
 - [Revolutionary 3D Shaper: Sculpt, Lift, and Shape with Confidence!](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit): Discover the ultimate sculpting shaper for a sleek silhouette! Our lightweight and powerful 3D full-coverage design lifts flattens, and contours with comfort. Bra clips ensure it stay in place, while seamless leg openings provide a smooth transition. Shape confidently, and remain invisible under clothes!
-  Updated: 2025-11-23T11:02:02Z
+  Updated: 2025-11-23T18:31:53Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -2664,64 +2679,82 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_80.png?v=1763901378
     Price: $88.00 USD
 - [Zip-Front High-Waisted Shorts with Firm Control and Butt-Lifting Design!](https://sugar-spicy.com/products/zip-front-high-waisted-shorts): Elevate your style with our Zip-Front High-Waisted Shorts—firm control for a sleek silhouette. Four steel bones and drop glue ensure no rolling or curling. Flaunt a natural shape with the butt-lifting design. Perfect for snug outfits, embrace confidence and comfort.
-  Updated: 2025-07-31T11:20:54Z
+  Updated: 2025-11-23T18:01:18Z
   Vendor: Sugar + Spicy
   Product Type: Shapewar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-05T222934.652.png?v=1701816901
   - [Black / S](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871292645688)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_89_72dd2281-cb39-47ca-8f30-e9cd9bd5c55e.png?v=1763920391
     Price: $98.00 USD
   - [Black / M](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871292711224)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_89_72dd2281-cb39-47ca-8f30-e9cd9bd5c55e.png?v=1763920391
     Price: $98.00 USD
   - [Black / L](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871292776760)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_89_72dd2281-cb39-47ca-8f30-e9cd9bd5c55e.png?v=1763920391
     Price: $98.00 USD
   - [Black / XL](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871292842296)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_89_72dd2281-cb39-47ca-8f30-e9cd9bd5c55e.png?v=1763920391
     Price: $98.00 USD
   - [Black / XXL](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871292907832)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_89_72dd2281-cb39-47ca-8f30-e9cd9bd5c55e.png?v=1763920391
     Price: $98.00 USD
   - [Black / 3XL](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871292973368)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_89_72dd2281-cb39-47ca-8f30-e9cd9bd5c55e.png?v=1763920391
     Price: $98.00 USD
   - [Black / 4XL](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871293038904)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_89_72dd2281-cb39-47ca-8f30-e9cd9bd5c55e.png?v=1763920391
     Price: $98.00 USD
   - [Black / 5XL](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871293104440)
-    Availability: Not Available
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_89_72dd2281-cb39-47ca-8f30-e9cd9bd5c55e.png?v=1763920391
     Price: $98.00 USD
   - [Black / 6XL](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871293169976)
-    Availability: Not Available
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_89_72dd2281-cb39-47ca-8f30-e9cd9bd5c55e.png?v=1763920391
     Price: $98.00 USD
   - [Navajowhite / S](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871292612920)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_88.png?v=1763920391
     Price: $98.00 USD
   - [Navajowhite / M](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871292678456)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_88.png?v=1763920391
     Price: $98.00 USD
   - [Navajowhite / L](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871292743992)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_88.png?v=1763920391
     Price: $98.00 USD
   - [Navajowhite / XL](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871292809528)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_88.png?v=1763920391
     Price: $98.00 USD
   - [Navajowhite / XXL](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871292875064)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_88.png?v=1763920391
     Price: $98.00 USD
   - [Navajowhite / 3XL](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871292940600)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_88.png?v=1763920391
     Price: $98.00 USD
   - [Navajowhite / 4XL](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871293006136)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_88.png?v=1763920391
     Price: $98.00 USD
   - [Navajowhite / 5XL](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871293071672)
-    Availability: Not Available
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_88.png?v=1763920391
     Price: $98.00 USD
   - [Navajowhite / 6XL](https://sugar-spicy.com/products/zip-front-high-waisted-shorts?variant=45871293137208)
-    Availability: Not Available
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_88.png?v=1763920391
     Price: $98.00 USD
 - [Sculpt Your Silhouette Effortlessly with Our Mid-Thigh Bodysuit!](https://sugar-spicy.com/products/seamless-covered-open-back-sculptwear): Shop our front scoop neck, open-back, and mid-thigh bodysuit for everyday sculpting perfection. Crafted with soft, stretchy materials, this bodysuit offers targeted soft-level compression, emphasizing a contoured midsection, lifted butt, and trimmed thighs.
   Updated: 2025-11-21T23:29:26Z
@@ -3668,7 +3701,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-11-10T185929.801.png?v=1731265605
     Price: $98.00 USD
 - [Sugar + Spicy High-Performance Sportswear](https://sugar-spicy.com/products/athletic-sauna-bodyshaper-firm): Stay comfortable and stylish during your next workout with our Sugar + Spicy high-performance activewear offers the perfect blend of fashion and function.
-  Updated: 2025-11-15T09:37:39Z
+  Updated: 2025-11-23T18:57:15Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -4522,7 +4555,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
   Updated: 2025-11-22T19:59:29Z
   Total Products: 12
 - [Sugar + Spicy Body Shaper Bodysuits for Every Body](https://sugar-spicy.com/collections/body-shaper): Take your shapewear to the next level. Targeted compression sculpts without squeezing and flexible boning prevent roll-down. Breathable, sweat-wicking fabric keeps you cool. Lingerie-inspired designs are just as sexy as they are supportive.
-  Updated: 2025-11-22T20:33:25Z
+  Updated: 2025-11-23T19:11:09Z
   Total Products: 25
 - [Best Sellers Sugar + Spicy Body Shapers Developed For All Bodies Type](https://sugar-spicy.com/collections/best-sellers)
   Updated: 2025-11-23T10:59:37Z
