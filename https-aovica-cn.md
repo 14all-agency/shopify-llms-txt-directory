@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2025-05-20T11:59:09Z
 - Contact Email: 363305877@qq.com
-- Updated At: 2025-11-20T00:00:22.960Z
+- Updated At: 2025-11-23T00:00:26.404Z
 
 ## Products
 
@@ -1318,98 +1318,6 @@
   - [yellow / XXXL](https://aovica.cn/products/women-high-waist-wide-leg-pants-shiny-fuchsia-straight-pants-long-palazzo-casual-trendy-trousers-2026-spring-autumn-new-2?variant=44337445994541)
     Availability: Available
     Price: $49.00 USD
-- [3 Piece Women Sets 2026 New Arrival Sportswear Single Breasted Long Sleeve Jacket Bra And Yoga Leggings Suits Outfits Clothing](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing): Tracksuit set. The top is a long - sleeve bomber jacket with a button - up front, featuring white horizontal stripes on the cuffs and chest. The bottom is a pair of black leggings with white vertical stripes on the sides. The outfit is stylish and suitable for various occasions, such as casual outings or sports.
-  Updated: 2025-11-15T15:52:41Z
-  Vendor: Aovica Official Store
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01fu4Wbz1yhtTeNeBKw__2836346611-0-cib.jpg?v=1763026742
-  - [Black / S](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314079277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01C9YuNY1yhtTeZJDmy__2836346611-0-cib.jpg?v=1763026742
-    Price: $72.00 USD
-  - [Black / M](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314112045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01C9YuNY1yhtTeZJDmy__2836346611-0-cib.jpg?v=1763026742
-    Price: $72.00 USD
-  - [Black / L](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314144813)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01C9YuNY1yhtTeZJDmy__2836346611-0-cib.jpg?v=1763026742
-    Price: $72.00 USD
-  - [Black / XL](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314177581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01C9YuNY1yhtTeZJDmy__2836346611-0-cib.jpg?v=1763026742
-    Price: $72.00 USD
-  - [Black / XXL](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314210349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01C9YuNY1yhtTeZJDmy__2836346611-0-cib.jpg?v=1763026742
-    Price: $72.00 USD
-  - [White / S](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314243117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01LJG3eV1yhtTeaD4t5__2836346611-0-cib.jpg?v=1763026742
-    Price: $72.00 USD
-  - [White / M](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314275885)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01LJG3eV1yhtTeaD4t5__2836346611-0-cib.jpg?v=1763026742
-    Price: $72.00 USD
-  - [White / L](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314308653)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01LJG3eV1yhtTeaD4t5__2836346611-0-cib.jpg?v=1763026742
-    Price: $72.00 USD
-  - [White / XL](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314341421)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01LJG3eV1yhtTeaD4t5__2836346611-0-cib.jpg?v=1763026742
-    Price: $72.00 USD
-  - [White / XXL](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314374189)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01LJG3eV1yhtTeaD4t5__2836346611-0-cib.jpg?v=1763026742
-    Price: $72.00 USD
-- [2 Piece Women Sets New Arrival Striped Print Matching Sets Short Sleeve Zipper Top And Pants Suits Tracksuit Outfits Clothing](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing): Modeling a stylish white tracksuit. She is wearing a white cropped jacket with a high collar and a front zipper, featuring black side panels that add a sporty contrast. Paired with the jacket are white flared pants, which also have black side stripes, echoing the design of the top. She completes the look with black sneakers that have white accents. The outfit exudes a modern, sporty aesthetic, blending comfort and fashion, and is likely suitable for casual wear, fitness activities, or everyday style.
-  Updated: 2025-11-15T06:07:04Z
-  Vendor: Aovica Official Store
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/75f420f68092d74b1e66caa51097b845.jpg?v=1763104024
-  - [White / S](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342393798701)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01sa2mZJ1yhtTZpxIuI__2836346611-0-cib.jpg?v=1763104023
-    Price: $59.00 USD
-  - [White / M](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342393831469)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01sa2mZJ1yhtTZpxIuI__2836346611-0-cib.jpg?v=1763104023
-    Price: $59.00 USD
-  - [White / L](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342393864237)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01sa2mZJ1yhtTZpxIuI__2836346611-0-cib.jpg?v=1763104023
-    Price: $59.00 USD
-  - [White / XL](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342393897005)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01sa2mZJ1yhtTZpxIuI__2836346611-0-cib.jpg?v=1763104023
-    Price: $59.00 USD
-  - [White / XXL](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342393929773)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01sa2mZJ1yhtTZpxIuI__2836346611-0-cib.jpg?v=1763104023
-    Price: $59.00 USD
-  - [Black / S](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342393962541)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01NtXcb31yhtTb31yLY__2836346611-0-cib.jpg?v=1763104024
-    Price: $59.00 USD
-  - [Black / M](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342393995309)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01NtXcb31yhtTb31yLY__2836346611-0-cib.jpg?v=1763104024
-    Price: $59.00 USD
-  - [Black / L](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342394028077)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01NtXcb31yhtTb31yLY__2836346611-0-cib.jpg?v=1763104024
-    Price: $59.00 USD
-  - [Black / XL](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342394060845)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01NtXcb31yhtTb31yLY__2836346611-0-cib.jpg?v=1763104024
-    Price: $59.00 USD
-  - [Black / XXL](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342394093613)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01NtXcb31yhtTb31yLY__2836346611-0-cib.jpg?v=1763104024
-    Price: $59.00 USD
 - [Spring Women's Tracksuit Pullover Hooded And Trousers Black Casual Two Piece Set Women Casual Pants Sports Suit With A Hood](https://aovica.cn/products/spring-womens-tracksuit-pullover-hooded-and-trousers-black-casual-two-piece-set-women-casual-pants-sports-suit-with-a-hood): Spring Women's Tracksuit Pullover Hooded And Trousers Black Casual Two Piece Set Women Casual Pants Sports Suit With A Hood
   Updated: 2025-11-15T00:39:55Z
   Vendor: Aovica Official Store
@@ -1508,6 +1416,72 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/4bf03c6c1353b2430fdee64d48508e2b.jpg?v=1763176507
     Price: $52.50 USD
+- [https://detail.1688.com/offer/990649339376.html?spm=a21lca.1688_web_im.0.0](https://aovica.cn/products/elegant-v-collar-dress-woman-sexy-embroidered-floral-slim-tassel-dress-vintage-suede-long-sleeve-spring-autumn-dress-2026): https://detail.1688.com/offer/990649339376.html?spm=a21lca.1688_web_im.0.0
+  Updated: 2025-11-21T04:01:46Z
+  Vendor: Aovica Official Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sef3be2cd2702491fb446f812a2568641M.webp?v=1763626323
+  - [SKY BLUE / S](https://aovica.cn/products/elegant-v-collar-dress-woman-sexy-embroidered-floral-slim-tassel-dress-vintage-suede-long-sleeve-spring-autumn-dress-2026?variant=44352942768173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sef3be2cd2702491fb446f812a2568641M.webp?v=1763626323
+    Price: $52.00 USD
+  - [SKY BLUE / M](https://aovica.cn/products/elegant-v-collar-dress-woman-sexy-embroidered-floral-slim-tassel-dress-vintage-suede-long-sleeve-spring-autumn-dress-2026?variant=44352942800941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sef3be2cd2702491fb446f812a2568641M.webp?v=1763626323
+    Price: $52.00 USD
+  - [SKY BLUE / L](https://aovica.cn/products/elegant-v-collar-dress-woman-sexy-embroidered-floral-slim-tassel-dress-vintage-suede-long-sleeve-spring-autumn-dress-2026?variant=44352942833709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sef3be2cd2702491fb446f812a2568641M.webp?v=1763626323
+    Price: $52.00 USD
+  - [SKY BLUE / XL](https://aovica.cn/products/elegant-v-collar-dress-woman-sexy-embroidered-floral-slim-tassel-dress-vintage-suede-long-sleeve-spring-autumn-dress-2026?variant=44352942866477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sef3be2cd2702491fb446f812a2568641M.webp?v=1763626323
+    Price: $52.00 USD
+  - [SKY BLUE / XXL](https://aovica.cn/products/elegant-v-collar-dress-woman-sexy-embroidered-floral-slim-tassel-dress-vintage-suede-long-sleeve-spring-autumn-dress-2026?variant=44352942899245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sef3be2cd2702491fb446f812a2568641M.webp?v=1763626323
+    Price: $52.00 USD
+  - [Khaki / S](https://aovica.cn/products/elegant-v-collar-dress-woman-sexy-embroidered-floral-slim-tassel-dress-vintage-suede-long-sleeve-spring-autumn-dress-2026?variant=44352942932013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S1552a8a5e3b0414881a70afebc8dd0f6P.webp?v=1763628207
+    Price: $52.00 USD
+  - [Khaki / M](https://aovica.cn/products/elegant-v-collar-dress-woman-sexy-embroidered-floral-slim-tassel-dress-vintage-suede-long-sleeve-spring-autumn-dress-2026?variant=44352942964781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S1552a8a5e3b0414881a70afebc8dd0f6P.webp?v=1763628207
+    Price: $52.00 USD
+  - [Khaki / L](https://aovica.cn/products/elegant-v-collar-dress-woman-sexy-embroidered-floral-slim-tassel-dress-vintage-suede-long-sleeve-spring-autumn-dress-2026?variant=44352942997549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S1552a8a5e3b0414881a70afebc8dd0f6P.webp?v=1763628207
+    Price: $52.00 USD
+  - [Khaki / XL](https://aovica.cn/products/elegant-v-collar-dress-woman-sexy-embroidered-floral-slim-tassel-dress-vintage-suede-long-sleeve-spring-autumn-dress-2026?variant=44352943030317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S1552a8a5e3b0414881a70afebc8dd0f6P.webp?v=1763628207
+    Price: $52.00 USD
+  - [Khaki / XXL](https://aovica.cn/products/elegant-v-collar-dress-woman-sexy-embroidered-floral-slim-tassel-dress-vintage-suede-long-sleeve-spring-autumn-dress-2026?variant=44352943063085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S1552a8a5e3b0414881a70afebc8dd0f6P.webp?v=1763628207
+    Price: $52.00 USD
+  - [Navy Blue / S](https://aovica.cn/products/elegant-v-collar-dress-woman-sexy-embroidered-floral-slim-tassel-dress-vintage-suede-long-sleeve-spring-autumn-dress-2026?variant=44352943095853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S46807465092b42ef8f27b69fcb9fd704f.webp?v=1763628207
+    Price: $52.00 USD
+  - [Navy Blue / M](https://aovica.cn/products/elegant-v-collar-dress-woman-sexy-embroidered-floral-slim-tassel-dress-vintage-suede-long-sleeve-spring-autumn-dress-2026?variant=44352943128621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S46807465092b42ef8f27b69fcb9fd704f.webp?v=1763628207
+    Price: $52.00 USD
+  - [Navy Blue / L](https://aovica.cn/products/elegant-v-collar-dress-woman-sexy-embroidered-floral-slim-tassel-dress-vintage-suede-long-sleeve-spring-autumn-dress-2026?variant=44352943161389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S46807465092b42ef8f27b69fcb9fd704f.webp?v=1763628207
+    Price: $52.00 USD
+  - [Navy Blue / XL](https://aovica.cn/products/elegant-v-collar-dress-woman-sexy-embroidered-floral-slim-tassel-dress-vintage-suede-long-sleeve-spring-autumn-dress-2026?variant=44352943194157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S46807465092b42ef8f27b69fcb9fd704f.webp?v=1763628207
+    Price: $52.00 USD
+  - [Navy Blue / XXL](https://aovica.cn/products/elegant-v-collar-dress-woman-sexy-embroidered-floral-slim-tassel-dress-vintage-suede-long-sleeve-spring-autumn-dress-2026?variant=44352943226925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S46807465092b42ef8f27b69fcb9fd704f.webp?v=1763628207
+    Price: $52.00 USD
 
 ## Collections
 
