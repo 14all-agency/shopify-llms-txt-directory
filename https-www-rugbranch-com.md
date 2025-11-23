@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2021-12-14T17:53:45Z
 - Contact Email: info@rugbranch.com
-- Updated At: 2025-11-21T00:01:53.135Z
+- Updated At: 2025-11-23T00:01:35.490Z
 
 ## Products
 
@@ -625,7 +625,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
     Price: $60.27 CAD
 - [Savannah Geometric Beige Rug - Modern & Vibrant | Rug Branch](https://www.rugbranch.com/products/sp2911cr): Make a statement with the Savannah Geometric Beige Rug, featuring a bold abstract design, durable polypropylene, and jute backing. Made in Turkey.
-  Updated: 2025-11-20T15:50:56Z
+  Updated: 2025-11-22T13:57:25Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -729,7 +729,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2910-Parent_13.jpg?v=1746820642
     Price: $30.97 CAD
 - [Savannah Yellow Rug - Mid-Century Geometric | Rug Branch](https://www.rugbranch.com/products/sp2900yw): Brighten your space with the Savannah Yellow Rug. This loom-made polypropylene rug features a bold geometric pattern for a stylish mid-century modern look.
-  Updated: 2025-11-20T15:50:57Z
+  Updated: 2025-11-22T13:57:25Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -855,7 +855,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
     Price: $60.27 CAD
 - [Savannah Boho Blue Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/sp2898bl): Enhance your space with the Savannah Boho Blue Rug. Featuring a stunning medallion design, loom-made in Turkey with durable polypropylene and jute backing.
-  Updated: 2025-11-20T15:50:52Z
+  Updated: 2025-11-22T13:40:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1091,7 +1091,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
     Price: $60.27 CAD
 - [Savannah Boho Contemporary Blue Rug | Rug Branch](https://www.rugbranch.com/products/sp2890cr): Boho blue rug from Turkey with a striking tribal pattern and durable jute backing. Perfect for modern and cozy spaces.
-  Updated: 2025-11-20T15:50:52Z
+  Updated: 2025-11-22T13:57:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2115,7 +2115,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VEGAS-8973-BEIGE_c5c3c620-0216-4f5c-9228-eb10bfdcd462.jpg?v=1710357929
     Price: $280.59 CAD
 - [Montage Abstract Camo Brown Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ve7978bg): Montage Abstract Camo Brown Rug – A Turkish loom-made rug with a striking brown, beige, and black abstract pattern. Durable olefin heatset with jute backing.
-  Updated: 2025-11-20T16:42:12Z
+  Updated: 2025-11-22T22:01:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2339,7 +2339,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE7443-Parent_16.jpg?v=1746827893
     Price: $90.77 CAD
 - [Montage Abstract Modern Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ve7429gy): Enhance your space with the Montage Abstract Modern Grey Rug. A Turkish loom-made rug with bold red, grey, and black abstract patterns. Durable olefin heatset.
-  Updated: 2025-11-20T15:51:46Z
+  Updated: 2025-11-22T23:54:40Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2449,7 +2449,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VEGAS-7429-GREY_5cdaaf70-7834-4cbf-9c22-bc144d58e7f5.jpg?v=1741925504
     Price: $90.77 CAD
 - [Montage Abstract Lines Black Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ve7100bk): Montage Abstract Lines Black Rug - A modern Turkish rug with a sleek black-to-gray gradient. Durable olefin heatset with jute backing for lasting style.
-  Updated: 2025-11-14T23:28:55Z
+  Updated: 2025-11-22T13:57:35Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3472,7 +3472,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B099A-VSA25-CREAMD.GRAY_583bfcbe-0fe2-4143-add8-3554f751648c.jpg?v=1710352227
     Price: $542.18 CAD
 - [Mirage Cloud River Blue Rug - Elegant & Modern | Rug Branch](https://www.rugbranch.com/products/st1040crgy): Create a serene space with the Mirage Cloud River Blue Rug. This loom-made viscose and polyester rug features a soft, abstract design for a modern touch.
-  Updated: 2025-11-14T20:02:42Z
+  Updated: 2025-11-21T04:13:49Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3515,6 +3515,7 @@
     Price: $117.74 CAD
   - [2' x 4'](https://www.rugbranch.com/products/st1040crgy?variant=41453151584279)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B236B-VTA15_11a09c57-41a4-4772-b0b5-3a1c074cf47a.jpg?v=1710352268
     Price: $63.22 CAD
 - [Retro Moroccan Shag Grey Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/pf8953gy): Enhance your space with the Retro Moroccan Shag Grey Rug. Featuring a plush polyester pile, jute backing, and a chic diamond pattern for a modern touch.
   Updated: 2025-11-14T23:28:56Z
@@ -3542,7 +3543,7 @@
     Availability: Available
     Price: $62.72 CAD
 - [Retro Scandinavian Shag Beige Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/pf8951iv): Add warmth to your space with the Retro Scandinavian Shag Beige Rug. Loom-made in Turkey with soft polyester and jute backing for durability and comfort.
-  Updated: 2025-11-20T15:50:18Z
+  Updated: 2025-11-22T21:29:07Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3721,7 +3722,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/PUFFY-8023-IVORY_1_6923b0c1-c713-4bbe-9601-fb443c5acb9a.jpg?v=1710365582
     Price: $358.76 CAD
 - [Premium Non-Slip Rug Pad - Secure & Durable | Rug Branch](https://www.rugbranch.com/products/hpad): Enhance safety with the Premium Non-Slip Rug Pad. Made from durable PVC, this loom-made pad keeps rugs in place while protecting your floors.
-  Updated: 2025-11-20T15:51:30Z
+  Updated: 2025-11-22T23:06:17Z
   Vendor: Rug Branch
   Product Type: Rug Pads
   Availability: Available
@@ -3759,7 +3760,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/HPAD-Parent_16.jpg?v=1746738948
     Price: $21.30 CAD
 - [Supreme Non-Slip Rug Pad - Secure & Durable | Rug Branch](https://www.rugbranch.com/products/mpad): Keep your rugs in place with the Supreme Non-Slip Rug Pad. Made from durable PVC, this loom-made pad adds grip and protects your floors.
-  Updated: 2025-11-20T15:51:31Z
+  Updated: 2025-11-22T13:57:30Z
   Vendor: Rug Branch
   Product Type: Rug Pads
   Availability: Available
@@ -4236,7 +4237,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2552-Parent_R1.jpg?v=1746805481
     Price: $281.15 CAD
 - [Majestic Moroccan Red Rug - Traditional & Luxurious| Rug Branch](https://www.rugbranch.com/products/ja2195rd): Elevate your space with the Majestic Moroccan Red Rug. Loom-made in Turkey with durable olefin heatset for a timeless and elegant touch.
-  Updated: 2025-11-14T23:30:38Z
+  Updated: 2025-11-21T16:24:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4374,7 +4375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2195-Parent_16.jpg?v=1746805243
     Price: $100.51 CAD
 - [Majestic Persian Black Rug - Elegant & Timeless | Rug Branch](https://www.rugbranch.com/products/ja2117bk): Enhance your space with the Majestic Persian Black Rug. Featuring an intricate traditional design, this loom-made Turkish rug adds luxury and sophistication.
-  Updated: 2025-11-14T23:30:38Z
+  Updated: 2025-11-22T13:57:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4428,7 +4429,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2117BKCR-Parent_16.jpg?v=1752036073
     Price: $95.83 CAD
   - [3' x 2'](https://www.rugbranch.com/products/ja2117bk?variant=42104872534039)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2117BKCR-Parent_1.jpg?v=1741842702
     Price: $40.38 CAD
   - [3' x 3'](https://www.rugbranch.com/products/ja2117bk?variant=42104872566807)
@@ -4444,7 +4445,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2117BKCR-Parent_1.jpg?v=1741842702
     Price: $67.55 CAD
 - [Majestic Persian Traditional Cream Rug | Rug Branch](https://www.rugbranch.com/products/ja1974crbk): Bring timeless elegance home with the Majestic Persian Traditional Cream Rug. Loom-made in Turkey with durable olefin heatset for a classic, luxurious look.
-  Updated: 2025-11-20T15:49:45Z
+  Updated: 2025-11-21T16:24:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4554,7 +4555,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/4489-comfort-collection-area-rugs-koshani-541632_2d428a87-aa5f-4dd8-b53a-41906047ac3d.jpg?v=1710360032
     Price: $359.23 CAD
 - [Nova Geometric White Rug - Modern & Soft | Rug Branch](https://www.rugbranch.com/products/co4477awh): Nova Geometric White Rug, loom-made in Turkey with soft twisted polyester, featuring a chic distressed checkered design for a contemporary touch.
-  Updated: 2025-11-14T23:28:55Z
+  Updated: 2025-11-21T16:24:41Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4648,7 +4649,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/4470-comfort-collection-area-rugs-koshani-4-x-6-feet-grey-red-429389_4bef5d44-9d3a-445c-aaf1-c2cfe77688d9.jpg?v=1710359812
     Price: $82.29 CAD
 - [Nova Mid-Century Brown Rug - Modern & Soft | Rug Branch](https://www.rugbranch.com/products/co4244bbr): Enhance your space with the Nova Mid-Century Brown Rug. Loom-made in Turkey with soft twisted polyester, featuring a sleek geometric block design.
-  Updated: 2025-11-20T15:49:21Z
+  Updated: 2025-11-21T16:24:41Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4670,7 +4671,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/4244-comfort-collection-area-rugs-koshani-165466_bb974ba4-9833-4540-a486-9d4e1aff9623.jpg?v=1710359987
     Price: $359.23 CAD
 - [Nova Mid-Century Grey Rug - Modern & Soft | Rug Branch](https://www.rugbranch.com/products/co4232pl): Upgrade your space with the Nova Mid-Century Grey Rug. Loom-made in Turkey with soft twisted polyester, featuring a sleek geometric design with subtle accents.
-  Updated: 2025-11-20T15:49:16Z
+  Updated: 2025-11-22T13:57:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4798,7 +4799,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CO4223-Parent_16.jpg?v=1746731421
     Price: $84.54 CAD
 - [Nova Geometric Grey Rug - Modern & Soft | Rug Branch](https://www.rugbranch.com/products/co4215aan): Enhance your space with the Nova Geometric Grey Rug. Loom-made in Turkey with soft twisted polyester, this stylish rug features a bold abstract line design.
-  Updated: 2025-11-20T15:49:16Z
+  Updated: 2025-11-22T13:57:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4884,7 +4885,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9999-Parent_17.jpg?v=1763109650
     Price: $306.36 CAD
 - [Havana Scandinavian Blue Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ca9998bl): Upgrade your space with the Havana Scandinavian Blue Rug. Loom-made in Turkey, this durable polypropylene rug features a sleek, contemporary striped design.
-  Updated: 2025-11-20T18:39:52Z
+  Updated: 2025-11-21T16:24:41Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4982,7 +4983,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9998-Parent_16.jpg?v=1763109475
     Price: $204.57 CAD
 - [Havana Geometric Blue Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ca9994ny): Enhance your space with the Havana Geometric Blue Rug. Loom-made in Turkey, this stylish polypropylene rug features a contemporary mosaic design.
-  Updated: 2025-11-20T15:49:16Z
+  Updated: 2025-11-21T16:24:41Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5088,7 +5089,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9994-Parent_17.jpg?v=1763109070
     Price: $72.94 CAD
 - [Havana Moroccan Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ca9993gy): Enhance your space with the Havana Moroccan Grey Rug. Loom-made in Turkey with 100% polypropylene and jute backing, this elegant rug is durable and stylish.
-  Updated: 2025-11-20T15:49:11Z
+  Updated: 2025-11-22T13:57:10Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5186,7 +5187,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9993-Parent_16.jpg?v=1763108929
     Price: $72.94 CAD
 - [Havana Geometric Coastal Blue Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ca9992ny): Add a modern touch with the Havana Geometric Coastal Blue Rug. Loom-made in Turkey with durable polypropylene, featuring a bold triangular pattern.
-  Updated: 2025-11-20T21:59:19Z
+  Updated: 2025-11-22T13:57:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5386,7 +5387,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9929-Parent_16.jpg?v=1763108661
     Price: $72.94 CAD
 - [Havana Moroccan Contemporary Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ca9925gy): Enhance your decor with the Havana Moroccan Contemporary Grey Rug. Loom-made in Turkey with durable polypropylene, featuring a distressed Moroccan pattern.
-  Updated: 2025-11-20T15:49:06Z
+  Updated: 2025-11-22T13:57:10Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5480,7 +5481,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9925-Parent_22.jpg?v=1763108415
     Price: $72.94 CAD
 - [Havana Abstract Contemporary Blue Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ca9924ny): Upgrade your space with the Havana Abstract Contemporary Blue Rug. Loom-made in Turkey with durable polypropylene, featuring a chic distressed pattern.
-  Updated: 2025-11-20T15:49:06Z
+  Updated: 2025-11-22T21:29:05Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5740,7 +5741,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9336-Parent_16.jpg?v=1763107612
     Price: $67.63 CAD
 - [Havana Boho Contemporary Blue Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ca9093ny): Add a boho touch with the Havana Contemporary Blue Rug. Loom-made in Turkey with durable polypropylene, featuring intricate tribal-inspired patterns.
-  Updated: 2025-11-20T15:49:03Z
+  Updated: 2025-11-22T13:57:10Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5902,7 +5903,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/6335-allure-collection-area-rugs-koshani-195682_de4143c6-a9ce-4987-982c-44faaf76ddc2.jpg?v=1710360513
     Price: $271.33 CAD
 - [Vogue Coastal Blue Rug | Rug Branch](https://www.rugbranch.com/products/all6333bl): Transform your space with the Vogue Coastal Blue Rug. This loom-made Turkish rug features a serene coastal design in blue and grey. Stylish, soft & durable.
-  Updated: 2025-11-20T15:48:51Z
+  Updated: 2025-11-21T17:46:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6276,7 +6277,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA2043-Parent_1.jpg?v=1710366195
     Price: $264.05 CAD
 - [Sakarya Contemporary Abstract Brown Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ha2475br): Enhance your space with the Sakarya Abstract Brown Rug. This loom-made Turkish rug features a modern design, durable polypropylene, and jute backing.
-  Updated: 2025-11-20T15:49:37Z
+  Updated: 2025-11-22T13:57:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6298,7 +6299,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA2475-Parent_1.jpg?v=1710365898
     Price: $264.05 CAD
 - [Sakarya Distressed Oriental Brown Rug - Vintage & Durable | Rug Branch](https://www.rugbranch.com/products/ha2479cr): Add timeless elegance with the Sakarya Distressed Brown Rug. Loom-made in Turkey, this vintage-style polypropylene rug offers durability with a jute backing.
-  Updated: 2025-11-20T15:49:36Z
+  Updated: 2025-11-22T13:57:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6342,7 +6343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA2571-Parent_1.jpg?v=1710366210
     Price: $264.05 CAD
 - [Sakarya Geometric Abstract Brown Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ha2607bk): Enhance your space with the Sakarya Abstract Brown Rug. This loom-made Turkish rug features a stylish geometric design, durable polypropylene, and jute backing.
-  Updated: 2025-11-14T21:45:18Z
+  Updated: 2025-11-22T13:57:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6430,7 +6431,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA8702-Parent_1.jpg?v=1745613410
     Price: $264.05 CAD
 - [Sakarya Abstract Splash Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ha8800cr): Elevate your space with the Sakarya Abstract Splash Grey Rug—Loom-made in Turkey with durable polypropylene and jute backing for a sleek, modern look.
-  Updated: 2025-11-20T15:49:42Z
+  Updated: 2025-11-21T16:24:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6472,7 +6473,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA8800-Parent_1.jpg?v=1722355648
     Price: $264.05 CAD
 - [Sakarya Boho Geometric Brown Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ha8810ml): Add warmth with the Sakarya Boho Geometric Brown Rug. Loom-made in Turkey with durable polypropylene and jute backing, perfect for a cozy boho look.
-  Updated: 2025-11-20T15:49:40Z
+  Updated: 2025-11-22T13:57:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6949,7 +6950,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1101-Parent_1.jpg?v=1710367177
     Price: $359.46 CAD
 - [Soft Steps Airplane Rug - Fun & Cozy | Rug Branch](https://www.rugbranch.com/products/da1104ny): Soft Steps Airplane Playmat, loom-made with soft polyester and canvas backing, featuring a vibrant airplane design for a playful and comfy kids' space.
-  Updated: 2025-11-14T23:31:39Z
+  Updated: 2025-11-22T23:06:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7015,7 +7016,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EU8250BG-Parent_1.jpg?v=1710346241
     Price: $303.72 CAD
 - [Eclipse Abstract Geometric Beige Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/eu8251bg): Eclipse Abstract Geometric Beige Rug – A Chinese loom-made rug with a sleek beige base and bold geometric curves. Durable polyester with sturdy canvas backing.
-  Updated: 2025-11-20T15:49:25Z
+  Updated: 2025-11-21T16:24:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7037,7 +7038,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EU8251BG-Parent_1.jpg?v=1710345727
     Price: $303.72 CAD
 - [Eclipse Abstract Geometric Cream Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/eu8252ml): Eclipse Abstract Geometric Cream Rug – A Chinese loom-made rug with bold organic shapes in cream, brown, and black. Durable polyester with canvas backing.
-  Updated: 2025-11-20T15:49:26Z
+  Updated: 2025-11-21T16:24:41Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7059,7 +7060,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EU8252ML-Parent_1.jpg?v=1710345812
     Price: $303.72 CAD
 - [Eclipse Zebra Print White Rug - Bold & Modern | Rug Branch](https://www.rugbranch.com/products/eu8955bk): Make a statement with the Eclipse Zebra Print White Rug. This loom-made polyester rug features bold abstract lines, perfect for a stylish modern space.
-  Updated: 2025-11-14T23:31:39Z
+  Updated: 2025-11-22T13:57:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7125,7 +7126,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EU8977ML-Parent_1.jpg?v=1710345890
     Price: $303.72 CAD
 - [Eclipse Modern Abstract Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/eu8988bg): Modern Eclipse Abstract Beige Rug from China. Durable polyester with canvas backing and a sleek wavy pattern.
-  Updated: 2025-11-20T15:49:36Z
+  Updated: 2025-11-21T16:24:54Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7147,7 +7148,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EU8988BG-Parent_1.jpg?v=1710345974
     Price: $303.72 CAD
 - [Eclipse Solid Beige Rug - Minimal & Modern | Rug Branch](https://www.rugbranch.com/products/eu8999bg): Add elegance with the Eclipse Solid Beige Rug. This loom-made polyester rug features a subtle abstract texture, perfect for a modern and minimalistic space.
-  Updated: 2025-11-20T15:49:37Z
+  Updated: 2025-11-21T16:24:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7213,7 +7214,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LI7954-Parent_1.jpg?v=1710340741
     Price: $269.57 CAD
 - [Blossom Floral Cream Rug - Elegant & Modern | Rug Branch](https://www.rugbranch.com/products/li7999cr): Soft and stylish, the Blossom Floral Cream Rug features a delicate leaf pattern. This loom-made polyester rug adds a modern and elegant touch to any space.
-  Updated: 2025-11-20T15:49:46Z
+  Updated: 2025-11-21T16:24:57Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7906,7 +7907,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/6898-arctic-collection-area-rugs-koshani-5-x-8-feet-cream-grey-914140_dcfbd0e2-864e-4729-811a-cad082868ccf.jpg?v=1710367010
     Price: $658.99 CAD
 - [Sakarya Modern Abstract Brown Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ha6703br): Enhance your space with the Sakarya Modern Abstract Brown Rug—Loom-made in Turkey with durable polypropylene and jute backing for lasting style.
-  Updated: 2025-11-20T16:42:11Z
+  Updated: 2025-11-22T15:34:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8122,7 +8123,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2899_RUST_1_b6fa423c-ba8f-46d3-834b-cf8759c0b513.jpg?v=1710364978
     Price: $344.94 CAD
 - [Super Soft Plush Shag Grey Rug - Cozy & Luxurious | Rug Branch](https://www.rugbranch.com/products/ssgy): Experience ultimate comfort with the Super Soft Plush Shag Grey Rug. Made from polyester with a luxe feel, this loom-made rug adds warmth to any space.
-  Updated: 2025-11-20T15:51:06Z
+  Updated: 2025-11-22T13:40:55Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8140,7 +8141,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Grey_d0fb4909-90dd-4db4-9aeb-db1440c747f9.jpg?v=1741922128
     Price: $46.23 CAD
 - [Super Soft Plush Shag Pink Rug - Cozy & Luxurious | Rug Branch](https://www.rugbranch.com/products/sspk): Add warmth and style with the Super Soft Plush Shag Pink Rug. Made from ultra-soft polyester, this loom-made rug is perfect for a cozy and chic space.
-  Updated: 2025-11-20T15:51:06Z
+  Updated: 2025-11-22T13:40:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8916,7 +8917,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EM6675BL-Parent_1.jpg?v=1710346031
     Price: $746.22 CAD
 - [Vogue Abstract Gold Rug | Rug Branch](https://www.rugbranch.com/products/all5506gd): Brighten your space with the Vogue Abstract Gold Rug. This loom-made Turkish rug features a modern abstract design in gold, grey, and beige. Stylish & durable.
-  Updated: 2025-11-20T15:48:52Z
+  Updated: 2025-11-22T13:40:50Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9136,7 +9137,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LE5001GY-Parent_1-min_321c5adf-782e-40d1-beca-842af5e01214.jpg?v=1710349740
     Price: $450.96 CAD
 - [Savannah Mid-Century Modern Blue Rug | Rug Branch](https://www.rugbranch.com/products/sp2855bl): Mid-century modern blue rug from Turkey with a vibrant floral pattern and durable jute backing. Perfect for contemporary and stylish spaces.
-  Updated: 2025-11-20T15:50:42Z
+  Updated: 2025-11-22T23:06:17Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9262,7 +9263,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
     Price: $60.27 CAD
 - [Savannah Mid-Century Modern Rust Rug | Rug Branch](https://www.rugbranch.com/products/sp2855rt): Mid-century modern rust rug from Turkey with a vibrant floral pattern and durable jute backing. Perfect for contemporary and stylish spaces.
-  Updated: 2025-11-20T15:50:46Z
+  Updated: 2025-11-22T15:34:25Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9384,7 +9385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
     Price: $60.27 CAD
 - [Montage Geometric Checkered Brown Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ve1166br): Enhance your space with the Montage Geometric Checkered Brown Rug. Featuring a bold checkered pattern, this loom-made Turkish rug offers style and durability.
-  Updated: 2025-11-20T15:51:37Z
+  Updated: 2025-11-22T13:57:36Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9582,7 +9583,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/4470-comfort-collection-area-rugs-koshani-4-x-6-feet-grey-blue-754578_6162eec0-8ba0-420e-9117-f59fa4b69578.jpg?v=1710359729
     Price: $359.23 CAD
 - [Havana Geometric Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ca9994bg): Modern Havana Geometric Grey Rug from Turkey. Loom-made with durable polypropylene and jute backing, perfect for a stylish, contemporary space.
-  Updated: 2025-11-20T15:49:11Z
+  Updated: 2025-11-22T13:57:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9947,7 +9948,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2120CRCR-Parent_16.jpg?v=1746804647
     Price: $75.00 CAD
 - [Vogue Abstract Grey Rug | Rug Branch](https://www.rugbranch.com/products/all5452bg): Upgrade your space with the Vogue Abstract Grey Rug. A durable, loom-made Turkish rug with a modern abstract design in grey tones. Stylish and versatile.
-  Updated: 2025-11-20T15:48:47Z
+  Updated: 2025-11-22T13:57:10Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9981,7 +9982,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/5452-allure-collection-area-rugs-koshani-10-x-16-feet-beige-175802_969b5b4e-d0ee-4494-965d-f924189b9345.jpg?v=1746641203
     Price: $598.83 CAD
 - [Vogue Abstract Contemporary Red Rug | Rug Branch](https://www.rugbranch.com/products/all5452rd): Vogue Collection by Rug Branch brings forth a palette of perfectly balanced contemporary colours. The richly detailed patterns add vintage finesse with a deft contemporary feel.
-  Updated: 2025-11-20T15:48:47Z
+  Updated: 2025-11-22T13:57:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10015,7 +10016,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/2_ALLURE-5452_RED_6.jpg?v=1746641173
     Price: $598.83 CAD
 - [Soft Steps Llama Rug - Adorable & Cozy | Rug Branch](https://www.rugbranch.com/products/da1105br): Soft Steps Llama Playmat, loom-made with soft polyester and canvas backing, featuring a cute llama design for a warm and playful kids' space.
-  Updated: 2025-11-20T15:49:22Z
+  Updated: 2025-11-22T13:57:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10103,7 +10104,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1109bg-parent_1.jpg?v=1714396776
     Price: $380.46 CAD
 - [Soft Steps Rainbow Rug - Cozy & Playful | Rug Branch](https://www.rugbranch.com/products/da1111bl): Soft Steps Rainbow Playmat, loom-made with soft polyester and canvas backing, featuring a soothing blue rainbow design for a fun and comfy play space.
-  Updated: 2025-11-20T15:49:27Z
+  Updated: 2025-11-22T13:57:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10279,7 +10280,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8971ml-parent_1.jpg?v=1714811388
     Price: $324.72 CAD
 - [Eclipse Abstract Checkered Brown Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/eu8972br): Modern Eclipse Abstract Checkered Brown Rug from China. Durable polyester with canvas backing and a unique wavy checkered pattern.
-  Updated: 2025-11-16T06:44:55Z
+  Updated: 2025-11-21T16:24:41Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10301,7 +10302,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8972br-parent_1.jpg?v=1714811393
     Price: $324.72 CAD
 - [Eclipse Brown Rug - Mid-Century Geometric | Rug Branch](https://www.rugbranch.com/products/eu8979br): Enhance your space with the Eclipse Brown Rug. This loom-made polyester rug features a sleek geometric design, perfect for a modern mid-century look.
-  Updated: 2025-11-14T21:47:41Z
+  Updated: 2025-11-21T16:24:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10345,7 +10346,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8974bl-parent_1_2a5b0116-832e-4625-ba60-5f31fd1d009e.jpg?v=1714997685
     Price: $324.72 CAD
 - [Eclipse Abstract Zebra Print Black Rug - Bold & Modern | Rug Branch](https://www.rugbranch.com/products/eu8975bk): Eclipse Abstract Zebra Print Black Rug – A Chinese loom-made rug with a striking black and white zebra-inspired design. Durable polyester with canvas backing.
-  Updated: 2025-11-20T15:49:30Z
+  Updated: 2025-11-21T16:24:45Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10367,7 +10368,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8975bk-parent_1_45ca25ac-edc1-4366-b43e-f2fbb4cff67b.jpg?v=1714997688
     Price: $324.72 CAD
 - [Eclipse Mid-Century Modern Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/eu8976bg): Modern Eclipse Mid-Century Abstract Beige Rug from China. Durable polyester with canvas backing and a sleek geometric design.
-  Updated: 2025-11-20T15:49:36Z
+  Updated: 2025-11-22T15:34:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10389,7 +10390,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8976bg-parent_1_1f209419-3437-44b8-8cc8-2e07cfa2b1f9.jpg?v=1714997691
     Price: $324.72 CAD
 - [Eclipse Mid-Century Geometric Beige Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/eu8983bg): Modern Eclipse Mid-Century Geometric Beige Rug from China. Durable polyester with canvas backing and an abstract geometric pattern.
-  Updated: 2025-11-14T21:48:22Z
+  Updated: 2025-11-21T16:24:53Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10411,7 +10412,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8983bg-parent_1_92109f09-d144-4407-9bc8-794dc93f44bf.jpg?v=1714997694
     Price: $324.72 CAD
 - [Eclipse Checkered Geometric Beige Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/eu8833bg): Modern Eclipse Checkered Geometric Beige Rug from China. Durable polyester with canvas backing and a trendy checkered pattern.
-  Updated: 2025-11-20T15:49:25Z
+  Updated: 2025-11-21T18:19:20Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10832,7 +10833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/AU9420BG_392a5812-8e67-4c95-ba9d-1aa04588c503.jpg?v=1719461585
     Price: $298.51 CAD
 - [Maise Abstract Modern Cream Rug - Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/au9423cr): Enhance your space with the Maise Abstract Modern Cream Rug. Loom-made in Turkey with durable polypropylene and jute backing, featuring a subtle pattern.
-  Updated: 2025-11-20T15:49:02Z
+  Updated: 2025-11-22T13:57:10Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11048,7 +11049,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ma2516bg-parent_1.jpg?v=1718118643
     Price: $335.90 CAD
 - [Maison Geometric Cream Rug – Modern & Elegant | Rug Branch](https://www.rugbranch.com/products/ma2518gy): Add a stylish touch with the Maison Geometric Cream Rug, loom-made in Turkey with soft polyester and durable jute backing for lasting beauty.
-  Updated: 2025-11-20T15:49:46Z
+  Updated: 2025-11-22T13:57:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11070,7 +11071,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ma2518gy-parent_1.jpg?v=1718118656
     Price: $335.90 CAD
 - [Maison Moroccan Cream Rug – Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/ma2540cr): Enhance your space with the Maison Moroccan Cream Rug, loom-made in Turkey with soft polyester and durable jute backing for a chic, modern look.
-  Updated: 2025-11-14T20:06:18Z
+  Updated: 2025-11-22T13:57:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11114,7 +11115,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ma2551bg-parent_1.jpg?v=1718118683
     Price: $335.90 CAD
 - [Maison Abstract Beige Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/ma2554bg): Add a contemporary touch with the Maison Abstract Beige Rug. This loom-made polyester rug features a unique textured pattern for a sleek, modern look.
-  Updated: 2025-11-20T15:49:51Z
+  Updated: 2025-11-22T17:59:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11323,7 +11324,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/MI8327BG-Parent_1.jpg?v=1719365654
     Price: $387.23 CAD
 - [Casa Modern Beige Rug - Stylish & Cozy | Rug Branch](https://www.rugbranch.com/products/mi8344bg): Upgrade your space with the Casa Modern Beige Rug. This loom-made polyester rug features a subtle abstract pattern, perfect for contemporary interiors.
-  Updated: 2025-11-20T15:49:57Z
+  Updated: 2025-11-22T13:57:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11349,7 +11350,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/MI8344BG-Parent_1.jpg?v=1719365289
     Price: $387.23 CAD
 - [Casa Abstract Modern Beige Rug - Soft & Durable | Rug Branch](https://www.rugbranch.com/products/mi8493bg): Casa Abstract Modern Beige Rug, loom-made in Turkey with soft polyester and jute backing. A stylish, durable choice for any modern space.
-  Updated: 2025-11-20T15:49:56Z
+  Updated: 2025-11-22T13:57:20Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11400,7 +11401,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/MI8493GY-Parent_1.jpg?v=1725890982
     Price: $387.23 CAD
 - [Nomad Abstract Modern Beige Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/na6658bg): Nomad Abstract Modern Beige Rug – a soft, loom-made polypropylene rug with a chic abstract design and durable jute backing. Perfect for any space.
-  Updated: 2025-11-20T15:49:57Z
+  Updated: 2025-11-21T20:10:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11412,7 +11413,7 @@
     Availability: Available
     Price: $152.68 CAD
   - [6' x 9'](https://www.rugbranch.com/products/na6658bg?variant=41452463357975)
-    Availability: Not Available
+    Availability: Available
     Price: $231.04 CAD
   - [8' x 11'](https://www.rugbranch.com/products/na6658bg?variant=41452463390743)
     Availability: Not Available
@@ -11512,7 +11513,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Modern Cream Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/na9221cr): Nomad Abstract Modern Cream Rug – a loom-made polypropylene rug with a soft cream, beige, and gray abstract design. Durable with sturdy jute backing.
-  Updated: 2025-11-20T15:50:03Z
+  Updated: 2025-11-22T13:57:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11602,7 +11603,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Modern Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/na9591bg): Nomad Abstract Modern Beige Rug – a loom-made polypropylene rug with a modern geometric design in beige and gray. Durable with sturdy jute backing.
-  Updated: 2025-11-20T15:50:07Z
+  Updated: 2025-11-22T13:57:20Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11728,7 +11729,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Modern Beige Rug - Minimalist & Durable | Rug Branch](https://www.rugbranch.com/products/na9960cr): Nomad Abstract Modern Beige Rug – a loom-made polypropylene rug with a sleek linear pattern in beige tones. Durable with sturdy jute backing.
-  Updated: 2025-11-14T21:48:22Z
+  Updated: 2025-11-22T13:57:20Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11854,7 +11855,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Scandinavian Beige Rug - Distressed & Stylish | Rug Branch](https://www.rugbranch.com/products/ri2186bg): Add Nordic charm with the Atlas Scandinavian Beige Rug. This loom-made polyester rug features a distressed design, perfect for a cozy, modern space.
-  Updated: 2025-11-14T21:49:03Z
+  Updated: 2025-11-22T13:57:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12052,7 +12053,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Camo Grey Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/ri2339gy): Upgrade your space with the Atlas Camo Grey Rug. This loom-made polyester rug features a sleek abstract pattern, perfect for a contemporary, modern look.
-  Updated: 2025-11-14T21:49:03Z
+  Updated: 2025-11-22T22:01:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12268,7 +12269,7 @@
     Availability: Available
     Price: $234.96 CAD
 - [Cadence Vintage South-Western Cream Rug | Rug Branch](https://www.rugbranch.com/products/si2014cr): Impeccably crafted, these area rugs are more than just decorative accents; they're expressions of craftsmanship and refinement.
-  Updated: 2025-11-20T15:52:43Z
+  Updated: 2025-11-22T13:57:28Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12402,7 +12403,7 @@
     Availability: Available
     Price: $234.96 CAD
 - [Domus Abstract Modern Cream Black Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/te7465cr): Enhance your decor with the Domus Abstract Modern Rug. Loom-made in Turkey, its bold cream and black design pairs with a durable polypropylene and jute backing.
-  Updated: 2025-11-20T15:51:11Z
+  Updated: 2025-11-22T13:57:28Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12510,7 +12511,7 @@
     Availability: Available
     Price: $351.49 CAD
 - [Domus Abstract Modern Cream Black Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/te9603cr): Upgrade your decor with the Domus Abstract Rug. Its cream and black geometric design adds modern style, while polypropylene and jute ensure lasting durability.
-  Updated: 2025-11-20T15:51:16Z
+  Updated: 2025-11-22T13:57:31Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12528,7 +12529,7 @@
     Availability: Available
     Price: $351.49 CAD
 - [Domus Abstract Modern Cream Black Rug - Sleek & Durable | Rug Branch](https://www.rugbranch.com/products/te9622cr): Enhance your space with the Domus Abstract Rug. Its cream base with black accents adds modern style, while durable polypropylene and jute ensure longevity.
-  Updated: 2025-11-20T15:51:16Z
+  Updated: 2025-11-22T20:56:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12614,7 +12615,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/astra-modern-geometric-grey-rug-area-rugs-rugbranch-489216.jpg?v=1741923297
     Price: $587.55 CAD
 - [Astra Modern Abstract Cream Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/tu1677cr): Enhance your space with the Astra Modern Abstract Cream Rug. Featuring a subtle geometric design, this soft, loom-made Turkish rug offers style and durability.
-  Updated: 2025-11-20T15:51:16Z
+  Updated: 2025-11-22T23:38:30Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12674,7 +12675,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/astra-modern-abstract-grey-rug-area-rugs-rugbranch-957038.jpg?v=1722306494
     Price: $341.07 CAD
 - [Astra Modern Abstract Beige Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/tu1735bg): Enhance your space with the Astra Modern Abstract Beige Rug. Featuring a geometric pattern, this soft, loom-made Turkish rug adds style and lasting durability.
-  Updated: 2025-11-20T15:51:21Z
+  Updated: 2025-11-22T17:43:20Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12734,7 +12735,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/astra-boho-abstract-beige-rug-area-rugs-rugbranch-314805.jpg?v=1722306496
     Price: $341.07 CAD
 - [Astra Modern Abstract Beige Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/tu2104bg): Upgrade your decor with the Astra Modern Abstract Beige Rug. Featuring a subtle linear pattern, this soft, loom-made Turkish rug adds style and durability.
-  Updated: 2025-11-20T15:51:23Z
+  Updated: 2025-11-22T13:57:30Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12862,7 +12863,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/astra-modern-abstract-beige-rug-area-rugs-rugbranch-209668.jpg?v=1741923548
     Price: $587.55 CAD
 - [Astra Modern Abstract Beige Rug - Soft & Elegant | Rug Branch](https://www.rugbranch.com/products/tu2573bg): Upgrade your space with the Astra Modern Abstract Beige Rug. Featuring a subtle textured pattern, this soft, loom-made Turkish rug adds warmth and durability.
-  Updated: 2025-11-20T15:51:27Z
+  Updated: 2025-11-22T18:31:45Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13012,7 +13013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/UT2886CR-Parent_1.jpg?v=1719362717
     Price: $283.41 CAD
 - [Hogar Abstract Geometric Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ut4060gy): Upgrade your decor with the Hogar Abstract Geometric Grey Rug. Its bold geometric pattern adds style, while polypropylene and jute ensure lasting durability.
-  Updated: 2025-11-20T15:51:30Z
+  Updated: 2025-11-22T13:57:35Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13283,7 +13284,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/alfombra-abstract-modern-cream-rug-area-rugs-rugbranch-795452.jpg?v=1722306375
     Price: $240.31 CAD
 - [Vintage Floral Cream Rug - Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/as1902cr): Add timeless charm with the Vintage Floral Cream Rug from Turkey. Loom-made with 100% polypropylene and jute backing, featuring a delicate floral pattern in soft tones.
-  Updated: 2025-11-20T15:48:53Z
+  Updated: 2025-11-22T13:57:10Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13319,7 +13320,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1104CR-Parent_1_57c34a03-2034-4bda-b792-d1fe8b625b11.jpg?v=1719461449
     Price: $359.46 CAD
 - [Majestic Persian Black Rug - Elegant & Timeless | Rug Branch](https://www.rugbranch.com/products/ja2222bk): Enhance your space with the Majestic Persian Black Rug. This loom-made Turkish rug features an intricate medallion design for a classic, elegant touch.
-  Updated: 2025-11-14T23:21:39Z
+  Updated: 2025-11-21T16:24:57Z
   Vendor: Rug Branch
   Product Type: 
   Availability: Available
@@ -13353,7 +13354,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2222BKCR-Parent_R1_60a62ea5-aea7-4cea-afc7-c92b496f5a99.jpg?v=1763113294
     Price: $278.75 CAD
 - [Majestic Persian Green Rug - Elegant & Timeless | Rug Branch](https://www.rugbranch.com/products/ja2222gr): Elevate your space with the Majestic Persian Green Rug. This loom-made Turkish rug features an intricate medallion design for a classic, refined look.
-  Updated: 2025-11-14T21:49:03Z
+  Updated: 2025-11-21T16:24:56Z
   Vendor: Rug Branch
   Product Type: 
   Availability: Available
@@ -18771,7 +18772,7 @@
     Availability: Available
     Price: $316.89 CAD
 - [Solara Blush Pink Area Rug – Soft & Stylish Decor | Rug Branch](https://www.rugbranch.com/products/dr1102pk): Add charm with the Solara Blush Pink Area Rug. Soft polyester, durable canvas backing—perfect for playful, modern spaces.
-  Updated: 2025-11-20T15:49:27Z
+  Updated: 2025-11-22T22:01:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20412,7 +20413,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Samira_F045_4979.jpg?v=1757496680
     Price: $659.00 CAD
 - [Contemporary Border Organic Grey Area Rug](https://www.rugbranch.com/products/rbkl-f113-0454): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:44Z
+  Updated: 2025-11-22T03:20:22Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -21152,7 +21153,7 @@
 ## Collections
 
 - [All Rugs Collection | High-Quality Area Rugs at Rug Branch](https://www.rugbranch.com/collections/all-rugs): Explore the extensive All Rugs collection at Rug Branch, featuring a wide variety of high-quality, stylish, and affordable area rugs. Perfect for any room, our rugs offer both comfort and elegance to elevate your home decor. Shop now and enjoy free shipping on all orders!
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 626
 - [Vogue Collection](https://www.rugbranch.com/collections/vogue-collection)
   Updated: 2025-09-08T11:15:29Z
@@ -21161,7 +21162,7 @@
   Updated: 2025-09-04T13:40:19Z
   Total Products: 5
 - [Havana Collection](https://www.rugbranch.com/collections/havana-collection)
-  Updated: 2025-11-12T12:19:02Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 13
 - [Nova Collection](https://www.rugbranch.com/collections/nova-collection)
   Updated: 2025-09-04T13:40:19Z
@@ -21218,7 +21219,7 @@
   Updated: 2025-11-12T12:19:02Z
   Total Products: 94
 - [Contemporary Rugs](https://www.rugbranch.com/collections/contemporary-rugs)
-  Updated: 2025-11-14T10:29:52Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 263
 - [Shag Rugs Collection | Cozy & Luxurious Rugs at Rug Branch](https://www.rugbranch.com/collections/shag-rugs): Discover the Shag Rugs collection at Rug Branch, offering cozy and luxurious area rugs that add warmth and comfort to any room. Perfect for creating a plush and inviting atmosphere, our high-quality shag rugs come in various colors and styles. Shop now and enjoy free shipping on all orders!
   Updated: 2025-11-12T17:24:14Z
@@ -21227,13 +21228,13 @@
   Updated: 2025-11-14T10:29:34Z
   Total Products: 48
 - [Geometric Rugs](https://www.rugbranch.com/collections/geometric-rugs)
-  Updated: 2025-11-14T12:21:50Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 355
 - [Bohemian Rugs Collection | Stylish & Unique Rugs at Rug Branch](https://www.rugbranch.com/collections/bohemian-rugs): Discover the Bohemian Rugs collection at Rug Branch, where you'll find an array of stylish and unique area rugs. Perfect for adding a touch of boho-chic charm to any room, our rugs combine vibrant patterns and rich textures. Shop now for high-quality bohemian rugs and enjoy free shipping on all orders!
-  Updated: 2025-11-12T12:19:02Z
+  Updated: 2025-11-21T12:21:06Z
   Total Products: 93
 - [Shop Best Selling Rugs at Rug Branch Customer Favorites in Every Style and Size](https://www.rugbranch.com/collections/best-sellers): Browse the top rated and best selling rugs at Rug Branch. Discover customer favorites in modern, traditional, and transitional designs for every room in your home.
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 620
 - [Type: Runner Rugs](https://www.rugbranch.com/collections/runner-rugs)
   Updated: 2025-09-08T11:15:29Z
@@ -21248,37 +21249,37 @@
   Updated: 2025-09-04T13:40:21Z
   Total Products: 15
 - [Mats](https://www.rugbranch.com/collections/doormats)
-  Updated: 2025-11-12T17:25:13Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 137
 - [Rug Runners](https://www.rugbranch.com/collections/rug-runners): Rug Runners
-  Updated: 2025-11-14T12:21:50Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 257
 - [3'x5' Rugs](https://www.rugbranch.com/collections/3x5-area-rugs)
   Updated: 2025-11-12T17:25:12Z
   Total Products: 96
 - [4'x6' Rugs](https://www.rugbranch.com/collections/4x6-area-rug)
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 546
 - [Shop 5x7 and 5x8 Rugs at Rug Branch Medium Size Area Rugs for Every Room](https://www.rugbranch.com/collections/5x7-rugs): Browse 5x7 and 5x8 rugs at Rug Branch. Perfect for bedrooms, small living areas, and home offices. Explore stylish and durable medium size rugs in every design.
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 574
 - [6'x9' Rugs](https://www.rugbranch.com/collections/6x9-area-rug)
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 535
 - [Shop 8x10 and 8x11 Rugs at Rug Branch Large Area Rugs for Spacious Interiors](https://www.rugbranch.com/collections/8x11-rugs): Explore 8x10 and 8x11 rugs at Rug Branch. Perfect for large rooms with furniture groupings. Discover stylish area rugs made with soft, durable materials.
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 581
 - [9'x12' Rugs & Larger](https://www.rugbranch.com/collections/9x12-area-rug-larger): 9'x12' Rugs & Larger
   Updated: 2025-11-12T12:19:02Z
   Total Products: 98
 - [Hand-Tufted Rugs](https://www.rugbranch.com/collections/hand-tufted): Discover the craftsmanship of our Hand-Tufted Rugs collection. Each piece is meticulously crafted with a hand-tufting technique that ensures exceptional quality and durability. Perfect for adding a touch of elegance and texture to any space, these rugs feature intricate designs and rich textures that enhance your home decor. Explore our selection of hand-tufted rugs at Rug Branch and elevate your living space with timeless beauty and comfort.
-  Updated: 2025-09-12T11:15:50Z
+  Updated: 2025-11-21T12:21:06Z
   Total Products: 8
 - [Shop Machine Washable Rugs for Every Room Stylish Durable and Easy to Clean Rugs at Rug Branch](https://www.rugbranch.com/collections/machine-washable-rugs): Explore Rug Branch machine washable rugs that are soft, durable, and perfect for homes with kids or pets. Easy to clean and available in many sizes and styles.
   Updated: 2025-09-04T13:40:22Z
   Total Products: 11
 - [Farmhouse Rugs](https://www.rugbranch.com/collections/farmhouse-rugs)
-  Updated: 2025-11-12T12:19:02Z
+  Updated: 2025-11-21T12:21:06Z
   Total Products: 106
 - [Persian Rugs](https://www.rugbranch.com/collections/persian-rugs)
   Updated: 2025-09-04T13:40:22Z
@@ -21290,19 +21291,19 @@
   Updated: 2025-09-04T13:40:22Z
   Total Products: 0
 - [Kids Rugs Collection | Fun & Durable Rugs at Rug Branch](https://www.rugbranch.com/collections/kids-rugs): Explore the Kids Rugs collection at Rug Branch, featuring fun and durable area rugs designed specifically for children. Perfect for adding a playful touch to any kid's room, our high-quality rugs come in various vibrant designs and colors. Shop now and enjoy free shipping on all orders!
-  Updated: 2025-11-14T12:21:50Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 69
 - [Abstract Rugs](https://www.rugbranch.com/collections/abstract-rugs): Abstract Rugs
   Updated: 2025-11-15T12:23:25Z
   Total Products: 263
 - [Solid Rugs Collection | Classic & Versatile Rugs at Rug Branch](https://www.rugbranch.com/collections/plain-rugs): Explore the Solid Rugs collection at Rug Branch, featuring classic and versatile area rugs that complement any decor style. Ideal for adding a clean and cohesive look to your space, our high-quality solid rugs come in a variety of colors and sizes. Shop now and enjoy free shipping on all orders!
-  Updated: 2025-11-12T17:25:12Z
+  Updated: 2025-11-21T12:21:06Z
   Total Products: 32
 - [Coastal Rugs Collection | Elegant Beach-Inspired Rugs at Rug Branch](https://www.rugbranch.com/collections/coastal-rugs): Explore the Coastal Rugs collection at Rug Branch, featuring elegant beach-inspired area rugs that bring a touch of seaside charm to your home. Perfect for creating a relaxed and breezy atmosphere, our high-quality coastal rugs come in various styles and colors. Shop now and enjoy free shipping on all orders!
-  Updated: 2025-11-12T17:25:13Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 36
 - [Shop Modern Rugs at Rug Branch Contemporary Area Rugs for Stylish Interiors](https://www.rugbranch.com/collections/modern-rugs): Discover modern rugs at Rug Branch featuring bold patterns, soft textures, and contemporary designs. Perfect for living rooms, bedrooms, and modern spaces.
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 652
 - [Floral Rugs Collection | Beautiful & Elegant Rugs at Rug Branch](https://www.rugbranch.com/collections/floral-rugs): Discover the Floral Rugs collection at Rug Branch, offering a stunning selection of beautiful and elegant area rugs. Perfect for adding a touch of nature-inspired charm to any space, our high-quality floral rugs feature intricate designs and vibrant colors. Shop now and enjoy free shipping on all orders!
   Updated: 2025-09-13T11:16:13Z
@@ -21314,7 +21315,7 @@
   Updated: 2025-11-14T10:44:52Z
   Total Products: 81
 - [Bold Red & Burgundy Rugs for a Luxurious Statement | Rug Branch](https://www.rugbranch.com/collections/red-burgundy-rugs): Shop stunning red and burgundy rugs at Rug Branch—perfect for adding warmth, drama, and elegance to any room. Ideal for traditional, vintage, and eclectic interiors. Available in multiple sizes. Free shipping!
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 625
 - [Multi-Colored Rugs](https://www.rugbranch.com/collections/multi-colored-rugs): Explore eye-catching multi-colored rugs at Rug Branch—perfect for eclectic, boho, and modern interiors. Add personality, warmth, and bold style to any room. Shop unique patterns and enjoy free shipping!
   Updated: 2025-09-08T11:15:29Z
@@ -21323,16 +21324,16 @@
   Updated: 2025-11-12T12:19:02Z
   Total Products: 47
 - [Shop Beige and Taupe Rugs at Rug Branch Elegant Neutral Rugs for Every Room](https://www.rugbranch.com/collections/beige-and-taupe): Explore beige and taupe rugs at Rug Branch. These soft neutral rugs are perfect for modern and classic spaces with styles that suit every room in your home.
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 345
 - [Blue / Navy Rugs](https://www.rugbranch.com/collections/blue-navy-rugs): Elevate your space with our stunning Blue Rugs collection. Featuring a range of shades from serene navy to vibrant turquoise, these rugs add a splash of color and sophistication to any room. Perfect for creating a calming atmosphere or making a bold statement, our blue rugs are crafted with premium materials for lasting beauty and comfort. Explore the versatility of blue with our exquisite selection at Rug Branch and transform your home with a touch of elegance.
-  Updated: 2025-11-14T10:42:38Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 129
 - [Grey Rugs](https://www.rugbranch.com/collections/grey-rugs): Shop premium grey rugs at Rug Branch—perfect for contemporary, minimalist, or industrial interiors. Add texture, depth, and elegance with soft, neutral tones. Available in various sizes and patterns. Free shipping!
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 279
 - [Shop Green Rugs at Rug Branch Fresh Elegant Rugs for Every Space](https://www.rugbranch.com/collections/green-rugs): Discover green rugs at Rug Branch in shades from sage to emerald. Stylish and versatile rugs that bring natural warmth and elegance to every room in your home.
-  Updated: 2025-09-26T11:15:36Z
+  Updated: 2025-11-21T12:21:06Z
   Total Products: 29
 - [Rug Runners on Clearance](https://www.rugbranch.com/collections/rug-runners-on-clearance): Rug Runners on Clearance
   Updated: 2025-09-04T13:40:23Z
@@ -21344,28 +21345,28 @@
   Updated: 2025-11-12T12:19:02Z
   Total Products: 98
 - [Medium Table Rugs (6 seats)](https://www.rugbranch.com/collections/medium-table-6-seats): For a dining table set for six, the ideal rug sizes are 8'x10' or 6'x9', providing sufficient space around the table for easy movement of dining chairs while ensuring they remain on the rug.
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 581
 - [Small Table Rugs (4 seats)](https://www.rugbranch.com/collections/small-table-4-seats): For a table set for four, you can float the table and chairs in the center of a 6'x9' rug for a cozy arrangement.
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 535
 - [King Bed Rugs](https://www.rugbranch.com/collections/king-bed)
   Updated: 2025-11-12T12:19:02Z
   Total Products: 98
 - [Queen Bed Rugs](https://www.rugbranch.com/collections/queen-bed)
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 581
 - [Full Bed Rugs](https://www.rugbranch.com/collections/full-bed-rugs)
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 535
 - [Twin Bed Rugs](https://www.rugbranch.com/collections/twin-bed-rugs): Twin Bed Rugs
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 574
 - [Explore New Arrival Rugs at Rug Branch Discover the Latest Styles and Home Trends](https://www.rugbranch.com/collections/new-arrivals): Browse the newest rugs at Rug Branch featuring modern designs and timeless classics. Find fresh styles and premium quality rugs for every room in your home.
   Updated: 2025-11-14T10:29:52Z
   Total Products: 223
 - [All Rug Styles Collection | Diverse & Trendy Rugs at Rug Branch](https://www.rugbranch.com/collections/shop-by-style): Discover the All Rug Styles collection at Rug Branch, offering a diverse range of trendy area rugs to suit any taste and decor. From traditional to modern, bohemian to coastal, our high-quality rugs bring style and comfort to every room. Shop now and enjoy free shipping on all orders!
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 414
 - [Alfombra Collection](https://www.rugbranch.com/collections/alfombra)
   Updated: 2025-09-04T13:40:24Z
@@ -21401,7 +21402,7 @@
   Updated: 2025-09-04T13:40:25Z
   Total Products: 6
 - [Kids Soft Steps Playtime Collection](https://www.rugbranch.com/collections/kids-soft-steps-playtime-collection)
-  Updated: 2025-11-14T12:21:50Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 68
 - [Maise Collection](https://www.rugbranch.com/collections/maise-collection)
   Updated: 2025-09-04T13:40:25Z
@@ -21422,13 +21423,13 @@
   Updated: 2025-09-08T11:15:29Z
   Total Products: 1
 - [Clearance Sale at Rug Branch Shop Discounted Rugs Furniture and Home Decor](https://www.rugbranch.com/collections/special-prices): Save big during the Rug Branch Clearance Sale. Find discounted rugs, furniture, and decor pieces with premium quality and unbeatable prices. Limited stock available.
-  Updated: 2025-11-12T17:24:14Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 97
 - [Best Selling Products](https://www.rugbranch.com/collections/best-selling-products)
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 1502
 - [Newest Products](https://www.rugbranch.com/collections/newest-products)
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 1502
 - [Natural Rugs](https://www.rugbranch.com/collections/earthy-tones): Embrace the warmth and natural beauty of our Earthy Tones collection. These rugs, inspired by nature's palette, bring a cozy, grounded feel to any space. Ideal for adding a touch of rustic charm or complementing a modern decor, our Earthy Tones rugs are perfect for creating a serene and inviting atmosphere in your home. Shop now at Rug Branch for quality and style in every weave.
   Updated: 2025-11-15T12:23:25Z
@@ -21437,7 +21438,7 @@
   Updated: 2025-11-14T12:21:50Z
   Total Products: 39
 - [Mid-Century Modern Rugs](https://www.rugbranch.com/collections/mid-century-modern-rugs): Infuse your home with retro charm and timeless sophistication with our Mid-Century Modern Rugs collection. Inspired by the iconic designs of the mid-20th century, these rugs feature bold geometric patterns, rich textures, and a vibrant color palette that captures the essence of classic modernism. Perfect for adding a touch of vintage flair to contemporary spaces, our rugs are crafted with premium materials for enduring quality and style. Explore our Mid-Century Modern Rugs at Rug Branch and bring a touch of nostalgic elegance to your decor.
-  Updated: 2025-11-14T10:29:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 41
 - [Animal Print Rugs](https://www.rugbranch.com/collections/animal-print-rugs): Explore Rug Branch's stunning collection of animal print rugs. Featuring zebra, leopard, and tiger designs, our high-quality rugs add a touch of exotic flair to any room. Shop now for free shipping across North America!
   Updated: 2025-09-05T11:14:52Z
@@ -21542,7 +21543,7 @@
   Updated: 2025-11-14T10:44:52Z
   Total Products: 8
 - [Regular (not on discount)](https://www.rugbranch.com/collections/regular-not-on-discount)
-  Updated: 2025-11-14T12:21:50Z
+  Updated: 2025-11-21T12:21:06Z
   Total Products: 1015
 - [Shop Area Rugs by Size | Find the Perfect Fit | Rug Branch](https://www.rugbranch.com/collections/shop-area-rugs-by-size): Browse Rug Branch’s collection of area rugs by size to find the perfect fit for every room. From small accent rugs to oversized statement pieces—shop premium quality rugs in every dimension.
   Updated: 2025-09-04T13:40:28Z
@@ -21554,13 +21555,13 @@
   Updated: 2025-09-04T13:40:28Z
   Total Products: 0
 - [Ivory / Cream Rugs](https://www.rugbranch.com/collections/ivory-cream-rugs): Shop luxurious ivory and cream rugs at Rug Branch. Discover soft, neutral tones that elevate any room with warmth and elegance. Perfect for modern, classic, or boho styles. Free shipping available!
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 298
 - [Elegant Black Rugs for Bold, Sophisticated Interiors | Rug Branch](https://www.rugbranch.com/collections/black-rugs): Discover sleek and stylish black rugs at Rug Branch—ideal for modern, contemporary, and minimalist spaces. Add depth, contrast, and luxury to your décor. Available in various textures and sizes. Free shipping!
   Updated: 2025-11-14T12:21:50Z
   Total Products: 141
 - [Warm Rust & Terracotta Rugs for Cozy, Earthy Interiors | Rug Branch](https://www.rugbranch.com/collections/rust-terracotta-rugs): Explore rich rust and terracotta rugs at Rug Branch—ideal for boho, southwestern, and rustic décor styles. Add warmth, texture, and character to your space with timeless earth tones. Free shipping available!
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 623
 - [Sophisticated Charcoal Rugs for Modern & Minimalist Spaces | Rug Branch](https://www.rugbranch.com/collections/charcoal-rugs): Discover sleek charcoal rugs at Rug Branch—perfect for creating depth and contrast in contemporary, industrial, or minimalist interiors. Shop durable, stylish options in various patterns and sizes. Free shipping available!
   Updated: 2025-11-15T12:23:25Z
@@ -21569,7 +21570,7 @@
   Updated: 2025-09-04T13:40:28Z
   Total Products: 9
 - [All Products](https://www.rugbranch.com/collections/all-products)
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-22T12:20:35Z
   Total Products: 1502
 
 ## Blogs
@@ -21964,6 +21965,18 @@
     Updated: 2025-11-18T16:51:06Z
     Author: Rug Branch Team
     Tags: abstract rugs, Best abstract rugs for modern minimalist interior decor?, contemporary rugs, rugs
+  - [Timeless Charm: Discover the Best Traditional Rugs for Classic Home Decor Inspiration](https://www.rugbranch.com/blogs/marketing/timeless-charm-discover-the-best-traditional-rugs-for-classic-home-decor-inspiration): Stepping into a home graced by the enduring beauty of a traditional rug is like embracing a design philosophy where heritage and craftsmanship converg...
+    Updated: 2025-11-21T22:07:01Z
+    Author: Rug Branch Team
+    Tags: Best traditional rugs for classic home decor inspiration, classic home decor, Moroccan rugs, Persian rugs, traditional rugs
+  - [Abstract vs. Modern Rugs: Unraveling the Key Differences in Design & Style](https://www.rugbranch.com/blogs/marketing/abstract-vs-modern-rugs-unraveling-the-key-differences-in-design-style): Are you standing in a rug showroom, captivated by a stunning piece, yet utterly bewildered whether it’s 'abstract' or 'modern'? You’re not alone. The ...
+    Updated: 2025-11-21T22:07:01Z
+    Author: Rug Branch Team
+    Tags: abstract rugs, contemporary rugs, modern rug designs, What is the difference between abstract and modern rug designs?
+  - [How to Choose the Best Contemporary Rug for Your Living Room: A Comprehensive Buying Guide](https://www.rugbranch.com/blogs/marketing/how-to-choose-the-best-contemporary-rug-for-your-living-room-a-comprehensive-buying-guide): The living room is the heart of your home, a space for relaxation, entertaining, and showcasing your personal style. Yet, many homeowners grapple with...
+    Updated: 2025-11-21T22:07:01Z
+    Author: Rug Branch Team
+    Tags: contemporary rugs, How to choose the best contemporary rug for a living room?, living room rugs, modern rugs
 
 ## Store Pages
 
