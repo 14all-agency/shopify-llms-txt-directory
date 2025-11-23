@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2025-11-18T17:22:50Z
 - Contact Email: style_tattoo@hotmail.com
-- Updated At: 2025-11-22T19:35:35.559Z
+- Updated At: 2025-11-23T00:01:19.128Z
 
 ## Products
 
@@ -36,7 +36,7 @@
     Image: https://cdn.shopify.com/s/files/1/0777/2091/2117/files/MiniShopperLunchAngleStone.jpg?v=1763820648
     Price: ₺857,84 TRY
 - [Balck Summer Cardigan with Front Buttons Fastening](https://tokka-9659.myshopify.com/products/balck-summer-cardigan-with-front-buttons-fastening): Stylish and comfortable black summer cardigan sweater for boys. Knitted in super-soft light-weight certified organic cotton yarn. Girls and Boys cardigan has front buttons fastening. Cute baby cardigan and toddler cardigan for every occasion. Boys and girls black cardigan is a perfect layering piece for summer nights and windy days. Available in sizes 6 month to 10 years For the optimal fit please refer to our Sizing Guide Vegan friendly Knitwear Regular Fit 100% Certified Organic Cotton Yarn Designed in Belgium Handcrafted in Spain Care Instructions Machine washable at 30 degrees Do not bleach Cool iron Do not tumble dry Line dry in shade Material details 100% Certified Organic Cotton Yarn (250 gr), ethically manufactured by Filmar (Italy). 5 Coconut Shell Buttons with signature engraved Moth logo, supplied by Knopf+Knopf (Germany) Manufacturing process Pattern making and grading is offering 180 paid minutes of fair wages in Belgium Knitwear developing and programming is offering 360 paid minutes of fair wages in Spain Knitting and sewing of this garment is offering 75 paid minutes of fair wages in Spain
-  Updated: 2025-11-22T18:43:50Z
+  Updated: 2025-11-22T20:25:28Z
   Vendor: Infantium Victoria
   Product Type: Sweater
   Availability: Available
@@ -77,7 +77,7 @@
   Image: https://cdn.shopify.com/s/files/1/0777/2091/2117/files/Nourish-Hand-Cream.png?v=1763820684
   Price: ₺1.230,81 TRY
 - [Vegan Mineral Blusher Refill | Clean, Toxin-Free, Sustainable Radiance](https://tokka-9659.myshopify.com/products/vegan-mineral-blusher-refill-clean-toxin-free-sustainable-radiance): Sustain your glow naturally with our Vegan Mineral Blusher Refill, a lightweight, clean, and toxin-free formula that enhances your natural beauty while caring for your skin. Made from 100% pure minerals, this silky blusher adds a soft flush of color and definition to your cheeks — giving you that radiant, healthy glow without clogging pores. Gentle and non-comedogenic, it allows your skin to breathe while delivering long-lasting, buildable color. Whether you’re creating a subtle daytime warmth or a bolder evening look, this vegan and cruelty-free blusher blends seamlessly for a flawless, natural finish that lasts all day. Designed as a refill for your bamboo container, it’s the perfect choice for those embracing sustainable, conscious beauty without compromising on luxury or performance. For best results, apply with our Contouring or Blusher Brush for even, smooth application and a radiant, professional finish. Key Benefits: 100% pure, clean mineral formula Lightweight and breathable — won’t clog pores Buildable, natural color for a radiant glow Vegan, cruelty-free, and eco-conscious Designed to refill your reusable bamboo container Ingredients:Mica+/- C177491 (Red Iron Oxide), C177942 (Zinc Oxide), C177499 (Black Iron Oxide), C177007 (Ultramarines) Net Weight: 8gCost per Gram: £3.31
-  Updated: 2025-11-22T18:43:50Z
+  Updated: 2025-11-22T21:57:47Z
   Vendor: Bomonde mineral makeup
   Product Type: Blushes & Bronzers
   Availability: Available
@@ -393,7 +393,7 @@
   Image: https://cdn.shopify.com/s/files/1/0777/2091/2117/files/5057566220811_S05103292_P02.jpg?v=1763821068
   Price: ₺389,23 TRY
 - [Liquid Make Up Base Revolution Make Up Irl Filter F7 23 ml](https://tokka-9659.myshopify.com/products/liquid-make-up-base-revolution-make-up-irl-filter-f7-23-ml): Liquid Make Up Base Revolution Make Up Irl Filter F7 23 ml is what you need to maximise your appeal! Try the quality of 100% original Revolution Make Up products and let the best professionals enhance your beauty.The IRL FILTER liquid foundation by Revolution Make Up is designed to provide light, even coverage through its liquid texture, enabling smooth and natural application. This cosmetic, with a shade F7 and a 23 ml capacity, is specially formulated for women, although its labeling indicates unisex use, broadening its versatility. Made in the United Kingdom, this foundation also stands out for being vegan and cruelty-free, ensuring a commitment to ethical and sustainable production. Its formula achieves a uniform finish that evens out skin tone, ideal for those seeking long-lasting, comfortable makeup for daily wear. While no sun protection is specified, its longwear nature suggests adequate resistance to everyday wear. Revolution Make Up developed this product focusing on quality, skin sensitivity, and environmental awareness, positioning it as a thoughtful choice for daily makeup. Overall, the IRL FILTER foundation is a practical option for those needing a lightweight, easy-to-apply base that respects both skin and the environment. Type: Liquid Make Up Base Colour: F7 Characteristics: Vegan Not tested on animals Gender: Lady Unisex Texture: Liquid Includes: Dosage dispenser Recommended use: All skin types Ingredients: Polyhydroxystearic acid Propylene carbonate Quaternium-90 bentonite Silica Sodium chloride Sorbitan sesquioleate Tocopheryl acetate Butylene glycol Caprylyl glycol Cyclopentasiloxane Dimethicone Dimethicone crosspolymer Ethylhexyl palmitate Isododecane Isohexadecane Isononyl isononanoate Isopropyl myristate Isostearic acid Methicone Pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate Phenoxyethanol Lecithin Water C30-45 Alkyl Dimethicone Niacinamide Capacity: 23 ml
-  Updated: 2025-11-22T18:43:52Z
+  Updated: 2025-11-22T20:26:14Z
   Vendor: Revolution Make Up
   Product Type: Perfumes | Cosmetics > Cosmetics > Make-up and correctors
   Availability: Available
@@ -647,7 +647,7 @@
   Image: https://cdn.shopify.com/s/files/1/0777/2091/2117/files/womens-fashion-off-shoulder-leather-bodysuit-jumpsuit-riders-republic-uk-338.webp?v=1763821190
   Price: ₺14.659,00 TRY
 - [DownUNDERS Women's Travel Pants](https://tokka-9659.myshopify.com/products/downunders-womens-travel-pants): These 2-in-1 women's travel pants are designed to adapt to various situations, such as weather changes or different activities. Wearing DownUNDERS pants, you can visit a museum and then take a walk down by the water afterward.The adjustable length, comfortable fit, and amount of pockets make these pants an absolute must-have for all travel lovers.
-  Updated: 2025-11-22T18:43:54Z
+  Updated: 2025-11-22T20:26:21Z
   Vendor: DRiiBE
   Product Type: WOMEN PANTS
   Availability: Available
