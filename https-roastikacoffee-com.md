@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-09-11T02:03:25Z
 - Contact Email: info@roastikacoffee.com
-- Updated At: 2025-11-22T00:01:13.987Z
+- Updated At: 2025-11-23T00:01:10.428Z
 
 ## Products
 
@@ -162,7 +162,7 @@
     Availability: Available
     Price: $141.06 USD
 - [Colombia Supremo Green Coffee Beans -  Natural Process | ROASTIKA](https://roastikacoffee.com/products/decaf-colombia-natural-process): Explore Roastika's Colombia Supremo green coffee beans from Bucaramanga. Premium Arabica, natural process for rich flavor, perfect for home roasting or cafés.
-  Updated: 2025-11-21T21:11:38Z
+  Updated: 2025-11-22T07:34:00Z
   Vendor: Roastika
   Product Type: Arabica
   Availability: Available
@@ -258,6 +258,9 @@
     Author: Roastika
   - [Key Differences in Green Coffee Harvesting Across Various Origins](https://roastikacoffee.com/blogs/news/key-differences-in-green-coffee-harvesting-across-various-origins): Key Differences in Green Coffee Harvesting Across Various Origins
     Updated: 2025-11-21T20:01:14Z
+    Author: Roastika
+  - [Tips for Synchronizing Your Rotating Green Coffee Shipments](https://roastikacoffee.com/blogs/news/tips-for-synchronizing-your-rotating-green-coffee-shipments): Tips for Synchronizing Your Rotating Green Coffee Shipments
+    Updated: 2025-11-22T20:02:00Z
     Author: Roastika
 
 ## Store Pages
