@@ -176,7 +176,7 @@ firmer compression sculptwear
 - Timezone: Europe/Dublin
 - Created At: 2023-06-26T10:59:59Z
 - Contact Email: help@sugar-spicy.com
-- Updated At: 2025-11-22T20:00:26.179Z
+- Updated At: 2025-11-23T00:01:21.230Z
 
 BUSINESS INFORMATION — SUGAR + SPICY
 =========================================================
@@ -1028,13 +1028,13 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/SeamlessCoveredBustBodysuit__1_-removebg_7.png?v=1703105951
     Price: $98.00 USD
 - [Sugar + Spicy Satin Sculpted Elegance: The Ultimate Figure-Enhancing](https://sugar-spicy.com/products/satin-deep-v-neck-bodysuit): Discover the ultimate bodysuit designed for you! Our figure-enhancing, pearl satin lustre knitted bodysuit offers a perfect fit with a sleek silhouette, low-cut neckline, and sexy V-neck design. Experience luxury and comfort with four-way elasticity and adjustable crotch hooks. Elevate your style effortlessly.
-  Updated: 2025-11-16T04:29:46Z
+  Updated: 2025-11-22T21:48:32Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-09-03T205635.428.png?v=1693776632
   - [Black / S](https://sugar-spicy.com/products/satin-deep-v-neck-bodysuit?variant=45581165199672)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-09-03T221615.453.png?v=1693776632
     Price: $78.00 USD
   - [Black / M](https://sugar-spicy.com/products/satin-deep-v-neck-bodysuit?variant=45581165265208)
@@ -1046,11 +1046,11 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-09-03T221615.453.png?v=1693776632
     Price: $78.00 USD
   - [Black / XL](https://sugar-spicy.com/products/satin-deep-v-neck-bodysuit?variant=45581165396280)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-09-03T221615.453.png?v=1693776632
     Price: $78.00 USD
   - [Black / XXL](https://sugar-spicy.com/products/satin-deep-v-neck-bodysuit?variant=45581165461816)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-09-03T221615.453.png?v=1693776632
     Price: $78.00 USD
   - [Black / 3XL](https://sugar-spicy.com/products/satin-deep-v-neck-bodysuit?variant=45581165527352)
@@ -1120,7 +1120,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-08-31T175226.276.png?v=1693503311
     Price: $62.00 USD
 - [Fashion Forward: Gold Print Faux Leather Bodysuit for Versatile Elegance](https://sugar-spicy.com/products/faux-leather-bodysuit): Elevate your style with our Faux Leather Bodysuit. Crafted from gold print faux leather, this versatile piece offers a four-way stretch, a shiny gloss, and a skin-friendly feel. The compressive elastic mesh lining shapes your waist and abdomen for a flattering fit. Perfect for a night out or a chic work-to-weekend look when paired with jeans and a blazer.
-  Updated: 2025-11-16T04:36:27Z
+  Updated: 2025-11-22T22:08:04Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -1407,124 +1407,160 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Availability: Not Available
     Price: $68.00 USD
 - [Sizzling Elegance: Versatile Lace Bodysuit with Slimming Compression](https://sugar-spicy.com/products/super-versatile-lace-bodysuit): Turn up the heat in our spicy lace bodysuit! Flaunt your curves with front lace panelling and low-back styling. This ultra-versatile piece offers both style and functionality, featuring slimming compression for a sleek silhouette. Shop now for a sexy, confident look!
-  Updated: 2025-07-31T11:25:07Z
+  Updated: 2025-11-22T22:15:50Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T204529.164.png?v=1700431693
   - [Black / S](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=45621362852152)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205735.970.png?v=1763849693
     Price: $88.00 USD
   - [Black / M](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=45621362950456)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205735.970.png?v=1763849693
     Price: $88.00 USD
   - [Black / L](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=45621363048760)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205735.970.png?v=1763849693
     Price: $88.00 USD
   - [Black / XL](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=45621363147064)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205735.970.png?v=1763849693
     Price: $88.00 USD
   - [Black / XXL](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=45621363245368)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205735.970.png?v=1763849693
     Price: $88.00 USD
   - [Black / XXXL](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=45621363376440)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205735.970.png?v=1763849693
     Price: $88.00 USD
   - [Saddlebrown / S](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=47407982838072)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205542.440.png?v=1763849693
     Price: $88.00 USD
   - [Saddlebrown / M](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=47407982870840)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205542.440.png?v=1763849693
     Price: $88.00 USD
   - [Saddlebrown / L](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=47407982903608)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205542.440.png?v=1763849693
     Price: $88.00 USD
   - [Saddlebrown / XL](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=47407982936376)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205542.440.png?v=1763849693
     Price: $88.00 USD
   - [Saddlebrown / XXL](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=47407982969144)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205542.440.png?v=1763849693
     Price: $88.00 USD
   - [Saddlebrown / XXXL](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=47407983001912)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205542.440.png?v=1763849693
     Price: $88.00 USD
   - [White / S](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=45621362884920)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shutterstock_image-2023-11-19T204856.239.png?v=1763849693
     Price: $88.00 USD
   - [White / M](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=45621362983224)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shutterstock_image-2023-11-19T204856.239.png?v=1763849693
     Price: $88.00 USD
   - [White / L](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=45621363081528)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shutterstock_image-2023-11-19T204856.239.png?v=1763849693
     Price: $88.00 USD
   - [White / XL](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=45621363179832)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shutterstock_image-2023-11-19T204856.239.png?v=1763849693
     Price: $88.00 USD
   - [White / XXL](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=45621363310904)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shutterstock_image-2023-11-19T204856.239.png?v=1763849693
     Price: $88.00 USD
   - [White / XXXL](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=45621363409208)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shutterstock_image-2023-11-19T204856.239.png?v=1763849693
     Price: $88.00 USD
   - [Darkred / S](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=47407983034680)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205905.848.png?v=1763849693
     Price: $88.00 USD
   - [Darkred / M](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=47407983067448)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205905.848.png?v=1763849693
     Price: $88.00 USD
   - [Darkred / L](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=47407983100216)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205905.848.png?v=1763849693
     Price: $88.00 USD
   - [Darkred / XL](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=47407983132984)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205905.848.png?v=1763849693
     Price: $88.00 USD
   - [Darkred / XXL](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=47407983165752)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205905.848.png?v=1763849693
     Price: $88.00 USD
   - [Darkred / XXXL](https://sugar-spicy.com/products/super-versatile-lace-bodysuit?variant=47407983198520)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-19T205905.848.png?v=1763849693
     Price: $88.00 USD
 - [Sculpt Low Back Thong Bodysuit: Unleash Elegance in Every Curve!](https://sugar-spicy.com/products/sculpt-low-back-thong-bodysuit): Elevate your style with our Sculpt Low Back Thong Bodysuit. Perfect for low-back dresses, it offers adjustable straps, double-layer mesh for tummy control. Versatile and chic, it's ideal for weddings and parties, ensuring a flawless silhouette with plunge fronts and low-back designs.
-  Updated: 2025-07-31T11:25:54Z
+  Updated: 2025-11-22T21:46:24Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-17T205855.195.png?v=1700405728
   - [Black / S](https://sugar-spicy.com/products/sculpt-low-back-thong-bodysuit?variant=45621374976312)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-17T210710.302.png?v=1700409231
     Price: $78.00 USD
   - [Black / M](https://sugar-spicy.com/products/sculpt-low-back-thong-bodysuit?variant=45621375041848)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-17T210710.302.png?v=1700409231
     Price: $78.00 USD
   - [Black / L](https://sugar-spicy.com/products/sculpt-low-back-thong-bodysuit?variant=45621375107384)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-17T210710.302.png?v=1700409231
     Price: $78.00 USD
   - [Black / XL](https://sugar-spicy.com/products/sculpt-low-back-thong-bodysuit?variant=45621375172920)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-17T210710.302.png?v=1700409231
     Price: $78.00 USD
   - [Black / XXL](https://sugar-spicy.com/products/sculpt-low-back-thong-bodysuit?variant=45621375238456)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-17T210710.302.png?v=1700409231
     Price: $78.00 USD
   - [Black / 3XL](https://sugar-spicy.com/products/sculpt-low-back-thong-bodysuit?variant=45621375303992)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-17T210710.302.png?v=1700409231
     Price: $78.00 USD
   - [Moccasin / S](https://sugar-spicy.com/products/sculpt-low-back-thong-bodysuit?variant=45621374943544)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-17T210436.182.png?v=1700410509
     Price: $78.00 USD
   - [Moccasin / M](https://sugar-spicy.com/products/sculpt-low-back-thong-bodysuit?variant=45621375009080)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-17T210436.182.png?v=1700410509
     Price: $78.00 USD
   - [Moccasin / L](https://sugar-spicy.com/products/sculpt-low-back-thong-bodysuit?variant=45621375074616)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-17T210436.182.png?v=1700410509
     Price: $78.00 USD
   - [Moccasin / XL](https://sugar-spicy.com/products/sculpt-low-back-thong-bodysuit?variant=45621375140152)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-17T210436.182.png?v=1700410509
     Price: $78.00 USD
   - [Moccasin / XXL](https://sugar-spicy.com/products/sculpt-low-back-thong-bodysuit?variant=45621375205688)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-17T210436.182.png?v=1700410509
     Price: $78.00 USD
   - [Moccasin / 3XL](https://sugar-spicy.com/products/sculpt-low-back-thong-bodysuit?variant=45621375271224)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-17T210436.182.png?v=1700410509
     Price: $78.00 USD
 - [Sugar + Spicy One-piece Thong Bodysuit](https://sugar-spicy.com/products/one-piece-thong-bodysuit): We are obsessing over this hot bodysuit, featuring adjustable shoulder straps to adjust according to personal needs. Tighten the abdomen, lift the buttocks, shape the legs and support the chest. Team it with light-wash denim and your preferred footwear for a simple but chic look.
   Updated: 2025-11-21T15:51:07Z
@@ -1633,46 +1669,58 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373778_900x_07333fa0-414c-43a1-a46a-011ffc96c9f0.jpg?v=1763739466
     Price: $72.00 USD
 - [Chic Comfort: Deep Plunge Thong Bodysuit with U-Wire Detailing](https://sugar-spicy.com/products/deep-v-neck-backless-u-plunge-bodysuit): Dive into style with our deep plunge thong bodysuit, featuring U-wire details and raw cut edges for a seamless silhouette. Experience comfort and support with an underwire and a 30D ultra-fine mesh inner layer. The Frosted material shoulder strap is adjustable for a perfect fit, and the 3-row hooks at the crotch offer convenience.
-  Updated: 2025-10-25T11:32:32Z
+  Updated: 2025-11-22T21:35:09Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-10T174426.751.png?v=1699649183
   - [Black / S](https://sugar-spicy.com/products/deep-v-neck-backless-u-plunge-bodysuit?variant=45621524758840)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-10T174708.442.png?v=1699649183
     Price: $78.00 USD
   - [Black / M](https://sugar-spicy.com/products/deep-v-neck-backless-u-plunge-bodysuit?variant=45621524824376)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-10T174708.442.png?v=1699649183
     Price: $78.00 USD
   - [Black / L](https://sugar-spicy.com/products/deep-v-neck-backless-u-plunge-bodysuit?variant=45621524889912)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-10T174708.442.png?v=1699649183
     Price: $78.00 USD
   - [Black / XL](https://sugar-spicy.com/products/deep-v-neck-backless-u-plunge-bodysuit?variant=45621524955448)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-10T174708.442.png?v=1699649183
     Price: $78.00 USD
   - [Black / XXL](https://sugar-spicy.com/products/deep-v-neck-backless-u-plunge-bodysuit?variant=45621525020984)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-10T174708.442.png?v=1699649183
     Price: $78.00 USD
   - [Black / XXXL](https://sugar-spicy.com/products/deep-v-neck-backless-u-plunge-bodysuit?variant=45621525086520)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-10T174708.442.png?v=1699649183
     Price: $78.00 USD
   - [Moccasin / S](https://sugar-spicy.com/products/deep-v-neck-backless-u-plunge-bodysuit?variant=45621524693304)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-10T175157.627.png?v=1699649183
     Price: $78.00 USD
   - [Moccasin / M](https://sugar-spicy.com/products/deep-v-neck-backless-u-plunge-bodysuit?variant=45621524791608)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-10T175157.627.png?v=1699649183
     Price: $78.00 USD
   - [Moccasin / L](https://sugar-spicy.com/products/deep-v-neck-backless-u-plunge-bodysuit?variant=45621524857144)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-10T175157.627.png?v=1699649183
     Price: $78.00 USD
   - [Moccasin / XL](https://sugar-spicy.com/products/deep-v-neck-backless-u-plunge-bodysuit?variant=45621524922680)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-10T175157.627.png?v=1699649183
     Price: $78.00 USD
   - [Moccasin / XXL](https://sugar-spicy.com/products/deep-v-neck-backless-u-plunge-bodysuit?variant=45621524988216)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-10T175157.627.png?v=1699649183
     Price: $78.00 USD
   - [Moccasin / XXXL](https://sugar-spicy.com/products/deep-v-neck-backless-u-plunge-bodysuit?variant=45621525053752)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-11-10T175157.627.png?v=1699649183
     Price: $78.00 USD
 - [Elevate your confidence with Sugar + Spicy Fancy Cupped Panty Bodysuit](https://sugar-spicy.com/products/fancy-cupped-panty-bodysuit): Elevate your confidence with our Seamless Covered Bust Bodysuit! Discover the perfect fit, comfort, and support you deserve. Shop now for a game-changing shapewear experience.
   Updated: 2025-11-21T15:43:46Z
@@ -1933,7 +1981,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-09-04T221411.863.png?v=1693868476
     Price: $82.00 USD
 - [Flaunt Your Curves with Our Nude Adjustable Full Body Shaper](https://sugar-spicy.com/products/underbust-bodysuit-shapewear): Elevate your curves with our Nude Adjustable Straps Full Body Shapers. Firm control, adjustable straps, and versatile design. Wear as a bodysuit or high waist thong. Convenient open crotch. Stay comfy all day with breathable, antibacterial fabric.
-  Updated: 2025-11-16T05:39:03Z
+  Updated: 2025-11-22T22:32:43Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -1995,7 +2043,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-09-19T182551.605.png?v=1695148653
     Price: $48.00 USD
 - [Sugar + Spicy Upper Arm Slimming Body Shaper](https://sugar-spicy.com/products/upper-arm-slimming-body-shaper): This arm shapers with an open bust U-shape design to prevent your chest droop; it can lift your breasts, effectively firm control armpit and back flabby fat, make your upper body no lumps or bumps, create a slimmer figure, boost your confidence and makes you feel sexy when you wear it.
-  Updated: 2025-08-19T09:14:43Z
+  Updated: 2025-11-22T22:38:50Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -2314,7 +2362,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-09-22T222845.706.png?v=1695660931
     Price: $98.00 USD
 - [Sculpt & Support: High-Waisted Shapewear Shorts for Confidence](https://sugar-spicy.com/products/seamless-sculpt-high-waited-shorts): Elevate your confidence with our high-waisted shapewear shorts. Firm compression, butt-shaping pockets, and breathable mesh detail. Say goodbye to rolling with a silicone underband. Slimming mid-thigh length, chafe prevention, and discreet under clothes. Redefine your silhouette effortlessly.
-  Updated: 2025-11-18T09:39:56Z
+  Updated: 2025-11-22T20:01:51Z
   Vendor: Sugar + Spicy
   Product Type: Shapewar
   Availability: Available
@@ -2368,7 +2416,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-39128089886944_900x_1eab01a7-3fbc-4bbb-9c8b-67de32c79ced.jpg?v=1763416975
     Price: $98.00 USD
 - [Suit Your Fancy: The Ultimate Strapless Bodysuit for Effortless Elegance](https://sugar-spicy.com/products/tummy-control-removable-straps-body-shaper): Discover the ultimate strapless bodysuit – Suit Your Fancy. Featuring a 2-layer mesh panel for tummy control and adjustable shoulder straps that can be styled in multiple ways, our bodysuit ensures you're always glam-ready. Say goodbye to visible bra straps and hello to versatile, confident style. Shop now!
-  Updated: 2025-11-16T05:56:19Z
+  Updated: 2025-11-22T22:33:48Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -3102,7 +3150,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_61.png?v=1763766880
     Price: $118.00 USD
 - [Sugar + Spicy Seamless Deep V-Neck Shapewear with Removable Cups](https://sugar-spicy.com/products/deep-v-tummy-control-catsuit): Elevate your curves with our luxurious shapewear. This seamless piece offers comfort and confidence and features a deep V-neckline, removable padded cups, and 360° control. Our tight-knit structure and breathable fabric enhance your figure.
-  Updated: 2025-11-15T07:26:19Z
+  Updated: 2025-11-22T20:45:06Z
   Vendor: Sugar + Spicy
   Product Type: Jumpsuit
   Availability: Available
@@ -3194,7 +3242,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-09-24T183223.431.png?v=1727200263
     Price: $98.00 USD
 - [Sugar + Spicy Flared-Leg, Square-Neck Bodysuit](https://sugar-spicy.com/products/flared-jumpsuit-with-open-back): Elevate your curves with our luxurious bodysuit. Featuring seamless technology, a flattering silhouette, and targeted shaping, this piece is designed to enhance your confidence and comfort.
-  Updated: 2025-11-15T07:08:20Z
+  Updated: 2025-11-22T20:42:10Z
   Vendor: Sugar + Spicy
   Product Type: Jumpsuit
   Availability: Available
@@ -3270,7 +3318,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2024-09-27T160933.240.png?v=1727450606
     Price: $112.00 USD
 - [Sugar + Spicy Full-Length Body Shaper Catsuit](https://sugar-spicy.com/products/full-length-body-shaper-catsuit): Elevate your curves with our Seamless Body Shaper. This innovative shapewear offers ultimate comfort and support, shaping your waist, tummy, and rear. Experience 360-degree body control, enhanced bust support, and a lifted rear. Perfect for everyday wear or special occasions.
-  Updated: 2025-11-15T07:21:46Z
+  Updated: 2025-11-22T20:49:42Z
   Vendor: Sugar + Spicy
   Product Type: Jumpsuit
   Availability: Available
@@ -3782,82 +3830,82 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_1.png?v=1731964659
     Price: $78.00 USD
 - [Elevate Your Run: Body-Shaping Leggings, Your Second Skin Leggings](https://sugar-spicy.com/products/body-shaping-leggings): Elevate your running game with our innovative Body-Shaping Leggings. The seamless design and thumb hole technology provide maximum comfort and performance.
-  Updated: 2025-11-17T08:58:02Z
+  Updated: 2025-11-22T20:25:24Z
   Vendor: Sugar + Spicy
   Product Type: Shapewear Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_32.png?v=1732122236
   - [Black / S](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463110500664)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_33.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_33.png?v=1763843123
     Price: $72.00 USD
   - [Black / M](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463110533432)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_33.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_33.png?v=1763843123
     Price: $72.00 USD
   - [Black / L](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463110566200)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_33.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_33.png?v=1763843123
     Price: $72.00 USD
   - [Black / XL](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463110598968)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_33.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_33.png?v=1763843123
     Price: $72.00 USD
   - [Black / XXL](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463110631736)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_33.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_33.png?v=1763843123
     Price: $72.00 USD
   - [Black / 3XL](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463110664504)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_33.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_33.png?v=1763843123
     Price: $72.00 USD
   - [Saddlebrown / S](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463110697272)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_40.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_40.png?v=1763843123
     Price: $72.00 USD
   - [Saddlebrown / M](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463110730040)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_40.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_40.png?v=1763843123
     Price: $72.00 USD
   - [Saddlebrown / L](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463110762808)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_40.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_40.png?v=1763843123
     Price: $72.00 USD
   - [Saddlebrown / XL](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463110795576)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_40.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_40.png?v=1763843123
     Price: $72.00 USD
   - [Saddlebrown / XXL](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463110828344)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_40.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_40.png?v=1763843123
     Price: $72.00 USD
   - [Saddlebrown / 3XL](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463110861112)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_40.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_40.png?v=1763843123
     Price: $72.00 USD
   - [Silver / S](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463110893880)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_36.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_36.png?v=1763843123
     Price: $72.00 USD
   - [Silver / M](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463110926648)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_36.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_36.png?v=1763843123
     Price: $72.00 USD
   - [Silver / L](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463110959416)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_36.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_36.png?v=1763843123
     Price: $72.00 USD
   - [Silver / XL](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463110992184)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_36.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_36.png?v=1763843123
     Price: $72.00 USD
   - [Silver / XXL](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463111024952)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_36.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_36.png?v=1763843123
     Price: $72.00 USD
   - [Silver / 3XL](https://sugar-spicy.com/products/body-shaping-leggings?variant=49463111057720)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_36.png?v=1732122236
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_36.png?v=1763843123
     Price: $72.00 USD
 - [Sugar + Spicy Shaping Flare Pants | High-Waisted, Body-Contouring, Stylish](https://sugar-spicy.com/products/body-contouring-flare-pants): High-waisted flare pants with shaping mesh. Comfortable, stylish, and perfect for any occasion.
   Updated: 2025-11-22T19:53:25Z
@@ -3914,97 +3962,115 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-08T172820.604.png?v=1733679542
     Price: $82.00 USD
 - [Sugar + Spicy High-Waisted Front Slit Leggings](https://sugar-spicy.com/products/high-waisted-front-slit-leggings): Experience ultimate comfort and style with our High-Waisted Front Slit Leggings. Crafted from premium Roman cloth, these leggings are naturally wide, soft, and breathable, ensuring a luxurious feel against your skin. The fashionable micro-flare slits elongate your leg lines, creating a visually slimming effect.
-  Updated: 2025-11-15T10:18:53Z
+  Updated: 2025-11-22T20:21:19Z
   Vendor: Sugar + Spicy
   Product Type: Pants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-09T200100.219.png?v=1733774841
   - [Black / S](https://sugar-spicy.com/products/high-waisted-front-slit-leggings?variant=49512139325752)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-09T200132.145.png?v=1733774841
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/sport-bra-41260551274720_900x_8892b5e6-45ca-472d-9383-6d20e6970f60.jpg?v=1763842731
     Price: $78.00 USD
   - [Black / M](https://sugar-spicy.com/products/high-waisted-front-slit-leggings?variant=49512139358520)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-09T200132.145.png?v=1733774841
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/sport-bra-41260551274720_900x_8892b5e6-45ca-472d-9383-6d20e6970f60.jpg?v=1763842731
     Price: $78.00 USD
   - [Black / L](https://sugar-spicy.com/products/high-waisted-front-slit-leggings?variant=49512139391288)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-09T200132.145.png?v=1733774841
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/sport-bra-41260551274720_900x_8892b5e6-45ca-472d-9383-6d20e6970f60.jpg?v=1763842731
     Price: $78.00 USD
   - [Black / XL](https://sugar-spicy.com/products/high-waisted-front-slit-leggings?variant=49512139424056)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-09T200132.145.png?v=1733774841
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/sport-bra-41260551274720_900x_8892b5e6-45ca-472d-9383-6d20e6970f60.jpg?v=1763842731
     Price: $78.00 USD
   - [Black / XXL](https://sugar-spicy.com/products/high-waisted-front-slit-leggings?variant=49512139456824)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-09T200132.145.png?v=1733774841
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/sport-bra-41260551274720_900x_8892b5e6-45ca-472d-9383-6d20e6970f60.jpg?v=1763842731
     Price: $78.00 USD
   - [Black / 3XL](https://sugar-spicy.com/products/high-waisted-front-slit-leggings?variant=49512139489592)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-09T200132.145.png?v=1733774841
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/sport-bra-41260551274720_900x_8892b5e6-45ca-472d-9383-6d20e6970f60.jpg?v=1763842731
     Price: $78.00 USD
   - [Saddlebrown / S](https://sugar-spicy.com/products/high-waisted-front-slit-leggings?variant=49512211448120)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/sport-bra-41260551078112_900x_20172a83-624c-40c9-93e5-11049119a12d.jpg?v=1763842833
     Price: $78.00 USD
   - [Saddlebrown / M](https://sugar-spicy.com/products/high-waisted-front-slit-leggings?variant=49512211480888)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/sport-bra-41260551078112_900x_20172a83-624c-40c9-93e5-11049119a12d.jpg?v=1763842833
     Price: $78.00 USD
   - [Saddlebrown / L](https://sugar-spicy.com/products/high-waisted-front-slit-leggings?variant=49512211513656)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/sport-bra-41260551078112_900x_20172a83-624c-40c9-93e5-11049119a12d.jpg?v=1763842833
     Price: $78.00 USD
   - [Saddlebrown / XL](https://sugar-spicy.com/products/high-waisted-front-slit-leggings?variant=49512211546424)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/sport-bra-41260551078112_900x_20172a83-624c-40c9-93e5-11049119a12d.jpg?v=1763842833
     Price: $78.00 USD
   - [Saddlebrown / XXL](https://sugar-spicy.com/products/high-waisted-front-slit-leggings?variant=49512211579192)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/sport-bra-41260551078112_900x_20172a83-624c-40c9-93e5-11049119a12d.jpg?v=1763842833
     Price: $78.00 USD
   - [Saddlebrown / 3XL](https://sugar-spicy.com/products/high-waisted-front-slit-leggings?variant=49512211611960)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/sport-bra-41260551078112_900x_20172a83-624c-40c9-93e5-11049119a12d.jpg?v=1763842833
     Price: $78.00 USD
 - [Sugar-Spicy High-Waisted Straight Leg Pants with Tummy Control](https://sugar-spicy.com/products/sculpting-straight-leg-pants): Discover the secret to a flawless silhouette with our body-shaping pants. Made with soft, breathable fabric and a comfortable elastic waistband, these pants offer ultimate comfort and style.
-  Updated: 2025-08-20T03:01:39Z
+  Updated: 2025-11-22T20:24:19Z
   Vendor: Sugar + Spicy
   Product Type: Pants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-10T132304.675.png?v=1733839468
   - [Black / S](https://sugar-spicy.com/products/sculpting-straight-leg-pants?variant=49515648188728)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-10T132033.007.png?v=1733839468
     Price: $82.00 USD
   - [Black / M](https://sugar-spicy.com/products/sculpting-straight-leg-pants?variant=49515648221496)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-10T132033.007.png?v=1733839468
     Price: $82.00 USD
   - [Black / L](https://sugar-spicy.com/products/sculpting-straight-leg-pants?variant=49515648254264)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-10T132033.007.png?v=1733839468
     Price: $82.00 USD
   - [Black / XL](https://sugar-spicy.com/products/sculpting-straight-leg-pants?variant=49515648287032)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-10T132033.007.png?v=1733839468
     Price: $82.00 USD
   - [Black / XXL](https://sugar-spicy.com/products/sculpting-straight-leg-pants?variant=49515648319800)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-10T132033.007.png?v=1733839468
     Price: $82.00 USD
   - [Black / 3XL](https://sugar-spicy.com/products/sculpting-straight-leg-pants?variant=49515648352568)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-10T132033.007.png?v=1733839468
     Price: $82.00 USD
   - [Darkblue / S](https://sugar-spicy.com/products/sculpting-straight-leg-pants?variant=49515648385336)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-10T131908.217.png?v=1733839468
     Price: $82.00 USD
   - [Darkblue / M](https://sugar-spicy.com/products/sculpting-straight-leg-pants?variant=49515648418104)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-10T131908.217.png?v=1733839468
     Price: $82.00 USD
   - [Darkblue / L](https://sugar-spicy.com/products/sculpting-straight-leg-pants?variant=49515648450872)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-10T131908.217.png?v=1733839468
     Price: $82.00 USD
   - [Darkblue / XL](https://sugar-spicy.com/products/sculpting-straight-leg-pants?variant=49515648483640)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-10T131908.217.png?v=1733839468
     Price: $82.00 USD
   - [Darkblue / XXL](https://sugar-spicy.com/products/sculpting-straight-leg-pants?variant=49515648516408)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-10T131908.217.png?v=1733839468
     Price: $82.00 USD
   - [Darkblue / 3XL](https://sugar-spicy.com/products/sculpting-straight-leg-pants?variant=49515648549176)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-10T131908.217.png?v=1733839468
     Price: $82.00 USD
 - [Sweat, Sculpt, and Slim: Sugar + Spicy Neoprene Leggings](https://sugar-spicy.com/products/sweat-activating-fat-burning-workout-leggings): Sculpt your curves and boost your confidence with our innovative neoprene leggings. Designed to target problem areas and accelerate weight loss.
-  Updated: 2025-11-15T11:59:30Z
+  Updated: 2025-11-22T20:26:00Z
   Vendor: Sugar + Spicy
   Product Type: Pants
   Availability: Available
@@ -4034,64 +4100,82 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T134017.704.png?v=1734011769
     Price: $78.00 USD
 - [Sugar-Spicy Waist Trainer Leggings | Tummy Control & Body Shaping](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training): Discover the secret to a flawless figure with our body-contouring leggings. These slimming leggings provide gentle compression and a smooth, streamlined look
-  Updated: 2025-09-27T18:45:48Z
+  Updated: 2025-11-22T20:27:25Z
   Vendor: Sugar + Spicy
   Product Type: Pants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T194536.381.png?v=1734034265
   - [Black / S](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49521387700536)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T194752.059.png?v=1734034265
     Price: $82.00 USD
   - [Black / M](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49521387733304)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T194752.059.png?v=1734034265
     Price: $82.00 USD
   - [Black / L](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49521387766072)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T194752.059.png?v=1734034265
     Price: $82.00 USD
   - [Black / XL](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49521387798840)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T194752.059.png?v=1734034265
     Price: $82.00 USD
   - [Black / XXL](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49521387831608)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T194752.059.png?v=1734034265
     Price: $82.00 USD
   - [Black / 3XL](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49521387864376)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T194752.059.png?v=1734034265
     Price: $82.00 USD
   - [Darkblue / S](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49521387897144)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T195104.368.png?v=1734039631
     Price: $82.00 USD
   - [Darkblue / M](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49521387929912)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T195104.368.png?v=1734039631
     Price: $82.00 USD
   - [Darkblue / L](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49521387962680)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T195104.368.png?v=1734039631
     Price: $82.00 USD
   - [Darkblue / XL](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49521387995448)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T195104.368.png?v=1734039631
     Price: $82.00 USD
   - [Darkblue / XXL](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49521388028216)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T195104.368.png?v=1734039631
     Price: $82.00 USD
   - [Darkblue / 3XL](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49521388060984)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T195104.368.png?v=1734039631
     Price: $82.00 USD
   - [Silver / S](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49524788068664)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T195001.333.png?v=1734034265
     Price: $82.00 USD
   - [Silver / M](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49524788101432)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T195001.333.png?v=1734034265
     Price: $82.00 USD
   - [Silver / L](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49524788134200)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T195001.333.png?v=1734034265
     Price: $82.00 USD
   - [Silver / XL](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49524788166968)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T195001.333.png?v=1734034265
     Price: $82.00 USD
   - [Silver / XXL](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49524788199736)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T195001.333.png?v=1734034265
     Price: $82.00 USD
   - [Silver / 3XL](https://sugar-spicy.com/products/slimming-fit-leggings-with-waist-training?variant=49524788232504)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-12-12T195001.333.png?v=1734034265
     Price: $82.00 USD
 - [Sugar + Spicy Sculpt & Sizzle Seamless Shaping Bodysuit](https://sugar-spicy.com/products/sculpt-sizzle-seamless-shaping-bodysuit): Featuring a high neck design with a back water drop opening for easy wear, and cap sleeves to flatter your silhouette.
   Updated: 2025-11-15T09:44:29Z
@@ -4387,8 +4471,8 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
   Updated: 2025-11-21T23:44:47Z
   Total Products: 28
 - [Sugar Bodysuits for Women With Every Type of Body](https://sugar-spicy.com/collections/sugar-bodysuits): Elevate your confidence with Sugar + Spicy's inclusive range of body shapers, underwear, and shapewear. Our products empower women of all races, body types, and financial backgrounds, delivering comfort and allure. Celebrate your uniqueness with us!
-  Updated: 2025-11-21T23:55:07Z
-  Total Products: 42
+  Updated: 2025-11-22T20:36:59Z
+  Total Products: 48
 - [Sugar + Spicy Sale - Last chance to shop these sale styles!](https://sugar-spicy.com/collections/sale): "These most-wanted silhouettes are selling fast!" We are setting new standards by providing solutions for every body. From technically constructed shapewear that enhances your curves to underwear that stretches to twice its size, our goal is to consistently innovate on the past and advance our industry for the future.
   Updated: 2025-11-21T22:30:33Z
   Total Products: 8
@@ -4396,8 +4480,8 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
   Updated: 2025-11-22T19:59:29Z
   Total Products: 12
 - [Sugar + Spicy Body Shaper Bodysuits for Every Body](https://sugar-spicy.com/collections/body-shaper): Take your shapewear to the next level. Targeted compression sculpts without squeezing and flexible boning prevent roll-down. Breathable, sweat-wicking fabric keeps you cool. Lingerie-inspired designs are just as sexy as they are supportive.
-  Updated: 2025-11-22T19:59:29Z
-  Total Products: 22
+  Updated: 2025-11-22T20:33:25Z
+  Total Products: 25
 - [Best Sellers Sugar + Spicy Body Shapers Developed For All Bodies Type](https://sugar-spicy.com/collections/best-sellers)
   Updated: 2025-11-22T19:49:13Z
   Total Products: 12
