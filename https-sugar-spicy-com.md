@@ -176,7 +176,7 @@ firmer compression sculptwear
 - Timezone: Europe/Dublin
 - Created At: 2023-06-26T10:59:59Z
 - Contact Email: help@sugar-spicy.com
-- Updated At: 2025-11-24T04:00:28.102Z
+- Updated At: 2025-11-24T08:00:26.728Z
 
 BUSINESS INFORMATION — SUGAR + SPICY
 =========================================================
@@ -2335,7 +2335,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-12-08T205536.072.png?v=1702240848
     Price: $78.00 USD
 - [Sculpt Your Silhouette for Tummy Control, Waist Reduction](https://sugar-spicy.com/products/seamless-shapewear-bodysuit): Transform Your Silhouette with Ease: Our Seamless Shapewear Bodysuit with Removable Straps! Achieve Tummy Control and Waist Reduction with Adjustable Comfort. Experience Invisible Shaping, Back Support, and Perfect Posture. Discover the Confidence You Deserve!
-  Updated: 2025-11-23T18:38:53Z
+  Updated: 2025-11-24T06:37:10Z
   Vendor: Sugar + Spicy
   Product Type: Shapewar
   Availability: Available
@@ -2679,7 +2679,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_80.png?v=1763901378
     Price: $88.00 USD
 - [Zip-Front High-Waisted Shorts with Firm Control and Butt-Lifting Design!](https://sugar-spicy.com/products/zip-front-high-waisted-shorts): Elevate your style with our Zip-Front High-Waisted Shorts—firm control for a sleek silhouette. Four steel bones and drop glue ensure no rolling or curling. Flaunt a natural shape with the butt-lifting design. Perfect for snug outfits, embrace confidence and comfort.
-  Updated: 2025-11-23T18:01:18Z
+  Updated: 2025-11-24T05:34:32Z
   Vendor: Sugar + Spicy
   Product Type: Shapewar
   Availability: Available
