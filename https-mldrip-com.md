@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-09-24T18:25:07Z
 - Contact Email: shopmegluffy@gmail.com
-- Updated At: 2025-11-21T00:00:55.823Z
+- Updated At: 2025-11-24T00:01:32.510Z
 
 ## Products
 
@@ -1039,70 +1039,70 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C0D02604-AB25-47C7-B355-7AF0CBFF8DDB.png?v=1761696407
     Price: €120.00 EUR
 - [Flare Jeans](https://mldrip.com/products/untitled-sep9_14-57): Turn Heads with Our Flare Jeans 🌟 Step into the spotlight with our ultra-stylish Flare Jeans — where retro vibes meet modern edge. Designed to hug your waist and flare perfectly at the bottom, these jeans give you that effortless, chic silhouette everyone’s talking about. Perfect for day-to-night looks, from coffee runs to Friday night vibes. ✨ Why You’ll Love Them: Flattering high-waist fit Soft, durable denim for all-day comfort Versatile style: casual or dressy, you do you Trendy flare that never goes out of style Upgrade your wardrobe and flex your style — your new favorite jeans are just a click away!
-  Updated: 2025-11-06T12:30:01Z
+  Updated: 2025-11-23T01:47:41Z
   Vendor: Mldrip
   Product Type: Jeans
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B042D3A6-8660-4352-9ECE-AEB9DC0B5EC4.png?v=1761696410
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5335.png?v=1763819255
   - [black-flare-jenas / s](https://mldrip.com/products/untitled-sep9_14-57?variant=51965419061585)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CD68D5EC-1F9E-4E76-8D61-AD0715147108.png?v=1761696412
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CD68D5EC-1F9E-4E76-8D61-AD0715147108.png?v=1763819255
     Price: €54.99 EUR
   - [blue-flare-jeans / s](https://mldrip.com/products/untitled-sep9_14-57?variant=51965419094353)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5E2DEB3F-9BDB-442D-B0A4-4829B6500A6F.png?v=1761696412
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5E2DEB3F-9BDB-442D-B0A4-4829B6500A6F.png?v=1763819255
     Price: €54.99 EUR
   - [grey-flare-jeans / s](https://mldrip.com/products/untitled-sep9_14-57?variant=51965419127121)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/01932F5D-1855-4773-934D-F0D5680039EC.png?v=1761696410
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/01932F5D-1855-4773-934D-F0D5680039EC.png?v=1763819255
     Price: €54.99 EUR
   - [black-flare-jenas / m](https://mldrip.com/products/untitled-sep9_14-57?variant=51965419159889)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CD68D5EC-1F9E-4E76-8D61-AD0715147108.png?v=1761696412
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CD68D5EC-1F9E-4E76-8D61-AD0715147108.png?v=1763819255
     Price: €54.99 EUR
   - [black-flare-jenas / l](https://mldrip.com/products/untitled-sep9_14-57?variant=51965419192657)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CD68D5EC-1F9E-4E76-8D61-AD0715147108.png?v=1761696412
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CD68D5EC-1F9E-4E76-8D61-AD0715147108.png?v=1763819255
     Price: €54.99 EUR
   - [black-flare-jenas / xl](https://mldrip.com/products/untitled-sep9_14-57?variant=51965419225425)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CD68D5EC-1F9E-4E76-8D61-AD0715147108.png?v=1761696412
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CD68D5EC-1F9E-4E76-8D61-AD0715147108.png?v=1763819255
     Price: €54.99 EUR
   - [black-flare-jenas / xxl](https://mldrip.com/products/untitled-sep9_14-57?variant=51965419258193)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CD68D5EC-1F9E-4E76-8D61-AD0715147108.png?v=1761696412
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CD68D5EC-1F9E-4E76-8D61-AD0715147108.png?v=1763819255
     Price: €54.99 EUR
   - [blue-flare-jeans / m](https://mldrip.com/products/untitled-sep9_14-57?variant=51965419290961)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5E2DEB3F-9BDB-442D-B0A4-4829B6500A6F.png?v=1761696412
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5E2DEB3F-9BDB-442D-B0A4-4829B6500A6F.png?v=1763819255
     Price: €54.99 EUR
   - [blue-flare-jeans / l](https://mldrip.com/products/untitled-sep9_14-57?variant=51965419323729)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5E2DEB3F-9BDB-442D-B0A4-4829B6500A6F.png?v=1761696412
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5E2DEB3F-9BDB-442D-B0A4-4829B6500A6F.png?v=1763819255
     Price: €54.99 EUR
   - [blue-flare-jeans / xl](https://mldrip.com/products/untitled-sep9_14-57?variant=51965419356497)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5E2DEB3F-9BDB-442D-B0A4-4829B6500A6F.png?v=1761696412
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5E2DEB3F-9BDB-442D-B0A4-4829B6500A6F.png?v=1763819255
     Price: €54.99 EUR
   - [blue-flare-jeans / xxl](https://mldrip.com/products/untitled-sep9_14-57?variant=51965419389265)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5E2DEB3F-9BDB-442D-B0A4-4829B6500A6F.png?v=1761696412
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5E2DEB3F-9BDB-442D-B0A4-4829B6500A6F.png?v=1763819255
     Price: €54.99 EUR
   - [grey-flare-jeans / m](https://mldrip.com/products/untitled-sep9_14-57?variant=51965419422033)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/01932F5D-1855-4773-934D-F0D5680039EC.png?v=1761696410
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/01932F5D-1855-4773-934D-F0D5680039EC.png?v=1763819255
     Price: €54.99 EUR
   - [grey-flare-jeans / l](https://mldrip.com/products/untitled-sep9_14-57?variant=51965419454801)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/01932F5D-1855-4773-934D-F0D5680039EC.png?v=1761696410
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/01932F5D-1855-4773-934D-F0D5680039EC.png?v=1763819255
     Price: €54.99 EUR
   - [grey-flare-jeans / xl](https://mldrip.com/products/untitled-sep9_14-57?variant=51965419487569)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/01932F5D-1855-4773-934D-F0D5680039EC.png?v=1761696410
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/01932F5D-1855-4773-934D-F0D5680039EC.png?v=1763819255
     Price: €54.99 EUR
   - [grey-flare-jeans / xxl](https://mldrip.com/products/untitled-sep9_14-57?variant=51965419520337)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/01932F5D-1855-4773-934D-F0D5680039EC.png?v=1761696410
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/01932F5D-1855-4773-934D-F0D5680039EC.png?v=1763819255
     Price: €54.99 EUR
 - [Dsquared2 Skater Jean](https://mldrip.com/products/untitled-sep9_23-01): Upgrade your denim game with our Dsquared2 Skater Jean. Made in Italy from 92% cotton and 8% elastane, this slim fit jean features a button closure and a tapered leg for a sleek silhouette. The dark and black denim options, with a unique paint splatter design, add a touch of edginess to your look. Get your skater style on with these must-have jeans.
   Updated: 2025-11-06T12:30:01Z
@@ -3317,7 +3317,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7408DFE3-40E7-4887-B861-DC8737A7BC27.png?v=1758747874
     Price: €139.99 EUR
 - [PSG x Air Jordan Windbreaker – Streetwear Meets Football Culture](https://mldrip.com/products/psg-x-air-jordan-windbreaker-streetwear-meets-football-culture): Flex both the streets and the pitch with the iconic Paris Saint-Germain x Air Jordan windbreaker. Designed for style, comfort, and movement, this piece blends Jordan’s legendary streetwear drip with PSG’s football legacy. 🌀 Why It Goes Hard: Lightweight, breathable fabric – perfect for layering or on-the-go fits Wind + water resistant – keeps you protected in any weather Bold co-branding – PSG crest meets Jumpman logo = instant statement Athletic cut – built for comfort and flex, whether training or chilling From the stadium to the street, this windbreaker is pure fire. Rep Parisian football energy with Jordan brand swagger. 👉 Secure yours now and level up your outerwear game.
-  Updated: 2025-11-06T12:30:04Z
+  Updated: 2025-11-23T15:36:04Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -3328,7 +3328,7 @@
     Price: €105.00 EUR
   - [white-psg-x-air-jordan-windbreaker-streetwear-meets-football-culture / m](https://mldrip.com/products/psg-x-air-jordan-windbreaker-streetwear-meets-football-culture?variant=51965445800273)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/21472BB4-D6D6-4F29-BB59-5E5C7261C606.png?v=1758747875
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/21472BB4-D6D6-4F29-BB59-5E5C7261C606.png?v=1763912163
     Price: €105.00 EUR
   - [black-psg-x-air-jordan-windbreaker-streetwear-meets-football-culture / l](https://mldrip.com/products/psg-x-air-jordan-windbreaker-streetwear-meets-football-culture?variant=51965445833041)
     Availability: Available
@@ -3356,120 +3356,120 @@
     Price: €105.00 EUR
   - [white-psg-x-air-jordan-windbreaker-streetwear-meets-football-culture / l](https://mldrip.com/products/psg-x-air-jordan-windbreaker-streetwear-meets-football-culture?variant=51965446029649)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/21472BB4-D6D6-4F29-BB59-5E5C7261C606.png?v=1758747875
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/21472BB4-D6D6-4F29-BB59-5E5C7261C606.png?v=1763912163
     Price: €105.00 EUR
   - [white-psg-x-air-jordan-windbreaker-streetwear-meets-football-culture / xl](https://mldrip.com/products/psg-x-air-jordan-windbreaker-streetwear-meets-football-culture?variant=51965446062417)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/21472BB4-D6D6-4F29-BB59-5E5C7261C606.png?v=1758747875
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/21472BB4-D6D6-4F29-BB59-5E5C7261C606.png?v=1763912163
     Price: €105.00 EUR
   - [white-psg-x-air-jordan-windbreaker-streetwear-meets-football-culture / 2xl](https://mldrip.com/products/psg-x-air-jordan-windbreaker-streetwear-meets-football-culture?variant=51965446095185)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/21472BB4-D6D6-4F29-BB59-5E5C7261C606.png?v=1758747875
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/21472BB4-D6D6-4F29-BB59-5E5C7261C606.png?v=1763912163
     Price: €105.00 EUR
   - [white-psg-x-air-jordan-windbreaker-streetwear-meets-football-culture / 3xl](https://mldrip.com/products/psg-x-air-jordan-windbreaker-streetwear-meets-football-culture?variant=51965446127953)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/21472BB4-D6D6-4F29-BB59-5E5C7261C606.png?v=1758747875
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/21472BB4-D6D6-4F29-BB59-5E5C7261C606.png?v=1763912163
     Price: €105.00 EUR
   - [white-psg-x-air-jordan-windbreaker-streetwear-meets-football-culture / 4-xl](https://mldrip.com/products/psg-x-air-jordan-windbreaker-streetwear-meets-football-culture?variant=51965446160721)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/21472BB4-D6D6-4F29-BB59-5E5C7261C606.png?v=1758747875
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/21472BB4-D6D6-4F29-BB59-5E5C7261C606.png?v=1763912163
     Price: €105.00 EUR
   - [white-psg-x-air-jordan-windbreaker-streetwear-meets-football-culture / 5xl](https://mldrip.com/products/psg-x-air-jordan-windbreaker-streetwear-meets-football-culture?variant=51965446193489)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/21472BB4-D6D6-4F29-BB59-5E5C7261C606.png?v=1758747875
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/21472BB4-D6D6-4F29-BB59-5E5C7261C606.png?v=1763912163
     Price: €105.00 EUR
 - [Nike Sportswear Jacket – Everyday Comfort, Streetwear Energy](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy): Stay sharp and stay moving with the Nike Sportswear Jacket. Built for performance but styled for the streets, this jacket is the perfect blend of comfort, durability, and clean design. 🧥 Why You’ll Love It: Lightweight & breathable – keeps you comfy all day Durable fabric – built for both workouts and daily wear Classic Nike details – sleek branding that speaks for itself Versatile fit – layers easily over hoodies, tees, or training gear Whether you’re training, traveling, or just leveling up your daily fit, this jacket keeps your look fresh and functional. 👉 Cop yours today and rep that Swoosh energy anywhere you go.
-  Updated: 2025-11-06T12:30:04Z
+  Updated: 2025-11-23T01:44:04Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0822F6F6-3994-4DF3-B02C-FE4F81514CE4.png?v=1758747877
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5333.png?v=1763819032
   - [black-nike-sportswear-jacket-everyday-comfort-streetwear-energy / m](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446259025)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0822F6F6-3994-4DF3-B02C-FE4F81514CE4.png?v=1758747877
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0822F6F6-3994-4DF3-B02C-FE4F81514CE4.png?v=1763819032
     Price: €75.50 EUR
   - [blue-nike-sportswear-jacket-everyday-comfort-streetwear-energy / m](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446291793)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/54920672-527F-428C-A4C2-FA4BB4F73D14.png?v=1758747878
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/54920672-527F-428C-A4C2-FA4BB4F73D14.png?v=1763819032
     Price: €75.50 EUR
   - [white-nike-sportswear-jacket-everyday-comfort-streetwear-energy / m](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446324561)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5BA68C12-8EC0-48C4-AC3B-AE6E40AE5DDB.png?v=1758747878
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5BA68C12-8EC0-48C4-AC3B-AE6E40AE5DDB.png?v=1763819032
     Price: €75.50 EUR
   - [black-nike-sportswear-jacket-everyday-comfort-streetwear-energy / l](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446357329)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0822F6F6-3994-4DF3-B02C-FE4F81514CE4.png?v=1758747877
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0822F6F6-3994-4DF3-B02C-FE4F81514CE4.png?v=1763819032
     Price: €75.50 EUR
   - [black-nike-sportswear-jacket-everyday-comfort-streetwear-energy / xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446390097)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0822F6F6-3994-4DF3-B02C-FE4F81514CE4.png?v=1758747877
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0822F6F6-3994-4DF3-B02C-FE4F81514CE4.png?v=1763819032
     Price: €75.50 EUR
   - [black-nike-sportswear-jacket-everyday-comfort-streetwear-energy / 2xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446422865)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0822F6F6-3994-4DF3-B02C-FE4F81514CE4.png?v=1758747877
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0822F6F6-3994-4DF3-B02C-FE4F81514CE4.png?v=1763819032
     Price: €75.50 EUR
   - [black-nike-sportswear-jacket-everyday-comfort-streetwear-energy / 3xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446455633)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0822F6F6-3994-4DF3-B02C-FE4F81514CE4.png?v=1758747877
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0822F6F6-3994-4DF3-B02C-FE4F81514CE4.png?v=1763819032
     Price: €75.50 EUR
   - [black-nike-sportswear-jacket-everyday-comfort-streetwear-energy / 4-xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446488401)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0822F6F6-3994-4DF3-B02C-FE4F81514CE4.png?v=1758747877
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0822F6F6-3994-4DF3-B02C-FE4F81514CE4.png?v=1763819032
     Price: €75.50 EUR
   - [black-nike-sportswear-jacket-everyday-comfort-streetwear-energy / 5xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446521169)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0822F6F6-3994-4DF3-B02C-FE4F81514CE4.png?v=1758747877
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0822F6F6-3994-4DF3-B02C-FE4F81514CE4.png?v=1763819032
     Price: €75.50 EUR
   - [blue-nike-sportswear-jacket-everyday-comfort-streetwear-energy / l](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446553937)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/54920672-527F-428C-A4C2-FA4BB4F73D14.png?v=1758747878
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/54920672-527F-428C-A4C2-FA4BB4F73D14.png?v=1763819032
     Price: €75.50 EUR
   - [blue-nike-sportswear-jacket-everyday-comfort-streetwear-energy / xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446586705)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/54920672-527F-428C-A4C2-FA4BB4F73D14.png?v=1758747878
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/54920672-527F-428C-A4C2-FA4BB4F73D14.png?v=1763819032
     Price: €75.50 EUR
   - [blue-nike-sportswear-jacket-everyday-comfort-streetwear-energy / 2xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446619473)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/54920672-527F-428C-A4C2-FA4BB4F73D14.png?v=1758747878
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/54920672-527F-428C-A4C2-FA4BB4F73D14.png?v=1763819032
     Price: €75.50 EUR
   - [blue-nike-sportswear-jacket-everyday-comfort-streetwear-energy / 3xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446652241)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/54920672-527F-428C-A4C2-FA4BB4F73D14.png?v=1758747878
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/54920672-527F-428C-A4C2-FA4BB4F73D14.png?v=1763819032
     Price: €75.50 EUR
   - [blue-nike-sportswear-jacket-everyday-comfort-streetwear-energy / 4-xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446685009)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/54920672-527F-428C-A4C2-FA4BB4F73D14.png?v=1758747878
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/54920672-527F-428C-A4C2-FA4BB4F73D14.png?v=1763819032
     Price: €75.50 EUR
   - [blue-nike-sportswear-jacket-everyday-comfort-streetwear-energy / 5xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446717777)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/54920672-527F-428C-A4C2-FA4BB4F73D14.png?v=1758747878
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/54920672-527F-428C-A4C2-FA4BB4F73D14.png?v=1763819032
     Price: €75.50 EUR
   - [white-nike-sportswear-jacket-everyday-comfort-streetwear-energy / l](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446750545)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5BA68C12-8EC0-48C4-AC3B-AE6E40AE5DDB.png?v=1758747878
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5BA68C12-8EC0-48C4-AC3B-AE6E40AE5DDB.png?v=1763819032
     Price: €75.50 EUR
   - [white-nike-sportswear-jacket-everyday-comfort-streetwear-energy / xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446783313)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5BA68C12-8EC0-48C4-AC3B-AE6E40AE5DDB.png?v=1758747878
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5BA68C12-8EC0-48C4-AC3B-AE6E40AE5DDB.png?v=1763819032
     Price: €75.50 EUR
   - [white-nike-sportswear-jacket-everyday-comfort-streetwear-energy / 2xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446816081)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5BA68C12-8EC0-48C4-AC3B-AE6E40AE5DDB.png?v=1758747878
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5BA68C12-8EC0-48C4-AC3B-AE6E40AE5DDB.png?v=1763819032
     Price: €75.50 EUR
   - [white-nike-sportswear-jacket-everyday-comfort-streetwear-energy / 3xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446848849)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5BA68C12-8EC0-48C4-AC3B-AE6E40AE5DDB.png?v=1758747878
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5BA68C12-8EC0-48C4-AC3B-AE6E40AE5DDB.png?v=1763819032
     Price: €75.50 EUR
   - [white-nike-sportswear-jacket-everyday-comfort-streetwear-energy / 4-xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446881617)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5BA68C12-8EC0-48C4-AC3B-AE6E40AE5DDB.png?v=1758747878
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5BA68C12-8EC0-48C4-AC3B-AE6E40AE5DDB.png?v=1763819032
     Price: €75.50 EUR
   - [white-nike-sportswear-jacket-everyday-comfort-streetwear-energy / 5xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy?variant=51965446914385)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5BA68C12-8EC0-48C4-AC3B-AE6E40AE5DDB.png?v=1758747878
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5BA68C12-8EC0-48C4-AC3B-AE6E40AE5DDB.png?v=1763819032
     Price: €75.50 EUR
 - [DivinByDivin Signature Jacket – Bold Streetwear Luxury](https://mldrip.com/products/divinbydivin-signature-jacket-bold-streetwear-luxury): Turn heads with the DivinByDivin Signature Jacket, a piece that fuses premium design with urban edge. Built for comfort, confidence, and pure drip, this jacket takes your fit from simple to standout in seconds. 🧥 Why It Hits Different: High-quality materials – soft, durable, and built to last Streetwear-inspired cut – oversized fit with sharp detailing Luxury branding – bold DivinByDivin logo that makes a statement Versatile style – pairs perfectly with cargos, hoodies, or even clean fits This isn’t just outerwear—it’s a flex piece. Step into the streets with confidence and rep that DivinByDivin energy. 👉 Secure yours now and upgrade your rotation with true designer-inspired drip.
-  Updated: 2025-11-06T12:30:04Z
+  Updated: 2025-11-23T15:30:24Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -3491,7 +3491,7 @@
     Availability: Available
     Price: €70.00 EUR
 - [Nike Sportswear Jacket – Everyday Comfort, Streetwear Energy](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy-1): Stay sharp and stay moving with the Nike Sportswear Jacket. Built for performance but styled for the streets, this jacket is the perfect blend of comfort, durability, and clean design. 🧥 Why You’ll Love It: Lightweight & breathable – keeps you comfy all day Durable fabric – built for both workouts and daily wear Classic Nike details – sleek branding that speaks for itself Versatile fit – layers easily over hoodies, tees, or training gear Whether you’re training, traveling, or just leveling up your daily fit, this jacket keeps your look fresh and functional. 👉 Cop yours today and rep that Swoosh energy anywhere you go.
-  Updated: 2025-11-06T12:30:04Z
+  Updated: 2025-11-23T15:29:22Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -3502,7 +3502,7 @@
     Price: €110.00 EUR
   - [purple-nike-jacket / s](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy-1?variant=51965447176529)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/658D2D04-DD77-4ECC-BA3B-6A5D84C049E4.jpg?v=1758747880
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/658D2D04-DD77-4ECC-BA3B-6A5D84C049E4.jpg?v=1763911762
     Price: €110.00 EUR
   - [black-nike-jacket / m](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy-1?variant=51965447209297)
     Availability: Available
@@ -3530,27 +3530,27 @@
     Price: €110.00 EUR
   - [purple-nike-jacket / m](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy-1?variant=51965447405905)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/658D2D04-DD77-4ECC-BA3B-6A5D84C049E4.jpg?v=1758747880
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/658D2D04-DD77-4ECC-BA3B-6A5D84C049E4.jpg?v=1763911762
     Price: €110.00 EUR
   - [purple-nike-jacket / l](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy-1?variant=51965447438673)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/658D2D04-DD77-4ECC-BA3B-6A5D84C049E4.jpg?v=1758747880
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/658D2D04-DD77-4ECC-BA3B-6A5D84C049E4.jpg?v=1763911762
     Price: €110.00 EUR
   - [purple-nike-jacket / xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy-1?variant=51965447471441)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/658D2D04-DD77-4ECC-BA3B-6A5D84C049E4.jpg?v=1758747880
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/658D2D04-DD77-4ECC-BA3B-6A5D84C049E4.jpg?v=1763911762
     Price: €110.00 EUR
   - [purple-nike-jacket / 2xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy-1?variant=51965447504209)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/658D2D04-DD77-4ECC-BA3B-6A5D84C049E4.jpg?v=1758747880
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/658D2D04-DD77-4ECC-BA3B-6A5D84C049E4.jpg?v=1763911762
     Price: €110.00 EUR
   - [purple-nike-jacket / 3xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy-1?variant=51965447536977)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/658D2D04-DD77-4ECC-BA3B-6A5D84C049E4.jpg?v=1758747880
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/658D2D04-DD77-4ECC-BA3B-6A5D84C049E4.jpg?v=1763911762
     Price: €110.00 EUR
   - [purple-nike-jacket / 4-xl](https://mldrip.com/products/nike-sportswear-jacket-everyday-comfort-streetwear-energy-1?variant=51965447569745)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/658D2D04-DD77-4ECC-BA3B-6A5D84C049E4.jpg?v=1758747880
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/658D2D04-DD77-4ECC-BA3B-6A5D84C049E4.jpg?v=1763911762
     Price: €110.00 EUR
 - [Stone Island Stocking Stitch Sweatshirt](https://mldrip.com/products/stone-island-stocking-stitch-sweatshirt): Stone Island Stocking Stitch Sweatshirt – Available at MLDrop.Store The Stone Island Stocking Stitch Sweatshirt combines premium craftsmanship with the brand’s signature minimalist edge. Made from high-quality cotton knit with a stocking-stitch texture, it delivers both comfort and style in a refined silhouette. Finished with ribbed trims and the iconic Stone Island compass patch on the sleeve, this piece is a staple for any modern streetwear wardrobe. Premium cotton knit construction Stocking-stitch texture for unique style Ribbed cuffs and hem for a clean fit Iconic Stone Island compass patch Versatile everyday essential Elevate your look with the Stone Island Stocking Stitch Sweatshirt, now at MLDrop.Store.
   Updated: 2025-11-06T12:30:05Z
@@ -7337,7 +7337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1753901391129.jpg?v=1758749264
     Price: €100.00 EUR
 - [NOCTA Hot Step 2](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style): Step into the future with the NOCTA Hot Step 2 – where streetwear attitude meets cutting-edge performance. Co-designed by Drake and Nike, this silhouette pushes the boundaries of design with its futuristic curves, aggressive sole, and premium detailing. Crafted for comfort and built to stand out, the Hot Step 2 features a sculpted midsole with responsive cushioning, breathable mesh overlays, and reflective accents that light up every step. Whether you're hitting the streets or elevating your sneaker rotation, this shoe delivers unmatched swagger and all-day comfort. Sleek, athletic-inspired design Lightweight mesh with premium synthetic overlays Reflective details for night visibility Cushioned midsole for next-level comfort Signature NOCTA branding for an exclusive edge Limited stock – cop yours now before they’re gone.
-  Updated: 2025-11-20T10:15:30Z
+  Updated: 2025-11-23T13:46:38Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -7348,15 +7348,15 @@
     Price: €120.99 EUR
   - [Black NOCTA Hot Step 2 / 36](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974083051857)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763905598
     Price: €120.99 EUR
   - [Yellow NOCTA Hot Step 2 / 36](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974083084625)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763905598
     Price: €120.99 EUR
   - [Orange NOCTA Hot Step 2 / 36](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974083117393)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763905598
     Price: €120.99 EUR
   - [White NOCTA Hot Step 2 / 37](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974084919633)
     Availability: Available
@@ -7400,123 +7400,123 @@
     Price: €120.99 EUR
   - [Black NOCTA Hot Step 2 / 37](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085247313)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763905598
     Price: €120.99 EUR
   - [Black NOCTA Hot Step 2 / 38](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085280081)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763905598
     Price: €120.99 EUR
   - [Black NOCTA Hot Step 2 / 39](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085312849)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763905598
     Price: €120.99 EUR
   - [Black NOCTA Hot Step 2 / 40](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085345617)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763905598
     Price: €120.99 EUR
   - [Black NOCTA Hot Step 2 / 41](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085378385)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763905598
     Price: €120.99 EUR
   - [Black NOCTA Hot Step 2 / 42](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085411153)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763905598
     Price: €120.99 EUR
   - [Black NOCTA Hot Step 2 / 43](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085443921)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763905598
     Price: €120.99 EUR
   - [Black NOCTA Hot Step 2 / 44](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085476689)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763905598
     Price: €120.99 EUR
   - [Black NOCTA Hot Step 2 / 45](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085509457)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763905598
     Price: €120.99 EUR
   - [Black NOCTA Hot Step 2 / 46](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085542225)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/751aafa1ee3d9af291fc8cb8e7f6b63c.jpg?v=1763905598
     Price: €120.99 EUR
   - [Yellow NOCTA Hot Step 2 / 37](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085574993)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763905598
     Price: €120.99 EUR
   - [Yellow NOCTA Hot Step 2 / 38](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085607761)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763905598
     Price: €120.99 EUR
   - [Yellow NOCTA Hot Step 2 / 39](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085640529)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763905598
     Price: €120.99 EUR
   - [Yellow NOCTA Hot Step 2 / 40](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085673297)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763905598
     Price: €120.99 EUR
   - [Yellow NOCTA Hot Step 2 / 41](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085706065)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763905598
     Price: €120.99 EUR
   - [Yellow NOCTA Hot Step 2 / 42](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085738833)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763905598
     Price: €120.99 EUR
   - [Yellow NOCTA Hot Step 2 / 43](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085771601)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763905598
     Price: €120.99 EUR
   - [Yellow NOCTA Hot Step 2 / 44](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085804369)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763905598
     Price: €120.99 EUR
   - [Yellow NOCTA Hot Step 2 / 45](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085837137)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763905598
     Price: €120.99 EUR
   - [Yellow NOCTA Hot Step 2 / 46](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085869905)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/255ac01093f8747fb10fe3ff31172e80.jpg?v=1763905598
     Price: €120.99 EUR
   - [Orange NOCTA Hot Step 2 / 37](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085902673)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763905598
     Price: €120.99 EUR
   - [Orange NOCTA Hot Step 2 / 38](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085935441)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763905598
     Price: €120.99 EUR
   - [Orange NOCTA Hot Step 2 / 39](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974085968209)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763905598
     Price: €120.99 EUR
   - [Orange NOCTA Hot Step 2 / 40](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974086000977)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763905598
     Price: €120.99 EUR
   - [Orange NOCTA Hot Step 2 / 41](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974086033745)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763905598
     Price: €120.99 EUR
   - [Orange NOCTA Hot Step 2 / 42](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974086066513)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763905598
     Price: €120.99 EUR
   - [Orange NOCTA Hot Step 2 / 43](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974086099281)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763905598
     Price: €120.99 EUR
   - [Orange NOCTA Hot Step 2 / 44](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974086132049)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763905598
     Price: €120.99 EUR
   - [Orange NOCTA Hot Step 2 / 45](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974086164817)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763905598
     Price: €120.99 EUR
   - [Orange NOCTA Hot Step 2 / 46](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style?variant=51974086197585)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763633729
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1763905598
     Price: €120.99 EUR
 - [Nike Air Max 95](https://mldrip.com/products/nike-air-max-95-iconic-style-all-day-comfort): Step into a legacy of style and innovation with the Nike Air Max 95. Originally inspired by the human body, this iconic silhouette features layered panels that mimic muscle fibers, with a bold gradient design that turns heads from every angle. Engineered with visible Air cushioning in the heel and forefoot, the Air Max 95 delivers next-level comfort whether you’re on the streets, at the gym, or on the move. The breathable mesh upper with suede or synthetic overlays offers durability and support, while the lacing system adapts to your foot for a snug, customized fit. Key Features: Visible Max Air units for lightweight cushioning Mesh upper with synthetic or leather overlays for breathability and structure Padded collar and tongue for added comfort Rubber outsole with a waffle pattern for traction and durability Sleek, street-ready design with retro flair Perfect for sneakerheads, athletes, and everyday wearers alike — the Air Max 95 is more than a shoe, it’s a statement. Available in multiple colorways. Limited stock – order now before they’re gone!
   Updated: 2025-11-20T11:29:01Z
@@ -8077,58 +8077,58 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A11CFC3E-EF41-4D38-AABC-A7D68B7A16C4.png?v=1758749281
     Price: €105.00 EUR
 - [Essentials Tracksuit](https://mldrip.com/products/essentials-tracksuit-minimal-drip-max-comfort): Level up your loungewear game with the Essentials Tracksuit – the ultimate uniform for chill days, coffee runs, or late-night linkups. Clean design. Heavyweight feel. Streetwear certified. Why It's a Must-Cop: Premium cotton blend for that soft, cloud-like comfort Relaxed fit with ribbed cuffs – tailored but chill Subtle Essentials branding = lowkey flex, highkey drip Perfect match with sneakers, slides, or even boots Unisex vibes – everyone looks good in this set From cozy couch days to stepping out with the crew, this tracksuit stays undefeated. It's not just a fit – it's a lifestyle. Fast shipping. Limited stock. Stay Essential.
-  Updated: 2025-11-20T07:29:59Z
+  Updated: 2025-11-23T01:39:05Z
   Vendor: Mldrip
   Product Type: Tracksuit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5153.png?v=1763564374
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5328.png?v=1763818749
   - [black-essentials-tracksuit / S](https://mldrip.com/products/essentials-tracksuit-minimal-drip-max-comfort?variant=51965695295825)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/85e2faf8c29948c4827278eced77b071.jpg?v=1763564374
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/85e2faf8c29948c4827278eced77b071.jpg?v=1763818739
     Price: €100.00 EUR
   - [black-essentials-tracksuit / M](https://mldrip.com/products/essentials-tracksuit-minimal-drip-max-comfort?variant=51965695328593)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/85e2faf8c29948c4827278eced77b071.jpg?v=1763564374
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/85e2faf8c29948c4827278eced77b071.jpg?v=1763818739
     Price: €100.00 EUR
   - [black-essentials-tracksuit / L](https://mldrip.com/products/essentials-tracksuit-minimal-drip-max-comfort?variant=51965695361361)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/85e2faf8c29948c4827278eced77b071.jpg?v=1763564374
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/85e2faf8c29948c4827278eced77b071.jpg?v=1763818739
     Price: €100.00 EUR
   - [black-essentials-tracksuit / XL](https://mldrip.com/products/essentials-tracksuit-minimal-drip-max-comfort?variant=51965695394129)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/85e2faf8c29948c4827278eced77b071.jpg?v=1763564374
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/85e2faf8c29948c4827278eced77b071.jpg?v=1763818739
     Price: €100.00 EUR
   - [brown-essentials-tracksuit / S](https://mldrip.com/products/essentials-tracksuit-minimal-drip-max-comfort?variant=51965695426897)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/eaaf10cafa55fac64a7d2cfa38d48988.jpg?v=1763564374
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/eaaf10cafa55fac64a7d2cfa38d48988.jpg?v=1763818739
     Price: €100.00 EUR
   - [brown-essentials-tracksuit / M](https://mldrip.com/products/essentials-tracksuit-minimal-drip-max-comfort?variant=51965695459665)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/eaaf10cafa55fac64a7d2cfa38d48988.jpg?v=1763564374
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/eaaf10cafa55fac64a7d2cfa38d48988.jpg?v=1763818739
     Price: €100.00 EUR
   - [brown-essentials-tracksuit / L](https://mldrip.com/products/essentials-tracksuit-minimal-drip-max-comfort?variant=51965695492433)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/eaaf10cafa55fac64a7d2cfa38d48988.jpg?v=1763564374
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/eaaf10cafa55fac64a7d2cfa38d48988.jpg?v=1763818739
     Price: €100.00 EUR
   - [brown-essentials-tracksuit / XL](https://mldrip.com/products/essentials-tracksuit-minimal-drip-max-comfort?variant=51965695525201)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/eaaf10cafa55fac64a7d2cfa38d48988.jpg?v=1763564374
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/eaaf10cafa55fac64a7d2cfa38d48988.jpg?v=1763818739
     Price: €100.00 EUR
   - [beige-essentials-tracksuit / S](https://mldrip.com/products/essentials-tracksuit-minimal-drip-max-comfort?variant=51965695557969)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/b4d715baa001944a7b70a3baa9073a96.jpg?v=1763564374
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/b4d715baa001944a7b70a3baa9073a96.jpg?v=1763818739
     Price: €100.00 EUR
   - [beige-essentials-tracksuit / M](https://mldrip.com/products/essentials-tracksuit-minimal-drip-max-comfort?variant=51965695590737)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/b4d715baa001944a7b70a3baa9073a96.jpg?v=1763564374
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/b4d715baa001944a7b70a3baa9073a96.jpg?v=1763818739
     Price: €100.00 EUR
   - [beige-essentials-tracksuit / L](https://mldrip.com/products/essentials-tracksuit-minimal-drip-max-comfort?variant=51965695623505)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/b4d715baa001944a7b70a3baa9073a96.jpg?v=1763564374
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/b4d715baa001944a7b70a3baa9073a96.jpg?v=1763818739
     Price: €100.00 EUR
   - [beige-essentials-tracksuit / XL](https://mldrip.com/products/essentials-tracksuit-minimal-drip-max-comfort?variant=51965695656273)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/b4d715baa001944a7b70a3baa9073a96.jpg?v=1763564374
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/b4d715baa001944a7b70a3baa9073a96.jpg?v=1763818739
     Price: €100.00 EUR
 - [Chrome Hearts Glasses](https://mldrip.com/products/chrome-hearts-glasses-icy-flex-for-your-face): Step up your eyewear game with these Chrome Hearts Glasses – the ultimate mix of luxury drip and rockstar attitude. Handcrafted with insane attention to detail, these frames ain’t just glasses... they’re a statement. 🖤 Why These Hit Different: Premium materials (real deal metal + acetate) Signature CH cross + dagger engravings = instant clout Unisex design that goes hard with any aesthetic Comfort-fit frame so you can flex all day, no pressure Whether you’re chilling lowkey or making main character moves, these Chrome Hearts glasses are built to turn heads and boost your whole vibe. 🚀 Cop now – luxury eyewear this clean doesn’t stay in stock.
   Updated: 2025-11-06T12:30:09Z
@@ -8153,58 +8153,58 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250801_164826.jpg?v=1758749285
     Price: €70.00 EUR
 - [Essentials Fear of God Shorts](https://mldrip.com/products/essentials-fear-of-god-shorts-minimal-drip-maximum-vibe): Keep it chill but make it premium. The Essentials Fear of God Shorts are your go-to for that effortless, everyday flex. Whether you’re posting up at the gym, running errands, or vibing with the crew — these shorts serve cozy AND clean. Key Features: Heavyweight cotton blend for that luxe, structured fit Iconic “ESSENTIALS” logo front and center – lowkey but loud Elastic waistband + drawstring = perfect fit, every time Versatile AF – pair with tees, hoodies, or tanks Built for comfort. Designed for style. Trusted by fashion heads & streetwear lovers alike. Don’t sleep – these move FAST. Tap in now before they’re gone.
-  Updated: 2025-11-06T12:30:09Z
+  Updated: 2025-11-23T12:17:56Z
   Vendor: Mldrip
   Product Type: Shorts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133746.jpg?v=1758749287
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5321.png?v=1763818195
   - [white-essentials / s](https://mldrip.com/products/essentials-fear-of-god-shorts-minimal-drip-maximum-vibe?variant=51965695852881)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133746.jpg?v=1758749287
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133746.jpg?v=1763818194
     Price: €49.99 EUR
   - [white-essentials / m](https://mldrip.com/products/essentials-fear-of-god-shorts-minimal-drip-maximum-vibe?variant=51965695885649)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133746.jpg?v=1758749287
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133746.jpg?v=1763818194
     Price: €49.99 EUR
   - [white-essentials / l](https://mldrip.com/products/essentials-fear-of-god-shorts-minimal-drip-maximum-vibe?variant=51965695918417)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133746.jpg?v=1758749287
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133746.jpg?v=1763818194
     Price: €49.99 EUR
   - [white-essentials / xl](https://mldrip.com/products/essentials-fear-of-god-shorts-minimal-drip-maximum-vibe?variant=51965695951185)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133746.jpg?v=1758749287
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133746.jpg?v=1763818194
     Price: €49.99 EUR
   - [grey-essentials / s](https://mldrip.com/products/essentials-fear-of-god-shorts-minimal-drip-maximum-vibe?variant=51965695983953)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133830.jpg?v=1758749287
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133830.jpg?v=1763818194
     Price: €49.99 EUR
   - [grey-essentials / m](https://mldrip.com/products/essentials-fear-of-god-shorts-minimal-drip-maximum-vibe?variant=51965696016721)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133830.jpg?v=1758749287
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133830.jpg?v=1763818194
     Price: €49.99 EUR
   - [grey-essentials / l](https://mldrip.com/products/essentials-fear-of-god-shorts-minimal-drip-maximum-vibe?variant=51965696049489)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133830.jpg?v=1758749287
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133830.jpg?v=1763818194
     Price: €49.99 EUR
   - [grey-essentials / xl](https://mldrip.com/products/essentials-fear-of-god-shorts-minimal-drip-maximum-vibe?variant=51965696082257)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133830.jpg?v=1758749287
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133830.jpg?v=1763818194
     Price: €49.99 EUR
   - [black-essentials / s](https://mldrip.com/products/essentials-fear-of-god-shorts-minimal-drip-maximum-vibe?variant=51965696115025)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133811.jpg?v=1758749286
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133811.jpg?v=1763818194
     Price: €49.99 EUR
   - [black-essentials / m](https://mldrip.com/products/essentials-fear-of-god-shorts-minimal-drip-maximum-vibe?variant=51965696147793)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133811.jpg?v=1758749286
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133811.jpg?v=1763818194
     Price: €49.99 EUR
   - [black-essentials / l](https://mldrip.com/products/essentials-fear-of-god-shorts-minimal-drip-maximum-vibe?variant=51965696180561)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133811.jpg?v=1758749286
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133811.jpg?v=1763818194
     Price: €49.99 EUR
   - [black-essentials / xl](https://mldrip.com/products/essentials-fear-of-god-shorts-minimal-drip-maximum-vibe?variant=51965696213329)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133811.jpg?v=1758749286
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250803_133811.jpg?v=1763818194
     Price: €49.99 EUR
 - [Air Jordan 1 Low x Travis Scott](https://mldrip.com/products/air-jordan-1-low-x-travis-scott-cactus-jack-energy): The Air Jordan 1 Low x Travis Scott isn’t just a sneaker — it’s a whole movement. Featuring that signature reverse Swoosh, earthy tones, and Cactus Jack branding, this collab is built different. Whether you're a sneakerhead or just wanna flex like La Flame, these kicks hit every time. Why You Need ‘Em: Premium suede + leather upper for that luxury feel Iconic reverse Swoosh – a Travis Scott exclusive Cactus Jack branding on heel + insole for the real fans Durable rubber sole with OG Jordan comfort Streetwear staple that sells out every time Perfect with cargos, baggy jeans, or straight drip fits. These Jordans bring the and the hype. Limited pairs – once they’re gone, it’s resale prices only. Cop now. Rock the hype. Be the vibe.
   Updated: 2025-11-06T12:30:09Z
@@ -8349,7 +8349,7 @@
     Availability: Available
     Price: €125.00 EUR
 - [Yeezy Slides](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex): Slide into the future with the Yeezy Slides – the ultimate combo of chill, comfort, and Kanye-approved drip. Whether you're lounging, stepping out, or just want that lowkey flex, these slides got your back (and your feet). Why You Need ‘Em: Ultra-soft EVA foam = cloud-level comfort Minimalist Yeezy design that hits with every fit Lightweight + durable — built to last, made to flex Unisex & versatile – for cozy vibes 24/7 From the couch to the streets, the Yeezy Slide is your go-to for effortless style. No logos screaming for attention — just straight-up heat that speaks for itself. Fast shipping. Limited stock. Cop before they vanish.
-  Updated: 2025-11-06T12:30:09Z
+  Updated: 2025-11-23T14:13:56Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -8396,126 +8396,126 @@
     Price: €49.99 EUR
   - [Brown Yeezy Slides / 36](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974056902993)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1763907235
     Price: €49.99 EUR
   - [Brown Yeezy Slides / 37](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974056935761)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1763907235
     Price: €49.99 EUR
   - [Brown Yeezy Slides / 38](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974056968529)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1763907235
     Price: €49.99 EUR
   - [Brown Yeezy Slides / 39](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057001297)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1763907235
     Price: €49.99 EUR
   - [Brown Yeezy Slides / 40](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057034065)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1763907235
     Price: €49.99 EUR
   - [Brown Yeezy Slides / 41](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057066833)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1763907235
     Price: €49.99 EUR
   - [Brown Yeezy Slides / 42](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057099601)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1763907235
     Price: €49.99 EUR
   - [Brown Yeezy Slides / 43](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057132369)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1763907235
     Price: €49.99 EUR
   - [Brown Yeezy Slides / 44](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057165137)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1763907235
     Price: €49.99 EUR
   - [Brown Yeezy Slides / 45](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057197905)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204300.jpg?v=1763907235
     Price: €49.99 EUR
   - [Black Yeezy Slides / 36](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057230673)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1763907235
     Price: €49.99 EUR
   - [Black Yeezy Slides / 37](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057263441)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1763907235
     Price: €49.99 EUR
   - [Black Yeezy Slides / 38](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057296209)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1763907235
     Price: €49.99 EUR
   - [Black Yeezy Slides / 39](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057328977)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1763907235
     Price: €49.99 EUR
   - [Black Yeezy Slides / 40](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057361745)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1763907235
     Price: €49.99 EUR
   - [Black Yeezy Slides / 41](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057394513)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1763907235
     Price: €49.99 EUR
   - [Black Yeezy Slides / 42](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057427281)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1763907235
     Price: €49.99 EUR
   - [Black Yeezy Slides / 43](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057460049)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1763907235
     Price: €49.99 EUR
   - [Black Yeezy Slides / 44](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057492817)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1763907235
     Price: €49.99 EUR
   - [Black Yeezy Slides / 45](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057525585)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204251.jpg?v=1763907235
     Price: €49.99 EUR
   - [White Yeezy Slides / 36](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057558353)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1763907235
     Price: €49.99 EUR
   - [White Yeezy Slides / 37](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057591121)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1763907235
     Price: €49.99 EUR
   - [White Yeezy Slides / 38](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057623889)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1763907235
     Price: €49.99 EUR
   - [White Yeezy Slides / 39](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057656657)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1763907235
     Price: €49.99 EUR
   - [White Yeezy Slides / 40](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057689425)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1763907235
     Price: €49.99 EUR
   - [White Yeezy Slides / 41](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057722193)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1763907235
     Price: €49.99 EUR
   - [White Yeezy Slides / 42](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057754961)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1763907235
     Price: €49.99 EUR
   - [White Yeezy Slides / 43](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057787729)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1763907235
     Price: €49.99 EUR
   - [White Yeezy Slides / 44](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057820497)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1763907235
     Price: €49.99 EUR
   - [White Yeezy Slides / 45](https://mldrip.com/products/yeezy-slides-cloud-comfort-everyday-flex?variant=51974057853265)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1758918353
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_204241.jpg?v=1763907235
     Price: €49.99 EUR
 - [Corteiz x Nike Air Max 95](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets): When Corteiz links with Nike, it’s not just a sneaker — it’s a movement. The Corteiz x Air Max 95 blends rebellious London streetwear energy with the iconic 95 silhouette. Bold, aggressive, unapologetic — this pair is for the ones who don’t follow trends, they start them. What Makes These a Must-Cop: Layered suede & mesh upper with gritty, premium vibes Corteiz “RULES THE WORLD” branding stitched loud and proud Classic Air Max sole units = cloud comfort with street bounce Military-inspired colorways for that raw, tactical aesthetic From ends to overseas, this drop made waves — now it’s your turn to lace up history. You’re not just buying sneakers… you’re joining the revolution. LIMITED STOCK – No restocks. When they’re gone, they’re GONE.
-  Updated: 2025-11-06T12:30:09Z
+  Updated: 2025-11-23T14:10:13Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -8526,15 +8526,15 @@
     Price: €125.00 EUR
   - [Green Corteiz x Nike Air Max 95 / 36](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974540165457)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1763907013
     Price: €125.00 EUR
   - [Pink Blue Corteiz x Nike Air Max 95 / 36](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974540198225)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1763907013
     Price: €125.00 EUR
   - [Grey Corteiz x Nike Air Max 95 / 36](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974540230993)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1763907013
     Price: €125.00 EUR
   - [Black Corteiz x Nike Air Max 95 / 37](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974545178961)
     Availability: Available
@@ -8578,123 +8578,123 @@
     Price: €125.00 EUR
   - [Green Corteiz x Nike Air Max 95 / 37](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974545506641)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1763907013
     Price: €125.00 EUR
   - [Green Corteiz x Nike Air Max 95 / 38](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974545539409)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1763907013
     Price: €125.00 EUR
   - [Green Corteiz x Nike Air Max 95 / 39](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974545572177)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1763907013
     Price: €125.00 EUR
   - [Green Corteiz x Nike Air Max 95 / 40](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974545604945)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1763907013
     Price: €125.00 EUR
   - [Green Corteiz x Nike Air Max 95 / 41](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974545637713)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1763907013
     Price: €125.00 EUR
   - [Green Corteiz x Nike Air Max 95 / 42](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974545670481)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1763907013
     Price: €125.00 EUR
   - [Green Corteiz x Nike Air Max 95 / 43](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974545703249)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1763907013
     Price: €125.00 EUR
   - [Green Corteiz x Nike Air Max 95 / 44](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974545736017)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1763907013
     Price: €125.00 EUR
   - [Green Corteiz x Nike Air Max 95 / 45](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974545768785)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1763907013
     Price: €125.00 EUR
   - [Green Corteiz x Nike Air Max 95 / 46](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974545801553)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211722.jpg?v=1763907013
     Price: €125.00 EUR
   - [Pink Blue Corteiz x Nike Air Max 95 / 37](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974545834321)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1763907013
     Price: €125.00 EUR
   - [Pink Blue Corteiz x Nike Air Max 95 / 38](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974545867089)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1763907013
     Price: €125.00 EUR
   - [Pink Blue Corteiz x Nike Air Max 95 / 39](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974545899857)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1763907013
     Price: €125.00 EUR
   - [Pink Blue Corteiz x Nike Air Max 95 / 40](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974545932625)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1763907013
     Price: €125.00 EUR
   - [Pink Blue Corteiz x Nike Air Max 95 / 41](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974545965393)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1763907013
     Price: €125.00 EUR
   - [Pink Blue Corteiz x Nike Air Max 95 / 42](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974545998161)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1763907013
     Price: €125.00 EUR
   - [Pink Blue Corteiz x Nike Air Max 95 / 43](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974546030929)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1763907013
     Price: €125.00 EUR
   - [Pink Blue Corteiz x Nike Air Max 95 / 44](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974546063697)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1763907013
     Price: €125.00 EUR
   - [Pink Blue Corteiz x Nike Air Max 95 / 45](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974546096465)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1763907013
     Price: €125.00 EUR
   - [Pink Blue Corteiz x Nike Air Max 95 / 46](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974546129233)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250804_211708.jpg?v=1763907013
     Price: €125.00 EUR
   - [Grey Corteiz x Nike Air Max 95 / 37](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974546162001)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1763907013
     Price: €125.00 EUR
   - [Grey Corteiz x Nike Air Max 95 / 38](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974546194769)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1763907013
     Price: €125.00 EUR
   - [Grey Corteiz x Nike Air Max 95 / 39](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974546227537)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1763907013
     Price: €125.00 EUR
   - [Grey Corteiz x Nike Air Max 95 / 40](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974546260305)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1763907013
     Price: €125.00 EUR
   - [Grey Corteiz x Nike Air Max 95 / 41](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974546293073)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1763907013
     Price: €125.00 EUR
   - [Grey Corteiz x Nike Air Max 95 / 42](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974546325841)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1763907013
     Price: €125.00 EUR
   - [Grey Corteiz x Nike Air Max 95 / 43](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974546358609)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1763907013
     Price: €125.00 EUR
   - [Grey Corteiz x Nike Air Max 95 / 44](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974546391377)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1763907013
     Price: €125.00 EUR
   - [Grey Corteiz x Nike Air Max 95 / 45](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974546424145)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1763907013
     Price: €125.00 EUR
   - [Grey Corteiz x Nike Air Max 95 / 46](https://mldrip.com/products/corteiz-x-nike-air-max-95-rule-the-world-wear-the-streets?variant=51974546456913)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1758749298
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/storage_emulated_0_Pictures_Gallery_owner_NIKECORTEIZ_IMG_20250804_211745.jpg?v=1763907013
     Price: €125.00 EUR
 - [Chrome Hearts Denim jeans](https://mldrip.com/products/chrome-hearts-denim-premium-drip-zero-compromise): Not your average jeans. The Chrome Hearts Denim is for the bold, the different, the ones who don’t follow trends — they make them. Crafted with heavy-duty denim and iced out in signature CH cross patches, these jeans scream luxury rocker vibes with a street twist. Why These Jeans Hit: 100% premium denim – built to last, fade, and flex Chrome Hearts signature crosses & hardware – handcrafted detail that pops Tapered yet relaxed fit – made to move, made to flex Street-lux aesthetic – pairs fire with oversized tees, hoodies, or a leather jacket From late-night studio sessions to city strolls, these jeans are the kind of energy you wear. Real statement piece for the ones who stay loud without saying a word. Limited stock. Heavy on the flex, light on the rest.
   Updated: 2025-11-06T12:30:09Z
@@ -9567,7 +9567,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG_20250812_023040.jpg?v=1758749325
     Price: €104.99 EUR
 - [Chanel Runner](https://mldrip.com/products/chanel-runner-sneakers-luxury-in-motion): Level up your rotation with the Chanel Runner Sneakers – where Paris runway energy meets everyday streetwear. These sneakers mix premium craftsmanship with a sporty edge, making them the ultimate flex for anyone chasing style and comfort at once. Why They Hit Different: Premium materials – smooth leather & mesh combo with signature Chanel detailing Lightweight sole – built for all-day comfort without losing drip Iconic CC branding – subtle flex that speaks luxury loud Versatile fit – pairs perfectly with jeans, cargos, or even tailored looks Whether you’re running errands or stepping out in full designer mode, these Chanel kicks keep you fresh, comfy, and effortlessly flexing. Exclusive vibes only – limited stock available. Cop before they’re gone.
-  Updated: 2025-11-06T12:30:10Z
+  Updated: 2025-11-23T14:05:08Z
   Vendor: Mldrip
   Product Type: Chanel Runner
   Availability: Available
@@ -9633,82 +9633,82 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_d9346270-ebf2-424d-ae17-ae7eef681cd5.jpg?v=1758749329
     Price: €120.00 EUR
 - [Stüssy Tea Fish T-Shirt – Streetwear Essential](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential): Keep it laid-back but never basic with the Stüssy Tea Fish Tee. Featuring Stüssy’s signature graphic touch with the bold Tea Fish design, this shirt blends skate culture vibes with everyday comfort. Details: Premium 100% cotton for a soft, breathable feel Classic regular fit – not too tight, not too baggy Iconic Stüssy graphic print on the chest Easy to style with jeans, cargos, or shorts Whether you’re chilling with the crew, skating the city, or just flexing a clean streetwear look, this tee is an instant staple. Limited stock – once it’s gone, it’s gone!
-  Updated: 2025-11-06T12:30:10Z
+  Updated: 2025-11-23T01:25:07Z
   Vendor: Mldrip
   Product Type: Tops
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_0ab519bf-281e-4381-8684-fc0b888cbabd.jpg?v=1758749333
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5316.png?v=1763817914
   - [s / blue-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965712925009)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_0ab519bf-281e-4381-8684-fc0b888cbabd.jpg?v=1758749333
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_0ab519bf-281e-4381-8684-fc0b888cbabd.jpg?v=1763817895
     Price: €50.00 EUR
   - [s / green-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965712957777)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_9ddd8a76-1795-4a37-a544-ac0085281b14.jpg?v=1758749333
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_9ddd8a76-1795-4a37-a544-ac0085281b14.jpg?v=1763817895
     Price: €50.00 EUR
   - [s / purple-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965712990545)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_ca1971ee-e9ca-4b38-bd52-6b883d9651fa.jpg?v=1758749332
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_ca1971ee-e9ca-4b38-bd52-6b883d9651fa.jpg?v=1763817895
     Price: €50.00 EUR
   - [m / blue-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965713023313)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_0ab519bf-281e-4381-8684-fc0b888cbabd.jpg?v=1758749333
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_0ab519bf-281e-4381-8684-fc0b888cbabd.jpg?v=1763817895
     Price: €50.00 EUR
   - [m / green-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965713056081)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_9ddd8a76-1795-4a37-a544-ac0085281b14.jpg?v=1758749333
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_9ddd8a76-1795-4a37-a544-ac0085281b14.jpg?v=1763817895
     Price: €50.00 EUR
   - [m / purple-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965713088849)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_ca1971ee-e9ca-4b38-bd52-6b883d9651fa.jpg?v=1758749332
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_ca1971ee-e9ca-4b38-bd52-6b883d9651fa.jpg?v=1763817895
     Price: €50.00 EUR
   - [l / blue-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965713121617)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_0ab519bf-281e-4381-8684-fc0b888cbabd.jpg?v=1758749333
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_0ab519bf-281e-4381-8684-fc0b888cbabd.jpg?v=1763817895
     Price: €50.00 EUR
   - [l / green-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965713154385)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_9ddd8a76-1795-4a37-a544-ac0085281b14.jpg?v=1758749333
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_9ddd8a76-1795-4a37-a544-ac0085281b14.jpg?v=1763817895
     Price: €50.00 EUR
   - [l / purple-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965713187153)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_ca1971ee-e9ca-4b38-bd52-6b883d9651fa.jpg?v=1758749332
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_ca1971ee-e9ca-4b38-bd52-6b883d9651fa.jpg?v=1763817895
     Price: €50.00 EUR
   - [xl / blue-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965713219921)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_0ab519bf-281e-4381-8684-fc0b888cbabd.jpg?v=1758749333
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_0ab519bf-281e-4381-8684-fc0b888cbabd.jpg?v=1763817895
     Price: €50.00 EUR
   - [xl / green-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965713252689)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_9ddd8a76-1795-4a37-a544-ac0085281b14.jpg?v=1758749333
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_9ddd8a76-1795-4a37-a544-ac0085281b14.jpg?v=1763817895
     Price: €50.00 EUR
   - [xl / purple-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965713285457)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_ca1971ee-e9ca-4b38-bd52-6b883d9651fa.jpg?v=1758749332
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_ca1971ee-e9ca-4b38-bd52-6b883d9651fa.jpg?v=1763817895
     Price: €50.00 EUR
   - [2xl / blue-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965713318225)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_0ab519bf-281e-4381-8684-fc0b888cbabd.jpg?v=1758749333
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_0ab519bf-281e-4381-8684-fc0b888cbabd.jpg?v=1763817895
     Price: €50.00 EUR
   - [2xl / green-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965713350993)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_9ddd8a76-1795-4a37-a544-ac0085281b14.jpg?v=1758749333
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_9ddd8a76-1795-4a37-a544-ac0085281b14.jpg?v=1763817895
     Price: €50.00 EUR
   - [2xl / purple-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965713383761)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_ca1971ee-e9ca-4b38-bd52-6b883d9651fa.jpg?v=1758749332
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_ca1971ee-e9ca-4b38-bd52-6b883d9651fa.jpg?v=1763817895
     Price: €50.00 EUR
   - [3xl / blue-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965713416529)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_0ab519bf-281e-4381-8684-fc0b888cbabd.jpg?v=1758749333
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_0ab519bf-281e-4381-8684-fc0b888cbabd.jpg?v=1763817895
     Price: €50.00 EUR
   - [3xl / green-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965713449297)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_9ddd8a76-1795-4a37-a544-ac0085281b14.jpg?v=1758749333
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_9ddd8a76-1795-4a37-a544-ac0085281b14.jpg?v=1763817895
     Price: €50.00 EUR
   - [3xl / purple-stussy-tea-fish-t-shirt](https://mldrip.com/products/stussy-tea-fish-t-shirt-streetwear-essential?variant=51965713482065)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_ca1971ee-e9ca-4b38-bd52-6b883d9651fa.jpg?v=1758749332
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_ca1971ee-e9ca-4b38-bd52-6b883d9651fa.jpg?v=1763817895
     Price: €50.00 EUR
 - [BAPE® Shark Tee – Streetwear Icon](https://mldrip.com/products/bape®-shark-tee-streetwear-icon): Level up your fit with the BAPE® Shark Tee, one of the most legendary pieces in the streetwear game. Known for its bold graphics and premium feel, this tee brings that Tokyo-to-NYC drip straight to your closet. 🔥 Why it’s a must-cop: Signature BAPE® graphic – instantly recognizable, always flex-worthy Premium cotton build – soft, durable, and made for all-day wear Streetwear essential – pairs perfectly with cargos, jeans, or layered fits Unisex style – everyone can rock the ape vibes 💯 Whether you’re chasing that OG street look or just want a statement piece for your rotation, the BAPE® Shark Tee is pure heat. Don’t sleep — stock moves fast.
   Updated: 2025-11-06T12:30:10Z
@@ -10685,50 +10685,50 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/74EE0B98-5F62-435C-9D78-E771DBF0A425_24b453ab-e4ef-4cea-b508-db1a1de6b119.jpg?v=1758799595
     Price: €78.99 EUR
 - [Timberland x LV](https://mldrip.com/products/timberland-x-lv): Where streetwear grit meets luxury elegance. The Timberland LV Boots fuse the timeless durability of Timberland with the iconic flair of Louis Vuitton, delivering a bold statement boot that turns every sidewalk into a runway. Crafted for both edge and elegance, this silhouette features the classic Timberland build — premium leather, sealed seams, and rugged soles — elevated with LV-inspired detailing for a designer touch that commands attention. Key Features: Premium waterproof leather upper for long-lasting wear Iconic LV-inspired monogram accents for a luxury look Padded collar for ankle comfort and support Anti-fatigue footbed for all-day cushioning Durable rubber outsole for traction in any condition Built for the bold, designed for the stylish. Whether you're hitting the streets or stepping into high fashion, the Timberland LV delivers unmatched presence. Limited stock. Luxe streetwear never lasts long — grab yours today.
-  Updated: 2025-11-06T12:30:11Z
+  Updated: 2025-11-23T16:04:00Z
   Vendor: Mldrip
   Product Type: Boots
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1758834293
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500_b194d358-9cfe-4f52-8be4-986a8363b058.png?v=1763913840
   - [Brown Timberland x LV / 36](https://mldrip.com/products/timberland-x-lv?variant=51975065141585)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1758834293
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1763913840
     Price: €139.99 EUR
   - [Brown Timberland x LV / 37](https://mldrip.com/products/timberland-x-lv?variant=51975068352849)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1758834293
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1763913840
     Price: €139.99 EUR
   - [Brown Timberland x LV / 38](https://mldrip.com/products/timberland-x-lv?variant=51975068385617)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1758834293
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1763913840
     Price: €139.99 EUR
   - [Brown Timberland x LV / 39](https://mldrip.com/products/timberland-x-lv?variant=51975068418385)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1758834293
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1763913840
     Price: €139.99 EUR
   - [Brown Timberland x LV / 40](https://mldrip.com/products/timberland-x-lv?variant=51975068451153)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1758834293
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1763913840
     Price: €139.99 EUR
   - [Brown Timberland x LV / 41](https://mldrip.com/products/timberland-x-lv?variant=51975068483921)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1758834293
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1763913840
     Price: €139.99 EUR
   - [Brown Timberland x LV / 42](https://mldrip.com/products/timberland-x-lv?variant=51975068516689)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1758834293
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1763913840
     Price: €139.99 EUR
   - [Brown Timberland x LV / 43](https://mldrip.com/products/timberland-x-lv?variant=51975068549457)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1758834293
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1763913840
     Price: €139.99 EUR
   - [Brown Timberland x LV / 44](https://mldrip.com/products/timberland-x-lv?variant=51975068582225)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1758834293
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1763913840
     Price: €139.99 EUR
   - [Brown Timberland x LV / 45](https://mldrip.com/products/timberland-x-lv?variant=51975068614993)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1758834293
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B815818C-36AC-41DF-8FE5-EC8A00593500.png?v=1763913840
     Price: €139.99 EUR
 - [Football Legends Tee – Messi, Ronaldo & Neymar](https://mldrip.com/products/football-legends-tee-messi-ronaldo-neymar): Rep the GOATs of world football with this short-sleeve Football Legends T-Shirt. Featuring iconic graphics of Messi, Ronaldo, and Neymar, this tee is made for fans who live and breathe the beautiful game. 👕 Why You’ll Love It: Soft cotton blend – breathable, lightweight, and perfect for everyday wear Bold player prints – celebrate your favorite football icons in style Unisex fit – looks fresh on anyone, from pitchside to streetwear fits Everyday drip – pairs easily with jeans, shorts, or joggers From street kickabouts to match-day vibes, this tee keeps you comfortable while showing love to football’s biggest stars. 👉 Cop yours today and rep Messi, Ronaldo, Neymar wherever you go.
   Updated: 2025-11-06T12:30:11Z
@@ -11171,45 +11171,45 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8F48E81B-9A28-4A2E-A40A-94A5EC995CCF.png?v=1759619817
     Price: €110.00 EUR
 - [Classic Sweater – Comfort Meets Streetwear Style](https://mldrip.com/products/classic-sweater-comfort-meets-streetwear-style): Keep it cozy and stylish with the Classic Sweater, designed for everyday wear with a modern street-inspired twist. Soft, durable, and easy to style — this piece is your go-to for any season. 👕 Why It Hits: Premium fabric blend – warm, breathable, and built for comfort Relaxed fit – perfect for layering or rocking solo Minimalist design – clean look that pairs with cargos, jeans, or joggers Unisex style – made for everyone who loves that chill, effortless vibe From laid-back days to late-night hangs, this sweater keeps your drip simple, sleek, and on point. 👉 Cop yours now and stay cozy in style.
-  Updated: 2025-11-06T12:30:12Z
+  Updated: 2025-11-23T16:02:04Z
   Vendor: Mldrip
   Product Type: Pullovers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C04D0894-3AAE-4171-A756-1D7C9FA3B7F9.png?v=1759621998
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C04D0894-3AAE-4171-A756-1D7C9FA3B7F9_329ae5d9-a88d-4fde-88bf-c9a07d62044a.png?v=1763913724
   - [Grey Sweater / S](https://mldrip.com/products/classic-sweater-comfort-meets-streetwear-style?variant=52043767185745)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7EDEBBBF-A2EA-457C-A9E7-1124B4BF056B.png?v=1759621998
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7EDEBBBF-A2EA-457C-A9E7-1124B4BF056B.png?v=1763913707
     Price: €55.00 EUR
   - [Grey Sweater / M](https://mldrip.com/products/classic-sweater-comfort-meets-streetwear-style?variant=52043767218513)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7EDEBBBF-A2EA-457C-A9E7-1124B4BF056B.png?v=1759621998
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7EDEBBBF-A2EA-457C-A9E7-1124B4BF056B.png?v=1763913707
     Price: €55.00 EUR
   - [Grey Sweater / L](https://mldrip.com/products/classic-sweater-comfort-meets-streetwear-style?variant=52043764793681)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7EDEBBBF-A2EA-457C-A9E7-1124B4BF056B.png?v=1759621998
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7EDEBBBF-A2EA-457C-A9E7-1124B4BF056B.png?v=1763913707
     Price: €55.00 EUR
   - [Grey Sweater / XL](https://mldrip.com/products/classic-sweater-comfort-meets-streetwear-style?variant=52043767251281)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7EDEBBBF-A2EA-457C-A9E7-1124B4BF056B.png?v=1759621998
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7EDEBBBF-A2EA-457C-A9E7-1124B4BF056B.png?v=1763913707
     Price: €55.00 EUR
   - [Black Sweater / S](https://mldrip.com/products/classic-sweater-comfort-meets-streetwear-style?variant=52043767284049)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C04D0894-3AAE-4171-A756-1D7C9FA3B7F9.png?v=1759621998
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C04D0894-3AAE-4171-A756-1D7C9FA3B7F9.png?v=1763913707
     Price: €55.00 EUR
   - [Black Sweater / M](https://mldrip.com/products/classic-sweater-comfort-meets-streetwear-style?variant=52043767316817)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C04D0894-3AAE-4171-A756-1D7C9FA3B7F9.png?v=1759621998
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C04D0894-3AAE-4171-A756-1D7C9FA3B7F9.png?v=1763913707
     Price: €55.00 EUR
   - [Black Sweater / L](https://mldrip.com/products/classic-sweater-comfort-meets-streetwear-style?variant=52043764826449)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C04D0894-3AAE-4171-A756-1D7C9FA3B7F9.png?v=1759621998
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C04D0894-3AAE-4171-A756-1D7C9FA3B7F9.png?v=1763913707
     Price: €55.00 EUR
   - [Black Sweater / XL](https://mldrip.com/products/classic-sweater-comfort-meets-streetwear-style?variant=52043767349585)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C04D0894-3AAE-4171-A756-1D7C9FA3B7F9.png?v=1759621998
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C04D0894-3AAE-4171-A756-1D7C9FA3B7F9.png?v=1763913707
     Price: €55.00 EUR
 - [Black & Yellow Windbreaker Set – Bold Streets, Fresh Energy](https://mldrip.com/products/black-yellow-windbreaker-set-bold-streets-fresh-energy): Stand out with the Black & Yellow Windbreaker + Shorts Set, built for those who move different. Lightweight, breathable, and made to flex in any weather — this fit brings straight street energy with sporty vibes. ⚡ Why You’ll Love It: Wind-resistant fabric – perfect for cool days or active fits Breathable mesh lining – keeps you fresh and comfy all day Adjustable hood & zip-up design – built for movement and style Matching shorts – complete the look with a clean, coordinated finish Bold color contrast – that black & yellow combo hits hard 💛🖤 Whether you’re on the field, at the gym, or in the streets, this set keeps you cool, confident, and standout ready. 👉 Cop yours now and flex that Black & Yellow drip everywhere you go.
-  Updated: 2025-11-06T12:30:12Z
+  Updated: 2025-11-23T15:27:22Z
   Vendor: Mldrip
   Product Type: Tracksuit
   Availability: Available
@@ -12109,556 +12109,556 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S196203327be1488ca22d765371502611K.webp?v=1759772292
     Price: €39.99 EUR
 - [Y2K Retro Streetwear Hoodie Set](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set): SPECIFICATIONS Applicable Scene: Shopping Applicable Season: Four Seasons Closure Type: Zipper Collar: O-Neck Craft of Weaving: Knit Decoration: Pockets Gender: Men Hign-concerned Chemical: None Material: POLYESTER Material Composition: polyester Out Side Length: Midi Pant Closure Type: Drawstring Pattern Type: Solid Sleeve Length(cm): Full Style: Casual Thickness: Standard whether full opening: Yes Y2K New Retro Casual Two-Piece American High Street Harajuku Sweatshirt Straight Trousers Men Casual Fashion Hoodie Streetwear
-  Updated: 2025-11-20T11:29:01Z
+  Updated: 2025-11-23T14:45:44Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A3E501D8-1948-4BE6-9D4A-2ADFA27B8248.png?v=1759782462
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A3E501D8-1948-4BE6-9D4A-2ADFA27B8248_973c0523-0b9c-46db-9950-d43796abd287.png?v=1763909144
   - [Dark grey trousers / S](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050046289)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sce73d8e4127d4b62b0a6112a03277b42x.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sce73d8e4127d4b62b0a6112a03277b42x.webp?v=1763909144
     Price: €37.99 EUR
   - [Dark grey trousers / M](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050079057)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sce73d8e4127d4b62b0a6112a03277b42x.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sce73d8e4127d4b62b0a6112a03277b42x.webp?v=1763909144
     Price: €37.99 EUR
   - [Dark grey trousers / L](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050111825)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sce73d8e4127d4b62b0a6112a03277b42x.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sce73d8e4127d4b62b0a6112a03277b42x.webp?v=1763909144
     Price: €37.99 EUR
   - [Dark grey trousers / XL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050144593)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sce73d8e4127d4b62b0a6112a03277b42x.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sce73d8e4127d4b62b0a6112a03277b42x.webp?v=1763909144
     Price: €37.99 EUR
   - [Dark grey trousers / XXL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050177361)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sce73d8e4127d4b62b0a6112a03277b42x.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sce73d8e4127d4b62b0a6112a03277b42x.webp?v=1763909144
     Price: €37.99 EUR
   - [Rose red trousers / S](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050210129)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S1a7dec5bae4445c68f269276fc1671dcH.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S1a7dec5bae4445c68f269276fc1671dcH.webp?v=1763909144
     Price: €37.99 EUR
   - [Rose red trousers / M](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050242897)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S1a7dec5bae4445c68f269276fc1671dcH.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S1a7dec5bae4445c68f269276fc1671dcH.webp?v=1763909144
     Price: €37.99 EUR
   - [Rose red trousers / L](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050275665)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S1a7dec5bae4445c68f269276fc1671dcH.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S1a7dec5bae4445c68f269276fc1671dcH.webp?v=1763909144
     Price: €37.99 EUR
   - [Blue trousers / L](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050308433)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S08c98bb51d524090b6f8ff1b6e4a6544B.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S08c98bb51d524090b6f8ff1b6e4a6544B.webp?v=1763909144
     Price: €37.99 EUR
   - [Blue trousers / XL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050341201)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S08c98bb51d524090b6f8ff1b6e4a6544B.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S08c98bb51d524090b6f8ff1b6e4a6544B.webp?v=1763909144
     Price: €37.99 EUR
   - [Blue trousers / XXL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050373969)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S08c98bb51d524090b6f8ff1b6e4a6544B.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S08c98bb51d524090b6f8ff1b6e4a6544B.webp?v=1763909144
     Price: €37.99 EUR
   - [Grey trousers / S](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050406737)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc5f94cc6e02d49a7aa5992c0501b6f1eE.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc5f94cc6e02d49a7aa5992c0501b6f1eE.webp?v=1763909144
     Price: €37.99 EUR
   - [Grey trousers / M](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050439505)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc5f94cc6e02d49a7aa5992c0501b6f1eE.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc5f94cc6e02d49a7aa5992c0501b6f1eE.webp?v=1763909144
     Price: €37.99 EUR
   - [Grey trousers / L](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050472273)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc5f94cc6e02d49a7aa5992c0501b6f1eE.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc5f94cc6e02d49a7aa5992c0501b6f1eE.webp?v=1763909144
     Price: €37.99 EUR
   - [Grey trousers / XL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050505041)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc5f94cc6e02d49a7aa5992c0501b6f1eE.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc5f94cc6e02d49a7aa5992c0501b6f1eE.webp?v=1763909144
     Price: €37.99 EUR
   - [Grey trousers / XXL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050537809)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc5f94cc6e02d49a7aa5992c0501b6f1eE.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc5f94cc6e02d49a7aa5992c0501b6f1eE.webp?v=1763909144
     Price: €37.99 EUR
   - [Rose hoodie / XXL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050570577)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c21879d21314c539c6b2c234ff7baa3u.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c21879d21314c539c6b2c234ff7baa3u.webp?v=1763909144
     Price: €37.99 EUR
   - [Black trousers / S](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050603345)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5664813469d847078047a265b7b9d6e9h.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5664813469d847078047a265b7b9d6e9h.webp?v=1763909144
     Price: €37.99 EUR
   - [Black trousers / M](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050636113)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5664813469d847078047a265b7b9d6e9h.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5664813469d847078047a265b7b9d6e9h.webp?v=1763909144
     Price: €37.99 EUR
   - [Black trousers / L](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050668881)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5664813469d847078047a265b7b9d6e9h.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5664813469d847078047a265b7b9d6e9h.webp?v=1763909144
     Price: €37.99 EUR
   - [Black trousers / XL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050701649)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5664813469d847078047a265b7b9d6e9h.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5664813469d847078047a265b7b9d6e9h.webp?v=1763909144
     Price: €37.99 EUR
   - [Black trousers / XXL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050734417)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5664813469d847078047a265b7b9d6e9h.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5664813469d847078047a265b7b9d6e9h.webp?v=1763909144
     Price: €37.99 EUR
   - [Blue trousers / S](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050767185)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S08c98bb51d524090b6f8ff1b6e4a6544B.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S08c98bb51d524090b6f8ff1b6e4a6544B.webp?v=1763909144
     Price: €37.99 EUR
   - [Blue trousers / M](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050799953)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S08c98bb51d524090b6f8ff1b6e4a6544B.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S08c98bb51d524090b6f8ff1b6e4a6544B.webp?v=1763909144
     Price: €37.99 EUR
   - [Green hoodie / M](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050832721)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S91127efc850c43cead71f8aca780bf96T.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S91127efc850c43cead71f8aca780bf96T.webp?v=1763909144
     Price: €37.99 EUR
   - [Green hoodie / L](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050865489)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S91127efc850c43cead71f8aca780bf96T.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S91127efc850c43cead71f8aca780bf96T.webp?v=1763909144
     Price: €37.99 EUR
   - [Green hoodie / XL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050898257)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S91127efc850c43cead71f8aca780bf96T.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S91127efc850c43cead71f8aca780bf96T.webp?v=1763909144
     Price: €37.99 EUR
   - [Green hoodie / XXL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050931025)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S91127efc850c43cead71f8aca780bf96T.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S91127efc850c43cead71f8aca780bf96T.webp?v=1763909144
     Price: €37.99 EUR
   - [Rose hoodie / S](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050963793)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c21879d21314c539c6b2c234ff7baa3u.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c21879d21314c539c6b2c234ff7baa3u.webp?v=1763909144
     Price: €37.99 EUR
   - [Rose hoodie / M](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054050996561)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c21879d21314c539c6b2c234ff7baa3u.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c21879d21314c539c6b2c234ff7baa3u.webp?v=1763909144
     Price: €37.99 EUR
   - [Rose hoodie / L](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051029329)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c21879d21314c539c6b2c234ff7baa3u.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c21879d21314c539c6b2c234ff7baa3u.webp?v=1763909144
     Price: €37.99 EUR
   - [Rose hoodie / XL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051062097)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c21879d21314c539c6b2c234ff7baa3u.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c21879d21314c539c6b2c234ff7baa3u.webp?v=1763909144
     Price: €37.99 EUR
   - [Black suit / L](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051094865)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A3E501D8-1948-4BE6-9D4A-2ADFA27B8248.png?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A3E501D8-1948-4BE6-9D4A-2ADFA27B8248.png?v=1763909144
     Price: €54.99 EUR
   - [Black suit / XL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051127633)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A3E501D8-1948-4BE6-9D4A-2ADFA27B8248.png?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A3E501D8-1948-4BE6-9D4A-2ADFA27B8248.png?v=1763909144
     Price: €54.99 EUR
   - [Black suit / XXL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051160401)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A3E501D8-1948-4BE6-9D4A-2ADFA27B8248.png?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A3E501D8-1948-4BE6-9D4A-2ADFA27B8248.png?v=1763909144
     Price: €54.99 EUR
   - [Black suit 1 / S](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051193169)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/096DC681-3465-412C-BD38-41C293E62F81.png?v=1759782280
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/096DC681-3465-412C-BD38-41C293E62F81.png?v=1763909144
     Price: €54.99 EUR
   - [Black suit 1 / M](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051225937)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/096DC681-3465-412C-BD38-41C293E62F81.png?v=1759782280
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/096DC681-3465-412C-BD38-41C293E62F81.png?v=1763909144
     Price: €54.99 EUR
   - [Black suit 1 / L](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051258705)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/096DC681-3465-412C-BD38-41C293E62F81.png?v=1759782280
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/096DC681-3465-412C-BD38-41C293E62F81.png?v=1763909144
     Price: €54.99 EUR
   - [Black suit 1 / XL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051291473)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/096DC681-3465-412C-BD38-41C293E62F81.png?v=1759782280
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/096DC681-3465-412C-BD38-41C293E62F81.png?v=1763909144
     Price: €54.99 EUR
   - [Black suit 1 / XXL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051324241)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/096DC681-3465-412C-BD38-41C293E62F81.png?v=1759782280
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/096DC681-3465-412C-BD38-41C293E62F81.png?v=1763909144
     Price: €54.99 EUR
   - [Black suit / S](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051357009)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A3E501D8-1948-4BE6-9D4A-2ADFA27B8248.png?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A3E501D8-1948-4BE6-9D4A-2ADFA27B8248.png?v=1763909144
     Price: €54.99 EUR
   - [Black suit / M](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051389777)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A3E501D8-1948-4BE6-9D4A-2ADFA27B8248.png?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A3E501D8-1948-4BE6-9D4A-2ADFA27B8248.png?v=1763909144
     Price: €54.99 EUR
   - [Grey suit / M](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051422545)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/27D7CEAC-0130-4F65-B1A5-D48F66CE10E5.png?v=1759782278
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/27D7CEAC-0130-4F65-B1A5-D48F66CE10E5.png?v=1763909144
     Price: €54.99 EUR
   - [Grey suit / L](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051455313)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/27D7CEAC-0130-4F65-B1A5-D48F66CE10E5.png?v=1759782278
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/27D7CEAC-0130-4F65-B1A5-D48F66CE10E5.png?v=1763909144
     Price: €54.99 EUR
   - [Grey suit / XL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051488081)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/27D7CEAC-0130-4F65-B1A5-D48F66CE10E5.png?v=1759782278
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/27D7CEAC-0130-4F65-B1A5-D48F66CE10E5.png?v=1763909144
     Price: €54.99 EUR
   - [Grey suit / XXL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051520849)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/27D7CEAC-0130-4F65-B1A5-D48F66CE10E5.png?v=1759782278
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/27D7CEAC-0130-4F65-B1A5-D48F66CE10E5.png?v=1763909144
     Price: €54.99 EUR
   - [Rose red trousers / XL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051553617)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S1a7dec5bae4445c68f269276fc1671dcH.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S1a7dec5bae4445c68f269276fc1671dcH.webp?v=1763909144
     Price: €37.99 EUR
   - [Rose red trousers / XXL](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051586385)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S1a7dec5bae4445c68f269276fc1671dcH.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S1a7dec5bae4445c68f269276fc1671dcH.webp?v=1763909144
     Price: €37.99 EUR
   - [Green trousers / S](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051619153)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sff3eacce3aac421284b7b361fae2d249j.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sff3eacce3aac421284b7b361fae2d249j.webp?v=1763909144
     Price: €37.99 EUR
   - [Green trousers / M](https://mldrip.com/products/y2k-retro-streetwear-hoodie-set?variant=52054051651921)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sff3eacce3aac421284b7b361fae2d249j.webp?v=1759782462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sff3eacce3aac421284b7b361fae2d249j.webp?v=1763909144
     Price: €37.99 EUR
 - [Unisex Straight Leg Pants](https://mldrip.com/products/unisex-straight-leg-pants): SPECIFICATIONS Applicable Scene: Shopping Applicable Season: Four Seasons Closure Type: Elastic Waist Craft of Weaving: Tatting Decoration: Embroidery Fit Type: Loose Gender: Men Hign-concerned Chemical: None Length: Ankle-Length Pants Material: POLYESTER Pant Style: Straight Style: High Street Thickness: Midweight Waist Size(in inches): - Waist Type: MID 2025 Fashion Embroidery Casual Slim Pants Y2k Street Wearing Solid Color Sport Pants Men and Women Couple Straight Leg Pants Hot Pants Size S Waist:78cm Hips:108cm Length:104cm slack bottom:50cm M Waist:80cm Hips:110cm Length:105cm slack bottom:52cm L Waist:84cm Hips:114cm Length:106cm slack bottom:53cm XL Waist:88cm Hips:118cm Length:107cm slack bottom:54cm XXL Waist:92cm Hips:122cm Length:108cm slack bottom:55cm sometimes has some errors, but always within 3cm." Please note 1 cm = 0.39 inch,1 inch = 2.54 cm. Please feel free to contact us when finding difficulty in choosing size,we will give you the best option.
-  Updated: 2025-11-20T11:29:01Z
+  Updated: 2025-11-23T14:39:54Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/54E64970-FC1F-4669-A9E1-776D21136573.png?v=1759780695
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/54E64970-FC1F-4669-A9E1-776D21136573_bd6775f5-a3d9-48ca-b907-5150a9486c8c.png?v=1763908794
   - [S / 1](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054074523985)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B9DF4195-E5D3-4681-9BB6-208B1BF9046C.png?v=1759780807
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B9DF4195-E5D3-4681-9BB6-208B1BF9046C.png?v=1763908794
     Price: €35.99 EUR
   - [S / 2](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054074556753)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AFA8FF87-CE00-4D26-A5A2-7D2CD63C90EB.png?v=1759780808
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AFA8FF87-CE00-4D26-A5A2-7D2CD63C90EB.png?v=1763908794
     Price: €35.99 EUR
   - [S / 5](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054074655057)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C960765-5BCD-463D-8C98-77980549F62A.png?v=1759780807
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C960765-5BCD-463D-8C98-77980549F62A.png?v=1763908794
     Price: €35.99 EUR
   - [S / 555](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054074687825)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/E6280FBB-88E7-4E12-88A1-E5817BC6AA69.png?v=1759780806
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/E6280FBB-88E7-4E12-88A1-E5817BC6AA69.png?v=1763908794
     Price: €34.99 EUR
   - [S / 3](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054074720593)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C79AD5BB-EA0E-467A-9232-A873A47D9F3B.png?v=1759780807
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C79AD5BB-EA0E-467A-9232-A873A47D9F3B.png?v=1763908794
     Price: €35.99 EUR
   - [S / 4](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054074753361)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/895F5B5D-7178-4B10-9201-B7689BDDEBEA.png?v=1759780696
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/895F5B5D-7178-4B10-9201-B7689BDDEBEA.png?v=1763908794
     Price: €35.99 EUR
   - [M / 1](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054075310417)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B9DF4195-E5D3-4681-9BB6-208B1BF9046C.png?v=1759780807
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B9DF4195-E5D3-4681-9BB6-208B1BF9046C.png?v=1763908794
     Price: €34.99 EUR
   - [M / 2](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054075343185)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AFA8FF87-CE00-4D26-A5A2-7D2CD63C90EB.png?v=1759780808
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AFA8FF87-CE00-4D26-A5A2-7D2CD63C90EB.png?v=1763908794
     Price: €35.99 EUR
   - [M / 5](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054075375953)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C960765-5BCD-463D-8C98-77980549F62A.png?v=1759780807
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C960765-5BCD-463D-8C98-77980549F62A.png?v=1763908794
     Price: €35.99 EUR
   - [M / 555](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054075408721)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/E6280FBB-88E7-4E12-88A1-E5817BC6AA69.png?v=1759780806
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/E6280FBB-88E7-4E12-88A1-E5817BC6AA69.png?v=1763908794
     Price: €34.99 EUR
   - [M / 3](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054075441489)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C79AD5BB-EA0E-467A-9232-A873A47D9F3B.png?v=1759780807
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C79AD5BB-EA0E-467A-9232-A873A47D9F3B.png?v=1763908794
     Price: €35.99 EUR
   - [M / 4](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054075474257)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/895F5B5D-7178-4B10-9201-B7689BDDEBEA.png?v=1759780696
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/895F5B5D-7178-4B10-9201-B7689BDDEBEA.png?v=1763908794
     Price: €35.99 EUR
   - [L / 1](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054075113809)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B9DF4195-E5D3-4681-9BB6-208B1BF9046C.png?v=1759780807
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B9DF4195-E5D3-4681-9BB6-208B1BF9046C.png?v=1763908794
     Price: €34.99 EUR
   - [L / 2](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054075146577)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AFA8FF87-CE00-4D26-A5A2-7D2CD63C90EB.png?v=1759780808
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AFA8FF87-CE00-4D26-A5A2-7D2CD63C90EB.png?v=1763908794
     Price: €35.99 EUR
   - [L / 5](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054075244881)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C960765-5BCD-463D-8C98-77980549F62A.png?v=1759780807
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C960765-5BCD-463D-8C98-77980549F62A.png?v=1763908794
     Price: €35.99 EUR
   - [L / 555](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054075277649)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/E6280FBB-88E7-4E12-88A1-E5817BC6AA69.png?v=1759780806
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/E6280FBB-88E7-4E12-88A1-E5817BC6AA69.png?v=1763908794
     Price: €34.99 EUR
   - [L / 3](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054075048273)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C79AD5BB-EA0E-467A-9232-A873A47D9F3B.png?v=1759780807
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C79AD5BB-EA0E-467A-9232-A873A47D9F3B.png?v=1763908794
     Price: €35.99 EUR
   - [L / 4](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054075081041)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/895F5B5D-7178-4B10-9201-B7689BDDEBEA.png?v=1759780696
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/895F5B5D-7178-4B10-9201-B7689BDDEBEA.png?v=1763908794
     Price: €35.99 EUR
   - [XL / 1](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054075179345)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B9DF4195-E5D3-4681-9BB6-208B1BF9046C.png?v=1759780807
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B9DF4195-E5D3-4681-9BB6-208B1BF9046C.png?v=1763908794
     Price: €34.99 EUR
   - [XL / 2](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054075212113)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AFA8FF87-CE00-4D26-A5A2-7D2CD63C90EB.png?v=1759780808
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AFA8FF87-CE00-4D26-A5A2-7D2CD63C90EB.png?v=1763908794
     Price: €35.99 EUR
   - [XL / 5](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054074786129)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C960765-5BCD-463D-8C98-77980549F62A.png?v=1759780807
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C960765-5BCD-463D-8C98-77980549F62A.png?v=1763908794
     Price: €35.99 EUR
   - [XL / 555](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054074818897)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/E6280FBB-88E7-4E12-88A1-E5817BC6AA69.png?v=1759780806
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/E6280FBB-88E7-4E12-88A1-E5817BC6AA69.png?v=1763908794
     Price: €34.99 EUR
   - [XL / 3](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054074851665)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C79AD5BB-EA0E-467A-9232-A873A47D9F3B.png?v=1759780807
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C79AD5BB-EA0E-467A-9232-A873A47D9F3B.png?v=1763908794
     Price: €35.99 EUR
   - [XL / 4](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054074884433)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/895F5B5D-7178-4B10-9201-B7689BDDEBEA.png?v=1759780696
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/895F5B5D-7178-4B10-9201-B7689BDDEBEA.png?v=1763908794
     Price: €35.99 EUR
   - [XXL / 1](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054074982737)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B9DF4195-E5D3-4681-9BB6-208B1BF9046C.png?v=1759780807
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B9DF4195-E5D3-4681-9BB6-208B1BF9046C.png?v=1763908794
     Price: €34.99 EUR
   - [XXL / 2](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054075015505)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AFA8FF87-CE00-4D26-A5A2-7D2CD63C90EB.png?v=1759780808
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AFA8FF87-CE00-4D26-A5A2-7D2CD63C90EB.png?v=1763908794
     Price: €33.99 EUR
   - [XXL / 5](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054074589521)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C960765-5BCD-463D-8C98-77980549F62A.png?v=1759780807
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C960765-5BCD-463D-8C98-77980549F62A.png?v=1763908794
     Price: €35.99 EUR
   - [XXL / 555](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054074622289)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/E6280FBB-88E7-4E12-88A1-E5817BC6AA69.png?v=1759780806
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/E6280FBB-88E7-4E12-88A1-E5817BC6AA69.png?v=1763908794
     Price: €34.99 EUR
   - [XXL / 3](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054074917201)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C79AD5BB-EA0E-467A-9232-A873A47D9F3B.png?v=1759780807
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C79AD5BB-EA0E-467A-9232-A873A47D9F3B.png?v=1763908794
     Price: €35.99 EUR
   - [XXL / 4](https://mldrip.com/products/unisex-straight-leg-pants?variant=52054074949969)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/895F5B5D-7178-4B10-9201-B7689BDDEBEA.png?v=1759780696
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/895F5B5D-7178-4B10-9201-B7689BDDEBEA.png?v=1763908794
     Price: €35.99 EUR
 - [Gothic Streetwear Oversized Hoodie Set](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set): SPECIFICATIONS Applicable Scene: Daily Applicable Season: Four Seasons Closure Type: Zipper Craft of Weaving: Tatting Hign-concerned Chemical: None Material: COTTON,POLYESTER Pattern Type: Print Sleeve Length(cm): Full Style: HIP HOP Thickness: Standard whether full opening: Yes Hoodies Size Table S: Shoulder:59cm Bust:122cm Length:71cm Sleeve:50cm M: Shoulder:61cm Bust:126cm Length:73cm Sleeve:51cm L: Shoulder:63cm Bust:130cm Length:75cm Sleeve:52cm XL: Shoulder:65cm Bust:134cm Length:77cm Sleeve:53cm 2XL:Shoulder:67cm Bust:138cm Length:79cm Sleeve:54cm 3XL:Shoulder:69cm Bust:142cm Length:81cm Sleeve:55cm pants Size Table S: Length:94cm WAIST:72cm HIP:98cm Thigh:60cm M:Length:96cm WAIST:76cm HIP:102cm Thigh:62cm L:Length:98cm WAIST:80cm HIP:106cm Thigh:64cm XL:Length:100cm WAIST:84cm HIP:110cm Thigh:66cm 2XL:Length:102cm WAIST:88cm HIP:114cm Thigh:68cm 3XL:Length:104cm WAIST:92cm HIP:118cm Thigh:70cm Size mearsured by ourselves, sometimes has some errors, but always within 3cm." Please note 1 cm = 0.39 inch,1 inch = 2.54 cm. Please feel free to contact us when finding difficulty in choosing size,we will give you the best option.
-  Updated: 2025-11-20T11:29:01Z
+  Updated: 2025-11-22T23:36:10Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/17BA7CA6-571F-4640-9EA1-B21937B77EA7.png?v=1759778852
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5303.png?v=1763811397
   - [3 / S](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096019793)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BB4EF939-2821-43F4-8A1E-0E4384FDC1FA.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BB4EF939-2821-43F4-8A1E-0E4384FDC1FA.png?v=1763811363
     Price: €33.99 EUR
   - [3 / M](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096052561)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BB4EF939-2821-43F4-8A1E-0E4384FDC1FA.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BB4EF939-2821-43F4-8A1E-0E4384FDC1FA.png?v=1763811363
     Price: €33.99 EUR
   - [3 / L](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096085329)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BB4EF939-2821-43F4-8A1E-0E4384FDC1FA.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BB4EF939-2821-43F4-8A1E-0E4384FDC1FA.png?v=1763811363
     Price: €33.99 EUR
   - [3 / XL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096118097)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BB4EF939-2821-43F4-8A1E-0E4384FDC1FA.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BB4EF939-2821-43F4-8A1E-0E4384FDC1FA.png?v=1763811363
     Price: €33.99 EUR
   - [2 / L](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096150865)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CBAD77E9-BA44-4CCC-BDCF-E4943C01306F.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CBAD77E9-BA44-4CCC-BDCF-E4943C01306F.png?v=1763811363
     Price: €33.99 EUR
   - [2 / XL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096183633)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CBAD77E9-BA44-4CCC-BDCF-E4943C01306F.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CBAD77E9-BA44-4CCC-BDCF-E4943C01306F.png?v=1763811363
     Price: €33.99 EUR
   - [2 / XXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096216401)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CBAD77E9-BA44-4CCC-BDCF-E4943C01306F.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CBAD77E9-BA44-4CCC-BDCF-E4943C01306F.png?v=1763811363
     Price: €33.99 EUR
   - [2 / XXXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096249169)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CBAD77E9-BA44-4CCC-BDCF-E4943C01306F.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CBAD77E9-BA44-4CCC-BDCF-E4943C01306F.png?v=1763811363
     Price: €33.99 EUR
   - [1 / XXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096281937)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4D53DF2A-EE3B-4C17-8E77-E97AB2632281.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4D53DF2A-EE3B-4C17-8E77-E97AB2632281.png?v=1763811363
     Price: €33.99 EUR
   - [1 / XXXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096314705)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4D53DF2A-EE3B-4C17-8E77-E97AB2632281.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4D53DF2A-EE3B-4C17-8E77-E97AB2632281.png?v=1763811363
     Price: €33.99 EUR
   - [2 / S](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096347473)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CBAD77E9-BA44-4CCC-BDCF-E4943C01306F.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CBAD77E9-BA44-4CCC-BDCF-E4943C01306F.png?v=1763811363
     Price: €33.99 EUR
   - [2 / M](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096380241)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CBAD77E9-BA44-4CCC-BDCF-E4943C01306F.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/CBAD77E9-BA44-4CCC-BDCF-E4943C01306F.png?v=1763811363
     Price: €33.99 EUR
   - [1 / S](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096413009)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4D53DF2A-EE3B-4C17-8E77-E97AB2632281.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4D53DF2A-EE3B-4C17-8E77-E97AB2632281.png?v=1763811363
     Price: €33.99 EUR
   - [1 / M](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096445777)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4D53DF2A-EE3B-4C17-8E77-E97AB2632281.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4D53DF2A-EE3B-4C17-8E77-E97AB2632281.png?v=1763811363
     Price: €33.99 EUR
   - [1 / L](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096478545)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4D53DF2A-EE3B-4C17-8E77-E97AB2632281.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4D53DF2A-EE3B-4C17-8E77-E97AB2632281.png?v=1763811363
     Price: €33.99 EUR
   - [1 / XL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096511313)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4D53DF2A-EE3B-4C17-8E77-E97AB2632281.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4D53DF2A-EE3B-4C17-8E77-E97AB2632281.png?v=1763811363
     Price: €33.99 EUR
   - [5 / XXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096544081)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1D0FD97F-5138-4215-8EC8-18FAEED8B685.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1D0FD97F-5138-4215-8EC8-18FAEED8B685.png?v=1763811363
     Price: €33.99 EUR
   - [5 / XXXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096576849)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1D0FD97F-5138-4215-8EC8-18FAEED8B685.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1D0FD97F-5138-4215-8EC8-18FAEED8B685.png?v=1763811363
     Price: €33.99 EUR
   - [6 / S](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096609617)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/26456C87-B2AA-42CB-A8B7-150A28B7FB2D.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/26456C87-B2AA-42CB-A8B7-150A28B7FB2D.png?v=1763811363
     Price: €33.99 EUR
   - [6 / M](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096642385)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/26456C87-B2AA-42CB-A8B7-150A28B7FB2D.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/26456C87-B2AA-42CB-A8B7-150A28B7FB2D.png?v=1763811363
     Price: €33.99 EUR
   - [5 / S](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096675153)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1D0FD97F-5138-4215-8EC8-18FAEED8B685.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1D0FD97F-5138-4215-8EC8-18FAEED8B685.png?v=1763811363
     Price: €33.99 EUR
   - [5 / M](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096707921)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1D0FD97F-5138-4215-8EC8-18FAEED8B685.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1D0FD97F-5138-4215-8EC8-18FAEED8B685.png?v=1763811363
     Price: €33.99 EUR
   - [5 / L](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096740689)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1D0FD97F-5138-4215-8EC8-18FAEED8B685.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1D0FD97F-5138-4215-8EC8-18FAEED8B685.png?v=1763811363
     Price: €33.99 EUR
   - [5 / XL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096773457)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1D0FD97F-5138-4215-8EC8-18FAEED8B685.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1D0FD97F-5138-4215-8EC8-18FAEED8B685.png?v=1763811363
     Price: €33.99 EUR
   - [4 / L](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096806225)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/38EA09E0-0020-4C8D-9D9B-E6F7D1278F6A.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/38EA09E0-0020-4C8D-9D9B-E6F7D1278F6A.png?v=1763811363
     Price: €33.99 EUR
   - [4 / XL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096838993)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/38EA09E0-0020-4C8D-9D9B-E6F7D1278F6A.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/38EA09E0-0020-4C8D-9D9B-E6F7D1278F6A.png?v=1763811363
     Price: €33.99 EUR
   - [4 / XXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096871761)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/38EA09E0-0020-4C8D-9D9B-E6F7D1278F6A.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/38EA09E0-0020-4C8D-9D9B-E6F7D1278F6A.png?v=1763811363
     Price: €33.99 EUR
   - [4 / XXXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096904529)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/38EA09E0-0020-4C8D-9D9B-E6F7D1278F6A.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/38EA09E0-0020-4C8D-9D9B-E6F7D1278F6A.png?v=1763811363
     Price: €33.99 EUR
   - [3 / XXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096937297)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BB4EF939-2821-43F4-8A1E-0E4384FDC1FA.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BB4EF939-2821-43F4-8A1E-0E4384FDC1FA.png?v=1763811363
     Price: €33.99 EUR
   - [3 / XXXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054096970065)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BB4EF939-2821-43F4-8A1E-0E4384FDC1FA.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BB4EF939-2821-43F4-8A1E-0E4384FDC1FA.png?v=1763811363
     Price: €33.99 EUR
   - [4 / S](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097002833)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/38EA09E0-0020-4C8D-9D9B-E6F7D1278F6A.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/38EA09E0-0020-4C8D-9D9B-E6F7D1278F6A.png?v=1763811363
     Price: €33.99 EUR
   - [4 / M](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097035601)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/38EA09E0-0020-4C8D-9D9B-E6F7D1278F6A.png?v=1759778853
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/38EA09E0-0020-4C8D-9D9B-E6F7D1278F6A.png?v=1763811363
     Price: €33.99 EUR
   - [8 / L](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097068369)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/17BA7CA6-571F-4640-9EA1-B21937B77EA7.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/17BA7CA6-571F-4640-9EA1-B21937B77EA7.png?v=1763811363
     Price: €52.99 EUR
   - [8 / XL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097101137)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/17BA7CA6-571F-4640-9EA1-B21937B77EA7.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/17BA7CA6-571F-4640-9EA1-B21937B77EA7.png?v=1763811363
     Price: €52.99 EUR
   - [8 / XXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097133905)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/17BA7CA6-571F-4640-9EA1-B21937B77EA7.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/17BA7CA6-571F-4640-9EA1-B21937B77EA7.png?v=1763811363
     Price: €52.99 EUR
   - [8 / XXXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097166673)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/17BA7CA6-571F-4640-9EA1-B21937B77EA7.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/17BA7CA6-571F-4640-9EA1-B21937B77EA7.png?v=1763811363
     Price: €52.99 EUR
   - [7 / XXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097199441)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4E9478BE-4FBC-47C9-81B0-634E909A5011.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4E9478BE-4FBC-47C9-81B0-634E909A5011.png?v=1763811363
     Price: €52.99 EUR
   - [7 / XXXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097232209)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4E9478BE-4FBC-47C9-81B0-634E909A5011.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4E9478BE-4FBC-47C9-81B0-634E909A5011.png?v=1763811363
     Price: €52.99 EUR
   - [8 / S](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097264977)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/17BA7CA6-571F-4640-9EA1-B21937B77EA7.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/17BA7CA6-571F-4640-9EA1-B21937B77EA7.png?v=1763811363
     Price: €52.99 EUR
   - [8 / M](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097297745)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/17BA7CA6-571F-4640-9EA1-B21937B77EA7.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/17BA7CA6-571F-4640-9EA1-B21937B77EA7.png?v=1763811363
     Price: €52.99 EUR
   - [7 / S](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097330513)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4E9478BE-4FBC-47C9-81B0-634E909A5011.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4E9478BE-4FBC-47C9-81B0-634E909A5011.png?v=1763811363
     Price: €52.99 EUR
   - [7 / M](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097363281)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4E9478BE-4FBC-47C9-81B0-634E909A5011.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4E9478BE-4FBC-47C9-81B0-634E909A5011.png?v=1763811363
     Price: €52.99 EUR
   - [7 / L](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097396049)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4E9478BE-4FBC-47C9-81B0-634E909A5011.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4E9478BE-4FBC-47C9-81B0-634E909A5011.png?v=1763811363
     Price: €52.99 EUR
   - [7 / XL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097428817)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4E9478BE-4FBC-47C9-81B0-634E909A5011.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4E9478BE-4FBC-47C9-81B0-634E909A5011.png?v=1763811363
     Price: €52.99 EUR
   - [6 / L](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097461585)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/26456C87-B2AA-42CB-A8B7-150A28B7FB2D.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/26456C87-B2AA-42CB-A8B7-150A28B7FB2D.png?v=1763811363
     Price: €33.99 EUR
   - [6 / XL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097494353)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/26456C87-B2AA-42CB-A8B7-150A28B7FB2D.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/26456C87-B2AA-42CB-A8B7-150A28B7FB2D.png?v=1763811363
     Price: €33.99 EUR
   - [6 / XXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097527121)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/26456C87-B2AA-42CB-A8B7-150A28B7FB2D.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/26456C87-B2AA-42CB-A8B7-150A28B7FB2D.png?v=1763811363
     Price: €33.99 EUR
   - [6 / XXXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097559889)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/26456C87-B2AA-42CB-A8B7-150A28B7FB2D.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/26456C87-B2AA-42CB-A8B7-150A28B7FB2D.png?v=1763811363
     Price: €33.99 EUR
   - [9 / XXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097592657)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/9336CAF8-21D4-4A65-8686-9FDBD4579E68.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/9336CAF8-21D4-4A65-8686-9FDBD4579E68.png?v=1763811363
     Price: €52.99 EUR
   - [9 / XXXL](https://mldrip.com/products/gothic-streetwear-oversized-hoodie-set?variant=52054097625425)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/9336CAF8-21D4-4A65-8686-9FDBD4579E68.png?v=1759778852
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/9336CAF8-21D4-4A65-8686-9FDBD4579E68.png?v=1763811363
     Price: €52.99 EUR
 - [Baggy Wide-Leg Jeans](https://mldrip.com/products/baggy-wide-leg-jeans): SPECIFICATIONS Applicable Scene: Dance Applicable Season: Four Seasons Closure Type: Zipper Fly Country Preference: General Craft of Weaving: Knit Elasticity: Non Strech Fabric Type: Plaid Gender: Men Hign-concerned Chemical: None Item Type: JEANS Jeans Style: Loose Jeans Length: full length Material: Denim,COTTON Special Size: Standard Size Style: High Street Waist Type: low Wash: light size_info: {"sizeInfoList":[{"length":{"cm":"68","inch":"26.77"},"size":"S","vid":-1},{"length":{"cm":"72","inch":"28.35"},"size":"M","vid":-2},{"length":{"cm":"76","inch":"29.92"},"size":"L","vid":-3},{"length":{"cm":"80","inch":"31.50"},"size":"XL","vid":-4},{"length":{"cm":"84","inch":"33.07"},"size":"XXL","vid":-5},{"length":{"cm":"88","inch":"34.65"},"size":"XXXL","vid":-6}]} Warm Tip :1、Conversion:1inch=2.54cm, 1cm=0.394inches2、Please follow the size chart to select the size but not select directly according to your habits.3、Please be reminded that due lighting effects, monitor's brightness/contrast settings etc, there could be some slight differences in the colour tone of the website's photo and the actual item.4、Item Measure by hand, it could be 1-3cm different,your kind understanding will be much appreciated. Size Length Waist Hip S 100 70 110 M 102 74 114 L 104 78 118 XL 106 82 122 2XL 108 86 126 3XL 110 90 130 height weight Recommended 155-165CM 40-50KG S 160-170CM 50-60KG M 160-175CM 60-67.5KG L 165-180CM 67.5-75KG XL 170-185CM 75-82.5KG 2XL 175-190CM 82.5-90KG 3XL
-  Updated: 2025-11-20T11:29:01Z
+  Updated: 2025-11-23T00:16:38Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sddc7a3aa6cec425cac14bc0772f3eecav.webp?v=1759774376
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S61a52c95686a49499e5ea5692407dc23o.webp?v=1763811436
   - [8 / L(60-67.5)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116237649)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Se50ea9975a4c485b905d578bfdd34a86C.webp?v=1759774376
     Price: €47.99 EUR
   - [7 / XXXL(82.5-90)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116270417)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sd15958139c484ae2a3fd4183f7bfa41ca.webp?v=1759774376
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sd15958139c484ae2a3fd4183f7bfa41ca.webp?v=1763811436
     Price: €47.99 EUR
   - [8 / M(50-60)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116303185)
     Availability: Available
@@ -12666,7 +12666,7 @@
     Price: €47.99 EUR
   - [6 / XXXL(82.5-90)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116335953)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sddc7a3aa6cec425cac14bc0772f3eecav.webp?v=1759774376
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sddc7a3aa6cec425cac14bc0772f3eecav.webp?v=1763811436
     Price: €47.99 EUR
   - [8 / XXL(75-82.5)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116368721)
     Availability: Available
@@ -12674,7 +12674,7 @@
     Price: €47.99 EUR
   - [5 / XXXL(82.5-90)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116401489)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S95b2df494e204b3590f2b22ac65d6003q.webp?v=1759774376
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S95b2df494e204b3590f2b22ac65d6003q.webp?v=1763811436
     Price: €47.99 EUR
   - [8 / XL(67.5-75)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116434257)
     Availability: Available
@@ -12686,7 +12686,7 @@
     Price: €47.99 EUR
   - [11 / XXXL(82.5-90)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116499793)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Seed10cec56ef4dfca21c84fd177da389b.webp?v=1759774376
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Seed10cec56ef4dfca21c84fd177da389b.webp?v=1763811436
     Price: €47.99 EUR
   - [10 / XXXL(82.5-90)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116532561)
     Availability: Available
@@ -12698,7 +12698,7 @@
     Price: €47.99 EUR
   - [9 / XXXL(82.5-90)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116598097)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc355f141199c482fa19a5045c3cc6e05t.webp?v=1759774375
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc355f141199c482fa19a5045c3cc6e05t.webp?v=1763811436
     Price: €47.99 EUR
   - [8 / XXXL(82.5-90)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116630865)
     Availability: Available
@@ -12706,11 +12706,11 @@
     Price: €47.99 EUR
   - [9 / XXL(75-82.5)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116663633)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc355f141199c482fa19a5045c3cc6e05t.webp?v=1759774375
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc355f141199c482fa19a5045c3cc6e05t.webp?v=1763811436
     Price: €47.99 EUR
   - [9 / XL(67.5-75)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116696401)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc355f141199c482fa19a5045c3cc6e05t.webp?v=1759774375
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc355f141199c482fa19a5045c3cc6e05t.webp?v=1763811436
     Price: €47.99 EUR
   - [10 / S(40-50)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116729169)
     Availability: Available
@@ -12718,31 +12718,31 @@
     Price: €47.99 EUR
   - [1 / S(40-50)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116761937)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa6cdfed4568344f19fe142f791254ba5A.webp?v=1759774376
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa6cdfed4568344f19fe142f791254ba5A.webp?v=1763811436
     Price: €47.99 EUR
   - [9 / S(40-50)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116794705)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc355f141199c482fa19a5045c3cc6e05t.webp?v=1759774375
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc355f141199c482fa19a5045c3cc6e05t.webp?v=1763811436
     Price: €47.99 EUR
   - [9 / L(60-67.5)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116827473)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc355f141199c482fa19a5045c3cc6e05t.webp?v=1759774375
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc355f141199c482fa19a5045c3cc6e05t.webp?v=1763811436
     Price: €47.99 EUR
   - [9 / M(50-60)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116860241)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc355f141199c482fa19a5045c3cc6e05t.webp?v=1759774375
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc355f141199c482fa19a5045c3cc6e05t.webp?v=1763811436
     Price: €47.99 EUR
   - [11 / S(40-50)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116893009)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Seed10cec56ef4dfca21c84fd177da389b.webp?v=1759774376
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Seed10cec56ef4dfca21c84fd177da389b.webp?v=1763811436
     Price: €47.99 EUR
   - [11 / L(60-67.5)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116925777)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Seed10cec56ef4dfca21c84fd177da389b.webp?v=1759774376
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Seed10cec56ef4dfca21c84fd177da389b.webp?v=1763811436
     Price: €47.99 EUR
   - [11 / M(50-60)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116958545)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Seed10cec56ef4dfca21c84fd177da389b.webp?v=1759774376
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Seed10cec56ef4dfca21c84fd177da389b.webp?v=1763811436
     Price: €47.99 EUR
   - [10 / L(60-67.5)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054116991313)
     Availability: Available
@@ -12762,11 +12762,11 @@
     Price: €47.99 EUR
   - [11 / XXL(75-82.5)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054117122385)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Seed10cec56ef4dfca21c84fd177da389b.webp?v=1759774376
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Seed10cec56ef4dfca21c84fd177da389b.webp?v=1763811436
     Price: €47.99 EUR
   - [11 / XL(67.5-75)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054117155153)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Seed10cec56ef4dfca21c84fd177da389b.webp?v=1759774376
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Seed10cec56ef4dfca21c84fd177da389b.webp?v=1763811436
     Price: €47.99 EUR
   - [3 / S(40-50)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054117187921)
     Availability: Available
@@ -12802,19 +12802,19 @@
     Price: €47.99 EUR
   - [1 / M(50-60)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054117450065)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa6cdfed4568344f19fe142f791254ba5A.webp?v=1759774376
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa6cdfed4568344f19fe142f791254ba5A.webp?v=1763811436
     Price: €47.99 EUR
   - [1 / L(60-67.5)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054117482833)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa6cdfed4568344f19fe142f791254ba5A.webp?v=1759774376
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa6cdfed4568344f19fe142f791254ba5A.webp?v=1763811436
     Price: €47.99 EUR
   - [1 / XL(67.5-75)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054117515601)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa6cdfed4568344f19fe142f791254ba5A.webp?v=1759774376
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa6cdfed4568344f19fe142f791254ba5A.webp?v=1763811436
     Price: €47.99 EUR
   - [1 / XXL(75-82.5)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054117548369)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa6cdfed4568344f19fe142f791254ba5A.webp?v=1759774376
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa6cdfed4568344f19fe142f791254ba5A.webp?v=1763811436
     Price: €47.99 EUR
   - [3 / XXXL(82.5-90)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054117581137)
     Availability: Available
@@ -12822,27 +12822,27 @@
     Price: €47.99 EUR
   - [2 / XXXL(82.5-90)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054117613905)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S65cdb344607145d5b73ef71a32e8d23ay.webp?v=1759774375
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S65cdb344607145d5b73ef71a32e8d23ay.webp?v=1763811436
     Price: €47.99 EUR
   - [1 / XXXL(82.5-90)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054117646673)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa6cdfed4568344f19fe142f791254ba5A.webp?v=1759774376
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa6cdfed4568344f19fe142f791254ba5A.webp?v=1763811436
     Price: €47.99 EUR
   - [12 / XXL(75-82.5)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054117679441)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S61a52c95686a49499e5ea5692407dc23o.webp?v=1759774375
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S61a52c95686a49499e5ea5692407dc23o.webp?v=1763811436
     Price: €47.99 EUR
   - [12 / XXXL(82.5-90)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054117712209)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S61a52c95686a49499e5ea5692407dc23o.webp?v=1759774375
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S61a52c95686a49499e5ea5692407dc23o.webp?v=1763811436
     Price: €47.99 EUR
   - [12 / L(60-67.5)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054117744977)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S61a52c95686a49499e5ea5692407dc23o.webp?v=1759774375
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S61a52c95686a49499e5ea5692407dc23o.webp?v=1763811436
     Price: €47.99 EUR
   - [12 / XL(67.5-75)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054117777745)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S61a52c95686a49499e5ea5692407dc23o.webp?v=1759774375
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S61a52c95686a49499e5ea5692407dc23o.webp?v=1763811436
     Price: €47.99 EUR
   - [13 / L(60-67.5)kg](https://mldrip.com/products/baggy-wide-leg-jeans?variant=52054117810513)
     Availability: Available
@@ -12919,82 +12919,82 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S09a2a0e32e054c90b4b767cb369d2bcfP.webp?v=1759781029
     Price: €43.99 EUR
 - [High Street Tracksuit Set](https://mldrip.com/products/high-street-tracksuit-set): SPECIFICATIONS Applicable Scene: Daily Applicable Season: Four Seasons Closure Type: Zipper Craft of Weaving: Tatting Decoration: Pockets Gender: Men Hign-concerned Chemical: None Material: COTTON,POLYESTER Pant Closure Type: Zipper Fly Sleeve Length(cm): Full Style: HIP HOP Thickness: Standard whether full opening: Yes Hoodies Size TableS: Shoulder:59cm Bust:122cm Length:71cm Sleeve:50cmM: Shoulder:61cm Bust:126cm Length:73cm Sleeve:51cmL: Shoulder:63cm Bust:130cm Length:75cm Sleeve:52cmXL: Shoulder:65cm Bust:134cm Length:77cm Sleeve:53cm2XL:Shoulder:67cm Bust:138cm Length:79cm Sleeve:54cm3XL:Shoulder:69cm Bust:142cm Length:81cm Sleeve:55cmpants Size TableS: Length:94cm WAIST:72cm HIP:98cm Thigh:60cmM:Length:96cm WAIST:76cm HIP:102cm Thigh:62cmL:Length:98cm WAIST:80cm HIP:106cm Thigh:64cmXL:Length:100cm WAIST:84cm HIP:110cm Thigh:66cm2XL:Length:102cm WAIST:88cm HIP:114cm Thigh:68cm3XL:Length:104cm WAIST:92cm HIP:118cm Thigh:70cmSize mearsured by ourselves, sometimes has some errors, but always within 3cm." Please note 1 cm = 0.39 inch,1 inch = 2.54 cm. Please feel free to contact us when finding difficulty in choosing size,we will give you the best option.
-  Updated: 2025-11-20T11:29:01Z
+  Updated: 2025-11-23T14:47:23Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3AB9D002-5DA5-4876-8424-3C227F80F6E8.png?v=1759781122
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3AB9D002-5DA5-4876-8424-3C227F80F6E8_927d92ef-8b9e-4793-87d6-72845be4acef.png?v=1763909242
   - [1 / S](https://mldrip.com/products/high-street-tracksuit-set?variant=52054222831953)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5FB6A190-7365-418C-9F6D-32A646E3FEC2.png?v=1759781124
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5FB6A190-7365-418C-9F6D-32A646E3FEC2.png?v=1763909242
     Price: €37.99 EUR
   - [1 / M](https://mldrip.com/products/high-street-tracksuit-set?variant=52054222766417)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5FB6A190-7365-418C-9F6D-32A646E3FEC2.png?v=1759781124
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5FB6A190-7365-418C-9F6D-32A646E3FEC2.png?v=1763909242
     Price: €37.99 EUR
   - [1 / L](https://mldrip.com/products/high-street-tracksuit-set?variant=52054222700881)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5FB6A190-7365-418C-9F6D-32A646E3FEC2.png?v=1759781124
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5FB6A190-7365-418C-9F6D-32A646E3FEC2.png?v=1763909242
     Price: €37.99 EUR
   - [1 / XL](https://mldrip.com/products/high-street-tracksuit-set?variant=52054222635345)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5FB6A190-7365-418C-9F6D-32A646E3FEC2.png?v=1759781124
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5FB6A190-7365-418C-9F6D-32A646E3FEC2.png?v=1763909242
     Price: €37.99 EUR
   - [1 / XXL](https://mldrip.com/products/high-street-tracksuit-set?variant=52054222602577)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5FB6A190-7365-418C-9F6D-32A646E3FEC2.png?v=1759781124
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5FB6A190-7365-418C-9F6D-32A646E3FEC2.png?v=1763909242
     Price: €37.99 EUR
   - [1 / XXXL](https://mldrip.com/products/high-street-tracksuit-set?variant=52054222569809)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5FB6A190-7365-418C-9F6D-32A646E3FEC2.png?v=1759781124
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5FB6A190-7365-418C-9F6D-32A646E3FEC2.png?v=1763909242
     Price: €37.99 EUR
   - [1 1 / S](https://mldrip.com/products/high-street-tracksuit-set?variant=52054222799185)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3AB9D002-5DA5-4876-8424-3C227F80F6E8.png?v=1759781122
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3AB9D002-5DA5-4876-8424-3C227F80F6E8.png?v=1763909242
     Price: €58.99 EUR
   - [1 1 / M](https://mldrip.com/products/high-street-tracksuit-set?variant=52054222864721)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3AB9D002-5DA5-4876-8424-3C227F80F6E8.png?v=1759781122
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3AB9D002-5DA5-4876-8424-3C227F80F6E8.png?v=1763909242
     Price: €58.99 EUR
   - [1 1 / L](https://mldrip.com/products/high-street-tracksuit-set?variant=52054222668113)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3AB9D002-5DA5-4876-8424-3C227F80F6E8.png?v=1759781122
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3AB9D002-5DA5-4876-8424-3C227F80F6E8.png?v=1763909242
     Price: €58.99 EUR
   - [1 1 / XL](https://mldrip.com/products/high-street-tracksuit-set?variant=52054222733649)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3AB9D002-5DA5-4876-8424-3C227F80F6E8.png?v=1759781122
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3AB9D002-5DA5-4876-8424-3C227F80F6E8.png?v=1763909242
     Price: €58.99 EUR
   - [1 1 / XXL](https://mldrip.com/products/high-street-tracksuit-set?variant=52054223094097)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3AB9D002-5DA5-4876-8424-3C227F80F6E8.png?v=1759781122
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3AB9D002-5DA5-4876-8424-3C227F80F6E8.png?v=1763909242
     Price: €58.99 EUR
   - [1 1 / XXXL](https://mldrip.com/products/high-street-tracksuit-set?variant=52054223126865)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3AB9D002-5DA5-4876-8424-3C227F80F6E8.png?v=1759781122
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3AB9D002-5DA5-4876-8424-3C227F80F6E8.png?v=1763909242
     Price: €58.99 EUR
   - [1 2 / S](https://mldrip.com/products/high-street-tracksuit-set?variant=52054223061329)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/EE476E7D-EEEF-45E3-959E-B07E7FAAE28F.png?v=1759781123
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/EE476E7D-EEEF-45E3-959E-B07E7FAAE28F.png?v=1763909242
     Price: €37.99 EUR
   - [1 2 / M](https://mldrip.com/products/high-street-tracksuit-set?variant=52054223028561)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/EE476E7D-EEEF-45E3-959E-B07E7FAAE28F.png?v=1759781123
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/EE476E7D-EEEF-45E3-959E-B07E7FAAE28F.png?v=1763909242
     Price: €37.99 EUR
   - [1 2 / L](https://mldrip.com/products/high-street-tracksuit-set?variant=52054222995793)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/EE476E7D-EEEF-45E3-959E-B07E7FAAE28F.png?v=1759781123
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/EE476E7D-EEEF-45E3-959E-B07E7FAAE28F.png?v=1763909242
     Price: €37.99 EUR
   - [1 2 / XL](https://mldrip.com/products/high-street-tracksuit-set?variant=52054222963025)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/EE476E7D-EEEF-45E3-959E-B07E7FAAE28F.png?v=1759781123
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/EE476E7D-EEEF-45E3-959E-B07E7FAAE28F.png?v=1763909242
     Price: €37.99 EUR
   - [1 2 / XXL](https://mldrip.com/products/high-street-tracksuit-set?variant=52054222930257)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/EE476E7D-EEEF-45E3-959E-B07E7FAAE28F.png?v=1759781123
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/EE476E7D-EEEF-45E3-959E-B07E7FAAE28F.png?v=1763909242
     Price: €37.99 EUR
   - [1 2 / XXXL](https://mldrip.com/products/high-street-tracksuit-set?variant=52054222897489)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/EE476E7D-EEEF-45E3-959E-B07E7FAAE28F.png?v=1759781123
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/EE476E7D-EEEF-45E3-959E-B07E7FAAE28F.png?v=1763909242
     Price: €37.99 EUR
 - [Retro Zip-Up Hoodie Set](https://mldrip.com/products/retro-zip-up-hoodie-set): SPECIFICATIONS Applicable Scene: Trip Applicable Season: Four Seasons Closure Type: Zipper Craft of Weaving: Knit Gender: Men Hign-concerned Chemical: None Material: COTTON Sleeve Length(cm): Full Style: Casual Thickness: Standard whether full opening: Yes Size Table S: Shoulder:59cm Bust:122cm Length:60cm Sleeve:50cm M: Shoulder:61cm Bust:126cm Length:62cm Sleeve:51cm L: Shoulder:63cm Bust:130cm Length:64cm Sleeve:52cm XL: Shoulder:65cm Bust:134cm Length:66cm Sleeve:53cm 2XL:Shoulder:67cm Bust:138cm Length:68cm Sleeve:54cm 3XL:Shoulder:69cm Bust:142cm Length:70cm Sleeve:55cm Size mearsured by ourselves, sometimes has some errors, but always within 3cm." Please note 1 cm = 0.39 inch,1 inch = 2.54 cm. Please feel free to contact us when finding difficulty in choosing size,we will give you the best option.
   Updated: 2025-11-06T12:30:14Z
@@ -13413,82 +13413,82 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0DE85FCA-4ED3-459F-B2B2-18DF06DAB7DA.png?v=1759779228
     Price: €63.99 EUR
 - [Sleeveless Vest – Lightweight Layer, Heavy Style](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style): Keep it cool and confident with the Sleeveless Vest, the perfect mix of comfort, mobility, and street-ready style. Whether you’re hitting the gym, the streets, or just chilling, this vest levels up any fit with minimal effort. 🖤 Why You’ll Love It: Lightweight, breathable fabric – keeps you fresh during any activity Flexible design – full range of motion for training or layering Clean cut – simple look that works with cargos, shorts, or joggers Unisex fit – made for anyone who wants that clean, athletic aesthetic Perfect for summer days, workouts, or layering over a tee — this vest brings streetwear simplicity with performance comfort. 👉 Grab yours now and stay cool in every season.
-  Updated: 2025-11-06T12:30:15Z
+  Updated: 2025-11-22T23:27:48Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5F9BA42E-9DA1-4EB8-8919-11DE0FC98D56.png?v=1760564586
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5296.png?v=1763810856
   - [Grey Sleeveless Vest / M](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055334846801)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F5C9C24C-0D6B-4FC3-973A-9E5EA17D9473.png?v=1760564586
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F5C9C24C-0D6B-4FC3-973A-9E5EA17D9473.png?v=1763810863
     Price: €56.99 EUR
   - [Black Sleeveless Vest / M](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055334879569)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5F9BA42E-9DA1-4EB8-8919-11DE0FC98D56.png?v=1760564586
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5F9BA42E-9DA1-4EB8-8919-11DE0FC98D56.png?v=1763810863
     Price: €56.99 EUR
   - [White Sleeveless Vest / M](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055334912337)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F96B16B3-A71F-4BC0-8F09-216EEF551CFF.png?v=1759795234
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F96B16B3-A71F-4BC0-8F09-216EEF551CFF.png?v=1763810863
     Price: €56.99 EUR
   - [Grey Sleeveless Vest / L](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055335797073)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F5C9C24C-0D6B-4FC3-973A-9E5EA17D9473.png?v=1760564586
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F5C9C24C-0D6B-4FC3-973A-9E5EA17D9473.png?v=1763810863
     Price: €56.99 EUR
   - [Grey Sleeveless Vest / XL](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055335829841)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F5C9C24C-0D6B-4FC3-973A-9E5EA17D9473.png?v=1760564586
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F5C9C24C-0D6B-4FC3-973A-9E5EA17D9473.png?v=1763810863
     Price: €56.99 EUR
   - [Grey Sleeveless Vest / 2XL](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055335862609)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F5C9C24C-0D6B-4FC3-973A-9E5EA17D9473.png?v=1760564586
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F5C9C24C-0D6B-4FC3-973A-9E5EA17D9473.png?v=1763810863
     Price: €56.99 EUR
   - [Grey Sleeveless Vest / 3XL](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055335895377)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F5C9C24C-0D6B-4FC3-973A-9E5EA17D9473.png?v=1760564586
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F5C9C24C-0D6B-4FC3-973A-9E5EA17D9473.png?v=1763810863
     Price: €56.99 EUR
   - [Grey Sleeveless Vest / 4XL](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055335928145)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F5C9C24C-0D6B-4FC3-973A-9E5EA17D9473.png?v=1760564586
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F5C9C24C-0D6B-4FC3-973A-9E5EA17D9473.png?v=1763810863
     Price: €56.99 EUR
   - [Black Sleeveless Vest / L](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055335960913)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5F9BA42E-9DA1-4EB8-8919-11DE0FC98D56.png?v=1760564586
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5F9BA42E-9DA1-4EB8-8919-11DE0FC98D56.png?v=1763810863
     Price: €56.99 EUR
   - [Black Sleeveless Vest / XL](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055335993681)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5F9BA42E-9DA1-4EB8-8919-11DE0FC98D56.png?v=1760564586
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5F9BA42E-9DA1-4EB8-8919-11DE0FC98D56.png?v=1763810863
     Price: €56.99 EUR
   - [Black Sleeveless Vest / 2XL](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055336026449)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5F9BA42E-9DA1-4EB8-8919-11DE0FC98D56.png?v=1760564586
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5F9BA42E-9DA1-4EB8-8919-11DE0FC98D56.png?v=1763810863
     Price: €56.99 EUR
   - [Black Sleeveless Vest / 3XL](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055336059217)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5F9BA42E-9DA1-4EB8-8919-11DE0FC98D56.png?v=1760564586
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5F9BA42E-9DA1-4EB8-8919-11DE0FC98D56.png?v=1763810863
     Price: €56.99 EUR
   - [Black Sleeveless Vest / 4XL](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055336091985)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5F9BA42E-9DA1-4EB8-8919-11DE0FC98D56.png?v=1760564586
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5F9BA42E-9DA1-4EB8-8919-11DE0FC98D56.png?v=1763810863
     Price: €56.99 EUR
   - [White Sleeveless Vest / L](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055336124753)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F96B16B3-A71F-4BC0-8F09-216EEF551CFF.png?v=1759795234
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F96B16B3-A71F-4BC0-8F09-216EEF551CFF.png?v=1763810863
     Price: €56.99 EUR
   - [White Sleeveless Vest / XL](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055336157521)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F96B16B3-A71F-4BC0-8F09-216EEF551CFF.png?v=1759795234
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F96B16B3-A71F-4BC0-8F09-216EEF551CFF.png?v=1763810863
     Price: €56.99 EUR
   - [White Sleeveless Vest / 2XL](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055336190289)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F96B16B3-A71F-4BC0-8F09-216EEF551CFF.png?v=1759795234
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F96B16B3-A71F-4BC0-8F09-216EEF551CFF.png?v=1763810863
     Price: €56.99 EUR
   - [White Sleeveless Vest / 3XL](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055336223057)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F96B16B3-A71F-4BC0-8F09-216EEF551CFF.png?v=1759795234
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F96B16B3-A71F-4BC0-8F09-216EEF551CFF.png?v=1763810863
     Price: €56.99 EUR
   - [White Sleeveless Vest / 4XL](https://mldrip.com/products/sleeveless-vest-lightweight-layer-heavy-style?variant=52055336255825)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F96B16B3-A71F-4BC0-8F09-216EEF551CFF.png?v=1759795234
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F96B16B3-A71F-4BC0-8F09-216EEF551CFF.png?v=1763810863
     Price: €56.99 EUR
 - [Luxury Monogram Beanie & Scarf Set – Winter Drip Unlocked](https://mldrip.com/products/luxury-monogram-beanie-scarf-set-winter-drip-unlocked): Stay warm and stay flexin’ with the Luxury Monogram Beanie & Scarf Set, a perfect mix of cozy comfort and designer-inspired style. Built for the cold, made for the bold — this set keeps your fit clean while turning heads all season. 🧣 Why It Hits: Soft knit fabric – warm, comfy, and perfect for winter Matching beanie + scarf – coordinated look for easy styling Luxury-inspired monogram pattern – subtle, classy, and street-ready Unisex design – made for everyone who loves that high-end drip From city streets to snowy nights, this set brings premium warmth with luxury energy. 👉 Cop yours now and stay cozy while lookin’ elite. ❄️✨
   Updated: 2025-11-06T12:30:15Z
@@ -13573,7 +13573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/D9D314B8-D004-4DD3-85FB-80EE37C53A79.png?v=1759801784
     Price: €35.00 EUR
 - [Denim Jacket – Classic Cool, Modern Edge](https://mldrip.com/products/denim-jacket-classic-cool-modern-edge): Level up your look with the Denim Jacket, a timeless piece that never misses. Built for versatility and everyday flex, this jacket brings that rugged streetwear energy while keeping things casual and clean. 🧥 Why You’ll Love It: Premium denim fabric – durable, comfy, and built to last Perfect fit – structured yet relaxed for all-day wear Classic design – button-up front with chest pockets for that vintage touch Versatile drip – pairs with tees, hoodies, cargos, or joggers From street nights to chill days, the Denim Jacket keeps your outfit on point — simple, bold, and effortlessly fresh. 👉 Cop yours now and rock that classic denim energy anywhere.
-  Updated: 2025-11-06T12:30:15Z
+  Updated: 2025-11-23T15:10:01Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -13677,7 +13677,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/6650E60A-09C6-4ED7-8452-DC983159CF84.png?v=1759846953
     Price: €96.99 EUR
 - [Grey Disc Pattern Men’s Shorts & Tracksuit Set](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set): SPECIFICATIONS Applicable Scene: Trip Applicable Season: Four Seasons Closure Type: None Collar: O-Neck Craft of Weaving: Knit Gender: Men Hign-concerned Chemical: None Material: COTTON Sleeve Length(cm): Full Style: High Street Thickness: Standard whether full opening: No Grey Disc Pattern Mens Shorts Set Sporty Casual Wear Comfortable Loose Tracksuit Breathable Fabric Minimalist Modern Athleisure Size Table S: Shoulder:59cm Bust:122cm Length:60cm Sleeve:50cm M: Shoulder:61cm Bust:126cm Length:62cm Sleeve:51cm L: Shoulder:63cm Bust:130cm Length:64cm Sleeve:52cm XL: Shoulder:65cm Bust:134cm Length:66cm Sleeve:53cm 2XL:Shoulder:67cm Bust:138cm Length:68cm Sleeve:54cm 3XL:Shoulder:69cm Bust:142cm Length:70cm Sleeve:55cm Size mearsured by ourselves, sometimes has some errors, but always within 3cm." Please note 1 cm = 0.39 inch,1 inch = 2.54 cm. Please feel free to contact us when finding difficulty in choosing size,we will give you the best option. Size Table S: Length:47cm WAIST:72cm HIP:98cm Thigh:60cm M:Length:48cm WAIST:76cm HIP:102cm Thigh:62cm L:Length:49cm WAIST:80cm HIP:106cm Thigh:64cm XL:Length:50cm WAIST:84cm HIP:110cm Thigh:66cm 2XL:Length:51cm WAIST:88cm HIP:114cm Thigh:68cm 3XL:Length:52cm WAIST:92cm HIP:118cm Thigh:70cm Size mearsured by ourselves, sometimes has some errors, but always within 3cm." Please note 1 cm = 0.39 inch,1 inch = 2.54 cm. Please feel free to contact us when finding difficulty in choosing size,we will give you the best option.
-  Updated: 2025-11-20T11:29:01Z
+  Updated: 2025-11-23T14:37:16Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
@@ -13708,123 +13708,123 @@
     Price: €51.99 EUR
   - [5 / S](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059922596177)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F972FBEE-6CCD-4E2D-B5AA-577CFCAEB006.png?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F972FBEE-6CCD-4E2D-B5AA-577CFCAEB006.png?v=1763908635
     Price: €51.99 EUR
   - [5 / M](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059922628945)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F972FBEE-6CCD-4E2D-B5AA-577CFCAEB006.png?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F972FBEE-6CCD-4E2D-B5AA-577CFCAEB006.png?v=1763908635
     Price: €51.99 EUR
   - [5 / L](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059922661713)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F972FBEE-6CCD-4E2D-B5AA-577CFCAEB006.png?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F972FBEE-6CCD-4E2D-B5AA-577CFCAEB006.png?v=1763908635
     Price: €51.99 EUR
   - [5 / XL](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059922432337)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F972FBEE-6CCD-4E2D-B5AA-577CFCAEB006.png?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F972FBEE-6CCD-4E2D-B5AA-577CFCAEB006.png?v=1763908635
     Price: €51.99 EUR
   - [5 / XXL](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059922465105)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F972FBEE-6CCD-4E2D-B5AA-577CFCAEB006.png?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F972FBEE-6CCD-4E2D-B5AA-577CFCAEB006.png?v=1763908635
     Price: €51.99 EUR
   - [5 / XXXL](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059922497873)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F972FBEE-6CCD-4E2D-B5AA-577CFCAEB006.png?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F972FBEE-6CCD-4E2D-B5AA-577CFCAEB006.png?v=1763908635
     Price: €51.99 EUR
   - [4 / S](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059922923857)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5e7c361c957b4d13aaa5784a1805b3bek.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5e7c361c957b4d13aaa5784a1805b3bek.webp?v=1763908635
     Price: €30.99 EUR
   - [4 / M](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059922694481)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5e7c361c957b4d13aaa5784a1805b3bek.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5e7c361c957b4d13aaa5784a1805b3bek.webp?v=1763908635
     Price: €30.99 EUR
   - [4 / L](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059922727249)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5e7c361c957b4d13aaa5784a1805b3bek.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5e7c361c957b4d13aaa5784a1805b3bek.webp?v=1763908635
     Price: €30.99 EUR
   - [4 / XL](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059922760017)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5e7c361c957b4d13aaa5784a1805b3bek.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5e7c361c957b4d13aaa5784a1805b3bek.webp?v=1763908635
     Price: €30.99 EUR
   - [4 / XXL](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059922792785)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5e7c361c957b4d13aaa5784a1805b3bek.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5e7c361c957b4d13aaa5784a1805b3bek.webp?v=1763908635
     Price: €30.99 EUR
   - [4 / XXXL](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059922563409)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5e7c361c957b4d13aaa5784a1805b3bek.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S5e7c361c957b4d13aaa5784a1805b3bek.webp?v=1763908635
     Price: €30.99 EUR
   - [3 / S](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059922989393)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S8733dc304f084af89c204b6333428070a.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S8733dc304f084af89c204b6333428070a.webp?v=1763908635
     Price: €30.99 EUR
   - [3 / M](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059923022161)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S8733dc304f084af89c204b6333428070a.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S8733dc304f084af89c204b6333428070a.webp?v=1763908635
     Price: €30.99 EUR
   - [3 / L](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059923054929)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S8733dc304f084af89c204b6333428070a.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S8733dc304f084af89c204b6333428070a.webp?v=1763908635
     Price: €30.99 EUR
   - [3 / XL](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059922825553)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S8733dc304f084af89c204b6333428070a.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S8733dc304f084af89c204b6333428070a.webp?v=1763908635
     Price: €30.99 EUR
   - [3 / XXL](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059922858321)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S8733dc304f084af89c204b6333428070a.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S8733dc304f084af89c204b6333428070a.webp?v=1763908635
     Price: €30.99 EUR
   - [3 / XXXL](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059922891089)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S8733dc304f084af89c204b6333428070a.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S8733dc304f084af89c204b6333428070a.webp?v=1763908635
     Price: €30.99 EUR
   - [2 / S](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059923317073)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb5f28d0199274e179c014e4d9b918362x.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb5f28d0199274e179c014e4d9b918362x.webp?v=1763908635
     Price: €30.99 EUR
   - [2 / M](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059923087697)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb5f28d0199274e179c014e4d9b918362x.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb5f28d0199274e179c014e4d9b918362x.webp?v=1763908635
     Price: €30.99 EUR
   - [2 / L](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059923120465)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb5f28d0199274e179c014e4d9b918362x.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb5f28d0199274e179c014e4d9b918362x.webp?v=1763908635
     Price: €30.99 EUR
   - [2 / XL](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059923153233)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb5f28d0199274e179c014e4d9b918362x.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb5f28d0199274e179c014e4d9b918362x.webp?v=1763908635
     Price: €30.99 EUR
   - [2 / XXL](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059923186001)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb5f28d0199274e179c014e4d9b918362x.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb5f28d0199274e179c014e4d9b918362x.webp?v=1763908635
     Price: €30.99 EUR
   - [2 / XXXL](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059922956625)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb5f28d0199274e179c014e4d9b918362x.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb5f28d0199274e179c014e4d9b918362x.webp?v=1763908635
     Price: €30.99 EUR
   - [1 / S](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059923349841)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96907445a04436999f76a0cdb194133V.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96907445a04436999f76a0cdb194133V.webp?v=1763908635
     Price: €30.99 EUR
   - [1 / M](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059923382609)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96907445a04436999f76a0cdb194133V.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96907445a04436999f76a0cdb194133V.webp?v=1763908635
     Price: €30.99 EUR
   - [1 / L](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059923415377)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96907445a04436999f76a0cdb194133V.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96907445a04436999f76a0cdb194133V.webp?v=1763908635
     Price: €30.99 EUR
   - [1 / XL](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059923218769)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96907445a04436999f76a0cdb194133V.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96907445a04436999f76a0cdb194133V.webp?v=1763908635
     Price: €30.99 EUR
   - [1 / XXL](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059923251537)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96907445a04436999f76a0cdb194133V.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96907445a04436999f76a0cdb194133V.webp?v=1763908635
     Price: €30.99 EUR
   - [1 / XXXL](https://mldrip.com/products/grey-disc-pattern-men-s-shorts-tracksuit-set?variant=52059923284305)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96907445a04436999f76a0cdb194133V.webp?v=1759847167
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96907445a04436999f76a0cdb194133V.webp?v=1763908635
     Price: €30.99 EUR
 - [MMY Style Sneakers – Distorted Soles, Real Drip](https://mldrip.com/products/mmy-style-sneakers-distorted-soles-real-drip): Step into something different with the MMY Style Sneakers, the perfect mix of art, street, and attitude. With their signature wavy sole and bold design, these kicks redefine what everyday sneakers can look like — built for comfort, made for style. 👟 Why They Hit: Unique sculpted sole – that distorted MMY-inspired look everyone’s talking about Premium build – durable canvas & rubber for long-lasting wear All-day comfort – cushioned interior for max comfort on the go Streetwear essential – pairs perfectly with cargos, jeans, or tech fits From runway vibes to city streets, these sneakers bring creative energy and effortless drip to any outfit. 👉 Cop yours now and walk different. 💥
   Updated: 2025-11-06T12:30:16Z
@@ -14033,99 +14033,99 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FD108A63-C47A-48D4-B9D6-E9C49A8C97E0.png?v=1761757406
     Price: €125.00 EUR
 - [Moncler Pullover – Elevated Warmth, Effortless Style](https://mldrip.com/products/moncler-pullover-elevated-warmth-effortless-style): Stay cozy while keeping it classy with the Moncler Pullover, designed for those who move with confidence and style. Crafted with premium materials and finished with that luxury-inspired touch, this piece brings comfort and drip together flawlessly. 🧥 Why You’ll Love It: Soft fleece or cotton blend – warm, breathable, and comfortable Modern fit – relaxed but tailored for a clean silhouette Luxury-inspired detailing – subtle accents that give premium energy Versatile wear – perfect for streetwear, travel, or casual flex From chilly mornings to city nights, the Moncler Pullover delivers comfort, class, and confidence in one clean fit. 👉 Grab yours now and rep that high-end winter vibe with ease.
-  Updated: 2025-11-06T12:30:16Z
+  Updated: 2025-11-23T15:58:45Z
   Vendor: Mldrip
   Product Type: Pullovers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C7E3A28F-411F-4A8F-980F-FBB9D8F07102.jpg?v=1762211226
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B34CBC29-8A2C-4093-93CC-9A3F95B9EC3F.png?v=1763913524
   - [White Moncler Pullover / S](https://mldrip.com/products/moncler-pullover-elevated-warmth-effortless-style?variant=52156178235729)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C7E3A28F-411F-4A8F-980F-FBB9D8F07102.jpg?v=1762211226
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C7E3A28F-411F-4A8F-980F-FBB9D8F07102.jpg?v=1763913524
     Price: €40.00 EUR
   - [Black Moncler Pullover / S](https://mldrip.com/products/moncler-pullover-elevated-warmth-effortless-style?variant=52156178268497)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B34CBC29-8A2C-4093-93CC-9A3F95B9EC3F.jpg?v=1762211251
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B34CBC29-8A2C-4093-93CC-9A3F95B9EC3F.jpg?v=1763913524
     Price: €40.00 EUR
   - [White Moncler Pullover / M](https://mldrip.com/products/moncler-pullover-elevated-warmth-effortless-style?variant=52156179808593)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C7E3A28F-411F-4A8F-980F-FBB9D8F07102.jpg?v=1762211226
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C7E3A28F-411F-4A8F-980F-FBB9D8F07102.jpg?v=1763913524
     Price: €40.00 EUR
   - [White Moncler Pullover / L](https://mldrip.com/products/moncler-pullover-elevated-warmth-effortless-style?variant=52156179841361)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C7E3A28F-411F-4A8F-980F-FBB9D8F07102.jpg?v=1762211226
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C7E3A28F-411F-4A8F-980F-FBB9D8F07102.jpg?v=1763913524
     Price: €40.00 EUR
   - [White Moncler Pullover / XL](https://mldrip.com/products/moncler-pullover-elevated-warmth-effortless-style?variant=52156179874129)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C7E3A28F-411F-4A8F-980F-FBB9D8F07102.jpg?v=1762211226
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C7E3A28F-411F-4A8F-980F-FBB9D8F07102.jpg?v=1763913524
     Price: €40.00 EUR
   - [White Moncler Pullover / 2XL](https://mldrip.com/products/moncler-pullover-elevated-warmth-effortless-style?variant=52156179906897)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C7E3A28F-411F-4A8F-980F-FBB9D8F07102.jpg?v=1762211226
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C7E3A28F-411F-4A8F-980F-FBB9D8F07102.jpg?v=1763913524
     Price: €40.00 EUR
   - [White Moncler Pullover / 3XL](https://mldrip.com/products/moncler-pullover-elevated-warmth-effortless-style?variant=52156179939665)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C7E3A28F-411F-4A8F-980F-FBB9D8F07102.jpg?v=1762211226
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C7E3A28F-411F-4A8F-980F-FBB9D8F07102.jpg?v=1763913524
     Price: €40.00 EUR
   - [Black Moncler Pullover / M](https://mldrip.com/products/moncler-pullover-elevated-warmth-effortless-style?variant=52156179972433)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B34CBC29-8A2C-4093-93CC-9A3F95B9EC3F.jpg?v=1762211251
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B34CBC29-8A2C-4093-93CC-9A3F95B9EC3F.jpg?v=1763913524
     Price: €40.00 EUR
   - [Black Moncler Pullover / L](https://mldrip.com/products/moncler-pullover-elevated-warmth-effortless-style?variant=52156180005201)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B34CBC29-8A2C-4093-93CC-9A3F95B9EC3F.jpg?v=1762211251
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B34CBC29-8A2C-4093-93CC-9A3F95B9EC3F.jpg?v=1763913524
     Price: €40.00 EUR
   - [Black Moncler Pullover / XL](https://mldrip.com/products/moncler-pullover-elevated-warmth-effortless-style?variant=52156180037969)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B34CBC29-8A2C-4093-93CC-9A3F95B9EC3F.jpg?v=1762211251
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B34CBC29-8A2C-4093-93CC-9A3F95B9EC3F.jpg?v=1763913524
     Price: €40.00 EUR
   - [Black Moncler Pullover / 2XL](https://mldrip.com/products/moncler-pullover-elevated-warmth-effortless-style?variant=52156180070737)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B34CBC29-8A2C-4093-93CC-9A3F95B9EC3F.jpg?v=1762211251
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B34CBC29-8A2C-4093-93CC-9A3F95B9EC3F.jpg?v=1763913524
     Price: €40.00 EUR
   - [Black Moncler Pullover / 3XL](https://mldrip.com/products/moncler-pullover-elevated-warmth-effortless-style?variant=52156180103505)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B34CBC29-8A2C-4093-93CC-9A3F95B9EC3F.jpg?v=1762211251
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B34CBC29-8A2C-4093-93CC-9A3F95B9EC3F.jpg?v=1763913524
     Price: €40.00 EUR
 - [Chrome-Style Graphic Tee – Street Luxury Redefined](https://mldrip.com/products/chrome-style-graphic-tee-street-luxury-redefined): Turn every outfit into a statement with the Chrome-Style T-Shirt, inspired by bold luxury streetwear design. With its clean graphics and premium feel, this tee brings that edgy, rockstar energy that never misses. 👕 Why You’ll Love It: Heavyweight cotton – soft, durable, and built to last Premium print detail – bold logo-inspired graphics that pop Relaxed streetwear fit – oversized vibe for that clean drape Unisex drip – made for anyone who lives and breathes street fashion Perfect for pairing with cargos, jeans, or layered under a jacket — this tee delivers attitude, quality, and pure street culture energy. 👉 Cop yours today and wear the drip that speaks loud. 🖤🔥
-  Updated: 2025-11-06T12:30:16Z
+  Updated: 2025-11-23T15:52:34Z
   Vendor: Mldrip
   Product Type: Pullovers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F4F6C300-D2D2-4953-902D-438A3D7DA373.jpg?v=1762242042
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F4F6C300-D2D2-4953-902D-438A3D7DA373.png?v=1763913153
   - [Black Chrome-Style Graphic Tee / S](https://mldrip.com/products/chrome-style-graphic-tee-street-luxury-redefined?variant=52156261597521)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F4F6C300-D2D2-4953-902D-438A3D7DA373.jpg?v=1762242042
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F4F6C300-D2D2-4953-902D-438A3D7DA373.jpg?v=1763913153
     Price: €80.00 EUR
   - [Blue Chrome-Style Graphic Tee / S](https://mldrip.com/products/chrome-style-graphic-tee-street-luxury-redefined?variant=52156261630289)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B7CBE18A-74D9-478F-88C2-41B712216206.jpg?v=1762242095
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B7CBE18A-74D9-478F-88C2-41B712216206.jpg?v=1763913153
     Price: €80.00 EUR
   - [Black Chrome-Style Graphic Tee / M](https://mldrip.com/products/chrome-style-graphic-tee-street-luxury-redefined?variant=52156263137617)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F4F6C300-D2D2-4953-902D-438A3D7DA373.jpg?v=1762242042
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F4F6C300-D2D2-4953-902D-438A3D7DA373.jpg?v=1763913153
     Price: €80.00 EUR
   - [Black Chrome-Style Graphic Tee / L](https://mldrip.com/products/chrome-style-graphic-tee-street-luxury-redefined?variant=52156263170385)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F4F6C300-D2D2-4953-902D-438A3D7DA373.jpg?v=1762242042
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F4F6C300-D2D2-4953-902D-438A3D7DA373.jpg?v=1763913153
     Price: €80.00 EUR
   - [Black Chrome-Style Graphic Tee / XL](https://mldrip.com/products/chrome-style-graphic-tee-street-luxury-redefined?variant=52156263203153)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F4F6C300-D2D2-4953-902D-438A3D7DA373.jpg?v=1762242042
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/F4F6C300-D2D2-4953-902D-438A3D7DA373.jpg?v=1763913153
     Price: €80.00 EUR
   - [Blue Chrome-Style Graphic Tee / M](https://mldrip.com/products/chrome-style-graphic-tee-street-luxury-redefined?variant=52156263235921)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B7CBE18A-74D9-478F-88C2-41B712216206.jpg?v=1762242095
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B7CBE18A-74D9-478F-88C2-41B712216206.jpg?v=1763913153
     Price: €80.00 EUR
   - [Blue Chrome-Style Graphic Tee / L](https://mldrip.com/products/chrome-style-graphic-tee-street-luxury-redefined?variant=52156263268689)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B7CBE18A-74D9-478F-88C2-41B712216206.jpg?v=1762242095
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B7CBE18A-74D9-478F-88C2-41B712216206.jpg?v=1763913153
     Price: €80.00 EUR
   - [Blue Chrome-Style Graphic Tee / XL](https://mldrip.com/products/chrome-style-graphic-tee-street-luxury-redefined?variant=52156263301457)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B7CBE18A-74D9-478F-88C2-41B712216206.jpg?v=1762242095
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B7CBE18A-74D9-478F-88C2-41B712216206.jpg?v=1763913153
     Price: €80.00 EUR
 - [Chrome-Style Jacket – Bold, Icy, Unapologetic](https://mldrip.com/products/chrome-style-jacket-bold-icy-unapologetic): Bring pure rockstar energy to your fit with the Chrome-Style Jacket, a statement piece that fuses luxury detail with streetwear confidence. Designed for those who don’t follow trends — they make them. 🧥 Why It Hits: High-quality build – durable material with a premium finish Bold graphic detailing – Chrome-inspired motifs that stand out Streetwear fit – slightly oversized with that relaxed, confident look All-season flex – lightweight enough for layering, stylish enough for any scene Whether you’re pulling up to a night out or elevating your everyday drip, this jacket keeps your look loud, clean, and powerful. 👉 Cop yours now and own the streets in true Chrome-style fashion. ⚡🖤
-  Updated: 2025-11-06T12:30:16Z
+  Updated: 2025-11-23T15:08:25Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -14147,70 +14147,70 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B1ADA40A-3C4E-4C90-8D0A-08C8D6AA3E7B.png?v=1761757422
     Price: €120.00 EUR
 - [Jackets – Style, Comfort, and Confidence](https://mldrip.com/products/jackets-style-comfort-and-confidence): Stay ready for any season with our Jackets Collection, built for those who move with purpose and style. From clean streetwear fits to everyday comfort, these jackets are made to keep you warm, confident, and on point. 💨 Why You’ll Love Them: Premium materials – durable, soft, and built for real-life wear Modern cuts – tailored yet relaxed for that perfect silhouette All-weather comfort – layer up without losing mobility or style Versatile drip – pairs with jeans, cargos, hoodies, or tees Whether you’re hitting the streets or heading out for the night, these jackets bring effortless cool with everyday function. 👉 Cop your favorite now and upgrade your outerwear game — one jacket at a time. ⚡
-  Updated: 2025-11-06T12:30:16Z
+  Updated: 2025-11-22T23:23:59Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BC5BB1BF-B6CE-4A9E-B0B5-3488BFB99FB2_a317f6de-94fe-4262-a91e-411bce36d831.png?v=1761757448
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5290.png?v=1763810632
   - [Essential Jackets Chrome / M](https://mldrip.com/products/jackets-style-comfort-and-confidence?variant=52156573942097)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BC5BB1BF-B6CE-4A9E-B0B5-3488BFB99FB2_a317f6de-94fe-4262-a91e-411bce36d831.png?v=1761757448
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BC5BB1BF-B6CE-4A9E-B0B5-3488BFB99FB2_a317f6de-94fe-4262-a91e-411bce36d831.png?v=1763810632
     Price: €70.00 EUR
   - [Essential Jackets Chrome / L](https://mldrip.com/products/jackets-style-comfort-and-confidence?variant=52156562800977)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BC5BB1BF-B6CE-4A9E-B0B5-3488BFB99FB2_a317f6de-94fe-4262-a91e-411bce36d831.png?v=1761757448
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BC5BB1BF-B6CE-4A9E-B0B5-3488BFB99FB2_a317f6de-94fe-4262-a91e-411bce36d831.png?v=1763810632
     Price: €70.00 EUR
   - [Essential Jackets Chrome / XL](https://mldrip.com/products/jackets-style-comfort-and-confidence?variant=52156568731985)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BC5BB1BF-B6CE-4A9E-B0B5-3488BFB99FB2_a317f6de-94fe-4262-a91e-411bce36d831.png?v=1761757448
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BC5BB1BF-B6CE-4A9E-B0B5-3488BFB99FB2_a317f6de-94fe-4262-a91e-411bce36d831.png?v=1763810632
     Price: €70.00 EUR
   - [Essential Jackets Chrome / 2XL](https://mldrip.com/products/jackets-style-comfort-and-confidence?variant=52156568764753)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BC5BB1BF-B6CE-4A9E-B0B5-3488BFB99FB2_a317f6de-94fe-4262-a91e-411bce36d831.png?v=1761757448
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BC5BB1BF-B6CE-4A9E-B0B5-3488BFB99FB2_a317f6de-94fe-4262-a91e-411bce36d831.png?v=1763810632
     Price: €70.00 EUR
   - [Essential Jackets Chrome / 3XL](https://mldrip.com/products/jackets-style-comfort-and-confidence?variant=52156568797521)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BC5BB1BF-B6CE-4A9E-B0B5-3488BFB99FB2_a317f6de-94fe-4262-a91e-411bce36d831.png?v=1761757448
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BC5BB1BF-B6CE-4A9E-B0B5-3488BFB99FB2_a317f6de-94fe-4262-a91e-411bce36d831.png?v=1763810632
     Price: €70.00 EUR
   - [Essential Jackets LV / M](https://mldrip.com/products/jackets-style-comfort-and-confidence?variant=52156573974865)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4327930E-E15D-409F-8972-5166EC896C0F.png?v=1761757446
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4327930E-E15D-409F-8972-5166EC896C0F.png?v=1763810632
     Price: €70.00 EUR
   - [Essential Jackets LV / L](https://mldrip.com/products/jackets-style-comfort-and-confidence?variant=52156562833745)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4327930E-E15D-409F-8972-5166EC896C0F.png?v=1761757446
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4327930E-E15D-409F-8972-5166EC896C0F.png?v=1763810632
     Price: €70.00 EUR
   - [Essential Jackets LV / XL](https://mldrip.com/products/jackets-style-comfort-and-confidence?variant=52156568830289)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4327930E-E15D-409F-8972-5166EC896C0F.png?v=1761757446
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4327930E-E15D-409F-8972-5166EC896C0F.png?v=1763810632
     Price: €70.00 EUR
   - [Essential Jackets LV / 2XL](https://mldrip.com/products/jackets-style-comfort-and-confidence?variant=52156568863057)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4327930E-E15D-409F-8972-5166EC896C0F.png?v=1761757446
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4327930E-E15D-409F-8972-5166EC896C0F.png?v=1763810632
     Price: €70.00 EUR
   - [Essential Jackets LV / 3XL](https://mldrip.com/products/jackets-style-comfort-and-confidence?variant=52156568895825)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4327930E-E15D-409F-8972-5166EC896C0F.png?v=1761757446
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4327930E-E15D-409F-8972-5166EC896C0F.png?v=1763810632
     Price: €70.00 EUR
   - [Essential Jackets Gucci / M](https://mldrip.com/products/jackets-style-comfort-and-confidence?variant=52156574007633)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1A8FE0EC-2DDB-4855-A3C2-51A0B94392E8.png?v=1761757427
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1A8FE0EC-2DDB-4855-A3C2-51A0B94392E8.png?v=1763810632
     Price: €70.00 EUR
   - [Essential Jackets Gucci / L](https://mldrip.com/products/jackets-style-comfort-and-confidence?variant=52156562866513)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1A8FE0EC-2DDB-4855-A3C2-51A0B94392E8.png?v=1761757427
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1A8FE0EC-2DDB-4855-A3C2-51A0B94392E8.png?v=1763810632
     Price: €70.00 EUR
   - [Essential Jackets Gucci / XL](https://mldrip.com/products/jackets-style-comfort-and-confidence?variant=52156568928593)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1A8FE0EC-2DDB-4855-A3C2-51A0B94392E8.png?v=1761757427
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1A8FE0EC-2DDB-4855-A3C2-51A0B94392E8.png?v=1763810632
     Price: €70.00 EUR
   - [Essential Jackets Gucci / 2XL](https://mldrip.com/products/jackets-style-comfort-and-confidence?variant=52156568961361)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1A8FE0EC-2DDB-4855-A3C2-51A0B94392E8.png?v=1761757427
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1A8FE0EC-2DDB-4855-A3C2-51A0B94392E8.png?v=1763810632
     Price: €70.00 EUR
   - [Essential Jackets Gucci / 3XL](https://mldrip.com/products/jackets-style-comfort-and-confidence?variant=52156568994129)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1A8FE0EC-2DDB-4855-A3C2-51A0B94392E8.png?v=1761757427
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1A8FE0EC-2DDB-4855-A3C2-51A0B94392E8.png?v=1763810632
     Price: €70.00 EUR
 - [Old School Shoes – Classic Vibes, Modern Comfort](https://mldrip.com/products/old-school-shoes-classic-vibes-modern-comfort): Step back in style with the Old School Shoes, a perfect mix of retro design and everyday comfort. These kicks bring that timeless ‘90s skate and streetwear energy — simple, clean, and always fresh. 👟 Why They Hit: Vintage low-top silhouette – iconic look that never fades Durable canvas & rubber sole – built for daily wear and street movement All-day comfort – cushioned insole for smooth steps Unisex design – made for anyone who loves classic drip From the skate park to the city streets, these sneakers deliver OG vibes with a modern twist — the perfect pair for every fit. 👉 Grab yours today and walk with that old-school confidence. 🖤🕶️
   Updated: 2025-11-20T11:29:01Z
@@ -14351,132 +14351,132 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-1961_48d34dec-4fab-4232-bc4b-a036f41f2a13.png?v=1762186712
     Price: €90.00 EUR
 - [Polo Jackets](https://mldrip.com/products/polo-jackets): Level up your outerwear with the Polo Jacket, a perfect mix of classic style and modern street energy. Designed for comfort and confidence, this piece brings that clean, preppy look with a hint of luxury. 💨 Why You’ll Love It: Premium fabric blend – soft, durable, and built for all-day wear Classic Polo aesthetic – sleek silhouette with signature detailing Versatile fit – perfect for layering over hoodies, tees, or shirts All-season style – lightweight enough for spring, warm enough for fall From casual days to night outings, the Polo Jacket keeps your look sharp, simple, and effortlessly fresh. 👉 Cop yours now and rock that Polo energy with confidence. 🐎🔥
-  Updated: 2025-11-06T12:30:17Z
+  Updated: 2025-11-22T23:21:42Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_606500e3-c618-46bc-bf45-47186cc64fca.png?v=1762188031
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5285.png?v=1763810497
   - [Green Polo Jacket / S](https://mldrip.com/products/polo-jackets?variant=52265683845457)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_606500e3-c618-46bc-bf45-47186cc64fca.png?v=1762188031
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_606500e3-c618-46bc-bf45-47186cc64fca.png?v=1763810489
     Price: €85.00 EUR
   - [White Polo Jacket / S](https://mldrip.com/products/polo-jackets?variant=52265683878225)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_2f1d9133-abdb-4055-9dde-ee6d29445f5a.png?v=1762187981
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_2f1d9133-abdb-4055-9dde-ee6d29445f5a.png?v=1763810489
     Price: €85.00 EUR
   - [Black Polo Jacket / S](https://mldrip.com/products/polo-jackets?variant=52265683910993)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_e2a6674f-ed50-4a9e-a8a3-b2b5b4262316.png?v=1762187936
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_e2a6674f-ed50-4a9e-a8a3-b2b5b4262316.png?v=1763810489
     Price: €85.00 EUR
   - [Green Polo Jacket / M](https://mldrip.com/products/polo-jackets?variant=52265684861265)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_606500e3-c618-46bc-bf45-47186cc64fca.png?v=1762188031
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_606500e3-c618-46bc-bf45-47186cc64fca.png?v=1763810489
     Price: €85.00 EUR
   - [Green Polo Jacket / L](https://mldrip.com/products/polo-jackets?variant=52265684894033)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_606500e3-c618-46bc-bf45-47186cc64fca.png?v=1762188031
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_606500e3-c618-46bc-bf45-47186cc64fca.png?v=1763810489
     Price: €85.00 EUR
   - [Green Polo Jacket / XL](https://mldrip.com/products/polo-jackets?variant=52265684926801)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_606500e3-c618-46bc-bf45-47186cc64fca.png?v=1762188031
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_606500e3-c618-46bc-bf45-47186cc64fca.png?v=1763810489
     Price: €85.00 EUR
   - [Green Polo Jacket / 2XL](https://mldrip.com/products/polo-jackets?variant=52265684959569)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_606500e3-c618-46bc-bf45-47186cc64fca.png?v=1762188031
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_606500e3-c618-46bc-bf45-47186cc64fca.png?v=1763810489
     Price: €85.00 EUR
   - [White Polo Jacket / M](https://mldrip.com/products/polo-jackets?variant=52265684992337)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_2f1d9133-abdb-4055-9dde-ee6d29445f5a.png?v=1762187981
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_2f1d9133-abdb-4055-9dde-ee6d29445f5a.png?v=1763810489
     Price: €85.00 EUR
   - [White Polo Jacket / L](https://mldrip.com/products/polo-jackets?variant=52265685025105)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_2f1d9133-abdb-4055-9dde-ee6d29445f5a.png?v=1762187981
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_2f1d9133-abdb-4055-9dde-ee6d29445f5a.png?v=1763810489
     Price: €85.00 EUR
   - [White Polo Jacket / XL](https://mldrip.com/products/polo-jackets?variant=52265685057873)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_2f1d9133-abdb-4055-9dde-ee6d29445f5a.png?v=1762187981
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_2f1d9133-abdb-4055-9dde-ee6d29445f5a.png?v=1763810489
     Price: €85.00 EUR
   - [White Polo Jacket / 2XL](https://mldrip.com/products/polo-jackets?variant=52265685090641)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_2f1d9133-abdb-4055-9dde-ee6d29445f5a.png?v=1762187981
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_2f1d9133-abdb-4055-9dde-ee6d29445f5a.png?v=1763810489
     Price: €85.00 EUR
   - [Black Polo Jacket / M](https://mldrip.com/products/polo-jackets?variant=52265685123409)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_e2a6674f-ed50-4a9e-a8a3-b2b5b4262316.png?v=1762187936
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_e2a6674f-ed50-4a9e-a8a3-b2b5b4262316.png?v=1763810489
     Price: €85.00 EUR
   - [Black Polo Jacket / L](https://mldrip.com/products/polo-jackets?variant=52265685156177)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_e2a6674f-ed50-4a9e-a8a3-b2b5b4262316.png?v=1762187936
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_e2a6674f-ed50-4a9e-a8a3-b2b5b4262316.png?v=1763810489
     Price: €85.00 EUR
   - [Black Polo Jacket / XL](https://mldrip.com/products/polo-jackets?variant=52265685188945)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_e2a6674f-ed50-4a9e-a8a3-b2b5b4262316.png?v=1762187936
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_e2a6674f-ed50-4a9e-a8a3-b2b5b4262316.png?v=1763810489
     Price: €85.00 EUR
   - [Black Polo Jacket / 2XL](https://mldrip.com/products/polo-jackets?variant=52265685221713)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_e2a6674f-ed50-4a9e-a8a3-b2b5b4262316.png?v=1762187936
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_e2a6674f-ed50-4a9e-a8a3-b2b5b4262316.png?v=1763810489
     Price: €85.00 EUR
 - [Jacket – Timeless Class, Everyday Comfort](https://mldrip.com/products/jacket-timeless-class-everyday-comfort): Keep it easy and on point with the Classic Jacket, made for everyday wear and all kinds of weather. Lightweight, durable, and effortlessly stylish — it’s the go-to piece your wardrobe needs. 🧥 Why You’ll Love It: Comfortable fit – designed for daily use and easy movement Durable fabric – built to last through any season Minimal design – clean look that matches any outfit Versatile wear – perfect for layering or rocking solo From casual days to nights out, this jacket keeps your style simple, modern, and ready for anything. 👉 Grab yours now and stay fresh in every season.
-  Updated: 2025-11-06T12:30:17Z
+  Updated: 2025-11-23T15:06:12Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/612DC819-6BD0-4B18-8CC5-5562DF889052.jpg?v=1762244595
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/612DC819-6BD0-4B18-8CC5-5562DF889052.png?v=1763910371
   - [Black Jacket / M](https://mldrip.com/products/jacket-timeless-class-everyday-comfort?variant=52265704423761)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/612DC819-6BD0-4B18-8CC5-5562DF889052.jpg?v=1762244595
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/612DC819-6BD0-4B18-8CC5-5562DF889052.jpg?v=1763910371
     Price: €76.99 EUR
   - [Gold Jacket / M](https://mldrip.com/products/jacket-timeless-class-everyday-comfort?variant=52265704456529)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/74C7D34E-CFB3-4991-B904-F7AE17B78109.jpg?v=1762244662
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/74C7D34E-CFB3-4991-B904-F7AE17B78109.jpg?v=1763910371
     Price: €76.99 EUR
   - [Black Jacket / L](https://mldrip.com/products/jacket-timeless-class-everyday-comfort?variant=52265706422609)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/612DC819-6BD0-4B18-8CC5-5562DF889052.jpg?v=1762244595
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/612DC819-6BD0-4B18-8CC5-5562DF889052.jpg?v=1763910371
     Price: €76.99 EUR
   - [Black Jacket / XL](https://mldrip.com/products/jacket-timeless-class-everyday-comfort?variant=52265706455377)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/612DC819-6BD0-4B18-8CC5-5562DF889052.jpg?v=1762244595
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/612DC819-6BD0-4B18-8CC5-5562DF889052.jpg?v=1763910371
     Price: €76.99 EUR
   - [Black Jacket / 2XL](https://mldrip.com/products/jacket-timeless-class-everyday-comfort?variant=52265706488145)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/612DC819-6BD0-4B18-8CC5-5562DF889052.jpg?v=1762244595
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/612DC819-6BD0-4B18-8CC5-5562DF889052.jpg?v=1763910371
     Price: €76.99 EUR
   - [Black Jacket / 3XL](https://mldrip.com/products/jacket-timeless-class-everyday-comfort?variant=52265706520913)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/612DC819-6BD0-4B18-8CC5-5562DF889052.jpg?v=1762244595
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/612DC819-6BD0-4B18-8CC5-5562DF889052.jpg?v=1763910371
     Price: €76.99 EUR
   - [Black Jacket / 4XL](https://mldrip.com/products/jacket-timeless-class-everyday-comfort?variant=52265706553681)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/612DC819-6BD0-4B18-8CC5-5562DF889052.jpg?v=1762244595
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/612DC819-6BD0-4B18-8CC5-5562DF889052.jpg?v=1763910371
     Price: €76.99 EUR
   - [Black Jacket / 5XL](https://mldrip.com/products/jacket-timeless-class-everyday-comfort?variant=52265706586449)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/612DC819-6BD0-4B18-8CC5-5562DF889052.jpg?v=1762244595
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/612DC819-6BD0-4B18-8CC5-5562DF889052.jpg?v=1763910371
     Price: €76.99 EUR
   - [Gold Jacket / L](https://mldrip.com/products/jacket-timeless-class-everyday-comfort?variant=52265706619217)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/74C7D34E-CFB3-4991-B904-F7AE17B78109.jpg?v=1762244662
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/74C7D34E-CFB3-4991-B904-F7AE17B78109.jpg?v=1763910371
     Price: €76.99 EUR
   - [Gold Jacket / XL](https://mldrip.com/products/jacket-timeless-class-everyday-comfort?variant=52265706651985)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/74C7D34E-CFB3-4991-B904-F7AE17B78109.jpg?v=1762244662
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/74C7D34E-CFB3-4991-B904-F7AE17B78109.jpg?v=1763910371
     Price: €76.99 EUR
   - [Gold Jacket / 2XL](https://mldrip.com/products/jacket-timeless-class-everyday-comfort?variant=52265706684753)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/74C7D34E-CFB3-4991-B904-F7AE17B78109.jpg?v=1762244662
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/74C7D34E-CFB3-4991-B904-F7AE17B78109.jpg?v=1763910371
     Price: €76.99 EUR
   - [Gold Jacket / 3XL](https://mldrip.com/products/jacket-timeless-class-everyday-comfort?variant=52265706717521)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/74C7D34E-CFB3-4991-B904-F7AE17B78109.jpg?v=1762244662
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/74C7D34E-CFB3-4991-B904-F7AE17B78109.jpg?v=1763910371
     Price: €76.99 EUR
   - [Gold Jacket / 4XL](https://mldrip.com/products/jacket-timeless-class-everyday-comfort?variant=52265706750289)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/74C7D34E-CFB3-4991-B904-F7AE17B78109.jpg?v=1762244662
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/74C7D34E-CFB3-4991-B904-F7AE17B78109.jpg?v=1763910371
     Price: €76.99 EUR
   - [Gold Jacket / 5XL](https://mldrip.com/products/jacket-timeless-class-everyday-comfort?variant=52265706783057)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/74C7D34E-CFB3-4991-B904-F7AE17B78109.jpg?v=1762244662
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/74C7D34E-CFB3-4991-B904-F7AE17B78109.jpg?v=1763910371
     Price: €76.99 EUR
 - [Luxury Goyard-Style Bag – Elegant, Timeless, Iconic](https://mldrip.com/products/luxury-goyard-style-bag-elegant-timeless-iconic): Turn heads everywhere you go with the Goyard-Style Women’s Bag, a perfect blend of sophisticated design and everyday functionality. Lightweight, durable, and effortlessly chic — this bag adds instant class to any outfit. 👜 Why You’ll Love It: Luxury-inspired pattern – signature look that never goes out of style Premium craftsmanship – made with durable, high-quality materials Spacious design – fits your daily essentials with ease Versatile use – perfect for casual outings, travel, or daily wear From city strolls to brunch dates, the Goyard-Style Bag brings that Parisian elegance with modern flair. 👉 Cop yours now and carry confidence wherever you go. 💼✨
   Updated: 2025-11-06T12:30:17Z
@@ -14566,97 +14566,97 @@
   Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4BA7076F-F12B-427A-A97D-135C3555708F.jpg?v=1762241854
   Price: €94.99 EUR
 - [Luxury Montcla-Style Puffer Jacket – Premium Winter Coat for Men & Women](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women): Stay warm in style with our Luxury Montcla-Style Puffer Jacket, inspired by high-end European fashion. This premium winter coat blends luxury design, durability, and comfort — making it perfect for cold weather or everyday streetwear looks. Crafted with high-quality down filling and a water-resistant shell, it keeps you cozy even in freezing conditions. The adjustable hood, secure zipper pockets, and sleek tailored fit give it a fashionable edge that matches perfectly with any outfit. Key Features: 🧥 Ultra-Warm Down Padding – Lightweight yet powerful insulation for maximum warmth 💧 Water & Wind Resistant Fabric – Stay protected in all weather conditions 🎯 Tailored Fit – Combines comfort with a modern streetwear silhouette 🎒 Functional Design – Multiple secure pockets and smooth front zipper 🔥 Stylish Look – Inspired by luxury European outerwear trends Why You’ll Love It: Whether you’re dressing up for the city or keeping it casual outdoors, this premium puffer jacket delivers the perfect balance of fashion and functionality. Built to last, it’s your go-to piece for warmth, comfort, and modern style. 🛒 Available Now at Mldrip.com ✅ Fast shipping worldwide ✅ Limited stock – order before it’s sold out!
-  Updated: 2025-11-20T11:29:01Z
+  Updated: 2025-11-22T23:18:38Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1762241778
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5280.png?v=1763810323
   - [Black / M](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268523323729)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1762241778
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1763810310
     Price: €159.99 EUR
   - [Blue / M](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268523356497)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1762244494
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1763810310
     Price: €159.99 EUR
   - [White / M](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268523389265)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1762244419
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1763810310
     Price: €159.99 EUR
   - [Black / L](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527026513)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1762241778
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1763810310
     Price: €159.99 EUR
   - [Black / XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527059281)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1762241778
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1763810310
     Price: €159.99 EUR
   - [Black / 2XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527092049)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1762241778
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1763810310
     Price: €159.99 EUR
   - [Black / 3XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527124817)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1762241778
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1763810310
     Price: €159.99 EUR
   - [Black / 4XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527157585)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1762241778
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1763810310
     Price: €159.99 EUR
   - [Black / 5XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527190353)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1762241778
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1763810310
     Price: €159.99 EUR
   - [Blue / L](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527223121)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1762244494
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1763810310
     Price: €159.99 EUR
   - [Blue / XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527255889)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1762244494
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1763810310
     Price: €159.99 EUR
   - [Blue / 2XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527288657)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1762244494
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1763810310
     Price: €159.99 EUR
   - [Blue / 3XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527321425)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1762244494
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1763810310
     Price: €159.99 EUR
   - [Blue / 4XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527354193)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1762244494
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1763810310
     Price: €159.99 EUR
   - [Blue / 5XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527386961)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1762244494
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1763810310
     Price: €159.99 EUR
   - [White / L](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527419729)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1762244419
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1763810310
     Price: €159.99 EUR
   - [White / XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527452497)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1762244419
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1763810310
     Price: €159.99 EUR
   - [White / 2XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527485265)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1762244419
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1763810310
     Price: €159.99 EUR
   - [White / 3XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527518033)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1762244419
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1763810310
     Price: €159.99 EUR
   - [White / 4XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527550801)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1762244419
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1763810310
     Price: €159.99 EUR
   - [White / 5XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527583569)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1762244419
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1763810310
     Price: €159.99 EUR
 - [Luxury Fur Hooded Winter Parka Jacket – Black | MLDRIP](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip): Stay warm and stylish all winter long with the Luxury Fur Hooded Winter Parka Jacket from MLDRIP. This high-quality long puffer coat is built to handle cold weather with comfort and drip. Designed with a detachable fur-trimmed hood, deep front pockets, and a windproof, water-resistant outer shell, it gives you the perfect mix of fashion and warmth. Whether you’re heading out for a casual day, winter trip, or city night, this jacket keeps you cozy and confident in every move. Features: Premium puffer design for max warmth Detachable faux fur hood for flexible style Durable front zipper + button closure Two large flap pockets and one chest pocket Soft inner lining for extra comfort Perfect for cold, snowy, or windy days
-  Updated: 2025-11-20T11:29:01Z
+  Updated: 2025-11-23T14:33:35Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -14667,7 +14667,7 @@
     Price: €159.99 EUR
   - [White / XS](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278480404817)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1762336650
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1763908415
     Price: €159.99 EUR
   - [Black / S](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558589265)
     Availability: Available
@@ -14695,27 +14695,27 @@
     Price: €159.99 EUR
   - [White / S](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558785873)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1762336650
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1763908415
     Price: €159.99 EUR
   - [White / M](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558818641)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1762336650
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1763908415
     Price: €159.99 EUR
   - [White / L](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558851409)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1762336650
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1763908415
     Price: €159.99 EUR
   - [White / XL](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558884177)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1762336650
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1763908415
     Price: €159.99 EUR
   - [White / 2XL](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558916945)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1762336650
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1763908415
     Price: €159.99 EUR
   - [White / 3XL](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558949713)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1762336650
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1763908415
     Price: €159.99 EUR
 - [Unisex Loose Fit Y2K Streetwear Hoodie – Letter Print Hip Hop Sweatshirt](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt): SPECIFICATIONS Collar: O-Neck Decoration: None Material: POLYESTER Sleeve Length(cm): Full Style: Other Thickness: Thick Y2K Streetwear Style Embrace the Y2K era with this trendy streetwear piece, perfect for those who love to stand out. Durable Material Crafted from high-quality polyester, this sweatshirt offers durability and longevity. Comfortable Fit The loose fit of this sweatshirt ensures maximum comfort, ideal for casual wear or lounging at home. Versatile Accessory Whether you're hitting the streets or heading to a casual event, this sweatshirt is a versatile accessory. Unisex Design This versatile garment is designed to fit both men and women, making it a great addition to any wardrobe.
   Updated: 2025-11-20T11:29:01Z
@@ -15044,150 +15044,150 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_19cddd74-1809-45e7-87d3-ef38c1ebcd66.jpg?v=1762820856
     Price: €125.99 EUR
 - [Stone-Style Zipper Jacket – Techwear Meets Street Precision](https://mldrip.com/products/stone-style-zipper-jacket-techwear-meets-street-precision): Keep your look sharp with the Stone-Style Zipper Jacket, blending premium comfort with that tactical streetwear vibe. Built for everyday movement and clean layering, this piece delivers style and function in one. 🧥 Why You’ll Love It: Durable lightweight fabric – comfortable and built for all-day wear Full-zip design – easy to style and layer Stone-inspired detailing – sleek badge look that adds edge Functional fit – perfect balance of streetwear and utility From city nights to casual flexes, this jacket brings that modern, tech-inspired drip that never misses. 👉 Cop yours now and rep that clean, confident energy. ⚡🖤
-  Updated: 2025-11-12T03:18:00Z
+  Updated: 2025-11-22T21:28:04Z
   Vendor: Mldrip
   Product Type: Zipper
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3835F823-19E7-43B0-A121-DBCC161661E6.png?v=1762870340
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5275.png?v=1763803671
   - [White Zipper / M](https://mldrip.com/products/stone-style-zipper-jacket-techwear-meets-street-precision?variant=52325832491345)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3835F823-19E7-43B0-A121-DBCC161661E6.png?v=1762870340
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3835F823-19E7-43B0-A121-DBCC161661E6.png?v=1763803671
     Price: €45.00 EUR
   - [Brown Zipper / M](https://mldrip.com/products/stone-style-zipper-jacket-techwear-meets-street-precision?variant=52325832524113)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/239ED107-7B52-409D-8D4B-A25CADC3F4E5_ed53b512-7669-45ae-8003-a09ab2080be5.png?v=1762870270
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/239ED107-7B52-409D-8D4B-A25CADC3F4E5_ed53b512-7669-45ae-8003-a09ab2080be5.png?v=1763803671
     Price: €45.00 EUR
   - [Black Zipper / M](https://mldrip.com/products/stone-style-zipper-jacket-techwear-meets-street-precision?variant=52325832556881)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7A6AC673-A207-4572-8D35-553AE1308008_470caec4-25d7-4658-b746-686e4eb31b19.png?v=1762870122
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7A6AC673-A207-4572-8D35-553AE1308008_470caec4-25d7-4658-b746-686e4eb31b19.png?v=1763803671
     Price: €45.00 EUR
   - [Grey Zipper / M](https://mldrip.com/products/stone-style-zipper-jacket-techwear-meets-street-precision?variant=52325832589649)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BA0D0DD6-3EFF-4D2D-BD07-8EDDC1925F6D.png?v=1762870180
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BA0D0DD6-3EFF-4D2D-BD07-8EDDC1925F6D.png?v=1763803671
     Price: €45.00 EUR
   - [White Zipper / L](https://mldrip.com/products/stone-style-zipper-jacket-techwear-meets-street-precision?variant=52325833179473)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3835F823-19E7-43B0-A121-DBCC161661E6.png?v=1762870340
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3835F823-19E7-43B0-A121-DBCC161661E6.png?v=1763803671
     Price: €45.00 EUR
   - [White Zipper / XL](https://mldrip.com/products/stone-style-zipper-jacket-techwear-meets-street-precision?variant=52325833212241)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3835F823-19E7-43B0-A121-DBCC161661E6.png?v=1762870340
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3835F823-19E7-43B0-A121-DBCC161661E6.png?v=1763803671
     Price: €45.00 EUR
   - [White Zipper / 2XL](https://mldrip.com/products/stone-style-zipper-jacket-techwear-meets-street-precision?variant=52325833245009)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3835F823-19E7-43B0-A121-DBCC161661E6.png?v=1762870340
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3835F823-19E7-43B0-A121-DBCC161661E6.png?v=1763803671
     Price: €45.00 EUR
   - [Brown Zipper / L](https://mldrip.com/products/stone-style-zipper-jacket-techwear-meets-street-precision?variant=52325833277777)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/239ED107-7B52-409D-8D4B-A25CADC3F4E5_ed53b512-7669-45ae-8003-a09ab2080be5.png?v=1762870270
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/239ED107-7B52-409D-8D4B-A25CADC3F4E5_ed53b512-7669-45ae-8003-a09ab2080be5.png?v=1763803671
     Price: €45.00 EUR
   - [Brown Zipper / XL](https://mldrip.com/products/stone-style-zipper-jacket-techwear-meets-street-precision?variant=52325833310545)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/239ED107-7B52-409D-8D4B-A25CADC3F4E5_ed53b512-7669-45ae-8003-a09ab2080be5.png?v=1762870270
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/239ED107-7B52-409D-8D4B-A25CADC3F4E5_ed53b512-7669-45ae-8003-a09ab2080be5.png?v=1763803671
     Price: €45.00 EUR
   - [Brown Zipper / 2XL](https://mldrip.com/products/stone-style-zipper-jacket-techwear-meets-street-precision?variant=52325833343313)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/239ED107-7B52-409D-8D4B-A25CADC3F4E5_ed53b512-7669-45ae-8003-a09ab2080be5.png?v=1762870270
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/239ED107-7B52-409D-8D4B-A25CADC3F4E5_ed53b512-7669-45ae-8003-a09ab2080be5.png?v=1763803671
     Price: €45.00 EUR
   - [Black Zipper / L](https://mldrip.com/products/stone-style-zipper-jacket-techwear-meets-street-precision?variant=52325833376081)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7A6AC673-A207-4572-8D35-553AE1308008_470caec4-25d7-4658-b746-686e4eb31b19.png?v=1762870122
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7A6AC673-A207-4572-8D35-553AE1308008_470caec4-25d7-4658-b746-686e4eb31b19.png?v=1763803671
     Price: €45.00 EUR
   - [Black Zipper / XL](https://mldrip.com/products/stone-style-zipper-jacket-techwear-meets-street-precision?variant=52325833408849)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7A6AC673-A207-4572-8D35-553AE1308008_470caec4-25d7-4658-b746-686e4eb31b19.png?v=1762870122
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7A6AC673-A207-4572-8D35-553AE1308008_470caec4-25d7-4658-b746-686e4eb31b19.png?v=1763803671
     Price: €45.00 EUR
   - [Black Zipper / 2XL](https://mldrip.com/products/stone-style-zipper-jacket-techwear-meets-street-precision?variant=52325833441617)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7A6AC673-A207-4572-8D35-553AE1308008_470caec4-25d7-4658-b746-686e4eb31b19.png?v=1762870122
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7A6AC673-A207-4572-8D35-553AE1308008_470caec4-25d7-4658-b746-686e4eb31b19.png?v=1763803671
     Price: €45.00 EUR
   - [Grey Zipper / L](https://mldrip.com/products/stone-style-zipper-jacket-techwear-meets-street-precision?variant=52325833474385)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BA0D0DD6-3EFF-4D2D-BD07-8EDDC1925F6D.png?v=1762870180
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BA0D0DD6-3EFF-4D2D-BD07-8EDDC1925F6D.png?v=1763803671
     Price: €45.00 EUR
   - [Grey Zipper / XL](https://mldrip.com/products/stone-style-zipper-jacket-techwear-meets-street-precision?variant=52325833507153)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BA0D0DD6-3EFF-4D2D-BD07-8EDDC1925F6D.png?v=1762870180
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BA0D0DD6-3EFF-4D2D-BD07-8EDDC1925F6D.png?v=1763803671
     Price: €45.00 EUR
   - [Grey Zipper / 2XL](https://mldrip.com/products/stone-style-zipper-jacket-techwear-meets-street-precision?variant=52325833539921)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BA0D0DD6-3EFF-4D2D-BD07-8EDDC1925F6D.png?v=1762870180
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BA0D0DD6-3EFF-4D2D-BD07-8EDDC1925F6D.png?v=1763803671
     Price: €45.00 EUR
 - [Winter Jacket – Warmth, Comfort, and Style in One](https://mldrip.com/products/winter-jacket-warmth-comfort-and-style-in-one): Face the cold with confidence in the Winter Jacket, built to keep you warm, comfy, and stylish all season long. Whether you’re out in the city or hitting the streets, this jacket brings the perfect mix of function and drip. 🧊 Why You’ll Love It: Thick insulated lining – traps heat to keep you warm even in freezing temps Water-resistant outer layer – handles snow, wind, and rain with ease Adjustable fit – drawstrings and zippers for your perfect comfort level Versatile design – pairs perfectly with hoodies, jeans, or cargos From chilly mornings to late-night moves, the Winter Jacket keeps your style strong and your warmth locked in. 👉 Grab yours now and stay cozy while looking clean all winter. 🧥🔥
-  Updated: 2025-11-12T02:45:10Z
+  Updated: 2025-11-22T21:24:53Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_25c51947-c240-44bb-9b73-746a77ced4d3.png?v=1762870921
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5269.png?v=1763803486
   - [Black Hero  Jacket / M](https://mldrip.com/products/winter-jacket-warmth-comfort-and-style-in-one?variant=52325861622097)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_25c51947-c240-44bb-9b73-746a77ced4d3.png?v=1762870921
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_25c51947-c240-44bb-9b73-746a77ced4d3.png?v=1763803486
     Price: €70.00 EUR
   - [Black Hero  Jacket / L](https://mldrip.com/products/winter-jacket-warmth-comfort-and-style-in-one?variant=52325862179153)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_25c51947-c240-44bb-9b73-746a77ced4d3.png?v=1762870921
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_25c51947-c240-44bb-9b73-746a77ced4d3.png?v=1763803486
     Price: €70.00 EUR
   - [Black Hero  Jacket / XL](https://mldrip.com/products/winter-jacket-warmth-comfort-and-style-in-one?variant=52325862211921)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_25c51947-c240-44bb-9b73-746a77ced4d3.png?v=1762870921
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_25c51947-c240-44bb-9b73-746a77ced4d3.png?v=1763803486
     Price: €70.00 EUR
   - [Black Hero  Jacket / 2XL](https://mldrip.com/products/winter-jacket-warmth-comfort-and-style-in-one?variant=52325862244689)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_25c51947-c240-44bb-9b73-746a77ced4d3.png?v=1762870921
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_25c51947-c240-44bb-9b73-746a77ced4d3.png?v=1763803486
     Price: €70.00 EUR
 - [Hoodie Sweater Jacket – Street Comfort Meets Everyday Flex](https://mldrip.com/products/hoodie-sweater-jacket-street-comfort-meets-everyday-flex): Stay cozy while keeping your fit clean with the Hoodie Sweater Jacket, a must-have for chill days and cool nights. It’s got the soft comfort of a sweater, the warmth of a jacket, and the drip of a hoodie — all in one. 🖤 Why You’ll Love It: Soft fleece interior – warm, comfy, and perfect for layering Zipper or pullover design – easy to style your way Streetwear-ready fit – relaxed look that still feels premium Everyday essential – ideal for school, workouts, or casual hangs From street runs to laid-back days, this jacket keeps your vibe cozy, cool, and always on point. 👉 Cop yours now and rock that all-season comfort with confidence. 🧥
-  Updated: 2025-11-12T02:59:06Z
+  Updated: 2025-11-22T23:27:27Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4AC0F6DC-ACE1-4DF9-9CFD-BF62FBB25004_4fa7cb91-ac4f-4278-ac91-e21a340c27aa.png?v=1762871705
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5267.png?v=1763803347
   - [Grey Hoodie Sweater Jacket / M](https://mldrip.com/products/hoodie-sweater-jacket-street-comfort-meets-everyday-flex?variant=52325935087953)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4AC0F6DC-ACE1-4DF9-9CFD-BF62FBB25004_4fa7cb91-ac4f-4278-ac91-e21a340c27aa.png?v=1762871705
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4AC0F6DC-ACE1-4DF9-9CFD-BF62FBB25004_4fa7cb91-ac4f-4278-ac91-e21a340c27aa.png?v=1763803347
     Price: €85.00 EUR
   - [Black Hoodie Sweater Jacket / M](https://mldrip.com/products/hoodie-sweater-jacket-street-comfort-meets-everyday-flex?variant=52325935120721)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/59C91B2D-3124-42EE-AB4E-286C50C28C7F_f4c6a282-9722-4b4f-a046-65d7b0a02584.png?v=1762871632
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/59C91B2D-3124-42EE-AB4E-286C50C28C7F_f4c6a282-9722-4b4f-a046-65d7b0a02584.png?v=1763803347
     Price: €85.00 EUR
   - [White Hoodie Sweater Jacket / M](https://mldrip.com/products/hoodie-sweater-jacket-street-comfort-meets-everyday-flex?variant=52325935153489)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/09036D16-9575-4407-9B8C-773CEC63FA50_8edd1191-e0f9-408e-bc24-e109df5dc136.png?v=1762871550
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/09036D16-9575-4407-9B8C-773CEC63FA50_8edd1191-e0f9-408e-bc24-e109df5dc136.png?v=1763803347
     Price: €85.00 EUR
   - [Grey Hoodie Sweater Jacket / L](https://mldrip.com/products/hoodie-sweater-jacket-street-comfort-meets-everyday-flex?variant=52325937250641)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4AC0F6DC-ACE1-4DF9-9CFD-BF62FBB25004_4fa7cb91-ac4f-4278-ac91-e21a340c27aa.png?v=1762871705
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4AC0F6DC-ACE1-4DF9-9CFD-BF62FBB25004_4fa7cb91-ac4f-4278-ac91-e21a340c27aa.png?v=1763803347
     Price: €85.00 EUR
   - [Grey Hoodie Sweater Jacket / XL](https://mldrip.com/products/hoodie-sweater-jacket-street-comfort-meets-everyday-flex?variant=52325937283409)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4AC0F6DC-ACE1-4DF9-9CFD-BF62FBB25004_4fa7cb91-ac4f-4278-ac91-e21a340c27aa.png?v=1762871705
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4AC0F6DC-ACE1-4DF9-9CFD-BF62FBB25004_4fa7cb91-ac4f-4278-ac91-e21a340c27aa.png?v=1763803347
     Price: €85.00 EUR
   - [Grey Hoodie Sweater Jacket / 2XL](https://mldrip.com/products/hoodie-sweater-jacket-street-comfort-meets-everyday-flex?variant=52325937316177)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4AC0F6DC-ACE1-4DF9-9CFD-BF62FBB25004_4fa7cb91-ac4f-4278-ac91-e21a340c27aa.png?v=1762871705
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4AC0F6DC-ACE1-4DF9-9CFD-BF62FBB25004_4fa7cb91-ac4f-4278-ac91-e21a340c27aa.png?v=1763803347
     Price: €85.00 EUR
   - [Black Hoodie Sweater Jacket / L](https://mldrip.com/products/hoodie-sweater-jacket-street-comfort-meets-everyday-flex?variant=52325937348945)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/59C91B2D-3124-42EE-AB4E-286C50C28C7F_f4c6a282-9722-4b4f-a046-65d7b0a02584.png?v=1762871632
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/59C91B2D-3124-42EE-AB4E-286C50C28C7F_f4c6a282-9722-4b4f-a046-65d7b0a02584.png?v=1763803347
     Price: €85.00 EUR
   - [Black Hoodie Sweater Jacket / XL](https://mldrip.com/products/hoodie-sweater-jacket-street-comfort-meets-everyday-flex?variant=52325937381713)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/59C91B2D-3124-42EE-AB4E-286C50C28C7F_f4c6a282-9722-4b4f-a046-65d7b0a02584.png?v=1762871632
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/59C91B2D-3124-42EE-AB4E-286C50C28C7F_f4c6a282-9722-4b4f-a046-65d7b0a02584.png?v=1763803347
     Price: €85.00 EUR
   - [Black Hoodie Sweater Jacket / 2XL](https://mldrip.com/products/hoodie-sweater-jacket-street-comfort-meets-everyday-flex?variant=52325937414481)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/59C91B2D-3124-42EE-AB4E-286C50C28C7F_f4c6a282-9722-4b4f-a046-65d7b0a02584.png?v=1762871632
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/59C91B2D-3124-42EE-AB4E-286C50C28C7F_f4c6a282-9722-4b4f-a046-65d7b0a02584.png?v=1763803347
     Price: €85.00 EUR
   - [White Hoodie Sweater Jacket / L](https://mldrip.com/products/hoodie-sweater-jacket-street-comfort-meets-everyday-flex?variant=52325937447249)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/09036D16-9575-4407-9B8C-773CEC63FA50_8edd1191-e0f9-408e-bc24-e109df5dc136.png?v=1762871550
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/09036D16-9575-4407-9B8C-773CEC63FA50_8edd1191-e0f9-408e-bc24-e109df5dc136.png?v=1763803347
     Price: €85.00 EUR
   - [White Hoodie Sweater Jacket / XL](https://mldrip.com/products/hoodie-sweater-jacket-street-comfort-meets-everyday-flex?variant=52325937480017)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/09036D16-9575-4407-9B8C-773CEC63FA50_8edd1191-e0f9-408e-bc24-e109df5dc136.png?v=1762871550
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/09036D16-9575-4407-9B8C-773CEC63FA50_8edd1191-e0f9-408e-bc24-e109df5dc136.png?v=1763803347
     Price: €85.00 EUR
   - [White Hoodie Sweater Jacket / 2XL](https://mldrip.com/products/hoodie-sweater-jacket-street-comfort-meets-everyday-flex?variant=52325937512785)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/09036D16-9575-4407-9B8C-773CEC63FA50_8edd1191-e0f9-408e-bc24-e109df5dc136.png?v=1762871550
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/09036D16-9575-4407-9B8C-773CEC63FA50_8edd1191-e0f9-408e-bc24-e109df5dc136.png?v=1763803347
     Price: €85.00 EUR
 - [Women’s Boots – Confidence in Every Step](https://mldrip.com/products/women-s-boots-confidence-in-every-step): Step out bold and stylish with the Women’s Boots, made for comfort, confidence, and all-day wear. Whether you’re dressing up or keeping it casual, these boots bring that perfect mix of elegance and edge. 👢 Why You’ll Love Them: Premium materials – soft interior and durable exterior for long-lasting comfort Sleek modern design – versatile style that matches any outfit Non-slip sole – built for stability on every surface All-season wear – ideal for fall, winter, and beyond From city walks to night plans, the Women’s Boots give every step style, strength, and attitude. 👉 Grab yours now and walk with confidence — every day, everywhere. 💅🔥
   Updated: 2025-11-12T09:25:33Z
@@ -15402,671 +15402,671 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/BEC6252B-AEE4-40A9-B107-625446BF3891.png?v=1762892682
     Price: €35.00 EUR
 - [Autumn & Winter Sweater – Cozy Season, Clean Styl](https://mldrip.com/products/untitled-nov11_22-32): Stay warm and stylish with the Autumn & Winter Sweater, designed for comfort, warmth, and effortless drip. Whether you’re layering up for chilly mornings or keeping it casual on cold nights, this sweater’s got you covered. 🧶 Why You’ll Love It: Soft knitted fabric – warm, breathable, and super comfy Perfect seasonal fit – ideal for fall layering or winter chill Modern design – simple, clean look that fits any outfit Durable quality – built to keep its shape and feel fresh every wear From coffee runs to cozy nights in, the Autumn & Winter Sweater brings style, comfort, and warmth together effortlessly. 👉 Grab yours now and own the season in comfort and confidence. 🍁🔥
-  Updated: 2025-11-12T09:33:23Z
+  Updated: 2025-11-22T21:32:24Z
   Vendor: Mldrip
   Product Type: Tops
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2C141E43-4007-4CED-9A16-A4874F8F28FA.png?v=1762896906
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5262.png?v=1763803106
   - [Green Sweater / M](https://mldrip.com/products/untitled-nov11_22-32?variant=52329386574161)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/988D57A0-BBDC-473F-8FD1-8DEB0A3620C2_36109bce-aa30-47ff-b9d3-2fbe556a8faf.png?v=1762897223
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/988D57A0-BBDC-473F-8FD1-8DEB0A3620C2_36109bce-aa30-47ff-b9d3-2fbe556a8faf.png?v=1763803106
     Price: €60.00 EUR
   - [White Sweater / M](https://mldrip.com/products/untitled-nov11_22-32?variant=52329386606929)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/566A16F1-7924-45E9-9DC2-D60BDE17AD5B_dcb87e58-0fcb-4461-a9fe-1fc61e0144ec.png?v=1762897203
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/566A16F1-7924-45E9-9DC2-D60BDE17AD5B_dcb87e58-0fcb-4461-a9fe-1fc61e0144ec.png?v=1763803106
     Price: €60.00 EUR
   - [Red Sweater / M](https://mldrip.com/products/untitled-nov11_22-32?variant=52329386639697)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2C141E43-4007-4CED-9A16-A4874F8F28FA.png?v=1762896906
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2C141E43-4007-4CED-9A16-A4874F8F28FA.png?v=1763803106
     Price: €60.00 EUR
   - [Black Sweater / M](https://mldrip.com/products/untitled-nov11_22-32?variant=52329386672465)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C044EA25-9639-44DC-A261-451DF7999297.png?v=1762896979
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C044EA25-9639-44DC-A261-451DF7999297.png?v=1763803106
     Price: €60.00 EUR
   - [Green Sweater / L](https://mldrip.com/products/untitled-nov11_22-32?variant=52329394733393)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/988D57A0-BBDC-473F-8FD1-8DEB0A3620C2_36109bce-aa30-47ff-b9d3-2fbe556a8faf.png?v=1762897223
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/988D57A0-BBDC-473F-8FD1-8DEB0A3620C2_36109bce-aa30-47ff-b9d3-2fbe556a8faf.png?v=1763803106
     Price: €60.00 EUR
   - [Green Sweater / XL](https://mldrip.com/products/untitled-nov11_22-32?variant=52329394766161)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/988D57A0-BBDC-473F-8FD1-8DEB0A3620C2_36109bce-aa30-47ff-b9d3-2fbe556a8faf.png?v=1762897223
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/988D57A0-BBDC-473F-8FD1-8DEB0A3620C2_36109bce-aa30-47ff-b9d3-2fbe556a8faf.png?v=1763803106
     Price: €60.00 EUR
   - [Green Sweater / 2XL](https://mldrip.com/products/untitled-nov11_22-32?variant=52329394798929)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/988D57A0-BBDC-473F-8FD1-8DEB0A3620C2_36109bce-aa30-47ff-b9d3-2fbe556a8faf.png?v=1762897223
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/988D57A0-BBDC-473F-8FD1-8DEB0A3620C2_36109bce-aa30-47ff-b9d3-2fbe556a8faf.png?v=1763803106
     Price: €60.00 EUR
   - [Green Sweater / 3XL](https://mldrip.com/products/untitled-nov11_22-32?variant=52329394831697)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/988D57A0-BBDC-473F-8FD1-8DEB0A3620C2_36109bce-aa30-47ff-b9d3-2fbe556a8faf.png?v=1762897223
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/988D57A0-BBDC-473F-8FD1-8DEB0A3620C2_36109bce-aa30-47ff-b9d3-2fbe556a8faf.png?v=1763803106
     Price: €60.00 EUR
   - [Green Sweater / 4XL](https://mldrip.com/products/untitled-nov11_22-32?variant=52329394864465)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/988D57A0-BBDC-473F-8FD1-8DEB0A3620C2_36109bce-aa30-47ff-b9d3-2fbe556a8faf.png?v=1762897223
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/988D57A0-BBDC-473F-8FD1-8DEB0A3620C2_36109bce-aa30-47ff-b9d3-2fbe556a8faf.png?v=1763803106
     Price: €60.00 EUR
   - [White Sweater / L](https://mldrip.com/products/untitled-nov11_22-32?variant=52329394897233)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/566A16F1-7924-45E9-9DC2-D60BDE17AD5B_dcb87e58-0fcb-4461-a9fe-1fc61e0144ec.png?v=1762897203
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/566A16F1-7924-45E9-9DC2-D60BDE17AD5B_dcb87e58-0fcb-4461-a9fe-1fc61e0144ec.png?v=1763803106
     Price: €60.00 EUR
   - [White Sweater / XL](https://mldrip.com/products/untitled-nov11_22-32?variant=52329394930001)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/566A16F1-7924-45E9-9DC2-D60BDE17AD5B_dcb87e58-0fcb-4461-a9fe-1fc61e0144ec.png?v=1762897203
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/566A16F1-7924-45E9-9DC2-D60BDE17AD5B_dcb87e58-0fcb-4461-a9fe-1fc61e0144ec.png?v=1763803106
     Price: €60.00 EUR
   - [White Sweater / 2XL](https://mldrip.com/products/untitled-nov11_22-32?variant=52329394962769)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/566A16F1-7924-45E9-9DC2-D60BDE17AD5B_dcb87e58-0fcb-4461-a9fe-1fc61e0144ec.png?v=1762897203
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/566A16F1-7924-45E9-9DC2-D60BDE17AD5B_dcb87e58-0fcb-4461-a9fe-1fc61e0144ec.png?v=1763803106
     Price: €60.00 EUR
   - [White Sweater / 3XL](https://mldrip.com/products/untitled-nov11_22-32?variant=52329394995537)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/566A16F1-7924-45E9-9DC2-D60BDE17AD5B_dcb87e58-0fcb-4461-a9fe-1fc61e0144ec.png?v=1762897203
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/566A16F1-7924-45E9-9DC2-D60BDE17AD5B_dcb87e58-0fcb-4461-a9fe-1fc61e0144ec.png?v=1763803106
     Price: €60.00 EUR
   - [White Sweater / 4XL](https://mldrip.com/products/untitled-nov11_22-32?variant=52329395028305)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/566A16F1-7924-45E9-9DC2-D60BDE17AD5B_dcb87e58-0fcb-4461-a9fe-1fc61e0144ec.png?v=1762897203
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/566A16F1-7924-45E9-9DC2-D60BDE17AD5B_dcb87e58-0fcb-4461-a9fe-1fc61e0144ec.png?v=1763803106
     Price: €60.00 EUR
   - [Red Sweater / L](https://mldrip.com/products/untitled-nov11_22-32?variant=52329395061073)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2C141E43-4007-4CED-9A16-A4874F8F28FA.png?v=1762896906
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2C141E43-4007-4CED-9A16-A4874F8F28FA.png?v=1763803106
     Price: €60.00 EUR
   - [Red Sweater / XL](https://mldrip.com/products/untitled-nov11_22-32?variant=52329395093841)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2C141E43-4007-4CED-9A16-A4874F8F28FA.png?v=1762896906
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2C141E43-4007-4CED-9A16-A4874F8F28FA.png?v=1763803106
     Price: €60.00 EUR
   - [Red Sweater / 2XL](https://mldrip.com/products/untitled-nov11_22-32?variant=52329395126609)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2C141E43-4007-4CED-9A16-A4874F8F28FA.png?v=1762896906
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2C141E43-4007-4CED-9A16-A4874F8F28FA.png?v=1763803106
     Price: €60.00 EUR
   - [Red Sweater / 3XL](https://mldrip.com/products/untitled-nov11_22-32?variant=52329395159377)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2C141E43-4007-4CED-9A16-A4874F8F28FA.png?v=1762896906
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2C141E43-4007-4CED-9A16-A4874F8F28FA.png?v=1763803106
     Price: €60.00 EUR
   - [Red Sweater / 4XL](https://mldrip.com/products/untitled-nov11_22-32?variant=52329395192145)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2C141E43-4007-4CED-9A16-A4874F8F28FA.png?v=1762896906
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2C141E43-4007-4CED-9A16-A4874F8F28FA.png?v=1763803106
     Price: €60.00 EUR
   - [Black Sweater / L](https://mldrip.com/products/untitled-nov11_22-32?variant=52329395224913)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C044EA25-9639-44DC-A261-451DF7999297.png?v=1762896979
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C044EA25-9639-44DC-A261-451DF7999297.png?v=1763803106
     Price: €60.00 EUR
   - [Black Sweater / XL](https://mldrip.com/products/untitled-nov11_22-32?variant=52329395257681)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C044EA25-9639-44DC-A261-451DF7999297.png?v=1762896979
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C044EA25-9639-44DC-A261-451DF7999297.png?v=1763803106
     Price: €60.00 EUR
   - [Black Sweater / 2XL](https://mldrip.com/products/untitled-nov11_22-32?variant=52329395290449)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C044EA25-9639-44DC-A261-451DF7999297.png?v=1762896979
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C044EA25-9639-44DC-A261-451DF7999297.png?v=1763803106
     Price: €60.00 EUR
   - [Black Sweater / 3XL](https://mldrip.com/products/untitled-nov11_22-32?variant=52329395323217)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C044EA25-9639-44DC-A261-451DF7999297.png?v=1762896979
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C044EA25-9639-44DC-A261-451DF7999297.png?v=1763803106
     Price: €60.00 EUR
   - [Black Sweater / 4XL](https://mldrip.com/products/untitled-nov11_22-32?variant=52329395355985)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C044EA25-9639-44DC-A261-451DF7999297.png?v=1762896979
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C044EA25-9639-44DC-A261-451DF7999297.png?v=1763803106
     Price: €60.00 EUR
 - [Basic Sweater – Simple, Clean, Essential](https://mldrip.com/products/basic-sweater-simple-clean-essential): Keep it effortless with the Basic Sweater, your go-to piece for everyday comfort and timeless style. Soft, versatile, and easy to pair — this sweater proves that simple always hits. 🧥 Why You’ll Love It: Soft cotton blend – lightweight, warm, and comfy all day Classic fit – clean silhouette that works with any look Minimal design – perfect for layering or rocking solo Everyday essential – ideal for school, chill days, or streetwear fits From casual hangs to clean fits, the Basic Sweater brings cozy energy and easy style wherever you go. 👉 Cop yours now and keep your wardrobe fresh and simple. 💯🖤
-  Updated: 2025-11-12T09:52:54Z
+  Updated: 2025-11-22T21:49:10Z
   Vendor: Mldrip
   Product Type: Pullovers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C557ACD-4A92-4DA6-8BC3-060D4F9CD328.png?v=1762898141
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5258.png?v=1763802457
   - [Basic White Sweater / M](https://mldrip.com/products/basic-sweater-simple-clean-essential?variant=52329526788433)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C557ACD-4A92-4DA6-8BC3-060D4F9CD328.png?v=1762898141
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C557ACD-4A92-4DA6-8BC3-060D4F9CD328.png?v=1763802457
     Price: €30.00 EUR
   - [Basic Grey Sweater / M](https://mldrip.com/products/basic-sweater-simple-clean-essential?variant=52329526821201)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8C38EDA7-AC23-4C4D-A6EB-67BB71545247.png?v=1762898124
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8C38EDA7-AC23-4C4D-A6EB-67BB71545247.png?v=1763802457
     Price: €30.00 EUR
   - [Basic Black Sweater / M](https://mldrip.com/products/basic-sweater-simple-clean-essential?variant=52329526853969)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/D3D31575-79C6-4D89-AFA3-B7933F1EBECD.png?v=1762898106
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/D3D31575-79C6-4D89-AFA3-B7933F1EBECD.png?v=1763802457
     Price: €30.00 EUR
   - [Basic White Sweater / L](https://mldrip.com/products/basic-sweater-simple-clean-essential?variant=52329539830097)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C557ACD-4A92-4DA6-8BC3-060D4F9CD328.png?v=1762898141
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C557ACD-4A92-4DA6-8BC3-060D4F9CD328.png?v=1763802457
     Price: €30.00 EUR
   - [Basic White Sweater / XL](https://mldrip.com/products/basic-sweater-simple-clean-essential?variant=52329539862865)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C557ACD-4A92-4DA6-8BC3-060D4F9CD328.png?v=1762898141
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C557ACD-4A92-4DA6-8BC3-060D4F9CD328.png?v=1763802457
     Price: €30.00 EUR
   - [Basic White Sweater / 2XL](https://mldrip.com/products/basic-sweater-simple-clean-essential?variant=52329539895633)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C557ACD-4A92-4DA6-8BC3-060D4F9CD328.png?v=1762898141
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1C557ACD-4A92-4DA6-8BC3-060D4F9CD328.png?v=1763802457
     Price: €30.00 EUR
   - [Basic Grey Sweater / L](https://mldrip.com/products/basic-sweater-simple-clean-essential?variant=52329539928401)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8C38EDA7-AC23-4C4D-A6EB-67BB71545247.png?v=1762898124
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8C38EDA7-AC23-4C4D-A6EB-67BB71545247.png?v=1763802457
     Price: €30.00 EUR
   - [Basic Grey Sweater / XL](https://mldrip.com/products/basic-sweater-simple-clean-essential?variant=52329539961169)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8C38EDA7-AC23-4C4D-A6EB-67BB71545247.png?v=1762898124
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8C38EDA7-AC23-4C4D-A6EB-67BB71545247.png?v=1763802457
     Price: €30.00 EUR
   - [Basic Grey Sweater / 2XL](https://mldrip.com/products/basic-sweater-simple-clean-essential?variant=52329539993937)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8C38EDA7-AC23-4C4D-A6EB-67BB71545247.png?v=1762898124
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8C38EDA7-AC23-4C4D-A6EB-67BB71545247.png?v=1763802457
     Price: €30.00 EUR
   - [Basic Black Sweater / L](https://mldrip.com/products/basic-sweater-simple-clean-essential?variant=52329540026705)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/D3D31575-79C6-4D89-AFA3-B7933F1EBECD.png?v=1762898106
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/D3D31575-79C6-4D89-AFA3-B7933F1EBECD.png?v=1763802457
     Price: €30.00 EUR
   - [Basic Black Sweater / XL](https://mldrip.com/products/basic-sweater-simple-clean-essential?variant=52329540059473)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/D3D31575-79C6-4D89-AFA3-B7933F1EBECD.png?v=1762898106
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/D3D31575-79C6-4D89-AFA3-B7933F1EBECD.png?v=1763802457
     Price: €30.00 EUR
   - [Basic Black Sweater / 2XL](https://mldrip.com/products/basic-sweater-simple-clean-essential?variant=52329540092241)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/D3D31575-79C6-4D89-AFA3-B7933F1EBECD.png?v=1762898106
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/D3D31575-79C6-4D89-AFA3-B7933F1EBECD.png?v=1763802457
     Price: €30.00 EUR
 - [Y2K Men’s Streetwear Set – Retro Harajuku Sportswear Outfit](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit): SPECIFICATIONS Closure Type: Zipper Craft of Weaving: Tatting Decoration: Pockets Gender: Men High-concerned chemical: None Material: COTTON,POLYESTER Pant Closure Type: Zipper Fly Sleeve Length(cm): Full Style: Vintage Thickness: Standard whether full opening: No Hoodies Size Table S: Shoulder:59cm Bust:122cm Length:71cm Sleeve:50cm M: Shoulder:61cm Bust:126cm Length:73cm Sleeve:51cm L: Shoulder:63cm Bust:130cm Length:75cm Sleeve:52cm XL: Shoulder:65cm Bust:134cm Length:77cm Sleeve:53cm 2XL:Shoulder:67cm Bust:138cm Length:79cm Sleeve:54cm 3XL:Shoulder:69cm Bust:142cm Length:81cm Sleeve:55cm pants Size Table S: Length:94cm WAIST:72cm HIP:98cm Thigh:60cm M:Length:96cm WAIST:76cm HIP:102cm Thigh:62cm L:Length:98cm WAIST:80cm HIP:106cm Thigh:64cm XL:Length:100cm WAIST:84cm HIP:110cm Thigh:66cm 2XL:Length:102cm WAIST:88cm HIP:114cm Thigh:68cm 3XL:Length:104cm WAIST:92cm HIP:118cm Thigh:70cm Size mearsured by ourselves, sometimes has some errors, but always within 3cm." Please note 1 cm = 0.39 inch,1 inch = 2.54 cm. Please feel free to contact us when finding difficulty in choosing size,we will give you the best option.
-  Updated: 2025-11-13T06:31:17Z
+  Updated: 2025-11-23T02:08:04Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S94bc759563f54ae699fe5dc23257e830k_64f9acdc-3cdf-43ff-98c8-a69d6e2b5d35.webp?v=1762971245
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5339.png?v=1763819597
   - [2 / L](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852299089)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S786db613493d4e838e939450d2bdb393l_7f4fa828-f232-4724-a840-af47145d0519.webp?v=1762970462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S786db613493d4e838e939450d2bdb393l_7f4fa828-f232-4724-a840-af47145d0519.webp?v=1763819597
     Price: €55.99 EUR
   - [2 / XL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852331857)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S786db613493d4e838e939450d2bdb393l_7f4fa828-f232-4724-a840-af47145d0519.webp?v=1762970462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S786db613493d4e838e939450d2bdb393l_7f4fa828-f232-4724-a840-af47145d0519.webp?v=1763819597
     Price: €55.99 EUR
   - [2 / S](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852364625)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S786db613493d4e838e939450d2bdb393l_7f4fa828-f232-4724-a840-af47145d0519.webp?v=1762970462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S786db613493d4e838e939450d2bdb393l_7f4fa828-f232-4724-a840-af47145d0519.webp?v=1763819597
     Price: €55.99 EUR
   - [2 / M](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852397393)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S786db613493d4e838e939450d2bdb393l_7f4fa828-f232-4724-a840-af47145d0519.webp?v=1762970462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S786db613493d4e838e939450d2bdb393l_7f4fa828-f232-4724-a840-af47145d0519.webp?v=1763819597
     Price: €55.99 EUR
   - [1 / XXL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852430161)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S51b8d80ff1d74254bf1ecb91582da4ca7_e5d1721c-5a8e-4408-be6b-389bbf7ac2a1.webp?v=1762970993
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S51b8d80ff1d74254bf1ecb91582da4ca7_e5d1721c-5a8e-4408-be6b-389bbf7ac2a1.webp?v=1763819597
     Price: €38.99 EUR
   - [1 / XXXL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852462929)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S51b8d80ff1d74254bf1ecb91582da4ca7_e5d1721c-5a8e-4408-be6b-389bbf7ac2a1.webp?v=1762970993
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S51b8d80ff1d74254bf1ecb91582da4ca7_e5d1721c-5a8e-4408-be6b-389bbf7ac2a1.webp?v=1763819597
     Price: €38.99 EUR
   - [1 / L](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852495697)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S51b8d80ff1d74254bf1ecb91582da4ca7_e5d1721c-5a8e-4408-be6b-389bbf7ac2a1.webp?v=1762970993
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S51b8d80ff1d74254bf1ecb91582da4ca7_e5d1721c-5a8e-4408-be6b-389bbf7ac2a1.webp?v=1763819597
     Price: €38.99 EUR
   - [1 / XL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852528465)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S51b8d80ff1d74254bf1ecb91582da4ca7_e5d1721c-5a8e-4408-be6b-389bbf7ac2a1.webp?v=1762970993
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S51b8d80ff1d74254bf1ecb91582da4ca7_e5d1721c-5a8e-4408-be6b-389bbf7ac2a1.webp?v=1763819597
     Price: €38.99 EUR
   - [1 / S](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852561233)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S51b8d80ff1d74254bf1ecb91582da4ca7_e5d1721c-5a8e-4408-be6b-389bbf7ac2a1.webp?v=1762970993
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S51b8d80ff1d74254bf1ecb91582da4ca7_e5d1721c-5a8e-4408-be6b-389bbf7ac2a1.webp?v=1763819597
     Price: €38.99 EUR
   - [1 / M](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852594001)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S51b8d80ff1d74254bf1ecb91582da4ca7_e5d1721c-5a8e-4408-be6b-389bbf7ac2a1.webp?v=1762970993
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S51b8d80ff1d74254bf1ecb91582da4ca7_e5d1721c-5a8e-4408-be6b-389bbf7ac2a1.webp?v=1763819597
     Price: €38.99 EUR
   - [5 / S](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852626769)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sf0bfeaa4b56f4149b8cc3a48fd020ab7k_b01f4aec-11c5-4d66-80be-d66fa8db397c.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sf0bfeaa4b56f4149b8cc3a48fd020ab7k_b01f4aec-11c5-4d66-80be-d66fa8db397c.webp?v=1763819597
     Price: €38.99 EUR
   - [5 / M](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852659537)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sf0bfeaa4b56f4149b8cc3a48fd020ab7k_b01f4aec-11c5-4d66-80be-d66fa8db397c.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sf0bfeaa4b56f4149b8cc3a48fd020ab7k_b01f4aec-11c5-4d66-80be-d66fa8db397c.webp?v=1763819597
     Price: €38.99 EUR
   - [4 / XXL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852692305)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S89d2e73d247344beb91863847a51b117u_d7cab02e-8018-44da-b14b-f7a66fd2e816.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S89d2e73d247344beb91863847a51b117u_d7cab02e-8018-44da-b14b-f7a66fd2e816.webp?v=1763819597
     Price: €38.99 EUR
   - [4 / XXXL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852725073)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S89d2e73d247344beb91863847a51b117u_d7cab02e-8018-44da-b14b-f7a66fd2e816.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S89d2e73d247344beb91863847a51b117u_d7cab02e-8018-44da-b14b-f7a66fd2e816.webp?v=1763819597
     Price: €38.99 EUR
   - [4 / L](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852757841)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S89d2e73d247344beb91863847a51b117u_d7cab02e-8018-44da-b14b-f7a66fd2e816.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S89d2e73d247344beb91863847a51b117u_d7cab02e-8018-44da-b14b-f7a66fd2e816.webp?v=1763819597
     Price: €38.99 EUR
   - [4 / XL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852790609)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S89d2e73d247344beb91863847a51b117u_d7cab02e-8018-44da-b14b-f7a66fd2e816.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S89d2e73d247344beb91863847a51b117u_d7cab02e-8018-44da-b14b-f7a66fd2e816.webp?v=1763819597
     Price: €38.99 EUR
   - [4 / S](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852823377)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S89d2e73d247344beb91863847a51b117u_d7cab02e-8018-44da-b14b-f7a66fd2e816.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S89d2e73d247344beb91863847a51b117u_d7cab02e-8018-44da-b14b-f7a66fd2e816.webp?v=1763819597
     Price: €38.99 EUR
   - [4 / M](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852856145)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S89d2e73d247344beb91863847a51b117u_d7cab02e-8018-44da-b14b-f7a66fd2e816.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S89d2e73d247344beb91863847a51b117u_d7cab02e-8018-44da-b14b-f7a66fd2e816.webp?v=1763819597
     Price: €38.99 EUR
   - [3 / XXL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852888913)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S94bc759563f54ae699fe5dc23257e830k_64f9acdc-3cdf-43ff-98c8-a69d6e2b5d35.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S94bc759563f54ae699fe5dc23257e830k_64f9acdc-3cdf-43ff-98c8-a69d6e2b5d35.webp?v=1763819597
     Price: €55.99 EUR
   - [3 / XXXL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852921681)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S94bc759563f54ae699fe5dc23257e830k_64f9acdc-3cdf-43ff-98c8-a69d6e2b5d35.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S94bc759563f54ae699fe5dc23257e830k_64f9acdc-3cdf-43ff-98c8-a69d6e2b5d35.webp?v=1763819597
     Price: €55.99 EUR
   - [3 / L](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852954449)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S94bc759563f54ae699fe5dc23257e830k_64f9acdc-3cdf-43ff-98c8-a69d6e2b5d35.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S94bc759563f54ae699fe5dc23257e830k_64f9acdc-3cdf-43ff-98c8-a69d6e2b5d35.webp?v=1763819597
     Price: €55.99 EUR
   - [3 / XL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338852987217)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S94bc759563f54ae699fe5dc23257e830k_64f9acdc-3cdf-43ff-98c8-a69d6e2b5d35.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S94bc759563f54ae699fe5dc23257e830k_64f9acdc-3cdf-43ff-98c8-a69d6e2b5d35.webp?v=1763819597
     Price: €55.99 EUR
   - [3 / S](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338853019985)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S94bc759563f54ae699fe5dc23257e830k_64f9acdc-3cdf-43ff-98c8-a69d6e2b5d35.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S94bc759563f54ae699fe5dc23257e830k_64f9acdc-3cdf-43ff-98c8-a69d6e2b5d35.webp?v=1763819597
     Price: €55.99 EUR
   - [3 / M](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338853052753)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S94bc759563f54ae699fe5dc23257e830k_64f9acdc-3cdf-43ff-98c8-a69d6e2b5d35.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S94bc759563f54ae699fe5dc23257e830k_64f9acdc-3cdf-43ff-98c8-a69d6e2b5d35.webp?v=1763819597
     Price: €55.99 EUR
   - [2 / XXL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338853085521)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S786db613493d4e838e939450d2bdb393l_7f4fa828-f232-4724-a840-af47145d0519.webp?v=1762970462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S786db613493d4e838e939450d2bdb393l_7f4fa828-f232-4724-a840-af47145d0519.webp?v=1763819597
     Price: €55.99 EUR
   - [2 / XXXL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338853118289)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S786db613493d4e838e939450d2bdb393l_7f4fa828-f232-4724-a840-af47145d0519.webp?v=1762970462
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S786db613493d4e838e939450d2bdb393l_7f4fa828-f232-4724-a840-af47145d0519.webp?v=1763819597
     Price: €55.99 EUR
   - [6 / XXL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338853151057)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sfa7ea609d7854103939f25f3880070e5y_bd39bea9-b832-44df-92af-0c875426686e.webp?v=1762970518
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sfa7ea609d7854103939f25f3880070e5y_bd39bea9-b832-44df-92af-0c875426686e.webp?v=1763819597
     Price: €38.99 EUR
   - [6 / XXXL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338853183825)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sfa7ea609d7854103939f25f3880070e5y_bd39bea9-b832-44df-92af-0c875426686e.webp?v=1762970518
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sfa7ea609d7854103939f25f3880070e5y_bd39bea9-b832-44df-92af-0c875426686e.webp?v=1763819597
     Price: €38.99 EUR
   - [6 / L](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338853216593)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sfa7ea609d7854103939f25f3880070e5y_bd39bea9-b832-44df-92af-0c875426686e.webp?v=1762970518
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sfa7ea609d7854103939f25f3880070e5y_bd39bea9-b832-44df-92af-0c875426686e.webp?v=1763819597
     Price: €38.99 EUR
   - [6 / XL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338853249361)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sfa7ea609d7854103939f25f3880070e5y_bd39bea9-b832-44df-92af-0c875426686e.webp?v=1762970518
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sfa7ea609d7854103939f25f3880070e5y_bd39bea9-b832-44df-92af-0c875426686e.webp?v=1763819597
     Price: €38.99 EUR
   - [6 / S](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338853282129)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sfa7ea609d7854103939f25f3880070e5y_bd39bea9-b832-44df-92af-0c875426686e.webp?v=1762970518
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sfa7ea609d7854103939f25f3880070e5y_bd39bea9-b832-44df-92af-0c875426686e.webp?v=1763819597
     Price: €38.99 EUR
   - [6 / M](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338853314897)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sfa7ea609d7854103939f25f3880070e5y_bd39bea9-b832-44df-92af-0c875426686e.webp?v=1762970518
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sfa7ea609d7854103939f25f3880070e5y_bd39bea9-b832-44df-92af-0c875426686e.webp?v=1763819597
     Price: €38.99 EUR
   - [5 / XXL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338853347665)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sf0bfeaa4b56f4149b8cc3a48fd020ab7k_b01f4aec-11c5-4d66-80be-d66fa8db397c.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sf0bfeaa4b56f4149b8cc3a48fd020ab7k_b01f4aec-11c5-4d66-80be-d66fa8db397c.webp?v=1763819597
     Price: €38.99 EUR
   - [5 / XXXL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338853380433)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sf0bfeaa4b56f4149b8cc3a48fd020ab7k_b01f4aec-11c5-4d66-80be-d66fa8db397c.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sf0bfeaa4b56f4149b8cc3a48fd020ab7k_b01f4aec-11c5-4d66-80be-d66fa8db397c.webp?v=1763819597
     Price: €38.99 EUR
   - [5 / L](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338853413201)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sf0bfeaa4b56f4149b8cc3a48fd020ab7k_b01f4aec-11c5-4d66-80be-d66fa8db397c.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sf0bfeaa4b56f4149b8cc3a48fd020ab7k_b01f4aec-11c5-4d66-80be-d66fa8db397c.webp?v=1763819597
     Price: €38.99 EUR
   - [5 / XL](https://mldrip.com/products/y2k-men-s-streetwear-set-retro-harajuku-sportswear-outfit?variant=52338853445969)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sf0bfeaa4b56f4149b8cc3a48fd020ab7k_b01f4aec-11c5-4d66-80be-d66fa8db397c.webp?v=1762971245
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sf0bfeaa4b56f4149b8cc3a48fd020ab7k_b01f4aec-11c5-4d66-80be-d66fa8db397c.webp?v=1763819597
     Price: €38.99 EUR
 - [25SS Mertra Set – Unisex High-Quality Hoodie & Jogger Sportswear](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear): SPECIFICATIONS Apparel: Fashion Black: Grey Blue: Mertea Closure Type: None Clothing Length: regular Collar: Hooded Craft of Weaving: Knit Detachable Part: None Gender: Men Hign-concerned Chemical: None Hooded: Yes Item Type: HOODIES Material: COTTON Model Number: Mertra Pattern Type: Patchwork Prints: Premium Quality: Men's Retro: Casual Sleeve Length(cm): Full Sleeve Style: regular Style: Casual Sweatshirts: Jackets Thickness: Fleece Trendy: Cotton Type: Loose Washed: Finish Women's: Hooded whether full opening: No
-  Updated: 2025-11-13T07:53:12Z
+  Updated: 2025-11-22T04:12:07Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Se65fa165a643408082621d62e2554a99X.webp?v=1762971526
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5242.png?v=1763738690
   - [8 / L](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977145169)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa5c0ca9e56b8451fa80538abc3cc41f1V.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa5c0ca9e56b8451fa80538abc3cc41f1V.webp?v=1763738690
     Price: €84.99 EUR
   - [8 / M](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977177937)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa5c0ca9e56b8451fa80538abc3cc41f1V.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa5c0ca9e56b8451fa80538abc3cc41f1V.webp?v=1763738690
     Price: €84.99 EUR
   - [9 / S](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977210705)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S80000d5977324887b54df1fa183be515J.webp?v=1762971894
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S80000d5977324887b54df1fa183be515J.webp?v=1763738690
     Price: €86.99 EUR
   - [8 / XL](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977243473)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa5c0ca9e56b8451fa80538abc3cc41f1V.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa5c0ca9e56b8451fa80538abc3cc41f1V.webp?v=1763738690
     Price: €84.99 EUR
   - [9 / L](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977276241)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S80000d5977324887b54df1fa183be515J.webp?v=1762971894
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S80000d5977324887b54df1fa183be515J.webp?v=1763738690
     Price: €86.99 EUR
   - [9 / M](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977309009)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S80000d5977324887b54df1fa183be515J.webp?v=1762971894
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S80000d5977324887b54df1fa183be515J.webp?v=1763738690
     Price: €86.99 EUR
   - [10 / S](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977341777)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa017b16229ca4cf0b63f244728ef8d12a.webp?v=1762970303
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa017b16229ca4cf0b63f244728ef8d12a.webp?v=1763738690
     Price: €84.99 EUR
   - [9 / XL](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977374545)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S80000d5977324887b54df1fa183be515J.webp?v=1762971894
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S80000d5977324887b54df1fa183be515J.webp?v=1763738690
     Price: €86.99 EUR
   - [6 / L](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977407313)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S27fe2d29fafc4f57aa05be4217b922165.webp?v=1762970303
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S27fe2d29fafc4f57aa05be4217b922165.webp?v=1763738690
     Price: €84.99 EUR
   - [6 / M](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977440081)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S27fe2d29fafc4f57aa05be4217b922165.webp?v=1762970303
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S27fe2d29fafc4f57aa05be4217b922165.webp?v=1763738690
     Price: €84.99 EUR
   - [7 / S](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977472849)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c22392748c8431b9bffcfc6d6dfabb9Y.webp?v=1762970303
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c22392748c8431b9bffcfc6d6dfabb9Y.webp?v=1763738690
     Price: €86.99 EUR
   - [6 / XL](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977505617)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S27fe2d29fafc4f57aa05be4217b922165.webp?v=1762970303
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S27fe2d29fafc4f57aa05be4217b922165.webp?v=1763738690
     Price: €84.99 EUR
   - [7 / L](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977538385)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c22392748c8431b9bffcfc6d6dfabb9Y.webp?v=1762970303
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c22392748c8431b9bffcfc6d6dfabb9Y.webp?v=1763738690
     Price: €86.99 EUR
   - [7 / M](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977571153)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c22392748c8431b9bffcfc6d6dfabb9Y.webp?v=1762970303
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c22392748c8431b9bffcfc6d6dfabb9Y.webp?v=1763738690
     Price: €86.99 EUR
   - [8 / S](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977603921)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa5c0ca9e56b8451fa80538abc3cc41f1V.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa5c0ca9e56b8451fa80538abc3cc41f1V.webp?v=1763738690
     Price: €84.99 EUR
   - [7 / XL](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977636689)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c22392748c8431b9bffcfc6d6dfabb9Y.webp?v=1762970303
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S3c22392748c8431b9bffcfc6d6dfabb9Y.webp?v=1763738690
     Price: €86.99 EUR
   - [12 / L](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977669457)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Se38190ead680435188418c7d1f8fbb2bC.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Se38190ead680435188418c7d1f8fbb2bC.webp?v=1763738690
     Price: €84.99 EUR
   - [12 / M](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977702225)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Se38190ead680435188418c7d1f8fbb2bC.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Se38190ead680435188418c7d1f8fbb2bC.webp?v=1763738690
     Price: €84.99 EUR
   - [13 / S](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977734993)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb98d90511ab243ef9a272d6f79c9de5fu.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb98d90511ab243ef9a272d6f79c9de5fu.webp?v=1763738690
     Price: €84.99 EUR
   - [12 / XL](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977767761)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Se38190ead680435188418c7d1f8fbb2bC.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Se38190ead680435188418c7d1f8fbb2bC.webp?v=1763738690
     Price: €84.99 EUR
   - [13 / L](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977800529)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb98d90511ab243ef9a272d6f79c9de5fu.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb98d90511ab243ef9a272d6f79c9de5fu.webp?v=1763738690
     Price: €84.99 EUR
   - [13 / M](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977833297)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb98d90511ab243ef9a272d6f79c9de5fu.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb98d90511ab243ef9a272d6f79c9de5fu.webp?v=1763738690
     Price: €84.99 EUR
   - [14 / S](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977866065)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S6d3e816f944f4dd783a8983d7be04956l.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S6d3e816f944f4dd783a8983d7be04956l.webp?v=1763738690
     Price: €84.99 EUR
   - [13 / XL](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977898833)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb98d90511ab243ef9a272d6f79c9de5fu.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb98d90511ab243ef9a272d6f79c9de5fu.webp?v=1763738690
     Price: €84.99 EUR
   - [10 / L](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977931601)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa017b16229ca4cf0b63f244728ef8d12a.webp?v=1762970303
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa017b16229ca4cf0b63f244728ef8d12a.webp?v=1763738690
     Price: €84.99 EUR
   - [10 / M](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977964369)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa017b16229ca4cf0b63f244728ef8d12a.webp?v=1762970303
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa017b16229ca4cf0b63f244728ef8d12a.webp?v=1763738690
     Price: €84.99 EUR
   - [11 / S](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338977997137)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S19c33d63b887426185b480a0f6930b0ah.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S19c33d63b887426185b480a0f6930b0ah.webp?v=1763738690
     Price: €86.99 EUR
   - [10 / XL](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978029905)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa017b16229ca4cf0b63f244728ef8d12a.webp?v=1762970303
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sa017b16229ca4cf0b63f244728ef8d12a.webp?v=1763738690
     Price: €84.99 EUR
   - [11 / L](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978062673)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S19c33d63b887426185b480a0f6930b0ah.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S19c33d63b887426185b480a0f6930b0ah.webp?v=1763738690
     Price: €86.99 EUR
   - [11 / M](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978095441)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S19c33d63b887426185b480a0f6930b0ah.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S19c33d63b887426185b480a0f6930b0ah.webp?v=1763738690
     Price: €86.99 EUR
   - [12 / S](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978128209)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Se38190ead680435188418c7d1f8fbb2bC.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Se38190ead680435188418c7d1f8fbb2bC.webp?v=1763738690
     Price: €84.99 EUR
   - [11 / XL](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978160977)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S19c33d63b887426185b480a0f6930b0ah.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S19c33d63b887426185b480a0f6930b0ah.webp?v=1763738690
     Price: €86.99 EUR
   - [1 / S](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978193745)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S4e3e447aebaa4414a6fc241da36da82ad.webp?v=1762971842
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S4e3e447aebaa4414a6fc241da36da82ad.webp?v=1763738690
     Price: €86.99 EUR
   - [1 / L](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978226513)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S4e3e447aebaa4414a6fc241da36da82ad.webp?v=1762971842
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S4e3e447aebaa4414a6fc241da36da82ad.webp?v=1763738690
     Price: €86.99 EUR
   - [1 / M](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978259281)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S4e3e447aebaa4414a6fc241da36da82ad.webp?v=1762971842
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S4e3e447aebaa4414a6fc241da36da82ad.webp?v=1763738690
     Price: €86.99 EUR
   - [2 / S](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978292049)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S4287227ecd15499cb8498b561d3fb5ab6.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S4287227ecd15499cb8498b561d3fb5ab6.webp?v=1763738690
     Price: €84.99 EUR
   - [1 / XL](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978324817)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S4e3e447aebaa4414a6fc241da36da82ad.webp?v=1762971842
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S4e3e447aebaa4414a6fc241da36da82ad.webp?v=1763738690
     Price: €86.99 EUR
   - [4 / L](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978357585)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb0084c207fca48459ad848b697bff70em.webp?v=1762971794
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb0084c207fca48459ad848b697bff70em.webp?v=1763738690
     Price: €84.99 EUR
   - [4 / M](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978390353)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb0084c207fca48459ad848b697bff70em.webp?v=1762971794
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb0084c207fca48459ad848b697bff70em.webp?v=1763738690
     Price: €84.99 EUR
   - [5 / S](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978423121)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96d05bd73d945ea8cedd834b0838d9ej.webp?v=1762970303
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96d05bd73d945ea8cedd834b0838d9ej.webp?v=1763738690
     Price: €86.99 EUR
   - [4 / XL](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978455889)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb0084c207fca48459ad848b697bff70em.webp?v=1762971794
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sb0084c207fca48459ad848b697bff70em.webp?v=1763738690
     Price: €84.99 EUR
   - [5 / L](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978488657)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96d05bd73d945ea8cedd834b0838d9ej.webp?v=1762970303
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96d05bd73d945ea8cedd834b0838d9ej.webp?v=1763738690
     Price: €86.99 EUR
   - [5 / M](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978521425)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96d05bd73d945ea8cedd834b0838d9ej.webp?v=1762970303
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96d05bd73d945ea8cedd834b0838d9ej.webp?v=1763738690
     Price: €86.99 EUR
   - [6 / S](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978554193)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S27fe2d29fafc4f57aa05be4217b922165.webp?v=1762970303
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S27fe2d29fafc4f57aa05be4217b922165.webp?v=1763738690
     Price: €84.99 EUR
   - [5 / XL](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978586961)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96d05bd73d945ea8cedd834b0838d9ej.webp?v=1762970303
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/Sc96d05bd73d945ea8cedd834b0838d9ej.webp?v=1763738690
     Price: €86.99 EUR
   - [2 / L](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978619729)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S4287227ecd15499cb8498b561d3fb5ab6.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S4287227ecd15499cb8498b561d3fb5ab6.webp?v=1763738690
     Price: €84.99 EUR
   - [2 / M](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978652497)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S4287227ecd15499cb8498b561d3fb5ab6.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S4287227ecd15499cb8498b561d3fb5ab6.webp?v=1763738690
     Price: €84.99 EUR
   - [3 / S](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978685265)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S98eeb23ae33b43e9accd4c4cef1e1acfB.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S98eeb23ae33b43e9accd4c4cef1e1acfB.webp?v=1763738690
     Price: €86.99 EUR
   - [2 / XL](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978718033)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S4287227ecd15499cb8498b561d3fb5ab6.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S4287227ecd15499cb8498b561d3fb5ab6.webp?v=1763738690
     Price: €84.99 EUR
   - [3 / L](https://mldrip.com/products/25ss-mertra-set-unisex-high-quality-hoodie-jogger-sportswear?variant=52338978750801)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S98eeb23ae33b43e9accd4c4cef1e1acfB.webp?v=1762970302
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S98eeb23ae33b43e9accd4c4cef1e1acfB.webp?v=1763738690
     Price: €86.99 EUR
 - [Trapstar Puffer Jacket – Premium Streetwear Winter Jacket Men & Women](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women): Stay warm and stylish this winter with our Trapstar Puffer Jacket, designed for people who want high-quality streetwear with everyday comfort. This jacket features thick padded insulation, a windproof outer shell, and a comfortable fit that keeps you warm in cold weather without feeling heavy. Made for streetwear lovers, this jacket brings a bold, modern look that pairs perfectly with cargos, jeans, or tech fleece outfits. Whether you’re going out, traveling, or dressing for winter, this puffer jacket gives you both warmth and street-style confidence.
-  Updated: 2025-11-18T07:24:59Z
+  Updated: 2025-11-22T06:23:01Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AE9DD923-4184-4B62-A47A-15419CD31847.jpg?v=1763407029
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5240.png?v=1763738234
   - [1 / XS](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378158891345)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7F01A6BF-F974-48D6-BFE9-3CC8E43AAA04.jpg?v=1763407165
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7F01A6BF-F974-48D6-BFE9-3CC8E43AAA04.jpg?v=1763738234
     Price: €139.99 EUR
   - [2 / XS](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378158924113)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/43173BD7-9AD2-47D2-B44B-DC59160BF193.jpg?v=1763407069
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/43173BD7-9AD2-47D2-B44B-DC59160BF193.jpg?v=1763738234
     Price: €139.99 EUR
   - [3 / XS](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378158956881)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C9BE6E1C-E5B9-4224-AE98-D14E071A4726.jpg?v=1763407123
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C9BE6E1C-E5B9-4224-AE98-D14E071A4726.jpg?v=1763738234
     Price: €139.99 EUR
   - [4 / XS](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378158989649)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AE9DD923-4184-4B62-A47A-15419CD31847.jpg?v=1763407029
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AE9DD923-4184-4B62-A47A-15419CD31847.jpg?v=1763738234
     Price: €139.99 EUR
   - [5 / XS](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378159022417)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/409FADDC-2C00-46E7-937D-6F36A22F120F.jpg?v=1763407243
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/409FADDC-2C00-46E7-937D-6F36A22F120F.jpg?v=1763738234
     Price: €139.99 EUR
   - [1 / S](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160234833)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7F01A6BF-F974-48D6-BFE9-3CC8E43AAA04.jpg?v=1763407165
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7F01A6BF-F974-48D6-BFE9-3CC8E43AAA04.jpg?v=1763738234
     Price: €139.99 EUR
   - [1 / M](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160267601)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7F01A6BF-F974-48D6-BFE9-3CC8E43AAA04.jpg?v=1763407165
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7F01A6BF-F974-48D6-BFE9-3CC8E43AAA04.jpg?v=1763738234
     Price: €139.99 EUR
   - [1 / L](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160300369)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7F01A6BF-F974-48D6-BFE9-3CC8E43AAA04.jpg?v=1763407165
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7F01A6BF-F974-48D6-BFE9-3CC8E43AAA04.jpg?v=1763738234
     Price: €139.99 EUR
   - [1 / XL](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160333137)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7F01A6BF-F974-48D6-BFE9-3CC8E43AAA04.jpg?v=1763407165
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7F01A6BF-F974-48D6-BFE9-3CC8E43AAA04.jpg?v=1763738234
     Price: €139.99 EUR
   - [2 / S](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160365905)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/43173BD7-9AD2-47D2-B44B-DC59160BF193.jpg?v=1763407069
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/43173BD7-9AD2-47D2-B44B-DC59160BF193.jpg?v=1763738234
     Price: €139.99 EUR
   - [2 / M](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160398673)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/43173BD7-9AD2-47D2-B44B-DC59160BF193.jpg?v=1763407069
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/43173BD7-9AD2-47D2-B44B-DC59160BF193.jpg?v=1763738234
     Price: €139.99 EUR
   - [2 / L](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160431441)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/43173BD7-9AD2-47D2-B44B-DC59160BF193.jpg?v=1763407069
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/43173BD7-9AD2-47D2-B44B-DC59160BF193.jpg?v=1763738234
     Price: €139.99 EUR
   - [2 / XL](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160464209)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/43173BD7-9AD2-47D2-B44B-DC59160BF193.jpg?v=1763407069
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/43173BD7-9AD2-47D2-B44B-DC59160BF193.jpg?v=1763738234
     Price: €139.99 EUR
   - [3 / S](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160496977)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C9BE6E1C-E5B9-4224-AE98-D14E071A4726.jpg?v=1763407123
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C9BE6E1C-E5B9-4224-AE98-D14E071A4726.jpg?v=1763738234
     Price: €139.99 EUR
   - [3 / M](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160529745)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C9BE6E1C-E5B9-4224-AE98-D14E071A4726.jpg?v=1763407123
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C9BE6E1C-E5B9-4224-AE98-D14E071A4726.jpg?v=1763738234
     Price: €139.99 EUR
   - [3 / L](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160562513)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C9BE6E1C-E5B9-4224-AE98-D14E071A4726.jpg?v=1763407123
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C9BE6E1C-E5B9-4224-AE98-D14E071A4726.jpg?v=1763738234
     Price: €139.99 EUR
   - [3 / XL](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160595281)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C9BE6E1C-E5B9-4224-AE98-D14E071A4726.jpg?v=1763407123
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C9BE6E1C-E5B9-4224-AE98-D14E071A4726.jpg?v=1763738234
     Price: €139.99 EUR
   - [4 / S](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160628049)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AE9DD923-4184-4B62-A47A-15419CD31847.jpg?v=1763407029
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AE9DD923-4184-4B62-A47A-15419CD31847.jpg?v=1763738234
     Price: €139.99 EUR
   - [4 / M](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160660817)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AE9DD923-4184-4B62-A47A-15419CD31847.jpg?v=1763407029
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AE9DD923-4184-4B62-A47A-15419CD31847.jpg?v=1763738234
     Price: €139.99 EUR
   - [4 / L](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160693585)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AE9DD923-4184-4B62-A47A-15419CD31847.jpg?v=1763407029
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AE9DD923-4184-4B62-A47A-15419CD31847.jpg?v=1763738234
     Price: €139.99 EUR
   - [4 / XL](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160726353)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AE9DD923-4184-4B62-A47A-15419CD31847.jpg?v=1763407029
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AE9DD923-4184-4B62-A47A-15419CD31847.jpg?v=1763738234
     Price: €139.99 EUR
   - [5 / S](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160759121)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/409FADDC-2C00-46E7-937D-6F36A22F120F.jpg?v=1763407243
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/409FADDC-2C00-46E7-937D-6F36A22F120F.jpg?v=1763738234
     Price: €139.99 EUR
   - [5 / M](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160791889)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/409FADDC-2C00-46E7-937D-6F36A22F120F.jpg?v=1763407243
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/409FADDC-2C00-46E7-937D-6F36A22F120F.jpg?v=1763738234
     Price: €139.99 EUR
   - [5 / L](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160824657)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/409FADDC-2C00-46E7-937D-6F36A22F120F.jpg?v=1763407243
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/409FADDC-2C00-46E7-937D-6F36A22F120F.jpg?v=1763738234
     Price: €139.99 EUR
   - [5 / XL](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160857425)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/409FADDC-2C00-46E7-937D-6F36A22F120F.jpg?v=1763407243
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/409FADDC-2C00-46E7-937D-6F36A22F120F.jpg?v=1763738234
     Price: €139.99 EUR
 - [Owens–Style Jumbo Lace-Up Sneakers – Chunky Avant-Garde Shoes](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes): Step up your style with these Rick Owens–inspired Jumbo Lace-Up Sneakers, designed with a bold chunky sole and a sleek, minimal upper that gives your outfit that signature avant-garde look. These sneakers combine high-fashion design with everyday comfort, making them a perfect choice for streetwear lovers and darkwear fans. The oversized rubber sole adds height and presence, while the long lace-up design gives the shoes their iconic silhouette. Wear them with cargos, stacked jeans, or oversized fits for the full luxury street aesthetic.
-  Updated: 2025-11-18T14:17:36Z
+  Updated: 2025-11-23T14:03:01Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.png?v=1763906581
   - [1 / 36](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380450226513)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763906581
     Price: €183.99 EUR
   - [1 / 37](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452258129)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763906581
     Price: €183.99 EUR
   - [1 / 38](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452290897)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763906581
     Price: €183.99 EUR
   - [1 / 39](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452323665)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763906581
     Price: €183.99 EUR
   - [1 / 40](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452356433)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763906581
     Price: €183.99 EUR
   - [1 / 41](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452389201)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763906581
     Price: €183.99 EUR
   - [1 / 42](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452421969)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763906581
     Price: €183.99 EUR
   - [1 / 43](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452454737)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763906581
     Price: €183.99 EUR
   - [1 / 44](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452487505)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763906581
     Price: €183.99 EUR
   - [1 / 45](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452520273)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763906581
     Price: €183.99 EUR
 - [UGG W Mini Bailey Bow II – Women’s Cozy Winter Boots](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots): Stay warm and look cute this winter with the UGG Mini Bailey Bow II. These women’s winter boots get that soft premium sheepskin feel, plus the small ribbon bow on the back wey give am that sweet feminine touch. Light, comfy and warm — perfect for cold days. The inside dey lined with soft wool wey keep your feet warm, and the outsole no heavy, so you fit walk well the whole day. Whether na for school, work or casual outing, these UGG-style winter shoes go match your winter drip. Key Features Soft wool lining for warm comfort Cute double-bow design at the back Lightweight, flexible sole Water-resistant upper Slip-on design for easy wear Perfect for winter, autumn & cold nights Why Customers Love It Super warm for cold weather Stylish bow design Easy to match with leggings, jeans, winter outfits Soft and comfortable for daily wear
-  Updated: 2025-11-20T15:13:56Z
+  Updated: 2025-11-21T03:13:57Z
   Vendor: Mldrip
   Product Type: Boots
   Availability: Available
@@ -16156,7 +16156,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5118.jpg?v=1763486537
     Price: €150.00 EUR
 - [Sneakers Bekett – Stylish Hidden-Wedge Streetwear Sneakers](https://mldrip.com/products/sneakers-bekett-stylish-hidden-wedge-streetwear-sneakers): Upgrade your everyday drip with the Bekett Sneakers, the perfect mix of comfort, height and clean street style. These shoes come with a hidden wedge inside, giving you extra height without anyone noticing — stylish, confident and still super comfortable to walk in. The soft upper, padded inside and strong outsole make these sneakers perfect for daily wear, school, work or casual outings. If you want that sporty + classy look, these Bekett-style sneakers go fit your outfit easily. Key Features Hidden wedge for extra height and a sleek silhouette Soft, comfortable inner padding Durable rubber outsole for daily use Easy to match with jeans, cargos, leggings or casual fits Secure lace-up design Lightweight + supportive feel for all-day comfort Why You’ll Love It Gives you a height boost without looking bulky Stylish but still comfortable for long wear Perfect for streetwear and everyday fashion Trendy design that looks good with any outfit
-  Updated: 2025-11-20T15:08:12Z
+  Updated: 2025-11-21T02:32:34Z
   Vendor: Mldrip
   Product Type: Boots
   Availability: Available
