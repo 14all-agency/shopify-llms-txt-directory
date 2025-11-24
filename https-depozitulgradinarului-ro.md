@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-11-21T00:00:56.942Z
+- Updated At: 2025-11-24T00:01:10.525Z
 
 ## Products
 
@@ -595,50 +595,57 @@ Substanta activa: flonicamid 500 g/kg
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-12at21.52.32_2.jpg?v=1739390212
   Price: 19,00 lei RON
-- [Ingrasamant Foliar Foliplant – 100 ML](https://depozitulgradinarului.ro/products/ingrasamant-foliar-foliplant-100-ml): Foliplant este un îngrășământ foliar universal, produs în România, formulat pentru a asigura o dezvoltare optimă a plantelor. Este potrivit pentru o gamă largă de culturi, inclusiv legume, arbuști, flori, pomi fructiferi, cereale și viță de vie. Compoziție Ingrasamant Foliar Foliplant: Azot total (N): 7,66% Fosfor solubil în apă (P₂O₅): 1,33% Potasiu solubil în apă (K₂O): 0,64% Magneziu (Mg): 0,04% Bor (B): 0,02% Cupru (Cu): 0,28% Sulf (S): 0,18% Calciu (Ca): 0,98% Mod de utilizare Ingrasamant Foliar Foliplant: Răsaduri: În primele zile de vegetație, aplicați 2 ml de Foliplant la 1,5 litri de apă prin stropire. După o lună, creșteți doza la 5 ml la 1,5 litri de apă. Legume (ardei, roșii, castraveți etc.): Aplicați o soluție de 0,37%–0,5% (40–50 ml la 10 litri de apă), efectuând 3–5 stropiri la intervale de 12–15 zile. Pomi fructiferi: Utilizați o soluție de 1,2% (120 ml la 10 litri de apă), cu 3–4 aplicări la intervale de 12 zile. Viță de vie: Aplicați o soluție de 0,9% (90 ml la 10 litri de apă), efectuând 3 stropiri. Flori de interior și exterior: Dizolvați 5 ml (un capac) în 2 litri de apă și aplicați o dată pe săptămână. Se recomandă efectuarea stropirilor în condiții de vreme favorabilă, la temperaturi cuprinse între 16–26°C. Beneficii Ingrasamant Foliar Foliplant: Îmbunătățește calitatea răsadurilor. Stimulează creșterea și dezvoltarea plantelor. Asigură producții ridicate și de calitate superioară. Crește rezistența plantelor la boli și dăunători. Prin utilizarea regulată a îngrășământului foliar Foliplant, plantele beneficiază de nutrienții esențiali necesari pentru o dezvoltare sănătoasă și o producție optimă. Specificatii tehnice Ingrasamant Foliar Foliplant:
-  Updated: 2025-07-29T08:21:20Z
+- [Ingrasamant Foliar Foliplant – 100 ML, Legume, Pomi, Flori, Vita de vie](https://depozitulgradinarului.ro/products/ingrasamant-foliar-foliplant-100-ml): Foliplant 100 ML, îngrășământ foliar universal românesc, stimulează creșterea legumelor, pomilor fructiferi, florilor și viței-de-vie, cu rezultate vizibile.
+  Updated: 2025-11-23T15:01:19Z
   Vendor: Foliplant
   Product Type: Ingrasamant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Picture1_9172683a-3511-43ad-85d5-c7f8ae2e580d.png?v=1739274224
-  Price: 6,00 lei RON
-- [Ingrasamant Foliar Foliplant – 500 ML](https://depozitulgradinarului.ro/products/ingrasamant-foliar-foliplant-500-ml): Foliplant este un îngrășământ foliar universal, produs în România, formulat pentru a asigura o dezvoltare optimă a plantelor. Este potrivit pentru o gamă largă de culturi, inclusiv legume, arbuști, flori, pomi fructiferi, cereale și viță de vie. Compoziție Ingrasamant Foliar Foliplant: Azot total (N): 7,66% Fosfor solubil în apă (P₂O₅): 1,33% Potasiu solubil în apă (K₂O): 0,64% Magneziu (Mg): 0,04% Bor (B): 0,02% Cupru (Cu): 0,28% Sulf (S): 0,18% Calciu (Ca): 0,98% Mod de utilizare Ingrasamant Foliar Foliplant: Răsaduri: În primele zile de vegetație, aplicați 2 ml de Foliplant la 1,5 litri de apă prin stropire. După o lună, creșteți doza la 5 ml la 1,5 litri de apă. Legume (ardei, roșii, castraveți etc.): Aplicați o soluție de 0,37%–0,5% (40–50 ml la 10 litri de apă), efectuând 3–5 stropiri la intervale de 12–15 zile. Pomi fructiferi: Utilizați o soluție de 1,2% (120 ml la 10 litri de apă), cu 3–4 aplicări la intervale de 12 zile. Viță de vie: Aplicați o soluție de 0,9% (90 ml la 10 litri de apă), efectuând 3 stropiri. Flori de interior și exterior: Dizolvați 5 ml (un capac) în 2 litri de apă și aplicați o dată pe săptămână. Se recomandă efectuarea stropirilor în condiții de vreme favorabilă, la temperaturi cuprinse între 16–26°C. Beneficii Ingrasamant Foliar Foliplant: Îmbunătățește calitatea răsadurilor. Stimulează creșterea și dezvoltarea plantelor. Asigură producții ridicate și de calitate superioară. Crește rezistența plantelor la boli și dăunători. Prin utilizarea regulată a îngrășământului foliar Foliplant, plantele beneficiază de nutrienții esențiali necesari pentru o dezvoltare sănătoasă și o producție optimă. Specificatii tehnice Ingrasamant Foliar Foliplant:
-  Updated: 2025-07-28T21:49:33Z
+  Price: 7,00 lei RON
+- [Ingrasamant Foliar Foliplant – 500 ML, Legume, Pomi, Flori, Vita de vie](https://depozitulgradinarului.ro/products/ingrasamant-foliar-foliplant-500-ml): Foliplant 500 ML, îngrășământ foliar universal românesc, stimulează creșterea legumelor, pomilor fructiferi, florilor și viței-de-vie, cu rezultate vizibile.
+  Updated: 2025-11-23T14:58:23Z
   Vendor: Foliplant
   Product Type: Ingrasamant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-03-07at22.58.00.jpg?v=1741381399
-  Price: 16,00 lei RON
-- [Ingrasamant Foliar Foliplant – 1 L](https://depozitulgradinarului.ro/products/ingrasamant-foliar-foliplant-1-l): Foliplant este un îngrășământ foliar universal, produs în România, formulat pentru a asigura o dezvoltare optimă a plantelor. Este potrivit pentru o gamă largă de culturi, inclusiv legume, arbuști, flori, pomi fructiferi, cereale și viță de vie. Compoziție Ingrasamant Foliar Foliplant: Azot total (N): 7,66% Fosfor solubil în apă (P₂O₅): 1,33% Potasiu solubil în apă (K₂O): 0,64% Magneziu (Mg): 0,04% Bor (B): 0,02% Cupru (Cu): 0,28% Sulf (S): 0,18% Calciu (Ca): 0,98% Mod de utilizare Ingrasamant Foliar Foliplant: Răsaduri: În primele zile de vegetație, aplicați 2 ml de Foliplant la 1,5 litri de apă prin stropire. După o lună, creșteți doza la 5 ml la 1,5 litri de apă. Legume (ardei, roșii, castraveți etc.): Aplicați o soluție de 0,37%–0,5% (40–50 ml la 10 litri de apă), efectuând 3–5 stropiri la intervale de 12–15 zile. Pomi fructiferi: Utilizați o soluție de 1,2% (120 ml la 10 litri de apă), cu 3–4 aplicări la intervale de 12 zile. Viță de vie: Aplicați o soluție de 0,9% (90 ml la 10 litri de apă), efectuând 3 stropiri. Flori de interior și exterior: Dizolvați 5 ml (un capac) în 2 litri de apă și aplicați o dată pe săptămână. Se recomandă efectuarea stropirilor în condiții de vreme favorabilă, la temperaturi cuprinse între 16–26°C. Beneficii Ingrasamant Foliar Foliplant: Îmbunătățește calitatea răsadurilor. Stimulează creșterea și dezvoltarea plantelor. Asigură producții ridicate și de calitate superioară. Crește rezistența plantelor la boli și dăunători. Prin utilizarea regulată a îngrășământului foliar Foliplant, plantele beneficiază de nutrienții esențiali necesari pentru o dezvoltare sănătoasă și o producție optimă. Specificatii tehnice Ingrasamant Foliar Foliplant:
-  Updated: 2025-07-31T12:30:50Z
+  Price: 17,00 lei RON
+- [Ingrasamant Foliar Foliplant – 1 L, Legume, Pomi, Flori, Vita de vie](https://depozitulgradinarului.ro/products/ingrasamant-foliar-foliplant-1-l): Foliplant 1 L, îngrășământ foliar universal românesc, stimulează creșterea legumelor, pomilor fructiferi, florilor și viței-de-vie, cu rezultate vizibile.
+  Updated: 2025-11-23T14:55:48Z
   Vendor: Foliplant
   Product Type: Ingrasamant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-03-07at22.58.00_1.jpg?v=1741381428
   Price: 30,00 lei RON
-- [Ingrasamant Foliar CROPMAX – 20 ML, 100% natural, Rosii (Tomate), Legume, Flori, Plante ornamentale, Vita-de-vie, Pomi fructiferi](https://depozitulgradinarului.ro/products/ingrasamant-foliar-cropmax-20-ml): Cropmax este un îngrășământ foliar superconcentrat, 100% natural, conceput pentru a stimula creșterea și dezvoltarea plantelor. Acesta furnizează o gamă largă de nutrienți esențiali, inclusiv macro și microelemente, aminoacizi organici, vitamine și enzime vegetale, contribuind la îmbunătățirea sănătății și productivității culturilor. Compoziție Ingrasamant Foliar CROPMAX: Macroelemente: Azot (N): 0,2% Fosfor (P): 0,4% Potasiu (K): 0,02% Microelemente: Fier (Fe): 220 mg/l Magneziu (Mg): 550 mg/l Zinc (Zn): 49 mg/l Mangan (Mn): 54 mg/l Cupru (Cu): 35 mg/l Bor (B): 70 mg/l Calciu (Ca), Molibden (Mo), Cobalt (Co), Nichel (Ni): 10 mg/l Alți compuși: Aminoacizi organici Stimulatori de creștere: auxine, citochinine, gibereline Vitamine și enzime vegetale Beneficii Ingrasamant Foliar CROPMAX: Stimulează dezvoltarea rapidă a sistemului radicular și a masei foliare. Îmbunătățește rezistența plantelor la boli și dăunători. Crește producția și calitatea recoltei. Îmbunătățește eficacitatea fertilizanților minerali și a pesticidelor. Contribuie la o mai bună adaptare a plantelor la condiții de stres abiotic, precum seceta sau temperaturile extreme. Mod de utilizare Ingrasamant Foliar CROPMAX: Răsaduri (5–7 cm): 2,5 ml/10 l apă pentru 50 m². Roșii (Tomate), Legume în sere și solarii: 20 ml/10 l apă pentru 100 m². Roșii (Tomate), Legume și flori în câmp: 10 ml/10 l apă pentru 100 m². Viță de vie și pomi fructiferi: 10–20 ml/10 l apă. Se recomandă aplicarea a 1–3 tratamente în perioada de vegetație, cu un interval de 10–14 zile între aplicări. Pentru culturi precum cereale, porumb, rapiță, floarea-soarelui, soia, fasole, mazăre și cartof, doza recomandată este de 500 ml/ha. Pentru tomate, castraveți, vinete, ardei, dovlecei, varză, conopidă, țelină, ceapă, salată, spanac, gulii, pepeni, căpșuni, viță de vie, pomi fructiferi, tutun și flori, doza recomandată este de 1 l/ha. Precauții: Agitați bine înainte de utilizare. Evitați aplicarea la temperaturi scăzute sau în timpul zilelor caniculare; aplicați preferabil dimineața sau seara. Compatibil cu majoritatea pesticidelor și fertilizanților; totuși, se recomandă efectuarea unui test de compatibilitate înainte de amestecare. Depozitați produsul la temperaturi de peste 0°C. Prin utilizarea Cropmax, plantele beneficiază de o nutriție echilibrată și de stimulente naturale care le ajută să atingă potențialul maxim de producție, într-un mod ecologic și sustenabil.
-  Updated: 2025-07-31T19:25:50Z
+- [Biostimulator Bombardier – 1 L](https://depozitulgradinarului.ro/products/biostimulator-bombardier-1-l): Bombardier este un îngrășământ lichid organic, obținut prin fermentația bacteriană controlată a unui amestec de plante, conceput pentru a stimula creșterea și dezvoltarea plantelor, atât la nivel radicular, cât și foliar. Acesta furnizează plantelor energie, vigoare și le ajută să depășească rapid condițiile de stres. Compoziție Biostimulator Bombardier: Aminoacizi liberi: 16,5% Azot total (N): 10,6% Azot organic: 5,6% Azot amoniacal: 5,0% Fosfor (P): 0,6% Potasiu (K): 0,2% Polizaharide: 7,8% Extract total de acid fulvic: 29,3% Materie organică totală: 76,7% Carbon organic total (C): 38,1% Vitamine, auxine, betaine, proteine, enzime Beneficii Biostimulator Bombardier: Crește vigoarea și energia plantelor Ajută plantele să depășească rapid condițiile de stres Stimulează creșterea rapidă a plantelor Îmbunătățește structura solului Recomandări de aplicare Biostimulator Bombardier: Cereale de toamnă: Aplicare foliară înainte de iarnă și una sau două aplicări în primăvară; doză: 4-6 litri/ha. Cereale de primăvară, floarea-soarelui, rapiță, porumb: Una sau două aplicări foliare; doză: 2-4 litri/ha. Legume: Aplicare foliară: 10-30 ml/10 litri apă; aplicare prin irigare: 5-10 litri/ha (tratament șoc: 20 litri/ha). Livezi, vii: Începeți aplicarea la înmugurirea timpurie, cu 4-6 aplicări pe tot ciclul; aplicare foliară: 10-30 ml/10 litri apă; aplicare prin irigare: 5-10 litri/ha (tratament șoc: 20 litri/ha). In, năut, fasole, muștar: Minimum 4 aplicări pe tot ciclul; doză foliară: 4-6 litri/ha. Mazăre, lucernă, trifoi, pășune: 2-3 aplicări foliare; doză: 2 litri/ha. Specificatii tehnice Biostimulator Bombardier:
+  Updated: 2025-11-23T14:45:32Z
+  Vendor: Bombardier
+  Product Type: GRAD-AGRO-Ingrasamant
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-12at22.02.10.jpg?v=1739392386
+  Price: 68,00 lei RON
+- [Ingrasamant Foliar CROPMAX – 20 ML, 100% natural, Rosii (Tomate), Legume, Flori, Plante ornamentale, Vita-de-vie, Pomi fructiferi](https://depozitulgradinarului.ro/products/ingrasamant-foliar-cropmax-20-ml): Cropmax 20 ML, îngrășământ foliar 100% natural, stimulează creșterea roșiilor, legumelor, florilor, pomilor și viței-de-vie, cu rezultate rapide.
+  Updated: 2025-11-23T14:49:12Z
   Vendor: Holland Farming
   Product Type: Ingrasamant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Picture1_f65cf6e8-4062-4681-8f9b-cf51d5a7cb99.png?v=1739274747
   Price: 8,50 lei RON
-- [Ingrasamant Foliar CROPMAX – 50 ML, 100% natural, Rosii (Tomate), Legume, Flori, Plante ornamentale, Vita-de-vie, Pomi fructiferi](https://depozitulgradinarului.ro/products/ingrasamant-foliar-cropmax-50-ml): Cropmax este un îngrășământ foliar superconcentrat, 100% natural, conceput pentru a stimula creșterea și dezvoltarea plantelor. Acesta furnizează o gamă largă de nutrienți esențiali, inclusiv macro și microelemente, aminoacizi organici, vitamine și enzime vegetale, contribuind la îmbunătățirea sănătății și productivității culturilor. Compoziție Ingrasamant Foliar CROPMAX: Macroelemente: Azot (N): 0,2% Fosfor (P): 0,4% Potasiu (K): 0,02% Microelemente: Fier (Fe): 220 mg/l Magneziu (Mg): 550 mg/l Zinc (Zn): 49 mg/l Mangan (Mn): 54 mg/l Cupru (Cu): 35 mg/l Bor (B): 70 mg/l Calciu (Ca), Molibden (Mo), Cobalt (Co), Nichel (Ni): 10 mg/l Alți compuși: Aminoacizi organici Stimulatori de creștere: auxine, citochinine, gibereline Vitamine și enzime vegetale Beneficii Ingrasamant Foliar CROPMAX: Stimulează dezvoltarea rapidă a sistemului radicular și a masei foliare. Îmbunătățește rezistența plantelor la boli și dăunători. Crește producția și calitatea recoltei. Îmbunătățește eficacitatea fertilizanților minerali și a pesticidelor. Contribuie la o mai bună adaptare a plantelor la condiții de stres abiotic, precum seceta sau temperaturile extreme. Mod de utilizare Ingrasamant Foliar CROPMAX: Răsaduri (5–7 cm): 2,5 ml/10 l apă pentru 50 m². Roșii (Tomate), Legume în sere și solarii: 20 ml/10 l apă pentru 100 m². Roșii (Tomate), Legume și flori în câmp: 10 ml/10 l apă pentru 100 m². Viță de vie și pomi fructiferi: 10–20 ml/10 l apă. Se recomandă aplicarea a 1–3 tratamente în perioada de vegetație, cu un interval de 10–14 zile între aplicări. Pentru culturi precum cereale, porumb, rapiță, floarea-soarelui, soia, fasole, mazăre și cartof, doza recomandată este de 500 ml/ha. Pentru tomate, castraveți, vinete, ardei, dovlecei, varză, conopidă, țelină, ceapă, salată, spanac, gulii, pepeni, căpșuni, viță de vie, pomi fructiferi, tutun și flori, doza recomandată este de 1 l/ha. Precauții: Agitați bine înainte de utilizare. Evitați aplicarea la temperaturi scăzute sau în timpul zilelor caniculare; aplicați preferabil dimineața sau seara. Compatibil cu majoritatea pesticidelor și fertilizanților; totuși, se recomandă efectuarea unui test de compatibilitate înainte de amestecare. Depozitați produsul la temperaturi de peste 0°C. Prin utilizarea Cropmax, plantele beneficiază de o nutriție echilibrată și de stimulente naturale care le ajută să atingă potențialul maxim de producție, într-un mod ecologic și sustenabil.
-  Updated: 2025-07-31T19:45:46Z
+- [Ingrasamant Foliar CROPMAX – 50 ML, 100% natural, Rosii (Tomate), Legume, Flori, Plante ornamentale, Vita-de-vie, Pomi fructiferi](https://depozitulgradinarului.ro/products/ingrasamant-foliar-cropmax-50-ml): Cropmax 50 ML, îngrășământ foliar 100% natural, stimulează creșterea și productivitatea roșiilor, legumelor, florilor, pomilor și viței-de-vie.
+  Updated: 2025-11-23T14:43:46Z
   Vendor: Holland Farming
   Product Type: Ingrasamant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-12at22.39.09.jpg?v=1739392771
   Price: 20,00 lei RON
-- [NPK 15-15-15 – 2 KG, Granulat, Fertilizant complex](https://depozitulgradinarului.ro/products/npk-15-15-15-2-kg): Îngrășământul NPK 15-15-15 este un fertilizant complex, granulat, care furnizează în proporții egale cei trei macronutrienți esențiali pentru dezvoltarea plantelor: azot (N), fosfor (P) și potasiu (K). Compoziție chimică Îngrășământ NPK 15-15-15: Azot total (N): 15% · Azot nitric (N-NO₃): 4,7% · Azot amoniacal (N-NH₄): 3,5% · Azot ureic (N-NH₂): 6,8% Pentaoxid de fosfor (P₂O₅): 15% · Solubil în apă: 13,4% Oxid de potasiu (K₂O): 15% · Solubil în apă: 15% Sulfați totali: 10% Umiditate: max. 1% Granulometrie: min. 95% între 1 și 4 mm Proprietăți fizice Îngrășământ NPK 15-15-15: Formă: Granule Culoare: Variabilă, în funcție de producător Solubilitate: Solubil în apă Recomandări de utilizare Îngrășământ NPK 15-15-15: Culturile vizate: Potrivit pentru toate tipurile de culturi, inclusiv cereale, legume, pomi fructiferi, viță de vie și plante ornamentale. Doze recomandate Îngrășământ NPK 15-15-15: · Cereale și plante tehnice: 200–300 kg/ha · Legume și flori: 25–50 g/m² · Arbori și arbuști fructiferi: 50 g la baza plantei · Gazon: 100 g/5 m² Metode de aplicare Îngrășământ NPK 15-15-15: · Încorporare în sol: Se recomandă aplicarea îngrășământului înainte de semănat sau plantat, urmată de încorporarea superficială în sol. · Aplicare la suprafață: Poate fi aplicat și la suprafața solului, urmat de irigare pentru a facilita dizolvarea și absorbția nutrienților. Avantaje Îngrășământ NPK 15-15-15: Echilibru nutritiv: Asigură un aport uniform de azot, fosfor și potasiu, esențial pentru creșterea și dezvoltarea armonioasă a plantelor. Versatilitate: Potrivit pentru o gamă largă de culturi și tipuri de sol. Îmbunătățirea calității solului: Conținutul de sulf contribuie la optimizarea pH-ului solului și la disponibilitatea altor nutrienți. Precauții Îngrășământ NPK 15-15-15: Depozitare: Păstrați produsul în ambalajul original, într-un loc uscat și ferit de lumina directă a soarelui. Manipulare: Utilizați echipament de protecție adecvat (mănuși, mască) în timpul manipulării pentru a evita contactul direct cu pielea și inhalarea prafului. Dozare corectă: Respectați dozele recomandate pentru a preveni supradozarea, care poate duce la salinizarea solului și afectarea negativă a culturilor. Specificatii tehnice Îngrășământ NPK 15-15-15:
-  Updated: 2025-07-28T17:39:57Z
+- [NPK 15-15-15 – 2 KG, Granulat, Fertilizant complex](https://depozitulgradinarului.ro/products/npk-15-15-15-2-kg): Fertilizant NPK 15-15-15, 2 KG, granulat, echilibrat, pentru legume, cereale, pomi, viță-de-vie și plante ornamentale. Creștere sănătoasă garantată.
+  Updated: 2025-11-23T14:41:12Z
   Vendor: AGROSEM
   Product Type: Ingrasamant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Picture1_c5062430-1fb4-4e4c-9ab0-e8ab702875ca.png?v=1739275317
   Price: 18,00 lei RON
-- [Ingrasamant de tip UREE - 2 KG, Granulat, 46% azot](https://depozitulgradinarului.ro/products/ingrasamant-de-tip-uree-2-kg): Ureea este un îngrășământ chimic granulat cu cel mai ridicat conținut de azot (46%), utilizat pe scară largă în agricultură pentru a susține creșterea plantelor și a îmbunătăți randamentele culturilor. Este recomandată pentru fertilizarea de bază, dar și pentru aplicările faziale, asigurând o nutriție eficientă și echilibrată pentru plante. Datorită formei sale ușor de utilizat, ureea este potrivită pentru o gamă largă de culturi, inclusiv cereale, legume, plante tehnice și furajere. Specificatii tehnice Ingrasamant de tip UREE:
-  Updated: 2025-07-26T16:35:47Z
+- [Ingrasamant de tip UREE - 2 KG, Granulat, 46% azot](https://depozitulgradinarului.ro/products/ingrasamant-de-tip-uree-2-kg): Uree granulat 2 KG, îngrășământ cu 46% azot. Stimulează creșterea plantelor, potrivit pentru legume, cereale, pomi și gazon.
+  Updated: 2025-11-23T14:35:32Z
   Vendor: AGROSEM
   Product Type: Ingrasamant
   Availability: Available
@@ -847,22 +854,22 @@ Substanta activa: flonicamid 500 g/kg
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Syngenta_4f53d603-4d76-4177-bdc1-542799a7c2bb.jpg?v=1739640155
   Price: 440,00 lei RON
-- [Sapaliga dreapta, 3 colti](https://depozitulgradinarului.ro/products/sapaliga-dreapta-3-colti): Sapaliga cu furca este o unealta potrivita pentru prasit, plantat, pentru afanarea, saparea si farmitarea solului.
-  Updated: 2025-07-28T11:07:34Z
+- [Sapaliga Dreapta cu 3 Colti](https://depozitulgradinarului.ro/products/sapaliga-dreapta-3-colti): Săpăligă dreaptă cu 3 colți, perfectă pentru prășit, afânat și mărunțit solul. Robustă, practică și ușor de folosit în grădină sau agricultură.
+  Updated: 2025-11-23T14:24:43Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/sapaliga.jpg?v=1739301669
   Price: 10,00 lei RON
-- [Lopatica pentru gradinarit, Negru/ Roz](https://depozitulgradinarului.ro/products/lopatica-pentru-gradinarit-negru-roz): Lopățica pentru grădinărit este un instrument versatil și poate fi folosită în mai multe moduri în grădină.
-  Updated: 2025-07-28T20:52:05Z
+- [Lopatica pentru Gradinarit Negru/ Roz](https://depozitulgradinarului.ro/products/lopatica-pentru-gradinarit-negru-roz): Lopățică negru/roz pentru grădinărit, perfectă pentru plantare, afânare, transplantare și îndepărtarea buruienilor. Rezistentă și ergonomică.
+  Updated: 2025-11-23T14:21:28Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/lopaticaneagra.jpg?v=1739303648
   Price: 10,00 lei RON
-- [Lopatica pentru gradinarit, Verde](https://depozitulgradinarului.ro/products/lopatica-pentru-gradinarit-verde): Lopățica pentru grădinărit este un instrument versatil și poate fi folosită în mai multe moduri în grădină.
-  Updated: 2025-07-27T22:30:37Z
+- [Lopățică Pentru Grădinărit Verde](https://depozitulgradinarului.ro/products/lopatica-pentru-gradinarit-verde): Lopățică verde pentru grădinărit, ideală pentru plantat, afânat, transplantat și îndepărtat buruieni. Ușoară, practică și indispensabilă în grădină.
+  Updated: 2025-11-23T14:17:43Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
@@ -1399,85 +1406,85 @@ Substanta activa: flonicamid 500 g/kg
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.47_1.jpg?v=1739902847
   Price: 2,99 lei RON
-- [Seminte Ceapa Alba WHITE QUEEN, AGROSEM - 1.5 GR](https://depozitulgradinarului.ro/products/seminte-ceapa-alba-white-queen-agrosem-1-5-gr): Soi timpuriu, distanța între rânduri 30 cm, pe râ nd 6-8 cm. Răsare în 10-15 zile, formează bulbi mari, de consistență moale. Frunze mici, se seamănă în martie-aprilie. Recoltare după 5 luni.
-  Updated: 2025-07-26T11:45:01Z
+- [Seminte Ceapa Alba WHITE QUEEN, AGROSEM - 1.5 GR](https://depozitulgradinarului.ro/products/seminte-ceapa-alba-white-queen-agrosem-1-5-gr): Seminte Ceapa Alba WHITE QUEEN, AGROSEM (1.5 GR) – Ceapă albă mare, dulce și suculentă, perfectă pentru salate, gătit și conservare cu aspect comercial excelent.
+  Updated: 2025-11-23T15:31:43Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/ceapa_alba.jpg?v=1739372093
   Price: 2,99 lei RON
-- [Seminte Ceapa Galbena STUTTGART GIANT, AGROSEM - 1.5 GR](https://depozitulgradinarului.ro/products/seminte-ceapa-galbena-stuttgart-giant-agrosem-1-5-gr): Ceapa Stuttgarter este un soi pentru producerea arpagicului din sămânță, dar și a cepei pentru consum. Culoarea exterioară a cepelor este galbenă și pulpa este albă. Soiul este productiv, bun pentru păstrare.
-  Updated: 2025-07-26T08:23:59Z
+- [Seminte Ceapa Galbena STUTTGART GIANT, AGROSEM - 1.5 GR](https://depozitulgradinarului.ro/products/seminte-ceapa-galbena-stuttgart-giant-agrosem-1-5-gr): Seminte Ceapa Galbena STUTTGART GIANT, AGROSEM (1.5 GR) – Ceapă mare, aromată și ușor picantă, perfectă pentru salate, gătit și păstrare pe termen lung.
+  Updated: 2025-11-23T15:14:07Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.47_2.jpg?v=1739902877
   Price: 2,99 lei RON
-- [Seminte Ceapa Rosie TROPEANA LUNGA, AGROSEM - 1.5 GR](https://depozitulgradinarului.ro/products/seminte-ceapa-rosie-tropeana-lunga-agrosem-1-5-gr): Tropea lunga este un soi de ceapa rosie. Aceasta varietate de ceapa rosie de la Raci Sementi produce bulbi de culoare violacee, cu o forma oval-alungita, grosi, Bulbi au o pulpa de culoare violet deschis. Este o ceapa rosie mediu precoce. Varietate recomandata pentru consum estival, similara cepei “de apa”.
-  Updated: 2025-07-28T02:13:43Z
+- [Seminte Ceapa Rosie TROPEANA LUNGA, AGROSEM - 1.5 GR](https://depozitulgradinarului.ro/products/seminte-ceapa-rosie-tropeana-lunga-agrosem-1-5-gr): Seminte Ceapa Rosie TROPEANA LUNGA, AGROSEM (1.5 GR) – Ceapă dulce și suculentă, bulbi mari și alungiți, perfectă pentru salate, gătit și rețete savuroase.
+  Updated: 2025-11-23T15:04:22Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.47_3.jpg?v=1739902909
   Price: 2,99 lei RON
-- [Seminte Conopida IGLOO, AGROSEM – 1 GR](https://depozitulgradinarului.ro/products/seminte-conopida-igloo-agrosem-1-gr): Soi tarziu, distanta intre randuri :60-100 cm, pe rand 50-80cm. Rasare in 5-7 zile, culoarea alba, greutatea intre 1.5-1.7 kg/capatana. Semanare: mai-iunie, se recolteaza la 130 zile
-  Updated: 2025-07-25T23:58:47Z
+- [Seminte Conopida IGLOO, AGROSEM – 1 GR | Conopidă Tardivă, Alb Imaculat](https://depozitulgradinarului.ro/products/seminte-conopida-igloo-agrosem-1-gr): Seminte Conopida IGLOO, AGROSEM (1 GR) – obține conopidă mare, albă și crocantă în grădina ta! Ideală pentru salate, supe, congelare sau preparate delicioase.
+  Updated: 2025-11-23T15:09:58Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.48.jpg?v=1739902955
   Price: 2,99 lei RON
-- [Seminte Conopida SNOW BALL, AGROSEM - 1 GR](https://depozitulgradinarului.ro/products/seminte-conopida-snow-ball-agrosem-1-gr): CONOPIDA SNOWBALL are o inflorescenta uniforma si o culoare alb inchis. Perioada de vegatatie este cuprinsa in intervalul 85 - 95 de zile de la plantare. Potentialul de productie este unul ridicat iar inflorescenta atinge greutati cuprinse intre 1.8 si 2.3 kg. Diametru: 16cm.
-  Updated: 2025-07-29T02:05:04Z
+- [Seminte Conopida SNOW BALL, AGROSEM - 1 GR](https://depozitulgradinarului.ro/products/seminte-conopida-snow-ball-agrosem-1-gr): Seminte Conopida SNOW BALL, AGROSEM – conopidă tardivă, inflorescențe mari, albe și ferme, ideală pentru consum proaspăt, gătit, congelare și industrializare.
+  Updated: 2025-11-23T14:46:24Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.48_1.jpg?v=1739902983
   Price: 2,99 lei RON
-- [Seminte Dovleac BERETTINA, AGROSEM - 2 GR](https://depozitulgradinarului.ro/products/seminte-dovleac-berettina-agrosem-2-gr): Soi rustic cu fructe de mărime medie,de culoare închisă, cu gust excelent și textură bună. Soi potrivit pentru copt în cuptor. Este rezistent la depozitare.
-  Updated: 2025-07-27T08:27:53Z
+- [Seminte Dovleac BERETTINA, AGROSEM - 2 GR](https://depozitulgradinarului.ro/products/seminte-dovleac-berettina-agrosem-2-gr): Seminte Dovleac BERETTINA, AGROSEM (2 GR) – dovleac italian mare, dulce și aromat, perfect pentru piureuri, supe, plăcinte și păstrare pe termen lung.
+  Updated: 2025-11-23T14:40:58Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_17.jpg?v=1740078836
   Price: 2,99 lei RON
-- [Seminte Dovleac MOSCATA PROVENZA, AGROSEM - 2 GR](https://depozitulgradinarului.ro/products/seminte-dovleac-moscata-provenza-agrosem-2-gr): Dovleacul Moscata di Provenza este un soi cu perioada de vegetatie lunga. Fructul este turtit-lobat, cu santuri adancite in coaja de culoarea portocaliu-verzuie. Pulpa este groasa, de culoare portocalie, cu gust dulce placut. Planta nu este pretentioasa fata de clima si sol.
-  Updated: 2025-07-28T01:48:10Z
+- [Seminte Dovleac MOSCATA PROVENZA, AGROSEM - 2 GR](https://depozitulgradinarului.ro/products/seminte-dovleac-moscata-provenza-agrosem-2-gr): Seminte Dovleac MOSCATA PROVENZA, AGROSEM (2 GR) – dovleac mare, portocaliu, dulce și parfumat. Ideal pentru supe, piureuri, plăcinte și păstrare.
+  Updated: 2025-11-23T14:38:15Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_7.jpg?v=1740078501
   Price: 2,99 lei RON
-- [Seminte Dovlecel BOLOGNESE, AGROSEM – 4 GR](https://depozitulgradinarului.ro/products/seminte-dovlecel-bolognese-agrosem-4-gr): Dovlecelul Bolognese este un soi timpuriu, cu perioada de vegetatie de 45-50 de zile. Tulpina este o tufa erecta, compacta, cu ramificatii scurte. Fructele sunt lungi de 11-12 cm, au forma de para alungita, sunt de culoare verde, cu miezul alb gustos. Se recolteaza esalonat.
-  Updated: 2025-07-27T21:43:37Z
+- [Seminte Dovlecel BOLOGNESE, AGROSEM – 4 GR](https://depozitulgradinarului.ro/products/seminte-dovlecel-bolognese-agrosem-4-gr): Seminte Dovlecel BOLOGNESE, AGROSEM (4 GR) – dovlecei verzi timpurii, cilindrici, cu pulpa fragedă și gustoasă. Ideali pentru gătit, grătar sau conservare.
+  Updated: 2025-11-23T14:33:56Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_9.jpg?v=1740078591
   Price: 2,99 lei RON
-- [Seminte Dovlecel GREY ZUCCHINI, AGROSEM – 4 GR](https://depozitulgradinarului.ro/products/seminte-dovlecel-grey-zucchini-agrosem-4-gr): Dovlecelul Grey Zucchini este un soi timpuriu, cu perioada de vegetatie de 45 de zile. Tulpina este o tufa erecta, compacta, cu ramificatii scurte. Fructele de 12-14 cm au forma de para alungita, sunt de culoare verde deschis, iar miezul este alb, gustos. Se recolteaza esalonat.
-  Updated: 2025-07-28T00:27:42Z
+- [Seminte Dovlecel GREY ZUCCHINI, AGROSEM – 4 GR](https://depozitulgradinarului.ro/products/seminte-dovlecel-grey-zucchini-agrosem-4-gr): Seminte Dovlecel GREY ZUCCHINI, AGROSEM (4 GR) – dovlecei gri timpurii, foarte productivi, cu pulpa fragedă și gustoasă. Ideali pentru gătit și conservare.
+  Updated: 2025-11-23T14:30:33Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.48_3.jpg?v=1739903327
   Price: 2,99 lei RON
-- [Seminte Dovlecel NERO DI MILANO, AGROSEM – 4 GR](https://depozitulgradinarului.ro/products/seminte-dovlecel-nero-di-milano-agrosem-4-gr): Soi semi timpuriu. Fructele sunt cilindrice, alungite, de culoare verde închis, aproape negre. Pulpa fructului este albă.
-  Updated: 2025-07-29T16:12:34Z
+- [Seminte Dovlecel NERO DI MILANO, AGROSEM – 4 GR](https://depozitulgradinarului.ro/products/seminte-dovlecel-nero-di-milano-agrosem-4-gr): Seminte Dovlecel NERO DI MILANO, AGROSEM (4 GR) – dovlecei negri, timpurii, foarte productivi. Fructe subțiri, gustoase, ideale pentru gătit și conserve.
+  Updated: 2025-11-23T14:25:24Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.48_4.jpg?v=1739903403
   Price: 2,99 lei RON
-- [Seminte Dovlecel WHITE OF TRIESTE, AGROSEM – 4 GR](https://depozitulgradinarului.ro/products/seminte-dovlecel-white-of-trieste-agrosem-4-gr): Fruct uşor conic, cu coajă de culoare albă-crem. Distanţa de plantare: 2 m între rânduri şi 1,5 m între plante pe rând. Se plantează 4-5 seminţe în cuib.
-  Updated: 2025-07-25T21:52:37Z
+- [Seminte Dovlecel WHITE OF TRIESTE, AGROSEM – 4 GR](https://depozitulgradinarului.ro/products/seminte-dovlecel-white-of-trieste-agrosem-4-gr): Seminte Dovlecel WHITE OF TRIESTE, AGROSEM (4 GR) – dovlecei albi, timpurii, extrem de productivi. Pulpa fragedă și gustoasă, ideală pentru orice preparat.
+  Updated: 2025-11-23T14:20:03Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.49_1.jpg?v=1739903470
   Price: 2,99 lei RON
-- [Seminte Fasole Oloaga BERGGOLD, AGROSEM – 15 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-berggold-agrosem-15-gr): Fasole oloaga Bergold, este un soi de fasole de gradina. Planta are o inaltime de 45-50 cm, cu frunze de culoare verzuie, productiva. Pastaile sunt de culoare galben-aurie rotunde cu o lungime de 12-14 cm si grosime de 8-9 mm. Semintele sunt albe.
-  Updated: 2025-07-27T21:42:01Z
+- [Seminte Fasole Oloaga BERGGOLD, AGROSEM – 15 GR | Păstăi Fragede, Fără Ațe](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-berggold-agrosem-15-gr): Seminte fasole oloaga Berggold, Agrosem (15 GR) – soi timpuriu, păstăi galbene, drepte, fragede, fără ațe, planta pitică 45–50 cm, ideal pentru consum și conservare.
+  Updated: 2025-11-23T05:14:17Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -2159,15 +2166,15 @@ Substanta activa: flonicamid 500 g/kg
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.04_11.jpg?v=1740080612
   Price: 2,99 lei RON
-- [Seminte Fasole Oloaga BERGGOLD, AGROSEM - cutie 250 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-berggold-agrosem-cutie-250-gr): Seminte fasole oloaga Berggold Agrosem, (250 gr) – soi timpuriu, păstăi galbene, drepte, fragede, fără ațe, planta pitică 45–50 cm, ideal pentru consum și conservare.
-  Updated: 2025-11-06T21:49:27Z
+- [Seminte Fasole Oloaga BERGGOLD, AGROSEM - cutie 250 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-berggold-agrosem-cutie-250-gr): Seminte fasole oloaga Berggold Agrosem, (250 GR) – soi timpuriu, păstăi galbene, drepte, fragede, fără ațe, planta pitică 45–50 cm, ideal pentru consum și conservare.
+  Updated: 2025-11-23T05:17:16Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.44.jpg?v=1739902372
   Price: 14,90 lei RON
-- [Seminte Fasole Oloaga BERGGOLD, AGROSEM - 100 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-berggold-agrosem-100-gr): Seminte fasole oloaga Berggold Agrosem, (100 gr) – soi timpuriu, păstăi galbene, drepte, fragede, fără ațe, planta pitică 45–50 cm, ideal pentru consum și conservare.
-  Updated: 2025-11-06T19:22:39Z
+- [Seminte Fasole Oloaga BERGGOLD, AGROSEM - 100 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-berggold-agrosem-100-gr): Seminte fasole oloaga Berggold Agrosem, (100 GR) – soi timpuriu, păstăi galbene, drepte, fragede, fără ațe, planta pitică 45–50 cm, ideal pentru consum și conservare.
+  Updated: 2025-11-23T05:16:22Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -4201,7 +4208,7 @@ Livrare rapidă!
   Updated: 2025-10-29T12:31:07Z
   Total Products: 49
 - [Îngrășăminte de calitate | Naturale, Chimice, Foliare, Granulate](https://depozitulgradinarului.ro/collections/ingrasaminte): Îngrășăminte de calitate pentru plante sănătoase și recolte bogate - alege îngrășăminte naturale, chimice, foliare sau granulate pentru o creștere optimă.
-  Updated: 2025-10-15T11:28:05Z
+  Updated: 2025-11-23T15:01:19Z
   Total Products: 39
 - [Semințe de Gazon 1 kg & 10 kg | Universal, Soare, Umbră, Sport](https://depozitulgradinarului.ro/collections/gazon): Cumpără semințe de gazon pentru soare, umbră, sport și utilizare universală. Pachete de 1 kg și 10 kg pentru peluze dense, verzi și rezistente. Livrare rapidă!
   Updated: 2025-10-29T07:25:44Z
@@ -4210,7 +4217,7 @@ Livrare rapidă!
   Updated: 2025-10-31T11:26:59Z
   Total Products: 11
 - [Accesorii Casă & Grădină | Unelte, Irigare, Gazon, Raticide](https://depozitulgradinarului.ro/collections/casa-gradina): Descoperă accesorii pentru grădinărit, unelte, sisteme de irigare, semințe de gazon și soluții eficiente pentru combaterea șoarecilor și șobolanilor.
-  Updated: 2025-11-19T16:10:33Z
+  Updated: 2025-11-23T14:24:43Z
   Total Products: 148
 - [Semințe Profesionale Legume și Fructe – Hibrizi Productivi](https://depozitulgradinarului.ro/collections/seminte-profesionale-hybrizi): Alege semințe profesionale de legume și fructe, hibrizi productivi, de calitate pentru grădină, solarii și câmp. Soiuri cu randament ridicat, ideale pentru cultivatori exigenți.
   Updated: 2025-11-09T12:00:42Z
@@ -4222,13 +4229,13 @@ Livrare rapidă!
   Updated: 2025-11-15T13:06:09Z
   Total Products: 47
 - [Unelte și Accesorii de Grădinărit | Foarfeci, Topoare, Greble și Sisteme de Irigare](https://depozitulgradinarului.ro/collections/unelte-accesorii-gradinarit): Descoperă o gamă variată de unelte și accesorii de grădinărit, inclusiv foarfeci, greble, ciocane, lopeți, furci și sisteme de irigare. Echipamente de calitate pentru toate nevoile tale de grădinărit.
-  Updated: 2025-11-19T16:10:33Z
+  Updated: 2025-11-23T14:24:43Z
   Total Products: 76
 - [Îngrășăminte Foliare Profesionale | Legume, Pomi, Culturi Agricole, Gazon, Cereale, Flori, Tuia, Plante Furajere](https://depozitulgradinarului.ro/collections/ingrasaminte-foliare): Îngrășăminte foliare profesionale pentru legume, pomi, flori, gazon, tuia, plante furajere și culturi agricole, precum: porumb, floarea-soarelui, grâu. Soluții lichide rapide, cu absorbție eficientă prin frunze, pentru plante viguroase.
-  Updated: 2025-10-15T11:28:05Z
+  Updated: 2025-11-23T15:01:19Z
   Total Products: 34
 - [Îngrășăminte Granulate | Legume, Pomi, Gazon, Culturi Agricole](https://depozitulgradinarului.ro/collections/ingrasaminte-granulate): Îngrășăminte Granulate – Nutriție echilibrată pentru pomi fructiferi, legume, gazon, plante furajere, cât și pentru culturi agricole: porumb, floarea-soarelui, grâu.
-  Updated: 2025-10-15T11:28:05Z
+  Updated: 2025-11-23T14:38:20Z
   Total Products: 5
 - [Sămânță Porumb FAO 100 -199](https://depozitulgradinarului.ro/collections/samanta-porumb-fao-100-199)
   Updated: 2025-05-29T15:23:03Z
@@ -4309,16 +4316,16 @@ Livrare rapidă!
   Updated: 2025-10-07T17:52:48Z
   Total Products: 8
 - [Zootehnie - Hrană, Suplimente și Echipamente | Depozitul Grădinarului](https://depozitulgradinarului.ro/collections/zootehnie): Descoperă produse zootehnice de calitate superioară la Depozitul Grădinarului. Hrană pentru animale, suplimente nutritive și echipamente profesionale pentru o fermă performantă!
-  Updated: 2025-11-20T12:31:47Z
+  Updated: 2025-11-21T12:32:43Z
   Total Products: 16
 - [Furaje & Concentrate pentru Animale | Pui, Găini, Curcani, Porci, Iepuri, Bovine, Ovine](https://depozitulgradinarului.ro/collections/furaje-concentrate): Descoperă furaje și concentrate de calitate pentru pui, găini, curcani, porci, iepuri, bovine și ovine. Comandă online de la Depozitul Grădinarului – livrare rapidă și prețuri avantajoase!
-  Updated: 2025-11-20T12:31:47Z
+  Updated: 2025-11-21T12:32:43Z
   Total Products: 14
 - [Furaje & Concentrate pentru Pui de Carne | Nutriție pentru Creștere Rapidă](https://depozitulgradinarului.ro/collections/furaje-concentrate-pui): Furaje și concentrate de calitate pentru pui de carne. Nutriție echilibrată, creștere sănătoasă și spor în greutate optim – soluții eficiente pentru ferme și gospodării.
   Updated: 2025-09-26T18:12:19Z
   Total Products: 7
 - [Furaje & Concentrate Găini Ouătoare | Hrană pentru Producție de Ouă](https://depozitulgradinarului.ro/collections/furaje-concentrate-gaini): Furaje și concentrate pentru găini ouătoare. Nutriție echilibrată pentru ouă de calitate, coajă rezistentă și păsări sănătoase.
-  Updated: 2025-11-09T12:26:20Z
+  Updated: 2025-11-21T12:32:43Z
   Total Products: 4
 - [Furaje & Concentrate Curcani | Hrană Nutritivă cu Cereale și Premixuri](https://depozitulgradinarului.ro/collections/furaje-concentrate-curcani): Furaje și concentrate pentru curcani, cu cereale, șroturi și vitamine. Creștere sănătoasă, spor rapid și rezistență ridicată.
   Updated: 2025-05-29T15:23:05Z
