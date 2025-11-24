@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-24T16:00:31.577Z
+- Updated At: 2025-11-24T20:00:32.143Z
 
 ## Products
 
@@ -6223,19 +6223,19 @@
     Availability: Available
     Price: $64.95 USD
 - [40lb IGI 6006 Wax](https://affinatiliving.com/products/40lb-igi-6006-wax)
-  Updated: 2025-11-18T20:27:20Z
+  Updated: 2025-11-24T19:49:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
-- [Reed Diffuser Bottles](https://affinatiliving.com/products/reed-diffuser-bottles)
-  Updated: 2025-11-09T12:04:54Z
+- [Reed Diffuser Bottles (12 Pack)](https://affinatiliving.com/products/reed-diffuser-bottles)
+  Updated: 2025-11-24T19:48:13Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
-- [Reed Diffuser Collars](https://affinatiliving.com/products/reed-diffuser-collars)
-  Updated: 2025-11-09T12:05:37Z
+- [Reed Diffuser Collars (12 Pack)](https://affinatiliving.com/products/reed-diffuser-collars)
+  Updated: 2025-11-24T19:48:01Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6247,19 +6247,19 @@
   Availability: Available
   Price: $0.00 USD
 - [Small Room Sprays (30 Pack)](https://affinatiliving.com/products/room-sprays-small)
-  Updated: 2025-11-15T21:42:11Z
+  Updated: 2025-11-24T17:05:20Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [8 oz Black Lotion Containers](https://affinatiliving.com/products/8-oz-black-lotion-containers)
-  Updated: 2025-11-09T12:07:31Z
+  Updated: 2025-11-24T19:48:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [8 oz Black Lotion Lids](https://affinatiliving.com/products/8-oz-black-lotion-lids)
-  Updated: 2025-11-09T12:08:11Z
+  Updated: 2025-11-24T19:48:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6277,25 +6277,25 @@
   Availability: Available
   Price: $0.00 USD
 - [Original/Small Wooden Wick Candle Containers (Pack of 12)](https://affinatiliving.com/products/original-small-wooden-wick-candle-containers)
-  Updated: 2025-11-22T19:12:06Z
+  Updated: 2025-11-24T19:44:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
-- [Signature Amber Jars (Pack of 12)](https://affinatiliving.com/products/signature-amber-jars)
-  Updated: 2025-11-16T11:31:33Z
+- [Signature Amber Jars (12 Pack)](https://affinatiliving.com/products/signature-amber-jars)
+  Updated: 2025-11-24T17:06:18Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
-- [Signature Red Jars](https://affinatiliving.com/products/signature-red-jars)
-  Updated: 2025-11-09T23:05:36Z
+- [Signature Red Jars (12 Pack)](https://affinatiliving.com/products/signature-red-jars)
+  Updated: 2025-11-24T17:06:05Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
-- [Signature Purple Jars](https://affinatiliving.com/products/signature-purple-jars)
-  Updated: 2025-11-09T23:05:36Z
+- [Signature Purple Jars (12 Pack)](https://affinatiliving.com/products/signature-purple-jars)
+  Updated: 2025-11-24T17:05:51Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6313,7 +6313,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Signature Black Jars (Pack of 12)](https://affinatiliving.com/products/signature-black-jars)
-  Updated: 2025-11-16T11:32:07Z
+  Updated: 2025-11-24T17:05:35Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6343,19 +6343,19 @@
   Availability: Available
   Price: $0.00 USD
 - [3-Wick Amber Jars (12 Pack)](https://affinatiliving.com/products/3-wick-amber-jars)
-  Updated: 2025-11-22T19:12:36Z
+  Updated: 2025-11-24T19:44:01Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [3-Wick White Jars (12 Pack)](https://affinatiliving.com/products/3-wick-white-jars)
-  Updated: 2025-11-22T19:12:50Z
+  Updated: 2025-11-24T19:44:11Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [3-Wick Lids (12 Pack)](https://affinatiliving.com/products/3-wick-lids)
-  Updated: 2025-11-22T19:15:06Z
+  Updated: 2025-11-24T19:44:24Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6373,13 +6373,13 @@
   Availability: Available
   Price: $0.00 USD
 - [Apothecary Containers](https://affinatiliving.com/products/apothecary-containers)
-  Updated: 2025-11-09T23:05:39Z
+  Updated: 2025-11-24T19:47:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
-- [12x12x6 White Packing Boxes](https://affinatiliving.com/products/12x12x6-white-packing-boxes)
-  Updated: 2025-11-24T01:55:35Z
+- [12x12x6 Packing Boxes](https://affinatiliving.com/products/12x12x6-white-packing-boxes)
+  Updated: 2025-11-24T19:49:26Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6397,7 +6397,7 @@
   Availability: Available
   Price: $0.00 USD
 - [18x18x8 Packing Boxes](https://affinatiliving.com/products/18x18x8-packing-boxes)
-  Updated: 2025-11-15T23:29:41Z
+  Updated: 2025-11-24T19:49:12Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6427,13 +6427,13 @@
   Availability: Available
   Price: $0.00 USD
 - [Packing Tape (Rolls)](https://affinatiliving.com/products/packing-tape)
-  Updated: 2025-11-22T19:13:02Z
+  Updated: 2025-11-24T19:46:56Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Packing Peanuts (5 Cubic Feet Bag)](https://affinatiliving.com/products/packing-peanuts-cubic-feet)
-  Updated: 2025-11-22T19:13:11Z
+  Updated: 2025-11-24T19:46:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6932,7 +6932,7 @@
   Availability: Available
   Price: $0.00 USD
 - [50MM x 80MM Rectangle Product Label Rolls (White)](https://affinatiliving.com/products/50mm-x-80mm-rectangle-product-label-rolls)
-  Updated: 2025-11-19T08:23:50Z
+  Updated: 2025-11-24T17:07:55Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
