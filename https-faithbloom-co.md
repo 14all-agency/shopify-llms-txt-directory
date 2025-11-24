@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-07-02T18:10:48Z
 - Contact Email: inspire@faithbloomco.com
-- Updated At: 2025-11-22T00:00:28.100Z
+- Updated At: 2025-11-24T00:01:18.710Z
 
 ## Products
 
