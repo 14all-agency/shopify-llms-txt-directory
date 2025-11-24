@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-09-30T12:20:15Z
 - Contact Email: info@aevitas-uk.co.uk
-- Updated At: 2025-11-24T08:00:29.759Z
+- Updated At: 2025-11-24T12:00:30.544Z
 
 ## Products
 
@@ -207,7 +207,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/8-Watch-Box-in-Carbon-Fibre-Finish-Premium-Quality-by-Aevitas.webp?v=1760446032
   Price: £189.95 GBP
 - [Single Carbon Fibre Watch Winder Mains or Battery by Aevitas](https://aevitas-uk.co.uk/products/single-watch-winder-carbon-fibre-finish-mains-or-battery-by-aevitas): Single Carbon Fibre Watch Winder Mains or Battery by Aevitas a fantastic compact watch winder All Automatic Watches £219.95 Aevitas Luxury Free Delivery
-  Updated: 2025-11-21T12:51:53Z
+  Updated: 2025-11-24T09:18:26Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -647,7 +647,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/3-Watch-Travel-Case-Hexagon-Style-in-Fine-Brown-Nappa-Leather-with-Luxury-Lining-Special-Offer.webp?v=1760449336
   Price: £164.95 GBP
 - [Watch Winder Safe for 8 Watches - Black Edition](https://aevitas-uk.co.uk/products/safe-watch-winder-for-8-watches-black-leather-black-interior-by-aevitas): Secure your timepieces with our watch winder safe for 8 watches in black edition. Features digital locking and LED lighting for premium protection.
-  Updated: 2025-11-21T12:53:06Z
+  Updated: 2025-11-24T10:41:01Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -1074,7 +1074,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Single-Watch-Winder-Black-Leather-Blue-Lining-Mains-or-Battery-by-Aevitas.webp?v=1760450027
   Price: £219.95 GBP
 - [Single Watch Winder Black Leather Grey Lining Mains or Battery](https://aevitas-uk.co.uk/products/single-watch-winder-black-leather-grey-lining-mains-or-battery-by-aevitas): Single Watch Winder Black Leather Watch Winder for All Automatic Watches. Smart Black Leather (Vegan) finish with Grey Lining and Stitching. Free UK Delivery
-  Updated: 2025-11-22T08:27:36Z
+  Updated: 2025-11-24T09:48:50Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -1514,7 +1514,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Premium-10-Watch-Box-in-Brown-High-Gloss-Lacquered-Crocodile-Print-Finish-by-Aevitas.webp?v=1760451392
   Price: £199.95 GBP
 - [Premium 6 Watch Box in Piano Black Gloss Finish Grey Luxury Lining](https://aevitas-uk.co.uk/products/premium-6-watch-box-in-piano-black-gloss-finish-with-grey-luxury-lining): Beautifully Hand Crafted Premium Wooden 6 Watch Box with luxury Grey suede lining. As you can see in the images it can handle large watches.
-  Updated: 2025-11-23T13:35:06Z
+  Updated: 2025-11-24T11:20:05Z
   Vendor: Aevitas
   Product Type: Watch Box
   Availability: Available
