@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2018-12-15T16:04:33Z
 - Contact Email: amy@amyscoffeemugs.com
-- Updated At: 2025-11-23T00:01:25.233Z
+- Updated At: 2025-11-24T00:01:50.658Z
 
 Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our collection includes artist-designed mugs, insulated tumbler cups, and travel mugs made to bring joy, warmth, and a personal touch to every sip.
 
@@ -11853,7 +11853,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/winter-red-silver-snowflake-mug-at-amys-coffee-mugs-827239.jpg?v=1731599897
     Price: $19.95 USD
 - [Cheerful Santa Mug | Festive Christmas Mug with Jolly Santa Design](https://amyscoffeemugs.com/products/cheerful-santa-mug): Celebrate the holidays with our Cheerful Santa Mug. Featuring a jolly Santa and white snowflakes, it's dishwasher and microwave-safe, and makes a great gift.
-  Updated: 2025-11-22T14:00:17Z
+  Updated: 2025-11-23T02:00:23Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11867,7 +11867,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/cheerful-santa-mug-at-amys-coffee-mugs-888329.jpg?v=1732913464
     Price: $19.95 USD
 - [Personalized Red Baking Pattern Mug | Custom Gift for Bakers](https://amyscoffeemugs.com/products/personalized-red-baking-pattern-mug): Shop the Personalized Red Baking Pattern Mug with baking tools, sweet treats, and your name in red script. Perfect for bakers and as a thoughtful gift!
-  Updated: 2025-11-22T13:59:29Z
+  Updated: 2025-11-23T01:59:33Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11881,7 +11881,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/personalized-red-baking-pattern-mug-at-amys-coffee-mugs-263266.jpg?v=1733267984
     Price: $21.95 USD
 - [Christmas Paint Brush Strokes Mug | Festive Holiday Mug & Gift Idea](https://amyscoffeemugs.com/products/christmas-paint-brush-strokes-mug): Celebrate the season with the Christmas Paint Brush Strokes Mug. Red and green brushstrokes across the mug, microwave & dishwasher safe—a perfect festive gift!
-  Updated: 2025-11-22T13:57:22Z
+  Updated: 2025-11-23T01:57:27Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11895,7 +11895,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/christmas-paint-brush-strokes-mug-at-amys-coffee-mugs-794257.jpg?v=1733331791
     Price: $19.95 USD
 - [Christmas Paint Brush Strokes Tumbler Cup | Festive & Giftable](https://amyscoffeemugs.com/products/christmas-paint-brush-strokes-tumbler-cup): Celebrate Christmas with the Paint Brush Strokes Tumbler Cup! Features red and green stripes across the cup, it keeps drinks hot or cold, and is a great gift.
-  Updated: 2025-11-22T13:57:09Z
+  Updated: 2025-11-23T04:32:48Z
   Vendor: Amy's Coffee Mugs
   Product Type: Insulated Tumbler Cup
   Availability: Available
@@ -11909,14 +11909,14 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/christmas-paint-brush-strokes-tumbler-cup-at-amys-coffee-mugs-985514.jpg?v=1733339235
     Price: $29.95 USD
 - [Christmas Paint Brush Strokes Travel Mug | Festive Holiday Drinkware](https://amyscoffeemugs.com/products/christmas-paint-brush-strokes-travel-mug): Celebrate Christmas with the Paint Brush Strokes Travel Mug! Festive red and green brush strokes, spill-resistant lid, double-wall insulation, great gift!
-  Updated: 2025-11-22T13:56:40Z
+  Updated: 2025-11-23T02:37:21Z
   Vendor: Amy's Coffee Mugs
   Product Type: Travel Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/christmas-paint-brush-strokes-travel-mug-at-amys-coffee-mugs-830627.jpg?v=1759467187
   Price: $29.95 USD
 - [Christmas Polka Dot Mug | Festive Red & Green, Dishwasher Safe](https://amyscoffeemugs.com/products/christmas-polka-dot-mug): Celebrate Christmas with a festive red and green polka dot mug! Microwave- and dishwasher-safe, it's perfect for holiday drinks, decor, and gifting. Order now!
-  Updated: 2025-11-22T13:56:30Z
+  Updated: 2025-11-23T04:00:43Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11930,7 +11930,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/christmas-polka-dot-mug-at-amys-coffee-mugs-368675.jpg?v=1733339257
     Price: $19.95 USD
 - [Navy Pink Polka Dot Mug | Dishwasher Safe Gift for Coffee & Tea Lovers](https://amyscoffeemugs.com/products/navy-pink-polka-dot-mug): Enjoy the Navy Pink Polka Dot Mug with navy blue and pink polka dots. Dishwasher- and microwave-safe, it’s perfect for daily use or as a thoughtful gift.
-  Updated: 2025-11-22T13:55:33Z
+  Updated: 2025-11-23T01:55:41Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11944,7 +11944,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/navy-pink-polka-dot-mug-at-amys-coffee-mugs-677725.jpg?v=1733341435
     Price: $19.95 USD
 - [Black and White Flowers Mug | Floral Drinkware, Dishwasher-Safe](https://amyscoffeemugs.com/products/black-white-flowers-mug): Add modern elegance with the Black and White Flowers Mug. Perfect for flower lovers, dishwasher & microwave-safe, and a great gift for her on any occasion.
-  Updated: 2025-11-22T13:54:31Z
+  Updated: 2025-11-23T01:54:37Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11958,7 +11958,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/black-and-white-flowers-mug-at-amys-coffee-mugs-789984.jpg?v=1734232485
     Price: $19.95 USD
 - [Cute White Hearts Red Gnome Mug | Gnome Gift for Valentine's Day](https://amyscoffeemugs.com/products/cute-white-hearts-red-gnome-mug): Celebrate Valentine's Day with the Cute White Hearts Red Gnome Mug. Adorable red gnome, white hearts on a red background. Dishwasher and microwave-safe.
-  Updated: 2025-11-22T13:52:55Z
+  Updated: 2025-11-23T01:53:00Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11972,7 +11972,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/cute-white-hearts-red-gnome-mug-at-amys-coffee-mugs-936321.jpg?v=1738435557
     Price: $19.95 USD
 - [Cute White Hearts Purple Gnome Mug | Valentine's Day Gnome Gift](https://amyscoffeemugs.com/products/cute-white-hearts-purple-gnome-mug): Cute White Hearts Purple Gnome Mug with an adorable gnome and white hearts over a purple background. Great for gnome lovers or Valentine’s Day gifts.
-  Updated: 2025-11-22T13:52:41Z
+  Updated: 2025-11-23T01:52:46Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11986,7 +11986,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/cute-white-hearts-purple-gnome-mug-at-amys-coffee-mugs-504291.jpg?v=1738448502
     Price: $19.95 USD
 - [Personalized Cute White Hearts Purple Gnome Mug | Valentine's Gift](https://amyscoffeemugs.com/products/personalized-cute-white-hearts-purple-gnome-mug): Enjoy the Personalized Cute White Hearts Purple Gnome Mug, featuring your name. It's perfect for gnome lovers, Valentine’s Day, or as a thoughtful gift.
-  Updated: 2025-11-22T13:52:26Z
+  Updated: 2025-11-23T02:07:34Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -12000,7 +12000,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/personalized-cute-white-hearts-purple-gnome-mug-at-amys-coffee-mugs-319225.jpg?v=1738505571
     Price: $21.95 USD
 - [Personalized Cute White Hearts Red Gnome Mug | Valentine's Day Gift](https://amyscoffeemugs.com/products/personalized-cute-white-hearts-red-gnome-mug): Celebrate love with the Personalized Cute White Hearts Red Gnome Mug. Custom name, red heart pattern design, perfect for gnome lovers and Valentine's Day.
-  Updated: 2025-11-22T13:52:14Z
+  Updated: 2025-11-23T01:52:19Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -12014,7 +12014,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/personalized-cute-white-hearts-red-gnome-mug-at-amys-coffee-mugs-868595.jpg?v=1738505576
     Price: $21.95 USD
 - [Hockey Rink Pattern Mug | Holiday Gift for Men and Hockey Fans](https://amyscoffeemugs.com/products/hockey-rink-pattern-mug): Shop our Hockey Rink Pattern Mug with red & blue rink lines, sticks & pucks. Great for winter, holiday gifts, or hockey fans. Microwave & dishwasher safe.
-  Updated: 2025-11-22T13:48:59Z
+  Updated: 2025-11-23T01:49:04Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -12028,7 +12028,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/hockey-rink-pattern-mug-at-amys-coffee-mugs-113564.jpg?v=1744043466
     Price: $19.95 USD
 - [Basketballs Pattern Mug | Ceramic Mug for Fans & Basketball Gifts](https://amyscoffeemugs.com/products/basketballs-pattern-mug): Shop the Basketballs Pattern Mug for fans, players, and coaches. Bold basketball design makes it a great gift for birthdays, holidays, and Father’s Day.
-  Updated: 2025-11-22T13:47:51Z
+  Updated: 2025-11-23T02:05:19Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -12042,7 +12042,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/basketballs-pattern-mug-at-amys-coffee-mugs-279657.jpg?v=1744125267
     Price: $19.95 USD
 - [Hockey Rink Pattern Tumbler Cup | Gift for Hockey Fans](https://amyscoffeemugs.com/products/hockey-rink-pattern-tumbler-cup): Shop this Hockey Rink Pattern Tumbler Cup with rink lines, sticks, and pucks. A great gift for hockey lovers—dishwasher-safe, splash-resistant, and durable.
-  Updated: 2025-11-22T13:47:11Z
+  Updated: 2025-11-23T01:47:16Z
   Vendor: Amy's Coffee Mugs
   Product Type: Insulated Tumbler Cup
   Availability: Available
@@ -12056,7 +12056,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/hockey-rink-pattern-tumbler-cup-at-amys-coffee-mugs-191379.jpg?v=1744206272
     Price: $29.95 USD
 - [Basketballs Pattern Tumbler Cup | Stainless Steel Drinkware for Fans](https://amyscoffeemugs.com/products/basketballs-pattern-tumbler-cup): Shop the Basketballs Pattern Tumbler Cup for basketball fans. Double-walled and dishwasher-safe—great for work, home, or as a gift for basketball lovers.
-  Updated: 2025-11-22T13:46:39Z
+  Updated: 2025-11-23T01:46:45Z
   Vendor: Amy's Coffee Mugs
   Product Type: Insulated Tumbler Cup
   Availability: Available
@@ -12070,7 +12070,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/basketballs-pattern-tumbler-cup-at-amys-coffee-mugs-667464.jpg?v=1745154314
     Price: $29.95 USD
 - [Red Pickleball Mug | Bold Paddle & Ball Gift for Pickleball Fans](https://amyscoffeemugs.com/products/red-pickleball-mug): Start your day with this Red Pickleball Mug featuring modern red paddles and yellow balls. Microwave and dishwasher safe—perfect gift for players and fans.
-  Updated: 2025-11-22T13:46:06Z
+  Updated: 2025-11-23T01:46:10Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -12084,7 +12084,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/red-pickleball-mug-at-amys-coffee-mugs-726213.jpg?v=1744381078
     Price: $19.95 USD
 - [Soccer Balls Pattern Mug | Sports Coffee Cup for Soccer Fans](https://amyscoffeemugs.com/products/soccer-balls-pattern-mug): Shop the Soccer Balls Pattern Mug with black and white soccer balls. Microwave and dishwasher safe—great soccer gift for men, women, coaches, and players.
-  Updated: 2025-11-22T13:44:54Z
+  Updated: 2025-11-23T01:45:01Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -12098,7 +12098,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/soccer-balls-pattern-mug-at-amys-coffee-mugs-653384.jpg?v=1744408472
     Price: $19.95 USD
 - [Soccer Balls Pattern Tumbler Cup | Soccer Gift for Fans and Players](https://amyscoffeemugs.com/products/soccer-balls-pattern-tumbler-cup): Celebrate your love of soccer with our Soccer Balls Pattern Tumbler Cup. Dishwasher-safe and splash-resistant—great gift for players, coaches, or fans.
-  Updated: 2025-11-22T13:44:40Z
+  Updated: 2025-11-23T01:44:45Z
   Vendor: Amy's Coffee Mugs
   Product Type: Insulated Tumbler Cup
   Availability: Available
@@ -12112,7 +12112,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/soccer-balls-pattern-tumbler-cup-at-amys-coffee-mugs-521363.jpg?v=1745155011
     Price: $29.95 USD
 - [Patriotic Stars Mug for 4th of July | Red White and Blue Coffee Mug](https://amyscoffeemugs.com/products/patriotic-stars-mug): Celebrate with the Patriotic Stars Mug—red, white, and blue for the 4th of July. Microwave and dishwasher safe. Order now for daily use or the perfect gift.
-  Updated: 2025-11-22T13:43:39Z
+  Updated: 2025-11-23T01:43:45Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -12126,7 +12126,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/patriotic-stars-mug-at-amys-coffee-mugs-185305.jpg?v=1749307039
     Price: $19.95 USD
 - [Patriotic Paint Brush Strokes Mug | Red White and Blue Coffee Mug](https://amyscoffeemugs.com/products/patriotic-paint-brush-strokes-mug): The Patriotic Paint Brush Strokes Mug features red and blue brush strokes. Microwave and dishwasher safe. Order now for July 4th or as a gift they'll love.
-  Updated: 2025-11-22T13:43:16Z
+  Updated: 2025-11-23T01:43:20Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -12140,7 +12140,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/patriotic-paint-brush-strokes-mug-at-amys-coffee-mugs-125494.jpg?v=1749308676
     Price: $19.95 USD
 - [Patriotic Polka Dot Mug | Red White and Blue 4th of July Coffee Mug](https://amyscoffeemugs.com/products/patriotic-polka-dot-mug): The Patriotic Polka Dot Mug features red and blue dots on white for July 4th. Microwave & dishwasher safe. Order now for daily use or for a gift they'll love.
-  Updated: 2025-11-22T13:43:05Z
+  Updated: 2025-11-23T02:03:20Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -12154,7 +12154,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/patriotic-polka-dot-mug-at-amys-coffee-mugs-128928.jpg?v=1749309180
     Price: $19.95 USD
 - [Patriotic Stars and Stripes Mug | Red White and Blue Coffee Mug](https://amyscoffeemugs.com/products/patriotic-wavy-stars-stripes-mug): The Patriotic Stars and Stripes Mug features bold red, white, and blue wraparound art. Microwave and dishwasher safe. Order now for 4th of July or gifting.
-  Updated: 2025-11-22T13:42:50Z
+  Updated: 2025-11-23T01:42:55Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -12168,21 +12168,21 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/patriotic-wavy-stars-and-stripes-mug-at-amys-coffee-mugs-292291.jpg?v=1749327402
     Price: $19.95 USD
 - [Patriotic Paint Brush Strokes Travel Mug | Red White and Blue](https://amyscoffeemugs.com/products/patriotic-paint-brush-strokes-travel-mug): The Patriotic Paint Brush Strokes Travel Mug features red, white, and blue art, a closable lid, and insulation. Great for 4th of July gifts or everyday use.
-  Updated: 2025-11-22T13:42:36Z
+  Updated: 2025-11-23T02:03:03Z
   Vendor: Amy's Coffee Mugs
   Product Type: Travel Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/patriotic-paint-brush-strokes-travel-mug-at-amys-coffee-mugs-821194.jpg?v=1749347523
   Price: $29.95 USD
 - [Patriotic Stars Travel Mug | Red White and Blue 4th of July Mug](https://amyscoffeemugs.com/products/patriotic-stars-travel-mug): The Patriotic Stars Travel Mug features red and blue stars, a spill-resistant lid, and insulation to keep drinks hot. Great for July 4th or daily use.
-  Updated: 2025-11-22T13:42:17Z
+  Updated: 2025-11-23T01:42:15Z
   Vendor: Amy's Coffee Mugs
   Product Type: Travel Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/patriotic-stars-travel-mug-at-amys-coffee-mugs-961502.jpg?v=1749347519
   Price: $29.95 USD
 - [Patriotic Stars Tumbler Cup | Red White and Blue 4th of July Cup](https://amyscoffeemugs.com/products/patriotic-stars-tumbler-cup): The Patriotic Stars Tumbler Cup features red and blue stars and double-wall insulation. Dishwasher safe. Great for 4th of July, gifting, or everyday use.
-  Updated: 2025-11-22T13:41:08Z
+  Updated: 2025-11-23T01:41:14Z
   Vendor: Amy's Coffee Mugs
   Product Type: Insulated Tumbler Cup
   Availability: Available
@@ -12196,7 +12196,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/patriotic-stars-tumbler-cup-at-amys-coffee-mugs-435818.jpg?v=1749348712
     Price: $29.95 USD
 - [Patriotic Paint Brush Strokes Tumbler Cup | Red White and Blue](https://amyscoffeemugs.com/products/patriotic-paint-brush-strokes-tumbler-cup): The Patriotic Paint Brush Strokes Tumbler Cup features red and blue art and double-walled insulation. Dishwasher safe. Great for 4th of July or everyday use.
-  Updated: 2025-11-22T13:40:45Z
+  Updated: 2025-11-23T01:38:58Z
   Vendor: Amy's Coffee Mugs
   Product Type: Insulated Tumbler Cup
   Availability: Available
@@ -12210,7 +12210,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/patriotic-paint-brush-strokes-tumbler-cup-at-amys-coffee-mugs-876438.jpg?v=1749348698
     Price: $29.95 USD
 - [Patriotic White Stars on Blue Mug | 4th of July Coffee Mug](https://amyscoffeemugs.com/products/patriotic-white-stars-on-blue-mug): The Patriotic White Stars on Blue Mug features a white star pattern on blue. Microwave and dishwasher safe. A bold, everyday coffee mug or 4th of July gift.
-  Updated: 2025-11-22T13:40:28Z
+  Updated: 2025-11-23T02:02:07Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -12224,7 +12224,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/patriotic-white-stars-on-blue-mug-at-amys-coffee-mugs-266000.jpg?v=1749823641
     Price: $19.95 USD
 - [Patriotic White Stars on Blue Tumbler Cup | 4th of July Drinkware](https://amyscoffeemugs.com/products/patriotic-white-stars-on-blue-tumbler-cup): The Patriotic White Stars on Blue Tumbler Cup features a wraparound star design. Double-walled, dishwasher safe, and perfect for 4th of July or everyday use.
-  Updated: 2025-11-22T13:40:17Z
+  Updated: 2025-11-23T02:13:27Z
   Vendor: Amy's Coffee Mugs
   Product Type: Insulated Tumbler Cup
   Availability: Available
@@ -12238,7 +12238,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/patriotic-white-stars-on-blue-tumbler-cup-at-amys-coffee-mugs-439762.jpg?v=1749825135
     Price: $29.95 USD
 - [Patriotic White Stars on Blue Travel Mug | 4th of July Drinkware](https://amyscoffeemugs.com/products/patriotic-white-stars-on-blue-travel-mug): The Patriotic White Stars on Blue Travel Mug is insulated, dishwasher safe, and spill-resistant. Perfect for 4th of July gifts or everyday coffee lovers.
-  Updated: 2025-11-22T13:40:08Z
+  Updated: 2025-11-23T01:37:12Z
   Vendor: Amy's Coffee Mugs
   Product Type: Travel Mug
   Availability: Available
@@ -12259,7 +12259,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/coastal-seashells-pattern-mug-at-amys-coffee-mugs-866345.jpg?v=1749843883
     Price: $19.95 USD
 - [Patriotic Red White Blue Stars Mug | 4th of July Coffee Mug](https://amyscoffeemugs.com/products/patriotic-red-white-blue-stars-mug): The Patriotic Red White Blue Stars Mug features a stars and dots design on navy. Microwave and dishwasher safe. Great for July 4th or everyday sipping.
-  Updated: 2025-11-22T13:39:54Z
+  Updated: 2025-11-23T01:36:45Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -12273,7 +12273,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/patriotic-red-white-blue-stars-mug-at-amys-coffee-mugs-435458.jpg?v=1750274566
     Price: $19.95 USD
 - [Patriotic Red White Blue Stars Tumbler Cup | 4th of July Drinkware](https://amyscoffeemugs.com/products/patriotic-red-white-blue-stars-tumbler-cup): The Patriotic Red White Blue Stars Tumbler Cup features bold Americana art and is dishwasher safe. Perfect for 4th of July celebrations or everyday sipping.
-  Updated: 2025-11-22T13:39:27Z
+  Updated: 2025-11-23T01:36:14Z
   Vendor: Amy's Coffee Mugs
   Product Type: Insulated Tumbler Cup
   Availability: Available
@@ -12287,7 +12287,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/patriotic-red-white-blue-stars-tumbler-cup-at-amys-coffee-mugs-171688.jpg?v=1750276766
     Price: $29.95 USD
 - [Coastal Seashells Pattern Tumbler Cup | Beach Drinkware Gift Idea](https://amyscoffeemugs.com/products/coastal-seashells-pattern-tumbler-cup): This Coastal Seashells Pattern Tumbler Cup is double-walled, dishwasher safe, and perfect for beach lovers. A great coastal drinkware gift for summer.
-  Updated: 2025-11-22T13:34:39Z
+  Updated: 2025-11-23T01:34:44Z
   Vendor: Amy's Coffee Mugs
   Product Type: Insulated Tumbler Cup
   Availability: Available
@@ -12301,7 +12301,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/coastal-seashells-pattern-tumbler-cup-at-amys-coffee-mugs-123695.jpg?v=1750291938
     Price: $29.95 USD
 - [Coastal Crustaceans Mug – Crabs, Lobsters & Shrimp Beach Coffee Mug](https://amyscoffeemugs.com/products/coastal-crustaceans-mug): Coastal Crustaceans Mug with crabs, lobsters & shrimp. Great gift for beach lovers, ocean enthusiasts & summer decor. Microwave & dishwasher safe. Shop now!
-  Updated: 2025-11-22T13:33:28Z
+  Updated: 2025-11-23T02:00:31Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -12315,7 +12315,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/coastal-crustaceans-mug-at-amys-coffee-mugs-840950.jpg?v=1751037082
     Price: $19.95 USD
 - [Coastal Crustaceans Tumbler Cup | Crabs, Lobsters & Shrimp Drinkware](https://amyscoffeemugs.com/products/coastal-crustaceans-tumbler-cup): Coastal Crustaceans Tumbler Cup with crabs, lobsters & shrimp in beach colors. Dishwasher-safe and ready to gift or enjoy every day—grab yours now!
-  Updated: 2025-11-22T13:30:24Z
+  Updated: 2025-11-23T01:30:30Z
   Vendor: Amy's Coffee Mugs
   Product Type: Insulated Tumbler Cup
   Availability: Available
@@ -12329,7 +12329,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/coastal-crustaceans-tumbler-cup-at-amys-coffee-mugs-563511.jpg?v=1751048272
     Price: $29.95 USD
 - [Personalized Name Collage Mug | Custom Coffee Mug Gift for Anyone](https://amyscoffeemugs.com/products/personalized-name-collage-mug): Shop the Personalized Name Collage Mug with bold fonts in black. A great gift for anyone who loves custom coffee mugs. Microwave and dishwasher safe.
-  Updated: 2025-11-22T13:21:57Z
+  Updated: 2025-11-23T01:22:02Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -12343,7 +12343,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/personalized-name-collage-mug-at-amys-coffee-mugs-485943.jpg?v=1751246166
     Price: $21.95 USD
 - [Personalized Pink Name Collage Mug | Custom Coffee Mug Gift for Her](https://amyscoffeemugs.com/products/personalized-pink-name-collage-mug): This Pink Name Collage Mug makes a meaningful custom gift for her. Features your name in pink, black, and gray. Microwave and dishwasher-safe for daily use.
-  Updated: 2025-11-22T13:21:46Z
+  Updated: 2025-11-23T01:21:51Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -12357,7 +12357,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/personalized-pink-name-collage-mug-at-amys-coffee-mugs-665217.jpg?v=1751247271
     Price: $21.95 USD
 - [Personalized Blue Name Collage Mug | Custom Coffee Mug Gift for Him](https://amyscoffeemugs.com/products/personalized-blue-name-collage-mug): This Blue Name Collage Mug makes a great personalized gift for him. Features your name in blue, black, and gray. Microwave and dishwasher-safe ceramic mug.
-  Updated: 2025-11-22T13:21:34Z
+  Updated: 2025-11-23T01:55:25Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -12654,10 +12654,10 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
 ## Collections
 
 - [Ceramic Mugs, Travel Mugs, and Tumbler Cups | Gifts, Perfect for you!](https://amyscoffeemugs.com/collections/all-mugs-and-cups): Discover cute, stylish mugs, tumblers, and travel mugs featuring animals, gnomes, sports, patterns, hobbies, and more. Personalization options for gift-giving!
-  Updated: 2025-11-22T12:05:45Z
+  Updated: 2025-11-23T12:05:32Z
   Total Products: 977
 - [Ceramic Coffee Mugs | Unique Designs, Dishwasher and Microwave Safe](https://amyscoffeemugs.com/collections/ceramic-coffee-mugs): Shop 11oz or 15oz ceramic mugs with unique designs, including animals, seasonal, patterns, and personalized options. Dishwasher and microwave safe. Shop now!
-  Updated: 2025-11-22T12:05:45Z
+  Updated: 2025-11-23T12:05:32Z
   Total Products: 577
 - [Travel Mugs for Everyone | Stylish, Tapered, Stainless Steel Insulated](https://amyscoffeemugs.com/collections/travel-mugs): Shop stainless steel travel mugs with colorful or seasonal designs, personalization, & spill-resistant lids. Perfect for gifting and keeping drinks hot or cold.
   Updated: 2025-11-20T12:04:58Z
@@ -12681,7 +12681,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-11-21T15:39:06Z
   Total Products: 241
 - [Blue Mugs, Travel Mugs, Tumbler Cups | Unique Designs for Everyone](https://amyscoffeemugs.com/collections/blue): Shop unique blue mugs & tumblers with adorable animals, classic patterns, sports, winter designs, & more. Plus, personalized mug & cup options for gift-giving!
-  Updated: 2025-11-21T15:37:57Z
+  Updated: 2025-11-23T12:05:32Z
   Total Products: 316
 - [Brown Mugs, Travel Mugs, & Tumbler Cups | Cozy Gifts for Coffee Lovers](https://amyscoffeemugs.com/collections/brown): Shop stylish brown mugs and tumblers with owls, florals, plaid, and seasonal designs. Perfect for coffee lovers and gifting, they match brown-accented décor!
   Updated: 2025-11-20T12:04:58Z
@@ -12705,7 +12705,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-11-15T12:05:33Z
   Total Products: 151
 - [Sports Mugs, Travel Mugs, Tumbler Cups | Perfect for Fans and Players](https://amyscoffeemugs.com/collections/sports): Shop our Sports Mugs and Tumblers Collection, featuring soccer, baseball, bowling, basketball, pickleball, and more. Perfect for fans, players, and gift-giving!
-  Updated: 2025-11-19T12:05:27Z
+  Updated: 2025-11-23T12:05:32Z
   Total Products: 68
 - [Orange Mugs, Travel Mugs, Tumbler Cups | Seasonal Patterns and Designs](https://amyscoffeemugs.com/collections/orange): Discover orange-themed mugs & tumblers in fun patterns like autumn leaves, gingham, plaid, polka dots, & more designs. Personalized mug options for gift-giving!
   Updated: 2025-11-22T12:05:45Z
@@ -12750,7 +12750,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-11-15T12:05:33Z
   Total Products: 37
 - [Winter Mugs, Travel Mugs, Tumbler Cups | Snowflakes, Snowmen, and More](https://amyscoffeemugs.com/collections/winter): Shop winter-themed mugs, including ceramic or travel mugs & tumbler cups. Perfect for hot drinks on chilly days. No minimum order, discounted sets, great gifts!
-  Updated: 2025-11-22T12:05:45Z
+  Updated: 2025-11-23T12:05:32Z
   Total Products: 54
 - [Gnome Mugs & Tumbler Cups | Seasonal & Holiday Gnome Drinkware](https://amyscoffeemugs.com/collections/gnome): Shop seasonal and holiday gnome mugs for winter, spring, fall, and summer. Explore fun gnome cups for Christmas, Halloween, occupations, and everyday joy.
   Updated: 2025-11-22T12:05:45Z
@@ -12774,7 +12774,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-11-21T17:43:31Z
   Total Products: 203
 - [Seasonal Mugs, Travel Mugs, and Tumbler Cups | All Seasons](https://amyscoffeemugs.com/collections/seasonal): Shop seasonal mugs, tumbler cups, and travel mugs with spring flowers, fall leaves, summer beach scenes, winter snowflakes, and more. Explore every season.
-  Updated: 2025-11-22T12:05:45Z
+  Updated: 2025-11-23T12:05:32Z
   Total Products: 298
 - [4th of July Mugs & Tumblers | Red White and Blue Drinkware](https://amyscoffeemugs.com/collections/4th-of-july): Shop our 4th of July mugs, tumbler cups, and travel mugs in red, white, and blue designs. Great for patriotic gifts, summer drinks, and everyday use.
   Updated: 2025-11-06T13:42:08Z
