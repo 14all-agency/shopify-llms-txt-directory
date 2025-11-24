@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-11-22T00:01:12.715Z
+- Updated At: 2025-11-24T00:01:21.503Z
 
 # Crystals Healing UK – LLMS Overview
 
