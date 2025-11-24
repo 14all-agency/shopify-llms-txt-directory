@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-08-20T22:12:33Z
 - Contact Email: attikkwear@gmail.com
-- Updated At: 2025-11-22T00:00:30.807Z
+- Updated At: 2025-11-24T00:00:38.615Z
 
 ## Products
 
@@ -215,39 +215,39 @@
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc874b1f6754b4048ba43b76178a51345J.webp?v=1762323600
     Price: $53.99 USD
 - [Shadow Dancer Stiletto Heels - Platform High Heel Sandals | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals): Elegant shadow dancer platform stiletto heels with secure buckle strap. Perfect for parties, nights out, and special occasions. Style meets comfort in these stunning heels.
-  Updated: 2025-11-10T10:55:15Z
+  Updated: 2025-11-23T08:39:02Z
   Vendor: ATTIKK WEAR
   Product Type: Stilettos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S018073a9c42149d09d82817dc114dacfV_20af4b5e-538d-4554-9c0a-4ffe132e0c17.webp?v=1761431079
-  - [bright red / 43 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251537469)
+  - [bright red 7 cm / 43 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251537469)
     Availability: Available
     Price: $65.99 USD
-  - [bright red / 42 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251570237)
+  - [bright red 7 cm / 42 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251570237)
     Availability: Available
     Price: $65.99 USD
-  - [bright red / 35 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251603005)
+  - [bright red 7 cm / 35 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251603005)
     Availability: Available
     Price: $65.99 USD
   - [bright beige / 43 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251635773)
     Availability: Available
     Price: $65.99 USD
-  - [bright red / 37 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251668541)
+  - [bright red 7 cm / 37 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251668541)
     Availability: Available
     Price: $65.99 USD
-  - [bright red / 36 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251701309)
+  - [bright red 7 cm / 36 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251701309)
     Availability: Available
     Price: $65.99 USD
-  - [bright red / 39 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251734077)
+  - [bright red 7 cm / 39 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251734077)
     Availability: Available
     Price: $65.99 USD
-  - [bright red / 38 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251766845)
+  - [bright red 7 cm / 38 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251766845)
     Availability: Available
     Price: $65.99 USD
-  - [bright red / 41 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251799613)
+  - [bright red 7 cm / 41 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251799613)
     Availability: Available
     Price: $65.99 USD
-  - [bright red / 40 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251832381)
+  - [bright red 7 cm / 40 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251832381)
     Availability: Available
     Price: $65.99 USD
   - [bright beige / 36 / CHINA](https://attikk-wear.myshopify.com/products/shadow-dancer-high-heel-sandals?variant=42556251865149)
@@ -394,20 +394,20 @@
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9f2e418c1d26469a8094c10481637cbeG_dd8f1de5-b69e-4fb8-8f1d-881b91a7201a.webp?v=1762323600
     Price: $65.99 USD
 - [Blade Stiletto Heels - Ankle Strap Platform Heels | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels): Edgy blade stiletto heels with ankle strap design. Platform stilettos perfect for nights out, parties, and special events. Bold style meets comfort.
-  Updated: 2025-11-12T05:46:32Z
+  Updated: 2025-11-23T08:39:03Z
   Vendor: My Store
   Product Type: Stilettos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S32f7a9ac61544f91806d8f199628391es.webp?v=1756160259
-  - [bright red / 43 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257337405)
+  - [bright red 7 cm / 43 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257337405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S876dbdb504b0410aa96f1682d8d3de869.webp?v=1762323528
     Price: $65.99 USD
-  - [bright red / 42 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257370173)
+  - [bright red 7 cm / 42 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257370173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S876dbdb504b0410aa96f1682d8d3de869.webp?v=1762323528
     Price: $65.99 USD
-  - [bright red / 35 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257402941)
+  - [bright red 7 cm / 35 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257402941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S876dbdb504b0410aa96f1682d8d3de869.webp?v=1762323528
     Price: $65.99 USD
@@ -415,27 +415,27 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd9cd2a4760e441368d50d603240ca3bec_cd663295-2939-4a54-bcb9-25045aeb4915.webp?v=1762323528
     Price: $65.99 USD
-  - [bright red / 37 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257468477)
+  - [bright red 7 cm / 37 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257468477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S876dbdb504b0410aa96f1682d8d3de869.webp?v=1762323528
     Price: $65.99 USD
-  - [bright red / 36 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257501245)
+  - [bright red 7 cm / 36 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257501245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S876dbdb504b0410aa96f1682d8d3de869.webp?v=1762323528
     Price: $65.99 USD
-  - [bright red / 39 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257534013)
+  - [bright red 7 cm / 39 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257534013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S876dbdb504b0410aa96f1682d8d3de869.webp?v=1762323528
     Price: $65.99 USD
-  - [bright red / 38 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257566781)
+  - [bright red 7 cm / 38 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257566781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S876dbdb504b0410aa96f1682d8d3de869.webp?v=1762323528
     Price: $65.99 USD
-  - [bright red / 41 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257599549)
+  - [bright red 7 cm / 41 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257599549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S876dbdb504b0410aa96f1682d8d3de869.webp?v=1762323528
     Price: $65.99 USD
-  - [bright red / 40 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257632317)
+  - [bright red 7 cm / 40 / CHINA](https://attikk-wear.myshopify.com/products/blade-ankle-strap-stiletto-heels?variant=42556257632317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S876dbdb504b0410aa96f1682d8d3de869.webp?v=1762323528
     Price: $65.99 USD
@@ -776,7 +776,7 @@
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hd0da865ebc3d4bc09dadc6b5c9d0e107Z_91657446-ff09-42ac-a564-3cd86966a97c.webp?v=1762323528
     Price: $56.99 USD
 - [Women Patent Leather Sexy Pointed Toe Thin High Heels {Ankle Strap Party Dress Shoes Fashion Slingback Sandals Zapatos De Mujer} | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/sexy-pointed-toe-thin-high-heels-women-patent-leather-ankle-strap-party-dress-shoes-fashion-slingback-sandals-zapatos-de-mujer): Elegant Women's Ankle Strap High Heels for Weddings and Parties
-  Updated: 2025-11-12T03:33:16Z
+  Updated: 2025-11-23T08:44:28Z
   Vendor: My Store
   Product Type: High Heels
   Availability: Available
@@ -6603,46 +6603,37 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd382fc1ccc4e4ad29f69e8cb9613a3f7Z.webp?v=1761375311
     Price: $65.99 USD
 - [Stylish Over-the-Knee Boots for Women | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/2025-winter-over-the-knee-boots): Explore our 2025 Winter New Style Over-the-Knee Boots. Experience comfort and elegance with wedge heels, perfect for any winter occasion. 2025 Winter New Style - Over-the-Knee Boots European and American Style Round-Toe Wedge-Heel Long Boots for Women
-  Updated: 2025-11-10T17:10:38Z
+  Updated: 2025-11-22T18:46:44Z
   Vendor: ATTIK WEAR
   Product Type: Over The Knee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S24d3bf0fd7f24dbd917563d576eb898cv.webp?v=1761375311
   - [Black / 42](https://attikk-wear.myshopify.com/products/2025-winter-over-the-knee-boots?variant=42661742084157)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfeb7788f5e7a4686b7f844d420ba7e297.webp?v=1762322709
     Price: $93.99 USD
   - [Black / 43](https://attikk-wear.myshopify.com/products/2025-winter-over-the-knee-boots?variant=42661742116925)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfeb7788f5e7a4686b7f844d420ba7e297.webp?v=1762322709
     Price: $93.99 USD
   - [Black / 38](https://attikk-wear.myshopify.com/products/2025-winter-over-the-knee-boots?variant=42661742149693)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfeb7788f5e7a4686b7f844d420ba7e297.webp?v=1762322709
     Price: $93.99 USD
   - [Black / 39](https://attikk-wear.myshopify.com/products/2025-winter-over-the-knee-boots?variant=42661742182461)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfeb7788f5e7a4686b7f844d420ba7e297.webp?v=1762322709
     Price: $93.99 USD
   - [Black / 40](https://attikk-wear.myshopify.com/products/2025-winter-over-the-knee-boots?variant=42661742215229)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfeb7788f5e7a4686b7f844d420ba7e297.webp?v=1762322709
     Price: $93.99 USD
   - [Black / 41](https://attikk-wear.myshopify.com/products/2025-winter-over-the-knee-boots?variant=42661742247997)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfeb7788f5e7a4686b7f844d420ba7e297.webp?v=1762322709
     Price: $93.99 USD
   - [Black / 35](https://attikk-wear.myshopify.com/products/2025-winter-over-the-knee-boots?variant=42661742280765)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfeb7788f5e7a4686b7f844d420ba7e297.webp?v=1762322709
     Price: $93.99 USD
   - [Black / 36](https://attikk-wear.myshopify.com/products/2025-winter-over-the-knee-boots?variant=42661742313533)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfeb7788f5e7a4686b7f844d420ba7e297.webp?v=1762322709
     Price: $93.99 USD
   - [Black / 37](https://attikk-wear.myshopify.com/products/2025-winter-over-the-knee-boots?variant=42661742346301)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfeb7788f5e7a4686b7f844d420ba7e297.webp?v=1762322709
     Price: $93.99 USD
 - [Pop Black Platform Combat Ankle Boots - Stylish Winter Boots for Women| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/pop-black-platform-combat-ankle-boots-women): Discover the Pop Black Platform Combat Ankle Boots for women. Stylish, waterproof, and warm, these lace-up motorcycle boots are perfect for winter adventures.
   Updated: 2025-11-10T17:10:38Z
@@ -8316,82 +8307,82 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9e4fba353f294995bea27f8e008f2f5bu.webp?v=1762321904
     Price: $43.19 USD
 - [Glittery High Slit Formal Dress Elegant ALine Evening Gown | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses): Dazzle in our Glittery High Slit Formal Dress. Stunning glitter design with high slit and A-line silhouette. Perfect for dinners and elegant events.
-  Updated: 2025-11-10T19:40:09Z
+  Updated: 2025-11-23T06:43:28Z
   Vendor: ATTIK WEAR
   Product Type: Off Shoulder Dresses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5658e9c72230454794088ffed632a83es.webp?v=1761590157
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222696353.png?v=1763837002
   - [Burgandy / XXXL](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666496622653)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222627511.png?v=1762222924
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222627511.png?v=1763837002
     Price: $54.56 USD
   - [Burgandy / XXL](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666496655421)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222627511.png?v=1762222924
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222627511.png?v=1763837002
     Price: $54.56 USD
   - [Black / XL](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666496688189)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222751196.png?v=1762222944
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222751196.png?v=1763837002
     Price: $54.56 USD
   - [Black / L](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666496720957)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222751196.png?v=1762222944
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222751196.png?v=1763837002
     Price: $54.56 USD
   - [Black / XXXL](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666496753725)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222751196.png?v=1762222944
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222751196.png?v=1763837002
     Price: $54.56 USD
   - [Black / XXL](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666496786493)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222751196.png?v=1762222944
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222751196.png?v=1763837002
     Price: $54.56 USD
   - [Burgandy / M](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666496819261)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222627511.png?v=1762222924
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222627511.png?v=1763837002
     Price: $54.56 USD
   - [Burgandy / S](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666496852029)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222627511.png?v=1762222924
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222627511.png?v=1763837002
     Price: $54.56 USD
   - [Burgandy / XL](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666496884797)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222627511.png?v=1762222924
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222627511.png?v=1763837002
     Price: $54.56 USD
   - [Burgandy / L](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666496917565)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222627511.png?v=1762222924
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222627511.png?v=1763837002
     Price: $54.56 USD
   - [Gray / M](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666496950333)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222696353.png?v=1762222966
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222696353.png?v=1763837002
     Price: $54.56 USD
   - [Gray / S](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666496983101)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222696353.png?v=1762222966
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222696353.png?v=1763837002
     Price: $54.56 USD
   - [Gray / XL](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666497015869)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222696353.png?v=1762222966
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222696353.png?v=1763837002
     Price: $54.56 USD
   - [Gray / L](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666497048637)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222696353.png?v=1762222966
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222696353.png?v=1763837002
     Price: $54.56 USD
   - [Gray / XXXL](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666497081405)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222696353.png?v=1762222966
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222696353.png?v=1763837002
     Price: $54.56 USD
   - [Gray / XXL](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666497114173)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222696353.png?v=1762222966
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222696353.png?v=1763837002
     Price: $54.56 USD
   - [Black / M](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666497146941)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222751196.png?v=1762222944
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222751196.png?v=1763837002
     Price: $54.56 USD
   - [Black / S](https://attikk-wear.myshopify.com/products/women-summer-dress-2025-fashion-bag-buttock-slit-a-line-collar-glitter-dinner-dresses?variant=42666497179709)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222751196.png?v=1762222944
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/1762222751196.png?v=1763837002
     Price: $54.56 USD
 - [Women's Sexy Sequined Maxi Dress-Elegant Slit Party Dress | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/womens-sexy-sequined-maxi-dress-summer-party): Shine bright in our Women's Sexy Sequined Maxi Dress. Stunning sequin design with elegant slit. Perfect for parties, proms, and special occasions.
   Updated: 2025-11-12T08:52:30Z
@@ -9220,7 +9211,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2c892119e8de4b318b111c508923f793l.webp?v=1762321904
     Price: $45.00 USD
 - [Women's Winter Wool Coat Trench Jacket - Stylish & Warm | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/womens-winter-wool-coat-trench-jacket): Stay warm in our Women's Winter Wool Coat. Elegant slim-fit trench designed for all body types and premium wool blend. Perfect for the winter season!
-  Updated: 2025-11-12T08:11:21Z
+  Updated: 2025-11-22T18:43:22Z
   Vendor: ATTIK WEAR
   Product Type: coats
   Availability: Available
@@ -9484,7 +9475,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S986080d500af4bf788fc691e68a8037ee.webp?v=1761671318
     Price: $52.81 USD
 - [Sexy Pointed Toe Thigh High Boots| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/eilyken-new-fashion-designer-tassel-thigh-high-women-shoes): Step out in style with these Thigh High Stiletto Boots. Sexy pointed toe, elegant tassel details, and sleek over-the-knee design for standout looks.
-  Updated: 2025-11-10T16:53:34Z
+  Updated: 2025-11-22T09:26:05Z
   Vendor: ATTIK WEAR
   Product Type: Thigh High Boots
   Availability: Available
@@ -9515,42 +9506,42 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $81.54 USD
 - [Women Punk Gothic Platform Boots - Stylish & Comfortable| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots): Women's Punk Gothic Motorcycle Ankle Boots with a chunky platform heel 
  design, edgy buckle details, and matte black finish for bold, standout looks.
-  Updated: 2025-11-09T16:07:31Z
+  Updated: 2025-11-22T18:43:22Z
   Vendor: ATTIK WEAR
   Product Type: Ankle Boots
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Scd93bd5a06b148d8afebe29f50312c546.webp?v=1761675029
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Scd93bd5a06b148d8afebe29f50312c546.webp?v=1763837002
   - [Black / 39](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305462845)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1763837002
     Price: $67.99 USD
   - [Black / 40](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305495613)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1763837002
     Price: $67.99 USD
   - [Black / 41](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305528381)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1763837002
     Price: $67.99 USD
   - [Black / 42](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305561149)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1763837002
     Price: $67.99 USD
   - [Black / 35](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305593917)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1763837002
     Price: $67.99 USD
   - [Black / 36](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305626685)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1763837002
     Price: $67.99 USD
   - [Black / 37](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305659453)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1763837002
     Price: $67.99 USD
   - [Black / 38](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305692221)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1763837002
     Price: $67.99 USD
   - [Pink / 43](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305724989)
     Availability: Available
@@ -9608,109 +9599,102 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $67.99 USD
   - [White / 38](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306314813)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1763837002
     Price: $67.99 USD
   - [White / 39](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306347581)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1763837002
     Price: $67.99 USD
   - [White / 40](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306380349)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1763837002
     Price: $67.99 USD
   - [White / 41](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306413117)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1763837002
     Price: $67.99 USD
   - [Black / 43](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306445885)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1763837002
     Price: $67.99 USD
   - [White / 35](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306478653)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1763837002
     Price: $67.99 USD
   - [White / 36](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306511421)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1763837002
     Price: $67.99 USD
   - [White / 37](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306544189)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1763837002
     Price: $67.99 USD
   - [White / 42](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306576957)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1763837002
     Price: $67.99 USD
   - [White / 43](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306609725)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1762321903
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1763837002
     Price: $67.99 USD
 - [Over The Knee Boots - Pointed Toe Waterproof Boots | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots): Shop 2025 Autumn Winter Over The Knee Boots, featuring a stylish pointed toe, zip closure, square heel and waterproof design. Available in 4 colors
-  Updated: 2025-11-17T20:51:12Z
+  Updated: 2025-11-22T18:43:22Z
   Vendor: ATTIK WEAR
   Product Type: Over The Knee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6d324490a5034e778fbe70989961dfbaE.webp?v=1761681856
   - [Black / 35](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588217917)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S74750f895ab545bb97d063c1f3230fd9Q.webp?v=1761681857
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S74750f895ab545bb97d063c1f3230fd9Q.webp?v=1763837002
     Price: $72.15 USD
   - [Black / 36](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588250685)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S74750f895ab545bb97d063c1f3230fd9Q.webp?v=1761681857
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S74750f895ab545bb97d063c1f3230fd9Q.webp?v=1763837002
     Price: $72.15 USD
   - [Black / 37](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588283453)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S74750f895ab545bb97d063c1f3230fd9Q.webp?v=1761681857
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S74750f895ab545bb97d063c1f3230fd9Q.webp?v=1763837002
     Price: $72.15 USD
   - [Black / 38](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588316221)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S74750f895ab545bb97d063c1f3230fd9Q.webp?v=1761681857
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S74750f895ab545bb97d063c1f3230fd9Q.webp?v=1763837002
     Price: $72.15 USD
   - [Black / 39](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588348989)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S74750f895ab545bb97d063c1f3230fd9Q.webp?v=1761681857
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S74750f895ab545bb97d063c1f3230fd9Q.webp?v=1763837002
     Price: $72.15 USD
   - [Black / 40](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588381757)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S74750f895ab545bb97d063c1f3230fd9Q.webp?v=1761681857
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S74750f895ab545bb97d063c1f3230fd9Q.webp?v=1763837002
     Price: $72.15 USD
   - [Black / 41](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588414525)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S74750f895ab545bb97d063c1f3230fd9Q.webp?v=1761681857
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S74750f895ab545bb97d063c1f3230fd9Q.webp?v=1763837002
     Price: $72.15 USD
   - [Black / 42](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588447293)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S74750f895ab545bb97d063c1f3230fd9Q.webp?v=1761681857
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S74750f895ab545bb97d063c1f3230fd9Q.webp?v=1763837002
     Price: $72.15 USD
   - [cream / 35](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588480061)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa7112fe3a59f42c1a4fd49976a6faa2e2.webp?v=1761681856
     Price: $72.15 USD
   - [cream / 36](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588512829)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa7112fe3a59f42c1a4fd49976a6faa2e2.webp?v=1761681856
     Price: $72.15 USD
   - [cream / 37](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588545597)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa7112fe3a59f42c1a4fd49976a6faa2e2.webp?v=1761681856
     Price: $72.15 USD
   - [cream / 38](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588578365)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa7112fe3a59f42c1a4fd49976a6faa2e2.webp?v=1761681856
     Price: $72.15 USD
   - [cream / 39](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588611133)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa7112fe3a59f42c1a4fd49976a6faa2e2.webp?v=1761681856
     Price: $72.15 USD
   - [cream / 40](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588643901)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa7112fe3a59f42c1a4fd49976a6faa2e2.webp?v=1761681856
     Price: $72.15 USD
   - [cream / 41](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588676669)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa7112fe3a59f42c1a4fd49976a6faa2e2.webp?v=1761681856
     Price: $72.15 USD
   - [Redd / 42](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588709437)
     Availability: Available
@@ -9718,39 +9702,38 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $72.15 USD
   - [cream / 42](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588742205)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa7112fe3a59f42c1a4fd49976a6faa2e2.webp?v=1761681856
     Price: $72.15 USD
   - [Dark Brown / 35](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588774973)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c3cd92d0d2042199fdafb9d04eca1edj.webp?v=1761681856
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c3cd92d0d2042199fdafb9d04eca1edj.webp?v=1763837002
     Price: $72.15 USD
   - [Dark Brown / 36](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588807741)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c3cd92d0d2042199fdafb9d04eca1edj.webp?v=1761681856
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c3cd92d0d2042199fdafb9d04eca1edj.webp?v=1763837002
     Price: $72.15 USD
   - [Dark Brown / 37](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588840509)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c3cd92d0d2042199fdafb9d04eca1edj.webp?v=1761681856
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c3cd92d0d2042199fdafb9d04eca1edj.webp?v=1763837002
     Price: $72.15 USD
   - [Dark Brown / 38](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588873277)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c3cd92d0d2042199fdafb9d04eca1edj.webp?v=1761681856
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c3cd92d0d2042199fdafb9d04eca1edj.webp?v=1763837002
     Price: $72.15 USD
   - [Dark Brown / 39](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588906045)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c3cd92d0d2042199fdafb9d04eca1edj.webp?v=1761681856
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c3cd92d0d2042199fdafb9d04eca1edj.webp?v=1763837002
     Price: $72.15 USD
   - [Dark Brown / 40](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588938813)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c3cd92d0d2042199fdafb9d04eca1edj.webp?v=1761681856
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c3cd92d0d2042199fdafb9d04eca1edj.webp?v=1763837002
     Price: $72.15 USD
   - [Dark Brown / 41](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669588971581)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c3cd92d0d2042199fdafb9d04eca1edj.webp?v=1761681856
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c3cd92d0d2042199fdafb9d04eca1edj.webp?v=1763837002
     Price: $72.15 USD
   - [Dark Brown / 42](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669589004349)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c3cd92d0d2042199fdafb9d04eca1edj.webp?v=1761681856
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c3cd92d0d2042199fdafb9d04eca1edj.webp?v=1763837002
     Price: $72.15 USD
   - [Redd / 35](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots?variant=42669589037117)
     Availability: Available
@@ -9781,7 +9764,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S508a503eb7be45ae9e7510bc44cd9c76e.webp?v=1761681856
     Price: $72.15 USD
 - [Round Toe Black Suede High Heel - Stylish & Comfortable| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock): Command attention in Domina High Heels. Round toe, black suede finish, and sky-high heels with ankle buckle detail.
-  Updated: 2025-11-11T16:19:48Z
+  Updated: 2025-11-22T09:26:04Z
   Vendor: ATTIK WEAR
   Product Type: High Heels
   Availability: Available
@@ -9823,7 +9806,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7ee303ffaffc47e3b76f6db77515860aG.webp?v=1761682307
     Price: $46.84 USD
 - [Shop Women's Sharp Tip Over-The-Knee High Heel Boots| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/womens-sharp-tip-over-the-knee-high-heel-boots): Make a bold statement with Vogue Vantage Stiletto Boots. Sharp pointed toe, sky-high heels, and over-the-knee design for ultimate glamour and style.
-  Updated: 2025-11-10T16:53:30Z
+  Updated: 2025-11-22T09:26:04Z
   Vendor: ATTIK WEAR
   Product Type: Over The Knee
   Availability: Available
@@ -9920,7 +9903,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Price: $82.56 USD
 - [Women's Winter Fur Knee High Heel Boots | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots): Step into style with Hearthstone Knee High Boots. Thick fur lining, high heel design, and premium PU leather riding boots keep you warm and fashionable all winter long.
-  Updated: 2025-11-17T20:51:13Z
+  Updated: 2025-11-22T09:26:05Z
   Vendor: ATTIK WEAR
   Product Type: Knee High Boots
   Availability: Available
@@ -9999,19 +9982,15 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $72.10 USD
   - [champagne / 40](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681344573)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1762321092
     Price: $72.10 USD
   - [champagne / 41](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681377341)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1762321092
     Price: $72.10 USD
   - [champagne / 42](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681410109)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1762321092
     Price: $72.10 USD
   - [champagne / 43](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681442877)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1762321092
     Price: $72.10 USD
   - [Dark Brown / 42](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681475645)
     Availability: Available
@@ -10023,30 +10002,24 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $72.10 USD
   - [champagne / 34](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681541181)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1762321092
     Price: $72.10 USD
   - [champagne / 35](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681573949)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1762321092
     Price: $72.10 USD
   - [champagne / 36](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681606717)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1762321092
     Price: $72.10 USD
   - [champagne / 37](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681639485)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1762321092
     Price: $72.10 USD
   - [champagne / 38](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681672253)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1762321092
     Price: $72.10 USD
   - [champagne / 39](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681705021)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1762321092
     Price: $72.10 USD
 - [Shadow Stomper Goth Boots - Women's Platform Knee High Boots | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes): Edgy Shadow Stomper Goth Boots with flat platform and zipper. Round toe knee-high design perfect for all-day comfort. Anti-slip sole for any adventure.
-  Updated: 2025-11-10T16:53:25Z
+  Updated: 2025-11-22T09:26:04Z
   Vendor: ATTIK WEAR
   Product Type: Knee High Boots
   Availability: Available
@@ -10146,74 +10119,70 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se214122e0d9e47028f70a6bcfc618abcO.webp?v=1761688429
     Price: $102.52 USD
 - [Night Pearl High Heels - Women's Black Stiletto Sandals | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap): Step into summer with Night Pearl High Heels. Sleek black stiletto sandals with ankle strap & 8CM heels. Perfect for weddings, parties & special occasions.
-  Updated: 2025-11-10T16:53:30Z
+  Updated: 2025-11-22T21:26:10Z
   Vendor: ATTIK WEAR
   Product Type: Stilettos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S712c65598b104012854bf4f72d22fb3fR.webp?v=1762321092
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb04eaa3ac3cd42eda3cecf7c7d23cb6cg.webp?v=1763803564
   - [rose / 41](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756252221)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1761688696
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1763803564
     Price: $55.35 USD
   - [rose / 38](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756284989)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1761688696
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1763803564
     Price: $55.35 USD
   - [rose / 37](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756317757)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1761688696
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1763803564
     Price: $55.35 USD
   - [rose / 40](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756350525)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1761688696
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1763803564
     Price: $55.35 USD
   - [rose / 39](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756383293)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1761688696
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1763803564
     Price: $55.35 USD
   - [turquoise / 40](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756416061)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1761688697
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1763803564
     Price: $55.35 USD
   - [turquoise / 39](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756448829)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1761688697
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1763803564
     Price: $55.35 USD
   - [rose / 36](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756481597)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1761688696
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1763803564
     Price: $55.35 USD
   - [turquoise / 41](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756514365)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1761688697
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1763803564
     Price: $55.35 USD
   - [Black / 38](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756547133)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seabd2495fd824da19344c9297f4e2cf3c.webp?v=1761688697
     Price: $55.35 USD
   - [turquoise / 36](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756579901)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1761688697
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1763803564
     Price: $55.35 USD
   - [Black / 39](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756612669)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seabd2495fd824da19344c9297f4e2cf3c.webp?v=1761688697
     Price: $55.35 USD
   - [Black / 36](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756645437)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seabd2495fd824da19344c9297f4e2cf3c.webp?v=1761688697
     Price: $55.35 USD
   - [turquoise / 38](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756678205)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1761688697
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1763803564
     Price: $55.35 USD
   - [Black / 37](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756710973)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seabd2495fd824da19344c9297f4e2cf3c.webp?v=1761688697
     Price: $55.35 USD
   - [turquoise / 37](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756743741)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1761688697
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1763803564
     Price: $55.35 USD
   - [Multicolor / 36](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756776509)
     Availability: Available
@@ -10223,11 +10192,9 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $55.35 USD
   - [Black / 40](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756842045)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seabd2495fd824da19344c9297f4e2cf3c.webp?v=1761688697
     Price: $55.35 USD
   - [Black / 41](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756874813)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seabd2495fd824da19344c9297f4e2cf3c.webp?v=1761688697
     Price: $55.35 USD
   - [Multicolor / 40](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756907581)
     Availability: Available
@@ -10242,42 +10209,34 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Price: $55.35 USD
 - [Vespera Pump - Women's Lace-Up High Heel Pumps | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/vespera-pump): Elegance meets comfort with Vespera Pump. Stylish lace-up high heels perfect for brunches or nights out. Fashion-forward design with superior cushioning.
-  Updated: 2025-11-11T16:16:57Z
+  Updated: 2025-11-22T09:26:04Z
   Vendor: ATTIK WEAR
   Product Type: Stilettos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S37b33ffc06c2437e893131e8ecc20086N.webp?v=1762321092
   - [Black / 39](https://attikk-wear.myshopify.com/products/vespera-pump?variant=42669768933437)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Scb187f73eddf4ce0a99a412934ab9979v.webp?v=1761689018
     Price: $43.56 USD
   - [Black / 40](https://attikk-wear.myshopify.com/products/vespera-pump?variant=42669768966205)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Scb187f73eddf4ce0a99a412934ab9979v.webp?v=1761689018
     Price: $43.56 USD
   - [Black / 41](https://attikk-wear.myshopify.com/products/vespera-pump?variant=42669768998973)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Scb187f73eddf4ce0a99a412934ab9979v.webp?v=1761689018
     Price: $43.56 USD
   - [Black / 42](https://attikk-wear.myshopify.com/products/vespera-pump?variant=42669769031741)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Scb187f73eddf4ce0a99a412934ab9979v.webp?v=1761689018
     Price: $43.56 USD
   - [Black / 35](https://attikk-wear.myshopify.com/products/vespera-pump?variant=42669769064509)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Scb187f73eddf4ce0a99a412934ab9979v.webp?v=1761689018
     Price: $43.56 USD
   - [Black / 36](https://attikk-wear.myshopify.com/products/vespera-pump?variant=42669769097277)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Scb187f73eddf4ce0a99a412934ab9979v.webp?v=1761689018
     Price: $43.56 USD
   - [Black / 37](https://attikk-wear.myshopify.com/products/vespera-pump?variant=42669769130045)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Scb187f73eddf4ce0a99a412934ab9979v.webp?v=1761689018
     Price: $43.56 USD
   - [Black / 38](https://attikk-wear.myshopify.com/products/vespera-pump?variant=42669769162813)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Scb187f73eddf4ce0a99a412934ab9979v.webp?v=1761689018
     Price: $43.56 USD
   - [Creamy White / 39](https://attikk-wear.myshopify.com/products/vespera-pump?variant=42669769195581)
     Availability: Available
@@ -10312,50 +10271,40 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbf7ab69d62f84a8bb297d2f013db1c49R.webp?v=1762321092
     Price: $43.56 USD
 - [Lace Peep Toe High Heels - Stiletto Sandals | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/women-lace-sandals-peep-toe-high-heels): Sexy, Elegant, Stunning Peep Toe High Heels with stiletto silhouette and breathable air mesh. Perfect for weddings, dinners, and nights out.
-  Updated: 2025-11-10T16:53:24Z
+  Updated: 2025-11-22T09:26:04Z
   Vendor: ATTIK WEAR
   Product Type: Stilettos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se59be8891a0f43439798058341918c5a1.webp?v=1761689167
   - [Black / 37](https://attikk-wear.myshopify.com/products/women-lace-sandals-peep-toe-high-heels?variant=42669770014781)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05e6de6f09d9458096e9c11772a343dd5.webp?v=1762447397
     Price: $64.42 USD
   - [Black / 38](https://attikk-wear.myshopify.com/products/women-lace-sandals-peep-toe-high-heels?variant=42669770047549)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05e6de6f09d9458096e9c11772a343dd5.webp?v=1762447397
     Price: $64.42 USD
   - [Black / 35](https://attikk-wear.myshopify.com/products/women-lace-sandals-peep-toe-high-heels?variant=42669770080317)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05e6de6f09d9458096e9c11772a343dd5.webp?v=1762447397
     Price: $64.42 USD
   - [Black / 36](https://attikk-wear.myshopify.com/products/women-lace-sandals-peep-toe-high-heels?variant=42669770113085)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05e6de6f09d9458096e9c11772a343dd5.webp?v=1762447397
     Price: $64.42 USD
   - [Black / 41](https://attikk-wear.myshopify.com/products/women-lace-sandals-peep-toe-high-heels?variant=42669770145853)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05e6de6f09d9458096e9c11772a343dd5.webp?v=1762447397
     Price: $64.42 USD
   - [Black / 42](https://attikk-wear.myshopify.com/products/women-lace-sandals-peep-toe-high-heels?variant=42669770178621)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05e6de6f09d9458096e9c11772a343dd5.webp?v=1762447397
     Price: $64.42 USD
   - [Black / 39](https://attikk-wear.myshopify.com/products/women-lace-sandals-peep-toe-high-heels?variant=42669770211389)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05e6de6f09d9458096e9c11772a343dd5.webp?v=1762447397
     Price: $64.42 USD
   - [Black / 40](https://attikk-wear.myshopify.com/products/women-lace-sandals-peep-toe-high-heels?variant=42669770244157)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05e6de6f09d9458096e9c11772a343dd5.webp?v=1762447397
     Price: $64.42 USD
   - [Black / 43](https://attikk-wear.myshopify.com/products/women-lace-sandals-peep-toe-high-heels?variant=42669770276925)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05e6de6f09d9458096e9c11772a343dd5.webp?v=1762447397
     Price: $64.42 USD
   - [Black / 34](https://attikk-wear.myshopify.com/products/women-lace-sandals-peep-toe-high-heels?variant=42669770309693)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05e6de6f09d9458096e9c11772a343dd5.webp?v=1762447397
     Price: $64.42 USD
 - [Instinct Stiletto Heels - Women's Luxury High Heel Sandals | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/2025-new-luxury-women-summer-sexy-stiletto-heels-sandals): Step into luxury with Instinct Stiletto Heels. Super high heel sandals with zipper strap design. Perfect for summer occasions. Elegant comfort meets stunning style.
   Updated: 2025-11-10T16:53:25Z
@@ -10420,7 +10369,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6d539fc488b54c77acc5fbc0deeffed1j.webp?v=1761689326
     Price: $44.56 USD
 - [Old Soul Pump - Women's Platform Stiletto Heels  | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/womens-stilettos-platform-pumps-11cm-high-heels): Elevate your style with Old Soul Pump platform stilettos. Classic high heels perfect for office, parties & weddings. Timeless elegance meets modern comfort.
-  Updated: 2025-11-18T02:50:47Z
+  Updated: 2025-11-23T08:44:29Z
   Vendor: ATTIK WEAR
   Product Type: High Heels
   Availability: Available
@@ -10644,7 +10593,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9aa6acc754ed4ee0906b2a5e59f23cbca.webp?v=1762918911
     Price: $56.41 USD
 - [Elegant Knitted Sweater Dress for Women - Casual Autumn Winter Style](https://attikk-wear.myshopify.com/products/2025-autumn-winter-knitted-elegant-sweater-dress): Discover the 2025 Autumn Winter Knitted Elegant Sweater Dress for Women. This stylish O-neck long sleeve dress offers a slim fit and mid-calf length for a chic and comfortable look.
-  Updated: 2025-11-18T16:07:33Z
+  Updated: 2025-11-22T09:10:40Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
@@ -10848,7 +10797,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf4ecbfec1c0c49dd9ff71c4eece5270e0.webp?v=1763051871
     Price: $42.15 USD
 - [Breezy Basics](https://attikk-wear.myshopify.com/products/winter-high-collar-sexy-knitted-dress-set): Shop our Winter High Collar Sexy Knitted Dress Set for Women. This stylish and comfortable dress is perfect for all occasions, keeping you warm and chic.
-  Updated: 2025-11-15T09:16:13Z
+  Updated: 2025-11-22T09:10:41Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
@@ -10870,7 +10819,6 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $35.15 USD
   - [Gray / L](https://attikk-wear.myshopify.com/products/winter-high-collar-sexy-knitted-dress-set?variant=42715957329981)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0b492fa6d9544030ac8dc3c82904cd83A.webp?v=1763052021
     Price: $35.15 USD
   - [Green / L](https://attikk-wear.myshopify.com/products/winter-high-collar-sexy-knitted-dress-set?variant=42715957362749)
     Availability: Available
@@ -10888,11 +10836,9 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $35.15 USD
   - [Gray / M](https://attikk-wear.myshopify.com/products/winter-high-collar-sexy-knitted-dress-set?variant=42715957493821)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0b492fa6d9544030ac8dc3c82904cd83A.webp?v=1763052021
     Price: $35.15 USD
   - [Gray / S](https://attikk-wear.myshopify.com/products/winter-high-collar-sexy-knitted-dress-set?variant=42715957526589)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0b492fa6d9544030ac8dc3c82904cd83A.webp?v=1763052021
     Price: $35.15 USD
   - [Red / S](https://attikk-wear.myshopify.com/products/winter-high-collar-sexy-knitted-dress-set?variant=42715957559357)
     Availability: Available
@@ -10905,34 +10851,34 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Price: $35.15 USD
 - [Elegant Women's Backless Turtleneck Dress - Autumn Winter](https://attikk-wear.myshopify.com/products/womens-backless-elegant-turtleneck-dress-autumn-winter-fashion): Shop our elegant women's backless turtleneck dress, perfect for autumn and winter. Featuring a slim fit and stylish design, make a statement this season.
-  Updated: 2025-11-15T07:56:59Z
+  Updated: 2025-11-22T09:10:40Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9cbd7983785d447998c244fb95f0ca66u.webp?v=1763052245
   - [Brown / S](https://attikk-wear.myshopify.com/products/womens-backless-elegant-turtleneck-dress-autumn-winter-fashion?variant=42715959427133)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa4876e590105468294054d4a03f4ffc5l.webp?v=1763052245
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa4876e590105468294054d4a03f4ffc5l.webp?v=1763802640
     Price: $42.68 USD
   - [Brown / M](https://attikk-wear.myshopify.com/products/womens-backless-elegant-turtleneck-dress-autumn-winter-fashion?variant=42715959459901)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa4876e590105468294054d4a03f4ffc5l.webp?v=1763052245
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa4876e590105468294054d4a03f4ffc5l.webp?v=1763802640
     Price: $42.68 USD
   - [Khaki / M](https://attikk-wear.myshopify.com/products/womens-backless-elegant-turtleneck-dress-autumn-winter-fashion?variant=42715959492669)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se12c8f4c6dd841f28ad28c1cb0209617I.webp?v=1763052245
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se12c8f4c6dd841f28ad28c1cb0209617I.webp?v=1763802640
     Price: $42.68 USD
   - [Khaki / L](https://attikk-wear.myshopify.com/products/womens-backless-elegant-turtleneck-dress-autumn-winter-fashion?variant=42715959525437)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se12c8f4c6dd841f28ad28c1cb0209617I.webp?v=1763052245
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se12c8f4c6dd841f28ad28c1cb0209617I.webp?v=1763802640
     Price: $42.68 USD
   - [Brown / L](https://attikk-wear.myshopify.com/products/womens-backless-elegant-turtleneck-dress-autumn-winter-fashion?variant=42715959558205)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa4876e590105468294054d4a03f4ffc5l.webp?v=1763052245
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa4876e590105468294054d4a03f4ffc5l.webp?v=1763802640
     Price: $42.68 USD
   - [Khaki / S](https://attikk-wear.myshopify.com/products/womens-backless-elegant-turtleneck-dress-autumn-winter-fashion?variant=42715959590973)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se12c8f4c6dd841f28ad28c1cb0209617I.webp?v=1763052245
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se12c8f4c6dd841f28ad28c1cb0209617I.webp?v=1763802640
     Price: $42.68 USD
 - [One-Word Shoulder Slim Fit Long Sleeve Skirt - Women's Fashion](https://attikk-wear.myshopify.com/products/one-word-shoulder-slim-fit-long-sleeve-irregular-waist-short-skirt): Shop the One-Word Shoulder Slim Fit Long Sleeve Irregular Waist Short Skirt in black. Perfect for early autumn, this stylish skirt offers a flattering fit and unique design.
   Updated: 2025-11-15T07:57:11Z
@@ -10959,7 +10905,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Price: $46.21 USD
 - [Sweetheart Neck Bodycon Dress - Women's Party Wear](https://attikk-wear.myshopify.com/products/sweetheart-neck-bodycon-dress-party-wear-sleeveless): Shop the Sweetheart Neck Bodycon Dress, a stylish and comfortable sleeveless dress perfect for parties and special occasions.
-  Updated: 2025-11-15T07:57:01Z
+  Updated: 2025-11-22T09:10:40Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
@@ -10998,11 +10944,9 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $28.12 USD
   - [black / M](https://attikk-wear.myshopify.com/products/sweetheart-neck-bodycon-dress-party-wear-sleeveless?variant=42715961786429)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50b6e1e9d455409cb70cf6073972f9act.webp?v=1763052677
     Price: $28.12 USD
   - [black / L](https://attikk-wear.myshopify.com/products/sweetheart-neck-bodycon-dress-party-wear-sleeveless?variant=42715961819197)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50b6e1e9d455409cb70cf6073972f9act.webp?v=1763052677
     Price: $28.12 USD
   - [Rose Red / XS（old）](https://attikk-wear.myshopify.com/products/sweetheart-neck-bodycon-dress-party-wear-sleeveless?variant=42715961851965)
     Availability: Available
@@ -11014,11 +10958,9 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $28.12 USD
   - [black / XS（old）](https://attikk-wear.myshopify.com/products/sweetheart-neck-bodycon-dress-party-wear-sleeveless?variant=42715961917501)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50b6e1e9d455409cb70cf6073972f9act.webp?v=1763052677
     Price: $28.12 USD
   - [black / S](https://attikk-wear.myshopify.com/products/sweetheart-neck-bodycon-dress-party-wear-sleeveless?variant=42715961950269)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50b6e1e9d455409cb70cf6073972f9act.webp?v=1763052677
     Price: $28.12 USD
   - [Dark Green / M](https://attikk-wear.myshopify.com/products/sweetheart-neck-bodycon-dress-party-wear-sleeveless?variant=42715961983037)
     Availability: Available
@@ -11045,44 +10987,40 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac918b91b95040c2a4c15f734ea9542fA.webp?v=1763052677
     Price: $28.12 USD
 - [Sexy Bodycon Mini Dress for Women - Autumn Winter 2025](https://attikk-wear.myshopify.com/products/sexy-bodycon-mini-dress-women-autumn-winter-2025): Discover the Sexy Bodycon Mini Dress for Women, featuring long sleeves and an elegant design perfect for autumn and winter occasions.
-  Updated: 2025-11-15T09:16:00Z
+  Updated: 2025-11-22T09:10:40Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S44ff142bff784e808cc553bd597085a4Y.webp?v=1763098132
   - [Coffee / L](https://attikk-wear.myshopify.com/products/sexy-bodycon-mini-dress-women-autumn-winter-2025?variant=42717463248957)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb20cb15cfc654ea9866e0fa7fde1e12fa.webp?v=1763098131
     Price: $36.57 USD
   - [Coffee / M](https://attikk-wear.myshopify.com/products/sexy-bodycon-mini-dress-women-autumn-winter-2025?variant=42717463281725)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb20cb15cfc654ea9866e0fa7fde1e12fa.webp?v=1763098131
     Price: $36.57 USD
   - [Coffee / S](https://attikk-wear.myshopify.com/products/sexy-bodycon-mini-dress-women-autumn-winter-2025?variant=42717463314493)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb20cb15cfc654ea9866e0fa7fde1e12fa.webp?v=1763098131
     Price: $36.57 USD
   - [Coffee / XL](https://attikk-wear.myshopify.com/products/sexy-bodycon-mini-dress-women-autumn-winter-2025?variant=42717463347261)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb20cb15cfc654ea9866e0fa7fde1e12fa.webp?v=1763098131
     Price: $36.57 USD
 - [Elegant Black Off Shoulder Mini Dress for Women](https://attikk-wear.myshopify.com/products/black-off-shoulder-mini-dress-women): Shop our Black Off Shoulder Mini Dress with elegant long sleeves. Perfect for autumn and winter, this sexy bodycon dress flatters every figure.
-  Updated: 2025-11-15T07:59:34Z
+  Updated: 2025-11-22T09:10:40Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6500ea538b7d4962bb99064667386171Q.webp?v=1763098366
   - [Black / M](https://attikk-wear.myshopify.com/products/black-off-shoulder-mini-dress-women?variant=42717474291773)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0fad7fff419142a5a6e23a09e3e8f796J.webp?v=1763098366
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0fad7fff419142a5a6e23a09e3e8f796J.webp?v=1763802640
     Price: $33.54 USD
   - [Black / L](https://attikk-wear.myshopify.com/products/black-off-shoulder-mini-dress-women?variant=42717474324541)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0fad7fff419142a5a6e23a09e3e8f796J.webp?v=1763098366
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0fad7fff419142a5a6e23a09e3e8f796J.webp?v=1763802640
     Price: $33.54 USD
   - [Black / S](https://attikk-wear.myshopify.com/products/black-off-shoulder-mini-dress-women?variant=42717474357309)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0fad7fff419142a5a6e23a09e3e8f796J.webp?v=1763098366
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0fad7fff419142a5a6e23a09e3e8f796J.webp?v=1763802640
     Price: $33.54 USD
   - [Red / M](https://attikk-wear.myshopify.com/products/black-off-shoulder-mini-dress-women?variant=42717474390077)
     Availability: Available
@@ -11094,7 +11032,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $33.54 USD
   - [Black / XL](https://attikk-wear.myshopify.com/products/black-off-shoulder-mini-dress-women?variant=42717474455613)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0fad7fff419142a5a6e23a09e3e8f796J.webp?v=1763098366
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0fad7fff419142a5a6e23a09e3e8f796J.webp?v=1763802640
     Price: $33.54 USD
   - [Red / S](https://attikk-wear.myshopify.com/products/black-off-shoulder-mini-dress-women?variant=42717474488381)
     Availability: Available
@@ -11105,7 +11043,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6500ea538b7d4962bb99064667386171Q.webp?v=1763098366
     Price: $33.54 USD
 - [Black One Shoulder Bodycon Mini Dress for Women - Plus Size](https://attikk-wear.myshopify.com/products/black-one-shoulder-bodycon-mini-dress-plus-size): Shop our stylish Black One Shoulder Bodycon Mini Dress, perfect for summer parties. Available in plus sizes, this sleeveless dress offers a chic fit for any occasion.
-  Updated: 2025-11-15T07:50:07Z
+  Updated: 2025-11-22T09:10:39Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
@@ -11124,60 +11062,60 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $28.41 USD
   - [yellow / M](https://attikk-wear.myshopify.com/products/black-one-shoulder-bodycon-mini-dress-plus-size?variant=42717478846525)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hbfe520876f214ec0bb3edd456edf8529Y.webp?v=1763098674
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hbfe520876f214ec0bb3edd456edf8529Y.webp?v=1763802639
     Price: $28.41 USD
   - [white / L](https://attikk-wear.myshopify.com/products/black-one-shoulder-bodycon-mini-dress-plus-size?variant=42717478879293)
     Availability: Available
     Price: $28.41 USD
   - [yellow / L](https://attikk-wear.myshopify.com/products/black-one-shoulder-bodycon-mini-dress-plus-size?variant=42717478912061)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hbfe520876f214ec0bb3edd456edf8529Y.webp?v=1763098674
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hbfe520876f214ec0bb3edd456edf8529Y.webp?v=1763802639
     Price: $28.41 USD
   - [white / S](https://attikk-wear.myshopify.com/products/black-one-shoulder-bodycon-mini-dress-plus-size?variant=42717478944829)
     Availability: Available
     Price: $28.41 USD
   - [yellow / S](https://attikk-wear.myshopify.com/products/black-one-shoulder-bodycon-mini-dress-plus-size?variant=42717478977597)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hbfe520876f214ec0bb3edd456edf8529Y.webp?v=1763098674
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hbfe520876f214ec0bb3edd456edf8529Y.webp?v=1763802639
     Price: $28.41 USD
   - [red / M](https://attikk-wear.myshopify.com/products/black-one-shoulder-bodycon-mini-dress-plus-size?variant=42717479010365)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf83ebe7ed3eb40a5a594fe99205d4d0bo.webp?v=1763098674
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf83ebe7ed3eb40a5a594fe99205d4d0bo.webp?v=1763802639
     Price: $28.41 USD
   - [red / L](https://attikk-wear.myshopify.com/products/black-one-shoulder-bodycon-mini-dress-plus-size?variant=42717479043133)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf83ebe7ed3eb40a5a594fe99205d4d0bo.webp?v=1763098674
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf83ebe7ed3eb40a5a594fe99205d4d0bo.webp?v=1763802639
     Price: $28.41 USD
   - [red / S](https://attikk-wear.myshopify.com/products/black-one-shoulder-bodycon-mini-dress-plus-size?variant=42717479075901)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf83ebe7ed3eb40a5a594fe99205d4d0bo.webp?v=1763098674
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf83ebe7ed3eb40a5a594fe99205d4d0bo.webp?v=1763802639
     Price: $28.41 USD
   - [blue / M](https://attikk-wear.myshopify.com/products/black-one-shoulder-bodycon-mini-dress-plus-size?variant=42717479108669)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H4c14da299ff0493eb6f2f2e9471ce3b7G.webp?v=1763098674
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H4c14da299ff0493eb6f2f2e9471ce3b7G.webp?v=1763802639
     Price: $28.41 USD
   - [blue / L](https://attikk-wear.myshopify.com/products/black-one-shoulder-bodycon-mini-dress-plus-size?variant=42717479141437)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H4c14da299ff0493eb6f2f2e9471ce3b7G.webp?v=1763098674
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H4c14da299ff0493eb6f2f2e9471ce3b7G.webp?v=1763802639
     Price: $28.41 USD
   - [blue / S](https://attikk-wear.myshopify.com/products/black-one-shoulder-bodycon-mini-dress-plus-size?variant=42717479174205)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H4c14da299ff0493eb6f2f2e9471ce3b7G.webp?v=1763098674
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H4c14da299ff0493eb6f2f2e9471ce3b7G.webp?v=1763802639
     Price: $28.41 USD
   - [pink / M](https://attikk-wear.myshopify.com/products/black-one-shoulder-bodycon-mini-dress-plus-size?variant=42717479206973)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hb15981a926934e74a4ff071439d71e3d4.webp?v=1763098674
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hb15981a926934e74a4ff071439d71e3d4.webp?v=1763802639
     Price: $28.41 USD
   - [pink / L](https://attikk-wear.myshopify.com/products/black-one-shoulder-bodycon-mini-dress-plus-size?variant=42717479239741)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hb15981a926934e74a4ff071439d71e3d4.webp?v=1763098674
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hb15981a926934e74a4ff071439d71e3d4.webp?v=1763802639
     Price: $28.41 USD
   - [pink / S](https://attikk-wear.myshopify.com/products/black-one-shoulder-bodycon-mini-dress-plus-size?variant=42717479272509)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hb15981a926934e74a4ff071439d71e3d4.webp?v=1763098674
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hb15981a926934e74a4ff071439d71e3d4.webp?v=1763802639
     Price: $28.41 USD
 - [Elegant Sleeveless Sequined Maxi Dress for Weddings](https://attikk-wear.myshopify.com/products/wedding-party-dress-elegant-maxi-2024): Discover our elegant sleeveless sequined maxi dress, perfect for weddings and evening events. Featuring a deep V-neck and a flattering fit, this dress combines style and comfort.
-  Updated: 2025-11-15T07:50:00Z
+  Updated: 2025-11-22T09:10:39Z
   Vendor: ATTIKK WEAR
   Product Type: 
   Availability: Available
@@ -11188,7 +11126,6 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $78.91 USD
   - [SE / S](https://attikk-wear.myshopify.com/products/wedding-party-dress-elegant-maxi-2024?variant=42717480288317)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb6d865b555ef411daddd4cf5e13272efW.webp?v=1763098755
     Price: $78.91 USD
   - [Party Dress / L](https://attikk-wear.myshopify.com/products/wedding-party-dress-elegant-maxi-2024?variant=42717480321085)
     Availability: Available
@@ -11196,7 +11133,6 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $78.91 USD
   - [SE / L](https://attikk-wear.myshopify.com/products/wedding-party-dress-elegant-maxi-2024?variant=42717480353853)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb6d865b555ef411daddd4cf5e13272efW.webp?v=1763098755
     Price: $78.91 USD
   - [Party Dress / XL](https://attikk-wear.myshopify.com/products/wedding-party-dress-elegant-maxi-2024?variant=42717480386621)
     Availability: Available
@@ -11204,7 +11140,6 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $78.91 USD
   - [SE / M](https://attikk-wear.myshopify.com/products/wedding-party-dress-elegant-maxi-2024?variant=42717480419389)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb6d865b555ef411daddd4cf5e13272efW.webp?v=1763098755
     Price: $78.91 USD
   - [Party Dress / S](https://attikk-wear.myshopify.com/products/wedding-party-dress-elegant-maxi-2024?variant=42717480452157)
     Availability: Available
@@ -11212,7 +11147,6 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $78.91 USD
   - [SE / XXL](https://attikk-wear.myshopify.com/products/wedding-party-dress-elegant-maxi-2024?variant=42717480484925)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb6d865b555ef411daddd4cf5e13272efW.webp?v=1763098755
     Price: $78.91 USD
   - [Party Dress / M](https://attikk-wear.myshopify.com/products/wedding-party-dress-elegant-maxi-2024?variant=42717480517693)
     Availability: Available
@@ -11220,10 +11154,9 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $78.91 USD
   - [SE / XL](https://attikk-wear.myshopify.com/products/wedding-party-dress-elegant-maxi-2024?variant=42717480550461)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb6d865b555ef411daddd4cf5e13272efW.webp?v=1763098755
     Price: $78.91 USD
 - [Elegant Off Shoulder Wedding Dress | Luxury Gowns for Special Occas](https://attikk-wear.myshopify.com/products/elegant-off-shoulder-wedding-dress-luxury-gowns): Discover our elegant off shoulder wedding dress, designed for luxury and style. Perfect for special occasions, this gown features a high split and flattering fit.
-  Updated: 2025-11-15T07:50:00Z
+  Updated: 2025-11-22T09:10:39Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
@@ -11260,19 +11193,19 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $86.87 USD
   - [02 Green / L](https://attikk-wear.myshopify.com/products/elegant-off-shoulder-wedding-dress-luxury-gowns?variant=42717481173053)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf7f832da55fd4d97a413faad36377611x.webp?v=1763098864
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf7f832da55fd4d97a413faad36377611x.webp?v=1763802639
     Price: $86.87 USD
   - [02 Green / M](https://attikk-wear.myshopify.com/products/elegant-off-shoulder-wedding-dress-luxury-gowns?variant=42717481205821)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf7f832da55fd4d97a413faad36377611x.webp?v=1763098864
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf7f832da55fd4d97a413faad36377611x.webp?v=1763802639
     Price: $86.87 USD
   - [02 Green / XXL](https://attikk-wear.myshopify.com/products/elegant-off-shoulder-wedding-dress-luxury-gowns?variant=42717481238589)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf7f832da55fd4d97a413faad36377611x.webp?v=1763098864
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf7f832da55fd4d97a413faad36377611x.webp?v=1763802639
     Price: $86.87 USD
   - [02 Green / XL](https://attikk-wear.myshopify.com/products/elegant-off-shoulder-wedding-dress-luxury-gowns?variant=42717481271357)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf7f832da55fd4d97a413faad36377611x.webp?v=1763098864
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf7f832da55fd4d97a413faad36377611x.webp?v=1763802639
     Price: $86.87 USD
   - [01 Red / XL](https://attikk-wear.myshopify.com/products/elegant-off-shoulder-wedding-dress-luxury-gowns?variant=42717481304125)
     Availability: Available
@@ -11282,7 +11215,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $86.87 USD
   - [02 Green / S](https://attikk-wear.myshopify.com/products/elegant-off-shoulder-wedding-dress-luxury-gowns?variant=42717481369661)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf7f832da55fd4d97a413faad36377611x.webp?v=1763098864
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf7f832da55fd4d97a413faad36377611x.webp?v=1763802639
     Price: $86.87 USD
   - [01 Red / XXL](https://attikk-wear.myshopify.com/products/elegant-off-shoulder-wedding-dress-luxury-gowns?variant=42717481402429)
     Availability: Available
@@ -11327,151 +11260,145 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa279c3e6588f4b84a14fb8210209c3feB.webp?v=1763099016
     Price: $37.86 USD
 - [Elegant Women’s Summer Midi Bodycon Dress](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits): Discover the perfect summer midi bodycon dress for weddings and parties. This elegant outfit features a flattering silhouette and chic design, ideal for any special occasion.
-  Updated: 2025-11-15T07:51:06Z
+  Updated: 2025-11-22T09:10:39Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Safa600498d29423b9e044dfdeea69e38J.webp?v=1763099163
   - [Red bean powder / S](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521051709)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S22543bde9e9441d1a502fbc72c880b81x.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S22543bde9e9441d1a502fbc72c880b81x.webp?v=1763802639
     Price: $38.47 USD
   - [red / XL](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521084477)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S564a2f2d5091452c851fe3fae7be486bu.webp?v=1763099163
     Price: $38.47 USD
   - [Red bean powder / XL](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521117245)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S22543bde9e9441d1a502fbc72c880b81x.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S22543bde9e9441d1a502fbc72c880b81x.webp?v=1763802639
     Price: $38.47 USD
   - [Red bean powder / L](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521150013)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S22543bde9e9441d1a502fbc72c880b81x.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S22543bde9e9441d1a502fbc72c880b81x.webp?v=1763802639
     Price: $38.47 USD
   - [Red bean powder / M](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521182781)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S22543bde9e9441d1a502fbc72c880b81x.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S22543bde9e9441d1a502fbc72c880b81x.webp?v=1763802639
     Price: $38.47 USD
   - [orange / XL](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521215549)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S99debe08988b49bd846bb05ac680f0acG.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S99debe08988b49bd846bb05ac680f0acG.webp?v=1763802639
     Price: $38.47 USD
   - [orange / L](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521248317)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S99debe08988b49bd846bb05ac680f0acG.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S99debe08988b49bd846bb05ac680f0acG.webp?v=1763802639
     Price: $38.47 USD
   - [orange / M](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521281085)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S99debe08988b49bd846bb05ac680f0acG.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S99debe08988b49bd846bb05ac680f0acG.webp?v=1763802639
     Price: $38.47 USD
   - [red / L](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521313853)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S564a2f2d5091452c851fe3fae7be486bu.webp?v=1763099163
     Price: $38.47 USD
   - [black / XXL](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521346621)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf75db218fa1d4dc4ba5d6a0e04bae5b1Z.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf75db218fa1d4dc4ba5d6a0e04bae5b1Z.webp?v=1763802639
     Price: $38.47 USD
   - [red / M](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521379389)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S564a2f2d5091452c851fe3fae7be486bu.webp?v=1763099163
     Price: $38.47 USD
   - [black / XXXL](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521412157)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf75db218fa1d4dc4ba5d6a0e04bae5b1Z.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf75db218fa1d4dc4ba5d6a0e04bae5b1Z.webp?v=1763802639
     Price: $38.47 USD
   - [red / S](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521444925)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S564a2f2d5091452c851fe3fae7be486bu.webp?v=1763099163
     Price: $38.47 USD
   - [khaki / XXL](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521477693)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc7c87f5e78934569a307a9936da6a807m.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc7c87f5e78934569a307a9936da6a807m.webp?v=1763802639
     Price: $38.47 USD
   - [khaki / XXXL](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521510461)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc7c87f5e78934569a307a9936da6a807m.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc7c87f5e78934569a307a9936da6a807m.webp?v=1763802639
     Price: $38.47 USD
   - [khaki / L](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521543229)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc7c87f5e78934569a307a9936da6a807m.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc7c87f5e78934569a307a9936da6a807m.webp?v=1763802639
     Price: $38.47 USD
   - [orange / XXL](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521575997)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S99debe08988b49bd846bb05ac680f0acG.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S99debe08988b49bd846bb05ac680f0acG.webp?v=1763802639
     Price: $38.47 USD
   - [khaki / M](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521608765)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc7c87f5e78934569a307a9936da6a807m.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc7c87f5e78934569a307a9936da6a807m.webp?v=1763802639
     Price: $38.47 USD
   - [orange / XXXL](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521641533)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S99debe08988b49bd846bb05ac680f0acG.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S99debe08988b49bd846bb05ac680f0acG.webp?v=1763802639
     Price: $38.47 USD
   - [khaki / S](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521674301)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc7c87f5e78934569a307a9936da6a807m.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc7c87f5e78934569a307a9936da6a807m.webp?v=1763802639
     Price: $38.47 USD
   - [red / XXL](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521707069)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S564a2f2d5091452c851fe3fae7be486bu.webp?v=1763099163
     Price: $38.47 USD
   - [red / XXXL](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521739837)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S564a2f2d5091452c851fe3fae7be486bu.webp?v=1763099163
     Price: $38.47 USD
   - [orange / S](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521772605)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S99debe08988b49bd846bb05ac680f0acG.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S99debe08988b49bd846bb05ac680f0acG.webp?v=1763802639
     Price: $38.47 USD
   - [Red bean powder / XXL](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521805373)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S22543bde9e9441d1a502fbc72c880b81x.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S22543bde9e9441d1a502fbc72c880b81x.webp?v=1763802639
     Price: $38.47 USD
   - [Red bean powder / XXXL](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521838141)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S22543bde9e9441d1a502fbc72c880b81x.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S22543bde9e9441d1a502fbc72c880b81x.webp?v=1763802639
     Price: $38.47 USD
   - [khaki / XL](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521870909)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc7c87f5e78934569a307a9936da6a807m.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc7c87f5e78934569a307a9936da6a807m.webp?v=1763802639
     Price: $38.47 USD
   - [black / S](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521903677)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf75db218fa1d4dc4ba5d6a0e04bae5b1Z.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf75db218fa1d4dc4ba5d6a0e04bae5b1Z.webp?v=1763802639
     Price: $38.47 USD
   - [black / XL](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521936445)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf75db218fa1d4dc4ba5d6a0e04bae5b1Z.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf75db218fa1d4dc4ba5d6a0e04bae5b1Z.webp?v=1763802639
     Price: $38.47 USD
   - [black / L](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717521969213)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf75db218fa1d4dc4ba5d6a0e04bae5b1Z.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf75db218fa1d4dc4ba5d6a0e04bae5b1Z.webp?v=1763802639
     Price: $38.47 USD
   - [black / M](https://attikk-wear.myshopify.com/products/women-summer-midi-bodycon-dress-elegant-club-outfits?variant=42717522001981)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf75db218fa1d4dc4ba5d6a0e04bae5b1Z.webp?v=1763099163
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf75db218fa1d4dc4ba5d6a0e04bae5b1Z.webp?v=1763802639
     Price: $38.47 USD
 - [Sexy Me Splice Bodycon Midi Dress for Young Women](https://attikk-wear.myshopify.com/products/sexy-me-splice-bodycon-midi-dress): Discover the Sexy Me Splice Bodycon Midi Dress with a transparent design and polka dot print. Perfect for young women, it combines style and comfort for any occasion.
-  Updated: 2025-11-15T07:50:02Z
+  Updated: 2025-11-22T09:10:37Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb792bdb93ffd439da1ff97cd39aff228N.webp?v=1763099316
   - [L / Black](https://attikk-wear.myshopify.com/products/sexy-me-splice-bodycon-midi-dress?variant=42717526818877)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac5323c34eef4f0b9a4ac7384f76a8cft.webp?v=1763099316
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac5323c34eef4f0b9a4ac7384f76a8cft.webp?v=1763802637
     Price: $36.99 USD
   - [S / Black](https://attikk-wear.myshopify.com/products/sexy-me-splice-bodycon-midi-dress?variant=42717526851645)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac5323c34eef4f0b9a4ac7384f76a8cft.webp?v=1763099316
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac5323c34eef4f0b9a4ac7384f76a8cft.webp?v=1763802637
     Price: $36.99 USD
   - [M / Black](https://attikk-wear.myshopify.com/products/sexy-me-splice-bodycon-midi-dress?variant=42717526884413)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac5323c34eef4f0b9a4ac7384f76a8cft.webp?v=1763099316
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac5323c34eef4f0b9a4ac7384f76a8cft.webp?v=1763802637
     Price: $36.99 USD
 - [Women Backless Sexy Maxi Dress - Elegant Spring Style](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin): Explore the Women Backless Sexy Maxi Dress. Perfect for spring parties, this satin slip dress combines elegance and sexiness in one chic design.
-  Updated: 2025-11-15T09:07:26Z
+  Updated: 2025-11-22T09:10:38Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
@@ -11484,7 +11411,6 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $47.64 USD
   - [Deep Pink / XS](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717532782653)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S725a302212864d35abbb2bb4d33ec218G.webp?v=1763099615
     Price: $47.64 USD
   - [black / S](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717532815421)
     Availability: Available
@@ -11494,18 +11420,15 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $47.64 USD
   - [green / XS](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717532880957)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb3c417decf084b51a96dc53a1df8faadE.webp?v=1763099615
     Price: $47.64 USD
   - [black / XS](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717532913725)
     Availability: Available
     Price: $47.64 USD
   - [Blue / XS](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717532946493)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc67f1df5b666468bb1c32778c73c496b1.webp?v=1763099614
     Price: $47.64 USD
   - [Dark Brown / XS](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717532979261)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc8c853b2679e4f85b383504664640632S.webp?v=1763099615
     Price: $47.64 USD
   - [Light Yellow / XS](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533012029)
     Availability: Available
@@ -11513,19 +11436,15 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $47.64 USD
   - [PURPLE / XS](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533044797)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2f9f61e7881348b9b8829c7bc0837cc8c.webp?v=1763099615
     Price: $47.64 USD
   - [green / M](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533077565)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb3c417decf084b51a96dc53a1df8faadE.webp?v=1763099615
     Price: $47.64 USD
   - [green / L](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533110333)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb3c417decf084b51a96dc53a1df8faadE.webp?v=1763099615
     Price: $47.64 USD
   - [green / S](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533143101)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb3c417decf084b51a96dc53a1df8faadE.webp?v=1763099615
     Price: $47.64 USD
   - [Light Yellow / M](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533175869)
     Availability: Available
@@ -11540,7 +11459,6 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $47.64 USD
   - [Deep Pink / XXS](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533274173)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S725a302212864d35abbb2bb4d33ec218G.webp?v=1763099615
     Price: $47.64 USD
   - [GRAY / XXS](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533306941)
     Availability: Available
@@ -11551,11 +11469,9 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $47.64 USD
   - [Blue / XXS](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533372477)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc67f1df5b666468bb1c32778c73c496b1.webp?v=1763099614
     Price: $47.64 USD
   - [Blue / M](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533405245)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc67f1df5b666468bb1c32778c73c496b1.webp?v=1763099614
     Price: $47.64 USD
   - [Light Yellow / XXS](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533438013)
     Availability: Available
@@ -11563,23 +11479,18 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $47.64 USD
   - [Blue / L](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533470781)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc67f1df5b666468bb1c32778c73c496b1.webp?v=1763099614
     Price: $47.64 USD
   - [green / XXS](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533503549)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb3c417decf084b51a96dc53a1df8faadE.webp?v=1763099615
     Price: $47.64 USD
   - [Dark Brown / XXS](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533536317)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc8c853b2679e4f85b383504664640632S.webp?v=1763099615
     Price: $47.64 USD
   - [Blue / S](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533569085)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc67f1df5b666468bb1c32778c73c496b1.webp?v=1763099614
     Price: $47.64 USD
   - [PURPLE / XXS](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533601853)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2f9f61e7881348b9b8829c7bc0837cc8c.webp?v=1763099615
     Price: $47.64 USD
   - [GRAY / M](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533634621)
     Availability: Available
@@ -11592,64 +11503,55 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $47.64 USD
   - [Dark Brown / M](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533732925)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc8c853b2679e4f85b383504664640632S.webp?v=1763099615
     Price: $47.64 USD
   - [Dark Brown / L](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533765693)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc8c853b2679e4f85b383504664640632S.webp?v=1763099615
     Price: $47.64 USD
   - [Dark Brown / S](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533798461)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc8c853b2679e4f85b383504664640632S.webp?v=1763099615
     Price: $47.64 USD
   - [PURPLE / M](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533831229)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2f9f61e7881348b9b8829c7bc0837cc8c.webp?v=1763099615
     Price: $47.64 USD
   - [PURPLE / L](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533863997)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2f9f61e7881348b9b8829c7bc0837cc8c.webp?v=1763099615
     Price: $47.64 USD
   - [PURPLE / S](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533896765)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2f9f61e7881348b9b8829c7bc0837cc8c.webp?v=1763099615
     Price: $47.64 USD
   - [Deep Pink / M](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533929533)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S725a302212864d35abbb2bb4d33ec218G.webp?v=1763099615
     Price: $47.64 USD
   - [Deep Pink / L](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533962301)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S725a302212864d35abbb2bb4d33ec218G.webp?v=1763099615
     Price: $47.64 USD
   - [Deep Pink / S](https://attikk-wear.myshopify.com/products/women-backless-sexy-maxi-dress-2025-spring-satin?variant=42717533995069)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S725a302212864d35abbb2bb4d33ec218G.webp?v=1763099615
     Price: $47.64 USD
 - [Leopard Print Backless Dress - Sexy Slim Fit Evening Party Dress | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/summer-backless-leopard-print-evening-dress): Sexy leopard print backless dress with slim fit silhouette. Perfect for summer parties & evening events. Elegant animal print style. Shop now!
-  Updated: 2025-11-15T08:52:34Z
+  Updated: 2025-11-22T21:10:43Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se7bfdb08ced342debd79a2d32e4b2474a.webp?v=1763099933
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05c0b3876165401a9b3953f5e1d9736cb.webp?v=1763802637
   - [Leopard / M](https://attikk-wear.myshopify.com/products/summer-backless-leopard-print-evening-dress?variant=42717535404093)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2da6343874ed4adda6d3ca07b8a78e983.webp?v=1763099934
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2da6343874ed4adda6d3ca07b8a78e983.webp?v=1763802637
     Price: $37.57 USD
   - [Leopard / S](https://attikk-wear.myshopify.com/products/summer-backless-leopard-print-evening-dress?variant=42717535436861)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2da6343874ed4adda6d3ca07b8a78e983.webp?v=1763099934
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2da6343874ed4adda6d3ca07b8a78e983.webp?v=1763802637
     Price: $37.57 USD
   - [Leopard / XL](https://attikk-wear.myshopify.com/products/summer-backless-leopard-print-evening-dress?variant=42717535469629)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2da6343874ed4adda6d3ca07b8a78e983.webp?v=1763099934
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2da6343874ed4adda6d3ca07b8a78e983.webp?v=1763802637
     Price: $37.57 USD
   - [Leopard / L](https://attikk-wear.myshopify.com/products/summer-backless-leopard-print-evening-dress?variant=42717535502397)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2da6343874ed4adda6d3ca07b8a78e983.webp?v=1763099934
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2da6343874ed4adda6d3ca07b8a78e983.webp?v=1763802637
     Price: $37.57 USD
 - [Red Lace Mini Club Bodycon Dress With Spaghetti Straps | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/chic-sexy-sleeveless-spliced-fairy-casual-mini-dress): Chic lace mini party club dress with spaghetti straps and V neck design. Soft polyester with stretch. Perfect for beach vacations, parties & summer outings.
-  Updated: 2025-11-15T08:11:32Z
+  Updated: 2025-11-22T09:10:37Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
@@ -11667,22 +11569,22 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se5b2a127af9849aeb5a938ab8d5cad24V.webp?v=1763148328
     Price: $46.13 USD
 - [Elegant Backless A-Line Mini Formal Party Dress - ATTIKK WEAR](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-dress): Sexy backless mini dress, perfect for parties, proms & nights out. Elegant Formal Party wear style with a flattering V-neck.
-  Updated: 2025-11-15T20:01:53Z
+  Updated: 2025-11-22T09:10:37Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4ac5d78e59884c688191d8cdfb69eebfA.webp?v=1763148513
   - [Black / L](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-dress?variant=42720456114237)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z.webp?v=1763148512
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z.webp?v=1763802637
     Price: $45.43 USD
   - [Black / M](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-dress?variant=42720456147005)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z.webp?v=1763148512
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z.webp?v=1763802637
     Price: $45.43 USD
   - [Black / S](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-dress?variant=42720456179773)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z.webp?v=1763148512
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z.webp?v=1763802637
     Price: $45.43 USD
   - [red / S](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-dress?variant=42720456212541)
     Availability: Available
@@ -11690,31 +11592,31 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $45.43 USD
   - [White / XXL](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-dress?variant=42720456245309)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K.webp?v=1763148512
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K.webp?v=1763802637
     Price: $45.43 USD
   - [White / XL](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-dress?variant=42720456278077)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K.webp?v=1763148512
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K.webp?v=1763802637
     Price: $45.43 USD
   - [White / L](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-dress?variant=42720456310845)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K.webp?v=1763148512
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K.webp?v=1763802637
     Price: $45.43 USD
   - [White / M](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-dress?variant=42720456343613)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K.webp?v=1763148512
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K.webp?v=1763802637
     Price: $45.43 USD
   - [White / S](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-dress?variant=42720456376381)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K.webp?v=1763148512
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K.webp?v=1763802637
     Price: $45.43 USD
   - [Black / XXL](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-dress?variant=42720456409149)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z.webp?v=1763148512
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z.webp?v=1763802637
     Price: $45.43 USD
   - [Black / XL](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-dress?variant=42720456441917)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z.webp?v=1763148512
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z.webp?v=1763802637
     Price: $45.43 USD
   - [red / XXL](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-dress?variant=42720456474685)
     Availability: Available
@@ -11747,45 +11649,41 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4ba8f8d21e8e4dbd98070e226a4ff9a2U.webp?v=1763149039
     Price: $43.52 USD
 - [Sexy Off Shoulder Mesh Mini Party Club Dress - | Attikk Wear](https://attikk-wear.myshopify.com/products/pure-desire-sexy-spicy-girl-mesh-strap-dress): Sexy black mesh strap dress with empire waist & sleeveless design. Ankle-length, flattering silhouette. Polyester. Perfect for parties & nights out!
-  Updated: 2025-11-15T07:52:59Z
+  Updated: 2025-11-22T09:10:37Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S255add0488974ccbb3708ae078db4614q.webp?v=1763149160
   - [XL / Beige](https://attikk-wear.myshopify.com/products/pure-desire-sexy-spicy-girl-mesh-strap-dress?variant=42720469450813)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd245310ac53b40569e24a82d684f1744f.webp?v=1763149161
     Price: $37.99 USD
   - [S / Black](https://attikk-wear.myshopify.com/products/pure-desire-sexy-spicy-girl-mesh-strap-dress?variant=42720469483581)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa3ce30778d1f43eb8ca58ffa7ef24d861.webp?v=1763149160
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa3ce30778d1f43eb8ca58ffa7ef24d861.webp?v=1763802637
     Price: $37.99 USD
   - [M / Black](https://attikk-wear.myshopify.com/products/pure-desire-sexy-spicy-girl-mesh-strap-dress?variant=42720469516349)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa3ce30778d1f43eb8ca58ffa7ef24d861.webp?v=1763149160
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa3ce30778d1f43eb8ca58ffa7ef24d861.webp?v=1763802637
     Price: $37.99 USD
   - [L / Black](https://attikk-wear.myshopify.com/products/pure-desire-sexy-spicy-girl-mesh-strap-dress?variant=42720469549117)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa3ce30778d1f43eb8ca58ffa7ef24d861.webp?v=1763149160
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa3ce30778d1f43eb8ca58ffa7ef24d861.webp?v=1763802637
     Price: $37.99 USD
   - [S / Beige](https://attikk-wear.myshopify.com/products/pure-desire-sexy-spicy-girl-mesh-strap-dress?variant=42720469581885)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd245310ac53b40569e24a82d684f1744f.webp?v=1763149161
     Price: $37.99 USD
   - [M / Beige](https://attikk-wear.myshopify.com/products/pure-desire-sexy-spicy-girl-mesh-strap-dress?variant=42720469614653)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd245310ac53b40569e24a82d684f1744f.webp?v=1763149161
     Price: $37.99 USD
   - [L / Beige](https://attikk-wear.myshopify.com/products/pure-desire-sexy-spicy-girl-mesh-strap-dress?variant=42720469647421)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd245310ac53b40569e24a82d684f1744f.webp?v=1763149161
     Price: $37.99 USD
   - [XL / Black](https://attikk-wear.myshopify.com/products/pure-desire-sexy-spicy-girl-mesh-strap-dress?variant=42720469680189)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa3ce30778d1f43eb8ca58ffa7ef24d861.webp?v=1763149160
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa3ce30778d1f43eb8ca58ffa7ef24d861.webp?v=1763802637
     Price: $37.99 USD
 - [Sexy Backless Mini Party Club Dress| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/new-fashion-sexy-girl-dress-elegant-irregular-slim-korean-mini): Sexy red mini dress with V-neck & backless design. Spaghetti straps, irregular hem, A-line silhouette. Polyester with stretch. Perfect for parties!
-  Updated: 2025-11-15T07:42:26Z
+  Updated: 2025-11-22T09:10:37Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
@@ -11808,40 +11706,37 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $32.45 USD
   - [Black / L](https://attikk-wear.myshopify.com/products/new-fashion-sexy-girl-dress-elegant-irregular-slim-korean-mini?variant=42720472825917)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc3015e0f83174d54a9401360ea9313d9D.webp?v=1763149336
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc3015e0f83174d54a9401360ea9313d9D.webp?v=1763802636
     Price: $32.45 USD
   - [Black / XL](https://attikk-wear.myshopify.com/products/new-fashion-sexy-girl-dress-elegant-irregular-slim-korean-mini?variant=42720472858685)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc3015e0f83174d54a9401360ea9313d9D.webp?v=1763149336
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc3015e0f83174d54a9401360ea9313d9D.webp?v=1763802636
     Price: $32.45 USD
   - [Black / S](https://attikk-wear.myshopify.com/products/new-fashion-sexy-girl-dress-elegant-irregular-slim-korean-mini?variant=42720472891453)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc3015e0f83174d54a9401360ea9313d9D.webp?v=1763149336
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc3015e0f83174d54a9401360ea9313d9D.webp?v=1763802636
     Price: $32.45 USD
   - [Black / M](https://attikk-wear.myshopify.com/products/new-fashion-sexy-girl-dress-elegant-irregular-slim-korean-mini?variant=42720472924221)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc3015e0f83174d54a9401360ea9313d9D.webp?v=1763149336
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc3015e0f83174d54a9401360ea9313d9D.webp?v=1763802636
     Price: $32.45 USD
 - [Sexy Elegant Deep Plunge Party Formal Dress | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/sexy-party-dresses-women): Elegant red party dress with deep collar & hip wrap design. Full sleeves, ankle-length. Cotton-polyester-spandex blend with stretch. Perfect for parties!
-  Updated: 2025-11-15T07:44:42Z
+  Updated: 2025-11-23T00:10:28Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S731ff30187ac4e98ba78c9f2d71f16941.webp?v=1763149469
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Safc39c38d8c541b88ab73891f0282d3eX.webp?v=1763802637
   - [red / M](https://attikk-wear.myshopify.com/products/sexy-party-dresses-women?variant=42720474628157)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S801571662c434404923bb8aa0c382838o.webp?v=1763149469
     Price: $45.23 USD
   - [red / S](https://attikk-wear.myshopify.com/products/sexy-party-dresses-women?variant=42720474660925)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S801571662c434404923bb8aa0c382838o.webp?v=1763149469
     Price: $45.23 USD
   - [red / L](https://attikk-wear.myshopify.com/products/sexy-party-dresses-women?variant=42720474693693)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S801571662c434404923bb8aa0c382838o.webp?v=1763149469
     Price: $45.23 USD
 - [Backless Evening Gown for Weddings & Parties| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/elegant-summer-blue-maxi-dress): Stunning blue off-shoulder backless maxi dress. Perfect for weddings & parties. Cotton-polyester blend with stretch. Empire waist. Shop now!
-  Updated: 2025-11-15T07:46:46Z
+  Updated: 2025-11-22T09:10:36Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
@@ -11876,11 +11771,9 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $67.10 USD
   - [Pink / M](https://attikk-wear.myshopify.com/products/elegant-summer-blue-maxi-dress?variant=42720477970493)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc2a3e5d957764cf8b089f8f31e76b6202.webp?v=1763149597
     Price: $67.10 USD
   - [Pink / L](https://attikk-wear.myshopify.com/products/elegant-summer-blue-maxi-dress?variant=42720478003261)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc2a3e5d957764cf8b089f8f31e76b6202.webp?v=1763149597
     Price: $67.10 USD
   - [Blue / XL](https://attikk-wear.myshopify.com/products/elegant-summer-blue-maxi-dress?variant=42720478036029)
     Availability: Available
@@ -11888,23 +11781,18 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $67.10 USD
   - [Pink / S](https://attikk-wear.myshopify.com/products/elegant-summer-blue-maxi-dress?variant=42720478068797)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc2a3e5d957764cf8b089f8f31e76b6202.webp?v=1763149597
     Price: $67.10 USD
   - [White / M](https://attikk-wear.myshopify.com/products/elegant-summer-blue-maxi-dress?variant=42720478101565)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc3d719421fda4dbb9180501368bc98490.webp?v=1763149597
     Price: $67.10 USD
   - [White / L](https://attikk-wear.myshopify.com/products/elegant-summer-blue-maxi-dress?variant=42720478134333)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc3d719421fda4dbb9180501368bc98490.webp?v=1763149597
     Price: $67.10 USD
   - [Pink / XL](https://attikk-wear.myshopify.com/products/elegant-summer-blue-maxi-dress?variant=42720478167101)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc2a3e5d957764cf8b089f8f31e76b6202.webp?v=1763149597
     Price: $67.10 USD
   - [White / S](https://attikk-wear.myshopify.com/products/elegant-summer-blue-maxi-dress?variant=42720478199869)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc3d719421fda4dbb9180501368bc98490.webp?v=1763149597
     Price: $67.10 USD
   - [Beige / M](https://attikk-wear.myshopify.com/products/elegant-summer-blue-maxi-dress?variant=42720478232637)
     Availability: Not Available
@@ -11916,7 +11804,6 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $67.10 USD
   - [White / XL](https://attikk-wear.myshopify.com/products/elegant-summer-blue-maxi-dress?variant=42720478298173)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc3d719421fda4dbb9180501368bc98490.webp?v=1763149597
     Price: $67.10 USD
   - [Beige / S](https://attikk-wear.myshopify.com/products/elegant-summer-blue-maxi-dress?variant=42720478330941)
     Availability: Not Available
@@ -11927,7 +11814,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7d4a041602a941bea6937e71b08a80c7s.webp?v=1763149598
     Price: $67.10 USD
 - [Elegant One-Shoulder Black Dress for Women](https://attikk-wear.myshopify.com/products/elegant-sexy-black-long-sleeve-dress): Shop our elegant one-shoulder black dress for women. Perfect for parties and evening events, this sexy long sleeve dress offers a flattering fit and stylish design.
-  Updated: 2025-11-18T00:14:07Z
+  Updated: 2025-11-22T09:10:35Z
   Vendor: ATTIK WEAR
   Product Type: Formal Dresses
   Availability: Available
@@ -11945,140 +11832,132 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4ffeea43718d4bf5a087f208249dd166A.webp?v=1763381640
     Price: $56.13 USD
 - [Sexy Sleeveless Lace-up Mini Dress for Women - 2025 Summer](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party): Discover the Sexy Sleeveless Lace-up Mini Dress for Women. Perfect for summer parties and clubwear. Shop now and make a statement!
-  Updated: 2025-11-18T00:18:41Z
+  Updated: 2025-11-22T09:10:36Z
   Vendor: ATTIK WEAR
   Product Type: Club Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S114215adb5f240ecb3b036be04670ca56.webp?v=1763381903
   - [multi / L](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728651784253)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6744b1ef94a04a958176e2a6dee9765d2.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6744b1ef94a04a958176e2a6dee9765d2.webp?v=1763802636
     Price: $43.26 USD
   - [Black / XS](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728651817021)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50aca13e63bd4d93b817cb5c60e8c4cfX.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50aca13e63bd4d93b817cb5c60e8c4cfX.webp?v=1763802636
     Price: $43.26 USD
   - [Black / S](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728651849789)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50aca13e63bd4d93b817cb5c60e8c4cfX.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50aca13e63bd4d93b817cb5c60e8c4cfX.webp?v=1763802636
     Price: $43.26 USD
   - [Black / M](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728651882557)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50aca13e63bd4d93b817cb5c60e8c4cfX.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50aca13e63bd4d93b817cb5c60e8c4cfX.webp?v=1763802636
     Price: $43.26 USD
   - [Black / L](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728651915325)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50aca13e63bd4d93b817cb5c60e8c4cfX.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50aca13e63bd4d93b817cb5c60e8c4cfX.webp?v=1763802636
     Price: $43.26 USD
   - [Brown / XS](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728651948093)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Secc217c6d59747a9824a47fef2ad78e4x.webp?v=1763381904
     Price: $43.26 USD
   - [Brown / S](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728651980861)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Secc217c6d59747a9824a47fef2ad78e4x.webp?v=1763381904
     Price: $43.26 USD
   - [Brown / M](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652013629)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Secc217c6d59747a9824a47fef2ad78e4x.webp?v=1763381904
     Price: $43.26 USD
   - [multi / XS](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652046397)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6744b1ef94a04a958176e2a6dee9765d2.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6744b1ef94a04a958176e2a6dee9765d2.webp?v=1763802636
     Price: $43.26 USD
   - [multi / S](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652079165)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6744b1ef94a04a958176e2a6dee9765d2.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6744b1ef94a04a958176e2a6dee9765d2.webp?v=1763802636
     Price: $43.26 USD
   - [multi / M](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652111933)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6744b1ef94a04a958176e2a6dee9765d2.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6744b1ef94a04a958176e2a6dee9765d2.webp?v=1763802636
     Price: $43.26 USD
   - [claret / L](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652144701)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sacc7caf51b6140b7a7d41b065d3d47832.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sacc7caf51b6140b7a7d41b065d3d47832.webp?v=1763802636
     Price: $43.26 USD
   - [lavender / L](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652177469)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0ee0a7867487499689dce39c39ee2c2ee.webp?v=1763381904
     Price: $43.26 USD
   - [champagne / XS](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652210237)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S517e626d2eda4cae86a9812f727724955.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S517e626d2eda4cae86a9812f727724955.webp?v=1763802636
     Price: $43.26 USD
   - [champagne / S](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652243005)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S517e626d2eda4cae86a9812f727724955.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S517e626d2eda4cae86a9812f727724955.webp?v=1763802636
     Price: $43.26 USD
   - [champagne / M](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652275773)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S517e626d2eda4cae86a9812f727724955.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S517e626d2eda4cae86a9812f727724955.webp?v=1763802636
     Price: $43.26 USD
   - [champagne / L](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652308541)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S517e626d2eda4cae86a9812f727724955.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S517e626d2eda4cae86a9812f727724955.webp?v=1763802636
     Price: $43.26 USD
   - [claret / XS](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652341309)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sacc7caf51b6140b7a7d41b065d3d47832.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sacc7caf51b6140b7a7d41b065d3d47832.webp?v=1763802636
     Price: $43.26 USD
   - [claret / S](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652374077)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sacc7caf51b6140b7a7d41b065d3d47832.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sacc7caf51b6140b7a7d41b065d3d47832.webp?v=1763802636
     Price: $43.26 USD
   - [claret / M](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652406845)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sacc7caf51b6140b7a7d41b065d3d47832.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sacc7caf51b6140b7a7d41b065d3d47832.webp?v=1763802636
     Price: $43.26 USD
   - [Brown / L](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652439613)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Secc217c6d59747a9824a47fef2ad78e4x.webp?v=1763381904
     Price: $43.26 USD
   - [Pink / XS](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652472381)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e8fab8ef29645dfb8a715645c9942f1K.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e8fab8ef29645dfb8a715645c9942f1K.webp?v=1763802636
     Price: $43.26 USD
   - [Pink / S](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652505149)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e8fab8ef29645dfb8a715645c9942f1K.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e8fab8ef29645dfb8a715645c9942f1K.webp?v=1763802636
     Price: $43.26 USD
   - [Pink / M](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652537917)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e8fab8ef29645dfb8a715645c9942f1K.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e8fab8ef29645dfb8a715645c9942f1K.webp?v=1763802636
     Price: $43.26 USD
   - [Pink / L](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652570685)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e8fab8ef29645dfb8a715645c9942f1K.webp?v=1763381904
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e8fab8ef29645dfb8a715645c9942f1K.webp?v=1763802636
     Price: $43.26 USD
   - [lavender / XS](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652603453)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0ee0a7867487499689dce39c39ee2c2ee.webp?v=1763381904
     Price: $43.26 USD
   - [lavender / S](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652636221)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0ee0a7867487499689dce39c39ee2c2ee.webp?v=1763381904
     Price: $43.26 USD
   - [lavender / M](https://attikk-wear.myshopify.com/products/sexy-sleeveless-dress-women-lace-up-mini-party?variant=42728652668989)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0ee0a7867487499689dce39c39ee2c2ee.webp?v=1763381904
     Price: $43.26 USD
 - [Elegant A-line Party Mini Dress for Women](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-mini-dress): Shop our Sexy Club A-line Party Mini Dress featuring a sleeveless backless design and V-neck fit. Perfect for any special occasion!
-  Updated: 2025-11-18T00:21:15Z
+  Updated: 2025-11-22T09:10:36Z
   Vendor: ATTIK WEAR
   Product Type: Formal Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4ac5d78e59884c688191d8cdfb69eebfA_77c8df79-1e6e-4b29-92b7-a3671943f24a.webp?v=1763382065
   - [Black / L](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-mini-dress?variant=42728655093821)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z_29ce4700-0979-4ee9-afd4-629395e30c16.webp?v=1763382065
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z_29ce4700-0979-4ee9-afd4-629395e30c16.webp?v=1763802635
     Price: $45.43 USD
   - [Black / M](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-mini-dress?variant=42728655126589)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z_29ce4700-0979-4ee9-afd4-629395e30c16.webp?v=1763382065
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z_29ce4700-0979-4ee9-afd4-629395e30c16.webp?v=1763802635
     Price: $45.43 USD
   - [Black / S](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-mini-dress?variant=42728655159357)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z_29ce4700-0979-4ee9-afd4-629395e30c16.webp?v=1763382065
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z_29ce4700-0979-4ee9-afd4-629395e30c16.webp?v=1763802635
     Price: $45.43 USD
   - [red / S](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-mini-dress?variant=42728655192125)
     Availability: Available
@@ -12086,31 +11965,31 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $45.43 USD
   - [White / XXL](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-mini-dress?variant=42728655224893)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K_1d7ef015-064b-4fbd-8d26-8760efc0eb7b.webp?v=1763382065
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K_1d7ef015-064b-4fbd-8d26-8760efc0eb7b.webp?v=1763802635
     Price: $45.43 USD
   - [White / XL](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-mini-dress?variant=42728655257661)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K_1d7ef015-064b-4fbd-8d26-8760efc0eb7b.webp?v=1763382065
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K_1d7ef015-064b-4fbd-8d26-8760efc0eb7b.webp?v=1763802635
     Price: $45.43 USD
   - [White / L](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-mini-dress?variant=42728655290429)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K_1d7ef015-064b-4fbd-8d26-8760efc0eb7b.webp?v=1763382065
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K_1d7ef015-064b-4fbd-8d26-8760efc0eb7b.webp?v=1763802635
     Price: $45.43 USD
   - [White / M](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-mini-dress?variant=42728655323197)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K_1d7ef015-064b-4fbd-8d26-8760efc0eb7b.webp?v=1763382065
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K_1d7ef015-064b-4fbd-8d26-8760efc0eb7b.webp?v=1763802635
     Price: $45.43 USD
   - [White / S](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-mini-dress?variant=42728655355965)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K_1d7ef015-064b-4fbd-8d26-8760efc0eb7b.webp?v=1763382065
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4057ff6ccac748689aa47c1f91018b90K_1d7ef015-064b-4fbd-8d26-8760efc0eb7b.webp?v=1763802635
     Price: $45.43 USD
   - [Black / XXL](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-mini-dress?variant=42728655388733)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z_29ce4700-0979-4ee9-afd4-629395e30c16.webp?v=1763382065
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z_29ce4700-0979-4ee9-afd4-629395e30c16.webp?v=1763802635
     Price: $45.43 USD
   - [Black / XL](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-mini-dress?variant=42728655421501)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z_29ce4700-0979-4ee9-afd4-629395e30c16.webp?v=1763382065
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S220ec679ac8f44deb63be3c6e27aaef6z_29ce4700-0979-4ee9-afd4-629395e30c16.webp?v=1763802635
     Price: $45.43 USD
   - [red / XXL](https://attikk-wear.myshopify.com/products/sexy-club-a-line-party-mini-dress?variant=42728655454269)
     Availability: Available
@@ -12129,7 +12008,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4ac5d78e59884c688191d8cdfb69eebfA_77c8df79-1e6e-4b29-92b7-a3671943f24a.webp?v=1763382065
     Price: $45.43 USD
 - [Chic Sexy Sleeveless Spliced Fairy Mini Dress | Summer Sundress](https://attikk-wear.myshopify.com/products/chic-sexy-sleeveless-spliced-fairy-casual-mini-dress-51305): Shop our Chic Sexy Sleeveless Spliced Fairy Mini Dress, a perfect sundress for summer beach vacations. Stylish, comfortable, and versatile!
-  Updated: 2025-11-18T14:46:22Z
+  Updated: 2025-11-22T08:52:14Z
   Vendor: ATTIK WEAR
   Product Type: Club Dresses
   Availability: Available
@@ -12147,90 +12026,86 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se5b2a127af9849aeb5a938ab8d5cad24V_bcefb022-23a2-485b-8a2e-7f1e3f88eb64.webp?v=1763382151
     Price: $46.13 USD
 - [Sexy Backless Dress - Summer Fashion Mini Dress for Women](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion): Shop our Sexy Backless Dress for women, perfect for summer events and casual outings. Enjoy a comfortable fit with stylish design.
-  Updated: 2025-11-18T14:44:28Z
+  Updated: 2025-11-22T08:52:15Z
   Vendor: ATTIK WEAR
   Product Type: Club Dresses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hdefd6a4a5644480e9130619af2d5ced3Q.webp?v=1763382272
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hdefd6a4a5644480e9130619af2d5ced3Q.webp?v=1763801535
   - [Black / S](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728657485885)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3b67fd8a37db4880b7e024341b318d42n.webp?v=1763382272
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3b67fd8a37db4880b7e024341b318d42n.webp?v=1763801535
     Price: $27.33 USD
   - [Black / L](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728657518653)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3b67fd8a37db4880b7e024341b318d42n.webp?v=1763382272
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3b67fd8a37db4880b7e024341b318d42n.webp?v=1763801535
     Price: $27.33 USD
   - [Black / M](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728657551421)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3b67fd8a37db4880b7e024341b318d42n.webp?v=1763382272
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3b67fd8a37db4880b7e024341b318d42n.webp?v=1763801535
     Price: $27.33 USD
   - [Blue / S](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728657584189)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H42f3bffb901d434e825f6027d0b12372w.webp?v=1763382273
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H42f3bffb901d434e825f6027d0b12372w.webp?v=1763801535
     Price: $27.33 USD
   - [Black / XL](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728657616957)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3b67fd8a37db4880b7e024341b318d42n.webp?v=1763382272
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3b67fd8a37db4880b7e024341b318d42n.webp?v=1763801535
     Price: $27.33 USD
   - [Blue / L](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728657649725)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H42f3bffb901d434e825f6027d0b12372w.webp?v=1763382273
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H42f3bffb901d434e825f6027d0b12372w.webp?v=1763801535
     Price: $27.33 USD
   - [Blue / M](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728657682493)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H42f3bffb901d434e825f6027d0b12372w.webp?v=1763382273
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H42f3bffb901d434e825f6027d0b12372w.webp?v=1763801535
     Price: $27.33 USD
   - [Pink / S](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728657715261)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hc937cc110c0846e9bc25108ea04d5221c.webp?v=1763382273
     Price: $27.33 USD
   - [Blue / XL](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728657748029)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H42f3bffb901d434e825f6027d0b12372w.webp?v=1763382273
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H42f3bffb901d434e825f6027d0b12372w.webp?v=1763801535
     Price: $27.33 USD
   - [Pink / L](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728657780797)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hc937cc110c0846e9bc25108ea04d5221c.webp?v=1763382273
     Price: $27.33 USD
   - [Pink / M](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728657813565)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hc937cc110c0846e9bc25108ea04d5221c.webp?v=1763382273
     Price: $27.33 USD
   - [Redd / S](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728657846333)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hd6cd3eef14d541508f299bd0d34c12404.webp?v=1763382272
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hd6cd3eef14d541508f299bd0d34c12404.webp?v=1763801535
     Price: $27.33 USD
   - [Pink / XL](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728657879101)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hc937cc110c0846e9bc25108ea04d5221c.webp?v=1763382273
     Price: $27.33 USD
   - [Redd / L](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728657911869)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hd6cd3eef14d541508f299bd0d34c12404.webp?v=1763382272
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hd6cd3eef14d541508f299bd0d34c12404.webp?v=1763801535
     Price: $27.33 USD
   - [Redd / M](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728657944637)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hd6cd3eef14d541508f299bd0d34c12404.webp?v=1763382272
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hd6cd3eef14d541508f299bd0d34c12404.webp?v=1763801535
     Price: $27.33 USD
   - [White / S](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728657977405)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hc091ad95ba974f3d974d54662dd9c150p.webp?v=1763382272
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hc091ad95ba974f3d974d54662dd9c150p.webp?v=1763801535
     Price: $27.33 USD
   - [Redd / XL](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728658010173)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hd6cd3eef14d541508f299bd0d34c12404.webp?v=1763382272
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hd6cd3eef14d541508f299bd0d34c12404.webp?v=1763801535
     Price: $27.33 USD
   - [White / L](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728658042941)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hc091ad95ba974f3d974d54662dd9c150p.webp?v=1763382272
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hc091ad95ba974f3d974d54662dd9c150p.webp?v=1763801535
     Price: $27.33 USD
   - [White / M](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728658075709)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hc091ad95ba974f3d974d54662dd9c150p.webp?v=1763382272
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hc091ad95ba974f3d974d54662dd9c150p.webp?v=1763801535
     Price: $27.33 USD
   - [White / XL](https://attikk-wear.myshopify.com/products/sexy-backless-dress-summer-fashion?variant=42728658141245)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hc091ad95ba974f3d974d54662dd9c150p.webp?v=1763382272
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hc091ad95ba974f3d974d54662dd9c150p.webp?v=1763801535
     Price: $27.33 USD
 - [Elegant Mesh Strapless Pencil Dress for Women](https://attikk-wear.myshopify.com/products/hotweek-elegant-mesh-deep-strapless-chic-straps-dress): Shop the Hotweek Elegant Mesh Deep Strapless Pencil Dress. Perfect for parties, featuring a chic design and slim fit for a stunning look.
   Updated: 2025-11-18T00:26:20Z
@@ -12247,88 +12122,83 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4ba8f8d21e8e4dbd98070e226a4ff9a2U_ae3909ac-c8a0-489c-9948-80489e57768f.webp?v=1763382375
     Price: $43.52 USD
 - [Timeless Elegance](https://attikk-wear.myshopify.com/products/townlike-lace-slim-bodycon-midi-long-dress-women-2024-autumn-winter-dress-nightclub-sexy-party-dresses-with-lining): SPECIFICATIONS Age: Middle Age Brand Name: Townlike CN: Guangdong Closure Type: Pullover Craft of Weaving: Tatting Decoration: Lace Dresses Length: Knee-Length Elasticity: High Strecth Fabric Type: Lace Fit Type: Slim Gender: Women High-concerned chemical: None Material: Lace Material Composition: synthetic fiber Model Number: TL1855 Neckline: Turtleneck Origin: Mainland China Pattern Type: Solid Place Of Origin: China (mainland) Profile Type: T Release Date: Autumn 2024 Season: Autumn/Winter Silhouette: Sheath Sleeve Length(cm): Full Sleeve Style: regular Style: Sexy & Club Type: regular Waistline: empire main fabric composition: polyester (polyester fiber)
-  Updated: 2025-11-18T14:41:54Z
+  Updated: 2025-11-22T21:02:03Z
   Vendor: ATTIK WEAR
   Product Type: Formal Dresses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05e201218b244f56aae095c2feedcc1dp.webp?v=1763382672
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0427ba4c975040d8bee416d122bb886au.webp?v=1763801534
   - [White / S](https://attikk-wear.myshopify.com/products/townlike-lace-slim-bodycon-midi-long-dress-women-2024-autumn-winter-dress-nightclub-sexy-party-dresses-with-lining?variant=42728660238397)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05e201218b244f56aae095c2feedcc1dp.webp?v=1763382672
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05e201218b244f56aae095c2feedcc1dp.webp?v=1763801534
     Price: $48.79 USD
   - [White / L](https://attikk-wear.myshopify.com/products/townlike-lace-slim-bodycon-midi-long-dress-women-2024-autumn-winter-dress-nightclub-sexy-party-dresses-with-lining?variant=42728660271165)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05e201218b244f56aae095c2feedcc1dp.webp?v=1763382672
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05e201218b244f56aae095c2feedcc1dp.webp?v=1763801534
     Price: $48.79 USD
   - [White / M](https://attikk-wear.myshopify.com/products/townlike-lace-slim-bodycon-midi-long-dress-women-2024-autumn-winter-dress-nightclub-sexy-party-dresses-with-lining?variant=42728660303933)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05e201218b244f56aae095c2feedcc1dp.webp?v=1763382672
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S05e201218b244f56aae095c2feedcc1dp.webp?v=1763801534
     Price: $48.79 USD
 - [Sexy Skinny Mini Dress for Women - Autumn Winter Fashion 2024](https://attikk-wear.myshopify.com/products/sexy-skinny-mini-dress-women-2024-autumn-winter-fashion): Shop our Sexy Skinny Mini Dress for Women, featuring a deep V-neck and chic print, perfect for autumn and winter parties. Get yours today!
-  Updated: 2025-11-18T14:39:28Z
+  Updated: 2025-11-22T08:52:15Z
   Vendor: ATTIK WEAR
   Product Type: Club Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S72db53f0a0ce46b7afcbe22f631ecb4bO.webp?v=1763382766
   - [Gold / L](https://attikk-wear.myshopify.com/products/sexy-skinny-mini-dress-women-2024-autumn-winter-fashion?variant=42728660566077)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5dbc3ba2ee804394929758f8c16358af0.webp?v=1763382766
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5dbc3ba2ee804394929758f8c16358af0.webp?v=1763801535
     Price: $36.74 USD
   - [Gold / XL](https://attikk-wear.myshopify.com/products/sexy-skinny-mini-dress-women-2024-autumn-winter-fashion?variant=42728660598845)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5dbc3ba2ee804394929758f8c16358af0.webp?v=1763382766
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5dbc3ba2ee804394929758f8c16358af0.webp?v=1763801535
     Price: $36.74 USD
   - [Gold / XXL](https://attikk-wear.myshopify.com/products/sexy-skinny-mini-dress-women-2024-autumn-winter-fashion?variant=42728660631613)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5dbc3ba2ee804394929758f8c16358af0.webp?v=1763382766
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5dbc3ba2ee804394929758f8c16358af0.webp?v=1763801535
     Price: $36.74 USD
   - [Gold / S](https://attikk-wear.myshopify.com/products/sexy-skinny-mini-dress-women-2024-autumn-winter-fashion?variant=42728660664381)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5dbc3ba2ee804394929758f8c16358af0.webp?v=1763382766
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5dbc3ba2ee804394929758f8c16358af0.webp?v=1763801535
     Price: $36.74 USD
   - [Gold / M](https://attikk-wear.myshopify.com/products/sexy-skinny-mini-dress-women-2024-autumn-winter-fashion?variant=42728660697149)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5dbc3ba2ee804394929758f8c16358af0.webp?v=1763382766
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5dbc3ba2ee804394929758f8c16358af0.webp?v=1763801535
     Price: $36.74 USD
   - [White / XXL](https://attikk-wear.myshopify.com/products/sexy-skinny-mini-dress-women-2024-autumn-winter-fashion?variant=42728660729917)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9e4e0ffdbf8b49a49c25c4900b3a6aebx.webp?v=1763382766
     Price: $36.74 USD
   - [White / S](https://attikk-wear.myshopify.com/products/sexy-skinny-mini-dress-women-2024-autumn-winter-fashion?variant=42728660762685)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9e4e0ffdbf8b49a49c25c4900b3a6aebx.webp?v=1763382766
     Price: $36.74 USD
   - [White / M](https://attikk-wear.myshopify.com/products/sexy-skinny-mini-dress-women-2024-autumn-winter-fashion?variant=42728660795453)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9e4e0ffdbf8b49a49c25c4900b3a6aebx.webp?v=1763382766
     Price: $36.74 USD
   - [White / L](https://attikk-wear.myshopify.com/products/sexy-skinny-mini-dress-women-2024-autumn-winter-fashion?variant=42728660828221)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9e4e0ffdbf8b49a49c25c4900b3a6aebx.webp?v=1763382766
     Price: $36.74 USD
   - [White / XL](https://attikk-wear.myshopify.com/products/sexy-skinny-mini-dress-women-2024-autumn-winter-fashion?variant=42728660860989)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9e4e0ffdbf8b49a49c25c4900b3a6aebx.webp?v=1763382766
     Price: $36.74 USD
   - [Redd / XXL](https://attikk-wear.myshopify.com/products/sexy-skinny-mini-dress-women-2024-autumn-winter-fashion?variant=42728660893757)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S84aabe6f02564b1ebea843a2f5710b52Z.webp?v=1763382766
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S84aabe6f02564b1ebea843a2f5710b52Z.webp?v=1763801535
     Price: $36.74 USD
   - [Redd / S](https://attikk-wear.myshopify.com/products/sexy-skinny-mini-dress-women-2024-autumn-winter-fashion?variant=42728660926525)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S84aabe6f02564b1ebea843a2f5710b52Z.webp?v=1763382766
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S84aabe6f02564b1ebea843a2f5710b52Z.webp?v=1763801535
     Price: $36.74 USD
   - [Redd / M](https://attikk-wear.myshopify.com/products/sexy-skinny-mini-dress-women-2024-autumn-winter-fashion?variant=42728660959293)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S84aabe6f02564b1ebea843a2f5710b52Z.webp?v=1763382766
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S84aabe6f02564b1ebea843a2f5710b52Z.webp?v=1763801535
     Price: $36.74 USD
   - [Redd / L](https://attikk-wear.myshopify.com/products/sexy-skinny-mini-dress-women-2024-autumn-winter-fashion?variant=42728660992061)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S84aabe6f02564b1ebea843a2f5710b52Z.webp?v=1763382766
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S84aabe6f02564b1ebea843a2f5710b52Z.webp?v=1763801535
     Price: $36.74 USD
   - [Redd / XL](https://attikk-wear.myshopify.com/products/sexy-skinny-mini-dress-women-2024-autumn-winter-fashion?variant=42728661024829)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S84aabe6f02564b1ebea843a2f5710b52Z.webp?v=1763382766
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S84aabe6f02564b1ebea843a2f5710b52Z.webp?v=1763801535
     Price: $36.74 USD
 - [Hollow Out Backless Slim Fit Sexy Dress](https://attikk-wear.myshopify.com/products/hollow-out-backless-slim-fit-sexy-patchwork-short-skirt-dress-85902): Shop the Hollow Out Backless Slim Fit Sexy Patchwork Short Skirt Dress for a chic bohemian look. Perfect for spring and summer outings.
   Updated: 2025-11-18T03:13:10Z
@@ -12357,26 +12227,26 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8499aaa7dcb846389f54ce80d953f0a2B_4cdaac5c-5696-408e-8b6a-3f3c643837e0.webp?v=1763392200
     Price: $36.46 USD
 - [Sexy Spaghetti Strap Party Dress - Deep V-Neck Backless](https://attikk-wear.myshopify.com/products/sexy-fashion-spaghetti-strap-party-dress): Shop our Sexy Fashion Spaghetti Strap Party Dress featuring a deep V-neck and backless design. Perfect for parties and special events, this stunning dress is a must-have for your wardrobe.
-  Updated: 2025-11-18T06:01:00Z
+  Updated: 2025-11-22T20:52:21Z
   Vendor: ATTIK WEAR
   Product Type: Formal Dresses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc88ef545406b4189a56eb9a4b93f13abz.webp?v=1763402455
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdb4026a8dbb54693aad6680002432d87r.webp?v=1763801533
   - [Yellow / S](https://attikk-wear.myshopify.com/products/sexy-fashion-spaghetti-strap-party-dress?variant=42729028091965)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc88ef545406b4189a56eb9a4b93f13abz.webp?v=1763402455
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc88ef545406b4189a56eb9a4b93f13abz.webp?v=1763801533
     Price: $65.56 USD
   - [Yellow / M](https://attikk-wear.myshopify.com/products/sexy-fashion-spaghetti-strap-party-dress?variant=42729028124733)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc88ef545406b4189a56eb9a4b93f13abz.webp?v=1763402455
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc88ef545406b4189a56eb9a4b93f13abz.webp?v=1763801533
     Price: $65.56 USD
   - [Yellow / L](https://attikk-wear.myshopify.com/products/sexy-fashion-spaghetti-strap-party-dress?variant=42729028157501)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc88ef545406b4189a56eb9a4b93f13abz.webp?v=1763402455
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc88ef545406b4189a56eb9a4b93f13abz.webp?v=1763801533
     Price: $65.56 USD
   - [Yellow / XL](https://attikk-wear.myshopify.com/products/sexy-fashion-spaghetti-strap-party-dress?variant=42729028190269)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc88ef545406b4189a56eb9a4b93f13abz.webp?v=1763402455
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc88ef545406b4189a56eb9a4b93f13abz.webp?v=1763801533
     Price: $65.56 USD
 - [Elegant Explosion Sequined Dress | V-neck Pink Gown](https://attikk-wear.myshopify.com/products/2021-elegant-explosion-sequined-dress): Shop the 2021 Elegant Explosion Sequined Dress. This sexy V-neck, high waist, floor-length gown is perfect for parties and banquets.
   Updated: 2025-11-18T06:04:01Z
@@ -12405,34 +12275,34 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd2b5da93be1246ee8fa241ea0c996b69Q.webp?v=1763402631
     Price: $81.35 USD
 - [Buy Sexy Backless Bodycon Mini Dress - Halter Summer Outfit](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress): Shop our sexy bodycon mini dress with backless design and spaghetti straps, perfect for weddings, parties, and summer outings.
-  Updated: 2025-11-18T06:06:53Z
+  Updated: 2025-11-22T08:52:14Z
   Vendor: ATTIK WEAR
   Product Type: Backless Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H488be56b121d4133a539ccf19c0890aaI.webp?v=1763402802
   - [Redd / M](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729029435453)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/He15f356aa5af4fcda160122aadd65ebdV.webp?v=1763402802
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/He15f356aa5af4fcda160122aadd65ebdV.webp?v=1763801534
     Price: $24.18 USD
   - [Redd / S](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729029468221)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/He15f356aa5af4fcda160122aadd65ebdV.webp?v=1763402802
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/He15f356aa5af4fcda160122aadd65ebdV.webp?v=1763801534
     Price: $24.18 USD
   - [rosey pink / XL](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729029500989)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H41446392d1e045fb8c07184bcbf27d3ed.webp?v=1763402802
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H41446392d1e045fb8c07184bcbf27d3ed.webp?v=1763801534
     Price: $24.18 USD
   - [rosey pink / L](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729029533757)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H41446392d1e045fb8c07184bcbf27d3ed.webp?v=1763402802
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H41446392d1e045fb8c07184bcbf27d3ed.webp?v=1763801534
     Price: $24.18 USD
   - [rosey pink / M](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729029566525)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H41446392d1e045fb8c07184bcbf27d3ed.webp?v=1763402802
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H41446392d1e045fb8c07184bcbf27d3ed.webp?v=1763801534
     Price: $24.18 USD
   - [rosey pink / S](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729029599293)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H41446392d1e045fb8c07184bcbf27d3ed.webp?v=1763402802
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H41446392d1e045fb8c07184bcbf27d3ed.webp?v=1763801534
     Price: $24.18 USD
   - [bright black / XL](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729029632061)
     Availability: Available
@@ -12444,43 +12314,43 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $24.18 USD
   - [Multicolor / M](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729029697597)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H56b88b1f66a54080bdd14eae43bdc557O.webp?v=1763402802
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H56b88b1f66a54080bdd14eae43bdc557O.webp?v=1763801534
     Price: $24.18 USD
   - [Multicolor / S](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729029730365)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H56b88b1f66a54080bdd14eae43bdc557O.webp?v=1763402802
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H56b88b1f66a54080bdd14eae43bdc557O.webp?v=1763801534
     Price: $24.18 USD
   - [bright blue / XL](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729029763133)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H8dae0870fcb64d1ab9b570f7599f0631b.webp?v=1763402802
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H8dae0870fcb64d1ab9b570f7599f0631b.webp?v=1763801534
     Price: $24.18 USD
   - [bright blue / L](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729029795901)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H8dae0870fcb64d1ab9b570f7599f0631b.webp?v=1763402802
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H8dae0870fcb64d1ab9b570f7599f0631b.webp?v=1763801534
     Price: $24.18 USD
   - [bright blue / M](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729029828669)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H8dae0870fcb64d1ab9b570f7599f0631b.webp?v=1763402802
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H8dae0870fcb64d1ab9b570f7599f0631b.webp?v=1763801534
     Price: $24.18 USD
   - [bright blue / S](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729029861437)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H8dae0870fcb64d1ab9b570f7599f0631b.webp?v=1763402802
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H8dae0870fcb64d1ab9b570f7599f0631b.webp?v=1763801534
     Price: $24.18 USD
   - [Redd / XL](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729029894205)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/He15f356aa5af4fcda160122aadd65ebdV.webp?v=1763402802
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/He15f356aa5af4fcda160122aadd65ebdV.webp?v=1763801534
     Price: $24.18 USD
   - [Redd / L](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729029926973)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/He15f356aa5af4fcda160122aadd65ebdV.webp?v=1763402802
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/He15f356aa5af4fcda160122aadd65ebdV.webp?v=1763801534
     Price: $24.18 USD
   - [Multicolor / XL](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729029959741)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H56b88b1f66a54080bdd14eae43bdc557O.webp?v=1763402802
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H56b88b1f66a54080bdd14eae43bdc557O.webp?v=1763801534
     Price: $24.18 USD
   - [Multicolor / L](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729029992509)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H56b88b1f66a54080bdd14eae43bdc557O.webp?v=1763402802
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H56b88b1f66a54080bdd14eae43bdc557O.webp?v=1763801534
     Price: $24.18 USD
   - [bright black / M](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729030025277)
     Availability: Available
@@ -12492,114 +12362,107 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $24.18 USD
   - [White / XL](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729030090813)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/He58d30c385d34d779fea1f060e02fda3P.webp?v=1763402801
     Price: $24.18 USD
   - [White / L](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729030123581)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/He58d30c385d34d779fea1f060e02fda3P.webp?v=1763402801
     Price: $24.18 USD
   - [White / M](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729030156349)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/He58d30c385d34d779fea1f060e02fda3P.webp?v=1763402801
     Price: $24.18 USD
   - [White / S](https://attikk-wear.myshopify.com/products/sexy-bodycon-wedding-party-dress-backless-spaghetti-straps-clubwear-mini-dress?variant=42729030189117)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/He58d30c385d34d779fea1f060e02fda3P.webp?v=1763402801
     Price: $24.18 USD
 - [Sexy Bodycon Mini Dress with Rhinestone Decor | 2025 Collection](https://attikk-wear.myshopify.com/products/sexy-bodycon-dresses-women-2025-rhinestone-party-dress): Shop our 2025 Sexy Bodycon Mini Dress, featuring stunning rhinestone decor and a flattering fit. Perfect for parties and clubwear!
-  Updated: 2025-11-18T06:09:15Z
+  Updated: 2025-11-22T08:52:13Z
   Vendor: ATTIK WEAR
   Product Type: Club Dresses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S25b3e34aa9e2457db9ab0f383b5a96dcZ.webp?v=1763402942
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S25b3e34aa9e2457db9ab0f383b5a96dcZ.webp?v=1763801533
   - [bright black / L](https://attikk-wear.myshopify.com/products/sexy-bodycon-dresses-women-2025-rhinestone-party-dress?variant=42729034121277)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa6d8a1d328e84bd088a506a30eae497a5.webp?v=1763402942
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa6d8a1d328e84bd088a506a30eae497a5.webp?v=1763801533
     Price: $37.89 USD
   - [bright black / S](https://attikk-wear.myshopify.com/products/sexy-bodycon-dresses-women-2025-rhinestone-party-dress?variant=42729034154045)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa6d8a1d328e84bd088a506a30eae497a5.webp?v=1763402942
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa6d8a1d328e84bd088a506a30eae497a5.webp?v=1763801533
     Price: $37.89 USD
   - [Striped / XL](https://attikk-wear.myshopify.com/products/sexy-bodycon-dresses-women-2025-rhinestone-party-dress?variant=42729034186813)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0f52423ef902450fa663b7dd763e6b23L.webp?v=1763402942
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0f52423ef902450fa663b7dd763e6b23L.webp?v=1763801533
     Price: $37.89 USD
   - [bright black / XL](https://attikk-wear.myshopify.com/products/sexy-bodycon-dresses-women-2025-rhinestone-party-dress?variant=42729034219581)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa6d8a1d328e84bd088a506a30eae497a5.webp?v=1763402942
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa6d8a1d328e84bd088a506a30eae497a5.webp?v=1763801533
     Price: $37.89 USD
   - [bright black / M](https://attikk-wear.myshopify.com/products/sexy-bodycon-dresses-women-2025-rhinestone-party-dress?variant=42729034252349)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa6d8a1d328e84bd088a506a30eae497a5.webp?v=1763402942
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa6d8a1d328e84bd088a506a30eae497a5.webp?v=1763801533
     Price: $37.89 USD
   - [Striped / L](https://attikk-wear.myshopify.com/products/sexy-bodycon-dresses-women-2025-rhinestone-party-dress?variant=42729034285117)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0f52423ef902450fa663b7dd763e6b23L.webp?v=1763402942
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0f52423ef902450fa663b7dd763e6b23L.webp?v=1763801533
     Price: $37.89 USD
   - [Striped / M](https://attikk-wear.myshopify.com/products/sexy-bodycon-dresses-women-2025-rhinestone-party-dress?variant=42729034317885)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0f52423ef902450fa663b7dd763e6b23L.webp?v=1763402942
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0f52423ef902450fa663b7dd763e6b23L.webp?v=1763801533
     Price: $37.89 USD
   - [Striped / S](https://attikk-wear.myshopify.com/products/sexy-bodycon-dresses-women-2025-rhinestone-party-dress?variant=42729034350653)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0f52423ef902450fa663b7dd763e6b23L.webp?v=1763402942
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0f52423ef902450fa663b7dd763e6b23L.webp?v=1763801533
     Price: $37.89 USD
 - [Elegant Sleeveless Backless Halter Party Dress for Women](https://attikk-wear.myshopify.com/products/ladies-summer-party-dress-backless-halter): Shop our elegant sleeveless backless halter dress for women. Perfect for summer parties, birthdays, and club nights. Available in multiple sizes.
-  Updated: 2025-11-18T06:16:45Z
+  Updated: 2025-11-22T20:56:02Z
   Vendor: ATTIK WEAR
   Product Type: Formal Dresses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S183395c2d1464299bd21561b743b1ce3g.webp?v=1763403204
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se1e8b01978be4af68cec6f8efedeea848.webp?v=1763801534
   - [Yellow Green / L](https://attikk-wear.myshopify.com/products/ladies-summer-party-dress-backless-halter?variant=42729041723453)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S41ac39d61ce24ccd8542a6c71c9960f6a.webp?v=1763403204
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S41ac39d61ce24ccd8542a6c71c9960f6a.webp?v=1763801534
     Price: $53.56 USD
   - [Yellow Green / M](https://attikk-wear.myshopify.com/products/ladies-summer-party-dress-backless-halter?variant=42729041756221)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S41ac39d61ce24ccd8542a6c71c9960f6a.webp?v=1763403204
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S41ac39d61ce24ccd8542a6c71c9960f6a.webp?v=1763801534
     Price: $53.56 USD
   - [Yellow Green / S](https://attikk-wear.myshopify.com/products/ladies-summer-party-dress-backless-halter?variant=42729041788989)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S41ac39d61ce24ccd8542a6c71c9960f6a.webp?v=1763403204
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S41ac39d61ce24ccd8542a6c71c9960f6a.webp?v=1763801534
     Price: $53.56 USD
   - [WHITE / L](https://attikk-wear.myshopify.com/products/ladies-summer-party-dress-backless-halter?variant=42729041821757)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd0c4f5e42cbb4943ae6f4eb59f5ca816K.webp?v=1763403204
     Price: $53.56 USD
   - [WHITE / M](https://attikk-wear.myshopify.com/products/ladies-summer-party-dress-backless-halter?variant=42729041854525)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd0c4f5e42cbb4943ae6f4eb59f5ca816K.webp?v=1763403204
     Price: $53.56 USD
   - [WHITE / S](https://attikk-wear.myshopify.com/products/ladies-summer-party-dress-backless-halter?variant=42729041887293)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd0c4f5e42cbb4943ae6f4eb59f5ca816K.webp?v=1763403204
     Price: $53.56 USD
   - [black / L](https://attikk-wear.myshopify.com/products/ladies-summer-party-dress-backless-halter?variant=42729041920061)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se1e8b01978be4af68cec6f8efedeea848.webp?v=1763403204
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se1e8b01978be4af68cec6f8efedeea848.webp?v=1763801534
     Price: $53.56 USD
   - [black / M](https://attikk-wear.myshopify.com/products/ladies-summer-party-dress-backless-halter?variant=42729041952829)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se1e8b01978be4af68cec6f8efedeea848.webp?v=1763403204
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se1e8b01978be4af68cec6f8efedeea848.webp?v=1763801534
     Price: $53.56 USD
   - [black / S](https://attikk-wear.myshopify.com/products/ladies-summer-party-dress-backless-halter?variant=42729041985597)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se1e8b01978be4af68cec6f8efedeea848.webp?v=1763403204
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se1e8b01978be4af68cec6f8efedeea848.webp?v=1763801534
     Price: $53.56 USD
   - [Burgundy / L](https://attikk-wear.myshopify.com/products/ladies-summer-party-dress-backless-halter?variant=42729042018365)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S61af48a96dea43eb9bd2104812db0f53R.webp?v=1763403204
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S61af48a96dea43eb9bd2104812db0f53R.webp?v=1763801534
     Price: $53.56 USD
   - [Burgundy / M](https://attikk-wear.myshopify.com/products/ladies-summer-party-dress-backless-halter?variant=42729042051133)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S61af48a96dea43eb9bd2104812db0f53R.webp?v=1763403204
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S61af48a96dea43eb9bd2104812db0f53R.webp?v=1763801534
     Price: $53.56 USD
   - [Burgundy / S](https://attikk-wear.myshopify.com/products/ladies-summer-party-dress-backless-halter?variant=42729042083901)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S61af48a96dea43eb9bd2104812db0f53R.webp?v=1763403204
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S61af48a96dea43eb9bd2104812db0f53R.webp?v=1763801534
     Price: $53.56 USD
 - [Sweet Women’s Party Dress - Knee Length Strapless Maxi](https://attikk-wear.myshopify.com/products/sweet-womens-party-dress-knee-length-strapless-maxi): Shop the Sweet Women's Party Dress, a knee-length strapless maxi with spaghetti straps. Perfect for parties, weddings, and casual outings. Get yours today!
-  Updated: 2025-11-18T06:24:34Z
+  Updated: 2025-11-22T08:52:13Z
   Vendor: ATTIK WEAR
   Product Type: Casual Dresses
   Availability: Available
@@ -12666,43 +12529,38 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $47.96 USD
   - [Black / XXL](https://attikk-wear.myshopify.com/products/sweet-womens-party-dress-knee-length-strapless-maxi?variant=42729046081597)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S40e231af2df947f59f3149b5cc55b357W.webp?v=1763403308
     Price: $47.96 USD
   - [Black / XL](https://attikk-wear.myshopify.com/products/sweet-womens-party-dress-knee-length-strapless-maxi?variant=42729046114365)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S40e231af2df947f59f3149b5cc55b357W.webp?v=1763403308
     Price: $47.96 USD
   - [Black / S](https://attikk-wear.myshopify.com/products/sweet-womens-party-dress-knee-length-strapless-maxi?variant=42729046147133)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S40e231af2df947f59f3149b5cc55b357W.webp?v=1763403308
     Price: $47.96 USD
   - [Black / L](https://attikk-wear.myshopify.com/products/sweet-womens-party-dress-knee-length-strapless-maxi?variant=42729046179901)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S40e231af2df947f59f3149b5cc55b357W.webp?v=1763403308
     Price: $47.96 USD
   - [Black / M](https://attikk-wear.myshopify.com/products/sweet-womens-party-dress-knee-length-strapless-maxi?variant=42729046212669)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S40e231af2df947f59f3149b5cc55b357W.webp?v=1763403308
     Price: $47.96 USD
 - [Women's Sexy One Shoulder Cutout Long Dress](https://attikk-wear.myshopify.com/products/womens-long-dresses-sexy-one-shoulder-cutout-evening-dress): Discover our Women's Sexy One Shoulder Cutout Long Dress. Perfect for parties and evening events, featuring a bodycon fit and chic design.
-  Updated: 2025-11-18T06:20:11Z
+  Updated: 2025-11-23T08:39:03Z
   Vendor: ATTIK WEAR
   Product Type: Club Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdbb8bd3e1d6240dc93d76bc4224c8091T.webp?v=1763403428
-  - [bright red / XL](https://attikk-wear.myshopify.com/products/womens-long-dresses-sexy-one-shoulder-cutout-evening-dress?variant=42729056895037)
+  - [bright red 7 cm / XL](https://attikk-wear.myshopify.com/products/womens-long-dresses-sexy-one-shoulder-cutout-evening-dress?variant=42729056895037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfe2fd90839b94995bf0116e4c8a30e3cm.webp?v=1763403428
     Price: $44.24 USD
-  - [bright red / L](https://attikk-wear.myshopify.com/products/womens-long-dresses-sexy-one-shoulder-cutout-evening-dress?variant=42729056927805)
+  - [bright red 7 cm / L](https://attikk-wear.myshopify.com/products/womens-long-dresses-sexy-one-shoulder-cutout-evening-dress?variant=42729056927805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfe2fd90839b94995bf0116e4c8a30e3cm.webp?v=1763403428
     Price: $44.24 USD
-  - [bright red / M](https://attikk-wear.myshopify.com/products/womens-long-dresses-sexy-one-shoulder-cutout-evening-dress?variant=42729056960573)
+  - [bright red 7 cm / M](https://attikk-wear.myshopify.com/products/womens-long-dresses-sexy-one-shoulder-cutout-evening-dress?variant=42729056960573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfe2fd90839b94995bf0116e4c8a30e3cm.webp?v=1763403428
     Price: $44.24 USD
-  - [bright red / S](https://attikk-wear.myshopify.com/products/womens-long-dresses-sexy-one-shoulder-cutout-evening-dress?variant=42729056993341)
+  - [bright red 7 cm / S](https://attikk-wear.myshopify.com/products/womens-long-dresses-sexy-one-shoulder-cutout-evening-dress?variant=42729056993341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfe2fd90839b94995bf0116e4c8a30e3cm.webp?v=1763403428
     Price: $44.24 USD
@@ -12723,149 +12581,3913 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdbb8bd3e1d6240dc93d76bc4224c8091T.webp?v=1763403428
     Price: $44.24 USD
 - [2025 Fall Women's Evening Dresses with Deep Cutout](https://attikk-wear.myshopify.com/products/womens-evening-dresses-fall-2025): Discover the exquisite 2025 Fall Women's Evening Dress featuring a stylish crew neck and a deep chest cutout. Perfect for autumn occasions!
-  Updated: 2025-11-18T06:18:55Z
+  Updated: 2025-11-22T21:48:02Z
   Vendor: ATTIK WEAR
   Product Type: Formal Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd54dfdd021704728988d68f0946eafbaq.webp?v=1763403529
   - [Dark Brown / M](https://attikk-wear.myshopify.com/products/womens-evening-dresses-fall-2025?variant=42729058107453)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd27d9940ed9e455c879a538052f57609L.webp?v=1763403528
     Price: $56.72 USD
   - [Dark Brown / L](https://attikk-wear.myshopify.com/products/womens-evening-dresses-fall-2025?variant=42729058140221)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd27d9940ed9e455c879a538052f57609L.webp?v=1763403528
     Price: $56.72 USD
   - [Dark Brown / XL](https://attikk-wear.myshopify.com/products/womens-evening-dresses-fall-2025?variant=42729058172989)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd27d9940ed9e455c879a538052f57609L.webp?v=1763403528
     Price: $56.72 USD
 - [Kliou K22MD134 Deep V Neck Bodycon Dress - Perfect Evening Style](https://attikk-wear.myshopify.com/products/kliou-k22md134-deep-v-neck-bodycon-slim-dress): Shop the Kliou K22MD134 Deep V Neck Bodycon Slim Dress for a stylish, sequined look ideal for parties and nightclubs. Available in multiple colors and sizes.
-  Updated: 2025-11-18T06:29:47Z
+  Updated: 2025-11-22T08:52:13Z
   Vendor: ATTIKK WEAR
   Product Type: Formal Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H4e7012dcdc0543ce912ea958435960392.webp?v=1763403595
   - [Black / S](https://attikk-wear.myshopify.com/products/kliou-k22md134-deep-v-neck-bodycon-slim-dress?variant=42729060827197)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H1acebc4ab49a41039879f59f59085391Z.webp?v=1763403596
     Price: $48.99 USD
   - [Black / M](https://attikk-wear.myshopify.com/products/kliou-k22md134-deep-v-neck-bodycon-slim-dress?variant=42729060859965)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H1acebc4ab49a41039879f59f59085391Z.webp?v=1763403596
     Price: $48.99 USD
   - [Black / L](https://attikk-wear.myshopify.com/products/kliou-k22md134-deep-v-neck-bodycon-slim-dress?variant=42729060892733)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H1acebc4ab49a41039879f59f59085391Z.webp?v=1763403596
     Price: $48.99 USD
   - [Purple / S](https://attikk-wear.myshopify.com/products/kliou-k22md134-deep-v-neck-bodycon-slim-dress?variant=42729060925501)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Ha5932260f9ae4f18bd4b8eadefc96bd28.webp?v=1763403596
     Price: $48.99 USD
   - [Purple / M](https://attikk-wear.myshopify.com/products/kliou-k22md134-deep-v-neck-bodycon-slim-dress?variant=42729060958269)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Ha5932260f9ae4f18bd4b8eadefc96bd28.webp?v=1763403596
     Price: $48.99 USD
   - [Purple / L](https://attikk-wear.myshopify.com/products/kliou-k22md134-deep-v-neck-bodycon-slim-dress?variant=42729060991037)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Ha5932260f9ae4f18bd4b8eadefc96bd28.webp?v=1763403596
     Price: $48.99 USD
   - [red / S](https://attikk-wear.myshopify.com/products/kliou-k22md134-deep-v-neck-bodycon-slim-dress?variant=42729061023805)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H45c96bb964094ab7b7d7b90e068b8487T.webp?v=1763403596
     Price: $48.99 USD
   - [red / M](https://attikk-wear.myshopify.com/products/kliou-k22md134-deep-v-neck-bodycon-slim-dress?variant=42729061056573)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H45c96bb964094ab7b7d7b90e068b8487T.webp?v=1763403596
     Price: $48.99 USD
   - [red / L](https://attikk-wear.myshopify.com/products/kliou-k22md134-deep-v-neck-bodycon-slim-dress?variant=42729061089341)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H45c96bb964094ab7b7d7b90e068b8487T.webp?v=1763403596
     Price: $48.99 USD
-- [Plus Size 34-46 Women Boots Sexy Thigh High Boots Stretch PU Leather Over-the-knee Heeled Boots Black Red Autumn Winter Shoes](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes): SPECIFICATIONSBoot Height: Over-the-KneeBoot Type: Modern BootsBrand Name: GiyuCN: ZhejiangClosure Type: ZIPDepartment Name: AdultFashion Element: ZipperFit: True to SizeHeel Height: Super High (8CM - Up)Heel Type: Thin HeelsInsole Material: Latex FoamItem Type: BOOTSLining Material: LycraModel Number: women bootsOrigin: Mainland ChinaOutsole Material: RubberPattern Type: SolidSeason: WinterShaft Material: PUStyle: SexyToe Shape: Pointed ToeUpper Material: PUWith Platforms: Nois_handmade: Yes PAY ATTENTION PLEASE: 1.Colors on your phone or computer monitor may differ slightly from actual product colors,It depend on your monitor settings. 2.Our shoes are Chinese size.There are two size markings on the soles, such as 250 or 40, and the soles will be shipped randomly from the warehouse. 3.About size measurement: the measurement method is different, and the error of our size measurement is within the range of 1-3cm. 4.About defects: due to different product materials, process methods, and processing batches, some details such as stitches, thread ends, glue marks, slight smells, creases, leather natural texture, small scratches, etc. cannot be avoided, and will not affect the use. 5.If you have any problems with the product you received, please contact us in time. If the product is received more than 15 days, we will not provide after-sales service, and no compensation will be granted for overdue claims. 1.About Size. Our Shoes are in Chinese size, not the European size or other Size. Please measure your foot length to chooes the suitable shoes size. **Attention: Foot length < insole length < outsole length, DON'T measure insole or outsole.If you are not sure about the size, please feel free to contact us. 2.About Return Service. If you want to return goods, please contact with us within 7 days after receiving the goods. The items should be unused, unwashed and in their original condition - complete with the original packaging, tags, etc. Human made defects are not guarantee, such as broken, scratched and so on.(Shipping and handling fees are non-refundable). 3.About color shade: The products in our store are professionally photographed. Due to factors such as lighting, product materials, production batches, display resolution, and personal understanding of colors, there may be subtle differences between the pictures and the actual products. If you cannot accept it, please purchase with caution. 4.About mistake:If you receive the wrong delivery, missed delivery or obvious quality problems, in order to ensure your rights, please take a photo of the face sheet and bottom sheet of the package, describe the specific problem of the product, and contact customer service in time.We will arrange the resend or refund. 5.Wish you have a good shopping experience and give us 5 stars evaluation.
-  Updated: 2025-11-19T22:54:06Z
+- [Thigh High Boots for Women - Sexy Over the Knee High Heel](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots): Shop our sexy thigh high boots for women available in black and grey. Perfect for autumn and spring, sizes 34-48.
+  Updated: 2025-11-23T21:01:37Z
   Vendor: ATTIK WEAR
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S030b6565f1b04156955679a722bafcc12.webp?v=1763545633
-  - [red / 46](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809139773)
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf797d0f88c3d48b6a35e74cdcac3e9cbm.webp?v=1763838390
+  - [Gray / 14](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844096573)
     Availability: Available
-    Price: $79.99 USD
-  - [red / 45](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809172541)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf7dbba2be486401a99224b7dee9feaf6a.webp?v=1763838390
+    Price: $84.99 USD
+  - [pu black / 3](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844129341)
     Availability: Available
-    Price: $79.99 USD
-  - [red / 44](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809205309)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H194a094a632f4e80bce089a97e372cfbI.webp?v=1763838390
+    Price: $84.99 USD
+  - [Gray / 15](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844162109)
     Availability: Available
-    Price: $79.99 USD
-  - [red / 43](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809238077)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf7dbba2be486401a99224b7dee9feaf6a.webp?v=1763838390
+    Price: $84.99 USD
+  - [Gray / 16](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844194877)
     Availability: Available
-    Price: $79.99 USD
-  - [red / 38](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809270845)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf7dbba2be486401a99224b7dee9feaf6a.webp?v=1763838390
+    Price: $84.99 USD
+  - [Gray / 17](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844227645)
     Availability: Available
-    Price: $79.99 USD
-  - [red / 37](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809303613)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf7dbba2be486401a99224b7dee9feaf6a.webp?v=1763838390
+    Price: $84.99 USD
+  - [flock black / 11](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844260413)
     Availability: Available
-    Price: $79.99 USD
-  - [red / 36](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809336381)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf797d0f88c3d48b6a35e74cdcac3e9cbm.webp?v=1763838390
+    Price: $84.99 USD
+  - [flock black / 12](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844293181)
     Availability: Available
-    Price: $79.99 USD
-  - [red / 35](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809369149)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf797d0f88c3d48b6a35e74cdcac3e9cbm.webp?v=1763838390
+    Price: $84.99 USD
+  - [flock black / 9](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844325949)
     Availability: Available
-    Price: $79.99 USD
-  - [red / 42](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809401917)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf797d0f88c3d48b6a35e74cdcac3e9cbm.webp?v=1763838390
+    Price: $84.99 USD
+  - [flock black / 10](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844358717)
     Availability: Available
-    Price: $79.99 USD
-  - [red / 41](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809434685)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf797d0f88c3d48b6a35e74cdcac3e9cbm.webp?v=1763838390
+    Price: $84.99 USD
+  - [flock black / 7](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844391485)
     Availability: Available
-    Price: $79.99 USD
-  - [red / 40](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809467453)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf797d0f88c3d48b6a35e74cdcac3e9cbm.webp?v=1763838390
+    Price: $84.99 USD
+  - [flock black / 8](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844424253)
     Availability: Available
-    Price: $79.99 USD
-  - [red / 39](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809500221)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf797d0f88c3d48b6a35e74cdcac3e9cbm.webp?v=1763838390
+    Price: $84.99 USD
+  - [flock black / 5](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844457021)
     Availability: Available
-    Price: $79.99 USD
-  - [black / 43](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809532989)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf797d0f88c3d48b6a35e74cdcac3e9cbm.webp?v=1763838390
+    Price: $84.99 USD
+  - [flock black / 6](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844489789)
     Availability: Available
-    Price: $79.99 USD
-  - [black / 42](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809565757)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf797d0f88c3d48b6a35e74cdcac3e9cbm.webp?v=1763838390
+    Price: $84.99 USD
+  - [flock black / 13](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844522557)
     Availability: Available
-    Price: $79.99 USD
-  - [black / 41](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809598525)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf797d0f88c3d48b6a35e74cdcac3e9cbm.webp?v=1763838390
+    Price: $84.99 USD
+  - [pu black / 10](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844555325)
     Availability: Available
-    Price: $79.99 USD
-  - [black / 40](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809631293)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H194a094a632f4e80bce089a97e372cfbI.webp?v=1763838390
+    Price: $84.99 USD
+  - [Gray / 6](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844588093)
     Availability: Available
-    Price: $79.99 USD
-  - [red / 34](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809664061)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf7dbba2be486401a99224b7dee9feaf6a.webp?v=1763838390
+    Price: $84.99 USD
+  - [pu black / 11](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844620861)
     Availability: Available
-    Price: $79.99 USD
-  - [black / 46](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809696829)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H194a094a632f4e80bce089a97e372cfbI.webp?v=1763838390
+    Price: $84.99 USD
+  - [Gray / 7](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844653629)
     Availability: Available
-    Price: $79.99 USD
-  - [black / 45](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809729597)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf7dbba2be486401a99224b7dee9feaf6a.webp?v=1763838390
+    Price: $84.99 USD
+  - [pu black / 8](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844686397)
     Availability: Available
-    Price: $79.99 USD
-  - [black / 44](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809762365)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H194a094a632f4e80bce089a97e372cfbI.webp?v=1763838390
+    Price: $84.99 USD
+  - [Gray / 8](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844719165)
     Availability: Available
-    Price: $79.99 USD
-  - [black / 35](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809795133)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf7dbba2be486401a99224b7dee9feaf6a.webp?v=1763838390
+    Price: $84.99 USD
+  - [pu black / 9](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844751933)
     Availability: Available
-    Price: $79.99 USD
-  - [black / 34](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809827901)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H194a094a632f4e80bce089a97e372cfbI.webp?v=1763838390
+    Price: $84.99 USD
+  - [Gray / 9](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844784701)
     Availability: Available
-    Price: $79.99 USD
-  - [black / 39](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809860669)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf7dbba2be486401a99224b7dee9feaf6a.webp?v=1763838390
+    Price: $84.99 USD
+  - [pu black / 6](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844817469)
     Availability: Available
-    Price: $79.99 USD
-  - [black / 38](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809893437)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H194a094a632f4e80bce089a97e372cfbI.webp?v=1763838390
+    Price: $84.99 USD
+  - [Gray / 10](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844850237)
     Availability: Available
-    Price: $79.99 USD
-  - [black / 37](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809926205)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf7dbba2be486401a99224b7dee9feaf6a.webp?v=1763838390
+    Price: $84.99 USD
+  - [pu black / 7](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844883005)
     Availability: Available
-    Price: $79.99 USD
-  - [black / 36](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809958973)
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H194a094a632f4e80bce089a97e372cfbI.webp?v=1763838390
+    Price: $84.99 USD
+  - [Gray / 11](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844915773)
     Availability: Available
-    Price: $79.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf7dbba2be486401a99224b7dee9feaf6a.webp?v=1763838390
+    Price: $84.99 USD
+  - [pu black / 4](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844948541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H194a094a632f4e80bce089a97e372cfbI.webp?v=1763838390
+    Price: $84.99 USD
+  - [Gray / 12](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742844981309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf7dbba2be486401a99224b7dee9feaf6a.webp?v=1763838390
+    Price: $84.99 USD
+  - [pu black / 5](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742845014077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H194a094a632f4e80bce089a97e372cfbI.webp?v=1763838390
+    Price: $84.99 USD
+  - [Gray / 13](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742845046845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf7dbba2be486401a99224b7dee9feaf6a.webp?v=1763838390
+    Price: $84.99 USD
+  - [flock black / 3](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742845079613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf797d0f88c3d48b6a35e74cdcac3e9cbm.webp?v=1763838390
+    Price: $84.99 USD
+  - [flock black / 4](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742845112381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf797d0f88c3d48b6a35e74cdcac3e9cbm.webp?v=1763838390
+    Price: $84.99 USD
+  - [flock black / 14](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742845145149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf797d0f88c3d48b6a35e74cdcac3e9cbm.webp?v=1763838390
+    Price: $84.99 USD
+  - [pu black / 16](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742845177917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H194a094a632f4e80bce089a97e372cfbI.webp?v=1763838390
+    Price: $84.99 USD
+  - [flock black / 15](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742845210685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf797d0f88c3d48b6a35e74cdcac3e9cbm.webp?v=1763838390
+    Price: $84.99 USD
+  - [pu black / 17](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742845243453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H194a094a632f4e80bce089a97e372cfbI.webp?v=1763838390
+    Price: $84.99 USD
+  - [flock black / 16](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742845276221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf797d0f88c3d48b6a35e74cdcac3e9cbm.webp?v=1763838390
+    Price: $84.99 USD
+  - [pu black / 14](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742845308989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H194a094a632f4e80bce089a97e372cfbI.webp?v=1763838390
+    Price: $84.99 USD
+  - [flock black / 17](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742845341757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf797d0f88c3d48b6a35e74cdcac3e9cbm.webp?v=1763838390
+    Price: $84.99 USD
+  - [pu black / 15](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742845374525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H194a094a632f4e80bce089a97e372cfbI.webp?v=1763838390
+    Price: $84.99 USD
+  - [Gray / 3](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742845407293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf7dbba2be486401a99224b7dee9feaf6a.webp?v=1763838390
+    Price: $84.99 USD
+  - [pu black / 12](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742845440061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H194a094a632f4e80bce089a97e372cfbI.webp?v=1763838390
+    Price: $84.99 USD
+  - [Gray / 4](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742845472829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf7dbba2be486401a99224b7dee9feaf6a.webp?v=1763838390
+    Price: $84.99 USD
+  - [pu black / 13](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742845505597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H194a094a632f4e80bce089a97e372cfbI.webp?v=1763838390
+    Price: $84.99 USD
+  - [Gray / 5](https://attikk-wear.myshopify.com/products/thigh-high-boots-women-autumn-spring-sexy-over-the-knee-boots?variant=42742845538365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hf7dbba2be486401a99224b7dee9feaf6a.webp?v=1763838390
+    Price: $84.99 USD
+- [Soft Leather Silver Gold High Heels for Women](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps): Shop stylish Soft Leather Silver Gold High Heels for women. Perfect for office and special occasions, available in sizes up to 43.
+  Updated: 2025-11-23T20:52:56Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sce95a3a5a39045a6bc8ae09e27475591B.webp?v=1763838590
+  - [Gold / 34](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742845767741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [Gold / 35](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742845800509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [Gold / 36](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742845833277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [Gold / 37](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742845866045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [Gold / 38](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742845898813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [Gold / 39](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742845931581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [Gold / 40](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742845964349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [Gold / 41](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742845997117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [Gold / 42](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846029885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [Gold / 43](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846062653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [silver 8 / 34](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846095421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sce95a3a5a39045a6bc8ae09e27475591B.webp?v=1763838590
+    Price: $41.42 USD
+  - [silver 8 / 35](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846128189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sce95a3a5a39045a6bc8ae09e27475591B.webp?v=1763838590
+    Price: $41.42 USD
+  - [silver 8 / 36](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846160957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sce95a3a5a39045a6bc8ae09e27475591B.webp?v=1763838590
+    Price: $41.42 USD
+  - [silver 8 / 37](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846193725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sce95a3a5a39045a6bc8ae09e27475591B.webp?v=1763838590
+    Price: $41.42 USD
+  - [silver 8 / 38](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846226493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sce95a3a5a39045a6bc8ae09e27475591B.webp?v=1763838590
+    Price: $41.42 USD
+  - [silver 8 / 39](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846259261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sce95a3a5a39045a6bc8ae09e27475591B.webp?v=1763838590
+    Price: $41.42 USD
+  - [silver 8 / 40](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846292029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sce95a3a5a39045a6bc8ae09e27475591B.webp?v=1763838590
+    Price: $41.42 USD
+  - [silver 8 / 41](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846324797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sce95a3a5a39045a6bc8ae09e27475591B.webp?v=1763838590
+    Price: $41.42 USD
+  - [silver 8 / 42](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846357565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sce95a3a5a39045a6bc8ae09e27475591B.webp?v=1763838590
+    Price: $41.42 USD
+  - [silver 8 / 43](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846390333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sce95a3a5a39045a6bc8ae09e27475591B.webp?v=1763838590
+    Price: $41.42 USD
+  - [Silver / 34](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846423101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbe3833081b464500b8de358e3531f2fdt.webp?v=1763838590
+    Price: $41.42 USD
+  - [Silver / 35](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846455869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbe3833081b464500b8de358e3531f2fdt.webp?v=1763838590
+    Price: $41.42 USD
+  - [Silver / 36](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846488637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbe3833081b464500b8de358e3531f2fdt.webp?v=1763838590
+    Price: $41.42 USD
+  - [Silver / 37](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846521405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbe3833081b464500b8de358e3531f2fdt.webp?v=1763838590
+    Price: $41.42 USD
+  - [Silver / 38](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846554173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbe3833081b464500b8de358e3531f2fdt.webp?v=1763838590
+    Price: $41.42 USD
+  - [Silver / 39](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846586941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbe3833081b464500b8de358e3531f2fdt.webp?v=1763838590
+    Price: $41.42 USD
+  - [Silver / 40](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846619709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbe3833081b464500b8de358e3531f2fdt.webp?v=1763838590
+    Price: $41.42 USD
+  - [Silver / 41](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846652477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbe3833081b464500b8de358e3531f2fdt.webp?v=1763838590
+    Price: $41.42 USD
+  - [Silver / 42](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846685245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbe3833081b464500b8de358e3531f2fdt.webp?v=1763838590
+    Price: $41.42 USD
+  - [Silver / 43](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846718013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbe3833081b464500b8de358e3531f2fdt.webp?v=1763838590
+    Price: $41.42 USD
+  - [gold10 / 34](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846750781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [gold10 / 35](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846783549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [gold10 / 36](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846816317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [gold10 / 37](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846849085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [gold10 / 38](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846881853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [gold10 / 39](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846914621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [gold10 / 40](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846947389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [gold10 / 41](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742846980157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [gold10 / 42](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742847012925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+  - [gold10 / 43](https://attikk-wear.myshopify.com/products/soft-leather-silver-gold-high-heels-women-pumps?variant=42742847045693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se3b075de84af41c9a14e961747811c89U.webp?v=1763838591
+    Price: $41.42 USD
+- [Nude Pumps for Women - Elegant High Heels](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes): Discover elegant nude pumps for women, featuring high heels and a pointed toe design. Perfect for weddings and special occasions, available in plus sizes 34-44.
+  Updated: 2025-11-23T20:45:22Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3d7aac0276b14870b172c5de4b2878946.webp?v=1763887513
+  - [patent blue 7 / 41](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742849863741)
+    Availability: Available
+    Price: $39.99 USD
+  - [patent blue 7 / 40](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742849896509)
+    Availability: Available
+    Price: $39.99 USD
+  - [patent blue 7 / 39](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742849929277)
+    Availability: Available
+    Price: $39.99 USD
+  - [patent blue 7 / 38](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742849962045)
+    Availability: Available
+    Price: $39.99 USD
+  - [nude / 34](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742849994813)
+    Availability: Available
+    Price: $39.99 USD
+  - [patent blue 7 / 44](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850027581)
+    Availability: Available
+    Price: $39.99 USD
+  - [patent blue 7 / 43](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850060349)
+    Availability: Available
+    Price: $39.99 USD
+  - [patent blue 7 / 42](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850093117)
+    Availability: Available
+    Price: $39.99 USD
+  - [nude / 38](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850125885)
+    Availability: Available
+    Price: $39.99 USD
+  - [nude / 37](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850158653)
+    Availability: Available
+    Price: $39.99 USD
+  - [nude / 36](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850191421)
+    Availability: Available
+    Price: $39.99 USD
+  - [nude / 35](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850224189)
+    Availability: Available
+    Price: $39.99 USD
+  - [nude / 42](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850256957)
+    Availability: Available
+    Price: $39.99 USD
+  - [nude / 41](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850289725)
+    Availability: Available
+    Price: $39.99 USD
+  - [nude / 40](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850322493)
+    Availability: Available
+    Price: $39.99 USD
+  - [nude / 39](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850355261)
+    Availability: Available
+    Price: $39.99 USD
+  - [pink 7cm / 36](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850388029)
+    Availability: Available
+    Price: $39.99 USD
+  - [pink 7cm / 35](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850420797)
+    Availability: Available
+    Price: $39.99 USD
+  - [pink 7cm / 34](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850453565)
+    Availability: Available
+    Price: $39.99 USD
+  - [bright red 7 cm / 44](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850486333)
+    Availability: Available
+    Price: $39.99 USD
+  - [pink 7cm / 40](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850519101)
+    Availability: Available
+    Price: $39.99 USD
+  - [pink 7cm / 39](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850551869)
+    Availability: Available
+    Price: $39.99 USD
+  - [pink 7cm / 38](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850584637)
+    Availability: Available
+    Price: $39.99 USD
+  - [pink 7cm / 37](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850617405)
+    Availability: Available
+    Price: $39.99 USD
+  - [pink 7cm / 44](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850650173)
+    Availability: Available
+    Price: $39.99 USD
+  - [pink 7cm / 43](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850682941)
+    Availability: Available
+    Price: $39.99 USD
+  - [pink 7cm / 42](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850715709)
+    Availability: Available
+    Price: $39.99 USD
+  - [pink 7cm / 41](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850748477)
+    Availability: Available
+    Price: $39.99 USD
+  - [patent blue 7 / 37](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850781245)
+    Availability: Available
+    Price: $39.99 USD
+  - [patent blue 7 / 36](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850814013)
+    Availability: Available
+    Price: $39.99 USD
+  - [patent blue 7 / 35](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850846781)
+    Availability: Available
+    Price: $39.99 USD
+  - [patent blue 7 / 34](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850879549)
+    Availability: Available
+    Price: $39.99 USD
+  - [white 7 cm / 42](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850912317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S246e59c923c742fba7f832fdedf645acG.webp?v=1763887513
+    Price: $39.99 USD
+  - [white 7 cm / 41](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850945085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S246e59c923c742fba7f832fdedf645acG.webp?v=1763887513
+    Price: $39.99 USD
+  - [white 7 cm / 40](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742850977853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S246e59c923c742fba7f832fdedf645acG.webp?v=1763887513
+    Price: $39.99 USD
+  - [white 7 cm / 39](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742851010621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S246e59c923c742fba7f832fdedf645acG.webp?v=1763887513
+    Price: $39.99 USD
+  - [bright red 7 cm / 35](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742851043389)
+    Availability: Available
+    Price: $39.99 USD
+  - [bright red 7 cm / 34](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742851076157)
+    Availability: Available
+    Price: $39.99 USD
+  - [white 7 cm / 44](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742851108925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S246e59c923c742fba7f832fdedf645acG.webp?v=1763887513
+    Price: $39.99 USD
+  - [white 7 cm / 43](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742851141693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S246e59c923c742fba7f832fdedf645acG.webp?v=1763887513
+    Price: $39.99 USD
+  - [bright red 7 cm / 39](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742851174461)
+    Availability: Available
+    Price: $39.99 USD
+  - [bright red 7 cm / 38](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742851207229)
+    Availability: Available
+    Price: $39.99 USD
+  - [bright red 7 cm / 37](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742851239997)
+    Availability: Available
+    Price: $39.99 USD
+  - [bright red 7 cm / 36](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742851272765)
+    Availability: Available
+    Price: $39.99 USD
+  - [bright red 7 cm / 43](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742851305533)
+    Availability: Available
+    Price: $39.99 USD
+  - [bright red 7 cm / 42](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742851338301)
+    Availability: Available
+    Price: $39.99 USD
+  - [bright red 7 cm / 41](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742851371069)
+    Availability: Available
+    Price: $39.99 USD
+  - [bright red 7 cm / 40](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742851403837)
+    Availability: Available
+    Price: $39.99 USD
+  - [black 7 cm / 37](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742851436605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Scea12fefa7984707991d0caf8c0b3708k.webp?v=1763887513
+    Price: $39.99 USD
+  - [black 7 cm / 36](https://attikk-wear.myshopify.com/products/nude-pumps-women-high-heel-shoes?variant=42742851469373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Scea12fefa7984707991d0caf8c0b3708k.webp?v=1763887513
+    Price: $39.99 USD
+- [Eilyken Leopard Grain Serpentine Long Boots for Women](https://attikk-wear.myshopify.com/products/eilyken-leopard-grain-serpentine-boots): Shop Eilyken Leopard Grain Serpentine Long Boots - stylish, over-the-knee, high-heel booties for women. Perfect for clubbing, winter wear, and making a bold statement.
+  Updated: 2025-11-23T20:20:34Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sffd1151404ca4276a27ef87f85f7b18bx.webp?v=1763839671
+  - [Brown / 38](https://attikk-wear.myshopify.com/products/eilyken-leopard-grain-serpentine-boots?variant=42742856974397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hebc823fdbeee4843b35c8150d8a53ae5y.webp?v=1763848081
+    Price: $66.15 USD
+  - [Brown / 37](https://attikk-wear.myshopify.com/products/eilyken-leopard-grain-serpentine-boots?variant=42742857007165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hebc823fdbeee4843b35c8150d8a53ae5y.webp?v=1763848081
+    Price: $66.15 USD
+  - [Brown / 40](https://attikk-wear.myshopify.com/products/eilyken-leopard-grain-serpentine-boots?variant=42742857039933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hebc823fdbeee4843b35c8150d8a53ae5y.webp?v=1763848081
+    Price: $66.15 USD
+  - [Brown / 39](https://attikk-wear.myshopify.com/products/eilyken-leopard-grain-serpentine-boots?variant=42742857072701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hebc823fdbeee4843b35c8150d8a53ae5y.webp?v=1763848081
+    Price: $66.15 USD
+  - [Brown / 36](https://attikk-wear.myshopify.com/products/eilyken-leopard-grain-serpentine-boots?variant=42742857105469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hebc823fdbeee4843b35c8150d8a53ae5y.webp?v=1763848081
+    Price: $66.15 USD
+  - [Brown / 35](https://attikk-wear.myshopify.com/products/eilyken-leopard-grain-serpentine-boots?variant=42742857138237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hebc823fdbeee4843b35c8150d8a53ae5y.webp?v=1763848081
+    Price: $66.15 USD
+  - [Brown / 42](https://attikk-wear.myshopify.com/products/eilyken-leopard-grain-serpentine-boots?variant=42742857171005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hebc823fdbeee4843b35c8150d8a53ae5y.webp?v=1763848081
+    Price: $66.15 USD
+  - [Brown / 41](https://attikk-wear.myshopify.com/products/eilyken-leopard-grain-serpentine-boots?variant=42742857203773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hebc823fdbeee4843b35c8150d8a53ae5y.webp?v=1763848081
+    Price: $66.15 USD
+- [Women Black Over The Knee Boots](https://attikk-wear.myshopify.com/products/women-black-over-the-knee-boots): Shop stylish black over-the-knee boots for women. Featuring sexy transparent high heels, slip-on design, and available in plus sizes. Perfect for autumn and winter.
+  Updated: 2025-11-23T07:31:04Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd33d305c36ca40549892d3ef2d98cd86M.webp?v=1763839859
+  - [Black / 42](https://attikk-wear.myshopify.com/products/women-black-over-the-knee-boots?variant=42742858383421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5eb17060d2f04eee8acf7b17e93d1d427.webp?v=1763839860
+    Price: $49.99 USD
+  - [Black / 43](https://attikk-wear.myshopify.com/products/women-black-over-the-knee-boots?variant=42742858416189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5eb17060d2f04eee8acf7b17e93d1d427.webp?v=1763839860
+    Price: $49.99 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/women-black-over-the-knee-boots?variant=42742858448957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5eb17060d2f04eee8acf7b17e93d1d427.webp?v=1763839860
+    Price: $49.99 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/women-black-over-the-knee-boots?variant=42742858481725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5eb17060d2f04eee8acf7b17e93d1d427.webp?v=1763839860
+    Price: $49.99 USD
+  - [Black / 35](https://attikk-wear.myshopify.com/products/women-black-over-the-knee-boots?variant=42742858514493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5eb17060d2f04eee8acf7b17e93d1d427.webp?v=1763839860
+    Price: $49.99 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/women-black-over-the-knee-boots?variant=42742858547261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5eb17060d2f04eee8acf7b17e93d1d427.webp?v=1763839860
+    Price: $49.99 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/women-black-over-the-knee-boots?variant=42742858580029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5eb17060d2f04eee8acf7b17e93d1d427.webp?v=1763839860
+    Price: $49.99 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/women-black-over-the-knee-boots?variant=42742858612797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5eb17060d2f04eee8acf7b17e93d1d427.webp?v=1763839860
+    Price: $49.99 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/women-black-over-the-knee-boots?variant=42742858645565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5eb17060d2f04eee8acf7b17e93d1d427.webp?v=1763839860
+    Price: $49.99 USD
+- [Knee High Sexy Thin Heel Women's Boots](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots): Discover the stylish Knee High Sexy Thin Heel Women's Boots for 2020 Autumn/Winter. Perfectly crafted for comfort and elegance, available in various sizes and colors.
+  Updated: 2025-11-23T07:33:43Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf610bc6b74a3436e85a186cab502e7a8k.webp?v=1763847733
+  - [Gray / 38](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861299773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf610bc6b74a3436e85a186cab502e7a8k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Gray / 39](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861332541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf610bc6b74a3436e85a186cab502e7a8k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Gray / 36](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861365309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf610bc6b74a3436e85a186cab502e7a8k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Gray / 37](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861398077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf610bc6b74a3436e85a186cab502e7a8k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Gray / 34](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861430845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf610bc6b74a3436e85a186cab502e7a8k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Gray / 35](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861463613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf610bc6b74a3436e85a186cab502e7a8k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861496381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7e6c0a7be1814106b7b8d51ad6b5fccay.webp?v=1763847733
+    Price: $89.99 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861529149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7e6c0a7be1814106b7b8d51ad6b5fccay.webp?v=1763847733
+    Price: $89.99 USD
+  - [Black / 34](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861561917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7e6c0a7be1814106b7b8d51ad6b5fccay.webp?v=1763847733
+    Price: $89.99 USD
+  - [Black / 35](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861594685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7e6c0a7be1814106b7b8d51ad6b5fccay.webp?v=1763847733
+    Price: $89.99 USD
+  - [Gray / 42](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861627453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf610bc6b74a3436e85a186cab502e7a8k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Gray / 43](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861660221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf610bc6b74a3436e85a186cab502e7a8k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Gray / 40](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861692989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf610bc6b74a3436e85a186cab502e7a8k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Gray / 41](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861725757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf610bc6b74a3436e85a186cab502e7a8k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Beige / 34](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861758525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc8b96d2889b64319a99e897143163273k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Beige / 35](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861791293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc8b96d2889b64319a99e897143163273k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861824061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7e6c0a7be1814106b7b8d51ad6b5fccay.webp?v=1763847733
+    Price: $89.99 USD
+  - [Black / 43](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861856829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7e6c0a7be1814106b7b8d51ad6b5fccay.webp?v=1763847733
+    Price: $89.99 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861889597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7e6c0a7be1814106b7b8d51ad6b5fccay.webp?v=1763847733
+    Price: $89.99 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861922365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7e6c0a7be1814106b7b8d51ad6b5fccay.webp?v=1763847733
+    Price: $89.99 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861955133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7e6c0a7be1814106b7b8d51ad6b5fccay.webp?v=1763847733
+    Price: $89.99 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742861987901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7e6c0a7be1814106b7b8d51ad6b5fccay.webp?v=1763847733
+    Price: $89.99 USD
+  - [Beige / 42](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742862020669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc8b96d2889b64319a99e897143163273k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Beige / 43](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742862053437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc8b96d2889b64319a99e897143163273k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Beige / 40](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742862086205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc8b96d2889b64319a99e897143163273k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Beige / 41](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742862118973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc8b96d2889b64319a99e897143163273k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Beige / 38](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742862151741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc8b96d2889b64319a99e897143163273k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Beige / 39](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742862184509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc8b96d2889b64319a99e897143163273k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Beige / 36](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742862217277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc8b96d2889b64319a99e897143163273k.webp?v=1763847733
+    Price: $89.99 USD
+  - [Beige / 37](https://attikk-wear.myshopify.com/products/2020-autumn-winter-sexy-knee-high-thin-heel-womens-boots?variant=42742862250045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc8b96d2889b64319a99e897143163273k.webp?v=1763847733
+    Price: $89.99 USD
+- [2025 Men Rain Boots - High Quality EVA Waterproof Shoes](https://attikk-wear.myshopify.com/products/2025-men-rain-boots-eva-waterproof-shoes): Shop the 2025 New Men Rain Boots, high quality EVA waterproof shoes designed for comfort and non-slip protection in all outdoor activities.
+  Updated: 2025-11-23T07:36:18Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0191e70fd7244eff8d89efd16b34325en.webp?v=1763840163
+  - [Black / 40](https://attikk-wear.myshopify.com/products/2025-men-rain-boots-eva-waterproof-shoes?variant=42742863691837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf984bc217cb54e08abd321aeb078f4b4M.webp?v=1763840163
+    Price: $63.71 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/2025-men-rain-boots-eva-waterproof-shoes?variant=42742863724605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf984bc217cb54e08abd321aeb078f4b4M.webp?v=1763840163
+    Price: $63.71 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/2025-men-rain-boots-eva-waterproof-shoes?variant=42742863757373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf984bc217cb54e08abd321aeb078f4b4M.webp?v=1763840163
+    Price: $63.71 USD
+  - [Black / 43](https://attikk-wear.myshopify.com/products/2025-men-rain-boots-eva-waterproof-shoes?variant=42742863790141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf984bc217cb54e08abd321aeb078f4b4M.webp?v=1763840163
+    Price: $63.71 USD
+  - [Black / 44](https://attikk-wear.myshopify.com/products/2025-men-rain-boots-eva-waterproof-shoes?variant=42742863822909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf984bc217cb54e08abd321aeb078f4b4M.webp?v=1763840163
+    Price: $63.71 USD
+  - [Black / 45](https://attikk-wear.myshopify.com/products/2025-men-rain-boots-eva-waterproof-shoes?variant=42742863855677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf984bc217cb54e08abd321aeb078f4b4M.webp?v=1763840163
+    Price: $63.71 USD
+  - [Black / 46](https://attikk-wear.myshopify.com/products/2025-men-rain-boots-eva-waterproof-shoes?variant=42742863888445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf984bc217cb54e08abd321aeb078f4b4M.webp?v=1763840163
+    Price: $63.71 USD
+  - [White / 39](https://attikk-wear.myshopify.com/products/2025-men-rain-boots-eva-waterproof-shoes?variant=42742863921213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S710b782d62a6463b8e38455e7747678bZ.webp?v=1763847732
+    Price: $63.71 USD
+  - [White / 40](https://attikk-wear.myshopify.com/products/2025-men-rain-boots-eva-waterproof-shoes?variant=42742863953981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S710b782d62a6463b8e38455e7747678bZ.webp?v=1763847732
+    Price: $63.71 USD
+  - [White / 41](https://attikk-wear.myshopify.com/products/2025-men-rain-boots-eva-waterproof-shoes?variant=42742863986749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S710b782d62a6463b8e38455e7747678bZ.webp?v=1763847732
+    Price: $63.71 USD
+  - [White / 42](https://attikk-wear.myshopify.com/products/2025-men-rain-boots-eva-waterproof-shoes?variant=42742864019517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S710b782d62a6463b8e38455e7747678bZ.webp?v=1763847732
+    Price: $63.71 USD
+  - [White / 43](https://attikk-wear.myshopify.com/products/2025-men-rain-boots-eva-waterproof-shoes?variant=42742864052285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S710b782d62a6463b8e38455e7747678bZ.webp?v=1763847732
+    Price: $63.71 USD
+  - [White / 44](https://attikk-wear.myshopify.com/products/2025-men-rain-boots-eva-waterproof-shoes?variant=42742864085053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S710b782d62a6463b8e38455e7747678bZ.webp?v=1763847732
+    Price: $63.71 USD
+  - [White / 45](https://attikk-wear.myshopify.com/products/2025-men-rain-boots-eva-waterproof-shoes?variant=42742864117821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S710b782d62a6463b8e38455e7747678bZ.webp?v=1763847732
+    Price: $63.71 USD
+  - [White / 46](https://attikk-wear.myshopify.com/products/2025-men-rain-boots-eva-waterproof-shoes?variant=42742864150589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S710b782d62a6463b8e38455e7747678bZ.webp?v=1763847732
+    Price: $63.71 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/2025-men-rain-boots-eva-waterproof-shoes?variant=42742864183357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf984bc217cb54e08abd321aeb078f4b4M.webp?v=1763840163
+    Price: $63.71 USD
+- [Women's Sexy Chelsea Boots - 12CM Stiletto Heels](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto): Shop the latest Women's Over The Knee Sexy Chelsea Boots with 12CM stiletto heels. Perfect for any occasion, stylish and comfortable.
+  Updated: 2025-11-23T07:38:29Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac700b6cb0a1491183ffb36c49e5376dj.webp?v=1763840297
+  - [Pink / 41 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864314429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac700b6cb0a1491183ffb36c49e5376dj.webp?v=1763840297
+    Price: $76.00 USD
+  - [Pink / 40 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864347197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac700b6cb0a1491183ffb36c49e5376dj.webp?v=1763840297
+    Price: $76.00 USD
+  - [Pink / 39 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864379965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac700b6cb0a1491183ffb36c49e5376dj.webp?v=1763840297
+    Price: $76.00 USD
+  - [Pink / 38 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864412733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac700b6cb0a1491183ffb36c49e5376dj.webp?v=1763840297
+    Price: $76.00 USD
+  - [Pink / 45 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864445501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac700b6cb0a1491183ffb36c49e5376dj.webp?v=1763840297
+    Price: $76.00 USD
+  - [Pink / 44 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864478269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac700b6cb0a1491183ffb36c49e5376dj.webp?v=1763840297
+    Price: $76.00 USD
+  - [Pink / 43 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864511037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac700b6cb0a1491183ffb36c49e5376dj.webp?v=1763840297
+    Price: $76.00 USD
+  - [Pink / 42 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864543805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac700b6cb0a1491183ffb36c49e5376dj.webp?v=1763840297
+    Price: $76.00 USD
+  - [cream / 37 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864576573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa5cf065819754ee7a7a922f60051fe36P.webp?v=1763876166
+    Price: $76.00 USD
+  - [cream / 36 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864609341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa5cf065819754ee7a7a922f60051fe36P.webp?v=1763876166
+    Price: $76.00 USD
+  - [cream / 35 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864642109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa5cf065819754ee7a7a922f60051fe36P.webp?v=1763876166
+    Price: $76.00 USD
+  - [cream / 34 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864674877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa5cf065819754ee7a7a922f60051fe36P.webp?v=1763876166
+    Price: $76.00 USD
+  - [cream / 41 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864707645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa5cf065819754ee7a7a922f60051fe36P.webp?v=1763876166
+    Price: $76.00 USD
+  - [cream / 40 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864740413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa5cf065819754ee7a7a922f60051fe36P.webp?v=1763876166
+    Price: $76.00 USD
+  - [cream / 39 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864773181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa5cf065819754ee7a7a922f60051fe36P.webp?v=1763876166
+    Price: $76.00 USD
+  - [cream / 38 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864805949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa5cf065819754ee7a7a922f60051fe36P.webp?v=1763876166
+    Price: $76.00 USD
+  - [White / 41 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864838717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c8b60e8f63f4caabe882142a66ede342.webp?v=1763840297
+    Price: $76.00 USD
+  - [White / 40 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864871485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c8b60e8f63f4caabe882142a66ede342.webp?v=1763840297
+    Price: $76.00 USD
+  - [White / 39 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864904253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c8b60e8f63f4caabe882142a66ede342.webp?v=1763840297
+    Price: $76.00 USD
+  - [White / 38 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864937021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c8b60e8f63f4caabe882142a66ede342.webp?v=1763840297
+    Price: $76.00 USD
+  - [White / 45 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742864969789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c8b60e8f63f4caabe882142a66ede342.webp?v=1763840297
+    Price: $76.00 USD
+  - [White / 44 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865002557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c8b60e8f63f4caabe882142a66ede342.webp?v=1763840297
+    Price: $76.00 USD
+  - [White / 43 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865035325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c8b60e8f63f4caabe882142a66ede342.webp?v=1763840297
+    Price: $76.00 USD
+  - [White / 42 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865068093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c8b60e8f63f4caabe882142a66ede342.webp?v=1763840297
+    Price: $76.00 USD
+  - [red / 45 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865100861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7379c4b6a9d746c890c99117183c3ed6w.webp?v=1763876166
+    Price: $76.00 USD
+  - [red / 44 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865133629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7379c4b6a9d746c890c99117183c3ed6w.webp?v=1763876166
+    Price: $76.00 USD
+  - [red / 43 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865166397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7379c4b6a9d746c890c99117183c3ed6w.webp?v=1763876166
+    Price: $76.00 USD
+  - [red / 42 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865199165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7379c4b6a9d746c890c99117183c3ed6w.webp?v=1763876166
+    Price: $76.00 USD
+  - [White / 37 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865231933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c8b60e8f63f4caabe882142a66ede342.webp?v=1763840297
+    Price: $76.00 USD
+  - [White / 36 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865264701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c8b60e8f63f4caabe882142a66ede342.webp?v=1763840297
+    Price: $76.00 USD
+  - [White / 35 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865297469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c8b60e8f63f4caabe882142a66ede342.webp?v=1763840297
+    Price: $76.00 USD
+  - [White / 34 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865330237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c8b60e8f63f4caabe882142a66ede342.webp?v=1763840297
+    Price: $76.00 USD
+  - [red / 37 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865363005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7379c4b6a9d746c890c99117183c3ed6w.webp?v=1763876166
+    Price: $76.00 USD
+  - [red / 36 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865395773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7379c4b6a9d746c890c99117183c3ed6w.webp?v=1763876166
+    Price: $76.00 USD
+  - [red / 35 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865428541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7379c4b6a9d746c890c99117183c3ed6w.webp?v=1763876166
+    Price: $76.00 USD
+  - [red / 34 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865461309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7379c4b6a9d746c890c99117183c3ed6w.webp?v=1763876166
+    Price: $76.00 USD
+  - [red / 41 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865494077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7379c4b6a9d746c890c99117183c3ed6w.webp?v=1763876166
+    Price: $76.00 USD
+  - [red / 40 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865526845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7379c4b6a9d746c890c99117183c3ed6w.webp?v=1763876166
+    Price: $76.00 USD
+  - [red / 39 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865559613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7379c4b6a9d746c890c99117183c3ed6w.webp?v=1763876166
+    Price: $76.00 USD
+  - [red / 38 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865592381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7379c4b6a9d746c890c99117183c3ed6w.webp?v=1763876166
+    Price: $76.00 USD
+  - [leather black / 45 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865625149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd963f8257c0e435eb771bc17401857f6k.webp?v=1763840297
+    Price: $76.00 USD
+  - [leather black / 44 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865657917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd963f8257c0e435eb771bc17401857f6k.webp?v=1763840297
+    Price: $76.00 USD
+  - [leather black / 43 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865690685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd963f8257c0e435eb771bc17401857f6k.webp?v=1763840297
+    Price: $76.00 USD
+  - [leather black / 42 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865723453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd963f8257c0e435eb771bc17401857f6k.webp?v=1763840297
+    Price: $76.00 USD
+  - [Pink / 37 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865756221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac700b6cb0a1491183ffb36c49e5376dj.webp?v=1763840297
+    Price: $76.00 USD
+  - [Pink / 36 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865788989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac700b6cb0a1491183ffb36c49e5376dj.webp?v=1763840297
+    Price: $76.00 USD
+  - [Pink / 35 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865821757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac700b6cb0a1491183ffb36c49e5376dj.webp?v=1763840297
+    Price: $76.00 USD
+  - [Pink / 34 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865854525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sac700b6cb0a1491183ffb36c49e5376dj.webp?v=1763840297
+    Price: $76.00 USD
+  - [leather black / 37 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865887293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd963f8257c0e435eb771bc17401857f6k.webp?v=1763840297
+    Price: $76.00 USD
+  - [leather black / 36 / CHINA](https://attikk-wear.myshopify.com/products/womens-over-the-knee-sexy-chelsea-boots-12cm-stiletto?variant=42742865920061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd963f8257c0e435eb771bc17401857f6k.webp?v=1763840297
+    Price: $76.00 USD
+- [Women's Casual Snow Boots | Warm & Comfortable Winter Footwear](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton): Shop our Women's Casual Snow Boots, crafted for comfort and style. These warm, minimalist boots are perfect for winter with a cozy cotton lining.
+  Updated: 2025-11-23T07:44:44Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc2ccc573d4f54a6ba5addfbe7753652fx.webp?v=1763840678
+  - [coffee / 35](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742868869181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf98f14f5f0d14913a69ec9e6c6db0d4ef.webp?v=1763847733
+    Price: $47.16 USD
+  - [coffee / 36](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742868901949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf98f14f5f0d14913a69ec9e6c6db0d4ef.webp?v=1763847733
+    Price: $47.16 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742868934717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4543369c7e4a411ba2494d732ceb9b00s.webp?v=1763847733
+    Price: $47.16 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742868967485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4543369c7e4a411ba2494d732ceb9b00s.webp?v=1763847733
+    Price: $47.16 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742869000253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4543369c7e4a411ba2494d732ceb9b00s.webp?v=1763847733
+    Price: $47.16 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742869033021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4543369c7e4a411ba2494d732ceb9b00s.webp?v=1763847733
+    Price: $47.16 USD
+  - [Black / 35](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742869065789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4543369c7e4a411ba2494d732ceb9b00s.webp?v=1763847733
+    Price: $47.16 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742869098557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4543369c7e4a411ba2494d732ceb9b00s.webp?v=1763847733
+    Price: $47.16 USD
+  - [tan / 39](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742869131325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4ca43f62c1c448f68f8574a7f17fa710K.webp?v=1763847733
+    Price: $47.16 USD
+  - [tan / 40](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742869164093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4ca43f62c1c448f68f8574a7f17fa710K.webp?v=1763847733
+    Price: $47.16 USD
+  - [tan / 37](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742869196861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4ca43f62c1c448f68f8574a7f17fa710K.webp?v=1763847733
+    Price: $47.16 USD
+  - [tan / 38](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742869229629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4ca43f62c1c448f68f8574a7f17fa710K.webp?v=1763847733
+    Price: $47.16 USD
+  - [tan / 35](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742869262397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4ca43f62c1c448f68f8574a7f17fa710K.webp?v=1763847733
+    Price: $47.16 USD
+  - [tan / 36](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742869295165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4ca43f62c1c448f68f8574a7f17fa710K.webp?v=1763847733
+    Price: $47.16 USD
+  - [coffee / 39](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742869327933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf98f14f5f0d14913a69ec9e6c6db0d4ef.webp?v=1763847733
+    Price: $47.16 USD
+  - [coffee / 40](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742869360701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf98f14f5f0d14913a69ec9e6c6db0d4ef.webp?v=1763847733
+    Price: $47.16 USD
+  - [coffee / 37](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742869393469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf98f14f5f0d14913a69ec9e6c6db0d4ef.webp?v=1763847733
+    Price: $47.16 USD
+  - [coffee / 38](https://attikk-wear.myshopify.com/products/womens-casual-snow-boots-velvet-cotton?variant=42742869426237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf98f14f5f0d14913a69ec9e6c6db0d4ef.webp?v=1763847733
+    Price: $47.16 USD
+- [High Heels Red Women Over The Knee Boots - Size 46](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46): Shop stylish red over-the-knee boots for women. These high heels offer comfort and fashion with a pointed toe and convenient back zip.
+  Updated: 2025-11-23T07:48:21Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa7fdb1db0e41470b8451b45696564de8r.webp?v=1763840890
+  - [Black / 41](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742869590077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf89824b5400c4f98b133cade9e839663G.webp?v=1763840890
+    Price: $89.99 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742869622845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf89824b5400c4f98b133cade9e839663G.webp?v=1763840890
+    Price: $89.99 USD
+  - [red / 43](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742869655613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S38694418dc3941f9a2527060086dc8072.webp?v=1763840891
+    Price: $89.99 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742869688381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf89824b5400c4f98b133cade9e839663G.webp?v=1763840890
+    Price: $89.99 USD
+  - [red / 42](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742869721149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S38694418dc3941f9a2527060086dc8072.webp?v=1763840891
+    Price: $89.99 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742869753917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf89824b5400c4f98b133cade9e839663G.webp?v=1763840890
+    Price: $89.99 USD
+  - [red / 41](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742869786685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S38694418dc3941f9a2527060086dc8072.webp?v=1763840891
+    Price: $89.99 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742869819453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf89824b5400c4f98b133cade9e839663G.webp?v=1763840890
+    Price: $89.99 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742869852221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf89824b5400c4f98b133cade9e839663G.webp?v=1763840890
+    Price: $89.99 USD
+  - [Black / 35](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742869884989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf89824b5400c4f98b133cade9e839663G.webp?v=1763840890
+    Price: $89.99 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742869917757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf89824b5400c4f98b133cade9e839663G.webp?v=1763840890
+    Price: $89.99 USD
+  - [red / 36](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742869950525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S38694418dc3941f9a2527060086dc8072.webp?v=1763840891
+    Price: $89.99 USD
+  - [Black / 34](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742869983293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf89824b5400c4f98b133cade9e839663G.webp?v=1763840890
+    Price: $89.99 USD
+  - [red / 35](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742870016061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S38694418dc3941f9a2527060086dc8072.webp?v=1763840891
+    Price: $89.99 USD
+  - [red / 34](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742870048829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S38694418dc3941f9a2527060086dc8072.webp?v=1763840891
+    Price: $89.99 USD
+  - [red / 40](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742870081597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S38694418dc3941f9a2527060086dc8072.webp?v=1763840891
+    Price: $89.99 USD
+  - [red / 39](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742870114365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S38694418dc3941f9a2527060086dc8072.webp?v=1763840891
+    Price: $89.99 USD
+  - [red / 38](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742870147133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S38694418dc3941f9a2527060086dc8072.webp?v=1763840891
+    Price: $89.99 USD
+  - [red / 37](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742870179901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S38694418dc3941f9a2527060086dc8072.webp?v=1763840891
+    Price: $89.99 USD
+  - [Black / 43](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742870212669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf89824b5400c4f98b133cade9e839663G.webp?v=1763840890
+    Price: $89.99 USD
+  - [Black / 46](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742870245437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf89824b5400c4f98b133cade9e839663G.webp?v=1763840890
+    Price: $89.99 USD
+  - [red / 44](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742870278205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S38694418dc3941f9a2527060086dc8072.webp?v=1763840891
+    Price: $89.99 USD
+  - [Black / 44](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742870310973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf89824b5400c4f98b133cade9e839663G.webp?v=1763840890
+    Price: $89.99 USD
+  - [Black / 45](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742870343741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf89824b5400c4f98b133cade9e839663G.webp?v=1763840890
+    Price: $89.99 USD
+  - [red / 45](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742870376509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S38694418dc3941f9a2527060086dc8072.webp?v=1763840891
+    Price: $89.99 USD
+  - [red / 46](https://attikk-wear.myshopify.com/products/high-heels-red-women-over-the-knee-boots-size-46?variant=42742870409277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S38694418dc3941f9a2527060086dc8072.webp?v=1763840891
+    Price: $89.99 USD
+- [Women Pumps Fashion Classic Patent Leather High Heels](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels): Shop stylish Women Pumps in classic patent leather. Perfect for weddings and special occasions, available in sizes 34-42.
+  Updated: 2025-11-23T07:53:05Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6eadbec7c28941148f03301a31650411V.webp?v=1763841174
+  - [Black / 38](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871195709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbbca96d967f14430bd842a285437e65fK.webp?v=1763847732
+    Price: $43.36 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871228477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbbca96d967f14430bd842a285437e65fK.webp?v=1763847732
+    Price: $43.36 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871261245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbbca96d967f14430bd842a285437e65fK.webp?v=1763847732
+    Price: $43.36 USD
+  - [Black / 35](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871294013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbbca96d967f14430bd842a285437e65fK.webp?v=1763847732
+    Price: $43.36 USD
+  - [Black / 34](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871326781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbbca96d967f14430bd842a285437e65fK.webp?v=1763847732
+    Price: $43.36 USD
+  - [Beige / 42](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871359549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S44fdd474a3404af5bab6507a1aa5f18ao.webp?v=1763847732
+    Price: $43.36 USD
+  - [Beige / 41](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871392317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S44fdd474a3404af5bab6507a1aa5f18ao.webp?v=1763847732
+    Price: $43.36 USD
+  - [Beige / 40](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871425085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S44fdd474a3404af5bab6507a1aa5f18ao.webp?v=1763847732
+    Price: $43.36 USD
+  - [White / 37](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871457853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3d153a0448f64de88277f1d5d9634714z.webp?v=1763841175
+    Price: $43.36 USD
+  - [White / 36](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871490621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3d153a0448f64de88277f1d5d9634714z.webp?v=1763841175
+    Price: $43.36 USD
+  - [White / 35](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871523389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3d153a0448f64de88277f1d5d9634714z.webp?v=1763841175
+    Price: $43.36 USD
+  - [White / 34](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871556157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3d153a0448f64de88277f1d5d9634714z.webp?v=1763841175
+    Price: $43.36 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871588925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbbca96d967f14430bd842a285437e65fK.webp?v=1763847732
+    Price: $43.36 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871621693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbbca96d967f14430bd842a285437e65fK.webp?v=1763847732
+    Price: $43.36 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871654461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbbca96d967f14430bd842a285437e65fK.webp?v=1763847732
+    Price: $43.36 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871687229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbbca96d967f14430bd842a285437e65fK.webp?v=1763847732
+    Price: $43.36 USD
+  - [Beige / 39](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871719997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S44fdd474a3404af5bab6507a1aa5f18ao.webp?v=1763847732
+    Price: $43.36 USD
+  - [Beige / 38](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871752765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S44fdd474a3404af5bab6507a1aa5f18ao.webp?v=1763847732
+    Price: $43.36 USD
+  - [Beige / 37](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871785533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S44fdd474a3404af5bab6507a1aa5f18ao.webp?v=1763847732
+    Price: $43.36 USD
+  - [Beige / 36](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871818301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S44fdd474a3404af5bab6507a1aa5f18ao.webp?v=1763847732
+    Price: $43.36 USD
+  - [Beige / 35](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871851069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S44fdd474a3404af5bab6507a1aa5f18ao.webp?v=1763847732
+    Price: $43.36 USD
+  - [Beige / 34](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871883837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S44fdd474a3404af5bab6507a1aa5f18ao.webp?v=1763847732
+    Price: $6.89 USD
+  - [red / 36](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871916605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6eadbec7c28941148f03301a31650411V.webp?v=1763841174
+    Price: $8.68 USD
+  - [red / 35](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871949373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6eadbec7c28941148f03301a31650411V.webp?v=1763841174
+    Price: $8.68 USD
+  - [red / 34](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742871982141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6eadbec7c28941148f03301a31650411V.webp?v=1763841174
+    Price: $6.89 USD
+  - [White / 42](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742872014909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3d153a0448f64de88277f1d5d9634714z.webp?v=1763841175
+    Price: $8.68 USD
+  - [White / 41](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742872047677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3d153a0448f64de88277f1d5d9634714z.webp?v=1763841175
+    Price: $8.68 USD
+  - [White / 40](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742872080445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3d153a0448f64de88277f1d5d9634714z.webp?v=1763841175
+    Price: $8.68 USD
+  - [White / 39](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742872113213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3d153a0448f64de88277f1d5d9634714z.webp?v=1763841175
+    Price: $8.68 USD
+  - [White / 38](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742872145981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3d153a0448f64de88277f1d5d9634714z.webp?v=1763841175
+    Price: $8.68 USD
+  - [red / 42](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742872178749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6eadbec7c28941148f03301a31650411V.webp?v=1763841174
+    Price: $8.68 USD
+  - [red / 41](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742872211517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6eadbec7c28941148f03301a31650411V.webp?v=1763841174
+    Price: $8.68 USD
+  - [red / 40](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742872244285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6eadbec7c28941148f03301a31650411V.webp?v=1763841174
+    Price: $8.68 USD
+  - [red / 39](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742872277053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6eadbec7c28941148f03301a31650411V.webp?v=1763841174
+    Price: $8.68 USD
+  - [red / 38](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742872309821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6eadbec7c28941148f03301a31650411V.webp?v=1763841174
+    Price: $8.68 USD
+  - [red / 37](https://attikk-wear.myshopify.com/products/women-pumps-fashion-classic-patent-leather-heels?variant=42742872342589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6eadbec7c28941148f03301a31650411V.webp?v=1763841174
+    Price: $8.68 USD
+- [Eilyken Sexy Snake Print Over The Knee Boots](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots): Shop Eilyken Sexy Snake Print Leather Over The Knee Boots. Stylish, comfortable, and perfect for winter. Elevate your wardrobe with these trendy fashion boots.
+  Updated: 2025-11-23T07:55:01Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa58c96df5bda416eb06fe38388c30674n.webp?v=1763841290
+  - [Black / 41](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742872506429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S12eee59752b44c8ea058fbcd00614578r.webp?v=1763847731
+    Price: $69.99 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742872539197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S12eee59752b44c8ea058fbcd00614578r.webp?v=1763847731
+    Price: $69.99 USD
+  - [red / 35](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742872571965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8fafcc2767534c03886ef21aa3778689h.webp?v=1763847731
+    Price: $69.99 USD
+  - [red / 36](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742872604733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8fafcc2767534c03886ef21aa3778689h.webp?v=1763847731
+    Price: $69.99 USD
+  - [red / 37](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742872637501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8fafcc2767534c03886ef21aa3778689h.webp?v=1763847731
+    Price: $69.99 USD
+  - [red / 38](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742872670269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8fafcc2767534c03886ef21aa3778689h.webp?v=1763847731
+    Price: $69.99 USD
+  - [red / 39](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742872703037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8fafcc2767534c03886ef21aa3778689h.webp?v=1763847731
+    Price: $69.99 USD
+  - [red / 40](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742872735805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8fafcc2767534c03886ef21aa3778689h.webp?v=1763847731
+    Price: $69.99 USD
+  - [White / 41](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742872768573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa58c96df5bda416eb06fe38388c30674n.webp?v=1763841290
+    Price: $69.99 USD
+  - [White / 42](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742872801341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa58c96df5bda416eb06fe38388c30674n.webp?v=1763841290
+    Price: $69.99 USD
+  - [Black / 35](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742872834109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S12eee59752b44c8ea058fbcd00614578r.webp?v=1763847731
+    Price: $69.99 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742872866877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S12eee59752b44c8ea058fbcd00614578r.webp?v=1763847731
+    Price: $69.99 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742872899645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S12eee59752b44c8ea058fbcd00614578r.webp?v=1763847731
+    Price: $69.99 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742872932413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S12eee59752b44c8ea058fbcd00614578r.webp?v=1763847731
+    Price: $69.99 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742872965181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S12eee59752b44c8ea058fbcd00614578r.webp?v=1763847731
+    Price: $69.99 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742872997949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S12eee59752b44c8ea058fbcd00614578r.webp?v=1763847731
+    Price: $69.99 USD
+  - [White / 35](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742873030717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa58c96df5bda416eb06fe38388c30674n.webp?v=1763841290
+    Price: $69.99 USD
+  - [White / 36](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742873063485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa58c96df5bda416eb06fe38388c30674n.webp?v=1763841290
+    Price: $69.99 USD
+  - [White / 37](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742873096253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa58c96df5bda416eb06fe38388c30674n.webp?v=1763841290
+    Price: $69.99 USD
+  - [White / 38](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742873129021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa58c96df5bda416eb06fe38388c30674n.webp?v=1763841290
+    Price: $69.99 USD
+  - [White / 39](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742873161789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa58c96df5bda416eb06fe38388c30674n.webp?v=1763841290
+    Price: $69.99 USD
+  - [White / 40](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742873194557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa58c96df5bda416eb06fe38388c30674n.webp?v=1763841290
+    Price: $69.99 USD
+  - [red / 41](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742873227325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8fafcc2767534c03886ef21aa3778689h.webp?v=1763847731
+    Price: $69.99 USD
+  - [red / 42](https://attikk-wear.myshopify.com/products/eilyken-sexy-snake-print-leather-over-the-knee-boots?variant=42742873260093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8fafcc2767534c03886ef21aa3778689h.webp?v=1763847731
+    Price: $69.99 USD
+- [Luxury Knee High Boots for Women - Elegant & Comfortable](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots): Shop our Luxury Knight Women Knee High Boots. Made from soft leather, these elegant and comfortable boots are perfect for every occasion.
+  Updated: 2025-11-23T07:57:46Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S77d0e50ec193420fa9a7467cc118a9de9.webp?v=1763841461
+  - [White / 35](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742873620541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S40591ddf7e77430c9288c40c7ae2781f3.webp?v=1763847732
+    Price: $62.64 USD
+  - [White / 36](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742873653309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S40591ddf7e77430c9288c40c7ae2781f3.webp?v=1763847732
+    Price: $62.64 USD
+  - [White / 34](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742873686077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S40591ddf7e77430c9288c40c7ae2781f3.webp?v=1763847732
+    Price: $62.64 USD
+  - [White / 39](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742873718845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S40591ddf7e77430c9288c40c7ae2781f3.webp?v=1763847732
+    Price: $62.64 USD
+  - [White / 40](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742873751613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S40591ddf7e77430c9288c40c7ae2781f3.webp?v=1763847732
+    Price: $62.64 USD
+  - [White / 37](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742873784381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S40591ddf7e77430c9288c40c7ae2781f3.webp?v=1763847732
+    Price: $62.64 USD
+  - [White / 38](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742873817149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S40591ddf7e77430c9288c40c7ae2781f3.webp?v=1763847732
+    Price: $62.64 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742873849917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb2d3075276ac4202a5ff794e33f45aach.webp?v=1763847732
+    Price: $62.64 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742873882685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb2d3075276ac4202a5ff794e33f45aach.webp?v=1763847732
+    Price: $62.64 USD
+  - [Black / 34](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742873915453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb2d3075276ac4202a5ff794e33f45aach.webp?v=1763847732
+    Price: $62.64 USD
+  - [Black / 35](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742873948221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb2d3075276ac4202a5ff794e33f45aach.webp?v=1763847732
+    Price: $62.64 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742873980989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb2d3075276ac4202a5ff794e33f45aach.webp?v=1763847732
+    Price: $62.64 USD
+  - [black suede / 34](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742874013757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9f3fce39b1e14e39a34e1927a607adeaP.webp?v=1763841462
+    Price: $62.64 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742874046525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb2d3075276ac4202a5ff794e33f45aach.webp?v=1763847732
+    Price: $62.64 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742874079293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb2d3075276ac4202a5ff794e33f45aach.webp?v=1763847732
+    Price: $62.64 USD
+  - [black suede / 37](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742874112061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9f3fce39b1e14e39a34e1927a607adeaP.webp?v=1763841462
+    Price: $62.64 USD
+  - [black suede / 38](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742874144829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9f3fce39b1e14e39a34e1927a607adeaP.webp?v=1763841462
+    Price: $62.64 USD
+  - [black suede / 35](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742874177597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9f3fce39b1e14e39a34e1927a607adeaP.webp?v=1763841462
+    Price: $62.64 USD
+  - [black suede / 36](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742874210365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9f3fce39b1e14e39a34e1927a607adeaP.webp?v=1763841462
+    Price: $62.64 USD
+  - [black suede / 39](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742874243133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9f3fce39b1e14e39a34e1927a607adeaP.webp?v=1763841462
+    Price: $62.64 USD
+  - [black suede / 40](https://attikk-wear.myshopify.com/products/luxury-knight-women-knee-high-boots?variant=42742874275901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9f3fce39b1e14e39a34e1927a607adeaP.webp?v=1763841462
+    Price: $62.64 USD
+- [Winter 2025 Over-the-Knee Women Boots](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots): Shop the stylish Winter 2025 Over-the-Knee Women Boots. Available in sizes 34-43, featuring high heels, a pointed toe, and comfortable fit.
+  Updated: 2025-11-23T07:59:57Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8ff48145428b4e5da77a3023842e2126I.webp?v=1763841585
+  - [Black / 38](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742874898493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa157a2383e914908b488970eef5b5104a.webp?v=1763847731
+    Price: $61.34 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742874931261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa157a2383e914908b488970eef5b5104a.webp?v=1763847731
+    Price: $61.34 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742874964029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa157a2383e914908b488970eef5b5104a.webp?v=1763847731
+    Price: $61.34 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742874996797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa157a2383e914908b488970eef5b5104a.webp?v=1763847731
+    Price: $61.34 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875029565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa157a2383e914908b488970eef5b5104a.webp?v=1763847731
+    Price: $61.34 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875062333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa157a2383e914908b488970eef5b5104a.webp?v=1763847731
+    Price: $61.34 USD
+  - [red / 35](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875095101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50004ed76e22491b9ab14e1f6656a28bC.webp?v=1763847731
+    Price: $61.34 USD
+  - [Black / 43](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875127869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa157a2383e914908b488970eef5b5104a.webp?v=1763847731
+    Price: $61.34 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875160637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa157a2383e914908b488970eef5b5104a.webp?v=1763847731
+    Price: $61.34 USD
+  - [Black / 35](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875193405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa157a2383e914908b488970eef5b5104a.webp?v=1763847731
+    Price: $61.34 USD
+  - [Gray / 36](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875226173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfe7a028786ce4f9c824571ae14ba5db0g.webp?v=1763841585
+    Price: $61.34 USD
+  - [Gray / 35](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875258941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfe7a028786ce4f9c824571ae14ba5db0g.webp?v=1763841585
+    Price: $61.34 USD
+  - [Gray / 38](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875291709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfe7a028786ce4f9c824571ae14ba5db0g.webp?v=1763841585
+    Price: $61.34 USD
+  - [Gray / 37](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875324477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfe7a028786ce4f9c824571ae14ba5db0g.webp?v=1763841585
+    Price: $61.34 USD
+  - [Gray / 40](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875357245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfe7a028786ce4f9c824571ae14ba5db0g.webp?v=1763841585
+    Price: $61.34 USD
+  - [Gray / 39](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875390013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfe7a028786ce4f9c824571ae14ba5db0g.webp?v=1763841585
+    Price: $61.34 USD
+  - [Gray / 42](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875422781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfe7a028786ce4f9c824571ae14ba5db0g.webp?v=1763841585
+    Price: $61.34 USD
+  - [Gray / 41](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875455549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfe7a028786ce4f9c824571ae14ba5db0g.webp?v=1763841585
+    Price: $61.34 USD
+  - [red / 37](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875488317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50004ed76e22491b9ab14e1f6656a28bC.webp?v=1763847731
+    Price: $61.34 USD
+  - [red / 36](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875521085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50004ed76e22491b9ab14e1f6656a28bC.webp?v=1763847731
+    Price: $61.34 USD
+  - [red / 39](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875553853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50004ed76e22491b9ab14e1f6656a28bC.webp?v=1763847731
+    Price: $61.34 USD
+  - [red / 38](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875586621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50004ed76e22491b9ab14e1f6656a28bC.webp?v=1763847731
+    Price: $61.34 USD
+  - [red / 41](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875619389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50004ed76e22491b9ab14e1f6656a28bC.webp?v=1763847731
+    Price: $61.34 USD
+  - [red / 40](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875652157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50004ed76e22491b9ab14e1f6656a28bC.webp?v=1763847731
+    Price: $61.34 USD
+  - [red / 43](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875684925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50004ed76e22491b9ab14e1f6656a28bC.webp?v=1763847731
+    Price: $61.34 USD
+  - [red / 42](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875717693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S50004ed76e22491b9ab14e1f6656a28bC.webp?v=1763847731
+    Price: $61.34 USD
+  - [Gray / 43](https://attikk-wear.myshopify.com/products/winter-2025-over-the-knee-women-boots?variant=42742875750461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfe7a028786ce4f9c824571ae14ba5db0g.webp?v=1763841585
+    Price: $61.34 USD
+- [2025 High Flat Platform Sneakers for Women](https://attikk-wear.myshopify.com/products/2025-high-flat-platform-sneakers-women): Shop the 2025 High Flat Platform Sneakers. Featuring a hidden 9cm wedge, these stylish and comfortable shoes are perfect for casual outings in spring and autumn.
+  Updated: 2025-11-23T08:02:27Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hc43ed24374ff43779e650e17ea64bddff.webp?v=1763841742
+  - [red / 36](https://attikk-wear.myshopify.com/products/2025-high-flat-platform-sneakers-women?variant=42742880632893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3fe60c3afecb4ab2bdaa81338bf466deq.webp?v=1763847731
+    Price: $54.15 USD
+  - [red / 35](https://attikk-wear.myshopify.com/products/2025-high-flat-platform-sneakers-women?variant=42742880665661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3fe60c3afecb4ab2bdaa81338bf466deq.webp?v=1763847731
+    Price: $54.15 USD
+  - [White / 39](https://attikk-wear.myshopify.com/products/2025-high-flat-platform-sneakers-women?variant=42742880698429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H31eee5fb316548409926e2eaa435af9dI.webp?v=1763847731
+    Price: $54.15 USD
+  - [White / 38](https://attikk-wear.myshopify.com/products/2025-high-flat-platform-sneakers-women?variant=42742880731197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H31eee5fb316548409926e2eaa435af9dI.webp?v=1763847731
+    Price: $54.15 USD
+  - [Black / 35](https://attikk-wear.myshopify.com/products/2025-high-flat-platform-sneakers-women?variant=42742880763965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hacb0b11cee7e4022bba33925ff5c067ef.webp?v=1763847731
+    Price: $54.15 USD
+  - [red / 39](https://attikk-wear.myshopify.com/products/2025-high-flat-platform-sneakers-women?variant=42742880796733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3fe60c3afecb4ab2bdaa81338bf466deq.webp?v=1763847731
+    Price: $54.15 USD
+  - [red / 38](https://attikk-wear.myshopify.com/products/2025-high-flat-platform-sneakers-women?variant=42742880829501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3fe60c3afecb4ab2bdaa81338bf466deq.webp?v=1763847731
+    Price: $54.15 USD
+  - [red / 37](https://attikk-wear.myshopify.com/products/2025-high-flat-platform-sneakers-women?variant=42742880862269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3fe60c3afecb4ab2bdaa81338bf466deq.webp?v=1763847731
+    Price: $54.15 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/2025-high-flat-platform-sneakers-women?variant=42742880895037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hacb0b11cee7e4022bba33925ff5c067ef.webp?v=1763847731
+    Price: $54.15 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/2025-high-flat-platform-sneakers-women?variant=42742880927805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hacb0b11cee7e4022bba33925ff5c067ef.webp?v=1763847731
+    Price: $54.15 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/2025-high-flat-platform-sneakers-women?variant=42742880960573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hacb0b11cee7e4022bba33925ff5c067ef.webp?v=1763847731
+    Price: $54.15 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/2025-high-flat-platform-sneakers-women?variant=42742880993341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hacb0b11cee7e4022bba33925ff5c067ef.webp?v=1763847731
+    Price: $54.15 USD
+  - [White / 37](https://attikk-wear.myshopify.com/products/2025-high-flat-platform-sneakers-women?variant=42742881026109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H31eee5fb316548409926e2eaa435af9dI.webp?v=1763847731
+    Price: $54.15 USD
+  - [White / 36](https://attikk-wear.myshopify.com/products/2025-high-flat-platform-sneakers-women?variant=42742881058877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H31eee5fb316548409926e2eaa435af9dI.webp?v=1763847731
+    Price: $54.15 USD
+  - [White / 35](https://attikk-wear.myshopify.com/products/2025-high-flat-platform-sneakers-women?variant=42742881091645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H31eee5fb316548409926e2eaa435af9dI.webp?v=1763847731
+    Price: $54.15 USD
+- [Black Super Platform Over the Knee Boots - Elegant Women Shoes](https://attikk-wear.myshopify.com/products/black-super-platform-over-the-knee-boots): Discover our elegant Black Super Platform Over the Knee Boots, featuring stiletto heels and high-quality matte leather. Perfect for dance and parties.
+  Updated: 2025-11-23T08:04:38Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S844d11402e8a47f3b4044995fe1da7d9O.webp?v=1763860959
+  - [Black / 45 / CHINA](https://attikk-wear.myshopify.com/products/black-super-platform-over-the-knee-boots?variant=42742882893885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S844d11402e8a47f3b4044995fe1da7d9O.webp?v=1763860959
+    Price: $185.62 USD
+  - [Black / 46 / CHINA](https://attikk-wear.myshopify.com/products/black-super-platform-over-the-knee-boots?variant=42742882926653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S844d11402e8a47f3b4044995fe1da7d9O.webp?v=1763860959
+    Price: $185.62 USD
+  - [Black / 41 / CHINA](https://attikk-wear.myshopify.com/products/black-super-platform-over-the-knee-boots?variant=42742882959421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S844d11402e8a47f3b4044995fe1da7d9O.webp?v=1763860959
+    Price: $185.62 USD
+  - [Black / 42 / CHINA](https://attikk-wear.myshopify.com/products/black-super-platform-over-the-knee-boots?variant=42742882992189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S844d11402e8a47f3b4044995fe1da7d9O.webp?v=1763860959
+    Price: $185.62 USD
+  - [Black / 43 / CHINA](https://attikk-wear.myshopify.com/products/black-super-platform-over-the-knee-boots?variant=42742883024957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S844d11402e8a47f3b4044995fe1da7d9O.webp?v=1763860959
+    Price: $185.62 USD
+  - [Black / 44 / CHINA](https://attikk-wear.myshopify.com/products/black-super-platform-over-the-knee-boots?variant=42742883057725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S844d11402e8a47f3b4044995fe1da7d9O.webp?v=1763860959
+    Price: $185.62 USD
+  - [Black / 37 / CHINA](https://attikk-wear.myshopify.com/products/black-super-platform-over-the-knee-boots?variant=42742883090493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S844d11402e8a47f3b4044995fe1da7d9O.webp?v=1763860959
+    Price: $185.62 USD
+  - [Black / 38 / CHINA](https://attikk-wear.myshopify.com/products/black-super-platform-over-the-knee-boots?variant=42742883123261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S844d11402e8a47f3b4044995fe1da7d9O.webp?v=1763860959
+    Price: $185.62 USD
+  - [Black / 39 / CHINA](https://attikk-wear.myshopify.com/products/black-super-platform-over-the-knee-boots?variant=42742883156029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S844d11402e8a47f3b4044995fe1da7d9O.webp?v=1763860959
+    Price: $185.62 USD
+  - [Black / 40 / CHINA](https://attikk-wear.myshopify.com/products/black-super-platform-over-the-knee-boots?variant=42742883188797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S844d11402e8a47f3b4044995fe1da7d9O.webp?v=1763860959
+    Price: $185.62 USD
+  - [Black / 20 / CHINA](https://attikk-wear.myshopify.com/products/black-super-platform-over-the-knee-boots?variant=42742883221565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S844d11402e8a47f3b4044995fe1da7d9O.webp?v=1763860959
+    Price: $185.62 USD
+  - [Black / 35 / CHINA](https://attikk-wear.myshopify.com/products/black-super-platform-over-the-knee-boots?variant=42742883254333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S844d11402e8a47f3b4044995fe1da7d9O.webp?v=1763860959
+    Price: $185.62 USD
+  - [Black / 36 / CHINA](https://attikk-wear.myshopify.com/products/black-super-platform-over-the-knee-boots?variant=42742883287101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S844d11402e8a47f3b4044995fe1da7d9O.webp?v=1763860959
+    Price: $185.62 USD
+- [Hlieny 2025 Women Platform Sandals - Stylish High Heels](https://attikk-wear.myshopify.com/products/hlieny-2025-women-platform-sandals): Shop the Hlieny 2025 New Women Platform Sandals featuring sexy peep toe, ankle buckle, and a stunning high heel design. Perfect for parties and weddings.
+  Updated: 2025-11-23T08:09:04Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdec654e7a5e74b4f9856a306ef51ef43a.webp?v=1763842138
+  - [Black / 39](https://attikk-wear.myshopify.com/products/hlieny-2025-women-platform-sandals?variant=42742886531133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S09e25623dba6444da3b1e4d2fa3a9dfcx.webp?v=1763842138
+    Price: $72.34 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/hlieny-2025-women-platform-sandals?variant=42742886563901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S09e25623dba6444da3b1e4d2fa3a9dfcx.webp?v=1763842138
+    Price: $72.34 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/hlieny-2025-women-platform-sandals?variant=42742886596669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S09e25623dba6444da3b1e4d2fa3a9dfcx.webp?v=1763842138
+    Price: $72.34 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/hlieny-2025-women-platform-sandals?variant=42742886629437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S09e25623dba6444da3b1e4d2fa3a9dfcx.webp?v=1763842138
+    Price: $72.34 USD
+  - [Black / 35](https://attikk-wear.myshopify.com/products/hlieny-2025-women-platform-sandals?variant=42742886662205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S09e25623dba6444da3b1e4d2fa3a9dfcx.webp?v=1763842138
+    Price: $72.34 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/hlieny-2025-women-platform-sandals?variant=42742886694973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S09e25623dba6444da3b1e4d2fa3a9dfcx.webp?v=1763842138
+    Price: $72.34 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/hlieny-2025-women-platform-sandals?variant=42742886727741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S09e25623dba6444da3b1e4d2fa3a9dfcx.webp?v=1763842138
+    Price: $72.34 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/hlieny-2025-women-platform-sandals?variant=42742886760509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S09e25623dba6444da3b1e4d2fa3a9dfcx.webp?v=1763842138
+    Price: $72.34 USD
+- [Eilyken 2025 Sexy High Heels Slippers for Women](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals): Shop Eilyken 2025 Sexy High Heels Women Slippers. Perfect for parties, these fashionable platform mules are a must-have for any stylish wardrobe.
+  Updated: 2025-11-23T08:13:10Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hfcde33729e1a4691bfc3d6f747a40055j.webp?v=1763842377
+  - [Black / 35](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887219261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5a66d5db923146108f72cc60da5d84f2n.webp?v=1763847731
+    Price: $46.83 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887252029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5a66d5db923146108f72cc60da5d84f2n.webp?v=1763847731
+    Price: $46.83 USD
+  - [deep nude / 37](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887284797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa500a6e670554a00983fd7f2ecce72dfD.webp?v=1763847731
+    Price: $46.83 USD
+  - [deep nude / 38](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887317565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa500a6e670554a00983fd7f2ecce72dfD.webp?v=1763847731
+    Price: $46.83 USD
+  - [deep nude / 40](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887350333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa500a6e670554a00983fd7f2ecce72dfD.webp?v=1763847731
+    Price: $46.83 USD
+  - [deep nude / 39](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887383101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa500a6e670554a00983fd7f2ecce72dfD.webp?v=1763847731
+    Price: $46.83 USD
+  - [deep nude / 42](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887415869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa500a6e670554a00983fd7f2ecce72dfD.webp?v=1763847731
+    Price: $46.83 USD
+  - [deep nude / 41](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887448637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa500a6e670554a00983fd7f2ecce72dfD.webp?v=1763847731
+    Price: $46.83 USD
+  - [White / 37](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887481405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ce1f3046e4242f89598921f4a06ee8bT.webp?v=1763847731
+    Price: $46.83 USD
+  - [White / 38](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887514173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ce1f3046e4242f89598921f4a06ee8bT.webp?v=1763847731
+    Price: $46.83 USD
+  - [White / 39](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887546941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ce1f3046e4242f89598921f4a06ee8bT.webp?v=1763847731
+    Price: $46.83 USD
+  - [White / 40](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887579709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ce1f3046e4242f89598921f4a06ee8bT.webp?v=1763847731
+    Price: $46.83 USD
+  - [White / 41](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887612477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ce1f3046e4242f89598921f4a06ee8bT.webp?v=1763847731
+    Price: $46.83 USD
+  - [White / 42](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887645245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ce1f3046e4242f89598921f4a06ee8bT.webp?v=1763847731
+    Price: $46.83 USD
+  - [deep nude / 35](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887678013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa500a6e670554a00983fd7f2ecce72dfD.webp?v=1763847731
+    Price: $46.83 USD
+  - [deep nude / 36](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887710781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa500a6e670554a00983fd7f2ecce72dfD.webp?v=1763847731
+    Price: $46.83 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887743549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5a66d5db923146108f72cc60da5d84f2n.webp?v=1763847731
+    Price: $46.83 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887776317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5a66d5db923146108f72cc60da5d84f2n.webp?v=1763847731
+    Price: $46.83 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887809085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5a66d5db923146108f72cc60da5d84f2n.webp?v=1763847731
+    Price: $46.83 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887841853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5a66d5db923146108f72cc60da5d84f2n.webp?v=1763847731
+    Price: $46.83 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887874621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5a66d5db923146108f72cc60da5d84f2n.webp?v=1763847731
+    Price: $46.83 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887907389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5a66d5db923146108f72cc60da5d84f2n.webp?v=1763847731
+    Price: $46.83 USD
+  - [White / 35](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887940157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ce1f3046e4242f89598921f4a06ee8bT.webp?v=1763847731
+    Price: $46.83 USD
+  - [White / 36](https://attikk-wear.myshopify.com/products/eilyken-2025-sexy-high-heels-women-slippers-sandals?variant=42742887972925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ce1f3046e4242f89598921f4a06ee8bT.webp?v=1763847731
+    Price: $46.83 USD
+- [Retro](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes): Discover our Playful Retro Lace-Up Shoes for women. Trendy, waterproof, and perfect for summer adventures. Step into style today!
+  Updated: 2025-11-23T22:24:05Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7ef80e184aeb4fb496297930a58a95baq.webp?v=1763922638
+  - [35 / Black](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743889559613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbe35da2eb02649b094a9569af610247em.webp?v=1763922637
+    Price: $55.21 USD
+  - [36 / Black](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743889592381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbe35da2eb02649b094a9569af610247em.webp?v=1763922637
+    Price: $55.21 USD
+  - [37 / Black](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743889625149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbe35da2eb02649b094a9569af610247em.webp?v=1763922637
+    Price: $55.21 USD
+  - [38 / Black](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743889657917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbe35da2eb02649b094a9569af610247em.webp?v=1763922637
+    Price: $55.21 USD
+  - [39 / Black](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743889690685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbe35da2eb02649b094a9569af610247em.webp?v=1763922637
+    Price: $55.21 USD
+  - [40 / Black](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743889723453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbe35da2eb02649b094a9569af610247em.webp?v=1763922637
+    Price: $55.21 USD
+  - [35 / Red](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743889756221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3b398649f91a40e59104bcd291fe258fU.webp?v=1763922639
+    Price: $55.21 USD
+  - [39 / Khaki](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743889788989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8622723516694480be9a49c26476b0b2Y.webp?v=1763922638
+    Price: $55.21 USD
+  - [40 / Red](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743889821757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3b398649f91a40e59104bcd291fe258fU.webp?v=1763922639
+    Price: $55.21 USD
+  - [40 / Khaki](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743889854525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8622723516694480be9a49c26476b0b2Y.webp?v=1763922638
+    Price: $55.21 USD
+  - [35 / Khaki](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743889887293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8622723516694480be9a49c26476b0b2Y.webp?v=1763922638
+    Price: $55.21 USD
+  - [36 / Red](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743889920061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3b398649f91a40e59104bcd291fe258fU.webp?v=1763922639
+    Price: $55.21 USD
+  - [36 / Khaki](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743889952829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8622723516694480be9a49c26476b0b2Y.webp?v=1763922638
+    Price: $55.21 USD
+  - [37 / Red](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743889985597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3b398649f91a40e59104bcd291fe258fU.webp?v=1763922639
+    Price: $55.21 USD
+  - [37 / Khaki](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743890018365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8622723516694480be9a49c26476b0b2Y.webp?v=1763922638
+    Price: $55.21 USD
+  - [38 / Red](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743890051133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3b398649f91a40e59104bcd291fe258fU.webp?v=1763922639
+    Price: $55.21 USD
+  - [38 / Khaki](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743890083901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8622723516694480be9a49c26476b0b2Y.webp?v=1763922638
+    Price: $55.21 USD
+  - [39 / Red](https://attikk-wear.myshopify.com/products/playful-retro-lace-up-shoes?variant=42743890116669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3b398649f91a40e59104bcd291fe258fU.webp?v=1763922639
+    Price: $55.21 USD
+- [Eilyken Sexy Over-The-Knee High Heels Boots for Women](https://attikk-wear.myshopify.com/products/eilyken-sexy-fashion-pointed-toe-over-the-knee-boots): Shop Eilyken's Sexy Over-The-Knee Boots for Women. Red zipper high heels perfect for winter fashion. Elevate your style with these stunning boots!
+  Updated: 2025-11-23T22:24:06Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c4e1d7fe26b4f9aa1efbfc691e85e93s.webp?v=1763922940
+  - [Red / 35](https://attikk-wear.myshopify.com/products/eilyken-sexy-fashion-pointed-toe-over-the-knee-boots?variant=42743894310973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c4e1d7fe26b4f9aa1efbfc691e85e93s.webp?v=1763922940
+    Price: $66.46 USD
+  - [Red / 36](https://attikk-wear.myshopify.com/products/eilyken-sexy-fashion-pointed-toe-over-the-knee-boots?variant=42743894343741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c4e1d7fe26b4f9aa1efbfc691e85e93s.webp?v=1763922940
+    Price: $66.46 USD
+  - [Red / 41](https://attikk-wear.myshopify.com/products/eilyken-sexy-fashion-pointed-toe-over-the-knee-boots?variant=42743894376509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c4e1d7fe26b4f9aa1efbfc691e85e93s.webp?v=1763922940
+    Price: $66.46 USD
+  - [Red / 42](https://attikk-wear.myshopify.com/products/eilyken-sexy-fashion-pointed-toe-over-the-knee-boots?variant=42743894409277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c4e1d7fe26b4f9aa1efbfc691e85e93s.webp?v=1763922940
+    Price: $66.46 USD
+  - [Black / 35](https://attikk-wear.myshopify.com/products/eilyken-sexy-fashion-pointed-toe-over-the-knee-boots?variant=42743894442045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa4b68c521ebd414793a79504def508d0o.webp?v=1763936645
+    Price: $66.46 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/eilyken-sexy-fashion-pointed-toe-over-the-knee-boots?variant=42743894474813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa4b68c521ebd414793a79504def508d0o.webp?v=1763936645
+    Price: $66.46 USD
+  - [Red / 37](https://attikk-wear.myshopify.com/products/eilyken-sexy-fashion-pointed-toe-over-the-knee-boots?variant=42743894507581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c4e1d7fe26b4f9aa1efbfc691e85e93s.webp?v=1763922940
+    Price: $66.46 USD
+  - [Red / 38](https://attikk-wear.myshopify.com/products/eilyken-sexy-fashion-pointed-toe-over-the-knee-boots?variant=42743894540349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c4e1d7fe26b4f9aa1efbfc691e85e93s.webp?v=1763922940
+    Price: $66.46 USD
+  - [Red / 39](https://attikk-wear.myshopify.com/products/eilyken-sexy-fashion-pointed-toe-over-the-knee-boots?variant=42743894573117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c4e1d7fe26b4f9aa1efbfc691e85e93s.webp?v=1763922940
+    Price: $66.46 USD
+  - [Red / 40](https://attikk-wear.myshopify.com/products/eilyken-sexy-fashion-pointed-toe-over-the-knee-boots?variant=42743894605885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1c4e1d7fe26b4f9aa1efbfc691e85e93s.webp?v=1763922940
+    Price: $66.46 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/eilyken-sexy-fashion-pointed-toe-over-the-knee-boots?variant=42743894638653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa4b68c521ebd414793a79504def508d0o.webp?v=1763936645
+    Price: $66.46 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/eilyken-sexy-fashion-pointed-toe-over-the-knee-boots?variant=42743894671421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa4b68c521ebd414793a79504def508d0o.webp?v=1763936645
+    Price: $66.46 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/eilyken-sexy-fashion-pointed-toe-over-the-knee-boots?variant=42743894704189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa4b68c521ebd414793a79504def508d0o.webp?v=1763936645
+    Price: $66.46 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/eilyken-sexy-fashion-pointed-toe-over-the-knee-boots?variant=42743894736957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa4b68c521ebd414793a79504def508d0o.webp?v=1763936645
+    Price: $66.46 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/eilyken-sexy-fashion-pointed-toe-over-the-knee-boots?variant=42743894769725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa4b68c521ebd414793a79504def508d0o.webp?v=1763936645
+    Price: $66.46 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/eilyken-sexy-fashion-pointed-toe-over-the-knee-boots?variant=42743894802493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa4b68c521ebd414793a79504def508d0o.webp?v=1763936645
+    Price: $66.46 USD
+- [Sexy Red Satin Stretch Stilettos - Over Knee High Heel Boots for Women](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos): Discover our Sexy Red Satin Stretch Stilettos, perfect for making a fashion statement. These over-the-knee, high-heel boots are designed for the bold woman who loves to shine.
+  Updated: 2025-11-23T22:24:06Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H054776aa29c746f29cb7ea0cfc742feb7.webp?v=1763924962
+  - [Black / 35](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935402045)
+    Availability: Available
+    Price: $84.24 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935434813)
+    Availability: Available
+    Price: $84.24 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935467581)
+    Availability: Available
+    Price: $84.24 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935500349)
+    Availability: Available
+    Price: $84.24 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935533117)
+    Availability: Available
+    Price: $84.24 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935565885)
+    Availability: Available
+    Price: $84.24 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935598653)
+    Availability: Available
+    Price: $84.24 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935631421)
+    Availability: Available
+    Price: $84.24 USD
+  - [Black / 43](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935664189)
+    Availability: Available
+    Price: $84.24 USD
+  - [Black / 44](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935696957)
+    Availability: Available
+    Price: $84.24 USD
+  - [Black / 45](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935729725)
+    Availability: Available
+    Price: $84.24 USD
+  - [Red / 35](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935762493)
+    Availability: Available
+    Price: $84.24 USD
+  - [Red / 36](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935795261)
+    Availability: Available
+    Price: $84.24 USD
+  - [Red / 37](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935828029)
+    Availability: Available
+    Price: $84.24 USD
+  - [Red / 38](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935860797)
+    Availability: Available
+    Price: $84.24 USD
+  - [Red / 39](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935893565)
+    Availability: Available
+    Price: $84.24 USD
+  - [Red / 40](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935926333)
+    Availability: Available
+    Price: $84.24 USD
+  - [Red / 41](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935959101)
+    Availability: Available
+    Price: $84.24 USD
+  - [Red / 42](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743935991869)
+    Availability: Available
+    Price: $84.24 USD
+  - [Red / 43](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743936024637)
+    Availability: Available
+    Price: $84.24 USD
+  - [Red / 44](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743936057405)
+    Availability: Available
+    Price: $84.24 USD
+  - [Red / 45](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743936090173)
+    Availability: Available
+    Price: $84.24 USD
+  - [champagne / 35](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743936122941)
+    Availability: Available
+    Price: $84.24 USD
+  - [champagne / 36](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743936155709)
+    Availability: Available
+    Price: $84.24 USD
+  - [champagne / 37](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743936188477)
+    Availability: Available
+    Price: $84.24 USD
+  - [champagne / 38](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743936221245)
+    Availability: Available
+    Price: $84.24 USD
+  - [champagne / 39](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743936254013)
+    Availability: Available
+    Price: $84.24 USD
+  - [champagne / 40](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743936286781)
+    Availability: Available
+    Price: $84.24 USD
+  - [champagne / 41](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743936319549)
+    Availability: Available
+    Price: $84.24 USD
+  - [champagne / 42](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743936352317)
+    Availability: Available
+    Price: $84.24 USD
+  - [champagne / 43](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743936385085)
+    Availability: Available
+    Price: $84.24 USD
+  - [champagne / 44](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743936417853)
+    Availability: Available
+    Price: $84.24 USD
+  - [champagne / 45](https://attikk-wear.myshopify.com/products/sexy-red-satin-stretch-stilettos?variant=42743936450621)
+    Availability: Available
+    Price: $84.24 USD
+- [Wide Feet Size 45 Women’s Soft Flock Over Knee Boots](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels): Discover our Wide Feet Size 45 Women's Soft Flock Over Knee Boots with high thin heels and side zipper. Perfect for all occasions, stylish and customizable!
+  Updated: 2025-11-23T22:24:06Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H0735e41b303545f0bd83e47cd5589419f.webp?v=1763925178
+  - [Black / 35](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743945691197)
+    Availability: Available
+    Price: $103.23 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743945723965)
+    Availability: Available
+    Price: $103.23 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743945756733)
+    Availability: Available
+    Price: $103.23 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743945789501)
+    Availability: Available
+    Price: $103.23 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743945822269)
+    Availability: Available
+    Price: $103.23 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743945855037)
+    Availability: Available
+    Price: $103.23 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743945887805)
+    Availability: Available
+    Price: $103.23 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743945920573)
+    Availability: Available
+    Price: $103.23 USD
+  - [Black / 43](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743945953341)
+    Availability: Available
+    Price: $103.23 USD
+  - [Black / 44](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743945986109)
+    Availability: Available
+    Price: $103.23 USD
+  - [Black / 45](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743946018877)
+    Availability: Available
+    Price: $103.23 USD
+  - [hot pink / 35](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743946051645)
+    Availability: Available
+    Price: $103.23 USD
+  - [hot pink / 36](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743946084413)
+    Availability: Available
+    Price: $103.23 USD
+  - [hot pink / 37](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743946117181)
+    Availability: Available
+    Price: $103.23 USD
+  - [hot pink / 38](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743946149949)
+    Availability: Available
+    Price: $103.23 USD
+  - [hot pink / 39](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743946182717)
+    Availability: Available
+    Price: $103.23 USD
+  - [hot pink / 40](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743946215485)
+    Availability: Available
+    Price: $103.23 USD
+  - [hot pink / 41](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743946248253)
+    Availability: Available
+    Price: $103.23 USD
+  - [hot pink / 42](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743946281021)
+    Availability: Available
+    Price: $103.23 USD
+  - [hot pink / 43](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743946313789)
+    Availability: Available
+    Price: $103.23 USD
+  - [hot pink / 44](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743946346557)
+    Availability: Available
+    Price: $103.23 USD
+  - [hot pink / 45](https://attikk-wear.myshopify.com/products/wide-feet-size-45-women-soft-flock-over-knee-boots-high-thin-heels?variant=42743946379325)
+    Availability: Available
+    Price: $103.23 USD
+- [Elegant Plus Size Knee High Boots for Autumn](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women): Shop our stylish Autumn knee high boots for plus size women. Slip-on design, thin heels, and a vibrant color range for any occasion!
+  Updated: 2025-11-23T22:24:03Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/He44193c990bf4309af4c35d727b9d8da8.webp?v=1763925427
+  - [Purple / 38](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743965843517)
+    Availability: Available
+    Price: $89.42 USD
+  - [Purple / 40](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743965876285)
+    Availability: Available
+    Price: $89.42 USD
+  - [Purple / 41](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743965909053)
+    Availability: Available
+    Price: $89.42 USD
+  - [Purple / 42](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743965941821)
+    Availability: Available
+    Price: $89.42 USD
+  - [Purple / 43](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743965974589)
+    Availability: Available
+    Price: $89.42 USD
+  - [Purple / 44](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966007357)
+    Availability: Available
+    Price: $89.42 USD
+  - [Purple / 45](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966040125)
+    Availability: Available
+    Price: $89.42 USD
+  - [Purple / 37](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966072893)
+    Availability: Available
+    Price: $89.42 USD
+  - [Purple / 36](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966105661)
+    Availability: Available
+    Price: $89.42 USD
+  - [Purple / 35](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966138429)
+    Availability: Available
+    Price: $89.42 USD
+  - [Purple / 39](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966171197)
+    Availability: Available
+    Price: $89.42 USD
+  - [Blue / 38](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966203965)
+    Availability: Available
+    Price: $89.42 USD
+  - [Blue / 40](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966236733)
+    Availability: Available
+    Price: $89.42 USD
+  - [Blue / 41](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966269501)
+    Availability: Available
+    Price: $89.42 USD
+  - [Blue / 42](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966302269)
+    Availability: Available
+    Price: $89.42 USD
+  - [Blue / 43](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966335037)
+    Availability: Available
+    Price: $89.42 USD
+  - [Blue / 44](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966367805)
+    Availability: Available
+    Price: $89.42 USD
+  - [Blue / 45](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966400573)
+    Availability: Available
+    Price: $89.42 USD
+  - [Blue / 37](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966433341)
+    Availability: Available
+    Price: $89.42 USD
+  - [Blue / 36](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966466109)
+    Availability: Available
+    Price: $89.42 USD
+  - [Blue / 35](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966498877)
+    Availability: Available
+    Price: $89.42 USD
+  - [Blue / 39](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966531645)
+    Availability: Available
+    Price: $89.42 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966564413)
+    Availability: Available
+    Price: $89.42 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966597181)
+    Availability: Available
+    Price: $89.42 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966629949)
+    Availability: Available
+    Price: $89.42 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966662717)
+    Availability: Available
+    Price: $89.42 USD
+  - [Black / 43](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966695485)
+    Availability: Available
+    Price: $89.42 USD
+  - [Black / 44](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966728253)
+    Availability: Available
+    Price: $89.42 USD
+  - [Black / 45](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966761021)
+    Availability: Available
+    Price: $89.42 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966793789)
+    Availability: Available
+    Price: $89.42 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966826557)
+    Availability: Available
+    Price: $89.42 USD
+  - [Black / 35](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966859325)
+    Availability: Available
+    Price: $89.42 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966892093)
+    Availability: Available
+    Price: $89.42 USD
+  - [Red / 38](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966924861)
+    Availability: Available
+    Price: $89.42 USD
+  - [Red / 40](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966957629)
+    Availability: Available
+    Price: $89.42 USD
+  - [Red / 41](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743966990397)
+    Availability: Available
+    Price: $89.42 USD
+  - [Red / 42](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743967023165)
+    Availability: Available
+    Price: $89.42 USD
+  - [Red / 43](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743967055933)
+    Availability: Available
+    Price: $89.42 USD
+  - [Red / 44](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743967088701)
+    Availability: Available
+    Price: $89.42 USD
+  - [Red / 45](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743967121469)
+    Availability: Available
+    Price: $89.42 USD
+  - [Red / 37](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743967154237)
+    Availability: Available
+    Price: $89.42 USD
+  - [Red / 36](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743967187005)
+    Availability: Available
+    Price: $89.42 USD
+  - [Red / 35](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743967219773)
+    Availability: Available
+    Price: $89.42 USD
+  - [Red / 39](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743967252541)
+    Availability: Available
+    Price: $89.42 USD
+  - [Green / 38](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743967285309)
+    Availability: Available
+    Price: $89.42 USD
+  - [Green / 40](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743967318077)
+    Availability: Available
+    Price: $89.42 USD
+  - [Green / 41](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743967350845)
+    Availability: Available
+    Price: $89.42 USD
+  - [Green / 42](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743967383613)
+    Availability: Available
+    Price: $89.42 USD
+  - [Green / 43](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743967416381)
+    Availability: Available
+    Price: $89.42 USD
+  - [Green / 44](https://attikk-wear.myshopify.com/products/autumn-knee-high-boots-plus-size-women?variant=42743967449149)
+    Availability: Available
+    Price: $89.42 USD
+- [Customized Knee High Women's Dress Boots](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots): Shop stylish Customized Colors Knee High Women's Dress Boots with pointed toe and stiletto heels. Perfect for parties and weddings!
+  Updated: 2025-11-23T22:24:05Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H4fc54ad67adb4ab3941b024d0bd2eb73f.webp?v=1763925643
+  - [Yellow / 35](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743979638845)
+    Availability: Available
+    Price: $95.43 USD
+  - [Yellow / 36](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743979671613)
+    Availability: Available
+    Price: $95.43 USD
+  - [Yellow / 37](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743979704381)
+    Availability: Available
+    Price: $95.43 USD
+  - [Yellow / 38](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743979737149)
+    Availability: Available
+    Price: $95.43 USD
+  - [Yellow / 39](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743979769917)
+    Availability: Available
+    Price: $95.43 USD
+  - [Yellow / 40](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743979802685)
+    Availability: Available
+    Price: $95.43 USD
+  - [Yellow / 41](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743979835453)
+    Availability: Available
+    Price: $95.43 USD
+  - [Yellow / 42](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743979868221)
+    Availability: Available
+    Price: $95.43 USD
+  - [Yellow / 43](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743979900989)
+    Availability: Available
+    Price: $95.43 USD
+  - [Yellow / 44](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743979933757)
+    Availability: Available
+    Price: $95.43 USD
+  - [Yellow / 45](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743979966525)
+    Availability: Available
+    Price: $95.43 USD
+  - [Black / 35](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743979999293)
+    Availability: Available
+    Price: $95.43 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980032061)
+    Availability: Available
+    Price: $95.43 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980064829)
+    Availability: Available
+    Price: $95.43 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980097597)
+    Availability: Available
+    Price: $95.43 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980130365)
+    Availability: Available
+    Price: $95.43 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980163133)
+    Availability: Available
+    Price: $95.43 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980195901)
+    Availability: Available
+    Price: $95.43 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980228669)
+    Availability: Available
+    Price: $95.43 USD
+  - [Black / 43](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980261437)
+    Availability: Available
+    Price: $95.43 USD
+  - [Black / 44](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980294205)
+    Availability: Available
+    Price: $95.43 USD
+  - [Black / 45](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980326973)
+    Availability: Available
+    Price: $95.43 USD
+  - [apricot / 35](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980359741)
+    Availability: Available
+    Price: $95.43 USD
+  - [apricot / 36](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980392509)
+    Availability: Available
+    Price: $95.43 USD
+  - [apricot / 37](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980425277)
+    Availability: Available
+    Price: $95.43 USD
+  - [apricot / 38](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980458045)
+    Availability: Available
+    Price: $95.43 USD
+  - [apricot / 39](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980490813)
+    Availability: Available
+    Price: $95.43 USD
+  - [apricot / 40](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980523581)
+    Availability: Available
+    Price: $95.43 USD
+  - [apricot / 41](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980556349)
+    Availability: Available
+    Price: $95.43 USD
+  - [apricot / 42](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980589117)
+    Availability: Available
+    Price: $95.43 USD
+  - [apricot / 43](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980621885)
+    Availability: Available
+    Price: $95.43 USD
+  - [apricot / 44](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980654653)
+    Availability: Available
+    Price: $95.43 USD
+  - [apricot / 45](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980687421)
+    Availability: Available
+    Price: $95.43 USD
+  - [dark green / 35](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980720189)
+    Availability: Available
+    Price: $95.43 USD
+  - [dark green / 36](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980752957)
+    Availability: Available
+    Price: $95.43 USD
+  - [dark green / 37](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980785725)
+    Availability: Available
+    Price: $95.43 USD
+  - [dark green / 38](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980818493)
+    Availability: Available
+    Price: $95.43 USD
+  - [dark green / 39](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980851261)
+    Availability: Available
+    Price: $95.43 USD
+  - [dark green / 40](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980884029)
+    Availability: Available
+    Price: $95.43 USD
+  - [dark green / 41](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980916797)
+    Availability: Available
+    Price: $95.43 USD
+  - [dark green / 42](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980949565)
+    Availability: Available
+    Price: $95.43 USD
+  - [dark green / 43](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743980982333)
+    Availability: Available
+    Price: $95.43 USD
+  - [dark green / 44](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743981015101)
+    Availability: Available
+    Price: $95.43 USD
+  - [dark green / 45](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743981047869)
+    Availability: Available
+    Price: $95.43 USD
+  - [darkblue / 35](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743981080637)
+    Availability: Available
+    Price: $95.43 USD
+  - [darkblue / 36](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743981113405)
+    Availability: Available
+    Price: $95.43 USD
+  - [darkblue / 37](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743981146173)
+    Availability: Available
+    Price: $95.43 USD
+  - [darkblue / 38](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743981178941)
+    Availability: Available
+    Price: $95.43 USD
+  - [darkblue / 39](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743981211709)
+    Availability: Available
+    Price: $95.43 USD
+  - [darkblue / 40](https://attikk-wear.myshopify.com/products/customized-colors-knee-high-womens-dress-boots?variant=42743981244477)
+    Availability: Available
+    Price: $95.43 USD
+- [Stylish Big Size EU 46 Suede Knee High Boots for Women](https://attikk-wear.myshopify.com/products/big-size-eu-46-suede-knee-high-boots): Discover our Big Size EU 46 Suede Women Pointy Toe Knee High Boots with stiletto heels and metal lock decor. Perfect for parties and stylish outings!
+  Updated: 2025-11-23T22:24:03Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H038dbfb962a642f58932960f6d2edecaF.webp?v=1763925751
+  - [Brown / 35](https://attikk-wear.myshopify.com/products/big-size-eu-46-suede-knee-high-boots?variant=42743987142717)
+    Availability: Available
+    Price: $115.00 USD
+  - [Brown / 36](https://attikk-wear.myshopify.com/products/big-size-eu-46-suede-knee-high-boots?variant=42743987175485)
+    Availability: Available
+    Price: $115.00 USD
+  - [Brown / 37](https://attikk-wear.myshopify.com/products/big-size-eu-46-suede-knee-high-boots?variant=42743987208253)
+    Availability: Available
+    Price: $115.00 USD
+  - [Brown / 38](https://attikk-wear.myshopify.com/products/big-size-eu-46-suede-knee-high-boots?variant=42743987241021)
+    Availability: Available
+    Price: $115.00 USD
+  - [Brown / 39](https://attikk-wear.myshopify.com/products/big-size-eu-46-suede-knee-high-boots?variant=42743987273789)
+    Availability: Available
+    Price: $115.00 USD
+  - [Brown / 40](https://attikk-wear.myshopify.com/products/big-size-eu-46-suede-knee-high-boots?variant=42743987306557)
+    Availability: Available
+    Price: $115.00 USD
+  - [Brown / 41](https://attikk-wear.myshopify.com/products/big-size-eu-46-suede-knee-high-boots?variant=42743987339325)
+    Availability: Available
+    Price: $115.00 USD
+  - [Brown / 42](https://attikk-wear.myshopify.com/products/big-size-eu-46-suede-knee-high-boots?variant=42743987372093)
+    Availability: Available
+    Price: $115.00 USD
+  - [Brown / 43](https://attikk-wear.myshopify.com/products/big-size-eu-46-suede-knee-high-boots?variant=42743987404861)
+    Availability: Available
+    Price: $115.00 USD
+  - [Brown / 44](https://attikk-wear.myshopify.com/products/big-size-eu-46-suede-knee-high-boots?variant=42743987437629)
+    Availability: Available
+    Price: $115.00 USD
+  - [Brown / 45](https://attikk-wear.myshopify.com/products/big-size-eu-46-suede-knee-high-boots?variant=42743987470397)
+    Availability: Available
+    Price: $115.00 USD
+  - [Brown / 46](https://attikk-wear.myshopify.com/products/big-size-eu-46-suede-knee-high-boots?variant=42743987503165)
+    Availability: Available
+    Price: $115.00 USD
+- [Shop Patchwork Slim High Heels Size 47 - Colorful Stiletto Pumps](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47): Explore our stylish Patchwork Slim High Heels in size 47. Perfect for wide feet, these colorful stiletto pumps offer comfort and elegance for any evening occasion.
+  Updated: 2025-11-23T22:24:03Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hd6f6a46ea0cd43769db3551dcbc78ee5r.webp?v=1763925902
+  - [White / 5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743988912189)
+    Availability: Available
+    Price: $85.32 USD
+  - [White / 6](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743988944957)
+    Availability: Available
+    Price: $85.32 USD
+  - [White / 6.5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743988977725)
+    Availability: Available
+    Price: $85.32 USD
+  - [White / 7](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989010493)
+    Availability: Available
+    Price: $85.32 USD
+  - [White / 7.5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989043261)
+    Availability: Available
+    Price: $85.32 USD
+  - [White / 8](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989076029)
+    Availability: Available
+    Price: $85.32 USD
+  - [White / 8.5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989108797)
+    Availability: Available
+    Price: $85.32 USD
+  - [White / 9](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989141565)
+    Availability: Available
+    Price: $85.32 USD
+  - [White / 9.5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989174333)
+    Availability: Available
+    Price: $85.32 USD
+  - [White / 10](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989207101)
+    Availability: Available
+    Price: $85.32 USD
+  - [White / 10.5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989239869)
+    Availability: Available
+    Price: $85.32 USD
+  - [White / 11](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989272637)
+    Availability: Available
+    Price: $85.32 USD
+  - [White / 12](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989305405)
+    Availability: Available
+    Price: $85.32 USD
+  - [White / 13](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989338173)
+    Availability: Available
+    Price: $85.32 USD
+  - [apricot / 5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989370941)
+    Availability: Available
+    Price: $85.32 USD
+  - [apricot / 6](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989403709)
+    Availability: Available
+    Price: $85.32 USD
+  - [apricot / 6.5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989436477)
+    Availability: Available
+    Price: $85.32 USD
+  - [apricot / 7](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989469245)
+    Availability: Available
+    Price: $85.32 USD
+  - [apricot / 7.5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989502013)
+    Availability: Available
+    Price: $85.32 USD
+  - [apricot / 8](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989534781)
+    Availability: Available
+    Price: $85.32 USD
+  - [apricot / 8.5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989567549)
+    Availability: Available
+    Price: $85.32 USD
+  - [apricot / 9](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989600317)
+    Availability: Available
+    Price: $85.32 USD
+  - [apricot / 9.5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989633085)
+    Availability: Available
+    Price: $85.32 USD
+  - [apricot / 10](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989665853)
+    Availability: Available
+    Price: $85.32 USD
+  - [apricot / 10.5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989698621)
+    Availability: Available
+    Price: $85.32 USD
+  - [apricot / 11](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989731389)
+    Availability: Available
+    Price: $85.32 USD
+  - [apricot / 12](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989764157)
+    Availability: Available
+    Price: $85.32 USD
+  - [apricot / 13](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989796925)
+    Availability: Available
+    Price: $85.32 USD
+  - [wine red / 5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989829693)
+    Availability: Available
+    Price: $85.32 USD
+  - [wine red / 6](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989862461)
+    Availability: Available
+    Price: $85.32 USD
+  - [wine red / 6.5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989895229)
+    Availability: Available
+    Price: $85.32 USD
+  - [wine red / 7](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989927997)
+    Availability: Available
+    Price: $85.32 USD
+  - [wine red / 7.5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989960765)
+    Availability: Available
+    Price: $85.32 USD
+  - [wine red / 8](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743989993533)
+    Availability: Available
+    Price: $85.32 USD
+  - [wine red / 8.5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743990026301)
+    Availability: Available
+    Price: $85.32 USD
+  - [wine red / 9](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743990059069)
+    Availability: Available
+    Price: $85.32 USD
+  - [wine red / 9.5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743990091837)
+    Availability: Available
+    Price: $85.32 USD
+  - [wine red / 10](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743990124605)
+    Availability: Available
+    Price: $85.32 USD
+  - [wine red / 10.5](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743990157373)
+    Availability: Available
+    Price: $85.32 USD
+  - [wine red / 11](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743990190141)
+    Availability: Available
+    Price: $85.32 USD
+  - [wine red / 12](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743990222909)
+    Availability: Available
+    Price: $85.32 USD
+  - [wine red / 13](https://attikk-wear.myshopify.com/products/patchwork-slim-high-heels-size-47?variant=42743990255677)
+    Availability: Available
+    Price: $85.32 USD
+- [Big Size 47 Women’s Bow-Knotted Pumps](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps): Shop stylish Big Size 47 Women’s Bow-Knotted Pumps with side cut-outs. Perfect for evening wear, these comfy suede shoes feature a chic design and are available in a variety of colors.
+  Updated: 2025-11-23T21:34:33Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H2195c58ef67a4d258fd8da968778eb35R.webp?v=1763926025
+  - [Red / 5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743990517821)
+    Availability: Available
+    Price: $85.34 USD
+  - [Red / 6](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743990550589)
+    Availability: Available
+    Price: $85.34 USD
+  - [Red / 6.5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743990583357)
+    Availability: Available
+    Price: $85.34 USD
+  - [Red / 7](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743990616125)
+    Availability: Available
+    Price: $85.34 USD
+  - [Red / 7.5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743990648893)
+    Availability: Available
+    Price: $85.34 USD
+  - [Red / 8](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743990681661)
+    Availability: Available
+    Price: $85.34 USD
+  - [Red / 8.5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743990714429)
+    Availability: Available
+    Price: $85.34 USD
+  - [Red / 9](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743990747197)
+    Availability: Available
+    Price: $85.34 USD
+  - [Red / 9.5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743990779965)
+    Availability: Available
+    Price: $85.34 USD
+  - [Red / 10](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743990812733)
+    Availability: Available
+    Price: $85.34 USD
+  - [Red / 10.5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743990845501)
+    Availability: Available
+    Price: $85.34 USD
+  - [Red / 11](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743990878269)
+    Availability: Available
+    Price: $85.34 USD
+  - [Red / 12](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743990911037)
+    Availability: Available
+    Price: $85.34 USD
+  - [Red / 13](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743990943805)
+    Availability: Available
+    Price: $85.34 USD
+  - [Black / 5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743990976573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H569013b031f34eea893b52bbfaef7955i.webp?v=1763926025
+    Price: $85.34 USD
+  - [Black / 6](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991009341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H569013b031f34eea893b52bbfaef7955i.webp?v=1763926025
+    Price: $85.34 USD
+  - [Black / 6.5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991042109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H569013b031f34eea893b52bbfaef7955i.webp?v=1763926025
+    Price: $85.34 USD
+  - [Black / 7](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991074877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H569013b031f34eea893b52bbfaef7955i.webp?v=1763926025
+    Price: $85.34 USD
+  - [Black / 7.5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991107645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H569013b031f34eea893b52bbfaef7955i.webp?v=1763926025
+    Price: $85.34 USD
+  - [Black / 8](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991140413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H569013b031f34eea893b52bbfaef7955i.webp?v=1763926025
+    Price: $85.34 USD
+  - [Black / 8.5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991173181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H569013b031f34eea893b52bbfaef7955i.webp?v=1763926025
+    Price: $85.34 USD
+  - [Black / 9](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991205949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H569013b031f34eea893b52bbfaef7955i.webp?v=1763926025
+    Price: $85.34 USD
+  - [Black / 9.5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991238717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H569013b031f34eea893b52bbfaef7955i.webp?v=1763926025
+    Price: $85.34 USD
+  - [Black / 10](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991271485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H569013b031f34eea893b52bbfaef7955i.webp?v=1763926025
+    Price: $85.34 USD
+  - [Black / 10.5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991304253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H569013b031f34eea893b52bbfaef7955i.webp?v=1763926025
+    Price: $85.34 USD
+  - [Black / 11](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991337021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H569013b031f34eea893b52bbfaef7955i.webp?v=1763926025
+    Price: $85.34 USD
+  - [Black / 12](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991369789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H569013b031f34eea893b52bbfaef7955i.webp?v=1763926025
+    Price: $85.34 USD
+  - [Black / 13](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991402557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H569013b031f34eea893b52bbfaef7955i.webp?v=1763926025
+    Price: $85.34 USD
+  - [Grey / 5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991435325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3186e23150f4450a95a4ee35bf40296f6.webp?v=1763926025
+    Price: $85.34 USD
+  - [Grey / 6](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991468093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3186e23150f4450a95a4ee35bf40296f6.webp?v=1763926025
+    Price: $85.34 USD
+  - [Grey / 6.5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991500861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3186e23150f4450a95a4ee35bf40296f6.webp?v=1763926025
+    Price: $85.34 USD
+  - [Grey / 7](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991533629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3186e23150f4450a95a4ee35bf40296f6.webp?v=1763926025
+    Price: $85.34 USD
+  - [Grey / 7.5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991566397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3186e23150f4450a95a4ee35bf40296f6.webp?v=1763926025
+    Price: $85.34 USD
+  - [Grey / 8](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991599165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3186e23150f4450a95a4ee35bf40296f6.webp?v=1763926025
+    Price: $85.34 USD
+  - [Grey / 8.5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991631933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3186e23150f4450a95a4ee35bf40296f6.webp?v=1763926025
+    Price: $85.34 USD
+  - [Grey / 9](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991664701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3186e23150f4450a95a4ee35bf40296f6.webp?v=1763926025
+    Price: $85.34 USD
+  - [Grey / 9.5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991697469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3186e23150f4450a95a4ee35bf40296f6.webp?v=1763926025
+    Price: $85.34 USD
+  - [Grey / 10](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991730237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3186e23150f4450a95a4ee35bf40296f6.webp?v=1763926025
+    Price: $85.34 USD
+  - [Grey / 10.5](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991763005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3186e23150f4450a95a4ee35bf40296f6.webp?v=1763926025
+    Price: $85.34 USD
+  - [Grey / 11](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991795773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3186e23150f4450a95a4ee35bf40296f6.webp?v=1763926025
+    Price: $85.34 USD
+  - [Grey / 12](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991828541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3186e23150f4450a95a4ee35bf40296f6.webp?v=1763926025
+    Price: $85.34 USD
+  - [Grey / 13](https://attikk-wear.myshopify.com/products/big-size-47-womens-bow-knotted-pumps?variant=42743991861309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3186e23150f4450a95a4ee35bf40296f6.webp?v=1763926025
+    Price: $85.34 USD
+- [Sexy High Heels for Women - Pointy Toe Stiletto Pumps](https://attikk-wear.myshopify.com/products/sexy-thin-high-heeled-women-pointy-toe-high-heels): Discover our sexy pointy toe high heels for women. Perfect for parties, weddings, and nights out. Available in size 45, these stylish black polka dot pumps are a must-have!
+  Updated: 2025-11-23T21:58:23Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H090cbc5b48a645138b594715a873e827j.webp?v=1763926212
+  - [White / 10](https://attikk-wear.myshopify.com/products/sexy-thin-high-heeled-women-pointy-toe-high-heels?variant=42743992582205)
+    Availability: Available
+    Price: $66.73 USD
+  - [White / 10.5](https://attikk-wear.myshopify.com/products/sexy-thin-high-heeled-women-pointy-toe-high-heels?variant=42743992614973)
+    Availability: Available
+    Price: $66.73 USD
+  - [White / 11](https://attikk-wear.myshopify.com/products/sexy-thin-high-heeled-women-pointy-toe-high-heels?variant=42743992647741)
+    Availability: Available
+    Price: $66.73 USD
+  - [White / 12](https://attikk-wear.myshopify.com/products/sexy-thin-high-heeled-women-pointy-toe-high-heels?variant=42743992680509)
+    Availability: Available
+    Price: $66.73 USD
+  - [White / 4.5](https://attikk-wear.myshopify.com/products/sexy-thin-high-heeled-women-pointy-toe-high-heels?variant=42743992713277)
+    Availability: Available
+    Price: $66.73 USD
+  - [White / 5.5](https://attikk-wear.myshopify.com/products/sexy-thin-high-heeled-women-pointy-toe-high-heels?variant=42743992746045)
+    Availability: Available
+    Price: $66.73 USD
+  - [White / 6.5](https://attikk-wear.myshopify.com/products/sexy-thin-high-heeled-women-pointy-toe-high-heels?variant=42743992778813)
+    Availability: Available
+    Price: $66.73 USD
+  - [White / 7.5](https://attikk-wear.myshopify.com/products/sexy-thin-high-heeled-women-pointy-toe-high-heels?variant=42743992811581)
+    Availability: Available
+    Price: $66.73 USD
+  - [White / 8](https://attikk-wear.myshopify.com/products/sexy-thin-high-heeled-women-pointy-toe-high-heels?variant=42743992844349)
+    Availability: Available
+    Price: $66.73 USD
+  - [White / 8.5](https://attikk-wear.myshopify.com/products/sexy-thin-high-heeled-women-pointy-toe-high-heels?variant=42743992877117)
+    Availability: Available
+    Price: $66.73 USD
+  - [White / 9](https://attikk-wear.myshopify.com/products/sexy-thin-high-heeled-women-pointy-toe-high-heels?variant=42743992909885)
+    Availability: Available
+    Price: $66.73 USD
+  - [White / 9.5](https://attikk-wear.myshopify.com/products/sexy-thin-high-heeled-women-pointy-toe-high-heels?variant=42743992942653)
+    Availability: Available
+    Price: $66.73 USD
+  - [White / 5](https://attikk-wear.myshopify.com/products/sexy-thin-high-heeled-women-pointy-toe-high-heels?variant=42743992975421)
+    Availability: Available
+    Price: $66.73 USD
+  - [White / 6](https://attikk-wear.myshopify.com/products/sexy-thin-high-heeled-women-pointy-toe-high-heels?variant=42743993008189)
+    Availability: Available
+    Price: $66.73 USD
+  - [White / 7](https://attikk-wear.myshopify.com/products/sexy-thin-high-heeled-women-pointy-toe-high-heels?variant=42743993040957)
+    Availability: Available
+    Price: $66.73 USD
+- [Sexy Leopard High Heels for Women | Slip-On Stiletto Pumps](https://attikk-wear.myshopify.com/products/sexy-leopard-high-heels-slip-on-pumps): Discover the ultimate in style with our Sexy Leopard High Heels. Slip-on design, super high stiletto, and perfect for any occasion!
+  Updated: 2025-11-23T22:25:15Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H4b0654dffd804999b8fadd59d53c4c37b.webp?v=1763926333
+  - [Brown / 10](https://attikk-wear.myshopify.com/products/sexy-leopard-high-heels-slip-on-pumps?variant=42743994843197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H9a3f40d0767d4021b9bd511ad8957792P.webp?v=1763926332
+    Price: $67.34 USD
+  - [Brown / 10.5](https://attikk-wear.myshopify.com/products/sexy-leopard-high-heels-slip-on-pumps?variant=42743994875965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H9a3f40d0767d4021b9bd511ad8957792P.webp?v=1763926332
+    Price: $67.34 USD
+  - [Brown / 11](https://attikk-wear.myshopify.com/products/sexy-leopard-high-heels-slip-on-pumps?variant=42743994908733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H9a3f40d0767d4021b9bd511ad8957792P.webp?v=1763926332
+    Price: $67.34 USD
+  - [Brown / 12](https://attikk-wear.myshopify.com/products/sexy-leopard-high-heels-slip-on-pumps?variant=42743994941501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H9a3f40d0767d4021b9bd511ad8957792P.webp?v=1763926332
+    Price: $67.34 USD
+  - [Brown / 4.5](https://attikk-wear.myshopify.com/products/sexy-leopard-high-heels-slip-on-pumps?variant=42743994974269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H9a3f40d0767d4021b9bd511ad8957792P.webp?v=1763926332
+    Price: $67.34 USD
+  - [Brown / 5.5](https://attikk-wear.myshopify.com/products/sexy-leopard-high-heels-slip-on-pumps?variant=42743995007037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H9a3f40d0767d4021b9bd511ad8957792P.webp?v=1763926332
+    Price: $67.34 USD
+  - [Brown / 6.5](https://attikk-wear.myshopify.com/products/sexy-leopard-high-heels-slip-on-pumps?variant=42743995039805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H9a3f40d0767d4021b9bd511ad8957792P.webp?v=1763926332
+    Price: $67.34 USD
+  - [Brown / 7.5](https://attikk-wear.myshopify.com/products/sexy-leopard-high-heels-slip-on-pumps?variant=42743995072573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H9a3f40d0767d4021b9bd511ad8957792P.webp?v=1763926332
+    Price: $67.34 USD
+  - [Brown / 8](https://attikk-wear.myshopify.com/products/sexy-leopard-high-heels-slip-on-pumps?variant=42743995105341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H9a3f40d0767d4021b9bd511ad8957792P.webp?v=1763926332
+    Price: $67.34 USD
+  - [Brown / 8.5](https://attikk-wear.myshopify.com/products/sexy-leopard-high-heels-slip-on-pumps?variant=42743995138109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H9a3f40d0767d4021b9bd511ad8957792P.webp?v=1763926332
+    Price: $67.34 USD
+  - [Brown / 9](https://attikk-wear.myshopify.com/products/sexy-leopard-high-heels-slip-on-pumps?variant=42743995170877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H9a3f40d0767d4021b9bd511ad8957792P.webp?v=1763926332
+    Price: $67.34 USD
+  - [Brown / 9.5](https://attikk-wear.myshopify.com/products/sexy-leopard-high-heels-slip-on-pumps?variant=42743995203645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H9a3f40d0767d4021b9bd511ad8957792P.webp?v=1763926332
+    Price: $67.34 USD
+  - [Brown / 5](https://attikk-wear.myshopify.com/products/sexy-leopard-high-heels-slip-on-pumps?variant=42743995236413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H9a3f40d0767d4021b9bd511ad8957792P.webp?v=1763926332
+    Price: $67.34 USD
+  - [Brown / 6](https://attikk-wear.myshopify.com/products/sexy-leopard-high-heels-slip-on-pumps?variant=42743995269181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H9a3f40d0767d4021b9bd511ad8957792P.webp?v=1763926332
+    Price: $67.34 USD
+  - [Brown / 7](https://attikk-wear.myshopify.com/products/sexy-leopard-high-heels-slip-on-pumps?variant=42743995301949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H9a3f40d0767d4021b9bd511ad8957792P.webp?v=1763926332
+    Price: $67.34 USD
+- [Extreme High Platform Women Dress Shoes - Size 47 Pumps](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47): Discover our Personalized Extreme High Platform Women Dress Shoes in Size 47 with a striking 22cm heel height. Perfect for pole dancing and fashion shows!
+  Updated: 2025-11-23T21:58:22Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H08649d338be141e9ad5ceb5255d8858dC.webp?v=1763926446
+  - [Red / 35](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997104189)
+    Availability: Available
+    Price: $94.24 USD
+  - [Red / 36](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997136957)
+    Availability: Available
+    Price: $94.24 USD
+  - [Red / 37](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997169725)
+    Availability: Available
+    Price: $94.24 USD
+  - [Red / 38](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997202493)
+    Availability: Available
+    Price: $94.24 USD
+  - [Red / 39](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997235261)
+    Availability: Available
+    Price: $94.24 USD
+  - [Red / 40](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997268029)
+    Availability: Available
+    Price: $94.24 USD
+  - [Red / 41](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997300797)
+    Availability: Available
+    Price: $94.24 USD
+  - [Red / 42](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997333565)
+    Availability: Available
+    Price: $94.24 USD
+  - [Red / 43](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997366333)
+    Availability: Available
+    Price: $94.24 USD
+  - [Red / 44](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997399101)
+    Availability: Available
+    Price: $94.24 USD
+  - [Red / 45](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997431869)
+    Availability: Available
+    Price: $94.24 USD
+  - [Red / 46](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997464637)
+    Availability: Available
+    Price: $94.24 USD
+  - [Red / 47](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997497405)
+    Availability: Available
+    Price: $94.24 USD
+  - [Black / 35](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997530173)
+    Availability: Available
+    Price: $94.24 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997562941)
+    Availability: Available
+    Price: $94.24 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997595709)
+    Availability: Available
+    Price: $94.24 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997628477)
+    Availability: Available
+    Price: $94.24 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997661245)
+    Availability: Available
+    Price: $94.24 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997694013)
+    Availability: Available
+    Price: $94.24 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997726781)
+    Availability: Available
+    Price: $94.24 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997759549)
+    Availability: Available
+    Price: $94.24 USD
+  - [Black / 43](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997792317)
+    Availability: Available
+    Price: $94.24 USD
+  - [Black / 44](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997825085)
+    Availability: Available
+    Price: $94.24 USD
+  - [Black / 45](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997857853)
+    Availability: Available
+    Price: $94.24 USD
+  - [Black / 46](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997890621)
+    Availability: Available
+    Price: $94.24 USD
+  - [Black / 47](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997923389)
+    Availability: Available
+    Price: $94.24 USD
+  - [White / 35](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997956157)
+    Availability: Available
+    Price: $94.24 USD
+  - [White / 36](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743997988925)
+    Availability: Available
+    Price: $94.24 USD
+  - [White / 37](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743998021693)
+    Availability: Available
+    Price: $94.24 USD
+  - [White / 38](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743998054461)
+    Availability: Available
+    Price: $94.24 USD
+  - [White / 39](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743998087229)
+    Availability: Available
+    Price: $94.24 USD
+  - [White / 40](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743998119997)
+    Availability: Available
+    Price: $94.24 USD
+  - [White / 41](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743998152765)
+    Availability: Available
+    Price: $94.24 USD
+  - [White / 42](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743998185533)
+    Availability: Available
+    Price: $94.24 USD
+  - [White / 43](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743998218301)
+    Availability: Available
+    Price: $94.24 USD
+  - [White / 44](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743998251069)
+    Availability: Available
+    Price: $94.24 USD
+  - [White / 45](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743998283837)
+    Availability: Available
+    Price: $94.24 USD
+  - [White / 46](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743998316605)
+    Availability: Available
+    Price: $94.24 USD
+  - [White / 47](https://attikk-wear.myshopify.com/products/personalized-extreme-high-platform-women-dress-shoes-size-47?variant=42743998349373)
+    Availability: Available
+    Price: $94.24 USD
+- [Over Knee High Stiletto Boots for Women](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots): Shop stylish over knee high stiletto boots for women. Perfect for parties and nights out, available in sizes 36-43.
+  Updated: 2025-11-23T21:58:22Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hecc609f672d9469380cb8cb150d3a8bc4.webp?v=1763926574
+  - [Black / 38](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42743999955005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3bfbf1e7ed3c4f19bb5b99329d53e6ccv.webp?v=1763926575
+    Price: $84.00 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42743999987773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3bfbf1e7ed3c4f19bb5b99329d53e6ccv.webp?v=1763926575
+    Price: $84.00 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000020541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3bfbf1e7ed3c4f19bb5b99329d53e6ccv.webp?v=1763926575
+    Price: $84.00 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000053309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3bfbf1e7ed3c4f19bb5b99329d53e6ccv.webp?v=1763926575
+    Price: $84.00 USD
+  - [Black / 43](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000086077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3bfbf1e7ed3c4f19bb5b99329d53e6ccv.webp?v=1763926575
+    Price: $84.00 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000118845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3bfbf1e7ed3c4f19bb5b99329d53e6ccv.webp?v=1763926575
+    Price: $84.00 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000151613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3bfbf1e7ed3c4f19bb5b99329d53e6ccv.webp?v=1763926575
+    Price: $84.00 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000184381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H3bfbf1e7ed3c4f19bb5b99329d53e6ccv.webp?v=1763926575
+    Price: $84.00 USD
+  - [Red / 38](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000217149)
+    Availability: Available
+    Price: $84.00 USD
+  - [Red / 40](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000249917)
+    Availability: Available
+    Price: $84.00 USD
+  - [Red / 41](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000282685)
+    Availability: Available
+    Price: $84.00 USD
+  - [Red / 42](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000315453)
+    Availability: Available
+    Price: $84.00 USD
+  - [Red / 43](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000348221)
+    Availability: Available
+    Price: $84.00 USD
+  - [Red / 37](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000380989)
+    Availability: Available
+    Price: $84.00 USD
+  - [Red / 36](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000413757)
+    Availability: Available
+    Price: $84.00 USD
+  - [Red / 39](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000446525)
+    Availability: Available
+    Price: $84.00 USD
+  - [burgundy / 38](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000479293)
+    Availability: Available
+    Price: $84.00 USD
+  - [burgundy / 40](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000512061)
+    Availability: Available
+    Price: $84.00 USD
+  - [burgundy / 41](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000544829)
+    Availability: Available
+    Price: $84.00 USD
+  - [burgundy / 42](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000577597)
+    Availability: Available
+    Price: $84.00 USD
+  - [burgundy / 43](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000610365)
+    Availability: Available
+    Price: $84.00 USD
+  - [burgundy / 37](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000643133)
+    Availability: Available
+    Price: $84.00 USD
+  - [burgundy / 36](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000675901)
+    Availability: Available
+    Price: $84.00 USD
+  - [burgundy / 39](https://attikk-wear.myshopify.com/products/autumn-mirror-upper-over-knee-high-boots?variant=42744000708669)
+    Availability: Available
+    Price: $84.00 USD
+- [Sexy Over Knee High Boots for Women - Size 43](https://attikk-wear.myshopify.com/products/trendy-over-knee-high-boots-women): Discover trendy over knee high boots for women, featuring a sexy design, thin high heels, and a comfortable half-zip. Available up to size 43!
+  Updated: 2025-11-23T21:58:22Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H31411df6a3f7432792d9d1dd7245ce19C.webp?v=1763926702
+  - [Black / 36](https://attikk-wear.myshopify.com/products/trendy-over-knee-high-boots-women?variant=42744001724477)
+    Availability: Available
+    Price: $84.84 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/trendy-over-knee-high-boots-women?variant=42744001757245)
+    Availability: Available
+    Price: $84.84 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/trendy-over-knee-high-boots-women?variant=42744001790013)
+    Availability: Available
+    Price: $84.84 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/trendy-over-knee-high-boots-women?variant=42744001822781)
+    Availability: Available
+    Price: $84.84 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/trendy-over-knee-high-boots-women?variant=42744001855549)
+    Availability: Available
+    Price: $84.84 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/trendy-over-knee-high-boots-women?variant=42744001888317)
+    Availability: Available
+    Price: $84.84 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/trendy-over-knee-high-boots-women?variant=42744001921085)
+    Availability: Available
+    Price: $84.84 USD
+  - [Black / 43](https://attikk-wear.myshopify.com/products/trendy-over-knee-high-boots-women?variant=42744001953853)
+    Availability: Available
+    Price: $84.84 USD
+- [Playful High Platform Thigh High Women Boots](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots): Step up your style with our Playful High Platform Thigh High Women Boots. Featuring a sleek design, thin heel, and convenient zipper, these boots are perfect for any occasion. Choose from multiple colors and elevate your look!
+  Updated: 2025-11-23T21:58:22Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hee53cecb74154d9a930eb1389fef1d3fr.webp?v=1763926829
+  - [Red / 35](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744007589949)
+    Availability: Available
+    Price: $86.99 USD
+  - [Red / 36](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744007622717)
+    Availability: Available
+    Price: $86.99 USD
+  - [Red / 37](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744007655485)
+    Availability: Available
+    Price: $86.99 USD
+  - [Red / 38](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744007688253)
+    Availability: Available
+    Price: $86.99 USD
+  - [Red / 39](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744007721021)
+    Availability: Available
+    Price: $86.99 USD
+  - [Red / 40](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744007753789)
+    Availability: Available
+    Price: $86.99 USD
+  - [Red / 41](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744007786557)
+    Availability: Available
+    Price: $86.99 USD
+  - [Red / 42](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744007819325)
+    Availability: Available
+    Price: $86.99 USD
+  - [Red / 43](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744007852093)
+    Availability: Available
+    Price: $86.99 USD
+  - [Red / 44](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744007884861)
+    Availability: Available
+    Price: $86.99 USD
+  - [Red / 45](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744007917629)
+    Availability: Available
+    Price: $86.99 USD
+  - [apricot / 35](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744007950397)
+    Availability: Available
+    Price: $86.99 USD
+  - [apricot / 36](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744007983165)
+    Availability: Available
+    Price: $86.99 USD
+  - [apricot / 37](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008015933)
+    Availability: Available
+    Price: $86.99 USD
+  - [apricot / 38](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008048701)
+    Availability: Available
+    Price: $86.99 USD
+  - [apricot / 39](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008081469)
+    Availability: Available
+    Price: $86.99 USD
+  - [apricot / 40](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008114237)
+    Availability: Available
+    Price: $86.99 USD
+  - [apricot / 41](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008147005)
+    Availability: Available
+    Price: $86.99 USD
+  - [apricot / 42](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008179773)
+    Availability: Available
+    Price: $86.99 USD
+  - [apricot / 43](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008212541)
+    Availability: Available
+    Price: $86.99 USD
+  - [apricot / 44](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008245309)
+    Availability: Available
+    Price: $86.99 USD
+  - [apricot / 45](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008278077)
+    Availability: Available
+    Price: $86.99 USD
+  - [Black / 35](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008310845)
+    Availability: Available
+    Price: $86.99 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008343613)
+    Availability: Available
+    Price: $86.99 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008376381)
+    Availability: Available
+    Price: $86.99 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008409149)
+    Availability: Available
+    Price: $86.99 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008441917)
+    Availability: Available
+    Price: $86.99 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008474685)
+    Availability: Available
+    Price: $86.99 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008507453)
+    Availability: Available
+    Price: $86.99 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008540221)
+    Availability: Available
+    Price: $86.99 USD
+  - [Black / 43](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008572989)
+    Availability: Available
+    Price: $86.99 USD
+  - [Black / 44](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008605757)
+    Availability: Available
+    Price: $86.99 USD
+  - [Black / 45](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008638525)
+    Availability: Available
+    Price: $86.99 USD
+  - [White / 35](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008671293)
+    Availability: Available
+    Price: $86.99 USD
+  - [White / 36](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008704061)
+    Availability: Available
+    Price: $86.99 USD
+  - [White / 37](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008736829)
+    Availability: Available
+    Price: $86.99 USD
+  - [White / 38](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008769597)
+    Availability: Available
+    Price: $86.99 USD
+  - [White / 39](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008802365)
+    Availability: Available
+    Price: $86.99 USD
+  - [White / 40](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008835133)
+    Availability: Available
+    Price: $86.99 USD
+  - [White / 41](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008867901)
+    Availability: Available
+    Price: $86.99 USD
+  - [White / 42](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008900669)
+    Availability: Available
+    Price: $86.99 USD
+  - [White / 43](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008933437)
+    Availability: Available
+    Price: $86.99 USD
+  - [White / 44](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008966205)
+    Availability: Available
+    Price: $86.99 USD
+  - [White / 45](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744008998973)
+    Availability: Available
+    Price: $86.99 USD
+  - [rose red / 35](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744009031741)
+    Availability: Available
+    Price: $86.99 USD
+  - [rose red / 36](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744009064509)
+    Availability: Available
+    Price: $86.99 USD
+  - [rose red / 37](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744009097277)
+    Availability: Available
+    Price: $86.99 USD
+  - [rose red / 38](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744009130045)
+    Availability: Available
+    Price: $86.99 USD
+  - [rose red / 39](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744009162813)
+    Availability: Available
+    Price: $86.99 USD
+  - [rose red / 40](https://attikk-wear.myshopify.com/products/playful-high-platform-thigh-high-women-boots?variant=42744009195581)
+    Availability: Available
+    Price: $86.99 USD
+- [Winter Over Knee High Boots - Chunky High Heel Fashion](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots): Shop our stylish Winter Warm Over Knee High Boots with chunky heels and side zipper. Perfect for any occasion, these boots combine comfort and elegance.
+  Updated: 2025-11-23T21:37:55Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H5e63299218d54762bb1e56fc46696b7fH.webp?v=1763926972
+  - [Red / 35](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012079165)
+    Availability: Available
+    Price: $86.66 USD
+  - [Red / 36](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012111933)
+    Availability: Available
+    Price: $86.66 USD
+  - [Red / 37](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012144701)
+    Availability: Available
+    Price: $86.66 USD
+  - [Red / 38](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012177469)
+    Availability: Available
+    Price: $86.66 USD
+  - [Red / 39](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012210237)
+    Availability: Available
+    Price: $86.66 USD
+  - [Red / 40](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012243005)
+    Availability: Available
+    Price: $86.66 USD
+  - [Red / 41](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012275773)
+    Availability: Available
+    Price: $86.66 USD
+  - [Red / 42](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012308541)
+    Availability: Available
+    Price: $86.66 USD
+  - [Red / 43](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012341309)
+    Availability: Available
+    Price: $86.66 USD
+  - [Red / 44](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012374077)
+    Availability: Available
+    Price: $86.66 USD
+  - [Red / 45](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012406845)
+    Availability: Available
+    Price: $86.66 USD
+  - [Red / 46](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012439613)
+    Availability: Available
+    Price: $86.66 USD
+  - [black Patent / 35](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012472381)
+    Availability: Available
+    Price: $86.66 USD
+  - [black Patent / 36](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012505149)
+    Availability: Available
+    Price: $86.66 USD
+  - [black Patent / 37](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012537917)
+    Availability: Available
+    Price: $86.66 USD
+  - [black Patent / 38](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012570685)
+    Availability: Available
+    Price: $86.66 USD
+  - [black Patent / 39](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012603453)
+    Availability: Available
+    Price: $86.66 USD
+  - [black Patent / 40](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012636221)
+    Availability: Available
+    Price: $86.66 USD
+  - [black Patent / 41](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012668989)
+    Availability: Available
+    Price: $86.66 USD
+  - [black Patent / 42](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012701757)
+    Availability: Available
+    Price: $86.66 USD
+  - [black Patent / 43](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012734525)
+    Availability: Available
+    Price: $86.66 USD
+  - [black Patent / 44](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012767293)
+    Availability: Available
+    Price: $86.66 USD
+  - [black Patent / 45](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012800061)
+    Availability: Available
+    Price: $86.66 USD
+  - [black Patent / 46](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012832829)
+    Availability: Available
+    Price: $86.66 USD
+  - [black suede / 35](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012865597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hde3ec9371ca5446691c32a6ede81d2d95.webp?v=1763926971
+    Price: $86.66 USD
+  - [black suede / 36](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012898365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hde3ec9371ca5446691c32a6ede81d2d95.webp?v=1763926971
+    Price: $86.66 USD
+  - [black suede / 37](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012931133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hde3ec9371ca5446691c32a6ede81d2d95.webp?v=1763926971
+    Price: $86.66 USD
+  - [black suede / 38](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012963901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hde3ec9371ca5446691c32a6ede81d2d95.webp?v=1763926971
+    Price: $86.66 USD
+  - [black suede / 39](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744012996669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hde3ec9371ca5446691c32a6ede81d2d95.webp?v=1763926971
+    Price: $86.66 USD
+  - [black suede / 40](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744013029437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hde3ec9371ca5446691c32a6ede81d2d95.webp?v=1763926971
+    Price: $86.66 USD
+  - [black suede / 41](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744013062205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hde3ec9371ca5446691c32a6ede81d2d95.webp?v=1763926971
+    Price: $86.66 USD
+  - [black suede / 42](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744013094973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hde3ec9371ca5446691c32a6ede81d2d95.webp?v=1763926971
+    Price: $86.66 USD
+  - [black suede / 43](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744013127741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hde3ec9371ca5446691c32a6ede81d2d95.webp?v=1763926971
+    Price: $86.66 USD
+  - [black suede / 44](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744013160509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hde3ec9371ca5446691c32a6ede81d2d95.webp?v=1763926971
+    Price: $86.66 USD
+  - [black suede / 45](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744013193277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hde3ec9371ca5446691c32a6ede81d2d95.webp?v=1763926971
+    Price: $86.66 USD
+  - [black suede / 46](https://attikk-wear.myshopify.com/products/winter-warm-over-knee-high-boots?variant=42744013226045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hde3ec9371ca5446691c32a6ede81d2d95.webp?v=1763926971
+    Price: $86.66 USD
+- [Pointed Toe Women High Heels - Size 47 New Arrivals](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots): Discover stylish Size 47 pointed toe women boots with high heels. Perfect for any occasion, these lace-up suede thigh-high boots combine comfort with elegance.
+  Updated: 2025-11-23T21:46:11Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H5a586569b3ea4db4a47da5acf16a8ebcH.webp?v=1763927084
+  - [Black / 39](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744013750333)
+    Availability: Available
+    Price: $85.35 USD
+  - [Grey / 39](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744013783101)
+    Availability: Available
+    Price: $85.35 USD
+  - [winered / 39](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744013815869)
+    Availability: Available
+    Price: $85.35 USD
+  - [khaki / 39](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744013848637)
+    Availability: Available
+    Price: $85.35 USD
+  - [winered / 35](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744013881405)
+    Availability: Available
+    Price: $85.35 USD
+  - [winered / 36](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744013914173)
+    Availability: Available
+    Price: $85.35 USD
+  - [winered / 37](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744013946941)
+    Availability: Available
+    Price: $85.35 USD
+  - [winered / 38](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744013979709)
+    Availability: Available
+    Price: $85.35 USD
+  - [winered / 40](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014012477)
+    Availability: Available
+    Price: $85.35 USD
+  - [winered / 41](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014045245)
+    Availability: Available
+    Price: $85.35 USD
+  - [winered / 42](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014078013)
+    Availability: Available
+    Price: $85.35 USD
+  - [winered / 43](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014110781)
+    Availability: Available
+    Price: $85.35 USD
+  - [winered / 44](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014143549)
+    Availability: Available
+    Price: $85.35 USD
+  - [winered / 45](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014176317)
+    Availability: Available
+    Price: $85.35 USD
+  - [winered / 46](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014209085)
+    Availability: Available
+    Price: $85.35 USD
+  - [winered / 47](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014241853)
+    Availability: Available
+    Price: $85.35 USD
+  - [Grey / 35](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014274621)
+    Availability: Available
+    Price: $85.35 USD
+  - [Grey / 36](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014307389)
+    Availability: Available
+    Price: $85.35 USD
+  - [Grey / 37](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014340157)
+    Availability: Available
+    Price: $85.35 USD
+  - [Grey / 38](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014372925)
+    Availability: Available
+    Price: $85.35 USD
+  - [Grey / 40](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014405693)
+    Availability: Available
+    Price: $85.35 USD
+  - [Grey / 41](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014438461)
+    Availability: Available
+    Price: $85.35 USD
+  - [Grey / 42](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014471229)
+    Availability: Available
+    Price: $85.35 USD
+  - [Grey / 43](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014503997)
+    Availability: Available
+    Price: $85.35 USD
+  - [Grey / 44](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014536765)
+    Availability: Available
+    Price: $85.35 USD
+  - [Grey / 45](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014569533)
+    Availability: Available
+    Price: $85.35 USD
+  - [Grey / 46](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014602301)
+    Availability: Available
+    Price: $85.35 USD
+  - [Grey / 47](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014635069)
+    Availability: Available
+    Price: $85.35 USD
+  - [Black / 35](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014667837)
+    Availability: Available
+    Price: $85.35 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014700605)
+    Availability: Available
+    Price: $85.35 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014733373)
+    Availability: Available
+    Price: $85.35 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014766141)
+    Availability: Available
+    Price: $85.35 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014798909)
+    Availability: Available
+    Price: $85.35 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014831677)
+    Availability: Available
+    Price: $85.35 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014864445)
+    Availability: Available
+    Price: $85.35 USD
+  - [Black / 43](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014897213)
+    Availability: Available
+    Price: $85.35 USD
+  - [Black / 44](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014929981)
+    Availability: Available
+    Price: $85.35 USD
+  - [Black / 45](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014962749)
+    Availability: Available
+    Price: $85.35 USD
+  - [Black / 46](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744014995517)
+    Availability: Available
+    Price: $85.35 USD
+  - [Black / 47](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744015028285)
+    Availability: Available
+    Price: $85.35 USD
+  - [khaki / 35](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744015061053)
+    Availability: Available
+    Price: $85.35 USD
+  - [khaki / 36](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744015093821)
+    Availability: Available
+    Price: $85.35 USD
+  - [khaki / 37](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744015126589)
+    Availability: Available
+    Price: $85.35 USD
+  - [khaki / 38](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744015159357)
+    Availability: Available
+    Price: $85.35 USD
+  - [khaki / 40](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744015192125)
+    Availability: Available
+    Price: $85.35 USD
+  - [khaki / 41](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744015224893)
+    Availability: Available
+    Price: $85.35 USD
+  - [khaki / 42](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744015257661)
+    Availability: Available
+    Price: $85.35 USD
+  - [khaki / 43](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744015290429)
+    Availability: Available
+    Price: $85.35 USD
+  - [khaki / 44](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744015323197)
+    Availability: Available
+    Price: $85.35 USD
+  - [khaki / 45](https://attikk-wear.myshopify.com/products/size-47-new-arrivals-pointed-toe-women-boots?variant=42744015355965)
+    Availability: Available
+    Price: $85.35 USD
+- [Soft Suede Over Knee High Boots for Women (Size 47)](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47): Shop stylish soft suede over knee high boots with buckle strap and side zipper for women. Available in big sizes up to 47. Perfect for any occasion!
+  Updated: 2025-11-23T21:46:11Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H4c18f518410a426aaf3510b5e3993a10X.webp?v=1763927197
+  - [wine RED / 35](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016175165)
+    Availability: Available
+    Price: $114.00 USD
+  - [wine RED / 36](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016207933)
+    Availability: Available
+    Price: $114.00 USD
+  - [wine RED / 37](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016240701)
+    Availability: Available
+    Price: $114.00 USD
+  - [wine RED / 38](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016273469)
+    Availability: Available
+    Price: $114.00 USD
+  - [wine RED / 39](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016306237)
+    Availability: Available
+    Price: $114.00 USD
+  - [wine RED / 40](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016339005)
+    Availability: Available
+    Price: $114.00 USD
+  - [wine RED / 41](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016371773)
+    Availability: Available
+    Price: $114.00 USD
+  - [wine RED / 42](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016404541)
+    Availability: Available
+    Price: $114.00 USD
+  - [wine RED / 43](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016437309)
+    Availability: Available
+    Price: $114.00 USD
+  - [wine RED / 44](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016470077)
+    Availability: Available
+    Price: $114.00 USD
+  - [wine RED / 45](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016502845)
+    Availability: Available
+    Price: $114.00 USD
+  - [wine RED / 46](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016535613)
+    Availability: Available
+    Price: $114.00 USD
+  - [wine RED / 47](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016568381)
+    Availability: Available
+    Price: $114.00 USD
+  - [Pink / 35](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016601149)
+    Availability: Available
+    Price: $114.00 USD
+  - [Pink / 36](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016633917)
+    Availability: Available
+    Price: $114.00 USD
+  - [Pink / 37](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016666685)
+    Availability: Available
+    Price: $114.00 USD
+  - [Pink / 38](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016699453)
+    Availability: Available
+    Price: $114.00 USD
+  - [Pink / 39](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016732221)
+    Availability: Available
+    Price: $114.00 USD
+  - [Pink / 40](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016764989)
+    Availability: Available
+    Price: $114.00 USD
+  - [Pink / 41](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016797757)
+    Availability: Available
+    Price: $114.00 USD
+  - [Pink / 42](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016830525)
+    Availability: Available
+    Price: $114.00 USD
+  - [Pink / 43](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016863293)
+    Availability: Available
+    Price: $114.00 USD
+  - [Pink / 44](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016896061)
+    Availability: Available
+    Price: $114.00 USD
+  - [Pink / 45](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016928829)
+    Availability: Available
+    Price: $114.00 USD
+  - [Pink / 46](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016961597)
+    Availability: Available
+    Price: $114.00 USD
+  - [Pink / 47](https://attikk-wear.myshopify.com/products/soft-suede-over-knee-high-boots-women-big-size-47?variant=42744016994365)
+    Availability: Available
+    Price: $114.00 USD
+- [Sexy Red Satin Stretch Stiletto High Heel Over Knee Boots](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots): Shop the Sexy Red Satin Stretch Stiletto High Heel Over Knee Boots for women. Perfect for any occasion, these stylish boots offer comfort and elegance with every step.
+  Updated: 2025-11-23T21:46:12Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Hd4fe56d1dd284fb7a625384768f79762F.webp?v=1763927301
+  - [Black / 43](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744017682493)
+    Availability: Available
+    Price: $93.23 USD
+  - [Black / 44](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744017715261)
+    Availability: Available
+    Price: $93.23 USD
+  - [Black / 45](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744017748029)
+    Availability: Available
+    Price: $93.23 USD
+  - [Red / 43](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744017780797)
+    Availability: Available
+    Price: $93.23 USD
+  - [Red / 44](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744017813565)
+    Availability: Available
+    Price: $93.23 USD
+  - [Red / 45](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744017846333)
+    Availability: Available
+    Price: $93.23 USD
+  - [champagne / 43](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744017879101)
+    Availability: Available
+    Price: $93.23 USD
+  - [champagne / 44](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744017911869)
+    Availability: Available
+    Price: $93.23 USD
+  - [champagne / 45](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744017944637)
+    Availability: Available
+    Price: $93.23 USD
+  - [Black / 41](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744017977405)
+    Availability: Available
+    Price: $93.23 USD
+  - [Black / 42](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018010173)
+    Availability: Available
+    Price: $93.23 USD
+  - [Red / 35](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018042941)
+    Availability: Available
+    Price: $93.23 USD
+  - [Red / 36](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018075709)
+    Availability: Available
+    Price: $93.23 USD
+  - [Red / 37](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018108477)
+    Availability: Available
+    Price: $93.23 USD
+  - [Red / 38](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018141245)
+    Availability: Available
+    Price: $93.23 USD
+  - [Red / 39](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018174013)
+    Availability: Available
+    Price: $93.23 USD
+  - [Red / 40](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018206781)
+    Availability: Available
+    Price: $93.23 USD
+  - [Red / 41](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018239549)
+    Availability: Available
+    Price: $93.23 USD
+  - [Red / 42](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018272317)
+    Availability: Available
+    Price: $93.23 USD
+  - [champagne / 35](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018305085)
+    Availability: Available
+    Price: $93.23 USD
+  - [champagne / 36](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018337853)
+    Availability: Available
+    Price: $93.23 USD
+  - [champagne / 37](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018370621)
+    Availability: Available
+    Price: $93.23 USD
+  - [champagne / 38](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018403389)
+    Availability: Available
+    Price: $93.23 USD
+  - [champagne / 39](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018436157)
+    Availability: Available
+    Price: $93.23 USD
+  - [champagne / 40](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018468925)
+    Availability: Available
+    Price: $93.23 USD
+  - [champagne / 41](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018501693)
+    Availability: Available
+    Price: $93.23 USD
+  - [champagne / 42](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018534461)
+    Availability: Available
+    Price: $93.23 USD
+  - [Black / 35](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018567229)
+    Availability: Available
+    Price: $93.23 USD
+  - [Black / 36](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018599997)
+    Availability: Available
+    Price: $93.23 USD
+  - [Black / 37](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018632765)
+    Availability: Available
+    Price: $93.23 USD
+  - [Black / 38](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018665533)
+    Availability: Available
+    Price: $93.23 USD
+  - [Black / 39](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018698301)
+    Availability: Available
+    Price: $93.23 USD
+  - [Black / 40](https://attikk-wear.myshopify.com/products/sexy-red-stiletto-high-heel-boots?variant=42744018731069)
+    Availability: Available
+    Price: $93.23 USD
 
 ## Collections
 
@@ -12897,8 +16519,8 @@ Types of bags:Handbags &amp; Crossbody bags
   Updated: 2025-11-18T17:51:34Z
   Total Products: 46
 - [All Products](https://attikk-wear.myshopify.com/collections/all-products)
-  Updated: 2025-11-19T09:47:39Z
-  Total Products: 209
+  Updated: 2025-11-23T22:25:16Z
+  Total Products: 249
 - [Heel's](https://attikk-wear.myshopify.com/collections/stilettos): Step Into Power, Height, And Unapologetic Glamour With Our STILETTOS Collection! A Fierce lineup of sky-high heels designed to turn heads and command every room. Featuring ultra-spiked heels and bold platform soles, these stilettos fuse daring elegance with seductive edge. Available in a spectrum of striking colors, each pair delivers height, confidence, and style with every step.
   Updated: 2025-11-11T15:16:35Z
   Total Products: 18
