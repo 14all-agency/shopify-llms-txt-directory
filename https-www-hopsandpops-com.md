@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-12-18T15:55:45Z
 - Contact Email: support@hopsandpops.com
-- Updated At: 2025-11-21T00:01:11.470Z
+- Updated At: 2025-11-24T00:00:38.119Z
 
 Sitemap containing all images at this link: https://hopsandpops.com/image-sitemap.xml
 
@@ -4442,7 +4442,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-snugglezoo-giant-c-shaped-animal-plush-pillow-stuffedanimal-husky-100cm-482495.jpg?v=1756492595
     Price: $75.16 USD
 - [Long Axolotl Stuffed Animal Plush](https://www.hopsandpops.com/products/long-axolotl-stuffed-animal-plush): 🐾 Meet the Long Axoloth Stuffed Animal Plush, your new favourite cuddle buddy! With its soft, elongated design, this axolotl plush is perfect for hugging, lounging, or adding a touch of cuteness to any room. Whether you need a comfy backrest, a bedtime companion, or a cosy décor piece, this axolotl plush has you covered!🎀 A delightful gift for kids, teens, and adults who love squishy and lovable plushies, great for birthdays, holidays, or just because! WHY YOU'LL LOVE IT ☁️ Super Soft & Huggable - Made with ultra-plush fabric and fluffy PP cotton filling.⭐ Perfect for All Ages - Whether for kids or adults, it’s an irresistibly snuggly companion.🎁 Adorable Gift Idea - Surprise a loved one with this charming axolotl plush.🏖 Relax & Unwind - Ideal for naps, watching TV, or simply cuddling up after a long day.🧵 Durable & Well-Made - Designed with quality stitching and soft, premium materials. SIZE & MATERIAL 📐 Available Sizes: 75cm, 85cm, 105cm🧵 Material: Soft plush exterior with high-quality PP cotton filling🎨 Color Options: Orange, Blue, Green, Pink EASY CARE 🧽 Hand wash recommended with mild soap and water.🚫 Do not iron or machine wash to maintain softness.🌞 Air dry to keep it fluffy and huggable!
-  Updated: 2025-11-08T12:22:27Z
+  Updated: 2025-11-23T18:11:26Z
   Vendor: Hops & Pops
   Product Type: Looong Plushies
   Availability: Available
@@ -6293,6 +6293,44 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-honk-snooze-giant-goose-looong-plush-pillow-duckplush-stuffedanimal-multicolor-50cm-957165.jpg?v=1758567697
     Price: $145.56 USD
+- [Kawaii Jumbo Teddy Bear Plush with Scarf](https://www.hopsandpops.com/products/kawaii-jumbo-teddy-bear-plush-with-scarf): Meet the Kawaii Jumbo Teddy Bear Plush with Scarf by Hops & Pops! This extra soft kawaii teddy bear plush wears a cute scarf and brings warm hugs, sweet smiles, and cozy room vibes. If you love a giant stuffed animal that is charming, huggable, and perfect for gifting, this big bear is your new cuddle buddy. 🐻💖🧣Our jumbo teddy has a friendly face, heart paw pads, and a plush scarf that makes it feel extra special. The body is filled with fluffy PP cotton for squishy comfort, so it works as a hug pillow, sofa plush, and bedroom decor. Whether you want a Valentine’s surprise, a birthday gift, or a cute plush friend for everyday snuggles, this jumbo teddy bear is a heart stealer. ✨ Why You Will Love It - 🧸 Ultra Soft & Huggable: Cloudy-soft plush and fluffy PP cotton for the best cuddles- 📏 Jumbo Cuddle Size: Big, comfy body in 80cm and 100cm for snuggle naps and movie nights- 🧣 Adorable Scarf Detail: Cozy scarf and heart paws make this teddy extra cute and photogenic- 🛏️ Cute Room Decor: Perfect on bed, sofa, reading corner, or nursery chair- 🎁 Perfect Gift: A sweet teddy bear plush for girlfriends, kids, teens, and kawaii lovers- 🤗 Stress Relief Buddy: Works as a soft hug pillow for comfort and relaxation- 🪡 Quality You Feel: Neat stitching and durable plush for long-lasting love- ✅ Safe & Cozy: Plush exterior with soft filling for gentle, everyday cuddles Size & Material - Available Colors: Dark Brown, Pink, Light Brown, White- Available Heights: 80cm, 100cm- Material: Ultra soft plush exterior with premium PP cotton filling Easy Care - Spot clean with mild soap and cool water- ✋ Hand wash when needed; do not bleach or iron- 🌬️ Air dry completely and give a gentle shake to keep it fluffy- ☁️ Brush lightly to restore that cloud-soft feelReady for big hugs and bigger smiles? The Kawaii Jumbo Teddy Bear Plush with Scarf is the cozy giant teddy bear you need for cuddles, gifts, and cute decor. Add this kawaii teddy bear plush to your home or surprise someone special today. 🐻🧣💝
+  Updated: 2025-11-22T21:15:49Z
+  Vendor: Hops & Pops
+  Product Type: Animal Kingdom Plushies
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-kawaii-jumbo-teddy-bear-plush-with-scarf-stuffedanimal-777554.webp?v=1763808700
+  - [Brown / 80cm](https://www.hopsandpops.com/products/kawaii-jumbo-teddy-bear-plush-with-scarf?variant=43849492430890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-kawaii-jumbo-teddy-bear-plush-with-scarf-stuffedanimal-dark-brown-80cm-168686.webp?v=1763808708
+    Price: $89.99 USD
+  - [Brown / 100cm](https://www.hopsandpops.com/products/kawaii-jumbo-teddy-bear-plush-with-scarf?variant=43849492398122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-kawaii-jumbo-teddy-bear-plush-with-scarf-stuffedanimal-dark-brown-80cm-168686.webp?v=1763808708
+    Price: $119.99 USD
+  - [Pink / 80cm](https://www.hopsandpops.com/products/kawaii-jumbo-teddy-bear-plush-with-scarf?variant=43849492496426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-kawaii-jumbo-teddy-bear-plush-with-scarf-stuffedanimal-pink-80cm-462224.webp?v=1763808711
+    Price: $89.99 USD
+  - [Pink / 100cm](https://www.hopsandpops.com/products/kawaii-jumbo-teddy-bear-plush-with-scarf?variant=43849492463658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-kawaii-jumbo-teddy-bear-plush-with-scarf-stuffedanimal-pink-80cm-462224.webp?v=1763808711
+    Price: $119.99 USD
+  - [Beige / 80cm](https://www.hopsandpops.com/products/kawaii-jumbo-teddy-bear-plush-with-scarf?variant=43849492561962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-kawaii-jumbo-teddy-bear-plush-with-scarf-stuffedanimal-light-brown-80cm-143254.webp?v=1763808710
+    Price: $89.99 USD
+  - [Beige / 100cm](https://www.hopsandpops.com/products/kawaii-jumbo-teddy-bear-plush-with-scarf?variant=43849492529194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-kawaii-jumbo-teddy-bear-plush-with-scarf-stuffedanimal-light-brown-80cm-143254.webp?v=1763808710
+    Price: $119.99 USD
+  - [White / 80cm](https://www.hopsandpops.com/products/kawaii-jumbo-teddy-bear-plush-with-scarf?variant=43849492627498)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-kawaii-jumbo-teddy-bear-plush-with-scarf-stuffedanimal-white-80cm-316641.webp?v=1763808707
+    Price: $89.99 USD
+  - [White / 100cm](https://www.hopsandpops.com/products/kawaii-jumbo-teddy-bear-plush-with-scarf?variant=43849492594730)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0641/1282/0266/files/hopsandpops-plushies-softtoy-plush-kawaii-jumbo-teddy-bear-plush-with-scarf-stuffedanimal-white-80cm-316641.webp?v=1763808707
+    Price: $119.99 USD
 
 ## Collections
 
@@ -6303,8 +6341,8 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2025-11-10T07:25:16Z
   Total Products: 12
 - [Animal Kingdom Plushies](https://www.hopsandpops.com/collections/animal-kingdom-plushies): Explore the cutest collection of animal plush toys at Hops & Pops! From wild jungle animals to underwater creatures and farmyard friends, these soft stuffed animals and cuddly companions are perfect for kids and collectors alike. Discover plushies that inspire imagination, learning, and playtime joy. Shop animal plushies online now!
-  Updated: 2025-11-19T12:15:56Z
-  Total Products: 65
+  Updated: 2025-11-22T10:53:10Z
+  Total Products: 66
 - [Looong Plushies](https://www.hopsandpops.com/collections/looong-plushies): Looking for extra cuddles? Our Looong Plushies are oversized stuffed animals designed for ultimate snuggling and body pillow comfort. Stretching over 90cm, these plush toys are perfect for beds, couches, or cozy corners. Ideal for both kids and adults who love plush hugs that never end.
   Updated: 2025-11-20T12:16:11Z
   Total Products: 63
@@ -6426,8 +6464,8 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2025-11-10T07:25:19Z
   Total Products: 1
 - [Best Selling Plushies](https://www.hopsandpops.com/collections/best-selling-plushies)
-  Updated: 2025-11-20T12:16:11Z
-  Total Products: 167
+  Updated: 2025-11-22T10:53:29Z
+  Total Products: 168
 - [Pink Happy Unicorn Plushies](https://www.hopsandpops.com/collections/pink-happy-unicorn-plushies): Introducing the Pink Happy Unicorn Plushies, your new favorite stuffed animal from Hops & Pops. These cute and kawaii plushies are perfect for cuddling and bringing joy to any room. With their squishy texture and vibrant colors, they are an irresistible plush companion.
   Updated: 2025-11-20T12:16:11Z
   Total Products: 6
