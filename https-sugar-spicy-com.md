@@ -176,7 +176,7 @@ firmer compression sculptwear
 - Timezone: Europe/Dublin
 - Created At: 2023-06-26T10:59:59Z
 - Contact Email: help@sugar-spicy.com
-- Updated At: 2025-11-24T00:02:09.954Z
+- Updated At: 2025-11-24T04:00:28.102Z
 
 BUSINESS INFORMATION — SUGAR + SPICY
 =========================================================
@@ -2625,7 +2625,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-32643946643607_900x_e0526511-d9ba-4f12-951c-5596a2c405bf.jpg?v=1763895721
     Price: $112.00 USD
 - [Seamless Shaping: All-Day Comfort High-waisted Mid-thigh Shaper Shorts](https://sugar-spicy.com/products/high-waisted-mid-thigh-shaper-shorts): Experience our high-waisted shaping garment! Lightweight, seamless design with targeted shaping zones for stomach support. Soft yarns, no-slip waistband, and shirring for a perfect fit. Embrace smooth curves and freedom of movement effortlessly. Say goodbye to muffin tops and hello to a confident you!
-  Updated: 2025-11-23T20:31:00Z
+  Updated: 2025-11-24T00:04:40Z
   Vendor: Sugar + Spicy
   Product Type: Shapewar
   Availability: Available
