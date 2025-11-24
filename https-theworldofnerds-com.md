@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-11-23T00:00:57.214Z
+- Updated At: 2025-11-24T00:00:43.331Z
 
 ## Products
 
@@ -4351,7 +4351,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1-2025-02-03T174609.953.jpg?v=1738584981
   Price: ₹5,070.00 INR
 - [MINGDI RACING SERIES DREAM CAR PULLBACK ( BLUE ) 315 PCS CAR BLOCKS](https://theworldofnerds.com/products/mingdi-racing-series-dream-car-pullback-315-pcs-car-blocks): The MINGDI RACING SERIES DREAM CAR PULL BACK 315 PCS CAR BLOCKS set offers endless possibilities for building and racing, promoting creativity, and improving hand-eye coordination. With 315 pieces included, your child can build their own dream car and watch it zoom forward with the pull back function. Perfect for little engineers and car enthusiasts.
-  Updated: 2025-07-29T05:13:07Z
+  Updated: 2025-11-23T04:36:00Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
