@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2025-08-18T15:09:55Z
 - Contact Email: info@etycase.com
-- Updated At: 2025-11-21T00:00:26.442Z
+- Updated At: 2025-11-24T00:00:30.061Z
 
 ## Products
 
@@ -525,8 +525,8 @@
 
 - [İletişim](https://etycase.com/pages/contact)
   Updated: 2025-08-18T15:09:58Z
-- [Hakkımızda](https://etycase.com/pages/hakkimizda): EtyCase ile Yaşa EtyCase olarak misyonumuz, bir cep telefonu kılıfında aradığınız şıklık ve korumayı doğru şekilde anlayarak size sunmaktır. İster ...
-  Updated: 2025-09-12T17:05:55Z
+- [Hakkımızda](https://etycase.com/pages/hakkimizda): EtyCase ile Yaşa EtyCase olarak amacımız, modern telefon kullanıcılarının ihtiyaç duyduğu şıklığı ve korumayı doğru şekilde bir araya getirmektir. ...
+  Updated: 2025-11-22T10:38:13Z
 - [Sık Sorulan Sorular](https://etycase.com/pages/sik-sorulan-sorular)
   Updated: 2025-09-14T14:58:48Z
 - [İptal ve İade Şartları](https://etycase.com/pages/iptal-ve-iade-sartlari): TÜKETİCİ HAKLARI – CAYMA – İPTAL İADE KOŞULLARI GENEL: Kullanmakta olduğunuz web sitesi üzerinden elektronik ortamda sipariş verdiğiniz takdirde, s...
