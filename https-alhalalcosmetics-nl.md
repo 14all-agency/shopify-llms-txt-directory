@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-01-11T16:47:40Z
 - Contact Email: info@alhalalcosmetics.nl
-- Updated At: 2025-11-21T00:01:13.521Z
+- Updated At: 2025-11-24T00:01:46.808Z
 
 ## Products
 
@@ -403,11 +403,11 @@
   Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/NIS_3774copy.jpg?v=1740553739
   Price: 7,95 € EUR
 - [Grijze Nagellak - Halal Cosmetics - Grijze nails kopen](https://alhalalcosmetics.nl/products/grijze-nagellak): AL-153 NABIHA Waterdoorlatende Grijze Nagellak – halal, vegan & peel-off! Wudu-vriendelijk, makkelijk te verwijderen en vrij van schadelijke stoffen. Bestel nu
-  Updated: 2025-11-03T20:22:18Z
+  Updated: 2025-11-23T14:13:21Z
   Vendor: Alhalal cosmetics
   Product Type: Nail Polishes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/NIS_3728copy.jpg?v=1740553757
+  Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/Grijze_Nagellak.jpg?v=1763863972
   Price: 7,95 € EUR
 - [AL-150 MANNAT Waterdoorlatende Gellak - Perfecte Paarse Tint | Halal](https://alhalalcosmetics.nl/products/al-150-mannat-paarse-nagellak): Experience the luxury of AL-150 MANNAT Waterdoorlatende Paarse Nagellak. Halal, vegan, and peel-off for an elegant, breathable polish. Perfect for every occasion. Free from harmful substances.
   Updated: 2025-11-02T06:37:58Z
@@ -451,15 +451,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/NIS_3722copy.jpg?v=1740553865
   Price: 7,95 € EUR
-- [AL-163 REHAM nagellak donkerrood](https://alhalalcosmetics.nl/products/al-163-reham-nagellak-rood): Ben jij op zoek naar een donkerrode nagellak die waterdoorlatend, halal en vegan is? De AL-163 REHAM WATERDOORLATENDE NAGELLAK ROOD is gecertificeerd door het Halal Monitory Committee UK en biedt een prachtige, intens rode tint die perfect is voor elke gelegenheid. Waarom kiezen voor AL-163 REHAM nagellak donkerrood? ✔ Waterdoorlatend & ademend – ideaal voor wie een wudu-vriendelijke nagellak zoekt.✔ Peel-off formule – blijft tot 2 dagen zitten en verwijdert gemakkelijk zonder aceton of schrobben.✔ Vegan & Dierproefvrij – 100% halal, niet getest op dieren.✔ Vrij van schadelijke stoffen – geen Formaldehyde, Tolueen, DBP, Formaldehydehars, Kamfer, Xyleen of Ethyl Tolueamide.✔ Prachtige rode tinten – perfect voor liefhebbers van rode gellak, nagellak bordeaux rood, en rode glitter nagellak. 💅✨ Meer waterdoorlatende halal nagellakken:🔹 AL-166 FAJAR Nagellak Groen🔹 AL-142 AFSHEEN Zwarte Nagellak🔹 AL-146 SOMIA Blauwe Nagellak🔹 AL-162 REEMA Heldere Nagellak🔹 AL-172 MAHIRA Glanzende Nagellak🔹 AL-165 MANIHA Groene Nagellak🔹 AL-143 AFSHAN Lichtblauwe Nagellak🔹 AL-178 MARIA Blauwe Nagellak Wat is de betekenis van rode nagellak? Rode nagellak staat wereldwijd symbool voor passie, kracht en zelfvertrouwen. Van een klassieke bordeauxrode nagellak tot een speelse rode glitter nagellak, deze kleur blijft een tijdloze favoriet voor iedereen die wil opvallen.
-  Updated: 2025-11-02T06:37:58Z
+- [AL-163 REHAM nagellak donkerrood](https://alhalalcosmetics.nl/products/nagellak-donkerrood): donkerrode nagellak Ben jij op zoek naar een donkerrode nagellak die waterdoorlatend, halal en vegan is? De AL-163 REHAM WATERDOORLATENDE NAGELLAK ROOD is gecertificeerd door het Halal Monitory Committee UK en biedt een prachtige, intens rode tint die perfect is voor elke gelegenheid. Waarom kiezen voor AL-163 REHAM nagellak donkerrood? ✔ donkerrode nagellak Waterdoorlatend & ademend – ideaal voor wie een wudu-vriendelijke nagellak zoekt.✔ Peel-off formule – blijft tot 2 dagen zitten en verwijdert gemakkelijk zonder aceton of schrobben.✔ Vegan & Dierproefvrij – 100% halal, niet getest op dieren.✔ Vrij van schadelijke stoffen – geen Formaldehyde, Tolueen, DBP, Formaldehydehars, Kamfer, Xyleen of Ethyl Tolueamide.✔ Prachtige rode tinten – perfect voor liefhebbers van rode gellak, nagellak bordeaux rood, en rode glitter nagellak. 💅✨ Meer waterdoorlatende halal nagellakken:🔹 AL-166 FAJAR Nagellak Groen🔹 AL-142 AFSHEEN Zwarte Nagellak🔹 AL-146 SOMIA Blauwe Nagellak🔹 AL-162 REEMA Heldere Nagellak🔹 AL-172 MAHIRA Glanzende Nagellak🔹 AL-165 MANIHA Groene Nagellak🔹 AL-143 AFSHAN Lichtblauwe Nagellak🔹 AL-178 MARIA Blauwe Nagellak Wat is de betekenis van rode nagellak? Rode nagellak staat wereldwijd symbool voor passie, kracht en zelfvertrouwen. Van een klassieke bordeauxrode nagellak tot een speelse rode glitter nagellak, deze kleur blijft een tijdloze favoriet voor iedereen die wil opvallen.
+  Updated: 2025-11-22T22:37:36Z
   Vendor: Alhalal cosmetics
   Product Type: Nail Polishes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/NIS_3760copy.jpg?v=1740553883
   Price: 7,95 € EUR
-- [AL-166 FAJAR MINTGROENE NAGELLAK](https://alhalalcosmetics.nl/products/mintgroene-nagellak): Mintgroene nagellak van Alhalalcosmetics geeft je nagels een vrolijke en elegante look. Tips voor perfecte toepassing en houdbaarheid.
-  Updated: 2025-11-02T06:37:58Z
+- [Mintgroene Nagellak – Halal & Vegan Nagellak Online](https://alhalalcosmetics.nl/products/mintgroene-nagellak): Ontdek onze mintgroene nagellak bij Alhalal Cosmetics. 100% halal, vegan en cruelty-free nagellak voor frisse, stijlvolle nagels. Shop nu jouw mintgroene favoriet!
+  Updated: 2025-11-22T10:19:58Z
   Vendor: Alhalal cosmetics
   Product Type: Nail Polishes
   Availability: Available
@@ -472,22 +472,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/NIS_3757copy.jpg?v=1740553917
   Price: 7,95 € EUR
-- [Vegan Zwarte Nagellak - Halal Gellak Gel Kopen | AL-142 AFSHEEN](https://alhalalcosmetics.nl/products/al-142-afsheen-zwarte-nagellak): Experience the exclusive AL-142 AFSHEEN Waterdoorlatende Zwarte Nagellak, Halal certified & easy peel-off removal. Free from harmful chemicals, perfect for quick, stylish updates without damage. Explore more colors!
-  Updated: 2025-11-02T06:37:59Z
+- [Zwarte Nagellak – Halal & Vegan Nagellak Online](https://alhalalcosmetics.nl/products/zwarte-nagellak): Shop onze zwarte nagellak bij Alhalal Cosmetics. 100% halal, veganistisch en dierproefvrij voor een elegante, tijdloze look. Goedgekeurd door de Britse overheid.
+  Updated: 2025-11-22T22:31:13Z
   Vendor: Alhalal cosmetics
   Product Type: Nail Polishes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/NIS_3690copy.jpg?v=1740553935
+  Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/ZWARTE_NAGELLAKen.jpg?v=1763807469
   Price: 7,95 € EUR
-- [AL-146 SOMIA Gel Gellak: Blauw en Dierproefvrij - Eenvoudig Peel-Off!](https://alhalalcosmetics.nl/products/al-146-somia-waterbestendig-blauw-nagellak): Introducing our AL-146 SOMIA WATERBESTENDIG BLAUW NAGELLAK, certified by Halal Monitoring Committee UK. Enjoy peel-off convenience without damage to your nails. Free from harsh chemicals, not tested on animals. Dive into our halal beauty range now!
-  Updated: 2025-11-02T06:37:59Z
+- [Glitter Nagellak Kopen | Halal, Vegan en Waterdoorlatend](https://alhalalcosmetics.nl/products/nagellak-met-glitters): Ontdek nagellak met glitters. Halal, vegan en waterdoorlatend. Luxe glans en lange houdbaarheid. Bestel glitter nagellak bij Halal Cosmetics 30% Korting.
+  Updated: 2025-11-21T20:57:05Z
   Vendor: Alhalal cosmetics
   Product Type: Nail Polishes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/NIS_3706copy.jpg?v=1740553952
+  Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/Nagellak_met_Glitters.jpg?v=1763715249
   Price: 7,95 € EUR
-- [AL-172 MAHIRA Halal Gellak: Glanzende Nagellak, Eenvoudig te Verwijderen](https://alhalalcosmetics.nl/products/al-172-mahira-glanzende-nagellak): Onze AL-172 MAHIRA WATERDOORLATENDE GLANZENDE NAGELLAK is gecertificeerd door het Halal Monitory Committee UK. Onze nieuwe peel-off nagellak blijft tot 2 dagen zitten en kan eenvoudig in één beweging worden verwijderd zonder je nagels te beschadigen. Zeg vaarwel tegen rommelig weken, urenlang schrobben en dure salonbezoeken! De AL-172 MAHIRA WATERDOORLATENDE GLANZENDE NAGELLAK heeft een waterbasis en is vrij van schadelijke chemicaliën zoals formaldehyde, tolueen, DBP, formaldehydehars, kamfer, xyleen en ethyl tolueamide. Bovendien is onze nagellak niet getest op dieren! 💅✨ Ontdek meer halal nagellakken:🔹 AL-165 MANIHA Groene Nagellak🔹 AL-143 AFSHAN Lichtblauwe Nagellak🔹 AL-178 MARIA Blauwe Nagellak - Halal Cosmetica
-  Updated: 2025-11-02T06:37:59Z
+- [Luchtdoorlatende Nagellak – Halal & Gezond voor je nagels](https://alhalalcosmetics.nl/products/luchtdoorlatende-nagellak): Ontdek onze halal-gecertificeerde luchtdoorlatende nagellak. Perfect voor kalknagels en schimmelnagels. Zuurstofdoorlatend, cruelty-free en alcoholvrij. Shop nu
+  Updated: 2025-11-23T19:45:57Z
   Vendor: Alhalal cosmetics
   Product Type: Nail Polishes
   Availability: Available
@@ -500,22 +500,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/NIS_3768copy.jpg?v=1740553989
   Price: 7,95 € EUR
-- [AL-143 Afshan Waterdoorlatende Nagellak - Veilig & Dierproefvrij](https://alhalalcosmetics.nl/products/al-143-afshan-lichtblauwe-nagellak): Experience the exclusive AL-143 AFSHAN Light Blue Nail Polish, Halal-certified & water-permeable. Easy peel-off, chemical-free, and animal-cruelty-free. Perfect for sensitive nails. Explore more Halal beauty exclusives.
-  Updated: 2025-11-02T06:37:59Z
+- [LICHTBLAUWE NAGELLAK Waterdoorlatende Nagellak](https://alhalalcosmetics.nl/products/lichtblauwe-nagellak): Onze AL-143 AFSHAN WATERDOORLATENDE LICHTBLAUWE NAGELLAK is gecertificeerd door het Halal Monitory Committee UK.
+  Updated: 2025-11-23T02:52:00Z
   Vendor: Alhalal cosmetics
   Product Type: Nail Polishes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/NIS_3695copy.jpg?v=1740554006
   Price: 7,95 € EUR
-- [AL-178 MARIA Blauwe Nagellak -Halal cosmetics](https://alhalalcosmetics.nl/products/blauwe-nagellak): Ontdek de mooiste collectie blauwe nagellak, van helder pastel tot diep marineblauw. Hoge kwaliteit, snelle levering. Bestel jouw favoriete tint vandaag nog!
-  Updated: 2025-11-02T06:37:59Z
+- [Blauwe Nagellak – Halal & Vegan Nagellak Online | Alhalal Cosmetics](https://alhalalcosmetics.nl/products/blauwe-nagellak): Ontdek onze collectie blauwe nagellak bij Alhalal Cosmetics. 100% halal, vegan en cruelty-free nagellak voor prachtige, langdurige kleuren. Shop nu je perfecte blauwe tint!
+  Updated: 2025-11-22T22:01:25Z
   Vendor: Alhalal cosmetics
   Product Type: Nail Polishes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/NIS_3813copy.jpg?v=1740554023
+  Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/nagellak_blauw.jpg?v=1763805590
   Price: 7,95 € EUR
-- [AL-144 UMME HANI Glanzende Nagellak - Dierproefvrij & Gel Gellak Kopen!](https://alhalalcosmetics.nl/products/al-144-umme-hani-glanzende-nagellak): Experience the exclusive UMME HANI WATERDOORLATENDE GLANZENDE NAGELLAK, Halal certified and free from harmful chemicals. Peel-off formula for easy removal without damage. Shop now for guilt-free beauty.
-  Updated: 2025-11-02T06:37:59Z
+- [Oud Roze Nagellak – Halal & Vegan Nagellak Online](https://alhalalcosmetics.nl/products/oud-roze-nagellak): Ontdek onze prachtige oud roze nagellak bij Alhalal Cosmetics. 100% halal, vegan en cruelty-free nagellak voor een elegante, langdurige finish. Shop nu je favoriete tint!
+  Updated: 2025-11-22T22:15:40Z
   Vendor: Alhalal cosmetics
   Product Type: Nail Polishes
   Availability: Available
@@ -529,14 +529,14 @@
   Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/NIS_3726copy.jpg?v=1740554056
   Price: 7,95 € EUR
 - [AL-157 Marvee Nagellak - Waterbasis, Vriendelijke Gel Gellak en Dierproefvrij](https://alhalalcosmetics.nl/products/al-157-marvee-waterdoorlaatende-nagellak): Onze AL-157 MARVEE WATERDOORLAATENDE NAGELLAK is gecertificeerd door het Halal Monitory Committee UK. Onze nieuwe peel-off nagellak blijft tot 2 dagen zitten en kan eenvoudig in één beweging worden verwijderd zonder je nagels te beschadigen. Zeg vaarwel tegen rommelig weken, urenlang schrobben en dure salonbezoeken! De AL-157 MARVEE WATERDOORLATEND NAGELLAK heeft een waterbasis en is vrij van schadelijke chemicaliën zoals formaldehyde, tolueen, DBP, formaldehydehars, kamfer, xyleen en ethyl tolueamide. Bovendien is onze nagellak niet getest op dieren! - Halal Cosmetica
-  Updated: 2025-11-09T11:54:30Z
+  Updated: 2025-11-21T05:08:35Z
   Vendor: Alhalal cosmetics
   Product Type: Nail Polishes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/NIS_3741copy.jpg?v=1740554069
   Price: 7,95 € EUR
-- [AL-173 Dua zuurstofdoorlatende nagellak](https://alhalalcosmetics.nl/products/zuurstofdoorlatende-nagellak): Zuurstofdoorlatende nagellak – Adem gezonde lucht in je nagels Zuurstofdoorlatende nagellak, ook wel bekend als zuurstofdoorlatende nagellak, is een innovatieve beautyoplossing die je nagels laat ademen. Waar traditionele nagellak een luchtdichte laag vormt, laat deze zuurstofdoorlatende nagellak lucht en vocht door naar het nageloppervlak. Dit betekent gezondere, sterkere en minder broze nagels – zonder dat dit ten koste gaat van de kleurglans! Wat is zuurstofdoorlatende nagellak precies? Zuurstofdoorlatende nagellak is speciaal ontwikkeld met microporeuze technologie. Hierdoor kunnen zuurstofmoleculen en waterdamp door de nagellak heen bewegen. Dit houdt je nagels op natuurlijke wijze gehydrateerd en zorgt voor voldoende zuurstof, wat verkleuring en uitdroging helpt voorkomen. Deze technologie wordt vooral gewaardeerd door mensen die bewust kiezen voor halal cosmetica, omdat zuurstof en water de nagels kunnen bereiken tijdens het wassen (zoals wudu). Voordelen van zuurstofdoorlatende nagellak Laat nagels ademen: De speciale formule zorgt voor zuurstoftoevoer naar de nagelplaat. Minder schade: Minder kans op afbrokkelen en uitdroging. Gezondere nagels: Bevordert natuurlijke groei en voorkomt vergeling. Sneller drogend: Luchtige textuur zorgt voor snellere droogtijd. Perfect voor dagelijks gebruik: Geschikt voor iedereen die houdt van natuurlijke nagelverzorging met kleur. Waarom zuurstofdoorlatende nagellak kopen? Traditionele nagellak sluit je nagels af als een plastic laagje. Dit betekent dat je nagels niet kunnen ademen, wat na verloop van tijd kan leiden tot doffe of broze nagels.Met ademende nagellak blijven je nagels fris, flexibel en gezond – ideaal voor iedereen die zijn nagels verantwoord wil verzorgen. Populaire kleuren en merken Bij Al Halal Cosmetics vind je een ruime collectie zuurstofdoorlatende nagellak in trendy kleuren. Onze producten zijn halal-gecertificeerd, cruelty-free en vrij van schadelijke chemicaliën. Perfect voor wie schoonheid en ethiek wil combineren. FAQs 1. Wat betekent zuurstofdoorlatende nagellak?Het betekent dat de nagellak lucht en vocht doorlaat naar de natuurlijke nagel, zodat deze blijft ademen en gezond blijft. 2. Is zuurstof doorlatende nagellak halal?Ja, veel zuurstofdoorlatende nagellakken – zoals die bij Al Halal Cosmetics – zijn halal-gecertificeerd. Ze laten water en zuurstof door, waardoor ze geschikt zijn voor wudu. 3. Blijft zuurstofdoorlatende nagellak goed zitten?Zeker! Ondanks de ademende formule blijft de lak lang zitten, vergelijkbaar met gewone nagellak, maar zonder de nadelen. 4. Kan ik zuurstofdoorlatende nagellak verwijderen met gewone remover?Ja, gebruik een milde nagellakremover zonder aceton om de lak zacht te verwijderen zonder je nagels te beschadigen. 5. Is zuurstofdoorlatende nagellak geschikt voor gevoelige nagels?Absoluut. Doordat de nagel blijft ademen, vermindert de kans op irritatie en uitdroging.
-  Updated: 2025-11-06T01:52:39Z
+- [AL-173 Dua zuurstofdoorlatende nagellaken](https://alhalalcosmetics.nl/products/zuurstofdoorlatende-nagellaken): Zuurstofdoorlatende nagellak – Adem gezonde lucht in je nagels Zuurstofdoorlatende nagellak, ook wel bekend als zuurstofdoorlatende nagellak, is een innovatieve beautyoplossing die je nagels laat ademen. Waar traditionele nagellak een luchtdichte laag vormt, laat deze zuurstofdoorlatende nagellak lucht en vocht door naar het nageloppervlak. Dit betekent gezondere, sterkere en minder broze nagels – zonder dat dit ten koste gaat van de kleurglans! Wat is zuurstofdoorlatende nagellak precies? Zuurstofdoorlatende nagellak is speciaal ontwikkeld met microporeuze technologie. Hierdoor kunnen zuurstofmoleculen en waterdamp door de nagellak heen bewegen. Dit houdt je nagels op natuurlijke wijze gehydrateerd en zorgt voor voldoende zuurstof, wat verkleuring en uitdroging helpt voorkomen. Deze technologie wordt vooral gewaardeerd door mensen die bewust kiezen voor halal cosmetica, omdat zuurstof en water de nagels kunnen bereiken tijdens het wassen (zoals wudu). Voordelen van zuurstofdoorlatende nagellak Laat nagels ademen: De speciale formule zorgt voor zuurstoftoevoer naar de nagelplaat. Minder schade: Minder kans op afbrokkelen en uitdroging. Gezondere nagels: Bevordert natuurlijke groei en voorkomt vergeling. Sneller drogend: Luchtige textuur zorgt voor snellere droogtijd. Perfect voor dagelijks gebruik: Geschikt voor iedereen die houdt van natuurlijke nagelverzorging met kleur. Waarom zuurstofdoorlatende nagellak kopen? Traditionele nagellak sluit je nagels af als een plastic laagje. Dit betekent dat je nagels niet kunnen ademen, wat na verloop van tijd kan leiden tot doffe of broze nagels.Met ademende nagellak blijven je nagels fris, flexibel en gezond – ideaal voor iedereen die zijn nagels verantwoord wil verzorgen. Populaire kleuren en merken Bij Al Halal Cosmetics vind je een ruime collectie zuurstofdoorlatende nagellak in trendy kleuren. Onze producten zijn halal-gecertificeerd, cruelty-free en vrij van schadelijke chemicaliën. Perfect voor wie schoonheid en ethiek wil combineren. FAQs 1. Wat betekent zuurstofdoorlatende nagellak?Het betekent dat de nagellak lucht en vocht doorlaat naar de natuurlijke nagel, zodat deze blijft ademen en gezond blijft. 2. Is zuurstof doorlatende nagellak halal?Ja, veel zuurstofdoorlatende nagellakken – zoals die bij Al Halal Cosmetics – zijn halal-gecertificeerd. Ze laten water en zuurstof door, waardoor ze geschikt zijn voor wudu. 3. Blijft zuurstofdoorlatende nagellak goed zitten?Zeker! Ondanks de ademende formule blijft de lak lang zitten, vergelijkbaar met gewone nagellak, maar zonder de nadelen. 4. Kan ik zuurstofdoorlatende nagellak verwijderen met gewone remover?Ja, gebruik een milde nagellakremover zonder aceton om de lak zacht te verwijderen zonder je nagels te beschadigen. 5. Is zuurstofdoorlatende nagellak geschikt voor gevoelige nagels?Absoluut. Doordat de nagel blijft ademen, vermindert de kans op irritatie en uitdroging.
+  Updated: 2025-11-23T02:49:06Z
   Vendor: Alhalal cosmetics
   Product Type: Nail Polishes
   Availability: Available
@@ -557,11 +557,11 @@
   Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/168.jpg?v=1762308330
   Price: 9,95 € EUR
 - [AL-175 SANAM Nagellak Oranje -  Halal cosmetics](https://alhalalcosmetics.nl/products/nagellak-oranje): nagellak oranje voor opvallende nagels bij iedere gelegenheid. Tips voor aanbrengen, combinaties en een langdurige, glanzende finish.
-  Updated: 2025-11-06T06:47:56Z
+  Updated: 2025-11-23T14:18:31Z
   Vendor: Alhalal cosmetics
   Product Type: Nail Polishes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/175.jpg?v=1762308330
+  Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/oranje_nagellak.jpg?v=1763864283
   Price: 9,95 € EUR
 - [Halal Gecertificeerde Rode Negallak - AL-149 SOBIA Waterbasis Gellak](https://alhalalcosmetics.nl/products/al-149-sobia-waterdoorlatende-rode-negallak): Ervaar de revolutionaire AL-149 SOBIA WATERDOORLATENDE RODE NEGALLAK. Gecertificeerd halal, deze peel-off formule belooft tot 2 dagen langdurige schoonheid zonder schade. Exclusief, niet-getest op dieren, en vrij van schadelijke chemicaliën.
   Updated: 2025-11-05T20:16:36Z
@@ -794,8 +794,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/donker_paars.jpg?v=1762071695
   Price: 12,02 € EUR
-- [AL-13 HINA ROZE HALAL LIPPENSTIFT 100% Halal & Vegan | Halal Cosmetics](https://alhalalcosmetics.nl/products/roze-lippenstift-alhalal-cosmetics): Shop nu de AL-13 HINA ROZE HALAL LIPPENSTIFT bij Halal Cosmetics. 100% halal, vegan en dierproefvrij voor een stralende, verzorgde look zonder schuldgevoel.
-  Updated: 2025-11-05T02:05:23Z
+- [Roze Lippenstift | Halal Lipstick in Roze, Lichtroze, Bruin & Blauw](https://alhalalcosmetics.nl/products/roze-lippenstiften-lipstick): Shop onze halal‑gecertificeerde roze lippenstift. Van lichtroze lippenstift tot bruine lippenstift en zelfs blauwe lippenstift. Luxe pigment, verzorgende formule en 100% halal. Shop
+  Updated: 2025-11-23T20:44:12Z
   Vendor: Alhalal cosmetics
   Product Type: Cosmetics
   Availability: Available
@@ -908,7 +908,7 @@
   Updated: 2025-11-08T09:10:09Z
   Total Products: 8
 - [Wudu-Vriendelijk. natuurlijke end Halal Nagellak 100% alcoholvrij](https://alhalalcosmetics.nl/collections/natuurlijke-en-halal-nagellak): Shop alle kleur halal nagellak, Natuurlijke, Veganistisch, vegan, Dierproefvrij, 100% alcoholvrij, en biologische nagellak niet getest op dieren.
-  Updated: 2025-11-20T01:46:40Z
+  Updated: 2025-11-23T07:45:55Z
   Total Products: 41
 - [Make-up kwastenset kopen – Professioneel & betaalbaar](https://alhalalcosmetics.nl/collections/make-up-kwastenset): Ontdek de beste make-up kwastensets voor beginners & professionals. Vegan, huidvriendelijk en zacht. Nu tot 30% korting bij Al Halal Cosmetics!
   Updated: 2025-11-02T06:37:52Z
@@ -917,19 +917,19 @@
   Updated: 2025-11-02T06:37:52Z
   Total Products: 5
 - [Cosmetica](https://alhalalcosmetics.nl/collections/cosmetica): Ontdek bij cosmetica onze halal cosmetica bestsellers. 100% halal, vegan en dierproefvrij voor elke huid. Shop nu en straal zonder schuld!
-  Updated: 2025-11-17T12:29:10Z
+  Updated: 2025-11-23T07:45:55Z
   Total Products: 127
 - [Halal Nagellack Kaufen Online- Deuts](https://alhalalcosmetics.nl/collections/halal-nagellack): kaufen Sie 100% Halal nagellack, Nagellack bei alhalalcosmetics.nl: wasserdurchlässig, atmungsaktiv, vegan & tierversuchsfrei. Jetzt Halal Nagellack in De.
-  Updated: 2025-11-12T17:59:08Z
+  Updated: 2025-11-23T07:45:55Z
   Total Products: 40
 - [Naturkosmetik – Halal, Vegan & Natürlich Schön](https://alhalalcosmetics.nl/collections/naturkosmetik-halal-vegan-naturlich-schon): Entdecke unsere halal-zertifizierte Naturkosmetik – 100% vegan, tierversuchsfrei und natürlich. Jetzt online shoppen!
   Updated: 2025-11-17T12:29:10Z
   Total Products: 46
 - [Vegan nagellak en biologische nagellak - halal cosmetics](https://alhalalcosmetics.nl/collections/vegan-nagellak): Shop vegan nagellak  en biologische nagellak bij Al Halal Cosmetics. Onze waterdoorlatende en ademende nagellak is 100% halal, wudu-proof en verkrijgbaar in prachtige kleuren.
-  Updated: 2025-11-12T17:59:08Z
+  Updated: 2025-11-23T07:45:55Z
   Total Products: 40
 - [Zuurstofdoorlatende Nagellak: Halal en alcoholvrij](https://alhalalcosmetics.nl/collections/zuurstofdoorlatende-nagellak): Shop nu zuurstofdoorlatende Halal nagellak die je nagels laat ademen. Halal, vegan en gezond voor je nagels – perfect bij kalknagels of gevoelige nagels.
-  Updated: 2025-11-20T09:57:46Z
+  Updated: 2025-11-23T07:45:55Z
   Total Products: 42
 - [wasserdurchlässiger nagellack  - Halal Nagellack](https://alhalalcosmetics.nl/collections/wasserdurchlassiger-nagellack): Unsere Nagellacke Sophia und Shajia Halal sind 100 % wasserdurchlässige Nagellack. Jetzt sauerstoffdurchlässigen Nagellack kaufen.
   Updated: 2025-11-06T02:18:43Z
@@ -1100,6 +1100,9 @@
     Author: TN CHAUDRI
   - [Gel nagellak allergie voorkomen & behandelen | Al Halal Cosmetics](https://alhalalcosmetics.nl/blogs/news/gel-nagellak-allergie-voorkomen): Gel nagellak allergie voorkomen & behandelen | Al Halal Cosmetics
     Updated: 2025-11-04T10:58:54Z
+    Author: TN CHAUDRI
+  - [Welke nagellak blijft lang zitten? | Al Halal Cosmetics NL](https://alhalalcosmetics.nl/blogs/news/welke-nagellak-blijft-lang-zitten): Welke nagellak blijft lang zitten? | Al Halal Cosmetics NL
+    Updated: 2025-11-23T09:55:47Z
     Author: TN CHAUDRI
 
 ## Store Pages
