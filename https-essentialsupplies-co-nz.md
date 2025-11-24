@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-11-22T00:00:36.143Z
+- Updated At: 2025-11-24T00:00:36.140Z
 
 ## Products
 
@@ -1544,7 +1544,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/interleave-toilet-tissue-dispenser-black-700-sheet-capacity-1-dispenser-toilet-tissue-dispensers-essential-supplies-902438.jpg?v=1719445316
   Price: $68.00 NZD
 - [Interleave Toilet Tissue Dispenser - Silver, 700 Sheet Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/interleave-toilet-tissue-dispenser-silver-700-sheet-capacity-1): Interleave toilet tissue dispensers with a stylish look for any bathroom or workspace environment provide superior practicality and hygiene.Compatible with interleave tissue sheets featuring a clear viewing panel and a huge 700 sheet capacity. Interleave toilet tissue dispenser Sturdy and durable design Holds 700 sheets Colour: Silver
-  Updated: 2025-01-09T05:25:08Z
+  Updated: 2025-11-23T10:28:20Z
   Vendor: Mattews Packaging
   Product Type: Toilet Tissue Dispensers
   Availability: Available
