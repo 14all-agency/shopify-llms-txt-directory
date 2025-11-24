@@ -176,7 +176,7 @@ firmer compression sculptwear
 - Timezone: Europe/Dublin
 - Created At: 2023-06-26T10:59:59Z
 - Contact Email: help@sugar-spicy.com
-- Updated At: 2025-11-23T20:00:27.106Z
+- Updated At: 2025-11-24T00:02:09.954Z
 
 BUSINESS INFORMATION — SUGAR + SPICY
 =========================================================
@@ -774,7 +774,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
 ## Products
 
 - [Sugar + Spicy U-Back Maxi Shapewear: Flaunt Flawless Curves!](https://sugar-spicy.com/products/open-back-control-body-dress): Shapewear dresses are the ultimate solution for women who want to enhance their natural curves and achieve a flawless figure. Trust me, this U-back maxi silhouette will flatter your body and make you look stunning.
-  Updated: 2025-07-31T11:29:38Z
+  Updated: 2025-11-23T22:23:49Z
   Vendor: Sugar + Spicy
   Product Type: Shapewear Dress
   Availability: Available
@@ -882,7 +882,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-08-27T173913.102.png?v=1693159858
     Price: $72.00 USD
 - [Chic V-Neck Maxi Dress: Elevate Your Weekend Style!](https://sugar-spicy.com/products/strap-v-neck-shaper-dress): Elevate your weekend wardrobe with our stunning V-neck knit maxi dress! Make a bold statement in this chic ensemble featuring a plunging neckline and elegant maxi length. Perfect for those weekend plans, effortlessly pair it with your favourite high heels and accessories for a show-stopping look. Shop now for the allure of timeless style!
-  Updated: 2025-11-15T12:36:40Z
+  Updated: 2025-11-23T22:29:10Z
   Vendor: Sugar + Spicy
   Product Type: Shapewear Dress
   Availability: Available
@@ -990,42 +990,42 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Availability: Not Available
     Price: $82.00 USD
 - [Sugar + Spicy V-Neck Long Sleeve Body Shaper Dress](https://sugar-spicy.com/products/v-neck-long-sleeve-body-shaper-dress): Flirty, casual, and glam, our “Centre Of Attention” midi dress ticks all the boxes! This long-sleeve midi is perfect for wearing every day while looking gorgeous. This dress will flatter your figure, while the v-neckline accentuates your bust.
-  Updated: 2025-11-16T11:41:55Z
+  Updated: 2025-11-23T21:33:57Z
   Vendor: Sugar + Spicy
   Product Type: Shapewear Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/SeamlessCoveredBustBodysuit__1_-removebg_3.png?v=1703105951
   - [Black / XS-S](https://sugar-spicy.com/products/v-neck-long-sleeve-body-shaper-dress?variant=45550690206008)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/SeamlessCoveredBustBodysuit__1_-removebg_9.png?v=1703105951
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_94.png?v=1763933099
     Price: $98.00 USD
   - [Black / M-L](https://sugar-spicy.com/products/v-neck-long-sleeve-body-shaper-dress?variant=45550690271544)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/SeamlessCoveredBustBodysuit__1_-removebg_9.png?v=1703105951
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_94.png?v=1763933099
     Price: $98.00 USD
   - [Black / XL-XXL](https://sugar-spicy.com/products/v-neck-long-sleeve-body-shaper-dress?variant=45550690337080)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/SeamlessCoveredBustBodysuit__1_-removebg_9.png?v=1703105951
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_94.png?v=1763933099
     Price: $98.00 USD
   - [Black / 3XL-4XL](https://sugar-spicy.com/products/v-neck-long-sleeve-body-shaper-dress?variant=45550690402616)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/SeamlessCoveredBustBodysuit__1_-removebg_9.png?v=1703105951
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_94.png?v=1763933099
     Price: $98.00 USD
   - [Saddlebrown / XS-S](https://sugar-spicy.com/products/v-neck-long-sleeve-body-shaper-dress?variant=45550690238776)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/SeamlessCoveredBustBodysuit__1_-removebg_7.png?v=1703105951
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_96.png?v=1763933099
     Price: $98.00 USD
   - [Saddlebrown / M-L](https://sugar-spicy.com/products/v-neck-long-sleeve-body-shaper-dress?variant=45550690304312)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/SeamlessCoveredBustBodysuit__1_-removebg_7.png?v=1703105951
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_96.png?v=1763933099
     Price: $98.00 USD
   - [Saddlebrown / XL-XXL](https://sugar-spicy.com/products/v-neck-long-sleeve-body-shaper-dress?variant=45550690369848)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/SeamlessCoveredBustBodysuit__1_-removebg_7.png?v=1703105951
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_96.png?v=1763933099
     Price: $98.00 USD
   - [Saddlebrown / 3XL-4XL](https://sugar-spicy.com/products/v-neck-long-sleeve-body-shaper-dress?variant=45550690435384)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/SeamlessCoveredBustBodysuit__1_-removebg_7.png?v=1703105951
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_96.png?v=1763933099
     Price: $98.00 USD
 - [Sugar + Spicy Satin Sculpted Elegance: The Ultimate Figure-Enhancing](https://sugar-spicy.com/products/satin-deep-v-neck-bodysuit): Discover the ultimate bodysuit designed for you! Our figure-enhancing, pearl satin lustre knitted bodysuit offers a perfect fit with a sleek silhouette, low-cut neckline, and sexy V-neck design. Experience luxury and comfort with four-way elasticity and adjustable crotch hooks. Elevate your style effortlessly.
   Updated: 2025-11-23T09:48:40Z
@@ -2085,7 +2085,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Availability: Available
     Price: $78.00 USD
 - [Curves in Confidence: High Waist Shaping Butt Lifter for Instant Lift](https://sugar-spicy.com/products/high-waist-butt-lifter): Elevate your confidence with our High Waist Shaping Butt Lifter! Embrace curves effortlessly with removable pads for fuller buttocks. Compressive fabric smooths and enhances, perfect under tight clothes. Fashionable and versatile, achieves natural lift instantly.
-  Updated: 2025-11-23T12:01:40Z
+  Updated: 2025-11-23T23:32:48Z
   Vendor: Sugar + Spicy
   Product Type: Butt Lifter Body Shaper
   Availability: Available
@@ -2389,7 +2389,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-09-22T222845.706.png?v=1695660931
     Price: $98.00 USD
 - [Sculpt & Support: High-Waisted Shapewear Shorts for Confidence](https://sugar-spicy.com/products/seamless-sculpt-high-waited-shorts): Elevate your confidence with our high-waisted shapewear shorts. Firm compression, butt-shaping pockets, and breathable mesh detail. Say goodbye to rolling with a silicone underband. Slimming mid-thigh length, chafe prevention, and discreet under clothes. Redefine your silhouette effortlessly.
-  Updated: 2025-11-23T18:05:00Z
+  Updated: 2025-11-23T20:34:29Z
   Vendor: Sugar + Spicy
   Product Type: Shapewar
   Availability: Available
@@ -2571,7 +2571,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_4.png?v=1763331453
     Price: $72.00 USD
 - [Revolutionary 3D Shaper: Sculpt, Lift, and Shape with Confidence!](https://sugar-spicy.com/products/high-waisted-sculpt-bodysuit-w-bra-clips-tight-fit): Discover the ultimate sculpting shaper for a sleek silhouette! Our lightweight and powerful 3D full-coverage design lifts flattens, and contours with comfort. Bra clips ensure it stay in place, while seamless leg openings provide a smooth transition. Shape confidently, and remain invisible under clothes!
-  Updated: 2025-11-23T18:31:53Z
+  Updated: 2025-11-23T22:54:09Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -2625,7 +2625,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shapewear-32643946643607_900x_e0526511-d9ba-4f12-951c-5596a2c405bf.jpg?v=1763895721
     Price: $112.00 USD
 - [Seamless Shaping: All-Day Comfort High-waisted Mid-thigh Shaper Shorts](https://sugar-spicy.com/products/high-waisted-mid-thigh-shaper-shorts): Experience our high-waisted shaping garment! Lightweight, seamless design with targeted shaping zones for stomach support. Soft yarns, no-slip waistband, and shirring for a perfect fit. Embrace smooth curves and freedom of movement effortlessly. Say goodbye to muffin tops and hello to a confident you!
-  Updated: 2025-11-23T12:36:19Z
+  Updated: 2025-11-23T20:31:00Z
   Vendor: Sugar + Spicy
   Product Type: Shapewar
   Availability: Available
@@ -3117,58 +3117,58 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Availability: Not Available
     Price: $82.00 USD
 - [Sugar + Spicy Bust Support High Side Slit Shaping Dress](https://sugar-spicy.com/products/bust-support-high-side-slit-shaping-dress): Featuring a flattering diamond neckline and a seductive slit design, it's perfect for any occasion. The high-elastic fabric sculpts your waist and lower abdomen while the seamless knitting technology ensures a soft, second-skin feel. Whether you're dressing up or down, this dress is a must-have for your wardrobe.
-  Updated: 2025-11-17T07:03:32Z
+  Updated: 2025-11-23T22:29:50Z
   Vendor: Sugar + Spicy
   Product Type: Shapewear Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/iStock-478414987.png?v=1726588676
   - [Black / XS-S](https://sugar-spicy.com/products/bust-support-high-side-slit-shaping-dress?variant=49252991238456)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shaping-dress-42613329592544_900x_6a406eba-2fa0-4357-a699-b265894d133b_10.png?v=1726683481
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2025-11-23T215955.795.png?v=1763936093
     Price: $98.00 USD
   - [Black / M-L](https://sugar-spicy.com/products/bust-support-high-side-slit-shaping-dress?variant=49252991271224)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shaping-dress-42613329592544_900x_6a406eba-2fa0-4357-a699-b265894d133b_10.png?v=1726683481
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2025-11-23T215955.795.png?v=1763936093
     Price: $98.00 USD
   - [Black / XL-XXL](https://sugar-spicy.com/products/bust-support-high-side-slit-shaping-dress?variant=49252991303992)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shaping-dress-42613329592544_900x_6a406eba-2fa0-4357-a699-b265894d133b_10.png?v=1726683481
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2025-11-23T215955.795.png?v=1763936093
     Price: $98.00 USD
   - [Black / 3XL-4XL](https://sugar-spicy.com/products/bust-support-high-side-slit-shaping-dress?variant=49252991336760)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shaping-dress-42613329592544_900x_6a406eba-2fa0-4357-a699-b265894d133b_10.png?v=1726683481
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2025-11-23T215955.795.png?v=1763936093
     Price: $98.00 USD
   - [Saddlebrown / XS-S](https://sugar-spicy.com/products/bust-support-high-side-slit-shaping-dress?variant=49252991369528)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shaping-dress-42613329592544_900x_6a406eba-2fa0-4357-a699-b265894d133b_12.png?v=1726683482
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2025-11-23T220033.467.png?v=1763936093
     Price: $98.00 USD
   - [Saddlebrown / M-L](https://sugar-spicy.com/products/bust-support-high-side-slit-shaping-dress?variant=49252991402296)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shaping-dress-42613329592544_900x_6a406eba-2fa0-4357-a699-b265894d133b_12.png?v=1726683482
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2025-11-23T220033.467.png?v=1763936093
     Price: $98.00 USD
   - [Saddlebrown / XL-XXL](https://sugar-spicy.com/products/bust-support-high-side-slit-shaping-dress?variant=49252991435064)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shaping-dress-42613329592544_900x_6a406eba-2fa0-4357-a699-b265894d133b_12.png?v=1726683482
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2025-11-23T220033.467.png?v=1763936093
     Price: $98.00 USD
   - [Saddlebrown / 3XL-4XL](https://sugar-spicy.com/products/bust-support-high-side-slit-shaping-dress?variant=49252991467832)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shaping-dress-42613329592544_900x_6a406eba-2fa0-4357-a699-b265894d133b_12.png?v=1726683482
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2025-11-23T220033.467.png?v=1763936093
     Price: $98.00 USD
   - [Blue / XS-S](https://sugar-spicy.com/products/bust-support-high-side-slit-shaping-dress?variant=49252991631672)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shaping-dress-42613329592544_900x_6a406eba-2fa0-4357-a699-b265894d133b_8.png?v=1734542900
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2025-11-23T220044.523.png?v=1763936093
     Price: $98.00 USD
   - [Blue / M-L](https://sugar-spicy.com/products/bust-support-high-side-slit-shaping-dress?variant=49252991664440)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shaping-dress-42613329592544_900x_6a406eba-2fa0-4357-a699-b265894d133b_8.png?v=1734542900
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2025-11-23T220044.523.png?v=1763936093
     Price: $98.00 USD
   - [Blue / XL-XXL](https://sugar-spicy.com/products/bust-support-high-side-slit-shaping-dress?variant=49252991697208)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shaping-dress-42613329592544_900x_6a406eba-2fa0-4357-a699-b265894d133b_8.png?v=1734542900
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2025-11-23T220044.523.png?v=1763936093
     Price: $98.00 USD
   - [Blue / 3XL-4XL](https://sugar-spicy.com/products/bust-support-high-side-slit-shaping-dress?variant=49252991729976)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/shaping-dress-42613329592544_900x_6a406eba-2fa0-4357-a699-b265894d133b_8.png?v=1734542900
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_-_2025-11-23T220044.523.png?v=1763936093
     Price: $98.00 USD
 - [Firm Body-Shaping Shapewear w/ Triple-Layer Control](https://sugar-spicy.com/products/firm-body-shapewear): Elevate your figure with luxurious shapewear featuring a diamond neckline, steel ring support, triple abdominal control, crotch button, and peach-lifting back shaping.
   Updated: 2025-11-21T23:15:43Z
@@ -4540,14 +4540,14 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
   Updated: 2025-11-20T22:56:38Z
   Total Products: 6
 - [Sugar + Spicy: Designing Shapewear, Empowering Bodies](https://sugar-spicy.com/collections/shop): Embrace your body with shapewear designed for every size and shape. Our technically advanced solutions enhance your curves while our stretchy underwear adapts to you. We're setting new standards for comfort and confidence.
-  Updated: 2025-11-21T17:05:23Z
+  Updated: 2025-11-23T20:34:31Z
   Total Products: 72
 - [Sugar + Spicy New Arrivals | Discover the Latest Trends](https://sugar-spicy.com/collections/new): Explore our latest collection of stylish and trendy pieces. From everyday essentials to statement-making outfits, find your new favorites today.
   Updated: 2025-11-21T23:44:47Z
   Total Products: 28
 - [Sugar Bodysuits for Women With Every Type of Body](https://sugar-spicy.com/collections/sugar-bodysuits): Elevate your confidence with Sugar + Spicy's inclusive range of body shapers, underwear, and shapewear. Our products empower women of all races, body types, and financial backgrounds, delivering comfort and allure. Celebrate your uniqueness with us!
-  Updated: 2025-11-22T20:36:59Z
-  Total Products: 48
+  Updated: 2025-11-23T22:11:11Z
+  Total Products: 52
 - [Sugar + Spicy Sale - Last chance to shop these sale styles!](https://sugar-spicy.com/collections/sale): "These most-wanted silhouettes are selling fast!" We are setting new standards by providing solutions for every body. From technically constructed shapewear that enhances your curves to underwear that stretches to twice its size, our goal is to consistently innovate on the past and advance our industry for the future.
   Updated: 2025-11-21T22:30:33Z
   Total Products: 8
@@ -4555,19 +4555,19 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
   Updated: 2025-11-22T19:59:29Z
   Total Products: 12
 - [Sugar + Spicy Body Shaper Bodysuits for Every Body](https://sugar-spicy.com/collections/body-shaper): Take your shapewear to the next level. Targeted compression sculpts without squeezing and flexible boning prevent roll-down. Breathable, sweat-wicking fabric keeps you cool. Lingerie-inspired designs are just as sexy as they are supportive.
-  Updated: 2025-11-23T19:11:09Z
+  Updated: 2025-11-23T20:34:31Z
   Total Products: 25
 - [Best Sellers Sugar + Spicy Body Shapers Developed For All Bodies Type](https://sugar-spicy.com/collections/best-sellers)
-  Updated: 2025-11-23T10:59:37Z
+  Updated: 2025-11-23T20:34:31Z
   Total Products: 12
 - [Looking for More](https://sugar-spicy.com/collections/looking-for-more)
-  Updated: 2025-11-17T12:14:06Z
+  Updated: 2025-11-23T20:34:31Z
   Total Products: 22
 - [Looking For More 2](https://sugar-spicy.com/collections/looking-for-more-2)
   Updated: 2025-11-21T17:05:23Z
   Total Products: 31
 - [Looking For More 3](https://sugar-spicy.com/collections/looking-for-more-3)
-  Updated: 2025-11-17T12:14:06Z
+  Updated: 2025-11-23T20:34:31Z
   Total Products: 24
 - [Sugar + Spicy Bodysuits and Shapewears Compression Levels LIGHT](https://sugar-spicy.com/collections/light): [LIGHT] Shapewear with light compression offers minimal shaping and smoothing. It's designed to provide a gentle and comfortable level of support without significantly altering the body's contours. Light compression shapewear is suitable for everyday wear and can help minimize slight imperfections without feeling restrictive.
   Updated: 2025-11-21T17:05:23Z
@@ -4576,11 +4576,11 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
   Updated: 2025-08-06T20:28:52Z
   Total Products: 15
 - [Sugar + Spicy Bodysuits and Shapewear Compression Level FIRM](https://sugar-spicy.com/collections/firm): [FIRM] Shapewear with firm compression offers a higher level of shaping and contouring. It provides more intense support and can help define curves, flatten the abdomen, and lift the buttocks. Firm compression shapewear is often chosen for more formal events or when you want a more dramatic transformation.
-  Updated: 2025-11-17T12:14:06Z
+  Updated: 2025-11-23T20:34:31Z
   Total Products: 12
-- [DRESS](https://sugar-spicy.com/collections/dress)
-  Updated: 2025-11-15T22:56:45Z
-  Total Products: 4
+- [Dress](https://sugar-spicy.com/collections/dress)
+  Updated: 2025-11-23T22:36:40Z
+  Total Products: 5
 - [Jumpsuit](https://sugar-spicy.com/collections/jumpsuit)
   Updated: 2025-09-11T11:14:39Z
   Total Products: 10
