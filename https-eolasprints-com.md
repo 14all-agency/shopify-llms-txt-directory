@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-11-23T21:48:10.118Z
+- Updated At: 2025-11-24T00:00:34.130Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -1714,7 +1714,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/ht-hotend-upgrade-for-core-one-and-one-l-3d-printer-nozzle-662.webp?v=1763566120
   Price: €269.00 EUR
 - [Prusa Pro Slx Industrial Msla Resin 3d Printer](https://eolasprints.com/products/prusa-pro-slx-msla-3d-printer): The Prusa Pro SLX from Eolas Prints is a next-gen MSLA 3D printer. It offers a large print volume, active chamber heating, and a robust, safety-focused ecosystem.
-  Updated: 2025-11-23T21:37:10Z
+  Updated: 2025-11-23T21:52:09Z
   Vendor: Prusa Research
   Product Type: 3D Printer
   Availability: Available
