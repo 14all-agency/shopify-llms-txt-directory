@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-28T22:10:57Z
 - Contact Email: contact@swaravcreations.com
-- Updated At: 2025-11-21T00:00:26.920Z
+- Updated At: 2025-11-24T00:00:26.275Z
 
 ## Products
 
@@ -24,28 +24,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4378_transformation_12018.png?v=1762182357
     Price: $69.99 CAD
-- [Forever Love Necklace - Elegant Jewelry by Swarav Creations for You](https://swaravcreations.com/products/forever-love-necklace-white-or-yellow-gold-finish): Discover the stunning Forever Love Necklace by Swarav Creations. This elegant jewelry piece symbolizes endless love, making it the perfect gift for cherished moments.
-  Updated: 2025-11-06T02:11:21Z
+- [Forever Love Necklace - Luxury Box - Elegant Jewelry by Swarav Creations for You](https://swaravcreations.com/products/forever-love-necklace-luxury-box-white-or-yellow-gold-finish): Discover the stunning Forever Love Necklace by Swarav Creations. This elegant jewelry piece symbolizes endless love, making it the perfect gift for cherished moments.
+  Updated: 2025-11-23T23:10:44Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_782_transformation_10609.png?v=1762182434
-  - [14k White Gold Finish / Standard Box](https://swaravcreations.com/products/forever-love-necklace-white-or-yellow-gold-finish?variant=46963772915968)
+  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_1582_transformation_13989.png?v=1762182599
+  - [14k White Gold Finish / Luxury Box](https://swaravcreations.com/products/forever-love-necklace-luxury-box-white-or-yellow-gold-finish?variant=46963772948736)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_782_transformation_10609.png?v=1762182434
-    Price: $64.99 CAD
-  - [14k White Gold Finish / Luxury Box](https://swaravcreations.com/products/forever-love-necklace-white-or-yellow-gold-finish?variant=46963772948736)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_1582_transformation_13989.png?v=1762182599
     Price: $84.99 CAD
-  - [18k Yellow Gold Finish / Standard Box](https://swaravcreations.com/products/forever-love-necklace-white-or-yellow-gold-finish?variant=46963772981504)
+  - [18k Yellow Gold Finish / Luxury Box](https://swaravcreations.com/products/forever-love-necklace-luxury-box-white-or-yellow-gold-finish?variant=46963773014272)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_783_transformation_10610.png?v=1762182532
-    Price: $74.99 CAD
-  - [18k Yellow Gold Finish / Luxury Box](https://swaravcreations.com/products/forever-love-necklace-white-or-yellow-gold-finish?variant=46963773014272)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_1583_transformation_13451.png?v=1762182645
     Price: $94.99 CAD
-- [Alluring Beauty Necklace | Elevate Elegance with Swarav Creations](https://swaravcreations.com/products/alluring-beauty-necklace-white-or-yellow-gold-finish): Discover the Alluring Beauty Necklace from Swarav Creations. Elevate your elegance with this stunning piece that adds charm and sophistication to any outfit. Perfect for every occasion!
-  Updated: 2025-11-06T02:11:22Z
+- [🌸 Alluring Beauty Necklace | Standard Box | Swarav Creations](https://swaravcreations.com/products/alluring-beauty-necklace-white-or-yellow-gold-finish): Discover the Alluring Beauty Necklace from Swarav Creations. Elevate your elegance with this stunning piece that adds charm and sophistication to any outfit. Perfect for every occasion!
+  Updated: 2025-11-23T11:02:39Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
@@ -56,7 +50,6 @@
     Price: $54.99 CAD
   - [14k White Gold Finish / Luxury Box](https://swaravcreations.com/products/alluring-beauty-necklace-white-or-yellow-gold-finish?variant=46968093573376)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4367_transformation_12058.png?v=1762182744
     Price: $74.99 CAD
   - [18K Yellow Gold Finish / Standard Box](https://swaravcreations.com/products/alluring-beauty-necklace-white-or-yellow-gold-finish?variant=46968093606144)
     Availability: Available
@@ -64,7 +57,6 @@
     Price: $64.99 CAD
   - [18K Yellow Gold Finish / Luxury Box](https://swaravcreations.com/products/alluring-beauty-necklace-white-or-yellow-gold-finish?variant=46968093638912)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4366_transformation_12037.png?v=1762182764
     Price: $79.99 CAD
 - [Dog Tag Necklace - Custom Engraved Gift | Swarav Creations](https://swaravcreations.com/products/swarav-creations-gold-marble-dog-tag-necklace-designed-with-custom-engraved-gift-for-him-or-her): Elevate your style with our Gold Marble Dog Tag Necklace. Custom engraved for him or her, this unique piece makes a perfect gift. Order now for a personalized touch!
   Updated: 2025-11-06T02:11:22Z
@@ -881,12 +873,40 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4380_transformation_12024.png?v=1763588706
     Price: $94.99 CAD
 - [Eternal Hope Necklace & Earring Set | Swarav Creations](https://swaravcreations.com/products/eternal-hope-necklace-earring-set-14k-white-gold-luxury-box-swarav-creations): Discover elegance with the Eternal Hope Necklace & Earring Set in 14K White Gold by Swarav Creations. Elevate your style and embrace timeless beauty today!
-  Updated: 2025-11-20T15:19:45Z
+  Updated: 2025-11-23T23:00:16Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4468_transformation_13569.png?v=1763651978
   Price: $85.00 CAD
+- [🌟 Alluring Beauty Necklace with Luxury LED Box | Swarav Creations](https://swaravcreations.com/products/alluring-beauty-necklace-luxury-box-swarav-creations-elevate-your-elegance): Discover the Alluring Beauty Necklace from Swarav Creations. Elevate your elegance with this stunning piece that adds charm and sophistication to any outfit. Perfect for every occasion!
+  Updated: 2025-11-23T10:57:49Z
+  Vendor: Swarav Creations
+  Product Type: Jewelry
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4367_transformation_12058.png?v=1762182744
+  - [14k White Gold Finish / Luxury Box](https://swaravcreations.com/products/alluring-beauty-necklace-luxury-box-swarav-creations-elevate-your-elegance?variant=47318176694528)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4367_transformation_12058.png?v=1762182744
+    Price: $74.99 CAD
+  - [18K Yellow Gold Finish / Luxury Box](https://swaravcreations.com/products/alluring-beauty-necklace-luxury-box-swarav-creations-elevate-your-elegance?variant=47318176760064)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4366_transformation_12037.png?v=1762182764
+    Price: $79.99 CAD
+- [Forever Love Necklace - Elegant Jewelry by Swarav Creations for You](https://swaravcreations.com/products/forever-love-necklace-standard-box-elegant-jewelry-by-swarav-creations): Discover the stunning Forever Love Necklace by Swarav Creations. This elegant jewelry piece symbolizes endless love, making it the perfect gift for cherished moments.
+  Updated: 2025-11-23T21:26:19Z
+  Vendor: Swarav Creations
+  Product Type: Jewelry
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_782_transformation_10609.png?v=1762182434
+  - [14k White Gold Finish / Standard Box](https://swaravcreations.com/products/forever-love-necklace-standard-box-elegant-jewelry-by-swarav-creations?variant=47320428183808)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_782_transformation_10609.png?v=1762182434
+    Price: $64.99 CAD
+  - [18k Yellow Gold Finish / Standard Box](https://swaravcreations.com/products/forever-love-necklace-standard-box-elegant-jewelry-by-swarav-creations?variant=47320428249344)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_783_transformation_10610.png?v=1762182532
+    Price: $74.99 CAD
 
 ## Collections
 
@@ -894,26 +914,26 @@
   Updated: 2025-11-16T23:22:12Z
   Total Products: 7
 - [New Arrivals - Discover the Latest Styles and Trends Today!](https://swaravcreations.com/collections/new-arrivals): New Arrivals Collection  - Discover our exclusive New Arrivals Collection featuring the latest trends and must-have items. Elevate your style with fresh pieces designed for every occasion. Shop now!
-  Updated: 2025-11-16T23:22:12Z
-  Total Products: 20
+  Updated: 2025-11-23T21:26:17Z
+  Total Products: 22
 - [Best Sellers](https://swaravcreations.com/collections/best-sellers): Shop Swarav Creations Best Sellers—top-rated necklaces in 14k white or 18k yellow gold finishes, brilliant CZ stones, gift-ready packaging, and fast, tracked shipping.
-  Updated: 2025-11-16T02:59:07Z
-  Total Products: 16
+  Updated: 2025-11-23T21:26:17Z
+  Total Products: 18
 - [Gifts Under $60](https://swaravcreations.com/collections/gifts-under-60)
-  Updated: 2025-11-16T02:59:07Z
+  Updated: 2025-11-22T23:02:43Z
   Total Products: 11
 - [Gifts $60–$100](https://swaravcreations.com/collections/gifts-60-100)
-  Updated: 2025-11-16T02:59:07Z
-  Total Products: 16
+  Updated: 2025-11-23T21:26:17Z
+  Total Products: 18
 - [Gifts Over $100](https://swaravcreations.com/collections/gifts-over-100)
   Updated: 2025-11-10T03:00:01Z
   Total Products: 2
 - [Necklaces – Elegant & Meaningful Jewelry by Swarav Creations - Swarav Creations](https://swaravcreations.com/collections/necklaces-elegant-meaningful-jewelry-by-swarav-creations): Discover exquisite necklaces from Swarav Creations — where every piece is crafted with love, meaning, and timeless beauty. From sparkling pendants to personalized gifts, our necklace collection features elegant designs that make every moment special. Whether you’re celebrating love, friendship, or milestones, you’ll find the perfect necklace to express your heart. Handcrafted from premium materials and available in stunning finishes, these necklaces are ideal for birthdays, anniversaries, Valentine’s Day, and more. ✨ Designed with Heart. Crafted to Sparkle. - Swarav Creations
-  Updated: 2025-11-16T02:59:07Z
-  Total Products: 16
+  Updated: 2025-11-23T21:26:17Z
+  Total Products: 18
 - [Necklace & Earring - Swarav Creations](https://swaravcreations.com/collections/necklace-earring): - Swarav Creations
-  Updated: 2025-11-16T23:22:12Z
-  Total Products: 19
+  Updated: 2025-11-23T21:26:17Z
+  Total Products: 21
 - [Earring - Swarav Creations](https://swaravcreations.com/collections/earring): - Swarav Creations
   Updated: 2025-11-10T03:00:01Z
   Total Products: 2
@@ -961,6 +981,10 @@
     Updated: 2025-11-17T01:10:01Z
     Author: Swarav Creations
     Tags: anniversary gifts, anniversary jewelry gift, baby feet necklace, best gifts for wife, gift, gift for her, love, love knot necklace, meaningful jewelry for her, mom jewelry gift, personalized gift, personalized gifts, romance, romantic gift for wife, romantic gift ideas, romantic gift jewelry, romantic jewelry gift, sentimental jewelry, thoughtful gift suggestions, timeless necklace
+  - [Comparing Timeless Necklace Styles and Trends for Classic Anniversaries](https://swaravcreations.com/blogs/news/comparing-timeless-necklace-styles-and-trends-for-classic-anniversaries): Comparing Timeless Necklace Styles and Trends for Classic Anniversaries
+    Updated: 2025-11-21T00:34:43Z
+    Author: Swarav Creations
+    Tags: anniversaries, anniversary jewelry gift, baby feet necklace, best anniversary jewelry gifts, classic jewelry, elegant necklace designs, fashion trends, gift for her, love knot necklace, meaningful jewelry for her, mom jewelry gift, necklace styles, necklaces, personalized gift, romantic gift for wife, romantic gift jewelry, romantic jewelry gift, sentimental jewelry, timeless, timeless necklace
 
 ## Store Pages
 
