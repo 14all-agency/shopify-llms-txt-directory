@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-11-22T00:00:52.723Z
+- Updated At: 2025-11-24T00:00:38.623Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
@@ -137,7 +137,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTMwNzc1NzQuanBn_69246603-f948-45ee-91e5-e55cac4465bb.jpg?v=1761071676
     Price: 25,00 € EUR
 - [Oversize-Pullover](https://lastradafashion.de/products/oversize-pullover): Der Pullover vereint entspannten Chic mit edler Strickqualität – ein Statement für moderne Lässigkeit. Der locker fallende Oversize-Schnitt mit überschnittenen Schultern und Fledermausärmeln sorgt für maximale Bewegungsfreiheit und einen modischen Look. Der asymmetrisch abgerundete Saum verleiht dem Design eine spannende Dynamik und macht den Pullover zum perfekten Stylingpartner für Layering-Looks. Ob zu schmalen Hosen, über einem Kleid oder als cozy Look zu Jeans: Der Pullover passt sich deinem Stil an und bleibt dabei immer stilvoll. Ein absolutes Must-have für kühlere Tage mit modischem Anspruch.
-  Updated: 2025-11-08T11:26:41Z
+  Updated: 2025-11-22T12:41:10Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -435,7 +435,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/grosse-blumen-brosche-la-strada-9.jpg?v=1719331925
     Price: 12,00 € EUR
 - [Elegantes Feinstrick-Shirt](https://lastradafashion.de/products/elegantes-feinstrick-shirt): Eleganz in ihrer pursten Form: Das Feinstrick-Shirt begeistert mit seiner cleanen Silhouette und dem edlen Look. Der weich fließende V-Ausschnitt bringt feminine Raffinesse ins Spiel, während der körpernahe, aber nicht anliegende Schnitt angenehm schmeichelt. Die glatte Feinstrick-Optik wirkt besonders hochwertig und sorgt in Kombination mit den schmalen, langen Ärmeln für eine stilvolle Linienführung. Dank des edlen Materials trägt sich das Shirt besonders angenehm auf der Haut und bietet hohen Tragekomfort – perfekt für den Alltag und elegante Anlässe. Ein dezentes Highlight, das in keiner stilbewussten Garderobe fehlen darf – ein echtes Must-have!
-  Updated: 2025-11-21T14:55:05Z
+  Updated: 2025-11-22T15:40:50Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -2637,7 +2637,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS0yMTI3MzItNDA2ODM4MjE1MTQ3MS1icmF1bi0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760985270
     Price: 65,00 € EUR
 - [Sweatshirt mit Applikation](https://lastradafashion.de/products/sweatshirt-mit-applikation): Dieses Sweatshirt bringt stylische Lässigkeit und verspielten Charme zusammen. Der „Love“-Patch auf der Vorderseite setzt ein besonderes Fashion-Statement und verleiht dem Look einen modernen, jugendlichen Twist. Der Rundhalsausschnitt und die leicht überschnittenen Schultern sorgen für ein entspanntes Tragegefühl, während der verlängerte Rückensaum dem klassischen Schnitt eine trendige Silhouette verleiht. Ob zu Denim, Leggings oder Minirock: Dieses Sweatshirt lässt sich vielseitig kombinieren und ist ein lässiger Eyecatcher mit Persönlichkeit. GrößeOne Size
-  Updated: 2025-11-16T08:28:09Z
+  Updated: 2025-11-22T18:21:44Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -3060,7 +3060,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2024-09-04T14:12:34Z
   Total Products: 3
 - [Sweatshirts](https://lastradafashion.de/collections/sweatshirts): Sweatshirts von La Strada – Lässiger Stil trifft auf Komfort Die Sweatshirts von La Strada vereinen modischen Stil mit höchstem Komfort. Ob für entspannte Tage, sportliche Aktivitäten oder als lässiges Fashion-Statement – unsere Sweatshirts sind die perfekte Wahl für jeden Anlass. Mit einer breiten Auswahl an Farben, Schnitten und Designs finden Sie garantiert das passende Sweatshirt, das Ihren individuellen Stil unterstreicht.
-  Updated: 2025-11-16T12:14:21Z
+  Updated: 2025-11-23T12:13:47Z
   Total Products: 81
 - [T-Shirts](https://lastradafashion.de/collections/t-shirts): T-Shirts von La Strada Die T-Shirts von La Strada sind unverzichtbare Basics für Ihren Kleiderschrank. Sie bieten vielfältige Möglichkeiten, um einen lässigen und dennoch stilvollen Look zu kreieren. Die T-Shirts zeichnen sich durch hochwertige Materialien und eine erstklassige Verarbeitung aus, was für ein angenehmes Tragegefühl sorgt. Die Designs reichen von schlichten und zeitlosen Modellen bis hin zu auffälligen Prints und Verzierungen, die das T-Shirt zu einem Blickfang machen. Die Passformen sind vielfältig und reichen von locker und entspannt bis hin zu figurbetont und feminin. Mit den T-Shirts von La Strada können Sie Ihren individuellen Stil zum Ausdruck bringen und sie lassen sich perfekt zu verschiedenen Outfits kombinieren. Egal, ob Sie sie zu Jeans, Röcken oder Shorts tragen, die T-Shirts von La Strada verleihen Ihrem Look einen Hauch von Lässigkeit und Eleganz.
   Updated: 2025-10-26T17:26:24Z
@@ -3255,7 +3255,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-11-19T12:15:13Z
   Total Products: 77
 - [Kleidung](https://lastradafashion.de/collections/kleidung): Entdecken Sie die inspirierende Welt der italienischen Damenmode mit der Kleidung von La Strada. Unsere exklusiven Kollektionen bieten Ihnen eine vielfältige Auswahl an stilvoller Bekleidung, die perfekt dazu geeignet ist, Ihren individuellen Stil zu unterstreichen. Mode, die Komfort und Stil vereint.
-  Updated: 2025-11-19T12:15:13Z
+  Updated: 2025-11-23T12:13:47Z
   Total Products: 2302
 - [Taschengurte](https://lastradafashion.de/collections/taschengurte): Taschengurte von La Strada Die Taschengurte von La Strada sind ein unverzichtbares Accessoire für alle, die ihre Taschenkollektion aufwerten und personalisieren möchten. Sie sind ein Ausdruck von Stil, Qualität und Praktikabilität, und tragen dazu bei, dass die Tasche zu einem unverwechselbaren und persönlichen Accessoire wird. Das Sortiment umfasst eine breite Auswahl an Taschengurten in verschiedenen Farben, Mustern und Stilen. Von schlichten und einfarbigen Gurten bis hin zu auffälligen Prints und Verzierungen bietet La Strada vielfältige Optionen, um den individuellen Geschmack und Stil jedes Kunden zu treffen.
   Updated: 2025-10-21T18:44:03Z
@@ -3267,7 +3267,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2024-09-04T14:12:32Z
   Total Products: 1
 - [Neu eingetroffene italienische Damenmode](https://lastradafashion.de/collections/neuheiten): Die Neuheiten spiegeln die aktuellen Modetrends wider und bieten den Kunden die Möglichkeit, immer up-to-date zu sein. Jetzt vorbeischauen!
-  Updated: 2025-11-19T12:15:13Z
+  Updated: 2025-11-23T12:13:47Z
   Total Products: 1585
 - [Italienische Abendmode für Damen](https://lastradafashion.de/collections/abend-looks): Italienische Abend-Outfits von La Strada entdecken. Lassen Sie sich von der neusten italienischen Damenmode inspirieren und bestellen Sie bequem, sicher & schnell.
   Updated: 2025-10-28T12:34:11Z
@@ -3309,7 +3309,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T09:41:53Z
   Total Products: 60
 - [Bestseller](https://lastradafashion.de/collections/bestseller): Entdecken Sie die beliebtesten und meistverkauften Stücke von La Strada. Unsere "Bestseller" sind die Favoriten unserer Kundinnen und verkörpern den einzigartigen Stil und die Qualität, für die La Strada bekannt ist. In der "Bestseller"-Kollektion finden Sie eine handverlesene Auswahl an Kleidungsstücken, die sich durch ihre zeitlose Eleganz, erstklassige Qualität und perfekte Passform auszeichnen. Jedes Stück wurde mit Liebe zum Detail entworfen, um Ihnen einen modischen Look und höchsten Tragekomfort zu bieten. Unsere Bestseller repräsentieren eine Vielfalt an Styles und Designs, die jedem Geschmack gerecht werden. Von klassischen Kleidern über vielseitige Blusen bis hin zu bequemen Hosen - unsere Kollektion bietet Ihnen die Möglichkeit, Ihren persönlichen Stil zum Ausdruck zu bringen und sich selbstbewusst zu präsentieren.
-  Updated: 2025-11-19T12:15:13Z
+  Updated: 2025-11-23T12:13:47Z
   Total Products: 105
 - [Italienische Sommerschuhe für Damen](https://lastradafashion.de/collections/homepage-sommerschuhe): Von Pantoletten und Sandalen bis hin zu Espadrilles und Sneakers haben wir für jeden Geschmack und Anlass den passenden Schuh. Jetzt entdecken!
   Updated: 2025-10-21T09:42:35Z
@@ -3498,10 +3498,10 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-11-19T12:15:13Z
   Total Products: 22
 - [Sortiment](https://lastradafashion.de/collections/sortiment): Angebote von La Strada La Strada präsentiert eine umfassende Auswahl an italienischer Damenmode, Schuhen und Accessoires. Unser Sortiment spiegelt die Vielfalt der italienischen Mode wider, von zeitlosen Schnitten bis zu modernen Designs. Sorgfältig ausgewählte Stücke betonen die Handwerkskunst und den Stil Italiens. Unsere Damenmode kombiniert klassische Eleganz mit zeitgemäßem Design. Die Schuhkollektion bietet sowohl traditionelle italienische Stiefel als auch moderne Sandalen, die auf Qualität und Komfort setzen. Unsere Accessoires, darunter Taschen, Schmuck und Tücher, runden das Angebot ab und setzen stilvolle Akzente. La Strada zeichnet sich durch ein Augenmerk auf Qualität und Stil aus. Unser Ziel ist es, Frauen jeden Alters zu inspirieren und ihnen die Möglichkeit zu bieten, ihre Persönlichkeit durch Mode auszudrücken. Bei uns finden Sie nicht nur Produkte, sondern ein Erlebnis, das die Eleganz und Kreativität der italienischen Mode betont. Willkommen bei La Strada, wo jedes Stück eine Geschichte erzählt und jede Kollektion die Vielfalt der Mode repräsentiert.
-  Updated: 2025-11-19T12:15:13Z
+  Updated: 2025-11-23T12:13:47Z
   Total Products: 2749
 - [discount_not-on-sale_cap-is-zero](https://lastradafashion.de/collections/not-on-sale)
-  Updated: 2025-11-19T12:15:13Z
+  Updated: 2025-11-23T12:13:47Z
   Total Products: 529
 - [Winter 2023](https://lastradafashion.de/collections/winter-2023): Die Winterkollektion von La Strada Tauchen Sie ein in die Welt der Eleganz und Behaglichkeit mit unserer Winterkollektion von La Strada. Diese exquisite Auswahl an Modestücken wurde sorgfältig zusammengestellt, um Ihnen in der kalten Jahreszeit Wärme und Stil zu bieten. Hier finden Sie eine breite Palette von Mänteln und Jacken, die nicht nur vor den winterlichen Temperaturen schützen, sondern auch Ihre Persönlichkeit unterstreichen. Kuschelige Mäntel und stilvolle Jacken Unsere Kollektion präsentiert eine Vielfalt an Mänteln, vom zeitlosen Wollmantel bis zum trendigen Steppmantel. Erleben Sie höchsten Tragekomfort und bleiben Sie dabei modisch im Fokus. Die sorgfältige Auswahl von hochwertigen Materialien und durchdachten Designs macht jeden Mantel zu einem Statement-Piece, das Ihren Winter-Look perfektioniert. Festliche Kleider für die Feiertage Für besondere Anlässe und festliche Momente bieten wir eine Auswahl an eleganten Kleidern. Von schlichten Schnitten bis zu aufwendig verzierten Designs – unsere Winterkollektion bringt den Zauber der Feiertage in Ihren Kleiderschrank. Verleihen Sie Ihren Festlichkeiten Glanz und Glamour mit einem Winterkleid von La Strada. Blusen für den perfekten Layering-Look Kombinieren Sie Ihre Wintergarderobe mit stilvollen Blusen, die nicht nur wärmend sind, sondern auch Vielseitigkeit in Ihre Outfits bringen. Ob unter einem Pullover getragen oder als eigenständiges Statement-Piece, unsere Blusen sind die perfekte Ergänzung für einen raffinierten Layering-Look. Wählen Sie Qualität und Stil La Strada steht für Qualität und Stil, und unsere Winterkollektion spiegelt dieses Versprechen wider. Jedes Stück wurde mit Liebe zum Detail entworfen, um Ihnen nicht nur Wärme zu bieten, sondern auch Ihre persönliche Stilpräferenz zu unterstreichen. Ihr Winter-Wardrobe Upgrade Entdecken Sie die Eleganz und Vielfalt der La Strada Winterkollektion. Tauchen Sie ein in die Welt von warmen Mänteln, festlichen Kleidern und stilvollen Blusen. Gestalten Sie Ihren Winter-Look mit zeitloser Eleganz und genießen Sie die Kombination aus Komfort und Stil. Ihre Winterkollektion erwartet Sie – erleben Sie Mode, die nicht nur vor Kälte schützt, sondern auch Ihr individuelles Stilbewusstsein unterstreicht.
   Updated: 2025-11-06T12:15:35Z
@@ -3570,7 +3570,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T09:41:39Z
   Total Products: 23
 - [discount_not-on-sale_cap-is-empty](https://lastradafashion.de/collections/discount_not-on-sale_cap-is-empty)
-  Updated: 2025-11-19T12:15:13Z
+  Updated: 2025-11-23T12:13:47Z
   Total Products: 529
 - [Beste Kundin Geschenk](https://lastradafashion.de/collections/beste-kundin-geschenk)
   Updated: 2025-10-21T09:41:44Z
@@ -3612,7 +3612,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2024-09-18T18:12:36Z
   Total Products: 0
 - [Sweat](https://lastradafashion.de/collections/sweat): Sweatshirts, Sweatjacken & Hoodies von La Strada Entdecken Sie die Sweat-Kollektion von La Strada, die Sweatshirts, Sweatjacken, Sweathosen und Hoodies in erstklassiger Qualität und modernem Design bietet. Jedes Stück wurde mit einem Fokus auf Komfort, Langlebigkeit und Stil entworfen, sodass Sie in jeder Situation gut aussehen und sich gleichzeitig wohlfühlen. Stilvolle Sweatshirts und Hoodies für jeden Anlass Die Sweatshirts, Sweatjacken, Sweathosen und Hoodies von La Strada sind die perfekte Wahl für einen lässigen Look, der sowohl modisch als auch bequem ist. Egal, ob Sie sich für einen entspannten Tag zu Hause, ein Treffen mit Freunden oder den Stadtbummel entscheiden – mit unserer Sweat-Kollektion sind Sie immer gut angezogen. Dank der Kombination aus modernen Schnitten und klassischen Farben lassen sich unsere Sweat-Teile vielseitig kombinieren und passen zu jeder Garderobe. Hochwertige Materialien für maximalen Komfort La Strada verwendet nur hochwertige Materialien, um Sweatshirts, Hoodies und Sweatjacken zu kreieren, die nicht nur gut aussehen, sondern auch angenehm zu tragen sind. Weiche Stoffe sorgen für höchsten Tragekomfort, während die durchdachte Verarbeitung sicherstellt, dass die Kleidungsstücke langlebig und formbeständig bleiben. Ideal für die kühleren Monate wie Herbst und Winter, aber auch perfekt für Übergangszeiten oder entspannte Tage im Frühling. Sweatmode für den modernen Alltag Unsere Hoodies, Sweatjacken und Sweatshirts sind wahre Allrounder und passen zu jeder Gelegenheit. Ob lässig zu Jeans, kombiniert mit einer Jogginghose für sportliche Looks oder als stylische Ergänzung zu einem entspannten Outfit – die Sweatmode von La Strada ist vielseitig und stets ein modisches Highlight. Mit trendigen Details, wie Kapuzen, Reißverschlüssen und praktischen Taschen, bieten unsere Sweats nicht nur Stil, sondern auch Funktionalität.
-  Updated: 2025-11-16T12:14:21Z
+  Updated: 2025-11-23T12:13:47Z
   Total Products: 56
 - [Sweatjacke](https://lastradafashion.de/collections/sweatjacke): Sweatjacken von La Strada – Komfort trifft auf vielseitigen Stil Die Sweatjacken von La Strada sind die ideale Kombination aus Komfort und modernem Stil. Ob für einen entspannten Tag, sportliche Aktivitäten oder als lässige Ergänzung zu Ihrem Alltagsoutfit – unsere Sweatjacken bieten Ihnen nicht nur Wärme und Bequemlichkeit, sondern auch einen modischen Look, der sich perfekt in Ihre Garderobe integriert.
   Updated: 2025-11-05T12:15:24Z
