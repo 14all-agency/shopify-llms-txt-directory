@@ -176,7 +176,7 @@ firmer compression sculptwear
 - Timezone: Europe/Dublin
 - Created At: 2023-06-26T10:59:59Z
 - Contact Email: help@sugar-spicy.com
-- Updated At: 2025-11-24T08:00:26.728Z
+- Updated At: 2025-11-24T12:00:27.348Z
 
 BUSINESS INFORMATION — SUGAR + SPICY
 =========================================================
@@ -774,7 +774,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
 ## Products
 
 - [Sugar + Spicy U-Back Maxi Shapewear: Flaunt Flawless Curves!](https://sugar-spicy.com/products/open-back-control-body-dress): Shapewear dresses are the ultimate solution for women who want to enhance their natural curves and achieve a flawless figure. Trust me, this U-back maxi silhouette will flatter your body and make you look stunning.
-  Updated: 2025-11-23T22:23:49Z
+  Updated: 2025-11-24T10:24:06Z
   Vendor: Sugar + Spicy
   Product Type: Shapewear Dress
   Availability: Available
@@ -882,7 +882,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-08-27T173913.102.png?v=1693159858
     Price: $72.00 USD
 - [Chic V-Neck Maxi Dress: Elevate Your Weekend Style!](https://sugar-spicy.com/products/strap-v-neck-shaper-dress): Elevate your weekend wardrobe with our stunning V-neck knit maxi dress! Make a bold statement in this chic ensemble featuring a plunging neckline and elegant maxi length. Perfect for those weekend plans, effortlessly pair it with your favourite high heels and accessories for a show-stopping look. Shop now for the allure of timeless style!
-  Updated: 2025-11-23T22:29:10Z
+  Updated: 2025-11-24T10:26:11Z
   Vendor: Sugar + Spicy
   Product Type: Shapewear Dress
   Availability: Available
@@ -2389,7 +2389,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2023-09-22T222845.706.png?v=1695660931
     Price: $98.00 USD
 - [Sculpt & Support: High-Waisted Shapewear Shorts for Confidence](https://sugar-spicy.com/products/seamless-sculpt-high-waited-shorts): Elevate your confidence with our high-waisted shapewear shorts. Firm compression, butt-shaping pockets, and breathable mesh detail. Say goodbye to rolling with a silicone underband. Slimming mid-thigh length, chafe prevention, and discreet under clothes. Redefine your silhouette effortlessly.
-  Updated: 2025-11-23T20:34:29Z
+  Updated: 2025-11-24T08:34:37Z
   Vendor: Sugar + Spicy
   Product Type: Shapewar
   Availability: Available
@@ -3117,7 +3117,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Availability: Not Available
     Price: $82.00 USD
 - [Sugar + Spicy Bust Support High Side Slit Shaping Dress](https://sugar-spicy.com/products/bust-support-high-side-slit-shaping-dress): Featuring a flattering diamond neckline and a seductive slit design, it's perfect for any occasion. The high-elastic fabric sculpts your waist and lower abdomen while the seamless knitting technology ensures a soft, second-skin feel. Whether you're dressing up or down, this dress is a must-have for your wardrobe.
-  Updated: 2025-11-23T22:29:50Z
+  Updated: 2025-11-24T10:07:55Z
   Vendor: Sugar + Spicy
   Product Type: Shapewear Dress
   Availability: Available
