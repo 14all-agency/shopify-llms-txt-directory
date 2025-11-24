@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-11-22T00:00:47.321Z
+- Updated At: 2025-11-24T00:01:48.467Z
 
 ## Products
 
@@ -1046,7 +1046,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/rustic-lift-top-coffee-table-setup.webp?v=1728436010
     Price: $89.95 USD
 - [Crossbody Bag Quilted Small for Hands-Free Style](https://ursupermart.com/products/crossbody-bag-quilted-small-hands-free-style): This stylish quilted crossbody bag offers hands-free convenience and secure storage for your daily essentials; get yours for effortless style and comfort on the go.
-  Updated: 2025-11-19T20:10:04Z
+  Updated: 2025-11-22T21:47:45Z
   Vendor: S1B|S1|S1B|Meta - Trendsi**-UP
   Product Type: Sling Backpack
   Availability: Available
@@ -1302,7 +1302,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/red-plaid-santa-chair-cover-christmas.webp?v=1731794947
     Price: $14.95 USD
 - [Christmas Figurines 4-Pack Plush Holiday Decor Set](https://ursupermart.com/products/christmas-figurines-4-pack-plush-holiday-decor): Christmas figurines: This charming set of four handcrafted plush characters will bring festive joy to your home, creating lasting memories; buy yours now!
-  Updated: 2025-11-19T20:10:31Z
+  Updated: 2025-11-23T23:23:43Z
   Vendor: S1B|S1|S1B|Meta - Trendsi**-UP
   Product Type: Plush Christmas figurine set
   Availability: Available
@@ -15693,7 +15693,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/green-bodycon-midi-dress-styled-look.webp?v=1744684074
     Price: $117.95 USD
 - [Sequin Spliced Mesh Dress  Formal Gown with Thigh High Slit](https://ursupermart.com/products/sequin-spliced-mesh-dress-with-thigh-slit): Turn heads in our sequin spliced mesh evening gown. Featuring corset bodice, high thigh slit & curve-hugging fit. Perfect for special occasions.
-  Updated: 2025-11-21T05:15:16Z
+  Updated: 2025-11-22T05:44:20Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Sequin Spliced Mesh Dress
   Availability: Available
@@ -15707,7 +15707,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/red-sequin-mesh-evening-gown.webp?v=1744686527
     Price: $84.95 USD
   - [Red / M](https://ursupermart.com/products/sequin-spliced-mesh-dress-with-thigh-slit?variant=41867426988122)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/red-sequin-mesh-evening-gown.webp?v=1744686527
     Price: $84.95 USD
   - [Black / M](https://ursupermart.com/products/sequin-spliced-mesh-dress-with-thigh-slit?variant=41867427020890)
@@ -16836,7 +16836,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/613084827819.jpg?v=1746978859
     Price: $27.95 USD
 - [Car windshield defogger for clear views and comfort.](https://ursupermart.com/products/car-windshield-defogger-quick-clear-comfort-safe): Car windshield defogger quickly clears fog and ice, offering dual heating and cooling for year-round comfort and safer drives. Ensure clear views and comfort now!
-  Updated: 2025-11-19T20:47:18Z
+  Updated: 2025-11-23T23:26:25Z
   Vendor: S1B|Make | CJ
   Product Type: Car mounted cooling and heating fan
   Availability: Available
@@ -19746,7 +19746,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wireless-fast-charging-station-white-dock-nightstand.webp?v=1750560935
     Price: $39.95 USD
 - [E-Ink Phone Case with Photo for Iphone  Customize your Life](https://ursupermart.com/products/personalized-e-ink-phone-case-with-photo-iphone): Protect your phone with a custom  E-Ink phone case that's as unique as you are. This NFC Phone Case lets you personalize your Iphone with your favorite photo.
-  Updated: 2025-11-19T20:54:20Z
+  Updated: 2025-11-22T15:26:30Z
   Vendor: S1B|@Updated - CJ
   Product Type: Custom NFC e-ink display phone case
   Availability: Available
@@ -21554,7 +21554,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2025-11-21T13:26:41Z
+  Updated: 2025-11-23T12:26:30Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -22538,7 +22538,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fleece-jogger-pink-women-soft-drawstring-pants.webp?v=1751594983
     Price: $38.95 USD
 - [Men's Trousers for Comfort and Style Everyday](https://ursupermart.com/products/mens-trousers-with-large-pockets-for-comfort-and-practicality): Comfortable men's trousers with large pockets and durable stitching, perfect for work, hiking, or everyday use.
-  Updated: 2025-11-19T21:01:07Z
+  Updated: 2025-11-23T06:26:47Z
   Vendor: S1B|@Updated - CJ
   Product Type: Men's Trousers
   Availability: Available
@@ -22737,7 +22737,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/659c82c8-d7e4-4b58-9740-6e2f8fcec335.jpg?v=1755830480
   Price: $649.95 USD
 - [Fairy Lights String Christmas Ribbon Bow Tie](https://ursupermart.com/products/fairy-lights-string-christmas-ribbon-bow-tie): Product information: Packing: OPP bag Item No.: Ribbon with colorful lights Material: Cloth + LED light Size: width 5CM Packing list: Lantern*1
-  Updated: 2025-11-21T20:26:41Z
+  Updated: 2025-11-23T19:26:56Z
   Vendor: S1B|@CJ
   Product Type: Ribbon Christmas Lights
   Availability: Available
@@ -31211,7 +31211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-insulated-jacket-green-black.webp?v=1763558045
     Price: $59.95 USD
 - [Winter Parka for Women Warm Fur Hooded Stylish Coat](https://ursupermart.com/products/women-fur-hooded-warm-winter-parka-coat-stylish): Winter Parka for women: Stay warm and stylish in this versatile, fur-hooded coat with secure pockets and an adjustable waist for a perfect fit. Shop today!
-  Updated: 2025-11-20T11:28:06Z
+  Updated: 2025-11-22T01:26:45Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Winter Parka
   Availability: Available
@@ -33623,7 +33623,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/indoor-putting-green-size-specs-view.webp?v=1762485223
   Price: $129.95 USD
 - [Christmas Elf Doll Funny Ozzy Rocker Holiday Gag Gift](https://ursupermart.com/products/christmas-elf-doll-funny-rocker-gag-gift-holiday-decor): This funny christmas elf doll, resembling a rock legend, brings humorous, poseable fun to your holidays. Grab this unique decoration and make everyone laugh!
-  Updated: 2025-11-20T03:05:41Z
+  Updated: 2025-11-22T13:26:47Z
   Vendor: S1B|S1|CJ
   Product Type: Novelty Doll
   Availability: Available
@@ -35996,172 +35996,1319 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-red-velvet-dress-holiday-twirl.webp?v=1763520596
     Price: $54.95 USD
-- [Hooded Cloak Medieval Renaissance 5 Color Printed Cloak Halloween Cosplay Costume New Fashion Festival Play Costume Halloween Costumes](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes): Overview: Unique design, stylish and beautiful. Good material, High quality. 100% Brand New. A variety of colors, any choice. Comfortable to wear. Product information: Applicable gender: unisex / both men and women Pattern: plain Suitable season: summer, winter, spring, autumn Main fabric composition: Polyester Color: red, purple, green, black, blue Size Information: Size: Kids 110-120, Kids 120-130, Kids 130-140, Kids 140-150, S-M, L-XL, 2XL-3XL, 4XL-5XL Aldult： Size（cm） Length S-M 139 L-XL 147 2XL-3XL 155 4XL-5XL 156 Child： Size（cm） Length S 100 M 108 L 116 XL 124 Note： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Ladies' Cloak*1
-  Updated: 2025-11-21T17:51:07Z
-  Vendor: S1B|S1|S1B|Make | Meta - Dsers**-UP + Blog
-  Product Type: 2.4G wireless mouse
+- [Pearl Drop Earrings Gold - Elegant Dangle Studs for Women](https://ursupermart.com/products/pearl-drop-earrings-gold-elegant-dangle-studs-for-women): Pearl drop earrings gold add elegant sparkle to any outfit, perfect for special events or daily glamour; elevate your style and shop now!
+  Updated: 2025-11-22T06:42:09Z
+  Vendor: S1B|S1|CJ
+  Product Type: Dangling earrings
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/87cec598-0de5-4d77-9c3f-6970271f5920.jpg?v=1763744430
-  - [Black / 2XLto3XL](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089039962)
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/8e525bd7-608a-4fd5-a049-c1b7b262a732.jpg?v=1763746047
+  - [Champagne Gold / 1 Pair](https://ursupermart.com/products/pearl-drop-earrings-gold-elegant-dangle-studs-for-women?variant=42582134980698)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1c9f3a08-db5f-4559-b661-2b4ad2766574.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Black / 4XLto5XL](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089072730)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/33ac530b-4be3-43d9-8338-e0387f78ee22.jpg?v=1763746053
+    Price: $0.00 USD
+  - [White / 1 Pair](https://ursupermart.com/products/pearl-drop-earrings-gold-elegant-dangle-studs-for-women?variant=42582135046234)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1c9f3a08-db5f-4559-b661-2b4ad2766574.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Black / Children 140to150](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089105498)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/15a7d85f-0937-462b-aac5-0384bcbc9948.jpg?v=1763746053
+    Price: $0.00 USD
+- [Rose Gold Cat Ring: Cute Pink Cat, Sparkle & Style](https://ursupermart.com/products/rose-gold-cat-ring-cute-pink-cat-sparkle-style-crystal): This rose gold cat ring features a cute pink cat with sparkle stones and a double band. Express your feline love and unique style; get yours today!
+  Updated: 2025-11-22T06:41:26Z
+  Vendor: S1B|S1|CJ
+  Product Type: Ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/dd41d031-d25d-474e-a393-dc5733184cb3.jpg?v=1763746900
+  - [Pink cat / 10](https://ursupermart.com/products/rose-gold-cat-ring-cute-pink-cat-sparkle-style-crystal?variant=42582163292250)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1c9f3a08-db5f-4559-b661-2b4ad2766574.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Black / Children110to120](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089138266)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1621060927294.jpg?v=1763746905
+    Price: $0.00 USD
+  - [Pink cat / 6](https://ursupermart.com/products/rose-gold-cat-ring-cute-pink-cat-sparkle-style-crystal?variant=42582163325018)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1c9f3a08-db5f-4559-b661-2b4ad2766574.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Black / Children120to130](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089171034)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1621060927294.jpg?v=1763746905
+    Price: $0.00 USD
+  - [Pink cat / 7](https://ursupermart.com/products/rose-gold-cat-ring-cute-pink-cat-sparkle-style-crystal?variant=42582163357786)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1c9f3a08-db5f-4559-b661-2b4ad2766574.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Black / Children130to140](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089203802)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1621060927294.jpg?v=1763746905
+    Price: $0.00 USD
+  - [Pink cat / 8](https://ursupermart.com/products/rose-gold-cat-ring-cute-pink-cat-sparkle-style-crystal?variant=42582163390554)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1c9f3a08-db5f-4559-b661-2b4ad2766574.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Black / LtoXL](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089236570)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1621060927294.jpg?v=1763746905
+    Price: $0.00 USD
+  - [Pink cat / 9](https://ursupermart.com/products/rose-gold-cat-ring-cute-pink-cat-sparkle-style-crystal?variant=42582163423322)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1c9f3a08-db5f-4559-b661-2b4ad2766574.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Black / StoM](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089269338)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1621060927294.jpg?v=1763746905
+    Price: $0.00 USD
+  - [Pink cat / Size 5](https://ursupermart.com/products/rose-gold-cat-ring-cute-pink-cat-sparkle-style-crystal?variant=42582163456090)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1c9f3a08-db5f-4559-b661-2b4ad2766574.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Blue / 2XLto3XL](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089302106)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1621060927294.jpg?v=1763746905
+    Price: $0.00 USD
+- [Women's Patterned Belts Set 5 Pack Stylish & Versatile](https://ursupermart.com/products/womens-patterned-belts-set-5-pack-stylish-versatile-imitation-leather): Elevate your style with this women's patterned belts set, featuring five unique imitation leather designs perfect for any look. Discover your new favorite accessory!
+  Updated: 2025-11-23T17:52:55Z
+  Vendor: S1B|S1|CJ
+  Product Type: Belt set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-patterned-belt-floral-engraved-colors.webp?v=1763872443
+  - [Black / 47 Inch](https://ursupermart.com/products/womens-patterned-belts-set-5-pack-stylish-versatile-imitation-leather?variant=42582177972314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/b43293d1-700b-4680-a59b-3f36463154e1.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Blue / 4XLto5XL](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089334874)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-patterned-belt-black-elegant-engraved.webp?v=1763872443
+    Price: $0.00 USD
+  - [Coffee / 47 Inch](https://ursupermart.com/products/womens-patterned-belts-set-5-pack-stylish-versatile-imitation-leather?variant=42582178070618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/b43293d1-700b-4680-a59b-3f36463154e1.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Blue / Children 140to150](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089367642)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-patterned-belt-brown-floral-carved-leather.webp?v=1763872443
+    Price: $0.00 USD
+  - [Red / 47 Inch](https://ursupermart.com/products/womens-patterned-belts-set-5-pack-stylish-versatile-imitation-leather?variant=42582178201690)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/b43293d1-700b-4680-a59b-3f36463154e1.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Blue / Children110to120](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089400410)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-patterned-belt-red-floral-cutout-style.webp?v=1763872443
+    Price: $0.00 USD
+  - [White / 47 Inch](https://ursupermart.com/products/womens-patterned-belts-set-5-pack-stylish-versatile-imitation-leather?variant=42582178299994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/b43293d1-700b-4680-a59b-3f36463154e1.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Blue / Children120to130](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089433178)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-patterned-belt-white-cutout-floral-leather.webp?v=1763872443
+    Price: $0.00 USD
+- [Drop Shape Earrings Sparkling Colorful Dangle Style](https://ursupermart.com/products/drop-shape-earrings-sparkling-colorful-dangle-style-faceted-faux): Drop shape earrings add a sparkling touch to any outfit with their colorful dangle design and faceted faux gemstones. Enhance your style and confidence today!
+  Updated: 2025-11-22T19:30:44Z
+  Vendor: S1B|S1|CJ
+  Product Type: Fashion earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d7a55599-2297-4f26-86ef-0326bb15c555.jpg?v=1763747799
+  - [Champagne](https://ursupermart.com/products/drop-shape-earrings-sparkling-colorful-dangle-style-faceted-faux?variant=42582199468122)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/b43293d1-700b-4680-a59b-3f36463154e1.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Blue / Children130to140](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089465946)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cda56f07-0b13-432b-8446-0e81fb98a141.jpg?v=1763747811
+    Price: $0.00 USD
+  - [Green](https://ursupermart.com/products/drop-shape-earrings-sparkling-colorful-dangle-style-faceted-faux?variant=42582199500890)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/b43293d1-700b-4680-a59b-3f36463154e1.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Blue / LtoXL](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089498714)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c9362906-f252-4d88-938b-89d493b2b1eb.jpg?v=1763747811
+    Price: $0.00 USD
+  - [Red](https://ursupermart.com/products/drop-shape-earrings-sparkling-colorful-dangle-style-faceted-faux?variant=42582199533658)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/b43293d1-700b-4680-a59b-3f36463154e1.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Blue / StoM](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089531482)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c5467874-963a-4c86-82b5-65a1df6deda6.jpg?v=1763747811
+    Price: $0.00 USD
+  - [Silver](https://ursupermart.com/products/drop-shape-earrings-sparkling-colorful-dangle-style-faceted-faux?variant=42582199566426)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/b43293d1-700b-4680-a59b-3f36463154e1.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Green / 2XLto3XL](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089564250)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/54d98a55-dff0-40e8-bbc8-c17346ae6f02.jpg?v=1763747811
+    Price: $0.00 USD
+  - [Yellow](https://ursupermart.com/products/drop-shape-earrings-sparkling-colorful-dangle-style-faceted-faux?variant=42582199599194)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/68ac1e9f-0272-49bb-83c0-e899a0295a04.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Green / 4XLto5XL](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089597018)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/88606c33-38d5-46cb-80f0-3bbf5d1f94cb.jpg?v=1763747811
+    Price: $0.00 USD
+  - [Off White](https://ursupermart.com/products/drop-shape-earrings-sparkling-colorful-dangle-style-faceted-faux?variant=42582199631962)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/68ac1e9f-0272-49bb-83c0-e899a0295a04.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Green / Children 140to150](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089629786)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/f15ab21a-7313-491e-bd69-d244ead8c9e4.jpg?v=1763747811
+    Price: $0.00 USD
+- [Marbled Acrylic Bracelets Set - Stylish & Comfy All Day](https://ursupermart.com/products/marbled-acrylic-bracelets-stylish-comfy-wear-day-to-night-statement): Marbled acrylic bracelets offer stylish, comfortable wear, effortlessly elevating any outfit from day to night. Express your unique style and make a statement; discover yours today!
+  Updated: 2025-11-23T12:47:17Z
+  Vendor: S1B|S1|CJ
+  Product Type: Acrylic Bracelets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/marbled-acrylic-bracelets-neutral-tones.webp?v=1763862379
+  - [Pink](https://ursupermart.com/products/marbled-acrylic-bracelets-stylish-comfy-wear-day-to-night-statement?variant=42582232334426)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/68ac1e9f-0272-49bb-83c0-e899a0295a04.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Green / Children110to120](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089662554)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/marbled-acrylic-bracelets-pink-model.webp?v=1763862379
+    Price: $0.00 USD
+  - [Light Blue](https://ursupermart.com/products/marbled-acrylic-bracelets-stylish-comfy-wear-day-to-night-statement?variant=42582232367194)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/68ac1e9f-0272-49bb-83c0-e899a0295a04.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Green / Children120to130](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089695322)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/marbled-acrylic-bracelets-light-blue-model.webp?v=1763862379
+    Price: $0.00 USD
+  - [Dark Red](https://ursupermart.com/products/marbled-acrylic-bracelets-stylish-comfy-wear-day-to-night-statement?variant=42582232399962)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/68ac1e9f-0272-49bb-83c0-e899a0295a04.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Green / Children130to140](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089728090)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/marbled-acrylic-bracelets-dark-red-model.webp?v=1763862379
+    Price: $0.00 USD
+  - [Brown Wooden](https://ursupermart.com/products/marbled-acrylic-bracelets-stylish-comfy-wear-day-to-night-statement?variant=42582232432730)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/68ac1e9f-0272-49bb-83c0-e899a0295a04.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Green / LtoXL](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089760858)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/marbled-acrylic-bracelets-brown-wooden-model.webp?v=1763862379
+    Price: $0.00 USD
+  - [Green Jade](https://ursupermart.com/products/marbled-acrylic-bracelets-stylish-comfy-wear-day-to-night-statement?variant=42582232465498)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/68ac1e9f-0272-49bb-83c0-e899a0295a04.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Green / StoM](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089793626)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/marbled-acrylic-bracelets-green-model.webp?v=1763862379
+    Price: $0.00 USD
+  - [Wine Red](https://ursupermart.com/products/marbled-acrylic-bracelets-stylish-comfy-wear-day-to-night-statement?variant=42582232498266)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/68ac1e9f-0272-49bb-83c0-e899a0295a04.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Purple / 2XLto3XL](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089826394)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/marbled-acrylic-bracelets-purple-edition.webp?v=1763862379
+    Price: $0.00 USD
+  - [Clear](https://ursupermart.com/products/marbled-acrylic-bracelets-stylish-comfy-wear-day-to-night-statement?variant=42582232531034)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d8f3e0dc-b459-4f1d-9868-03af31681150.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Purple / 4XLto5XL](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089859162)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/marbled-acrylic-bracelets-clear-version.webp?v=1763862379
+    Price: $0.00 USD
+  - [Beige Blooming](https://ursupermart.com/products/marbled-acrylic-bracelets-stylish-comfy-wear-day-to-night-statement?variant=42582232563802)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d8f3e0dc-b459-4f1d-9868-03af31681150.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Purple / Children 140to150](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089891930)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/marbled-acrylic-bracelets-cream-focus.webp?v=1763862379
+    Price: $0.00 USD
+  - [Brown Smudges](https://ursupermart.com/products/marbled-acrylic-bracelets-stylish-comfy-wear-day-to-night-statement?variant=42582232596570)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d8f3e0dc-b459-4f1d-9868-03af31681150.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Purple / Children110to120](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089924698)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/marbled-acrylic-bracelets-amber-single.webp?v=1763862379
+    Price: $0.00 USD
+- [DIY Lash Extension Kit: Get Salon Lashes at Home Easily](https://ursupermart.com/products/diy-lash-extension-kit-get-salon-lashes-at-home-easily): This diy lash extension kit lets you create stunning, custom lashes at home, saving time and money; get yours today for a glamorous, confident look!
+  Updated: 2025-11-22T06:48:39Z
+  Vendor: S1B|S1|CJ
+  Product Type: DIY eyelash extension kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/7d376fd9-4f16-4e09-8dca-95386a33e80e.jpg?v=1763750913
+  Price: $0.00 USD
+- [Gold Seashell Necklace with Pearl & Adjustable Chain](https://ursupermart.com/products/gold-seashell-necklace-with-pearl-adjustable-chain-elegant): Discover this beautiful gold seashell necklace with a pearl, perfect for elevating your style and confidence on any occasion. Shop yours today!
+  Updated: 2025-11-23T13:25:28Z
+  Vendor: S1B|S1|CJ
+  Product Type: Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-seashell-necklace-gift-box-display.webp?v=1763861093
+  Price: $0.00 USD
+- [Magnetic Wireless Charger - Fast 15W Power & Easy Use](https://ursupermart.com/products/magnetic-wireless-charger-fast-15w-power-easy-use-iphone): Magnetic wireless charger offers 15W fast, effortless power with perfect alignment, decluttering your space and protecting your phone. Get yours now!
+  Updated: 2025-11-22T08:16:11Z
+  Vendor: S1B|S1|CJ
+  Product Type: Magnetic wireless charger
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c327d19f-74dc-4d26-90d8-265c6f4444f1.jpg?v=1763756152
+  Price: $0.00 USD
+- [Layered Anklet Set Trendy Gold Chains for Summer Style](https://ursupermart.com/products/layered-anklet-set-trendy-gold-chains-for-summer-style-anklets): This layered anklet set instantly elevates your style with five trendy gold chains, perfect for any occasion. Shop now to express your unique personality!
+  Updated: 2025-11-23T07:39:14Z
+  Vendor: S1B|S1|CJ
+  Product Type: anklet set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/94f53985-cab8-49e8-88ce-c7781ceea59a.jpg?v=1763756239
+  Price: $0.00 USD
+- [Cardinal Bird Necklace - Meaningful Comforting Gift](https://ursupermart.com/products/cardinal-bird-necklace-heart-shaped-pendant-meaningful-comforting-gift): Cardinal bird necklace: Discover a comforting silver pendant, a beautiful reminder of cherished memories and loved ones. Find your meaningful connection here today!
+  Updated: 2025-11-22T08:20:35Z
+  Vendor: S1B|S1|CJ
+  Product Type: Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d673b779-fc4b-4a80-adb0-8e937f649211.jpg?v=1763756419
+  - [1style](https://ursupermart.com/products/cardinal-bird-necklace-heart-shaped-pendant-meaningful-comforting-gift?variant=42582448865370)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d8f3e0dc-b459-4f1d-9868-03af31681150.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Purple / Children120to130](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089957466)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/814bed04-1477-4b51-b1af-ab8c8f4ce36e.jpg?v=1763756430
+    Price: $0.00 USD
+  - [2style](https://ursupermart.com/products/cardinal-bird-necklace-heart-shaped-pendant-meaningful-comforting-gift?variant=42582448898138)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d8f3e0dc-b459-4f1d-9868-03af31681150.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Purple / Children130to140](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582089990234)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c8641a82-a0db-49e5-874d-beee21521b68.jpg?v=1763756430
+    Price: $0.00 USD
+  - [3style](https://ursupermart.com/products/cardinal-bird-necklace-heart-shaped-pendant-meaningful-comforting-gift?variant=42582448930906)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d8f3e0dc-b459-4f1d-9868-03af31681150.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Purple / LtoXL](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582090023002)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1913c80b-f8bf-4e5f-a319-917c50784fb1.jpg?v=1763756430
+    Price: $0.00 USD
+  - [Silver](https://ursupermart.com/products/cardinal-bird-necklace-heart-shaped-pendant-meaningful-comforting-gift?variant=42582448963674)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d8f3e0dc-b459-4f1d-9868-03af31681150.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Purple / StoM](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582090055770)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/a20fa6ba-0770-4743-b323-60c2ec79760a.jpg?v=1763756430
+    Price: $0.00 USD
+- [Layered Silver Heart Necklace - Easy Double Strand Style](https://ursupermart.com/products/layered-silver-heart-necklace-easy-double-strand-style-pendant): This layered silver heart necklace offers elegant style with its double-strand design, perfect for any occasion. Get yours and express affection!
+  Updated: 2025-11-23T13:12:01Z
+  Vendor: S1B|S1|CJ
+  Product Type: double strand necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/layered-silver-heart-necklace-closeup-display.jpg?v=1763860430
+  Price: $0.00 USD
+- [Gold Heart Earrings Dangle with Romantic Key & Lock Charms](https://ursupermart.com/products/gold-heart-earrings-dangle-romantic-key-lock-charms-for-her): Gold heart earrings with charming dangle designs add a sweet, romantic touch to any outfit. Express your style and shop this lovely pair today!
+  Updated: 2025-11-23T13:16:16Z
+  Vendor: S1B|S1|CJ
+  Product Type: dangle earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/key-and-locket-earrings-valentine-style.webp?v=1763860777
+  Price: $0.00 USD
+- [Glow in Dark Jewelry Butterfly Necklace and Bracelet Set](https://ursupermart.com/products/glow-in-dark-jewelry-butterfly-necklace-bracelet-set-for-women): Glow in dark jewelry butterfly set helps you express your unique style and shine bright at any event. Grab this captivating set today!
+  Updated: 2025-11-23T07:23:44Z
+  Vendor: S1B|S1|CJ
+  Product Type: Jewelry set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e654478a-061f-4dfe-97a4-7bcc08a1f0f1.jpg?v=1763759894
+  - [Black](https://ursupermart.com/products/glow-in-dark-jewelry-butterfly-necklace-bracelet-set-for-women?variant=42582565322842)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d8f3e0dc-b459-4f1d-9868-03af31681150.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Red / 2XLto3XL](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582090088538)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/165386c7-8399-4edb-811b-cc719112edb7.jpg?v=1763759909
+    Price: $0.00 USD
+  - [Black and white](https://ursupermart.com/products/glow-in-dark-jewelry-butterfly-necklace-bracelet-set-for-women?variant=42582565355610)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/80f0f99e-29d3-4e85-bab9-57910389ca26.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Red / 4XLto5XL](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582090121306)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6af23b89-b746-4343-972a-dd7ae1ec05ac.jpg?v=1763759909
+    Price: $0.00 USD
+  - [Fluorescent Butterfly Bracelet](https://ursupermart.com/products/glow-in-dark-jewelry-butterfly-necklace-bracelet-set-for-women?variant=42582565388378)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/80f0f99e-29d3-4e85-bab9-57910389ca26.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Red / Children 140to150](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582090154074)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/5df2b778-3d89-407a-b903-a370c31b23f9.jpg?v=1763759909
+    Price: $0.00 USD
+  - [Fluorescent Butterfly Necklace](https://ursupermart.com/products/glow-in-dark-jewelry-butterfly-necklace-bracelet-set-for-women?variant=42582565421146)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/80f0f99e-29d3-4e85-bab9-57910389ca26.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Red / Children110to120](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582090186842)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4c51d4e8-446e-4aa8-a92a-1158d6e06f48.jpg?v=1763759909
+    Price: $0.00 USD
+- [Gold Hammered Heart Earrings Unique Studs for Women](https://ursupermart.com/products/gold-hammered-heart-earrings-unique-studs-for-women-trending): Gold hammered heart earrings add a unique, romantic touch to any outfit, boosting your confidence and style; find your perfect pair today!
+  Updated: 2025-11-23T11:53:33Z
+  Vendor: S1B|S1|CJ
+  Product Type: Stud earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-heart-earrings-chunky-metal-design.webp?v=1763855912
+  - [Gold](https://ursupermart.com/products/gold-hammered-heart-earrings-unique-studs-for-women-trending?variant=42582621225050)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/80f0f99e-29d3-4e85-bab9-57910389ca26.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Red / Children120to130](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582090219610)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-heart-earrings-luxury-gold-heart-studs.webp?v=1763855912
+    Price: $0.00 USD
+  - [Silver](https://ursupermart.com/products/gold-hammered-heart-earrings-unique-studs-for-women-trending?variant=42582621257818)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/80f0f99e-29d3-4e85-bab9-57910389ca26.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Red / Children130to140](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582090252378)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-heart-earrings-silver-metal-heart-studs.webp?v=1763855912
+    Price: $0.00 USD
+- [Snowflake Hair Clips Sparkle & Shine for Winter Styles](https://ursupermart.com/products/snowflake-hair-clips-sparkle-shine-winter-styles-holiday-party): Snowflake hair clips add a sparkling, festive touch to any hairstyle, perfect for winter fun or special events. Elevate your look and shine bright this season!
+  Updated: 2025-11-23T06:35:35Z
+  Vendor: S1B|S1|CJ
+  Product Type: Snowflake hair clips
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/af9144a5-dd91-4a60-a6aa-01a2574dab8f.jpg?v=1763760851
+  - [Antlers Pearl Snowflake](https://ursupermart.com/products/snowflake-hair-clips-sparkle-shine-winter-styles-holiday-party?variant=42582646227034)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/80f0f99e-29d3-4e85-bab9-57910389ca26.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Red / LtoXL](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582090285146)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d52794d1-1b5f-477b-beaf-719fb83c8e31.jpg?v=1763760862
+    Price: $0.00 USD
+  - [Antlers Rhinestone Snowflake](https://ursupermart.com/products/snowflake-hair-clips-sparkle-shine-winter-styles-holiday-party?variant=42582646259802)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/80f0f99e-29d3-4e85-bab9-57910389ca26.jpg?v=1763744439
-    Price: $34.95 USD
-  - [Red / StoM](https://ursupermart.com/products/hooded-cloak-medieval-renaissance-5-color-printed-cloak-halloween-cosplay-costume-new-fashion-festival-play-costume-halloween-costumes?variant=42582090317914)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/348ced4b-0482-4f90-8865-6b80c9bb9e23.jpg?v=1763760862
+    Price: $0.00 USD
+  - [Branches Pearl Snowflake](https://ursupermart.com/products/snowflake-hair-clips-sparkle-shine-winter-styles-holiday-party?variant=42582646292570)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/80f0f99e-29d3-4e85-bab9-57910389ca26.jpg?v=1763744439
-    Price: $34.95 USD
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/f94a1aca-ba33-4108-bcba-6ff253c66b00.jpg?v=1763760862
+    Price: $0.00 USD
+  - [Branches Rhinestone Snowflake](https://ursupermart.com/products/snowflake-hair-clips-sparkle-shine-winter-styles-holiday-party?variant=42582646325338)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/0f8d499c-2bd8-4599-ad32-cadd7677ed21.jpg?v=1763760862
+    Price: $0.00 USD
+- [Rose Heart Necklace - Elegant Silver Pendant for Her](https://ursupermart.com/products/rose-heart-necklace-elegant-silver-pendant-for-her-gift): This elegant rose heart necklace, featuring a sparkling gemstone and silver finish, is the perfect sentimental gift to express your love and style. Shop now!
+  Updated: 2025-11-22T09:35:38Z
+  Vendor: S1B|S1|CJ
+  Product Type: Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c1c46c2d-5bc3-4c0a-b894-83bdf91ecde6.jpg?v=1763760919
+  - [Blue](https://ursupermart.com/products/rose-heart-necklace-elegant-silver-pendant-for-her-gift?variant=42582648422490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/b4d10758-e682-43f3-be94-f805ae5af14b.jpg?v=1763760928
+    Price: $0.00 USD
+  - [Purple](https://ursupermart.com/products/rose-heart-necklace-elegant-silver-pendant-for-her-gift?variant=42582648455258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1da8aeba-2ee7-4b6b-aa69-581e23d24906.jpg?v=1763760928
+    Price: $0.00 USD
+  - [Red](https://ursupermart.com/products/rose-heart-necklace-elegant-silver-pendant-for-her-gift?variant=42582648488026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fa1753d3-3482-4821-9ada-710313d98d09.jpg?v=1763760928
+    Price: $0.00 USD
+  - [White](https://ursupermart.com/products/rose-heart-necklace-elegant-silver-pendant-for-her-gift?variant=42582648520794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2037fa8a-125f-4e28-8eec-ffb5ffb662f5.jpg?v=1763760928
+    Price: $0.00 USD
+- [Trident Pendant Necklace - Show Your Style & Power](https://ursupermart.com/products/trident-pendant-necklace-style-power-mythical-steel-symbol): This trident pendant necklace lets you express your unique style with a durable steel mythical symbol, available in three cool colors. Get yours today!
+  Updated: 2025-11-23T08:58:49Z
+  Vendor: S1B|S1|CJ
+  Product Type: Pendant Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3206166825128.jpg?v=1763762411
+  - [Gold](https://ursupermart.com/products/trident-pendant-necklace-style-power-mythical-steel-symbol?variant=42582770647130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1273144061169.jpg?v=1763762416
+    Price: $0.00 USD
+  - [Black](https://ursupermart.com/products/trident-pendant-necklace-style-power-mythical-steel-symbol?variant=42582770679898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/10482739439176.jpg?v=1763762416
+    Price: $0.00 USD
+  - [Silver](https://ursupermart.com/products/trident-pendant-necklace-style-power-mythical-steel-symbol?variant=42582770712666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1444818458520.jpg?v=1763762416
+    Price: $0.00 USD
+- [Christmas Tree Earrings Festive Gold Gemstone Sparkle](https://ursupermart.com/products/christmas-tree-earrings-festive-gold-gemstone-sparkle-shine): Christmas tree earrings instantly elevate your holiday look with festive sparkle and charm; express your spirit and shop now to shine bright this season!
+  Updated: 2025-11-22T10:21:25Z
+  Vendor: S1B|S1|CJ
+  Product Type: Earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/b1b10d33-5312-4e14-87a2-279ea89ddced.jpg?v=1763762898
+  - [Gold Red White](https://ursupermart.com/products/christmas-tree-earrings-festive-gold-gemstone-sparkle-shine?variant=42582787719258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/8cae6b9d-8760-49a0-a5ed-1f1b0ca5a339.jpg?v=1763762907
+    Price: $0.00 USD
+  - [Gold Red Green](https://ursupermart.com/products/christmas-tree-earrings-festive-gold-gemstone-sparkle-shine?variant=42582787752026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c64aea3e-fc11-4c27-9ff3-54fae4360f3e.jpg?v=1763762907
+    Price: $0.00 USD
+- [Gold Crystal Bracelet Set - 5pc Sparkling Charm Style](https://ursupermart.com/products/gold-crystal-bracelet-set-5pc-sparkling-charm-style-green-crystal): This gold crystal bracelet set offers five sparkling, delicate gold bracelets with charming stones. Elevate your look and express your unique style; shop now!
+  Updated: 2025-11-22T14:46:09Z
+  Vendor: S1B|S1|CJ
+  Product Type: Bracelet set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/94c90b67-271f-411b-87fd-e3daf95ab815.jpg?v=1763762965
+  - [Silver](https://ursupermart.com/products/gold-crystal-bracelet-set-5pc-sparkling-charm-style-green-crystal?variant=42582789226586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/96cd0f4f-e937-445b-88dd-824eb6a46164.jpg?v=1763762971
+    Price: $0.00 USD
+  - [Gold](https://ursupermart.com/products/gold-crystal-bracelet-set-5pc-sparkling-charm-style-green-crystal?variant=42582789259354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e44b01fb-ea81-4e21-8751-0d165e2f096b.jpg?v=1763762971
+    Price: $0.00 USD
+- [Silver Y Necklace Elegant & Versatile for Any Occasion](https://ursupermart.com/products/silver-y-necklace-elegant-versatile-for-any-occasion-sophistication): This elegant silver Y necklace instantly elevates your style, adding modern sophistication to any outfit from casual to formal; discover yours and shine!
+  Updated: 2025-11-23T12:53:37Z
+  Vendor: S1B|S1|CJ
+  Product Type: Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ball-loop-chain-necklace-modern-silver-design.webp?v=1763859356
+  Price: $0.00 USD
+- [Spinner Ring Anxiety Relief for Focus & Calm Stylish Design](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design): Discover calm and focus with our stylish spinner ring anxiety relief, crafted from titanium steel to discreetly manage stress and boost concentration; shop now.
+  Updated: 2025-11-22T10:15:29Z
+  Vendor: S1B|S1|CJ
+  Product Type: Spinner ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/titaniumspinnerring.png?v=1763782965
+  - [Black / No 10](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582801875034)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/187336dc-c1d0-4d5c-8eac-89e7ec1f816c.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Black / No 11](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582801907802)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/187336dc-c1d0-4d5c-8eac-89e7ec1f816c.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Black / No 12](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582801940570)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/187336dc-c1d0-4d5c-8eac-89e7ec1f816c.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Black / No 13](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582801973338)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/187336dc-c1d0-4d5c-8eac-89e7ec1f816c.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Black / No 6](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802006106)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/187336dc-c1d0-4d5c-8eac-89e7ec1f816c.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Black / No 7](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802038874)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/187336dc-c1d0-4d5c-8eac-89e7ec1f816c.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Black / No 8](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802071642)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/187336dc-c1d0-4d5c-8eac-89e7ec1f816c.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Black / No 9](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802104410)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/187336dc-c1d0-4d5c-8eac-89e7ec1f816c.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Blue / No 10](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802137178)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ceb63a12-f576-454e-93be-f08bec9d93df.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Blue / No 11](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802169946)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ceb63a12-f576-454e-93be-f08bec9d93df.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Blue / No 12](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802202714)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ceb63a12-f576-454e-93be-f08bec9d93df.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Blue / No 13](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802235482)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ceb63a12-f576-454e-93be-f08bec9d93df.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Blue / No 6](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802268250)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ceb63a12-f576-454e-93be-f08bec9d93df.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Blue / No 7](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802301018)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ceb63a12-f576-454e-93be-f08bec9d93df.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Blue / No 8](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802333786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ceb63a12-f576-454e-93be-f08bec9d93df.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Blue / No 9](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802366554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ceb63a12-f576-454e-93be-f08bec9d93df.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Gold / No 10](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802399322)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4cde0b63-3385-4cc4-a1fc-890560d44c44.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Gold / No 11](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802432090)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4cde0b63-3385-4cc4-a1fc-890560d44c44.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Gold / No 12](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802464858)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4cde0b63-3385-4cc4-a1fc-890560d44c44.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Gold / No 13](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802497626)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4cde0b63-3385-4cc4-a1fc-890560d44c44.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Gold / No 6](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802530394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4cde0b63-3385-4cc4-a1fc-890560d44c44.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Gold / No 7](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802563162)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4cde0b63-3385-4cc4-a1fc-890560d44c44.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Gold / No 8](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802595930)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4cde0b63-3385-4cc4-a1fc-890560d44c44.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Gold / No 9](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802628698)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4cde0b63-3385-4cc4-a1fc-890560d44c44.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Silver Black / No 10](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802661466)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6f21a1f2-971e-4a45-abe3-b10d61c1bf19.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Silver Black / No 11](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802694234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6f21a1f2-971e-4a45-abe3-b10d61c1bf19.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Silver Black / No 12](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802727002)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6f21a1f2-971e-4a45-abe3-b10d61c1bf19.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Silver Black / No 13](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802759770)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6f21a1f2-971e-4a45-abe3-b10d61c1bf19.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Silver Black / No 6](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802792538)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6f21a1f2-971e-4a45-abe3-b10d61c1bf19.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Silver Black / No 7](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802825306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6f21a1f2-971e-4a45-abe3-b10d61c1bf19.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Silver Black / No 8](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802858074)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6f21a1f2-971e-4a45-abe3-b10d61c1bf19.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Silver Black / No 9](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802890842)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6f21a1f2-971e-4a45-abe3-b10d61c1bf19.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Silver / No 10](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802923610)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e93c7a49-aad1-4920-b3f6-923e8ae2ab85.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Silver / No 11](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802956378)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e93c7a49-aad1-4920-b3f6-923e8ae2ab85.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Silver / No 12](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582802989146)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e93c7a49-aad1-4920-b3f6-923e8ae2ab85.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Silver / No 13](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582803021914)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e93c7a49-aad1-4920-b3f6-923e8ae2ab85.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Silver / No 6](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582803054682)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e93c7a49-aad1-4920-b3f6-923e8ae2ab85.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Silver / No 7](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582803087450)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e93c7a49-aad1-4920-b3f6-923e8ae2ab85.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Silver / No 8](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582803120218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e93c7a49-aad1-4920-b3f6-923e8ae2ab85.jpg?v=1763782965
+    Price: $0.00 USD
+  - [Silver / No 9](https://ursupermart.com/products/spinner-ring-anxiety-relief-for-focus-calm-stylish-design?variant=42582803152986)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e93c7a49-aad1-4920-b3f6-923e8ae2ab85.jpg?v=1763782965
+    Price: $0.00 USD
+- [Heart pendant necklaces set sparkling elegant gifts](https://ursupermart.com/products/heart-pendant-necklaces-set-sparkling-elegant-gifts-rhinestone): Heart pendant necklaces set: Discover elegant, sparkling gemstone designs crafted from titanium steel to elevate any outfit. Shop now for a thoughtful gift!
+  Updated: 2025-11-23T12:21:31Z
+  Vendor: S1B|S1|CJ
+  Product Type: Necklace set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/heart-pendant-necklace-gold-gemstone-collection.webp?v=1763857813
+  - [Red Heart Necklace](https://ursupermart.com/products/heart-pendant-necklaces-set-sparkling-elegant-gifts-rhinestone?variant=42582803775578)
+    Availability: Available
+    Price: $0.00 USD
+  - [White Heart Necklace](https://ursupermart.com/products/heart-pendant-necklaces-set-sparkling-elegant-gifts-rhinestone?variant=42582803808346)
+    Availability: Available
+    Price: $0.00 USD
+  - [Red Love Heart](https://ursupermart.com/products/heart-pendant-necklaces-set-sparkling-elegant-gifts-rhinestone?variant=42582803841114)
+    Availability: Available
+    Price: $0.00 USD
+- [Cat Pendant Necklace - Cute Shimmering Cat Charm](https://ursupermart.com/products/cat-pendant-necklace-cute-shimmering-cat-charm-for-women-gifts): Express your love for felines with this charming cat pendant necklace, adding subtle sparkle and playful elegance to any outfit. Grab yours today!
+  Updated: 2025-11-23T12:40:19Z
+  Vendor: S1B|S1|CJ
+  Product Type: Cat Pendant Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cat-pendant-necklace-iridescent-kitty-charm-blue-bow.webp?v=1763859745
+  - [Cat Necklace Pink](https://ursupermart.com/products/cat-pendant-necklace-cute-shimmering-cat-charm-for-women-gifts?variant=42582806167642)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cat-pendant-necklace-single-blue-bow-charm.webp?v=1763859745
+    Price: $0.00 USD
+  - [Cat Necklace White](https://ursupermart.com/products/cat-pendant-necklace-cute-shimmering-cat-charm-for-women-gifts?variant=42582806200410)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cat-pendant-necklace-iridescent-charm.webp?v=1763859745
+    Price: $0.00 USD
+- [Pink Cubic Zirconia Ring - Square Cut & Sparkly](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry): This pink cubic zirconia ring instantly elevates your style with its sparkling square-cut design, perfect for special events or daily glamour. Discover yours today!
+  Updated: 2025-11-22T10:21:07Z
+  Vendor: S1B|S1|CJ
+  Product Type: Fashion ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/417b4e50-851e-4981-9489-490b1bca27df.jpg?v=1763763657
+  - [1 Style / 10](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582808494170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6184a749-6c94-4535-ae96-006c2a4a3205.jpg?v=1763763665
+    Price: $0.00 USD
+  - [1 Style / 5](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582808526938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6184a749-6c94-4535-ae96-006c2a4a3205.jpg?v=1763763665
+    Price: $0.00 USD
+  - [1 Style / 6](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582808559706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6184a749-6c94-4535-ae96-006c2a4a3205.jpg?v=1763763665
+    Price: $0.00 USD
+  - [1 Style / 7](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582808592474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6184a749-6c94-4535-ae96-006c2a4a3205.jpg?v=1763763665
+    Price: $0.00 USD
+  - [1 Style / 8](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582808625242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6184a749-6c94-4535-ae96-006c2a4a3205.jpg?v=1763763665
+    Price: $0.00 USD
+  - [1 Style / 9](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582808658010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6184a749-6c94-4535-ae96-006c2a4a3205.jpg?v=1763763665
+    Price: $0.00 USD
+  - [2 Style / 10](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582808690778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/208b593e-dbb8-4a35-9615-390d3cfb7bf6.jpg?v=1763763665
+    Price: $0.00 USD
+  - [2 Style / 5](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582808723546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/208b593e-dbb8-4a35-9615-390d3cfb7bf6.jpg?v=1763763665
+    Price: $0.00 USD
+  - [2 Style / 6](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582808756314)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/208b593e-dbb8-4a35-9615-390d3cfb7bf6.jpg?v=1763763665
+    Price: $0.00 USD
+  - [2 Style / 7](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582808789082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/208b593e-dbb8-4a35-9615-390d3cfb7bf6.jpg?v=1763763665
+    Price: $0.00 USD
+  - [2 Style / 8](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582808821850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/208b593e-dbb8-4a35-9615-390d3cfb7bf6.jpg?v=1763763665
+    Price: $0.00 USD
+  - [2 Style / 9](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582808854618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/208b593e-dbb8-4a35-9615-390d3cfb7bf6.jpg?v=1763763665
+    Price: $0.00 USD
+  - [3 Style / 10](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582808887386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/f3d7decd-bf39-4990-8bc0-ef67eabe2bfd.jpg?v=1763763665
+    Price: $0.00 USD
+  - [3 Style / 5](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582808920154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/f3d7decd-bf39-4990-8bc0-ef67eabe2bfd.jpg?v=1763763665
+    Price: $0.00 USD
+  - [3 Style / 6](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582808952922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/f3d7decd-bf39-4990-8bc0-ef67eabe2bfd.jpg?v=1763763665
+    Price: $0.00 USD
+  - [3 Style / 7](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582808985690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/f3d7decd-bf39-4990-8bc0-ef67eabe2bfd.jpg?v=1763763665
+    Price: $0.00 USD
+  - [3 Style / 8](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809018458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/f3d7decd-bf39-4990-8bc0-ef67eabe2bfd.jpg?v=1763763665
+    Price: $0.00 USD
+  - [3 Style / 9](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809051226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/f3d7decd-bf39-4990-8bc0-ef67eabe2bfd.jpg?v=1763763665
+    Price: $0.00 USD
+  - [4 Style / 10](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809083994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/49fe84c9-177d-46f1-994f-adfaaf3cd0cf.jpg?v=1763763665
+    Price: $0.00 USD
+  - [4 Style / 5](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809116762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/49fe84c9-177d-46f1-994f-adfaaf3cd0cf.jpg?v=1763763665
+    Price: $0.00 USD
+  - [4 Style / 6](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809149530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/49fe84c9-177d-46f1-994f-adfaaf3cd0cf.jpg?v=1763763665
+    Price: $0.00 USD
+  - [4 Style / 7](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809182298)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/49fe84c9-177d-46f1-994f-adfaaf3cd0cf.jpg?v=1763763665
+    Price: $0.00 USD
+  - [4 Style / 8](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809215066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/49fe84c9-177d-46f1-994f-adfaaf3cd0cf.jpg?v=1763763665
+    Price: $0.00 USD
+  - [4 Style / 9](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809247834)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/49fe84c9-177d-46f1-994f-adfaaf3cd0cf.jpg?v=1763763665
+    Price: $0.00 USD
+  - [5 Style / 10](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809280602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/094e7b74-eb87-4269-9b2e-486771eba5ef.jpg?v=1763763665
+    Price: $0.00 USD
+  - [5 Style / 5](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809313370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/094e7b74-eb87-4269-9b2e-486771eba5ef.jpg?v=1763763665
+    Price: $0.00 USD
+  - [5 Style / 6](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809346138)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/094e7b74-eb87-4269-9b2e-486771eba5ef.jpg?v=1763763665
+    Price: $0.00 USD
+  - [5 Style / 7](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809378906)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/094e7b74-eb87-4269-9b2e-486771eba5ef.jpg?v=1763763665
+    Price: $0.00 USD
+  - [5 Style / 8](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809411674)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/094e7b74-eb87-4269-9b2e-486771eba5ef.jpg?v=1763763665
+    Price: $0.00 USD
+  - [5 Style / 9](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809444442)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/094e7b74-eb87-4269-9b2e-486771eba5ef.jpg?v=1763763665
+    Price: $0.00 USD
+  - [6 Style / 10](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809477210)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/211b41e2-32bf-421c-9302-c065a6237721.jpg?v=1763763665
+    Price: $0.00 USD
+  - [6 Style / 5](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809509978)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/211b41e2-32bf-421c-9302-c065a6237721.jpg?v=1763763665
+    Price: $0.00 USD
+  - [6 Style / 6](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809542746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/211b41e2-32bf-421c-9302-c065a6237721.jpg?v=1763763665
+    Price: $0.00 USD
+  - [6 Style / 7](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809575514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/211b41e2-32bf-421c-9302-c065a6237721.jpg?v=1763763665
+    Price: $0.00 USD
+  - [6 Style / 8](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809608282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/211b41e2-32bf-421c-9302-c065a6237721.jpg?v=1763763665
+    Price: $0.00 USD
+  - [6 Style / 9](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809641050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/211b41e2-32bf-421c-9302-c065a6237721.jpg?v=1763763665
+    Price: $0.00 USD
+  - [7 Style / 10](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809673818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/5ad9c282-0a34-4b75-a5e8-76eb0c9d53d2.jpg?v=1763763665
+    Price: $0.00 USD
+  - [7 Style / 5](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809706586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/5ad9c282-0a34-4b75-a5e8-76eb0c9d53d2.jpg?v=1763763665
+    Price: $0.00 USD
+  - [7 Style / 6](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809739354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/5ad9c282-0a34-4b75-a5e8-76eb0c9d53d2.jpg?v=1763763665
+    Price: $0.00 USD
+  - [7 Style / 7](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809772122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/5ad9c282-0a34-4b75-a5e8-76eb0c9d53d2.jpg?v=1763763665
+    Price: $0.00 USD
+  - [7 Style / 8](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809804890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/5ad9c282-0a34-4b75-a5e8-76eb0c9d53d2.jpg?v=1763763665
+    Price: $0.00 USD
+  - [7 Style / 9](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809837658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/5ad9c282-0a34-4b75-a5e8-76eb0c9d53d2.jpg?v=1763763665
+    Price: $0.00 USD
+  - [8 Style / 10](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809870426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1d439375-b10e-4032-80d6-f79aa9add7db.jpg?v=1763763665
+    Price: $0.00 USD
+  - [8 Style / 5](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809903194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1d439375-b10e-4032-80d6-f79aa9add7db.jpg?v=1763763665
+    Price: $0.00 USD
+  - [8 Style / 6](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809935962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1d439375-b10e-4032-80d6-f79aa9add7db.jpg?v=1763763665
+    Price: $0.00 USD
+  - [8 Style / 7](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582809968730)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1d439375-b10e-4032-80d6-f79aa9add7db.jpg?v=1763763665
+    Price: $0.00 USD
+  - [8 Style / 8](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582810001498)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1d439375-b10e-4032-80d6-f79aa9add7db.jpg?v=1763763665
+    Price: $0.00 USD
+  - [8 Style / 9](https://ursupermart.com/products/pink-cubic-zirconia-ring-square-cut-sparkly-fashion-jewelry?variant=42582810034266)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1d439375-b10e-4032-80d6-f79aa9add7db.jpg?v=1763763665
+    Price: $0.00 USD
+- [Beach Jewelry Set: Seashell Necklace & Starfish Design](https://ursupermart.com/products/beach-jewelry-set-seashell-necklace-starfish-design-for-summer): This beach jewelry set, featuring gold-toned seashells and starfish, effortlessly completes your summer outfits with style. Shop this beautiful collection!
+  Updated: 2025-11-22T10:27:02Z
+  Vendor: S1B|S1|CJ
+  Product Type: Jewelry set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/368eadf4-7fd2-47d1-8a5a-a6214de33c35.jpg?v=1763764017
+  - [01 Ear Studs Gold Blue 3353](https://ursupermart.com/products/beach-jewelry-set-seashell-necklace-starfish-design-for-summer?variant=42582839689306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e3aedf14-f4f3-488a-8503-9b9bb94b32df.jpg?v=1763764031
+    Price: $0.00 USD
+  - [01 Ear Studs Gold White 3353](https://ursupermart.com/products/beach-jewelry-set-seashell-necklace-starfish-design-for-summer?variant=42582839722074)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c2a1a06d-0f6b-4fe4-90e7-30fcced4e41e.jpg?v=1763764031
+    Price: $0.00 USD
+  - [02 Necklace Gold 6659](https://ursupermart.com/products/beach-jewelry-set-seashell-necklace-starfish-design-for-summer?variant=42582839754842)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/645fc503-7328-4e14-a39b-144a305376ab.jpg?v=1763764031
+    Price: $0.00 USD
+  - [03 Bracelet Gold White 2494](https://ursupermart.com/products/beach-jewelry-set-seashell-necklace-starfish-design-for-summer?variant=42582839787610)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/296a00eb-6fed-4535-b3ae-c358bec2d9fb.jpg?v=1763764031
+    Price: $0.00 USD
+  - [Set1](https://ursupermart.com/products/beach-jewelry-set-seashell-necklace-starfish-design-for-summer?variant=42582839820378)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/5e72d908-9752-4981-a11d-edcb20d1e92c.jpg?v=1763764031
+    Price: $0.00 USD
+- [Wall Mounted Glasses Holder Keeps Eyewear Safe & Handy](https://ursupermart.com/products/wall-mounted-glasses-holder-keeps-eyewear-safe-and-handy): This wall mounted glasses holder securely protects your eyeglasses and sunglasses from scratches, clears clutter, and keeps them always within reach. Organize your space now!
+  Updated: 2025-11-22T17:49:30Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Wall-mounted glasses holder
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2E52409FD9ED070E7BC588A74E15BDBA.jpg?v=1763784446
+  - [transparent](https://ursupermart.com/products/wall-mounted-glasses-holder-keeps-eyewear-safe-and-handy?variant=42583536926810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/F670F5BA49373E17C827C81F500CEEEC.jpg?v=1763784455
+    Price: $0.00 USD
+  - [white](https://ursupermart.com/products/wall-mounted-glasses-holder-keeps-eyewear-safe-and-handy?variant=42583536959578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2E52409FD9ED070E7BC588A74E15BDBA.jpg?v=1763784446
+    Price: $0.00 USD
+  - [grey](https://ursupermart.com/products/wall-mounted-glasses-holder-keeps-eyewear-safe-and-handy?variant=42583536992346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/160C2FDF4A7026D2FD2CBE25339675FF.png?v=1763784448
+    Price: $0.00 USD
+- [U Shaped Toothbrush for Kids - Easy & Gentle Teeth Cleaning](https://ursupermart.com/products/u-shaped-toothbrush-for-kids-easy-gentle-teeth-cleaning-solution): This u shaped toothbrush for kids makes gentle teeth cleaning simple, ensuring quicker, more effective oral care and less stress for parents. Get yours!
+  Updated: 2025-11-22T21:00:27Z
+  Vendor: S1B|S1|eprolo
+  Product Type: U-shaped toothbrush
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/045A268540CE66CBFB6C4D57634C5321.jpg?v=1763784479
+  - [2-6 years old Blue Peach Heart Color Box](https://ursupermart.com/products/u-shaped-toothbrush-for-kids-easy-gentle-teeth-cleaning-solution?variant=42583537057882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/DC699B56EDD5B5E4375BDDD2F5DA2A89.jpg?v=1763784484
+    Price: $0.00 USD
+  - [2-6 years old Pink Peach Heart Color Box](https://ursupermart.com/products/u-shaped-toothbrush-for-kids-easy-gentle-teeth-cleaning-solution?variant=42583537090650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3E7E4734BA9CCD04D81264296AC1D47E.jpg?v=1763784482
+    Price: $0.00 USD
+  - [6-12 Year Ol Blue handle color box packaging](https://ursupermart.com/products/u-shaped-toothbrush-for-kids-easy-gentle-teeth-cleaning-solution?variant=42583537123418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/8888BFB0C516D30307A33ADD9C499F4D.jpg?v=1763784480
+    Price: $0.00 USD
+  - [6-12 Year Old Pink Handle Color Box](https://ursupermart.com/products/u-shaped-toothbrush-for-kids-easy-gentle-teeth-cleaning-solution?variant=42583537156186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/045A268540CE66CBFB6C4D57634C5321.jpg?v=1763784479
+    Price: $0.00 USD
+- [Gold Moon Star Necklace Set - Elegant Celestial Design](https://ursupermart.com/products/gold-moon-star-necklace-set-elegant-celestial-design-y-shape): This gold moon star necklace set, with its elegant Y-shape and matching rings, adds celestial charm to any outfit. Discover your perfect look today!
+  Updated: 2025-11-23T11:41:50Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Jewelry set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/star-moon-choker-gold-layered-necklace.webp?v=1763855268
+  Price: $0.00 USD
+- [Invisible Ink Pen with UV Light for Secret Messages](https://ursupermart.com/products/invisible-ink-pen-with-uv-light-secret-message-reveal-fun): This invisible ink pen with UV light lets you write secret messages, reveal them instantly, and even glow in the dark for endless fun and security. Shop now!
+  Updated: 2025-11-23T16:40:45Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Invisible ink pen with UV light
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/invisible-ink-pen-with-uv-light-mixed-usage.webp?v=1763873556
+  - [Green](https://ursupermart.com/products/invisible-ink-pen-with-uv-light-secret-message-reveal-fun?variant=42583537287258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/invisible-ink-pen-with-uv-light-green.webp?v=1763873556
+    Price: $0.00 USD
+  - [Blue](https://ursupermart.com/products/invisible-ink-pen-with-uv-light-secret-message-reveal-fun?variant=42583537320026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/invisible-ink-pen-with-uv-light-blue.webp?v=1763873556
+    Price: $0.00 USD
+  - [Pink](https://ursupermart.com/products/invisible-ink-pen-with-uv-light-secret-message-reveal-fun?variant=42583537352794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/invisible-ink-pen-with-uv-light-pink.webp?v=1763873556
+    Price: $0.00 USD
+  - [Purple](https://ursupermart.com/products/invisible-ink-pen-with-uv-light-secret-message-reveal-fun?variant=42583537385562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/invisible-ink-pen-with-uv-light-purple.webp?v=1763873556
+    Price: $0.00 USD
+- [Men's Magnetic Bracelet Titanium Style & Pain Relief](https://ursupermart.com/products/mens-magnetic-bracelet-titanium-style-pain-relief-for-men): Men's magnetic bracelet provides stylish comfort and potential relief from daily discomfort. Feel better and look great all day; get yours and experience the difference!
+  Updated: 2025-11-22T16:31:36Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Magnetic Bracelet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/O1CN01nWOUs31itlZZRoHN1__2200736594471-0-cib.jpg?v=1763785892
+  - [Black Bracelet](https://ursupermart.com/products/mens-magnetic-bracelet-titanium-style-pain-relief-for-men?variant=42583538008154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/B55C22A47EA2C4563CA1B3AD7DEB99DF.jpg?v=1763785892
+    Price: $0.00 USD
+  - [Regulator](https://ursupermart.com/products/mens-magnetic-bracelet-titanium-style-pain-relief-for-men?variant=42583538040922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/8E84AEC06ADC096B6CC214EEB79E80BC.jpg?v=1763785892
+    Price: $0.00 USD
+  - [Jewelry box](https://ursupermart.com/products/mens-magnetic-bracelet-titanium-style-pain-relief-for-men?variant=42583538073690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/5AD1B0E7A444A9667AA6DD6058C985D8.jpg?v=1763785892
+    Price: $0.00 USD
+- [Gold Bar Pendant Necklace - Delicate & Versatile Style](https://ursupermart.com/products/gold-bar-pendant-necklace-delicate-versatile-style-for-women): This elegant gold bar pendant necklace offers versatile style for any occasion, boosting your confidence with its modern design; shop now to elevate your look!
+  Updated: 2025-11-23T00:12:29Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Pendant necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/bar-pendant-necklace-minimal-chain-design.webp?v=1763856478
+  - [Gold](https://ursupermart.com/products/gold-bar-pendant-necklace-delicate-versatile-style-for-women?variant=42583538171994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/bar-pendant-necklace-gold-circle-bar-chain.webp?v=1763856478
+    Price: $0.00 USD
+  - [Silver](https://ursupermart.com/products/gold-bar-pendant-necklace-delicate-versatile-style-for-women?variant=42583538204762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/bar-pendant-necklace-silver-minimalist-style.webp?v=1763856478
+    Price: $0.00 USD
+- [Fabric Christmas Ornaments Set Soft & Safe for Tree](https://ursupermart.com/products/fabric-christmas-ornaments-soft-safe-tree-decorations-for-family): Fabric Christmas ornaments bring cozy charm with soft characters and festive dangling beads. Create a warm, inviting home effortlessly this season; get your set today!
+  Updated: 2025-11-23T06:55:55Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Christmas ornaments set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-decorations-elderly-plush-holiday-ornaments.webp?v=1763838214
+  - [Santa Claus](https://ursupermart.com/products/fabric-christmas-ornaments-soft-safe-tree-decorations-for-family?variant=42583546495066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-decorations-elderly-santa-plush-ornament.webp?v=1763838294
+    Price: $0.00 USD
+  - [Snowman](https://ursupermart.com/products/fabric-christmas-ornaments-soft-safe-tree-decorations-for-family?variant=42583546527834)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-decorations-elderly-snowman-plush-ornament.webp?v=1763838324
+    Price: $0.00 USD
+  - [Deer](https://ursupermart.com/products/fabric-christmas-ornaments-soft-safe-tree-decorations-for-family?variant=42583546560602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-decorations-elderly-reindeer-plush-ornament.webp?v=1763838351
+    Price: $0.00 USD
+  - [Bear](https://ursupermart.com/products/fabric-christmas-ornaments-soft-safe-tree-decorations-for-family?variant=42583546593370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-decorations-elderly-bear-plush-ornament.webp?v=1763838379
+    Price: $0.00 USD
+- [Wooden Gnome Ornament for Cozy Christmas Decor](https://ursupermart.com/products/wooden-gnome-ornament-for-cozy-christmas-decor-nostalgic-gift): This wooden gnome ornament instantly adds a whimsical, festive touch to your holiday decor, creating a cozy, nostalgic atmosphere; find yours today!
+  Updated: 2025-11-23T06:41:42Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Christmas tree ornament
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-decorations-painted-gnome-gift-ornament.webp?v=1763837221
+  - [Santa with Christmas Cane](https://ursupermart.com/products/wooden-gnome-ornament-for-cozy-christmas-decor-nostalgic-gift?variant=42583547314266)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-decorations-painted-gnome-candycane.webp?v=1763837284
+    Price: $0.00 USD
+  - [Santa with Gift Bag](https://ursupermart.com/products/wooden-gnome-ornament-for-cozy-christmas-decor-nostalgic-gift?variant=42583547347034)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-decorations-painted-gnome-cookie-gift.webp?v=1763837317
+    Price: $0.00 USD
+  - [Santa with Christmas Tree](https://ursupermart.com/products/wooden-gnome-ornament-for-cozy-christmas-decor-nostalgic-gift?variant=42583547379802)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-decorations-painted-gnome-wreath.webp?v=1763837343
+    Price: $0.00 USD
+  - [Santa with Gifts Boxes](https://ursupermart.com/products/wooden-gnome-ornament-for-cozy-christmas-decor-nostalgic-gift?variant=42583547412570)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-decorations-painted-gnome-present-stack.webp?v=1763837374
+    Price: $0.00 USD
+- [Felt Christmas Ornaments Set - Cute & Safe Holiday Decor](https://ursupermart.com/products/felt-christmas-ornaments-cute-safe-holiday-decor-for-your-home): Felt Christmas ornaments instantly infuse your home with cheerful holiday spirit and child-safe charm. Create lasting memories; find your perfect set today!
+  Updated: 2025-11-23T06:30:48Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Christmas ornaments
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-pendant-felt-star-ornaments-set.webp?v=1763836452
+  - [snowman](https://ursupermart.com/products/felt-christmas-ornaments-cute-safe-holiday-decor-for-your-home?variant=42583547576410)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-pendant-snowman-felt-star-ornament.webp?v=1763836537
+    Price: $0.00 USD
+  - [Elk](https://ursupermart.com/products/felt-christmas-ornaments-cute-safe-holiday-decor-for-your-home?variant=42583547609178)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-pendant-reindeer-felt-star-ornament.webp?v=1763836562
+    Price: $0.00 USD
+  - [elderly](https://ursupermart.com/products/felt-christmas-ornaments-cute-safe-holiday-decor-for-your-home?variant=42583547641946)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-pendant-santa-felt-star-ornament.webp?v=1763836590
+    Price: $0.00 USD
+- [Christmas Utensil Holders Add Joy to Your Holiday Table](https://ursupermart.com/products/christmas-utensil-holders-for-holiday-table-decorations-fun-design): Christmas utensil holders instantly transform your holiday table into a festive wonderland, delighting guests and making meals special. Shop now!
+  Updated: 2025-11-23T06:16:53Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Christmas utensil holders
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-table-decorations-felt-cutlery-holders.webp?v=1763835652
+  - [Santa](https://ursupermart.com/products/christmas-utensil-holders-for-holiday-table-decorations-fun-design?variant=42583548067930)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-table-decorations-santa-cutlery-pocket.webp?v=1763835711
+    Price: $0.00 USD
+  - [Tree snowman](https://ursupermart.com/products/christmas-utensil-holders-for-holiday-table-decorations-fun-design?variant=42583548100698)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-table-decorations-snowman-cutlery-pocket.webp?v=1763835750
+    Price: $0.00 USD
+  - [Love Snowman](https://ursupermart.com/products/christmas-utensil-holders-for-holiday-table-decorations-fun-design?variant=42583548133466)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-table-decorations-snowman-heart-holder.webp?v=1763835779
+    Price: $0.00 USD
+  - [RainDeer](https://ursupermart.com/products/christmas-utensil-holders-for-holiday-table-decorations-fun-design?variant=42583548166234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-table-decorations-reindeer-cutlery-pocket.webp?v=1763835812
+    Price: $0.00 USD
+- [Cloth Christmas Ornaments Whimsical Soft & Cozy Decor](https://ursupermart.com/products/cloth-christmas-ornaments-whimsical-soft-cozy-fabric-pendant): Cloth Christmas ornaments instantly add whimsical charm and festive joy to your tree or gifts, creating lasting memories. Decorate your home today!
+  Updated: 2025-11-23T06:02:35Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Cloth Christmas ornaments
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fabric-pendant-santa-claus-plush-ornament-set.webp?v=1763834842
+  - [Snowman](https://ursupermart.com/products/cloth-christmas-ornaments-whimsical-soft-cozy-fabric-pendant?variant=42583548756058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fabric-pendant-santa-claus-snowman-tree-decoration.webp?v=1763834898
+    Price: $0.00 USD
+  - [Santa](https://ursupermart.com/products/cloth-christmas-ornaments-whimsical-soft-cozy-fabric-pendant?variant=42583548788826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fabric-pendant-santa-claus-santa-tree-decoration.webp?v=1763834930
+    Price: $0.00 USD
+  - [Deer](https://ursupermart.com/products/cloth-christmas-ornaments-whimsical-soft-cozy-fabric-pendant?variant=42583548821594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fabric-pendant-santa-claus-reindeer-tree-decoration.webp?v=1763834972
+    Price: $0.00 USD
+  - [Santa Heart](https://ursupermart.com/products/cloth-christmas-ornaments-whimsical-soft-cozy-fabric-pendant?variant=42583548854362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fabric-pendant-santa-claus-heart-santa-ornament.webp?v=1763835000
+    Price: $0.00 USD
+  - [Deer Heart](https://ursupermart.com/products/cloth-christmas-ornaments-whimsical-soft-cozy-fabric-pendant?variant=42583548887130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fabric-pendant-santa-claus-heart-reindeer-ornament.webp?v=1763835032
+    Price: $0.00 USD
+  - [Snowman Heart](https://ursupermart.com/products/cloth-christmas-ornaments-whimsical-soft-cozy-fabric-pendant?variant=42583548919898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fabric-pendant-santa-claus-heart-snowman-ornament.webp?v=1763835064
+    Price: $0.00 USD
+- [Buffalo Plaid Truck Ornaments Cozy Vintage Christmas Decor](https://ursupermart.com/products/buffalo-plaid-truck-ornaments-cozy-vintage-christmas-decor): Buffalo plaid truck ornaments add rustic charm and cozy nostalgia to your holiday decor. This set of three wooden trucks makes decorating easy; shop now!
+  Updated: 2025-11-23T05:43:58Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Christmas tree ornaments
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-decorations-plaid-truck-ornament-set.webp?v=1763833677
+  - [Red grid style](https://ursupermart.com/products/buffalo-plaid-truck-ornaments-cozy-vintage-christmas-decor?variant=42583549050970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-decorations-red-plaid-truck-ornament.webp?v=1763833782
+    Price: $0.00 USD
+  - [Green grid style](https://ursupermart.com/products/buffalo-plaid-truck-ornaments-cozy-vintage-christmas-decor?variant=42583549083738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-decorations-green-gnome-truck-ornament.webp?v=1763833814
+    Price: $0.00 USD
+  - [Gray grid style](https://ursupermart.com/products/buffalo-plaid-truck-ornaments-cozy-vintage-christmas-decor?variant=42583549116506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-decorations-black-plaid-truck-ornament.webp?v=1763833841
+    Price: $0.00 USD
+- [Privacy Screen Protector - Secure & Scratch-Proof Glass](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones): Privacy screen protector keeps your sensitive data private from prying eyes and protects your screen from damage. Shop now for ultimate security!
+  Updated: 2025-11-23T14:48:21Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Privacy screen protector
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/61A32AD3A4B8C1CD043591A79A4E54A0.jpg?v=1763785238
+  - [For iphone 6 6S / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583553998938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 6 6S Plus / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554031706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 7 8 Plus / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554064474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone X XS / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554097242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone XS Max / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554130010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone XR / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554162778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 11 / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554195546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 11 Pro / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554228314)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 11Pro Max / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554261082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 12 / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554293850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 12 Pro / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554326618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 12Pro Max / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554359386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 13 / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554392154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 13 Pro / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554424922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 13Pro Max / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554457690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 14 / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554490458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 14 Plus / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554523226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 14 Pro / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554555994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 14Pro Max / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554588762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 15 / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554621530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 15 Plus / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554654298)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 15 Pro / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554687066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone 15Pro Max / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554719834)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+  - [For iphone  78 SE / 2Pieces](https://ursupermart.com/products/privacy-screen-protector-secure-scratch-proof-glass-for-phones?variant=42583554752602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1AFCA9213E9015A5E0523DF8035D98EB.jpg?v=1763785242
+    Price: $0.00 USD
+- [Metallic Cleaning Cloth for Tough Stains & Scratch-Free Shine](https://ursupermart.com/products/metallic-cleaning-cloth-tough-stains-scratch-free-shine-kitchen): Metallic cleaning cloth effortlessly removes tough kitchen stains and grease without scratching. Get yours today for a sparkling, hygienic, and reusable clean!
+  Updated: 2025-11-22T16:40:44Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Metallic Cleaning Cloth
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/385C728A8B1D7449FE496FAC7155A641.jpg?v=1763785312
+  Price: $0.00 USD
+- [Wall Mounted Power Strip USB Charger & Cable Organizer](https://ursupermart.com/products/wall-mounted-power-strip-usb-charger-cable-organizer-solution): This wall mounted power strip with USB ports and movable organizers keeps your space tidy and all devices charged. Declutter and simplify your home today!
+  Updated: 2025-11-22T17:57:34Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Wall-mounted power strip
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/0035884E61CEDDA5EFA97B14FE866699.jpg?v=1763785334
+  - [Green](https://ursupermart.com/products/wall-mounted-power-strip-usb-charger-cable-organizer-solution?variant=42583555014746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6BBB337D417554E4D7573FDAC2D8AC0A.jpg?v=1763785343
+    Price: $0.00 USD
+  - [Blue](https://ursupermart.com/products/wall-mounted-power-strip-usb-charger-cable-organizer-solution?variant=42583555047514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/9ED17D745E443C0F17C9F8244A96E129.jpg?v=1763785344
+    Price: $0.00 USD
+  - [White](https://ursupermart.com/products/wall-mounted-power-strip-usb-charger-cable-organizer-solution?variant=42583555080282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/B3530A177F55B0064FA34E30ED264DF7.jpg?v=1763785347
+    Price: $0.00 USD
+  - [Orange](https://ursupermart.com/products/wall-mounted-power-strip-usb-charger-cable-organizer-solution?variant=42583555113050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/CC5CE7F6139D5FF5EEDDF42903F1751F.jpg?v=1763785348
+    Price: $0.00 USD
+- [Closet Organizer Hanger Maximize Space & Stop Wrinkles](https://ursupermart.com/products/closet-organizer-hanger-maximize-space-stop-wrinkles-now-easily): This closet organizer hanger instantly triples your hanging space, keeping clothes neat and wrinkle-free. Simplify your routine and organize your closet now!
+  Updated: 2025-11-22T21:02:13Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Closet organizer hanger
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/closet-organizer-hanger-multicolor-space-saving-hooks.webp?v=1763832983
+  - [Green](https://ursupermart.com/products/closet-organizer-hanger-maximize-space-stop-wrinkles-now-easily?variant=42583555178586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/closet-organizer-hanger-multicolor-space-saving-hooks.webp?v=1763832983
+    Price: $0.00 USD
+  - [Blue](https://ursupermart.com/products/closet-organizer-hanger-maximize-space-stop-wrinkles-now-easily?variant=42583555211354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/closet-organizer-hanger-colorful-chain-hanger-system.webp?v=1763833017
+    Price: $0.00 USD
+  - [Pink](https://ursupermart.com/products/closet-organizer-hanger-maximize-space-stop-wrinkles-now-easily?variant=42583555244122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/closet-organizer-hanger-coral-plastic-chain-hook.webp?v=1763833047
+    Price: $0.00 USD
+- [Heart Crystal Bottle Necklace Set - Trendy & Unique](https://ursupermart.com/products/heart-crystal-bottle-necklace-set-trendy-and-unique-design): A heart crystal bottle necklace set lets you express unique style and symbolize love beautifully. Find your perfect versatile, trendy design and shop now!
+  Updated: 2025-11-22T16:36:37Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Necklace set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/0D3A182EFE579ABA5D3433A7D7020F82.jpg?v=1763785367
+  - [Pink](https://ursupermart.com/products/heart-crystal-bottle-necklace-set-trendy-and-unique-design?variant=42583555309658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/131C1A6F2CFAA3AB0C35F0E6E0B8550E.jpg?v=1763785379
+    Price: $0.00 USD
+  - [Blue](https://ursupermart.com/products/heart-crystal-bottle-necklace-set-trendy-and-unique-design?variant=42583555342426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/EC390EA1AD531E8816940958D0989DAF.jpg?v=1763785381
+    Price: $0.00 USD
+  - [Gold](https://ursupermart.com/products/heart-crystal-bottle-necklace-set-trendy-and-unique-design?variant=42583555375194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/612D798AB6F039EBEB625D315117902F.jpg?v=1763785377
+    Price: $0.00 USD
+- [Self Defense Ring - Discreet Protection Jewelry for Women](https://ursupermart.com/products/self-defense-ring-women-tactical-jewelry-protection): Tactical self defense rings with spike edge design. Stainless steel, discreet wearable protection for everyday carry. Shop now for personal safety!
+  Updated: 2025-11-23T17:15:30Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Finger rings set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/61CBD2288CDB38A5A5E74EC9363CE164.png?v=1763787733
+  - [Gold / Inner diameter 20mm](https://ursupermart.com/products/self-defense-ring-women-tactical-jewelry-protection?variant=42583602724954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/B119AA43FCE55DA343875010D8A450B8.png?v=1763787744
+    Price: $0.00 USD
+  - [silver / Inner diameter 20mm](https://ursupermart.com/products/self-defense-ring-women-tactical-jewelry-protection?variant=42583602757722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/61E9A823E733DA6E5ED3FF930DA69E3D.png?v=1763787746
+    Price: $0.00 USD
+  - [gun black / Inner diameter 20mm](https://ursupermart.com/products/self-defense-ring-women-tactical-jewelry-protection?variant=42583602790490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/9D2A9149A0F49461D3B7059FB22DCC75.png?v=1763787747
+    Price: $0.00 USD
+- [Hanger Connector Clips for More Closet Space & Organization](https://ursupermart.com/products/hanger-connector-clips-for-more-closet-space-organization): Hanger connector clips instantly maximize your closet space with vertical hanging. Transform cluttered areas into organized wardrobes and reclaim valuable room today!
+  Updated: 2025-11-23T05:18:14Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Hanger connector clips
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6-hanger-connection-hooks-vertical-hanging-system.webp?v=1763844916
+  Price: $0.00 USD
+- [Arm Cuff Bracelet Modern Gold & Silver Upper Arm Jewelry](https://ursupermart.com/products/arm-cuff-bracelet-modern-gold-silver-upper-arm-jewelry-shop): Arm cuff bracelet: Elevate your style with this minimalist gold or silver design, featuring three thin bands. Express your unique self and shop now for a chic look!
+  Updated: 2025-11-22T19:52:49Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Upper arm cuff
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/A9BC37D9C8278028C84FA9FFD89C8B3C.jpg?v=1763787993
+  - [01 Gold 0343](https://ursupermart.com/products/arm-cuff-bracelet-modern-gold-silver-upper-arm-jewelry-shop?variant=42583602954330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/9F49DF3CE03DCF594AD1E12A64DA1E4C.jpg?v=1763788004
+    Price: $0.00 USD
+  - [01 White K 0343](https://ursupermart.com/products/arm-cuff-bracelet-modern-gold-silver-upper-arm-jewelry-shop?variant=42583602987098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/539B2ECA1F89B7CF0178740CB976C549.jpg?v=1763788006
+    Price: $0.00 USD
+- [Multi Color Resin Bangles - Stackable & Comfy Bracelets](https://ursupermart.com/products/multi-color-resin-bangles-stackable-comfy-bracelets-for-women): Multi color resin bangles offer a stylish, lightweight set of five to express your unique style and add a pop of color. Shop now for versatile fashion!
+  Updated: 2025-11-22T19:03:02Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Bangle bracelets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/AE896BE7E8847806BECCAD2B3CA2D1DF.jpg?v=1763788039
+  - [01 Orange 2473](https://ursupermart.com/products/multi-color-resin-bangles-stackable-comfy-bracelets-for-women?variant=42583603085402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/CF50E8AA3C58244FE079A7196BC904F5.jpg?v=1763788049
+    Price: $0.00 USD
+  - [02 Beige 2473](https://ursupermart.com/products/multi-color-resin-bangles-stackable-comfy-bracelets-for-women?variant=42583603118170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/51CF5AB7128F5FCB65B80157503F85D8.jpg?v=1763788051
+    Price: $0.00 USD
+  - [03 Blue 2473](https://ursupermart.com/products/multi-color-resin-bangles-stackable-comfy-bracelets-for-women?variant=42583603150938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/AA5B82C04191B3E13F39E7D77AFF16E0.jpg?v=1763788053
+    Price: $0.00 USD
+  - [04 Yellow 2473](https://ursupermart.com/products/multi-color-resin-bangles-stackable-comfy-bracelets-for-women?variant=42583603183706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4940961B01940CFCB5C12D6747FD5478.jpg?v=1763788055
+    Price: $0.00 USD
+  - [05 Coffee 2473](https://ursupermart.com/products/multi-color-resin-bangles-stackable-comfy-bracelets-for-women?variant=42583603216474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/FF1E0FB4F279F1695AB167A89EE0385B.jpg?v=1763788057
+    Price: $0.00 USD
+  - [06 Light Pink 2474](https://ursupermart.com/products/multi-color-resin-bangles-stackable-comfy-bracelets-for-women?variant=42583603249242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/0FC68BAAE1FADDD21FBB531283863C0C.jpg?v=1763788059
+    Price: $0.00 USD
+  - [07 Beige 2474](https://ursupermart.com/products/multi-color-resin-bangles-stackable-comfy-bracelets-for-women?variant=42583603282010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/BF004F455628518B525B9418A80CD867.jpg?v=1763788062
+    Price: $0.00 USD
+  - [08 Coffee 2474](https://ursupermart.com/products/multi-color-resin-bangles-stackable-comfy-bracelets-for-women?variant=42583603314778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/265B746A0409D59446B56CA613EED6DB.jpg?v=1763788064
+    Price: $0.00 USD
+  - [09 Deep Brown 2474](https://ursupermart.com/products/multi-color-resin-bangles-stackable-comfy-bracelets-for-women?variant=42583603347546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/0855F43451B92FDC22B577B6194B439C.jpg?v=1763788066
+    Price: $0.00 USD
+- [Gold Upper Arm Cuff Stylish Comfy Unique Arm Jewelry](https://ursupermart.com/products/gold-upper-arm-cuff-stylish-comfy-unique-arm-jewelry-for-women): Gold upper arm cuff: Express your unique style with this lightweight, open-ended accessory featuring a polished finish. Shop now to elevate any outfit!
+  Updated: 2025-11-23T03:58:53Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Upper arm cuffs
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/women-drip-metal-arm-cuff-bracelet.webp?v=1763827424
+  - [Light Gold 0285](https://ursupermart.com/products/gold-upper-arm-cuff-stylish-comfy-unique-arm-jewelry-for-women?variant=42583603413082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/women-gold-melted-metal-arm-band.webp?v=1763827475
+    Price: $0.00 USD
+  - [Silver K 0285](https://ursupermart.com/products/gold-upper-arm-cuff-stylish-comfy-unique-arm-jewelry-for-women?variant=42583603445850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/women-silver-minimalist-arm-cuff.webp?v=1763827504
+    Price: $0.00 USD
+  - [Gold  0286](https://ursupermart.com/products/gold-upper-arm-cuff-stylish-comfy-unique-arm-jewelry-for-women?variant=42583603478618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/women-gold-drip-style-arm-bracelet.webp?v=1763827532
+    Price: $0.00 USD
+  - [Silver K 0286](https://ursupermart.com/products/gold-upper-arm-cuff-stylish-comfy-unique-arm-jewelry-for-women?variant=42583603511386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/women-silver-drip-style-arm-band.webp?v=1763827563
+    Price: $0.00 USD
+  - [Gold Arm Chain 0324](https://ursupermart.com/products/gold-upper-arm-cuff-stylish-comfy-unique-arm-jewelry-for-women?variant=42583603544154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/women-silver-triple-arm-cuff-design.webp?v=1763827594
+    Price: $0.00 USD
+  - [Silver K Arm Chain 0324](https://ursupermart.com/products/gold-upper-arm-cuff-stylish-comfy-unique-arm-jewelry-for-women?variant=42583603576922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/women-gold-dripping-metal-arm-cuff.webp?v=1763827625
+    Price: $0.00 USD
+- [Wide Cuff Bracelets Gold Silver Set Easy Slip-On](https://ursupermart.com/products/wide-cuff-bracelets-gold-silver-set-easy-slip-on-fashion-statement): Wide cuff bracelets: Elevate your everyday style with this versatile gold and silver set. Slip them on easily to make a bold statement and get yours now!
+  Updated: 2025-11-23T03:42:24Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Cuff bracelets set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/bracelet-fashionable-gold-silver-wide-bangles.webp?v=1763826515
+  - [01 Gold2366](https://ursupermart.com/products/wide-cuff-bracelets-gold-silver-set-easy-slip-on-fashion-statement?variant=42583603642458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2366-Gold-Bracelet.webp?v=1763847005
+    Price: $0.00 USD
+  - [01 Silver K2366](https://ursupermart.com/products/wide-cuff-bracelets-gold-silver-set-easy-slip-on-fashion-statement?variant=42583603675226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2366-Silver-Bracelet.webp?v=1763847004
+    Price: $0.00 USD
+  - [02 Gold 2367](https://ursupermart.com/products/wide-cuff-bracelets-gold-silver-set-easy-slip-on-fashion-statement?variant=42583603707994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2367-Gold-Bracelet-Side.webp?v=1763847159
+    Price: $0.00 USD
+  - [02 Silver K2367](https://ursupermart.com/products/wide-cuff-bracelets-gold-silver-set-easy-slip-on-fashion-statement?variant=42583603740762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2367-Silver-Bracelet-Side.webp?v=1763847159
+    Price: $0.00 USD
+  - [03 Gold 2368](https://ursupermart.com/products/wide-cuff-bracelets-gold-silver-set-easy-slip-on-fashion-statement?variant=42583603773530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2368-Gold-Bracelet.webp?v=1763847330
+    Price: $0.00 USD
+  - [04 Gold 2409](https://ursupermart.com/products/wide-cuff-bracelets-gold-silver-set-easy-slip-on-fashion-statement?variant=42583603806298)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/bracelet-fashionable-sculpted-gold-bangle.webp?v=1763826705
+    Price: $0.00 USD
+  - [04 Silver K 2409](https://ursupermart.com/products/wide-cuff-bracelets-gold-silver-set-easy-slip-on-fashion-statement?variant=42583603839066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/bracelet-fashionable-sculpted-silver-bangle.webp?v=1763826738
+    Price: $0.00 USD
+- [Gold Hammered Bangle Set & Ring Unique Modern Style](https://ursupermart.com/products/gold-hammered-bangle-set-ring-unique-modern-style-jewelry): Gold hammered bangle set adds unique style and modern elegance. Elevate your look for any occasion with this versatile jewelry; explore today!
+  Updated: 2025-11-22T18:59:03Z
+  Vendor: S1B|S1|eprolo
+  Product Type: jewelry set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/F008506164F9C8B0CF91C34A4E5A626D.jpg?v=1763788094
+  - [Gold bracelet+ring  5607](https://ursupermart.com/products/gold-hammered-bangle-set-ring-unique-modern-style-jewelry?variant=42583603904602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/A7E27DC682B4B4C569A03D8BE82E9505.jpg?v=1763788103
+    Price: $0.00 USD
+  - [White K bracelet+Ring 5607](https://ursupermart.com/products/gold-hammered-bangle-set-ring-unique-modern-style-jewelry?variant=42583603937370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4FDDDFDB64A2203898F21764A3FC9AF9.jpg?v=1763788106
+    Price: $0.00 USD
 
 ## Collections
 
@@ -36187,7 +37334,7 @@
   Updated: 2025-11-16T20:47:03Z
   Total Products: 91
 - [Amazing Cozy Christmas Decor Deals Starting at Just $12](https://ursupermart.com/collections/cozy-christmas-decor-deals-under-30): Transform your home with cozy christmas decor deals under $30. Budget friendly holiday decorating solutions for Instagram-worthy spaces. Shop now!
-  Updated: 2025-11-20T12:07:04Z
+  Updated: 2025-11-23T12:06:41Z
   Total Products: 23
 - [LED Halloween Costumes & Masks | Spooky Accessories 2025](https://ursupermart.com/collections/spooky-wearable-tech-costumes): Shop LED Halloween costumes & masks that light up, move & make spooky sounds! Glow-in-the-dark Halloween accessories & decorations. Tech Halloween 2025!
   Updated: 2025-11-01T02:07:14Z
@@ -36199,13 +37346,13 @@
   Updated: 2025-11-14T21:42:40Z
   Total Products: 88
 - [Best Cyber Monday Deals Under 25 Tech Gifts & Free Shipping](https://ursupermart.com/collections/cyber-monday-deals-under-25): Discover cyber monday deals under 25 on quality tech gifts with free shipping today. Perfect holiday tech gifts under 25 that solve real problems for everyone.
-  Updated: 2025-11-20T12:07:04Z
+  Updated: 2025-11-23T12:06:41Z
   Total Products: 15
 - [Best Budget Tech Gifts Under $15: Viral TikTok Finds 2025](https://ursupermart.com/collections/tech-gifts-under-15-viral-tiktok): Shop 15 viral TikTok tech gifts under $15 that actually work. Budget wireless earbuds, phone accessories & trending gadgets. Free shipping. Limited stock!
   Updated: 2025-11-14T21:42:40Z
   Total Products: 85
 - [Secret Santa Gifts under $30: Unique Ideas That Won't Break the Bank](https://ursupermart.com/collections/christmas-gift-ideas-under-30): Christmas Gifts That Won't Break the Bank Discover the perfect Christmas gifts for everyone on your list without exceeding your budget! Our collection features a wide array of items, all priced under $30, making it easier than ever to find thoughtful gifts that won't strain your wallet. Whether you're shopping for friends, family, or co-workers, these budget-friendly options are ideal for Secret Santa gifts, stocking stuffers, and last-minute surprises. Plus, enjoy the added benefit of free shipping on all orders, ensuring that your holiday shopping is both convenient and cost-effective. Stocking Stuffers for Everyone Looking for stocking stuffers that are sure to delight? Our curated selection includes fun and practical items perfect for filling those stockings this holiday season. From stylish fashion accessories to quirky kitchen gadgets, there’s something for everyone. These unique gifts are not only affordable but also thoughtful, making them ideal for anyone from your office buddy to your favorite aunt. Explore our collection and find the perfect small treasures that will bring joy to your loved ones. Best Holiday Gift Ideas Under $30 Finding the best holiday gift ideas can be a challenge, especially when you're on a budget. Our collection is designed with this in mind, offering a variety of delightful options that cater to all tastes and interests. Choose from trendy women's clothing, sleek watches, or handy electronics that make great gifts for men and women alike. Each item is carefully selected to ensure quality and style while keeping prices low. This holiday season, impress your friends and family with thoughtful gifts that show you care without overspending. Christmas Gifts for Men and Women Searching for Christmas gifts for men or Christmas gifts for women? Look no further! Our diverse collection has something special for everyone. Whether you're shopping for a tech enthusiast who loves gadgets or a fashion-forward friend who appreciates stylish accessories, our range of products includes everything from phone cases to massagers. These gifts are perfect for all ages, making them suitable for friends, family members, or even co-workers participating in office gift exchanges. Stocking Stuffer Ideas That Shine When it comes to stocking stuffer ideas, creativity is key! Our collection features an assortment of small yet impactful gifts that are sure to impress. Consider fun toys, trendy glasses, or unique kitchen gadgets as delightful additions to any stocking. Each item is thoughtfully chosen to bring smiles without breaking the bank. These stocking stuffers are not just practical; they also add a touch of excitement to the holiday festivities. Secret Santa Gifts Everyone Will Love Participating in a Secret Santa exchange? Our selection of Secret Santa gifts is perfect for surprising your colleagues or friends with something unique and enjoyable. From stylish bags to charming Christmas ornaments, each gift is under $30 and designed to bring joy without the stress of overspending. Make your Secret Santa memorable with our thoughtful picks that cater to diverse tastes. Gift Ideas for Those Who Have Everything Struggling with what to buy for those who seem to have it all? Our collection includes gifts for men who have everything, offering practical yet fun items that they might not have thought to buy themselves. From innovative electronics to fashionable accessories, these unique finds will surely impress even the hardest-to-shop-for individuals on your list. Christmas Gifts for Mom That Show You Care Show your appreciation this holiday season with thoughtful Christmas gifts for mom. Our selection includes lovely fashion accessories and cozy items that she will cherish. Each gift is designed with love and care, ensuring that you can express how much she means to you without exceeding your budget. Celebrate her this Christmas with a gift that reflects her personality and style. Holiday Sales You Can't Miss Take advantage of our incredible holiday sales! With every item priced under $30 and free shipping included, you can shop confidently knowing you're getting the best deals this season. Don’t miss out on these fantastic offers—perfect for last-minute shoppers looking to spread some holiday cheer without spending too much. This holiday season, make your shopping experience enjoyable and stress-free with our extensive collection of budget-friendly gifts. Each item is selected not just for its affordability but also for its ability to bring joy and happiness during this festive time of year. Whether you're looking for stocking stuffers or meaningful presents, our collection has everything you need to make this Christmas unforgettable!
-  Updated: 2025-11-20T12:07:04Z
+  Updated: 2025-11-23T12:06:41Z
   Total Products: 25
 - [Viral Tech Gadgets Under $50 TikTok Users Are Buying Now](https://ursupermart.com/collections/viral-tech-gadgets-under-50): Shop viral tech gadgets under $50 trending on TikTok 2025. Power banks, gaming consoles & flashlights with free shipping. Limited holiday deals now!
   Updated: 2025-11-18T19:27:52Z
@@ -36247,7 +37394,7 @@
   Updated: 2025-10-01T23:31:57Z
   Total Products: 33
 - [Gift Ideas – Unique, Cool, and Affordable Picks](https://ursupermart.com/collections/gift-ideas): Explore Gift Ideas for every occasion. Find unique, cool, and affordable gifts for birthdays, holidays, and special moments, all in one place and free shipping.
-  Updated: 2025-11-20T12:07:04Z
+  Updated: 2025-11-23T12:06:41Z
   Total Products: 47
 - [Top Mens Watches 2025: Luxury Waterproof Sales Under $125!](https://ursupermart.com/collections/best-mens-watches-luxury-waterproof): Shop trending mens watches 2025! Best waterproof luxury watches and stylish watches for men $15-$125. Free shipping, hassle-free returns!
   Updated: 2025-11-18T19:27:52Z
@@ -36261,9 +37408,9 @@
 - [Shop Women's Winter Coats: Warm, Stylish & Budget-Friendly](https://ursupermart.com/collections/womens-winter-coats-affordable-2026): Find affordable women's winter coats, jackets & sweaters for work and weekend. Cozy styles under $150 with free shipping. Shop winter clothing deals now!
   Updated: 2025-11-21T17:00:33Z
   Total Products: 40
-- [Free Stuff](https://ursupermart.com/collections/free-stuff)
-  Updated: 2025-11-21T22:28:13Z
-  Total Products: 61
+- [Free Gifts for Everyone: Quality Jewelry Collection 2025](https://ursupermart.com/collections/free-gifts-for-everyone): Free gifts for everyone including chains, watches, rings and necklaces. Quality jewelry at zero cost for holiday gifting. Free shipping included.
+  Updated: 2025-11-23T05:15:26Z
+  Total Products: 88
 
 ## Blogs
 
@@ -36825,9 +37972,9 @@
 - [Privacy Policy](https://ursupermart.com/policies/privacy-policy)
   Updated: 2024-09-23T18:43:33-04:00
 - [Shipping Policy](https://ursupermart.com/policies/shipping-policy)
-  Updated: 2025-07-31T17:40:29-04:00
+  Updated: 2025-11-21T23:55:19-05:00
 - [Refund Policy](https://ursupermart.com/policies/refund-policy)
-  Updated: 2025-10-10T08:34:47-04:00
+  Updated: 2025-11-21T23:47:35-05:00
 - [Terms of Service](https://ursupermart.com/policies/terms-of-service)
   Updated: 2025-06-12T20:37:35-04:00
 - [Contact Information](https://ursupermart.com/policies/contact-information)
