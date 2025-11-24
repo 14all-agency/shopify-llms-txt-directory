@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-24T00:05:35.519Z
+- Updated At: 2025-11-24T04:00:31.522Z
 
 ## Products
 
@@ -377,7 +377,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_09_21_23_AM.png?v=1761916900
   Price: $17.95 USD
 - [Drops of Rain Reed Diffuser](https://affinatiliving.com/products/raindrop-reed-diffuser): Refresh your space with the clean, dewy scent of rainfall. A crisp, airy fragrance that brings calm, clarity, and pure serenity to any room.
-  Updated: 2025-11-23T03:00:36Z
+  Updated: 2025-11-24T00:16:17Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -3898,7 +3898,7 @@
     Availability: Available
     Price: $24.95 USD
 - [Vanilla Bean Room Spray](https://affinatiliving.com/products/vanilla-bean-room-spray): Cozy up with Affinati’s Vanilla Bean Room & Linen Spray. Creamy vanilla, sugar & buttercream create a warm, long-lasting, inviting aroma.
-  Updated: 2025-11-23T03:05:07Z
+  Updated: 2025-11-24T00:27:22Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -5026,7 +5026,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Midnight Oak Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/midnight-oak): Experience the refined warmth of the Midnight Oak Wooden Wick Candle by Affinati. This 21 oz soy-blend candle features aged oak, smoked cedar, and amber notes with a crackling wooden wick for a rich, fireside ambiance. A bold, sophisticated fragrance for modern, refined living.
-  Updated: 2025-11-23T15:47:10Z
+  Updated: 2025-11-24T03:47:14Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5041,7 +5041,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Midnight Oak Wooden Wick Candle – Luxury 15 oz Soy Blend | Affinati](https://affinatiliving.com/products/midnight-oak-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Experience the elegance of Affinati’s 15 oz Midnight Oak Candle. Featuring a crackling wooden wick and rich notes of oak, amber, and leather, this soy-blend candle delivers a bold, refined fragrance for modern luxury living.
-  Updated: 2025-11-23T15:47:11Z
+  Updated: 2025-11-24T03:47:22Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5056,7 +5056,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Midnight Oak Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/midnight-oak-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Elevate your space with the 10 oz Midnight Oak Wooden Wick Candle by Affinati. A soy-blend candle featuring aged oak, cedar, and amber with a crackling wooden wick — the perfect balance of warmth, depth, and modern luxury.
-  Updated: 2025-11-23T15:47:10Z
+  Updated: 2025-11-24T03:47:17Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5071,7 +5071,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Cinnamon Reserve Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/cinnamon-reserve-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Warm your home with Affinati’s Cinnamon Reserve Candle. This 10 oz soy-blend candle features a crackling wooden wick and notes of cinnamon, amber, and vanilla for a cozy, luxurious fragrance that embodies refined living.
-  Updated: 2025-11-23T15:47:10Z
+  Updated: 2025-11-24T03:47:15Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5086,7 +5086,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Cinnamon Reserve Wooden Wick Candle – Luxury 15 oz Soy Blend | Affinati](https://affinatiliving.com/products/cinnamon-reserve-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Cozy up with Affinati’s 15 oz Cinnamon Reserve Candle. Hand-poured with a premium soy blend and a crackling wooden wick, this luxurious candle blends cinnamon, amber, and vanilla for a warm, refined fragrance perfect for every season.
-  Updated: 2025-11-23T15:47:09Z
+  Updated: 2025-11-24T03:47:13Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5101,7 +5101,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Cinnamon Reserve Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/cinnamon-reserve-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Fill your home with warmth and elegance. The 21 oz Cinnamon Reserve Candle by Affinati blends cinnamon, amber, and vanilla in a premium soy wax with a crackling wooden wick—crafted for luxurious, long-lasting fragrance.
-  Updated: 2025-11-23T15:47:09Z
+  Updated: 2025-11-24T03:47:14Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5116,7 +5116,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Golden Fireside Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/golden-fireside-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Bring warmth and sophistication home with Affinati’s 21 oz Golden Fireside Candle. Crafted from a premium soy blend with a crackling wooden wick, its amber and smoked vanilla notes create a luxurious fireside ambiance.
-  Updated: 2025-11-23T15:47:09Z
+  Updated: 2025-11-24T03:47:20Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5131,7 +5131,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Golden Fireside Wooden Wick Candle – Luxury 15 oz Soy Blend | Affinati](https://affinatiliving.com/products/golden-fireside-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Light up luxury with Affinati’s 15 oz Golden Fireside Candle. Crafted with a crackling wooden wick and a soy wax blend, its notes of amber, oak, and smoked vanilla create a warm, sophisticated ambiance.
-  Updated: 2025-11-23T15:47:09Z
+  Updated: 2025-11-24T03:47:14Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5146,7 +5146,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Golden Fireside Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/golden-fireside-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Ignite warmth with the 10 oz Golden Fireside Candle by Affinati. A soy-blend candle with a crackling wooden wick and notes of ambered wood, smoked vanilla, and sandalwood for a luxurious fireside glow.
-  Updated: 2025-11-23T15:47:08Z
+  Updated: 2025-11-24T03:47:12Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5161,7 +5161,7 @@
     Availability: Available
     Price: $89.95 USD
 - [White Driftwood Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/white-driftwood-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Find calm with Affinati’s 10 oz White Driftwood Candle. A soy-blend candle featuring a crackling wooden wick and notes of coastal wood, sea salt, and soft musk for a clean, luxurious home fragrance.
-  Updated: 2025-11-23T15:47:08Z
+  Updated: 2025-11-24T03:47:13Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5176,7 +5176,7 @@
     Availability: Available
     Price: $89.95 USD
 - [White Driftwood Wooden Wick Candle – Luxury 15 oz Soy Blend | Affinati](https://affinatiliving.com/products/white-driftwood-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Light up luxury with Affinati’s 15 oz Golden Fireside Candle. Crafted with a crackling wooden wick and a soy wax blend, its notes of amber, oak, and smoked vanilla create a warm, sophisticated ambiance.
-  Updated: 2025-11-23T15:47:08Z
+  Updated: 2025-11-24T03:47:13Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5191,7 +5191,7 @@
     Availability: Available
     Price: $124.95 USD
 - [White Driftwood Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/white-driftwood-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Bring coastal serenity home with Affinati’s 15 oz White Driftwood Candle. Crafted from a soy blend with a crackling wooden wick, it blends driftwood, sea salt, and white amber for effortless seaside elegance.
-  Updated: 2025-11-23T15:47:08Z
+  Updated: 2025-11-24T03:47:21Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5206,7 +5206,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Winter Spruce Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/winter-spruce-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Indulge in winter serenity with our 21 oz Winter Spruce Candle. Natural wooden wick, premium soy blend, and crisp evergreen luxury from Affinati.
-  Updated: 2025-11-23T15:47:07Z
+  Updated: 2025-11-24T03:47:11Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5221,7 +5221,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Winter Spruce Wooden Wick Candle – Luxury 15 oz Soy Blend | Affinati](https://affinatiliving.com/products/winter-spruce-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Hand-poured with premium soy wax, our 15 oz Winter Spruce Candle fills your space with spruce, amber, and musk—crafted for calm, refined winter living.
-  Updated: 2025-11-23T15:47:07Z
+  Updated: 2025-11-24T03:47:13Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5236,7 +5236,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Winter Spruce Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/winter-spruce-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Experience crisp Blue Spruce and cedarwood with our 10 oz Winter Spruce Candle. A soothing wooden wick brings cozy winter elegance to every room.
-  Updated: 2025-11-23T15:47:07Z
+  Updated: 2025-11-24T03:47:12Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5251,7 +5251,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Pumpkin Cashmere Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/pumpkin-cashmere-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Hand-poured soy blend with creamy pumpkin, vanilla, and cashmere musk. The 10 oz Pumpkin Cashmere Candle brings cozy autumn luxury home.
-  Updated: 2025-11-23T15:47:07Z
+  Updated: 2025-11-24T03:47:11Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5266,7 +5266,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Pumpkin Cashmere Wooden Wick Candle – Luxury 15 oz Soy Blend | Affinati](https://affinatiliving.com/products/pumpkin-cashmere-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Experience warm pumpkin, amber, and vanilla bean in our 15 oz Pumpkin Cashmere Candle—crafted for elegant autumn comfort.
-  Updated: 2025-11-23T15:47:06Z
+  Updated: 2025-11-24T03:47:10Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5281,7 +5281,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Pumpkin Cashmere Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/pumpkin-cashmere-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Indulge in luxury with our 21 oz Pumpkin Cashmere Candle—wooden wick, soy blend, and caramel amber musk for refined seasonal warmth.
-  Updated: 2025-11-23T15:47:06Z
+  Updated: 2025-11-24T03:47:10Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5296,7 +5296,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Rose Amour Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/rose-amour-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Indulge in the elegance of rose and cashmere musk with our 21 oz Rose Amour Candle — a statement in luxurious, timeless fragrance.
-  Updated: 2025-11-23T15:47:05Z
+  Updated: 2025-11-24T03:47:11Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5311,7 +5311,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Rose Amour Wooden Wick Candle – Luxury 15 oz Soy Blend | Affinati](https://affinatiliving.com/products/rose-amour-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Immerse in rose, amber, and musk with our 15 oz Rose Amour candle. Hand-poured luxury crafted for refined, romantic living.
-  Updated: 2025-11-23T15:47:06Z
+  Updated: 2025-11-24T03:47:11Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5326,7 +5326,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Rose Amour Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/rose-amour-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Soft rose petals, amber, and vanilla crème in a 10 oz wooden-wick candle. Rose Amour by Affinati — romantic, elegant, and timeless.
-  Updated: 2025-11-23T15:47:04Z
+  Updated: 2025-11-24T03:47:10Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5341,7 +5341,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Vanilla Noir Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/vanilla-noir-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Smoked vanilla, amber, and sandalwood combine in our 10 oz Vanilla Noir Candle — a refined, sensual fragrance crafted for luxurious calm.
-  Updated: 2025-11-23T15:47:04Z
+  Updated: 2025-11-24T03:47:10Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5356,7 +5356,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Vanilla Noir Wooden Wick Candle – Luxury 15 oz Soy Blend | Affinati](https://affinatiliving.com/products/vanilla-noir-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Hand-poured soy blend with smoked vanilla, suede, and amber. The 15 oz Vanilla Noir Candle radiates warmth and sophistication.
-  Updated: 2025-11-23T15:47:04Z
+  Updated: 2025-11-24T03:47:09Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5371,7 +5371,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Vanilla Noir Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/vanilla-noir-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Immerse in smoked vanilla, amberwood, and tonka with our 21 oz Vanilla Noir Candle — elegant, modern luxury by Affinati.
-  Updated: 2025-11-23T15:47:04Z
+  Updated: 2025-11-24T03:47:09Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5386,7 +5386,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Velvet Harvest Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/velvet-harvest-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Indulge in amber fig, spiced woods, and velvet musk with our 21 oz Velvet Harvest Candle — luxurious seasonal living by Affinati.
-  Updated: 2025-11-23T15:47:03Z
+  Updated: 2025-11-24T03:47:08Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5401,7 +5401,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Velvet Harvest Wooden Wick Candle – Luxury 15 oz Soy Blend | Affinati](https://affinatiliving.com/products/velvet-harvest-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Hand-poured soy blend with chestnut, amber, and vanilla musk. The 15 oz Velvet Harvest Candle brings warmth and sophistication to fall.
-  Updated: 2025-11-23T15:47:03Z
+  Updated: 2025-11-24T03:47:08Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5416,7 +5416,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Velvet Harvest Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/velvet-harvest-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Amber, spiced pear, and vanilla blend in our 10 oz Velvet Harvest Candle — a cozy, elegant fragrance for refined autumn comfort.
-  Updated: 2025-11-23T15:47:03Z
+  Updated: 2025-11-24T03:47:08Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5431,7 +5431,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Espresso Luxe Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/espresso-luxe-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Rich espresso, roasted hazelnut, and amber cream in a 10 oz wooden-wick candle. Espresso Luxe by Affinati — the aroma of modern luxury.
-  Updated: 2025-11-23T15:47:03Z
+  Updated: 2025-11-24T03:47:10Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5446,7 +5446,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Espresso Luxe Wooden Wick Candle – Luxury 15 oz Soy Blend | Affinati](https://affinatiliving.com/products/espresso-luxe-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Hand-poured soy blend with espresso, caramel, and vanilla santal. The 15 oz Espresso Luxe Candle delivers refined warmth and café-inspired comfort.
-  Updated: 2025-11-23T15:47:02Z
+  Updated: 2025-11-24T03:47:06Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5461,7 +5461,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Espresso Luxe Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/espresso-luxe-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Indulge in espresso, hazelnut, and amber woods with the 21 oz Espresso Luxe Candle — bold, smooth, and irresistibly luxurious.
-  Updated: 2025-11-23T15:47:02Z
+  Updated: 2025-11-24T03:47:07Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5476,7 +5476,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Lemon Creme Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/lemon-creme-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Fresh Meyer lemon and vanilla crème in a 10 oz soy-blend candle. Lemon Crème by Affinati — bright, smooth, and effortlessly elegant.
-  Updated: 2025-11-23T15:47:02Z
+  Updated: 2025-11-24T03:47:08Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5491,7 +5491,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Lemon Creme Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/lemon-creme-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Creamy lemon custard and golden amber blend in our 21 oz Lemon Crème Candle — a luminous, luxurious scent for every space.
-  Updated: 2025-11-23T15:47:02Z
+  Updated: 2025-11-24T03:47:07Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5506,7 +5506,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Lemon Creme Wooden Wick Candle – Luxury 15 oz Soy Blend | Affinati](https://affinatiliving.com/products/lemon-creme-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Zesty lemon, amber sugar, and vanilla crème in our 15 oz Lemon Crème Candle — a fresh, refined fragrance for elevated living.
-  Updated: 2025-11-23T15:47:01Z
+  Updated: 2025-11-24T03:47:05Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5521,7 +5521,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Golden Paloma Wooden Wick Candle – Luxury 15 oz Soy Blend | Affinati](https://affinatiliving.com/products/golden-paloma-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Infuse your home with radiant warmth. The 15 oz Golden Paloma Candle by Affinati blends grapefruit, pineapple, and amber with a soothing wooden wick for a clean, citrus-luxury burn.
-  Updated: 2025-11-23T15:47:01Z
+  Updated: 2025-11-24T03:47:06Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5536,7 +5536,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Golden Paloma Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/golden-paloma-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Experience refined radiance with Affinati’s 21 oz Golden Paloma Candle. A luxurious soy-blend candle with grapefruit, pineapple, and amber tones, complemented by a soothing crackling wooden wick.
-  Updated: 2025-11-23T15:47:01Z
+  Updated: 2025-11-24T03:47:07Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5551,7 +5551,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Golden Paloma Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/golden-paloma-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Brighten your space with Affinati’s 10 oz Golden Paloma Candle. Crafted with a soy-blend wax and wooden wick, it blends grapefruit, pineapple, and amber for a radiant, modern-luxury scent.
-  Updated: 2025-11-23T15:47:01Z
+  Updated: 2025-11-24T03:47:05Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5566,7 +5566,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Applewood Luxe Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/applewood-luxe-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Refined warmth meets orchard elegance. The 10 oz Applewood Luxe Candle by Affinati blends apple, cedar, and amber in a soy-blend wax with a crackling wooden wick for cozy sophistication.
-  Updated: 2025-11-23T15:46:59Z
+  Updated: 2025-11-24T03:47:05Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5581,7 +5581,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Applewood Luxe Wooden Wick Candle – Luxury 15 oz Soy Blend | Affinati](https://affinatiliving.com/products/applewood-luxe-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Warm, smooth, and sophisticated. The 15 oz Applewood Luxe Candle by Affinati blends applewood, pear, and amber in a soy-blend wax with a soothing crackling wooden wick.
-  Updated: 2025-11-23T15:46:59Z
+  Updated: 2025-11-24T03:47:05Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5596,7 +5596,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Applewood Luxe Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/applewood-luxe-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Immerse your home in luxury with the 21 oz Applewood Luxe Candle by Affinati. A soy-blend candle with apple, amber, and oak notes plus a crackling wooden wick for elevated warmth and refinement.
-  Updated: 2025-11-23T15:46:59Z
+  Updated: 2025-11-24T03:47:05Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5611,7 +5611,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Lavender Kiss Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/lavender-kiss-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Transform your home into a calm retreat with the 21 oz Lavender Kiss Candle by Affinati. A soy-blend candle with lavender, amber, and vanilla tones and a soothing wooden wick.
-  Updated: 2025-11-23T15:47:00Z
+  Updated: 2025-11-24T03:47:04Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5626,7 +5626,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Lavender Kiss Wooden Wick Candle – Luxury 15 oz Soy Blend | Affinati](https://affinatiliving.com/products/lavender-kiss-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Calming meets luxury with Affinati’s 15 oz Lavender Kiss Candle. A soy-blend candle with lavender, amber, and vanilla tones and a soothing crackling wooden wick.
-  Updated: 2025-11-23T15:46:58Z
+  Updated: 2025-11-24T03:47:03Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5641,7 +5641,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Lavender Kiss Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/lavender-kiss-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Relax in refined comfort with the 10 oz Lavender Kiss Candle by Affinati. A soothing soy-blend candle featuring lavender, vanilla, and amber with a soft crackling wooden wick.
-  Updated: 2025-11-23T15:46:58Z
+  Updated: 2025-11-24T03:47:03Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5656,7 +5656,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Amethyst Grove Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/amethyst-grove-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Soothe your senses with the Amethyst Grove 10 oz Candle by Affinati. A soy-blend wooden wick candle featuring blackberry, lavender, and sage for pure calm.
-  Updated: 2025-11-23T15:46:58Z
+  Updated: 2025-11-24T03:47:03Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5671,7 +5671,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Amethyst Grove Wooden Wick Candle – Luxury 15 oz Soy Blend | Affinati](https://affinatiliving.com/products/amethyst-grove-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Relax and renew with the Amethyst Grove 15 oz Candle. A soy-blend wooden wick candle blending blackberry, sage, and lavender with warm amberwood tones.
-  Updated: 2025-11-23T15:46:58Z
+  Updated: 2025-11-24T03:47:04Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5686,7 +5686,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Amethyst Grove Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/amethyst-grove-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Transform your space with the Amethyst Grove 21 oz Candle by Affinati. Blackberry, sage, and lavender fill your home with serene, long-lasting fragrance.
-  Updated: 2025-11-23T15:46:57Z
+  Updated: 2025-11-24T03:47:02Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5701,7 +5701,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Smoked Bourbon Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/smoked-bourbon-wooden-wick-candle-luxury-21-oz-soy-blend-affinati): Transform your space with the 21 oz Smoked Bourbon Candle. Aged bourbon, oak, and butterscotch create a bold, luxurious scent that endures.
-  Updated: 2025-11-23T15:46:57Z
+  Updated: 2025-11-24T03:47:04Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5716,7 +5716,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Smoked Bourbon Wooden Wick Candle – Luxury 15 oz Soy Blend | Affinati](https://affinatiliving.com/products/smoked-bourbon-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Smooth bourbon and smoked oak meet amber and vanilla in the 15 oz Smoked Bourbon Candle. Clean-burning soy blend with a soothing wooden wick.
-  Updated: 2025-11-23T15:46:57Z
+  Updated: 2025-11-24T03:47:02Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5731,7 +5731,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Smoked Bourbon Wooden Wick Candle – Luxury 10 oz Soy Blend | Affinati](https://affinatiliving.com/products/smoked-bourbon-wooden-wick-candle-luxury-10-oz-soy-blend-affinati): Transform your space with the 21 oz Smoked Bourbon Candle. Aged bourbon, oak, and butterscotch create a bold, luxurious scent that endures.
-  Updated: 2025-11-23T15:46:57Z
+  Updated: 2025-11-24T03:47:02Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5833,7 +5833,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_31_2025_at_10_10_31_AM.png?v=1761919865
   Price: $17.95 USD
 - [Amber Noir Reed Diffuser](https://affinatiliving.com/products/amber-noir-reed-diffuser): Experience the mysterious warmth of Amber Noir. This captivating blend of smooth amber, musk, and soft woods creates a cozy, sensual atmosphere perfect for any space.
-  Updated: 2025-11-23T03:00:32Z
+  Updated: 2025-11-24T00:23:52Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -6379,7 +6379,7 @@
   Availability: Available
   Price: $0.00 USD
 - [12x12x6 White Packing Boxes](https://affinatiliving.com/products/12x12x6-white-packing-boxes)
-  Updated: 2025-11-22T19:13:30Z
+  Updated: 2025-11-24T01:55:35Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6391,7 +6391,7 @@
   Availability: Available
   Price: $0.00 USD
 - [20x12x12 ECT 48 Packing Boxes](https://affinatiliving.com/products/20x12x12-ect-48-packing-boxes)
-  Updated: 2025-11-22T19:14:16Z
+  Updated: 2025-11-24T01:08:38Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7110,7 +7110,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_23_2025_at_08_53_52_AM.png?v=1763906087
   Price: $17.95 USD
 - [Midnight Ember Reed Diffuser](https://affinatiliving.com/products/midnight-ember-reed-diffuser): Warm your space with our Midnight Ember Reed Diffuser—an inviting blend of amber, smoky woods, and vanilla embers for a long-lasting, luxurious atmosphere.
-  Updated: 2025-11-23T14:05:37Z
+  Updated: 2025-11-24T02:00:35Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
@@ -7207,6 +7207,36 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7752.png?v=1763917866
   Price: $17.95 USD
+- [Rosemary Mint - Shea Butter Body Lotion (10 oz)](https://affinatiliving.com/products/rosemary-mint-shea-butter-body-lotion-10-oz): Affinati Rosemary Mint Lotion delivers deep hydration with shea butter and vitamins, featuring a refreshing blend of rosemary, mint, and creamy vanilla.
+  Updated: 2025-11-24T03:34:39Z
+  Vendor: Affinati
+  Product Type: Body Lotions
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_23_2025_at_10_22_01_PM.png?v=1763954762
+  - [Single Order](https://affinatiliving.com/products/rosemary-mint-shea-butter-body-lotion-10-oz?variant=58407057326161)
+    Availability: Available
+    Price: $16.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/rosemary-mint-shea-butter-body-lotion-10-oz?variant=58407057358929)
+    Availability: Available
+    Price: $36.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/rosemary-mint-shea-butter-body-lotion-10-oz?variant=58407057391697)
+    Availability: Available
+    Price: $49.95 USD
+- [Blackberry Sage - Shea Butter Body Lotion (10 oz)](https://affinatiliving.com/products/blackberry-sage-shea-butter-body-lotion-10-oz): Affinati Blackberry Sage Lotion hydrates with shea butter and vitamins while blending juicy blackberry and herbal sage for a calming, long-lasting fragrance.
+  Updated: 2025-11-24T03:30:39Z
+  Vendor: Affinati
+  Product Type: Body Lotions
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_23_2025_at_10_21_57_PM.png?v=1763955010
+  - [Single Order](https://affinatiliving.com/products/blackberry-sage-shea-butter-body-lotion-10-oz?variant=58407058800721)
+    Availability: Available
+    Price: $16.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/blackberry-sage-shea-butter-body-lotion-10-oz?variant=58407058833489)
+    Availability: Available
+    Price: $36.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/blackberry-sage-shea-butter-body-lotion-10-oz?variant=58407058866257)
+    Availability: Available
+    Price: $49.95 USD
 
 ## Collections
 
@@ -7223,8 +7253,8 @@
   Updated: 2025-10-12T13:18:35Z
   Total Products: 7
 - [Body Lotions](https://affinatiliving.com/collections/body-lotions): Explore Affinati Body Lotions crafted with nourishing ingredients and luxurious scents. Hydrate your skin with eco-friendly, long-lasting moisture in every bottle.
-  Updated: 2025-11-23T11:09:32Z
-  Total Products: 27
+  Updated: 2025-11-24T03:34:38Z
+  Total Products: 29
 - [Face Creams](https://affinatiliving.com/collections/face-creams)
   Updated: 2025-11-09T23:34:08Z
   Total Products: 10
@@ -7250,8 +7280,8 @@
   Updated: 2025-11-23T16:48:15Z
   Total Products: 273
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
-  Updated: 2025-11-23T11:09:32Z
-  Total Products: 76
+  Updated: 2025-11-24T03:34:38Z
+  Total Products: 78
 - [All Home Care Collections](https://affinatiliving.com/collections/all-home-care-collections)
   Updated: 2025-11-23T17:03:14Z
   Total Products: 75
@@ -8914,6 +8944,10 @@
     Updated: 2025-11-21T02:31:45Z
     Author: Affinati
     Tags: create wellness plan, effective wellness solutions, fitness, health, health goals, personal wellness, wellness, wellness strategy
+  - [Exploring the History of Wellness Practices from Around the World](https://affinatiliving.com/blogs/affinati-articles/exploring-the-history-of-wellness-practices-from-around-the-world): Exploring the History of Wellness Practices from Around the World
+    Updated: 2025-11-24T02:06:03Z
+    Author: Affinati
+    Tags: ancient practices, cultural approaches to wellness, global traditions, health, history of wellness practices, holistic healing, mindfulness, wellness
 
 ## Store Pages
 
