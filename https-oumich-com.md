@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-11-24T20:16:04.888Z
+- Updated At: 2025-11-24T20:16:12.690Z
 
 ## Products
 
@@ -1817,6 +1817,14 @@ BRO Webshop - de one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-08-03T20:36:54+02:00
 - [Contact Information](https://oumich.com/policies/contact-information)
   Updated: 2025-07-10T23:26:22+02:00
+
+## Alternate Currencies & Languages
+
+- [België (nl / EUR)](https://oumich.com/llms.txt?market=be)
+- [Duitsland (nl / EUR)](https://oumich.com/llms.txt?market=duitsland)
+- [Frankrijk (nl / EUR)](https://oumich.com/llms.txt?market=frankrijk)
+- [Luxemburg (nl / EUR)](https://oumich.com/llms.txt?market=luxemburg)
+- [Nederland (nl / EUR)](https://oumich.com/llms.txt?market=europese-unie)
 
 ## Optional
 
