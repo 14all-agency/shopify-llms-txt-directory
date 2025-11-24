@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-20T08:44:40Z
 - Contact Email: aleksandar@pursuitz.io
-- Updated At: 2025-11-21T00:00:45.994Z
+- Updated At: 2025-11-24T00:00:35.446Z
 
 ## Products
 
