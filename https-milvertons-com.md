@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-11-22T00:00:42.454Z
+- Updated At: 2025-11-24T00:00:35.577Z
 
 ## Products
 
@@ -1921,25 +1921,17 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/trendy-italian-design-slip-on-shoes-and-matching-bag-for-women-981086.webp?v=1746680294
     Price: $118.37 USD
 - [Italian Design Rhinestone Shoes and Matching Bag for Weddings](https://milvertons.com/products/italian-design-rhinestone-shoes-and-matching-bag-for-weddings): Elevate every moment with the Italian Design Rhinestone Shoes and Matching Bag for Weddings—a dazzling set that combines contemporary style with timeless luxury. Perfect for weddings, parties, and unforgettable occasions, this set promises both comfort and allure. Sparkling Rhinestone Embellishments: Add glamour and ensure you stand out at every event. High 10cm Square Heels & Platform Design: Deliver striking height with enhanced stability for confident steps. Premium PU Leather Construction: Offers durability and a soft, luxurious touch. Spacious, Versatile Bag: Keeps essentials secure while complementing your elegant look. Handmade Quality & Secure Ankle Strap: Ensures a perfect fit and attention to every detail. Step into the limelight and celebrate in style—discover the essence of Italian fashion with Milvertons.
-  Updated: 2025-11-18T20:18:36Z
+  Updated: 2025-11-23T03:02:48Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-design-rhinestone-shoes-and-matching-bag-for-weddings-345685.webp?v=1745586748
-  - [Red / 42](https://milvertons.com/products/italian-design-rhinestone-shoes-and-matching-bag-for-weddings?variant=46941682991342)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-design-rhinestone-shoes-and-matching-bag-for-weddings-345685.webp?v=1745586748
-    Price: $102.17 USD
-  - [Red / 41](https://milvertons.com/products/italian-design-rhinestone-shoes-and-matching-bag-for-weddings?variant=46941683024110)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-design-rhinestone-shoes-and-matching-bag-for-weddings-345685.webp?v=1745586748
-    Price: $102.17 USD
   - [Red / 37](https://milvertons.com/products/italian-design-rhinestone-shoes-and-matching-bag-for-weddings?variant=46941682893038)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-design-rhinestone-shoes-and-matching-bag-for-weddings-345685.webp?v=1745586748
     Price: $102.17 USD
   - [Red / 38](https://milvertons.com/products/italian-design-rhinestone-shoes-and-matching-bag-for-weddings?variant=46941682860270)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-design-rhinestone-shoes-and-matching-bag-for-weddings-345685.webp?v=1745586748
     Price: $102.17 USD
   - [Red / 39](https://milvertons.com/products/italian-design-rhinestone-shoes-and-matching-bag-for-weddings?variant=46941682958574)
@@ -1947,6 +1939,14 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-design-rhinestone-shoes-and-matching-bag-for-weddings-345685.webp?v=1745586748
     Price: $102.17 USD
   - [Red / 40](https://milvertons.com/products/italian-design-rhinestone-shoes-and-matching-bag-for-weddings?variant=46941682925806)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-design-rhinestone-shoes-and-matching-bag-for-weddings-345685.webp?v=1745586748
+    Price: $102.17 USD
+  - [Red / 41](https://milvertons.com/products/italian-design-rhinestone-shoes-and-matching-bag-for-weddings?variant=46941683024110)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-design-rhinestone-shoes-and-matching-bag-for-weddings-345685.webp?v=1745586748
+    Price: $102.17 USD
+  - [Red / 42](https://milvertons.com/products/italian-design-rhinestone-shoes-and-matching-bag-for-weddings?variant=46941682991342)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-design-rhinestone-shoes-and-matching-bag-for-weddings-345685.webp?v=1745586748
     Price: $102.17 USD
@@ -4855,7 +4855,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-11-21T23:20:55Z
+  Updated: 2025-11-22T23:21:27Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -6331,7 +6331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-round-toe-block-heel-pumps-stylish-comfort-330456.jpg?v=1742577635
     Price: $59.97 USD
 - [Drop Shoulder Hoodie & Drawstring Pants - Comfy Active Set](https://milvertons.com/products/drop-shoulder-hoodie-drawstring-pants-comfy-active-set): Introducing the Drop Shoulder Hoodie & Drawstring Pants - Comfy Active Set. Its versatile design makes it a must-have for any active woman. Order yours today.
-  Updated: 2025-11-18T20:28:16Z
+  Updated: 2025-11-22T00:02:56Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Clothing - Outfit Sets
   Availability: Available
@@ -9467,7 +9467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-peep-toe-heels-and-bag-set-italian-style-2025-3639540.webp?v=1760754770
     Price: $115.80 USD
 - [Women's Wedge Heels & Moon Bag Set - European Fashion Style](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style): Women's Wedge Heels & Moon Bag Set - features stylish European design with handmade craftsmanship, offering a blend of elegance and comfort. Perfect for parties
-  Updated: 2025-11-18T20:35:28Z
+  Updated: 2025-11-23T02:52:47Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -9485,7 +9485,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-8990792.webp?v=1752715886
     Price: $122.46 USD
   - [Black and Gold / 40](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763159683310)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-8990792.webp?v=1752715886
     Price: $122.46 USD
   - [Black and Gold / 41](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763159585006)
@@ -9521,7 +9521,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-7514157.webp?v=1752715888
     Price: $122.46 USD
   - [Black / 42](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763160076526)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-7514157.webp?v=1752715888
     Price: $122.46 USD
   - [Black / 43](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763159978222)
@@ -9537,23 +9537,23 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-6225892.webp?v=1752715893
     Price: $122.46 USD
   - [Gold / 39](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763159355630)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-6225892.webp?v=1752715893
     Price: $122.46 USD
   - [Gold / 40](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763159257326)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-6225892.webp?v=1752715893
     Price: $122.46 USD
   - [Gold / 41](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763159290094)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-6225892.webp?v=1752715893
     Price: $122.46 USD
   - [Gold / 42](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763159191790)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-6225892.webp?v=1752715893
     Price: $122.46 USD
   - [Gold / 43](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763159224558)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-6225892.webp?v=1752715893
     Price: $122.46 USD
   - [Blue / 37](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763160568046)
@@ -9569,7 +9569,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-2720757.webp?v=1752715888
     Price: $122.46 USD
   - [Blue / 40](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763159552238)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-2720757.webp?v=1752715888
     Price: $122.46 USD
   - [Blue / 41](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763159453934)
@@ -9593,15 +9593,15 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-3779365.webp?v=1752715887
     Price: $122.46 USD
   - [Orange / 39](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763159945454)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-3779365.webp?v=1752715887
     Price: $122.46 USD
   - [Orange / 40](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763159847150)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-3779365.webp?v=1752715887
     Price: $122.46 USD
   - [Orange / 41](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763159879918)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-3779365.webp?v=1752715887
     Price: $122.46 USD
   - [Orange / 42](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763159781614)
@@ -9637,7 +9637,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-1726072.webp?v=1752715887
     Price: $122.46 USD
   - [Silver / 43](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763160142062)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-1726072.webp?v=1752715887
     Price: $122.46 USD
   - [Purple / 37](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style?variant=46763160502510)
@@ -11346,7 +11346,7 @@
   Updated: 2024-04-16T16:48:12Z
   Total Products: 3
 - [Women’s Shoes and Bags | Luxury Footwear & Matching Sets](https://milvertons.com/collections/women-shoes-bags): Women’s Shoes and Bags in luxury styles. Discover elegant footwear and matching sets for weddings, parties & special occasions. Shop timeless designs today.
-  Updated: 2025-11-21T21:06:54Z
+  Updated: 2025-11-23T06:26:05Z
   Total Products: 140
 - [Shoes](https://milvertons.com/collections/shoes): Shoes - A gallery of contemporary shoes
   Updated: 2025-09-07T11:03:40Z
@@ -11388,7 +11388,7 @@
   Updated: 2025-09-01T20:10:02Z
   Total Products: 25
 - [Latest Trendy Clothing Accessories](https://milvertons.com/collections/trendy-clothing-accessories): Shop Latest Trendy Clothing Accessories. Stone-studded Belts, Caftan Belts, Fashion Breastplates, Baguette Cut Rings, Beaded Necklaces, Water Drop Earrings, etc
-  Updated: 2025-11-18T09:25:39Z
+  Updated: 2025-11-23T06:26:09Z
   Total Products: 46
 - [Ethnic Headties, Headwear and Turbans](https://milvertons.com/collections/headties-headwear-turbans): Shop Ethnic Headties, Headwear and Turbans. This collection includes classy African Auto-Gele, unique, handmade, and more.
   Updated: 2025-10-05T19:25:37Z
@@ -11466,7 +11466,7 @@
   Updated: 2025-09-26T06:52:19Z
   Total Products: 5
 - [Shoes with Matching Bag Sets | Luxury Wedding & Party Styles](https://milvertons.com/collections/shoes-with-matching-bag-sets): Shoes with Matching Bag Sets in luxury styles. Perfect for weddings, parties & special occasions. Shop elegant coordinated shoes and bags today.
-  Updated: 2025-11-21T08:20:44Z
+  Updated: 2025-11-23T06:25:41Z
   Total Products: 58
 - [UpOrder - Recommended Products](https://milvertons.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the UpOrder app, remove the Recommended Products component, and re-export your template.
   Updated: 2025-11-21T19:30:59Z
@@ -12188,6 +12188,9 @@
     Updated: 2025-11-21T16:31:18Z
     Author: The Milvertons Store
     Tags: bags, clothing, dresses, fashion accessories, how to style accessories, matching sets, matching shoes and bag for women, pairing clothing with bags, shoe and bag set for women, shoes, women's clothing, women's fashion, women's outfits, women's shoe and bag set
+  - [Italian-Inspired Shoe & Bag Sets for Black Friday 2025](https://milvertons.com/blogs/blog/top-italian-inspired-shoe-amp-bag-sets-for-black-friday-2025-luxury-finds-for-the-discerning-fashionista): Italian-Inspired Shoe & Bag Sets for Black Friday 2025
+    Updated: 2025-11-23T14:32:10Z
+    Author: Milvertons.com Staff
 
 ## Store Pages
 
