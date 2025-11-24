@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2016-05-01T21:01:28Z
 - Contact Email: Hello@unusualbabeundercover.com
-- Updated At: 2025-11-20T00:01:50.707Z
+- Updated At: 2025-11-24T00:01:57.209Z
 
 ## Products
 
@@ -980,21 +980,21 @@
   Image: https://cdn.shopify.com/s/files/1/1274/1277/products/kenya-pj-bottom-and-black-tee-set-leopard-print-pants.jpg?v=1758004286
   Price: $80.99 USD
 - [Paris Print Cotton Boxer Shorts for Stylish Sleep | Unusual Babe](https://www.unusualbabeundercover.com/products/paris-print-cotton-boxer-shorts): Shop Unusual Babe Undercover for luxurious Weekend In Paris boxer shorts. Made from soft cotton with a chic Paris print—perfect for stylish comfort!
-  Updated: 2025-11-09T22:51:28Z
+  Updated: 2025-11-23T23:13:21Z
   Vendor: Unusual Babe Undercover
   Product Type: Pajamas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1274/1277/products/paris-print-cotton-boxer-shorts-colorful-eiffel-tower-design.jpg?v=1758004408
   Price: $30.99 USD
 - [Elegant Weekend in Paris Boxer Shorts for Women | Unusual Babe](https://www.unusualbabeundercover.com/products/paris-print-women-boxer-shorts): Enjoy ultimate comfort with Unusual Babe Undercover's Paris print women boxer shorts. Perfect for stylish sleepwear lovers. Shop now for a luxurious night in!
-  Updated: 2025-11-09T22:51:29Z
+  Updated: 2025-11-23T23:12:52Z
   Vendor: Unusual Babe Undercover
   Product Type: Pajamas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1274/1277/products/paris-print-women-boxer-shorts-colorful-eiffel-tower-design.jpg?v=1758004705
   Price: $30.99 USD
 - [Paris Print Sleep Shorts for Women - Stylish Comfort | UBU](https://www.unusualbabeundercover.com/products/paris-print-sleep-shorts-for-women): Shop Unusual Babe Undercover for Paris print sleep shorts for women. Made from premium cotton, these stylish shorts offer the perfect blend of comfort.
-  Updated: 2025-11-09T22:51:29Z
+  Updated: 2025-11-23T23:12:26Z
   Vendor: Unusual Babe Undercover
   Product Type: Pajamas
   Availability: Available
@@ -1716,42 +1716,42 @@
   Image: https://cdn.shopify.com/s/files/1/1274/1277/products/DSCF2035-2-800x800.jpg?v=1756868139
   Price: $30.99 USD
 - [Weekend In Paris Boxer](https://www.unusualbabeundercover.com/products/weekend-in-paris-boxer-4): Weekend In Paris Boxer Easy Fit Fun and Comfy Elastic Waist Faux Drawstring 100% Cotton Colors: As Shown
-  Updated: 2025-11-09T22:51:36Z
+  Updated: 2025-11-23T23:12:03Z
   Vendor: Unusual Babe Undercover
   Product Type: Pajamas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1274/1277/products/Paris_Boxer_4-2-800x800.jpg?v=1756868133
   Price: $30.99 USD
 - [Weekend In Paris Boxer](https://www.unusualbabeundercover.com/products/weekend-in-paris-boxer-5): Weekend In Paris Boxer Easy Fit Fun and Comfy Elastic Waist Faux Drawstring 100% Cotton Colors: As Shown
-  Updated: 2025-11-09T22:51:36Z
+  Updated: 2025-11-23T23:05:09Z
   Vendor: Unusual Babe Undercover
   Product Type: Pajamas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1274/1277/products/Paris_Boxer_5-2-800x800.jpg?v=1756868128
   Price: $30.99 USD
 - [Weekend In Paris Boxer](https://www.unusualbabeundercover.com/products/weekend-in-paris-boxer-7): Weekend In Paris Boxer Easy Fit Fun and Comfy Elastic Waist Faux Drawstring 100% Cotton Colors: As Shown
-  Updated: 2025-11-09T22:51:37Z
+  Updated: 2025-11-23T23:04:52Z
   Vendor: Unusual Babe Undercover
   Product Type: Pajamas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1274/1277/products/Paris_Boxer_7-2-800x800.jpg?v=1756868085
   Price: $30.99 USD
 - [Who's That Girl Paris Boxer](https://www.unusualbabeundercover.com/products/weekend-in-paris-boxer-8): Weekend In Paris Capri Easy Fit Fun and Comfy Elastic Waist Faux Drawstring 100% Cotton Colors: As Shown
-  Updated: 2025-11-09T22:51:37Z
+  Updated: 2025-11-23T23:11:27Z
   Vendor: Unusual Babe Undercover
   Product Type: Pajamas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1274/1277/files/Paris-Whos-That-Girl-Capri.jpg?v=1756868081
   Price: $49.99 USD
 - [Weekend In Paris Capri](https://www.unusualbabeundercover.com/products/weekend-in-paris-capri-1): Weekend In Paris Capri Easy Fit Fun and Comfy Elastic Waist Faux Drawstring 100% Cotton Colors: As Shown
-  Updated: 2025-11-09T22:51:37Z
+  Updated: 2025-11-23T23:03:47Z
   Vendor: Unusual Babe Undercover
   Product Type: Pajamas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1274/1277/products/DSCF1795-2-800x800.jpg?v=1756868076
   Price: $49.99 USD
 - [Weekend In Paris Capri](https://www.unusualbabeundercover.com/products/weekend-in-paris-capri-2): Weekend In Paris Capri Easy Fit Fun and Comfy Elastic Waist Faux Drawstring 100% Cotton Colors: As Shown
-  Updated: 2025-11-09T22:51:37Z
+  Updated: 2025-11-23T23:03:10Z
   Vendor: Unusual Babe Undercover
   Product Type: Pajamas
   Availability: Available
@@ -3745,7 +3745,14 @@
   - [X-Large / Blue](https://www.unusualbabeundercover.com/products/playful-plaid-pj-bottom-for-women?variant=43300707696728)
     Availability: Available
     Price: $70.00 USD
-[List Continued](https://www.unusualbabeundercover.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NTAwMjM3MTA3Mjg4LCJsYXN0X3ZhbHVlIjoiODUwMDIzNzEwNzI4OCJ9)
+- [Paris Print Cotton Boxer Shorts for Stylish Sleep | Unusual Babe](https://www.unusualbabeundercover.com/products/unusual-babe-undercover-paris-print-cotton-boxer-shorts-copy-1): Shop Unusual Babe Undercover for luxurious Weekend In Paris boxer shorts. Made from soft cotton with a chic Paris print—perfect for stylish comfort!
+  Updated: 2025-11-23T23:23:52Z
+  Vendor: Unusual Babe Undercover
+  Product Type: Pajamas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1274/1277/files/Paris_Boxer_-_8_1745ef47-e396-4dce-b894-22288b4b686f.jpg?v=1763939768
+  Price: $30.99 USD
+[List Continued](https://www.unusualbabeundercover.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NTMyNzM2ODY4NDQwLCJsYXN0X3ZhbHVlIjoiODUzMjczNjg2ODQ0MCJ9)
 
 ## Collections
 
@@ -3753,8 +3760,8 @@
   Updated: 2025-11-09T22:51:26Z
   Total Products: 0
 - [Stylish Women Cotton Sleepwear for Comfort & Elegance | UBU](https://www.unusualbabeundercover.com/collections/stylish-women-cotton-sleepwear): Shop Unusual Babe Undercover for stylish women cotton sleepwear that combines comfort and elegance. Elevate your lounge look today!
-  Updated: 2025-11-09T22:51:26Z
-  Total Products: 203
+  Updated: 2025-11-23T23:23:51Z
+  Total Products: 207
 - [Men Cotton Pajamas & Sleepwear](https://www.unusualbabeundercover.com/collections/men): Fun, Cool, Sexy, Top Quality Men Cotton Pajamas & Sleepwear Made in the USA.
   Updated: 2025-11-09T22:51:26Z
   Total Products: 35
@@ -3762,11 +3769,11 @@
   Updated: 2025-11-09T22:51:26Z
   Total Products: 43
 - [Alluring Women Cotton Intimates for Stylish Comfort | UBU](https://www.unusualbabeundercover.com/collections/alluring-women-cotton-intimates): Explore Unusual Babe Undercover's alluring women cotton intimates, where elegance meets comfort. Indulge in luxurious styles crafted from premium cotton!
-  Updated: 2025-10-27T00:00:29Z
-  Total Products: 215
+  Updated: 2025-11-23T23:23:51Z
+  Total Products: 219
 - [Women's Cotton Sleepwear Sale: Comfort & Style Awaits | UBU](https://www.unusualbabeundercover.com/collections/womens-cotton-sleepwear-sale): Shop Unusual Babe Undercover's women's cotton sleepwear sale! Discover stylish and comfy sleepwear crafted from premium cotton for ultimate relaxation.
-  Updated: 2025-11-09T22:51:26Z
-  Total Products: 141
+  Updated: 2025-11-23T23:23:51Z
+  Total Products: 145
 - [Stylish Comfortable Pajamas for Women | Comfort Zone | UBU](https://www.unusualbabeundercover.com/collections/stylish-comfortable-pajamas-for-women): Explore stylish comfortable pajamas for women at Unusual Babe Undercover. Experience luxury and comfort in every piece crafted in the USA. Shop now!
   Updated: 2025-11-09T22:51:26Z
   Total Products: 19
@@ -3855,8 +3862,8 @@
   Updated: 2025-11-09T22:51:29Z
   Total Products: 1
 - [Weekend In Paris](https://www.unusualbabeundercover.com/collections/weekend-in-paris)
-  Updated: 2025-11-09T22:51:29Z
-  Total Products: 20
+  Updated: 2025-11-23T23:23:51Z
+  Total Products: 24
 
 ## Blogs
 
