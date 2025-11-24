@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Indiana/Indianapolis
 - Created At: 2025-11-08T22:46:01Z
-- Updated At: 2025-11-23T00:00:32.959Z
+- Updated At: 2025-11-24T00:02:01.740Z
 
 ## Products
 
@@ -46,7 +46,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/d62cc09aefcc442d8ad2b120be8e1ec5-Max-Origin.webp?v=1763427423
     Price: $41.32 USD
 - [BiBi Christmas Theme Sequin Lattering Sweater](https://the-stop-9142.myshopify.com/products/bibi-christmas-theme-sequin-lattering-sweater): This sweater top is perfect for the festive season with its Christmas theme and sequin lettering. The sequins add a touch of sparkle and glamour to the design. It features a cozy and comfortable fit to keep you warm during the holiday gatherings. The sweater top is versatile and can be dressed up or down for various occasions. Celebrate in style with this fun and festive Christmas-themed sweater top! Features:Basic style Stretch:Slightly stretchy Material composition:100%POLYESTER Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Top Length S 34 26.5 M 37 27 L 40 27.5 XL 41 28
-  Updated: 2025-11-22T06:25:54Z
+  Updated: 2025-11-23T04:04:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -168,7 +168,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/aa41162928e7485b9585f2fecd29d05c-Max-Origin.webp?v=1763427646
     Price: $65.99 USD
 - [SO ME Soft Touch Hairy Loose Fit Cozy Sweater Cardigan](https://the-stop-9142.myshopify.com/products/so-me-soft-touch-hairy-loose-fit-cozy-sweater-cardigan): This cozy sweater cardigan is designed with a soft touch and hairy texture for ultimate comfort. The loose fit silhouette allows for easy layering and a relaxed feel. With its cozy design, this cardigan is perfect for chilly days and cozy nights. Stay warm and stylish in this versatile piece that pairs well with any outfit. Elevate your loungewear collection with this soft touch hairy sweater cardigan for a cozy and chic look. Features:Buttoned Stretch:Slightly stretchy Material composition:70%POLYESTER 30%NYLON Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Sleeve Length Top Length S 35-36 21.5 22 M 37-38 22 23 L 39-40 22.5 23.5 XL 41-43 23 24
-  Updated: 2025-11-22T06:26:01Z
+  Updated: 2025-11-23T01:30:07Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -226,7 +226,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/e156c79c-6397-461c-8e00-4514de30fa9a-Max-Origin.webp?v=1763427899
     Price: $32.99 USD
 - [SO ME Merry Christmas Tinsel Lettering Sweater](https://the-stop-9142.myshopify.com/products/so-me-merry-christmas-tinsel-lettering-sweater): This Christmas sweater top features festive "Merry Christmas" tinsel lettering for a joyful and whimsical holiday look. The shimmering tinsel adds a touch of sparkle and fun to the sweater. Perfect for spreading holiday cheer, this top is ideal for Christmas gatherings or celebrations. Embrace the spirit of the season with this merry and stylish sweater top. Elevate your festive wardrobe with this standout piece that captures the magic of Christmas. Features:Basic Style Stretch:Slightly stretchy Material composition:62%ACRYLIC 38%POLYESTER Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Top Length S 34 26.5 M 37 27 L 40 27.5 XL 41 28
-  Updated: 2025-11-22T06:26:04Z
+  Updated: 2025-11-23T23:12:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -535,7 +535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/dbc3c20248984add92985f0bc4af35e9-Max-Origin.webp?v=1763428470
     Price: $64.99 USD
 - [Judy Blue Full Size Washed Thermal Skinny Jeans Plus Size](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size): These Washed Thermal Skinny Jeans combine style with functionality for a trendy look. Made from a stretchy thermal fabric, they provide both comfort and warmth in colder weather. The washed finish adds a cool, worn-in effect for a casual vibe. The skinny fit offers a flattering silhouette that can be easily dressed up or down. Stay cozy and fashionable while rocking these versatile and chic jeans. Features:Buttoned,Pocketed Stretch:Slightly stretchy Material composition:93.7%Cotton 5%Polyester 1.3%Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0/24 24 31 10 28.5 1/25 25 32 10 28.5 3/26 26 33 10 28.5 5/27 27 34 10 28.5 7/28 28 35 10 28.5 9/29 29 36 10 28.5 11/30 30 37 10 28.5 13/31 31 38 10 28.5 15/32 32 39 10 28.5 14W 33 40 11.8 28.5 16W 34 41 11.8 28.5 18W 35 42 11.8 28.5 20W 36 43 11.8 28.5 22W 37 44 11.8 28.5 24W 38 45 11.8 28.5
-  Updated: 2025-11-22T21:24:22Z
+  Updated: 2025-11-23T20:24:22Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -637,7 +637,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/3d386481-6207-41b4-9da4-b7100b442dba-Max-Origin.webp?v=1763511535
     Price: $34.99 USD
 - [Western Aztec Half Zip Plush Sweatshirt](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt): Features:Buttoned,Pocketed Stretch:Slightly stretchy Material composition:95%polyester,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.8 42.9 23.8 M 25.6 45.3 24.2 L 26.4 47.6 24.6 XL 27.2 50.8 25
-  Updated: 2025-11-22T16:21:31Z
+  Updated: 2025-11-23T20:00:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -675,7 +675,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/fed2810b07f04a3783ed0321a2511b62-Max-Origin.webp?v=1763511659
     Price: $45.99 USD
 - [Leopard Round Neck Raglan Sleeve Sweatshirt](https://the-stop-9142.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 42.5 27.2 M 25.6 44.5 27.6 L 26 46.5 28 XL 26.4 49.2 28.3 2XL 26.8 52 28.7
-  Updated: 2025-11-20T19:20:41Z
+  Updated: 2025-11-23T23:50:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -801,7 +801,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1763511678
     Price: $39.06 USD
 - [Leopard Mock Neck Long Sleeve Mesh Top](https://the-stop-9142.myshopify.com/products/leopard-mock-neck-long-sleeve-mesh-top): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Waist S 24.4 31.5 24 28.3 M 25.2 33.9 24.4 30.7 L 26 36.2 24.8 33.1 XL 26.8 39.4 25.2 36.2
-  Updated: 2025-11-22T23:40:38Z
+  Updated: 2025-11-23T13:22:29Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -823,7 +823,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/03680892b04f4181bcb46b24a0860326-Max-Origin.webp?v=1763511719
     Price: $15.99 USD
 - [Textured Notched Raglan Sleeve Sweatshirt](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 24.8 39.4 M 25.2 40.9 L 25.6 43.3 XL 26 45.7 2XL 26.4 48
-  Updated: 2025-11-22T18:55:42Z
+  Updated: 2025-11-23T19:55:28Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
