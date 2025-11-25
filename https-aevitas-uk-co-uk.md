@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-09-30T12:20:15Z
 - Contact Email: info@aevitas-uk.co.uk
-- Updated At: 2025-11-25T00:01:50.828Z
+- Updated At: 2025-11-25T04:00:30.586Z
 
 ## Products
 
@@ -542,7 +542,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Watch-Winder-Safe-in-Black-Leather-for-8-Watches-by-Aevitas.webp?v=1760447508
   Price: £2,995.00 GBP
 - [Watch Winder Safe in Orange Leather for 8 Watches by Aevitas](https://aevitas-uk.co.uk/products/safe-watch-winder-in-orange-leather-for-8-watches-by-aevitas): Winder Winder Safe in Orange for 8 Watches by Aevitas Safe Watch Winder. This is a Safe with 8 Watch Winders professionally built inside £2795.95 Aevitas Luxury
-  Updated: 2025-11-24T12:43:11Z
+  Updated: 2025-11-25T00:43:30Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -1633,7 +1633,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Premium-Quad-Watch-Winder-Black-Genuine-Leather-Mains-Powered-by-Aevitas.webp?v=1760452156
   Price: £1,019.00 GBP
 - [12 Watch Winder Safe Luxury Black Leather with Blue Interior by Aevitas](https://aevitas-uk.co.uk/products/12-watch-winder-safe-luxury-black-leather-with-blue-interior-by-aevitas): 12 Watch Winder in a Real Safe Black with Blue Inside This Safe has 12 Watch Winders professionally built inside. Built into a Strong Heavy Real Black Safe with Digital Locking Mechanism with Bullet Proof Glass Door for real security. Enter using a Key Code or backup key. Complete with internal LED lighting. Weighing 37 kilos and Pre Drilled to enable Bolt Down to a Wall and includes bolt down kit. Powered by Superior Brushless German Motors. Our Collection of Watch Winder Safes are the Best Selling Watch Winders. Keep Watches Wound and Locked away. Buy the Best Quality by Aevitas UK today - FREE UK Delivery Multiple Programs to suit any Automatic Watch. The Watch Holder is designed to fit all watches and all wrist sizes from 6 to 8 1/2 inches. The motors are Silent and very reliable, these are designed to last. The drawer is empty and will hold all your other watches , jewellery and other valuables. Superior Quality and Finishing Detail. Two Year Manufacturer Warranty. 100% Serviceable. These Watch Winders will wind any automatic watch, the Turns per Day settings are : 650, 750, 850, 1000, or 1950 in Either or Both Directions. These rotations are 100% Accurate and Digitally counted. Each Rotor can be set and individually controlled. Perfect for All Watch Brands. This is perfect for 100% of Automatic watch Brands. These watch winders will never over wind your watch, it completes its intermittent winding program during a 12 hour period and then rests for 12 hours, allowing your watch to run as it would without being worn during night time. Perfectly mimicking natural winding whilst on your wrist. Quality Micro Fibre Leather Finish with Contrast Red Interior & Stitching Watch Winder Packed with Features including: Mechanical Key, Finger Print and Electronic Key Pad EntryLED Interior lighting12 Individually Controlled MotorsWatch Cushions Suits all Wrist Sizes from 6 to 8 1/2 InchesSilent MotorsQuality Finish with Leather Accents Hand FinishedComes with Reliable Mechanical Key Option to open should you forget codesWeight 37 KiloSize 44 W x 27 D x 42.5 H (cm)2 Year Manufacturer WarrantyFully Serviceable for exceptionally long life Order Now Current Delivery 3 - 5 Days
-  Updated: 2025-11-24T12:42:27Z
+  Updated: 2025-11-25T00:42:33Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
