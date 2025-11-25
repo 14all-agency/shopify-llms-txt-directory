@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-11-23T00:00:43.099Z
+- Updated At: 2025-11-25T00:00:43.010Z
 
 ## Products
 
@@ -32648,7 +32648,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDE-11_7.jpg?v=1711183423
     Price: $777.00 USD
 - [Moissanite 1.0CT Round Diamond Stud Earring](https://ibizjewel.com/products/moissanite-1-0ct-round-diamond-stud-earring-1): Introducing The Moissanite 1.0ct Round Diamond Stud Earring, Perfect For Those Seeking A Luxurious And Sustainable Alternative To Natural Diamonds. With A Large 1.0ct Round Cut, Each Earring Sparkles And Shines With Ethically Sourced Moissanite Stones, Making It A Stylish And Environmentally Conscious Choice.
-  Updated: 2025-10-02T10:31:06Z
+  Updated: 2025-11-24T01:08:26Z
   Vendor: Moissanite Diamond Earring
   Product Type: Moissanite Round Diamond Earring
   Availability: Available
@@ -38360,7 +38360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-129_9.jpg?v=1711616045
     Price: $1,008.00 USD
 - [Moissanite 3.0 CT Oval Diamond Mid-Century Handmade Ring](https://ibizjewel.com/products/moissanite-3-0-ct-oval-diamond-mid-century-handmade-ring): This Moissanite 3.0 Ct Oval Diamond Mid-century Handmade Ring Is A Perfect Addition To Any Jewelry Collection. Featuring A Stunning 3.0 Ct Oval Diamond, This Ring Is Handmade With Precision And Attention To Detail. The Moissanite Stone Offers Brilliant Sparkle And Durability, Making It An Excellent Choice For Daily Wear. Experience The Timeless Elegance And Beauty Of This Mid-century Inspired Ring.
-  Updated: 2025-10-02T10:31:10Z
+  Updated: 2025-11-24T10:42:07Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -40940,7 +40940,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-144_1.jpg?v=1712564772
     Price: $3,183.00 USD
 - [Natural Salt And Pepper 1.60 CT Round Diamond Art Deco Unique Engagement Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-60-ct-round-diamond-art-deco-unique-engagement-ring): Expertly crafted, this unique engagement ring features a 1.60 CT round diamond with natural salt and pepper coloring. Its art deco design exudes a sophisticated charm, making it a perfect choice for a one-of-a-kind proposal. Own a piece of history with this stunning symbol of love and commitment.
-  Updated: 2025-10-02T10:31:13Z
+  Updated: 2025-11-24T03:47:59Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Round Diamond Ring
   Availability: Available
@@ -41858,7 +41858,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-187_6.jpg?v=1716984851
     Price: $984.00 USD
 - [Moissanite 3.87 CT Asscher Diamond Celtic Engagement Ring](https://ibizjewel.com/products/moissanite-2-44-ct-asscher-diamond-celtic-engagement-ring): Experience The Perfect Blend Of Beauty And Luxury With Our Moissanite Asscher Diamond Celtic Engagement Ring. Featuring A Stunning 2.44 Carat Moissanite&nbsp;Diamond, This Ring Is Crafted With Intricate Celtic Detailing For A Unique And Timeless Look. Make A Statement Of Love With This Exquisite Piece.
-  Updated: 2025-10-02T10:30:07Z
+  Updated: 2025-11-24T04:53:06Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Asscher Diamond Ring
   Availability: Available
