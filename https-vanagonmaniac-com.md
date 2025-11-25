@@ -6,7 +6,7 @@
 - Timezone: Europe/Riga
 - Created At: 2022-09-15T15:01:28Z
 - Contact Email: vanagonmaniac@gmail.com
-- Updated At: 2025-11-21T00:01:35.797Z
+- Updated At: 2025-11-25T00:00:53.377Z
 
 ## Products
 
@@ -2443,11 +2443,11 @@
     Availability: Available
     Price: €520.00 EUR
 - [Magnetic Mosquito Net for VW T4 Eurovan Sliding Door + Trunk BLACK](https://vanagonmaniac.com/products/magnetic-mosquito-net-for-vw-t4-eurovan-sliding-door-black): Keep your VW T4 campervan bug-free with this premium-quality magnetic insect screen designed specifically for the sliding side door and rear hatch.
-  Updated: 2025-11-20T03:08:45Z
+  Updated: 2025-11-22T19:51:42Z
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/16.png?v=1757670582
+  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/magnetic_bug_mesh_for_vw_t4.png?v=1763791416
   - [Full Set (Slide door + Rear)](https://vanagonmaniac.com/products/magnetic-mosquito-net-for-vw-t4-eurovan-sliding-door-black?variant=50700870779222)
     Availability: Available
     Price: €219.00 EUR
@@ -2897,7 +2897,7 @@
     Availability: Available
     Price: €500.00 EUR
 - [Insulation Set for VW T3 Cockpit - Side Windows & Windshield](https://vanagonmaniac.com/products/thermal-insulation-set-for-vw-t3-cockpit-side-windows-windshield): Premium 9-layer thermal insulation for VW T3 cockpit, side windows & windshield. Perfect fit, magnetic & suction-cup attachment, storage bag included.
-  Updated: 2025-11-17T09:00:20Z
+  Updated: 2025-11-24T09:22:03Z
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
@@ -2925,7 +2925,7 @@
   Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/t4_california_pop_top_roof_insulation.png?v=1761654086
   Price: €570.00 EUR
 - [Insulation Set for VW T4 Cockpit - Side Windows & Windshield](https://vanagonmaniac.com/products/thermal-insulation-set-for-vw-t4-cockpit-side-windows-windshield-1): Premium 9-layer thermal insulation for VW T4 cockpit, side windows & windshield. Perfect fit, magnetic & suction-cup attachment, storage bag included.
-  Updated: 2025-11-10T22:28:12Z
+  Updated: 2025-11-24T13:36:27Z
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
@@ -3077,6 +3077,21 @@
   - [Black / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765723990)
     Availability: Available
     Price: €530.00 EUR
+- [Magnetic Mosquito Net | Compatible with Fiat Ducato / RAM ProMaster / Peugeot Boxer 2022–2026 (Sliding Door + Rear Access) – BLACK](https://vanagonmaniac.com/products/magnetic-mosquito-net-for-fiat-ducato-sliding-door-trunk-black): Magnetic mosquito net designed for Fiat Ducato, RAM ProMaster, and Peugeot Boxer 2022–2026, perfect for sliding doors and rear access.
+  Updated: 2025-11-22T18:35:48Z
+  Vendor: Vanagon Maniac
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/promaster_bug_net.png?v=1763793927
+  - [Full Set (Slide door + Rear)](https://vanagonmaniac.com/products/magnetic-mosquito-net-for-fiat-ducato-sliding-door-trunk-black?variant=51926682927446)
+    Availability: Available
+    Price: €219.00 EUR
+  - [Slide door](https://vanagonmaniac.com/products/magnetic-mosquito-net-for-fiat-ducato-sliding-door-trunk-black?variant=51926682960214)
+    Availability: Available
+    Price: €129.00 EUR
+  - [Rear access](https://vanagonmaniac.com/products/magnetic-mosquito-net-for-fiat-ducato-sliding-door-trunk-black?variant=51926682992982)
+    Availability: Available
+    Price: €111.00 EUR
 
 ## Collections
 
@@ -3087,7 +3102,7 @@
   Updated: 2025-11-20T12:11:01Z
   Total Products: 11
 - [T4](https://vanagonmaniac.com/collections/t4): Volkswagen T4 Replacement Pop Top Canvas for short wheel and long wheel base.
-  Updated: 2025-11-20T12:11:01Z
+  Updated: 2025-11-22T06:35:41Z
   Total Products: 12
 - [Accessories](https://vanagonmaniac.com/collections/accessories)
   Updated: 2025-11-10T22:28:08Z
@@ -3099,8 +3114,8 @@
   Updated: 2025-11-10T22:28:08Z
   Total Products: 1
 - [MOSQUITO NETS](https://vanagonmaniac.com/collections/mosquito-nets): VW camper mosquito nets for T3/T25, T4/Eurovan, and T5.No-see-um mesh. Sliding door, rear hatch, and cab options.Closures: zipper or magnetic. Model-specific fit. EU-made.DDP worldwide shipping (duties & taxes prepaid, no hidden fees).
-  Updated: 2025-11-20T12:11:01Z
-  Total Products: 4
+  Updated: 2025-11-22T06:36:39Z
+  Total Products: 5
 - [Top sellers](https://vanagonmaniac.com/collections/top-sellers)
   Updated: 2025-11-10T22:28:08Z
   Total Products: 4
@@ -3111,8 +3126,8 @@
   Updated: 2025-11-20T12:11:01Z
   Total Products: 6
 - [AVADA - Best Sellers](https://vanagonmaniac.com/collections/avada-best-sellers)
-  Updated: 2025-11-20T12:11:01Z
-  Total Products: 38
+  Updated: 2025-11-22T06:36:39Z
+  Total Products: 39
 
 ## Blogs
 
