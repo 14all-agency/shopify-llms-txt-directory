@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-09-30T12:20:15Z
 - Contact Email: info@aevitas-uk.co.uk
-- Updated At: 2025-11-25T16:00:30.319Z
+- Updated At: 2025-11-25T20:00:30.595Z
 
 ## Products
 
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/4-Cufflink-4-Watch-Box-Black-Genuine-Leather-Blue-Velvet-Lining-by-Aevitas.webp?v=1760446565
   Price: £138.95 GBP
 - [4 Watch Box and Cufflinks Brown Genuine Leather Velvet Brown Lining](https://aevitas-uk.co.uk/products/cognac-brown-genuine-leather-4-watch-4-pair-cufflink-collectors-box-velvet-brown-lining-by-aevitas): 4 Watch Box and Cufflinks Brown Genuine Leather Velvet Brown Lining by Aevitas 4 Watch Box with Cufflink HoldersSuperior Quality lux  90.95 Aevitas Luxury
-  Updated: 2025-11-21T12:51:33Z
+  Updated: 2025-11-25T19:35:17Z
   Vendor: Aevitas
   Product Type: Watch Box
   Availability: Available
@@ -416,7 +416,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/8-Watch-Winder-in-Carbon-Fibre-Finish-with-Extra-Storage-by-Aevitas.webp?v=1760446663
   Price: £1,099.95 GBP
 - [Watch Winder Parts - As Requested and Quoted](https://aevitas-uk.co.uk/products/spare-part): Watch Winder Packaging Parts - Watch Winder Motor or Power Adapter Watch Winder Parts as required, Prices Vary Please enquire  29.95 Aevitas Luxury
-  Updated: 2025-11-25T13:35:06Z
+  Updated: 2025-11-25T18:41:12Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -759,7 +759,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Premium-Double-Watch-Roll-in-Blue-Leather-with-Super-Soft-Suede-Lining.webp?v=1760448208
   Price: £74.95 GBP
 - [Premium Watch Travel Case - Blue Leather](https://aevitas-uk.co.uk/products/premium-triple-watch-roll-in-blue-leather-with-super-soft-suede-lining): Travel in style with our premium watch travel case in blue leather, featuring a soft suede lining and space for three watches.
-  Updated: 2025-11-21T12:53:24Z
+  Updated: 2025-11-25T19:35:17Z
   Vendor: Aevitas
   Product Type: Watch Travel case
   Availability: Available
@@ -815,7 +815,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Watch-Box-for-6-Watches-and-Cufflinks-Superb-Quality-Macassar-by-Aevitas.webp?v=1760448519
   Price: £202.95 GBP
 - [Aevitas Watch Winder Battery Power Supply Pack 5 Volt Watch Winders](https://aevitas-uk.co.uk/products/aevitas-watch-winder-battery-power-supply-for-5-volt-watch-winders-1): Aevitas Watch Winder Battery Power Supply for 5 Volt Watch Winders Battery Power Pack for Aevitas Watch Winders that run on mains po  23.95 Aevitas Luxury
-  Updated: 2025-11-21T12:53:32Z
+  Updated: 2025-11-25T17:13:38Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -1081,7 +1081,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Single-Watch-Winder-Black-Leather-Grey-Lining-Mains-or-Battery-by-Aevitas.webp?v=1760450073
   Price: £219.95 GBP
 - [Single Watch Winder Black Leather Green Lining Mains or Battery](https://aevitas-uk.co.uk/products/single-watch-winder-black-leather-green-lining-mains-or-battery-by-aevitas): Single Watch Winder Black Leather Watch Winder for All Automatic Watches. Smart Black Leather (Vegan) finish with Green Lining and Stitching. Free UK Delivery
-  Updated: 2025-11-21T12:54:08Z
+  Updated: 2025-11-25T16:07:13Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -1563,7 +1563,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/12-Watch-Winder-Safe-Grade-4-with-PS600000-Insurance-Rating-by-Aevitas.webp?v=1760451690
   Price: £16,995.00 GBP
 - [2 Watch Winder in Black and Blue Smooth Leather Finish by Aevitas](https://aevitas-uk.co.uk/products/2-watch-winder-in-black-and-blue-smooth-leather-finish-by-aevitas): 2 Watch Winder in Black Smooth Leather 2 Watch Winder in Black Vegan Leather Finish and smart Blue Lining. This Aevitas Watch Winders is what you need! Our Patented Watch Holder is large enough for Men's Larger Wrist Sizes yet versatile enough to set watches of smaller wrist sizes. Perfect for those really large face watches upto 70 mm wide and driven by the our latest German Motors. These Watch Winders will wind any brand of automatic watch, the Turns per Day settings are : 650, 750, 850, 1000, or 1950 in Either or Both Directions which is perfect for all Top Brand Watches include Rolex, Omega and Breitling etc. These rotations are 100% Accurate and Digitally counted. Each Rotor can be set and individually controlled. This is perfect for 100% of Automatic watch Brands. This 2 Watch Winder will never over wind your watches, it completes its intermittent winding program during a 12 hour period and then rests for 12 hours, allowing your watch to run as it would without being worn during night time. Perfectly mimicking natural winding whilst on your wrist. Smart Interior is finished in Blue with Contrasting Chromed trim. Fully Serviceable for exceptionally long life. 2 Year Guarantee.Size 27 x 21.5 x 18 cm Watch Winder Features Include 12 O'clock Stop Each Rotor can be set and individually controlled Holds Watches upto 70mm Wide Watch Holder for all wrist Sizes from 16cm to 22cm 12 Hour Sleep Cycle so yours will never be interrupted! Magnetically Shielded Motor with Near Silent Operation Fine Smooth Finish Auto Stop when Door Opened Internal LED Light Mains or Battery Operated (recommend general running on mains power) Fully Serviceable for exceptionally long life Very easy instructions to set the winder can be downloaded HERE
-  Updated: 2025-11-21T12:55:19Z
+  Updated: 2025-11-25T17:13:38Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
