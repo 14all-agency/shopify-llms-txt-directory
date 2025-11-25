@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-11-24T00:01:21.503Z
+- Updated At: 2025-11-25T00:01:03.181Z
 
 # Crystals Healing UK – LLMS Overview
 
@@ -3465,7 +3465,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Availability: Not Available
     Price: £22.00 GBP
 - [Elegant Red Garnet Bracelet](https://crystalshealing.co.uk/products/elegant-red-garnet-bracelet): Discover the allure of our exquisite red Garnet bracelet, a piece that effortlessly combines timeless beauty with modern elegance. This stunning bracelet is designed to capture the rich, deep red hues of garnet, making it a perfect accessory for any occasion. Product Features: Red Garnet Gemstones: Our bracelet features genuine, high-quality red garnet gemstones that are carefully selected for their vibrant color and brilliant sparkle. Craftsmanship: Each bead is meticulously handcrafted and strung together to create a piece that exudes craftsmanship and attention to detail. The sterling silver clasp ensures both durability and easy wear. Versatile Style: The red Garnet bracelet is versatile enough to complement a range of outfits, from casual to formal. It's a versatile addition to your jewelry collection, whether you're dressing up for a special event or simply adding a touch of glamour to your everyday look. Adjustable Length: The bracelet is designed with an adjustable length, allowing for a comfortable fit on most wrist sizes. Meaningful Gemstone: Garnet is known for its symbolic significance, believed to bring love, passion, and energy to the wearer. It's also the birthstone for January, making this bracelet an ideal gift for birthdays or special occasions. Gift-Ready Packaging: Our red Garnet bracelet comes in a stylish gift box, making it a perfect gift choice for a loved one or a treat for yourself. Indulge in the timeless beauty and rich symbolism of the Red Garnet Bracelet. Elevate your style with this elegant piece that effortlessly combines tradition with modern sophistication. Order yours today and experience the magic of red garnet in every graceful bead.
-  Updated: 2025-11-18T16:34:21Z
+  Updated: 2025-11-24T18:31:27Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -3525,7 +3525,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230505_104059-PhotoRoom_3_a55e810e-ff63-4635-b788-a76e724d7600.jpg?v=1739739665
     Price: £10.50 GBP
 - [Orange Cat Eye Bracelet](https://crystalshealing.co.uk/products/orange-cat-eye-bracelet): Experience the captivating allure of our Orange Cat Eye Bracelet. Meticulously handcrafted with radiant 6mm red cat eye beads. Each bead is carefully chosen for its intense color and unique appeal, ensuring that this bracelet embodies elegance and sophistication with a fiery twist. As you slide this bracelet onto your wrist, you'll immediately feel its vibrant energy and a connection to the world of passion and excitement. Orange cat eye, in its 6mm bead form, is known for its ability to harness and amplify emotions, making it a symbol of confidence and boldness. Whether you wear it for its believed protective qualities or to add a splash of dramatic elegance to your attire, this bracelet is a versatile and meaningful addition to your jewellery collection. Each 6mm bead is expertly strung and secured to guarantee longevity and durability, allowing you to revel in the beauty and positive energy of this Orange Cat Eye Bracelet for years to come. Its adjustable design ensures a comfortable fit for various wrist sizes, and the reliable clasp offers peace of mind as you go about your day. Embrace the vibrant energy of red cat eye in 6mm beads, and let this bracelet serve as a daily reminder to embrace your passions, exude confidence, and make a statement with your unique style. Elevate your fashion and ignite your spirit with the Orange Cat Eye Bracelet, a symbol of fiery elegance and sophistication in one exquisite piece of jewelry.
-  Updated: 2025-11-18T16:34:21Z
+  Updated: 2025-11-24T18:31:28Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
