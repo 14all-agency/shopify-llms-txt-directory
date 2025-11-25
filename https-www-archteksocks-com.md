@@ -10,12 +10,12 @@
 - Contact Email: info@archtek.co
 - Contact Phone: 310-435-9279
 - Address: Soksystem, LLC, 2121 Wilshire Boulevard, Suite 101, Santa Monica California 90403, United States
-- Updated At: 2025-11-24T00:00:32.427Z
+- Updated At: 2025-11-25T00:00:47.276Z
 
 ## Products
 
 - [Arch Support Crew Socks | Compression & Comfort – ArchTek®](https://www.archteksocks.com/products/archtek-crew-socks-comfort): Feel the power of arch support crew socks. Patented 5-layer system + compression offers all-day pain relief. Designed by foot surgeons.
-  Updated: 2025-11-23T02:54:48Z
+  Updated: 2025-11-24T02:55:08Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -57,7 +57,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/Crew_Gray_Socks_1080x1080_-_B.png?v=1722990207
     Price: $24.99 USD
 - [Crew Sock Bundle | 5-Layer Arch Support & Compression – ArchTek®](https://www.archteksocks.com/products/arch-support-crew-socks-bundles): Bundle up on comfort. ArchTek® compression crew socks provide doctor-designed support and long-lasting relief. Save more with packs.
-  Updated: 2025-11-23T02:54:49Z
+  Updated: 2025-11-24T19:00:59Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -509,7 +509,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-orange-hillside2_cd162396-ee7e-41ed-9ffa-2f1dbf6ded05.jpg?v=1700138332
     Price: $39.99 USD
 - [Ankle Socks with Arch Support | Foot Pain Relief – ArchTek®](https://www.archteksocks.com/products/ankle-socks-with-arch-support): Ease foot pain with compression ankle socks from ArchTek®. Designed with patented arch support for daily comfort and energy return.
-  Updated: 2025-11-23T02:54:49Z
+  Updated: 2025-11-24T02:55:07Z
   Vendor: ArchTek
   Product Type: athletic socks
   Availability: Available
@@ -551,7 +551,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/Ankle_Gray_bundle_1080x1080_-_B.png?v=1722990213
     Price: $21.99 USD
 - [Ankle Compression Socks Bundle | Support & Comfort – ArchTek®](https://www.archteksocks.com/products/comfort-ankle-socks-bundles): Shop ArchTek® ankle sock bundles for arch support, compression, and doctor-engineered pain relief. Stay active, feel supported.
-  Updated: 2025-11-23T02:54:49Z
+  Updated: 2025-11-24T02:55:07Z
   Vendor: ArchTek
   Product Type: athletic socks
   Availability: Available
@@ -1053,7 +1053,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-white-blue-red1.jpg?v=1723841771
     Price: $22.99 USD
 - [Sporty Dress Socks Bundles - 3 Pack](https://www.archteksocks.com/products/dress-socks-bundles-3-pack-sporty-stripes): ArchTek® Dress Socks feature our patented energy return system and six elements of sock perfection. Exercise with long-lasting comfort, thanks to our patented arch support. Benefits: Patented doctor designed 5 layer arch support system Dynamic y-strap energy return system Form fitting leg compression Seamless toe closure Antimicrobial coating Right and Left specific design Materials: 62% Cotton; 35% Nylon; 3% Spandex
-  Updated: 2025-11-23T02:54:50Z
+  Updated: 2025-11-24T02:55:08Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
@@ -1095,7 +1095,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-sporty-beige-bundle.jpg?v=1724088773
     Price: $57.99 USD
 - [Moisture Wicking White Nylon Crew - ArchTek®](https://www.archteksocks.com/products/moisture-wicking-white-nylon-crew): Cool, dry, supported. ArchTek® white nylon crew socks wick moisture, relieve foot pain, and provide arch support for active days.
-  Updated: 2025-11-23T02:54:47Z
+  Updated: 2025-11-24T02:55:08Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -1113,7 +1113,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/crew-white2_f17f92e2-cd02-439a-a5aa-f998a56eea82.jpg?v=1711980544
     Price: $24.99 USD
 - [Moisture Wicking Black Nylon Crew - ArchTek®](https://www.archteksocks.com/products/moisture-wicking-black-nylon-crew): Power your stride. ArchTek® black crew socks deliver arch support, compression, and sweat-wicking tech to fuel your movement.
-  Updated: 2025-11-23T02:54:47Z
+  Updated: 2025-11-24T02:55:09Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -1131,7 +1131,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/crew-black2_d7fc817c-25e2-482e-bb95-95fdf0be618d.jpg?v=1711980544
     Price: $24.99 USD
 - [Moisture Wicking Crew Socks Bundles - ArchTek®](https://www.archteksocks.com/products/moisture-wicking-crew-socks-bundles): Bundle and breathe. ArchTek® crew sock bundles feature moisture-wicking fabric and patented arch support for all-day performance.
-  Updated: 2025-11-23T02:54:48Z
+  Updated: 2025-11-24T21:42:45Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -1506,7 +1506,7 @@
   Updated: 2025-11-08T12:06:37Z
   Total Products: 9
 - [Quarter Socks for Athletes | Arch Support by ArchTek®](https://www.archteksocks.com/collections/athletic-quarter-sock): Step up your game. ArchTek® athletic quarter socks feature arch support and compression to boost foot stability.
-  Updated: 2025-11-19T12:05:36Z
+  Updated: 2025-11-24T12:07:06Z
   Total Products: 9
 - [Crew Socks for Performance | ArchTek® Compression Fit](https://www.archteksocks.com/collections/athletic-crew-socks): Power through your day with ArchTek® athletic crew socks. Designed with arch support, compression, and moisture-wicking tech.
   Updated: 2025-11-22T12:05:25Z
@@ -1533,13 +1533,13 @@
   Updated: 2025-10-16T17:49:25Z
   Total Products: 8
 - [Shop ArchTek® Socks | Compression, Support & Relief Styles](https://www.archteksocks.com/collections/shop): Shop ArchTek® socks for every need-compression, foot pain relief, moisture control, and patented arch support.
-  Updated: 2025-11-23T12:06:34Z
+  Updated: 2025-11-24T12:07:06Z
   Total Products: 34
 - [Shop Women’s Arch Support Socks | Stylish Compression – ArchTek®](https://www.archteksocks.com/collections/shop-womens): Browse ArchTek® socks for women. Comfortable, supportive, and designed to reduce foot fatigue and swelling.
-  Updated: 2025-11-23T12:06:34Z
+  Updated: 2025-11-24T12:07:06Z
   Total Products: 14
 - [Shop Men’s Arch Support Socks | Compression & Relief – ArchTek®](https://www.archteksocks.com/collections/shop-mens): Explore ArchTek® socks engineered for arch support, comfort, and performance. Ideal for work, workouts, and recovery.
-  Updated: 2025-11-23T12:06:34Z
+  Updated: 2025-11-24T12:07:06Z
   Total Products: 14
 - [Accessories Collections | Explore Styles – ArchTek®](https://www.archteksocks.com/collections/accessories): Complete your kit with ArchTek® accessories-engineered for comfort, recovery, and maximum foot support.
   Updated: 2025-10-16T17:49:25Z
@@ -1548,7 +1548,7 @@
   Updated: 2025-10-16T17:49:25Z
   Total Products: 27
 - [New ArchTek® Releases | Latest in Sock Support & Tech](https://www.archteksocks.com/collections/new-releases): Discover the latest ArchTek® innovations-new socks with cutting-edge arch support, style, and comfort.
-  Updated: 2025-11-23T12:06:34Z
+  Updated: 2025-11-24T12:07:06Z
   Total Products: 22
 - [Buy 3 Get 3 FREE Collections | Explore Styles – ArchTek®](https://www.archteksocks.com/collections/buy-3-get-3-free): Just add 6 pairs of socks to your cart | Enter Code: B3G3 in checkout
   Updated: 2025-10-16T17:49:25Z
@@ -1557,16 +1557,16 @@
   Updated: 2025-10-16T17:49:25Z
   Total Products: 32
 - [Small (1-3 Youth / 4-7.5 Women) - ArchTek®](https://www.archteksocks.com/collections/small-1-3-youth-4-7-5-women): Shop small-size ArchTek® socks for youth and women. Engineered arch support and compression for growing and active feet.
-  Updated: 2025-11-22T12:05:25Z
+  Updated: 2025-11-24T12:07:06Z
   Total Products: 16
 - [Medium (6-9.5 Men / 8-10.5 Women) - ArchTek®](https://www.archteksocks.com/collections/medium-6-9-5-men-8-10-5-women): ArchTek® medium socks offer balanced compression and arch support for men (6–9.5) and women (8–10.5). Comfort in every step.
-  Updated: 2025-11-23T12:06:34Z
+  Updated: 2025-11-24T12:07:06Z
   Total Products: 47
 - [Large (10-14 Men / 11-14.5 Women) - ArchTek®](https://www.archteksocks.com/collections/large-10-14-men-11-14-5-women): Support larger sizes with ArchTek® compression socks. Perfect fit and relief for men 10–14 and women 11–14.5.
-  Updated: 2025-11-23T12:06:34Z
+  Updated: 2025-11-24T12:07:06Z
   Total Products: 48
 - [Athletic Socks | Explore Styles – ArchTek®](https://www.archteksocks.com/collections/athletic-socks): Train smarter with ArchTek® athletic socks. Compression and arch support combine to reduce fatigue and improve stability.
-  Updated: 2025-11-22T12:05:25Z
+  Updated: 2025-11-24T12:07:06Z
   Total Products: 12
 - [Stylish Dress Socks with Arch Support | ArchTek® Collection](https://www.archteksocks.com/collections/dress-socks): Step up your style and support with ArchTek® dress socks. Featuring compression, arch relief, and seamless comfort for professionals.
   Updated: 2025-11-15T12:06:31Z
@@ -1578,13 +1578,13 @@
   Updated: 2025-11-22T12:05:25Z
   Total Products: 17
 - [Quarter Socks Arch Support | Lightweight Compression – ArchTek®](https://www.archteksocks.com/collections/quarter-socks): Step confidently in ArchTek® quarter socks. Designed for mobility, foot support, and comfort with our 5-layer compression system.
-  Updated: 2025-11-19T12:05:36Z
+  Updated: 2025-11-24T12:07:06Z
   Total Products: 3
 - [Ankle Socks  | Foot Pain Relief – ArchTek®](https://www.archteksocks.com/collections/ankle-socks): ArchTek® ankle socks combine arch support and compression to reduce swelling, foot pain, and fatigue during daily wear.
   Updated: 2025-11-08T12:06:37Z
   Total Products: 2
 - [Arch Support Socks | Explore our Styles – ArchTek®](https://www.archteksocks.com/collections/shop-all): Browse all ArchTek® products-compression socks, arch support designs, bundles, and accessories for pain relief and comfort.
-  Updated: 2025-11-23T12:06:34Z
+  Updated: 2025-11-24T12:07:06Z
   Total Products: 55
 - [Arch Support Sock Collections | Explore Styles – ArchTek®](https://www.archteksocks.com/collections/wholesale-starter-kit): This is the recommended package for starting wholesalers. The kit includes all of the Archtek athletic socks and a selection of the compression socks. We recommend adding in: 1 display tray per office 1 brochure holder per treatment room, plus one for your waiting room 60 brochures per brochure holder 1 foot model, if you have space
   Updated: 2025-10-16T17:49:25Z
@@ -1605,10 +1605,10 @@
   Updated: 2025-11-08T12:06:37Z
   Total Products: 2
 - [Bestselling ArchTek® Socks | Foot Pain Relief That Works](https://www.archteksocks.com/collections/bestselling): Shop bestselling ArchTek® socks-trusted for foot pain relief, compression, and all-day support.
-  Updated: 2025-11-23T12:06:34Z
+  Updated: 2025-11-24T12:07:06Z
   Total Products: 120
 - [Bundles](https://www.archteksocks.com/collections/bundels)
-  Updated: 2025-11-22T12:05:25Z
+  Updated: 2025-11-24T12:07:06Z
   Total Products: 11
 
 ## Blogs
