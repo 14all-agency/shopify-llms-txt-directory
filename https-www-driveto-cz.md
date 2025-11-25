@@ -12,7 +12,7 @@ Zprostředkováváme operativní leasing vozidel od všech značek a leasingový
 - Contact Email: info@driveto.cz
 - Contact Phone: +420790285631
 - Address: Jankovcova 1569/2c, Holešovice, 170 00 Praha 7
-- Updated At: 2025-11-23T00:02:21.077Z
+- Updated At: 2025-11-25T00:02:33.219Z
 
 ## Naše služby
 
@@ -1095,20 +1095,20 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 13 378,00 Kč CZK
 - [Audi Q8 S line 3.0 TDi Quattro 210 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3): Audi Q8 přináší kombinaci elegance a sportovně střiženého vzhledu v rámci prémiového SUV. Proti lehce prostornější Q7 neposkytuje takovou míru praktičnosti, ale její styl a šarm to vyvažují. A nebojte - prostoru je zde stále dost. Navzdory svým rozměrům si stále zachovává výborné jízdní vlastnosti v zatáčkách, v městském provozu i v terénu. Díky vzduchovému podvozku a pohonu všech kol quattro se nemusíte obávat, že byste si netroufli do lehčího terénu. Vzduchový podvozek dodává pohodlí, ale zároveň však umožňuje úpravu světlé výšky dle aktuální potřeby. Spotřeba paliva se pohybuje kolem přijatelných 8 litrů v kombinovaném režimu. Pod kapotou Q8 najdeme silný naftový motor s výkonem 210 kW, který poskytuje vynikající dynamiku. Výbava vozu je opravdu bohatá, což dokazuje dlouhý výčet položek v nabídce. Tento konkrétní kousek navíc disponuje i panoramatickou střechou, tažným zařízením, LED Matrix světlomety, Bang & Olufsen ozvučením a mnoha dalšími pakety. Celková cena přesahuje 2,7 milionu.
-  Updated: 2025-11-18T10:34:33Z
+  Updated: 2025-11-24T19:29:02Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
   - [15000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335804752221)
-    Availability: Not Available
+    Availability: Available
     Price: 21 700,00 Kč CZK
   - [15000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335804817757)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 21 700,00 Kč CZK
   - [15000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782550877)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
     Price: 21 700,00 Kč CZK
   - [15000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576158557)
@@ -1116,14 +1116,14 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
     Price: 21 700,00 Kč CZK
   - [20000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335804883293)
-    Availability: Not Available
+    Availability: Available
     Price: 21 800,00 Kč CZK
   - [20000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335804948829)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 21 800,00 Kč CZK
   - [20000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782583645)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
     Price: 21 800,00 Kč CZK
   - [20000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576191325)
@@ -1131,14 +1131,14 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
     Price: 21 800,00 Kč CZK
   - [25000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805014365)
-    Availability: Not Available
+    Availability: Available
     Price: 23 800,00 Kč CZK
   - [25000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805079901)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 23 800,00 Kč CZK
   - [25000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782616413)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
     Price: 23 800,00 Kč CZK
   - [25000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576224093)
@@ -1146,14 +1146,14 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
     Price: 23 800,00 Kč CZK
   - [30000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805145437)
-    Availability: Not Available
+    Availability: Available
     Price: 24 600,00 Kč CZK
   - [30000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805210973)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 24 600,00 Kč CZK
   - [30000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782649181)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
     Price: 24 600,00 Kč CZK
   - [30000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576256861)
@@ -1161,14 +1161,14 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
     Price: 24 600,00 Kč CZK
   - [35000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805276509)
-    Availability: Not Available
+    Availability: Available
     Price: 27 700,00 Kč CZK
   - [35000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805342045)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 27 700,00 Kč CZK
   - [35000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782681949)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
     Price: 27 700,00 Kč CZK
   - [35000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576289629)
@@ -1176,14 +1176,14 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
     Price: 27 700,00 Kč CZK
   - [40000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805407581)
-    Availability: Not Available
+    Availability: Available
     Price: 28 400,00 Kč CZK
   - [40000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805473117)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 28 400,00 Kč CZK
   - [40000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782714717)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
     Price: 28 400,00 Kč CZK
   - [40000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576322397)
@@ -3509,23 +3509,23 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 12 381,00 Kč CZK
 - [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-manualni-prevodovka): Octavia se za dobu jejího působení stala naprostou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s šestistupňovou převodovkou. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky šestému rychlostnímu stupni zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná.
-  Updated: 2025-10-29T18:55:23Z
+  Updated: 2025-11-24T17:57:17Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaSelection1.5foto1_a0197950-4407-4368-879a-7dc3724bb8bf.webp?v=1761734759
   - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-manualni-prevodovka?variant=57872653648221)
     Availability: Available
-    Price: 5 593,00 Kč CZK
+    Price: 5 588,00 Kč CZK
   - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-manualni-prevodovka?variant=58122431791453)
     Availability: Available
-    Price: 5 870,00 Kč CZK
+    Price: 5 977,00 Kč CZK
   - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-manualni-prevodovka?variant=58122431824221)
     Availability: Available
-    Price: 6 038,00 Kč CZK
+    Price: 6 017,00 Kč CZK
   - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-manualni-prevodovka?variant=58122431856989)
     Availability: Available
-    Price: 6 254,00 Kč CZK
+    Price: 6 346,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-manualni-prevodovka?variant=57872653812061)
     Availability: Available
     Price: 6 735,00 Kč CZK
@@ -3534,69 +3534,69 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Price: 6 806,00 Kč CZK
   - [30000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-manualni-prevodovka?variant=58122431922525)
     Availability: Available
-    Price: 9 693,00 Kč CZK
+    Price: 8 521,00 Kč CZK
   - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-manualni-prevodovka?variant=58122431955293)
     Availability: Available
-    Price: 9 542,00 Kč CZK
+    Price: 9 548,00 Kč CZK
   - [40000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-manualni-prevodovka?variant=58122431988061)
     Availability: Available
-    Price: 9 693,00 Kč CZK
+    Price: 9 805,00 Kč CZK
   - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-manualni-prevodovka?variant=58122438639965)
     Availability: Available
-    Price: 8 002,00 Kč CZK
+    Price: 8 012,00 Kč CZK
 - [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-manualni-prevodovka-1): Octavia se za dobu jejího působí stala naprostou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Tento konkrétní kousek je kombík, takže nabídne opravdu prostorný kufr - 640 litrů. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s šestistupňovou převodovkou. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky šestému rychlostnímu stupni zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná.
-  Updated: 2025-11-10T08:02:50Z
+  Updated: 2025-11-24T18:10:57Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaSelection1.5foto1_2643afbe-fae3-4fde-9393-2d8aa12d4b57.webp?v=1761734789
   - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-manualni-prevodovka-1?variant=57872695853405)
     Availability: Available
-    Price: 5 490,00 Kč CZK
+    Price: 6 043,00 Kč CZK
   - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-manualni-prevodovka-1?variant=57872695886173)
-    Availability: Available
+    Availability: Not Available
     Price: 9 320,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-manualni-prevodovka-1?variant=57872696017245)
     Availability: Available
-    Price: 6 846,00 Kč CZK
+    Price: 7 209,00 Kč CZK
   - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-manualni-prevodovka-1?variant=57872696115549)
-    Availability: Available
-    Price: 11 892,00 Kč CZK
+    Availability: Not Available
+    Price: 8 012,00 Kč CZK
 - [Škoda Superb IV Selection 1.5 TSI m-HEV 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110-kw-natural-95-automaticka-prevodovka): Zcela nová čtvrtá generace Superbu byla představena světu na jaře roku 2024, karosářská verze liftback byla představena o několik měsíců později. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design je moderní a líbivý. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde velice pohodlná přední sedadla a pozici za volantem není co vytknout. Jedná se o opravdu velmi příjemné místo, kde budete rádi trávit čas. Pod kapotou se nachází benzínový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
-  Updated: 2025-11-10T07:51:04Z
+  Updated: 2025-11-24T18:19:33Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_ffe284d8-6d5c-456b-9ca0-721e570dfda3.webp?v=1761734868
   - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110-kw-natural-95-automaticka-prevodovka?variant=57872792256861)
     Availability: Available
-    Price: 7 515,00 Kč CZK
+    Price: 8 099,00 Kč CZK
   - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110-kw-natural-95-automaticka-prevodovka?variant=57872792289629)
-    Availability: Available
+    Availability: Not Available
     Price: 12 355,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110-kw-natural-95-automaticka-prevodovka?variant=57872792420701)
     Availability: Available
-    Price: 8 991,00 Kč CZK
+    Price: 8 646,00 Kč CZK
   - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110-kw-natural-95-automaticka-prevodovka?variant=57872792519005)
-    Availability: Available
-    Price: 15 720,00 Kč CZK
+    Availability: Not Available
+    Price: 11 289,00 Kč CZK
 - [Škoda Superb IV Selection 1.5 TSI m-HEV 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110-kw-natural-95-automaticka-prevodovka-1): Nová čtvrtá generace Superbu byla představena světu počátkem roku 2024. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design je moderní a líbivý. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde velmi pohodlná přední sedadla a pozici za volantem není co vytknout. Jedná se o opravdu velmi příjemné místo, kde budete rádi trávit čas. Pod kapotou se nachází benzínový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velice pohodlný.
-  Updated: 2025-11-10T07:51:20Z
+  Updated: 2025-11-24T18:18:06Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_7b37c7d6-1cbb-446b-bf33-8d00786e92b3.webp?v=1761734893
   - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110-kw-natural-95-automaticka-prevodovka-1?variant=57872795369821)
     Availability: Available
-    Price: 8 941,00 Kč CZK
+    Price: 9 538,00 Kč CZK
   - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110-kw-natural-95-automaticka-prevodovka-1?variant=57872795402589)
-    Availability: Available
+    Availability: Not Available
     Price: 14 381,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110-kw-natural-95-automaticka-prevodovka-1?variant=57872795533661)
     Availability: Available
-    Price: 10 459,00 Kč CZK
+    Price: 10 099,00 Kč CZK
   - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110-kw-natural-95-automaticka-prevodovka-1?variant=57872795631965)
-    Availability: Available
+    Availability: Not Available
     Price: 17 853,00 Kč CZK
 - [Audi Q3 Sportback S line 1.5 TFSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/audi-q3-s-line-1-5-tfsi-110-kw-natural-95-automaticka-prevodovka): Model Q3 je populární SUV, které se hodí jak do města, tak mimo něj. Sportback v názvu znamená, že má sportovněji tvarovanou zadní část, díky čemuž se řadí mezi ostatní „SUV-kupé". Parkování je díky vyššímu podvozku, kompaktním vnějším rozměrům a parkovacím senzorům hračka. Zavazadelník pojme solidních 530 litrů nákladu a potěší i dostatečně silný benzínový motor o výkonu 110 kW, který je kombinovaný s automatickou převodovkou.
   Updated: 2025-11-13T13:13:31Z
@@ -4549,260 +4549,260 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 7 714,00 Kč CZK
 - [Škoda Octavia Sportline 1.5 TSI 110 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka): Legendární Octavia je naprostou klasikou, kterou zná snad každý. Jedná se už o čtvrtou generaci tohoto mladoboleslavského bestselleru. Nedá se jí upřít, že skvěle a nadčasově vypadá. Tento konkrétní kousek je v karosářské variantě liftback, který má proti kombíku lepší aerodynamiku,vypadá atraktivněji, ale má o něco menší zavazadlový prostor. Ten je ovšem i tak dost velký - 600 litrů a otevírá se včetně zadního skla, takže se dovnitř vejdou třeba dvě jízdní kola. Uvnitř potěší pohodlná sedadla a bohatá výbava. Podvozek zaujme komfortním naladěním a zároveň velmi dobrou jistotou v zatáčkách, kde se chová i díky nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec o výkonu 110 kW. Ten poskytuje tichý a kultivovaný projev. Nová Octavia Sportline je výbornou volbou pro každý den.
-  Updated: 2025-11-10T07:51:37Z
+  Updated: 2025-11-24T18:02:08Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaSportline1.5foto1_e28ae813-b4e2-4816-a443-543d81516169.webp?v=1761741692
   - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122442506589)
     Availability: Available
-    Price: 6 883,00 Kč CZK
+    Price: 7 156,00 Kč CZK
   - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122442572125)
     Availability: Available
-    Price: 7 135,00 Kč CZK
+    Price: 7 530,00 Kč CZK
   - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122442604893)
     Availability: Available
-    Price: 7 389,00 Kč CZK
+    Price: 7 653,00 Kč CZK
   - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122442637661)
     Availability: Available
-    Price: 7 578,00 Kč CZK
+    Price: 7 963,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122442670429)
     Availability: Available
-    Price: 8 190,00 Kč CZK
+    Price: 8 480,00 Kč CZK
   - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122442703197)
     Availability: Available
-    Price: 8 225,00 Kč CZK
+    Price: 8 636,00 Kč CZK
   - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122456793437)
     Availability: Available
-    Price: 9 636,00 Kč CZK
+    Price: 9 981,00 Kč CZK
   - [30000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122456826205)
     Availability: Available
-    Price: 10 045,00 Kč CZK
+    Price: 10 497,00 Kč CZK
   - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122456858973)
     Availability: Available
-    Price: 11 400,00 Kč CZK
+    Price: 11 772,00 Kč CZK
   - [40000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122456891741)
     Availability: Available
-    Price: 11 464,00 Kč CZK
+    Price: 11 941,00 Kč CZK
 - [Škoda Octavia Top Selection 1.5 TSI 110 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-manualni-prevodovka): Škoda Octavia ve výbavě Top Selection s motorem 1.5 TSI a manuální převodovkou je perfektní volba pro řidiče, kteří chtějí mít jízdu pod kontrolou a zároveň ocení komfort, prostor a úspornost. Čtyřválcový motor o výkonu 110 kW nabízí kultivovaný chod, příjemnou dynamiku a díky technologii vypínání dvou válců i velmi rozumnou spotřebu, v klidném tempu klidně kolem šesti litrů. Manuál potěší každého, kdo má rád přímější kontakt s autem, a dobře naladěný podvozek zvládne město i delší dálniční cestu s naprostou jistotou. Octavia v této specifikaci je zkrátka poctivý a spolehlivý kombík na každý den, praktická, prostorná a zároveň dostatečně zábavná, když si to situace žádá.
-  Updated: 2025-11-10T07:52:01Z
+  Updated: 2025-11-24T18:06:13Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaTopSelectionfoto1.webp?v=1761741720
   - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122466230621)
     Availability: Available
-    Price: 6 571,00 Kč CZK
+    Price: 6 840,00 Kč CZK
   - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122466263389)
     Availability: Available
-    Price: 6 848,00 Kč CZK
+    Price: 7 235,00 Kč CZK
   - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122466296157)
     Availability: Available
-    Price: 7 064,00 Kč CZK
+    Price: 7 324,00 Kč CZK
   - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122466328925)
     Availability: Available
-    Price: 7 277,00 Kč CZK
+    Price: 7 655,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122466361693)
     Availability: Available
-    Price: 7 843,00 Kč CZK
+    Price: 8 128,00 Kč CZK
   - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122466394461)
     Availability: Available
-    Price: 7 709,00 Kč CZK
+    Price: 8 308,00 Kč CZK
   - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122466427229)
     Availability: Available
-    Price: 9 053,00 Kč CZK
+    Price: 9 592,00 Kč CZK
   - [30000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122466459997)
     Availability: Available
-    Price: 9 682,00 Kč CZK
+    Price: 10 124,00 Kč CZK
   - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122466492765)
     Availability: Available
-    Price: 10 971,00 Kč CZK
+    Price: 11 337,00 Kč CZK
   - [40000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-manualni-prevodovka?variant=58122466525533)
     Availability: Available
-    Price: 11 073,00 Kč CZK
+    Price: 11 540,00 Kč CZK
 - [Škoda Octavia Top Selection 1.5 TSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka): Škoda Octavia ve výbavě Top Selection s motorem 1.5 TSI o výkonu 110 kW a automatickou převodovkou DSG je ideální volbou pro ty, kdo hledají komfortní, prostorný a úsporný vůz s moderní technikou. Čtyřválcový motor se vyznačuje kultivovaným chodem a díky technologii vypínání dvou válců při nízké zátěži dokáže jezdit překvapivě úsporně, spotřeba se běžně pohybuje kolem šesti litrů na 100 km. Automatická převodovka DSG řadí hladce a bez zdržení, což oceníte zejména ve městě nebo při častém popojíždění. Podvozek Octavie je komfortní a zároveň jistý i při svižnější jízdě. Díky své prostornosti, rozumným provozním nákladům a bohaté výbavě v rámci verze Top Selection je Octavia 1.5 TSI DSG skvělým parťákem pro každodenní použití i delší cesty.
-  Updated: 2025-11-10T07:52:19Z
+  Updated: 2025-11-24T18:00:05Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaTopSelectionfoto1_10adc222-7127-4f02-a012-80a62dc5017a.webp?v=1761741748
   - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka?variant=58122501652829)
     Availability: Available
-    Price: 6 671,00 Kč CZK
+    Price: 6 933,00 Kč CZK
   - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka?variant=58122501685597)
     Availability: Available
-    Price: 6 897,00 Kč CZK
+    Price: 7 275,00 Kč CZK
   - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka?variant=58122501718365)
     Availability: Available
-    Price: 7 160,00 Kč CZK
+    Price: 7 413,00 Kč CZK
   - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka?variant=58122501751133)
     Availability: Available
-    Price: 7 323,00 Kč CZK
+    Price: 7 692,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka?variant=58122501783901)
     Availability: Available
-    Price: 7 933,00 Kč CZK
+    Price: 8 211,00 Kč CZK
   - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka?variant=58122501816669)
     Availability: Available
-    Price: 7 944,00 Kč CZK
+    Price: 8 339,00 Kč CZK
   - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka?variant=58122501849437)
     Availability: Available
-    Price: 9 331,00 Kč CZK
+    Price: 9 663,00 Kč CZK
   - [30000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka?variant=58122501882205)
     Availability: Available
-    Price: 9 707,00 Kč CZK
+    Price: 10 141,00 Kč CZK
   - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka?variant=58122501914973)
     Availability: Available
-    Price: 11 034,00 Kč CZK
+    Price: 11 394,00 Kč CZK
   - [40000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka?variant=58122501947741)
     Availability: Available
-    Price: 11 089,00 Kč CZK
-- [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka): Škoda Octavia se za dobu jejího působí stala úplnou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s automatickou převodovkou DSG. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky 7 rychlostnímu automatu zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná. Tento vůz navíc disponuje i mild-hybridní technologií, která po městě snižuje spotřebu paliva.
-  Updated: 2025-10-29T18:59:01Z
+    Price: 11 547,00 Kč CZK
+- [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5): Škoda Octavia se za dobu jejího působí stala úplnou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s automatickou převodovkou DSG. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky 7 rychlostnímu automatu zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná. Tento vůz navíc disponuje i mild-hybridní technologií, která po městě snižuje spotřebu paliva.
+  Updated: 2025-11-24T15:07:54Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaSelection1.5foto1_a54c8005-6176-4c7c-b075-2ae6ff201ef0.webp?v=1761741779
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka?variant=58122537107805)
+  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537107805)
     Availability: Available
     Price: 6 048,00 Kč CZK
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka?variant=58122537140573)
+  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537140573)
     Availability: Available
     Price: 6 229,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka?variant=58122537173341)
+  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537173341)
     Availability: Available
     Price: 6 298,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka?variant=58122537206109)
+  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537206109)
     Availability: Available
     Price: 6 572,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka?variant=58122537238877)
+  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537238877)
     Availability: Available
     Price: 6 733,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka?variant=58122537271645)
+  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537271645)
     Availability: Available
     Price: 7 280,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka?variant=58122537304413)
+  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537304413)
     Availability: Available
     Price: 7 297,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka?variant=58122537337181)
+  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537337181)
     Availability: Available
     Price: 7 841,00 Kč CZK
-  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka?variant=58122537369949)
+  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537369949)
     Availability: Available
     Price: 7 948,00 Kč CZK
 - [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-1): Škoda Octavia se za dobu jejího působí stala úplnou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Tento konkrétní kousek je kombík, takže nabídne opravdu prostorný kufr - 640 litrů. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s automatickou převodovkou DSG. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky 7 rychlostnímu automatu zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná. Tento vůz navíc disponuje i mild-hybridní technologií, která po městě snižuje spotřebu paliva.
-  Updated: 2025-11-05T11:45:17Z
+  Updated: 2025-11-24T18:12:04Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaSelection1.5foto1_1f542dbe-d99f-460d-8595-429abadc52ea.webp?v=1761741805
   - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-1?variant=58122541564253)
     Availability: Available
-    Price: 6 043,00 Kč CZK
+    Price: 6 285,00 Kč CZK
   - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-1?variant=58122541597021)
     Availability: Available
-    Price: 6 264,00 Kč CZK
+    Price: 6 608,00 Kč CZK
   - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-1?variant=58122561225053)
     Availability: Available
-    Price: 6 499,00 Kč CZK
+    Price: 6 732,00 Kč CZK
   - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-1?variant=58122561257821)
     Availability: Available
-    Price: 6 658,00 Kč CZK
+    Price: 6 994,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-1?variant=58122541728093)
     Availability: Available
-    Price: 7 216,00 Kč CZK
+    Price: 7 471,00 Kč CZK
   - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-1?variant=58122541760861)
     Availability: Available
-    Price: 7 229,00 Kč CZK
+    Price: 7 588,00 Kč CZK
   - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-1?variant=58355926827357)
-    Availability: Available
+    Availability: Not Available
     Price: 7 747,00 Kč CZK
   - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-1?variant=58355926860125)
-    Availability: Available
+    Availability: Not Available
     Price: 8 100,00 Kč CZK
   - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-1?variant=58122550018397)
     Availability: Available
-    Price: 8 517,00 Kč CZK
+    Price: 8 822,00 Kč CZK
   - [30000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-1?variant=58122550051165)
     Availability: Available
-    Price: 8 877,00 Kč CZK
+    Price: 9 271,00 Kč CZK
   - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-1?variant=58122550083933)
     Availability: Available
-    Price: 10 099,00 Kč CZK
+    Price: 10 430,00 Kč CZK
   - [40000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-1?variant=58122550116701)
     Availability: Available
-    Price: 10 184,00 Kč CZK
+    Price: 10 601,00 Kč CZK
 - [Škoda Octavia Top Selection 1.5 TSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka-1): Škoda Octavia Combi ve výbavě Top Selection s motorem 1.5 TSI o výkonu 110 kW a automatickou převodovkou DSG je skvělou volbou pro každého, kdo hledá prostorné a pohodlné rodinné auto s moderním a úsporným pohonem. Čtyřválcový benzinový motor nabízí kultivovaný a tichý chod, dostatek síly pro svižnou jízdu a díky systému vypínání dvou válců při nízké zátěži také příjemně nízkou spotřebu, obvykle kolem šesti litrů. Automatická převodovka DSG řadí rychle a hladce, což oceníte hlavně ve městě nebo při delších cestách. Obrovskou předností této verze je velkorysý zavazadlový prostor o objemu 640 litrů, díky kterému Octavia Combi zvládne rodinnou dovolenou, pracovní náklad i každodenní provoz bez kompromisů. V kombinaci s bohatou výbavou Top Selection a nadčasovým designem jde o velmi vyvážený vůz, který jen těžko hledá konkurenci.
-  Updated: 2025-11-10T07:54:02Z
+  Updated: 2025-11-24T18:04:37Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaTopSelectionfoto1_7ea3695d-a47f-448c-98bc-087848910530.webp?v=1761741832
   - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka-1?variant=58122619912541)
     Availability: Available
-    Price: 6 801,00 Kč CZK
+    Price: 7 076,00 Kč CZK
   - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka-1?variant=58122619945309)
     Availability: Available
-    Price: 7 060,00 Kč CZK
+    Price: 7 457,00 Kč CZK
   - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka-1?variant=58122619978077)
     Availability: Available
-    Price: 7 301,00 Kč CZK
+    Price: 7 567,00 Kč CZK
   - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka-1?variant=58122620010845)
     Availability: Available
-    Price: 7 497,00 Kč CZK
+    Price: 7 884,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka-1?variant=58122620043613)
     Availability: Available
-    Price: 8 094,00 Kč CZK
+    Price: 8 385,00 Kč CZK
   - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka-1?variant=58122620076381)
     Availability: Available
-    Price: 8 137,00 Kč CZK
+    Price: 8 549,00 Kč CZK
   - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka-1?variant=58122620109149)
     Availability: Available
-    Price: 9 527,00 Kč CZK
+    Price: 9 873,00 Kč CZK
   - [30000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka-1?variant=58122620141917)
     Availability: Available
-    Price: 9 940,00 Kč CZK
+    Price: 10 393,00 Kč CZK
   - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka-1?variant=58122620174685)
     Availability: Available
-    Price: 11 272,00 Kč CZK
+    Price: 11 647,00 Kč CZK
   - [40000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka-1?variant=58122620207453)
     Availability: Available
-    Price: 11 348,00 Kč CZK
+    Price: 11 828,00 Kč CZK
 - [Škoda Octavia Sportline 1.5 TSI 110 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka-1): Škoda Octavia Combi ve sportovně laděné verzi Sportline s motorem 1.5 TSI a manuální převodovkou je ideální volbou pro ty, kteří chtějí prostorné a praktické auto s nádechem dynamiky. Pod kapotou pracuje čtyřválcový benzinový motor o výkonu 110 kW, který nabídne tichý, kultivovaný chod a velmi slušnou dynamiku , a to i při plném naložení. Díky dobře odstupňované manuální převodovce máte vždy pocit přímého kontaktu s autem, což ocení každý, kdo si řízení rád užívá. Verze Sportline přidává ostřejší vzhled, sportovní detaily a vylepšený podvozek, který v zatáčkách působí jistě, ale stále zůstává komfortní i na delších trasách. K tomu připočtěte velký zavazadlový prostor o objemu 640 litrů a dostatek místa pro posádku – vzniká tak kombi, které spojuje praktičnost s radostí z jízdy.
-  Updated: 2025-11-10T07:54:20Z
+  Updated: 2025-11-24T18:09:06Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaSportline1.5foto1_086f82e6-88a4-47ea-a2c2-594172577272.webp?v=1761741862
   - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka-1?variant=58122680795485)
     Availability: Available
-    Price: 7 002,00 Kč CZK
+    Price: 7 287,00 Kč CZK
   - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka-1?variant=58122680828253)
     Availability: Available
-    Price: 7 290,00 Kč CZK
+    Price: 7 703,00 Kč CZK
   - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka-1?variant=58122680861021)
     Availability: Available
-    Price: 7 518,00 Kč CZK
+    Price: 7 794,00 Kč CZK
   - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka-1?variant=58122680893789)
     Availability: Available
-    Price: 7 743,00 Kč CZK
+    Price: 8 146,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka-1?variant=58122680926557)
     Availability: Available
-    Price: 8 340,00 Kč CZK
+    Price: 8 641,00 Kč CZK
   - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka-1?variant=58122680959325)
     Availability: Available
-    Price: 8 409,00 Kč CZK
+    Price: 8 838,00 Kč CZK
   - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka-1?variant=58122680992093)
     Availability: Available
-    Price: 9 820,00 Kč CZK
+    Price: 10 179,00 Kč CZK
   - [30000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka-1?variant=58122681024861)
     Availability: Available
-    Price: 10 269,00 Kč CZK
+    Price: 10 740,00 Kč CZK
   - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka-1?variant=58122681057629)
     Availability: Available
-    Price: 11 627,00 Kč CZK
+    Price: 12 014,00 Kč CZK
   - [40000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka-1?variant=58122681090397)
     Availability: Available
-    Price: 11 716,00 Kč CZK
+    Price: 12 213,00 Kč CZK
 - [Audi Q5 S line 2.0 TDI 150 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka): Model Q5 je středně velké SUV, které si oblíbili zákazníci, kteří chtějí dostatek prostoru pro posádku a zavazadla, ale zároveň nechtějí přehnaně velké vozidlo, se kterým je už složitější parkování či jízda na úzkých silnicích. Jedná se o zcela nový model, který byl představen na konci roku 2024. Pod kapotou pracuje osvědčený naftový motor o výkonu 150 kW, který dodává vozu slušnou dynamiku, ale zároveň je úsporný. Kombinovaně není problém jezdit s lehkou nohou okolo 6 litrů. Milovníky hor také potěší vyhlášený pohon všech kol quattro, díky kterému vůz dokáže vyjet i pořádně zasněžené kopce, čemuž pomáhá solidní světlá výška. Podvozek vozu dodává skvělé jízdní vlastnosti - je komfortní, ale zároveň stabilní v zatáčkách. Tento kousek je navíc krásně vybavený - celková cena včetně příplatků přesáhla 1,8 milionu.
   Updated: 2025-11-13T13:14:54Z
   Vendor: Driveto
@@ -5299,17 +5299,17 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
 ## Collections
 
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/operativni-leasing): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-22T12:21:07Z
-  Total Products: 232
+  Updated: 2025-11-24T18:19:34Z
+  Total Products: 233
 - [Operativní leasing Škoda | Driveto.cz](https://www.driveto.cz/collections/skoda): Operativní leasing Škoda pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-22T12:21:07Z
-  Total Products: 71
+  Updated: 2025-11-24T18:19:34Z
+  Total Products: 72
 - [Elektromobily na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/elektromobily): Elektromobily na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-20T12:21:52Z
+  Updated: 2025-11-23T12:19:40Z
   Total Products: 25
 - [Skladové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/skladove-vozy): Skladové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-22T12:21:07Z
-  Total Products: 168
+  Updated: 2025-11-24T15:17:41Z
+  Total Products: 169
 - [Operativní leasing Tesla | Driveto.cz](https://www.driveto.cz/collections/tesla): Operativní leasing Tesla pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-20T12:21:52Z
   Total Products: 2
@@ -5320,19 +5320,19 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-21T12:22:22Z
   Total Products: 2
 - [Operativní leasing BMW | Driveto.cz](https://www.driveto.cz/collections/bmw): Operativní leasing BMW pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-20T12:21:52Z
+  Updated: 2025-11-24T12:25:05Z
   Total Products: 12
 - [Operativní leasing Mini | Driveto.cz](https://www.driveto.cz/collections/mini): Operativní leasing Mini pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-27T12:08:11Z
   Total Products: 1
 - [Operativní leasing MG | Driveto.cz](https://www.driveto.cz/collections/mg): Operativní leasing MG pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-20T15:45:18Z
+  Updated: 2025-11-24T12:25:05Z
   Total Products: 6
 - [Operativní leasing Lexus | Driveto.cz](https://www.driveto.cz/collections/lexus): Operativní leasing Lexus pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-17T09:02:46Z
   Total Products: 0
 - [Operativní leasing Cupra | Driveto.cz](https://www.driveto.cz/collections/cupra): Operativní leasing Cupra pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-22T12:21:07Z
+  Updated: 2025-11-24T12:25:05Z
   Total Products: 17
 - [Operativní leasing Nissan | Driveto.cz](https://www.driveto.cz/collections/nissan): Operativní leasing Nissan pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-21T12:22:22Z
@@ -5344,43 +5344,43 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-18T12:21:17Z
   Total Products: 4
 - [Operativní leasing Toyota | Driveto.cz](https://www.driveto.cz/collections/toyota): Operativní leasing Toyota pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-22T12:21:07Z
+  Updated: 2025-11-24T12:25:05Z
   Total Products: 44
 - [Operativní leasing Volvo | Driveto.cz](https://www.driveto.cz/collections/volvo): Operativní leasing Volvo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-22T12:21:07Z
+  Updated: 2025-11-23T12:19:40Z
   Total Products: 11
 - [Operativní leasing Audi | Driveto.cz](https://www.driveto.cz/collections/audi): Operativní leasing Audi pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-22T12:21:07Z
+  Updated: 2025-11-24T15:31:14Z
   Total Products: 14
 - [Operativní leasing Peugeot | Driveto.cz](https://www.driveto.cz/collections/peugeot): Operativní leasing Peugeot pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-21T12:22:22Z
+  Updated: 2025-11-23T12:19:40Z
   Total Products: 3
 - [Operativní leasing Hyundai | Driveto.cz](https://www.driveto.cz/collections/hyundai): Operativní leasing Hyundai pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-22T12:21:07Z
+  Updated: 2025-11-24T12:25:05Z
   Total Products: 4
 - [Operativní leasing Kia | Driveto.cz](https://www.driveto.cz/collections/kia): Operativní leasing Kia pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-20T12:21:52Z
+  Updated: 2025-11-23T12:19:40Z
   Total Products: 5
 - [Operativní leasing Volkswagen | Driveto.cz](https://www.driveto.cz/collections/volkswagen): Operativní leasing Volkswagen pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-21T12:22:22Z
+  Updated: 2025-11-24T12:25:05Z
   Total Products: 23
 - [Akční nabídky na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/akcni-nabidky): Akční nabídky na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-22T12:21:07Z
+  Updated: 2025-11-24T15:31:14Z
   Total Products: 31
 - [Operativní leasing Renault | Driveto.cz](https://www.driveto.cz/collections/renault): Operativní leasing Renault pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-20T12:21:52Z
+  Updated: 2025-11-23T12:19:40Z
   Total Products: 2
 - [Užitkové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/uzitkove-vozy): Užitkové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-21T12:22:22Z
+  Updated: 2025-11-23T12:19:40Z
   Total Products: 8
 - [Osobní vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/osobni-vozy): Osobní vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-22T12:21:07Z
-  Total Products: 234
+  Updated: 2025-11-24T18:19:34Z
+  Total Products: 235
 - [Plug-in vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/plug-in): Plug-in vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-22T12:21:07Z
+  Updated: 2025-11-24T12:25:05Z
   Total Products: 10
 - [Mild hybridy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/mild-hybrid): Mild hybridy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-22T12:21:07Z
+  Updated: 2025-11-24T12:25:05Z
   Total Products: 4
 - [Operativní leasing se zimními pneumatikami | Driveto.cz](https://www.driveto.cz/collections/vcetne-zimnich-pneumatik): Operativní leasing se zimními pneumatikami pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-21T12:22:22Z
@@ -5389,13 +5389,13 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-12T11:50:31Z
   Total Products: 0
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/all): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-22T12:21:07Z
-  Total Products: 232
+  Updated: 2025-11-24T18:19:34Z
+  Total Products: 233
 - [Operativní leasing Opel | Driveto.cz](https://www.driveto.cz/collections/opel): Operativní leasing Opel pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-22T12:21:07Z
+  Updated: 2025-11-24T12:25:05Z
   Total Products: 3
 - [BLACK FRIDAY | Driveto.cz](https://www.driveto.cz/collections/black-friday): Využijte Black Friday na Driveto. Operativní leasing na auta skladem nebo s rychlou dostupností. Nejlepší nabídky roku bez starostí a jednoduše online.
-  Updated: 2025-11-22T12:21:07Z
+  Updated: 2025-11-24T15:31:14Z
   Total Products: 22
 
 ## Blogs
@@ -6385,6 +6385,10 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Updated: 2025-11-21T10:57:38Z
     Author: Jakub Dvoracek
     Tags: jak odmlžit auto, mlžení čelního skla, operativní leasing, zamlžování oken v autě
+  - [Komu se vyplatí operativní leasing? Kompletní vysvětlení](https://www.driveto.cz/blogs/clanky/komu-se-vyplati-operativni-leasing-kompletni-vysvetleni): <p data-start="1600" data-end="1923">Operativní leasing je dnes jedním z nejpohodlnějších způsobů, jak mít nové auto bez starostí. Vysvětlujeme, jak funguje, komu se vyplatí a v čem může být výhodnější než koupě auta - zejména pokud nechcete platit akontaci, chcete předvídatelné náklady a preferujete možnost jezdit v lepším voze za dostupnou měsíční splátku.</p>
+    Updated: 2025-11-23T07:00:02Z
+    Author: Jakub Dvoracek
+    Tags: jak vybrat auto, koupě vs operativni leasing, operativní leasing, výhody operativního leasingu
 
 ## Store Pages
 
