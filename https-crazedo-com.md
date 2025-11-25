@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-07T00:48:50Z
 - Contact Email: freeoffice2@gmail.com
-- Updated At: 2025-11-24T00:01:33.618Z
+- Updated At: 2025-11-25T00:00:54.178Z
 
 ## Collections
 
@@ -73,6 +73,10 @@
     Updated: 2025-11-17T18:05:46Z
     Author: Mohammed Hassen
     Tags: Cristiano Ronaldo, Erling Haaland, FIFA Qualifiers, Football News, Global Football Trends, Norway Football, Portugal Football, Soccer Highlights, Sports Marketing, World Cup 2026
+  - [Cloudflare Outage 2025: A 20M+ Search Surge](https://crazedo.com/blogs/weekly-google-trends/cloudflare-outage-2025): Cloudflare Outage 2025: A 20M+ Search Surge
+    Updated: 2025-11-24T22:32:27Z
+    Author: Mohammed Hassen
+    Tags: CDN Providers, Cloudflare Outage, Crazedo Weekly Trend, Edge Computing, google trending topics, Infrastructure Redundancy, Internet Reliability, Online Security, Tech Outage Analysis, Web Performance
 
 ## Store Pages
 
