@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-01-28T02:13:08Z
 - Contact Email: contact@conquest.fit
-- Updated At: 2025-11-24T00:00:34.760Z
+- Updated At: 2025-11-25T00:00:48.114Z
 
 ## Products
 
@@ -1130,6 +1130,9 @@
     Author: Conquest Nutrition
   - [Maximizing Wellness with the Right Balance of Fitness and Nutrition](https://www.conquest.fit/blogs/news/maximizing-wellness-with-the-right-balance-of-fitness-and-nutrition): Maximizing Wellness with the Right Balance of Fitness and Nutrition
     Updated: 2025-11-21T07:07:15Z
+    Author: Conquest Nutrition
+  - [Solving Nutritional Challenges to Elevate Your Fitness and Health](https://www.conquest.fit/blogs/news/solving-nutritional-challenges-to-elevate-your-fitness-and-health): Solving Nutritional Challenges to Elevate Your Fitness and Health
+    Updated: 2025-11-24T07:04:02Z
     Author: Conquest Nutrition
 
 ## Store Pages
