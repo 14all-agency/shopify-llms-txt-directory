@@ -8,7 +8,7 @@
 - Timezone: Australia/Perth
 - Created At: 2025-01-21T07:14:09Z
 - Contact Email: admin@compassandcradle.com.au
-- Updated At: 2025-11-24T00:01:28.069Z
+- Updated At: 2025-11-25T00:00:35.801Z
 
 ## Products
 
@@ -314,22 +314,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/totheshore5.jpg?v=1762245545
   Price: $19.00 AUD
-- [Mum Cap Pink | Chill](https://compassandcradle.com.au/products/chill-pink-mum-cap): Chill – Pink Mum Cap Stay cool and carefree with our Chill Mum Cap — the perfect mum hat for relaxed summer days and easy weekend style. Made from soft, Acid washed cotton in a beautiful pastel pink tone, this cap is designed for comfort and fun. The laid-back vibe every mum deserves. 🌴 Features: 100% premium washed cotton for a soft, breathable feel Adjustable strap for the perfect fit Lightweight, durable, and ideal for sunny days Designed by Compass & Cradle, inspired by coastal living Whether you’re heading to the beach, running errands, or just soaking up the sunshine, this mum cap keeps things casual and comfortable while adding a touch of playful personality.
-  Updated: 2025-11-10T10:29:51Z
+- [Chill Mum Cap | Pink](https://compassandcradle.com.au/products/chill-mum-cap): Stay cool and carefree with our Chill Mum Cap — the perfect mum hat for relaxed summer days and easy weekend style. Made from soft, Acid washed cotton in a beautiful pastel pink tone, this cap is designed for comfort and fun
+  Updated: 2025-11-24T16:48:05Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/newchill_a5437bc7-0f3c-4c7b-a405-5edfd9860388.jpg?v=1762245470
   Price: $19.00 AUD
 - [Mum Cap Blue | Cray](https://compassandcradle.com.au/products/cray-mum-cap-ocean-blue): Mum Cap - Cray Add a pop of fun to your everyday look with our Cray Mum Cap — the perfect mum hat for sunny days, adventures, and everything in between. Crafted from soft, acid washed cotton in a rich blue tone, this cap brings effortless coastal style with a playful crayfish design and bold text. Whether you’re heading to the beach, the park, or brunch, it’s an easy go-to piece that keeps you cool and confident. 🦞 Features: 100% premium acid washed cotton for breathable comfort Adjustable strap for a relaxed, secure fit Lightweight and durable for all-day wear Designed by Compass & Cradle, inspired by relaxed coastal living ✨ Style it your way: The “Cray” design perfectly matches the current Compass & Cradle Cray Cray on Vacay sets, so you can create a coordinated mum and mini look or pair it with your favourite casual outfit.
-  Updated: 2025-11-18T11:53:46Z
+  Updated: 2025-11-24T16:38:22Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/cray2.jpg?v=1762245467
   Price: $19.00 AUD
-- [Mum Cap Blue | Mamacita](https://compassandcradle.com.au/products/mamacita-mum-cap-blue): Mamacita – Mum Cap Turn up the heat with our Mamacita Mum Cap – a fun, effortless essential for all the spicy mamas out there! Made from soft, acid washed cotton in a coastal blue tone, this cap features a bold red chilli design that adds personality and flair to any outfit. Whether you’re at the beach, on school runs, or just soaking up some sunshine, this cap is your go-to for laidback style and comfort. 🌶️ Features: 100% premium acid washed cotton for a breathable, relaxed fit Adjustable strap for all-day comfort “Mamacita” chilli logo Lightweight and durable – perfect for daily wear Designed by Compass & Cradle, inspired by playful coastal living ✨ Style it your way: Pairs perfectly with your favourite casual looks or as a cheeky statement piece. Coming Soon: A matching kids set featuring the same playful chilli logo – perfect for twinning with your little one!
-  Updated: 2025-11-13T07:20:20Z
+- [Mamacita Mum Cap | Blue](https://compassandcradle.com.au/products/mamacita-mum-cap-blue): Turn up the heat with our Mamacita Mum Cap – a fun, effortless essential for all the spicy mamas out there! this cap is your go-to for laidback style and comfort.
+  Updated: 2025-11-24T16:44:57Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -431,164 +431,164 @@
   - [5](https://compassandcradle.com.au/products/black-friday-bundle-cray-cray-on-vacay?variant=50632134394141)
     Availability: Available
     Price: $89.00 AUD
-- [Black Friday Bundle | Buy 2 Cray Cray Kids sets at 20% off](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets): Black Friday Bundle – Cray Cray on Vacay Terry Toweling set Treat your little adventurers (or matching siblings) with our cozy and super-soft Cray Cray on Vacay Terry Toweling Sets. For Black Friday, grab two full terry sets at a special bundle price of $94 AUD (regularly $59 each, totalling $118). Ultra-soft terry cotton — dries quickly and feels like pure vacation comfort. Perfect for siblings or matching mini-vacay looks. This bundle gives you 20% off when you pick up two sets — a total steal for the season. Free shipping on orders over $89 AUD means this bundle just fits for free delivery. Don’t miss out — quantities are limited, and this is a limited Black Friday offer.
-  Updated: 2025-11-21T19:35:18Z
+- [Black Friday Bundle | Buy 2 Cray Cray on Vacay Kids sets at 20% off](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets): Treat your little adventurers (or matching siblings) with our cozy and super-soft Cray Cray on Vacay Terry Toweling Sets. For Black Friday, grab two full terry sets at a special bundle price.
+  Updated: 2025-11-24T16:35:49Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/A1728F1C-6EBA-4614-AF44-25651BDE084C.jpg?v=1763697034
-  - [0-6 Months / 0-6 Months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963202333)
+  - [0-6 Months / 0-6 Months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963202333)
     Availability: Available
     Price: $94.00 AUD
-  - [0-6 Months / 6-12 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963235101)
+  - [0-6 Months / 6-12 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963235101)
     Availability: Available
     Price: $94.00 AUD
-  - [0-6 Months / 12 - 18 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963267869)
+  - [0-6 Months / 12 - 18 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963267869)
     Availability: Available
     Price: $94.00 AUD
-  - [0-6 Months / 18-24 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963300637)
+  - [0-6 Months / 18-24 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963300637)
     Availability: Available
     Price: $94.00 AUD
-  - [0-6 Months / 2](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963333405)
+  - [0-6 Months / 2](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963333405)
     Availability: Available
     Price: $94.00 AUD
-  - [0-6 Months / 3](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963366173)
+  - [0-6 Months / 3](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963366173)
     Availability: Available
     Price: $94.00 AUD
-  - [0-6 Months / 4](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963398941)
+  - [0-6 Months / 4](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963398941)
     Availability: Available
     Price: $94.00 AUD
-  - [0-6 Months / 5](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963431709)
+  - [0-6 Months / 5](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963431709)
     Availability: Available
     Price: $94.00 AUD
-  - [6-12 months / 0-6 Months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963464477)
+  - [6-12 months / 0-6 Months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963464477)
     Availability: Available
     Price: $94.00 AUD
-  - [6-12 months / 6-12 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963497245)
+  - [6-12 months / 6-12 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963497245)
     Availability: Available
     Price: $94.00 AUD
-  - [6-12 months / 12 - 18 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963530013)
+  - [6-12 months / 12 - 18 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963530013)
     Availability: Available
     Price: $94.00 AUD
-  - [6-12 months / 18-24 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963562781)
+  - [6-12 months / 18-24 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963562781)
     Availability: Available
     Price: $94.00 AUD
-  - [6-12 months / 2](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963595549)
+  - [6-12 months / 2](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963595549)
     Availability: Available
     Price: $94.00 AUD
-  - [6-12 months / 3](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963628317)
+  - [6-12 months / 3](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963628317)
     Availability: Available
     Price: $94.00 AUD
-  - [6-12 months / 4](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963661085)
+  - [6-12 months / 4](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963661085)
     Availability: Available
     Price: $94.00 AUD
-  - [6-12 months / 5](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963693853)
+  - [6-12 months / 5](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963693853)
     Availability: Available
     Price: $94.00 AUD
-  - [12 - 18 months / 0-6 Months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963726621)
+  - [12 - 18 months / 0-6 Months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963726621)
     Availability: Available
     Price: $94.00 AUD
-  - [12 - 18 months / 6-12 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963759389)
+  - [12 - 18 months / 6-12 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963759389)
     Availability: Available
     Price: $94.00 AUD
-  - [12 - 18 months / 12 - 18 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963792157)
+  - [12 - 18 months / 12 - 18 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963792157)
     Availability: Available
     Price: $94.00 AUD
-  - [12 - 18 months / 18-24 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963824925)
+  - [12 - 18 months / 18-24 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963824925)
     Availability: Available
     Price: $94.00 AUD
-  - [12 - 18 months / 2](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963857693)
+  - [12 - 18 months / 2](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963857693)
     Availability: Available
     Price: $94.00 AUD
-  - [12 - 18 months / 3](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963890461)
+  - [12 - 18 months / 3](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963890461)
     Availability: Available
     Price: $94.00 AUD
-  - [12 - 18 months / 4](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963923229)
+  - [12 - 18 months / 4](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963923229)
     Availability: Available
     Price: $94.00 AUD
-  - [12 - 18 months / 5](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963955997)
+  - [12 - 18 months / 5](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963955997)
     Availability: Available
     Price: $94.00 AUD
-  - [18-24 months / 0-6 Months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642963988765)
+  - [18-24 months / 0-6 Months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642963988765)
     Availability: Available
     Price: $94.00 AUD
-  - [18-24 months / 6-12 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964021533)
+  - [18-24 months / 6-12 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964021533)
     Availability: Available
     Price: $94.00 AUD
-  - [18-24 months / 12 - 18 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964054301)
+  - [18-24 months / 12 - 18 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964054301)
     Availability: Available
     Price: $94.00 AUD
-  - [18-24 months / 18-24 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964087069)
+  - [18-24 months / 18-24 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964087069)
     Availability: Available
     Price: $94.00 AUD
-  - [18-24 months / 2](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964119837)
+  - [18-24 months / 2](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964119837)
     Availability: Available
     Price: $94.00 AUD
-  - [18-24 months / 3](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964152605)
+  - [18-24 months / 3](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964152605)
     Availability: Available
     Price: $94.00 AUD
-  - [18-24 months / 4](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964185373)
+  - [18-24 months / 4](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964185373)
     Availability: Available
     Price: $94.00 AUD
-  - [18-24 months / 5](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964218141)
+  - [18-24 months / 5](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964218141)
     Availability: Available
     Price: $94.00 AUD
-  - [2 / 0-6 Months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964250909)
+  - [2 / 0-6 Months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964250909)
     Availability: Available
     Price: $94.00 AUD
-  - [2 / 6-12 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964283677)
+  - [2 / 6-12 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964283677)
     Availability: Available
     Price: $94.00 AUD
-  - [2 / 12 - 18 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964316445)
+  - [2 / 12 - 18 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964316445)
     Availability: Available
     Price: $94.00 AUD
-  - [2 / 18-24 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964349213)
+  - [2 / 18-24 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964349213)
     Availability: Available
     Price: $94.00 AUD
-  - [2 / 2](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964381981)
+  - [2 / 2](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964381981)
     Availability: Available
     Price: $94.00 AUD
-  - [2 / 3](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964414749)
+  - [2 / 3](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964414749)
     Availability: Available
     Price: $94.00 AUD
-  - [2 / 4](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964447517)
+  - [2 / 4](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964447517)
     Availability: Available
     Price: $94.00 AUD
-  - [2 / 5](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964480285)
+  - [2 / 5](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964480285)
     Availability: Available
     Price: $94.00 AUD
-  - [3 / 0-6 Months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964513053)
+  - [3 / 0-6 Months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964513053)
     Availability: Available
     Price: $94.00 AUD
-  - [3 / 6-12 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964545821)
+  - [3 / 6-12 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964545821)
     Availability: Available
     Price: $94.00 AUD
-  - [3 / 12 - 18 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964578589)
+  - [3 / 12 - 18 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964578589)
     Availability: Available
     Price: $94.00 AUD
-  - [3 / 18-24 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964611357)
+  - [3 / 18-24 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964611357)
     Availability: Available
     Price: $94.00 AUD
-  - [3 / 2](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964644125)
+  - [3 / 2](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964644125)
     Availability: Available
     Price: $94.00 AUD
-  - [3 / 3](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964676893)
+  - [3 / 3](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964676893)
     Availability: Available
     Price: $94.00 AUD
-  - [3 / 4](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964709661)
+  - [3 / 4](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964709661)
     Availability: Available
     Price: $94.00 AUD
-  - [3 / 5](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964742429)
+  - [3 / 5](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964742429)
     Availability: Available
     Price: $94.00 AUD
-  - [4 / 0-6 Months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964775197)
+  - [4 / 0-6 Months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964775197)
     Availability: Available
     Price: $94.00 AUD
-  - [4 / 6-12 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-sets?variant=50642964807965)
+  - [4 / 6-12 months](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets?variant=50642964807965)
     Availability: Available
     Price: $94.00 AUD
-- [Black Friday Bundle | Cray Cray on Vacay | Bag + Kids Set | 20% off](https://compassandcradle.com.au/products/black-friday-bundle-cray-cray-on-vacay-bag-kids-set): 🦞 Black Friday: Cray Cray on Vacay Family Bundle Make your next beach trip extra cray cray with this limited-edition Black Friday bundle — pack love, style and sunshine into one perfect set. What’s Inside: Kids Terry Toweling Shirt & PantsSoft 100% terry cotton that dries quickly after swim-time and doubles as lounge-wear for those slow, dreamy vacay mornings. Oversized Lobster/Crayfish Beach Bag (Beige)Roomy and rugged, with an external pocket for quick-access items and a secure internal pouch for your phone or keys. Save 20%! Was $84, now just $67. Perfect For: Families planning a summer holiday Gift-givers looking for a thoughtful, coordinated present Mum who wants to match their mini-me without going “too matching” Please choose a size for the Kids Terry Towelling Set, then click add to cart to receive the bundle
-  Updated: 2025-11-21T18:32:00Z
+- [Black Friday Bundle | Cray Cray on Vacay | Bag + Kids Set | 20% off](https://compassandcradle.com.au/products/black-friday-bundle-cray-cray-on-vacay-bag-kids-set): 🦞 Black Friday: Cray Cray on Vacay Family Bundle Make your next beach trip extra cray cray on vacay with this limited-edition Black Friday bundle — pack love, style and sunshine into one perfect set. What’s Inside: Kids Terry Toweling Shirt & PantsSoft 100% terry cotton that dries quickly after swim-time and doubles as lounge-wear for those slow, dreamy vacay mornings. Oversized Lobster/Crayfish Beach Bag (Beige)Roomy and rugged, with an external pocket for quick-access items and a secure internal pouch for your phone or keys. Save 20%! Was $84, now just $67. Perfect For: Families planning a summer holiday Gift-givers looking for a thoughtful, coordinated present Mum who wants to match their mini-me without going “too matching” Please choose a size for the Kids Terry Towelling Set, then click add to cart to receive the bundle
+  Updated: 2025-11-24T04:32:55Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -638,7 +638,7 @@ The perfect blend of safety and personality for your family car. Designed in Aus
   Updated: 2025-11-16T12:23:13Z
   Total Products: 1
 - [Best Sellers](https://compassandcradle.com.au/collections/best-sellers)
-  Updated: 2025-11-22T12:22:24Z
+  Updated: 2025-11-24T04:44:54Z
   Total Products: 6
 - [Kids Summer Outfits - Terry Cotton Sets](https://compassandcradle.com.au/collections/kids-summer-outfits): The Perfect Kids Summer Outfits!
 Crafted from soft, terry Cotton, this kids' summer outfit is designed to be lightweight and breathable, perfect for those hot summer days.
@@ -654,7 +654,7 @@ Crafted from soft, terry Cotton, this kids' summer outfit is designed to be ligh
   Updated: 2025-11-02T12:22:01Z
   Total Products: 1
 - [Mum & Kids Caps](https://compassandcradle.com.au/collections/kids-caps)
-  Updated: 2025-11-20T12:21:04Z
+  Updated: 2025-11-24T04:47:55Z
   Total Products: 6
 - [Pre Sale| Barefoot Bandit Kids Terry Towelling Set](https://compassandcradle.com.au/collections/pre-sale-barefoot-bandit-kids-terry-towelling-set): Barefoot Bandit Kids Terry Towelling Set Let your little one embrace sunshine, salt air and play in comfort with our Barefoot Bandit Kids Terry Towelling Set — the ultimate everyday outfit for beach days, park hangs and laid-back adventures. Made from soft, absorbent 100% cotton terry towelling, this relaxed-fit set keeps kids cool and comfortable while adding that easy, coastal-Australian charm. Designed for movement and made to last, it’s perfect for post-swim chill time or all-day exploring. Why You’ll Love It Super soft, breathable terry towelling fabric — gentle on sensitive skin Relaxed, unisex fit for easy, carefree movement Signature barefoot bandit logo with wave design on front Ethically made for mindful, everyday wear Durable and easy-care — made to withstand play, wash after wash Perfect For ☀️ Summer adventures🏖️ Beach to backyard days🎁 Everyday comfort or a thoughtful gift Fabric: 100% cotton terry towellingCare: Cold gentle machine wash. Line dry in shade.
   Updated: 2025-11-13T10:48:11Z
