@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-11-24T00:00:36.140Z
+- Updated At: 2025-11-25T00:00:53.463Z
 
 ## Products
 
@@ -1642,7 +1642,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fp-polyethylene-bag-clear-450mm-x-600mm-x-30mu-900-pieces-polyethylene-bags-essential-supplies-161920.jpg?v=1719445081
   Price: $141.00 NZD
 - [FP Polyethylene Bag - Clear, 500mm x 700mm x 70mu - 250 Pieces](https://essentialsupplies.co.nz/products/fp-polyethylene-bag-clear-500mm-x-700mm-x-70mu-250): Low density polyethylene bags are the workhorse of the plastic bag industry. Their usage can vary from packaging nuts and bolts to bulk grain storage. This product is also used as a dust cover for machinery. Size: 500mm x 700mm x 70mu Content: 250 pieces Colour: Clear
-  Updated: 2025-01-21T00:33:32Z
+  Updated: 2025-11-24T09:48:44Z
   Vendor: Mattews Packaging
   Product Type: Polyethylene Bags
   Availability: Available
