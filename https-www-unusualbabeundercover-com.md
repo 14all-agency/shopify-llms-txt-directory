@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2016-05-01T21:01:28Z
 - Contact Email: Hello@unusualbabeundercover.com
-- Updated At: 2025-11-24T00:01:57.209Z
+- Updated At: 2025-11-25T00:01:33.406Z
 
 ## Products
 
@@ -1744,7 +1744,7 @@
   Image: https://cdn.shopify.com/s/files/1/1274/1277/files/Paris-Whos-That-Girl-Capri.jpg?v=1756868081
   Price: $49.99 USD
 - [Weekend In Paris Capri](https://www.unusualbabeundercover.com/products/weekend-in-paris-capri-1): Weekend In Paris Capri Easy Fit Fun and Comfy Elastic Waist Faux Drawstring 100% Cotton Colors: As Shown
-  Updated: 2025-11-23T23:03:47Z
+  Updated: 2025-11-24T00:59:46Z
   Vendor: Unusual Babe Undercover
   Product Type: Pajamas
   Availability: Available
@@ -1801,7 +1801,7 @@
   Image: https://cdn.shopify.com/s/files/1/1274/1277/products/DSCF2032-2-800x800.jpg?v=1756868029
   Price: $30.99 USD
 - [Beer Pajama Shorts](https://www.unusualbabeundercover.com/products/beer-pajama-shorts): For all beer lovers, just relax and with your favorite beer! Put on your favorite music and relax at home with our fun beer printed cotton shorts. Our Happy Hour beer pajama shorts are great for sleepwear or lounging. Easy Fit Great for Men & Women Fun and Comfy Faux Button Front 100% Cotton
-  Updated: 2025-11-09T22:51:39Z
+  Updated: 2025-11-24T09:41:55Z
   Vendor: Unusual Babe Undercover
   Product Type: Pajamas
   Availability: Available
@@ -3746,7 +3746,7 @@
     Availability: Available
     Price: $70.00 USD
 - [Paris Print Cotton Boxer Shorts for Stylish Sleep | Unusual Babe](https://www.unusualbabeundercover.com/products/unusual-babe-undercover-paris-print-cotton-boxer-shorts-copy-1): Shop Unusual Babe Undercover for luxurious Weekend In Paris boxer shorts. Made from soft cotton with a chic Paris print—perfect for stylish comfort!
-  Updated: 2025-11-23T23:23:52Z
+  Updated: 2025-11-24T11:18:04Z
   Vendor: Unusual Babe Undercover
   Product Type: Pajamas
   Availability: Available
