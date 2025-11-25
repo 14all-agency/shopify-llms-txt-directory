@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-25T14:09:39Z
 - Contact Email: splatteredhaus@gmail.com
-- Updated At: 2025-11-22T00:00:41.048Z
+- Updated At: 2025-11-25T00:01:18.405Z
 
 ## Products
 
@@ -1745,12 +1745,12 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371439.jpg?v=1763232386
     Price: $81.33 USD
 - [Punk Rock Love Letter Round Square Pendant Chunky Necklace Lover](https://splatteredhaustm.myshopify.com/products/punk-rock-love-letter-round-square-pendant-chunky-necklace-lover-hip-hop-jewelry): Length:49cm - Splattered Haus TM
-  Updated: 2025-11-21T17:18:10Z
+  Updated: 2025-11-24T17:18:31Z
   Vendor: Feelontop Jewellery
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/6_9758178e-23aa-4ae7-85f9-d8a24ac7c459.jpg?v=1763232423
-  Price: $2.47 USD
+  Price: $2.48 USD
 - [9mm Square Necklace Chain Men's Hip Hop Link Finish Zirconia Copper](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry): 9mm Square Necklace Chain Men's Hip Hop Link Finish Zirconia Copper Gold Color Fashion Rock Jewelry  - Splattered Haus TM
   Updated: 2025-11-17T07:35:29Z
   Vendor: Vimost Shop
@@ -1854,7 +1854,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1763232487
     Price: $105.34 USD
 - [Baguette Zirconia Cuban Bracelet Chain Men's Trendy Cool Hip Hop Link](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm): Baguette Zirconia Cuban Bracelet Chain Men's Trendy Cool Hip Hop Link Copper Bling Rock Jewelry 18mm  - Splattered Haus TM
-  Updated: 2025-11-17T07:35:51Z
+  Updated: 2025-11-22T05:43:35Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -1862,51 +1862,51 @@
   - [Gold Color / China / 8inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129941946682)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1763232549
-    Price: $79.82 USD
+    Price: $86.90 USD
   - [Gold Color / China / 7inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129941979450)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1763232549
-    Price: $81.11 USD
+    Price: $88.33 USD
   - [Silver Color / United States / 9inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942012218)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1763232551
-    Price: $83.93 USD
+    Price: $79.48 USD
   - [Silver Color / United States / 8inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942044986)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1763232551
-    Price: $76.42 USD
+    Price: $83.20 USD
   - [Silver Color / China / 8inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942077754)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1763232551
-    Price: $79.82 USD
+    Price: $86.90 USD
   - [Silver Color / China / 7inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942110522)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1763232551
-    Price: $81.11 USD
+    Price: $88.33 USD
   - [Silver Color / United States / 7inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942143290)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1763232551
-    Price: $73.46 USD
+    Price: $73.60 USD
   - [Silver Color / China / 9inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942176058)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1763232551
-    Price: $87.59 USD
+    Price: $95.40 USD
   - [Gold Color / United States / 7inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942208826)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1763232549
-    Price: $73.46 USD
+    Price: $73.60 USD
   - [Gold Color / China / 9inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942241594)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1763232549
-    Price: $87.59 USD
+    Price: $95.40 USD
   - [Gold Color / United States / 9inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942274362)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1763232549
-    Price: $83.93 USD
+    Price: $79.48 USD
   - [Gold Color / United States / 8inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942307130)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1763232549
-    Price: $76.42 USD
+    Price: $83.20 USD
 - [10mm Gold Color Miami Cuban Link Bracelet Bling Women Jewelry AAAA](https://splatteredhaustm.myshopify.com/products/10mm-gold-color-miami-cuban-link-bracelet-bling-women-jewelry-aaaa-zircon-charm-hip-hop-chain): 10mm Gold Color Miami Cuban Link Bracelet Bling Women Jewelry AAAA Zircon Charm Hip Hop Chain  - Splattered Haus TM
   Updated: 2025-11-17T07:36:06Z
   Vendor: Vimost Shop
@@ -3218,7 +3218,7 @@
   Updated: 2025-11-15T06:38:09Z
   Total Products: 1
 - [OPEN - Best Sellers - Splattered Haus TM](https://splatteredhaustm.myshopify.com/collections/open-best-sellers): Explore the Best Sellers from OPEN Why You Should Check Out OPEN - Best Sellers OPEN - Best Sellers  - Splattered Haus TM
-  Updated: 2025-11-21T17:18:11Z
+  Updated: 2025-11-22T17:17:00Z
   Total Products: 77
 - [staff picks - Splattered Haus TM](https://splatteredhaustm.myshopify.com/collections/staff-picks): - Splattered Haus TM
   Updated: 2025-11-15T06:38:07Z
