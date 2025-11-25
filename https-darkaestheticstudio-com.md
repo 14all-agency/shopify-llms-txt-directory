@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-11-24T00:00:51.611Z
+- Updated At: 2025-11-25T00:00:36.963Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
@@ -686,7 +686,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/turquoise-hoodie-on-rack-dark-aesthetic_f8ba7379-f8b7-4aa1-8ec9-64c880791d6d.png?v=1763853683
     Price: 399,00 kr SEK
 - [Laserleksak för Katter – Interaktiv Jaktlek | Dark Aesthetic Studio](https://darkaestheticstudio.com/products/pet-laser-toy): Interaktiv laserleksak som aktiverar din katts jaktinstinkt. Håll din katt underhållen och aktiv med denna enkla, effektiva leksak. Fri frakt över 500 kr.
-  Updated: 2025-11-23T18:11:21Z
+  Updated: 2025-11-24T12:29:41Z
   Vendor: Dark Aesthetic Studio
   Product Type: Djurleksak
   Availability: Available
@@ -704,7 +704,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/produktbild-med-m-rk-bakgrund_413e6aa3-91a7-4ec7-95d1-36d9598f379f.png?v=1763921383
     Price: 189,00 kr SEK
 - [Stickad Husdjurströja Halloween Pumpa - Dark Aesthetic Studio](https://darkaestheticstudio.com/products/knitted-pet-sweater-for-small-and-medium-dogs): Stickad husdjurströja med pumpadesign för små och medelstora hundar. Mysig, varm och perfekt för den mörka estetiken. Passar hundar och katter.
-  Updated: 2025-11-23T19:07:44Z
+  Updated: 2025-11-24T06:15:44Z
   Vendor: Dark Aesthetic Studio
   Product Type: Djurkl�der
   Availability: Available
@@ -790,7 +790,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-pet-sweater_6f5d457c-c58d-4a27-a1bb-6b802b6a3ec4.png?v=1763923285
     Price: 139,00 kr SEK
 - [Nitbesatta Platåsandaler - Dark Aesthetic Studio](https://darkaestheticstudio.com/products/thick-soled-rivet-casual-sandals): Platåsandaler med silvriga nitar och tjock sula. Rebellisk lyx för din dark aesthetic-garderob. Bekväm passform med justerbara remmar.
-  Updated: 2025-11-23T19:29:01Z
+  Updated: 2025-11-24T12:19:05Z
   Vendor: Dark Aesthetic Studio
   Product Type: Skor
   Availability: Available
@@ -868,14 +868,14 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-orange-sandals_fbde39d3-bf6d-4745-a868-0bfc79a78ade.png?v=1763925635
     Price: 299,00 kr SEK
 - [Mini Gaia Harts Dekorativ Figur - Dark Aesthetic Studio](https://darkaestheticstudio.com/products/mini-gaia-resin-decorative-figurine): Handgjord mini Gaia-figur i harts med mörk gotisk estetik. Perfekt dekorativ skulptur för mystiska interiörer. Unik design från Dark Aesthetic Studio.
-  Updated: 2025-11-23T19:41:02Z
+  Updated: 2025-11-24T07:32:51Z
   Vendor: Dark Aesthetic Studio
   Product Type: Hem
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-mini-gaia-detail-shot.png?v=1763926563
   Price: 99,00 kr SEK
 - [Punk Dödskalle Kedjeväska - Little Book of Spells | Dark Aesthetic Studio](https://darkaestheticstudio.com/products/punk-style-skull-chain-crossbody-bag): Unik crossbody-väska med Little Book of Spells-design och pentagram. Svart punk-väska med guldkedja. Perfekt witchy accessoar från Dark Aesthetic Studio.
-  Updated: 2025-11-23T20:00:17Z
+  Updated: 2025-11-24T07:43:58Z
   Vendor: Dark Aesthetic Studio
   Product Type: V�ska
   Availability: Available
