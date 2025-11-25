@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-11-21T00:00:26.383Z
+- Updated At: 2025-11-25T00:00:26.974Z
 
 ## Products
 
@@ -308,7 +308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1758013080
     Price: $75.35 USD
 - [Portable Air Cooler Fan with Water Cooling | Personal Evaporative Cooler for Room & Office](https://fusionvibestore.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars): Beat the heat! This portable air cooler uses water evaporation to provide powerful, energy-efficient cooling. Ideal for your bedroom, office, or small space. Stay cool and save money. Buy now. Product information: Power type: USB Color: Ivory White Rated Power: 25W Specification: 167*225 * 120mm Operation mode: touchscreen Motor type: brushed motor Additional functions: cooling with ice water Fan Speed Mode: 2 gearCold air fan parameters: L7 Power: 25W Battery capacity: 1800 mA Charging time: 2.5-3H Range time: 1-6 hours in first gear, -3 hours in strong gear Gear position: Fan 2nd gear, atomization 1st gear continuous, 2nd gear 5 seconds indirectPacking list: Fan+data cable*1 Product Image:
-  Updated: 2025-11-09T08:26:01Z
+  Updated: 2025-11-24T08:27:27Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -1109,7 +1109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
 - [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
-  Updated: 2025-11-20T22:13:31Z
+  Updated: 2025-11-21T05:45:30Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -1234,7 +1234,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/66be759c-69da-4987-9149-3aa633ed5b7f_trans.jpg?v=1759996649
     Price: $28.30 USD
 - [Portable Mini Thermal Label Printer Home Photo Printer Student Wrong Question Printer Bluetooth-compatible Mini Label Printer Price Tag](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag): Overview: 1. Efficient learning, 200 million free genuine open question banks; The Phomemo T02 series is a mini pocket printer that does not require ink. The independently developed app is more suitable for foreign users' usage habits. The app supports 10 languages (Chinese, Traditional Chinese, English, Japanese, Korean, Thai, French, German, Spanish, Portuguese) suitable for foreign trade styles. Apple iOS, Android download app, mobile Bluetooth link, built-in high-quality lithium battery, easy to carry, capable of printing images, text, errors, and supporting various specifications of label printing Product information: Material: ABS Style: simple and stylish Features: Thermal paper printing Color: white, pink Product size: 87mm×90mm×40mm Connection method: Bluetooth Print type: inkless printing Printing technology: thermal printing Compatible system: Android 4.4/iOS8.0 and above Power supply mode: lithium battery Battery capacity: 1000mAh Model number: Green (including a roll of 1-meter 1 roll of sticky paper ) Pink (including a roll of 1-meter 1 roll of sticky paper) White(including a roll of 1-meter 1 roll of sticky paper) Blue (including a roll of 1-meter 1 roll of sticky paper) Yellow (including a roll of 1-meter 1 roll of sticky paper) All green(including a roll of 1-meter 1 roll of sticky paper) Transparent Printer paper: 3 rolls 50mm*3.5m20 year transparent black letter thermal adhesive Style A: 50mm * 3.5m 10-year white background with black lettering thermosensitive adhesive（ Sticky paper ） Style B: 53mm * 6.5m 5-year-old yellow, pink, and blue background with black lettering on regular thermal paper (nonadhesive) Style C: 50mm * 3.5m 20-year green, purple, orange with black lettering thermosensitive adhesive（Sticky paper） Blue set: Blue printer +4 rolls Sticky paper Green set: Green printer +4 rolls Sticky paper Pink set: Pink printer +4 rolls Sticky paper White set: White printer +4 rolls Sticky paper Yellow set: Yellow printer +4 rolls Sticky paper Size Information: Packing list: Printer*1 Product Image:
-  Updated: 2025-10-31T19:27:32Z
+  Updated: 2025-11-22T07:26:04Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -1911,7 +1911,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/cb13ec30-1ed4-4b55-8e2e-89999f93fe9c.jpg?v=1761759818
     Price: $35.45 USD
 - [Winter Fleece Hooded Jacket Fashion Casual Zip-up Pockets Long Sweatshirt Warm Commuter Women's Clothing](https://fusionvibestore.com/products/winter-fleece-hooded-jacket-fashion-casual-zip-up-pockets-long-sweatshirt-warm-commuter-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: letters/numbers/text Color: pink, khaki, blue, green Size: M,L,XL,2XL,3XL Version: Regular Style type: Japanese and Korean casual Combination form: Single piece Popular elements: Other Thickness: thick Sleeve type: regular sleeve Main fabric composition: Polyester (polyester fiber) Applicable Gender: Female Applicable age group: Adult Sleeve length: long sleeve Style: casual style Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Hoodie*1 Product Image:
-  Updated: 2025-10-30T06:25:52Z
+  Updated: 2025-11-24T08:27:27Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
