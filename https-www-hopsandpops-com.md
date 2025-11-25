@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-12-18T15:55:45Z
 - Contact Email: support@hopsandpops.com
-- Updated At: 2025-11-24T00:00:38.119Z
+- Updated At: 2025-11-25T00:00:45.751Z
 
 Sitemap containing all images at this link: https://hopsandpops.com/image-sitemap.xml
 
@@ -6344,7 +6344,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2025-11-22T10:53:10Z
   Total Products: 66
 - [Looong Plushies](https://www.hopsandpops.com/collections/looong-plushies): Looking for extra cuddles? Our Looong Plushies are oversized stuffed animals designed for ultimate snuggling and body pillow comfort. Stretching over 90cm, these plush toys are perfect for beds, couches, or cozy corners. Ideal for both kids and adults who love plush hugs that never end.
-  Updated: 2025-11-20T12:16:11Z
+  Updated: 2025-11-24T12:17:45Z
   Total Products: 63
 - [Yummy Plushies](https://www.hopsandpops.com/collections/yummy-plushies): Sweeten up your space with our Yummy Plushies! They are adorable food-themed plush toys inspired by cakes, fruits, ice creams, and more. These dessert plushies make perfect gifts, room decor, and cuddly companions. Discover soft and squishy treats you can hug, only at Hops & Pops.
   Updated: 2025-11-10T07:25:16Z
@@ -6356,7 +6356,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2025-11-10T07:25:16Z
   Total Products: 2
 - [Axolotls](https://www.hopsandpops.com/collections/axolotls): Brighten your day with our cute axolotl plushies and stuffed animals! Super soft and cuddly, these fun axolotl plush toys are great for hugs, gifts, or whimsical decor.
-  Updated: 2025-11-10T07:25:16Z
+  Updated: 2025-11-24T12:17:45Z
   Total Products: 1
 - [Bears](https://www.hopsandpops.com/collections/bears): Fall in love with our collection of bear plushies at Hops & Pops! Whether it’s a classic teddy or a playful bear buddy, these plush toys are made for hugs, smiles, and cozy moments.
   Updated: 2025-11-10T07:25:16Z
@@ -6464,7 +6464,7 @@ Sitemap containing all images at this link: https://hopsandpops.com/image-sitema
   Updated: 2025-11-10T07:25:19Z
   Total Products: 1
 - [Best Selling Plushies](https://www.hopsandpops.com/collections/best-selling-plushies)
-  Updated: 2025-11-22T10:53:29Z
+  Updated: 2025-11-24T12:17:45Z
   Total Products: 168
 - [Pink Happy Unicorn Plushies](https://www.hopsandpops.com/collections/pink-happy-unicorn-plushies): Introducing the Pink Happy Unicorn Plushies, your new favorite stuffed animal from Hops & Pops. These cute and kawaii plushies are perfect for cuddling and bringing joy to any room. With their squishy texture and vibrant colors, they are an irresistible plush companion.
   Updated: 2025-11-20T12:16:11Z
