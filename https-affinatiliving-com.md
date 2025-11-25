@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-25T04:00:31.375Z
+- Updated At: 2025-11-25T08:00:32.142Z
 
 ## Products
 
@@ -6229,13 +6229,13 @@
   Availability: Available
   Price: $0.00 USD
 - [Reed Diffuser Bottles (12 Pack)](https://affinatiliving.com/products/reed-diffuser-bottles)
-  Updated: 2025-11-24T19:48:13Z
+  Updated: 2025-11-25T07:48:18Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Reed Diffuser Collars (12 Pack)](https://affinatiliving.com/products/reed-diffuser-collars)
-  Updated: 2025-11-24T19:48:01Z
+  Updated: 2025-11-25T07:48:04Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6283,19 +6283,19 @@
   Availability: Available
   Price: $0.00 USD
 - [Signature Amber Jars (12 Pack)](https://affinatiliving.com/products/signature-amber-jars)
-  Updated: 2025-11-24T17:06:18Z
+  Updated: 2025-11-25T05:06:23Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Signature Red Jars (12 Pack)](https://affinatiliving.com/products/signature-red-jars)
-  Updated: 2025-11-24T17:06:05Z
+  Updated: 2025-11-25T05:06:08Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Signature Purple Jars (12 Pack)](https://affinatiliving.com/products/signature-purple-jars)
-  Updated: 2025-11-24T17:05:51Z
+  Updated: 2025-11-25T05:06:10Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6379,7 +6379,7 @@
   Availability: Available
   Price: $0.00 USD
 - [12x12x6 Packing Boxes](https://affinatiliving.com/products/12x12x6-white-packing-boxes)
-  Updated: 2025-11-24T19:49:26Z
+  Updated: 2025-11-25T07:49:26Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
