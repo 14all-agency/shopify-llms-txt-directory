@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-11-23T00:00:26.806Z
+- Updated At: 2025-11-25T00:00:25.982Z
 
 ## Products
 
@@ -87,7 +87,7 @@
   Updated: 2025-09-30T18:02:29Z
   Total Products: 0
 - [EVOO | Extra Virgin Olive Oil Premium](https://verdesmeraldaolive.us/collections/evoo): Explore our premium Extra Virgin Olive Oil (EVOO), crafted in Jaén, Spain. Award-winning gourmet flavor delivered fresh to your table. Shop online at Verde Esmeralda Olive.
-  Updated: 2025-11-21T12:15:53Z
+  Updated: 2025-11-24T12:15:34Z
   Total Products: 10
 - [Ibéricos](https://verdesmeraldaolive.us/collections/ibericos): Discover our selection of exquisite Iberian products, a journey through the culinary traditions of Spain. Each item is carefully chosen to offer an authentic gastronomic experience, from Iberian ham to chorizo, and the finest delicacies of the Iberian land. Come back soon to explore our full range.
   Updated: 2025-09-30T18:02:30Z
@@ -99,19 +99,19 @@
   Updated: 2025-09-30T18:02:31Z
   Total Products: 0
 - [Packs Gourmet Olive Oil  | Gift Sets ⋆ Verde Esmeralda Olive](https://verdesmeraldaolive.us/collections/packs-gourmet): Discover our exclusive Gourmet Packs Olive Oil— the perfect gift for food lovers. Enjoy award-winning extra virgin olive oils beautifully packaged and delivered to your door. Shop now at Verde Esmeralda Olive.
-  Updated: 2025-11-07T21:50:11Z
+  Updated: 2025-11-24T12:15:34Z
   Total Products: 4
 - [Give away](https://verdesmeraldaolive.us/collections/give-away)
-  Updated: 2025-11-21T12:15:53Z
+  Updated: 2025-11-24T12:15:34Z
   Total Products: 10
 - [Feature Products](https://verdesmeraldaolive.us/collections/feature-products)
-  Updated: 2025-11-21T12:15:53Z
+  Updated: 2025-11-24T12:15:34Z
   Total Products: 10
 - [APPPlaza - Best Sellers](https://verdesmeraldaolive.us/collections/appplaza-best-sellers)
-  Updated: 2025-11-21T12:15:53Z
+  Updated: 2025-11-24T12:15:34Z
   Total Products: 10
 - [AVADA - Best Sellers](https://verdesmeraldaolive.us/collections/avada-best-sellers)
-  Updated: 2025-11-21T12:15:53Z
+  Updated: 2025-11-24T12:15:34Z
   Total Products: 10
 
 ## Blogs
