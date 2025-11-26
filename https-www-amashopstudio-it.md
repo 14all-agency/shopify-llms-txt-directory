@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-11-25T00:00:37.886Z
+- Updated At: 2025-11-26T00:00:49.864Z
 
 ## Products
 
@@ -692,7 +692,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/C955C10A-21A5-4C40-8981-4B62410D679F.png?v=1738793772
   Price: 7,00 € EUR
 - [Adesivo ''Benvenuta rosa sfumato  '' personalizzabile (50 PZ.)](https://www.amashopstudio.it/products/adesivo-benvenuta-personalizzabile): Tenero adesivo design Cuori orsetto, idea per personalizzare pacchi, bomboniere o qualsiasi altra superficie . Diametro a scelta tra 3 -4 o 5 cm. Su richiesta stesso articolo anche di dimensioni personalizzate . Carta adesiva bianca. Kit 50 .pz ( SELEZIONA DIMENSIONE )
-  Updated: 2025-09-17T14:59:23Z
+  Updated: 2025-11-25T07:13:40Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1200,7 +1200,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/TAZZAPAPA_GOOGLE.jpg?v=1740586422
   Price: 9,90 € EUR
 - [Tappetino mouse 'Google per il papà ' personalizzabile con nome e parola barra di ricerca](https://www.amashopstudio.it/products/tappetino-mouse-google-per-il-papa-personalizzabile-con-nome-e-parola-barra-di-ricerca): Tappetino mouse con frase ironica stampato con colori brillanti . Fai un regalo unico . Personalizzato con stampa sublimatica. Personalizzalo con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care ! Misure: 23 x 19 cm - spessore 5 mm
-  Updated: 2025-09-17T14:59:34Z
+  Updated: 2025-11-25T05:18:14Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -2045,7 +2045,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/Phonecasemockupisolated.jpg?v=1746087418
     Price: 9,00 € EUR
 - [T-Shirt ‘NAPOLI’ bambino Napoletano dalla nascita  |bianca](https://www.amashopstudio.it/products/t-shirt-napoli-bambino-napoletano-dalla-nascita-bianca): T-Shirt ‘NAPOLI’ La t-shirt celebrativa ‘NAPOLI’ è un capo d'abbigliamento perfetto per chi ama e non dimentica. Ecco alcune delle sue caratteristiche principali: Caratteristiche della T-Shirt Materiale**: Realizzata in cotone di alta qualità per garantire comfort e durata.Colore**: Disponibile in un elegante colore bianco che si abbina facilmente a qualsiasi outfit.Taglie**: Offerta in una varietà di taglie per adattarsi a tutti. **Personalizzazione**: Possibilità di personalizzare la parte posteriore della maglietta con il nome che preferisci, rendendo così il capo unico e speciale. Questa t-shirt è un ottimo modo per esprimere il tuo amore e la tua passione per Napoli, con un design che si distingue e una qualità che non delude. È il regalo perfetto per te o per chi ami, un pensiero speciale che porta con sé un pezzo di Napoli.
-  Updated: 2025-09-17T14:59:40Z
+  Updated: 2025-11-25T09:49:41Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
