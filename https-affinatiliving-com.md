@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-25T20:00:32.727Z
+- Updated At: 2025-11-26T00:01:43.599Z
 
 ## Products
 
@@ -906,7 +906,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Mint Eucalyptus Body Scrub – Cooling Herbal Exfoliation for Refreshed Skin](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint): Invigorate your skin with Mint Eucalyptus body scrub—cooling exfoliation and refreshing herbal scent leave you smooth, energized, and naturally refreshed.
-  Updated: 2025-11-21T18:15:25Z
+  Updated: 2025-11-25T23:35:18Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -966,7 +966,7 @@
     Availability: Available
     Price: $74.95 USD
 - [Champagne Toast Body Scrub – Luxurious Exfoliation with a Bubbly Citrus Scent](https://affinatiliving.com/products/body-scrub-champagne): Celebrate your skin with Champagne Toast body scrub—gentle exfoliation and bubbly, sweet citrus fragrance for soft, radiant, and irresistibly scented skin.
-  Updated: 2025-11-21T18:15:24Z
+  Updated: 2025-11-25T23:35:18Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -1026,7 +1026,7 @@
     Availability: Available
     Price: $74.95 USD
 - [Coffee Beans Body Scrub – Energizing Exfoliation for Smooth, Revitalized Skin](https://affinatiliving.com/products/body-scrub-coffee-shop): Energize your skin with Coffee Beans body scrub—exfoliating coffee grounds and rich aroma awaken your senses while leaving skin smooth, soft, and refreshed.
-  Updated: 2025-11-21T18:15:24Z
+  Updated: 2025-11-25T23:35:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -1086,7 +1086,7 @@
     Availability: Available
     Price: $74.95 USD
 - [Vanilla Sugar Body Scrub – Sweet, Gentle Exfoliation for Silky Soft Skin](https://affinatiliving.com/products/body-scrub-bamboo): Indulge your skin with Vanilla Sugar body scrub—gentle exfoliation and sweet, warm fragrance for irresistibly smooth, soft, and beautifully scented skin.
-  Updated: 2025-11-21T18:15:24Z
+  Updated: 2025-11-25T23:35:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -1146,7 +1146,7 @@
     Availability: Available
     Price: $74.95 USD
 - [Ocean Breeze Body Scrub – Refreshing Coastal Exfoliation for Glowing Skin](https://affinatiliving.com/products/body-scrub-fruit-fusion): Refresh and rejuvenate your skin with Ocean Breeze body scrub—invigorating exfoliation and a crisp coastal scent for smooth, glowing, beach-ready skin.
-  Updated: 2025-11-21T18:15:24Z
+  Updated: 2025-11-25T23:35:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -1206,7 +1206,7 @@
     Availability: Available
     Price: $74.95 USD
 - [Lavender Dream Body Scrub – Calming Exfoliation for Soft, Smooth Skin](https://affinatiliving.com/products/body-scrub-honey-lavender): Soothe and smooth your skin with Lavender Dream body scrub—gentle exfoliation and calming lavender fragrance for soft, radiant, and refreshed skin.
-  Updated: 2025-11-21T18:15:25Z
+  Updated: 2025-11-25T23:35:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -1266,70 +1266,70 @@
     Availability: Available
     Price: $74.95 USD
 - [Hydrating Face Cream - Unscented](https://affinatiliving.com/products/hydrating-face-cream-unscented): Keep it clean and simple with our Unscented Face Cream. This 5 oz formula is ideal for sensitive skin or those who prefer skincare without added fragrance. Infused with sunflower oil and Vitamin E, it provides deep hydration and helps maintain a soft, healthy complexion. Lightweight, non-greasy, and perfect for daily use. Key Ingredients: Sunflower Oil – Moisturizes and helps protect the skin’s natural barrier Vitamin E – Delivers antioxidant benefits and promotes smooth, nourished skin Fragrance-free and gentle for all-day comfort.Perfect for those who want powerful hydration without any lingering scent. Pair with an Affinati Body Lotion! Read More: Why Choose Affinati Face Creams? A Complete Guide to Skincare You Can Trust Which Candle Scent Matches Your Personality? Essential Oil Room Sprays vs. Synthetic Fragrance Sprays: Why Affinati is the Safer Choice for Your Home
-  Updated: 2025-10-04T05:13:18Z
+  Updated: 2025-11-25T23:35:44Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageApr30_2025_01_21_27PM.png?v=1746033701
   Price: $9.95 USD
 - [Hydrating Face Cream - Chocolate Fudge Brownie](https://affinatiliving.com/products/hydrating-face-cream-chocolate-fudge-brownie): Satisfy your skin with the rich, indulgent scent of Chocolate Fudge Brownie. This 5 oz face cream is packed with sunflower oil and Vitamin E to deeply moisturize and nourish, leaving your skin soft, smooth, and radiant. Lightweight and non-greasy, it’s perfect for daily use and suitable for all skin types. Key Ingredients: Sunflower Oil – Deeply hydrates and helps protect the skin’s natural barrier Vitamin E – Provides antioxidant support and promotes a healthy, supple complexion Strongly scented and guaranteed to last all day.Enjoy the decadent aroma of fresh-baked brownies that lingers on your skin from morning to night. Pair with an Affinati Body Lotion! Read More: Why Choose Affinati Face Creams? A Complete Guide to Skincare You Can Trust Which Candle Scent Matches Your Personality? Essential Oil Room Sprays vs. Synthetic Fragrance Sprays: Why Affinati is the Safer Choice for Your Home
-  Updated: 2025-10-04T04:22:47Z
+  Updated: 2025-11-25T23:35:44Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageApr30_2025_01_35_33PM.png?v=1746034549
   Price: $9.95 USD
 - [Hydrating Face Cream - Midnight Ember](https://affinatiliving.com/products/hydrating-face-cream-midnight-ember): Ignite your skincare routine with the bold, sultry scent of Midnight Ember. This 5 oz face cream is formulated with sunflower oil and Vitamin E to deliver intense hydration while promoting a soft, balanced complexion. Lightweight and fast-absorbing, it’s ideal for daily use without leaving a greasy residue. Key Ingredients: Sunflower Oil – Nourishes deeply and supports the skin’s natural moisture barrier Vitamin E – Provides antioxidant protection and improves skin softness Strongly scented and guaranteed to last all day.Experience the smoldering blend of warm woods and subtle spice that lingers confidently on your skin from dawn to dusk. Pair with an Affinati Body Lotion! Read More: Why Choose Affinati Face Creams? A Complete Guide to Skincare You Can Trust Which Candle Scent Matches Your Personality? Essential Oil Room Sprays vs. Synthetic Fragrance Sprays: Why Affinati is the Safer Choice for Your Home
-  Updated: 2025-10-04T19:32:06Z
+  Updated: 2025-11-25T23:35:43Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageApr30_2025_01_19_48PM.png?v=1746033630
   Price: $9.95 USD
 - [Hydrating Face Cream - Almond Biscotti](https://affinatiliving.com/products/hydrating-face-cream-almond-biscotti): Treat your skin to the sweet indulgence of Almond Biscotti. This 5 oz face cream is enriched with sunflower oil and Vitamin E to provide deep, lasting moisture while supporting a smooth and radiant complexion. Lightweight and non-greasy, it’s perfect for everyday use on all skin types. Key Ingredients: Sunflower Oil – Deeply hydrates and helps strengthen the skin’s barrier Vitamin E – Offers antioxidant protection and enhances skin softness Strongly scented and guaranteed to last all day.Delight in the warm, nutty-sweet fragrance of almond and vanilla that stays with you from morning to night. Pair with an Affinati Body Lotion! Read More: Why Choose Affinati Face Creams? A Complete Guide to Skincare You Can Trust Which Candle Scent Matches Your Personality? Essential Oil Room Sprays vs. Synthetic Fragrance Sprays: Why Affinati is the Safer Choice for Your Home
-  Updated: 2025-11-15T17:39:14Z
+  Updated: 2025-11-25T23:35:43Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_9_2025_at_06_42_20_PM.png?v=1762731750
   Price: $9.95 USD
 - [Hydrating Face Cream - Honey Lavender](https://affinatiliving.com/products/hydrating-face-cream-honey-lavender): Soothe and nourish your skin with the calming blend of Honey Lavender. This 5 oz face cream is infused with sunflower oil and Vitamin E to deliver deep hydration while supporting a healthy, radiant complexion. Lightweight and gentle, it absorbs quickly without clogging pores—perfect for daily facial care. Key Ingredients: Sunflower Oil – Moisturizes and helps maintain the skin’s natural barrier Vitamin E – Provides antioxidant protection and softens the skin Strongly scented and guaranteed to last all day.Enjoy the relaxing, sweet floral aroma that lingers softly on your skin from morning to night. Pair with an Affinati Body Lotion! Read More: Why Choose Affinati Face Creams? A Complete Guide to Skincare You Can Trust Which Candle Scent Matches Your Personality? Essential Oil Room Sprays vs. Synthetic Fragrance Sprays: Why Affinati is the Safer Choice for Your Home
-  Updated: 2025-10-04T11:20:59Z
+  Updated: 2025-11-25T23:35:43Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageApr30_2025_12_56_40PM.png?v=1746032253
   Price: $9.95 USD
 - [Hydrating Face Cream - Cocoa Butter Cashmere](https://affinatiliving.com/products/hydrating-face-cream-citrus-pine): Indulge your skin in the silky richness of Cocoa Butter Cashmere. This 5 oz face cream is crafted with nourishing sunflower oil and Vitamin E to deliver lasting hydration while enhancing your skin’s softness and glow. Lightweight and non-greasy, it’s perfect for daily use, leaving your face smooth, supple, and refreshed. Key Ingredients: Sunflower Oil – Deeply hydrates and supports the skin’s protective barrier Vitamin E – Offers antioxidant benefits and promotes a soft, healthy complexion Strongly scented and guaranteed to last all day.Surround yourself with the warm, cozy blend of cocoa butter and soft cashmere that lingers on your skin from morning to night. Pair with an Affinati Body Lotion! Read More: Why Choose Affinati Face Creams? A Complete Guide to Skincare You Can Trust Which Candle Scent Matches Your Personality? Essential Oil Room Sprays vs. Synthetic Fragrance Sprays: Why Affinati is the Safer Choice for Your Home
-  Updated: 2025-10-04T08:47:57Z
+  Updated: 2025-11-25T23:35:43Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageMay1_2025_08_35_55AM.png?v=1746102970
   Price: $9.95 USD
 - [Hydrating Face Cream - Lemon & Amber Musk](https://affinatiliving.com/products/hydrating-face-cream-lemon-amber-musk): Awaken your skin with the vibrant and sophisticated scent of Lemon & Amber Musk. This 5 oz face cream is infused with sunflower oil and Vitamin E to deliver deep hydration and restore a healthy glow. Lightweight and fast-absorbing, it nourishes without clogging pores—perfect for daily moisturizing. Key Ingredients: Sunflower Oil – Deeply moisturizes and reinforces the skin’s natural barrier Vitamin E – Provides antioxidant support and promotes smooth, soft skin Strongly scented and guaranteed to last all day.Enjoy the bright citrus notes blended with warm musk that leave your skin beautifully scented from morning to night. Pair with an Affinati Body Lotion! Read More: Why Choose Affinati Face Creams? A Complete Guide to Skincare You Can Trust Which Candle Scent Matches Your Personality? Essential Oil Room Sprays vs. Synthetic Fragrance Sprays: Why Affinati is the Safer Choice for Your Home
-  Updated: 2025-10-04T13:09:46Z
+  Updated: 2025-11-25T23:35:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageMay1_2025_08_33_13AM.png?v=1746102861
   Price: $9.95 USD
 - [Hydrating Face Cream - Sandalwood & Jasmine](https://affinatiliving.com/products/hydrating-face-cream-sandalwood-jasmine): Elevate your skincare routine with the luxurious blend of Sandalwood & Jasmine. This 5 oz face cream is enriched with nourishing sunflower oil and Vitamin E to provide deep hydration while promoting a smooth, radiant complexion. Lightweight and gentle, it absorbs quickly without clogging pores, making it ideal for daily use. Key Ingredients: Sunflower Oil – Moisturizes and supports the skin’s natural barrier Vitamin E – Delivers antioxidant protection and long-lasting softness Strongly scented and guaranteed to last all day.Immerse yourself in the warm, floral-woody aroma that lingers gracefully on your skin from morning to night. Pair with an Affinati Body Lotion! Read More: Why Choose Affinati Face Creams? A Complete Guide to Skincare You Can Trust Which Candle Scent Matches Your Personality? Essential Oil Room Sprays vs. Synthetic Fragrance Sprays: Why Affinati is the Safer Choice for Your Home
-  Updated: 2025-10-05T05:08:40Z
+  Updated: 2025-11-25T23:35:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageApr30_2025_01_02_14PM.png?v=1746032550
   Price: $9.95 USD
 - [Hydrating Face Cream - French Vanilla](https://affinatiliving.com/products/hydrating-face-cream-french-vanilla): Pamper your skin with the rich, velvety feel of our French Vanilla Face Cream. This 5 oz formula is infused with nourishing sunflower oil and Vitamin E to deliver deep, non-greasy hydration while promoting a healthy, radiant complexion. Gentle enough for daily use, it leaves your skin soft, smooth, and beautifully refreshed. Key Ingredients: Sunflower Oil – Moisturizes and helps maintain the skin's natural barrier Vitamin E – Provides antioxidant protection and promotes skin softness Strongly scented and guaranteed to last all day.Immerse yourself in the sweet, comforting aroma of French Vanilla that lingers gently on your skin from morning to night. Pair with an Affinati Body Lotion! Read More: Why Choose Affinati Face Creams? A Complete Guide to Skincare You Can Trust Which Candle Scent Matches Your Personality? Essential Oil Room Sprays vs. Synthetic Fragrance Sprays: Why Affinati is the Safer Choice for Your Home
-  Updated: 2025-10-05T02:38:03Z
+  Updated: 2025-11-25T23:35:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageApr30_2025_12_54_58PM.png?v=1746032143
   Price: $9.95 USD
 - [Hydrating Face Cream - Black Raspberry Vanilla](https://affinatiliving.com/products/hydrating-face-cream-black-raspberry-vanilla): Refresh and nourish your skin with the fruity-sweet indulgence of our Black Raspberry Vanilla Face Cream. This 5 oz cream is enriched with sunflower oil and Vitamin E to deeply moisturize, soften, and protect your skin without clogging pores. Lightweight and fast-absorbing, it’s perfect for everyday use on all skin types. Key Ingredients: Sunflower Oil – Hydrates and helps strengthen the skin’s natural barrier Vitamin E – Offers antioxidant benefits and enhances skin softness Strongly scented and guaranteed to last all day.Enjoy the irresistible blend of juicy black raspberries and creamy vanilla that leaves your skin delicately fragranced from morning to night. Pair with an Affinati Body Lotion! Read More: Why Choose Affinati Face Creams? A Complete Guide to Skincare You Can Trust Which Candle Scent Matches Your Personality? Essential Oil Room Sprays vs. Synthetic Fragrance Sprays: Why Affinati is the Safer Choice for Your Home
-  Updated: 2025-10-04T18:44:44Z
+  Updated: 2025-11-25T23:35:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6519,14 +6519,14 @@
   Availability: Available
   Price: $0.00 USD
 - [Velvet Lavender Bar Soap](https://affinatiliving.com/products/lavender-bar-soap): Relax with Velvet Lavender—crafted with olive, coconut & shea butter for a creamy lather and soothing floral calm.
-  Updated: 2025-11-23T14:11:30Z
+  Updated: 2025-11-25T23:32:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/5E2E2A1F-BBB8-49BC-B394-4381C5AAD691.png?v=1763303458
   Price: $8.95 USD
 - [Floral Symphony Bar Soap](https://affinatiliving.com/products/floral-symphony-bar-soap): An elegant blend of blooms and botanicals in a moisturizing olive oil & shea butter base for soft, fragrant skin.
-  Updated: 2025-11-23T14:11:32Z
+  Updated: 2025-11-25T23:32:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7244,11 +7244,11 @@
   Updated: 2025-05-15T08:35:05Z
   Total Products: 0
 - [3-Wick Candles](https://affinatiliving.com/collections/3-wick-candles): Discover Affinati’s 3-Wick Candle Collection — luxury soy candles with powerful fragrance throw, clean burn, and elegant jars. Perfect for filling any room with long-lasting scent.
-  Updated: 2025-11-25T12:08:36Z
-  Total Products: 81
+  Updated: 2025-11-25T22:55:17Z
+  Total Products: 82
 - [Signature Candles](https://affinatiliving.com/collections/signature-candles): Shop Affinati’s Signature Candle Collection — hand-poured soy candles crafted for long-lasting fragrance and elegant design. Elevate your home with luxury scents made for everyday moments.
-  Updated: 2025-11-25T12:08:36Z
-  Total Products: 61
+  Updated: 2025-11-25T22:57:54Z
+  Total Products: 62
 - [Whipped Soap](https://affinatiliving.com/collections/whipped-soap): Lather up with Affinati’s Whipped Soap Collection — creamy, cloud-like soaps that cleanse, hydrate, and leave skin silky smooth with long-lasting luxury fragrance.
   Updated: 2025-11-25T12:08:36Z
   Total Products: 7
@@ -7259,11 +7259,11 @@
   Updated: 2025-11-09T23:34:08Z
   Total Products: 10
 - [Room & Linen Sprays](https://affinatiliving.com/collections/room-linen-sprays): Shop Affinati Room Sprays for long-lasting home fragrance. Premium, eco-friendly scents designed to refresh any room instantly. Luxury quality under $25.
-  Updated: 2025-11-25T12:08:36Z
-  Total Products: 39
+  Updated: 2025-11-25T22:38:42Z
+  Total Products: 40
 - [Reed Diffusers](https://affinatiliving.com/collections/reed-diffusers): Fill your home with lasting fragrance from Affinati’s Reed Diffuser Collection — elegant, flame-free diffusers crafted with premium oils for continuous scent.
-  Updated: 2025-11-25T12:08:36Z
-  Total Products: 36
+  Updated: 2025-11-25T22:51:49Z
+  Total Products: 37
 - [Body Scrubs](https://affinatiliving.com/collections/body-scrubs): Exfoliate and nourish with Affinati’s Body Scrubs Collection — whipped sugar scrubs crafted with skin-loving ingredients for smooth, glowing skin and long-lasting fragrance.
   Updated: 2025-11-01T11:07:27Z
   Total Products: 6
@@ -7277,14 +7277,14 @@
   Updated: 2025-11-16T12:08:28Z
   Total Products: 3
 - [All Candle Collections](https://affinatiliving.com/collections/all-candle-collections): Shop Affinati’s full Candle Collection — from Wooden Wick and 3-Wick candles to Signature and Original designs. Hand-poured soy candles with long-lasting, luxury fragrance for every space.
-  Updated: 2025-11-25T12:08:36Z
-  Total Products: 273
+  Updated: 2025-11-25T23:02:49Z
+  Total Products: 276
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
   Updated: 2025-11-25T12:08:36Z
   Total Products: 78
 - [All Home Care Collections](https://affinatiliving.com/collections/all-home-care-collections)
-  Updated: 2025-11-25T12:08:36Z
-  Total Products: 75
+  Updated: 2025-11-25T22:51:49Z
+  Total Products: 77
 - [Apothecary Candles](https://affinatiliving.com/collections/apothecary-candles)
   Updated: 2025-11-25T12:08:36Z
   Total Products: 12
@@ -7301,28 +7301,28 @@
   Updated: 2025-05-15T08:35:07Z
   Total Products: 0
 - [Original Candles](https://affinatiliving.com/collections/original-candles): Explore Affinati’s Original Candle Collection — hand-poured soy candles designed for everyday luxury. Clean-burning, long-lasting scents that bring warmth and elegance to any space.
-  Updated: 2025-11-25T12:08:36Z
-  Total Products: 80
+  Updated: 2025-11-25T23:02:49Z
+  Total Products: 81
 - [Wooden Wick Candles](https://affinatiliving.com/collections/wooden-wick-candles): Discover Affinati’s Wooden Wick Candles — premium soy candles with a cozy crackling burn. Long-lasting, clean fragrance blends designed to create a warm, luxurious atmosphere for your home.
   Updated: 2025-11-25T12:08:36Z
   Total Products: 48
 - [Summer Candle Scents](https://affinatiliving.com/collections/summer-scents)
-  Updated: 2025-11-25T12:08:36Z
+  Updated: 2025-11-25T23:04:36Z
   Total Products: 95
 - [Winter Candle Scents](https://affinatiliving.com/collections/winter-candle-scents)
-  Updated: 2025-11-25T12:08:36Z
-  Total Products: 106
+  Updated: 2025-11-25T23:04:35Z
+  Total Products: 109
 - [Fall Candle Scents](https://affinatiliving.com/collections/fall-candle-scents)
-  Updated: 2025-11-25T12:08:36Z
-  Total Products: 100
+  Updated: 2025-11-25T23:04:35Z
+  Total Products: 103
 - [Spring Candle Scents](https://affinatiliving.com/collections/spring-candle-scents)
-  Updated: 2025-11-25T12:08:36Z
+  Updated: 2025-11-25T23:04:35Z
   Total Products: 85
 - [Masculine Candle Scents](https://affinatiliving.com/collections/masculine-scents): Explore the Masculine Candle Collection — bold scents like Smoked Bourbon, Mahogany Teakwood, and Tobacco. Long-lasting 3-wick and wooden wick candles with rich, rugged aromas.
-  Updated: 2025-11-25T12:08:36Z
-  Total Products: 48
+  Updated: 2025-11-25T23:02:49Z
+  Total Products: 51
 - [Fruity Candle Scents](https://affinatiliving.com/collections/fruity): Explore the Fruity Scents Collection — candles, diffusers, and room sprays in vibrant aromas like Strawberry Bliss, Blackberry Sage, and Coconut Flakes. Sweet, juicy, long-lasting fragrance for every room.
-  Updated: 2025-11-25T12:08:36Z
+  Updated: 2025-11-25T23:04:36Z
   Total Products: 60
 - [Nature Candle Scents](https://affinatiliving.com/collections/nature-candle-scents): Discover the Nature Candle Collection — fresh, earthy scents like Eucalyptus Tea, Driftwood & Sea Salt, and Blackberry Sage. Long-lasting candles inspired by the outdoors.
   Updated: 2025-11-25T12:08:36Z
@@ -7346,7 +7346,7 @@
   Updated: 2025-11-24T14:16:51Z
   Total Products: 30
 - [Thanksgiving Candles](https://affinatiliving.com/collections/thanksgiving-candles): Celebrate Thanksgiving with candles inspired by pumpkin pie, spiced bourbon, and warm vanilla. Long-lasting candles to make your holiday cozy.
-  Updated: 2025-11-25T12:08:36Z
+  Updated: 2025-11-25T23:04:36Z
   Total Products: 77
 - [Valentine's Candles](https://affinatiliving.com/collections/valentines-candles): Celebrate love with the Valentine’s Day Candle Collection — romantic scents like Strawberry Bliss, Cocoa Butter Cashmere, and Hot Chocolate. Long-lasting 3-wick candles for gifting.
   Updated: 2025-11-25T12:08:36Z
@@ -7964,6 +7964,12 @@
   - [Nécessaire Lotion Review + Best Affordable Luxury Alternative | Affinati](https://affinatiliving.com/blogs/news/necessaire-lotion-review-best-affordable-luxury-alternative-affinati)
     Updated: 2025-11-25T14:48:41Z
     Author: Gerard Collins
+  - [All About Cetaphil Lotion – Gentle Hydration, Dermatologist-Trusted Ingredients & Modern Clean Alternatives](https://affinatiliving.com/blogs/news/all-about-cetaphil-lotion-gentle-hydration-dermatologist-trusted-ingredients-and-modern-clean-alternatives)
+    Updated: 2025-11-25T23:09:34Z
+    Author: Gerard Collins
+  - [Vaseline Lotion Guide – Barrier Care, Gentle Hydration & Clean Luxury Alternative](https://affinatiliving.com/blogs/news/vaseline-lotion-guide-barrier-care-gentle-hydration-and-clean-luxury-alternative): Vaseline Lotion Guide – Barrier Care, Gentle Hydration & Clean Luxury Alternative
+    Updated: 2025-11-25T22:30:09Z
+    Author: Gerard Collins
   - [All About Gold Bond Lotion – Rich Hydration, Dry Skin Relief & Clean Luxury Alternatives](https://affinatiliving.com/blogs/news/all-about-gold-bond-lotion-rich-hydration-dry-skin-relief-and-clean-luxury-alternatives)
     Updated: 2025-11-25T14:57:51Z
     Author: Gerard Collins
@@ -8535,6 +8541,12 @@
     Author: Gerard Collins
   - [Nécessaire Lotion vs Affinati – Complete Clean Body Care Comparison | Affinati](https://affinatiliving.com/blogs/deep-analysis/necessaire-lotion-vs-affinati-complete-clean-body-care-comparison-affinati)
     Updated: 2025-11-25T14:46:32Z
+    Author: Gerard Collins
+  - [Cetaphil Lotion Guide – Gentle Hydration, Sensitive Skin Benefits & Clean Luxury Alternatives](https://affinatiliving.com/blogs/deep-analysis/cetaphil-lotion-guide-gentle-hydration-sensitive-skin-benefits-and-clean-luxury-alternatives)
+    Updated: 2025-11-25T22:31:39Z
+    Author: Gerard Collins
+  - [Vaseline Lotion Guide – Barrier Care, Dry Skin Hydration & Clean Luxury Alternatives](https://affinatiliving.com/blogs/deep-analysis/vaseline-lotion-guide-barrier-care-dry-skin-hydration-and-clean-luxury-alternatives)
+    Updated: 2025-11-25T22:27:50Z
     Author: Gerard Collins
   - [Gold Bond Lotion Guide – Rich Hydration, Dry Skin Comfort & Clean Luxury Alternatives](https://affinatiliving.com/blogs/deep-analysis/gold-bond-lotion-guide-rich-hydration-dry-skin-comfort-and-clean-luxury-alternatives)
     Updated: 2025-11-25T14:56:26Z
