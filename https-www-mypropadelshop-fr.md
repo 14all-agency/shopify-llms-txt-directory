@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2023-05-31T17:47:33Z
 - Contact Email: propadeltoulouse@outlook.fr
-- Updated At: 2025-11-21T00:01:14.782Z
+- Updated At: 2025-11-26T00:01:33.908Z
 
 ## Products
 
@@ -514,12 +514,12 @@
   Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/Captured_ecran2025-09-15091100.png?v=1757920465
   Price: 229,90 € EUR
 - [Bullpadel Neuron 02 Edge 2026](https://www.mypropadelshop.fr/products/bullpadel-neuron-02-edge-2026): Bullpadel Neuron 02 Edge 2026 – Contrôle extrême et précision ultime Une nouvelle génération de contrôle signée Bullpadel La Bullpadel Neuron 02 Edge 2026 est l’évolution la plus avancée de la célèbre gamme Neuron. Conçue pour repousser les limites du contrôle, elle transforme la maîtrise du jeu en précision chirurgicale, grâce à des innovations inédites adoptées par le joueur professionnel Federico Chingotto. Avec son design aérodynamique, son noyau MultiEVA triple densité et son carbone Xtend 3K, la Neuron 02 Edge associe rigidité, stabilité et réactivité pour des frappes fermes, constantes et précises. Une raquette destinée aux joueurs experts et compétitifs qui veulent un contrôle absolu sans sacrifier la puissance. Points forts de la Neuron 02 Edge PrismLock + cœur pentagonal inversé : stabilité maximale et répartition uniforme des forces. Air Power system : cadre allégé et 50 % plus réactif pour une meilleure accélération. Équilibre relevé + cadre élargi : précision accrue dans les frappes rapides. Ease Vibe : amortisseurs intégrés absorbant efficacement les vibrations. CustomWeight : ajout de 3, 6 ou 9 g pour plus de puissance et un équilibre personnalisé. Surface 3D Relief : spin et contrôle des effets renforcés. Grip Hesacore nouvelle génération : ergonomie, confort et réduction des tensions musculaires. Vibradrive : absorption des vibrations même sur frappes décentrées. Technologies intégrées Xtend Carbon 3K : fibres de carbone entrelacées pour rigidité et légèreté. MultiEVA (triple densité) : confort sur balles lentes et fermeté sur frappes rapides. CarbonTube : cadre 100 % carbone garantissant solidité et équilibre puissance/contrôle. Wave System : système d’ondulation assouplissant le cadre pour un meilleur retour d’énergie. Vibradrive : absorption avancée des vibrations pour un confort supérieur. Caractéristiques techniques Forme : Diamant (puissance et précision) Poids : 360 – 375 g Équilibre : Haut Mousse : Dure / Rigide Cadre : Carbone Xtend 3K Surface : Reliefs 3D Niveau : Expert / Compétition Collection : 2026 Couleur : Orange Joueur professionnel : Federico Chingotto
-  Updated: 2025-11-05T14:22:54Z
+  Updated: 2025-11-24T15:59:18Z
   Vendor: Pro Padel Toulouse
   Product Type: Raquette
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/Captured_ecran2025-09-15092612.png?v=1757921490
-  Price: 329,90 € EUR
+  Price: 319,90 € EUR
 - [Bullpadel Wonder 2026](https://www.mypropadelshop.fr/products/bullpadel-wonder-2026): Bullpadel Wonder 2026 – Polyvalence et performance pour joueuses exigeantes Une raquette d’exception inspirée de Claudia Fernandez La Bullpadel Wonder 2026 est la nouvelle référence féminine de la marque espagnole. Inspirée par la joueuse professionnelle Claudia Fernandez, cette raquette est conçue pour offrir une polyvalence totale : puissance, contrôle et maniabilité réunis dans un design élégant et innovant. Avec sa forme en goutte d’eau et son poids léger (350–365 g), elle est idéale pour les joueuses confirmées et expertes qui recherchent réactivité et confort sur tous les coups. Points forts de la Bullpadel Wonder 2026 Forme goutte d’eau : équilibre parfait entre puissance et contrôle. Cadre Fibrix : fibre hybride (carbone + fibre de verre) pour confort et adaptabilité. Mousse MultiEVA : triple densité pour s’adapter à chaque type de frappe. CarbonTube : stabilité, durabilité et solidité renforcées. Vibradrive : absorption optimale des vibrations pour protéger le bras. Air React Channel : plus d’aérodynamisme, de maniabilité et de vitesse. 3D Grain : surface rugueuse pour accentuer les effets et améliorer l’accroche. CustomWeight : ajustement du poids et de l’équilibre pour un jeu sur mesure. Technologies intégrées Fibrix : association fibre de verre + carbone pour un toucher souple et précis. MultiEVA (triple densité) : confort sur coups lents et puissance sur frappes rapides. 3D Grain : surface texturée pour plus de spin. CarbonTube : structure 100 % carbone garantissant puissance et contrôle. Vibradrive : système d’absorption des vibrations intégré au manche. Air React Channel : cadre allégé et plus réactif. CustomWeight : personnalisation du poids et de l’équilibre (+5 g ou +10 g). Caractéristiques techniques Poids : 350 – 365 g Forme : Goutte d’eau (polyvalente) Équilibre : Moyen Noyau : MultiEVA intermédiaire Cadre : Fibre de verre + carbone (Fibrix) Surface : Reliefs 3D Niveau : Expert Genre : Femme Collection : 2026 Couleur : Marron Joueuse professionnelle : Claudia Fernandez
   Updated: 2025-11-05T14:22:54Z
   Vendor: Pro Padel Toulouse
@@ -568,7 +568,7 @@
     Availability: Not Available
     Price: 65,90 € EUR
 - [Babolat BL002 Lamborghini 2025](https://www.mypropadelshop.fr/products/babolat-bl002-lamborghini-2025): Babolat BL002 Lamborghini 2025 Description générale La raquette de padel Babolat Lamborghini BL002 incarne l’alliance de deux univers d’exception : le savoir-faire sportif de Babolat et l’expertise automobile de Lamborghini. Issue d’une collaboration technologique poussée, elle offre puissance, précision et design haut de gamme pour les joueurs exigeants. Caractéristiques techniques Technologie Koridion : une mousse rigide brevetée inspirée des coques aluminium-carbone des voitures Lamborghini, placée entre le cadre et la mousse EVA pour optimiser la stabilité et le retour d’énergie. Cadre en carbone 3K : tissage de 3 000 filaments de carbone par brin, assurant réactivité, durabilité et transfert de puissance maximal. Technologie TPS (Thermoplastic Surface) : revêtement thermoplastique développé pour renforcer la surface carbone, améliorer la résistance aux impacts et le confort de jeu. Forme isométrique + sweet spot centré + perçage optimisé : pour un contrôle et une précision accrus, même sur des frappes décentrées. Profil joueur : conçu pour compétiteurs exigeants. Poids donné ≈ 360 g, épaisseur 38 mm, équilibre moyen-rapide (≈ 265-270 mm) selon version. Composition et entretien Matériaux principaux : Cadre carbone 3K, noyau mousse Bio EVA (densité moyenne), mousse Koridion en renfort interne. Conseils d’entretien : Conservez la raquette à l’abri de l’humidité extrême et des températures élevées. Utilisez un sac adapté, évitez les chocs violents. Nettoyez-la avec un chiffon doux et de l’eau tiède si besoin. Pour préserver les performances optimales, évitez de frapper des objets durs ou des parois non prévues pour le padel. Usage recommandé Cette raquette est pensée pour des joueurs de niveau avancé à expert, recherchant un modèle haut de gamme associant explosivité et maîtrise. Idéale en match et entraînements intensifs, elle impose un style de jeu engagé et technique. Le design exclusif et la raréfaction du modèle en font également un objet de collection. À propos de la collaboration La collection résulte de la collaboration entre Babolat et Lamborghini. Le premier modèle, la BL001, a été produit en série ultra-limitée (50 exemplaires) dans l’usine Lamborghini à Sant’Agata Bolognese. Le modèle BL002, quant à lui, a été développé pour une diffusion plus large (≈ 5 000 unités) tout en conservant des matériaux premium et une identité visuelle inspirée des super-sportives Lamborghini.
-  Updated: 2025-11-06T09:53:21Z
+  Updated: 2025-11-23T10:01:43Z
   Vendor: Pro Padel Toulouse
   Product Type: Raquette
   Availability: Available
@@ -619,7 +619,7 @@
   Updated: 2025-11-05T11:06:11Z
   Total Products: 0
 - [Raquettes](https://www.mypropadelshop.fr/collections/raquettes): Découvrez notre sélection de raquettes de padel : puissance, précision et confort pour tous les niveaux. Trouvez la raquette idéale parmi les plus grandes marques et améliorez votre jeu dès maintenant.
-  Updated: 2025-11-12T18:57:06Z
+  Updated: 2025-11-24T15:59:19Z
   Total Products: 23
 - [Raquettes Siux](https://www.mypropadelshop.fr/collections/raquettes-siux): Explorez l’univers Siux, marque de référence en padel. Des raquettes alliant technologie, puissance et contrôle pour un jeu explosif et précis. Que vous soyez amateur ou pro, trouvez la Siux qui libérera tout votre potentiel sur le court.
   Updated: 2025-11-05T11:05:26Z
@@ -646,7 +646,7 @@
   Updated: 2025-11-05T11:29:21Z
   Total Products: 3
 - [Raquettes Bullpadel](https://www.mypropadelshop.fr/collections/raquettes-bullpadel): Découvrez les raquettes de padel Bullpadel, référence absolue des joueurs exigeants. Technologie de pointe, puissance explosive et contrôle précis : chaque modèle est conçu pour performer au plus haut niveau. Adoptez l’esprit Bullpadel et dominez le terrain.
-  Updated: 2025-11-05T11:04:51Z
+  Updated: 2025-11-24T15:59:19Z
   Total Products: 4
 - [Collection 2026](https://www.mypropadelshop.fr/collections/collection-2026): Découvrez les raquettes de padel 2026 : puissance, contrôle et innovation réunies dans une nouvelle génération d’équipements. Les plus grandes marques repoussent les limites de la performance et du design pour vous offrir des sensations inédites et une maîtrise totale sur le court.
   Updated: 2025-11-05T14:15:52Z
@@ -667,7 +667,7 @@
   Updated: 2025-11-05T14:14:42Z
   Total Products: 2
 - [Tous les produits](https://www.mypropadelshop.fr/collections/tous-les-produits)
-  Updated: 2025-11-12T18:57:06Z
+  Updated: 2025-11-24T15:59:19Z
   Total Products: 49
 - [Edition Limitée](https://www.mypropadelshop.fr/collections/edition-limitee): Découvrez la collection Édition Limitée : exclusivité, style et performance réunis dans des produits d’exception. Conçus pour les passionnés en quête d’originalité et de technologie haut de gamme, ces modèles rares allient design unique et prestige sportif.
   Updated: 2025-11-06T08:47:49Z
