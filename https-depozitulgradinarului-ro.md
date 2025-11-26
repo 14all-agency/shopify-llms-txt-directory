@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-11-24T00:01:10.525Z
+- Updated At: 2025-11-26T00:01:00.227Z
 
 ## Products
 
@@ -596,28 +596,28 @@ Substanta activa: flonicamid 500 g/kg
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-12at21.52.32_2.jpg?v=1739390212
   Price: 19,00 lei RON
 - [Ingrasamant Foliar Foliplant – 100 ML, Legume, Pomi, Flori, Vita de vie](https://depozitulgradinarului.ro/products/ingrasamant-foliar-foliplant-100-ml): Foliplant 100 ML, îngrășământ foliar universal românesc, stimulează creșterea legumelor, pomilor fructiferi, florilor și viței-de-vie, cu rezultate vizibile.
-  Updated: 2025-11-23T15:01:19Z
+  Updated: 2025-11-24T02:52:50Z
   Vendor: Foliplant
   Product Type: Ingrasamant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Picture1_9172683a-3511-43ad-85d5-c7f8ae2e580d.png?v=1739274224
   Price: 7,00 lei RON
 - [Ingrasamant Foliar Foliplant – 500 ML, Legume, Pomi, Flori, Vita de vie](https://depozitulgradinarului.ro/products/ingrasamant-foliar-foliplant-500-ml): Foliplant 500 ML, îngrășământ foliar universal românesc, stimulează creșterea legumelor, pomilor fructiferi, florilor și viței-de-vie, cu rezultate vizibile.
-  Updated: 2025-11-23T14:58:23Z
+  Updated: 2025-11-24T02:52:29Z
   Vendor: Foliplant
   Product Type: Ingrasamant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-03-07at22.58.00.jpg?v=1741381399
   Price: 17,00 lei RON
 - [Ingrasamant Foliar Foliplant – 1 L, Legume, Pomi, Flori, Vita de vie](https://depozitulgradinarului.ro/products/ingrasamant-foliar-foliplant-1-l): Foliplant 1 L, îngrășământ foliar universal românesc, stimulează creșterea legumelor, pomilor fructiferi, florilor și viței-de-vie, cu rezultate vizibile.
-  Updated: 2025-11-23T14:55:48Z
+  Updated: 2025-11-24T02:54:04Z
   Vendor: Foliplant
   Product Type: Ingrasamant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-03-07at22.58.00_1.jpg?v=1741381428
   Price: 30,00 lei RON
 - [Biostimulator Bombardier – 1 L](https://depozitulgradinarului.ro/products/biostimulator-bombardier-1-l): Bombardier este un îngrășământ lichid organic, obținut prin fermentația bacteriană controlată a unui amestec de plante, conceput pentru a stimula creșterea și dezvoltarea plantelor, atât la nivel radicular, cât și foliar. Acesta furnizează plantelor energie, vigoare și le ajută să depășească rapid condițiile de stres. Compoziție Biostimulator Bombardier: Aminoacizi liberi: 16,5% Azot total (N): 10,6% Azot organic: 5,6% Azot amoniacal: 5,0% Fosfor (P): 0,6% Potasiu (K): 0,2% Polizaharide: 7,8% Extract total de acid fulvic: 29,3% Materie organică totală: 76,7% Carbon organic total (C): 38,1% Vitamine, auxine, betaine, proteine, enzime Beneficii Biostimulator Bombardier: Crește vigoarea și energia plantelor Ajută plantele să depășească rapid condițiile de stres Stimulează creșterea rapidă a plantelor Îmbunătățește structura solului Recomandări de aplicare Biostimulator Bombardier: Cereale de toamnă: Aplicare foliară înainte de iarnă și una sau două aplicări în primăvară; doză: 4-6 litri/ha. Cereale de primăvară, floarea-soarelui, rapiță, porumb: Una sau două aplicări foliare; doză: 2-4 litri/ha. Legume: Aplicare foliară: 10-30 ml/10 litri apă; aplicare prin irigare: 5-10 litri/ha (tratament șoc: 20 litri/ha). Livezi, vii: Începeți aplicarea la înmugurirea timpurie, cu 4-6 aplicări pe tot ciclul; aplicare foliară: 10-30 ml/10 litri apă; aplicare prin irigare: 5-10 litri/ha (tratament șoc: 20 litri/ha). In, năut, fasole, muștar: Minimum 4 aplicări pe tot ciclul; doză foliară: 4-6 litri/ha. Mazăre, lucernă, trifoi, pășune: 2-3 aplicări foliare; doză: 2 litri/ha. Specificatii tehnice Biostimulator Bombardier:
-  Updated: 2025-11-23T14:45:32Z
+  Updated: 2025-11-24T04:01:55Z
   Vendor: Bombardier
   Product Type: GRAD-AGRO-Ingrasamant
   Availability: Available
@@ -855,21 +855,21 @@ Substanta activa: flonicamid 500 g/kg
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Syngenta_4f53d603-4d76-4177-bdc1-542799a7c2bb.jpg?v=1739640155
   Price: 440,00 lei RON
 - [Sapaliga Dreapta cu 3 Colti](https://depozitulgradinarului.ro/products/sapaliga-dreapta-3-colti): Săpăligă dreaptă cu 3 colți, perfectă pentru prășit, afânat și mărunțit solul. Robustă, practică și ușor de folosit în grădină sau agricultură.
-  Updated: 2025-11-23T14:24:43Z
+  Updated: 2025-11-24T02:24:48Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/sapaliga.jpg?v=1739301669
   Price: 10,00 lei RON
 - [Lopatica pentru Gradinarit Negru/ Roz](https://depozitulgradinarului.ro/products/lopatica-pentru-gradinarit-negru-roz): Lopățică negru/roz pentru grădinărit, perfectă pentru plantare, afânare, transplantare și îndepărtarea buruienilor. Rezistentă și ergonomică.
-  Updated: 2025-11-23T14:21:28Z
+  Updated: 2025-11-24T02:21:31Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/lopaticaneagra.jpg?v=1739303648
   Price: 10,00 lei RON
 - [Lopățică Pentru Grădinărit Verde](https://depozitulgradinarului.ro/products/lopatica-pentru-gradinarit-verde): Lopățică verde pentru grădinărit, ideală pentru plantat, afânat, transplantat și îndepărtat buruieni. Ușoară, practică și indispensabilă în grădină.
-  Updated: 2025-11-23T14:17:43Z
+  Updated: 2025-11-24T02:17:46Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
@@ -1224,6 +1224,13 @@ Substanta activa: flonicamid 500 g/kg
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.04_6.jpg?v=1739733575
   Price: 2,99 lei RON
+- [Seminte Cimbru, AGROSEM – 0.4 GR](https://depozitulgradinarului.ro/products/seminte-cimbru-agrosem-0-4-gr): Plantă perenă de culoare verde închis, cu flori albe sau roz cu un puternic miros aromatic. Este folosit ca și condiment.
+  Updated: 2025-11-25T16:28:31Z
+  Vendor: AGROSEM
+  Product Type: Seminte Plante Aromatice
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.04.jpg?v=1739733311
+  Price: 2,99 lei RON
 - [Seminte Coriandru, AGROSEM – 5 GR](https://depozitulgradinarului.ro/products/seminte-coriandru-agrosem-5-gr): Planta medicinala anuala cu tulpina foarte ramificata, inalta de 50-80 cm, cu flori albe, seminte sferice de culoare gri, folosite la: ceaiuri, condimente, bauturi alcoolice etc. Se seamana la 20-25 cm intre randuri, 8-10 g/10mpatrat.
   Updated: 2025-07-26T23:53:24Z
   Vendor: AGROSEM
@@ -1281,42 +1288,56 @@ Substanta activa: flonicamid 500 g/kg
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.04_5.jpg?v=1739733536
   Price: 2,99 lei RON
 - [Seminte Rucola, AGROSEM – 7GR](https://depozitulgradinarului.ro/products/seminte-rucola-agrosem-7gr): Planta de frunze cu gust placut pentru condimentare in supe, salate si pizza.
-  Updated: 2025-07-29T09:26:14Z
+  Updated: 2025-11-25T19:06:09Z
   Vendor: AGROSEM
   Product Type: Seminte Plante Aromatice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.04_7.jpg?v=1739733631
   Price: 2,99 lei RON
-- [Seminte Salvie, AGROSEM – 1 GR](https://depozitulgradinarului.ro/products/seminte-salvie-agrosem-1-gr): Salvie, o planta medicinala cu radacini perene si parte exterioara anuala, care atinge o inaltime de 1,5 metri. Se seamana toamna in septembrie-octombrie sau primavara in februarie-martie la o adancime de 2-3 cm. Se utilizeaza ca planta medicinala, condiment. Frunzele si florile se culeg in orele racoroase ale zilei. Generalitati: Plantare februarie-mai, octombrie Recoltare iunie-septembrie Vegetatie 120 zile
-  Updated: 2025-07-26T05:57:29Z
+- [Seminte Salvie, AGROSEM – 1 GR | Planta Medicinala & Condiment Aromat](https://depozitulgradinarului.ro/products/seminte-salvie-agrosem-1-gr): Seminte Salvie, Agrosem (1 gr) - planta medicinala si condiment aromat, frunze si flori pentru ceai, supe, sosuri, cultivare usoara in gradina proprie.
+  Updated: 2025-11-25T19:18:58Z
   Vendor: AGROSEM
   Product Type: Seminte Plante Aromatice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.05_84330cc0-a403-48a7-b989-05b841e9cb5b.jpg?v=1739733773
   Price: 2,99 lei RON
-- [Seminte Tarhon, AGROSEM – 0.5 GR](https://depozitulgradinarului.ro/products/seminte-tarhon-agrosem-0-5-gr): Tarhon- planta perena de frunze, folosita ca si condiment. Se seamana primavara devreme in alveole sau de la sfarsitul primaverii pana la inceputul verii in aer liber intr-un pat de seminte. Se raresc si apoi se transplanteaza. Frunzele pot fi folosite proaspete sau uscate pentru salate, muraturi, otet si supe. Poate fi folosit si cu mancaruri de pui si peste. Frunzele se folosesc atat proaspete cat si uscate.
-  Updated: 2025-07-26T13:08:43Z
+- [Seminte Tarhon, AGROSEM – 0.5 GR | Plantă Perenă Aromată](https://depozitulgradinarului.ro/products/seminte-tarhon-agrosem-0-5-gr): Seminte Tarhon, Agrosem (0.5 gr) - condiment aromat peren, ideal pentru salate, muraturi, supe, mancaruri cu pui sau peste, frunze proaspete sau uscate.
+  Updated: 2025-11-25T19:07:22Z
   Vendor: AGROSEM
   Product Type: Seminte Plante Aromatice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.04_3.jpg?v=1739733461
   Price: 2,99 lei RON
-- [Seminte Pepene Galben HALE’S BEST JUMBO, AGROSEM – 2 GR](https://depozitulgradinarului.ro/products/seminte-pepene-galben-hale-s-best-jumbo-agrosem-2-gr): Soi timpuriu, perioada de vegetatie 80-90 zile. Fructul este rotund-alungit, de culoare crem-verzui, cu striatiuni fine le exterior. Miezul este portocaliu, zemos, gust placut. Greutatea 1,5-1,7 kg. Soi productiv. Pepene galben HALE'S BEST JUMBO soi cu fruct oval, cu coaja de culoare galben-portocaliu cu retea exterioara deasa, pulpa cu gust dulce portocalie, suculenta si aromata. Recomandat cuturii in camp cu semanare directa. Este un soi cu adaptabilitate si productivitate mare.
-  Updated: 2025-07-28T18:41:33Z
+- [Seminte Pepene Galben ANANAS D’AMERIQUE, AGROSEM – 2 GR](https://depozitulgradinarului.ro/products/seminte-pepene-galben-ananas-d-amerique-agrosem-2-gr): Seminte Pepene Galben Ananas d’Amerique, Agrosem – soi semi-timpuriu, fructe 2–2.5 kg, pulpa portocaliu-deschis, dulce, suculent si cu gust exotic de ananas.
+  Updated: 2025-11-25T18:59:56Z
+  Vendor: AGROSEM
+  Product Type: Seminte Fructe
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.04_15.jpg?v=1740080738
+  Price: 2,99 lei RON
+- [Seminte Pepene Galben HALE’S BEST JUMBO, AGROSEM – 2 GR](https://depozitulgradinarului.ro/products/seminte-pepene-galben-hale-s-best-jumbo-agrosem-2-gr): Seminte Pepene Galben Hale’s Best Jumbo, Agrosem – soi timpuriu, 1.5–1.7 kg, pulpa portocalie dulce si zemoasa, foarte aromat, ideal pentru culturi productive in camp.
+  Updated: 2025-11-25T18:55:30Z
   Vendor: AGROSEM
   Product Type: Seminte Fructe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.05_1.jpg?v=1740080774
   Price: 2,99 lei RON
-- [Seminte Pepene Verde CRIMSON SWEET, AGROSEM – 2 GR](https://depozitulgradinarului.ro/products/seminte-pepene-verde-crimson-sweet-agrosem-2-gr): Crimson Sweet este o varietate populara de pepene verde, deosbita prin calitatile gustative, si aspectul apetisant. Produce fructe de 8-12 kilograme, la o maturitate de 85 de zile.
-  Updated: 2025-07-26T07:13:27Z
+- [Seminte Pepene Verde CRIMSON SWEET, AGROSEM – 2 GR](https://depozitulgradinarului.ro/products/seminte-pepene-verde-crimson-sweet-agrosem-2-gr): Seminte Pepene Verde Crimson Sweet, Agrosem – soi timpuriu, 8–12 kg, rotund, rosu aprins, foarte dulce si zemos, ideal pentru culturi productive si consum proaspat.
+  Updated: 2025-11-25T16:26:53Z
   Vendor: AGROSEM
   Product Type: Seminte Fructe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.05_2.jpg?v=1740080806
   Price: 2,99 lei RON
-- [Seminte Pepene Verde SUGAR BABY, AGROSEM – 2 GR](https://depozitulgradinarului.ro/products/seminte-pepene-verde-sugar-baby-agrosem-2-gr): Sugar Baby este un soi timpuriu de pepene rosu cu fructe mariu, rotunde, cu pulpa dulce. Acest soi are un potential de productie ridicat si rezista foarte bine la seceta. - Soi timpriu de pepene verde; - Perioada de vegetatie 75-80 zile. - Fructele au forma rotunda; - Greutate medie: 4-6 kg; - Pulpa este suculenta, de culoare rosu si are continut ridicat de zahar; - Perioada de insamantat 15-30 aprilie. - Distanta:200/80-100 cm.Adancime 4-7 cm.
-  Updated: 2025-07-27T08:07:26Z
+- [Seminte Pepene Verde KLONDIKE BLUE RIBBON, AGROSEM – 2 GR](https://depozitulgradinarului.ro/products/seminte-pepene-verde-klondike-blue-ribbon-agrosem-2-gr): Seminte Pepene Verde Klondike Blue Ribbon, Agrosem – soi timpuriu, fructe 8–12 kg, alungite, rosii intens, foarte dulci, ideale pentru productii mari si aspect comercial.
+  Updated: 2025-11-25T16:16:13Z
+  Vendor: AGROSEM
+  Product Type: Seminte Fructe
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.05_4.jpg?v=1740080844
+  Price: 2,99 lei RON
+- [Seminte Pepene Verde SUGAR BABY, AGROSEM – 2 GR](https://depozitulgradinarului.ro/products/seminte-pepene-verde-sugar-baby-agrosem-2-gr): Seminte Pepene Verde SUGAR BABY, Agrosem – soi timpuriu, foarte dulce, rotund, 4–6 kg, rezistent la seceta, ideal pentru culturi rapide si productii ridicate.
+  Updated: 2025-11-25T16:09:41Z
   Vendor: AGROSEM
   Product Type: Seminte Fructe
   Availability: Available
@@ -1329,155 +1350,162 @@ Substanta activa: flonicamid 500 g/kg
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.49_6.jpg?v=1739903752
   Price: 2,99 lei RON
-- [Seminte Ardei Gras DASTI ROSSO, AGROSEM – 0.7 GR](https://depozitulgradinarului.ro/products/seminte-ardei-gras-dasti-rosso-agrosem-0-7-gr): Soi recomandat pentru sere și câmp, cu productivitate foarte mare. Fructele sunt mari, de formă pătrată de culoare roșu aprins. Sunt dulci și zemoase.
-  Updated: 2025-06-19T12:14:42Z
+- [Seminte Ardei Gras D'ASTI ROSSO, AGROSEM – 0.7 GR](https://depozitulgradinarului.ro/products/seminte-ardei-gras-dasti-rosso-agrosem-0-7-gr): Seminte Ardei Gras DASTI ROSSO, AGROSEM – 0.7 gr, soi timpuriu cu ardei mari, cubici, rosii intens, cu pulpa groasa si crocanta, ideali pentru salate si gatit.
+  Updated: 2025-11-25T16:02:27Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.44_3.jpg?v=1739902508
   Price: 2,99 lei RON
-- [Seminte Ardei Gras HUNGARIAN, AGROSEM – 0.7 GR](https://depozitulgradinarului.ro/products/seminte-ardei-gras-hungarian-agrosem-0-7-gr): Ardei gras Hungarian este un soi rezistent la bolile specifice, cu fructe tronconice de culoare galben deschis la maturitatea de consum. Se cultiva atat in camp cat si protejat.
-  Updated: 2025-09-15T05:28:57Z
+- [Seminte Ardei Gras HUNGARIAN, AGROSEM – 0.7 GR](https://depozitulgradinarului.ro/products/seminte-ardei-gras-hungarian-agrosem-0-7-gr): Seminte Ardei Gras HUNGARIAN, AGROSEM - Ardei galben-deschis, conici, cu pulpă groasă și suculentă. Cultură timpurie, viguroasă și extrem de productivă!
+  Updated: 2025-11-25T15:56:51Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.44_4.jpg?v=1739902532
   Price: 2,99 lei RON
-- [Seminte Ardei Gras SOROKSARY, AGROSEM - 0.7 GR](https://depozitulgradinarului.ro/products/seminte-ardei-gras-soroksary-agrosem-0-7-gr): Ardei gras Soroksary , este un soi semi timpuriu care realizează o producție foarte bună. Fructele au 3 sau 4 lobi și sunt dulci și cărnoase. Este potrivit pentru consum în stare proaspăta și pentru umplut.
-  Updated: 2025-09-18T07:43:00Z
+- [Seminte Ardei Gras SOROKSARY, AGROSEM - 0.7 GR](https://depozitulgradinarului.ro/products/seminte-ardei-gras-soroksary-agrosem-0-7-gr): Seminte Ardei Gras SOROKSARY, Agrosem – fructe dulci, cărnoase, cu 3-4 lobi. Perfect pentru salate, umpluturi și gătit. Productivitate ridicată și gust excelent!
+  Updated: 2025-11-25T07:31:32Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_14.jpg?v=1740078738
   Price: 2,99 lei RON
-- [Seminte Ardei Iute Rosu CAYENNA, AGROSEM - 0.7GR](https://depozitulgradinarului.ro/products/seminte-ardei-iute-rosu-cayenna-agrosem-0-7gr): Soi timpuriu cu fructe de formă alungită și culoare roșu închis la maturitatea biologică. Pulpa este subțire, aromată și foarte iute. Lungimea fructului este de 10-14 cm. Este destinat consumului în stare proaspată sau congelare.
-  Updated: 2025-07-29T10:01:26Z
+- [Seminte Ardei Gras D'ASTI GIALLO, AGROSEM - 0.7 GR](https://depozitulgradinarului.ro/products/seminte-ardei-gras-dasti-giallo-agrosem-0-7-gr): Seminte Ardei Gras D'ASTI GIALLO, Agrosem – fructe mari, galben-intens, pulpa groasă și crocantă. Perfect pentru salate, gătit sau conservare, productivitate ridicată!
+  Updated: 2025-11-25T07:25:36Z
+  Vendor: AGROSEM
+  Product Type: Seminte Legume
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Agrosem_ardei_gras_galben.jpg?v=1739371188
+  Price: 2,99 lei RON
+- [Seminte Ardei Iute Rosu CAYENNA, AGROSEM - 0.7GR](https://depozitulgradinarului.ro/products/seminte-ardei-iute-rosu-cayenna-agrosem-0-7gr): Seminte Ardei Iute Rosu CAYENNA, Agrosem – fructe alungite 12–15 cm, roșu intens, gust picant puternic. Perfect pentru murături, uscare, gătit sau consum proaspăt!
+  Updated: 2025-11-25T07:20:34Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.45.jpg?v=1739902567
   Price: 2,99 lei RON
-- [Seminte Ardei Iute Verde SIGARETTA BIONDA, AGROSEM - 0.5 GR](https://depozitulgradinarului.ro/products/seminte-ardei-iute-verde-sigaretta-bionda-agrosem-0-5-gr): Soi semi-timpuriu ce formeaza fructe alungite de 18-22 cm, cu varful ascutit, de culoare verde deschis care la maturitatea fiziologica devin rosii. Gustul fructelor este dulce. Se consuma in stare proaspata sau conservat.
-  Updated: 2025-11-05T04:52:43Z
+- [Seminte Ardei Iute Verde SIGARETTA BIONDA, AGROSEM - 0.5 GR](https://depozitulgradinarului.ro/products/seminte-ardei-iute-verde-sigaretta-bionda-agrosem-0-5-gr): Seminte Ardei Iute Verde SIGARETTA BIONDA (0.5 GR) – fructe alungite 15–20 cm, verde → roșu, gust picant intens. Perfect pentru murături, gătit și consum proaspăt!
+  Updated: 2025-11-25T07:18:19Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.46.jpg?v=1739902605
   Price: 2,99 lei RON
-- [Seminte Ardei Kapia CORNO DI TORO ROSSO, AGROSEM - 0.7 GR](https://depozitulgradinarului.ro/products/seminte-ardei-kapia-corno-di-toro-rosso-agrosem-0-7-gr): Soi semi-timpuriu, foarte productiv, cu creștere determinată. Fructele au o formă conică, alungită, de culoare roșie, ajungând la o greutate de 80-100 grame/fruct.
-  Updated: 2025-07-29T08:25:47Z
+- [Seminte Ardei Kapia CORNO DI TORO ROSSO, AGROSEM - 0.7 GR](https://depozitulgradinarului.ro/products/seminte-ardei-kapia-corno-di-toro-rosso-agrosem-0-7-gr): Seminte Ardei Kapia CORNO DI TORO ROSSO (0.7 GR) – ardei mare, 18–22 cm, roșu intens, pulpa dulce și aromată. Perfect pentru grătar, salate, gătit și conservare!
+  Updated: 2025-11-25T07:11:37Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.46_2.jpg?v=1739902643
   Price: 2,99 lei RON
-- [Seminte Ardei URECHE DE ELEFANT, AGROSEM - 0.7 GR](https://depozitulgradinarului.ro/products/seminte-ardei-ureche-de-elefant-agrosem-0-7-gr): Soi de ardei kapia de camp,adaptat conditiilor din Romania ce prezinta rezistenta la boli. Soiul este viguros, foarte productiv, fructele sunt mari de cca 250-300g si foarte dulci.
-  Updated: 2025-07-26T03:48:50Z
+- [Seminte Ardei URECHE DE ELEFANT, AGROSEM - 0.7 GR](https://depozitulgradinarului.ro/products/seminte-ardei-ureche-de-elefant-agrosem-0-7-gr): Seminte Ardei URECHE DE ELEFANT, AGROSEM (0.7 GR) – fructe mari 18–20 cm, roșii, dulci și aromate. Ideal pentru grătar, salate, murături și conservare!
+  Updated: 2025-11-25T07:08:53Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.46_3.jpg?v=1739902763
   Price: 2,99 lei RON
-- [Seminte Castraveti DELIKATESS, AGROSEM – 3 GR](https://depozitulgradinarului.ro/products/seminte-broccoli-agrosem-5-gr): Soi productiv semitimpuriu cu fructe de culoare verde, crocante si gustoase. Planta are o crestere viguroasa. Se consuma proaspeti sau conservati.
-  Updated: 2025-07-27T00:49:19Z
+- [Seminte Castraveti DELIKATESS, AGROSEM – 3 GR](https://depozitulgradinarului.ro/products/seminte-broccoli-agrosem-5-gr): Seminte Castraveti DELIKATESS, Agrosem (3 GR) – soi timpuriu, fructe cilindrice 8–12 cm, verzi, crocante și gustoase. Ideal pentru salate, murături și consum proaspăt!
+  Updated: 2025-11-25T07:06:03Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.47.jpg?v=1739902813
   Price: 2,99 lei RON
-- [Seminte Castraveti LUNGO VERDE DEGLI ORTOLANI, AGROSEM – 3 GR](https://depozitulgradinarului.ro/products/seminte-castraveti-lungo-verde-degli-ortolani-agrosem-3-gr): Varietate mediu-tardiva , planta viguroasa cu productie buna. Fructele sunt cilindrice de culoare verde-inchis, cu putini spini si gust intens. Germinatie minima 80%, puritate 98% ,cca 30 seminte/gram.
-  Updated: 2025-07-25T19:28:01Z
+- [Seminte Castraveti LUNGO VERDE DEGLI ORTOLANI, AGROSEM – 3 GR](https://depozitulgradinarului.ro/products/seminte-castraveti-lungo-verde-degli-ortolani-agrosem-3-gr): Seminte Castraveti LUNGO VERDE DEGLI ORTOLANI – soi italian timpuriu, foarte productiv, fructe lungi 20–25 cm, crocante, fără amăreală. Perfect pentru salate!
+  Updated: 2025-11-25T06:58:06Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17.jpg?v=1740078189
   Price: 2,99 lei RON
-- [Seminte Castraveti MARKETMORE, AGROSEM – 3 GR](https://depozitulgradinarului.ro/products/seminte-castraveti-marketmore-agrosem-3-gr): Soi semi tardiv de tip semi lung, destinat atât culturilor protejate cât și culturilor de câmp. Fructele au o culoare verde închis, sunt foarte gustoase și au o lungime de 20-22 cm. Este destinat consumului în stare proaspătă.
-  Updated: 2025-07-27T20:44:01Z
+- [Seminte Castraveti MARKETMORE, AGROSEM – 3 GR](https://depozitulgradinarului.ro/products/seminte-castraveti-marketmore-agrosem-3-gr): Seminte Castraveti MARKETMORE, AGROSEM – soi tardiv, super rezistent la boli, cu fructe mari de 18–20 cm, crocante și fără amăreală. Producție sigură si stabilă!
+  Updated: 2025-11-25T06:56:16Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_10.jpg?v=1740078634
   Price: 2,99 lei RON
-- [Seminte Castraveti PICCOLO DI PARIGI, AGROSEM – 3 GR](https://depozitulgradinarului.ro/products/seminte-castraveti-piccolo-di-parigi-agrosem-3-gr): Soi cu fructe de mici dimensiuni 9/2 cm, de culoare verde deschis. Este o varietate foarte productiva, fiind recomandata pentru conservare. Este necesara irigarea de-a lungul întregii perioade de vegetație.
-  Updated: 2025-07-28T15:20:27Z
+- [Seminte Castraveti PICCOLO DI PARIGI, AGROSEM – 3 GR | Fără Amăreală!](https://depozitulgradinarului.ro/products/seminte-castraveti-piccolo-di-parigi-agrosem-3-gr): Seminte Castraveti PICCOLO DI PARIGI, AGROSEM – soi timpuriu, super productiv, cu fructe mici 8–10 cm, perfecte pentru murături crocante și uniforme. Gust excelent, fără amăreală!
+  Updated: 2025-11-25T06:43:26Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.47_1.jpg?v=1739902847
   Price: 2,99 lei RON
 - [Seminte Ceapa Alba WHITE QUEEN, AGROSEM - 1.5 GR](https://depozitulgradinarului.ro/products/seminte-ceapa-alba-white-queen-agrosem-1-5-gr): Seminte Ceapa Alba WHITE QUEEN, AGROSEM (1.5 GR) – Ceapă albă mare, dulce și suculentă, perfectă pentru salate, gătit și conservare cu aspect comercial excelent.
-  Updated: 2025-11-23T15:31:43Z
+  Updated: 2025-11-24T03:31:47Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/ceapa_alba.jpg?v=1739372093
   Price: 2,99 lei RON
 - [Seminte Ceapa Galbena STUTTGART GIANT, AGROSEM - 1.5 GR](https://depozitulgradinarului.ro/products/seminte-ceapa-galbena-stuttgart-giant-agrosem-1-5-gr): Seminte Ceapa Galbena STUTTGART GIANT, AGROSEM (1.5 GR) – Ceapă mare, aromată și ușor picantă, perfectă pentru salate, gătit și păstrare pe termen lung.
-  Updated: 2025-11-23T15:14:07Z
+  Updated: 2025-11-24T03:13:16Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.47_2.jpg?v=1739902877
   Price: 2,99 lei RON
 - [Seminte Ceapa Rosie TROPEANA LUNGA, AGROSEM - 1.5 GR](https://depozitulgradinarului.ro/products/seminte-ceapa-rosie-tropeana-lunga-agrosem-1-5-gr): Seminte Ceapa Rosie TROPEANA LUNGA, AGROSEM (1.5 GR) – Ceapă dulce și suculentă, bulbi mari și alungiți, perfectă pentru salate, gătit și rețete savuroase.
-  Updated: 2025-11-23T15:04:22Z
+  Updated: 2025-11-24T03:04:25Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.47_3.jpg?v=1739902909
   Price: 2,99 lei RON
 - [Seminte Conopida IGLOO, AGROSEM – 1 GR | Conopidă Tardivă, Alb Imaculat](https://depozitulgradinarului.ro/products/seminte-conopida-igloo-agrosem-1-gr): Seminte Conopida IGLOO, AGROSEM (1 GR) – obține conopidă mare, albă și crocantă în grădina ta! Ideală pentru salate, supe, congelare sau preparate delicioase.
-  Updated: 2025-11-23T15:09:58Z
+  Updated: 2025-11-24T02:47:20Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.48.jpg?v=1739902955
   Price: 2,99 lei RON
 - [Seminte Conopida SNOW BALL, AGROSEM - 1 GR](https://depozitulgradinarului.ro/products/seminte-conopida-snow-ball-agrosem-1-gr): Seminte Conopida SNOW BALL, AGROSEM – conopidă tardivă, inflorescențe mari, albe și ferme, ideală pentru consum proaspăt, gătit, congelare și industrializare.
-  Updated: 2025-11-23T14:46:24Z
+  Updated: 2025-11-24T02:44:42Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.48_1.jpg?v=1739902983
   Price: 2,99 lei RON
 - [Seminte Dovleac BERETTINA, AGROSEM - 2 GR](https://depozitulgradinarului.ro/products/seminte-dovleac-berettina-agrosem-2-gr): Seminte Dovleac BERETTINA, AGROSEM (2 GR) – dovleac italian mare, dulce și aromat, perfect pentru piureuri, supe, plăcinte și păstrare pe termen lung.
-  Updated: 2025-11-23T14:40:58Z
+  Updated: 2025-11-24T02:41:02Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_17.jpg?v=1740078836
   Price: 2,99 lei RON
 - [Seminte Dovleac MOSCATA PROVENZA, AGROSEM - 2 GR](https://depozitulgradinarului.ro/products/seminte-dovleac-moscata-provenza-agrosem-2-gr): Seminte Dovleac MOSCATA PROVENZA, AGROSEM (2 GR) – dovleac mare, portocaliu, dulce și parfumat. Ideal pentru supe, piureuri, plăcinte și păstrare.
-  Updated: 2025-11-23T14:38:15Z
+  Updated: 2025-11-24T02:38:19Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_7.jpg?v=1740078501
   Price: 2,99 lei RON
 - [Seminte Dovlecel BOLOGNESE, AGROSEM – 4 GR](https://depozitulgradinarului.ro/products/seminte-dovlecel-bolognese-agrosem-4-gr): Seminte Dovlecel BOLOGNESE, AGROSEM (4 GR) – dovlecei verzi timpurii, cilindrici, cu pulpa fragedă și gustoasă. Ideali pentru gătit, grătar sau conservare.
-  Updated: 2025-11-23T14:33:56Z
+  Updated: 2025-11-24T02:34:00Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_9.jpg?v=1740078591
   Price: 2,99 lei RON
 - [Seminte Dovlecel GREY ZUCCHINI, AGROSEM – 4 GR](https://depozitulgradinarului.ro/products/seminte-dovlecel-grey-zucchini-agrosem-4-gr): Seminte Dovlecel GREY ZUCCHINI, AGROSEM (4 GR) – dovlecei gri timpurii, foarte productivi, cu pulpa fragedă și gustoasă. Ideali pentru gătit și conservare.
-  Updated: 2025-11-23T14:30:33Z
+  Updated: 2025-11-24T02:30:37Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.48_3.jpg?v=1739903327
   Price: 2,99 lei RON
 - [Seminte Dovlecel NERO DI MILANO, AGROSEM – 4 GR](https://depozitulgradinarului.ro/products/seminte-dovlecel-nero-di-milano-agrosem-4-gr): Seminte Dovlecel NERO DI MILANO, AGROSEM (4 GR) – dovlecei negri, timpurii, foarte productivi. Fructe subțiri, gustoase, ideale pentru gătit și conserve.
-  Updated: 2025-11-23T14:25:24Z
+  Updated: 2025-11-24T02:25:29Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.48_4.jpg?v=1739903403
   Price: 2,99 lei RON
 - [Seminte Dovlecel WHITE OF TRIESTE, AGROSEM – 4 GR](https://depozitulgradinarului.ro/products/seminte-dovlecel-white-of-trieste-agrosem-4-gr): Seminte Dovlecel WHITE OF TRIESTE, AGROSEM (4 GR) – dovlecei albi, timpurii, extrem de productivi. Pulpa fragedă și gustoasă, ideală pentru orice preparat.
-  Updated: 2025-11-23T14:20:03Z
+  Updated: 2025-11-24T02:19:44Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -2296,6 +2324,13 @@ Fasole Pitică cu Păstăi Subțiri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.44_2.jpg?v=1739902457
   Price: 22,00 lei RON
+- [Seminte Ardei Gras Unguresc, GRADINA FERMECATA – 0.4 GR](https://depozitulgradinarului.ro/products/seminte-ardei-gras-unguresc-gradina-fermecata-0-4-gr): Semințe Ardei Gras Unguresc, 0.4 GR – fructe tronconice, galben deschis, soi rezistent la boli, ideal pentru grădină și cultură protejată sau câmp.
+  Updated: 2025-11-24T18:35:06Z
+  Vendor: Grădina Fermecată
+  Product Type: Seminte Legume
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/1_c46e0529-2fc7-4106-b69f-4f712b41d435.jpg?v=1739384302
+  Price: 1,99 lei RON
 - [Seminte Ardei Iute Rosu CAYENNA, GRADINA FERMERCATA - 0.4 GR](https://depozitulgradinarului.ro/products/seminte-ardei-iute-rosu-cayenna-gradina-fermercata-0-4-gr): Semințe Ardei Iute Roșu Cayenna, 0.4 GR – fructe tronconice, galben deschis la maturitate, soi rezistent, ideal pentru grădină și cultură protejată. Picant & Productiv.
   Updated: 2025-11-03T06:30:49Z
   Vendor: Grădina Fermecată
@@ -3982,7 +4017,7 @@ Livrare rapidă!
   Updated: 2025-10-27T08:15:08Z
   Total Products: 3
 - [Sămânță Porumb Saaten Union | Producție Ridicată & Toleranță Excelentă](https://depozitulgradinarului.ro/collections/samanta-porumb-saaten-union): Descoperă sămânța de porumb Saten Union – hibrizi performanți, producție ridicată, toleranță la secetă și adaptabilitate excelentă. Comandă online de la Depozitul Grădinarului!
-  Updated: 2025-10-27T08:14:25Z
+  Updated: 2025-11-24T12:37:11Z
   Total Products: 8
 - [Sămânță de Porumb Turda | Hibrizi Românești cu Producție Ridicată](https://depozitulgradinarului.ro/collections/samanta-porumb-turda): Cumpără sămânță de porumb Turda – hibrizi românești cu producție ridicată, adaptați solurilor din România, randament mare, rezistență la secetă și preț avantajos. Ideală pentru boabe. Livrare rapidă!
   Updated: 2025-05-29T15:22:58Z
@@ -3994,10 +4029,10 @@ Livrare rapidă!
   Updated: 2025-11-09T12:00:42Z
   Total Products: 18
 - [Semințe de Legume Profesionale, Hibrizi și Tradiționale](https://depozitulgradinarului.ro/collections/seminte-legume): Descoperă gama noastră variată de semințe de legume: profesionale, hibrizi și tradiționale. Alege semințe de calitate superioară pentru o recoltă bogată și sănătoasă în grădina sau sera ta.
-  Updated: 2025-11-19T15:43:46Z
+  Updated: 2025-11-25T16:02:28Z
   Total Products: 125
 - [Semințe Pepene Verde și Galben – Soiuri Productive](https://depozitulgradinarului.ro/collections/seminte-fructe): Alege semințe de pepene verde și galben cu germinare rapidă și randament ridicat. Disponibile soiuri tradiționale și hibride profesionale.
-  Updated: 2025-11-08T09:56:16Z
+  Updated: 2025-11-25T18:51:58Z
   Total Products: 7
 - [Semințe Plante Aromatice | Busuioc, Mentă, Rozmarin, Oregano, Cimbru, Tarhon, Lavamdă, Salvie, Rucola, Mărar, Măcriș, Leuștean, Coriandru](https://depozitulgradinarului.ro/collections/seminte-plante-aromatice): Descoperă semințe de plante aromatice pentru grădină sau balcon: busuioc, mentă, oregano, cimbru, rozmarin, lavandă și altele. Soiuri productive, gustoase și ușor de cultivat.
   Updated: 2025-07-21T09:25:56Z
@@ -4009,7 +4044,7 @@ Livrare rapidă!
   Updated: 2025-11-05T13:43:42Z
   Total Products: 17
 - [Semințe Grădina Fermecată | Legume, Pepene verde și pepene galben](https://depozitulgradinarului.ro/collections/seminte-gradina-fermecata): Descoperă gama noastră de semințe Grădina Fermecată: legume, pepene verde și pepene galben, de calitate superioară. Alege semințele perfecte pentru grădina ta și bucură-te de o recoltă bogată și sănătoasă.
-  Updated: 2025-11-02T18:33:35Z
+  Updated: 2025-11-24T18:35:06Z
   Total Products: 44
 - [Semințe Floarea-Soarelui Pioneer - Semințe Profesionale](https://depozitulgradinarului.ro/collections/seminte-floarea-soarelui-pioneer): Semințe profesionale de floarea-soarelui Pioneer – hibrizi productivi, rezistenți la secetă și boli, cu producții mari și conținut ridicat de ulei. Clearfield® și Express®Sun.
   Updated: 2025-10-27T08:16:24Z
@@ -4021,7 +4056,7 @@ Livrare rapidă!
   Updated: 2025-10-27T08:16:24Z
   Total Products: 16
 - [Sâmânță de Porumb](https://depozitulgradinarului.ro/collections/samanta-porumb): Descoperă gama noastră de sămânță porumb și hibrizi de înaltă performanță, ideale pentru o recoltă bogată. Alege semințe de calitate superioară pentru însămânțări eficiente și profitabile.
-  Updated: 2025-10-27T08:50:37Z
+  Updated: 2025-11-24T12:37:11Z
   Total Products: 49
 - [FAO 200 - 299 KWS](https://depozitulgradinarului.ro/collections/fao-200-299-kws)
   Updated: 2025-05-29T15:22:59Z
@@ -4123,7 +4158,7 @@ Livrare rapidă!
   Updated: 2025-10-27T08:14:25Z
   Total Products: 8
 - [FAO 400 - 499 Saaten Union](https://depozitulgradinarului.ro/collections/fao-400-499-saaten-union)
-  Updated: 2025-07-10T20:01:05Z
+  Updated: 2025-11-24T12:37:11Z
   Total Products: 2
 - [FAO 500 - 599 Saaten Union](https://depozitulgradinarului.ro/collections/fao-500-599-saaten-union)
   Updated: 2025-05-29T15:23:01Z
@@ -4201,11 +4236,11 @@ Livrare rapidă!
   Updated: 2025-11-16T12:28:50Z
   Total Products: 131
 - [Semințe de Grădină – Legume, Fructe, Flori și Plante Aromatice](https://depozitulgradinarului.ro/collections/seminte-gradina): Explorează selecția noastră de semințe de grădină: legume sanatoase, fructe gustoase, flori colorate și plante aromatice - germinare rapidă. Alege semințe de calitate pentru o grădină roditoare și plină de culoare. Soiuri românești și profesionale pentru o grădină productivă și sănătoasă.
-  Updated: 2025-11-19T15:43:46Z
+  Updated: 2025-11-25T18:51:58Z
   Total Products: 206
 - [Semințe pentru Agricultură | Porumb, Floarea-Soarelui, Plante Furajere](https://depozitulgradinarului.ro/collections/seminte-agricultura): Cumpără semințe agricole profesionale: porumb, floarea-soarelui și plante furajere. Soiuri productive, rezistente la secetă și boli. 
 Livrare rapidă!
-  Updated: 2025-10-29T12:31:07Z
+  Updated: 2025-11-24T12:37:11Z
   Total Products: 49
 - [Îngrășăminte de calitate | Naturale, Chimice, Foliare, Granulate](https://depozitulgradinarului.ro/collections/ingrasaminte): Îngrășăminte de calitate pentru plante sănătoase și recolte bogate - alege îngrășăminte naturale, chimice, foliare sau granulate pentru o creștere optimă.
   Updated: 2025-11-23T15:01:19Z
@@ -4247,7 +4282,7 @@ Livrare rapidă!
   Updated: 2025-10-27T08:23:15Z
   Total Products: 34
 - [Sămânță Porumb FAO 400 - 499](https://depozitulgradinarului.ro/collections/samanta-porumb-fao-400-499)
-  Updated: 2025-10-27T08:50:37Z
+  Updated: 2025-11-24T12:37:11Z
   Total Products: 9
 - [Sămânță Porumb FAO 500 -599](https://depozitulgradinarului.ro/collections/samanta-porumb-fao-500-599)
   Updated: 2025-05-29T15:23:03Z
@@ -4289,7 +4324,7 @@ Livrare rapidă!
   Updated: 2025-10-27T08:50:37Z
   Total Products: 9
 - [Semințe 2.99 RON](https://depozitulgradinarului.ro/collections/semințe-sub-2-99-ron)
-  Updated: 2025-11-19T15:43:46Z
+  Updated: 2025-11-25T18:51:58Z
   Total Products: 123
 - [Pachete Tratament Pomi Fructiferi – Protecție completă împotriva bolilor și dăunătorilor](https://depozitulgradinarului.ro/collections/pachete-tratament-pomi): Descperă pachetele tratament pentru pomi fructiferi, eficiente împotriva bolilor și dăunătorilor, pentru protejarea pomilor fructiferi și maximizarea producției. Descoperă pachete tratament pomi adaptate fiecărei faze de vegetație.
   Updated: 2025-10-26T17:08:55Z
@@ -4347,58 +4382,75 @@ Livrare rapidă!
 
 - [Articole, Studii de Caz și Recomandări - Depozitul Grădinarului](https://depozitulgradinarului.ro/blogs/articole): Din pasiune pentru agricultură și grădinărit, postăm săptămânal articole despre grădinărit și agricultură. Recomandări de utilizare direct de la Ingineri agronomi.
   - [AGROSAN B : Soluția Eficientă împotriva Melcilor din grădina dumneavoastră!](https://depozitulgradinarului.ro/blogs/articole/agrosan-b-solutia-eficienta-impotriva-melcilor-din-gradina-dumneavoastra)
-    Updated: 2025-03-26T13:26:34Z
+    Updated: 2025-11-25T17:57:14Z
     Author: Sântimbrean Marius
   - [Gazonul Universal: Soluția Ideală pentru o Peluză Perfectă](https://depozitulgradinarului.ro/blogs/articole/gazonul-universal-soluția-ideala-pentru-o-peluza-perfecta)
-    Updated: 2025-02-18T19:43:32Z
+    Updated: 2025-11-25T17:45:57Z
     Author: Sântimbrean Marius
+    Tags: gazon
   - [Îngrășământul Foliar Cropmax: Stimularea Creșterii și Dezvoltării Plantelor](https://depozitulgradinarului.ro/blogs/articole/ingrasamantul-foliar-cropmax-stimularea-cresterii-si-dezvoltarii-plantelor)
-    Updated: 2025-03-26T13:25:27Z
+    Updated: 2025-11-25T17:55:57Z
     Author: Sântimbrean Marius
   - [Pesticide naturale vs chimice | Depozitul Grădinarului](https://depozitulgradinarului.ro/blogs/articole/pesticide-naturale-vs-chimice-ghid-responsabil): Pesticide naturale vs chimice | Depozitul Grădinarului
-    Updated: 2025-10-21T12:03:47Z
+    Updated: 2025-11-25T19:26:05Z
     Author: Sântimbrean Marius
     Tags: agricultură responsabilă, biopesticide, Depozitul Grădinarului, IPM, pesticide chimice, pesticide naturale, protecția culturilor, reziduuri MRL, siguranță alimentară, tratamente fitosanitare
-  - [Sisteme irigare smart: economisește apă și timp | Depozitul Grădinarului](https://depozitulgradinarului.ro/blogs/articole/sisteme-irigare-smart-economiseste-apa-timp): Sisteme irigare smart: economisește apă și timp | Depozitul Grădinarului
-    Updated: 2025-10-21T15:00:18Z
+  - [Sisteme de Irigare Smart: Picurare vs Aspersie.](https://depozitulgradinarului.ro/blogs/articole/sisteme-irigare-smart-economiseste-apa-timp): Sisteme de Irigare Smart: Picurare vs Aspersie.
+    Updated: 2025-11-25T18:09:49Z
     Author: Sântimbrean Marius
     Tags: aspersoare grădină, automatizare grădină, Depozitul Grădinarului, economisire apă, fertigare, irigare inteligentă, irigare prin picurare, pompe irigație, sisteme de irigare, tehnologie agricolă
   - [Semințe de porumb: diferențe între soiuri tradiționale și hibrizi F1](https://depozitulgradinarului.ro/blogs/articole/seminte-porumb-soiuri-vs-hibrizi): Semințe de porumb: diferențe între soiuri tradiționale și hibrizi F1
-    Updated: 2025-11-01T13:15:23Z
+    Updated: 2025-11-25T18:38:42Z
     Author: Sântimbrean Marius
     Tags: hibrizi, porumb, Semințe hibride, soiuri tradiționale
   - [Cum alegi semințele pentru grădina ta: ghid rapid și practic](https://depozitulgradinarului.ro/blogs/articole/cum-sa-alegi-semintele-pentru-gradina-ta): Cum alegi semințele pentru grădina ta: ghid rapid și practic
-    Updated: 2025-11-01T13:15:44Z
+    Updated: 2025-11-24T16:54:58Z
     Author: Sântimbrean Marius
     Tags: Depozitul Grădinarului, pelleted, primed, seminte
   - [Ce este un pachet de tratament integrat și cum îți crește producția](https://depozitulgradinarului.ro/blogs/articole/ce-este-un-pachet-de-tratament-integrat-si-cum-iti-crește-productia): Ce este un pachet de tratament integrat și cum îți crește producția
-    Updated: 2025-11-01T13:15:14Z
+    Updated: 2025-11-25T19:20:52Z
     Author: Sântimbrean Marius
     Tags: pachete de tratament
   - [Furaje și Concentrate pentru Porci: Ghid pe Faze de Creștere](https://depozitulgradinarului.ro/blogs/articole/furaje-concentrate-porci-ghid-nutritie-pe-faze): Furaje și Concentrate pentru Porci: Ghid pe Faze de Creștere
-    Updated: 2025-11-01T13:14:57Z
+    Updated: 2025-11-24T16:54:14Z
     Author: Sântimbrean Marius
     Tags: concentrate, furaje, porci
   - [Îngrășăminte Bio și Fertilizare Organică – Ghid Practic](https://depozitulgradinarului.ro/blogs/articole/ingrasaminte-bio-fertilizare-organica-ghid): Îngrășăminte Bio și Fertilizare Organică – Ghid Practic
-    Updated: 2025-11-01T13:15:32Z
+    Updated: 2025-11-25T19:40:42Z
     Author: Sântimbrean Marius
     Tags: biopesticide, concentrate, Fertilizare Organică, îngrășăminte bio
   - [DIY Casă & grădină: 8 proiecte rapide, buget mic](https://depozitulgradinarului.ro/blogs/articole/diy-casa-gradina-proiecte-rapide-buget-mic): DIY Casă & grădină: 8 proiecte rapide, buget mic
-    Updated: 2025-11-01T13:15:06Z
+    Updated: 2025-11-25T19:21:46Z
     Author: Sântimbrean Marius
     Tags: Proiecte DIY
   - [Lucernă, trifoi și amestecuri - ghid Depozitul Grădinarului](https://depozitulgradinarului.ro/blogs/articole/lucerna-trifoi-amestecuri-furajere-ghid): Lucernă, trifoi și amestecuri - ghid Depozitul Grădinarului
-    Updated: 2025-11-04T16:31:00Z
+    Updated: 2025-11-25T19:02:28Z
     Author: Sântimbrean Marius
     Tags: lucernă, plante furajere, trifoi
   - [Comenzi en-gros pesticide, ingrasaminte si seminte](https://depozitulgradinarului.ro/blogs/articole/comenzi-en-gros-pesticide-ingrasaminte-si-seminte): Comenzi en-gros pesticide, ingrasaminte si seminte
-    Updated: 2025-11-13T16:00:30Z
+    Updated: 2025-11-25T18:39:41Z
     Author: Sântimbrean Marius
     Tags: Depozitul Grădinarului, en-gros, pesticide
   - [Catalog en-gros 2025–2026 Depozitul Gradinarului](https://depozitulgradinarului.ro/blogs/articole/catalog-en-gros-2025-2026-depozitul-gradinarului): Catalog en-gros 2025–2026 Depozitul Gradinarului
-    Updated: 2025-11-20T16:03:21Z
+    Updated: 2025-11-25T19:20:13Z
     Author: Sântimbrean Marius
     Tags: agricultură responsabilă, catalog en-gros, îngrășăminte bio
+  - [Ghid: Făinarea la roșii: cauze, simptome și tratamente eficiente](https://depozitulgradinarului.ro/blogs/articole/fainarea-la-rosii-tratamente-simptome-preventie): Ghid: Făinarea la roșii: cauze, simptome și tratamente eficiente
+    Updated: 2025-11-25T19:34:43Z
+    Author: Sântimbrean Marius
+    Tags: fainare, ghid complet, roșii, tratamente
+  - [Mană la cartofi: simptome, cauze și tratament eficient cu Zorvec](https://depozitulgradinarului.ro/blogs/articole/mana-cartofi-tratament-cu-zorvec-ghid-complet): Mană la cartofi: simptome, cauze și tratament eficient cu Zorvec
+    Updated: 2025-11-25T19:34:43Z
+    Author: Sântimbrean Marius
+    Tags: cartofi, mană, Phytophthora infestans, tratamente
+  - [Paianjenul rosu la rosii: simptome, prevenire si tratament eficient](https://depozitulgradinarului.ro/blogs/articole/paianjenul-rosu-la-rosii-tratamente-simptome-prevenire): Paianjenul rosu la rosii: simptome, prevenire si tratament eficient
+    Updated: 2025-11-25T19:34:43Z
+    Author: Sântimbrean Marius
+    Tags: ghid complet, insecticide, paianjen roșu, roșii
+  - [Ofilirea tomatelor: cauze, simptome și tratamente eficiente](https://depozitulgradinarului.ro/blogs/articole/ofilirea-tomatelor-fusarium-verticillium-tratamente): Ofilirea tomatelor: cauze, simptome și tratamente eficiente
+    Updated: 2025-11-25T19:34:43Z
+    Author: Sântimbrean Marius
+    Tags: fusarium, ofilirea vasculară, roșii, tomate, tratamente, verticillium
 
 ## Store Pages
 
