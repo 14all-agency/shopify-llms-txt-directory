@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2024-11-01T17:53:57Z
 - Contact Email: sglobalresorts@gmail.com
-- Updated At: 2025-11-24T00:00:58.338Z
+- Updated At: 2025-11-26T00:01:07.811Z
 
 ## Products
 
@@ -2735,7 +2735,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/7738227177687659756_2048_6ea9fadc-5fba-41eb-8189-4466d653bfd9.jpg?v=1754882099
     Price: $55.15 USD
 - [Chic Goat-Accent Leggings for Stylish Workouts](https://oceanfrontproducts.com/products/chic-goat-accent-leggings-blend-style-and-comfort-in-your-fitness-journey-1): Step into your workout with flair in our Chic Goat-Accent Leggings. These leggings are a perfect match for our Colorful Goat Graphic Sports Bra, designed for those who love to coordinate their fitness wear with a touch of whimsical charm.
-  Updated: 2025-11-09T01:25:20Z
+  Updated: 2025-11-24T10:23:33Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -15956,6 +15956,10 @@
     Updated: 2025-11-23T10:02:07Z
     Author: Oceanfront Products
     Tags: apparel, beachwear for travelers, luxe travel, luxury travel accessories, oceanfront style, sweatshirts, travel, travel essentials, travel planner, tshirts, vacation essentials, wanderlust
+  - [Elevate Your Coastal Travel Escape with the Sunset Beach Tee: Where Effortless Style Meets Unmatched Relaxation](https://oceanfrontproducts.com/blogs/journal/elevate-your-coastal-travel-escape-with-the-sunset-beach-tee-where-effortless-style-meets-unmatched-relaxation): Elevate Your Coastal Travel Escape with the Sunset Beach Tee: Where Effortless Style Meets Unmatched Relaxation
+    Updated: 2025-11-24T10:07:45Z
+    Author: Oceanfront Products
+    Tags: apparel, beach, beach getaway outfits, coastal fashion, effortless chic, relaxation, summer vacation essentials, sunset styles, sweatshirts, travel, travel essentials, travel planner, tshirts
 
 ## Store Pages
 
