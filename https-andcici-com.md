@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-03-05T09:19:25Z
 - Contact Email: hello@andcici.com
-- Updated At: 2025-11-25T00:01:30.495Z
+- Updated At: 2025-11-26T00:01:09.364Z
 
 ## Products
 
@@ -1196,7 +1196,7 @@
   Updated: 2025-11-09T12:16:43Z
   Total Products: 62
 - [Art Revolution Collection](https://andcici.com/collections/art-revolution-collection): We would like to pay homage to the artists who revolutionised the art scene in today’s world and hope to bring awareness to our customers on the contributions these profound artists made.
-  Updated: 2025-11-23T12:17:12Z
+  Updated: 2025-11-25T12:22:06Z
   Total Products: 77
 - [Floral Collection](https://andcici.com/collections/floral-collection): Discover the beauty of nature with Andcici's Floral Tote Bag Collection, where art and elegance blossom together. Each bag in this collection features exquisite floral designs inspired by famous artworks, bringing the timeless charm of classic paintings into your daily life. Crafted with care and printed on high-quality materials, these totes are perfect for art lovers and nature enthusiasts alike. Carry a piece of art with you and let the vibrant, detailed floral patterns brighten your day.
   Updated: 2025-11-23T12:17:12Z
@@ -1208,7 +1208,7 @@
   Updated: 2025-11-09T12:16:43Z
   Total Products: 12
 - [William Morris](https://andcici.com/collections/william-morris): William Morris was a British textile artist, writer, and designer who was a major leader in the Arts and Crafts Movement of the 19th century. He revolutionized the decorative arts with his intricate designs and notable use of color and pattern. His works included stained glass, wallpaper, furniture, and fabric, and his influence can still be seen today in many modern designs. His passion for craftsmanship and commitment to beauty remain an inspiration to artisans and designers everywhere.
-  Updated: 2025-08-18T11:13:50Z
+  Updated: 2025-11-25T12:22:06Z
   Total Products: 6
 - [Van Gogh](https://andcici.com/collections/van-gogh): Vincent Willem Van Gogh (30 March 1853 - 29 July 1890) was a Dutch Post-impressionist painter born in North Brabant, Netherlands. He was an influential Post-Impressionist painter who is still widely regarded as one of the most important figures in the history of art. After his passing, he became one of the most famous & influential figures in Western Art History. In a decade, he created about 2,100 artworks, including Starry Night, The Potato Eaters and Sunflowers
   Updated: 2025-11-23T12:17:12Z
@@ -1217,10 +1217,10 @@
   Updated: 2025-05-18T09:50:50Z
   Total Products: 1
 - [AVADA - Best Sellers](https://andcici.com/collections/avada-best-sellers)
-  Updated: 2025-11-23T12:17:12Z
+  Updated: 2025-11-25T12:22:06Z
   Total Products: 149
 - [Shop All](https://andcici.com/collections/shop-all)
-  Updated: 2025-11-23T12:17:12Z
+  Updated: 2025-11-25T12:22:06Z
   Total Products: 149
 - [Best Sellers](https://andcici.com/collections/best-sellers)
   Updated: 2025-11-23T12:17:12Z
