@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-11-24T00:00:27.380Z
+- Updated At: 2025-11-26T00:01:07.822Z
 
 ## Products
 
@@ -1612,7 +1612,7 @@
   Updated: 2025-11-07T15:53:12Z
   Total Products: 4
 - [Cat Grooming](https://theblissfulpets.com/collections/cat-grooming)
-  Updated: 2025-11-19T12:22:09Z
+  Updated: 2025-11-25T12:24:51Z
   Total Products: 14
 - [Cat Aromatherapy](https://theblissfulpets.com/collections/cat-aromatherapy)
   Updated: 2025-08-24T11:19:59Z
@@ -1633,13 +1633,13 @@
   Updated: 2025-09-05T11:19:00Z
   Total Products: 4
 - [Cat Sensitive Skin](https://theblissfulpets.com/collections/cat-sensitive-skin)
-  Updated: 2025-11-01T11:21:40Z
+  Updated: 2025-11-25T12:24:51Z
   Total Products: 5
 - [Shop All Horse](https://theblissfulpets.com/collections/shop-all-horse)
   Updated: 2025-11-14T12:21:40Z
   Total Products: 18
 - [Shop All Cat](https://theblissfulpets.com/collections/shop-all-cat)
-  Updated: 2025-11-19T18:44:34Z
+  Updated: 2025-11-25T12:24:51Z
   Total Products: 21
 - [Dog Aromatherapy](https://theblissfulpets.com/collections/dog-aromatherapy)
   Updated: 2025-10-14T11:18:02Z
