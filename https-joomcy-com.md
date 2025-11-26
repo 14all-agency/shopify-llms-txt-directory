@@ -6,7 +6,34 @@
 - Timezone: Europe/Athens
 - Created At: 2024-03-07T06:55:48Z
 - Contact Email: thegeneralvault@yahoo.com
-- Updated At: 2025-11-25T00:00:55.652Z
+- Updated At: 2025-11-26T00:00:51.375Z
+
+## Collections
+
+- [Automotive Services](https://joomcy.com/collections/automotive-services)
+  Updated: 2025-11-25T16:22:42Z
+  Total Products: 0
+- [Clothing Accessories](https://joomcy.com/collections/clothing-accessories)
+  Updated: 2025-11-25T16:22:44Z
+  Total Products: 0
+- [Hobbies & Creative Arts](https://joomcy.com/collections/hobbies-creative-arts)
+  Updated: 2025-11-25T16:22:44Z
+  Total Products: 0
+- [Building Materials](https://joomcy.com/collections/building-materials)
+  Updated: 2025-11-25T16:22:44Z
+  Total Products: 0
+- [Beds & Accessories](https://joomcy.com/collections/beds-accessories)
+  Updated: 2025-11-25T16:22:44Z
+  Total Products: 0
+- [Pet Supplies](https://joomcy.com/collections/pet-supplies)
+  Updated: 2025-11-25T16:22:45Z
+  Total Products: 0
+- [Party & Celebration](https://joomcy.com/collections/party-celebration)
+  Updated: 2025-11-25T16:22:46Z
+  Total Products: 0
+- [Lighting](https://joomcy.com/collections/lighting)
+  Updated: 2025-11-25T16:22:47Z
+  Total Products: 0
 
 ## Blogs
 
