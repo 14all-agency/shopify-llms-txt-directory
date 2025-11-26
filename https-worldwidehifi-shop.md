@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-11-24T00:01:37.713Z
+- Updated At: 2025-11-26T00:00:54.437Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -595,7 +595,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_e784db67-397b-4ac1-885b-ac3bf313b00c.jpg?v=1745852583
   Price: 1.399,00 € EUR
 - [English Electric Valve QB 3,5/750 NOS Ersatz kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/english-electric-valve-qb-3-5-750-nos-kaufen): English Electric Valve QB 3,5/750 NOS kaufen ✅ Tetrode neu und unbenutzt kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-15T18:01:02Z
+  Updated: 2025-11-24T15:51:01Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -2464,12 +2464,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_edfe927c-bc2a-4589-9a41-1cedc5898a09.jpg?v=1763717001
   Price: 290,00 € EUR
-- [Musical Fidelity M6x DAC gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/musical-fidelity-m6x-dac-gebraucht-kaufen): Musical Fidelity M6x DAC gebraucht kaufen ✅ Geprüfter Digital-Analog-Wandler mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-21T22:03:37Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Price: 1.480,00 € EUR
 - [Yamaha M-2 Stereo Power Amplifier gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/yamaha-m-2-stereo-power-amplifier-gebraucht-kaufen): Yamaha M-2 Stereo Power Amplifier gebraucht kaufen ✅ Geprüfte Endstufe mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-11-22T04:07:12Z
   Vendor: WorldWideHiFi
@@ -2545,7 +2539,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-08-30T11:22:02Z
   Total Products: 2
 - [HiFi Verstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-verstaerker-gebraucht-kaufen): HiFi Verstärker gebraucht kaufen ✓ Vollverstärker, Vorstufen, Endstufen, Röhrenverstärker & mehr im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-11-21T17:01:53Z
+  Updated: 2025-11-25T12:21:13Z
   Total Products: 112
 - [Gebrauchte Vollverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-vollverstaerker-kaufen): Gebrauchte Vollverstärker kaufen ✓ Einsteigermodelle bis High-End Audio gebraucht im Top-Zustand ✓ Sicherer Versand ✓ Preiswerte High-End HiFi online bestellen
   Updated: 2025-11-21T17:01:53Z
@@ -2557,7 +2551,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-11-21T17:01:53Z
   Total Products: 36
 - [Gebrauchte Röhrenverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-roehrenverstaerker-kaufen): Gebrauchte Röhrenverstärker kaufen ✓ Röhrenverstärker im Top-Zustand gebraucht kaufen ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
-  Updated: 2025-11-16T12:20:49Z
+  Updated: 2025-11-25T12:21:13Z
   Total Products: 6
 - [Plattenspieler Zubehör & Tonarme gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/collections/plattenspieler-zubehoer-tonarme-gebraucht): Plattenspieler Zubehör & Tonarme gebraucht kaufen ✓ Plattenspieler Zubehör & Tonarme im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-11-22T12:23:24Z
@@ -2605,14 +2599,14 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-11-22T09:26:16Z
   Total Products: 23
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-11-22T12:23:24Z
-  Total Products: 139
+  Updated: 2025-11-25T15:21:28Z
+  Total Products: 140
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-11-22T11:01:31Z
   Total Products: 25
 - [Neueste Produkte](https://worldwidehifi.shop/collections/neueste-produkte)
-  Updated: 2025-11-22T11:01:31Z
-  Total Products: 152
+  Updated: 2025-11-25T15:21:28Z
+  Total Products: 151
 
 ## Store Pages
 
