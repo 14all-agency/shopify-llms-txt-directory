@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-11-24T00:00:43.331Z
+- Updated At: 2025-11-26T00:00:59.716Z
 
 ## Products
 
@@ -1579,7 +1579,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/692.jpg?v=1730012820
   Price: ₹249.00 INR
 - [DOCTOR STRANGE KEYCHAIN](https://theworldofnerds.com/products/doctor-strange-keychain): Add a touch of personality to your keys with our vibrant character keychains! These keychains are made from high-quality, durable material and feature various adorable designs that cater to all ages. Our keychains are lightweight and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, shop now and elevate your key collection game.
-  Updated: 2025-07-29T05:11:17Z
+  Updated: 2025-11-25T09:31:25Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
