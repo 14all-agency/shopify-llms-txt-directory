@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2024-10-10T13:12:01Z
 - Contact Email: contact@droneagricole.ro
-- Updated At: 2025-11-24T00:00:44.009Z
+- Updated At: 2025-11-26T00:00:53.078Z
 
 ## Products
 
@@ -1040,7 +1040,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/2-_v2_-v4_Medium_1fe43619-8042-4a08-9d52-48974f6d18a2.png?v=1736847320
   Price: 30.800,00 lei RON
 - [DJI FlyCart 30](https://droneagricole.ro/products/dji-flycart-30): DJI FlyCart 30 este o dronă industrială robustă, concepută pentru sarcini de mare capacitate, precum livrarea de încărcături de până la 30 kg. Aceasta beneficiază de un sistem dual de baterii pentru o durată de zbor mai mare și include mai multe sisteme de siguranță, cum ar fi radarul și senzorii de viziune pentru detectarea obstacolelor, precum și un sistem de parașută pentru aterizări de urgență. Drona funcționează atât în mod „Cargo Mode” pentru descărcarea încărcăturii, cât și în mod „Winch Mode” pentru coborârea acesteia fără a ateriza. Având o protecție IP55, este capabilă să reziste în condiții de mediu dure, inclusiv vânturi de până la 12 m/s și temperaturi între -20°C și 45°C. FlyCart 30 reprezintă o soluție fiabilă pentru aplicații profesionale ce necesită atât autonomie, cât și precizie. Specificații Aeronavă Greutate: 42,5 kg (fără baterie) Greutate totală: 65 kg (cu două baterii DB2000) Greutatea maximă la decolare: 95 kg (cu sarcină utilă la nivelul mării) Dimensiuni: 1590 x 1900 x 947 mm (LxWxH) (brațele desfăcute, elicele pliate) 2800 x 3085 x 947 mm (LxWxH) (brațele și elicele desfăcute) 1115 x 760 x 1027 mm (LxWxH) (brațele și elicele pliate) Metodă de pliere: Către corp Număr baterii încărcabile: 2 Autonomie de zbor (greutate goală, cu capacitatea maximă a bateriilor): 29 min (mod dual baterie) 15 min (mod baterie unică) Autonomie de zbor (greutate maximă, cu capacitatea maximă a bateriilor): 18 min (sarcină de 30 kg, mod dual baterie) 8 min (sarcină de 40 kg, mod baterie unică) Distanța maximă de zbor (greutate goală, cu capacitatea maximă a bateriilor): 28 km (mod dual baterie) 12 km (mod baterie unică) Distanța maximă de zbor (greutate maximă, cu capacitatea maximă a bateriilor): 16 km (sarcină de 30 kg, mod dual baterie) 8 km (sarcină de 40 kg, mod baterie unică) Timpul maxim de zbor (greutate maximă, cu capacitatea maximă a bateriilor): 18 min (sarcină de 30 kg, mod dual baterie) 9 min (sarcină de 40 kg, mod baterie unică) Temperatură de operare: -20° la 45° C Grad de protecție: IP55 Sistem de Propulsie Dimensiune stator: 100x33 mm Valoare KV motor: 48 rpm/V Puterea maximă a motorului: 4000 W/rotor Materiale elice: Compozit de fibră de carbon Diametru elice: 54 inch Tip elice: Elice pliabile cu două lame Diametru rotor principal: 1375 mm Cantitate rotor: 8 Sisteme de Radar și Evitare Obstacole Radar activ cu fază activă pentru față și spate Numărul modelului: RD241608RF (față), RD241608RB (spate) Detectarea altitudinii: Interval fix de altitudine: 1,5-200 m Evitarea obstacolelor spate: Distanța sensibilă (spate): 1,5-50 m Viziune binoclu: FOV: Orizontal: 90°; Vertical: 106° Sistem FPV Rezoluție: 1920x1440 DFOV: 149° Tip: Cameră HD FPV cu un singur ax de gimbal Baterie și Încărcare Baterie inteligentă DJI DB2000 Capacitate: 38000 mAH Tensiune nominală: 52,22 V Tip: 14S1P Energie: 1984,4 Wh Greutate: Aproximativ 11,3 kg Încărcător DJI C8000 Intrare: 90-264 V AC Ieșire: 42-59,92 V DC Putere de ieșire maximă: 7200 W (Intrare dublă), 3600 W (Intrare unică) Timp de încărcare: 2 ore cu bateria încorporată, 2,5 ore cu bateria încorporată și externă Controler la Distanță Model: DJI RC Plus Temperatură de operare: -20° la 50° C Durata de viață a bateriei încorporate: 3,3 ore Timp de încărcare: 2 ore cu bateria încorporată Ecran: 7,02 inch, rezoluție 1920x1200, luminozitate 1200 nits Mod dual operator: Suportat Altele Aplicație: DJI Pilot 2
-  Updated: 2025-08-20T07:47:14Z
+  Updated: 2025-11-25T07:43:18Z
   Vendor: DJI
   Product Type: 
   Availability: Available
@@ -1690,12 +1690,12 @@
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/2.1.webp?v=1753112933
   Price: 27.599,00 lei RON
 - [Stativ Pneumatic MZ-3800FP 3.8m](https://droneagricole.ro/products/stativ-pneumatic-mz-3800fp-3-8m): MZ-3800FP este un stativ cu amortizare pneumatica si extensie telescopica de pana la 3.8 metri. Sistemul de amortizare pneumatica este ideal in special pentru reflectoarele halogene, in cazul carora durata de viata a becului este prelungita prin atenuarea semnificativa a socurilor mecanice. Sarcina maxima suportata este de 5kg - stativ solid, recomandat pentru echipament mai greu. Acest produs poate fi utilizat pentru DJI Relay și stațiile meteo D1, H2, 4G.
-  Updated: 2025-10-01T12:09:47Z
+  Updated: 2025-11-25T09:00:40Z
   Vendor: RIAGRO
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/stativ.jpg?v=1753113042
-  Price: 610,00 lei RON
+  Price: 765,00 lei RON
 - [DJI Dock 3](https://droneagricole.ro/products/dji-dock-3): DJI Dock 3 este soluția de ultimă generație pentru operațiuni complet autonome cu drone, dedicată mediului profesional. Conceput pentru lansare, aterizare și încărcare automată, Dock 3 permite gestionarea misiunilor fără intervenție umană, totul de la distanță, prin platforma DJI FlightHub 2. Fiind certificat IP56, DJI Dock 3 funcționează în orice condiții – de la –30°C până la +50°C, suportând ploaie, praf și vânt puternic. Se instalează ușor atât pe clădiri, cât și pe vehicule, ceea ce îl face ideal pentru inspecții mobile, intervenții de urgență sau supraveghere extinsă. Încărcarea rapidă a dronei (de la 15% la 95% în 27 de minute) și autonomia mare (până la 54 de minute de zbor pentru dronele Matrice 4D/4TD) asigură eficiență și disponibilitate non-stop. Stația dispune de baterie de rezervă, pentru funcționare neîntreruptă chiar și în caz de pană de curent. DJI Dock 3 oferă transmisie video avansată, conexiune stabilă prin Wi-Fi sau 4G și calibrări automate pentru fiecare misiune. Precizia RTK, camerele performante și tehnologia inteligentă transformă orice proiect de supraveghere, inspecție sau management de urgență într-o operațiune rapidă și sigură. DJI Dock 3 este perfect pentru automatizare reală, reducerea costurilor operaționale și control total asupra operațiunilor cu drone.
   Updated: 2025-08-20T07:46:56Z
   Vendor: RIAGRO
@@ -1787,7 +1787,7 @@
   Updated: 2025-10-09T07:57:26Z
   Total Products: 13
 - [Accesorii Enterprise](https://droneagricole.ro/collections/accesorii-enterprise)
-  Updated: 2025-10-01T12:09:48Z
+  Updated: 2025-11-25T09:00:41Z
   Total Products: 16
 - [Software](https://droneagricole.ro/collections/software)
   Updated: 2025-08-20T07:47:44Z
