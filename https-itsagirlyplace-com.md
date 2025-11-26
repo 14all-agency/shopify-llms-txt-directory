@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-08-27T16:24:47Z
 - Contact Email: mail@itsagirlyplace.com
-- Updated At: 2025-11-24T00:01:39.131Z
+- Updated At: 2025-11-26T00:01:03.491Z
 
 ## Products
 
@@ -932,13 +932,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH326763.jpg?v=1760504540
   Price: $17.00 USD
-- [Snowflake Magnetic Bracelet - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-zxb18707-id-wh326764): Magnetic Bracelet: Snowflake Magnetic Bracelet for Style and WellnessThe Snowflake Magnetic Bracelet is a stunning piece designed not only for aesthetics but also for its health benefits. This magnetic bracelet utilizes the power of magnets to promote wellness while providing a fashionable accessory for any outfit. Crafted with high-quality materials, the Snowflake Magnetic Bracelet combines elegance and therapeutic properties in a unique design. As a leading product in the category of magnetic bracelets, this item has been meticulously engineered to offer the best results. The carefully placed magnets in the bracelet are believed to enhance blood circulation, alleviate pain, and provide an overall sense of well-being. Wear it daily or on special occasions to enjoy the benefits it provides and to complement your personal style. Features of the Snowflake Magnetic Bracelet include: Stylish design that resembles a snowflake, adding a touch of elegance. Powerful magnets that are positioned strategically to maximize their health benefits. Adjustable size to fit comfortably on all wrist sizes. Made from high-quality materials ensuring durability and longevity. The Snowflake Magnetic Bracelet is not only a remarkable accessory but also serves as a thoughtful gift for loved ones who appreciate both beauty and health. Ideal for anyone looking to enhance their style and improve their well-being, this magnetic bracelet stands out in the crowded market of wrist accessories. Whether you are looking for relief from discomfort or simply want to add a beautiful piece of jewelry to your collection, the Snowflake Magnetic Bracelet is an excellent choice. The scientific principles behind magnetic therapy suggest that the embedded magnets can help with various health issues, such as arthritis, fatigue, and more. In addition to its health benefits, this bracelet is versatile enough to be worn in any setting. Whether you're at the office, attending a formal event, or enjoying a casual day out, it seamlessly elevates your look while doing good for your body. Join the countless satisfied customers who have experienced the transformative power of the Snowflake Magnetic Bracelet. Embrace the fusion of beauty and health with this exquisite piece that truly embodies the essence of well-being in every interaction. - It's a Girly Place - Type
-  Updated: 2025-11-17T00:31:36Z
-  Vendor: It's a Girly Place
-  Product Type: Bracelets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH326764.jpg?v=1760504546
-  Price: $17.00 USD
 - [Christmas Theme Assorted Multi Pair Earring Set - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-xe18691-id-wh326765): Multi Pair Earring Set: Embrace the Spirit of ChristmasThe Multi Pair Earring Set is an exquisite collection designed to celebrate the festive season. Perfect for any holiday occasion, this set features an array of Christmas-themed earrings that will elevate your holiday style. From classic festive designs to unique and eye-catching pieces, these earrings add a touch of magic to your outfit. This set is a must-have for anyone looking to enhance their jewelry collection during the holiday season.This stunning set includes: Various earring designs, such as snowflakes, Christmas trees, and Santa Claus motifs. Durable materials that ensure longevity and maintain their shine throughout the season. Versatile styles suitable for both casual and formal holiday gatherings. An excellent gift option for friends and family who adore festive jewelry. The earrings are crafted with attention to detail, ensuring each piece is not only beautiful but also comfortable to wear. Whether you're attending a holiday party, family gathering, or simply enjoying the festive spirit at home, this Multi Pair Earring Set will make you stand out in any crowd. Designed for those who love to express themselves through fashion, this set encourages you to explore different styles while staying trendy during the Christmas season.Each pair in the Multi Pair Earring Set is unique, bringing its own flair to a traditional holiday accessory. From fun and playful to elegant and sophisticated, you can easily mix and match these earrings to suit your mood or outfit. The lightweight materials used mean you can wear these earrings all day without discomfort.Furthermore, this set makes for a perfect gift, packed beautifully and ready to spread cheer. Surprise your loved ones with this thoughtful present, allowing them to express their holiday spirit in style. With the Multi Pair Earring Set, you can create unforgettable memories while celebrating the holidays. - It's a Girly Place - Type
   Updated: 2025-11-17T00:31:36Z
   Vendor: It's a Girly Place
@@ -1042,7 +1035,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/CC59706.jpg?v=1757911358
     Price: $55.00 USD
 - [Wide Waistband With Rose Jumpsuit - It's a Girly Place - Type](https://itsagirlyplace.com/products/val2-6-jp82313-id-59701): Wide Waistband With Rose JumpsuitThe Wide Waistband With Rose Jumpsuit is the perfect blend of comfort and style. This fashionable jumpsuit offers a unique design featuring a wide waistband that emphasizes your waist, creating a flattering silhouette suitable for various occasions. Perfect for both casual outings and more formal events, this jumpsuit is versatile enough to be dressed up or down, making it a staple in any wardrobe.Crafted from high-quality materials, the Wide Waistband With Rose Jumpsuit provides ultimate comfort without sacrificing style. The breathable fabric ensures all-day wear, making it ideal for both warm and cooler weather when paired with a light jacket or cardigan. Whether you’re hitting the town or attending a garden party, this jumpsuit is sure to turn heads. Flattering wide waistband design High-quality, breathable fabric Versatile for different occasions Available in multiple sizes and colors This chic jumpsuit also features a beautiful rose pattern, adding a touch of femininity and elegance. The rose design not only enhances its aesthetic appeal but also allows for easy pairing with various accessories. From statement necklaces to minimalist earrings, you can effortlessly style the Wide Waistband With Rose Jumpsuit to match your personal taste.In addition to its stunning design, the jumpsuit boasts practical elements such as easy care instructions and a lasting fit that adapts to your body. Say goodbye to wardrobe malfunctions and hello to confidence with this beautiful piece. Invest in your style and comfort while embracing the latest fashion trends with the Wide Waistband With Rose Jumpsuit. - It's a Girly Place - Type
-  Updated: 2025-11-22T12:21:30Z
+  Updated: 2025-11-25T05:58:11Z
   Vendor: It's a Girly Place
   Product Type: 
   Availability: Available
@@ -1052,7 +1045,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/CC59701.jpg?v=1757911973
     Price: $94.00 USD
   - [M](https://itsagirlyplace.com/products/val2-6-jp82313-id-59701?variant=42660433002585)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/CC59701.jpg?v=1757911973
     Price: $94.00 USD
   - [L](https://itsagirlyplace.com/products/val2-6-jp82313-id-59701?variant=42660433035353)
@@ -1240,7 +1233,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/CC59720ASI3.jpg?v=1757914909
     Price: $101.00 USD
 - [Puff Cap Sleeve Jewel Detail Sets - It's a Girly Place - Type](https://itsagirlyplace.com/products/val2-6-st50234-id-59718b): Jewel Detail Sets: Puff Cap Sleeve EleganceThe Puff Cap Sleeve Jewel Detail Sets are not just about style; they embody glamour and sophistication. Each set showcases exquisite jewel detailing that instantly elevates your look. Crafted with care, these Jewel Detail Sets combine comfort with stunning visual appeal, making them a must-have in your wardrobe.Our Puff Cap Sleeve Jewel Detail Sets feature: Luxurious fabric selection for ultimate comfort. Eye-catching jewel detailing that makes a statement. Versatile styling options suitable for various occasions. Thoughtfully designed puff cap sleeves for a chic silhouette. Whether you're attending a formal event or enjoying a casual outing, the Puff Cap Sleeve Jewel Detail Sets ensure you stand out. Adorn yourself with these sets and feel confident in your elegance. Explore how the beautifully designed jewel details catch the light and capture attention.The sets can be paired with different accessories, allowing for a personalized touch in your style. The perfect balance of flair and sophistication makes these sets a favorite among fashion enthusiasts. - It's a Girly Place - Type
-  Updated: 2025-11-21T12:59:52Z
+  Updated: 2025-11-25T12:04:36Z
   Vendor: It's a Girly Place
   Product Type: 
   Availability: Available
@@ -1282,7 +1275,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/CC59718B.jpg?v=1757914991
     Price: $88.50 USD
 - [Flower Vein Sequin Print Jumpsuit - It's a Girly Place - Type](https://itsagirlyplace.com/products/val2-6-jp11259-id-59714a): Sequin Print Jumpsuit: Elevate Your StyleThe Sequin Print Jumpsuit is the ultimate blend of style and sophistication, perfect for any occasion. This stunning jumpsuit features an intricate flower vein sequin pattern that catches the light beautifully, providing you with a chic and eye-catching look. Made from high-quality fabric, it offers both comfort and elegance, making it an essential addition to your wardrobe. Designed for versatility, the Sequin Print Jumpsuit can be dressed up for a night out on the town or paired with casual accessories for a more laid-back look. Whether you're attending a wedding, a party, or just enjoying an evening with friends, this jumpsuit is sure to make a statement. Eye-catching flower vein sequin design Comfortable and breathable fabric Available in multiple sizes Easy to style for various occasions This jumpsuit is also incredibly easy to care for, as it is machine washable and retains its vibrant colors after multiple washes. With its flattering silhouette and elegant design, the Sequin Print Jumpsuit is bound to become a favorite in your collection. Pair it with heels and statement jewelry for an elegant look, or dress it down with flats for a more casual vibe. No matter how you choose to wear it, you’ll feel confident and stylish in this fabulous jumpsuit. Don't miss out on the opportunity to own the Sequin Print Jumpsuit. Perfect for fashion-forward individuals, this jumpsuit exemplifies modern design with a hint of classic elegance. Embrace your unique style and shine bright with this stunning piece! - It's a Girly Place - Type
-  Updated: 2025-11-17T00:31:50Z
+  Updated: 2025-11-25T12:04:36Z
   Vendor: It's a Girly Place
   Product Type: 
   Availability: Available
@@ -1690,7 +1683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/CC59706BN.jpg?v=1757915898
     Price: $55.00 USD
 - [Velvet Top Fashion Jumpsuit - It's a Girly Place - Type](https://itsagirlyplace.com/products/val2-6-jp15427-id-59703c): Fashion Jumpsuit: The Velvet Top Fashion JumpsuitThe Fashion Jumpsuit has become a trendsetter in the fashion industry, and the Velvet Top Fashion Jumpsuit is at the forefront of this revolution. Combining elegance with comfort, this jumpsuit is perfect for any occasion, whether it’s a formal gathering or a casual outing.Made from high-quality velvet fabric, this jumpsuit is not just a clothing item; it's a fashion statement. The soft texture adds a touch of sophistication while ensuring maximum comfort throughout the day.With its versatile design, it can easily be dressed up or down. Pair it with heels and statement jewelry for a night out or with sneakers for a relaxed weekend look.Features of the Velvet Top Fashion Jumpsuit: Elevated fashion with a luxurious velvet material. Flattering fit that enhances body shape. Stylish neckline options available. Easily transition from day to night with accessorizing. The jumpsuit also includes practical design elements such as pockets for functionality, making it as practical as it is stylish. You won’t have to sacrifice comfort for style; this fashion jumpsuit delivers both effortlessly.Available in a range of sizes and colors, the Velvet Top Fashion Jumpsuit caters to a diverse audience, ensuring that everyone can find their perfect fit. It serves as a wardrobe staple that can be styled in numerous ways, making it a worthy investment for anyone interested in elevating their fashion game.Whether you are attending a wedding, a party, or a casual day out, the Velvet Top Fashion Jumpsuit is your go-to attire. Don’t miss out on the chance to own this essential piece that captures the essence of modern fashion. - It's a Girly Place - Type
-  Updated: 2025-11-19T12:11:45Z
+  Updated: 2025-11-25T12:04:30Z
   Vendor: It's a Girly Place
   Product Type: 
   Availability: Available
@@ -3525,13 +3518,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH300026341.jpg?v=1757947632
   Price: $18.50 USD
-- [Christmas Nutcracker Seed Beaded Keychain - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-xk18590-id-wh300026342): Seed Beaded Keychain: A Touch of Holiday CheerThe Seed Beaded Keychain is a delightful accessory that captures the spirit of Christmas. Adorned with intricate beadwork, these keychains not only add a festive touch to your keys but also showcase the artistry of seed beading. Perfect for holiday gifting, each keychain is crafted with care, making it a personalized gift for your loved ones. Our Christmas Nutcracker Seed Beaded Keychain is a true representation of holiday joy, designed for those who appreciate handmade art. These keychains are perfect for anyone looking to add a whimsical touch to their everyday essentials. With vibrant colors and detailed designs, they are ideal for both children and adults alike. Features of the Seed Beaded Keychain include: Handcrafted using high-quality seed beads for durability Unique designs that capture the spirit of Christmas Perfect for gifting or personal collection Lightweight and easy to carry, keeping your keys organized Whether you are decorating your home for the holidays or looking for the perfect gift, the Seed Beaded Keychain serves as a reminder of the joyous season. Its eye-catching design makes it a great conversation starter, drawing attention and compliments everywhere you go. Ideal for attaching to backpacks, purses, or even as ornaments for your tree, this keychain is versatile and stylish. Every piece exemplifies the beauty of craftsmanship, as each bead is meticulously placed to create an enchanting design. Additionally, these keychains help promote the art of seed beading, making them a thoughtful choice for those who advocate for handmade goods. Celebrate the season with this joyful accessory and cherish the memories that come with it! - It's a Girly Place - Type
-  Updated: 2025-11-17T00:32:12Z
-  Vendor: It's a Girly Place
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH300026342.jpg?v=1757947643
-  Price: $14.00 USD
 - [Christmas Nutcracker Seed Beaded Keychain - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-xk18619-id-wh300026343): Seed Beaded Keychain: Christmas Nutcracker DelightThe Christmas Nutcracker Seed Beaded Keychain is a delightful accessory for the holiday season. This intricately designed seed beaded keychain features a charming nutcracker, which not only serves as a functional key holder but also as a delightful ornament. Perfect for adding a festive touch to your keys, it showcases wonderful craftsmanship with every bead carefully placed to create a stunning visual appeal. Made with high-quality seed beads, this keychain is both durable and lightweight, making it an ideal companion for everyday use. The vibrant colors of the beads reflect the warmth and joy of the Christmas spirit, ensuring you celebrate the season every day. Each keychain is unique, making it a special gift for friends and family or a delightful addition to your own collection. Here are some features of the Christmas Nutcracker Seed Beaded Keychain: High-quality seed beads for durability Charming nutcracker design adds festive cheer Perfect for keys, bags, or as an ornament Great gift idea for loved ones during the holidays This Seed Beaded Keychain is not just functional but also serves as a piece of art that brings warmth and happiness throughout the season. Whether you are using it as a key holder or gifting it to someone special, it’s sure to be a cherished item. Experience the magic of Christmas every day with this beautiful keychain by your side! - It's a Girly Place - Type
   Updated: 2025-11-17T00:32:12Z
   Vendor: It's a Girly Place
@@ -3539,40 +3525,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH300026343.jpg?v=1757947654
   Price: $15.50 USD
-- [Christmas Bow Post Dangle Earrings - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-xe18618-id-wh300026344): Post Dangle Earrings: Elevate Your Holiday StylePost Dangle Earrings are a stunning addition to any jewelry collection, offering a unique design that perfectly blends elegance and festive spirit. These Christmas Bow Post Dangle Earrings are beautifully crafted to capture the essence of the holiday season. Their charm is sure to elevate your style and serve as a versatile accessory for various occasions. Whether you're attending a holiday party, a family gathering, or simply wishing to add a touch of festivity to your everyday look, these earrings are the perfect choice. Designed with the modern woman in mind, our Post Dangle Earrings not only exude class but also ensure comfort and durability. Made with high-quality materials, they dangle gracefully and catch the light beautifully, making them a must-have for any jewelry lover. These earrings can be easily paired with both casual and formal outfits, making them a versatile addition to your collection. Here are some standout features of our Christmas Bow Post Dangle Earrings: 🎁 Unique Christmas Bow design adds a festive touch. ✨ Lightweight and comfortable for all-day wear. 🎄 Perfectly suitable for holiday celebrations or everyday elegance. 💖 Versatile enough to complement a variety of styles and outfits. Our Post Dangle Earrings are not just jewelry; they tell a story of joy, celebration, and stunning style. Each pair is designed with attention to detail, ensuring you receive a product that is as beautiful as it is functional. Step into the holiday season with confidence, wearing our Christmas Bow Post Dangle Earrings. Whether treated as a gift for loved ones or a special treat for yourself, they're sure to bring smiles and compliments wherever you go. Experience the magic of the holidays with earrings that embody the spirit of Christmas. Crafted to inspire and enhance your festive wardrobe, you won't want to miss out on these delightful Post Dangle Earrings. They are the perfect accessory for spreading joy during this cheerful time of year. Join the ranks of fashion-savvy individuals who are embracing the trend of statement earrings. Our Post Dangle Earrings are designed to make a lasting impression, ensuring you stand out in any crowd. As you wear them, think of all the wonderful memories you will create, whether you're sharing laughs with family or dancing the night away at a holiday party. Make a statement this season with earrings that reflect your personal style. - It's a Girly Place - Type
-  Updated: 2025-11-17T00:32:12Z
-  Vendor: It's a Girly Place
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH300026344.jpg?v=1757947665
-  Price: $14.00 USD
-- [Christmas Wreath Post Dangle Earrings - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-xe18584-id-wh300026345): Post Dangle Earrings: Christmas Wreath Post Dangle EarringsIntroducing our stunning Post Dangle Earrings that beautifully capture the essence of the holiday season with a festive Christmas wreath design. These earrings are perfect for adding a touch of joy and elegance to any holiday outfit. Made with high-quality materials, they feature a gentle dangle that sways gracefully with movement, making them the ideal accessory for parties, gatherings, or simply to brighten your day. Our Christmas Wreath Post Dangle Earrings are not just accessories; they’re pieces of art that celebrate the spirit of Christmas. The intricate designs feature vibrant colors and are sure to be a conversation starter. Additionally, they are lightweight, ensuring comfortable wear throughout the day. With their timeless design, they can be worn year after year, making them an ideal choice for your festive jewelry collection. Stunning wreath design perfect for the holiday season Lightweight and comfortable for all-day wear Made with high-quality materials for durability Perfect gift for friends and family or as a treat for yourself Don’t miss out on the opportunity to own these charming Post Dangle Earrings. They make for a perfect addition to any Christmas celebration and can complement various styles, from casual to elegant. Whether you are attending a festive gathering, a family dinner, or a holiday party, these earrings will elevate your look with their unique charm. Order your Christmas Wreath Post Dangle Earrings today and spread the holiday cheer wherever you go! Embrace the whimsy and charm of the season through these extraordinary accessories. - It's a Girly Place - Type
-  Updated: 2025-11-17T00:32:12Z
-  Vendor: It's a Girly Place
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH300026345.jpg?v=1757947677
-  Price: $14.00 USD
-- [Christmas Reindeer Post Earrings - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-xe18571-id-wh300026346): Reindeer Post Earrings: Essential Holiday AccessoriesReindeer Post Earrings are the perfect festive accessory for the holiday season. Elegantly designed, these earrings capture the essence of Christmas, bringing a touch of joy to any outfit. Crafted with precision and care, our Christmas Reindeer Post Earrings are ideal for gift-giving or personal wear. They are lightweight, comfortable, and make a charming statement.These earrings feature an exquisite reindeer design that adds a whimsical flair to your holiday look. Made from high-quality materials, they are durable and maintain their shine, ensuring you can enjoy them for many seasons to come. Unique reindeer design perfect for Christmas celebrations. Lightweight and comfortable for easy wear. High-quality materials that ensure durability. Perfect gift for friends and family during the holiday season. Whether you're attending a festive party or simply want to add some holiday spirit to your everyday attire, Reindeer Post Earrings are an excellent choice. Pair them with other festive accessories or let them shine on their own. These earrings are suitable for all ages and can be worn by anyone who loves to celebrate Christmas.Our earrings come beautifully packaged, ready for gifting. Consider them a thoughtful present for loved ones who cherish holiday traditions. Each pair of Reindeer Post Earrings is a delightful reminder of the joy and magic that Christmas brings.In summary, Reindeer Post Earrings are not just fashion accessories but a way to express your holiday spirit. Wearing them will surely bring smiles and compliments from those around you. Don't miss the opportunity to add these charming earrings to your collection or gift them to someone special this Christmas! - It's a Girly Place - Type
-  Updated: 2025-11-17T00:32:12Z
-  Vendor: It's a Girly Place
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH300026346.jpg?v=1757947689
-  Price: $14.00 USD
 - [Christmas Santa Tree Post Earrings - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-xe18581-id-wh300026347): Tree Post Earrings - Christmas Santa Tree DesignThe Christmas Santa Tree Post Earrings are the perfect festive accessory for the holiday season. These charming Tree Post Earrings combine the spirit of Christmas with elegance, making them an ideal gift for loved ones or a delightful treat for yourself. Crafted with attention to detail, these earrings feature a beautiful design that highlights the spirit of Christmas. Wearing the Christmas Santa Tree Post Earrings can instantly elevate your holiday attire. They are lightweight and comfortable, perfect for all-day wear. Whether you’re dressing up for a festive party or just want to add a touch of fun to your everyday look, these earrings are sure to make a statement. Here are some reasons to love them: ✨ Unique design featuring Santa and Christmas trees ✨ Made with high-quality materials for durability ✨ Easy to pair with any festive outfit ✨ Perfect for gifting during the holiday season These earrings also make a great conversation starter at holiday gatherings. Their delightful design is sure to catch the eye of friends and family, spreading joy and festive cheer wherever you go. Plus, they’re an excellent way to express your love for the holiday season!Accessorizing with the Christmas Santa Tree Post Earrings can add a whimsical touch to your look. Imagine walking into a holiday party wearing these stunning earrings and immediately catching the attention of everyone in the room. They not only enhance your outfit but also showcase your festive spirit. As you shop for holiday accessories, don’t forget to consider the gift of the Christmas Santa Tree Post Earrings. They make for a thoughtful and unique gift option that anyone would appreciate. Perfect for family, friends, or colleagues, these earrings are sure to bring smiles and holiday cheer.In conclusion, if you want to embrace the holiday spirit and shine bright at every gathering, the Christmas Santa Tree Post Earrings are a must-have. Celebrate the joy of Christmas with these beautiful Tree Post Earrings that are sure to be cherished and admired! - It's a Girly Place - Type
   Updated: 2025-11-17T00:32:12Z
   Vendor: It's a Girly Place
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH300026347.jpg?v=1757947700
-  Price: $14.00 USD
-- [Snowman Post Earrings – Festive Holiday Cheer - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-xe18603-id-wh300026348): Holiday Cheer with Snowman Post EarringsExperience the joy of Holiday Cheer with our stunning Snowman Post Earrings! These festive accessories are intricately designed to capture the spirit of the season, making them a must-have for any holiday celebration. Crafted with care, these earrings bring a touch of whimsy and cheer to your outfit, whether you're attending a holiday party or just enjoying the cozy vibes of winter.These earrings are not just a piece of jewelry; they are a statement of joy and festivity. Imagine wearing these delightful snowman earrings, each one a little masterpiece that reflects the magic of the holidays. They are perfect for both adults and children, adding a playful element to your holiday attire.What makes our Snowman Post Earrings truly special? Here are some highlights: Unique Design: Inspired by the happiness of winter, these earrings feature adorable snowman motifs that embody holiday spirit. High-Quality Materials: Made with durable and hypoallergenic materials, ensuring longevity and comfort for all-day wear. Perfect Gift: Whether for a friend, family member, or yourself, these earrings make a thoughtful gift for anyone who loves the holiday season. Versatile Style: Easy to pair with any outfit, these earrings can complement everything from winter sweaters to holiday dresses. In addition to their beautiful aesthetic, the Snowman Post Earrings serve as a wonderful reminder to embrace the Holiday Cheer that this time of year brings. Each piece carries a sense of joy that resonates with the festive spirit, making them a perfect accessory for this joyous season. - It's a Girly Place - Type
-  Updated: 2025-11-17T00:32:13Z
-  Vendor: It's a Girly Place
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH300026348.jpg?v=1757947711
   Price: $14.00 USD
 - [Christmas Santa's Cup Post Earrings - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-xe18612-id-wh300026349): Cup Post Earrings: Celebrate Christmas in StyleIntroducing our stunning Cup Post Earrings, perfect for the Christmas season! These earrings are a charming addition to any holiday outfit, bringing joy and festive spirit wherever you go. Crafted with attention to detail, these earrings capture the essence of Christmas cheer.Our Cup Post Earrings feature: High-quality materials that ensure durability and comfort. A delightful design that reflects the joy of the holiday season. Lightweight construction, making them easy to wear throughout the day. Versatile style that complements various outfits, from casual to dressy. Whether you are looking to treat yourself or searching for the perfect gift for a loved one, these Cup Post Earrings are an excellent choice. They are a fun and festive way to express your holiday spirit while adding a touch of elegance to your jewelry collection.Celebrate the season with our Christmas Santa's Cup Post Earrings, a must-have for every Christmas enthusiast. Add these enchanting earrings to your collection and enjoy the compliments that come your way!Don't miss out on the chance to shine this holiday season. Order your Cup Post Earrings today and embrace the joy and magic of Christmas! - It's a Girly Place - Type
   Updated: 2025-11-17T00:32:13Z
@@ -3602,20 +3560,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH300026358.jpg?v=1757947811
   Price: $14.00 USD
-- [Christmas Tree Seed Beaded Post Earrings - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-xe18580-id-wh300026359): Beaded Post Earrings - Perfect Holiday AccessoryExperience elegance and charm with our Beaded Post Earrings. These delightful earrings, designed to capture the spirit of the holiday season, are perfect for Christmas celebrations or any festive occasion. Handcrafted with care, our Christmas Tree Seed Beaded Post Earrings feature intricate designs that highlight the beauty of beads, reflecting light and adding a touch of sparkle to any outfit.Every pair of these earrings is made with high-quality materials to ensure durability and elegance. Here are some of the features that make them a must-have: Unique Christmas Tree design that adds a festive flair. Lightweight and comfortable for all-day wear. Perfect gift for loved ones during the holiday season. Versatile enough to be worn for various occasions beyond Christmas. Our Beaded Post Earrings are not only perfect for personal use but also make a thoughtful gift for friends, family, or colleagues. They embody the joy and spirit of Christmas, allowing you to express your festive style. The vibrant colors and intricate beadwork make these earrings a standout accessory in any jewelry collection.As you prepare for the holiday season, consider adding these beautiful earrings to your wardrobe. They can easily complement any outfit, whether it's a casual gathering or a formal event. The craftsmanship involved in creating these earrings ensures that each piece is unique, just like the wearer.Celebrate the joy of the season with accessories that highlight your personality. Our Christmas Tree Seed Beaded Post Earrings not only showcase your style but also celebrate the spirit of togetherness and joy that comes with the holidays. Spread cheer and style in equal measure with these beautiful earrings. - It's a Girly Place - Type
-  Updated: 2025-11-17T00:32:14Z
-  Vendor: It's a Girly Place
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH300026359.jpg?v=1757947822
-  Price: $14.00 USD
-- [Christmas Gingerbread Ballerina Beaded Earrings - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-xe18583-id-wh300026360): Beaded Earrings: Christmas Gingerbread Ballerina DelightDiscover the enchanting beauty of our Beaded Earrings with the Christmas Gingerbread Ballerina design. These unique earrings are perfect for the festive season, combining elegance with a whimsical touch. Handcrafted with care, the intricate details of our gingerbread ballerina are sure to catch eyes and provoke smiles. Ideal for holiday parties or as a charming gift, these beaded earrings celebrate the joy of Christmas. Our Beaded Earrings are made from high-quality materials, ensuring durability and comfort for long wear. Each bead is carefully selected and strung together to create a masterpiece that showcases your festive spirit. Not only do these earrings sparkle, but they also hold a story of craftsmanship in each stitch. Unique Christmas gingerbread ballerina design High-quality, durable materials Comfortable for all-day wear Perfect gift for ballet lovers and holiday enthusiasts Celebrate this Christmas season with elegance! Our Beaded Earrings will add the perfect finishing touch to any holiday outfit. Whether you’re dressing up for a party or simply want to bring some Christmas cheer into your everyday life, these earrings are sure to do the trick. Make your holiday wardrobe shine with these stunning pieces. They also make a thoughtful gift for friends and loved ones who appreciate artful jewelry. Embrace the festive spirit and adorn yourself in style this season! Don’t miss out on our limited-edition Christmas Gingerbread Ballerina Beaded Earrings. Incentivize those special moments with a token of joy that conveys warmth and creativity. With these earrings, you are not just adding jewelry to your collection; you are embracing a festive tradition. - It's a Girly Place - Type
-  Updated: 2025-11-17T00:32:14Z
-  Vendor: It's a Girly Place
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH300026360.jpg?v=1757947834
-  Price: $14.00 USD
 - [Christmas Bow Post Dangle Earrings - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-xe18585-id-wh300026361): Post Dangle Earrings: Celebrate the Festive Season in Style!Post Dangle Earrings are a must-have accessory for the festive season. These unique Christmas Bow Post Dangle Earrings add a touch of elegance and festive cheer to any outfit. Designed with intricate craftsmanship, these earrings showcase beautiful holiday bows that dangle gracefully, making them the perfect accessory for your holiday celebrations. Whether you’re attending a Christmas party, a family gathering, or simply looking to add a festive flair to your everyday style, these earrings are sure to attract attention.Our Post Dangle Earrings are crafted to provide maximum comfort and make a bold statement. The lightweight design ensures you can wear them all day without feeling weighed down. The earrings are made from high-quality materials, ensuring durability and a polished finish that will last for many seasons to come.The features of our Christmas Bow Post Dangle Earrings include: Luxurious design featuring intricate bow detailing. Lightweight materials for comfortable wear. Versatile style suitable for both casual and formal occasions. Perfect gift option for friends and family during the holiday season. Elevate your holiday outfit with these stunning earrings that bring a whimsy and joy to your look. Perfect for both gifting and personal wear, these earrings celebrate the spirit of Christmas with every wear. Stand out in the crowd and let your accessories reflect the joy and cheer of the holiday season.Whether paired with a little black dress or a cozy winter sweater, these Post Dangle Earrings will enhance your overall aesthetic, making you feel festive and fabulous. The shiny finish and vibrant colors are designed to catch the eye and complement your unique style.Don’t miss your chance to own these beautiful Post Dangle Earrings. Add them to your accessories collection today and embrace the holiday spirit! - It's a Girly Place - Type
   Updated: 2025-11-17T00:32:14Z
   Vendor: It's a Girly Place
@@ -3629,20 +3573,6 @@
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH300026362.jpg?v=1757947856
-  Price: $14.00 USD
-- [Snowman Post Earrings: Festive Holiday Sparkle - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-xe18586-id-wh300026363): Holiday Sparkle: Embrace the Festive Spirit with Snowman EarringsHoliday Sparkle brings the festive spirit to life with our stunning Snowman Post Earrings: Festive Holiday Sparkle. These earrings are more than just accessories; they are a celebration of the magic and joy of the holiday season. Each pair features charming snowman designs adorned with sparkling embellishments that catch the light, making them the perfect addition to any holiday outfit. Whether you’re dressing up for a holiday party or simply adding a touch of cheer to your everyday look, these earrings embody the essence of the season. Crafted with care, the Snowman Post Earrings are lightweight and comfortable to wear, ensuring that you can enjoy them all day without any discomfort. The festive colors and intricate details make them a standout piece in your jewelry collection. As the holiday season draws nearer, it’s the little things that add to the joy and warmth of celebrations, and these earrings are ideal for spreading holiday cheer. Here are some reasons why you’ll love our Snowman Post Earrings: Festive Design: Whimsical snowman motifs that capture the joy of winter. Quality Craftsmanship: Made with durable materials to ensure long-lasting wear. Versatile Use: Perfect for holiday parties, family gatherings, or as a charming gift. Brilliant Sparkle: Each earring is adorned with shimmering details that enhance your holiday vibe. Wearing the Snowman Post Earrings not only showcases your festive spirit, but also makes a statement of style and joy. They are ideal for gift giving, whether for a friend, family member, or even yourself. Pair them with your favorite holiday attire to truly embrace the magic of the season. In conclusion, don’t miss out on adding these delightful earrings to your collection. Celebrate this holiday season with a touch of sparkle and charm that only our Snowman Post Earrings can offer! - It's a Girly Place - Type
-  Updated: 2025-11-17T00:32:14Z
-  Vendor: It's a Girly Place
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH300026363.jpg?v=1757947867
-  Price: $14.00 USD
-- [Christmas Tree Post Dangle Earrings - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-xe18611-id-wh300026364): Post Dangle Earrings: Christmas Tree ElegancePost Dangle Earrings are the perfect accessory to complete your holiday look. Our Christmas Tree Post Dangle Earrings are designed to bring festive cheer to every outfit. Whether you're attending a holiday party, gathering with family, or simply celebrating the magical season, these earrings are a delightful choice. Crafted with exquisite attention to detail, these earrings add sparkle and charm to your attire.The Christmas Tree design is subtly festive, making it versatile for both casual and formal events. Here are some highlights of our Post Dangle Earrings: Lightweight and comfortable, perfect for all-day wear. High-quality materials ensure durability and lasting shine. Unique Christmas Tree design that captures holiday spirit. Perfect gift for friends and family during the festive season! These earrings not only add elegance but also a playful touch to your wardrobe. With a combination of style and festivity, our Post Dangle Earrings are a must-have for this season. The intricate design helps to reflect light beautifully, which will make you stand out in any crowd. Celebrate this holiday season by adorning yourself with our stunning Christmas Tree Post Dangle Earrings.Explore our collection today and find the perfect accessory for your holiday celebrations. Embrace the spirit of Christmas with earrings that are just as magical as the season itself. These earrings make a great addition to any jewelry box and can easily transition from day to night. Don't miss out on the opportunity to shine and share joy this Christmas with our beautiful Post Dangle Earrings! - It's a Girly Place - Type
-  Updated: 2025-11-17T00:32:14Z
-  Vendor: It's a Girly Place
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH300026364.jpg?v=1757947877
   Price: $14.00 USD
 - [Christmas Santa's Cup Post Earrings - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-xe18616-id-wh300026365): Cup Post Earrings: Celebrate with Christmas Santa's CharmCup Post Earrings are the perfect accessory to add a festive touch to your holiday outfit. These delightful earrings feature a whimsical design of Santa cups that not only highlight your love for Christmas but also complement any casual or formal attire. Crafted with care, these earrings bring joy and celebration to any occasion.Made from high-quality materials, the Cup Post Earrings are lightweight, ensuring comfort throughout the day. Whether you’re attending a holiday party or simply enjoying a cozy evening at home, these earrings will keep your festive spirit alive. The intricate details of the Santa cups make each pair unique, ensuring that you stand out during the holiday season.Here are some great features of the Cup Post Earrings: Charming Santa cup design perfect for the holiday season. Lightweight and comfortable for all-day wear. High-quality materials for long-lasting beauty. Ideal gift for friends and family during festive gatherings. These Cup Post Earrings not only make a great addition to your own jewelry collection but also serve as a thoughtful gift for loved ones. Spread the joy of Christmas with these creatively designed earrings that everyone will adore. The vibrancy of the Santa cups will surely spark conversations and evoke joy wherever you go. Embrace this festive season with style and flair while wearing these charming Cup Post Earrings! - It's a Girly Place - Type
   Updated: 2025-11-17T00:32:14Z
@@ -3728,13 +3658,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH200249502B.jpg?v=1757949904
     Price: $38.50 USD
-- [Rhinestone Bow Choker Necklace - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh2hda-pn69415-id-wh200249503): Choker Necklace: The Allure of the Rhinestone Bow ChokerThe Choker Necklace is a striking accessory that effortlessly enhances any outfit. Our Rhinestone Bow Choker Necklace combines elegance and charm, making it a must-have in your jewelry collection. This stunning piece features a beautifully crafted bow adorned with shimmering rhinestones, adding a touch of glamour to any look. Whether you're dressing up for a special occasion or looking to elevate your everyday style, this choker necklace is the perfect choice.Key features of the Rhinestone Bow Choker Necklace include: Stunning Design: The intricate bow design is not only fashionable but also adds a unique flair to your accessory collection. High-Quality Materials: Made with premium rhinestones that provide lasting shine and durability. Adjustable Length: The choker features an adjustable chain, allowing you to customize the fit for maximum comfort. Versatile Wear: Perfect for layering or wearing alone, making it suitable for both casual and formal occasions. This choker necklace serves as the ideal statement piece, catching the eye without overwhelming your outfit. It's perfect for pairing with a little black dress for a night out, or even adding some sparkle to a simple T-shirt and jeans combo. The Rhinestone Bow Choker Necklace is designed not only to be seen but to stand out, subtly enhancing your natural beauty.When you choose the Rhinestone Bow Choker Necklace, you’re choosing an accessory that speaks volumes without saying a word. This piece is designed to help express your personality, whether you prefer classic elegance or contemporary chic. Its shiny rhinestones reflect light beautifully, ensuring you catch glances wherever you go.Moreover, gifting this choker necklace is a fantastic idea for birthdays, anniversaries, or just because! The timeless appeal of a choker makes it a favorite among jewelry lovers of all ages. Surprise a friend or loved one with this exquisite rhinestone bow choker and let them experience its beauty firsthand.Overall, the Rhinestone Bow Choker Necklace is not just an accessory; it’s an expression of art and personality. Elevate your style today and become a trendsetter with this must-have choker necklace! - It's a Girly Place - Type
-  Updated: 2025-11-17T00:32:18Z
-  Vendor: It's a Girly Place
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH200249503.jpg?v=1757949914
-  Price: $24.50 USD
 - [Link Necklace - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh2hda-mn220001-id-wh200249504): Link Necklace: A Stylish Accessory for Every OccasionThe Link Necklace is an exquisite piece of jewelry designed to elevate your style. Perfect for any occasion, this necklace combines elegance with a contemporary twist. Crafted with high-quality materials, the Link Necklace is not just an accessory; it’s a statement.Wearing a Link Necklace adds a touch of sophistication to your outfit, making it ideal for casual outings, formal events, or even just a day at the office. Its versatile design can seamlessly transition from day to night wear, providing you with endless styling possibilities.Key Features of Our Link Necklace: High-quality materials for durability and shine Versatile design suitable for any wardrobe Lightweight and comfortable for everyday wear Unique link pattern that stands out The intricate link design is both modern and timeless, ensuring that your Link Necklace remains a cherished part of your jewelry collection. Whether you're dressing up for a gala or dressing down for brunch with friends, this necklace complements any look effortlessly.This piece is also an excellent gift for loved ones, making it a thoughtful choice for birthdays, anniversaries, or just because. The Link Necklace is more than just jewelry; it’s a beloved accessory that tells a story.Explore our collection today and find the perfect addition to your jewelry box with our stunning Link Necklace. - It's a Girly Place - Type
   Updated: 2025-11-17T00:32:18Z
   Vendor: It's a Girly Place
@@ -4218,8 +4141,8 @@
 ## Collections
 
 - [APPAREL - It's a Girly Place - Type](https://itsagirlyplace.com/collections/womens-clothing): - It's a Girly Place - Type
-  Updated: 2025-11-23T23:00:12Z
-  Total Products: 1565
+  Updated: 2025-11-25T23:57:36Z
+  Total Products: 1566
 - [ACCESSORIES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/accessories): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:43Z
   Total Products: 305
@@ -4227,25 +4150,25 @@
   Updated: 2025-11-22T17:56:43Z
   Total Products: 27
 - [JUST IN - It's a Girly Place - Type](https://itsagirlyplace.com/collections/new-arrivals): - It's a Girly Place - Type
-  Updated: 2025-11-23T23:00:12Z
+  Updated: 2025-11-25T23:57:36Z
   Total Products: 2191
 - [TOPS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/tops): - It's a Girly Place - Type
-  Updated: 2025-11-23T18:23:51Z
+  Updated: 2025-11-25T23:57:36Z
   Total Products: 581
 - [JEWELRY - It's a Girly Place - Type](https://itsagirlyplace.com/collections/jewelry): - It's a Girly Place - Type
-  Updated: 2025-11-22T17:56:43Z
+  Updated: 2025-11-25T16:53:25Z
   Total Products: 655
 - [EARRINGS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/earrings): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:43Z
   Total Products: 726
 - [NECKLACES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/necklaces): - It's a Girly Place - Type
-  Updated: 2025-11-22T17:56:43Z
+  Updated: 2025-11-25T16:53:25Z
   Total Products: 255
 - [PLUS SIZE TOPS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/101-tees-tanks-plus-size): - It's a Girly Place - Type
   Updated: 2025-11-23T05:51:23Z
   Total Products: 168
 - [PLUS SIZE - It's a Girly Place - Type](https://itsagirlyplace.com/collections/111-novelty-tops-plus-size): - It's a Girly Place - Type
-  Updated: 2025-11-23T22:52:35Z
+  Updated: 2025-11-24T15:36:55Z
   Total Products: 485
 - [PLUS SIZE JUMPSUITS & ROMPERS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/121-sweaters-plus-size): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:44Z
@@ -4254,13 +4177,13 @@
   Updated: 2025-11-22T17:56:44Z
   Total Products: 24
 - [BOTTOMS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/132-bottoms-reg-size): - It's a Girly Place - Type
-  Updated: 2025-11-22T17:56:44Z
-  Total Products: 74
+  Updated: 2025-11-25T18:40:33Z
+  Total Products: 75
 - [PLUS SIZE DRESSES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/141-dresses-plus-size): - It's a Girly Place - Type
-  Updated: 2025-11-23T22:52:35Z
+  Updated: 2025-11-25T16:58:34Z
   Total Products: 144
 - [DRESSES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/142-dresses-reg-size): - It's a Girly Place - Type
-  Updated: 2025-11-23T23:00:12Z
+  Updated: 2025-11-25T20:55:20Z
   Total Products: 644
 - [PLUS SIZE OUTERWEAR - It's a Girly Place - Type](https://itsagirlyplace.com/collections/151-jackets-plus-size): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:44Z
@@ -4281,13 +4204,13 @@
   Updated: 2025-11-22T17:56:44Z
   Total Products: 84
 - [OUTERWEAR - It's a Girly Place - Type](https://itsagirlyplace.com/collections/outerwear): - It's a Girly Place - Type
-  Updated: 2025-11-22T17:56:44Z
+  Updated: 2025-11-24T21:47:29Z
   Total Products: 234
 - [JUMPSUITS & ROMPERS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/jumpsuits-rompers): - It's a Girly Place - Type
-  Updated: 2025-11-23T18:28:47Z
+  Updated: 2025-11-25T20:40:49Z
   Total Products: 158
 - [BASICS & ACTIVEWEAR - It's a Girly Place - Type](https://itsagirlyplace.com/collections/basics-activewear): - It's a Girly Place - Type
-  Updated: 2025-11-22T17:56:44Z
+  Updated: 2025-11-24T01:29:08Z
   Total Products: 102
 - [PLUS SIZE BASICS & ACTIVEWEAR - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-basics-activewear): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:44Z
@@ -4299,17 +4222,17 @@
   Updated: 2025-11-22T17:56:44Z
   Total Products: 4
 - [OUTFIT SETS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sets): - It's a Girly Place - Type
-  Updated: 2025-11-23T16:32:36Z
-  Total Products: 238
+  Updated: 2025-11-25T16:53:54Z
+  Total Products: 237
 - [PLUS SIZE SETS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-sets): - It's a Girly Place - Type
   Updated: 2025-11-23T00:46:09Z
   Total Products: 33
 - [SALE - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale): - It's a Girly Place - Type
-  Updated: 2025-11-22T17:56:44Z
-  Total Products: 418
+  Updated: 2025-11-25T17:07:58Z
+  Total Products: 419
 - [RESTOCKED POPULAR ITEMS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/restocked-popular-items): - It's a Girly Place - Type
-  Updated: 2025-11-22T17:56:44Z
-  Total Products: 146
+  Updated: 2025-11-25T17:07:58Z
+  Total Products: 147
 - [SALE PLUS SIZE - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-sale): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:44Z
   Total Products: 156
@@ -4317,14 +4240,14 @@
   Updated: 2025-11-22T17:56:44Z
   Total Products: 3
 - [SALE JEWELRY - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale-jewelry): - It's a Girly Place - Type
-  Updated: 2025-11-22T17:56:44Z
+  Updated: 2025-11-25T16:53:25Z
   Total Products: 32
 - [SALE ACCESSORIES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale-accessories): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:45Z
   Total Products: 9
 - [SALE 10% Off - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale-10): - It's a Girly Place - Type
-  Updated: 2025-11-22T17:56:45Z
-  Total Products: 59
+  Updated: 2025-11-25T17:07:58Z
+  Total Products: 60
 - [SALE 20% OFF - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale-20-off): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:45Z
   Total Products: 48
@@ -4335,14 +4258,14 @@
   Updated: 2025-11-22T17:56:45Z
   Total Products: 63
 - [SALE 50% OFF - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale-50-off): - It's a Girly Place - Type
-  Updated: 2025-11-22T17:56:45Z
+  Updated: 2025-11-25T16:53:25Z
   Total Products: 251
 - [SALE APPAREL - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale-apparel): - It's a Girly Place - Type
-  Updated: 2025-11-22T17:56:45Z
-  Total Products: 221
+  Updated: 2025-11-25T17:07:58Z
+  Total Products: 222
 - [PRODUCTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/products): - It's a Girly Place - Type
-  Updated: 2025-11-23T23:00:12Z
-  Total Products: 4410
+  Updated: 2025-11-25T23:57:36Z
+  Total Products: 4411
 - [SLEEPWEAR & LOUNGEWEAR - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sleepwear-loungewear): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:45Z
   Total Products: 18
@@ -4353,8 +4276,8 @@
   Updated: 2025-11-23T05:45:56Z
   Total Products: 31
 - [APPPlaza - BEST SELLERS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/appplaza-best-sellers): - It's a Girly Place - Type
-  Updated: 2025-11-23T23:00:12Z
-  Total Products: 4412
+  Updated: 2025-11-25T23:57:36Z
+  Total Products: 4413
 - [COATS & JACKETS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/coats-jackets): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:45Z
   Total Products: 63
@@ -4365,8 +4288,8 @@
   Updated: 2025-11-23T22:38:45Z
   Total Products: 37
 - [MINI DRESSES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/mini-dresses): - It's a Girly Place - Type
-  Updated: 2025-11-23T22:48:31Z
-  Total Products: 32
+  Updated: 2025-11-25T20:46:22Z
+  Total Products: 40
 - [T-SHIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/t-shirts): - It's a Girly Place - Type
   Updated: 2025-11-23T18:24:20Z
   Total Products: 11
@@ -4374,8 +4297,8 @@
   Updated: 2025-11-22T17:56:45Z
   Total Products: 9
 - [MIDI DRESSES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/midi-dresses): - It's a Girly Place - Type
-  Updated: 2025-11-23T18:58:54Z
-  Total Products: 41
+  Updated: 2025-11-25T20:55:49Z
+  Total Products: 48
 - [MAXI SKIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/maxi-skirts): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:45Z
   Total Products: 0
@@ -4389,10 +4312,10 @@
   Updated: 2025-11-22T17:56:46Z
   Total Products: 9
 - [PANTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/pants): - It's a Girly Place - Type
-  Updated: 2025-11-22T17:56:46Z
-  Total Products: 68
+  Updated: 2025-11-25T17:07:58Z
+  Total Products: 69
 - [SKIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/skirts): - It's a Girly Place - Type
-  Updated: 2025-11-22T17:56:46Z
+  Updated: 2025-11-25T18:40:33Z
   Total Products: 80
 - [MINI SKIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/mini-skirts): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:46Z
@@ -4401,8 +4324,8 @@
   Updated: 2025-11-22T17:56:46Z
   Total Products: 6
 - [BLOUSES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/blouses): - It's a Girly Place - Type
-  Updated: 2025-11-23T16:46:36Z
-  Total Products: 42
+  Updated: 2025-11-25T23:58:05Z
+  Total Products: 56
 - [CAMI TOP - It's a Girly Place - Type](https://itsagirlyplace.com/collections/cami-top): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:46Z
   Total Products: 1
@@ -4431,8 +4354,8 @@
   Updated: 2025-11-23T05:51:52Z
   Total Products: 8
 - [SHIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/shirts): - It's a Girly Place - Type
-  Updated: 2025-11-23T06:40:28Z
-  Total Products: 16
+  Updated: 2025-11-25T23:23:45Z
+  Total Products: 20
 - [PLUS SIZE COATS & JACKETS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-coats-jackets): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:46Z
   Total Products: 1
@@ -4455,14 +4378,14 @@
   Updated: 2025-11-22T17:56:47Z
   Total Products: 53
 - [TUNICS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/tunics): - It's a Girly Place - Type
-  Updated: 2025-11-23T05:33:44Z
-  Total Products: 12
+  Updated: 2025-11-25T17:54:09Z
+  Total Products: 13
 - [PLUS SIZE TUNICS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-tunics): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:47Z
   Total Products: 13
 - [TANK TOPS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/tank-tops): - It's a Girly Place - Type
-  Updated: 2025-11-23T16:17:51Z
-  Total Products: 43
+  Updated: 2025-11-24T15:58:02Z
+  Total Products: 44
 - [PLUS SIZE TANK TOPS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-tank-tops): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:47Z
   Total Products: 8
@@ -4491,8 +4414,8 @@
   Updated: 2025-11-22T17:56:47Z
   Total Products: 0
 - [ALL PRODUCTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/all): Shop all products from It’s a Girly Place — inclusive, sustainable fashion and accessories that empower women and give back $1 per purchase to animal welfare.
-  Updated: 2025-11-23T23:00:12Z
-  Total Products: 4410
+  Updated: 2025-11-25T23:57:36Z
+  Total Products: 4411
 - [Chic Hobo bags Collection | It’s a Girly Place](https://itsagirlyplace.com/collections/hobo-bags): Discover timeless elegance with the Chic Hobo bags Collection from It’s a Girly Place — sustainable, styles that give back $1 per purchase to animal welfare.
   Updated: 2025-11-22T17:56:47Z
   Total Products: 20
@@ -4545,8 +4468,8 @@
   Updated: 2025-11-22T17:56:48Z
   Total Products: 0
 - [MIDI Skirts Collection | It’s a Girly Place](https://itsagirlyplace.com/collections/midi-skirts): Explore the MIDI Skirts Collection at It’s a Girly Place — chic, inclusive, and sustainable styles that flatter every body and support animal welfare.
-  Updated: 2025-11-22T17:56:48Z
-  Total Products: 6
+  Updated: 2025-11-25T18:40:36Z
+  Total Products: 7
 - [Organic Fashion & Beauty | It’s a Girly Place](https://itsagirlyplace.com/collections/organic): Shop organic fashion at It’s a Girly Place — sustainable, inclusive, and empowering styles that give back $1 per purchase to animal welfare.
   Updated: 2025-11-22T17:56:48Z
   Total Products: 1
@@ -4623,6 +4546,10 @@
   - [New Blog Post](https://itsagirlyplace.com/blogs/news/new-blog-post-1)
     Updated: 2025-11-22T21:44:51Z
     Author: Shopify API
+- [The Must-Have Jacket for Chilly Days](https://itsagirlyplace.com/blogs/the-must-have-jacket-for-chilly-days)
+  - [Sustainable Clothing: The Future of Fashion and How to Make Eco-Friendly Choices](https://itsagirlyplace.com/blogs/the-must-have-jacket-for-chilly-days/sustainable-clothing-the-future-of-fashion-and-how-to-make-eco-friendly-choices): Sustainable Clothing: The Future of Fashion and How to Make Eco-Friendly Choices
+    Updated: 2025-11-24T03:46:23Z
+    Author: Jojie Bonate
 
 ## Store Pages
 
