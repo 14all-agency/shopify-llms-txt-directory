@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-09-30T12:20:15Z
 - Contact Email: info@aevitas-uk.co.uk
-- Updated At: 2025-11-26T04:00:30.169Z
+- Updated At: 2025-11-26T08:00:30.268Z
 
 ## Products
 
@@ -1296,7 +1296,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/8-Watch-Box-in-Black-Leather-Finish-Fine-Quality-by-Aevitas.webp?v=1760451062
   Price: £159.95 GBP
 - [4 Watch Box in Black Leather Finish Fine Quality by Aevitas](https://aevitas-uk.co.uk/products/4-watch-box-in-black-leather-finish-fine-quality-by-aevitas): The Black Vegan Leather 4 Watch Box by Aevitas is a great quality and best design watch box. It can hold up to 4 wrist watches in the soft yet firm cushion in the position
-  Updated: 2025-11-22T17:24:06Z
+  Updated: 2025-11-26T07:22:45Z
   Vendor: Aevitas
   Product Type: Watch Box
   Availability: Available
