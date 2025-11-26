@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-11-20T00:00:39.358Z
+- Updated At: 2025-11-26T00:01:00.201Z
 
 ## Products
 
@@ -12789,7 +12789,7 @@
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/313f6292-244c-460f-872d-f863487a39c6.jpg?v=1757164839
   Price: CHF 42.60 CHF
 - [Suitable For Small And Medium-sized Cat Hollow Design Multifunctional Double-layer Cat Station](https://cilly.us/products/suitable-for-small-and-medium-sized-cat-hollow-design-multifunctional-double-layer-cat-station): Product Features Material & Craftsmanship Cat Cabinet features MDF with melamine coating, offering a smooth and easy-to-clean surface. Its moisture-resistant and durable properties make it ideal for humid or dusty environments, maintaining aesthetic appeal over long-term use. Structure & Functional DesignThe cabinet integrates multiple circular openings for easy cat access and movement. The bottom storage space accommodates a litter box or toys, while the open-top design serves as a viewing platform, encouraging cats to climb and explore naturally. Dimensions & Space AdaptabilityMeasuring 35cm × 35cm × 70cm (L×W×H), this compact and lightweight piece fits flexibly into corners of living rooms, balconies, or bedrooms. It acts as a space-saving core component for standalone pet zones without compromising functionality. Aesthetic & Home IntegrationWith a pure white base and minimalist lines, the design blends seamlessly into modern minimalist home decor styles. Its light color palette avoids visual bulkiness, balancing practicality with decorative value across diverse interior schemes.
-  Updated: 2025-09-07T12:04:05Z
+  Updated: 2025-11-25T08:14:30Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -30706,7 +30706,7 @@
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/75588e83-24d2-444c-a67c-63ac453f4605.jpg?v=1762207111
   Price: CHF 32.50 CHF
 - [Customizable dog tags](https://cilly.us/products/customizable-dog-tags): Pendant material: metal material: metal Category: Keychains, dog tags Shape: round
-  Updated: 2025-11-19T21:46:20Z
+  Updated: 2025-11-20T12:16:21Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -30740,7 +30740,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2156367337589.jpg?v=1763586745
     Price: CHF 9.40 CHF
 - [DIY Alphabet Dog Name Pet Collar Wear Accessories](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories): Product Information: Material: PU Product Category: Collar Specifications (length * width:) XS: 30*1.5 CM, S: 37*1.5 CM, M: 42*2.0 CM, L: 51*2.5 CM Accessories material: zinc alloy Adjustment range (CM): XS20-26; S27-33; M29-38; L36-46 Size Information: Packing List: Leather collar x1
-  Updated: 2025-11-19T21:55:41Z
+  Updated: 2025-11-20T15:51:27Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
