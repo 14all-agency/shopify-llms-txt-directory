@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-11-25T00:00:30.007Z
+- Updated At: 2025-11-26T00:00:38.293Z
 
 ## Products
 
@@ -217,7 +217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/61KKboPNG1L._AC.jpg?v=1757517100
     Price: $1.00 USD
 - [Sensory Wall Reversible Sequin Fabric - Arts & Crafts | Fabrics Star](https://fabricsstar.com/products/sensory-wall-reversible-sequin-fabric): Bring fun and creativity to your projects with Sensory Wall Reversible Sequin Fabric from Fabrics Star. Available in 5 colors, this fabric is easy to flip!
-  Updated: 2025-11-23T20:45:34Z
+  Updated: 2025-11-25T19:51:56Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -501,7 +501,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEWPORT118-LODEN-GREEN.jpg?v=1757517170
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric-2): Discover luxurious Soft Velvet Fabric at Fabrics Star. Perfect for a variety of sewing projects, this fabric offers both elegance and comfort.
-  Updated: 2025-11-12T16:26:13Z
+  Updated: 2025-11-25T13:06:22Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/White.jpg?v=1757517222
     Price: $1.00 USD
 - [Brocade Velvet Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/brocade-scroll-velvet-fabric): Add a touch of sophistication to your upholstery projects with Brocade Scroll Velvet Fabric from Fabrics Star. Buy brocade velvet fabric for premium quality fabric.
-  Updated: 2025-11-23T18:51:37Z
+  Updated: 2025-11-25T18:30:15Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2081,7 +2081,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEWPORT-BEACH-TOBBACO-5.jpg?v=1757517441
     Price: $1.00 USD
 - [Newport Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/newport-1): Elevate your sewing projects with the Newport 1 Fabric Collection at Fabrics Star. Explore a diverse range of premium textiles, from elegant patterns to modern designs.
-  Updated: 2025-11-10T16:04:41Z
+  Updated: 2025-11-25T20:34:38Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -9748,7 +9748,7 @@
   Updated: 2025-11-24T12:15:14Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-11-24T12:15:14Z
+  Updated: 2025-11-25T12:15:35Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-11-24T12:15:14Z
@@ -9763,19 +9763,19 @@
   Updated: 2025-11-20T23:16:59Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-11-24T12:15:14Z
+  Updated: 2025-11-25T12:15:35Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-11-24T12:15:14Z
+  Updated: 2025-11-25T12:15:35Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
   Updated: 2025-11-22T12:15:48Z
   Total Products: 534
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-11-24T12:15:14Z
+  Updated: 2025-11-25T12:15:35Z
   Total Products: 12
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-11-24T12:15:14Z
+  Updated: 2025-11-25T12:15:35Z
   Total Products: 666
 
 ## Blogs
