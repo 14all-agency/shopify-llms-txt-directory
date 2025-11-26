@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-11-24T00:00:29.272Z
+- Updated At: 2025-11-26T00:01:17.551Z
 
 ## Products
 
@@ -1852,7 +1852,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_1e3110eb-bfc0-448d-b29a-a1f4c7d5b55d.jpg?v=1751478382
     Price: ₹1,359.00 INR
 - [Buy ​Medvance Cervical Pillow - Surgismart](https://surgismart.in/products/medvance-cervical-pillow-blue): Elevate your sleep experience with the Medvance Cervical Pillow. Scientifically designed to support your neck and head, this pillow helps alleviate neck pain and stiffness. Its contoured shape promotes proper spinal alignment, ensuring a restful and rejuvenating sleep. Wake up feeling refreshed and ready to take on the day. - Surgismart
-  Updated: 2025-10-15T09:37:04Z
+  Updated: 2025-11-24T01:00:23Z
   Vendor: Medvance Surgicals
   Product Type: CUSHION
   Availability: Available
@@ -3277,7 +3277,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-11-23T12:17:20Z
+  Updated: 2025-11-25T12:17:59Z
   Total Products: 153
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-11-10T12:17:21Z
@@ -3460,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-11-23T12:17:20Z
+  Updated: 2025-11-25T12:17:59Z
   Total Products: 5
 
 ## Blogs
