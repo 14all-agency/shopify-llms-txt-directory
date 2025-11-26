@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2025-08-18T15:09:55Z
 - Contact Email: info@etycase.com
-- Updated At: 2025-11-25T00:00:28.195Z
+- Updated At: 2025-11-26T00:00:51.631Z
 
 ## Products
 
