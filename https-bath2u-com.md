@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-11-25T00:00:33.080Z
+- Updated At: 2025-11-26T00:00:31.318Z
 
 ## Products
 
@@ -1355,7 +1355,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/TAP-5070-Bk.png?v=1675148519
   Price: RM 220.00 MYR
 - [TAPI 630mm Black Square Frame Mirror](https://bath2u.com/products/tapi-630mm-black-square-frame-mirror): Specifications : Mirror Size : L 480 x W 28 x H 630 mm Material : Aluminium with Powder Coating Mirror Thickness (mm) : 4 mm
-  Updated: 2024-04-18T15:06:22Z
+  Updated: 2025-11-25T01:04:03Z
   Vendor: TAPI
   Product Type: Bathroom Mirror
   Availability: Available
@@ -2508,7 +2508,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/B002.png?v=1678415853
   Price: RM 40.00 MYR
 - [ALFRED VICTORIA Chrome Single Lever Basin Mixer Tap](https://bath2u.com/products/alfred-victoria-chrome-single-lever-basin-mixer-tap): Specification : Core Material : Brass High Quality Chrome Plated Finish 35mm Ceramic Cartridge Attached with Soft Output Aerator Complete with a pair of Flexible Hose
-  Updated: 2025-02-15T02:55:01Z
+  Updated: 2025-11-25T03:01:41Z
   Vendor: ALFRED VICTORIA
   Product Type: Deck Mounted Tap
   Availability: Available
