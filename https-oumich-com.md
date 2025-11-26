@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-11-24T20:16:12.690Z
+- Updated At: 2025-11-26T00:00:27.666Z
 
 ## Products
 
@@ -1649,8 +1649,8 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Koper_model.jpg?v=1763744811
   Price: € 11,70 EUR
-- [Maxi Jersey hijab Dennenappel - Zachte & Rekbare Hijab](https://oumich.com/products/maxi-jersey-hijab-44-dennenappel): Ontdek onze Maxi Jersey hijab in Dennenappel. Premium jersey met lycra
-  Updated: 2025-11-23T15:21:00Z
+- [Maxi Jersey hijab Dennenappel - extra zacht en rekbaar](https://oumich.com/products/maxi-jersey-hijab-dennenappel): Maxi Jersey Hijab in kleur Dennenappel (75x180cm). Premium lycra stof, extra zacht en rekbaar. Kreukt niet en blijft mooi zitten. Nu bestellen!
+  Updated: 2025-11-25T22:49:59Z
   Vendor: byOumich
   Product Type: Direct sales
   Availability: Available
@@ -1733,7 +1733,7 @@ BRO Webshop - de one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-11-23T15:20:48Z
   Total Products: 8
 - [Hijab online kopen – elegante & comfortabele hijabs | byOumich](https://oumich.com/collections/hijab-kopen-online-elegante-hoofdmode-bij-bro-webshop): Ontdek chiffon-, jersey – en mousseline hijabs in vele kleuren. Bestel je hijab online bij byOumich met snelle levering in België, Nederland & Frankrijk.
-  Updated: 2025-11-23T15:20:48Z
+  Updated: 2025-11-25T22:50:00Z
   Total Products: 31
 - [Moderne islamitische herenmode – thobes & tunieken | byOumich](https://oumich.com/collections/moderne-kleding-voor-de-moslim-man): Ontdek moderne islamitische herenkleding: comfortabele thobes, djellaba’s en overhemden. Snelle levering in België, Nederland & Frankrijk.
   Updated: 2025-11-08T14:53:54Z
@@ -1751,7 +1751,7 @@ BRO Webshop - de one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-11-23T15:20:48Z
   Total Products: 2
 - [Premium Jersey Hijab](https://oumich.com/collections/stretchy-comfortabel-premium-jersey): Een zachte & rekbare premium jersey hijab, die makkelijk blijft zitten zonder speldjes. Ideaal voor dagelijks gebruik en sport.
-  Updated: 2025-11-23T15:20:49Z
+  Updated: 2025-11-25T22:50:00Z
   Total Products: 20
 - [Basic maar comfortabel](https://oumich.com/collections/basic-maar-comfortabel-katoenen-hoofddoek)
   Updated: 2025-11-23T15:20:49Z
