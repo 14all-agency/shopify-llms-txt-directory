@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-22T04:17:36Z
 - Contact Email: Sunnymello810@gmail.com
-- Updated At: 2025-11-25T00:00:37.485Z
+- Updated At: 2025-11-26T00:00:28.057Z
 
 ## Products
 
@@ -4737,12 +4737,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Snowflake-Swarovski-Crystal-Pendant-Necklace_-Holiday-Jewelry_-Christmas-Gift-Idea_-Sparkly-Crystal-Necklace-Sunny-Sea-Glass-Jewelry-10121742.jpg?v=1762488053
   Price: $38.95 USD
-- [Christmas  Tree  Earrings](https://sunnyseaglassjewelry.com/products/christmas-tree-jewelry-set-necklace-earrings-bundle): These charming Christmas tree earrings make the perfect holiday accessory and festive jewelry piece for your seasonal celebrations or as a handmade gift or Christmas present for someone special. Crafted with hunter green Czech glass beads, sterling silver components, and delicate red star accents, these dangle Christmas earrings showcase beautiful green glass detailing and traditional Christmas symbolism. Festive Holiday Earrings for Your Winter Celebrations. • Handcrafted with genuine hunter green Czech glass Christmas tree beads (17mm x 12mm) featuring elegant silver wash pressed glass design• Adorned with vibrant red star beads, Silver Tierra Cast bead caps, and decorative wire wrapping for extra sparkle• Made with quality sterling silver ear wires for sensitive ears• Perfectly sized at approximately 1-1/4 inches in dangle length• Makes an ideal handmade Christmas present for friends, family, or yourself. ◄ Production and Shipping ► ✂️ Production Time: 1 to 2 days📦 Standard Shipping: 1 to 2 daysThank you for visiting my shop.
-  Updated: 2025-11-16T09:27:25Z
+- [Christmas Green Tree Earrings - Festive Handmade Jewelry, Perfect Holiday Gift](https://sunnyseaglassjewelry.com/products/christmas-tree-jewelry-set-necklace-earrings-bundle): Celebrate the season with Christmas Green Tree Earrings. These handcrafted holiday earrings feature green Czech beads, red star accents, and sterling silver components. Perfect gift!
+  Updated: 2025-11-25T12:49:32Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire wrapped earrimgs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Photoroom_20251101_162927.jpg?v=1763242077
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Photoroom_20251101_162927.jpg?v=1764074970
   - [Red Star](https://sunnyseaglassjewelry.com/products/christmas-tree-jewelry-set-necklace-earrings-bundle?variant=58382617641041)
     Availability: Available
     Price: $22.95 USD
