@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-11-24T00:01:48.467Z
+- Updated At: 2025-11-26T00:01:01.101Z
 
 ## Products
 
@@ -930,8 +930,8 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/bath-time-beats-shower-speaker-wireless-waterproof-771034.webp?v=1728238345
     Price: $14.95 USD
 - [Replacement Fire TV Voice Remote Control for Easy Use](https://ursupermart.com/products/replacement-amazon-fire-tv-remote): Find your ideal voice TV remote here, offering hands-free control, quick app access, and simple navigation for seamless entertainment; buy now!
-  Updated: 2025-11-19T20:09:46Z
-  Vendor: S1B|S1|Meta - Dsers**
+  Updated: 2025-11-24T22:30:30Z
+  Vendor: S1B|S1|Meta - Dsers** + Blog
   Product Type: TV remote control
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/streaming-service-remote-control.webp?v=1728941307
@@ -1099,7 +1099,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/leopard-print-bag-top-angle.webp?v=1730923669
   Price: $59.95 USD
 - [Tote Bags: Reversible Vegan Leather Lip Print Design](https://ursupermart.com/products/tote-bags-reversible-vegan-leather-lip-print-design): Tote bags that are reversible and vegan leather let you show off your bold style with a fun lip print or sleek metallic look; grab yours today!
-  Updated: 2025-11-19T20:10:06Z
+  Updated: 2025-11-24T23:23:42Z
   Vendor: S1B|S1|S1B|Meta - Trendsi**-UP
   Product Type: Reversible vegan leather tote bag
   Availability: Available
@@ -1109,7 +1109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/paris-themed-tote-bag-illustration.webp?v=1728267615
     Price: $60.95 USD
   - [All Emotion](https://ursupermart.com/products/tote-bags-reversible-vegan-leather-lip-print-design?variant=41440096616538)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/colorful-lips-print-tote-bag.webp?v=1728267615
     Price: $60.95 USD
 - [Women Handbags: Professional Vegan Leather Tote](https://ursupermart.com/products/women-handbags-professional-vegan-leather-tote): Women Handbags: Elevate your style with this structured vegan tote, perfect for work and travel, keeping essentials organized and secure. Shop now!
@@ -1197,7 +1197,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fuschia-leather-top-handle-bag.webp?v=1730324008
     Price: $42.95 USD
 - [Crossbody Bags: Small Yellow & Secure for Everyday](https://ursupermart.com/products/crossbody-bags-small-yellow-eco-leather-saddle): Crossbody bags offer hands-free security for your daily essentials. This stylish yellow eco-leather bag adds a chic pop of color; discover yours today!
-  Updated: 2025-11-19T20:10:18Z
+  Updated: 2025-11-24T23:23:37Z
   Vendor: S1B|S1|S1B|Meta - Trendsi**-UP
   Product Type: Crossbody bag
   Availability: Available
@@ -1211,7 +1211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/lilac-croc-embossed-crossbody-nikky-bag.webp?v=1731802785
     Price: $31.95 USD
 - [Women Handbags: White Vegan Shoulder Bag for Daily Use](https://ursupermart.com/products/women-handbags-white-vegan-shoulder-bag-set): Women handbags: This chic white vegan leather set offers spacious organization and modern style for your busy life. Find your versatile companion now!
-  Updated: 2025-11-19T20:10:21Z
+  Updated: 2025-11-24T23:23:16Z
   Vendor: S1B|S1|S1B|Meta - Trendsi**-UP
   Product Type: Handbag set
   Availability: Available
@@ -1899,15 +1899,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/navy-quilted-diaper-backpack-charging-port.webp?v=1730660449
     Price: $54.95 USD
-- [Designer Crossbody Bag | Color Block Fashion Statement](https://ursupermart.com/products/color-block-crossbody-bag-vegan-leather): Elevate your style with our Color Block Crossbody Bag. Made from premium vegan leather, this versatile accessory combines fashion and function. Shop now!
-  Updated: 2025-11-19T20:11:40Z
-  Vendor: S1B|Meta - Trendsi
-  Product Type: Crossbody Bag
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/pastel-yellow-pink-designer-crossbody-bag.webp?v=1730916355
-  Price: $40.95 USD
 - [Graphic Crossbody Bag – Eco-Friendly & Fashion Forward](https://ursupermart.com/products/graphic-eco-friendly-crossbody-handbag): Shop this chic crossbody handbag! Bold, eco-friendly design makes it a great gift idea. Don’t miss the Best Cyber Monday deals!
-  Updated: 2025-11-19T20:11:43Z
+  Updated: 2025-11-24T23:23:25Z
   Vendor: S1B|Meta - Trendsi
   Product Type: cross body hand bag
   Availability: Available
@@ -1989,7 +1982,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2025-11-21T22:28:21Z
+  Updated: 2025-11-24T16:38:36Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -15397,7 +15390,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cute-summer-dress-tropical-vacation-wear.webp?v=1744044037
     Price: $57.95 USD
 - [Shop Sleeveless A-Line Midi Dress with Slit](https://ursupermart.com/products/sleeveless-midi-dress-with-slit): Casual Summer Style Meta Description: Order the best comfortable sleeveless midi dress with a side slit online. Multiple colors. Free shipping included
-  Updated: 2025-11-19T20:44:32Z
+  Updated: 2025-11-24T06:23:46Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Summer Dress
   Availability: Available
@@ -16644,7 +16637,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/dress-green-tiered-soft-feminine-look.webp?v=1751690925
     Price: $44.95 USD
 - [Midi Dress for Women Floral Ruffles](https://ursupermart.com/products/midi-dress-for-women-casual-elegant-party-wear-outfit-1): Find your perfect Midi Dress for summer with our collection of comfortable, easy-care smocked dresses featuring floral patterns and relaxed fits.
-  Updated: 2025-11-19T20:47:00Z
+  Updated: 2025-11-25T23:31:33Z
   Vendor: S1B|Updated - Trendsi
   Product Type: Smocked Floral Midi Dress
   Availability: Available
@@ -16698,7 +16691,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/smocked-off-shoulder-floral-midi-dress-full.webp?v=1751920758
     Price: $41.95 USD
 - [Floral Dresses for Women Square Neck Style](https://ursupermart.com/products/floral-dresses-for-women-beautiful-flowy-designs-online): Floral cami dress with pockets, comfortable and versatile for everyday wear, made from easy-care polyester, perfect for summer.
-  Updated: 2025-11-19T20:47:02Z
+  Updated: 2025-11-24T10:21:25Z
   Vendor: S1B|Updated - Trendsi
   Product Type: Floral Square Neck Cami Dress with Pockets
   Availability: Available
@@ -16968,7 +16961,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/pet-cooling-pad-multiple-sizes-pink.webp?v=1747497034
     Price: $24.95 USD
 - [Knee Pad for Workouts: Secure Support & Injury Protection](https://ursupermart.com/products/knee-pad-workouts-support-injury-prevention): Product Questions Answered: This knee pad offers comfort, support, and protection for workouts, preventing injuries; get yours today and stay active!
-  Updated: 2025-11-19T20:48:05Z
+  Updated: 2025-11-25T20:25:26Z
   Vendor: Make | CJ
   Product Type: Knee pad
   Availability: Available
@@ -17404,7 +17397,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/halterneck-fan-ivory-white-color.webp?v=1755274187
     Price: $19.95 USD
 - [Espresso Machine for Home Use Under $500](https://ursupermart.com/products/espresso-machine-automatic-coffee-maker-brewer-device): Experience the perfect shot with our 20 bar Espresso Machine, ideal for home baristas, featuring a built-in milk frother for lattes and cappuccinos.
-  Updated: 2025-11-21T10:26:25Z
+  Updated: 2025-11-24T07:25:22Z
   Vendor: S1B|Updated - CJ
   Product Type: Espresso Machine
   Availability: Available
@@ -18095,7 +18088,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/portable-magnetic-phone-holder-white-accessory.webp?v=1753896986
     Price: $29.95 USD
 - [Colombian Shapewear - Sculpt & Slim Instantly!](https://ursupermart.com/products/best-colombian-shapewear-body-shapers): Shop Colombian shapewear for ultimate tummy control.  Our fajas offer post-surgery support & a flattering silhouette.  Buy now!
-  Updated: 2025-11-21T09:26:32Z
+  Updated: 2025-11-24T13:25:27Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Colombian Shapewear (Fajas, Body Shaper, Tummy Control Shapewear, Post-Surgery Shapewear, Butt Lifter Shapewear, Melibelt Bodysuit)
   Availability: Available
@@ -18121,7 +18114,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/body-shaper-fajas-tummy-control-black.webp?v=1752771030
     Price: $38.95 USD
   - [Black / 3XL](https://ursupermart.com/products/best-colombian-shapewear-body-shapers?variant=41968196190298)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/body-shaper-fajas-tummy-control-black.webp?v=1752771030
     Price: $42.95 USD
   - [Beige / S](https://ursupermart.com/products/best-colombian-shapewear-body-shapers?variant=41968196485210)
@@ -21554,7 +21547,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2025-11-23T12:26:30Z
+  Updated: 2025-11-24T14:26:57Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -22538,7 +22531,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fleece-jogger-pink-women-soft-drawstring-pants.webp?v=1751594983
     Price: $38.95 USD
 - [Men's Trousers for Comfort and Style Everyday](https://ursupermart.com/products/mens-trousers-with-large-pockets-for-comfort-and-practicality): Comfortable men's trousers with large pockets and durable stitching, perfect for work, hiking, or everyday use.
-  Updated: 2025-11-23T06:26:47Z
+  Updated: 2025-11-24T02:28:17Z
   Vendor: S1B|@Updated - CJ
   Product Type: Men's Trousers
   Availability: Available
@@ -22737,7 +22730,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/659c82c8-d7e4-4b58-9740-6e2f8fcec335.jpg?v=1755830480
   Price: $649.95 USD
 - [Fairy Lights String Christmas Ribbon Bow Tie](https://ursupermart.com/products/fairy-lights-string-christmas-ribbon-bow-tie): Product information: Packing: OPP bag Item No.: Ribbon with colorful lights Material: Cloth + LED light Size: width 5CM Packing list: Lantern*1
-  Updated: 2025-11-23T19:26:56Z
+  Updated: 2025-11-25T04:26:36Z
   Vendor: S1B|@CJ
   Product Type: Ribbon Christmas Lights
   Availability: Available
@@ -26141,7 +26134,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/MeshPanelHigh-WaistActiveLeggings-Red.webp?v=1758892939
     Price: $29.95 USD
 - [Wart Remover Cream for Skin Tags & Moles. Clear Skin Fast.](https://ursupermart.com/products/wart-remover-cream-skin-tags-moles-fast-results): Wart Remover cream effectively eliminates skin tags, warts, and moles for clearer, smoother skin in just 7 days, suitable for all skin types. Get yours today!
-  Updated: 2025-11-21T09:26:35Z
+  Updated: 2025-11-25T07:26:47Z
   Vendor: S1B|S1|@S1B|UrSuperMart
   Product Type: Skin cream
   Availability: Available
@@ -26611,13 +26604,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/tabletop-foosball-game-wood-mini.webp?v=1761260324
   Price: $44.95 USD
-- [Electronic Keyboard for Beginners Kids & Adults Fun](https://ursupermart.com/products/electronic-keyboard-for-beginners-kids-adults-fun): This 61-key electronic keyboard makes learning music fun for all ages with tones, rhythms, and a mic; explore your musical talent and start playing today!
-  Updated: 2025-11-20T14:26:30Z
-  Vendor: S1B|S1|CJ
-  Product Type: Electronic keyboard
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/electronic-keyboard-toy-with-microphone.webp?v=1761337397
-  Price: $78.95 USD
 - [Bath toys: Fun spraying whale lights for happy kids](https://ursupermart.com/products/spraying-whale-bath-toys-for-kids-happy): Bath toys for kids: this automatic spraying whale with colorful lights and music makes bath time a joyful, sensory adventure! Discover the fun.
   Updated: 2025-11-19T21:09:35Z
   Vendor: @S1B|S1|CJ
@@ -31211,7 +31197,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-insulated-jacket-green-black.webp?v=1763558045
     Price: $59.95 USD
 - [Winter Parka for Women Warm Fur Hooded Stylish Coat](https://ursupermart.com/products/women-fur-hooded-warm-winter-parka-coat-stylish): Winter Parka for women: Stay warm and stylish in this versatile, fur-hooded coat with secure pockets and an adjustable waist for a perfect fit. Shop today!
-  Updated: 2025-11-22T01:26:45Z
+  Updated: 2025-11-25T04:26:40Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Winter Parka
   Availability: Available
@@ -31388,7 +31374,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/foldable-phone-stand-dual-view-display.webp?v=1762555567
   Price: $11.95 USD
 - [Plush Jacket for Women - Warm & Cozy Faux Fur](https://ursupermart.com/products/plush-jacket-for-women-warm-cozy-faux-fur-jacket): This plush jacket for women offers ultimate warmth and cozy comfort with a relaxed fit and full zipper. Stay stylish on chilly days; get yours today!
-  Updated: 2025-11-19T21:16:46Z
+  Updated: 2025-11-24T08:26:41Z
   Vendor: S1B|S1|CJ
   Product Type: Women's faux fur jacket
   Availability: Available
@@ -33623,7 +33609,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/indoor-putting-green-size-specs-view.webp?v=1762485223
   Price: $129.95 USD
 - [Christmas Elf Doll Funny Ozzy Rocker Holiday Gag Gift](https://ursupermart.com/products/christmas-elf-doll-funny-rocker-gag-gift-holiday-decor): This funny christmas elf doll, resembling a rock legend, brings humorous, poseable fun to your holidays. Grab this unique decoration and make everyone laugh!
-  Updated: 2025-11-22T13:26:47Z
+  Updated: 2025-11-25T14:28:23Z
   Vendor: S1B|S1|CJ
   Product Type: Novelty Doll
   Availability: Available
@@ -36149,14 +36135,14 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-seashell-necklace-gift-box-display.webp?v=1763861093
   Price: $0.00 USD
 - [Magnetic Wireless Charger - Fast 15W Power & Easy Use](https://ursupermart.com/products/magnetic-wireless-charger-fast-15w-power-easy-use-iphone): Magnetic wireless charger offers 15W fast, effortless power with perfect alignment, decluttering your space and protecting your phone. Get yours now!
-  Updated: 2025-11-22T08:16:11Z
+  Updated: 2025-11-24T06:30:36Z
   Vendor: S1B|S1|CJ
   Product Type: Magnetic wireless charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c327d19f-74dc-4d26-90d8-265c6f4444f1.jpg?v=1763756152
   Price: $0.00 USD
 - [Layered Anklet Set Trendy Gold Chains for Summer Style](https://ursupermart.com/products/layered-anklet-set-trendy-gold-chains-for-summer-style-anklets): This layered anklet set instantly elevates your style with five trendy gold chains, perfect for any occasion. Shop now to express your unique personality!
-  Updated: 2025-11-23T07:39:14Z
+  Updated: 2025-11-24T03:28:11Z
   Vendor: S1B|S1|CJ
   Product Type: anklet set
   Availability: Available
@@ -36278,6 +36264,122 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2037fa8a-125f-4e28-8eec-ffb5ffb662f5.jpg?v=1763760928
     Price: $0.00 USD
+- [Gothic Heart Necklace - Unique Sword Design for Edgy Style](https://ursupermart.com/products/gothic-heart-necklace-sword-design-for-edgy-style-unique): This gothic heart necklace lets you express your bold, unique style with its striking gold-finished heart and sword design. Elevate any outfit and shop now!
+  Updated: 2025-11-25T05:55:15Z
+  Vendor: S1B|S1|CJ
+  Product Type: Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gothic-heart-necklace-pink-heart-silver-chain.webp?v=1764007368
+  - [2 silver bracelet rings](https://ursupermart.com/products/gothic-heart-necklace-sword-design-for-edgy-style-unique?variant=42582676144218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gothic-heart-necklace-silver-red-heart-ring.webp?v=1764007483
+    Price: $0.00 USD
+  - [Gold Ruby](https://ursupermart.com/products/gothic-heart-necklace-sword-design-for-edgy-style-unique?variant=42582676176986)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gothic-heart-necklace-gold-red-double-chain.webp?v=1764007483
+    Price: $0.00 USD
+  - [Gold And Silver](https://ursupermart.com/products/gothic-heart-necklace-sword-design-for-edgy-style-unique?variant=42582676209754)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gothic-heart-necklace-red-heart-double-chain.webp?v=1764007483
+    Price: $0.00 USD
+  - [Pink Gold](https://ursupermart.com/products/gothic-heart-necklace-sword-design-for-edgy-style-unique?variant=42582676242522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gothic-heart-necklace-pink-crystal-layered.webp?v=1764007483
+    Price: $0.00 USD
+  - [Pink Heart](https://ursupermart.com/products/gothic-heart-necklace-sword-design-for-edgy-style-unique?variant=42582676275290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gothic-heart-necklace-pink-heart-dual-chain.webp?v=1764007483
+    Price: $0.00 USD
+  - [Pink Heart Golden Sword](https://ursupermart.com/products/gothic-heart-necklace-sword-design-for-edgy-style-unique?variant=42582676308058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gothic-heart-necklace-gold-pink-heart.webp?v=1764007483
+    Price: $0.00 USD
+  - [Pink Silver](https://ursupermart.com/products/gothic-heart-necklace-sword-design-for-edgy-style-unique?variant=42582676340826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gothic-heart-necklace-pink-heart-silver-chain.webp?v=1764007368
+    Price: $0.00 USD
+  - [Red Heart Silver Sword](https://ursupermart.com/products/gothic-heart-necklace-sword-design-for-edgy-style-unique?variant=42582676373594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gothic-heart-necklace-red-heart-silver-gold.webp?v=1764007483
+    Price: $0.00 USD
+  - [Silver Ruby](https://ursupermart.com/products/gothic-heart-necklace-sword-design-for-edgy-style-unique?variant=42582676406362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gothic-heart-necklace-silver-red-layered.webp?v=1764007368
+    Price: $0.00 USD
+- [Christmas Charm Necklaces Set - 7 Festive Holiday Styles](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry): Christmas charm necklaces: a set of seven festive pieces with sparkling rhinestones to instantly elevate your holiday spirit; shop now for joyful style!
+  Updated: 2025-11-25T21:18:09Z
+  Vendor: S1B|S1|CJ
+  Product Type: Necklace set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-holiday-charms-collection.webp?v=1764103218
+  - [Santa](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry?variant=42582694821978)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-santa-face-pendant.webp?v=1764103218
+    Price: $0.00 USD
+  - [Reindeer](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry?variant=42582694854746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-gold-reindeer-pendant.webp?v=1764103218
+    Price: $0.00 USD
+  - [Red Mitten](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry?variant=42582694887514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-red-stocking-pendant.webp?v=1764103010
+    Price: $0.00 USD
+  - [Snowmen Red Mitten](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry?variant=42582694920282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-snowman-charm-necklace.webp?v=1764103218
+    Price: $0.00 USD
+  - [Candy Kane](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry?variant=42582694953050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-striped-cross-pendant.webp?v=1764103218
+    Price: $0.00 USD
+  - [Christmas Tree Garland](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry?variant=42582694985818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-gold-tree-pendant.webp?v=1764103218
+    Price: $0.00 USD
+  - [Bells](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry?variant=42582695018586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-gold-bell-pendant.webp?v=1764103218
+    Price: $0.00 USD
+  - [Christmas Tree Balls](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry?variant=42582695051354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-green-tree-necklace.webp?v=1764103010
+    Price: $0.00 USD
+  - [Candy Kane with Bow](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry?variant=42582695084122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-candy-cane-heart.webp?v=1764103010
+    Price: $0.00 USD
+  - [Snowflake](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry?variant=42582695116890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-snowflake-gold-necklace.webp?v=1764103218
+    Price: $0.00 USD
+  - [Christmas Tree w Present](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry?variant=42582695149658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-green-tree-charm.webp?v=1764103218
+    Price: $0.00 USD
+  - [Christmas Wreath](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry?variant=42582695182426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-holly-wreath-charm.webp?v=1764103009
+    Price: $0.00 USD
+  - [Christmas Stocking White](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry?variant=42582695215194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-white-stocking-pendant.webp?v=1764103218
+    Price: $0.00 USD
+  - [Christmas Stocking Red](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry?variant=42582695247962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-red-stocking-pendant.webp?v=1764103010
+    Price: $0.00 USD
+  - [Bell with Bow](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry?variant=42582695280730)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-gold-bells-charm.webp?v=1764103218
+    Price: $0.00 USD
+  - [Reindeer Face](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry?variant=42582695313498)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-reindeer-face-pendant.webp?v=1764103010
+    Price: $0.00 USD
+  - [Christmas Present](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry?variant=42582695346266)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-gift-box-necklace.webp?v=1764103218
+    Price: $0.00 USD
 - [Trident Pendant Necklace - Show Your Style & Power](https://ursupermart.com/products/trident-pendant-necklace-style-power-mythical-steel-symbol): This trident pendant necklace lets you express your unique style with a durable steel mythical symbol, available in three cool colors. Get yours today!
   Updated: 2025-11-23T08:58:49Z
   Vendor: S1B|S1|CJ
@@ -36295,6 +36397,36 @@
   - [Silver](https://ursupermart.com/products/trident-pendant-necklace-style-power-mythical-steel-symbol?variant=42582770712666)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1444818458520.jpg?v=1763762416
+    Price: $0.00 USD
+- [Dumbbell Fitness Bracelet - Stylish Lava Stone Charm](https://ursupermart.com/products/dumbbell-fitness-bracelet-lava-stone-mens-fitness-gift): Dumbbell fitness bracelet: express your dedication to a healthy lifestyle with stylish lava stone beads and metallic charms; get yours and stay motivated!
+  Updated: 2025-11-25T23:09:18Z
+  Vendor: S1B|S1|CJ
+  Product Type: Fitness Bracelet Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/dumbbell-bracelet-stack-wrist-photo.webp?v=1764111826
+  - [Onyx Gunmetal](https://ursupermart.com/products/dumbbell-fitness-bracelet-lava-stone-mens-fitness-gift?variant=42582774448218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/dumbbell-bracelet-gunmetal-onyx-beads.webp?v=1764111903
+    Price: $0.00 USD
+  - [Onyx Gold](https://ursupermart.com/products/dumbbell-fitness-bracelet-lava-stone-mens-fitness-gift?variant=42582774513754)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/dumbbell-bracelet-gold-onyx-beads.webp?v=1764111897
+    Price: $0.00 USD
+  - [Onyx Silver](https://ursupermart.com/products/dumbbell-fitness-bracelet-lava-stone-mens-fitness-gift?variant=42582774546522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/dumbbell-bracelet-silver-matte-beads.webp?v=1764111893
+    Price: $0.00 USD
+  - [Volcanic Silver](https://ursupermart.com/products/dumbbell-fitness-bracelet-lava-stone-mens-fitness-gift?variant=42582774579290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/dumbbell-bracelet-silver-lava-beads.webp?v=1764111888
+    Price: $0.00 USD
+  - [Volcanic Gunmetal](https://ursupermart.com/products/dumbbell-fitness-bracelet-lava-stone-mens-fitness-gift?variant=42582774612058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/dumbbell-bracelet-gunmetal-lava-beads.webp?v=1764111883
+    Price: $0.00 USD
+  - [Volcanic Gold](https://ursupermart.com/products/dumbbell-fitness-bracelet-lava-stone-mens-fitness-gift?variant=42582774644826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/dumbbell-bracelet-gold-lava-beads.webp?v=1764111878
     Price: $0.00 USD
 - [Christmas Tree Earrings Festive Gold Gemstone Sparkle](https://ursupermart.com/products/christmas-tree-earrings-festive-gold-gemstone-sparkle-shine): Christmas tree earrings instantly elevate your holiday look with festive sparkle and charm; express your spirit and shop now to shine bright this season!
   Updated: 2025-11-22T10:21:25Z
@@ -36838,7 +36970,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/5AD1B0E7A444A9667AA6DD6058C985D8.jpg?v=1763785892
     Price: $0.00 USD
 - [Gold Bar Pendant Necklace - Delicate & Versatile Style](https://ursupermart.com/products/gold-bar-pendant-necklace-delicate-versatile-style-for-women): This elegant gold bar pendant necklace offers versatile style for any occasion, boosting your confidence with its modern design; shop now to elevate your look!
-  Updated: 2025-11-23T00:12:29Z
+  Updated: 2025-11-24T00:24:05Z
   Vendor: S1B|S1|eprolo
   Product Type: Pendant necklace
   Availability: Available
@@ -37334,7 +37466,7 @@
   Updated: 2025-11-16T20:47:03Z
   Total Products: 91
 - [Amazing Cozy Christmas Decor Deals Starting at Just $12](https://ursupermart.com/collections/cozy-christmas-decor-deals-under-30): Transform your home with cozy christmas decor deals under $30. Budget friendly holiday decorating solutions for Instagram-worthy spaces. Shop now!
-  Updated: 2025-11-23T12:06:41Z
+  Updated: 2025-11-25T12:07:10Z
   Total Products: 23
 - [LED Halloween Costumes & Masks | Spooky Accessories 2025](https://ursupermart.com/collections/spooky-wearable-tech-costumes): Shop LED Halloween costumes & masks that light up, move & make spooky sounds! Glow-in-the-dark Halloween accessories & decorations. Tech Halloween 2025!
   Updated: 2025-11-01T02:07:14Z
@@ -37346,13 +37478,13 @@
   Updated: 2025-11-14T21:42:40Z
   Total Products: 88
 - [Best Cyber Monday Deals Under 25 Tech Gifts & Free Shipping](https://ursupermart.com/collections/cyber-monday-deals-under-25): Discover cyber monday deals under 25 on quality tech gifts with free shipping today. Perfect holiday tech gifts under 25 that solve real problems for everyone.
-  Updated: 2025-11-23T12:06:41Z
+  Updated: 2025-11-25T12:07:10Z
   Total Products: 15
 - [Best Budget Tech Gifts Under $15: Viral TikTok Finds 2025](https://ursupermart.com/collections/tech-gifts-under-15-viral-tiktok): Shop 15 viral TikTok tech gifts under $15 that actually work. Budget wireless earbuds, phone accessories & trending gadgets. Free shipping. Limited stock!
   Updated: 2025-11-14T21:42:40Z
   Total Products: 85
 - [Secret Santa Gifts under $30: Unique Ideas That Won't Break the Bank](https://ursupermart.com/collections/christmas-gift-ideas-under-30): Christmas Gifts That Won't Break the Bank Discover the perfect Christmas gifts for everyone on your list without exceeding your budget! Our collection features a wide array of items, all priced under $30, making it easier than ever to find thoughtful gifts that won't strain your wallet. Whether you're shopping for friends, family, or co-workers, these budget-friendly options are ideal for Secret Santa gifts, stocking stuffers, and last-minute surprises. Plus, enjoy the added benefit of free shipping on all orders, ensuring that your holiday shopping is both convenient and cost-effective. Stocking Stuffers for Everyone Looking for stocking stuffers that are sure to delight? Our curated selection includes fun and practical items perfect for filling those stockings this holiday season. From stylish fashion accessories to quirky kitchen gadgets, there’s something for everyone. These unique gifts are not only affordable but also thoughtful, making them ideal for anyone from your office buddy to your favorite aunt. Explore our collection and find the perfect small treasures that will bring joy to your loved ones. Best Holiday Gift Ideas Under $30 Finding the best holiday gift ideas can be a challenge, especially when you're on a budget. Our collection is designed with this in mind, offering a variety of delightful options that cater to all tastes and interests. Choose from trendy women's clothing, sleek watches, or handy electronics that make great gifts for men and women alike. Each item is carefully selected to ensure quality and style while keeping prices low. This holiday season, impress your friends and family with thoughtful gifts that show you care without overspending. Christmas Gifts for Men and Women Searching for Christmas gifts for men or Christmas gifts for women? Look no further! Our diverse collection has something special for everyone. Whether you're shopping for a tech enthusiast who loves gadgets or a fashion-forward friend who appreciates stylish accessories, our range of products includes everything from phone cases to massagers. These gifts are perfect for all ages, making them suitable for friends, family members, or even co-workers participating in office gift exchanges. Stocking Stuffer Ideas That Shine When it comes to stocking stuffer ideas, creativity is key! Our collection features an assortment of small yet impactful gifts that are sure to impress. Consider fun toys, trendy glasses, or unique kitchen gadgets as delightful additions to any stocking. Each item is thoughtfully chosen to bring smiles without breaking the bank. These stocking stuffers are not just practical; they also add a touch of excitement to the holiday festivities. Secret Santa Gifts Everyone Will Love Participating in a Secret Santa exchange? Our selection of Secret Santa gifts is perfect for surprising your colleagues or friends with something unique and enjoyable. From stylish bags to charming Christmas ornaments, each gift is under $30 and designed to bring joy without the stress of overspending. Make your Secret Santa memorable with our thoughtful picks that cater to diverse tastes. Gift Ideas for Those Who Have Everything Struggling with what to buy for those who seem to have it all? Our collection includes gifts for men who have everything, offering practical yet fun items that they might not have thought to buy themselves. From innovative electronics to fashionable accessories, these unique finds will surely impress even the hardest-to-shop-for individuals on your list. Christmas Gifts for Mom That Show You Care Show your appreciation this holiday season with thoughtful Christmas gifts for mom. Our selection includes lovely fashion accessories and cozy items that she will cherish. Each gift is designed with love and care, ensuring that you can express how much she means to you without exceeding your budget. Celebrate her this Christmas with a gift that reflects her personality and style. Holiday Sales You Can't Miss Take advantage of our incredible holiday sales! With every item priced under $30 and free shipping included, you can shop confidently knowing you're getting the best deals this season. Don’t miss out on these fantastic offers—perfect for last-minute shoppers looking to spread some holiday cheer without spending too much. This holiday season, make your shopping experience enjoyable and stress-free with our extensive collection of budget-friendly gifts. Each item is selected not just for its affordability but also for its ability to bring joy and happiness during this festive time of year. Whether you're looking for stocking stuffers or meaningful presents, our collection has everything you need to make this Christmas unforgettable!
-  Updated: 2025-11-23T12:06:41Z
+  Updated: 2025-11-25T12:07:10Z
   Total Products: 25
 - [Viral Tech Gadgets Under $50 TikTok Users Are Buying Now](https://ursupermart.com/collections/viral-tech-gadgets-under-50): Shop viral tech gadgets under $50 trending on TikTok 2025. Power banks, gaming consoles & flashlights with free shipping. Limited holiday deals now!
   Updated: 2025-11-18T19:27:52Z
@@ -37361,7 +37493,7 @@
   Updated: 2025-11-14T21:42:40Z
   Total Products: 93
 - [Top Gift Ideas Under $25 That Look Expensive - Beauty & Tech](https://ursupermart.com/collections/best-gift-ideas-under-25): Best gift ideas under $25 that look expensive! Budget beauty gifts, tech accessories & holiday gifts under 25 for everyone. Quality guaranteed today!
-  Updated: 2025-11-16T21:16:00Z
+  Updated: 2025-11-24T08:03:10Z
   Total Products: 93
 - [Affordable Luxury Jewelry - Necklaces, Earrings, Bracelets](https://ursupermart.com/collections/affordable-luxury-jewelry-necklaces-bracelets-earrings): Discover luxury fashion jewelry at affordable prices! Shop necklaces, earrings, bracelets, charms & pendants. Free shipping on quality jewelry pieces!
   Updated: 2025-10-24T13:31:42Z
@@ -37394,7 +37526,7 @@
   Updated: 2025-10-01T23:31:57Z
   Total Products: 33
 - [Gift Ideas – Unique, Cool, and Affordable Picks](https://ursupermart.com/collections/gift-ideas): Explore Gift Ideas for every occasion. Find unique, cool, and affordable gifts for birthdays, holidays, and special moments, all in one place and free shipping.
-  Updated: 2025-11-23T12:06:41Z
+  Updated: 2025-11-25T12:07:10Z
   Total Products: 47
 - [Top Mens Watches 2025: Luxury Waterproof Sales Under $125!](https://ursupermart.com/collections/best-mens-watches-luxury-waterproof): Shop trending mens watches 2025! Best waterproof luxury watches and stylish watches for men $15-$125. Free shipping, hassle-free returns!
   Updated: 2025-11-18T19:27:52Z
@@ -37409,7 +37541,7 @@
   Updated: 2025-11-21T17:00:33Z
   Total Products: 40
 - [Free Gifts for Everyone: Quality Jewelry Collection 2025](https://ursupermart.com/collections/free-gifts-for-everyone): Free gifts for everyone including chains, watches, rings and necklaces. Quality jewelry at zero cost for holiday gifting. Free shipping included.
-  Updated: 2025-11-23T05:15:26Z
+  Updated: 2025-11-25T23:29:08Z
   Total Products: 88
 
 ## Blogs
