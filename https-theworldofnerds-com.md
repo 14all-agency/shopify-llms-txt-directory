@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-11-26T00:00:59.716Z
+- Updated At: 2025-11-27T00:01:28.308Z
 
 ## Products
 
 - [Toyota Supra TOMICA Model 1:60 Scale No. 117 Collector's Edition](https://theworldofnerds.com/products/toyota-supra): Discover the TOMICA Toyota GR Supra Model 1:60 Scale No. 117 Collector's Edition, a must-have for Toyota Supra enthusiasts. Perfect for collectors and fans alike!
-  Updated: 2025-10-29T00:18:47Z
+  Updated: 2025-11-26T12:09:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -242,7 +242,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/546_1.jpg?v=1723379554
   Price: ₹589.00 INR
 - [ITACHI UCHIHA BOBBLEHEAD](https://theworldofnerds.com/products/itachi-uchiha-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. Elevate your decor and keep your mobile device handy with this whimsical and practical accessory.
-  Updated: 2025-09-15T18:07:46Z
+  Updated: 2025-11-26T10:14:22Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -291,7 +291,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03710.jpg?v=1723455328
   Price: ₹399.00 INR
 - [HULK BOBBLEHEAD](https://theworldofnerds.com/products/hulk-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. Elevate your decor and keep your mobile device handy with this whimsical and practical accessory.
-  Updated: 2025-09-17T19:21:53Z
+  Updated: 2025-11-26T10:23:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -305,14 +305,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03681.jpg?v=1723455669
   Price: ₹399.00 INR
 - [SONIC BOBBLEHEAD](https://theworldofnerds.com/products/sonic-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. Elevate your decor and keep your mobile device handy with this whimsical and practical accessory.
-  Updated: 2025-07-29T05:10:37Z
+  Updated: 2025-11-26T10:29:00Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03702.jpg?v=1723455878
   Price: ₹399.00 INR
 - [FUNKO POP! DISNEY:KINGDOM HEARTS-ORGANIZATION 13 MICKEY WITH KEY-334](https://theworldofnerds.com/products/funko-pop-disney-kingdom-hearts-mickey-with-key-334): Funko Pop! collectibles are vibrant, stylized vinyl figures that capture characters from various franchises, including movies, TV shows, comics, video games, and more. Each figure features a distinctive oversized head and a small, simplistic body, making them instantly recognizable and highly collectible. With thousands of different characters released over the years, Funko Pop! figures are celebrated for their quirky charm and attention to detail, allowing fans to bring their favorite characters to life in a fun and visually appealing way. Whether a casual fan or a dedicated collector, Funko Pop! figures offer a delightful way to showcase your passion for pop culture.
-  Updated: 2025-10-19T12:55:07Z
+  Updated: 2025-11-26T12:15:50Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -487,35 +487,35 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5cbe1b6e-6bf3-452c-a381-c52e63bf8556.jpg?v=1725972653
   Price: ₹1,799.00 INR
 - [NARUTO BOBBLEHEAD](https://theworldofnerds.com/products/naruto-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy.
-  Updated: 2025-09-16T19:12:44Z
+  Updated: 2025-11-26T10:10:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03771.jpg?v=1726925635
   Price: ₹399.00 INR
 - [ZORO BOBBLEHEAD](https://theworldofnerds.com/products/zoro-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy.
-  Updated: 2025-09-15T18:45:21Z
+  Updated: 2025-11-26T10:15:16Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03742.jpg?v=1726925924
   Price: ₹399.00 INR
 - [GOJO SATORU BOBBLEHEAD](https://theworldofnerds.com/products/gojo-satoru-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy.
-  Updated: 2025-10-18T14:18:15Z
+  Updated: 2025-11-26T10:16:00Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03759.jpg?v=1726926035
   Price: ₹399.00 INR
 - [INOSUKE HASHIBIRA BOBBLEHEAD](https://theworldofnerds.com/products/inosuke-hashibira-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy.
-  Updated: 2025-09-16T06:55:12Z
+  Updated: 2025-11-26T10:17:45Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03750.jpg?v=1726926370
   Price: ₹399.00 INR
 - [KILLUA ZOLDYCK BOBBLEHEAD](https://theworldofnerds.com/products/killua-zoldyck-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. Elevate your decor and keep your mobile device handy with this whimsical and practical accessory.
-  Updated: 2025-08-08T11:03:23Z
+  Updated: 2025-11-26T10:19:05Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -536,7 +536,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03767.jpg?v=1726927225
   Price: ₹399.00 INR
 - [YUJI ITADORI BOBBLEHEAD](https://theworldofnerds.com/products/yuji-itadori-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy.
-  Updated: 2025-07-29T05:10:44Z
+  Updated: 2025-11-26T10:21:55Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -550,14 +550,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03763.jpg?v=1726930419
   Price: ₹399.00 INR
 - [TOM BOBBLEHEAD](https://theworldofnerds.com/products/tom-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy.
-  Updated: 2025-09-16T16:52:31Z
+  Updated: 2025-11-26T10:25:51Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03726.jpg?v=1726930625
   Price: ₹399.00 INR
 - [HARRY POTTER BOBBLEHEAD](https://theworldofnerds.com/products/harry-potter-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy.
-  Updated: 2025-09-17T17:04:30Z
+  Updated: 2025-11-26T10:30:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -921,7 +921,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/20241007_205015.jpg?v=1728381263
   Price: ₹399.00 INR
 - [PIKACHU PLAYING BASKETBALL KEYCHAIN](https://theworldofnerds.com/products/pikachu-playing-basketball): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature a variety of adorable designs that cater to all ages. Perfect for everyday use or as a charming gift, our keychains are lightweight, flexible, and available in multiple colors and styles. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you're looking to express your unique style or searching for the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-07-29T05:10:56Z
+  Updated: 2025-11-26T11:36:55Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1082,7 +1082,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/394.jpg?v=1729513953
   Price: ₹239.00 INR
 - [SPIDERMAN IN BLUE HOODY KEYCHAIN](https://theworldofnerds.com/products/spiderman-in-blue-hoody-keychain): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-10-04T12:38:00Z
+  Updated: 2025-11-26T11:02:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1698,7 +1698,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03887.jpg?v=1730033566
   Price: ₹399.00 INR
 - [NEZUKO KAMADO Q POSKET](https://theworldofnerds.com/products/nezuko-kamado-q-posket): Discover the enchanting world of Q Poskets, where charm meets artistry! These collectible figures feature a delightful range of beloved characters from anime, movies, and more, each meticulously designed with oversized heads and whimsical expressions. Perfect for fans and collectors alike, Q Poskets bring your favorite characters to life in a unique, stylized form. Key Features: Unique stylized designs High-quality craftsmanship Wide variety of characters Ideal for collectors and fans Start your Q Poskets collection today and celebrate your favorite characters in a whole new way!
-  Updated: 2025-08-16T18:36:30Z
+  Updated: 2025-11-26T10:48:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1712,7 +1712,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03910.jpg?v=1730033923
   Price: ₹399.00 INR
 - [ZINETSU Q POSKET](https://theworldofnerds.com/products/zinetsu-q-posket): Discover the enchanting world of Q Poskets, where charm meets artistry! These collectible figures feature a delightful range of beloved characters from anime, movies, and more, each meticulously designed with oversized heads and whimsical expressions. Perfect for fans and collectors alike, Q Poskets bring your favorite characters to life in a unique, stylized form. Key Features: Unique stylized designs High-quality craftsmanship Wide variety of characters Ideal for collectors and fans Start your Q Poskets collection today and celebrate your favorite characters in a whole new way!
-  Updated: 2025-07-31T09:58:17Z
+  Updated: 2025-11-26T10:49:40Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1726,7 +1726,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03918.jpg?v=1730034163
   Price: ₹399.00 INR
 - [TANJIRO Q POSKET](https://theworldofnerds.com/products/tanjiro-q-posket): Discover the enchanting world of Q Poskets, where charm meets artistry! These collectible figures feature a delightful range of beloved characters from anime, movies, and more, each meticulously designed with oversized heads and whimsical expressions. Perfect for fans and collectors alike, Q Poskets bring your favorite characters to life in a unique, stylized form. Key Features: Unique stylized designs High-quality craftsmanship Wide variety of characters Ideal for collectors and fans Start your Q Poskets collection today and celebrate your favorite characters in a whole new way!
-  Updated: 2025-09-17T17:50:10Z
+  Updated: 2025-11-26T10:50:35Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1754,7 +1754,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03846.jpg?v=1730034579
   Price: ₹399.00 INR
 - [BO PEEP Q POSKET](https://theworldofnerds.com/products/bo-peep-q-posket): Discover the enchanting world of Q Poskets, where charm meets artistry! These collectible figures feature a delightful range of beloved characters from anime, movies, and more, each meticulously designed with oversized heads and whimsical expressions. Perfect for fans and collectors alike, Q Poskets bring your favorite characters to life in a unique, stylized form. Key Features: Unique stylized designs High-quality craftsmanship Wide variety of characters Ideal for collectors and fans Start your Q Poskets collection today and celebrate your favorite characters in a whole new way!
-  Updated: 2025-08-10T04:12:12Z
+  Updated: 2025-11-26T10:52:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1810,14 +1810,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03858.jpg?v=1730035958
   Price: ₹399.00 INR
 - [PRINCESS ARIEL Q POSKET](https://theworldofnerds.com/products/princess-ariel-q-posket-2): Discover the enchanting world of Q Poskets, where charm meets artistry! These collectible figures feature a delightful range of beloved characters from anime, movies, and more, each meticulously designed with oversized heads and whimsical expressions. Perfect for fans and collectors alike, Q Poskets bring your favorite characters to life in a unique, stylized form. Key Features: Unique stylized designs High-quality craftsmanship Wide variety of characters Ideal for collectors and fans Start your Q Poskets collection today and celebrate your favorite characters in a whole new way!
-  Updated: 2025-10-24T03:08:59Z
+  Updated: 2025-11-26T10:55:30Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03825.jpg?v=1730036185
   Price: ₹399.00 INR
 - [WONDER WOMEN Q POSKET](https://theworldofnerds.com/products/wonder-women-q-posket): Discover the enchanting world of Q Poskets, where charm meets artistry! These collectible figures feature a delightful range of beloved characters from anime, movies, and more, each meticulously designed with oversized heads and whimsical expressions. Perfect for fans and collectors alike, Q Poskets bring your favorite characters to life in a unique, stylized form. Key Features: Unique stylized designs High-quality craftsmanship Wide variety of characters Ideal for collectors and fans Start your Q Poskets collection today and celebrate your favorite characters in a whole new way!
-  Updated: 2025-07-29T05:11:26Z
+  Updated: 2025-11-26T10:56:06Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1838,7 +1838,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC039501copycopy.jpg?v=1730036490
   Price: ₹399.00 INR
 - [FROZEN ELSA Q POSKET](https://theworldofnerds.com/products/frozen-elsa-q-posket): Discover the enchanting world of Q Poskets, where charm meets artistry! These collectible figures feature a delightful range of beloved characters from anime, movies, and more, each meticulously designed with oversized heads and whimsical expressions. Perfect for fans and collectors alike, Q Poskets bring your favorite characters to life in a unique, stylized form. Key Features: Unique stylized designs High-quality craftsmanship Wide variety of characters Ideal for collectors and fans Start your Q Poskets collection today and celebrate your favorite characters in a whole new way!
-  Updated: 2025-09-18T16:47:00Z
+  Updated: 2025-11-26T10:58:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1852,14 +1852,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03963.jpg?v=1730036823
   Price: ₹449.00 INR
 - [LUFFY BOBBLEHEAD](https://theworldofnerds.com/products/luffy-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy.
-  Updated: 2025-09-16T09:16:56Z
+  Updated: 2025-11-26T10:11:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03954.jpg?v=1730116880
   Price: ₹399.00 INR
 - [LUFFY BOBBLEHEAD](https://theworldofnerds.com/products/luffy-bobblehead-1): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy.
-  Updated: 2025-10-31T03:54:24Z
+  Updated: 2025-11-26T10:12:16Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1873,10 +1873,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03694.jpg?v=1730204833
   Price: ₹399.00 INR
 - [BATMAN BOBBLEHEAD](https://theworldofnerds.com/products/batman-bobblehead-1): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy.
-  Updated: 2025-10-07T13:28:52Z
+  Updated: 2025-11-26T10:23:55Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Not Available
+  Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03730.jpg?v=1730204916
   Price: ₹399.00 INR
 - [SHIN CHAN BOBBLEHEAD](https://theworldofnerds.com/products/shin-chan-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy.
@@ -1922,10 +1922,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/584_1.jpg?v=1730542374
   Price: ₹499.00 INR
 - [HARRY POTTER POCKET WATCH](https://theworldofnerds.com/products/harry-potter-pocket-watch): Discover the perfect blend of tradition and style with our exquisite pocket watch. Crafted with precision and attention to detail, this pocket watch features a stunning analog display, intricate craftsmanship, and a polished finish that enhances its classic appeal. Ideal for collectors and enthusiasts, it effortlessly complements any attire, making it a versatile accessory for formal occasions or everyday use. Key Features: Elegant design with a vintage-inspired aesthetic High-quality quartz movement for precision Ideal for gifting or personal use Embrace the charm of classic timekeeping with our pocket watch—where style meets functionality. Shop now and elevate your accessory game.
-  Updated: 2025-10-19T06:22:40Z
+  Updated: 2025-11-26T10:42:22Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Not Available
+  Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled.png?v=1730543815
   Price: ₹369.00 INR
 - [ONE PIECE POCKET WATCH](https://theworldofnerds.com/products/one-piece-pocket-watch): Discover the perfect blend of tradition and style with our exquisite pocket watch. Crafted with precision and attention to detail, this pocket watch features a stunning analog display, intricate craftsmanship, and a polished finish that enhances its classic appeal. Ideal for collectors and enthusiasts, it effortlessly complements any attire, making it a versatile accessory for formal occasions or everyday use. Key Features: Elegant design with a vintage-inspired aesthetic High-quality quartz movement for precision Ideal for gifting or personal use Embrace the charm of classic timekeeping with our pocket watch—where style meets functionality. Shop now and elevate your accessory game.
@@ -3672,7 +3672,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_11_6171036f-953b-4f8f-b024-ca0a702c8582.jpg?v=1738322588
   Price: ₹2,495.00 INR
 - [BBURAGO PORSCHE 911 CARRERA S SCALE - 1:24](https://theworldofnerds.com/products/bburago-porsche-911-carrera-s-scale-1-24): Experience the thrill of owning a 1:24 scale replica of the iconic BBURAGO PORSCHE 911 CARRERA S. With realistic details and precise craftsmanship, this model car is a must-have for any car enthusiast. Add it to your collection or gift it to a loved one and enjoy the beauty and precision of this scale model.
-  Updated: 2025-07-29T05:12:25Z
+  Updated: 2025-11-26T04:52:06Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4358,7 +4358,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2-2025-02-03T174951.124.jpg?v=1738644976
   Price: ₹1,625.00 INR
 - [MINGDI T - 64 TRAINING AIRCRAFT 524 PCS BLOCKS](https://theworldofnerds.com/products/mingdi-t-64-training-aircraft-524-pcs-blocks): The MINGDI T-64 Training Aircraft set includes 524 pieces for hours of building and playtime. With its realistic design and high-quality building blocks, this set is perfect for young aviation enthusiasts. Develop STEM skills while learning about aircraft construction and design with this educational set.
-  Updated: 2025-10-17T05:12:54Z
+  Updated: 2025-11-26T09:42:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4743,14 +4743,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/12_24fa6249-ae6a-4462-9519-8f4080f7a24e.jpg?v=1742893104
   Price: ₹449.00 INR
 - [SHARK 2.4GHZ REMOTE CONTROL](https://theworldofnerds.com/products/0457-toys-shark-2-4ghz-remote-control): Take the reins and dive into the aquatic world with 0457 TOYS SHARK 2.4GHZ REMOTE CONTROL. This high-tech remote control toy boasts a powerful 2.4GHz frequency, ensuring precise and responsive maneuvering capabilities. Experience a new level of control and thrill with this dynamic and versatile toy.
-  Updated: 2025-08-05T02:54:29Z
+  Updated: 2025-11-26T06:42:30Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_52ae81d1-db2e-4fa0-9305-9668260451ae.jpg?v=1738823948
   Price: ₹3,199.00 INR
 - [SPIDERMAN BLUETOOTH KARAOKE](https://theworldofnerds.com/products/spiderman-bluetooth-karaoke): This SPIDERMAN BLUETOOTH KARAOKE system allows you to connect wirelessly to your favorite devices and sing along to your favorite songs. With high-quality sound and a user-friendly interface, you'll feel like a superstar every time you use it. Singing has never been easier or more fun!
-  Updated: 2025-08-15T20:59:42Z
+  Updated: 2025-11-26T06:46:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4897,7 +4897,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7170.jpg?v=1739192119
   Price: ₹6,699.00 INR
 - [CRAZY TOYS DOCTOR STRANGE SCALE - 1:6](https://theworldofnerds.com/products/crazy-toys-doctor-strange-scale-1-6): Explore the mystical world of Doctor Strange with this highly detailed and accurate 1:6 scale figure by Crazy Toys. Crafted with precision and expert craftsmanship, this figure captures all the powerful and iconic features of the Sorcerer Supreme. A must-have for any fan or collector.
-  Updated: 2025-07-29T05:13:21Z
+  Updated: 2025-11-26T11:44:15Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5114,7 +5114,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_4b566136-c8ba-4908-96dd-5b2f920b4c5d.jpg?v=1739600021
   Price: ₹399.00 INR
 - [SON GOKU BOBBLEHEAD](https://theworldofnerds.com/products/son-goku-bobblehead): This SON GOKU BOBBLEHEAD is a must-have for any die-hard fan of the popular anime series. Made with high-quality materials, this bobblehead features a detailed design of the iconic character, allowing you to proudly display your love for the series. Perfect for collectors and enthusiasts alike.
-  Updated: 2025-09-15T17:24:46Z
+  Updated: 2025-11-26T10:21:16Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5338,7 +5338,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7548copy.jpg?v=1739950455
   Price: ₹1,125.00 INR
 - [SHINCHAN POKEMON SET OF 5](https://theworldofnerds.com/products/shinchan-pokemon-set-of-5): This set of 5 SHINCHAN POKEMON figures brings together the beloved characters of both series, providing hours of imaginative play. Each figure captures the unique personality and charm of these popular franchises, making for an exciting addition to any collection.
-  Updated: 2025-08-01T00:37:14Z
+  Updated: 2025-11-26T11:58:51Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5429,7 +5429,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC06107copy.jpg?v=1740056197
   Price: ₹399.00 INR
 - [THOR Q POSKET](https://theworldofnerds.com/products/thor-q-posket): Introducing the THOR Q POSKET - the perfect pocket-sized solution for all your organizational needs. With its compact design and efficient functionality, this product allows you to easily store your essentials while on-the-go. Made with durable materials, the THOR Q POSKET promises long-lasting use. Upgrade your organization game today.
-  Updated: 2025-07-29T05:13:36Z
+  Updated: 2025-11-26T10:57:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5667,7 +5667,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7808copy.jpg?v=1740124322
   Price: ₹1,299.00 INR
 - [WHITE & BLACK-ROLLS ROYCE PHANTOM SCALE - 1:32](https://theworldofnerds.com/products/white-black-rolls-royce-phantom-scale-1-32): Introducing the stunning and luxurious WHITE & BLACK-ROLLS ROYCE PHANTOM SCALE - 1:32. With its sleek and sophisticated design, this scale model accurately replicates the iconic car. Made with high-quality materials, it is perfect for collectors and car enthusiasts alike. Own a piece of automotive history today.
-  Updated: 2025-07-30T20:54:45Z
+  Updated: 2025-11-26T06:49:25Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5779,7 +5779,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/01_43ec6282-a0bb-471a-8e7b-89e568234e9d.jpg?v=1740214404
   Price: ₹150.00 INR
 - [ABISPA](https://theworldofnerds.com/products/abispa): ABISPA toy is a versatile and powerful product, perfect for those seeking a reliable solution. With ABISPA, you can expect a high-quality and efficient performance, delivering results with scientific precision and expertise. Trust in ABISPA for all your needs.
-  Updated: 2025-09-28T03:12:03Z
+  Updated: 2025-11-26T09:16:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6311,7 +6311,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC8551copy.jpg?v=1740545936
   Price: ₹1,399.00 INR
 - [SASUKE UCHIHA ACTION FIGURE](https://theworldofnerds.com/products/sasuke-uchiha-action-figure): This SASUKE UCHIHA ACTION FIGURE is a must-have for fans of the popular anime series. With highly detailed features and intricate design, this action figure perfectly captures the essence of the character. Crafted with quality materials, it is durable and perfect for display or play.
-  Updated: 2025-07-29T05:14:05Z
+  Updated: 2025-11-26T01:01:02Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6416,7 +6416,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250227_175438_056_-826854030.jpg?v=1740660829
   Price: ₹2,799.00 INR
 - [BLUE-SCARLET+VIOLET POKEMON TRADING CARDS GAME PK101](https://theworldofnerds.com/products/pokemon-blue-scarlet-violet-trading-card-game): Master the game with BLUE-SCARLET+VIOLET POKEMON TRADING CARDS GAME PK101. With this comprehensive set, you'll have all the tools you need to become a Pokemon expert. With a variety of cards to collect and trade, you'll be able to strengthen your deck and dominate the competition.
-  Updated: 2025-07-29T05:14:07Z
+  Updated: 2025-11-26T09:36:06Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6437,7 +6437,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250228_182024_296_1600719500.jpg?v=1740748972
   Price: ₹799.00 INR
 - [PINK-SCARLET& VIOLET POKEMON TRADING CARDS D1-PK40](https://theworldofnerds.com/products/pink-scarlet-violet-pokemon-trading-cards-d1-pk40): Unleash the ultimate power of PINK-SCARLET& VIOLET POKEMON TRADING CARDS D1-PK40. Complete your collection with this set of rare and powerful cards. Enhance your gameplay and become a true POKEMON expert. Don't miss out on the opportunity to own these highly sought after cards.
-  Updated: 2025-08-22T10:07:03Z
+  Updated: 2025-11-26T09:18:35Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9223,7 +9223,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e9899c9b-9f4c-44e9-8460-d27a34206466.jpg?v=1756470977
   Price: ₹1,199.00 INR
 - [Jujutsu Kaisen Chibi Squad: A Fun-Filled Miniature Collection](https://theworldofnerds.com/products/jujutsu-kaisen-chibi-squad-a-fun-filled-miniature-collection): This 5-piece Jujutsu Kaisen chibi figure set, each standing at approximately 6 cm, brings your favorite characters to life in a delightful, miniature form. From the intense yet determined Yuji to the mysterious Gojo and the courageous Nobara, each figure showcases the unique charm and strength of these beloved characters. Displayed on transparent stands, these figures are full of character and energy, perfect for any fan looking to add a bit of cuteness to their Jujutsu Kaisen collection. With their detailed features and the iconic Jujutsu Kaisen logo at the bottom, these chibi figures are a must-have for any fan of the series.
-  Updated: 2025-08-29T12:39:48Z
+  Updated: 2025-11-26T11:57:55Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
