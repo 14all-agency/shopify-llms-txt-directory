@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-11-26T00:00:44.569Z
+- Updated At: 2025-11-27T00:00:27.443Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
@@ -888,6 +888,20 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-little-book-of-spells-bag_6fe3a19e-2537-4f24-9c22-e63935457c0e.png?v=1763927488
     Price: 249,00 kr SEK
+- [IT'S PROBABLY FINE D20 Gaming Pin - Dark Aesthetic Enamel Pin](https://darkaestheticstudio.com/products/its-probably-fine-d20-pin): Premium D20 enamel pin för TTRPG-spelare. 3,3cm gaming pin med dark aesthetic design. Perfekt för rollspelare och D&D-fans. Högkvalitativ metallpin.
+  Updated: 2025-11-26T20:59:14Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/d20-pin-i-hand.png?v=1764187947
+  Price: 49,00 kr SEK
+- [I Am The Meowster Cat Wizard Gaming Pin - Enamel Pin](https://darkaestheticstudio.com/products/i-am-the-meowster-pin): Söt katt-trollkarl enamel pin för TTRPG-spelare. 3,7cm rund gaming pin med magiska detaljer. Perfekt för D&D-fans och kattälskare. Högkvalitativ metallpin.
+  Updated: 2025-11-26T21:19:35Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/i-am-the-meowster-pin-p-v-ska.png?v=1764188744
+  Price: 49,00 kr SEK
 
 ## Collections
 
@@ -895,8 +909,8 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-10-23T19:24:21Z
   Total Products: 1
 - [Accessoarer](https://darkaestheticstudio.com/collections/accessoarer): Små detaljer, stor effekt. Våra accessoarer är skapade för att förstärka din stil och uttrycka din identitet – oavsett om det är genom metall, textil eller symbolik.Från nyckelringar med budskap till smycken med skuggor – varje objekt bär på en berättelse. 🕯️ Begränsade upplagor🕯️ Designade med känsla för mörker och estetik🕯️ Perfekta som gåvor eller personliga signature
-  Updated: 2025-11-23T20:00:17Z
-  Total Products: 12
+  Updated: 2025-11-26T20:29:49Z
+  Total Products: 14
 - [Merch](https://darkaestheticstudio.com/collections/merch): 🖤 Darkness Queens Merch – För dig som vågar sticka utVälkommen till min merch-sida – ett litet hörn av internet där mörk estetik möter nördig passion. Här hittar du produkter med min logga, allt från hoodies med attityd till inredningsdetaljer som säger "nej tack" till beige.Alla produkter är noga utvalda med fokus på kvalitet, cruelty-free material och en känsla av att du är del av något större – en community av likasinnade som älskar det alternativa, det mystiska och det uttrycksfulla.🎁 Perfekt som present, till din egen samling eller för att göra vardagen lite mer magisk
   Updated: 2025-11-23T20:16:02Z
   Total Products: 1
@@ -904,17 +918,17 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-11-23T19:43:00Z
   Total Products: 9
 - [Alla produkter](https://darkaestheticstudio.com/collections/alla-produkter): Välkommen till Dark Aesthetic Studios samlingssida – en plats där skuggor möter skönhet och varje produkt bär på en berättelse. Här hittar du hela vårt kurerade sortiment: från konstnärliga prints och accessoarer till inredning och digitala verk, alla med en tydlig mörk estetik och själfull karaktär.
-  Updated: 2025-11-23T20:00:17Z
-  Total Products: 37
+  Updated: 2025-11-26T20:29:49Z
+  Total Products: 45
 - [Jul](https://darkaestheticstudio.com/collections/jul): A Darker December – Julkollektionen för De Som Firar i Skuggor🕯️ Glöm vita, beiga kulor och sockersöta tomtar. Den här kollektionen är för dig som vill att julen ska kännas – mystisk, vacker, och lite olydig. “A Darker December” är en samling dekorationer, textilier och figurer som förvandlar högtiden till ett visuellt ritualrum. Tänk mörkt vinrött, faceless figurer, skulpturala rosetter och plyschiga bakverk med en surrealistisk twist. Varje objekt är noga utvalt för att skapa kontrast: mellan ljus och skugga, tradition och dekadens, värme och distans. Det är en jul för dem som inte följer mallen – utan formar sin egen. Låt din jul bli ett uttryck för vem du är – inte vad du förväntas vara.
-  Updated: 2025-11-22T21:29:16Z
-  Total Products: 8
+  Updated: 2025-11-26T20:05:40Z
+  Total Products: 14
 - [Djur](https://darkaestheticstudio.com/collections/djur): I denna kollektion möter våra bästa vänner det märka och nördiga. 🐾 Den här kollektionen är för dig som vill att dina husdjur ska vara mer än bara söta. De ska vara ikoniska. Märkliga. Minnesvärda.
   Updated: 2025-11-23T19:07:46Z
   Total Products: 4
 - [Skuggnytt🕯️](https://darkaestheticstudio.com/collections/skuggnytt🕯️): Välkommen till Skuggnytt – Här samlas det senaste produkterna från vår studio.För dig som dras till det mystiska, det vackert udda och det visuellt djärva. Varje produkt är utvalt med omsorg – med känsla för detaljer, stämning och själ. Följ med in i skuggorna – där idéer föds, trender vrids och mörkret får tala.
-  Updated: 2025-11-23T20:00:17Z
-  Total Products: 32
+  Updated: 2025-11-26T20:29:49Z
+  Total Products: 40
 - [Dark Aesthetic Skor - Gothic & Edgy Footwear | Dark Aesthetic Studio](https://darkaestheticstudio.com/collections/skor): Upptäck vår kollektion av dark aesthetic skor. Platåsandaler, boots och mer med gotisk elegans och rebelliska detaljer. Premium kvalitet för din unika stil.
   Updated: 2025-11-23T19:31:21Z
   Total Products: 1
