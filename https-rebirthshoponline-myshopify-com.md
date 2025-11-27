@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-03T22:17:37Z
 - Contact Email: INFO.REBIRTH1@GMAIL.COM
-- Updated At: 2025-11-24T00:00:27.381Z
+- Updated At: 2025-11-27T00:02:18.945Z
 
 ## Products
 
@@ -3178,7 +3178,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/677651c1-f69f-4822-8f37-c2ecd90f43b0.jpg?v=1760713266
     Price: $81.41 USD
 - [Embroidered Flower Pullover Hoodie](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1): A heavy blend hoodie. Crafted from a soft blend of 50% cotton and 50% polyester. Features a double-lined hood with matching drawstring. The fabric's air jet yarn offers a softer feel and reduces pilling. Includes a front pouch pocket, and rib knit cuffs and waistband with spandex. Size guide S M L XL 2XL 3XL 4XL 5XL A) Length (cm) 68.6 71.1 73.7 76.2 78.7 81.3 84 86 B) Width (cm) 101.6 111.8 122 132 142.2 152.4 162 172 B) Half Chest (cm) 50.8 55.9 61 66 71.1 76.2 81 86 C) Sleeve Length (cm) 85.1 87.6 90.2 92.7 95.3 97.8 100 103 S M L XL 2XL 3XL 4XL 5XL A) Length (inches) 27 28 29 30 31 32 33.1 33.9 B) Width (inches) 40 44 48 52 56 60 63.8 67.7 B) Half Chest (inches) 20 22 24 26 28 30 31.9 33.9 C) Sleeve Length (inches) 33.5 34.5 35.5 36.5 37.5 38.5 39.4 40.6 Care Instructions General The Gildan 18500 hoodie is known for its robust fabric blend, comfort, and versatility, making it a popular choice for bulk orders and custom designs. Wash Machine wash with cold water is recommended to maintain the integrity of the fabric. Dry Tumble dry on medium setting. Store This hoodie is widely available online through various retailers, offering ease of purchase.
-  Updated: 2025-11-04T06:55:13Z
+  Updated: 2025-11-25T00:21:17Z
   Vendor: ReBirth.
   Product Type: Print Material
   Availability: Available
@@ -3208,23 +3208,23 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d5c5f29f-1fdf-4801-a741-17418e3e15e0.jpg?v=1762196102
     Price: $55.41 USD
   - [Graphite Heather / S](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667464306939)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a7da9433-9b8a-40db-8bec-e4b6ad82f0dc.jpg?v=1762196109
     Price: $47.88 USD
   - [Graphite Heather / M](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667464339707)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a7da9433-9b8a-40db-8bec-e4b6ad82f0dc.jpg?v=1762196109
     Price: $47.88 USD
   - [Graphite Heather / L](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667464372475)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a7da9433-9b8a-40db-8bec-e4b6ad82f0dc.jpg?v=1762196109
     Price: $47.88 USD
   - [Graphite Heather / XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667464405243)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a7da9433-9b8a-40db-8bec-e4b6ad82f0dc.jpg?v=1762196109
     Price: $47.88 USD
   - [Graphite Heather / 2XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667464438011)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a7da9433-9b8a-40db-8bec-e4b6ad82f0dc.jpg?v=1762196109
     Price: $51.79 USD
   - [Light Blue / S](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667464470779)
@@ -3252,11 +3252,11 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/6a17ab46-454d-4831-99be-956d86a5a5fc.jpg?v=1762196108
     Price: $55.41 USD
   - [Carolina Blue / S](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667464667387)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15c01961-af00-49a5-9542-fcd15359ae6b.jpg?v=1762196106
     Price: $47.88 USD
   - [Carolina Blue / 2XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667464700155)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15c01961-af00-49a5-9542-fcd15359ae6b.jpg?v=1762196106
     Price: $51.79 USD
   - [Sport Grey / S](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667464732923)
@@ -3284,23 +3284,23 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/f955666b-302c-4d97-a607-076107c973e8.jpg?v=1762196114
     Price: $55.41 USD
   - [Azalea / S](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667464929531)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/f3e8a13f-223b-49df-8da6-2ce42ab7f9f5.jpg?v=1762196112
     Price: $47.88 USD
   - [Azalea / M](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667464962299)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/f3e8a13f-223b-49df-8da6-2ce42ab7f9f5.jpg?v=1762196112
     Price: $47.88 USD
   - [Azalea / L](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667464995067)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/f3e8a13f-223b-49df-8da6-2ce42ab7f9f5.jpg?v=1762196112
     Price: $47.88 USD
   - [Azalea / XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667465027835)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/f3e8a13f-223b-49df-8da6-2ce42ab7f9f5.jpg?v=1762196112
     Price: $47.88 USD
   - [Azalea / 2XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667465060603)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/f3e8a13f-223b-49df-8da6-2ce42ab7f9f5.jpg?v=1762196112
     Price: $51.79 USD
   - [Royal / S](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667465093371)
@@ -3328,43 +3328,43 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/ff8ac3bf-2863-47dd-be4f-f2328ac86c5e.jpg?v=1762196105
     Price: $55.41 USD
   - [Cherry Red / S](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667465289979)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/59a6dd32-eef4-4f80-8270-603302c546f0.jpg?v=1762196103
     Price: $47.88 USD
   - [Cherry Red / M](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667465322747)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/59a6dd32-eef4-4f80-8270-603302c546f0.jpg?v=1762196103
     Price: $47.88 USD
   - [Cherry Red / L](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667465355515)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/59a6dd32-eef4-4f80-8270-603302c546f0.jpg?v=1762196103
     Price: $47.88 USD
   - [Cherry Red / XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667465388283)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/59a6dd32-eef4-4f80-8270-603302c546f0.jpg?v=1762196103
     Price: $47.88 USD
   - [Cherry Red / 2XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667465421051)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/59a6dd32-eef4-4f80-8270-603302c546f0.jpg?v=1762196103
     Price: $51.79 USD
   - [Heliconia / S](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667465453819)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/5cc915bc-d0f5-4889-9f34-9d8a5132d6d2.jpg?v=1762196107
     Price: $47.88 USD
   - [Heliconia / M](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667465486587)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/5cc915bc-d0f5-4889-9f34-9d8a5132d6d2.jpg?v=1762196107
     Price: $47.88 USD
   - [Heliconia / L](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667465519355)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/5cc915bc-d0f5-4889-9f34-9d8a5132d6d2.jpg?v=1762196107
     Price: $47.88 USD
   - [Heliconia / XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667465552123)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/5cc915bc-d0f5-4889-9f34-9d8a5132d6d2.jpg?v=1762196107
     Price: $47.88 USD
   - [Heliconia / 2XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667465584891)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/5cc915bc-d0f5-4889-9f34-9d8a5132d6d2.jpg?v=1762196107
     Price: $51.79 USD
   - [Maroon / S](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1?variant=47667465617659)
