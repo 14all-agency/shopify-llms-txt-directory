@@ -10,7 +10,7 @@
 - Contact Email: reverbarberproducts@gmail.com
 - Contact Phone: 0767661863
 - Address: Paunesti, Vrancea, 077145 Vrancea, Romania
-- Updated At: 2025-11-26T00:00:42.674Z
+- Updated At: 2025-11-27T00:01:46.193Z
 
 ## Products
 
@@ -226,7 +226,7 @@
   Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/ROVRA_SWEDISH_STAINLESS_STEEL_BLADE_1200x1200_9ec210e7-7483-47ee-9a2e-7866116301b7.jpg?v=1763463604
   Price: €15.00 EUR
 - [Cordless Professional Hair Trimmer X-TRIM 6500 RPM](https://rovra.com/products/cordless-professional-hair-trimmer-xtrim): Rovra's cordless professional hair trimmer X-TRIM delivers 6500 RPM power for precise, effortless grooming. Experience top durability and cutting-edge tech.
-  Updated: 2025-11-20T22:00:48Z
+  Updated: 2025-11-26T10:50:09Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -482,14 +482,14 @@
   Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/hairdresser-collar-cape-black-waterproof-salon-use.jpg?v=1751976555
   Price: €20.00 EUR
 - [Super Cut Hair Clipper 10000 RPM Cordless Precision](https://rovra.com/products/super-cut-hair-clipper-10000-rpm): Get precision with Rovra's super cut hair clipper 10000 RPM cordless trimmer, designed for durability and ease. Perfect for pros and enthusiasts alike.
-  Updated: 2025-11-17T14:02:11Z
+  Updated: 2025-11-26T10:52:48Z
   Vendor: Rovra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/rovra-super-cut-hair-clipper-10000-rpm-three-colors.jpg?v=1752670855
   Price: €250.00 EUR
 - [Professional Clipper Blade Replacement Supreme Cut](https://rovra.com/products/professional-clipper-blade-replacement-rovra): Upgrade with Rovra's SupremeCut Clipper Blade, the professional clipper blade replacement designed for precision, durability, and superior cutting performance.
-  Updated: 2025-09-05T09:33:14Z
+  Updated: 2025-11-26T10:52:48Z
   Vendor: Rovra
   Product Type: 
   Availability: Available
