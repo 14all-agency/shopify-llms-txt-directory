@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-11-26T00:00:44.662Z
+- Updated At: 2025-11-27T00:00:46.891Z
 
 ## Products
 
@@ -639,7 +639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Puff-Sleeve-Shawl-Collar-Blazer-Brinxx-Couture-6013.jpg?v=1739988534
     Price: $54.00 USD
 - [Side Slit Drop Shoulder Sweatshirt - Brinxx Couture](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt): Stay stylish while staying comfy with this chic Side Slit Drop Shoulder Sweatshirt. Featuring a unique design with a dramatic side slit, this cozy garment is perfect for everyday wear and special occasions. Its drop shoulder cut ensures maximum comfort and freedom of movement.
-  Updated: 2025-11-25T09:50:37Z
+  Updated: 2025-11-26T10:47:10Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -649,7 +649,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7137.jpg?v=1739988594
     Price: $31.00 USD
   - [Black / M](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461058742)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7137.jpg?v=1739988594
     Price: $31.00 USD
   - [Black / L](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461091510)
@@ -657,11 +657,11 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7137.jpg?v=1739988594
     Price: $31.00 USD
   - [Black / XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461124278)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7137.jpg?v=1739988594
     Price: $31.00 USD
   - [Black / 2XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461157046)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7137.jpg?v=1739988594
     Price: $31.00 USD
   - [White / S](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461189814)
@@ -8180,7 +8180,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-11-25T23:25:22Z
+  Updated: 2025-11-26T15:00:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -11581,7 +11581,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Heathered-Turtleneck-Mini-Sweater-Dress-Brinxx-Couture-1471.jpg?v=1709868845
     Price: $34.00 USD
 - [Ruched Surplice Long Sleeve Midi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/ruched-bodycon-long-sleeve-midi-dress): This beautiful Ruched Surplice Long Sleeve Midi Dress will make you look and feel like a goddess. Its flattering and feminine silhouette, with ruched detailing.
-  Updated: 2025-11-24T09:24:02Z
+  Updated: 2025-11-26T01:21:31Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16279,7 +16279,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Openwork-Color-Block-Plunge-Cover-Up-Brinxx-Couture-6527.jpg?v=1712073394
     Price: $30.00 USD
 - [Scoop Neck Spaghetti Strap Two-Piece Swim Set - Brinxx Couture](https://www.brinxxcouture.com/products/scoop-neck-spaghetti-strap-two-piece-swim-set): Dive into style and confidence with our Scoop Neck Spaghetti Strap Two-Piece Swim Set! Show off your curves and make a splash with this chic and comfortable swimsuit.
-  Updated: 2025-11-18T19:21:48Z
+  Updated: 2025-11-26T03:01:05Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16866,7 +16866,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Backless-Cowl-Neck-Sleeveless-Cami-Dress-Brinxx-Couture-8187.jpg?v=1730294572
     Price: $25.00 USD
 - [Ruched V-Neck Sleeveless Romper](https://www.brinxxcouture.com/products/ruched-v-neck-sleeveless-romper): Features: Ruched Sheer: Opaque Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Size US Top Length Bust Waist HIP Shoulder S 4 31.1 37.4 29.5 39.4 13.4 M 6/8 31.6 39 31.1 40.9 13.8 L 10/12 32.3 41.3 33.5 43.3 14.2 XL 14 33 43.7 35.8 45.7 14.6
-  Updated: 2025-11-24T07:41:42Z
+  Updated: 2025-11-26T03:01:07Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16880,11 +16880,11 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruched-V-Neck-Sleeveless-Romper-Brinxx-Couture-4927.jpg?v=1719724481
     Price: $29.99 USD
   - [Dust Storm / L](https://www.brinxxcouture.com/products/ruched-v-neck-sleeveless-romper?variant=43159705223350)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruched-V-Neck-Sleeveless-Romper-Brinxx-Couture-4927.jpg?v=1719724481
     Price: $29.99 USD
   - [Dust Storm / XL](https://www.brinxxcouture.com/products/ruched-v-neck-sleeveless-romper?variant=43159705256118)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruched-V-Neck-Sleeveless-Romper-Brinxx-Couture-4927.jpg?v=1719724481
     Price: $29.99 USD
 - [925 Sterling Silver Heart Ring](https://www.brinxxcouture.com/products/925-sterling-silver-heart-ring): Pieces: 1-piece Material: Platinum-plated, 18K gold-plated, 925 sterling silver Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Size Circumference 6 2 7 2.1 8 2.2
@@ -18615,7 +18615,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sexy-Satin-Slip-Sleeveless-Backless-Maxi-Dress-Brinxx-Couture-5442.webp?v=1730294836
     Price: $25.00 USD
 - [David Jones Quilted PU Leather Handbag - Brinxx Couture](https://www.brinxxcouture.com/products/david-jones-quilted-pu-leather-handbag): Upgrade your style with the luxurious David Jones Quilted PU Leather Handbag. Crafted with high-quality materials, this handbag exudes elegance.
-  Updated: 2025-10-29T14:42:44Z
+  Updated: 2025-11-26T04:40:02Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -18990,7 +18990,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Smocked-Wide-Leg-Pants-with-Pockets-Brinxx-Couture-2225.jpg?v=1730295148
     Price: $29.99 USD
 - [Ruched Wide Leg Pants with Pockets Brinxx Couture](https://www.brinxxcouture.com/products/ruched-wide-leg-pants-with-pockets): Elevate your style with our Ruched Wide Leg Pants with Pockets! The ruched design adds a touch of sophistication while the wide leg gives you ultimate comfort.
-  Updated: 2025-11-24T07:18:22Z
+  Updated: 2025-11-26T10:10:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -20124,7 +20124,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Pocketed-Open-Front-Long-Sleeve-Cardigan-Brinxx-Couture-5427.jpg?v=1730295749
     Price: $25.00 USD
 - [Drawstring Half Zip Hoodie and Joggers Active Set - Brinxx Couture](https://www.brinxxcouture.com/products/drawstring-half-zip-hoodie-and-joggers-active-set): Unleash the ultimate athleisure look with our Drawstring Half Zip Hoodie and Joggers Active Set. Featuring a drawstring hoodie with a convenient half zip and cozy joggers.
-  Updated: 2025-11-25T23:27:01Z
+  Updated: 2025-11-26T23:20:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -20874,7 +20874,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Crochet-Flower-Button-Up-Cardigan-Brinxx-Couture-9388.jpg?v=1730296211
     Price: $49.00 USD
 - [Striped Round Neck Long Sleeve Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/striped-round-neck-long-sleeve-sweater): Wrap yourself in style and comfort with our Striped Round Neck Long Sleeve Sweater. Made from soft and breathable fabric, this sweater features a round neck.
-  Updated: 2025-11-25T06:00:43Z
+  Updated: 2025-11-26T03:21:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -20994,7 +20994,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Round-Neck-Top-and-Shorts-Set-Brinxx-Couture-1381.jpg?v=1730296298
     Price: $25.00 USD
 - [Tied Pleated Printed Cap Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tied-pleated-printed-cap-sleeve-dress): Get ready to take on the day in style with our Tied Pleated Printed Cap Sleeve Dress! This fun and flirty dress feature cap sleeves and a playful, pleated design.
-  Updated: 2025-11-25T09:20:41Z
+  Updated: 2025-11-26T02:00:47Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -22515,7 +22515,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-11-25T23:36:51Z
+  Updated: 2025-11-26T23:41:35Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -24900,7 +24900,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Bootcut-Jeans-with-Pockets-Brinxx-Couture-7209.jpg?v=1733888444
     Price: $35.00 USD
 - [Mock Neck Lace Long Sleeve Blouse - Brinxx Couture](https://www.brinxxcouture.com/products/mock-neck-lace-long-sleeve-blouse): Elevate your style with our Mock Neck Lace Long Sleeve Blouse. The delicate lace and flattering mock neck are perfect for day to night. Free Shipping!
-  Updated: 2025-11-22T08:40:40Z
+  Updated: 2025-11-26T03:21:02Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -24965,7 +24965,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-11-25T10:20:36Z
+  Updated: 2025-11-26T08:21:00Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -25007,7 +25007,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9898_28aff93c-f8ba-4ad4-bf88-33c49108ab07.jpg?v=1736049331
     Price: $30.00 USD
   - [Brown / M](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531893047478)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9898_28aff93c-f8ba-4ad4-bf88-33c49108ab07.jpg?v=1736049331
     Price: $30.00 USD
   - [Brown / L](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531893080246)
@@ -30916,7 +30916,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01SSme5Z1uPKuVgjm6A__2652346029-0-cib.jpg?v=1743194313
     Price: $54.99 USD
 - [Square Neck Wide Strap Midi Tank Dress - Brinxx Couture](https://www.brinxxcouture.com/products/square-neck-wide-strap-midi-tank-dress): This midi tank dress boasts a flattering square neck and wide straps, perfect for any occasion. The timeless design adds a touch of sophistication to your wardrobe.
-  Updated: 2025-11-25T07:01:22Z
+  Updated: 2025-11-26T07:00:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -31356,242 +31356,6 @@
   - [Black & Red / XL](https://www.brinxxcouture.com/products/square-neck-cami-tanks-2-pieces?variant=43898221265078)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a4cbfa2e-7020-4fdf-a643-8b3590b5a0bc-Max-Origin.webp?v=1744123782
-    Price: $29.99 USD
-- [Plus Size Wide Strap Tank and Shorts Set - Brinxx Couture](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set): Elevate your summer style with our Plus Size Wide Strap Tank and Shorts Set! Perfectly designed to flatter your figure, this set offers wide straps for comfort.
-  Updated: 2025-11-20T23:22:11Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/b59aaa20-6f93-49fa-a25e-b1c970920da3-Max-Origin.webp?v=1744123825
-  - [Hot Pink / XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224181430)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/b937ea85-42f1-4df6-af7a-ce77a1dc4e7a-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Orange / S](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224214198)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/b59aaa20-6f93-49fa-a25e-b1c970920da3-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Orange / M](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224246966)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/b59aaa20-6f93-49fa-a25e-b1c970920da3-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Orange / L](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224279734)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/b59aaa20-6f93-49fa-a25e-b1c970920da3-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Orange / XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224312502)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/b59aaa20-6f93-49fa-a25e-b1c970920da3-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Orange / 2XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224345270)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/b59aaa20-6f93-49fa-a25e-b1c970920da3-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Orange / 3XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224378038)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/b59aaa20-6f93-49fa-a25e-b1c970920da3-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Hot Pink / S](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224410806)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/b937ea85-42f1-4df6-af7a-ce77a1dc4e7a-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Hot Pink / M](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224443574)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/b937ea85-42f1-4df6-af7a-ce77a1dc4e7a-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Hot Pink / L](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224476342)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/b937ea85-42f1-4df6-af7a-ce77a1dc4e7a-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Hot Pink / 2XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224509110)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/b937ea85-42f1-4df6-af7a-ce77a1dc4e7a-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Hot Pink / 3XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224541878)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/b937ea85-42f1-4df6-af7a-ce77a1dc4e7a-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Royal Blue / S](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224574646)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/6ba4a910-46ca-4aaa-b23c-2f75b39f20c1-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Royal Blue / M](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224607414)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/6ba4a910-46ca-4aaa-b23c-2f75b39f20c1-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Royal Blue / L](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224640182)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/6ba4a910-46ca-4aaa-b23c-2f75b39f20c1-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Royal Blue / XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224672950)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/6ba4a910-46ca-4aaa-b23c-2f75b39f20c1-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Royal Blue / 2XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224705718)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/6ba4a910-46ca-4aaa-b23c-2f75b39f20c1-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Royal Blue / 3XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224738486)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/6ba4a910-46ca-4aaa-b23c-2f75b39f20c1-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Chocolate / S](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224771254)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/37aef8c4-ff6f-480c-8986-404707717ceb-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Chocolate / M](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224804022)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/37aef8c4-ff6f-480c-8986-404707717ceb-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Chocolate / L](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224836790)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/37aef8c4-ff6f-480c-8986-404707717ceb-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Chocolate / XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224869558)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/37aef8c4-ff6f-480c-8986-404707717ceb-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Chocolate / 2XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224902326)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/37aef8c4-ff6f-480c-8986-404707717ceb-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Chocolate / 3XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224935094)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/37aef8c4-ff6f-480c-8986-404707717ceb-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [White / S](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898224967862)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/52043a4c-46ef-40c6-830b-58bde3a97659-Max-Origin.webp?v=1744123826
-    Price: $24.99 USD
-  - [White / M](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898225000630)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/52043a4c-46ef-40c6-830b-58bde3a97659-Max-Origin.webp?v=1744123826
-    Price: $24.99 USD
-  - [White / L](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898225033398)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/52043a4c-46ef-40c6-830b-58bde3a97659-Max-Origin.webp?v=1744123826
-    Price: $24.99 USD
-  - [White / XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898225066166)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/52043a4c-46ef-40c6-830b-58bde3a97659-Max-Origin.webp?v=1744123826
-    Price: $24.99 USD
-  - [White / 2XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898225098934)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/52043a4c-46ef-40c6-830b-58bde3a97659-Max-Origin.webp?v=1744123826
-    Price: $24.99 USD
-  - [White / 3XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898225131702)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/52043a4c-46ef-40c6-830b-58bde3a97659-Max-Origin.webp?v=1744123826
-    Price: $24.99 USD
-  - [Black / S](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898225164470)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a3ff225e-0d91-4742-98a3-d810aa63976d-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Black / M](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898225197238)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a3ff225e-0d91-4742-98a3-d810aa63976d-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Black / L](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898225230006)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a3ff225e-0d91-4742-98a3-d810aa63976d-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Black / XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898225262774)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a3ff225e-0d91-4742-98a3-d810aa63976d-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Black / 2XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898225295542)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a3ff225e-0d91-4742-98a3-d810aa63976d-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-  - [Black / 3XL](https://www.brinxxcouture.com/products/plus-size-wide-strap-tank-and-shorts-set?variant=43898225328310)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a3ff225e-0d91-4742-98a3-d810aa63976d-Max-Origin.webp?v=1744123825
-    Price: $24.99 USD
-- [Wide Leg High Waist Pants - Brinxx Couture](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants): Step into style and comfort with our Wide Leg High Waist Pants! These pants feature a flattering high waist and a trendy wide leg design that elongates the legs
-  Updated: 2025-11-04T18:06:07Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/897dfbb7-a486-44f9-bfe7-8dc3d2c835e0-Max-Origin.webp?v=1744123939
-  - [Black / L](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898239746230)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/70c18d5c-d480-42fa-8ec3-68e75e2564fd-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Beige / S](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898239778998)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/897dfbb7-a486-44f9-bfe7-8dc3d2c835e0-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Beige / M](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898239811766)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/897dfbb7-a486-44f9-bfe7-8dc3d2c835e0-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Beige / L](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898239844534)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/897dfbb7-a486-44f9-bfe7-8dc3d2c835e0-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Beige / XL](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898239877302)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/897dfbb7-a486-44f9-bfe7-8dc3d2c835e0-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Beige / 2XL](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898239910070)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/897dfbb7-a486-44f9-bfe7-8dc3d2c835e0-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Dust Storm / S](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898239942838)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/c58be3c2-d562-44ad-86fb-ccc6193c11e8-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Dust Storm / M](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898239975606)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/c58be3c2-d562-44ad-86fb-ccc6193c11e8-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Dust Storm / L](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898240008374)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/c58be3c2-d562-44ad-86fb-ccc6193c11e8-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Dust Storm / XL](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898240041142)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/c58be3c2-d562-44ad-86fb-ccc6193c11e8-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Dust Storm / 2XL](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898240073910)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/c58be3c2-d562-44ad-86fb-ccc6193c11e8-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Black / S](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898240106678)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/70c18d5c-d480-42fa-8ec3-68e75e2564fd-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Black / M](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898240139446)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/70c18d5c-d480-42fa-8ec3-68e75e2564fd-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Black / XL](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898240172214)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/70c18d5c-d480-42fa-8ec3-68e75e2564fd-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Black / 2XL](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898240204982)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/70c18d5c-d480-42fa-8ec3-68e75e2564fd-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Tan / S](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898240237750)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/71b41a72-de9e-4c7e-a877-1dc67eceb799-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Tan / M](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898240270518)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/71b41a72-de9e-4c7e-a877-1dc67eceb799-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Tan / L](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898240303286)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/71b41a72-de9e-4c7e-a877-1dc67eceb799-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Tan / XL](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898240336054)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/71b41a72-de9e-4c7e-a877-1dc67eceb799-Max-Origin.webp?v=1744123939
-    Price: $29.99 USD
-  - [Tan / 2XL](https://www.brinxxcouture.com/products/wide-leg-high-waist-pants?variant=43898240368822)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/71b41a72-de9e-4c7e-a877-1dc67eceb799-Max-Origin.webp?v=1744123939
     Price: $29.99 USD
 - [Sexy Deep V Plunge Slit Ribbon Dress - Brinxx Couture](https://www.brinxxcouture.com/products/sexy-deep-v-plunge-slit-ribbon-dress): Unleash your inner confidence and turn heads with our Sexy Deep V Plunge Slit Ribbon Dress! The deep V neckline and sexy side slit will enhance your curves.
   Updated: 2025-11-20T08:26:21Z
