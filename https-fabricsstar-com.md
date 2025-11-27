@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-11-26T00:00:38.293Z
+- Updated At: 2025-11-27T00:01:51.548Z
 
 ## Products
 
 - [Stretch Velvet Sequin Fabric | Fabrics Star](https://fabricsstar.com/products/sequin-fabric): Sparkle and shine with Sequin Fabric from Fabrics Star. Perfect for adding glamour to dresses, costumes, and decor, this fabric is a must-have for any sewing enthusiast.
-  Updated: 2025-11-23T04:43:36Z
+  Updated: 2025-11-26T20:07:37Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FESTIVAL-TWILIGHT.jpg?v=1757517134
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Store](https://fabricsstar.com/products/soft-velvet-fabric-1): Soft Velvet Fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Shop now!
-  Updated: 2025-11-22T04:27:28Z
+  Updated: 2025-11-26T05:05:06Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-11-21T20:25:04Z
+  Updated: 2025-11-26T22:42:23Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1689,7 +1689,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/chenille-soft-velvet-fabric): Experience luxury with Chenille Soft Velvet Fabric from Fabrics Star. With a width of 118 inches, this fabric is perfect for upholstery projects for coaches and chairs.
-  Updated: 2025-11-06T05:41:16Z
+  Updated: 2025-11-26T13:23:57Z
   Vendor: Fabrics Star
   Product Type: Chenille Fabric
   Availability: Available
@@ -3109,7 +3109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CAMBRIDGE-PURPLE-551-1.jpg?v=1757517618
     Price: $1.00 USD
 - [Vails Brocade Velvet Fabric, 72" Wide for Home Decor](https://fabricsstar.com/products/vails-brocade-velvet-fabric-72-inch-in-width-ideal-for-home-decor): Shop Vails Brocade Velvet Fabric, 72 Inch in Width. Ideal embossed material sold by the yard, cut to order for all your home decor needs.
-  Updated: 2025-11-24T17:28:24Z
+  Updated: 2025-11-26T01:12:52Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -5229,7 +5229,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ALLIUM-OYNX-31-2.jpg?v=1757518149
     Price: $1.00 USD
 - [Sparkle Metallic Jacquard Fabric, 115 Inch. in Width, | Home Decor](https://fabricsstar.com/products/sparkle-metallic-jacquard-fabric-115-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 110 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 110' x 36'. Order of 3 yards (Qty=3) is 110' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Sparkle jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-11-19T02:38:35Z
+  Updated: 2025-11-26T10:51:47Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -8839,7 +8839,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CONFETTI-MULTI.jpg?v=1757518723
     Price: $1.00 USD
 - [CARNIVAL Color Changing Sensory Wall Reversible Sequin Fabric, 52 Inch. in Width](https://fabricsstar.com/products/carnival)
-  Updated: 2025-11-15T20:17:58Z
+  Updated: 2025-11-26T05:32:45Z
   Vendor: Fabrics Star
   Product Type: Reversible Sequin Fabric
   Availability: Available
@@ -9745,16 +9745,16 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 1
 - [Buy Sequin Fabric Online | Sequins By The Yard - Fabrics Star](https://fabricsstar.com/collections/sequin-fabrics): Shop sequin fabrics online at Fabrics Star. Find dazzling & elegant sequins by the yard for your next project, offering sparkle and style in every design.
-  Updated: 2025-11-24T12:15:14Z
+  Updated: 2025-11-26T12:16:12Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-11-25T12:15:35Z
+  Updated: 2025-11-26T12:16:12Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-11-24T12:15:14Z
   Total Products: 32
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard](https://fabricsstar.com/collections/jacquards-fabrics): Explore premium jacquard fabrics at Fabrics Star. Buy jacquard fabric online for exquisite designs and top-notch quality, perfect for your next project!
-  Updated: 2025-11-20T23:16:53Z
+  Updated: 2025-11-26T12:16:12Z
   Total Products: 219
 - [Digital Print Fabric by the Yard | Digital Fabric Printing - Fabrics Star](https://fabricsstar.com/collections/digital-print-fabric): Discover stunning digital print fabric at Fabrics Star. Shop high-quality materials with vibrant designs, perfect for your creative projects and digital fabric printing.
   Updated: 2025-11-20T23:16:54Z
@@ -9763,19 +9763,19 @@
   Updated: 2025-11-20T23:16:59Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-11-25T12:15:35Z
+  Updated: 2025-11-26T12:16:12Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-11-25T12:15:35Z
+  Updated: 2025-11-26T12:16:12Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-11-22T12:15:48Z
+  Updated: 2025-11-26T12:16:12Z
   Total Products: 534
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-11-25T12:15:35Z
+  Updated: 2025-11-26T12:16:12Z
   Total Products: 12
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-11-25T12:15:35Z
+  Updated: 2025-11-26T12:16:12Z
   Total Products: 666
 
 ## Blogs
@@ -9879,6 +9879,9 @@
     Author: User
   - [A Comprehensive Guide to Fabric Weight and How It Influences Projects](https://fabricsstar.com/blogs/news/a-comprehensive-guide-to-fabric-weight-and-how-it-influences-projects): A Comprehensive Guide to Fabric Weight and How It Influences Projects
     Updated: 2025-11-24T03:09:14Z
+    Author: User
+  - [The Environmental Impact of Traditional vs. Recycled Fabric](https://fabricsstar.com/blogs/news/the-environmental-impact-of-traditional-vs-recycled-fabric): The Environmental Impact of Traditional vs. Recycled Fabric
+    Updated: 2025-11-26T02:41:18Z
     Author: User
 
 ## Store Pages
