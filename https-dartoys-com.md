@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-09-29T02:15:58Z
 - Contact Email: elitebuzkw@gmail.com
-- Updated At: 2025-11-25T00:00:32.424Z
+- Updated At: 2025-11-27T00:00:45.246Z
 
 ## Products
 
@@ -4261,15 +4261,15 @@
 ## Policies
 
 - [Privacy Policy](https://dartoys.com/policies/privacy-policy)
-  Updated: 2025-11-24T08:20:46+03:00
+  Updated: 2025-11-25T11:37:28+03:00
 - [Shipping Policy](https://dartoys.com/policies/shipping-policy)
-  Updated: 2025-09-29T05:52:50+03:00
+  Updated: 2025-11-25T11:39:08+03:00
 - [Refund Policy](https://dartoys.com/policies/refund-policy)
-  Updated: 2025-09-29T05:46:30+03:00
+  Updated: 2025-11-25T11:40:06+03:00
 - [Terms of Service](https://dartoys.com/policies/terms-of-service)
-  Updated: 2025-11-24T08:30:33+03:00
+  Updated: 2025-11-25T11:38:53+03:00
 - [Contact Information](https://dartoys.com/policies/contact-information)
-  Updated: 2025-11-24T08:08:11+03:00
+  Updated: 2025-11-25T11:39:35+03:00
 
 ## Optional
 
