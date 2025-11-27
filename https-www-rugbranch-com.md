@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2021-12-14T17:53:45Z
 - Contact Email: info@rugbranch.com
-- Updated At: 2025-11-24T00:01:27.065Z
+- Updated At: 2025-11-27T00:02:07.920Z
 
 ## Products
 
 - [Amalfi Abstract Sunrise Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/vi1571bg): Amalfi Abstract Sunrise Beige Rug – A Turkish loom-made rug with a soft beige gradient and sunrise hues. Durable polyester-cotton blend with jute backing.
-  Updated: 2025-11-14T20:01:36Z
+  Updated: 2025-11-24T23:40:00Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -121,7 +121,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Amalfi-Collection-Modern-Abstract-Area-Rug-Runner-Beige_7_1dda1655-8a78-4964-9c9b-1d8d0e11f88e.jpg?v=1741927097
     Price: $245.77 CAD
 - [Amalfi Vintage Classic Grey Rug - Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/vi1560gy): Amalfi Vintage Classic Grey Rug – A Turkish loom-made rug with a distressed medallion pattern in grey tones. Durable polyester-cotton blend with jute backing.
-  Updated: 2025-11-14T20:01:36Z
+  Updated: 2025-11-24T23:40:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -167,7 +167,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1560-GREY_1_ef56f420-bd7a-490c-9b70-1a21edc727b6.jpg?v=1710339516
     Price: $373.50 CAD
 - [Savannah Boho Zebra Beige Rug - Bold & Stylish | Rug Branch](https://www.rugbranch.com/products/sp2917ml): Make a statement with the Savannah Boho Zebra Beige Rug, featuring a vibrant zebra pattern in beige, blue, and pink. Durable and loom-made in Turkey.
-  Updated: 2025-11-20T15:51:07Z
+  Updated: 2025-11-25T07:21:59Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -229,7 +229,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2917-Parent_19.png?v=1746826430
     Price: $30.97 CAD
 - [Savannah Boho Abstract Yellow Rug - Vibrant & Durable | Rug Branch](https://www.rugbranch.com/products/sp2916ml): Add color to your space with the Savannah Boho Abstract Yellow Rug, featuring bold hues and durable loom-made construction from Turkey.
-  Updated: 2025-11-20T15:51:06Z
+  Updated: 2025-11-26T00:08:41Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -301,45 +301,45 @@
   - [2' x 16'](https://www.rugbranch.com/products/sp2916ml?variant=42105488539671)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Savannah-Collection-Modern-Abstract-Area-Rug-And-Runner-Multicolor_1_555044db-7167-4950-bb9f-6a4ea21d05d2.jpg?v=1741848209
-    Price: $92.03 CAD
+    Price: $156.45 CAD
   - [2' x 17'](https://www.rugbranch.com/products/sp2916ml?variant=42105488572439)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Savannah-Collection-Modern-Abstract-Area-Rug-And-Runner-Multicolor_1_555044db-7167-4950-bb9f-6a4ea21d05d2.jpg?v=1741848209
-    Price: $95.42 CAD
+    Price: $162.21 CAD
   - [2' x 18'](https://www.rugbranch.com/products/sp2916ml?variant=42105488605207)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Savannah-Collection-Modern-Abstract-Area-Rug-And-Runner-Multicolor_1_555044db-7167-4950-bb9f-6a4ea21d05d2.jpg?v=1741848209
-    Price: $98.97 CAD
+    Price: $168.24 CAD
   - [2' x 19'](https://www.rugbranch.com/products/sp2916ml?variant=42105488637975)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Savannah-Collection-Modern-Abstract-Area-Rug-And-Runner-Multicolor_1_555044db-7167-4950-bb9f-6a4ea21d05d2.jpg?v=1741848209
-    Price: $102.57 CAD
+    Price: $174.36 CAD
   - [2' x 2'](https://www.rugbranch.com/products/sp2916ml?variant=42105488670743)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Savannah-Collection-Modern-Abstract-Area-Rug-And-Runner-Multicolor_1_555044db-7167-4950-bb9f-6a4ea21d05d2.jpg?v=1741848209
-    Price: $28.57 CAD
+    Price: $48.56 CAD
   - [2' x 25'](https://www.rugbranch.com/products/sp2916ml?variant=42105488736279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Savannah-Collection-Modern-Abstract-Area-Rug-And-Runner-Multicolor_1_555044db-7167-4950-bb9f-6a4ea21d05d2.jpg?v=1741848209
-    Price: $130.80 CAD
+    Price: $222.36 CAD
   - [2' x 3'](https://www.rugbranch.com/products/sp2916ml?variant=42105488834583)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Savannah-Collection-Modern-Abstract-Area-Rug-And-Runner-Multicolor_1_555044db-7167-4950-bb9f-6a4ea21d05d2.jpg?v=1741848209
-    Price: $31.90 CAD
+    Price: $54.23 CAD
   - [2' x 30'](https://www.rugbranch.com/products/sp2916ml?variant=42105488932887)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Savannah-Collection-Modern-Abstract-Area-Rug-And-Runner-Multicolor_1_555044db-7167-4950-bb9f-6a4ea21d05d2.jpg?v=1741848209
-    Price: $155.59 CAD
+    Price: $264.50 CAD
   - [2' x 7'](https://www.rugbranch.com/products/sp2916ml?variant=42105488965655)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Savannah-Collection-Modern-Abstract-Area-Rug-And-Runner-Multicolor_1_555044db-7167-4950-bb9f-6a4ea21d05d2.jpg?v=1741848209
-    Price: $45.83 CAD
+    Price: $77.91 CAD
   - [2' x 9'](https://www.rugbranch.com/products/sp2916ml?variant=42105488998423)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Savannah-Collection-Modern-Abstract-Area-Rug-And-Runner-Multicolor_1_555044db-7167-4950-bb9f-6a4ea21d05d2.jpg?v=1741848209
-    Price: $60.27 CAD
+    Price: $102.45 CAD
 - [Savannah Mid-Century Modern Abstract Purple Rug | Rug Branch](https://www.rugbranch.com/products/sp2915ml): Enhance your space with the Savannah Abstract Purple Rug. Featuring bold hues and durable loom-made construction, perfect for a modern aesthetic.
-  Updated: 2025-11-20T15:51:01Z
+  Updated: 2025-11-25T16:59:17Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -347,113 +347,113 @@
   - [2' x 10'](https://www.rugbranch.com/products/sp2915ml?variant=40976953344023)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_16.jpg?v=1746826654
-    Price: $63.30 CAD
+    Price: $107.61 CAD
   - [2' x 13'](https://www.rugbranch.com/products/sp2915ml?variant=40976953376791)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_16.jpg?v=1746826654
-    Price: $74.70 CAD
+    Price: $126.99 CAD
   - [2' x 15'](https://www.rugbranch.com/products/sp2915ml?variant=40976953409559)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_16.jpg?v=1746826654
-    Price: $95.45 CAD
+    Price: $162.26 CAD
   - [2' x 20'](https://www.rugbranch.com/products/sp2915ml?variant=40976953442327)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_16.jpg?v=1746826654
-    Price: $120.32 CAD
+    Price: $204.54 CAD
   - [2' x 4'](https://www.rugbranch.com/products/sp2915ml?variant=40991979012119)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_11.png?v=1746823939
-    Price: $33.97 CAD
+    Price: $57.74 CAD
   - [2' x 5'](https://www.rugbranch.com/products/sp2915ml?variant=40976953475095)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_11.png?v=1746823939
-    Price: $37.49 CAD
+    Price: $63.73 CAD
   - [2' x 6'](https://www.rugbranch.com/products/sp2915ml?variant=40976953507863)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_16.jpg?v=1746826654
-    Price: $44.23 CAD
+    Price: $75.19 CAD
   - [2' x 8'](https://www.rugbranch.com/products/sp2915ml?variant=40976953540631)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_16.jpg?v=1746826654
-    Price: $54.82 CAD
+    Price: $93.19 CAD
   - [3' x 5'](https://www.rugbranch.com/products/sp2915ml?variant=40980827570199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_11.png?v=1746823939
-    Price: $45.99 CAD
+    Price: $78.18 CAD
   - [4' x 6'](https://www.rugbranch.com/products/sp2915ml?variant=40980827602967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Savannah-Collection-Modern-Abstract-Area-Rug-And-Doormat-Multicolor_1_310bb9ed-b5f0-4feb-a319-97ce1c899c4d.jpg?v=1741847905
-    Price: $73.94 CAD
+    Price: $125.69 CAD
   - [5' x 8'](https://www.rugbranch.com/products/sp2915ml?variant=40980827635735)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Savannah-Collection-Modern-Abstract-Area-Rug-And-Doormat-Multicolor_1_310bb9ed-b5f0-4feb-a319-97ce1c899c4d.jpg?v=1741847905
-    Price: $110.64 CAD
+    Price: $188.08 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sp2915ml?variant=40980827668503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Savannah-Collection-Modern-Abstract-Area-Rug-And-Doormat-Multicolor_1_310bb9ed-b5f0-4feb-a319-97ce1c899c4d.jpg?v=1741847905
-    Price: $180.54 CAD
+    Price: $306.91 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sp2915ml?variant=40980827701271)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Savannah-Collection-Modern-Abstract-Area-Rug-And-Doormat-Multicolor_1_310bb9ed-b5f0-4feb-a319-97ce1c899c4d.jpg?v=1741847905
-    Price: $241.26 CAD
+    Price: $410.14 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sp2915ml?variant=40980827734039)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Savannah-Collection-Modern-Abstract-Area-Rug-And-Doormat-Multicolor_1_310bb9ed-b5f0-4feb-a319-97ce1c899c4d.jpg?v=1741847905
-    Price: $344.94 CAD
+    Price: $586.39 CAD
   - [2' x 11'](https://www.rugbranch.com/products/sp2915ml?variant=42105471041559)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_16.jpg?v=1746826654
-    Price: $67.23 CAD
+    Price: $114.29 CAD
   - [2' x 12'](https://www.rugbranch.com/products/sp2915ml?variant=42105471074327)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_16.jpg?v=1746826654
-    Price: $70.23 CAD
+    Price: $119.39 CAD
   - [2' x 14'](https://www.rugbranch.com/products/sp2915ml?variant=42105471107095)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_16.jpg?v=1746826654
-    Price: $77.20 CAD
+    Price: $131.24 CAD
   - [2' x 16'](https://www.rugbranch.com/products/sp2915ml?variant=42105471139863)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_16.jpg?v=1746826654
-    Price: $92.03 CAD
+    Price: $156.45 CAD
   - [2' x 17'](https://www.rugbranch.com/products/sp2915ml?variant=42105471172631)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_16.jpg?v=1746826654
-    Price: $95.42 CAD
+    Price: $162.21 CAD
   - [2' x 18'](https://www.rugbranch.com/products/sp2915ml?variant=42105471205399)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_16.jpg?v=1746826654
-    Price: $98.97 CAD
+    Price: $168.24 CAD
   - [2' x 19'](https://www.rugbranch.com/products/sp2915ml?variant=42105471238167)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_16.jpg?v=1746826654
-    Price: $102.57 CAD
+    Price: $174.36 CAD
   - [2' x 2'](https://www.rugbranch.com/products/sp2915ml?variant=42105471270935)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_11.png?v=1746823939
-    Price: $28.57 CAD
+    Price: $48.56 CAD
   - [2' x 25'](https://www.rugbranch.com/products/sp2915ml?variant=42105471303703)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_16.jpg?v=1746826654
-    Price: $130.80 CAD
+    Price: $222.36 CAD
   - [2' x 3'](https://www.rugbranch.com/products/sp2915ml?variant=42105471336471)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_11.png?v=1746823939
-    Price: $31.90 CAD
+    Price: $54.23 CAD
   - [2' x 30'](https://www.rugbranch.com/products/sp2915ml?variant=42105471369239)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_16.jpg?v=1746826654
-    Price: $155.59 CAD
+    Price: $264.50 CAD
   - [2' x 7'](https://www.rugbranch.com/products/sp2915ml?variant=42105471402007)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_16.jpg?v=1746826654
-    Price: $45.83 CAD
+    Price: $77.91 CAD
   - [2' x 9'](https://www.rugbranch.com/products/sp2915ml?variant=42105471434775)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915-Parent_16.jpg?v=1746826654
-    Price: $60.27 CAD
+    Price: $102.45 CAD
 - [Savannah Boho Blue Rug - Vibrant & Stylish | Rug Branch](https://www.rugbranch.com/products/sp2914ml): Brighten your space with the Savannah Boho Blue Rug, featuring a colorful striped design, durable polypropylene, and jute backing. Made in Turkey.
-  Updated: 2025-11-20T15:51:05Z
+  Updated: 2025-11-25T07:17:47Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -461,15 +461,15 @@
   - [2' x 4'](https://www.rugbranch.com/products/sp2914ml?variant=39911456735255)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914-Parent_9.png?v=1746823046
-    Price: $33.97 CAD
+    Price: $57.74 CAD
   - [3' x 5'](https://www.rugbranch.com/products/sp2914ml?variant=39911456768023)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914-Parent_9.png?v=1746823046
-    Price: $45.99 CAD
+    Price: $78.18 CAD
   - [4' x 6'](https://www.rugbranch.com/products/sp2914ml?variant=39911456800791)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Savannah-Collection-Modern-Striped-Area-Rug-And-Runner-Multicolor_1_282eec8a-c3c3-4a44-809c-0ed262664691.jpg?v=1710366811
-    Price: $73.94 CAD
+    Price: $125.69 CAD
   - [5' x 8'](https://www.rugbranch.com/products/sp2914ml?variant=39911456833559)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Savannah-Collection-Modern-Striped-Area-Rug-And-Runner-Multicolor_1_282eec8a-c3c3-4a44-809c-0ed262664691.jpg?v=1710366811
@@ -505,13 +505,13 @@
   - [2' x 5'](https://www.rugbranch.com/products/sp2914ml?variant=40543129829399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914-Parent_9.png?v=1746823046
-    Price: $37.49 CAD
+    Price: $63.73 CAD
   - [2' x 8'](https://www.rugbranch.com/products/sp2914ml?variant=40543130615831)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914-Parent_16.jpg?v=1746823046
     Price: $54.82 CAD
 - [Savannah Boho Beige Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/sp2912cr): Add a touch of boho charm with the Savannah Beige Rug, featuring a colorful tribal pattern, durable polypropylene, and jute backing. Made in Turkey.
-  Updated: 2025-11-20T15:50:56Z
+  Updated: 2025-11-25T22:22:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -519,113 +519,113 @@
   - [2' x 4'](https://www.rugbranch.com/products/sp2912cr?variant=39911456440343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2912_CREAM_1_b5b06d23-e612-41ec-8c3c-0f0f45ac621f.jpg?v=1741847754
-    Price: $33.97 CAD
+    Price: $57.74 CAD
   - [3' x 5'](https://www.rugbranch.com/products/sp2912cr?variant=39911456505879)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2912_CREAM_1_b5b06d23-e612-41ec-8c3c-0f0f45ac621f.jpg?v=1741847754
-    Price: $45.99 CAD
+    Price: $78.18 CAD
   - [4' x 6'](https://www.rugbranch.com/products/sp2912cr?variant=39911456538647)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2912_CREAM_1_b5b06d23-e612-41ec-8c3c-0f0f45ac621f.jpg?v=1741847754
-    Price: $73.94 CAD
+    Price: $125.69 CAD
   - [5' x 8'](https://www.rugbranch.com/products/sp2912cr?variant=39911456571415)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2912_CREAM_1_b5b06d23-e612-41ec-8c3c-0f0f45ac621f.jpg?v=1741847754
-    Price: $110.64 CAD
+    Price: $188.08 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sp2912cr?variant=39911456604183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2912_CREAM_1_b5b06d23-e612-41ec-8c3c-0f0f45ac621f.jpg?v=1741847754
-    Price: $180.54 CAD
+    Price: $306.91 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sp2912cr?variant=39911456636951)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2912_CREAM_1_b5b06d23-e612-41ec-8c3c-0f0f45ac621f.jpg?v=1741847754
-    Price: $241.26 CAD
+    Price: $410.14 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sp2912cr?variant=39911456669719)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2912_CREAM_1_b5b06d23-e612-41ec-8c3c-0f0f45ac621f.jpg?v=1741847754
-    Price: $344.94 CAD
+    Price: $586.39 CAD
   - [2' x 10'](https://www.rugbranch.com/products/sp2912cr?variant=40528419160087)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
-    Price: $63.30 CAD
+    Price: $107.61 CAD
   - [2' x 13'](https://www.rugbranch.com/products/sp2912cr?variant=40528419192855)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
-    Price: $74.70 CAD
+    Price: $126.99 CAD
   - [2' x 15'](https://www.rugbranch.com/products/sp2912cr?variant=40528419225623)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
-    Price: $95.45 CAD
+    Price: $162.26 CAD
   - [2' x 20'](https://www.rugbranch.com/products/sp2912cr?variant=40528419258391)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
-    Price: $120.32 CAD
+    Price: $204.54 CAD
   - [2' x 5'](https://www.rugbranch.com/products/sp2912cr?variant=40528419291159)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2912_CREAM_1_b5b06d23-e612-41ec-8c3c-0f0f45ac621f.jpg?v=1741847754
-    Price: $37.49 CAD
+    Price: $63.73 CAD
   - [2' x 6'](https://www.rugbranch.com/products/sp2912cr?variant=40528419323927)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
-    Price: $44.23 CAD
+    Price: $75.19 CAD
   - [2' x 8'](https://www.rugbranch.com/products/sp2912cr?variant=40528419356695)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
-    Price: $54.82 CAD
+    Price: $93.19 CAD
   - [2' x 11'](https://www.rugbranch.com/products/sp2912cr?variant=42105463242775)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
-    Price: $67.23 CAD
+    Price: $114.29 CAD
   - [2' x 12'](https://www.rugbranch.com/products/sp2912cr?variant=42105463275543)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
-    Price: $70.23 CAD
+    Price: $119.39 CAD
   - [2' x 14'](https://www.rugbranch.com/products/sp2912cr?variant=42105463308311)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
-    Price: $77.20 CAD
+    Price: $131.24 CAD
   - [2' x 16'](https://www.rugbranch.com/products/sp2912cr?variant=42105463341079)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
-    Price: $92.03 CAD
+    Price: $156.45 CAD
   - [2' x 17'](https://www.rugbranch.com/products/sp2912cr?variant=42105463373847)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
-    Price: $95.42 CAD
+    Price: $162.21 CAD
   - [2' x 18'](https://www.rugbranch.com/products/sp2912cr?variant=42105463406615)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
-    Price: $98.97 CAD
+    Price: $168.24 CAD
   - [2' x 19'](https://www.rugbranch.com/products/sp2912cr?variant=42105463439383)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
-    Price: $102.57 CAD
+    Price: $174.36 CAD
   - [2' x 2'](https://www.rugbranch.com/products/sp2912cr?variant=42105463472151)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2912_CREAM_1_b5b06d23-e612-41ec-8c3c-0f0f45ac621f.jpg?v=1741847754
-    Price: $28.57 CAD
+    Price: $48.56 CAD
   - [2' x 25'](https://www.rugbranch.com/products/sp2912cr?variant=42105463504919)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
-    Price: $130.80 CAD
+    Price: $222.36 CAD
   - [2' x 3'](https://www.rugbranch.com/products/sp2912cr?variant=42105463537687)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2912_CREAM_1_b5b06d23-e612-41ec-8c3c-0f0f45ac621f.jpg?v=1741847754
-    Price: $31.90 CAD
+    Price: $54.23 CAD
   - [2' x 30'](https://www.rugbranch.com/products/sp2912cr?variant=42105463570455)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
-    Price: $155.59 CAD
+    Price: $264.50 CAD
   - [2' x 7'](https://www.rugbranch.com/products/sp2912cr?variant=42105463603223)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
-    Price: $45.83 CAD
+    Price: $77.91 CAD
   - [2' x 9'](https://www.rugbranch.com/products/sp2912cr?variant=42105463635991)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
-    Price: $60.27 CAD
+    Price: $102.45 CAD
 - [Savannah Geometric Beige Rug - Modern & Vibrant | Rug Branch](https://www.rugbranch.com/products/sp2911cr): Make a statement with the Savannah Geometric Beige Rug, featuring a bold abstract design, durable polypropylene, and jute backing. Made in Turkey.
-  Updated: 2025-11-23T06:08:51Z
+  Updated: 2025-11-26T21:09:35Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -633,41 +633,41 @@
   - [2' x 3'](https://www.rugbranch.com/products/sp2911cr?variant=40543127535639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2911_CREAM_1_ac2f4964-c506-4a36-a8e7-0ada6472f562.jpg?v=1710362494
-    Price: $30.97 CAD
+    Price: $52.64 CAD
   - [2' x 4'](https://www.rugbranch.com/products/sp2911cr?variant=39911455883287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2911_CREAM_1_ac2f4964-c506-4a36-a8e7-0ada6472f562.jpg?v=1710362494
-    Price: $33.97 CAD
+    Price: $57.74 CAD
   - [2' x 5'](https://www.rugbranch.com/products/sp2911cr?variant=40543127732247)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2911_CREAM_1_ac2f4964-c506-4a36-a8e7-0ada6472f562.jpg?v=1710362494
-    Price: $37.49 CAD
+    Price: $63.73 CAD
   - [3' x 5'](https://www.rugbranch.com/products/sp2911cr?variant=39911455916055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2911_CREAM_1_ac2f4964-c506-4a36-a8e7-0ada6472f562.jpg?v=1710362494
-    Price: $45.99 CAD
+    Price: $78.18 CAD
   - [4' x 6'](https://www.rugbranch.com/products/sp2911cr?variant=39911455948823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2911_CREAM_1_ac2f4964-c506-4a36-a8e7-0ada6472f562.jpg?v=1710362494
-    Price: $73.94 CAD
+    Price: $125.69 CAD
   - [5' x 8'](https://www.rugbranch.com/products/sp2911cr?variant=39911455981591)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2911_CREAM_1_ac2f4964-c506-4a36-a8e7-0ada6472f562.jpg?v=1710362494
-    Price: $110.64 CAD
+    Price: $188.08 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sp2911cr?variant=39911456014359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2911_CREAM_1_ac2f4964-c506-4a36-a8e7-0ada6472f562.jpg?v=1710362494
-    Price: $180.54 CAD
+    Price: $306.91 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sp2911cr?variant=39911456047127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2911_CREAM_1_ac2f4964-c506-4a36-a8e7-0ada6472f562.jpg?v=1710362494
-    Price: $241.26 CAD
+    Price: $410.14 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sp2911cr?variant=39911456079895)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2911_CREAM_1_ac2f4964-c506-4a36-a8e7-0ada6472f562.jpg?v=1710362494
-    Price: $344.94 CAD
+    Price: $586.39 CAD
 - [Savannah Boho Beige Rug - Contemporary & Durable | Rug Branch](https://www.rugbranch.com/products/sp2910cr): Elevate your space with the Savannah Boho Beige Rug, featuring a stylish tribal pattern, durable polypropylene, and jute backing. Made in Turkey.
-  Updated: 2025-11-20T15:50:56Z
+  Updated: 2025-11-25T07:16:24Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -675,31 +675,31 @@
   - [2' x 4'](https://www.rugbranch.com/products/sp2910cr?variant=39911455621143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2910-Parent_13.jpg?v=1746820642
-    Price: $33.97 CAD
+    Price: $57.74 CAD
   - [3' x 5'](https://www.rugbranch.com/products/sp2910cr?variant=39911455653911)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2910-Parent_13.jpg?v=1746820642
-    Price: $45.99 CAD
+    Price: $78.18 CAD
   - [4' x 6'](https://www.rugbranch.com/products/sp2910cr?variant=39911455686679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2910_CREAM_1_4507ab87-e0a4-48d4-bb76-a73bcec9135d.jpg?v=1710366717
-    Price: $73.94 CAD
+    Price: $125.69 CAD
   - [5' x 8'](https://www.rugbranch.com/products/sp2910cr?variant=39911455719447)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2910_CREAM_1_4507ab87-e0a4-48d4-bb76-a73bcec9135d.jpg?v=1710366717
-    Price: $110.64 CAD
+    Price: $188.08 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sp2910cr?variant=39911455752215)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2910_CREAM_1_4507ab87-e0a4-48d4-bb76-a73bcec9135d.jpg?v=1710366717
-    Price: $180.54 CAD
+    Price: $306.91 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sp2910cr?variant=39911455784983)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2910_CREAM_1_4507ab87-e0a4-48d4-bb76-a73bcec9135d.jpg?v=1710366717
-    Price: $241.26 CAD
+    Price: $410.14 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sp2910cr?variant=39911455817751)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2910_CREAM_1_4507ab87-e0a4-48d4-bb76-a73bcec9135d.jpg?v=1710366717
-    Price: $344.94 CAD
+    Price: $586.39 CAD
   - [2' x 10'](https://www.rugbranch.com/products/sp2910cr?variant=40544361283607)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2910-Parent_16.jpg?v=1746820642
@@ -719,7 +719,7 @@
   - [2' x 5'](https://www.rugbranch.com/products/sp2910cr?variant=40544361414679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2910-Parent_13.jpg?v=1746820642
-    Price: $37.49 CAD
+    Price: $63.73 CAD
   - [2' x 8'](https://www.rugbranch.com/products/sp2910cr?variant=40544361447447)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2910-Parent_16.jpg?v=1746820642
@@ -727,9 +727,9 @@
   - [2' x 3'](https://www.rugbranch.com/products/sp2910cr?variant=41453146603543)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2910-Parent_13.jpg?v=1746820642
-    Price: $30.97 CAD
+    Price: $52.64 CAD
 - [Savannah Yellow Rug - Mid-Century Geometric | Rug Branch](https://www.rugbranch.com/products/sp2900yw): Brighten your space with the Savannah Yellow Rug. This loom-made polypropylene rug features a bold geometric pattern for a stylish mid-century modern look.
-  Updated: 2025-11-23T15:29:56Z
+  Updated: 2025-11-26T21:09:36Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -737,125 +737,125 @@
   - [12' x 18'](https://www.rugbranch.com/products/sp2900yw?variant=39911455555607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2900_YELLOW_2_bf6b8706-2502-48f8-b12b-4b4e7988eed3.jpg?v=1741847608
-    Price: $612.65 CAD
+    Price: $1,041.50 CAD
   - [2' x 10'](https://www.rugbranch.com/products/sp2900yw?variant=40544963264535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
-    Price: $64.23 CAD
+    Price: $109.19 CAD
   - [2' x 13'](https://www.rugbranch.com/products/sp2900yw?variant=40544963297303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
-    Price: $77.36 CAD
+    Price: $131.51 CAD
   - [2' x 15'](https://www.rugbranch.com/products/sp2900yw?variant=40544963330071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
-    Price: $99.26 CAD
+    Price: $168.74 CAD
   - [2' x 20'](https://www.rugbranch.com/products/sp2900yw?variant=40544963362839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
-    Price: $124.13 CAD
+    Price: $211.02 CAD
   - [2' x 4'](https://www.rugbranch.com/products/sp2900yw?variant=39911455326231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_13.jpg?v=1741847609
-    Price: $33.97 CAD
+    Price: $57.74 CAD
   - [2' x 5'](https://www.rugbranch.com/products/sp2900yw?variant=40544963395607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_13.jpg?v=1741847609
-    Price: $37.49 CAD
+    Price: $63.73 CAD
   - [2' x 6'](https://www.rugbranch.com/products/sp2900yw?variant=40544963428375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
-    Price: $44.23 CAD
+    Price: $75.19 CAD
   - [2' x 8'](https://www.rugbranch.com/products/sp2900yw?variant=40544963461143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
-    Price: $54.82 CAD
+    Price: $93.19 CAD
   - [3' x 5'](https://www.rugbranch.com/products/sp2900yw?variant=39911455358999)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_13.jpg?v=1741847609
-    Price: $45.99 CAD
+    Price: $78.18 CAD
   - [4' x 6'](https://www.rugbranch.com/products/sp2900yw?variant=39911455391767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2900_YELLOW_2_bf6b8706-2502-48f8-b12b-4b4e7988eed3.jpg?v=1741847608
-    Price: $73.94 CAD
+    Price: $125.69 CAD
   - [5' x 5' Round](https://www.rugbranch.com/products/sp2900yw?variant=40544963493911)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_18.png?v=1746820480
-    Price: $89.28 CAD
+    Price: $151.77 CAD
   - [5' x 8'](https://www.rugbranch.com/products/sp2900yw?variant=39911455424535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2900_YELLOW_2_bf6b8706-2502-48f8-b12b-4b4e7988eed3.jpg?v=1741847608
-    Price: $110.64 CAD
+    Price: $188.08 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sp2900yw?variant=39911455457303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2900_YELLOW_2_bf6b8706-2502-48f8-b12b-4b4e7988eed3.jpg?v=1741847608
-    Price: $180.54 CAD
+    Price: $306.91 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sp2900yw?variant=39911455490071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2900_YELLOW_2_bf6b8706-2502-48f8-b12b-4b4e7988eed3.jpg?v=1741847608
-    Price: $241.26 CAD
+    Price: $410.14 CAD
   - [8' x 8' Round](https://www.rugbranch.com/products/sp2900yw?variant=40544963526679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_18.png?v=1746820480
-    Price: $179.11 CAD
+    Price: $304.48 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sp2900yw?variant=39911455522839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2900_YELLOW_2_bf6b8706-2502-48f8-b12b-4b4e7988eed3.jpg?v=1741847608
-    Price: $344.94 CAD
+    Price: $586.39 CAD
   - [2' x 3'](https://www.rugbranch.com/products/sp2900yw?variant=41453146538007)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_13.jpg?v=1741847609
-    Price: $30.97 CAD
+    Price: $52.64 CAD
   - [2' x 11'](https://www.rugbranch.com/products/sp2900yw?variant=42105455181847)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
-    Price: $67.23 CAD
+    Price: $114.29 CAD
   - [2' x 12'](https://www.rugbranch.com/products/sp2900yw?variant=42105455214615)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
-    Price: $70.23 CAD
+    Price: $119.39 CAD
   - [2' x 14'](https://www.rugbranch.com/products/sp2900yw?variant=42105455247383)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
-    Price: $77.20 CAD
+    Price: $131.24 CAD
   - [2' x 16'](https://www.rugbranch.com/products/sp2900yw?variant=42105455280151)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
-    Price: $92.03 CAD
+    Price: $156.45 CAD
   - [2' x 17'](https://www.rugbranch.com/products/sp2900yw?variant=42105455312919)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
-    Price: $95.42 CAD
+    Price: $162.21 CAD
   - [2' x 18'](https://www.rugbranch.com/products/sp2900yw?variant=42105455345687)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
-    Price: $98.97 CAD
+    Price: $168.24 CAD
   - [2' x 19'](https://www.rugbranch.com/products/sp2900yw?variant=42105455378455)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
-    Price: $102.57 CAD
+    Price: $174.36 CAD
   - [2' x 2'](https://www.rugbranch.com/products/sp2900yw?variant=42105455411223)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_13.jpg?v=1741847609
-    Price: $28.57 CAD
+    Price: $48.56 CAD
   - [2' x 25'](https://www.rugbranch.com/products/sp2900yw?variant=42105455443991)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
-    Price: $130.80 CAD
+    Price: $222.36 CAD
   - [2' x 30'](https://www.rugbranch.com/products/sp2900yw?variant=42105455476759)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
-    Price: $155.59 CAD
+    Price: $264.50 CAD
   - [2' x 7'](https://www.rugbranch.com/products/sp2900yw?variant=42105455509527)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
-    Price: $45.83 CAD
+    Price: $77.91 CAD
   - [2' x 9'](https://www.rugbranch.com/products/sp2900yw?variant=42105455542295)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2900-Parent_16.jpg?v=1746820182
-    Price: $60.27 CAD
+    Price: $102.45 CAD
 - [Savannah Boho Blue Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/sp2898bl): Enhance your space with the Savannah Boho Blue Rug. Featuring a stunning medallion design, loom-made in Turkey with durable polypropylene and jute backing.
-  Updated: 2025-11-22T13:40:56Z
+  Updated: 2025-11-25T07:01:49Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -863,75 +863,75 @@
   - [12' x 18'](https://www.rugbranch.com/products/sp2898bl?variant=39911454736407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2898_BLUE_2_7942c791-bd5f-4c81-909e-51ca80f45e0b.jpg?v=1741847197
-    Price: $612.65 CAD
+    Price: $1,041.50 CAD
   - [2' x 10'](https://www.rugbranch.com/products/sp2898bl?variant=40544286769175)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_16.jpg?v=1746819751
-    Price: $64.23 CAD
+    Price: $109.19 CAD
   - [2' x 13'](https://www.rugbranch.com/products/sp2898bl?variant=40544286801943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_16.jpg?v=1746819751
-    Price: $77.36 CAD
+    Price: $131.51 CAD
   - [2' x 15'](https://www.rugbranch.com/products/sp2898bl?variant=40544286834711)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_16.jpg?v=1746819751
-    Price: $99.26 CAD
+    Price: $168.74 CAD
   - [2' x 20'](https://www.rugbranch.com/products/sp2898bl?variant=40544286867479)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_16.jpg?v=1746819751
-    Price: $124.13 CAD
+    Price: $211.02 CAD
   - [2' x 3'](https://www.rugbranch.com/products/sp2898bl?variant=40544286900247)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_13.jpg?v=1741847198
-    Price: $30.97 CAD
+    Price: $52.64 CAD
   - [2' x 4'](https://www.rugbranch.com/products/sp2898bl?variant=39911454507031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_13.jpg?v=1741847198
-    Price: $33.97 CAD
+    Price: $57.74 CAD
   - [2' x 5'](https://www.rugbranch.com/products/sp2898bl?variant=40544286933015)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_13.jpg?v=1741847198
-    Price: $37.49 CAD
+    Price: $63.73 CAD
   - [2' x 6'](https://www.rugbranch.com/products/sp2898bl?variant=40544286965783)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_16.jpg?v=1746819751
-    Price: $44.23 CAD
+    Price: $75.19 CAD
   - [2' x 8'](https://www.rugbranch.com/products/sp2898bl?variant=40544286998551)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_16.jpg?v=1746819751
-    Price: $54.82 CAD
+    Price: $93.19 CAD
   - [3' x 5'](https://www.rugbranch.com/products/sp2898bl?variant=39911454539799)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_13.jpg?v=1741847198
-    Price: $45.99 CAD
+    Price: $78.18 CAD
   - [4' x 6'](https://www.rugbranch.com/products/sp2898bl?variant=39911454572567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2898_BLUE_2_7942c791-bd5f-4c81-909e-51ca80f45e0b.jpg?v=1741847197
-    Price: $73.94 CAD
+    Price: $125.69 CAD
   - [5' x 5' Round](https://www.rugbranch.com/products/sp2898bl?variant=40544287031319)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_17.png?v=1746819751
-    Price: $89.28 CAD
+    Price: $151.77 CAD
   - [5' x 8'](https://www.rugbranch.com/products/sp2898bl?variant=39911454605335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2898_BLUE_2_7942c791-bd5f-4c81-909e-51ca80f45e0b.jpg?v=1741847197
-    Price: $110.64 CAD
+    Price: $188.08 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sp2898bl?variant=39911454638103)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2898_BLUE_2_7942c791-bd5f-4c81-909e-51ca80f45e0b.jpg?v=1741847197
-    Price: $180.54 CAD
+    Price: $306.91 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sp2898bl?variant=39911454670871)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2898_BLUE_2_7942c791-bd5f-4c81-909e-51ca80f45e0b.jpg?v=1741847197
-    Price: $241.26 CAD
+    Price: $410.14 CAD
   - [8' x 8' Round](https://www.rugbranch.com/products/sp2898bl?variant=40544287064087)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_17.png?v=1746819751
-    Price: $179.11 CAD
+    Price: $304.48 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sp2898bl?variant=39911454703639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_16.jpg?v=1746819751
-    Price: $344.94 CAD
+    Price: $586.39 CAD
   - [2' x 11'](https://www.rugbranch.com/products/sp2898bl?variant=42105435193367)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_16.jpg?v=1746819751
@@ -963,7 +963,7 @@
   - [2' x 2'](https://www.rugbranch.com/products/sp2898bl?variant=42105435422743)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_13.jpg?v=1741847198
-    Price: $28.57 CAD
+    Price: $48.56 CAD
   - [2' x 25'](https://www.rugbranch.com/products/sp2898bl?variant=42105435455511)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_16.jpg?v=1746819751
@@ -975,13 +975,13 @@
   - [2' x 7'](https://www.rugbranch.com/products/sp2898bl?variant=42105435521047)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_16.jpg?v=1746819751
-    Price: $45.83 CAD
+    Price: $77.91 CAD
   - [2' x 9'](https://www.rugbranch.com/products/sp2898bl?variant=42105435553815)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2898-Parent_16.jpg?v=1746819751
-    Price: $60.27 CAD
+    Price: $102.45 CAD
 - [Savannah Boho Modern Yellow Rug | Rug Branch](https://www.rugbranch.com/products/sp2897ml): Boho yellow rug from Turkey with a vibrant tribal pattern and durable jute backing. Perfect for modern and eclectic spaces.
-  Updated: 2025-11-20T15:50:51Z
+  Updated: 2025-11-25T22:22:25Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -989,109 +989,109 @@
   - [2' x 4'](https://www.rugbranch.com/products/sp2897ml?variant=40976952721431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_13.jpg?v=1741846968
-    Price: $33.97 CAD
+    Price: $57.74 CAD
   - [4' x 6'](https://www.rugbranch.com/products/sp2897ml?variant=40976952754199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2897_MULTI_2_53bf94a4-ddf6-4307-b3de-eb2ca0c484d2.jpg?v=1741846967
-    Price: $73.94 CAD
+    Price: $125.69 CAD
   - [5' x 8'](https://www.rugbranch.com/products/sp2897ml?variant=40976952786967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2897_MULTI_2_53bf94a4-ddf6-4307-b3de-eb2ca0c484d2.jpg?v=1741846967
-    Price: $110.64 CAD
+    Price: $188.08 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sp2897ml?variant=40976952819735)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2897_MULTI_2_53bf94a4-ddf6-4307-b3de-eb2ca0c484d2.jpg?v=1741846967
-    Price: $180.54 CAD
+    Price: $306.91 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sp2897ml?variant=40976952852503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2897_MULTI_2_53bf94a4-ddf6-4307-b3de-eb2ca0c484d2.jpg?v=1741846967
-    Price: $241.26 CAD
+    Price: $410.14 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sp2897ml?variant=40976952885271)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2897_MULTI_2_53bf94a4-ddf6-4307-b3de-eb2ca0c484d2.jpg?v=1741846967
-    Price: $344.94 CAD
+    Price: $586.39 CAD
   - [2' x 10'](https://www.rugbranch.com/products/sp2897ml?variant=40976952918039)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
-    Price: $64.23 CAD
+    Price: $109.19 CAD
   - [2' x 13'](https://www.rugbranch.com/products/sp2897ml?variant=40976952950807)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
-    Price: $77.36 CAD
+    Price: $131.51 CAD
   - [2' x 15'](https://www.rugbranch.com/products/sp2897ml?variant=40976952983575)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
-    Price: $99.26 CAD
+    Price: $168.74 CAD
   - [2' x 20'](https://www.rugbranch.com/products/sp2897ml?variant=40976953016343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
-    Price: $124.13 CAD
+    Price: $211.02 CAD
   - [2' x 3'](https://www.rugbranch.com/products/sp2897ml?variant=40976953049111)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_13.jpg?v=1741846968
-    Price: $30.97 CAD
+    Price: $52.64 CAD
   - [2' x 5'](https://www.rugbranch.com/products/sp2897ml?variant=40976953081879)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_13.jpg?v=1741846968
-    Price: $37.49 CAD
+    Price: $63.73 CAD
   - [2' x 6'](https://www.rugbranch.com/products/sp2897ml?variant=40976953114647)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
-    Price: $44.23 CAD
+    Price: $75.19 CAD
   - [2' x 8'](https://www.rugbranch.com/products/sp2897ml?variant=40976953147415)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
-    Price: $54.82 CAD
+    Price: $93.19 CAD
   - [2' x 11'](https://www.rugbranch.com/products/sp2897ml?variant=42105424478231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
-    Price: $67.23 CAD
+    Price: $114.29 CAD
   - [2' x 12'](https://www.rugbranch.com/products/sp2897ml?variant=42105424510999)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
-    Price: $70.23 CAD
+    Price: $119.39 CAD
   - [2' x 14'](https://www.rugbranch.com/products/sp2897ml?variant=42105424543767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
-    Price: $77.20 CAD
+    Price: $131.24 CAD
   - [2' x 16'](https://www.rugbranch.com/products/sp2897ml?variant=42105424576535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
-    Price: $92.03 CAD
+    Price: $156.45 CAD
   - [2' x 17'](https://www.rugbranch.com/products/sp2897ml?variant=42105424609303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
-    Price: $95.42 CAD
+    Price: $162.21 CAD
   - [2' x 18'](https://www.rugbranch.com/products/sp2897ml?variant=42105424642071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
-    Price: $98.97 CAD
+    Price: $168.24 CAD
   - [2' x 19'](https://www.rugbranch.com/products/sp2897ml?variant=42105424674839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
-    Price: $102.57 CAD
+    Price: $174.36 CAD
   - [2' x 2'](https://www.rugbranch.com/products/sp2897ml?variant=42105424707607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_13.jpg?v=1741846968
-    Price: $28.57 CAD
+    Price: $48.56 CAD
   - [2' x 25'](https://www.rugbranch.com/products/sp2897ml?variant=42105424740375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
-    Price: $130.80 CAD
+    Price: $222.36 CAD
   - [2' x 30'](https://www.rugbranch.com/products/sp2897ml?variant=42105424773143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
-    Price: $155.59 CAD
+    Price: $264.50 CAD
   - [2' x 7'](https://www.rugbranch.com/products/sp2897ml?variant=42105424805911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
-    Price: $45.83 CAD
+    Price: $77.91 CAD
   - [2' x 9'](https://www.rugbranch.com/products/sp2897ml?variant=42105424838679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
-    Price: $60.27 CAD
+    Price: $102.45 CAD
 - [Savannah Boho Contemporary Blue Rug | Rug Branch](https://www.rugbranch.com/products/sp2890cr): Boho blue rug from Turkey with a striking tribal pattern and durable jute backing. Perfect for modern and cozy spaces.
-  Updated: 2025-11-22T13:57:27Z
+  Updated: 2025-11-25T22:22:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1099,113 +1099,113 @@
   - [2' x 4'](https://www.rugbranch.com/products/sp2890cr?variant=39911453949975)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_17.png?v=1746813324
-    Price: $33.97 CAD
+    Price: $57.74 CAD
   - [3' x 5''](https://www.rugbranch.com/products/sp2890cr?variant=39911453982743)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_17.png?v=1746813324
-    Price: $45.99 CAD
+    Price: $78.18 CAD
   - [4' x 6'](https://www.rugbranch.com/products/sp2890cr?variant=39911454015511)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2890_CREAM_1_18c8746b-ad6e-4958-9b81-dbfa89e56ac4.jpg?v=1741846751
-    Price: $73.94 CAD
+    Price: $125.69 CAD
   - [5' x 8'](https://www.rugbranch.com/products/sp2890cr?variant=39911454048279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2890_CREAM_1_18c8746b-ad6e-4958-9b81-dbfa89e56ac4.jpg?v=1741846751
-    Price: $110.64 CAD
+    Price: $188.08 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sp2890cr?variant=39911454081047)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2890_CREAM_1_18c8746b-ad6e-4958-9b81-dbfa89e56ac4.jpg?v=1741846751
-    Price: $180.54 CAD
+    Price: $306.91 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sp2890cr?variant=39911454113815)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2890_CREAM_1_18c8746b-ad6e-4958-9b81-dbfa89e56ac4.jpg?v=1741846751
-    Price: $241.26 CAD
+    Price: $410.14 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sp2890cr?variant=39911454146583)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2890_CREAM_1_18c8746b-ad6e-4958-9b81-dbfa89e56ac4.jpg?v=1741846751
-    Price: $344.94 CAD
+    Price: $586.39 CAD
   - [2' x 10'](https://www.rugbranch.com/products/sp2890cr?variant=40528418635799)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_16.jpg?v=1746812852
-    Price: $64.23 CAD
+    Price: $109.19 CAD
   - [2' x 13'](https://www.rugbranch.com/products/sp2890cr?variant=40528418668567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_16.jpg?v=1746812852
-    Price: $77.36 CAD
+    Price: $131.51 CAD
   - [2' x 15'](https://www.rugbranch.com/products/sp2890cr?variant=40528418701335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_16.jpg?v=1746812852
-    Price: $99.26 CAD
+    Price: $168.74 CAD
   - [2' x 20'](https://www.rugbranch.com/products/sp2890cr?variant=40528418734103)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_16.jpg?v=1746812852
-    Price: $124.13 CAD
+    Price: $211.02 CAD
   - [2' x 3'](https://www.rugbranch.com/products/sp2890cr?variant=40528418766871)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_17.png?v=1746813324
-    Price: $30.97 CAD
+    Price: $52.64 CAD
   - [2' x 5'](https://www.rugbranch.com/products/sp2890cr?variant=40528418799639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_17.png?v=1746813324
-    Price: $37.49 CAD
+    Price: $63.73 CAD
   - [2' x 6'](https://www.rugbranch.com/products/sp2890cr?variant=40528418832407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_16.jpg?v=1746812852
-    Price: $44.23 CAD
+    Price: $75.19 CAD
   - [2' x 8'](https://www.rugbranch.com/products/sp2890cr?variant=40528418865175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_16.jpg?v=1746812852
-    Price: $54.82 CAD
+    Price: $93.19 CAD
   - [2' x 11'](https://www.rugbranch.com/products/sp2890cr?variant=42105414516759)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_16.jpg?v=1746812852
-    Price: $67.23 CAD
+    Price: $114.29 CAD
   - [2' x 12'](https://www.rugbranch.com/products/sp2890cr?variant=42105414549527)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_16.jpg?v=1746812852
-    Price: $70.23 CAD
+    Price: $119.39 CAD
   - [2' x 14'](https://www.rugbranch.com/products/sp2890cr?variant=42105414582295)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_16.jpg?v=1746812852
-    Price: $77.20 CAD
+    Price: $131.24 CAD
   - [2' x 16'](https://www.rugbranch.com/products/sp2890cr?variant=42105414615063)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_16.jpg?v=1746812852
-    Price: $92.03 CAD
+    Price: $156.45 CAD
   - [2' x 17'](https://www.rugbranch.com/products/sp2890cr?variant=42105414647831)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_16.jpg?v=1746812852
-    Price: $95.42 CAD
+    Price: $162.21 CAD
   - [2' x 18'](https://www.rugbranch.com/products/sp2890cr?variant=42105414680599)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_16.jpg?v=1746812852
-    Price: $98.97 CAD
+    Price: $168.24 CAD
   - [2' x 19'](https://www.rugbranch.com/products/sp2890cr?variant=42105414713367)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_16.jpg?v=1746812852
-    Price: $102.57 CAD
+    Price: $174.36 CAD
   - [2' x 2'](https://www.rugbranch.com/products/sp2890cr?variant=42105414746135)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_17.png?v=1746813324
-    Price: $28.57 CAD
+    Price: $48.56 CAD
   - [2' x 25'](https://www.rugbranch.com/products/sp2890cr?variant=42105414778903)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_16.jpg?v=1746812852
-    Price: $130.80 CAD
+    Price: $222.36 CAD
   - [2' x 30'](https://www.rugbranch.com/products/sp2890cr?variant=42105414811671)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_16.jpg?v=1746812852
-    Price: $155.59 CAD
+    Price: $264.50 CAD
   - [2' x 7'](https://www.rugbranch.com/products/sp2890cr?variant=42105414844439)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_16.jpg?v=1746812852
-    Price: $45.83 CAD
+    Price: $77.91 CAD
   - [2' x 9'](https://www.rugbranch.com/products/sp2890cr?variant=42105414877207)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2890-Parent_16.jpg?v=1746812852
-    Price: $60.27 CAD
+    Price: $102.45 CAD
 - [Savannah Abstract Contemporary Beige Rug | Rug Branch](https://www.rugbranch.com/products/sp2846gy): Modern beige rug from Turkey with a sleek abstract linear design and durable jute backing. Perfect for contemporary and stylish spaces.
-  Updated: 2025-11-20T15:50:43Z
+  Updated: 2025-11-25T22:22:17Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1213,117 +1213,117 @@
   - [2' x 4'](https://www.rugbranch.com/products/sp2846gy?variant=40976951967767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2846_GREY_3_84e78b98-b401-4fde-ac12-87d446c97f9b.jpg?v=1741846191
-    Price: $33.97 CAD
+    Price: $57.74 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sp2846gy?variant=40976952000535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2846_GREY_3_84e78b98-b401-4fde-ac12-87d446c97f9b.jpg?v=1741846191
-    Price: $344.94 CAD
+    Price: $586.39 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sp2846gy?variant=40976952033303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2846_GREY_3_84e78b98-b401-4fde-ac12-87d446c97f9b.jpg?v=1741846191
-    Price: $241.26 CAD
+    Price: $410.14 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sp2846gy?variant=40976952066071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2846_GREY_3_84e78b98-b401-4fde-ac12-87d446c97f9b.jpg?v=1741846191
-    Price: $180.54 CAD
+    Price: $306.91 CAD
   - [5' x 8'](https://www.rugbranch.com/products/sp2846gy?variant=40976952098839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2846_GREY_3_84e78b98-b401-4fde-ac12-87d446c97f9b.jpg?v=1741846191
-    Price: $110.64 CAD
+    Price: $188.08 CAD
   - [4' x 6'](https://www.rugbranch.com/products/sp2846gy?variant=40976952131607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2846_GREY_3_84e78b98-b401-4fde-ac12-87d446c97f9b.jpg?v=1741846191
-    Price: $73.94 CAD
+    Price: $125.69 CAD
   - [12' x 18'](https://www.rugbranch.com/products/sp2846gy?variant=40976952197143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2846_GREY_3_84e78b98-b401-4fde-ac12-87d446c97f9b.jpg?v=1741846191
-    Price: $612.65 CAD
+    Price: $1,041.50 CAD
   - [2' x 10'](https://www.rugbranch.com/products/sp2846gy?variant=40976952229911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $64.23 CAD
+    Price: $109.19 CAD
   - [2' x 13'](https://www.rugbranch.com/products/sp2846gy?variant=40976952262679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $77.36 CAD
+    Price: $131.51 CAD
   - [2' x 15'](https://www.rugbranch.com/products/sp2846gy?variant=40976952295447)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $99.26 CAD
+    Price: $168.74 CAD
   - [2' x 20'](https://www.rugbranch.com/products/sp2846gy?variant=40976952328215)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $124.13 CAD
+    Price: $211.02 CAD
   - [2' x 6'](https://www.rugbranch.com/products/sp2846gy?variant=40976952360983)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $44.23 CAD
+    Price: $75.19 CAD
   - [2' x 8'](https://www.rugbranch.com/products/sp2846gy?variant=40976952393751)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $54.82 CAD
+    Price: $93.19 CAD
   - [5' x 5' Round](https://www.rugbranch.com/products/sp2846gy?variant=40976952426519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_18.png?v=1746809694
-    Price: $89.28 CAD
+    Price: $151.77 CAD
   - [8' x 8' Round](https://www.rugbranch.com/products/sp2846gy?variant=40976952459287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_18.png?v=1746809694
-    Price: $179.11 CAD
+    Price: $304.48 CAD
   - [2' x 11'](https://www.rugbranch.com/products/sp2846gy?variant=42105389711383)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $67.23 CAD
+    Price: $114.29 CAD
   - [2' x 12'](https://www.rugbranch.com/products/sp2846gy?variant=42105389744151)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $70.23 CAD
+    Price: $119.39 CAD
   - [2' x 14'](https://www.rugbranch.com/products/sp2846gy?variant=42105389776919)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $77.20 CAD
+    Price: $131.24 CAD
   - [2' x 16'](https://www.rugbranch.com/products/sp2846gy?variant=42105389809687)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $92.03 CAD
+    Price: $156.45 CAD
   - [2' x 17'](https://www.rugbranch.com/products/sp2846gy?variant=42105389842455)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $95.42 CAD
+    Price: $162.21 CAD
   - [2' x 18'](https://www.rugbranch.com/products/sp2846gy?variant=42105389875223)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $98.97 CAD
+    Price: $168.24 CAD
   - [2' x 19'](https://www.rugbranch.com/products/sp2846gy?variant=42105389907991)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $102.57 CAD
+    Price: $174.36 CAD
   - [2' x 2'](https://www.rugbranch.com/products/sp2846gy?variant=42105389940759)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $28.57 CAD
+    Price: $48.56 CAD
   - [2' x 25'](https://www.rugbranch.com/products/sp2846gy?variant=42105390006295)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $130.80 CAD
+    Price: $222.36 CAD
   - [2' x 30'](https://www.rugbranch.com/products/sp2846gy?variant=42105390104599)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $155.59 CAD
+    Price: $264.50 CAD
   - [2' x 5'](https://www.rugbranch.com/products/sp2846gy?variant=40976952164375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2846_GREY_3_84e78b98-b401-4fde-ac12-87d446c97f9b.jpg?v=1741846191
-    Price: $37.49 CAD
+    Price: $63.73 CAD
   - [2' x 7'](https://www.rugbranch.com/products/sp2846gy?variant=42105390202903)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $45.83 CAD
+    Price: $77.91 CAD
   - [2' x 9'](https://www.rugbranch.com/products/sp2846gy?variant=42105390235671)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2846-Parent_16.jpg?v=1746809694
-    Price: $60.27 CAD
+    Price: $102.45 CAD
 - [Savannah Boho Contemporary Blue Rug | Rug Branch](https://www.rugbranch.com/products/sp2845bl): Boho-inspired blue rug from Turkey with a bold geometric pattern and durable jute backing. Perfect for modern and cozy spaces.
-  Updated: 2025-11-14T23:28:56Z
+  Updated: 2025-11-25T22:22:23Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1331,27 +1331,27 @@
   - [2' x 4'](https://www.rugbranch.com/products/sp2845bl?variant=40976951410711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2845_BLUE_2_5b8efa2e-22b0-4fc4-9eea-2ee17bb87424.jpg?v=1710361681
-    Price: $33.97 CAD
+    Price: $57.74 CAD
   - [4' x 6'](https://www.rugbranch.com/products/sp2845bl?variant=40976951443479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2845_BLUE_2_5b8efa2e-22b0-4fc4-9eea-2ee17bb87424.jpg?v=1710361681
-    Price: $73.94 CAD
+    Price: $125.69 CAD
   - [5' x 8'](https://www.rugbranch.com/products/sp2845bl?variant=40976951476247)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2845_BLUE_2_5b8efa2e-22b0-4fc4-9eea-2ee17bb87424.jpg?v=1710361681
-    Price: $110.64 CAD
+    Price: $188.08 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sp2845bl?variant=40976951509015)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2845_BLUE_2_5b8efa2e-22b0-4fc4-9eea-2ee17bb87424.jpg?v=1710361681
-    Price: $180.54 CAD
+    Price: $306.91 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sp2845bl?variant=40976951541783)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2845_BLUE_2_5b8efa2e-22b0-4fc4-9eea-2ee17bb87424.jpg?v=1710361681
-    Price: $241.26 CAD
+    Price: $410.14 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sp2845bl?variant=40976951574551)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2845_BLUE_2_5b8efa2e-22b0-4fc4-9eea-2ee17bb87424.jpg?v=1710361681
-    Price: $344.94 CAD
+    Price: $586.39 CAD
   - [2' x 10'](https://www.rugbranch.com/products/sp2845bl?variant=40976951607319)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2845-Parent_16.jpg?v=1746807941
@@ -1371,21 +1371,21 @@
   - [2' x 5'](https://www.rugbranch.com/products/sp2845bl?variant=40976951738391)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2845_BLUE_2_5b8efa2e-22b0-4fc4-9eea-2ee17bb87424.jpg?v=1710361681
-    Price: $37.49 CAD
+    Price: $63.73 CAD
   - [2' x 6'](https://www.rugbranch.com/products/sp2845bl?variant=40976951771159)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2845-Parent_16.jpg?v=1746807941
-    Price: $44.23 CAD
+    Price: $75.19 CAD
   - [2' x 8'](https://www.rugbranch.com/products/sp2845bl?variant=40976951803927)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2845-Parent_16.jpg?v=1746807941
-    Price: $54.82 CAD
+    Price: $93.19 CAD
   - [3' x 5'](https://www.rugbranch.com/products/sp2845bl?variant=41453145456663)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2845_BLUE_2_5b8efa2e-22b0-4fc4-9eea-2ee17bb87424.jpg?v=1710361681
-    Price: $45.99 CAD
+    Price: $78.18 CAD
 - [Savannah Southwestern Blue Runner Rug | Rug Branch](https://www.rugbranch.com/products/sp2801ny): Southwestern blue runner rug from Turkey with a vibrant transitional design and durable jute backing. Perfect for hallways and narrow spaces.
-  Updated: 2025-11-23T03:41:45Z
+  Updated: 2025-11-25T22:22:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1393,109 +1393,109 @@
   - [2' x 10'](https://www.rugbranch.com/products/sp2801ny?variant=40976950853655)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
-    Price: $64.23 CAD
+    Price: $109.19 CAD
   - [2' x 13'](https://www.rugbranch.com/products/sp2801ny?variant=40976950886423)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
-    Price: $77.36 CAD
+    Price: $131.51 CAD
   - [2' x 15'](https://www.rugbranch.com/products/sp2801ny?variant=40976950919191)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
-    Price: $99.26 CAD
+    Price: $168.74 CAD
   - [2' x 20'](https://www.rugbranch.com/products/sp2801ny?variant=40976950951959)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
-    Price: $124.13 CAD
+    Price: $211.02 CAD
   - [2' x 4'](https://www.rugbranch.com/products/sp2801ny?variant=40976950984727)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2801_NAVY_1_a0e405a6-710d-47b6-a3d0-02f46559c4f0.jpg?v=1741845565
-    Price: $33.97 CAD
+    Price: $57.74 CAD
   - [2' x 5'](https://www.rugbranch.com/products/sp2801ny?variant=40976951017495)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2801_NAVY_1_a0e405a6-710d-47b6-a3d0-02f46559c4f0.jpg?v=1741845565
-    Price: $37.49 CAD
+    Price: $63.73 CAD
   - [2' x 6'](https://www.rugbranch.com/products/sp2801ny?variant=40976951050263)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
-    Price: $44.23 CAD
+    Price: $75.19 CAD
   - [2' x 8'](https://www.rugbranch.com/products/sp2801ny?variant=40976951083031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
-    Price: $54.82 CAD
+    Price: $93.19 CAD
   - [4' x 6'](https://www.rugbranch.com/products/sp2801ny?variant=40976951115799)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2801_NAVY_1_a0e405a6-710d-47b6-a3d0-02f46559c4f0.jpg?v=1741845565
-    Price: $73.94 CAD
+    Price: $125.69 CAD
   - [5' x 8'](https://www.rugbranch.com/products/sp2801ny?variant=40976951148567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2801_NAVY_1_a0e405a6-710d-47b6-a3d0-02f46559c4f0.jpg?v=1741845565
-    Price: $110.64 CAD
+    Price: $188.08 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sp2801ny?variant=40976951181335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2801_NAVY_1_a0e405a6-710d-47b6-a3d0-02f46559c4f0.jpg?v=1741845565
-    Price: $180.54 CAD
+    Price: $306.91 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sp2801ny?variant=40976951214103)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2801_NAVY_1_a0e405a6-710d-47b6-a3d0-02f46559c4f0.jpg?v=1741845565
-    Price: $241.26 CAD
+    Price: $410.14 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sp2801ny?variant=40976951246871)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2801_NAVY_1_a0e405a6-710d-47b6-a3d0-02f46559c4f0.jpg?v=1741845565
-    Price: $344.94 CAD
+    Price: $586.39 CAD
   - [2' x 3'](https://www.rugbranch.com/products/sp2801ny?variant=41453145194519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2801_NAVY_1_a0e405a6-710d-47b6-a3d0-02f46559c4f0.jpg?v=1741845565
-    Price: $30.97 CAD
+    Price: $52.64 CAD
   - [2' x 11'](https://www.rugbranch.com/products/sp2801ny?variant=42105360285719)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
-    Price: $67.05 CAD
+    Price: $113.98 CAD
   - [2' x 12'](https://www.rugbranch.com/products/sp2801ny?variant=42105360318487)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
-    Price: $70.23 CAD
+    Price: $119.39 CAD
   - [2' x 14'](https://www.rugbranch.com/products/sp2801ny?variant=42105360351255)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
-    Price: $77.20 CAD
+    Price: $131.24 CAD
   - [2' x 16'](https://www.rugbranch.com/products/sp2801ny?variant=42105360384023)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
-    Price: $92.42 CAD
+    Price: $157.11 CAD
   - [2' x 17'](https://www.rugbranch.com/products/sp2801ny?variant=42105360416791)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
-    Price: $95.42 CAD
+    Price: $162.21 CAD
   - [2' x 18'](https://www.rugbranch.com/products/sp2801ny?variant=42105360449559)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
-    Price: $99.36 CAD
+    Price: $168.91 CAD
   - [2' x 19'](https://www.rugbranch.com/products/sp2801ny?variant=42105360482327)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
-    Price: $102.36 CAD
+    Price: $174.01 CAD
   - [2' x 2'](https://www.rugbranch.com/products/sp2801ny?variant=42105360515095)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2801_NAVY_1_a0e405a6-710d-47b6-a3d0-02f46559c4f0.jpg?v=1741845565
-    Price: $28.57 CAD
+    Price: $48.56 CAD
   - [2' x 25'](https://www.rugbranch.com/products/sp2801ny?variant=42105360547863)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
-    Price: $130.41 CAD
+    Price: $221.69 CAD
   - [2' x 30'](https://www.rugbranch.com/products/sp2801ny?variant=42105360580631)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
-    Price: $155.59 CAD
+    Price: $264.50 CAD
   - [2' x 7'](https://www.rugbranch.com/products/sp2801ny?variant=42105360613399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
-    Price: $45.83 CAD
+    Price: $77.91 CAD
   - [2' x 9'](https://www.rugbranch.com/products/sp2801ny?variant=42105360646167)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
-    Price: $60.27 CAD
+    Price: $102.45 CAD
 - [Oasis Abstract Geometric Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/sy7768mlt): Add a modern touch with the Oasis Abstract Geometric Grey Rug. Loom-made in Turkey with a soft cotton-polyester blend and durable jute backing.
-  Updated: 2025-11-14T20:01:36Z
+  Updated: 2025-11-24T23:40:10Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1511,13 +1511,13 @@
   - [8' x 11'](https://www.rugbranch.com/products/sy7768mlt?variant=40976950558743)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-7768-CREAM_4_f197f916-4250-48dc-a710-5869cd623d3a.jpg?v=1710360222
-    Price: $522.27 CAD
+    Price: $932.25 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sy7768mlt?variant=40976950591511)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-7768-CREAM_4_f197f916-4250-48dc-a710-5869cd623d3a.jpg?v=1710360222
     Price: $792.76 CAD
 - [Oasis Abstract Contemporary Grey Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/sy6950gy): Upgrade your space with the Oasis Abstract Contemporary Grey Rug. Featuring a bold abstract design, this soft, loom-made rug adds a sleek modern touch.
-  Updated: 2025-11-20T15:51:11Z
+  Updated: 2025-11-24T23:40:12Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1525,15 +1525,15 @@
   - [5' x 7'](https://www.rugbranch.com/products/sy6950gy?variant=40976949182487)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6950-GREY_cb40cdc5-743e-4ecb-bb95-9b451c9b0972.jpg?v=1710360236
-    Price: $251.13 CAD
+    Price: $448.26 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sy6950gy?variant=40976949215255)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6950-GREY_cb40cdc5-743e-4ecb-bb95-9b451c9b0972.jpg?v=1710360236
-    Price: $391.53 CAD
+    Price: $698.87 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sy6950gy?variant=40976949248023)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6950-GREY_cb40cdc5-743e-4ecb-bb95-9b451c9b0972.jpg?v=1710360236
-    Price: $522.27 CAD
+    Price: $932.25 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sy6950gy?variant=40976949280791)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6950-GREY_cb40cdc5-743e-4ecb-bb95-9b451c9b0972.jpg?v=1710360236
@@ -1559,7 +1559,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6950-GREY_cb40cdc5-743e-4ecb-bb95-9b451c9b0972.jpg?v=1710360236
     Price: $113.42 CAD
 - [Oasis Scandinavian Floral Grey Rug - Elegant & Modern | Rug Branch](https://www.rugbranch.com/products/sy6730agy): Add sophistication with the Oasis Scandinavian Floral Grey Rug. Featuring a stylish floral design, this soft, loom-made rug enhances any contemporary space.
-  Updated: 2025-11-14T20:01:36Z
+  Updated: 2025-11-24T23:40:13Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1571,7 +1571,7 @@
   - [5' x 7'](https://www.rugbranch.com/products/sy6730agy?variant=40976948527127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6730-GREY_d64c66fe-c25c-428d-9787-2650ed3db436.jpg?v=1710365248
-    Price: $251.13 CAD
+    Price: $448.26 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sy6730agy?variant=40976948559895)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6730-GREY_d64c66fe-c25c-428d-9787-2650ed3db436.jpg?v=1710365248
@@ -1579,7 +1579,7 @@
   - [8' x 11'](https://www.rugbranch.com/products/sy6730agy?variant=40976948592663)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6730-GREY_d64c66fe-c25c-428d-9787-2650ed3db436.jpg?v=1710365248
-    Price: $522.27 CAD
+    Price: $932.25 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sy6730agy?variant=40976948625431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6730-GREY_d64c66fe-c25c-428d-9787-2650ed3db436.jpg?v=1710365248
@@ -1605,7 +1605,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6730-GREY_d64c66fe-c25c-428d-9787-2650ed3db436.jpg?v=1710365248
     Price: $113.42 CAD
 - [Oasis Modern Floral Grey Rug - Elegant & Textured | Rug Branch](https://www.rugbranch.com/products/sy6726acrgy): Enhance your decor with the Oasis Modern Floral Grey Rug. Featuring a delicate floral pattern and soft texture, this loom-made rug adds timeless elegance.
-  Updated: 2025-11-20T15:51:12Z
+  Updated: 2025-11-24T23:40:13Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1617,15 +1617,15 @@
   - [5' x 7'](https://www.rugbranch.com/products/sy6726acrgy?variant=40976948101143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6726-CREAM_bdd37a15-6a7d-4607-95b3-88a7d33b3962.jpg?v=1710365149
-    Price: $251.13 CAD
+    Price: $448.26 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sy6726acrgy?variant=40976948133911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6726-CREAM_bdd37a15-6a7d-4607-95b3-88a7d33b3962.jpg?v=1710365149
-    Price: $391.53 CAD
+    Price: $698.87 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sy6726acrgy?variant=40976948166679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6726-CREAM_bdd37a15-6a7d-4607-95b3-88a7d33b3962.jpg?v=1710365149
-    Price: $522.27 CAD
+    Price: $932.25 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sy6726acrgy?variant=40976948199447)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6726-CREAM_bdd37a15-6a7d-4607-95b3-88a7d33b3962.jpg?v=1710365149
@@ -1651,7 +1651,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6726-CREAM_bdd37a15-6a7d-4607-95b3-88a7d33b3962.jpg?v=1710365149
     Price: $113.42 CAD
 - [Oasis Modern Floral Beige Rug - Elegant & Soft | Rug Branch](https://www.rugbranch.com/products/sy6242bcr): Add timeless charm with the Oasis Modern Floral Beige Rug. Featuring a delicate floral pattern, this soft, loom-made rug enhances any modern space.
-  Updated: 2025-11-20T15:51:12Z
+  Updated: 2025-11-24T23:40:14Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1663,15 +1663,15 @@
   - [5' x 7'](https://www.rugbranch.com/products/sy6242bcr?variant=40976947511319)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6242-CREAM_ba523860-2ac0-47ae-ac47-9ac67c692978.jpg?v=1710365128
-    Price: $251.13 CAD
+    Price: $448.26 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sy6242bcr?variant=40976947544087)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6242-CREAM_ba523860-2ac0-47ae-ac47-9ac67c692978.jpg?v=1710365128
-    Price: $391.53 CAD
+    Price: $698.87 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sy6242bcr?variant=40976947576855)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6242-CREAM_ba523860-2ac0-47ae-ac47-9ac67c692978.jpg?v=1710365128
-    Price: $522.27 CAD
+    Price: $932.25 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sy6242bcr?variant=40976947609623)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6242-CREAM_ba523860-2ac0-47ae-ac47-9ac67c692978.jpg?v=1710365128
@@ -1697,7 +1697,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-6242-CREAM_ba523860-2ac0-47ae-ac47-9ac67c692978.jpg?v=1710365128
     Price: $113.42 CAD
 - [Oasis Modern Geometric Grey Rug - Subtle & Stylish | Rug Branch](https://www.rugbranch.com/products/sy5828ltgy): Enhance your space with the Oasis Modern Geometric Grey Rug. Featuring a soft, textured geometric pattern, this loom-made rug adds modern elegance.
-  Updated: 2025-11-20T15:51:16Z
+  Updated: 2025-11-24T23:40:14Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1709,17 +1709,17 @@
   - [5' x 7'](https://www.rugbranch.com/products/sy5828ltgy?variant=40976947249175)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Sydney-5828-Grey-1_b833f2b2-da10-4409-a944-e26bdb10d43a.jpg?v=1710365165
-    Price: $251.13 CAD
+    Price: $448.26 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sy5828ltgy?variant=40976947281943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Sydney-5828-Grey-1_b833f2b2-da10-4409-a944-e26bdb10d43a.jpg?v=1710365165
-    Price: $391.53 CAD
+    Price: $698.87 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sy5828ltgy?variant=40976947314711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Sydney-5828-Grey-1_b833f2b2-da10-4409-a944-e26bdb10d43a.jpg?v=1710365165
-    Price: $522.27 CAD
+    Price: $932.25 CAD
 - [Oasis Scandinavian Modern Grey Rug - Elegant & Textured | Rug Branch](https://www.rugbranch.com/products/sy5816bl): Upgrade your decor with the Oasis Scandinavian Modern Grey Rug. Featuring a sophisticated textured design, this soft, loom-made rug adds modern charm.
-  Updated: 2025-11-20T15:51:12Z
+  Updated: 2025-11-26T16:51:10Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1751,7 +1751,7 @@
   - [5' x 7'](https://www.rugbranch.com/products/sy5816bl?variant=40976947085335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-5816-BLUE_cd7d3e4f-4711-4721-81b9-2ee5b27d3d33.jpg?v=1741922746
-    Price: $251.13 CAD
+    Price: $448.26 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sy5816bl?variant=40976947118103)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-5816-BLUE_cd7d3e4f-4711-4721-81b9-2ee5b27d3d33.jpg?v=1741922746
@@ -1765,7 +1765,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SYDNEY-5816-BLUE_cd7d3e4f-4711-4721-81b9-2ee5b27d3d33.jpg?v=1741922746
     Price: $834.76 CAD
 - [Oasis Scandinavian Abstract Grey Rug - Modern & Elegant | Rug Branch](https://www.rugbranch.com/products/sy5813cbl): Elevate your space with the Oasis Scandinavian Abstract Grey Rug. Featuring a sleek abstract design, this soft, loom-made rug adds modern sophistication.
-  Updated: 2025-11-20T15:51:11Z
+  Updated: 2025-11-24T23:40:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1790,46 +1790,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Sydney-5813C-Blue-1_23f41901-0080-4c6b-b333-8cb180eaec92.jpg?v=1741922545
     Price: $834.76 CAD
-- [Vista Scandinavian Contemporary Brown Rug | Rug Branch](https://www.rugbranch.com/products/vel2114iv): Vista Scandinavian Contemporary Brown Rug – A Turkish loom-made rug with a soft textured brown design. Durable polypropylene with sturdy jute backing.
-  Updated: 2025-11-20T15:53:52Z
-  Vendor: Rug Branch
-  Product Type: Area Rugs
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VE8_1_fdb80cef-1605-46d8-bb87-f89121ef332e.jpg?v=1710367850
-  - [5' x 8'](https://www.rugbranch.com/products/vel2114iv?variant=40976945610775)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VE8_1_fdb80cef-1605-46d8-bb87-f89121ef332e.jpg?v=1710367850
-    Price: $134.89 CAD
-  - [8' x 10'](https://www.rugbranch.com/products/vel2114iv?variant=40976945643543)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VE8_1_fdb80cef-1605-46d8-bb87-f89121ef332e.jpg?v=1710367850
-    Price: $262.17 CAD
-  - [3' x 10'](https://www.rugbranch.com/products/vel2114iv?variant=40976945676311)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VE8_1_fdb80cef-1605-46d8-bb87-f89121ef332e.jpg?v=1710367850
-    Price: $96.68 CAD
-  - [3' x 13'](https://www.rugbranch.com/products/vel2114iv?variant=40976945709079)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VE8_1_fdb80cef-1605-46d8-bb87-f89121ef332e.jpg?v=1710367850
-    Price: $113.64 CAD
-  - [3' x 15'](https://www.rugbranch.com/products/vel2114iv?variant=40976945741847)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VE8_1_fdb80cef-1605-46d8-bb87-f89121ef332e.jpg?v=1710367850
-    Price: $131.23 CAD
-  - [3' x 20'](https://www.rugbranch.com/products/vel2114iv?variant=40976945774615)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VE8_1_fdb80cef-1605-46d8-bb87-f89121ef332e.jpg?v=1710367850
-    Price: $165.17 CAD
-  - [3' x 8'](https://www.rugbranch.com/products/vel2114iv?variant=40976945807383)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VE8_1_fdb80cef-1605-46d8-bb87-f89121ef332e.jpg?v=1710367850
-    Price: $82.27 CAD
-  - [3' x 5'](https://www.rugbranch.com/products/vel2114iv?variant=40976945840151)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VE8_1_fdb80cef-1605-46d8-bb87-f89121ef332e.jpg?v=1710367850
-    Price: $53.02 CAD
 - [Vista Boho Modern Rust Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/vel2100rt): Vista Boho Modern Rust Rug – A Turkish loom-made rug with a distressed boho pattern in rust and beige. Durable polypropylene with a sturdy jute backing.
-  Updated: 2025-11-14T20:01:36Z
+  Updated: 2025-11-24T23:40:18Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1844,9 +1806,9 @@
     Price: $262.17 CAD
   - [3' x 5'](https://www.rugbranch.com/products/vel2100rt?variant=41453154238487)
     Availability: Available
-    Price: $53.02 CAD
+    Price: $94.63 CAD
 - [Vista Scandinavian Modern Grey Rug - Sleek & Durable | Rug Branch](https://www.rugbranch.com/products/vel2081iv): Vista Scandinavian Modern Grey Rug – A Turkish loom-made rug with a subtle textured grey design. Durable polypropylene with jute backing for modern elegance.
-  Updated: 2025-11-20T15:53:52Z
+  Updated: 2025-11-24T23:40:19Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1884,7 +1846,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VE4_4_e64ba9d2-fd40-4259-b162-55a1afb16324.jpg?v=1710367894
     Price: $262.17 CAD
 - [Vista Geometric Solid Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/vel2054sd): Vista Geometric Solid Grey Rug – A Turkish loom-made rug with a sleek solid grey design. Durable polypropylene with jute backing for a modern and lasting style.
-  Updated: 2025-11-20T15:53:53Z
+  Updated: 2025-11-24T23:40:19Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1922,7 +1884,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VEL2054SD.jpg?v=1710367774
     Price: $262.17 CAD
 - [Vista Abstract Boho Ivory Rug - Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/vel2007iv): Vista Abstract Boho Ivory Rug – A Turkish loom-made rug with an elegant ivory design and subtle patterns. Durable polypropylene with a sturdy jute backing.
-  Updated: 2025-11-14T20:01:36Z
+  Updated: 2025-11-24T23:40:20Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1935,7 +1897,7 @@
     Availability: Available
     Price: $53.02 CAD
 - [Montage Geometric Grey Rug - Modern & Bold | Rug Branch](https://www.rugbranch.com/products/ve9706gy): Enhance your space with the Montage Geometric Grey Rug. This loom-made olefin rug features a striking wave pattern for a sleek, contemporary look.
-  Updated: 2025-11-14T23:30:38Z
+  Updated: 2025-11-26T11:17:40Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2065,7 +2027,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE9706-Parent_8.jpg?v=1741926348
     Price: $90.77 CAD
 - [Montage Abstract Checkered Brown Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ve8973kh): Montage Abstract Checkered Brown Rug – A Turkish loom-made rug with a bold checkered design in brown, beige, and red. Durable olefin heatset with jute backing.
-  Updated: 2025-11-14T23:30:38Z
+  Updated: 2025-11-26T11:13:31Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2115,7 +2077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VEGAS-8973-BEIGE_c5c3c620-0216-4f5c-9228-eb10bfdcd462.jpg?v=1710357929
     Price: $280.59 CAD
 - [Montage Abstract Camo Brown Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ve7978bg): Montage Abstract Camo Brown Rug – A Turkish loom-made rug with a striking brown, beige, and black abstract pattern. Durable olefin heatset with jute backing.
-  Updated: 2025-11-22T22:01:26Z
+  Updated: 2025-11-26T20:04:50Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2129,7 +2091,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE7978-Parent_20.jpg?v=1746828199
     Price: $100.00 CAD
   - [2' x 15'](https://www.rugbranch.com/products/ve7978bg?variant=40976942661655)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE7978-Parent_20.jpg?v=1746828199
     Price: $115.62 CAD
   - [2' x 20'](https://www.rugbranch.com/products/ve7978bg?variant=40976942694423)
@@ -2209,7 +2171,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE7978-Parent_20.jpg?v=1746828199
     Price: $66.89 CAD
 - [Montage Geometric Checkered Black Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ve7443gy): Montage Geometric Checkered Black Rug – A modern Turkish rug with bold black, grey, and white circles and squares. Durable olefin heatset with jute backing.
-  Updated: 2025-11-14T23:30:38Z
+  Updated: 2025-11-26T11:13:40Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2339,7 +2301,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE7443-Parent_16.jpg?v=1746827893
     Price: $90.77 CAD
 - [Montage Abstract Modern Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ve7429gy): Enhance your space with the Montage Abstract Modern Grey Rug. A Turkish loom-made rug with bold red, grey, and black abstract patterns. Durable olefin heatset.
-  Updated: 2025-11-23T08:31:07Z
+  Updated: 2025-11-26T11:13:47Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2449,7 +2411,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VEGAS-7429-GREY_5cdaaf70-7834-4cbf-9c22-bc144d58e7f5.jpg?v=1741925504
     Price: $90.77 CAD
 - [Montage Abstract Lines Black Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ve7100bk): Montage Abstract Lines Black Rug - A modern Turkish rug with a sleek black-to-gray gradient. Durable olefin heatset with jute backing for lasting style.
-  Updated: 2025-11-22T13:57:35Z
+  Updated: 2025-11-26T11:13:54Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2499,7 +2461,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VEGAS-7100-2_4977f3c6-d9c3-4abb-95af-746690312978.jpg?v=1706027177
     Price: $71.77 CAD
 - [Montage Geometric Brown Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/ve6969bg): Upgrade your space with the Montage Geometric Brown Rug. This loom-made olefin rug features a bold checkered pattern for a sleek, modern look.
-  Updated: 2025-11-23T23:13:36Z
+  Updated: 2025-11-26T11:14:09Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2580,7 +2542,7 @@
     Availability: Available
     Price: $63.21 CAD
 - [Montage Abstract Fractal Grey Rug - Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/ve6968gy): Upgrade your decor with the Montage Abstract Fractal Grey Rug. Its ornate patterns and modern design add style, while olefin and jute ensure durability.
-  Updated: 2025-11-20T15:51:49Z
+  Updated: 2025-11-26T11:13:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2662,7 +2624,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VEGAS-6968-GREY_a5312c87-71ce-4b61-b8c3-e09fc493f85f.jpg?v=1741924929
     Price: $55.90 CAD
 - [Montage Geometric Modern Red Rug - Bold & Durable | Rug Branch](https://www.rugbranch.com/products/ve6704rd): Enhance your space with the Montage Geometric Modern Red Rug. Its checkered and circle design adds style, while olefin and jute ensure lasting durability.
-  Updated: 2025-11-20T15:51:46Z
+  Updated: 2025-11-26T11:13:09Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2792,7 +2754,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/7_bbf9bfb0-6439-4ab1-8fdc-54b5a7c50db7.jpg?v=1741924779
     Price: $90.77 CAD
 - [Montage Abstract Swirls Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ve6687gy): Enhance your decor with the Montage Abstract Swirls Grey Rug. Its flowing swirl design adds elegance, while olefin and jute ensure lasting durability.
-  Updated: 2025-11-20T15:51:50Z
+  Updated: 2025-11-26T11:13:17Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2862,7 +2824,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/7_74663719-c3e1-4172-b5d4-527ce014f56a.jpg?v=1710359448
     Price: $71.77 CAD
 - [Montage Geometric Modern Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ve6148gy): Upgrade your space with the Montage Geometric Modern Grey Rug. Its abstract wave and circle design adds style, while olefin and jute ensure lasting durability.
-  Updated: 2025-11-14T23:30:38Z
+  Updated: 2025-11-25T07:15:47Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2972,7 +2934,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/7_2ed092e2-d4a1-40ef-b479-684897284a62.jpg?v=1741924490
     Price: $90.77 CAD
 - [Montage Geometric Checkered Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ve5082gy): Enhance your space with the Montage Geometric Checkered Grey Rug. Its bold square pattern adds style, while olefin and jute ensure lasting durability.
-  Updated: 2025-11-20T15:51:50Z
+  Updated: 2025-11-26T23:37:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3098,7 +3060,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE5082-Parent_16.jpg?v=1746829272
     Price: $90.77 CAD
 - [Montage Abstract Lines Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ve1888gy): Upgrade your space with the Montage Abstract Lines Grey Rug. Its sleek curved design with red accents adds style, while olefin and jute ensure durability.
-  Updated: 2025-11-20T15:51:38Z
+  Updated: 2025-11-25T06:55:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3224,7 +3186,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE1888-Parent_16.jpg?v=1746827634
     Price: $90.77 CAD
 - [Montage Abstract Boho Black Rug - Bold & Durable | Rug Branch](https://www.rugbranch.com/products/veg7897bkgy): Montage Abstract Boho Black Rug – A Turkish loom-made rug with a bold black and white wavy design. Durable olefin heatset with jute backing for lasting style.
-  Updated: 2025-11-14T23:30:38Z
+  Updated: 2025-11-25T16:59:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3346,7 +3308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE7897-Parent_16.jpg?v=1746829133
     Price: $90.77 CAD
 - [Mirage Scandinavian Modern Grey Rug - Chic & Soft | Rug Branch](https://www.rugbranch.com/products/st1119crgy): Upgrade your decor with the Mirage Scandinavian Modern Grey Rug. Featuring a sleek geometric pattern, this soft, loom-made rug adds a contemporary touch.
-  Updated: 2025-11-14T20:02:43Z
+  Updated: 2025-11-24T23:40:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3354,11 +3316,11 @@
   - [4' x 6'](https://www.rugbranch.com/products/st1119crgy?variant=40976935550999)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B119A-VSA25-CREAMD.GRAY_26741ea5-1673-431a-ba53-ec9033aebd2a.jpg?v=1710352207
-    Price: $160.03 CAD
+    Price: $285.65 CAD
   - [5' x 8'](https://www.rugbranch.com/products/st1119crgy?variant=40976935583767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B119A-VSA25-CREAMD.GRAY_26741ea5-1673-431a-ba53-ec9033aebd2a.jpg?v=1710352207
-    Price: $260.82 CAD
+    Price: $465.56 CAD
   - [6' x 9'](https://www.rugbranch.com/products/st1119crgy?variant=40976935616535)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B119A-VSA25-CREAMD.GRAY_26741ea5-1673-431a-ba53-ec9033aebd2a.jpg?v=1710352207
@@ -3388,7 +3350,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B119A-VSA25-CREAMD.GRAY_26741ea5-1673-431a-ba53-ec9033aebd2a.jpg?v=1710352207
     Price: $117.74 CAD
 - [Mirage Boho Modern Grey Rug - Stylish & Soft | Rug Branch](https://www.rugbranch.com/products/st1110crgy): Enhance your space with the Mirage Boho Modern Grey Rug. Featuring a subtle distressed design, this soft, loom-made rug adds elegance and modern charm.
-  Updated: 2025-11-14T20:02:42Z
+  Updated: 2025-11-24T23:40:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3400,7 +3362,7 @@
   - [5' x 8'](https://www.rugbranch.com/products/st1110crgy?variant=40976935223319)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B110A-VSA25-CREAMDGRAY_727b33f6-34f2-4c4c-92d1-ea6a4b00f7de.jpg?v=1710352286
-    Price: $260.82 CAD
+    Price: $465.56 CAD
   - [6' x 9'](https://www.rugbranch.com/products/st1110crgy?variant=40976935256087)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B110A-VSA25-CREAMDGRAY_727b33f6-34f2-4c4c-92d1-ea6a4b00f7de.jpg?v=1710352286
@@ -3430,7 +3392,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B110A-VSA25-CREAMDGRAY_727b33f6-34f2-4c4c-92d1-ea6a4b00f7de.jpg?v=1710352286
     Price: $117.74 CAD
 - [Mirage Moroccan Transitional Grey Rug | Rug Branch](https://www.rugbranch.com/products/st1099crgy): Add sophistication with the Mirage Moroccan Transitional Grey Rug. Featuring a subtle distressed pattern, this soft, loom-made rug enhances any space.
-  Updated: 2025-11-14T20:02:42Z
+  Updated: 2025-11-24T23:40:28Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3462,7 +3424,7 @@
   - [5' x 8'](https://www.rugbranch.com/products/st1099crgy?variant=40976934993943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B099A-VSA25-CREAMD.GRAY_583bfcbe-0fe2-4143-add8-3554f751648c.jpg?v=1710352227
-    Price: $260.82 CAD
+    Price: $465.56 CAD
   - [6' x 9'](https://www.rugbranch.com/products/st1099crgy?variant=40976935026711)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B099A-VSA25-CREAMD.GRAY_583bfcbe-0fe2-4143-add8-3554f751648c.jpg?v=1710352227
@@ -3472,7 +3434,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B099A-VSA25-CREAMD.GRAY_583bfcbe-0fe2-4143-add8-3554f751648c.jpg?v=1710352227
     Price: $542.18 CAD
 - [Mirage Cloud River Blue Rug - Elegant & Modern | Rug Branch](https://www.rugbranch.com/products/st1040crgy): Create a serene space with the Mirage Cloud River Blue Rug. This loom-made viscose and polyester rug features a soft, abstract design for a modern touch.
-  Updated: 2025-11-21T04:13:49Z
+  Updated: 2025-11-24T23:40:28Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3518,7 +3480,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B236B-VTA15_11a09c57-41a4-4772-b0b5-3a1c074cf47a.jpg?v=1710352268
     Price: $63.22 CAD
 - [Retro Moroccan Shag Grey Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/pf8953gy): Enhance your space with the Retro Moroccan Shag Grey Rug. Featuring a plush polyester pile, jute backing, and a chic diamond pattern for a modern touch.
-  Updated: 2025-11-14T23:28:56Z
+  Updated: 2025-11-25T06:56:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3543,7 +3505,7 @@
     Availability: Available
     Price: $62.72 CAD
 - [Retro Scandinavian Shag Beige Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/pf8951iv): Add warmth to your space with the Retro Scandinavian Shag Beige Rug. Loom-made in Turkey with soft polyester and jute backing for durability and comfort.
-  Updated: 2025-11-22T21:29:07Z
+  Updated: 2025-11-26T00:08:40Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3568,7 +3530,7 @@
     Availability: Available
     Price: $62.72 CAD
 - [Retro Geometric Shag Brown Rug - Soft & Durable | Rug Branch](https://www.rugbranch.com/products/pf8849bg): Upgrade your space with the Retro Geometric Shag Brown Rug. Made in Turkey with soft polyester and jute backing, this modern rug adds warmth and style.
-  Updated: 2025-11-20T15:50:13Z
+  Updated: 2025-11-25T06:55:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3594,7 +3556,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/PUFFY-8049_8849_-BEIGE_1_b84e92b5-41f2-455a-8430-a3a62e531ad8.jpg?v=1710365619
     Price: $49.99 CAD
 - [Retro Boho Shag Brown Rug - Soft & Cozy | Rug Branch](https://www.rugbranch.com/products/pf8662bg): Retro Boho Shag Brown Rug – a plush polyester rug with a chic white lattice pattern on a warm brown base. Soft, stylish, and durable with sturdy jute backing.
-  Updated: 2025-11-14T23:28:55Z
+  Updated: 2025-11-25T06:55:31Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3620,7 +3582,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/PUFFY-8662-BIGE_1_beac5d3c-be88-4f00-bded-d865e0012d90.jpg?v=1710365569
     Price: $358.76 CAD
 - [Retro Geometric Shag Beige Rug - Plush & Stylish | Rug Branch](https://www.rugbranch.com/products/pf8048gy): Retro Geometric Shag Beige Rug – a soft polyester rug with a bold abstract pattern in beige, black, and white. Plush, cozy, and durable with jute backing.
-  Updated: 2025-11-20T15:50:10Z
+  Updated: 2025-11-25T06:55:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3645,7 +3607,7 @@
     Availability: Available
     Price: $62.72 CAD
 - [Retro Abstract Shag Grey Rug - Plush & Modern | Rug Branch](https://www.rugbranch.com/products/pf8047iv): Retro Abstract Shag Grey Rug – a soft polyester rug with a bold abstract design in grey, black, and beige. Plush, stylish, and durable with jute backing.
-  Updated: 2025-11-20T15:50:12Z
+  Updated: 2025-11-25T22:22:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3670,7 +3632,7 @@
     Availability: Available
     Price: $62.72 CAD
 - [Retro Geometric Shag Grey Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/pf8045gy): Retro Geometric Shag Grey Rug – a plush loom-made polyester rug with a modern white lattice pattern. Soft, cozy, and durable with sturdy jute backing.
-  Updated: 2025-11-20T15:50:10Z
+  Updated: 2025-11-25T06:55:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3696,7 +3658,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/PUFFY-8045-GRAY_1_a2f3e9f7-6093-4c3b-a722-7fc22e23bb24.jpg?v=1710365623
     Price: $358.76 CAD
 - [Retro Boho Shag White Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/pf8023iv): Retro Boho Shag White Rug – a plush loom-made polyester rug with a chic black lattice pattern. Soft, cozy, and durable with sturdy jute backing.
-  Updated: 2025-11-14T23:28:55Z
+  Updated: 2025-11-25T06:55:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3722,7 +3684,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/PUFFY-8023-IVORY_1_6923b0c1-c713-4bbe-9601-fb443c5acb9a.jpg?v=1710365582
     Price: $358.76 CAD
 - [Premium Non-Slip Rug Pad - Secure & Durable | Rug Branch](https://www.rugbranch.com/products/hpad): Enhance safety with the Premium Non-Slip Rug Pad. Made from durable PVC, this loom-made pad keeps rugs in place while protecting your floors.
-  Updated: 2025-11-22T23:06:17Z
+  Updated: 2025-11-26T03:06:07Z
   Vendor: Rug Branch
   Product Type: Rug Pads
   Availability: Available
@@ -3730,27 +3692,27 @@
   - [2' x 4'](https://www.rugbranch.com/products/hpad?variant=40527165489175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/HPAD-Parent_16.jpg?v=1746738948
-    Price: $21.99 CAD
+    Price: $25.49 CAD
   - [2' x 8'](https://www.rugbranch.com/products/hpad?variant=40527165554711)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/HPAD-Parent_16.jpg?v=1746738948
-    Price: $26.18 CAD
+    Price: $29.74 CAD
   - [4' x 6'](https://www.rugbranch.com/products/hpad?variant=39911439892503)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/HPAD-Parent_16.jpg?v=1746738948
-    Price: $30.90 CAD
+    Price: $33.99 CAD
   - [5' x 7'](https://www.rugbranch.com/products/hpad?variant=40976932864023)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/HPAD-Parent_16.jpg?v=1746738948
-    Price: $44.73 CAD
+    Price: $50.99 CAD
   - [6' x 9'](https://www.rugbranch.com/products/hpad?variant=40976932896791)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/HPAD-Parent_16.jpg?v=1746738948
-    Price: $68.00 CAD
+    Price: $84.99 CAD
   - [8' x 11'](https://www.rugbranch.com/products/hpad?variant=40976795467799)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/HPAD-Parent_16.jpg?v=1746738948
-    Price: $94.15 CAD
+    Price: $110.49 CAD
   - [9' x 12'](https://www.rugbranch.com/products/hpad?variant=40976795500567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/HPAD-Parent_16.jpg?v=1746738948
@@ -3758,9 +3720,9 @@
   - [3' x 5'](https://www.rugbranch.com/products/hpad?variant=40980860174359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/HPAD-Parent_16.jpg?v=1746738948
-    Price: $21.30 CAD
+    Price: $25.49 CAD
 - [Supreme Non-Slip Rug Pad - Secure & Durable | Rug Branch](https://www.rugbranch.com/products/mpad): Keep your rugs in place with the Supreme Non-Slip Rug Pad. Made from durable PVC, this loom-made pad adds grip and protects your floors.
-  Updated: 2025-11-22T13:57:30Z
+  Updated: 2025-11-26T22:31:36Z
   Vendor: Rug Branch
   Product Type: Rug Pads
   Availability: Available
@@ -3768,25 +3730,25 @@
   - [2' x 8'](https://www.rugbranch.com/products/mpad?variant=40527165980695)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/MPAD-Parent__1-731935.jpg?v=1709319641
-    Price: $21.76 CAD
+    Price: $25.49 CAD
   - [4' x 6'](https://www.rugbranch.com/products/mpad?variant=39911439728663)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/MPAD-Parent__1-731935.jpg?v=1709319641
-    Price: $22.57 CAD
+    Price: $29.74 CAD
   - [5' x 7'](https://www.rugbranch.com/products/mpad?variant=40976932798487)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/MPAD-Parent__1-731935.jpg?v=1709319641
-    Price: $27.56 CAD
+    Price: $33.99 CAD
   - [8' x 11'](https://www.rugbranch.com/products/mpad?variant=39911439826967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/MPAD-Parent__1-731935.jpg?v=1709319641
-    Price: $57.91 CAD
+    Price: $59.49 CAD
   - [6' x 9'](https://www.rugbranch.com/products/mpad?variant=40976932831255)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/MPAD-Parent__1-731935.jpg?v=1709319641
-    Price: $49.33 CAD
+    Price: $50.99 CAD
 - [Sardini Grey Rug - Abstract & Contemporary | Rug Branch](https://www.rugbranch.com/products/me1641bg): Elevate your space with the Sardini Grey Rug. This loom-made polyester rug features a modern abstract design, perfect for a stylish contemporary look.
-  Updated: 2025-11-14T21:45:17Z
+  Updated: 2025-11-25T06:55:31Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3815,7 +3777,7 @@
     Availability: Not Available
     Price: $62.92 CAD
 - [Sardini Geometric Contemporary Grey Rug | Rug Branch](https://www.rugbranch.com/products/me1154gy): Sardini collection by rug branch adds rich textures to fascinating abstract imagery in creating these dazzling rugs. Sardini is a blend of art-deco and vintage styling presented in a beautiful hue of vivid fashionable colors.
-  Updated: 2025-11-20T15:49:51Z
+  Updated: 2025-11-25T06:55:31Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3837,7 +3799,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/2_MERAKI-1154_MULTI_6_5a23943d-845d-4d37-882c-7c50075e7ec4.jpg?v=1710366361
     Price: $542.17 CAD
 - [Sardini Abstract Grey Rug – Transitional & Stylish | Rug Branch](https://www.rugbranch.com/products/me1145gy): Add elegance with the Sardini Abstract Grey Rug, loom-made in Turkey with soft polyester and durable jute backing for a timeless, modern touch.
-  Updated: 2025-11-14T23:30:38Z
+  Updated: 2025-11-25T06:56:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3862,7 +3824,7 @@
     Availability: Not Available
     Price: $62.92 CAD
 - [Sardini Abstract Grey Rug – Modern & Elegant | Rug Branch](https://www.rugbranch.com/products/me1037mlt): Upgrade your space with the Sardini Abstract Grey Rug, loom-made in Turkey with soft polyester and durable jute backing for a stylish touch.
-  Updated: 2025-11-14T21:45:17Z
+  Updated: 2025-11-25T06:55:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3888,7 +3850,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/2_MERAKI-1037_MULTI_6_b1ed6430-eff6-48b4-b908-4c3d6a66362c.jpg?v=1706027075
     Price: $819.50 CAD
 - [Capri Moroccan Grey Rug – Elegant & Contemporary | Rug Branch](https://www.rugbranch.com/products/lu1813gy): Add timeless charm with the Capri Moroccan Grey Rug, loom-made in Turkey with a soft viscose-polyester blend and durable jute backing for lasting beauty.
-  Updated: 2025-11-14T20:02:42Z
+  Updated: 2025-11-24T23:40:39Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3900,7 +3862,7 @@
   - [5' x 8'](https://www.rugbranch.com/products/lu1813gy?variant=40976929980439)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/MAXELL-A813A-VMA42-LGRAYCREAM_24d72157-c066-4bb4-83bd-23e3d5b94d5c.jpg?v=1710340425
-    Price: $232.92 CAD
+    Price: $395.96 CAD
   - [6' x 9'](https://www.rugbranch.com/products/lu1813gy?variant=40976930013207)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/MAXELL-A813A-VMA42-LGRAYCREAM_24d72157-c066-4bb4-83bd-23e3d5b94d5c.jpg?v=1710340425
@@ -3914,7 +3876,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/MAXELL-A813A-VMA42-LGRAYCREAM_24d72157-c066-4bb4-83bd-23e3d5b94d5c.jpg?v=1710340425
     Price: $694.96 CAD
 - [Capri Abstract Grey Rug – Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/lu1808mlt): Elevate your space with the Capri Abstract Grey Rug, loom-made in Turkey with a soft viscose-polyester blend and durable jute backing for lasting elegance.
-  Updated: 2025-11-14T20:02:52Z
+  Updated: 2025-11-24T23:40:39Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3958,13 +3920,13 @@
   - [2' x 3'](https://www.rugbranch.com/products/lu1808mlt?variant=40976929882135)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/MAXELL-A808B-VRA28-CREAMRED_bd23fa2d-fee9-4de6-8d13-d7b5431f450a.jpg?v=1710340572
-    Price: $48.18 CAD
+    Price: $81.90 CAD
   - [2' x 8'](https://www.rugbranch.com/products/lu1808mlt?variant=40976929914903)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/7_adcd31e3-9bd9-4bc0-b024-e6fff58e00bb-181215.jpg?v=1721759728
     Price: $105.80 CAD
 - [Capri Moroccan Grey Rug – Contemporary & Elegant | Rug Branch](https://www.rugbranch.com/products/lu1804gy): Upgrade your home with the Capri Moroccan Grey Rug, loom-made in Turkey with a soft viscose-polyester blend and durable jute backing for modern charm.
-  Updated: 2025-11-14T20:02:52Z
+  Updated: 2025-11-24T23:40:40Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3992,7 +3954,7 @@
   - [4' x 6'](https://www.rugbranch.com/products/lu1804gy?variant=40976929325079)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/MAXELL-A804B-VMA26-CREAMGRAY_2f39a75c-8ffd-4182-8f67-2143115f65e8.jpg?v=1710344659
-    Price: $144.35 CAD
+    Price: $245.39 CAD
   - [5' x 8'](https://www.rugbranch.com/products/lu1804gy?variant=40976929357847)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/MAXELL-A804B-VMA26-CREAMGRAY_2f39a75c-8ffd-4182-8f67-2143115f65e8.jpg?v=1710344659
@@ -4010,7 +3972,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/MAXELL-A804B-VMA26-CREAMGRAY_2f39a75c-8ffd-4182-8f67-2143115f65e8.jpg?v=1710344659
     Price: $694.96 CAD
 - [Capri Abstract Grey Rug – Contemporary & Stylish | Rug Branch](https://www.rugbranch.com/products/lu1025mlt): Enhance your home with the Capri Abstract Grey Rug, loom-made in Turkey with a soft viscose-polyester blend and durable jute backing for modern appeal.
-  Updated: 2025-11-20T15:49:46Z
+  Updated: 2025-11-24T23:40:40Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4046,7 +4008,7 @@
   - [5' x 8'](https://www.rugbranch.com/products/lu1025mlt?variant=40976928931863)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/MAXELL-B025A-VRA28-CREAMRED_4757985a-407e-45a6-b263-9ff6f3526503.jpg?v=1710340515
-    Price: $232.92 CAD
+    Price: $395.96 CAD
   - [6' x 9'](https://www.rugbranch.com/products/lu1025mlt?variant=40976928964631)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/MAXELL-B025A-VRA28-CREAMRED_4757985a-407e-45a6-b263-9ff6f3526503.jpg?v=1710340515
@@ -4063,7 +4025,7 @@
     Availability: Not Available
     Price: $48.18 CAD
 - [Capri Abstract Grey Rug – Modern & Elegant | Rug Branch](https://www.rugbranch.com/products/lu1010gy): Add a stylish touch with the Capri Abstract Grey Rug, loom-made in Turkey with a soft viscose-polyester blend and durable jute backing.
-  Updated: 2025-11-14T20:02:52Z
+  Updated: 2025-11-24T23:40:41Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4109,7 +4071,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/MAXELL-B010C-VMA25_7c4e0281-8a2a-4428-bb15-808e9cf27856.jpg?v=1710340471
     Price: $694.96 CAD
 - [Majestic Persian Afghan Red Rug – Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/ja5602rd): Enhance your space with this Persian Afghan red rug, loom-made in Turkey with durable Olefin Heatset and jute backing for timeless beauty.
-  Updated: 2025-11-14T23:30:38Z
+  Updated: 2025-11-25T06:56:37Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4183,7 +4145,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA5602-Parent_R1.jpg?v=1746805640
     Price: $281.15 CAD
 - [Majestic Moroccan Beige Rug – Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/ja2552cr): Enhance your space with this Moroccan beige rug, loom-made in Turkey with durable Olefin Heatset and jute backing for lasting beauty.
-  Updated: 2025-11-14T23:30:38Z
+  Updated: 2025-11-25T06:56:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4237,7 +4199,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2552-Parent_R1.jpg?v=1746805481
     Price: $281.15 CAD
 - [Majestic Moroccan Red Rug - Traditional & Luxurious| Rug Branch](https://www.rugbranch.com/products/ja2195rd): Elevate your space with the Majestic Moroccan Red Rug. Loom-made in Turkey with durable olefin heatset for a timeless and elegant touch.
-  Updated: 2025-11-23T20:32:40Z
+  Updated: 2025-11-25T07:15:48Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4375,7 +4337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2195-Parent_16.jpg?v=1746805243
     Price: $100.51 CAD
 - [Majestic Persian Black Rug - Elegant & Timeless | Rug Branch](https://www.rugbranch.com/products/ja2117bk): Enhance your space with the Majestic Persian Black Rug. Featuring an intricate traditional design, this loom-made Turkish rug adds luxury and sophistication.
-  Updated: 2025-11-22T13:57:15Z
+  Updated: 2025-11-25T07:21:39Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4445,7 +4407,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2117BKCR-Parent_1.jpg?v=1741842702
     Price: $67.55 CAD
 - [Majestic Persian Traditional Cream Rug | Rug Branch](https://www.rugbranch.com/products/ja1974crbk): Bring timeless elegance home with the Majestic Persian Traditional Cream Rug. Loom-made in Turkey with durable olefin heatset for a classic, luxurious look.
-  Updated: 2025-11-21T16:24:51Z
+  Updated: 2025-11-26T01:53:45Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4467,7 +4429,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/1974-jaipur-collection-area-rugs-koshani-304236_70a1a1a2-9323-462a-b424-2eda10ece3cd.jpg?v=1710349138
     Price: $468.49 CAD
 - [New Zealand Plush Modern Grey Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/il1264gy): Experience luxury with the New Zealand Plush Modern Grey Rug. Loom-made in Turkey with double-twisted polyester for a soft, stylish, and durable touch.
-  Updated: 2025-11-14T23:30:38Z
+  Updated: 2025-11-25T06:56:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4489,7 +4451,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/1264-illusion-collection-area-rugs-koshani-912225_469e3e31-2895-4c75-bf12-dec00bcd67d4.jpg?v=1710368646
     Price: $516.41 CAD
 - [Nova Geometric Grey Rug - Modern & Soft | Rug Branch](https://www.rugbranch.com/products/co4579agyan): Nova Geometric Grey Rug, loom-made in Turkey with soft twisted polyester, featuring a sleek bordered design for a stylish and contemporary touch.
-  Updated: 2025-11-14T23:28:55Z
+  Updated: 2025-11-26T11:24:43Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4511,7 +4473,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/4579-comfort-collection-area-rugs-koshani-933431_4d6f0917-80e9-4ddb-bc9e-950549158015.jpg?v=1710359741
     Price: $359.23 CAD
 - [Nova Geometric Contemporary Grey Rug | Rug Branch](https://www.rugbranch.com/products/co4577agyan): Nova Collection by Rug Branch is an elegant mix of abstract designs and vintage colors. The richly detailed patterns add vintage finesse with a deft contemporary feel.
-  Updated: 2025-11-23T14:58:00Z
+  Updated: 2025-11-25T06:55:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4533,7 +4495,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/4577-comfort-collection-area-rugs-koshani-316018_5c2a31b7-5e34-487c-bfe3-35cb89b3202c.jpg?v=1710359761
     Price: $359.23 CAD
 - [Nova Modern Marble Black Rug - Stylish & Soft | Rug Branch](https://www.rugbranch.com/products/co4489aanwh): Nova Modern Marble Black Rug, loom-made in Turkey with soft twisted polyester, featuring a bold black and white marble-inspired design for a sleek look.
-  Updated: 2025-11-14T23:28:56Z
+  Updated: 2025-11-26T11:26:20Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4555,7 +4517,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/4489-comfort-collection-area-rugs-koshani-541632_2d428a87-aa5f-4dd8-b53a-41906047ac3d.jpg?v=1710360032
     Price: $359.23 CAD
 - [Nova Geometric White Rug - Modern & Soft | Rug Branch](https://www.rugbranch.com/products/co4477awh): Nova Geometric White Rug, loom-made in Turkey with soft twisted polyester, featuring a chic distressed checkered design for a contemporary touch.
-  Updated: 2025-11-21T16:24:41Z
+  Updated: 2025-11-26T11:24:48Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4581,7 +4543,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/4477-comfort-collection-area-rugs-koshani-213346_4e2bf0ed-9947-458c-b880-30522d31dd15.jpg?v=1710359895
     Price: $359.23 CAD
 - [Nova Geometric Grey Rug - Modern & Soft | Rug Branch](https://www.rugbranch.com/products/co4474agybl): Nova Geometric Grey Rug, loom-made in Turkey with soft twisted polyester, featuring a sleek gradient block design for a stylish, modern touch.
-  Updated: 2025-11-14T23:28:56Z
+  Updated: 2025-11-26T11:24:57Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4607,7 +4569,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/4474-comfort-collection-area-rugs-koshani-120518_eafbba50-ca5f-416b-a46c-4763dcf92f1a.jpg?v=1710359787
     Price: $359.23 CAD
 - [Nova Geometric Grey Red Rug - Modern & Soft | Rug Branch](https://www.rugbranch.com/products/co4470bangy): Nova Geometric Grey Red Rug, loom-made in Turkey with soft twisted polyester, featuring a bold 3D geometric design with striking red accents.
-  Updated: 2025-11-14T23:28:55Z
+  Updated: 2025-11-26T11:21:48Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4649,7 +4611,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/4470-comfort-collection-area-rugs-koshani-4-x-6-feet-grey-red-429389_4bef5d44-9d3a-445c-aaf1-c2cfe77688d9.jpg?v=1710359812
     Price: $82.29 CAD
 - [Nova Mid-Century Brown Rug - Modern & Soft | Rug Branch](https://www.rugbranch.com/products/co4244bbr): Enhance your space with the Nova Mid-Century Brown Rug. Loom-made in Turkey with soft twisted polyester, featuring a sleek geometric block design.
-  Updated: 2025-11-21T16:24:41Z
+  Updated: 2025-11-26T11:19:57Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4671,7 +4633,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/4244-comfort-collection-area-rugs-koshani-165466_bb974ba4-9833-4540-a486-9d4e1aff9623.jpg?v=1710359987
     Price: $359.23 CAD
 - [Nova Mid-Century Grey Rug - Modern & Soft | Rug Branch](https://www.rugbranch.com/products/co4232pl): Upgrade your space with the Nova Mid-Century Grey Rug. Loom-made in Turkey with soft twisted polyester, featuring a sleek geometric design with subtle accents.
-  Updated: 2025-11-22T13:57:11Z
+  Updated: 2025-11-26T11:20:04Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4693,7 +4655,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/4232-comfort-collection-area-rugs-koshani-596690_8ad985d1-c568-4e35-8b37-c44a044e1b3e.jpg?v=1710360018
     Price: $359.23 CAD
 - [Nova Scandinavian Blue Rug - Modern & Soft | Rug Branch](https://www.rugbranch.com/products/co4223awhbl): Elevate your space with the Nova Scandinavian Blue Rug. Loom-made in Turkey with soft twisted polyester, featuring a bold abstract brushstroke design.
-  Updated: 2025-11-20T15:49:17Z
+  Updated: 2025-11-26T11:20:06Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4799,7 +4761,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CO4223-Parent_16.jpg?v=1746731421
     Price: $84.54 CAD
 - [Nova Geometric Grey Rug - Modern & Soft | Rug Branch](https://www.rugbranch.com/products/co4215aan): Enhance your space with the Nova Geometric Grey Rug. Loom-made in Turkey with soft twisted polyester, this stylish rug features a bold abstract line design.
-  Updated: 2025-11-22T13:57:11Z
+  Updated: 2025-11-25T20:31:38Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4821,7 +4783,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/4215-comfort-collection-area-rugs-koshani-699010_c7144221-9ba4-41bb-a8e3-7c6c126c9f27.jpg?v=1710359829
     Price: $359.23 CAD
 - [Nova Moroccan Grey Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/co3976awhgy): Elevate your space with the Nova Moroccan Grey Rug. Loom-made in Turkey with soft twisted polyester, this modern rug features a chic marble-inspired design.
-  Updated: 2025-11-14T23:28:56Z
+  Updated: 2025-11-25T20:17:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4843,7 +4805,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/3976-comfort-collection-area-rugs-koshani-340468_7c869c59-79ba-4a11-a0ad-83a1541bb222.jpg?v=1710360124
     Price: $359.23 CAD
 - [Havana Modern Grey Rug - Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/ca9999gy): Add subtle elegance with the Havana Modern Grey Rug. This loom-made Turkish rug features a soft, faded design in durable polypropylene with jute backing.
-  Updated: 2025-11-20T15:49:17Z
+  Updated: 2025-11-25T22:22:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4885,7 +4847,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9999-Parent_17.jpg?v=1763109650
     Price: $306.36 CAD
 - [Havana Scandinavian Blue Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ca9998bl): Upgrade your space with the Havana Scandinavian Blue Rug. Loom-made in Turkey, this durable polypropylene rug features a sleek, contemporary striped design.
-  Updated: 2025-11-21T16:24:41Z
+  Updated: 2025-11-25T07:21:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -4897,11 +4859,11 @@
   - [5' x 8'](https://www.rugbranch.com/products/ca9998bl?variant=40976923197463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9998-Parent_21.jpg?v=1763109475
-    Price: $138.55 CAD
+    Price: $152.99 CAD
   - [4' x 6'](https://www.rugbranch.com/products/ca9998bl?variant=40976923164695)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9998-Parent_21.jpg?v=1763109475
-    Price: $89.79 CAD
+    Price: $101.99 CAD
   - [2' x 2'](https://www.rugbranch.com/products/ca9998bl?variant=42102845308951)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9998-Parent_15.jpg?v=1763109475
@@ -4983,7 +4945,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9998-Parent_16.jpg?v=1763109475
     Price: $204.57 CAD
 - [Havana Geometric Blue Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ca9994ny): Enhance your space with the Havana Geometric Blue Rug. Loom-made in Turkey, this stylish polypropylene rug features a contemporary mosaic design.
-  Updated: 2025-11-23T17:53:11Z
+  Updated: 2025-11-26T22:31:36Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5015,11 +4977,11 @@
   - [4' x 6'](https://www.rugbranch.com/products/ca9994ny?variant=40976922673175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9994-Parent_23.jpg?v=1763109070
-    Price: $89.79 CAD
+    Price: $110.49 CAD
   - [5' x 8'](https://www.rugbranch.com/products/ca9994ny?variant=40976922705943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9994-Parent_23.jpg?v=1763109070
-    Price: $138.55 CAD
+    Price: $152.99 CAD
   - [6' x 9'](https://www.rugbranch.com/products/ca9994ny?variant=40976922738711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9994-Parent_23.jpg?v=1763109070
@@ -5027,7 +4989,7 @@
   - [8' x 11'](https://www.rugbranch.com/products/ca9994ny?variant=40976922771479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9994-Parent_23.jpg?v=1763109070
-    Price: $306.36 CAD
+    Price: $382.49 CAD
   - [2' x 5'](https://www.rugbranch.com/products/ca9994ny?variant=40976922804247)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9994-Parent_15.jpg?v=1763109070
@@ -5089,7 +5051,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9994-Parent_17.jpg?v=1763109070
     Price: $72.94 CAD
 - [Havana Moroccan Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ca9993gy): Enhance your space with the Havana Moroccan Grey Rug. Loom-made in Turkey with 100% polypropylene and jute backing, this elegant rug is durable and stylish.
-  Updated: 2025-11-22T13:57:10Z
+  Updated: 2025-11-25T22:22:02Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5125,11 +5087,11 @@
   - [4' x 6'](https://www.rugbranch.com/products/ca9993gy?variant=40976922312727)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9993-Parent_21.jpg?v=1763108929
-    Price: $89.79 CAD
+    Price: $110.49 CAD
   - [5' x 8'](https://www.rugbranch.com/products/ca9993gy?variant=40976922345495)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9993-Parent_21.jpg?v=1763108929
-    Price: $138.55 CAD
+    Price: $152.99 CAD
   - [8' x 11'](https://www.rugbranch.com/products/ca9993gy?variant=40976922378263)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9993-Parent_21.jpg?v=1763108929
@@ -5187,7 +5149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9993-Parent_16.jpg?v=1763108929
     Price: $72.94 CAD
 - [Havana Geometric Coastal Blue Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ca9992ny): Add a modern touch with the Havana Geometric Coastal Blue Rug. Loom-made in Turkey with durable polypropylene, featuring a bold triangular pattern.
-  Updated: 2025-11-23T14:10:22Z
+  Updated: 2025-11-25T22:22:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5223,11 +5185,11 @@
   - [4' x 6'](https://www.rugbranch.com/products/ca9992ny?variant=40976921821207)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9992-Parent_20.jpg?v=1763108800
-    Price: $89.79 CAD
+    Price: $110.49 CAD
   - [5' x 8'](https://www.rugbranch.com/products/ca9992ny?variant=40976921853975)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/91AA5xgOT2L._AC_SL1500_5bb37d82-1432-4762-9e33-5ae289c924c7.jpg?v=1763108800
-    Price: $138.55 CAD
+    Price: $152.99 CAD
   - [6' x 9'](https://www.rugbranch.com/products/ca9992ny?variant=40976921886743)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9992-Parent_20.jpg?v=1763108800
@@ -5235,7 +5197,7 @@
   - [8' x 11'](https://www.rugbranch.com/products/ca9992ny?variant=40976921919511)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9992-Parent_20.jpg?v=1763108800
-    Price: $306.36 CAD
+    Price: $382.49 CAD
   - [2' x 11'](https://www.rugbranch.com/products/ca9992ny?variant=42102797697047)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9992-Parent_17.jpg?v=1763108800
@@ -5289,7 +5251,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9992-Parent_17.jpg?v=1763108800
     Price: $72.94 CAD
 - [Havana Abstract Contemporary Beige Rug | Rug Branch](https://www.rugbranch.com/products/ca9929iv): Elevate your space with the Havana Abstract Contemporary Beige Rug. Loom-made in Turkey with durable polypropylene, featuring a subtle distressed pattern.
-  Updated: 2025-11-23T04:30:56Z
+  Updated: 2025-11-26T09:57:10Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5325,11 +5287,11 @@
   - [4' x 6'](https://www.rugbranch.com/products/ca9929iv?variant=40976921460759)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/PT03_b912d3a0-97ec-4e84-b66b-cb99a2670191.jpg?v=1763108661
-    Price: $89.79 CAD
+    Price: $93.49 CAD
   - [5' x 8'](https://www.rugbranch.com/products/ca9929iv?variant=40976921493527)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/PT03_b912d3a0-97ec-4e84-b66b-cb99a2670191.jpg?v=1763108661
-    Price: $138.55 CAD
+    Price: $152.99 CAD
   - [8' x 11'](https://www.rugbranch.com/products/ca9929iv?variant=40976921526295)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/PT03_b912d3a0-97ec-4e84-b66b-cb99a2670191.jpg?v=1763108661
@@ -5387,7 +5349,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9929-Parent_16.jpg?v=1763108661
     Price: $72.94 CAD
 - [Havana Moroccan Contemporary Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ca9925gy): Enhance your decor with the Havana Moroccan Contemporary Grey Rug. Loom-made in Turkey with durable polypropylene, featuring a distressed Moroccan pattern.
-  Updated: 2025-11-23T19:28:45Z
+  Updated: 2025-11-26T18:27:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5419,11 +5381,11 @@
   - [4' x 6'](https://www.rugbranch.com/products/ca9925gy?variant=40976921002007)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/PT04.jpg?v=1763108322
-    Price: $89.79 CAD
+    Price: $110.49 CAD
   - [5' x 8'](https://www.rugbranch.com/products/ca9925gy?variant=40976921034775)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/PT04.jpg?v=1763108322
-    Price: $138.55 CAD
+    Price: $152.99 CAD
   - [8' x 11'](https://www.rugbranch.com/products/ca9925gy?variant=40976921067543)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/PT04.jpg?v=1763108322
@@ -5481,7 +5443,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9925-Parent_22.jpg?v=1763108415
     Price: $72.94 CAD
 - [Havana Abstract Contemporary Blue Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ca9924ny): Upgrade your space with the Havana Abstract Contemporary Blue Rug. Loom-made in Turkey with durable polypropylene, featuring a chic distressed pattern.
-  Updated: 2025-11-23T15:29:56Z
+  Updated: 2025-11-26T20:04:50Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5517,11 +5479,11 @@
   - [4' x 6'](https://www.rugbranch.com/products/ca9924ny?variant=40976920510487)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9924-Parent_19.jpg?v=1763108105
-    Price: $89.79 CAD
+    Price: $93.49 CAD
   - [5' x 8'](https://www.rugbranch.com/products/ca9924ny?variant=40976920543255)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9924-Parent_19.jpg?v=1763108105
-    Price: $138.55 CAD
+    Price: $152.99 CAD
   - [8' x 11'](https://www.rugbranch.com/products/ca9924ny?variant=40976920576023)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9924-Parent_19.jpg?v=1763108105
@@ -5579,7 +5541,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9924-Parent_16.jpg?v=1763108177
     Price: $72.94 CAD
 - [Havana Abstract Contemporary Blue Rug - Sleek & Durable | Rug Branch](https://www.rugbranch.com/products/ca9923ny): Enhance your space with the Havana Abstract Contemporary Blue Rug. Loom-made in Turkey with durable polypropylene, featuring a stylish distressed design.
-  Updated: 2025-11-20T21:59:13Z
+  Updated: 2025-11-25T22:22:00Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5615,11 +5577,11 @@
   - [4' x 6'](https://www.rugbranch.com/products/ca9923ny?variant=40976919986199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9923-Parent_21.jpg?v=1763107926
-    Price: $89.79 CAD
+    Price: $110.49 CAD
   - [5' x 8'](https://www.rugbranch.com/products/ca9923ny?variant=40976920018967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9923-Parent_21.jpg?v=1763107926
-    Price: $138.55 CAD
+    Price: $152.99 CAD
   - [8' x 11'](https://www.rugbranch.com/products/ca9923ny?variant=40976920051735)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9923-Parent_21.jpg?v=1763107926
@@ -5673,7 +5635,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9923-Parent_16.jpg?v=1763107926
     Price: $72.94 CAD
 - [Havana Boho Southwestern Blue Rug - Bold & Durable | Rug Branch](https://www.rugbranch.com/products/ca9497bg): Add character with the Havana Boho Southwestern Blue Rug. Loom-made in Turkey with durable polypropylene, featuring a striking tribal-inspired design.
-  Updated: 2025-11-14T23:28:55Z
+  Updated: 2025-11-25T06:55:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5707,7 +5669,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9497-Parent_15.jpg?v=1763107780
     Price: $40.43 CAD
 - [Havana Transitional Blue Rug - Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/ca9336ny): Elevate your space with the Havana Transitional Blue Rug. Loom-made in Turkey with durable polypropylene, featuring a timeless distressed medallion design.
-  Updated: 2025-11-20T15:49:02Z
+  Updated: 2025-11-25T22:22:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5719,11 +5681,11 @@
   - [5' x 8'](https://www.rugbranch.com/products/ca9336ny?variant=40976919330839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9336-Parent_21.jpg?v=1763107509
-    Price: $138.55 CAD
+    Price: $152.99 CAD
   - [4' x 6'](https://www.rugbranch.com/products/ca9336ny?variant=40976919298071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9336-Parent_21.jpg?v=1763107509
-    Price: $89.79 CAD
+    Price: $93.49 CAD
   - [2' x 3'](https://www.rugbranch.com/products/ca9336ny?variant=40976919232535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ca9336-parent_15_9edeffba-6634-4a87-8e8b-fd85f14bb128.jpg?v=1763107612
@@ -5741,7 +5703,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9336-Parent_16.jpg?v=1763107612
     Price: $67.63 CAD
 - [Havana Boho Contemporary Blue Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ca9093ny): Add a boho touch with the Havana Contemporary Blue Rug. Loom-made in Turkey with durable polypropylene, featuring intricate tribal-inspired patterns.
-  Updated: 2025-11-22T13:57:10Z
+  Updated: 2025-11-25T22:22:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5773,17 +5735,17 @@
   - [4' x 6'](https://www.rugbranch.com/products/ca9093ny?variant=40976919101463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9093-Parent_25.jpg?v=1763107303
-    Price: $89.79 CAD
+    Price: $110.49 CAD
   - [5' x 8'](https://www.rugbranch.com/products/ca9093ny?variant=40976919134231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9093-Parent_25.jpg?v=1763107303
-    Price: $138.55 CAD
+    Price: $152.99 CAD
   - [8' x 11'](https://www.rugbranch.com/products/ca9093ny?variant=40976919166999)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9093-Parent_25.jpg?v=1763107303
     Price: $306.36 CAD
 - [Vogue Abstract Grey Rug | Rug Branch](https://www.rugbranch.com/products/all6649gy): Enhance your space with the Vogue Abstract Grey Rug. This loom-made Turkish rug features a sleek modern design in grey and black tones. Stylish & durable.
-  Updated: 2025-11-20T15:48:52Z
+  Updated: 2025-11-26T18:27:37Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5813,7 +5775,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ALL6649-Parent_1.jpg?v=1710368267
     Price: $368.91 CAD
 - [Vogue Scandinavian Grey Rug | Rug Branch](https://www.rugbranch.com/products/all7276gy): Create a cozy space with the Vogue Scandinavian Grey Rug. This loom-made Turkish rug features a minimalist abstract design in soft grey tones.
-  Updated: 2025-11-20T15:48:52Z
+  Updated: 2025-11-25T06:56:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5847,7 +5809,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/7276-allure-collection-area-rugs-koshani-513088_65a14e72-fc7d-4a03-a3ed-fe682da8ec44.jpg?v=1741770466
     Price: $44.90 CAD
 - [Vogue Transitional Grey Rug | Rug Branch](https://www.rugbranch.com/products/all6348ml): Add elegance with the Vogue Transitional Grey Rug. This loom-made Turkish rug blends classic and modern design in grey, red, and blue. Durable & stylish.
-  Updated: 2025-11-14T23:30:38Z
+  Updated: 2025-11-25T06:56:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5877,7 +5839,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/6348-allure-collection-area-rugs-koshani-128682_d59588fd-1bcd-4da4-90c6-4cdbf7d5e353.jpg?v=1710360296
     Price: $598.83 CAD
 - [Vogue Geometric Grey Rug | Rug Branch](https://www.rugbranch.com/products/all6335ml): Enhance your space with the Vogue Geometric Grey Rug. This loom-made Turkish rug features a striking abstract geometric pattern in grey, red, and blue.
-  Updated: 2025-11-14T23:28:55Z
+  Updated: 2025-11-25T06:55:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5903,7 +5865,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/6335-allure-collection-area-rugs-koshani-195682_de4143c6-a9ce-4987-982c-44faaf76ddc2.jpg?v=1710360513
     Price: $271.33 CAD
 - [Vogue Coastal Blue Rug | Rug Branch](https://www.rugbranch.com/products/all6333bl): Transform your space with the Vogue Coastal Blue Rug. This loom-made Turkish rug features a serene coastal design in blue and grey. Stylish, soft & durable.
-  Updated: 2025-11-21T17:46:15Z
+  Updated: 2025-11-25T06:55:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5937,7 +5899,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/6333-allure-collection-area-rugs-koshani-834070_03ca512a-29dc-4fae-93b9-e449c4edfdd0.jpg?v=1703674326
     Price: $598.83 CAD
 - [Vogue Coastal Navy Rug | Rug Branch](https://www.rugbranch.com/products/all5486bg): Elevate your space with the Vogue Coastal Navy Rug. This loom-made Turkish rug features a coastal-inspired abstract design in navy and beige. Stylish & durable.
-  Updated: 2025-11-14T23:28:55Z
+  Updated: 2025-11-25T06:59:53Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5953,7 +5915,7 @@
   - [5' x 8'](https://www.rugbranch.com/products/all5486bg?variant=40976917331991)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/5486-allure-collection-area-rugs-koshani-999176_7bd77b3f-f6b5-42cf-b36b-ee983dc403c0.jpg?v=1710368427
-    Price: $172.02 CAD
+    Price: $195.49 CAD
   - [6' x 9'](https://www.rugbranch.com/products/all5486bg?variant=40976917364759)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/5486-allure-collection-area-rugs-koshani-999176_7bd77b3f-f6b5-42cf-b36b-ee983dc403c0.jpg?v=1710368427
@@ -5967,7 +5929,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/5486-allure-collection-area-rugs-koshani-999176_7bd77b3f-f6b5-42cf-b36b-ee983dc403c0.jpg?v=1710368427
     Price: $598.83 CAD
 - [Vogue Abstract Green Rug | Rug Branch](https://www.rugbranch.com/products/all5465gr): Refresh your space with the Vogue Abstract Green Rug. This loom-made Turkish rug features a modern abstract design in green and beige. Stylish and durable.
-  Updated: 2025-11-20T16:25:46Z
+  Updated: 2025-11-25T13:56:22Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6021,7 +5983,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/5465-allure-collection-area-rugs-koshani-735383_3a900ee0-42f5-41e2-833a-39849b434d3c.jpg?v=1705530526
     Price: $598.83 CAD
 - [Vogue Abstract Violet Rug | Rug Branch](https://www.rugbranch.com/products/all5463vl): Add a modern touch with the Vogue Abstract Violet Rug. This loom-made Turkish rug features a stylish abstract design in violet tones. Durable and elegant.
-  Updated: 2025-11-14T23:28:56Z
+  Updated: 2025-11-25T06:55:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6047,7 +6009,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/5463-allure-collection-area-rugs-koshani-597626_399ae120-25ed-40a4-92e5-e31811ff2f4e.jpg?v=1706027220
     Price: $368.91 CAD
 - [Vogue Abstract Blue Rug | Rug Branch](https://www.rugbranch.com/products/all5456bl): Enhance your space with the Vogue Abstract Blue Rug. A loom-made Turkish rug featuring a modern abstract design in blue and beige. Durable and stylish.
-  Updated: 2025-11-20T15:48:47Z
+  Updated: 2025-11-25T07:23:25Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6161,7 +6123,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/5456-allure-collection-area-rugs-koshani-520846_dda741f7-8f8f-4d57-af83-d5382a8f1d96.jpg?v=1741749709
     Price: $87.59 CAD
 - [Vogue Abstract Beige Rug – Modern & Durable | Rug Branch](https://www.rugbranch.com/products/all5441ml): Add style with the Vogue Abstract Beige Rug. A loom-made Turkish rug with a modern design in beige, red, and blue. Durable and perfect for any space.
-  Updated: 2025-11-14T23:28:56Z
+  Updated: 2025-11-25T07:10:30Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6207,7 +6169,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/5441-allure-collection-area-rugs-koshani-520653_5bea0085-bb92-462f-b4fc-875b9dc2b592.jpg?v=1743806318
     Price: $368.91 CAD
 - [Sakarya Contemporary Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ha1495bk): Enhance your space with the Sakarya Contemporary Grey Rug. Loom-made in Turkey, this modern polypropylene rug is durable with a jute backing.
-  Updated: 2025-11-14T21:46:10Z
+  Updated: 2025-11-25T06:56:37Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6229,7 +6191,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA1495-Parent_1.jpg?v=1710365906
     Price: $264.05 CAD
 - [Sakarya Modern Abstract Brown Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ha1911br): Upgrade your space with the Sakarya Abstract Brown Rug. This loom-made Turkish rug features a modern design, durable polypropylene, and jute backing.
-  Updated: 2025-11-20T15:49:37Z
+  Updated: 2025-11-26T03:23:36Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6255,7 +6217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/HA1911-Parent_16.jpg?v=1746738517
     Price: $64.94 CAD
 - [Sakarya Oriental Distressed Black Rug - Vintage & Durable | Rug Branch](https://www.rugbranch.com/products/ha2043bk): Bring timeless charm with the Sakarya Distressed Black Rug. Loom-made in Turkey, this vintage-style polypropylene rug offers durability with a jute backing.
-  Updated: 2025-11-20T15:49:36Z
+  Updated: 2025-11-26T11:29:55Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6277,7 +6239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA2043-Parent_1.jpg?v=1710366195
     Price: $264.05 CAD
 - [Sakarya Contemporary Abstract Brown Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ha2475br): Enhance your space with the Sakarya Abstract Brown Rug. This loom-made Turkish rug features a modern design, durable polypropylene, and jute backing.
-  Updated: 2025-11-22T13:57:15Z
+  Updated: 2025-11-26T11:31:58Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6299,7 +6261,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA2475-Parent_1.jpg?v=1710365898
     Price: $264.05 CAD
 - [Sakarya Distressed Oriental Brown Rug - Vintage & Durable | Rug Branch](https://www.rugbranch.com/products/ha2479cr): Add timeless elegance with the Sakarya Distressed Brown Rug. Loom-made in Turkey, this vintage-style polypropylene rug offers durability with a jute backing.
-  Updated: 2025-11-22T13:57:16Z
+  Updated: 2025-11-26T11:29:57Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6321,7 +6283,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA2479-Parent_1.jpg?v=1710365925
     Price: $264.05 CAD
 - [Sakarya Distressed Grey Rug - Traditional & Durable | Rug Branch](https://www.rugbranch.com/products/ha2571cr): Enhance your home with the Sakarya Distressed Grey Rug. Loom-made in Turkey, this vintage-style polypropylene rug is durable and features a classic design.
-  Updated: 2025-11-14T21:46:10Z
+  Updated: 2025-11-26T19:31:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6343,7 +6305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA2571-Parent_1.jpg?v=1710366210
     Price: $264.05 CAD
 - [Sakarya Geometric Abstract Brown Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ha2607bk): Enhance your space with the Sakarya Abstract Brown Rug. This loom-made Turkish rug features a stylish geometric design, durable polypropylene, and jute backing.
-  Updated: 2025-11-22T13:57:16Z
+  Updated: 2025-11-26T11:49:58Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6365,7 +6327,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA2607-Parent_1.jpg?v=1710365937
     Price: $264.05 CAD
 - [Sakarya Moroccan Modern Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ha3580gy): Upgrade your space with the Sakarya Moroccan Grey Rug, loom-made in Turkey with durable polypropylene and jute backing for lasting elegance.
-  Updated: 2025-11-23T22:09:41Z
+  Updated: 2025-11-26T11:32:19Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6387,7 +6349,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA3580-Parent_1.jpg?v=1710366184
     Price: $264.05 CAD
 - [Sakarya Modern Wave Brown Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ha4006br): Add elegance with the Sakarya Modern Wave Brown Rug. Loom-made in Turkey with durable polypropylene and jute backing for a sleek, modern look.
-  Updated: 2025-11-20T15:49:36Z
+  Updated: 2025-11-26T11:30:09Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6409,7 +6371,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA4006-Parent_1.jpg?v=1710366101
     Price: $264.05 CAD
 - [Sakarya Mid-Century Modern Brown Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ha8702br): Upgrade your space with the Sakarya Mid-Century Modern Brown Rug—Loom-made in Turkey with durable polypropylene and jute backing for lasting style.
-  Updated: 2025-11-20T15:49:37Z
+  Updated: 2025-11-26T11:30:20Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6431,7 +6393,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA8702-Parent_1.jpg?v=1745613410
     Price: $264.05 CAD
 - [Sakarya Abstract Splash Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ha8800cr): Elevate your space with the Sakarya Abstract Splash Grey Rug—Loom-made in Turkey with durable polypropylene and jute backing for a sleek, modern look.
-  Updated: 2025-11-21T16:24:56Z
+  Updated: 2025-11-26T23:37:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6463,7 +6425,7 @@
   - [5' x 8'](https://www.rugbranch.com/products/ha8800cr?variant=40976914284567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA8800-Parent_1.jpg?v=1722355648
-    Price: $129.02 CAD
+    Price: $169.99 CAD
   - [6' x 9'](https://www.rugbranch.com/products/ha8800cr?variant=40976914317335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA8800-Parent_1.jpg?v=1722355648
@@ -6473,7 +6435,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA8800-Parent_1.jpg?v=1722355648
     Price: $264.05 CAD
 - [Sakarya Boho Geometric Brown Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ha8810ml): Add warmth with the Sakarya Boho Geometric Brown Rug. Loom-made in Turkey with durable polypropylene and jute backing, perfect for a cozy boho look.
-  Updated: 2025-11-22T13:57:15Z
+  Updated: 2025-11-26T11:32:36Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6495,7 +6457,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA8810-Parent_1.jpg?v=1710365852
     Price: $264.05 CAD
 - [Sakarya Coastal Modern Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ha8820cr): Bring a relaxed vibe with the Sakarya Coastal Modern Beige Rug—Loom-made in Turkey with durable polypropylene and jute backing for lasting elegance.
-  Updated: 2025-11-14T21:46:10Z
+  Updated: 2025-11-26T11:32:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6517,7 +6479,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA8820-Parent_1.jpg?v=1710365869
     Price: $264.05 CAD
 - [Melo Modern Storm Beige Rug - Soft & Durable | Rug Branch](https://www.rugbranch.com/products/el3441bg): Loom-made in Turkey, the Melo Modern Storm Beige Rug features soft polyester with a jute backing, offering style and durability for any space.
-  Updated: 2025-11-14T20:03:52Z
+  Updated: 2025-11-24T23:41:07Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6525,17 +6487,17 @@
   - [5' x 8'](https://www.rugbranch.com/products/el3441bg?variant=40976913530903)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3441-Parent_1_1.jpg?v=1710351043
-    Price: $240.38 CAD
+    Price: $408.64 CAD
   - [8' x 10'](https://www.rugbranch.com/products/el3441bg?variant=40976913563671)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3441-Parent_1_1.jpg?v=1710351043
-    Price: $480.01 CAD
+    Price: $816.01 CAD
   - [9' x 12'](https://www.rugbranch.com/products/el3441bg?variant=40976913596439)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3441-Parent_1_1.jpg?v=1710351043
     Price: $746.22 CAD
 - [Melo Moroccan Boho Rug - Beige | Rug Branch](https://www.rugbranch.com/products/el3245bg): Add elegance with the Melo Moroccan Boho Rug. Featuring a beige geometric design, this soft, durable rug is perfect for modern and boho-style spaces.
-  Updated: 2025-11-14T20:03:42Z
+  Updated: 2025-11-24T23:41:08Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6543,17 +6505,17 @@
   - [5' x 8'](https://www.rugbranch.com/products/el3245bg?variant=40976913399831)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3245-Parent_1_47c83f1b-e265-4d7d-8356-de1d506ee340.jpg?v=1710351978
-    Price: $240.38 CAD
+    Price: $408.64 CAD
   - [8' x 10'](https://www.rugbranch.com/products/el3245bg?variant=40976913432599)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3245-Parent_1_47c83f1b-e265-4d7d-8356-de1d506ee340.jpg?v=1710351978
-    Price: $480.01 CAD
+    Price: $816.01 CAD
   - [9' x 12'](https://www.rugbranch.com/products/el3245bg?variant=40976913465367)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3245-Parent_1_47c83f1b-e265-4d7d-8356-de1d506ee340.jpg?v=1710351978
-    Price: $746.22 CAD
+    Price: $1,268.57 CAD
 - [Melo Abstract Scandinavian Beige Rug - Soft & Durable | Rug Branch](https://www.rugbranch.com/products/el3249bg): Loom-made in Turkey, the Melo Abstract Beige Rug features a modern design, soft polyester, and durable jute backing for lasting elegance.
-  Updated: 2025-11-14T20:03:42Z
+  Updated: 2025-11-24T23:41:08Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6561,7 +6523,7 @@
   - [5' x 8'](https://www.rugbranch.com/products/el3249bg?variant=40976913235991)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3249-Parent_1_2.jpg?v=1710350723
-    Price: $240.38 CAD
+    Price: $408.64 CAD
   - [8' x 10'](https://www.rugbranch.com/products/el3249bg?variant=40976913268759)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3249-Parent_1_2.jpg?v=1710350723
@@ -6571,7 +6533,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3249-Parent_1_2.jpg?v=1710350723
     Price: $746.22 CAD
 - [Melo Abstract Web Blue Rug | Rug Branch](https://www.rugbranch.com/products/el3468tq): Modern and durable, the Melo Abstract Web Blue Rug from Turkey features a web-like design in soft blue tones. Made of polyester with a jute backing.
-  Updated: 2025-11-23T02:04:15Z
+  Updated: 2025-11-24T23:41:09Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6579,17 +6541,17 @@
   - [5' x 8'](https://www.rugbranch.com/products/el3468tq?variant=40976913104919)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3468-Parent__1_430d02dc-de74-49aa-bc06-681bddb781c3.jpg?v=1710351037
-    Price: $240.38 CAD
+    Price: $408.64 CAD
   - [8' x 10'](https://www.rugbranch.com/products/el3468tq?variant=40976913137687)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3468-Parent__1_430d02dc-de74-49aa-bc06-681bddb781c3.jpg?v=1710351037
-    Price: $480.01 CAD
+    Price: $816.01 CAD
   - [9' x 12'](https://www.rugbranch.com/products/el3468tq?variant=40976913170455)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3468-Parent__1_430d02dc-de74-49aa-bc06-681bddb781c3.jpg?v=1710351037
-    Price: $746.22 CAD
+    Price: $1,268.57 CAD
 - [Melo Abstract Coastal Rug - Blue | Rug Branch](https://www.rugbranch.com/products/el3244bl): Enhance your space with the Melo Abstract Coastal Rug. Featuring a textured blue design, this soft, durable rug adds a modern touch to any room.
-  Updated: 2025-11-14T20:03:42Z
+  Updated: 2025-11-24T23:41:09Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6597,17 +6559,17 @@
   - [5' x 8'](https://www.rugbranch.com/products/el3244bl?variant=40976913006615)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3244-Parent_1_dc158f26-e592-4347-a7bc-5e5736c24975.jpg?v=1710350864
-    Price: $240.38 CAD
+    Price: $408.64 CAD
   - [8' x 10'](https://www.rugbranch.com/products/el3244bl?variant=40976913039383)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3244-Parent_1_dc158f26-e592-4347-a7bc-5e5736c24975.jpg?v=1710350864
-    Price: $480.01 CAD
+    Price: $816.01 CAD
   - [9' x 12'](https://www.rugbranch.com/products/el3244bl?variant=40976913072151)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3244-Parent_1_dc158f26-e592-4347-a7bc-5e5736c24975.jpg?v=1710350864
     Price: $746.22 CAD
 - [Melo Modern Iceland Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/el3761bg): Turkish-made Melo Modern Iceland Beige Rug with an abstract design. Durable polyester with a jute backing.
-  Updated: 2025-11-14T20:03:42Z
+  Updated: 2025-11-24T23:41:09Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6615,17 +6577,17 @@
   - [5' x 8'](https://www.rugbranch.com/products/el3761bg?variant=40976912810007)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3761-Parent__1_d0c10909-b443-452a-8640-cbef661f9c39.jpg?v=1710351397
-    Price: $240.38 CAD
+    Price: $408.64 CAD
   - [8' x 10'](https://www.rugbranch.com/products/el3761bg?variant=40976912842775)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3761-Parent__1_d0c10909-b443-452a-8640-cbef661f9c39.jpg?v=1710351397
-    Price: $480.01 CAD
+    Price: $816.01 CAD
   - [9' x 12'](https://www.rugbranch.com/products/el3761bg?variant=40976912875543)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3761-Parent__1_d0c10909-b443-452a-8640-cbef661f9c39.jpg?v=1710351397
     Price: $746.22 CAD
 - [Majestic Moroccan Black Rug - Traditional & Elegant | Rug Branch](https://www.rugbranch.com/products/ja2120bkcr): Enhance your space with the Majestic Moroccan Black Rug. Loom-made in Turkey with durable olefin heatset for a timeless and luxurious look.
-  Updated: 2025-11-20T15:49:47Z
+  Updated: 2025-11-25T06:57:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6699,7 +6661,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2120BKCR-Parent_R1.jpg?v=1746804623
     Price: $281.15 CAD
 - [Retro Boho Shag Beige Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/pf8940iv): Add cozy elegance with the Retro Boho Shag Beige Rug. Made in Turkey with soft polyester and jute backing, this boho-inspired rug is perfect for any space.
-  Updated: 2025-11-20T15:50:16Z
+  Updated: 2025-11-25T06:57:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6725,7 +6687,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/91YnBJt9t3L._AC_SL1500.jpg?v=1710365559
     Price: $358.76 CAD
 - [Nova Abstract Blue Rug - Modern & Soft | Rug Branch](https://www.rugbranch.com/products/co5928mlt): Nova Abstract Blue Rug, loom-made in Turkey with soft twisted polyester, featuring a bold multicolor abstract design for a stylish, contemporary look.
-  Updated: 2025-11-20T15:49:21Z
+  Updated: 2025-11-26T11:31:28Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6747,7 +6709,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/A1Eq7dF8jgL._AC_SL1500-359795.jpg?v=1710359648
     Price: $359.23 CAD
 - [Nova Boho Cream Rug - Stylish & Soft | Rug Branch](https://www.rugbranch.com/products/co6364cr): Nova Boho Cream Rug, loom-made in Turkey with soft twisted polyester, featuring a vibrant tribal-inspired design for a cozy, bohemian touch.
-  Updated: 2025-11-14T23:31:39Z
+  Updated: 2025-11-26T11:31:32Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6773,7 +6735,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/A11toBLPcNL._AC_SL1500.jpg?v=1710359687
     Price: $359.23 CAD
 - [Montage Abstract Boho Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ve7758gy): Montage Abstract Boho Grey Rug – A Turkish loom-made rug with a chic patchwork design in grey and white. Durable olefin heatset with a soft jute backing.
-  Updated: 2025-11-14T23:31:39Z
+  Updated: 2025-11-26T11:33:50Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6823,7 +6785,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/A1ES-u9pkQL._AC_SL1500.jpg?v=1710359384
     Price: $280.59 CAD
 - [New Zealand Plush Grey Rug - Soft & Elegant | Rug Branch](https://www.rugbranch.com/products/il1278gy): Add luxury to your home with the New Zealand Plush Grey Rug. Made from double-twisted polyester, this loom-made Turkish rug is ultra-soft and stylish.
-  Updated: 2025-11-14T21:46:52Z
+  Updated: 2025-11-25T06:57:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6837,7 +6799,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/A1cpXZl3s3L._AC_SL1500.jpg?v=1710368673
     Price: $516.41 CAD
 - [Mirage Abstract Contemporary Beige Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/st1096crgy): Upgrade your decor with the Mirage Abstract Contemporary Beige Rug. Featuring a chic geometric design, this soft, loom-made rug adds modern elegance.
-  Updated: 2025-11-14T20:04:39Z
+  Updated: 2025-11-24T23:41:14Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6845,7 +6807,7 @@
   - [4' x 6'](https://www.rugbranch.com/products/st1096crgy?variant=40976911007767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/A19V4D1nrTL._AC_SL1500.jpg?v=1710352244
-    Price: $160.03 CAD
+    Price: $285.65 CAD
   - [5' x 8'](https://www.rugbranch.com/products/st1096crgy?variant=40976911040535)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/A19V4D1nrTL._AC_SL1500.jpg?v=1710352244
@@ -6860,23 +6822,23 @@
     Price: $542.18 CAD
   - [2' x 4'](https://www.rugbranch.com/products/st1096crgy?variant=41453153091607)
     Availability: Not Available
-    Price: $63.22 CAD
+    Price: $112.84 CAD
 - [Oasis Scandinavian Abstract Grey Rug - Stylish & Modern | Rug Branch](https://www.rugbranch.com/products/sy5815bl): Enhance your space with the Oasis Scandinavian Abstract Grey Rug. Featuring a sleek geometric design, this soft, loom-made rug adds a contemporary touch.
-  Updated: 2025-11-14T21:46:52Z
+  Updated: 2025-11-25T17:17:57Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/2_f04c938f-b523-4715-9ebe-37141f3c00b5.jpg?v=1710365361
+  Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/2_f04c938f-b523-4715-9ebe-37141f3c00b5.jpg?v=1764090969
   - [6' x 9'](https://www.rugbranch.com/products/sy5815bl?variant=40976910942231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/2_f04c938f-b523-4715-9ebe-37141f3c00b5.jpg?v=1710365361
+    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/2_f04c938f-b523-4715-9ebe-37141f3c00b5.jpg?v=1764090969
     Price: $391.53 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sy5815bl?variant=40976910974999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/2_f04c938f-b523-4715-9ebe-37141f3c00b5.jpg?v=1710365361
-    Price: $522.27 CAD
+    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/2_f04c938f-b523-4715-9ebe-37141f3c00b5.jpg?v=1764090969
+    Price: $932.25 CAD
 - [Montage Geometric Animal Print Grey Rug - Bold & Durable | Rug Branch](https://www.rugbranch.com/products/ve6820gy): Enhance your decor with the Montage Geometric Animal Print Grey Rug. Featuring zebra and leopard patterns, its olefin and jute build ensures lasting durability.
-  Updated: 2025-11-14T21:46:52Z
+  Updated: 2025-11-26T11:40:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6906,7 +6868,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/A1SLPeIMtlL._AC_SL1500.jpg?v=1710358375
     Price: $280.59 CAD
 - [Soft Steps Boho Playmat - Cozy & Stylish  | Rug Branch](https://www.rugbranch.com/products/da1100cr): Soft Steps Boho Playmat, loom-made with soft polyester and canvas backing, featuring a modern cream design for a stylish and comfortable play space.
-  Updated: 2025-11-20T15:49:21Z
+  Updated: 2025-11-26T11:42:28Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6920,37 +6882,59 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1100-Parent_1.jpg?v=1710367164
     Price: $174.36 CAD
   - [6' x 9'](https://www.rugbranch.com/products/da1100cr?variant=40976910549015)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1100-Parent_1.jpg?v=1710367164
     Price: $265.66 CAD
   - [8' x 11'](https://www.rugbranch.com/products/da1100cr?variant=40976910581783)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1100-Parent_1.jpg?v=1710367164
     Price: $359.46 CAD
 - [Soft Steps Rainbow Playmat - Cozy & Cute | Rug Branch](https://www.rugbranch.com/products/da1101pk): Soft Steps Rainbow Playmat, loom-made with soft polyester and canvas backing, featuring a charming pink rainbow design for a stylish and comfy play space.
-  Updated: 2025-11-20T15:49:21Z
+  Updated: 2025-11-26T11:41:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1101-Parent_1.jpg?v=1710367177
   - [4' x 6'](https://www.rugbranch.com/products/da1101pk?variant=40976910286871)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1101-Parent_1.jpg?v=1710367177
     Price: $101.37 CAD
   - [5' x 8'](https://www.rugbranch.com/products/da1101pk?variant=40976910319639)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1101-Parent_1.jpg?v=1710367177
     Price: $174.36 CAD
   - [6' x 9'](https://www.rugbranch.com/products/da1101pk?variant=40976910352407)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1101-Parent_1.jpg?v=1710367177
     Price: $265.66 CAD
   - [8' x 11'](https://www.rugbranch.com/products/da1101pk?variant=40976910385175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1101-Parent_1.jpg?v=1710367177
     Price: $359.46 CAD
+- [Soft Steps Rainbow Playmat - Cozy & Colorful | Rug Branch](https://www.rugbranch.com/products/da1102cr): Soft Steps Rainbow Playmat, loom-made with soft polyester and canvas backing, featuring a playful pastel rainbow design for a comfy and stylish play area.
+  Updated: 2025-11-26T11:42:36Z
+  Vendor: Rug Branch
+  Product Type: Area Rugs
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1102-Parent_1.jpg?v=1710367215
+  - [4' x 6'](https://www.rugbranch.com/products/da1102cr?variant=40976910123031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1102-Parent_1.jpg?v=1710367215
+    Price: $101.37 CAD
+  - [5' x 8'](https://www.rugbranch.com/products/da1102cr?variant=40976910155799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1102-Parent_1.jpg?v=1710367215
+    Price: $174.36 CAD
+  - [6' x 9'](https://www.rugbranch.com/products/da1102cr?variant=40976910188567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1102-Parent_1.jpg?v=1710367215
+    Price: $265.66 CAD
+  - [8' x 11'](https://www.rugbranch.com/products/da1102cr?variant=40976910221335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1102-Parent_1.jpg?v=1710367215
+    Price: $359.46 CAD
 - [Soft Steps Airplane Rug - Fun & Cozy | Rug Branch](https://www.rugbranch.com/products/da1104ny): Soft Steps Airplane Playmat, loom-made with soft polyester and canvas backing, featuring a vibrant airplane design for a playful and comfy kids' space.
-  Updated: 2025-11-23T18:40:55Z
+  Updated: 2025-11-26T15:05:06Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6972,13 +6956,13 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1104ny-parent_1_1.jpg?v=1714475326
     Price: $380.46 CAD
 - [Soft Steps Stars Playmat - Cream | Rug Branch](https://www.rugbranch.com/products/da1221cr): Soft Steps Stars Playmat features a charming star pattern on a cream backdrop. A soft, cozy rug perfect for kids' playrooms and nurseries.
-  Updated: 2025-11-20T15:49:26Z
+  Updated: 2025-11-26T11:34:00Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1221-Parent_1.jpg?v=1710367288
   - [4' x 6'](https://www.rugbranch.com/products/da1221cr?variant=40976909500439)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1221-Parent_1.jpg?v=1710367288
     Price: $101.37 CAD
   - [5' x 8'](https://www.rugbranch.com/products/da1221cr?variant=40976909533207)
@@ -6986,15 +6970,15 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1221-Parent_1.jpg?v=1710367288
     Price: $174.36 CAD
   - [6' x 9'](https://www.rugbranch.com/products/da1221cr?variant=40976909565975)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1221-Parent_1.jpg?v=1710367288
     Price: $265.66 CAD
   - [8' x 11'](https://www.rugbranch.com/products/da1221cr?variant=40976909598743)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1221-Parent_1.jpg?v=1710367288
     Price: $359.46 CAD
 - [Eclipse Abstract Geometric Beige Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/eu8250bg): Modern Eclipse Abstract Geometric Beige Rug from China. Durable polyester with canvas backing and a stylish geometric pattern.
-  Updated: 2025-11-20T15:49:26Z
+  Updated: 2025-11-26T11:33:53Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7016,7 +7000,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EU8250BG-Parent_1.jpg?v=1710346241
     Price: $303.72 CAD
 - [Eclipse Abstract Geometric Beige Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/eu8251bg): Eclipse Abstract Geometric Beige Rug – A Chinese loom-made rug with a sleek beige base and bold geometric curves. Durable polyester with sturdy canvas backing.
-  Updated: 2025-11-21T16:24:42Z
+  Updated: 2025-11-25T06:57:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7038,7 +7022,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EU8251BG-Parent_1.jpg?v=1710345727
     Price: $303.72 CAD
 - [Eclipse Abstract Geometric Cream Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/eu8252ml): Eclipse Abstract Geometric Cream Rug – A Chinese loom-made rug with bold organic shapes in cream, brown, and black. Durable polyester with canvas backing.
-  Updated: 2025-11-21T16:24:41Z
+  Updated: 2025-11-25T06:57:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7060,7 +7044,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EU8252ML-Parent_1.jpg?v=1710345812
     Price: $303.72 CAD
 - [Eclipse Zebra Print White Rug - Bold & Modern | Rug Branch](https://www.rugbranch.com/products/eu8955bk): Make a statement with the Eclipse Zebra Print White Rug. This loom-made polyester rug features bold abstract lines, perfect for a stylish modern space.
-  Updated: 2025-11-22T13:57:16Z
+  Updated: 2025-11-25T06:57:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7082,7 +7066,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EU8955BL-Parent_1.jpg?v=1710345873
     Price: $303.72 CAD
 - [Eclipse Purple Rug - Minimalist & Modern | Rug Branch](https://www.rugbranch.com/products/eu8969vl): Add a soft touch with the Eclipse Purple Rug. This loom-made polyester rug features a subtle gradient design, perfect for a modern and minimalist space.
-  Updated: 2025-11-20T15:49:26Z
+  Updated: 2025-11-25T06:57:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7104,7 +7088,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EU8969VI-Parent_1.jpg?v=1710345905
     Price: $303.72 CAD
 - [Eclipse Checkered Geometric Purple Rug - Modern & Vibrant | Rug Branch](https://www.rugbranch.com/products/eu8977ml): Modern Eclipse Checkered Geometric Purple Rug from China. Durable polyester with canvas backing and a bold hexagonal pattern.
-  Updated: 2025-11-20T15:49:36Z
+  Updated: 2025-11-25T06:57:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7126,7 +7110,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EU8977ML-Parent_1.jpg?v=1710345890
     Price: $303.72 CAD
 - [Eclipse Modern Abstract Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/eu8988bg): Modern Eclipse Abstract Beige Rug from China. Durable polyester with canvas backing and a sleek wavy pattern.
-  Updated: 2025-11-23T21:37:44Z
+  Updated: 2025-11-25T06:57:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7148,7 +7132,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EU8988BG-Parent_1.jpg?v=1710345974
     Price: $303.72 CAD
 - [Eclipse Solid Beige Rug - Minimal & Modern | Rug Branch](https://www.rugbranch.com/products/eu8999bg): Add elegance with the Eclipse Solid Beige Rug. This loom-made polyester rug features a subtle abstract texture, perfect for a modern and minimalistic space.
-  Updated: 2025-11-23T19:28:46Z
+  Updated: 2025-11-25T07:21:00Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7170,7 +7154,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EU8999BG-Parent_1.jpg?v=1710345750
     Price: $303.72 CAD
 - [Blossom Floral Beige Rug - Elegant & Modern | Rug Branch](https://www.rugbranch.com/products/li7936gy): Add a touch of elegance with the Blossom Floral Beige Rug. This loom-made polyester rug features a delicate floral design, perfect for a modern, cozy space.
-  Updated: 2025-11-20T15:49:48Z
+  Updated: 2025-11-26T11:32:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7178,21 +7162,21 @@
   - [4' x 6'](https://www.rugbranch.com/products/li7936gy?variant=40976907665431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LI7936-Parent_1.jpg?v=1710340795
-    Price: $78.58 CAD
+    Price: $133.58 CAD
   - [5' x 8'](https://www.rugbranch.com/products/li7936gy?variant=40976907698199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LI7936-Parent_1.jpg?v=1710340795
-    Price: $133.25 CAD
+    Price: $226.52 CAD
   - [6' x 9'](https://www.rugbranch.com/products/li7936gy?variant=40976907730967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LI7936-Parent_1.jpg?v=1710340795
-    Price: $200.55 CAD
+    Price: $340.93 CAD
   - [8' x 11'](https://www.rugbranch.com/products/li7936gy?variant=40976907763735)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LI7936-Parent_1.jpg?v=1710340795
-    Price: $269.57 CAD
+    Price: $458.26 CAD
 - [Blossom Floral Brown Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/li7954gy): Bring nature indoors with the Blossom Floral Brown Rug. This loom-made polyester rug features an elegant leaf pattern, perfect for a cozy, modern space.
-  Updated: 2025-11-20T15:49:45Z
+  Updated: 2025-11-25T06:57:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7204,17 +7188,17 @@
   - [5' x 8'](https://www.rugbranch.com/products/li7954gy?variant=40976907501591)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LI7954-Parent_1.jpg?v=1710340741
-    Price: $133.25 CAD
+    Price: $226.52 CAD
   - [6' x 9'](https://www.rugbranch.com/products/li7954gy?variant=40976907534359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LI7954-Parent_1.jpg?v=1710340741
-    Price: $200.55 CAD
+    Price: $340.93 CAD
   - [8' x 11'](https://www.rugbranch.com/products/li7954gy?variant=40976907567127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LI7954-Parent_1.jpg?v=1710340741
-    Price: $269.57 CAD
+    Price: $458.26 CAD
 - [Blossom Floral Cream Rug - Elegant & Modern | Rug Branch](https://www.rugbranch.com/products/li7999cr): Soft and stylish, the Blossom Floral Cream Rug features a delicate leaf pattern. This loom-made polyester rug adds a modern and elegant touch to any space.
-  Updated: 2025-11-21T16:24:57Z
+  Updated: 2025-11-26T11:32:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7226,17 +7210,17 @@
   - [5' x 8'](https://www.rugbranch.com/products/li7999cr?variant=40976907304983)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LI7999-Parent_1.jpg?v=1710340691
-    Price: $133.25 CAD
+    Price: $226.52 CAD
   - [6' x 9'](https://www.rugbranch.com/products/li7999cr?variant=40976907370519)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LI7999-Parent_1.jpg?v=1710340691
-    Price: $200.55 CAD
+    Price: $340.93 CAD
   - [8' x 11'](https://www.rugbranch.com/products/li7999cr?variant=40976907403287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LI7999-Parent_1.jpg?v=1710340691
-    Price: $269.57 CAD
+    Price: $458.26 CAD
 - [Aruba Traditional Cream Rug - Distressed & Elegant | Rug Branch Canada](https://www.rugbranch.com/products/pr6924cr): Enhance your space with the Aruba Traditional Cream Rug. Featuring a distressed design, soft polyester, and durable canvas backing.
-  Updated: 2025-11-20T15:50:06Z
+  Updated: 2025-11-25T06:57:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7258,7 +7242,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/PR6924-Parent_1.jpg?v=1710340830
     Price: $269.57 CAD
 - [Aruba Traditional Black Rug - Distressed & Timeless | Rug Branch](https://www.rugbranch.com/products/pr6925bk): Add vintage charm with the Aruba Traditional Black Rug. Featuring a distressed design, soft polyester, and durable canvas backing for lasting elegance.
-  Updated: 2025-11-20T15:50:11Z
+  Updated: 2025-11-25T06:57:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7280,7 +7264,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/PR6925-Parent_1.jpg?v=1710340163
     Price: $269.57 CAD
 - [Aruba Vintage Cream Rug - Traditional & Elegant | Rug Branch](https://www.rugbranch.com/products/pr6933cr): Elevate your space with the Aruba Vintage Cream Rug. Featuring a timeless traditional design, soft polyester, and durable canvas backing.
-  Updated: 2025-11-20T15:50:11Z
+  Updated: 2025-11-25T06:57:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7302,7 +7286,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/PR6933-Parent_1.jpg?v=1710340814
     Price: $269.57 CAD
 - [Aruba Traditional Brown Rug - Distressed & Stylish | Rug Branch](https://www.rugbranch.com/products/pr6935br): Enhance your home with the Aruba Traditional Brown Rug. Featuring a distressed vintage design, soft polyester, and durable canvas backing.
-  Updated: 2025-11-20T15:50:11Z
+  Updated: 2025-11-25T06:57:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7324,7 +7308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/PR6935-Parent_1.jpg?v=1710340205
     Price: $269.57 CAD
 - [Aruba Traditional Brown Rug - Distressed & Elegant | Rug Branch](https://www.rugbranch.com/products/pr6943ml): Upgrade your space with the Aruba Traditional Brown Rug. Featuring a vintage distressed design, soft polyester, and durable canvas backing.
-  Updated: 2025-11-20T15:50:13Z
+  Updated: 2025-11-25T06:57:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7346,7 +7330,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/PR6943-Parent_1-362784.png?v=1710340846
     Price: $269.57 CAD
 - [Maya Boho Modern Beige Rug – Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/le5003iv): Elevate your space with the Maya Boho Beige Rug, loom-made in India with soft polyester and durable canvas backing for a chic modern touch.
-  Updated: 2025-11-15T08:09:14Z
+  Updated: 2025-11-25T06:57:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7364,7 +7348,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LE5003IV-Parent_1-min.jpg?v=1710349822
     Price: $485.09 CAD
 - [Maya Boho Moroccan Olive Rug – Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/le5101aq): Enhance your home with the Maya Boho Olive Rug, loom-made in India with soft polyester and durable canvas backing for a cozy, modern touch.
-  Updated: 2025-11-20T23:38:41Z
+  Updated: 2025-11-25T06:57:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7382,7 +7366,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LE5101AQ-Parent_1-min.jpg?v=1710350245
     Price: $485.09 CAD
 - [Maya Boho Moroccan Beige Rug – Modern & Soft | Rug Branch](https://www.rugbranch.com/products/le5102iv): Add a chic touch with the Maya Boho Beige Rug, loom-made in India with soft polyester and durable canvas backing for a stylish, cozy feel.
-  Updated: 2025-11-14T23:30:39Z
+  Updated: 2025-11-25T06:57:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7400,7 +7384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LE5102IV-Parent_1-min.jpg?v=1710350201
     Price: $485.09 CAD
 - [Maya Abstract Modern Beige Rug – Stylish & Soft | Rug Branch](https://www.rugbranch.com/products/le5103bg): Upgrade your space with the Maya Abstract Beige Rug, loom-made in India with soft polyester and durable canvas backing for modern elegance.
-  Updated: 2025-11-14T23:30:38Z
+  Updated: 2025-11-25T06:57:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7418,7 +7402,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LE5103BG-Parent_1-min.jpg?v=1710349409
     Price: $485.09 CAD
 - [Mirage Abstract Blue Rug - Modern & Elegant | Rug Branch](https://www.rugbranch.com/products/st1094crbl): Upgrade your space with the Mirage Abstract Blue Rug. This loom-made viscose and polyester rug features a distressed design for a stylish contemporary look.
-  Updated: 2025-11-14T20:04:39Z
+  Updated: 2025-11-24T23:41:28Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7450,7 +7434,7 @@
   - [5' x 8'](https://www.rugbranch.com/products/st1094crbl?variant=40976905338903)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B094B-VTA25-CREAMBLUE_cb21f4af-aa26-4381-87fa-a79b76be73ee.jpg?v=1710352107
-    Price: $260.82 CAD
+    Price: $465.56 CAD
   - [6' x 9'](https://www.rugbranch.com/products/st1094crbl?variant=40976905371671)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B094B-VTA25-CREAMBLUE_cb21f4af-aa26-4381-87fa-a79b76be73ee.jpg?v=1710352107
@@ -7460,7 +7444,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B094B-VTA25-CREAMBLUE_cb21f4af-aa26-4381-87fa-a79b76be73ee.jpg?v=1710352107
     Price: $542.18 CAD
 - [Mirage Abstract Contemporary Beige Rug - Modern & Elegant | Rug Branch](https://www.rugbranch.com/products/st1094crgy): Enhance your space with the Mirage Abstract Contemporary Beige Rug. Featuring a subtle distressed design, this soft, loom-made rug adds modern elegance.
-  Updated: 2025-11-14T21:46:52Z
+  Updated: 2025-11-26T21:25:57Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7470,15 +7454,15 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B094A-VSA25-CREAMDGRAY_2092986c-a139-4f2a-a27a-f3946422b45c.jpg?v=1710352088
     Price: $144.48 CAD
   - [2' x 13'](https://www.rugbranch.com/products/st1094crgy?variant=40976904781847)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B094A-VSA25-CREAMDGRAY_2092986c-a139-4f2a-a27a-f3946422b45c.jpg?v=1710352088
     Price: $178.93 CAD
   - [2' x 15'](https://www.rugbranch.com/products/st1094crgy?variant=40976904814615)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B094A-VSA25-CREAMDGRAY_2092986c-a139-4f2a-a27a-f3946422b45c.jpg?v=1710352088
     Price: $207.31 CAD
   - [2' x 20'](https://www.rugbranch.com/products/st1094crgy?variant=40976904847383)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B094A-VSA25-CREAMDGRAY_2092986c-a139-4f2a-a27a-f3946422b45c.jpg?v=1710352088
     Price: $268.63 CAD
   - [2' x 8'](https://www.rugbranch.com/products/st1094crgy?variant=40976904880151)
@@ -7488,11 +7472,11 @@
   - [4' x 6'](https://www.rugbranch.com/products/st1094crgy?variant=40976904912919)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B094A-VSA25-CREAMDGRAY_2092986c-a139-4f2a-a27a-f3946422b45c.jpg?v=1710352088
-    Price: $160.03 CAD
+    Price: $285.65 CAD
   - [5' x 8'](https://www.rugbranch.com/products/st1094crgy?variant=40976904945687)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B094A-VSA25-CREAMDGRAY_2092986c-a139-4f2a-a27a-f3946422b45c.jpg?v=1710352088
-    Price: $260.82 CAD
+    Price: $465.56 CAD
   - [6' x 9'](https://www.rugbranch.com/products/st1094crgy?variant=40976904978455)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/STELLA-B094A-VSA25-CREAMDGRAY_2092986c-a139-4f2a-a27a-f3946422b45c.jpg?v=1710352088
@@ -7505,7 +7489,7 @@
     Availability: Not Available
     Price: $63.22 CAD
 - [Emir Grey Rug - Vintage Transitional Design & Soft Feel | Rug Branch](https://www.rugbranch.com/products/sa4325bg): Enhance your home with the Emir Grey Rug. Featuring a vintage transitional design, soft polyester, and durable latex backing for lasting comfort.
-  Updated: 2025-11-14T21:46:52Z
+  Updated: 2025-11-26T21:44:57Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7517,13 +7501,13 @@
   - [5' x 8'](https://www.rugbranch.com/products/sa4325bg?variant=40976757915671)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/IMG_0629_457572f3-0150-45b9-88c7-2d96c99bc0c8.jpg?v=1710346552
-    Price: $123.90 CAD
+    Price: $210.63 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sa4325bg?variant=40976757948439)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/IMG_0629_457572f3-0150-45b9-88c7-2d96c99bc0c8.jpg?v=1710346552
     Price: $253.83 CAD
 - [Emir Red Rug - Vintage Transitional & Distressed Look | Rug Branch](https://www.rugbranch.com/products/sa4325rt): Add warmth with the Emir Red Rug. Featuring a vintage transitional design, soft polyester, and durable latex backing for timeless elegance.
-  Updated: 2025-11-14T23:31:39Z
+  Updated: 2025-11-26T11:36:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7535,13 +7519,13 @@
   - [5' x 8'](https://www.rugbranch.com/products/sa4325rt?variant=40976757850135)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SA4325RD-parent_1-341721.jpg?v=1708713499
-    Price: $123.90 CAD
+    Price: $161.49 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sa4325rt?variant=40976757882903)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SA4325RD-parent_1-341721.jpg?v=1708713499
-    Price: $253.83 CAD
+    Price: $431.51 CAD
 - [Emir Coastal Gold Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/sa5900gd): Bring a modern touch with the Emir Coastal Gold Rug. This loom-made polyester rug features a sleek, abstract design inspired by coastal hues.
-  Updated: 2025-11-20T15:50:20Z
+  Updated: 2025-11-26T11:36:25Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7549,17 +7533,17 @@
   - [4' x 6'](https://www.rugbranch.com/products/sa5900gd?variant=40955007205399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/IMG_0533_bace8353-75e2-4846-9d23-f0568f92a162.jpg?v=1710346151
-    Price: $83.72 CAD
+    Price: $142.32 CAD
   - [5' x 8'](https://www.rugbranch.com/products/sa5900gd?variant=40955007303703)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/IMG_0533_bace8353-75e2-4846-9d23-f0568f92a162.jpg?v=1710346151
-    Price: $123.90 CAD
+    Price: $210.63 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sa5900gd?variant=40976757784599)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/IMG_0533_bace8353-75e2-4846-9d23-f0568f92a162.jpg?v=1710346151
     Price: $253.83 CAD
 - [Emir Persian Brown Rug - Elegant & Timeless | Rug Branch](https://www.rugbranch.com/products/sa4555bg): Enhance your space with the Emir Persian Brown Rug. This loom-made polyester rug blends traditional Persian design with a modern transitional touch.
-  Updated: 2025-11-14T23:31:39Z
+  Updated: 2025-11-26T11:37:38Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7571,13 +7555,13 @@
   - [5' x 8'](https://www.rugbranch.com/products/sa4555bg?variant=40976757555223)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/IMG_0601_8fde3028-f003-44c5-a591-de59d214d91e.jpg?v=1710346172
-    Price: $123.90 CAD
+    Price: $210.63 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sa4555bg?variant=40976757587991)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/IMG_0601_8fde3028-f003-44c5-a591-de59d214d91e.jpg?v=1710346172
     Price: $253.83 CAD
 - [Emir Persian Blue Rug - Vintage & Elegant | Rug Branch](https://www.rugbranch.com/products/sa4684bl): Enhance your décor with the Emir Persian Blue Rug. This loom-made polyester rug features a distressed Persian design for a timeless, transitional look.
-  Updated: 2025-11-14T23:31:39Z
+  Updated: 2025-11-26T11:36:08Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7589,13 +7573,13 @@
   - [5' x 8'](https://www.rugbranch.com/products/sa4684bl?variant=40976757325847)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/IMG_0488_07804ee1-c16e-4f7f-909c-e71b4a0c2710.jpg?v=1710346182
-    Price: $123.90 CAD
+    Price: $210.63 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sa4684bl?variant=40976757358615)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/IMG_0488_07804ee1-c16e-4f7f-909c-e71b4a0c2710.jpg?v=1710346182
     Price: $253.83 CAD
 - [Amalfi South-Western Boho Brown Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/vi1555bg): Amalfi South-Western Boho Brown Rug – A Turkish loom-made rug with a vintage tribal pattern in brown tones. Durable polyester-cotton blend with jute backing.
-  Updated: 2025-11-14T20:04:39Z
+  Updated: 2025-11-24T23:41:32Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7603,7 +7587,7 @@
   - [10' x 13'](https://www.rugbranch.com/products/vi1555bg?variant=40976904224791)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-BEIGE_1_0e0e9efb-7838-41ed-b6bb-ccc4554a2cb9.jpg?v=1710338920
-    Price: $675.60 CAD
+    Price: $1,205.94 CAD
   - [2' x 10'](https://www.rugbranch.com/products/vi1555bg?variant=40976904257559)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-BEIGE_1_0e0e9efb-7838-41ed-b6bb-ccc4554a2cb9.jpg?v=1710338920
@@ -7631,7 +7615,7 @@
   - [5' x 8'](https://www.rugbranch.com/products/vi1555bg?variant=40976904486935)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-BEIGE_1_0e0e9efb-7838-41ed-b6bb-ccc4554a2cb9.jpg?v=1710338920
-    Price: $182.44 CAD
+    Price: $325.65 CAD
   - [7' x 10'](https://www.rugbranch.com/products/vi1555bg?variant=40976904519703)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-BEIGE_1_0e0e9efb-7838-41ed-b6bb-ccc4554a2cb9.jpg?v=1710338920
@@ -7639,9 +7623,9 @@
   - [8' x 11'](https://www.rugbranch.com/products/vi1555bg?variant=40976904552471)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-BEIGE_1_0e0e9efb-7838-41ed-b6bb-ccc4554a2cb9.jpg?v=1710338920
-    Price: $373.50 CAD
+    Price: $666.69 CAD
 - [Amalfi South-Western Boho Grey Rug - Vintage & Durable | Rug Branch](https://www.rugbranch.com/products/vi1555ml): Amalfi South-Western Boho Grey Rug – A Turkish loom-made rug with a distressed tribal pattern in grey tones. Durable polyester-cotton blend with jute backing.
-  Updated: 2025-11-14T20:04:49Z
+  Updated: 2025-11-24T23:41:33Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7657,11 +7641,11 @@
   - [2' x 13'](https://www.rugbranch.com/products/vi1555ml?variant=40976903438359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-MULTI_1_47533bdb-95e9-4b5b-a0f6-86237df444cc.jpg?v=1741926901
-    Price: $121.00 CAD
+    Price: $215.98 CAD
   - [2' x 15'](https://www.rugbranch.com/products/vi1555ml?variant=40976903471127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-MULTI_1_47533bdb-95e9-4b5b-a0f6-86237df444cc.jpg?v=1741926901
-    Price: $140.98 CAD
+    Price: $251.65 CAD
   - [2' x 20'](https://www.rugbranch.com/products/vi1555ml?variant=40976903503895)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-MULTI_1_47533bdb-95e9-4b5b-a0f6-86237df444cc.jpg?v=1741926901
@@ -7669,11 +7653,11 @@
   - [2' x 8'](https://www.rugbranch.com/products/vi1555ml?variant=40976903536663)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-MULTI_1_47533bdb-95e9-4b5b-a0f6-86237df444cc.jpg?v=1741926901
-    Price: $84.93 CAD
+    Price: $151.59 CAD
   - [4' x 6'](https://www.rugbranch.com/products/vi1555ml?variant=40976903569431)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-MULTI_1_47533bdb-95e9-4b5b-a0f6-86237df444cc.jpg?v=1741926901
-    Price: $116.59 CAD
+    Price: $208.11 CAD
   - [5' x 8'](https://www.rugbranch.com/products/vi1555ml?variant=40976903602199)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-MULTI_1_47533bdb-95e9-4b5b-a0f6-86237df444cc.jpg?v=1741926901
@@ -7689,15 +7673,15 @@
   - [2' x 11'](https://www.rugbranch.com/products/vi1555ml?variant=42114359132183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-MULTI_1_47533bdb-95e9-4b5b-a0f6-86237df444cc.jpg?v=1741926901
-    Price: $100.00 CAD
+    Price: $178.50 CAD
   - [2' x 12'](https://www.rugbranch.com/products/vi1555ml?variant=42114359164951)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-MULTI_1_47533bdb-95e9-4b5b-a0f6-86237df444cc.jpg?v=1741926901
-    Price: $106.93 CAD
+    Price: $190.86 CAD
   - [2' x 14'](https://www.rugbranch.com/products/vi1555ml?variant=42114359197719)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-MULTI_1_47533bdb-95e9-4b5b-a0f6-86237df444cc.jpg?v=1741926901
-    Price: $119.91 CAD
+    Price: $214.03 CAD
   - [2' x 16'](https://www.rugbranch.com/products/vi1555ml?variant=42114359230487)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-MULTI_1_47533bdb-95e9-4b5b-a0f6-86237df444cc.jpg?v=1741926901
@@ -7717,7 +7701,7 @@
   - [2' x 2'](https://www.rugbranch.com/products/vi1555ml?variant=42114359361559)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-MULTI_1_47533bdb-95e9-4b5b-a0f6-86237df444cc.jpg?v=1741926901
-    Price: $35.21 CAD
+    Price: $62.84 CAD
   - [2' x 25'](https://www.rugbranch.com/products/vi1555ml?variant=42114359394327)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-MULTI_1_47533bdb-95e9-4b5b-a0f6-86237df444cc.jpg?v=1741926901
@@ -7733,25 +7717,25 @@
   - [2' x 4'](https://www.rugbranch.com/products/vi1555ml?variant=42114359492631)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-MULTI_1_47533bdb-95e9-4b5b-a0f6-86237df444cc.jpg?v=1741926901
-    Price: $46.97 CAD
+    Price: $83.84 CAD
   - [2' x 5'](https://www.rugbranch.com/products/vi1555ml?variant=42114359525399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-MULTI_1_47533bdb-95e9-4b5b-a0f6-86237df444cc.jpg?v=1741926901
-    Price: $54.04 CAD
+    Price: $96.45 CAD
   - [2' x 6'](https://www.rugbranch.com/products/vi1555ml?variant=42114359558167)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-MULTI_1_47533bdb-95e9-4b5b-a0f6-86237df444cc.jpg?v=1741926901
-    Price: $60.99 CAD
+    Price: $108.86 CAD
   - [2' x 7'](https://www.rugbranch.com/products/vi1555ml?variant=42114359590935)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-MULTI_1_47533bdb-95e9-4b5b-a0f6-86237df444cc.jpg?v=1741926901
-    Price: $66.02 CAD
+    Price: $117.84 CAD
   - [2' x 9'](https://www.rugbranch.com/products/vi1555ml?variant=42114359623703)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-MULTI_1_47533bdb-95e9-4b5b-a0f6-86237df444cc.jpg?v=1741926901
-    Price: $87.02 CAD
+    Price: $155.32 CAD
 - [Silvia Scandinavian Blue Rug | Rug Branch](https://www.rugbranch.com/products/ar6898crbl): Upgrade your space with the Silvia Scandinavian Blue Rug. This loom-made Turkish rug features a modern abstract design in blue and grey tones.
-  Updated: 2025-11-20T15:48:51Z
+  Updated: 2025-11-25T06:58:02Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7783,7 +7767,7 @@
   - [5' x 8'](https://www.rugbranch.com/products/ar6898crbl?variant=40976903012375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/6898-arctic-collection-area-rugs-koshani-5-x-8-feet-cream-blue-734361_aed80e3c-abf1-49be-ace3-4cd991c67b71.jpg?v=1741770602
-    Price: $199.73 CAD
+    Price: $254.99 CAD
   - [6' x 9'](https://www.rugbranch.com/products/ar6898crbl?variant=40976903045143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/6898-arctic-collection-area-rugs-koshani-5-x-8-feet-cream-blue-734361_aed80e3c-abf1-49be-ace3-4cd991c67b71.jpg?v=1741770602
@@ -7861,7 +7845,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/6898-arctic-collection-area-rugs-koshani-5-x-8-feet-cream-blue-734361_aed80e3c-abf1-49be-ace3-4cd991c67b71.jpg?v=1741770602
     Price: $105.00 CAD
 - [Silvia Scandinavian Grey Rug | Rug Branch](https://www.rugbranch.com/products/ar6898crgy): Enhance your space with the Silvia Scandinavian Grey Rug. This loom-made Turkish rug features a modern abstract design in grey and beige tones.
-  Updated: 2025-11-20T15:48:51Z
+  Updated: 2025-11-25T06:58:02Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7907,7 +7891,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/6898-arctic-collection-area-rugs-koshani-5-x-8-feet-cream-grey-914140_dcfbd0e2-864e-4729-811a-cad082868ccf.jpg?v=1710367010
     Price: $658.99 CAD
 - [Sakarya Modern Abstract Brown Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ha6703br): Enhance your space with the Sakarya Modern Abstract Brown Rug—Loom-made in Turkey with durable polypropylene and jute backing for lasting style.
-  Updated: 2025-11-23T22:41:40Z
+  Updated: 2025-11-26T12:36:30Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7929,7 +7913,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA6703-Parent_1_32331fb5-9106-4ffc-ae5c-e5552d36e666.jpg?v=1710366119
     Price: $264.05 CAD
 - [Sakarya Modern Abstract Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ha6703gy): Upgrade your space with the Sakarya Modern Abstract Grey Rug. Featuring a sleek geometric design, this loom-made Turkish rug is durable and stylish.
-  Updated: 2025-11-23T05:03:20Z
+  Updated: 2025-11-25T22:22:08Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7951,7 +7935,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA6703GY-Parent_1_ecb0306e-8134-4b22-bb6e-44c870134323.jpg?v=1710366136
     Price: $264.05 CAD
 - [Savannah Beige Rug - Southwestern & Modern | Rug Branch](https://www.rugbranch.com/products/sp2899cr): Add vibrant charm with the Savannah Beige Rug. This loom-made polypropylene rug features a bold Southwestern pattern for a stylish modern touch.
-  Updated: 2025-11-20T15:50:51Z
+  Updated: 2025-11-25T22:22:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7975,47 +7959,47 @@
   - [2' x 4'](https://www.rugbranch.com/products/sp2899cr?variant=40937774874647)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2899-Parent_13.jpg?v=1746819953
-    Price: $33.97 CAD
+    Price: $57.74 CAD
   - [2' x 5'](https://www.rugbranch.com/products/sp2899cr?variant=40937774907415)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2899-Parent_13.jpg?v=1746819953
-    Price: $37.49 CAD
+    Price: $63.73 CAD
   - [2' x 6'](https://www.rugbranch.com/products/sp2899cr?variant=40937774940183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2899-Parent_16.jpg?v=1746819953
-    Price: $44.23 CAD
+    Price: $75.19 CAD
   - [2' x 8'](https://www.rugbranch.com/products/sp2899cr?variant=40937774972951)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2899-Parent_16.jpg?v=1746819953
-    Price: $54.82 CAD
+    Price: $93.19 CAD
   - [3' x 5'](https://www.rugbranch.com/products/sp2899cr?variant=40937775005719)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2899-Parent_13.jpg?v=1746819953
-    Price: $45.99 CAD
+    Price: $78.18 CAD
   - [4' x 6'](https://www.rugbranch.com/products/sp2899cr?variant=40937775038487)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2899_CREAM_1_36ea37c9-f0fb-43b6-a779-bcb13b577940.jpg?v=1741847399
-    Price: $73.94 CAD
+    Price: $125.69 CAD
   - [5' x 8'](https://www.rugbranch.com/products/sp2899cr?variant=40937775071255)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2899_CREAM_1_36ea37c9-f0fb-43b6-a779-bcb13b577940.jpg?v=1741847399
-    Price: $110.64 CAD
+    Price: $188.08 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sp2899cr?variant=40937775104023)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2899_CREAM_1_36ea37c9-f0fb-43b6-a779-bcb13b577940.jpg?v=1741847399
-    Price: $180.54 CAD
+    Price: $306.91 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sp2899cr?variant=40937775136791)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2899_CREAM_1_36ea37c9-f0fb-43b6-a779-bcb13b577940.jpg?v=1741847399
-    Price: $241.26 CAD
+    Price: $410.14 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sp2899cr?variant=40937775169559)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2899_CREAM_1_36ea37c9-f0fb-43b6-a779-bcb13b577940.jpg?v=1741847399
-    Price: $344.94 CAD
+    Price: $586.39 CAD
   - [2' x 3'](https://www.rugbranch.com/products/sp2899cr?variant=41453146275863)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2899-Parent_13.jpg?v=1746819953
-    Price: $30.97 CAD
+    Price: $52.64 CAD
   - [2' x 11'](https://www.rugbranch.com/products/sp2899cr?variant=42105444401175)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2899-Parent_16.jpg?v=1746819953
@@ -8065,7 +8049,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2899-Parent_16.jpg?v=1746819953
     Price: $60.27 CAD
 - [Savannah Southwestern Rust Rug - Bold & Durable | Rug Branch](https://www.rugbranch.com/products/sp2899rt): Enhance your space with the Savannah Rust Rug, featuring a vibrant medallion design, durable polypropylene, and jute backing. Made in Turkey.
-  Updated: 2025-11-20T15:50:51Z
+  Updated: 2025-11-25T07:05:03Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8089,41 +8073,41 @@
   - [2' x 4'](https://www.rugbranch.com/products/sp2899rt?variant=40976901308439)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SP2899PK-Parent_13.jpg?v=1746820129
-    Price: $33.97 CAD
+    Price: $57.74 CAD
   - [2' x 5'](https://www.rugbranch.com/products/sp2899rt?variant=40976901341207)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SP2899PK-Parent_13.jpg?v=1746820129
-    Price: $37.49 CAD
+    Price: $63.73 CAD
   - [2' x 6'](https://www.rugbranch.com/products/sp2899rt?variant=40976901373975)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2899PK-Parent_16.jpg?v=1746820129
-    Price: $44.23 CAD
+    Price: $75.19 CAD
   - [2' x 8'](https://www.rugbranch.com/products/sp2899rt?variant=40976901406743)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2899PK-Parent_16.jpg?v=1746820129
-    Price: $54.82 CAD
+    Price: $93.19 CAD
   - [4' x 6'](https://www.rugbranch.com/products/sp2899rt?variant=40976901439511)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2899_RUST_1_b6fa423c-ba8f-46d3-834b-cf8759c0b513.jpg?v=1710364978
-    Price: $73.94 CAD
+    Price: $125.69 CAD
   - [5' x 8'](https://www.rugbranch.com/products/sp2899rt?variant=40976901472279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2899_RUST_1_b6fa423c-ba8f-46d3-834b-cf8759c0b513.jpg?v=1710364978
-    Price: $110.64 CAD
+    Price: $188.08 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sp2899rt?variant=40976901505047)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2899_RUST_1_b6fa423c-ba8f-46d3-834b-cf8759c0b513.jpg?v=1710364978
-    Price: $180.54 CAD
+    Price: $306.91 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sp2899rt?variant=40976901537815)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2899_RUST_1_b6fa423c-ba8f-46d3-834b-cf8759c0b513.jpg?v=1710364978
-    Price: $241.26 CAD
+    Price: $410.14 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sp2899rt?variant=40976901570583)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2899_RUST_1_b6fa423c-ba8f-46d3-834b-cf8759c0b513.jpg?v=1710364978
-    Price: $344.94 CAD
+    Price: $586.39 CAD
 - [Super Soft Plush Shag Grey Rug - Cozy & Luxurious | Rug Branch](https://www.rugbranch.com/products/ssgy): Experience ultimate comfort with the Super Soft Plush Shag Grey Rug. Made from polyester with a luxe feel, this loom-made rug adds warmth to any space.
-  Updated: 2025-11-22T13:40:55Z
+  Updated: 2025-11-25T22:22:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8131,17 +8115,17 @@
   - [4' x 6'](https://www.rugbranch.com/products/ssgy?variant=40976901079063)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Grey_d0fb4909-90dd-4db4-9aeb-db1440c747f9.jpg?v=1741922128
-    Price: $49.74 CAD
+    Price: $76.49 CAD
   - [5' x 7'](https://www.rugbranch.com/products/ssgy?variant=40976901111831)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Grey_d0fb4909-90dd-4db4-9aeb-db1440c747f9.jpg?v=1741922128
-    Price: $71.58 CAD
+    Price: $93.49 CAD
   - [3' x 5'](https://www.rugbranch.com/products/ssgy?variant=42113975517207)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/Grey_d0fb4909-90dd-4db4-9aeb-db1440c747f9.jpg?v=1741922128
-    Price: $46.23 CAD
+    Price: $67.99 CAD
 - [Super Soft Plush Shag Pink Rug - Cozy & Luxurious | Rug Branch](https://www.rugbranch.com/products/sspk): Add warmth and style with the Super Soft Plush Shag Pink Rug. Made from ultra-soft polyester, this loom-made rug is perfect for a cozy and chic space.
-  Updated: 2025-11-23T07:27:40Z
+  Updated: 2025-11-26T04:16:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8149,16 +8133,16 @@
   - [4' x 6'](https://www.rugbranch.com/products/sspk?variant=40976901013527)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SSPK-Parent_1.jpg?v=1710367404
-    Price: $49.74 CAD
+    Price: $76.49 CAD
   - [5' x 7'](https://www.rugbranch.com/products/sspk?variant=40976901046295)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SSPK-Parent_1.jpg?v=1710367404
-    Price: $71.58 CAD
+    Price: $93.49 CAD
   - [3' x 5'](https://www.rugbranch.com/products/sspk?variant=41453147914263)
     Availability: Not Available
-    Price: $37.83 CAD
+    Price: $67.99 CAD
 - [Super Soft Plush Shag White Rug - Cozy & Elegant | Rug Branch](https://www.rugbranch.com/products/sswh): Enhance your space with the Super Soft Plush Shag White Rug. Made from ultra-soft polyester, this cozy, loom-made rug adds a touch of elegance to any room.
-  Updated: 2025-11-20T15:51:06Z
+  Updated: 2025-11-25T22:22:24Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8166,13 +8150,13 @@
   - [4' x 6'](https://www.rugbranch.com/products/sswh?variant=40976900882455)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SSWH-Parent_1.jpg?v=1710367456
-    Price: $49.74 CAD
+    Price: $76.49 CAD
   - [5' x 7'](https://www.rugbranch.com/products/sswh?variant=40976900915223)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SSWH-Parent_1.jpg?v=1710367456
-    Price: $71.58 CAD
+    Price: $93.49 CAD
 - [Retro Shag Beige Rug - Soft & Cozy | Rug Branch](https://www.rugbranch.com/products/pfpliv): Enjoy plush comfort with the Retro Shag Beige Rug. Made in Turkey from soft polyester with a durable jute backing. Perfect for any space.
-  Updated: 2025-11-20T15:50:17Z
+  Updated: 2025-11-26T22:31:36Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8198,7 +8182,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/PUFFY-PLAIN-IVORY_1_1a37c548-f7fa-45c1-9a7e-17b6963c60e6.jpg?v=1710365658
     Price: $358.76 CAD
 - [Retro Shag Grey Rug - Soft & Cozy | Rug Branch](https://www.rugbranch.com/products/pfplgy): Add comfort with the Retro Shag Grey Rug. Made from super soft polyester, this loom-made rug offers a plush feel and a stylish, modern touch.
-  Updated: 2025-11-14T21:47:41Z
+  Updated: 2025-11-25T07:21:59Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8223,7 +8207,7 @@
     Availability: Available
     Price: $62.72 CAD
 - [New Zealand Plush Scandinavian Cream Rug - Soft & Modern | Rug Branch](https://www.rugbranch.com/products/il1430cr): Enhance your home with the New Zealand Plush Scandinavian Cream Rug—Loom-made in Turkey with soft double-twisted polyester for a cozy, elegant touch.
-  Updated: 2025-11-14T21:47:41Z
+  Updated: 2025-11-25T06:58:12Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8235,7 +8219,7 @@
   - [5' x 7'](https://www.rugbranch.com/products/il1430cr?variant=40976900292631)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/1430-illusion-collection-area-rugs-koshani-4-x-6-feet-cream-108135_0bba1696-3fb8-4c04-a9bd-541341be3649.jpg?v=1710368980
-    Price: $242.52 CAD
+    Price: $412.28 CAD
   - [6' x 9'](https://www.rugbranch.com/products/il1430cr?variant=40976900325399)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/1430-illusion-collection-area-rugs-koshani-4-x-6-feet-cream-108135_0bba1696-3fb8-4c04-a9bd-541341be3649.jpg?v=1710368980
@@ -8245,7 +8229,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/1430-illusion-collection-area-rugs-koshani-4-x-6-feet-cream-108135_0bba1696-3fb8-4c04-a9bd-541341be3649.jpg?v=1710368980
     Price: $516.41 CAD
 - [New Zealand Plush Grey Rug - Modern & Soft | Rug Branch](https://www.rugbranch.com/products/il1430dkgy): Elevate your space with the New Zealand Plush Grey Rug. Featuring a Scandinavian-inspired abstract design, this ultra-soft Turkish rug adds modern elegance.
-  Updated: 2025-11-14T21:47:41Z
+  Updated: 2025-11-25T06:58:12Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8257,7 +8241,7 @@
   - [5' x 7'](https://www.rugbranch.com/products/il1430dkgy?variant=40976900128791)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/IL1430BL-Parent_1.jpg?v=1710369064
-    Price: $242.52 CAD
+    Price: $412.28 CAD
   - [6' x 9'](https://www.rugbranch.com/products/il1430dkgy?variant=40976900161559)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/IL1430BL-Parent_1.jpg?v=1710369064
@@ -8267,7 +8251,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/IL1430BL-Parent_1.jpg?v=1710369064
     Price: $516.41 CAD
 - [Majestic Persian Red Rug - Classic & Luxurious | Rug Branch](https://www.rugbranch.com/products/ja2222ardcr): Enhance your home with the Majestic Persian Red Rug. Featuring a rich red hue and intricate medallion design, this loom-made Turkish rug adds timeless elegance.
-  Updated: 2025-11-14T21:47:41Z
+  Updated: 2025-11-25T06:58:02Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8301,7 +8285,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2222RDCR-Parent_R1_0199c0e0-e4e3-4862-a52b-c9a9cac42c10.jpg?v=1722275116
     Price: $281.15 CAD
 - [Majestic Persian Traditional Beige Rug – Elegant & Durable| Rug Branch](https://www.rugbranch.com/products/ja2222cr): Enhance your home with this Persian beige rug, loom-made in Turkey with durable Olefin Heatset and jute backing for lasting beauty.
-  Updated: 2025-11-14T21:47:41Z
+  Updated: 2025-11-25T06:58:02Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8335,7 +8319,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2222CRCR-Parent_R1.jpg?v=1739957860
     Price: $281.15 CAD
 - [Majestic Persian Red Rug - Luxurious & Classic | Rug Branch](https://www.rugbranch.com/products/ja2117rdbk): Add timeless elegance with the Majestic Persian Red Rug. Featuring a rich red hue with intricate detailing, this loom-made Turkish rug enhances any space.
-  Updated: 2025-11-14T21:47:41Z
+  Updated: 2025-11-25T06:58:02Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8449,7 +8433,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2117RDBK-Parent_16.jpg?v=1746804459
     Price: $100.51 CAD
 - [Majestic Persian Beige Rug - Classic & Luxurious | Rug Branch](https://www.rugbranch.com/products/ja2117crbg): Bring elegance to your home with the Majestic Persian Beige Rug. Featuring a timeless traditional design, this loom-made Turkish rug adds warmth and charm.
-  Updated: 2025-11-20T15:49:46Z
+  Updated: 2025-11-25T22:22:18Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8587,7 +8571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2117-Parent_16.jpg?v=1746804101
     Price: $100.51 CAD
 - [Majestic Persian Beige Rug - Elegant & Timeless | Rug Branch](https://www.rugbranch.com/products/ja2117crblue): Enhance your home with the Majestic Persian Beige Rug. Featuring an intricate traditional design with a blue border, this Turkish rug adds classic charm.
-  Updated: 2025-11-20T15:49:48Z
+  Updated: 2025-11-25T06:58:03Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8725,7 +8709,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2117CRBL-Parent_17.jpg?v=1746804238
     Price: $100.51 CAD
 - [Majestic Persian Beige Rug - Elegant & Timeless Design | Rug Branch](https://www.rugbranch.com/products/ja2117crbk): Enhance your home with the Majestic Persian Beige Rug. Loom-made in Turkey with durable olefin heatset for a timeless and luxurious look.
-  Updated: 2025-11-20T15:49:47Z
+  Updated: 2025-11-26T11:46:46Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8863,7 +8847,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2117CRBK-Parent_16.jpg?v=1746804202
     Price: $100.51 CAD
 - [Elysian Southwestern Boho Cream Rug - Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/em6675cr): Elysian Southwestern Boho Cream Rug – A Turkish loom-made rug with a soft cream base and intricate boho design. Durable polyester with sturdy jute backing.
-  Updated: 2025-11-20T15:49:26Z
+  Updated: 2025-11-24T23:41:43Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8871,17 +8855,17 @@
   - [5' x 8'](https://www.rugbranch.com/products/em6675cr?variant=40976895246359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EM6675BG-Parent_1.jpg?v=1710346063
-    Price: $240.38 CAD
+    Price: $408.64 CAD
   - [8' x 10'](https://www.rugbranch.com/products/em6675cr?variant=40976895279127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EM6675BG-Parent_1.jpg?v=1710346063
-    Price: $480.01 CAD
+    Price: $816.01 CAD
   - [9' x 12'](https://www.rugbranch.com/products/em6675cr?variant=40976895311895)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EM6675BG-Parent_1.jpg?v=1710346063
     Price: $746.22 CAD
 - [Elysian Southwestern Boho Gold Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/em6675gd): Turkish-made Elysian Southwestern Boho Gold Rug with intricate patterns. Crafted from durable polyester with a jute backing.
-  Updated: 2025-11-14T20:05:37Z
+  Updated: 2025-11-24T23:41:44Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8889,7 +8873,7 @@
   - [5' x 8'](https://www.rugbranch.com/products/em6675gd?variant=40976895115287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EM6675GD-Parent_1.jpg?v=1710346077
-    Price: $240.38 CAD
+    Price: $408.64 CAD
   - [8' x 10'](https://www.rugbranch.com/products/em6675gd?variant=40976895148055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EM6675GD-Parent_1.jpg?v=1710346077
@@ -8899,7 +8883,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EM6675GD-Parent_1.jpg?v=1710346077
     Price: $746.22 CAD
 - [Elysian Southwestern Boho Blue Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/em6675tq): Turkish-made Elysian Southwestern Boho Blue Rug with intricate patterns. Crafted from durable polyester with a jute backing.
-  Updated: 2025-11-20T15:49:26Z
+  Updated: 2025-11-25T22:22:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8907,17 +8891,17 @@
   - [5' x 8'](https://www.rugbranch.com/products/em6675tq?variant=40976894984215)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EM6675BL-Parent_1.jpg?v=1710346031
-    Price: $240.38 CAD
+    Price: $408.64 CAD
   - [8' x 10'](https://www.rugbranch.com/products/em6675tq?variant=40976895016983)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EM6675BL-Parent_1.jpg?v=1710346031
-    Price: $480.01 CAD
+    Price: $816.01 CAD
   - [9' x 12'](https://www.rugbranch.com/products/em6675tq?variant=40976895049751)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EM6675BL-Parent_1.jpg?v=1710346031
-    Price: $746.22 CAD
+    Price: $1,268.57 CAD
 - [Vogue Abstract Gold Rug | Rug Branch](https://www.rugbranch.com/products/all5506gd): Brighten your space with the Vogue Abstract Gold Rug. This loom-made Turkish rug features a modern abstract design in gold, grey, and beige. Stylish & durable.
-  Updated: 2025-11-22T13:40:50Z
+  Updated: 2025-11-25T06:57:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8953,7 +8937,7 @@
   - [3' x 5'](https://www.rugbranch.com/products/all5506gd?variant=40976894787607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ALL5506G-Parent_9.jpg?v=1746647135
-    Price: $65.19 CAD
+    Price: $67.99 CAD
   - [4' x 6'](https://www.rugbranch.com/products/all5506gd?variant=40976894820375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/5506-allure-collection-area-rugs-koshani-2-x-4-feet-gold-690217_3fa3cdc9-461a-4b6a-857f-228775b07780.jpg?v=1741770288
@@ -9035,7 +9019,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/5506-allure-collection-area-rugs-koshani-2-x-4-feet-gold-690217_3fa3cdc9-461a-4b6a-857f-228775b07780.jpg?v=1741770288
     Price: $87.59 CAD
 - [Vogue Abstract Contemporary Red Rug | Rug Branch](https://www.rugbranch.com/products/all5506rd): Make a statement with the Vogue Abstract Red Rug. This loom-made Turkish rug features a bold abstract design in red, grey, and beige. Durable and stylish.
-  Updated: 2025-11-23T19:28:45Z
+  Updated: 2025-11-25T06:57:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9065,7 +9049,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/5506-allure-collection-area-rugs-koshani-2-x-4-feet-red-648096_a49bfcbe-bf66-47ce-add1-7f556427feb2.jpg?v=1710368348
     Price: $598.83 CAD
 - [Melo Modern Fog Rug - Beige | Rug Branch](https://www.rugbranch.com/products/el3246bg): Upgrade your space with the Melo Modern Fog Rug. Featuring a misty beige abstract design, this soft, durable rug adds elegance to any modern home.
-  Updated: 2025-11-14T21:46:52Z
+  Updated: 2025-11-24T23:41:45Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9073,7 +9057,7 @@
   - [5' x 8'](https://www.rugbranch.com/products/el3246bg?variant=40976894197783)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3246BG-7_6a9c99bc-21c0-402d-926c-5f3b7d20c123.jpg?v=1710352006
-    Price: $240.38 CAD
+    Price: $408.64 CAD
   - [8' x 10'](https://www.rugbranch.com/products/el3246bg?variant=40976894230551)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3246BG-7_6a9c99bc-21c0-402d-926c-5f3b7d20c123.jpg?v=1710352006
@@ -9083,7 +9067,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3246BG-7_6a9c99bc-21c0-402d-926c-5f3b7d20c123.jpg?v=1710352006
     Price: $746.22 CAD
 - [Melo Abstract Coastal Rug - Blue | Rug Branch](https://www.rugbranch.com/products/el3246bl): Bring coastal elegance to your home with the Melo Abstract Coastal Rug. Featuring a soft blue abstract design, it's perfect for modern and stylish spaces.
-  Updated: 2025-11-14T21:46:52Z
+  Updated: 2025-11-24T23:41:46Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9091,17 +9075,17 @@
   - [5' x 8'](https://www.rugbranch.com/products/el3246bl?variant=40976894066711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/7-501536_747e3d95-161a-4a0f-9487-c0ca62c346e1-324939.jpg?v=1709210620
-    Price: $240.38 CAD
+    Price: $408.64 CAD
   - [8' x 10'](https://www.rugbranch.com/products/el3246bl?variant=40976894099479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/7-501536_747e3d95-161a-4a0f-9487-c0ca62c346e1-324939.jpg?v=1709210620
-    Price: $480.01 CAD
+    Price: $816.01 CAD
   - [9' x 12'](https://www.rugbranch.com/products/el3246bl?variant=40976894132247)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/7-501536_747e3d95-161a-4a0f-9487-c0ca62c346e1-324939.jpg?v=1709210620
     Price: $746.22 CAD
 - [Maya Abstract Modern Beige Rug – Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/le5001bg): Upgrade your space with the Maya Abstract Beige Rug, loom-made in India with soft polyester and sturdy canvas backing for modern elegance.
-  Updated: 2025-11-20T15:49:46Z
+  Updated: 2025-11-25T06:57:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9119,7 +9103,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LE5001BG-Parent_1.jpg?v=1710349704
     Price: $485.09 CAD
 - [Maya Abstract Modern Grey Rug – Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/le5001gr): Enhance your space with the Maya Abstract Grey Rug, loom-made in India with soft polyester and sturdy canvas backing for a sleek modern touch.
-  Updated: 2025-11-14T23:31:39Z
+  Updated: 2025-11-25T07:21:19Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9137,7 +9121,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LE5001GY-Parent_1-min_321c5adf-782e-40d1-beca-842af5e01214.jpg?v=1710349740
     Price: $450.96 CAD
 - [Savannah Mid-Century Modern Blue Rug | Rug Branch](https://www.rugbranch.com/products/sp2855bl): Mid-century modern blue rug from Turkey with a vibrant floral pattern and durable jute backing. Perfect for contemporary and stylish spaces.
-  Updated: 2025-11-22T23:06:17Z
+  Updated: 2025-11-26T11:46:09Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9145,125 +9129,125 @@
   - [12' x 18'](https://www.rugbranch.com/products/sp2855bl?variant=40937898672151)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_BLUE_1_32877aa6-31a2-46bc-bc10-21408fab6f68.jpg?v=1741846418
-    Price: $612.65 CAD
+    Price: $1,041.50 CAD
   - [2' x 10'](https://www.rugbranch.com/products/sp2855bl?variant=40937898704919)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
-    Price: $64.23 CAD
+    Price: $109.19 CAD
   - [2' x 13'](https://www.rugbranch.com/products/sp2855bl?variant=40937898770455)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
-    Price: $77.36 CAD
+    Price: $131.51 CAD
   - [2' x 15'](https://www.rugbranch.com/products/sp2855bl?variant=40937898835991)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
-    Price: $99.26 CAD
+    Price: $168.74 CAD
   - [2' x 20'](https://www.rugbranch.com/products/sp2855bl?variant=40937898901527)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
-    Price: $124.13 CAD
+    Price: $211.02 CAD
   - [2' x 4'](https://www.rugbranch.com/products/sp2855bl?variant=40937898967063)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_9.png?v=1761024372
-    Price: $33.97 CAD
+    Price: $57.74 CAD
   - [2' x 5'](https://www.rugbranch.com/products/sp2855bl?variant=40937899032599)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_9.png?v=1761024372
-    Price: $37.49 CAD
+    Price: $63.73 CAD
   - [2' x 6'](https://www.rugbranch.com/products/sp2855bl?variant=40937899130903)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
-    Price: $44.23 CAD
+    Price: $75.19 CAD
   - [2' x 8'](https://www.rugbranch.com/products/sp2855bl?variant=40937899196439)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
-    Price: $54.82 CAD
+    Price: $93.19 CAD
   - [3' x 5'](https://www.rugbranch.com/products/sp2855bl?variant=40937899294743)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_9.png?v=1761024372
-    Price: $45.99 CAD
+    Price: $78.18 CAD
   - [4' x 6'](https://www.rugbranch.com/products/sp2855bl?variant=40937899327511)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_BLUE_1_32877aa6-31a2-46bc-bc10-21408fab6f68.jpg?v=1741846418
-    Price: $73.94 CAD
+    Price: $125.69 CAD
   - [5' x 5' Round](https://www.rugbranch.com/products/sp2855bl?variant=40937899360279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_19.png?v=1761024372
-    Price: $89.28 CAD
+    Price: $151.77 CAD
   - [5' x 8'](https://www.rugbranch.com/products/sp2855bl?variant=40937899425815)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_BLUE_1_32877aa6-31a2-46bc-bc10-21408fab6f68.jpg?v=1741846418
-    Price: $110.64 CAD
+    Price: $188.08 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sp2855bl?variant=40937899491351)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_BLUE_1_32877aa6-31a2-46bc-bc10-21408fab6f68.jpg?v=1741846418
-    Price: $180.54 CAD
+    Price: $306.91 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sp2855bl?variant=40937899556887)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_BLUE_1_32877aa6-31a2-46bc-bc10-21408fab6f68.jpg?v=1741846418
-    Price: $241.26 CAD
+    Price: $410.14 CAD
   - [8' x 8' Round](https://www.rugbranch.com/products/sp2855bl?variant=40937899622423)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_19.png?v=1761024372
-    Price: $179.11 CAD
+    Price: $304.48 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sp2855bl?variant=40937899687959)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_BLUE_1_32877aa6-31a2-46bc-bc10-21408fab6f68.jpg?v=1741846418
-    Price: $344.94 CAD
+    Price: $586.39 CAD
   - [2' x 11'](https://www.rugbranch.com/products/sp2855bl?variant=42105398853655)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
-    Price: $67.23 CAD
+    Price: $114.29 CAD
   - [2' x 12'](https://www.rugbranch.com/products/sp2855bl?variant=42105398886423)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
-    Price: $70.23 CAD
+    Price: $119.39 CAD
   - [2' x 14'](https://www.rugbranch.com/products/sp2855bl?variant=42105398919191)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
-    Price: $77.20 CAD
+    Price: $131.24 CAD
   - [2' x 16'](https://www.rugbranch.com/products/sp2855bl?variant=42105398951959)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
-    Price: $92.03 CAD
+    Price: $156.45 CAD
   - [2' x 17'](https://www.rugbranch.com/products/sp2855bl?variant=42105398984727)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
-    Price: $95.42 CAD
+    Price: $162.21 CAD
   - [2' x 18'](https://www.rugbranch.com/products/sp2855bl?variant=42105399017495)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
-    Price: $98.97 CAD
+    Price: $168.24 CAD
   - [2' x 19'](https://www.rugbranch.com/products/sp2855bl?variant=42105399050263)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
-    Price: $102.57 CAD
+    Price: $174.36 CAD
   - [2' x 2'](https://www.rugbranch.com/products/sp2855bl?variant=42105399083031)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_9.png?v=1761024372
-    Price: $28.57 CAD
+    Price: $48.56 CAD
   - [2' x 25'](https://www.rugbranch.com/products/sp2855bl?variant=42105399115799)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
-    Price: $130.80 CAD
+    Price: $222.36 CAD
   - [2' x 3'](https://www.rugbranch.com/products/sp2855bl?variant=42105399148567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_9.png?v=1761024372
-    Price: $30.97 CAD
+    Price: $52.64 CAD
   - [2' x 30'](https://www.rugbranch.com/products/sp2855bl?variant=42105399181335)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
-    Price: $155.59 CAD
+    Price: $264.50 CAD
   - [2' x 7'](https://www.rugbranch.com/products/sp2855bl?variant=42105399214103)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
-    Price: $45.83 CAD
+    Price: $77.91 CAD
   - [2' x 9'](https://www.rugbranch.com/products/sp2855bl?variant=42105399246871)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
-    Price: $60.27 CAD
+    Price: $102.45 CAD
 - [Savannah Mid-Century Modern Rust Rug | Rug Branch](https://www.rugbranch.com/products/sp2855rt): Mid-century modern rust rug from Turkey with a vibrant floral pattern and durable jute backing. Perfect for contemporary and stylish spaces.
-  Updated: 2025-11-23T19:28:48Z
+  Updated: 2025-11-26T11:45:37Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9271,121 +9255,121 @@
   - [12' x 18'](https://www.rugbranch.com/products/sp2855rt?variant=40976893247511)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $612.65 CAD
+    Price: $1,041.50 CAD
   - [2' x 10'](https://www.rugbranch.com/products/sp2855rt?variant=40976893280279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $64.23 CAD
+    Price: $109.19 CAD
   - [2' x 13'](https://www.rugbranch.com/products/sp2855rt?variant=40976893313047)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $77.36 CAD
+    Price: $131.51 CAD
   - [2' x 15'](https://www.rugbranch.com/products/sp2855rt?variant=40976893345815)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $99.26 CAD
+    Price: $168.74 CAD
   - [2' x 20'](https://www.rugbranch.com/products/sp2855rt?variant=40976893378583)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $124.13 CAD
+    Price: $211.02 CAD
   - [2' x 4'](https://www.rugbranch.com/products/sp2855rt?variant=40976893411351)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $33.97 CAD
+    Price: $57.74 CAD
   - [2' x 5'](https://www.rugbranch.com/products/sp2855rt?variant=40976893444119)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $37.49 CAD
+    Price: $63.73 CAD
   - [2' x 6'](https://www.rugbranch.com/products/sp2855rt?variant=40976893476887)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $44.23 CAD
+    Price: $75.19 CAD
   - [2' x 8'](https://www.rugbranch.com/products/sp2855rt?variant=40976893509655)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $54.82 CAD
+    Price: $93.19 CAD
   - [4' x 6'](https://www.rugbranch.com/products/sp2855rt?variant=40976893542423)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $73.94 CAD
+    Price: $125.69 CAD
   - [5' x 5' Round](https://www.rugbranch.com/products/sp2855rt?variant=40976893575191)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $89.28 CAD
+    Price: $151.77 CAD
   - [5' x 8'](https://www.rugbranch.com/products/sp2855rt?variant=40976893607959)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $110.64 CAD
+    Price: $188.08 CAD
   - [6' x 9'](https://www.rugbranch.com/products/sp2855rt?variant=40976893640727)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $180.54 CAD
+    Price: $306.91 CAD
   - [8' x 11'](https://www.rugbranch.com/products/sp2855rt?variant=40976893673495)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $241.26 CAD
+    Price: $410.14 CAD
   - [8' x 8' Round](https://www.rugbranch.com/products/sp2855rt?variant=40976893706263)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $179.11 CAD
+    Price: $304.48 CAD
   - [9' x 12'](https://www.rugbranch.com/products/sp2855rt?variant=40976893739031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $344.94 CAD
+    Price: $586.39 CAD
   - [3' x 5'](https://www.rugbranch.com/products/sp2855rt?variant=41453146013719)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $45.99 CAD
+    Price: $78.18 CAD
   - [2' x 11'](https://www.rugbranch.com/products/sp2855rt?variant=42105408159767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $67.23 CAD
+    Price: $114.29 CAD
   - [2' x 12'](https://www.rugbranch.com/products/sp2855rt?variant=42105408192535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $70.23 CAD
+    Price: $119.39 CAD
   - [2' x 14'](https://www.rugbranch.com/products/sp2855rt?variant=42105408225303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $77.20 CAD
+    Price: $131.24 CAD
   - [2' x 16'](https://www.rugbranch.com/products/sp2855rt?variant=42105408258071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $92.03 CAD
+    Price: $156.45 CAD
   - [2' x 17'](https://www.rugbranch.com/products/sp2855rt?variant=42105408290839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $95.42 CAD
+    Price: $162.21 CAD
   - [2' x 18'](https://www.rugbranch.com/products/sp2855rt?variant=42105408323607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $98.97 CAD
+    Price: $168.24 CAD
   - [2' x 19'](https://www.rugbranch.com/products/sp2855rt?variant=42105408356375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $102.57 CAD
+    Price: $174.36 CAD
   - [2' x 2'](https://www.rugbranch.com/products/sp2855rt?variant=42105408389143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $28.57 CAD
+    Price: $48.56 CAD
   - [2' x 25'](https://www.rugbranch.com/products/sp2855rt?variant=42105408421911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $130.80 CAD
+    Price: $222.36 CAD
   - [2' x 30'](https://www.rugbranch.com/products/sp2855rt?variant=42105408454679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $155.59 CAD
+    Price: $264.50 CAD
   - [2' x 7'](https://www.rugbranch.com/products/sp2855rt?variant=42105408487447)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $45.83 CAD
+    Price: $77.91 CAD
   - [2' x 9'](https://www.rugbranch.com/products/sp2855rt?variant=42105408520215)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2855_RUST_1_99e2bcc8-bf19-49aa-aa45-d57d010a4203.jpg?v=1741846614
-    Price: $60.27 CAD
+    Price: $102.45 CAD
 - [Montage Geometric Checkered Brown Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ve1166br): Enhance your space with the Montage Geometric Checkered Brown Rug. Featuring a bold checkered pattern, this loom-made Turkish rug offers style and durability.
-  Updated: 2025-11-23T15:29:55Z
+  Updated: 2025-11-26T16:35:06Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9449,7 +9433,7 @@
   - [4' x 6'](https://www.rugbranch.com/products/ve1166br?variant=40976893018135)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VEGAS-1166-BROWN_01fa6b5c-5e07-487a-9e50-5e4c577bc811.jpg?v=1741923721
-    Price: $96.26 CAD
+    Price: $110.49 CAD
   - [5' x 5' Round](https://www.rugbranch.com/products/ve1166br?variant=40976893050903)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE1166-Parent_17.png?v=1746827356
@@ -9475,7 +9459,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VE1166-Parent_15.jpg?v=1746827356
     Price: $37.25 CAD
 - [Montage Geometric Checkered Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ve1166gy): Upgrade your space with the Montage Geometric Checkered Grey Rug. Its bold checkered pattern adds modern style, while olefin and jute ensure lasting durability.
-  Updated: 2025-11-20T15:51:36Z
+  Updated: 2025-11-26T11:45:45Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9561,7 +9545,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VE1166G-Parent_15.jpg?v=1746826679
     Price: $37.25 CAD
 - [Nova Geometric Grey Rug - Modern & Soft | Rug Branch](https://www.rugbranch.com/products/co4470agybl): Upgrade your space with the Nova Geometric Grey Rug. Loom-made in Turkey with soft twisted polyester, featuring a bold 3D-inspired geometric design.
-  Updated: 2025-11-14T21:47:41Z
+  Updated: 2025-11-26T17:57:55Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9583,7 +9567,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/4470-comfort-collection-area-rugs-koshani-4-x-6-feet-grey-blue-754578_6162eec0-8ba0-420e-9117-f59fa4b69578.jpg?v=1710359729
     Price: $359.23 CAD
 - [Havana Geometric Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ca9994bg): Modern Havana Geometric Grey Rug from Turkey. Loom-made with durable polypropylene and jute backing, perfect for a stylish, contemporary space.
-  Updated: 2025-11-22T13:57:11Z
+  Updated: 2025-11-25T22:22:03Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9591,7 +9575,7 @@
   - [8' x 11'](https://www.rugbranch.com/products/ca9994bg?variant=40976891019287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9994G-Parent_22.jpg?v=1763109250
-    Price: $306.36 CAD
+    Price: $382.49 CAD
   - [6' x 9'](https://www.rugbranch.com/products/ca9994bg?variant=40976890986519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9994G-Parent_22.jpg?v=1763109250
@@ -9599,11 +9583,11 @@
   - [5' x 8'](https://www.rugbranch.com/products/ca9994bg?variant=40976890953751)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9994G-Parent_22.jpg?v=1763109250
-    Price: $138.55 CAD
+    Price: $152.99 CAD
   - [4' x 6'](https://www.rugbranch.com/products/ca9994bg?variant=40976890920983)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9994G-Parent_22.jpg?v=1763109250
-    Price: $89.79 CAD
+    Price: $110.49 CAD
   - [2' x 2'](https://www.rugbranch.com/products/ca9994bg?variant=42102816997399)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/CA9994BG-Parent_15.jpg?v=1763109250
@@ -9685,14 +9669,14 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9994G-Parent_16.jpg?v=1763109250
     Price: $204.57 CAD
 - [New Zealand Plush Scandinavian Grey Rug - Soft & Elegant | Rug Branch](https://www.rugbranch.com/products/il1279ltgy): Upgrade your space with the New Zealand Plush Scandinavian Grey Rug—Loom-made in Turkey with soft double-twisted polyester for a cozy, modern touch.
-  Updated: 2025-11-14T21:47:41Z
+  Updated: 2025-11-26T17:57:31Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/2-323656_941c2dee-039b-475c-9a64-30ea9c1a7807.jpg?v=1710368769
-  Price: $149.45 CAD
+  Price: $254.06 CAD
 - [Majestic Moroccan Red Rug - Traditional & Elegant Design | Rug Branch](https://www.rugbranch.com/products/ja2120ardcr): Add timeless elegance with the Majestic Moroccan Red Rug. Loom-made in Turkey with durable olefin heatset for a classic and luxurious touch.
-  Updated: 2025-11-14T21:47:41Z
+  Updated: 2025-11-25T06:58:12Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9826,7 +9810,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2120CRRD-Parent_1.jpg?v=1741843886
     Price: $37.61 CAD
 - [Majestic Moroccan Beige Rug - Timeless & Elegant | Rug Branch](https://www.rugbranch.com/products/ja2120-parent): Elevate your décor with the Majestic Moroccan Beige Rug. Featuring an intricate medallion design, this loom-made Turkish rug adds warmth and sophistication.
-  Updated: 2025-11-14T21:47:41Z
+  Updated: 2025-11-25T07:23:35Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9926,29 +9910,29 @@
   - [2' x 3'](https://www.rugbranch.com/products/ja2120-parent?variant=42105264373783)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2120CRCR-Parent_1.jpg?v=1741843716
-    Price: $75.00 CAD
+    Price: $152.99 CAD
   - [2' x 4'](https://www.rugbranch.com/products/ja2120-parent?variant=42105264406551)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2120CRCR-Parent_1.jpg?v=1741843716
-    Price: $75.00 CAD
+    Price: $152.99 CAD
   - [2' x 5'](https://www.rugbranch.com/products/ja2120-parent?variant=42105264439319)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2120CRCR-Parent_1.jpg?v=1741843716
-    Price: $75.00 CAD
+    Price: $152.99 CAD
   - [2' x 6'](https://www.rugbranch.com/products/ja2120-parent?variant=42105264472087)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2120CRCR-Parent_16.jpg?v=1746804647
-    Price: $75.00 CAD
+    Price: $152.99 CAD
   - [2' x 7'](https://www.rugbranch.com/products/ja2120-parent?variant=42105264504855)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2120CRCR-Parent_16.jpg?v=1746804647
-    Price: $75.00 CAD
+    Price: $152.99 CAD
   - [2' x 9'](https://www.rugbranch.com/products/ja2120-parent?variant=42105264537623)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2120CRCR-Parent_16.jpg?v=1746804647
-    Price: $75.00 CAD
+    Price: $152.99 CAD
 - [Vogue Abstract Grey Rug | Rug Branch](https://www.rugbranch.com/products/all5452bg): Upgrade your space with the Vogue Abstract Grey Rug. A durable, loom-made Turkish rug with a modern abstract design in grey tones. Stylish and versatile.
-  Updated: 2025-11-23T02:04:15Z
+  Updated: 2025-11-25T22:21:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9982,7 +9966,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/5452-allure-collection-area-rugs-koshani-10-x-16-feet-beige-175802_969b5b4e-d0ee-4494-965d-f924189b9345.jpg?v=1746641203
     Price: $598.83 CAD
 - [Vogue Abstract Contemporary Red Rug | Rug Branch](https://www.rugbranch.com/products/all5452rd): Vogue Collection by Rug Branch brings forth a palette of perfectly balanced contemporary colours. The richly detailed patterns add vintage finesse with a deft contemporary feel.
-  Updated: 2025-11-22T13:57:11Z
+  Updated: 2025-11-26T14:27:30Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10016,7 +10000,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/2_ALLURE-5452_RED_6.jpg?v=1746641173
     Price: $598.83 CAD
 - [Soft Steps Llama Rug - Adorable & Cozy | Rug Branch](https://www.rugbranch.com/products/da1105br): Soft Steps Llama Playmat, loom-made with soft polyester and canvas backing, featuring a cute llama design for a warm and playful kids' space.
-  Updated: 2025-11-22T13:57:11Z
+  Updated: 2025-11-26T11:46:04Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10037,14 +10021,36 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1105br-parent_1.jpg?v=1714130314
     Price: $380.46 CAD
+- [Soft Steps City Road Rug - Fun & Educational  | Rug Branch](https://www.rugbranch.com/products/da1106bl): Soft Steps City Road Playmat, loom-made with soft polyester and canvas backing, featuring a colorful city map design for interactive and fun learning.
+  Updated: 2025-11-26T11:49:09Z
+  Vendor: Rug Branch
+  Product Type: Area Rugs
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1106bl-parent_1.jpg?v=1714130318
+  - [4' x 6'](https://www.rugbranch.com/products/da1106bl?variant=41212636200983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1106bl-parent_1.jpg?v=1714130318
+    Price: $122.37 CAD
+  - [5' x 8'](https://www.rugbranch.com/products/da1106bl?variant=41212636233751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1106bl-parent_1.jpg?v=1714130318
+    Price: $188.36 CAD
+  - [6' x 9'](https://www.rugbranch.com/products/da1106bl?variant=41212636266519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1106bl-parent_1.jpg?v=1714130318
+    Price: $286.66 CAD
+  - [8' x 10'](https://www.rugbranch.com/products/da1106bl?variant=41212636332055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1106bl-parent_1.jpg?v=1714130318
+    Price: $380.46 CAD
 - [Soft Steps Floral Rug - Cute & Cozy | Rug Branch](https://www.rugbranch.com/products/da1107pk): Soft Steps Floral Playmat, loom-made with soft polyester and canvas backing, featuring a cheerful pink and pastel floral design for a fun, cozy space.
-  Updated: 2025-11-20T15:49:23Z
+  Updated: 2025-11-26T11:45:50Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1107pk-parent_1.jpg?v=1714130321
   - [4' x 6'](https://www.rugbranch.com/products/da1107pk?variant=41212638658583)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1107pk-parent_1.jpg?v=1714130321
     Price: $122.37 CAD
   - [5' x 8'](https://www.rugbranch.com/products/da1107pk?variant=41212638756887)
@@ -10060,13 +10066,13 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1107pk-parent_1.jpg?v=1714130321
     Price: $380.46 CAD
 - [Soft Steps Animal Rug - Fun & Educational | Rug Branch](https://www.rugbranch.com/products/da1108wh): Soft Steps Animal Playmat, loom-made with soft polyester and canvas backing, featuring adorable cartoon animals for a playful and educational space.
-  Updated: 2025-11-23T18:40:56Z
+  Updated: 2025-11-26T11:45:54Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1108wh-parent_1.jpg?v=1721667659
   - [4' x 6'](https://www.rugbranch.com/products/da1108wh?variant=41231373598743)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1108wh-parent_1.jpg?v=1721667659
     Price: $122.37 CAD
   - [5' x 8'](https://www.rugbranch.com/products/da1108wh?variant=41231373631511)
@@ -10078,11 +10084,11 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1108wh-parent_1.jpg?v=1721667659
     Price: $286.66 CAD
   - [8' x 11'](https://www.rugbranch.com/products/da1108wh?variant=41231373697047)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1108wh-parent_1.jpg?v=1721667659
     Price: $380.46 CAD
 - [Soft Steps Lion Rug - Cute & Cozy  | Rug Branch](https://www.rugbranch.com/products/da1109bg): Soft Steps Lion Playmat, loom-made with soft polyester and canvas backing, featuring an adorable lion design for a fun and comfy kids' space.
-  Updated: 2025-11-14T21:47:41Z
+  Updated: 2025-11-26T17:58:08Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10104,13 +10110,13 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1109bg-parent_1.jpg?v=1714396776
     Price: $380.46 CAD
 - [Soft Steps Rainbow Rug - Cozy & Playful | Rug Branch](https://www.rugbranch.com/products/da1111bl): Soft Steps Rainbow Playmat, loom-made with soft polyester and canvas backing, featuring a soothing blue rainbow design for a fun and comfy play space.
-  Updated: 2025-11-22T13:57:15Z
+  Updated: 2025-11-26T11:49:06Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1111BL-Parent_1_23f68ced-c917-4f73-a7f2-4bf9a17210f1.jpg?v=1721805192
   - [4' x 6'](https://www.rugbranch.com/products/da1111bl?variant=41231375007767)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1111BL-Parent_1_23f68ced-c917-4f73-a7f2-4bf9a17210f1.jpg?v=1721805192
     Price: $122.37 CAD
   - [5' x 8'](https://www.rugbranch.com/products/da1111bl?variant=41231375040535)
@@ -10126,17 +10132,17 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1111BL-Parent_1_23f68ced-c917-4f73-a7f2-4bf9a17210f1.jpg?v=1721805192
     Price: $380.46 CAD
 - [Soft Steps Unicorn Castle Playmat - Pink & Cozy | Rug Branch](https://www.rugbranch.com/products/da1191pk): Make playtime magical with the Soft Steps Unicorn Castle Playmat. Featuring castles, unicorns, and a playful road map, this soft pink rug is perfect for kids' rooms.
-  Updated: 2025-11-14T21:47:41Z
+  Updated: 2025-11-26T11:51:29Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1191pk-parent_1.jpg?v=1714474707
   - [4' x 6'](https://www.rugbranch.com/products/da1191pk?variant=41233361960983)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1191pk-parent_1.jpg?v=1714474707
     Price: $122.37 CAD
   - [5' x 8'](https://www.rugbranch.com/products/da1191pk?variant=41233361993751)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1191pk-parent_1.jpg?v=1714474707
     Price: $188.36 CAD
   - [6' x 9'](https://www.rugbranch.com/products/da1191pk?variant=41233362026519)
@@ -10144,11 +10150,11 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1191pk-parent_1.jpg?v=1714474707
     Price: $286.66 CAD
   - [8' x 11'](https://www.rugbranch.com/products/da1191pk?variant=41233362059287)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1191pk-parent_1.jpg?v=1714474707
     Price: $380.46 CAD
 - [Soft Steps Unicorn Castle Playmat - White & Cozy | Rug Branch](https://www.rugbranch.com/products/da1191wh): Soft Steps Unicorn Castle Playmat features castles, unicorns, and a fun road map. A soft white rug perfect for kids' playrooms and bedrooms.
-  Updated: 2025-11-23T23:13:35Z
+  Updated: 2025-11-26T11:51:13Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10170,13 +10176,13 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1191wh-parent_1.jpg?v=1714474712
     Price: $380.46 CAD
 - [Soft Steps Alphabet Rug - Fun & Educational | Rug Branch](https://www.rugbranch.com/products/da1112wh): Soft Steps Alphabet Playmat, loom-made with soft polyester and canvas backing, featuring cute animal letters for a fun and interactive learning space.
-  Updated: 2025-11-14T21:47:41Z
+  Updated: 2025-11-25T17:25:18Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1112wh-parent_1.jpg?v=1714474718
   - [4' x 6'](https://www.rugbranch.com/products/da1112wh?variant=41233362288663)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1112wh-parent_1.jpg?v=1714474718
     Price: $122.37 CAD
   - [5' x 8'](https://www.rugbranch.com/products/da1112wh?variant=41233362321431)
@@ -10192,7 +10198,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1112wh-parent_1.jpg?v=1714474718
     Price: $380.46 CAD
 - [Soft Steps Rainbow Rug - Colorful & Cozy | Rug Branch](https://www.rugbranch.com/products/da1113pk): Soft Steps Rainbow Playmat, loom-made with soft polyester and canvas backing, featuring pastel rainbow stripes for a fun and comfy play space.
-  Updated: 2025-11-23T18:40:55Z
+  Updated: 2025-11-26T11:50:18Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10214,7 +10220,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1113pk-parent_1_1.jpg?v=1714727995
     Price: $380.46 CAD
 - [Soft Steps Rainbow Playmat - Cozy & Colorful | Rug Branch](https://www.rugbranch.com/products/da1114ml): Add charm to playtime with the Soft Steps Rainbow Playmat. Featuring a striped pastel rainbow design, this soft polyester rug is perfect for kids' rooms.
-  Updated: 2025-11-14T21:47:41Z
+  Updated: 2025-11-25T06:58:02Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10236,13 +10242,13 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1114ml-parent_1.jpg?v=1714727243
     Price: $380.46 CAD
 - [Soft Steps Rainbow Playmat - Cozy & Vibrant | Rug Branch](https://www.rugbranch.com/products/da1102ny): Soft Steps Rainbow Playmat, loom-made with soft polyester and canvas backing, featuring a bold navy background with a colorful rainbow design.
-  Updated: 2025-11-20T15:49:20Z
+  Updated: 2025-11-26T11:50:09Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1102ny-parent_1_1.jpg?v=1748033837
   - [4' x 6'](https://www.rugbranch.com/products/da1102ny?variant=41248071319575)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1102ny-parent_1_1.jpg?v=1748033837
     Price: $122.37 CAD
   - [5' x 8'](https://www.rugbranch.com/products/da1102ny?variant=41248071352343)
@@ -10254,11 +10260,11 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1102ny-parent_1_1.jpg?v=1748033837
     Price: $286.66 CAD
   - [8' x 11'](https://www.rugbranch.com/products/da1102ny?variant=41248071417879)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/da1102ny-parent_1_1.jpg?v=1748033837
     Price: $380.46 CAD
 - [Eclipse Colorful Striped Rainbow Rug - Modern & Vibrant | Rug Branch](https://www.rugbranch.com/products/eu8971ml): Brighten your space with the Eclipse Colorful Striped Rainbow Rug. Loom-made in China with durable polyester and canvas backing.
-  Updated: 2025-11-20T15:49:30Z
+  Updated: 2025-11-25T06:58:03Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10280,7 +10286,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8971ml-parent_1.jpg?v=1714811388
     Price: $324.72 CAD
 - [Eclipse Abstract Checkered Brown Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/eu8972br): Modern Eclipse Abstract Checkered Brown Rug from China. Durable polyester with canvas backing and a unique wavy checkered pattern.
-  Updated: 2025-11-21T16:24:41Z
+  Updated: 2025-11-25T07:16:29Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10302,7 +10308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8972br-parent_1.jpg?v=1714811393
     Price: $324.72 CAD
 - [Eclipse Brown Rug - Mid-Century Geometric | Rug Branch](https://www.rugbranch.com/products/eu8979br): Enhance your space with the Eclipse Brown Rug. This loom-made polyester rug features a sleek geometric design, perfect for a modern mid-century look.
-  Updated: 2025-11-21T16:24:51Z
+  Updated: 2025-11-25T22:22:07Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10324,7 +10330,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8979br-parent_1.jpg?v=1714811397
     Price: $324.72 CAD
 - [Eclipse Mid-Century Modern Blue Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/eu8974bl): Modern Eclipse Mid-Century Abstract Blue Rug from China. Durable polyester with canvas backing and a bold geometric design.
-  Updated: 2025-11-14T21:48:22Z
+  Updated: 2025-11-25T16:59:06Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10346,7 +10352,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8974bl-parent_1_2a5b0116-832e-4625-ba60-5f31fd1d009e.jpg?v=1714997685
     Price: $324.72 CAD
 - [Eclipse Abstract Zebra Print Black Rug - Bold & Modern | Rug Branch](https://www.rugbranch.com/products/eu8975bk): Eclipse Abstract Zebra Print Black Rug – A Chinese loom-made rug with a striking black and white zebra-inspired design. Durable polyester with canvas backing.
-  Updated: 2025-11-21T16:24:45Z
+  Updated: 2025-11-25T16:59:05Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10368,7 +10374,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8975bk-parent_1_45ca25ac-edc1-4366-b43e-f2fbb4cff67b.jpg?v=1714997688
     Price: $324.72 CAD
 - [Eclipse Mid-Century Modern Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/eu8976bg): Modern Eclipse Mid-Century Abstract Beige Rug from China. Durable polyester with canvas backing and a sleek geometric design.
-  Updated: 2025-11-22T15:34:21Z
+  Updated: 2025-11-26T19:31:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10380,7 +10386,7 @@
   - [5' x 8'](https://www.rugbranch.com/products/eu8976bg?variant=41259666800663)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8976bg-parent_1_1f209419-3437-44b8-8cc8-2e07cfa2b1f9.jpg?v=1714997691
-    Price: $162.87 CAD
+    Price: $212.49 CAD
   - [6' x 9'](https://www.rugbranch.com/products/eu8976bg?variant=41259666833431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8976bg-parent_1_1f209419-3437-44b8-8cc8-2e07cfa2b1f9.jpg?v=1714997691
@@ -10390,7 +10396,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8976bg-parent_1_1f209419-3437-44b8-8cc8-2e07cfa2b1f9.jpg?v=1714997691
     Price: $324.72 CAD
 - [Eclipse Mid-Century Geometric Beige Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/eu8983bg): Modern Eclipse Mid-Century Geometric Beige Rug from China. Durable polyester with canvas backing and an abstract geometric pattern.
-  Updated: 2025-11-21T16:24:53Z
+  Updated: 2025-11-25T07:21:10Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10412,7 +10418,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8983bg-parent_1_92109f09-d144-4407-9bc8-794dc93f44bf.jpg?v=1714997694
     Price: $324.72 CAD
 - [Eclipse Checkered Geometric Beige Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/eu8833bg): Modern Eclipse Checkered Geometric Beige Rug from China. Durable polyester with canvas backing and a trendy checkered pattern.
-  Updated: 2025-11-21T18:19:20Z
+  Updated: 2025-11-25T07:22:49Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10430,7 +10436,7 @@
     Availability: Not Available
     Price: $324.72 CAD
 - [Jules Modern Geometrical Grey Rug | Rug Branch](https://www.rugbranch.com/products/ba1226cr): Discover the epitome of luxury with Rug Branch's Jules Collection, where every rug is a masterpiece waiting to grace your home. With their enchanting patterns and rich hues, they add warmth and character to any room, elevating your decor to a whole new level of sophistication.
-  Updated: 2025-11-20T15:49:01Z
+  Updated: 2025-11-24T23:42:05Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10456,7 +10462,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/BA1226CR-Parent_1_1c535049-8824-4921-936f-ba1c76448e29.jpg?v=1719394819
     Price: $292.80 CAD
 - [ules Modern Lines Grey Rug - Sleek & Durable | Rug Branch](https://www.rugbranch.com/products/ba1863cr): Upgrade your space with the Jules Modern Lines Grey Rug. Loom-made in Turkey with durable polypropylene, featuring a stylish linear pattern in neutral tones.
-  Updated: 2025-11-14T20:06:18Z
+  Updated: 2025-11-24T23:42:05Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10482,7 +10488,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/BA1863CR-Parent_1_3f582823-c669-4969-9b4a-2815c29aa98e.jpg?v=1719461538
     Price: $292.80 CAD
 - [Jules Modern Marble Grey Rug - Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/ba1872gy): Elevate your space with the Jules Modern Marble Grey Rug. Loom-made in Turkey with durable polypropylene, featuring a chic marble-inspired abstract design.
-  Updated: 2025-11-20T15:49:03Z
+  Updated: 2025-11-26T20:04:50Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10508,7 +10514,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/BA1872GY-Parent_1_873b996c-50e2-4c8c-aae0-3f44b6dc9100.jpg?v=1719461545
     Price: $292.80 CAD
 - [Jules Checkered Modern Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ba2107cr): Upgrade your space with the Jules Checkered Modern Grey Rug. Loom-made in Turkey with durable polypropylene, featuring a bold and contemporary checkered design.
-  Updated: 2025-11-20T15:49:02Z
+  Updated: 2025-11-24T23:42:06Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10534,7 +10540,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/BA2107CR-Parent_1_a570f100-0e2b-4701-92d0-d5d08b1d2f87.jpg?v=1719394840
     Price: $292.80 CAD
 - [Maise Abstract Modern Cream Rug - Soft & Durable | Rug Branch](https://www.rugbranch.com/products/au9400cr): Upgrade your space with the Maise Abstract Modern Cream Rug from Turkey. Loom-made with 100% polypropylene and jute backing, featuring a sleek, minimalist design.
-  Updated: 2025-11-14T20:06:18Z
+  Updated: 2025-11-24T23:42:06Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10568,7 +10574,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/AU9400CR_dbfdd14a-db9c-40cf-963b-dd5248772ae7.jpg?v=1719363793
     Price: $298.51 CAD
 - [Maise Abstract Modern Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/au9404bg): Enhance your decor with the Maise Abstract Modern Beige Rug from Turkey. Loom-made with 100% polypropylene and jute backing, featuring a geometric pattern.
-  Updated: 2025-11-20T15:48:53Z
+  Updated: 2025-11-25T16:59:00Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10602,7 +10608,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/AU9404BG_f5968c89-3c26-4c69-8974-8e5fc7302f42.jpg?v=1719363560
     Price: $298.51 CAD
 - [Maise Striped Modern Beige Rug - Sleek & Durable | Rug Branch](https://www.rugbranch.com/products/au9411bg): Upgrade your space with the Maise Striped Modern Beige Rug. Loom-made in Turkey with durable polypropylene and jute backing, featuring a chic geometric design.
-  Updated: 2025-11-20T15:48:56Z
+  Updated: 2025-11-25T22:21:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10636,7 +10642,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/AU9411BG_e5c398ca-e129-43f8-85c6-265f2ae9a18a.jpg?v=1719364527
     Price: $298.51 CAD
 - [Maise Abstract Modern Beige Rug - Chic & Durable | Rug Branch](https://www.rugbranch.com/products/au9412bg): Enhance your decor with the Maise Abstract Modern Beige Rug. Loom-made in Turkey with durable polypropylene and jute backing, featuring a sleek linear design.
-  Updated: 2025-11-14T20:06:18Z
+  Updated: 2025-11-25T16:41:55Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10663,7 +10669,7 @@
     Availability: Available
     Price: $298.51 CAD
 - [Maise Abstract Modern Cream Rug - Sleek & Durable | Rug Branch](https://www.rugbranch.com/products/au9414cr): Upgrade your space with the Maise Abstract Modern Cream Rug. Loom-made in Turkey with a stylish geometric pattern, perfect for a contemporary touch.
-  Updated: 2025-11-14T20:06:18Z
+  Updated: 2025-11-24T23:42:08Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10697,7 +10703,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/AU9414CR_33f61346-aa40-4166-9354-6a076b3f79e1.jpg?v=1719461550
     Price: $298.51 CAD
 - [Maise Abstract Modern Cream Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/au9415cr): Enhance your space with the Maise Abstract Modern Cream Rug. Loom-made in Turkey with durable polypropylene and jute backing, featuring a sleek abstract design.
-  Updated: 2025-11-20T15:48:52Z
+  Updated: 2025-11-24T23:42:08Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10731,7 +10737,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/AU9415CR_855c3413-99f4-4290-b0d5-14e644c11ff4.jpg?v=1719461557
     Price: $298.51 CAD
 - [Maise Abstract Modern Cream Rug - Minimalist & Durable | Rug Branch](https://www.rugbranch.com/products/au9416cr): Upgrade your space with the Maise Abstract Modern Cream Rug. Loom-made in Turkey with durable polypropylene and jute backing, featuring a sleek, minimalist design.
-  Updated: 2025-11-20T15:48:56Z
+  Updated: 2025-11-25T04:55:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10765,7 +10771,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/AU9416CR_e3b68555-a97a-4f22-bdd4-132d853935c6.jpg?v=1719394861
     Price: $298.51 CAD
 - [Maise Abstract Modern Cream Rug - Geometric & Durable | Rug Branch](https://www.rugbranch.com/products/au9419cr): Enhance your space with the Maise Abstract Modern Cream Rug. Loom-made in Turkey with durable polypropylene and jute backing, featuring a bold geometric design.
-  Updated: 2025-11-14T20:06:28Z
+  Updated: 2025-11-24T23:42:09Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10799,7 +10805,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/AU9419CR_afadcdb2-25aa-44fc-86bb-4a43300a151b.jpg?v=1719461564
     Price: $298.51 CAD
 - [Maise Checkered Modern Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/au9420bg): Add modern elegance with the Maise Checkered Beige Rug. Loom-made in Turkey with durable polypropylene and jute backing, featuring a sleek checkered pattern.
-  Updated: 2025-11-20T15:48:57Z
+  Updated: 2025-11-25T00:21:30Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10833,7 +10839,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/AU9420BG_392a5812-8e67-4c95-ba9d-1aa04588c503.jpg?v=1719461585
     Price: $298.51 CAD
 - [Maise Abstract Modern Cream Rug - Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/au9423cr): Enhance your space with the Maise Abstract Modern Cream Rug. Loom-made in Turkey with durable polypropylene and jute backing, featuring a subtle pattern.
-  Updated: 2025-11-22T13:57:10Z
+  Updated: 2025-11-25T16:59:00Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10867,7 +10873,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/AU9423CR_d7231e10-abaf-406c-b3c6-3ac598bdc873.jpg?v=1719461577
     Price: $298.51 CAD
 - [Maise Checkered Modern Black Rug - Bold & Durable | Rug Branch](https://www.rugbranch.com/products/au9425bk): Make a statement with the Maise Checkered Modern Black Rug. Loom-made in Turkey with durable polypropylene and jute backing, featuring a bold checkered design.
-  Updated: 2025-11-23T05:03:20Z
+  Updated: 2025-11-25T16:59:00Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10901,7 +10907,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/AU9425BK_bf0d0cd2-7332-4ca2-911a-924343616458.jpg?v=1719461593
     Price: $298.51 CAD
 - [Maise Abstract Modern Cream Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/au9428cr): Enhance your space with the Maise Abstract Modern Cream Rug. Loom-made in Turkey with durable polypropylene and jute backing, featuring a chic woven pattern.
-  Updated: 2025-11-20T15:49:04Z
+  Updated: 2025-11-24T23:42:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10935,7 +10941,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/AU9428CR_ad8a0abe-6bf5-4b45-b785-bc7aa7ec114a.jpg?v=1719394902
     Price: $298.51 CAD
 - [Jules Abstract Modern Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ba2116cr): Enhance your space with the Jules Abstract Modern Grey Rug. Loom-made in Turkey with durable polypropylene, featuring a sleek, artistic abstract design.
-  Updated: 2025-11-20T15:49:03Z
+  Updated: 2025-11-24T23:42:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10961,7 +10967,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/BA2116CR-Parent_11_5c0d4609-4995-4b92-a435-76f056134173.jpg?v=1719362739
     Price: $292.80 CAD
 - [Jules Moroccan Geometric Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ba2150cr): Enhance your space with the Jules Moroccan Geometric Grey Rug. Loom-made in Turkey with durable polypropylene, featuring a chic Moroccan-inspired pattern.
-  Updated: 2025-11-20T15:49:03Z
+  Updated: 2025-11-24T23:42:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10987,7 +10993,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/BA2150CR-Parent_1.jpg?v=1719363504
     Price: $292.80 CAD
 - [Maison Abstract Cream Rug – Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/ma1694bg): Enhance your home with the Maison Abstract Cream Rug, loom-made in Turkey with soft polyester and durable jute backing for a chic modern touch.
-  Updated: 2025-11-20T15:52:02Z
+  Updated: 2025-11-26T11:49:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11005,7 +11011,7 @@
     Availability: Not Available
     Price: $335.90 CAD
 - [Maison Modern Abstract Cream Rug – Stylish & Soft | Rug Branch](https://www.rugbranch.com/products/ma1698cr): Upgrade your space with the Maison Modern Cream Rug, loom-made in Turkey with soft polyester and durable jute backing for a contemporary touch.
-  Updated: 2025-11-20T15:49:46Z
+  Updated: 2025-11-25T16:59:07Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11027,7 +11033,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ma1698cr-parent_1.jpg?v=1718118629
     Price: $335.90 CAD
 - [Maison Geometric Cream Rug – Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/ma2516bg): Enhance your home with the Maison Geometric Cream Rug, loom-made in Turkey with soft polyester and durable jute backing for a contemporary touch.
-  Updated: 2025-11-20T15:49:46Z
+  Updated: 2025-11-26T11:53:34Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11049,7 +11055,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ma2516bg-parent_1.jpg?v=1718118643
     Price: $335.90 CAD
 - [Maison Geometric Cream Rug – Modern & Elegant | Rug Branch](https://www.rugbranch.com/products/ma2518gy): Add a stylish touch with the Maison Geometric Cream Rug, loom-made in Turkey with soft polyester and durable jute backing for lasting beauty.
-  Updated: 2025-11-22T13:57:15Z
+  Updated: 2025-11-25T00:55:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11071,7 +11077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ma2518gy-parent_1.jpg?v=1718118656
     Price: $335.90 CAD
 - [Maison Moroccan Cream Rug – Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/ma2540cr): Enhance your space with the Maison Moroccan Cream Rug, loom-made in Turkey with soft polyester and durable jute backing for a chic, modern look.
-  Updated: 2025-11-22T13:57:21Z
+  Updated: 2025-11-26T11:52:39Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11093,7 +11099,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ma2540cr-parent_1.jpg?v=1718118670
     Price: $335.90 CAD
 - [Maison Geometric Cream Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/ma2551bg): Upgrade your space with the Maison Geometric Cream Rug. This loom-made polyester rug features a sleek geometric pattern, perfect for a modern touch.
-  Updated: 2025-11-23T05:03:21Z
+  Updated: 2025-11-25T16:59:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11115,7 +11121,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ma2551bg-parent_1.jpg?v=1718118683
     Price: $335.90 CAD
 - [Maison Abstract Beige Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/ma2554bg): Add a contemporary touch with the Maison Abstract Beige Rug. This loom-made polyester rug features a unique textured pattern for a sleek, modern look.
-  Updated: 2025-11-22T17:59:26Z
+  Updated: 2025-11-24T23:42:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11137,7 +11143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ma2554bg-parent_1.jpg?v=1717988972
     Price: $335.90 CAD
 - [Casa Abstract Boho Beige Rug – Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/mi4399bg): Add a cozy touch with the Casa Abstract Boho Beige Rug, loom-made in Turkey with soft polyester and durable jute backing for lasting elegance.
-  Updated: 2025-11-20T15:49:51Z
+  Updated: 2025-11-25T20:20:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11158,7 +11164,7 @@
     Availability: Available
     Price: $387.23 CAD
 - [Casa Abstract Modern Beige Rug – Soft & Elegant | Rug Branch](https://www.rugbranch.com/products/mi4408bg): Enhance your space with the Casa Abstract Beige Rug, loom-made in Turkey with soft polyester and durable jute backing for a modern, cozy touch.
-  Updated: 2025-11-14T20:06:28Z
+  Updated: 2025-11-26T14:27:35Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11184,7 +11190,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/MI4408BG-Parent_1.jpg?v=1725648473
     Price: $387.23 CAD
 - [Casa Abstract Modern Grey Rug | Rug Branch](https://www.rugbranch.com/products/mi4408gy): Crafted with precision and care, these meticulously crafted area rugs offer not only a stylish foundation for your floors but also captivating decorative accents for your living space.
-  Updated: 2025-11-23T22:09:40Z
+  Updated: 2025-11-25T20:19:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11209,7 +11215,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/MI4408GY-Parent_1.jpg?v=1719365164
     Price: $387.23 CAD
 - [Casa Abstract Boho Beige Rug – Modern & Cozy | Rug Branch](https://www.rugbranch.com/products/mi4418bg): Bring warmth to your space with the Casa Abstract Boho Beige Rug, loom-made in Turkey with soft polyester and durable jute backing.
-  Updated: 2025-11-14T20:06:28Z
+  Updated: 2025-11-24T23:42:17Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11230,7 +11236,7 @@
     Availability: Available
     Price: $387.23 CAD
 - [Casa Boho Beige Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/mi4421bg): Add a cozy touch with the Casa Boho Beige Rug. This loom-made polyester rug features a chic abstract design, perfect for modern and bohemian spaces.
-  Updated: 2025-11-14T20:06:18Z
+  Updated: 2025-11-24T23:42:17Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11256,7 +11262,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/MI4421BG-Parent_1.jpg?v=1719365707
     Price: $387.23 CAD
 - [Casa Boho Beige Rug - Minimal & Stylish | Rug Branch](https://www.rugbranch.com/products/mi4427bg): Enhance your space with the Casa Boho Beige Rug. This loom-made polyester rug features a subtle abstract design, perfect for modern and bohemian décor.
-  Updated: 2025-11-23T03:25:30Z
+  Updated: 2025-11-25T20:18:18Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11277,7 +11283,7 @@
     Availability: Available
     Price: $387.23 CAD
 - [Casa Abstract Modern Beige Rug – Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/mi4433bg): Upgrade your home with the Casa Abstract Beige Rug, loom-made in Turkey with soft polyester and durable jute backing for a modern, cozy feel.
-  Updated: 2025-11-20T15:49:50Z
+  Updated: 2025-11-25T20:19:40Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11298,7 +11304,7 @@
     Availability: Available
     Price: $387.23 CAD
 - [Casa Boho Beige Rug - Modern & Cozy | Rug Branch](https://www.rugbranch.com/products/mi8327bg): Add warmth with the Casa Boho Beige Rug. This loom-made polyester rug features a subtle abstract pattern, perfect for modern and bohemian interiors.
-  Updated: 2025-11-20T15:49:57Z
+  Updated: 2025-11-25T20:19:33Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11324,7 +11330,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/MI8327BG-Parent_1.jpg?v=1719365654
     Price: $387.23 CAD
 - [Casa Modern Beige Rug - Stylish & Cozy | Rug Branch](https://www.rugbranch.com/products/mi8344bg): Upgrade your space with the Casa Modern Beige Rug. This loom-made polyester rug features a subtle abstract pattern, perfect for contemporary interiors.
-  Updated: 2025-11-22T13:57:21Z
+  Updated: 2025-11-26T01:01:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11350,7 +11356,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/MI8344BG-Parent_1.jpg?v=1719365289
     Price: $387.23 CAD
 - [Casa Abstract Modern Beige Rug - Soft & Durable | Rug Branch](https://www.rugbranch.com/products/mi8493bg): Casa Abstract Modern Beige Rug, loom-made in Turkey with soft polyester and jute backing. A stylish, durable choice for any modern space.
-  Updated: 2025-11-22T13:57:20Z
+  Updated: 2025-11-25T20:19:12Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11375,7 +11381,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/MI8493BG.jpg?v=1718115798
     Price: $387.23 CAD
 - [Casa Abstract Modern Grey Rug - Soft & Durable | Rug Branch](https://www.rugbranch.com/products/mi8493gy): Enhance your space with the Casa Abstract Modern Grey Rug. Loom-made in Turkey, this soft polyester rug features a sleek, abstract design with jute backing.
-  Updated: 2025-11-20T15:49:56Z
+  Updated: 2025-11-24T23:42:20Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11401,7 +11407,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/MI8493GY-Parent_1.jpg?v=1725890982
     Price: $387.23 CAD
 - [Nomad Abstract Modern Beige Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/na6658bg): Nomad Abstract Modern Beige Rug – a soft, loom-made polypropylene rug with a chic abstract design and durable jute backing. Perfect for any space.
-  Updated: 2025-11-21T20:10:27Z
+  Updated: 2025-11-26T21:58:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11419,7 +11425,7 @@
     Availability: Not Available
     Price: $304.52 CAD
 - [Nomad Abstract Coastal Beige Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/na8246bg): Nomad Abstract Coastal Beige Rug – a loom-made polypropylene rug with a flowing abstract design and sturdy jute backing. Stylish and perfect for any space.
-  Updated: 2025-11-20T15:50:03Z
+  Updated: 2025-11-25T06:58:52Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11437,7 +11443,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Coastal Blue Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/na8246bl): Nomad Abstract Coastal Blue Rug – a stylish loom-made polypropylene rug with flowing patterns in blue and beige, featuring a sturdy jute backing.
-  Updated: 2025-11-14T21:48:22Z
+  Updated: 2025-11-25T20:18:55Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11455,7 +11461,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Coastal Purple Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/na8246pu): Nomad Abstract Coastal Purple Rug – a stylish loom-made polypropylene rug with flowing purple and beige patterns, featuring a sturdy jute backing.
-  Updated: 2025-11-14T21:48:22Z
+  Updated: 2025-11-25T06:58:52Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11473,7 +11479,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Modern Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/na8258bg): Nomad Abstract Modern Beige Rug – a loom-made polypropylene rug with a geometric beige pattern and sturdy jute backing. Perfect for modern interiors.
-  Updated: 2025-11-20T15:50:03Z
+  Updated: 2025-11-25T07:21:35Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11495,7 +11501,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/na8258bg-parent_1.jpg?v=1718119331
     Price: $304.52 CAD
 - [Nomad Abstract Modern Black Rug - Bold & Durable | Rug Branch](https://www.rugbranch.com/products/na9221bk): Nomad Abstract Modern Black Rug – a striking loom-made polypropylene rug with an abstract black, beige, and gray design. Durable with sturdy jute backing.
-  Updated: 2025-11-20T15:50:03Z
+  Updated: 2025-11-26T21:58:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11513,7 +11519,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Modern Cream Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/na9221cr): Nomad Abstract Modern Cream Rug – a loom-made polypropylene rug with a soft cream, beige, and gray abstract design. Durable with sturdy jute backing.
-  Updated: 2025-11-22T13:57:21Z
+  Updated: 2025-11-25T06:58:52Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11531,7 +11537,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Modern Green Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/na9221gr): Nomad Abstract Modern Green Rug – a loom-made polypropylene rug with a soft green and cream abstract design. Durable with sturdy jute backing.
-  Updated: 2025-11-20T15:50:04Z
+  Updated: 2025-11-25T06:58:52Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11549,7 +11555,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Modern Beige Rug - Geometric & Durable | Rug Branch](https://www.rugbranch.com/products/na9541bg): Nomad Abstract Modern Beige Rug – a loom-made polypropylene rug with a striking geometric pattern in beige and gray. Durable with sturdy jute backing.
-  Updated: 2025-11-20T15:50:02Z
+  Updated: 2025-11-25T06:58:52Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11567,7 +11573,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Vintage Boho Beige Rug - Colorful & Stylish | Rug Branch](https://www.rugbranch.com/products/na9546ml): Nomad Vintage Boho Beige Rug – a loom-made polypropylene rug with vibrant multicolor patterns on a beige base. Durable with sturdy jute backing.
-  Updated: 2025-11-20T15:50:02Z
+  Updated: 2025-11-25T06:58:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11585,7 +11591,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Vintage Distressed Beige Rug - Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/na9564bg): Nomad Vintage Distressed Beige Rug – a loom-made polypropylene rug with intricate vintage patterns and a distressed beige look. Durable with jute backing.
-  Updated: 2025-11-20T15:50:06Z
+  Updated: 2025-11-25T06:58:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11603,7 +11609,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Modern Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/na9591bg): Nomad Abstract Modern Beige Rug – a loom-made polypropylene rug with a modern geometric design in beige and gray. Durable with sturdy jute backing.
-  Updated: 2025-11-22T13:57:20Z
+  Updated: 2025-11-26T11:51:59Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11621,7 +11627,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Striped Modern Beige Rug - Sleek & Durable | Rug Branch](https://www.rugbranch.com/products/na9614ml): Nomad Striped Modern Beige Rug – a loom-made polypropylene rug with a stylish multicolor striped design. Durable with sturdy jute backing.
-  Updated: 2025-11-14T21:48:22Z
+  Updated: 2025-11-25T20:20:03Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11639,7 +11645,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Persian Oriental Grey Rug - Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/na9943gy): Nomad Persian Oriental Grey Rug – a loom-made polypropylene rug with intricate Persian patterns in grey and beige. Durable with sturdy jute backing.
-  Updated: 2025-11-20T15:50:06Z
+  Updated: 2025-11-25T16:59:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11657,7 +11663,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Modern Beige Rug - Geometric & Durable | Rug Branch](https://www.rugbranch.com/products/na9949bg): Nomad Abstract Modern Beige Rug – a loom-made polypropylene rug featuring a bold geometric design in beige and gray. Durable with sturdy jute backing.
-  Updated: 2025-11-20T15:50:06Z
+  Updated: 2025-11-25T20:20:08Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11675,7 +11681,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Modern Beige Rug - Contemporary & Durable | Rug Branch](https://www.rugbranch.com/products/na9951bg): Nomad Abstract Modern Beige Rug – a loom-made polypropylene rug with a sleek geometric pattern in beige and gray. Durable with sturdy jute backing.
-  Updated: 2025-11-20T15:50:06Z
+  Updated: 2025-11-25T06:58:52Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11693,7 +11699,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Boho Beige Rug - Classic & Stylish | Rug Branch](https://www.rugbranch.com/products/na9958ml): Enhance your space with the Nomad Boho Beige Rug. This loom-made polypropylene rug features a vintage-inspired pattern for a timeless bohemian look.
-  Updated: 2025-11-14T21:48:22Z
+  Updated: 2025-11-25T06:58:52Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11711,7 +11717,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Modern Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/na9959bg): Nomad Abstract Modern Beige Rug – a loom-made polypropylene rug featuring a subtle abstract pattern in beige and gray. Durable with sturdy jute backing.
-  Updated: 2025-11-14T21:48:22Z
+  Updated: 2025-11-26T04:29:12Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11729,7 +11735,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Modern Beige Rug - Minimalist & Durable | Rug Branch](https://www.rugbranch.com/products/na9960cr): Nomad Abstract Modern Beige Rug – a loom-made polypropylene rug with a sleek linear pattern in beige tones. Durable with sturdy jute backing.
-  Updated: 2025-11-22T13:57:20Z
+  Updated: 2025-11-25T20:20:14Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11747,7 +11753,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Modern Green Rug - Sleek & Durable | Rug Branch](https://www.rugbranch.com/products/na9960gr): Nomad Abstract Modern Green Rug – a loom-made polypropylene rug with a minimalist linear pattern in green tones. Durable with sturdy jute backing.
-  Updated: 2025-11-20T15:50:11Z
+  Updated: 2025-11-25T20:20:22Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11765,7 +11771,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Modern Beige Rug - Vibrant & Durable | Rug Branch](https://www.rugbranch.com/products/na9981ml): Nomad Abstract Modern Beige Rug – a loom-made polypropylene rug with a bold abstract design in beige, blue, and purple. Durable with sturdy jute backing.
-  Updated: 2025-11-14T23:31:40Z
+  Updated: 2025-11-25T06:58:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11783,7 +11789,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Atlas Oriental Grey Rug - Classic & Elegant | Rug Branch](https://www.rugbranch.com/products/ri0749gy): Add timeless charm with the Atlas Oriental Grey Rug. This loom-made polyester rug features a distressed medallion design, perfect for a classic look.
-  Updated: 2025-11-20T15:50:17Z
+  Updated: 2025-11-25T22:22:17Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11801,7 +11807,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Oriental Blue Rug - Classic & Timeless | Rug Branch](https://www.rugbranch.com/products/ri2086bl): Enhance your space with the Atlas Oriental Blue Rug. This loom-made polyester rug features an elegant traditional pattern for a timeless, sophisticated look.
-  Updated: 2025-11-14T21:48:22Z
+  Updated: 2025-11-25T06:58:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11819,7 +11825,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Abstract Beige Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/ri2120bg): Upgrade your space with the Atlas Abstract Beige Rug. This loom-made polyester rug features a sleek linear design, perfect for a contemporary look.
-  Updated: 2025-11-20T15:50:16Z
+  Updated: 2025-11-25T06:58:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11837,7 +11843,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Abstract Blue Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/ri2120bl): Enhance your space with the Atlas Abstract Blue Rug. This loom-made polyester rug features a sleek linear pattern, perfect for a contemporary look.
-  Updated: 2025-11-14T21:48:22Z
+  Updated: 2025-11-25T06:58:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11855,7 +11861,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Scandinavian Beige Rug - Distressed & Stylish | Rug Branch](https://www.rugbranch.com/products/ri2186bg): Add Nordic charm with the Atlas Scandinavian Beige Rug. This loom-made polyester rug features a distressed design, perfect for a cozy, modern space.
-  Updated: 2025-11-22T13:57:21Z
+  Updated: 2025-11-25T06:58:52Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11873,7 +11879,7 @@
     Availability: Not Available
     Price: $286.38 CAD
 - [Atlas Scandinavian Blue Rug - Distressed & Stylish | Rug Branch](https://www.rugbranch.com/products/ri2186bl): Create a cozy space with the Atlas Scandinavian Blue Rug. This loom-made polyester rug features a distressed Nordic design, perfect for modern interiors.
-  Updated: 2025-11-20T15:52:27Z
+  Updated: 2025-11-25T06:58:52Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11891,7 +11897,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Vintage Blue Rug - Modern & Timeless | Rug Branch](https://www.rugbranch.com/products/ri2187gy): Enhance your space with the Atlas Vintage Blue Rug. This loom-made polyester rug features a distressed design, blending classic elegance with modern style.
-  Updated: 2025-11-23T17:05:25Z
+  Updated: 2025-11-25T06:58:52Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11909,7 +11915,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Persian Beige Rug - Distressed & Timeless | Rug Branch](https://www.rugbranch.com/products/ri2191gy): Add vintage charm with the Atlas Persian Beige Rug. This loom-made polyester rug features a distressed Persian design, perfect for a classic, elegant look.
-  Updated: 2025-11-20T15:50:17Z
+  Updated: 2025-11-25T16:59:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11927,7 +11933,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Floral Beige Rug - Classic & Elegant | Rug Branch](https://www.rugbranch.com/products/ri2194gy): Enhance your space with the Atlas Floral Beige Rug. This loom-made polyester rug features a delicate floral design, perfect for a timeless, elegant look.
-  Updated: 2025-11-14T21:49:03Z
+  Updated: 2025-11-25T06:58:52Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11945,7 +11951,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Mirage Blue Rug - Abstract & Modern | Rug Branch](https://www.rugbranch.com/products/ri2204bl): Elevate your space with the Atlas Mirage Blue Rug. This loom-made polyester rug features a bold abstract design, perfect for a stylish contemporary look.
-  Updated: 2025-11-20T15:50:20Z
+  Updated: 2025-11-26T04:34:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11963,7 +11969,7 @@
     Availability: Not Available
     Price: $286.38 CAD
 - [Atlas Fractal Beige Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/ri2210bg): Enhance your décor with the Atlas Fractal Beige Rug. This loom-made polyester rug features a geometric abstract pattern for a sleek, contemporary look.
-  Updated: 2025-11-20T15:50:17Z
+  Updated: 2025-11-25T06:58:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11981,7 +11987,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Vintage Brown Rug - Oriental & Timeless | Rug Branch](https://www.rugbranch.com/products/ri2297bg): Add classic charm with the Atlas Vintage Brown Rug. This loom-made polyester rug features a distressed Oriental design for a timeless, elegant look.
-  Updated: 2025-11-14T21:49:03Z
+  Updated: 2025-11-25T06:58:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11999,7 +12005,7 @@
     Availability: Not Available
     Price: $286.38 CAD
 - [Atlas Scandinavian Grey Rug - Distressed & Modern | Rug Branch](https://www.rugbranch.com/products/ri2329gy): Add Nordic charm with the Atlas Scandinavian Grey Rug. This loom-made polyester rug features a subtle distressed design, perfect for a modern, cozy space.
-  Updated: 2025-11-20T15:50:22Z
+  Updated: 2025-11-25T21:26:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12017,7 +12023,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Vintage Boho Brown Rug - Rustic & Stylish | Rug Branch](https://www.rugbranch.com/products/ri2335br): Add warmth with the Atlas Vintage Boho Brown Rug. This loom-made polyester rug features a distressed bohemian design, perfect for a cozy, rustic look.
-  Updated: 2025-11-14T21:49:03Z
+  Updated: 2025-11-25T16:59:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12035,7 +12041,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Vintage Boho Grey Rug - Chic & Timeless | Rug Branch](https://www.rugbranch.com/products/ri2335gy): Enhance your space with the Atlas Vintage Boho Grey Rug. This loom-made polyester rug features a distressed bohemian design, perfect for a cozy, stylish look.
-  Updated: 2025-11-11T20:14:27Z
+  Updated: 2025-11-25T06:58:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12053,7 +12059,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Camo Grey Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/ri2339gy): Upgrade your space with the Atlas Camo Grey Rug. This loom-made polyester rug features a sleek abstract pattern, perfect for a contemporary, modern look.
-  Updated: 2025-11-22T22:01:26Z
+  Updated: 2025-11-25T06:58:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12071,7 +12077,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Classic Grey Rug - Modern & Abstract | Rug Branch](https://www.rugbranch.com/products/ri2342gy): Enhance your space with the Atlas Classic Grey Rug. This loom-made polyester rug features a bold abstract design, perfect for a stylish contemporary look.
-  Updated: 2025-11-20T15:52:36Z
+  Updated: 2025-11-25T06:58:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12089,7 +12095,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Classic White Rug - Modern & Abstract | Rug Branch](https://www.rugbranch.com/products/ri2351wh): Add a modern touch with the Atlas Classic White Rug. This loom-made polyester rug features a bold abstract design, perfect for contemporary interiors.
-  Updated: 2025-11-12T11:46:03Z
+  Updated: 2025-11-25T07:21:24Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12107,7 +12113,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Cadence Abstract Modern Beige Rug - Soft & Durable | Rug Branch](https://www.rugbranch.com/products/si1717wh): Cadence Abstract Modern Beige Rug – a stylish, loom-made polyester rug from Turkey with a soft feel and durable jute backing. Perfect for any modern space.
-  Updated: 2025-11-20T15:50:22Z
+  Updated: 2025-11-24T23:42:37Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12125,7 +12131,7 @@
     Availability: Not Available
     Price: $234.96 CAD
 - [Cadence Abstract Modern Brown Rug - Soft & Durable | Rug Branch](https://www.rugbranch.com/products/si1718bg): Stylish loom-made polyester rug from Turkey with an abstract brown pattern and durable jute backing. Perfect for modern spaces.
-  Updated: 2025-11-20T15:50:26Z
+  Updated: 2025-11-24T23:42:37Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12143,7 +12149,7 @@
     Availability: Available
     Price: $234.96 CAD
 - [Cadence Animal Print Modern Brown Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/si1748gy): Modern loom-made polyester rug from Turkey featuring a unique animal print design in brown with durable jute backing. Perfect for any space.
-  Updated: 2025-11-20T15:50:27Z
+  Updated: 2025-11-24T23:42:38Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12161,7 +12167,7 @@
     Availability: Available
     Price: $234.96 CAD
 - [Cadence Abstract Modern Grey Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/si1751gy): Modern loom-made polyester rug from Turkey with an abstract grey pattern and durable jute backing. Perfect for contemporary spaces.
-  Updated: 2025-11-20T15:52:39Z
+  Updated: 2025-11-24T23:42:38Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12179,7 +12185,7 @@
     Availability: Available
     Price: $234.96 CAD
 - [Cadence Abstract Boho Beige Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/si1752wh): Boho-inspired loom-made beige rug from Turkey with a subtle abstract pattern and durable jute backing. Perfect for modern and cozy spaces.
-  Updated: 2025-11-20T15:50:27Z
+  Updated: 2025-11-24T23:42:38Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12197,7 +12203,7 @@
     Availability: Available
     Price: $234.96 CAD
 - [Cadence Abstract Modern Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/si2004wh): Modern loom-made beige rug from Turkey with an abstract geometric pattern and durable jute backing. Perfect for contemporary and cozy spaces.
-  Updated: 2025-11-20T15:50:26Z
+  Updated: 2025-11-24T23:42:39Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12215,7 +12221,7 @@
     Availability: Available
     Price: $234.96 CAD
 - [Cadence Abstract Modern Beige Rug - Bold & Stylish | Rug Branch](https://www.rugbranch.com/products/si2005gy): Loom-made beige rug from Turkey with a striking abstract patchwork design and durable jute backing. Perfect for modern and artistic spaces.
-  Updated: 2025-11-20T15:52:40Z
+  Updated: 2025-11-26T21:09:37Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12233,7 +12239,7 @@
     Availability: Available
     Price: $234.96 CAD
 - [Cadence Vintage Brown Rug - Distressed & Stylish | Rug Branch](https://www.rugbranch.com/products/si2006wh): Add rustic charm with the Cadence Vintage Brown Rug. This loom-made polyester rug features a distressed tribal design for a timeless, elegant look.
-  Updated: 2025-11-20T15:50:31Z
+  Updated: 2025-11-24T23:42:40Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12251,7 +12257,7 @@
     Availability: Available
     Price: $234.96 CAD
 - [Cadence Abstract Modern Brown Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/si2009wh): Loom-made brown rug from Turkey with a unique abstract wave pattern and durable jute backing. Perfect for modern and cozy spaces.
-  Updated: 2025-11-20T15:50:31Z
+  Updated: 2025-11-24T23:42:41Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12269,7 +12275,7 @@
     Availability: Available
     Price: $234.96 CAD
 - [Cadence Vintage South-Western Cream Rug | Rug Branch](https://www.rugbranch.com/products/si2014cr): Impeccably crafted, these area rugs are more than just decorative accents; they're expressions of craftsmanship and refinement.
-  Updated: 2025-11-22T13:57:28Z
+  Updated: 2025-11-26T05:50:48Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12291,7 +12297,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SI2014CR-Parent_1.png?v=1759339816
     Price: $234.96 CAD
 - [Cadence Vintage Southwestern Brown Rug | Rug Branch](https://www.rugbranch.com/products/si2014gy): Vintage brown rug from Turkey with a Southwestern medallion design and durable jute backing. Perfect for classic and cozy spaces.
-  Updated: 2025-11-20T15:50:31Z
+  Updated: 2025-11-26T06:08:30Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12309,7 +12315,7 @@
     Availability: Available
     Price: $234.96 CAD
 - [Cadence Vintage Oriental Beige Rug | Rug Branch](https://www.rugbranch.com/products/si2015wh): Elegant vintage beige rug from Turkey with an intricate Oriental design and durable jute backing. Perfect for classic and cozy spaces.
-  Updated: 2025-11-20T15:50:36Z
+  Updated: 2025-11-25T21:08:10Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12327,7 +12333,7 @@
     Availability: Not Available
     Price: $234.96 CAD
 - [Cadence Abstract Modern Brown Rug | Rug Branch](https://www.rugbranch.com/products/si2022wh): Modern brown rug from Turkey with a unique abstract pattern and durable jute backing. Perfect for stylish and contemporary spaces
-  Updated: 2025-11-20T15:50:36Z
+  Updated: 2025-11-24T23:42:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12345,7 +12351,7 @@
     Availability: Available
     Price: $234.96 CAD
 - [Cadence Abstract Modern Beige Rug | Rug Branch](https://www.rugbranch.com/products/si2033wh): Modern beige rug from Turkey with a subtle abstract triangle pattern and durable jute backing. Perfect for contemporary and stylish spaces.
-  Updated: 2025-11-20T15:50:36Z
+  Updated: 2025-11-24T23:42:43Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12367,7 +12373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SI2033WH-Parent_2.jpg?v=1761286368
     Price: $234.96 CAD
 - [Cadence Abstract Modern Cream Rug | Rug Branch](https://www.rugbranch.com/products/si2042wh): Modern cream rug from Turkey with a unique abstract pixelated design and durable jute backing. Perfect for contemporary and stylish spaces.
-  Updated: 2025-11-20T15:50:36Z
+  Updated: 2025-11-24T23:42:43Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12385,7 +12391,7 @@
     Availability: Available
     Price: $234.96 CAD
 - [Cadence Abstract Boho Grey Rug | Rug Branch](https://www.rugbranch.com/products/si2176wh): Boho-inspired grey rug from Turkey with a delicate abstract pattern and durable jute backing. Perfect for modern and cozy spaces.
-  Updated: 2025-11-20T15:50:37Z
+  Updated: 2025-11-26T11:32:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12403,7 +12409,7 @@
     Availability: Available
     Price: $234.96 CAD
 - [Domus Abstract Modern Cream Black Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/te7465cr): Enhance your decor with the Domus Abstract Modern Rug. Loom-made in Turkey, its bold cream and black design pairs with a durable polypropylene and jute backing.
-  Updated: 2025-11-23T20:00:41Z
+  Updated: 2025-11-25T20:20:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12421,7 +12427,7 @@
     Availability: Available
     Price: $351.49 CAD
 - [Domus Zebra Print Modern Black White Rug - Bold & Stylish | Rug Branch](https://www.rugbranch.com/products/te7480cr): Add a bold touch with the Domus Zebra Print Rug. Loom-made in Turkey, its black and white design features durable polypropylene with a sturdy jute backing.
-  Updated: 2025-11-20T15:51:11Z
+  Updated: 2025-11-25T20:17:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12439,7 +12445,7 @@
     Availability: Available
     Price: $351.49 CAD
 - [Domus Abstract Modern Cream Black Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/te7491cr): Enhance your decor with the Domus Abstract Modern Rug. Its cream and black grid design adds style, while durable polypropylene and jute ensure lasting quality.
-  Updated: 2025-11-14T21:49:03Z
+  Updated: 2025-11-25T20:20:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12457,7 +12463,7 @@
     Availability: Available
     Price: $351.49 CAD
 - [Domus Abstract Modern Cream Black Rug - Sleek & Durable | Rug Branch](https://www.rugbranch.com/products/te8979cr): Elevate your space with the Domus Abstract Modern Rug. Its cream and black minimalist design offers style and durability with polypropylene and jute backing.
-  Updated: 2025-11-20T15:51:12Z
+  Updated: 2025-11-26T04:34:02Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12475,7 +12481,7 @@
     Availability: Available
     Price: $351.49 CAD
 - [Domus Abstract Modern Cream Black Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/te9005cr): Enhance your space with the Domus Abstract Rug. Its cream and black linear design adds modern style, while polypropylene and jute ensure lasting durability.
-  Updated: 2025-11-14T21:49:03Z
+  Updated: 2025-11-25T20:17:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12493,7 +12499,7 @@
     Availability: Available
     Price: $351.49 CAD
 - [Domus Abstract Modern Cream Black Rug - Sleek & Durable | Rug Branch](https://www.rugbranch.com/products/te9007cr): Enhance your space with the Domus Abstract Rug. Its cream and black wavy line design adds modern style, while polypropylene and jute ensure lasting durability.
-  Updated: 2025-11-20T15:51:16Z
+  Updated: 2025-11-25T20:17:32Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12511,7 +12517,7 @@
     Availability: Available
     Price: $351.49 CAD
 - [Domus Abstract Modern Cream Black Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/te9603cr): Upgrade your decor with the Domus Abstract Rug. Its cream and black geometric design adds modern style, while polypropylene and jute ensure lasting durability.
-  Updated: 2025-11-23T16:17:46Z
+  Updated: 2025-11-26T17:39:20Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12529,7 +12535,7 @@
     Availability: Available
     Price: $351.49 CAD
 - [Domus Abstract Modern Cream Black Rug - Sleek & Durable | Rug Branch](https://www.rugbranch.com/products/te9622cr): Enhance your space with the Domus Abstract Rug. Its cream base with black accents adds modern style, while durable polypropylene and jute ensure longevity.
-  Updated: 2025-11-22T20:56:51Z
+  Updated: 2025-11-25T22:22:24Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12541,13 +12547,13 @@
     Availability: Available
     Price: $174.18 CAD
   - [6' x 9'](https://www.rugbranch.com/products/te9622cr?variant=41452498255895)
-    Availability: Available
+    Availability: Not Available
     Price: $265.87 CAD
   - [8' x 11'](https://www.rugbranch.com/products/te9622cr?variant=41452498288663)
     Availability: Not Available
     Price: $351.49 CAD
 - [Astra Modern Geometric Cream Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/tu1093bg): Upgrade your decor with the Astra Modern Geometric Cream Rug. Featuring a textured arch design, this soft, loom-made Turkish rug adds style and durability.
-  Updated: 2025-11-14T21:49:03Z
+  Updated: 2025-11-25T20:21:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12581,7 +12587,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/astra-modern-geometric-cream-rug-area-rugs-rugbranch-866977.jpg?v=1741922953
     Price: $587.55 CAD
 - [Astra Modern Geometric Grey Rug - Soft & Durable | Rug Branch](https://www.rugbranch.com/products/tu1093gy): Enhance your space with the Astra Modern Geometric Grey Rug. Featuring a textured arch pattern, this soft, loom-made Turkish rug adds style and durability.
-  Updated: 2025-11-23T20:32:43Z
+  Updated: 2025-11-25T20:21:00Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12615,7 +12621,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/astra-modern-geometric-grey-rug-area-rugs-rugbranch-489216.jpg?v=1741923297
     Price: $587.55 CAD
 - [Astra Modern Abstract Cream Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/tu1677cr): Enhance your space with the Astra Modern Abstract Cream Rug. Featuring a subtle geometric design, this soft, loom-made Turkish rug offers style and durability.
-  Updated: 2025-11-22T23:38:30Z
+  Updated: 2025-11-25T22:22:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12645,7 +12651,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/astra-modern-abstract-cream-rug-area-rugs-rugbranch-651308.jpg?v=1722306497
     Price: $341.07 CAD
 - [Astra Modern Abstract Grey Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/tu1677gy): Upgrade your decor with the Astra Modern Abstract Grey Rug. Featuring a subtle geometric pattern, this soft, loom-made Turkish rug adds style and durability.
-  Updated: 2025-11-20T15:51:21Z
+  Updated: 2025-11-26T01:53:47Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12675,7 +12681,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/astra-modern-abstract-grey-rug-area-rugs-rugbranch-957038.jpg?v=1722306494
     Price: $341.07 CAD
 - [Astra Modern Abstract Beige Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/tu1735bg): Enhance your space with the Astra Modern Abstract Beige Rug. Featuring a geometric pattern, this soft, loom-made Turkish rug adds style and lasting durability.
-  Updated: 2025-11-22T17:43:20Z
+  Updated: 2025-11-26T00:08:41Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12705,7 +12711,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/TU1735BG-Parent_1.jpg?v=1724184817
     Price: $341.07 CAD
 - [Astra Boho Beige Rug - Abstract & Cozy | Rug Branch](https://www.rugbranch.com/products/tu1946bg): Enhance your space with the Astra Boho Beige Rug. This loom-made polyester rug features a textured abstract design, perfect for a modern bohemian look.
-  Updated: 2025-11-23T03:58:26Z
+  Updated: 2025-11-25T20:21:22Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12735,7 +12741,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/astra-boho-abstract-beige-rug-area-rugs-rugbranch-314805.jpg?v=1722306496
     Price: $341.07 CAD
 - [Astra Modern Abstract Beige Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/tu2104bg): Upgrade your decor with the Astra Modern Abstract Beige Rug. Featuring a subtle linear pattern, this soft, loom-made Turkish rug adds style and durability.
-  Updated: 2025-11-22T13:57:30Z
+  Updated: 2025-11-25T22:40:00Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12769,7 +12775,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/TU2104BG-Parent_1.jpg?v=1745608459
     Price: $587.55 CAD
 - [Astra Modern Abstract Beige Rug - Soft & Durable | Rug Branch](https://www.rugbranch.com/products/tu2121bg): Enhance your space with the Astra Modern Abstract Beige Rug. Featuring a subtle textured design, this soft, loom-made Turkish rug adds style and durability.
-  Updated: 2025-11-23T15:29:57Z
+  Updated: 2025-11-26T00:26:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12799,7 +12805,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/astra-modern-abstract-beige-rug-area-rugs-rugbranch-398981.jpg?v=1722306497
     Price: $341.07 CAD
 - [Astra Modern Abstract Beige Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/tu2215bg): Elevate your decor with the Astra Modern Abstract Beige Rug. Featuring a subtle geometric pattern, this soft, loom-made Turkish rug adds style and durability.
-  Updated: 2025-11-23T02:04:16Z
+  Updated: 2025-11-25T20:21:10Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12829,7 +12835,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/astra-modern-abstract-beige-rug-area-rugs-rugbranch-562254.jpg?v=1722306494
     Price: $341.07 CAD
 - [Astra Modern Abstract Beige Rug - Soft & Durable | Rug Branch](https://www.rugbranch.com/products/tu2572bg): Enhance your decor with the Astra Modern Abstract Beige Rug. Featuring a textured linear design, this soft, loom-made Turkish rug adds style and durability.
-  Updated: 2025-11-14T21:49:03Z
+  Updated: 2025-11-25T16:59:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12863,7 +12869,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/astra-modern-abstract-beige-rug-area-rugs-rugbranch-209668.jpg?v=1741923548
     Price: $587.55 CAD
 - [Astra Modern Abstract Beige Rug - Soft & Elegant | Rug Branch](https://www.rugbranch.com/products/tu2573bg): Upgrade your space with the Astra Modern Abstract Beige Rug. Featuring a subtle textured pattern, this soft, loom-made Turkish rug adds warmth and durability.
-  Updated: 2025-11-22T18:31:45Z
+  Updated: 2025-11-25T16:59:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12893,7 +12899,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/TU2573BG-Parent_1.jpg?v=1745608710
     Price: $341.07 CAD
 - [Hogar Abstract Modern Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ut1578gy): Upgrade your decor with the Hogar Abstract Modern Grey Rug. Featuring a textured arch design, this loom-made Turkish rug offers style, durability, and comfort.
-  Updated: 2025-11-11T20:16:47Z
+  Updated: 2025-11-25T20:21:04Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12914,7 +12920,7 @@
     Availability: Available
     Price: $283.41 CAD
 - [Hogar Abstract Modern Grey Rug | Rug Branch](https://www.rugbranch.com/products/ut1992gy): Impeccably crafted, these area rugs are more than just decorative accents; they're expressions of craftsmanship and refinement.
-  Updated: 2025-11-20T15:53:36Z
+  Updated: 2025-11-25T20:20:37Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12935,7 +12941,7 @@
     Availability: Available
     Price: $283.41 CAD
 - [Hogar Abstract Modern Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ut2017gy): Enhance your space with the Hogar Abstract Modern Grey Rug. Featuring a geometric pattern, this loom-made Turkish rug offers durability, style, and comfort.
-  Updated: 2025-11-14T21:49:03Z
+  Updated: 2025-11-25T06:59:34Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12961,7 +12967,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/UT2017GY-Parent_1.jpg?v=1726260861
     Price: $283.41 CAD
 - [Hogar Abstract Modern Brown Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ut2842br): Enhance your space with the Hogar Abstract Modern Brown Rug. Its geometric diamond pattern adds style, while polypropylene and jute ensure lasting durability.
-  Updated: 2025-11-20T15:51:31Z
+  Updated: 2025-11-25T06:59:44Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12987,7 +12993,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/UT2842BR-Parent_1.jpg?v=1719364785
     Price: $283.41 CAD
 - [Hogar Striped Modern Brown Rug - Sleek & Durable | Rug Branch](https://www.rugbranch.com/products/ut2886cr): Upgrade your space with the Hogar Striped Modern Brown Rug. Featuring a subtle linear design, this loom-made Turkish rug offers style, comfort, and durability.
-  Updated: 2025-11-14T21:49:03Z
+  Updated: 2025-11-25T20:18:52Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13013,7 +13019,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/UT2886CR-Parent_1.jpg?v=1719362717
     Price: $283.41 CAD
 - [Hogar Abstract Geometric Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ut4060gy): Upgrade your decor with the Hogar Abstract Geometric Grey Rug. Its bold geometric pattern adds style, while polypropylene and jute ensure lasting durability.
-  Updated: 2025-11-22T13:57:35Z
+  Updated: 2025-11-25T20:18:47Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13039,7 +13045,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/UT4060GY-Parent_1.jpg?v=1719364819
     Price: $283.41 CAD
 - [Hogar Abstract Modern Brown Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ut4301bg): Upgrade your space with the Hogar Abstract Brown Rug. Its textured geometric pattern adds style, while polypropylene and jute ensure lasting durability.
-  Updated: 2025-11-14T23:31:39Z
+  Updated: 2025-11-25T20:18:44Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13065,7 +13071,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/UT4301BG-Parent_11_db64facb-0924-4b2b-b775-3d5d2e8955e7.jpg?v=1739962634
     Price: $65.42 CAD
 - [Hogar Abstract Modern Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ut5812bg): Enhance your decor with the Hogar Abstract Grey Rug. Its textured geometric pattern adds style, while polypropylene and jute ensure lasting durability.
-  Updated: 2025-11-20T15:51:31Z
+  Updated: 2025-11-25T06:59:34Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13086,7 +13092,7 @@
     Availability: Available
     Price: $283.41 CAD
 - [Hogar Abstract Boho Brown Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ut9803bg): Add warmth with the Hogar Abstract Boho Brown Rug. Featuring a textured bohemian pattern, this loom-made Turkish rug offers style and lasting durability.
-  Updated: 2025-11-20T15:51:30Z
+  Updated: 2025-11-25T20:18:38Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13112,7 +13118,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/UT9803BG-Parent_1.jpg?v=1719364864
     Price: $283.41 CAD
 - [Nimbus Modern Geometric Cream Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/va1651wh): Upgrade your space with the Nimbus Geometric Cream Rug. Its subtle striped pattern adds style, while polypropylene and jute ensure lasting durability.
-  Updated: 2025-11-20T15:51:30Z
+  Updated: 2025-11-26T16:03:05Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13138,7 +13144,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/va1651wh-parent_1.jpg?v=1718122631
     Price: $305.32 CAD
 - [Nimbus Cream Rug - Abstract & Modern | Rug Branch](https://www.rugbranch.com/products/va2116gy): Enhance your space with the Nimbus Cream Rug. This loom-made polypropylene rug features a subtle abstract design, perfect for a modern, stylish look.
-  Updated: 2025-11-14T20:07:34Z
+  Updated: 2025-11-25T16:59:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13164,7 +13170,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/va2116gy811-parent_1.jpg?v=1718122646
     Price: $305.32 CAD
 - [Nimbus Floral Modern Cream Rug - Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/va2118wh): Enhance your space with the Nimbus Floral Cream Rug. Featuring a delicate leaf pattern, this loom-made Turkish rug offers style, comfort, and durability.
-  Updated: 2025-11-20T15:51:30Z
+  Updated: 2025-11-25T06:59:34Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13190,7 +13196,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/va2118wh811-parent_1.jpg?v=1718122660
     Price: $305.32 CAD
 - [Nimbus Geometric Modern Cream Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/va2142wh): Enhance your space with the Nimbus Geometric Cream Rug. Its bold geometric pattern adds style, while polypropylene and jute ensure lasting durability.
-  Updated: 2025-11-14T23:31:39Z
+  Updated: 2025-11-25T07:21:53Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13216,7 +13222,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/va2142wh811-parent_1.jpg?v=1718122673
     Price: $305.32 CAD
 - [Alfombra Geometric Grey Rug | Rug Branch](https://www.rugbranch.com/products/as1379gy): Enhance your space with the Alfombra Geometric Grey Rug. This loom-made Turkish rug features a sleek geometric pattern in grey and white. Stylish & durable.
-  Updated: 2025-11-14T21:48:22Z
+  Updated: 2025-11-25T20:23:23Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13230,7 +13236,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/alfombra-abstract-geometric-grey-rug-area-rugs-rugbranch-457616.jpg?v=1722306374
     Price: $240.31 CAD
 - [Abstract Modern Beige Rug - Stylish & Durable | Loom-Made](https://www.rugbranch.com/products/as1407bg): Enhance your space with the Abstract Modern Beige Rug from Turkey. Loom-made with 100% polypropylene and jute backing, featuring a chic geometric design.
-  Updated: 2025-11-11T20:18:21Z
+  Updated: 2025-11-25T20:21:17Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13242,7 +13248,7 @@
     Availability: Available
     Price: $240.31 CAD
 - [Striped Modern Cream Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/as1412cr): Upgrade your space with the Striped Modern Cream Rug from Turkey. Loom-made with 100% polypropylene and jute backing, featuring an elegant striped pattern.
-  Updated: 2025-11-14T21:48:22Z
+  Updated: 2025-11-25T20:23:48Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13256,7 +13262,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/alfombra-striped-modern-cream-rug-area-rugs-rugbranch-771056.jpg?v=1722306373
     Price: $240.31 CAD
 - [Outdoor & Indoor Modern Cream Rug – 5'x7' & 8'x10' | Alfombra Collection | Rug Branch](https://www.rugbranch.com/products/as1412gy): Upgrade your outdoor spaces with the Alfombra Modern Cream Rug by Rug Branch. Available in 5'x7' and 8'x10', this elegant, weather-resistant rug is perfect for patios, decks, and living rooms. Made from durable, machine-washable polypropylene, it's designed for high-traffic areas and easy maintenance. Available across the US and Canada with free shipping.
-  Updated: 2025-11-14T21:48:22Z
+  Updated: 2025-11-25T20:21:29Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13270,7 +13276,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/alfombra-modern-cream-rug-area-rugs-rugbranch-484625.jpg?v=1722306373
     Price: $240.31 CAD
 - [Abstract Modern Cream Rug - Geometric & Durable | Rug Branch](https://www.rugbranch.com/products/as1890cr): Enhance your decor with the Abstract Modern Cream Rug from Turkey. Loom-made with 100% polypropylene and jute backing, featuring a chic geometric pattern.
-  Updated: 2025-11-20T15:48:52Z
+  Updated: 2025-11-25T20:22:02Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13284,7 +13290,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/alfombra-abstract-modern-cream-rug-area-rugs-rugbranch-795452.jpg?v=1722306375
     Price: $240.31 CAD
 - [Vintage Floral Cream Rug - Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/as1902cr): Add timeless charm with the Vintage Floral Cream Rug from Turkey. Loom-made with 100% polypropylene and jute backing, featuring a delicate floral pattern in soft tones.
-  Updated: 2025-11-22T13:57:10Z
+  Updated: 2025-11-25T20:22:39Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13298,13 +13304,13 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/alfombra-vintage-floral-cream-rug-area-rugs-rugbranch-624964.jpg?v=1722306374
     Price: $240.31 CAD
 - [Soft Steps Airplane Rug - Playful & Soft | Rug Branch](https://www.rugbranch.com/products/da1104cr): Soft Steps Airplane Playmat, loom-made with soft polyester and canvas backing, featuring a playful airplane design for a comfy and adventurous play space.
-  Updated: 2025-11-23T18:40:55Z
+  Updated: 2025-11-25T22:22:00Z
   Vendor: Rug Branch
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1104CR-Parent_1_57c34a03-2034-4bda-b792-d1fe8b625b11.jpg?v=1719461449
   - [4' x 6'](https://www.rugbranch.com/products/da1104cr?variant=41453047087127)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1104CR-Parent_1_57c34a03-2034-4bda-b792-d1fe8b625b11.jpg?v=1719461449
     Price: $101.37 CAD
   - [5' x 8'](https://www.rugbranch.com/products/da1104cr?variant=41453047119895)
@@ -13320,7 +13326,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DA1104CR-Parent_1_57c34a03-2034-4bda-b792-d1fe8b625b11.jpg?v=1719461449
     Price: $359.46 CAD
 - [Majestic Persian Black Rug - Elegant & Timeless | Rug Branch](https://www.rugbranch.com/products/ja2222bk): Enhance your space with the Majestic Persian Black Rug. This loom-made Turkish rug features an intricate medallion design for a classic, elegant touch.
-  Updated: 2025-11-21T16:24:57Z
+  Updated: 2025-11-24T23:43:02Z
   Vendor: Rug Branch
   Product Type: 
   Availability: Available
@@ -13354,7 +13360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2222BKCR-Parent_R1_60a62ea5-aea7-4cea-afc7-c92b496f5a99.jpg?v=1763113294
     Price: $278.75 CAD
 - [Majestic Persian Green Rug - Elegant & Timeless | Rug Branch](https://www.rugbranch.com/products/ja2222gr): Elevate your space with the Majestic Persian Green Rug. This loom-made Turkish rug features an intricate medallion design for a classic, refined look.
-  Updated: 2025-11-21T16:24:56Z
+  Updated: 2025-11-25T16:59:06Z
   Vendor: Rug Branch
   Product Type: 
   Availability: Available
@@ -13387,4618 +13393,4586 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/JA2222GRCR-Parent_R1_7630e593-2056-47f8-bf20-23076e054ad2.jpg?v=1763113344
     Price: $281.15 CAD
-- [Super Soft Plush Shag Rug | Rug Branch](https://www.rugbranch.com/products/sssv): Super Soft Shag Rug by Rug Branch features luxurious classic solid designs in a plush and thick shag pile. Ideal to add comforting textures to urban, classic and modern decor.
-  Updated: 2025-11-12T17:24:15Z
-  Vendor: Rug Branch
-  Product Type: 
-  Availability: Available
-  - [3' x 5'](https://www.rugbranch.com/products/sssv?variant=41453151256599)
-    Availability: Not Available
-    Price: $37.83 CAD
-  - [4' x 6'](https://www.rugbranch.com/products/sssv?variant=41453151289367)
-    Availability: Available
-    Price: $49.74 CAD
 - [Desk Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110512): Introduce a unique, stylish piece to your home with the Desk Natural, an exceptional example of contemporary and stylish design. Made from high-quality rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:54:43Z
+  Updated: 2025-11-26T11:08:12Z
   Vendor: RBZO
   Product Type: Desks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110512_1.jpg?v=1757498068
   Price: $753.08 CAD
 - [Mirror Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110188): Introducing the Mirror, a stunning combination of natural elegance and contemporary and stylish design. Crafted with a solid wood frame, this mirror boasts an organic shape that adds a touch of nature-inspired beauty to any space. Its unique design effortlessly blends contemporary aesthetics with the warmth of solid wood, creating a captivating focal point. Whether it graces your living room, bedroom, or hallway, the mirror not only reflects your image but also mirrors your impeccable taste in decor. Elevate your space with this exquisite piece, where craftsmanship and contemporary style meet in perfect harmony.
-  Updated: 2025-11-19T09:54:44Z
+  Updated: 2025-11-26T11:08:14Z
   Vendor: RBZO
   Product Type: Mirrors
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/b63e7af014304c0591dd9d6fed150f7a6ef3123f.jpg?v=1757498069
   Price: $487.41 CAD
 - [Mirror White & Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110189): Meet the Mirror, a captivating fusion of contemporary style and craftsmanship. With its solid wood frame, this mirror showcases a contemporary and stylish, organic shape that adds a touch of natural beauty to your space. Its unique design effortlessly harmonizes contemporary and stylish aesthetics with the warmth of solid wood, making it a striking focal point. Whether it graces your living room, bedroom, or hallway, the mirror not only reflects your image but also mirrors your discerning taste in decor. Elevate your space with this exceptional piece, where contemporary style and artistry unite in perfect harmony.
-  Updated: 2025-11-19T09:54:45Z
+  Updated: 2025-11-26T11:08:15Z
   Vendor: RBZO
   Product Type: Mirrors
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/92ee196cc83291e4a27857825bdee07b5acdf0bf.jpg?v=1757498071
   Price: $269.09 CAD
 - [Mirror Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110307): Introducing the Mirror, a stunning addition to elevate the ambiance of any residential or hospitality space. Standing tall with a sleek wood frame, this mirror embodies contemporary and stylish design elements, seamlessly blending timeless elegance with contemporary flair. Whether gracing the walls of a stylish living room or enhancing the entrance of a boutique hotel, the mirror adds a touch of sophistication to any environment. Its versatile appeal makes it perfect for residential and hospitality settings, offering a chic focal point reflecting impeccable taste and style. Elevate your decor with the exquisite beauty of the mirror, where form meets function in perfect harmony.
-  Updated: 2025-11-19T09:54:47Z
+  Updated: 2025-11-26T11:08:16Z
   Vendor: RBZO
   Product Type: Mirrors
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110307_1.jpg?v=1757498073
   Price: $1,238.92 CAD
 - [Mirror Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110313): Presenting the Standing Mirror, a striking blend of contemporary design and enduring craftsmanship. With its distinguished wood frame, this mirror exudes timeless elegance and contemporary and stylish allure. Whether gracing the corner of a cozy residential bedroom or adorning the foyer of a luxury hotel, the mirror adds a touch of sophistication to any space. Its standing design offers versatility and convenience, allowing you to effortlessly enhance your reflection and your decor. Embrace the understated beauty and impeccable style of the Standing Mirror, a statement piece that reflects both refinement and practicality.
-  Updated: 2025-11-19T09:54:48Z
+  Updated: 2025-11-26T11:08:17Z
   Vendor: RBZO
   Product Type: Mirrors
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/218335e96086b8cc0ebd39ddd049fd5e5cf7b42e.jpg?v=1757498076
   Price: $1,228.42 CAD
 - [Mirror Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110316): Introducing the Mirror, a floor mirror designed to elevate any space. With its sleek steel frame and contemporary shape, it's a perfect addition for bedrooms, living rooms, or hotel entryways. This mirror effortlessly combines style and functionality, making it a versatile choice that enhances the aesthetics of any room. Elevate your decor with the mirror, where contemporary and stylish design meets practical elegance.
-  Updated: 2025-11-19T09:54:49Z
+  Updated: 2025-11-26T11:08:19Z
   Vendor: RBZO
   Product Type: Mirrors
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/3a5af97d973313203b6b1bf9cda8af1578fb5839.jpg?v=1757498079
   Price: $1,301.92 CAD
 - [Mirror Antique Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzoa12222): Industrial and urban, glam and chic, the Mirror has a painted steel frame and center mirror surrounded by a polyester rope-framed pattern. It looks good in any space as a decorative wall piece or a personal mirror.
-  Updated: 2025-11-19T09:54:50Z
+  Updated: 2025-11-26T11:08:20Z
   Vendor: RBZO
   Product Type: Mirrors
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZOA12222_1.jpg?v=1757498082
   Price: $288.86 CAD
 - [Bar Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109831): Introducing the bar table, a stylish and functional addition suitable for all your spaces: kitchen or bar area. This table offers the perfect combination of contemporary and stylish, and industrial style, adding an accent and charm to your dining room or bar. Its top floats gracefully on a pedestal that emerges from the floor, creating a unique visual appeal. With elegant colors, this table easily complements any piece of furniture in your home, making it a versatile and attractive choice for any room
-  Updated: 2025-11-19T09:54:56Z
+  Updated: 2025-11-26T11:08:25Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109831_1.jpg?v=1757498095
   Price: $619.29 CAD
 - [Bar Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109832): Introducing the bar table, a stylish and functional addition suitable for all your spaces: kitchen or bar area. This table offers the perfect combination of contemporary and stylish, and industrial style, adding an accent and charm to your dining room or bar. Its top floats gracefully on a pedestal that emerges from the floor, creating a unique visual appeal. With elegant colors, this table easily complements any piece of furniture in your home, making it a versatile and attractive choice for any room.
-  Updated: 2025-11-19T09:54:57Z
+  Updated: 2025-11-26T11:08:27Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/a05194225dc0328600dc49f92ffd1ca16ed44696.jpg?v=1757498098
   Price: $640.29 CAD
 - [Bar Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109833): Introducing the bar table, a stylish and functional addition suitable for all your spaces: kitchen or bar area. This table offers the perfect combination of contemporary and stylish, and industrial style, adding an accent and charm to your dining room or bar. Its top floats gracefully on a pedestal that emerges from the floor, creating a unique visual appeal. With elegant colors, this table easily complements any piece of furniture in your home, making it a versatile and attractive choice for any room
-  Updated: 2025-11-19T09:54:58Z
+  Updated: 2025-11-26T11:08:28Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/2c0e93d03b8d11b8c180455ebf5abe74d4f87362.jpg?v=1757498100
   Price: $619.29 CAD
 - [Bar Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110051): Versatile and adaptable, the bar table seamlessly transitions between hospitality and residential environments, becoming a focal point in any setting. Its captivating blend of mid-century contemporary and stylish and industrial design elements ensures it complements various interior styles, making it a versatile and inspired choice for any space.
-  Updated: 2025-11-19T09:55:00Z
+  Updated: 2025-11-26T11:08:29Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/7f8998cb899c35d1028b345d1df057dc7f3797b7.jpg?v=1757498106
   Price: $590.29 CAD
 - [Bar Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110089): Meet the Bar Table, a perfect union of style and strength. Designed with a high-pressure laminate top that emulates the luxurious look of marble and a solid wood base, this table radiates enduring charm. Whether it finds its place in a residential setting or adds character to a hospitality environment, the bar table seamlessly adapts to contemporary and stylish deco or glam designs. Versatile and chic, it's the ideal choice for those who appreciate a striking centerpiece that harmonizes with various styles. Elevate your space with the Bar Table, where elegance effortlessly coexists with resilience.
-  Updated: 2025-11-19T09:55:01Z
+  Updated: 2025-11-26T11:08:30Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110089_1.jpg?v=1757498108
   Price: $763.43 CAD
 - [Bar Table Beige & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110402): Introduce a unique, stylish piece to your home with the Bar Table Beige & Gold, an exceptional example of contemporary and stylish design. Made from high-quality MDF and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:55:02Z
+  Updated: 2025-11-26T11:08:31Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110402_1.jpg?v=1757498111
   Price: $744.13 CAD
 - [Bar Table Gray & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110404): Introduce a unique, stylish piece to your home with the Bar Table Gray & Bronze, an exceptional example of contemporary and stylish design. Made from high-quality MDF and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:55:03Z
+  Updated: 2025-11-26T11:08:32Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110404_1.jpg?v=1757498113
   Price: $744.13 CAD
 - [Bar Table Black & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110406): Introduce a unique, stylish piece to your home with the Bar Table Black & Bronze, an exceptional example of contemporary and stylish design. Made from high-quality MDF and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:55:04Z
+  Updated: 2025-11-26T11:08:33Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/9e661ace50359277e93ec54cdf4b87133a28ed98.jpg?v=1757498115
   Price: $744.13 CAD
 - [Bar Table Beige & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110408): Introduce a unique, stylish piece to your home with the Bar Table Beige & Gold, an exceptional example of contemporary and stylish design. Made from high-quality MDF and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:55:05Z
+  Updated: 2025-11-26T11:08:34Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110408_1.jpg?v=1757498117
   Price: $744.13 CAD
 - [Bar Table Gray & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110410): Introduce a unique, stylish piece to your home with the Bar Table Gray & Bronze, an exceptional example of contemporary and stylish design. Made from high-quality MDF and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:55:06Z
+  Updated: 2025-11-26T11:08:35Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110410_1.jpg?v=1757498119
   Price: $744.13 CAD
 - [Bar Table Black & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110412): Add a sleek and stylish touch to your home with the Bar Table in Black & Bronze, a stunning showcase of contemporary and stylish design. Constructed from high-quality MDF and steel, this table seamlessly combines aesthetics with functionality, offering a versatile option for any room. Its contemporary and elegant design ensures it will stand out as a striking addition to any contemporary and stylish space, providing both beauty and practicality.
-  Updated: 2025-11-19T09:55:07Z
+  Updated: 2025-11-26T11:08:36Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110412_1.jpg?v=1757498121
   Price: $744.13 CAD
 - [Counter Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110586): Introduce a unique, stylish piece to your home with the Counter Table White, an exceptional example of contemporary and stylish design. Made from high-quality rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:55:08Z
+  Updated: 2025-11-26T11:08:37Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/7ff573a663b0affaa4def455f2408d797512736f.jpg?v=1757498123
   Price: $1,112.92 CAD
 - [Counter Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110587): The Counter Table White is a contemporary and stylish masterpiece, designed for versatility and elegance. Made with premium rubberwood, it provides both aesthetic appeal and functionality, fitting seamlessly into a variety of spaces. Its chic, boho-inspired design makes it the perfect piece to elevate any room or any style.
-  Updated: 2025-11-19T09:55:08Z
+  Updated: 2025-11-26T11:08:38Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/54f0c20f7d7712c52c8af2fb54e828c52a77520e.jpg?v=1757498125
   Price: $805.50 CAD
 - [Counter Table Gray - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704101): The Counter Table in Graphite combines contemporary and stylish gn with natural elements. Crafted from terrazzo and acacia wood, this table is suitable for both hospitality and residential settings. Its urban style and unique texture make it a standout piece in any decor.
-  Updated: 2025-11-19T09:55:11Z
+  Updated: 2025-11-26T11:08:40Z
   Vendor: RBZO
   Product Type: Bar Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/uvcwt7vyezc6xyqyumnb.jpg?v=1757498132
   Price: $1,884.67 CAD
 - [Barstool (Set of 2) Brown & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101274): High design meets everyday casual. This handsome barstool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort curved seat is covered in brown faux leather with dramatic stitching. Brushed Stainless Steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:55:12Z
+  Updated: 2025-11-26T11:08:41Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO101274_1.jpg?v=1757498134
   Price: $1,118.69 CAD
 - [Barstool (Set of 2) White & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101275): High design meets everyday casual. This handsome barstool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort curved seat covered in white faux leather with dramatic stitching. Brushed Stainless Steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:55:13Z
+  Updated: 2025-11-26T11:08:42Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO101275_1.jpg?v=1757498137
   Price: $1,118.69 CAD
 - [Barstool (Set of 2) Black & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101276): High design meets everyday casual. This handsome barstool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort curved seat covered in black faux leather with dramatic stitching. Brushed Stainless Steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:55:14Z
+  Updated: 2025-11-26T11:08:43Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ac27c2d34cc9c09c9f43ed497fd161d28b688f09.jpg?v=1757498139
   Price: $1,118.69 CAD
 - [Barstool (Set of 2) Brown & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101277): High design meets everyday casual. This handsome barstool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort curved seat is covered in brown faux leather with dramatic stitching. Matte brown Faux Wood legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:55:15Z
+  Updated: 2025-11-26T11:08:44Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/6642c199358953f556096533410cea8ad2055156.jpg?v=1757498142
   Price: $1,076.69 CAD
 - [Barstool (Set of 2) White & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101278): High design meets everyday casual. This handsome barstool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort curved seat covered in white faux leather with dramatic stitching. Matte brown Faux Wood legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:55:17Z
+  Updated: 2025-11-26T11:08:45Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/e0976dbfc168117d17a64513c1e015983abe0b0d.jpg?v=1757498145
   Price: $1,076.69 CAD
 - [Barstool (Set of 2) White & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101283): Built for comfort, this ergonomic barstool is the perfect solution for your home or office space. A brushed Stainless Steel frame plays a supporting role while the built-in curved footrest keeps you firmly planted. The white faux leather seat deck is sleek and contemporary, and stylish, making this barstool the perfect complement to any room setting.
-  Updated: 2025-11-19T09:55:18Z
+  Updated: 2025-11-26T11:08:46Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/10ec88b9106ae34d0d78e894ef039d05c013819e.jpg?v=1757498153
   Price: $1,097.69 CAD
 - [Barstool (Set of 2) Black & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101284): Built for comfort, this ergonomic barstool is the perfect solution for your home or office space. A brushed Stainless Steel frame plays a supporting role while the built-in curved footrest keeps you firmly planted. The black faux leather seat deck is sleek and contemporary, and stylish, making this barstool the perfect complement to any room setting.
-  Updated: 2025-11-19T09:55:20Z
+  Updated: 2025-11-26T11:08:47Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/6706844eb35c9b826c808c698106458ab843d7d5.jpg?v=1757498155
   Price: $1,097.69 CAD
 - [Barstool (Set of 2) Light Pink & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101285): Built for comfort, this ergonomic barstool is the perfect solution for your home or office space. A brushed Stainless Steel frame plays a supporting role while the built-in curved footrest keeps you firmly planted. The pink faux leather seat deck is sleek and contemporary, and stylish, making this barstool the perfect complement to any room setting.
-  Updated: 2025-11-19T09:55:21Z
+  Updated: 2025-11-26T11:08:48Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/57f855bcad357f6276cf3e0705317875d6ac4e06.jpg?v=1757498158
   Price: $1,097.69 CAD
-- [Barstool (Set of 2) Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101697): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering, a sturdy steel frame, and finished legs in walnut heat-transfer vinyl wrapped, dining area, or bar.
-  Updated: 2025-11-19T09:55:24Z
-  Vendor: RBZO
-  Product Type: Barstools
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/5377a109e0df505c7d56132605c45637f4be5e7b.jpg?v=1757498161
-  Price: $1,053.23 CAD
 - [Barstool (Set of 2) Azure Gray & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101698): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering, a sturdy steel frame, and finished legs in walnut heat-transfer vinyl wrapped, dining area, or bar.
-  Updated: 2025-11-19T09:55:25Z
+  Updated: 2025-11-26T11:08:51Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/9b954719d2852422d07d56140b94d1519dda9602.jpg?v=1757498164
   Price: $1,053.23 CAD
 - [Barstool (Set of 2) Beige & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101699): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering and a sturdy steel frame, and finished legs in walnut heat-transfer vinyl wrapped, dining area, or bar.
-  Updated: 2025-11-19T09:55:28Z
+  Updated: 2025-11-26T11:08:53Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/1c2bd43700670a665a003142f5bb9a2d576725c2.jpg?v=1757498166
   Price: $1,053.23 CAD
 - [Barstool Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101771): The barstool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this barstool fits in any home kitchen, dining area, or bar. The legs are finished in a matte black coating that is long-lasting and reliable for hospital use.
-  Updated: 2025-11-19T09:55:29Z
+  Updated: 2025-11-26T11:08:54Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/c715625a119a1680627d53a86e706003bcc71821_c9151239-1456-454f-a896-4a32a911f69d.jpg?v=1757498168
   Price: $430.75 CAD
 - [Barstool Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101772): The barstool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this barstool fits in any home kitchen, dining area, or bar. The legs are finished in a matte black coating that is long-lasting and reliable for hospital use.
-  Updated: 2025-11-19T09:55:30Z
+  Updated: 2025-11-26T11:08:54Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/4cae98a79d326c09962fe02ec29e46615bac232b.jpg?v=1757498170
   Price: $430.75 CAD
 - [Barstool White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101773): The barstool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this barstool fits in any home kitchen, dining area, or bar. The legs are finished in a matte black coating that is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:55:31Z
+  Updated: 2025-11-26T11:08:55Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/6ed02a9c4e50a09340e5f1cff5fb6b960e269657.jpg?v=1757498172
   Price: $399.25 CAD
 - [Barstool (Set of 2) White & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109070): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering, a sturdy steel frame, and finished legs in walnut heat-transfer vinyl wrapped, dining area, or bar.
-  Updated: 2025-11-19T09:55:33Z
+  Updated: 2025-11-26T11:08:57Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/79a362f53eab0b0a55c62ff32b43db8c18224bd2.jpg?v=1757498175
   Price: $1,053.23 CAD
 - [Barstool (Set of 2) Dark Gray & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109389): Built for comfort, this ergonomic barstool is the perfect solution for your home or office space. A faux wood frame in walnut brown plays a supporting role while the built-in curved footrest keeps you firmly planted. The gray faux leather seat deck is sleek and contemporary and stylish, making this barstool the perfect complement to any room setting.
-  Updated: 2025-11-19T09:55:37Z
+  Updated: 2025-11-26T11:09:00Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109389_1.jpg?v=1757498179
   Price: $1,055.69 CAD
 - [Barstool (Set of 2) Dark Gray & Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109391): High design meets everyday casual. This handsome barstool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort. The curved seat is covered in dark gray faux leather with dramatic stitching. Matte black stainless steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:55:38Z
+  Updated: 2025-11-26T11:09:01Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109391_1.jpg?v=1757498182
   Price: $1,076.69 CAD
 - [Barstool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109540): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering and a sturdy steel frame and finished legs in a black matte finish that fits in any home kitchen, dining area, or bar.
-  Updated: 2025-11-19T09:55:39Z
+  Updated: 2025-11-26T11:09:02Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/6b95a851cec79a07d693ef4bfa83f00fd70c6237.jpg?v=1757498184
   Price: $1,053.23 CAD
 - [Barstool (Set of 2) White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109541): This barstool chair has mid-century contemporary and stylish urban lines and looks great in any space, with heavy-duty vinyl covering a sturdy steel frame and finished legs in black powder-coated steel that can fit in any home kitchen, dining area, or bar.
-  Updated: 2025-11-19T09:55:40Z
+  Updated: 2025-11-26T11:09:04Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109541_1.jpg?v=1757498186
   Price: $1,053.23 CAD
 - [Barstool (Set of 2) Azure Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109542): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with heavy-duty vinyl covering a sturdy steel frame and finished legs in black powder-coated steel that can fit in any home kitchen, dining area, or bar.
-  Updated: 2025-11-19T09:55:41Z
+  Updated: 2025-11-26T11:09:05Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109542_1.jpg?v=1757498188
   Price: $1,053.23 CAD
 - [Barstool (Set of 2) Black & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109555): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering and a sturdy steel frame and finished legs in a gold semi-gloss finish that can fit in any home kitchen, dining area, or bar.
-  Updated: 2025-11-19T09:55:42Z
+  Updated: 2025-11-26T11:09:06Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109555_1.jpg?v=1757498190
   Price: $1,179.23 CAD
 - [Barstool (Set of 2) White & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109556): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering and a sturdy steel frame and finished legs in a gold semi-gloss finish that can fit in any home kitchen, dining area, or bar.
-  Updated: 2025-11-19T09:55:43Z
+  Updated: 2025-11-26T11:09:07Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/a38064b1a4d373ebef9249f9a7fe6e051e9557f8.jpg?v=1757498192
   Price: $1,179.23 CAD
 - [Barstool (Set of 2) Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109667): This barstool has a beautifully wrapped seat and back with a fine frame. This chair combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality.
-  Updated: 2025-11-19T09:55:45Z
+  Updated: 2025-11-26T11:09:09Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109667_1.jpg?v=1757498197
   Price: $1,261.45 CAD
 - [Barstool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109668): This barstool has a beautifully wrapped seat and back with a fine frame. This chair combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality.
-  Updated: 2025-11-19T09:55:46Z
+  Updated: 2025-11-26T11:09:10Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109668_1.jpg?v=1757498200
   Price: $1,261.45 CAD
 - [Barstool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109674): This barstool has a beautifully wrapped seat and back with a fine frame. This chair combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality.
-  Updated: 2025-11-19T09:55:48Z
+  Updated: 2025-11-26T11:09:11Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109674_1.jpg?v=1757498207
   Price: $1,135.76 CAD
 - [Barstool (Set of 2) Brown & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109734): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering and a sturdy steel frame, and finished legs in walnut heat-transfer vinyl wrap that can fit in any home kitchen, dining area, or bar.
-  Updated: 2025-11-19T09:55:49Z
+  Updated: 2025-11-26T11:09:12Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109734_1.jpg?v=1757498209
   Price: $1,053.23 CAD
 - [Barstool (Set of 2) Beige & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109735): This barstool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering and a sturdy steel frame, and finished legs in a gold semi-gloss finish frame that fits in any home kitchen, dining area, or bar.
-  Updated: 2025-11-19T09:55:50Z
+  Updated: 2025-11-26T11:09:13Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109735_1.jpg?v=1757498211
   Price: $1,179.23 CAD
 - [Barstool (Set of 2) Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109740): The Barstool is a contemporary and stylish seating option that boasts an ivory polyester seat and a black steel frame. Its sleek and sophisticated design makes it a perfect addition to any contemporary and stylish hotel bar, home kitchen, or bar area.
-  Updated: 2025-11-19T09:55:51Z
+  Updated: 2025-11-26T11:09:15Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109740_1.jpg?v=1757498214
   Price: $474.73 CAD
 - [Barstool (Set of 2) Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109782): With its unique fusion of deco, glam, and contemporary and stylish minimalist design elements, the Barstool stands out as a true work of art. Its sleek lines and exquisite finishes exude an aura of timeless elegance, making it a seamless fit for a wide range of environments - from high-end restaurants and hotels to chic contemporary homes. When not in use, simply stack these elegant stools away to create more space, and when your guests arrive, bring them out to impress and delight.
-  Updated: 2025-11-19T09:55:53Z
+  Updated: 2025-11-26T11:09:17Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/c2a55f2b8589440df2a159dd6fb64a318e9e5932.jpg?v=1757498217
   Price: $868.62 CAD
 - [Barstool (Set of 2) Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109783): With its unique fusion of deco, glam, and contemporary and stylish minimalist design elements, the Barstool stands out as a true work of art. Its sleek lines and exquisite finishes exude an aura of timeless elegance, making it a seamless fit for a wide range of environments - from high-end restaurants and hotels to chic contemporary homes. When not in use, simply stack these elegant stools away to create more space, and when your guests arrive, bring them out to impress and delight.
-  Updated: 2025-11-19T09:55:54Z
+  Updated: 2025-11-26T11:09:18Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/2772851e3d2036a624728d8728abefc61e40d3c8.jpg?v=1757498220
   Price: $868.62 CAD
 - [Barstool (Set of 2) Green & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109806): Introducing the Bar Stool: where sophistication seamlessly melds with practicality. This exquisite stool boasts a lavish velvet seat, elegantly paired with a robust gold electroplated steel frame. Crafted for versatility, it's stackable for space-efficient storage and effortlessly complements both contemporary and stylish and classic settings. Your home decor with this perfect fusion of opulence and functionality, ensuring stylish comfort for your bar area. Redefine your seating experience with the bar stool today.
-  Updated: 2025-11-19T09:55:56Z
+  Updated: 2025-11-26T11:09:19Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109806_1.jpg?v=1757498222
   Price: $1,110.10 CAD
 - [Barstool Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109808): Experience unmatched comfort and style with the Barstool. Wrapped in sumptuous teddy fabric and supported by a sleek black steel frame, this barstool exudes both contemporary and stylish flair and timeless elegance. Its larger, comfy design ensures you can sit back and relax in any room, while its versatile aesthetic seamlessly complements both deco and contemporary and stylish interiors. Upgrade your seating experience with the Barstool, where luxury and versatility meet in perfect harmony.
-  Updated: 2025-11-19T09:55:58Z
+  Updated: 2025-11-26T11:09:20Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109808_1.jpg?v=1757498224
   Price: $734.24 CAD
 - [Barstool Black & Bronze - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109810): Experience unmatched comfort and style with the Barstool. Wrapped in sumptuous teddy fabric and supported by a sleek black steel frame, this barstool exudes both contemporary and stylish flair and timeless elegance. Its larger, comfy design ensures you can sit back and relax in any room, while its versatile aesthetic seamlessly complements both deco and contemporary and stylish interiors. Upgrade your seating experience with the Barstool, where luxury and versatility meet in perfect harmony.
-  Updated: 2025-11-19T09:55:59Z
+  Updated: 2025-11-26T11:09:20Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109810_1.jpg?v=1757498227
   Price: $755.24 CAD
 - [Barstool (Set of 2) Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109937): High design meets everyday casual. This handsome barstool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort with a curved seat covered in black faux leather with dramatic stitching. Matte brown faux wood legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:56:04Z
+  Updated: 2025-11-26T11:09:23Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109937_1.jpg?v=1757498232
   Price: $1,118.69 CAD
 - [Barstool (Set of 2) Slate Gray & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109938): High design meets everyday casual. This handsome barstool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort; the curved seat is covered in slate gray faux leather with dramatic stitching. Matte brown faux wood legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:56:06Z
+  Updated: 2025-11-26T11:09:24Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109938_1.jpg?v=1757498234
   Price: $1,118.69 CAD
 - [Barstool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109947): Introducing the Barstool, a masterpiece of contemporary and stylish art deco design. With a long-lasting and reliable vinyl seat and sturdy steel frame, this stool effortlessly complements any interior, whether it's a trendy hotel bar area or an elegant home setting. The bar stool exudes a harmonious blend of comfort and style, making it an inviting addition to any bar space. Embrace the timeless allure of its sleek design while relishing its long-lasting and reliable construction, promising a lasting and sophisticated seating solution for hotels and homes alike.
-  Updated: 2025-11-19T09:56:07Z
+  Updated: 2025-11-26T11:09:25Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109947_1.jpg?v=1757498236
   Price: $945.94 CAD
 - [Barstool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109950): Experience the bar stool—a flawless fusion of contemporary and stylish Art Deco design. Featuring a long-lasting and reliable vinyl seat and sturdy steel frame, this stool seamlessly complements any interior, whether a trendy hotel bar area or an elegant home setting. With its harmonious blend of comfort and style, the bar stool invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your space with the unmatched allure of the bar stool today.
-  Updated: 2025-11-19T09:56:08Z
+  Updated: 2025-11-26T11:09:26Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109950_1.jpg?v=1757498244
   Price: $826.54 CAD
 - [Barstool (Set of 2) Green & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109961): The Barstool seat and back are crafted with a sculpted design for comfort. It's upholstered in a soft 100% polyurethane fabric, with a slim-profile metal base and two crossbars for stability. The frame has a powder-coated steel finish for universal appeal.
-  Updated: 2025-11-19T09:56:09Z
+  Updated: 2025-11-26T11:09:28Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109961_1.jpg?v=1757498247
   Price: $720.19 CAD
 - [Swivel Barstool Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109974): The barstool is a wonderfully versatile and contemporary and stylish piece that works in any kitchen or workspace with its sleek design and functionally swivel seating. It is durably constructed with quality vinyl and a sturdy powder-coated steel frame. This piece brings glam and Art Deco design to any space.
-  Updated: 2025-11-19T09:56:10Z
+  Updated: 2025-11-26T11:09:29Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109974_1.jpg?v=1757498249
   Price: $735.63 CAD
 - [Swivel Barstool Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110044): Redesign your seating experience with the enchanting allure of the swivel barstool. This extraordinary Barstool combines durability, comfort, and unparalleled style, making it a remarkable statement piece that adds a touch of grandeur and contemporary and stylish luxury to any environment. Embrace the seamless fusion of deco, glam, and contemporary and stylish design embodied in the Swivel, and let it become the centerpiece of your space today.
-  Updated: 2025-11-19T09:56:14Z
+  Updated: 2025-11-26T11:09:33Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110044_1.jpg?v=1757498255
   Price: $715.43 CAD
 - [Swivel Barstool Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110045): Unleash the epitome of style and comfort with the Swivel Barstool, a masterpiece that effortlessly combines deco, glam, and contemporary and stylish design elements. Featuring a sleek brushed steel frame and a luxurious vinyl seat and back, this swivel chair exudes opulence and sophistication, making it a captivating addition to any hospitality or residential setting. Get ready to redefine your seating experience with the Swivel, where elegance and functionality come together in perfect harmony.
-  Updated: 2025-11-19T09:56:15Z
+  Updated: 2025-11-26T11:09:35Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110045_1.jpg?v=1757498258
   Price: $728.72 CAD
 - [Swivel Barstool White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110046): Introducing the Swivel Barstool: deco glam and modern design in a brushed steel frame with a vinyl seat and back. Ideal for hospitality or residential use, offering durability, elegance, and superior comfort. Elevates any space with this captivating statement piece.
-  Updated: 2025-11-19T09:56:16Z
+  Updated: 2025-11-26T11:09:38Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110046_1.jpg?v=1757498260
   Price: $704.63 CAD
 - [Barstool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110063): Introducing the Barstool, a masterpiece of contemporary and stylish art deco design. With a long-lasting and reliable vinyl seat and sturdy steel frame, this stool effortlessly complements any interior, whether it's a trendy hotel dining area or an elegant home setting. The bar stool exudes a harmonious blend of comfort and style, making it an inviting addition to any space. Embrace the timeless allure of its sleek design while relishing its long-lasting and reliable construction, promising a lasting and sophisticated seating solution for hotels and homes alike.
-  Updated: 2025-11-19T09:56:17Z
+  Updated: 2025-11-26T11:09:39Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110063_1.jpg?v=1757498263
   Price: $945.94 CAD
 - [Barstool (Set of 2) Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110066): Introducing the Barstool, a contemporary and stylish Art Deco masterpiece. Its poly linen seat and robust steel frame elegantly complement any interior, from trendy hotel bar areas to elegant homes. With a harmonious blend of comfort and style, the bar stool is an inviting addition to any space. Embrace its timeless allure and long-lasting and reliable construction for lasting sophistication.
-  Updated: 2025-11-19T09:56:18Z
+  Updated: 2025-11-26T11:09:40Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110066_1.jpg?v=1757498265
   Price: $945.94 CAD
 - [Barstool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110069): Experience the bar stool—a flawless fusion of contemporary and stylish Art Deco design. Featuring a long-lasting and reliable vinyl seat and sturdy steel frame, this stool seamlessly complements any interior, whether it's a trendy hotel bar area or an elegant home setting. With its harmonious blend of comfort and style, the bar stool invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your space with the unmatched allure of the bar stool today.
-  Updated: 2025-11-19T09:56:19Z
+  Updated: 2025-11-26T11:09:41Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110069_1.jpg?v=1757498267
   Price: $826.54 CAD
 - [Barstool (Set of 2) Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110072): Experience the Counter Stool, a flawless fusion of contemporary and stylish Art Deco design. Featuring a long-lasting and reliable ester seat and sturdy steel frame, this stool seamlessly complements any interior, whether it's a trendy hotel counter area or an elegant home setting. With its harmonious blend of comfort and style, the counter stool invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your space with the unmatched allure of the counter stool today.
-  Updated: 2025-11-19T09:56:20Z
+  Updated: 2025-11-26T11:09:42Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110072_1.jpg?v=1757498270
   Price: $805.54 CAD
 - [Barstool (Set of 2) Beige Tweed - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110097): Introducing the Barstool, a sleek, long-lasting, and reliable addition to any contemporary and stylish kitchen or bar area. Crafted for both style and functionality, this barstool is suitable for both residential and commercial settings. It boasts a sturdy steel frame, providing a robust and contemporary foundation. The seat is upholstered in high-quality performance fabric, offering both comfort and resilience against daily wear and tear. The combination of the steel frame and performance fabric makes the Barstool an ideal choice for bustling spaces, ensuring it remains a stylish and ergonomically designed seating option for superior comfort for years to come. Whether you're enjoying drinks at the bar or hosting a lively gathering, the Barstool adds contemporary and stylish elegance and practicality to your space.
-  Updated: 2025-11-19T09:56:21Z
+  Updated: 2025-11-26T11:09:43Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110097_1.jpg?v=1757498272
   Price: $812.72 CAD
 - [Barstool Green Tweed - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110100): Introducing the Barstool, a versatile and stylish addition to your kitchen or bar area. This barstool is designed to enhance both contemporary and stylish and traditional settings, whether in residential or hospitality spaces. With meticulous craftsmanship, the Barstool offers an ergonomically designed seat atop a sturdy frame for superior comfort. Its effortless design complements a range of interior styles, making it the perfect choice for those who appreciate both aesthetics and functionality. Elevate your seating experience with the Barstool, where style and comfort come together to create a sophisticated atmosphere in your space.
-  Updated: 2025-11-19T09:56:22Z
+  Updated: 2025-11-26T11:09:43Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110100_1.jpg?v=1757498274
   Price: $648.14 CAD
 - [Barstool Slate Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110169): Meet the Barstool, a flawless fusion of strength and elegance. Designed with a sturdy steel frame and encased in long-lasting and reliable vinyl, it harmonizes effortlessly with any environment, from hospitality venues to residential spaces. With its contemporary design and practicality, this barstool brings a welcoming charm to your interior. Redefine your experience with the Barstool, where durability and sophistication seamlessly intertwine.
-  Updated: 2025-11-19T09:56:23Z
+  Updated: 2025-11-26T11:09:44Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110169_1.jpg?v=1757498276
   Price: $1,193.24 CAD
 - [Barstool Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110170): Meet the Barstool, a flawless fusion of strength and elegance. Designed with a sturdy steel frame and encased in long-lasting and reliable vinyl, it harmonizes effortlessly with any environment, from hospitality venues to residential spaces. With its contemporary design and practicality, this barstool brings a welcoming charm to your interior. Redefine your experience with the Barstool, where durability and sophistication seamlessly intertwine.
-  Updated: 2025-11-19T09:56:24Z
+  Updated: 2025-11-26T11:09:45Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/5f1b6b2b1436671def2da5070f80b28f1fa03edb.jpg?v=1757498279
   Price: $1,256.24 CAD
 - [Barstool Slate Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110173): Meet the Barstool, where durability and style unite seamlessly. Designed with a sturdy steel frame and upholstered in resilient vinyl, it effortlessly complements any setting, whether it's a vibrant bar or a cozy home kitchen. With its contemporary and stylish design and practicality, this barstool adds an appealing touch to your interior. Elevate your seating experience with the Barstool, where resilience and sophistication harmoniously come together.
-  Updated: 2025-11-19T09:56:25Z
+  Updated: 2025-11-26T11:09:46Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110173_1.jpg?v=1757498281
   Price: $1,109.18 CAD
 - [Barstool Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110174): Meet the Barstool, where durability and style unite seamlessly. Designed with a sturdy steel frame and upholstered in resilient vinyl, it effortlessly complements any setting, whether it's a vibrant bar or a cozy home kitchen. With its contemporary and stylish design and practicality, this barstool adds an appealing touch to your interior. Elevate your seating experience with the Barstool, where resilience and sophistication harmoniously come together.
-  Updated: 2025-11-19T09:56:26Z
+  Updated: 2025-11-26T11:09:47Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110174_1.jpg?v=1757498284
   Price: $1,151.18 CAD
 - [Barstool Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110177): Introducing the Barstool, a seamless fusion of durability and style. Designed with a sturdy steel frame and upholstered in resilient vinyl, it effortlessly complements any bar setting, whether it's a bustling nightlife decor or your home kitchen counter. With its contemporary and stylish design and practicality, this barstool elevates your seating experience with ease. Experience elevated comfort and style with the Gartson Barstool, where resilience and sophistication unite effortlessly.
-  Updated: 2025-11-19T09:56:27Z
+  Updated: 2025-11-26T11:09:48Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110177_1.jpg?v=1757498286
   Price: $751.63 CAD
 - [Barstool (Set of 2) Vintage Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110261): Comfy and Bauhaus, the barstool has a steel frame with powder-coated steel legs and is wrapped in vinyl. This chair completes any dining room, bar, or kitchen in any design, contemporary and stylish, minimal or boho industrial.
-  Updated: 2025-11-19T09:56:29Z
+  Updated: 2025-11-26T11:09:50Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110261_1.jpg?v=1757498290
   Price: $843.23 CAD
 - [Swivel Barstool Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110273): Discover the Nord Swivel Barstool, a sleek blend of practicality and contemporary and stylish design. Perfect for contemporary settings, this barstool boasts a swivel feature for enhanced functionality. Its standout forged-look steel frame not only adds an industrial edge but also promises durability. Ideal for both residential and commercial spaces, the Nord Swivel Barstool offers both comfort and style, making it a superb choice for any contemporary and stylish bar or kitchen area.
-  Updated: 2025-11-19T09:56:31Z
+  Updated: 2025-11-26T11:09:52Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110273_1.jpg?v=1757498293
   Price: $1,181.25 CAD
 - [Barstool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110285): The Barstool boasts a sturdy steel base and a seat wrapped in your choice of vinyl or fabric. With its adjustable height and swivel function, this barstool offers comfort and versatility. Whether for your home bar or a commercial setting, it brings both style and practicality. Embrace its contemporary and stylish design and premium materials for an elevated seating experience.
-  Updated: 2025-11-19T09:56:32Z
+  Updated: 2025-11-26T11:09:53Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110285_1.jpg?v=1757498295
   Price: $687.83 CAD
 - [Barstool (Set of 2) White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110286): The Barstool boasts a sturdy steel base and a seat wrapped in your choice of vinyl or fabric. With its adjustable height and swivel function, this barstool offers comfort and versatility. Whether for your home bar or a commercial setting, it brings both style and practicality. Embrace its contemporary and stylish design and premium materials for an elevated seating experience.
-  Updated: 2025-11-19T09:56:33Z
+  Updated: 2025-11-26T11:09:54Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110286_1.jpg?v=1757498297
   Price: $750.83 CAD
 - [Barstool Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110305): The barstool boasts a robust steel base and a seat wrapped in vinyl, offering both durability and style. Its adjustable height and swivel function ensure versatility and comfort, making it perfect for various settings. Whether adorning your home bar or enhancing a commercial space, this barstool combines contemporary and stylish design with practicality. Embrace its sleek appearance and premium materials for an elevated seating experience in any environment.
-  Updated: 2025-11-19T09:56:34Z
+  Updated: 2025-11-26T11:09:55Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110305_1.jpg?v=1757498299
   Price: $607.13 CAD
 - [Barstool (Set of 2) Taupe & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110330): Introducing the Barstool, where style and comfort unite to elevate your bar or counter seating experience. This barstool boasts a plush fabric covering and a sleek steel frame, accented by a faux wood laminate for added warmth. Its elegant design is both practical and visually appealing, making it an ideal choice for daily use. Transform your bar area with the Barstool, a striking blend of contemporary and stylish sophistication and inviting comfort.
-  Updated: 2025-11-19T09:56:37Z
+  Updated: 2025-11-26T11:09:58Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110330_1.jpg?v=1757498303
   Price: $954.18 CAD
 - [Swivel Barstool Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110332): Redesign your seating experience with the enchanting allure of the swivel barstool. This extraordinary Barstool combines durability, comfort, and unparalleled style, making it a remarkable statement piece that adds a touch of grandeur and contemporary and stylish luxury to any environment. Embrace the seamless fusion of deco, glam, and contemporary and stylish design embodied in the Swivel, and let it become the centerpiece of your space today
-  Updated: 2025-11-19T09:56:38Z
+  Updated: 2025-11-26T11:09:58Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110332_1.jpg?v=1757498305
   Price: $782.42 CAD
 - [Barstool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110338): Introduce a touch of sophistication to your bar area with the barstool. Designed with a long-lasting and reliable vinyl seat and back and supported by a sleek steel frame, this barstool showcases contemporary elegance. Its versatile style is a perfect match for contemporary and stylish, deco, or glam bars, ideal for both home and commercial settings. The Barstool is the epitome of chic functionality, offering comfort and style in a design that enhances any bar atmosphere.
-  Updated: 2025-11-19T09:56:39Z
+  Updated: 2025-11-26T11:09:59Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110338_1.jpg?v=1757498307
   Price: $1,481.07 CAD
 - [Barstool (Set of 2) Dove Gray & Espresso - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110400): The bar stool boasts a robust rubberwood frame paired with a plush fabric seat. Ideal for contemporary or urban design spaces, it effortlessly integrates into both residential and hospitality settings. With its chic and sophisticated design, the counter stool enhances any counter area with a touch of elegance and comfort.
-  Updated: 2025-11-19T09:56:40Z
+  Updated: 2025-11-26T11:10:00Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110400_1.jpg?v=1757498309
   Price: $1,017.32 CAD
 - [Barstool (Set of 2) Gray & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110494): Introduce a unique, stylish piece to your home with the Barstool Gray & Walnut, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric and rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:56:41Z
+  Updated: 2025-11-26T11:10:01Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ac30bc51fd6b30082486ec08f141ed47e255baca.jpg?v=1757498313
   Price: $868.58 CAD
 - [Barstool (Set of 2) Gray & Espresso - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110515): Introduce a unique, stylish piece to your home with the Barstool Gray & Espresso, an exceptional example of contemporary and stylish design. Made from high-quality ester fabric and rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:56:41Z
+  Updated: 2025-11-26T11:10:02Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/0661763b4e0c716eb8cdf101cb304309335d65c5.jpg?v=1757498316
   Price: $893.63 CAD
 - [Barstool Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110568): Introduce a unique, stylish piece to your home with the Barstool Brown, an exceptional example of contemporary and stylish design. Made from high-quality vinyl, plywood, and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:56:42Z
+  Updated: 2025-11-26T11:10:02Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/9b55d8a770cabf4f2df999e9f2e94526059d50fd.jpg?v=1757498318
   Price: $493.77 CAD
 - [Barstool Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110569): Add a stylish and unique touch to your home with the Barstool in Gray, a superb example of contemporary and stylish design. Crafted from high-quality vinyl, plywood, and steel, this barstool combines aesthetics and practicality, making it a versatile choice for any space. Its sleek, contemporary design ensures it stands out as a chic addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:56:43Z
+  Updated: 2025-11-26T11:10:03Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/1c4ce4ac4ede6b1fdd7cfc8b22505d1b0a065952.jpg?v=1757498320
   Price: $493.77 CAD
 - [Barstool Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110647): Enhance your home with the Barstool in Beige, a superb blend of contemporary and stylish design and functionality. Crafted from high-quality ester fabric, plywood, and solid ash wood, this barstool achieves the perfect balance of aesthetics and practicality. Its sleek, contemporary design makes it a versatile and standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:56:43Z
+  Updated: 2025-11-26T11:10:04Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110647_1.jpg?v=1757498322
   Price: $1,307.17 CAD
 - [Swivel Barstool Beige & Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110821): The Swivel Barstool Beige & Brown makes a bold statement. This contemporary and stylish piece boasts a beige & brown finish. Constructed from textured fabric of 100% polyester and powder-coated steel, it guarantees durability. Whether in a home or a hospitality setting, the Swivel Barstool Beige & Brown excels in functionality and design. Experience elegance and function with the Swivel Barstool Beige & Brown.
-  Updated: 2025-11-19T09:56:44Z
+  Updated: 2025-11-26T11:10:05Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/2777bdd82c05d9e5180b5547e69fa845202e3e08.jpg?v=1757498323
   Price: $1,127.68 CAD
 - [Barstool (Set of 2) Taupe & Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110824): The Barstool Taupe & Brown makes a bold statement. This contemporary and stylish piece boasts a taupe & brown finish. Built to last, its faux leather 100% polyurethane, powder-coated steel composition enhances its appeal. Whether in a home or a hospitality setting, the Barstool Taupe & Brown excels in functionality and design. Add these stunning barstools to your collection today.
-  Updated: 2025-11-19T09:56:45Z
+  Updated: 2025-11-26T11:10:05Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/aa8a9271da5d049edb7502c1532312b3d7ab1f31.jpg?v=1757498324
   Price: $972.11 CAD
 - [Queen Bed Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110663): Introduce a unique, stylish piece to your home with the Queen Bed Ivory, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, rubberwood, MDF, and plywood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:56:48Z
+  Updated: 2025-11-26T11:10:09Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/q19fg4l74zwbmme46nbk.jpg?v=1757498327
   Price: $1,449.00 CAD
 - [King Bed Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110664): Your bedroom with the king bed in ivory is a stunning example of contemporary and stylish design. Crafted from high-quality polyester fabric, rubberwood, MDF, and plywood, this bed seamlessly combines aesthetics and practicality. Its versatile design makes it an ideal fit for any space, while its chic, contemporary style ensures it stands out as a striking addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:56:49Z
+  Updated: 2025-11-26T11:10:10Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/pb0sbpxyjo5gevlctcfv.jpg?v=1757498329
   Price: $1,653.75 CAD
 - [Queen Bed Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110666): Introduce a unique, stylish piece to your home with the Queen Bed Black, an exceptional example of contemporary and stylish design. Made from high-quality vinyl, rubberwood, MDF, and plywood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:56:50Z
+  Updated: 2025-11-26T11:10:11Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/gxhxgl38j2ouwevnmao9.jpg?v=1757498332
   Price: $1,197.00 CAD
 - [King Bed Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110667): Bring a distinctive, stylish touch to your bedroom with the King Bed in Black, a perfect showcase of contemporary and stylish design. Made from premium vinyl, rubberwood, MDF, and plywood, this bed offers the ideal blend of aesthetics and practicality. Its versatile design ensures it fits seamlessly into any space, while its sleek, contemporary style makes it a standout feature in any contemporary and stylish home.
-  Updated: 2025-11-19T09:56:52Z
+  Updated: 2025-11-26T11:10:13Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/wt8l5sqoyxyipxtb6gvl.jpg?v=1757498334
   Price: $1,449.00 CAD
 - [Queen Bed Beige & Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110670): Introduce a unique, stylish piece to your home with the Queen Bed Beige, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, MDF, and plywood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:56:53Z
+  Updated: 2025-11-26T11:10:14Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/giyr36fybj8hjx1835jr.jpg?v=1757498336
   Price: $2,001.64 CAD
 - [King Bed Beige & Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110671): Enhance your bedroom with the King Bed in Beige, a remarkable representation of contemporary and stylish design. Constructed from premium polyester fabric, MDF, and plywood, this bed offers the perfect fusion of style and practicality. Its versatile design makes it a great fit for any space, while its chic, contemporary look ensures it stands out as a striking addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:56:54Z
+  Updated: 2025-11-26T11:10:15Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/nijn3siqlfame9olmcuz.jpg?v=1757498337
   Price: $1,622.25 CAD
 - [Queen Bed Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110711): The queen bed in black brings a distinctive, stylish touch to your home, showcasing contemporary and stylish design at its finest. Crafted from high-quality POLYester fabric, rubberwood, MDF, plywood, and polypropylene, this bed perfectly blends aesthetics with functionality. Its versatile design ensures it fits effortlessly into any space, while its sleek, contemporary look makes it a standout feature in any contemporary and stylish home.
-  Updated: 2025-11-19T09:56:55Z
+  Updated: 2025-11-26T11:10:16Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110711_1.jpg?v=1757498339
   Price: $1,228.50 CAD
 - [King Bed Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110712): Introduce a unique, stylish piece to your home with the King Bed Black, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, rubberwood, MDF, plywood, and polypropylene, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:56:56Z
+  Updated: 2025-11-26T11:10:17Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/fhjq3are52vwjpig35ba.jpg?v=1757498341
   Price: $1,606.50 CAD
 - [Queen Bed Olive Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110713): Bring a touch of sophistication to your home with the Queen Bed in Green, a remarkable example of contemporary and stylish design. Made from premium polyester fabric, rubberwood, MDF, plywood, and polypropylene, this bed combines aesthetic appeal with functionality. Its versatile design makes it suitable for a variety of spaces, while its chic, contemporary style ensures it stands out as a striking addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:57:00Z
+  Updated: 2025-11-26T11:10:18Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/y84tnszyxe7f0qf2tca4.jpg?v=1757498342
   Price: $1,480.50 CAD
 - [King Bed Olive Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110714): Introduce a unique, stylish piece to your home with the King Bed Green, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, rubberwood, MDF, plywood, and polypropylene, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:57:02Z
+  Updated: 2025-11-26T11:10:20Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/dfou88sz0agb2dydxson.jpg?v=1757498345
   Price: $1,937.25 CAD
 - [Storage Bench (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109497): The storage bench has an MDF frame and a vinyl seat. This storage bench has multifunctional uses for any room.
-  Updated: 2025-11-19T09:57:05Z
+  Updated: 2025-11-26T11:10:22Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/qekzgdgunxngfwudhx3k.jpg?v=1757498348
   Price: $1,260.00 CAD
 - [Bench Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109980): Introducing the Bench, an exquisite fusion of style and comfort. Draped in luxurious fabric, it effortlessly enhances any environment, suitable for both hospitality and residential spaces. With its contemporary and stylish design infused with hints of glamour and flair, this bench becomes a captivating centerpiece of your interior. Redefine your seating with the Bench, where comfort and sophistication converge seamlessly.
-  Updated: 2025-11-19T09:57:09Z
+  Updated: 2025-11-26T11:10:23Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109980_1.jpg?v=1757498353
   Price: $1,194.27 CAD
 - [Storage Bench Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109994): Meet the Storage Bench: a versatile and chic addition to any space, whether it's your home or a hotel. Wrapped in quilted fabric, this bench seamlessly blends into various rooms and design styles, from deco to contemporary and stylish and glam. With its dual functionality as both seating and storage, the Storage Bench is the perfect balance of style and practicality for your interior needs.
-  Updated: 2025-11-19T09:57:11Z
+  Updated: 2025-11-26T11:10:24Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109994_1.jpg?v=1757498355
   Price: $1,937.50 CAD
 - [Storage Bench Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109995): Introducing the Storage Bench, a versatile piece that effortlessly complements any setting, be it a home or hotel. Adorned with quality fabric, this bench seamlessly harmonizes with diverse rooms and design aesthetics, including contemporary and stylish, and glam styles. With its dual functionality as both seating and storage, the Storage Bench strikes the perfect balance between style and practicality for all your interior needs.
-  Updated: 2025-11-19T09:57:12Z
+  Updated: 2025-11-26T11:10:26Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109995_1.jpg?v=1757498358
   Price: $1,463.66 CAD
 - [Bench Stone Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110080): Introducing the Bench, where elegance meets durability. Wrapped in luxurious velvet and supported by sleek steel legs, it is the perfect addition to any space. With its contemporary and stylish design, it seamlessly complements various interior styles. Experience comfort and style with the Bench, where opulence and resilience harmoniously come together.
-  Updated: 2025-11-19T09:57:14Z
+  Updated: 2025-11-26T11:10:27Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110080_1.jpg?v=1757498360
   Price: $803.69 CAD
 - [Bench Glitter Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110081): Meet the Bench, where sophistication seamlessly blends with strength. Draped in sumptuous velvet and perched upon sleek steel legs, it effortlessly elevates any space. With its contemporary and stylish design, it harmonizes effortlessly with diverse interior aesthetics. Experience comfort and style with the Bench, where opulence and durability unite seamlessly.
-  Updated: 2025-11-19T09:57:15Z
+  Updated: 2025-11-26T11:10:28Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110081_1.jpg?v=1757498361
   Price: $591.15 CAD
 - [Storage Bench Oatmeal Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110082): Discover the Storage Bench, a blend of practicality and style. With its plush velvet covering and sturdy steel legs, it offers both elegance and durability. This contemporary piece effortlessly elevates any space while providing hidden storage for your convenience. Redefine your decor with the Storage Bench, where sophistication and versatility come together harmoniously.
-  Updated: 2025-11-19T09:57:17Z
+  Updated: 2025-11-26T11:10:29Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110082_1.jpg?v=1757498363
   Price: $680.61 CAD
 - [Storage Bench Gravel Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110083): Introducing the Storage Bench, a versatile and elegant addition to any room. With its sleek design, practical storage, and luxurious velvet covering, it effortlessly enhances the functionality and style of your space. Crafted for both organization and sophistication, this bench is a must-have. You're with the Storage Bench, where versatility meets plush elegance.
-  Updated: 2025-11-19T09:57:19Z
+  Updated: 2025-11-26T11:10:30Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110083_1.jpg?v=1757498365
   Price: $1,217.33 CAD
 - [Bench Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110179): Introducing the Bench with Vinyl, a sleek and contemporary, and stylish addition perfect for any room. Designed with minimal elegance in mind, it effortlessly enhances your space's aesthetic. Crafted for both style and versatility, this bench is a must-have for contemporary interiors. Elevate your decor with the Bench, where contemporary and stylish minimalism meets durability.
-  Updated: 2025-11-19T09:57:20Z
+  Updated: 2025-11-26T11:10:32Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110179_1.jpg?v=1757498366
   Price: $868.60 CAD
 - [Bench Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110180): Introducing the Bench, a versatile addition that enhances any room crafted with contemporary and stylish design and featuring a convenient drink tray. This bench effortlessly elevates your space, combining style and functionality in one elegant piece. Upgrade your decor with this chic seating solution, where contemporary and stylish aesthetics seamlessly merge with practicality.
-  Updated: 2025-11-19T09:57:22Z
+  Updated: 2025-11-26T11:10:33Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110180_1.jpg?v=1757498368
   Price: $743.09 CAD
 - [Bench Black & White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110183): Meet the Bench, a harmonious fusion of form and function. This bench showcases a plush fabric top paired with a robust wood body, ensuring comfort and durability. Its versatile design, with a contemporary and stylish or glam touch, seamlessly fits into various interior styles. Beyond its stylish appearance, the bench offers practical seating and adds a touch of elegance to any space. Elevate your home with this versatile and chic piece, where functionality meets sophistication in perfect harmony.
-  Updated: 2025-11-19T09:57:24Z
+  Updated: 2025-11-26T11:10:36Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110183_1.jpg?v=1757498370
   Price: $912.32 CAD
 - [Bench Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110186): Meet the Bench, a perfect blend of comfort and elegance. Crafted with a sturdy wood frame and adorned with soft fabric upholstery, this bench offers a cozy seating experience while adding a touch of sophistication to your space. Its versatile design allows it to effortlessly complement a range of interior styles. The Bench is not just an ergonomically designed, superior comfort seating option; it's a stylish statement piece that enhances the ambiance of any room. Elevate your decor with the Bench, where comfort meets timeless beauty.
-  Updated: 2025-11-19T09:57:25Z
+  Updated: 2025-11-26T11:10:38Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110186_1.jpg?v=1757498372
   Price: $659.95 CAD
 - [Bench Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110301): Introducing the Bench, a stylish seating solution marrying contemporary and stylish aesthetics with timeless charm. Crafted with care, this bench boasts a long-lasting and reliable wood frame complemented by a plush fabric seat, offering both comfort and sophistication. Its versatile design effortlessly complements contemporary and stylish, and deco-inspired dining areas, making it equally suitable for residential and hospitality settings. Whether for intimate family dinners or bustling restaurant atmospheres, the Bench adds a touch of elegance to any space. Elevate your dining experience with the Bench, where quality craftsmanship and contemporary design converge to create an inviting and stylish seating option.
-  Updated: 2025-11-19T09:57:27Z
+  Updated: 2025-11-26T11:10:39Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110301_1.jpg?v=1757498374
   Price: $1,015.39 CAD
 - [Bench White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110334): Introducing the Bench, an embodiment of contemporary elegance and robust design. This bench boasts a strong steel frame paired with a plush fabric seat, offering both unparalleled durability and comfort. Its sleek design makes it a versatile addition to any contemporary and stylish space, effortlessly blending with various decor styles. The Bench is more than just a seating option; it's a statement of sophistication and functionality. Enhance your living space with the Bench, where style and strength unite.
-  Updated: 2025-11-19T09:57:28Z
+  Updated: 2025-11-26T11:10:40Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110334_1.jpg?v=1757498375
   Price: $848.61 CAD
 - [Bench Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110335): Introducing the Bench, an embodiment of contemporary elegance and robust design. This bench boasts a strong steel frame paired with a plush fabric seat, offering both unparalleled durability and comfort. Its sleek design makes it a versatile addition to any contemporary and stylish space, effortlessly blending with various decor styles. The Bench is more than just a seating option; it's a statement of sophistication and functionality. Enhance your living space with the Bench, where style and strength unite.
-  Updated: 2025-11-19T09:57:30Z
+  Updated: 2025-11-26T11:10:42Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110335_1.jpg?v=1757498377
   Price: $848.61 CAD
 - [Bench Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110350): Presenting the Bench, a fusion of contemporary and stylish elegance and sturdy design. Meticulously constructed, this bench combines a long-lasting and reliable steel frame with a plush velvet seat, offering both comfort and a contemporary aesthetic. Its sleek, timeless design fits seamlessly into a variety of interior styles, making it a versatile addition to any setting. The Bench isn't just a seating solution; it's a stylish statement that enhances the overall charm and functionality of your space. Embrace the blend of durability and elegance with the Bench.
-  Updated: 2025-11-19T09:57:31Z
+  Updated: 2025-11-26T11:10:43Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110350_1.jpg?v=1757498378
   Price: $836.93 CAD
 - [Bench Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110351): Presenting the Bench, a fusion of contemporary and stylish elegance and sturdy design. Meticulously constructed, this bench combines a long-lasting and reliable steel frame with a plush velvet seat, offering both comfort and a contemporary aesthetic. Its sleek, timeless design fits seamlessly into a variety of interior styles, making it a versatile addition to any setting. The bench isn't just a seating solution; it's a stylish statement that enhances the overall charm and functionality of your space. Embrace the blend of durability and elegance with the Bench.
-  Updated: 2025-11-19T09:57:33Z
+  Updated: 2025-11-26T11:10:45Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110351_1.jpg?v=1757498380
   Price: $836.93 CAD
 - [Bench Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110353): Discover the Bench, an embodiment of contemporary and stylish design and durability. This bench pairs a robust steel frame with a plush fabric seat, creating a perfect balance of comfort and contemporary style. Its streamlined design allows it to blend seamlessly into various interior styles, adding both functionality and a touch of contemporary and stylish sophistication to any space. The Bench is more than just a seating option; it's a statement piece that enhances the ambiance of any room. Elevate your decor with the Bench, where robust construction meets elegant comfort.
-  Updated: 2025-11-19T09:57:34Z
+  Updated: 2025-11-26T11:10:46Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110353_1.jpg?v=1757498382
   Price: $858.04 CAD
 - [Bench Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110354): Introducing the Bench, where robust design meets contemporary and stylish elegance. This bench boasts a long-lasting and reliable steel frame coupled with a plush fabric seat, blending comfort with a contemporary aesthetic. Its sleek and versatile style effortlessly enhances various interior decors, adding both functionality and a touch of sophistication to any setting. The Bench is more than a seating solution; it's a statement piece that elevates the ambiance of any room. Transform your space with the Bench, a perfect marriage of strength and style.
-  Updated: 2025-11-19T09:57:36Z
+  Updated: 2025-11-26T11:10:49Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110354_1.jpg?v=1757498383
   Price: $695.25 CAD
 - [Bench Blue - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110471): Introduce a unique, stylish piece to your home with the Bench Blue, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, plywood, and rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. It's chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:57:39Z
+  Updated: 2025-11-26T11:10:52Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/9c894a88de2c23dc09dcbfb18d21e6054e8da172.jpg?v=1757498386
   Price: $1,350.68 CAD
 - [Bench Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110472): Introduce a unique, stylish piece to your home with the Bench Beige, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, plywood, and rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. It's chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:57:40Z
+  Updated: 2025-11-26T11:10:53Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/9bb46fc19f4c411d67a27100add95b056955165f.jpg?v=1757498387
   Price: $811.82 CAD
 - [Coffee Table White & Antique Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109457): The coffee table has a steel frame with a marble top. This piece works great in any contemporary and stylish residential or hospitality space.
-  Updated: 2025-11-19T09:57:43Z
+  Updated: 2025-11-26T11:10:57Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/tjhsxay6hj2qxbkdehaj.jpg?v=1757498390
   Price: $1,159.20 CAD
 - [Coffee Table Antique Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109462): The coffee table has an aluminum body. This table makes the organic look contemporary and stylish and boho chic. It looks great in any space, a hospitality of residential space.
-  Updated: 2025-11-19T09:57:45Z
+  Updated: 2025-11-26T11:10:59Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/amcj0ljnc9fjhvycwpk9.jpg?v=1757498391
   Price: $1,623.68 CAD
 - [Coffee Table Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109598): This coffee table is made with a powder-coated steel frame and trays. This fun table works in any space, boho chic or contemporary and stylish industrial.
-  Updated: 2025-11-19T09:57:47Z
+  Updated: 2025-11-26T11:11:00Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109598_1.jpg?v=1757498393
   Price: $325.23 CAD
 - [Coffee Table Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109751): With both form and function in mind, the coffee table is the perfect choice for any contemporary living space. Its sturdy construction and high-quality materials ensure that it will remain a stylish and functional piece for years to come. Whether you're looking to add a touch of contemporary and stylish sophistication to your hotel lobby, hotel room, or living room, the coffee table is the perfect choice.
-  Updated: 2025-11-19T09:57:48Z
+  Updated: 2025-11-26T11:11:02Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109751_1.jpg?v=1757498395
   Price: $1,670.97 CAD
 - [Coffee Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109764): The coffee table is a contemporary and stylish piece of furniture that boasts a painted wood body and a marble top. Its elegant design and sturdy construction make it a perfect addition to any hotel lobby or living room.
-  Updated: 2025-11-19T09:57:51Z
+  Updated: 2025-11-26T11:11:05Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/2db4aa44d0f7b7d87315a1bc96318a8c95c32121.jpg?v=1757498398
   Price: $1,766.41 CAD
 - [Coffee Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109771): The coffee table is a luxurious and sophisticated piece that adds a touch of elegance to any hotel lobby or contemporary and stylish living room. Its stunning marble top and bottom create a sense of opulence and grandeur, while its mango wood legs provide a warm and natural contrast.
-  Updated: 2025-11-19T09:57:53Z
+  Updated: 2025-11-26T11:11:06Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/bba1ee84d7d9101c130bdd14828b4e1ec2c2a175.jpg?v=1757498400
   Price: $1,433.25 CAD
 - [Coffee Table Set (2-Piece) Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109775): Introducing the Coffee Table Set, a stunning addition to any contemporary and stylish residential or hospitality space. Crafted with a sleek steel frame and marble shelves, this set exudes elegance and sophistication.
-  Updated: 2025-11-19T09:57:54Z
+  Updated: 2025-11-26T11:11:08Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/8efa840d010ff8693f497071d0e00ddb6f192802.jpg?v=1757498401
   Price: $799.43 CAD
 - [Coffee Table Set (2-Piece) Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109835): Elevate your interior decor with the captivating allure of the coffee table. This exceptional table seamlessly combines durability, charm, and functionality, making it an outstanding statement piece that adds a touch of luxury and sophistication to any setting. Redefine your space with the enchanting fusion of glam and contemporary and stylish design embodied in the coffee table, and let it become the centerpiece of your home or hotel today.
-  Updated: 2025-11-19T09:57:56Z
+  Updated: 2025-11-26T11:11:09Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109835_1.jpg?v=1757498403
   Price: $852.28 CAD
 - [Coffee Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109838): Discover the Coffee Table, where contemporary and stylish deco design seamlessly marries form and function. Its sturdy, powder-coated steel frame and rich wooden top combine to create a statement piece suitable for any living space or hallway. Versatile and stylish, it effortlessly complements various interior aesthetics.
-  Updated: 2025-11-19T09:57:58Z
+  Updated: 2025-11-26T11:11:11Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/d757f7094bd019727f85d6f2e1e9d50d06d383ce.jpg?v=1757498405
   Price: $1,317.60 CAD
 - [Coffee Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109840): Introducing the Coffee Table, a testament to contemporary and stylish design and versatility. Crafted with a long-lasting and reliable powder-coated steel frame and matching top, it effortlessly complements any living space or hallway. Its contemporary and stylish deco aesthetic adds a touch of elegance, while the sturdy construction ensures longevity. Elevate your decor with the coffee table, where contemporary style meets functional sophistication.
-  Updated: 2025-11-19T09:58:01Z
+  Updated: 2025-11-26T11:11:14Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109840_1.jpg?v=1757498410
   Price: $1,259.92 CAD
 - [Coffee Table Copper & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109841): Meet the Coffee Table, a striking marriage of form and function. Its sleek powder-coated steel frame, combined with its sophisticated glass top, exudes contemporary and stylish sophistication and deco-inspired aesthetics. Whether adorning a living space or hallway, this table effortlessly harmonizes with various interior styles. Elevate your home decor with the Coffee Table, a flawless synthesis of style and adaptability.
-  Updated: 2025-11-19T09:58:03Z
+  Updated: 2025-11-26T11:11:15Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109841_1.jpg?v=1757498412
   Price: $816.08 CAD
 - [Coffee Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109851): The coffee table is a stunning piece of furniture that seamlessly blends the natural beauty of acacia wood with a contemporary and stylish, and sleek design. Its natural white-washed finish creates a sense of warmth and comfort, while its minimalist aesthetic adds a touch of sophistication to any living room.
-  Updated: 2025-11-19T09:58:07Z
+  Updated: 2025-11-26T11:11:19Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/732c999092e8205834408ce6d32e77ba9c08a2cf.jpg?v=1757498415
   Price: $1,616.87 CAD
 - [Coffee Table White & Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109858): Crafted with precision and keen attention to detail, the coffee table is a testament to the beauty of simplicity. Its clean lines and minimalist aesthetic create a sense of order and balance, while its contrasting materials provide a striking visual contrast that turns heads.
-  Updated: 2025-11-19T09:58:09Z
+  Updated: 2025-11-26T11:11:21Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/8c3d557a7f7683550fbef8ecf8b4f51a2049a69f.jpg?v=1757498418
   Price: $1,228.50 CAD
 - [Coffee Table White & Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109861): Not only is it stylish, but it's also incredibly long-lasting, reliable, and versatile. The sturdy construction of the coffee table ensures that it can withstand the wear and tear of daily use, making it a great investment for those who want a long-lasting piece of furniture. Its ample surface area makes it perfect for displaying decorative items or hosting gatherings with friends and family.
-  Updated: 2025-11-19T09:58:10Z
+  Updated: 2025-11-26T11:11:22Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/180a56cdb0c0534dc038026c268ef51237396c72.jpg?v=1757498421
   Price: $771.75 CAD
 - [Coffee Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109866): The coffee table is a stunning piece of furniture that brings the natural beauty of travertine-style marble to any contemporary and stylish minimalist hotel lobby. Its clean lines and minimalist design create a sense of order and balance, while its travertine-style marble top exudes a sense of luxury and refinement.
-  Updated: 2025-11-19T09:58:12Z
+  Updated: 2025-11-26T11:11:23Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/9aa3521cc2ff2485eb53621925422db157c6dbde.jpg?v=1757498426
   Price: $771.75 CAD
 - [Coffee Table Set (2-Piece) Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109872): The Coffee Table Set is a stylish and functional set of furniture that boasts natural whitewashed acacia wood tops and a boho design. Its warm and inviting aesthetic makes it a perfect addition to any contemporary and stylish hotel lobby or living room.
-  Updated: 2025-11-19T09:58:13Z
+  Updated: 2025-11-26T11:11:25Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109872_1.jpg?v=1757498428
   Price: $1,350.66 CAD
 - [Coffee Table White & Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109914): Overall, the coffee table is a contemporary and stylish and sophisticated piece of furniture that combines a white marble top with a natural white-washed frame. Its durability, versatility, and elegant design make it a great choice for anyone looking to add a touch of sophistication and functionality to their residential or hospitality space.
-  Updated: 2025-11-19T09:58:15Z
+  Updated: 2025-11-26T11:11:26Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ddd1ad027fffe39a420caf24c27850838c3e6ca5.jpg?v=1757498430
   Price: $1,118.25 CAD
 - [Coffee Table Set (2-Piece) White & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109920): The coffee table set is a sleek, contemporary, and stylish piece of furniture that is perfect for any contemporary living room or hotel lobby. It boasts an elegant white marble top. The base of the table is made from painted wood, which adds a touch of warmth to the overall design while maintaining the minimalist aesthetic. The clean lines and simple design of the coffee table make it an excellent choice for those who appreciate contemporary and stylish minimalist decor. Whether you're looking for a coffee table for your home or a hotel lobby, the Coffee Table is a stylish and functional choice.
-  Updated: 2025-11-19T09:58:17Z
+  Updated: 2025-11-26T11:11:29Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109920_1.jpg?v=1757498433
   Price: $1,890.00 CAD
 - [Coffee Table Set (2-Piece) Black & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110032): Discover the Coffee Table Set, a celebration of contemporary design and adaptability. Made with a resilient powder-coated steel frame and a coordinating MDF top, it seamlessly enhances any living space or hallway. Its contemporary and stylish deco-inspired aesthetics bring an element of grace, all while the robust build promises lasting durability. Elevates your decor with the coffee table set, where the fusion of contemporary style and functional sophistication takes center stage.
-  Updated: 2025-11-19T09:58:19Z
+  Updated: 2025-11-26T11:11:31Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110032_1.jpg?v=1757498436
   Price: $560.89 CAD
 - [Coffee Table White & Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110255): Meet the Coffee Table, a luxurious creation featuring a cast aluminum base and exquisite marble top. Perfect for hotel lobbies or contemporary and stylish living spaces, it exudes hints of glam that add a touch of opulence to any setting. Elevate your decor with the Harmas Coffee Table, where the robust elegance of cast aluminum meets the timeless beauty of marble, resulting in an irresistible fusion of style and sophistication.
-  Updated: 2025-11-19T09:58:26Z
+  Updated: 2025-11-26T11:11:37Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110255_1.jpg?v=1757498446
   Price: $749.70 CAD
 - [Coffee Table Black & Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110299): Introducing the coffee table, where sophistication meets functionality with finesse. Crafted with meticulous attention, this table boasts a sturdy MDF wood frame with storage complemented by graceful wood legs, ensuring both durability and style. Its adaptable design effortlessly blends into contemporary and stylish, glam, or deco-inspired living spaces, enhancing the ambiance of any room. With its generous surface area, the coffee table provides ample space for beverages, books, and decor, while its sleek silhouette adds a touch of elegance to your living area.
-  Updated: 2025-11-19T09:58:28Z
+  Updated: 2025-11-26T11:11:39Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110299_1.jpg?v=1757498448
   Price: $1,406.60 CAD
 - [Coffee Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110346): Introducing the Coffee Table, a stunning blend of elegance and durability. Its sintered stone top boasts both visual appeal and resilience, while the steel legs are expertly wrapped in vinyl for a sleek finish. This coffee table is a versatile addition to any space, whether it graces your living room or enhances a contemporary and stylish office. The coffee table not only provides a stylish surface for your essentials but also adds a touch of contemporary sophistication. Elevate your decor with the coffee table, where form meets function in perfect harmony.
-  Updated: 2025-11-19T09:58:32Z
+  Updated: 2025-11-26T11:11:42Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110346_1.jpg?v=1757498451
   Price: $1,459.42 CAD
 - [Coffee Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110594): The coffee table in white is a stylish centerpiece for any contemporary and stylish living space. Its marble surf and iron frame offer a perfect balance of elegance and durability, making it a standout piece for both residential and hospitality environments. The clean, white finish complements a wide range of decor styles.
-  Updated: 2025-11-19T09:58:33Z
+  Updated: 2025-11-26T11:11:43Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/flzxbqw1mae0iakutxds.jpg?v=1757498453
   Price: $1,417.50 CAD
 - [Coffee Table White & Brass - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110595): The coffee table in white & brass brings a contemporary edge to indoor living spaces. Featuring a luxurious marble surface paired with an iron frame, the contrast of white and brass gives this coffee table a chic, contemporary, and stylish look. Perfect for contemporary and stylish interiors, its design makes a bold statement while providing functional elegance.
-  Updated: 2025-11-19T09:58:34Z
+  Updated: 2025-11-26T11:11:44Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/tkomwu3mtfjvxfxsckzj.jpg?v=1757498455
   Price: $1,874.25 CAD
 - [Coffee Table Brass - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110599): The coffee table in brass is a stylish centerpiece for any contemporary and stylish living space. Featuring a combination of glass, marble, and iron, this coffee table provides both durability and a refined look. The brass accents complement the luxurious marble top, making it suitable for residential homes or hospitality lounges where elegance is key.
-  Updated: 2025-11-19T09:58:35Z
+  Updated: 2025-11-26T11:11:45Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/rni2zsczvzu7bmavuac8.jpg?v=1757498456
   Price: $1,937.25 CAD
 - [Coffee Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110602): The coffee table in multicolor brings vibrant design to indoor living spaces. Made from terrazzo and iron, this coffee table is both long-lasting and reliable and visually striking. Its multicolor surf adds a playful touch, making it perfect for contemporary residential or hospitality environments. This table serves as a bold centerpiece in living rooms or common areas.
-  Updated: 2025-11-19T09:58:36Z
+  Updated: 2025-11-26T11:11:46Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/nvmj8nlhkkgt49jwmw5e.jpg?v=1757498457
   Price: $1,228.50 CAD
 - [Coffee Table Bronze Sand Cast Glass & Iron](https://www.rugbranch.com/products/rbzo110615): Introduce a unique, stylish piece to your home with the Coffee Table Bronze, an exceptional example of contemporary and stylish design. Made from high-quality recycled sand cast glass and iron, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:58:38Z
+  Updated: 2025-11-26T11:11:47Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/zdpg2dsph6lzi37jezad.jpg?v=1757498458
   Price: $2,184.71 CAD
 - [Coffee Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110617): Introduce a unique, stylish piece to your home with the Coffee Table Black, an exceptional example of contemporary and stylish design. Made from high-quality recycled sand cast glass and aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:58:39Z
+  Updated: 2025-11-26T11:11:49Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/loi5fg8lcs3sjz9cmrpd.jpg?v=1757498460
   Price: $2,043.78 CAD
 - [Coffee Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110620): Introduce a unique, stylish piece to your home with the Coffee Table Black, an exceptional example of contemporary and stylish design. Made from high-quality recycled sand-cast glass and aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:58:40Z
+  Updated: 2025-11-26T11:11:50Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/rywhgvjgtd2wcjpbr9pu.jpg?v=1757498461
   Price: $2,143.66 CAD
 - [Coffee Table Set (2-Piece) Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110622): Introduce a unique, stylish piece to your home with the Coffee Table Set Bronze, an exceptional example of contemporary and stylish design. Made from high-quality recycled sand-cast glass and iron, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:58:41Z
+  Updated: 2025-11-26T11:11:51Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/rxvah0vqyaxhxyimx8os.jpg?v=1757498462
   Price: $1,002.10 CAD
 - [Coffee Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110626): Introduce a unique, stylish piece to your home with the Coffee Table Multicolor, an exceptional example of contemporary and stylish design. Made from high-quality marble, MDF, and iron, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. It's chic and contemporary, design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:58:42Z
+  Updated: 2025-11-26T11:11:52Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/e3zi3iogv16mfsgjqwts.jpg?v=1757498463
   Price: $1,086.75 CAD
 - [Coffee Table Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110644): The Side Table White & natural brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from marble and mango wood, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:58:44Z
+  Updated: 2025-11-26T11:11:54Z
   Vendor: RBZO
   Product Type: Coffee Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/lukfznx2krfwoiqlp41z.jpg?v=1757498466
   Price: $1,651.06 CAD
 - [Console Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109761): The console table boasts a sleek and contemporary style design that is perfect for hotel lobbies, entryways, or even behind sofas. The table boasts a luxurious marble top that is supported by steel legs, creating a sturdy and long-lasting, and reliable base. The table is designed to be both functional and stylish, while also adding a touch of glamour to any space. The console table is perfect for those who appreciate minimalist design and high-end materials.
-  Updated: 2025-11-19T09:58:50Z
+  Updated: 2025-11-26T11:12:00Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109761_4.jpg?v=1757498471
   Price: $1,228.50 CAD
 - [Console Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109770): Crafted with the highest-quality materials and designed with impeccable attention to detail, the console table is a testament to the beauty of simplicity and the power of minimalism. Its sleek and elegant design makes it an ideal choice for anyone who wants to create a stylish and practical space.
-  Updated: 2025-11-19T09:58:51Z
+  Updated: 2025-11-26T11:12:01Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/fda531143a0b375c510df78f1469707fc61c71b0.jpg?v=1757498473
   Price: $1,559.25 CAD
 - [Console Table Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109836): Introducing the Console Table: a stunning fusion of form and function. Crafted with a sleek powder-coated steel frame and topped with elegant glass, it embodies contemporary and stylish sophistication and inspired design. Ideal for any living space or hallway, this table seamlessly complements diverse interiors. Your decor with the Console Table, a perfect blend of style and versatility for your home.
-  Updated: 2025-11-19T09:58:52Z
+  Updated: 2025-11-26T11:12:03Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109836_1.jpg?v=1757498475
   Price: $706.65 CAD
 - [Console Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109854): The natural white-washed acacia wood top of the console table provides a warm and inviting surface that is perfect for displaying decorative items or storing everyday essentials. Its minimalist design adds a sleek and contemporary and stylish touch to the overall look of the table, making it a perfect fit for any contemporary living space. The sturdy construction of the table ensures long-lasting durability, making it a great choice for daily use.
-  Updated: 2025-11-19T09:58:56Z
+  Updated: 2025-11-26T11:12:10Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109854_1.jpg?v=1757498481
   Price: $1,016.74 CAD
 - [Console Table Set (2-Piece) White & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109921): The Console Table Set is a stylish and functional piece of furniture that boasts a contemporary and stylish design, long-lasting and reliable construction, and versatile use. Its white marble top and painted wood base create an elegant look that is perfect for any contemporary and stylish home. Whether used in an entryway or behind a sofa, this console table is sure to make a statement in any room.
-  Updated: 2025-11-19T09:58:57Z
+  Updated: 2025-11-26T11:12:12Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109921_1.jpg?v=1757498483
   Price: $1,827.00 CAD
 - [Console Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110226): Discover the Console Table, an exquisite creation meticulously crafted from solid acacia wood. Its contemporary, organic design strikes a perfect harmony between minimalism and maximalism. This table is not just functional; it's a captivating statement piece that seamlessly complements contemporary and stylish interiors. Elevate your living space with the Console Table, where the timeless beauty of acacia wood converges with an artful blend of design elements.
-  Updated: 2025-11-19T09:58:58Z
+  Updated: 2025-11-26T11:12:13Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110226_1.jpg?v=1757498485
   Price: $962.18 CAD
 - [Console Table White & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110230): Introducing the Console Table, an epitome of contemporary and stylish elegance with a touch of luxury. Topped with exquisite marble and supported by a sturdy mango wood base, this table exudes sophistication. Its minimalist design seamlessly adapts to various settings, be it in hospitality or residential spaces, living rooms, lobbies, or entryways. Experience the harmonious blend of minimalism and opulence with the Console Table, where the quality of materials meets a timeless aesthetic.
-  Updated: 2025-11-19T09:59:00Z
+  Updated: 2025-11-26T11:12:15Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110230_1.jpg?v=1757498487
   Price: $907.20 CAD
 - [Console Table Espresso - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110502): Bring a touch of contemporary and stylish elegance to your home with the Console Table in Espresso, a stunning example of contemporary design. Crafted from high-quality rubberwood, this table effortlessly combines aesthetics with practicality, making it a versatile option for any room. Its sleek, contemporary, and stylish style ensures it will stand out as a key feature in any contemporary and stylish home, offering both functionality and visual appeal.
-  Updated: 2025-11-19T09:59:03Z
+  Updated: 2025-11-26T11:12:19Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/748b87e807352d492964a82be06add8a0670bada.jpg?v=1757498492
   Price: $623.91 CAD
 - [Console Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110593): The console table in white combines contemporary and stylish design with luxurious materials. Crafted from white marble and iron, this console table brings sophistication and functionality to indoor living spaces. Ideal for residential and hospital use, its sleek lines and minimalist look make it a perfect fit for entryways or living rooms.
-  Updated: 2025-11-19T09:59:03Z
+  Updated: 2025-11-26T11:12:19Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ihbcieyghlznvkcjwc5w.jpg?v=1757498493
   Price: $1,890.00 CAD
 - [Console Table White & Brass - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110596): The Console Table in White & Brass is a sophisticated addition to any contemporary living space. The marble top and iron frame combine to create a striking contrast between the white surf and brass accents. Ideal for entryways, living rooms, or hospitality settings, this console table offers both functionality and contemporary and stylish flair.
-  Updated: 2025-11-19T09:59:04Z
+  Updated: 2025-11-26T11:12:21Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ugi2abpmfppmaph8dly6.jpg?v=1757498494
   Price: $2,189.25 CAD
 - [Console Table Brass - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110600): The console table in brass offers contemporary and stylish sophistication with its blend of materials. Built with glass, marble, and iron, this console table boasts a brass finish that adds a touch of luxury to any indoor living area. Its sleek design is ideal for both residential and hospitality environments, providing a functional yet stylish surface for entryways or living rooms.
-  Updated: 2025-11-19T09:59:05Z
+  Updated: 2025-11-26T11:12:22Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/djm4cphg57gwloaklayt.jpg?v=1757498495
   Price: $1,984.50 CAD
 - [Console Table Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110805): The console table in walnut is a sleek and functional addition to contemporary and stylish interiors. Made from solid mango wood, its rich walnut finish complements its minimalist design. Perfect for residential homes or hospitality spaces, this console table offers both style and practical storage for entryways or living rooms.
-  Updated: 2025-11-19T09:59:06Z
+  Updated: 2025-11-26T11:12:23Z
   Vendor: RBZO
   Product Type: Console Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/42ce2bfef39b5184c2ecfedfb0d343ab4fad021a.jpg?v=1757498496
   Price: $1,139.02 CAD
 - [Counter Stool (Set of 2) White & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101390): Built for comfort, this ergonomic counter stool is the perfect solution for your home or office space. A brushed Stainless Steel frame plays a supporting role while the built-in curved footrest keeps you firmly planted. The white faux leather seat deck is sleek and contemporary, and stylish, making this barstool the perfect complement to any room setting.
-  Updated: 2025-11-19T09:59:07Z
+  Updated: 2025-11-26T11:12:24Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ae206980f1e8c7a2ebeb36e78f5e2bd8d32317f3.jpg?v=1757498497
   Price: $1,059.74 CAD
 - [Counter Stool (Set of 2) White & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101408): High design meets everyday casual. This handsome counter stool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort curved seat is covered in white faux leather with dramatic stitching. Brushed Stainless Steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:59:10Z
+  Updated: 2025-11-26T11:12:28Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/f38fed115f3295a612d674f61c0bdd5857903980.jpg?v=1757498500
   Price: $1,112.26 CAD
 - [Counter Stool (Set of 2) Black & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101409): High design meets everyday casual. This handsome counter stool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort curved seat covered in black faux leather with dramatic stitching. Brushed Stainless Steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:59:11Z
+  Updated: 2025-11-26T11:12:29Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/306936c41a7709923d41f1b77ca9636894d0c05a.jpg?v=1757498504
   Price: $1,112.26 CAD
 - [Counter Stool (Set of 2) Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101691): This counter stool has mid century contemporary and stylish urban lines and looks great in any space, with a heavy duty vinyl covering a steel frame, and finished legs in walnut heat-transfer vinyl wrapped steel frame, fits in any home kitchen, dining area, or bar, and is long lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:59:13Z
+  Updated: 2025-11-26T11:12:31Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/53d976f39ec7b4fee35b275e7de4dd356ac774f5.jpg?v=1757498509
   Price: $1,013.40 CAD
 - [Counter Stool (Set of 2) Azure Gray & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101692): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering sturdy steel frame and finished legs in walnut heat-transfer vinyl-wrapped steel frame, fits in any home kitchen, dining area, or bar, and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:59:15Z
+  Updated: 2025-11-26T11:12:33Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/f213d23ee8527cb5c65cde2dd953a892f5b1319c.jpg?v=1757498511
   Price: $1,013.40 CAD
 - [Counter Stool (Set of 2) Beige & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101693): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering sturdy steel frame, and finished legs in walnut heat-transfer vinyl-wrapped steel frame, fits in any home kitchen, dining area, or bar, and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:59:16Z
+  Updated: 2025-11-26T11:12:34Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/5e8f18dee3ded96cbea32c014d959fc4fc71741c.jpg?v=1757498513
   Price: $1,013.40 CAD
 - [Counter Stool Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101774): The counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this counter stool fits in any home kitchen, dining area, or bar. The legs are finished in a matte black coating that is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:59:17Z
+  Updated: 2025-11-26T11:12:36Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/794866e009d75192aef7e11401445906135ac252.jpg?v=1757498517
   Price: $399.27 CAD
 - [Counter Stool Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101775): The counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this counter stool fits in any home kitchen, dining area, or bar. The legs are finished in a matte black coating that is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:59:19Z
+  Updated: 2025-11-26T11:12:37Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/115fb1d3b401d744dc34cf5d23ef78c3d8e2670e.jpg?v=1757498520
   Price: $399.27 CAD
 - [Counter Stool White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101776): The counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this counter stool fits in any home kitchen, dining area, or bar. The legs are finished in a matte black coating that is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:59:21Z
+  Updated: 2025-11-26T11:12:39Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/1c042920f771cfdc564269ff0274bd20ab3320a3.jpg?v=1757498522
   Price: $388.77 CAD
 - [Counter Stool (Set of 2) Brown & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo102028): High design meets everyday casual. This handsome counter stool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort; the curved seat is covered in brown faux leather with dramatic stitching. Brushed stainless steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:59:22Z
+  Updated: 2025-11-26T11:12:41Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/2dcb954425870bdb18ed9f7af3a275fad0c16e2f.jpg?v=1757498524
   Price: $1,112.26 CAD
 - [Counter Stool (Set of 2) White & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109069): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering, a sturdy steel frame, and finished legs in walnut heat-transfer vinyl wrapped, fits in any home kitchen, dining area, or bar, and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:59:23Z
+  Updated: 2025-11-26T11:12:42Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/97e117bd1c122a4639332290337aa97bd0ecc66b.jpg?v=1757498527
   Price: $1,013.40 CAD
 - [Counter Stool (Set of 2) Vintage Espresso - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109323): This counter stool's seat and back are crafted with a sculpted design for comfort. It's upholstered in a soft 100% polyurethane fabric, with a slim-profile metal base and two crossbars for stability. The frame is finished in matte black for a universal appeal.
-  Updated: 2025-11-19T09:59:25Z
+  Updated: 2025-11-26T11:12:44Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109323_1.jpg?v=1757498530
   Price: $613.31 CAD
 - [Counter Stool (Set of 2) Charcoal - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109324): This counter stool's seat and back are crafted with a sculpted design for comfort. It's upholstered in a soft 100% polyurethane fabric, with a slim-profile metal base and two crossbars for stability. The frame is finished in matte black for a universal appeal.
-  Updated: 2025-11-19T09:59:26Z
+  Updated: 2025-11-26T11:12:45Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109324_1.jpg?v=1757498532
   Price: $613.31 CAD
 - [Counter Stool (Set of 2) Dark Gray & Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109392): High design meets everyday casual. This handsome counter stool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort. The curved seat is covered in dark gray faux leather with dramatic stitching. Matte black stainless steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:59:29Z
+  Updated: 2025-11-26T11:12:48Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109392_1.jpg?v=1757498535
   Price: $1,070.26 CAD
 - [Counter Stool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109537): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a black matte finish frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:59:30Z
+  Updated: 2025-11-26T11:12:49Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/4e6915bb6713782ec611104e34702fdbeab39b40.jpg?v=1757498538
   Price: $1,013.40 CAD
 - [Counter Stool (Set of 2) White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109538): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a black powder-coated steel frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:59:32Z
+  Updated: 2025-11-26T11:12:51Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/d8c74733fc204da7dbdb62a38abd8ac6228fba6a.jpg?v=1757498540
   Price: $1,013.40 CAD
 - [Counter Stool (Set of 2) Azure Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109539): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a black powder-coated steel frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:59:33Z
+  Updated: 2025-11-26T11:12:53Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/f06c428b9ce7cbbd43b53a7121e9c49802fcd6a7.jpg?v=1757498542
   Price: $1,013.40 CAD
 - [Counter Stool (Set of 2) Black & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109552): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a gold semi-gloss finish frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:59:34Z
+  Updated: 2025-11-26T11:12:54Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/97d6f01355e6bdb0f5024353f957464266f0b8a4.jpg?v=1757498544
   Price: $1,160.40 CAD
 - [Counter Stool (Set of 2) White & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109553): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a gold semi-gloss finish frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:59:35Z
+  Updated: 2025-11-26T11:12:55Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109553_1.jpg?v=1757498546
   Price: $1,160.40 CAD
 - [Counter Stool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109649): This counter stool's seat and back are crafted with a sculpted design for comfort. It's upholstered in a soft 100% Polypolyurethane fabric, with a slim-profile metal base and two crossbars for stability. The frame is finished in matte black for a universal appeal.
-  Updated: 2025-11-19T09:59:37Z
+  Updated: 2025-11-26T11:12:57Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109649_1.jpg?v=1757498549
   Price: $613.31 CAD
 - [Counter Stool (Set of 2) Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109652): This counter stool's seat and back are crafted with a sculpted design for comfort. It's upholstered in a soft 100% polyurethane fabric, with a slim-profile metal base and two crossbars for stability. The frame is finished in matte black for a universal appeal.
-  Updated: 2025-11-19T09:59:38Z
+  Updated: 2025-11-26T11:12:58Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109652_1.jpg?v=1757498551
   Price: $613.31 CAD
 - [Counter Stool (Set of 2) Gray & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109662): This counter stool has a slender frame that combines mid-century contemporary and stylish with glamour and decorative elements and works well in spaces, residential or hospitality.
-  Updated: 2025-11-19T09:59:39Z
+  Updated: 2025-11-26T11:13:00Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109662_1.jpg?v=1757498553
   Price: $1,008.90 CAD
 - [Counter Stool (Set of 2) Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109665): This counter stool has a beautifully wrapped seat and back with a fine frame. This chair combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality setting.
-  Updated: 2025-11-19T09:59:40Z
+  Updated: 2025-11-26T11:13:02Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109665_1.jpg?v=1757498555
   Price: $1,241.77 CAD
 - [Counter Stool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109666): This counter stool has a beautifully wrapped seat and back with a fine frame. This chair combines mid-century contemporary and stylish with glam and decor elements and works well in residential or hospitality settings.
-  Updated: 2025-11-19T09:59:41Z
+  Updated: 2025-11-26T11:13:03Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109666_1.jpg?v=1757498557
   Price: $1,241.77 CAD
 - [Counter Stool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109672): This counter stool has a nice, wrapped seat and back with a sturdy frame that combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality.
-  Updated: 2025-11-19T09:59:44Z
+  Updated: 2025-11-26T11:13:05Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109672_1.jpg?v=1757498562
   Price: $1,142.76 CAD
 - [Counter Stool (Set of 2) Brown & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109732): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in walnut, the heat-transfer vinyl-wrapped steel frame fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:59:45Z
+  Updated: 2025-11-26T11:13:06Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109732_4.jpg?v=1757498564
   Price: $1,013.40 CAD
 - [Counter Stool (Set of 2) Beige & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109733): This counter stool has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a gold semi-gloss finish steel frame It fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:59:46Z
+  Updated: 2025-11-26T11:13:08Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109733_1.jpg?v=1757498566
   Price: $1,160.40 CAD
 - [Counter Stool (Set of 2) Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109739): The seat of the counter stool is made from a soft, long-lasting, and reliable shearling-style fabric that provides both comfort and style. The ivory color of the fabric adds a touch of sophistication to the overall design of the stool. The steel frame of the stool is sturdy, long-lasting, and reliable, providing long-lasting support and stability. The contemporary and stylish design of the stool makes it a perfect fit for any contemporary setting, whether in a hotel bar or a home kitchen.
-  Updated: 2025-11-19T09:59:47Z
+  Updated: 2025-11-26T11:13:09Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109739_1.jpg?v=1757498568
   Price: $488.42 CAD
 - [Counter Stool (Set of 2) Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109741): The seat of the counter stool is made from a soft, long-lasting, and reliable shearling-style fabric that provides both comfort and style. The ivory color of the fabric adds a touch of sophistication to the overall design of the stool. The steel frame of the stool is sturdy, long-lasting, and reliable, providing long-lasting support and stability. The contemporary and stylish design of the stool makes it a perfect fit for any contemporary setting, whether in a hotel bar or a home kitchen.
-  Updated: 2025-11-19T09:59:49Z
+  Updated: 2025-11-26T11:13:11Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109741_1.jpg?v=1757498570
   Price: $390.73 CAD
 - [Counter Stool (Set of 2) Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109780): With its unique fusion of deco, glam, and contemporary and stylish minimalist design elements, the counter stool stands out as a true work of art. Its sleek lines and exquisite finishes exude an aura of effortless elegance, making it a seamless fit for a wide range of environments - from high-end restaurants and hotels to chic contemporary homes. When not in use, simply stack these elegant stools away to create more space, and when your guests arrive, bring them out to impress and delight.
-  Updated: 2025-11-19T09:59:50Z
+  Updated: 2025-11-26T11:13:13Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109780_1.jpg?v=1757498572
   Price: $841.18 CAD
 - [Counter Stool (Set of 2) Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109781): With its unique fusion of deco, glam, and contemporary and stylish minimalist design elements, the counter stool stands out as a true work of art. Its sleek lines and exquisite finishes exude an aura of timeless elegance, making it a seamless fit for a wide range of environments - from high-end restaurants and hotels to chic contemporary homes. When not in use, simply stack these elegant stools away to create more space, and when your guests arrive, bring them out to impress and delight.
-  Updated: 2025-11-19T09:59:51Z
+  Updated: 2025-11-26T11:13:14Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/30267f7415445347f37c87c256a36674cbb359c7.jpg?v=1757498576
   Price: $841.18 CAD
 - [Counter Stool (Set of 2) Green & Gold - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109805): Introducing the counter stool, where sophistication meets practicality. This stunning stool boasts a luxurious velvet seat, complemented by a sturdy gold electroplated steel frame. Designed with versatility in mind, it's stackable for convenient storage and fits seamlessly into any contemporary and stylish or classic setting. Your home decor with this blend of opulence and functionality ensures comfort and style for your kitchen or bar area. Upgrade your seating experience with the counter stool today.
-  Updated: 2025-11-19T09:59:52Z
+  Updated: 2025-11-26T11:13:16Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/6c60aa293a8e838d9fba770a002aaebbe0207975.jpg?v=1757498579
   Price: $1,078.60 CAD
 - [Counter Stool Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109807): Experience unmatched comfort and style with the counter stool. Wrapped in sumptuous teddy fabric and supported by a sleek black steel frame, this barstool exudes both contemporary and stylish flair and effortless elegance. Its larger, comfy design ensures you can sit back and relax in any room, while its versatile aesthetic seamlessly complements both deco and contemporary and stylish interiors. Upgrade your seating experience with the Barstool, where luxury and versatility meet in perfect harmony.
-  Updated: 2025-11-19T09:59:53Z
+  Updated: 2025-11-26T11:13:17Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109807_1.jpg?v=1757498583
   Price: $704.63 CAD
-- [Counter Stool Black & Bronze - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109809): Experience unmatched comfort and style with the counter stool. Wrapped in sumptuous teddy fabric and supported by a sleek black steel frame, this barstool exudes both contemporary and stylish flair and timeless elegance. Its larger, comfy design ensures you can sit back and relax in any room, while its versatile aesthetic seamlessly complements both deco and contemporary and stylish interiors. Upgrade your seating experience with the Barstool, where luxury and versatility meet in perfect harmony.
-  Updated: 2025-11-19T09:59:55Z
-  Vendor: RBZO
-  Product Type: Counter Stools
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109809_1.jpg?v=1757498585
-  Price: $704.63 CAD
 - [Counter Stool (Set of 2) Ivory - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109811): Indulge in superior comfort and style with the counter stool. Embraced with plush teddy fabric and supported by a chic black steel frame, this counter stool embodies contemporary sophistication and enduring charm. Its generously proportioned, cozy design makes it a perfect fit for any room, while its versatile aesthetic effortlessly enhances both deco and contemporary and stylish interiors. Your seating experience with the counter stool, where opulence and adaptability converge seamlessly.
-  Updated: 2025-11-19T09:59:56Z
+  Updated: 2025-11-26T11:13:20Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109811_1.jpg?v=1757498587
   Price: $1,172.16 CAD
 - [Counter Stool (Set of 2) Red & Bronze - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109813): Indulge in superior comfort and style with the Counter Stool. Embrd by plush fabric and supported by a chic black steel frame, this counter stool embodies contemporary sophistication and enduring charm. Its generously proportioned, cozy gn makes it a perfect fit for any room, while its versatile aesthetic effortlessly enhances both and contemporary and stylish interiors. your seating experience with the Counter Stool, where opulence and adaptability converge seamlessly.
-  Updated: 2025-11-19T09:59:57Z
+  Updated: 2025-11-26T11:13:20Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109813_1.jpg?v=1757498590
   Price: $1,193.16 CAD
 - [Counter Stool (Set of 2) Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109935): High design meets everyday casual. This handsome counter stool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort; the curved seat is covered in black faux leather with dramatic stitching. Matte brown faux wood legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:59:58Z
+  Updated: 2025-11-26T11:13:22Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109935_1.jpg?v=1757498592
   Price: $1,112.26 CAD
 - [Counter Stool (Set of 2) Slate Gray & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109936): High design meets everyday casual. This handsome counter stool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort; the curved seat is covered in slate gray faux leather with dramatic stitching. Matte brown faux wood legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:59:59Z
+  Updated: 2025-11-26T11:13:23Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109936_1.jpg?v=1757498594
   Price: $1,112.26 CAD
 - [Counter Stool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109946): Introducing the counter stool, a masterpiece of contemporary and stylish art design. With a long-lasting and reliable vinyl seat and sturdy steel frame, this stool effortlessly complements any interior, whether a trendy hotel area or an elegant home setting. The counter stool exudes a harmonious blend of comfort and style, making it an inviting addition to any counter space. Embrace the timeless allure of its sleek design while relishing its long-lasting and reliable construction, promising a lasting and sophisticated seating solution for hotels and homes alike. Elevate your counter experience with the Counter Stool today
-  Updated: 2025-11-19T10:00:03Z
+  Updated: 2025-11-26T11:13:25Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109946_1.jpg?v=1757498597
   Price: $949.60 CAD
 - [Counter Stool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109949): Experience the Counter Stool—a flawless fusion of contemporary and stylish Art Deco design. Featuring a long-lasting and reliable vinyl seat and sturdy steel frame, this stool seamlessly complements any interior, whether it's a trendy hotel counter area or an elegant home setting. With its harmonious blend of comfort and style, the counter stool invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your space with the unmatched allure of the counter stool today.
-  Updated: 2025-11-19T10:00:04Z
+  Updated: 2025-11-26T11:13:27Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109949_1.jpg?v=1757498599
   Price: $780.65 CAD
 - [Swivel Counter Stool Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109972): The counter stool is a wonderfully versatile and contemporary and stylish piece that works in any kitchen or workspace with its sleek design and functionally swivel seating. It is durably constructed with quality vinyl and a sturdy powder-coated steel frame. This piece brings glam and Art Deco design to any space.
-  Updated: 2025-11-19T10:00:05Z
+  Updated: 2025-11-26T11:13:29Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109972_1.jpg?v=1757498601
   Price: $700.64 CAD
 - [Swivel Counter Stool Black & Bronze - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109973): The counter stool is a wonderfully versatile and contemporary and stylish piece that works in any kitchen or workspace with its sleek design and functionally swivel seating. It is durably constructed with quality vinyl and a sturdy powder-coated steel frame. This piece brings glam and Art Deco design to any space.
-  Updated: 2025-11-19T10:00:07Z
+  Updated: 2025-11-26T11:13:30Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109973_1.jpg?v=1757498604
   Price: $711.14 CAD
 - [Counter Stool Midnight Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109992): Introducing the counter stool in midnight gray: where luxury and versatility harmonize effortlessly. Enveloped in sumptuous velvet, this barstool is equally at home in residential spaces and upscale hotels. Its dynamic design seamlessly blends deco, contemporary, and stylish and glam elements, making it a striking addition to any interior. Elevates your seating experience with the Counter Stool Gray, where style knows no bounds and comfort meets opulence.
-  Updated: 2025-11-19T10:00:09Z
+  Updated: 2025-11-26T11:13:32Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/9a6e5030c58532b0b4a30f14cefe546e49744dad.jpg?v=1757498607
   Price: $1,356.89 CAD
 - [Counter Stool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110062): Introducing the counter stool, a masterpiece of contemporary and stylish Art Deco design. With a long-lasting and reliable vinyl seat and a sturdy steel frame, this stool effortlessly complements any interior, whether it's a trendy hotel area or an elegant home setting. The counter stool exudes a harmonious blend of comfort and style, making it an inviting addition to any space. Embrace the timeless allure of its sleek design while relishing its long-lasting and reliable construction, promising a lasting and sophisticated seating solution for hotels and homes alike.
-  Updated: 2025-11-19T10:00:10Z
+  Updated: 2025-11-26T11:13:34Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110062_1.jpg?v=1757498610
   Price: $938.45 CAD
 - [Counter Stool (Set of 2) Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110065): Introducing the Counter Stool, a contemporary and stylish Art Deco masterpiece. Its poly linen seat and robust steel frame elegantly complement any interior, from trendy hotel counter areas to elegant homes. With a harmonious blend of comfort and style, the counter stool is an inviting addition to any counter space. Embrace its timeless allure and long-lasting and reliable construction for lasting sophistication. Elevate your counter with the counter stool today.
-  Updated: 2025-11-19T10:00:11Z
+  Updated: 2025-11-26T11:13:38Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110065_1.jpg?v=1757498612
   Price: $949.60 CAD
 - [Counter Stool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110068): Experience the Counter Stool—a flawless fusion of contemporary and stylish Art Deco design. Featuring a long-lasting and reliable vinyl seat and sturdy steel frame, this stool seamlessly complements any interior, whether it's a trendy hotel counter area or an elegant home setting. With its harmonious blend of comfort and style, the counter stool invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your space with the unmatched allure of the counter stool today.
-  Updated: 2025-11-19T10:00:13Z
+  Updated: 2025-11-26T11:13:39Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110068_1.jpg?v=1757498614
   Price: $780.65 CAD
 - [Counter Stool (Set of 2) Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110071): Experience the Counter Stool, a flawless fusion of contemporary and stylish Art Deco design. Featuring a long-lasting and reliable ester seat and sturdy steel frame, this stool seamlessly complements any interior, whether it's a trendy hotel counter area or an elegant home setting. With its harmonious blend of comfort and style, the counter stool invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your space with the unmatched allure of the counter stool today.
-  Updated: 2025-11-19T10:00:14Z
+  Updated: 2025-11-26T11:13:40Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110071_1.jpg?v=1757498617
   Price: $759.65 CAD
 - [Counter Stool (Set of 2) Beige Tweed - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110096): Introducing the counter stool, a sleek and long-lasting and reliable addition to any contemporary and stylish kitchen or dining area. Designed for both style and functionality, this stool is perfect for residential or commercial settings. It boasts a robust steel frame, providing a sturdy and long-lasting base with a contemporary flair. The seat is upholstered in high-quality performance fabric, offering both comfort and resilience against everyday wear and tear. The combination of the steel frame and performance fabric makes the counter stool an ideal choice for busy environments, ensuring it remains a stylish and ergonomically designed, superior comfort seating option for years to come. Whether you're enjoying a quick breakfast or hosting a casual gathering, the counter stool is sure to elevate your space with its contemporary and stylish elegance and practical design.
-  Updated: 2025-11-19T10:00:15Z
+  Updated: 2025-11-26T11:13:41Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110096_1.jpg?v=1757498619
   Price: $721.66 CAD
 - [Counter Stool Green Tweed - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110099): Meet the counter stool, a versatile and stylish addition to your kitchen or bar area. This counter stool is designed to elevate both contemporary and stylish and traditional settings, whether in residential or hospitality spaces. With meticulous craftsmanship, the counter stool offers an ergonomically designed seat atop a sturdy frame for superior comfort. Its timeless design effortlessly complements a range of interior styles, making it the perfect choice for those who appreciate both aesthetics and functionality. Enhance your seating experience with the counter stool, where style and comfort come together to create a sophisticated atmosphere in your space.
-  Updated: 2025-11-19T10:00:17Z
+  Updated: 2025-11-26T11:13:42Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110099_1.jpg?v=1757498621
   Price: $596.09 CAD
 - [Counter Stool (Set of 2) Vintage Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110262): Comfy and Bauhaus, the counter stool has a steel frame with powder-coated steel legs and is wrapped in vinyl. This chair completes any dining room, bar, or kitchen in any design, contemporary and stylish, minimal or boho industrial.
-  Updated: 2025-11-19T10:00:18Z
+  Updated: 2025-11-26T11:13:44Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110262_1.jpg?v=1757498625
   Price: $812.72 CAD
 - [Counter Stool (Set of 2) Vintage Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110263): Comfy and Bauhaus, the counter stool has a steel frame with powder-coated steel legs and is wrapped in vinyl. This chair completes any dining room, bar, or kitchen in any design, contemporary and stylish, minimal or boho industrial.
-  Updated: 2025-11-19T10:00:19Z
+  Updated: 2025-11-26T11:13:45Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110263_1.jpg?v=1757498628
   Price: $812.72 CAD
 - [Counter Stool (Set of 2) Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110337): Elevate your counter seating with the counter stool is a harmonious blend of style and functionality. This stool boasts an ergonomically designed vinyl seat and backrest for superior comfort, supported by a sleek steel frame, exuding contemporary elegance. Its versatile design effortlessly complements contemporary and stylish deco or glam counter space, suitable for both residential and hospitality settings. Whether savoring meals at home or welcoming guests in a chic bar, the counter stool adds a touch of sophistication to any setting, ensuring both comfort and visual appeal in every seating experience.
-  Updated: 2025-11-19T10:00:24Z
+  Updated: 2025-11-26T11:13:52Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110337_1.jpg?v=1757498636
   Price: $1,445.09 CAD
 - [Counter Stool (Set of 2) Green - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110340): Transform your counter space with the Counter Stool, exuding luxury and comfort. Upholstered in sumptuous velvet for the seat and back and supported by a sleek frame, this stool radiates elegance. Its design is a perfect fit for contemporary and stylish or upscale counter areas in both residential and commercial settings. The counter stool combines plush comfort with sophisticated style, making it an exquisite addition to any high-end bar or kitchen counter.
-  Updated: 2025-11-19T10:00:25Z
+  Updated: 2025-11-26T11:13:54Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110340_1.jpg?v=1757498638
   Price: $1,013.69 CAD
 - [Counter Stool (Set of 2) Blue - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110341): Transform your counter space with the Counter Stool, exuding luxury and comfort. Upholstered in sumptuous velvet for the seat and back and supported by a sleek frame, this stool radiates elegance. Its design is a perfect fit for contemporary and stylish or upscale counter areas in both residential and commercial settings. The counter stool combines plush comfort with sophisticated style, making it an exquisite addition to any high-end bar or kitchen counter.
-  Updated: 2025-11-19T10:00:26Z
+  Updated: 2025-11-26T11:13:56Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110341_1.jpg?v=1757498640
   Price: $1,013.69 CAD
 - [Swivel Counter Stool (Set of 2) Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110375): Presenting the Swivel Counter Stool, a versatile seating solution perfect for residential or hospitality spaces. With its sturdy steel base and ergonomically designed fabric seat for superior comfort, this stool effortlessly combines contemporary and stylish deco and transitional design elements. Its swivel function enhances mobility and comfort, making it ideal for various settings. Whether placed at a home counter or in a stylish hotel lounge, the counter stool adds sophistication and practicality to any space. Embrace its timeless design and premium materials for an elevated seating experience that harmonizes style with functionality.
-  Updated: 2025-11-19T10:00:27Z
+  Updated: 2025-11-26T11:13:58Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110375_1.jpg?v=1757498642
   Price: $901.13 CAD
 - [Counter Stool (Set of 2) Dove Gray & Espresso - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110399): The Counter Stool boasts a robust rubberwood frame paired with a plush fabric seat. Ideal for contemporary or urban design spaces, it effortlessly integrates into both residential and hospitality settings. With its chic and sophisticated design, the counter stool enhances any counter area with a touch of elegance and comfort.
-  Updated: 2025-11-19T10:00:29Z
+  Updated: 2025-11-26T11:13:59Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110399_1.jpg?v=1757498644
   Price: $967.18 CAD
 - [Counter Stool (Set of 2) Gray & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110493): Enhance your home with the Counter Stool in Gray & Walnut, a superb example of contemporary and stylish design. Crafted from premium polyester fabric and rubberwood, this stool offers a perfect blend of style and functionality. Its versatile design makes it ideal for any space, while its chic and contemporary look ensures it will stand out as a striking addition to any contemporary and stylish home.
-  Updated: 2025-11-19T10:00:30Z
+  Updated: 2025-11-26T11:14:00Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/8ce2200bbf21eacc2292a72c472c122efa16468f.jpg?v=1757498646
   Price: $847.43 CAD
 - [Counter Stool (Set of 2) Gray & Espresso - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110514): Introduce a unique, stylish piece to your home with the Counter Stool Gray & Espresso, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric and rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T10:00:30Z
+  Updated: 2025-11-26T11:14:01Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/cbb0e9c24dedc5b8550c923b49ef280081d23f8f.jpg?v=1757498647
   Price: $872.63 CAD
 - [Counter Stool Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110649): The Counter Stool Beige is a contemporary and stylish masterpiece, designed for versatility and elegance. Made with premium polyester fabric, plywood, and steel, it provides both aesthetic appeal and functionality, fitting seamlessly into a variety of spaces. Its chic, boho-inspired design makes it the perfect piece to deco any room or any style.
-  Updated: 2025-11-19T10:00:33Z
+  Updated: 2025-11-26T11:14:03Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/7e6cc3fab3d710d81208f6332f3455faaa0c54da.jpg?v=1757498649
   Price: $1,055.69 CAD
 - [Swivel Counter Stool Beige & Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110820): Transform your space with the Swivel Counter Stool in Beige & Brown. Crafted with care, the Swivel Counter Stool Beige & Brown comes in a sophisticated beige & brown tone. Constructed from textured fabric of 100% polyester powder-coated steel, it guarantees durability. Ideal for indoor bars, it seamlessly blends practicality with aesthetics. Add these stunning counter stools to your collection today.
-  Updated: 2025-11-19T10:00:34Z
+  Updated: 2025-11-26T11:14:04Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/69e8701852dab79ea292a2a4199ffcb354fd4124.jpg?v=1757498651
   Price: $721.73 CAD
 - [Dining Table White & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo100652): On-trend and decidedly contemporary and stylish, this sophisticated dining table will be on every designer's list. Gorgeous from every angle, the rectangular faux marble top seems to float atop its simple gold geometric base. Seats four comfortably, with room on either end for an additional chair.
-  Updated: 2025-11-19T10:00:37Z
+  Updated: 2025-11-26T11:14:06Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/bef3c3e91cf7fdd4a26a0b61b31b0038c5edd2b2.jpg?v=1757498654
   Price: $1,505.70 CAD
 - [Dining Table White & Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo100707): On-trend and decidedly contemporary and stylish, this sophisticated dining table will be on every designer's list. Gorgeous from every angle, the rectangular faux marble top seems to float atop its simple brushed silver base. Long and narrow to fit in most spaces, it's a perfect piece for your dining room or kitchen. Pair with the console for use as a sideboard or extra serving surface.
-  Updated: 2025-11-19T10:00:38Z
+  Updated: 2025-11-26T11:14:07Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/d401bf8e492738ca3ae4a74c3e6e098f25170204.jpg?v=1757498656
   Price: $1,411.20 CAD
 - [Dining Table White & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo101568): A stylish and hardworking table for all of your sapces: kitchen, living room, office, or bar area. A disc floats on a pedestal that appears to emerge from the ground.
-  Updated: 2025-11-19T10:00:41Z
+  Updated: 2025-11-26T11:14:11Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/7abb4ab907d39a565752ab6d6066e6ab15028b1f.jpg?v=1757498661
   Price: $1,259.92 CAD
 - [Bistro Table White & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo101570): A stylish and hardworking table for all of your sapces: kitchen, living room, office, or bar area. A disc floats on a pedestal that appears to emerge from the ground.
-  Updated: 2025-11-19T10:00:44Z
+  Updated: 2025-11-26T11:14:14Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/b8389d3fa365ad9a11c52f683efb080ca4955da0.jpg?v=1757498665
   Price: $559.94 CAD
 - [Bistro Table Brown & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo101571): A stylish and hardworking table for all of your sapces: kitchen, living room, office, or bar area. A disc floats on a pedestal that appears to emerge from the ground.
-  Updated: 2025-11-19T10:00:45Z
+  Updated: 2025-11-26T11:14:15Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/f47713ab0d513b4228647e0eb62f75f4ba774f78.jpg?v=1757498667
   Price: $588.13 CAD
 - [Bistro Table Brown & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo101740): A stylish and hardworking table for all of your spaces: kitchen, living room, office, or bar area. A disc floats on a pedestal that appears to emerge from the ground.
-  Updated: 2025-11-19T10:00:47Z
+  Updated: 2025-11-26T11:14:17Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/c242ef1c363256ff3fc147f4546c067467cafabf.jpg?v=1757498668
   Price: $556.63 CAD
 - [Dining Table White & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo101845): A stylish and hardworking table for all of your spaces: kitchen, living room, office, or bar area. A marble disc floats on a pedestal that appears to emerge from the ground. Adding a contemporary and stylish touch to any space while still being a timeless piece.
-  Updated: 2025-11-19T10:00:53Z
+  Updated: 2025-11-26T11:14:21Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/fc72acda38f8d733b159f3aa4130fdf88bf1cc7e.jpg?v=1757498676
   Price: $2,709.00 CAD
 - [Dining Table Gray & Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109445): The Dining Table 48" has a raw marble top with a steel base. This table looks great in any contemporary and stylish glam or deco dining area.
-  Updated: 2025-11-19T10:00:58Z
+  Updated: 2025-11-26T11:14:25Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/aopwg0cmymhuqvpjbot9.jpg?v=1757498681
   Price: $1,442.70 CAD
 - [Dining Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109856): The dining table is a beautiful and functional piece of furniture that would make a great addition to any contemporary and stylish dining room. It is made from brown-stained mango wood, which provides a warm and inviting feeling to the space. The table boasts a unique storage compartment inside the base, which is perfect for storing dinnerware or other items. This feature makes it an excellent choice for smaller spaces, such as apartments or condos, where storage can be at a premium.
-  Updated: 2025-11-19T10:01:07Z
+  Updated: 2025-11-26T11:14:32Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/4127cd92463e70188dbc5dab46a5e7f8d0ec3e29.jpg?v=1757498690
   Price: $1,411.20 CAD
 - [Dining Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109857): The natural, white-washed acacia wood top of the dining table provides a warm and inviting surface that is perfect for displaying decorative items or storing everyday essentials. Its minimalist design adds a sleek and contemporary, and stylish touch to the overall look of the table, making it a perfect fit for any contemporary living space. The sturdy construction of the table ensures long-lasting durability, making it a great choice for daily use.
-  Updated: 2025-11-19T10:01:08Z
+  Updated: 2025-11-26T11:14:33Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109857_1.jpg?v=1757498692
   Price: $1,606.50 CAD
 - [Dining Table Beige & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109928): Elevate your dining area with the Dining Table Beige & Bronze, a harmonious blend of MDF and steel that exudes both style and sturdiness. Perfect for everyday meals or special occasions, this table is designed to enrich any contemporary and stylish dining space with its sleek and contemporary appeal.
-  Updated: 2025-11-19T10:01:09Z
+  Updated: 2025-11-26T11:14:35Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/24260172e63a365c51f4d8153933a454fb2fb880.jpg?v=1757498694
   Price: $2,608.72 CAD
 - [Dining Table Black & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109957): The laminate MDF top is crafted with high-quality materials that make it long-lasting and reliable, easy to clean, and perfect for everyday use. The textured steel base provides a sturdy and stable foundation for the table while adding a touch of contemporary and stylish glam to the design.
-  Updated: 2025-11-19T10:01:10Z
+  Updated: 2025-11-26T11:14:36Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109957_1.jpg?v=1757498697
   Price: $1,433.25 CAD
 - [Bistro Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110019): Introducing the Bistro Table - a stunning fusion of contemporary and stylish industrial design and functionality. Crafted with a sturdy steel frame and a sleek laminate top, this table is not only long-lasting and reliable but also exudes contemporary elegance. Whether it graces your apartment's dining area or enhances the ambiance of your coffee shop, its versatile charm and minimalist aesthetic make it the perfect addition. Elevates your space with the Bistro Table, where form meets function in impeccable style.
-  Updated: 2025-11-19T10:01:11Z
+  Updated: 2025-11-26T11:14:37Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110019_1.jpg?v=1757498699
   Price: $1,312.42 CAD
 - [Dining Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110022): Introducing the Dining Table - a stunning fusion of contemporary and stylish industrial design and functionality. Crafted with a sturdy steel frame and a sleek laminate top, this table is not only long-lasting and reliable but also exudes contemporary elegance. Whether it graces your apartment's dining area or enhances the ambiance of your coffee shop, its versatile charm and minimalist aesthetic make it the perfect addition. Elevates your space with the dining table, where form meets function in impeccable style.
-  Updated: 2025-11-19T10:01:13Z
+  Updated: 2025-11-26T11:14:38Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110022_1.jpg?v=1757498701
   Price: $1,575.00 CAD
 - [Dining Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110052): Versatile and adaptable, the dining table seamlessly transitions between hospitality and residential environments, becoming a focal point in any setting. Its captivating blend of mid-century contemporary and stylish and industrial design elements ensures it complements various interior styles, making it a versatile and inspired choice for any space.
-  Updated: 2025-11-19T10:01:14Z
+  Updated: 2025-11-26T11:14:39Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/4bdadfdbeb14be16381901d1901d87af0d95fb5c.jpg?v=1757498704
   Price: $993.22 CAD
 - [Dining Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110086): Introducing the Dining Table, a masterpiece that seamlessly marries aesthetics and durability. Its high-pressure laminate top beautifully mimics the luxurious look of marble, while the solid wood base adds a touch of natural elegance. Whether gracing a residential space or enhancing a hospitality setting, the dining table effortlessly adapts to contemporary and stylish, deco, or glam designs. Versatile and chic, it is the ideal choice for those seeking a stunning centerpiece that complements various styles. Elevate your ambiance with the dining table, where sophistication meets resilience.
-  Updated: 2025-11-19T10:01:15Z
+  Updated: 2025-11-26T11:14:41Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110086_1.jpg?v=1757498706
   Price: $1,291.50 CAD
 - [Dining Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110087): Introducing the Dining Table, a testament to the perfect fusion of luxury and durability. With its high-pressure laminate top, beautifully emulating the opulence of marble, and a solid wood base, this table is a symbol of enduring charm. Whether gracing a residential space or complementing a hospitality setting, the dining table effortlessly adapts to contemporary and stylish deco or glam designs. Versatile and chic, it's the ideal choice for those who seek a stunning centerpiece that resonates with various styles. Elevate your space with the dining table, where sophistication meets resilience.
-  Updated: 2025-11-19T10:01:16Z
+  Updated: 2025-11-26T11:14:42Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110087_1.jpg?v=1757498708
   Price: $1,228.50 CAD
 - [Dining Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110187): Versatile and adaptable, the dining table seamlessly transitions between hospitality and residential environments, becoming a focal point in any setting. Its captivating blend of mid-century contemporary and stylish and industrial design elements ensures it complements various interior styles, making it a versatile and inspired choice for any space.
-  Updated: 2025-11-19T10:01:19Z
+  Updated: 2025-11-26T11:14:44Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/61a14e25ad675c097a336912b3275054dc580b75.jpg?v=1757498713
   Price: $650.45 CAD
 - [Dining Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110349): Introducing the Dining Table, a masterpiece of style and durability. Its sintered stone top paired with a sturdy steel base creates a captivating focal point. Whether it graces your home's dining area or enhances the ambiance of a restaurant, the dining table effortlessly adapts to various settings. With its versatile charm and robust construction, this table is the perfect choice for those who appreciate both aesthetics and resilience. Elevate your space with the dining table, where form meets function in impeccable style.
-  Updated: 2025-11-19T10:01:21Z
+  Updated: 2025-11-26T11:14:47Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110349_1.jpg?v=1757498718
   Price: $2,063.25 CAD
 - [Dining Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110356): Discover the dining table, a symbol of elegance and durability. Crafted with a sintered stone top and a robust steel base, this table exudes timeless charm. Whether it graces your home's dining area or enhances a restaurant's ambiance, the dining table seamlessly adapts to various settings. Its versatile appeal and sturdy construction make it the perfect choice for those who value both aesthetics and resilience. Elevate your space with the dining table, where form and function converge in perfect harmony.
-  Updated: 2025-11-19T10:01:23Z
+  Updated: 2025-11-26T11:14:48Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110356_1.jpg?v=1757498722
   Price: $1,921.50 CAD
 - [Dining Table Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110360): Meet the Kane Dining Table, a fusion of contemporary style and durability. Featuring a sleek steel base and a laminate wood top, this table effortlessly combines form and function. Whether it's the centerpiece of your home's dining area or a stylish addition to a restaurant, the Kane Dining Table adapts to diverse settings with ease. Its versatile design and sturdy construction make it an ideal choice for those who appreciate both aesthetics and reliability. Elevate your space with the Kane Dining Table, where contemporary and stylish elegance meets enduring strength.
-  Updated: 2025-11-19T10:01:24Z
+  Updated: 2025-11-26T11:14:49Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110360_1.jpg?v=1757498727
   Price: $1,386.00 CAD
 - [Dining Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110392): Your dining is with the dining table. Featuring a solid rubberwood wood frame and a wood veneer top, this table ensures durability and timeless elegance. It's clean, contemporary, and stylish, and its design fits seamlessly into any decor, making it a versatile addition to your home. Perfect for both casual meals and special gatherings, the dining table combines functionality with sophisticated style. Make every meal memorable with this beautifully crafted table.
-  Updated: 2025-11-19T10:01:25Z
+  Updated: 2025-11-26T11:14:51Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110392_1.jpg?v=1757498730
   Price: $2,252.25 CAD
 - [Dining Table Espresso - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110393): Your dining space with the dining table. Featuring a solid rubberwood frame and a wood veneer top, this table ensures durability and timeless elegance. It's clean, contemporary, and stylish, and its design fits seamlessly into any decor, making it a versatile addition to your home. Perfect for both casual meals and special gatherings, the dining table combines functionality with sophisticated style. Make every meal memorable with this beautifully crafted table.
-  Updated: 2025-11-19T10:01:26Z
+  Updated: 2025-11-26T11:14:52Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110393_1.jpg?v=1757498732
   Price: $2,252.25 CAD
 - [Bistro Table Beige & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110401): Bring a distinctive and stylish element to your home with the Table in Beige & Gold, a remarkable showcase of contemporary and stylish design. Crafted from premium MDF and steel, it effortlessly balances form and function, making it a versatile addition to any room. With its chic, contemporary look, this table is sure to stand out and enhance the elegance of any contemporary and stylish space.
-  Updated: 2025-11-19T10:01:28Z
+  Updated: 2025-11-26T11:14:54Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110401_1.jpg?v=1757498735
   Price: $643.94 CAD
 - [Bistro Table Gray & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110403): Elevate your home with the Table in Gray & Bronze, a striking piece that embodies contemporary and stylish design. Crafted from top-quality MDF and steel, this table perfectly merges style with functionality, offering a versatile addition to any room. Its sleek and contemporary aesthetic ensures it stands out as a bold feature in any contemporary and stylish home, bringing both elegance and practicality to your space.
-  Updated: 2025-11-19T10:01:30Z
+  Updated: 2025-11-26T11:14:55Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110403_1.jpg?v=1757498737
   Price: $643.94 CAD
 - [Bistro Table Black & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110405): Add a touch of sophistication to your home with the Table in Black & Bronze, a stunning example of contemporary and stylish design. Constructed from high-quality MDF and steel, it combines aesthetic appeal with practicality, making it a versatile choice for any room. Its chic, contemporary style ensures it becomes a standout feature in any contemporary and stylish living space, offering both beauty and functionality.
-  Updated: 2025-11-19T10:01:33Z
+  Updated: 2025-11-26T11:14:57Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110405_1.jpg?v=1757498739
   Price: $643.94 CAD
 - [Bistro Table Beige & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110407): Bring a distinctive flair to your home with the Table in Beige & Gold, a prime example of contemporary and stylish design. Expertly crafted from high-quality MDF and steel, this table seamlessly blends style and functionality, making it a versatile choice for any space. Its sleek and contemporary aesthetic ensures it stands out as a statement piece in any contemporary and stylish home, offering both practicality and visual appeal.
-  Updated: 2025-11-19T10:01:34Z
+  Updated: 2025-11-26T11:14:58Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110407_1.jpg?v=1757498741
   Price: $686.91 CAD
 - [Bistro Table Gray & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110409): Elevate your home decor with the Table in Gray & Bronze, a striking example of contemporary and stylish design. Made from premium MDF and steel, it perfectly balances style with functionality, making it a versatile option for any room. Its contemporary and chic design ensures it will stand out as a bold and practical addition to any contemporary and stylish living space.
-  Updated: 2025-11-19T10:01:35Z
+  Updated: 2025-11-26T11:14:59Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110409_1.jpg?v=1757498743
   Price: $686.91 CAD
 - [Bistro Table Black & Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110411): Introduce a unique, stylish piece to your home with the Table Black & Bronze, an exceptional example of contemporary and stylish design. Made from high-quality MDF and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T10:01:37Z
+  Updated: 2025-11-26T11:15:00Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110411_1.jpg?v=1757498745
   Price: $686.91 CAD
 - [2 in 1 Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110413): Introducing the 2-in-1 Dining/Gaming Table—a versatile and stylish addition to elevate your space. Crafted with a long-lasting and reliable MDF frame and top, this table seamlessly transitions from a sleek dining table to a gaming table perfect for poker and other games. Its contemporary and stylish design not only enhances the aesthetics of your space but also makes it an excellent choice for Airbnb properties. Whether you're hosting a dinner party or a game night, the table is the ultimate multi-functional solution that combines form and function effortlessly. Upgrade your space with the 2-in-1 dining/gaming table today.
-  Updated: 2025-11-19T10:01:38Z
+  Updated: 2025-11-26T11:15:02Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/zd2inwmzrydgmdcp4muh.jpg?v=1757498747
   Price: $1,874.25 CAD
 - [2 in 1 Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110445): The dining/game table has a wood laminate top with painted solid wood legs. This convertible table is versatile and stylish at the same time, with a beautiful look on one side and a soft felt surface with inlaid storage on the other. Liven up any multipurpose space with this cool table.
-  Updated: 2025-11-19T10:01:40Z
+  Updated: 2025-11-26T11:15:05Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/zpzxgj6046v9bsjlywk1.jpg?v=1757498750
   Price: $1,842.75 CAD
 - [Rectangular Dining Table Espresso - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110500): Add a sophisticated touch to your home with the rectangular dining table in espresso, a remarkable showcase of contemporary and stylish design. Constructed from high-quality rubberwood, this table masterfully combines style and functionality, making it a versatile centerpiece for any dining space. Its sleek and contemporary look ensures it will be a standout feature in any contemporary and stylish home, blending aesthetics with practicality.
-  Updated: 2025-11-19T10:01:41Z
+  Updated: 2025-11-26T11:15:07Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/a3eb1d3966d4b0b310bf32464e68e066b3ea1956.jpg?v=1757498753
   Price: $1,764.00 CAD
 - [Square Dining Table Espresso - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110501): Introduce a unique, stylish piece to your home with the Square Dining Table Espresso, an exceptional example of contemporary and stylish design. Made from high-quality rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T10:01:42Z
+  Updated: 2025-11-26T11:15:08Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/51b49ef54c64b374a21c0a2e2e1045c710dacff6.jpg?v=1757498754
   Price: $1,555.81 CAD
 - [Square Dining Table Espresso - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110505): Introduce a unique, stylish piece to your home with the Square Dining Table Espresso, an exceptional example of contemporary and stylish design. Made from high-quality rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T10:01:43Z
+  Updated: 2025-11-26T11:15:09Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/9ca0ecb8b16a4c2e1696303d9b274a0e6a7b7119.jpg?v=1757498755
   Price: $1,354.50 CAD
 - [Dining Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110508): Your dining area with the natural dining table, a harmonious blend of rubberwood that exudes both style and sturdiness. Perfect for everyday meals or special occasions, this table is designed to enrich any contemporary and stylish dining space with its sleek and contemporary appeal.
-  Updated: 2025-11-19T10:01:44Z
+  Updated: 2025-11-26T11:15:10Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/0f348da3963904b3905c6472821ee22b84505778.jpg?v=1757498757
   Price: $1,289.21 CAD
 - [Dining Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110588): Your dining area with the dining table, a harmonious blend of rubberwood that exudes both style and sturdiness. Perfect for everyday meals or special occasions, this table is designed to enrich any contemporary and stylish dining space with its sleek and contemporary appeal.
-  Updated: 2025-11-19T10:01:45Z
+  Updated: 2025-11-26T11:15:11Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/9e55271928abfe4473e965f318eaf6bf673784c7.jpg?v=1757498759
   Price: $1,406.92 CAD
 - [Dining Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110806): The Dining Table in White combines elegance with durability, featuring a marble top supported by a sturdy MDF and mango wood base. This contemporary and stylish dining table is ideal for both residential and hospitality use, adding a sophisticated touch to dining areas. Its clean white finish complements a variety of interior styles.
-  Updated: 2025-11-19T10:01:46Z
+  Updated: 2025-11-26T11:15:11Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/uhjog1uubkhvrvatrkmt.jpg?v=1757498760
   Price: $2,094.75 CAD
 - [Dining Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110807): The Dining Table in Black brings a bold, contemporary, and stylish aesthetic to indoor dining spaces. Crafted from marble, MDF, and mango wood, this dining table offers durability and style. Its sleek black finish makes it a perfect fit for contemporary residential or hospitality environments, serving as an eye-catching centerpiece in dining rooms.
-  Updated: 2025-11-19T10:01:47Z
+  Updated: 2025-11-26T11:15:12Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/yywqcu6d6o58hnes6h7b.jpg?v=1757498761
   Price: $2,551.50 CAD
 - [Dining Table White & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110808): The Dining Table in White & Black is a contemporary and stylish piece that enhances any dining space. Made from a combination of marble, MDF, and mango wood, its stylish white and black design offers both durability and elegance. Ideal for residential or hospitality use, this dining table serves as a sophisticated focal point for contemporary interiors.
-  Updated: 2025-11-19T10:01:48Z
+  Updated: 2025-11-26T11:15:12Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/qpfhd7tkbogumjin2tli.jpg?v=1757498762
   Price: $1,921.50 CAD
 - [Bistro Table White & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110809): The Bistro Table in White & Black is a sleek, contemporary, and stylish addition to indoor dining areas. Constructed from marble, MDF, and iron, this bistro table offers a perfect balance of style and function. Its white and black design complements a wide range of interior styles, making it suitable for both residential and hospitality spaces.
-  Updated: 2025-11-19T10:01:48Z
+  Updated: 2025-11-26T11:15:13Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/awtjgqv4cgi2bjtyoowd.jpg?v=1757498763
   Price: $1,512.00 CAD
 - [Rectangular Dining Table Gray - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704095): The Dining Table in Graphite offers a contemporary and stylish, sophisticated look. Crafted from terrazzo and acacia wood, this table is suitable for both hospitality and residential settings. Its urban design and long-lasting, and reliable materials make it a stylish and functional addition to any dining room.
-  Updated: 2025-11-19T10:01:56Z
+  Updated: 2025-11-26T11:15:19Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/jgx0rlkwjhijtyzqjn2k.jpg?v=1757498775
   Price: $3,402.00 CAD
 - [Extendable Dining Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704154): The extendable dining table natural makes a bold statement. Crafted with care, the Extendable Dining Table Natural comes in a sophisticated natural tone. Constructed from solid acacia wood, it guarantees durability. A versatile choice for outdoor dining, this item is perfect for both hospitality and residential use. Elevate your interiors with the Extendable Dining Table, natural, and enjoy Branch Modern's exceptional craftsmanship.
-  Updated: 2025-11-19T10:01:57Z
+  Updated: 2025-11-26T11:15:20Z
   Vendor: RBZO
   Product Type: Dining Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/np4atx3lw4mmxlrppw5w.jpg?v=1757498776
   Price: $804.36 CAD
 - [Floor Lamp White & Bronze - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56053): This posh arc floor lamp with its iconic mid-century sensibility sets a contemporary and stylish mood wherever you place it. A frosted glass sphere combines with soft, brushed brass to double down on contemporary design. Looks gorgeous in your office, bedside, or next to your favorite chair. Bulbs are not included; they are sold separately.
-  Updated: 2025-11-19T10:01:57Z
+  Updated: 2025-11-26T11:15:20Z
   Vendor: RBZO
   Product Type: Floor Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/w4nwrwakv0mxiz65nnch.jpg?v=1757498777
   Price: $920.96 CAD
 - [Floor Lamp Bronze - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56142): Light up your surroundings with the captivating beauty of the floor lamp. Its exquisite combination of industrial and contemporary, and stylish design makes it a remarkable statement piece that enhances any environment. Embrace the seamless fusion of design sophistication and contemporary allure embodied in the table lamp, and let it illuminate your space with timeless elegance today!
-  Updated: 2025-11-19T10:01:58Z
+  Updated: 2025-11-26T11:15:20Z
   Vendor: RBZO
   Product Type: Floor Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO56142_1.jpg?v=1757498779
   Price: $598.84 CAD
 - [Floor Lamp White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56178): Enhance your home with the Floor Lamp in White, a stunning example of contemporary and stylish design. Crafted from high-quality PVC and steel, this lamp offers the perfect blend of style and practicality, making it a versatile addition to any space. Its chic, contemporary aesthetic ensures it will stand out as a striking feature in any contemporary and stylish home.
-  Updated: 2025-11-19T10:01:59Z
+  Updated: 2025-11-26T11:15:22Z
   Vendor: RBZO
   Product Type: Floor Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/970cc3b739a2cf55acfc338d5be6c2f91b638900.jpg?v=1757498782
   Price: $608.01 CAD
 - [Floor Lamp Beige & Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56183): Introduce a unique, stylish piece to your home with the Floor Lamp Beige & Natural, an exceptional example of contemporary and stylish design. Made from high-quality PVC and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T10:02:01Z
+  Updated: 2025-11-26T11:15:22Z
   Vendor: RBZO
   Product Type: Floor Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/7fa22b3291d09a6b8f1883ff926dfe65ef4007fe.jpg?v=1757498785
   Price: $664.12 CAD
 - [Floor Lamp Black & Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56184): The floor lamp in black & natural makes a bold statement. This contemporary and stylish piece boasts a striking black and natural finish. Crafted from high-quality powder-coated steel and paper, it ensures lasting style and durability. A versatile lighting choice, this lamp is perfect for both hospitality and residential use. Experience the perfect combination of elegance and functionality with the Floor Lamp in Black & Natural
-  Updated: 2025-11-19T10:02:01Z
+  Updated: 2025-11-26T11:15:23Z
   Vendor: RBZO
   Product Type: Floor Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/e215675889260888781d6c4968daa082b2c2b2b3.jpg?v=1757498786
   Price: $820.87 CAD
 - [Side Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704021): The side table is a stylish and functional addition, perfect for enhancing your living space or complementing various settings. Crafted with precision, this side table offers both aesthetic appeal and practicality. Designed with a contemporary and stylish aesthetic, the side table seamlessly integrates into different environments, whether it's your living room, bedroom, or any other space in need of a chic accent. Its meticulous craftsmanship ensures its reliability and versatility. Elevate your decor with the side table, where style meets functionality. Whether you're looking for a conversation piece or an elegant surface, this side table offers a sophisticated solution for any setting. Embrace the essence of contemporary design with the side table.
-  Updated: 2025-11-19T10:02:04Z
+  Updated: 2025-11-26T11:15:25Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO704021_1.jpg?v=1757498791
   Price: $640.84 CAD
 - [Side Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704055): The side table in natural finish combines contemporary and stylish design with functional elegance. Made entirely of sturdy aluminum, this table is ideal for both hospitality and residential environments. Its clean lines and versatile aesthetic make it a perfect accent piece for any contemporary and stylish decor.
-  Updated: 2025-11-19T10:02:06Z
+  Updated: 2025-11-26T11:15:26Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/be91918ecd2d7ff71e7af45b4a3c17a759014019.jpg?v=1757498794
   Price: $381.76 CAD
 - [Coffee Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704056): Elevate your space with the coffee table in natural. This contemporary and stylish, urban-style table is crafted from high-quality aluminum, offering both durability and sophistication. Perfect for hospitality settings or living rooms, it provides a sleek surface for your coffee table books and decor.
-  Updated: 2025-11-19T10:02:08Z
+  Updated: 2025-11-26T11:15:27Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/67f8df54dc14c633793ee4713c8df39157062240.jpg?v=1757498796
   Price: $697.41 CAD
 - [Coffee Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704058): The Coffee Table in natural is a blend of contemporary design and practical functionality. Constructed with aluminum and ethylene, this table is both lightweight and long-lasting and reliable, making it suitable for both hospitality and residential use. Its contemporary and stylish urban aesthetic enhances any setting.
-  Updated: 2025-11-19T10:02:09Z
+  Updated: 2025-11-26T11:15:28Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/03e04ab5f83ae261d25ccc40fd317ae0a53fe4f8.jpg?v=1757498798
   Price: $1,030.76 CAD
 - [End Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704061): The end table in Brown brings a warm, earthy touch to your decor. Crafted from ethylene, this table is designed for durability and style, making it ideal for hospitality and residential settings. It's contemporary and stylish; urban design ensures it fits seamlessly into any contemporary space.
-  Updated: 2025-11-19T10:02:11Z
+  Updated: 2025-11-26T11:15:29Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/5fbe18d79df15a1c788f1681c406a7a97a97248f.jpg?v=1757498800
   Price: $379.07 CAD
 - [End Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704064): The End Table in White is the epitome of sleek contemporary and stylish design. Crafted from high-quality aluminum, this table is both lightweight and long-lasting and reliable, making it perfect for hospitality and residential settings. Its clean lines and minimalist aesthetic enhance any contemporary space.
-  Updated: 2025-11-19T10:02:13Z
+  Updated: 2025-11-26T11:15:30Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO704064_1.jpg?v=1757498802
   Price: $732.10 CAD
 - [End Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704065): The end table in black offers a bold, contemporary, and stylish look. Made from sturdy aluminum, this table is ideal for both hospitality and residential environments. Its urban style and versatile design make it a chic addition to any room.
-  Updated: 2025-11-19T10:02:15Z
+  Updated: 2025-11-26T11:15:32Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO704065_1.jpg?v=1757498805
   Price: $732.10 CAD
 - [End Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704066): The end table in white is a stylish and functional piece for any contemporary and stylish space. Constructed from aluminum, this table is perfect for both hospitality and residential use. Its sleek design and urban aesthetic make it a versatile addition to living rooms, lounges, and bedrooms.
-  Updated: 2025-11-19T10:02:17Z
+  Updated: 2025-11-26T11:15:33Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/a80af2e72387641967530267553be21f047893c3.jpg?v=1757498808
   Price: $696.65 CAD
 - [End Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704067): Add a touch of sophistication with the end table in black. Made from long-lasting and reliable aluminum, this table is designed for both hospitality and residential settings. Its contemporary and stylish urban style and sleek lines make it a perfect fit for any contemporary decor.
-  Updated: 2025-11-19T10:02:18Z
+  Updated: 2025-11-26T11:15:34Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO704067_1.jpg?v=1757498810
   Price: $696.65 CAD
 - [Coffee Table Charcoal - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704068): The Coffee Table in Charcoal combines contemporary and stylish design with practicality. Crafted from high-quality aluminum, this table is perfect for both hospitality and residential environments. It's sleek, urban style enhances any living room or lounge area.
-  Updated: 2025-11-19T10:02:19Z
+  Updated: 2025-11-26T11:15:35Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO704068_1.jpg?v=1757498812
   Price: $851.65 CAD
 - [Coffee Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704069): The coffee table in natural offers a blend of contemporary and stylish design and natural beauty. Made from long-lasting and reliable aluminum, this table is suitable for both hospital and residential use. Its clean lines and urban aesthetic make it a versatile piece for any decor.
-  Updated: 2025-11-19T10:02:21Z
+  Updated: 2025-11-26T11:15:36Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO704069_1.jpg?v=1757498814
   Price: $1,435.60 CAD
 - [Coffee Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704070): The ier Coffee Table in White brings a fresh, contemporary, and stylish look to any space. Crafted from sturdy aluminum, this table is perfect for hospitality and residential settings. Its sleek design and urban style make it a chic addition to living rooms and lounges.
-  Updated: 2025-11-19T10:02:22Z
+  Updated: 2025-11-26T11:15:37Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO704070_1.jpg?v=1757498816
   Price: $1,663.20 CAD
 - [Side Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704071): The side table in brown combines contemporary and stylish design with natural elements. Made from long-lasting and reliable aluminum, this table is suitable for both hospitality and residential environments. Its clean lines and urban aesthetic make it a versatile addition to any decor.
-  Updated: 2025-11-19T10:02:23Z
+  Updated: 2025-11-26T11:15:38Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO704071_1.jpg?v=1757498818
   Price: $675.44 CAD
 - [Coffee Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704072): Enhance your space with the coffee table in brown. Crafted from high-quality aluminum, this table is perfect for both hospitality and residential settings. Its contemporary and stylish urban design and natural finish make it a stylish and functional addition to any room.
-  Updated: 2025-11-19T10:02:25Z
+  Updated: 2025-11-26T11:15:40Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO704072_1.jpg?v=1757498821
   Price: $1,221.28 CAD
 - [Side Table Charcoal - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704073): The side table in charcoal offers a blend of contemporary style, design, and functionality. Made from long-lasting and reliable aluminum, this table is ideal for both hospitality and residential use. Its sleek, urban style and versatile design make it a perfect addition to any space.
-  Updated: 2025-11-19T10:02:26Z
+  Updated: 2025-11-26T11:15:42Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO704073_1.jpg?v=1757498823
   Price: $431.11 CAD
 - [Coffee Table Charcoal - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704074): The Coffee Table in Charcoal combines contemporary and stylish design with practical functionality. Crafted from high-quality aluminum, this table is suitable for both hospitality and residential environments. Its sleek, urban style enhances any living room or lounge area.
-  Updated: 2025-11-19T10:02:27Z
+  Updated: 2025-11-26T11:15:43Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO704074_1.jpg?v=1757498825
   Price: $1,257.04 CAD
 - [Coffee Table Set (2-Piece) White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704075): The coffee table set in white brings a contemporary and stylish, cohesive look to any space. Made from sturdy aluminum, these tables are perfect for both hospitality and residential settings. Their clean lines and urban design make them a chic addition to any room.
-  Updated: 2025-11-19T10:02:29Z
+  Updated: 2025-11-26T11:15:45Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/fcb2096fc17555068e4aa1d43d8c4d00b3bf815e.jpg?v=1757498827
   Price: $2,794.09 CAD
 - [Coffee Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704090): Introduce a unique, stylish piece to your home with the Coffee Table Black, an exceptional example of contemporary and stylish design. Made from high-quality aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T10:02:30Z
+  Updated: 2025-11-26T11:15:47Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/c86f93ff3f3e36c491018c8aec9447a3cdf9a1dc.jpg?v=1757498829
   Price: $1,694.51 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704091): The Side Table Black adds a contemporary and stylish flair to your living area through its elegant design and functional structure. Made from aluminum, this table acts as a chic companion to your sofa or bedside, offering an ideal space for essentials or decorative items. With its streamlined silhouette and contemporary aesthetic, it integrates effortlessly into any boho-inspired or minimalist setting.
-  Updated: 2025-11-19T10:02:31Z
+  Updated: 2025-11-26T11:15:48Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/6bef8ea837995e07e8b368d565eba8ed61f11416.jpg?v=1757498831
   Price: $1,206.83 CAD
 - [Coffee Table Gray - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704098): The coffee table in Gray blends contemporary and stylish design with natural materials. Made from terrazzo and acacia wood, this table is suitable for both hospitality and residential environments. Its urban style and long-lasting and reliable construction make it a perfect addition to any living room or lounge.
-  Updated: 2025-11-19T10:02:32Z
+  Updated: 2025-11-26T11:15:49Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ktiebjmbuexwoymwc35y.jpg?v=1757498832
   Price: $1,057.39 CAD
 - [Side Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704103): The Side Table in Natual brings a touch of elegance to any room. Made from acacia wood, this table is suitable for both hospitality and residential use. Its contemporary and stylish urban style and versatile design make it a perfect addition to any decor.
-  Updated: 2025-11-19T09:44:54Z
+  Updated: 2025-11-26T10:58:29Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/c8loyqulvw7ftjjx7i5n.jpg?v=1757497150
   Price: $672.34 CAD
 - [Side Table Natural & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704105): The Side Table in Graphite & natural offers a contemporary and stylish design with natural accents. Made from acacia wood and terrazzo, this table is perfect for both hospitality and residential use. Its urban style and long-lasting, and reliable construction make it a versatile piece for any decor.
-  Updated: 2025-11-19T09:44:55Z
+  Updated: 2025-11-26T10:58:31Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/im02hjsfrfk0fh24ktms.jpg?v=1757497151
   Price: $640.84 CAD
 - [Side Table Natural & Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704106): The side table in gray & natural combines contemporary design with rustic charm. Crafted from acacia wood and terrazzo, this table is suitable for both hospitality and residential settings. Its unique texture and urban style make it a standout piece in any room.
-  Updated: 2025-11-19T09:44:56Z
+  Updated: 2025-11-26T10:58:32Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/fwkcm3hjrm46fijuvqi1.jpg?v=1757497153
   Price: $640.84 CAD
 - [Coffee Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704110): Introduce a unique, stylish piece to your home with the Coffee Table Brown, an exceptional example of contemporary and stylish design. Made from high-quality aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:44:57Z
+  Updated: 2025-11-26T10:58:33Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/d6b4f0bbe276324a2a9a833acada67d14cb83444.jpg?v=1757497154
   Price: $942.00 CAD
 - [Coffee Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704113): Your outdoor space with the Coffee Table White is a remarkable example of contemporary and stylish design. Constructed from high-quality aluminum, this table offers the perfect blend of style and functionality, making it an ideal addition to patios, balconies, or garden areas. Its sleek and contemporary look ensures it stands out while enhancing the beauty of any outdoor setting.
-  Updated: 2025-11-19T09:44:58Z
+  Updated: 2025-11-26T10:58:34Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/04c47ef0890b3d1214d3065dfebc743b21fce78f.jpg?v=1757497155
   Price: $833.91 CAD
 - [Coffee Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704116): Introduce a unique, stylish piece to your home with the Coffee Table Brown, an exceptional example of contemporary and stylish design. Made from high-quality aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:44:59Z
+  Updated: 2025-11-26T10:58:35Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/55332a56ad0d27694e596d713d97765954b48f9a.jpg?v=1757497156
   Price: $1,401.60 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704136): The Side Table Black brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from aluminum, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist exterior.
-  Updated: 2025-11-19T09:44:59Z
+  Updated: 2025-11-26T10:58:36Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ceb17e58fd2ba2570a0dec15ae4a98abdf18c27a.jpg?v=1757497158
   Price: $598.75 CAD
 - [Coffee Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704138): Introduce a unique, stylish piece to your home with the Coffee Table Gray, an exceptional example of contemporary and stylish design. Made from high-quality aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:45:00Z
+  Updated: 2025-11-26T10:58:37Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/2527c6085770d644c09ea8e8273034672d1c6d0f.jpg?v=1757497159
   Price: $2,005.14 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo704139): The Side Table Gray brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from aluminum, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist exterior.
-  Updated: 2025-11-19T09:45:01Z
+  Updated: 2025-11-26T10:58:38Z
   Vendor: RBZO
   Product Type: Living Room Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/fee5b1e1aa71d5c65a9e4dfcb9c91a45b7d0b714.jpg?v=1757497161
   Price: $1,658.92 CAD
 - [Ottoman Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109219): The Ottoman has a wonderful boho chic braid with a fill for ergonomically designed for superior comfort seating
-  Updated: 2025-11-19T09:45:02Z
+  Updated: 2025-11-26T10:58:39Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/c4d95e350508b36a12bbf5edb4f4a6bf1250a1bc.jpg?v=1757497163
   Price: $352.93 CAD
 - [Ottoman Misty Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109815): Your living space with the Ottoman. Crafted with a sturdy wood frame and featuring a fabric-wrapped seat, it combines form and function seamlessly. This versatile piece effortlessly complements any contemporary and stylish interior, adding both style and comfort to your home. Whether used as a footrest, extra seating, or a chic accent, the Ottoman is a perfect addition to your contemporary living space.
-  Updated: 2025-11-19T09:45:04Z
+  Updated: 2025-11-26T10:58:40Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ab6821ba981c4f8a46f44bd1284de1c74b4af7f3.jpg?v=1757497167
   Price: $426.97 CAD
-- [Ottoman Beige & Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109821): The woven cotton seat of the Ottoman provides a soft and ergonomically designed surface that is perfect for lounging. Its boho-hip design adds a unique and stylish touch to the overall look of the ottoman, making it a perfect fit for any contemporary and stylish living space.
-  Updated: 2025-11-19T09:45:05Z
-  Vendor: RBZO
-  Product Type: Ottoman
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/e14e01c625cdd2cf881ae79fc72292d36db9bb55.jpg?v=1757497171
-  Price: $465.47 CAD
 - [Ottoman Beige & Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109823): The woven cotton seat of the Ottoman provides a soft and ergonomically designed surface that is perfect for lounging. Its boho-hip design adds a unique and stylish touch to the overall look of the ottoman, making it a perfect fit for any contemporary and stylish living space.
-  Updated: 2025-11-19T09:45:06Z
+  Updated: 2025-11-26T10:58:43Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/3e244dd7e5d0a91f7f5083bf3dd1d11675d5e257.jpg?v=1757497173
   Price: $501.17 CAD
 - [Ottoman Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109981): Elevate your space with the Ottoman. Wrapped in plush teddy fabric, it effortlessly enhances any setting, whether in hospitality or residential use. Boasting a contemporary and stylish design enriched with hints of glamour and deco flair, this ottoman is a striking addition to your interior. Redefine your seating and relaxation area with the ottoman, where comfort and style harmoniously come together.
-  Updated: 2025-11-19T09:45:07Z
+  Updated: 2025-11-26T10:58:44Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109981_1.jpg?v=1757497174
   Price: $847.46 CAD
 - [Ottoman Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110084): Introducing the Ottoman, a symbol of plush comfort and contemporary and stylish design. Adorned with luxurious fabric covering, this ottoman effortlessly complements a variety of contemporary and stylish spaces, from bedrooms to living areas and lofts. Its versatile presence adds an inviting touch to any room, inviting you to unwind and relax in style. Elevate your decor with the Ottoman, where plushness and contemporary aesthetics blend harmoniously.
-  Updated: 2025-11-19T09:45:09Z
+  Updated: 2025-11-26T10:58:45Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110084_1.jpg?v=1757497176
   Price: $739.22 CAD
 - [Ottoman Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110085): Meet the Ottoman, a fusion of plush indulgence and contemporary and stylish flair. Draped in sumptuous teddy fabric, this ottoman seamlessly fits into any contemporary setting, whether it's a bedroom, living area, or loft. Its adaptable presence adds a touch of comfort and style to your space, inviting you to kick back and relax in elegance. Elevate your decor with the Ottoman, where opulence and contemporary and stylish aesthetics converge effortlessly.
-  Updated: 2025-11-19T09:45:10Z
+  Updated: 2025-11-26T10:58:47Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110085_1.jpg?v=1757497178
   Price: $769.78 CAD
 - [Storage Ottoman Black & White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110181): Discover the Storage Ottoman, a perfect blend of functionality and style. This ottoman boasts a plush fabric top that invites comfort and relaxation, paired with a sturdy wood body for lasting durability. Its contemporary and stylish design, with a touch of glam, effortlessly complements any interior decor. Not just a chic seating option, it also offers practical storage space, making it ideal for keeping your living area tidy and stylish. your home with the versatile and elegant Storage Ottoman, where luxury meets practicality.
-  Updated: 2025-11-19T09:45:11Z
+  Updated: 2025-11-26T10:58:48Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/88fa8384adf8bf4546047109f96721154791e8d2.jpg?v=1757497181
   Price: $541.69 CAD
 - [Storage Ottoman Green - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110182): Discover the Storage Ottoman, a perfect blend of functionality and style. This ottoman boasts a plush fabric top that invites comfort and relaxation, paired with a sturdy wood body for lasting durability. Its contemporary and stylish design, with a touch of glam, effortlessly complements any interior decor. Not just a chic seating option, it also offers practical storage space, making it ideal for keeping your living area tidy and stylish. your home with the versatile and elegant Storage Ottoman, where luxury meets practicality.
-  Updated: 2025-11-19T09:45:12Z
+  Updated: 2025-11-26T10:58:50Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/0c7d0cc1ebc94bca66cc86f407038b0c1032ae7c.jpg?v=1757497183
   Price: $541.69 CAD
 - [Ottoman Oat Yellow - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110184): Introducing the Ottoman, where classic style meets lasting durability. This ottoman boasts a solid wood frame for robust support, topped with a soft fabric cushion for ultimate comfort. Its timeless design makes it a versatile piece, fitting seamlessly into various decor styles. The Ottoman is not just an ergonomically designed, superior comfort seating option but also an elegant addition to any room. Elevate your space with this stylish and sturdy piece, seamlessly blending functionality and aesthetic appeal.
-  Updated: 2025-11-19T09:45:13Z
+  Updated: 2025-11-26T10:58:51Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110184_1.jpg?v=1757497184
   Price: $669.00 CAD
 - [Ottoman Wisteria Purple - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110185): Introducing the Ottoman, where classic style meets lasting durability. This ottoman boasts a solid wood frame for robust support, topped with a soft fabric cushion for ultimate comfort. Its timeless design makes it a versatile piece, fitting seamlessly into various decor styles. The Ottoman is not just an ergonomically designed superior comfort seating option but also an elegant addition to any room. Elevate your your space with this stylish and sturdy piece, blending functionality and aesthetic appeal effortlessly.
-  Updated: 2025-11-19T09:45:14Z
+  Updated: 2025-11-26T10:58:53Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110185_1.jpg?v=1757497186
   Price: $669.00 CAD
 - [Ottoman White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110304): With its thick and lush cord-style fabric, the sofa adds a level of sophistication to any space. It has a wood frame construction with foam supported by springs and bands with solid wood feet. A large and extremely comfy piece with a contemporary and stylish shape, it makes any living space glam and exciting.
-  Updated: 2025-11-19T09:45:15Z
+  Updated: 2025-11-26T10:58:55Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110304_1.jpg?v=1757497188
   Price: $1,341.35 CAD
 - [Ottoman Red - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110342): Discover the Ottoman, a stylish and functional addition to any room. This ottoman boasts a solid wood body, elegantly wrapped in a high-quality fabric, offering both durability and a touch of elegance. Its versatile design makes it a perfect match for a variety of decor styles, from contemporary to classic. Ideal for use as an ergonomically designed footrest for superior comfort, a footrest, additional seating, or as an accent piece, the Ottoman combines practicality with aesthetic appeal. Elevate your space with the Ottoman, where comfort meets style in perfect harmony.
-  Updated: 2025-11-19T09:45:16Z
+  Updated: 2025-11-26T10:58:56Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/e6eec78abfb0e4197a64068c221ce5309e51f129.jpg?v=1757497191
   Price: $469.43 CAD
 - [Ottoman Yellow - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110343): Discover the Ottoman, a stylish and functional addition to any room. This ottoman boasts a solid wood body, elegantly wrapped in a high-quality fabric, offering both durability and a touch of elegance. Its versatile design makes it a perfect match for a variety of decor styles, from contemporary to classic. Ideal for use as an ergonomically designed footrest for superior comfort, a footrest, additional seating, or as an accent piece, the Ottoman combines practicality with aesthetic appeal. Elevate your space with the Ottoman, where comfort meets style in perfect harmony.
-  Updated: 2025-11-19T09:45:17Z
+  Updated: 2025-11-26T10:58:57Z
   Vendor: RBZO
   Product Type: Ottoman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/20bd13f4ca37d364f3c1dbdb91ecbd2660193087.jpg?v=1757497192
   Price: $469.43 CAD
 - [Barstool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo703989): This outdoor barstool provides a contemporary and stylish look for all spaces, residential or hospitality, with its weather-resistant frame and fabric blending outdoor and indoor living with this versatile piece.
-  Updated: 2025-11-19T09:45:18Z
+  Updated: 2025-11-26T10:58:59Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO703989_1.jpg?v=1757497194
   Price: $1,118.69 CAD
 - [Barstool (Set of 2) Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo703990): This outdoor barstool provides a contemporary and stylish look for all spaces, residential or hospitality, with its weather-resistant frame and fabric blending outdoor and indoor living with this versatile piece.
-  Updated: 2025-11-19T09:45:19Z
+  Updated: 2025-11-26T10:59:00Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO703990_1.jpg?v=1757497196
   Price: $1,118.69 CAD
 - [Wave Barstool White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704027): Introducing the Barstool—a harmonious blend of style and function designed for your outdoor bar or kitchen. Crafted with a sturdy aluminum frame and featuring plush olefin fabric seating, this barstool offers both durability and comfort for your outdoor seating needs. Crafted with precision, the Wave Barstool seamlessly complements various outdoor settings, whether it's your home patio, a seaside bar, or any outdoor space in need of contemporary and stylish elegance. Its robust aluminum frame ensures long-lasting quality, making it a reliable choice for any seating arrangement. Enhance your outdoor seating experience with the barstool. Whether you're sipping cocktails with friends or adding a chic touch to your outdoor establishment, this barstool combines form and function to provide an ergonomically designed seat for superior comfort and stylish seating. Embrace contemporary and stylish outdoor design with the Barstool.
-  Updated: 2025-11-19T09:45:21Z
+  Updated: 2025-11-26T10:59:01Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO704027_1.jpg?v=1757497198
   Price: $805.50 CAD
 - [Barstool Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704102): The Barstool in Natural offers a stylish seating option for any contemporary and stylish space. Featuring 100% olefin fabric and acacia wood, this barstool is perfect for both hospitality and residential environments. Its sleek, urban design ensures it fits seamlessly into any contemporary decor.
-  Updated: 2025-11-19T09:45:23Z
+  Updated: 2025-11-26T10:59:02Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/k89rwkut9zwkiir3n2l9.jpg?v=1757497202
   Price: $1,401.20 CAD
 - [Barstool (Set of 2) White & Green - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704140): Introduce a unique, stylish piece to your home with the Barstool White & Green, an exceptional example of contemporary and stylish design. Made from high-quality olefin and aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:45:24Z
+  Updated: 2025-11-26T10:59:03Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/065f6eee9a5feebf048280838e43b73d22ca875e.jpg?v=1757497203
   Price: $1,640.29 CAD
 - [Barstool White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704149): The Barstool in White is a sleek, contemporary, and stylish seating option for outdoor bar areas. Made from long-lasting and reliable aluminum, this barstool is lightweight yet sturdy. Its clean white finish complements a variety of outdoor settings, making it suitable for both residential patios and hospitality venues.
-  Updated: 2025-11-19T09:45:26Z
+  Updated: 2025-11-26T10:59:04Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/22ab9836b7d10134748a0b7c2449b130682cedd7.jpg?v=1757497204
   Price: $665.43 CAD
 - [Barstool (Set of 2) Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704157): Enhance your outdoor space with the Barstool Black, a striking embodiment of contemporary and stylish design. Crafted from high-quality aluminum, this barstool perfectly balances style and practicality, making it a versatile addition to patios, decks, or outdoor bars. It's chic and contemporary aesthetic ensures it will be a standout feature in any outdoor setting.
-  Updated: 2025-11-19T09:45:27Z
+  Updated: 2025-11-26T10:59:05Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO704157_1.jpg?v=1757497205
   Price: $1,894.81 CAD
 - [Dining Chair (Set of 2) Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo703987): This outdoor dining chair provides a contemporary and stylish look for all spaces, residential or hospitality, with its weather-resistant frame and fabric, blending outdoor and indoor living with this versatile piece.
-  Updated: 2025-11-19T09:45:30Z
+  Updated: 2025-11-26T10:59:07Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO703987_1.jpg?v=1757497210
   Price: $1,412.04 CAD
 - [Dining Chair (Set of 2) Natural - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo703988): This outdoor dining chair provides a contemporary and stylish look for all spaces, residential or hospitality, with its weather-resistant frame and fabric, blending outdoor and indoor living with this versatile piece.
-  Updated: 2025-11-19T09:45:32Z
+  Updated: 2025-11-26T10:59:08Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO703988_1.jpg?v=1757497212
   Price: $1,412.04 CAD
 - [Middle Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo703999): The Outdoor Sectional is sold in separate middle, corner, or ottoman pieces, allowing you to create a customized configuration that best fits your outdoor space. Each piece is crafted with a foam body and upholstered in long-lasting and reliable outdoor fabric, ensuring it can withstand the elements. Its clean lines and contemporary and stylish design make it a great addition to any outdoor space, whether you're relaxing poolside, hosting a barbecue, or simply enjoying a quiet evening outside.
-  Updated: 2025-11-19T09:45:33Z
+  Updated: 2025-11-26T10:59:09Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO703999_1.jpg?v=1757497213
   Price: $643.94 CAD
 - [Accent Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704022): Introducing the Accent Chair—a versatile addition suitable for outdoor living spaces or elevating hotel outdoor seating arrangements. Crafted with a robust powder-coated aluminum frame and adorned with cushions wrapped in olefin fabric, this chair seamlessly blends durability with comfort. The Accent Chair showcases a contemporary design that effortlessly fits into various outdoor settings, whether it's your private patio haven or a hotel's al fresco seating area. Its resilience against the elements ensures its reliability for outdoor relaxation. Elevate your outdoor environment with the Accent Chair, where style and endurance converge. Whether you're creating a cozy retreat in your garden or enhancing the comfort of your hotel's outdoor lounge, this chair offers a chic and inviting outdoor seating option. Embrace the epitome of outdoor luxury with the Accent Chair.
-  Updated: 2025-11-19T09:45:37Z
+  Updated: 2025-11-26T10:59:13Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/imjuyz31z2ivkcvgpbye.jpg?v=1757497221
   Price: $2,125.72 CAD
 - [Accent Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704024): The Accent Chair is a versatile addition, perfect for outdoor living spaces or enhancing hotel outdoor seating arrangements. Crafted with a sturdy powder-coated aluminum frame and adorned with olefin-wrapped cushions, this accent chair seamlessly combines durability and comfort. Designed with a contemporary flair, the Accent Chair effortlessly fits into various outdoor settings, whether it's your private patio retreat or a hotel's al fresco seating area. Its resilience against the elements ensures its reliability for outdoor relaxation. Elevate your outdoor ambiance with the Accent Chair, where style meets endurance. Whether you're looking to complete your garden setup or add a touch of sophistication to your hotel's outdoor lounge, this accent chair offers a chic and inviting outdoor seating solution. Embrace outdoor luxury with the Accent Chair.
-  Updated: 2025-11-19T09:45:38Z
+  Updated: 2025-11-26T10:59:14Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/p5prjtzaszhbg9yzvzwx.jpg?v=1757497223
   Price: $2,268.00 CAD
 - [Reef Accent Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704025): The Armchair, featuring a long-lasting and reliable aluminum frame and draped in olefin fabric, showcases a stylish, contemporary form adaptable to diverse environments like a rooftop deck in a condo, a serene Airbnb retreat, or an elegant boutique hotel.
-  Updated: 2025-11-19T09:45:38Z
+  Updated: 2025-11-26T10:59:15Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/jtah99cbigottn0ia6d6.jpg?v=1757497223
   Price: $1,789.20 CAD
 - [Lounge Chair Multicolor - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704031): Discover the Lounge Chair, a harmonious fusion of outdoor relaxation and contemporary and stylish design. Crafted with a solid acacia wood frame and a weather-resistant weave for the seat and back, this chair offers both durability and style. Whether it graces your contemporary and stylish outdoor living area or adds a touch of elegance to hospitable spaces, the lounge chair effortlessly adapts to diverse outdoor settings. With its inviting design and robust construction, it's the ideal choice for those who appreciate both aesthetics and resilience. Elevate your outdoor experience with the Lounge Chair, where comfort meets sophistication.
-  Updated: 2025-11-19T09:45:40Z
+  Updated: 2025-11-26T10:59:17Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO704031_1.jpg?v=1757497225
   Price: $594.49 CAD
 - [Dining Chair (Set of 2) White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704043): Introducing the Dining Chair, a stylish seating solution designed to enhance your dining experience. Crafted with meticulous attention to detail, this dining chair boasts a contemporary design that seamlessly fits into various settings. With its sturdy construction and timeless aesthetic, the dining chair effortlessly complements your dining room, kitchen, or any space in need of chic and ergonomically designed seating for superior comfort. Elevate your dining experience with the Dining Chair, where style meets practicality. Whether you're enjoying a family meal or hosting a dinner party with friends, this chair adds a touch of sophistication to your dining area. Embrace contemporary and stylish design with the Dining Chair.
-  Updated: 2025-11-19T09:45:44Z
+  Updated: 2025-11-26T10:59:21Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/q9cutpvzpf83irokbdf6.jpg?v=1757497230
   Price: $1,732.16 CAD
 - [Accent Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704046): In the realm of seating elegance, the accent chair stands as a paragon of both style and functionality. This chair, meticulously crafted and infused with exquisite detail, effortlessly blends aesthetic charm with practicality. With a design that embraces a contemporary aesthetic, the Accent Chair seamlessly integrates into an array of settings, whether it finds its place in your cozy living room, refined bedroom, or any space in search of a touch of sophistication. Its adaptability and steadfast reliability set it apart as a distinguished choice. Transform your interior decor with the Accent Chair, where style and utility gracefully converge. Whether you seek a captivating focal point or a refined seating solution, this chair infuses a touch of sophistication into any setting. Embrace contemporary design with the Accent Chair.
-  Updated: 2025-11-19T09:45:46Z
+  Updated: 2025-11-26T10:59:23Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/hhlkikau16mvgk881yzq.jpg?v=1757497234
   Price: $1,509.10 CAD
 - [Dining Chair (Set of 2) White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704048): Meet the Dining Chair, a perfect blend of outdoor comfort and contemporary and stylish design. Crafted with a long-lasting and reliable aluminum frame and featuring weather-resistant fabric for the seat and back, this chair offers both style and resilience. Whether it graces your outdoor dining area or adds sophistication to hospitality spaces, the dining chair effortlessly adapts to various outdoor settings. With its inviting design and sturdy construction, it's the ideal choice for those who value aesthetics and durability. Elevate your outdoor dining experience with the Dining Chair, where comfort meets contemporary elegance.
-  Updated: 2025-11-19T09:45:47Z
+  Updated: 2025-11-26T10:59:25Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/f4f80ef54f6b3aa354a145008260dfddc8653a15.jpg?v=1757497236
   Price: $1,992.00 CAD
 - [Dining Chair (Set of 2) Natural - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704059): The Dining Chair in Natural is designed for both style and comfort. Featuring 100% olefin fabric and a robust aluminum frame, this chair is perfect for dining areas in both hospitality and residential spaces. Its contemporary and stylish urban design seamlessly integrates with various interior decors.
-  Updated: 2025-11-19T09:45:50Z
+  Updated: 2025-11-26T10:59:28Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO704059_1.jpg?v=1757497242
   Price: $1,607.11 CAD
 - [Dining Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704077): Add a touch of contemporary and stylish sophistication to your home with the Dining Chair in White, a stunning example of contemporary design. Constructed from high-quality olefin and aluminum, this chair effortlessly balances aesthetics with practicality, making it a versatile choice for any dining space. Its sleek and chic design ensures it will be a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:45:51Z
+  Updated: 2025-11-26T10:59:28Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/e042d81d64ede5e61b9cdfeda7454a8eeecbcd51.jpg?v=1757497245
   Price: $1,359.67 CAD
 - [Dining Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704078): Introduce a unique, stylish piece to your home with the Dining Chair White, an exceptional example of contemporary and stylish design. Made from high-quality olefin and aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:45:51Z
+  Updated: 2025-11-26T10:59:29Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/f2dbde4c87d2491d0bdde4b9def06a1478e9d39a.jpg?v=1757497246
   Price: $963.25 CAD
 - [Dining Chair Black & Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704079): In Black & Beige, a perfect embodiment of contemporary and stylish design. Crafted from premium olefin and aluminum, this chair combines style and functionality, offering a versatile seating solution for any room. Its chic, contemporary design ensures it will be a standout feature in any contemporary and stylish home, blending aesthetics and practicality seamlessly.
-  Updated: 2025-11-19T09:45:52Z
+  Updated: 2025-11-26T10:59:30Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/5d668136cfbe1ddef2d951ddf45d5143530737e7.jpg?v=1757497248
   Price: $967.18 CAD
 - [Dining Chair Natural & Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704080): Introduce a unique, stylish piece to your home with the Dining Chair Natural & Beige, an exceptional example of contemporary and stylish design. Made from high-quality olefin and aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:45:53Z
+  Updated: 2025-11-26T10:59:31Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/18ae5a3c21f8596caf799015a6b13f8ab95de8f4.jpg?v=1757497249
   Price: $967.18 CAD
 - [Dining Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704081): Bring contemporary and stylish elegance to your home with the Dining Chair in Beige, a striking example of contemporary design. Made from high-quality polyester fabric and aluminum, this chair balances aesthetics and practicality perfectly, making it a versatile addition to any dining space. Its sleek and chic design ensures it will stand out as a stylish feature in any contemporary and stylish home.
-  Updated: 2025-11-19T09:45:54Z
+  Updated: 2025-11-26T10:59:32Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/3da6399422514c1e52a2378425bb21c309e3c8b5.jpg?v=1757497250
   Price: $1,201.24 CAD
 - [Dining Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704082): The dining chair has a fully powder-coated aluminum frame with a matte finish. This fully welded design brings a contemporary and stylish, long-lasting, and reliable construction to a classic shape. Outdoor or indoor, this chair works well in any dining room or café.
-  Updated: 2025-11-19T09:45:54Z
+  Updated: 2025-11-26T10:59:33Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/fc840043af4c7670d2e406cd3b894461f9d37aae.jpg?v=1757497252
   Price: $1,217.43 CAD
 - [Dining Chair Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704083): The dining chair has a fully powder-coated aluminum frame with a matte finish. This fully welded design brings a contemporary, stylish, long-lasting, and reliable construction to a classic shape. Outdoor or indoor, this chair works well in any dining room or café.
-  Updated: 2025-11-19T09:45:55Z
+  Updated: 2025-11-26T10:59:33Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/c3b8765a71b453336447d577ae288ec896c9ccd7.jpg?v=1757497253
   Price: $1,217.43 CAD
 - [Dining Chair (Set of 2) White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704084): Introduce a unique, stylish piece to your home with the Dining Chair White, an exceptional example of contemporary and stylish design. Made from high-quality aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:45:56Z
+  Updated: 2025-11-26T10:59:34Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/5ac6537745a112ee4da9a3ca6d8b428efbe7afbf.jpg?v=1757497254
   Price: $1,782.10 CAD
 - [Dining Chair (Set of 2) Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704085): The Dining Chair Black is a contemporary and stylish masterpiece, designed for versatility and elegance. Made with premium aluminum, it provides both aesthetic appeal and functionality, fitting seamlessly into a variety of spaces. Its chic, boho-inspired design makes it the perfect piece to elevate any room or any style.
-  Updated: 2025-11-19T09:45:57Z
+  Updated: 2025-11-26T10:59:35Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/26c14749f60ab546eb9fbe6a2b3381513f451c33.jpg?v=1757497255
   Price: $1,782.10 CAD
 - [Armchair Green - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704088): Enhance your outdoor space with the Armchair Green, a striking example of contemporary and stylish design. Crafted from high-quality olefin and aluminum, this armchair beautifully balances style and functionality, making it a versatile addition to patios, gardens, or conies. Its chic and contemporary aesthetic ensures it will be a standout feature in any outdoor setting.
-  Updated: 2025-11-19T09:45:58Z
+  Updated: 2025-11-26T10:59:36Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/704cb02437cd949d0a4d26d33cab737332233f50.jpg?v=1757497257
   Price: $2,110.50 CAD
 - [Lounge Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704117): The lounge chair has an olefin acrylic fabric cover and a foam bead filling. This indoor and outdoor lounge is the perfect piece for any home to add a contemporary and stylish touch, perfect for that Airbnb outdoor space.
-  Updated: 2025-11-19T09:46:00Z
+  Updated: 2025-11-26T10:59:39Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/cfc21ab64041cf2bee270d484bbfe7cb543e3f0f.jpg?v=1757497259
   Price: $2,268.00 CAD
 - [Dining Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704121): Elevate your outdoor dining experience with the Dining Chair Beige, a remarkable example of contemporary and stylish design. Crafted from premium olefin and aluminum, this chair effortlessly blends aesthetics with practicality, providing a versatile seating solution for patios, decks, or outdoor dining areas. Its chic and contemporary style ensures it will be a standout addition to any outdoor space.
-  Updated: 2025-11-19T09:46:01Z
+  Updated: 2025-11-26T10:59:39Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/c16a89cc6ba309ac2418702552156916f56f85d7.jpg?v=1757497260
   Price: $1,799.66 CAD
 - [Accent Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704124): Enhance your outdoor area with the Accent Chair Beige, a striking example of contemporary and stylish design. Crafted from premium olefin, aluminum, and polyethylene, this chair perfectly combines aesthetics with practicality, making it a versatile addition to patios, porches, or gardens. Its chic and contemporary design ensures it stands out, elevating the style of any outdoor setting.
-  Updated: 2025-11-19T09:46:02Z
+  Updated: 2025-11-26T10:59:40Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/91889a53a6dc76d6a03997d4bb06d9bded88acdd.jpg?v=1757497261
   Price: $2,504.25 CAD
 - [Accent Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704126): The Accent Chair is wrapped in olefin acrylic fabric with an outdoor foam seat. With its contemporary and stylish shape and high-woven back, it adds a sense of style to any indoor or outdoor space.
-  Updated: 2025-11-19T09:46:02Z
+  Updated: 2025-11-26T10:59:41Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/0506965250224bc538291036c225f26c8c559dee.jpg?v=1757497262
   Price: $3,134.25 CAD
 - [Accent Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704128)
-  Updated: 2025-11-19T09:46:03Z
+  Updated: 2025-11-26T10:59:42Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/96c7015873b63192a17590eb0b49ce1a07b4aed8.jpg?v=1757497262
   Price: $1,535.41 CAD
 - [Swivel Chair White & Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704134): Introduce a unique, stylish piece to your home with the Swivel Chair White & Brown, an exceptional example of contemporary and stylish design. Made from high-quality olefin, aluminum, and polyethylene, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:46:04Z
+  Updated: 2025-11-26T10:59:42Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/8028148925bd554bf2606966c4ca6d6ae356b77b.jpg?v=1757497263
   Price: $1,847.66 CAD
 - [Lounge Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704152): The Outdoor Lounge chair is made from recycled foam and upholstered in long-lasting and reliable outdoor olefin fabric. It is shipped compressed for easy delivery and shipping. Its clean lines and contemporary and stylish design make it a great addition to any outdoor space, whether you're relaxing poolside, hosting a barbecue, or simply enjoying a quiet evening outside.
-  Updated: 2025-11-19T09:46:04Z
+  Updated: 2025-11-26T10:59:43Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/675bd6f610bea6d0891009b990ceb5ef3d806a4f.jpg?v=1757497264
   Price: $857.91 CAD
 - [Lounge Chair Multicolor - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704153): Introducing the Lounge Chair Multicolor—a must-have for your interior. Finished in multicolor, this design is ideal for any setting. Constructed from solid acacia wood and synthetic rattan weave (100% polyethylene), it guarantees durability. Whether in a home or a hospitality setting, the Lounge Chair Multicolor excels in functionality and design. Elevate your interiors with the Lounge Chair Multicolor and enjoy Branch Modern's exceptional craftsmanship.
-  Updated: 2025-11-19T09:46:05Z
+  Updated: 2025-11-26T10:59:44Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ifv6np57ey9ugqmoypga.jpg?v=1757497265
   Price: $634.41 CAD
 - [Sofa Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704023): The sofa is a versatile addition ideal for outdoor living spaces or enhancing hotel outdoor seating arrangements. Crafted with a sturdy powder-coated aluminum frame and adorned with olefin-wrapped cushions, this sofa offers a seamless combination of durability and comfort. With its contemporary design, the sofa effortlessly fits into various outdoor settings, whether it's your personal patio retreat or a hotel's al fresco seating area. Its resilience against the elements ensures its reliability for outdoor relaxation. Elevate your outdoor environment with the sofa, where style meets endurance. Whether you're creating a cozy corner in your garden or enhancing the comfort of your hotel's outdoor lounge, this sofa provides a chic and inviting outdoor seating solution. Embrace the epitome of outdoor luxury with the sofa.
-  Updated: 2025-11-19T09:46:06Z
+  Updated: 2025-11-26T10:59:45Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/xxfs09kfrrgdvebwyluz.jpg?v=1757497265
   Price: $4,362.75 CAD
 - [Reef Loveseat Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704026): Crafted with a robust aluminum frame and adorned in olefin fabric, the loveseat boasts a sleek, contemporary design suitable for various settings, from a chic condo rooftop deck to a tranquil Airbnb oasis or a boutique hotel.
-  Updated: 2025-11-19T09:46:06Z
+  Updated: 2025-11-26T10:59:45Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/hutglzzey4uevg2k0br0.jpg?v=1757497266
   Price: $3,049.20 CAD
 - [Sofa White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704045): The sofa is a true embodiment of style and functionality, offering a versatile addition suitable for various settings. Crafted with meticulous care and acute attention to detail, this sofa seamlessly harmonizes aesthetic elegance with practicality. Designed with a contemporary sensibility, the sofa effortlessly integrates into diverse environments, whether it graces your cozy living room, refined bedroom, or any space in need of a touch of sophistication. Its adaptability and reliability distinguish it as a remarkable choice. Elevate your interior decor with the sofa, where style and utility gracefully intersect. Whether you're seeking a captivating centerpiece or a refined seating solution, this sofa adds a dash of sophistication to any setting. Embrace contemporary design with the sofa.
-  Updated: 2025-11-19T09:46:08Z
+  Updated: 2025-11-26T10:59:47Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/xhycnunqx3mfpnwsrqdn.jpg?v=1757497268
   Price: $2,724.75 CAD
 - [Sofa Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704047): In the realm of luxurious seating, the sofa reigns as an epitome of both style and functionality. This sofa, meticulously handcrafted and adorned with intricate detailing, seamlessly marries aesthetic charm with practicality. Designed with a contemporary flair, the sofa effortlessly integrates into an array of environments, whether it graces your inviting living room, elegant bedroom, or any space yearning for a touch of sophistication. Its versatility and steadfast reliability distinguish it as a distinguished choice. Elevate your interior decor with the sofa, where style and utility elegantly intersect. Whether you desire a captivating centerpiece or a refined seating solution, this sofa imparts a sense of sophistication to any setting. Embrace contemporary design with the sofa.
-  Updated: 2025-11-19T09:46:09Z
+  Updated: 2025-11-26T10:59:48Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ilbndvgc7rdbm5mqpfnk.jpg?v=1757497269
   Price: $2,929.50 CAD
 - [Bench Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704086): Introduce a unique, stylish piece to your home with the Bench Naal, an exceptional example of contemporary and stylish design. Made from high-quality aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:46:10Z
+  Updated: 2025-11-26T10:59:49Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ed9654fea966be98960e29f0d1a54e5997995ab7.jpg?v=1757497270
   Price: $994.62 CAD
 - [Bench Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704087): Your home decor with the Bench Black, a striking embodiment of contemporary and stylish design. Crafted from premium aluminum, this bench seamlessly blends aesthetics with functionality, making it a versatile choice for any environment. Its contemporary and stylish appearance ensures it will be a focal point in any contemporary and stylish setting.
-  Updated: 2025-11-19T09:46:11Z
+  Updated: 2025-11-26T10:59:50Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/934198de88624d99531e604a740789f55026cd61.jpg?v=1757497272
   Price: $994.62 CAD
 - [Sofa Green - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704089): Enhance your living space with the Sofa Green, a remarkable showcase of contemporary and stylish design. Constructed from long-lasting and reliable olefin and aluminum, this sofa harmoniously combines style and functionality, providing a versatile option for various settings. With its sleek and contemporary look, it promises to be a striking addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:46:11Z
+  Updated: 2025-11-26T10:59:51Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/637960e2d819f4b1d8393d2275cedd8ed87434fb.jpg?v=1757497273
   Price: $4,362.75 CAD
 - [Sofa Taupe & White - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704112): Introduce a unique, stylish piece to your home with the Sofa Taupe & White, an exceptional example of contemporary and stylish design. Made from high-quality olefin and aluminum, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any sp. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:46:12Z
+  Updated: 2025-11-26T10:59:51Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/67eebc370f83e059b8ebb8af1db1f5fb1ba7bd10.jpg?v=1757497274
   Price: $2,205.00 CAD
 - [Sofa Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704115): Transform your outdoor area with the Sofa Gray, a striking embodiment of contemporary and stylish design. Crafted from premium olefin and aluminum, this sofa expertly combines style and practicality, providing a versatile solution for patios, decks, or gardens. It's chic and contemporary aesthetic ensures it will be a standout feature in any outdoor space.
-  Updated: 2025-11-19T09:46:13Z
+  Updated: 2025-11-26T10:59:52Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/824e591e9908eb29b61f32af25057e174819ac5d.jpg?v=1757497275
   Price: $2,961.00 CAD
 - [Ottoman Green - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704118): The Ottoman has an olefin acrylic fabric cover and a foam bead filling. This indoor and outdoor ottoman is the perfect piece for any home to add a contemporary and stylish touch, and it is ideal for that Airbnb outdoor space.
-  Updated: 2025-11-19T09:46:14Z
+  Updated: 2025-11-26T10:59:53Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/d3b4fce97647a0609d43a249beead41d143a59cc.jpg?v=1757497275
   Price: $700.58 CAD
 - [Ottoman Red - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704119): Elevate your outdoor setting with the Ottoman Red, a stunning representation of contemporary and stylish design. Crafted from high-quality olefin, propylene, and Textilene, this ottoman beautifully balances style and functionality, making it a versatile choice for patios, decks, or gardens. Its chic and contemporary look ensures it will be a standout addition to any outdoor space.
-  Updated: 2025-11-19T09:46:15Z
+  Updated: 2025-11-26T10:59:54Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/88086bcdad13460d797809a497058295cc0985ec.jpg?v=1757497276
   Price: $534.56 CAD
 - [Sofa Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704125): Transform your outdoor area with the Sofa Beige, a stunning representation of contemporary and stylish design. Constructed from high-quality olefin, aluminum, and polyethylene, this sofa harmonizes style and functionality, providing a versatile seating option for patios, gardens, or conies. Its chic and contemporary look ensures it will be a standout piece in any outdoor setting.
-  Updated: 2025-11-19T09:46:16Z
+  Updated: 2025-11-26T10:59:55Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/4075cee8e6d610fa75f06503fd5848067fbd9163.jpg?v=1757497278
   Price: $3,874.50 CAD
 - [Sofa Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704127): The sofa is made with a powder-coated aluminum frame with olefin acrylic fabric coverings and accents. This sofa has a soft, contemporary, and stylish shape that brings a sense of design to any living space, indoor or outdoor, residential or hospitality.
-  Updated: 2025-11-19T09:46:16Z
+  Updated: 2025-11-26T10:59:55Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/02315fbf2d3dab8a788857f70e29a95136e821e6.jpg?v=1757497279
   Price: $3,669.75 CAD
 - [Loveseat Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704129): Transform your outdoor living area with the Loveseat Beige, a remarkable showcase of contemporary and stylish design. Crafted from premium olefin and aluminum, this loveseat masterfully balances style and practicality, providing a versatile seating solution for patios, gardens, or conies. Its chic and contemporary look ensures it will be a striking addition to any outdoor space.
-  Updated: 2025-11-19T09:46:17Z
+  Updated: 2025-11-26T10:59:56Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/e38728fa7551cf7d0497762da744245a72e0ff9d.jpg?v=1757497280
   Price: $2,063.25 CAD
 - [Ottoman Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704151): The Outdoor Sectional is sold in separate middle, corner, or ottoman pieces, allowing you to create a customized configuration that best fits your outdoor space. Each piece is crafted with a foam body and upholstered in long-lasting and reliable outdoor fabric, ensuring that it can withstand the elements. Its clean lines and contemporary and stylish design make it a great addition to any outdoor space, whether you're relaxing poolside, hosting a barbecue, or simply enjoying a quiet evening outside.
-  Updated: 2025-11-19T09:46:18Z
+  Updated: 2025-11-26T10:59:57Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO704151_8.jpg?v=1757497280
   Price: $491.11 CAD
 - [Extendable Stool (Set of 2) Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704155): Introducing the Extendable Stool Natural—a must-have for your interior. This contemporary and stylish piece boasts a natural finish. Constructed from solid acacia wood, it guarantees durability. Ideal for outdoor dining, it seamlessly blends practicality with aesthetics. Elevate your interiors with the natural Extendable Stool and enjoy Branch Modern's exceptional craftsmanship.
-  Updated: 2025-11-19T09:46:19Z
+  Updated: 2025-11-26T10:59:58Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/x85g1ktpseqoryd9ih7w.jpg?v=1757497283
   Price: $962.47 CAD
 - [Extendable Bench (Set of 2) Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo704156): The Extendable Bench's natural wood makes a bold statement. Crafted with care, the Extendable Bench natural comes in a sophisticated, natural tone. Constructed from solid acacia wood, it guarantees durability. Ideal for outdoor living, it seamlessly blends practicality with aesthetics. Elevate your interiors with the Extendable Bench, natural, and enjoy Branch Modern's exceptional craftsmanship.
-  Updated: 2025-11-19T09:46:20Z
+  Updated: 2025-11-26T11:00:00Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/u92wocqmcaanxw5fjkui.jpg?v=1757497283
   Price: $1,250.63 CAD
 - [Corner Chair Green - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109996): Discover the Corner Chair, a fusion of luxury and durability, ideal for both contemporary and stylish and Art Deco settings. Wrapped in a rich velvet fabric, it offers a textured, inviting touch, enhancing its visual and tactile appeal. The chair's robust plywood frame promises lasting stability, perfectly complementing the fabric's plushness. Whether gracing a hotel lobby or enriching a living room, the versatile and modular design adapts effortlessly to various decor styles. Its elegant yet simple structure makes it a standout piece, embodying comfort and style in every curve. The Corner Chair is not just seating but also a statement of sophisticated taste.
-  Updated: 2025-11-19T09:46:21Z
+  Updated: 2025-11-26T11:00:01Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/b0b35fc7c66dcb5cd4a37921cc53ab54d23bbaa9.jpg?v=1757497284
   Price: $1,701.00 CAD
 - [Middle Chair Green - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109997): Discover the Middle Chair, a fusion of luxury and durability, ideal for both contemporary and stylish and Art Deco settings. Wrapped in a rich velvet fabric, it offers a textured, inviting touch, enhancing its visual and tactile appeal. This chair's robust plywood frame promises lasting stability, perfectly complementing the fabric's plushness. Whether gracing a hotel lobby or enriching a living room, the versatile and modular design adapts effortlessly to various decor styles. Its elegant yet simple structure makes it a standout piece, embodying comfort and style in every curve. The Middle Chair is not just seating but a statement of sophisticated taste.
-  Updated: 2025-11-19T09:46:22Z
+  Updated: 2025-11-26T11:00:03Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109997_1.jpg?v=1757497286
   Price: $1,824.92 CAD
 - [Middle Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110281): A contemporary, artistic, and opulent masterpiece, the Middle Chair is meticulously crafted from long-lasting and reliable plywood. It serves as a versatile addition to hotel lobbies, living rooms, bars, or bedrooms. The chair's sleek design effortlessly complements any interior style, while the sumptuous velvet fabric ensures comfort and luxury. Its enduring white finish exudes sophistication in any environment. Elevate your space with this captivating piece, merging contemporary aesthetics with a hint of extravagance. Whether you desire a bold lobby focal point, a cozy living room addition, a chic bar seat, or a lavish bedroom accent, the Middle Chair delivers style and comfort in one remarkable package.
-  Updated: 2025-11-19T09:46:25Z
+  Updated: 2025-11-26T11:00:04Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110281_1.jpg?v=1757497288
   Price: $1,779.75 CAD
 - [Corner Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110282): A contemporary, artistic, and opulent masterpiece, the Corner Chair is meticulously crafted from long-lasting and reliable plywood. It serves as a versatile addition to hotel lobbies, living rooms, bars, or bedrooms. The chair's sleek design effortlessly complements any interior style, while the sumptuous velvet fabric ensures comfort and luxury. Its enduring white finish exudes sophistication in any environment. Elevate your space with this captivating piece, merging contemporary aesthetics with a hint of extravagance. Whether you desire a bold lobby focal point, a cozy living room addition, a chic bar seat, or a lavish bedroom accent, the Corner Chair delivers style and comfort in one remarkable package.
-  Updated: 2025-11-19T09:46:27Z
+  Updated: 2025-11-26T11:00:06Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/d9f4cc7adb439782cd697353b5a426331a314c39.jpg?v=1757497290
   Price: $1,858.50 CAD
 - [Modular Sectional Beige - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110295): Introducing the Modular Sectional, a revolution in seating versatility and style. Crafted with a sturdy wood frame and adorned with sumptuous velvet seats and backs, this sectional exudes both contemporary and stylish flair and elegance. Its modular design allows the pieces to combine effortlessly, creating either a circular or crescent-shaped seating arrangement reminiscent of banquet-style gatherings. Whether arranged for intimate conversations or grand social events, the modular sectional adds sophistication and luxury to any space. Embrace its innovative design and opulent materials, making it the centerpiece of your contemporary or deco-inspired decor.
-  Updated: 2025-11-19T09:46:28Z
+  Updated: 2025-11-26T11:00:07Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/180ccbbc00624854cd5732ba2e057f01e19e6487.jpg?v=1757497292
   Price: $1,370.25 CAD
 - [Corner Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110366): Discover the Corner Chair, a fusion of luxury and durability, ideal for both contemporary and stylish and Art Deco settings. Wrapped in poly linen fabric, it offers a textured, inviting touch, enhancing its visual and tactile appeal. The chair's robust plywood frame promises lasting stability, perfectly complementing the fabric's plushness. Whether gracing a hotel lobby or enriching a living room, the versatile and modular design adapts effortlessly to various decor styles. Its elegant yet simple structure makes it a standout piece, embodying comfort and style in every curve. The Corner Chair is not just seating but also a statement of sophisticated taste.
-  Updated: 2025-11-19T09:46:30Z
+  Updated: 2025-11-26T11:00:09Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/3ed16fec6390d5d90d50d6da913837b50a831b43.jpg?v=1757497294
   Price: $1,811.25 CAD
 - [Middle Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110367): Discover the Middle Chair, a fusion of luxury and durability, ideal for both contemporary and stylish and Art Deco settings. Wrapped in poly linen fabric, it offers a textured, inviting touch, enhancing its visual and tactile appeal. The chair's robust plywood frame promises lasting stability, perfectly complementing the fabric's plushness. Whether gracing a hotel lobby or enriching a living room, the versatile and modular design adapts effortlessly to various decor styles. Its elegant yet simple structure makes it a standout piece, embodying comfort and style in every curve. The Middle Chair is not just seating but also a statement of sophisticated taste.
-  Updated: 2025-11-19T09:46:32Z
+  Updated: 2025-11-26T11:00:11Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110367_1.jpg?v=1757497298
   Price: $1,908.92 CAD
 - [Middle Chair Dune Greige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110432): Introduce a unique, stylish piece to your home with the Middle Chair Dune Greige, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric and elm wood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:46:33Z
+  Updated: 2025-11-26T11:00:12Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/0303e7932364d922c3a0e12be7ea292479d2208b.jpg?v=1757497303
   Price: $1,554.27 CAD
 - [Corner Chair Dune Greige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110433): Introduce a unique, stylish piece to your home with the Corner Chair Dune Greige, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric and elm wood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:46:34Z
+  Updated: 2025-11-26T11:00:13Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/1d63a0696bc2df126907622d7f657b7559d3c5ff.jpg?v=1757497304
   Price: $1,627.77 CAD
 - [Modular Sectional Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110775): Introducing the Modular Sectional, a revolution in seating versatility and style. Crafted with a sturdy wood frame and adorned with sumptuous velvet seats and backs, this sectional exudes both contemporary and stylish flair and deco elegance. Its modular design allows the pieces to combine effortlessly, creating either a circular or crescent-shaped seating arrangement reminiscent of banquet-style gatherings. Whether arranged for intimate conversations or grand social events, the modular sectional adds sophistication and luxury to any sp. Embrace its innovative design and opulent materials, making it the centerpiece of your contemporary or deco-inspired decor.
-  Updated: 2025-11-19T09:46:35Z
+  Updated: 2025-11-26T11:00:14Z
   Vendor: RBZO
   Product Type: Sectionals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/90054f96aed66f237f57d664d8797cc084aafb3e.jpg?v=1757497306
   Price: $1,370.25 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo102058): Clean and geometric in shape, solid and sturdy in construction, the stool/side table is made from mango wood and matte-stained. This versatile piece works in a multitude of applications as a stool or a table in any contemporary and stylish or mixed-design space.
-  Updated: 2025-11-19T09:46:36Z
+  Updated: 2025-11-26T11:00:16Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/5a092ab6bf116eba15090ff10e64515bf33f1216.jpg?v=1757497308
   Price: $414.08 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo102059): Clean and geometric in shape, solid and sturdy in construction, the stool/side table is made from mango wood and matte-stained. This versatile piece works in a multitude of applications as a stool or a table in any contemporary and stylish or mixed-design space.
-  Updated: 2025-11-19T09:46:37Z
+  Updated: 2025-11-26T11:00:17Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/34c8ab0940078310e9869991a29a2121e148997a.jpg?v=1757497309
   Price: $500.47 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109085): The side table has a great minimalist shape and is made from mango wood.
-  Updated: 2025-11-19T09:46:39Z
+  Updated: 2025-11-26T11:00:19Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/61cacc0559f003acbbbd826059f0b5c056df821e_b102ca5b-8786-4181-bbb5-3ff763f64138.jpg?v=1757497312
   Price: $593.29 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109268): The side table is made with a powder-coated steel frame. This minimalist piece looks great in any design space, industrial or contemporary and stylish, and works in residential or hospitality. It slides under most contemporary and stylish sofas.
-  Updated: 2025-11-19T09:46:41Z
+  Updated: 2025-11-26T11:00:21Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109268_1.jpg?v=1757497313
   Price: $354.00 CAD
+- [Side Table Black & White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109356): The side table has a powder-coated steel frame and top with a marble base. It is a contemporary and stylish glam piece for any space, residential or hospitality.
+  Updated: 2025-11-26T11:00:23Z
+  Vendor: RBZO
+  Product Type: Side Tables
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/oteabe9ec9jzzagrddyd.jpg?v=1757497315
+  Price: $218.92 CAD
 - [Side Table White & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109363): The side table has a marble top on a steel base. It is a contemporary and stylish glam piece for any space, residential or hospitality.
-  Updated: 2025-11-19T09:46:44Z
+  Updated: 2025-11-26T11:00:24Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/385d323430e3ae9b9b6cc133cf143589a32bc993.jpg?v=1757497317
   Price: $421.05 CAD
 - [Side Table White & Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109560): The side table has a cast aluminum frame with a marble top. It is a contemporary and stylish glam piece for any space, residential or hospitality.
-  Updated: 2025-11-19T09:46:47Z
+  Updated: 2025-11-26T11:00:26Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/s1mzuifds0ggqxszw9fi.jpg?v=1757497321
   Price: $357.38 CAD
 - [Side Table White & Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109561): The side table has a steel frame with a marble top. It is a contemporary and stylish glam piece for any space, residential or hospitality.
-  Updated: 2025-11-19T09:46:48Z
+  Updated: 2025-11-26T11:00:28Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/s3bmfoda9y7tjessixgj.jpg?v=1757497323
   Price: $264.89 CAD
 - [Side Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109563): The side table has a powder-coated steel frame and top with a marble base. It is a contemporary and stylish glam piece for any space, residential or hospitality.
-  Updated: 2025-11-19T09:46:50Z
+  Updated: 2025-11-26T11:00:30Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/dch0qujdpsdm61mhcdq7.jpg?v=1757497325
   Price: $322.37 CAD
 - [Side Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109566): The side table has a steel frame with a marble top and base. It is a contemporary and stylish glam piece for any space, residential or hospitality.
-  Updated: 2025-11-19T09:46:52Z
+  Updated: 2025-11-26T11:00:34Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/zxcqbmlc76sntht3asc7.jpg?v=1757497327
   Price: $277.96 CAD
 - [Side Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109593): This fun side table has a powder-coated steel frame with a wood and rattan top, which works in any space, boho chic or contemporary and stylish industrial.
-  Updated: 2025-11-19T09:46:54Z
+  Updated: 2025-11-26T11:00:37Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109593_1.jpg?v=1757497332
   Price: $349.19 CAD
 - [Side Table Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109596): This side table is made with a powder-coated steel frame and trays. This fun table works in any space, boho chic or contemporary and stylish industrial.
-  Updated: 2025-11-19T09:46:56Z
+  Updated: 2025-11-26T11:00:39Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/8ac0eccf36a2cd40b7cb8e15b6d8e9bceb521ec9.jpg?v=1757497334
   Price: $299.36 CAD
 - [Accent Table Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109597): This table is made with a powder-coated steel frame and trays. This fun table works in any space, boho chic or contemporary and stylish industrial.
-  Updated: 2025-11-19T09:46:57Z
+  Updated: 2025-11-26T11:00:41Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109597_1.jpg?v=1757497336
   Price: $332.09 CAD
 - [Side Table Gray - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109623): This side table has an MDF and plywood frame and two drawers wrapped in polyester fabric and sits on top of a powder-coated steel frame and looks great in any space, contemporary and stylish, urban, glam, or boho chic.
-  Updated: 2025-11-19T09:46:58Z
+  Updated: 2025-11-26T11:00:43Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109623_1.jpg?v=1757497338
   Price: $511.37 CAD
 - [Side Table Brown - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109624): This side table has an MDF and plywood frame and two drawers wrapped in polyester fabric and sits on top of a powder-coated steel frame and looks great in any space, contemporary and stylish, urban, glam, or boho chic.
-  Updated: 2025-11-19T09:47:00Z
+  Updated: 2025-11-26T11:00:45Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109624_1.jpg?v=1757497340
   Price: $511.37 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109755): The side table is a sleek and stylish piece of furniture that brings a touch of contemporary and stylish minimalism to any hotel lobby. Crafted from black-painted steel, this side table boasts a unibody design that creates a seamless, flowing silhouette.
-  Updated: 2025-11-19T09:47:01Z
+  Updated: 2025-11-26T11:00:46Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/099caa5755f3e6007ea7e1b8c8899ee59d8032a9.jpg?v=1757497342
   Price: $623.15 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109757): Despite its minimalist design, the side table is a highly functional piece of furniture that is built to last. Its sturdy steel construction ensures that it can withstand the rigors of daily use, while its ample surface area provides ample space for books, drinks, and other essentials.
-  Updated: 2025-11-19T09:47:04Z
+  Updated: 2025-11-26T11:00:49Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/32aa8450b04f8982e7f2f8e6b2f7410a9038f69d.jpg?v=1757497346
   Price: $690.59 CAD
 - [Drink Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109758): The multicolor marble top of the drink table provides a unique and sophisticated look to the overall design. The natural variations in the marble create a one-of-a-kind surface that is both elegant and long-lasting, and reliable. The sleek and sturdy steel body of the table provides a stable base for the marble top, while also adding a contemporary and stylish touch to the overall design.
-  Updated: 2025-11-19T09:47:05Z
+  Updated: 2025-11-26T11:00:50Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109758_1.jpg?v=1757497348
   Price: $540.75 CAD
 - [Drink Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109766): The Drink Table is a beautiful and functional piece of furniture that adds a touch of contemporary and stylish sophistication to any space. Its high-quality materials, sleek design, and versatility make it a great choice for those looking for a contemporary and stylish drink table for their home or hospitality space.
-  Updated: 2025-11-19T09:47:06Z
+  Updated: 2025-11-26T11:00:51Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109766_1.jpg?v=1757497350
   Price: $343.37 CAD
 - [Side Table Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109772): The side table is a contemporary and stylish piece of furniture that can be used in both residential and hospitality settings. It is made of walnut-lacquered acacia wood, which gives it a warm and natural look. The side table has a simple and minimalist design that fits well in any contemporary and stylish interior. It can be used as a bedside table, next to a sofa or armchair, or in a hotel room as a functional and stylish accessory. The side table is a versatile and practical piece that can enhance the aesthetic appeal of any space.
-  Updated: 2025-11-19T09:47:07Z
+  Updated: 2025-11-26T11:00:52Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/61720ced3f6766aa3ca9bf4ce70ad25c4182c588.jpg?v=1757497354
   Price: $649.13 CAD
 - [Side Table Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109773): The side table boasts a walnut lacquered finish on its acacia wood construction, making it an ideal choice for both living room and hotel room settings. Its simple yet elegant design and sturdy construction make it a versatile piece that can be used as a side table or end table. The side table's warm finish adds a touch of natural beauty to any room and can easily complement a variety of decor styles.
-  Updated: 2025-11-19T09:47:09Z
+  Updated: 2025-11-26T11:00:54Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/7d4f01bd68d41a705c2eb7b3421d6ef4fd232fcb.jpg?v=1757497358
   Price: $710.47 CAD
 - [Side Table Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109774): The side table is a luxurious and elegant piece of furniture that boasts a beautiful combination of acacia wood and gold-brushed steel. Its contemporary and stylish glam design and sturdy construction make it a perfect addition to any hotel lobby or living room.
-  Updated: 2025-11-19T09:47:10Z
+  Updated: 2025-11-26T11:00:55Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/b4015dcc98d97a26aaa23f52f859ab087474eade.jpg?v=1757497361
   Price: $656.25 CAD
 - [Nesting Table Set (2-Piece) Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109776): The coffee table set is a stylish and functional addition to any contemporary and stylish living space. Crafted from high-quality natural acacia wood, the coffee table top boasts a warm and inviting texture that adds a touch of naal elegance to the overall design. The sleek steel frame provides a sturdy base that adds a contemporary and stylish touch to the design while also ensuring long-lasting durability. This coffee table set is versatile and can be used in both hospitality and residential settings. It includes a matching side table, providing ample surface area for display or storage.
-  Updated: 2025-11-19T09:47:12Z
+  Updated: 2025-11-26T11:00:57Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109776_5.jpg?v=1757497363
   Price: $690.04 CAD
 - [Side Table Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109777): The side table is a sleek, contemporary, and stylish piece of furniture that boasts a bronze steel frame and a painted wood top. Its minimalist and elegant design makes it a perfect addition to any contemporary and stylish living room or hotel lobby.
-  Updated: 2025-11-19T09:47:13Z
+  Updated: 2025-11-26T11:00:58Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/6d3d55f0daf55ff746eac0ff326109a906bf82ea.jpg?v=1757497366
   Price: $465.25 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109834): Experience the epitome of contemporary elegance with the Side Table, an exquisite fusion of glam and contemporary and stylish design. Crafted with a powder-coated steel frame and adorned with a sleek glass top, this side table exudes sophistication and luxury, making it a captivating addition to any space. Its versatility knows no bounds - from the grandeur of hotel lobbies to the intimacy of living rooms or bedside settings, the side table is the perfect embodiment of style and functionality.
-  Updated: 2025-11-19T09:47:14Z
+  Updated: 2025-11-26T11:01:00Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/c97469c6df537bcd05f3d2de25015faec6219868.jpg?v=1757497368
   Price: $512.63 CAD
 - [Side Table White & Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109862): Overall, the side table is a contemporary, stylish, and sophisticated piece of furniture that combines a white marble top with a natural, whitewashed frame. Its durability, versatility, and elegant design make it a great choice for anyone looking to add a touch of sophistication and functionality to their residential or hospitality space.
-  Updated: 2025-11-19T09:47:16Z
+  Updated: 2025-11-26T11:01:01Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eba982866a0abc7a8efd4e5d80a0b44047192da9.jpg?v=1757497370
   Price: $740.82 CAD
 - [Side Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109867): The sleek, contemporary, and stylish design of the side table makes it a perfect addition to any contemporary or minimalist space. Its natural wood finish adds a touch of warmth and texture to the overall design, while the clean lines create a sleek and sophisticated look.
-  Updated: 2025-11-19T09:47:18Z
+  Updated: 2025-11-26T11:01:02Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/b462ef6cfd2a64271675839820e646c7a7df8bf1.jpg?v=1757497372
   Price: $565.93 CAD
 - [Side Table Set (2-Piece) White & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109919): The Side Table Set is a sleek, contemporary, and stylish piece of furniture perfect for any contemporary living room or hotel lobby. It boasts an elegant white marble top. The base of the table is made from painted wood, which adds a touch of warmth to the overall design while maintaining the minimalist aesthetic. The clean lines and simple design of the coffee table make it an excellent choice for those who appreciate contemporary and stylish minimalist decor. Whether you're looking for a coffee table for your home or a hotel lobby, the Coffee Table is a stylish and functional choice.
-  Updated: 2025-11-19T09:47:22Z
+  Updated: 2025-11-26T11:01:05Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109919_1.jpg?v=1757497376
   Price: $945.00 CAD
 - [Side Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109923): The natural white-washed acacia wood top of the side table provides a warm and inviting surface that is perfect for displaying decorative items or storing everyday essentials. Its minimalist design adds a sleek and contemporary and stylish touch to the overall look of the table, making it a perfect fit for any contemporary living space. The sturdy construction of the table ensures long-lasting durability, making it a great choice for daily use.
-  Updated: 2025-11-19T09:47:24Z
+  Updated: 2025-11-26T11:01:07Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109923_1.jpg?v=1757497378
   Price: $573.55 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109924): The Side Table is a pinnacle of contemporary and stylish design that transcends the boundaries of form and function. Its black-painted acacia wood finish serves as a portal to the depths of the human psyche, evoking a sense of mystery and intrigue.
-  Updated: 2025-11-19T09:47:26Z
+  Updated: 2025-11-26T11:01:08Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eac310e71911c55e66b212be7325fc6433f42bb5.jpg?v=1757497380
   Price: $510.97 CAD
 - [Side Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo109929): Timeless and classic, the side table adds a contemporary flare to any room. The entire table is gloss painted, made with a top and a steel base.
-  Updated: 2025-11-19T09:47:27Z
+  Updated: 2025-11-26T11:01:09Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/hcwgwhveaelbvhmhd18j.jpg?v=1757497382
   Price: $895.48 CAD
 - [Side Table Gold & Beige - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110141): The Side Table Gold & Beige brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:47:29Z
+  Updated: 2025-11-26T11:01:10Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/zhf8n63qgcnagvszyheb.jpg?v=1757497384
   Price: $688.63 CAD
 - [Side Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110143): The Side Table Multicolor brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:47:30Z
+  Updated: 2025-11-26T11:01:11Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/i2d6mrpml73ofl62m1e2.jpg?v=1757497385
   Price: $612.65 CAD
 - [Side Table Gold & Beige - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110145): The Side Table Gold & Beige brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:47:31Z
+  Updated: 2025-11-26T11:01:12Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/zfdakbf0p3kg1amnqhzj.jpg?v=1757497386
   Price: $500.93 CAD
 - [Side Table Gold & Beige - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110146): The side table in gold & beige adds a contemporary and stylish flair to your living space with its sleek design and functional build. Made from long-lasting and reliable iron, this table makes a chic companion to your sofa or bedside, offering a convenient place for essentials or decorative items. Its elegant silhouette and contemporary appeal allow it to blend effortlessly into both boho-inspired and minimalist interiors, making it a versatile choice for any room.
-  Updated: 2025-11-19T09:47:32Z
+  Updated: 2025-11-26T11:01:13Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/auhp6y4jivnz10ynv3ps.jpg?v=1757497387
   Price: $583.63 CAD
 - [Side Table White & Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110149): The White & Black Side Table brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from marble, MDF, and iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:47:33Z
+  Updated: 2025-11-26T11:01:14Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/fcxvhpywd7wcrb9mgaze.jpg?v=1757497388
   Price: $542.93 CAD
 - [Side Table Set (2-Piece) Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110153): Enhance your living space with the Side Table Set, adorned with long-lasting and reliable aluminum frames and elegant glass tops. This contemporary and stylish duo seamlessly combines robustness and chic design, making it a versatile addition to any room. Make a stylish statement with the Side Table Set, where form and function harmoniously coexist in your home.
-  Updated: 2025-11-19T09:47:34Z
+  Updated: 2025-11-26T11:01:15Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ucjq7teppj8rgngas4ca.jpg?v=1757497389
   Price: $894.37 CAD
 - [Side Table Set (2-Piece) Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110155): Upgrade your living space with the Side Table Set, featuring sturdy aluminum bodies. This contemporary and stylish duo effortlessly combines durability and style, making it a versatile addition to any room. Make a sophisticated statement with the Side Table Set, where form and function blend seamlessly in your home.
-  Updated: 2025-11-19T09:47:37Z
+  Updated: 2025-11-26T11:01:18Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110155_1.jpg?v=1757497392
   Price: $1,386.61 CAD
 - [Accent Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110225): Introducing the Accent Table, a remarkable piece crafted from solid acacia wood. Its contemporary, organic design beautifully merges elements of minimalism and maximalism. This table is more than just furniture; it's a statement of art that seamlessly complements contemporary and stylish interiors. Elevate your decor with the Accent Table, where the timeless allure of acacia wood blends with an intriguing fusion of design aesthetics.
-  Updated: 2025-11-19T09:47:42Z
+  Updated: 2025-11-26T11:01:24Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110225_1.jpg?v=1757497400
   Price: $628.45 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110244): Introducing the Side Table, a remarkable creation that boasts an exceptional design. Expertly crafted with mango wood to suit various design aesthetics, from contemporary and stylish and glam to maximalist, it's a versatile addition ideal for both homes and hotels. Elevate your decor with the side table, where its distinctive charm and shape make a bold statement, promising to captivate and enhance any interior setting.
-  Updated: 2025-11-19T09:47:47Z
+  Updated: 2025-11-26T11:01:29Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/473d90793c0ffb804be90a52f86879ee5d5530d2.jpg?v=1757497408
   Price: $556.77 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110245): Meet the Side Table, a true design marvel made of solid mango wood. With its captivating form and impeccable craftsmanship, it effortlessly complements a range of design styles, from contemporary and stylish to glamorous and deco maximalist. Ideal for both homes and hotels, the side table adds a touch of sophistication to any interior. Elevate your decor with the side table, whose unique shape takes center stage, promising to enhance and captivate any setting.
-  Updated: 2025-11-19T09:47:48Z
+  Updated: 2025-11-26T11:01:31Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110245_1.jpg?v=1757497411
   Price: $559.94 CAD
 - [Side Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110252): Introducing the side table, a striking masterpiece crafted from solid mango wood. With its charismatic presence, it shines whether in a hotel lobby or a contemporary and stylish living room, effortlessly embracing maximalist design aesthetics. Elevate your decor with the Side Table, where the natural beauty of mango wood meets a bold, minimalist expression, adding character and opulence to any setting.
-  Updated: 2025-11-19T09:47:50Z
+  Updated: 2025-11-26T11:01:33Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110252_1.jpg?v=1757497414
   Price: $438.00 CAD
 - [Side Table White & Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110256): Meet the Side Table, a luxurious creation featuring a cast aluminum base and exquisite marble top. Perfect for hotel lobbies or contemporary and stylish living spaces, it exudes hints of glam that add a touch of opulence to any setting. Elevate your decor with the Harmas Side Table, where the robust elegance of cast aluminum meets the timeless beauty of marble, resulting in an irresistible fusion of style and sophistication.
-  Updated: 2025-11-19T09:47:52Z
+  Updated: 2025-11-26T11:01:34Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110256_1.jpg?v=1757497416
   Price: $675.44 CAD
 - [Side Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110347): Meet the Side Table, a perfect fusion of elegance and durability. Its sintered stone top offers both visual appeal and resilience, while the steel legs are expertly wrapped in vinyl for a sleek finish. This side table is a versatile addition to any space, whether it complements your living room decor or adds a contemporary and stylish touch to your office setup. The side table not only provides a stylish surface for your essentials but also exudes contemporary sophistication. your decor with the side table, where form meets function in perfect harmony.
-  Updated: 2025-11-19T09:47:55Z
+  Updated: 2025-11-26T11:01:36Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110347_1.jpg?v=1757497418
   Price: $791.89 CAD
 - [Side Table Silver - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110364): The Side Table Silver brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from recycled aluminum, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired decor or minimalist interior.
-  Updated: 2025-11-19T09:47:56Z
+  Updated: 2025-11-26T11:01:37Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/xgsy6nb2pj1jgy5almwt.jpg?v=1757497422
   Price: $518.89 CAD
 - [Side Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110592): The Side Table in White exudes a clean, contemporary, and stylish aesthetic. Made from sleek marble and iron, this side table is perfect for adding a touch of elegance to any living room or hospitality environment. Its bright white finish pairs effortlessly with a variety of decor styles, making it a versatile accent for contemporary interiors.
-  Updated: 2025-11-19T09:47:58Z
+  Updated: 2025-11-26T11:01:38Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/oszd6h3qd7q8hb6neh3l.jpg?v=1757497424
   Price: $935.00 CAD
 - [Side Table White & Brass - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110597): The Side Table in White & Brass is a stylish and functional accent piece for any contemporary and stylish living space. Its marble surf and iron frame provide both durability and elegance, while the white and brass color palette adds a touch of sophistication. Perfect for residential and hospitality settings, this side table is a versatile addition to any decor.
-  Updated: 2025-11-19T09:47:59Z
+  Updated: 2025-11-26T11:01:40Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/tdvgimk4zvmoz67fcf3l.jpg?v=1757497425
   Price: $505.07 CAD
 - [Side Table Brass - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110598): The side table in brass is a sleek and contemporary and stylish piece perfect for indoor living spaces. Crafted from iron with a polished marble top, this side table exudes elegance and durability. The brass finish enhances its contemporary and stylish design, making it a great addition to residential or hospitality settings. Its compact form is ideal for living rooms, bedrooms, or lounges, providing a functional and stylish surface.
-  Updated: 2025-11-19T09:48:00Z
+  Updated: 2025-11-26T11:01:40Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/xzgnv5rvyrtbeustgx1j.jpg?v=1757497427
   Price: $743.09 CAD
 - [Side Table Brass - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110601): The side table in brass is a refined piece crafted for contemporary and stylish indoor living. Constructed from glass, marble, and iron, the brass finish adds a layer of sophistication to its design. Perfect for residential or hospitality settings, this side table offers a stylish solution for living rooms, bedrooms, or lounges.
-  Updated: 2025-11-19T09:48:01Z
+  Updated: 2025-11-26T11:01:42Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/byddnbjm7fk0z8wsc3nf.jpg?v=1757497429
   Price: $931.71 CAD
 - [Side Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110603): The side table in multicolor adds a lively touch to any indoor space. Constructed from terrazzo and iron, this table is not only long-lasting and reliable but also offers a unique, colorful design. Ideal for contemporary and stylish residential or hospitality interiors, it provides a fun and functional surface for living rooms, bedrooms, or lounges.
-  Updated: 2025-11-19T09:48:02Z
+  Updated: 2025-11-26T11:01:43Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/lmx4mvgbblvuyvpanvv9.jpg?v=1757497430
   Price: $677.63 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110606): The side table in black is a contemporary and stylish accent piece, combining marble and iron for a sleek, stylish look. Its black finish brings a bold, contemporary touch to any indoor living area. Ideal for residential or hospitality use, this side table offers a functional yet elegant surface for living rooms or bedrooms.
-  Updated: 2025-11-19T09:48:03Z
+  Updated: 2025-11-26T11:01:44Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/l1nhbqch1s3fqc0erg5w.jpg?v=1757497432
   Price: $850.63 CAD
 - [Side Table Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110613): The Side Table Bronze brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from recycled sand, cast glass, and iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:48:05Z
+  Updated: 2025-11-26T11:01:47Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/fe3b02qfsx62ieyrzzn6.jpg?v=1757497434
   Price: $358.07 CAD
 - [Side Table Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110614): The Side Table Bronze brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from recycled sand-cast glass and iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:48:06Z
+  Updated: 2025-11-26T11:01:48Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/kiizzkztkkq9v25ryvwm.jpg?v=1757497435
   Price: $922.51 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110616): The Side Table Black brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from recycled sand-cast glass and aluminum, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:48:07Z
+  Updated: 2025-11-26T11:01:49Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eezaci90eyzrftyiyx0f.jpg?v=1757497437
   Price: $1,186.92 CAD
 - [Side Table Black - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110619): The Side Table Black brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from recycled sand-cast glass and aluminum, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:48:08Z
+  Updated: 2025-11-26T11:01:50Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/cgbjsd5eaf0lpjnouolt.jpg?v=1757497438
   Price: $727.48 CAD
 - [Nesting Tables (2-Piece) Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110621): Bring a contemporary and stylish touch to your home with the Nesting Tables in Bronze, a stunning example of contemporary design. Made from premium recycled sand-cast glass and iron, these tables perfectly combine style and functionality, providing a versatile solution for any space. Their sleek and chic design ensures they will stand out as a striking addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:48:09Z
+  Updated: 2025-11-26T11:01:51Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/kwtbqyciuqomtbzgw6j9.jpg?v=1757497439
   Price: $1,280.96 CAD
 - [Side Table Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110625): The side table naturally brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from mango wood and iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:48:10Z
+  Updated: 2025-11-26T11:01:52Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/lgwwn9fbyss8b1nnkkvx.jpg?v=1757497441
   Price: $690.59 CAD
 - [Side Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110627): The Side Table Multicolor brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from marble, MDF, and iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:48:11Z
+  Updated: 2025-11-26T11:01:54Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/nfvk1q9cgyxkfeg0lx9a.jpg?v=1757497442
   Price: $535.77 CAD
 - [Side Table White & Natural - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110630): The Side Table White & natural brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from marble and mango wood, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:48:12Z
+  Updated: 2025-11-26T11:01:56Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/nctjuv0hxkgobtmh85sr.jpg?v=1757497445
   Price: $444.44 CAD
 - [Side Table White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110672): The Side Table White brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from marble and iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:48:14Z
+  Updated: 2025-11-26T11:01:57Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/dol3aeqwszrq4f0u0unj.jpg?v=1757497450
   Price: $648.21 CAD
 - [Side Table Brown & White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110673): The Side Table Brown & White brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from marble, mango wood, and iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:48:15Z
+  Updated: 2025-11-26T11:01:58Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/dgochaqu49zwzrk0bkvs.jpg?v=1757497453
   Price: $655.16 CAD
 - [Side Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110674): The side table in multicolor adds a contemporary and stylish charm to your living space with its sleek design and functional construction. Made from iron and marble, this table serves as a stylish companion next to your sofa or bedside, offering a convenient place for essentials or decor. Its smooth silhouette and contemporary appeal allow it to seamlessly complement both boho-inspired and minimalist interiors, making it a versatile addition to any room.
-  Updated: 2025-11-19T09:48:17Z
+  Updated: 2025-11-26T11:01:59Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/aghswjnuzdsgh2gf3dxc.jpg?v=1757497454
   Price: $584.09 CAD
 - [Side Table Multicolor - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110676): The Side Table Multicolor brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from marble and iron, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:48:18Z
+  Updated: 2025-11-26T11:02:00Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/mham3wrkf4jplxmsqerc.jpg?v=1757497455
   Price: $687.37 CAD
 - [Side Table Brown & White - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110734): The Side Table Brown & White brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from mango wood, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:48:20Z
+  Updated: 2025-11-26T11:02:01Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/t7trswn2hcrm0o3g8nbj.jpg?v=1757497456
   Price: $774.63 CAD
 - [Side Table Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110738): The Side Table Walnut brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from mango wood, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:48:21Z
+  Updated: 2025-11-26T11:02:01Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/zflbk4ng9rfmjkqjawxd.jpg?v=1757497457
   Price: $666.83 CAD
 - [Side Table Bronze - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110795): The Side Table Bronze brings a touch of contemporary and stylish charm to your living space with its refined design and practical build. Crafted from recycled aluminum, it serves as a stylish companion to your sofa or bedside, providing a convenient place for essentials or decor. Its sleek silhouette and contemporary vibe ensure it fits seamlessly into any boho-inspired or minimalist interior.
-  Updated: 2025-11-19T09:48:22Z
+  Updated: 2025-11-26T11:02:03Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/wwfqtn3dkffwq4hujggo.jpg?v=1757497458
   Price: $613.39 CAD
 - [Side Table Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110804): The Side Table in Walnut is a compact, stylish piece designed for contemporary and stylish indoor spaces. Crafted from mango wood, its walnut finish adds warmth and sophistication to living rooms, bedrooms, or lounges. Suitable for both residential and hospitality environments, this side table is perfect for enhancing any contemporary and stylish decor.
-  Updated: 2025-11-19T09:48:24Z
+  Updated: 2025-11-26T11:02:04Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/f2ad868a5e0c42a09ef692c719e18086b3b243a1.jpg?v=1757497459
   Price: $598.94 CAD
 - [End Table Walnut - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo110880): Inspired by Scandinavian contemporary and stylish design, this slatted two-drawer end table in solid fir wood and walnut veneer is a handsome addition to any room. Each drawer top has a wide space allowing for easy access with no hardware required. Steady construction keeps it stable when in use. Beautiful, decorative, linear slats are on the front and both sides.
-  Updated: 2025-11-19T09:48:26Z
+  Updated: 2025-11-26T11:02:05Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110880_1.jpg?v=1757497461
   Price: $1,074.17 CAD
 - [Accent Table Set (2-Piece) Antique Gold - Elegant & Durable Dining Table for Stylish Spaces](https://www.rugbranch.com/products/rbzo405002): Accent tables are designed with a gorgeous set of legs together to create both form and function. A distressed antique gold finish gives them texture and additional visual interest. The rimmed top keeps everything contained.
-  Updated: 2025-11-19T09:48:28Z
+  Updated: 2025-11-26T11:02:07Z
   Vendor: RBZO
   Product Type: Side Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO405002_1.jpg?v=1757497463
   Price: $612.32 CAD
 - [Sofa Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101854): With its art deco shape, the sofa uses its glam and maximalist design to fit in any space. This sofa is covered in a lush velvet with electroplated gold legs. This sofa looks great in any home or hotel.
-  Updated: 2025-11-19T09:48:31Z
+  Updated: 2025-11-26T11:02:09Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/2732b2ab89ef749565e14c4a59c2a14dec838c48.jpg?v=1757497468
   Price: $1,827.00 CAD
 - [Sofa Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101925): The ultimate in contemporary and stylish lounging, the sofa is wrapped in long-lasting and reliable vinyl with a powder-coated black steel frame. This sofa makes any space pop with a minimalist and urban style.
-  Updated: 2025-11-19T09:48:32Z
+  Updated: 2025-11-26T11:02:10Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/c20c560f5efd19b429f404fedc54c1ae2fbf575a.jpg?v=1757497471
   Price: $2,709.00 CAD
 - [Sofa Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109341): The sofa has a polyester shearling-style fabric. This sofa works great in any space, hospitality, or residential. The shape and design are glam, contemporary, and stylish deco and boho all at the same time.
-  Updated: 2025-11-19T09:48:34Z
+  Updated: 2025-11-26T11:02:12Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/oygobjwjvzydaccp4vdw.jpg?v=1757497475
   Price: $3,811.50 CAD
 - [Sofa Light Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109342): The sofa has a polyester shearling-style fabric. This sofa works great in any space, whether it is hospitality or residential. The shape and design are glam, contemporary, stylish, deco, and boho all at the same time.
-  Updated: 2025-11-19T09:48:36Z
+  Updated: 2025-11-26T11:02:13Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109342_1.jpg?v=1757497478
   Price: $3,811.50 CAD
 - [Sofa Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109343): The sofa has a polyester shearling-style fabric. This sofa works great in any space, whether it is hospitality or residential. The shape and design are glam, contemporary, stylish, deco, and boho all at the same time.
-  Updated: 2025-11-19T09:48:37Z
+  Updated: 2025-11-26T11:02:14Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109343_1.jpg?v=1757497481
   Price: $3,969.00 CAD
 - [Sofa Vanilla - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110024): Introducing the Sofa, where plush comfort and contemporary design unite. Enveloped in cozy teddy fabric and built on a robust steel frame, this sofa is an ideal choice for any space. With its contemporary and stylish aesthetic, it effortlessly complements hotel lobbies and living areas. Embrace the inviting comfort of the teddy fabric. Elevates your interior with the sofa, where style and durability seamlessly come together.
-  Updated: 2025-11-19T09:48:40Z
+  Updated: 2025-11-26T11:02:17Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110024_1.jpg?v=1757497486
   Price: $1,890.00 CAD
 - [Sofa Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110027): Meet the Sofa, where durability and style effortlessly combine. Draped in resilient vinyl and supported by a robust steel frame, this sofa adds charm to any setting. With its contemporary and stylish design, it effortlessly enhances hotel lobbies and living areas. Experience lasting comfort and chic style with the sofa, where resilience harmoniously blends with contemporary design.
-  Updated: 2025-11-19T09:48:41Z
+  Updated: 2025-11-26T11:02:18Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110027_1.jpg?v=1757497489
   Price: $2,457.00 CAD
 - [Sofa Red - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110028): Introducing the Sofa, a seamless blend of durability and luxury. Cloaked in sumptuous velvet and supported by a sturdy steel frame, this chair exudes elegance in any setting. With its contemporary and stylish design, it effortlessly elevates hotel lobbies and living areas. Experience enduring comfort and opulent style with the sofa, where resilience seamlessly meets plush velvet.
-  Updated: 2025-11-19T09:48:43Z
+  Updated: 2025-11-26T11:02:20Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110028_1.jpg?v=1757497492
   Price: $2,457.00 CAD
 - [Sofa Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110079): The ultimate in contemporary and stylish lounging, the sofa is wrapped in long-lasting and reliable vinyl with a powder-coated black steel frame. This sofa makes any space pop with a minimalist and urban style.
-  Updated: 2025-11-19T09:48:44Z
+  Updated: 2025-11-26T11:02:22Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110079_1.jpg?v=1757497495
   Price: $2,488.50 CAD
 - [Sofa Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110277): Presenting the Sofa, a luxurious addition to any living space that combines comfort with contemporary style. Upholstered in plush cord-style fabric, this sofa offers a unique texture and a cozy seating experience. Its design is both contemporary and stylish and inviting, making it an ideal choice for a variety of settings, from a trendy loft to a casual living room. The sofa not only provides an ergonomically designed place to relax but also adds a touch of sophistication to your space. Embrace the blend of contemporary and stylish elegance and inviting comfort with the sofa.
-  Updated: 2025-11-19T09:48:46Z
+  Updated: 2025-11-26T11:02:23Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110277_1.jpg?v=1757497498
   Price: $3,921.75 CAD
 - [Loveseat Taupe - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110306): Presenting the Loveseat, a harmonious blend of contemporary and stylish sophistication and deco-inspired luxury. Crafted with a sturdy wood frame and enveloped in lavish velvet, this loveseat exudes timeless elegance and comfort. Its sleek design seamlessly combines contemporary and stylish aesthetics with deco influences, making it the perfect addition to upscale hotels or stylish homes. Whether placed in a chic hotel lobby or a cozy living room, the loveseat adds a touch of opulence to any space. Embrace its luxurious materials and versatile design, creating a captivating focal point that elevates your interior decor to new heights.
-  Updated: 2025-11-19T09:48:47Z
+  Updated: 2025-11-26T11:02:25Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/a30f8e6dfdb50ad4a48dd9b61f97747c1109d0d3.jpg?v=1757497502
   Price: $2,740.50 CAD
 - [Loveseat Taupe - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110430): Introduce a unique, stylish piece to your home with the Loveseat Taupe, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, plywood, and elm wood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:48:48Z
+  Updated: 2025-11-26T11:02:26Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/7e9dbcd2ae82272c192bb2979a16983c8fb15b81.jpg?v=1757497505
   Price: $3,213.00 CAD
 - [Sofa Green Tweed - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110431): Introduce a unique, stylish piece to your home with the Sofa Green Tweed, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, plywood, and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:48:49Z
+  Updated: 2025-11-26T11:02:27Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110431_1.jpg?v=1757497507
   Price: $4,063.50 CAD
 - [Bar Cart Multicolor - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109778): Introducing the Bar Cart, a stunning and contemporary and stylish piece of furniture that adds a touch of elegance and functionality to any living room or dining area. The bar cart boasts a deco-inspired design with a combination of brown lacquered acacia wood and brushed steel.
-  Updated: 2025-11-19T09:48:52Z
+  Updated: 2025-11-26T11:02:29Z
   Vendor: RBZO
   Product Type: Cabinet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/502af7ae1f5f398e281cc756788a3daf4686ad79.jpg?v=1757497512
   Price: $1,253.38 CAD
 - [Bar Cart Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109845): Introducing the Bar Cart: A harmonious blend of form and function. This sleek black bar cart boasts a robust steel frame, tempered glass shelves, and luxurious marble accents. Its minimalist design effortlessly complements any interior, from contemporary and stylish to classic. Effortless mobility is guaranteed with smooth-rolling casters, and a locking mechanism adds stability. Beyond its role as a stylish bar cart, it's a versatile piece that adapts to your needs, whether as a coffee station, storage solution, or chic display unit. Elevate your entertaining and decor with the bar cart today.
-  Updated: 2025-11-19T09:48:54Z
+  Updated: 2025-11-26T11:02:31Z
   Vendor: RBZO
   Product Type: Cabinet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109845_1.jpg?v=1757497515
   Price: $707.76 CAD
 - [Sideboard Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110296): Indulge in the sophistication of the sideboard, where elegance meets functionality in perfect harmony. Crafted with precision, this sideboard boasts a robust MDF wood frame complemented by sleek wood legs, ensuring both durability and style. Its adaptable design effortlessly fits into contemporary and stylish, glam, or deco-inspired living spaces, adding a touch of refinement to any room. With generous storage capacity, the sideboard keeps your essentials organized while enhancing the aesthetic appeal of your home decor. Elevate your space with the timeless charm and practicality of the sideboard, a statement piece that exudes sophistication and versatility.
-  Updated: 2025-11-19T09:48:55Z
+  Updated: 2025-11-26T11:02:32Z
   Vendor: RBZO
   Product Type: Cabinet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110296_1.jpg?v=1757497517
   Price: $2,047.50 CAD
 - [Entertainment Stand Black & Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110297): Introducing the Entertainment Stand, where style meets functionality in perfect harmony. Crafted with precision, this stand boasts a robust MDF wood frame with storage paired with charming wood legs, ensuring both durability and visual appeal. Its versatile design effortlessly complements contemporary and stylish, glam, or deco-inspired living spaces, seamlessly integrating into any room decor. With ample storage space, the Entertainment Stand keeps your media essentials organized while elevating the overall aesthetic of your entertainment area. Elevate your home entertainment experience with the timeless charm and practicality of the Entertainment Stand, a statement piece that exudes sophistication and versatility.
-  Updated: 2025-11-19T09:48:57Z
+  Updated: 2025-11-26T11:02:34Z
   Vendor: RBZO
   Product Type: Cabinet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110297_1.jpg?v=1757497520
   Price: $1,764.57 CAD
 - [Cabinet Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110799): The The Cabinet in natural offers a perfect balance of form and function. Made from solid acacia wood, this storage cabinet brings a natural, organic element to indoor living spaces. Its contemporary and stylish design is suitable for residential homes or hospitality environments, providing ample storage while maintaining a sleek, minimalist aesthetic.
-  Updated: 2025-11-19T09:48:59Z
+  Updated: 2025-11-26T11:02:36Z
   Vendor: RBZO
   Product Type: Cabinet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/grdzghwebrwjtnujxmm7.jpg?v=1757497523
   Price: $1,821.83 CAD
 - [Wide Entertainment Stand Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110881): Scandinavian in design the series boasts narrow, slim strips of solid fir wood, creating a modern, open, airy design finished in a rich walnut finish. The Wide TV Stand boasts a front-opening door with an adjustable shelf and holes for TV component accessibility.
-  Updated: 2025-11-19T09:49:02Z
+  Updated: 2025-11-26T11:02:38Z
   Vendor: RBZO
   Product Type: Cabinet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110881_1.jpg?v=1757497525
   Price: $1,779.75 CAD
 - [Cabinet Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo199050): The Scandinavian design of the series boasts narrow, slim strips of solid fir wood, creating a modern, airy design in a rich walnut finish. The cabinet boasts two front-opening doors, 2 interior drawers with two adjustable shelves, and holes for TV component accessibility.
-  Updated: 2025-11-19T09:49:04Z
+  Updated: 2025-11-26T11:02:39Z
   Vendor: RBZO
   Product Type: Cabinet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO199050_1.jpg?v=1757497527
   Price: $1,842.75 CAD
 - [Credenza Walnut - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo199051): Scandinavian in design, the series boasts narrow, slim strips of solid fir wood, creating a modern, airy design finished in a rich walnut finish. It boasts two front-opening doors, two interior drawers with two adjustable shelves, and holes for TV component accessibility.
-  Updated: 2025-11-19T09:49:05Z
+  Updated: 2025-11-26T11:02:40Z
   Vendor: RBZO
   Product Type: Cabinet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO199051_1.jpg?v=1757497529
   Price: $2,157.75 CAD
 - [Table Lamp White & Bronze - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56050): Like a waterfall of tea lights, the Hale Ceiling Lamp sports six glass cylinders of varying shapes and sizes. Crafted from glass and chrome. 6 x Max Watt 10 W G4 Type Halogen Type G4. UL approved and listed.
-  Updated: 2025-11-19T09:49:09Z
+  Updated: 2025-11-26T11:02:44Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO56050_1.jpg?v=1757497534
   Price: $598.63 CAD
 - [Table Lamp Black & White - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56080): Overreaching and so stylish. This retro contemporary and stylish table lamp with its conical steel shade goes out of its way to keep you on task. Simply turn its white cube base to direct light exactly where you need it. Perfect on your desk or bedside table.
-  Updated: 2025-11-19T09:49:10Z
+  Updated: 2025-11-26T11:02:45Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/0f1788f3e9122e010995b3ad137b86cb273311aa.jpg?v=1757497536
   Price: $404.25 CAD
 - [Table Lamp Beige & White - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56100): Elegant, contemporary, and stylish, the table lamp has a polyester shade, a brass-plated steel neck, and a marble base. It is the perfect lamp for any upscale, maximalist, or urban space.
-  Updated: 2025-11-19T09:49:12Z
+  Updated: 2025-11-26T11:02:46Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/10729fe5ecf74d893be66b67eb91d4dcd8037db6.jpg?v=1757497538
   Price: $500.22 CAD
 - [Table Lamp Red & Gold - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56137): The table lamp has a steel body and a polyester shade. This lamp has a glam design that fits in any bedroom, desk, or foyer.
-  Updated: 2025-11-19T09:49:13Z
+  Updated: 2025-11-26T11:02:47Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/52a83fa79c4114d22b390dfc59496a218d233d1f.jpg?v=1757497539
   Price: $363.43 CAD
 - [Table Lamp Gray & Black - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56138): The table lamp has a steel frame with a polyester shade. This lamp looks great on any desk or nightstand with its simple, contemporary, and stylish look.
-  Updated: 2025-11-19T09:49:14Z
+  Updated: 2025-11-26T11:02:48Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO56138_1.jpg?v=1757497541
   Price: $405.43 CAD
 - [Table Lamp Brown & Brass - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56139): The table lamp has a steel frame with a brushed finish and a wood laminate finish on the upper arm. This contemporary, stylish, and minimalist lamp looks great on any desk or nightstand. Includes a USB port.
-  Updated: 2025-11-19T09:49:16Z
+  Updated: 2025-11-26T11:02:50Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/hdcfzajgdt0wfegm1ryp.jpg?v=1757497543
   Price: $478.93 CAD
 - [Table Lamp Bronze - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56141): Crafted to enhance your ambiance, the table lamp boasts quality materials that ensure both durability and beauty. The sturdy base and refined detailing exude an air of industrial elegance, while the sleek lines and minimalist form embrace contemporary and stylish aesthetics, making it a versatile lamp that enhances various settings.
-  Updated: 2025-11-19T09:49:17Z
+  Updated: 2025-11-26T11:02:51Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/fbcf075e8476c88f863386c721133712adf42da7.jpg?v=1757497545
   Price: $390.37 CAD
 - [Table Lamp White - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56146): The table lamp effortlessly complements both hotel and home interiors. Crafted with premium materials for enduring allure and durability. Its glow transforms any space into an elegant sanctuary.
-  Updated: 2025-11-19T09:49:19Z
+  Updated: 2025-11-26T11:02:52Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO56146_1.jpg?v=1757497547
   Price: $330.86 CAD
 - [Table Lamp Black - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56150): The table lamp's clean lines and minimalist form bring a sense of simplicity and tranquility, reflecting the balance found in the natural world. Its warm and inviting glow fills your room with an aura of serenity, making it an ideal addition to any living room, bedroom, or workspace.
-  Updated: 2025-11-19T09:49:20Z
+  Updated: 2025-11-26T11:02:53Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/6fce0e059db350f8f4eb84645217ae8cd6bebdb4.jpg?v=1757497549
   Price: $605.47 CAD
 - [Table Lamp White - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56151): Discover the allure of the table lamp, a captivating piece that seamlessly marries charm with contemporary and stylish elegance. Versatile and stylish, this lamp complements both hotel and home settings, becoming a striking addition to any room.
-  Updated: 2025-11-19T09:49:22Z
+  Updated: 2025-11-26T11:02:54Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO56151_1.jpg?v=1757497551
   Price: $362.36 CAD
 - [Table Lamp Red - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56154): Crafted with meticulous attention to detail, the table lamp exudes enduring beauty and quality. Its boho influence brings a sense of artistic form and creativity, while Art Deco influences add a touch of vintage grandeur. Modern accents bring contemporary sophistication, making this lamp a true testament to harmonious design.
-  Updated: 2025-11-19T09:49:23Z
+  Updated: 2025-11-26T11:02:56Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/34f0333d289af4f28fba4b803c0028fd56cc28bb.jpg?v=1757497554
   Price: $421.07 CAD
 - [Table Lamp Pink - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56179): Introduce a unique, stylish piece to your home with the Table Lamp Pink, an exceptional example of contemporary and stylish design. Made from high-quality PVC and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:49:25Z
+  Updated: 2025-11-26T11:02:57Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/9b4dc9d664d9c3f8c19963292498dcf8bfa3288a.jpg?v=1757497556
   Price: $259.01 CAD
 - [Table Lamp Beige & Gold - Elegant & Durable Dining Table Lamp for Stylish Spaces](https://www.rugbranch.com/products/rbzo56181): Introduce a unique, stylish piece to your home with the Table Lamp Beige & Gold, an exceptional example of contemporary and stylish design. Made from high-quality PVC and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:49:26Z
+  Updated: 2025-11-26T11:02:58Z
   Vendor: RBZO
   Product Type: Table Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/5c320147365e46bed82d7acbf4f226005bade75c.jpg?v=1757497558
   Price: $283.23 CAD
 - [Ceiling Lamp Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo50209): The ceiling lamp has a large 2-level bell-shaped shade. Shade material surrounds a metal architecture with a grey polyester woven thread zigzag pattern woven throughout the pattern, creating a soft, see-through shade. Install in kitchens or day rooms, group over living and dining rooms, and perfect for a softer look for your contemporary and stylish design. Max Watt 60 W, Size E26, Type A19. UL approved and listed. Bulbs are not included; they are sold separately.
-  Updated: 2025-11-19T09:49:29Z
+  Updated: 2025-11-26T11:03:00Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/4700a09b7e71eb005690eb76f4679bf189e57b14.jpg?v=1757497562
   Price: $575.63 CAD
 - [Ceiling Lamp Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56016): Synthetic woven strands of zip-zagged as the simple teardrop shape encapsulates a single light; perfect for urban spaces and eclectic design. Max Watt 60 W, Size E26, Type A19. UL approved and listed. Bulbs are not included; they are sold separately.
-  Updated: 2025-11-19T09:49:31Z
+  Updated: 2025-11-26T11:03:03Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/aae4a8aedbc303d26bc6cb278c625424b6d334cf.jpg?v=1757497564
   Price: $272.77 CAD
 - [Ceiling Lamp Chrome - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56057): Make any room more glamorous with our eye-catching chandelier. Faceted, clear crystals elegantly cast a prism-like reflection around your room. Looks fabulous hanging over a dining table or as a statement piece in an entryway. Bulbs are not included; they are sold separately.
-  Updated: 2025-11-19T09:49:32Z
+  Updated: 2025-11-26T11:03:04Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/93ab79cfca513c165addfdbb03775f3aa4f708c7.jpg?v=1757497565
   Price: $930.19 CAD
 - [Ceiling Lamp Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56065): Mid-century inspiration results in this ten-light contemporary and stylish masterpiece. Its black metal frame with a three-dimensional point design and clear glass globes makes it so versatile. It hangs perfectly over a dining table & looks stunning in an entry. The perfect choice to beautifully illuminate any space.
-  Updated: 2025-11-19T09:49:33Z
+  Updated: 2025-11-26T11:03:05Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/dc3cea363a2ee71f325be8b3ebaf712fe6fb66bf.jpg?v=1757497566
   Price: $925.93 CAD
 - [Ceiling Lamp Brown - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56093): Adds warmth to your living room, dining room table, kitchen area, or even a child's play area. Design with paper rope for a natural look that brings life and texture to any space. Bulbs are not included; they are sold separately.
-  Updated: 2025-11-19T09:49:35Z
+  Updated: 2025-11-26T11:03:07Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/5fb3fd6ed99342ea6573e8fca93a1521fb03f2a3.jpg?v=1757497569
   Price: $591.44 CAD
 - [Ceiling Lamp Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56113): With contemporary, stylish, and geometric shapes, the ceiling lamp has a gold-plated steel body, a matte black steel shade, and a frosted glass shade. This lamp is for any space, living area, hotel lobby, or contemporary and stylish minimalist kitchen.
-  Updated: 2025-11-19T09:49:38Z
+  Updated: 2025-11-26T11:03:10Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO56113_6.jpg?v=1757497573
   Price: $597.45 CAD
 - [Ceiling Lamp Brass - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56116): Fun, contemporary, and stylish, the ceiling lamp has a gold-plated steel frame. This simple lamp works well in any size space and can be installed in groups for a maximum cluster effect.
-  Updated: 2025-11-19T09:49:39Z
+  Updated: 2025-11-26T11:03:11Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/456f6b0e62f3aa951b3be8ace575fc7a0409b5b8.jpg?v=1757497575
   Price: $268.93 CAD
 - [Ceiling Lamp Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56121): Fun and functional, the ceiling lamp has a polyurethane body, polyester braided wire, and can be plugged directly into a 110 AC outlet. Super versatile, this lamp works well in any space: a small dining area, bedroom, entryway, or any other space.
-  Updated: 2025-11-19T09:49:41Z
+  Updated: 2025-11-26T11:03:13Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/3806612cedec87e685404e20b8d3b2e9f948b3fc.jpg?v=1757497577
   Price: $174.43 CAD
 - [Ceiling Lamp Natural - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56123): With its boho chic and warm shape, the ceiling lamp is a versatile statement piece for any space: kitchen, dining, bedroom, or even hotel lobby. The shade has a powder-coated steel frame wrapped in a polyester straw-style weave
-  Updated: 2025-11-19T09:49:42Z
+  Updated: 2025-11-26T11:03:14Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO56123_1.jpg?v=1757497579
   Price: $695.18 CAD
 - [Ceiling Lamp Brass - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56166): Introducing the Ceiling Lamp, a visionary marvel of contemporary and stylish lighting. Crafted with a resilient steel frame and featuring a flexible silicone LED light tube, this lamp redefines both durability and innovation. Its avant-garde design seamlessly integrates into a myriad of interior aesthetics, from contemporary chic to futuristic sophistication. Whether illuminating a minimalist workspace or enhancing the ambiance of a cutting-edge SO, the ceiling lamp illuminates any space with its unparalleled versatility. Embrace the sleek lines and dynamic functionality of the ceiling lamp, where the robust steel frame complements the flexible LED light tube, delivering an illuminating experience like no other.
-  Updated: 2025-11-19T09:49:43Z
+  Updated: 2025-11-26T11:03:15Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO56166_1.jpg?v=1757497581
   Price: $1,354.42 CAD
 - [Ceiling Lamp Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo56167): The ceiling lamp boasts a contemporary and stylish design that combines functionality with style. Its sleek steel frame houses a flexible silicon LED light tube, providing innovative lighting solutions. Versatile and sophisticated, this lamp complements various interior aesthetics, from contemporary to urban chic. Whether illuminating a cozy home office or adding flair to a trendy loft space, the ceiling lamp delivers both practicality and elegance. Embrace its sleek lines and dynamic illumination, where cutting-edge technology meets timeless design for an exceptional lighting experience.
-  Updated: 2025-11-19T09:49:44Z
+  Updated: 2025-11-26T11:03:16Z
   Vendor: RBZO
   Product Type: Ceiling Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO56167_1.jpg?v=1757497583
   Price: $686.91 CAD
 - [High Back Office Chair Taupe - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo100373): High back office chair boasts a slim yet ergonomically designed for superior comfort, high back with added lumbar support, soft 100% polyurethane upholstery, and chrome arms. You sit elegantly as smooth glides create effortless motion. The tilting mechanism and seat height are both adjustable as hydraulic pistons sit on a metal star base to seamlessly glide you into place. Color options are black, white, gray & taupe 100% polyurethane.
-  Updated: 2025-11-19T09:49:45Z
+  Updated: 2025-11-26T11:03:17Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO100373_1.jpg?v=1757497584
   Price: $973.75 CAD
 - [Conference Chair Taupe - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo100379): Confece chair boasts a slim yet ergonomically designed for a superior comfort profile with added lumbar support, and soft 100% polyurethane upholstery accented with chrome star base. Color options are black, white & taupe 100% polyurethane.
-  Updated: 2025-11-19T09:49:47Z
+  Updated: 2025-11-26T11:03:19Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO100379_1.jpg?v=1757497586
   Price: $773.96 CAD
 - [Dining Chair (Set of 2) Vintage Espresso - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo100505): This dining chair's seat and back are crafted with a sculpted design for comfort. It's upholstered in a soft 100% polyurethane fabric, with a slim-profile metal base and a crossbar for stability. The frame is finished in matte black for a universal appeal.
-  Updated: 2025-11-19T09:49:49Z
+  Updated: 2025-11-26T11:03:20Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO100505_1.jpg?v=1757497588
   Price: $590.84 CAD
 - [Armchair Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo100917): With its crushed velvet fabric look, the chair has a solid wood frame and plush cushions. It looks great in any glam or sophisticated hotel lobby, or contemporary and stylish living area, or as a comfy statement piece for any bedroom.
-  Updated: 2025-11-19T09:49:50Z
+  Updated: 2025-11-26T11:03:21Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO100917_1.jpg?v=1757497590
   Price: $1,406.64 CAD
 - [Dining Chair (Set of 2) Walnut & Light Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo100979): This retro-contemporary and stylish chair gets an update with a flared open back. Simple lines make it a mainstay in any kitchen area. The contrasting ed cun in neutral gray provides comfort and visual interest.
-  Updated: 2025-11-19T09:49:51Z
+  Updated: 2025-11-26T11:03:23Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/0069b5146869bf509893497af4b8b3d13cec9b00.jpg?v=1757497592
   Price: $1,432.72 CAD
 - [Dining Chair (Set of 2) Brown & Silver - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101269): This armless contoured chair with its simple silhouette can dress up your dining space or keep things casual. Beautifully stitched gn in brown faux leather keeps an eye on the details. Comfortable enough to use as a desk chair. Brushed Stainless Steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:49:55Z
+  Updated: 2025-11-26T11:03:27Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO101269_1.jpg?v=1757497598
   Price: $1,089.25 CAD
 - [Dining Chair (Set of 2) White & Silver - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101270): This armless contoured chair with its simple silhouette can dress up your dining space or keep things casual. Beautifully stitched gn in white faux leather keeps an eye on the details. Comfortable enough to use as a desk chair. Brushed Stainless Steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:49:57Z
+  Updated: 2025-11-26T11:03:29Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO101270_1.jpg?v=1757497600
   Price: $1,089.25 CAD
 - [Dining Chair (Set of 2) Black & Silver - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101271): This armless contoured chair with its simple silhouette can dress up your dining space or keep things casual. Beautifully stitched gn in black faux leather keeps an eye on the details. Comfortable enough to use as a desk chair. Brushed Stainless Steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:49:58Z
+  Updated: 2025-11-26T11:03:31Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO101271_1.jpg?v=1757497607
   Price: $1,089.25 CAD
 - [Dining Chair (Set of 2) White & Walnut - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101273): This armless contoured chair with its simple silhouette can dress up your dining space or keep things casual. Beautifully stitched gn in white faux leather keeps an eye on the details. Comfortable enough to use as a desk chair. Matte brown Faux Wood legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:50:01Z
+  Updated: 2025-11-26T11:03:35Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO101273_1.jpg?v=1757497612
   Price: $1,026.25 CAD
 - [Dining Chair (Set of 2) White & Silver - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101279): This sleek armless dining chair lets you sit back and relax in comfort. It's perfectly pitched back cradling you, while the sturdy steel frame supports your every move. The white faux leather seat is beautifully stitched, adding a designer detail to a simple profile. Protective plastic feet keep your floors from scratching. Gorgeous around your table, or pulled up to the desk in your home office.
-  Updated: 2025-11-19T09:50:03Z
+  Updated: 2025-11-26T11:03:37Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO101279_1.jpg?v=1757497616
   Price: $1,042.78 CAD
 - [Dining Chair (Set of 2) Azure Gray & Walnut - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101695): This dining chair has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering sturdy steel frame, and finished legs in walnut heat-transfer vinyl wrapped steel frame, fits in any home kitchen, dining area, or bar, and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:50:10Z
+  Updated: 2025-11-26T11:03:43Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/1155abb9e325eedb464ccfde03c4d60e80323877.jpg?v=1757497623
   Price: $1,047.27 CAD
 - [Dining Chair (Set of 2) Beige & Walnut - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101696): This dining chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in walnut heat-transfer vinyl-wrapped steel frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:50:11Z
+  Updated: 2025-11-26T11:03:44Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO101696_1.jpg?v=1757497625
   Price: $1,047.27 CAD
 - [Dining Chair (Set of 2) Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101777): The Chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this chair fits in any dining room, home office, or even as a bedroom accent chair. The legs are finished in a matte black coating that is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:50:12Z
+  Updated: 2025-11-26T11:03:45Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/198e0dac9833b06d95cb479f29c2eabe6cfe031b.jpg?v=1757497627
   Price: $576.43 CAD
 - [Office Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101780): The Office Chair has mid-century contemporary and stylish urban lines and looks great in any space. The solid steel frame is powder coated with a matte black finish and has a heavy-duty vinyl covering. This chair fits in any room or home office, or even as a bedroom accent chair.
-  Updated: 2025-11-19T09:50:16Z
+  Updated: 2025-11-26T11:03:49Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/bd69393ea5b0c3edef369d30132d97cbf67d3887.jpg?v=1757497632
   Price: $416.95 CAD
 - [Office Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101781): The Office Chair has mid-century contemporary and stylish urban lines and looks great in any space. The solid steel frame is powder coated with a matte black finish and has a heavy-duty vinyl covering. This chair fits in any room or home office, or even as a bedroom accent chair.
-  Updated: 2025-11-19T09:50:17Z
+  Updated: 2025-11-26T11:03:50Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/5d397d61450e036eafd2046947a3b92666e2f5df.jpg?v=1757497635
   Price: $416.95 CAD
 - [Office Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101782): The Office Chair has mid-century contemporary and stylish urban lines and looks great in any space. The solid steel frame is powder coated with a matte black finish and has a heavy-duty vinyl covering. This chair fits in any room or home office, or even as a bedroom accent chair.
-  Updated: 2025-11-19T09:50:19Z
+  Updated: 2025-11-26T11:03:52Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/373371eeac4a3b2df194b488bf87c20d0feef031.jpg?v=1757497637
   Price: $437.95 CAD
 - [Office Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101822): Get your work done in style with this classic armchair, showcasing faux leather upholstery and rolling design. Set it behind a mahogany desk for a traditional look.
-  Updated: 2025-11-19T09:50:21Z
+  Updated: 2025-11-26T11:03:54Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/79d3bcc16169bb54642c37a3b431e8d92ac24953.jpg?v=1757497641
   Price: $546.25 CAD
 - [Office Chair Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101823): The Office Chair has a mid-century contemporary and stylish urban line and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this chair fits in any dining room, home office, or even as a bedroom accent chair. The frame and base are chrome-edged for a sleek, contemporary, and stylish look.
-  Updated: 2025-11-19T09:50:22Z
+  Updated: 2025-11-26T11:03:55Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/d0d01d91055c537dacc5c5904c58b3fc60d9708a.jpg?v=1757497644
   Price: $584.87 CAD
 - [Accent Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101856): The chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering and a sturdy steel frame, this chair fits in any dining room, home office, or even as a bedroom accent chair. The legs are finished in a matte black coating that is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:50:24Z
+  Updated: 2025-11-26T11:03:58Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/9623c9375f67542f20c0dd6c18ff324fb269a613.jpg?v=1757497649
   Price: $1,011.19 CAD
 - [Dining Chair (Set of 2) Vintage Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101947): With a contemporary and stylish scoop shape, the chair has a steel frame with powder-coated steel legs and is wrapped in vinyl or polyester fabric. This chair completes any dining or workspace, in any design, contemporary and stylish, minimal, or boho industrial.
-  Updated: 2025-11-19T09:50:26Z
+  Updated: 2025-11-26T11:03:59Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/74633a5070eee479d15ada58a38bad95302b513a.jpg?v=1757497651
   Price: $700.60 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101949): With a contemporary and stylish scoop shape, the chair has a steel frame with powder-coated steel legs and is wrapped in vinyl or ester fabric. This chair completes any dining or workspace, in any design, contemporary and stylish, minimal, or boho industrial.
-  Updated: 2025-11-19T09:50:28Z
+  Updated: 2025-11-26T11:04:02Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/dd1d5a006301840a5579aeea5858e9e4b6ed6057.jpg?v=1757497655
   Price: $700.60 CAD
 - [Dining Chair (Set of 2) White & Walnut - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109068): This dining chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in walnut heat-transfer vinyl wrapped, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:50:39Z
+  Updated: 2025-11-26T11:04:14Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/861cf797fcea8ba92c417527302aa98eab17fdbd.jpg?v=1757497678
   Price: $1,047.27 CAD
 - [Dining Chair (Set of 2) Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109325): The dining chair has powder-coated steel legs wrapped in a soft-textured polyester fabric. This chair has a mix of soft boho textures with a contemporary and stylish shape. It looks great in any space, dining room, bedroom, or restaurant bar.
-  Updated: 2025-11-19T09:50:40Z
+  Updated: 2025-11-26T11:04:15Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109325_1.jpg?v=1757497680
   Price: $908.40 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109328): The dining chair has powder-coated steel legs and is wrapped in a soft-textured polyester fabric. This chair has a mixture of soft boho textures and a contemporary and stylish shape. It looks great in any space, dining room, bedroom, or restaurant bar.
-  Updated: 2025-11-19T09:50:41Z
+  Updated: 2025-11-26T11:04:16Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109328_1.jpg?v=1757497683
   Price: $908.40 CAD
 - [Accent Chair Cream - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109345): The Accent Chair has a polyester shearling-style fabric. This chair works great in any space, hospitality, or residential. The shape and design are glam, contemporary, and stylish, deco, and boho, all at the same time.
-  Updated: 2025-11-19T09:50:43Z
+  Updated: 2025-11-26T11:04:18Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109345_1.jpg?v=1757497685
   Price: $1,631.28 CAD
 - [Accent Chair Olive Green - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109346): The Accent Chair has a polyester shearling-style fabric. This chair works great in any space, hospitality, or residential. The shape and design are glam, contemporary, and stylish, deco and boho, all at the same time.
-  Updated: 2025-11-19T09:50:44Z
+  Updated: 2025-11-26T11:04:19Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109346_1.jpg?v=1757497688
   Price: $1,631.28 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109364): The dining chair has a powder-coated steel frame with a water-resistant covering. This chair is a perfect hospitality piece with its durability and ease of cleaning.
-  Updated: 2025-11-19T09:50:45Z
+  Updated: 2025-11-26T11:04:20Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109364_1.jpg?v=1757497690
   Price: $935.13 CAD
 - [Dining Chair (Set of 2) Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109400): The dining chair has a powder-coated steel frame with a water-resistant covering. This chair is a perfect hospitality piece with its durability and ease of cleaning.
-  Updated: 2025-11-19T09:50:46Z
+  Updated: 2025-11-26T11:04:21Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109400_1.jpg?v=1757497694
   Price: $930.13 CAD
 - [Accent Chair Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109518): This chair is wrapped in a shearling-style polyester and a powder-coated steel frame; it has a soft, contemporary, and stylish look with plush and boho lines. It looks great in any space, hotel lobby, spacious loft, or glam bedroom.
-  Updated: 2025-11-19T09:50:50Z
+  Updated: 2025-11-26T11:04:25Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109518_1.jpg?v=1757497700
   Price: $1,302.52 CAD
 - [York Accent Chair Olive Green - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109522): This chair is wrapped in velvet and sits on a powder-coated steel base, takes a contemporary and stylish shape, and combines it with deco style. It fits in any space, hotel lobby, spacious loft, or glam bedroom.
-  Updated: 2025-11-19T09:50:53Z
+  Updated: 2025-11-26T11:04:28Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/1b929a2258f4aee481505920daf175cda3dedff8.jpg?v=1757497709
   Price: $1,245.91 CAD
 - [Office Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109528): The office chair has polyester-wrapped cushions and arms with a height-adjustable rolling base. It's subtle, contemporary, and stylish. Mixed with a boho shape, it looks great in any home office or corporate headquarters.
-  Updated: 2025-11-19T09:51:01Z
+  Updated: 2025-11-26T11:04:35Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/4e77cf1050ed47602879041da399ea5da7e413d1.jpg?v=1757497716
   Price: $637.45 CAD
 - [Office Chair Olive Green - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109529): The office chair has polyester-wrapped cushions and arms with a height-adjustable rolling base. It's subtle, contemporary, and stylish. Mixed with a boho shape, it makes it look great in any home office or corporate headquarters.
-  Updated: 2025-11-19T09:51:05Z
+  Updated: 2025-11-26T11:04:36Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/9ad7c4bf33766333835215ed2851eb883f47ece4.jpg?v=1757497718
   Price: $637.45 CAD
 - [Dining Chair (Set of 2) White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109535): This dining chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a black powder-coated steel frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:51:07Z
+  Updated: 2025-11-26T11:04:38Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/0caee67d25a24c102919494d90b2e9df540007de.jpg?v=1757497721
   Price: $1,047.27 CAD
 - [Dining Chair (Set of 2) Azure Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109536): This dining chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a black powder-coated steel frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:51:08Z
+  Updated: 2025-11-26T11:04:40Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/3256f15be4513bacaa0e6d3e1da9ab978278616d.jpg?v=1757497723
   Price: $1,047.27 CAD
 - [Dining Chair (Set of 2) Black & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109549): This dining chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a gold semi-gloss finish frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:51:10Z
+  Updated: 2025-11-26T11:04:41Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eaddac41122abe40262cc06115967031b6cb6af6.jpg?v=1757497726
   Price: $1,173.27 CAD
 - [Dining Chair (Set of 2) White & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109550): This dining chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a gold semi-gloss finish frame, it fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:51:11Z
+  Updated: 2025-11-26T11:04:43Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109550_1.jpg?v=1757497728
   Price: $1,173.27 CAD
 - [Dining Chair (Set of 2) Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109628): This dining chair boasts an electroplated steel frame with a polyester seat, offering a glamorous remix of mid-century contemporary and stylish design. It works great in any space, whether residential or hospitality.
-  Updated: 2025-11-19T09:51:13Z
+  Updated: 2025-11-26T11:04:44Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/1e009d3ef45fd6423e7674d0e05976661a33fc78.jpg?v=1757497730
   Price: $505.03 CAD
 - [Dining Chair (Set of 2) White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109630): This dining chair has an electroplated steel frame with a faux leather seat. It is glam and a deco remix of a mid-century contemporary and stylish design that works great in any space, residential or hospitality.
-  Updated: 2025-11-19T09:51:14Z
+  Updated: 2025-11-26T11:04:46Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109630_1.jpg?v=1757497732
   Price: $505.03 CAD
 - [Dining Chair (Set of 2) Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109648): This dining chair's seat and back are crafted with a sculpted design for comfort. It's upholstered in a soft 100% polyurethane fabric, with a slim-profile metal base and a crossbar for stability. The frame is finished in matte black for a universal appeal.
-  Updated: 2025-11-19T09:51:15Z
+  Updated: 2025-11-26T11:04:47Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109648_1.jpg?v=1757497734
   Price: $590.84 CAD
 - [Dining Chair (Set of 2) Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109651): This dining chair's seat and back are crafted with a sculpted design for comfort. It's upholstered in a soft 100% polyurethane fabric, with a slim-profile metal base and a crossbar for stability. The frame is finished in matte black for a universal appeal.
-  Updated: 2025-11-19T09:51:17Z
+  Updated: 2025-11-26T11:04:48Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109651_1.jpg?v=1757497736
   Price: $590.84 CAD
 - [Dining Chair (Set of 2) Navy Blue - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109654): This dining chair has a powder-coated steel frame with a polyester fabric-wrapped seat and back that works in any space, residential or hospitality, and gives a glam or boho-chic look to every room.
-  Updated: 2025-11-19T09:51:19Z
+  Updated: 2025-11-26T11:04:50Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109654_1.jpg?v=1757497738
   Price: $872.87 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109655): This dining chair has a powder-coated steel frame with a polyester fabric-wrapped seat and back that works in any space, residential or hospitality, and gives a glam or boho-chic look to every room.
-  Updated: 2025-11-19T09:51:20Z
+  Updated: 2025-11-26T11:04:51Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109655_1.jpg?v=1757497741
   Price: $872.87 CAD
 - [Dining Chair (Set of 2) Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109657): This dining chair has a powder-coated steel frame with a polyester fabric-wrapped seat and back that works in any space, residential or hospitality, and gives a glam or boho chic look to every room.
-  Updated: 2025-11-19T09:51:21Z
+  Updated: 2025-11-26T11:04:52Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109657_1.jpg?v=1757497743
   Price: $914.87 CAD
 - [Dining Chair (Set of 2) Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109658): This chair has a powder-coated steel frame with a polyester fabric-wrapped seat and is an urban and boho-chic remix of a mid-century contemporary and stylish classic that works great in any space, residential or hospitality.
-  Updated: 2025-11-19T09:51:23Z
+  Updated: 2025-11-26T11:04:54Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109658_1.jpg?v=1757497745
   Price: $478.90 CAD
 - [Dining Chair (Set of 2) Light Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109659): This chair has a powder-coated steel frame with a polyester fabric-wrapped seat and is an urban and boho-chic remix of a mid-century contemporary and stylish classic that works great in any space, residential or hospitality.
-  Updated: 2025-11-19T09:51:24Z
+  Updated: 2025-11-26T11:04:55Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109659_1.jpg?v=1757497747
   Price: $505.03 CAD
 - [Dining Chair (Set of 2) Gray & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109661): This dining chair has a slender frame that combines mid-century contemporary and stylish with glamour and decorative elements and works well in residential or hospitality settings.
-  Updated: 2025-11-19T09:51:25Z
+  Updated: 2025-11-26T11:04:57Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109661_1.jpg?v=1757497749
   Price: $863.73 CAD
 - [Dining Chair (Set of 2) Cream - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109663): This dining chair has a beautifully wrapped seat and back with a fine frame. This chair combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality.
-  Updated: 2025-11-19T09:51:26Z
+  Updated: 2025-11-26T11:04:58Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109663_1.jpg?v=1757497751
   Price: $1,109.83 CAD
 - [Dining Chair (Set of 2) Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109664): This dining chair has a beautifully wrapped seat and back with a fine frame. This chair combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality.
-  Updated: 2025-11-19T09:51:28Z
+  Updated: 2025-11-26T11:04:59Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109664_1.jpg?v=1757497753
   Price: $1,109.83 CAD
 - [Dining Chair (Set of 2) Cream - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109669): This dining chair has a beautifully wrapped seat and back with a fine frame. This chair combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality.
-  Updated: 2025-11-19T09:51:29Z
+  Updated: 2025-11-26T11:05:01Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109669_1.jpg?v=1757497755
   Price: $750.88 CAD
 - [Dining Chair (Set of 2) Cream - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109677): This elegant dining chair has a beautifully wrapped seat and back with a fine frame that combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality. It also stacks for storage.
-  Updated: 2025-11-19T09:51:31Z
+  Updated: 2025-11-26T11:05:04Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109677_1.jpg?v=1757497759
   Price: $1,306.72 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109679): This elegant dining chair has a beautifully wrapped seat and back with a fine frame that combines mid-century contemporary and stylish with glam and decor elements and works well in space, residential, or hospitality. It also stacks for storage.
-  Updated: 2025-11-19T09:51:34Z
+  Updated: 2025-11-26T11:05:07Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109679_1.jpg?v=1757497762
   Price: $1,306.72 CAD
 - [Dining Chair Gray & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109713): Upholstered for you to sink into comfort while scrolling through your media feed or watching TV. A handsome armchair that makes a bold statement in any room, whether it is the living room, bedroom, or media room. Featuring stylish gold metal legs and a cushioned back and armrest that you never want to leave.
-  Updated: 2025-11-19T09:51:35Z
+  Updated: 2025-11-26T11:05:09Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109713_1.jpg?v=1757497764
   Price: $570.53 CAD
 - [Dining Chair Navy Blue & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109715): Upholstered for you to sink into comfort while scrolling through your media feed or watching TV. A handsome armchair that makes a bold statement in any room, whether it is the living room, bedroom, or media room. Featuring stylish gold metal legs and a cushioned back and armrest that you never want to leave.
-  Updated: 2025-11-19T09:51:36Z
+  Updated: 2025-11-26T11:05:11Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109715_1.jpg?v=1757497766
   Price: $591.53 CAD
 - [Dining Chair Green & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109716): Upholstered for you to sink into comfort while scrolling through your media feed or watching TV. A handsome armchair that makes a bold statement in any room, whether it is the living room, bedroom, or media room. Featuring stylish gold metal legs and a cushioned back and armrest that you never want to leave.
-  Updated: 2025-11-19T09:51:38Z
+  Updated: 2025-11-26T11:05:12Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109716_1.jpg?v=1757497768
   Price: $591.53 CAD
 - [Dining Chair Black & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109717): Upholstered for you to sink into comfort while scrolling through your media feed or watching TV. A handsome armchair that makes a bold statement in any room, whether it is the living room, bedroom, or media room. Featuring stylish gold metal legs and a cushioned back and armrest that you never want to leave.
-  Updated: 2025-11-19T09:51:39Z
+  Updated: 2025-11-26T11:05:14Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109717_1.jpg?v=1757497770
   Price: $591.53 CAD
 - [Dining Chair (Set of 2) Beige & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109731): This dining chair has mid-century contemporary and stylish urban lines and looks great in any space. With a heavy-duty vinyl covering, sturdy steel frame, and finished legs in a gold semi-gloss finish, the steel frame fits in any home kitchen, dining area, or bar and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-19T09:51:42Z
+  Updated: 2025-11-26T11:05:17Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109731_3.jpg?v=1757497776
   Price: $1,173.27 CAD
 - [Dining Chair (Set of 2) Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109738): The Dining Chair is a contemporary and stylish seating option that boasts an ivory polyester seat and a black steel frame. Its sleek and sophisticated design makes it a perfect addition to any contemporary and stylish hotel or home kitchen.
-  Updated: 2025-11-19T09:51:43Z
+  Updated: 2025-11-26T11:05:18Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109738_1.jpg?v=1757497780
   Price: $425.54 CAD
 - [Dining Chair (Set of 2) Green & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109804): Your space with the counter stool. Luxurious velvet, gold-electroplated steel, and a stackable design unite in this versatile, contemporary, and stylish masterpiece. Upgrade your decor with style, comfort, and functionality.
-  Updated: 2025-11-19T09:51:45Z
+  Updated: 2025-11-26T11:05:20Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/24c45cc94f4e407608a91a6fa74479a8e611911a.jpg?v=1757497782
   Price: $973.54 CAD
 - [Accent Chair Multicolor - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109817): The Accent Chair is a perfect blend of comfort and style. The cotton seat is not only cozy but also provides excellent support for long sitting periods. The chair's unique and eye-catching multicolor pattern is sure to be a conversation starter and a focal point in any room. Its sturdy steel frame ensures stability and durability, while its contemporary and stylish and boho-inspired design elements make it a great addition to any room setting.
-  Updated: 2025-11-19T09:51:46Z
+  Updated: 2025-11-26T11:05:21Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109817_1.jpg?v=1757497785
   Price: $377.73 CAD
 - [Accent Chair Multicolor - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109818): Overall, the Accent Chair is a stylish and unique seating option that combines contemporary and stylish and boho-inspired design elements. It's ergonomically designed for superior comfort; its cotton seat, sturdy steel frame, and eye-catching multicolor pattern make it a statement piece that adds charm and personality to any space.
-  Updated: 2025-11-19T09:51:47Z
+  Updated: 2025-11-26T11:05:23Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/5c70b144658d1ea84f66efa0b528b2aa23d365cf.jpg?v=1757497788
   Price: $377.73 CAD
 - [Dining Chair (Set of 2) Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109873): With a deco-contemporary and stylish look, the chair is wrapped in polyester and sits on top of a powder-coated steel base. This chair pops in any dining space, glam, boho chic, or contemporary and stylish.
-  Updated: 2025-11-19T09:51:48Z
+  Updated: 2025-11-26T11:05:23Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109873_1.jpg?v=1757497790
   Price: $931.43 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109874): A new deco contemporary and stylish look, the chair is wrapped in polyester and sits on top of a powder-coated steel base. This chair pops in any dining space, glam, boho chic, or contemporary and stylish. With a deco-contemporary and stylish look, the chair is wrapped in ester and sits on top of a powder-coated steel base. This chair pops in any dining space, glam, boho chic, or contemporary and stylish.
-  Updated: 2025-11-19T09:51:49Z
+  Updated: 2025-11-26T11:05:24Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109874_1.jpg?v=1757497792
   Price: $931.43 CAD
 - [Accent Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109876): A curved silhouette with simple button tufting makes this retro-contemporary and stylish occasional chair a perfect match for any decor and in any room. Luxurious linen-like fabric in gray is soft and ergonomically designed for superior comfort. Simple tapered legs in light brown support this classic beauty.
-  Updated: 2025-11-19T09:51:51Z
+  Updated: 2025-11-26T11:05:27Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109876_1.jpg?v=1757497795
   Price: $1,024.21 CAD
 - [Armchair Vintage Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109903): Classically contemporary and stylish in shape and design, the Arm Chair is ergonomically designed for superior comfort and style, wrapped in long-lasting and reliable vinyl and on powder-coated steel legs. This piece fits in any home or office lobby.
-  Updated: 2025-11-19T09:51:54Z
+  Updated: 2025-11-26T11:05:29Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109903_1.jpg?v=1757497798
   Price: $1,577.39 CAD
 - [Accent Chair Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109932): Discover the Accent Chair, a fusion of luxury and durability, ideal for both contemporary and stylish and Art Deco settings. Wrapped in a boucle-like fabric, it offers a textured, inviting touch, enhancing its visual and tactile appeal. This chair's robust plywood frame promises lasting stability, perfectly complementing the fabric's plushness. Whether gracing a hotel lobby or enriching a living room, the chair's versatile design adapts effortlessly to various decor styles. Its elegant yet simple structure makes it a standout piece, embodying comfort and style in every curve. The accent chair is not just seating but a statement of sophisticated taste.
-  Updated: 2025-11-19T09:51:55Z
+  Updated: 2025-11-26T11:05:30Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/c57d24fd2b999b3dcd37b362b2ac2e094af05e1a.jpg?v=1757497800
   Price: $1,953.00 CAD
 - [Dining Chair (Set of 2) Slate Gray & Walnut - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109934): This armless contoured chair with its simple silhouette can dress up your dining space or keep things casual. A beautifully stitched design in slate gray faux leather keeps an eye on the details. Comfortable enough to use as a desk chair. Matte brown faux wood legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-19T09:51:58Z
+  Updated: 2025-11-26T11:05:33Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109934_1.jpg?v=1757497803
   Price: $1,089.25 CAD
 - [Dining Chair (Set of 2) Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109948): Experience the dining chair—a flawless fusion of contemporary and stylish Art Deco design. Boasting a long-lasting and reliable vinyl seat and sturdy steel frame, this chair seamlessly complements any interior, be it a trendy hotel dining area or an elegant home setting. With its harmonious blend of comfort and style, the dining chair invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your dining space with the unmatched allure of the dining chair today.
-  Updated: 2025-11-19T09:52:00Z
+  Updated: 2025-11-26T11:13:51Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109948_1.jpg?v=1757497807
   Price: $784.54 CAD
 - [Swivel Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109958): This chair is wrapped in a shearling-style polyester and has a swivel base. This chair has a soft, contemporary, and stylish look with plush deco and boho lines. It looks great in any space, hotel lobby, spacious loft, or glam bedroom.
-  Updated: 2025-11-19T09:52:01Z
+  Updated: 2025-11-26T11:05:37Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109958_1.jpg?v=1757497810
   Price: $1,340.18 CAD
 - [Chair Display Light Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109959): Modular seating display shelving system with adjustable height, tempered glass shelves, and LED light.
-  Updated: 2025-11-19T09:52:03Z
+  Updated: 2025-11-26T11:05:38Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/c4e8f41d032417f2a77ef853051ab9e9ea5621f0.jpg?v=1757497812
   Price: $2,146.83 CAD
 - [Adjustable Shelf Light Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109960): Modular seating display shelving system with adjustable height, tempered glass shelves, and LED light.
-  Updated: 2025-11-19T09:52:05Z
+  Updated: 2025-11-26T11:05:40Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/b4e7e78c30718b6360fc8503187353107db38b76.jpg?v=1757497818
   Price: $571.41 CAD
 - [Dining Chair Cream - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109963): Discover the Dining Chair, a perfect blend of style and functionality for contemporary and stylish, deco, or glam dining areas. This chair's luxurious fabric seat offers supreme comfort, ideal for long, engaging meals in both residential and hospitality settings. Its robust steel frame boasts a sleek design, providing stability and durability without compromising on elegance. The dining chair's versatile aesthetic complements a variety of decor themes, making it an excellent choice for anyone looking to add a touch of sophistication to their dining space. Embrace comfort and style with the Dining Chair, a statement piece for any elegant setting.
-  Updated: 2025-11-19T09:52:06Z
+  Updated: 2025-11-26T11:05:41Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/0b3d0ff11705f12a05fd8fe97d178f85776a1b93.jpg?v=1757497823
   Price: $1,140.66 CAD
 - [Accent Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109976): The occasional chair has soft marbled 100% polyurethane fabric in a rich coffee color, with curved lines and slim wood legs.
-  Updated: 2025-11-19T09:52:09Z
+  Updated: 2025-11-26T11:05:44Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109976_1.jpg?v=1757497825
   Price: $1,697.43 CAD
 - [Dining Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109977): Introducing the Dining Chair, where durability meets contemporary and stylish elegance. Ideal for any contemporary or glam dining area, this chair is perfect for both residential and bustling hospitality environments. The chair is upholstered in high-quality performance fabric, offering both luxurious comfort and resilience against spills and wear. Its solid wood frame, rich in natural texture and strength, promises lasting stability and adds a warm, organic touch to your dining space. The chair's versatile design effortlessly complements various interior themes, making it a superb choice for those seeking a blend of sophistication, durability, and style. The dining chair is not just a seat; it's an enhancement to any sophisticated dining experience.
-  Updated: 2025-11-19T09:52:10Z
+  Updated: 2025-11-26T11:05:45Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109977_1.jpg?v=1757497828
   Price: $1,301.43 CAD
 - [Dining Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109978): Introducing the Dining Chair, a harmonious fusion of style and function. This chair is the perfect addition to any contemporary and stylish decor or glam dining space, whether in residential or hospitality settings. With its sleek design and exceptional craftsmanship, the dining chair exudes elegance and sophistication. Crafted with a keen eye for detail, this chair boasts a performance fabric seat, ensuring both comfort and durability. The solid wood frame adds a touch of natural beauty and strength, promising long-lasting support and stability. Versatile and timeless, the dining chair effortlessly complements a range of interior styles, making it a versatile choice for those who appreciate a blend of aesthetics and functionality. Elevate your dining experience with the Dining Chair, where comfort and style converge for an exquisite dining setting.
-  Updated: 2025-11-19T09:52:12Z
+  Updated: 2025-11-26T11:05:47Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109978_1.jpg?v=1757497830
   Price: $1,024.19 CAD
 - [Dining Chair (Set of 2) Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109979): Meet the Dining Chair, a chic blend of durability and style, ideal for contemporary and stylish to glam dining spaces. Featuring a robust solid wood frame paired with a resilient performance fabric seat, it offers comfort and sophistication. Its versatile design ensures it fits seamlessly in various settings, from home dining rooms to upscale restaurants. The dining chair is more than just seating; it's a statement of elegance and functionality.
-  Updated: 2025-11-19T09:52:14Z
+  Updated: 2025-11-26T11:05:48Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109979_1.jpg?v=1757497833
   Price: $1,526.70 CAD
 - [Accent Chair Taupe - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109983): Introducing the loveseat, where sophistication meets comfort. Adorned in opulent velvet fabric and supported by sleek wooden legs, it seamlessly elevates any environment, ideal for both hospitality and residential settings. With its contemporary and stylish design infused with elements of glamour and deco flair, this loveseat becomes a captivating focal point in your interior. Redefine your seating experience with the loveseat, where comfort and style unite effortlessly.
-  Updated: 2025-11-19T09:52:15Z
+  Updated: 2025-11-26T11:05:49Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109983_1.jpg?v=1757497835
   Price: $933.76 CAD
 - [Accent Chair Sandy Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109989): Elevates your space with the accent chair, a perfect blend of contemporary and stylish style and comfort. Adorned with luxurious fabric upholstery, it effortlessly enhances any setting, whether it's for hospitality or residential use. With its contemporary design, infused with elements of glamour and deco flair, this chair becomes a captivating centerpiece in your interior. Redefine your seating experience with the Accent Chair, where sophistication and comfort effortlessly converge.
-  Updated: 2025-11-19T09:52:17Z
+  Updated: 2025-11-26T11:05:52Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109989_1.jpg?v=1757497838
   Price: $1,340.20 CAD
 - [Dining Chair Misty Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109990): Transform your dining area with the dining chair. Its exquisite fabric cover and elegant design create a versatile seating solution suitable for hospitality and residential spaces. With a contemporary and stylish aesthetic highlighted by touches of glamour and deco flair, the dining chair is an eye-catching addition that seamlessly combines style and comfort. Upgrade your dining experience with this exceptional piece.
-  Updated: 2025-11-19T09:52:19Z
+  Updated: 2025-11-26T11:05:53Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109990_1.jpg?v=1757497841
   Price: $1,364.60 CAD
 - [Dining Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109993): Meet the Dining Chair: a versatile and chic addition to any space, whether it's your home or a hotel. Wrapped in quality fabric, this bench seamlessly blends into various rooms and design styles, from deco to contemporary and stylish and glam. The Dining Chair is the perfect balance of style and practicality for your interior needs.
-  Updated: 2025-11-19T09:52:20Z
+  Updated: 2025-11-26T11:05:54Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/854a70fb5db0e05cb42c90c78e39a45aa7213663.jpg?v=1757497843
   Price: $1,117.26 CAD
 - [Accent Chair Red - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo109999): Discover the Accent Chair, a beacon of contemporary elegance, perfect for adding a touch of sophistication to any space, from the grandeur of hotel lobbies to the intimacy of living rooms. This chair is gracefully draped in sumptuous velvet, offering a visually stunning and sensuously tactile experience. Supported by a long-lasting and reliable steel frame, the Accent Chair not only promises longevity but also complements the luxurious feel of the velvet.
-  Updated: 2025-11-19T09:52:23Z
+  Updated: 2025-11-26T11:05:57Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO109999_1.jpg?v=1757497847
   Price: $1,729.48 CAD
 - [Dining Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110003): Meet the Dining Chair, a perfect fusion of comfort and elegance. Draped in plush teddy fabric and supported by a robust steel frame, it effortlessly elevates any environment, be it in hospitality or residential settings. With its contemporary design enriched with touches of glamour and deco flair, this chair becomes a captivating centerpiece in your interior. Redefine your dining experience with the Dining Chair, where style and comfort converge harmoniously.
-  Updated: 2025-11-19T09:52:29Z
+  Updated: 2025-11-26T11:06:03Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110003_1.jpg?v=1757497855
   Price: $826.54 CAD
 - [Dining Chair Misty Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110005): Introducing the Dining Chair Misty Gray, a harmonious blend of comfort and style. Draped in sumptuous teddy fabric and framed with sturdy steel, it seamlessly elevates any space, whether it's a hospitality setting or your own home. With a contemporary design that exudes hints of glamour and deco flair, this chair adds a captivating touch to your interior. Redefine your dining experience with the Dining Chair Misty Gray, where sophistication and comfort unite seamlessly
-  Updated: 2025-11-19T09:52:30Z
+  Updated: 2025-11-26T11:06:04Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/419049699745b1c3c8d926f21aa178c5b6217f8c.jpg?v=1757497858
   Price: $1,322.64 CAD
 - [Accent Chair Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110006): Introducing the Accent Chair, a touch of luxury and sophistication for any space. Adorned in sumptuous velvet, this chair boasts plush comfort and a contemporary and stylish design that seamlessly complements both hotel lobbies and living areas. With its glamorous details and inspired shape, the Accent Chair is a statement piece that combines style and comfort effortlessly. your interior with this elegant addition, where opulence meets contemporary design.
-  Updated: 2025-11-19T09:52:32Z
+  Updated: 2025-11-26T11:06:06Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110006_1.jpg?v=1757497861
   Price: $2,063.88 CAD
 - [Accent Chair Golden Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110007): Meet the Accent Chair, a plush and velvety masterpiece that effortlessly enhances any hotel lobby or living area. With its contemporary design, glamorous details, and captivating deco shape, this chair is the epitome of contemporary and stylish sophistication. Its luxurious velvet covering provides both comfort and style. Elevates your interior with the Accent Chair, where opulence and contemporary design unite harmoniously.
-  Updated: 2025-11-19T09:52:33Z
+  Updated: 2025-11-26T11:06:07Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110007_1.jpg?v=1757497863
   Price: $1,984.50 CAD
 - [Accent Chair Mauve Pink - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110008): Introducing the Accent Chair, an embodiment of plush comfort and contemporary and stylish elegance. Cloaked in opulent velvet, this chair adds a touch of luxury to any hotel lobby or living area. Its contemporary design, adorned with glamorous details and a distinctive deco shape, elevates the ambiance. Redefine your space with the Accent Chair, where sophistication seamlessly meets plush comfort.
-  Updated: 2025-11-19T09:52:34Z
+  Updated: 2025-11-26T11:06:08Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110008_1.jpg?v=1757497865
   Price: $1,575.00 CAD
 - [Accent Chair Truffle Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110014): Meet the Accent Chair, a perfect blend of style and durability. Adorned with resilient vinyl covering, this chair enhances any hotel lobby or living area. Its contemporary and stylish design, complemented by glamorous details and a distinctive deco shape, radiates sophistication. Experience lasting comfort and style with the Accent Chair, where resilience effortlessly merges with contemporary design.
-  Updated: 2025-11-19T09:52:37Z
+  Updated: 2025-11-26T11:06:11Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110014_1.jpg?v=1757497870
   Price: $967.24 CAD
 - [Swivel Chair Blue - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110015): Meet the Band Swivel Chair, a symbol of contemporary and stylish elegance suitable for both cutting-edge and traditional settings. Wrapped in a boucle-like fabric, it offers an inviting, tactile experience. This chair's standout feature is its smooth swivel mechanism, enhancing interaction and mobility. Supported by a sturdy plywood frame, it combines lasting durability with luxurious comfort. Its adaptable design effortlessly complements various decor styles, from contemporary to Art deco. The Band Swivel Chair isn't just a piece of furniture; it's a fusion of functionality, comfort, and style, making it a perfect addition to any refined interior.
-  Updated: 2025-11-19T09:52:38Z
+  Updated: 2025-11-26T11:06:13Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110015_1.jpg?v=1757497872
   Price: $1,494.76 CAD
 - [Dining Chair (Set of 2) Dove Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110017): Your dining experience with the Dining Chair. Adorned in luxurious teddy fabric and built on a sturdy steel frame, it effortlessly enhances any setting, whether it's in a hospitality establishment or a residential space. With its contemporary and stylish design, infused with elements of glamour and deco flair, this chair becomes an eye-catching addition to your interior. Redefine your dining space with the Dining Chair, where style and comfort effortlessly converge.
-  Updated: 2025-11-19T09:52:40Z
+  Updated: 2025-11-26T11:06:14Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110017_1.jpg?v=1757497876
   Price: $1,199.33 CAD
 - [Dining Chair (Set of 2) Maroon Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110018): Your dining experience with the Dining Chair. Adorned in luxurious teddy fabric and built on a sturdy steel frame, it effortlessly enhances any setting, whether it's in a hospitality establishment or a residential space. With its contemporary and stylish design, infused with elements of glamour and deco flair, this chair becomes an eye-catching addition to your interior. Redefine your dining space with the Dining Chair, where style and comfort effortlessly converge.
-  Updated: 2025-11-19T09:52:41Z
+  Updated: 2025-11-26T11:06:16Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110018_1.jpg?v=1757497882
   Price: $1,199.33 CAD
 - [Accent Chair Vanilla - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110023): Introducing the Accent Chair, where plush comfort harmonizes with contemporary design. Wrapped in cozy teddy fabric and supported by a sturdy steel frame, this chair is the perfect addition to any setting. With its contemporary and stylish allure, it effortlessly complements hotel lobbies and living areas alike. Embrace the inviting comfort of the teddy fabric. Elevates your space with the Accent Chair, where style and durability converge seamlessly.
-  Updated: 2025-11-19T09:52:42Z
+  Updated: 2025-11-26T11:06:18Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110023_1.jpg?v=1757497884
   Price: $1,275.67 CAD
 - [Accent Chair Red - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110026): Introducing the Accent Chair, a seamless blend of durability and luxury. Cloaked in sumptuous velvet and supported by a sturdy steel frame, this chair exudes elegance in any setting. With its contemporary and stylish design, it effortlessly elevates hotel lobbies and living areas. Experience enduring comfort and opulent style with the Accent Chair, where resilience seamlessly meets plush velvet.
-  Updated: 2025-11-19T09:52:44Z
+  Updated: 2025-11-26T11:06:21Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110026_1.jpg?v=1757497888
   Price: $1,764.82 CAD
 - [Accent Chair Burnt Orange - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110029): Discover the Accent Chair, where style meets durability. Draped in long-lasting and reliable Sherpa fabric and framed by sturdy steel, this chair adds flair to any space. With its contemporary and stylish design, it effortlessly enhances hotel lobbies and living areas. Experience long-lasting comfort and contemporary style with the Accent Chair, where resilience harmoniously blends with contemporary and stylish design.
-  Updated: 2025-11-19T09:52:46Z
+  Updated: 2025-11-26T11:06:23Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110029_1.jpg?v=1757497890
   Price: $1,694.28 CAD
 - [Dining Chair Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110061): Introducing the Dining Chair, a masterpiece of contemporary and stylish Art Deco design. With a long-lasting and reliable vinyl seat and sturdy steel frame, this chair effortlessly complements any interior, whether it's a trendy hotel dining area or an elegant home setting. The dining chair exudes a harmonious blend of comfort and style, making it an inviting addition to any dining space. Embrace the timeless allure of its sleek design while relishing its long-lasting and reliable construction, promising a lasting and sophisticated seating solution for hotels and homes alike. Elevate your dining experience with the Dining Chair today.
-  Updated: 2025-11-19T09:52:48Z
+  Updated: 2025-11-26T11:06:25Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110061_1.jpg?v=1757497895
   Price: $568.22 CAD
 - [Dining Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110064): Introducing the Dining Chair - a masterpiece of contemporary and stylish Art Deco design. With a long-lasting and reliable poly linen seat and sturdy steel frame, this chair effortlessly complements any interior, whether it's a trendy hotel dining area or an elegant home setting. The dining chair exudes a harmonious blend of comfort and style, making it an inviting addition to any dining space. Embrace the timeless allure of its sleek design while relishing its long-lasting and reliable construction, promising a lasting and sophisticated seating solution for hotels and homes alike. Elevate your dining experience with the Dining Chair today.
-  Updated: 2025-11-19T09:52:49Z
+  Updated: 2025-11-26T11:06:26Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110064_1.jpg?v=1757497897
   Price: $568.22 CAD
 - [Dining Chair (Set of 2) Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110067): Experience the Dining Chair, a flawless fusion of contemporary and stylish Art Deco design. Boasting a long-lasting and reliable vinyl seat and a sturdy steel frame, this chair seamlessly complements any interior, whether it's a trendy hotel dining area or an elegant home setting. With its harmonious blend of comfort and style, the dining chair invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your dining space with the unmatched allure of the dining chair today.
-  Updated: 2025-11-19T09:52:51Z
+  Updated: 2025-11-26T11:06:27Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110067_1.jpg?v=1757497899
   Price: $784.43 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110070): Experience the Dining Chair, a flawless fusion of contemporary and stylish Art Deco design. Featuring a long-lasting and reliable ester seat and a sturdy steel frame, this chair seamlessly complements any interior, whether it's a trendy hotel dining area or an elegant home setting. With its harmonious blend of comfort and style, the dining chair invites you to indulge in a timeless seating experience. Revel in its enduring construction, promising lasting sophistication for hotels and homes alike. Elevate your dining space with the unmatched allure of the dining chair today.
-  Updated: 2025-11-19T09:52:51Z
+  Updated: 2025-11-26T11:06:28Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110070_1.jpg?v=1757497902
   Price: $763.43 CAD
 - [Dining Chair Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110101): Experience unmatched comfort and style with the dining chair. Wrapped in sumptuous teddy fabric and supported by a sleek black steel frame, this chair exudes both contemporary and stylish flair and timeless elegance. Its larger, comfy design ensures you can sit back and relax in any room, while its versatile aesthetic seamlessly complements both deco and contemporary and stylish interiors. Upgrade your seating experience with the Dining Chair, where luxury and versatility meet in perfect harmony.
-  Updated: 2025-11-19T09:52:54Z
+  Updated: 2025-11-26T11:06:30Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110101_1.jpg?v=1757497906
   Price: $700.73 CAD
 - [Dining Chair Black & Bronze - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110102): Experience unmatched comfort and style with the dining chair. Wrapped in sumptuous teddy fabric and supported by a sleek black steel frame, this chair exudes both contemporary and stylish flair and timeless elegance. Its larger, comfy design ensures you can sit back and relax in any room, while its versatile aesthetic seamlessly complements both deco and contemporary and stylish interiors. Upgrade your seating experience with the Dining Chair, where luxury and versatility meet in perfect harmony.
-  Updated: 2025-11-19T09:52:55Z
+  Updated: 2025-11-26T11:06:31Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110102_1.jpg?v=1757497908
   Price: $700.73 CAD
 - [Dining Chair Red & Bronze - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110103): Indulge in superior comfort and style with the dining chair. Embraced by plush teddy fabric and supported by a chic bronze steel frame, this chair embodies contemporary sophistication and enduring charm. Its generously proportioned, cozy design makes it a perfect fit for any room, while its versatile aesthetic effortlessly enhances both contemporary and stylish interiors. Elevate your seating experience with the Chair, where opulence and adaptability converge seamlessly.
-  Updated: 2025-11-19T09:52:56Z
+  Updated: 2025-11-26T11:06:32Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110103_1.jpg?v=1757497910
   Price: $630.63 CAD
 - [Dining Chair Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110104): Indulge in superior comfort and style with the dining chair. Embroidered with plush teddy fabric and supported by a chic black steel frame, this chair embodies contemporary sophistication and enduring charm. Its generously proportioned, cozy design makes it a perfect fit for any room, while its versatile aesthetic effortlessly enhances both deco and contemporary and stylish interiors. Elevate your seating experience with the chair, where opulence and adaptability converge seamlessly.
-  Updated: 2025-11-19T09:52:57Z
+  Updated: 2025-11-26T11:06:33Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110104_1.jpg?v=1757497912
   Price: $630.63 CAD
 - [Accent Chair Slate Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110105): Meet the Accent Chair, a fusion of durability and charm. Adorned in resilient fabric and crafted with quality, this chair enhances any space. Its contemporary and stylish design effortlessly suits both hotel lobbies and living areas. Experience lasting comfort and contemporary style with the Accent Chair, where resilience seamlessly combines with chic design.
-  Updated: 2025-11-19T09:52:58Z
+  Updated: 2025-11-26T11:06:34Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110105_1.jpg?v=1757497914
   Price: $1,569.67 CAD
 - [Accent Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110106): Meet the Accent Chair, a fusion of durability and charm. Adorned in resilient fabric and crafted with quality, this chair enhances any space. Its contemporary and stylish design effortlessly suits both hotel lobbies and living areas. Experience lasting comfort and contemporary style with the Accent Chair, where resilience seamlessly combines with chic design.
-  Updated: 2025-11-19T09:53:00Z
+  Updated: 2025-11-26T11:06:35Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110106_1.jpg?v=1757497916
   Price: $1,622.17 CAD
 - [Accent Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110107): Meet the Accent Chair, where elegance meets practicality. Adorned with a brushed swivel base and long-lasting and reliable vinyl covering, this chair adds a touch of sophistication to any space. Its contemporary and stylish design effortlessly elevates both hotel lobbies and living areas. Experience comfort and style with the Accent Chair, where timeless elegance seamlessly combines with a brushed base for a touch of luxury.
-  Updated: 2025-11-19T09:53:01Z
+  Updated: 2025-11-26T11:06:36Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110107_1.jpg?v=1757497919
   Price: $1,852.77 CAD
 - [Accent Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110108): Meet the Accent Chair, where elegance meets practicality. Adorned with a brushed swivel base and long-lasting and reliable vinyl covering, this chair adds a touch of sophistication to any space. Its contemporary and stylish design effortlessly suits both hotel lobbies and living areas. Experience comfort and style with the Accent Chair, where timeless elegance seamlessly combines with a brushed base for a touch of luxury.
-  Updated: 2025-11-19T09:53:01Z
+  Updated: 2025-11-26T11:06:37Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110108_1.jpg?v=1757497921
   Price: $1,852.77 CAD
 - [Accent Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110109): Discover the Accent Chair, a harmonious blend of style and durability. Featuring a sleek wood base and wrapped in resilient vinyl, this chair effortlessly enhances any space. With its contemporary and stylish design, it elevates both a hotel lobby and living areas. Experience comfort and contemporary style with the Accent Chair, where timeless elegance seamlessly combines with a practical vinyl cover.
-  Updated: 2025-11-19T09:53:02Z
+  Updated: 2025-11-26T11:06:38Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110109_1.jpg?v=1757497923
   Price: $1,564.14 CAD
 - [Accent Chair Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110111): Meet the Accent Chair Black, where elegance meets practicality. Adorned with a swivel base and long-lasting and reliable vinyl covering, this chair adds a touch of sophistication to any space. Its contemporary and stylish design effortlessly fits both hotel lobbies and living areas. Experience comfort and style with the Accent Chair Black, where timeless elegance seamlessly combines with a brushed base for a touch of luxury.
-  Updated: 2025-11-19T09:53:04Z
+  Updated: 2025-11-26T11:06:39Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110111_1.jpg?v=1757497926
   Price: $2,324.15 CAD
 - [Accent Chair Slate Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110112): Discover the Accent Chair, a harmonious blend of style and durability. Featuring a sleek wood base and wrapped in resilient vinyl, this chair effortlessly enhances any space. With its contemporary and stylish design, it elevates both hotel lobbies and living areas. Experience comfort and contemporary style with the Accent Chair, where timeless elegance seamlessly combines with a practical vinyl cover.
-  Updated: 2025-11-19T09:53:05Z
+  Updated: 2025-11-26T11:06:40Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110112_1.jpg?v=1757497928
   Price: $1,112.26 CAD
 - [Accent Chair Slate Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110116): Meet the Accent Chair, a perfect fusion of style and durability. Draped in tough vinyl covering and supported by a robust steel frame, this chair effortlessly enhances any space. With its contemporary design, it complements hotel lounges, living rooms, and reading areas. Experience comfort and contemporary and stylish aesthetics with the Accent Chair, where resilience and sleek design harmoniously come together.
-  Updated: 2025-11-19T09:53:07Z
+  Updated: 2025-11-26T11:06:41Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110116_1.jpg?v=1757497931
   Price: $1,942.00 CAD
 - [Armless Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110118): Introducing the Dining Chair, a perfect marriage of durability and style. Crafted with a robust steel frame and enveloped in resilient vinyl, it seamlessly complements any setting, whether in a hospitality venue or residential space. With its contemporary and stylish design and practicality, this chair adds an inviting touch to your interior. Elevate your dining experience with the Dining Chair, where resilience and sophistication unite effortlessly.
-  Updated: 2025-11-19T09:53:11Z
+  Updated: 2025-11-26T11:06:44Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110118_1.jpg?v=1757497936
   Price: $1,019.15 CAD
 - [Armless Dining Chair (Set of 2) Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110119): Introducing the Dining Chair, a perfect marriage of durability and style. Crafted with a robust steel frame and enveloped in resilient vinyl, it seamlessly complements any setting, whether in a hospitality venue or residential space. With its contemporary and stylish design and practicality, this chair adds an inviting touch to your interior. Elevate your dining experience with the Dining Chair, where resilience and sophistication unite effortlessly.
-  Updated: 2025-11-19T09:53:13Z
+  Updated: 2025-11-26T12:33:18Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110119_1.jpg?v=1757497938
   Price: $1,019.15 CAD
 - [Dining Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110120): Introducing the Dining Chair, a perfect marriage of durability and style. Crafted with a robust steel frame and enveloped in resilient vinyl, it seamlessly complements any setting, whether in a hospitality venue or residential space. With its contemporary and stylish design and practicality, this chair adds an inviting touch to your interior. Elevate your dining experience with the Dining Chair, where resilience and sophistication unite effortlessly.
-  Updated: 2025-11-19T09:53:14Z
+  Updated: 2025-11-26T11:06:46Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110120_1.jpg?v=1757497940
   Price: $732.04 CAD
 - [Dining Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110121): Introducing the Dining Chair, a perfect marriage of durability and style. Crafted with a robust steel frame and enveloped in resilient vinyl, it seamlessly complements any setting, whether in a hospitality venue or residential space. With its contemporary and stylish design and practicality, this chair adds an inviting touch to your interior. Elevate your dining experience with the Dining Chair, where resilience and sophistication unite effortlessly.
-  Updated: 2025-11-19T09:53:15Z
+  Updated: 2025-11-26T11:06:47Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110121_1.jpg?v=1757497942
   Price: $732.04 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110122): Meet the Dining Chair, a harmonious blend of style and durability. Featuring sturdy wood legs and a resilient vinyl seat, it effortlessly enhances any setting, whether in a dining establishment or a residential space. With its contemporary and stylish design and practicality, this chair adds an inviting touch to your interior. Elevate your dining experience with the Dining Chair, where sophistication and resilience unite seamlessly.
-  Updated: 2025-11-19T09:53:18Z
+  Updated: 2025-11-26T11:06:48Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110122_1.jpg?v=1757497944
   Price: $1,628.17 CAD
 - [Dining Chair (Set of 2) Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110123): Meet the Dining Chair, a harmonious blend of style and durability. Featuring sturdy wood legs and a resilient vinyl seat, it effortlessly enhances any setting, whether in a dining establishment or a residential space. With its contemporary and stylish design and practicality, this chair adds an inviting touch to your interior. Elevate your dining experience with the Dining Chair, where sophistication and resilience unite seamlessly.
-  Updated: 2025-11-19T09:53:19Z
+  Updated: 2025-11-26T11:06:49Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110123_1.jpg?v=1757497947
   Price: $1,628.17 CAD
 - [Dining Chair Slate Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110124): Introducing the Dining Chair: a fusion of style and strength. This chair boasts a steel frame enveloped in resilient vinyl, providing durability and a sleek appearance. Whether in a dining establishment or residential setting, its contemporary and stylish design enhances any space. Elevate your dining experience with the Dining Chair, where toughness and elegance seamlessly converge.
-  Updated: 2025-11-19T09:53:20Z
+  Updated: 2025-11-26T11:06:50Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110124_1.jpg?v=1757497949
   Price: $1,553.29 CAD
 - [Dining Chair Tan - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110125): Introducing the Dining Chair: a fusion of style and strength. This chair boasts a steel frame enveloped in resilient vinyl, providing durability and a sleek appearance. Whether in a dining establishment or residential setting, its contemporary and stylish design enhances any space. Elevate your dining experience with the Dining Chair, where toughness and elegance seamlessly converge.
-  Updated: 2025-11-19T09:53:21Z
+  Updated: 2025-11-26T11:06:51Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110125_1.jpg?v=1757497951
   Price: $1,553.29 CAD
 - [Dining Chair (Set of 2) Slate Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110126): Discover the Dining Chair, a harmonious balance of style and durability. With its robust wood legs and resilient fabric seat, it effortlessly elevates any environment, whether in a dining establishment or a residential space. Infused with a contemporary grace and practicality, this chair adds an inviting touch to your interior. Redefine your dining experience with the Dining Chair, where sophistication and resilience seamlessly unite.
-  Updated: 2025-11-19T09:53:22Z
+  Updated: 2025-11-26T11:06:52Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110126_1.jpg?v=1757497953
   Price: $1,816.16 CAD
 - [Dining Chair (Set of 2) Tan - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110127): Discover the Dining Chair, a harmonious balance of style and durability. With its robust wood legs and resilient fabric seat, it effortlessly elevates any environment, whether in a dining establishment or a residential space. Infused with a contemporary grace and practicality, this chair adds an inviting touch to your interior. Redefine your dining experience with the Dining Chair, where sophistication and resilience seamlessly unite.
-  Updated: 2025-11-19T09:53:24Z
+  Updated: 2025-11-26T11:06:53Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110127_1.jpg?v=1757497955
   Price: $1,816.16 CAD
 - [Dining Chair (Set of 2) Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110157): The chair boasts a sleek steel frame and a luxurious fabric-covered seat, offering a perfect balance of contemporary and stylish and timeless elegance. With its blend of contemporary and stylish and deco-inspired design elements, this chair is equally suitable for residential and hospitality settings. Whether used around a dining table in a home or a stylish restaurant, the chair adds a touch of sophistication to any space. Embracing its chic aesthetic and plush comfort, it makes it an ideal choice for enhancing the ambiance of various environments.
-  Updated: 2025-11-19T09:53:25Z
+  Updated: 2025-11-26T11:06:54Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110157_1.jpg?v=1757497957
   Price: $1,349.17 CAD
 - [Dining Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110159): The dining chair stands out with its arms, wooden frame, and fabric-covered seat, blending contemporary and stylish deco influences seamlessly. Ideal for both residential and hospitality settings, it exudes sophistication and comfort. Whether adorning a home dining area or a stylish restaurant, this chair adds a touch of elegance to any space. Embracing its chic design and plush seating, it elevates the ambiance of dining experiences with its perfect harmony of style and functionality.
-  Updated: 2025-11-19T09:53:26Z
+  Updated: 2025-11-26T11:06:55Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110159_1.jpg?v=1757497959
   Price: $805.77 CAD
 - [Dining Chair Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110160): The dining chair stands out with its arms, wooden frame, and fabric-covered seat, blending contemporary and stylish influences seamlessly. Ideal for both residential and hospitality settings, it exudes sophistication and comfort. Whether adorning a home dining area or a stylish restaurant, this chair adds a touch of elegance to any space. Embracing its chic design and plush seating, it elevates the ambiance of dining experiences with its perfect harmony of style and functionality.
-  Updated: 2025-11-19T09:53:27Z
+  Updated: 2025-11-26T11:06:56Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110160_1.jpg?v=1757497961
   Price: $805.77 CAD
 - [Dining Chair (Set of 2) Slate Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110167): Meet the Dining Chair, a flawless fusion of strength and elegance. Designed with a sturdy steel frame and encased in long-lasting and reliable vinyl, it harmonizes effortlessly with any environment, from hospitality venues to residential spaces. With its contemporary design and practicality, this chair brings a welcoming charm to your interior. Redefine your dining experience with the Dining Chair, where durability and sophistication seamlessly intertwine.
-  Updated: 2025-11-19T09:53:28Z
+  Updated: 2025-11-26T11:06:57Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110167_1.jpg?v=1757497963
   Price: $1,684.96 CAD
 - [Dining Chair (Set of 2) Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110168): Meet the Dining Chair, a flawless fusion of strength and elegance. Designed with a sturdy steel frame and encased in long-lasting and reliable vinyl, it harmonizes effortlessly with any environment, from hospitality venues to residential spaces. With its contemporary design and practicality, this chair brings a welcoming charm to your interior. Redefine your dining experience with the Dining Chair, where durability and sophistication seamlessly intertwine.
-  Updated: 2025-11-19T09:53:30Z
+  Updated: 2025-11-26T11:06:58Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110168_1.jpg?v=1757497971
   Price: $1,810.96 CAD
 - [Dining Chair (Set of 2) Slate Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110171): Introducing the Dining Chair, where durability and style effortlessly merge. Crafted with a sturdy steel frame and featuring resilient vinyl upholstery, it seamlessly complements any dining setting, whether it's a bustling restaurant or a cozy home dining area. With its contemporary and stylish design and practicality, this dining chair adds a captivating touch to your interior. Elevate your dining experience with the Dining Chair, where resilience and sophistication harmoniously converge.
-  Updated: 2025-11-19T09:53:31Z
+  Updated: 2025-11-26T11:07:00Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110171_1.jpg?v=1757497973
   Price: $1,367.29 CAD
 - [Dining Chair (Set of 2) Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110172): Introducing the Dining Chair, where durability and style effortlessly merge. Crafted with a sturdy steel frame and featuring resilient vinyl upholstery, it seamlessly complements any dining setting, whether it's a bustling restaurant or a cozy home dining area. With its contemporary and stylish design and practicality, this dining chair adds a captivating touch to your interior. Elevate your dining experience with the Dining Chair, where resilience and sophistication harmoniously converge.
-  Updated: 2025-11-19T09:53:33Z
+  Updated: 2025-11-26T11:07:01Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110172_1.jpg?v=1757497974
   Price: $1,430.29 CAD
 - [Dining Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110175): Meet the Dining Chair—a perfect harmony of durability and style. Crafted with a robust steel frame and enveloped in resilient vinyl upholstery, it complements any dining setting with ease, whether it's a restaurant or your home dining area. With its contemporary and stylish design and practicality, this chair enhances your interior effortlessly. Elevate your dining experience with the Gartson Dining Chair, where resilience and sophistication elegantly come together.
-  Updated: 2025-11-19T09:53:34Z
+  Updated: 2025-11-26T11:07:02Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110175_1.jpg?v=1757497976
   Price: $711.04 CAD
 - [Dining Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110176): Meet the Dining Chair—a perfect harmony of durability and style. Crafted with a robust steel frame and enveloped in resilient vinyl upholstery, it complements any dining setting with ease, whether it's a restaurant or your home dining area. With its contemporary and stylish design and practicality, this chair enhances your interior effortlessly. Elevate your dining experience with the Gartson Dining Chair, where resilience and sophistication elegantly come together.
-  Updated: 2025-11-19T09:53:36Z
+  Updated: 2025-11-26T11:07:04Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110176_1.jpg?v=1757497978
   Price: $700.54 CAD
 - [Accent Chair Ivory - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110201): Introducing the Accent Chair, a harmonious blend of contemporary gn and luxurious comfort. Its steel frame, elegantly wrapped in a boucle-like fabric, creates a visual masterpiece that exudes contemporary and stylish sophistication. Whether gracing the lobby of a glamorous hotel or adding a touch of elegance to a contemporary and stylish loft, the accent chair seamlessly adapts to various settings. With its sleek lines and plush upholstery, it not only enhances the aesthetics of any space but also invites you to indulge in unparalleled comfort. Elevate your decor with the Accent Chair, where style meets opulence in perfect harmony.
-  Updated: 2025-11-19T09:53:37Z
+  Updated: 2025-11-26T11:07:05Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110201_1.jpg?v=1757497979
   Price: $1,323.57 CAD
 - [Accent Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110202): Introducing the Accent Chair, a masterpiece of contemporary design that effortlessly elevates any space, from upscale hotel lobbies to cozy living rooms. Wrapped in a luxurious shearling-like fabric, this chair invites you to experience a delightful texture that's as visually striking as it is ergonomically designed for superior comfort to the touch. The Accent Chair's impeccable craftsmanship is evident in its robust steel frame, ensuring durability while complementing the fabric's plushness.
-  Updated: 2025-11-19T09:53:38Z
+  Updated: 2025-11-26T11:07:06Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110202_1.jpg?v=1757497981
   Price: $1,304.39 CAD
 - [Swivel Dining Chair Orange - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110203): Presenting the Swivel Dining Chair, a luxurious and functional piece for any dining setting. This chair, swathed in sumptuous velvet, offers an opulent touch to contemporary and classic interiors, suitable for residential or hospitality environments. The chair's swivel feature adds a dynamic and convenient aspect, enhancing the user experience. Its plush velvet upholstery ensures an ergonomically designed, superior comfort and stylish seat, while the chair's design combines elegance with practicality. The Swivel Dining Chair elevates any dining experience with its graceful presence and comfort, ideal for those who appreciate a fusion of sophistication and ease.
-  Updated: 2025-11-19T09:53:39Z
+  Updated: 2025-11-26T11:07:08Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110203_1.jpg?v=1757497983
   Price: $1,107.54 CAD
 - [Accent Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110205): Introducing the Accent Chair, a marvel in contemporary design, perfect for elevating any space from a chic hotel lobby to a snug living room. Clad in a high-quality ester cover, this chair invites you with its visually stunning and tactilely pleasing texture. The Accent Chair is a beacon of exemplary craftsmanship, supported by a robust steel frame that ensures durability and complements the sleek comfort of the ester fabric.
-  Updated: 2025-11-19T09:53:42Z
+  Updated: 2025-11-26T11:07:09Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/dbfe688e2aaacb7268892ea26cc26a75750370ed.jpg?v=1757497986
   Price: $1,646.78 CAD
 - [Accent Chair Multicolor - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110206): Introducing the Accent Chair, a contemporary design masterpiece that effortlessly elevates any space, from upscale hotel lobbies to cozy living rooms. Adorned in a premium polyester cover, this chair invites you with its visually stunning and tactilely pleasing texture. Supported by a robust steel frame, it ensures durability while harmonizing with the comfort of the ester fabric.
-  Updated: 2025-11-19T09:53:43Z
+  Updated: 2025-11-26T11:07:11Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110206_1.jpg?v=1757497987
   Price: $1,262.33 CAD
 - [Dining Chair (Set of 2) Quill Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110207): Introducing the Zen Dining Chair, a perfect blend of durability and contemporary style. Ideal for a range of dining environments, from contemporary and stylish homes to chic restaurants, this chair is upholstered in high-quty performance fabric, ensuring both comfort and long-lasting wear. The frame, with its forged-look steel gn, adds an industrial yet elegant touch. This combination of robust materials makes the Zen Dining Chair not only a stylish choice but also a practical one for everyday use. Its sleek gn and superior build quty make it a standout addition to any dining sp, embodying the ce of both stgth and beauty.
-  Updated: 2025-11-19T09:53:44Z
+  Updated: 2025-11-26T11:07:12Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110207_1.jpg?v=1757497989
   Price: $980.76 CAD
 - [Dining Chair (Set of 2) Truffle Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110208): Introducing the Zen Dining Chair, a perfect blend of durability and contemporary style. Ideal for a range of dining environments, from contemporary and stylish homes to chic restaurants, this chair is upholstered in high-quty performance fabric, ensuring both comfort and long-lasting wear. The frame, with its forged-look steel gn, adds an industrial yet elegant touch. This combination of robust materials makes the Zen Dining Chair not only a stylish choice but also a practical one for everyday use. Its sleek gn and superior build quty make it a standout addition to any dining sp, embodying the ce of both stgth and beauty.
-  Updated: 2025-11-19T09:53:46Z
+  Updated: 2025-11-26T11:07:13Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110208_1.jpg?v=1757497991
   Price: $1,001.76 CAD
 - [Dining Chair (Set of 2) Vintage Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110259): Comfy and Bauhaus, the dining chair has a steel frame with powder-coated steel legs and is wrapped in vinyl. This chair completes any dining room, bar, or kitchen in any design, contemporary and stylish, minimal or boho industrial.
-  Updated: 2025-11-19T09:53:48Z
+  Updated: 2025-11-26T11:07:15Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110259_1.jpg?v=1757497994
   Price: $727.69 CAD
 - [Accent Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110268): Introducing the Accent Chair, a luxurious seating option designed to elevate any space with its chic and opulent aesthetic. Featuring a sumptuous faux shearling seat atop a sturdy wood base, this chair seamlessly blends contemporary and stylish glam and deco influences. Its plush seat offers both comfort and style, making it perfect for residential homes or hospitality settings. Whether placed in a cozy living room or a trendy hotel lobby, the accent chair adds a touch of sophistication and elegance to any environment. Embrace uses lavish design and premium materials for an unforgettable seating experience that exudes glamour and refinement.
-  Updated: 2025-11-19T09:53:49Z
+  Updated: 2025-11-26T11:07:16Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110268_1.jpg?v=1757497996
   Price: $1,516.43 CAD
 - [Accent Chair Beige Frost - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110270): Introducing the Accent Chair, a perfect combination of elegance and resilience, designed to enhance both contemporary and stylish and Art Deco settings. This chair is enveloped in a boucle-style fabric, offering a rich, textured sensation that elevates its overall look and feel. Supported by a robust, forged-look steel frame, the chair ensures durability while beautifully offsetting the fabric's softness. Whether it's a statement in a hotel lobby or adding a touch of sophistication to a living room, adaptable design melds seamlessly with a variety of decor styles. Its blend of sleek elegance and comfort makes it a distinctive piece, symbolizing refined taste and style. The Accent Chair is more than just seating; it's an expression of exquisite elegance.
-  Updated: 2025-11-19T09:53:50Z
+  Updated: 2025-11-26T11:07:17Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110270_1.jpg?v=1757497997
   Price: $2,173.50 CAD
 - [Dining Chair Beige & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110275): Meet the Dining Chair, where durability meets contemporary and stylish elegance. Perfectly suited for various dining settings, from contemporary homes to trendy eateries, it boasts high-quality performance fabric for comfort and resilience. The chair's forged-look steel frame adds an industrial yet refined aesthetic. This blend of sturdy materials ensures the dining chair is not only stylish but also a practical choice for daily use. Its sleek design and exceptional build quality make it a distinguished addition to any dining area, capping a perfect appearance of robustness and sophistication.
-  Updated: 2025-11-19T09:53:52Z
+  Updated: 2025-11-26T11:07:19Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110275_1.jpg?v=1757497999
   Price: $960.75 CAD
 - [Dining Chair Cream & Gold - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110276): Introducing the Sdyen Dining Chair, a harmonious fusion of durability and contemporary style. Ideal for a variety of dining spaces, from contemporary and stylish homes to chic restaurants, this chair boasts high-quality performance fabric upholstery, ensuring both comfort and long-lasting wear. The forged-look steel frame adds an industrial yet elegant touch, enhancing its aesthetic appeal. This combination of robust materials makes the Sdyen Dining Chair not only a stylish choice but also a practical one for everyday use. With its sleek design and superior build quality, it becomes a standout addition to any dining area, embodying both strength and beauty.
-  Updated: 2025-11-19T09:53:53Z
+  Updated: 2025-11-26T11:07:19Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110276_1.jpg?v=1757498000
   Price: $960.75 CAD
 - [Accent Chair Cream - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110278): Introducing the Accent Chair, a luxurious seating option that combines comfort with contemporary style. Upholstered in plush cord-style fabric, this accent chair offers a unique texture and an inviting seating experience. Its design is both contemporary and stylish and cozy, making it an ideal choice for a variety of settings, from a trendy loft to a casual living room. The accent chair not only provides an ergonomically designed seat for superior comfort to relax but also adds a touch of sophistication to your space. Embrace the blend of contemporary and stylish elegance and inviting comfort with the Accent Chair.
-  Updated: 2025-11-19T09:53:54Z
+  Updated: 2025-11-26T11:07:21Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110278_1.jpg?v=1757498002
   Price: $2,063.25 CAD
 - [Accent Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110279): Introducing the Accent Chair, a contemporary and stylish, and glamorous masterpiece. Crafted from long-lasting and reliable plywood, it's a versatile addition to hotel lobbies, living rooms, bars, or bedrooms. The chair's sleek design complements any decor, while the luxurious shearling-style fabric offers comfort and opulence. Its timeless white hue adds elegance to any setting. Elevate your space with this statement piece, blending contemporary and stylish aesthetics with a touch of glamour. Whether for a bold lobby statement, a cozy living room, a chic bar, or a luxurious bedroom, the accent chair delivers style and comfort in one exquisite package.
-  Updated: 2025-11-19T09:53:55Z
+  Updated: 2025-11-26T11:07:21Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110279_1.jpg?v=1757498004
   Price: $1,709.65 CAD
 - [Swivel Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110280): Introducing the swivel chair, a contemporary and stylish deco and glam marvel. Crafted from robust plywood, it's a versatile addition to hotel lobbies, living rooms, bars, or bedrooms. The chair's sleek design complements any decor, while the luxurious shearling-style fabric offers comfort and opulence. Its timeless white hue adds elegance to any setting. Elevate your space with this statement piece, blending contemporary and stylish aesthetics with a touch of glamour. Whether for a bold lobby statement, a cozy living room, a chic bar, or a luxurious bedroom, the swivel chair delivers style and comfort in one exquisite package.
-  Updated: 2025-11-19T09:53:58Z
+  Updated: 2025-11-26T11:07:22Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110280_1.jpg?v=1757498006
   Price: $1,606.50 CAD
 - [Accent Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110283): Introducing the Accent Chair in White, a harmonious fusion of contemporary and stylish deco and glam styles, designed to enhance any space. Crafted with a sturdy plywood frame, this chair exudes both durability and elegance. Its sumptuous, thick, soft cord-style fabric upholstery not only adds a touch of opulence but also ensures your comfort. The Accent Chair's versatile design makes it a perfect fit for a chic hotel lobby, a cozy living room, a trendy bar, or a luxurious bedroom. Its sleek lines and minimalist aesthetic effortlessly complement various decor schemes, while the timeless white color radiates sophistication.
-  Updated: 2025-11-19T09:53:59Z
+  Updated: 2025-11-26T11:07:24Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110283_1.jpg?v=1757498008
   Price: $1,732.77 CAD
 - [Dining Chair (Set of 2) Black - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110289): The dining chair offers versatility with its vinyl or fabric-covered seat atop a sleek steel frame, catering to contemporary and stylish or deco aesthetics in both residential and hospitality settings. With its refined design, this chair exudes sophistication and comfort. Whether placed around a dining table at home or in a chic restaurant, it enhances the ambiance with its stylish presence. Embracing its contemporary allure and plush seating, making it the perfect choice for elevating dining experiences in various environments.
-  Updated: 2025-11-19T09:54:00Z
+  Updated: 2025-11-26T11:07:25Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110289_1.jpg?v=1757498010
   Price: $710.47 CAD
 - [Dining Chair (Set of 2) White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110290): The dining chair offers versatility with its vinyl or fabric-covered seat atop a sleek steel frame, catering to contemporary and stylish or deco aesthetics in both residential and hospitality settings. With its refined design, this chair exudes sophistication and comfort. Whether placed around a dining table at home or in a chic restaurant, it enhances the ambiance with its stylish presence. Embracing its contemporary allure and plush seating, making it the perfect choice for elevating dining experiences in various environments.
-  Updated: 2025-11-19T09:54:02Z
+  Updated: 2025-11-26T11:07:26Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110290_1.jpg?v=1757498011
   Price: $731.47 CAD
 - [Swivel Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110293): Introduce a unique, stylish piece to your home with the Swivel Chair Gray, an exceptional example of contemporary and stylish design. Made from high-quality ester fabric, plywood, and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:54:03Z
+  Updated: 2025-11-26T11:07:27Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110293_1.jpg?v=1757498013
   Price: $1,542.60 CAD
 - [Accent Chair White - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110294): The Accent Chair boasts a sleek design with a thick channeled ester fabric seat and sturdy wood legs. Its contemporary allure and ergonomic design for superior comfort seating make it suitable for various interior styles, from contemporary and stylish homes to chic hospitality settings. Whether placed in a living room or a hotel lobby, the accent chair adds sophistication and refinement to any space.
-  Updated: 2025-11-19T09:54:04Z
+  Updated: 2025-11-26T11:07:29Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110294_1.jpg?v=1757498015
   Price: $1,778.93 CAD
 - [Accent Chair Pink - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110339): Introducing the Swivel Accent Chair, a beacon of contemporary elegance perfect for adding sophistication to any space, from the grandeur of hotel lobbies to the intimacy of living rooms. Draped in sumptuous velvet, this chair offers a visually stunning and sensuously tactile experience. Supported by a long-lasting and reliable steel frame, the Swivel Accent Chair not only promises longevity but also complements the luxurious feel of the velvet.
-  Updated: 2025-11-19T09:54:08Z
+  Updated: 2025-11-26T11:07:34Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110339_2.jpg?v=1757498022
   Price: $1,569.27 CAD
 - [Armchair Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110344): Introducing the Armchair, a harmonious blend of contemporary and stylish design and industrial aesthetics. This armchair boasts fabric-wrapped cushions that provide both comfort and a stylish touch, all supported by a sturdy steel frame. Its versatile design is equally at home in a chic hotel lobby or an industrial loft living space. The armchair not only offers an ergonomically designed seating experience for superior comfort but also adds a contemporary edge to your decor. Embrace the fusion of contemporary and stylish elegance and industrial charm with the armchair, where style meets resilience effortlessly.
-  Updated: 2025-11-19T09:54:10Z
+  Updated: 2025-11-26T11:07:35Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110344_1.jpg?v=1757498024
   Price: $2,010.06 CAD
 - [Dining Chair (Set of 2) Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110348): Upgrade your dining experience with the Dining Chair, a luxurious and ergonomically designed chair for superior comfort in your dining space. Featuring a shearling-like seat and backrest, this dining chair exudes opulence and style. Its design is a seamless fit for contemporary and stylish or upscale dining settings, whether in homes or high-end restaurants. The dining chair combines plush comfort with sophisticated aesthetics, making it a stunning addition to elevate any dining atmosphere.
-  Updated: 2025-11-19T09:54:11Z
+  Updated: 2025-11-26T11:07:37Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110348_1.jpg?v=1757498026
   Price: $1,404.10 CAD
 - [Dining Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110352): Your dining space with the Dining Chair, designed for both style and durability. This chair boasts a sleek vinyl seat and back, offering a sophisticated look and easy maintenance. Its design seamlessly integrates into contemporary and stylish dining areas, whether in residential homes or commercial venues. The dining chair combines practicality with a touch of elegance, making it an ideal choice for a refined yet long-lasting and reliable dining experience.
-  Updated: 2025-11-19T09:54:12Z
+  Updated: 2025-11-26T11:07:38Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110352_1.jpg?v=1757498028
   Price: $732.10 CAD
 - [Accent Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110357): Presenting the Accent Chair, a testament to timeless elegance and contemporary and stylish craftsmanship. With its sleek steel frame and vinyl body, this chair exudes sophistication and durability. Whether placed in a cozy reading nook or as a statement piece in a chic living room, the accent chair adds a touch of refinement to any space. Embracing its sleek lines and premium materials, it is the perfect choice for elevating your interior decor with a blend of style and functionality.
-  Updated: 2025-11-19T09:54:14Z
+  Updated: 2025-11-26T11:07:39Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110357_1.jpg?v=1757498030
   Price: $730.63 CAD
 - [Accent Chair Cream - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110358): The Accent Chair has a polyester shearling-style fabric. This chair works great in any space, hospitality, or residential. The shapes and design are glam, contemporary, and stylish and boho all at the same time.
-  Updated: 2025-11-19T09:54:15Z
+  Updated: 2025-11-26T11:07:40Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110358_1.jpg?v=1757498032
   Price: $1,575.00 CAD
 - [Dining Chair (Set of 2) Gray & Walnut - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110396): The Dining Chair boasts a solid rubberwood frame complemented by an ergonomically designed fabric seat and back. Designed to enhance any contemporary and stylish or urban space, it fits seamlessly into both residential and hospitality settings. Its sleek and stylish design makes it a versatile addition to your dining area, providing both elegance and comfort.
-  Updated: 2025-11-19T09:54:16Z
+  Updated: 2025-11-26T11:07:41Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110396_1.jpg?v=1757498033
   Price: $780.65 CAD
 - [Dining Chair Dove Gray & Walnut - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110397): The dining chair boasts a solid rubberwood frame paired with an ergonomically designed fabric seat for superior comfort. Perfect for contemporary and stylish or urban design spaces, it seamlessly fits into both residential and hospitality settings. With its sleek and stylish design, the dining chair adds a touch of elegance and comfort to any dining area.
-  Updated: 2025-11-19T09:54:18Z
+  Updated: 2025-11-26T11:07:42Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110397_1.jpg?v=1757498035
   Price: $1,076.10 CAD
-- [Swivel Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110435): Introduce a unique, stylish piece to your home with the Swivel Chair Beige, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, plywood, and elm wood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. It's chic and contemporary, design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:54:19Z
-  Vendor: RBZO
-  Product Type: Chairs
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110435_2.jpg?v=1757498036
-  Price: $1,811.25 CAD
 - [Swivel Chair Misty Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110437): Introduce a unique, stylish piece to your home with the Swivel Chair Misty Gray, an exceptional example of contemporary and stylish design. Made from high-quality ester fabric, plywood, and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:54:20Z
+  Updated: 2025-11-26T11:07:45Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110437_1.jpg?v=1757498038
   Price: $1,606.50 CAD
 - [Office Chair Brown - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110438): Introduce a unique, stylish piece to your home with the Swivel Chair Misty Gray, an exceptional example of contemporary and stylish design. Made from high-quality ester fabric, plywood, and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:54:21Z
+  Updated: 2025-11-26T11:07:46Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110438_1.jpg?v=1757498039
   Price: $546.13 CAD
 - [Office Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110439): Introduce a unique, stylish piece to your home with the Office Chair Gray, an exceptional example of contemporary and stylish design. Made from high-quality vinyl, plywood, and steel, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:54:22Z
+  Updated: 2025-11-26T11:07:47Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110439_1.jpg?v=1757498041
   Price: $567.13 CAD
 - [Office Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110446): Bring contemporary and stylish elegance to your home office with the Office Chair in Beige, a stunning showcase of contemporary design. Made from premium vinyl, plywood, and steel, this chair perfectly balances aesthetics and functionality. Its versatile design allows it to complement any space, while its chic and sleek appearance makes it a standout feature in any contemporary and stylish home.
-  Updated: 2025-11-19T09:54:23Z
+  Updated: 2025-11-26T11:07:49Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110446_1.jpg?v=1757498042
   Price: $584.87 CAD
 - [Office Chair Gray - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110447): Bring contemporary and stylish elegance to your home office with the Office Chair in Beige, a stunning showcase of contemporary design. Made from premium vinyl, plywood, and steel, this chair perfectly balances aesthetics and functionality. Its versatile design allows it to complement any space, while its chic and sleek appearance makes it a standout feature in any contemporary and stylish home.
-  Updated: 2025-11-19T09:54:24Z
+  Updated: 2025-11-26T11:07:50Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110447_1.jpg?v=1757498044
   Price: $595.37 CAD
 - [Accent Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110467): Introduce a unique, stylish piece to your home with the Accent Chair Beige, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, plywood, and rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:54:26Z
+  Updated: 2025-11-26T11:07:51Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/9df57f1e0506fdd3ebc547e9ce0d82613be061ea.jpg?v=1757498045
   Price: $1,435.60 CAD
 - [Accent Chair Beige & Natural - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110468): Bring a stylish and unique touch to your home with the Accent Chair in Beige & Natural, a remarkable example of contemporary and stylish design. Crafted from premium polyester fabric, plywood, and rubberwood, this chair effortlessly blends beauty with functionality, making it a versatile addition to any room. Its chic, contemporary design ensures it stands out as a striking feature in any contemporary and stylish living space, offering both comfort and elegance.
-  Updated: 2025-11-19T09:54:27Z
+  Updated: 2025-11-26T11:07:52Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/b1a25e463ae41a536cd84bcbb0be5b4126745540.jpg?v=1757498046
   Price: $1,608.39 CAD
 - [Accent Chair Gray & Natural - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110469): Introduce a unique, stylish piece to your home with the Accent Chair Gray & Natural, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric, plywood, and rubberwood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. It's chic and contemporary, design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:54:28Z
+  Updated: 2025-11-26T11:07:53Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/4ed1f08888faf8986d4576b60129582cf7b93198.jpg?v=1757498047
   Price: $1,587.39 CAD
 - [Accent Chair Olive Green - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110470): Elevate your home with the accent chair in olive green, a stunning representation of contemporary and stylish design. Crafted from high-quality polyester fabric, plywood, and rubberwood, this chair perfectly merges style and functionality, providing a versatile addition to any room. Its chic and contemporary aesthetic ensures it stands out as a striking feature in any contemporary and stylish living space, delivering both comfort and visual appeal.
-  Updated: 2025-11-19T09:54:29Z
+  Updated: 2025-11-26T11:07:54Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/9de42fc0caf8c4d040729eff154a368d590f4a7e.jpg?v=1757498048
   Price: $1,149.75 CAD
 - [Accent Chair Oatmeal Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo110473): Introduce a unique, stylish piece to your home with the Accent Chair Oatmeal Beige, an exceptional example of contemporary and stylish design. Made from high-quality polyester fabric and plywood, it strikes the perfect balance between aesthetics and practicality, offering a versatile solution for any space. Its chic and contemporary design makes it a standout addition to any contemporary and stylish home.
-  Updated: 2025-11-19T09:54:30Z
+  Updated: 2025-11-26T11:07:56Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/c3b4576b09f0b05bb43acf114ebcdf2dd44b6290.jpg?v=1757498050
   Price: $1,564.77 CAD
 - [Contemporary Stripes Cream Area Rug](https://www.rugbranch.com/products/rbkl-2251): Country of Origin: India Construction: Handmade
-  Updated: 2025-11-19T09:31:53Z
+  Updated: 2025-11-26T10:11:43Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18012,7 +17986,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Naturals_2251.jpg?v=1757496348
     Price: $769.00 CAD
 - [Contemporary Trellis Cream Area Rug](https://www.rugbranch.com/products/rbkl-1219-23): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:31:54Z
+  Updated: 2025-11-26T10:11:44Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18026,7 +18000,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Sully_1219_23.jpg?v=1757496350
     Price: $679.00 CAD
 - [Contemporary Stripes Grey Area Rug](https://www.rugbranch.com/products/rbkl-1228-ju24): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:31:56Z
+  Updated: 2025-11-26T10:11:46Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18040,7 +18014,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Sully_1228_JU24.jpg?v=1757496354
     Price: $679.00 CAD
 - [Contemporary Stripes Cream Area Rug](https://www.rugbranch.com/products/rbkl-1259-21): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:31:57Z
+  Updated: 2025-11-26T10:11:47Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18058,7 +18032,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Sully_1259_21.jpg?v=1757496356
     Price: $679.00 CAD
 - [Contemporary Patchwork Cream Area Rug](https://www.rugbranch.com/products/rbkl-1277a-jp23): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:31:59Z
+  Updated: 2025-11-26T10:11:48Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18076,7 +18050,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Sully_1277A_JP23.jpg?v=1757496358
     Price: $679.00 CAD
 - [Modern Geometric Blue Area Rug](https://www.rugbranch.com/products/rbkl-13005-5171): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:32:00Z
+  Updated: 2025-11-26T10:11:49Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18090,7 +18064,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Luxe_13005_5171.jpg?v=1757496360
     Price: $989.00 CAD
 - [Modern Geometric Brown Area Rug](https://www.rugbranch.com/products/rbkl-13005-7222): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:32:01Z
+  Updated: 2025-11-26T10:11:50Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18104,7 +18078,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Luxe_13005_7222.jpg?v=1757496362
     Price: $989.00 CAD
 - [Modern Organic White Area Rug](https://www.rugbranch.com/products/rbkl-13020-6191): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:32:02Z
+  Updated: 2025-11-26T10:11:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18118,7 +18092,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Luxe_13020_6191.jpg?v=1757496364
     Price: $989.00 CAD
 - [Modern Geometric White Area Rug](https://www.rugbranch.com/products/rbkl-13036-6191): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:32:03Z
+  Updated: 2025-11-26T10:11:52Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18132,7 +18106,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Luxe_13036_6191.jpg?v=1757496366
     Price: $989.00 CAD
 - [Contemporary Stripes Cream Area Rug](https://www.rugbranch.com/products/rbkl-1319-zd26): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:04Z
+  Updated: 2025-11-26T10:11:53Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18146,7 +18120,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Talia_1319_ZD26.jpg?v=1757496368
     Price: $679.00 CAD
 - [Contemporary Trellis Grey Area Rug](https://www.rugbranch.com/products/rbkl-1320-rl26): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:05Z
+  Updated: 2025-11-26T10:11:54Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18160,7 +18134,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Talia_1320_RL26.jpg?v=1757496370
     Price: $679.00 CAD
 - [Contemporary Trellis Cream Area Rug](https://www.rugbranch.com/products/rbkl-1320-zd26): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:07Z
+  Updated: 2025-11-26T10:11:55Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18174,7 +18148,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Talia_1320_ZD26.jpg?v=1757496372
     Price: $679.00 CAD
 - [Contemporary Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-1345-26): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:08Z
+  Updated: 2025-11-26T10:11:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18192,7 +18166,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Talia_1345_26.jpg?v=1757496373
     Price: $679.00 CAD
 - [Contemporary Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-1355-zd26): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:09Z
+  Updated: 2025-11-26T10:11:57Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18206,7 +18180,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Talia_1355_ZD26.jpg?v=1757496375
     Price: $679.00 CAD
 - [Contemporary Stripes Grey Area Rug](https://www.rugbranch.com/products/rbkl-1360-zf26): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:10Z
+  Updated: 2025-11-26T10:11:58Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18220,7 +18194,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Talia_1360_ZF26.jpg?v=1757496377
     Price: $679.00 CAD
 - [Contemporary Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-1379-sp23): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:11Z
+  Updated: 2025-11-26T10:11:59Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18234,7 +18208,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Sully_1379_SP23.jpg?v=1757496379
     Price: $679.00 CAD
 - [Contemporary Distressed White Area Rug](https://www.rugbranch.com/products/rbkl-34068-6262): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:32:12Z
+  Updated: 2025-11-26T10:12:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18248,7 +18222,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Mae_34068_6262.jpg?v=1757496381
     Price: $789.00 CAD
 - [Contemporary Distressed White Area Rug](https://www.rugbranch.com/products/rbkl-34082-6282): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:32:13Z
+  Updated: 2025-11-26T10:12:02Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18262,7 +18236,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Mae_34082_6282.jpg?v=1757496383
     Price: $789.00 CAD
 - [Tribal Southwestern Geometric Grey Area Rug](https://www.rugbranch.com/products/rbkl-34105-4262): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:32:15Z
+  Updated: 2025-11-26T10:12:03Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18276,7 +18250,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Mae_34105_4262.jpg?v=1757496385
     Price: $789.00 CAD
 - [Contemporary Geometric Grey Area Rug](https://www.rugbranch.com/products/rbkl-34120-3161): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:32:16Z
+  Updated: 2025-11-26T10:12:04Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18290,7 +18264,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Mae_34120_3161.jpg?v=1757496388
     Price: $789.00 CAD
 - [Contemporary Geometric White Area Rug](https://www.rugbranch.com/products/rbkl-34138-6464): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:32:17Z
+  Updated: 2025-11-26T10:12:05Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18304,7 +18278,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Mae_34138_6464.jpg?v=1757496389
     Price: $789.00 CAD
 - [Contemporary Stripes White Area Rug](https://www.rugbranch.com/products/rbkl-34183-6131): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:32:18Z
+  Updated: 2025-11-26T10:12:06Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18318,7 +18292,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Mae_34183_6131.jpg?v=1757496391
     Price: $789.00 CAD
 - [Modern Geometric Grey Area Rug](https://www.rugbranch.com/products/rbkl-5410-pa48): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:19Z
+  Updated: 2025-11-26T10:12:07Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18332,7 +18306,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Ellington_5410_PA48.jpg?v=1757496394
     Price: $749.00 CAD
 - [Modern Trellis Beige Area Rug](https://www.rugbranch.com/products/rbkl-5413-pa26): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:20Z
+  Updated: 2025-11-26T10:12:08Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18346,7 +18320,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Ellington_5413_PA26.jpg?v=1757496395
     Price: $749.00 CAD
 - [Modern Chevron Beige Area Rug](https://www.rugbranch.com/products/rbkl-5415-pa26): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:21Z
+  Updated: 2025-11-26T10:12:09Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18360,7 +18334,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Ellington_5415_PA26.jpg?v=1757496397
     Price: $749.00 CAD
 - [Contemporary Border Grey Area Rug](https://www.rugbranch.com/products/rbkl-5451-pa84): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:23Z
+  Updated: 2025-11-26T10:12:10Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18374,7 +18348,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Ellington_5451_PA84.jpg?v=1757496399
     Price: $749.00 CAD
 - [Contemporary Geometric Beige Area Rug](https://www.rugbranch.com/products/rbkl-7219a): Country of Origin: India Construction: Handmade
-  Updated: 2025-11-19T09:32:24Z
+  Updated: 2025-11-26T10:12:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18388,7 +18362,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Naturals_7219A.jpg?v=1757496401
     Price: $769.00 CAD
 - [Contemporary Distressed Geometric White Area Rug](https://www.rugbranch.com/products/rbkl-8531-2626): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:25Z
+  Updated: 2025-11-26T10:12:12Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18402,7 +18376,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Marisa_8531_2626.jpg?v=1757496403
     Price: $639.00 CAD
 - [Contemporary Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-e917-4161): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:26Z
+  Updated: 2025-11-26T10:12:13Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18416,7 +18390,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Hayden_E917_4161.jpg?v=1757496405
     Price: $549.00 CAD
 - [Contemporary Organic Blue Area Rug](https://www.rugbranch.com/products/rbkl-g184-0262): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:27Z
+  Updated: 2025-11-26T10:12:14Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18434,7 +18408,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Luca_G184_0262.jpg?v=1757496407
     Price: $549.00 CAD
 - [Contemporary Organic Blue Area Rug](https://www.rugbranch.com/products/rbkl-g193-0464): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:28Z
+  Updated: 2025-11-26T10:12:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18452,7 +18426,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Luca_G193_0464.jpg?v=1757496409
     Price: $549.00 CAD
 - [Classic Traditional Border Red Area Rug](https://www.rugbranch.com/products/rbkl-g390-2212): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:29Z
+  Updated: 2025-11-26T10:12:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18466,7 +18440,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Marisa_G390_2212.jpg?v=1757496411
     Price: $569.00 CAD
 - [Classic Traditional Border Cream Area Rug](https://www.rugbranch.com/products/rbkl-g390-2565): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:30Z
+  Updated: 2025-11-26T10:12:17Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18480,7 +18454,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Marisa_G390_2565.jpg?v=1757496413
     Price: $569.00 CAD
 - [Contemporary Botanical Organic Cream Area Rug](https://www.rugbranch.com/products/rbkl-g394-2676): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:31Z
+  Updated: 2025-11-26T10:12:18Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18494,7 +18468,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Marisa_G394_2676.jpg?v=1757496415
     Price: $569.00 CAD
 - [Contemporary Organic White Area Rug](https://www.rugbranch.com/products/rbkl-g401-2717): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:33Z
+  Updated: 2025-11-26T10:12:19Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18508,7 +18482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Marisa_G401_2717.jpg?v=1757496417
     Price: $639.00 CAD
 - [Classic Traditional Classic Blue Area Rug](https://www.rugbranch.com/products/rbkl-g435-2171): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:34Z
+  Updated: 2025-11-26T10:12:20Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18520,7 +18494,7 @@
     Availability: Available
     Price: $569.00 CAD
 - [Classic Traditional Border Classic Cream Area Rug](https://www.rugbranch.com/products/rbkl-g435-2717): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:34Z
+  Updated: 2025-11-26T10:12:20Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18532,7 +18506,7 @@
     Availability: Available
     Price: $569.00 CAD
 - [Contemporary Stripes Yellow Area Rug](https://www.rugbranch.com/products/rbkl-g457-2626): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:35Z
+  Updated: 2025-11-26T10:12:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18546,7 +18520,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Marisa_G457_2626.jpg?v=1757496425
     Price: $569.00 CAD
 - [Contemporary Distressed Organic Cream Area Rug](https://www.rugbranch.com/products/rbkl-g458-2787): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:36Z
+  Updated: 2025-11-26T10:12:22Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18560,7 +18534,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Marisa_G458_2787.jpg?v=1757496428
     Price: $569.00 CAD
 - [Modern Stripes Tonal Solid Grey Area Rug](https://www.rugbranch.com/products/rbkl-g928-4323): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:39Z
+  Updated: 2025-11-26T10:12:25Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18578,7 +18552,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Hayden_G928_4323.jpg?v=1757496432
     Price: $549.00 CAD
 - [Contemporary Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-h347-2757): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:40Z
+  Updated: 2025-11-26T10:12:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18592,7 +18566,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Marisa_H347_2757.jpg?v=1757496434
     Price: $639.00 CAD
 - [Contemporary Organic Grey Area Rug](https://www.rugbranch.com/products/rbkl-h943-2636): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:41Z
+  Updated: 2025-11-26T10:12:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18606,7 +18580,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Muse_H943_2636.jpg?v=1757496436
     Price: $639.00 CAD
 - [Contemporary Organic Beige Area Rug](https://www.rugbranch.com/products/rbkl-h954-2747): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:42Z
+  Updated: 2025-11-26T10:12:29Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18620,7 +18594,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Muse_H954_2747.jpg?v=1757496439
     Price: $639.00 CAD
 - [Contemporary Distressed Geometric White Area Rug](https://www.rugbranch.com/products/rbkl-h961-2757): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:43Z
+  Updated: 2025-11-26T10:12:30Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18634,7 +18608,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Muse_H961_2757.jpg?v=1757496442
     Price: $639.00 CAD
 - [Contemporary Distressed Geometric Orange Area Rug](https://www.rugbranch.com/products/rbkl-h962-2656): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:44Z
+  Updated: 2025-11-26T10:12:31Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18648,7 +18622,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Muse_H962_2656.jpg?v=1757496444
     Price: $639.00 CAD
 - [Contemporary Distressed Geometric Beige Area Rug](https://www.rugbranch.com/products/rbkl-j200-2515): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:45Z
+  Updated: 2025-11-26T10:12:33Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18662,7 +18636,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Marisa_J200_2515.jpg?v=1757496446
     Price: $639.00 CAD
 - [Contemporary Distressed Organic Beige Area Rug](https://www.rugbranch.com/products/rbkl-z219-z152): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:46Z
+  Updated: 2025-11-26T10:12:35Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18676,7 +18650,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Zola_Z219_Z152.jpg?v=1757496448
     Price: $549.00 CAD
 - [Contemporary Stripes Tribal Grey Area Rug](https://www.rugbranch.com/products/rbkl-z224-z256): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:47Z
+  Updated: 2025-11-26T10:12:36Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18690,7 +18664,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Zola_Z224_Z256.jpg?v=1757496451
     Price: $549.00 CAD
 - [Traditional Border Elegant Cream Area Rug](https://www.rugbranch.com/products/rbkl-z226-z137): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:49Z
+  Updated: 2025-11-26T10:12:37Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18704,7 +18678,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Zola_Z226_Z137.jpg?v=1757496454
     Price: $549.00 CAD
 - [Traditional Border Elegant Cream Area Rug](https://www.rugbranch.com/products/rbkl-z226-z231): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:32:50Z
+  Updated: 2025-11-26T10:12:38Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18718,7 +18692,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Zola_Z226_Z231.jpg?v=1757496457
     Price: $549.00 CAD
 - [Metro Checkered Noir Black Area Rug – Bold Modern Style | Rug Branch](https://www.rugbranch.com/products/dr1117bk): Bold checkered design with durable canvas backing. A sleek, modern rug made from 100% polyester. Shop now at Rug Branch!
-  Updated: 2025-11-23T21:37:43Z
+  Updated: 2025-11-25T16:59:05Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18736,13 +18710,13 @@
     Availability: Available
     Price: $316.89 CAD
 - [Metro Checkered Blush Pink Area Rug – Trendy & Modern | Rug Branch](https://www.rugbranch.com/products/dr1115bl): Style your space with the Metro Checkered Blush Pink Rug. Soft polyester and canvas backing meet bold, modern checkered charm.
-  Updated: 2025-11-14T20:15:15Z
+  Updated: 2025-11-25T17:25:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DR1116PK-Parent_1_fb49eda4-7751-4a60-a119-db45bc8da57b.jpg?v=1749825042
   - [4' x 6'](https://www.rugbranch.com/products/dr1115bl?variant=42458196410391)
-    Availability: Not Available
+    Availability: Available
     Price: $90.43 CAD
   - [5' x 8'](https://www.rugbranch.com/products/dr1115bl?variant=42458196443159)
     Availability: Available
@@ -18754,31 +18728,31 @@
     Availability: Available
     Price: $316.89 CAD
 - [Metro Checkered Harbor Blue Area Rug – Modern Charm | Rug Branch](https://www.rugbranch.com/products/dr1115bl-1): Refresh your space with the Metro Checkered Harbor Blue Rug. Soft polyester, canvas backing, and bold blue checkers for a stylish update.
-  Updated: 2025-11-20T15:49:26Z
+  Updated: 2025-11-25T22:22:02Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/dr1115bl-parent_1_e9f55da7-35f6-4977-b64b-3cb2cac89777.jpg?v=1749638964
   - [4' x 6'](https://www.rugbranch.com/products/dr1115bl-1?variant=42458196738071)
-    Availability: Not Available
+    Availability: Available
     Price: $90.43 CAD
   - [5' x 8'](https://www.rugbranch.com/products/dr1115bl-1?variant=42458196770839)
-    Availability: Not Available
+    Availability: Available
     Price: $154.57 CAD
   - [7' x 10'](https://www.rugbranch.com/products/dr1115bl-1?variant=42458196803607)
-    Availability: Not Available
+    Availability: Available
     Price: $234.48 CAD
   - [8' x 11'](https://www.rugbranch.com/products/dr1115bl-1?variant=42458196836375)
     Availability: Available
     Price: $316.89 CAD
 - [Solara Blush Pink Area Rug – Soft & Stylish Decor | Rug Branch](https://www.rugbranch.com/products/dr1102pk): Add charm with the Solara Blush Pink Area Rug. Soft polyester, durable canvas backing—perfect for playful, modern spaces.
-  Updated: 2025-11-22T22:01:27Z
+  Updated: 2025-11-26T21:58:41Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/DR1102PK-Parent_1_a795d142-f5c9-4859-80b3-818b0bd7fb74.jpg?v=1761024335
   - [4' x 6'](https://www.rugbranch.com/products/dr1102pk?variant=42458197360663)
-    Availability: Not Available
+    Availability: Available
     Price: $90.43 CAD
   - [5' x 8'](https://www.rugbranch.com/products/dr1102pk?variant=42458197393431)
     Availability: Available
@@ -18790,7 +18764,7 @@
     Availability: Available
     Price: $316.89 CAD
 - [Contemporary Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-7215): Country of Origin: India Construction: Handmade
-  Updated: 2025-11-19T09:32:51Z
+  Updated: 2025-11-26T10:12:39Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18804,7 +18778,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Aspen_7215.jpg?v=1757496460
     Price: $929.00 CAD
 - [Contemporary Stripes Grey Area Rug](https://www.rugbranch.com/products/rbkl-7216): Country of Origin: India Construction: Handmade
-  Updated: 2025-11-19T09:32:52Z
+  Updated: 2025-11-26T10:12:40Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18818,7 +18792,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Aspen_7216.jpg?v=1757496463
     Price: $929.00 CAD
 - [Contemporary Geometric Plaid Cream Area Rug](https://www.rugbranch.com/products/rbkl-7218): Country of Origin: India Construction: Handmade
-  Updated: 2025-11-19T09:32:53Z
+  Updated: 2025-11-26T10:12:41Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18832,7 +18806,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Aspen_7218.jpg?v=1757496466
     Price: $929.00 CAD
 - [Contemporary Geometric Beige Area Rug](https://www.rugbranch.com/products/rbkl-7220): Country of Origin: India Construction: Handmade
-  Updated: 2025-11-19T09:32:54Z
+  Updated: 2025-11-26T10:12:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18846,7 +18820,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Aspen_7220.jpg?v=1757496468
     Price: $929.00 CAD
 - [Contemporary Spots Cream Area Rug](https://www.rugbranch.com/products/rbkl-7221): Country of Origin: India Construction: Handmade
-  Updated: 2025-11-19T09:32:56Z
+  Updated: 2025-11-26T10:12:43Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18860,7 +18834,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Aspen_7221.jpg?v=1757496470
     Price: $929.00 CAD
 - [Contemporary Stripes White Area Rug](https://www.rugbranch.com/products/rbkl-7234): Country of Origin: India Construction: Handmade
-  Updated: 2025-11-19T09:32:57Z
+  Updated: 2025-11-26T10:12:44Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18874,7 +18848,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Aspen_7234.jpg?v=1757496472
     Price: $929.00 CAD
 - [Tribal Southwestern White Area Rug](https://www.rugbranch.com/products/rbkl-7237): Country of Origin: India Construction: Handmade
-  Updated: 2025-11-19T09:32:58Z
+  Updated: 2025-11-26T10:12:45Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18888,7 +18862,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Aspen_7237.jpg?v=1757496475
     Price: $929.00 CAD
 - [Contemporary Distressed Grey Area Rug](https://www.rugbranch.com/products/rbkl-23067-6292): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:32:59Z
+  Updated: 2025-11-26T10:12:46Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18902,7 +18876,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Marquis_23067_6292.jpg?v=1757496477
     Price: $1,099.00 CAD
 - [Contemporary Distressed White Area Rug](https://www.rugbranch.com/products/rbkl-23298-6262): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:00Z
+  Updated: 2025-11-26T10:12:47Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18916,7 +18890,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Marquis_23298_6262.jpg?v=1757496479
     Price: $1,099.00 CAD
 - [Contemporary Geometric Grey Area Rug](https://www.rugbranch.com/products/rbkl-23314-6262): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:01Z
+  Updated: 2025-11-26T10:12:48Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18930,7 +18904,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Marquis_23314_6262.jpg?v=1757496482
     Price: $1,099.00 CAD
 - [Contemporary Distressed White Area Rug](https://www.rugbranch.com/products/rbkl-23394-6767): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:02Z
+  Updated: 2025-11-26T10:12:49Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18944,7 +18918,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Marquis_23394_6767.jpg?v=1757496484
     Price: $1,099.00 CAD
 - [Contemporary Distressed White Area Rug](https://www.rugbranch.com/products/rbkl-23403-6258): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:03Z
+  Updated: 2025-11-26T10:12:50Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18958,7 +18932,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Marquis_23403_6258.jpg?v=1757496486
     Price: $1,099.00 CAD
 - [Contemporary Distressed White Area Rug](https://www.rugbranch.com/products/rbkl-23418-6767): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:04Z
+  Updated: 2025-11-26T10:12:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18972,7 +18946,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Marquis_23418_6767.jpg?v=1757496488
     Price: $1,099.00 CAD
 - [Contemporary Distressed Blue Area Rug](https://www.rugbranch.com/products/rbkl-2495-1324): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:33:06Z
+  Updated: 2025-11-26T10:12:52Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -18997,7 +18971,7 @@
     Availability: Available
     Price: $129.00 CAD
 - [Transitional Elegant Grey Area Rug](https://www.rugbranch.com/products/rbkl-336-921): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:07Z
+  Updated: 2025-11-26T10:12:53Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19011,7 +18985,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Lane_336_921.jpg?v=1757496493
     Price: $1,449.00 CAD
 - [Contemporary Tribal Southwestern Cream Area Rug](https://www.rugbranch.com/products/rbkl-337-106): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:08Z
+  Updated: 2025-11-26T10:12:54Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19025,7 +18999,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Lane_337_106.jpg?v=1757496495
     Price: $1,449.00 CAD
 - [Contemporary Distressed Cream Area Rug](https://www.rugbranch.com/products/rbkl-373-116): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:09Z
+  Updated: 2025-11-26T10:12:55Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19039,7 +19013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Lane_373_116.jpg?v=1757496498
     Price: $1,449.00 CAD
 - [Contemporary Tribal Southwestern Cream Area Rug](https://www.rugbranch.com/products/rbkl-374-100): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:10Z
+  Updated: 2025-11-26T10:12:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19053,7 +19027,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Lane_374_100.jpg?v=1757496500
     Price: $1,449.00 CAD
 - [Contemporary Distressed Taupe Area Rug](https://www.rugbranch.com/products/rbkl-3977-a284): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:33:11Z
+  Updated: 2025-11-26T10:12:57Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19067,7 +19041,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Emory_3977_A284.jpg?v=1757496502
     Price: $599.00 CAD
 - [Contemporary Distressed Grey Area Rug](https://www.rugbranch.com/products/rbkl-4591-a161): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:33:13Z
+  Updated: 2025-11-26T10:12:58Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19081,7 +19055,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Emory_4591_A161.jpg?v=1757496504
     Price: $599.00 CAD
 - [Modern Geometric Pink Area Rug](https://www.rugbranch.com/products/rbkl-466109-202): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:14Z
+  Updated: 2025-11-26T10:12:59Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19095,7 +19069,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Belle_466109_202.jpg?v=1757496507
     Price: $1,209.00 CAD
 - [Contemporary Geometric Blue Area Rug](https://www.rugbranch.com/products/rbkl-466109-500): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:15Z
+  Updated: 2025-11-26T10:13:00Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19109,7 +19083,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Belle_466109_500.jpg?v=1757496509
     Price: $1,209.00 CAD
 - [Contemporary Geometric Yellow Area Rug](https://www.rugbranch.com/products/rbkl-466115-991): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:16Z
+  Updated: 2025-11-26T10:13:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19123,7 +19097,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Belle_466115_991.jpg?v=1757496511
     Price: $1,209.00 CAD
 - [Contemporary Botanical Yellow Area Rug](https://www.rugbranch.com/products/rbkl-466118-990): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:17Z
+  Updated: 2025-11-26T10:13:02Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19137,7 +19111,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Belle_466118_990.jpg?v=1757496513
     Price: $1,209.00 CAD
 - [Deco Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-475297-505): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:18Z
+  Updated: 2025-11-26T10:13:03Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19151,7 +19125,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Ella_475297_505.jpg?v=1757496516
     Price: $949.00 CAD
 - [Modern Geometric Beige Area Rug](https://www.rugbranch.com/products/rbkl-475302-100): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:19Z
+  Updated: 2025-11-26T10:13:04Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19169,7 +19143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Ella_475302_100.jpg?v=1757496518
     Price: $949.00 CAD
 - [Contemporary Tonal/Solid Rug  Indoor Area](https://www.rugbranch.com/products/rbkl-475318-920): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:20Z
+  Updated: 2025-11-26T10:13:05Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19187,7 +19161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Ella_475318_920.jpg?v=1757496520
     Price: $949.00 CAD
 - [Contemporary Tonal Solid Rug  Indoor Area](https://www.rugbranch.com/products/rbkl-475320-100): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:21Z
+  Updated: 2025-11-26T10:13:06Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19201,7 +19175,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Ella_475320_100.jpg?v=1757496522
     Price: $949.00 CAD
 - [Art Distressed Beige Area Rug](https://www.rugbranch.com/products/rbkl-475338-111): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:23Z
+  Updated: 2025-11-26T10:13:07Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19215,7 +19189,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Ella_475338_111.jpg?v=1757496525
     Price: $949.00 CAD
 - [Deco Geometric Brown Area Rug](https://www.rugbranch.com/products/rbkl-475371-600): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:24Z
+  Updated: 2025-11-26T10:13:08Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19229,7 +19203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Ella_475371_600.jpg?v=1757496527
     Price: $949.00 CAD
 - [Modern Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-48302-100): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:25Z
+  Updated: 2025-11-26T10:13:09Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19243,7 +19217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Roman_48302_100.jpg?v=1757496529
     Price: $1,449.00 CAD
 - [Modern Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-48303-100): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:26Z
+  Updated: 2025-11-26T10:13:10Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19257,7 +19231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Roman_48303_100.jpg?v=1757496531
     Price: $1,449.00 CAD
 - [Modern Geometric Beige Area Rug](https://www.rugbranch.com/products/rbkl-48305-120): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:27Z
+  Updated: 2025-11-26T10:13:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19271,7 +19245,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Roman_48305_120.jpg?v=1757496533
     Price: $1,449.00 CAD
 - [Modern Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-48306-100): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:28Z
+  Updated: 2025-11-26T10:13:13Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19285,7 +19259,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Roman_48306_100_v3.jpg?v=1757496535
     Price: $1,449.00 CAD
 - [Art Distressed Grey Area Rug](https://www.rugbranch.com/products/rbkl-4878a-hf62): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:33:29Z
+  Updated: 2025-11-26T10:13:14Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19299,7 +19273,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Swift_4878A_HF62.jpg?v=1757496537
     Price: $459.00 CAD
 - [Contemporary Border Black Area Rug](https://www.rugbranch.com/products/rbkl-5052-0110): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:30Z
+  Updated: 2025-11-26T10:13:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19317,7 +19291,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Bristol_5052_0110.jpg?v=1757496538
     Price: $489.00 CAD
 - [Contemporary Botanical Orange Area Rug](https://www.rugbranch.com/products/rbkl-5109-0410): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:31Z
+  Updated: 2025-11-26T10:13:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19335,7 +19309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Bristol_5109_0410.jpg?v=1757496540
     Price: $489.00 CAD
 - [Contemporary Tribal Southwestern White Area Rug](https://www.rugbranch.com/products/rbkl-5177a-lq16): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:33:33Z
+  Updated: 2025-11-26T10:13:17Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19349,7 +19323,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Swift_5177A_LQ16.jpg?v=1757496542
     Price: $459.00 CAD
 - [Contemporary Botanical Taupe Area Rug](https://www.rugbranch.com/products/rbkl-5182-0620): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:34Z
+  Updated: 2025-11-26T10:13:18Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19363,7 +19337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Bristol_5182_0620.jpg?v=1757496543
     Price: $489.00 CAD
 - [Contemporary Botanical Distressed Taupe Area Rug](https://www.rugbranch.com/products/rbkl-5195-z135): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:33:35Z
+  Updated: 2025-11-26T10:13:18Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19377,7 +19351,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Zola_5195_Z135.jpg?v=1757496545
     Price: $549.00 CAD
 - [Contemporary Distressed Stripes Grey Area Rug](https://www.rugbranch.com/products/rbkl-5200-dy47): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:33:36Z
+  Updated: 2025-11-26T10:13:19Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19391,7 +19365,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Swift_5200_DY47.jpg?v=1757496547
     Price: $459.00 CAD
 - [Contemporary Geometric Grey Area Rug](https://www.rugbranch.com/products/rbkl-5240-0010): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:37Z
+  Updated: 2025-11-26T10:13:20Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19405,7 +19379,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Bristol_5240_0010.jpg?v=1757496549
     Price: $489.00 CAD
 - [Contemporary Patchwork Grey Area Rug](https://www.rugbranch.com/products/rbkl-5307-04): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:38Z
+  Updated: 2025-11-26T10:13:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19419,7 +19393,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Cathedral_5307_04.jpg?v=1757496551
     Price: $949.00 CAD
 - [Modern Organic Grey Area Rug](https://www.rugbranch.com/products/rbkl-5309-44): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:39Z
+  Updated: 2025-11-26T10:13:22Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19437,7 +19411,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Cathedral_5309_44.jpg?v=1757496553
     Price: $949.00 CAD
 - [Modern Organic Green Area Rug](https://www.rugbranch.com/products/rbkl-5309-66): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:40Z
+  Updated: 2025-11-26T10:13:23Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19455,7 +19429,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Cathedral_5309_66.jpg?v=1757496554
     Price: $949.00 CAD
 - [Tribal Southwestern Tribal Southwestern Area Chevron Indoor](https://www.rugbranch.com/products/rbkl-5316-0010): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:41Z
+  Updated: 2025-11-26T10:13:24Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19473,7 +19447,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Bristol_5316_0010.jpg?v=1757496556
     Price: $489.00 CAD
 - [Classic Traditional Border Grey Area Rug](https://www.rugbranch.com/products/rbkl-5331-02): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:42Z
+  Updated: 2025-11-26T10:13:25Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19487,7 +19461,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Cathedral_5331_02.jpg?v=1757496558
     Price: $949.00 CAD
 - [Contemporary Geometric Stripes Pink Area Rug](https://www.rugbranch.com/products/rbkl-5382-74): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:33:43Z
+  Updated: 2025-11-26T10:13:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19501,7 +19475,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Cora_5382_74.jpg?v=1757496560
     Price: $599.00 CAD
 - [Modern Border Grey Area Rug](https://www.rugbranch.com/products/rbkl-5406-14): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:44Z
+  Updated: 2025-11-26T10:13:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19515,7 +19489,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Cathedral_5406_14.jpg?v=1757496562
     Price: $949.00 CAD
 - [Contemporary Stripes Green Area Rug](https://www.rugbranch.com/products/rbkl-5440-0520): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:45Z
+  Updated: 2025-11-26T10:13:28Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19527,7 +19501,7 @@
     Availability: Available
     Price: $489.00 CAD
 - [Modern Organic Cream Area Rug](https://www.rugbranch.com/products/rbkl-5465-04): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:46Z
+  Updated: 2025-11-26T10:13:29Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19539,7 +19513,7 @@
     Availability: Available
     Price: $949.00 CAD
 - [Contemporary Organic Cream Area Rug](https://www.rugbranch.com/products/rbkl-5472-03): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:47Z
+  Updated: 2025-11-26T10:13:30Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19553,7 +19527,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Cathedral_5472_03.jpg?v=1757496570
     Price: $949.00 CAD
 - [Modern Organic Cream Area Rug](https://www.rugbranch.com/products/rbkl-5472-06): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:48Z
+  Updated: 2025-11-26T10:13:30Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19567,7 +19541,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Cathedral_5472_06.jpg?v=1757496572
     Price: $949.00 CAD
 - [Contemporary Organic White Area Rug](https://www.rugbranch.com/products/rbkl-5501-14): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:49Z
+  Updated: 2025-11-26T10:13:31Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19581,7 +19555,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Cathedral_5501_14.jpg?v=1757496574
     Price: $949.00 CAD
 - [Contemporary Distressed Organic Brown Area Rug](https://www.rugbranch.com/products/rbkl-5507-99): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:50Z
+  Updated: 2025-11-26T10:13:32Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19595,7 +19569,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Cathedral_5507_99.jpg?v=1757496575
     Price: $949.00 CAD
 - [Tribal/Southwestern Geometric Taupe Area Rug](https://www.rugbranch.com/products/rbkl-5544-0620): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:51Z
+  Updated: 2025-11-26T10:13:33Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19609,7 +19583,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Bristol_5544_0620.jpg?v=1757496577
     Price: $489.00 CAD
 - [Contemporary Geometric Beige Area Rug](https://www.rugbranch.com/products/rbkl-5597-21): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:33:52Z
+  Updated: 2025-11-26T10:13:34Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19623,7 +19597,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Cora_5597_21.jpg?v=1757496579
     Price: $599.00 CAD
 - [Mid-Century Geometric Grey Area Rug](https://www.rugbranch.com/products/rbkl-5620-0010): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:53Z
+  Updated: 2025-11-26T10:13:35Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19637,7 +19611,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Bristol_5620_0010.jpg?v=1757496581
     Price: $489.00 CAD
 - [Contemporary Organic Cream Area Rug](https://www.rugbranch.com/products/rbkl-5662-0030): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:54Z
+  Updated: 2025-11-26T10:13:36Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19651,7 +19625,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Bristol_5662_0030.jpg?v=1757496583
     Price: $489.00 CAD
 - [Contemporary Distressed Geometric Grey Area Rug](https://www.rugbranch.com/products/rbkl-5678-de62): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:33:55Z
+  Updated: 2025-11-26T10:13:37Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19665,7 +19639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Swift_5678_DE62.jpg?v=1757496584
     Price: $459.00 CAD
 - [Contemporary Geometric Grey Area Rug](https://www.rugbranch.com/products/rbkl-5680-lm72): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:33:56Z
+  Updated: 2025-11-26T10:13:38Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19679,7 +19653,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Cora_5680_LM72.jpg?v=1757496586
     Price: $599.00 CAD
 - [Contemporary Geometric Grey Area Rug](https://www.rugbranch.com/products/rbkl-5685-lm72): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:33:57Z
+  Updated: 2025-11-26T10:13:40Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19693,7 +19667,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Cora_5685_LM72.jpg?v=1757496588
     Price: $599.00 CAD
 - [Contemporary Border Distressed Beige Area Rug](https://www.rugbranch.com/products/rbkl-5694-dy12): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:33:58Z
+  Updated: 2025-11-26T10:13:41Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19707,7 +19681,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Swift_5694_DY12.jpg?v=1757496590
     Price: $459.00 CAD
 - [Outdoor Geometric Yellow Area Rug](https://www.rugbranch.com/products/rbkl-5695-0710): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:33:59Z
+  Updated: 2025-11-26T10:13:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19721,7 +19695,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Bristol_5695_0710.jpg?v=1757496592
     Price: $489.00 CAD
 - [Contemporary Distressed Organic Taupe Area Rug](https://www.rugbranch.com/products/rbkl-5704-dy23): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:00Z
+  Updated: 2025-11-26T10:13:44Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19735,7 +19709,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Swift_5704_DY23.jpg?v=1757496593
     Price: $459.00 CAD
 - [Traditional Border Grey Area Rug](https://www.rugbranch.com/products/rbkl-5784-a224): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:01Z
+  Updated: 2025-11-26T10:13:45Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19749,7 +19723,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Emory_5784_A224.jpg?v=1757496595
     Price: $599.00 CAD
 - [Contemporary Organic Taupe Area Rug](https://www.rugbranch.com/products/rbkl-5894-a243): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:02Z
+  Updated: 2025-11-26T10:13:46Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19763,7 +19737,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Emory_5894_A243.jpg?v=1757496597
     Price: $599.00 CAD
 - [Contemporary Organic Grey Area Rug](https://www.rugbranch.com/products/rbkl-5895-a175): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:03Z
+  Updated: 2025-11-26T10:13:47Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19781,7 +19755,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Emory_5895_A175.jpg?v=1757496599
     Price: $599.00 CAD
 - [Contemporary Distressed Taupe Area Rug](https://www.rugbranch.com/products/rbkl-5896-a214): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:04Z
+  Updated: 2025-11-26T10:13:49Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19799,7 +19773,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Emory_5896_A214.jpg?v=1757496601
     Price: $599.00 CAD
 - [Contemporary Distressed Geometric Grey Area Rug](https://www.rugbranch.com/products/rbkl-63694-6747): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:34:04Z
+  Updated: 2025-11-26T10:13:49Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19813,7 +19787,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Aurora_63694_6747.jpg?v=1757496602
     Price: $949.00 CAD
 - [Contemporary Distressed Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-63723-6282): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:34:06Z
+  Updated: 2025-11-26T10:13:50Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19827,7 +19801,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Aurora_63723_6282.jpg?v=1757496604
     Price: $949.00 CAD
 - [Contemporary Border Distressed Orange Area Rug](https://www.rugbranch.com/products/rbkl-63736-5280): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:34:07Z
+  Updated: 2025-11-26T10:13:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19841,7 +19815,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Aurora_63736_5280.jpg?v=1757496606
     Price: $949.00 CAD
 - [Contemporary Border Distressed Grey Area Rug](https://www.rugbranch.com/products/rbkl-63825-9248): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:34:08Z
+  Updated: 2025-11-26T10:13:52Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19855,7 +19829,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Aurora_63825_9248.jpg?v=1757496608
     Price: $949.00 CAD
 - [Contemporary Botanical Pink Area Rug](https://www.rugbranch.com/products/rbkl-63834-6626): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:34:08Z
+  Updated: 2025-11-26T10:13:53Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19867,7 +19841,7 @@
     Availability: Available
     Price: $949.00 CAD
 - [Contemporary Distressed Organic Grey Area Rug](https://www.rugbranch.com/products/rbkl-63846-3293): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:34:09Z
+  Updated: 2025-11-26T10:13:54Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19881,7 +19855,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Aurora_63846_3293.jpg?v=1757496611
     Price: $949.00 CAD
 - [Contemporary Distressed Organic Blue Area Rug](https://www.rugbranch.com/products/rbkl-63854-6656): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:34:10Z
+  Updated: 2025-11-26T10:13:55Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19895,7 +19869,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Aurora_63854_6656.jpg?v=1757496613
     Price: $949.00 CAD
 - [Contemporary Border Distressed Black Area Rug](https://www.rugbranch.com/products/rbkl-63856-9293): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-19T09:34:11Z
+  Updated: 2025-11-26T10:13:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19909,7 +19883,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Aurora_63856_9293.jpg?v=1757496615
     Price: $949.00 CAD
 - [Natural Tonal Solid Taupe Area Rug](https://www.rugbranch.com/products/rbkl-7130): Country of Origin: India Construction: Hand Made
-  Updated: 2025-11-19T09:34:12Z
+  Updated: 2025-11-26T10:13:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19923,7 +19897,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Naturals_7130.jpg?v=1757496617
     Price: $769.00 CAD
 - [Contemporary Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-7223b): Country of Origin: India Construction: Handmade
-  Updated: 2025-11-19T09:34:13Z
+  Updated: 2025-11-26T10:13:57Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19937,7 +19911,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Aspen_7223B.jpg?v=1757496619
     Price: $929.00 CAD
 - [Modern Tonal Solid Green Area Rug](https://www.rugbranch.com/products/rbkl-9999-1222): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:14Z
+  Updated: 2025-11-26T10:13:58Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19959,7 +19933,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Pascal_9999_1222.jpg?v=1757496621
     Price: $419.00 CAD
 - [Modern Tonal Solid Beige Area Rug](https://www.rugbranch.com/products/rbkl-9999-3111): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:15Z
+  Updated: 2025-11-26T10:13:59Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19981,7 +19955,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Pascal_9999_3111.jpg?v=1757496623
     Price: $419.00 CAD
 - [Modern Tonal Solid Pink Area Rug](https://www.rugbranch.com/products/rbkl-9999-3333): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:16Z
+  Updated: 2025-11-26T10:14:00Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20003,7 +19977,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Pascal_9999_3333.jpg?v=1757496625
     Price: $419.00 CAD
 - [Modern Tonal Solid Yellow Area Rug](https://www.rugbranch.com/products/rbkl-9999-3444): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:17Z
+  Updated: 2025-11-26T10:14:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20025,7 +19999,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Pascal_9999_3444.jpg?v=1757496627
     Price: $419.00 CAD
 - [Modern Tonal Solid Cream Area Rug](https://www.rugbranch.com/products/rbkl-9999-4111): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:18Z
+  Updated: 2025-11-26T10:14:02Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20047,7 +20021,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Pascal_9999_4111.jpg?v=1757496629
     Price: $419.00 CAD
 - [Modern Tonal Solid Grey Area Rug](https://www.rugbranch.com/products/rbkl-9999-4222): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:19Z
+  Updated: 2025-11-26T10:14:03Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20069,7 +20043,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Pascal_9999_4222.jpg?v=1757496632
     Price: $419.00 CAD
 - [Contemporary Botanical Green Area Rug](https://www.rugbranch.com/products/rbkl-a033-2434): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:20Z
+  Updated: 2025-11-26T10:14:04Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20083,7 +20057,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Eclipse_A033_2434.jpg?v=1757496634
     Price: $419.00 CAD
 - [Contemporary Geometric Blue Area Rug](https://www.rugbranch.com/products/rbkl-a184-9727): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:21Z
+  Updated: 2025-11-26T10:14:05Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20113,7 +20087,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Breeze_A184_9727.jpg?v=1757496636
     Price: $109.00 CAD
 - [Contemporary Geometric Blue Area Rug](https://www.rugbranch.com/products/rbkl-a782-9232): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:22Z
+  Updated: 2025-11-26T10:14:06Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20127,7 +20101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Eclipse_A782_9232.jpg?v=1757496638
     Price: $419.00 CAD
 - [Classic Traditional Cream Area Rug](https://www.rugbranch.com/products/rbkl-a784-9355): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:23Z
+  Updated: 2025-11-26T10:14:07Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20141,7 +20115,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Eclipse_A784_9355.jpg?v=1757496640
     Price: $419.00 CAD
 - [Classic Traditional Taupe Area Rug](https://www.rugbranch.com/products/rbkl-b206-4212): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:24Z
+  Updated: 2025-11-26T10:14:07Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20155,7 +20129,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Hayden_B206_4212.jpg?v=1757496642
     Price: $549.00 CAD
 - [Contemporary Distressed Blue Area Rug](https://www.rugbranch.com/products/rbkl-b564-0848): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:25Z
+  Updated: 2025-11-26T10:14:08Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20181,7 +20155,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Sara_B564_0848.jpg?v=1757496644
     Price: $79.00 CAD
 - [Contemporary Distressed Cream Area Rug](https://www.rugbranch.com/products/rbkl-d931-4737): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:26Z
+  Updated: 2025-11-26T10:14:09Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20195,7 +20169,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Serene_D931_4737.jpg?v=1757496646
     Price: $659.00 CAD
 - [Contemporary Geometric Tribal Area Area Rug](https://www.rugbranch.com/products/rbkl-d975-4919): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:27Z
+  Updated: 2025-11-26T10:14:10Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20209,7 +20183,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Serene_D975_4919.jpg?v=1757496649
     Price: $659.00 CAD
 - [Classic Traditional Elegant Cream Area Rug](https://www.rugbranch.com/products/rbkl-d984-7424): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:28Z
+  Updated: 2025-11-26T10:14:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20227,7 +20201,7 @@
     Availability: Available
     Price: $129.00 CAD
 - [Contemporary Geometric Rug  Indoor Area](https://www.rugbranch.com/products/rbkl-e119-7127): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:29Z
+  Updated: 2025-11-26T10:14:12Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20245,7 +20219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Breeze_E119_7127.jpg?v=1757496653
     Price: $109.00 CAD
 - [Classic Traditional Elegant Pink Area Rug](https://www.rugbranch.com/products/rbkl-e154-0427): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:30Z
+  Updated: 2025-11-26T10:14:13Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20259,7 +20233,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Serene_E154_0427.jpg?v=1757496655
     Price: $659.00 CAD
 - [Contemporary Botanical Blue Area Rug](https://www.rugbranch.com/products/rbkl-e188-7717): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:31Z
+  Updated: 2025-11-26T10:14:14Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20276,7 +20250,7 @@
     Availability: Available
     Price: $129.00 CAD
 - [Contemporary Botanical Cream Area Rug](https://www.rugbranch.com/products/rbkl-e722-0464): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:32Z
+  Updated: 2025-11-26T10:14:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20290,7 +20264,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Sara_E722_0464.jpg?v=1757496659
     Price: $459.00 CAD
 - [Contemporary Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-e884-1121): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:33Z
+  Updated: 2025-11-26T10:14:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20304,7 +20278,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Pascal_E884_1121.jpg?v=1757496661
     Price: $419.00 CAD
 - [Tribal Southwestern Over-Dyed Cream Area Rug](https://www.rugbranch.com/products/rbkl-e994-6242): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:34Z
+  Updated: 2025-11-26T10:14:17Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20318,7 +20292,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Fresco_E994_6242.jpg?v=1757496663
     Price: $419.00 CAD
 - [Classic Traditional Border Cream Area Rug](https://www.rugbranch.com/products/rbkl-f027-4494): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:35Z
+  Updated: 2025-11-26T10:53:58Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20332,7 +20306,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Samira_F027_4494.jpg?v=1757496666
     Price: $659.00 CAD
 - [Contemporary Organic Cream Area Rug](https://www.rugbranch.com/products/rbkl-f032-4424): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:36Z
+  Updated: 2025-11-26T10:14:18Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20354,7 +20328,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Samira_F032_4424.jpg?v=1757496669
     Price: $129.00 CAD
 - [Classic Traditional Grey Area Rug](https://www.rugbranch.com/products/rbkl-f034-7494): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:38Z
+  Updated: 2025-11-26T10:14:19Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20368,7 +20342,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Samira_F034_7494.jpg?v=1757496672
     Price: $659.00 CAD
 - [Contemporary Elegant Beige Area Rug](https://www.rugbranch.com/products/rbkl-f037-4497): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:39Z
+  Updated: 2025-11-26T10:14:20Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20385,7 +20359,7 @@
     Availability: Available
     Price: $129.00 CAD
 - [Mid-Century Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-f044-7274): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:41Z
+  Updated: 2025-11-26T10:14:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20399,7 +20373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Samira_F044_7274.jpg?v=1757496677
     Price: $659.00 CAD
 - [Contemporary Organic Beige Area Rug](https://www.rugbranch.com/products/rbkl-f045-4979): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:42Z
+  Updated: 2025-11-26T10:14:22Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20413,7 +20387,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Samira_F045_4979.jpg?v=1757496680
     Price: $659.00 CAD
 - [Contemporary Border Organic Grey Area Rug](https://www.rugbranch.com/products/rbkl-f113-0454): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-22T03:20:22Z
+  Updated: 2025-11-26T10:14:23Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20427,7 +20401,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Luca_F113_0454.jpg?v=1757496682
     Price: $549.00 CAD
 - [Contemporary Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-f276-7616): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:45Z
+  Updated: 2025-11-26T10:14:24Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20441,7 +20415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Breeze_F276_7616.jpg?v=1757496684
     Price: $729.00 CAD
 - [Classic Traditional Classic Cream Area Rug](https://www.rugbranch.com/products/rbkl-f708-6242): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:46Z
+  Updated: 2025-11-26T10:14:25Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20459,7 +20433,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Fresco_F708_6242.jpg?v=1757496686
     Price: $419.00 CAD
 - [Modern Botanical Cream Area Rug](https://www.rugbranch.com/products/rbkl-f726-6252): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:47Z
+  Updated: 2025-11-26T10:14:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20477,7 +20451,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Fresco_F726_6252.jpg?v=1757496688
     Price: $419.00 CAD
 - [Mid-Century Geometric Rug  Indoor Area](https://www.rugbranch.com/products/rbkl-f727-6252): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:49Z
+  Updated: 2025-11-26T10:14:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20495,7 +20469,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Fresco_F727_6252.jpg?v=1757496690
     Price: $419.00 CAD
 - [Contemporary Botanical Rug  Indoor Area](https://www.rugbranch.com/products/rbkl-f829-6212): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:50Z
+  Updated: 2025-11-26T10:14:28Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20509,7 +20483,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Folio_F829_6212.jpg?v=1757496692
     Price: $599.00 CAD
 - [Modern Chevron Area Distressed Indoor](https://www.rugbranch.com/products/rbkl-f839-6272): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:52Z
+  Updated: 2025-11-26T10:14:29Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20523,7 +20497,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Folio_F839_6272.jpg?v=1757496694
     Price: $599.00 CAD
 - [Modern Distressed Geometric Grey Area Rug](https://www.rugbranch.com/products/rbkl-f853-6737): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:53Z
+  Updated: 2025-11-26T10:14:29Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20544,7 +20518,7 @@
     Availability: Available
     Price: $99.00 CAD
 - [Classic Traditional Border Taupe Area Rug](https://www.rugbranch.com/products/rbkl-g195-9464): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:55Z
+  Updated: 2025-11-26T10:14:30Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20558,7 +20532,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Luca_G195_9464.jpg?v=1757496699
     Price: $549.00 CAD
 - [Contemporary Stripes Cream Area Rug](https://www.rugbranch.com/products/rbkl-g613-9121): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:56Z
+  Updated: 2025-11-26T10:14:31Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20580,7 +20554,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Luca_G613_9121.jpg?v=1757496701
     Price: $549.00 CAD
 - [Contemporary Geometric Grey Area Rug](https://www.rugbranch.com/products/rbkl-g994-09y9): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:56Z
+  Updated: 2025-11-26T10:14:32Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20594,7 +20568,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Sara_G994_09Y9.jpg?v=1757496703
     Price: $459.00 CAD
 - [Contemporary Botanical Cream Area Rug](https://www.rugbranch.com/products/rbkl-g997-4989): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:57Z
+  Updated: 2025-11-26T10:14:33Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20606,7 +20580,7 @@
     Availability: Available
     Price: $659.00 CAD
 - [Classic Traditional Cream Area Rug](https://www.rugbranch.com/products/rbkl-h003-4474): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:58Z
+  Updated: 2025-11-26T10:14:34Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20620,7 +20594,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Samira_H003_4474.jpg?v=1757496707
     Price: $659.00 CAD
 - [Contemporary Stripes Cream Area Rug](https://www.rugbranch.com/products/rbkl-h016-4141): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:34:59Z
+  Updated: 2025-11-26T10:14:35Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20634,7 +20608,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Pascal_H016_4141.jpg?v=1757496709
     Price: $419.00 CAD
 - [Mid-Century Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-h022-4131): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:00Z
+  Updated: 2025-11-26T10:14:36Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20648,7 +20622,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Pascal_H022_4131.jpg?v=1757496712
     Price: $419.00 CAD
 - [Contemporary Geometric Beige Area Rug](https://www.rugbranch.com/products/rbkl-h632-0151): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:02Z
+  Updated: 2025-11-26T10:14:37Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20662,7 +20636,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Leo_H632_0151.jpg?v=1757496714
     Price: $459.00 CAD
 - [Contemporary Stripes Tonal Solid Cream Area Rug](https://www.rugbranch.com/products/rbkl-h640-3212): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:02Z
+  Updated: 2025-11-26T10:14:38Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20676,7 +20650,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Pascal_H640_3212.jpg?v=1757496716
     Price: $419.00 CAD
 - [Contemporary Geometric Brown Area Rug](https://www.rugbranch.com/products/rbkl-h774-9656): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:03Z
+  Updated: 2025-11-26T10:14:38Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20690,7 +20664,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Leo_H774_9656.jpg?v=1757496718
     Price: $459.00 CAD
 - [Contemporary Distressed Organic Cream Area Rug](https://www.rugbranch.com/products/rbkl-h782-4969): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:04Z
+  Updated: 2025-11-26T10:14:39Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20704,7 +20678,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Serene_H782_4969.jpg?v=1757496720
     Price: $659.00 CAD
 - [Contemporary Distressed Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-h796-4232): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:06Z
+  Updated: 2025-11-26T10:14:40Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20718,7 +20692,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Serene_H796_4232.jpg?v=1757496721
     Price: $659.00 CAD
 - [Contemporary Tribal Southwestern Cream Area Rug](https://www.rugbranch.com/products/rbkl-h805-4989): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:07Z
+  Updated: 2025-11-26T10:14:41Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20732,7 +20706,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Serene_H805_4989.jpg?v=1757496723
     Price: $659.00 CAD
 - [Contemporary Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-h823-1242): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:08Z
+  Updated: 2025-11-26T10:14:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20746,7 +20720,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Malibu_H823_1242.jpg?v=1757496725
     Price: $459.00 CAD
 - [Contemporary Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-h823-1252): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:08Z
+  Updated: 2025-11-26T10:14:44Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20758,7 +20732,7 @@
     Availability: Available
     Price: $459.00 CAD
 - [Contemporary Geometric Tonal Solid Cream Area Rug](https://www.rugbranch.com/products/rbkl-h823-1313): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:09Z
+  Updated: 2025-11-26T10:14:44Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20772,7 +20746,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Malibu_H823_1313.jpg?v=1757496729
     Price: $459.00 CAD
 - [Art Geometric Blue Area Rug](https://www.rugbranch.com/products/rbkl-h823-6242): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:10Z
+  Updated: 2025-11-26T10:14:45Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20786,7 +20760,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Folio_H823_6242.jpg?v=1757496732
     Price: $599.00 CAD
 - [Art Geometric Blue Area Rug](https://www.rugbranch.com/products/rbkl-h824-6242): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:11Z
+  Updated: 2025-11-26T10:14:46Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20800,7 +20774,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Folio_H824_6242.jpg?v=1757496735
     Price: $599.00 CAD
 - [Contemporary Distressed Blue Area Rug](https://www.rugbranch.com/products/rbkl-h903-6242): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:12Z
+  Updated: 2025-11-26T10:14:47Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20814,7 +20788,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Fresco_H903_6242.jpg?v=1757496738
     Price: $419.00 CAD
 - [Contemporary Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-h904-1343): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:13Z
+  Updated: 2025-11-26T10:14:48Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20828,7 +20802,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Malibu_H904_1343.jpg?v=1757496740
     Price: $459.00 CAD
 - [Art Organic Tonal Solid Cream Area Rug](https://www.rugbranch.com/products/rbkl-h936-0151): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:14Z
+  Updated: 2025-11-26T10:14:49Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20842,7 +20816,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Leo_H936_0151.jpg?v=1757496742
     Price: $459.00 CAD
 - [Mid-Century Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-h939-0151): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:15Z
+  Updated: 2025-11-26T10:14:50Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20856,7 +20830,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Leo_H939_0151.jpg?v=1757496744
     Price: $459.00 CAD
 - [Contemporary Distressed Geometric Grey Area Rug](https://www.rugbranch.com/products/rbkl-j029-9646): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:16Z
+  Updated: 2025-11-26T10:14:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20870,7 +20844,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Eclipse_J029_9646.jpg?v=1757496746
     Price: $419.00 CAD
 - [Mid-Century Geometric Grey Area Rug](https://www.rugbranch.com/products/rbkl-j032-9626): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:17Z
+  Updated: 2025-11-26T10:14:52Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20884,7 +20858,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Eclipse_J032_9626.jpg?v=1757496747
     Price: $419.00 CAD
 - [Contemporary Distressed Organic Grey Area Rug](https://www.rugbranch.com/products/rbkl-j034-9323): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:18Z
+  Updated: 2025-11-26T10:14:53Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20898,7 +20872,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Eclipse_J034_9323.jpg?v=1757496749
     Price: $419.00 CAD
 - [Art Geometric Tonal/Solid Cream Area Rug](https://www.rugbranch.com/products/rbkl-j035-1262): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:20Z
+  Updated: 2025-11-26T10:14:54Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20912,7 +20886,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Malibu_J035_1262.jpg?v=1757496751
     Price: $459.00 CAD
 - [Art Distressed Geometric Cream Area Rug](https://www.rugbranch.com/products/rbkl-j144-4252): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:21Z
+  Updated: 2025-11-26T10:14:55Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20926,7 +20900,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Samira_J144_4252.jpg?v=1757496753
     Price: $659.00 CAD
 - [Contemporary Geometric Green Area Rug](https://www.rugbranch.com/products/rbkl-j292-1121): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:22Z
+  Updated: 2025-11-26T10:14:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20940,7 +20914,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Malibu_J292_1121.jpg?v=1757496755
     Price: $459.00 CAD
 - [Contemporary Stripes Green Area Rug](https://www.rugbranch.com/products/rbkl-n126-uw81): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:24Z
+  Updated: 2025-11-26T10:14:57Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20954,7 +20928,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Nala_N126_UW81.jpg?v=1757496756
     Price: $599.00 CAD
 - [Tribal Southwestern Cream Area Rug](https://www.rugbranch.com/products/rbkl-n156-ul81): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:25Z
+  Updated: 2025-11-26T10:14:58Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20968,7 +20942,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Nala_N156_UL81.jpg?v=1757496759
     Price: $599.00 CAD
 - [Tribal Southwestern Cream Area Rug](https://www.rugbranch.com/products/rbkl-n157-ui83): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:27Z
+  Updated: 2025-11-26T10:14:59Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20982,7 +20956,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Nala_N157_UI83.jpg?v=1757496761
     Price: $599.00 CAD
 - [Contemporary Stripes Cream Area Rug](https://www.rugbranch.com/products/rbkl-n200-uw86): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:28Z
+  Updated: 2025-11-26T10:15:00Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20996,7 +20970,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Nala_N200_UW86.jpg?v=1757496763
     Price: $599.00 CAD
 - [Tribal Southwestern Cream Area Rug](https://www.rugbranch.com/products/rbkl-n201-uw86): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:30Z
+  Updated: 2025-11-26T10:15:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -21010,7 +20984,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Nala_N201_UW86.jpg?v=1757496765
     Price: $599.00 CAD
 - [Contemporary Stripes Grey Area Rug](https://www.rugbranch.com/products/rbkl-n205-ui86): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:31Z
+  Updated: 2025-11-26T10:15:02Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -21024,7 +20998,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Nala_N205_UI86.jpg?v=1757496767
     Price: $599.00 CAD
 - [Contemporary Tonal/Solid Beige Area Rug](https://www.rugbranch.com/products/rbkl-sh121): Country of Origin: India Construction: Hand Made
-  Updated: 2025-11-19T09:35:32Z
+  Updated: 2025-11-26T10:15:03Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -21038,7 +21012,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Naturals_SH121.jpg?v=1757496768
     Price: $769.00 CAD
 - [Solara Blush Pink Area Rug – Elegant and Stylish Comfort | Rug Branch](https://www.rugbranch.com/products/dr1102rd): Shop the Solara Blush Pink Area Rug – 100% polyester with durable canvas backing for a touch of warmth and style.
-  Updated: 2025-11-14T20:17:55Z
+  Updated: 2025-11-24T23:44:33Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -21056,14 +21030,14 @@
     Availability: Available
     Price: $106.79 CAD
 - [Handmade Kilim Multicolor Area Rug – Artistic & Bold Design | Rug Branch](https://www.rugbranch.com/products/kilim-multicolor-striped-rug): Add life and dimension to your space with the Horizon Kilim Multicolor Striped Rug by Rug Branch. This handcrafted design features a vibrant mix of rustic red, burnt orange, denim blue, soft teal, olive green, and ochre gold—each stripe woven with intricate tribal patterns that echo traditional kilim artistry. Set against a cool blue border, this rug balances energy and calm in one artistic statement. Perfect for modern bohemian interiors, creative lounges, or cozy family rooms, its soft feel and durable craftsmanship make it a standout piece for any home.
-  Updated: 2025-11-14T20:17:55Z
+  Updated: 2025-11-25T00:39:47Z
   Vendor: Rug Branch
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/HMR100_3.jpg?v=1750097069
-  Price: $3,219.99 CAD
+  Price: $3,144.99 CAD
 - [Contemporary Botanical Cream Area Rug](https://www.rugbranch.com/products/rbkl-e698-0494): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:33Z
+  Updated: 2025-11-26T10:15:04Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -21075,7 +21049,7 @@
     Availability: Available
     Price: $459.00 CAD
 - [Modern Distressed Grey Area Rug](https://www.rugbranch.com/products/rbkl-g924-4525): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:34Z
+  Updated: 2025-11-26T10:15:05Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -21090,7 +21064,7 @@
     Availability: Available
     Price: $549.00 CAD
 - [Modern Geometric Tonal Solid Cream Area Rug](https://www.rugbranch.com/products/rbkl-g925-4161): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:35Z
+  Updated: 2025-11-26T10:15:06Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -21105,7 +21079,7 @@
     Availability: Available
     Price: $549.00 CAD
 - [Modern Geometric Tonal Solid Cream Area Rug](https://www.rugbranch.com/products/rbkl-g927-4161): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:36Z
+  Updated: 2025-11-26T10:15:07Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -21120,7 +21094,7 @@
     Availability: Available
     Price: $549.00 CAD
 - [Modern Stripes Tonal Solid Cream Area Rug](https://www.rugbranch.com/products/rbkl-g928-4161): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:37Z
+  Updated: 2025-11-26T10:15:08Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -21135,7 +21109,7 @@
     Availability: Available
     Price: $549.00 CAD
 - [Modern Organic Tonal Solid Cream Area Rug](https://www.rugbranch.com/products/rbkl-h150-4363): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-19T09:35:38Z
+  Updated: 2025-11-26T10:15:08Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -21153,136 +21127,136 @@
 ## Collections
 
 - [All Rugs Collection | High-Quality Area Rugs at Rug Branch](https://www.rugbranch.com/collections/all-rugs): Explore the extensive All Rugs collection at Rug Branch, featuring a wide variety of high-quality, stylish, and affordable area rugs. Perfect for any room, our rugs offer both comfort and elegance to elevate your home decor. Shop now and enjoy free shipping on all orders!
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 626
 - [Vogue Collection](https://www.rugbranch.com/collections/vogue-collection)
-  Updated: 2025-09-08T11:15:29Z
+  Updated: 2025-11-24T23:35:18Z
   Total Products: 16
 - [Silvia Collection](https://www.rugbranch.com/collections/silvia-collection)
-  Updated: 2025-09-04T13:40:19Z
+  Updated: 2025-11-24T23:34:09Z
   Total Products: 5
 - [Havana Collection](https://www.rugbranch.com/collections/havana-collection)
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-24T23:35:09Z
   Total Products: 13
 - [Nova Collection](https://www.rugbranch.com/collections/nova-collection)
-  Updated: 2025-09-04T13:40:19Z
+  Updated: 2025-11-24T23:37:31Z
   Total Products: 16
 - [New Zealand Plush Collection](https://www.rugbranch.com/collections/new-zealand-plush-collection)
-  Updated: 2025-09-04T13:40:19Z
+  Updated: 2025-11-24T23:35:10Z
   Total Products: 6
 - [Majestic Collection Area Rugs | Rug Branch](https://www.rugbranch.com/collections/majestic-collection): Shop Rug Branch’s Majestic Collection of luxury area rugs. Elegant, durable, and timeless designs that elevate your home décor with comfort and style.
-  Updated: 2025-11-01T11:18:02Z
+  Updated: 2025-11-24T23:35:16Z
   Total Products: 20
 - [Capri Collection](https://www.rugbranch.com/collections/capri-collection)
-  Updated: 2025-09-04T13:40:19Z
+  Updated: 2025-11-24T23:32:06Z
   Total Products: 7
 - [Sardini Collection](https://www.rugbranch.com/collections/sardini-collection)
-  Updated: 2025-09-04T13:40:20Z
+  Updated: 2025-11-24T23:31:58Z
   Total Products: 8
 - [Cascade Collection](https://www.rugbranch.com/collections/cascade-collection)
-  Updated: 2025-09-04T13:40:20Z
+  Updated: 2025-11-24T23:35:05Z
   Total Products: 9
 - [Retro Collection](https://www.rugbranch.com/collections/retro-collection)
-  Updated: 2025-10-13T11:15:09Z
+  Updated: 2025-11-25T12:18:48Z
   Total Products: 11
 - [Savannah Collection](https://www.rugbranch.com/collections/savannah-collection)
-  Updated: 2025-11-12T12:19:02Z
+  Updated: 2025-11-24T23:34:59Z
   Total Products: 18
 - [Mirage Collection](https://www.rugbranch.com/collections/mirage-collection)
-  Updated: 2025-11-12T17:25:13Z
+  Updated: 2025-11-24T23:36:34Z
   Total Products: 8
 - [Super Soft Collection](https://www.rugbranch.com/collections/super-soft-collection)
-  Updated: 2025-11-12T17:24:14Z
+  Updated: 2025-11-24T23:37:35Z
   Total Products: 4
 - [Oasis Collection](https://www.rugbranch.com/collections/oasis-collection)
-  Updated: 2025-09-04T13:40:20Z
+  Updated: 2025-11-24T23:33:31Z
   Total Products: 15
 - [Montage Collection](https://www.rugbranch.com/collections/montage-collection)
-  Updated: 2025-10-12T11:14:50Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 21
 - [Vista Collection](https://www.rugbranch.com/collections/vista-collection)
-  Updated: 2025-11-12T17:25:12Z
+  Updated: 2025-11-24T23:33:23Z
   Total Products: 12
 - [Amalfi Collection](https://www.rugbranch.com/collections/amalfi-collection)
-  Updated: 2025-09-04T13:40:20Z
+  Updated: 2025-11-24T23:34:06Z
   Total Products: 5
 - [Non-Slip Rug Pads](https://www.rugbranch.com/collections/rug-pad)
-  Updated: 2025-09-08T11:15:29Z
+  Updated: 2025-11-24T23:31:46Z
   Total Products: 2
 - [Emir Collection](https://www.rugbranch.com/collections/emir-collection): Water Repellent Area Rug, Machine Washable
-  Updated: 2025-09-04T13:40:20Z
+  Updated: 2025-11-24T23:34:01Z
   Total Products: 11
 - [Transitional Rugs](https://www.rugbranch.com/collections/transitional-rugs)
-  Updated: 2025-11-12T12:19:02Z
+  Updated: 2025-11-24T23:38:21Z
   Total Products: 38
 - [Traditional Rugs](https://www.rugbranch.com/collections/traditional-rugs)
-  Updated: 2025-11-12T12:19:02Z
+  Updated: 2025-11-24T23:39:34Z
   Total Products: 94
 - [Contemporary Rugs](https://www.rugbranch.com/collections/contemporary-rugs)
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 263
 - [Shag Rugs Collection | Cozy & Luxurious Rugs at Rug Branch](https://www.rugbranch.com/collections/shag-rugs): Discover the Shag Rugs collection at Rug Branch, offering cozy and luxurious area rugs that add warmth and comfort to any room. Perfect for creating a plush and inviting atmosphere, our high-quality shag rugs come in various colors and styles. Shop now and enjoy free shipping on all orders!
-  Updated: 2025-11-12T17:24:14Z
+  Updated: 2025-11-25T12:18:48Z
   Total Products: 15
 - [Outdoor Rugs](https://www.rugbranch.com/collections/outdoor-rugs): Explore the Outdoor Rugs collection at Rug Branch, featuring durable and stylish area rugs designed to withstand the elements. Perfect for enhancing your patio, deck, or any outdoor space, our high-quality outdoor rugs come in various patterns and colors. Shop now and enjoy free shipping on all orders!
-  Updated: 2025-11-14T10:29:34Z
+  Updated: 2025-11-24T23:38:54Z
   Total Products: 48
 - [Geometric Rugs](https://www.rugbranch.com/collections/geometric-rugs)
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 355
 - [Bohemian Rugs Collection | Stylish & Unique Rugs at Rug Branch](https://www.rugbranch.com/collections/bohemian-rugs): Discover the Bohemian Rugs collection at Rug Branch, where you'll find an array of stylish and unique area rugs. Perfect for adding a touch of boho-chic charm to any room, our rugs combine vibrant patterns and rich textures. Shop now for high-quality bohemian rugs and enjoy free shipping on all orders!
-  Updated: 2025-11-21T12:21:06Z
+  Updated: 2025-11-24T23:37:29Z
   Total Products: 93
 - [Shop Best Selling Rugs at Rug Branch Customer Favorites in Every Style and Size](https://www.rugbranch.com/collections/best-sellers): Browse the top rated and best selling rugs at Rug Branch. Discover customer favorites in modern, traditional, and transitional designs for every room in your home.
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 620
 - [Type: Runner Rugs](https://www.rugbranch.com/collections/runner-rugs)
-  Updated: 2025-09-08T11:15:29Z
+  Updated: 2025-11-24T23:31:46Z
   Total Products: 2
 - [Melo Collection](https://www.rugbranch.com/collections/melo-collection)
-  Updated: 2025-09-04T13:40:21Z
+  Updated: 2025-11-24T23:34:52Z
   Total Products: 8
 - [Elysian Collection](https://www.rugbranch.com/collections/elysian-collection)
-  Updated: 2025-09-04T13:40:21Z
+  Updated: 2025-11-24T23:34:46Z
   Total Products: 3
 - [Sakarya Collection](https://www.rugbranch.com/collections/sakarya-collection)
-  Updated: 2025-09-04T13:40:21Z
+  Updated: 2025-11-24T23:34:12Z
   Total Products: 15
 - [Mats](https://www.rugbranch.com/collections/doormats)
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 137
 - [Rug Runners](https://www.rugbranch.com/collections/rug-runners): Rug Runners
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 257
 - [3'x5' Rugs](https://www.rugbranch.com/collections/3x5-area-rugs)
-  Updated: 2025-11-12T17:25:12Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 96
 - [4'x6' Rugs](https://www.rugbranch.com/collections/4x6-area-rug)
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 546
 - [Shop 5x7 and 5x8 Rugs at Rug Branch Medium Size Area Rugs for Every Room](https://www.rugbranch.com/collections/5x7-rugs): Browse 5x7 and 5x8 rugs at Rug Branch. Perfect for bedrooms, small living areas, and home offices. Explore stylish and durable medium size rugs in every design.
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 574
 - [6'x9' Rugs](https://www.rugbranch.com/collections/6x9-area-rug)
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 535
 - [Shop 8x10 and 8x11 Rugs at Rug Branch Large Area Rugs for Spacious Interiors](https://www.rugbranch.com/collections/8x11-rugs): Explore 8x10 and 8x11 rugs at Rug Branch. Perfect for large rooms with furniture groupings. Discover stylish area rugs made with soft, durable materials.
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 581
 - [9'x12' Rugs & Larger](https://www.rugbranch.com/collections/9x12-area-rug-larger): 9'x12' Rugs & Larger
-  Updated: 2025-11-12T12:19:02Z
+  Updated: 2025-11-24T23:37:34Z
   Total Products: 98
 - [Hand-Tufted Rugs](https://www.rugbranch.com/collections/hand-tufted): Discover the craftsmanship of our Hand-Tufted Rugs collection. Each piece is meticulously crafted with a hand-tufting technique that ensures exceptional quality and durability. Perfect for adding a touch of elegance and texture to any space, these rugs feature intricate designs and rich textures that enhance your home decor. Explore our selection of hand-tufted rugs at Rug Branch and elevate your living space with timeless beauty and comfort.
-  Updated: 2025-11-21T12:21:06Z
+  Updated: 2025-11-24T23:34:53Z
   Total Products: 8
 - [Shop Machine Washable Rugs for Every Room Stylish Durable and Easy to Clean Rugs at Rug Branch](https://www.rugbranch.com/collections/machine-washable-rugs): Explore Rug Branch machine washable rugs that are soft, durable, and perfect for homes with kids or pets. Easy to clean and available in many sizes and styles.
-  Updated: 2025-09-04T13:40:22Z
+  Updated: 2025-11-24T23:34:01Z
   Total Products: 11
 - [Farmhouse Rugs](https://www.rugbranch.com/collections/farmhouse-rugs)
-  Updated: 2025-11-21T12:21:06Z
+  Updated: 2025-11-24T23:37:34Z
   Total Products: 106
 - [Persian Rugs](https://www.rugbranch.com/collections/persian-rugs)
-  Updated: 2025-09-04T13:40:22Z
+  Updated: 2025-11-24T23:32:13Z
   Total Products: 1
 - [Moroccan Rugs](https://www.rugbranch.com/collections/moroccan-rugs)
   Updated: 2025-09-04T13:40:22Z
@@ -21291,49 +21265,49 @@
   Updated: 2025-09-04T13:40:22Z
   Total Products: 0
 - [Kids Rugs Collection | Fun & Durable Rugs at Rug Branch](https://www.rugbranch.com/collections/kids-rugs): Explore the Kids Rugs collection at Rug Branch, featuring fun and durable area rugs designed specifically for children. Perfect for adding a playful touch to any kid's room, our high-quality rugs come in various vibrant designs and colors. Shop now and enjoy free shipping on all orders!
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-24T23:39:55Z
   Total Products: 69
 - [Abstract Rugs](https://www.rugbranch.com/collections/abstract-rugs): Abstract Rugs
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-25T12:18:48Z
   Total Products: 263
 - [Solid Rugs Collection | Classic & Versatile Rugs at Rug Branch](https://www.rugbranch.com/collections/plain-rugs): Explore the Solid Rugs collection at Rug Branch, featuring classic and versatile area rugs that complement any decor style. Ideal for adding a clean and cohesive look to your space, our high-quality solid rugs come in a variety of colors and sizes. Shop now and enjoy free shipping on all orders!
-  Updated: 2025-11-21T12:21:06Z
+  Updated: 2025-11-24T23:39:59Z
   Total Products: 32
 - [Coastal Rugs Collection | Elegant Beach-Inspired Rugs at Rug Branch](https://www.rugbranch.com/collections/coastal-rugs): Explore the Coastal Rugs collection at Rug Branch, featuring elegant beach-inspired area rugs that bring a touch of seaside charm to your home. Perfect for creating a relaxed and breezy atmosphere, our high-quality coastal rugs come in various styles and colors. Shop now and enjoy free shipping on all orders!
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-24T23:36:10Z
   Total Products: 36
 - [Shop Modern Rugs at Rug Branch Contemporary Area Rugs for Stylish Interiors](https://www.rugbranch.com/collections/modern-rugs): Discover modern rugs at Rug Branch featuring bold patterns, soft textures, and contemporary designs. Perfect for living rooms, bedrooms, and modern spaces.
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 652
 - [Floral Rugs Collection | Beautiful & Elegant Rugs at Rug Branch](https://www.rugbranch.com/collections/floral-rugs): Discover the Floral Rugs collection at Rug Branch, offering a stunning selection of beautiful and elegant area rugs. Perfect for adding a touch of nature-inspired charm to any space, our high-quality floral rugs feature intricate designs and vibrant colors. Shop now and enjoy free shipping on all orders!
-  Updated: 2025-09-13T11:16:13Z
+  Updated: 2025-11-24T23:37:30Z
   Total Products: 37
 - [Vintage Rugs Collection | Timeless & Elegant Rugs at Rug Branch](https://www.rugbranch.com/collections/vintage-rugs): Explore the Vintage Rugs collection at Rug Branch, featuring timeless and elegant area rugs that add a touch of classic charm to any space. Perfect for creating a sophisticated and nostalgic atmosphere, our high-quality vintage rugs come in various patterns and colors. Shop now and enjoy free shipping on all orders!
-  Updated: 2025-11-14T10:45:44Z
+  Updated: 2025-11-24T23:39:53Z
   Total Products: 94
 - [Cheerful Yellow & Orange Rugs to Brighten Any Room | Rug Branch](https://www.rugbranch.com/collections/yellow-orange-rugs): Shop vibrant yellow and orange rugs at Rug Branch—ideal for uplifting modern, boho, or eclectic interiors. Add energy, warmth, and a bold pop of color to your space. Free shipping on all orders!
-  Updated: 2025-11-14T10:44:52Z
+  Updated: 2025-11-24T23:39:55Z
   Total Products: 81
 - [Bold Red & Burgundy Rugs for a Luxurious Statement | Rug Branch](https://www.rugbranch.com/collections/red-burgundy-rugs): Shop stunning red and burgundy rugs at Rug Branch—perfect for adding warmth, drama, and elegance to any room. Ideal for traditional, vintage, and eclectic interiors. Available in multiple sizes. Free shipping!
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 625
 - [Multi-Colored Rugs](https://www.rugbranch.com/collections/multi-colored-rugs): Explore eye-catching multi-colored rugs at Rug Branch—perfect for eclectic, boho, and modern interiors. Add personality, warmth, and bold style to any room. Shop unique patterns and enjoy free shipping!
-  Updated: 2025-09-08T11:15:29Z
+  Updated: 2025-11-24T23:35:27Z
   Total Products: 28
 - [Stylish Pink & Purple Rugs for Playful and Elegant Interiors | Rug Branch](https://www.rugbranch.com/collections/pink-purple-rugs): Explore vibrant pink and purple rugs at Rug Branch—perfect for adding a pop of color and personality to any room. Ideal for kids’ rooms, boho chic spaces, and modern interiors. Shop now with free shipping!
-  Updated: 2025-11-12T12:19:02Z
+  Updated: 2025-11-24T23:39:55Z
   Total Products: 47
 - [Shop Beige and Taupe Rugs at Rug Branch Elegant Neutral Rugs for Every Room](https://www.rugbranch.com/collections/beige-and-taupe): Explore beige and taupe rugs at Rug Branch. These soft neutral rugs are perfect for modern and classic spaces with styles that suit every room in your home.
-  Updated: 2025-11-22T12:20:35Z
-  Total Products: 345
+  Updated: 2025-11-25T12:18:48Z
+  Total Products: 346
 - [Blue / Navy Rugs](https://www.rugbranch.com/collections/blue-navy-rugs): Elevate your space with our stunning Blue Rugs collection. Featuring a range of shades from serene navy to vibrant turquoise, these rugs add a splash of color and sophistication to any room. Perfect for creating a calming atmosphere or making a bold statement, our blue rugs are crafted with premium materials for lasting beauty and comfort. Explore the versatility of blue with our exquisite selection at Rug Branch and transform your home with a touch of elegance.
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-25T12:18:48Z
   Total Products: 129
 - [Grey Rugs](https://www.rugbranch.com/collections/grey-rugs): Shop premium grey rugs at Rug Branch—perfect for contemporary, minimalist, or industrial interiors. Add texture, depth, and elegance with soft, neutral tones. Available in various sizes and patterns. Free shipping!
-  Updated: 2025-11-22T12:20:35Z
-  Total Products: 279
+  Updated: 2025-11-26T12:20:55Z
+  Total Products: 280
 - [Shop Green Rugs at Rug Branch Fresh Elegant Rugs for Every Space](https://www.rugbranch.com/collections/green-rugs): Discover green rugs at Rug Branch in shades from sage to emerald. Stylish and versatile rugs that bring natural warmth and elegance to every room in your home.
-  Updated: 2025-11-21T12:21:06Z
+  Updated: 2025-11-24T23:39:50Z
   Total Products: 29
 - [Rug Runners on Clearance](https://www.rugbranch.com/collections/rug-runners-on-clearance): Rug Runners on Clearance
   Updated: 2025-09-04T13:40:23Z
@@ -21342,109 +21316,109 @@
   Updated: 2025-09-04T13:40:23Z
   Total Products: 0
 - [Large Table Rugs (8 seats)](https://www.rugbranch.com/collections/large-table-8-seats): For a dining table accommodating eight or more, opt for a 9'x12' rug or larger, providing ample space for all chairs to comfortably sit on the rug when seated.
-  Updated: 2025-11-12T12:19:02Z
+  Updated: 2025-11-24T23:37:34Z
   Total Products: 98
 - [Medium Table Rugs (6 seats)](https://www.rugbranch.com/collections/medium-table-6-seats): For a dining table set for six, the ideal rug sizes are 8'x10' or 6'x9', providing sufficient space around the table for easy movement of dining chairs while ensuring they remain on the rug.
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 581
 - [Small Table Rugs (4 seats)](https://www.rugbranch.com/collections/small-table-4-seats): For a table set for four, you can float the table and chairs in the center of a 6'x9' rug for a cozy arrangement.
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 535
 - [King Bed Rugs](https://www.rugbranch.com/collections/king-bed)
-  Updated: 2025-11-12T12:19:02Z
+  Updated: 2025-11-24T23:37:34Z
   Total Products: 98
 - [Queen Bed Rugs](https://www.rugbranch.com/collections/queen-bed)
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 581
 - [Full Bed Rugs](https://www.rugbranch.com/collections/full-bed-rugs)
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 535
 - [Twin Bed Rugs](https://www.rugbranch.com/collections/twin-bed-rugs): Twin Bed Rugs
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 574
 - [Explore New Arrival Rugs at Rug Branch Discover the Latest Styles and Home Trends](https://www.rugbranch.com/collections/new-arrivals): Browse the newest rugs at Rug Branch featuring modern designs and timeless classics. Find fresh styles and premium quality rugs for every room in your home.
-  Updated: 2025-11-14T10:29:52Z
+  Updated: 2025-11-24T23:39:59Z
   Total Products: 223
 - [All Rug Styles Collection | Diverse & Trendy Rugs at Rug Branch](https://www.rugbranch.com/collections/shop-by-style): Discover the All Rug Styles collection at Rug Branch, offering a diverse range of trendy area rugs to suit any taste and decor. From traditional to modern, bohemian to coastal, our high-quality rugs bring style and comfort to every room. Shop now and enjoy free shipping on all orders!
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 414
 - [Alfombra Collection](https://www.rugbranch.com/collections/alfombra)
-  Updated: 2025-09-04T13:40:24Z
+  Updated: 2025-11-24T23:37:30Z
   Total Products: 7
 - [Aruba Collection](https://www.rugbranch.com/collections/aruba)
-  Updated: 2025-09-04T13:40:24Z
+  Updated: 2025-11-24T23:33:51Z
   Total Products: 5
 - [Astra Collection](https://www.rugbranch.com/collections/astra)
-  Updated: 2025-11-04T12:18:26Z
+  Updated: 2025-11-24T23:37:15Z
   Total Products: 11
 - [Atlas Collection](https://www.rugbranch.com/collections/atlas)
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-24T23:36:41Z
   Total Products: 18
 - [Blossom Collection](https://www.rugbranch.com/collections/blossom)
-  Updated: 2025-09-09T11:15:28Z
+  Updated: 2025-11-24T23:33:47Z
   Total Products: 4
 - [Cadence Collection](https://www.rugbranch.com/collections/cadence)
-  Updated: 2025-11-07T20:21:11Z
+  Updated: 2025-11-24T23:36:56Z
   Total Products: 17
 - [Casa Collection](https://www.rugbranch.com/collections/casa)
-  Updated: 2025-09-16T11:16:30Z
+  Updated: 2025-11-24T23:36:08Z
   Total Products: 11
 - [Domus Collection](https://www.rugbranch.com/collections/domus-collection)
-  Updated: 2025-11-14T12:21:50Z
+  Updated: 2025-11-24T23:37:04Z
   Total Products: 9
 - [Eclipse Collection](https://www.rugbranch.com/collections/eclipse-collection)
-  Updated: 2025-09-15T11:16:00Z
+  Updated: 2025-11-24T23:35:35Z
   Total Products: 16
 - [Rug Branch Jute Rugs](https://www.rugbranch.com/collections/jute-rugs): Explore Rug Branch's natural jute rug collection. Featuring braided, woven, and patterned designs, our eco-friendly rugs add texture and warmth to any room. Shop now for free shipping across North America!
-  Updated: 2025-09-04T13:40:25Z
+  Updated: 2025-11-24T23:37:23Z
   Total Products: 9
 - [Jules Collection](https://www.rugbranch.com/collections/jules-collection)
-  Updated: 2025-09-04T13:40:25Z
+  Updated: 2025-11-24T23:35:53Z
   Total Products: 6
 - [Kids Soft Steps Playtime Collection](https://www.rugbranch.com/collections/kids-soft-steps-playtime-collection)
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-24T23:39:55Z
   Total Products: 68
 - [Maise Collection](https://www.rugbranch.com/collections/maise-collection)
-  Updated: 2025-09-04T13:40:25Z
+  Updated: 2025-11-24T23:35:51Z
   Total Products: 12
 - [Maison Collection](https://www.rugbranch.com/collections/maison-collection)
-  Updated: 2025-09-05T11:14:52Z
+  Updated: 2025-11-24T23:35:59Z
   Total Products: 7
 - [Nimbus Collection](https://www.rugbranch.com/collections/nimbus-collection)
-  Updated: 2025-09-04T13:40:25Z
+  Updated: 2025-11-24T23:37:25Z
   Total Products: 4
 - [Nomad Collection](https://www.rugbranch.com/collections/nomad-collection)
-  Updated: 2025-09-26T11:15:36Z
+  Updated: 2025-11-24T23:36:25Z
   Total Products: 21
 - [Premium Rug Pad](https://www.rugbranch.com/collections/premium-rug-pad)
-  Updated: 2025-09-04T13:40:25Z
+  Updated: 2025-11-24T23:31:45Z
   Total Products: 1
 - [Supreme Rug Pad](https://www.rugbranch.com/collections/supreme-rug-pad)
-  Updated: 2025-09-08T11:15:29Z
+  Updated: 2025-11-24T23:31:46Z
   Total Products: 1
 - [Clearance Sale at Rug Branch Shop Discounted Rugs Furniture and Home Decor](https://www.rugbranch.com/collections/special-prices): Save big during the Rug Branch Clearance Sale. Find discounted rugs, furniture, and decor pieces with premium quality and unbeatable prices. Limited stock available.
-  Updated: 2025-11-22T12:20:35Z
-  Total Products: 97
+  Updated: 2025-11-25T05:08:40Z
+  Total Products: 98
 - [Best Selling Products](https://www.rugbranch.com/collections/best-selling-products)
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 1502
 - [Newest Products](https://www.rugbranch.com/collections/newest-products)
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 1502
 - [Natural Rugs](https://www.rugbranch.com/collections/earthy-tones): Embrace the warmth and natural beauty of our Earthy Tones collection. These rugs, inspired by nature's palette, bring a cozy, grounded feel to any space. Ideal for adding a touch of rustic charm or complementing a modern decor, our Earthy Tones rugs are perfect for creating a serene and inviting atmosphere in your home. Shop now at Rug Branch for quality and style in every weave.
-  Updated: 2025-11-15T12:23:25Z
+  Updated: 2025-11-24T23:37:25Z
   Total Products: 154
 - [Minimalist Rugs](https://www.rugbranch.com/collections/minimalist-rugs): Embrace the beauty of simplicity with our Minimalist Rugs collection. Each rug is thoughtfully designed to enhance your space with a clean and modern aesthetic. Featuring understated patterns and a serene color palette, these rugs are perfect for creating a calm and cohesive look. Crafted from high-quality materials, our minimalist rugs offer both elegance and durability. Elevate your home decor with the timeless appeal of minimalist design and experience the perfect balance of style and tranquility with Rug Branch.
-  Updated: 2025-11-14T12:21:50Z
+  Updated: 2025-11-24T23:37:29Z
   Total Products: 39
 - [Mid-Century Modern Rugs](https://www.rugbranch.com/collections/mid-century-modern-rugs): Infuse your home with retro charm and timeless sophistication with our Mid-Century Modern Rugs collection. Inspired by the iconic designs of the mid-20th century, these rugs feature bold geometric patterns, rich textures, and a vibrant color palette that captures the essence of classic modernism. Perfect for adding a touch of vintage flair to contemporary spaces, our rugs are crafted with premium materials for enduring quality and style. Explore our Mid-Century Modern Rugs at Rug Branch and bring a touch of nostalgic elegance to your decor.
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-24T23:39:47Z
   Total Products: 41
 - [Animal Print Rugs](https://www.rugbranch.com/collections/animal-print-rugs): Explore Rug Branch's stunning collection of animal print rugs. Featuring zebra, leopard, and tiger designs, our high-quality rugs add a touch of exotic flair to any room. Shop now for free shipping across North America!
-  Updated: 2025-09-05T11:14:52Z
+  Updated: 2025-11-24T23:36:57Z
   Total Products: 7
 - [Rustic Rugs](https://www.rugbranch.com/collections/rustic-rugs): Explore Rug Branch's exquisite collection of rustic rugs. Featuring braided, jute, and kilim designs, our high-quality rugs add warmth and charm to any room. Shop now for free shipping across North America!
-  Updated: 2025-09-08T11:15:29Z
+  Updated: 2025-11-24T23:34:59Z
   Total Products: 9
 - [Furniture](https://www.rugbranch.com/collections/furniture): Indoor Furniture
   Updated: 2025-11-14T10:53:44Z
@@ -21453,10 +21427,10 @@
   Updated: 2025-11-14T10:49:30Z
   Total Products: 89
 - [Round Rugs](https://www.rugbranch.com/collections/round-rugs): Round Rugs
-  Updated: 2025-09-04T13:40:26Z
+  Updated: 2025-11-24T23:34:30Z
   Total Products: 9
 - [One of a Kind](https://www.rugbranch.com/collections/one-of-a-kind): One of a Kind handmade rugs
-  Updated: 2025-09-04T13:40:26Z
+  Updated: 2025-11-24T23:39:55Z
   Total Products: 1
 - [Lighting](https://www.rugbranch.com/collections/lighting): Lighting
   Updated: 2025-11-14T10:38:58Z
@@ -21543,7 +21517,7 @@
   Updated: 2025-11-14T10:44:52Z
   Total Products: 8
 - [Regular (not on discount)](https://www.rugbranch.com/collections/regular-not-on-discount)
-  Updated: 2025-11-21T12:21:06Z
+  Updated: 2025-11-24T23:37:34Z
   Total Products: 1015
 - [Shop Area Rugs by Size | Find the Perfect Fit | Rug Branch](https://www.rugbranch.com/collections/shop-area-rugs-by-size): Browse Rug Branch’s collection of area rugs by size to find the perfect fit for every room. From small accent rugs to oversized statement pieces—shop premium quality rugs in every dimension.
   Updated: 2025-09-04T13:40:28Z
@@ -21555,22 +21529,22 @@
   Updated: 2025-09-04T13:40:28Z
   Total Products: 0
 - [Ivory / Cream Rugs](https://www.rugbranch.com/collections/ivory-cream-rugs): Shop luxurious ivory and cream rugs at Rug Branch. Discover soft, neutral tones that elevate any room with warmth and elegance. Perfect for modern, classic, or boho styles. Free shipping available!
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 298
 - [Elegant Black Rugs for Bold, Sophisticated Interiors | Rug Branch](https://www.rugbranch.com/collections/black-rugs): Discover sleek and stylish black rugs at Rug Branch—ideal for modern, contemporary, and minimalist spaces. Add depth, contrast, and luxury to your décor. Available in various textures and sizes. Free shipping!
-  Updated: 2025-11-14T12:21:50Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 141
 - [Warm Rust & Terracotta Rugs for Cozy, Earthy Interiors | Rug Branch](https://www.rugbranch.com/collections/rust-terracotta-rugs): Explore rich rust and terracotta rugs at Rug Branch—ideal for boho, southwestern, and rustic décor styles. Add warmth, texture, and character to your space with timeless earth tones. Free shipping available!
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 623
 - [Sophisticated Charcoal Rugs for Modern & Minimalist Spaces | Rug Branch](https://www.rugbranch.com/collections/charcoal-rugs): Discover sleek charcoal rugs at Rug Branch—perfect for creating depth and contrast in contemporary, industrial, or minimalist interiors. Shop durable, stylish options in various patterns and sizes. Free shipping available!
-  Updated: 2025-11-15T12:23:25Z
-  Total Products: 103
+  Updated: 2025-11-26T12:20:55Z
+  Total Products: 105
 - [Hogar](https://www.rugbranch.com/collections/hogar)
-  Updated: 2025-09-04T13:40:28Z
+  Updated: 2025-11-24T23:37:23Z
   Total Products: 9
 - [All Products](https://www.rugbranch.com/collections/all-products)
-  Updated: 2025-11-22T12:20:35Z
+  Updated: 2025-11-26T12:20:55Z
   Total Products: 1502
 
 ## Blogs
