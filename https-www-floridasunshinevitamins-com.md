@@ -6,40 +6,40 @@
 - Timezone: Europe/London
 - Created At: 2024-09-13T14:03:24Z
 - Contact Email: info@floridasunshine.co.uk
-- Updated At: 2025-11-26T00:00:47.924Z
+- Updated At: 2025-11-27T00:01:48.354Z
 
 ## Products
 
 - [Premium CoQ10 60 Capsules (200mg)](https://www.floridasunshinevitamins.com/products/premium-coq10): CoQ10 (Ubiquinone) levels naturally decline with age and may also be depleted by certain medications (such as statins), diseases, and strenuous physical activity. Supplementing with CoQ10 can be beneficial, particularly for individuals with conditions related to cardiovascular health, aging, and energy metabolism.
-  Updated: 2025-11-25T12:21:48Z
+  Updated: 2025-11-26T14:09:34Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/coq10_e2991e8d-5d4e-455c-8539-b62c583e1a6a.webp?v=1761300041
   Price: £13.59 GBP
 - [Liposomal Quercetin - 120 Capsules](https://www.floridasunshinevitamins.com/products/liposomal-quercetin): Quercetin, a natural antioxidant found in many fruits and vegetables, helps support the body's immune system, reduce inflammation, and protect cells from oxidative stress. It is a polyphenolic flavonoid compound, different to regular quercetin which has poor water solubility, resulting in limited bioavailability.
-  Updated: 2025-11-25T12:21:14Z
+  Updated: 2025-11-26T14:10:16Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/Qwercetin.webp?v=1761300102
   Price: £14.44 GBP
 - [Liposomal Vitamin C 120 Capsules](https://www.floridasunshinevitamins.com/products/liposomal-vitamin-c): Vitamin C has multiple therapeutic, anti-inflammatory, immune-boosting, anti-aging and beauty benefits that help the entire body, from the surface of the skin to deep within the cellular structure.
-  Updated: 2025-11-25T12:10:42Z
+  Updated: 2025-11-26T14:10:40Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/vit_C_big.webp?v=1761300207
   Price: £14.44 GBP
 - [Liposomal Vitamin D3 - 90 Capsules](https://www.floridasunshinevitamins.com/products/liposomal-vitamin-d3): Vitamin D3 is essential for maintaining bone and muscle health, supporting the immune system, regulating mood, and reducing the risk of various chronic diseases. Regular exposure to sunlight, a balanced diet, and supplementation (if necessary) are key to maintaining adequate Vitamin D3 levels.
-  Updated: 2025-11-25T12:18:54Z
+  Updated: 2025-11-26T14:11:14Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/d3_small_ceb49d6a-3af2-48ed-836c-26ea4f64be5d.webp?v=1761300245
   Price: £14.44 GBP
 - [Lutein Complex - 60 Capsules (200mg)](https://www.floridasunshinevitamins.com/products/lutein-complex): Lutein is primarily found in green leafy vegetables like spinach and kale, as well as in other foods like eggs, corn, and oranges. While lutein supplements are available, it is often recommended to obtain this nutrient through a balanced diet rich in fruits and vegetables.
-  Updated: 2025-11-25T12:20:47Z
+  Updated: 2025-11-26T14:10:55Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
@@ -87,36 +87,36 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/Family_Pack_8f16782c-6dc7-486d-9027-38bede302da5.webp?v=1761300749
   Price: £65.99 GBP
-- [Buy 2 Liposomal Vitamin C Get 2 FREE](https://www.floridasunshinevitamins.com/products/buy-2-vit-c-get-2-free)
-  Updated: 2025-11-25T16:28:42Z
+- [Buy 2 Liposomal Vitamin C Get 2 Free](https://www.floridasunshinevitamins.com/products/buy-2-vit-c-get-2-free): Vitamin C is an essential nutrient with a variety of roles in supporting overall health. It is known for its role in supporting the immune system, contributing to collagen formation, and acting as an antioxidant. Liposomal Vitamin C utilizes liposomal encapsulation to improve its absorption and stability, allowing for more efficient delivery to the body. Key Benefits: Maximized Absorption: Liposomal Vitamin C is absorbed more efficiently by the body. The liposome encapsulation allows the vitamin to bypass some digestive processes, leading to higher concentrations in the bloodstream. Reduced Gastrointestinal Discomfort: Traditional vitamin C, especially in high doses, can cause gastrointestinal issues like cramps or diarrhoea. Liposomal Vitamin C is gentler on the stomach because it is less acidic and does not require the same digestive processes. Sustained Release: The encapsulation of Vitamin C allows for a sustained release into the bloodstream, helping maintain higher plasma levels over time compared to standard forms. Immune Function: Vitamin C is important for the normal function of the immune system. Liposomal Vitamin C supports this function due to its increased bioavailability. Skin and Joint Health: Vitamin C is essential for the synthesis of collagen, which is important for skin elasticity, joint health, and overall tissue repair. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
+  Updated: 2025-11-26T20:10:19Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/1_2f132b36-a402-4ee7-ad17-88a1958bb56a.png?v=1764072279
   Price: £33.98 GBP
-- [Vitamin C + Vitamin D get Vitamin C and Vitamin D Free](https://www.floridasunshinevitamins.com/products/vitamin-c-vitamin-d-get-vitamin-c-and-vitamin-d-free)
-  Updated: 2025-11-25T12:03:41Z
+- [Buy 2 Vitamin C + Get 2 Vitamin D Free](https://www.floridasunshinevitamins.com/products/vitamin-c-vitamin-d-get-vitamin-c-and-vitamin-d-free): This bundle combines the power of Liposomal Vitamin C and Liposomal Vitamin D3, two essential nutrients made to support your overall health. Using advanced liposomal encapsulation technology, both vitamins are absorbed more efficiently by the body, ensuring optimal delivery and bioavailability for maximum benefits. Key Benefits of Liposomal Vitamin C: Enhanced Absorption: Liposomal Vitamin C is absorbed more efficiently by bypassing digestive barriers, leading to higher concentrations in the bloodstream and better cellular uptake. Immune Function Support: Vitamin C plays a role in supporting the normal functioning of the immune system. Collagen Production: Vitamin C is essential for the synthesis of collagen, which is important for skin, joint, and tissue health. Gentler on the Stomach: Liposomal Vitamin C is less acidic than traditional vitamin C, reducing the risk of gastrointestinal discomfort. Key Benefits of Liposomal Vitamin D3: Enhanced Bioavailability: Liposomal Vitamin D3 allows for more efficient absorption, bypassing digestive barriers and delivering the vitamin directly into the bloodstream. Bone Health Support: Vitamin D3 aids in the absorption of calcium, contributing to the maintenance of strong, healthy bones. Immune Function: Vitamin D3 is crucial for the normal function of the immune system. Muscle Function Support: Vitamin D3 helps maintain normal muscle function and strength, important for physical performance. Fat-Soluble Delivery: The liposomal delivery system improves Vitamin D3’s absorption and utilization in the body. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
+  Updated: 2025-11-26T20:14:12Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/2_a6803058-94f2-4a3c-b74e-71ffb0be4913.png?v=1764072218
   Price: £33.98 GBP
-- [Lutein + Free Vitamin D3](https://www.floridasunshinevitamins.com/products/lutein-free-vitamin-d3)
-  Updated: 2025-11-25T12:03:17Z
+- [Buy Lutein + Free Vitamin D3](https://www.floridasunshinevitamins.com/products/lutein-free-vitamin-d3): Key Benefits: Improved Bioavailability: Liposomal encapsulation helps Vitamin D3 bypass digestive barriers, leading to more efficient absorption into the bloodstream. Fat-Soluble Vitamin: Vitamin D3 is fat-soluble, and the liposomal delivery system uses phospholipids that mimic the body’s natural cell structure, allowing for better absorption and utilisation. Bone Health: Vitamin D3 plays a role in the absorption of calcium from the gut, which is important for maintaining healthy bones. Immune Function: Vitamin D3 is important for the normal function of the immune system. Muscle Function: Vitamin D3 supports normal muscle function. Adequate levels of Vitamin D3 are important for maintaining physical performance. Key Benefits: Maximized Absorption: BioPerine helps improve the absorption and bioavailability of lutein, ensuring efficient utilisation in the body. Antioxidant Support: Lutein and BioPerine both have antioxidant properties, helping to neutralise free radicals and reduce oxidative stress. Eye Health: Lutein plays a role in supporting normal eye function and protecting the eyes from oxidative stress. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
+  Updated: 2025-11-26T20:40:18Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/3_648fedd6-19ca-4958-b82e-22912b11aef0.png?v=1764072193
   Price: £16.99 GBP
-- [Vitamin C get Free Vitamin D3](https://www.floridasunshinevitamins.com/products/vitamin-c-get-free-vitamin-d3)
-  Updated: 2025-11-25T11:56:38Z
+- [Buy Vitamin C get Free Vitamin D3](https://www.floridasunshinevitamins.com/products/vitamin-c-get-free-vitamin-d3): This bundle combines the power of Liposomal Vitamin C and Liposomal Vitamin D3, two essential nutrients made to support your overall health. Using advanced liposomal encapsulation technology, both vitamins are absorbed more efficiently by the body, ensuring optimal delivery and bioavailability for maximum benefits. Key Benefits of Liposomal Vitamin C: Enhanced Absorption: Liposomal Vitamin C is absorbed more efficiently by bypassing digestive barriers, leading to higher concentrations in the bloodstream and better cellular uptake. Immune Function Support: Vitamin C plays a role in supporting the normal functioning of the immune system. Collagen Production: Vitamin C is essential for the synthesis of collagen, which is important for skin, joint, and tissue health. Gentler on the Stomach: Liposomal Vitamin C is less acidic than traditional vitamin C, reducing the risk of gastrointestinal discomfort. Key Benefits of Liposomal Vitamin D3: Enhanced Bioavailability: Liposomal Vitamin D3 allows for more efficient absorption, bypassing digestive barriers and delivering the vitamin directly into the bloodstream. Bone Health Support: Vitamin D3 aids in the absorption of calcium, contributing to the maintenance of strong, healthy bones. Immune Function: Vitamin D3 is crucial for the normal function of the immune system. Muscle Function Support: Vitamin D3 helps maintain normal muscle function and strength, important for physical performance. Fat-Soluble Delivery: The liposomal delivery system improves Vitamin D3’s absorption and utilization in the body. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
+  Updated: 2025-11-26T21:11:05Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/4_e50f0d76-ff5c-42c3-b412-e8e2ad719d58.png?v=1764071750
   Price: £16.99 GBP
-- [CoQ10 get Free Vitamin D3](https://www.floridasunshinevitamins.com/products/coq10-get-free-vitamin-d3)
-  Updated: 2025-11-25T12:00:53Z
+- [Buy CoQ10 get Free Vitamin D3](https://www.floridasunshinevitamins.com/products/coq10-get-free-vitamin-d3): Key Benefits: Improved Bioavailability: Liposomal encapsulation helps Vitamin D3 bypass digestive barriers, leading to more efficient absorption into the bloodstream. Fat-Soluble Vitamin: Vitamin D3 is fat-soluble, and the liposomal delivery system uses phospholipids that mimic the body’s natural cell structure, allowing for better absorption and utilisation. Bone Health: Vitamin D3 plays a role in the absorption of calcium from the gut, which is important for maintaining healthy bones. Immune Function: Vitamin D3 is important for the normal function of the immune system. Muscle Function: Vitamin D3 supports normal muscle function. Adequate levels of Vitamin D3 are important for maintaining physical performance. Key Benefits: Energy Production: CoQ10 contributes to the production of ATP, the body’s primary energy carrier, which is essential for the normal function of energy-demanding organs like the heart, brain, and muscles. Support for Heart Health: CoQ10 is important for the normal function of the heart. Blood Vessel Health: CoQ10 contributes to the maintenance of normal blood vessel function. Supporting Statin Users: Statins can reduce CoQ10 levels in the body, and supplementation may help replenish CoQ10 levels in individuals taking statins. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
+  Updated: 2025-11-26T20:59:39Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
@@ -126,19 +126,19 @@
 ## Collections
 
 - [Home page](https://www.floridasunshinevitamins.com/collections/frontpage): Explore liposomal vitamins & supplements—C, D3, Quercetin, Lutein, CoQ10—vegan-friendly, gluten-free, made in Florida for enhanced absorption.
-  Updated: 2025-11-25T12:21:49Z
+  Updated: 2025-11-26T14:11:15Z
   Total Products: 5
 - [Liposomal Vitamins Collection](https://www.floridasunshinevitamins.com/collections/liposomal-vitamins): Radiant health starts here. With a daily dose of our powerful vitamins and supplements you can elevate your wellness journey with nature's finest ingredients to achieve your health goal.
-  Updated: 2025-11-25T12:21:49Z
+  Updated: 2025-11-26T14:11:15Z
   Total Products: 5
 - [Bundles](https://www.floridasunshinevitamins.com/collections/vitamin-bundles)
   Updated: 2025-11-07T14:58:45Z
   Total Products: 6
 - [Bestsellers](https://www.floridasunshinevitamins.com/collections/bestsellers)
-  Updated: 2025-11-25T12:21:15Z
+  Updated: 2025-11-26T14:11:15Z
   Total Products: 6
 - [Exclusive Winter Bundles – Buy One, Get One Free!](https://www.floridasunshinevitamins.com/collections/winter-bundles): Discover our limited-time BOGO bundles designed to keep you healthy and energized this season. Stock up now—once these bundles are gone, they’re gone!
-  Updated: 2025-11-25T16:28:58Z
+  Updated: 2025-11-26T14:28:53Z
   Total Products: 5
 
 ## Store Pages
