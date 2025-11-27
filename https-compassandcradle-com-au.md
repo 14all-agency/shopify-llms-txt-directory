@@ -8,12 +8,12 @@
 - Timezone: Australia/Perth
 - Created At: 2025-01-21T07:14:09Z
 - Contact Email: admin@compassandcradle.com.au
-- Updated At: 2025-11-26T00:00:41.316Z
+- Updated At: 2025-11-27T00:01:19.583Z
 
 ## Products
 
 - [Requires Snacks Tee| Matching Family T-shirts Sandy Beige](https://compassandcradle.com.au/products/requires-snacks-tee): Requires Snacks tee — soft cotton, oversized fit, fun slogan. Pair with matching “Snack Provider” tee for mum & child. Shop now!
-  Updated: 2025-11-25T08:02:50Z
+  Updated: 2025-11-26T04:40:57Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -43,7 +43,7 @@
     Availability: Available
     Price: $35.00 AUD
 - [Snack Provider| Matching Family T-shirts Beige](https://compassandcradle.com.au/products/snack-tee-adults): Snack Tee- Embrace your snack hero status with our Snack Provider Adult Tee. Soft, relaxed-fit, and perfect for matching with the kids. Shop now!
-  Updated: 2025-11-25T08:02:51Z
+  Updated: 2025-11-26T04:40:57Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -82,7 +82,7 @@
     Availability: Available
     Price: $9.00 AUD
 - [Kids Terry Toweling Shirt & Pants - Cray Cray on Vacay](https://compassandcradle.com.au/products/cray-cray-on-vacay-terry-toweling-shirt-and-pants): The kids Terry Toweling pants and top set will keep your little ones cool on warm summer days and cozy after a swim or evening beach strolls.
-  Updated: 2025-11-25T11:58:21Z
+  Updated: 2025-11-26T00:05:31Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -140,7 +140,7 @@
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/DSC_0709.jpg?v=1761824106
   Price: $9.00 AUD
 - [Black Friday Bundle | Matching Snack Tee](https://compassandcradle.com.au/products/family-tshirt-bundle): Black Friday Matching Snack Tee Bundle For Parents + Their Snack-Obsessed Minis Make snack time (and family time!) even more fun with our limited-edition Black Friday Snack Tee Bundle — the perfect matching set for parents and their little snack monsters. What’s Inside Snack Provider Tee (Adults)For the legends who supply the snacks, wipe the crumbs, and keep the pantry stocked. Super soft, comfy, and built for everyday wear. Requires Snacks Tee (Kids)For the mini who always needs a snack… no matter how many they’ve already had. Playful, comfy, and perfect for every adventure. Why Parents Love This Bundle Match with your mini in the cutest, funniest snack-themed duo Perfect for family outings, picnics, travel days & weekend hangs Black Friday–only pricing — save more when you grab both together Soft, durable fabrics designed for busy parents & busy little snackers Makes a perfect gift for parents of toddlers, preschoolers, or snack-loving kids
-  Updated: 2025-11-25T08:02:57Z
+  Updated: 2025-11-26T04:41:03Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -621,10 +621,10 @@
 ## Collections
 
 - [Compass & Cradle Products](https://compassandcradle.com.au/collections/frontpage)
-  Updated: 2025-11-25T12:22:31Z
+  Updated: 2025-11-26T12:23:04Z
   Total Products: 6
 - [Matching Family T-Shirts](https://compassandcradle.com.au/collections/matching-family-t-shirts): Requires Snacks & Snack Provider - Matching Family T-Shirts Fuel every adventure with our Matching Family T-shirts, Required Snacks Kids T-Shirt and Snack Provider Parent Tee—the ultimate set for families who know snacks are non-negotiable. Made from premium, soft cotton with a comfortable unisex fit, these funny parenting t-shirts are perfect for playdates, park hangs, road trips, and everyday chaos. Whether your little one is declaring their snack needs or you’re proudly wearing your badge as the official snack provider, these matching family tees bring humour and heart to parenting life. Designed in Australia, our mum life clothing and parent and child matching outfits make unforgettable gifts for new mums, dads, and snack-loving kids. Shop now for the perfect Matching Family T-shirts.
-  Updated: 2025-11-25T12:22:31Z
+  Updated: 2025-11-26T12:23:04Z
   Total Products: 2
 - [Cray Cray on Vacation Collection | Holiday Apparel](https://compassandcradle.com.au/collections/holiday-apparel): Holiday Apparel -Shop the Cray Cray on Vacay collection. Featuring our soft Terry Towel Kids Set and matching oversized Canvas Tote. Perfect for coordinated family beach days and summer adventures
   Updated: 2025-11-21T12:20:38Z
@@ -638,7 +638,7 @@ The perfect blend of safety and personality for your family car. Designed in Aus
   Updated: 2025-11-16T12:23:13Z
   Total Products: 1
 - [Best Sellers](https://compassandcradle.com.au/collections/best-sellers)
-  Updated: 2025-11-25T12:22:31Z
+  Updated: 2025-11-26T12:23:04Z
   Total Products: 6
 - [Kids Summer Outfits - Terry Cotton Sets](https://compassandcradle.com.au/collections/kids-summer-outfits): The Perfect Kids Summer Outfits!
 Crafted from soft, terry Cotton, this kids' summer outfit is designed to be lightweight and breathable, perfect for those hot summer days.
@@ -663,7 +663,7 @@ Crafted from soft, terry Cotton, this kids' summer outfit is designed to be ligh
   Updated: 2025-11-21T04:06:04Z
   Total Products: 4
 - [Black Friday Snack Tee Family  Bundle](https://compassandcradle.com.au/collections/black-friday-snack-tee-family-bundle): Black Friday Matching Snack Tee Bundle For Parents + Their Snack-Obsessed Minis Make snack time (and family time!) even more fun with our limited-edition Black Friday Snack Tee Bundle — the perfect matching set for parents and their little snack monsters. What’s Inside Snack Provider Tee (Adults)For the legends who supply the snacks, wipe the crumbs, and keep the pantry stocked. Super soft, comfy, and built for everyday wear. Requires Snacks Tee (Kids)For the mini who always needs a snack… no matter how many they’ve already had. Playful, comfy, and perfect for every adventure. Why Parents Love This Bundle Match with your mini in the cutest, funniest snack-themed duo Perfect for family outings, picnics, travel days & weekend hangs Black Friday–only pricing — save more when you grab both together Soft, durable fabrics designed for busy parents & busy little snackers Makes a perfect gift for parents of toddlers, preschoolers, or snack-loving kids
-  Updated: 2025-11-25T12:22:31Z
+  Updated: 2025-11-26T12:23:04Z
   Total Products: 2
 
 ## Blogs
