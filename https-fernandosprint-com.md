@@ -1,12 +1,16 @@
 # Fernando's Screen Printing (https://fernandosprint.com)
 
+> We delivers high-quality custom apparel printing services in Garden Grove, CA, including screen printing, embroidery, DTF transfers, and graphic design.
+
 - Domain: https://fernandosprint.com
 - Locale: en
 - Currency: USD
 - Timezone: America/Los_Angeles
 - Created At: 2022-07-23T23:36:09Z
 - Contact Email: daniel@fernandosprint.com
-- Updated At: 2025-11-27T18:12:07.155Z
+- Contact Phone: +1-714-723-0125
+- Address: 11331 Markon Drive, Garden Grove, CA 92841
+- Updated At: 2025-11-27T18:15:07.441Z
 
 ## Products
 
