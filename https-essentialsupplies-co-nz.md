@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-11-26T00:00:46.260Z
+- Updated At: 2025-11-27T00:01:08.486Z
 
 ## Products
 
@@ -1138,14 +1138,14 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/enclosed-toilet-tidy-set-white-plastic-toilet-brushes-essential-supplies-428191.jpg?v=1719445067
   Price: $17.00 NZD
 - [Floor Stripper - Clear, 5L Refill Bottle](https://essentialsupplies.co.nz/products/floor-stripper-clear-5l-refill-bottle-2): Floor stripper is deep penetrating, ideal for general purpose floor stripping.It removes metalised and non-metalised floor sealers and finishes. The formulation ensures fewer fumes and its low foaming property ensures easy pick up of water based sealers. Suitable for general stripping of a wide range of floors where waterbased sealers and finishes have been used. Deep penetrating, ideal for general purpose floor stripping Removes metalised and non-metalised floor sealers and finishes Colour: Clear Content: 2 x 5 Litres
-  Updated: 2025-01-09T21:41:10Z
+  Updated: 2025-11-26T08:10:49Z
   Vendor: Mattews Packaging
   Product Type: Floor Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/floor-stripper-clear-5l-refill-bottle-floor-care-essential-supplies-698061.jpg?v=1719445087
   Price: $137.00 NZD
 - [Flowing Hand Sanitiser - Clear, 5L Refill Bottle](https://essentialsupplies.co.nz/products/flowing-hand-sanitiser-clear-5l-refill-bottle-2): Flowing hand sanitiser with an effective, ethanol based formula leaves hands dry and sanitised without the need for a towel or air dryer.Contains skin moisturising ingredients to keep hands feeling soft and supple. Ideal for use in food service, food processing and hospitality industries. 70% Ethanol Content: 2 x 5L Refill Bottle
-  Updated: 2025-05-30T23:03:51Z
+  Updated: 2025-11-26T00:52:56Z
   Vendor: Mattews Packaging
   Product Type: Hand Sanitising
   Availability: Available
@@ -3105,7 +3105,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/foaming-wall-dispenser-silver-1000ml-capacity-1-dispenser-includes-empty-cartridge-foaming-wall-dispensers-essential-supplies-781007.jpg?v=1719445082
   Price: $56.00 NZD
 - [Foaming Wall Dispenser - White, 1000ml Capacity - 1 Dispenser + Includes Empty Cartridge](https://essentialsupplies.co.nz/products/foaming-wall-dispenser-white-1000ml-capacity-1-includes-empty-cartridge): This manual foaming dispenser is made from sturdy and durable ABS plastic. Convenient, lockable bulk fill system helps to reduce maintenance costs and minimise wastage. Easily mountable and refillable these dispensers are suitable for use in bathrooms, kitchens, offices, hotels and restaurants. Stylish modern design Made from sturdy and durable ABS plastic Suitable for use in bathrooms, kitchens, offices, hotels, restaurants etc. Case colour: White Capacity: 1000ml
-  Updated: 2025-01-09T17:22:07Z
+  Updated: 2025-11-26T06:01:40Z
   Vendor: Mattews Packaging
   Product Type: Foaming Wall Dispensers
   Availability: Available
