@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-11-04T08:50:09Z
 - Contact Email: djpoppops2015@gmail.com
-- Updated At: 2025-11-26T21:51:09.741Z
+- Updated At: 2025-11-27T00:03:19.031Z
 
 ## Products
 
@@ -682,6 +682,36 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/3bb06181-c5df-444b-906b-7bb3b80be0f5.jpg?v=1763938228
     Price: £12.48 GBP
+- [Wireless Charger For IPhone Fast Charger For Phone Fast Charging Pad For Phone Watch 6 In 1 Charging Dock Station](https://omni-shop-6958.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station): Product information: Input parameter: 5 (V) Output parameter: 5 (V) Type: wireless charging Charging current: 2000 (mA) Battery type: lithium battery Indication function: with the indication function Interface: USB Product size: length 23cm width 9cm height 5cm Packing list: Charger*1
+  Updated: 2025-11-26T22:07:50Z
+  Vendor: Tranquil Touch
+  Product Type: Phone charger
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/fff10a96-1ead-4c85-a759-a3de932d9637.jpg?v=1764194794
+  - [Black / 10w / USB](https://omni-shop-6958.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=52875547279624)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/6bfb61ef-1e56-4379-bf12-afeeaeade48f.jpg?v=1764194803
+    Price: £19.98 GBP
+  - [Black / 15W / USB](https://omni-shop-6958.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=52875547312392)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/b1261eaf-5bdd-403f-ab3e-01128a16aab7.jpg?v=1764194803
+    Price: £19.98 GBP
+  - [Pink / 10w / USB](https://omni-shop-6958.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=52875547345160)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/a06e8f4f-2836-4d84-82d8-0a79cc41dacb.jpg?v=1764194803
+    Price: £19.98 GBP
+  - [Pink / 15W / USB](https://omni-shop-6958.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=52875547377928)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/6ea22150-fdff-4727-bfa9-82bbaa801e34.jpg?v=1764194803
+    Price: £19.98 GBP
+  - [White / 10w / USB](https://omni-shop-6958.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=52875547410696)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/5814dec8-76ae-405b-bc72-80b5af288ec8.jpg?v=1764194803
+    Price: £19.98 GBP
+  - [White / 15W / USB](https://omni-shop-6958.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station?variant=52875547443464)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/9925af23-6ddd-4226-8ae4-e0746f5acb58.jpg?v=1764194803
+    Price: £19.98 GBP
 
 ## Collections
 
