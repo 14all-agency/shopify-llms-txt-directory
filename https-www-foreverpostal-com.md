@@ -6,14 +6,14 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-07-18T07:16:51Z
 - Contact Email: help@foreverpostal.com
-- Updated At: 2025-11-26T00:00:36.655Z
+- Updated At: 2025-11-27T00:00:26.969Z
 
 At our dedicated stamp store, we invite enthusiasts and collectors alike to explore a world of philately. Stamps are not just postal essentials; they are tiny pieces of art that carry stories and depict history. Whether you are a seasoned collector or just starting, our store has something for everyone.
 
 ## Products
 
 - [Flag 2025 Forever Stamps Roll - Forever Postal](https://www.foreverpostal.com/products/flag-2025-forever-stamps-roll): The issuance of the 2025 Flag stamps continues its long-standing tradition of paying tribute to the flag. 100pcs/Rolls - Forever Postal
-  Updated: 2025-11-25T21:57:36Z
+  Updated: 2025-11-26T15:22:47Z
   Vendor: foreverpostal
   Product Type: Flag
   Availability: Available
@@ -69,21 +69,21 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/HD_af0b178a-97a7-4ca2-8d12-72fd8d3651fc.jpg?v=1758199970
   Price: $71.00 USD
 - [Flag 2023 - 1Roll / 100 Pcs - Forever Postal](https://www.foreverpostal.com/products/flag-2023-1roll-100-pcs): Flag 2023 - 1Roll / 100 Pcs is a perfect way to celebrate and honor the American spirit. Each roll contains 100 pieces of beautifully designed，making them ideal for collectors and patriots alike - Forever Postal
-  Updated: 2025-11-25T21:30:06Z
+  Updated: 2025-11-26T20:40:42Z
   Vendor: foreverpostal
   Product Type: Flag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/aa21be6f4d21ad41ebf63604fe76c0ea-_1.webp?v=1755848006
   Price: $59.00 USD
 - [Wedding Vintage Rose Forevre Stamps - Forever Postal](https://www.foreverpostal.com/products/wedding-vintage-rose-forevre-stamps): Wedding Vintage Rose Forevre Stamps 100 PCS is a stunning addition to any collection. Released on February 14, 2015, this Forever stamp is perfect for various occasions, including weddings, thank you notes, and special celebrations. The elegant design features a detailed floral line drawing of a rose, inspired by the work of naturalist artist Maria Sibylla Merian. A small crimson heart adds a charming touch, making it ideal for heartfelt messages. - Forever Postal
-  Updated: 2025-11-25T20:02:41Z
+  Updated: 2025-11-26T08:37:56Z
   Vendor: Forever Postal
   Product Type: FLOWER
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/2.jpg?v=1755848020
   Price: $69.00 USD
 - [2011 Wedding Roses Forever Stamps 100pcs - Forever Postal](https://www.foreverpostal.com/products/2011-wedding-roses-forever-stamps-100pcs): 2011 Wedding Roses Forever Stamps are a beautiful addition to any mailing. This product includes one sheet containing 20 stamps, perfect for sending out wedding invitations or thank-you notes. These forever stamps ensure that your postage remains valid, regardless of future rate changes. Featuring an elegant wedding rose design, they add a touch of romance and sophistication to your correspondence. Ideal for weddings, special events, or any occasion where you want to make a lasting impression, these stamps are a must-have for anyone looking to celebrate love and connection. - Forever Postal
-  Updated: 2025-11-21T08:11:27Z
+  Updated: 2025-11-26T20:39:22Z
   Vendor: Forever Postal
   Product Type: FLOWER
   Availability: Available
@@ -209,7 +209,7 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/MF_ca4a06d4-c714-43b0-91ef-f16b9d461450.jpg?v=1757153585
   Price: $63.00 USD
 - [Holy Family 2012 Forever Stamps 100 pcs - Forever Postal](https://www.foreverpostal.com/products/holy-family-2012-forever-stamps-100-pcs): Description20 pcs stamps/page * 5 pages. You got 100 pcs stamps in total. Background:Retelling the legend of the Three Wise Men who came to honor the baby Jesus is a Christmas tradition. Less known is the story of the Holy Familys escape into Egypt after the Magi departed - Forever Postal
-  Updated: 2025-11-25T22:48:35Z
+  Updated: 2025-11-26T13:53:56Z
   Vendor: Forever Postal
   Product Type: Holiday
   Availability: Available
@@ -223,21 +223,21 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/HE_8c5c0249-b021-4501-9651-5bbb2ced7e5b.jpg?v=1758205110
   Price: $59.00 USD
 - [Nativity Stamps 2016 Forever Stamps 100 pcs - Forever Postal](https://www.foreverpostal.com/products/nativity-stamps-2016-forever-stamps-100-pcs): Description20pcs stamps/page * 5 pages. You got 100pcs stamps in total.Background:The Nativity SceneArtists through the centuries have celebrated the Nativity in painting and sculpture. Carvings of Mary, Joseph, and the baby Jesus, often accompanied by an ox and a donkey, date back at least to the fourth century. - Forever Postal
-  Updated: 2025-11-25T19:34:31Z
+  Updated: 2025-11-26T18:14:06Z
   Vendor: Forever Postal
   Product Type: Holiday
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/Nativity_cd3ae39c-07be-438d-8288-6924e7a25b73.jpg?v=1758205637
   Price: $59.00 USD
 - [Espresso Drinks 2021 Forever Stamps 100pcs - Forever Postal](https://www.foreverpostal.com/products/espresso-drinks-2021-forever-stamps-100pcs): Description20pcs stamps/page * 5 pages.You got 100pcs stamps in total.Background:America's love of coffee is celebrated with four new stamps in a booklet of 20.Four digital illustrations feature cups of four different drinks: caffe latte, espresso, caffe mocha and cappuccino.The names of the espresso drinks appear in art-deco-inspired lettering above or below each cup. - Forever Postal
-  Updated: 2025-11-21T08:11:40Z
+  Updated: 2025-11-26T00:33:11Z
   Vendor: Forever Postal
   Product Type: Holiday
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/ED_1165b85f-fee7-4e30-9d56-47ea4f48a8f0.jpg?v=1758206112
   Price: $59.00 USD
 - [Sparkling Holidays Santas 2018 Forever Stamps 100pcs - Forever Postal](https://www.foreverpostal.com/products/sparkling-holidays-santas-2018-forever-stamps-100pcs): Description20pcs stamps/page * 5 pages. You got 100pcs stamps in total.Background:Sundblom, a famed commercial artist, depicted a rosy-cheeked, smiling, grandfatherly man in a red suit that came to embody the very essence of "Santa."he Sparkling Holidays stamps will be issued as Forever stamps. Forever stamps are always equal in value to the current First-Class Mail 1-ounce price. - Forever Postal
-  Updated: 2025-11-25T19:02:37Z
+  Updated: 2025-11-26T12:33:12Z
   Vendor: Forever Postal
   Product Type: Holiday
   Availability: Available
@@ -300,14 +300,14 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/WW_775721d1-afc4-41eb-898d-81cf48396324.jpg?v=1758702022
   Price: $59.00 USD
 - [2020 Winter Scenes Forever Stamps 100pcs - Forever Postal](https://www.foreverpostal.com/products/2020-winter-scenes-forever-stamps-100pcs): Description20 stamps/page * 5 pages.You got 100 stamps in total.Background:Winter Scenes celebrates the beauty and serenity of seasonal sights amid snowy landscapes. The 10 different photographs featured in this booklet stamps showcase the special allure of winter, with iconic scenes from the northern United States. - Forever Postal
-  Updated: 2025-11-25T21:44:43Z
+  Updated: 2025-11-26T02:35:18Z
   Vendor: Forever Postal
   Product Type: Holiday
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/WS_261f8284-43c6-4399-bb8b-2af5ced2a11c.jpg?v=1758702648
   Price: $59.00 USD
 - [Rudolph Red Nosed Reindeer 2014 Forever Stamps 100pcs - Forever Postal](https://www.foreverpostal.com/products/rudolph-red-nosed-reindeer-2014-forever-stamps-100pcs): Description20 stamps/page * 5 pages. You got 100 stamps in total.Background:The art for each stamp is a still frame from the animated special, created by Rankin/Bass Productions.Rudolph, Santa, and the Abominable Snowman star on stamps of their own, while a fourth stamp features Hermey the elf, touching Rudolph's red nose. - Forever Postal
-  Updated: 2025-11-24T21:55:07Z
+  Updated: 2025-11-26T15:59:21Z
   Vendor: Forever Postal
   Product Type: Holiday
   Availability: Available
@@ -338,16 +338,16 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
 ## Collections
 
 - [Flower Stamps - Forever Postal](https://www.foreverpostal.com/collections/frontpage): - Forever Postal
-  Updated: 2025-11-25T12:24:29Z
+  Updated: 2025-11-26T12:22:46Z
   Total Products: 27
 - [Flag Stamps - Forever Postal](https://www.foreverpostal.com/collections/flag-stamps): - Forever Postal
-  Updated: 2025-11-25T12:24:29Z
+  Updated: 2025-11-26T12:22:46Z
   Total Products: 8
 - [Holiday stamps - Forever Postal](https://www.foreverpostal.com/collections/holiday-stamps): - Forever Postal
-  Updated: 2025-11-25T12:24:29Z
+  Updated: 2025-11-26T12:22:46Z
   Total Products: 13
 - [New! Shopify performance sharing is now turned on - Forever Postal](https://www.foreverpostal.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - Forever Postal
-  Updated: 2025-11-25T12:24:29Z
+  Updated: 2025-11-26T12:22:46Z
   Total Products: 47
 
 ## Store Pages
