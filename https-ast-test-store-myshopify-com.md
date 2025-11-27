@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-03-05T15:01:33Z
 - Contact Email: ashok@astconsulting.in
-- Updated At: 2025-11-26T00:00:43.883Z
+- Updated At: 2025-11-27T00:01:42.209Z
 
 ## Products
 
@@ -159,8 +159,8 @@ The result? More fun on the mountain. Own the snow. This winter, treat yourself.
   Updated: 2025-09-01T19:35:04Z
   Total Products: 1
 - [Automated Collection](https://ast-test-store.myshopify.com/collections/automated-collection)
-  Updated: 2025-11-14T09:59:51Z
-  Total Products: 10
+  Updated: 2025-11-26T13:19:01Z
+  Total Products: 11
 - [Hydrogen](https://ast-test-store.myshopify.com/collections/hydrogen)
   Updated: 2025-10-16T16:17:56Z
   Total Products: 3
@@ -293,6 +293,12 @@ In today's competitive market, finding the perfect Trunks can be overwhelming. A
     Author: ast-test-store.myshopify.com
   - [Mastering Portion Control: A Step-by-Step Guide with 9-Compartment Plates](https://ast-test-store.myshopify.com/blogs/news/mastering-portion-control-a-step-by-step-guide-with-9-compartment-plates)
     Updated: 2025-10-24T07:19:09Z
+    Author: ast-test-store.myshopify.com
+  - [Conquer Any Mountain: A Rider's Guide to the Apex All-Terrain Snowboard](https://ast-test-store.myshopify.com/blogs/news/conquer-any-mountain-a-riders-guide-to-the-apex-all-terrain-snowboard)
+    Updated: 2025-11-26T12:32:31Z
+    Author: ast-test-store.myshopify.com
+  - [Mastering Portion Control: Is a Divided Plate Right for You?](https://ast-test-store.myshopify.com/blogs/news/mastering-portion-control-is-a-divided-plate-right-for-you)
+    Updated: 2025-11-26T12:37:08Z
     Author: ast-test-store.myshopify.com
 
 ## Store Pages
