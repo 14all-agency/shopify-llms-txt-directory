@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-01-28T02:13:08Z
 - Contact Email: contact@conquest.fit
-- Updated At: 2025-11-26T00:00:46.936Z
+- Updated At: 2025-11-27T00:01:17.740Z
 
 ## Products
 
@@ -1133,6 +1133,9 @@
     Author: Conquest Nutrition
   - [Solving Nutritional Challenges to Elevate Your Fitness and Health](https://www.conquest.fit/blogs/news/solving-nutritional-challenges-to-elevate-your-fitness-and-health): Solving Nutritional Challenges to Elevate Your Fitness and Health
     Updated: 2025-11-24T07:04:02Z
+    Author: Conquest Nutrition
+  - [A Beginners Guide to Starting a Fitness Routine and Enhancing Nutrition](https://www.conquest.fit/blogs/news/a-beginners-guide-to-starting-a-fitness-routine-and-enhancing-nutrition): A Beginners Guide to Starting a Fitness Routine and Enhancing Nutrition
+    Updated: 2025-11-26T07:05:28Z
     Author: Conquest Nutrition
 
 ## Store Pages
