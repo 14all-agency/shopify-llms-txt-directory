@@ -6,12 +6,12 @@
 - Timezone: Africa/Monrovia
 - Created At: 2025-11-18T07:20:00Z
 - Contact Email: marginean.damian1989@gmail.com
-- Updated At: 2025-11-25T09:01:02.972Z
+- Updated At: 2025-11-27T00:02:05.394Z
 
 ## Products
 
 - [Women's Long Sleeve Chest Cross Sweater](https://mdg-9604.myshopify.com/products/womens-long-sleeve-chest-cross-sweater): Elevate your wardrobe with our Women's Chest Cross Long Sleeve Temperament Sweater! Designed for the modern woman, this sweater combines style and comfort effortlessly. Made from high-quality polyester, it features a sleek slim fit that complements your silhouette while providing a cozy feel. The V-neck collar adds an elegant touch, making it perfect for various occasions, from casual outings to sophisticated gatherings. Available in a stunning range of colors including apricot, white, black, rose red, amber, brown, grass green, khaki, olive green, and nude pink, this sweater is versatile enough to match any outfit. Choose from sizes S, M, L, and XL to find your perfect fit. Featuring unique three-dimensional decorations, this sweater stands out in any crowd, making it a must-have addition to your collection. Enjoy the perfect blend of fashion and functionality with this exceptional piece. Check out the images below to see the stunning designs: Don’t miss out on the chance to add this stunning sweater to your wardrobe. Experience the perfect combination of style, comfort, and elegance with our Women's Chest Cross Long Sleeve Temperament Sweater today!
-  Updated: 2025-11-21T01:11:31Z
+  Updated: 2025-11-25T20:59:11Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -97,7 +97,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/LXCX8M78t7vH5zu5.webp?v=1763639871
     Price: €43.44 EUR
 - [Trendy Stand Collar Solid Color Casual Jacket](https://mdg-9604.myshopify.com/products/trendy-stand-collar-solid-color-casual-jacket): Elevate your style this spring and autumn with our Trendy Top Coat Stand Collar Solid Color Casual Jacket. Designed with a modern Korean flair, this jacket is perfect for adding a touch of sophistication to any casual outfit. The stand-up collar provides a unique look while ensuring that you stay warm, and the zipper placket adds functionality with a sleek finish. Made from a high-quality chemical fiber blend, including 100% polyester, this jacket is not only stylish but also comfortable to wear. Available in three classic colors—black, gray, and navy blue—and a variety of sizes ranging from M to 5XL, you can find the perfect fit that complements your body type and personal style. The long sleeves and general thickness make this jacket an ideal outerwear choice for transitional weather, ensuring you stay cozy without sacrificing style. Don’t miss out on the opportunity to upgrade your wardrobe with this versatile and chic jacket. Order yours today and step out in style!
-  Updated: 2025-11-21T01:21:27Z
+  Updated: 2025-11-25T20:59:11Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -187,7 +187,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/YmJFQolGOaGxSdtj.webp?v=1763640803
     Price: €49.01 EUR
 - [Mid-Length Men's Woolen Trench Coat](https://mdg-9604.myshopify.com/products/mid-length-mens-woolen-trench-coat): Elevate your style with our exquisite Woolen Coat Mid Length Men's Trench Coat, designed to keep you warm and fashionable during the colder months. Crafted from high-quality wool with a comfortable polyester composition, this trench coat is not just a piece of clothing; it’s a statement. The classic lapel collar adds a refined touch, while the plain pattern ensures versatility, allowing you to pair it effortlessly with various outfits. Available in an array of stunning colors including Black, Blue, Grey, Khaki, Red, Claret, and Navy Blue, you can choose the perfect hue that reflects your personality. With a fitted version that flatters every body type, this coat comes in multiple sizes ranging from M to 4XL. Whether you’re heading to the office or out for a casual outing, this trench coat is the perfect companion. See it in action: Choose your ideal fit and color from our extensive collection. The Woolen Coat is not just about warmth; it’s about making a bold and stylish impression. Don’t miss out on this essential wardrobe staple that combines elegance, comfort, and practicality. Be ready to turn heads wherever you go! Shop now and embrace the season in style!
-  Updated: 2025-11-21T04:05:25Z
+  Updated: 2025-11-25T20:59:11Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -349,7 +349,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/68b35YmtEk9CpjJO.webp?v=1763641256
     Price: €88.86 EUR
 - [Men's Woolen Coat - Double Collar Mid-Length Jacket](https://mdg-9604.myshopify.com/products/mens-woolen-coat-double-collar-mid-length-jacket): Step into the season with confidence in our Men's Stylish Woolen Coat, the perfect blend of elegance and practicality. Designed for the discerning gentleman, this double collar mid-length jacket is tailored specifically for the Autumn/Winter business look, ensuring you stay warm without sacrificing style. This coat is made from high-quality, cold-resistant wool, making it an ideal choice for chilly days. Available in three classic colors—Black, Camel, and Grey—it caters to various style preferences and occasions. The mid-length design provides just the right amount of coverage, while the double collar adds a touch of sophistication. With a range of sizes from M to 5XL, this coat is designed to fit comfortably and flatter every figure. Whether you're heading to the office, a formal event, or a casual outing, this versatile woolen coat is your go-to piece for a polished appearance. Experience the perfect combination of warmth, style, and functionality. Don't let the cold weather hold you back—embrace it with our stylish woolen coat that effortlessly elevates your wardrobe. Shop now and redefine your winter fashion!
-  Updated: 2025-11-21T01:39:53Z
+  Updated: 2025-11-25T20:59:11Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -439,7 +439,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/UiuSeJMCSxhNq2oE.webp?v=1763641122
     Price: €146.53 EUR
 - [Woolen Stand Collar Medium Length Slotted Casual Coat](https://mdg-9604.myshopify.com/products/woolen-stand-collar-medium-length-slotted-casual-coat): This stylish medium-length woolen coat features a stand collar and slotted design, offering both warmth and a chic, casual look. Perfect for everyday wear, it combines comfort and sophistication, making it an ideal addition to your wardrobe for cooler weather.Material: ClothProduct Attributes: OrdinaryPackage Size: 350*300*30(1mm)Style: business dressPlate type: fit typeCategory: Fashion City (24-35 years old)Suitable crowd: TeenagersFabric Name: woolenMain fabric composition: polyester (polyester)Content of main fabric composition: 50%Color: grey
-  Updated: 2025-11-21T01:05:56Z
+  Updated: 2025-11-25T20:59:11Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -469,7 +469,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/bVn0eFOqyvTLTJz0.webp?v=1763641040
     Price: €88.51 EUR
 - [Men's Woolen Mid-length Trench Coat with Stand Collar](https://mdg-9604.myshopify.com/products/mens-woolen-mid-length-trench-coat-with-stand-collar): Elevate your winter wardrobe with our Men's Woolen Stand Collar Mid-length Trench Coat. This sophisticated coat is designed to provide warmth and style, making it the perfect choice for the colder months. Crafted from high-quality polyester fiber, with a remarkable 99% main fabric content, this trench coat ensures durability without compromising comfort. Featuring a classic stand collar and a sleek single-breasted placket, it exudes a timeless elegance that suits any occasion. The coat is available in various stylish colors and sizes, ensuring a perfect fit for everyone. Whether you're heading to work or enjoying a casual outing, this versatile piece can be effortlessly paired with any outfit. The trench coat has an ordinary thickness, providing just the right level of warmth for winter wear without feeling bulky. With its stylish printing details, it adds a unique flair to your ensemble, making you stand out in a crowd. Available in sizes ranging from S to 4XL, you can choose the perfect fit for your body type. The coat's practical design includes no hood and no belt, allowing for a streamlined silhouette that enhances your figure. Check out some of the stunning styles available: Don’t let the cold hold you back. Embrace the season in style with this fashionable trench coat, perfect for the modern man. Shop now and redefine your winter look!
-  Updated: 2025-11-21T01:26:30Z
+  Updated: 2025-11-25T20:59:12Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -675,7 +675,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/PnhBbLCeTFpjSccY.webp?v=1763641339
     Price: €74.63 EUR
 - [Men's Mid-Length Casual Woolen Stand-Collar Coat](https://mdg-9604.myshopify.com/products/mens-mid-length-casual-woolen-stand-collar-coat): Introducing our stylish Men's Mid-Length Casual Stand-Collar Woolen Coat, designed for the modern youth who values both comfort and fashion. This coat is a perfect blend of Korean style and contemporary trends, making it an essential addition to your wardrobe for the spring and autumn seasons. Crafted from high-quality woolen cloth, this coat features a single-breasted placket and a sleek stand-up collar that adds an elegant touch to your casual look. The slim fit design ensures a flattering silhouette, while the lightweight fabric offers just the right amount of warmth without compromising on style. Available in a variety of sizes ranging from M to 4XL, as well as classic colors like Black, Grey, and Navy Blue, this coat is suitable for all body types and preferences. Its versatile design makes it perfect for leisure activities or casual outings, effortlessly enhancing your ensemble. Check out the stunning visuals of this coat that showcase its impeccable craftsmanship and chic appeal: Elevate your style with this men's coat that strikes the perfect balance between functionality and aesthetics. Whether you're dressing up for a night out or keeping it casual, this coat will have you looking sharp and feeling confident.
-  Updated: 2025-11-21T05:43:31Z
+  Updated: 2025-11-25T20:59:12Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -741,7 +741,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/bJZYh0dlhDhoSaWR.webp?v=1763658179
     Price: €149.60 EUR
 - [Men's Woolen Stand Collar Medium Long Casual Coat](https://mdg-9604.myshopify.com/products/mens-woolen-stand-collar-medium-long-casual-coat): Step into the season with confidence and style in our latest Autumn and Winter Men's Woolen Stand Collar Coat. Designed with a modern European and American flair, this coat is perfect for casual outings or formal gatherings alike. Crafted from high-quality polyester, this coat promises durability and comfort. The stunning blue color adds a touch of sophistication, while the unique digital printing feature makes it truly stand out from the crowd. Available in a range of sizes from M to 4XL, this coat caters to all body types, ensuring that everyone can enjoy the perfect fit. Whether you prefer a snug or relaxed look, our size options provide versatility for your wardrobe. Key Features: Don't miss out on this essential piece for your autumn and winter collection! Transform your look today with our stylish coat that blends comfort with contemporary fashion. Available Sizes:M, L, XL, XXL, 3XL, 4XL
-  Updated: 2025-11-21T08:27:10Z
+  Updated: 2025-11-25T20:59:12Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -767,7 +767,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/whQ6iKgzA0QosOhV.webp?v=1763658424
     Price: €82.91 EUR
 - [Men's Woolen Stand Collar Medium Long Casual Coat](https://mdg-9604.myshopify.com/products/mens-woolen-stand-collar-medium-long-casual-coat-1): Step into the cooler seasons with confidence and style in our Men's Woolen Stand Collar Medium Long Pocket Casual Coat. Crafted from high-quality polyester, this coat promises both warmth and durability, making it an essential addition to your autumn and winter wardrobe. Designed with a chic European and American style, this coat features a unique digital printing that showcases a vibrant multicolor pattern, ensuring you stand out in any crowd. The medium-long cut provides a flattering silhouette while offering ample coverage against the chill. Available in a range of sizes from M to 4XL, this coat is tailored to fit a variety of body types comfortably. Whether you're heading out for a casual day or dressing up for a night out, this versatile coat is your go-to option. Check out the various sizes below to find your perfect fit: Don't miss out on this seasonal staple! Elevate your style this autumn and winter with our stunning coat. Pair it with your favorite jeans or trousers for a complete look that exudes sophistication and comfort.
-  Updated: 2025-11-21T15:13:16Z
+  Updated: 2025-11-25T20:59:12Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -797,7 +797,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/hJD0rOFvEywmWvVo.webp?v=1763658468
     Price: €80.35 EUR
 - [Men's Casual Tweed Trench Coat with Stand Collar](https://mdg-9604.myshopify.com/products/mens-casual-tweed-trench-coat-with-stand-collar): Elevate your style with our Fashion Trench Coat, designed specifically for the modern man who values sophistication and comfort. This stand collar trench coat is a versatile piece that effortlessly transitions from casual to formal settings, making it an essential addition to your wardrobe. Crafted from high-quality tweed fabric, this coat offers a luxurious feel while ensuring durability. The double-breasted placket not only provides a classic look but also enhances warmth during cooler days. Available in a range of chic colors including black, grey, and white, you can easily match it with any outfit. Choose from a variety of sizes ranging from M to 3XL, ensuring the perfect fit for every body type. This jacket is designed with a patching and splicing process, adding a unique touch to its overall aesthetic. Imagine stepping out in style, draped in this elegant trench coat that complements your personality and enhances your confidence. Whether you're heading to work, a casual outing, or a formal event, this coat is a reliable companion. Check out the stunning visuals below to see how this trench coat looks in real life: Upgrade your wardrobe with this stylish trench coat and experience the perfect blend of fashion and functionality. Don't miss out on the chance to own this timeless piece!
-  Updated: 2025-11-21T05:46:10Z
+  Updated: 2025-11-25T20:59:12Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -863,7 +863,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/4FKA2qscADNKJcBN.webp?v=1763658640
     Price: €115.94 EUR
 - [Cotton Casual Men's Coat with Stand Collar](https://mdg-9604.myshopify.com/products/cotton-casual-mens-coat-with-stand-collar): Elevate your casual wardrobe with our stunning Cotton Wash Jacket. Designed with a modern stand collar, this versatile men's coat is perfect for those leisurely outings or everyday wear. Crafted from high-quality polyester fiber, it provides both comfort and durability, making it an ideal choice for any occasion. Available in classic black and trendy khaki colors, this jacket is sure to complement any outfit. Choose from a wide range of sizes, including M, L, XL, XXL, 3XL, and 4XL, to find your perfect fit. Size Chart: Check out the stylish appeal of this jacket through our images below and see how it can enhance your look: Don't miss out on this essential addition to your wardrobe. Order your Cotton Wash Jacket today and embrace a blend of style and comfort!
-  Updated: 2025-11-21T08:14:44Z
+  Updated: 2025-11-25T20:59:13Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -941,7 +941,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/vTSgB58KMd5tg4PM.webp?v=1763658713
     Price: €96.27 EUR
 - [Men's Genuine Leather Long Coat with Stand Collar](https://mdg-9604.myshopify.com/products/mens-genuine-leather-long-coat-with-stand-collar): Discover the ultimate in style and comfort with our genuine leather men's coat. This stunning long trench coat is designed for the modern man who values both fashion and functionality. Perfect for autumn, it effortlessly combines a sleek look with the durability of high-quality leather. Featuring a stand collar for a sophisticated edge, this coat is versatile enough for both casual outings and formal occasions. The classic black color complements any outfit, making it a staple in your wardrobe. Available in a variety of sizes from M to 3XL, this coat ensures a perfect fit for every body type. The lightweight construction (weighing between 1.44 kg to 1.5 kg) allows for easy wear without compromising on warmth and style. Whether you're stepping out for a night on the town or simply running errands, this long leather coat will elevate your look and keep you comfortable. Embrace the season with confidence and sophistication. Don't miss out on this must-have piece for your fall wardrobe. Shop now and enjoy the blend of style, comfort, and quality that our genuine leather coat has to offer!
-  Updated: 2025-11-21T05:10:29Z
+  Updated: 2025-11-25T20:59:13Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -967,7 +967,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Ge3amKL9Jjfg6QsB.webp?v=1763658630
     Price: €200.40 EUR
 - [Men's Velvet Leather Coat with Furry Collar and Horn Buckle](https://mdg-9604.myshopify.com/products/mens-velvet-leather-coat-with-furry-collar-and-horn-buckle): Introducing the Furry Collar Horn Buckle Deer Velvet Leather Coat for men - a stylish blend of comfort and sophistication that is perfect for any occasion. Crafted from high-quality polyester fiber, this coat not only offers a luxurious feel but also ensures durability and longevity. The coat features a unique furry collar that adds a touch of elegance and warmth, making it ideal for chilly days. Its horn buckle design enhances its distinctive style, allowing you to stand out in any crowd. Available in multiple colors, including Grey, Khaki, and Navy Blue, you can choose the one that best fits your personality. With a variety of sizes from S to XXXL, finding the perfect fit has never been easier. Whether you prefer a snug or loose fit, this coat accommodates all body types, ensuring you look great while feeling comfortable. Experience versatility like never before. The Furry Collar Horn Buckle Deer Velvet Leather Coat can be dressed up for formal events or paired with casual outfits for a laid-back look. Its sleek design and high-quality materials make it a must-have addition to your wardrobe. Check out our stunning product images below to see the coat in action: Don't miss the opportunity to elevate your style with this exquisite coat. Grab yours today and make a statement wherever you go!
-  Updated: 2025-11-21T05:11:05Z
+  Updated: 2025-11-25T20:59:13Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1045,7 +1045,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/YXlIZ4GtKtINHqLn.webp?v=1763658699
     Price: €143.18 EUR
 - [Men's Plus Velvet Casual Stand Collar Leather Coat](https://mdg-9604.myshopify.com/products/mens-plus-velvet-casual-stand-collar-leather-coat): Elevate your everyday style with our Men's Plus Velvet Casual Stand Collar Leather Trench Coat. Designed for the modern man who values both comfort and fashion, this trench coat combines an urban aesthetic with practical features that make it perfect for daily wear. The coat showcases a sleek stand-up collar and a secure zipper placket, ensuring both warmth and a polished appearance. Made from high-quality velvet leather, it offers a luxurious feel while maintaining durability and style. Whether you’re heading to work or out for an evening with friends, this coat is versatile enough to adapt to any occasion. Available in a variety of colors including Light Brown, Dark Brown, and Black, and multiple sizes from L to 3XL, you’re sure to find the perfect fit. Each variation is crafted to provide a tailored look that flatters your physique. Check out our stunning visuals below to see the intricate details and craftsmanship that goes into each coat:
-  Updated: 2025-11-21T13:49:02Z
+  Updated: 2025-11-25T20:59:13Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1099,7 +1099,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/O5Tlr8qZXkPK0lZ2.webp?v=1763658857
     Price: €127.36 EUR
 - [Lace-up Collar Solid Color Trench Coat](https://mdg-9604.myshopify.com/products/lace-up-collar-solid-color-trench-coat): Elevate your wardrobe with our stunning Lace-up Collar Solid Color Trench Coat. Perfectly designed for the modern individual, this trench coat combines style and functionality. The collar style lapel adds a touch of sophistication, while the long sleeves provide warmth and elegance for any occasion. Crafted from quality materials, this coat features a single-breasted buckle front placket that offers a sleek silhouette, making it ideal for both commuting and casual outings. The solid color design is versatile, allowing you to pair it effortlessly with any outfit. Available in various sizes and colors, including Khaki, Bean Paste Green, and Black, you can find the perfect fit to express your unique style. Whether you prefer a small or extra large, our trench coat caters to all body types. With its regular sleeve type and temperament style, this trench coat is not just a piece of clothing; it's an essential addition to your wardrobe that will keep you looking chic and feeling comfortable. Explore the elegance and charm of our trench coat through the images below and step out in style this season!
-  Updated: 2025-11-21T05:41:41Z
+  Updated: 2025-11-25T20:59:13Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1154,7 +1154,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Nwu4iCNsyxtX2VCK.webp?v=1763658809
     Price: €115.34 EUR
 - [Solid Color Wool Blend Stand Collar Coat](https://mdg-9604.myshopify.com/products/solid-color-wool-blend-stand-collar-coat): Embrace the chill of winter with our Womens Winter Lapel Wool Coat. This elegant long sleeve overcoat is designed to keep you warm while exuding a chic style, making it a perfect addition to your winter wardrobe. Crafted from a blend of 51-70% polyester, this coat offers a soft touch with durability. The lapel collar adds a sophisticated flair, while the long sleeves provide full coverage, ensuring you stay cozy no matter the weather. Available in a variety of stunning colors including Khaki, Grey, Red, and Caramel, this coat comes in sizes ranging from M to 5XL. Whether you're dressing up for a night out or keeping it casual, there's a perfect fit for everyone. Elevate your winter style with this versatile and fashionable Wool Coat. Don’t let the cold hold you back—make a statement while staying warm!
-  Updated: 2025-11-21T05:49:39Z
+  Updated: 2025-11-25T20:59:14Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1272,7 +1272,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/huWYLYpu2W27U897.webp?v=1763658947
     Price: €47.75 EUR
 - [Plus Size Women's Long Casual Solid Color Coat](https://mdg-9604.myshopify.com/products/plus-size-womens-long-casual-solid-color-coat): Step into the season with our stunning plus size ladies coat, designed to keep you warm and stylish during the autumn and winter months. This fashionable piece is perfect for the modern commuter, effortlessly combining functionality with classic elegance. The coat features a simple wind waist strap that enhances your silhouette while offering a comfortable fit. Its long casual design in a solid auburn color makes it a versatile addition to any wardrobe, allowing you to dress it up or down as the occasion demands. Available in sizes ranging from XL to 4XL, this coat ensures that every woman finds her perfect fit. With a lightweight design weighing only 0.625 kg, you can enjoy both warmth and ease of movement, making it ideal for busy days on the go. Explore the beauty of our coat through the images below: Embrace the chill in style with this essential autumn and winter coat. Don't miss out on the opportunity to add elegance and warmth to your wardrobe today!
-  Updated: 2025-11-21T07:06:12Z
+  Updated: 2025-11-25T20:59:14Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1294,7 +1294,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/stC3KQzMoT5g1bTZ.webp?v=1763658883
     Price: €72.12 EUR
 - [Men's Jacquard Slim Stand Collar Casual Sweater Coat](https://mdg-9604.myshopify.com/products/mens-jacquard-slim-stand-collar-casual-sweater-coat): Elevate your wardrobe with our Men's Jacquard Slim Stand Collar Sweater Casual Coat, designed for style and comfort during the cooler months. Made from high-quality polyester fiber, this versatile coat is perfect for spring, autumn, and winter, making it a staple for any man's closet. Available in a range of sizes from M to 5XL, this sweater coat is tailored to fit a variety of body types. Its slim fit design not only flatters your physique but also ensures maximum comfort while keeping you warm. Choose from three stunning colors: Beige, Dark Blue, and Green. Each color option is crafted to complement your casual outfits seamlessly, making it easy to dress up or down for any occasion. Check out the detailed sizing information to find the perfect fit for you: Don’t miss out on this essential addition to your wardrobe. Check out our images below to see the style and quality of this amazing coat!
-  Updated: 2025-11-21T05:22:44Z
+  Updated: 2025-11-25T20:59:14Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1370,7 +1370,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/JDcfI4MVslSdKjMd.webp?v=1763658945
     Price: €81.05 EUR
 - [Men's Slim Solid Color Baseball Jersey Jacket](https://mdg-9604.myshopify.com/products/mens-slim-solid-color-baseball-jersey-jacket): Introducing the ultimate jacket for the modern man - a Men's Spring and Autumn Casual Slim Solid Color Baseball Jersey. This versatile jacket is perfect for outdoor jogging or just enjoying a breezy day. Designed with a standing collar for a sleek look, it features a loose fitting pattern that provides comfort without compromising style. The zipper front fly ensures easy wear and adds a touch of functionality. With a selection of 24 variations in size and color, you can find the perfect fit for your unique style. Choose from classic colors like Black, Green, Khaki, and Blue, in sizes ranging from L to 5XL. This jacket not only looks good but is also windproof and waterproof, making it an essential piece for unpredictable weather. Don't miss out on this must-have jacket that combines style, comfort, and functionality. Whether you're hitting the gym or heading out for a casual day, this jacket is your go-to choice. Upgrade your wardrobe today!
-  Updated: 2025-11-21T05:14:58Z
+  Updated: 2025-11-25T20:59:14Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1472,7 +1472,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/sNj71TIuurPrVjU0.webp?v=1763659045
     Price: €51.14 EUR
 - [Men's Slim Fit Baseball Collar Jacket in Solid Color](https://mdg-9604.myshopify.com/products/mens-slim-fit-baseball-collar-jacket-in-solid-color): Discover the perfect blend of style and comfort with our lightweight men's baseball collar jacket, designed for the modern man. Made from high-quality polyester fiber, this jacket is perfect for the spring and autumn seasons, ensuring you stay cozy without compromising on style. Whether you're out for a casual day or a night out, this leisure-style jacket fits seamlessly into your wardrobe. Its slim fit design is tailored to flatter all body types, available in sizes ranging from M to 4XL to accommodate diverse preferences. Choose from a variety of colors including Red, White, Black, and Blue, allowing you to express your unique style. The jacket features a versatile design that pairs perfectly with jeans or trousers, making it an essential addition to your collection. Key Features: - Comfortable, lightweight material for easy wear - Stylish baseball collar adds a trendy touch - Available in multiple sizes and colors for a perfect fit - Ideal for casual outings or relaxed gatherings Elevate your wardrobe with this stylish jacket and embrace comfort without sacrificing elegance. Don’t miss out on this must-have piece for your seasonal wardrobe!
-  Updated: 2025-11-21T05:15:50Z
+  Updated: 2025-11-25T20:59:14Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1574,7 +1574,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Mi9eUJ3dCAfsHanV.webp?v=1763659006
     Price: €45.38 EUR
 - [Men's Slim Casual High Collar Solid Color Jacket](https://mdg-9604.myshopify.com/products/mens-slim-casual-high-collar-solid-color-jacket): Elevate your style with our Men's Slim Jacket featuring a high collar design that seamlessly blends sophistication with casual comfort. This jacket is perfect for the modern man who values versatility in his wardrobe. Crafted from high-quality materials, this jacket offers a solid color finish, making it easy to pair with any outfit. Whether you’re heading out for a night on the town or just enjoying a casual day with friends, this jacket will keep you looking sharp and feeling comfortable. Available in a variety of sizes from M to XXXL and a selection of classic colors such as Black, Blue, Green, and Khaki, there’s a perfect fit for everyone. Our jacket features precise measurements for an ideal fit: Check out the stunning visuals that showcase the jacket’s design: Don't miss out on this essential addition to your wardrobe. Grab your Men's Slim Jacket today and redefine your casual style!
-  Updated: 2025-11-21T13:49:44Z
+  Updated: 2025-11-25T20:59:14Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1660,7 +1660,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/PamVMHJxBFnkpuOB.webp?v=1763659076
     Price: €83.32 EUR
 - [Men's Casual Stand Collar Jacket](https://mdg-9604.myshopify.com/products/mens-casual-stand-collar-jacket): Elevate your wardrobe with our Casual Stand Collar Men's Jacket, designed for the modern man who values both style and comfort. Crafted from lightweight polyester fiber, this jacket is perfect for transitional seasons, providing just the right amount of warmth without bulk. Available in a range of sizes from M to 5XL and two classic colors—Black and Khaki—this jacket is tailored to fit every body type. Whether you're dressing up for a night out or keeping it casual for a day of errands, this versatile piece complements any outfit. Key features include: Don't miss out on the opportunity to enhance your style! Check out the stunning images showcasing the jacket's sleek design: With its stylish look and comfortable fit, this jacket is a must-have addition to your wardrobe. Choose your favorite color and size today, and step out in confidence!
-  Updated: 2025-11-21T05:15:53Z
+  Updated: 2025-11-25T20:59:15Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1722,7 +1722,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/sVL8XL34zvcn87pm.webp?v=1763659013
     Price: €62.18 EUR
 - [Plus Size Casual Solid Color Slim Stand-Up Collar Coat](https://mdg-9604.myshopify.com/products/plus-size-casual-solid-color-slim-stand-up-collar-coat): Elevate Your Style with Our Stand-Up Collar Slim Coat Experience the perfect blend of comfort and fashion with our Stand-Up Collar Slim Coat. Designed to flatter all body types, this coat is available in a variety of stunning colors including Khaki, Grey, Black, Dark Blue, and Dark Green. Made from premium rabbit fur, this coat promises warmth without sacrificing style. Its thin section thickness makes it an ideal choice for layering during those transitional seasons. Whether you're heading out for casual errands or enjoying a night on the town, this coat will keep you looking chic and feeling cozy. With a hooded design, you can easily protect yourself from unexpected weather changes. The Korean style adds a modern twist that enhances your overall look. Available in sizes ranging from M to XXXXXL, this coat ensures a perfect fit for everyone. Product Highlights: - Casual, stylish design suitable for various occasions - Made from 100% rabbit fur for maximum comfort and warmth - Multiple color options to match your unique style - Available in a wide range of sizes for the perfect fit Check out our images below to see the beautiful designs and colors in action! Don’t miss out on adding this essential piece to your wardrobe. Embrace style and comfort today with our Stand-Up Collar Slim Coat!
-  Updated: 2025-11-21T07:06:39Z
+  Updated: 2025-11-25T20:59:15Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1824,7 +1824,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/QqQsmjmqhZduxomt.webp?v=1763659114
     Price: €58.57 EUR
 - [Men's Color Block Jacket - Casual Stand Collar Coat](https://mdg-9604.myshopify.com/products/mens-color-block-jacket-casual-stand-collar-coat): Discover the ultimate blend of style and comfort with our Men's New Color-Block Jacket. This trendy jacket is designed for the modern man who values both fashion and functionality. With its loose fit and Korean Edition style, it is perfect for casual outings, making it a must-have addition to your wardrobe. Featuring a zipper placket, this jacket not only looks great but also offers easy wearability. Available in a variety of sizes (M, L, XL, 2XL, 3XL, 4XL) and colors including Black, Coffee, Red, and Khaki, you can find the perfect match for your personal style. The jacket's dimensions are tailored for maximum comfort, with shoulder widths ranging from 40cm to 48cm, bust measurements from 45cm to 53cm, and lengths from 64cm to 70cm. Whether you're heading out for a casual day with friends or dressing up for an evening out, this versatile piece will elevate your look effortlessly. Get ready to turn heads and make a statement with the Men's New Color-Block Jacket—your go-to layer for any occasion!
-  Updated: 2025-11-21T05:16:33Z
+  Updated: 2025-11-25T20:59:15Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -1919,7 +1919,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/AJEkdfZBJ1LCmdbL.webp?v=1763659101
     Price: €73.16 EUR
 - [Men's Stand Collar Solid Color Quilted Cotton Jacket](https://mdg-9604.myshopify.com/products/mens-stand-collar-solid-color-quilted-cotton-jacket): Introducing our latest collection of men's cotton jackets, designed for style and comfort during the chilly winter months. This cardigan-style jacket features a contemporary zipper placket and is filled with high-quality cotton to keep you warm without sacrificing breathability. Available in a variety of vibrant colors including red, black, royal blue, and navy, you can easily find the perfect hue to match your personal style. Our sizes range from S to 3XL, ensuring that every man can find his ideal fit. Please note that Asian sizes are typically 1 to 2 sizes smaller than European and American sizes, so be sure to check our sizing guide. Elevate your winter wardrobe with this stylish and practical jacket that combines functionality with modern aesthetics. Whether you're heading out for a casual outing or need something warm for daily wear, this jacket is the perfect choice.
-  Updated: 2025-11-21T05:36:59Z
+  Updated: 2025-11-25T20:59:15Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -2021,7 +2021,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/TvU9akIGvCzvnV9W.webp?v=1763659181
     Price: €73.54 EUR
 - [Men's Solid Color Stand Collar Zip-Up Jacket](https://mdg-9604.myshopify.com/products/mens-solid-color-stand-collar-zip-up-jacket): Stay warm and stylish with this Men's Stand Collar Zip-Up Vest, designed for comfort and versatility. Made from durable polyester fiber and lined with thick, plush velvet for extra warmth, it's perfect for cooler weather. Material: High-quality polyester fiber for durability and comfort Pattern: Solid color for a sleek, minimalist look Collar: Stand collar to protect against the wind and cold Closure: Full-length zipper for easy wear Available Colors: Black, Wine Red, Orange Red, Brown, Blue Gray, Beige, Light Gray, Dark Gray Thickness: Plus velvet for added insulation Whether for layering over a long-sleeve shirt or under a jacket, this vest is ideal for casual outings, outdoor activities, or commuting in style.
-  Updated: 2025-11-21T07:27:29Z
+  Updated: 2025-11-25T20:59:15Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -2219,7 +2219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/wpMolOz57bdzxYDQV3gB_b062deb8-db57-4351-89f0-233b7320364b.webp?v=1763659486
     Price: €72.42 EUR
 - [Men's Woolen Coat with Velvet Stand Collar for Fall/Winter](https://mdg-9604.myshopify.com/products/mens-woolen-coat-with-velvet-stand-collar-for-fall-winter): Embrace the chill of autumn and winter with our exquisite woolen coat, designed specifically for the modern middle-aged man. This coat combines style and comfort with its casual flair, making it the perfect choice for any occasion. The solid color pattern ensures versatility, allowing you to effortlessly pair this coat with various outfits. Choose from a wide range of 24 variations in color and size to find your perfect match. Whether you prefer the classic Black, the elegant Navy Blue, or the rich Brown and Wine Red, there's a style that suits every taste and preference. The coat features a velvet stand collar that adds a touch of sophistication while providing warmth and protection against the cold. The fleece padded interior ensures that you stay cozy, making it an ideal choice for outdoor activities or casual outings. Elevate your wardrobe with this essential piece that combines functionality with a refined aesthetic. Stay stylish and comfortable all season long with our Middle-aged Men's Woolen Coat.
-  Updated: 2025-11-21T06:15:38Z
+  Updated: 2025-11-25T20:59:16Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -2321,7 +2321,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/t8FOkbgnzfIZNzS1.webp?v=1763659870
     Price: €102.94 EUR
 - [Men's Plus Velvet Leather Casual Stand Up Collar Jacket](https://mdg-9604.myshopify.com/products/mens-plus-velvet-leather-casual-stand-up-collar-jacket): Elevate your casual style with our Men's Stand Up Collar Plus Velvet Leather Casual jacket. Crafted from high-quality PU material, this jacket combines comfort with sophistication, making it a versatile addition to any wardrobe. The standout feature of this jacket is its stand-up collar which not only adds a modern touch but also provides extra warmth on cooler days. Available in two stunning colors, black and wine red, this jacket can easily match any outfit, whether you're heading out for a casual day or dressing up for an evening out. The plus velvet lining ensures a soft feel against your skin, keeping you cozy without compromising on style. With a range of sizes from M to 5XL, you can find the perfect fit that flatters your body type. Each size variation is designed with the same attention to detail, ensuring you look your best no matter your dimensions. Enhance your wardrobe with a piece that stands out for its casual elegance and functionality. Browse through our different color and size options to find the one that speaks to you! Size Information: Don't miss out on the opportunity to own this versatile jacket. Order yours today and step out in style! Here’s a glimpse of the jacket:
-  Updated: 2025-11-21T06:18:24Z
+  Updated: 2025-11-25T20:59:16Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -2439,14 +2439,14 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/XeHoXF00vkR3y6q4.webp?v=1763659798
     Price: €108.86 EUR
 - [Men's Short Harley Leather Jacket, Stand Collar Casual Coat](https://mdg-9604.myshopify.com/products/mens-short-harley-leather-jacket-stand-collar-casual-coat): Experience the perfect blend of style and functionality with our Men's Short Harley Motorcycle Jacket. Crafted from premium first-layer cowhide leather, this jacket is designed for the modern youth who values both aesthetics and durability. The sleek design features a stand collar and straight hem, making it a versatile addition to any wardrobe. With its non-iron treatment, this jacket ensures that you look effortlessly stylish without the hassle of maintenance. The zipper decoration adds a touch of edge, while the soft acetate fiber lining provides comfort throughout the day. Available in classic black, this jacket is not just a piece of clothing; it's a statement of individuality and confidence. Perfect for casual outings or a night on the town, it pairs well with jeans or chinos for a complete look. Elevate your style and embrace the open road with this exceptional leather jacket. Don't miss out on owning a piece that combines quality, style, and comfort all in one!
-  Updated: 2025-11-21T06:20:55Z
+  Updated: 2025-11-25T20:59:16Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/hxNesSGoeOfwWDxQ.webp?v=1763659695
   Price: €357.37 EUR
 - [Color Blocked Slim Stand Collar Long Sleeve Coat](https://mdg-9604.myshopify.com/products/color-blocked-slim-stand-collar-long-sleeve-coat): Embrace the chill of winter with our Color Blocked Slim Stand Collar Long Sleeve Knitted Coat. Crafted from high-quality Acrylic fiber, this coat combines warmth and style, making it the perfect companion for your leisure outings during the colder months. With a modern slim fit, this coat features a trendy stand collar that adds a touch of sophistication to your winter wardrobe. Available in a variety of stunning color combinations such as Black splicing, Blue splicing, Green splicing, Grey splicing, and White splicing, you can easily find the perfect match for your personal style. The coat comes in sizes ranging from M to 2XL, ensuring a comfortable fit for everyone. Below are the measurements to help you choose the right size: Whether you're heading out for a casual day or a cozy night, this coat is designed to keep you warm while ensuring you look effortlessly chic. Pair it with your favorite jeans and boots for a complete winter look. Don’t let the cold weather stop you from showcasing your style. Order your Color Blocked Slim Stand Collar Long Sleeve Knitted Coat today and step out in confidence!
-  Updated: 2025-11-21T05:34:30Z
+  Updated: 2025-11-25T20:59:16Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -2532,7 +2532,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/gsijBYr3sk4L5UWm.webp?v=1763659856
     Price: €61.33 EUR
 - [Women's Casual Long Sleeve Cross-border Sweater](https://mdg-9604.myshopify.com/products/womens-casual-long-sleeve-cross-border-sweater): Step into the season with our Women's Spring and Autumn Casual Sweater – a perfect blend of comfort and style. Crafted for the modern woman, this sweater features an easy-going loose fit that flatters every body type while providing utmost comfort. The long sleeves are ideal for those breezy days when you need just a little extra warmth. Available in a stunning range of colors including pink, yellow, red, gray, black, and blue, you can easily express your unique style. Choose from sizes S through XXXL to find your perfect fit. The collage/stitching craft adds a trendy touch, making this pullover a must-have in your wardrobe. Made with a blend of cotton and acrylic fiber, this sweater not only feels great against your skin but also ensures durability. The ordinary length (50cm applicable) and street hipster style make it versatile enough for both casual outings and cozy nights in. Don't miss out on this stylish essential. Check out the gallery below to see how our sweater can elevate your everyday look!
-  Updated: 2025-11-21T05:35:42Z
+  Updated: 2025-11-25T20:59:16Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -2682,7 +2682,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/9kb2jHiWuVVleMpj.webp?v=1763660001
     Price: €40.95 EUR
 - [Women's Long Sleeve Sweater Dress](https://mdg-9604.myshopify.com/products/womens-long-sleeve-sweater-dress): Elevate your wardrobe with our stunning Long Sleeve Sweater Dress, the perfect blend of style and comfort for every occasion. This dress features a chic pencil skirt design that gracefully hugs your curves, while the wide waist adds a touch of elegance. Available in sizes ranging from S to 3XL, this versatile piece ensures a flattering fit for all body types. Crafted from high-quality polyester, the fabric is both soft and durable, making it ideal for everyday wear. The long sleeves and pullover style provide warmth and ease, allowing you to transition seamlessly from day to night. With a variety of colors to choose from, you can express your unique style while enjoying the classic European and American vibes this dress offers. Whether paired with boots for a casual day out or dressed up with heels for a night on the town, this sweater dress is your new go-to choice. Browse our collection of images to see how this mid skirt dress can be styled in multiple ways, ensuring you always look your best. Don't miss out on this essential addition to your wardrobe!
-  Updated: 2025-11-21T07:43:48Z
+  Updated: 2025-11-25T20:59:17Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -2888,7 +2888,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/cIdUWxFLhVEm2ilF.webp?v=1763660318
     Price: €42.01 EUR
 - [Loose Long Sleeve Women's Sweater](https://mdg-9604.myshopify.com/products/loose-long-sleeve-womens-sweater): Elevate your wardrobe with our Women's Sweater Loose Long Sleeve, a perfect blend of comfort and style that every woman needs. This chic pullover is designed to offer a relaxed fit, making it an ideal choice for casual outings or cozy nights in. Available in a variety of stunning colors, including Black, Gray, and Beige, you can easily find the perfect shade to match your personal style. Crafted from high-quality polyester, this sweater ensures durability while maintaining a soft touch against your skin. The long sleeves provide an extra layer of warmth, making it a versatile piece for all seasons. Featuring a unique 3D/stereo pattern, it adds a fashionable twist to your everyday look. Designed with your comfort in mind, this sweater is available in sizes ranging from S to XXL. Please note that Asian sizes may differ, so we recommend checking our size chart to ensure the perfect fit. If you find yourself between sizes, opting for the larger size is always a safe choice. Whether you're dressing up for a night out or keeping it casual, this pullover is a must-have addition to your collection. Don't miss out on the chance to experience style and comfort like never before! Packing List:1 x Women's Sweater Loose Long Sleeve Product Images:
-  Updated: 2025-11-21T08:23:50Z
+  Updated: 2025-11-25T20:59:17Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3094,7 +3094,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/h4xP2XYQYjrlHuQG.webp?v=1763660332
     Price: €52.51 EUR
 - [Women's Long Sleeve Love Sweater](https://mdg-9604.myshopify.com/products/womens-long-sleeve-love-sweater): Stay cozy and stylish with this women's long-sleeve sweater featuring a charming love pattern. Made from soft acrylic fabric, it offers a loose, comfortable fit that’s perfect for everyday wear. Available in a variety of vibrant and neutral colors, including pink, yellow, red, purple, gray, black, and white beige, this sweater adds a touch of warmth and personality to your wardrobe.Designed with versatility in mind, it pairs effortlessly with jeans, skirts, or leggings for casual outings or relaxed evenings. Available in sizes S to XL, it caters to different fits while maintaining its chic and laid-back appeal. Perfect for keeping cozy while showcasing your unique style.
-  Updated: 2025-11-21T05:37:26Z
+  Updated: 2025-11-25T20:59:17Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3212,7 +3212,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/kfbTa5ldxbasiBkz.webp?v=1763660125
     Price: €66.88 EUR
 - [Long Sleeve Women's Sweater](https://mdg-9604.myshopify.com/products/long-sleeve-womens-sweater): DescriptionMaterial: ClothProduct Attributes: ClothesPackage Size: 300*200*30(1mm) Product information:Pattern: stripes/PlaidColor: apricot, white, black, blue, rose RedSize: S,M,L,XL,XXLVersion: LooseStyle type: temperament commuteCombination form: Single piecePopular elements: zipperStyle: pulloverThickness: mediumFabric name: CottonSleeve type: batwing sleeveMain fabric composition: CottonLength: ordinary (50cm Applicable Gender: FemaleSleeve length: long sleeveStyle: commute styleCraft: collage/stitching Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list:Sweatshirt × 1 piece
-  Updated: 2025-11-21T06:23:09Z
+  Updated: 2025-11-25T20:59:17Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3318,7 +3318,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/ff3ZCAYpH2dWDV0W.webp?v=1763660204
     Price: €51.11 EUR
 - [Cross-Border Exclusive Women's Long Sleeve Knit Sweater](https://mdg-9604.myshopify.com/products/cross-border-exclusive-womens-long-sleeve-knit-sweater): Elevate your wardrobe with our exquisite long-sleeve knitted sweater, designed specifically for the modern woman who values both style and comfort. Crafted from high-quality acrylic, this sweater is not only soft against the skin but also ensures durability for long-lasting wear. Available in a variety of stunning colors, including White, Khaki, Pink, and Grey, you can choose the perfect hue to match your unique style. This versatile piece is offered in a range of sizes from S to XXL, ensuring a flattering fit for everyone. Whether you're dressing up for a night out or keeping it casual for a day in, this sweater is the perfect choice. Experience the blend of comfort and elegance that our knitted sweater brings to your collection. Don't miss out on this must-have piece!
-  Updated: 2025-11-21T06:52:03Z
+  Updated: 2025-11-25T20:59:17Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3404,7 +3404,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/1JTrY8eWk9uCT1BG.webp?v=1763660285
     Price: €47.07 EUR
 - [Outdoor Folding Knife - High-Strength Survival Tool](https://mdg-9604.myshopify.com/products/outdoor-folding-knife-high-strength-survival-tool): Discover the ultimate companion for your outdoor adventures with our Folding Knife. Designed for durability and functionality, this knife is perfect for camping, survival, and everyday tasks. Specifications: - Total Length: 16.5 cm - Blade Length: 7 cm - Blade Material: 3cr 15mov - Handle Material: 3cr 15mov - Color Options: Available in Black and White - Technology: Blackening for enhanced durability Whether you're out in the wilderness or need a reliable tool at home, this multi-functional knife is designed to meet all your needs. Its compact size makes it easy to carry, while the high hardness of the blade ensures it can handle tough tasks with ease. Browse through our images to see the sleek design and versatile features of this knife. It's not just a tool; it's a must-have for any outdoor enthusiast! Don't miss out on the opportunity to own a high-quality folding knife that combines practicality with style. Gear up for your next adventure today!
-  Updated: 2025-11-21T13:47:15Z
+  Updated: 2025-11-25T20:59:18Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3418,7 +3418,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/VSnTRXRU8xvUoWyL.webp?v=1763660362
     Price: €29.55 EUR
 - [High Performance Gravity Hook - Multifunctional Stainless Steel (One Set)](https://mdg-9604.myshopify.com/products/high-performance-gravity-hook-multifunctional-stainless-steel-one-set): Discover the ultimate High Performance Gravity Hook, designed for adventurers and outdoor enthusiasts alike! This multifunctional tool is crafted from durable stainless steel, ensuring longevity and reliability during your outdoor activities. With dimensions of 8.5 * 4.5cm and 13.5 * 9cm, this gravity hook is perfectly sized for a variety of uses, from fishing to climbing. Whether you're scaling a rocky cliff or securing your gear, this hook will meet your needs with ease. The versatility of the High Performance Gravity Hook makes it a must-have for any outdoor kit. Choose from three unique variations to suit your specific requirements: Get ready to enhance your survival skills and outdoor adventures with this cutting-edge tool. The High Performance Gravity Hook is not just a tool; it's your reliable partner in every expedition. Don’t miss out on the opportunity to own this essential gear! Elevate your outdoor experience with the High Performance Gravity Hook and get ready for your next adventure!
-  Updated: 2025-11-21T07:13:16Z
+  Updated: 2025-11-25T20:59:18Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3433,14 +3433,14 @@
     Availability: Available
     Price: €25.76 EUR
 - [Outdoor Climbing Multi-Functional Stainless Steel Hook](https://mdg-9604.myshopify.com/products/outdoor-climbing-multi-functional-stainless-steel-hook): Explore the great outdoors with our Multi-functional Climbing Hook, designed specifically for the adventurous souls who love to conquer mountains and rock faces. Crafted from high-quality 304 stainless steel, this robust climbing hook offers unparalleled strength and reliability, ensuring you can tackle any challenge with confidence. Measuring 15cm x 9cm, this climbing accessory is perfectly sized for your climbing needs. The set includes a main claw, an auxiliary hook, four rubber rings, and comes packaged in a special export paper box for easy transport and storage. With a weight of just 0.7kg, this climbing hook is lightweight yet incredibly strong, making it an essential part of any climber's gear. Whether you're scaling rocky cliffs or navigating through challenging terrains, our Multi-functional Climbing Hook will provide the support you need. Don’t miss out on this essential climbing tool! Get ready to elevate your outdoor experience with our reliable and stylish Black Climbing Hook.
-  Updated: 2025-11-21T14:19:31Z
+  Updated: 2025-11-25T20:59:18Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/hW2c0M3yevV4qPyV.webp?v=1763660385
   Price: €72.72 EUR
 - [New Solar Multi-Functional Camping Lantern with Charger](https://mdg-9604.myshopify.com/products/new-solar-multi-functional-camping-lantern-with-charger): Illuminate your outdoor adventures with our new solar-powered multifunctional camping lantern. Designed for versatility and convenience, this retractable lamp is perfect for any camping trip, backyard gathering, or emergency situation. Featuring a bright LED light source and a stretchable design, this lantern provides adjustable lighting to suit your needs. Whether you need it for cooking, reading, or creating ambiance, it has you covered. Powered by solar energy, you can enjoy bright illumination without worrying about battery life. Available in three stunning colors: gold, blue, and black, this lantern not only serves a practical purpose but also enhances the aesthetic of your outdoor setup. Choose from EU and US plug options to ensure compatibility with your gear. Check out the images below to see its stylish design and functionality in action: Don't miss out on the opportunity to enhance your outdoor experience with this versatile camping lantern. Order yours today and be prepared for your next adventure!
-  Updated: 2025-11-21T06:02:43Z
+  Updated: 2025-11-25T20:59:18Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3470,14 +3470,14 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/ixej1HeXO8R3w3Hj.webp?v=1763660484
     Price: €46.94 EUR
 - [Multifunctional Outdoor Shovel with Fire Starter](https://mdg-9604.myshopify.com/products/multifunctional-outdoor-shovel-with-fire-starter): Discover the ultimate companion for your outdoor adventures with our Multi-Functional Outdoor Shovel. Designed for survival and practicality, this foldable military-grade shovel is perfect for camping, hiking, and emergency situations. With a total length of 68cm and a lightweight design of just 1000g, it’s easy to carry and store. The sleek dark grey color adds a touch of style, while the durable 3CR13 material ensures robust performance in any environment. Crafted using CNC manufacturing processes, this shovel is built to last. Its versatile design allows you to tackle various tasks, from digging to cutting, making it an essential tool for any outdoor enthusiast. Whether you're setting up camp, starting a fire, or navigating through tough terrain, this shovel is your reliable partner. Don't miss out on this essential piece of equipment for your next expedition. Equip yourself with our Multi-Functional Outdoor Shovel and conquer the great outdoors with confidence!
-  Updated: 2025-11-21T06:25:40Z
+  Updated: 2025-11-25T20:59:18Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/pXqzc95D2ALbQz1J.webp?v=1763660416
   Price: €105.67 EUR
 - [Explorer 40x60 High-Definition Waterproof Telescope](https://mdg-9604.myshopify.com/products/explorer-40x60-high-definition-waterproof-telescope): Discover the wonders of the universe with our 40x60 Monocular Telescope, designed specifically for adventurous children and curious minds alike. This high-definition telescope offers exceptional clarity and detail, making it perfect for stargazing, birdwatching, or exploring the great outdoors. Its compact design ensures easy portability, so you can take it anywhere your explorations lead you. Whether you're camping under the stars or simply observing nature, this telescope delivers stunning visuals with its impressive 40x magnification and 60mm objective lens. Built to withstand the elements, this telescope is waterproof and designed for low-light conditions, so you can enjoy the night sky without worry. The included tripod and mobile phone holder (available in select variations) make it easier than ever to capture stunning photos and videos of your observations. Choose from multiple styles, including classic black and vibrant green options, to suit your preferences. With a lightweight construction of only 0.28 kg, it's perfect for young explorers who are eager to embark on their next adventure. Each variation comes with precise specifications, ensuring that you get the best performance tailored to your needs. Don't miss out on the chance to inspire a love for nature and exploration in your child. Grab your 40x60 Monocular Telescope today and start exploring the world like never before!
-  Updated: 2025-11-21T05:42:01Z
+  Updated: 2025-11-25T20:59:19Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3499,21 +3499,21 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/YY0GZ8GCpclIcHbd.webp?v=1763660459
     Price: €39.42 EUR
 - [High Magnification HD Monocular Telescope](https://mdg-9604.myshopify.com/products/high-magnification-hd-monocular-telescope): Experience the world from a whole new perspective with our high-performance monocular telescope. Designed for both amateur and professional use, this 10-30x25 model offers remarkable magnification capabilities, allowing you to adjust the zoom from 10 times to 30 times with ease. Whether you're birdwatching, hiking, or stargazing, you'll love the clarity and detail this telescope provides. The eyepiece diameter of 13mm and the objective lens diameter of 25mm ensure a bright and clear view. With advanced Bk4 prisms and a multi-layer broadband green film coating, your images will be vibrant and distortion-free. The compact design, with a shrunk size of 127mm x 32mm x 32mm and an elongated size of 200mm x 32mm, makes it easy to carry on any adventure. This telescope features a flexible focusing method that includes both stretching and rotating focus options, ensuring you can quickly hone in on your target. Made from imported aluminum alloy, it is lightweight yet durable, perfect for any outdoor activity. The field of view varies from 3.5° at 10x to 2.0° at 30x, providing a wide range of viewing angles. Additionally, it supports a tripod interface for those moments when you need extra stability. Ideal for various environmental conditions, this telescope can be stored between 20℃ and 25℃ with a humidity level of 65% or less. Enhance your adventures and take your observations to the next level with our powerful monocular telescope. Grab yours today and explore the beauty of the world around you!
-  Updated: 2025-11-21T10:03:57Z
+  Updated: 2025-11-25T20:59:19Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/uM6ztFdxSFfn2b8b.webp?v=1763660438
   Price: €60.27 EUR
 - [Phoenix F36050M Telescope - Outdoor Monocular](https://mdg-9604.myshopify.com/products/phoenix-f36050m-telescope-outdoor-monocular): Discover the wonders of the universe with our Phoenix F36050M Mini Astronomical Telescope. This high-performance single-tube telescope is perfect for outdoor enthusiasts and budding astronomers alike. Crafted with optical glass, this telescope promises clear and crisp images of celestial bodies. With a focal length of 360mm and an active aperture of 50mm (2.4 inches), you can explore the night sky like never before. The telescope features two eyepieces, H20mm and H6mm, allowing you to switch between different magnifications to suit your viewing needs. The 90-degree oblique mirror design ensures comfortable viewing angles, while the theoretical resolution of 2.000 arc seconds allows you to see fine details in distant objects. Whether you’re stargazing or observing wildlife, this versatile telescope is ready for any adventure. With a tripod height of 34cm, you can easily set up your telescope for stable viewing. Lightweight and portable, it’s the perfect companion for your outdoor excursions. Elevate your outdoor experiences and explore the cosmos with the Phoenix F36050M Mini Astronomical Telescope. Perfect for all skill levels, this telescope is your gateway to the stars!
-  Updated: 2025-11-21T05:41:21Z
+  Updated: 2025-11-25T20:59:19Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/VSbWpgaLlbeoViO0.webp?v=1763660454
   Price: €83.10 EUR
 - [Monocular Telescope for Bird Watching](https://mdg-9604.myshopify.com/products/monocular-telescope-for-bird-watching): Explore the great outdoors like never before with our high-definition monocular telescope from Moge. Weighing just 1.245kg, this lightweight and portable device is perfect for birdwatching, hiking, or any outdoor adventure where you want to see the world from a new perspective. Featuring an impressive magnification of over 10 times, this zoom telescope allows you to observe distant objects with remarkable clarity. Whether you are a seasoned birdwatcher or a casual nature enthusiast, you will appreciate the high-resolution capabilities that bring distant wildlife into stunning focus. Choose between two versatile styles: the model with handle for easy maneuverability, or the tripod with handle for stable, hands-free viewing. Both options are designed to enhance your experience, making it easy to capture every detail in nature. Don't miss out on the chance to elevate your outdoor experiences. Check out our product images below to see the telescope in action and imagine yourself exploring the beauty of nature through its lens!
-  Updated: 2025-11-21T07:44:57Z
+  Updated: 2025-11-25T20:59:19Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3527,7 +3527,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/sRY6XDx07bcWh180.webp?v=1763660575
     Price: €173.83 EUR
 - [Full Face Dry Snorkel Mask for Swimming and Diving Gear](https://mdg-9604.myshopify.com/products/full-face-dry-snorkel-mask-for-swimming-and-diving-gear): Dive into adventure with our Full Dry Diving Mask by Matsuxin! Designed for both adults and children, this innovative mask ensures a comfortable and leak-proof experience under water. Available in vibrant colors such as Black, Blue, Pink, and Green, you can customize your look while exploring the depths of the ocean. Crafted from high-quality materials, including an imported PC mirror and food-grade silicone lining, the mask boasts a telescopic cloth belt for easy wear that won’t snag your hair. Its unique anti-fog and waterproof structure utilizes an exhaust fan principle design to effectively combat fogging, while a top valve automatically closes upon entering the water, keeping you dry and comfortable. Lightweight and durable, this mask is available in various sizes: S/M, L/XL, and XS, making it perfect for the entire family. Weighing as little as 460 grams for children and up to 632 grams for adults, it won’t weigh you down during your aquatic adventures. Perfect for snorkeling, diving, or simply enjoying a day at the beach, our Full Dry Diving Mask is designed to enhance your underwater experience. Explore the beauty of the ocean with confidence and style!
-  Updated: 2025-11-21T05:42:17Z
+  Updated: 2025-11-25T20:59:19Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3581,7 +3581,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/FuHAA7WuoL6A2aom.webp?v=1763660591
     Price: €68.10 EUR
 - [Full Dry Snorkel Mask Set for Adults - Anti-Fog](https://mdg-9604.myshopify.com/products/full-dry-snorkel-mask-set-for-adults-anti-fog): Experience the underwater world like never before with our full dry snorkel mask set. Designed for adults, this premium snorkeling gear ensures that your adventures are both safe and enjoyable. With a focus on comfort and performance, this set comes equipped with an innovative dry-top snorkel that prevents water from entering, allowing you to breathe freely and comfortably. Lightweight and Compact: Weighing in at just 220G for the diving goggles and 185G for the snorkel, this set is perfect for travel. The compact design, measuring 17*11*7CM for the goggles and 45*5*11CM for the snorkel, fits snugly in your backpack or beach bag. Variety of Colors: Choose from a vibrant selection of colors including yellow, pink, and blue, ensuring that you not only look great but also stand out in the water. Each set is designed to suit all sizes, making it versatile for every adventurer. High-Quality Materials: Our snorkeling gear is constructed with durable materials that enhance visibility and minimize fogging, ensuring a clear view underwater. The sleek design not only looks stylish but also provides an excellent fit to keep you comfortable during your snorkeling sessions. Whether you're a beginner looking to explore the ocean or a seasoned snorkeler, this full dry snorkel mask set is your perfect companion. Dive into your next adventure with confidence and style!
-  Updated: 2025-11-21T05:57:45Z
+  Updated: 2025-11-25T20:59:19Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3615,7 +3615,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/VtMyUmDWfrctMdVi.webp?v=1763660580
     Price: €53.54 EUR
 - [THENICE Kids Full Dry Snorkel Mask for Swimming](https://mdg-9604.myshopify.com/products/thenice-kids-full-dry-snorkel-mask-for-swimming): Discover the ultimate underwater adventure with our THENICE Snorkeling Mask. Designed for comfort and performance, this mask is perfect for both children and adults who love swimming and exploring the ocean. Made from high-quality PC and liquid silicone, it ensures a snug fit while keeping you comfortable during your aquatic escapades. The mask features a full dry design that prevents water from entering, allowing you to enjoy your snorkeling experience without interruptions. Its anti-fog technology guarantees a clear view, so you can take in all the beauty that the underwater world has to offer. Available in a variety of vibrant colors, including Pink-KF3, Blue-KF3, Green-KF2, Light Blue-KF4, Orange-KF3, Gray-KF3, and Wine Red-KF3, there's a perfect style for everyone. Our XS size is ideal for kids, ensuring a perfect fit for young adventurers. Weighing just 0.720 kg, this lightweight mask is easy to carry and perfect for travel. Whether you're heading to the beach, pool, or planning a tropical getaway, the THENICE Snorkeling Mask is your go-to swimming companion. Embrace the thrill of snorkeling with confidence and style. Dive into your next adventure with the THENICE Snorkeling Mask!
-  Updated: 2025-11-21T06:22:29Z
+  Updated: 2025-11-25T20:59:20Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3653,7 +3653,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/zyQezzJBSOfAeP5Z.webp?v=1763660656
     Price: €81.08 EUR
 - [Adult Full Face Snorkel Mask and Breathing Tube Set](https://mdg-9604.myshopify.com/products/adult-full-face-snorkel-mask-and-breathing-tube-set): Dive into the underwater world with our Cross-Border Freediving Mask and Snorkel Set, designed for both men and women. Whether you are an avid snorkeler or a deep diving enthusiast, this set is your perfect companion for exploring the vibrant marine life. Crafted from high-quality silicone, this mask ensures a comfortable fit and a secure seal, allowing you to enjoy your underwater adventures without worries. Its large frame design provides an expansive field of vision, so you won't miss any of the beautiful sights beneath the surface. With a range of stunning colors to choose from, including CR-yellow, CR-transparent black, and CR-Lake Blue, you can express your personal style while making a statement in the water. The set comes with a full-dry snorkel, designed to prevent water from entering, ensuring a hassle-free experience. Its lightweight design (only 0.5 kg) makes it easy to carry, while the compact size (Length: 17cm, Width: 9cm, Thickness: 7cm) fits perfectly in your diving gear. Don't let anything hold you back from exploring the depths! This versatile set is perfect for snorkeling and deep diving. Equip yourself with our Cross-Border Freediving Mask and Snorkel Set and make your aquatic adventures unforgettable.
-  Updated: 2025-11-21T06:35:35Z
+  Updated: 2025-11-25T20:59:20Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3703,7 +3703,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/yNQT963gWFIManOE.webp?v=1763660715
     Price: €56.46 EUR
 - [Snorkeling Gear Set: Dry Snorkel, Silicone Mask, Fins](https://mdg-9604.myshopify.com/products/snorkeling-gear-set-dry-snorkel-silicone-mask-fins): Dive into adventure with our Snorkeling Equipment Diving Three Treasures, featuring a full dry snorkel and silicone myopia goggles. This set is designed for both comfort and performance, ensuring that your underwater experience is as enjoyable as possible. Available in a vibrant array of colors including pink, blue, yellow, black, and red, you can express your personal style while exploring the depths of the ocean. Our goggles are constructed with a durable polycarbonate frame, complemented by a soft silicone mask and headband for a secure fit, while the 4mm thick tempered glass lens provides clarity and protection against the elements. The snorkel is crafted from PVC for the body, with a polycarbonate section and a comfortable silicone mouthpiece, ensuring easy breathing and minimal water entry. Choose from a variety of sizes to ensure the perfect fit: Whether you are a novice or an experienced snorkeler, our kit equips you with everything you need for an unforgettable aquatic experience.
-  Updated: 2025-11-21T06:06:19Z
+  Updated: 2025-11-25T20:59:20Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3769,35 +3769,35 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/TbBw6xZkW59fQ3a5.webp?v=1763660704
     Price: €72.56 EUR
 - [Outdoor Handheld Rope Climbing Device and Ascender](https://mdg-9604.myshopify.com/products/outdoor-handheld-rope-climbing-device-and-ascender): Experience the thrill of climbing with our innovative Right Hand Riser, designed specifically for outdoor enthusiasts and professionals alike. Crafted from hot forging magnesium aluminum alloy, this climbing device is not only lightweight at just 236 grams but also incredibly durable, ensuring safety and reliability during your adventures. Whether you're mountaineering, rock climbing, or engaged in SRT altitude operations, this riser is engineered to meet your needs. Its ergonomic design provides excellent grip and control, making it an indispensable tool for fire rescue training and outdoor climbing activities. With a sleek blue color, this climbing device is as stylish as it is functional. Take your climbing experience to new heights with equipment that prioritizes both performance and safety. Don't miss out on this essential climbing gear. Check out the stunning visuals below to see the Right Hand Riser in action!
-  Updated: 2025-11-21T05:55:57Z
+  Updated: 2025-11-25T20:59:20Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/4d6nnKPfvE1L8W1z.webp?v=1763660640
   Price: €78.38 EUR
 - [7-in-1 Multifunctional Whistle and Compass Survival Tool](https://mdg-9604.myshopify.com/products/7-in-1-multifunctional-whistle-and-compass-survival-tool): Introducing the ultimate outdoor companion – a seven-in-one multifunctional survival whistle designed for adventurers and outdoor enthusiasts alike. This essential gear not only serves as a whistle but also features a built-in compass, ensuring you never lose your way in the wild. The whistle comes in a stylish army green color and has a compact size, measuring 9.7cm in length and 2.8cm in diameter. Crafted from high-strength ABS material, it is engineered to withstand the harshest conditions, making it both anti-fall and high-temperature resistant. Weighing just 50g, this lightweight whistle is easy to carry on all your outdoor adventures, whether you're camping, hiking, or exploring. Its robust construction ensures durability, giving you peace of mind as you navigate through nature. Equip yourself with this indispensable tool and embrace the great outdoors with confidence!
-  Updated: 2025-11-21T05:44:35Z
+  Updated: 2025-11-25T20:59:20Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Ldhc6hH1Jb3MzlvV.webp?v=1763660652
   Price: €16.83 EUR
 - [Plastic Casing Compass - American Style Outdoor Multi-Function](https://mdg-9604.myshopify.com/products/plastic-casing-compass-american-style-outdoor-multi-function): Explore the great outdoors with our Army Green Plastic Compass, designed for adventurers and outdoor enthusiasts alike. This multi-functional compass combines practicality with style, making it the perfect companion for your hiking, camping, or survival needs. Crafted with a durable aluminum alloy shell and featuring a robust plastic casing, this compass is built to withstand the rigors of outdoor use. The lightweight design, weighing only 55g, ensures that it won’t weigh you down during your adventures. With an open size of 146X58X28mm and a compact folded size of 77x58x28mm, this compass is easy to carry and fits perfectly in your pocket or backpack. Whether you're navigating through dense forests or open terrains, the precision of the built-in magnet guarantees accurate readings. Each compass comes neatly packaged in a bubble bag within a color box, making it an excellent gift for outdoor lovers. Don’t miss out on the chance to enhance your outdoor experience with this essential tool!
-  Updated: 2025-11-21T05:55:19Z
+  Updated: 2025-11-25T20:59:20Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/5cXGYomHASye189e.webp?v=1763660660
   Price: €31.36 EUR
 - [Compass and Inclination Meter with Degree Scale](https://mdg-9604.myshopify.com/products/compass-and-inclination-meter-with-degree-scale): Discover the ultimate companion for your outdoor adventures with our slope compass. Designed for enthusiasts of hiking, camping, rock climbing, and biking, this innovative tool ensures you navigate with precision and confidence. Crafted from a robust zinc alloy casing and featuring a luminous dial, this compass is not only durable but also easy to read in low light conditions. Its compact size of 100 * 66 * 34 mm makes it portable and convenient to carry in your backpack or pocket. Key Features: Whether you're charting a new trail or navigating through complex terrains, our slope compass will be your reliable guide. With its striking army green color, this slope compass is not just functional but also stylish. Embrace the great outdoors with confidence, equipped with a tool designed to enhance your exploration experience.
-  Updated: 2025-11-21T05:55:26Z
+  Updated: 2025-11-25T20:59:21Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/vFoiDbvkxwYC4aBb.webp?v=1763660663
   Price: €52.10 EUR
 - [Multifunctional Outdoor Compass Watch with Survival Tools](https://mdg-9604.myshopify.com/products/multifunctional-outdoor-compass-watch-with-survival-tools): Discover the ultimate companion for your outdoor adventures with our multifunctional paracord bracelet. This innovative piece is not just a fashionable accessory; it packs a punch with its comprehensive survival features that are essential for any camping or hiking enthusiast. Equipped with a compass for navigation, a fire starter to ignite your campfire, a thermometer to keep track of temperatures, and a whistle for emergency situations, this bracelet ensures you are prepared for anything nature throws your way. With a length that adjusts between 23cm to 27cm, it fits comfortably on your wrist and is made from durable materials that ensure longevity in rugged conditions. The paracord can also be unraveled for various uses, making it a multifunctional tool in emergencies. Available in a variety of colors, including Black, Army Green, Army Green Red Camouflage, and Khaki, you can select the one that best matches your style and needs. Weighing only 84g, this lightweight bracelet is easy to carry without adding bulk to your gear. Whether you're hiking through the mountains, camping under the stars, or simply enjoying a day outdoors, this bracelet is designed to enhance your experience and ensure your safety.
-  Updated: 2025-11-21T07:30:24Z
+  Updated: 2025-11-25T20:59:21Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3819,7 +3819,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/YEpzvOEWmpy5BGfO.webp?v=1763660740
     Price: €24.28 EUR
 - [Outdoor Paracord Watch with Compass for Travel](https://mdg-9604.myshopify.com/products/outdoor-paracord-watch-with-compass-for-travel): Discover the ultimate outdoor companion with the Ledao Outdoor Seven-Core Umbrella Rope Braided Watch. This multifunctional survival watch is designed for men who seek adventure while staying prepared for emergencies. Whether you're hiking, camping, or traveling, this portable watch is equipped with essential tools to ensure your safety and convenience. Unmatched Versatility: With a lightweight design of just 50 grams and dimensions of 25*4*1.5 cm, this watch combines practicality with style. It features a variety of functions including: Reliable and Safe: This watch is powered by a rechargeable battery with a voltage of 3.7V and a capacity of 120mAh, ensuring long-lasting performance. It features a main light power of 0.25W and impressive brightness levels of 28,000-30,000 MCD, making it an effective tool in low-light conditions. Crafted from durable materials, this watch includes a paracord that serves as a vital survival tool. Paracord is not just a stylish accessory; it can be used for building shelters, repairing gear, making traps, starting fires, and much more. Originally used in military parachutes, this lightweight yet strong rope is a must-have for anyone who enjoys outdoor activities. Choose Your Style: Available in six striking colors—Black, Orange Black, Army Green, Military Fans, Mountain, and Brown—this watch can match your personal style while providing essential functionality. Prepare for your next adventure with the Ledao Outdoor Seven-Core Umbrella Rope Braided Watch—where style meets survival!
-  Updated: 2025-11-21T13:46:47Z
+  Updated: 2025-11-25T20:59:21Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3849,7 +3849,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/lmdZreuMo8d8TNr8.webp?v=1763660733
     Price: €36.31 EUR
 - [Stylish Men's Sports Watch with Altimeter and Compass](https://mdg-9604.myshopify.com/products/stylish-mens-sports-watch-with-altimeter-and-compass): Elevate your style and functionality with our 松路时尚运动手表, designed specifically for the modern man who values both aesthetics and performance. This exceptional timepiece features a 304 stainless steel case, ensuring durability while exuding a sophisticated look. The full touch screen design allows for effortless navigation, while the alarm reminder function keeps you punctual throughout your busy day. Need to time an event? Utilize the built-in countdown function for precise control. Stay informed with the battery level reminder function, and never be left in the dark again thanks to the EL backlight function. With USB charging, this watch boasts a remarkable standby time of up to 3 months, making it perfect for long adventures. Ready for any situation, this watch is 10ATM waterproof, allowing you to take on any challenge without worry. Available in three striking colors: Grass Green, Black, and Army Green, there's a perfect style for everyone. Check out the stunning visuals below to see how this watch complements your active lifestyle:
-  Updated: 2025-11-21T06:08:27Z
+  Updated: 2025-11-25T20:59:21Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3867,56 +3867,56 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/X5jwIdDC9ZAW3UBG.webp?v=1763660726
     Price: €208.17 EUR
 - [8-in-1 Handheld Electronic Altimeter with Compass](https://mdg-9604.myshopify.com/products/8-in-1-handheld-electronic-altimeter-with-compass): Experience the great outdoors like never before with our 8-in-1 Handheld Electronic Altimeter. This compact and lightweight device is designed for adventurers who seek precision and functionality while hiking, fishing, or just exploring the wilderness. Equipped with an altimeter that measures altitudes from -700 to 9000 meters (or -2300 to 29500 feet), this device allows you to track your elevation with ease. Keep a record of your adventures with a remarkable 256 historical records feature. Navigate effortlessly with the built-in compass that displays bearings in degrees and base points. Additionally, the thermometer provides temperature readings in both °C and °F, ensuring you’re always prepared for the elements. The integrated clock gives you the option of a 12 or 24-hour format, making timekeeping simple and convenient. Its compact size of 90x50x20mm ensures portability, allowing you to carry it easily on all your journeys. Made from durable ABS material, this device is built to withstand the rigors of outdoor activities. Each purchase includes one 8-in-1 digital altimeter, ready to assist you in your next adventure. Don’t miss out on this essential tool for any outdoor enthusiast!
-  Updated: 2025-11-21T06:32:58Z
+  Updated: 2025-11-25T20:59:21Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/ZtocRdCacWHxTqq7.webp?v=1763660723
   Price: €49.96 EUR
 - [North Moon Prostate Care Capsules for Men's Health](https://mdg-9604.myshopify.com/products/north-moon-prostate-care-capsules-for-mens-health): Introducing the North Moon Qianliekang Capsules - your ultimate solution for alleviating male discomfort and enhancing overall well-being. These specially formulated capsules are designed to support men's health by promoting kidney warmth and maintaining a harmonious balance in the body. Each pack contains 7 capsules, meticulously crafted for export sales only, ensuring quality and efficacy. These capsules are not just an ordinary supplement; they are a blend of traditional wisdom and modern science aimed at nurturing your body from the inside out. Experience the difference with North Moon Qianliekang Capsules as you embark on a journey towards greater health and vitality. Say goodbye to discomfort and hello to a rejuvenated lifestyle. Don't wait any longer. Elevate your well-being with our expertly formulated capsules and feel the transformation today!
-  Updated: 2025-11-21T15:19:25Z
+  Updated: 2025-11-25T20:59:22Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/YUWtHTGjHKPDzljY.webp?v=1763660758
   Price: €32.29 EUR
 - [QTTO BIG XXL Men's Intimate Care and Massage Products](https://mdg-9604.myshopify.com/products/qtto-big-xxl-mens-intimate-care-and-massage-products): Discover the ultimate in personal care with our QTTO Hong Kong BIG XXL Male Care Cream. This innovative product is specially formulated using Chinese herbal paste to provide exceptional maintenance and exercise for your most intimate areas. Designed for those who value their health and well-being, this nursing care cream not only enhances personal hygiene but also promotes optimal performance. The striking red color of the cream signifies its strength and efficacy, ensuring you feel confident and revitalized. With a focus on functionality, this cream serves as an essential companion for upkeep and enhancement. Whether you're looking to maintain or improve your intimate health, this product is your go-to solution. Featuring a convenient size of 140mm x 60mm and weighing just 0.95kg, it's easy to store and travel with. Elevate your personal care routine today with QTTO’s BIG XXL Male Care Cream!
-  Updated: 2025-11-21T06:24:55Z
+  Updated: 2025-11-25T20:59:22Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Y31JJ9qKLjvBxfQU.webp?v=1763660775
   Price: €81.65 EUR
 - [South Moon Comfort Patches for Seniors' Health Care](https://mdg-9604.myshopify.com/products/south-moon-comfort-patches-for-seniors-health-care): Introducing the South Moon Tangshu Tie, a specialized personal care solution designed for middle-aged and senior individuals. This unique product features 12 individual patches that provide soothing relief for discomfort and can help alleviate feelings of thirst. Each patch is formulated with care, utilizing a gentle sugar paste that is specifically designed to enhance your well-being. Please note that these patches are exclusively available for export sales and are prohibited for domestic sales, ensuring you receive a product tailored for international health needs. The South Moon Tangshu Tie is easy to use and can be applied directly to the navel area, allowing for effective absorption of its beneficial properties. Whether you're seeking relief from discomfort or simply looking to enhance your personal care routine, these patches are the perfect addition. Experience the benefits of traditional body care with a modern twist. Order your pack of 12 today and discover a new level of comfort and hydration!
-  Updated: 2025-11-21T06:24:51Z
+  Updated: 2025-11-25T20:59:22Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/y0Ong5dvV09QIsM3.webp?v=1763660787
   Price: €16.25 EUR
 - [Venous Vascular Care Cream (One Tube)](https://mdg-9604.myshopify.com/products/venous-vascular-care-cream-one-tube): Experience the rejuvenating power of maikang cream, specially formulated for effective varicocele care. This 20g tube is packed with essential ingredients designed to promote the health of your venous vascular system. Whether you're seeking relief from discomfort or simply wanting to maintain optimal vascular health, this cream is your go-to solution. With its convenient 1pcs packaging, this cream is easy to carry and apply, making it ideal for both home use and on-the-go care. Say goodbye to worries about your vascular health and embrace the soothing effects of maikang cream. Your veins deserve the best, and this cream delivers just that!
-  Updated: 2025-11-21T05:46:55Z
+  Updated: 2025-11-25T20:59:22Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/budIcADpUi5ND0Oa.webp?v=1763660811
   Price: €30.24 EUR
 - [Photon Skin Paste Infrared Health Care Device](https://mdg-9604.myshopify.com/products/photon-skin-paste-infrared-health-care-device): Key FeaturesSkin Benefits: Hydrating & Moisturizing: Delivers deep hydration for glowing, healthy skin. Wrinkle Reduction: Helps diminish fine lines and wrinkles. Acne & Spot Removal: Targets blemishes and dark spots for a clearer complexion. Rejuvenation & Brightening: Promotes radiant, youthful-looking skin. Smooth & Soft Feet: Works effectively to beautify and soften feet. Cold Spraying Technology:Provides a refreshing and soothing skin treatment, locking in moisture and nutrients.Adjustable Modes:Features 4 adjustable gears to customize the intensity and treatment for your needs.USB Charging:Convenient and eco-friendly charging, compatible with most USB ports for on-the-go use.Specifications Material: Plastic Function: Cold spraying Gears: 4 adjustable modes Charging Type: USB Packing Details Facial Mask Device × 1 USB Data Cable × 1
-  Updated: 2025-11-21T06:37:25Z
+  Updated: 2025-11-25T20:59:22Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/ugnre2K7ik6ucuvO.webp?v=1763660827
   Price: €436.30 EUR
 - [Household Women's Skin Care Products Rose Water](https://mdg-9604.myshopify.com/products/household-womens-skin-care-products-rose-water): Refresh and hydrate your skin with the Rose Water Toner, a gentle and nourishing formula suitable for all skin types. Perfect for daily skincare routines, this toner helps balance and revitalize your complexion.Product Details: Category: Toner Net Content: 100ml Shelf Life: 3 years Suitable For: All skin types Package Size: 127*44*44(1mm) Includes: 1 Toner Experience the soothing and refreshing benefits of rose water for radiant, healthy skin!
-  Updated: 2025-11-21T06:32:03Z
+  Updated: 2025-11-25T20:59:22Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/maQCUTpCBCsRw6Dg.webp?v=1763660835
   Price: €46.52 EUR
 - [Eye Care Products](https://mdg-9604.myshopify.com/products/eye-care-products): This luxurious eye cream is specially designed for ladies, providing hydration and care for the delicate skin around your eyes. It offers a gentle formula suitable for all skin types, leaving your skin feeling refreshed and smooth. Perfect for daily use, it helps to reduce puffiness and dark circles, giving you a more youthful and radiant appearance.Key Features: Applicable People: Ladies Specifications: Standard specifications Applicable Skin Type: Universal – Suitable for all skin types Net Content: 30ml Cosmetics for Special Purposes: Not classified as cosmetics for special purposes Import: Not imported Material: Cream Packing List:1 x Eye Cream Bottle (30ml)Additional Information:This eye cream provides essential hydration and rejuvenation for your eyes, helping you look fresh and well-rested. Its gentle, cream-based formula is ideal for everyday use and is suitable for all skin types. Perfect for keeping your eye area nourished and smooth, it’s a must-have in your skincare routine.
-  Updated: 2025-11-21T06:26:04Z
+  Updated: 2025-11-25T20:59:23Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3938,14 +3938,14 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/CIzA28CErO6RNKAE.webp?v=1763660915
     Price: €28.35 EUR
 - [Herbal Hair Growth Oil with Rosemary Repair Essence](https://mdg-9604.myshopify.com/products/herbal-hair-growth-oil-with-rosemary-repair-essence): Experience the transformative power of our Herbal Hair Growth Oil designed specifically for scalp care. This 50ml elixir harnesses the natural benefits of rosemary, renowned for its ability to stimulate hair growth and prevent hair loss. Infused with potent herbal ingredients, this oil not only promotes thicker and healthier hair but also revitalizes your scalp, ensuring optimal conditions for hair growth. Say goodbye to thinning hair and embrace the lush, full locks you've always desired. Each drop is packed with essential nutrients that nourish your hair from the roots to the tips, making it suitable for all hair types. Enjoy the soothing aroma and the refreshing feel as you apply this luxurious oil. Key Features: - Capacity: 50ml - Function: Anti-hair loss and scalp revitalization - Key Ingredient: Rosemary for natural hair restoration Don’t miss out on the chance to rejuvenate your hair care routine with our Herbal Hair Growth Oil. Achieve the beautiful, voluminous hair you deserve!
-  Updated: 2025-11-21T06:35:11Z
+  Updated: 2025-11-25T20:59:23Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/hHxDIpv7jyG5mpWx.webp?v=1763660866
   Price: €43.85 EUR
 - [Hair Growth Serum with Ginger Nourishing Formula (Single Bottle)](https://mdg-9604.myshopify.com/products/hair-growth-serum-with-ginger-nourishing-formula-single-bottle): Revitalize your hair with the Ginger Hair Loss Control Solution, a powerful elixir designed to promote hair growth while tackling frizziness. Whether you’re dealing with hair loss or simply looking to enhance the health of your locks, this solution is perfect for all hair types. Infused with the natural goodness of ginger, this innovative formula works to strengthen your hair from the roots, improving texture and providing a sleek, manageable finish. Say goodbye to bad hair days and hello to nourished, luscious locks that shine with vitality. Available in three convenient sizes - 10ml, 20ml, and 40ml - you can choose the perfect amount to suit your needs. Each bottle is crafted to ensure easy application and maximum absorption, so you can enjoy the benefits of ginger in your daily hair care routine. Transform your hair care routine with the Ginger Hair Loss Control Solution and unleash the full potential of your hair today!
-  Updated: 2025-11-21T14:06:33Z
+  Updated: 2025-11-25T20:59:23Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -3963,56 +3963,56 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/YOKeDxDq0qpXJUOG.webp?v=1763660897
     Price: €28.82 EUR
 - [LAVDIK Hair Growth Serum Oil for Cross-Border Care](https://mdg-9604.myshopify.com/products/lavdik-hair-growth-serum-oil-for-cross-border-care): Experience the transformative power of our Hair Essence, specially formulated to promote hair growth and nourish your scalp. Housed in a stylish, compact box, this 20ml elixir is perfect for on-the-go use. Its sleek design measures at 9.3 * 2.5cm, making it a convenient addition to your beauty routine. Crafted from high-quality PE material, our essence not only provides effective results but also ensures safe storage. You can trust that every drop is packed with the goodness your hair deserves. Unlock the secret to luscious locks and a healthier scalp. Our hair essence is designed to nourish and rejuvenate, helping to combat thinning hair and promote a fuller appearance. With consistent use, you’ll notice visible improvements in hair texture and growth. Say goodbye to bad hair days and hello to the confidence that comes with vibrant, healthy hair. Elevate your hair care routine with our Hair Essence and embrace the beauty of fuller, healthier hair. Ideal for both men and women, this essence is the perfect addition to your daily grooming essentials. Don’t wait—transform your hair today!
-  Updated: 2025-11-21T16:29:16Z
+  Updated: 2025-11-25T20:59:23Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/n05mBZySRK1rwV2k.webp?v=1763660897
   Price: €30.22 EUR
 - [Batana Oil 50ml Hair Care](https://mdg-9604.myshopify.com/products/batana-oil-50ml-hair-care): Batana Oil, extracted from the nuts of the American palm tree native to Central and South America, is renowned for its exceptional ability to rejuvenate and nourish hair. Traditionally used by the indigenous Miskito people of Honduras, this oil is celebrated for promoting hair growth, enhancing strength, and restoring natural shine.​Key Features: Promotes Hair Growth: Batana Oil stimulates hair follicles, encouraging new growth and reducing hair loss. ​ Repairs and Strengthens: Rich in essential fatty acids and vitamins, it penetrates deeply to repair damaged hair, reduce split ends, and enhance overall strength. ​ Enhances Shine and Moisture: Regular application imparts a natural, radiant shine and provides deep hydration, making hair softer and more manageable.​ Suitable for All Hair Types: Whether your hair is dry, damaged, or healthy, Batana Oil offers nourishing benefits without leaving a greasy residue. ​
-  Updated: 2025-11-21T05:48:30Z
+  Updated: 2025-11-25T20:59:24Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/UpMCo9Rp9jTMvC9c.webp?v=1763660904
   Price: €36.77 EUR
 - [Moroccan Hair Essential Oil with Rosemary Extract](https://mdg-9604.myshopify.com/products/moroccan-hair-essential-oil-with-rosemary-extract): Transform your hair care routine with our Moroccan Hair Essential Oil, specially formulated to provide your hair with the love and nourishment it deserves. This exquisite 100ml bottle of luxurious oil is designed to smooth drape and care for damaged hair, especially those suffering from dyeing and perming practices. Say goodbye to frizz and hello to silky, manageable hair! Whether your hair is dry or in need of some extra attention, our Moroccan Oil is the perfect solution to restore shine and vitality. Its lightweight formula ensures that your hair feels soft and looks vibrant without any greasy residue. Launched in Summer 2023, this oil is a must-have in your hair care arsenal. The transparent color of the oil reflects its purity and quality, making it a beautiful addition to your beauty shelf. Take a look at our stunning images below to see the product in action: Indulge your hair with the best of nature. Experience the magic of Moroccan Hair Oil today and unveil the beautiful, healthy hair you’ve always dreamed of!
-  Updated: 2025-11-21T06:19:55Z
+  Updated: 2025-11-25T20:59:24Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/3inVvmBdVg8nVuXa.webp?v=1763660918
   Price: €39.04 EUR
 - [Natural Hair Growth Serum - Thrive Hair Oil](https://mdg-9604.myshopify.com/products/natural-hair-growth-serum-thrive-hair-oil): Unlock the secret to luxurious and healthy hair with our Natural Hair Growth Serum, Thrive Hair Oil. This powerful formula is designed to strengthen your hair while providing essential care for fragile, split ends. Whether you have curly, straight, or wavy hair, this serum is suitable for all hair types. Formulated with a unique blend of natural ingredients, Thrive Hair Oil boasts an impressive absorption rate, ensuring that each drop penetrates deeply to nourish and revitalize your locks. With a captivating yellow hue, this 60ml bottle of hair oil is not just a product; it’s a treat for your hair. Say goodbye to dull and lifeless strands. Our serum helps to restore shine and vitality, making your hair look and feel its best. Transform your hair care routine and embrace the beauty of healthy hair. Add Thrive Hair Oil to your daily regimen and watch your hair thrive!
-  Updated: 2025-11-21T06:09:42Z
+  Updated: 2025-11-25T20:59:24Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/yxbRHsYX0e3IRXeK.webp?v=1763660923
   Price: €41.74 EUR
 - [Batana Oil for Hair Growth and Nourishment (120ml)](https://mdg-9604.myshopify.com/products/batana-oil-for-hair-growth-and-nourishment-120ml): Experience the transformative power of Batana Oil with our specially formulated hair growth and repair treatment. This nourishing oil is designed to revitalize your hair from root to tip, helping to prevent breakage and promote healthy, strong locks. Infused with the natural goodness of Batana Oil, this product works wonders by deeply hydrating and strengthening each strand, ensuring your hair remains vibrant and full of life. Whether you're dealing with thinning hair or looking to maintain your luscious locks, our 120ml solution is your go-to remedy. Say goodbye to hair fall and hello to thicker, fuller hair. The lightweight formula absorbs quickly, leaving no greasy residue behind, making it suitable for all hair types. Plus, it's easy to incorporate into your daily hair care routine! Unlock the secret to healthy hair with our Batana Oil. Your hair deserves the best, and with this powerful treatment, you can achieve the strong, beautiful hair you've always wanted. Try it today and see the results for yourself!
-  Updated: 2025-11-21T08:11:44Z
+  Updated: 2025-11-25T20:59:24Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/N3mSPovmYzcFkeyi.webp?v=1763660943
   Price: €36.99 EUR
 - [Batana Oil with Rosemary Hair Growth Serum (1 Bottle)](https://mdg-9604.myshopify.com/products/batana-oil-with-rosemary-hair-growth-serum-1-bottle): Enhance Your Hair's Natural BeautyDiscover the power of Batana Oil infused with Rosemary to transform your hair care routine. This exceptional serum is designed to nourish your scalp and promote healthy hair growth while adding thickness to your strands. Our pure organic Batana Oil not only hydrates but also smoothens your hair, leaving it feeling soft and manageable. Ideal for all hair types, this serum is your go-to solution for achieving that glossy and healthy look.Embrace the natural essence of Batana Oil and give your hair the love it deserves. Whether you want to enhance your hair's thickness or simply maintain its shine, this serum is formulated to meet your needs. Treat yourself to the ultimate hair care experience!
-  Updated: 2025-11-21T14:19:23Z
+  Updated: 2025-11-25T20:59:24Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/d4j5uWm3lL6UgycS.webp?v=1763660947
   Price: €36.33 EUR
 - [High-Quality Pikachu Plush Folding Pillow (Single Item)](https://mdg-9604.myshopify.com/products/high-quality-pikachu-plush-folding-pillow-single-item): Discover the ultimate companion for every Pokemon fan with our high-quality Pikachu Plush Toy! Measuring an adorable 40*30CM, this plush is not just a toy; it's a versatile folding hold pillow that provides comfort and joy. Made from soft and durable PP cotton, this plush doll is perfect for snuggling during cozy nights or adding a touch of fun to your home decor. Whether you're looking for a thoughtful gift for a friend or simply want to indulge in your love for Pokemon, this plush toy is the ideal choice. Its compact and foldable design makes it easy to store or take along on adventures, ensuring that your plush friend is always by your side. Get ready to embrace the world of Pokemon with this charming plush toy that offers both comfort and cuteness in one delightful package!
-  Updated: 2025-11-21T06:00:37Z
+  Updated: 2025-11-25T20:59:24Z
   Vendor: MDG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Mll0cIvPljPfcelc.webp?v=1763660961
   Price: €37.18 EUR
 - [Giant Cute Panda Bear Plush Doll (Single Item)](https://mdg-9604.myshopify.com/products/giant-cute-panda-bear-plush-doll-single-item): Introducing the Cute Panda Bear Giant Size Stuffed Plush Doll, your new cuddly companion that brings joy and comfort to both kids and adults alike! This adorable plush toy is crafted from premium PP cotton, ensuring a soft and huggable experience that you won’t want to put down. Available in a variety of sizes, ranging from 0.8 meters to an impressive 1.8 meters, you can choose the perfect plushie that fits your space and needs. Each version is designed with a delightful pink or brown color, featuring a charming 'toe fat' style that adds a unique touch to this lovable bear. Whether you're looking for a cozy decoration for your bedroom, a delightful gift for a loved one, or a comforting buddy for your little ones, this giant panda plush doll is the perfect choice. Its short plush fabric gives it a luxurious feel, making it irresistible to snuggle with. Check out the different variations we offer: Each doll is not just a toy; it’s an experience waiting to be had. Perfect for playtime, bedtime, or simply as a companion on your adventures. Bring home the Cute Panda Bear Giant Size Stuffed Plush Doll today and let the cuddles begin!
-  Updated: 2025-11-21T14:29:11Z
+  Updated: 2025-11-25T20:59:25Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -4054,7 +4054,7 @@
     Availability: Available
     Price: €463.18 EUR
 - [Fluffy Duck Plush Toy - Travel Duck (Single Item)](https://mdg-9604.myshopify.com/products/fluffy-duck-plush-toy-travel-duck-single-item): Meet your new cuddly companion, the Fluffy Duck Plush Toy! This adorable plush toy is perfect for children and adults alike, bringing warmth and joy to any space. Crafted from soft velvet and filled with PP cotton, it promises a huggable experience that is both comforting and delightful. Available in two charming colors—yellow and purple—there's a Fluffy Duck for everyone! Choose from three different sizes: 35cm, 40cm, and 55cm. Whether you prefer a petite friend to accompany you on travels or a larger buddy to snuggle with at home, our Fluffy Duck fits all your needs. This plush toy is not just about looks; it's designed for durability and ease of care. The high-quality materials ensure that it maintains its shape and softness, making it an ideal gift for birthdays, holidays, or just because. Let the Fluffy Duck Plush Toy brighten your day and become a cherished part of your family. Order yours today and experience the joy of cuddling with this lovable duck!
-  Updated: 2025-11-21T09:28:19Z
+  Updated: 2025-11-25T20:59:25Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -4078,7 +4078,7 @@
     Availability: Available
     Price: €58.06 EUR
 - [Sanrio Kuromi Plush Toy (Single Item)](https://mdg-9604.myshopify.com/products/sanrio-kuromi-plush-toy-single-item): Introducing the PELUCIA - SANRIO KUROMI Plush Toy, a must-have for all fans of the adorable and mischievous Kuromi! This enchanting plush toy is crafted from short plush material, making it irresistibly soft and perfect for snuggling. Its PP cotton filling ensures a huggable experience that both kids and adults will cherish. Available in various sizes ranging from 25CM to a generous 95CM, this plush toy can fit perfectly in your home, whether it's for display or as a cuddle companion. Choose from three delightful colors: A, B, and C to match your style or décor. Each plush toy is not just a toy; it's a statement piece that can enhance your space while bringing joy and comfort. Collect them all, create your own plush family, or gift them to someone special! Don’t miss out on the chance to bring a little mischief and a lot of cuteness into your life with the PELUCIA - SANRIO KUROMI Plush Toy. Get yours today and experience the joy of cuddling with Kuromi!
-  Updated: 2025-11-21T07:46:46Z
+  Updated: 2025-11-25T20:59:25Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -4129,7 +4129,7 @@
     Availability: Available
     Price: €107.58 EUR
 - [Japanese Cartoon Rabbit Embroidery Velvet Sweater](https://mdg-9604.myshopify.com/products/japanese-cartoon-rabbit-embroidery-velvet-sweater): Embrace your playful side with our delightful pullover, featuring charming Japanese cartoon rabbit embroidery. This cozy velvet sweater is designed for those who love to express their individuality while staying comfortable and stylish. Crafted from 100% rabbit hair, it offers a soft and warm feel, perfect for layering during cooler days. The loose fit ensures that you can move freely while the round neck and long sleeves provide a classic look that pairs beautifully with any outfit. With its sweet style and fresh, fashionable elements like embroidery and tassels, this sweater is a must-have for any wardrobe. Available in three delightful colors—blue, navy, and pink—you can choose the one that best reflects your personality. Each variant maintains the same quality and comfort, ensuring you look and feel fabulous no matter which one you pick. The sweater is designed to fit a range of body types, with a free size that includes a shoulder width of 47cm, a bust of 110cm, and a dress length of 61cm. It’s the perfect blend of comfort and style, making it suitable for both casual outings and cozy nights in. Packing list: - Sweater*1 Don’t miss out on adding this unique piece to your collection! Check out the stunning visuals below to see how this enchanting sweater can elevate your style game.
-  Updated: 2025-11-21T08:01:22Z
+  Updated: 2025-11-25T20:59:25Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -4147,7 +4147,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/b2zIu76g4fOfv2dl.webp?v=1763661058
     Price: €54.06 EUR
 - [Elastic Waist Bootcut Pants](https://mdg-9604.myshopify.com/products/elastic-waist-bootcut-pants): Elevate your wardrobe with our Elastic Waist Boot Pants, designed for comfort and style. Made from a premium blend of polyester fibers, these pants offer an appealing fit and a chic look, perfect for any occasion. Available in two classic colors—Grey and Black—these versatile pants are ideal for pairing with a variety of outfits, whether you’re dressing up for work or keeping it casual on the weekend. The elastic waist provides a comfortable fit that adjusts to your body, ensuring you feel great all day long. With sizes ranging from M to 5XL, there’s a perfect fit for everyone. Please note that our sizes run 1 to 2 sizes smaller than standard European and American sizes, so we recommend choosing a larger size if you're between sizes. Check the size chart for the perfect fit and don’t hesitate to reach out to our customer service for assistance. Packing List: Woolen shorts X1
-  Updated: 2025-11-21T06:01:44Z
+  Updated: 2025-11-25T20:59:25Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -4209,7 +4209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/KxzZ4zVjZZEGAbKD.webp?v=1763661199
     Price: €30.13 EUR
 - [Women's Long Thick Down Jacket with Fur Collar](https://mdg-9604.myshopify.com/products/womens-long-thick-down-jacket-with-fur-collar): Introducing our stunning new collection of medium-length, winter cotton coats featuring a luxurious fur collar. Crafted with high-quality down cotton and a memory fabric for unparalleled comfort, these coats are designed to keep you warm while maintaining a stylish silhouette. The main fabric composition includes 71%-80% cotton, ensuring breathability and softness against your skin. With a hooded collar for added protection against the cold and a convenient zipper placket, our coat is both practical and fashionable. The short sleeves give a modern touch, making it perfect for layering over your favorite outfits. Available in a variety of colors including Red, Grey, Black, Blue, and Pink, you can easily find the perfect shade to match your style. Choose from a wide range of sizes from M to 3XL, ensuring the perfect fit for everyone. Please note that Asian sizes tend to run smaller than European and American sizes, so we recommend selecting a size up if you're between sizes. Be sure to consult our size chart if you're unsure, and our customer service team is always ready to assist you. Elevate your winter wardrobe with this gorgeous, versatile coat that combines warmth, style, and comfort. Don't miss out on this must-have addition for your cold-weather attire!
-  Updated: 2025-11-21T14:14:07Z
+  Updated: 2025-11-25T20:59:26Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -4305,7 +4305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/35fMYhZT2JtOSXqV.webp?v=1763661293
     Price: €97.69 EUR
 - [Men's Casual Hoodie - Trendy Youth Fashion Wear](https://mdg-9604.myshopify.com/products/mens-casual-hoodie-trendy-youth-fashion-wear): Elevate your casual style with our Hooded Sweatshirt, designed for the modern man who values both comfort and fashion. This loose-fitting piece is perfect for leisure activities or a laid-back day out. Made from 90% cotton, this sweatshirt is soft, breathable, and gentle on the skin, ensuring you stay comfortable all day long. Choose from a stunning range of colors including bold Red, classic Black, vibrant Yellow, and soothing Gray. With sizes ranging from S to XXL, there’s a perfect fit for everyone. Whether you’re lounging at home, hitting the gym, or heading out with friends, this sweatshirt will keep you stylish and comfortable. Don’t miss out on adding this versatile piece to your wardrobe. Grab your favorite color and size today and embrace a new level of comfort and style!
-  Updated: 2025-11-21T07:11:43Z
+  Updated: 2025-11-25T20:59:26Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -4491,7 +4491,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/fecaJYuzvwp8jSDX.webp?v=1763661351
     Price: €57.18 EUR
 - [Summer Korean Style Loose White Short Sleeve Tee](https://mdg-9604.myshopify.com/products/summer-korean-style-loose-white-short-sleeve-tee): Elevate your wardrobe with our stylish and versatile white short sleeve T-shirt. This trendy piece is designed for comfort and flair, perfect for students and fashion enthusiasts alike. With a loose fit and a classic round neck, you can enjoy a relaxed yet chic look that suits any occasion. Crafted from a premium blend of 95% polyester fiber and 5% spandex, this T-shirt offers excellent stretch and durability, ensuring it keeps its shape wear after wear. Whether you're heading to class or out with friends, this half-sleeve top is the ideal choice for a casual day out. Available in three sizes: M, L, and XL, this T-shirt caters to different body types. The timeless white color adds a touch of elegance and can be easily paired with your favorite jeans, skirts, or shorts. Don’t miss out on this essential addition to your closet! Grab yours now and embrace effortless style every day.
-  Updated: 2025-11-21T06:36:34Z
+  Updated: 2025-11-25T20:59:26Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -4509,7 +4509,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/YDAWeCnRxhTMMh3z.webp?v=1763661188
     Price: €24.51 EUR
 - [Trendy Drawstring Pullover and Couple Sweater](https://mdg-9604.myshopify.com/products/trendy-drawstring-pullover-and-couple-sweater): Elevate your casual wardrobe with our Trendy Pullover With Drawstring And Couple Sweater. This stylish pullover is perfect for the youth and embodies a modern leisure vibe that appeals to those aged 18-24. Designed with comfort in mind, it features a hooded style and long sleeves, making it an ideal choice for both sports and relaxed outings.Crafted from high-quality 80% cotton, this pullover ensures breathability and softness against your skin. The classic black color and eye-catching printing pattern add a touch of personality, while the no collar design maintains a sleek silhouette. Whether you're hitting the gym or hanging out with friends, this pullover is a versatile addition to your daily attire.Available Sizes: S, M, LCheck out the product images below to see its stylish design: Don't miss out on the chance to own this fashionable pullover that combines style, comfort, and functionality. Grab yours today and step out in confidence!
-  Updated: 2025-11-21T17:45:28Z
+  Updated: 2025-11-25T20:59:26Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -4527,7 +4527,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/dcDoJOovTQlM9O6T.webp?v=1763661534
     Price: €82.58 EUR
 - [White Mother-Daughter Matching Sweater Dress Set](https://mdg-9604.myshopify.com/products/white-mother-daughter-matching-sweater-dress-set): Embrace the beautiful bond between mother and daughter with our White Parent-Child Sweater Dress. Perfect for any leisure occasion, this matching outfit combines comfort and style, ensuring that both mom and daughter look fabulous together. Designed with a chic hedging style, the dress features a trendy printing graphic that adds a touch of uniqueness. The slim-fit design and long sleeves make it an ideal choice for cooler days while keeping both of you cozy and stylish. Whether you're heading out for a special event or just enjoying a casual day out, this versatile dress is available in various sizes to ensure a perfect fit for both you and your little one: Crafted with quality materials, each dress measures between 50cm and 65cm in length, ensuring that both mom and daughter stay comfortable throughout the day. The conventional sleeve design enhances ease of movement, making it a practical yet fashionable choice. Don't miss out on the chance to create unforgettable memories while looking adorable together. Get your White Parent-Child Sweater Dress today and celebrate your special bond in style!
-  Updated: 2025-11-21T06:05:37Z
+  Updated: 2025-11-25T20:59:26Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -4569,7 +4569,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/MLICbs3z6yIGrceU.webp?v=1763661682
     Price: €32.56 EUR
 - [Mother-Daughter Matching Floral Maxi Dress Set](https://mdg-9604.myshopify.com/products/mother-daughter-matching-floral-maxi-dress-set): Create unforgettable memories with our stunning Mother-Daughter Matching Outfits. This exquisite set features a charming floral print that embodies the spirit of togetherness. Made from soft cotton, both the long dress for moms and the matching dress for daughters ensure comfort while making a fashion statement. Available in a variety of sizes, you can find the perfect fit for both mom and child. The sleek design of the round-neck dress is not only stylish but also provides ease of movement, making it ideal for family outings, special occasions, or casual days at the park. Explore our range of sizes: Each size is carefully designed to ensure a comfortable fit for every body type. With a variety of color options, you can express your unique style while bonding with your little one. Each outfit promises to be a conversation starter, as you and your daughter twirl in matching elegance. Check out some of the beautiful images of our outfits below: Embrace the joy of matching outfits with your little one. Order now and elevate your family style!
-  Updated: 2025-11-21T06:01:25Z
+  Updated: 2025-11-25T20:59:26Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -4607,7 +4607,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/76ykzt2JNgOLV817.webp?v=1763661706
     Price: €44.67 EUR
 - [Three-Color Mother-Daughter Matching Outfits](https://mdg-9604.myshopify.com/products/three-color-mother-daughter-matching-outfits): Embrace the delightful bond between mothers and daughters with our Three-color Parent-child Outfit. This matching outfit is designed to celebrate your unique relationship while keeping both of you stylish and comfortable. Available in gorgeous shades of black, pink, and gray, this outfit is perfect for any occasion, be it a casual day out or a cozy family gathering. Crafted from high-quality polyester fiber, this outfit offers a soft and warm feel that is perfect for those chilly days. The collection caters to various sizes, ensuring a snug fit for both mother and daughter. Sizes range from S to XL for mothers and from 2Y to 9Y for girls, making it easy to find the right fit for your little one and yourself. Product Highlights: - Available in three stylish colors: black, pink, and gray - Perfectly tailored for mothers and daughters to match - Made from soft and durable polyester fiber - Available in multiple sizes to fit various heights and body types - Ideal for cozy outings, family photos, or just lounging at home When selecting sizes, keep in mind that Asian sizes may differ from European and American sizes; consider choosing a larger size if you're between sizes. To ensure the perfect fit, please refer to the size chart before making your purchase. As colors may vary slightly due to different display screens, the actual product might differ a bit from the images. Packing list: Sweater x 1 See it in action: Dress up in style and enjoy the special moments with your daughter while looking fashionable in our adorable matching outfits!
-  Updated: 2025-11-21T08:07:53Z
+  Updated: 2025-11-25T20:59:27Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -4721,7 +4721,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/boGtRuT75PdjFYIX.webp?v=1763661914
     Price: €34.12 EUR
 - [Mother-Daughter Round Neck Pullover Sweater Set](https://mdg-9604.myshopify.com/products/mother-daughter-round-neck-pullover-sweater-set): Embrace the special bond between mother and daughter with our adorable Parent-child Round Neck Pullover Sweater. This charming sweater features a simple yet stylish letter printing design that is perfect for both women and girls. Crafted from high-quality 95% cotton, the fabric is soft to the touch, ensuring comfort for all-day wear. Designed with a trendy European and American style, this sweater is not just about looks; it also incorporates fun elements like cartoon prints and sporty vibes. Ideal for casual outings or cozy family times at home, it’s a versatile wardrobe essential that celebrates the joy of parent-child matching outfits. Available in multiple sizes from S to XL, you can easily find the perfect fit for both you and your little one. The classic white color adds a touch of elegance while keeping it fresh and easy to pair with any bottoms. Experience the perfect blend of fashion and function with this sweater that is trimmed clean, ensuring a polished finish. Whether you're enjoying a day out or snuggling up for a movie night, this pullover is designed to keep you stylish and comfortable.
-  Updated: 2025-11-21T06:37:54Z
+  Updated: 2025-11-25T20:59:27Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -4743,7 +4743,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/GxfTEniro8CxoFJC.webp?v=1763661713
     Price: €44.61 EUR
 - [Trendy Women's Loose Waffle Round Neck Pullover Sweater](https://mdg-9604.myshopify.com/products/trendy-womens-loose-waffle-round-neck-pullover-sweater): Embrace effortless style with our Women's Waffle Round Neck Sweater, a perfect blend of comfort and trendiness. This loose pullover is designed to keep you cozy while making a fashionable statement. Crafted from high-quality polyester fiber, it offers both durability and a soft touch against your skin, ensuring you feel great all day long. Available in classic black and white, this versatile piece can easily be paired with your favorite jeans, skirts, or leggings. Choose from a range of sizes, from S to XXL, to find your perfect fit. The stylish round neck and trendy waffle texture give this sweater a chic edge, making it suitable for any occasion, whether it’s a casual day out or a cozy night in. With a weight of just 0.6 kg, it’s lightweight and perfect for layering. Don’t miss out on the opportunity to elevate your wardrobe with this must-have staple. Explore the images below to see how this sweater can transform your look: Don’t wait! Add the Women's Waffle Round Neck Sweater to your collection today and enjoy a blend of style and comfort that you can wear season after season.
-  Updated: 2025-11-21T06:22:36Z
+  Updated: 2025-11-25T20:59:27Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -4784,7 +4784,7 @@
     Availability: Available
     Price: €55.76 EUR
 - [Trendy Women's Long-Sleeved Round Neck Pullover Sweater](https://mdg-9604.myshopify.com/products/trendy-womens-long-sleeved-round-neck-pullover-sweater): Elevate your wardrobe with our stunning Long-Sleeved Pullover Sweater, designed exclusively for women who love to stay stylish while enjoying comfort. This slim-fit sweater is perfect for layering or wearing on its own, making it a versatile addition to your collection. The round neck and long sleeves provide a classic silhouette that flatters every figure. Crafted from high-quality polyester fiber, this sweater not only looks great but also offers the softness and durability you need for everyday wear. With a thickness that suits general wear, you’ll find it perfect for transitioning between seasons. Choose from a variety of colors including Apricot, Black, Navy Blue, and Pink, and select the perfect size for you, from S to XL. Each shade is designed to pair seamlessly with your existing wardrobe, making it easy to create outfits that turn heads. Check out these stunning visuals of our pullover in action: Experience the perfect combination of style, comfort, and versatility with our Pullover Long-Sleeved Sweater. Don't miss out on this must-have piece for your fashion-forward wardrobe!
-  Updated: 2025-11-21T13:28:49Z
+  Updated: 2025-11-25T20:59:27Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -4854,7 +4854,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/xaIxOJUOV9EyUrtD.webp?v=1763661924
     Price: €48.33 EUR
 - [Casual Hooded Sweater Suit for Spring & Autumn](https://mdg-9604.myshopify.com/products/casual-hooded-sweater-suit-for-spring-autumn): tay stylish and comfortable in this women's hooded sports leisure sweater suit, perfect for the mild weather of spring and autumn. Ideal for casual outings or light exercise. This versatile hooded sweater suit combines fashion with function, featuring a comfortable hoodie and matching pants for a sporty, casual look during the spring and autumn months. Enjoy the perfect blend of relaxation and style with this women's fashion hooded sports sweater suit. Designed for comfort and casual wear, it’s ideal for both active days and downtime. Keep cozy and chic with this women's spring and autumn hooded sports sweater suit, featuring a trendy design and a relaxed fit that’s perfect for everyday leisure activities.
-  Updated: 2025-11-21T06:16:14Z
+  Updated: 2025-11-25T20:59:27Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -4908,7 +4908,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/opMACK37XHfwvGLY.webp?v=1763661849
     Price: €104.22 EUR
 - [Loose Women's Hooded Sweater for Spring and Autumn](https://mdg-9604.myshopify.com/products/loose-womens-hooded-sweater-for-spring-and-autumn): Embrace comfort and style with our Spring and Autumn Thin Women's Hooded Sweater! Crafted from soft cotton, this casual sweater is designed to provide the perfect blend of warmth and breathability. Its thin and loose fit makes it ideal for layering during transitional seasons, ensuring you stay stylish without compromising on comfort. Available in a stunning array of colors, this sweater is a versatile addition to any wardrobe. Whether you prefer classic black, vibrant blue, or soft pink, you can choose from 96 variations to find your perfect match. Designed with a hooded feature, it not only adds an extra layer of warmth but also elevates your outfit to a chic, casual look. The large size options ensure that everyone can enjoy the cozy feel and stylish look of this sweater. Check out our size guide to find your perfect fit! Here’s a glimpse of what makes this sweater a must-have: This Spring and Autumn Thin Women's Hooded Sweater is not just a clothing item; it's a statement of style and comfort. Don’t miss out on the opportunity to elevate your wardrobe with this trendy piece!
-  Updated: 2025-11-21T06:47:28Z
+  Updated: 2025-11-25T20:59:28Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -5114,7 +5114,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/wBsiKvJhBTAXkkv0.webp?v=1763662467
     Price: €58.66 EUR
 - [Women's Fleece Hooded Pullover Sweater for Autumn/Winter](https://mdg-9604.myshopify.com/products/womens-fleece-hooded-pullover-sweater-for-autumn-winter): Embrace the cozy vibe of the colder seasons with our Autumn and Winter Sweater, a women's fleece hooded pullover designed for ultimate comfort and style. Crafted from soft, high-quality polyester, this pullover offers a relaxed fit that is perfect for layering over your favorite outfits. Available in a wide range of sizes from S to XXXL, it ensures that every woman can find her perfect fit. Choose from an array of colors including classic Black, vibrant Red, subtle Grey, soft Pale Pinkish Gray, refreshing Blue, lively Green, and charming Pink to match your unique style. The loose design not only provides breathability but also allows for easy movement, making it ideal for casual outings, cozy nights in, or even running errands. Don't miss out on this essential piece for your wardrobe. Stay warm, stylish, and comfortable all season long with our versatile fleece pullover!
-  Updated: 2025-11-21T08:18:07Z
+  Updated: 2025-11-25T20:59:28Z
   Vendor: MDG
   Product Type: Women's Shirts
   Availability: Available
@@ -5288,7 +5288,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/TQfFLWClJteRSAUk.webp?v=1763662149
     Price: €30.92 EUR
 - [Cat Ears Hooded Pullover Sweater for Autumn & Winter](https://mdg-9604.myshopify.com/products/cat-ears-hooded-pullover-sweater-for-autumn-winter): Embrace the cozy vibes of the season with our Autumn and Winter Printed Plush Hooded Pullover featuring adorable cat ears! This unique sweater is designed to keep you warm and stylish, making it the perfect addition to your wardrobe.Crafted from soft and luxurious camel wool, this pullover showcases a charming printed pattern that radiates a playful yet chic vibe. Available in a versatile gray color, it effortlessly complements any outfit, whether you're heading out for a casual day or lounging at home.With options in sizes S, M, L, XL, and XXL, you can find the perfect fit for your body type. Please keep in mind that our sizing runs smaller than standard European and American sizes, so we recommend selecting a larger size if you're between measurements. Our customer service is here to assist you in choosing the right size if needed!This pullover isn’t just a fashion statement; it’s also built for comfort and warmth. The long sleeves and hood provide additional coziness, making it ideal for chilly autumn and winter days. The street hipster style gives it a trendy edge that will make you stand out from the crowd.Don't miss out on the chance to add this delightful piece to your collection. With each purchase, you'll receive one printed sweater that combines style, comfort, and fun!Packing list:Printed sweater x 1pcCheck out the images below to see this adorable pullover in action:
-  Updated: 2025-11-21T06:05:10Z
+  Updated: 2025-11-25T20:59:28Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -5314,7 +5314,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/ja9jjaZv2ta8Brj5.webp?v=1763661921
     Price: €56.12 EUR
 - [Hooded Pullover Sweater for Women's Autumn Winter](https://mdg-9604.myshopify.com/products/hooded-pullover-sweater-for-womens-autumn-winter): Embrace the chill of autumn and winter with our Women's Autumn Winter Hooded Sweater Pullover Top. This stylish pullover is designed for comfort and warmth, featuring a trendy hooded collar that adds a chic touch to your outfit. Made from high-quality polyester fiber, this sweater is not only soft to the touch but also durable enough to withstand the elements. The slim fit design perfectly complements your silhouette, making it an ideal choice for layering or wearing solo. The long sleeves provide extra warmth, while the unique printing pattern adds a splash of personality to your wardrobe. Available in a classic Gray 4017#, this versatile color pairs well with any bottoms, from jeans to skirts. We offer a wide range of sizes from S to 4XL, ensuring a fit for everyone. Please note that our sizes run smaller than typical European and American sizes, so we recommend selecting a larger size if you're between sizes. If you’re unsure, feel free to reach out to our customer service for assistance! Each sweater comes packaged with care, and you can expect a top-quality product ready to keep you cozy all season long. Check out the stunning visuals below to see the lovely details of this must-have item! Product Images:
-  Updated: 2025-11-21T12:38:48Z
+  Updated: 2025-11-25T20:59:28Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -5368,7 +5368,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/cLT6QtJtABXaGfJF.webp?v=1763661950
     Price: €49.31 EUR
 - [Women's Hooded Pullover Sweater for Spring & Autumn](https://mdg-9604.myshopify.com/products/womens-hooded-pullover-sweater-for-spring-autumn): Elevate your wardrobe this season with our stylish Hooded Pullover Sweater, designed for the modern woman who values both comfort and fashion. This exquisite piece features a trendy color matching pattern in a warm apricot hue, perfect for adding a touch of brightness to your spring and autumn outfits. Crafted from high-quality polyester, this lightweight sweater ensures breathability and ease, making it an ideal choice for casual outings or cozy evenings at home. Its regular fit and long sleeves provide ultimate comfort, while the unique contrast color elements enhance its modern aesthetic. Available in four sizes - S, M, L, and XL - this versatile pullover caters to every body type. It boasts a standard length of 50cm, making it a flattering option for all. The Japanese and Korean casual style adds a chic touch, ensuring you stay fashionable no matter the occasion. Don’t miss out on the chance to add this must-have pullover to your collection. Whether paired with jeans, skirts, or leggings, it’s the ultimate blend of style and comfort. Shop now to turn heads and express your unique fashion sense!
-  Updated: 2025-11-21T06:13:37Z
+  Updated: 2025-11-25T20:59:28Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -5390,7 +5390,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/hL0RZHCils5II6VV.webp?v=1763661946
     Price: €47.54 EUR
 - [Trendy Round Neck Casual Pullover Sweater](https://mdg-9604.myshopify.com/products/trendy-round-neck-casual-pullover-sweater): If you're looking to elevate your casual wardrobe, the Round Neck Fashion Casual Trend Pullover Sweater is the perfect addition! Crafted from high-quality polyester fiber, this sweater combines both comfort and style, making it an ideal choice for any occasion. Available in a variety of trendy colors, including off-white, big red, grass green, and dark khaki, you'll find the perfect shade to match your personal style. The pullover features a classic hedging style, ensuring you stay stylish while feeling cozy. With sizes ranging from S to XL, this versatile sweater fits comfortably on every body type. Whether you're heading out for a casual day with friends or lounging at home, the Round Neck Fashion Casual Trend Pullover Sweater is designed to keep you looking chic. Check out the stunning visuals below to see how this sweater can complement your wardrobe: Don't miss out on this stylish and comfortable must-have. Grab yours today and enjoy the perfect blend of fashion and functionality!
-  Updated: 2025-11-21T12:38:52Z
+  Updated: 2025-11-25T20:59:29Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -5428,7 +5428,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/kRiO2NYjkYxEzDrz.webp?v=1763661984
     Price: €37.29 EUR
 - [Couple Hooded Fleece Pullover Sweater](https://mdg-9604.myshopify.com/products/couple-hooded-fleece-pullover-sweater): Get ready to embrace comfort and style with our Couple Fleece Hooded Pullover Sweater. This versatile piece is crafted from high-quality polyester material, making it not only durable but also incredibly soft against your skin. The loose fit style ensures maximum freedom of movement, perfect for cozy days at home or casual outings. Available in a stunning array of colors including dark green, black, light purple, khaki, pink, red, yellow, gray, light blue, white, light green, and orange, there’s a shade to suit every couple's style. The printed details add a unique touch, making this pullover not just a piece of clothing, but a statement of your shared bond. With 84 variations available, you can choose the perfect color and size combination that fits your personality and preference, ensuring that you and your partner can match in style effortlessly. Whether you're snuggling on the couch or stepping out for a casual date, this pullover is designed to keep you warm and stylish. Don't miss out on the chance to elevate your couple's wardrobe with this chic and comfortable fleece hooded pullover!
-  Updated: 2025-11-21T07:57:37Z
+  Updated: 2025-11-25T20:59:29Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -5634,7 +5634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/ueyvdXImLb2Wf0hT.webp?v=1763662227
     Price: €38.38 EUR
 - [Men's Retro Fashion Casual Leather Tooling Boots](https://mdg-9604.myshopify.com/products/mens-retro-fashion-casual-leather-tooling-boots): Step out in style with our Men's Trend Casual Tooling Boots, a perfect blend of retro fashion and modern comfort. These leather boots are crafted from durable PU material, ensuring long-lasting wear while providing a sleek and polished look. Designed for the modern man aged 18-40, these boots feature a round toe shape for added comfort and a flat heel height that makes them ideal for everyday wear. The Doc Martens style is not only trendy but also functional, making them a versatile addition to your footwear collection. With popular elements such as car stitching, these boots are as stylish as they are practical. Whether you're heading out for a casual outing or a weekend adventure, they're designed to keep your feet comfortable and looking sharp. Available in a variety of colors including Black, Yellow, Khaki, and Brown, you can easily find the perfect pair that suits your personal style. Each pair is meticulously crafted with attention to detail, ensuring you stand out wherever you go. Don't miss the chance to elevate your wardrobe with these fashionable and functional boots. Get ready to make a statement with every step you take!
-  Updated: 2025-11-21T07:01:23Z
+  Updated: 2025-11-25T20:59:29Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -5651,7 +5651,7 @@
     Availability: Available
     Price: €81.11 EUR
 - [Casual High-Top Lace-Up Canvas Sneakers for Men](https://mdg-9604.myshopify.com/products/casual-high-top-lace-up-canvas-sneakers-for-men): Step up your style game with our Casual High-Top Lace-Up Canvas Shoes. Designed for the modern man, these shoes blend comfort and functionality effortlessly, making them the perfect choice for any occasion. Whether you're heading out for a casual day or engaging in light sports, these shoes have got you covered. Crafted with a breathable flying mesh upper and a durable PU sole, they promise to keep your feet cool and comfortable throughout the year, be it summer, winter, spring, or autumn. The lightweight design ensures you can wear them all day without feeling weighed down, while the non-slip and wear-resistant features provide the stability you need for any adventure. Available in a variety of colors and sizes, you can choose the perfect pair that matches your personal style. Each pair is made to deliver an increased shock absorption feature, ensuring that every step you take is cushioned and comfortable. Don't miss out on these versatile shoes that are suitable for general sports and everyday wear. Elevate your footwear collection and experience the perfect blend of style and performance.
-  Updated: 2025-11-21T06:19:50Z
+  Updated: 2025-11-25T20:59:29Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -5729,7 +5729,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/YRjaECLCC2Aoxy4U.webp?v=1763662973
     Price: €64.28 EUR
 - [Stylish High-Top Canvas Sneakers for Men (2020)](https://mdg-9604.myshopify.com/products/stylish-high-top-canvas-sneakers-for-men-2020): Step up your style game this summer with our trendy high-top canvas sneakers. Designed for the modern man, these sneakers not only deliver on comfort but also boast a striking aesthetic that pairs well with any outfit. Made from premium canvas, these shoes are lightweight yet durable, ensuring you stay comfortable on the go. The low-cut upper height adds a unique twist to the classic high-top design, making them a must-have for any fashion-forward wardrobe. Available in a variety of sizes from 39 to 44 and multiple color options including White, Apricot, and Black, you can easily find the perfect fit that suits your personal style. Whether you're hitting the streets or hanging out with friends, these sneakers will make a statement. Elevate your sneaker collection with these stylish, versatile high-top canvas shoes that are perfect for any occasion. Don't miss out on the chance to express your individuality—grab your pair today!
-  Updated: 2025-11-21T07:08:36Z
+  Updated: 2025-11-25T20:59:29Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -5801,7 +5801,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/ZfFjC10PEf4MtTCf.webp?v=1763662925
     Price: €53.51 EUR
 - [High-Top Canvas Sneakers for Men and Couples (Winter)](https://mdg-9604.myshopify.com/products/high-top-canvas-sneakers-for-men-and-couples-winter): Step into style and comfort with our collection of high-top canvas sneakers, perfect for couples looking to make a fashion statement this winter. Designed for street dance and outdoor activities, these shoes blend functionality with a trendy aesthetic that captures the essence of youth culture. Crafted from high-quality microfiber, these sneakers are available in a range of vibrant colors including red, black, and a unique white and black breathable option. The low heel design (1-3CM) ensures maximum comfort, while the round toe shape allows for a relaxed fit, making them ideal for long wear. Not only do these shoes cater to your style needs, but they also provide the warmth you need during the chilly autumn months with their fleece lining. The medium opening (7-11CM) facilitates easy wear, while the solid color pattern makes them a versatile addition to any wardrobe. With a variety of sizes ranging from 36 to 46, finding the perfect fit has never been easier. Whether you're hitting the dance floor or just out for a casual stroll, these sneakers are designed to keep you looking stylish and feeling comfortable. Upgrade your footwear game this season with our high-top canvas sneakers and experience the perfect blend of style, comfort, and warmth. Don't miss out on this opportunity to step out in confidence!
-  Updated: 2025-11-21T07:54:43Z
+  Updated: 2025-11-25T20:59:29Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -5979,7 +5979,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/99Sy2D9zZO5sfs0q.webp?v=1763662962
     Price: €121.24 EUR
 - [Autumn High-Top Korean Style Canvas Sneakers for Men](https://mdg-9604.myshopify.com/products/autumn-high-top-korean-style-canvas-sneakers-for-men): Step up your footwear game this season with our stylish and versatile high-top Korean-style canvas sneakers. Perfectly designed for the modern man, these sneakers are not just about looks; they offer unparalleled comfort and functionality for any casual outing. Crafted from high-quality artificial PU, the upper material is both durable and easy to clean, making these shoes ideal for everyday wear. The round toe shape provides a spacious fit, ensuring comfort whether you're walking, running errands, or hanging out with friends. The low heel design (1-3CM) adds just the right amount of elevation for a casual yet stylish look. Available in multiple color options including Khaki, Grey, and Black, you can choose the perfect pair to match your style. With sizes ranging from 39 to 44, you’re sure to find the right fit for your feet. These sneakers feature a solid color pattern and eye-catching stitching details that add a trendy flair. Suitable for all seasons—summer, winter, spring, and autumn—they are a must-have addition to your wardrobe. Check out the images below to see how these sneakers can elevate your outfit, and don’t miss out on the chance to grab a pair that best suits your personal style!
-  Updated: 2025-11-21T06:53:36Z
+  Updated: 2025-11-25T20:59:30Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -6057,7 +6057,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/qULbaZ7VmUN6Yj2V.webp?v=1763663036
     Price: €58.52 EUR
 - [Winter Trendy High-Top Canvas Sneakers for Men](https://mdg-9604.myshopify.com/products/winter-trendy-high-top-canvas-sneakers-for-men): Step into style and comfort with our trendy high-top canvas shoes, perfect for the winter season! These shoes are designed to elevate your wardrobe while keeping you cozy with a plush inner lining. Crafted with a durable rubber sole for optimal grip, these shoes are ideal for both urban adventures and casual outings. The unique graffiti design adds a pop of personality, making a bold statement wherever you go. Available in multiple colors including classic Black, fresh White, and vibrant Yellow, you can find the perfect pair to match your style. With various sizes ranging from 39 to 44, you can enjoy a comfortable fit tailored just for you. Check out the striking visuals below to see these stylish shoes in action: Don’t miss out on these versatile shoes that combine style and comfort effortlessly. Whether you’re dressing up for a night out or keeping it casual, these canvas shoes are the perfect addition to your collection!
-  Updated: 2025-11-21T14:46:07Z
+  Updated: 2025-11-25T20:59:30Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -6207,7 +6207,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/TaEuVSA0rbgvTAAb.webp?v=1763663127
     Price: €75.48 EUR
 - [Spring High-Top Canvas Sneakers for Men (Size 45)](https://mdg-9604.myshopify.com/products/spring-high-top-canvas-sneakers-for-men-size-45): Step into the season with style and comfort in our latest collection of high-top canvas sneakers. Designed for those who crave a blend of fashion and functionality, these sneakers are perfect for casual outings or intense workouts. Available in a variety of vibrant colors including White, Yellow, Green, and Orange, you can easily find the perfect pair to match your unique style. The upper is crafted from breathable mesh material, ensuring your feet stay cool and comfortable throughout the day. The PU sole provides excellent cushioning and support, making these sneakers ideal for all-day wear. With sizes ranging from 39 to 45, we cater to a diverse range of foot sizes, ensuring everyone can enjoy the superior comfort and style that our sneakers offer. Elevate your sneaker game this spring with our stylish and comfortable high-top canvas sneakers. Whether you're hitting the gym or heading out with friends, these shoes are your go-to choice for trendy and practical footwear.
-  Updated: 2025-11-21T06:21:09Z
+  Updated: 2025-11-25T20:59:30Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -6325,7 +6325,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/0lKRgf36hZdrb83M.webp?v=1763662947
     Price: €79.66 EUR
 - [Men's Breathable Waterproof High-Top Hiking Shoes 45-46](https://mdg-9604.myshopify.com/products/mens-breathable-waterproof-high-top-hiking-shoes-45-46): Elevate your outdoor adventures with our high-quality breathable and waterproof hiking shoes, designed specifically for men who love to explore the great outdoors. These durable shoes are perfect for trekking, hiking, and any rugged activity you can imagine, ensuring that your feet stay comfortable and dry no matter the weather. Available in various sizes ranging from 39 to 46, you can find the perfect fit for your feet. Choose from two stylish colors: Brown and Black, each offering a sleek appearance that complements any outdoor gear. Featuring a robust high-top design, these shoes provide excellent ankle support, while the lightweight construction, weighing just 1.230 kg, ensures you can move freely and confidently on any terrain. Whether you’re hitting the trails or just enjoying a leisurely walk in the park, our hiking shoes are built to withstand the elements and keep you going strong. Don’t compromise on quality or style – get ready to conquer your next adventure!
-  Updated: 2025-11-21T06:37:53Z
+  Updated: 2025-11-25T20:59:30Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -6459,7 +6459,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/x24zqpZR22WFsMUT.webp?v=1763663193
     Price: €101.43 EUR
 - [Men's Genuine Leather Breathable Casual Shoes (Size 45-46)](https://mdg-9604.myshopify.com/products/mens-genuine-leather-breathable-casual-shoes-size-45-46): Elevate your footwear game with our collection of genuine leather shoes designed specifically for the modern man. Crafted from high-quality headlayer cowhide, these shoes provide not only durability but also a touch of luxury that speaks to your style. Experience ultimate comfort with the breathable perforated design, allowing your feet to stay cool and dry even in warmer climates. No more sacrificing style for comfort—these shoes offer both in one package! Safety is key, and our shoes come equipped with a superior anti-slip sole, ensuring a firm grip on various surfaces. Whether you're navigating through city streets or attending business meetings, you can trust these shoes to keep you steady. Designed for versatility, these shoes feature a business casual aesthetic that makes them perfect for any occasion, whether it’s a casual outing or a formal event. Pair them effortlessly with your favorite outfits. We understand that style shouldn’t be limited by size. That’s why our shoes are available in plus sizes 45 to 46, providing a fashionable and comfortable option for those with larger feet. Specifically tailored for middle-aged men (ages 40-60), these shoes provide a comfortable and supportive fit, catering to the unique style and comfort needs of this demographic. Discover the perfect blend of style, comfort, and practicality with our genuine leather shoes. Make them a staple in your wardrobe today!
-  Updated: 2025-11-21T11:16:20Z
+  Updated: 2025-11-25T20:59:30Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -6597,7 +6597,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/pdHRwLQb3tFdqd6i.webp?v=1763663209
     Price: €76.46 EUR
 - [Personalized High-Top Casual Sports Hiking Boots Size 46](https://mdg-9604.myshopify.com/products/personalized-high-top-casual-sports-hiking-boots-size-46): Step into style and comfort with our Personalized Korean Fashion Casual Shoes. These high-top hiking boots are designed for the adventurous spirit, combining functionality with a modern aesthetic that suits any casual outing. Made from artificial PU for the upper material and a durable rubber sole, they are perfect for both outdoor activities and everyday wear. Crafted with a breathable design, these shoes ensure your feet stay fresh no matter the journey. The round toe shape and flat heel provide all-day comfort, while the low tube height offers a trendy look that pairs perfectly with any outfit. Featuring popular elements such as color matching, these boots are not just functional but fashionable as well. Choose from a variety of colors including Beige, Black Gray, and Green—each available in sizes ranging from 39 to 46. Whether you're exploring nature or heading out for a casual meet-up, these boots are your go-to choice. Check out our stunning images below to see the stylish details and versatile designs of these must-have boots!
-  Updated: 2025-11-21T08:00:15Z
+  Updated: 2025-11-25T20:59:31Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -6731,7 +6731,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/I5WgWMfEjj1JNtcy.webp?v=1763663079
     Price: €94.58 EUR
 - [Men's Summer Breathable Sock Sneakers Size 45-46](https://mdg-9604.myshopify.com/products/mens-summer-breathable-sock-sneakers-size-45-46): Step into summer with our Breathable Sock Shoes designed for the modern man. These stylish sneakers are perfect for any casual outing, offering a perfect blend of comfort and trendiness. The high help upper is made from durable fabric, ensuring a snug fit while allowing your feet to breathe, making them ideal for those warm summer days. With a rubber sole that provides excellent grip and support, these shoes are perfect for both sports and leisure activities. The viscose shoe craft adds a unique touch, while the car suture detailing elevates their overall aesthetic. The round toe shape ensures ample space for your toes, giving you the comfort you deserve. Available in multiple color options including White, Black, Yellow, and Red, and a variety of sizes from 39 to 46, there's a perfect pair for everyone. Choose your style and make a statement wherever you go! Check out our collection of images below to see these stylish sneakers in action!
-  Updated: 2025-11-21T06:21:55Z
+  Updated: 2025-11-25T20:59:31Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -6865,7 +6865,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/P1VX2Z5wAyNSqwIT.webp?v=1763663263
     Price: €85.26 EUR
 - [Men's Yellow High-Top Sneakers for Fall/Winter 45-46](https://mdg-9604.myshopify.com/products/mens-yellow-high-top-sneakers-for-fall-winter-45-46): Introducing the latest in stylish footwear, our Air Force High-top Sneakers designed for trendy youth and active couples! These sneakers are not just shoes; they're a statement of fashion and functionality, perfect for any casual outing or sports activity. Crafted with a breathable artificial PU upper, these sneakers ensure your feet stay comfortable and cool, even during long wear. The flat heel and round toe design provide a relaxed fit, making them ideal for everyday use. Whether you're hitting the streets or hanging out with friends, these shoes are designed for leisure and versatility. Available in a striking yellow color that stands out, as well as classic white and black options, you can choose the perfect pair to match your style. With sizes ranging from 36 to 46, finding your perfect fit is easy! These sneakers feature a mid-cut design that adds an edge to your look, along with cross straps that enhance both style and support. The rubber sole offers excellent traction and durability, making them suitable for various daily scenarios. Whether you're a student looking for a fashionable pair of shoes or a couple wanting matching sneakers, these high-tops are your go-to choice. Don’t miss out on the chance to step out in style this autumn and winter! Grab your pair today and experience the perfect blend of comfort and fashion.
-  Updated: 2025-11-21T07:00:58Z
+  Updated: 2025-11-25T20:59:31Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -7003,7 +7003,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/qhHNUkT5YUU3ymbc.webp?v=1763663275
     Price: €75.39 EUR
 - [High-Top Casual Sneakers for Men, Size 45-46](https://mdg-9604.myshopify.com/products/high-top-casual-sneakers-for-men-size-45-46): Step up your footwear game this season with our trendy high-top sneakers, designed for both comfort and style. These sneakers are perfect for the modern man, whether you're a student, a young professional, or simply someone who loves a cool, casual look. Crafted with a premium combination of leather and Oxford materials for the upper, these shoes are not only durable but also exude a stylish appeal. The PVC sole ensures excellent grip and long-lasting wear, making them suitable for various activities. Available in striking color combinations of white and red, white and black, and classic black, these sneakers cater to different tastes and preferences. Choose the color that fits your personality and wardrobe! The interior of the shoe is designed with your comfort in mind, providing a soft and cozy fit throughout the day. Whether you're heading to class, running errands, or just hanging out with friends, these sneakers will keep your feet feeling great. With a variety of sizes ranging from 38 to 45, finding the perfect fit has never been easier. Don’t miss out on the chance to elevate your sneaker collection. Check out the images below to see these stylish shoes up close:
-  Updated: 2025-11-21T06:54:29Z
+  Updated: 2025-11-25T20:59:31Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -7105,7 +7105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/L4ztcrx3iaFmfXLI.webp?v=1763663057
     Price: €65.40 EUR
 - [High Top Basketball Sneakers for Men - Black Casual Style](https://mdg-9604.myshopify.com/products/high-top-basketball-sneakers-for-men-black-casual-style): Elevate your game with our latest high-top basketball sneakers, designed for both performance and style. These sneakers are perfect for the active youth aged 18 to 40, providing the ultimate blend of sportiness and casual flair. Featuring a lace-up closure for a secure fit, these shoes are constructed with a robust rubber sole for excellent traction on the court and beyond. The trendy car suture detailing adds a modern touch, ensuring you stand out whether you're shooting hoops or hanging out with friends. With a low heel height of just 1-3 cm and a comfortable round toe style, these sneakers are designed for all-day wear, making them perfect for both sports and leisure activities. The thick bottom style provides extra cushioning, while the soft cloth interior ensures your feet stay cozy. Available in a variety of colors including classic black, sleek white, and vibrant yellow, you can choose the perfect pair that matches your unique style. Each pair is meticulously crafted with a fabric upper and durable PU insole, ensuring they are not only stylish but built to last. Check out some of our stunning images to see these sneakers in action: Don't miss out on the opportunity to step up your sneaker game with these stylish and functional high-top basketball sneakers. Perfect for any occasion, they are a must-have addition to your footwear collection!
-  Updated: 2025-11-21T06:22:28Z
+  Updated: 2025-11-25T20:59:31Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -7207,7 +7207,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Et6mpLJ95FrZqLjZ.webp?v=1763662981
     Price: €86.36 EUR
 - [Korean Style Casual High Top Dad Sneakers for Men](https://mdg-9604.myshopify.com/products/korean-style-casual-high-top-dad-sneakers-for-men): Discover the ultimate blend of style and comfort with our trendy Sporty Casual Shoes. Designed for the modern young man aged 18 to 40, these shoes are perfect for all seasons—be it summer, autumn, winter, or spring. The versatile design features a captivating color blocking pattern that will make you stand out in any crowd. Crafted with a breathable mesh upper and a durable rubber sole, these shoes not only provide excellent support during sports activities but also ensure maximum comfort throughout the day. Whether you're hitting the gym or just hanging out with friends, these shoes are your go-to choice for an active lifestyle. Available in a variety of stylish colors including Rice Orange, Black Moon, and Dark Green, you can easily find the perfect pair to match your unique style. With sizes ranging from 39 to 46, we ensure a fit that's just right for you. Enhance your wardrobe with these chic, sporty shoes that promise to elevate any outfit. Don't miss out on this essential addition to your shoe collection!
-  Updated: 2025-11-21T10:56:32Z
+  Updated: 2025-11-25T20:59:31Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -7309,7 +7309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/2bufEOGnhLBWwE0Q.webp?v=1763663241
     Price: €110.75 EUR
 - [Men's Retro High-Top Casual Sneakers with Anti-Slip Design](https://mdg-9604.myshopify.com/products/mens-retro-high-top-casual-sneakers-with-anti-slip-design): Step into style and comfort with our latest collection of men's casual sneakers, designed for the modern gentleman who appreciates a touch of retro flair. These spring and autumn sneakers are not only a fashion statement but also built for functionality, featuring a non-slip design that ensures you stay steady on your feet. Crafted from artificial PU, the upper material combines durability with a sleek look, perfect for casual outings or sporty adventures. The round toe shape and shallow opening provide a relaxed fit, making these sneakers a go-to choice for any occasion. With a low heel height of just 1-3CM, you can enjoy all-day comfort without sacrificing style. Available in three versatile colors: White Gray, White Yellow, and Black Gray, these sneakers can easily complement any wardrobe. Choose from a range of sizes (39 to 44) to ensure the perfect fit. Ideal for the spring season, these sneakers embody a casual style with trendy leather stitching and popular elements that elevate your casual look. Whether you're heading out for a coffee or hitting the gym, these sneakers are the ultimate blend of style and practicality. Don’t miss out on elevating your footwear collection – grab a pair of these stylish, comfortable sneakers today!
-  Updated: 2025-11-21T07:07:04Z
+  Updated: 2025-11-25T20:59:32Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -7387,7 +7387,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Rb540r3QwaYEB1lI.webp?v=1763663133
     Price: €78.95 EUR
 - [Casual High-Top Sneakers for Men with Chunky Design](https://mdg-9604.myshopify.com/products/casual-high-top-sneakers-for-men-with-chunky-design): Introducing our versatile and trendy casual sneakers, designed for modern men who value both style and comfort. Whether you're hitting the gym, running errands, or just hanging out with friends, these sneakers are your go-to footwear choice. Crafted with a soft insole, these shoes provide an unparalleled level of comfort that supports your foot all day long. The upper is made from a combination of flying line and PU, ensuring durability and a sleek look. The polyurethane outsole guarantees excellent grip and flexibility, making each step feel light and effortless. Available in two classic colors, Black and White, these sneakers come in a wide range of sizes (35 to 48) to fit every foot perfectly. Choose the perfect pair that matches your style and enjoy the versatility this footwear brings to your wardrobe. Check out the stunning visuals below to see the stylish designs and quality craftsmanship for yourself: Elevate your footwear game with these fashionable and functional sneakers. Don't miss out on the chance to add comfort and style to your daily outfits!
-  Updated: 2025-11-21T06:23:20Z
+  Updated: 2025-11-25T20:59:32Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -7505,7 +7505,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/hZAfZ6Kqk6l9S1vU.webp?v=1763663316
     Price: €51.52 EUR
 - [Trendy Casual High Top Sneakers - Korean British Style](https://mdg-9604.myshopify.com/products/trendy-casual-high-top-sneakers-korean-british-style): Step into style and comfort with our trendy casual sneakers, designed for those who appreciate a perfect blend of fashion and functionality. Crafted from artificial PU for a sleek look, these high-top sneakers not only elevate your outfit but also provide lasting durability. With a low heel height of just 1-3 CM, these sneakers are perfect for all-day wear, allowing you to move effortlessly from day to night. The rubber sole offers excellent grip and stability, making these shoes ideal for various activities, whether it's a casual outing or a sporty day. Available in a variety of colors and sizes, including classic White Blue and stylish White Black, you can easily find the perfect pair that matches your personal style. Each pair weighs only 0.73 kg, ensuring a lightweight feel without compromising on support. Explore our selection of sizes, ranging from 38 to 44, ensuring a comfortable fit for everyone. Whether you prefer a subtle heightening effect or the classic style, we have the perfect variation for your needs. Don't miss out on the opportunity to elevate your footwear collection with these versatile sneakers that combine style, comfort, and functionality. Grab your favorite pair today and step out in confidence!
-  Updated: 2025-11-21T09:04:01Z
+  Updated: 2025-11-25T20:59:32Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -7607,7 +7607,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/8TOOzNjHCfZ4XJFV.webp?v=1763663174
     Price: €68.54 EUR
 - [Men's Korean Style Casual High-Top Sneakers](https://mdg-9604.myshopify.com/products/mens-korean-style-casual-high-top-sneakers): Discover the ultimate blend of style and comfort with our Korean version of the autumn new men's shoes. Crafted from high-quality microfiber, these casual sports shoes are designed for those who value both functionality and fashion. Featuring a thick bottom for added height and a trendy look, these shoes are perfect for everyday wear or a casual outing. The high-top design not only provides excellent ankle support but also adds a stylish edge to your outfit. Available in a variety of colors, including Brown, Light Gray, and Gray, you can choose the perfect shade to match your personal style. With sizes ranging from 38 to 43, finding your ideal fit has never been easier. Elevate your footwear collection with these super fire high shoes that are not just a fashion statement but also a testament to your active lifestyle. Whether you're hitting the streets or lounging at home, these men's booties promise to keep you looking sharp and feeling great.
-  Updated: 2025-11-21T06:25:16Z
+  Updated: 2025-11-25T20:59:32Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -7685,7 +7685,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/XYseRobnQYzTy8cx.webp?v=1763663295
     Price: €94.33 EUR
 - [Casual High-Top Sneakers for Men](https://mdg-9604.myshopify.com/products/casual-high-top-sneakers-for-men): Step out in style and comfort with our high-top casual shoes designed specifically for men. Crafted with premium bull suede (brushed leather), these shoes not only look great, but they also provide exceptional durability and a soft touch, making them perfect for everyday wear. Featuring a classic round toe shape, these shoes ensure a comfortable fit while giving you the freedom to move. Available in multiple sizes ranging from 39 to 44, you can find the perfect fit for your feet. Whether you're dressing up for a casual outing or keeping it relaxed, these versatile shoes will complement any outfit. With a weight of just 1.01 kg, they are lightweight enough for all-day wear without sacrificing support. The stylish design is enhanced by a rich selection of colors, allowing you to express your unique style effortlessly. Choose from our wide variety of options to find the pair that suits you best. Elevate your footwear collection with these fashionable and functional high-top casual shoes that promise to offer both comfort and style wherever you go!
-  Updated: 2025-11-21T17:01:17Z
+  Updated: 2025-11-25T20:59:32Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -7763,7 +7763,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/bHEOY2xMeOCLC4yd.webp?v=1763663419
     Price: €73.21 EUR
 - [Men's Casual High-Top Sneakers](https://mdg-9604.myshopify.com/products/mens-casual-high-top-sneakers): Step up your style game with our trendy Men's Casual High-Top Sneakers. Crafted from high-quality artificial PU, these sneakers not only offer durability but also an effortlessly cool retro vibe. The standout feature of these shoes is the unique car stitching detail, giving them a distinctive look that sets you apart from the crowd. Available in multiple color options like Black and Green, and a range of sizes from 39 to 44, there’s a perfect fit for everyone. Whether you are dressing up for a casual outing or just lounging around, these sneakers provide the perfect blend of comfort and style. Check out the stunning images below to see the craftsmanship and design up close:
-  Updated: 2025-11-21T06:32:38Z
+  Updated: 2025-11-25T20:59:33Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -7817,7 +7817,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/wQKIJTvoHwW38BYy.webp?v=1763663354
     Price: €57.51 EUR
 - [Men's British High-Top Leather Boots, Round Toe Martin](https://mdg-9604.myshopify.com/products/mens-british-high-top-leather-boots-round-toe-martin): Step into sophistication with our English-style high-top leather boots, designed specifically for the modern man who values both style and comfort. These premium boots are crafted from high-quality leather, ensuring durability and a refined appearance that can elevate any outfit. Available in classic colors of Black and Brown, these boots offer a versatile addition to your wardrobe. Each pair comes in a range of sizes from 37 to 45, with a note that they run one size larger than your usual fit, allowing for a comfortable wear throughout the day. Whether you’re dressing up for a formal occasion or looking for a stylish addition to your casual wear, these boots are the perfect choice. The round toe design and sturdy construction make them ideal for both business and casual settings. Experience the blend of classic style and contemporary flair with our English high-top leather boots! Don’t miss out on this opportunity to enhance your footwear collection. Choose your preferred color and size today, and step out with confidence!
-  Updated: 2025-11-21T10:48:33Z
+  Updated: 2025-11-25T20:59:33Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -7895,7 +7895,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/vGwtbDVmuEZ0aVAD.webp?v=1763663491
     Price: €241.36 EUR
 - [Men's Retro Leather Martin Boots with Pointed Toe](https://mdg-9604.myshopify.com/products/mens-retro-leather-martin-boots-with-pointed-toe): Step into style and comfort with our Men's Martin Boots, expertly designed to elevate your footwear collection. Crafted from premium leather, these boots offer both durability and timeless appeal. The cow split leather upper ensures a sophisticated look while the beef tendon sole provides exceptional traction and support for all-day wear. Featuring a classic round toe shape and low flat heel (1-3CM), these boots are perfect for both casual outings and more formal occasions. The car suture detailing adds a touch of rugged charm that sets these boots apart. Inside, you'll find a cozy cotton lining that adds warmth and comfort, while the artificial leather insole provides cushioning for effortless walking. Weighing just 1.3 kg, they are lightweight yet sturdy, making them a go-to choice for any adventure. Available in an array of colors—black, light brown, and dark brown—these boots cater to every style preference. With 30 variations in sizes ranging from 38 to 47, you are sure to find the perfect fit. Elevate your wardrobe with these versatile and stylish Martin boots that perfectly balance comfort and elegance. Don’t miss out—step into your new favorite pair today!
-  Updated: 2025-11-21T06:43:17Z
+  Updated: 2025-11-25T20:59:33Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -8021,7 +8021,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Tn31O917hNxKIcBK.webp?v=1763663553
     Price: €90.23 EUR
 - [Men's High-Top Leather Pointed Toe Boots](https://mdg-9604.myshopify.com/products/mens-high-top-leather-pointed-toe-boots): Step into sophistication and comfort with our Men's Leather Pointed Toe High-Top Boots. Designed for the modern man, these boots seamlessly blend style and functionality, making them perfect for any winter outing. Crafted from premium first layer cowhide, the upper material is not only durable but also exudes a classic charm that will elevate your wardrobe. The pointed toe shape adds a touch of elegance, while the square heel provides stability and support, making them suitable for long wear. The flat heel design ensures you stay comfortable whether you're at work or out on the town. Enjoy the breathable and non-slip features that make these boots perfect for any winter adventure. With a variety of colors including Beige, Black, and Brown available in multiple sizes, you can find the perfect pair that fits your style. The innovative frosted processing method not only enhances the aesthetic but also adds a unique texture that sets these boots apart. Each pair is meticulously crafted with a rubber sole for durability and a PU insole for extra comfort. The inside is lined with soft leather, ensuring your feet stay warm and cozy during the chilly months. These versatile boots can be worn as overshoes or slipped on with ease, adapting to your lifestyle effortlessly. Whether you're dressing up for a formal occasion or going for a casual look, these boots are your go-to choice. Upgrade your footwear collection this winter with our Men's Leather Pointed Toe High-Top Boots – where style meets comfort!
-  Updated: 2025-11-21T06:32:43Z
+  Updated: 2025-11-25T20:59:33Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -8208,7 +8208,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/f3IvzIPurbbW5ngE.webp?v=1763663599
     Price: €107.85 EUR
 - [Men's Pointed Toe Casual Leather Martin Boots](https://mdg-9604.myshopify.com/products/mens-pointed-toe-casual-leather-martin-boots): Step into style and sophistication with our exclusive collection of Fashion Business Casual Leather Shoes. These pointed toe short Martin boots are designed for the modern man who values both elegance and comfort. Crafted from high-quality microfiber leather and featuring a sleek design, these boots are perfect for any occasion, whether it's a business meeting or a casual outing. The innovative design includes a rubber upper sole for enhanced durability and a breathable mesh lining that keeps your feet comfortable throughout the day. The shaved leather process not only adds a touch of luxury but also ensures that these boots remain lightweight and easy to wear. Available in a variety of colors including black leather, black plush, and blue, and a range of sizes, you can find the perfect pair that suits your unique style. Each pair is meticulously crafted to provide a standard fit, ensuring that you can confidently step out in style. Elevate your wardrobe with these versatile boots that seamlessly blend fashion with function. Whether you’re dressing up for a special occasion or looking for a reliable everyday shoe, these boots have got you covered. Don't miss out on the opportunity to enhance your footwear collection. Experience the perfect blend of style, comfort, and quality with our Fashion Business Casual Leather Shoes today!
-  Updated: 2025-11-21T07:05:52Z
+  Updated: 2025-11-25T20:59:33Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -8309,7 +8309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/a5HkYvgZo1Nm1Lpa.webp?v=1763663562
     Price: €153.44 EUR
 - [High Top Pointed Toe Martin Boots](https://mdg-9604.myshopify.com/products/high-top-pointed-toe-martin-boots): Step into the season with our stunning High Top Pointed Toe Martin Boots that blend style and functionality seamlessly. Crafted with a rubber sole for durability and non-slip performance, these boots are designed to provide both comfort and confidence with every step you take. With a stylish pointed toe and flat heel, they exude a modern edge while ensuring comfort during your autumn adventures. The middle tube height gives a flattering silhouette, while the thicker design keeps your feet warm against the chilly breeze. The fashionable rub color processing method adds a unique twist, making these boots a standout piece in any wardrobe. They feature a convenient front tie fastening for easy wear, and their plain pattern allows for versatile styling. Available in a variety of colors including Black plus velvet, Brown, and Dark Brown, you can choose the perfect pair to match your personal style. With sizes ranging from 38 to 48, finding your fit has never been easier. Embrace the autumn season with confidence and flair with our High Top Pointed Toe Martin Boots.
-  Updated: 2025-11-21T06:44:00Z
+  Updated: 2025-11-25T20:59:33Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -8515,7 +8515,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/urDV2TzfZzLpbbq3.webp?v=1763663410
     Price: €91.05 EUR
 - [Men's High-Top Nubuck Leather Pointed Toe Martin Boots](https://mdg-9604.myshopify.com/products/mens-high-top-nubuck-leather-pointed-toe-martin-boots): Elevate your style with our stunning Pointed Toe British Martin Boots. Crafted from high-quality nubuck leather, these men's high-top ankle boots offer a blend of sophistication and comfort that is perfect for the modern man. Whether you're heading to the office or out for a casual evening, these boots will make a statement. Designed with a sleek pointed toe and a chic wedge heel, they provide a unique aesthetic that pairs well with any outfit. The flat heel ensures comfort for all-day wear, while the durable rubber sole offers excellent traction, making them suitable for winter seasons. Available in a variety of colors including Black, Brown, Green, Khaki, and Yellow, you can choose the perfect shade to match your personal style. With sizes ranging from 35 to 45, finding your perfect fit has never been easier. The exquisite frosted leather finish adds a touch of luxury, and the PU boot tube material adds flexibility and comfort. Each pair is meticulously designed to ensure you look sharp and feel great. Check out our stunning images below to see these boots in action! Don’t miss out on the chance to own a pair of these exceptional boots that combine style, comfort, and durability.
-  Updated: 2025-11-21T06:31:10Z
+  Updated: 2025-11-25T20:59:34Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -8721,7 +8721,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/38DOA3WeEZ0HgzUW.webp?v=1763663461
     Price: €116.27 EUR
 - [Men's High Top British Winter Leather Martin Boots](https://mdg-9604.myshopify.com/products/mens-high-top-british-winter-leather-martin-boots): Step into the season with our Winter Leather Martin Boots, designed specifically for the modern man who values both style and comfort. These high-top boots are crafted from two-layer pigskin, ensuring durability and a luxurious feel that stands up to the elements. The rubber and Oxford sole provide exceptional grip and support, making them suitable for any winter adventure. With a round toe shape and a low heel height of just 1-3CM, these boots are perfect for all-day wear without sacrificing comfort. The casual style makes them versatile enough to pair with jeans, chinos, or even your work attire. Featuring stylish stitching elements, they add a touch of flair to your outfit. Available in a variety of colors including Khaki and Black, and multiple sizes ranging from 38 to 44, you're sure to find the perfect fit for your unique style. Whether you're heading to work or out for a weekend stroll, these boots will keep you looking sharp and feeling comfortable. Don’t miss out on the opportunity to elevate your footwear collection this winter. Choose the Winter Leather Martin Boots for a blend of rugged charm and refined elegance.
-  Updated: 2025-11-21T15:11:35Z
+  Updated: 2025-11-25T20:59:34Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -8811,7 +8811,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/EYyrgaVq20cKJc2i.webp?v=1763663698
     Price: €111.54 EUR
 - [Men's High Top British Retro Martin Boots](https://mdg-9604.myshopify.com/products/mens-high-top-british-retro-martin-boots): Step out in style with our latest British Retro Tooling Martin Boots, designed specifically for the modern man who appreciates both fashion and functionality. Crafted from premium top layer cowhide, these boots offer a luxurious feel and look, making them the perfect addition to any wardrobe. Featuring a durable rubber sole, these boots are built to be wear-resistant, ensuring that they stand the test of time, whether you’re navigating the city streets or enjoying a night out. The classic round toe design and medium tube height provide comfort while maintaining a sleek silhouette. With a stylish British flair, these Martin boots showcase exquisite leather stitching, elevating your outfit with effortless elegance. The front tie closure not only adds a touch of charm but also allows for a secure fit, making them as practical as they are fashionable. Choose from a variety of colors, including classic black and rich brown, and find the perfect size among our extensive range. Whether you're dressing up for a formal event or looking for a casual everyday shoe, these boots are versatile enough to complement any look. Don’t miss out on the chance to own a pair of these stunning Martin boots, where style meets durability. Make a statement with every step you take!
-  Updated: 2025-11-21T09:13:49Z
+  Updated: 2025-11-25T20:59:34Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -8873,7 +8873,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/lN1GYlabrUnLCBnJ.webp?v=1763663567
     Price: €263.24 EUR
 - [Men's High Top British Lace-Up Martin Boots](https://mdg-9604.myshopify.com/products/mens-high-top-british-lace-up-martin-boots): Elevate your style with our Men's Business Casual High Top British Lace-Up Martin Boots. These boots encapsulate a unique design, blending fashion and functionality effortlessly. Constructed from genuine leather, they ensure not only a sophisticated look but also comfort for your feet, making them perfect for all-day wear. Available in a variety of colors including black and brown, you can effortlessly match these boots with any outfit, whether for work or leisure. The round toe shape and low heel (1-3CM) enhance their casual appeal while providing the necessary support for your feet. Designed with features such as a breathable inner lining made of artificial short plush and a faux fur insole, these boots will keep your feet cozy during the autumn season. The rubber sole is not only non-slip but also offers durability, ensuring that your boots will last for seasons to come. Choose from sizes 7.5 to 12 to find your perfect fit. Whether you prefer a classic black or a rich brown, our boots are designed to cater to your style and comfort needs. Package Content: 1 pair x shoes
-  Updated: 2025-11-21T06:35:42Z
+  Updated: 2025-11-25T20:59:34Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -8935,7 +8935,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/RXyLGBh7rUocxDVd.webp?v=1763663573
     Price: €68.30 EUR
 - [Men's Autumn High-Top British Martin Boots](https://mdg-9604.myshopify.com/products/mens-autumn-high-top-british-martin-boots): Step into style and comfort this autumn with our stunning men's high-top Martin boots. Crafted from high-quality suede, these boots are designed for the modern man who values both aesthetics and functionality. The wear-resistant rubber sole ensures durability, making them perfect for everyday wear or outdoor adventures. Featuring a round toe shape and a low thick heel (1-3CM), these boots provide the perfect balance of support and style. The middle tube height offers additional ankle support, while the front tie design adds a classic touch. With a unique graffiti pattern, you can express your individuality effortlessly. Inside, you'll find a comfortable PU insole and a breathable mesh lining that keeps your feet cool and comfortable all day long. Available in multiple sizes and colors, including striking black and red, elegant black, and versatile khaki, these boots are perfect for any outfit or occasion. Upgrade your footwear collection today and embrace the perfect blend of style and comfort with our men's autumn British high-top Martin boots.
-  Updated: 2025-11-21T06:35:53Z
+  Updated: 2025-11-25T20:59:35Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -9013,7 +9013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/xgxlDIQAg9CpxPOx.webp?v=1763663622
     Price: €68.63 EUR
 - [Men's Leather British Style Martin Boots](https://mdg-9604.myshopify.com/products/mens-leather-british-style-martin-boots): Step into style and comfort with our Men's British Style Martin Boots. These boots are designed to elevate your winter wardrobe while providing unmatched durability and support. Crafted with high-quality materials, these boots feature a robust first layer cowhide upper and a soft pigskin lining that ensures your feet stay warm and comfortable in cold weather. The classic round toe and low heel design combine to create a timeless look that pairs effortlessly with any outfit. Whether you're navigating urban streets or venturing into the great outdoors, the wear-resistant rubber sole offers excellent traction and stability. The thick bottom design provides extra cushioning, making each step a pleasure, while the vegetable tanning process adds a unique touch that enhances the leather's natural beauty. Available in a range of colors including dark green, brown, and khaki, and sizes from 38 to 44, you can find the perfect pair that suits your style. With a focus on both aesthetics and functionality, these boots are perfect for the youthful spirit aged 18-40 who appreciates quality craftsmanship. Don't miss out on this essential winter style! Check out the images below to see the beautiful details of these boots: Upgrade your footwear collection with these versatile Martin boots today and experience the perfect blend of style and comfort!
-  Updated: 2025-11-21T06:33:10Z
+  Updated: 2025-11-25T20:59:35Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -9103,7 +9103,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/5AldP7zNkSJuklnu.webp?v=1763663763
     Price: €217.73 EUR
 - [Men's British Style Leather Martin Boots](https://mdg-9604.myshopify.com/products/mens-british-style-leather-martin-boots): Step into Style and Comfort Elevate your footwear game with our Martin Boots by KRUSDAN, a perfect blend of British style and modern functionality. Crafted from high-quality top layer cowhide leather, these boots promise both durability and sophistication. Whether you're dressing up for a night out or keeping it casual, these boots offer versatility and flair. Featuring a retro design with a round toe shape and a medium drum height, the Martin Boots are not just about looks. The low square heel provides added stability, making them perfect for all-day wear. With a breathable interior made from natural pigskin and leather, your feet will stay comfortable and well-ventilated. The anti-skid rubber sole ensures a firm grip on various surfaces, allowing you to walk with confidence. Plus, the hollow-out design adds a unique touch, ensuring you stand out in any crowd. Available in classic colors, brown and coffee, these boots are designed to complement any outfit. Choose from a range of sizes (38-44) to find your perfect fit and experience the blend of style, comfort, and functionality that only Martin Boots can offer. Don’t miss out on the chance to enhance your wardrobe with this timeless piece. Order now and step into your new favorite boots!
-  Updated: 2025-11-21T06:33:18Z
+  Updated: 2025-11-25T20:59:35Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -9165,7 +9165,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/C2pJ2FLPL1yI8GwQ.webp?v=1763663687
     Price: €183.17 EUR
 - [Men's High-Top British Style Trendy Martin Boots](https://mdg-9604.myshopify.com/products/mens-high-top-british-style-trendy-martin-boots): Step into style and comfort with our high-top Martin Boots, crafted for the modern man who values both fashion and functionality. Made from premium pig leather, these boots exude sophistication while ensuring durability and comfort for everyday wear. Key Features: - **Waterproof**: Keep your feet dry in wet conditions without compromising on style. - **Non-slip sole**: The rubber sole provides excellent grip, making them perfect for various terrains. - **Height increase**: Elevate your stature effortlessly while enjoying the added confidence that comes with it. - **Stylish stitching**: The unique car suture design enhances the overall aesthetic, making these boots a standout choice. - **Versatile color options**: Available in a variety of colors including Khaki, Camel, and Sand, you can find the perfect pair to match your wardrobe. Available Sizes: From US size 5.5 to 12.5, we offer a wide range of sizes to cater to every foot type. Don’t miss out on elevating your shoe game with these trendy and practical Martin Boots. Perfect for casual outings, work, or any adventure that comes your way. Choose your favorite color and size to step out in confidence today!
-  Updated: 2025-11-21T06:33:50Z
+  Updated: 2025-11-25T20:59:35Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -9371,7 +9371,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/2Mu9VZUMxcIVTkTQ.webp?v=1763663720
     Price: €80.95 EUR
 - [Men's Autumn British Style Martin Boots](https://mdg-9604.myshopify.com/products/mens-autumn-british-style-martin-boots): Step into the season with our stylish Men's Autumn British Style Martin Boots that blend classic elegance with modern comfort. Crafted from premium materials, these boots are designed to elevate your wardrobe while ensuring that you stay comfortable all day long. With a suede boot shaft and a luxurious leather interior, these boots promise durability and a refined look. The PU insole offers superior cushioning, making them perfect for long walks or casual outings. Choose from a variety of colors including black, gray, and khaki, ensuring you find the perfect pair to match your unique style. Available in sizes ranging from 39 to 44, these boots cater to different preferences and foot shapes, providing both versatility and comfort. Whether you’re dressing up for a special occasion or going for a casual day out, these boots are the ideal choice for every outfit. Check out some of the stunning designs: Don't miss out on the chance to own these stylish and comfortable Martin boots. Perfect for the autumn season, they bring a touch of British charm to your footwear collection. Update your shoe game today!
-  Updated: 2025-11-21T07:04:57Z
+  Updated: 2025-11-25T20:59:35Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -9425,7 +9425,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/XPBAenwRCXad6f8B.webp?v=1763663724
     Price: €76.38 EUR
 - [Men's Trendy British Style Martin Boots](https://mdg-9604.myshopify.com/products/mens-trendy-british-style-martin-boots): Step into style and comfort with our British style trendy Martin boots. Designed for the modern man, these boots seamlessly blend casual elegance with practical functionality. Whether you’re heading to work or out for a weekend adventure, these boots are your perfect companion. Crafted with a durable rubber sole, they provide excellent grip and stability on various surfaces, making them non-slip and perfect for everyday wear. The high tube design offers ankle support, while the thick heel ensures maximum comfort throughout the day. Featuring a classic round toe and a front tie wearing style, these boots are easy to slip on and off while providing a snug fit. The car suture detailing adds a touch of sophistication, making them suitable for both casual outings and more formal occasions. Available in various colors, including Sand, Khaki, and Black, and multiple sizes to suit your personal style and needs. Choose the pair that speaks to you and fits perfectly! Elevate your footwear game with these versatile Martin boots that promise comfort, style, and durability. Don’t miss out on the opportunity to own a pair that truly defines your fashion sense!
-  Updated: 2025-11-21T07:05:15Z
+  Updated: 2025-11-25T20:59:35Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -9503,7 +9503,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/rhPdm5Kj1FE8Fhc4.webp?v=1763663790
     Price: €71.24 EUR
 - [Men's High-Top Martin Leather Boots - New British Style](https://mdg-9604.myshopify.com/products/mens-high-top-martin-leather-boots-new-british-style): Step up your style game with our High-top Martin Leather Boots, the perfect fusion of classic British design and modern comfort. Crafted for the youth aged 18-40, these boots are tailored for the contemporary man who values both fashion and functionality. Made from premium pig leather, these boots ensure durability while providing a luxurious feel. The rubber sole offers exceptional grip and shock absorption, making them perfect for both urban adventures and casual outings. With a round toe and low square heel, you can count on a comfortable fit without sacrificing style. Available in three versatile colors: black, gray, and sand color, these boots can effortlessly complement any outfit. Choose from sizes 39 to 43 to find the perfect fit for you. The middle tube height and ordinary thickness of the material ensure that you stay comfortable all day long, while the classic car suture detailing adds a touch of sophistication. Whether you’re dressing up for a night out or keeping it casual, these boots are designed to carry you through any occasion. Features: - Premium pig leather upper for durability - Shock-absorbing rubber sole for comfort - Stylish round toe and low square heel - Classic British design with elegant car suture detailing Elevate your footwear collection with the High-top Martin Leather Boots and step confidently into any situation. Don’t miss out on the chance to own a pair of these timeless boots!
-  Updated: 2025-11-21T07:11:40Z
+  Updated: 2025-11-25T20:59:36Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -9569,7 +9569,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/VGx5ovMQ4jNsQdaT.webp?v=1763663786
     Price: €57.10 EUR
 - [Men's British Style High-Top Winter Martin Boots](https://mdg-9604.myshopify.com/products/mens-british-style-high-top-winter-martin-boots): Step out in style this winter with our Martin boots, designed for the modern man who values both fashion and functionality. These high-top short boots bring a touch of British charm to your wardrobe, making them the perfect choice for any occasion, be it casual outings or more formal gatherings. Crafted from high-quality artificial PU, these boots offer durability and a sleek appearance. The creative trend style is highlighted by unique car suture elements, giving you a trendy yet classic look that stands out in any crowd. Available in a rich brown hue, these boots are versatile enough to pair with various outfits. Choose from a range of sizes, specifically designed for youth aged 18 to 40, ensuring a perfect fit for every man. With a height of 130mm and a weight of approximately 1.05 to 1.11 kg, these Martin boots strike the perfect balance between comfort and sturdiness, making them suitable for daily wear. Don't miss out on the chance to enhance your footwear collection with these essential boots. Check out the stunning images below to see how they can elevate your style this season!
-  Updated: 2025-11-21T07:06:06Z
+  Updated: 2025-11-25T20:59:36Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -9603,7 +9603,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/GGMVUkZATYYvRSSb.webp?v=1763663760
     Price: €83.29 EUR
 - [Men's High-Top Leather Martin Boots in British Style](https://mdg-9604.myshopify.com/products/mens-high-top-leather-martin-boots-in-british-style): Step out in style with our Martin Boots, a perfect fusion of classic British design and modern Korean trends. Crafted from high-quality microfiber, these high-top leather boots are not only fashionable but also incredibly durable. The rubber sole ensures a sturdy grip, making them ideal for any occasion. Designed for ultimate comfort, the round toe shape and flat heel provide a relaxed fit, while the waxed leather processing gives them a sophisticated finish. Whether you're dressing up for a night out or keeping it casual, these boots are versatile enough to complement any outfit. Available in three stunning colors: Black, Brown, and Grey, and a variety of sizes from 39 to 44, you're sure to find the perfect pair that fits your unique style. Explore the images below to see these boots in action: Elevate your footwear collection with the Martin Boots. Order now and experience the blend of style, comfort, and quality!
-  Updated: 2025-11-21T06:37:52Z
+  Updated: 2025-11-25T20:59:36Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -9681,7 +9681,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/4Qy3aCLU1ItdKsr6.webp?v=1763663909
     Price: €78.05 EUR
 - [Men's High-Top British Style Leather Martin Boots](https://mdg-9604.myshopify.com/products/mens-high-top-british-style-leather-martin-boots): Step up your style game with our Men's High-top British Style Tooling Leather Martin Boots. Crafted from premium cowhide, these boots combine durability and elegance, ensuring you make a statement wherever you go. With a sleek rubber sole, they offer excellent traction and comfort for all-day wear. Designed for both men and women, these versatile boots feature a unique graffiti pattern that stands out in a crowd. The breathable mesh lining inside the boot shaft provides added comfort, keeping your feet cool and fresh. Choose from a range of stunning colors including black, brown, and wine red, allowing you to express your personal style. Available in sizes 37 to 45, you’re sure to find the perfect fit. Take a look at these striking images to see the exceptional design and craftsmanship: Elevate your footwear collection today with these stylish, high-quality boots. Don’t miss out on the chance to enhance your wardrobe with a pair that perfectly balances fashion and functionality!
-  Updated: 2025-11-21T12:13:50Z
+  Updated: 2025-11-25T20:59:36Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -9759,7 +9759,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/pIhDKCKitgDxXEPt.webp?v=1763672187
     Price: €114.60 EUR
 - [British Style Men's Mid-High Leather Martin Boots](https://mdg-9604.myshopify.com/products/british-style-mens-mid-high-leather-martin-boots): Step into sophistication with our British Style Men's Mid-high Leather Martin Boots! Crafted from premium cowhide leather, these boots offer not just style but also durability and comfort. The vintage design features a classic round toe shape and a mid-height heel ranging from 3 to 5cm, perfect for both formal and casual occasions. Designed for the modern man, these boots are wear-resistant, ensuring they stand the test of time while keeping your feet comfortable and stylish. Available in classic black and rich brown, you’ll find a color that suits your unique style. Choose from a variety of sizes to get the perfect fit. Whether you're dressed up for an evening out or looking to elevate your everyday wardrobe, these Martin boots are the ideal choice. Why choose our Martin Boots? - High-quality leather upper - Comfortable rubber sole for all-day wear - Timeless vintage style that pairs well with any outfit - 14 variations in size and color to ensure a perfect fit for everyone Explore our collection and elevate your shoe game with our British Style Men's Mid-high Leather Martin Boots. Your feet deserve the best!
-  Updated: 2025-11-21T11:18:33Z
+  Updated: 2025-11-25T20:59:36Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -9821,7 +9821,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/4fPfVGtU66auLTyK.webp?v=1763672154
     Price: €146.89 EUR
 - [Men's British Style Casual High Top Martin Boots](https://mdg-9604.myshopify.com/products/mens-british-style-casual-high-top-martin-boots): Step out in style with our Men's British Style Casual High Top Martin Boots, designed for the modern man who values both comfort and fashion. These versatile boots are perfect for youth aged 18-40, making them an essential addition to your autumn wardrobe. Crafted with a robust canvas upper and a durable rubber sole, these boots provide exceptional support and durability for daily wear. Featuring a round toe and a low heel (1-3CM) with a thick heel shape, they offer a relaxed fit that doesn’t compromise on style. The car suture detail adds a touch of sophistication, while the plain pattern ensures they can be paired effortlessly with any outfit. Whether you’re heading out for a casual gathering or a day of exploration, these boots are designed for easy wear with their convenient front tie style. The low tube height offers additional comfort, while the breathable and increased function keeps your feet feeling fresh throughout the day. Made with high-quality leather cloth stitching, these Martin boots are not just a fashion statement; they are built to last. Available in multiple sizes, from 38 to 44, and in a classic black color, you can find the perfect fit that suits your style. Don’t miss out on the opportunity to elevate your footwear collection with these trendy and practical boots!
-  Updated: 2025-11-21T11:07:21Z
+  Updated: 2025-11-25T20:59:37Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -9855,7 +9855,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/In3fEhQImCAM8oI7.webp?v=1763672147
     Price: €57.04 EUR
 - [Martin British Style Men's High-Top Leather Boots](https://mdg-9604.myshopify.com/products/martin-british-style-mens-high-top-leather-boots): Step into style and comfort with our Martin British Style Men's High Top Leather Boots. Crafted for the modern man, these boots are not just footwear; they're a statement of elegance and sophistication. Made from high-quality Artificial PU for the upper and a durable rubber sole, they offer both longevity and a classic appeal. Available in a stunning array of colors such as black and black with cotton, these boots are designed to suit every occasion, whether it's a formal event or a casual outing. The sleek, plain pattern adds to their versatility, allowing you to pair them effortlessly with your favorite outfits. With sizes ranging from 35 to 44, finding your perfect fit is easy. Each boot features a comfortable inner length tailored to provide the best fit for your feet, ensuring you can walk confidently and comfortably all day long. Check out our exclusive images to see the elegant design and craftsmanship that set these boots apart: Elevate your shoe game with these high top leather boots that perfectly blend comfort, style, and functionality. Don't miss out on the chance to own a pair of boots that will redefine your wardrobe!
-  Updated: 2025-11-21T08:55:09Z
+  Updated: 2025-11-25T20:59:37Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -10005,7 +10005,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/9QrqR36rFoXjJU04.webp?v=1763672191
     Price: €74.72 EUR
 - [Men's High-Top Martin Boots in British Style](https://mdg-9604.myshopify.com/products/mens-high-top-martin-boots-in-british-style): Step into style and comfort with our Men's High-top Martin Boots! These boots are the epitome of modern fashion, combining a classic round toe design with a low heel for added stability. Crafted with a durable wear-resistant material, they are perfect for everyday wear while making a bold style statement. The thick heel provides extra support, making them ideal for long days on your feet. Featuring a unique car suture design element, these Martin boots stand out as a popular choice for those who appreciate quality craftsmanship. The low tube height and ordinary thickness ensure they are easy to wear, while the front tie wearing style allows for a customizable fit. Available in a variety of sizes from 39 to 44, you can easily find the perfect fit for your feet. Choose from elegant colors like Black, Brown, and White to match any outfit in your wardrobe. Whether you're dressing up for a night out or keeping it casual during the day, these boots will elevate your look effortlessly. Don't miss out on the perfect combination of style and function. Check out how these boots look from every angle: Upgrade your footwear collection today with these stylish and practical Men's High-top Martin Boots!
-  Updated: 2025-11-21T17:14:54Z
+  Updated: 2025-11-25T20:59:37Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -10083,7 +10083,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/shVnySrixBCF4b9t.webp?v=1763672276
     Price: €88.67 EUR
 - [Men's British Style High-Top Leather Martin Boots](https://mdg-9604.myshopify.com/products/mens-british-style-high-top-leather-martin-boots): Step up your style game with our Men's British Style Fashion High-top Leather Shoes. These mid-top Martin boots are the perfect blend of fashion and functionality, designed for the modern man who values both aesthetics and comfort. Featuring a solid color pattern, these boots are available in classic black and rich dark brown, making them versatile enough to pair with any outfit, whether it's for a casual day out or a night on the town. Crafted with high-quality artificial PU for the upper and imitation leather lining, these boots are not only stylish but also durable and easy to maintain. The innovative side zipper allows for effortless wear, ensuring you can slip them on and off with ease, while the mid-top design provides ample support and warmth during the colder months. Choose from a wide range of sizes from 38 to 47 to find your perfect fit. Whether you’re dressing up for an event or just going for a casual look, these boots are sure to elevate your wardrobe. Don't compromise on style or comfort. Upgrade your footwear collection with these exceptional boots today!
-  Updated: 2025-11-21T12:27:53Z
+  Updated: 2025-11-25T20:59:37Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -10169,7 +10169,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/lS5KzTER0egAHqYG.webp?v=1763672266
     Price: €95.37 EUR
 - [Men's High-Top Leather Boots - Retro British Style](https://mdg-9604.myshopify.com/products/mens-high-top-leather-boots-retro-british-style): Step into sophistication with our Men's High-top Sleeve Leather Boots, expertly crafted from the finest first-layer cowhide. These boots blend traditional British retro style with modern functionality, making them the perfect choice for any occasion. Designed with a comfortable round toe and a low square heel (1-3CM), these boots ensure a stylish look without compromising on comfort. The breathable and non-slip features provide you with the confidence to wear them all day, while the warm interiors keep your feet cozy in any season. The boots boast a unique color-rubbed leather finish, showcasing exquisite car stitching that highlights their craftsmanship. Available in classic black and rich brown, these versatile boots can easily transition from casual outings to formal events. With a convenient sleeve/overshoe design, these boots are easy to wear and perfect for those who appreciate both style and practicality. The inner material made from genuine leather and pigskin ensures durability and comfort with every step. Choose your perfect fit from sizes 38 to 44 and elevate your footwear collection today!
-  Updated: 2025-11-21T08:55:28Z
+  Updated: 2025-11-25T20:59:37Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -10231,7 +10231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/2tpiBUiZ0cmihFJG.webp?v=1763672224
     Price: €101.60 EUR
 - [British Style Velvet Leather Mid-Top High-Top Boots](https://mdg-9604.myshopify.com/products/british-style-velvet-leather-mid-top-high-top-boots): Step into sophistication with our British Style Plus Velvet Leather Mid-top High-top Leather Boots. Crafted for both comfort and style, these boots are designed to elevate your wardrobe while providing the durability and support you need for everyday wear. Made from high-quality velvet leather, they offer a luxurious feel that only gets better with time. These mid-top high-top boots feature a classic design that combines traditional British style with modern flair, making them a perfect addition to any outfit—whether you're dressing up for a night out or keeping it casual. Available in a stunning Coffee color, these boots come in a variety of sizes ranging from 38 to 44, ensuring a perfect fit for everyone. Each pair is engineered for comfort, with thoughtful geometric measurements that include a height of 100mm, a length of 300mm, a width of 220mm, and a weight of only 0.74kg. This lightweight design allows you to move freely while still looking stylish. Check out the stunning visuals of these boots below, showcasing their elegant design and versatile appeal: Don't miss out on the chance to own a pair of these stunning boots that perfectly blend comfort, style, and durability. Your feet deserve the best!
-  Updated: 2025-11-21T08:57:12Z
+  Updated: 2025-11-25T20:59:37Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -10265,7 +10265,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/isw7zdkT1kc0NxJ4.webp?v=1763672170
     Price: €178.58 EUR
 - [British Style High-Top Pointed Leather Boots](https://mdg-9604.myshopify.com/products/british-style-high-top-pointed-leather-boots): Step into sophistication with our High-top Shoes British Style Pointed Leather Boots. Designed for the modern individual, these boots blend unique style with unparalleled comfort. Crafted from high-quality artificial PU, they offer a luxurious feel while remaining durable for everyday wear. Available in a classic black hue, these boots are perfect for any occasion, ensuring you look effortlessly stylish. The pointed toe shape adds a touch of elegance, while the flat heel provides all-day comfort. Whether you're dressing up for a night out or keeping it casual, these boots adapt to your style. Featuring a non-slip sole crafted from rubber, these boots provide the traction you need without compromising on style. The low tube design and lace-up style make them easy to wear, while the grid pattern and car suture elements add a fashionable flair. Every pair is designed with a soft cloth lining and a comfortable PU insole, ensuring your feet feel great whether you're on the go or enjoying a long night out. With sizes ranging from 38 to 48, there's a perfect fit waiting for everyone! Package Content: 1 pair x shoes Get ready to elevate your footwear game with our High-top Shoes British Style Pointed Leather Boots. See the stunning images below to appreciate the craftsmanship and style of these boots!
-  Updated: 2025-11-21T09:18:09Z
+  Updated: 2025-11-25T20:59:38Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -10315,7 +10315,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/pjDXIMeBgxPOmy5a.webp?v=1763672263
     Price: €100.34 EUR
 - [British Style High-Top Leather Tooling Boots](https://mdg-9604.myshopify.com/products/british-style-high-top-leather-tooling-boots): Step out in style and comfort with our High-top Leather Boots, designed in a classic British style that marries elegance with rugged durability. Made from high-quality artificial leather, these boots are perfect for any occasion, whether you're heading out for a casual day or dressing up for a night out. Featuring a sturdy rubber sole, these boots provide excellent traction and support, making them ideal for all-day wear. The round toe design ensures a comfortable fit, allowing your feet to breathe thanks to the mesh lining inside the boot shaft. With a middle heel height of 3-5CM, you'll enjoy a subtle lift without sacrificing comfort. Available in three versatile colors: black, brown, and yellow, these boots can easily complement any outfit in your wardrobe. Choose from a range of sizes (39 to 44) to find your perfect fit, ensuring you walk with confidence and style. Each pair of our men's leather boots comes packed with care, ready to enhance your footwear collection. Images:
-  Updated: 2025-11-21T17:14:01Z
+  Updated: 2025-11-25T20:59:38Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -10381,7 +10381,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/RYMx8NwFuRkYgX8T.webp?v=1763672287
     Price: €75.70 EUR
 - [British Desert Tooling Boots](https://mdg-9604.myshopify.com/products/british-desert-tooling-boots): Step into a world of timeless style and unmatched comfort with our British desert tooling boots. Crafted from high-quality frosted leather, these vintage-inspired boots are designed to make a statement while providing superior durability and support. The robust rubber sole ensures excellent traction, making them perfect for both urban adventures and rugged terrains. Whether you're dressing up for a night out or dressing down for a casual day, these boots are the ideal choice to complement any outfit. Available in a variety of colors including Grey, Beige, and Black, and a wide range of sizes, you can find the perfect pair that fits your style and needs. Each pair is meticulously designed to offer both functionality and flair, ensuring you look great while feeling comfortable. Check out our stunning images showcasing these boots in all their glory: Don’t miss out on the chance to elevate your footwear game with these stunning boots. With a perfect blend of classic style and modern comfort, the British desert tooling boots are a wardrobe essential for every fashion-forward individual.
-  Updated: 2025-11-21T08:56:19Z
+  Updated: 2025-11-25T20:59:38Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -10459,7 +10459,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/HJqCqOLpRVAUZbUI.webp?v=1763672329
     Price: €85.10 EUR
 - [Mid-High Top Male British Style Tooling Boots](https://mdg-9604.myshopify.com/products/mid-high-top-male-british-style-tooling-boots): Discover the perfect blend of style and functionality with our Male British Style Tooling Boots. Expertly crafted for those who value both aesthetics and durability, these mid-high top boots are designed to stand the test of time in the most demanding environments. Made with head layer cowhide, the boots not only provide a sleek and sophisticated appeal but also ensure exceptional comfort and support. The high top design gives added ankle protection, making them perfect for the construction industry and various outdoor activities. Featuring a round toe style and a functional anti-smash capability, these boots are engineered to keep your feet safe while you work or explore. The adhesive shoemaking process guarantees a robust build, ensuring that each step you take is secure and confident. Available in a variety of colors including classic black, brown, yellow, yellow brown, and dark brown, you can choose the perfect pair that matches your personal style. With multiple size options ranging from 38 to 47, finding your ideal fit has never been easier. Elevate your footwear game with our Male British Style Tooling Boots and experience the ultimate in comfort and protection. Perfect for professionals and adventurers alike, these boots are a must-have addition to your wardrobe.
-  Updated: 2025-11-21T22:19:54Z
+  Updated: 2025-11-25T20:59:38Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -10629,7 +10629,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/ZiJxZOIiQH63nK7h.webp?v=1763672343
     Price: €161.45 EUR
 - [Men's British PU Fashion Tooling Boots](https://mdg-9604.myshopify.com/products/mens-british-pu-fashion-tooling-boots): Step up your style with our trendy Martin boots! These Men's British PU Men's Shoes Fashion Tooling Boots are the perfect blend of style and functionality, designed for the modern man who values both comfort and aesthetics. Crafted from high-quality artificial PU for the upper and featuring a sturdy rubber sole, these boots offer durability and a refined look that complements any outfit. With a round toe shape, these boots are not only stylish but also practical, providing ample space for your toes to move comfortably. Available in a wide range of sizes and colors, you can easily find the perfect pair that fits your unique style. Whether you're dressing up for a night out or keeping it casual, these boots will elevate your look and provide the comfort you need for all-day wear. Don't miss out on the opportunity to add these versatile boots to your wardrobe!
-  Updated: 2025-11-21T08:57:33Z
+  Updated: 2025-11-25T20:59:38Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -10779,7 +10779,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/zOm9BN2GxUg833zs.webp?v=1763672434
     Price: €156.84 EUR
 - [Men's Retro High-Top British Style Leather Desert Boots](https://mdg-9604.myshopify.com/products/mens-retro-high-top-british-style-leather-desert-boots): Step into style and comfort with our British Style Leather Boots. These men's retro high-top outdoor desert boots are designed to elevate your footwear game while ensuring maximum durability and support. Crafted from premium pigskin leather, these boots offer a luxurious feel and timeless appeal. The round head toe shape provides ample room for your toes, ensuring comfort throughout the day. With a low heel height of just 1-3CM, these boots are perfect for both casual outings and rugged adventures. The sturdy oxford sole ensures excellent traction on various surfaces, making them ideal for outdoor activities. Whether you're hiking, walking, or simply enjoying a day out, these boots will keep your feet supported and stylish. Available in a range of sizes and colors, including vibrant yellow and sleek gray, you can find the perfect pair that matches your unique style. Check out the stunning visuals below to see these boots in all their glory: Choose your size and color today, and step out in confidence with these exceptional leather boots that redefine retro style!
-  Updated: 2025-11-21T21:37:05Z
+  Updated: 2025-11-25T20:59:39Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -10839,7 +10839,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/kWAeds7gYeq2pcwu.webp?v=1763672287
     Price: €91.54 EUR
 - [Men's British Style Mid-Top Leather Tooling Boots](https://mdg-9604.myshopify.com/products/mens-british-style-mid-top-leather-tooling-boots): Step into style and comfort with our Men's Tooling Boots, designed to elevate your wardrobe while providing exceptional functionality. Crafted from premium cowhide leather, these boots boast a sleek and sophisticated look that is perfect for any occasion. The round head toe shape and thick heel ensure a modern silhouette while offering the support you need. The rubber sole is not only durable but also non-slip, making these boots ideal for both urban adventures and outdoor excursions. With features like waterproof material, heightened design, and breathable construction, your feet will stay comfortable and dry, regardless of the weather. The microfiber lining enhances breathability and moisture-wicking properties, keeping your feet feeling fresh throughout the day. Available in classic black and rich brown, and a variety of sizes ranging from 38 to 46, you can find the perfect fit for your style. The leisurely style is enhanced with unique car suture detailing that adds a touch of artisanal craftsmanship. Whether you're dressing up for a casual outing or gearing up for a weekend adventure, our Men's Tooling Boots are versatile enough to complement any outfit. Don't miss out on the perfect blend of fashion and function—grab your pair now!
-  Updated: 2025-11-21T09:34:25Z
+  Updated: 2025-11-25T20:59:39Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -10917,7 +10917,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/W4fX37Y0Of7v5khT.webp?v=1763672333
     Price: €117.93 EUR
 - [Vintage British Tooling Men's Boots](https://mdg-9604.myshopify.com/products/vintage-british-tooling-mens-boots): Step up your style with our Vintage British Tooling Men's Boots, where classic elegance meets modern functionality. Designed for the discerning gentleman, these boots are crafted from high-quality microfiber that not only looks great but also offers exceptional durability and comfort. Featuring a rubber sole, these boots provide excellent traction, making them perfect for both urban adventures and countryside strolls. With a low thick heel (1-3CM) and a pointed toe shape, they ensure you can walk confidently and stylishly wherever you go. The British style is accentuated by meticulous car suture detailing, making these boots a timeless addition to your wardrobe. They are designed with a breathable interior, ensuring your feet stay comfortable throughout the day, while the non-slip feature adds an extra layer of safety. Available in a variety of colors—P825 black, P825 brown, and P825 grey—you can choose the perfect pair to match your personal style. With sizes ranging from 38 to 45, finding the right fit has never been easier. Whether you wear them as overshoes or styled with your favorite outfit, our Vintage British Tooling Men's Boots are the perfect combination of fashion and functionality. Elevate your footwear collection today and experience the difference!
-  Updated: 2025-11-21T10:02:30Z
+  Updated: 2025-11-25T20:59:39Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -11019,7 +11019,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/bYx1M2BZQVnh7CxI.webp?v=1763672352
     Price: €101.08 EUR
 - [High-Top Tooling Men's Boots in British Desert Style](https://mdg-9604.myshopify.com/products/high-top-tooling-mens-boots-in-british-desert-style): Step into style and comfort with our exquisite high-top tooling men's boots, a perfect blend of British style and rugged durability. Crafted from genuine leather, these Martin boots are designed for the modern man who values both fashion and function. The sleek round toe shape and low heel (1-3CM) provide a comfortable fit, making them ideal for casual outings or adventurous days. Available in classic black and sophisticated khaki, these boots come in a variety of sizes to ensure the perfect fit for everyone. The high-quality head layer cowhide not only enhances durability but also adds a touch of elegance to your ensemble. Whether you're dressing up for a night out or keeping it casual, these boots are versatile enough to complement any look. The sewing thread details add a unique flair, making these boots a standout choice. Browse through our selection of variations to find the ideal size and color that suits your style: Experience the perfect combination of comfort and style with our high-top tooling men's boots. Elevate your footwear collection today!
-  Updated: 2025-11-21T19:21:05Z
+  Updated: 2025-11-25T20:59:39Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -11079,7 +11079,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/VD7wnUBFsoNR76c5.webp?v=1763672362
     Price: €135.75 EUR
 - [Men's Round Toe British Style Tooling Boots](https://mdg-9604.myshopify.com/products/mens-round-toe-british-style-tooling-boots): Step into style and comfort with our latest collection of Fashion Trend Simple Personality Tooling Boots. Designed specifically for the modern man aged 18-40, these boots are the perfect blend of functionality and fashion. Crafted from high-quality artificial PU, the upper material ensures durability while providing a sleek appearance. The round toe design offers ample space for your toes, making them perfect for everyday wear. With a low heel height of 1-3CM and a sturdy thick heel, these boots provide both comfort and stability. The plastic sole is designed to withstand daily use, making them an ideal choice for both work and play. Available in a variety of stylish colors including Beige Grey, Black, and Brown, and sizes ranging from 39 to 44, these boots cater to every individual style. Whether you’re dressing up for a night out or keeping it casual, these boots will elevate any outfit. Don’t miss out on the opportunity to enhance your wardrobe with these trendy boots. Make a statement wherever you go!
-  Updated: 2025-11-21T18:21:49Z
+  Updated: 2025-11-25T20:59:40Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -11157,7 +11157,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/w96VlfIBD78F1seI.webp?v=1763672532
     Price: €71.55 EUR
 - [Retro British High-Top Martin Tooling Boots for Men](https://mdg-9604.myshopify.com/products/retro-british-high-top-martin-tooling-boots-for-men): Step into a world of retro fashion with our Martin Boots British High-Top Tooling Boots. Crafted from premium PU rubber, these boots are designed to offer both style and durability, making them the perfect addition to your footwear collection. Available in two stunning colors - Khaki and Coffee - these high-top boots are not just a statement piece; they are built for comfort and functionality. The combination of rubber soles and cloth inner material ensures that your feet stay comfortable, whether you're out on a casual stroll or working on a project. The upper material of PU provides a sleek look while being easy to clean and maintain. Each pair features an inner lining made of cloth for added comfort, ensuring that you can wear them all day without any discomfort. With an array of sizes from 39 to 44, you can find the perfect fit for your feet. Whether you prefer the earthy tones of Khaki or the rich warmth of Coffee, these boots are versatile enough to pair with any outfit. Upgrade your wardrobe with the Martin Boots today, and experience the blend of style, comfort, and functionality that every modern man deserves.
-  Updated: 2025-11-21T14:21:21Z
+  Updated: 2025-11-25T20:59:40Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -11235,7 +11235,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/fUYxaAmLmv68hvyl.webp?v=1763672297
     Price: €94.82 EUR
 - [Retro High-Top Casual Tooling Boots for Trendy Look](https://mdg-9604.myshopify.com/products/retro-high-top-casual-tooling-boots-for-trendy-look): Step into the world of stylish comfort with our Retro Trend Tooling Boots. These high-top casual shoes are designed for the modern man who values both fashion and functionality. Crafted from high-quality microfiber, the upper provides durability and a sleek look that stands out in any setting. With a middle opening depth of 7-11CM, these boots ensure a comfortable fit while allowing for easy wear. The round toe shape and flat heel height make them perfect for all-day use, whether you're on the job or out with friends. Available in multiple sizes and colors, including classic brown, khaki, and black, our Retro Trend Tooling Boots cater to every style preference. Each pair features intricate car stitching details that enhance their vintage appeal. These boots not only look good, but they also provide warmth for those cooler days, making them a versatile addition to your footwear collection. Explore our selection and find the perfect fit for you. Elevate your casual style with the Retro Trend Tooling Boots, where comfort meets timeless design!
-  Updated: 2025-11-21T10:49:12Z
+  Updated: 2025-11-25T20:59:40Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -11373,7 +11373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/q3o71Fpn8cU7G7rA.webp?v=1763672496
     Price: €93.48 EUR
 - [Retro Tooling Casual Leather Shoes for Men](https://mdg-9604.myshopify.com/products/retro-tooling-casual-leather-shoes-for-men): Step into style and comfort with our Retro Tooling Men's Casual Leather Shoes. Crafted from high-quality Crazy horse leather and featuring a classic lace-up design, these shoes are the perfect blend of vintage charm and modern functionality. The wear-resistant construction ensures that you can confidently wear them for any occasion, whether you're heading to work or enjoying a night out. The brown leather stitching adds a touch of sophistication, making these shoes a versatile addition to your wardrobe. Designed with a round toe style, they offer ample space for your feet, ensuring all-day comfort. The two-layer pigskin insole provides extra cushioning, allowing you to stay on your feet longer without discomfort. With sizes ranging from 38 to 44, you can easily find the perfect fit. The shoes are constructed with a durable leather sole, providing excellent traction and stability as you walk. Embrace the vintage aesthetic while enjoying the practicality of modern craftsmanship. Don't miss out on the chance to elevate your footwear collection. Check out the stunning visuals below and see how these shoes can transform your look:
-  Updated: 2025-11-21T11:51:15Z
+  Updated: 2025-11-25T20:59:40Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -11407,7 +11407,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/X0D2oBAAKyLO9h5w.webp?v=1763672352
     Price: €152.24 EUR
 - [Men's High-Top Cowhide Martin Trendy Tooling Boots](https://mdg-9604.myshopify.com/products/mens-high-top-cowhide-martin-trendy-tooling-boots): Step up your style game with these Men's Cowhide Martin High-top Boots, a perfect blend of vintage charm and modern sophistication. Crafted from premium cowhide leather, these boots offer both durability and a touch of elegance. Designed specifically for men, they feature a square toe design and a comfortable low heel (1-3CM) that keeps you looking sharp without sacrificing comfort. The innovative TPR sole provides excellent traction, ensuring you stay grounded in any environment. Perfect for those chilly days, these boots are designed to keep warm while you navigate through your daily adventures. The middle tube height offers additional coverage, making them versatile for both casual and slightly formal occasions. Available in multiple variations, including classic colors like black, brown, and vibrant red, you can choose the perfect pair to match your personal style. Each pair is detailed with a unique car suture design, adding to their distinctive appeal. Check out the stunning images below to see why these boots are a must-have in your wardrobe:
-  Updated: 2025-11-21T11:56:23Z
+  Updated: 2025-11-25T20:59:41Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -11613,7 +11613,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/aYnUZhbslexB9fx4.webp?v=1763672349
     Price: €95.09 EUR
 - [Men's Trendy Korean Casual Tooling Boots](https://mdg-9604.myshopify.com/products/mens-trendy-korean-casual-tooling-boots): Step into style and comfort with our Men's Trendy Boots. Designed for the modern man, these Korean Casual Shoes not only elevate your outfit but also provide the durability you need. Perfect for any occasion, whether you're hitting the streets or heading out for a casual day, these boots will keep your feet feeling great. Made with high-quality textiles and a cozy cloth lining, these boots are crafted to ensure maximum comfort. The leather cloth stitching adds a touch of sophistication while the mesh interior enhances breathability, allowing your feet to stay cool even on warmer days. The boots feature an injection-molded sole for added strength and stability, making them suitable for various terrains. Available in three versatile colors – Black, Khaki, and Gray – you can easily match them with any wardrobe. Choose from a range of sizes to find your perfect fit, with options from 39 to 44 available. With a lightweight design of just 0.8 kg, these boots are easy to wear throughout the day without any discomfort. Don’t compromise on style or comfort. Elevate your footwear collection with the Men's Trendy Boots today! Check out the stunning images below to see these boots in action:
-  Updated: 2025-11-21T10:13:15Z
+  Updated: 2025-11-25T20:59:41Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -11691,7 +11691,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/s7tRp5UFsdJ9xkn2.webp?v=1763672520
     Price: €70.10 EUR
 - [Martin High-Top Tooling Boots for Men - Retro Style](https://mdg-9604.myshopify.com/products/martin-high-top-tooling-boots-for-men-retro-style): Step into a world of style and comfort with our Martin Boots British High-Top Tooling Boots. Designed for the modern man, these retro-inspired shoes are perfect for winter, combining functionality with a strikingly fashionable look. Crafted from high-quality artificial PU for the upper and durable rubber for the sole, these boots are built to withstand the elements while keeping your feet warm and protected. The normal thickness ensures a comfortable fit that adapts to your foot's shape, making them ideal for everyday wear. Available in a variety of colors including classic sand and rich coffee, these boots also come in different sizes ranging from 39 to 44. Whether you prefer a traditional look or something more unique, we have a pair that will suit your style. Check out our selection of cotton options for an even softer touch! The intricate car stitching adds a touch of detail that sets these boots apart from the rest. With 24 variations to choose from, you can find the perfect pair that reflects your personal style while ensuring maximum comfort. Don’t miss out on the chance to elevate your footwear game. Grab your pair of Martin Boots today and enjoy the perfect blend of retro charm and modern functionality!
-  Updated: 2025-11-21T09:11:18Z
+  Updated: 2025-11-25T20:59:41Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -11787,7 +11787,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Uywb10DiQaSitfoR.webp?v=1763672563
     Price: €61.87 EUR
 - [Retro Men's High-top American Tooling Boots](https://mdg-9604.myshopify.com/products/retro-mens-high-top-american-tooling-boots): Step into style and comfort with our Retro Men's High-top Shoes, designed to elevate your casual wardrobe while ensuring warmth and durability. Crafted with a premium leather upper and a resilient rubber foam sole, these boots are perfect for both style and everyday wear. The shoes feature a classic round toe design and a low wedge heel, making them not only fashionable but also practical for all-day wear. The middle tube height offers additional support, while the cowhide cortex ensures a soft and comfortable fit. Whether you're heading out for a casual day or looking to make a statement, these boots are an ideal choice. Available in two timeless colors, Black and Yellowbrown, you can select from a range of sizes to find your perfect match. Each pair boasts attractive car suture elements that enhance its retro appeal, making them a versatile addition to any outfit. With a focus on functionality, these boots are designed to keep your feet warm during cooler months, ensuring you're prepared for anything the day may bring. The front tie wearing style adds a touch of classic charm while providing a customizable fit. Perfect for the modern man looking for style, comfort, and durability, the Retro Men's High-top Shoes are the footwear choice that checks all the boxes. Don't miss out on this essential addition to your shoe collection!
-  Updated: 2025-11-21T19:27:30Z
+  Updated: 2025-11-25T20:59:41Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -11857,7 +11857,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Wa6DyoMnS8YC0QFv.webp?v=1763672422
     Price: €140.91 EUR
 - [Men's Retro British Style Tooling Boots](https://mdg-9604.myshopify.com/products/mens-retro-british-style-tooling-boots): Discover the essence of British style with our Men's Tooling Retro Boots. Perfectly crafted for the modern man, these boots seamlessly blend fashion and functionality, making them a must-have for any stylish wardrobe. Featuring a unique thick sole and a high-mouth design that offers both comfort and support, these boots are made from high-quality PU material. The durable PVC sole ensures long-lasting wear, while the comfortable EVA insole provides the cushioning you need for all-day adventures. Available in a variety of colors including Army Green, Brown, and Black, you can choose the perfect pair to match your style. With options for sizes ranging from 39 to 44, finding your fit has never been easier. These boots are designed for youths aged 18 to 40, making them an ideal choice for anyone looking to elevate their footwear game. Whether you're heading to a casual outing or a more formal event, our Men's Tooling Retro Boots will keep you looking sharp and feeling confident. Check out these stunning images to see the craftsmanship and style for yourself: Step up your shoe game with our Men's Tooling British Style Retro Boots and embrace the perfect combination of style and comfort today!
-  Updated: 2025-11-21T09:56:10Z
+  Updated: 2025-11-25T20:59:42Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -11911,7 +11911,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Yv5wAEpwMNvvpEvx.webp?v=1763672392
     Price: €74.77 EUR
 - [Trendy Retro Leather Tooling Boots for Men](https://mdg-9604.myshopify.com/products/trendy-retro-leather-tooling-boots-for-men): Step into style and comfort with our Trendy Retro Tooling Boots Sleeve Leather Boots for Men. Crafted from premium two-layer cowhide, these boots offer a perfect blend of durability and elegance, making them a versatile addition to any wardrobe. Designed with a low square heel and a round toe, these boots are not only fashionable but also incredibly comfortable for daily wear. The rubber sole ensures excellent grip and stability, while the waxed leather finish gives them a chic, polished look. Whether you're heading out for a casual day out or dressing up for a night on the town, these boots will keep you looking sharp. They feature a cozy middle tube height that provides warmth, making them ideal for cooler weather. Available in various attractive colors, including classic black and brown options, and multiple sizes ranging from 38 to 44, you're sure to find the perfect fit for your style. The Velcro wearing style adds convenience, allowing for easy on-and-off. Explore our stunning collection through the images below and elevate your footwear game today!
-  Updated: 2025-11-21T09:45:21Z
+  Updated: 2025-11-25T20:59:42Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -12029,7 +12029,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/qXATkJCLhtgjLhC6.webp?v=1763672704
     Price: €64.85 EUR
 - [Men's Casual High-Top Retro Tooling Boots for Fall/Winter](https://mdg-9604.myshopify.com/products/mens-casual-high-top-retro-tooling-boots-for-fall-winter): Elevate your footwear collection this season with our stylish and comfortable Men's Autumn And Winter Casual High-top Shoes. Designed for the modern man, these retro tooling boots seamlessly blend functionality with fashion, making them perfect for any casual outing or outdoor adventure. Crafted from premium cow suede, these boots feature a durable rubber sole that ensures longevity and excellent grip on various surfaces. The round toe design provides ample space for your toes, while the low heel (1-3CM) offers just the right amount of elevation for comfort all day long. Available in three classic colors: yellow, black, and beige, these boots cater to all styles. The soft PU insole and mesh inner material ensure breathability, keeping your feet comfortable even during extended wear. With sizes ranging from 35 to 44, you can find the perfect fit for your feet. Check out our size chart below to select your ideal match: Explore the versatility of these boots through the images below: Don't miss out on the chance to step out in style and comfort. Grab your pair of Men's Autumn And Winter Casual High-top Shoes today and experience the perfect combination of retro charm and modern design!
-  Updated: 2025-11-21T14:15:45Z
+  Updated: 2025-11-25T20:59:42Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -12119,7 +12119,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/EMs8HfmS9DLX5ZWI.webp?v=1763672425
     Price: €126.10 EUR
 - [Zipper Plus Size Men's Leather Fashion Tooling Martin Boots](https://mdg-9604.myshopify.com/products/zipper-plus-size-mens-leather-fashion-tooling-martin-boots): Step out in rugged style and ultimate comfort with the Zipper Plus Size Men's Leather Fashion Tooling Martin Boots. Designed for durability and a bold aesthetic, these boots are perfect for any occasion, from casual outings to demanding work environments. Key Features:Premium Leather Construction: Crafted from high-quality leather for a sleek and durable finish. Resistant to wear and tear, ensuring long-lasting use. Zipper Closure for Convenience: Features a side zipper for easy on-and-off wear without compromising style. Provides a secure fit for all-day comfort. Fashionable Tooling Design: Classic Martin boot silhouette with modern detailing for a trendy yet timeless look. Suitable for casual, semi-formal, and outdoor settings. Comfortable Plus-Size Fit: Designed to accommodate larger sizes while maintaining style and comfort. Spacious interior with a cushioned insole for enhanced comfort during extended wear. Durable Non-Slip Outsole: Sturdy, anti-slip rubber sole for excellent traction on various surfaces. Ensures stability and safety in all weather conditions. Versatile Styling: Pairs effortlessly with jeans, chinos, or casual trousers for a rugged yet polished appearance. Ideal for work, travel, or everyday wear. Perfect for Any Occasion: Great for outdoor adventures, casual meetups, or work environments requiring durable footwear. Combines functionality with fashion for a versatile wardrobe staple. Why Choose These Martin Boots? Durable, stylish, and comfortable for a wide range of activities and occasions. Designed with practicality and aesthetics in mind for the modern man. Upgrade your footwear collection with the Zipper Plus Size Men's Leather Fashion Tooling Martin Boots, the perfect combination of rugged functionality and trend-forward style.
-  Updated: 2025-11-21T09:42:56Z
+  Updated: 2025-11-25T20:59:42Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -12169,7 +12169,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/8TGknECKdzAMnLS8.webp?v=1763672569
     Price: €94.80 EUR
 - [Men's High Top Leather Martin Boots - Fashion Tooling](https://mdg-9604.myshopify.com/products/mens-high-top-leather-martin-boots-fashion-tooling): Step out in style with our Men's Leather Boots, designed for the modern man who values both comfort and fashion. These high top Martin boots are perfect for any casual occasion, offering a blend of style and functionality. Crafted from artificial PU for the upper and featuring a durable rubber sole, these boots are built to last. The round toe shape ensures a relaxed fit, while the front tie wearing style adds a classic touch to your outfit. The boots come with a plain pattern that makes them versatile enough to pair with any casual attire. Inside, they are lined with PU material, providing additional comfort for all-day wear. Available in a variety of sizes from 7 to 13, you can find the perfect fit for your feet. Whether you're dressing up for a weekend outing or simply running errands, these boots are the ideal choice. Color Options: Classic Brown Sizes: 7, 8, 9, 10, 11, 12, 13 Enhance your wardrobe with these stylish boots! Check out the images below to see how they can elevate your look: Don't miss out on the chance to own these fashionable and comfortable boots. Upgrade your footwear collection today!
-  Updated: 2025-11-21T10:20:05Z
+  Updated: 2025-11-25T20:59:43Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -12203,7 +12203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/swpWLG8cfkfEempE.webp?v=1763672556
     Price: €97.80 EUR
 - [Martin Cowhide Boots with Green Thick Soles](https://mdg-9604.myshopify.com/products/martin-cowhide-boots-with-green-thick-soles): Step up your fashion game with our stunning Martin Boots. Crafted from premium cowhide, these boots are not just a style statement but also offer exceptional comfort and durability. With a chic mid-tube design, they are perfect for any occasion, whether you're dressing up for a night out or looking for everyday elegance. Featuring a super high heel that stands above 8CM, these boots will give you the height you desire while maintaining stability thanks to their thick rubber soles. The waterproof platform ensures that you keep your feet dry and stylish, no matter the weather. Available in a variety of colors including Black, Brown, Green, Off white, Purple, and Red, you can select the perfect pair to match your unique style. Choose from sizes 35 to 40 to find your perfect fit. The round toe design provides ample room for your toes, ensuring all-day comfort whether you're on the go or relaxing with friends. Elevate your wardrobe with the versatile and fashionable Martin Boots—where style meets function. Don't miss out on the chance to make a statement with every step you take!
-  Updated: 2025-11-21T09:12:20Z
+  Updated: 2025-11-25T20:59:43Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -12353,7 +12353,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/2huMLmMHYfrbJ00W.webp?v=1763672742
     Price: €126.34 EUR
 - [Summer Sequined Thick Heel Sexy Rivet Women's Heels](https://mdg-9604.myshopify.com/products/summer-sequined-thick-heel-sexy-rivet-womens-heels): Step into the spotlight with our stunning Summer New Sequined Thick Heel Sexy Rivet Women's High Heels. Perfectly designed for the modern woman, these heels will elevate your style and confidence, making them a must-have for your wardrobe this season. Crafted with a luxurious Artificial PU upper and a durable rubber sole, these heels are not only fashionable but also comfortable for all-day wear. The pointed toe shape adds a touch of elegance, while the buckle wearing style ensures a secure fit. Available in three eye-catching colors—Purple, Blue, and Gold—you can choose the perfect pair to match your outfit. Each color option boasts a unique shimmer that catches the light beautifully, making you the center of attention wherever you go. With a variety of sizes ranging from 34 to 42, you can find the perfect fit for your feet. Whether you're dressing up for a special occasion or looking to add some flair to your everyday look, these heels are versatile enough to complement any outfit. Don't miss out on the chance to make a statement this summer. Grab your pair of Summer New Sequined Thick Heel Sexy Rivet Women's High Heels today and step out in style!
-  Updated: 2025-11-21T11:22:18Z
+  Updated: 2025-11-25T20:59:43Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -12467,7 +12467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/vFzn6FripSJ9gJes.webp?v=1763673353
     Price: €65.97 EUR
 - [Women's Martin Boots - British Style Short Boots](https://mdg-9604.myshopify.com/products/womens-martin-boots-british-style-short-boots): Step into style and comfort with our Martin Boots, the perfect blend of classic British fashion and modern functionality. Designed with a chic side zipper for easy wear, these boots are not just a fashion statement; they are a testament to quality craftsmanship and durability. Available in a variety of sizes ranging from 35 to 40 and an array of stunning colors, including Black, Wine Red, Yellow, and Brown, you can easily find the perfect pair to match your unique style. The upper lining is made from artificial plush, providing warmth and comfort, while the sole is crafted from polyurethane for flexibility and grip. Whether you are heading out for a casual brunch or a night out on the town, these boots will elevate your outfit effortlessly. With a sleek design and versatile color options, they pair beautifully with jeans, skirts, or dresses. Don’t miss out on these stylish boots that combine comfort, durability, and timeless elegance. Choose your favorite color and size today and step out with confidence!
-  Updated: 2025-11-21T09:53:17Z
+  Updated: 2025-11-25T20:59:43Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -12545,7 +12545,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/5gOTYkG6dDgovHk3.webp?v=1763673544
     Price: €73.71 EUR
 - [Women's British Style Martin Boots](https://mdg-9604.myshopify.com/products/womens-british-style-martin-boots): Step into style and comfort with our stunning Martin boots, designed exclusively for the modern woman who values both fashion and functionality. These boots feature a sleek British style that pairs effortlessly with any casual outfit, making them a must-have in your wardrobe this season. Crafted from high-quality artificial PU, these boots boast a durable and waterproof exterior that keeps your feet dry and comfortable in various weather conditions. The chunky heel provides a stylish lift while ensuring stability, making them perfect for daily wear. With a middle heel height of 3-5 CM, these boots offer the ideal balance between elegance and comfort. Featuring a round toe shape and a side zipper design, slipping in and out of these boots is a breeze. The leather stitching details add a touch of sophistication, while the plain pattern keeps it versatile for any occasion. Whether you're heading out for a casual stroll or a night on the town, these boots are your perfect companion. Designed for winter, spring, and autumn wear, they are not just stylish but also warm, wear-resistant, and non-slip, making them ideal for any adventure. Choose from a variety of sizes ranging from EU 35 to EU 40 to find your perfect fit. Embrace the perfect combination of style, comfort, and practicality with our Martin boots. Elevate your footwear collection today and step out with confidence!
-  Updated: 2025-11-21T09:56:45Z
+  Updated: 2025-11-25T20:59:44Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -12575,7 +12575,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/B4rp1qDOKt6vO5ur.webp?v=1763673492
     Price: €66.14 EUR
 - [Women's White Martin Boots - British Style Thick Heel](https://mdg-9604.myshopify.com/products/womens-white-martin-boots-british-style-thick-heel): Step out in style with our White Martin Boots, a perfect blend of British fashion and modern comfort. Designed for the contemporary woman, these boots are available in two stunning colors: Beige and Black. Crafted from high-quality artificial PU, the upper material not only ensures durability but also adds a chic leather look that enhances any outfit. The rubber sole provides excellent grip and comfort, making these boots ideal for both casual outings and more dressed-up occasions. Featuring a square heel with a height of 3-5CM, you’ll enjoy the perfect balance of height and stability. The stylish leather stitching details give these boots a unique flair that sets them apart from the rest. Available in sizes 35 to 39, finding your perfect fit has never been easier! Each pair comes beautifully packed, ready to elevate your fashion game. Don’t miss out on the chance to own a pair of these popular Martin boots that are taking the fashion world by storm! Check out the stunning images below to see these boots in all their glory:
-  Updated: 2025-11-21T09:44:31Z
+  Updated: 2025-11-25T20:59:44Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -12621,7 +12621,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/NH1N9kajpWxCV12S.webp?v=1763673559
     Price: €63.35 EUR
 - [Martin Boots, British Style Women's Low Heel Casual Shoes](https://mdg-9604.myshopify.com/products/martin-boots-british-style-womens-low-heel-casual-shoes): Step into style with our British-style Martin boots, designed for the modern woman who values both fashion and functionality. These low-heeled casual shoes are not just a fashion statement; they are built for everyday adventures. Featuring a waterproof design, these boots will keep your feet dry in any weather, while the functional anti-slip soles ensure you stay grounded on any surface. With a normal thickness, they provide the perfect balance of comfort and durability. The solid color pattern offers versatility, making them easy to pair with any outfit. Whether you’re heading out for a casual day or a chic evening, these boots are the perfect addition to your wardrobe. Available in six sizes, these boots cater to a range of foot sizes, ensuring a perfect fit for everyone. Choose your size from the options below: Experience the blend of comfort and style with our Martin boots. Transform your footwear game today!
-  Updated: 2025-11-21T10:47:02Z
+  Updated: 2025-11-25T20:59:44Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -12651,7 +12651,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/O3s77ygWfz36gWFL.webp?v=1763673510
     Price: €41.41 EUR
 - [Chic British Style Low Heel Oxford Shoes for Women](https://mdg-9604.myshopify.com/products/chic-british-style-low-heel-oxford-shoes-for-women): Step into style with our trendy Oxford shoes, designed to elevate your wardrobe with a touch of British charm. Crafted for the modern woman, these shoes feature a pointed toe and a comfortable low heel (3CM), making them perfect for any occasion, whether it's a casual outing or a formal event. Available in classic colors such as Apricot, White, and Black, these versatile shoes can be paired with a variety of outfits, ensuring you look chic all year round. With a solid color pattern, they maintain a timeless appeal that never goes out of style. Ideal for Spring, Summer, and Autumn, you'll find yourself reaching for these shoes season after season. The sturdy construction, combined with the stylish design, guarantees both comfort and durability, making them a smart addition to any fashionista's collection. Choose from an array of sizes, ensuring the perfect fit for your feet. Don't miss out on the chance to enhance your shoe collection with these fashionable and comfortable Oxford shoes!
-  Updated: 2025-11-21T13:20:16Z
+  Updated: 2025-11-25T20:59:44Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -12729,7 +12729,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/PgWnLrw5WsneT8lv.webp?v=1763673709
     Price: €106.62 EUR
 - [Women's British Style Pointed Toe Flat Leather Shoes](https://mdg-9604.myshopify.com/products/womens-british-style-pointed-toe-flat-leather-shoes): Step out in style with our Women's Fashion Leather British Style Pointed Toe Flat Shoes. Crafted for the modern woman, these shoes are designed to elevate any outfit while ensuring utmost comfort. Whether you're heading to the office or enjoying a casual day out, these flats are the perfect choice. Features: - **Closure**: Lace-up for a secure fit that you can adjust to your comfort. - **Sizes**: Available in a wide range of sizes from 31.5 to 46, ensuring a perfect fit for everyone. - **Stylish Design**: The pointed toe and openwork cross straps embody a chic Roman style that is both trendy and timeless. - **Heel Height**: Featuring a low heel (1-3cm), these shoes provide just the right amount of elevation without sacrificing comfort. - **Material**: Made from high-quality head layer cowhide with a two-layer pigskin lining, these shoes boast durability and breathability. - **Sole**: The rubber flat heel sole offers excellent grip and stability for all-day wear. - **Color Variations**: Choose from an array of stunning colors including Dark Blue Starflower, Gold Small Flower, Wine Red Small Flower, and many more to match your unique style. With a deep mouth design, these shoes are easy to put on and take off, making them perfect for your busy lifestyle. The vegetable-tanned leather not only enhances durability but also provides a soft, luxurious feel on your feet. Elevate your wardrobe with this versatile pair that combines elegance and comfort effortlessly. Check out the stunning visuals below to see how these flats can complement your look! Discover the perfect blend of style, comfort, and versatility with our Women's Fashion Leather British Style Pointed Toe Flat Shoes. Your feet will thank you!
-  Updated: 2025-11-21T17:03:05Z
+  Updated: 2025-11-25T20:59:45Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -12935,7 +12935,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/pmmBHjbVjIlMrQDm.webp?v=1763673994
     Price: €92.52 EUR
 - [Fashionable British Style Flat Leather Work Shoes](https://mdg-9604.myshopify.com/products/fashionable-british-style-flat-leather-work-shoes): Introducing our chic and stylish British-style patent leather flats, the perfect blend of fashion and functionality. Designed for the modern individual, these shoes are ideal for both men and women, offering a versatile look that can effortlessly transition from the office to a night out. Crafted from high-quality artificial PU and featuring a durable rubber sole, these shoes are not only visually appealing but also built to last. The unique buckle metal decoration adds a touch of elegance, while the pointed toe shape enhances the overall refined aesthetic. Available in a stunning wine red or classic black, you can choose the color that best fits your personal style. With multiple sizes ranging from 35 to 39, you’re sure to find the perfect fit. The interior is lined with imitation leather for added comfort, while the PU insole ensures a cozy fit throughout the day. Whether you’re looking to make a statement at work or simply want to stay warm and stylish, these shoes have got you covered. Elevate your footwear collection with our trendy patent leather flats, and step out in confidence!
-  Updated: 2025-11-21T10:03:29Z
+  Updated: 2025-11-25T20:59:45Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -12981,7 +12981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Tu4BfinH9tsOVIGd.webp?v=1763673635
     Price: €86.19 EUR
 - [Round Toe Oxford Shoes in British Style](https://mdg-9604.myshopify.com/products/round-toe-oxford-shoes-in-british-style): Step out in style with our elegant British-inspired round-toe flats. Perfectly designed for the modern woman, these chic shoes are available in two stunning colors: Black and Burgundy (Wine Red), ensuring you can find the perfect match for any outfit. Crafted from high-quality PU fabric with a soft cloth inner lining, these shoes offer both comfort and durability. The rubber sole provides excellent traction, making them ideal for all-day wear, whether you're heading to the office or enjoying a casual outing with friends. With a selection of sizes ranging from 35 to 40, you can easily find your perfect fit. The stylish high-heel design adds a touch of sophistication, elevating your look without sacrificing comfort. Take a closer look at the stunning details: Don't miss out on adding these versatile shoes to your wardrobe. They are the perfect blend of fashion and function, designed to complement any style effortlessly. Upgrade your footwear collection today!
-  Updated: 2025-11-21T10:55:03Z
+  Updated: 2025-11-25T20:59:47Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -13035,7 +13035,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/H7Na4K7tNUZ0s0Z8.webp?v=1763673732
     Price: €57.59 EUR
 - [British Style Women's Pointed Toe Mid-Tube Boots](https://mdg-9604.myshopify.com/products/british-style-womens-pointed-toe-mid-tube-boots): Step out in style this autumn and winter with our stunning Women's British Style Boots. These fashionable mid-tube boots offer a chic, pointed toe design that perfectly complements any outfit. With a convenient side zipper, slipping them on and off is a breeze, making them your go-to choice for any occasion. Crafted from high-quality artificial PU for the upper, these boots ensure longevity while maintaining a luxurious look. The rubber sole provides excellent grip and durability, making them perfect for both casual outings and more formal events. Featuring a stylish chunky heel with a comfortable height (3-5CM), they not only elevate your look but also offer stability for all-day wear. The unique bow detail adds a touch of femininity, setting you apart from the crowd. Plus, the additional stitching and waterproof platform elements make these boots both fashionable and functional. Available in classic black and rich brown, and a wide range of sizes (35-42), you can easily find the perfect pair to match your style. Whether you're heading to work, a casual brunch, or a night out, these boots will complete your look effortlessly. Don't miss out on the chance to enhance your wardrobe with these versatile and stylish boots!
-  Updated: 2025-11-21T13:25:11Z
+  Updated: 2025-11-25T20:59:47Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -13105,7 +13105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/O57xA2rRoiXoOJCt.webp?v=1763673701
     Price: €63.00 EUR
 - [Women's British Style Pointed Toe Leather Flats](https://mdg-9604.myshopify.com/products/womens-british-style-pointed-toe-leather-flats): Step up your fashion game with our Women's Fashion Leather British Style Pointed Toe Flat Shoes. Designed for the modern woman who values both style and comfort, these shoes are a perfect blend of elegance and practicality. Featuring a lace-up closure, these shoes provide a secure fit while enhancing your style. The pointed toe design adds a touch of sophistication, making them ideal for both casual outings and formal occasions. With a low heel ranging from 1-3cm, you can enjoy all-day comfort without sacrificing style. Available in a stunning variety of colors including white, black, beige, silver, gold, dark blue, and burgundy, you can effortlessly match these shoes with any outfit. Choose from options with or without floral designs to express your unique style. Crafted with the finest materials, these shoes feature a rubber sole for durability, double-layer pigskin lining for added comfort, and a head-layer cowhide vamp, ensuring both quality and longevity. The vegetable-tanned leather gives a luxurious touch that is gentle on the skin. Our shoes are available in a wide range of sizes from 31.5 to 46, accommodating various foot shapes and sizes so you can find your perfect fit. Elevate your wardrobe with our Women's Fashion Leather British Style Pointed Toe Flat Shoes and step out in style and confidence today!
-  Updated: 2025-11-21T09:56:03Z
+  Updated: 2025-11-25T20:59:47Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -13311,7 +13311,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/1do5ZEM26RPnP4Q8.webp?v=1763674194
     Price: €92.52 EUR
 - [Thick High Heel Pointed Toe Women's Boots](https://mdg-9604.myshopify.com/products/thick-high-heel-pointed-toe-womens-boots): Step into elegance and sophistication with our Thick High Heel Pointed Toe Women's Boots. Crafted for the modern woman, these boots combine European and American style, making them a versatile addition to your wardrobe. Featuring a high-quality ultra-soft inner lining, they offer unmatched comfort for all-day wear. The high gloss oil skin (PU) exterior not only looks stunning but also ensures durability and longevity. The wear-resistant and anti-slip rubber sole provides stability, allowing you to walk with confidence on any surface. The fashionable pointed toe adds a touch of chic flair, while the convenient zipper closure makes them easy to slip on and off. Each pair is designed with soft faced skin characteristics, ensuring a gentle touch against your skin. Available in a beautiful selection of colors including Black, White, and Rose Red, these boots cater to a wide range of personal styles. With sizes ranging from 32 to 47, there's a perfect fit for everyone. Elevate your footwear collection with these stunning boots that perfectly blend style, comfort, and practicality. Don't miss out on the chance to make a statement with every step you take!
-  Updated: 2025-11-21T09:51:36Z
+  Updated: 2025-11-25T20:59:47Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -13485,7 +13485,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Ncu2DxfyTXZ574O5.webp?v=1763673988
     Price: €113.04 EUR
 - [Pointed Thick Heel Mid-Heel Moccasins for Women](https://mdg-9604.myshopify.com/products/pointed-thick-heel-mid-heel-moccasins-for-women): Step up your shoe game with our stunning Pointed Thick Heel Moccasins! These women's mid-heel shoes are designed for both style and comfort, making them the perfect addition to any wardrobe. Crafted from high-quality artificial PU, these shoes feature a sleek, glossy finish in both black and silver options to suit any outfit. With a high upper and a thick heel, these moccasins not only provide stability but also add a touch of sophistication to your look. The unique color matching pattern combined with eye-catching sequins makes these shoes a standout choice for any occasion, whether it’s a casual day out or a special event. Designed for warmth and comfort, the interior is lined with cotton, ensuring your feet stay cozy throughout the day. The pointed toe shape adds a chic flair, while the rubber sole offers durability and grip, making these shoes perfect for all-day wear. Available in a variety of sizes from 34 to 40, you can find the perfect fit for your feet. These moccasins are not just shoes; they are a fashion statement that will elevate any outfit. Don’t miss out on the chance to own these stunning moccasins. Pair them with your favorite outfits and let your style shine!
-  Updated: 2025-11-21T17:14:12Z
+  Updated: 2025-11-25T20:59:48Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -13547,7 +13547,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/KF13mJH6xtEozjfH.webp?v=1763673774
     Price: €63.02 EUR
 - [Women's Pointed High Heels with Metal Heel Design](https://mdg-9604.myshopify.com/products/womens-pointed-high-heels-with-metal-heel-design): Step into a world of elegance and sophistication with our stunning Women's High Heels. Designed in a captivating European and American style, these heels are the perfect blend of fashion and comfort. With a sleek, simple fine design, they feature a metal heel that adds a touch of glamour, making them ideal for any occasion. Experience the allure of the shallow mouth pointed side hollow design, which not only enhances the aesthetic appeal but also ensures a comfortable fit. Crafted with a non-slip and wear-resistant sole, these shoes provide stability and durability, allowing you to walk with confidence. Available in a variety of striking colors including Black, Gold, Bronze, and Champagne, and multiple sizes ranging from 34 to 43, you can find the perfect match for your style. Whether you're dressing up for a night out or looking to elevate your everyday outfit, these heels are versatile enough to complement any wardrobe. Perfect for the spring, summer, and autumn seasons, these high heels are a must-have addition to your shoe collection. Don’t miss out on the chance to make a statement with your footwear! Embrace your inner fashionista and redefine your style with these exquisite high heels. Elevate your look and make every step a stylish one!
-  Updated: 2025-11-21T11:31:11Z
+  Updated: 2025-11-25T20:59:48Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -13713,7 +13713,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/IcGGNEw2NY01u4Up.webp?v=1763674116
     Price: €85.18 EUR
 - [One Word Sexy Pointed Toe Thick Heel High Heels](https://mdg-9604.myshopify.com/products/one-word-sexy-pointed-toe-thick-heel-high-heels): Step into style with our Sexy Pointed Toe Thick Heel High Heel Shoes. Designed for the modern woman, these shoes combine elegance and comfort seamlessly, making them the perfect choice for any everyday occasion. Featuring a thick heel that provides both stability and height, you can walk with confidence all day long. Fashionable Details: Adorned with chic metal decorations and a stylish belt buckle, these shoes are not just footwear; they're a statement. The baotou toe style adds a touch of sophistication, while the variety of colors ensures you can find the perfect match for any outfit. Comfort Meets Style: With a heel height ranging between 5-8cm, these high heels are designed to elevate your look without compromising on comfort. Whether you're heading to the office or out for a night on the town, these shoes will make you stand out. Available in a range of sizes and colors including Khaki and Beige, you can find the perfect fit for your unique style. Choose from sizes 35 to 39 to ensure the best comfort for your feet. Visual Appeal: Upgrade your footwear collection with these stunning high heels that promise to keep you stylish and comfortable, no matter where your day takes you!
-  Updated: 2025-11-21T12:07:15Z
+  Updated: 2025-11-25T20:59:48Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -13759,7 +13759,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/y856fLCjiCNuZfd0.webp?v=1763673815
     Price: €56.58 EUR
 - [Women's Summer High Heels with Thick Heels](https://mdg-9604.myshopify.com/products/womens-summer-high-heels-with-thick-heels): Step into Style this Summer! Elevate your footwear collection with our stunning Women's Thick Heel Sandals. Designed with the modern woman in mind, these high heels not only provide a fashionable edge but also ensure comfort with their sturdy 5-8cm heel height. Perfect for daily wear, these sandals are a versatile addition to any wardrobe. Available in chic colors like White and Pink, these sandals feature a shallow mouth design adorned with delicate beading, making them ideal for both casual outings and special occasions. With various sizes to choose from, you can find the perfect fit to complement your unique style. Explore our collection and discover the perfect pair that suits your taste. Whether you prefer a classic look or a pop of color, our sandals are sure to make a statement. Don't miss out on the chance to flaunt your style while enjoying unmatched comfort!
-  Updated: 2025-11-21T10:12:57Z
+  Updated: 2025-11-25T20:59:48Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -13821,7 +13821,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/ziBGVZCaitqQwEsg.webp?v=1763673756
     Price: €54.64 EUR
 - [Women's Retro Lace-up Rivet Thick Heel Boots](https://mdg-9604.myshopify.com/products/womens-retro-lace-up-rivet-thick-heel-boots): Step into Style and ComfortElevate your footwear collection with our Women's New European And American Style Retro Lace-up Rivet Thick Heel Boots. These boots are designed for the modern woman who values both aesthetics and comfort. Unique DesignFeaturing a stunning retro lace-up design adorned with chic rivets, these boots are not just shoes; they are a statement. The thick heel adds a touch of sophistication while providing the stability you need for all-day wear. Comfort Meets QualityCrafted from high-quality materials, these boots ensure your feet remain comfortable throughout the day. Say goodbye to sore feet and hello to a perfect blend of style and comfort. Versatile Color OptionsAvailable in a variety of colors including Light Brown, Dark Brown, and Black, you can easily match these boots with any outfit in your wardrobe. Perfect Fit for EveryoneWith a wide range of sizes from 35 to 43, finding your perfect fit has never been easier. Whether you prefer a snug fit or a bit more room, we have you covered. Why Wait?Transform your style today with our Retro Lace-up Rivet Thick Heel Women's Boots. Experience the perfect combination of fashion and comfort that will keep you stepping out in confidence.
-  Updated: 2025-11-21T09:49:01Z
+  Updated: 2025-11-25T20:59:48Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -13935,7 +13935,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/ee5gsXqbgB4YjU7E.webp?v=1763673867
     Price: €72.64 EUR
 - [Nude Thick Mid-Heel Pointed Women's High Heels](https://mdg-9604.myshopify.com/products/nude-thick-mid-heel-pointed-womens-high-heels): Step into elegance with our Nude Thick Heel Mid-heel Work Versatile Pointed French Temperament Women's High Heels. Perfectly designed for the modern woman, these heels blend style and comfort effortlessly. The simple style adorned with a chic buckle adds a touch of sophistication to any outfit, making them ideal for both the office and evening outings. Crafted from artificial plush with a pigskin lining, these heels promise durability without compromising on comfort. The wedge heel height of 4-6 cm provides just the right lift while ensuring stability as you walk. Available in three stunning colors: black, sky blue, and beige, you can easily find the perfect match for your wardrobe. The round toe design and middle height upper ensure a snug fit, while the cashmere insole offers plush cushioning for all-day wear. Whether you're dressing for a business meeting or a casual outing, these platform shoes elevate your look effortlessly. Features: - Popular elements: Buckle - Applicable gender: Female - Pattern: Plain - Sole Material: Rubber - Wearing style: Front tie - Function: Increased and wear-resistant Experience the perfect combination of style and functionality with these heels. Order yours today and step out with confidence!
-  Updated: 2025-11-21T10:09:37Z
+  Updated: 2025-11-25T20:59:48Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -14001,7 +14001,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/ArrDlvGK6nAhtwMD.webp?v=1763673863
     Price: €55.84 EUR
 - [New Women's Waterproof Chunky Heel Martin Boots](https://mdg-9604.myshopify.com/products/new-womens-waterproof-chunky-heel-martin-boots): Step into style and comfort with our latest women's Martin boots. Designed for the modern woman, these boots are a perfect blend of fashion and functionality. Crafted from high-quality artificial PU, the upper material gives a sleek, sophisticated look while ensuring durability. The rubber sole provides excellent traction, making them ideal for any terrain. With a chic thick heel and waterproof platform, these boots not only elevate your height but also keep your feet dry in unpredictable weather. The stylish metal accents and belt buckle details add an edgy twist, making these boots a versatile addition to your wardrobe. Plus, the convenient side zipper allows for easy wear, so you can slip them on and off with ease. Available in a variety of colors including White, Red, Black, and Brown, and in a range of sizes from 34 to 45, you'll find the perfect match for your style. Whether you’re dressing up for a night out or keeping it casual on a day out, these boots are designed to complement any outfit. Don't miss out on the opportunity to own a pair of these stunning boots. Embrace your style and let your feet do the talking!
-  Updated: 2025-11-21T12:27:14Z
+  Updated: 2025-11-25T20:59:49Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -14207,7 +14207,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/DMq4u7gERXxFZ9fO.webp?v=1763674085
     Price: €92.52 EUR
 - [Women's Waterproof Chunky Heel Martin Boots](https://mdg-9604.myshopify.com/products/womens-waterproof-chunky-heel-martin-boots): Step into sophistication and comfort this fall and winter with our stunning European and American style women's chunky heel boots. Crafted from high-quality artificial PU, these boots are not only stylish but also durable, ensuring they withstand the elements while keeping you looking chic. The round toe design offers a classic look, while the rubber sole provides excellent grip and stability. Perfect for various occasions, these boots will elevate any outfit, whether you're heading to the office, enjoying a night out, or simply running errands. Available in multiple sizes, you can choose the perfect fit for your feet. The sleek black color adds versatility, making it easy to pair with your favorite outfits. Check out our eye-catching images below to see the exquisite details and design: Don't miss out on the chance to enhance your wardrobe with these fabulous boots. Embrace the season in style and step out with confidence!
-  Updated: 2025-11-21T12:45:56Z
+  Updated: 2025-11-25T20:59:49Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -14237,7 +14237,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/l026jBpYSng3dVEO.webp?v=1763673834
     Price: €71.77 EUR
 - [Summer Women's Sequined Rhinestone Heels](https://mdg-9604.myshopify.com/products/summer-womens-sequined-rhinestone-heels): Step into the season with our stunning 2023 Summer Collection of fashion-forward women's shoes. Designed with the modern woman in mind, these shoes feature an exquisite sparkling rhinestone embellishment, elevating your style for any occasion. The pointed toe design not only adds a chic touch but also elongates your legs, making these shoes a must-have for your wardrobe. With a comfortable mid-heel height of 6-8CM, you can enjoy a perfect blend of elegance and ease, whether you're heading to the office or enjoying a night out. Available in classic black and vibrant blue, these shoes offer versatility to complement any outfit in your closet. Each pair is crafted for durability and style, suitable for spring, summer, and autumn wear. The solid color patterns ensure they can easily be paired with various ensembles, from casual to formal. Explore our selection of sizes from 34 to 40 to find your perfect fit. Don't miss out on this opportunity to enhance your collection with these fashionable, low-cut shoes. Browse through our images to see how these beauties can transform your look!
-  Updated: 2025-11-21T09:49:59Z
+  Updated: 2025-11-25T20:59:49Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -14299,7 +14299,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/xpIXcZY8bqP0HGSp.webp?v=1763673935
     Price: €52.48 EUR
 - [Women's Martin Boots - Flat Short Chunky Heel (UK Style)](https://mdg-9604.myshopify.com/products/womens-martin-boots-flat-short-chunky-heel-uk-style): Step into the season with our stunning new collection of short Martin boots, designed for the modern woman who loves to blend style with comfort. Crafted with a durable rubber sole and a chic round toe shape, these boots are not only fashionable but also incredibly functional. Ideal for any occasion, they elevate your wardrobe effortlessly. Featuring a thick heel for added stability and a slight height boost, these boots ensure you stand tall and confident. The interior is lined with artificial wool, providing cozy warmth during cooler months, while the imitation leather adds a touch of elegance. The shaft is made from luxurious suede, making these boots a staple in your footwear collection. Available in classic black and rich brown colors, you can choose the perfect hue to match your outfit. With sizes ranging from 35 to 40, we cater to every foot size, ensuring a comfortable fit for all. Check out the size chart below to find your perfect match: Enhance your look with these versatile boots that pair perfectly with skirts, jeans, and everything in between. Don’t miss out on the chance to add a touch of British elegance to your wardrobe. See the beautiful designs below: Upgrade your footwear collection with these stunning Martin boots today and step out in style!
-  Updated: 2025-11-21T11:32:02Z
+  Updated: 2025-11-25T20:59:49Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -14353,7 +14353,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/8YMAF8oW42SLgcaD.webp?v=1763673968
     Price: €83.78 EUR
 - [Women's British Platform Chunky Heel Martin Boots](https://mdg-9604.myshopify.com/products/womens-british-platform-chunky-heel-martin-boots): Step out in style and comfort with these Women's British Platform Chunky Heel Martin Boots, a perfect blend of fashion and functionality. Featuring a modern Chelsea boot silhouette with a sturdy round toe, these boots are crafted from premium microfiber for a soft, comfortable fit. The durable rubber sole provides excellent traction, making them ideal for everyday wear.Designed with a bold muffin heel, these boots offer a subtle height boost while maintaining a non-slip, wear-resistant construction for confidence in every step. Available in sleek black or dazzling silver, they effortlessly enhance any outfit with a chic, British-inspired flair.Key Features: Upper Material: Soft and durable microfiber Sole Material: Non-slip, wear-resistant rubber Toe Shape: Round toe for comfort Heel Type: Chunky muffin heel for added height and style Style: British-inspired Chelsea boots Canister Height: Low for versatile wear Colors Available: Black, Silver Size Options:EU Sizes: 35, 36, 37, 38, 39, 40Elevate your footwear collection with these trendy yet practical platform boots—perfect for pairing with casual or dressy ensembles.
-  Updated: 2025-11-21T10:01:35Z
+  Updated: 2025-11-25T20:59:49Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -14407,7 +14407,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/uYjsEC2TDjXXxAkc.webp?v=1763673995
     Price: €89.93 EUR
 - [New Women's High Heel Chunky Martin Boots, Casual Style](https://mdg-9604.myshopify.com/products/new-womens-high-heel-chunky-martin-boots-casual-style): Step into style and comfort with our latest women's high-heeled Martin boots. Designed for those who appreciate both fashion and functionality, these boots are perfect for any occasion. The artificial PU upper not only adds a touch of elegance but also ensures durability, while the rubber sole offers excellent grip and support. With a coarse heel height ranging from 3-5CM, you can enjoy the perfect blend of height and stability. The pointed toe shape adds a sophisticated flair, making these boots a versatile addition to your wardrobe. Perfect for winter, these boots come with artificial wool insoles that keep your feet warm and cozy. The side zipper allows for easy wear, while the pure color design makes them effortlessly stylish. Available in two classic colors, Brown and Black, and a range of sizes from 35 to 39, you are sure to find the perfect fit for your style. Don’t miss out on the chance to elevate your footwear game! Check out our stunning images below and grab your pair today!
-  Updated: 2025-11-21T10:04:45Z
+  Updated: 2025-11-25T20:59:50Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -14453,7 +14453,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/hoIQyD2hkjh16FNq.webp?v=1763673874
     Price: €74.88 EUR
 - [Women's British Style Chunky Heel Martin Boots](https://mdg-9604.myshopify.com/products/womens-british-style-chunky-heel-martin-boots): Step into style and comfort with our Martin boots, designed for both men and women. Crafted from high-quality cowhide leather, these boots are not only durable but also exude a timeless charm that complements any outfit. The thick heel provides enhanced stability and support, making them perfect for everyday wear. Available in a classic black color, our Martin boots feature a round head design that adds a touch of elegance to your footwear collection. With a variety of sizes ranging from 35 to 44, you can find the perfect fit for your feet. Whether you're dressing up for a night out or simply running errands, these boots will keep you looking chic and feeling comfortable. Take a closer look at these stunning boots: Elevate your footwear game with our Martin boots. Experience the perfect blend of style, comfort, and quality. Don't miss out—grab your pair today and step out in confidence!
-  Updated: 2025-11-21T11:42:31Z
+  Updated: 2025-11-25T20:59:50Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -14499,7 +14499,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/dkuWA7vhlUalMLWY.webp?v=1763674002
     Price: €93.19 EUR
 - [Women's Martin Boots, British Style Chunky Heels, Bow Shoes](https://mdg-9604.myshopify.com/products/womens-martin-boots-british-style-chunky-heels-bow-shoes): Step into style and comfort with our stunning Martin boots for women. Crafted from high-quality cowhide, these shoes offer a sleek and elegant look, perfect for both casual and formal occasions. With a solid color pattern and charming floral accents, these boots are designed to make a statement. The unique butterfly knot detail adds a touch of femininity, making them a must-have in your wardrobe. Available in classic black and pristine white, you can choose from a variety of sizes, ensuring the perfect fit for any foot. Whether you're dressing up for a night out or looking for a chic everyday option, these boots have got you covered. Experience the perfect blend of style and comfort as you walk effortlessly in these durable shoes. With a weight of just 0.635 kg, they are light enough for all-day wear without sacrificing support. Check out the beautiful designs below and elevate your shoe collection today!
-  Updated: 2025-11-21T10:05:39Z
+  Updated: 2025-11-25T20:59:50Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -14553,7 +14553,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/WbxymEDfmvDNyXB5.webp?v=1763673916
     Price: €134.68 EUR
 - [Classic Chunky Heel British Style Women's Boots](https://mdg-9604.myshopify.com/products/classic-chunky-heel-british-style-womens-boots): Step into style and comfort with our latest collection of European and American fashion boots. Designed specifically for the modern woman, these boots feature a unique thick heel and a square toe shape that adds a touch of sophistication to any outfit. Whether you're dressing up for a night out or looking for the perfect accessory for your everyday look, these boots are sure to impress. Crafted from high-quality artificial PU for a chic appearance, they are designed to last while providing the comfort you need. The rubber sole ensures durability, making them perfect for any occasion. With a side zipper for easy wear and a low tube height, these boots offer both style and practicality. Available in classic black and yellow brown, you can choose from a wide range of sizes from 32 to 48, ensuring the perfect fit for everyone. Elevate your footwear collection with these stunning boots that combine fashion and functionality. Don't miss out on the opportunity to make a statement with these stylish boots. Shop now and step out in confidence!
-  Updated: 2025-11-21T11:03:22Z
+  Updated: 2025-11-25T20:59:50Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -14695,7 +14695,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/NqGOMzKaDq9A0Z6K.webp?v=1763674241
     Price: €87.56 EUR
 - [Lace-Up Women's Short Ankle Boots - Low Heel Martin Boots](https://mdg-9604.myshopify.com/products/lace-up-womens-short-ankle-boots-low-heel-martin-boots): Step out in style with our stunning lace-trimmed ankle boots. Perfect for any casual occasion, these boots offer both comfort and elegance, making them a must-have in your wardrobe. The rubber sole ensures durability and traction, while the cotton inner lining provides a cozy feel for your feet. Designed with a low upper height and a thick heel, these boots give you the ideal combination of support and style. Available in a variety of colors including pink, black, and red, you can easily find the perfect pair to suit your personal style. Choose from multiple sizes to ensure a perfect fit, whether you're dressing up for a night out or keeping it casual during the day. ![Pink Ankle Boots](https://cbu01.alicdn.com/img/ibank/2020/657/347/13486743756_1903812319.jpg) ![Black Ankle Boots](https://cbu01.alicdn.com/img/ibank/O1CN01SpVYOF2Jhz75523KA_!!2706669454-0-cib.jpg) ![Red Ankle Boots](https://cbu01.alicdn.com/img/ibank/O1CN01NcJtgs2Jhz6w9L34f_!!2706669454-0-cib.jpg) The easy-to-wear design allows you to slip these boots on with ease, making them a practical choice for your busy lifestyle. Whether you're pairing them with jeans, skirts, or dresses, these ankle boots are versatile enough to transition from day to night effortlessly. Don’t miss out on these fashionable and functional ankle boots that truly elevate your footwear collection!
-  Updated: 2025-11-21T12:12:05Z
+  Updated: 2025-11-25T20:59:50Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -14809,7 +14809,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/9UpxSXWZimj5OT5N.webp?v=1763674118
     Price: €50.92 EUR
 - [Martin Boots for Women - Mid Chunky Heel & Ankle Heels](https://mdg-9604.myshopify.com/products/martin-boots-for-women-mid-chunky-heel-ankle-heels): Step into style and comfort with our exquisite collection of Martin boots. Designed for the modern woman, these boots are the perfect blend of fashion and practicality. The chic belt buckle element adds a touch of elegance to your casual outfits, making them a versatile addition to your wardrobe. Available in stunning colors such as Beige, Yellow Brown, and Black, you can find the perfect pair that suits your personal style. With a variety of sizes ranging from 35 to 43, we ensure a comfortable fit for everyone. The boots feature a mid-heel design, providing just the right amount of elevation while keeping you comfortable throughout the day. Whether you’re heading to work, meeting friends, or going out for a casual night, these boots are your go-to footwear. Don’t miss out on these must-have boots! Check out our stunning images below to see the beauty of these Martin boots up close: Elevate your footwear collection with our stylish Martin boots today!
-  Updated: 2025-11-21T12:53:04Z
+  Updated: 2025-11-25T20:59:51Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -14923,7 +14923,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/K1xaGWsbHYu1um0x.webp?v=1763674188
     Price: €54.88 EUR
 - [Women’s Chunky Heel Tassel Ankle Martin Boots](https://mdg-9604.myshopify.com/products/women-s-chunky-heel-tassel-ankle-martin-boots): Step out in style with our stunning Martin boots, designed for the modern woman who values both fashion and comfort. These boots are crafted with a chic chunky heel that not only elevates your look but also provides stability and support for all-day wear. Made from high-quality man-made PU for the upper and a durable rubber sole, these boots are perfect for any occasion. The round toe shape ensures a comfortable fit, while the variety of popular elements like flaps, hollows, and belt buckles add a trendy touch that stands out in a crowd. Available in a range of sizes from 34 to 43 and in three versatile colors: Blue, Beige, and Dark Grey, these boots cater to your personal style. Whether you're dressing up for a night out or need a reliable pair for daily errands, our Martin boots are the perfect choice. Check out our stunning images below to see these boots in action!
-  Updated: 2025-11-21T09:56:56Z
+  Updated: 2025-11-25T20:59:51Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -15049,7 +15049,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/3y9HqxDEQ6hcFRg4.webp?v=1763674083
     Price: €72.99 EUR
 - [Women's Chunky Heel Ankle Boots (One Pair)](https://mdg-9604.myshopify.com/products/womens-chunky-heel-ankle-boots-one-pair): Step into style and comfort with our Chimney Boots, designed exclusively for women who appreciate both elegance and functionality. Crafted from high-quality rubber, these boots promise durability and traction, making them perfect for any occasion. Featuring a minimalist design, these boots boast a round toe and a sloping heel, offering a chic yet comfortable fit. Whether you're dressing up for a night out or simply running errands, these versatile boots will complement any outfit effortlessly. Available in classic black and rich brown, you can choose the color that fits your personal style. With a range of sizes from 35 to 40, you’re sure to find the perfect fit for your feet. Not only do they look great, but they also provide all-day comfort. The soft interior ensures that your feet feel cozy and supported, making them ideal for prolonged wear. Enjoy free shipping on your purchase and elevate your footwear collection with these stunning chimney boots today!
-  Updated: 2025-11-21T18:39:21Z
+  Updated: 2025-11-25T20:59:51Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -15091,7 +15091,7 @@
     Availability: Available
     Price: €63.81 EUR
 - [Heel Low Martin Boots](https://mdg-9604.myshopify.com/products/heel-low-martin-boots): Classic Style: Heel Low Martin BootsThese heel low Martin boots offer a timeless and versatile style suitable for various seasons. Crafted with a suede upper and a durable rubber sole, they provide comfort and traction.Key Features: Suede Upper: Offers a soft and stylish texture. Rubber Sole: Provides good grip and durability. Low Square Heel: Offers a slight lift while maintaining stability and comfort. Classic Martin Boot Design: A popular and enduring style. Car Suture Detailing: Adds a subtle and durable design element. Non-Slip Function: Ensures secure footing. Ordinary Thick: Provides a comfortable thickness for various weather conditions. Sleeve/Overshoes Wearing Style: Indicates an easy slip-on design. Suitable for Winter, Spring, and Autumn: A versatile footwear option for multiple seasons. Artificial Wool Insole: Offers added warmth and comfort. Imitation Leather and Cotton Interior: Provides a comfortable lining. Suede Boot Shaft: Matches the upper material for a cohesive look.
-  Updated: 2025-11-21T10:10:46Z
+  Updated: 2025-11-25T20:59:51Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -15297,7 +15297,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/BWBP036uqaXmXKvR.webp?v=1763674155
     Price: €76.76 EUR
 - [New Women's Genuine Leather Chunky Heel Ankle Boots](https://mdg-9604.myshopify.com/products/new-womens-genuine-leather-chunky-heel-ankle-boots): Step out in style and comfort with our latest collection of Women's Genuine Leather Thick-soled Short Boots. Designed to combine the timeless appeal of British style with modern functionality, these boots are perfect for any casual occasion. The upper is crafted from high-quality leather, ensuring durability and a luxurious feel. The round toe design provides ample room for your feet, while the thick heel (3-5cm) offers stability and support with every step you take. Plus, the rubber sole is designed to be wear-resistant, making these boots suitable for various terrains. With their cozy fleece lining, these boots are not only stylish but also warm, making them a perfect choice for colder days. The trendy car suture detailing adds a unique touch, enhancing their aesthetic appeal. Available in a variety of colors, including classic White, bold Red, and sleek Black, you can easily find the perfect pair that matches your wardrobe. Choose from sizes ranging from 35 to 40 to ensure a perfect fit. Don't miss out on these must-have boots for the season. Elevate your footwear collection with our stunning short boots and make a statement wherever you go!
-  Updated: 2025-11-21T12:40:40Z
+  Updated: 2025-11-25T20:59:51Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -15375,7 +15375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/va2FW2ugfaP4HZjl.webp?v=1763674079
     Price: €62.34 EUR
 - [Autumn New Women's Leather Chunky Heel Ankle Boots](https://mdg-9604.myshopify.com/products/autumn-new-womens-leather-chunky-heel-ankle-boots): Step into the season with style and confidence in our newly launched Martin boots! Crafted from first layer cowhide and featuring a durable rubber sole, these boots are designed to provide maximum comfort and support for your feet during the chilly autumn and winter months.With their thickened and warm inner lining, your feet will stay cozy even on the coldest days. The non-slip sole ensures you can navigate icy surfaces with ease, giving you the freedom to explore without worry.Available in two chic color options: Black Velvet and Black Single, you can choose the perfect style to match your wardrobe. Each color comes in a variety of sizes, ensuring a perfect fit for everyone.Whether you're dressing up for a night out or keeping it casual during the day, these versatile boots will elevate any outfit. Check out our stunning images below to see how they look in action! Don’t miss out on these fashionable and functional Martin boots that will keep you warm and stylish this season. Grab your pair today!
-  Updated: 2025-11-21T12:27:10Z
+  Updated: 2025-11-25T20:59:52Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -15437,7 +15437,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/ow7xY0n4vB5LAFf0.webp?v=1763674139
     Price: €105.12 EUR
 - [Fall Winter Women's Chunky Heel Ankle Boots](https://mdg-9604.myshopify.com/products/fall-winter-womens-chunky-heel-ankle-boots): Are you ready to step into fashion this autumn and winter? Introducing our latest collection of Martin boots, designed specifically for the modern woman who appreciates style and comfort. These stunning boots feature a sleek side zipper design that not only offers easy wearability but also adds a touch of elegance to your outfit. Crafted from high-quality artificial PU, the upper material ensures durability and a chic appearance, while the rubber sole provides excellent traction for all-day wear. With a round toe shape and a sturdy thick heel standing at 7.5 cm, these boots offer the perfect blend of height and stability. Whether you're dressing up for a night out or keeping it casual during the day, these boots will make a statement wherever you go. Choose from a variety of colors, including classic black and trendy khaki, and select the perfect size for your feet. With options ranging from size 35 to 40, there's a fit for everyone. Elevate your wardrobe with these versatile and stylish Martin boots that promise to keep you looking fashionable while providing the comfort you need. Don't miss out on the chance to own these must-have boots for the season!
-  Updated: 2025-11-21T09:52:34Z
+  Updated: 2025-11-25T20:59:52Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -15491,7 +15491,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/dyIkgcvbTk7sbF3d.webp?v=1763674112
     Price: €56.63 EUR
 - [New Women's Chunky Heel Waterproof Ankle Boots](https://mdg-9604.myshopify.com/products/new-womens-chunky-heel-waterproof-ankle-boots): Step into style and comfort with our latest thick-heeled short boots, designed to elevate your wardrobe. These boots feature a chic round toe shape and are crafted from high-quality PU material for a sleek finish that’s both stylish and durable. The rubber sole provides exceptional grip, making them perfect for all-day wear. The mesh inner material ensures breathability, keeping your feet comfortable even during long hours. With a low upper height, these boots are versatile enough to pair with any outfit, from casual denim to elegant dresses. Available in two stunning colors: Bronze and Black, and a range of sizes from 35 to 39, you can find the perfect fit for your unique style. Check out the images below to see the beautiful design and craftsmanship of these boots: Don't miss the chance to add these fashionable and functional boots to your collection. Embrace the combination of style and comfort with every step you take!
-  Updated: 2025-11-21T09:58:17Z
+  Updated: 2025-11-25T20:59:52Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -15537,7 +15537,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/RUiWHHb6x2hP1sbc.webp?v=1763674125
     Price: €62.31 EUR
 - [Women's Chunky Heel Ankle Boots - Martin Style](https://mdg-9604.myshopify.com/products/womens-chunky-heel-ankle-boots-martin-style): Step into the season with confidence in our stunning Martin boots, designed specifically for the modern woman. These boots are not just a fashion statement; they combine style and functionality to ensure you look chic while feeling comfortable all day long. Crafted with a sleek artificial PU upper and a durable rubber sole, these boots are perfect for both autumn and winter wear. The round toe and square heel provide a classic yet trendy silhouette, while the middle heel height (3-5CM) offers the perfect balance of comfort and elevation. Enjoy the unique details such as metal accents, rhinestones, and expertly crafted car stitching. The waterproof platform ensures your feet stay dry, making these boots ideal for unpredictable weather. With a front zipper design, slipping these boots on and off is a breeze. The breathable and wear-resistant material not only enhances comfort but also ensures longevity, so you can enjoy these fashionable boots for many seasons to come. Perfectly suited for any casual outing or dressy occasion, these low tube boots feature an ordinary thickness that provides the ultimate combination of style and ease. Available in various sizes, you can find the perfect fit for your unique style. Don’t miss out on adding these versatile and trendy Martin boots to your collection. Embrace the season with style and comfort!
-  Updated: 2025-11-21T10:38:24Z
+  Updated: 2025-11-25T20:59:52Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -15567,7 +15567,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/jOmmk5GjuooLtoAT.webp?v=1763674065
     Price: €46.61 EUR
 - [Martin Boots, Ankle Boots, Chunky High Heels](https://mdg-9604.myshopify.com/products/martin-boots-ankle-boots-chunky-high-heels): Step into style and comfort with our trendy Martin boots. Crafted from high-quality artificial PU, these boots are designed for the modern woman who values both fashion and function. The thick heel offers a comfortable lift of 6-8CM, making them perfect for any occasion, whether you're heading to work or enjoying a night out. With a chic round toe and a solid color pattern, these boots are versatile enough to pair with any outfit. Available in stunning colors such as red, black, dark brown, and a unique military green, you can express your personal style effortlessly. The wear-resistant rubber sole ensures durability, while the comfortable EVA insole and PU inner lining provide all-day support. Whether it's spring, summer, autumn, or winter, these boots are the perfect addition to your wardrobe. Explore the various sizes available to find your perfect fit. Elevate your shoe game with these fashionable and functional Martin boots!
-  Updated: 2025-11-21T10:05:07Z
+  Updated: 2025-11-25T20:59:52Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -15697,7 +15697,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/PTmfZZfmGobgGDkk.webp?v=1763674157
     Price: €52.51 EUR
 - [Women's Martin Boots - Trendy Leather Short Ankle Boots](https://mdg-9604.myshopify.com/products/womens-martin-boots-trendy-leather-short-ankle-boots): Step into the season with our chic and versatile Martin boots designed for the modern woman. Crafted with high-quality cowhide leather, these ankle boots not only offer a stylish look but also deliver on comfort and durability. The round-tip design provides a classic touch, ensuring you look fashionable while maintaining comfort throughout the day. Whether you're pairing them with jeans for a casual outing or dressing them up for a night out, these boots are perfect for any occasion. With a plus velvet lining, these boots are a winter essential, keeping your feet warm and cozy during the chilly months. The rubber sole offers excellent traction, making them suitable for various terrains and conditions. Choose from a variety of colors including classic black, vibrant red, and stylish green, available in sizes ranging from 34 to 48. Each pair is designed to fit true to size, ensuring a perfect fit every time. Elevate your winter wardrobe with these trendy boots, featuring elegant stitching that adds a touch of sophistication. They are not just shoes; they are a statement of style and comfort.
-  Updated: 2025-11-21T10:40:34Z
+  Updated: 2025-11-25T20:59:52Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -15873,7 +15873,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/tBevsFc7qKtXCcnR.webp?v=1763674210
     Price: €103.86 EUR
 - [Women's Martin Boots - Winter Chunky Heeled Ankle Shoes](https://mdg-9604.myshopify.com/products/womens-martin-boots-winter-chunky-heeled-ankle-shoes): Step out in style and comfort with our latest Doc Martens-inspired boots, designed specifically for the modern woman who values both fashion and functionality. These thick-soled and waterproof ankle boots are the perfect addition to your winter wardrobe, combining elegance with a touch of ruggedness. Crafted with a durable upper material, these boots are built to withstand the elements while providing a chic look. The round toe design and thick heel offer stability and support, making them ideal for all-day wear. With a super high heel (over 8CM), these boots elevate your style while ensuring comfort with every step. The side zipper makes them easy to slip on and off, while the metal accents add a trendy flair. Available in classic black, these boots come in various sizes to ensure the perfect fit for everyone. Check out these stunning visuals that showcase the exquisite design: Don't miss out on the chance to add these versatile boots to your collection. Embrace the winter season with confidence and style!
-  Updated: 2025-11-21T10:48:20Z
+  Updated: 2025-11-25T20:59:53Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -15903,7 +15903,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/pjR9zzIl49CivPiD.webp?v=1763674141
     Price: €83.51 EUR
 - [Women's Chunky Heel Ankle Boots - Stylish Martin Boots](https://mdg-9604.myshopify.com/products/womens-chunky-heel-ankle-boots-stylish-martin-boots): Step out in style this autumn and winter with our stunning chunky heel ankle boots, crafted to elevate your wardrobe while providing comfort and warmth. These fashionable boots feature a sleek suede upper and a durable rubber sole, making them perfect for any occasion. Designed for the modern woman, these boots are not just about looks; they also offer a high heel height of 6-8cm, giving you that extra boost of confidence. With a chic pointed toe shape and a classic Martin boot style, these boots are versatile enough to pair with both casual and dressy outfits. The interior is lined with imitation leather, ensuring a comfortable fit while the PU insole provides additional cushioning for all-day wear. Whether you're heading to work, a night out, or a weekend brunch, these boots will keep your feet looking sleek and stylish. Available in two elegant colors, Black and Light Brown, and a variety of sizes from 34 to 40, you can easily find the perfect pair that fits your unique style. Don't miss out on the opportunity to enhance your footwear collection with these must-have boots!
-  Updated: 2025-11-21T13:12:48Z
+  Updated: 2025-11-25T20:59:53Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -15963,7 +15963,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/5RDaMKtmAr5qHKV5.webp?v=1763674237
     Price: €54.88 EUR
 - [Women's Waterproof Chunky Heel Martin Boots (Fall/Winter)](https://mdg-9604.myshopify.com/products/womens-waterproof-chunky-heel-martin-boots-fall-winter): Step into the season with confidence and style in our stunning Waterproof Platform High-Heel Martin Boots. Designed for the modern woman, these boots combine functionality with a chic, leisure style that is perfect for both casual outings and more formal events. Crafted from high-quality artificial PU for the upper material, these boots offer durability while maintaining a stylish appearance. The rubber sole provides excellent traction, making them ideal for a variety of weather conditions. Featuring a coarse heel that stands at a height of 6-8CM, these boots not only elevate your stature but also ensure comfort for all-day wear. The round head toe shape gives a classic touch, while the side zipper adds convenience and ease of wear. These boots are designed to keep your feet warm during the chilly autumn and winter months. With their ordinary thickness and mid-calf cylinder height, they provide the perfect balance of warmth and style. Choose from multiple sizes to find your perfect fit and enjoy the fabulous paillette detailing that adds a hint of sparkle to your outfit. Available in classic black, these versatile boots will complement any wardrobe. Take a look at our stunning images below to see how these boots can elevate your style this season.
-  Updated: 2025-11-21T09:52:41Z
+  Updated: 2025-11-25T20:59:53Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -15989,7 +15989,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/ymgWA6MP5NeAaNz4.webp?v=1763674147
     Price: €76.30 EUR
 - [Women's Genuine Leather Ankle Martin Boots](https://mdg-9604.myshopify.com/products/womens-genuine-leather-ankle-martin-boots): Step out in style with our stunning genuine leather ankle boots, designed specifically for women who appreciate both fashion and comfort. These Martin boots feature an upper made of premium first-layer sheepskin combined with elastic for a snug fit, ensuring that you look chic without sacrificing comfort. The interior is lined with soft microfiber and short fleece, providing a cozy feel that keeps your feet warm throughout the day. With a sturdy beef tendon sole, these boots offer exceptional durability and traction, making them perfect for any occasion, from casual outings to more formal events. Standing at a stylish height of 7CM, our ankle boots are available in three versatile colors: Black, Gray, and Beige, allowing you to mix and match with your wardrobe effortlessly. Available sizes range from 34 to 40, ensuring a perfect fit for every foot. Before making your purchase, please refer to our size chart for guidance and feel free to reach out to our customer service team if you need assistance in choosing the right size. Don't miss out on elevating your shoe collection with these elegant ankle boots. Check out the images below to see the exquisite craftsmanship and style. Please note: Small size differences may occur due to manual measurements, and color may vary slightly based on your screen settings. Add these gorgeous ankle boots to your cart today and step out in confidence!
-  Updated: 2025-11-21T19:17:33Z
+  Updated: 2025-11-25T20:59:53Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -16079,7 +16079,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/FTZ0hkb6IEWH5D5G.webp?v=1763674279
     Price: €58.57 EUR
 - [Chunky Heel Martin Boots - Low Heel Ankle Booties](https://mdg-9604.myshopify.com/products/chunky-heel-martin-boots-low-heel-ankle-booties): Step out in style this season with our trendy Chunky Heel Martin Boots. Designed specifically for the modern woman aged 18-40, these boots combine comfort and fashion effortlessly. The artificial PU upper provides a sleek look while ensuring durability, making them perfect for both casual and semi-formal occasions. Featuring a composite sole, these boots offer excellent traction and support, allowing you to walk confidently on any surface. The round toe shape and thick heel (3-5CM) ensure a comfortable fit, making them suitable for all-day wear. Whether you're dressing up for a night out or keeping it casual, these boots are the perfect addition to your wardrobe. Available in classic colors like Brown, Grey, and Black, you can easily pair them with your favorite outfits. Choose from a variety of sizes ranging from 35 to 40 to find your perfect fit. Take a look at these stunning images to see how these boots can elevate your style: Don’t miss out on the chance to add these versatile and stylish boots to your collection. Order yours today and step out with confidence!
-  Updated: 2025-11-21T10:02:19Z
+  Updated: 2025-11-25T20:59:53Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -16157,7 +16157,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/9LObLmWbjJK3cY34.webp?v=1763674173
     Price: €55.51 EUR
 - [Women's British Style Thick Sole Martin Boots](https://mdg-9604.myshopify.com/products/womens-british-style-thick-sole-martin-boots): Step out in style with our Women's New British Style Thick Sole Heightening Martin Boots. Crafted from premium microfiber, these boots offer an elegant yet durable solution for your footwear needs. The rubber sole ensures excellent traction and wear-resistance, making them perfect for any adventure you may embark on. With a rounded toe and a chic thick sole, these boots not only elevate your height but also provide all-day comfort. The medium tube height gives you that classic Martin boot silhouette, while the stylish British design keeps things trendy. Plus, the waterproof platform feature allows you to brave the elements without sacrificing style. Choose from a variety of colors, including Black and Khaki, available in multiple sizes to ensure the perfect fit. Whether you're dressing up for a night out or keeping it casual, these boots are versatile enough to complement any outfit. Explore more looks with these stunning images: Don't miss out on the chance to own these stylish boots that combine functionality with fashion. Step into comfort and style today!
-  Updated: 2025-11-21T11:57:10Z
+  Updated: 2025-11-25T20:59:54Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -16211,7 +16211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/dpDka6eisSlOf3p7.webp?v=1763674305
     Price: €66.22 EUR
 - [Trendy Chunky Sole Women's Martin Boots for Fall](https://mdg-9604.myshopify.com/products/trendy-chunky-sole-womens-martin-boots-for-fall): Step into the season with our trendy Martin boots, designed for style and comfort. These chic boots feature a stunning round toe and a comfortable middle heel height of 3-5CM, making them perfect for both casual outings and stylish events. The breathable materials ensure your feet stay comfortable all day long, while the low tube design adds a touch of elegance to any outfit. Crafted with high-quality artificial PU for the upper and a durable composite sole, these boots not only look great but are built to last. Choose from two captivating colors: a striking green or a classic beige, allowing you to express your unique style. Available in multiple sizes, these boots cater to your perfect fit. Whether you're pairing them with a cozy sweater and jeans or a chic dress, these boots are the ultimate fashion statement this fall. Don’t miss out on the chance to elevate your wardrobe with our stylish Martin boots!
-  Updated: 2025-11-21T10:19:10Z
+  Updated: 2025-11-25T20:59:54Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -16265,7 +16265,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/RXFIwxi5ebD64aW8.webp?v=1763674289
     Price: €61.22 EUR
 - [Women's Martin Boots - Stylish Chunky Heeled Ankle Boots](https://mdg-9604.myshopify.com/products/womens-martin-boots-stylish-chunky-heeled-ankle-boots): Step into the season with our stunning Martin Boots, designed for the fashion-forward woman who values both style and comfort. These boots feature a chic square toe design that adds an element of sophistication to any outfit. With a sturdy thick heel measuring between 3-5CM, you can enjoy the perfect blend of height and stability, allowing you to walk with confidence whether you’re at the office or out on the town. Crafted from high-quality artificial PU for the upper material, these boots are not only stylish but also durable and easy to maintain. The rubber sole provides excellent traction, making them non-slip and wear-resistant, perfect for navigating through autumn and winter weather. Available in three classic colors: Black, Beige, and White, you can find the perfect pair to match your personal style. Each color comes in a variety of sizes from 35 to 39, ensuring a comfortable fit for everyone. Whether you're dressing up for a night out or keeping it casual, these short boots are versatile enough to pair with anything from jeans to skirts. Elevate your wardrobe and make a fashion statement this season with our trendy Martin Boots.
-  Updated: 2025-11-21T11:13:28Z
+  Updated: 2025-11-25T20:59:54Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -16331,7 +16331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/JStjtKdlnHGZH1Sp.webp?v=1763674353
     Price: €93.19 EUR
 - [White Chunky Sole Women's Martin Boots - Fall/Winter](https://mdg-9604.myshopify.com/products/white-chunky-sole-womens-martin-boots-fall-winter): Step into the future of fashion with our stunning White and Black Thick-soled Martin Boots, designed for the modern woman who values both style and comfort. These motorcycle boots are not just a statement piece; they are crafted with a waterproof platform and non-slip features, ensuring you stay confident and secure on your feet, no matter where your adventures take you. Featuring a sleek, flat heel design and a mid-tube height, these boots are perfect for any autumn or winter occasion. The sewing thread detailing adds a chic touch while enhancing durability, making them wear-resistant for everyday use. The convenient side zipper makes it easy to slip these boots on and off, saving you time while still looking effortlessly stylish. Available in classic white and black, these boots can easily complement any outfit, whether you're dressing up for a night out or keeping it casual. Choose from a variety of sizes, ensuring the perfect fit for every foot. With a height of 100mm and weighing just 0.95kg, these boots provide comfort without compromising on style. Elevate your wardrobe this season with the ultimate blend of fashion and functionality.
-  Updated: 2025-11-21T10:19:57Z
+  Updated: 2025-11-25T20:59:54Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -16385,7 +16385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/0UTWkp54c13wsYnA.webp?v=1763674226
     Price: €73.87 EUR
 - [Breathable Leather Martin Boots with Thick Sole](https://mdg-9604.myshopify.com/products/breathable-leather-martin-boots-with-thick-sole): Step out in style and comfort with our stunning Leather Martin Boots. Designed for the modern individual, these boots blend the classic British style with contemporary features, ensuring you make a statement wherever you go. Their breathable mesh construction keeps your feet cool and comfortable, making them ideal for summer wear. Featuring a back zipper closure for easy wear, these boots are as functional as they are fashionable. The round toe design provides ample space for your feet, while the thick heel offers stability and support throughout the day. Made with high-quality rubber soles, you can trust these boots to withstand daily wear and tear without compromising on style. Crafted from premium shaved skin leather, these boots not only look good but feel great too. The comfortable PU insole ensures all-day comfort, allowing you to stay on your feet longer without any discomfort. Choose from a wide range of colors and sizes to find the perfect pair that suits your personal style. Whether you're dressing up for a night out or keeping it casual during the day, our Leather Martin Boots are the perfect addition to your wardrobe. Available in sizes 35 to 40, and a variety of colors, there's a perfect pair waiting just for you!
-  Updated: 2025-11-21T12:20:11Z
+  Updated: 2025-11-25T20:59:54Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -16591,7 +16591,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/U1aT3KlOAhU1cBSE.webp?v=1763674527
     Price: €45.81 EUR
 - [Genuine Leather Women's Chunky Heel Ankle Boots](https://mdg-9604.myshopify.com/products/genuine-leather-womens-chunky-heel-ankle-boots): Step into comfort and style with our stunning collection of genuine leather ankle boots. Designed to elevate your wardrobe, these mid-heel, thick-soled Martin boots are the perfect blend of fashion and functionality. Whether you're dressing up for a night out or keeping it casual, these boots will be your go-to for any occasion. Crafted from soft leather, the upper is not only durable but also provides a luxurious feel. Inside, you can choose between a single lining or a cozy wool lining, ensuring your feet stay warm during those chilly days. The robust rubber sole offers excellent grip and stability, making every step a confident one. Available in a variety of colors including classic black, elegant wine red, and versatile rice white, you can easily find the perfect pair to match your unique style. Sizes range from 35 to 43, ensuring a fit for every foot. Take a closer look at our stunning designs: Don't miss out on these essential boots that combine style, comfort, and versatility. Grab your pair today and step out in confidence!
-  Updated: 2025-11-21T09:58:08Z
+  Updated: 2025-11-25T20:59:54Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -16797,7 +16797,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/EhblzPfFFJsTzxIK.webp?v=1763674286
     Price: €144.13 EUR
 - [Women's Round Bead Thick Sole Martin Boots](https://mdg-9604.myshopify.com/products/womens-round-bead-thick-sole-martin-boots): Step out in style with our Women's Round Bead Thick Soled Martin Boots, designed to elevate your wardrobe while ensuring comfort and durability. Crafted from high-quality artificial PU for the vamp and featuring a sturdy rubber sole, these boots are perfect for any occasion, whether you're dressing up for a night out or keeping it casual. The stylish round toe and thick heel provide a trendy silhouette, while the mid-height heel (3-5cm) offers just the right amount of lift without sacrificing comfort. With a design that draws inspiration from European and American fashion, these boots are a versatile addition to your wardrobe. Available in multiple sizes, you'll find the perfect fit to complement your unique style. Choose from classic Black or bold Leopard Print options to express your personality. Check out our stunning collection below and step up your shoe game today!
-  Updated: 2025-11-21T09:54:32Z
+  Updated: 2025-11-25T20:59:55Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -16873,7 +16873,7 @@
     Availability: Available
     Price: €74.63 EUR
 - [Trendy Women's Chunky Ankle Boots for Fall/Winter](https://mdg-9604.myshopify.com/products/trendy-womens-chunky-ankle-boots-for-fall-winter): Step into the season with style and comfort in our latest Korean boots. Designed to elevate your autumn and winter wardrobe, these versatile boots are perfect for any occasion. Made with high-quality PU material, they offer durability and a chic look that complements both casual and dressy outfits. Available in classic black and rich brown, these boots are easy to match with any outfit. Choose from a variety of sizes ranging from 35 to 40 to find your perfect fit. Whether you are heading out for a casual day with friends or dressing up for a night out, these boots are your go-to choice. The innovative design ensures that you stay comfortable all day long, while the stylish retro look makes a bold statement. With their warm lining, they are ideal for the colder months, providing both warmth and style. Don't miss out on this must-have addition to your footwear collection. Shop now and step out in confidence!
-  Updated: 2025-11-21T11:38:04Z
+  Updated: 2025-11-25T20:59:55Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -16927,7 +16927,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/0cViyqSghifjWn5o.webp?v=1763674289
     Price: €57.78 EUR
 - [Women's Thick Sole Leather Martin Boots for Spring/Fall](https://mdg-9604.myshopify.com/products/womens-thick-sole-leather-martin-boots-for-spring-fall): Elevate your footwear collection with our stunning Women's Thick Sole Martin Boots. Crafted from premium cowhide, these boots are designed for both comfort and style, making them the perfect addition to your spring and autumn wardrobe. The robust rubber sole ensures durability while providing excellent traction for every step you take. Available in a variety of chic colors, including Black and Beige, these boots cater to both men and women, making them a versatile choice for anyone looking to make a fashion statement. With a classic European and American style, they are perfect for any occasion, whether you're heading out for a casual day or dressing up for a night out. The unique muffin style adds a modern twist to the classic Martin boots, while the cozy fleece lining provides extra warmth and comfort. Available in multiple sizes, you can find the perfect fit to match your personal style. Check out the stunning visuals below to see just how these boots can transform your outfit: Don't miss out on the opportunity to step out in style with our Women's Thick Sole Martin Boots. Grab your pair today and experience the perfect blend of comfort and fashion!
-  Updated: 2025-11-21T12:23:54Z
+  Updated: 2025-11-25T20:59:55Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -16981,7 +16981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/9f4nY4fw3Jc7H0kG.webp?v=1763674375
     Price: €171.23 EUR
 - [Retro Thick Sole Leather Martin Short Boots](https://mdg-9604.myshopify.com/products/retro-thick-sole-leather-martin-short-boots): Step into a world of style and comfort with our stunning Martin boots, designed specifically for the modern woman. These boots are not just footwear; they are a statement of individuality and confidence. Crafted from premium microfiber, the upper material ensures durability while providing a luxurious feel. The round toe design gives you the perfect blend of fashion and functionality, and the thick heel offers a sturdy base that adds height without sacrificing comfort. With a rubber foam sole, you'll experience excellent traction and support, making these boots perfect for any adventure. Available in two elegant finishes—Black Matte and Black Patent Leather—you can choose the look that best fits your style. Each pair features trendy elements like a stylish belt buckle, embodying the essence of European and American fashion. These mid-calf boots are designed for adult women, making them a versatile choice for various occasions, from casual outings to more formal gatherings. With a thickness that is just right, they provide warmth in the cooler months while maintaining a chic appearance. Whether you're pairing them with jeans, skirts, or dresses, our Martin boots will elevate your outfit effortlessly. Explore the perfect fit for your feet with our size range from 34 to 40, ensuring that every woman can find her perfect match. Don’t miss out on these must-have boots that combine fashion and functionality. Get ready to turn heads and walk with confidence in these gorgeous Martin boots!
-  Updated: 2025-11-21T10:02:15Z
+  Updated: 2025-11-25T20:59:55Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -17043,7 +17043,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/xEqelGyuYJhNH8ai.webp?v=1763674437
     Price: €125.74 EUR
 - [Women's Versatile Leather Thick Sole Martin Boots](https://mdg-9604.myshopify.com/products/womens-versatile-leather-thick-sole-martin-boots): Step up your footwear game with our Women's All Match Leather Thick Sole Martin Boots. These stylish boots are designed to be your go-to pair for any occasion. With a round toe shape and a thick plastic sole, they offer both comfort and durability, making them perfect for all-day wear. Whether you're dressing up for a night out or keeping it casual on the weekends, these plain pattern Martin boots will effortlessly complement your wardrobe. Available in a variety of chic colors such as Grey, Pink, Camel, and White, there's a perfect pair for every style enthusiast. Check out these stunning images showcasing the elegant design and versatile look of our boots: With a variety of sizes available, you can find the perfect fit for your feet. Don't miss out on elevating your style with these trendy and versatile boots. Add them to your collection today!
-  Updated: 2025-11-21T22:00:03Z
+  Updated: 2025-11-25T20:59:55Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -17224,7 +17224,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/gdrcp2woB7kG0yOE.webp?v=1763674332
     Price: €107.50 EUR
 - [Women's Martin Boots, Leather Chunky Ankle Boots](https://mdg-9604.myshopify.com/products/womens-martin-boots-leather-chunky-ankle-boots): Step into the season with our latest collection of women's Martin boots, designed for the modern woman who values both style and comfort. These boots are crafted from high-quality first layer cowhide, ensuring durability and a luxurious look that makes them perfect for any autumn or winter outfit. Experience ultimate comfort with an insole made from artificial wool and a soft short plush lining that keeps your feet warm and cozy during chilly days. The boots feature a sturdy viscose sole that offers excellent traction while maintaining a sleek, fashionable appearance. Available in various sizes from 34 to 40 and a chic array of colors, including classic black and elegant brown, there’s a perfect pair for every wardrobe. Whether you're dressing up for a night out or keeping it casual, these versatile boots are the ideal addition to your footwear collection. Check out our stunning product images below to see the attention to detail and craftsmanship: Don’t miss out on the opportunity to elevate your style this season. Order your pair today and walk confidently in comfort and chic elegance!
-  Updated: 2025-11-21T10:00:05Z
+  Updated: 2025-11-25T20:59:56Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -17342,7 +17342,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/ZT4Am1zXVnZP6nm1.webp?v=1763674354
     Price: €100.72 EUR
 - [Chic Women's Autumn Martin Boots - Thick Sole Short Boots](https://mdg-9604.myshopify.com/products/chic-womens-autumn-martin-boots-thick-sole-short-boots): Step into the season with our stunning Autumn Martin Boots, designed for the modern woman who values both style and comfort. Crafted from high-quality leather, these boots are not only chic but also durable, ensuring they can withstand the wear of everyday use. The unique round toe shape and thick heel provide a perfect blend of sophistication and support, making them ideal for any occasion. Whether you're dressing up for a night out or looking for the perfect pair to elevate your casual outfits, our Martin boots are the answer. With a heel height of 6-8CM, they offer just the right lift to keep you stylish without sacrificing comfort. The plain pattern makes them versatile enough to pair with virtually any ensemble, while their European and American style ensures you stay on-trend. Choose from a variety of colors including classic black, warm brown, and soft light brown. Each pair is available in multiple sizes to ensure the perfect fit for everyone. The boots feature a pigskin lining that enhances breathability and comfort, allowing you to wear them all day long without any discomfort. Don’t miss out on these must-have boots this winter! Check out the images below to see how they can elevate your wardrobe:
-  Updated: 2025-11-21T09:54:14Z
+  Updated: 2025-11-25T20:59:56Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -17420,7 +17420,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/NeZ1ULd2Sf5ApHWZ.webp?v=1763674367
     Price: €107.85 EUR
 - [Women's Thick-Heel Motorcycle Martin Boots](https://mdg-9604.myshopify.com/products/womens-thick-heel-motorcycle-martin-boots): Step into style and comfort with our Women's Thick-heel Locomotive Martin Boots. Designed for the modern woman, these boots are the perfect blend of fashion and functionality, making them an essential addition to your wardrobe. Crafted from high-quality artificial PU, the upper material offers a sleek and polished look, while the rubber sole ensures durability and grip with every step you take. The round toe design provides ample space for your toes, making these boots as comfortable as they are stylish. With a thick heel that stands at a moderate height of 3-5CM, you can enjoy both height and stability, making these boots ideal for everyday wear or special occasions. The convenient side zipper allows for easy on and off, so you can slip them on in a hurry without sacrificing style. Available in a classic black color, these boots are versatile enough to pair with any outfit, from jeans to dresses. Choose from sizes 35 to 40 to find the perfect fit for your feet. Packing List: 1* Boots Elevate your footwear game with these stunning boots that promise to keep you stylish and comfortable all day long. Don't miss out on adding this must-have item to your collection!
-  Updated: 2025-11-21T12:28:41Z
+  Updated: 2025-11-25T20:59:56Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -17450,7 +17450,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/Ur0V3bNEL4EW5iqa.webp?v=1763674392
     Price: €73.21 EUR
 - [Women's Plus Velvet Thick-Soled Martin Boots for Fall/Winter](https://mdg-9604.myshopify.com/products/womens-plus-velvet-thick-soled-martin-boots-for-fall-winter): Step into style this autumn and winter with our Women's New Autumn And Winter Plus Velvet Thick Thick-soled Martin Boots. Designed to make a statement, these boots offer a unique blend of fashion and functionality. Crafted from high-quality materials, the boots ensure comfort with every step. The two layers of pigskin inside the upper provide a soft touch, while the artificial short plush lining keeps your feet warm and cozy during the colder months. Choose from an array of colors to suit your personal style. Whether you're dressing up for an occasion or going for a casual look, these boots are the perfect complement to any outfit. The flat heel design (less than or equal to 1cm) and internal increase sole style make these boots not just stylish but practical too. The rubber sole ensures durability and a good grip, making them suitable for all-day wear. Available in sizes 35 to 40, these boots are designed to fit and flatter. The low tube height and plain pattern add to their versatility, allowing you to pair them with a variety of outfits. Don't miss out on the chance to elevate your footwear collection with these stunning boots. Check out our images below to see the beauty and craftsmanship of these must-have Martin boots!
-  Updated: 2025-11-21T14:35:08Z
+  Updated: 2025-11-25T20:59:56Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -17480,7 +17480,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/evuauX17dyHipYg9.webp?v=1763674416
     Price: €66.66 EUR
 - [Women's Chunky Sole Martin Ankle Boots for Fall/Winter](https://mdg-9604.myshopify.com/products/womens-chunky-sole-martin-ankle-boots-for-fall-winter): Step out in style this autumn and winter with our fashionable short boots. Designed to provide both comfort and elegance, these Martin boots feature a flat heel of less than or equal to 1cm, making them perfect for all-day wear without compromising on style. Crafted from two layers of premium pigskin, these boots not only offer durability but also a luxurious touch that your feet will appreciate. The shallow opening makes them easy to slip on, while the interior padding ensures a snug fit. Available in classic black and chic black cotton, these boots come in various sizes ranging from 35 to 40, so you can find the perfect fit for your feet. Whether you're heading to work, a casual outing, or a night out, these boots will elevate any outfit effortlessly. Check out the stunning images below to see how these versatile boots can complement your wardrobe!
-  Updated: 2025-11-21T10:04:01Z
+  Updated: 2025-11-25T20:59:56Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -17528,7 +17528,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/FaU0NFGV0JOO9af1.webp?v=1763674433
     Price: €93.62 EUR
 - [Stylish Women's Thick Heel Martin Motorcycle Boots](https://mdg-9604.myshopify.com/products/stylish-womens-thick-heel-martin-motorcycle-boots): Step into the world of style and comfort with our All-match Handsome Motorcycle Thick Heel Martin Boots designed specifically for women who crave both fashion and functionality. These boots are not just a statement piece; they are crafted to keep you warm and stylish through the chilly Autumn and Winter seasons. Made from high-quality PU material for the upper and rubber for the sole, these boots promise durability and comfort. The middle heel height (3-5CM) offers the perfect lift while ensuring ease of movement, making them ideal for daily wear or adventurous outings. The round toe shape adds a classic touch, while the thick heel provides stability and support. The waterproof platform feature ensures that your feet stay dry, no matter the weather. With a plain pattern and a front tie wearing style, these boots are versatile enough to pair with any outfit, be it casual or edgy. Plus, they are designed to be wear-resistant, making them a long-lasting addition to your wardrobe. Available in chic Black and White, you can choose from sizes 35 to 40 to find your perfect fit. Whether you're hitting the road on your motorcycle or just running errands, these boots are the ultimate combination of practicality and style.
-  Updated: 2025-11-21T13:15:44Z
+  Updated: 2025-11-25T20:59:57Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -17582,7 +17582,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/pAgoSFEUMtuBoLm2.webp?v=1763674458
     Price: €130.09 EUR
 - [Women's Martin Boots - Autumn Winter Plus Velvet Thick Sole](https://mdg-9604.myshopify.com/products/womens-martin-boots-autumn-winter-plus-velvet-thick-sole): Step into the new season with confidence and style in our elegant Martin Boots designed for women. Crafted from high-quality artificial PU, these boots not only offer a chic look but also ensure durability and comfort with every step you take. The rubber sole provides excellent traction, making them perfect for autumn and winter wear. With a convenient side zipper, slipping these boots on and off is a breeze, allowing you to effortlessly transition from day to night. The thick heel and plus velvet lining give you that extra support and warmth, making them an ideal choice for chilly days. Available in a classic black color, these boots can be paired with a variety of outfits, whether you're dressing up for a night out or keeping it casual on a weekend. Choose from a range of sizes to find your perfect fit: Don't miss out on the opportunity to elevate your footwear collection this season. Grab your pair of Martin Boots now and step out in style!
-  Updated: 2025-11-21T11:57:41Z
+  Updated: 2025-11-25T20:59:57Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -17612,7 +17612,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/oaIoq5vsna0J8Ywq.webp?v=1763674416
     Price: €70.62 EUR
 - [Women's Winter Martin Boots with Thick Sole and Heels](https://mdg-9604.myshopify.com/products/womens-winter-martin-boots-with-thick-sole-and-heels): Elevate your winter wardrobe with our stylish Martin Boots, designed specifically for the modern woman. These boots combine fashion with functionality, ensuring you stay warm while turning heads this season. Crafted from premium microfiber and the first layer of cowhide, these boots boast both durability and comfort, making them the perfect addition to any outfit. The thick heel design, standing at a comfortable height of 3-5CM, provides stability without compromising on style. The round toe shape ensures a relaxed fit, allowing for all-day wear while the side zipper makes slipping them on and off a breeze. Available in classic black and elegant black, these boots are versatile enough to pair with everything from casual jeans to chic dresses. The high tube design not only adds a trendy touch but also offers extra warmth, making them ideal for cold winter days. What sets these boots apart are the striking rivets and chains that add an edgy flair to your look. Whether you’re heading out for a night on the town or just running errands, these boots will keep you looking effortlessly cool. Choose from a range of sizes, from 35 to 41, to find your perfect fit. With a variety of options, including styles with additional velvet lining for extra warmth, you can customize your look while staying cozy. Images of our Martin Boots: Step out in confidence this winter with our Martin Boots. Don’t just keep warm—make a statement!
-  Updated: 2025-11-21T09:59:46Z
+  Updated: 2025-11-25T20:59:57Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -17670,7 +17670,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/tFcWM8YzSpjot8MY.webp?v=1763674523
     Price: €97.44 EUR
 - [Women's High Heel Martin Boots for Autumn Winter](https://mdg-9604.myshopify.com/products/womens-high-heel-martin-boots-for-autumn-winter): Step into the season with our stunning Martin Boots, designed for the modern woman who values both style and comfort. Available in a chic brown and a classic black, these boots are perfect for any occasion, from casual outings to more formal affairs. Crafted from high-quality head layer cowhide, these boots not only offer durability but also feature a sophisticated embossed finish that captures a retro style. The sturdy chunky heel provides the perfect balance between height and stability, ensuring you can walk confidently wherever you go. With a convenient zipper closure, slipping them on and off is a breeze, while the warm lining keeps your feet cozy during the chill of autumn and winter. Choose from a range of sizes, accommodating your unique fit. Whether you're dressing up for a night out or running errands during the day, our Martin Boots are the ultimate versatile addition to your wardrobe. Don't miss out on making a statement this season. Grab your pair today and elevate your footwear collection!
-  Updated: 2025-11-21T11:21:25Z
+  Updated: 2025-11-25T20:59:57Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -17741,7 +17741,7 @@
     Availability: Available
     Price: €131.68 EUR
 - [Women's Martin Boots with Side Zipper and Thick Sole](https://mdg-9604.myshopify.com/products/womens-martin-boots-with-side-zipper-and-thick-sole): Step out in style this autumn and winter with our stunning Martin boots, designed exclusively for the modern woman. These boots feature a chic English style that effortlessly complements any outfit, making them a must-have for your wardrobe. Crafted from high-quality artificial PU, the upper material ensures durability while offering a sleek appearance. The rubber sole provides excellent traction, making these boots perfect for both urban adventures and cozy outings. With their round toe design and thick heel, these boots not only offer comfort but also add a touch of sophistication to your look. The side zipper closure allows for easy wear, while the ordinary thick thickness keeps your feet warm during the chillier months. Enjoy the practical features like the waterproof platform and artificial short plush lining, providing you with the warmth and comfort you desire in winter and autumn. The boots have a middle tube height and are suitable for various occasions, whether you're dressing up for a night out or running errands. Available in multiple sizes, these Chelsea boots are designed to fit every woman's needs. Choose your perfect fit and color, and step out in confidence this season!
-  Updated: 2025-11-21T09:51:17Z
+  Updated: 2025-11-25T20:59:57Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -17771,7 +17771,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/ZKcHi2ZRTZUsLVOT.webp?v=1763674437
     Price: €89.91 EUR
 - [Fashionable Women's Martin Boots with Thick Heels](https://mdg-9604.myshopify.com/products/fashionable-womens-martin-boots-with-thick-heels): Step into style this autumn and winter with our stunning Martin Boots! Crafted from premium suede, these short tube boots are designed to keep your feet cozy and fashionable through the colder months. The thick heel design not only adds a touch of elegance but also provides the comfort you need for all-day wear. With a high heel height of 6-8CM, you’ll enjoy a flattering lift while maintaining stability on various surfaces. The innovative side zipper allows for easy on and off, making them a practical choice for your busy lifestyle. These boots feature a round toe shape and are equipped with a waterproof platform, ensuring your feet stay dry and protected. The combination of non-slip and wear-resistant properties make them ideal for navigating slick streets during rainy or snowy days. Plus, with fantastic sweat absorption and shock absorption features, your feet will feel comfortable no matter the adventure. Choose from a range of sizes (36 to 43) to find your perfect fit. The PU insole and leather interior promise a soft touch against your skin, while the ordinary thick construction offers durability and style. Perfect for pairing with your favorite winter outfits, these Martin Boots are a must-have addition to your footwear collection. Embrace the season with confidence and flair!
-  Updated: 2025-11-21T10:34:05Z
+  Updated: 2025-11-25T20:59:58Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -17809,7 +17809,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/i60KJ7hUtBR1L9Jp.webp?v=1763674502
     Price: €90.65 EUR
 - [Women's Martin Boots with Thick High-Heels (All-match)](https://mdg-9604.myshopify.com/products/womens-martin-boots-with-thick-high-heels-all-match): Step into style and comfort with our Martin Boots, designed exclusively for women who appreciate fashion without compromising on quality. These thick high-heeled short tube boots are the perfect all-match footwear for any occasion, offering versatility and elegance in one package. Crafted from premium two-layer cowhide, the upper material not only ensures durability but also provides a luxurious feel against your skin. The rubber sole offers excellent traction, making these boots suitable for various terrains, while the inner material, made of artificial plush, promises all-day comfort. Available in a range of stunning colors and sizes, our Martin Boots cater to every style preference. Choose from classic shades like Apricot and Black, each boasting a chic single lining that enhances the overall aesthetic. Whether you’re dressing up for a night out or looking for a stylish option for daily wear, these boots will effortlessly elevate your outfit. Explore our gallery to see the exquisite design and craftsmanship of these boots: Experience the perfect blend of comfort and style with our Martin Boots. Elevate your shoe collection today!
-  Updated: 2025-11-21T10:33:26Z
+  Updated: 2025-11-25T20:59:58Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -17839,7 +17839,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/60pt0Acm4OeRba20.webp?v=1763674496
     Price: €80.40 EUR
 - [Women's High Heel Short Boots with Thick Heels](https://mdg-9604.myshopify.com/products/womens-high-heel-short-boots-with-thick-heels): Step into style and comfort with our Short Boots with Thick High Heels. Available in classic colors like Black and Brown, these boots are designed to elevate your outfit while providing the support you need for all-day wear. With a variety of sizes ranging from 34 to 43, you can find the perfect fit that hugs your feet just right. Each pair features a sturdy construction, making them not only fashionable but also durable for everyday use. The thick heel adds height without compromising on stability, allowing you to stride confidently whether you’re heading to the office or out for a night on the town. Pair them with your favorite jeans or a chic dress, and you’ll be ready to turn heads. Don’t miss out on the chance to enhance your wardrobe with these versatile boots. Order now and experience the perfect combination of elegance and comfort!
-  Updated: 2025-11-21T11:47:36Z
+  Updated: 2025-11-25T20:59:58Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -17925,7 +17925,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/x11Lc9evdAeFiFut.webp?v=1763674582
     Price: €85.07 EUR
 - [Women's Fashion Thick-Soled Martin Boots (Autumn/Winter)](https://mdg-9604.myshopify.com/products/womens-fashion-thick-soled-martin-boots-autumn-winter): Step into style and comfort with our latest collection of Martin boots, designed for the modern woman who values both fashion and functionality. These trendy mid-calf boots feature a sleek design that pairs perfectly with any outfit, making them the ideal choice for both casual outings and more formal occasions. Crafted from high-quality artificial PU, the upper material offers durability and a chic appearance, while the rubber sole ensures excellent traction and stability on various surfaces. The round toe and square heel design provide a balance of style and comfort, with a low heel height (1-3CM) that makes them easy to wear all day long. These boots also boast practical features such as: The inside of the boot is lined with soft cotton and artificial short plush, ensuring your feet stay cozy. With a variety of sizes available, finding the perfect fit has never been easier. Choose from our range of sizes from 35 to 40, all in classic black to match your wardrobe effortlessly. Explore our collection and elevate your footwear game this season! Check out the images below to see these stunning boots from every angle: Don’t miss out on this perfect addition to your footwear collection. Order your pair today!
-  Updated: 2025-11-21T16:31:46Z
+  Updated: 2025-11-25T20:59:58Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -17955,7 +17955,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/j2uL1RCYZo0UWagR.webp?v=1763674537
     Price: €82.58 EUR
 - [Autumn Winter Women's Thick Heel Martin Boots](https://mdg-9604.myshopify.com/products/autumn-winter-womens-thick-heel-martin-boots): Step into the season with our Autumn and Winter Women's Martin Boots, designed for elegance and comfort. Crafted from high-quality suede, these boots offer a chic look while ensuring durability. The rubber sole provides excellent traction, making them perfect for any weather condition. With a luxurious PU insole and inner material, these boots provide all-day comfort, while the stylish thick heel adds a touch of sophistication to your ensemble. Available in a variety of striking colors including black, red, and blue, there's a perfect pair for every fashionista. Whether you're heading out for a casual day or a night on the town, these boots will elevate your outfit effortlessly. Pair them with your favorite jeans or a flirty dress for a stylish look that's sure to turn heads. Don't miss out on this must-have addition to your wardrobe! Shop now and step out in style this season.
-  Updated: 2025-11-21T21:40:54Z
+  Updated: 2025-11-25T20:59:58Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -18128,7 +18128,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/CP5kHVtuwByCCNot.webp?v=1763674723
     Price: €77.61 EUR
 - [Women's Retro Martin Boots with Thick Sole and Heel](https://mdg-9604.myshopify.com/products/womens-retro-martin-boots-with-thick-sole-and-heel): Step into the world of fashion with our Retro Martin Boots, designed exclusively for women who crave both style and comfort. These boots feature a thick sole and a thick heel, making them a perfect choice for those who want to elevate their look while enjoying all-day wearability. Crafted from high-quality PU material, the upper is not only stylish but also durable, ensuring that your boots will last season after season. The foam rubber sole adds an extra layer of comfort and flexibility, allowing you to walk with ease. Featuring a round toe design, these boots provide ample space for your toes, contributing to a comfortable fit. Available in classic colors like Black and Brown, these boots cater to a variety of styles and preferences. Whether you're dressing up for a night out or keeping it casual, the hollow design adds a trendy touch that stands out from the crowd. With a functional height increase, you can enjoy the benefits of added elevation without sacrificing comfort. Choose from a range of sizes (35 to 40) to find the perfect fit for your feet. Check out our stunning visuals below and imagine how these boots will complete your outfit: Get ready to turn heads and express your unique style with our Retro Martin Boots. Order yours today and step out in confidence!
-  Updated: 2025-11-21T10:03:01Z
+  Updated: 2025-11-25T20:59:59Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -18182,7 +18182,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/GpGUD5MzrGxvg6BN.webp?v=1763674770
     Price: €74.55 EUR
 - [Women's Retro Suede Martin Boots with Thick Sole](https://mdg-9604.myshopify.com/products/womens-retro-suede-martin-boots-with-thick-sole): Step into the world of style and comfort with our latest Martin Boots, designed exclusively for women who want to make a statement! Crafted from frosted genuine leather, these boots are not just a fashion accessory but a versatile addition to your wardrobe. The retro British design seamlessly blends with modern trends, making them perfect for various occasions. These trendy short boots feature a thick sole that provides excellent support and durability, making them ideal for both casual outings and more adventurous activities. Whether you're riding a motorcycle or simply heading out for a day with friends, these boots will keep you looking chic and feeling comfortable. Available in multiple colors including Grey, Black, Army Green, Khaki, and Ginger Yellow, and a wide range of sizes from 35 to 43, you can easily find the perfect pair that matches your unique style. Check out some stunning images of our boots below: Don’t miss out on the opportunity to elevate your footwear game with these stylish, high-quality boots. Order now and step out in confidence!
-  Updated: 2025-11-21T19:05:20Z
+  Updated: 2025-11-25T20:59:59Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -18388,7 +18388,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/7WNB8jqSii8MefdJ.webp?v=1763688259
     Price: €116.75 EUR
 - [Fashionable Women's Martin Boots with Thick Sole (Fall/Winter)](https://mdg-9604.myshopify.com/products/fashionable-womens-martin-boots-with-thick-sole-fall-winter): Elevate your fall and winter fashion with our stunning new collection of Martin boots designed exclusively for women. The perfect blend of style and functionality, these boots feature a chic England aesthetic that effortlessly complements any outfit. Crafted from high-quality PU material, they ensure durability while providing comfort. With a round toe design and a moderate heel height of 3-5CM, these boots are perfect for both casual outings and more formal occasions. The unique hollow design adds a trendy twist, making them a must-have in your wardrobe this season. Designed to keep your feet warm during the chilly months, these high-tube boots feature a thicker build for added insulation. The convenient front tie allows for easy adjustments, ensuring a snug fit. Available in a variety of colors and sizes, you can choose from classic beige or sophisticated black options to match your personal style. Whether you prefer a size 33 or 39, there's a perfect pair for everyone! Check out the stunning visuals below to see how these boots can transform your look: Don't miss out on the chance to step out in style and comfort this season! Grab your pair of trendy Martin boots today and make a fashionable statement wherever you go.
-  Updated: 2025-11-21T23:31:48Z
+  Updated: 2025-11-25T20:59:59Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -18473,7 +18473,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/M8rg89nNe7yhTX4k.webp?v=1763687959
     Price: €75.24 EUR
 - [New Women's High Heel Martin Boots with Thick Heels](https://mdg-9604.myshopify.com/products/new-womens-high-heel-martin-boots-with-thick-heels): Step out in style with our latest women's high-heeled Martin boots, designed to elevate your fashion game. Available in black, red wine, and gray, these boots are the perfect blend of chic and comfort, making them an essential addition to your wardrobe. Crafted from high-quality PU, these boots ensure durability while providing a sleek look. The high-quality fabric lining keeps your feet cozy, while the high-quality rubber bottom offers excellent grip and stability. With a 6CM heel height and a total height of 11.5CM, you can enjoy a flattering silhouette without sacrificing comfort. Available in sizes ranging from 35 to 39, these versatile boots can effortlessly complement any outfit, whether you're dressing up for a night out or keeping it casual. Take a look at these stunning images to see how these boots can transform your look: Don't miss out on the opportunity to own these stylish high-heeled boots that promise to enhance your every step!
-  Updated: 2025-11-21T17:51:41Z
+  Updated: 2025-11-25T20:59:59Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -18535,7 +18535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/7EzZVMAQSOCHPXPS.webp?v=1763688039
     Price: €76.38 EUR
 - [Women's Lace-Up High Tube Thick Heel Leather Boots](https://mdg-9604.myshopify.com/products/womens-lace-up-high-tube-thick-heel-leather-boots): Step out in style and comfort with our premium Women's Thick Heel Lace Up High Tube Thin Leather Boots. These Martin boots are designed to elevate your footwear game while providing the support you need for all-day wear. Crafted from high-quality artificial PU for a sleek look and durability, the boots feature a thick heel that not only adds height but also stability. The rubber sole ensures excellent traction, making them perfect for any season—be it summer, winter, spring, or autumn. The versatile round toe shape offers a comfortable fit, while the unique rear tie design allows for easy on-and-off wear. Choose from an array of colors, including black short cotton, black long cotton, and black long cylinder sheet, ensuring you find the perfect match for your wardrobe. Available in sizes ranging from 35 to 43, these boots cater to a variety of foot sizes. Whether you're dressing up for a night out or keeping it casual, these boots are the ideal choice for any occasion. Product Features: - Stylish and durable construction - Comfortable thick heel for all-day wear - Secure and easy rear tie closure - Suitable for all seasons Explore our images to see the stunning details of these boots and imagine the endless outfit combinations you can create!
-  Updated: 2025-11-21T17:01:24Z
+  Updated: 2025-11-25T20:59:59Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -18685,7 +18685,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/YEoJWgiTbaXfiuOw.webp?v=1763688309
     Price: €75.59 EUR
 - [Women's Thick Heel Knee-High Martin Boots](https://mdg-9604.myshopify.com/products/womens-thick-heel-knee-high-martin-boots): Elevate your footwear collection with our stunning Women's Thick Heel But Knee Boots. Designed for the modern woman, these boots combine style and comfort effortlessly. Crafted from high-quality artificial PU, they are both durable and chic, making them perfect for any occasion. The round toe shape offers a classic look, while the thick heel provides stability and comfort throughout the day. The high tube design ensures that your legs stay warm, making them an ideal choice for the cooler months. With a convenient side zipper, putting them on and taking them off is a breeze. Choose from a variety of fashionable colors, including Beige and Black, and find your perfect size among our extensive options. Whether you're dressing up for a night out or looking for everyday chic, these boots will quickly become your go-to option. Embrace your unique style and let your boots do the talking. Step out with confidence and flair in our Women's Thick Heel But Knee Boots today!
-  Updated: 2025-11-21T18:18:55Z
+  Updated: 2025-11-25T20:59:59Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -18739,7 +18739,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/6VwldgCYxBSb9Rvr.webp?v=1763688056
     Price: €85.86 EUR
 - [Thick Heel Women's Martin Boots](https://mdg-9604.myshopify.com/products/thick-heel-womens-martin-boots): Step out in style and comfort with our Martin Boots, designed specifically for women who appreciate both fashion and functionality. Crafted with a durable artificial PU upper, these boots not only look chic but also stand the test of time. The round toe design offers a comfortable fit, while the thick heel, measuring between 3-5CM, provides the perfect balance of elevation and stability. The cotton lining inside ensures your feet stay cozy, making these boots suitable for various occasions, whether you're heading out for a casual day or dressing up for a night out. The classic black color adds versatility to your wardrobe, allowing you to pair them with a wide range of outfits. With a mid-height tube, these boots offer a snug fit around the ankle, providing additional support and style. Available in sizes 36 to 41, you can find the perfect pair to fit your needs. Size Chart: Elevate your footwear game today with the Martin Boots – where comfort meets style! Check out our stunning images to see the beauty of these boots up close:
-  Updated: 2025-11-21T20:25:42Z
+  Updated: 2025-11-25T21:00:00Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -18769,7 +18769,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/8RyF650XZa9lDnen.webp?v=1763687988
     Price: €73.54 EUR
 - [Stylish Women's Mid-Tube Martin Boots with Thick Soles](https://mdg-9604.myshopify.com/products/stylish-womens-mid-tube-martin-boots-with-thick-soles): Step into style and comfort with these Women's Thin and Handsome Thick-Soled Mid-Tube Martin Boots. Designed for the modern woman, these boots combine a chic aesthetic with practical features, making them a must-have in your wardrobe. Made from high-quality artificial PU, the upper material ensures that your feet stay comfortable while exuding a trendy look. The rubber sole provides excellent traction and durability, perfect for everyday wear. With a square toe shape and a low square heel (1-3CM), these boots offer a unique blend of sophistication and ease. Available in classic black and fresh white options, you can choose the color that best reflects your style. Each pair is crafted with popular Doc Martens boot style elements, showcasing stylish car stitching that adds an extra touch of flair. Whether you're dressing up for a casual outing or heading out for a day of errands, these boots will keep you looking fashionable and feeling comfortable. With sizes ranging from 35 to 40, finding your perfect fit has never been easier! Don't miss out on these essential boots for your collection. Check out the images below to see how they can elevate your style!
-  Updated: 2025-11-21T20:10:21Z
+  Updated: 2025-11-25T21:00:00Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -18823,7 +18823,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/tUfOtPHbyMmdNSVR.webp?v=1763688104
     Price: €49.83 EUR
 - [2019 Women's High Heel Martin Boots with Lace-Up Design](https://mdg-9604.myshopify.com/products/2019-womens-high-heel-martin-boots-with-lace-up-design): Step out in style this autumn and winter with our stunning high-heeled Martin boots. Designed for the fashionable woman who loves a touch of elegance, these boots feature a super high heel of 12CM, ensuring that you not only look chic but also feel confident with every step. The waterproof platform of 3.5CM provides comfort, making these boots perfect for any occasion, whether it’s a casual outing or a night out on the town. Crafted from high-quality PU for the upper and a durable, non-slip rubber sole, these boots are made to last, giving you both style and functionality. The tall tube height of 13CM and a circumference of 26CM ensure a snug fit that accentuates your legs beautifully. Available in a variety of colors including Brown, Beige, Black, and Yellow, you can choose the perfect pair to match your wardrobe. With sizes ranging from 34 to 48, everyone can find their perfect fit. These boots are not just shoes; they are a statement piece that can elevate any outfit. Check out the stunning visuals of our Martin boots below and see how they can transform your look: Don’t miss out on the chance to add these stylish and versatile boots to your collection. Shop now and step into a world of fashion!
-  Updated: 2025-11-21T18:03:40Z
+  Updated: 2025-11-25T21:00:00Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -19029,7 +19029,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/AUHLeXlCILd6RZ3y.webp?v=1763688614
     Price: €115.12 EUR
 - [Handsome Short Martin Boots with Thick Soles for Women](https://mdg-9604.myshopify.com/products/handsome-short-martin-boots-with-thick-soles-for-women): Step out in style with our Women's Thick-soled Handsome Short Martin Boots, where comfort meets fashion. Crafted from high-quality PU material, these boots are designed for the modern woman who values both aesthetics and functionality. With a striking solid color finish, available in classic black and white, you can effortlessly pair these boots with any outfit, be it casual or chic. The stylish design is enhanced by a 5CM heel height and a comfortable 15CM help height, providing the perfect balance of height and comfort for all-day wear. Whether you're heading out for a casual day or a night on the town, these boots will elevate your look while ensuring you feel great on your feet. Check out the stunning visuals below to see how these boots make a statement: With a range of sizes and colors available, you can find your perfect pair. Don't miss out on the opportunity to enhance your wardrobe with these versatile and stylish boots!
-  Updated: 2025-11-21T16:53:39Z
+  Updated: 2025-11-25T21:00:00Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -19083,7 +19083,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/IomeKrH3x6qQRktf.webp?v=1763688071
     Price: €77.91 EUR
 - [High Top Martin Boots with Lace-Up and Thick Soles](https://mdg-9604.myshopify.com/products/high-top-martin-boots-with-lace-up-and-thick-soles): Step into style and comfort with our stunning high top Martin boots. Designed for the modern woman, these boots feature a chic lace-up design and thick soles that combine fashion with functionality, making them perfect for any occasion. Crafted from premium artificial PU, the upper material ensures durability while providing a sleek appearance. The robust rubber sole offers excellent grip, making these boots anti-slip and wear resistant. Whether you're navigating city streets or enjoying a night out, you'll feel confident in every step. The round toe shape and muffin heel (6-8cm high) provide both style and stability, while the high tube height gives a unique and fashionable touch. Inside, the soft PU insole and imitation leather lining ensure maximum comfort, allowing you to wear them all day long. With multiple color and size options, you can easily find the perfect pair that fits your personal style. Choose from Black plus velvet or classic Black, available in sizes ranging from 35 to 40. No matter your choice, these boots are sure to elevate your wardrobe. Fast shipping means you can enjoy your new favorite boots in just 1 day! Don’t miss out on this perfect blend of style and comfort. Step up your shoe game today!
-  Updated: 2025-11-21T18:42:16Z
+  Updated: 2025-11-25T21:00:00Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -19137,7 +19137,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/gvqwYv1EMg5UPxpp.webp?v=1763688087
     Price: €67.62 EUR
 - [Plush Martin Boots with Lace-Up High Heels](https://mdg-9604.myshopify.com/products/plush-martin-boots-with-lace-up-high-heels): Step out in style with our Plush Martin Boots featuring chic lace-up high heels that will elevate any outfit. Designed for both comfort and fashion, these boots are perfect for the modern woman who loves to make a statement. Crafted with a durable rubber sole, these boots provide excellent grip and stability for your daily adventures. The round toe shape ensures a comfortable fit, while the high heel (6-8 cm) adds a touch of elegance to your look. The front tie wearing style not only enhances the overall design but also allows for adjustable comfort. Available in a variety of colors like Brown and Black, and sizes ranging from 35 to 41, you can effortlessly find the perfect pair that suits your style. Whether you're dressing up for a night out or keeping it casual, these versatile boots will complement any wardrobe. Embrace your unique style and step out confidently in our Plush Martin Boots. Don’t miss out on the opportunity to own a pair that defines both comfort and trendiness!
-  Updated: 2025-11-21T16:58:22Z
+  Updated: 2025-11-25T21:00:01Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -19199,7 +19199,7 @@
     Image: https://cdn.shopify.com/s/files/1/0976/7986/8196/files/VEtEVhNf53UjTgn9.webp?v=1763688193
     Price: €67.62 EUR
 - [2023 Women's Dance Shoes for Modern & Square Dancing](https://mdg-9604.myshopify.com/products/2023-womens-dance-shoes-for-modern-square-dancing): Step into the world of dance with our 2023 Spring/Summer New Style Dance Shoes. Designed specifically for women who love to express themselves through movement, these dance shoes are perfect for styles like ballroom, modern dance, and square dancing. Made from premium materials, the upper is crafted from high-quality leather that ensures both durability and style. The rubber sole offers excellent grip and flexibility, making every step feel light and effortless. Inside, the mesh lining provides breathability, keeping your feet comfortable even during the most intense performances. Available in a variety of colors and sizes ranging from 34 to 42, you can choose the perfect pair that matches your personal style. Whether you prefer a bold red, elegant silver, classic black, or glamorous gold, we have the perfect option for you. These versatile shoes are suitable for all seasons – spring, summer, autumn, and winter – making them a staple in your dance wardrobe. Whether you are practicing, performing, or just enjoying a night out, these shoes are designed to elevate your dance experience. Don't miss out on the opportunity to dance with style and comfort. Grab your pair today and let your passion for dance shine through every move!
-  Updated: 2025-11-22T00:58:06Z
+  Updated: 2025-11-25T21:00:01Z
   Vendor: MDG
   Product Type: 
   Availability: Available
@@ -19389,155 +19389,192 @@
 ## Collections
 
 - [Handbags, Wallets & Cases](https://mdg-9604.myshopify.com/collections/handbags-wallets-cases)
-  Updated: 2025-11-21T21:51:55Z
+  Updated: 2025-11-25T20:59:11Z
   Total Products: 52
 - [Personal Care](https://mdg-9604.myshopify.com/collections/personal-care)
-  Updated: 2025-11-24T01:04:27Z
+  Updated: 2025-11-25T20:59:11Z
   Total Products: 16
 - [Outdoor Recreation](https://mdg-9604.myshopify.com/collections/outdoor-recreation)
-  Updated: 2025-11-24T00:28:17Z
+  Updated: 2025-11-25T20:59:11Z
   Total Products: 23
 - [Cosmetic & Toiletry Bags](https://mdg-9604.myshopify.com/collections/cosmetic-toiletry-bags)
-  Updated: 2025-11-21T22:58:30Z
+  Updated: 2025-11-25T20:59:11Z
   Total Products: 30
 - [Jewelry](https://mdg-9604.myshopify.com/collections/jewelry)
-  Updated: 2025-11-25T01:23:45Z
-  Total Products: 51
+  Updated: 2025-11-25T23:09:35Z
+  Total Products: 77
 - [Clothing Accessories](https://mdg-9604.myshopify.com/collections/clothing-accessories)
-  Updated: 2025-11-24T03:22:31Z
+  Updated: 2025-11-25T20:59:11Z
   Total Products: 38
 - [Baby Gift Sets](https://mdg-9604.myshopify.com/collections/baby-gift-sets)
-  Updated: 2025-11-24T01:55:08Z
+  Updated: 2025-11-25T20:59:11Z
   Total Products: 12
 - [Baby Health](https://mdg-9604.myshopify.com/collections/baby-health)
-  Updated: 2025-11-24T01:35:10Z
+  Updated: 2025-11-25T20:59:11Z
   Total Products: 40
 - [Baby & Toddler](https://mdg-9604.myshopify.com/collections/baby-toddler)
-  Updated: 2025-11-23T19:21:16Z
+  Updated: 2025-11-25T20:59:11Z
   Total Products: 33
 - [Electronics Accessories](https://mdg-9604.myshopify.com/collections/electronics-accessories)
-  Updated: 2025-11-24T01:00:46Z
+  Updated: 2025-11-25T20:59:11Z
   Total Products: 39
 - [Luggage & Bags](https://mdg-9604.myshopify.com/collections/luggage-bags)
-  Updated: 2025-11-21T21:46:56Z
+  Updated: 2025-11-25T20:59:11Z
   Total Products: 28
 - [Networking](https://mdg-9604.myshopify.com/collections/networking)
-  Updated: 2025-11-23T18:57:44Z
+  Updated: 2025-11-25T20:59:11Z
   Total Products: 11
 - [Health & Beauty](https://mdg-9604.myshopify.com/collections/health-beauty)
-  Updated: 2025-11-24T01:40:34Z
+  Updated: 2025-11-25T20:59:11Z
   Total Products: 52
 - [Electronics](https://mdg-9604.myshopify.com/collections/electronics)
-  Updated: 2025-11-24T02:56:37Z
+  Updated: 2025-11-25T20:59:11Z
   Total Products: 40
 - [Athletics](https://mdg-9604.myshopify.com/collections/athletics)
-  Updated: 2025-11-24T02:13:06Z
+  Updated: 2025-11-25T20:59:11Z
   Total Products: 99
 - [Baby Bathing](https://mdg-9604.myshopify.com/collections/baby-bathing)
-  Updated: 2025-11-21T15:29:44Z
+  Updated: 2025-11-25T20:59:11Z
   Total Products: 15
-- [Health Care](https://mdg-9604.myshopify.com/collections/health-care)
-  Updated: 2025-11-24T02:47:58Z
-  Total Products: 30
+- [Pleasure & Wellness](https://mdg-9604.myshopify.com/collections/health-care)
+  Updated: 2025-11-26T21:28:10Z
+  Total Products: 28
 - [Handbag & Wallet Accessories](https://mdg-9604.myshopify.com/collections/handbag-wallet-accessories)
-  Updated: 2025-11-21T21:51:55Z
+  Updated: 2025-11-25T20:59:12Z
   Total Products: 1
 - [Women's Trench Coats - Stylish & Elegant | MDG](https://mdg-9604.myshopify.com/collections/womens-trench-coats): Shop our collection of women's trench coats. Timeless style meets modern elegance. Find your perfect trench coat today.
-  Updated: 2025-11-24T17:33:47Z
+  Updated: 2025-11-25T20:59:12Z
   Total Products: 62
 - [Women's Jackets - Stylish Outerwear Collection | MDG](https://mdg-9604.myshopify.com/collections/womens-jackets): Shop our collection of women's jackets. Versatile styles for every occasion. Find your perfect jacket today at MDG.
-  Updated: 2025-11-24T19:34:12Z
+  Updated: 2025-11-26T17:25:37Z
   Total Products: 88
 - [Women's Shirts - Classic & Modern Styles | MDG](https://mdg-9604.myshopify.com/collections/womens-shirts): Shop our collection of women's shirts. Classic button-downs and modern blouses for every occasion. Quality and style at MDG.
-  Updated: 2025-11-25T00:44:34Z
-  Total Products: 27
+  Updated: 2025-11-25T23:46:36Z
+  Total Products: 32
 - [Women's T-Shirts - Comfortable & Stylish Tees | MDG](https://mdg-9604.myshopify.com/collections/womens-t-shirts): Shop our collection of women's t-shirts. Comfortable basics and trendy graphic tees for everyday style. Quality and comfort at MDG.
-  Updated: 2025-11-21T23:51:33Z
-  Total Products: 1
+  Updated: 2025-11-25T23:48:30Z
+  Total Products: 29
 - [Women's Pants - Versatile Styles & Perfect Fit | MDG](https://mdg-9604.myshopify.com/collections/womens-pants): Shop our collection of women's pants. Tailored trousers, casual styles, and more. Find your perfect fit at MDG.
-  Updated: 2025-11-20T18:10:34Z
-  Total Products: 1
+  Updated: 2025-11-26T02:54:56Z
+  Total Products: 109
 - [Women's Shoes - Heels, Sneakers, Boots & More | MDG](https://mdg-9604.myshopify.com/collections/womens-shoes): Shop our collection of women's shoes. Elegant heels, comfortable sneakers, boots, and more. Find your perfect pair at MDG.
-  Updated: 2025-11-25T01:04:48Z
+  Updated: 2025-11-25T20:59:12Z
   Total Products: 102
 - [Men's Trench Coats - Classic & Sophisticated | MDG](https://mdg-9604.myshopify.com/collections/mens-trench-coats): Shop our collection of men's trench coats. Timeless style meets modern functionality. Find your perfect trench coat at MDG.
-  Updated: 2025-11-24T17:44:57Z
-  Total Products: 26
+  Updated: 2025-11-25T20:59:12Z
+  Total Products: 25
 - [Men's Jackets - Versatile Styles & Quality | MDG](https://mdg-9604.myshopify.com/collections/mens-jackets): Shop our collection of men's jackets. Rugged outdoor and sleek urban styles for every occasion. Quality and style at MDG.
-  Updated: 2025-11-24T17:46:37Z
+  Updated: 2025-11-25T20:59:12Z
   Total Products: 16
 - [Men's Shirts - Classic & Modern Styles | MDG](https://mdg-9604.myshopify.com/collections/mens-shirts): Shop our collection of men's shirts. Classic dress shirts and casual button-downs for every occasion. Quality and style at MDG.
-  Updated: 2025-11-24T19:58:28Z
+  Updated: 2025-11-25T20:59:12Z
   Total Products: 6
 - [Men's T-Shirts - Comfortable & Stylish Tees | MDG](https://mdg-9604.myshopify.com/collections/mens-t-shirts): Shop our collection of men's t-shirts. Essential basics and bold graphic tees for everyday style. Comfort and quality at MDG.
-  Updated: 2025-11-20T11:29:02Z
-  Total Products: 0
+  Updated: 2025-11-25T23:48:02Z
+  Total Products: 8
 - [Men's Pants - Versatile Styles & Perfect Fit | MDG](https://mdg-9604.myshopify.com/collections/mens-pants): Shop our collection of men's pants. Tailored trousers, casual chinos, and more. Find your perfect fit at MDG.
-  Updated: 2025-11-20T11:29:32Z
-  Total Products: 0
+  Updated: 2025-11-26T02:33:19Z
+  Total Products: 8
 - [Men's Shoes - Dress Shoes, Sneakers, Boots & More | MDG](https://mdg-9604.myshopify.com/collections/mens-shoes): Shop our collection of men's shoes. Classic dress shoes, casual sneakers, boots, and more. Find your perfect pair at MDG.
-  Updated: 2025-11-25T00:51:44Z
+  Updated: 2025-11-25T20:59:12Z
   Total Products: 39
 - [Women's Trench Coats - Stylish Outerwear Collection](https://mdg-9604.myshopify.com/collections/womens-trench-coats-1): Shop our collection of women's trench coats. Classic and modern styles for every occasion. Find your perfect outerwear piece today.
-  Updated: 2025-11-22T01:44:16Z
+  Updated: 2025-11-25T20:59:12Z
   Total Products: 0
 - [Women's Jackets - Versatile Outerwear for Every Style](https://mdg-9604.myshopify.com/collections/womens-jackets-1): Browse our women's jackets collection. Casual, formal, and everything in between. Quality outerwear for all seasons and occasions.
-  Updated: 2025-11-21T01:28:00Z
+  Updated: 2025-11-25T20:59:12Z
   Total Products: 0
 - [Women's T-Shirts - Comfortable Everyday Essentials](https://mdg-9604.myshopify.com/collections/womens-t-shirts-1): Shop women's t-shirts in various styles and colors. Comfortable basics and trendy designs for your everyday wardrobe.
-  Updated: 2025-11-21T23:51:33Z
+  Updated: 2025-11-25T20:59:12Z
   Total Products: 1
 - [Men's T-Shirts - Quality Basics and Stylish Designs](https://mdg-9604.myshopify.com/collections/mens-t-shirts-1): Browse our men's t-shirts collection. Comfortable, durable, and stylish options for your everyday wardrobe.
-  Updated: 2025-11-21T01:28:21Z
+  Updated: 2025-11-25T20:59:12Z
   Total Products: 0
 - [Women's Fashion Collection - Shoes, Clothing & Accessories | MDG](https://mdg-9604.myshopify.com/collections/women): Shop our women's collection featuring shoes, boots, jackets, shirts, pants, and more. Quality fashion pieces for every style and occasion.
-  Updated: 2025-11-24T17:55:34Z
-  Total Products: 1
+  Updated: 2025-11-26T01:05:55Z
+  Total Products: 3
 - [Men's Fashion Collection - Shoes, Clothing & Accessories | MDG](https://mdg-9604.myshopify.com/collections/men): Shop our men's collection featuring shoes, boots, jackets, shirts, pants, and more. Quality fashion pieces for the modern man.
-  Updated: 2025-11-24T01:40:27Z
+  Updated: 2025-11-25T20:59:13Z
   Total Products: 3
 - [Shoes](https://mdg-9604.myshopify.com/collections/shoes)
-  Updated: 2025-11-21T02:57:45Z
+  Updated: 2025-11-25T20:59:13Z
   Total Products: 0
 - [Featured Clothing](https://mdg-9604.myshopify.com/collections/featured-clothing): Welcome to our favorites! These are the pieces we absolutely love – meticulously crafted items that make you feel amazing every time you wear them. From show-stopping trench coats to everyday essentials, our featured collection represents the best of what we offer. Each piece is chosen for its exceptional quality and timeless design – the kind that stands the test of time and makes a lasting impression. Whether you're looking for a statement piece or a refined staple, you'll find items here that elevate your wardrobe and define your style. Discover your next favorite piece. Because great style is about feeling confident in what you wear.
-  Updated: 2025-11-21T04:50:26Z
+  Updated: 2025-11-25T20:59:13Z
   Total Products: 12
 - [Duffel Bags](https://mdg-9604.myshopify.com/collections/duffel-bags)
-  Updated: 2025-11-21T21:43:18Z
+  Updated: 2025-11-25T20:59:13Z
   Total Products: 18
 - [Shoes](https://mdg-9604.myshopify.com/collections/shoes-1)
-  Updated: 2025-11-22T00:05:46Z
+  Updated: 2025-11-25T20:59:13Z
   Total Products: 0
 - [Pet Supplies - Dog & Cat Accessories, Grooming Tools | MDG](https://mdg-9604.myshopify.com/collections/pet-supplies-main): Shop quality pet supplies including grooming brushes, harnesses, bath tools and more. Essential accessories for your pets at great prices.
-  Updated: 2025-11-24T02:51:30Z
-  Total Products: 35
+  Updated: 2025-11-25T23:41:40Z
+  Total Products: 36
 - [Toys Collection - Fun & Entertainment | MDG](https://mdg-9604.myshopify.com/collections/toys-87): Browse our diverse toys collection featuring plush toys, activity equipment, and entertainment options for all ages. Quality toys at great prices.
-  Updated: 2025-11-24T19:34:12Z
+  Updated: 2025-11-25T20:59:13Z
   Total Products: 83
 - [Clothing](https://mdg-9604.myshopify.com/collections/clothing)
-  Updated: 2025-11-24T18:12:35Z
-  Total Products: 1
+  Updated: 2025-11-25T23:46:58Z
+  Total Products: 3
 
 ## Blogs
 
 - [News](https://mdg-9604.myshopify.com/blogs/news)
   - [The Versatility of the Trench Coat: Styling Tips for Every Season](https://mdg-9604.myshopify.com/blogs/news/the-versatility-of-the-trench-coat-styling-tips-for-every-season): The Versatility of the Trench Coat: Styling Tips for Every Season
-    Updated: 2025-11-18T22:39:02Z
+    Updated: 2025-11-25T12:24:46Z
     Author: Marginean Damian Ginu
+    Tags: capsule wardrobe, clothing care, fall fashion, fashion advice, fashion basics
   - [10 Timeless Ways to Style Your Trench Coat for Any Occasion](https://mdg-9604.myshopify.com/blogs/news/10-timeless-ways-to-style-your-trench-coat-for-any-occasion): 10 Timeless Ways to Style Your Trench Coat for Any Occasion
-    Updated: 2025-11-18T22:49:21Z
+    Updated: 2025-11-25T12:25:15Z
     Author: Marginean Damian Ginu
+    Tags: clothing care, fall fashion, fashion advice, fashion basics, fashion tips, fashion trends
   - [Maximize Revenue: 5 Essential Strategies for Elevating Your Clothing Collection](https://mdg-9604.myshopify.com/blogs/news/maximize-revenue-5-essential-strategies-for-elevating-your-clothing-collection): Maximize Revenue: 5 Essential Strategies for Elevating Your Clothing Collection
-    Updated: 2025-11-18T22:52:57Z
+    Updated: 2025-11-25T12:25:44Z
     Author: Marginean Damian Ginu
+    Tags: clothing care, fall fashion, fashion advice, fashion basics, style advice, style guide, transitional fashion, wardrobe guide, winter fashion
   - [The Evolution of Streetwear Brands: How Culture and Technology Shape Modern Fashion](https://mdg-9604.myshopify.com/blogs/news/the-evolution-of-streetwear-brands-how-culture-and-technology-shape-modern-fashion): The Evolution of Streetwear Brands: How Culture and Technology Shape Modern Fashion
-    Updated: 2025-11-18T22:56:07Z
+    Updated: 2025-11-25T12:19:20Z
     Author: Marginean Damian Ginu
+    Tags: capsule wardrobe, clothing care, fall fashion, fashion advice, fashion basics
   - [Essential Pet Supplies, Clothing, and Accessories Every New Pet Owner Needs](https://mdg-9604.myshopify.com/blogs/news/essential-pet-supplies-clothing-and-accessories-every-new-pet-owner-needs): Essential Pet Supplies, Clothing, and Accessories Every New Pet Owner Needs
-    Updated: 2025-11-18T23:41:18Z
+    Updated: 2025-11-25T12:20:09Z
     Author: Marginean Damian Ginu
+    Tags: capsule wardrobe, fashion advice, fashion tips, style advice, style guide
   - [10 Creative Nursery Decor Ideas for Your Baby and Toddler Room](https://mdg-9604.myshopify.com/blogs/news/10-creative-nursery-decor-ideas-for-your-baby-and-toddler-room): 10 Creative Nursery Decor Ideas for Your Baby and Toddler Room
     Updated: 2025-11-19T13:49:27Z
+    Author: Marginean Damian Ginu
+  - [Build Your Ideal Capsule Wardrobe: Essential Pieces from MDG for Every Season](https://mdg-9604.myshopify.com/blogs/news/unlock-the-power-of-a-versatile-capsule-wardrobe-essential-pieces-from-mdg)
+    Updated: 2025-11-25T09:17:14Z
+    Author: MDG
+  - [Versatile Fashion: Unlocking the Power of Gender-Neutral Styling](https://mdg-9604.myshopify.com/blogs/news/mens-vs-womens-styling-how-to-wear-the-same-pieces-differently)
+    Updated: 2025-11-25T09:27:17Z
+    Author: MDG
+  - [The Essential Footwear Guide: Elevating Style and Comfort for Men and Women](https://mdg-9604.myshopify.com/blogs/news/the-ultimate-shoe-guide-essential-footwear-styles-for-men-and-women)
+    Updated: 2025-11-25T09:33:36Z
+    Author: MDG
+  - [Winter 2025 Fashion Trends: Essential Wardrobe Pieces | MDG](https://mdg-9604.myshopify.com/blogs/news/winter-2025-fashion-trends-essential-pieces-for-your-wardrobe): Winter 2025 Fashion Trends: Essential Wardrobe Pieces | MDG
+    Updated: 2025-11-25T12:10:34Z
+    Author: Marginean Damian
+    Tags: fashion trends, style guide, wardrobe essentials, winter fashion
+  - [5 Ways to Style Your Pants: Casual to Elegant | MDG Style Guide](https://mdg-9604.myshopify.com/blogs/news/5-ways-to-style-your-favorite-pants-from-casual-to-elegant): 5 Ways to Style Your Pants: Casual to Elegant | MDG Style Guide
+    Updated: 2025-11-25T12:12:45Z
+    Author: Marginean Damian
+    Tags: fashion advice, men's fashion, styling tips, wardrobe guide, women's fashion
+  - [Build Your Perfect Capsule Wardrobe: 10 Essential Pieces | MDG](https://mdg-9604.myshopify.com/blogs/news/building-your-perfect-capsule-wardrobe-10-essential-pieces): Build Your Perfect Capsule Wardrobe: 10 Essential Pieces | MDG
+    Updated: 2025-11-25T12:09:35Z
+    Author: Marginean Damian
+    Tags: capsule wardrobe, fashion basics, minimalist fashion, style guide, wardrobe essentials
+  - [Mastering Transitional Dressing: In-Between Season Style Guide | MDG](https://mdg-9604.myshopify.com/blogs/news/mastering-transitional-dressing-your-guide-to-in-between-season-style): Mastering Transitional Dressing: In-Between Season Style Guide | MDG
+    Updated: 2025-11-25T12:11:35Z
+    Author: Marginean Damian
+    Tags: fall fashion, layering tips, seasonal style, spring fashion, transitional fashion
+  - [How to Care for Your Wardrobe: Make Your Clothes Last Longer | MDG](https://mdg-9604.myshopify.com/blogs/news/how-to-care-for-your-wardrobe-tips-to-make-your-clothes-last-longer): How to Care for Your Wardrobe: Make Your Clothes Last Longer | MDG
+    Updated: 2025-11-25T12:15:29Z
+    Author: Marginean Damian
+    Tags: clothing care, fashion tips, laundry tips, style advice, wardrobe maintenance
+  - [Clothing meets innovation with these 10 sustainable fashion brands revolutionizing how we wear and think about style. Discover eco-friendly choices now!](https://mdg-9604.myshopify.com/blogs/news/sustainable-fashion-10-innovative-brands-changing-how-we-wear-clothes): Clothing meets innovation with these 10 sustainable fashion brands revolutionizing how we wear and think about style. Discover eco-friendly choices now!
+    Updated: 2025-11-25T19:46:36Z
     Author: Marginean Damian Ginu
 
 ## Store Pages
@@ -19553,6 +19590,10 @@
 
 - [Privacy Policy](https://mdg-9604.myshopify.com/policies/privacy-policy)
   Updated: 2025-11-18T07:20:11+00:00
+- [Refund Policy](https://mdg-9604.myshopify.com/policies/refund-policy)
+  Updated: 2025-11-25T22:10:39+00:00
+- [Terms of Service](https://mdg-9604.myshopify.com/policies/terms-of-service)
+  Updated: 2025-11-25T22:09:17+00:00
 
 ## Optional
 
