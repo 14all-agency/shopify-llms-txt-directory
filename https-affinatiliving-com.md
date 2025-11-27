@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-27T16:00:31.117Z
+- Updated At: 2025-11-27T20:00:34.235Z
 
 ## Products
 
@@ -1234,275 +1234,275 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageApr30_2025_12_59_28PM.png?v=1746032398
   Price: $9.95 USD
 - [3-Wick Chocolate Fudge Brownie Candle](https://affinatiliving.com/products/3-wick-chocolate-fudge-brownie-candle): Shop our XL Chocolate Fudge Brownie Candle – 3-wick, long-lasting, and strong scented. Perfect for dessert lovers, gifting, or filling your home with rich, baked-chocolate goodness.
-  Updated: 2025-11-24T14:16:50Z
+  Updated: 2025-11-27T16:05:55Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7004.png?v=1760733721
   - [Single Order](https://affinatiliving.com/products/3-wick-chocolate-fudge-brownie-candle?variant=42441103147089)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-chocolate-fudge-brownie-candle?variant=42441103179857)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-chocolate-fudge-brownie-candle?variant=42441103212625)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Fresh Cut Sage Candle](https://affinatiliving.com/products/3-wick-fresh-sage-candle): Shop our XL Fresh Cut Sage Candle – 3-wick, long-lasting, and strong scented. Perfect for grounding rituals, gifting, or bringing clean herbal clarity to your space.
-  Updated: 2025-11-24T14:16:49Z
+  Updated: 2025-11-27T16:05:55Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/4FB065AB-22F3-441D-B83B-A629ECFA066B.png?v=1760734474
   - [Single Order](https://affinatiliving.com/products/3-wick-fresh-sage-candle?variant=42441103736913)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-fresh-sage-candle?variant=42441103769681)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-fresh-sage-candle?variant=42441103802449)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Honey Lavender Candle](https://affinatiliving.com/products/3-wick-honey-lavender-candle): Shop our XL Honey Lavender Candle – 3-wick, long-lasting, and strong scented. Perfect for relaxation, gifting, or adding soft, floral sweetness to your space.
-  Updated: 2025-11-24T14:16:49Z
+  Updated: 2025-11-27T16:05:55Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/9D3FFA84-1476-4FA6-B71A-C6F77F2CF162.png?v=1760733989
   - [Single Order](https://affinatiliving.com/products/3-wick-honey-lavender-candle?variant=42441102819409)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-honey-lavender-candle?variant=42441102852177)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-honey-lavender-candle?variant=42441102884945)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Fire Roasted Marshmallow Candle](https://affinatiliving.com/products/3-wick-fire-roasted-marshmallow-candle): Shop our XL Fire Roasted Marshmallow Candle – 3-wick, long-lasting, and strong scented. Perfect for cozy nights, gifting, or filling your space with sweet, smoky nostalgia.
-  Updated: 2025-11-24T14:16:49Z
+  Updated: 2025-11-27T16:05:54Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7030.png?v=1760738762
   - [Single Order](https://affinatiliving.com/products/3-wick-fire-roasted-marshmallow-candle?variant=42441101967441)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-fire-roasted-marshmallow-candle?variant=42441102000209)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-fire-roasted-marshmallow-candle?variant=42441102032977)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick White Tea Candle](https://affinatiliving.com/products/3-wick-white-tea-candle): Shop our XL White Tea Candle – 3-wick, long-lasting, and strong scented. Perfect for spa days, gifting, or bringing crisp, calming freshness to your space.
-  Updated: 2025-11-24T14:16:49Z
+  Updated: 2025-11-27T16:05:54Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7025.png?v=1760737960
   - [Single Order](https://affinatiliving.com/products/3-wick-white-tea-candle?variant=42441101574225)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-white-tea-candle?variant=42441101606993)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-white-tea-candle?variant=42441101639761)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick French Vanilla Candle](https://affinatiliving.com/products/3-wick-french-vanilla-candle): Shop our XL French Vanilla Candle – 3-wick, long-lasting, and strong scented. Perfect for cozy nights, gifting, or filling your space with smooth, creamy sweetness.
-  Updated: 2025-11-24T14:16:47Z
+  Updated: 2025-11-27T16:05:54Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7010.png?v=1760734735
   - [Single Order](https://affinatiliving.com/products/3-wick-french-vanilla-candle?variant=42441098264657)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-french-vanilla-candle?variant=42441098297425)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-french-vanilla-candle?variant=42441098330193)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Mint Eucalyptus Candle](https://affinatiliving.com/products/3-wick-spearmint-eucalyptus-candle): Shop our XL Mint Eucalyptus Candle – 3-wick, long-lasting, and strong scented. Perfect for spa days, gifting, or refreshing your space with cool herbal clarity.
-  Updated: 2025-11-24T14:16:47Z
+  Updated: 2025-11-27T16:05:54Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/10504365-63E8-4305-BC5B-466B43F0E7E7.png?v=1760734498
   - [Single Order](https://affinatiliving.com/products/3-wick-spearmint-eucalyptus-candle?variant=42441095381073)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-spearmint-eucalyptus-candle?variant=42441095413841)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-spearmint-eucalyptus-candle?variant=42441095446609)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Pink Sands Candle](https://affinatiliving.com/products/3-wick-pink-sands-candle): Shop our XL Pink Sands Candle – 3-wick, long-lasting, and strong scented. Perfect for beachy bliss, gifting, or adding soft, tropical elegance to your space.
-  Updated: 2025-11-24T14:16:47Z
+  Updated: 2025-11-27T16:05:53Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/BCD12EC0-EDF0-4957-A5FE-1A39DF19AD0B.png?v=1760734437
   - [Single Order](https://affinatiliving.com/products/3-wick-pink-sands-candle?variant=42441093546065)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-pink-sands-candle?variant=42441093578833)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-pink-sands-candle?variant=42441093611601)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Tobacco Candle](https://affinatiliving.com/products/3-wick-tobacco-candle): Shop our XL Tobacco Candle – 3-wick, long-lasting, and strong scented. Perfect for masculine spaces, gifting, or adding deep, smoky sophistication to your home.
-  Updated: 2025-11-24T14:16:47Z
+  Updated: 2025-11-27T16:05:53Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/625AB772-8413-4BD8-9A1E-65FDA1954C3C.png?v=1760733676
   - [Single Order](https://affinatiliving.com/products/3-wick-tobacco-candle?variant=42441093218385)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-tobacco-candle?variant=42441093251153)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-tobacco-candle?variant=42441093283921)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Tobacco Vanilla Candle](https://affinatiliving.com/products/3-wick-tobacco-vanilla-candle): Shop our XL Tobacco Vanilla Candle – 3-wick, long-lasting, and strong scented. Perfect for bold elegance, gifting, or adding rich, smoky-sweet warmth to your space.
-  Updated: 2025-11-24T14:16:46Z
+  Updated: 2025-11-27T16:05:53Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7027.png?v=1760738636
   - [Single Order](https://affinatiliving.com/products/3-wick-tobacco-vanilla-candle?variant=42441092923473)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-tobacco-vanilla-candle?variant=42441092956241)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-tobacco-vanilla-candle?variant=42441092989009)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Midnight Ember Candle](https://affinatiliving.com/products/3-wick-midnight-ember-candle): Shop our XL Midnight Ember Candle – 3-wick, long-lasting, and strong scented. Perfect for moody nights, gifting, or bringing deep, smoky warmth to your space.
-  Updated: 2025-11-24T14:16:46Z
+  Updated: 2025-11-27T16:05:53Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7028.png?v=1760738672
   - [Single Order](https://affinatiliving.com/products/3-wick-midnight-ember-candle?variant=42441087615057)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-midnight-ember-candle?variant=42441087647825)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-midnight-ember-candle?variant=42441087680593)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Cocoa Butter Cashmere Candle](https://affinatiliving.com/products/3-wick-cocoa-butter-cashmere-candle): Shop our XL Cocoa Butter Cashmere Candle – 3-wick, long-lasting, and strong scented. Perfect for self-care, gifting, or adding soft, luxurious warmth to any space.
-  Updated: 2025-11-24T14:16:46Z
+  Updated: 2025-11-27T16:05:52Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7008.png?v=1760733914
   - [Single Order](https://affinatiliving.com/products/3-wick-cocoa-butter-cashmere-candle?variant=42441087516753)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-cocoa-butter-cashmere-candle?variant=42441087549521)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-cocoa-butter-cashmere-candle?variant=42441087582289)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Twisted Peppermint Candle](https://affinatiliving.com/products/3-wick-twisted-peppermint-candle): Shop our XL Twisted Peppermint Candle – 3-wick, long-lasting, and strong scented. Perfect for holiday cheer, gifting, or a cool, sweet burst of minty freshness.
-  Updated: 2025-11-24T14:16:46Z
+  Updated: 2025-11-27T16:05:52Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/8C131D2F-744C-4720-A673-EB5F337741B7.png?v=1760734360
   - [Single Order](https://affinatiliving.com/products/3-wick-twisted-peppermint-candle?variant=42441087221841)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-twisted-peppermint-candle?variant=42441087254609)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack or 5](https://affinatiliving.com/products/3-wick-twisted-peppermint-candle?variant=42441087287377)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Almond Macaron Candle](https://affinatiliving.com/products/3-wick-almond-macaron-candle): Shop our XL Almond Macaron Candle – 3-wick, long-lasting, and strong scented. Perfect for dessert lovers, gifting, or adding nutty-sweet bakery warmth to your home.
-  Updated: 2025-11-24T14:16:45Z
+  Updated: 2025-11-27T16:05:52Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7007.png?v=1760733867
   - [Single Order](https://affinatiliving.com/products/3-wick-almond-macaron-candle?variant=42441087123537)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-almond-macaron-candle?variant=42441087156305)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-almond-macaron-candle?variant=42441087189073)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Mahogany Teakwood Candle](https://affinatiliving.com/products/3-wick-mahogany-teakwood-candle): Shop our XL Mahogany Teakwood Candle – 3-wick, long-lasting, and strong scented. Ideal for cozy spaces, gifts, or everyday home fragrance.
-  Updated: 2025-11-24T14:16:45Z
+  Updated: 2025-11-27T16:05:52Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/7510027F-C8A5-44A0-810B-12DBF9D98223.png?v=1760732693
   - [Single Order](https://affinatiliving.com/products/3-wick-mahogany-teakwood-candle?variant=42441086926929)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-mahogany-teakwood-candle?variant=42441086959697)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-mahogany-teakwood-candle?variant=42441086992465)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Vanilla Bean Candle](https://affinatiliving.com/products/3-wick-vanilla-bean-candle): Shop our XL Vanilla Bean Candle – 3-wick, long-lasting, and strong scented. Perfect for cozy nights, gifting, or filling your home with sweet, creamy comfort.
-  Updated: 2025-11-24T14:16:45Z
+  Updated: 2025-11-27T16:05:50Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7011.png?v=1760734775
   - [Single Order](https://affinatiliving.com/products/3-wick-vanilla-bean-candle?variant=42441086697553)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-vanilla-bean-candle?variant=42441086730321)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-vanilla-bean-candle?variant=42441086763089)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Fresh Cut Grass Candle](https://affinatiliving.com/products/3-wick-fresh-cut-grass-candle): Shop our XL Fresh Cut Grass Candle – 3-wick, long-lasting, and strong scented. Perfect for spring days, gifting, or bringing crisp outdoor freshness indoors.
-  Updated: 2025-11-24T14:16:45Z
+  Updated: 2025-11-27T16:05:50Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/6992CCB0-6666-4818-BB7A-150642B623A4.png?v=1760734635
   - [Single Order](https://affinatiliving.com/products/3-wick-fresh-cut-grass-candle?variant=42441086206033)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-fresh-cut-grass-candle?variant=42441086238801)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-fresh-cut-grass-candle?variant=42441086271569)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Cinnamon Swirl Candle](https://affinatiliving.com/products/3-wick-cinnamon-swirl-candle): Shop our XL Cinnamon Swirl Candle – 3-wick, long-lasting, and strong scented. Perfect for cozy mornings, gifting, or filling your home with warm bakery spice.
-  Updated: 2025-11-24T14:16:44Z
+  Updated: 2025-11-27T16:05:50Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/8ADEA626-B5DD-4ECC-9495-53E0F2587578.png?v=1760733421
   - [Single Order](https://affinatiliving.com/products/3-wick-cinnamon-swirl-candle?variant=42441085485137)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-cinnamon-swirl-candle?variant=42441085517905)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-cinnamon-swirl-candle?variant=42441085550673)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [Cinnamon Swirl Apothecary Candle](https://affinatiliving.com/products/cinnamon-swirl-apothecary-candle): Cinnamon Swirl Apothecary Candle – 7 oz Warm your home with the cozy, comforting scent of our Cinnamon Swirl Apothecary Candle. Hand-poured into a 7 oz glass jar, this candle is crafted with a premium soy wax blend for a clean, even burn. The fragrance blends sweet cinnamon sugar, buttery pastry, and a touch of vanilla for a nostalgic, bakery-fresh aroma. Made with a soy wax blend for a smooth, long-lasting burn. Strongly scented to fill your space with lasting fragrance.Let the inviting, spiced aroma of Cinnamon Swirl linger long after the flame has flickered out.
   Updated: 2025-11-15T17:39:14Z
   Vendor: Affinati
@@ -1840,65 +1840,65 @@
     Availability: Available
     Price: $72.95 USD
 - [3-Wick Bouquet of Roses Candle](https://affinatiliving.com/products/3-wick-bouquet-of-roses-candle): Shop our XL Bouquet of Roses Candle – 3-wick, long-lasting, and strong scented. Perfect for romantic moments, gifting, or filling your space with fresh floral elegance.
-  Updated: 2025-11-24T14:16:44Z
+  Updated: 2025-11-27T16:05:50Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/2E12C671-2383-4219-A942-F5F6B118FD29.png?v=1760734388
   - [Single Order](https://affinatiliving.com/products/3-wick-bouquet-of-roses-candle?variant=42441085386833)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-bouquet-of-roses-candle?variant=42441085419601)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-bouquet-of-roses-candle?variant=42441085452369)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Amber Noir Candle](https://affinatiliving.com/products/3-wick-amber-noir-candle): Shop our XL Amber Noir Candle – 3-wick, long-lasting, and strong scented. Perfect for date nights, gifting, or adding rich, seductive warmth to your space.
-  Updated: 2025-11-24T14:16:44Z
+  Updated: 2025-11-27T16:05:49Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/AD855A19-702C-4173-9153-E198DD38DF4B.png?v=1760734022
   - [Single Order](https://affinatiliving.com/products/3-wick-amber-noir-candle?variant=42441082241105)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-amber-noir-candle?variant=42441082273873)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-amber-noir-candle?variant=42441082306641)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Bonfire Candle](https://affinatiliving.com/products/3-wick-bonfire-candle): Shop our XL Bonfire Candle – 3-wick, long-lasting, and strong scented. Perfect for smoky nights, gifting, or adding campfire warmth to any space.
-  Updated: 2025-11-24T14:16:44Z
+  Updated: 2025-11-27T16:05:49Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/D144B28F-F209-4C28-BB8F-FCE1F1D71823.png?v=1760748784
   - [Single Order](https://affinatiliving.com/products/3-wick-bonfire-candle?variant=42441081815121)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-bonfire-candle?variant=42441081847889)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-bonfire-candle?variant=42441081880657)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Blue Spruce Candle](https://affinatiliving.com/products/3-wick-blue-spruce-candle): Shop our XL Blue Spruce Candle – 3-wick, long-lasting, and strong scented. Perfect for winter woods vibes, gifting, or a crisp, evergreen-scented home.
-  Updated: 2025-11-24T14:16:43Z
+  Updated: 2025-11-27T16:05:49Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7021.png?v=1760737918
   - [Single Order](https://affinatiliving.com/products/3-wick-blue-spruce-candle?variant=42441081585745)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-blue-spruce-candle?variant=42441081618513)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-blue-spruce-candle?variant=42441081651281)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [Fruit Fusion Original Candle](https://affinatiliving.com/products/fruit-fusion-original-candle): Fruit Fusion Original Candle – 10 oz Energize your space with the vibrant, juicy scent of our Fruit Fusion Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance combines a lively mix of tropical fruits, citrus bursts, and sweet berries, creating a bright and uplifting aroma. Scented strongly to fill your space with lasting fragrance. Perfect for adding a fresh, fruity vibe to any room. Burn Time – 60–70 Hours
   Updated: 2025-11-23T16:43:57Z
   Vendor: Affinati
@@ -2890,50 +2890,50 @@
     Availability: Available
     Price: $72.95 USD
 - [3-Wick Pineapple Margarita's Candle](https://affinatiliving.com/products/3-wick-pineapple-margaritas-candle): Shop our XL Pineapple Margarita Candle – 3-wick, long-lasting, and strong scented. Perfect for summer parties, gifting, or a zesty tropical escape at home.
-  Updated: 2025-11-24T14:16:43Z
+  Updated: 2025-11-27T16:05:49Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7013.png?v=1760734969
   - [Single Order](https://affinatiliving.com/products/3-wick-pineapple-margaritas-candle?variant=42441079849041)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-pineapple-margaritas-candle?variant=42441079881809)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-pineapple-margaritas-candle?variant=42441079914577)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Pina Colada Candle](https://affinatiliving.com/products/3-wick-pina-colada-candle): Shop our XL Pina Colada Candle – 3-wick, long-lasting, and strong scented. Perfect for tropical vibes, gifting, or a sweet beachside escape at home.
-  Updated: 2025-11-24T14:16:43Z
+  Updated: 2025-11-27T16:05:48Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7026.png?v=1760737807
   - [Single Order](https://affinatiliving.com/products/3-wick-pina-colada-candle?variant=42441076736081)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-pina-colada-candle?variant=42441076768849)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-pina-colada-candle?variant=42441076801617)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Coconut Flakes Candle](https://affinatiliving.com/products/3-wick-coconut-flakes-candle): Shop our XL Coconut Flakes Candle – 3-wick, long-lasting, and strong scented. Perfect for tropical escapes, gifting, or sweet island-inspired relaxation.
-  Updated: 2025-11-24T14:16:43Z
+  Updated: 2025-11-27T16:05:48Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7024.png?v=1760737771
   - [Single Order](https://affinatiliving.com/products/3-wick-coconut-flakes-candle?variant=42440962113617)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-coconut-flakes-candle?variant=42440962146385)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-coconut-flakes-candle?variant=42440965324881)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [Coffee Shop Original Candle](https://affinatiliving.com/products/coffee-shop-original-candle): Coffee Shop Original Candle – 10 oz Fill your home with the rich, comforting aroma of our Coffee Shop Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made from a premium soy wax blend for a clean, even burn. The fragrance combines freshly brewed coffee, creamy espresso, and subtle notes of roasted beans—evoking the cozy ambiance of your favorite café. Scented strongly to fill your space with lasting fragrance. Perfect for adding a warm, inviting coffeehouse vibe to any room. Burn Time – 60–70 Hours
   Updated: 2025-11-23T02:33:27Z
   Vendor: Affinati
@@ -2950,95 +2950,95 @@
     Availability: Available
     Price: $64.95 USD
 - [3-Wick Champagne Toast Candle](https://affinatiliving.com/products/3-wick-champagne-toast-candle): Celebrate any moment with the bubbly, fruity scent of Champagne Toast. This 3-wick candle blends sparkling citrus and berries for a bright, uplifting burn.
-  Updated: 2025-11-24T14:16:42Z
+  Updated: 2025-11-27T16:05:48Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/3085D5F0-F9AE-4728-A619-B2A80A8E2C2F.png?v=1760734272
   - [Single Order](https://affinatiliving.com/products/3-wick-champagne-toast-candle?variant=42446233305169)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-champagne-toast-candle?variant=42446233337937)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-champagne-toast-candle?variant=42446233370705)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Pumpkin Spice Latte Candle](https://affinatiliving.com/products/3-wick-pumpkin-spice-latte-candle): Embrace fall with the warm aroma of pumpkin, cinnamon, and creamy espresso. This 3-wick Pumpkin Spice Latte candle delivers cozy café vibes at home.
-  Updated: 2025-11-24T14:16:42Z
+  Updated: 2025-11-27T16:05:48Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/42E3C1C9-67C6-46C6-A3A6-9392BE232BFD.png?v=1760733311
   - [Single Order](https://affinatiliving.com/products/3-wick-pumpkin-spice-latte-candle?variant=42446236516433)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-pumpkin-spice-latte-candle?variant=42446236549201)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-pumpkin-spice-latte-candle?variant=42446236581969)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Banana Creme Pie Candle](https://affinatiliving.com/products/3-wick-banana-creme-pie-candle): Treat your senses to the rich aroma of ripe banana, vanilla custard, and flaky crust. This 3-wick Banana Crème Pie candle is warm, sweet, and irresistible.
-  Updated: 2025-11-24T14:16:42Z
+  Updated: 2025-11-27T16:05:47Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7023.png?v=1760737730
   - [Single Order](https://affinatiliving.com/products/3-wick-banana-creme-pie-candle?variant=42446237270097)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-banana-creme-pie-candle?variant=42446237302865)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-banana-creme-pie-candle?variant=42446237335633)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick S'mores Candle](https://affinatiliving.com/products/3-wick-smores-candle): Indulge in the cozy scent of toasted marshmallow, melted chocolate, and graham cracker. This 3-wick S’mores candle delivers sweet, campfire nostalgia.
-  Updated: 2025-11-24T14:16:42Z
+  Updated: 2025-11-27T16:05:47Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7002.png?v=1760733623
   - [Single Order](https://affinatiliving.com/products/3-wick-smores-candle?variant=42446238777425)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-smores-candle?variant=42446238810193)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-smores-candle?variant=42446238842961)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Saffron Cedarwood Candle](https://affinatiliving.com/products/3-wick-saffron-cedarwood-candle): Warm and woody with a hint of spice, this 3-wick Saffron Cedarwood candle fills your space with a rich, calming aroma and a clean, long-lasting burn.
-  Updated: 2025-11-24T14:16:40Z
+  Updated: 2025-11-27T16:05:47Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/7B944471-33F3-4EBA-B83B-8C762A10B2C9.png?v=1760733251
   - [Single Order](https://affinatiliving.com/products/3-wick-saffron-cedarwood-candle?variant=42446239334481)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-saffron-cedarwood-candle?variant=42446239367249)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-saffron-cedarwood-candle?variant=42446239400017)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Fresh Peaches Candle](https://affinatiliving.com/products/3-wick-fresh-peaches-candle): Fill your space with the sweet, juicy aroma of ripe peaches. This 3-wick Fresh Peaches candle offers a long-lasting, clean burn and vibrant summer scent.
-  Updated: 2025-11-24T14:16:40Z
+  Updated: 2025-11-27T16:05:47Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/90170180-D2C3-4272-A534-4CEB00C62695.png?v=1760734302
   - [Single Order](https://affinatiliving.com/products/3-wick-fresh-peaches-candle?variant=42473834381393)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-fresh-peaches-candle?variant=42473834414161)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-fresh-peaches-candle?variant=42473834446929)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [Fresh Peaches Signature Candle](https://affinatiliving.com/products/fresh-peaches-signature-candle): Brighten any room with Fresh Peaches—juicy peach nectar in a clean-burning 10 oz soy candle. Summer vibes all year round—shop now
   Updated: 2025-11-24T04:48:12Z
   Vendor: Affinati
@@ -3055,125 +3055,125 @@
     Availability: Available
     Price: $72.95 USD
 - [3-Wick Cactus & Sea Salt Candle](https://affinatiliving.com/products/3-wick-cactus-sea-salt-candle): Refresh your home with the Cactus and Sea Salt 3-Wick Candle. A 17 oz soy candle with a clean, coastal fragrance of cactus greens, sea salt, and ocean air. Long-lasting burn and luxury design.
-  Updated: 2025-11-24T14:16:40Z
+  Updated: 2025-11-27T16:05:46Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/E3FFCD70-8140-4F19-86EE-32B91218B864.png?v=1760734607
   - [Single Order](https://affinatiliving.com/products/3-wick-cactus-sea-salt-candle?variant=58196638793809)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-cactus-sea-salt-candle?variant=58196638826577)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-cactus-sea-salt-candle?variant=58196638859345)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Fresh Watermelon Candle](https://affinatiliving.com/products/3-wick-fresh-watermelon-candle): Brighten your home with the Fresh Watermelon 3-Wick Candle. Hand-poured soy wax, 17 oz glass jar, and a juicy watermelon scent for a clean, even burn.
-  Updated: 2025-11-24T14:16:40Z
+  Updated: 2025-11-27T16:05:46Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/2AE47354-88D4-48B1-8F33-EED1CC397F80.png?v=1760734247
   - [Single Order](https://affinatiliving.com/products/3-wick-fresh-watermelon-candle?variant=58196643971153)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-fresh-watermelon-candle?variant=58196644003921)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-fresh-watermelon-candle?variant=58196644036689)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Strawberry Bliss Candle](https://affinatiliving.com/products/3-wick-strawberry-bliss-candle): Indulge in the sweet scent of ripe strawberries with the Strawberry Bliss 3-Wick Candle. Clean soy wax, 17 oz jar, and long-lasting fragrance.
-  Updated: 2025-11-24T14:16:39Z
+  Updated: 2025-11-27T16:05:46Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/106A4C0B-F461-4976-B7E2-28343DC380A8.png?v=1760734224
   - [Single Order](https://affinatiliving.com/products/3-wick-strawberry-bliss-candle?variant=58196665303121)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-strawberry-bliss-candle?variant=58196665335889)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-strawberry-bliss-candle?variant=58196665368657)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Banana Nut Bread Candle](https://affinatiliving.com/products/3-wick-banana-nut-bread-candle): Indulge in the cozy scent of our Banana Nut Bread 3-Wick Candle. Hand-poured soy wax, 17 oz glass jar, and triple wicks for a warm, bakery-inspired fragrance.
-  Updated: 2025-11-24T14:16:39Z
+  Updated: 2025-11-27T16:05:46Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7022.png?v=1760737688
   - [Single Order](https://affinatiliving.com/products/3-wick-banana-nut-bread-candle?variant=58197003698257)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-banana-nut-bread-candle?variant=58197003731025)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-banana-nut-bread-candle?variant=58197003763793)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Strawberry Kiwi Candle](https://affinatiliving.com/products/3-wick-strawberry-kiwi-candle): Elevate your space with the Affinati Strawberry Kiwi Candle. This 17 oz luxury 3-wick candle blends the sweet aroma of ripe strawberries with the refreshing zest of kiwi for a bright, fruity fragrance. Perfect for refined living and long-lasting ambiance.
-  Updated: 2025-11-24T14:16:39Z
+  Updated: 2025-11-27T16:05:44Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7009.png?v=1760734367
   - [Single Order](https://affinatiliving.com/products/3-wick-strawberry-kiwi-candle?variant=58200725979217)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-strawberry-kiwi-candle?variant=58200726011985)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-strawberry-kiwi-candle?variant=58200726044753)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Lemon Meringue Candle](https://affinatiliving.com/products/3-wick-banana-nut-bread-candle-copy): Brighten your home with the Lemon Meringue 3-Wick Candle. This 17 oz soy wax blend combines zesty lemon with creamy sweetness for a fresh, uplifting burn that lasts.
-  Updated: 2025-11-24T14:16:39Z
+  Updated: 2025-11-27T16:05:44Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7018.png?v=1760737649
   - [Single Order](https://affinatiliving.com/products/3-wick-banana-nut-bread-candle-copy?variant=58200787812433)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-banana-nut-bread-candle-copy?variant=58200787845201)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-banana-nut-bread-candle-copy?variant=58200787877969)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Toasted Pumpkin Cream Candle](https://affinatiliving.com/products/3-wick-toasted-pumpkin-cream-candle): Experience the cozy aroma of Affinati’s Toasted Pumpkin Cream 3-Wick Candle. A warm blend of pumpkin, vanilla, and sweet cream in a luxury white jar for autumn comfort.
-  Updated: 2025-11-24T14:16:38Z
+  Updated: 2025-11-27T16:05:44Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7019.png?v=1760737604
   - [Single Order](https://affinatiliving.com/products/3-wick-toasted-pumpkin-cream-candle?variant=58203646689361)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-toasted-pumpkin-cream-candle?variant=58203646722129)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-toasted-pumpkin-cream-candle?variant=58203646754897)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Cherry Noir Candle](https://affinatiliving.com/products/3-wick-cherry-noir-candle): Rich and alluring, the Cherry Noir 3-Wick Candle blends ripe black cherries, dark plum, and warm vanilla in a 17 oz soy wax blend for a clean, lasting burn.
-  Updated: 2025-11-24T14:16:38Z
+  Updated: 2025-11-27T16:05:44Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/8AD71763-C2E5-43E9-ABBA-4E61A33AC2D5.png?v=1760734151
   - [Single Order](https://affinatiliving.com/products/3-wick-cherry-noir-candle?variant=58203659403345)
     Availability: Available
-    Price: $27.95 USD
+    Price: $24.95 USD
   - [Pack of 3](https://affinatiliving.com/products/3-wick-cherry-noir-candle?variant=58203659436113)
     Availability: Available
-    Price: $74.95 USD
+    Price: $69.95 USD
   - [Pack of 5](https://affinatiliving.com/products/3-wick-cherry-noir-candle?variant=58203659468881)
     Availability: Available
-    Price: $119.95 USD
+    Price: $109.95 USD
 - [3-Wick Pink Lemonade Candle](https://affinatiliving.com/products/3-wick-pink-lemonade-candle): Brighten your home with the refreshing Pink Lemonade 3-Wick Candle. A 17 oz soy wax blend with a sweet citrus aroma and clean, even burn—perfect for uplifting any space.
   Updated: 2025-11-27T15:13:42Z
   Vendor: Affinati
@@ -7221,6 +7221,113 @@
   - [Pack of 5](https://affinatiliving.com/products/ivory-woods-original-candle?variant=58423665295441)
     Availability: Available
     Price: $64.95 USD
+- [Ivory Woods Room Spray](https://affinatiliving.com/products/ivory-woods-room-spray): Refresh any space with our Ivory Woods Room & Linen Spray. A clean, woody blend that adds soft elegance and long-lasting freshness to your home in seconds.
+  Updated: 2025-11-27T16:01:57Z
+  Vendor: Affinati
+  Product Type: Room & Linen Spray
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageApr30_2025_01_27_00PM.png?v=1746034067
+  - [Single Order / Small (1 fl/oz)](https://affinatiliving.com/products/ivory-woods-room-spray?variant=58423666573393)
+    Availability: Available
+    Price: $6.95 USD
+  - [Single Order / Large (4 fl/oz)](https://affinatiliving.com/products/ivory-woods-room-spray?variant=58423666606161)
+    Availability: Available
+    Price: $8.95 USD
+  - [Pack of 3 / Small (1 fl/oz)](https://affinatiliving.com/products/ivory-woods-room-spray?variant=58423666638929)
+    Availability: Available
+    Price: $14.95 USD
+  - [Pack of 3 / Large (4 fl/oz)](https://affinatiliving.com/products/ivory-woods-room-spray?variant=58423666671697)
+    Availability: Available
+    Price: $19.95 USD
+  - [Pack of 5 / Small (1 fl/oz)](https://affinatiliving.com/products/ivory-woods-room-spray?variant=58423666704465)
+    Availability: Available
+    Price: $24.95 USD
+  - [Pack of 5 / Large (4 fl/oz)](https://affinatiliving.com/products/ivory-woods-room-spray?variant=58423666737233)
+    Availability: Available
+    Price: $29.95 USD
+- [Ivory Woods Reed Diffuser](https://affinatiliving.com/products/ivory-woods-reed-diffuser): Elevate your home with our Ivory Woods Reed Diffuser. Warm sandalwood, cashmere woods, vanilla, and amber create a soft, elegant, long-lasting woody fragrance.
+  Updated: 2025-11-27T16:04:47Z
+  Vendor: Affinati
+  Product Type: Reed Diffuser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/11360F79-A874-49F7-8ACB-DC386700AD52.png?v=1764259402
+  Price: $17.95 USD
+- [Arctic Cedarwood Room Spray](https://affinatiliving.com/products/arctic-cedarwood-room-spray): Refresh any space with Arctic Cedarwood. A crisp blend of cool cedar, frosted woods, and clean musk creates a long-lasting, modern, and invigorating home fragrance.
+  Updated: 2025-11-27T16:15:08Z
+  Vendor: Affinati
+  Product Type: Room & Linen Spray
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageApr30_2025_01_27_00PM.png?v=1746034067
+  - [Single Order / Small (1 fl/oz)](https://affinatiliving.com/products/arctic-cedarwood-room-spray?variant=58423682007121)
+    Availability: Available
+    Price: $6.95 USD
+  - [Single Order / Large (4 fl/oz)](https://affinatiliving.com/products/arctic-cedarwood-room-spray?variant=58423682039889)
+    Availability: Available
+    Price: $8.95 USD
+  - [Pack of 3 / Small (1 fl/oz)](https://affinatiliving.com/products/arctic-cedarwood-room-spray?variant=58423682072657)
+    Availability: Available
+    Price: $14.95 USD
+  - [Pack of 3 / Large (4 fl/oz)](https://affinatiliving.com/products/arctic-cedarwood-room-spray?variant=58423682105425)
+    Availability: Available
+    Price: $19.95 USD
+  - [Pack of 5 / Small (1 fl/oz)](https://affinatiliving.com/products/arctic-cedarwood-room-spray?variant=58423682138193)
+    Availability: Available
+    Price: $24.95 USD
+  - [Pack of 5 / Large (4 fl/oz)](https://affinatiliving.com/products/arctic-cedarwood-room-spray?variant=58423682170961)
+    Availability: Available
+    Price: $29.95 USD
+- [3-Wick Arctic Cedarwood Candle](https://affinatiliving.com/products/3-wick-arctic-cedarwood-candle): A fresh, calming scent. Our Arctic Cedarwood 3-Wick Candle blends cool cedar, frosted pine, and eucalyptus for a clean, long-lasting, woodsy home fragrance.
+  Updated: 2025-11-27T16:21:28Z
+  Vendor: Affinati
+  Product Type: Candles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/B92EA288-1614-4A0B-BE6E-58D27CEFFD94.png?v=1764260261
+  - [Single Order](https://affinatiliving.com/products/3-wick-arctic-cedarwood-candle?variant=58423684464721)
+    Availability: Available
+    Price: $24.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/3-wick-arctic-cedarwood-candle?variant=58423684497489)
+    Availability: Available
+    Price: $69.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/3-wick-arctic-cedarwood-candle?variant=58423684530257)
+    Availability: Available
+    Price: $109.95 USD
+- [Arctic Cedarwood Original Candle](https://affinatiliving.com/products/arctic-cedarwood-original-candle): Refresh your home with Arctic Cedarwood. Cool cedar, pine, amber, and musk create a clean, invigorating, long-lasting fragrance in this 10 oz soy-blend candle.
+  Updated: 2025-11-27T16:29:27Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/F4825684-A8A8-4D22-971D-1A3D441C63CA.png?v=1764260742
+  - [Single Order](https://affinatiliving.com/products/arctic-cedarwood-original-candle?variant=58423691673681)
+    Availability: Available
+    Price: $16.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/arctic-cedarwood-original-candle?variant=58423691706449)
+    Availability: Available
+    Price: $39.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/arctic-cedarwood-original-candle?variant=58423691739217)
+    Availability: Available
+    Price: $64.95 USD
+- [Arctic Cedarwood Reed Diffuser](https://affinatiliving.com/products/arctic-cedarwood-reed-diffuser): Refresh your home with Arctic Cedarwood. Cool cedar, frosted pine, and soft amber create a clean, invigorating, long-lasting fragrance in this 7.0 fl oz diffuser.
+  Updated: 2025-11-27T17:29:32Z
+  Vendor: Affinati
+  Product Type: Reed Diffuser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_27_2025_at_12_07_26_PM.png?v=1764263294
+  Price: $17.95 USD
+- [Arctic Cedarwood Signature Candle](https://affinatiliving.com/products/arctic-cedarwood-signature-candle): A crisp, modern scent. Arctic Cedarwood blends cool cedar, frosted pine, amber, and icy musk for a clean, refreshing, long-lasting fragrance in any room.
+  Updated: 2025-11-27T16:41:51Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_27_2025_at_11_33_21_AM.png?v=1764261554
+  - [Single Order](https://affinatiliving.com/products/arctic-cedarwood-signature-candle?variant=58423705239633)
+    Availability: Available
+    Price: $17.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/arctic-cedarwood-signature-candle?variant=58423705272401)
+    Availability: Available
+    Price: $44.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/arctic-cedarwood-signature-candle?variant=58423705305169)
+    Availability: Available
+    Price: $72.95 USD
 
 ## Collections
 
@@ -7228,11 +7335,11 @@
   Updated: 2025-05-15T08:35:05Z
   Total Products: 0
 - [3-Wick Candles](https://affinatiliving.com/collections/3-wick-candles): Discover Affinati’s 3-Wick Candle Collection — luxury soy candles with powerful fragrance throw, clean burn, and elegant jars. Perfect for filling any room with long-lasting scent.
-  Updated: 2025-11-27T15:52:39Z
-  Total Products: 84
+  Updated: 2025-11-27T16:21:27Z
+  Total Products: 85
 - [Signature Candles](https://affinatiliving.com/collections/signature-candles): Shop Affinati’s Signature Candle Collection — hand-poured soy candles crafted for long-lasting fragrance and elegant design. Elevate your home with luxury scents made for everyday moments.
-  Updated: 2025-11-27T15:56:12Z
-  Total Products: 64
+  Updated: 2025-11-27T16:41:50Z
+  Total Products: 65
 - [Whipped Soap](https://affinatiliving.com/collections/whipped-soap): Lather up with Affinati’s Whipped Soap Collection — creamy, cloud-like soaps that cleanse, hydrate, and leave skin silky smooth with long-lasting luxury fragrance.
   Updated: 2025-11-27T13:59:34Z
   Total Products: 16
@@ -7243,11 +7350,11 @@
   Updated: 2025-11-09T23:34:08Z
   Total Products: 10
 - [Room & Linen Sprays](https://affinatiliving.com/collections/room-linen-sprays): Shop Affinati Room Sprays for long-lasting home fragrance. Premium, eco-friendly scents designed to refresh any room instantly. Luxury quality under $25.
-  Updated: 2025-11-27T16:00:02Z
-  Total Products: 41
+  Updated: 2025-11-27T16:15:06Z
+  Total Products: 42
 - [Reed Diffusers](https://affinatiliving.com/collections/reed-diffusers): Fill your home with lasting fragrance from Affinati’s Reed Diffuser Collection — elegant, flame-free diffusers crafted with premium oils for continuous scent.
-  Updated: 2025-11-27T00:40:55Z
-  Total Products: 37
+  Updated: 2025-11-27T17:08:26Z
+  Total Products: 39
 - [Body Scrubs](https://affinatiliving.com/collections/body-scrubs): Exfoliate and nourish with Affinati’s Body Scrubs Collection — whipped sugar scrubs crafted with skin-loving ingredients for smooth, glowing skin and long-lasting fragrance.
   Updated: 2025-11-01T11:07:27Z
   Total Products: 6
@@ -7261,14 +7368,14 @@
   Updated: 2025-11-16T12:08:28Z
   Total Products: 3
 - [All Candle Collections](https://affinatiliving.com/collections/all-candle-collections): Shop Affinati’s full Candle Collection — from Wooden Wick and 3-Wick candles to Signature and Original designs. Hand-poured soy candles with long-lasting, luxury fragrance for every space.
-  Updated: 2025-11-27T15:59:30Z
-  Total Products: 282
+  Updated: 2025-11-27T16:41:50Z
+  Total Products: 285
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
   Updated: 2025-11-27T13:53:49Z
   Total Products: 87
 - [All Home Care Collections](https://affinatiliving.com/collections/all-home-care-collections)
-  Updated: 2025-11-27T16:00:02Z
-  Total Products: 78
+  Updated: 2025-11-27T17:08:26Z
+  Total Products: 81
 - [Apothecary Candles](https://affinatiliving.com/collections/apothecary-candles)
   Updated: 2025-11-25T12:08:36Z
   Total Products: 12
@@ -7285,55 +7392,55 @@
   Updated: 2025-05-15T08:35:07Z
   Total Products: 0
 - [Original Candles](https://affinatiliving.com/collections/original-candles): Explore Affinati’s Original Candle Collection — hand-poured soy candles designed for everyday luxury. Clean-burning, long-lasting scents that bring warmth and elegance to any space.
-  Updated: 2025-11-27T15:59:30Z
-  Total Products: 83
+  Updated: 2025-11-27T16:25:41Z
+  Total Products: 84
 - [Wooden Wick Candles](https://affinatiliving.com/collections/wooden-wick-candles): Discover Affinati’s Wooden Wick Candles — premium soy candles with a cozy crackling burn. Long-lasting, clean fragrance blends designed to create a warm, luxurious atmosphere for your home.
   Updated: 2025-11-26T14:15:27Z
   Total Products: 48
 - [Summer Candle Scents](https://affinatiliving.com/collections/summer-scents)
-  Updated: 2025-11-27T15:56:12Z
+  Updated: 2025-11-27T16:05:56Z
   Total Products: 98
 - [Winter Candle Scents](https://affinatiliving.com/collections/winter-candle-scents)
-  Updated: 2025-11-27T15:59:30Z
-  Total Products: 118
+  Updated: 2025-11-27T16:41:50Z
+  Total Products: 121
 - [Fall Candle Scents](https://affinatiliving.com/collections/fall-candle-scents)
-  Updated: 2025-11-27T15:56:12Z
-  Total Products: 108
+  Updated: 2025-11-27T16:29:32Z
+  Total Products: 109
 - [Spring Candle Scents](https://affinatiliving.com/collections/spring-candle-scents)
-  Updated: 2025-11-27T15:56:12Z
+  Updated: 2025-11-27T16:05:56Z
   Total Products: 85
 - [Masculine Candle Scents](https://affinatiliving.com/collections/masculine-scents): Explore the Masculine Candle Collection — bold scents like Smoked Bourbon, Mahogany Teakwood, and Tobacco. Long-lasting 3-wick and wooden wick candles with rich, rugged aromas.
-  Updated: 2025-11-27T15:56:12Z
-  Total Products: 53
+  Updated: 2025-11-27T16:41:50Z
+  Total Products: 57
 - [Fruity Candle Scents](https://affinatiliving.com/collections/fruity): Explore the Fruity Scents Collection — candles, diffusers, and room sprays in vibrant aromas like Strawberry Bliss, Blackberry Sage, and Coconut Flakes. Sweet, juicy, long-lasting fragrance for every room.
-  Updated: 2025-11-27T15:13:43Z
+  Updated: 2025-11-27T16:05:50Z
   Total Products: 60
 - [Nature Candle Scents](https://affinatiliving.com/collections/nature-candle-scents): Discover the Nature Candle Collection — fresh, earthy scents like Eucalyptus Tea, Driftwood & Sea Salt, and Blackberry Sage. Long-lasting candles inspired by the outdoors.
-  Updated: 2025-11-27T15:13:38Z
+  Updated: 2025-11-27T16:05:56Z
   Total Products: 131
 - [Vanilla Candles](https://affinatiliving.com/collections/vanilla-candles): Indulge in Affinati’s Vanilla Candle Collection—luxury soy wax candles with rich, long-lasting fragrance. Shop 3-wick and signature vanilla candles for cozy nights, stress relief, and everyday comfort.
-  Updated: 2025-11-27T15:56:12Z
+  Updated: 2025-11-27T16:05:55Z
   Total Products: 23
 - [Lavender Candles](https://affinatiliving.com/collections/lavender-candles): Discover Affinati’s Lavender Candle Collection—luxury soy wax candles crafted to calm, relax, and refresh your space. Shop 3-wick and signature lavender candles for stress relief, sleep, and everyday elegance.
-  Updated: 2025-11-27T15:13:27Z
+  Updated: 2025-11-27T16:05:56Z
   Total Products: 7
 - [Eucalyptus Candles](https://affinatiliving.com/collections/eucalyptus-candles): Explore eucalyptus candles for relaxation and wellness. Shop Affinati’s eucalyptus mint candles — luxury soy blends with a fresh, calming scent.
-  Updated: 2025-11-27T15:13:37Z
+  Updated: 2025-11-27T16:05:55Z
   Total Products: 7
 - [Woody Candle Scents](https://affinatiliving.com/collections/woody-candle-scents): Shop the Woody Scents Collection — candles, diffusers, and room sprays in rich aromas like Mahogany Teakwood, Tobacco, and Driftwood & Sea Salt. Warm, earthy, long-lasting fragrance for every space.
-  Updated: 2025-11-27T15:56:11Z
-  Total Products: 48
+  Updated: 2025-11-27T16:41:50Z
+  Total Products: 52
 - [Christmas Candles](https://affinatiliving.com/collections/christmas-candles): Discover the best Christmas candles— from peppermint and gingerbread to hot chocolate and White Christmas. Long-lasting candles for cozy holiday nights.
-  Updated: 2025-11-27T15:59:30Z
-  Total Products: 46
+  Updated: 2025-11-27T16:22:58Z
+  Total Products: 45
 - [Halloween Candles](https://affinatiliving.com/collections/halloween-candles): Shop the Halloween Candle Collection — spooky scents like Pumpkin Spice, Smoked Vanilla, and Fire Roasted Marshmallow. Candles for fall nights.
-  Updated: 2025-11-27T15:13:43Z
+  Updated: 2025-11-27T16:05:56Z
   Total Products: 30
 - [Thanksgiving Candles](https://affinatiliving.com/collections/thanksgiving-candles): Celebrate Thanksgiving with candles inspired by pumpkin pie, spiced bourbon, and warm vanilla. Long-lasting candles to make your holiday cozy.
-  Updated: 2025-11-27T15:13:43Z
+  Updated: 2025-11-27T16:05:55Z
   Total Products: 77
 - [Valentine's Candles](https://affinatiliving.com/collections/valentines-candles): Celebrate love with the Valentine’s Day Candle Collection — romantic scents like Strawberry Bliss, Cocoa Butter Cashmere, and Hot Chocolate. Long-lasting 3-wick candles for gifting.
-  Updated: 2025-11-27T15:13:38Z
+  Updated: 2025-11-27T16:05:56Z
   Total Products: 46
 - [Affinati Accessories](https://affinatiliving.com/collections/accessories): Explore Affinati Accessories — a curated collection of elegant essentials including signature pens, matchboxes, and décor pieces designed to complement your luxury candle experience. Refined, timeless, and made for modern living.
   Updated: 2025-11-23T11:09:32Z
@@ -7948,6 +8055,9 @@
   - [Nécessaire Lotion Review + Best Affordable Luxury Alternative | Affinati](https://affinatiliving.com/blogs/news/necessaire-lotion-review-best-affordable-luxury-alternative-affinati)
     Updated: 2025-11-25T14:48:41Z
     Author: Gerard Collins
+  - [All About Hempz Lotion – Benefits, Ingredients & Modern Clean Alternatives](https://affinatiliving.com/blogs/news/all-about-hempz-lotion-benefits-ingredients-modern-clean-alternatives)
+    Updated: 2025-11-27T17:27:31Z
+    Author: Gerard Collins
   - [All About Sol de Janeiro Lotion – Scents, Ingredients & Modern Clean Alternatives](https://affinatiliving.com/blogs/news/all-about-sol-de-janeiro-lotion-scents-ingredients-and-modern-clean-alternatives): All About Sol de Janeiro Lotion – Scents, Ingredients & Modern Clean Alternatives
     Updated: 2025-11-26T19:14:52Z
     Author: Gerard Collins
@@ -8534,6 +8644,9 @@
     Author: Gerard Collins
   - [Nécessaire Lotion vs Affinati – Complete Clean Body Care Comparison | Affinati](https://affinatiliving.com/blogs/deep-analysis/necessaire-lotion-vs-affinati-complete-clean-body-care-comparison-affinati)
     Updated: 2025-11-25T14:46:32Z
+    Author: Gerard Collins
+  - [Hempz Lotion Guide – Hydration, Ingredients, Best Scents & Modern Alternatives](https://affinatiliving.com/blogs/deep-analysis/hempz-lotion-guide-hydration-ingredients-best-scents-and-modern-alternatives)
+    Updated: 2025-11-27T17:25:30Z
     Author: Gerard Collins
   - [Sol de Janeiro Lotion Guide – Best Scents, Hydration, Ingredients & Modern Clean Alternatives](https://affinatiliving.com/blogs/deep-analysis/sol-de-janeiro-lotion-guide-best-scents-hydration-ingredients-and-modern-clean-alternatives)
     Updated: 2025-11-26T19:11:22Z
