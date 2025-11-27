@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-11-26T00:00:31.318Z
+- Updated At: 2025-11-27T00:00:31.207Z
 
 ## Products
 
@@ -1983,7 +1983,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SS8046.png?v=1675407671
   Price: RM 300.00 MYR
 - [ARTE 800mm Stainless Steel Rose Gold Nano Handmade Sink - Double Bowl](https://bath2u.com/products/arte-800mm-stainless-steel-rose-gold-nano-handmade-sink-double-bowl): Specifications : Colour: Rose Gold Outer Dimension: 800mm(L) x 460 mm(W) x 220mm(D) Material: 304 Stainless steel Thickness: 2mm Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion Suitable for Undermount, and Top Mount
-  Updated: 2024-04-18T15:06:47Z
+  Updated: 2025-11-26T08:54:41Z
   Vendor: ARTE
   Product Type: Kitchen Sinks
   Availability: Available
@@ -2130,7 +2130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/ARS-3046.png?v=1675752842
   Price: RM 5,280.00 MYR
 - [ITTO 805mm Ceramic Floor Standing Wash Basin with overflow](https://bath2u.com/products/itto-805mm-floor-standing-wash-basin-with-overflow): These unique sinks stand out in any bathroom and will be a centerpiece for any modern bathroom. Made from high quality ceramic, the basin comes with a tap hole and integrated overflow. Specifications : Material: Ceramic Size: 500 (L) x 525 (W) x 805 (H) mm Type: Freestanding Colour: White Finish: Glossy Note: Tap is not include
-  Updated: 2025-03-09T11:43:22Z
+  Updated: 2025-11-26T11:21:30Z
   Vendor: ITTO
   Product Type: Freestanding Basin
   Availability: Available
