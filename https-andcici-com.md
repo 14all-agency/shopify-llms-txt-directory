@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-03-05T09:19:25Z
 - Contact Email: hello@andcici.com
-- Updated At: 2025-11-26T00:01:09.364Z
+- Updated At: 2025-11-27T00:02:47.683Z
 
 ## Products
 
@@ -1190,13 +1190,13 @@
   Updated: 2025-11-14T12:20:06Z
   Total Products: 8
 - [Henri Matisse](https://andcici.com/collections/henri-matisse): Henri Émile Benoît Matisse (31 December 1869 – 3 November 1954) was a French visual artist, known for both his use of colour and his fluid and original draughtsmanship. He is one of the artists who best helped to define the revolutionary developments in the visual arts throughout the opening decades of the twentieth century, responsible for significant developments in painting and sculpture. The intense colourism of the works he painted between 1900 and 1905 brought him notoriety as one of the Fauves (French for "wild beasts").
-  Updated: 2025-11-10T12:18:09Z
+  Updated: 2025-11-26T12:22:07Z
   Total Products: 5
 - [ANDCICI Originals](https://andcici.com/collections/andcici-originals): Artwork designed by ANDCICI. Discover the Andcici Original Design Tote Bag Collection, where timeless art meets modern elegance. Inspired by famous artworks, each tote bag in this collection features exclusive designs that capture the essence of masterpieces from renowned artists. Crafted with precision and care, these tote bags allow you to carry a piece of art with you wherever you go. Elevate your style and celebrate creativity with our unique, high-quality tote bags that blend functionality with artistic flair.
   Updated: 2025-11-09T12:16:43Z
   Total Products: 62
 - [Art Revolution Collection](https://andcici.com/collections/art-revolution-collection): We would like to pay homage to the artists who revolutionised the art scene in today’s world and hope to bring awareness to our customers on the contributions these profound artists made.
-  Updated: 2025-11-25T12:22:06Z
+  Updated: 2025-11-26T12:22:07Z
   Total Products: 77
 - [Floral Collection](https://andcici.com/collections/floral-collection): Discover the beauty of nature with Andcici's Floral Tote Bag Collection, where art and elegance blossom together. Each bag in this collection features exquisite floral designs inspired by famous artworks, bringing the timeless charm of classic paintings into your daily life. Crafted with care and printed on high-quality materials, these totes are perfect for art lovers and nature enthusiasts alike. Carry a piece of art with you and let the vibrant, detailed floral patterns brighten your day.
   Updated: 2025-11-23T12:17:12Z
@@ -1217,13 +1217,13 @@
   Updated: 2025-05-18T09:50:50Z
   Total Products: 1
 - [AVADA - Best Sellers](https://andcici.com/collections/avada-best-sellers)
-  Updated: 2025-11-25T12:22:06Z
+  Updated: 2025-11-26T12:22:07Z
   Total Products: 149
 - [Shop All](https://andcici.com/collections/shop-all)
-  Updated: 2025-11-25T12:22:06Z
+  Updated: 2025-11-26T12:22:07Z
   Total Products: 149
 - [Best Sellers](https://andcici.com/collections/best-sellers)
-  Updated: 2025-11-23T12:17:12Z
+  Updated: 2025-11-26T12:22:07Z
   Total Products: 79
 - [Gustav Klimt](https://andcici.com/collections/gustav-klimt): Gustav Klimt (1862–1918) was an Austrian symbolist painter best known for his ornate, sensual works that often featured the female form. A founding member of the Vienna Secession movement, Klimt sought to break away from traditional academic art and embrace more modern, expressive styles. His most famous painting, The Kiss (1907–1908), exemplifies his signature use of gold leaf, intricate patterns, and emotional intensity. Klimt’s work blended symbolism, eroticism, and decorative art, making him a central figure in the development of early 20th-century modernism.
   Updated: 2025-08-14T09:45:02Z
