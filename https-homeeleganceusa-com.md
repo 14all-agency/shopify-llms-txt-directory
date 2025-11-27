@@ -10,7 +10,7 @@
 - Contact Email: sales@homeeleganceusa.com
 - Contact Phone: 732-777-1100
 - Address: 850 Ridgewood Avenue, North Brunswick NJ 08902
-- Updated At: 2025-11-26T18:10:11.659Z
+- Updated At: 2025-11-27T00:02:59.766Z
 
 ## Products
 
@@ -907,8 +907,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T13:05:13Z
   Price: $2,004.99 USD
 - [Artmax 8395-FLF Sculptural Floor Lamp – Bronze Figure & Glass Hat Shade](https://homeeleganceusa.com/products/8395-flf-floor-lamp): The Artmax 8395-FLF Floor Lamp features a sculptural bronze-gold figure wearing an illuminated hat-style glass shade, with dimmer, resin-metal design, and wood base.
-  Updated: 2025-11-25T13:05:14Z
-  Price: $2,197.99 USD
+  Updated: 2025-11-26T18:51:13Z
+  Price: $2,198.99 USD
 - [Artmax 8395-FLM Sculptural Floor Lamp – Bronze Figure & Trumpet Shade](https://homeeleganceusa.com/products/8395-flm-floor-lamp): The Artmax 8395-FLM Floor Lamp features a sculptural bronze male figure holding a trumpet-style illuminated glass shade, with dimmer and hand-painted artistry.
   Updated: 2025-11-25T13:05:15Z
   Price: $2,360.99 USD
@@ -29047,11 +29047,11 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T20:50:01Z
   Total Products: 9217
 - [Shop Living Room Furniture Online – Sofas, Sectionals, Chairs & More](https://homeeleganceusa.com/collections/living-room-furniture): Discover luxury living room furniture at Home Elegance USA. Sofas, sectionals, accent chairs, and coffee tables crafted for style, comfort, and lasting quality.
-  Updated: 2025-11-26T12:15:36Z
+  Updated: 2025-11-26T18:54:46Z
   Total Products: 12705
 - [Dining Room Furniture | Tables, Chairs & Buffets – Home Elegance](https://homeeleganceusa.com/collections/dining-room): Shop dining room furniture including tables, chairs, buffets, and storage. Modern, classic, and luxury designs crafted for style, comfort, and everyday dining.
-  Updated: 2025-11-25T20:51:11Z
-  Total Products: 5928
+  Updated: 2025-11-26T19:29:24Z
+  Total Products: 5929
 - [Mattresses – Shop Memory Foam, Hybrid & Innerspring | Home Elegance USA](https://homeeleganceusa.com/collections/mattresses): Shop mattresses in memory foam, hybrid, and innerspring designs. Enjoy cooling comfort, durable support, and restful sleep for every bedroom.
   Updated: 2025-11-25T20:35:24Z
   Total Products: 633
@@ -29059,11 +29059,11 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T20:50:01Z
   Total Products: 358
 - [Shop Sofas Online – Leather, Fabric, Sectionals & Recliners](https://homeeleganceusa.com/collections/sofas): Discover premium sofas at Home Elegance USA. Curated leather, fabric, and sectional sofas designed for comfort, style, and lasting quality in your living space.
-  Updated: 2025-11-25T23:10:33Z
-  Total Products: 4491
+  Updated: 2025-11-26T20:17:29Z
+  Total Products: 4492
 - [Loveseats – Stylish & Comfortable Two-Seater Sofas | Home Elegance USA](https://homeeleganceusa.com/collections/loveseats): Discover our Loveseats collection featuring leather and fabric two-seater sofas. Perfect for modern, traditional, and contemporary living rooms, offering style, comfort, and premium durability for everyday use.
-  Updated: 2025-11-25T23:10:33Z
-  Total Products: 867
+  Updated: 2025-11-26T20:17:29Z
+  Total Products: 868
 - [Sectionals – Luxury Modular & L-Shaped Sofas | Home Elegance USA](https://homeeleganceusa.com/collections/sectionals): Explore our Sectionals collection featuring modular, L-shaped, and U-shaped sofas in leather and fabric. Perfect for modern, contemporary, and traditional living rooms, offering versatile seating, premium comfort, and lasting durability.
   Updated: 2025-11-25T20:40:17Z
   Total Products: 2212
@@ -29071,7 +29071,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T18:59:53Z
   Total Products: 78
 - [Reclining Chairs – Modern & Classic Recliners | Home Elegance USA](https://homeeleganceusa.com/collections/reclining-chairs): Shop reclining chairs in leather and fabric. Power and manual recliners designed for living rooms, home theaters, and offices—comfort and style built to last.
-  Updated: 2025-11-25T20:51:26Z
+  Updated: 2025-11-26T18:54:46Z
   Total Products: 374
 - [Accent Chairs – Modern, Contemporary & Classic Styles | Home Elegance USA](https://homeeleganceusa.com/collections/accent-chairs): Shop accent chairs in modern, traditional, and contemporary styles. Perfect for living rooms, bedrooms, and offices—stylish seating with comfort and durability.
   Updated: 2025-11-25T20:40:48Z
@@ -29125,8 +29125,8 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T20:44:33Z
   Total Products: 333
 - [Dining Servers & Buffets – Dining Room Storage | Home Elegance USA](https://homeeleganceusa.com/collections/dining-servers-and-buffets): Shop dining servers and buffets for elegant dining room storage. Perfect for hosting, entertaining, and organizing tableware in traditional or modern designs.
-  Updated: 2025-11-25T20:50:14Z
-  Total Products: 699
+  Updated: 2025-11-26T19:29:24Z
+  Total Products: 700
 - [China Cabinets – Elegant Dining Room Storage | Home Elegance USA](https://homeeleganceusa.com/collections/china-cabinets): Shop china cabinets in glass-front, hutch, and buffet styles. Perfect for dining rooms or kitchens. Elegant storage, fast shipping at Home Elegance USA.
   Updated: 2025-11-25T16:56:48Z
   Total Products: 108
@@ -29158,10 +29158,10 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T17:05:19Z
   Total Products: 629
 - [Floor Lamps – Arc, Tripod, Task & Ambient Lighting | Home Elegance USA](https://homeeleganceusa.com/collections/floor-lamps): Shop floor lamps for modern, farmhouse & classic interiors. Arc, tripod & torchiere styles for living rooms, bedrooms & more. Fast shipping from Home Elegance USA.
-  Updated: 2025-11-25T20:40:36Z
+  Updated: 2025-11-26T18:50:24Z
   Total Products: 219
 - [Office Desks – Executive & Modern Desks for Home Office | Home Elegance USA](https://homeeleganceusa.com/collections/office-desks): Shop office desks in executive, writing, and modern styles. Crafted in wood, glass, and metal for home offices and workspaces. Functional, stylish, and durable.
-  Updated: 2025-11-25T20:41:51Z
+  Updated: 2025-11-26T22:50:06Z
   Total Products: 570
 - [Office Chairs – Ergonomic & Executive Seating | Home Elegance USA](https://homeeleganceusa.com/collections/office-chairs): Shop ergonomic and executive office chairs in leather, fabric, and mesh. Designed for comfort, productivity, and style in any home office or workspace.
   Updated: 2025-11-25T20:36:39Z
@@ -29236,13 +29236,13 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T20:28:47Z
   Total Products: 111
 - [Office Furniture | Ergonomic Chairs, Desks & Storage](https://homeeleganceusa.com/collections/office-furniture): Shop office furniture at Home Elegance! Find ergonomic chairs, office desks, workstations, and storage solutions for home or corporate offices. Free shipping!
-  Updated: 2025-11-25T20:42:07Z
+  Updated: 2025-11-26T22:50:06Z
   Total Products: 1078
 - [Accent Cabinets & Credenzas – Modern & Classic Storage | Home Elegance](https://homeeleganceusa.com/collections/accent-cabinets-and-credenzas): Shop accent cabinets and credenzas in modern and traditional styles. Elegant storage solutions for living rooms, dining areas, and entryways—style meets functionality.
   Updated: 2025-11-25T20:42:13Z
   Total Products: 822
 - [Ashley Furniture: Largest Furniture Manufacturer](https://homeeleganceusa.com/collections/ashley-furniture): Shop Ashley Furniture's huge selection of living room, bedroom, dining room, and more. Quality home furnishings at great prices. Browse now! | Home Elegance USA
-  Updated: 2025-11-21T22:47:39Z
+  Updated: 2025-11-26T18:54:46Z
   Total Products: 1328
 - [Homey Design Inc. - Luxury Upholstery and Case Goods | Home Elegance USA](https://homeeleganceusa.com/collections/homey-design-furniture): Discover Homey Design Inc. at Home Elegance USA: Exquisite traditional and Victorian-inspired living room, bedroom, and dining room furniture.
   Updated: 2025-11-25T13:44:09Z
@@ -29266,10 +29266,10 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T19:00:27Z
   Total Products: 894
 - [Homelegance Furniture - Elegant Home Furnishings | Home Elegance USA](https://homeeleganceusa.com/collections/homelegance-furniture): Discover Homelegance Furniture at Home Elegance USA: Quality furniture for every room, blending style and affordability to enhance your living spaces.
-  Updated: 2025-11-25T23:10:33Z
-  Total Products: 2316
+  Updated: 2025-11-26T20:17:29Z
+  Total Products: 2317
 - [Artmax Furniture: Elevate Your Home with Artistic Elegance | Home Elegance USA](https://homeeleganceusa.com/collections/artmax-furniture): Express your style with Artmax Furniture. Discover captivating designs, high-quality craftsmanship, and artistic flair for a sophisticated home. | Home Elegance USA
-  Updated: 2025-11-25T13:45:09Z
+  Updated: 2025-11-26T18:50:24Z
   Total Products: 119
 - [ELK Home Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/elk-home): Shop stylish ELK Home products on sale at Home Elegance USA. Find the perfect pieces to complement your home decor.
   Updated: 2025-02-12T18:13:50Z
@@ -29317,7 +29317,7 @@ Weight: 216.1 pounds
   Updated: 2025-09-27T16:02:01Z
   Total Products: 1250
 - [Hooker Furniture - Elegant Home Furnishings | Home Elegance USA](https://homeeleganceusa.com/collections/hooker-furniture): Discover Hooker Furniture at Home Elegance USA: Timeless designs and quality craftsmanship for your living room, dining room, bedroom, and home office. Shop now at Home Elegance USA
-  Updated: 2025-11-26T12:15:36Z
+  Updated: 2025-11-26T22:50:06Z
   Total Products: 1459
 - [Caracole Compositions Furniture - Luxury Designs](https://homeeleganceusa.com/collections/caracole-compositions): Discover the luxury furniture collection from Caracole Compositions, featuring elegant designs and high-quality materials.
   Updated: 2025-11-23T18:49:19Z
@@ -29380,7 +29380,7 @@ Weight: 216.1 pounds
   Updated: 2025-01-26T20:22:51Z
   Total Products: 464
 - [Lighting | Chandeliers, Floor & Table Lamps – Home Elegance](https://homeeleganceusa.com/collections/lighting): Shop lighting including chandeliers, floor lamps, table lamps, and wall fixtures. Modern, glam, and classic designs crafted to brighten and elevate any room.
-  Updated: 2025-11-25T20:40:36Z
+  Updated: 2025-11-26T18:50:24Z
   Total Products: 2202
 - [Fitness & Sports Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/fitness-sports): - Home Elegance USA
   Updated: 2024-11-06T16:06:26Z
@@ -29428,7 +29428,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T09:00:31Z
   Total Products: 1
 - [Home Decor | Wall Art, Lighting & Accent Furniture](https://homeeleganceusa.com/collections/decor): Shop home decor at Home Elegance! Find wall art, decorative mirrors, accent furniture, rugs & lighting to elevate your space. Free shipping available!
-  Updated: 2025-11-25T20:50:36Z
+  Updated: 2025-11-26T18:50:24Z
   Total Products: 2126
 - [Wall Arts | Buy Beautiful Wall Arts Online](https://homeeleganceusa.com/collections/wall-art): Browse a wide selection of beautiful wall arts online. Shop now and refresh your space!
   Updated: 2025-11-22T16:37:19Z
@@ -29536,7 +29536,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T20:37:59Z
   Total Products: 5
 - [Living Room Chairs | Accent & Recliner Seating – Home Elegance](https://homeeleganceusa.com/collections/living-room-chairs): Shop living room chairs in modern, classic & luxury styles. Accent chairs, recliners, and lounge chairs crafted for comfort, durability, and timeless design.
-  Updated: 2025-11-25T23:10:32Z
+  Updated: 2025-11-26T18:54:46Z
   Total Products: 2335
 - [Platform Beds – Modern & Upholstered Low-Profile Frames | Home Elegance USA](https://homeeleganceusa.com/collections/platform-beds): Shop platform beds with sleek low profiles, storage options, and upholstered finishes. Perfect for modern bedrooms. Free shipping nationwide.
   Updated: 2025-11-25T20:34:59Z
@@ -29837,10 +29837,10 @@ Weight: 216.1 pounds
   Total Products: 41
 - [Clearance Furniture | Designer Furniture at Unbeatable Price](https://homeeleganceusa.com/collections/clearance-furniture): Up to 70% off Clearance Furniture! 
 Upgrade your home without breaking the bank! Discover designer furniture at unbeatable prices in our Clearance Sale.
-  Updated: 2025-11-25T20:42:38Z
+  Updated: 2025-11-26T18:54:46Z
   Total Products: 50
 - [Living Room Furniture Clearance](https://homeeleganceusa.com/collections/living-room-furniture-clearance): Discover incredible savings in our living room furniture clearance. Find sofas, coffee tables, and more at discounted prices.
-  Updated: 2025-11-25T20:17:47Z
+  Updated: 2025-11-26T18:54:46Z
   Total Products: 16
 - [Bedroom Furniture Clearance | Home Elegance USA](https://homeeleganceusa.com/collections/bedroom-furniture-clearance): Bedroom furniture clearance at amazing prices! Shop beds, dressers, nightstands and more.
   Updated: 2025-11-25T20:42:38Z
@@ -30142,8 +30142,8 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2024-11-24T18:46:31Z
 - [Your privacy choices](https://homeeleganceusa.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-06-30T13:38:48Z
-- [About Us - Home Elegance USA](https://homeeleganceusa.com/pages/about-us): Welcome to Home Elegance USA At Home Elegance USA, we believe that your home should reflect your unique style and taste. With over 15 years of expe...
-  Updated: 2025-05-13T18:05:33Z
+- [About Us - Home Elegance Furniture](https://homeeleganceusa.com/pages/about-us): Welcome to Home Elegance Furniture At Home Elegance Furniture, we believe that your home should reflect your unique style and taste. With over 15 y...
+  Updated: 2025-11-26T18:23:24Z
 - [Return Policy](https://homeeleganceusa.com/pages/return-policy): Thank you for choosing Home Elegance USA! We want to ensure a positive shopping experience. Here's our return and refund policy: Returns: Return Wi...
   Updated: 2025-05-12T04:51:05Z
 - [Shop by Brand](https://homeeleganceusa.com/pages/shop-by-brand)
