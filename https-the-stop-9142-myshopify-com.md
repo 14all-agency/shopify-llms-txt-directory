@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Indiana/Indianapolis
 - Created At: 2025-11-08T22:46:01Z
-- Updated At: 2025-11-26T00:00:55.225Z
+- Updated At: 2025-11-27T00:00:42.960Z
 
 ## Products
 
@@ -68,7 +68,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/da24a5bb133449c69c07e340cd302f87-Max-Origin.webp?v=1763427434
     Price: $55.04 USD
 - [BiBi Sequin Christmas Gift Box Embroideries Pullover](https://the-stop-9142.myshopify.com/products/bibi-sequin-christmas-gift-box-embroideries-pullover): Elevate your holiday wardrobe with the Sequin Christmas Gift Box Embroideries Pullover. This charming pullover features intricate sequin embroidery depicting festive gift boxes, adding a touch of sparkle and whimsy to your look. Perfect for spreading holiday cheer and getting into the Christmas spirit. Stand out at holiday gatherings with this playful and unique sweater. Embrace the joy and magic of the season with this delightful pullover! Features:Basic style Stretch:Slightly stretchy Material composition:100% POLYESTER Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Waist S 33-35 25-27 M 35-38 27-30 L 38-40 30-32 XL 40-42 32-34
-  Updated: 2025-11-22T06:25:55Z
+  Updated: 2025-11-26T13:15:02Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -126,7 +126,7 @@
   Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/7e4e61de-497d-45ef-bbf5-25a5435844e7-Max-Origin.webp?v=1763427605
   Price: $59.99 USD
 - [RISEN High Rise Straight Jeans with Distressed Hem](https://the-stop-9142.myshopify.com/products/risen-high-rise-straight-jeans-with-distressed-hem): These high rise straight jeans feature a trendy distressed hem for a fashionable look. The distressed detailing adds a touch of edginess to the classic straight leg style. These jeans are versatile and can be dressed up or down for various occasions. The high rise design provides a flattering fit and elongates the legs. Stay on-trend with these stylish jeans featuring a unique distressed hem. Features:Distressed,Pocketed Stretch:No stretch Material composition:93% COTTON, 5% POLYESTER, 2% LYCRA Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0(24) 24 31 10.5 26-30.5 1(25) 25 32 10.5 26-30.5 3(26) 26 33 10.5 26-30.5 5(27) 27 34 11.5 26-30.5 7(28) 28 35 11.5 26-30.5 9(29) 29 36 11.5 26-30.5 11(30) 30 37 12.5 26-30.5 13(31) 31 38 12.5 26-30.5 15(32) 32 39 12.5 26-30.5
-  Updated: 2025-11-24T12:35:48Z
+  Updated: 2025-11-26T21:17:43Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -168,7 +168,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/aa41162928e7485b9585f2fecd29d05c-Max-Origin.webp?v=1763427646
     Price: $65.99 USD
 - [SO ME Soft Touch Hairy Loose Fit Cozy Sweater Cardigan](https://the-stop-9142.myshopify.com/products/so-me-soft-touch-hairy-loose-fit-cozy-sweater-cardigan): This cozy sweater cardigan is designed with a soft touch and hairy texture for ultimate comfort. The loose fit silhouette allows for easy layering and a relaxed feel. With its cozy design, this cardigan is perfect for chilly days and cozy nights. Stay warm and stylish in this versatile piece that pairs well with any outfit. Elevate your loungewear collection with this soft touch hairy sweater cardigan for a cozy and chic look. Features:Buttoned Stretch:Slightly stretchy Material composition:70%POLYESTER 30%NYLON Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Sleeve Length Top Length S 35-36 21.5 22 M 37-38 22 23 L 39-40 22.5 23.5 XL 41-43 23 24
-  Updated: 2025-11-24T20:24:11Z
+  Updated: 2025-11-26T19:20:29Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -270,7 +270,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/d28e2858c67444e7bd399dd3d5443278-Max-Origin.webp?v=1763428039
     Price: $49.99 USD
 - [RISEN Mid Rise Ankle Straight Jeans with Cuffed Hem](https://the-stop-9142.myshopify.com/products/risen-mid-rise-ankle-straight-jeans-with-cuffed-hem): Elevate your denim collection with these mid-rise ankle straight jeans featuring a cuffed hem detail. The mid-rise waist offers a comfortable and flattering fit for everyday wear. The ankle length and straight leg design create a classic and versatile silhouette that easily transitions from day to night. The cuffed hem adds a touch of on-trend style and showcases your favorite footwear. Step out in style with these chic mid-rise ankle straight jeans with a cuffed hem. Features:Raw Hem,Pocketed,Washed Stretch:Slightly stretchy Material composition:94% COTTON, 4% POLYESTER, 2% SPANDEX Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0(24) 24 31 9.5 28.5-32.5 1(25) 25 32 9.5 28.5-32.5 3(26) 26 33 9.5 28.5-32.5 5(27) 27 34 10.5 228.5-32.5 7(28) 28 35 10.5 28.5-32.5 9(29) 29 36 10.5 28.5-32.5 11(30) 30 37 11.5 28.5-32.5 13(31) 31 38 11.5 28.5-32.5 15(32) 32 39 11.5 28.5-32.5
-  Updated: 2025-11-22T06:26:07Z
+  Updated: 2025-11-26T21:18:19Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -422,14 +422,14 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/e3b1a78368524a0db0e7808272136d1c-Max-Origin.webp?v=1763428214
     Price: $19.99 USD
 - [Fame Denim Belt Accent Shoulder Bag](https://the-stop-9142.myshopify.com/products/fame-denim-belt-accent-shoulder-bag): Introducing the Denim Belt Accent Shoulder Bag, a trendy and versatile accessory for your everyday looks. This shoulder bag features a stylish denim material with a chic belt accent for a touch of modern flair. Perfect for adding a cool and casual vibe to your outfits, whether you're running errands or heading out with friends. The spacious interior offers ample room for your essentials, making it both fashionable and functional. Elevate your style with the Denim Belt Accent Shoulder Bag and make a fashion statement wherever you go! Bag size:Mini Material:90%PU 10%ALLOY Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length Actual Width Actual Height One Size 12 3.5 5.5
-  Updated: 2025-11-22T06:26:20Z
+  Updated: 2025-11-26T20:53:56Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/3e95f41c6f6448088375506c2866ae39-Max-Origin.webp?v=1763428304
   Price: $34.99 USD
 - [Fame Studded Pattern Multi Fringe Hobo Shoulder Bag](https://the-stop-9142.myshopify.com/products/fame-studded-pattern-multi-fringe-hobo-shoulder-bag): This stunning bohemian shoulder bag features premium brown leather construction with distinctive fringe detailing that creates beautiful movement and texture. The bag showcases an array of turquoise and silver studs arranged in decorative patterns, adding a Western-inspired flair. The spacious hobo-style silhouette provides ample storage while maintaining an elegant curved shape. Crafted from soft, supple leather with meticulous stitching details, this versatile piece includes an adjustable strap for comfortable shoulder or crossbody wear. The rich cognac brown leather pairs beautifully with the metallic accents, making it perfect for both casual and dressy occasions. Bag size:Medium Material:90% POLYESTER 10% ALLOY Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length Actual Height One Size 14 8
-  Updated: 2025-11-22T06:26:22Z
+  Updated: 2025-11-26T20:53:56Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -485,7 +485,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/61685080-e9e0-4f69-b702-dfacd4ac68b4-Max.webp?v=1763428372
     Price: $43.99 USD
 - [Fame Cow Print Hobo Shoulder Bag with Studded Details](https://the-stop-9142.myshopify.com/products/fame-cow-print-hobo-shoulder-bag-with-studded-details): This stylish Western-inspired shoulder bag features an eye-catching cowhide print pattern in classic brown and white coloring. Crafted from durable faux leather material, it showcases a spacious hobo-style silhouette perfect for daily use. The bag is enhanced with decorative metal studs along the edges and features an adjustable shoulder strap for comfortable carrying. Additional tassel details add a fashion bohemian touch, while the single-compartment design offers ample storage space for essentials. The authentic cowhide pattern gives it a distinctive Western ranch aesthetic, making it perfect for casual outings and adding a unique statement piece to any outfit. Bag size:Medium Material:90% POLYESTER 10% ALLOY Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length Actual Height one size 16 10.5
-  Updated: 2025-11-22T06:26:29Z
+  Updated: 2025-11-26T20:54:00Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -535,7 +535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/dbc3c20248984add92985f0bc4af35e9-Max-Origin.webp?v=1763428470
     Price: $64.99 USD
 - [Judy Blue Full Size Washed Thermal Skinny Jeans Plus Size](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size): These Washed Thermal Skinny Jeans combine style with functionality for a trendy look. Made from a stretchy thermal fabric, they provide both comfort and warmth in colder weather. The washed finish adds a cool, worn-in effect for a casual vibe. The skinny fit offers a flattering silhouette that can be easily dressed up or down. Stay cozy and fashionable while rocking these versatile and chic jeans. Features:Buttoned,Pocketed Stretch:Slightly stretchy Material composition:93.7%Cotton 5%Polyester 1.3%Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0/24 24 31 10 28.5 1/25 25 32 10 28.5 3/26 26 33 10 28.5 5/27 27 34 10 28.5 7/28 28 35 10 28.5 9/29 29 36 10 28.5 11/30 30 37 10 28.5 13/31 31 38 10 28.5 15/32 32 39 10 28.5 14W 33 40 11.8 28.5 16W 34 41 11.8 28.5 18W 35 42 11.8 28.5 20W 36 43 11.8 28.5 22W 37 44 11.8 28.5 24W 38 45 11.8 28.5
-  Updated: 2025-11-25T23:25:16Z
+  Updated: 2025-11-26T22:15:57Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -637,7 +637,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/3d386481-6207-41b4-9da4-b7100b442dba-Max-Origin.webp?v=1763511535
     Price: $34.99 USD
 - [Western Aztec Half Zip Plush Sweatshirt](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt): Features:Buttoned,Pocketed Stretch:Slightly stretchy Material composition:95%polyester,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.8 42.9 23.8 M 25.6 45.3 24.2 L 26.4 47.6 24.6 XL 27.2 50.8 25
-  Updated: 2025-11-25T23:33:42Z
+  Updated: 2025-11-26T23:20:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -663,7 +663,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/fed2810b07f04a3783ed0321a2511b62-Max-Origin.webp?v=1763511659
     Price: $45.99 USD
   - [Black / M](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt?variant=47300044161280)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/fed2810b07f04a3783ed0321a2511b62-Max-Origin.webp?v=1763511659
     Price: $45.99 USD
   - [Black / L](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt?variant=47300044194048)
@@ -801,7 +801,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1763511678
     Price: $39.06 USD
 - [Leopard Mock Neck Long Sleeve Mesh Top](https://the-stop-9142.myshopify.com/products/leopard-mock-neck-long-sleeve-mesh-top): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Waist S 24.4 31.5 24 28.3 M 25.2 33.9 24.4 30.7 L 26 36.2 24.8 33.1 XL 26.8 39.4 25.2 36.2
-  Updated: 2025-11-25T23:37:51Z
+  Updated: 2025-11-26T23:41:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
