@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-11-25T00:00:25.982Z
+- Updated At: 2025-11-27T00:00:27.680Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/FGB_2800_EST.jpg?v=1750053002
   Price: $43.00 USD
 - [Imagine Organic Picual Biologico 500ml](https://verdesmeraldaolive.us/products/imagine-organic-picual-biologico-500ml): "Imagine Organic" is a certified organic extra virgin olive oil from the prestigious Imagine Line by Verde Esmeralda Olive. Made exclusively from Picual olives, it is produced according to strict organic farming standards, without the use of pesticides or chemical fertilizers. This oil stands out for its intense and authentic aromatic profile, with a perfect balance between bitterness and spiciness. Its sophisticated design—featuring a matte black bottle with golden details—embodies the fusion of tradition and innovation, symbolizing the highest standard of culinary excellence. Thanks to organic cultivation, the oil is distinguished by its freshness and the purity of the fruit, without the use of pesticides or chemical fertilizers. Cold pressing preserves all organoleptic properties intact, ensuring a product with an intense flavor and rich aroma profile.
-  Updated: 2025-11-19T02:17:18Z
+  Updated: 2025-11-25T15:10:02Z
   Vendor: Verde Esmeralda Tienda
   Product Type: 
   Availability: Available
