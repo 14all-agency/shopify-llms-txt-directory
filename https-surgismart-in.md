@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-11-26T00:01:17.551Z
+- Updated At: 2025-11-27T00:00:30.891Z
 
 ## Products
 
@@ -1361,7 +1361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_312c6463-4ede-4c83-9125-ca509f92acd7.jpg?v=1751478429
   Price: ₹1,999.00 INR
 - [Buy ​Medvance Memory Foam Donut Cushion Pro - Surgismart](https://surgismart.in/products/medvance-donut-cushion-pro-memory-foam-tailbone-and-lumbar-support): Experience unparalleled comfort and relief with the Medvance Memory Foam Donut Cushion. Perfectly designed for those dealing with tailbone pain, hemorrhoids, post-surgery discomfort, or prolonged sitting, this cushion offers exceptional support and promotes proper posture. Key Features: Superior Comfort and Support Memory Foam Construction: Made from high-quality memory foam, this cushion adapts to your body's contours, providing customized support and relieving pressure points. Ergonomic Design Donut Shape: The donut shape alleviates pressure on the tailbone and lower back, making it ideal for those recovering from surgery or dealing with sensitive areas. Pain Relief Multi-Purpose Use: Excellent for hemorrhoid relief, post-natal discomfort, sciatica, and other pain conditions. The ergonomic design ensures comfort during extended sitting periods. Durable and Long-Lasting High-Quality Materials: The memory foam maintains its shape and firmness even after prolonged use, ensuring consistent support. Breathable and Hygienic Removable Cover: The cushion comes with a breathable, removable cover that allows for easy cleaning and ensures a fresh sitting experience every time. Versatile and Portable Perfect for Any Chair: Use it at home, in the office, in your car, or even on airplane seats. Its portable design makes it easy to carry wherever you go. Why Choose Medvance Memory Foam Donut Cushion? Invest in your comfort and well-being with the Medvance Memory Foam Donut Cushion. Whether you’re dealing with chronic pain, recovering from surgery, or simply need better support during long sitting sessions, this cushion is designed to provide relief and improve your overall sitting experience. Say goodbye to discomfort and hello to all-day comfort with Medvance. - Surgismart
-  Updated: 2025-10-15T09:37:33Z
+  Updated: 2025-11-26T04:07:08Z
   Vendor: Medvance Surgicals
   Product Type: CUSHION
   Availability: Available
@@ -3277,7 +3277,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-11-25T12:17:59Z
+  Updated: 2025-11-26T12:18:05Z
   Total Products: 153
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-11-10T12:17:21Z
@@ -3460,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-11-25T12:17:59Z
+  Updated: 2025-11-26T12:18:05Z
   Total Products: 5
 
 ## Blogs
