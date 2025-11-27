@@ -44,7 +44,7 @@ Ethical Brilliance. Timeless Elegance.
 - Created At: 2025-01-16T13:53:30Z
 - Contact Email: Info@chantalvaulet.com 
 - Contact Phone: +48 575 543 743
-- Updated At: 2025-11-25T00:01:22.747Z
+- Updated At: 2025-11-27T00:00:34.990Z
 
 ## Products
 
@@ -12520,7 +12520,7 @@ Ethical Brilliance. Timeless Elegance.
   Updated: 2025-10-21T19:00:14Z
   Total Products: 2
 - [Marquise Engagement Rings | Vintage Moissanite & Lab Diamonds](https://www.chantalvaulet.com/collections/engagement-rings-marquise): Shop marquise engagement rings with elegant, elongated shapes. Moissanite and lab-grown diamonds bring vintage charm to modern love.
-  Updated: 2025-11-15T19:19:53Z
+  Updated: 2025-11-26T18:54:40Z
   Total Products: 4
 - [Radiant-Cut Engagement Rings | Moissanite & Lab Diamond Sparkle](https://www.chantalvaulet.com/collections/engagement-rings-radiant-cut): Discover radiant-cut engagement rings with intense sparkle and brilliance. Choose moissanite or lab-grown diamonds in dazzling designs.
   Updated: 2025-11-08T16:13:25Z
