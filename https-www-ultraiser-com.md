@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-09-05T05:49:56Z
 - Contact Email: sales@ultraiser.com
-- Updated At: 2025-11-26T00:00:26.627Z
+- Updated At: 2025-11-27T00:00:27.705Z
 
 The ULTRAISER is a portable HIFU (High-Intensity Focused Ultrasound) machine designed for home use, focusing on anti-aging and skin smoothing treatments. It is available for purchase online.
 
@@ -20,7 +20,7 @@ The ULTRAISER is a portable HIFU (High-Intensity Focused Ultrasound) machine des
   Image: https://cdn.shopify.com/s/files/1/0818/9250/7927/files/ULTRAISERP1-PortableHome-useHIFUDevice.jpg?v=1699067484
   Price: £799.00 GBP
 - [HIFU Machine Professional | HIFU Pro | ULTRAISER P1 Pro](https://www.ultraiser.com/products/ultraiser-p1-pro-professional-portable-hifu-device): Professional HIFU machine ULTRAISER P1 Pro: Optimally designed for treatments around eyes, wrinkles and curved areas of the face. Your professional HIFU device!
-  Updated: 2025-11-03T12:17:42Z
+  Updated: 2025-11-26T22:40:36Z
   Vendor: Ultraiser
   Product Type: 
   Availability: Available
@@ -41,7 +41,7 @@ The ULTRAISER is a portable HIFU (High-Intensity Focused Ultrasound) machine des
   Image: https://cdn.shopify.com/s/files/1/0818/9250/7927/files/5ec50b6bc8c36.jpg?v=1701155093
   Price: £199.00 GBP
 - [HIFU Gel | Ultrasound Gel | ULTRAISER](https://www.ultraiser.com/products/ultrasound-gel): The HIFU Gel TranShape has been specifically produced for HIFU devices and enables optimal ultrasound transmission to the skin. Ultrasound gel ingredients.
-  Updated: 2025-09-22T17:13:11Z
+  Updated: 2025-11-26T22:40:37Z
   Vendor: Ultraiser
   Product Type: 
   Availability: Available
