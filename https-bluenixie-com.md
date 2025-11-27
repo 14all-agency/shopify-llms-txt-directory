@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-05-03T12:56:46Z
 - Contact Email: bluenixiein23@gmail.com
-- Updated At: 2025-11-26T00:01:06.549Z
+- Updated At: 2025-11-27T00:00:28.738Z
 
 ## Products
 
@@ -3613,7 +3613,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-Skin.png?v=1689767498
     Price: ₹960.00 INR
 - [Buy Cotton Rich Full Coverage T-Shirt Bra Combo set of 2 Black Colors  - Bluenixie](https://bluenixie.com/products/full-coverage-t-shirt-bra-combo-set-of-2-black-colors): Bluenixie's Full Coverage T-Shirt Bra, a set of 2 black color combo of t-shirt bra Colorful & Comfy. Smooth finish, invisible under clothes. Elevate your style with vibrant basics.
-  Updated: 2025-07-30T07:38:15Z
+  Updated: 2025-11-26T19:36:46Z
   Vendor: Blue Nixie
   Product Type: Full coverage bra
   Availability: Available
