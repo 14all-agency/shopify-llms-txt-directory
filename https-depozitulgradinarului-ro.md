@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-11-26T00:01:00.227Z
+- Updated At: 2025-11-27T00:00:36.694Z
 
 ## Products
 
@@ -1295,49 +1295,49 @@ Substanta activa: flonicamid 500 g/kg
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.04_7.jpg?v=1739733631
   Price: 2,99 lei RON
 - [Seminte Salvie, AGROSEM – 1 GR | Planta Medicinala & Condiment Aromat](https://depozitulgradinarului.ro/products/seminte-salvie-agrosem-1-gr): Seminte Salvie, Agrosem (1 gr) - planta medicinala si condiment aromat, frunze si flori pentru ceai, supe, sosuri, cultivare usoara in gradina proprie.
-  Updated: 2025-11-25T19:18:58Z
+  Updated: 2025-11-26T12:13:46Z
   Vendor: AGROSEM
   Product Type: Seminte Plante Aromatice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.05_84330cc0-a403-48a7-b989-05b841e9cb5b.jpg?v=1739733773
   Price: 2,99 lei RON
 - [Seminte Tarhon, AGROSEM – 0.5 GR | Plantă Perenă Aromată](https://depozitulgradinarului.ro/products/seminte-tarhon-agrosem-0-5-gr): Seminte Tarhon, Agrosem (0.5 gr) - condiment aromat peren, ideal pentru salate, muraturi, supe, mancaruri cu pui sau peste, frunze proaspete sau uscate.
-  Updated: 2025-11-25T19:07:22Z
+  Updated: 2025-11-26T07:05:46Z
   Vendor: AGROSEM
   Product Type: Seminte Plante Aromatice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.04_3.jpg?v=1739733461
   Price: 2,99 lei RON
 - [Seminte Pepene Galben ANANAS D’AMERIQUE, AGROSEM – 2 GR](https://depozitulgradinarului.ro/products/seminte-pepene-galben-ananas-d-amerique-agrosem-2-gr): Seminte Pepene Galben Ananas d’Amerique, Agrosem – soi semi-timpuriu, fructe 2–2.5 kg, pulpa portocaliu-deschis, dulce, suculent si cu gust exotic de ananas.
-  Updated: 2025-11-25T18:59:56Z
+  Updated: 2025-11-26T07:00:14Z
   Vendor: AGROSEM
   Product Type: Seminte Fructe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.04_15.jpg?v=1740080738
   Price: 2,99 lei RON
 - [Seminte Pepene Galben HALE’S BEST JUMBO, AGROSEM – 2 GR](https://depozitulgradinarului.ro/products/seminte-pepene-galben-hale-s-best-jumbo-agrosem-2-gr): Seminte Pepene Galben Hale’s Best Jumbo, Agrosem – soi timpuriu, 1.5–1.7 kg, pulpa portocalie dulce si zemoasa, foarte aromat, ideal pentru culturi productive in camp.
-  Updated: 2025-11-25T18:55:30Z
+  Updated: 2025-11-26T06:55:52Z
   Vendor: AGROSEM
   Product Type: Seminte Fructe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.05_1.jpg?v=1740080774
   Price: 2,99 lei RON
 - [Seminte Pepene Verde CRIMSON SWEET, AGROSEM – 2 GR](https://depozitulgradinarului.ro/products/seminte-pepene-verde-crimson-sweet-agrosem-2-gr): Seminte Pepene Verde Crimson Sweet, Agrosem – soi timpuriu, 8–12 kg, rotund, rosu aprins, foarte dulce si zemos, ideal pentru culturi productive si consum proaspat.
-  Updated: 2025-11-25T16:26:53Z
+  Updated: 2025-11-26T04:23:56Z
   Vendor: AGROSEM
   Product Type: Seminte Fructe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.05_2.jpg?v=1740080806
   Price: 2,99 lei RON
 - [Seminte Pepene Verde KLONDIKE BLUE RIBBON, AGROSEM – 2 GR](https://depozitulgradinarului.ro/products/seminte-pepene-verde-klondike-blue-ribbon-agrosem-2-gr): Seminte Pepene Verde Klondike Blue Ribbon, Agrosem – soi timpuriu, fructe 8–12 kg, alungite, rosii intens, foarte dulci, ideale pentru productii mari si aspect comercial.
-  Updated: 2025-11-25T16:16:13Z
+  Updated: 2025-11-26T04:15:46Z
   Vendor: AGROSEM
   Product Type: Seminte Fructe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.05_4.jpg?v=1740080844
   Price: 2,99 lei RON
 - [Seminte Pepene Verde SUGAR BABY, AGROSEM – 2 GR](https://depozitulgradinarului.ro/products/seminte-pepene-verde-sugar-baby-agrosem-2-gr): Seminte Pepene Verde SUGAR BABY, Agrosem – soi timpuriu, foarte dulce, rotund, 4–6 kg, rezistent la seceta, ideal pentru culturi rapide si productii ridicate.
-  Updated: 2025-11-25T16:09:41Z
+  Updated: 2025-11-26T04:09:57Z
   Vendor: AGROSEM
   Product Type: Seminte Fructe
   Availability: Available
@@ -1351,14 +1351,14 @@ Substanta activa: flonicamid 500 g/kg
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.49_6.jpg?v=1739903752
   Price: 2,99 lei RON
 - [Seminte Ardei Gras D'ASTI ROSSO, AGROSEM – 0.7 GR](https://depozitulgradinarului.ro/products/seminte-ardei-gras-dasti-rosso-agrosem-0-7-gr): Seminte Ardei Gras DASTI ROSSO, AGROSEM – 0.7 gr, soi timpuriu cu ardei mari, cubici, rosii intens, cu pulpa groasa si crocanta, ideali pentru salate si gatit.
-  Updated: 2025-11-25T16:02:27Z
+  Updated: 2025-11-26T04:02:40Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.44_3.jpg?v=1739902508
   Price: 2,99 lei RON
 - [Seminte Ardei Gras HUNGARIAN, AGROSEM – 0.7 GR](https://depozitulgradinarului.ro/products/seminte-ardei-gras-hungarian-agrosem-0-7-gr): Seminte Ardei Gras HUNGARIAN, AGROSEM - Ardei galben-deschis, conici, cu pulpă groasă și suculentă. Cultură timpurie, viguroasă și extrem de productivă!
-  Updated: 2025-11-25T15:56:51Z
+  Updated: 2025-11-26T03:57:08Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -4252,7 +4252,7 @@ Livrare rapidă!
   Updated: 2025-10-31T11:26:59Z
   Total Products: 11
 - [Accesorii Casă & Grădină | Unelte, Irigare, Gazon, Raticide](https://depozitulgradinarului.ro/collections/casa-gradina): Descoperă accesorii pentru grădinărit, unelte, sisteme de irigare, semințe de gazon și soluții eficiente pentru combaterea șoarecilor și șobolanilor.
-  Updated: 2025-11-23T14:24:43Z
+  Updated: 2025-11-26T12:37:42Z
   Total Products: 148
 - [Semințe Profesionale Legume și Fructe – Hibrizi Productivi](https://depozitulgradinarului.ro/collections/seminte-profesionale-hybrizi): Alege semințe profesionale de legume și fructe, hibrizi productivi, de calitate pentru grădină, solarii și câmp. Soiuri cu randament ridicat, ideale pentru cultivatori exigenți.
   Updated: 2025-11-09T12:00:42Z
@@ -4264,7 +4264,7 @@ Livrare rapidă!
   Updated: 2025-11-15T13:06:09Z
   Total Products: 47
 - [Unelte și Accesorii de Grădinărit | Foarfeci, Topoare, Greble și Sisteme de Irigare](https://depozitulgradinarului.ro/collections/unelte-accesorii-gradinarit): Descoperă o gamă variată de unelte și accesorii de grădinărit, inclusiv foarfeci, greble, ciocane, lopeți, furci și sisteme de irigare. Echipamente de calitate pentru toate nevoile tale de grădinărit.
-  Updated: 2025-11-23T14:24:43Z
+  Updated: 2025-11-26T12:37:42Z
   Total Products: 76
 - [Îngrășăminte Foliare Profesionale | Legume, Pomi, Culturi Agricole, Gazon, Cereale, Flori, Tuia, Plante Furajere](https://depozitulgradinarului.ro/collections/ingrasaminte-foliare): Îngrășăminte foliare profesionale pentru legume, pomi, flori, gazon, tuia, plante furajere și culturi agricole, precum: porumb, floarea-soarelui, grâu. Soluții lichide rapide, cu absorbție eficientă prin frunze, pentru plante viguroase.
   Updated: 2025-11-23T15:01:19Z
@@ -4348,7 +4348,7 @@ Livrare rapidă!
   Updated: 2025-06-09T14:17:00Z
   Total Products: 2
 - [Accesorii Grădină & Terasă | Ghivece și Ornamente Decorative](https://depozitulgradinarului.ro/collections/accesorii-gradina-terasa): Descoperă accesorii pentru grădină și terasă: ghivece de flori în diverse modele și dimensiuni, ornamente de exterior, decorațiuni elegante și practice!
-  Updated: 2025-10-07T17:52:48Z
+  Updated: 2025-11-26T12:37:42Z
   Total Products: 8
 - [Zootehnie - Hrană, Suplimente și Echipamente | Depozitul Grădinarului](https://depozitulgradinarului.ro/collections/zootehnie): Descoperă produse zootehnice de calitate superioară la Depozitul Grădinarului. Hrană pentru animale, suplimente nutritive și echipamente profesionale pentru o fermă performantă!
   Updated: 2025-11-21T12:32:43Z
@@ -4384,13 +4384,14 @@ Livrare rapidă!
   - [AGROSAN B : Soluția Eficientă împotriva Melcilor din grădina dumneavoastră!](https://depozitulgradinarului.ro/blogs/articole/agrosan-b-solutia-eficienta-impotriva-melcilor-din-gradina-dumneavoastra)
     Updated: 2025-11-25T17:57:14Z
     Author: Sântimbrean Marius
-  - [Gazonul Universal: Soluția Ideală pentru o Peluză Perfectă](https://depozitulgradinarului.ro/blogs/articole/gazonul-universal-soluția-ideala-pentru-o-peluza-perfecta)
-    Updated: 2025-11-25T17:45:57Z
+  - [Gazonul Universal: Soluția Ideală pentru o Peluză Perfectă](https://depozitulgradinarului.ro/blogs/articole/gazonul-universal-soluția-ideala-pentru-o-peluza-perfecta): <p>Gazonul Universal este cea mai sigură alegere pentru curțile din România: rezistă la trafic, soare, semiumbră și necesită întreținere minimă. În acest ghid afli cum îl alegi, cum îl semeni corect, ce produse îți trebuie și cum îl menții verde tot sezonul. Ideal pentru proprietarii care vor o peluză frumoasă fără efort excesiv.</p>
+    Updated: 2025-11-26T10:45:42Z
     Author: Sântimbrean Marius
     Tags: gazon
-  - [Îngrășământul Foliar Cropmax: Stimularea Creșterii și Dezvoltării Plantelor](https://depozitulgradinarului.ro/blogs/articole/ingrasamantul-foliar-cropmax-stimularea-cresterii-si-dezvoltarii-plantelor)
-    Updated: 2025-11-25T17:55:57Z
+  - [Îngrășământul Foliar Cropmax: Stimularea Creșterii și Dezvoltării Plantelor](https://depozitulgradinarului.ro/blogs/articole/ingrasamantul-foliar-cropmax-stimularea-cresterii-si-dezvoltarii-plantelor): <p>Cropmax este un biostimulator 100% natural, conceput pentru a ajuta plantele să treacă peste stres: caniculă, secetă, frig, grindină sau fitotoxicitate. Conține aminoacizi, hormoni vegetali, vitamine și microelemente care accelerează regenerarea, stimulează înflorirea, legarea și dezvoltarea rădăcinilor. Ideal pentru legume, pomi, vie, răsaduri, flori și gazon.</p>
+    Updated: 2025-11-26T10:46:35Z
     Author: Sântimbrean Marius
+    Tags: Îngrășământul Foliar
   - [Pesticide naturale vs chimice | Depozitul Grădinarului](https://depozitulgradinarului.ro/blogs/articole/pesticide-naturale-vs-chimice-ghid-responsabil): Pesticide naturale vs chimice | Depozitul Grădinarului
     Updated: 2025-11-25T19:26:05Z
     Author: Sântimbrean Marius
