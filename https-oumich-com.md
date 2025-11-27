@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-11-26T00:00:27.666Z
+- Updated At: 2025-11-27T00:00:28.216Z
 
 ## Products
 
@@ -1650,7 +1650,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Koper_model.jpg?v=1763744811
   Price: € 11,70 EUR
 - [Maxi Jersey hijab Dennenappel - extra zacht en rekbaar](https://oumich.com/products/maxi-jersey-hijab-dennenappel): Maxi Jersey Hijab in kleur Dennenappel (75x180cm). Premium lycra stof, extra zacht en rekbaar. Kreukt niet en blijft mooi zitten. Nu bestellen!
-  Updated: 2025-11-25T22:49:59Z
+  Updated: 2025-11-26T10:50:04Z
   Vendor: byOumich
   Product Type: Direct sales
   Availability: Available
