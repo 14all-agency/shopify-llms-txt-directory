@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-11-26T00:00:37.215Z
+- Updated At: 2025-11-27T00:01:23.503Z
 
 ## Products
 
@@ -33502,10 +33502,10 @@
   Updated: 2025-11-20T23:14:18Z
   Total Products: 35
 - [Dover {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/dover-fabric): - The Tablecloth Store
-  Updated: 2025-11-20T23:11:55Z
+  Updated: 2025-11-26T12:22:27Z
   Total Products: 4
 - [Derby {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/derby): - The Tablecloth Store
-  Updated: 2025-11-20T23:11:57Z
+  Updated: 2025-11-26T12:22:27Z
   Total Products: 5
 - [Treasure {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/treasure): - The Tablecloth Store
   Updated: 2025-11-20T23:12:12Z
@@ -33682,10 +33682,10 @@
   Updated: 2025-11-20T23:15:24Z
   Total Products: 3
 - [APPPlaza - Best Sellers - The Tablecloth Store](https://thetableclothstore.com/collections/appplaza-best-sellers): - The Tablecloth Store
-  Updated: 2025-11-20T23:16:56Z
+  Updated: 2025-11-26T12:22:27Z
   Total Products: 613
 - [All Products (ChatGPT-AI Product Description) - The Tablecloth Store](https://thetableclothstore.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - The Tablecloth Store
-  Updated: 2025-11-20T23:16:56Z
+  Updated: 2025-11-26T12:22:27Z
   Total Products: 613
 - [SPRING GARDEN - The Tablecloth Store](https://thetableclothstore.com/collections/spring-garden): - The Tablecloth Store
   Updated: 2025-11-20T23:15:27Z
@@ -33694,7 +33694,7 @@
   Updated: 2025-10-20T16:51:29Z
   Total Products: 7
 - [Our full catalog - The Tablecloth Store](https://thetableclothstore.com/collections/our-full-catalog): - The Tablecloth Store
-  Updated: 2025-11-20T23:16:56Z
+  Updated: 2025-11-26T12:22:27Z
   Total Products: 592
 - [Try out - The Tablecloth Store](https://thetableclothstore.com/collections/try-out): - The Tablecloth Store
   Updated: 2025-09-04T18:59:07Z
@@ -33703,7 +33703,7 @@
   Updated: 2025-11-20T23:14:11Z
   Total Products: 22
 - [New! Shopify performance sharing is now turned on - The Tablecloth Store](https://thetableclothstore.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - The Tablecloth Store
-  Updated: 2025-11-20T23:16:56Z
+  Updated: 2025-11-26T12:22:27Z
   Total Products: 613
 
 ## Blogs
