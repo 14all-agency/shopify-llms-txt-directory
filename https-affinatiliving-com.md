@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-27T00:04:18.450Z
+- Updated At: 2025-11-27T04:00:31.121Z
 
 ## Products
 
@@ -6276,8 +6276,8 @@
   Product Type: 
   Availability: Available
   Price: $0.00 USD
-- [Original/Small Wooden Wick Candle Containers (Pack of 12)](https://affinatiliving.com/products/original-small-wooden-wick-candle-containers)
-  Updated: 2025-11-24T19:44:41Z
+- [Original/Small Wooden Wick Candle Containers (12 Pack)](https://affinatiliving.com/products/original-small-wooden-wick-candle-containers)
+  Updated: 2025-11-27T03:53:34Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6331,13 +6331,13 @@
   Availability: Not Available
   Price: $0.00 USD
 - [3-Wick Red Jars (12 Pack)](https://affinatiliving.com/products/3-wick-red-jars)
-  Updated: 2025-11-22T19:12:22Z
+  Updated: 2025-11-27T03:51:51Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [3-Wick Black Jars (12 Pack)](https://affinatiliving.com/products/3-wick-black-jars)
-  Updated: 2025-11-14T00:56:16Z
+  Updated: 2025-11-27T03:52:05Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6360,14 +6360,14 @@
   Product Type: 
   Availability: Available
   Price: $0.00 USD
-- [Medium Wooden Wick Candle Containers](https://affinatiliving.com/products/medium-wooden-wick-candle-containers)
-  Updated: 2025-11-09T23:05:38Z
+- [Medium Wooden Wick Candle Containers (12 Pack)](https://affinatiliving.com/products/medium-wooden-wick-candle-containers)
+  Updated: 2025-11-27T03:53:06Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
-- [Large Wooden Wick Candle Containers](https://affinatiliving.com/products/large-wooden-wick-candle-containers)
-  Updated: 2025-11-09T23:05:38Z
+- [Large Wooden Wick Candle Containers (12 Pack)](https://affinatiliving.com/products/large-wooden-wick-candle-containers)
+  Updated: 2025-11-27T03:53:21Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6433,7 +6433,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Packing Peanuts (5 Cubic Feet Bag)](https://affinatiliving.com/products/packing-peanuts-cubic-feet)
-  Updated: 2025-11-24T19:46:46Z
+  Updated: 2025-11-27T03:52:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6715,11 +6715,11 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/4AB28387-47CA-4A09-B37C-8238E04E538A.png?v=1763304499
   Price: $8.95 USD
-- [ECO 12 6” Wicks Box of 1000](https://affinatiliving.com/products/eco-12-6-wicks-box-of-1000)
-  Updated: 2025-11-14T19:24:37Z
+- [ECO 10 6” Wicks Box of 1000](https://affinatiliving.com/products/eco-12-6-wicks-box-of-1000): For Original & Signature.
+  Updated: 2025-11-27T03:51:03Z
   Vendor: Affinati
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Price: $0.00 USD
 - [Eucalyptus Pine Reed Diffuser](https://affinatiliving.com/products/eucalyptus-pine-reed-diffuser): Refresh your home with the Eucalyptus & Pine Reed Diffuser. Crisp eucalyptus and fresh pine create a clean, spa-like scent with long-lasting, flame-free fragrance.
   Updated: 2025-11-23T15:00:30Z
@@ -7237,6 +7237,88 @@
   - [Pack of 5](https://affinatiliving.com/products/blackberry-sage-shea-butter-body-lotion-10-oz?variant=58407058866257)
     Availability: Available
     Price: $64.95 USD
+- [Blackberry Absinthe Room Spray](https://affinatiliving.com/products/blackberry-absinthe-room-spray): Elevate your space with Affinati’s Blackberry Absinthe Room & Linen Spray—dark berries, warm absinthe, and woods for a rich, long-lasting, luxurious aroma.
+  Updated: 2025-11-27T00:40:48Z
+  Vendor: Affinati
+  Product Type: Room & Linen Spray
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageApr30_2025_01_27_00PM.png?v=1746034067
+  - [Single Order / Small (1 fl/oz)](https://affinatiliving.com/products/blackberry-absinthe-room-spray?variant=58415743270993)
+    Availability: Available
+    Price: $6.95 USD
+  - [Single Order / Large (4 fl/oz)](https://affinatiliving.com/products/blackberry-absinthe-room-spray?variant=58415743303761)
+    Availability: Available
+    Price: $8.95 USD
+  - [Pack of 3 / Small (1 fl/oz)](https://affinatiliving.com/products/blackberry-absinthe-room-spray?variant=58415743336529)
+    Availability: Available
+    Price: $14.95 USD
+  - [Pack of 3 / Large (4 fl/oz)](https://affinatiliving.com/products/blackberry-absinthe-room-spray?variant=58415743369297)
+    Availability: Available
+    Price: $19.95 USD
+  - [Pack of 5 / Small (1 fl/oz)](https://affinatiliving.com/products/blackberry-absinthe-room-spray?variant=58415743402065)
+    Availability: Available
+    Price: $24.95 USD
+  - [Pack of 5 / Large (4 fl/oz)](https://affinatiliving.com/products/blackberry-absinthe-room-spray?variant=58415743434833)
+    Availability: Available
+    Price: $29.95 USD
+- [Blackberry Absinthe Reed Diffuser](https://affinatiliving.com/products/blackberry-absinthe-reed-diffuser): A deep, luxurious home fragrance. Our Blackberry Absinthe Reed Diffuser blends dark berries and aromatic absinthe for a smooth, long-lasting, flame-free scent.
+  Updated: 2025-11-27T00:40:56Z
+  Vendor: Affinati
+  Product Type: Reed Diffuser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_25_2025_at_05_53_43_PM.png?v=1764111730
+  Price: $17.95 USD
+- [3-Wick Blackberry Absinthe Candle](https://affinatiliving.com/products/3-wick-blackberry-absinthe-candle): A deep, luxurious scent. Our Blackberry Absinthe 3-Wick Candle blends dark berries, plum, and absinthe for a rich, smooth, long-lasting fragrance in any room.
+  Updated: 2025-11-27T00:41:04Z
+  Vendor: Affinati
+  Product Type: Candles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/59856D7C-4FC6-4B4A-A6F0-09546A9DC76D.png?v=1764111397
+  - [Single Order](https://affinatiliving.com/products/3-wick-blackberry-absinthe-candle?variant=58415746941009)
+    Availability: Available
+    Price: $27.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/3-wick-blackberry-absinthe-candle?variant=58415746973777)
+    Availability: Available
+    Price: $74.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/3-wick-blackberry-absinthe-candle?variant=58415747006545)
+    Availability: Available
+    Price: $119.95 USD
+- [Blackberry Absinthe Signature Candle](https://affinatiliving.com/products/blackberry-absinthe-signature-candle): A rich, luxurious scent. Our Blackberry Absinthe Signature Candle blends dark berries, plum, and absinthe for a smooth, elegant, long-lasting home fragrance.
+  Updated: 2025-11-27T00:41:11Z
+  Vendor: Affinati
+  Product Type: Candles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/68C65C54-4B24-4813-ABD7-678EDD79BBBC.png?v=1764111536
+  - [Single Order](https://affinatiliving.com/products/blackberry-absinthe-signature-candle?variant=58415748644945)
+    Availability: Available
+    Price: $17.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/blackberry-absinthe-signature-candle?variant=58415748677713)
+    Availability: Available
+    Price: $44.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/blackberry-absinthe-signature-candle?variant=58415748710481)
+    Availability: Available
+    Price: $72.95 USD
+- [Blackberry Absinthe Original Candle](https://affinatiliving.com/products/blackberry-absinthe-original-candle): Indulge in luxury with our Blackberry Absinthe Original Candle. Dark berries, plum, and absinthe create a smooth, moody, long-lasting fragrance in any room.
+  Updated: 2025-11-27T00:41:18Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7788.png?v=1764112371
+  - [Single Order](https://affinatiliving.com/products/blackberry-absinthe-original-candle?variant=58415750217809)
+    Availability: Available
+    Price: $16.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/blackberry-absinthe-original-candle?variant=58415750250577)
+    Availability: Available
+    Price: $39.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/blackberry-absinthe-original-candle?variant=58415750283345)
+    Availability: Available
+    Price: $64.95 USD
+- [ECO 6 6” Wicks Box of 1000](https://affinatiliving.com/products/eco-6-6-wicks-box-of-1000): For 3 Wick.
+  Updated: 2025-11-27T03:51:28Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Not Available
+  Price: $0.00 USD
 
 ## Collections
 
@@ -7244,10 +7326,10 @@
   Updated: 2025-05-15T08:35:05Z
   Total Products: 0
 - [3-Wick Candles](https://affinatiliving.com/collections/3-wick-candles): Discover Affinati’s 3-Wick Candle Collection — luxury soy candles with powerful fragrance throw, clean burn, and elegant jars. Perfect for filling any room with long-lasting scent.
-  Updated: 2025-11-26T18:43:15Z
+  Updated: 2025-11-27T00:41:02Z
   Total Products: 83
 - [Signature Candles](https://affinatiliving.com/collections/signature-candles): Shop Affinati’s Signature Candle Collection — hand-poured soy candles crafted for long-lasting fragrance and elegant design. Elevate your home with luxury scents made for everyday moments.
-  Updated: 2025-11-26T18:46:25Z
+  Updated: 2025-11-27T00:41:10Z
   Total Products: 63
 - [Whipped Soap](https://affinatiliving.com/collections/whipped-soap): Lather up with Affinati’s Whipped Soap Collection — creamy, cloud-like soaps that cleanse, hydrate, and leave skin silky smooth with long-lasting luxury fragrance.
   Updated: 2025-11-25T12:08:36Z
@@ -7259,10 +7341,10 @@
   Updated: 2025-11-09T23:34:08Z
   Total Products: 10
 - [Room & Linen Sprays](https://affinatiliving.com/collections/room-linen-sprays): Shop Affinati Room Sprays for long-lasting home fragrance. Premium, eco-friendly scents designed to refresh any room instantly. Luxury quality under $25.
-  Updated: 2025-11-26T14:15:27Z
+  Updated: 2025-11-27T00:40:53Z
   Total Products: 40
 - [Reed Diffusers](https://affinatiliving.com/collections/reed-diffusers): Fill your home with lasting fragrance from Affinati’s Reed Diffuser Collection — elegant, flame-free diffusers crafted with premium oils for continuous scent.
-  Updated: 2025-11-25T22:51:49Z
+  Updated: 2025-11-27T00:40:55Z
   Total Products: 37
 - [Body Scrubs](https://affinatiliving.com/collections/body-scrubs): Exfoliate and nourish with Affinati’s Body Scrubs Collection — whipped sugar scrubs crafted with skin-loving ingredients for smooth, glowing skin and long-lasting fragrance.
   Updated: 2025-11-01T11:07:27Z
@@ -7277,13 +7359,13 @@
   Updated: 2025-11-16T12:08:28Z
   Total Products: 3
 - [All Candle Collections](https://affinatiliving.com/collections/all-candle-collections): Shop Affinati’s full Candle Collection — from Wooden Wick and 3-Wick candles to Signature and Original designs. Hand-poured soy candles with long-lasting, luxury fragrance for every space.
-  Updated: 2025-11-26T18:50:14Z
+  Updated: 2025-11-27T00:41:22Z
   Total Products: 279
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
   Updated: 2025-11-26T14:15:27Z
   Total Products: 78
 - [All Home Care Collections](https://affinatiliving.com/collections/all-home-care-collections)
-  Updated: 2025-11-26T14:15:27Z
+  Updated: 2025-11-27T00:40:55Z
   Total Products: 77
 - [Apothecary Candles](https://affinatiliving.com/collections/apothecary-candles)
   Updated: 2025-11-25T12:08:36Z
@@ -7301,7 +7383,7 @@
   Updated: 2025-05-15T08:35:07Z
   Total Products: 0
 - [Original Candles](https://affinatiliving.com/collections/original-candles): Explore Affinati’s Original Candle Collection — hand-poured soy candles designed for everyday luxury. Clean-burning, long-lasting scents that bring warmth and elegance to any space.
-  Updated: 2025-11-26T18:50:14Z
+  Updated: 2025-11-27T00:41:22Z
   Total Products: 82
 - [Wooden Wick Candles](https://affinatiliving.com/collections/wooden-wick-candles): Discover Affinati’s Wooden Wick Candles — premium soy candles with a cozy crackling burn. Long-lasting, clean fragrance blends designed to create a warm, luxurious atmosphere for your home.
   Updated: 2025-11-26T14:15:27Z
@@ -7310,16 +7392,16 @@
   Updated: 2025-11-26T18:52:53Z
   Total Products: 98
 - [Winter Candle Scents](https://affinatiliving.com/collections/winter-candle-scents)
-  Updated: 2025-11-26T18:52:53Z
+  Updated: 2025-11-27T00:41:22Z
   Total Products: 115
 - [Fall Candle Scents](https://affinatiliving.com/collections/fall-candle-scents)
-  Updated: 2025-11-26T18:51:07Z
+  Updated: 2025-11-27T00:41:22Z
   Total Products: 106
 - [Spring Candle Scents](https://affinatiliving.com/collections/spring-candle-scents)
   Updated: 2025-11-26T18:48:22Z
   Total Products: 85
 - [Masculine Candle Scents](https://affinatiliving.com/collections/masculine-scents): Explore the Masculine Candle Collection — bold scents like Smoked Bourbon, Mahogany Teakwood, and Tobacco. Long-lasting 3-wick and wooden wick candles with rich, rugged aromas.
-  Updated: 2025-11-25T23:02:49Z
+  Updated: 2025-11-27T00:41:22Z
   Total Products: 51
 - [Fruity Candle Scents](https://affinatiliving.com/collections/fruity): Explore the Fruity Scents Collection — candles, diffusers, and room sprays in vibrant aromas like Strawberry Bliss, Blackberry Sage, and Coconut Flakes. Sweet, juicy, long-lasting fragrance for every room.
   Updated: 2025-11-25T23:04:36Z
