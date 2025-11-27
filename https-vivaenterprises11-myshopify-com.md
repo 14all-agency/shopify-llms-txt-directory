@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-10-22T16:52:50Z
 - Contact Email: vicky2more@gmail.com
-- Updated At: 2025-11-24T00:02:12.857Z
+- Updated At: 2025-11-27T00:01:49.731Z
 
 ## Products
 
@@ -29296,8 +29296,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_64_c39d88f8-27e7-49ad-bce0-f4d7188ffb3f.jpg?v=1763639521
     Price: ₹299.00 INR
-- [Unisex Basic T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-71): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-21T00:14:42Z
+- [Golden Tribal Crest Tee](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-71): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T22:31:35Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -29708,8 +29708,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_ffc0d2b9-2633-4d52-a7bf-65fbd0503866.jpg?v=1763639519
     Price: ₹398.00 INR
-- [Unisex Classic Crew T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-61): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-21T08:37:22Z
+- [Tiger Crest T-shirt](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-61): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T22:28:55Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -29915,7 +29915,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_c3477692-7114-46cb-8bbd-564714695e1e.jpg?v=1763639523
     Price: ₹399.00 INR
 - [Apex Forge: Warrior & Mythic Apparel T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-62): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-21T02:05:35Z
+  Updated: 2025-11-24T11:32:31Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -30120,8 +30120,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_013172d5-3703-4163-900d-dc7e429a704f.jpg?v=1763641914
     Price: ₹499.00 INR
-- [Unisex Classic Crew T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-63): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-21T01:11:29Z
+- [Gold Tone Head Graphic](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-63): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T22:54:44Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -30327,7 +30327,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_35_2485aebe-a27d-4ebe-ad14-7cbe6dceef1e.jpg?v=1763641911
     Price: ₹399.00 INR
 - [Unisex Classic Crew T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-64): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-21T01:26:29Z
+  Updated: 2025-11-24T23:19:41Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -30532,8 +30532,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_53_18ee3235-e045-4f6e-8320-0204d3225575.jpg?v=1763641922
     Price: ₹299.00 INR
-- [Unisex Classic Crew T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-65): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-22T03:49:05Z
+- [Oversized Tee featuring Geometric Electric Guitar Print](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-65): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T22:26:01Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -30738,8 +30738,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_49d4ea6a-a305-4fa0-a593-e663895d6931.jpg?v=1763740167
     Price: ₹499.00 INR
-- [Unisex Classic Crew T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-66): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-22T03:49:03Z
+- [Celtic Knot Eagle  T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-66): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T22:22:55Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -30945,7 +30945,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_38_3b41256a-72a8-4a59-9945-ee759d03febf.jpg?v=1763740154
     Price: ₹599.00 INR
 - [Abstract Symmetric Graphic  T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-67): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-22T17:27:28Z
+  Updated: 2025-11-24T09:46:25Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -31357,7 +31357,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_49_f946b0d5-fe84-4b49-a373-a9b3d5548f87.jpg?v=1763740174
     Price: ₹599.00 INR
 - [ainbow Pride Anchor Ship Wheel Design |Half Sleeve Tee](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-69): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-22T03:49:31Z
+  Updated: 2025-11-24T10:11:49Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -31563,7 +31563,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_48_a57fa79c-0b1d-4198-8faf-6275bad8b2db.jpg?v=1763740169
     Price: ₹599.00 INR
 - [Unisex Classic Crew T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-70): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-22T14:21:52Z
+  Updated: 2025-11-24T11:12:10Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -31589,7 +31589,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_3014c011-8f96-418c-bb00-ec6841dd0949.jpg?v=1763740172
     Price: ₹599.00 INR
 - [t-shirt with a blue and black stylized dragon head graphic.](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-71): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-23T21:25:32Z
+  Updated: 2025-11-24T09:52:39Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -31794,6 +31794,3096 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_39_52ebf8b7-16ce-48b2-b49d-7d5ab16aa186.jpg?v=1763786667
     Price: ₹499.00 INR
+- [Urban Wildlife/Hip-Hop Culture Oversized Tee](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee): Fabric: 90/10 cotton polyester, 260 GSM Terry-knit texture with a premium hand-feel.Fit: Unisex oversized fit with drop shoulders – relaxed, roomy, and right on trend.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-25T21:32:43Z
+  Vendor: VIVA ENTERPRISES 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_a16ad6fe-2fd4-432f-9b2e-5f4b99624d98.jpg?v=1764063143
+  - [White / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987131924789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_63728c23-472c-463d-a9fc-9f920319ab12.jpg?v=1764063143
+    Price: ₹599.00 INR
+  - [White / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987131957557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_63728c23-472c-463d-a9fc-9f920319ab12.jpg?v=1764063143
+    Price: ₹599.00 INR
+  - [White / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987131990325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_63728c23-472c-463d-a9fc-9f920319ab12.jpg?v=1764063143
+    Price: ₹599.00 INR
+  - [White / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132023093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_63728c23-472c-463d-a9fc-9f920319ab12.jpg?v=1764063143
+    Price: ₹599.00 INR
+  - [White / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132055861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_63728c23-472c-463d-a9fc-9f920319ab12.jpg?v=1764063143
+    Price: ₹699.00 INR
+  - [White / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132088629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_63728c23-472c-463d-a9fc-9f920319ab12.jpg?v=1764063143
+    Price: ₹699.00 INR
+  - [White / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132121397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_63728c23-472c-463d-a9fc-9f920319ab12.jpg?v=1764063143
+    Price: ₹599.00 INR
+  - [Black / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132154165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_a16ad6fe-2fd4-432f-9b2e-5f4b99624d98.jpg?v=1764063143
+    Price: ₹599.00 INR
+  - [Black / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132186933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_a16ad6fe-2fd4-432f-9b2e-5f4b99624d98.jpg?v=1764063143
+    Price: ₹599.00 INR
+  - [Black / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132219701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_a16ad6fe-2fd4-432f-9b2e-5f4b99624d98.jpg?v=1764063143
+    Price: ₹599.00 INR
+  - [Black / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132252469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_a16ad6fe-2fd4-432f-9b2e-5f4b99624d98.jpg?v=1764063143
+    Price: ₹599.00 INR
+  - [Black / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132285237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_a16ad6fe-2fd4-432f-9b2e-5f4b99624d98.jpg?v=1764063143
+    Price: ₹699.00 INR
+  - [Black / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132318005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_a16ad6fe-2fd4-432f-9b2e-5f4b99624d98.jpg?v=1764063143
+    Price: ₹699.00 INR
+  - [Black / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132350773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_a16ad6fe-2fd4-432f-9b2e-5f4b99624d98.jpg?v=1764063143
+    Price: ₹599.00 INR
+  - [Navy Blue / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132383541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_2956908e-1d32-4455-87ef-93ba2903d7f1.jpg?v=1764063146
+    Price: ₹599.00 INR
+  - [Navy Blue / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132416309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_2956908e-1d32-4455-87ef-93ba2903d7f1.jpg?v=1764063146
+    Price: ₹599.00 INR
+  - [Navy Blue / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132449077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_2956908e-1d32-4455-87ef-93ba2903d7f1.jpg?v=1764063146
+    Price: ₹599.00 INR
+  - [Navy Blue / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132481845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_2956908e-1d32-4455-87ef-93ba2903d7f1.jpg?v=1764063146
+    Price: ₹599.00 INR
+  - [Navy Blue / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132514613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_2956908e-1d32-4455-87ef-93ba2903d7f1.jpg?v=1764063146
+    Price: ₹699.00 INR
+  - [Navy Blue / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132547381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_2956908e-1d32-4455-87ef-93ba2903d7f1.jpg?v=1764063146
+    Price: ₹699.00 INR
+  - [Navy Blue / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132580149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_2956908e-1d32-4455-87ef-93ba2903d7f1.jpg?v=1764063146
+    Price: ₹599.00 INR
+  - [Bottle Green / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132612917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_a352e094-5fe5-490b-9a4d-840de3494232.jpg?v=1764063146
+    Price: ₹599.00 INR
+  - [Bottle Green / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132645685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_a352e094-5fe5-490b-9a4d-840de3494232.jpg?v=1764063146
+    Price: ₹599.00 INR
+  - [Bottle Green / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132678453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_a352e094-5fe5-490b-9a4d-840de3494232.jpg?v=1764063146
+    Price: ₹599.00 INR
+  - [Bottle Green / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132711221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_a352e094-5fe5-490b-9a4d-840de3494232.jpg?v=1764063146
+    Price: ₹599.00 INR
+  - [Bottle Green / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132743989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_a352e094-5fe5-490b-9a4d-840de3494232.jpg?v=1764063146
+    Price: ₹699.00 INR
+  - [Bottle Green / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132776757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_a352e094-5fe5-490b-9a4d-840de3494232.jpg?v=1764063146
+    Price: ₹699.00 INR
+  - [Bottle Green / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132809525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_a352e094-5fe5-490b-9a4d-840de3494232.jpg?v=1764063146
+    Price: ₹599.00 INR
+  - [Red / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132842293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_e6663470-048f-4faf-8566-625e58fa1089.jpg?v=1764063146
+    Price: ₹599.00 INR
+  - [Red / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132875061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_e6663470-048f-4faf-8566-625e58fa1089.jpg?v=1764063146
+    Price: ₹599.00 INR
+  - [Red / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132907829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_e6663470-048f-4faf-8566-625e58fa1089.jpg?v=1764063146
+    Price: ₹599.00 INR
+  - [Red / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132940597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_e6663470-048f-4faf-8566-625e58fa1089.jpg?v=1764063146
+    Price: ₹599.00 INR
+  - [Red / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987132973365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_e6663470-048f-4faf-8566-625e58fa1089.jpg?v=1764063146
+    Price: ₹699.00 INR
+  - [Red / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987133006133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_e6663470-048f-4faf-8566-625e58fa1089.jpg?v=1764063146
+    Price: ₹699.00 INR
+  - [Red / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987133038901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_e6663470-048f-4faf-8566-625e58fa1089.jpg?v=1764063146
+    Price: ₹599.00 INR
+  - [Maroon / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987133071669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_8aa84915-2d3b-4988-b238-941c55a6466a.jpg?v=1764063152
+    Price: ₹599.00 INR
+  - [Maroon / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987133104437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_8aa84915-2d3b-4988-b238-941c55a6466a.jpg?v=1764063152
+    Price: ₹599.00 INR
+  - [Maroon / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987133137205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_8aa84915-2d3b-4988-b238-941c55a6466a.jpg?v=1764063152
+    Price: ₹599.00 INR
+  - [Maroon / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987133169973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_8aa84915-2d3b-4988-b238-941c55a6466a.jpg?v=1764063152
+    Price: ₹599.00 INR
+  - [Maroon / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987133202741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_8aa84915-2d3b-4988-b238-941c55a6466a.jpg?v=1764063152
+    Price: ₹699.00 INR
+  - [Maroon / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987133235509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_8aa84915-2d3b-4988-b238-941c55a6466a.jpg?v=1764063152
+    Price: ₹699.00 INR
+  - [Maroon / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987133268277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_8aa84915-2d3b-4988-b238-941c55a6466a.jpg?v=1764063152
+    Price: ₹599.00 INR
+  - [Light Baby Pink / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987133301045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_78ac97fe-6fc1-4f92-8d37-a96f026824a9.jpg?v=1764063152
+    Price: ₹599.00 INR
+  - [Light Baby Pink / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987133333813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_78ac97fe-6fc1-4f92-8d37-a96f026824a9.jpg?v=1764063152
+    Price: ₹599.00 INR
+  - [Light Baby Pink / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987133366581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_78ac97fe-6fc1-4f92-8d37-a96f026824a9.jpg?v=1764063152
+    Price: ₹599.00 INR
+  - [Light Baby Pink / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987133399349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_78ac97fe-6fc1-4f92-8d37-a96f026824a9.jpg?v=1764063152
+    Price: ₹599.00 INR
+  - [Light Baby Pink / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987133432117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_78ac97fe-6fc1-4f92-8d37-a96f026824a9.jpg?v=1764063152
+    Price: ₹699.00 INR
+  - [Light Baby Pink / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987133464885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_78ac97fe-6fc1-4f92-8d37-a96f026824a9.jpg?v=1764063152
+    Price: ₹699.00 INR
+  - [Light Baby Pink / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987133497653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_78ac97fe-6fc1-4f92-8d37-a96f026824a9.jpg?v=1764063152
+    Price: ₹599.00 INR
+  - [Lavender / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee?variant=51987133530421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_49_d56299f4-02d7-429b-aa01-79c2d1393980.jpg?v=1764063153
+    Price: ₹599.00 INR
+- [Red Couple Silhouette T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T04:47:04Z
+  Vendor: VIVA ENTERPRISES 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_fe7096cb-becd-48bd-be66-f4755cdbd333.jpg?v=1764089209
+  - [White / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988122796341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_0f80701e-59ad-4534-bc80-92c225976008.jpg?v=1764089209
+    Price: ₹399.00 INR
+  - [White / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988122829109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_0f80701e-59ad-4534-bc80-92c225976008.jpg?v=1764089209
+    Price: ₹399.00 INR
+  - [White / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988122861877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_0f80701e-59ad-4534-bc80-92c225976008.jpg?v=1764089209
+    Price: ₹399.00 INR
+  - [White / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988122894645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_0f80701e-59ad-4534-bc80-92c225976008.jpg?v=1764089209
+    Price: ₹399.00 INR
+  - [White / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988122927413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_0f80701e-59ad-4534-bc80-92c225976008.jpg?v=1764089209
+    Price: ₹399.00 INR
+  - [White / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988122960181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_0f80701e-59ad-4534-bc80-92c225976008.jpg?v=1764089209
+    Price: ₹399.00 INR
+  - [Black / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988122992949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_fe7096cb-becd-48bd-be66-f4755cdbd333.jpg?v=1764089209
+    Price: ₹399.00 INR
+  - [Black / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123025717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_fe7096cb-becd-48bd-be66-f4755cdbd333.jpg?v=1764089209
+    Price: ₹399.00 INR
+  - [Black / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123058485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_fe7096cb-becd-48bd-be66-f4755cdbd333.jpg?v=1764089209
+    Price: ₹399.00 INR
+  - [Black / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123091253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_fe7096cb-becd-48bd-be66-f4755cdbd333.jpg?v=1764089209
+    Price: ₹399.00 INR
+  - [Black / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123124021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_fe7096cb-becd-48bd-be66-f4755cdbd333.jpg?v=1764089209
+    Price: ₹399.00 INR
+  - [Black / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123156789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_fe7096cb-becd-48bd-be66-f4755cdbd333.jpg?v=1764089209
+    Price: ₹399.00 INR
+  - [Navy Blue / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123189557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_c9b301a2-813b-4780-b278-8da2cc02d856.jpg?v=1764089213
+    Price: ₹399.00 INR
+  - [Navy Blue / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123222325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_c9b301a2-813b-4780-b278-8da2cc02d856.jpg?v=1764089213
+    Price: ₹399.00 INR
+  - [Navy Blue / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123255093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_c9b301a2-813b-4780-b278-8da2cc02d856.jpg?v=1764089213
+    Price: ₹399.00 INR
+  - [Navy Blue / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123287861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_c9b301a2-813b-4780-b278-8da2cc02d856.jpg?v=1764089213
+    Price: ₹399.00 INR
+  - [Navy Blue / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123320629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_c9b301a2-813b-4780-b278-8da2cc02d856.jpg?v=1764089213
+    Price: ₹399.00 INR
+  - [Navy Blue / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123353397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_c9b301a2-813b-4780-b278-8da2cc02d856.jpg?v=1764089213
+    Price: ₹399.00 INR
+  - [Grey Melange / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123386165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_338bc4f5-2dc4-4d51-a128-6596628e65d0.jpg?v=1764089214
+    Price: ₹399.00 INR
+  - [Grey Melange / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123418933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_338bc4f5-2dc4-4d51-a128-6596628e65d0.jpg?v=1764089214
+    Price: ₹399.00 INR
+  - [Grey Melange / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123451701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_338bc4f5-2dc4-4d51-a128-6596628e65d0.jpg?v=1764089214
+    Price: ₹399.00 INR
+  - [Grey Melange / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123484469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_338bc4f5-2dc4-4d51-a128-6596628e65d0.jpg?v=1764089214
+    Price: ₹399.00 INR
+  - [Grey Melange / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123517237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_338bc4f5-2dc4-4d51-a128-6596628e65d0.jpg?v=1764089214
+    Price: ₹399.00 INR
+  - [Grey Melange / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123550005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_338bc4f5-2dc4-4d51-a128-6596628e65d0.jpg?v=1764089214
+    Price: ₹399.00 INR
+  - [Red / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123582773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_231fcda4-57cd-44b0-8866-7aa3782f181f.jpg?v=1764089213
+    Price: ₹399.00 INR
+  - [Red / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123615541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_231fcda4-57cd-44b0-8866-7aa3782f181f.jpg?v=1764089213
+    Price: ₹399.00 INR
+  - [Red / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123648309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_231fcda4-57cd-44b0-8866-7aa3782f181f.jpg?v=1764089213
+    Price: ₹399.00 INR
+  - [Red / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123681077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_231fcda4-57cd-44b0-8866-7aa3782f181f.jpg?v=1764089213
+    Price: ₹399.00 INR
+  - [Red / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123713845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_231fcda4-57cd-44b0-8866-7aa3782f181f.jpg?v=1764089213
+    Price: ₹399.00 INR
+  - [Red / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123746613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_231fcda4-57cd-44b0-8866-7aa3782f181f.jpg?v=1764089213
+    Price: ₹399.00 INR
+  - [Purple / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123779381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_51489e0c-b709-404c-98d2-9fdd618e8bd0.jpg?v=1764089215
+    Price: ₹399.00 INR
+  - [Purple / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123812149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_51489e0c-b709-404c-98d2-9fdd618e8bd0.jpg?v=1764089215
+    Price: ₹399.00 INR
+  - [Purple / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123844917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_51489e0c-b709-404c-98d2-9fdd618e8bd0.jpg?v=1764089215
+    Price: ₹399.00 INR
+  - [Purple / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123877685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_51489e0c-b709-404c-98d2-9fdd618e8bd0.jpg?v=1764089215
+    Price: ₹399.00 INR
+  - [Purple / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123910453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_51489e0c-b709-404c-98d2-9fdd618e8bd0.jpg?v=1764089215
+    Price: ₹399.00 INR
+  - [Purple / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123943221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_51489e0c-b709-404c-98d2-9fdd618e8bd0.jpg?v=1764089215
+    Price: ₹399.00 INR
+  - [Black melange / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988123975989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_7c68cfd5-6b04-4e45-9006-b1bf1a622106.jpg?v=1764089215
+    Price: ₹399.00 INR
+  - [Black melange / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988124008757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_7c68cfd5-6b04-4e45-9006-b1bf1a622106.jpg?v=1764089215
+    Price: ₹399.00 INR
+  - [Black melange / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988124041525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_7c68cfd5-6b04-4e45-9006-b1bf1a622106.jpg?v=1764089215
+    Price: ₹399.00 INR
+  - [Black melange / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988124074293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_7c68cfd5-6b04-4e45-9006-b1bf1a622106.jpg?v=1764089215
+    Price: ₹399.00 INR
+  - [Black melange / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988124107061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_7c68cfd5-6b04-4e45-9006-b1bf1a622106.jpg?v=1764089215
+    Price: ₹399.00 INR
+  - [Black melange / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988124139829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_7c68cfd5-6b04-4e45-9006-b1bf1a622106.jpg?v=1764089215
+    Price: ₹399.00 INR
+  - [Navy melange / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988124172597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_521724cd-2e9c-4446-b2f3-50a1c2247850.jpg?v=1764089216
+    Price: ₹399.00 INR
+  - [Navy melange / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988124205365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_521724cd-2e9c-4446-b2f3-50a1c2247850.jpg?v=1764089216
+    Price: ₹399.00 INR
+  - [Navy melange / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988124238133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_521724cd-2e9c-4446-b2f3-50a1c2247850.jpg?v=1764089216
+    Price: ₹399.00 INR
+  - [Navy melange / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988124270901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_521724cd-2e9c-4446-b2f3-50a1c2247850.jpg?v=1764089216
+    Price: ₹399.00 INR
+  - [Navy melange / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988124303669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_521724cd-2e9c-4446-b2f3-50a1c2247850.jpg?v=1764089216
+    Price: ₹399.00 INR
+  - [Navy melange / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988124336437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_521724cd-2e9c-4446-b2f3-50a1c2247850.jpg?v=1764089216
+    Price: ₹399.00 INR
+  - [Purple melange / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988124369205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_64_87613a81-8918-48d6-8e72-de887cf6e7d6.jpg?v=1764089216
+    Price: ₹399.00 INR
+  - [Purple melange / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-73?variant=51988124401973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_64_87613a81-8918-48d6-8e72-de887cf6e7d6.jpg?v=1764089216
+    Price: ₹399.00 INR
+- [The Father and Daughter Tee](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T17:31:05Z
+  Vendor: VIVA ENTERPRISES 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_b42d457b-6630-4dfd-baba-058c2c35000a.jpg?v=1764135048
+  - [White / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225205045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_b0e90e5f-7913-4834-adfe-9f6b502eff04.jpg?v=1764135049
+    Price: ₹499.00 INR
+  - [White / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225237813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_b0e90e5f-7913-4834-adfe-9f6b502eff04.jpg?v=1764135049
+    Price: ₹499.00 INR
+  - [White / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225270581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_b0e90e5f-7913-4834-adfe-9f6b502eff04.jpg?v=1764135049
+    Price: ₹599.00 INR
+  - [White / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225303349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_b0e90e5f-7913-4834-adfe-9f6b502eff04.jpg?v=1764135049
+    Price: ₹599.00 INR
+  - [White / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225336117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_b0e90e5f-7913-4834-adfe-9f6b502eff04.jpg?v=1764135049
+    Price: ₹599.00 INR
+  - [Black / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225368885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_b42d457b-6630-4dfd-baba-058c2c35000a.jpg?v=1764135048
+    Price: ₹499.00 INR
+  - [Black / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225401653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_b42d457b-6630-4dfd-baba-058c2c35000a.jpg?v=1764135048
+    Price: ₹499.00 INR
+  - [Black / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225434421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_b42d457b-6630-4dfd-baba-058c2c35000a.jpg?v=1764135048
+    Price: ₹599.00 INR
+  - [Black / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225467189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_b42d457b-6630-4dfd-baba-058c2c35000a.jpg?v=1764135048
+    Price: ₹599.00 INR
+  - [Black / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225499957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_b42d457b-6630-4dfd-baba-058c2c35000a.jpg?v=1764135048
+    Price: ₹599.00 INR
+  - [SkyBlue / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225532725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_6_e9f7b48f-4b92-4a4f-bfbf-06a7396de93f.jpg?v=1764135060
+    Price: ₹499.00 INR
+  - [SkyBlue / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225565493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_6_e9f7b48f-4b92-4a4f-bfbf-06a7396de93f.jpg?v=1764135060
+    Price: ₹499.00 INR
+  - [SkyBlue / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225598261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_6_e9f7b48f-4b92-4a4f-bfbf-06a7396de93f.jpg?v=1764135060
+    Price: ₹599.00 INR
+  - [SkyBlue / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225631029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_6_e9f7b48f-4b92-4a4f-bfbf-06a7396de93f.jpg?v=1764135060
+    Price: ₹599.00 INR
+  - [SkyBlue / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225663797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_6_e9f7b48f-4b92-4a4f-bfbf-06a7396de93f.jpg?v=1764135060
+    Price: ₹599.00 INR
+  - [Yellow / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225696565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_7_9161a11f-fd88-4b6a-94e5-f5ea60e47231.jpg?v=1764135060
+    Price: ₹499.00 INR
+  - [Yellow / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225729333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_7_9161a11f-fd88-4b6a-94e5-f5ea60e47231.jpg?v=1764135060
+    Price: ₹499.00 INR
+  - [Yellow / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225762101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_7_9161a11f-fd88-4b6a-94e5-f5ea60e47231.jpg?v=1764135060
+    Price: ₹599.00 INR
+  - [Yellow / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225794869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_7_9161a11f-fd88-4b6a-94e5-f5ea60e47231.jpg?v=1764135060
+    Price: ₹599.00 INR
+  - [Yellow / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225827637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_7_9161a11f-fd88-4b6a-94e5-f5ea60e47231.jpg?v=1764135060
+    Price: ₹599.00 INR
+  - [Red / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225860405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_9f43a8ac-b5ac-4645-ae57-fca63b992508.jpg?v=1764135060
+    Price: ₹499.00 INR
+  - [Red / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225893173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_9f43a8ac-b5ac-4645-ae57-fca63b992508.jpg?v=1764135060
+    Price: ₹499.00 INR
+  - [Red / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225925941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_9f43a8ac-b5ac-4645-ae57-fca63b992508.jpg?v=1764135060
+    Price: ₹599.00 INR
+  - [Red / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225958709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_9f43a8ac-b5ac-4645-ae57-fca63b992508.jpg?v=1764135060
+    Price: ₹599.00 INR
+  - [Red / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991225991477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_9f43a8ac-b5ac-4645-ae57-fca63b992508.jpg?v=1764135060
+    Price: ₹599.00 INR
+  - [Flag Green / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226024245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_27_b05ec369-fa6b-4967-b2b4-9abd04fb1eba.jpg?v=1764135067
+    Price: ₹499.00 INR
+  - [Flag Green / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226057013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_27_b05ec369-fa6b-4967-b2b4-9abd04fb1eba.jpg?v=1764135067
+    Price: ₹499.00 INR
+  - [Flag Green / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226089781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_27_b05ec369-fa6b-4967-b2b4-9abd04fb1eba.jpg?v=1764135067
+    Price: ₹599.00 INR
+  - [Flag Green / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226122549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_27_b05ec369-fa6b-4967-b2b4-9abd04fb1eba.jpg?v=1764135067
+    Price: ₹599.00 INR
+  - [Flag Green / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226155317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_27_b05ec369-fa6b-4967-b2b4-9abd04fb1eba.jpg?v=1764135067
+    Price: ₹599.00 INR
+  - [New Yellow / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226188085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_30_39eb35e1-2d66-4752-b74c-e71dd2dd7d01.jpg?v=1764135067
+    Price: ₹499.00 INR
+  - [New Yellow / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226220853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_30_39eb35e1-2d66-4752-b74c-e71dd2dd7d01.jpg?v=1764135067
+    Price: ₹499.00 INR
+  - [New Yellow / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226253621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_30_39eb35e1-2d66-4752-b74c-e71dd2dd7d01.jpg?v=1764135067
+    Price: ₹599.00 INR
+  - [New Yellow / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226286389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_30_39eb35e1-2d66-4752-b74c-e71dd2dd7d01.jpg?v=1764135067
+    Price: ₹599.00 INR
+  - [New Yellow / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226319157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_30_39eb35e1-2d66-4752-b74c-e71dd2dd7d01.jpg?v=1764135067
+    Price: ₹599.00 INR
+  - [Orange / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226351925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_33_cba0f54f-8a09-49d8-a8a3-2256aff2dc2f.jpg?v=1764135073
+    Price: ₹499.00 INR
+  - [Orange / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226384693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_33_cba0f54f-8a09-49d8-a8a3-2256aff2dc2f.jpg?v=1764135073
+    Price: ₹499.00 INR
+  - [Orange / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226417461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_33_cba0f54f-8a09-49d8-a8a3-2256aff2dc2f.jpg?v=1764135073
+    Price: ₹599.00 INR
+  - [Orange / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226450229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_33_cba0f54f-8a09-49d8-a8a3-2256aff2dc2f.jpg?v=1764135073
+    Price: ₹599.00 INR
+  - [Orange / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226482997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_33_cba0f54f-8a09-49d8-a8a3-2256aff2dc2f.jpg?v=1764135073
+    Price: ₹599.00 INR
+  - [Golden Yellow / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226515765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_35_695681b2-d1f4-4ca6-be0e-ca5f28a53714.jpg?v=1764135073
+    Price: ₹499.00 INR
+  - [Golden Yellow / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226548533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_35_695681b2-d1f4-4ca6-be0e-ca5f28a53714.jpg?v=1764135073
+    Price: ₹499.00 INR
+  - [Golden Yellow / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226581301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_35_695681b2-d1f4-4ca6-be0e-ca5f28a53714.jpg?v=1764135073
+    Price: ₹599.00 INR
+  - [Golden Yellow / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226614069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_35_695681b2-d1f4-4ca6-be0e-ca5f28a53714.jpg?v=1764135073
+    Price: ₹599.00 INR
+  - [Golden Yellow / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226646837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_35_695681b2-d1f4-4ca6-be0e-ca5f28a53714.jpg?v=1764135073
+    Price: ₹599.00 INR
+  - [Light Baby Pink / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226679605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_929312d9-55b1-4ebc-b649-3db4a3e0a92b.jpg?v=1764135074
+    Price: ₹499.00 INR
+  - [Light Baby Pink / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226712373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_929312d9-55b1-4ebc-b649-3db4a3e0a92b.jpg?v=1764135074
+    Price: ₹499.00 INR
+  - [Light Baby Pink / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226745141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_929312d9-55b1-4ebc-b649-3db4a3e0a92b.jpg?v=1764135074
+    Price: ₹599.00 INR
+  - [Light Baby Pink / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226777909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_929312d9-55b1-4ebc-b649-3db4a3e0a92b.jpg?v=1764135074
+    Price: ₹599.00 INR
+  - [Light Baby Pink / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-72?variant=51991226810677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_929312d9-55b1-4ebc-b649-3db4a3e0a92b.jpg?v=1764135074
+    Price: ₹599.00 INR
+- [King of Swag T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T17:31:14Z
+  Vendor: VIVA ENTERPRISES 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_6_b7bd2884-bcc3-45f2-8ab2-be5ad1438fc6.jpg?v=1764135055
+  - [Black / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229038901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_61c6318e-d2bd-4e4f-b542-1d21d07b6daf.jpg?v=1764135055
+    Price: ₹499.00 INR
+  - [Black / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229071669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_61c6318e-d2bd-4e4f-b542-1d21d07b6daf.jpg?v=1764135055
+    Price: ₹499.00 INR
+  - [Black / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229104437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_61c6318e-d2bd-4e4f-b542-1d21d07b6daf.jpg?v=1764135055
+    Price: ₹499.00 INR
+  - [Black / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229137205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_61c6318e-d2bd-4e4f-b542-1d21d07b6daf.jpg?v=1764135055
+    Price: ₹499.00 INR
+  - [Black / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229169973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_61c6318e-d2bd-4e4f-b542-1d21d07b6daf.jpg?v=1764135055
+    Price: ₹599.00 INR
+  - [Black / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229202741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_61c6318e-d2bd-4e4f-b542-1d21d07b6daf.jpg?v=1764135055
+    Price: ₹599.00 INR
+  - [SkyBlue / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229235509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_6_b7bd2884-bcc3-45f2-8ab2-be5ad1438fc6.jpg?v=1764135055
+    Price: ₹499.00 INR
+  - [SkyBlue / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229268277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_6_b7bd2884-bcc3-45f2-8ab2-be5ad1438fc6.jpg?v=1764135055
+    Price: ₹499.00 INR
+  - [SkyBlue / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229301045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_6_b7bd2884-bcc3-45f2-8ab2-be5ad1438fc6.jpg?v=1764135055
+    Price: ₹499.00 INR
+  - [SkyBlue / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229333813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_6_b7bd2884-bcc3-45f2-8ab2-be5ad1438fc6.jpg?v=1764135055
+    Price: ₹499.00 INR
+  - [SkyBlue / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229366581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_6_b7bd2884-bcc3-45f2-8ab2-be5ad1438fc6.jpg?v=1764135055
+    Price: ₹599.00 INR
+  - [SkyBlue / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229399349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_6_b7bd2884-bcc3-45f2-8ab2-be5ad1438fc6.jpg?v=1764135055
+    Price: ₹599.00 INR
+  - [Yellow / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229432117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_7_38520eb3-3e4c-4c5e-9207-5f671263cea4.jpg?v=1764135062
+    Price: ₹499.00 INR
+  - [Yellow / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229464885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_7_38520eb3-3e4c-4c5e-9207-5f671263cea4.jpg?v=1764135062
+    Price: ₹499.00 INR
+  - [Yellow / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229497653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_7_38520eb3-3e4c-4c5e-9207-5f671263cea4.jpg?v=1764135062
+    Price: ₹499.00 INR
+  - [Yellow / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229530421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_7_38520eb3-3e4c-4c5e-9207-5f671263cea4.jpg?v=1764135062
+    Price: ₹499.00 INR
+  - [Yellow / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229563189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_7_38520eb3-3e4c-4c5e-9207-5f671263cea4.jpg?v=1764135062
+    Price: ₹599.00 INR
+  - [Yellow / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229595957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_7_38520eb3-3e4c-4c5e-9207-5f671263cea4.jpg?v=1764135062
+    Price: ₹599.00 INR
+  - [Royal Blue / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229628725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_5e7aae56-14aa-4744-93f9-3c2559afec16.jpg?v=1764135062
+    Price: ₹499.00 INR
+  - [Royal Blue / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229661493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_5e7aae56-14aa-4744-93f9-3c2559afec16.jpg?v=1764135062
+    Price: ₹499.00 INR
+  - [Royal Blue / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229694261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_5e7aae56-14aa-4744-93f9-3c2559afec16.jpg?v=1764135062
+    Price: ₹499.00 INR
+  - [Royal Blue / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229727029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_5e7aae56-14aa-4744-93f9-3c2559afec16.jpg?v=1764135062
+    Price: ₹499.00 INR
+  - [Royal Blue / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229759797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_5e7aae56-14aa-4744-93f9-3c2559afec16.jpg?v=1764135062
+    Price: ₹599.00 INR
+  - [Royal Blue / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229792565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_5e7aae56-14aa-4744-93f9-3c2559afec16.jpg?v=1764135062
+    Price: ₹599.00 INR
+  - [Red / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229825333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_ecee41f5-5752-4811-911f-aab2a79075da.jpg?v=1764135062
+    Price: ₹499.00 INR
+  - [Red / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229858101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_ecee41f5-5752-4811-911f-aab2a79075da.jpg?v=1764135062
+    Price: ₹499.00 INR
+  - [Red / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229890869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_ecee41f5-5752-4811-911f-aab2a79075da.jpg?v=1764135062
+    Price: ₹499.00 INR
+  - [Red / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229923637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_ecee41f5-5752-4811-911f-aab2a79075da.jpg?v=1764135062
+    Price: ₹499.00 INR
+  - [Red / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229956405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_ecee41f5-5752-4811-911f-aab2a79075da.jpg?v=1764135062
+    Price: ₹599.00 INR
+  - [Red / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991229989173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_ecee41f5-5752-4811-911f-aab2a79075da.jpg?v=1764135062
+    Price: ₹599.00 INR
+  - [Flag Green / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230021941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_27_963b93d4-d332-443f-8ddc-2f4f6dd9993c.jpg?v=1764135069
+    Price: ₹499.00 INR
+  - [Flag Green / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230054709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_27_963b93d4-d332-443f-8ddc-2f4f6dd9993c.jpg?v=1764135069
+    Price: ₹499.00 INR
+  - [Flag Green / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230087477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_27_963b93d4-d332-443f-8ddc-2f4f6dd9993c.jpg?v=1764135069
+    Price: ₹499.00 INR
+  - [Flag Green / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230120245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_27_963b93d4-d332-443f-8ddc-2f4f6dd9993c.jpg?v=1764135069
+    Price: ₹499.00 INR
+  - [Flag Green / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230153013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_27_963b93d4-d332-443f-8ddc-2f4f6dd9993c.jpg?v=1764135069
+    Price: ₹599.00 INR
+  - [Flag Green / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230185781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_27_963b93d4-d332-443f-8ddc-2f4f6dd9993c.jpg?v=1764135069
+    Price: ₹599.00 INR
+  - [New Yellow / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230218549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_30_70bd5f0a-ef31-47cb-b033-1231460b7b25.jpg?v=1764135069
+    Price: ₹499.00 INR
+  - [New Yellow / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230251317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_30_70bd5f0a-ef31-47cb-b033-1231460b7b25.jpg?v=1764135069
+    Price: ₹499.00 INR
+  - [New Yellow / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230284085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_30_70bd5f0a-ef31-47cb-b033-1231460b7b25.jpg?v=1764135069
+    Price: ₹499.00 INR
+  - [New Yellow / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230316853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_30_70bd5f0a-ef31-47cb-b033-1231460b7b25.jpg?v=1764135069
+    Price: ₹499.00 INR
+  - [New Yellow / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230349621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_30_70bd5f0a-ef31-47cb-b033-1231460b7b25.jpg?v=1764135069
+    Price: ₹599.00 INR
+  - [New Yellow / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230382389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_30_70bd5f0a-ef31-47cb-b033-1231460b7b25.jpg?v=1764135069
+    Price: ₹599.00 INR
+  - [Orange / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230415157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_33_a90a5ef9-9dce-4194-ac7f-1ccd6d790df8.jpg?v=1764135075
+    Price: ₹499.00 INR
+  - [Orange / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230447925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_33_a90a5ef9-9dce-4194-ac7f-1ccd6d790df8.jpg?v=1764135075
+    Price: ₹499.00 INR
+  - [Orange / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230480693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_33_a90a5ef9-9dce-4194-ac7f-1ccd6d790df8.jpg?v=1764135075
+    Price: ₹499.00 INR
+  - [Orange / XXL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230513461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_33_a90a5ef9-9dce-4194-ac7f-1ccd6d790df8.jpg?v=1764135075
+    Price: ₹499.00 INR
+  - [Orange / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230546229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_33_a90a5ef9-9dce-4194-ac7f-1ccd6d790df8.jpg?v=1764135075
+    Price: ₹599.00 INR
+  - [Orange / 4XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230578997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_33_a90a5ef9-9dce-4194-ac7f-1ccd6d790df8.jpg?v=1764135075
+    Price: ₹599.00 INR
+  - [Golden Yellow / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230611765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_35_8c28c7ef-f61d-4586-ad29-b55b732e9742.jpg?v=1764135075
+    Price: ₹499.00 INR
+  - [Golden Yellow / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-73?variant=51991230644533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_35_8c28c7ef-f61d-4586-ad29-b55b732e9742.jpg?v=1764135075
+    Price: ₹499.00 INR
+- [Michael Jackson  T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T17:31:15Z
+  Vendor: VIVA ENTERPRISES 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_1a78ca3d-82fd-4144-92d5-10a6e5c8e0f0.jpg?v=1764135056
+  - [White / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991233626421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_9349aa4d-2704-4853-a353-0291fc684980.jpg?v=1764135056
+    Price: ₹499.00 INR
+  - [White / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991233659189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_9349aa4d-2704-4853-a353-0291fc684980.jpg?v=1764135056
+    Price: ₹499.00 INR
+  - [White / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991233691957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_9349aa4d-2704-4853-a353-0291fc684980.jpg?v=1764135056
+    Price: ₹499.00 INR
+  - [White / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991233724725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_9349aa4d-2704-4853-a353-0291fc684980.jpg?v=1764135056
+    Price: ₹599.00 INR
+  - [Black / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991233757493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_1a78ca3d-82fd-4144-92d5-10a6e5c8e0f0.jpg?v=1764135056
+    Price: ₹499.00 INR
+  - [Black / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991233790261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_1a78ca3d-82fd-4144-92d5-10a6e5c8e0f0.jpg?v=1764135056
+    Price: ₹499.00 INR
+  - [Black / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991233823029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_1a78ca3d-82fd-4144-92d5-10a6e5c8e0f0.jpg?v=1764135056
+    Price: ₹499.00 INR
+  - [Black / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991233855797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_1a78ca3d-82fd-4144-92d5-10a6e5c8e0f0.jpg?v=1764135056
+    Price: ₹599.00 INR
+  - [SkyBlue / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991233888565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_6_8d68e50b-a32f-4687-a822-546b19807b35.jpg?v=1764135063
+    Price: ₹499.00 INR
+  - [SkyBlue / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991233921333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_6_8d68e50b-a32f-4687-a822-546b19807b35.jpg?v=1764135063
+    Price: ₹499.00 INR
+  - [SkyBlue / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991233954101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_6_8d68e50b-a32f-4687-a822-546b19807b35.jpg?v=1764135063
+    Price: ₹499.00 INR
+  - [SkyBlue / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991233986869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_6_8d68e50b-a32f-4687-a822-546b19807b35.jpg?v=1764135063
+    Price: ₹599.00 INR
+  - [Red / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234019637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_3e8553fb-2cc9-4605-8d17-f53361fe3cae.jpg?v=1764135063
+    Price: ₹499.00 INR
+  - [Red / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234052405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_3e8553fb-2cc9-4605-8d17-f53361fe3cae.jpg?v=1764135063
+    Price: ₹499.00 INR
+  - [Red / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234085173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_3e8553fb-2cc9-4605-8d17-f53361fe3cae.jpg?v=1764135063
+    Price: ₹499.00 INR
+  - [Red / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234117941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_3e8553fb-2cc9-4605-8d17-f53361fe3cae.jpg?v=1764135063
+    Price: ₹599.00 INR
+  - [Flag Green / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234150709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_27_eea4b444-e8fe-4232-9af6-e9249a47a616.jpg?v=1764135063
+    Price: ₹499.00 INR
+  - [Flag Green / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234183477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_27_eea4b444-e8fe-4232-9af6-e9249a47a616.jpg?v=1764135063
+    Price: ₹499.00 INR
+  - [Flag Green / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234216245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_27_eea4b444-e8fe-4232-9af6-e9249a47a616.jpg?v=1764135063
+    Price: ₹499.00 INR
+  - [Flag Green / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234249013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_27_eea4b444-e8fe-4232-9af6-e9249a47a616.jpg?v=1764135063
+    Price: ₹599.00 INR
+  - [New Yellow / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234281781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_30_42a18659-865e-4779-926a-51f13e981105.jpg?v=1764135070
+    Price: ₹499.00 INR
+  - [New Yellow / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234314549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_30_42a18659-865e-4779-926a-51f13e981105.jpg?v=1764135070
+    Price: ₹499.00 INR
+  - [New Yellow / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234347317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_30_42a18659-865e-4779-926a-51f13e981105.jpg?v=1764135070
+    Price: ₹499.00 INR
+  - [New Yellow / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234380085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_30_42a18659-865e-4779-926a-51f13e981105.jpg?v=1764135070
+    Price: ₹599.00 INR
+  - [Brick Red / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234412853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_39_7371d90e-c02c-4d2c-a3b0-4ace7868a419.jpg?v=1764135070
+    Price: ₹499.00 INR
+  - [Brick Red / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234445621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_39_7371d90e-c02c-4d2c-a3b0-4ace7868a419.jpg?v=1764135070
+    Price: ₹499.00 INR
+  - [Brick Red / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234478389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_39_7371d90e-c02c-4d2c-a3b0-4ace7868a419.jpg?v=1764135070
+    Price: ₹499.00 INR
+  - [Brick Red / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234511157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_39_7371d90e-c02c-4d2c-a3b0-4ace7868a419.jpg?v=1764135070
+    Price: ₹599.00 INR
+  - [Mustard Yellow / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234543925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_07b01f51-103c-4860-bbee-a3fac6a8dece.jpg?v=1764135076
+    Price: ₹499.00 INR
+  - [Mustard Yellow / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234576693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_07b01f51-103c-4860-bbee-a3fac6a8dece.jpg?v=1764135076
+    Price: ₹499.00 INR
+  - [Mustard Yellow / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234609461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_07b01f51-103c-4860-bbee-a3fac6a8dece.jpg?v=1764135076
+    Price: ₹499.00 INR
+  - [Mustard Yellow / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234642229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_07b01f51-103c-4860-bbee-a3fac6a8dece.jpg?v=1764135076
+    Price: ₹599.00 INR
+  - [Light Baby Pink / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234674997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_ca97ae28-288f-411d-a1bd-01320ad0bed1.jpg?v=1764135076
+    Price: ₹499.00 INR
+  - [Light Baby Pink / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234707765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_ca97ae28-288f-411d-a1bd-01320ad0bed1.jpg?v=1764135076
+    Price: ₹499.00 INR
+  - [Light Baby Pink / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234740533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_ca97ae28-288f-411d-a1bd-01320ad0bed1.jpg?v=1764135076
+    Price: ₹499.00 INR
+  - [Light Baby Pink / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234773301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_ca97ae28-288f-411d-a1bd-01320ad0bed1.jpg?v=1764135076
+    Price: ₹599.00 INR
+  - [Peach / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234806069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_48_2e6a0480-464e-4287-a293-6e4448186702.jpg?v=1764135076
+    Price: ₹499.00 INR
+  - [Peach / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234838837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_48_2e6a0480-464e-4287-a293-6e4448186702.jpg?v=1764135076
+    Price: ₹499.00 INR
+  - [Peach / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234871605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_48_2e6a0480-464e-4287-a293-6e4448186702.jpg?v=1764135076
+    Price: ₹499.00 INR
+  - [Peach / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234904373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_48_2e6a0480-464e-4287-a293-6e4448186702.jpg?v=1764135076
+    Price: ₹599.00 INR
+  - [Lavender / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234937141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_49_4e5a69b7-8ac7-40a7-b69d-ae712714b6b1.jpg?v=1764135085
+    Price: ₹499.00 INR
+  - [Lavender / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991234969909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_49_4e5a69b7-8ac7-40a7-b69d-ae712714b6b1.jpg?v=1764135085
+    Price: ₹499.00 INR
+  - [Lavender / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991235002677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_49_4e5a69b7-8ac7-40a7-b69d-ae712714b6b1.jpg?v=1764135085
+    Price: ₹499.00 INR
+  - [Lavender / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991235035445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_49_4e5a69b7-8ac7-40a7-b69d-ae712714b6b1.jpg?v=1764135085
+    Price: ₹599.00 INR
+  - [Beige / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991235068213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_51_a68426f2-8f4f-4ef8-ab6b-d31286ecfd30.jpg?v=1764135085
+    Price: ₹499.00 INR
+  - [Beige / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991235100981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_51_a68426f2-8f4f-4ef8-ab6b-d31286ecfd30.jpg?v=1764135085
+    Price: ₹499.00 INR
+  - [Beige / XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991235133749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_51_a68426f2-8f4f-4ef8-ab6b-d31286ecfd30.jpg?v=1764135085
+    Price: ₹499.00 INR
+  - [Beige / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991235166517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_51_a68426f2-8f4f-4ef8-ab6b-d31286ecfd30.jpg?v=1764135085
+    Price: ₹599.00 INR
+  - [Mint / S](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991235199285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_53_75bfa16e-8e82-4da5-9dea-58930f656562.jpg?v=1764135095
+    Price: ₹499.00 INR
+  - [Mint / L](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-74?variant=51991235232053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_53_75bfa16e-8e82-4da5-9dea-58930f656562.jpg?v=1764135095
+    Price: ₹499.00 INR
+- [Michael Jackson Icon Sweatshirt](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8): Fabric: 100% cotton, 300 GSM fleece – thick, soft, and breathable for daily comfort. Fit: Unisex regular fit – crafted for a relaxed silhouette with snug ribbed cuffs and hem.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T17:31:08Z
+  Vendor: VIVA ENTERPRISES 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_8e892db8-d071-4aa5-a11f-c6cfbc1502e3.jpg?v=1764135057
+  - [White / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991236739381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_06acd6bf-1fef-4d32-94f0-f8fabf2f5675.jpg?v=1764135057
+    Price: ₹799.00 INR
+  - [White / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991236772149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_06acd6bf-1fef-4d32-94f0-f8fabf2f5675.jpg?v=1764135057
+    Price: ₹799.00 INR
+  - [White / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991236804917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_06acd6bf-1fef-4d32-94f0-f8fabf2f5675.jpg?v=1764135057
+    Price: ₹799.00 INR
+  - [White / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991236837685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_06acd6bf-1fef-4d32-94f0-f8fabf2f5675.jpg?v=1764135057
+    Price: ₹799.00 INR
+  - [White / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991236870453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_06acd6bf-1fef-4d32-94f0-f8fabf2f5675.jpg?v=1764135057
+    Price: ₹899.00 INR
+  - [White / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991236903221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_06acd6bf-1fef-4d32-94f0-f8fabf2f5675.jpg?v=1764135057
+    Price: ₹899.00 INR
+  - [White / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991236935989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_06acd6bf-1fef-4d32-94f0-f8fabf2f5675.jpg?v=1764135057
+    Price: ₹799.00 INR
+  - [Black / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991236968757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_8e892db8-d071-4aa5-a11f-c6cfbc1502e3.jpg?v=1764135057
+    Price: ₹799.00 INR
+  - [Black / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237001525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_8e892db8-d071-4aa5-a11f-c6cfbc1502e3.jpg?v=1764135057
+    Price: ₹799.00 INR
+  - [Black / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237034293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_8e892db8-d071-4aa5-a11f-c6cfbc1502e3.jpg?v=1764135057
+    Price: ₹799.00 INR
+  - [Black / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237067061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_8e892db8-d071-4aa5-a11f-c6cfbc1502e3.jpg?v=1764135057
+    Price: ₹799.00 INR
+  - [Black / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237099829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_8e892db8-d071-4aa5-a11f-c6cfbc1502e3.jpg?v=1764135057
+    Price: ₹899.00 INR
+  - [Black / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237132597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_8e892db8-d071-4aa5-a11f-c6cfbc1502e3.jpg?v=1764135057
+    Price: ₹899.00 INR
+  - [Black / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237165365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_8e892db8-d071-4aa5-a11f-c6cfbc1502e3.jpg?v=1764135057
+    Price: ₹799.00 INR
+  - [Navy Blue / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237198133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_339ce267-d920-4683-95bd-ece13a1c6972.jpg?v=1764135064
+    Price: ₹799.00 INR
+  - [Navy Blue / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237230901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_339ce267-d920-4683-95bd-ece13a1c6972.jpg?v=1764135064
+    Price: ₹799.00 INR
+  - [Navy Blue / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237263669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_339ce267-d920-4683-95bd-ece13a1c6972.jpg?v=1764135064
+    Price: ₹799.00 INR
+  - [Navy Blue / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237296437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_339ce267-d920-4683-95bd-ece13a1c6972.jpg?v=1764135064
+    Price: ₹799.00 INR
+  - [Navy Blue / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237329205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_339ce267-d920-4683-95bd-ece13a1c6972.jpg?v=1764135064
+    Price: ₹899.00 INR
+  - [Navy Blue / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237361973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_339ce267-d920-4683-95bd-ece13a1c6972.jpg?v=1764135064
+    Price: ₹899.00 INR
+  - [Navy Blue / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237394741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_339ce267-d920-4683-95bd-ece13a1c6972.jpg?v=1764135064
+    Price: ₹799.00 INR
+  - [Grey Melange / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237427509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_947d3114-a855-418f-879e-4888a0d1ebc1.jpg?v=1764135064
+    Price: ₹799.00 INR
+  - [Grey Melange / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237460277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_947d3114-a855-418f-879e-4888a0d1ebc1.jpg?v=1764135064
+    Price: ₹799.00 INR
+  - [Grey Melange / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237493045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_947d3114-a855-418f-879e-4888a0d1ebc1.jpg?v=1764135064
+    Price: ₹799.00 INR
+  - [Grey Melange / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237525813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_947d3114-a855-418f-879e-4888a0d1ebc1.jpg?v=1764135064
+    Price: ₹799.00 INR
+  - [Grey Melange / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237558581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_947d3114-a855-418f-879e-4888a0d1ebc1.jpg?v=1764135064
+    Price: ₹899.00 INR
+  - [Grey Melange / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237591349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_947d3114-a855-418f-879e-4888a0d1ebc1.jpg?v=1764135064
+    Price: ₹899.00 INR
+  - [Grey Melange / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237624117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_947d3114-a855-418f-879e-4888a0d1ebc1.jpg?v=1764135064
+    Price: ₹799.00 INR
+  - [Maroon / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237656885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_ec1893b9-a636-4d10-a27f-ac7aa7fd0e4e.jpg?v=1764135064
+    Price: ₹799.00 INR
+  - [Maroon / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237689653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_ec1893b9-a636-4d10-a27f-ac7aa7fd0e4e.jpg?v=1764135064
+    Price: ₹799.00 INR
+  - [Maroon / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237722421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_ec1893b9-a636-4d10-a27f-ac7aa7fd0e4e.jpg?v=1764135064
+    Price: ₹799.00 INR
+  - [Maroon / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237755189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_ec1893b9-a636-4d10-a27f-ac7aa7fd0e4e.jpg?v=1764135064
+    Price: ₹799.00 INR
+  - [Maroon / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237787957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_ec1893b9-a636-4d10-a27f-ac7aa7fd0e4e.jpg?v=1764135064
+    Price: ₹899.00 INR
+  - [Maroon / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237820725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_ec1893b9-a636-4d10-a27f-ac7aa7fd0e4e.jpg?v=1764135064
+    Price: ₹899.00 INR
+  - [Maroon / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237853493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_ec1893b9-a636-4d10-a27f-ac7aa7fd0e4e.jpg?v=1764135064
+    Price: ₹799.00 INR
+  - [Olive Green / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237886261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_35afbf80-b95e-4fd7-bfdd-a5711fc67bbe.jpg?v=1764135071
+    Price: ₹799.00 INR
+  - [Olive Green / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237919029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_35afbf80-b95e-4fd7-bfdd-a5711fc67bbe.jpg?v=1764135071
+    Price: ₹799.00 INR
+  - [Olive Green / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237951797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_35afbf80-b95e-4fd7-bfdd-a5711fc67bbe.jpg?v=1764135071
+    Price: ₹799.00 INR
+  - [Olive Green / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991237984565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_35afbf80-b95e-4fd7-bfdd-a5711fc67bbe.jpg?v=1764135071
+    Price: ₹799.00 INR
+  - [Olive Green / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991238017333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_35afbf80-b95e-4fd7-bfdd-a5711fc67bbe.jpg?v=1764135071
+    Price: ₹899.00 INR
+  - [Olive Green / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991238050101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_35afbf80-b95e-4fd7-bfdd-a5711fc67bbe.jpg?v=1764135071
+    Price: ₹899.00 INR
+  - [Olive Green / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991238082869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_35afbf80-b95e-4fd7-bfdd-a5711fc67bbe.jpg?v=1764135071
+    Price: ₹799.00 INR
+  - [Mustard Yellow / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991238115637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_96f54e6a-c28c-4bd8-964e-699ae6953155.jpg?v=1764135071
+    Price: ₹799.00 INR
+  - [Mustard Yellow / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991238148405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_96f54e6a-c28c-4bd8-964e-699ae6953155.jpg?v=1764135071
+    Price: ₹799.00 INR
+  - [Mustard Yellow / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991238181173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_96f54e6a-c28c-4bd8-964e-699ae6953155.jpg?v=1764135071
+    Price: ₹799.00 INR
+  - [Mustard Yellow / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991238213941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_96f54e6a-c28c-4bd8-964e-699ae6953155.jpg?v=1764135071
+    Price: ₹799.00 INR
+  - [Mustard Yellow / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991238246709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_96f54e6a-c28c-4bd8-964e-699ae6953155.jpg?v=1764135071
+    Price: ₹899.00 INR
+  - [Mustard Yellow / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991238279477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_96f54e6a-c28c-4bd8-964e-699ae6953155.jpg?v=1764135071
+    Price: ₹899.00 INR
+  - [Mustard Yellow / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991238312245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_96f54e6a-c28c-4bd8-964e-699ae6953155.jpg?v=1764135071
+    Price: ₹799.00 INR
+  - [Light Baby Pink / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-8?variant=51991238345013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_ea392796-8cfe-4124-8f6c-324b8fcee8d6.jpg?v=1764135079
+    Price: ₹799.00 INR
+- [Hip Hop Lion Pullover](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4): Fabric: 100% cotton, 300 GSM brushed fleece – heavyweight and cozy, for chilly days.Fit: Unisex regular fit – snug around the cuffs and hem with a comfy relaxed feel.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T17:31:46Z
+  Vendor: VIVA ENTERPRISES 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_31cdb680-1d80-4864-9d5e-50f5b8816d47.jpg?v=1764135058
+  - [White / S](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991240900917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_9304ced4-7554-4a83-8fd4-cdf91587c13c.jpg?v=1764135058
+    Price: ₹699.00 INR
+  - [White / M](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991240933685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_9304ced4-7554-4a83-8fd4-cdf91587c13c.jpg?v=1764135058
+    Price: ₹699.00 INR
+  - [White / L](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991240966453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_9304ced4-7554-4a83-8fd4-cdf91587c13c.jpg?v=1764135058
+    Price: ₹699.00 INR
+  - [White / XL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991240999221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_9304ced4-7554-4a83-8fd4-cdf91587c13c.jpg?v=1764135058
+    Price: ₹799.00 INR
+  - [White / XXL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241031989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_9304ced4-7554-4a83-8fd4-cdf91587c13c.jpg?v=1764135058
+    Price: ₹799.00 INR
+  - [White / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241064757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_9304ced4-7554-4a83-8fd4-cdf91587c13c.jpg?v=1764135058
+    Price: ₹699.00 INR
+  - [White / XS](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241097525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_9304ced4-7554-4a83-8fd4-cdf91587c13c.jpg?v=1764135058
+    Price: ₹699.00 INR
+  - [Navy Blue / S](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241130293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_31cdb680-1d80-4864-9d5e-50f5b8816d47.jpg?v=1764135058
+    Price: ₹699.00 INR
+  - [Navy Blue / M](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241163061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_31cdb680-1d80-4864-9d5e-50f5b8816d47.jpg?v=1764135058
+    Price: ₹699.00 INR
+  - [Navy Blue / L](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241195829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_31cdb680-1d80-4864-9d5e-50f5b8816d47.jpg?v=1764135058
+    Price: ₹699.00 INR
+  - [Navy Blue / XL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241228597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_31cdb680-1d80-4864-9d5e-50f5b8816d47.jpg?v=1764135058
+    Price: ₹799.00 INR
+  - [Navy Blue / XXL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241261365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_31cdb680-1d80-4864-9d5e-50f5b8816d47.jpg?v=1764135058
+    Price: ₹799.00 INR
+  - [Navy Blue / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241294133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_31cdb680-1d80-4864-9d5e-50f5b8816d47.jpg?v=1764135058
+    Price: ₹699.00 INR
+  - [Navy Blue / XS](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241326901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_31cdb680-1d80-4864-9d5e-50f5b8816d47.jpg?v=1764135058
+    Price: ₹699.00 INR
+  - [Grey Melange / S](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241359669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_b2452649-fcc3-40b2-b607-b4787f1549e6.jpg?v=1764135065
+    Price: ₹699.00 INR
+  - [Grey Melange / M](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241392437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_b2452649-fcc3-40b2-b607-b4787f1549e6.jpg?v=1764135065
+    Price: ₹699.00 INR
+  - [Grey Melange / L](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241425205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_b2452649-fcc3-40b2-b607-b4787f1549e6.jpg?v=1764135065
+    Price: ₹699.00 INR
+  - [Grey Melange / XL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241457973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_b2452649-fcc3-40b2-b607-b4787f1549e6.jpg?v=1764135065
+    Price: ₹799.00 INR
+  - [Grey Melange / XXL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241490741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_b2452649-fcc3-40b2-b607-b4787f1549e6.jpg?v=1764135065
+    Price: ₹799.00 INR
+  - [Grey Melange / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241523509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_b2452649-fcc3-40b2-b607-b4787f1549e6.jpg?v=1764135065
+    Price: ₹699.00 INR
+  - [Grey Melange / XS](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241556277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_b2452649-fcc3-40b2-b607-b4787f1549e6.jpg?v=1764135065
+    Price: ₹699.00 INR
+  - [Bottle Green / S](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241589045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_29bb8cf4-987d-4e5f-bc3e-6bf0f0e8a38a.jpg?v=1764135065
+    Price: ₹699.00 INR
+  - [Bottle Green / M](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241621813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_29bb8cf4-987d-4e5f-bc3e-6bf0f0e8a38a.jpg?v=1764135065
+    Price: ₹699.00 INR
+  - [Bottle Green / L](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241654581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_29bb8cf4-987d-4e5f-bc3e-6bf0f0e8a38a.jpg?v=1764135065
+    Price: ₹699.00 INR
+  - [Bottle Green / XL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241687349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_29bb8cf4-987d-4e5f-bc3e-6bf0f0e8a38a.jpg?v=1764135065
+    Price: ₹799.00 INR
+  - [Bottle Green / XXL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241720117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_29bb8cf4-987d-4e5f-bc3e-6bf0f0e8a38a.jpg?v=1764135065
+    Price: ₹799.00 INR
+  - [Bottle Green / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241752885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_29bb8cf4-987d-4e5f-bc3e-6bf0f0e8a38a.jpg?v=1764135065
+    Price: ₹699.00 INR
+  - [Bottle Green / XS](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241785653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_29bb8cf4-987d-4e5f-bc3e-6bf0f0e8a38a.jpg?v=1764135065
+    Price: ₹699.00 INR
+  - [Royal Blue / S](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241818421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_83c2f0a5-f5ea-4232-9816-f444f1f23caf.jpg?v=1764135065
+    Price: ₹699.00 INR
+  - [Royal Blue / M](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241851189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_83c2f0a5-f5ea-4232-9816-f444f1f23caf.jpg?v=1764135065
+    Price: ₹699.00 INR
+  - [Royal Blue / L](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241883957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_83c2f0a5-f5ea-4232-9816-f444f1f23caf.jpg?v=1764135065
+    Price: ₹699.00 INR
+  - [Royal Blue / XL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241916725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_83c2f0a5-f5ea-4232-9816-f444f1f23caf.jpg?v=1764135065
+    Price: ₹799.00 INR
+  - [Royal Blue / XXL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241949493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_83c2f0a5-f5ea-4232-9816-f444f1f23caf.jpg?v=1764135065
+    Price: ₹799.00 INR
+  - [Royal Blue / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991241982261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_83c2f0a5-f5ea-4232-9816-f444f1f23caf.jpg?v=1764135065
+    Price: ₹699.00 INR
+  - [Royal Blue / XS](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991242015029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_83c2f0a5-f5ea-4232-9816-f444f1f23caf.jpg?v=1764135065
+    Price: ₹699.00 INR
+  - [Red / S](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991242047797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_53272233-87bf-4bd9-a584-9083480b410d.jpg?v=1764135072
+    Price: ₹699.00 INR
+  - [Red / M](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991242080565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_53272233-87bf-4bd9-a584-9083480b410d.jpg?v=1764135072
+    Price: ₹699.00 INR
+  - [Red / L](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991242113333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_53272233-87bf-4bd9-a584-9083480b410d.jpg?v=1764135072
+    Price: ₹699.00 INR
+  - [Red / XL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991242146101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_53272233-87bf-4bd9-a584-9083480b410d.jpg?v=1764135072
+    Price: ₹799.00 INR
+  - [Red / XXL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991242178869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_53272233-87bf-4bd9-a584-9083480b410d.jpg?v=1764135072
+    Price: ₹799.00 INR
+  - [Red / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991242211637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_53272233-87bf-4bd9-a584-9083480b410d.jpg?v=1764135072
+    Price: ₹699.00 INR
+  - [Red / XS](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991242244405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_53272233-87bf-4bd9-a584-9083480b410d.jpg?v=1764135072
+    Price: ₹699.00 INR
+  - [Maroon / S](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991242277173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_0ea38b14-95ad-486e-ab14-051c7224bea8.jpg?v=1764135072
+    Price: ₹699.00 INR
+  - [Maroon / M](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991242309941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_0ea38b14-95ad-486e-ab14-051c7224bea8.jpg?v=1764135072
+    Price: ₹699.00 INR
+  - [Maroon / L](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991242342709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_0ea38b14-95ad-486e-ab14-051c7224bea8.jpg?v=1764135072
+    Price: ₹699.00 INR
+  - [Maroon / XL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991242375477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_0ea38b14-95ad-486e-ab14-051c7224bea8.jpg?v=1764135072
+    Price: ₹799.00 INR
+  - [Maroon / XXL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991242408245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_0ea38b14-95ad-486e-ab14-051c7224bea8.jpg?v=1764135072
+    Price: ₹799.00 INR
+  - [Maroon / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991242441013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_0ea38b14-95ad-486e-ab14-051c7224bea8.jpg?v=1764135072
+    Price: ₹699.00 INR
+  - [Maroon / XS](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991242473781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_0ea38b14-95ad-486e-ab14-051c7224bea8.jpg?v=1764135072
+    Price: ₹699.00 INR
+  - [Olive Green / S](https://vivaenterprises11.myshopify.com/products/unisex-hoodie-4?variant=51991242506549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_efd8b894-14d7-43a6-b8ae-0c02e46920a0.jpg?v=1764135080
+    Price: ₹699.00 INR
+- [The Father and Daughter Tee](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1): Fabric: 90/10 cotton polyester, 260 GSM Terry-knit texture with a premium hand-feel.Fit: Unisex oversized fit with drop shoulders – relaxed, roomy, and right on trend.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T17:31:16Z
+  Vendor: VIVA ENTERPRISES 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_fbcabea5-c25f-4e17-8f10-48da1915068f.jpg?v=1764135059
+  - [White / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991245717813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_1a8af464-82d8-4b23-b989-ed0245bfd4ab.jpg?v=1764135059
+    Price: ₹799.00 INR
+  - [White / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991245750581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_1a8af464-82d8-4b23-b989-ed0245bfd4ab.jpg?v=1764135059
+    Price: ₹799.00 INR
+  - [White / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991245783349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_1a8af464-82d8-4b23-b989-ed0245bfd4ab.jpg?v=1764135059
+    Price: ₹799.00 INR
+  - [White / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991245816117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_1a8af464-82d8-4b23-b989-ed0245bfd4ab.jpg?v=1764135059
+    Price: ₹799.00 INR
+  - [White / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991245848885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_1a8af464-82d8-4b23-b989-ed0245bfd4ab.jpg?v=1764135059
+    Price: ₹799.00 INR
+  - [White / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991245881653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_1a8af464-82d8-4b23-b989-ed0245bfd4ab.jpg?v=1764135059
+    Price: ₹799.00 INR
+  - [White / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991245914421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_1a8af464-82d8-4b23-b989-ed0245bfd4ab.jpg?v=1764135059
+    Price: ₹699.00 INR
+  - [Black / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991245947189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_fbcabea5-c25f-4e17-8f10-48da1915068f.jpg?v=1764135059
+    Price: ₹799.00 INR
+  - [Black / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991245979957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_fbcabea5-c25f-4e17-8f10-48da1915068f.jpg?v=1764135059
+    Price: ₹799.00 INR
+  - [Black / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246012725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_fbcabea5-c25f-4e17-8f10-48da1915068f.jpg?v=1764135059
+    Price: ₹799.00 INR
+  - [Black / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246045493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_fbcabea5-c25f-4e17-8f10-48da1915068f.jpg?v=1764135059
+    Price: ₹799.00 INR
+  - [Black / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246078261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_fbcabea5-c25f-4e17-8f10-48da1915068f.jpg?v=1764135059
+    Price: ₹799.00 INR
+  - [Black / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246111029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_fbcabea5-c25f-4e17-8f10-48da1915068f.jpg?v=1764135059
+    Price: ₹799.00 INR
+  - [Black / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246143797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_fbcabea5-c25f-4e17-8f10-48da1915068f.jpg?v=1764135059
+    Price: ₹699.00 INR
+  - [Navy Blue / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246176565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_3b40d360-d8cf-4c6b-b752-7c4a74910f79.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Navy Blue / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246209333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_3b40d360-d8cf-4c6b-b752-7c4a74910f79.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Navy Blue / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246242101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_3b40d360-d8cf-4c6b-b752-7c4a74910f79.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Navy Blue / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246274869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_3b40d360-d8cf-4c6b-b752-7c4a74910f79.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Navy Blue / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246307637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_3b40d360-d8cf-4c6b-b752-7c4a74910f79.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Navy Blue / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246340405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_3b40d360-d8cf-4c6b-b752-7c4a74910f79.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Navy Blue / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246373173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_3b40d360-d8cf-4c6b-b752-7c4a74910f79.jpg?v=1764135066
+    Price: ₹699.00 INR
+  - [Bottle Green / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246405941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_1de2eec0-ba37-4704-b319-67377960aa8a.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Bottle Green / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246438709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_1de2eec0-ba37-4704-b319-67377960aa8a.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Bottle Green / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246471477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_1de2eec0-ba37-4704-b319-67377960aa8a.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Bottle Green / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246504245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_1de2eec0-ba37-4704-b319-67377960aa8a.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Bottle Green / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246537013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_1de2eec0-ba37-4704-b319-67377960aa8a.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Bottle Green / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246569781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_1de2eec0-ba37-4704-b319-67377960aa8a.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Bottle Green / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246602549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_1de2eec0-ba37-4704-b319-67377960aa8a.jpg?v=1764135066
+    Price: ₹699.00 INR
+  - [Red / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246635317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_12deba1e-7450-4782-9ead-ce3c70345130.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Red / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246668085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_12deba1e-7450-4782-9ead-ce3c70345130.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Red / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246700853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_12deba1e-7450-4782-9ead-ce3c70345130.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Red / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246733621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_12deba1e-7450-4782-9ead-ce3c70345130.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Red / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246766389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_12deba1e-7450-4782-9ead-ce3c70345130.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Red / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246799157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_12deba1e-7450-4782-9ead-ce3c70345130.jpg?v=1764135066
+    Price: ₹799.00 INR
+  - [Red / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246831925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_12deba1e-7450-4782-9ead-ce3c70345130.jpg?v=1764135066
+    Price: ₹699.00 INR
+  - [Maroon / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246864693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_cff7ef91-419f-4711-945b-70bf010ec28d.jpg?v=1764135072
+    Price: ₹799.00 INR
+  - [Maroon / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246897461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_cff7ef91-419f-4711-945b-70bf010ec28d.jpg?v=1764135072
+    Price: ₹799.00 INR
+  - [Maroon / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246930229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_cff7ef91-419f-4711-945b-70bf010ec28d.jpg?v=1764135072
+    Price: ₹799.00 INR
+  - [Maroon / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246962997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_cff7ef91-419f-4711-945b-70bf010ec28d.jpg?v=1764135072
+    Price: ₹799.00 INR
+  - [Maroon / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991246995765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_cff7ef91-419f-4711-945b-70bf010ec28d.jpg?v=1764135072
+    Price: ₹799.00 INR
+  - [Maroon / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991247028533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_cff7ef91-419f-4711-945b-70bf010ec28d.jpg?v=1764135072
+    Price: ₹799.00 INR
+  - [Maroon / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991247061301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_cff7ef91-419f-4711-945b-70bf010ec28d.jpg?v=1764135072
+    Price: ₹699.00 INR
+  - [Light Baby Pink / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991247094069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_22bc62fd-6ca2-4ebc-b6d5-1cd80f9e4dd9.jpg?v=1764135073
+    Price: ₹799.00 INR
+  - [Light Baby Pink / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991247126837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_22bc62fd-6ca2-4ebc-b6d5-1cd80f9e4dd9.jpg?v=1764135073
+    Price: ₹799.00 INR
+  - [Light Baby Pink / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991247159605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_22bc62fd-6ca2-4ebc-b6d5-1cd80f9e4dd9.jpg?v=1764135073
+    Price: ₹799.00 INR
+  - [Light Baby Pink / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991247192373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_22bc62fd-6ca2-4ebc-b6d5-1cd80f9e4dd9.jpg?v=1764135073
+    Price: ₹799.00 INR
+  - [Light Baby Pink / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991247225141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_22bc62fd-6ca2-4ebc-b6d5-1cd80f9e4dd9.jpg?v=1764135073
+    Price: ₹799.00 INR
+  - [Light Baby Pink / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991247257909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_22bc62fd-6ca2-4ebc-b6d5-1cd80f9e4dd9.jpg?v=1764135073
+    Price: ₹799.00 INR
+  - [Light Baby Pink / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991247290677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_22bc62fd-6ca2-4ebc-b6d5-1cd80f9e4dd9.jpg?v=1764135073
+    Price: ₹699.00 INR
+  - [Lavender / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-1?variant=51991247323445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_49_259eb718-5097-4376-9858-28f9770aabc4.jpg?v=1764135081
+    Price: ₹799.00 INR
+- [Red T-shirt with Michael Jackson Fedora Design](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2): Fabric: 90/10 cotton polyester, 260 GSM Terry-knit texture with a premium hand-feel.Fit: Unisex oversized fit with drop shoulders – relaxed, roomy, and right on trend.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T17:32:58Z
+  Vendor: VIVA ENTERPRISES 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_4389e44f-2a3d-43da-80fb-5b0fc2ea9a48.jpg?v=1764135061
+  - [White / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991250731317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_cc26755a-1869-4c9c-90df-38fee9caca32.jpg?v=1764135061
+    Price: ₹799.00 INR
+  - [White / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991250764085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_cc26755a-1869-4c9c-90df-38fee9caca32.jpg?v=1764135061
+    Price: ₹799.00 INR
+  - [White / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991250796853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_cc26755a-1869-4c9c-90df-38fee9caca32.jpg?v=1764135061
+    Price: ₹799.00 INR
+  - [White / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991250829621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_cc26755a-1869-4c9c-90df-38fee9caca32.jpg?v=1764135061
+    Price: ₹799.00 INR
+  - [White / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991250862389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_cc26755a-1869-4c9c-90df-38fee9caca32.jpg?v=1764135061
+    Price: ₹799.00 INR
+  - [White / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991250895157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_cc26755a-1869-4c9c-90df-38fee9caca32.jpg?v=1764135061
+    Price: ₹799.00 INR
+  - [White / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991250927925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_cc26755a-1869-4c9c-90df-38fee9caca32.jpg?v=1764135061
+    Price: ₹699.00 INR
+  - [Black / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991250960693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_4389e44f-2a3d-43da-80fb-5b0fc2ea9a48.jpg?v=1764135061
+    Price: ₹799.00 INR
+  - [Black / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991250993461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_4389e44f-2a3d-43da-80fb-5b0fc2ea9a48.jpg?v=1764135061
+    Price: ₹799.00 INR
+  - [Black / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251026229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_4389e44f-2a3d-43da-80fb-5b0fc2ea9a48.jpg?v=1764135061
+    Price: ₹799.00 INR
+  - [Black / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251058997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_4389e44f-2a3d-43da-80fb-5b0fc2ea9a48.jpg?v=1764135061
+    Price: ₹799.00 INR
+  - [Black / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251091765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_4389e44f-2a3d-43da-80fb-5b0fc2ea9a48.jpg?v=1764135061
+    Price: ₹799.00 INR
+  - [Black / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251124533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_4389e44f-2a3d-43da-80fb-5b0fc2ea9a48.jpg?v=1764135061
+    Price: ₹799.00 INR
+  - [Black / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251157301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_4389e44f-2a3d-43da-80fb-5b0fc2ea9a48.jpg?v=1764135061
+    Price: ₹699.00 INR
+  - [Navy Blue / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251190069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_d3b57fb9-e72d-4cdd-a9a2-908153c0331b.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Navy Blue / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251222837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_d3b57fb9-e72d-4cdd-a9a2-908153c0331b.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Navy Blue / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251255605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_d3b57fb9-e72d-4cdd-a9a2-908153c0331b.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Navy Blue / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251288373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_d3b57fb9-e72d-4cdd-a9a2-908153c0331b.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Navy Blue / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251321141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_d3b57fb9-e72d-4cdd-a9a2-908153c0331b.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Navy Blue / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251353909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_d3b57fb9-e72d-4cdd-a9a2-908153c0331b.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Navy Blue / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251386677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_d3b57fb9-e72d-4cdd-a9a2-908153c0331b.jpg?v=1764135068
+    Price: ₹699.00 INR
+  - [Bottle Green / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251419445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_932fb441-a1ed-4897-ac40-3dab49502c2c.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Bottle Green / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251452213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_932fb441-a1ed-4897-ac40-3dab49502c2c.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Bottle Green / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251484981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_932fb441-a1ed-4897-ac40-3dab49502c2c.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Bottle Green / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251517749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_932fb441-a1ed-4897-ac40-3dab49502c2c.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Bottle Green / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251550517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_932fb441-a1ed-4897-ac40-3dab49502c2c.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Bottle Green / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251583285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_932fb441-a1ed-4897-ac40-3dab49502c2c.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Bottle Green / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251616053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_932fb441-a1ed-4897-ac40-3dab49502c2c.jpg?v=1764135068
+    Price: ₹699.00 INR
+  - [Red / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251648821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_2e374407-e50d-4d80-ba08-f88e54a0d2be.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Red / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251681589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_2e374407-e50d-4d80-ba08-f88e54a0d2be.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Red / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251714357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_2e374407-e50d-4d80-ba08-f88e54a0d2be.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Red / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251747125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_2e374407-e50d-4d80-ba08-f88e54a0d2be.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Red / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251779893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_2e374407-e50d-4d80-ba08-f88e54a0d2be.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Red / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251812661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_2e374407-e50d-4d80-ba08-f88e54a0d2be.jpg?v=1764135068
+    Price: ₹799.00 INR
+  - [Red / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251845429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_2e374407-e50d-4d80-ba08-f88e54a0d2be.jpg?v=1764135068
+    Price: ₹699.00 INR
+  - [Maroon / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251878197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_4bfb3480-f7a9-4e8f-9b80-48b4eb1312ea.jpg?v=1764135074
+    Price: ₹799.00 INR
+  - [Maroon / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251910965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_4bfb3480-f7a9-4e8f-9b80-48b4eb1312ea.jpg?v=1764135074
+    Price: ₹799.00 INR
+  - [Maroon / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251943733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_4bfb3480-f7a9-4e8f-9b80-48b4eb1312ea.jpg?v=1764135074
+    Price: ₹799.00 INR
+  - [Maroon / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991251976501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_4bfb3480-f7a9-4e8f-9b80-48b4eb1312ea.jpg?v=1764135074
+    Price: ₹799.00 INR
+  - [Maroon / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991252009269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_4bfb3480-f7a9-4e8f-9b80-48b4eb1312ea.jpg?v=1764135074
+    Price: ₹799.00 INR
+  - [Maroon / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991252042037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_4bfb3480-f7a9-4e8f-9b80-48b4eb1312ea.jpg?v=1764135074
+    Price: ₹799.00 INR
+  - [Maroon / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991252074805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_4bfb3480-f7a9-4e8f-9b80-48b4eb1312ea.jpg?v=1764135074
+    Price: ₹699.00 INR
+  - [Light Baby Pink / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991252107573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_9bfe20a0-a8ec-40a4-a55c-f496f7020065.jpg?v=1764135074
+    Price: ₹799.00 INR
+  - [Light Baby Pink / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991252140341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_9bfe20a0-a8ec-40a4-a55c-f496f7020065.jpg?v=1764135074
+    Price: ₹799.00 INR
+  - [Light Baby Pink / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991252173109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_9bfe20a0-a8ec-40a4-a55c-f496f7020065.jpg?v=1764135074
+    Price: ₹799.00 INR
+  - [Light Baby Pink / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991252205877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_9bfe20a0-a8ec-40a4-a55c-f496f7020065.jpg?v=1764135074
+    Price: ₹799.00 INR
+  - [Light Baby Pink / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991252238645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_9bfe20a0-a8ec-40a4-a55c-f496f7020065.jpg?v=1764135074
+    Price: ₹799.00 INR
+  - [Light Baby Pink / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991252271413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_9bfe20a0-a8ec-40a4-a55c-f496f7020065.jpg?v=1764135074
+    Price: ₹799.00 INR
+  - [Light Baby Pink / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991252304181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_9bfe20a0-a8ec-40a4-a55c-f496f7020065.jpg?v=1764135074
+    Price: ₹699.00 INR
+  - [Lavender / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-2?variant=51991252336949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_49_1eedd20f-b9da-4361-9d2f-ff4ede1df8bb.jpg?v=1764135083
+    Price: ₹799.00 INR
+- [The Captain Jack Sparrow T-shirt T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt): Fabric: 100% cotton with 240 GSM heavyweight yet breathable for that perfect oversized drape. Fit: Unisex oversized fit – designed with extra length and sleeve drop for a stylish slouch.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing
+  Updated: 2025-11-26T20:02:43Z
+  Vendor: VIVA ENTERPRISES 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_7a79aaef-773e-4e77-92f3-88f5693751e7.jpg?v=1764143691
+  - [Navy Blue / S](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047124789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_920d4f84-2a8d-41b3-98a6-c621d90fe2c5.jpg?v=1764143691
+    Price: ₹599.00 INR
+  - [Navy Blue / M](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047157557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_920d4f84-2a8d-41b3-98a6-c621d90fe2c5.jpg?v=1764143691
+    Price: ₹599.00 INR
+  - [Navy Blue / L](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047190325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_920d4f84-2a8d-41b3-98a6-c621d90fe2c5.jpg?v=1764143691
+    Price: ₹599.00 INR
+  - [Navy Blue / XL](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047223093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_920d4f84-2a8d-41b3-98a6-c621d90fe2c5.jpg?v=1764143691
+    Price: ₹699.00 INR
+  - [Navy Blue / XXL](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047255861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_920d4f84-2a8d-41b3-98a6-c621d90fe2c5.jpg?v=1764143691
+    Price: ₹699.00 INR
+  - [Navy Blue / XS](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047288629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_920d4f84-2a8d-41b3-98a6-c621d90fe2c5.jpg?v=1764143691
+    Price: ₹599.00 INR
+  - [Grey Melange / S](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047321397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_7a79aaef-773e-4e77-92f3-88f5693751e7.jpg?v=1764143691
+    Price: ₹599.00 INR
+  - [Grey Melange / M](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047354165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_7a79aaef-773e-4e77-92f3-88f5693751e7.jpg?v=1764143691
+    Price: ₹599.00 INR
+  - [Grey Melange / L](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047386933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_7a79aaef-773e-4e77-92f3-88f5693751e7.jpg?v=1764143691
+    Price: ₹599.00 INR
+  - [Grey Melange / XL](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047419701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_7a79aaef-773e-4e77-92f3-88f5693751e7.jpg?v=1764143691
+    Price: ₹699.00 INR
+  - [Grey Melange / XXL](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047452469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_7a79aaef-773e-4e77-92f3-88f5693751e7.jpg?v=1764143691
+    Price: ₹699.00 INR
+  - [Grey Melange / XS](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047485237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_7a79aaef-773e-4e77-92f3-88f5693751e7.jpg?v=1764143691
+    Price: ₹599.00 INR
+  - [Bottle Green / S](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047518005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_183c11c9-0a71-433b-af78-a598743d62fa.jpg?v=1764143694
+    Price: ₹599.00 INR
+  - [Bottle Green / M](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047550773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_183c11c9-0a71-433b-af78-a598743d62fa.jpg?v=1764143694
+    Price: ₹599.00 INR
+  - [Bottle Green / L](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047583541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_183c11c9-0a71-433b-af78-a598743d62fa.jpg?v=1764143694
+    Price: ₹599.00 INR
+  - [Bottle Green / XL](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047616309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_183c11c9-0a71-433b-af78-a598743d62fa.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [Bottle Green / XXL](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047649077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_183c11c9-0a71-433b-af78-a598743d62fa.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [Bottle Green / XS](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047681845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_183c11c9-0a71-433b-af78-a598743d62fa.jpg?v=1764143694
+    Price: ₹599.00 INR
+  - [Royal Blue / S](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047714613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_5d71a499-e48a-4812-ac14-e2b29fa1f204.jpg?v=1764143694
+    Price: ₹599.00 INR
+  - [Royal Blue / M](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047747381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_5d71a499-e48a-4812-ac14-e2b29fa1f204.jpg?v=1764143694
+    Price: ₹599.00 INR
+  - [Royal Blue / L](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047780149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_5d71a499-e48a-4812-ac14-e2b29fa1f204.jpg?v=1764143694
+    Price: ₹599.00 INR
+  - [Royal Blue / XL](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047812917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_5d71a499-e48a-4812-ac14-e2b29fa1f204.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [Royal Blue / XXL](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047845685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_5d71a499-e48a-4812-ac14-e2b29fa1f204.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [Royal Blue / XS](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047878453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_9_5d71a499-e48a-4812-ac14-e2b29fa1f204.jpg?v=1764143694
+    Price: ₹599.00 INR
+  - [Red / S](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047911221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_7c14f345-fd8d-4825-aa40-9bbcd9e5ab90.jpg?v=1764143695
+    Price: ₹599.00 INR
+  - [Red / M](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047943989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_7c14f345-fd8d-4825-aa40-9bbcd9e5ab90.jpg?v=1764143695
+    Price: ₹599.00 INR
+  - [Red / L](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992047976757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_7c14f345-fd8d-4825-aa40-9bbcd9e5ab90.jpg?v=1764143695
+    Price: ₹599.00 INR
+  - [Red / XL](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048009525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_7c14f345-fd8d-4825-aa40-9bbcd9e5ab90.jpg?v=1764143695
+    Price: ₹699.00 INR
+  - [Red / XXL](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048042293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_7c14f345-fd8d-4825-aa40-9bbcd9e5ab90.jpg?v=1764143695
+    Price: ₹699.00 INR
+  - [Red / XS](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048075061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_7c14f345-fd8d-4825-aa40-9bbcd9e5ab90.jpg?v=1764143695
+    Price: ₹599.00 INR
+  - [Maroon / S](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048107829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_8e6f0753-2b60-4a82-bf62-883a1a515e15.jpg?v=1764143699
+    Price: ₹599.00 INR
+  - [Maroon / M](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048140597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_8e6f0753-2b60-4a82-bf62-883a1a515e15.jpg?v=1764143699
+    Price: ₹599.00 INR
+  - [Maroon / L](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048173365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_8e6f0753-2b60-4a82-bf62-883a1a515e15.jpg?v=1764143699
+    Price: ₹599.00 INR
+  - [Maroon / XL](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048206133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_8e6f0753-2b60-4a82-bf62-883a1a515e15.jpg?v=1764143699
+    Price: ₹699.00 INR
+  - [Maroon / XXL](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048238901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_8e6f0753-2b60-4a82-bf62-883a1a515e15.jpg?v=1764143699
+    Price: ₹699.00 INR
+  - [Maroon / XS](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048271669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_8e6f0753-2b60-4a82-bf62-883a1a515e15.jpg?v=1764143699
+    Price: ₹599.00 INR
+  - [Purple / S](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048304437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_dd1cba6d-6893-43eb-aac3-5ecf8744e28d.jpg?v=1764143699
+    Price: ₹599.00 INR
+  - [Purple / M](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048337205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_dd1cba6d-6893-43eb-aac3-5ecf8744e28d.jpg?v=1764143699
+    Price: ₹599.00 INR
+  - [Purple / L](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048369973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_dd1cba6d-6893-43eb-aac3-5ecf8744e28d.jpg?v=1764143699
+    Price: ₹599.00 INR
+  - [Purple / XL](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048402741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_dd1cba6d-6893-43eb-aac3-5ecf8744e28d.jpg?v=1764143699
+    Price: ₹699.00 INR
+  - [Purple / XXL](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048435509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_dd1cba6d-6893-43eb-aac3-5ecf8744e28d.jpg?v=1764143699
+    Price: ₹699.00 INR
+  - [Purple / XS](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048468277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_dd1cba6d-6893-43eb-aac3-5ecf8744e28d.jpg?v=1764143699
+    Price: ₹599.00 INR
+  - [Golden Yellow / S](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048501045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_35_e6ce80a2-b1a7-4254-aeb5-0063ca1e6506.jpg?v=1764143703
+    Price: ₹599.00 INR
+  - [Golden Yellow / M](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048533813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_35_e6ce80a2-b1a7-4254-aeb5-0063ca1e6506.jpg?v=1764143703
+    Price: ₹599.00 INR
+  - [Golden Yellow / L](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048566581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_35_e6ce80a2-b1a7-4254-aeb5-0063ca1e6506.jpg?v=1764143703
+    Price: ₹599.00 INR
+  - [Golden Yellow / XL](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048599349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_35_e6ce80a2-b1a7-4254-aeb5-0063ca1e6506.jpg?v=1764143703
+    Price: ₹699.00 INR
+  - [Golden Yellow / XXL](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048632117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_35_e6ce80a2-b1a7-4254-aeb5-0063ca1e6506.jpg?v=1764143703
+    Price: ₹699.00 INR
+  - [Golden Yellow / XS](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048664885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_35_e6ce80a2-b1a7-4254-aeb5-0063ca1e6506.jpg?v=1764143703
+    Price: ₹599.00 INR
+  - [Petrol Blue / S](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048697653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_38_47e47036-4fe4-4570-ad09-1e8621b17b74.jpg?v=1764143703
+    Price: ₹599.00 INR
+  - [Petrol Blue / M](https://vivaenterprises11.myshopify.com/products/unisex-oversized-classic-t-shirt?variant=51992048730421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_38_47e47036-4fe4-4570-ad09-1e8621b17b74.jpg?v=1764143703
+    Price: ₹599.00 INR
+- [Rainbow Gorila t shirt](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T20:42:19Z
+  Vendor: VIVA ENTERPRISES 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_5523b6d6-1a77-4691-a2fa-1e3e56fa8def.jpg?v=1764143692
+  - [White / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050106677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_504a58b7-1cca-4f56-b3d0-03d3d0e223d6.jpg?v=1764143692
+    Price: ₹299.00 INR
+  - [White / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050139445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_504a58b7-1cca-4f56-b3d0-03d3d0e223d6.jpg?v=1764143692
+    Price: ₹299.00 INR
+  - [White / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050172213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_504a58b7-1cca-4f56-b3d0-03d3d0e223d6.jpg?v=1764143692
+    Price: ₹299.00 INR
+  - [White / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050204981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_504a58b7-1cca-4f56-b3d0-03d3d0e223d6.jpg?v=1764143692
+    Price: ₹299.00 INR
+  - [White / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050237749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_504a58b7-1cca-4f56-b3d0-03d3d0e223d6.jpg?v=1764143692
+    Price: ₹299.00 INR
+  - [White / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050270517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_504a58b7-1cca-4f56-b3d0-03d3d0e223d6.jpg?v=1764143692
+    Price: ₹299.00 INR
+  - [Black / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050303285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_5523b6d6-1a77-4691-a2fa-1e3e56fa8def.jpg?v=1764143692
+    Price: ₹299.00 INR
+  - [Black / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050336053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_5523b6d6-1a77-4691-a2fa-1e3e56fa8def.jpg?v=1764143692
+    Price: ₹299.00 INR
+  - [Black / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050368821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_5523b6d6-1a77-4691-a2fa-1e3e56fa8def.jpg?v=1764143692
+    Price: ₹299.00 INR
+  - [Black / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050401589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_5523b6d6-1a77-4691-a2fa-1e3e56fa8def.jpg?v=1764143692
+    Price: ₹299.00 INR
+  - [Black / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050434357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_5523b6d6-1a77-4691-a2fa-1e3e56fa8def.jpg?v=1764143692
+    Price: ₹299.00 INR
+  - [Black / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050467125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_5523b6d6-1a77-4691-a2fa-1e3e56fa8def.jpg?v=1764143692
+    Price: ₹299.00 INR
+  - [Navy Blue / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050499893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_a58c3cb8-4da6-4ad0-84bc-b2609006e743.jpg?v=1764143695
+    Price: ₹299.00 INR
+  - [Navy Blue / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050532661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_a58c3cb8-4da6-4ad0-84bc-b2609006e743.jpg?v=1764143695
+    Price: ₹299.00 INR
+  - [Navy Blue / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050565429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_a58c3cb8-4da6-4ad0-84bc-b2609006e743.jpg?v=1764143695
+    Price: ₹299.00 INR
+  - [Navy Blue / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050598197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_a58c3cb8-4da6-4ad0-84bc-b2609006e743.jpg?v=1764143695
+    Price: ₹299.00 INR
+  - [Navy Blue / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050630965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_a58c3cb8-4da6-4ad0-84bc-b2609006e743.jpg?v=1764143695
+    Price: ₹299.00 INR
+  - [Navy Blue / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050663733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_a58c3cb8-4da6-4ad0-84bc-b2609006e743.jpg?v=1764143695
+    Price: ₹299.00 INR
+  - [Grey Melange / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050696501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_330f477f-2bdd-406f-a11d-7b6322d35688.jpg?v=1764143696
+    Price: ₹299.00 INR
+  - [Grey Melange / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050729269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_330f477f-2bdd-406f-a11d-7b6322d35688.jpg?v=1764143696
+    Price: ₹299.00 INR
+  - [Grey Melange / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050762037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_330f477f-2bdd-406f-a11d-7b6322d35688.jpg?v=1764143696
+    Price: ₹299.00 INR
+  - [Grey Melange / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050794805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_330f477f-2bdd-406f-a11d-7b6322d35688.jpg?v=1764143696
+    Price: ₹299.00 INR
+  - [Grey Melange / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050827573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_330f477f-2bdd-406f-a11d-7b6322d35688.jpg?v=1764143696
+    Price: ₹299.00 INR
+  - [Grey Melange / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050860341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_330f477f-2bdd-406f-a11d-7b6322d35688.jpg?v=1764143696
+    Price: ₹299.00 INR
+  - [Red / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050893109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_7dafc2cc-69e4-425a-9d09-fe1df24e8489.jpg?v=1764143696
+    Price: ₹299.00 INR
+  - [Red / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050925877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_7dafc2cc-69e4-425a-9d09-fe1df24e8489.jpg?v=1764143696
+    Price: ₹299.00 INR
+  - [Red / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050958645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_7dafc2cc-69e4-425a-9d09-fe1df24e8489.jpg?v=1764143696
+    Price: ₹299.00 INR
+  - [Red / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992050991413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_7dafc2cc-69e4-425a-9d09-fe1df24e8489.jpg?v=1764143696
+    Price: ₹299.00 INR
+  - [Red / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051024181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_7dafc2cc-69e4-425a-9d09-fe1df24e8489.jpg?v=1764143696
+    Price: ₹299.00 INR
+  - [Red / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051056949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_7dafc2cc-69e4-425a-9d09-fe1df24e8489.jpg?v=1764143696
+    Price: ₹299.00 INR
+  - [Purple / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051089717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_084aed12-7866-4045-9c3c-fb7c8c01c11d.jpg?v=1764143701
+    Price: ₹299.00 INR
+  - [Purple / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051122485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_084aed12-7866-4045-9c3c-fb7c8c01c11d.jpg?v=1764143701
+    Price: ₹299.00 INR
+  - [Purple / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051155253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_084aed12-7866-4045-9c3c-fb7c8c01c11d.jpg?v=1764143701
+    Price: ₹299.00 INR
+  - [Purple / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051188021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_084aed12-7866-4045-9c3c-fb7c8c01c11d.jpg?v=1764143701
+    Price: ₹299.00 INR
+  - [Purple / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051220789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_084aed12-7866-4045-9c3c-fb7c8c01c11d.jpg?v=1764143701
+    Price: ₹299.00 INR
+  - [Purple / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051253557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_084aed12-7866-4045-9c3c-fb7c8c01c11d.jpg?v=1764143701
+    Price: ₹299.00 INR
+  - [Black melange / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051286325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_04f20f1b-8644-4acd-b926-7777ba0eddc3.jpg?v=1764143701
+    Price: ₹299.00 INR
+  - [Black melange / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051319093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_04f20f1b-8644-4acd-b926-7777ba0eddc3.jpg?v=1764143701
+    Price: ₹299.00 INR
+  - [Black melange / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051351861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_04f20f1b-8644-4acd-b926-7777ba0eddc3.jpg?v=1764143701
+    Price: ₹299.00 INR
+  - [Black melange / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051384629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_04f20f1b-8644-4acd-b926-7777ba0eddc3.jpg?v=1764143701
+    Price: ₹299.00 INR
+  - [Black melange / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051417397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_04f20f1b-8644-4acd-b926-7777ba0eddc3.jpg?v=1764143701
+    Price: ₹299.00 INR
+  - [Black melange / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051450165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_04f20f1b-8644-4acd-b926-7777ba0eddc3.jpg?v=1764143701
+    Price: ₹299.00 INR
+  - [Navy melange / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051482933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_d5b280cf-af57-415d-8aeb-1cc5bd94530c.jpg?v=1764143704
+    Price: ₹299.00 INR
+  - [Navy melange / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051515701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_d5b280cf-af57-415d-8aeb-1cc5bd94530c.jpg?v=1764143704
+    Price: ₹299.00 INR
+  - [Navy melange / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051548469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_d5b280cf-af57-415d-8aeb-1cc5bd94530c.jpg?v=1764143704
+    Price: ₹299.00 INR
+  - [Navy melange / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051581237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_d5b280cf-af57-415d-8aeb-1cc5bd94530c.jpg?v=1764143704
+    Price: ₹299.00 INR
+  - [Navy melange / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051614005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_d5b280cf-af57-415d-8aeb-1cc5bd94530c.jpg?v=1764143704
+    Price: ₹299.00 INR
+  - [Navy melange / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051646773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_d5b280cf-af57-415d-8aeb-1cc5bd94530c.jpg?v=1764143704
+    Price: ₹299.00 INR
+  - [Purple melange / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051679541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_64_6da4488e-0ba0-4bda-afe1-9a15e52470ea.jpg?v=1764143704
+    Price: ₹299.00 INR
+  - [Purple melange / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-72?variant=51992051712309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_64_6da4488e-0ba0-4bda-afe1-9a15e52470ea.jpg?v=1764143704
+    Price: ₹299.00 INR
+- [Rainbow Gorilla Sweatshirt](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9): Fabric: 100% cotton, 300 GSM fleece – thick, soft, and breathable for daily comfort. Fit: Unisex regular fit – crafted for a relaxed silhouette with snug ribbed cuffs and hem.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T19:55:05Z
+  Vendor: VIVA ENTERPRISES 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_8b2e9d36-06f5-40d5-beb3-574b42dfdb14.jpg?v=1764143694
+  - [White / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992051908917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_3853a9ff-6c5d-4470-9aa3-9e549e85efa6.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [White / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992051941685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_3853a9ff-6c5d-4470-9aa3-9e549e85efa6.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [White / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992051974453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_3853a9ff-6c5d-4470-9aa3-9e549e85efa6.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [White / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052007221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_3853a9ff-6c5d-4470-9aa3-9e549e85efa6.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [White / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052039989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_3853a9ff-6c5d-4470-9aa3-9e549e85efa6.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [White / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052072757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_3853a9ff-6c5d-4470-9aa3-9e549e85efa6.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [White / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052105525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_3853a9ff-6c5d-4470-9aa3-9e549e85efa6.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [Black / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052138293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_8b2e9d36-06f5-40d5-beb3-574b42dfdb14.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [Black / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052171061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_8b2e9d36-06f5-40d5-beb3-574b42dfdb14.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [Black / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052203829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_8b2e9d36-06f5-40d5-beb3-574b42dfdb14.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [Black / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052236597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_8b2e9d36-06f5-40d5-beb3-574b42dfdb14.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [Black / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052269365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_8b2e9d36-06f5-40d5-beb3-574b42dfdb14.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [Black / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052302133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_8b2e9d36-06f5-40d5-beb3-574b42dfdb14.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [Black / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052334901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_8b2e9d36-06f5-40d5-beb3-574b42dfdb14.jpg?v=1764143694
+    Price: ₹699.00 INR
+  - [Navy Blue / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052367669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_ff485c3b-8844-41f0-a13f-3c9af0e154ce.jpg?v=1764143698
+    Price: ₹699.00 INR
+  - [Navy Blue / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052400437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_ff485c3b-8844-41f0-a13f-3c9af0e154ce.jpg?v=1764143698
+    Price: ₹699.00 INR
+  - [Navy Blue / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052433205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_ff485c3b-8844-41f0-a13f-3c9af0e154ce.jpg?v=1764143698
+    Price: ₹699.00 INR
+  - [Navy Blue / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052465973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_ff485c3b-8844-41f0-a13f-3c9af0e154ce.jpg?v=1764143698
+    Price: ₹699.00 INR
+  - [Navy Blue / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052498741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_ff485c3b-8844-41f0-a13f-3c9af0e154ce.jpg?v=1764143698
+    Price: ₹699.00 INR
+  - [Navy Blue / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052531509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_ff485c3b-8844-41f0-a13f-3c9af0e154ce.jpg?v=1764143698
+    Price: ₹699.00 INR
+  - [Navy Blue / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052564277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_ff485c3b-8844-41f0-a13f-3c9af0e154ce.jpg?v=1764143698
+    Price: ₹699.00 INR
+  - [Grey Melange / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052597045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_d7a41693-4b87-4962-bfd5-54c6a7542df6.jpg?v=1764143699
+    Price: ₹699.00 INR
+  - [Grey Melange / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052629813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_d7a41693-4b87-4962-bfd5-54c6a7542df6.jpg?v=1764143699
+    Price: ₹699.00 INR
+  - [Grey Melange / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052662581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_d7a41693-4b87-4962-bfd5-54c6a7542df6.jpg?v=1764143699
+    Price: ₹699.00 INR
+  - [Grey Melange / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052695349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_d7a41693-4b87-4962-bfd5-54c6a7542df6.jpg?v=1764143699
+    Price: ₹699.00 INR
+  - [Grey Melange / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052728117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_d7a41693-4b87-4962-bfd5-54c6a7542df6.jpg?v=1764143699
+    Price: ₹699.00 INR
+  - [Grey Melange / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052760885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_d7a41693-4b87-4962-bfd5-54c6a7542df6.jpg?v=1764143699
+    Price: ₹699.00 INR
+  - [Grey Melange / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052793653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_d7a41693-4b87-4962-bfd5-54c6a7542df6.jpg?v=1764143699
+    Price: ₹699.00 INR
+  - [Maroon / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052826421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_6296983a-a065-4dcf-9e83-86f68a1eb7a1.jpg?v=1764143698
+    Price: ₹699.00 INR
+  - [Maroon / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052859189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_6296983a-a065-4dcf-9e83-86f68a1eb7a1.jpg?v=1764143698
+    Price: ₹699.00 INR
+  - [Maroon / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052891957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_6296983a-a065-4dcf-9e83-86f68a1eb7a1.jpg?v=1764143698
+    Price: ₹699.00 INR
+  - [Maroon / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052924725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_6296983a-a065-4dcf-9e83-86f68a1eb7a1.jpg?v=1764143698
+    Price: ₹699.00 INR
+  - [Maroon / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052957493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_6296983a-a065-4dcf-9e83-86f68a1eb7a1.jpg?v=1764143698
+    Price: ₹699.00 INR
+  - [Maroon / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992052990261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_6296983a-a065-4dcf-9e83-86f68a1eb7a1.jpg?v=1764143698
+    Price: ₹699.00 INR
+  - [Maroon / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992053023029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_6296983a-a065-4dcf-9e83-86f68a1eb7a1.jpg?v=1764143698
+    Price: ₹699.00 INR
+  - [Olive Green / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992053055797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_8bdc1a3e-4062-4ba7-9385-716f2769028d.jpg?v=1764143702
+    Price: ₹699.00 INR
+  - [Olive Green / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992053088565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_8bdc1a3e-4062-4ba7-9385-716f2769028d.jpg?v=1764143702
+    Price: ₹699.00 INR
+  - [Olive Green / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992053121333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_8bdc1a3e-4062-4ba7-9385-716f2769028d.jpg?v=1764143702
+    Price: ₹699.00 INR
+  - [Olive Green / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992053154101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_8bdc1a3e-4062-4ba7-9385-716f2769028d.jpg?v=1764143702
+    Price: ₹699.00 INR
+  - [Olive Green / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992053186869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_8bdc1a3e-4062-4ba7-9385-716f2769028d.jpg?v=1764143702
+    Price: ₹699.00 INR
+  - [Olive Green / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992053219637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_8bdc1a3e-4062-4ba7-9385-716f2769028d.jpg?v=1764143702
+    Price: ₹699.00 INR
+  - [Olive Green / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992053252405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_8bdc1a3e-4062-4ba7-9385-716f2769028d.jpg?v=1764143702
+    Price: ₹699.00 INR
+  - [Mustard Yellow / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992053285173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_41ccc0b5-f5f1-4d28-b12c-9c1c6228b6ba.jpg?v=1764143702
+    Price: ₹699.00 INR
+  - [Mustard Yellow / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992053317941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_41ccc0b5-f5f1-4d28-b12c-9c1c6228b6ba.jpg?v=1764143702
+    Price: ₹699.00 INR
+  - [Mustard Yellow / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992053350709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_41ccc0b5-f5f1-4d28-b12c-9c1c6228b6ba.jpg?v=1764143702
+    Price: ₹699.00 INR
+  - [Mustard Yellow / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992053383477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_41ccc0b5-f5f1-4d28-b12c-9c1c6228b6ba.jpg?v=1764143702
+    Price: ₹699.00 INR
+  - [Mustard Yellow / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992053416245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_41ccc0b5-f5f1-4d28-b12c-9c1c6228b6ba.jpg?v=1764143702
+    Price: ₹699.00 INR
+  - [Mustard Yellow / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992053449013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_41ccc0b5-f5f1-4d28-b12c-9c1c6228b6ba.jpg?v=1764143702
+    Price: ₹699.00 INR
+  - [Mustard Yellow / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992053481781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_41ccc0b5-f5f1-4d28-b12c-9c1c6228b6ba.jpg?v=1764143702
+    Price: ₹699.00 INR
+  - [Light Baby Pink / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-9?variant=51992053514549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_60689c79-a0e2-43f7-94fe-0a8214396a54.jpg?v=1764143707
+    Price: ₹699.00 INR
+- [The DJ Monkey Tee](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3): Fabric: 90/10 cotton polyester, 260 GSM Terry-knit texture with a premium hand-feel.Fit: Unisex oversized fit with drop shoulders – relaxed, roomy, and right on trend.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T12:21:17Z
+  Vendor: VIVA ENTERPRISES 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_13e6514e-c5a8-416d-b62b-bc0113118e64.jpg?v=1764158864
+  - [White / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677155125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_8a94eefb-7a0a-4968-bd35-ad69c0c5e7cf.jpg?v=1764158865
+    Price: ₹699.00 INR
+  - [White / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677187893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_8a94eefb-7a0a-4968-bd35-ad69c0c5e7cf.jpg?v=1764158865
+    Price: ₹699.00 INR
+  - [White / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677220661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_8a94eefb-7a0a-4968-bd35-ad69c0c5e7cf.jpg?v=1764158865
+    Price: ₹699.00 INR
+  - [White / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677253429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_8a94eefb-7a0a-4968-bd35-ad69c0c5e7cf.jpg?v=1764158865
+    Price: ₹699.00 INR
+  - [White / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677286197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_8a94eefb-7a0a-4968-bd35-ad69c0c5e7cf.jpg?v=1764158865
+    Price: ₹699.00 INR
+  - [White / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677318965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_8a94eefb-7a0a-4968-bd35-ad69c0c5e7cf.jpg?v=1764158865
+    Price: ₹799.00 INR
+  - [White / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677351733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_8a94eefb-7a0a-4968-bd35-ad69c0c5e7cf.jpg?v=1764158865
+    Price: ₹699.00 INR
+  - [Black / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677384501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_13e6514e-c5a8-416d-b62b-bc0113118e64.jpg?v=1764158864
+    Price: ₹699.00 INR
+  - [Black / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677417269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_13e6514e-c5a8-416d-b62b-bc0113118e64.jpg?v=1764158864
+    Price: ₹699.00 INR
+  - [Black / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677450037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_13e6514e-c5a8-416d-b62b-bc0113118e64.jpg?v=1764158864
+    Price: ₹699.00 INR
+  - [Black / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677482805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_13e6514e-c5a8-416d-b62b-bc0113118e64.jpg?v=1764158864
+    Price: ₹699.00 INR
+  - [Black / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677515573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_13e6514e-c5a8-416d-b62b-bc0113118e64.jpg?v=1764158864
+    Price: ₹699.00 INR
+  - [Black / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677548341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_13e6514e-c5a8-416d-b62b-bc0113118e64.jpg?v=1764158864
+    Price: ₹799.00 INR
+  - [Black / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677581109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_13e6514e-c5a8-416d-b62b-bc0113118e64.jpg?v=1764158864
+    Price: ₹699.00 INR
+  - [Navy Blue / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677613877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_bab0120b-f7c4-4069-9cc3-3856b30085e2.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Navy Blue / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677646645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_bab0120b-f7c4-4069-9cc3-3856b30085e2.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Navy Blue / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677679413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_bab0120b-f7c4-4069-9cc3-3856b30085e2.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Navy Blue / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677712181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_bab0120b-f7c4-4069-9cc3-3856b30085e2.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Navy Blue / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677744949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_bab0120b-f7c4-4069-9cc3-3856b30085e2.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Navy Blue / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677777717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_bab0120b-f7c4-4069-9cc3-3856b30085e2.jpg?v=1764158867
+    Price: ₹799.00 INR
+  - [Navy Blue / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677810485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_bab0120b-f7c4-4069-9cc3-3856b30085e2.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Bottle Green / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677843253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_fa98d3bb-ee13-42d1-a5f9-fb3a77dbe5cb.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Bottle Green / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677876021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_fa98d3bb-ee13-42d1-a5f9-fb3a77dbe5cb.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Bottle Green / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677908789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_fa98d3bb-ee13-42d1-a5f9-fb3a77dbe5cb.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Bottle Green / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677941557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_fa98d3bb-ee13-42d1-a5f9-fb3a77dbe5cb.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Bottle Green / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992677974325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_fa98d3bb-ee13-42d1-a5f9-fb3a77dbe5cb.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Bottle Green / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678007093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_fa98d3bb-ee13-42d1-a5f9-fb3a77dbe5cb.jpg?v=1764158867
+    Price: ₹799.00 INR
+  - [Bottle Green / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678039861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_8_fa98d3bb-ee13-42d1-a5f9-fb3a77dbe5cb.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Red / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678072629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_e4b7764d-97fe-46cd-b164-065cb8c48c79.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Red / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678105397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_e4b7764d-97fe-46cd-b164-065cb8c48c79.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Red / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678138165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_e4b7764d-97fe-46cd-b164-065cb8c48c79.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Red / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678170933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_e4b7764d-97fe-46cd-b164-065cb8c48c79.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Red / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678203701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_e4b7764d-97fe-46cd-b164-065cb8c48c79.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Red / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678236469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_e4b7764d-97fe-46cd-b164-065cb8c48c79.jpg?v=1764158867
+    Price: ₹799.00 INR
+  - [Red / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678269237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_e4b7764d-97fe-46cd-b164-065cb8c48c79.jpg?v=1764158867
+    Price: ₹699.00 INR
+  - [Maroon / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678302005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_b310c5b4-39cd-4ea1-9d5f-ac4628fc323e.jpg?v=1764158871
+    Price: ₹699.00 INR
+  - [Maroon / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678334773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_b310c5b4-39cd-4ea1-9d5f-ac4628fc323e.jpg?v=1764158871
+    Price: ₹699.00 INR
+  - [Maroon / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678367541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_b310c5b4-39cd-4ea1-9d5f-ac4628fc323e.jpg?v=1764158871
+    Price: ₹699.00 INR
+  - [Maroon / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678400309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_b310c5b4-39cd-4ea1-9d5f-ac4628fc323e.jpg?v=1764158871
+    Price: ₹699.00 INR
+  - [Maroon / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678433077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_b310c5b4-39cd-4ea1-9d5f-ac4628fc323e.jpg?v=1764158871
+    Price: ₹699.00 INR
+  - [Maroon / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678465845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_b310c5b4-39cd-4ea1-9d5f-ac4628fc323e.jpg?v=1764158871
+    Price: ₹799.00 INR
+  - [Maroon / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678498613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_b310c5b4-39cd-4ea1-9d5f-ac4628fc323e.jpg?v=1764158871
+    Price: ₹699.00 INR
+  - [Light Baby Pink / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678531381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_c202e2f7-f08f-48b6-a091-d4b1103b9dad.jpg?v=1764158871
+    Price: ₹699.00 INR
+  - [Light Baby Pink / M](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678564149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_c202e2f7-f08f-48b6-a091-d4b1103b9dad.jpg?v=1764158871
+    Price: ₹699.00 INR
+  - [Light Baby Pink / L](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678596917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_c202e2f7-f08f-48b6-a091-d4b1103b9dad.jpg?v=1764158871
+    Price: ₹699.00 INR
+  - [Light Baby Pink / XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678629685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_c202e2f7-f08f-48b6-a091-d4b1103b9dad.jpg?v=1764158871
+    Price: ₹699.00 INR
+  - [Light Baby Pink / XXL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678662453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_c202e2f7-f08f-48b6-a091-d4b1103b9dad.jpg?v=1764158871
+    Price: ₹699.00 INR
+  - [Light Baby Pink / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678695221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_c202e2f7-f08f-48b6-a091-d4b1103b9dad.jpg?v=1764158871
+    Price: ₹799.00 INR
+  - [Light Baby Pink / XS](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678727989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_c202e2f7-f08f-48b6-a091-d4b1103b9dad.jpg?v=1764158871
+    Price: ₹699.00 INR
+  - [Lavender / S](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee-3?variant=51992678760757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_49_6f74f319-e708-4d5c-a3ec-824f90aea6ed.jpg?v=1764158874
+    Price: ₹699.00 INR
+- [DJ Monkey Sweatshirt](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10): Fabric: 100% cotton, 300 GSM fleece – thick, soft, and breathable for daily comfort. Fit: Unisex regular fit – crafted for a relaxed silhouette with snug ribbed cuffs and hem.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T12:34:57Z
+  Vendor: VIVA ENTERPRISES 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_9387ced0-a816-4819-9548-823caf1e2314.jpg?v=1764158866
+  - [White / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680005941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_25f1485a-aa2e-4904-9af9-bcaa6bdefeb2.jpg?v=1764158865
+    Price: ₹699.00 INR
+  - [White / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680038709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_25f1485a-aa2e-4904-9af9-bcaa6bdefeb2.jpg?v=1764158865
+    Price: ₹699.00 INR
+  - [White / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680071477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_25f1485a-aa2e-4904-9af9-bcaa6bdefeb2.jpg?v=1764158865
+    Price: ₹699.00 INR
+  - [White / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680104245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_25f1485a-aa2e-4904-9af9-bcaa6bdefeb2.jpg?v=1764158865
+    Price: ₹699.00 INR
+  - [White / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680137013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_25f1485a-aa2e-4904-9af9-bcaa6bdefeb2.jpg?v=1764158865
+    Price: ₹799.00 INR
+  - [White / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680169781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_25f1485a-aa2e-4904-9af9-bcaa6bdefeb2.jpg?v=1764158865
+    Price: ₹799.00 INR
+  - [White / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680202549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_25f1485a-aa2e-4904-9af9-bcaa6bdefeb2.jpg?v=1764158865
+    Price: ₹599.00 INR
+  - [Black / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680235317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_9387ced0-a816-4819-9548-823caf1e2314.jpg?v=1764158866
+    Price: ₹699.00 INR
+  - [Black / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680268085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_9387ced0-a816-4819-9548-823caf1e2314.jpg?v=1764158866
+    Price: ₹699.00 INR
+  - [Black / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680300853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_9387ced0-a816-4819-9548-823caf1e2314.jpg?v=1764158866
+    Price: ₹699.00 INR
+  - [Black / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680333621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_9387ced0-a816-4819-9548-823caf1e2314.jpg?v=1764158866
+    Price: ₹699.00 INR
+  - [Black / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680366389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_9387ced0-a816-4819-9548-823caf1e2314.jpg?v=1764158866
+    Price: ₹799.00 INR
+  - [Black / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680399157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_9387ced0-a816-4819-9548-823caf1e2314.jpg?v=1764158866
+    Price: ₹799.00 INR
+  - [Black / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680431925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_9387ced0-a816-4819-9548-823caf1e2314.jpg?v=1764158866
+    Price: ₹599.00 INR
+  - [Navy Blue / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680464693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_66bcd473-b0d6-4b73-b746-eb301bd12e76.jpg?v=1764158868
+    Price: ₹699.00 INR
+  - [Navy Blue / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680497461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_66bcd473-b0d6-4b73-b746-eb301bd12e76.jpg?v=1764158868
+    Price: ₹699.00 INR
+  - [Navy Blue / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680530229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_66bcd473-b0d6-4b73-b746-eb301bd12e76.jpg?v=1764158868
+    Price: ₹699.00 INR
+  - [Navy Blue / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680562997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_66bcd473-b0d6-4b73-b746-eb301bd12e76.jpg?v=1764158868
+    Price: ₹699.00 INR
+  - [Navy Blue / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680595765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_66bcd473-b0d6-4b73-b746-eb301bd12e76.jpg?v=1764158868
+    Price: ₹799.00 INR
+  - [Navy Blue / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680628533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_66bcd473-b0d6-4b73-b746-eb301bd12e76.jpg?v=1764158868
+    Price: ₹799.00 INR
+  - [Navy Blue / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680661301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_66bcd473-b0d6-4b73-b746-eb301bd12e76.jpg?v=1764158868
+    Price: ₹599.00 INR
+  - [Grey Melange / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680694069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_d59156a4-f31f-46f8-a588-d235476a8456.jpg?v=1764158868
+    Price: ₹699.00 INR
+  - [Grey Melange / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680726837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_d59156a4-f31f-46f8-a588-d235476a8456.jpg?v=1764158868
+    Price: ₹699.00 INR
+  - [Grey Melange / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680759605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_d59156a4-f31f-46f8-a588-d235476a8456.jpg?v=1764158868
+    Price: ₹699.00 INR
+  - [Grey Melange / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680792373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_d59156a4-f31f-46f8-a588-d235476a8456.jpg?v=1764158868
+    Price: ₹699.00 INR
+  - [Grey Melange / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680825141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_d59156a4-f31f-46f8-a588-d235476a8456.jpg?v=1764158868
+    Price: ₹799.00 INR
+  - [Grey Melange / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680857909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_d59156a4-f31f-46f8-a588-d235476a8456.jpg?v=1764158868
+    Price: ₹799.00 INR
+  - [Grey Melange / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680890677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_d59156a4-f31f-46f8-a588-d235476a8456.jpg?v=1764158868
+    Price: ₹599.00 INR
+  - [Maroon / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680923445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_47ce11f3-9cd2-4f78-9df0-bf70218beb97.jpg?v=1764158869
+    Price: ₹699.00 INR
+  - [Maroon / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680956213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_47ce11f3-9cd2-4f78-9df0-bf70218beb97.jpg?v=1764158869
+    Price: ₹699.00 INR
+  - [Maroon / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992680988981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_47ce11f3-9cd2-4f78-9df0-bf70218beb97.jpg?v=1764158869
+    Price: ₹699.00 INR
+  - [Maroon / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681021749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_47ce11f3-9cd2-4f78-9df0-bf70218beb97.jpg?v=1764158869
+    Price: ₹699.00 INR
+  - [Maroon / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681054517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_47ce11f3-9cd2-4f78-9df0-bf70218beb97.jpg?v=1764158869
+    Price: ₹799.00 INR
+  - [Maroon / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681087285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_47ce11f3-9cd2-4f78-9df0-bf70218beb97.jpg?v=1764158869
+    Price: ₹799.00 INR
+  - [Maroon / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681120053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_25_47ce11f3-9cd2-4f78-9df0-bf70218beb97.jpg?v=1764158869
+    Price: ₹599.00 INR
+  - [Olive Green / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681152821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_0f4238f6-8d82-49d6-bc9b-af4e19758ea7.jpg?v=1764158872
+    Price: ₹699.00 INR
+  - [Olive Green / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681185589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_0f4238f6-8d82-49d6-bc9b-af4e19758ea7.jpg?v=1764158872
+    Price: ₹699.00 INR
+  - [Olive Green / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681218357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_0f4238f6-8d82-49d6-bc9b-af4e19758ea7.jpg?v=1764158872
+    Price: ₹699.00 INR
+  - [Olive Green / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681251125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_0f4238f6-8d82-49d6-bc9b-af4e19758ea7.jpg?v=1764158872
+    Price: ₹699.00 INR
+  - [Olive Green / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681283893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_0f4238f6-8d82-49d6-bc9b-af4e19758ea7.jpg?v=1764158872
+    Price: ₹799.00 INR
+  - [Olive Green / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681316661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_0f4238f6-8d82-49d6-bc9b-af4e19758ea7.jpg?v=1764158872
+    Price: ₹799.00 INR
+  - [Olive Green / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681349429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_41_0f4238f6-8d82-49d6-bc9b-af4e19758ea7.jpg?v=1764158872
+    Price: ₹599.00 INR
+  - [Mustard Yellow / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681382197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_b9f26615-dcc3-4d6b-bc07-1f1dc0f1bae3.jpg?v=1764158872
+    Price: ₹699.00 INR
+  - [Mustard Yellow / M](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681414965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_b9f26615-dcc3-4d6b-bc07-1f1dc0f1bae3.jpg?v=1764158872
+    Price: ₹699.00 INR
+  - [Mustard Yellow / L](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681447733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_b9f26615-dcc3-4d6b-bc07-1f1dc0f1bae3.jpg?v=1764158872
+    Price: ₹699.00 INR
+  - [Mustard Yellow / XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681480501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_b9f26615-dcc3-4d6b-bc07-1f1dc0f1bae3.jpg?v=1764158872
+    Price: ₹699.00 INR
+  - [Mustard Yellow / XXL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681513269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_b9f26615-dcc3-4d6b-bc07-1f1dc0f1bae3.jpg?v=1764158872
+    Price: ₹799.00 INR
+  - [Mustard Yellow / 3XL](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681546037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_b9f26615-dcc3-4d6b-bc07-1f1dc0f1bae3.jpg?v=1764158872
+    Price: ₹799.00 INR
+  - [Mustard Yellow / XS](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681578805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_43_b9f26615-dcc3-4d6b-bc07-1f1dc0f1bae3.jpg?v=1764158872
+    Price: ₹599.00 INR
+  - [Light Baby Pink / S](https://vivaenterprises11.myshopify.com/products/unisex-sweatshirt-10?variant=51992681611573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_6997f848-cba3-4b68-abb4-3b94478e14fb.jpg?v=1764158876
+    Price: ₹699.00 INR
+- [Unisex Basic T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-11-26T12:10:04Z
+  Vendor: VIVA ENTERPRISES 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_b423d12f-ae43-4778-a92a-f7c8de1d4f16.jpg?v=1764158867
+  - [White / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992682758453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_115b6fab-282c-4921-9f02-adb92795beb6.jpg?v=1764158866
+    Price: ₹399.00 INR
+  - [White / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992682791221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_115b6fab-282c-4921-9f02-adb92795beb6.jpg?v=1764158866
+    Price: ₹399.00 INR
+  - [White / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992682823989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_115b6fab-282c-4921-9f02-adb92795beb6.jpg?v=1764158866
+    Price: ₹399.00 INR
+  - [White / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992682856757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_115b6fab-282c-4921-9f02-adb92795beb6.jpg?v=1764158866
+    Price: ₹399.00 INR
+  - [White / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992682889525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_115b6fab-282c-4921-9f02-adb92795beb6.jpg?v=1764158866
+    Price: ₹499.00 INR
+  - [White / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992682922293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_1_115b6fab-282c-4921-9f02-adb92795beb6.jpg?v=1764158866
+    Price: ₹299.00 INR
+  - [Black / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992682955061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_b423d12f-ae43-4778-a92a-f7c8de1d4f16.jpg?v=1764158867
+    Price: ₹399.00 INR
+  - [Black / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992682987829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_b423d12f-ae43-4778-a92a-f7c8de1d4f16.jpg?v=1764158867
+    Price: ₹399.00 INR
+  - [Black / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683020597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_b423d12f-ae43-4778-a92a-f7c8de1d4f16.jpg?v=1764158867
+    Price: ₹399.00 INR
+  - [Black / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683053365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_b423d12f-ae43-4778-a92a-f7c8de1d4f16.jpg?v=1764158867
+    Price: ₹399.00 INR
+  - [Black / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683086133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_b423d12f-ae43-4778-a92a-f7c8de1d4f16.jpg?v=1764158867
+    Price: ₹499.00 INR
+  - [Black / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683118901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_b423d12f-ae43-4778-a92a-f7c8de1d4f16.jpg?v=1764158867
+    Price: ₹299.00 INR
+  - [Navy Blue / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683151669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_4e8d7b33-b7b6-4bf1-b4f0-7579b97be9e7.jpg?v=1764158870
+    Price: ₹399.00 INR
+  - [Navy Blue / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683184437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_4e8d7b33-b7b6-4bf1-b4f0-7579b97be9e7.jpg?v=1764158870
+    Price: ₹399.00 INR
+  - [Navy Blue / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683217205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_4e8d7b33-b7b6-4bf1-b4f0-7579b97be9e7.jpg?v=1764158870
+    Price: ₹399.00 INR
+  - [Navy Blue / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683249973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_4e8d7b33-b7b6-4bf1-b4f0-7579b97be9e7.jpg?v=1764158870
+    Price: ₹399.00 INR
+  - [Navy Blue / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683282741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_4e8d7b33-b7b6-4bf1-b4f0-7579b97be9e7.jpg?v=1764158870
+    Price: ₹499.00 INR
+  - [Navy Blue / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683315509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_3_4e8d7b33-b7b6-4bf1-b4f0-7579b97be9e7.jpg?v=1764158870
+    Price: ₹299.00 INR
+  - [Grey Melange / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683348277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_95deda96-2d70-4c12-9acb-826d50dbe1bb.jpg?v=1764158870
+    Price: ₹399.00 INR
+  - [Grey Melange / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683381045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_95deda96-2d70-4c12-9acb-826d50dbe1bb.jpg?v=1764158870
+    Price: ₹399.00 INR
+  - [Grey Melange / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683413813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_95deda96-2d70-4c12-9acb-826d50dbe1bb.jpg?v=1764158870
+    Price: ₹399.00 INR
+  - [Grey Melange / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683446581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_95deda96-2d70-4c12-9acb-826d50dbe1bb.jpg?v=1764158870
+    Price: ₹399.00 INR
+  - [Grey Melange / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683479349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_95deda96-2d70-4c12-9acb-826d50dbe1bb.jpg?v=1764158870
+    Price: ₹499.00 INR
+  - [Grey Melange / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683512117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_4_95deda96-2d70-4c12-9acb-826d50dbe1bb.jpg?v=1764158870
+    Price: ₹299.00 INR
+  - [Red / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683544885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_6d17dceb-963a-40c0-a855-dedd315ef712.jpg?v=1764158870
+    Price: ₹399.00 INR
+  - [Red / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683577653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_6d17dceb-963a-40c0-a855-dedd315ef712.jpg?v=1764158870
+    Price: ₹399.00 INR
+  - [Red / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683610421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_6d17dceb-963a-40c0-a855-dedd315ef712.jpg?v=1764158870
+    Price: ₹399.00 INR
+  - [Red / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683643189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_6d17dceb-963a-40c0-a855-dedd315ef712.jpg?v=1764158870
+    Price: ₹399.00 INR
+  - [Red / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683675957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_6d17dceb-963a-40c0-a855-dedd315ef712.jpg?v=1764158870
+    Price: ₹499.00 INR
+  - [Red / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683708725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_10_6d17dceb-963a-40c0-a855-dedd315ef712.jpg?v=1764158870
+    Price: ₹299.00 INR
+  - [Purple / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683741493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_d5c30a1b-237f-4a7a-aa9b-e02c59a39c16.jpg?v=1764158873
+    Price: ₹399.00 INR
+  - [Purple / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683774261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_d5c30a1b-237f-4a7a-aa9b-e02c59a39c16.jpg?v=1764158873
+    Price: ₹399.00 INR
+  - [Purple / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683807029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_d5c30a1b-237f-4a7a-aa9b-e02c59a39c16.jpg?v=1764158873
+    Price: ₹399.00 INR
+  - [Purple / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683839797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_d5c30a1b-237f-4a7a-aa9b-e02c59a39c16.jpg?v=1764158873
+    Price: ₹399.00 INR
+  - [Purple / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683872565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_d5c30a1b-237f-4a7a-aa9b-e02c59a39c16.jpg?v=1764158873
+    Price: ₹499.00 INR
+  - [Purple / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683905333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_26_d5c30a1b-237f-4a7a-aa9b-e02c59a39c16.jpg?v=1764158873
+    Price: ₹299.00 INR
+  - [Black melange / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683938101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_e80e0d03-5606-4610-966f-23e3ec90fb8e.jpg?v=1764158873
+    Price: ₹399.00 INR
+  - [Black melange / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992683970869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_e80e0d03-5606-4610-966f-23e3ec90fb8e.jpg?v=1764158873
+    Price: ₹399.00 INR
+  - [Black melange / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992684003637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_e80e0d03-5606-4610-966f-23e3ec90fb8e.jpg?v=1764158873
+    Price: ₹399.00 INR
+  - [Black melange / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992684036405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_e80e0d03-5606-4610-966f-23e3ec90fb8e.jpg?v=1764158873
+    Price: ₹399.00 INR
+  - [Black melange / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992684069173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_e80e0d03-5606-4610-966f-23e3ec90fb8e.jpg?v=1764158873
+    Price: ₹499.00 INR
+  - [Black melange / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992684101941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_62_e80e0d03-5606-4610-966f-23e3ec90fb8e.jpg?v=1764158873
+    Price: ₹299.00 INR
+  - [Navy melange / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992684134709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_9f35fcae-91b0-4805-99ce-bceacfa0a1c4.jpg?v=1764158876
+    Price: ₹399.00 INR
+  - [Navy melange / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992684167477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_9f35fcae-91b0-4805-99ce-bceacfa0a1c4.jpg?v=1764158876
+    Price: ₹399.00 INR
+  - [Navy melange / L](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992684200245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_9f35fcae-91b0-4805-99ce-bceacfa0a1c4.jpg?v=1764158876
+    Price: ₹399.00 INR
+  - [Navy melange / XL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992684233013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_9f35fcae-91b0-4805-99ce-bceacfa0a1c4.jpg?v=1764158876
+    Price: ₹399.00 INR
+  - [Navy melange / XXL](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992684265781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_9f35fcae-91b0-4805-99ce-bceacfa0a1c4.jpg?v=1764158876
+    Price: ₹499.00 INR
+  - [Navy melange / XS](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992684298549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_63_9f35fcae-91b0-4805-99ce-bceacfa0a1c4.jpg?v=1764158876
+    Price: ₹299.00 INR
+  - [Purple melange / S](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992684331317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_64_6d04a6bc-e02a-4778-b161-34758c34eceb.jpg?v=1764158876
+    Price: ₹399.00 INR
+  - [Purple melange / M](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-74?variant=51992684364085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_64_6d04a6bc-e02a-4778-b161-34758c34eceb.jpg?v=1764158876
+    Price: ₹399.00 INR
 
 ## Collections
 
