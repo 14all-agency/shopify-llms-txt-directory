@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-08-27T16:24:47Z
 - Contact Email: mail@itsagirlyplace.com
-- Updated At: 2025-11-26T00:01:03.491Z
+- Updated At: 2025-11-27T00:00:48.163Z
 
 ## Products
 
@@ -4141,19 +4141,19 @@
 ## Collections
 
 - [APPAREL - It's a Girly Place - Type](https://itsagirlyplace.com/collections/womens-clothing): - It's a Girly Place - Type
-  Updated: 2025-11-25T23:57:36Z
+  Updated: 2025-11-26T03:10:08Z
   Total Products: 1566
 - [ACCESSORIES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/accessories): - It's a Girly Place - Type
-  Updated: 2025-11-22T17:56:43Z
+  Updated: 2025-11-26T05:44:42Z
   Total Products: 305
 - [ACTIVEWEAR - It's a Girly Place - Type](https://itsagirlyplace.com/collections/activewear): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:43Z
   Total Products: 27
 - [JUST IN - It's a Girly Place - Type](https://itsagirlyplace.com/collections/new-arrivals): - It's a Girly Place - Type
-  Updated: 2025-11-25T23:57:36Z
+  Updated: 2025-11-26T06:04:39Z
   Total Products: 2191
 - [TOPS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/tops): - It's a Girly Place - Type
-  Updated: 2025-11-25T23:57:36Z
+  Updated: 2025-11-26T03:10:08Z
   Total Products: 581
 - [JEWELRY - It's a Girly Place - Type](https://itsagirlyplace.com/collections/jewelry): - It's a Girly Place - Type
   Updated: 2025-11-25T16:53:25Z
@@ -4165,10 +4165,10 @@
   Updated: 2025-11-25T16:53:25Z
   Total Products: 255
 - [PLUS SIZE TOPS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/101-tees-tanks-plus-size): - It's a Girly Place - Type
-  Updated: 2025-11-23T05:51:23Z
+  Updated: 2025-11-26T05:50:45Z
   Total Products: 168
 - [PLUS SIZE - It's a Girly Place - Type](https://itsagirlyplace.com/collections/111-novelty-tops-plus-size): - It's a Girly Place - Type
-  Updated: 2025-11-24T15:36:55Z
+  Updated: 2025-11-26T06:04:39Z
   Total Products: 485
 - [PLUS SIZE JUMPSUITS & ROMPERS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/121-sweaters-plus-size): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:44Z
@@ -4177,13 +4177,13 @@
   Updated: 2025-11-22T17:56:44Z
   Total Products: 24
 - [BOTTOMS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/132-bottoms-reg-size): - It's a Girly Place - Type
-  Updated: 2025-11-25T18:40:33Z
-  Total Products: 75
+  Updated: 2025-11-26T01:54:46Z
+  Total Products: 76
 - [PLUS SIZE DRESSES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/141-dresses-plus-size): - It's a Girly Place - Type
   Updated: 2025-11-25T16:58:34Z
   Total Products: 144
 - [DRESSES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/142-dresses-reg-size): - It's a Girly Place - Type
-  Updated: 2025-11-25T20:55:20Z
+  Updated: 2025-11-26T02:59:03Z
   Total Products: 644
 - [PLUS SIZE OUTERWEAR - It's a Girly Place - Type](https://itsagirlyplace.com/collections/151-jackets-plus-size): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:44Z
@@ -4198,7 +4198,7 @@
   Updated: 2025-11-22T17:56:44Z
   Total Products: 261
 - [HANDBAGS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/221-handbags): - It's a Girly Place - Type
-  Updated: 2025-11-22T17:56:44Z
+  Updated: 2025-11-26T05:44:42Z
   Total Products: 309
 - [BELTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/belt): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:44Z
@@ -4207,7 +4207,7 @@
   Updated: 2025-11-24T21:47:29Z
   Total Products: 234
 - [JUMPSUITS & ROMPERS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/jumpsuits-rompers): - It's a Girly Place - Type
-  Updated: 2025-11-25T20:40:49Z
+  Updated: 2025-11-26T06:04:39Z
   Total Products: 158
 - [BASICS & ACTIVEWEAR - It's a Girly Place - Type](https://itsagirlyplace.com/collections/basics-activewear): - It's a Girly Place - Type
   Updated: 2025-11-24T01:29:08Z
@@ -4222,16 +4222,16 @@
   Updated: 2025-11-22T17:56:44Z
   Total Products: 4
 - [OUTFIT SETS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sets): - It's a Girly Place - Type
-  Updated: 2025-11-25T16:53:54Z
+  Updated: 2025-11-26T02:10:48Z
   Total Products: 237
 - [PLUS SIZE SETS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-sets): - It's a Girly Place - Type
   Updated: 2025-11-23T00:46:09Z
   Total Products: 33
 - [SALE - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale): - It's a Girly Place - Type
-  Updated: 2025-11-25T17:07:58Z
+  Updated: 2025-11-26T01:54:46Z
   Total Products: 419
 - [RESTOCKED POPULAR ITEMS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/restocked-popular-items): - It's a Girly Place - Type
-  Updated: 2025-11-25T17:07:58Z
+  Updated: 2025-11-26T01:54:46Z
   Total Products: 147
 - [SALE PLUS SIZE - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-sale): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:44Z
@@ -4246,7 +4246,7 @@
   Updated: 2025-11-22T17:56:45Z
   Total Products: 9
 - [SALE 10% Off - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale-10): - It's a Girly Place - Type
-  Updated: 2025-11-25T17:07:58Z
+  Updated: 2025-11-26T01:54:46Z
   Total Products: 60
 - [SALE 20% OFF - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale-20-off): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:45Z
@@ -4261,10 +4261,10 @@
   Updated: 2025-11-25T16:53:25Z
   Total Products: 251
 - [SALE APPAREL - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale-apparel): - It's a Girly Place - Type
-  Updated: 2025-11-25T17:07:58Z
+  Updated: 2025-11-26T01:54:46Z
   Total Products: 222
 - [PRODUCTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/products): - It's a Girly Place - Type
-  Updated: 2025-11-25T23:57:36Z
+  Updated: 2025-11-26T06:04:39Z
   Total Products: 4411
 - [SLEEPWEAR & LOUNGEWEAR - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sleepwear-loungewear): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:45Z
@@ -4276,7 +4276,7 @@
   Updated: 2025-11-23T05:45:56Z
   Total Products: 31
 - [APPPlaza - BEST SELLERS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/appplaza-best-sellers): - It's a Girly Place - Type
-  Updated: 2025-11-25T23:57:36Z
+  Updated: 2025-11-26T06:04:39Z
   Total Products: 4413
 - [COATS & JACKETS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/coats-jackets): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:45Z
@@ -4288,8 +4288,8 @@
   Updated: 2025-11-23T22:38:45Z
   Total Products: 37
 - [MINI DRESSES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/mini-dresses): - It's a Girly Place - Type
-  Updated: 2025-11-25T20:46:22Z
-  Total Products: 40
+  Updated: 2025-11-26T02:52:55Z
+  Total Products: 42
 - [T-SHIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/t-shirts): - It's a Girly Place - Type
   Updated: 2025-11-23T18:24:20Z
   Total Products: 11
@@ -4297,8 +4297,8 @@
   Updated: 2025-11-22T17:56:45Z
   Total Products: 9
 - [MIDI DRESSES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/midi-dresses): - It's a Girly Place - Type
-  Updated: 2025-11-25T20:55:49Z
-  Total Products: 48
+  Updated: 2025-11-26T02:35:13Z
+  Total Products: 49
 - [MAXI SKIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/maxi-skirts): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:45Z
   Total Products: 0
@@ -4312,7 +4312,7 @@
   Updated: 2025-11-22T17:56:46Z
   Total Products: 9
 - [PANTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/pants): - It's a Girly Place - Type
-  Updated: 2025-11-25T17:07:58Z
+  Updated: 2025-11-26T01:54:46Z
   Total Products: 69
 - [SKIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/skirts): - It's a Girly Place - Type
   Updated: 2025-11-25T18:40:33Z
@@ -4324,8 +4324,8 @@
   Updated: 2025-11-22T17:56:46Z
   Total Products: 6
 - [BLOUSES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/blouses): - It's a Girly Place - Type
-  Updated: 2025-11-25T23:58:05Z
-  Total Products: 56
+  Updated: 2025-11-26T02:03:30Z
+  Total Products: 58
 - [CAMI TOP - It's a Girly Place - Type](https://itsagirlyplace.com/collections/cami-top): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:46Z
   Total Products: 1
@@ -4348,14 +4348,14 @@
   Updated: 2025-11-22T17:56:46Z
   Total Products: 2
 - [PLUS SIZE T-SHIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-t-shirts): - It's a Girly Place - Type
-  Updated: 2025-11-22T17:56:46Z
-  Total Products: 5
+  Updated: 2025-11-26T05:51:14Z
+  Total Products: 6
 - [PLUS SIZE SHIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-shirts): - It's a Girly Place - Type
   Updated: 2025-11-23T05:51:52Z
   Total Products: 8
 - [SHIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/shirts): - It's a Girly Place - Type
-  Updated: 2025-11-25T23:23:45Z
-  Total Products: 20
+  Updated: 2025-11-26T03:10:37Z
+  Total Products: 22
 - [PLUS SIZE COATS & JACKETS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-coats-jackets): - It's a Girly Place - Type
   Updated: 2025-11-22T17:56:46Z
   Total Products: 1
@@ -4405,8 +4405,8 @@
   Updated: 2025-11-22T17:56:47Z
   Total Products: 2
 - [Chic TROUSERS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/trousers): Elevate your look with Chic Trousers from It’s a Girly Place — sustainable, inclusive fashion that gives back $1 per purchase to animal welfare.
-  Updated: 2025-11-22T17:56:47Z
-  Total Products: 11
+  Updated: 2025-11-26T01:00:34Z
+  Total Products: 12
 - [PLUS SIZE TROUSERS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-trousers): Step out in style with Plus Size Trousers from It’s a Girly Place — inclusive, sustainable fashion that donates $1 per purchase to animal welfare.
   Updated: 2025-11-22T17:56:47Z
   Total Products: 3
@@ -4414,7 +4414,7 @@
   Updated: 2025-11-22T17:56:47Z
   Total Products: 0
 - [ALL PRODUCTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/all): Shop all products from It’s a Girly Place — inclusive, sustainable fashion and accessories that empower women and give back $1 per purchase to animal welfare.
-  Updated: 2025-11-25T23:57:36Z
+  Updated: 2025-11-26T06:04:39Z
   Total Products: 4411
 - [Chic Hobo bags Collection | It’s a Girly Place](https://itsagirlyplace.com/collections/hobo-bags): Discover timeless elegance with the Chic Hobo bags Collection from It’s a Girly Place — sustainable, styles that give back $1 per purchase to animal welfare.
   Updated: 2025-11-22T17:56:47Z
