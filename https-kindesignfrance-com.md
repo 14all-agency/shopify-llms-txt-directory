@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2025-11-09T14:00:17Z
 - Contact Email: isabelle.berthier@rocketmail.com
-- Updated At: 2025-11-26T00:01:09.063Z
+- Updated At: 2025-11-27T00:03:37.891Z
 
 ## Products
 
 - [Belle robe réversible pour fille en coton bio "Fly like a bird" stock très limité !](https://kindesignfrance.com/products/beautiful-hand-made-dress-for-girls): Robe Enfant Réversible – Coton Bio – Motifs Exclusifs Oiseaux Géométriques Description :Craquez pour cette robe enfant réversible en coton biologique, confectionnée à la main en France. Son tissu unique présente des dessins originaux d’oiseaux géométriques, imprimés en édition exclusive. Atouts : 🌿 Coton bio doux, léger et respirant 🔄 Réversible : 2 looks en 1 Côté avec poche pour emporter ses petits trésors Côté sans poche pour une allure épurée 🎨 Motifs exclusifs créés spécialement pour cette collection 🇫🇷 Fabrication artisanale française Style & Confort :Une robe pratique, confortable et pleine de charme, parfaite pour le quotidien comme pour les occasions. Entretien :Lavage doux à 30°C recommandé. 🌿 Reversible Organic Cotton Dress – Handmade in France by KIN Design Discover the charm of slow fashion with this exclusive reversible dress by KIN Design, crafted from the finest 100% organic cotton. Each piece is handmade in France, combining comfort, elegance, and creativity. With its unique double-sided design, this dress offers two looks in one – perfect for playful days or special occasions. Thoughtfully made with soft, breathable fabric, it’s gentle on the skin and kind to the planet. Available in limited stock for girls aged 4 to 12 years, this is your chance to own a truly one-of-a-kind piece that celebrates French craftsmanship and sustainable style. ✨ Two styles, one dress. 100% joy, zero compromise. ✨
-  Updated: 2025-11-25T13:21:11Z
+  Updated: 2025-11-26T12:49:13Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -32,14 +32,14 @@
     Availability: Available
     Price: €39.00 EUR
 - [KIN Design Cap](https://kindesignfrance.com/products/kin-design-cap): This is the snapback of your dreams! It's structured and high-profile, with a flat visor and a subtle grey under visor. • 85% acrylic, 15% wool • Structured, 6-panel, high-profile • Plastic snap closure • Grey under visor • Head circumference: 22″–24″ (55–60 cm) • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the lead and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), kin design ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at isabelle.berthier@rocketmail.com or write to us 5, place du président Magnaud Saint Yrieix La Perche France.Size guide A (cm) B (cm) C (cm) D (cm) One size 52-61.5 11.5 6.7 18
-  Updated: 2025-11-24T12:02:39Z
+  Updated: 2025-11-26T12:49:13Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/snapback-black-front-6915ba7d7206e.jpg?v=1763031690
   Price: €25.00 EUR
 - [Legging Pour Enfant/Ado "Fly like a bird" rouge](https://kindesignfrance.com/products/legging-pour-ado): Ce legging pour ados est le confort personnifié. Élastique et doux, ses couleurs vives sont faites pour durer. Chaque legging est découpé avec précision et cousu à la main pour garantir un ajustement parfait. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Fil de microfibre lisse et confortable • Tissu élastique • Cousu avec une finition surjet et point de recouvrement • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les enfants EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide HEIGHT (cm) WAIST (cm) 8 134 60 10 140 62 12 146 64 14 152 66 16 158 67 18 164 68 20 170 69
-  Updated: 2025-11-25T22:07:01Z
+  Updated: 2025-11-26T12:49:13Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -73,7 +73,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-youth-leggings-white-front-6924482548f3b.jpg?v=1764063490
     Price: €29.00 EUR
 - [Brassière de Sport "In the mood for clouds" Noir](https://kindesignfrance.com/products/brassiere-de-sport): Cette brassière de sport est fabriquée dans une matière qui évacue l'humidité et reste sèche pendant les séances de sport de faible et moyenne intensité. Elle comporte un matériau de soutien dans les bretelles, une partie avant à double couche et une large bande élastique pour assurer un soutien constant. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Tissu évacuant l’humidité • Tissu élastique : les fibres du tissu se rétractent sur la longueur et la largeur • Encolure échancrée et dos nageur • Coutures plates et biais de liaison éliminant les frottements • Convient pour les bonnets A-C • Matériau de soutien dans les bretelles, double couche sur le devant et large élastique sous la poitrine • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide CHEST (cm) UNDERBUST (cm) XS 84 73 S 88 75 M 92 77 L 100 81 XL 108 85 2XL 116 89
-  Updated: 2025-11-25T20:28:00Z
+  Updated: 2025-11-26T12:49:13Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -103,7 +103,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-black-front-69244d56ec29f.jpg?v=1764058003
     Price: €39.00 EUR
 - [Brassière de Sport "in the mood for clouds" Bleu](https://kindesignfrance.com/products/brassiere-de-sport-1): Cette brassière de sport est fabriquée dans une matière qui évacue l'humidité et reste sèche pendant les séances de sport de faible et moyenne intensité. Elle comporte un matériau de soutien dans les bretelles, une partie avant à double couche et une large bande élastique pour assurer un soutien constant. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Tissu évacuant l’humidité • Tissu élastique : les fibres du tissu se rétractent sur la longueur et la largeur • Encolure échancrée et dos nageur • Coutures plates et biais de liaison éliminant les frottements • Convient pour les bonnets A-C • Matériau de soutien dans les bretelles, double couche sur le devant et large élastique sous la poitrine • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide CHEST (cm) UNDERBUST (cm) XS 84 73 S 88 75 M 92 77 L 100 81 XL 108 85 2XL 116 89
-  Updated: 2025-11-25T20:24:44Z
+  Updated: 2025-11-26T12:49:13Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -133,7 +133,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-69244ed2178aa.jpg?v=1764057830
     Price: €39.00 EUR
 - [Legging pour femme "In the mood for clouds" bleu](https://kindesignfrance.com/products/leggings-in-the-mood-for-clouds): Élégant, durable et un incontournable de la mode. Ces leggings en polyester et élasthane sont fabriqués d’un fil de microfibre confortable et ne perdent jamais leur élasticité. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Fabriqué à partir d'un fil de microfibre, ce qui rend l'article lisse et confortable • Tissu extensible dans les quatre sens qui s'étire et se redresse sur la croix et les grains longitudinaux • Ceinture élastique • Surjet et point de recouvrement • Composants vierges provenant du Mexique et de ChineSize guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114
-  Updated: 2025-11-25T07:44:38Z
+  Updated: 2025-11-26T12:49:13Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -159,7 +159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-69244fdf128c1.jpg?v=1763998154
     Price: €39.00 EUR
 - [Legging pour femme "In the mood for clouds" noir](https://kindesignfrance.com/products/leggings-in-the-mood-for-clouds-bleu): Élégant, durable et un incontournable de la mode. Ces leggings en polyester et élasthane sont fabriqués d’un fil de microfibre confortable et ne perdent jamais leur élasticité. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Fabriqué à partir d'un fil de microfibre, ce qui rend l'article lisse et confortable • Tissu extensible dans les quatre sens qui s'étire et se redresse sur la croix et les grains longitudinaux • Ceinture élastique • Surjet et point de recouvrement • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114
-  Updated: 2025-11-25T07:45:17Z
+  Updated: 2025-11-26T12:49:14Z
   Vendor: Kin design France
   Product Type: legging
   Availability: Available
@@ -184,7 +184,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-692450fbbb079.jpg?v=1763998046
     Price: €39.00 EUR
 - [Legging pour femme  "In the mood for clouds" Violet](https://kindesignfrance.com/products/leggings): Élégant, durable et un incontournable de la mode. Ces leggings en polyester et élasthane sont fabriqués d’un fil de microfibre confortable et ne perdent jamais leur élasticité. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Fabriqué à partir d'un fil de microfibre, ce qui rend l'article lisse et confortable • Tissu extensible dans les quatre sens qui s'étire et se redresse sur la croix et les grains longitudinaux • Ceinture élastique • Surjet et point de recouvrement • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114
-  Updated: 2025-11-25T07:45:48Z
+  Updated: 2025-11-26T12:49:14Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -210,7 +210,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-692453885a44a.jpg?v=1763997924
     Price: €39.00 EUR
 - [Brassière de Sport "In the mood for clouds" Violet](https://kindesignfrance.com/products/brassiere-de-sport-2): Cette brassière de sport est fabriquée dans une matière qui évacue l'humidité et reste sèche pendant les séances de sport de faible et moyenne intensité. Elle comporte un matériau de soutien dans les bretelles, une partie avant à double couche et une large bande élastique pour assurer un soutien constant. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Tissu évacuant l’humidité • Tissu élastique : les fibres du tissu se rétractent sur la longueur et la largeur • Encolure échancrée et dos nageur • Coutures plates et biais de liaison éliminant les frottements • Convient pour les bonnets A-C • Matériau de soutien dans les bretelles, double couche sur le devant et large élastique sous la poitrine • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide CHEST (cm) UNDERBUST (cm) XS 84 73 S 88 75 M 92 77 L 100 81 XL 108 85 2XL 116 89
-  Updated: 2025-11-25T21:00:31Z
+  Updated: 2025-11-26T12:49:14Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -240,7 +240,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-69245420e0cba.jpg?v=1764058765
     Price: €39.00 EUR
 - [Legging Pour enfant/Ado "In the mood for clouds" Noir](https://kindesignfrance.com/products/legging-pour-ado-in-the-mood-for-clouds-noir): Ce legging pour ados est le confort personnifié. Élastique et doux, ses couleurs vives sont faites pour durer. Chaque legging est découpé avec précision et cousu à la main pour garantir un ajustement parfait. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Fil de microfibre lisse et confortable • Tissu élastique • Cousu avec une finition surjet et point de recouvrement • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les enfants EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide HEIGHT (cm) WAIST (cm) 8 134 60 10 140 62 12 146 64 14 152 66 16 158 67 18 164 68 20 170 69
-  Updated: 2025-11-25T19:36:47Z
+  Updated: 2025-11-26T12:49:14Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -274,7 +274,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-youth-leggings-white-front-692456382aa0b.jpg?v=1763997215
     Price: €29.00 EUR
 - [Legging Pour enfant/Ado "In the mood for clouds" Bleu](https://kindesignfrance.com/products/legging-pour-ado-in-the-mood-for-clouds-bleu): Ce legging pour ados est le confort personnifié. Élastique et doux, ses couleurs vives sont faites pour durer. Chaque legging est découpé avec précision et cousu à la main pour garantir un ajustement parfait.• 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique• 82 % polyester, 18 % élasthanne pour la production en Lettonie• Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique• Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie• Fil de microfibre lisse et confortable• Tissu élastique• Cousu avec une finition surjet et point de recouvrement• Composants vierges provenant du Mexique et de Chine• Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavageAge restrictions: Pour les enfantsEU Warranty: 2 ansOther compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates.En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président MagnaudSaint Yrieix La PercheFrance. Size guide HEIGHT (cm) WAIST (cm) 8 134 60 10 140 62 12 146 64 14 152 66 16 158 67 18 164 68 20 170 69
-  Updated: 2025-11-25T20:06:06Z
+  Updated: 2025-11-26T12:49:14Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -308,7 +308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-youth-leggings-white-front-69245781a456a.jpg?v=1764062527
     Price: €29.00 EUR
 - [Legging Pour enfant/Ado "In the mood for clouds" Violet](https://kindesignfrance.com/products/legging-pour-ado-in-the-mood-for-clouds-violet): Ce legging pour ados est le confort personnifié. Élastique et doux, ses couleurs vives sont faites pour durer. Chaque legging est découpé avec précision et cousu à la main pour garantir un ajustement parfait. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Fil de microfibre lisse et confortable • Tissu élastique • Cousu avec une finition surjet et point de recouvrement • Composants vierges provenant du Mexique et de Chine Age restrictions: Pour les enfants EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide HEIGHT (cm) WAIST (cm) 8 134 60 10 140 62 12 146 64 14 152 66 16 158 67 18 164 68 20 170 69
-  Updated: 2025-11-25T21:47:02Z
+  Updated: 2025-11-26T12:49:14Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -342,7 +342,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-youth-leggings-white-front-6924582807e92.jpg?v=1764062078
     Price: €29.00 EUR
 - [T-shirt de natation pour Femme "In the mood for clouds" Bleu](https://kindesignfrance.com/products/t-shirt-de-compression-pour-femme): N'ayez pas peur de vous défouler dans ce T-shirt de compression à manches longues, doux et polyvalent ! Il vous protège du soleil et du vent pendant que vous faites du sport. Sa coupe ajustée, ses coutures plates et ergonomiques et sa longueur vous apportent un confort supplémentaire. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Matière très douce et extensible dans tous les sens : les fibres du tissu se rétractent sur la longueur et la largeur • Coupe ajustée • Corps et manches plus longs et confortables • Coutures plates et surpiqûres • Composants vierges provenant du Mexique et de Chine
-  Updated: 2025-11-25T20:27:45Z
+  Updated: 2025-11-26T12:49:14Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -375,7 +375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-womens-rash-guard-white-front-692459e30ab9b.jpg?v=1763997106
     Price: €45.00 EUR
 - [Maillot de bain 2 pièces taille haute "In the mood for clouds" Noir](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-in-the-mood-for-clouds-noir): Il est trop facile de tomber amoureux de ce maillot de bain. Les coussinets amovibles et sa double superposition le rendent agréable à porter toute la journée au bord de la piscine ou à la plage. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/au Mexique. • 88 % polyester recyclé, 12 % élasthanne pour la production en Lettonie. • Poids du tissu : 225 g/m² (6,64 oz./yd.²) aux États-Unis/au Mexique. • Poids du tissu : 230 g/m² (7,37 oz./yd.²) en Lettonie. • Double couche et non réversible • Rembourrage amovible • Étiquette d'entretien détachable • Couture en zig-zag • Composants du produit vierge de l'UE provenant d'Espagne, d'Allemagne, de Taïwan, du Vietnam, du Cambodge et de Lituanie • Composants de produit vierge aux États-Unis provenant de Mexique et d'Espagne • Traçabilité : - Tricot : Chine - Teinture : Chine - Fabrication : Lettonie • Contient 88 % de polyester recyclé • Contient 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide CHEST (cm) WAIST (cm) HIPS (cm) XS 84 64 90 S 88 68 94 M 92 72 98 L 100 80 106 XL 108 88 114 2XL 116 96 122 3XL 124 104 130
-  Updated: 2025-11-25T20:37:05Z
+  Updated: 2025-11-26T12:49:14Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -409,7 +409,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-69245dc078ca2.jpg?v=1764059808
     Price: €49.00 EUR
 - [Maillot de bain 2 pièces taille haute "In the mood for clouds" Bleu](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-in-the-mood-for-clouds-bleu): Il est trop facile de tomber amoureux de ce maillot de bain. Les coussinets amovibles et sa double superposition le rendent agréable à porter toute la journée au bord de la piscine ou à la plage. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/au Mexique. • 88 % polyester recyclé, 12 % élasthanne pour la production en Lettonie. • Poids du tissu : 225 g/m² (6,64 oz./yd.²) aux États-Unis/au Mexique. • Poids du tissu : 230 g/m² (7,37 oz./yd.²) en Lettonie. • Double couche et non réversible • Rembourrage amovible • Étiquette d'entretien détachable • Couture en zig-zag • Composants du produit vierge de l'UE provenant d'Espagne, d'Allemagne, de Taïwan, du Vietnam, du Cambodge et de Lituanie • Composants de produit vierge aux États-Unis provenant de Mexique et d'Espagne • Traçabilité : - Tricot : Chine - Teinture : Chine - Fabrication : Lettonie • Contient 88 % de polyester recyclé • Contient 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide CHEST (cm) WAIST (cm) HIPS (cm) XS 84 64 90 S 88 68 94 M 92 72 98 L 100 80 106 XL 108 88 114 2XL 116 96 122 3XL 124 104 130
-  Updated: 2025-11-25T21:21:24Z
+  Updated: 2025-11-26T12:49:15Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -443,7 +443,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-69245ffe02ec3.jpg?v=1764059559
     Price: €49.00 EUR
 - [Maillot de bain 2 pièces taille haute "In the mood for clouds"  violet](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-in-the-mood-for-clouds-violet): Il est trop facile de tomber amoureux de ce maillot de bain. Les coussinets amovibles et sa double superposition le rendent agréable à porter toute la journée au bord de la piscine ou à la plage. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/au Mexique. • 88 % polyester recyclé, 12 % élasthanne pour la production en Lettonie. • Poids du tissu : 225 g/m² (6,64 oz./yd.²) aux États-Unis/au Mexique. • Poids du tissu : 230 g/m² (7,37 oz./yd.²) en Lettonie. • Double couche et non réversible • Rembourrage amovible • Étiquette d'entretien détachable • Couture en zig-zag • Composants du produit vierge de l'UE provenant d'Espagne, d'Allemagne, de Taïwan, du Vietnam, du Cambodge et de Lituanie • Composants de produit vierge aux États-Unis provenant de Mexique et d'Espagne • Traçabilité : - Tricot : Chine - Teinture : Chine - Fabrication : Lettonie • Contient 88 % de polyester recyclé • Contient 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide CHEST (cm) WAIST (cm) HIPS (cm) XS 84 64 90 S 88 68 94 M 92 72 98 L 100 80 106 XL 108 88 114 2XL 116 96 122 3XL 124 104 130
-  Updated: 2025-11-25T20:59:00Z
+  Updated: 2025-11-26T12:49:15Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -477,7 +477,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692460ebd703f.jpg?v=1764059127
     Price: €49.00 EUR
 - [Maillot de Bain 1 pièce pour Enfant/Adolescente "In the mood for clouds" Noir](https://kindesignfrance.com/products/maillot-de-bain-1-piece-pour-adolescente-in-the-mood-for-clouds-noir): Confortable, élastique et doux, ce maillot de bain est résistant à toute épreuve ! • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Double couche sur le devant • Biais noir ou blanc • Cousu avec un point de surjet • Fil de microfibre doux et confortable • Matériau extensible: les fibres du tissu se rétractent sur la longueur et la largeur • Composants vierges provenant du Mexique et de Chine Veuillez noter qu'il convient d'éviter tout contact avec des surfaces rugueuses et des fermetures Velcro, qui risquent d’arracher les fibres blanches du tissu et d’altérer l'aspect du maillot de bain.Size guide HEIGHT (cm) CHEST (cm) WAIST (cm) HIPS (cm) 8 134 69 60 73 10 140 72 62 77 12 146 75 64 80 14 152 78 66 83 16 158 81 67 86 18 164 84 68 88 20 170.2 87 69 90
-  Updated: 2025-11-25T21:28:10Z
+  Updated: 2025-11-26T12:49:15Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -511,7 +511,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-youth-swimsuit-white-front-69246289643e0.jpg?v=1764061202
     Price: €29.00 EUR
 - [Maillot de Bain 1 pièce pour Enfant/Adolescente "In the mood for clouds" Bleu](https://kindesignfrance.com/products/maillot-de-bain-1-piece-pour-adolescente-in-the-mood-for-clouds-bleu): Confortable, élastique et doux, ce maillot de bain est résistant à toute épreuve ! • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Double couche sur le devant • Biais noir ou blanc • Cousu avec un point de surjet • Fil de microfibre doux et confortable • Matériau extensible: les fibres du tissu se rétractent sur la longueur et la largeur • Composants vierges provenant du Mexique et de Chine Veuillez noter qu'il convient d'éviter tout contact avec des surfaces rugueuses et des fermetures Velcro, qui risquent d’arracher les fibres blanches du tissu et d’altérer l'aspect du maillot de bain. • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les enfants EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide HEIGHT (cm) CHEST (cm) WAIST (cm) HIPS (cm) 8 134 69 60 73 10 140 72 62 77 12 146 75 64 80 14 152 78 66 83 16 158 81 67 86 18 164 84 68 88 20 170.2 87 69 90
-  Updated: 2025-11-25T21:35:19Z
+  Updated: 2025-11-26T12:49:15Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -545,7 +545,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-youth-swimsuit-white-front-6924634cd1f68.jpg?v=1764060814
     Price: €29.00 EUR
 - [Maillot de Bain 1 pièce pour Enfant/Adolescente "In the mood for clouds" Violet](https://kindesignfrance.com/products/maillot-de-bain-1-piece-pour-adolescente-in-the-mood-for-clouds-violet): Confortable, élastique et doux, ce maillot de bain est résistant à toute épreuve ! • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Double couche sur le devant • Biais noir ou blanc • Cousu avec un point de surjet • Fil de microfibre doux et confortable • Matériau extensible: les fibres du tissu se rétractent sur la longueur et la largeur • Composants vierges provenant du Mexique et de Chine Veuillez noter qu'il convient d'éviter tout contact avec des surfaces rugueuses et des fermetures Velcro, qui risquent d’arracher les fibres blanches du tissu et d’altérer l'aspect du maillot de bain. • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les enfants EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide HEIGHT (cm) CHEST (cm) WAIST (cm) HIPS (cm) 8 134 69 60 73 10 140 72 62 77 12 146 75 64 80 14 152 78 66 83 16 158 81 67 86 18 164 84 68 88 20 170.2 87 69 90
-  Updated: 2025-11-25T20:51:28Z
+  Updated: 2025-11-26T12:49:15Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -579,7 +579,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-youth-swimsuit-white-front-692463fbab182.jpg?v=1764060548
     Price: €29.00 EUR
 - [Leggings Femme "Fly like a bird" Rouge](https://kindesignfrance.com/products/leggings-femme-fly-like-a-bird-rouge): Élégant, durable et un incontournable de la mode. Ces leggings en polyester et élasthane sont fabriqués d’un fil de microfibre confortable et ne perdent jamais leur élasticité. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Fabriqué à partir d'un fil de microfibre, ce qui rend l'article lisse et confortable • Tissu extensible dans les quatre sens qui s'étire et se redresse sur la croix et les grains longitudinaux • Ceinture élastique • Surjet et point de recouvrement • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114
-  Updated: 2025-11-25T20:16:31Z
+  Updated: 2025-11-26T12:49:15Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -605,7 +605,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-69246679e7bba.jpg?v=1764063275
     Price: €39.00 EUR
 - [T-shirt unisexe "In the mood for clouds"](https://kindesignfrance.com/products/t-shirt-unisexe-in-the-mood-for-clouds): Ce t-shirt est tout ce dont vous avez rêvé et bien plus encore. Il est doux et léger, avec la bonne quantité d'élasticité. Il est confortable et flatteur pour tous. • 100 % coton peigné et filé à l'anneau • Poids du tissu : 142 g/m² (4,2 oz./yd.²) • Tissu pré-rétréci • Construction cousue latéralement • Bandeau épaule à épaule • Produit vierge provenant du Nicaragua, du Mexique, du Honduras ou des États-Unis Avertissement : le tissu est légèrement transparent et peut laisser apparaître la peau, surtout pour les coloris clairs ou sous certaines conditions d’éclairage. • Traçabilité : - Tissage : Inde, Corée du Sud - Teinture : El Salvador, Californie - Fabrication : Nicaragua, Mexique, Honduras ou États-Unis • Contient 0 % de polyester recyclé • Contient 0 % de substances dangereuses Age restrictions: Pour les adultes EU Warranty: 2 ans En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide LENGTH (cm) WIDTH (cm) CHEST (cm) XS 68.6 42 78.7-86.4 S 71.1 45.7 86.4-94 M 73.7 50.8 96.5-104.1 L 76.2 55.9 106.7-114.3 XL 78.7 61 116.8-124.5 2XL 81.3 66 127-134.6 3XL 83.8 71.1 137.2-144.8 4XL 86.4 76.2 147.3-155 5XL 89 78.7 157.5-165
-  Updated: 2025-11-25T21:34:13Z
+  Updated: 2025-11-26T12:49:15Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -771,7 +771,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-staple-t-shirt-ocean-blue-front-69246a503f5e5.jpg?v=1763996837
     Price: €19.00 EUR
 - [Sweat Unisexe à Col Rond "In the mood for clouds"](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond): Un sweat robuste et épais pour vous garder au chaud pendant les mois les plus froids. Un pull pré-rétréci, de coupe classique, fabriqué avec du fil filé par jet d'air pour une sensation de douceur. • 50 % coton, 50 % polyester • Coupe classique • Col en tricot athlétique 1x1 avec élasthanne • Fil filé par jet d'air avec une sensation douce • Couture à double aiguille sur le col, épaules, emmanchures et ourlet Avertissement : • En raison des propriétés du tissu, la variante de couleur blanche peut apparaître ivoire plutôt que blanc brillant. • La variante de couleur orange peut révéler de subtiles différences de teintes orange en fonction de l'éclairage. • Traçabilité : - Tricot : Honduras, Bangladesh - Teinture : Honduras, Bangladesh - Fabrication : Nicaragua, Honduras, Bangladesh ou El Salvador • Contient 0 % de polyester recyclé • Contient 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences en matière d'inflammabilité, de teneur en plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide LENGTH (cm) WIDTH (cm) S 68.6 50.8 M 71.1 55.9 L 73.7 61 XL 76.2 66 2XL 78.7 71.1 3XL 81.3 76.2 4XL 83.8 81.3 5XL 86.4 86.4
-  Updated: 2025-11-25T21:50:16Z
+  Updated: 2025-11-26T12:49:15Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -913,7 +913,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-light-blue-front-69257ba8e0287.jpg?v=1764064783
     Price: €39.00 EUR
 - [Legging pour femme "Fly like a bird" bleu](https://kindesignfrance.com/products/legging-pour-femme-fly-like-a-bird-bleu): Élégant, durable et un incontournable de la mode. Ces leggings en polyester et élasthane sont fabriqués d’un fil de microfibre confortable et ne perdent jamais leur élasticité. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Fabriqué à partir d'un fil de microfibre, ce qui rend l'article lisse et confortable • Tissu extensible dans les quatre sens qui s'étire et se redresse sur la croix et les grains longitudinaux • Ceinture élastique • Surjet et point de recouvrement • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114
-  Updated: 2025-11-25T22:36:16Z
+  Updated: 2025-11-26T12:49:16Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -939,7 +939,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-692583516cb91.jpg?v=1764066350
     Price: €39.00 EUR
 - [Sweat Unisexe à Col Rond "Fly like a bird"](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-fly-like-a-bird): Un sweat robuste et épais pour vous garder au chaud pendant les mois les plus froids. Un pull pré-rétréci, de coupe classique, fabriqué avec du fil filé par jet d'air pour une sensation de douceur. • 50 % coton, 50 % polyester • Coupe classique • Col en tricot athlétique 1x1 avec élasthanne • Fil filé par jet d'air avec une sensation douce • Couture à double aiguille sur le col, épaules, emmanchures et ourlet Avertissement : • En raison des propriétés du tissu, la variante de couleur blanche peut apparaître ivoire plutôt que blanc brillant. • La variante de couleur orange peut révéler de subtiles différences de teintes orange en fonction de l'éclairage. • Traçabilité : - Tricot : Honduras, Bangladesh - Teinture : Honduras, Bangladesh - Fabrication : Nicaragua, Honduras, Bangladesh ou El Salvador • Contient 0 % de polyester recyclé • Contient 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences en matière d'inflammabilité, de teneur en plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide LENGTH (cm) WIDTH (cm) S 68.6 50.8 M 71.1 55.9 L 73.7 61 XL 76.2 66 2XL 78.7 71.1 3XL 81.3 76.2 4XL 83.8 81.3 5XL 86.4 86.4
-  Updated: 2025-11-25T22:59:47Z
+  Updated: 2025-11-26T12:49:16Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -1009,7 +1009,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-white-front-692585a3e9149.jpg?v=1764067195
     Price: €39.00 EUR
 - [Legging Pour Enfant/Ado "Fly like a bird" Bleu](https://kindesignfrance.com/products/legging-pour-ado-fly-like-a-bird-bleu): Ce legging pour ados est le confort personnifié. Élastique et doux, ses couleurs vives sont faites pour durer. Chaque legging est découpé avec précision et cousu à la main pour garantir un ajustement parfait. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Fil de microfibre lisse et confortable • Tissu élastique • Cousu avec une finition surjet et point de recouvrement • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les enfants EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide HEIGHT (cm) WAIST (cm) 8 134 60 10 140 62 12 146 64 14 152 66 16 158 67
-  Updated: 2025-11-25T23:05:15Z
+  Updated: 2025-11-26T12:49:16Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -1035,7 +1035,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-youth-leggings-white-front-69258b47c290f.jpg?v=1764068765
     Price: €29.00 EUR
 - [T-shirt Unisexe à Manches Courtes "Fly like a bird"](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-courtes-fly-like-a-bird-1): Vous avez maintenant trouvé le t-shirt incontournable de votre garde-robe. Il est composé de 100 % de coton filé à l'anneau et est doux et confortable. La double couture sur l'encolure et les manches ajoute plus de durabilité à ce qui deviendra certainement votre favori de l'enfant ! • 100 % coton filé à l'anneau • Le gris sport est composé de 90 % de coton filé à l'anneau et de 10 % de polyester • Le coloris chiné foncé est composé de 65 % de polyester et de 35 % de coton • 153 g/m² (4,5 oz/yd²) • Ruban d'épaule à épaule • Quart de tour pour éviter le pli central • Produit vierge provenant du Bangladesh, du Nicaragua, du Honduras, de la République dominicaine, d'Haïti ou du Guatemala Avertissement : En raison des propriétés du tissu, la variante de couleur blanche peut sembler blanc cassé plutôt que blanc vif. Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité, aux teneurs en plomb, cadmium, phtalates et formaldéhyde. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide LENGTH (cm) WIDTH (cm) S 71.1 45.7 M 73.7 50.8 L 76.2 55.9 XL 78.7 61 2XL 81.3 66 3XL 83.8 71.1
-  Updated: 2025-11-25T23:49:18Z
+  Updated: 2025-11-26T12:49:16Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -1089,7 +1089,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-basic-softstyle-t-shirt-white-front-692597983ae12.jpg?v=1764072242
     Price: €19.00 EUR
 - [T-shirt Unisexe à Manches Courtes "Fly like a bird"](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-courtes-fly-like-a-bird-2): Vous avez maintenant trouvé le t-shirt incontournable de votre garde-robe. Il est composé de 100 % de coton filé à l'anneau et est doux et confortable. La double couture sur l'encolure et les manches ajoute plus de durabilité à ce qui deviendra certainement votre favori de l'enfant ! • 100 % coton filé à l'anneau • Le gris sport est composé de 90 % de coton filé à l'anneau et de 10 % de polyester • Le coloris chiné foncé est composé de 65 % de polyester et de 35 % de coton • 153 g/m² (4,5 oz/yd²) • Ruban d'épaule à épaule • Quart de tour pour éviter le pli central • Produit vierge provenant du Bangladesh, du Nicaragua, du Honduras, de la République dominicaine, d'Haïti ou du Guatemala Avertissement : En raison des propriétés du tissu, la variante de couleur blanche peut sembler blanc cassé plutôt que blanc vif. Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité, aux teneurs en plomb, cadmium, phtalates et formaldéhyde. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide LENGTH (cm) WIDTH (cm) S 71.1 45.7 M 73.7 50.8 L 76.2 55.9 XL 78.7 61 2XL 81.3 66 3XL 83.8 71.1
-  Updated: 2025-11-25T18:38:53Z
+  Updated: 2025-11-26T12:49:16Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -1167,7 +1167,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-basic-softstyle-t-shirt-white-front-6925aaf761312.jpg?v=1764076742
     Price: €19.00 EUR
 - [Legging femme "Fly like a bird" Rouge brique](https://kindesignfrance.com/products/leggings-1): Élégant, durable et un incontournable de la mode. Ces leggings en polyester et élasthane sont fabriqués d’un fil de microfibre confortable et ne perdent jamais leur élasticité. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Fabriqué à partir d'un fil de microfibre, ce qui rend l'article lisse et confortable • Tissu extensible dans les quatre sens qui s'étire et se redresse sur la croix et les grains longitudinaux • Ceinture élastique • Surjet et point de recouvrement • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114
-  Updated: 2025-11-25T14:31:09Z
+  Updated: 2025-11-26T12:49:16Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -1193,7 +1193,7 @@
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-6925bbf9e1ab2.jpg?v=1764080956
     Price: €39.00 EUR
 - [Legging Pour Enfant/Ado "Fly like a bird" Rouge brique](https://kindesignfrance.com/products/legging-pour-enfant-ado-fly-like-a-bird-rouge-brique): Ce legging pour ados est le confort personnifié. Élastique et doux, ses couleurs vives sont faites pour durer. Chaque legging est découpé avec précision et cousu à la main pour garantir un ajustement parfait. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Fil de microfibre lisse et confortable • Tissu élastique • Cousu avec une finition surjet et point de recouvrement • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les enfants EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide HEIGHT (cm) WAIST (cm) 8 134 60 10 140 62 12 146 64 14 152 66 16 158 67
-  Updated: 2025-11-25T14:47:13Z
+  Updated: 2025-11-26T12:49:16Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -1218,26 +1218,172 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-youth-leggings-white-front-6925c02c35023.jpg?v=1764081966
     Price: €29.00 EUR
+- [Brassière de Sport "Fly like a bird"](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird): Cette brassière de sport est fabriquée dans une matière qui évacue l'humidité et reste sèche pendant les séances de sport de faible et moyenne intensité. Elle comporte un matériau de soutien dans les bretelles, une partie avant à double couche et une large bande élastique pour assurer un soutien constant. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Tissu évacuant l’humidité • Tissu élastique : les fibres du tissu se rétractent sur la longueur et la largeur • Encolure échancrée et dos nageur • Coutures plates et biais de liaison éliminant les frottements • Convient pour les bonnets A-C • Matériau de soutien dans les bretelles, double couche sur le devant et large élastique sous la poitrine • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide CHEST (cm) UNDERBUST (cm) XS 84 73 S 88 75 M 92 77 L 100 81 XL 108 85 2XL 116 89
+  Updated: 2025-11-26T21:13:02Z
+  Vendor: Kin design France
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/IMG-6248.png?v=1764147124
+  - [XS](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird?variant=56248304664951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-6926bacabc742.jpg?v=1764147124
+    Price: €39.00 EUR
+  - [S](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird?variant=56248304697719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-6926bacabc742.jpg?v=1764147124
+    Price: €39.00 EUR
+  - [M](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird?variant=56248304730487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-6926bacabc742.jpg?v=1764147124
+    Price: €39.00 EUR
+  - [L](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird?variant=56248304763255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-6926bacabc742.jpg?v=1764147124
+    Price: €39.00 EUR
+  - [XL](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird?variant=56248304796023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-6926bacabc742.jpg?v=1764147124
+    Price: €39.00 EUR
+  - [2 XL](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird?variant=56248304828791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-6926bacabc742.jpg?v=1764147124
+    Price: €39.00 EUR
+- [Brassière de Sport "Fly like a bird" rouge et noir](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-rouge-et-noir): Cette brassière de sport est fabriquée dans une matière qui évacue l'humidité et reste sèche pendant les séances de sport de faible et moyenne intensité. Elle comporte un matériau de soutien dans les bretelles, une partie avant à double couche et une large bande élastique pour assurer un soutien constant. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Tissu évacuant l’humidité • Tissu élastique : les fibres du tissu se rétractent sur la longueur et la largeur • Encolure échancrée et dos nageur • Coutures plates et biais de liaison éliminant les frottements • Convient pour les bonnets A-C • Matériau de soutien dans les bretelles, double couche sur le devant et large élastique sous la poitrine • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide CHEST (cm) UNDERBUST (cm) XS 84 73 S 88 75 M 92 77 L 100 81 XL 108 85 2XL 116 89
+  Updated: 2025-11-27T00:00:25Z
+  Vendor: Kin design France
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/IMG-6254.png?v=1764159052
+  - [XS](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-rouge-et-noir?variant=56249022349687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-black-front-6926eba2ec0ed.jpg?v=1764159052
+    Price: €39.00 EUR
+  - [S](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-rouge-et-noir?variant=56249022382455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-black-front-6926eba2ec0ed.jpg?v=1764159052
+    Price: €39.00 EUR
+  - [M](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-rouge-et-noir?variant=56249022415223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-black-front-6926eba2ec0ed.jpg?v=1764159052
+    Price: €39.00 EUR
+  - [L](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-rouge-et-noir?variant=56249022447991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-black-front-6926eba2ec0ed.jpg?v=1764159052
+    Price: €39.00 EUR
+  - [XL](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-rouge-et-noir?variant=56249022480759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-black-front-6926eba2ec0ed.jpg?v=1764159052
+    Price: €39.00 EUR
+  - [2 XL](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-rouge-et-noir?variant=56249022513527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-black-front-6926eba2ec0ed.jpg?v=1764159052
+    Price: €39.00 EUR
+- [Brassière de Sport "Fly like a bird“ Bleu](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-bleu): Cette brassière de sport est fabriquée dans une matière qui évacue l'humidité et reste sèche pendant les séances de sport de faible et moyenne intensité. Elle comporte un matériau de soutien dans les bretelles, une partie avant à double couche et une large bande élastique pour assurer un soutien constant. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Tissu évacuant l’humidité • Tissu élastique : les fibres du tissu se rétractent sur la longueur et la largeur • Encolure échancrée et dos nageur • Coutures plates et biais de liaison éliminant les frottements • Convient pour les bonnets A-C • Matériau de soutien dans les bretelles, double couche sur le devant et large élastique sous la poitrine • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide CHEST (cm) UNDERBUST (cm) XS 84 73 S 88 75 M 92 77 L 100 81 XL 108 85 2XL 116 89
+  Updated: 2025-11-26T14:00:11Z
+  Vendor: Kin design France
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/IMG-6259.png?v=1764160111
+  - [XS](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-bleu?variant=56249060426103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-6926f06e03889.jpg?v=1764160111
+    Price: €39.00 EUR
+  - [S](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-bleu?variant=56249060458871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-6926f06e03889.jpg?v=1764160111
+    Price: €39.00 EUR
+  - [M](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-bleu?variant=56249060491639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-6926f06e03889.jpg?v=1764160111
+    Price: €39.00 EUR
+  - [L](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-bleu?variant=56249060524407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-6926f06e03889.jpg?v=1764160111
+    Price: €39.00 EUR
+  - [XL](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-bleu?variant=56249060557175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-6926f06e03889.jpg?v=1764160111
+    Price: €39.00 EUR
+  - [2 XL](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-bleu?variant=56249060589943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-6926f06e03889.jpg?v=1764160111
+    Price: €39.00 EUR
+- [Legging pour femme "Fly like a bird" Vert](https://kindesignfrance.com/products/legging-pour-femme-fly-like-a-bird-vert): Élégant, durable et un incontournable de la mode. Ces leggings en polyester et élasthane sont fabriqués d’un fil de microfibre confortable et ne perdent jamais leur élasticité. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Fabriqué à partir d'un fil de microfibre, ce qui rend l'article lisse et confortable • Tissu extensible dans les quatre sens qui s'étire et se redresse sur la croix et les grains longitudinaux • Ceinture élastique • Surjet et point de recouvrement • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114
+  Updated: 2025-11-26T14:04:49Z
+  Vendor: Kin design France
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/IMG-6264.png?v=1764165524
+  - [XS](https://kindesignfrance.com/products/legging-pour-femme-fly-like-a-bird-vert?variant=56250256916855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-back-692705bc27af5.jpg?v=1764165524
+    Price: €39.00 EUR
+  - [S](https://kindesignfrance.com/products/legging-pour-femme-fly-like-a-bird-vert?variant=56250256949623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-back-692705bc27af5.jpg?v=1764165524
+    Price: €39.00 EUR
+  - [M](https://kindesignfrance.com/products/legging-pour-femme-fly-like-a-bird-vert?variant=56250256982391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-back-692705bc27af5.jpg?v=1764165524
+    Price: €39.00 EUR
+  - [L](https://kindesignfrance.com/products/legging-pour-femme-fly-like-a-bird-vert?variant=56250257015159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-back-692705bc27af5.jpg?v=1764165524
+    Price: €39.00 EUR
+  - [XL](https://kindesignfrance.com/products/legging-pour-femme-fly-like-a-bird-vert?variant=56250257047927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-back-692705bc27af5.jpg?v=1764165524
+    Price: €39.00 EUR
+- [Brassière de Sport "Fly like a bird" Vert](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-vert): Cette brassière de sport est fabriquée dans une matière qui évacue l'humidité et reste sèche pendant les séances de sport de faible et moyenne intensité. Elle comporte un matériau de soutien dans les bretelles, une partie avant à double couche et une large bande élastique pour assurer un soutien constant. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Tissu évacuant l’humidité • Tissu élastique : les fibres du tissu se rétractent sur la longueur et la largeur • Encolure échancrée et dos nageur • Coutures plates et biais de liaison éliminant les frottements • Convient pour les bonnets A-C • Matériau de soutien dans les bretelles, double couche sur le devant et large élastique sous la poitrine • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide CHEST (cm) UNDERBUST (cm) XS 84 73 S 88 75 M 92 77 L 100 81 XL 108 85 2XL 116 89
+  Updated: 2025-11-26T15:00:10Z
+  Vendor: Kin design France
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/IMG-6270.png?v=1764166704
+  - [XS](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-vert?variant=56250404667767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-69270a6f781c2.jpg?v=1764166650
+    Price: €39.00 EUR
+  - [S](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-vert?variant=56250404700535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-69270a6f781c2.jpg?v=1764166650
+    Price: €39.00 EUR
+  - [M](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-vert?variant=56250404733303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-69270a6f781c2.jpg?v=1764166650
+    Price: €39.00 EUR
+  - [L](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-vert?variant=56250404766071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-69270a6f781c2.jpg?v=1764166650
+    Price: €39.00 EUR
+  - [XL](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-vert?variant=56250404798839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-69270a6f781c2.jpg?v=1764166650
+    Price: €39.00 EUR
+  - [2 XL](https://kindesignfrance.com/products/brassiere-de-sport-fly-like-a-bird-vert?variant=56250404831607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-sports-bra-white-front-69270a6f781c2.jpg?v=1764166650
+    Price: €39.00 EUR
 
 ## Collections
 
 - [Kin design Collection capsule](https://kindesignfrance.com/collections/frontpage): Kin Design is a French creative brand designed for those who want to consume fashion differently. Using a print-on-demand model, each piece is made only when ordered, helping reduce unnecessary stock, minimize waste, and support a more eco-friendly approach to clothing. Every design is created by a French artist inspired by nature. Her inspirations shape unique, poetic, and authentic illustrations, resulting in an original and modern collection available for immediate purchase. With Kin Design, you choose unique, ethical, and affordable products that are made to last and carry real meaning. A brand with a strong identity, where creativity and environmental consciousness come together to offer a responsible and accessible fashion experience for everyone. Français Kin Design est une marque française de création textile pensée pour celles et ceux qui souhaitent consommer autrement. Grâce au print à la demande, chaque pièce est fabriquée uniquement lorsqu’elle est commandée, ce qui permet de réduire les stocks inutiles, de limiter les déchets et de promouvoir une approche plus écologique de la mode. Chaque design est imaginé par une créatrice française passionnée par la nature. Ses inspirations se retrouvent dans des illustrations uniques, poétiques et authentiques, donnant naissance à une collection originale, moderne et immédiatement disponible à la commande. Avec Kin Design, vous choisissez des produits originaux, éthiques et abordables, conçus pour durer et porteurs de sens. Une marque à l’identité forte, où créativité et respect de l’environnement se rencontrent pour proposer une expérience de mode responsable et accessible à tous.
-  Updated: 2025-11-25T18:24:49Z
+  Updated: 2025-11-26T12:49:13Z
   Total Products: 2
 - [In the mood for clouds](https://kindesignfrance.com/collections/in-the-mood-for-clouds): In the Mood for Clouds Par KIN Design — création française, éthique et poétique Légère comme l’air, douce comme une brise d’été, la collection « In the Moods for Clouds » vous invite à rêver. Imaginée par la créatrice française à l’origine de KIN Design, cette ligne de vêtements célèbre la beauté du ciel et ces instants fugaces où les nuages racontent leurs propres histoires. Chaque pièce est imprimée à la demande, réduisant le gaspillage textile et encourageant une façon de créer plus responsable. Les motifs inspirés des nuages capturent le mouvement, la douceur et les formes changeantes du ciel, offrant des silhouettes à la fois aériennes et contemporaines. Confectionnée à partir de matières recyclées et écoresponsables pour l'amérique, la collection reflète l’engagement de KIN Design pour une mode durable et un savoir-faire français. Malheureusement, mon fournisseur européen n'utilise pas le polyester recyclé. Des sweats oversize aux t-shirts minimalistes, en passant par les leggings éco-conçus, chaque pièce de In the Moods for Clouds est une ode à la douceur, à la liberté et à l’imagination — un petit morceau de ciel à porter.
-  Updated: 2025-11-25T20:27:46Z
+  Updated: 2025-11-26T12:49:13Z
   Total Products: 18
 - [Fly like a Bird](https://kindesignfrance.com/collections/fly-like-a-bird): 🕊️ Fly Like a Bird – La nouvelle collection de KIN Design Prenez votre envol avec Fly Like a Bird, la nouvelle collection signée KIN Design — un mélange poétique de liberté, de créativité et de design responsable pour hommes, femmes et enfants. Inspirée par la légèreté du ciel et la beauté du mouvement, chaque pièce allie confort et élégance grâce à des matières soigneusement sélectionnées — , en passant par des tissus imprimés sur demande. Chaque création est conçue en France avec la touche distinctive de KIN Design : des imprimés exclusifs, des modèles uniques et un engagement envers une mode durable qui respecte autant les personnes que la planète. Que vous exploriez la ville ou couriez après le vent, Fly Like a Bird vous invite à bouger librement, à vous habiller en conscience et à exprimer vos vraies couleurs. ✨ Fly Like a Bird – La liberté durable pour chaque génération. ✨
-  Updated: 2025-11-25T20:15:57Z
-  Total Products: 10
+  Updated: 2025-11-26T14:11:07Z
+  Total Products: 15
 - [Femme](https://kindesignfrance.com/collections/femme)
-  Updated: 2025-11-25T20:27:46Z
-  Total Products: 18
+  Updated: 2025-11-26T14:11:07Z
+  Total Products: 23
 - [Fille](https://kindesignfrance.com/collections/fille)
-  Updated: 2025-11-25T20:15:47Z
-  Total Products: 8
+  Updated: 2025-11-26T12:49:13Z
+  Total Products: 9
 - [Unisexe](https://kindesignfrance.com/collections/homme)
-  Updated: 2025-11-25T19:45:05Z
+  Updated: 2025-11-26T12:49:13Z
   Total Products: 5
 
 ## Blogs
