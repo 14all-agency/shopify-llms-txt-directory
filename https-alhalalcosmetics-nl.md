@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-01-11T16:47:40Z
 - Contact Email: info@alhalalcosmetics.nl
-- Updated At: 2025-11-26T00:01:02.259Z
+- Updated At: 2025-11-27T00:00:48.767Z
 
 ## Products
 
@@ -885,7 +885,757 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/Brown_Lipstick.jpg?v=1760700615
   Price: 12,02 € EUR
-[List Continued](https://alhalalcosmetics.nl/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5ODE3NzkzNTkzNjg3LCJsYXN0X3ZhbHVlIjoiOTgxNzc5MzU5MzY4NyJ9)
+- [kis styling Control](https://alhalalcosmetics.nl/products/kis-styling-control): Verkrijgbaar in 150 ml. Control Verbetert de textuur Geeft gewicht Controleert ongewenst kroezen Verstevigingsfactor 5 Wat is het? Een veelzijdige stylingcrème die het haar zowel gewicht, vocht en textuur geeft, evenals een ongekende glans. Controleert ongewenst kroezen. Hoe te gebruiken? Voor een gestructureerde look: wrijf de juiste hoeveelheid in de handpalmen en verwerk dit in vochtig haar. Kneed het haar in het gewenste model en föhn het droog. Voor een natuurlijke look: wrijf de juiste hoeveelheid in de handpalmen en verwerk dit in vochtig haar. Het haar aan de lucht laten drogen. Voor textuur en separatie, zonder dat het haar er vet uitziet: wrijf de juiste hoeveelheid in de handpalmen en breng het op droog haar aan op de gewenste gedeelten.
+  Updated: 2025-11-26T12:18:12Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS Styling Gel Wax 150ml](https://alhalalcosmetics.nl/products/kis-styling-gel-wax-150ml): Verkrijgbaar in 150 ml. Gel Wax Flexibele versteviging Controleert pluizigheid Geeft extreme glans Petroleumvrij Verstevigingsfactor 4 Wat is het? Geeft extreme glans en ongekende souplesse met flexibele versteviging. Voor creatieve accenten. Plakt niet en geeft een lichte wetlook. UV-filters beschermen het haar tegen zonlicht. Hoe te gebruiken? Verdeel een beetje in uw handpalmen, breng het aan op vochtig of droog haar. Ook geschikt voor het stylen van creatieve accenten.
+  Updated: 2025-11-26T12:18:12Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS Style Shine Polish](https://alhalalcosmetics.nl/products/kis-style-shine-polish): Verkrijgbaar in 150 ml. Gloss Pomade Gewichtsloze pomade Controleert pluizigheid Geeft ultraglans Petroleumvrij Verstevigingsfactor 0 Wat is het? Een ultra glanzende, finishing pomade voor een mooie, soepel vallende softstyling met natuurlijke amandelolie. Maakt onrustig en dof haar weer levendig. Geeft de ultieme softstyling en biedt een perfecte bescherming tegen splijten. Geeft een glossy look in gestrait haar en een prachtige glans in elke styling. Maakt het haar controleerbaar en beter te modelleren. Hoe te gebruiken? Verdeel een beetje in uw handpalmen, breng het aan op het haar en geef het zo de gewenste droomlook.
+  Updated: 2025-11-26T12:18:13Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS KeraMousse - 300ml](https://alhalalcosmetics.nl/products/kis-keramousse-300ml): KeraMousse Volumeversteviging Verzorgt Verstevigingsfactor 7 Wat is het? Een sterk geconcentreerde mousse met een medium versteviging en conditioners. Geeft body, glans en extra volume aan alle haartypes. Uitstekend geschikt voor gepermanent haar, om krullen te accentueren en te controleren. Ideaal voor watergolf en brushing. Hoe te gebruiken? Goed schudden. Houd de bus ondersteboven, breng een kleine hoeveelheid aan op de handpalm, laat dit even opschuimen en verdeel het over handdoekdroog haar.
+  Updated: 2025-11-26T12:18:13Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 64 500,00 € EUR
+- [KIS Kappers Wax Shaper 100ml](https://alhalalcosmetics.nl/products/kis-kappers-wax-shaper-100ml): Verkrijgbaar in 100 ml. Shaper Ongekende creativiteit Geeft textuur en separatie Geeft soft gloss Verstevigingsfactor 6 Wat is het? Een modelleercreme die het haar dikker en voller maakt. Maakt het haar makkelijker te modelleren en geeft het meer volume, body en definitie. Hoe te gebruiken? Voor extra volume en body: wrijf de juiste hoeveelheid in de handpalmen en verwerk dit in vochtig haar. Föhn het droog. Voor een look die keer op keer gerestyled kan worden: wrijf de juiste hoeveelheid in de handpalmen en verwerk dit in droog haar.
+  Updated: 2025-11-26T12:18:13Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 84 500,00 € EUR
+- [Kis Smoother STYLING Haargel 200 ml](https://alhalalcosmetics.nl/products/kis-smoother-styling-haargel-200-ml): Kis Smoother STYLING Haargel 200 ml Tijdelijke krulrelaxer Niet-chemisch Egaliseert kroeshaar en ongewenste krul Geeft glans en souplesse Verstevigingsfactor 0 Wat is het? Smoother is een tijdelijke (niet-chemisch) krulrelaxer. Thermische botanische ingrediënten stoten vocht af in haar dat recht gestyled is. Werkt tegen ongewenst kroezen en golven, tussen twee wasbeurten door. Geeft glans en beweging aan het haar. Hoe te gebruiken? Verdeel een kleine hoeveelheid over handdoekdroog haar en föhn het haar recht met een rondborstel voor een sluik effect of laat het aan de lucht drogen voor een soft bewegende look.
+  Updated: 2025-11-26T12:18:13Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 84 500,00 € EUR
+- [Kis Soft Wax KIS Styling 150ml](https://alhalalcosmetics.nl/products/kis-soft-wax-kis-styling-150ml): Soft Wax Extra verzorging Ideaal voor droog haar Geeft briljante glans Elimineert gespleten punten Verstevigingsfactor 0 Wat is het? Geeft een briljante glans, souplesse en extra verzorging. UV-filters beschermen het haar tegen zonlicht. Zeer geschikt voor droog, beschadigd haar en gespleten punten. Zeer geschikt voor van nature kroezend haar. Hoe te gebruiken? Verdeel een beetje in uw handpalmen en breng het aan op de gewenste gedeelten van het haar.
+  Updated: 2025-11-26T12:18:14Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 84 500,00 € EUR
+- [KIS Kera Spray 300ML](https://alhalalcosmetics.nl/products/kis-kera-spray-300ml): KeraSpray Superstevig Werk & Finishspray Fijne verstuiver Verstevigingsfactor 7 Wat is het? Een fijn verstuivende, super houdbare aërosol die voldoet aan alle moderne eisen. Niet belastend voor milieu. Geeft een zijdezachte glans, volume en houdbaarheid aan ieder kapsel, zonder te plakken of te schilferen. Vochtafstotend en makkelijk uit te borstelen. Hoe te gebruiken? Spray (op 30 cm afstand) op het haar en herhaal dit voor een sterkere fixatie. Voor een dramatisch supereffect: spray bij de hoofdhuid tijdens het drogen.
+  Updated: 2025-11-26T12:18:14Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 64 500,00 € EUR
+- [Super Gel](https://alhalalcosmetics.nl/products/super-gel): Verkrijgbaar in 200 ml. Super Gel Superversteviging Alcoholvrij Geeft flexibele houdbaarheid Verstevigingsfactor 7 Wat is het? Een multifunctionele, alcoholvrije gel met een sterke, maar toch soepele versteviging. Geeft maximaal volume en stevigheid aan het haar zonder verlies van flexibiliteit. Hoe te gebruiken? Verdeel een hoeveelheid naar wens in droog of vochtig haar en style het zoals u dat wilt. Voor een lichte wetlook in nat haar verdelen.
+  Updated: 2025-11-26T12:18:14Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 52 479,00 € EUR
+- [kis Update (Sculpting paste) 150ml](https://alhalalcosmetics.nl/products/kis-update-sculpting-paste-150ml): Verkrijgbaar in 150 ml. Update Haarverdikker Geeft volume en definitie Verstevigingsfactor 6 Wat is het? Een modelleerpasta die het haar dikker en voller maakt. Maakt het haar makkelijker te modelleren en geeft het meer volume, body en definitie. Hoe te gebruiken? Voor extra volume en body: wrijf de juiste hoeveelheid in de handpalmen en verwerk dit in vochtig haar. Föhn het droog. Voor een look die keer op keer gerestyled kan worden: wrijf de juiste hoeveelheid in de handpalmen en verwerk dit in droog haar.
+  Updated: 2025-11-26T12:18:14Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 84 500,00 € EUR
+- [KIS - DMI Lotion 1,9% - 1000ml](https://alhalalcosmetics.nl/products/kis-dmi-lotion-1-9-1000ml): Eindelijk is het zover: KIS COLOR wordt gecomplementeerd met DMI Lotion. DMI Lotion stelt uw klanten in staat om met hun vertrouwde KIS KeraCream Color nu ook fantastische kleurspoelingen te maken met een waanzinnige glans, dekkracht en houdbaarheid! DMI Lotion heeft een percentage van 1.9% (6 volume) en is dus super mild voor het haar! Dankzij de uitgekiende samenstelling van hoogwaardige ingredienten en verzorgende bestanddelen geeft het bovendien een prachtige glans, terwijl de haarkwaliteit optimaal gewaarborgd blijft. Ideaal om een kleurspoeling mee te maken, super om mee voor te pigmenteren en fantastisch om kleurcorrecties mee uit te voeren. Enkele tips van onze vaktechnische afdeling: Pigmenteer voor met 1 deel DMI lotion en 1 deel 8FG als u lichtergekleurd of geblondeerd haar terug wil brengen naar kleurhoogte 5 of hoger. Laat de voorpigmentatie 20 minuten inwerken, spoel het goed uit en breng daarna de gewenste Cream Color kleur op met 3% Voor een perfecte geel correctie: Meng 1 deel KIS Cream Color 10 FZ (voorheen 7 FZ) met 2 delen DMI Lotion 1,9%. Laat dit minimaal 5 minuten inwerken, en spoel uit zodra de gewenste matering bereikt is. Als hooglans spoeling: Meng de gewenste KIS Cream Color 1:1 met DMI Lotion en laat 20 minuten inwerken. Voor meer houdbaarheid: inwerkingtijd 30 minuten. Voor een meer transparante kleuring kunt u de DMI Lotion 2:1 gebruiken. Tip: Sluit elke kleurbehandeling af met KIS Keralock Acidifier. Door de Ph-waarde van 2,5 sluiten de haarschubben zich perfect, loopt uw kleur dus minder snel terug en behoudt u een optimale kambaarheid en glans! Gebruik na Keralock Acidifier altijd Kerashield Leave-in. (Wrijf een kleine hoeveelheid ter grootte van een pareltje op uw vochtige handen, en werk dit door het haar. Niet uitspoelen!)
+  Updated: 2025-11-26T12:18:14Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 89 500,00 € EUR
+- [kis OxyCreme 3% 1000ML](https://alhalalcosmetics.nl/products/kis-oxycreme-3-1000ml): Inhoud : 1 liter Voor alle soorten haarverf, spoelingen en blonderingen. Gebruiksaanwijzing van het gebruikte merk volgen. Kappers Oxy - creme staat garant voor een gelijkmatige zuurstof afgifte tijdens de inwerktijd. De kleur wordt sprankelender, dieper en glanst mooier.
+  Updated: 2025-11-26T12:18:15Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 89 500,00 € EUR
+- [KIS N1 - Zwart](https://alhalalcosmetics.nl/products/kis-n1-zwart)
+  Updated: 2025-11-26T12:18:15Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 89 500,00 € EUR
+- [KIS 2.N - Bruin](https://alhalalcosmetics.nl/products/kis-2-n-bruin)
+  Updated: 2025-11-26T12:18:15Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [kis 3N - Donkerbruin](https://alhalalcosmetics.nl/products/kis-3n-donkerbruin)
+  Updated: 2025-11-26T12:18:15Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [kis 4N- Middelbruin](https://alhalalcosmetics.nl/products/kis-4n-middelbruin)
+  Updated: 2025-11-26T12:18:16Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 5N - Lichtbruin](https://alhalalcosmetics.nl/products/kis-5n-lichtbruin)
+  Updated: 2025-11-26T12:18:16Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 89 500,00 € EUR
+- [KIS 6N - Donkerblond](https://alhalalcosmetics.nl/products/kis-6n-donkerblond)
+  Updated: 2025-11-26T12:18:16Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 7N - Middelblond](https://alhalalcosmetics.nl/products/kis-7n-middelblond)
+  Updated: 2025-11-26T12:18:16Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 8N - Lichtblond](https://alhalalcosmetics.nl/products/kis-8n-lichtblond)
+  Updated: 2025-11-26T12:18:16Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 9N - Zeer Lichtblond](https://alhalalcosmetics.nl/products/kis-9n-zeer-lichtblond)
+  Updated: 2025-11-26T12:18:17Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [10.N - Extra Lichtblond](https://alhalalcosmetics.nl/products/10-n-extra-lichtblond)
+  Updated: 2025-11-26T12:18:17Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [kis 4E - Middel Bruinespresso](https://alhalalcosmetics.nl/products/kis-4e-middel-bruinespresso)
+  Updated: 2025-11-26T12:18:17Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 5E - Licht Bruinespresso](https://alhalalcosmetics.nl/products/kis-5e-licht-bruinespresso)
+  Updated: 2025-11-26T12:18:17Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 6E - Donker Blondespresso](https://alhalalcosmetics.nl/products/kis-6e-donker-blondespresso)
+  Updated: 2025-11-26T12:18:18Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 7E - Middel Blondespresso](https://alhalalcosmetics.nl/products/kis-7e-middel-blondespresso)
+  Updated: 2025-11-26T12:18:18Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 5A - Licht Asbruin](https://alhalalcosmetics.nl/products/kis-5a-licht-asbruin)
+  Updated: 2025-11-26T12:18:18Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 6A - Donker Asblond](https://alhalalcosmetics.nl/products/kis-6a-donker-asblond)
+  Updated: 2025-11-26T12:18:18Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 7A - Middel Asblond](https://alhalalcosmetics.nl/products/kis-7a-middel-asblond)
+  Updated: 2025-11-26T12:18:18Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 8A - Licht Asblond](https://alhalalcosmetics.nl/products/kis-8a-licht-asblond)
+  Updated: 2025-11-26T12:18:19Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 7GI - Middel Goublond Intensief](https://alhalalcosmetics.nl/products/kis-7gi-middel-goublond-intensief)
+  Updated: 2025-11-26T12:18:19Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 8GI - Licht Goudblond Intensief](https://alhalalcosmetics.nl/products/kis-8gi-licht-goudblond-intensief)
+  Updated: 2025-11-26T12:18:19Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 9GI - Zeer Licht Goudblond Intensief](https://alhalalcosmetics.nl/products/kis-9gi-zeer-licht-goudblond-intensief)
+  Updated: 2025-11-26T12:18:19Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [kis 4G - Middel Goudbruin](https://alhalalcosmetics.nl/products/kis-4g-middel-goudbruin)
+  Updated: 2025-11-26T12:18:20Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 5G - Licht Goudbruin](https://alhalalcosmetics.nl/products/kis-5g-licht-goudbruin)
+  Updated: 2025-11-26T12:18:20Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 6G - Donker Goudblond](https://alhalalcosmetics.nl/products/kis-6g-donker-goudblond)
+  Updated: 2025-11-26T12:18:20Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 7G - Middel Goudblond](https://alhalalcosmetics.nl/products/kis-7g-middel-goudblond)
+  Updated: 2025-11-26T12:18:20Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 8G - Licht Goudblond](https://alhalalcosmetics.nl/products/kis-8g-licht-goudblond)
+  Updated: 2025-11-26T12:18:20Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 9G - Zeer Licht Goudblond](https://alhalalcosmetics.nl/products/kis-9g-zeer-licht-goudblond)
+  Updated: 2025-11-26T12:18:21Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 8B - Licht Beige](https://alhalalcosmetics.nl/products/kis-8b-licht-beige)
+  Updated: 2025-11-26T12:18:21Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 9B - Zeer Lichtbeige](https://alhalalcosmetics.nl/products/kis-9b-zeer-lichtbeige)
+  Updated: 2025-11-26T12:18:21Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [8.FG - Goudblond](https://alhalalcosmetics.nl/products/8-fg-goudblond)
+  Updated: 2025-11-26T12:18:21Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [9.FS - Zweeds Blond](https://alhalalcosmetics.nl/products/9-fs-zweeds-blond)
+  Updated: 2025-11-26T12:18:22Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [10.FP - Parelblond](https://alhalalcosmetics.nl/products/10-fp-parelblond)
+  Updated: 2025-11-26T12:18:22Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 5T - Donker Tabak](https://alhalalcosmetics.nl/products/kis-5t-donker-tabak)
+  Updated: 2025-11-26T12:18:22Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 6T - Donker Tabak](https://alhalalcosmetics.nl/products/kis-6t-donker-tabak)
+  Updated: 2025-11-26T12:18:22Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 7T - Licht Tabak](https://alhalalcosmetics.nl/products/kis-7t-licht-tabak)
+  Updated: 2025-11-26T12:18:23Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [kis 4CB - Middel Chocoladebruin](https://alhalalcosmetics.nl/products/kis-4cb-middel-chocoladebruin)
+  Updated: 2025-11-26T12:18:23Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 5CB - Licht Chocoladebruin](https://alhalalcosmetics.nl/products/kis-5cb-licht-chocoladebruin)
+  Updated: 2025-11-26T12:18:23Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 6CB - Donker Chocoladebruin](https://alhalalcosmetics.nl/products/kis-6cb-donker-chocoladebruin)
+  Updated: 2025-11-26T12:18:23Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 4.RM - Donker Roodmahonie](https://alhalalcosmetics.nl/products/kis-4-rm-donker-roodmahonie)
+  Updated: 2025-11-26T12:18:23Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 5.RM - Middel Roodmahonie](https://alhalalcosmetics.nl/products/kis-5-rm-middel-roodmahonie)
+  Updated: 2025-11-26T12:18:24Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 6.RM - Licht Roodmahonie](https://alhalalcosmetics.nl/products/kis-6-rm-licht-roodmahonie)
+  Updated: 2025-11-26T12:18:24Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 6.RT - Donker Roodtabak](https://alhalalcosmetics.nl/products/kis-6-rt-donker-roodtabak)
+  Updated: 2025-11-26T12:18:24Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 7.RT - Middel Roodtabak](https://alhalalcosmetics.nl/products/kis-7-rt-middel-roodtabak)
+  Updated: 2025-11-26T12:18:24Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 8.RT - Licht Roodtabak](https://alhalalcosmetics.nl/products/kis-8-rt-licht-roodtabak)
+  Updated: 2025-11-26T12:18:25Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 5KB - Koper Hazelnoot](https://alhalalcosmetics.nl/products/kis-5kb-koper-hazelnoot)
+  Updated: 2025-11-26T12:18:25Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 6KB - Donker Koperblond](https://alhalalcosmetics.nl/products/kis-6kb-donker-koperblond)
+  Updated: 2025-11-26T12:18:25Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 7KB - Middel Koperblond](https://alhalalcosmetics.nl/products/kis-7kb-middel-koperblond)
+  Updated: 2025-11-26T12:18:25Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 8KB - Licht Koperblond](https://alhalalcosmetics.nl/products/kis-8kb-licht-koperblond)
+  Updated: 2025-11-26T12:18:25Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 7K - Middel Koper](https://alhalalcosmetics.nl/products/kis-7k-middel-koper)
+  Updated: 2025-11-26T12:18:26Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 8K - Licht Koper](https://alhalalcosmetics.nl/products/kis-8k-licht-koper)
+  Updated: 2025-11-26T12:18:26Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 9K - Extra Lichtkoper](https://alhalalcosmetics.nl/products/kis-9k-extra-lichtkoper)
+  Updated: 2025-11-26T12:18:26Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 5KG - Donker Koper Goudbruin](https://alhalalcosmetics.nl/products/kis-5kg-donker-koper-goudbruin)
+  Updated: 2025-11-26T12:18:26Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 6KG - Donker Koper Goudblond](https://alhalalcosmetics.nl/products/kis-6kg-donker-koper-goudblond)
+  Updated: 2025-11-26T12:18:27Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS KeraCream Color Haarkleuring KG- 100ml Middel Koper Goudblond](https://alhalalcosmetics.nl/products/kis-keracream-color-haarkleuring-kg-100ml-middel-koper-goudblond)
+  Updated: 2025-11-26T12:18:27Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 8KG - Licht Koper Goudblond](https://alhalalcosmetics.nl/products/kis-8kg-licht-koper-goudblond)
+  Updated: 2025-11-26T12:18:27Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 5RK - Licht Rood Koperbruin](https://alhalalcosmetics.nl/products/kis-5rk-licht-rood-koperbruin)
+  Updated: 2025-11-26T12:18:27Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 6RK - Donker Rood Koperblond](https://alhalalcosmetics.nl/products/kis-6rk-donker-rood-koperblond)
+  Updated: 2025-11-26T12:18:28Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 7RK - Middel Rood Koperblond](https://alhalalcosmetics.nl/products/kis-7rk-middel-rood-koperblond)
+  Updated: 2025-11-26T12:18:28Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 6R - Rood](https://alhalalcosmetics.nl/products/kis-6r-rood)
+  Updated: 2025-11-26T12:18:28Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 7R - Licht Rood](https://alhalalcosmetics.nl/products/kis-7r-licht-rood)
+  Updated: 2025-11-26T12:18:28Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 8R - Vlammend Rood](https://alhalalcosmetics.nl/products/kis-8r-vlammend-rood)
+  Updated: 2025-11-26T12:18:28Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 6RV - Rood Violet](https://alhalalcosmetics.nl/products/kis-6rv-rood-violet)
+  Updated: 2025-11-26T12:18:29Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 5RV - Donker Roodviolet](https://alhalalcosmetics.nl/products/kis-5rv-donker-roodviolet)
+  Updated: 2025-11-26T12:18:29Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 7RV - Licht Roodviolet](https://alhalalcosmetics.nl/products/kis-7rv-licht-roodviolet)
+  Updated: 2025-11-26T12:18:29Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [kis 2C - Donker Cassis](https://alhalalcosmetics.nl/products/kis-2c-donker-cassis)
+  Updated: 2025-11-26T12:18:29Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [kis 4C - Middel Cassis](https://alhalalcosmetics.nl/products/kis-4c-middel-cassis)
+  Updated: 2025-11-26T12:18:30Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS 5C - Licht Cassis](https://alhalalcosmetics.nl/products/kis-5c-licht-cassis)
+  Updated: 2025-11-26T12:18:30Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [10.S - Super Lichtblond](https://alhalalcosmetics.nl/products/10-s-super-lichtblond)
+  Updated: 2025-11-26T12:18:30Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [10.SA - Asblond](https://alhalalcosmetics.nl/products/10-sa-asblond)
+  Updated: 2025-11-26T12:18:30Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [10.SP - Super Platinablond](https://alhalalcosmetics.nl/products/10-sp-super-platinablond)
+  Updated: 2025-11-26T12:18:31Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [10.SG - Super Goudblond](https://alhalalcosmetics.nl/products/10-sg-super-goudblond)
+  Updated: 2025-11-26T12:18:31Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [10.FZ - Zilvergrijs](https://alhalalcosmetics.nl/products/10-fz-zilvergrijs)
+  Updated: 2025-11-26T12:18:31Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [kis KeraClean Volume Shampoo 300ML](https://alhalalcosmetics.nl/products/kis-keraclean-volume-shampoo-300ml): KeraClean Volume Shampoo Voor normaal tot vet haar Reinigt intensief Met adstringerendekruiden pH5.0 - 5.5 Wat is het? Een multifunctionele shampoo die op een milde manier het overtollige sebum (vet) van hoofdhuid en haar verwijdert met als resultaat langdurig volume. Droogt hoofdhuid en haar niet uit en tast de kleur niet aan. Ideaal als salonshampoo om de build-up uit het haar te verwijderen. Zeer geschikt als bodyshampoo voor de vette huid. Verwijdert ongewenste mineralen en zouten uit het haar (na contact met chloor, zout of hard water). Hoe te gebruiken? Verdeel een hoeveelheid ter grote van een euro over uw handpalm en masseer dit licht in het vochtige haar (werk vanuit de lengtes naar de hoofdhuid toe). Laat dit eventueel 3 minuten inwerken.
+  Updated: 2025-11-26T12:18:31Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [KIS Kappers KeraScalp Healing Shampoo 300 ml](https://alhalalcosmetics.nl/products/kis-kappers-kerascalp-healing-shampoo-300-ml): KeraScalp Healing Shampoo Kalmeert Reinigt de hoofdhuid Metnatuurlijke moisturizers pH5.0-5.5 Wat is het? Een romige, kalmerende shampoo voor droog haar en een droge, gevoelige hoofdhuid. Een krachtige mix van plantenextracten en vitamines zorgt voor een goede conditie voor haar en hoofdhuid. Werkt tegen schilfering, doodt bacteriën en stimuleert de doorbloeding van de hoofdhuid. Ideaal voor iedereen die last heeft van psoriasis, eczeem en andere huidstoornissen of haaruitval. Zeer geschikt als bodyshampoo voor de droge huid. Hoe te gebruiken? Verdeel een hoeveelheid ter grote van een euro over uw hand en masseer dit in het vochtige haar. Laat de shampoo bij een eventuele tweede wassing even intrekken (3 minuten) en spoel het haar daarna goed uit. Vervolg de behandeling met KeraScalp Revitalizer. Ideaal voor dagelijks gebruik.
+  Updated: 2025-11-26T12:18:31Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 99 500,00 € EUR
+- [kis KeraMax Shampoo 300ML](https://alhalalcosmetics.nl/products/kis-keramax-shampoo-300ml): KeraMax Shampoo Versterkt Verzorgt Voor chemischbehandeld en kwetsbaarhaar pH4.5-5.0 Wat is het? Een shampoo op basis van kokosnoot voor beschadigd, lichtergekleurd of kwetsbaar haar. Reinigt op zeer milde wijze en helpt het haar bij herstel en behoud van de beschermende zuurmantel. Bouwt de beschadigde structuur weer op. Ideaal als basis voor elke chemische behandeling: zorgt voor hogere absorptie dankzij maximale toevoeging van haarkeratine proteïnes. Hoe te gebruiken? Wrijf een hoeveelheid ter grote van een euro in de handpalm en emulgeer dit in het natte haar. Voor dagelijks gebruik.
+  Updated: 2025-11-26T12:18:32Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [Kis KeraMoist Shampoo 300ml](https://alhalalcosmetics.nl/products/kis-keramoist-shampoo-300ml): KeraMoist Shampoo Super hydraterend Vochtrijk Kleurveilig pH5.0-5.50 Wat is het? Een vochtbindende shampoo voor gepermanent, gekleurd en droog haar. Zorgt voor een milde reiniging en brengt vocht in. Sluit de cuticula goed af en zorgt voor behoud van de kleur. Hoe te gebruiken? Verdeel de hoeveelheid ter grote van de inhoud van een dop over uw hand en masseer dit in het haar tot er een romig, rijk schuim ontstaat. Spoel het haar uit en herhaal deze behandeling indien nodig.
+  Updated: 2025-11-26T12:18:32Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 99 500,00 € EUR
+- [KIS KeraControl Shampoo 300ML](https://alhalalcosmetics.nl/products/kis-keracontrol-shampoo-300ml): Kera Control Shampoo Hair & Body Wash Conditioner Met botanische kruiden pH4.5-5.0 Wat is het? Een reiniging voor haar en huid met een opwekkende en verkwikkende geur. Herstelt de vochtbalans van huid en haar. De natuurlijke, wasactieve ingrediënten reinigen huid en haar mild, zonder deze uit te drogen. Hoe te gebruiken? Haar: verdeel een kleine hoeveelheid in nat haar en emulgeer dit tot er een mooi, rijk schuim ontstaat. Spoel het uit en herhaal dit indien nodig. Vervolg met KeraGlide Detangler of KeraShield Leave-In. Lichaam: breng de gewenste hoeveelheid aan op een vochtige badspons of washand, schuim dit op en reinig het lichaam. Spoel het goed af.
+  Updated: 2025-11-26T12:18:32Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [Kis KeraMax Treatment 150ML](https://alhalalcosmetics.nl/products/kis-keramax-treatment-150ml): KeraMax Treatment Herstelt Verstevigt Reconstructor pH 4.0 - 4.5 Wat is het? Een snel in het haar dringende, opbouwende kuur voor gekleurd, geblondeerd en beschadigd haar. Bevat de hoogste concentratie haarkeratine proteïnes gelijk aan menselijk haar en een selecte combinatie van kruidenextracten. Deze werken opbouwend en herstellend op het haar. Hoe te gebruiken? Verdeel de hoeveelheid ter grote van de inhoud van een dop in de handpalm, emulgeer dit door het haar (van punt naar aanzet). Laat dit 5 minuten inwerken, spoel het haar goed uit en maak het handdoekdroog.
+  Updated: 2025-11-26T12:18:32Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 74 500,00 € EUR
+- [KeraMoist Treatment 150ml](https://alhalalcosmetics.nl/products/keramoist-treatment-150ml): KeraMoist Treatment Herstelt de vochtbalans Verbetert de elasticiteit Voedt het haar intensief pH 3.5 - 4.0 Wat is het? Een intensieve, vochtbindende kuur voor chemisch behandeld, droog of kroezend haar. Herstelt de vochtigheidsgraad van het haar en verbetert de elasticiteit. Makkelijk uit te spoelen. Hoe te gebruiken? Breng KeraMoist Treatment aan in de handpalm, verdeel dit in het haar (van lengtes naar punten), laat dit 3-5 minuten inwerken en spoel het goed uit. Gebruik wekelijks als intensieve kuur.
+  Updated: 2025-11-26T12:18:33Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 74 500,00 € EUR
+- [KeraScalp Revitalizer 150ML](https://alhalalcosmetics.nl/products/kerascalp-revitalizer-150ml): KeraScalp Revitalizer Alphahydroxide moisturizer Stimuleert de hoofdhuid pH 3.5 - 4.0 Wat is het? Een stimulerende, gewichtsloze en hydraterende kuur die de hoofdhuid heerlijk laat tintelen. De geur van eucalyptus werkt oppeppend en verfrissend. Een speciale mix van fruitzuren, botanische kruiden en essentiële oliën stimuleert de celgroei in de opperhuid, werkt vochtinbrengend en verstevigt het haar. Hoe te gebruiken? Verdeel een hoeveelheid ter grote van een euro in handdoekdroog haar, masseer het in tot op de hoofdhuid (1-2 minuten) en spoel het goed uit.
+  Updated: 2025-11-26T12:18:33Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 74 500,00 € EUR
+- [KIS KeraGlide Detangler Conditioner 300ML](https://alhalalcosmetics.nl/products/kis-keraglide-detangler-conditioner-300ml): KeraGlider Detangler Lichtgewicht conditioner Ontwart Antistatisch Voor dagelijks gebruik pH 3.5 - 4.0 Wat is het? Snelle antiklit voor chemisch behandeld haar. Ook ideaal voor ontwarring van haar dat van nature krult. Werkt antistatisch. Hoe te gebruiken? Breng een kleine hoeveelheid aan in de handpalm, masseer dit door het handdoekdroge haar (van punt naar aanzet), laat dit 1-2 minuten inwerken en spoel het goed uit.
+  Updated: 2025-11-26T12:18:33Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 79 500,00 € EUR
+- [Kis KeraShield Leave-in 150ML](https://alhalalcosmetics.nl/products/kis-kerashield-leave-in-150ml): KIS-Kappers KeraShield Leave-in is een geconcentreerde vochtbindende conditioner die geschikt is voor gepermanent, gekleurd en droog haar. Door de sluiting van de haarschubben is het haar beschermd tegen hitte van de föhn, zon en andere invloeden van buitenaf. De antistatische werking zorgt dat het haar niet gaat kroezen en verwijdert klitten.Gebruik:Breng een normale hoeveelheid KeraShield Leave-in Conditioner aan in gewassen haar. Style het haar zoals u gewend bent. Het hoeft niet uitgespoeld te worden. Wat is het? Een vochtbindende, zeer geconcentreerde leave-in conditioner voor gepermanent, gekleurd en droog haar. Werkt antistatisch en antiklit, sluit de cuticula, beschermt tegen hitte van de föhn, zon en andere invloeden van buitenaf. Voorkomt kroezen. Hoe te gebruiken? Wrijf de hoeveelheid ter grote van een parel in uw handpalm en emulgeer dit door het haar (van punt naar aanzet). Style het haar zoals u gewend bent. Niet uitspoelen
+  Updated: 2025-11-26T12:18:33Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 74 500,00 € EUR
+- [kis KeraBoost Infusion Spray Care 300 ml](https://alhalalcosmetics.nl/products/kis-keraboost-infusion-spray-care-300-ml): Verkrijgbaar in 300 ml. Kuurbooster Versterkt pH 5.0 - 5.6 Wat is het? KeraBoost Infusion is een zeer geconcentreerde mix van keratine aminozuren met een moleculair gewicht van 150, gecombineerd met kationische enzymen. Deze bouwen het haar van binnenuit weer op en geven het zijn oorspronkelijke kracht terug. Hierdoor blijven eventuele kleuringen en andere chemische behandelingen langer mooi. Hoe te gebruiken? Spray KeraBoost Infusion in het handdoekdroge haar (niet te zuinig): daar waar u sprayt, wordt het haar daadwerkelijk opgebouwd. Begin in de meest poreuze gedeelten en behandel daarna de rest. Niet uitspoelen!
+  Updated: 2025-11-26T12:18:33Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 139 500,00 € EUR
+- [kis KeratinWave 1 - Permanentvloeistof Normaal](https://alhalalcosmetics.nl/products/kis-keratinwave-1-permanentvloeistof-normaal): Inhoud: 1000 ml Proteïne permanent voor normaal haar. Voor een milde en toch krachtige, gelijkmatige omvorming van het haar. De constante pH-waarde tijdens het permanentproces, de kationische polymeren en de proteïne garanderen vitaliteit, natuurlijke veerkracht, glans en een verbeterde kambaarheid. Het resultaat: een uitgebalanceerde krulvorming van de aanzet tot in de punten. Melisse, baldrain en kamille ontspannen de huid. Proteïne permanent voor normaal haar. Voor een milde en toch krachtige, gelijkmatige omvorming van het haar. De constante pH-waarde tijdens het permanentproces, de kationische polymeren en de proteïne garanderen vitaliteit, natuurlijke veerkracht, glans en een verbeterde kambaarheid. Het resultaat: een uitgebalanceerde krulvorming van de aanzet tot in de punten. Melisse, baldrain en kamille ontspannen de huid.
+  Updated: 2025-11-26T12:18:34Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 189 500,00 € EUR
+- [Kis Neutrawave 0](https://alhalalcosmetics.nl/products/kis-neutrawave-0): Neutrale permanent voor gesloten, moeilijk te permanenten natuurhaar. Met cysteïne (aminozuur) voor een harmonische en verzorgende omvorming. Een uitgebalanceerd complex van kationische polymeren en keratine derivaten beschermt het haar, verbetert de kambaarheid en geeft glans. Het resultaat: een veerkrachtige en lang houdbare omvorming. De lage pH-waarde garandeert voor optimale haarkwaliteit.
+  Updated: 2025-11-26T12:18:34Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 99 500,00 € EUR
+- [kis Energie Wave 0 - Moeilijk](https://alhalalcosmetics.nl/products/kis-energie-wave-0-moeilijk): Inhoud: 75 ml Gebruiksklare mild alkalische permanent met Abil. Voor een gelijkmatige en energieke omvorming van normaal haar. Polymere verzorgingscomponenten egaliseren de haarstructuur en geven optimale bescherming en verzorging. Verbetert de kambaarheid van zowel nat als droog haar. Het haar wordt antistatisch en krijgt een zijdeachtige glans. Het resultaat: een volumineuze, luchtige en energieke omvorming van de aanzet tot in de punten.
+  Updated: 2025-11-26T12:18:34Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 39 500,00 € EUR
+- [480 Links - 5,5 inch](https://alhalalcosmetics.nl/products/480-links-5-5-inch): Kyone 480 links knipschaar Deze knipschaar is geschikt voor de startende kapper /kapster. De scharen zijn ontwikkeld uit de studentenlijn en ge-upgrade door het gebruik van een betere, hardere metaalsoort en een andere slijptechniek. Ze zijn geschikt voor dagelijks gebruik, om mee te knippen en licht te slicen. Voor de startende kapper is deze schaar een uitmuntende keuze. De Kyone 480 links knipschaar is verkrijgbaar in: 5,5” Ergonomisch design Geïntegreerd vlak schroefwerk / integrated flat screw Convex/ hol geslepen snijbladen Lichte vorm van slicen mogelijk
+  Updated: 2025-11-26T12:18:34Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 499 000,00 € EUR
+- [Coupe schaar kyone b32 T - 5,5 inch](https://alhalalcosmetics.nl/products/coupe-schaar-kyone-b32-t-5-5-inch): Kyone B32T coupeschaar De B32T coupeschaar is de coupeschaar die bij de 480 knipschaar hoort. Omdat deze schaar ontwikkeld is voor de startende kapper of kapster, is deze schaar geproduceerd volgens traditionele methoden. De schaar is ontwikkeld uit de studentenlijn en ge-upgrade door gebruik te maken van een betere, hardere metaalsoort en een andere slijptechniek. Voor dagelijks gebruik is deze schaar perfect, daarom zal de schaar je zeker positief verrassen! Ook de prijs-kwaliteit van deze coupeschaar is erg goed! Heb jij hem al aan jouw collectie toegevoegd? De Kyone B32T coupeschaar is verkrijgbaar in: 5,5” – 32 tanden. Speciaal ontwikkeld voor startende kappers Geïntegreerd vlak schroefwerk / integrated flat screw Tweezijdige, licht gebogen vertanding voor een mooiere uitdunning Ideaal voor dagelijks gebruik Ook verkrijgbaar voor de linkshandige kapper of kapster
+  Updated: 2025-11-26T12:18:35Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 499 000,00 € EUR
+- [Coupe shaar kyone B42T 6 inch](https://alhalalcosmetics.nl/products/coupe-shaar-kyone-b42t-6-inch): Kyone B42T coupeschaar De Kyone B42T coupeschaar is de coupeschaar die bij de Kyone 480 knipschaar hoort. Daarom is deze coupeschaar uitermate geschikt voor de startende kapper en kapster, ontwikkeld uit de studentenlijn en geproduceerd volgens traditionele methoden. Daarnaast is de coupeschaar ge-upgrade door gebruik te maken van een betere, hardere metaalsoort en een andere slijptechniek, waardoor de schaar dagelijks gebruikt kan worden zonder dat er klachten optreden. Daarom zal de schaar je zeker positief verrassen! Daarnaast is ook de prijs-kwaliteit verhouding van de coupeschaar erg goed! Heb jij hem al aan jouw collectie toegevoegd? De Kyone B42T coupeschaar is verkrijgbaar in: 6,0” – 42 tanden Speciaal ontwikkeld voor de startende kapper Ideaal voor dagelijks gebruik Geïntegreerd vlak schroefwerk / integrated flat screw Met een tweezijdige, licht gebogen vertanding voor een mooiere uitdunning
+  Updated: 2025-11-26T12:18:35Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 499 000,00 € EUR
+- [Kyone - Original - B32E - Effileerschaar - 6.0 Inch](https://alhalalcosmetics.nl/products/kyone-original-b32e-effileerschaar-6-0-inch): Kyone B32E effileerschaar De Kyone B32E is vernieuwd! Het uiterlijk is hetzelfde gebleven, alleen de kwaliteit is veel verbeterd! Nieuwe productietechnieken en de moderne ontwikkelingen op het gebied van machines, hebben de nieuwe B32E naar een hoger niveau gebracht. De vertanding is dikker geworden en dit zorgt voor meer stevigheid tijdens het knippen. Daarnaast is iedere tand voorzien van een laser uitgesneden drietand, waardoor inhaken tot het verleden behoort. Bovenstaande specificaties in combinatie met een nieuw staalsoort, maken deze schaar dan ook zeer geschikt voor dagelijks gebruik, voor zowel de startende als de meer gevorderde kappers en kapsters. Een schaar van uitstekende kwaliteit voor een zeer scherpe prijs! De vernieuwde B32E budget-schaar zal je zeker positief verrassen. De Kyone B32E is verkrijgbaar in 6,0” – 32 tanden • Speciaal ontwikkeld voor startende en de meer gevorderde kapper (ster) • Tweezijdige vertanding met laser uitgesneden drietand • Geïntegreerd vlak schroefwerk / integrated flat screw • Licht gebogen vertanding voor een mooiere uitdunning en zachte overgangen • Zijdezachte loop met weinig weerstand
+  Updated: 2025-11-26T12:18:35Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 549 000,00 € EUR
+- [Sibel Verfschort Carine zwart](https://alhalalcosmetics.nl/products/sibel-verfschort-carine-zwart)
+  Updated: 2025-11-26T12:18:35Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 134 500,00 € EUR
+- [Bimbo - Blondeerplank](https://alhalalcosmetics.nl/products/bimbo-blondeerplank): Blondeerplank met tanden - Bimbo
+  Updated: 2025-11-26T12:18:36Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 22 500,00 € EUR
+- [Sibel Aluminium Folie 15MU 15cmx100m](https://alhalalcosmetics.nl/products/sibel-aluminium-folie-15mu-15cmx100m): 15 cm x 100 m x 15 µ : Afmeting (Breedte x Lengte x Dikte) Geleverd in een dispenser.
+  Updated: 2025-11-26T12:18:36Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 118 500,00 € EUR
+- [20 cm Folie - Dikte 15mµ](https://alhalalcosmetics.nl/products/20-cm-folie-dikte-15mµ): Afmeting (Breedte x Lengte x Dikte) : 20 cm x 100 m x 15 µ Geleverd in dispenser.
+  Updated: 2025-11-26T12:18:36Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 154 500,00 € EUR
+- [Folie - Dikte 15mµ 29cm](https://alhalalcosmetics.nl/products/folie-dikte-15mµ-29cm): Afmeting (Breedte x Lengte x Dikte) : 29 cm x 100 m x 15 µ Geleverd in een dispenser.
+  Updated: 2025-11-26T12:18:36Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 258 500,00 € EUR
+- [Sibel Highlight Aluminium Folie (15 x 12 cm X 100 m)(480 g)](https://alhalalcosmetics.nl/products/sibel-highlight-aluminium-folie-15-x-12-cm-x-100-m480-g): Afmeting (Breedte x Lengte x Dikte) : 12 cm x 100 m x 15 µ Geleverd in een dispenser.
+  Updated: 2025-11-26T12:18:37Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 104 500,00 € EUR
+- [Ø0,6 mm - Haaknaald](https://alhalalcosmetics.nl/products/o0-6-mm-haaknaald)
+  Updated: 2025-11-26T12:18:37Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 16 500,00 € EUR
+- [Ø1 mm - Haaknaald](https://alhalalcosmetics.nl/products/o1-mm-haaknaald)
+  Updated: 2025-11-26T12:18:37Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 16 500,00 € EUR
+- [sibel Haaknaalden Set Tri Sizes 3 Haaknaalden + Etui](https://alhalalcosmetics.nl/products/sibel-haaknaalden-set-tri-sizes-3-haaknaalden-etui): sibel Haaknaalden Set Tri Sizes 3 Haaknaalden + Etui Ø 0,75 mm Ø 1,1 mm Ø 1,25 mm
+  Updated: 2025-11-26T12:18:37Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 62 500,00 € EUR
+- [Sibel Manueel Klokje Wit](https://alhalalcosmetics.nl/products/sibel-manueel-klokje-wit): Sibel Manueel Klokje Wit
+  Updated: 2025-11-26T12:18:38Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 68 500,00 € EUR
+- [Nekkwast Mini Super - Blauw](https://alhalalcosmetics.nl/products/nekkwast-mini-super-blauw)
+  Updated: 2025-11-26T12:18:38Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 78 500,00 € EUR
+- [Nekkwast - Standard](https://alhalalcosmetics.nl/products/nekkwast-standard): Klassieke houten nekkwast met stevige, natuurlijke haartjes voor een efficient resultaat. 10 x 15 cm
+  Updated: 2025-11-26T12:18:38Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 57 500,00 € EUR
+- [Nekkwast Poney - Duo](https://alhalalcosmetics.nl/products/nekkwast-poney-duo): < 10,5 cm >
+  Updated: 2025-11-26T12:18:38Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 118 500,00 € EUR
+- [Nekkwast Super - Blauw](https://alhalalcosmetics.nl/products/nekkwast-super-blauw)
+  Updated: 2025-11-26T12:18:39Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 94 500,00 € EUR
+- [Sibel Talc And Dry Nek Borstel](https://alhalalcosmetics.nl/products/sibel-talc-and-dry-nek-borstel): Door het verstuiven van talk wordt het teveel aan transpiratie geneurtaliseerd en wordt het weghalen van geknipte haren vergemakkelijkt.
+  Updated: 2025-11-26T12:18:39Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 98 500,00 € EUR
+- [Sibel Talcul navulbus Talk Poeder 300 Gram](https://alhalalcosmetics.nl/products/sibel-talcul-navulbus-talk-poeder-300-gram): Speciale talk voor het vullen van de talknekkwastenSibel Talcul navulbus Talk Poeder 300 Gram
+  Updated: 2025-11-26T12:18:39Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 55 000,00 € EUR
+- [<12,5 cm> Borstelreiniger](https://alhalalcosmetics.nl/products/12-5-cm-borstelreiniger): Reiniger voor borstel en kam
+  Updated: 2025-11-26T12:18:39Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 54 500,00 € EUR
+- [Sibel Fohnborstel Therm 200 Xenos Ø25 mm](https://alhalalcosmetics.nl/products/sibel-fohnborstel-therm-200-xenos-o25-mm): Sibel Fohnborstel Therm 200 Xenos Ø25 mmThermische, anti-statische borstels met veiligheidsklinkbout voor intensief gebruik in de kapsalon. Aluminium huls Nylon pennen met lokverdeelpunt
+  Updated: 2025-11-26T12:18:39Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 72 500,00 € EUR
+- [Ventouse Steun](https://alhalalcosmetics.nl/products/ventouse-steun): Multifunctionele steun met zuignap voor : Oefenhoofden Oefenhanden Oefenvoeten
+  Updated: 2025-11-26T12:18:40Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 249 500,00 € EUR
+- [Rubber Bezem met schrobschuiver](https://alhalalcosmetics.nl/products/rubber-bezem-met-schrobschuiver): Bezemkop wordt geleverd zonder steel!
+  Updated: 2025-11-26T12:18:40Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 95 500,00 € EUR
+- [<87/151 cm> Steel voor bezemkop schrobschuiver](https://alhalalcosmetics.nl/products/87-151-cm-steel-voor-bezemkop-schrobschuiver)
+  Updated: 2025-11-26T12:18:40Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 55 500,00 € EUR
+- [Rubber Bezem - Blauw](https://alhalalcosmetics.nl/products/rubber-bezem-blauw): Geleverd zonder steel
+  Updated: 2025-11-26T12:18:40Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 93 500,00 € EUR
+- [<87/151 cm> Steel voor Rubber Bezem](https://alhalalcosmetics.nl/products/87-151-cm-steel-voor-rubber-bezem): Bezemsteel voor bezemkop ZONDER schrobschuiver! <87/151 cm>
+  Updated: 2025-11-26T12:18:41Z
+  Vendor: Halal Cosmetics
+  Product Type: 
+  Availability: Available
+  Price: 89 500,00 € EUR
+[List Continued](https://alhalalcosmetics.nl/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQxOTkwMjc3NTYzOSwibGFzdF92YWx1ZSI6IjEwNDE5OTAyNzc1NjM5In0=)
 
 ## Collections
 
@@ -908,7 +1658,7 @@
   Updated: 2025-11-24T11:03:07Z
   Total Products: 8
 - [Halal & Vegan Nagellak – Natuurlijke, en  zuurstofdoorlatende nagellak](https://alhalalcosmetics.nl/collections/natuurlijke-en-halal-nagellak): Onze halal nagellak is ademend, veganistisch, wudu-vriendelijk en alcoholvrij. Verantwoord en natuurlijk mooi. Onze zuurstofdoorlatende nagellak is 100% natuurlijk.
-  Updated: 2025-11-24T02:26:16Z
+  Updated: 2025-11-26T12:33:05Z
   Total Products: 41
 - [Make-up kwastenset kopen – Professioneel & betaalbaar](https://alhalalcosmetics.nl/collections/make-up-kwastenset): Ontdek de beste make-up kwastensets voor beginners & professionals. Vegan, huidvriendelijk en zacht. Nu tot 30% korting bij Al Halal Cosmetics!
   Updated: 2025-11-02T06:37:52Z
@@ -1088,6 +1838,13 @@
     Author: TN CHAUDRI
   - [Hoe lang blijven wimperextensions zitten?](https://alhalalcosmetics.nl/blogs/news/hoe-lang-blijven-wimperextensions-zitten)
     Updated: 2025-11-24T11:24:45Z
+    Author: TN CHAUDRI
+  - [Rode Nagels – Luxe Inspiratie & Halal Nagellak](https://alhalalcosmetics.nl/blogs/news/rode-nagels): Rode Nagels – Luxe Inspiratie & Halal Nagellak
+    Updated: 2025-11-26T05:01:40Z
+    Author: TN CHAUDRI
+    Tags: halal nagellak, rode nagellak, rode nagels
+  - [Biab nagels Builder in a Bottle](https://alhalalcosmetics.nl/blogs/news/biab-nagels): Biab nagels Builder in a Bottle
+    Updated: 2025-11-26T05:39:58Z
     Author: TN CHAUDRI
 
 ## Store Pages
