@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-01-28T02:13:08Z
 - Contact Email: contact@conquest.fit
-- Updated At: 2025-11-27T00:01:17.740Z
+- Updated At: 2025-11-28T00:01:47.673Z
 
 ## Products
 
