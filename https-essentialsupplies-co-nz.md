@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-11-27T00:01:08.486Z
+- Updated At: 2025-11-28T00:00:36.693Z
 
 ## Products
 
@@ -1502,7 +1502,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/interfold-towel-dispenser-black-700-sheet-capacity-1-dispenser-folded-towel-dispensers-essential-supplies-716322.jpg?v=1719445398
   Price: $89.00 NZD
 - [Interfold Towel Dispenser - Silver, 700 Sheet Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/interfold-towel-dispenser-silver-700-sheet-capacity-1): Interfold paper towel dispensers are designed for use with the interfold paper towel range. Reduces contamination and with a 700 sheet capacity, minimises refilling frequency. High gloss, easy clean finish featuring a viewing window to check towel levels. High gloss Easy clean finish 700 sheets capacity Colour: Silver Suitable tissues: MPH27160, MPH27155
-  Updated: 2025-01-16T02:07:10Z
+  Updated: 2025-11-27T08:09:07Z
   Vendor: Mattews Packaging
   Product Type: Folded Towel Dispensers
   Availability: Available
