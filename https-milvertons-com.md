@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-11-26T00:00:46.124Z
+- Updated At: 2025-11-28T00:01:12.915Z
 
 ## Products
 
@@ -125,7 +125,7 @@
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-womens-dress-office-wear-daily-patchwork-female-dresses-round-neck-hollow-ankle-length-short-sleeve-female-dress-751202.jpg?v=1715725387
   Price: $81.06 USD
 - [Women's Bow design Party Elegant Dress Color Block Printing](https://milvertons.com/products/womens-bow-design-party-elegant-dress-color-block-printing-sleeveless-high-waist-a-line-simple-casual-dress): Women's Bow design Party Elegant Dress Color Block Printing Sleeveless High Waist A-line Simple Casual DressBrand Name: Sisjuly Material: Polyester Model
-  Updated: 2025-11-25T14:20:27Z
+  Updated: 2025-11-26T11:41:47Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
@@ -4855,7 +4855,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-11-25T14:30:49Z
+  Updated: 2025-11-27T06:22:33Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -5313,118 +5313,118 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-shoes-and-bag-set-2024-rhinestone-high-heels-203509.webp?v=1732252497
     Price: $121.76 USD
 - [Italian Rhinestone Party Shoes & Bag – 2024 Italian Style](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style): Italian Rhinestone Party Shoes & Bag – 2024 Italian Style. Perfect for parties, these shoes and matching bag are designed for women who want to make a statement
-  Updated: 2025-11-25T14:31:34Z
+  Updated: 2025-11-27T15:55:02Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-651193.webp?v=1732335386
-  - [Peach / 38](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869994734)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-651193.webp?v=1732335386
-    Price: $117.74 USD
-  - [Peach / 39](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869961966)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-651193.webp?v=1732335386
-    Price: $117.74 USD
-  - [Peach / 41](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869896430)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-651193.webp?v=1732335386
-    Price: $117.74 USD
-  - [Peach / 42](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869863662)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-651193.webp?v=1732335386
-    Price: $117.74 USD
-  - [Brown / 37](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869339374)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-950429.webp?v=1763975207
-    Price: $117.74 USD
-  - [Purple / 40](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869273838)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-397436.webp?v=1763975207
-    Price: $117.74 USD
-  - [Purple / 42](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869109998)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-397436.webp?v=1763975207
-    Price: $117.74 USD
-  - [Purple / 43](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869077230)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-397436.webp?v=1763975207
-    Price: $117.74 USD
+  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-137939.webp?v=1764224960
   - [Silver / 37](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869568750)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-137939.webp?v=1763975207
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-137939.webp?v=1764224960
     Price: $117.74 USD
   - [Silver / 38](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869535982)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-137939.webp?v=1763975207
-    Price: $117.74 USD
-  - [Silver / 39](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869503214)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-137939.webp?v=1763975207
-    Price: $117.74 USD
-  - [Silver / 40](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869470446)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-137939.webp?v=1763975207
-    Price: $117.74 USD
-  - [Silver / 41](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869437678)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-137939.webp?v=1763975207
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-137939.webp?v=1764224960
     Price: $117.74 USD
   - [Silver / 42](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869404910)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-137939.webp?v=1763975207
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-137939.webp?v=1764224960
     Price: $117.74 USD
   - [Silver / 43](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869372142)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-137939.webp?v=1763975207
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-137939.webp?v=1764224960
+    Price: $117.74 USD
+  - [Silver / 39](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869503214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-137939.webp?v=1764224960
+    Price: $117.74 USD
+  - [Silver / 40](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869470446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-137939.webp?v=1764224960
+    Price: $117.74 USD
+  - [Silver / 41](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869437678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-137939.webp?v=1764224960
     Price: $117.74 USD
   - [Gold / 37](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869732590)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-239588.webp?v=1732335386
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-239588.webp?v=1764224960
     Price: $117.74 USD
   - [Gold / 38](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869699822)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-239588.webp?v=1732335386
-    Price: $117.74 USD
-  - [Gold / 39](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869667054)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-239588.webp?v=1732335386
-    Price: $117.74 USD
-  - [Gold / 40](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869634286)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-239588.webp?v=1732335386
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-239588.webp?v=1764224960
     Price: $117.74 USD
   - [Gold / 42](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976870093038)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-239588.webp?v=1732335386
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-239588.webp?v=1764224960
     Price: $117.74 USD
   - [Gold / 43](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976870060270)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-239588.webp?v=1732335386
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-239588.webp?v=1764224960
+    Price: $117.74 USD
+  - [Gold / 39](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869667054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-239588.webp?v=1764224960
+    Price: $117.74 USD
+  - [Gold / 40](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869634286)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-239588.webp?v=1764224960
     Price: $117.74 USD
   - [Blue / 37](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976870224110)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-311908.webp?v=1732335386
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-311908.webp?v=1764224960
     Price: $117.74 USD
   - [Blue / 38](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976870191342)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-311908.webp?v=1732335386
-    Price: $117.74 USD
-  - [Blue / 39](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976870158574)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-311908.webp?v=1732335386
-    Price: $117.74 USD
-  - [Blue / 40](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976870125806)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-311908.webp?v=1732335386
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-311908.webp?v=1764224960
     Price: $117.74 USD
   - [Blue / 42](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869798126)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-311908.webp?v=1732335386
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-311908.webp?v=1764224960
     Price: $117.74 USD
   - [Blue / 43](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869765358)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-311908.webp?v=1732335386
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-311908.webp?v=1764224960
+    Price: $117.74 USD
+  - [Blue / 39](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976870158574)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-311908.webp?v=1764224960
+    Price: $117.74 USD
+  - [Blue / 40](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976870125806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-311908.webp?v=1764224960
+    Price: $117.74 USD
+  - [Peach / 38](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869994734)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-651193.webp?v=1764224960
+    Price: $117.74 USD
+  - [Peach / 42](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869863662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-651193.webp?v=1764224960
+    Price: $117.74 USD
+  - [Peach / 39](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869961966)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-651193.webp?v=1764224960
+    Price: $117.74 USD
+  - [Peach / 41](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869896430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-651193.webp?v=1764224960
+    Price: $117.74 USD
+  - [Purple / 42](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869109998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-397436.webp?v=1764224960
+    Price: $117.74 USD
+  - [Purple / 43](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869077230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-397436.webp?v=1764224960
+    Price: $117.74 USD
+  - [Purple / 40](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869273838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-397436.webp?v=1764224960
+    Price: $117.74 USD
+  - [Brown / 37](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869339374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-950429.webp?v=1764224960
     Price: $117.74 USD
 - [Elegant Rhinestone Heels & Bag Set - Ideal for Weddings](https://milvertons.com/products/elegant-rhinestone-heels-bag-set-ideal-for-weddings): Elegant Rhinestone Heels & Bag Set - Ideal for Weddings. Elevate your look with this chic set, and make a lasting impression. Order today and step out in style!
   Updated: 2025-11-25T14:32:02Z
@@ -8987,7 +8987,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/zenana-long-sleeve-flare-dress-with-pockets-5776997.webp?v=1751638573
     Price: $27.65 USD
 - [Fame Weathered Faux Leather And Studs Bucket Bag](https://milvertons.com/products/fame-weathered-faux-leather-and-studs-bucket-bag): This Fame Weathered Faux Leather And Studs Bucket Bag seamlessly transitions from day to night with its timeless black exterior and modern studded detailing
-  Updated: 2025-11-25T14:39:11Z
+  Updated: 2025-11-26T20:54:05Z
   Vendor: Milvertons
   Product Type: Women - Bags
   Availability: Available
@@ -11307,14 +11307,14 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mary-jane-block-heel-pumps-closed-toe-party-office-shoes-8685100.webp?v=1762831258
     Price: $53.51 USD
 - [Dubai African Jewelry Sets Luxury Wedding & Party Style](https://milvertons.com/products/dubai-african-jewelry-sets-luxury-wedding-party-style): Dubai African Jewelry Sets in gold, silver & multi crystal. Luxury bridal fashion with necklace, bracelet, earrings & ring for weddings, parties, anniversaries.
-  Updated: 2025-11-25T14:44:08Z
+  Updated: 2025-11-26T19:04:55Z
   Vendor: Milvertons
   Product Type: Apparel & Accessories - Jewelry - Jewelry Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/dubai-african-jewelry-sets-luxury-wedding-party-style-8337808.webp?v=1763494298
   - [Silver / One Size](https://milvertons.com/products/dubai-african-jewelry-sets-luxury-wedding-party-style?variant=47224915591406)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/dubai-african-jewelry-sets-luxury-wedding-party-style-2005954.webp?v=1763494298
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/dubai-african-jewelry-sets-luxury-wedding-party-style-2005954.webp?v=1764152767
     Price: $48.06 USD
   - [Gold / One Size](https://milvertons.com/products/dubai-african-jewelry-sets-luxury-wedding-party-style?variant=47224915624174)
     Availability: Available
@@ -11322,8 +11322,26 @@
     Price: $48.06 USD
   - [Multi / One Size](https://milvertons.com/products/dubai-african-jewelry-sets-luxury-wedding-party-style?variant=47224915656942)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/dubai-african-jewelry-sets-luxury-wedding-party-style-3385125.webp?v=1763494298
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/dubai-african-jewelry-sets-luxury-wedding-party-style-3385125.webp?v=1764152767
     Price: $48.06 USD
+- [Dubai African Jewelry Set – Elegant Luxury Women’s Accessory](https://milvertons.com/products/dubai-african-jewelry-set-elegant-luxury-women-s-accessory): Dubai African jewelry sets in silver, gold, or multi tones. Luxury crystal necklace, bracelet, earrings & ring for weddings, parties, elegant gifting occasions.
+  Updated: 2025-11-26T14:26:22Z
+  Vendor: Milvertons
+  Product Type: Apparel & Accessories - Jewelry - Jewelry Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/dubai-african-jewelry-set-elegant-luxury-womens-accessory-2822915.webp?v=1764157037
+  - [silver / One Size](https://milvertons.com/products/dubai-african-jewelry-set-elegant-luxury-women-s-accessory?variant=47262439178478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/dubai-african-jewelry-set-elegant-luxury-womens-accessory-2822915.webp?v=1764157037
+    Price: $58.59 USD
+  - [gold / One Size](https://milvertons.com/products/dubai-african-jewelry-set-elegant-luxury-women-s-accessory?variant=47262439112942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/dubai-african-jewelry-set-elegant-luxury-womens-accessory-3601323.webp?v=1764157038
+    Price: $58.59 USD
+  - [multi / One Size](https://milvertons.com/products/dubai-african-jewelry-set-elegant-luxury-women-s-accessory?variant=47262439145710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/dubai-african-jewelry-set-elegant-luxury-womens-accessory-2702708.webp?v=1764157038
+    Price: $58.59 USD
 
 ## Collections
 
@@ -11346,7 +11364,7 @@
   Updated: 2024-04-16T16:48:12Z
   Total Products: 3
 - [Women’s Shoes and Bags | Luxury Footwear & Matching Sets](https://milvertons.com/collections/women-shoes-bags): Women’s Shoes and Bags in luxury styles. Discover elegant footwear and matching sets for weddings, parties & special occasions. Shop timeless designs today.
-  Updated: 2025-11-25T06:25:37Z
+  Updated: 2025-11-27T06:26:02Z
   Total Products: 140
 - [Shoes](https://milvertons.com/collections/shoes): Shoes - A gallery of contemporary shoes
   Updated: 2025-09-07T11:03:40Z
@@ -11361,7 +11379,7 @@
   Updated: 2025-04-04T00:42:58Z
   Total Products: 66
 - [Women's Clothing Collection](https://milvertons.com/collections/womens-clothing): Discover chic and stylish women's clothing at Milvertons! Browse our collection of fashionable apparel, from timeless classics to on-trend pieces. Shop now for the ultimate fashion experience!
-  Updated: 2025-11-21T06:25:57Z
+  Updated: 2025-11-27T06:26:14Z
   Total Products: 153
 - [Men's Clothing - Menswear, Trendy Ethnic designs and more](https://milvertons.com/collections/mens-clothing): Men's Clothing - Menswear, Trendy Ethnic designs and more. Shop our Men's Clothing Collection  at Milvertons today!
   Updated: 2025-10-06T18:28:51Z
@@ -11376,26 +11394,26 @@
   Updated: 2025-10-26T16:45:48Z
   Total Products: 28
 - [Sale - Discover great prices on hot products](https://milvertons.com/collections/sale): Sale - Discover great prices on hot products. Don't miss out on these deals. Shop now and take advantage of Sales items! Click now to start browsing and saving
-  Updated: 2025-11-25T12:04:28Z
-  Total Products: 104
+  Updated: 2025-11-26T07:00:16Z
+  Total Products: 105
 - [Milvertons Facebook Shop - Manual](https://milvertons.com/collections/milvertons-facebook-shop-old): Milvertons Facebook Shop - Manual
   Updated: 2025-10-22T14:36:24Z
   Total Products: 171
 - [Fashion Boxes and Bags](https://milvertons.com/collections/fashion-boxes-and-bags): Fashion Boxes and Bags
-  Updated: 2025-10-05T19:25:35Z
+  Updated: 2025-11-27T06:25:43Z
   Total Products: 17
 - [Trending High Quality Ethnic Lace Fabric](https://milvertons.com/collections/ethnic-lace-fabric): Shop Ethnic Lace Fabric. This collection includes Handmade African Lace Fabric, Aso Oke, and more.
   Updated: 2025-09-01T20:10:02Z
   Total Products: 25
 - [Latest Trendy Clothing Accessories](https://milvertons.com/collections/trendy-clothing-accessories): Shop Latest Trendy Clothing Accessories. Stone-studded Belts, Caftan Belts, Fashion Breastplates, Baguette Cut Rings, Beaded Necklaces, Water Drop Earrings, etc
-  Updated: 2025-11-25T12:04:28Z
-  Total Products: 46
+  Updated: 2025-11-27T06:26:17Z
+  Total Products: 47
 - [Ethnic Headties, Headwear and Turbans](https://milvertons.com/collections/headties-headwear-turbans): Shop Ethnic Headties, Headwear and Turbans. This collection includes classy African Auto-Gele, unique, handmade, and more.
   Updated: 2025-10-05T19:25:37Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-11-25T12:04:28Z
-  Total Products: 167
+  Updated: 2025-11-26T07:00:16Z
+  Total Products: 168
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
   Total Products: 1
@@ -11424,14 +11442,14 @@
   Updated: 2025-11-18T02:47:31Z
   Total Products: 159
 - [All Products - Published and in stock](https://milvertons.com/collections/all-products-available-in-online-store): All Products - Published, Active and Available in the Online Store Sales Channel,
-  Updated: 2025-11-25T12:04:28Z
-  Total Products: 196
+  Updated: 2025-11-26T07:00:16Z
+  Total Products: 197
 - [All Products - OOS](https://milvertons.com/collections/all-products-oos-1): All Products - Out of stock, yet published in Online Store
   Updated: 2025-11-18T02:47:31Z
   Total Products: 158
 - [All Products - Active and Draft](https://milvertons.com/collections/all-products-active-and-draft): All Products in the store - Active and Draft
-  Updated: 2025-11-25T12:04:28Z
-  Total Products: 520
+  Updated: 2025-11-26T07:00:16Z
+  Total Products: 521
 - [Milvertons Google Shop](https://milvertons.com/collections/milvertons-google-shop): Milvertons Google Shop - Product listings on Google
   Updated: 2025-09-24T20:00:47Z
   Total Products: 16
@@ -11439,8 +11457,8 @@
   Updated: 2025-11-16T12:04:51Z
   Total Products: 106
 - [New Arrivals Collection - Trendy New In](https://milvertons.com/collections/new-arrivals): Browse our New Arrivals Collection and discover why Milvertons Store is the ultimate destination for fashion-conscious individuals who want to look their best
-  Updated: 2025-11-25T12:04:28Z
-  Total Products: 34
+  Updated: 2025-11-27T06:25:16Z
+  Total Products: 35
 - [Milvertons Instagram Shop - Manual](https://milvertons.com/collections/milvertons-instagram-shop): Milvertons Instagram Shop - Manual
   Updated: 2025-10-22T14:36:24Z
   Total Products: 143
@@ -11469,8 +11487,8 @@
   Updated: 2025-11-23T06:25:41Z
   Total Products: 58
 - [UpOrder - Recommended Products](https://milvertons.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the UpOrder app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-11-25T12:04:28Z
-  Total Products: 344
+  Updated: 2025-11-26T07:00:16Z
+  Total Products: 345
 - [Black Friday & Cyber Monday Deals](https://milvertons.com/collections/bfcm-deals): Black Friday & Cyber Monday Deals - Products from this collection are on sale at 15% off. Items in this collection trigger this offer when added to your cart.
   Updated: 2023-11-29T08:14:38Z
   Total Products: 0
@@ -12199,6 +12217,14 @@
     Updated: 2025-11-25T12:55:24Z
     Author: The Milvertons Store
     Tags: bags, coordinating sets, dresses, fashion accessories, matching shoe bag combos, matching shoes and bag for women, outfit ideas, shoe and bag set for women, shoes, trendy dress collections, women's clothing, women's fashion, women's shoe and bag set
+  - [Mixed Media of Women's Fashion: Essential Accessories and Styles](https://milvertons.com/blogs/blog/mixed-media-of-womens-fashion-essential-accessories-and-styles): Mixed Media of Women's Fashion: Essential Accessories and Styles
+    Updated: 2025-11-26T11:35:18Z
+    Author: The Milvertons Store
+    Tags: accessories, dresses, essential fashion items, fashion, matching shoes and bag for women, mixed media accessories, shoe and bag set for women, shoes, stylish bags, trendy outfits, women's clothing, women's fashion, women's shoe and bag set
+  - [Building Your Wardrobe Around Matching Shoes and Bag for Women](https://milvertons.com/blogs/blog/building-your-wardrobe-around-matching-shoes-and-bag-for-women): Building Your Wardrobe Around Matching Shoes and Bag for Women
+    Updated: 2025-11-27T09:04:15Z
+    Author: The Milvertons Store
+    Tags: bags, build your wardrobe, clothing, dresses, matching accessories, matching shoes and bag for women, shoe and bag set for women, shoes, stylish outfits, wardrobe essentials, women's clothing, women's fashion, women's shoe and bag set, women’s fashion
 
 ## Store Pages
 
