@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2018-12-15T16:04:33Z
 - Contact Email: amy@amyscoffeemugs.com
-- Updated At: 2025-11-27T00:04:17.818Z
+- Updated At: 2025-11-28T00:02:19.376Z
 
 Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our collection includes artist-designed mugs, insulated tumbler cups, and travel mugs made to bring joy, warmth, and a personal touch to every sip.
 
@@ -12654,10 +12654,10 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
 ## Collections
 
 - [Ceramic Mugs, Travel Mugs, and Tumbler Cups | Gifts, Perfect for you!](https://amyscoffeemugs.com/collections/all-mugs-and-cups): Discover cute, stylish mugs, tumblers, and travel mugs featuring animals, gnomes, sports, patterns, hobbies, and more. Personalization options for gift-giving!
-  Updated: 2025-11-24T12:04:30Z
+  Updated: 2025-11-27T12:06:41Z
   Total Products: 977
 - [Ceramic Coffee Mugs | Unique Designs, Dishwasher and Microwave Safe](https://amyscoffeemugs.com/collections/ceramic-coffee-mugs): Shop 11oz or 15oz ceramic mugs with unique designs, including animals, seasonal, patterns, and personalized options. Dishwasher and microwave safe. Shop now!
-  Updated: 2025-11-24T12:04:30Z
+  Updated: 2025-11-27T12:06:41Z
   Total Products: 577
 - [Travel Mugs for Everyone | Stylish, Tapered, Stainless Steel Insulated](https://amyscoffeemugs.com/collections/travel-mugs): Shop stainless steel travel mugs with colorful or seasonal designs, personalization, & spill-resistant lids. Perfect for gifting and keeping drinks hot or cold.
   Updated: 2025-11-20T12:04:58Z
@@ -12666,7 +12666,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-11-18T12:05:13Z
   Total Products: 250
 - [Animal Mugs, Travel Mugs, and Tumbler Cups | Cute Designs for All](https://amyscoffeemugs.com/collections/animal): Shop animal-themed mugs and tumblers featuring cats, owls, dogs, otters, and more. Perfect for coffee, tea, and gifting. Explore designs for every animal lover!
-  Updated: 2025-11-24T12:04:30Z
+  Updated: 2025-11-27T12:06:41Z
   Total Products: 236
 - [Purple Mugs, Travel Mugs, and Tumbler Cups | Perfect for Purple Lovers](https://amyscoffeemugs.com/collections/purple): Shop stylish, modern purple mugs and cups with cute designs like hearts, gingham, and more. Find personalized options for yourself or as gifts. Enjoy every sip!
   Updated: 2025-11-24T12:04:30Z
@@ -12675,7 +12675,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-11-19T12:05:27Z
   Total Products: 108
 - [Pattern Mugs, Travel Mugs, Tumbler Cups | Unique Designs for Everyone](https://amyscoffeemugs.com/collections/pattern): Discover pattern mugs and tumbler cups in seasonal, stylish, or cute animal designs. Find your favorite pattern and enjoy every sip. Shop the collection today!
-  Updated: 2025-11-24T12:04:30Z
+  Updated: 2025-11-27T12:06:41Z
   Total Products: 805
 - [Pink Mugs, Travel Mugs, and Tumbler Cups | Cute, Fun, and Stylish](https://amyscoffeemugs.com/collections/pink): Shop this collection of pink mugs and tumblers with cute animals, flowers, hearts, gnomes, hobbies, and more. Great for everyday use or as a cheerful gift.
   Updated: 2025-11-21T15:39:06Z
@@ -12684,7 +12684,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-11-23T12:05:32Z
   Total Products: 316
 - [Brown Mugs, Travel Mugs, & Tumbler Cups | Cozy Gifts for Coffee Lovers](https://amyscoffeemugs.com/collections/brown): Shop stylish brown mugs and tumblers with owls, florals, plaid, and seasonal designs. Perfect for coffee lovers and gifting, they match brown-accented décor!
-  Updated: 2025-11-24T12:04:30Z
+  Updated: 2025-11-27T12:06:41Z
   Total Products: 137
 - [Rainbow Mugs, Travel Mugs, and Tumbler Cups | Colorful Drinkware Gifts](https://amyscoffeemugs.com/collections/rainbow): Shop vibrant rainbow mugs, travel mugs, and tumblers in fun designs like polka dots, rainbows, and flowers. Perfect for gifting or brightening your day!
   Updated: 2025-11-19T12:05:27Z
@@ -12708,10 +12708,10 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-11-23T12:05:32Z
   Total Products: 68
 - [Orange Mugs, Travel Mugs, Tumbler Cups | Seasonal Patterns and Designs](https://amyscoffeemugs.com/collections/orange): Discover orange-themed mugs & tumblers in fun patterns like autumn leaves, gingham, plaid, polka dots, & more designs. Personalized mug options for gift-giving!
-  Updated: 2025-11-22T12:05:45Z
+  Updated: 2025-11-27T12:06:41Z
   Total Products: 112
 - [Gray Mugs, Travel Mugs, Tumbler Cups | Unique Designs for Coffee & Tea](https://amyscoffeemugs.com/collections/gray): Shop gray mugs & tumblers with charming designs like elephants, bees, sharks, and buffalo plaid. Perfect for coffee, tea, and stylish, rustic kitchen decor.
-  Updated: 2025-11-21T17:43:31Z
+  Updated: 2025-11-27T12:06:41Z
   Total Products: 161
 - [Buffalo Plaid Mugs, Travel Mugs, and Tumbler Cups for Rustic Kitchens](https://amyscoffeemugs.com/collections/buffalo-plaid): Shop buffalo plaid mugs, tumblers, and travel mugs. Perfect for rustic or modern kitchens. Personalized options for gifting. Elevate your coffee bar or kitchen!
   Updated: 2025-11-19T12:05:27Z
@@ -12744,7 +12744,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-11-06T13:42:07Z
   Total Products: 30
 - [Cat and Dog Mugs, Travel Mugs, and Tumbler Cups | Pet Parent Gifts](https://amyscoffeemugs.com/collections/cat-and-dog): Shop cute cat and dog mugs, travel mugs, and tumblers for animal lovers with paw print patterns and cute pet designs. Perfect gifts for cat and dog parents.
-  Updated: 2025-11-20T12:04:58Z
+  Updated: 2025-11-27T12:06:41Z
   Total Products: 46
 - [Fall Mugs, Travel Mugs, Tumbler Cups | Cozy Autumn Designs for Gifting](https://amyscoffeemugs.com/collections/fall): Shop fall mugs & tumbler cups perfect for cozy autumn days. Great for tea, coffee, & gifting to anyone who loves the season. Explore our collection today!
   Updated: 2025-11-15T12:05:33Z
