@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-11-24T00:01:41.841Z
+- Updated At: 2025-11-28T00:01:19.261Z
 
 ## Products
 
@@ -9327,7 +9327,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-pigment-dyed-sweatpants-pigment-light-blue-front-67953f955fbf8.jpg?v=1737845868
     Price: $72.00 USD
 - [All-Over Print Boxer Briefs – Custom Men's Underwear](https://baskandweave.com/products/all-over-print-boxer-briefs): Shop all-over print boxer briefs for men. Enjoy comfort, stretch, and vibrant designs that fit perfectly and look great every day. Customize your style now.
-  Updated: 2025-11-02T23:15:07Z
+  Updated: 2025-11-24T01:36:47Z
   Vendor: Bask & Weave
   Product Type: Boxer Brief
   Availability: Available
@@ -19813,7 +19813,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Women_s_Wide-Leg_Joggers.jpg?v=1740873269
     Price: $75.50 USD
 - [Women's Joggers - Comfortable & Stylish Activewear](https://baskandweave.com/products/womens-joggers): Discover women's joggers made for comfort and style. Perfect for workouts or lounging, our joggers blend soft fabrics with a flattering, relaxed fit.
-  Updated: 2025-11-05T00:21:53Z
+  Updated: 2025-11-27T04:37:57Z
   Vendor: Bask & Weave
   Product Type: Joggers
   Availability: Available
@@ -20421,7 +20421,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/toddler-staple-tee-white-front-67a6a4d062629.jpg?v=1738975785
     Price: $25.50 USD
 - [Youth Short Sleeve T-Shirt – Everyday Staple Tee for Kids](https://baskandweave.com/products/youth-short-sleeve-staple-t-shirt): Our youth short sleeve t-shirt is soft, durable, and perfect for daily wear. A must-have staple tee for active kids. Shop quality comfort today!
-  Updated: 2025-11-05T00:35:34Z
+  Updated: 2025-11-25T06:16:04Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -22008,6 +22008,13 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/large-eco-tote-oyster-front-67a6c63f138c6.jpg?v=1738983926
     Price: $34.00 USD
+- [Organic Denim Tote Bag – Eco-Friendly & Stylish Everyday Bag](https://baskandweave.com/products/organic-denim-tote-bag): Carry your essentials in our organic denim tote bag. Made from eco-friendly materials, this sustainable tote combines style, durability, and functionality.
+  Updated: 2025-11-25T09:44:32Z
+  Vendor: Bask & Weave
+  Product Type: Tote Bags
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Organic_Denim_Tote_Bag.jpg?v=1740986741
+  Price: $43.00 USD
 - [Duffle Bag – All-Over Print Custom Travel & Gym Bag](https://baskandweave.com/products/all-over-print-duffle-bag): Travel in style with our all-over print duffle bag. Durable, spacious, and trendy, perfect for gym, weekend trips, or everyday use.
   Updated: 2025-11-07T23:57:15Z
   Vendor: Bask & Weave
