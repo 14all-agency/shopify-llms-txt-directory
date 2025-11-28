@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2023-05-31T17:47:33Z
 - Contact Email: propadeltoulouse@outlook.fr
-- Updated At: 2025-11-26T00:01:33.908Z
+- Updated At: 2025-11-28T00:01:45.949Z
 
 ## Products
 
