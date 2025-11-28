@@ -10,7 +10,7 @@
 - Contact Email: sales@homeeleganceusa.com
 - Contact Phone: 732-777-1100
 - Address: 850 Ridgewood Avenue, North Brunswick NJ 08902
-- Updated At: 2025-11-27T00:02:59.766Z
+- Updated At: 2025-11-28T00:03:22.425Z
 
 ## Products
 
@@ -1870,7 +1870,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T12:37:31Z
   Price: $550.99 USD
 - [Argyros Espresso Night Stand](https://homeeleganceusa.com/products/argyros-espresso-night-stand): Argyros Espresso Night Stand, 28"W X 17"D X 29"H, 68.2lbs. This nightstand uses V-patterned wood panels to create an elegant display of color and texture. The
-  Updated: 2025-11-25T12:37:33Z
+  Updated: 2025-11-27T06:26:59Z
   Price: $611.99 USD
 - [Alanis Light Gray Night Stand](https://homeeleganceusa.com/products/alanis-light-gray-night-stand): Alanis Light Gray Night Stand, 30"L X 17 1/2"W X 29 1/2"H, 84.7lbs. Avoid the contemporary aesthetic pitfall of feeling sterile and plain with this vibrant
   Updated: 2025-11-25T12:37:33Z
@@ -3817,7 +3817,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T12:49:11Z
   Price: $1,502.99 USD
 - [Modrest Altair Modern Red Fabric Dining Chair Vgobty100-F-Red](https://homeeleganceusa.com/products/vig-furniture-modrest-altair-modern-red-fabric-dining-chair-vgobty100-f-red): Modrest Altair Mid-Century Red Fabric Dining Chair - VGOBTY100-F-RED | VIGDescription:The Modrest Altair modern red fabric dining chair is a picture of
-  Updated: 2025-11-25T12:49:13Z
+  Updated: 2025-11-27T09:58:39Z
   Price: $1,404.99 USD
 - [Modern Black Crocodile Lacquer Tv Unit Vgunak588-230-Blk](https://homeeleganceusa.com/products/vig-furniture-modern-black-crocodile-lacquer-tv-unit-vgunak588-230-blk): A&X Skyline Modern Black Crocodile Lacquer TV Stand - VGUNAK588-230-BLK | VIGDescription:The A&X Skyline modern black crocodile lacquer TV unit features two
   Updated: 2025-11-25T12:49:13Z
@@ -4825,7 +4825,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T16:13:58Z
   Price: $4,186.99 USD
 - [Quartz Sectional Right W/Electric Recliner And Bed - Quartz Sectional | ESF](https://homeeleganceusa.com/products/esf-furniture-quartz-sectional-right-w-electric-recliner-and-bed-quartzsectional): ESF FURNITURE - Quartz Sectional Right w/Electric Recliner and Bed - QUARTZ SECTIONAL Features: Quartz Collection Sectional Materials: Fabric, Special Order
-  Updated: 2025-11-25T16:13:59Z
+  Updated: 2025-11-27T06:04:09Z
   Price: $7,566.99 USD
 - [Opera Right Sectional In Dark Blue - Operasectionalright | ESF](https://homeeleganceusa.com/products/esf-furniture-opera-right-sectional-in-dark-blue-operasectionalright): ESF FURNITURE - Opera Right Sectional in Dark Blue - OPERASECTIONALRIGHT Features: Opera Collection Sectional Dark Blue Color Materials: Fabric Fabric: Lukas 17
   Updated: 2025-11-25T16:13:59Z
@@ -6250,7 +6250,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T16:19:56Z
   Price: $1,910.99 USD
 - [Extravaganza 315 Marble Dining Table With 199 Chairs - 315Diningtable-199Chair | ESF](https://homeeleganceusa.com/products/esf-furniture-extravaganza-315-marble-dining-table-with-199-chairs-315diningtable-199chair): ESF Furniture - Extravaganza 315 Marble Dining Table with 199 Chairs - 315DININGTABLE-199CHAIR Features: Set Includes Dining Table and 4 Side Chairs
-  Updated: 2025-11-25T16:19:57Z
+  Updated: 2025-11-27T06:33:22Z
   Price: $3,559.99 USD
 - [Iron Dining Table With Igni Chairs - Irontable-Ignichair-6Chair | ESF](https://homeeleganceusa.com/products/esf-furniture-iron-dining-table-with-igni-chairs-irontable-ignichair-6chair): ESF Furniture - Iron Dining Table with Igni Chairs - IRONTABLE-IGNICHAIR-6CHAIR Features: Set Includes Dining Table and 6 Side Chairs Iron Collection Dining
   Updated: 2025-11-25T16:19:57Z
@@ -11872,7 +11872,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T18:16:20Z
   Price: $2,125.99 USD
 - [Gemma Coffee Table In Gold - 222Gold-C | Meridian](https://homeeleganceusa.com/products/meridian-furniture-gemma-coffee-table-in-gold-222gold-c): Gemma Coffee Table In Gold - 222Gold-C | Meridian Description The Gemma table, by Meridian Furniture. Featuring a unique diamond shape, and constructed of gold
-  Updated: 2025-11-25T18:16:20Z
+  Updated: 2025-11-27T10:14:03Z
   Price: $1,300.99 USD
 - [Gemma End Table In Matte Black - 222Black-E | Meridian](https://homeeleganceusa.com/products/meridian-furniture-gemma-end-table-in-matte-black-222black-e): Meridian Furniture - Gemma End Table in Matte Black - 222Black-EMake a bold statement for the entire world to see - or at least your home visitors - when you
   Updated: 2025-11-25T18:16:21Z
@@ -12388,7 +12388,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T18:19:25Z
   Price: $1,846.99 USD
 - [Gwen Velvet Loveseat In Navy - 670Navy-L | Meridian](https://homeeleganceusa.com/products/meridian-furniture-gwen-velvet-loveseat-in-navy-670navy-l): Meridian Furniture - Gwen Velvet Loveseat in Navy - 670Navy-LExperience untold comfort blended with impeccable style when you bring home this Gwen velvet sofa.
-  Updated: 2025-11-25T18:19:26Z
+  Updated: 2025-11-27T03:03:58Z
   Price: $1,846.99 USD
 - [Gwen Velvet Sofa In Black - 670Black-S | Meridian](https://homeeleganceusa.com/products/meridian-furniture-gwen-velvet-sofa-in-black-670black-s): Meridian Furniture - Gwen Velvet Sofa in Black - 670Black-SExperience untold comfort blended with impeccable style when you bring home this Gwen velvet sofa.
   Updated: 2025-11-25T18:19:26Z
@@ -13396,7 +13396,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T18:24:54Z
   Price: $4,681.99 USD
 - [Marlon Velvet Chair In Navy - 603Navy-C | Meridian](https://homeeleganceusa.com/products/meridian-furniture-marlon-velvet-chair-in-navy-603navy-c): Meridian Furniture - Marlon Velvet Chair in Navy - 603Navy-CSeat guests in the epitome of comfort and style with this Marlon velvet chair. This piece is just
-  Updated: 2025-11-25T18:24:54Z
+  Updated: 2025-11-27T04:20:27Z
   Price: $1,180.99 USD
 - [Marlon Velvet Chair In Mint - 603Mint-C | Meridian](https://homeeleganceusa.com/products/meridian-furniture-marlon-velvet-chair-in-mint-603mint-c): Meridian Furniture - Marlon Velvet Chair in Mint - 603Mint-CSeat guests in the epitome of comfort and style with this Marlon velvet chair. This piece is just
   Updated: 2025-11-25T18:24:55Z
@@ -15121,7 +15121,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T18:32:27Z
   Price: $1,714.99 USD
 - [Hugo Velvet Queen Bed In Green - Hugogreen-Q | Meridian](https://homeeleganceusa.com/products/meridian-furniture-hugo-velvet-queen-bed-in-green-hugogreen-q): . Meridian Furniture - Hugo Velvet Queen Bed in Green - HugoGreen-Q Sleep like a king while adding dramatic flair to your bedroom space in the regal Hugo green
-  Updated: 2025-11-25T18:32:28Z
+  Updated: 2025-11-27T08:14:59Z
   Price: $1,600.99 USD
 - [Luxus Velvet Queen Bed In Cream - Luxuscream-Q | Meridian](https://homeeleganceusa.com/products/meridian-furniture-luxus-velvet-queen-bed-in-cream-luxuscream-q): . Meridian Furniture - Luxus Velvet Queen Bed in Cream - LuxusCream-Q Elegant and eye-catching, the stunning cream velvet Luxus Queen Bed (3 Boxes) from
   Updated: 2025-11-25T18:32:28Z
@@ -16204,7 +16204,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T16:40:33Z
   Price: $1,512.99 USD
 - [3 Piece Lorenzo Motion Sofa Set In Caramel - 1882411-3Set | J&M](https://homeeleganceusa.com/products/j-m-furniture-3-piece-lorenzo-motion-sofa-set-in-caramel-1882411-3set): J&M Furniture - 3 Piece Lorenzo Motion Sofa Set in Caramel - 1882411-3SETJ&M Is proud to present the new Lorenzo Motion Sofa Set. A marvel in both design and
-  Updated: 2025-11-25T16:40:34Z
+  Updated: 2025-11-27T07:39:25Z
   Price: $7,202.99 USD
 - [Lorenzo Chair In Caramel - 1882411-C | J&M](https://homeeleganceusa.com/products/j-m-furniture-lorenzo-chair-in-caramel-1882411-c): J&M Furniture - Lorenzo Chair in Caramel - 1882411-CJ&M Is proud to present the new Lorenzo Motion Sofa Set. A marvel in both design and quality this sofa set
   Updated: 2025-11-25T16:40:36Z
@@ -16243,7 +16243,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T16:40:47Z
   Price: $4,607.99 USD
 - [Leonardo Grey In Left Hand Facing Modern Sectional Sofa - 18996-Lhfc | J&M](https://homeeleganceusa.com/products/j-m-furniture-leonardo-grey-in-left-hand-facing-modern-sectional-sofa-18996-lhfc): J&M Furniture - Leonardo Grey in Left Hand Facing Modern Sectional Sofa - 18996-LHFCJ&M Furniture is proud to introduce the Leonardo Sectional to our lineup.
-  Updated: 2025-11-25T16:40:48Z
+  Updated: 2025-11-27T04:46:22Z
   Price: $4,607.99 USD
 - [Leonardo Silver Grey In Right Hand Facing Modern Sectional Sofa - 18994-Rhfc | J&M](https://homeeleganceusa.com/products/j-m-furniture-leonardo-silver-grey-in-right-hand-facing-modern-sectional-sofa-18994-rhfc): J&M Furniture - Leonardo Silver Grey in Right Hand Facing Modern Sectional Sofa - 18994-RHFCJ&M Furniture is proud to introduce the Leonardo Sectional to our
   Updated: 2025-11-25T16:40:49Z
@@ -17266,7 +17266,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T16:45:31Z
   Price: $2,653.99 USD
 - [Christian Modern Sectional In Right Hand Facing - 18134-Rhfc | J&M](https://homeeleganceusa.com/products/j-m-furniture-christian-modern-sectional-in-right-hand-facing-18134-rhfc): J&M Furniture - Christian Modern Sectional in Right Hand Facing - 18134-RHFC Features: Christian Collection Sectional in Right Hand Facing Teeth-shaped
-  Updated: 2025-11-25T16:45:31Z
+  Updated: 2025-11-27T03:56:14Z
   Price: $2,727.99 USD
 - [Braga Natural Grey Lacquer Dresser And Mirror - 178671-Dm | J&M](https://homeeleganceusa.com/products/j-m-furniture-braga-natural-grey-lacquer-dresser-and-mirror-178671-dm): J&M Furniture - Braga Natural Grey Lacquer Dresser and Mirror - 178671-DM Features: Braga Collection Dresser and Mirror Crafted from Hand-Selected Woods and
   Updated: 2025-11-25T16:45:32Z
@@ -19360,7 +19360,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:12:26Z
   Price: $1,383.99 USD
 - [Orina 2 Piece Living Room Set In Blue 9349Dbu*2 | Homelegance](https://homeeleganceusa.com/products/homelegance-orina-2-piece-living-room-set-in-blue-9349dbu-2): Orina 2-Piece Living Room Set in Blue blends modern style with plush comfort. Featuring deep seating, soft upholstery, and sleek design. Shop now!
-  Updated: 2025-11-25T14:12:28Z
+  Updated: 2025-11-27T20:34:18Z
   Price: $1,972.99 USD
 - [Orina 2 Piece Living Room Set In Gray 9349Gry*2 | Homelegance](https://homeeleganceusa.com/products/homelegance-orina-2-piece-living-room-set-in-gray-9349gry-2): Homelegance - Orina 2 Piece Living Room Set in Gray - 9349GRY*2 Features: Set Includes Sofa and Love Seat Orina Collection Living Room Set Color Gray Material
   Updated: 2025-11-25T14:12:29Z
@@ -19630,7 +19630,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:13:57Z
   Price: $2,838.99 USD
 - [Crawford Dining Table In Silver 5546-84 | Homelegance](https://homeeleganceusa.com/products/homelegance-crawford-dining-table-in-silver-5546-84): Homelegance - Crawford Dining Table in Silver - 5546-84Blending traditional lines with modern glamour is the Crawford Collection. Finished in an eye-catching
-  Updated: 2025-11-25T14:13:58Z
+  Updated: 2025-11-27T00:02:20Z
   Price: $936.99 USD
 - [Savion Round-Oval Dining Table In Espresso 5494-76* | Homelegance](https://homeeleganceusa.com/products/homelegance-savion-round-oval-dining-table-in-espresso-5494-76): Homelegance - Savion Round/Oval Dining Table in Espresso - 5494-76*Sophisticated soft contemporary design is achieved in your dining room with the addition of
   Updated: 2025-11-25T14:13:59Z
@@ -20674,7 +20674,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:19:37Z
   Price: $4,539.99 USD
 - [Kennett 3 Piece Double Reclining Sofa Set In Brownish Gray 9528Brg-3-2-1 | Homelegance](https://homeeleganceusa.com/products/homelegance-kennett-3-piece-double-reclining-sofa-set-in-brownish-gray-9528brg-3-2-1): Homelegance - Kennett 3 Piece Double Reclining Sofa Set in Brownish Gray - 9528BRG-3-2-1Styled for the transitional home, the Kennett Collection is a
-  Updated: 2025-11-25T14:19:39Z
+  Updated: 2025-11-27T03:12:31Z
   Price: $5,282.99 USD
 - [Kennett Power Double Reclining Love Seat With Center Console, Power Headrests And Usb Ports In Dark Gray 9528Dgy-2Pwh | Homelegance](https://homeeleganceusa.com/products/homelegance-kennett-power-double-reclining-love-seat-with-center-console-power-headrests-and-usb-ports-in-dark-gray-9528dgy-2pwh): Homelegance - Kennett Power Double Reclining Love Seat with Center Console, Power Headrests and USB Ports in Dark Gray - 9528DGY-2PWHStyled for the transitional
   Updated: 2025-11-25T14:19:39Z
@@ -26154,7 +26154,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T14:50:59Z
   Price: $1,160.99 USD
 - [Arteriors Pali Table Lamp | Arteriors](https://homeeleganceusa.com/products/arteriors-pali-table-lamp): In a classic gourd silhouette, the feminine, fluted Arteriors Pali lamp is created in a chalky, matte ivory porcelain. The decorative, long-neck table lamb
-  Updated: 2025-11-25T14:50:59Z
+  Updated: 2025-11-27T06:30:43Z
   Price: $811.99 USD
 - [Arteriors Shelby Table Lamp | Arteriors](https://homeeleganceusa.com/products/arteriors-shelby-table-lamp): Modern and masterful, the Arteriors Shelby lamp is created in a block shape with a black to white ombre resin reminiscent of smoke drifting in the air. The
   Updated: 2025-11-25T14:51:00Z
@@ -26214,7 +26214,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T14:51:19Z
   Price: $937.99 USD
 - [Arteriors Serrano Floor Lamp | Arteriors](https://homeeleganceusa.com/products/arteriors-serrano-floor-lamp): Recalling aboriginal carved-wood rain sticks, the Arteriors Serrano lamp bestows a found-object sensibility to a room. The artisan accent piece, in umber wood,
-  Updated: 2025-11-25T14:51:19Z
+  Updated: 2025-11-27T06:55:08Z
   Price: $2,416.99 USD
 - [Arteriors Ropata Floor Lamp | Arteriors](https://homeeleganceusa.com/products/arteriors-ropata-floor-lamp): The handsome Arteriors Ropata floor lamp stands as a strong, architectural feature in any space. The lamp is designed with intricate chestnut leather braiding
   Updated: 2025-11-25T14:51:20Z
@@ -27885,7 +27885,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T15:02:05Z
   Price: $3,507.99 USD
 - [Four Hands Jaylen Sideboard - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-jaylen-sideboard): Made from light-finished oak, a clean-lined sideboard tops a plinth-style base, with four drawers
-  Updated: 2025-11-25T15:02:07Z
+  Updated: 2025-11-27T04:30:39Z
   Price: $3,766.99 USD
 - [Four Hands Jeanne Sideboard - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-jeanne-sideboard): Simple and streamlined with an architectural twist. Made from solid oak, a spacious sideboard
   Updated: 2025-11-25T15:02:08Z
@@ -29044,13 +29044,13 @@ Weight: 216.1 pounds
 ## Collections
 
 - [Bedroom Furniture – Beds, Dressers & Nightstands | Home Elegance USA](https://homeeleganceusa.com/collections/bedroom-furniture): Discover stylish, affordable, modern, luxury, and rustic bedroom furniture sets at Home Elegance USA. Shop beds, dressers, nightstands & more.
-  Updated: 2025-11-25T20:50:01Z
+  Updated: 2025-11-27T09:00:15Z
   Total Products: 9217
 - [Shop Living Room Furniture Online – Sofas, Sectionals, Chairs & More](https://homeeleganceusa.com/collections/living-room-furniture): Discover luxury living room furniture at Home Elegance USA. Sofas, sectionals, accent chairs, and coffee tables crafted for style, comfort, and lasting quality.
   Updated: 2025-11-26T18:54:46Z
   Total Products: 12705
 - [Dining Room Furniture | Tables, Chairs & Buffets – Home Elegance](https://homeeleganceusa.com/collections/dining-room): Shop dining room furniture including tables, chairs, buffets, and storage. Modern, classic, and luxury designs crafted for style, comfort, and everyday dining.
-  Updated: 2025-11-26T19:29:24Z
+  Updated: 2025-11-27T09:00:16Z
   Total Products: 5929
 - [Mattresses – Shop Memory Foam, Hybrid & Innerspring | Home Elegance USA](https://homeeleganceusa.com/collections/mattresses): Shop mattresses in memory foam, hybrid, and innerspring designs. Enjoy cooling comfort, durable support, and restful sleep for every bedroom.
   Updated: 2025-11-25T20:35:24Z
@@ -29089,7 +29089,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T23:10:30Z
   Total Products: 1115
 - [Beds | King, Queen & California King Frames – Home Elegance](https://homeeleganceusa.com/collections/beds): Shop beds in King, Queen & California King sizes. Upholstered, wood, and panel designs in modern, classic & luxury styles. Durable frames with timeless appeal.
-  Updated: 2025-11-25T20:49:58Z
+  Updated: 2025-11-27T09:00:15Z
   Total Products: 2660
 - [Bedroom Sets – Beds & Complete Bedroom Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/bedroom-sets): Shop luxury bedroom sets with coordinated beds, dressers, mirrors, and nightstands. Choose modern, traditional, or rustic styles for a complete bedroom upgrade.
   Updated: 2025-11-25T20:49:57Z
@@ -29107,7 +29107,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T12:27:13Z
   Total Products: 7
 - [Dining Room Sets – Shop Modern, Rustic & Luxury Styles | Home Elegance USA](https://homeeleganceusa.com/collections/dining-room-sets): Shop dining room sets in wood, glass, and marble finishes. Available in 5-piece, 7-piece, and 9-piece options. Perfect for family dining, entertaining, and modern living.
-  Updated: 2025-11-25T20:51:10Z
+  Updated: 2025-11-27T09:00:16Z
   Total Products: 1220
 - [Dining Tables – Shop Modern, Rustic & Traditional | Home Elegance USA](https://homeeleganceusa.com/collections/dining-tables): Discover dining tables in wood, glass, and marble finishes. Shop round, rectangular, and extendable tables perfect for family dining, entertaining, and modern living.
   Updated: 2025-11-25T20:41:56Z
@@ -29241,8 +29241,8 @@ Weight: 216.1 pounds
 - [Accent Cabinets & Credenzas – Modern & Classic Storage | Home Elegance](https://homeeleganceusa.com/collections/accent-cabinets-and-credenzas): Shop accent cabinets and credenzas in modern and traditional styles. Elegant storage solutions for living rooms, dining areas, and entryways—style meets functionality.
   Updated: 2025-11-25T20:42:13Z
   Total Products: 822
-- [Ashley Furniture: Largest Furniture Manufacturer](https://homeeleganceusa.com/collections/ashley-furniture): Shop Ashley Furniture's huge selection of living room, bedroom, dining room, and more. Quality home furnishings at great prices. Browse now! | Home Elegance USA
-  Updated: 2025-11-26T18:54:46Z
+- [Ashley Furniture: Largest Furniture Manufacturer](https://homeeleganceusa.com/collections/ashley-furniture): Shop Ashley Furniture's huge selection of living room, bedroom, dining room, and more. Quality home furnishings at great prices. Free Shipping Nationwide.
+  Updated: 2025-11-27T20:26:42Z
   Total Products: 1328
 - [Homey Design Inc. - Luxury Upholstery and Case Goods | Home Elegance USA](https://homeeleganceusa.com/collections/homey-design-furniture): Discover Homey Design Inc. at Home Elegance USA: Exquisite traditional and Victorian-inspired living room, bedroom, and dining room furniture.
   Updated: 2025-11-25T13:44:09Z
@@ -29250,8 +29250,8 @@ Weight: 216.1 pounds
 - [Coaster Furniture: Huge Selection of Fine Home Furnishings](https://homeeleganceusa.com/collections/coaster-furniture): Style your home without breaking the bank. Coaster Furniture offers a wide selection of affordable home furnishings and decor. Shop now at Home Elegance USA.
   Updated: 2025-11-25T20:51:26Z
   Total Products: 3290
-- [ACME Furniture – Quality, Value & Service Since 1985 | Home Elegance USA](https://homeeleganceusa.com/collections/acme-furniture): Shop Acme Furniture's bestselling beds, sofas, dining sets & more. Affordable elegance, classic & modern styles for every room. Fast free shipping.
-  Updated: 2025-11-25T12:40:03Z
+- [ACME Furniture – Quality, Value & Service Since 1985 | Home Elegance Furniture](https://homeeleganceusa.com/collections/acme-furniture): Shop Acme Furniture's bestselling beds, sofas, dining sets & more. Affordable elegance, classic & modern styles for every room. Fast free shipping.
+  Updated: 2025-11-27T20:23:57Z
   Total Products: 2897
 - [Cosmos Furniture - Luxurious Home Furnishings | Home Elegance USA](https://homeeleganceusa.com/collections/cosmos-furniture): Discover Cosmos Furniture at Home Elegance USA: Exquisite bedroom, dining, & living room collections that blend international design with modern craftsmanship. Shop at Home Elegance USA
   Updated: 2025-11-25T13:45:20Z
@@ -29328,8 +29328,8 @@ Weight: 216.1 pounds
 - [Zuo Modern - Contemporary Furniture for Home & Office | Home Elegance USA](https://homeeleganceusa.com/collections/zuo-modern): Discover Zuo Modern at Home Elegance USA: Stylish contemporary furniture and lighting for living rooms, dining areas, bedrooms, offices, and outdoor spaces | Home Elegance USA
   Updated: 2025-10-27T17:13:04Z
   Total Products: 414
-- [Bernhardt Furniture – High-End Sofas, Beds & Dining Sets | Home Elegance USA](https://homeeleganceusa.com/collections/bernhardt-furniture): Shop Bernhardt Furniture for designer-quality beds, sofas & dining sets. Elegant materials, modern silhouettes & timeless craftsmanship. Free shipping.
-  Updated: 2025-11-25T13:43:02Z
+- [Bernhardt Furniture – High-End Sofas, Beds & Dining Sets](https://homeeleganceusa.com/collections/bernhardt-furniture): Shop Bernhardt Furniture for designer-quality beds, sofas & dining sets. Elegant materials, modern silhouettes & timeless craftsmanship. Free shipping.
+  Updated: 2025-11-27T20:27:11Z
   Total Products: 1317
 - [Jonathan Adler Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/jonathan-adler): - Home Elegance USA
   Updated: 2025-04-28T23:27:09Z
@@ -29437,7 +29437,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T20:37:20Z
   Total Products: 27
 - [Offers Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/offers): Discover amazing deals and limited-time offers at Home Elegance USA. Save big on high-quality furniture, decor, and more.
-  Updated: 2025-11-26T09:00:40Z
+  Updated: 2025-11-27T09:00:16Z
   Total Products: 1456
 - [Massage Chairs – Full Body & Zero Gravity Recliners | Home Elegance](https://homeeleganceusa.com/collections/massage-chairs): Shop massage chairs with full-body relief, zero gravity recline, and advanced features. Perfect for living rooms, offices, and wellness spaces.
   Updated: 2025-11-25T12:34:59Z
@@ -29539,7 +29539,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-26T18:54:46Z
   Total Products: 2335
 - [Platform Beds – Modern & Upholstered Low-Profile Frames | Home Elegance USA](https://homeeleganceusa.com/collections/platform-beds): Shop platform beds with sleek low profiles, storage options, and upholstered finishes. Perfect for modern bedrooms. Free shipping nationwide.
-  Updated: 2025-11-25T20:34:59Z
+  Updated: 2025-11-27T09:00:15Z
   Total Products: 355
 - [Storage Beds – Modern, Upholstered & Platform Options | Home Elegance USA](https://homeeleganceusa.com/collections/storage-beds): Shop storage beds with built-in drawers and hidden compartments. Modern, upholstered, and platform designs that maximize bedroom space and style. Free shipping.
   Updated: 2025-11-25T20:49:53Z
@@ -29578,7 +29578,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T20:38:41Z
   Total Products: 651
 - [Casual Dining Sets – 3 to 7-Piece Tables & Chairs for Everyday Dining](https://homeeleganceusa.com/collections/casual-dining-sets): Shop Casual Dining Sets in 3 to 7-piece options. Perfect for everyday meals, apartments, and breakfast nooks. Styles include modern, rustic, and farmhouse.
-  Updated: 2025-11-25T20:39:33Z
+  Updated: 2025-11-27T09:00:16Z
   Total Products: 425
 - [Standard Height Dining Chairs Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/standard-height-dining-chairs): Shop Standard Height Dining Chairs on sale at Home Elegance USA. Find comfortable and stylish standard height dining chairs for your dining room.
   Updated: 2025-11-25T18:09:49Z
@@ -30086,7 +30086,7 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-11-25T20:40:05Z
   Total Products: 47
 - [Queen Size Beds – Modern & Traditional Bedroom Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/queen-size-bed): Shop queen size beds in wood, upholstered, and storage designs. Modern, rustic, glam, and classic styles built for comfort and durability. Free U.S. nationwide shipping.
-  Updated: 2025-11-25T20:49:57Z
+  Updated: 2025-11-27T09:00:15Z
   Total Products: 1126
 - [BH Design](https://homeeleganceusa.com/collections/bh-design): Elevate your home with BH Design’s modern, a premier designer and manufacturer of high-quality contemporary furniture—stylish sectionals, sofas, bedroom sets, and dining pieces crafted for comfort & durability.
   Updated: 2025-09-12T16:26:13Z
@@ -30144,14 +30144,26 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-06-30T13:38:48Z
 - [About Us - Home Elegance Furniture](https://homeeleganceusa.com/pages/about-us): Welcome to Home Elegance Furniture At Home Elegance Furniture, we believe that your home should reflect your unique style and taste. With over 15 y...
   Updated: 2025-11-26T18:23:24Z
-- [Return Policy](https://homeeleganceusa.com/pages/return-policy): Thank you for choosing Home Elegance USA! We want to ensure a positive shopping experience. Here's our return and refund policy: Returns: Return Wi...
-  Updated: 2025-05-12T04:51:05Z
+- [Return Policy](https://homeeleganceusa.com/pages/return-policy): Thank you for choosing Home Elegance Furniture! We want to ensure a positive shopping experience. Here's our return and refund policy: Returns: Ret...
+  Updated: 2025-11-27T14:31:05Z
 - [Shop by Brand](https://homeeleganceusa.com/pages/shop-by-brand)
   Updated: 2025-05-26T08:14:57Z
 - [Quote cart](https://homeeleganceusa.com/pages/sk-quote-cart)
   Updated: 2025-07-24T18:50:46Z
 - [Quote history](https://homeeleganceusa.com/pages/sk-quote-history)
   Updated: 2025-07-24T18:50:46Z
+- [html sitemap products](https://homeeleganceusa.com/pages/html-sitemap-products): Products Tienen TV Stand Tienen Media Center Flynnter TV stand with Electri... Allura Bedroom Set | Homelegan... Altari Alloy Sofa And Loveseat... ...
+  Updated: 2025-11-27T20:51:35Z
+- [html sitemap products](https://homeeleganceusa.com/pages/html-sitemap-products-1): Products Modrest Bryan Modern Grey Nigh... Modrest Pyrite Modern Round Gl... Modrest Condor Modern Brown Di... Modrest Larson Modern White Le... No...
+  Updated: 2025-11-27T20:51:36Z
+- [html sitemap products](https://homeeleganceusa.com/pages/html-sitemap-products-2): Products Smart 6 Piece King Bedroom Set... Smart Double Dresser With Mirr... Smart Chest In White - Smartch... Smart Double Dresser In White ... Sm...
+  Updated: 2025-11-27T20:51:37Z
+- [html sitemap products](https://homeeleganceusa.com/pages/html-sitemap-products-3): Products Treviso California King Bed In... Treviso 4 Piece Eastern King B... Treviso Queen Bed In White - T... Treviso 5 Piece Queen Bedroom ... Tr...
+  Updated: 2025-11-27T20:51:38Z
+- [html sitemap products](https://homeeleganceusa.com/pages/html-sitemap-products-4): Products Coral Velvet Swivel Counter St... Owen Velvet Dining Chair Set O... Owen Velvet Dining Chair Set O... Owen Velvet Dining Chair Set O... Ow...
+  Updated: 2025-11-27T20:51:39Z
+- [html sitemap products](https://homeeleganceusa.com/pages/html-sitemap-products-5): Products Infinity 10 Piece Modular Sect... Infinity 10 Piece Modular Sect... Infinity 10 Piece Modular Sect... Infinity 10 Piece Modular Sect... In...
+  Updated: 2025-11-27T20:51:39Z
 
 ## Policies
 
