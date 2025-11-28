@@ -6,47 +6,47 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-27T20:00:34.235Z
+- Updated At: 2025-11-28T04:00:32.238Z
 
 ## Products
 
 - [Vanilla Sugar Whipped Soap - 64 oz](https://affinatiliving.com/products/whipped-soap-vanilla-sugar): Indulge in Vanilla Sugar whipped soap—rich, fluffy lather with sweet vanilla and warm sugar notes for a luxurious cleanse that leaves skin soft and deliciously scented.
-  Updated: 2025-11-27T13:36:08Z
+  Updated: 2025-11-28T01:25:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_26_2025_at_06_28_11_PM.png?v=1764249931
   Price: $59.95 USD
 - [Lavender Dream Whipped Soap - 64 oz](https://affinatiliving.com/products/whipped-soap-lavender-dream): Relax and unwind with Lavender Dream whipped soap—soft, creamy lather infused with calming lavender for a soothing cleanse that leaves skin silky smooth.
-  Updated: 2025-11-27T13:35:04Z
+  Updated: 2025-11-28T01:24:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_26_2025_at_06_30_05_PM.png?v=1764249931
   Price: $59.95 USD
 - [Coffee Beans Whipped Soap - 64 oz](https://affinatiliving.com/products/whipped-soap-coffee-beans): Wake up your skin with Coffee Beans whipped soap—rich, creamy lather infused with the warm, energizing aroma of freshly brewed coffee for a luxurious cleanse.
-  Updated: 2025-11-27T13:34:06Z
+  Updated: 2025-11-28T01:27:30Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_26_2025_at_06_19_27_PM.png?v=1764249927
   Price: $59.95 USD
 - [Mint Eucalyptus Whipped Soap - 64 oz](https://affinatiliving.com/products/whipped-soap-mint-eucalyptus): Invigorate your shower with Mint Eucalyptus whipped soap—cooling mint and refreshing eucalyptus in a creamy, skin-softening cleanse that awakens your senses.
-  Updated: 2025-11-27T13:33:08Z
+  Updated: 2025-11-28T01:24:14Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_26_2025_at_06_32_18_PM.png?v=1764249927
   Price: $59.95 USD
 - [Ocean Breeze Whipped Soap - 64 oz](https://affinatiliving.com/products/whipped-soap-ocean-breeze): Refresh your senses with Ocean Breeze whipped soap—light, creamy, and infused with a crisp, clean coastal scent. Gently cleanses and leaves skin soft and nourished.
-  Updated: 2025-11-27T13:30:50Z
+  Updated: 2025-11-28T01:24:13Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_26_2025_at_06_21_49_PM.png?v=1764249928
   Price: $59.95 USD
 - [Champagne Toast Whipped Soap - 64 oz](https://affinatiliving.com/products/whipped-soap-champagne): Treat your skin to our Champagne Toast whipped soap—light, fluffy, and bursting with bubbly, sweet citrus and berry notes. A luxurious cleanse with irresistible fragrance.
-  Updated: 2025-11-27T13:29:04Z
+  Updated: 2025-11-28T01:24:12Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5905,7 +5905,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Spiked Eggnog Original Candle](https://affinatiliving.com/products/spiked-eggnog-original-candle): Fill your home with the festive aroma of our Spiked Eggnog Original Candle — a creamy blend of vanilla, nutmeg, cinnamon, and bourbon in a premium soy wax candle that brings cozy holiday warmth to every room.
-  Updated: 2025-11-27T15:58:23Z
+  Updated: 2025-11-28T03:58:31Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6430,7 +6430,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/1389753D-34D2-44D6-B5B3-AD3112AACC60.png?v=1763303458
   Price: $8.95 USD
 - [Mint & Basil Balance Bar Soap](https://affinatiliving.com/products/mint-basil-balance-bar-soap): Herbal basil and cool mint restore freshness and hydration with a creamy, botanical cleanse.
-  Updated: 2025-11-23T14:11:28Z
+  Updated: 2025-11-27T22:04:01Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7107,77 +7107,77 @@
   Availability: Not Available
   Price: $0.00 USD
 - [Clean Cotton Whipped Soap - 64 oz](https://affinatiliving.com/products/clean-cotton-whipped-soap-64-oz): Clean Cotton whipped soap in a spacious 64 oz size. Fresh, airy, and crisp with a soft whipped texture. The largest whipped soap size available.
-  Updated: 2025-11-27T13:37:53Z
+  Updated: 2025-11-28T02:24:06Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_27_2025_at_07_33_21_AM.png?v=1764249931
   Price: $59.95 USD
 - [Cinnamon Swirl Whipped Soap - 64 oz](https://affinatiliving.com/products/cinnamon-swirl-whipped-soap-64-oz): Cinnamon Swirl whipped soap in a large 64 oz jar. Warm, cozy, bakery-sweet fragrance with a rich whipped feel. Biggest whipped soap size available.
-  Updated: 2025-11-27T13:39:32Z
+  Updated: 2025-11-28T01:39:25Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_27_2025_at_07_53_00_AM.png?v=1764249931
   Price: $59.95 USD
 - [Rosemary Mint Whipped Soap - 64 oz](https://affinatiliving.com/products/rosemary-mint-whipped-soap-64-oz): Rosemary Mint whipped soap in a huge 64 oz jar. Refreshing, herbal, and spa-like. Enjoy the biggest whipped soap size on the market.
-  Updated: 2025-11-27T13:42:47Z
+  Updated: 2025-11-28T01:42:47Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_27_2025_at_07_48_15_AM.png?v=1764249931
   Price: $59.95 USD
 - [Birthday Cake Whipped Soap - 64 oz](https://affinatiliving.com/products/birthday-cake-whipped-soap-64-oz): Birthday Cake whipped soap in a massive 64 oz size. Sweet, fun, and frosting-filled aroma. The biggest whipped soap size on the market.
-  Updated: 2025-11-27T13:44:52Z
+  Updated: 2025-11-28T01:44:55Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_27_2025_at_07_48_00_AM.png?v=1764249930
   Price: $59.95 USD
 - [Blackberry Sage Whipped Soap - 64 oz](https://affinatiliving.com/products/blackberry-sage-whipped-soap-64-oz): Blackberry Sage whipped soap in a huge 64 oz jar. Fruity, herbal, and refreshing. Enjoy the biggest whipped soap size on the market.
-  Updated: 2025-11-27T13:46:23Z
+  Updated: 2025-11-28T01:46:30Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_27_2025_at_07_48_10_AM.png?v=1764249929
   Price: $59.95 USD
 - [Strawberry Banana Whipped Soap - 64 oz](https://affinatiliving.com/products/strawberry-banana-whipped-soap-64-oz): Strawberry Banana whipped soap in a large 64 oz jar. Sweet, fruity smoothie scent. Our 64 oz jar is the biggest whipped soap on the market.
-  Updated: 2025-11-27T13:48:37Z
+  Updated: 2025-11-28T01:48:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_27_2025_at_08_21_14_AM.png?v=1764249931
   Price: $59.95 USD
 - [Hawaiian Hibiscus Whipped Soap - 64 oz](https://affinatiliving.com/products/hawaiian-hibiscus-whipped-soap-64-oz): Bright Hawaiian Hibiscus whipped soap in a massive 64 oz jar. Tropical, uplifting, and luxurious. The biggest whipped soap size on the market.
-  Updated: 2025-11-27T13:50:12Z
+  Updated: 2025-11-28T01:50:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_27_2025_at_07_37_32_AM.png?v=1764249931
   Price: $59.95 USD
 - [Peppermint Swirl Whipped Soap - 64 oz](https://affinatiliving.com/products/peppermint-swirl-whipped-soap-64-oz): Peppermint Swirl whipped soap in a generous 64 oz jar. Cool, minty, and sweet. The largest whipped soap size available.
-  Updated: 2025-11-27T13:52:30Z
+  Updated: 2025-11-28T01:51:35Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_27_2025_at_07_26_22_AM.png?v=1764249931
   Price: $59.95 USD
 - [Frosted Gingerbread Whipped Soap - 64 oz](https://affinatiliving.com/products/frosted-gingerbread-whipped-soap-64-oz): Frosted Gingerbread whipped soap in a huge 64 oz size. Warm holiday bakery aroma. Enjoy the biggest whipped soap size on the market.
-  Updated: 2025-11-27T13:52:48Z
+  Updated: 2025-11-28T01:52:58Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_27_2025_at_08_21_10_AM.png?v=1764249930
   Price: $59.95 USD
 - [Coconut Dream Whipped Soap - 64 oz](https://affinatiliving.com/products/coconut-dream-whipped-soap-64-oz): Coconut Dream whipped soap in a massive 64 oz jar. Creamy tropical coconut aroma. Our 64 oz is the largest whipped soap size sold.
-  Updated: 2025-11-27T13:53:50Z
+  Updated: 2025-11-28T01:54:01Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_27_2025_at_08_21_05_AM.png?v=1764249926
   Price: $59.95 USD
 - [3-Wick Ivory Woods Candle](https://affinatiliving.com/products/3-wick-ivory-woods-candle): A clean, calming scent. Our Ivory Woods 3-Wick Candle blends sandalwood, cedar, and vanilla musk for a soft, elegant, long-lasting home fragrance.
-  Updated: 2025-11-27T15:52:51Z
+  Updated: 2025-11-28T03:52:43Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -7192,7 +7192,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Ivory Woods Signature Candle](https://affinatiliving.com/products/ivory-woods-signature-candle): A warm, elegant fragrance. Ivory Woods blends cashmere woods, amber, and ivory musk for a soft, woodsy scent in a clean-burning 10 oz Signature Candle.
-  Updated: 2025-11-27T15:56:15Z
+  Updated: 2025-11-28T03:56:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7207,7 +7207,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Ivory Woods Original Candle](https://affinatiliving.com/products/ivory-woods-original-candle): A warm, calming scent. Our Ivory Woods Candle blends sandalwood, amber, cedarwood, and vanilla for a smooth, refined fragrance in a classic 10 oz tumbler.
-  Updated: 2025-11-27T15:59:23Z
+  Updated: 2025-11-28T03:58:01Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -9100,6 +9100,10 @@
     Updated: 2025-11-26T02:07:37Z
     Author: Affinati
     Tags: fitness, health, healthy living, mental wellness, natural wellness solutions, wellness, wellness routine ideas, wellness tips
+  - [Beginner's Checklist to Start Your Wellness Journey](https://affinatiliving.com/blogs/affinati-articles/beginners-checklist-to-start-your-wellness-journey): Beginner's Checklist to Start Your Wellness Journey
+    Updated: 2025-11-28T01:35:01Z
+    Author: Affinati
+    Tags: balance, beginner wellness journey, health, how to start wellness, mindfulness practices, self-care strategies, wellness, wellness tips
 
 ## Store Pages
 
