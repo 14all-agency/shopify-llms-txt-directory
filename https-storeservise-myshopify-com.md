@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-10-02T13:08:01Z
 - Contact Email: deibiortizcruz93@gmail.com
-- Updated At: 2025-11-27T00:01:40.420Z
+- Updated At: 2025-11-28T00:01:50.971Z
 
 ## Products
 
