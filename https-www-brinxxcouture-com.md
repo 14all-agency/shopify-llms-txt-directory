@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-11-27T00:00:46.891Z
+- Updated At: 2025-11-28T00:00:46.825Z
 
 ## Products
 
@@ -639,7 +639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Puff-Sleeve-Shawl-Collar-Blazer-Brinxx-Couture-6013.jpg?v=1739988534
     Price: $54.00 USD
 - [Side Slit Drop Shoulder Sweatshirt - Brinxx Couture](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt): Stay stylish while staying comfy with this chic Side Slit Drop Shoulder Sweatshirt. Featuring a unique design with a dramatic side slit, this cozy garment is perfect for everyday wear and special occasions. Its drop shoulder cut ensures maximum comfort and freedom of movement.
-  Updated: 2025-11-26T10:47:10Z
+  Updated: 2025-11-27T07:00:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -4574,7 +4574,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Halter-Neck-Crisscross-Ribbed-Bikini-Set-Brinxx-Couture-4208.jpg?v=1709321618
     Price: $22.00 USD
 - [Halter Neck Fishnet Bikini Set](https://www.brinxxcouture.com/products/halter-neck-fishnet-bikini-set): Top type: No underwire Number of pieces: Two Chest pad: Removable padding Pattern type: Solid Style: Tropical, Beach Features: Crisscross Material composition: 82% polyester, 18% elastane Stretch: Highly stretchy Care instructions: Hand wash cold. Do not tumble dry. Imported Product measurements: S: bust 31-33 in, waist 24-26 in, hip 34-35 inM: bust 33-35 in, waist 26-28 in, hip 35-37 inL: bust 35-37 in, waist 28-30 in, hip 37-39 in
-  Updated: 2025-10-29T15:00:03Z
+  Updated: 2025-11-27T02:22:10Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -7847,7 +7847,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Turtle-Neck-Long-Sleeve-Ribbed-Sweater-Dress-Brinxx-Couture-5587.jpg?v=1709844865
     Price: $50.00 USD
 - [Plaid Collared Flounce Sleeve Shirt Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress): This Plaid Collared Neck Flounce Sleeve Shirt Dress is the epitome of fashion. Perfect for day or night, its timeless plaid pattern is equipped with a collared neckline.
-  Updated: 2025-11-25T23:33:01Z
+  Updated: 2025-11-27T00:20:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -7913,7 +7913,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cutout-Long-Sleeve-Pencil-Dress-Brinxx-Couture-8363.jpg?v=1709845603
     Price: $27.00 USD
 - [Printed V-Neck Long Sleeve Mini Dress - Brinxx Couture](https://www.brinxxcouture.com/products/printed-v-neck-long-sleeve-mini-dress): Stand out from the crowd with this beautiful Printed V-Neck Long Sleeve Mini Dress! Crafted from luxuriously soft material, this dress was designed to flatter your figure.
-  Updated: 2025-11-25T03:00:43Z
+  Updated: 2025-11-27T10:00:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8180,7 +8180,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-11-26T15:00:45Z
+  Updated: 2025-11-27T14:21:15Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10576,7 +10576,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Mock-Neck-Long-Sleeve-Dress-Brinxx-Couture-8501.jpg?v=1709863683
     Price: $44.99 USD
 - [Cable-Knit Long Sleeve Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-long-sleeve-sweater-dress): Our Cable-Knit Long Sleeve Sweater Dress offers ultra-luxury and timeless sophistication! The cable-knit design and cozy long sleeves will make you look effortlessly chic.
-  Updated: 2025-11-22T15:33:45Z
+  Updated: 2025-11-27T05:59:15Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10634,15 +10634,15 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Long-Sleeve-Sweater-Dress-Brinxx-Couture-3087.jpg?v=1709863772
     Price: $44.99 USD
   - [Matcha Green / M](https://www.brinxxcouture.com/products/cable-knit-long-sleeve-sweater-dress?variant=42451354222774)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Long-Sleeve-Sweater-Dress-Brinxx-Couture-3087.jpg?v=1709863772
     Price: $44.99 USD
   - [Matcha Green / L](https://www.brinxxcouture.com/products/cable-knit-long-sleeve-sweater-dress?variant=42451354255542)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Long-Sleeve-Sweater-Dress-Brinxx-Couture-3087.jpg?v=1709863772
     Price: $44.99 USD
   - [Matcha Green / XL](https://www.brinxxcouture.com/products/cable-knit-long-sleeve-sweater-dress?variant=42451354288310)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Long-Sleeve-Sweater-Dress-Brinxx-Couture-3087.jpg?v=1709863772
     Price: $44.99 USD
 - [Printed Tie Front Collared Neck Slit Shirt Dress - Brinxx Couture](https://www.brinxxcouture.com/products/printed-tie-front-collared-neck-slit-shirt-dress): This Printed Tie Front Collared Neck Slit Shirt Dress will make your style stand out. It features a collared neckline, tie front, and slit hem.
@@ -12132,7 +12132,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Long-Sleeve-Maxi-Bodycon-Dress-Brinxx-Couture-431.jpg?v=1709870644
     Price: $29.99 USD
 - [Fringe Trim Lapel Collar Cropped Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer): This stylish cropped blazer is the perfect pick for any event. Featuring a fringe trim lapel collar and an asymmetric and open-front design.
-  Updated: 2025-11-24T01:20:56Z
+  Updated: 2025-11-27T06:21:05Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12142,7 +12142,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / M](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799499958)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / L](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799532726)
@@ -14170,7 +14170,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Dolce-Gabbana-Light-Blue-Brinxx-Couture-7839.jpg?v=1709876298
     Price: $134.00 USD
 - [Black Slit Midi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/pu-slit-midi-dress): Introducing our Black Slit Midi Dress - the perfect addition to your wardrobe. Made from high-quality PU material, this dress offers both style and durability.
-  Updated: 2025-11-19T05:45:56Z
+  Updated: 2025-11-27T21:40:16Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -14681,7 +14681,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Floral-V-Neck-Drawstring-Peplum-Blouse-Brinxx-Couture-1680.jpg?v=1709880019
     Price: $25.00 USD
 - [David Jones PU Leather Crossbody Bag - Brinxx Couture](https://www.brinxxcouture.com/products/david-jones-pu-leather-crossbody-bag): Expertly crafted from high-quality PU leather, the David Jones Crossbody Bag offers a sleek and stylish way to carry your essentials. With its durable design and spacious interior.
-  Updated: 2025-10-31T10:42:11Z
+  Updated: 2025-11-27T00:12:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16279,7 +16279,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Openwork-Color-Block-Plunge-Cover-Up-Brinxx-Couture-6527.jpg?v=1712073394
     Price: $30.00 USD
 - [Scoop Neck Spaghetti Strap Two-Piece Swim Set - Brinxx Couture](https://www.brinxxcouture.com/products/scoop-neck-spaghetti-strap-two-piece-swim-set): Dive into style and confidence with our Scoop Neck Spaghetti Strap Two-Piece Swim Set! Show off your curves and make a splash with this chic and comfortable swimsuit.
-  Updated: 2025-11-26T03:01:05Z
+  Updated: 2025-11-27T00:21:11Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16866,7 +16866,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Backless-Cowl-Neck-Sleeveless-Cami-Dress-Brinxx-Couture-8187.jpg?v=1730294572
     Price: $25.00 USD
 - [Ruched V-Neck Sleeveless Romper](https://www.brinxxcouture.com/products/ruched-v-neck-sleeveless-romper): Features: Ruched Sheer: Opaque Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Size US Top Length Bust Waist HIP Shoulder S 4 31.1 37.4 29.5 39.4 13.4 M 6/8 31.6 39 31.1 40.9 13.8 L 10/12 32.3 41.3 33.5 43.3 14.2 XL 14 33 43.7 35.8 45.7 14.6
-  Updated: 2025-11-26T03:01:07Z
+  Updated: 2025-11-27T09:20:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -18615,7 +18615,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sexy-Satin-Slip-Sleeveless-Backless-Maxi-Dress-Brinxx-Couture-5442.webp?v=1730294836
     Price: $25.00 USD
 - [David Jones Quilted PU Leather Handbag - Brinxx Couture](https://www.brinxxcouture.com/products/david-jones-quilted-pu-leather-handbag): Upgrade your style with the luxurious David Jones Quilted PU Leather Handbag. Crafted with high-quality materials, this handbag exudes elegance.
-  Updated: 2025-11-26T04:40:02Z
+  Updated: 2025-11-27T00:12:05Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -20874,7 +20874,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Crochet-Flower-Button-Up-Cardigan-Brinxx-Couture-9388.jpg?v=1730296211
     Price: $49.00 USD
 - [Striped Round Neck Long Sleeve Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/striped-round-neck-long-sleeve-sweater): Wrap yourself in style and comfort with our Striped Round Neck Long Sleeve Sweater. Made from soft and breathable fabric, this sweater features a round neck.
-  Updated: 2025-11-26T03:21:06Z
+  Updated: 2025-11-27T07:20:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -20994,7 +20994,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Round-Neck-Top-and-Shorts-Set-Brinxx-Couture-1381.jpg?v=1730296298
     Price: $25.00 USD
 - [Tied Pleated Printed Cap Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tied-pleated-printed-cap-sleeve-dress): Get ready to take on the day in style with our Tied Pleated Printed Cap Sleeve Dress! This fun and flirty dress feature cap sleeves and a playful, pleated design.
-  Updated: 2025-11-26T02:00:47Z
+  Updated: 2025-11-27T08:00:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21349,7 +21349,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Long-Sleeve-Top-and-Pants-Lounge-Set-Brinxx-Couture-9593.jpg?v=1730296620
     Price: $45.00 USD
 - [Drawstring Long Sleeve Top and Shorts Lounge Set - Brinxx Couture](https://www.brinxxcouture.com/products/drawstring-long-sleeve-top-and-shorts-lounge-set): Experience ultimate comfort and style with our Drawstring Long Sleeve Top and Shorts Lounge Set. The drawstring design allows for a perfect fit.
-  Updated: 2025-11-21T20:00:47Z
+  Updated: 2025-11-27T16:21:20Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -22515,7 +22515,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-11-26T23:41:35Z
+  Updated: 2025-11-27T23:20:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -24900,13 +24900,13 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Bootcut-Jeans-with-Pockets-Brinxx-Couture-7209.jpg?v=1733888444
     Price: $35.00 USD
 - [Mock Neck Lace Long Sleeve Blouse - Brinxx Couture](https://www.brinxxcouture.com/products/mock-neck-lace-long-sleeve-blouse): Elevate your style with our Mock Neck Lace Long Sleeve Blouse. The delicate lace and flattering mock neck are perfect for day to night. Free Shipping!
-  Updated: 2025-11-26T03:21:02Z
+  Updated: 2025-11-27T07:20:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Lace-Long-Sleeve-Blouse-Brinxx-Couture-246.jpg?v=1730300529
   - [Black / S](https://www.brinxxcouture.com/products/mock-neck-lace-long-sleeve-blouse?variant=43531889574070)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Lace-Long-Sleeve-Blouse-Brinxx-Couture-246.jpg?v=1730300529
     Price: $29.99 USD
   - [Black / M](https://www.brinxxcouture.com/products/mock-neck-lace-long-sleeve-blouse?variant=43531889606838)
@@ -24965,7 +24965,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-11-26T08:21:00Z
+  Updated: 2025-11-27T10:00:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -29516,30 +29516,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01rhAwK227EQQJhcBfd__2216756867765-0-cib.jpg?v=1739902455
     Price: $49.99 USD
-- [Pointed Gradient Stiletto Heels - Brinxx Couture](https://www.brinxxcouture.com/products/pointed-gradient-stiletto-heels): The Pointed Gradient Stiletto Heels elevate your style with its sleek design. Made with a pointed toe and gradient stiletto heel. Confidently walk in these
-  Updated: 2025-10-29T14:39:20Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN012LlcY21zKMP8eerQq__2209275056695-0-cib.jpg?v=1739915393
-  - [37 / Black](https://www.brinxxcouture.com/products/pointed-gradient-stiletto-heels?variant=43791233384630)
-    Availability: Available
-    Price: $69.99 USD
-  - [38 / Black](https://www.brinxxcouture.com/products/pointed-gradient-stiletto-heels?variant=43791233417398)
-    Availability: Available
-    Price: $69.99 USD
-  - [39 / Black](https://www.brinxxcouture.com/products/pointed-gradient-stiletto-heels?variant=43791233450166)
-    Availability: Available
-    Price: $69.99 USD
-  - [40 / Black](https://www.brinxxcouture.com/products/pointed-gradient-stiletto-heels?variant=43791233482934)
-    Availability: Available
-    Price: $69.99 USD
-  - [41 / Black](https://www.brinxxcouture.com/products/pointed-gradient-stiletto-heels?variant=43791233515702)
-    Availability: Available
-    Price: $69.99 USD
-  - [42 / Black](https://www.brinxxcouture.com/products/pointed-gradient-stiletto-heels?variant=43791233548470)
-    Availability: Available
-    Price: $69.99 USD
 - [Pointed Toe Rhinestone Square Buckle Flats - Brinxx Couture](https://www.brinxxcouture.com/products/pointed-toe-rhinestone-square-buckle-flats): Elevate your style with our Pointed Toe Rhinestone Square Buckle Flats. These sleek and sophisticated shoes feature a pointed toe with a sparkling square buckle
   Updated: 2025-10-29T14:39:21Z
   Vendor: Brinxx Couture
@@ -30322,7 +30298,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01bNTGeW1clAh8901QA__2214330513640-0-cib.jpg?v=1740769583
     Price: $149.99 USD
 - [Ruched Cowl Neck Top and Maxi Skirt Set - Brinxx Couture](https://www.brinxxcouture.com/products/ruched-cowl-neck-top-and-maxi-skirt-set): Unleash your inner risk-taker in our Ruched Cowl Neck Top and Maxi Skirt Set! Made with a stunning ruched cowl neckline and matching maxi skirt. Free Shipping!
-  Updated: 2025-09-15T17:47:21Z
+  Updated: 2025-11-27T06:34:34Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -30916,7 +30892,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01SSme5Z1uPKuVgjm6A__2652346029-0-cib.jpg?v=1743194313
     Price: $54.99 USD
 - [Square Neck Wide Strap Midi Tank Dress - Brinxx Couture](https://www.brinxxcouture.com/products/square-neck-wide-strap-midi-tank-dress): This midi tank dress boasts a flattering square neck and wide straps, perfect for any occasion. The timeless design adds a touch of sophistication to your wardrobe.
-  Updated: 2025-11-26T07:00:40Z
+  Updated: 2025-11-27T01:20:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -32038,140 +32014,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01Crwoxs2Nfw8m5Plbx__2218307269991-0-cib.jpg?v=1746797682
     Price: $49.99 USD
-- [Stiletto Open Toe Sandals Heels - Brinxx Couture](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels): Elevate your look with our Stiletto Open Toe Sandals Heels. With their sleek design and sharp stiletto heel, these sandals are the epitome of luxury.
-  Updated: 2025-10-26T23:54:03Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01cLEOHW1zKMMdtLZ5b__2209275056695-0-cib.jpg?v=1746798042
-  - [35 / Black](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973200609462)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01nzVa3P1zKMMdvfANr__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [36 / Black](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973200642230)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01nzVa3P1zKMMdvfANr__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [37 / Black](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973200674998)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01nzVa3P1zKMMdvfANr__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [38 / Black](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973200707766)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01nzVa3P1zKMMdvfANr__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [39 / Black](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973200740534)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01nzVa3P1zKMMdvfANr__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [40 / Black](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973200773302)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01nzVa3P1zKMMdvfANr__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [41 / Black](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973200806070)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01nzVa3P1zKMMdvfANr__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [42 / Black](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973200838838)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01nzVa3P1zKMMdvfANr__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [35 / Blue](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973200871606)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01lmo9Pd1zKMMhnvpki__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [36 / Blue](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973200904374)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01lmo9Pd1zKMMhnvpki__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [37 / Blue](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973200937142)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01lmo9Pd1zKMMhnvpki__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [38 / Blue](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973200969910)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01lmo9Pd1zKMMhnvpki__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [39 / Blue](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201002678)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01lmo9Pd1zKMMhnvpki__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [40 / Blue](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201035446)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01lmo9Pd1zKMMhnvpki__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [41 / Blue](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201068214)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01lmo9Pd1zKMMhnvpki__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [42 / Blue](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201100982)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01lmo9Pd1zKMMhnvpki__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [35 / Apricot](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201133750)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01qcehUL1zKMMUzH5ZI__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [36 / Apricot](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201166518)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01qcehUL1zKMMUzH5ZI__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [37 / Apricot](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201199286)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01qcehUL1zKMMUzH5ZI__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [38 / Apricot](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201232054)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01qcehUL1zKMMUzH5ZI__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [39 / Apricot](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201264822)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01qcehUL1zKMMUzH5ZI__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [40 / Apricot](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201297590)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01qcehUL1zKMMUzH5ZI__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [41 / Apricot](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201330358)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01qcehUL1zKMMUzH5ZI__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [42 / Apricot](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201363126)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01qcehUL1zKMMUzH5ZI__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [35 / Pink](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201395894)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ey720n1zKMMdvZG8t__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [36 / Pink](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201428662)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ey720n1zKMMdvZG8t__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [37 / Pink](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201461430)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ey720n1zKMMdvZG8t__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [38 / Pink](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201494198)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ey720n1zKMMdvZG8t__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [39 / Pink](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201526966)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ey720n1zKMMdvZG8t__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [40 / Pink](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201559734)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ey720n1zKMMdvZG8t__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [41 / Pink](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201592502)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ey720n1zKMMdvZG8t__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
-  - [42 / Pink](https://www.brinxxcouture.com/products/stiletto-open-toe-sandals-heels?variant=43973201625270)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ey720n1zKMMdvZG8t__2209275056695-0-cib.jpg?v=1746798042
-    Price: $59.99 USD
 - [Scoop Neck Short Puff Sleeve Top - Brinxx Couture](https://www.brinxxcouture.com/products/scoop-neck-short-puff-sleeve-top): This Scoop Neck Short Puff Sleeve Top exudes effortless sophistication. The delicate scoop neckline and charming puff sleeves provide a touch of femininity.
   Updated: 2025-10-01T22:51:35Z
   Vendor: Brinxx Couture
@@ -34977,7 +34819,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01Cwotk824VQAss5MwX__2908337396-0-cib.jpg?v=1761313972
     Price: $119.99 USD
 - [Turtleneck Ribbed Knit Sweater Dress | Brinxx Couture](https://www.brinxxcouture.com/products/turtleneck-ribbed-knit-sweater-dress): Cozy turtleneck sweater dress with ribbed knit texture. Soft blend fabric, slightly stretchy, easy care. Perfect for fall and winter style.
-  Updated: 2025-11-18T11:32:27Z
+  Updated: 2025-11-27T21:50:01Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -35416,7 +35258,7 @@
   Updated: 2025-10-02T17:11:56Z
   Total Products: 5
 - [Women's Heels Collection | Stylish & Comfortable Heels Online](https://www.brinxxcouture.com/collections/heels): Shop our Women's Heels Collection for stylish, comfortable, and elegant heels. Perfect for every occasion, from casual outings to formal events. Explore now
-  Updated: 2025-11-18T18:48:43Z
+  Updated: 2025-11-27T05:37:45Z
   Total Products: 28
 - [Comfortable Women’s Flats](https://www.brinxxcouture.com/collections/flats): Discover stylish and comfortable flats for women at Brinxx Couture. Perfect for everyday wear and available in various styles.
   Updated: 2025-10-02T17:11:56Z
