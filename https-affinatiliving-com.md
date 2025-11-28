@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-28T04:00:32.238Z
+- Updated At: 2025-11-28T08:00:33.385Z
 
 ## Products
 
@@ -7222,7 +7222,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Ivory Woods Room Spray](https://affinatiliving.com/products/ivory-woods-room-spray): Refresh any space with our Ivory Woods Room & Linen Spray. A clean, woody blend that adds soft elegance and long-lasting freshness to your home in seconds.
-  Updated: 2025-11-27T16:01:57Z
+  Updated: 2025-11-28T04:02:03Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -7246,14 +7246,14 @@
     Availability: Available
     Price: $29.95 USD
 - [Ivory Woods Reed Diffuser](https://affinatiliving.com/products/ivory-woods-reed-diffuser): Elevate your home with our Ivory Woods Reed Diffuser. Warm sandalwood, cashmere woods, vanilla, and amber create a soft, elegant, long-lasting woody fragrance.
-  Updated: 2025-11-27T16:04:47Z
+  Updated: 2025-11-28T04:47:48Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/11360F79-A874-49F7-8ACB-DC386700AD52.png?v=1764259402
   Price: $17.95 USD
 - [Arctic Cedarwood Room Spray](https://affinatiliving.com/products/arctic-cedarwood-room-spray): Refresh any space with Arctic Cedarwood. A crisp blend of cool cedar, frosted woods, and clean musk creates a long-lasting, modern, and invigorating home fragrance.
-  Updated: 2025-11-27T16:15:08Z
+  Updated: 2025-11-28T04:15:22Z
   Vendor: Affinati
   Product Type: Room & Linen Spray
   Availability: Available
@@ -7277,7 +7277,7 @@
     Availability: Available
     Price: $29.95 USD
 - [3-Wick Arctic Cedarwood Candle](https://affinatiliving.com/products/3-wick-arctic-cedarwood-candle): A fresh, calming scent. Our Arctic Cedarwood 3-Wick Candle blends cool cedar, frosted pine, and eucalyptus for a clean, long-lasting, woodsy home fragrance.
-  Updated: 2025-11-27T16:21:28Z
+  Updated: 2025-11-28T04:17:45Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -7292,7 +7292,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Arctic Cedarwood Original Candle](https://affinatiliving.com/products/arctic-cedarwood-original-candle): Refresh your home with Arctic Cedarwood. Cool cedar, pine, amber, and musk create a clean, invigorating, long-lasting fragrance in this 10 oz soy-blend candle.
-  Updated: 2025-11-27T16:29:27Z
+  Updated: 2025-11-28T04:25:55Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7307,14 +7307,14 @@
     Availability: Available
     Price: $64.95 USD
 - [Arctic Cedarwood Reed Diffuser](https://affinatiliving.com/products/arctic-cedarwood-reed-diffuser): Refresh your home with Arctic Cedarwood. Cool cedar, frosted pine, and soft amber create a clean, invigorating, long-lasting fragrance in this 7.0 fl oz diffuser.
-  Updated: 2025-11-27T17:29:32Z
+  Updated: 2025-11-28T04:28:21Z
   Vendor: Affinati
   Product Type: Reed Diffuser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_27_2025_at_12_07_26_PM.png?v=1764263294
   Price: $17.95 USD
 - [Arctic Cedarwood Signature Candle](https://affinatiliving.com/products/arctic-cedarwood-signature-candle): A crisp, modern scent. Arctic Cedarwood blends cool cedar, frosted pine, amber, and icy musk for a clean, refreshing, long-lasting fragrance in any room.
-  Updated: 2025-11-27T16:41:51Z
+  Updated: 2025-11-28T04:29:51Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
