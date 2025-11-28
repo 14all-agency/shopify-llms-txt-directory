@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-11-27T00:00:32.844Z
+- Updated At: 2025-11-28T00:01:28.727Z
 
 ## Products
 
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/164-ANTI-DARK-CIRCLES-CORRECTIVE-EYE-CREAM-SPF-15-OPTI-ALBUCIN-15-ml-1.png?v=1741428502
   Price: ALL 2,301.60 ALL
 - [ANTIOX VIT C 15% - Amar Pharma - Pharmaceris - Serum Fytyre](https://amar.al/products/antiox-vit-c-15): Pharmaceris Whitening Vitamin C 15% Serum Koncentrati me vitaminë C 15% biologjikisht aktive kontrollon prodhimin e tepërt të melaninës, me një efekt të synuar në reduktimin e çngjyrosjeve ekzistuese dhe promovimin e riparimit natyral të lëkurës. Përveçse kontribuon në mbrojtjen e ADN-së së qelizave të lëkurës, ai minimizon ndikimet e dëmshme të rrezatimit UV, duke reduktuar njollat e shkaktuara nga rrezatimi. Stimulon sintezën e kolagjenit, duke përmirësuar elasticitetin dhe qëndrueshmërinë e lëkurës. Squalane ka veti antioksiduese, duke mbrojtur membranat qelizore nga oksidimi. Në kombinim me vitaminat A dhe E, përshpejton procesin e rinovimit të epidermës, duke zbutur dukshëm strukturën dhe tonin e lëkurës, duke ngadalësuar proceset e plakjes së lëkurës. Përmbajtja e lartë e vajrave në formulë ndihmon në riparimin e funksioneve të dëmtuara të lëkurës, duke dhënë hidratim të menjëhershëm dhe përfitime qetësuese dhe rinovuese. Formula rikthen butësinë dhe shkëlqimin dhe promovon një ton natyral dhe të shëndetshëm të lëkurës. Nuk është i yndyrshëm dhe nuk lë ndjenjën e lëkurës së tendosur Nuk lë ndjesi të yndyrshme ose ngjitëse. Indikacionet Për kujdesin e përditshëm të lëkurës (fytyrë, qafë, dekolte, krahë, duar) me hiperpigmentim, shenja kafe ose ton të pabarabartë. Rekomandohet për llojet e lëkurës së ndjeshme, të thatë dhe të maturuar. I përshtatshëm për lëkurë me mbindjeshmëri ndaj nikelit. Udhëzime mbi përdorimin Përdoreni serumin çdo ditë në mëngjes ose para gjumit, duke e aplikuar në lëkurë të pastër. Përhapeni koncentratin butësisht mbi lëkurë me lëvizje rrethore. - Amar Pharma - Pharmaceris - Serum Fytyre
-  Updated: 2025-11-26T21:40:09Z
+  Updated: 2025-11-27T22:20:12Z
   Vendor: Pharmaceris
   Product Type: Serum Fytyre
   Availability: Available
@@ -200,7 +200,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/159-ANTI-COMEDONE-CREAM-unclogs-and-refines-skin-pores-COMEDO-ACNE-40-ml-1.png?v=1757514773
   Price: ALL 2,359.00 ALL
 - [CORNEO-SENSILIUM - Amar Pharma - Pharmaceris - Krem Fytyre Corneo Sensilium](https://amar.al/products/dermo-regenerating-soothing-cream-face-body-cream-corneo-sensilium-75-ml): Pharmaceris – A Corneo-Sensilium Dermo-Regenerating Soothing Cream Krem i cili ka një veprim korrigjues në epidermën e dëmtuar. Rigjeneron intensivisht lëkurën pas trajtimeve, dëmtimit mikro, irritimit dhe gërvishtjeve. Ka një efekt forcues dhe rikthyes në trashësinë fiziologjike të epidermës. Hidraton lëkurën, duke eleminuar thatësinë e epidermës dhe rivendosjen e ekuilibrit natyror të shtresës mbrojtëse të shtresës-kornesë. Vaji i kërpit ka një efikasitet mjekësor në lehtësimin e irritimit, kruajtjes dhe eritemës. Tolerancë dhe efikasitet të lartë Testuar klinikisht dhe dermatologjikisht Udhëzime mbi përdorimin Kremi duhet të aplikohet 1 ose 2 herë në ditë ose, në varësi të nevojave, në lëkurën e pastruar dhe tharë më parë. - Amar Pharma - Pharmaceris - Krem Fytyre Corneo Sensilium
-  Updated: 2025-11-22T12:47:20Z
+  Updated: 2025-11-27T17:35:41Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
@@ -620,7 +620,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/166-MULTI-SOOTHING-DAY-FACE-CREAM-SPF-30-LIPO-ROSALGIN-30-ml-1.png?v=1757514456
   Price: ALL 2,093.70 ALL
 - [LIPO-SENSILIUM - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/multilipid-nourishing-face-cream-lipo-sensilium-50-ml): Pharmaceris – Lipo-Sensilium Multilipid Nourishing Face Cream Ky krem ​​delikat me një përqendrim të lartë 8.5% dermo-lipidesh ushqen lëkurën dhe rimbush lipidet, duke forcuar shtrese hidro-lipidike epidermal dhe duke formuar një barrierë efektive që mbron lëkurën nga humbja e lagështirës dhe thatësia e tepërt. Acidi hialuronik dhe dylli bimor eleminojnë ndjenjën e lëkurës së thatë dhe të ashpër. Të kombinuara me peptidet riparuese, ato nxisin rigjenerimin e epidermës, duke përmirësuar butësinë dhe elasticitetin e lëkurës. Formula inovative Imuno-Prebiotike e avancuar rregullon funksionin e sistemit imunitar të lëkurës dhe lehtëson irritimet. Stimulon rritjen e mikroflorës mbrojtëse fiziologjike të lëkurës për të ulur mbindjeshmërinë e saj. Parandalon në mënyrë aktive irritimin, skuqjen, kruajtjen dhe djegien, duke promovuar një pamje dhe ndjesi të shëndetshme të lëkurës. Kremi përthithet shpejt dhe nuk kontribuon në bllokimin e poreve apo komedoneve. Është një bazë e shkëlqyer për make-up. Formula imuno-prebiotike – një formulë që lehtëson irritimet dhe kontrollon mbindjeshmërinë e lëkurës. Formula Leukine-Barrier – një formulë që rikthen ekuilibrin e sistemit imunitar të lëkurës dhe qetëson irritimet. 8.5% dermo-lipide – një përbërje e lëndëve ushqyese që nxisin rigjenerimin dhe plotësojnë lagështinë e lëkurës dhe nivelet e lipideve; formojnë një barrierë që mbron lëkurën nga humbja e lagështirës dhe thatësia e tepërt. Udhëzime mbi përdorimin Pastroni lëkurën duke përdorur produkte Pharmaceris A dhe aplikoni kremin. Përdoreni çdo ditë në mëngjes dhe para gjumit. - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-11-18T09:36:19Z
+  Updated: 2025-11-27T18:48:00Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
@@ -1138,7 +1138,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/273-Lirene-Ultra-softening-cream-mask-STOP-CALLUSSNES-FOOT-30REA-75-ml-1.png?v=1737122699
   Price: ALL 445.50 ALL
 - [Lirene VITAMIN ENERGY С+D PRO Concentrated StimuSerum lightening and smoothing 30 ml - Amar Pharma - Lirene - Serum Fytyre](https://amar.al/products/lirene-vitamin-energy-d1-81d-pro-concentrated-stimuserum-lightening-and-smoothing-30-ml-2): NDRIÇIMI DHE RINIMI: përmbajtja optimale e kompleksit të vitaminës Duo C dhe vitaminës Dpro siguron një efekt rigjenerimi në shumë nivele. kompleksi unik skinawake me origjinë natyrale, i pasur me mikroelemente thelbësore, sheqerna dhe vitamina, mbështet proceset e rigjenerimit të qelizave që ndodhin gjatë gjumit. acidi hialuronik me molekulare të lartë lidh ujin në lëkurë, duke hidratuar dhe zbutur thellësi Përdoreni në mëngjes dhe në mbrëmje në fytyrë dhe qafë të pastruar dhe nën sy. Pas përthithjes, aplikoni kremin C+Dpro Vitamin Energy që përputhet me nevojat e lëkurës tuaj. - Amar Pharma - Lirene - Serum Fytyre
-  Updated: 2025-11-26T12:45:02Z
+  Updated: 2025-11-27T03:50:07Z
   Vendor: Lirene
   Product Type: Serum Fytyre
   Availability: Available
@@ -1355,7 +1355,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/79-SUN-PROTECTION-FACE-AND-BODY-CREAM-SPF-50-for-babies-and-children-125-ml-1.png?v=1757514030
   Price: ALL 2,219.00 ALL
 - [PHYSIOPURIC-GEL - Amar Pharma - Pharmaceris - Xhel Pastrues](https://amar.al/products/moisturizing-physiological-cleansing-gel-physiopuric-gel-190-ml): Pharmaceris Moisturizing Physiological Cleansing Gel For The Face and Eyes Ky xhel është përshtatur për nevojat e lëkurës e cila nuk toleron sapunin dhe është jashtëzakonisht e prirur ndaj acarimeve ose është duke u rikuperuar nga trajtimet dermatologjike. Përbërësit Dyll mango – një hidratues i fuqishëm që depërton në shtresat e thella të lëkurës. Mbron epidermën dhe nxit rigjenerimin e saj. Glucam – rrit hidratimin dhe ruan nivelin e saj optimal në epidermë për një kohë të gjatë. Ajo zbut lëkurën dhe rikthen qëndrueshmërinë dhe elasticitetin e humbur. Allantoin – ka një efekt qetësues; sjell lehtësim dhe nxit rigjenerimin e epidermës. D-pantenol – ka efekt qetësues dhe e bën lëkurën më pak të prirur ndaj reaksioneve. Udhëzime mbi përdorimin Një formulë me veprim të dyfishtë – për përdorim me ose pa ujë.Lani fytyrën tuaj me xhel të aplikuar në pëllëmbën e dorës ose në një tampon pambuku.Shpëlajeni me ujë ose hiqni çdo mbetje me anën e tamponit të pambukut. Shmangni çdo kontakt të xhelit me qeskën konjuktivale të konturit të zyve. Përdoreni sa herë që lani fytyrën si pjesë e rutinës tuaj të përditshme të kujdesit të lëkurës. - Amar Pharma - Pharmaceris - Xhel Pastrues
-  Updated: 2025-11-25T21:00:07Z
+  Updated: 2025-11-27T16:10:08Z
   Vendor: Pharmaceris
   Product Type: Xhel Pastrues
   Availability: Available
@@ -1670,7 +1670,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/s.webp?v=1737122946
   Price: ALL 1,455.00 ALL
 - [PROTECTIVE-CORRECTIVE SPF 50+ - IVORY 01 - Amar Pharma - Pharmaceris - Fondatinë](https://amar.al/products/fluid-foundation-spf-50-protective-corrective-sun-correction-01-ivory-30-ml): Pharmaceris – Fluid Foundation Sun-Correction (SPF 50+) Kjo fondatinë rekomandohet për të gjitha llojet e lëkurës, duke përfshirë lëkurat e ndjeshme, të irrituar nga agresorët mjedisorë (foto-alergjitë) dhe procedurat e mjekësisë estetike, trajtimi me lazer ose peeling. Rekomandohet për njerëzit e prirur ose në rrezik të depigmentimeve së lëkurës (p.sh. kur marrin medikamente të caktuara, në rast të kushteve inflamatore ose shtatzënisë) dhe njerëzit që vuajnë nga vitiligo. Fondatina e specializuar fluide ofron nivelin më të lartë të mbrojtjes kundër rrezatimit diellor dhe parandalon në mënyrë efektive përkeqësimin e depigmentimeve ekzistuese dhe shfaqjen e të rejave. Pigmentet e mikronizuara fshehin në mënyrë të përkryer çdo papërsosmëri të lëkurës, duke siguruar mbulim afatgjatë dhe duke i dhënë lëkurës një strukturë të njëtrajtshme dhe një tonalitet të shëndetshëm. Formula inovative Leukine Barrier me veti imunostimuluese zbut irritimet e shkaktuara nga agresorët e mjedisit. Ekstrakti qetësues i farës së lirit rikthen ekuilibrin fiziologjik të lëkurës, forcon shtresën e saj lipidike dhe nxit rigjenerimin. Kjo fondatinë nuk e mbingarkon lëkurën si dhe nuk bllokon poret e lëkurës, nuk nxit komedone, nuk shkakton tharje të lëkurës. Pa paraben. Udhëzime mbi përdorimin Aplikojeni në lëkurë dhe shpërndajeni në mënyrë të njëtrajtshme në të gjithë fytyrën. Prisni derisa të përthithet plotësisht. Për përdorim të përditshëm. - Amar Pharma - Pharmaceris - Fondatinë
-  Updated: 2025-11-16T11:45:04Z
+  Updated: 2025-11-27T17:35:41Z
   Vendor: Pharmaceris
   Product Type: Fondatinë
   Availability: Available
@@ -1888,7 +1888,7 @@ Massager - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/p
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0013_4099702000896_1.png?v=1751544634
   Price: ALL 4,219.20 ALL
 - [SmartAppGuided™ MicroCurrent Face-Lifter | 6 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/smartappguided-microcurrent-face-lifter-6-in-1): Ngritësi i fytyrës MicroCurrent SmartAppGuided™ | 6 në 1 përdor teknologjitë MicroCurrent dhe SmartSonic Pulsation për të forcuar dhe ngritur lëkurën tuaj, duke i dhënë asaj një pamje rinore dhe një shkëlqim të shëndetshëm. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-11-23T22:14:45Z
+  Updated: 2025-11-27T23:28:06Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -1961,7 +1961,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0003_4099702000162_1.png?v=1751545112
   Price: ALL 6,331.20 ALL
 - [Smoothing body peeling grapefruit & sage extract - Amar Pharma - Lirene - Peeling Trupi](https://amar.al/products/smoothing-body-peeling-grapefruit-sage-extract): SMOOTHING BODY PEELING GRAPEFRUIT & SAGE Eksfolion dhe pastron ne menyre perfekte, duke e lene lekuren rrezatuese. Ekstrakti i grejpfrutit ndihmon ne djegien e yndyres, e le lekuren te hidratuar dhe teper te bute. Ekstrakti i sherebeles rikthen ekuilibrin e lekures, tonifikon dhe freskon lekuren. Aplikojeni ne trup te lagur dhe masazhojeni butesisht. Shpelajeni teresisht. Perdoreni 1-3 here ne jave. - Amar Pharma - Lirene - Peeling Trupi
-  Updated: 2025-11-26T21:40:05Z
+  Updated: 2025-11-27T22:20:06Z
   Vendor: Lirene
   Product Type: Peeling Trupi
   Availability: Available
@@ -2248,7 +2248,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/geske-cleansing-lotion-100ml-product-scaled.png?v=1741174079
   Price: ALL 1,240.00 ALL
 - [Hydrating MicroCurrent Gel - Amar Pharma - Geske - Krem Fytyre](https://amar.al/products/hydrating-microcurrent-gel): Lëkurë rinore dhe rrezatuese në pak minuta Falë teksturës veçanërisht të lehtë, me bazë uji, xhel hidratues MicroCurrent krijon një lëkurë rinore, të fortë dhe të zhdërvjellët në vetëm pak minuta. Thjesht aplikojeni xhelin në fytyrën dhe qafën tuaj të pastruar një ose dy herë në ditë përpara se të filloni seancën tuaj MicroCurrent. Për rezultate optimale, ne rekomandojmë skanimin e lëkurës në aplikacionin GESKE. Bazuar në një analizë të lëkurës, ju do të merrni rutinën tuaj individuale të kujdesit të lëkurës dhe do të dini saktësisht se çfarë ka nevojë lëkura juaj në këtë moment. Për seanca efektive MicroCurrent Xhel hidratues MicroCurrent është i butë për lëkurën dhe siguron lagështi intensive - baza për një çehre rinore dhe rrezatuese. Përbërësi kryesor i xhelit është uji, gjë që e bën atë veçanërisht të lehtë dhe të butë me lëkurën. Kolagjeni dhe acidi hialuronik janë përbërës qetësues dhe hidratues që punojnë në harmoni të përsosur për të qetësuar lëkurën tuaj dhe për ta lënë atë të ndjehet e butë dhe e lëmuar. Glicerina ndihmon lëkurën të ruajë lagështinë dhe ka një efekt forcues dhe ngurtësues kur përdoret rregullisht. Gjithashtu i jep fytyrës më shumë elasticitet gjë që e bën atë perfekte edhe për lëkurën e thatë. Mësoni më shumë rreth përbërësve aktivë: Kolagjeni Punon nga jashtë për t'i dhënë lëkurës lagështinë e nevojshme për t'u dukur e freskët dhe rrezatuese. Acidi hialuronik Luan një rol kyç në reduktimin e rrudhave të shkaktuara nga thatësia dhe rikthen elasticitetin e lëkurës. Glicerina Ndihmon lëkurën të ruajë lagështinë dhe ka një efekt forcues dhe ngurtësues kur përdoret rregullisht. Xhel hidratues MicroCurrent është i detyrueshëm për përdorim me pajisjet tona GESKE dhe Hello Kitty MicroCurrent. Blini tani për të përkëdhelur lëkurën tuaj me produktet më të mira të kujdesit për lëkurën që mbështesin rutinën tuaj të personalizuar të kujdesit të lëkurës të krijuar nga aplikacioni GESKE. - Amar Pharma - Geske - Krem Fytyre
-  Updated: 2025-11-16T11:45:35Z
+  Updated: 2025-11-27T23:28:07Z
   Vendor: Geske
   Product Type: Krem Fytyre
   Availability: Available
@@ -2790,7 +2790,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-16T11:44:27Z
   Total Products: 7
 - [Akne | Produkte për Trajtimin dhe Parandalimin e Akneve – Amar.al - Amar Pharma -](https://amar.al/collections/akne-1): Akne – Kujdes i Duhur për Lëkurë me Probleme Trajtoni dhe parandaloni aknet me koleksionin tonë të produkteve të specializuara për lëkurë të prirur ndaj puçrrave. Formulat janë të testuara dermatologjikisht dhe të dizajnuara për të: ✔ Pastruar thellë poret dhe larguar papastërtitë✔ Kontrolluar prodhimin e yndyrës dhe parandalimin e shkëlqimit të tepërt✔ Reduktuar inflamacionin dhe qetësuar lëkurën e irrituar✔ Shpejtuar rigjenerimin e lëkurës dhe parandalimin e shenjave pas akneve✔ Ofruar përdorim të sigurt dhe efektiv për adoleshentë dhe të rritur Përfshirë kremra anti-akne, xhele pastrues, tonikë dhe solucione trajtuese. ✨ Zgjidh produktet kundër akneve për një lëkurë më të pastër, më të freskët dhe më të sigurt – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 6
 - [Kujdes i Butë për Lëkurë Alergjike dhe të Ndjeshme - Amar Pharma -](https://amar.al/collections/allergic-and-sensitive-skin-2): Zgjidhni produktet tona të përshtatshme për lëkurë alergjike dhe të ndjeshme. Këto produkte ofrojnë kujdes të veçantë për lëkurën e ndjeshme, duke ofruar lehtësim dhe mbrojtje, duke reduktuar irritimet dhe inflamacionin. Përdoreni për një lëkurë të qetësuar dhe të shëndetshme pa efektet e alergjive. - Amar Pharma
   Updated: 2025-11-16T11:44:27Z
@@ -2802,10 +2802,10 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-16T11:44:27Z
   Total Products: 7
 - [Produkte Anti-Rrudhë për një Lëkurë të Lëmuar dhe Rinore - Amar Pharma -](https://amar.al/collections/anti-rrudhe-2): Luftoni rrudhat dhe shenjave të plakjes me produktet Anti Rrudhë. Trajtimet tona ofrojnë hidratuese dhe efekt lifting për të reduktuar shenjat e plakjes dhe për të përmirësuar elasticitetin e lëkurës. Përdoreni çdo ditë për një lëkurë të rinovuar dhe të shëndetshme. - Amar Pharma
-  Updated: 2025-11-16T11:44:28Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 38
 - [Aqua Bubbles nga Lirene – Hidratim i Thellë dhe Freskues - Amar Pharma -](https://amar.al/collections/aqua-bubbles-2): Zbuloni linjën Aqua Bubbles nga Lirene për një hidratim të thellë dhe freskues. Produktet tona ofrojnë ndihmë për lëkurën e thatë dhe të dehidratuar, duke e lënë atë të butë, të freskët dhe të ndritshme. Përdoreni çdo ditë për një lëkurë të shëndetshme dhe të hidratuar gjatë gjithë ditës! - Amar Pharma
-  Updated: 2025-11-16T11:44:28Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 7
 - [Balm për Kujdesin e Lëkurës – Lehtësim dhe Hidratim - Amar Pharma -](https://amar.al/collections/balm-2): Zbuloni balmat më të mira për kujdesin e lëkurës. Formulat e pasura me përbërës natyralë ndihmojnë në lehtësimin e irritimeve, hidratimin dhe rigjenerimin e lëkurës për një pamje të shëndetshme. - Amar Pharma
   Updated: 2025-11-16T11:44:28Z
@@ -2835,7 +2835,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-19T12:12:18Z
   Total Products: 5
 - [Fluid Foundation Pharmaceris F | Fondatina me Mbulim të Lehtë dhe Natyral – Amar.al - Amar Pharma -](https://amar.al/collections/fluid-foundation-fondatina-1): FLUID FOUNDATION – Fondatina e Lehtë për Pamje të Natyrshme dhe të Freskët Fluid Foundation nga Pharmaceris F ofron një mbulim të lehtë dhe të qëndrueshëm që balancojnë tonin e lëkurës duke e lënë atë të butë dhe të freskët gjatë gjithë ditës. E përshtatshme për përdorim të përditshëm, kjo fondatinë siguron një finish natyral dhe të papërshkueshëm. ✔ Mbulim i lehtë me efekt natyral✔ Formulë që ruan hidratimin dhe freskinë e lëkurës✔ Ideale për lëkurë të ndjeshme dhe të prirur ndaj irritimeve✔ Rezultate të qëndrueshme gjatë gjithë ditës ✨ Arrini pamjen që dëshironi me Fluid Foundation – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-24T12:10:52Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 13
 - [GjiDhënie | Produkte Natyrale për Kujdesin e Gjirit – Amar.al - Amar Pharma -](https://amar.al/collections/gji-dhenie-1): GjiDhënie – Mbështetje Natyrale për Nënat që Ushqejnë me Gji Ky koleksion është dedikuar nënave që ushqejnë me gji dhe kërkojnë produkte të sigurta dhe efektive për kujdesin e gjirit. Kremrat dhe vajrat natyralë ndihmojnë në hidratimin, qetësimin dhe parandalimin e irritimeve, ndërsa suplementet përmirësojnë mirëqenien gjatë kësaj periudhe delikate. ✔ Kremra dhe vajra hidratues dhe qetësues për gjirin✔ Suplemente natyrale për mbështetje të përgjithshme të organizmit✔ Produkte të testuara dermatologjikisht dhe të sigurta për nënat dhe foshnjat✔ Lehtësojnë dhimbjet dhe discomfortet gjatë gjiut 🤱 Jepni vetes kujdesin që meritoni gjatë momentit të veçantë të ushqyerjes – vetëm në Amar.al! - Amar Pharma
   Updated: 2025-11-16T11:44:29Z
@@ -2880,7 +2880,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-26T12:12:30Z
   Total Products: 10
 - [Produkte për Lëkurë Alergjike dhe Sensitive – Kujdes i Butë dhe i Sigurt | Amar.al - Amar Pharma -](https://amar.al/collections/lekure-alergjike-dhe-sensitive-1): Lëkura sensitive dhe alergjike kërkon kujdes të veçantë dhe formulime të sigurta. Ky koleksion ofron produkte të zgjedhura me kujdes, pa parfum, pa alkool dhe pa substanca irrituese, të testuara dermatologjikisht për tolerancë maksimale. Ideale për persona me reaksione të shpeshta, skuqje, kruarje apo ndjeshmëri ekstreme, produktet tona ndihmojnë në qetësimin, rigjenerimin dhe mbrojtjen e barrierës natyrale të lëkurës. - Amar Pharma
-  Updated: 2025-11-23T12:11:57Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 12
 - [Magic Make Up – Produkte Profesionale për Pamje të Përsosur | Amar.al - Amar Pharma -](https://amar.al/collections/magic-make-up-2): Magic Make Up ofron një gamë produktesh kozmetike të cilësisë së lartë që ndihmojnë në krijimin e një make-up-i të përsosur dhe të qëndrueshëm gjatë gjithë ditës. Nga fondetet e lëmuara, bazat që përgatisin lëkurën, te paletat me nuanca të pasura dhe intensive, kjo linjë është zgjedhja ideale për çdo stil dhe rast. Produktet janë të lehta për t’u aplikuar dhe përshtaten me çdo ton lëkure, duke garantuar një pamje natyrale dhe elegante. - Amar Pharma
   Updated: 2025-11-16T11:44:30Z
@@ -2913,13 +2913,13 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-16T11:44:31Z
   Total Products: 1
 - [Pharmaceris Shqipëri | Produkte Dermatologjike për Kujdes të Thellë – Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-1): Pharmaceris – Kujdes Dermatologjik i Avancuar për Çdo Nevojë të Lëkurës dhe Flokëve Pharmaceris është një nga markat më të njohura dhe të besuara në fushën e dermatologjisë, me produkte të krijuara për të trajtuar dhe përmirësuar çdo tip lëkure dhe probleme të ndryshme si: akné, skuqje, hiperpigmentim, plakje, dhe gjithashtu kujdes profesional për flokët dhe skalpin. 🔬 Formulime të testuara dermatologjikisht dhe klinikisht🧴 Kremra, serume, shampo dhe trajtime specifike për lëkurë normale, të yndyrshme, të ndjeshme dhe me tendencë akné🌿 Përbërës aktivë si retinol, niacinamid, acid hialuronik, zink dhe vitamina për rezultate të dukshme✨ Zgjidhje të sigurta dhe efektive për përdorim të përditshëm Zgjidhni Pharmaceris për një kujdes gjithëpërfshirës të lëkurës dhe flokëve – ekskluzivisht në Amar.al! - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 103
 - [Pharmaceris A | Kujdes për Lëkurë të Ndjeshme me Tendencë për Akne – Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-a-1): Pharmaceris A – Kujdes i Butë dhe Efektiv për Lëkurë me Akne dhe Ndjeshmëri Pharmaceris A ofron produkte të specializuara për lëkurën e ndjeshme dhe me tendencë aknesh. Formulat e tyre të buta ndihmojnë në pastrimin e thellë të poreve, kontrollin e yndyrës dhe reduktimin e shenjave të akneve, pa irrituar lëkurën. ✔ Pastrues dhe kremra me përbërës anti-inflamatorë dhe antibakterialë✔ Produkte që balansojnë prodhimin e sebumit dhe qetësojnë irritimet✔ Ideale për lëkurë me akne aktive dhe të prirur ndaj skuqjeve✔ Të testuara dermatologjikisht për siguri dhe efikasitet ✨ Kujdes profesional për lëkurë të pastër dhe të shëndetshme – ekskluzivisht në Amar.al! - Amar Pharma
   Updated: 2025-11-23T12:11:57Z
   Total Products: 15
 - [Pharmaceris F | Fondatina për Lëkurë të Ndjeshme dhe të Irrituar – Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-f-1): Pharmaceris F – Fondatina e Duhur për Lëkurë të Ndjeshme dhe të Prirur ndaj Irritimeve Pharmaceris F ofron fondatina me formula të buta dhe të natyrshme, të krijuara për t’i përshtatur lëkurës së ndjeshme dhe të prirur ndaj irritimeve. Produktet sigurojnë mbulim efektiv të papastërtive dhe shenjave, duke ruajtur një pamje të barabartë dhe natyrale, si dhe mbrojnë lëkurën nga dëmet e jashtme. ✔ Formula të lehta, pa përbërës irritues✔ Mbulesë natyrale dhe uniforme për lëkurë të ndjeshme✔ Mbrojtje nga faktorë të jashtëm që dëmtojnë lëkurën✔ Të testuara dermatologjikisht dhe të sigurta për përdorim të përditshëm ✨ Kujdes i veçantë dhe bukuri natyrale me fondatinat Pharmaceris F – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-24T12:10:52Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 11
 - [Pharmaceris H | Kujdes Profesional për Flokë dhe Skalpin – Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-h-1): Pharmaceris H – Kujdes i Specializuar për Flokë dhe Skalpin Pharmaceris H është linja dermatologjike e dedikuar për shëndetin dhe bukurinë e flokëve dhe skalpit. Produktet e saj ndihmojnë në parandalimin e rënies së flokëve, hidratimin dhe qetësimin e skalpit, duke promovuar rritjen e flokëve të fortë dhe të shëndetshëm. ✔ Shampo dhe serume kundër rënies së flokëve✔ Trajtime për qetësimin e skalpit të ndjeshëm ose me skuqje✔ Formula të pasura me përbërës aktivë që rigjenerojnë folikulat e flokëve✔ Për përdorim të përditshëm dhe rezultate të provuara klinikisht Rifito flokë të fortë dhe shkëlqim me linjën Pharmaceris H – në dispozicion ekskluzivisht në Amar.al! - Amar Pharma
   Updated: 2025-11-25T12:12:48Z
@@ -2937,10 +2937,10 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-16T11:44:32Z
   Total Products: 10
 - [Pharmaceris T | Kujdes për Lëkurë me Akne dhe Yndyrë – Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-t-1): Pharmaceris T – Kujdes i Specializuar për Lëkurën me Akne dhe Yndyrë të Tepërt Pharmaceris T ofron një gamë të plotë produktesh të zhvilluara posaçërisht për lëkurën e yndyrshme, mikse dhe me prirje për akne. Me formulime dermatologjikisht të testuara, këto produkte: ✔ Reduktojnë ndjeshëm yndyrën dhe shkëlqimin e lëkurës✔ Pastrojnë poret dhe ndihmojnë në parandalimin e bllokimeve bakteriale✔ Luftojnë aknet aktive dhe zvogëlojnë njollat pas akneve✔ Ofruan freski dhe balancë pa e tharë lëkurën✔ Ideale për përdorim të përditshëm nga adoleshentët dhe të rriturit Përfshirë: Kremra fytyre matifikues dhe anti-akne Xhele pastrues dhe tonikë me acid salicilik Solucione lokale për puçrra dhe pikat e zeza ✨ Zgjidh Pharmaceris T për një lëkurë më të pastër, më të shëndetshme dhe pa akne – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 14
 - [Pharmaceris W | Trajtim për Njollat dhe Depigmentimin e Lëkurës – Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-w-1): Pharmaceris W – Kujdes i Specializuar Kundër Njollave dhe Depigmentimit Koleksioni Pharmaceris W ofron produkte të zhvilluara me formulime të avancuara dhe përbërës aktivë që ndihmojnë në trajtimin e njollave pigmentare dhe disbalancave në ngjyrën e lëkurës. Produktet janë të përshtatshme për: ✔ Reduktimin e njollave të errëta dhe hiperpigmentimit✔ Uniformimin dhe ndriçimin e tonit të lëkurës✔ Rivendosjen e një pamjeje të pastër dhe të shëndetshme të lëkurës✔ Parandalimin e formimit të njollave të reja✔ Formula dermatologjikisht të testuara, të sigurta dhe efektive ✨ Për një lëkurë të njëtrajtshme dhe të rigjeneruar, zgjidhni Pharmaceris W – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-25T12:12:48Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 17
 - [Pharmaceris X - Krem Mbrojtës Fytyrën & Trupin pas rezatimit - Amar Pharma -](https://amar.al/collections/pharmaceris-x-1): Koleksioni Pharmaceris X përfshin kremra dhe trajtime të specializuara për qetësimin dhe rigjenerimin e lëkurës së ndjeshme, të irrituar ose të dëmtuar. Formulat e pasura me përbërës aktivë ndihmojnë në uljen e skuqjes, kruarjes dhe ndihmojnë në rikthimin e elasticitetit dhe shëndetit natyral të lëkurës. Ideal për përdorim të përditshëm dhe në raste të trajtimeve dermatologjike. - Amar Pharma
   Updated: 2025-11-16T11:44:32Z
@@ -2967,7 +2967,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-20T12:12:02Z
   Total Products: 12
 - [Serume Efektive - Hidratuese, Rigjeneruese dhe Antirrudhë - Amar Pharma -](https://amar.al/collections/serum-2): Zbuloni serume të fuqishme për lëkurën tuaj, të pasura me përbërës aktivë që trajtojnë nevojat specifike të lëkurës. Me formula të përqendruara, serumi ofron hidratuese të thellë, reduktimin e rrudhave, dhe përmirësimin e elasticitetit, duke lënë lëkurën tuaj më të shëndetshme dhe më të rinovuar. Përshtaten për çdo tip lëkure dhe janë ideale për përdorim të përditshëm - Amar Pharma
-  Updated: 2025-11-24T12:10:52Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 22
 - [Shimmer - Thekso Tiparet e Fytyrës dhe Trupit - Amar Pharma -](https://amar.al/collections/shimer-1): Përfito nga shkëlqimi i natyrshëm me shimmer-in tonë, ideal për një pamje të ndritshme dhe të freskët. Aplikoni për të theksuar tiparet e fytyrës, trupit dhe dekoltés, duke i dhënë lëkurës një shkëlqim elegant dhe të sofistikuar. Zbuloni produktet tona me shimmer për një pamje mahnitëse! - Amar Pharma
   Updated: 2025-11-16T11:44:33Z
@@ -2982,10 +2982,10 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-25T12:12:48Z
   Total Products: 43
 - [Toneri Hidratues dhe Qetësues për Lëkurë të Shëndetshme - Amar Pharma -](https://amar.al/collections/toner-2): Ruan freskinë dhe balancën e lëkurës suaj me tonerin tonë të pasur me përbërës hidratues dhe qetësues. Ndihmon në mbylljen e poreve, rivendos ekuilibrin e pH dhe përgatit lëkurën për produktet e tjera të kujdesit. Zgjidhni tonerin ideal për një lëkurë të shëndetshme dhe të ndritshme! - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 11
 - [Trajtime Speciale për Lëkurën | Zgjidhje Dermatologjike – Amar.al - Amar Pharma -](https://amar.al/collections/trajtime-speciale-1): Ky koleksion ofron një gamë të zgjeruar të produkteve të formuluara për të trajtuar gjendje të veçanta të lëkurës. Të testuara dermatologjikisht dhe të bazuara në përbërës aktivë të fuqishëm, trajtimet speciale ndihmojnë në përmirësimin e strukturës dhe shëndetit të lëkurës, pavarësisht problematikës. ✔ Trajtime për akne – me acid salicilik, niacinamid dhe zinc për pastrim të thellë dhe reduktim të inflamacionit✔ Kundër rrudhave – me retinol, peptidet dhe acid hialuronik për rigjenerim dhe tonifikim✔ Hidratim dhe rigjenerim – për lëkurë të thatë ose të dëmtuar nga faktorët e jashtëm✔ Qetësim për lëkurë të ndjeshme & kuperozë – për eliminimin e skuqjes dhe forcimin e barrierës natyrale ✨ Zgjidhni një trajtim të veçantë, të përshtatur për ju – dhe përjetoni ndryshimin në vetëm pak ditë me produktet profesionale të Amar.al. - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 113
 - [Uji Micelar – Pastrim i Thellë dhe Kujdes i Butë për Lëkurën - Amar Pharma -](https://amar.al/collections/uje-micelar-1): Zbuloni ujin micelar, produktin ideal për pastrim të thellë të fytyrës dhe largimin e makeup-it dhe papastërtive pa irrituar lëkurën. Me formulë të butë dhe efektive, uji micelar përshtatet për çdo tip lëkure, duke ofruar hidratim dhe freski natyrale. Pas përdorimit, lëkura juaj do të jetë e pastër, e butë dhe e shëndetshme. - Amar Pharma
   Updated: 2025-11-16T11:44:34Z
@@ -3003,13 +3003,13 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-25T12:12:48Z
   Total Products: 10
 - [Produktet Më të Shitura | Best Sellers – Amar.al - Amar Pharma -](https://amar.al/collections/best-sellers): Zbuloni bestseller-ët e Amar.al – produktet më të preferuara nga klientët tanë për kujdesin e lëkurës, trupit dhe flokëve. Bli ato që të gjithë po i duan! ✅ Collection Description (për në faqe): Më të Mirët nga më të Mirët – Best Sellers në Amar.al Ky koleksion përmbledh produktet më të shitura dhe më të vlerësuara nga klientët tanë. Nga pastruesit dhe kremrat për fytyrën, deri tek SPF-të më të fuqishme dhe suplementët më të kërkuar – këtu do të gjeni zgjedhjet më të besuara për rezultate të garantuara. 🔸 Zgjedhjet më të dashura nga klientët tanë🔸 Produkte me vlerësime të larta dhe efektivitet të provuar🔸 Ideale për ata që nuk dinë nga t’ia nisin – provo bestsellerët tanë🔸 Sasi të kufizuara për disa artikuj – mos i humb! 🛍️ Bashkohu me mijëra klientë të kënaqur dhe porosit bestseller-ët tanë sot! - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 425
 - [Lirene | Produkte Cilësore për Kujdesin e Lëkurës dhe Trupit – Amar.al - Amar Pharma -](https://amar.al/collections/lirene): Lirene është marka e njohur për produktet e saj efektive dhe të sigurta për kujdesin e përditshëm të lëkurës dhe trupit. Gama e gjerë përfshin kremra hidratues, pastrues të butë dhe trajtime rigjeneruese që mbrojnë lëkurën nga faktorët e jashtëm dhe i japin shkëlqim natyral. ✔ Formulime të avancuara me përbërës aktivë të sigurt✔ Produkte për të gjitha tipet e lëkurës dhe nevojat specifike✔ Mbrojtje, rigjenerim dhe hidratim për fytyrën dhe trupin✔ Të testuara dermatologjikisht dhe me çmime të arsyeshme ✨ Zgjidhni Lirene për një lëkurë të bukur dhe të shëndetshme çdo ditë – ekskluzivisht në Amar.al! - Amar Pharma
-  Updated: 2025-11-25T12:12:48Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 186
 - [Pharmaceris Shqipëri | Produkte Dermatologjike për Lëkurë të Ndjeshme – Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-2): Pharmaceris – Kujdes Dermatologjik i Avancuar për Çdo Tip Lëkure Pharmaceris është një nga markat më të besuara dermatologjike në botë, e krijuar nga specialistë të lëkurës për të ofruar zgjidhje efektive për probleme të ndryshme dermatologjike. Koleksioni përfshin produkte për lëkurë të ndjeshme, akné, skuqje, hiperpigmentim, rënie flokësh dhe shumë më tepër. 🔬 Formuluar nga dermatologë dhe testuar klinikisht💧 Ideal për lëkurë të ndjeshme, të irrituar apo të trajtuar me procedura dermatologjike🧴 Përfshin kremra, serume, SPF, shampo dhe trajtime lokale🔍 Zgjidhje të personalizuara sipas nevojave të lëkurës tuaj: T, A, R, H, W, F, N, P, S ✨ Zbuloni fuqinë e një formule të sigurt, efektive dhe të përkushtuar – Pharmaceris, tani në Shqipëri me Amar.al! - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 120
 - [Geske – Teknologjia Revolucionare e Kujdesit për Lëkurën në Shqipëri - Amar Pharma -](https://amar.al/collections/geske): Geske – Teknologjia Revolucionare e Kujdesit për Lëkurën në Shqipëri Geske sjell inovacionin më të avancuar në kujdesin për lëkurën, duke kombinuar teknologjinë gjermane me rezultate të shkëlqyera klinike. Produktet e Geske janë të dizajnuara për të transformuar rutinën tuaj të bukurisë në një përvojë profesionale nga komoditeti i shtëpisë. 🔹 Pajisje inteligjente për kujdesin e lëkurës – pastrues fytyre, masazherë dhe aparate kundër rrudhave🔹 Teknologji me frekuencë të lartë dhe dritë LED – për një lëkurë më të pastër dhe të tonifikuar🔹 Zgjidhje për çdo lloj lëkure – e yndyrshme, e thatë apo e ndjeshme🔹 Rezultate të provuara klinikisht – për rigjenerim, hidratim dhe zvogëlim të rrudhave ✨ Zbuloni fuqinë e teknologjisë së Geske dhe përjetoni një kujdes lëkure të nivelit të lartë në Shqipëri. Bli tani me ofertat ekskluzive të Amar.al! - Amar Pharma
   Updated: 2025-11-24T12:10:52Z
@@ -3024,7 +3024,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-16T11:44:35Z
   Total Products: 14
 - [Të Gjitha Produktet – Kujdes i Plotë për Lëkurën dhe Trupin | Amar.al - Amar Pharma -](https://amar.al/collections/all-products): Zbuloni gamën e gjerë të produkteve të kujdesit të lëkurës nga markat më të njohura: Lirene, Pharmaceris, Dr. Irena Eris, Opatra dhe LN Age.Zgjidhni nga kremrat hidratues, serumat inovative, pastruesit efektivë dhe trajtimet anti-rudhë që ofrojnë mbrojtje të avancuar dhe rigjenerim të lëkurës. Çdo produkt është i dizajnuar për t’ju dhënë një pamje të shëndetshme, të freskët dhe plot vitalitet. - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 376
 - [Nurse Harvey’s | Kujdes Natyral për Foshnjat dhe Fëmijët – Amar.al - Amar Pharma -](https://amar.al/collections/nurse-harveys): Nurse Harvey’s – Kujdes i Besuar dhe Natyral për Vegjëlit Tuaj Nurse Harvey’s ofron një gamë produktesh të formuluara me përbërës natyralë dhe të sigurt për foshnjat dhe fëmijët. Qetëson dhimbjet e barkut, hidraton lëkurën e butë dhe mbështet zhvillimin dhe imunitetin e tyre me suplemente cilësore. ✔ Shurupë për tretje dhe qetësim të gazrave te foshnjat✔ Vajra dhe balsame natyralë për lëkurë të hidratuar dhe të butë✔ Suplemente me vitamina për rritje dhe forcim imuniteti✔ Produktet e testuara dermatologjikisht dhe të sigurt për përdorim të përditshëm 👶 Jepi vegjëlushit tuaj kujdesin më të mirë me Nurse Harvey’s – vetëm në Amar.al! - Amar Pharma
   Updated: 2025-11-18T12:13:14Z
@@ -3036,10 +3036,10 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-26T12:12:30Z
   Total Products: 37
 - [Toner – Kujdes i Thellë për Lëkurën e Fytyrës | Amar.al - Amar Pharma -](https://amar.al/collections/toner): Koleksioni i tonerve nga amar.al ofron produkte të ndryshme për pastrim të thellë dhe freskim të lëkurës së fytyrës. Tonerët ndihmojnë në largimin e papastërtive të mbetura pas pastrimit, rregullojnë pH-në natyrale të lëkurës dhe ngushtojnë poret, duke përgatitur lëkurën për hidratim dhe trajtime të mëtejshme. Formulat tona janë të përshtatshme për çdo tip lëkure, duke përfshirë edhe lëkurën e ndjeshme. - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 11
 - [Kujdesi ndaj Diellit | Mbrojtje SPF për Fytyrë & Trup – Amar.al - Amar Pharma -](https://amar.al/collections/dielli): Mbrojtje Maksimale ndaj Diellit për Çdo Tip Lëkure Dielli është një nga faktorët kryesorë të plakjes së parakohshme dhe dëmtimeve të lëkurës. Në këtë koleksion do të gjeni zgjidhje të plota për mbrojtje ndaj rrezeve UVA/UVB për fytyrën, trupin dhe fëmijët. ✔ Kremra dhe fluide me SPF 30–100+✔ Formula të lehta, pa yndyrë dhe që nuk lënë shenja✔ Të përshtatshme për lëkurë të ndjeshme dhe të yndyrshme✔ Mbrojtje gjatë ekspozimit në diell, plazh apo qytet - Amar Pharma
-  Updated: 2025-11-24T12:10:52Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 35
 - [Kujdesi për Këmbët – Kremra, Scrub & Trajtime për Këmbë të Shëndetshme | Amar.al - Amar Pharma -](https://amar.al/collections/kujdesi-per-kembet): Këmbët meritojnë kujdes të veçantë! Në koleksionin Kujdesi për Këmbët gjeni kremra ushqyes, scrub eksfoliues dhe trajtime të avancuara për thembra të çara dhe lëkurë të thatë. Produktet tona janë të pasura me përbërës natyralë si ure, vajra esencialë dhe vitamina, që i rikthejnë këmbëve butësinë, hidratimin dhe freskinë gjatë gjithë ditës. Perfekte për përdorim të përditshëm dhe trajtim profesional. - Amar Pharma
   Updated: 2025-11-20T12:12:02Z
@@ -3063,7 +3063,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-18T12:13:14Z
   Total Products: 28
 - [Fondatina Lirene & Pharmaceris | Mbulim Natyral dhe Kujdes i Thellë – Amar.al - Amar Pharma -](https://amar.al/collections/fondatina): Fondatina Lirene & Pharmaceris – Mbulim i Përkryer dhe Kujdes i Thellë për Lëkurën Koleksioni i fondatinave nga Lirene dhe Pharmaceris ofron mbulim të lehtë deri në të plotë, të përshtatshëm për çdo tip lëkure, për një pamje natyrale dhe të shëndetshme. Produktet janë të pasuruara me vitamina dhe antioksidantë që ushqejnë dhe rigjallërojnë lëkurën gjatë gjithë ditës. ✔ Përshtatje perfekte për lëkurë të yndyrshme, të thatë dhe të ndjeshme✔ Mbulim i qëndrueshëm me efekt natyral ose profesional✔ Formula të testuara dermatologjikisht dhe të sigurta✔ Kujdes hidratues dhe rigjallërues me përbërës aktivë të dobishëm ✨ Ndriçoni çdo ditë me fondatinën tuaj të preferuar – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-24T12:10:52Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 14
 - [Balm EMOTOPIC dhe Pharmaceris Kujdes i Përsosur për Lëkurën - Amar Pharma -](https://amar.al/collections/balm-emotopic-pharmaceris): Koleksioni “Balm” ofron produkte të formuluara posaçërisht për hidratuar, rigjeneruar dhe qetësuar lëkurën e thatë, të irrituar ose atopike. Balm-et janë më të pasura se kremrat klasikë dhe përmbajnë përbërës si ure, ceramide, vajra natyralë dhe vitamina mbrojtëse, që forcojnë barrierën mbrojtëse të lëkurës dhe parandalojnë dehidratimin. - Amar Pharma
   Updated: 2025-11-16T11:44:37Z
@@ -3072,7 +3072,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-16T11:44:37Z
   Total Products: 2
 - [Pharmaceris T | Krem Fytyre për Akne dhe Zona T – Amar.al - Amar Pharma -](https://amar.al/collections/akne-dhe-zona-t-krem-fytyre-pharmaceris-pharmaceris-t): Pharmaceris T – Kujdes i Avancuar për Akne dhe Zonën T të Lëkurës Koleksioni Pharmaceris T është i dedikuar për lëkurën e prirur ndaj akneve, pikave të zeza dhe yndyrës së tepërt, veçanërisht në zonën T (balli, hunda dhe mjekra). Produktet përfshijnë kremra fytyre, xhel pastrues dhe solucione anti-akne, të zhvilluara me formulime dermatologjike për të luftuar bakteret dhe për të rikthyer balancën natyrale të lëkurës. ✔ Kremra fytyre për akne aktive dhe parandalim të shpërthimeve✔ Kontroll i prodhimit të sebumit dhe shkëlqimit të tepërt në zonën T✔ Formulime me acid salicilik, niacinamid dhe përbërës antibakterialë✔ Ideale për adoleshentë dhe të rritur me lëkurë mikse ose të yndyrshme✔ Të testuara dermatologjikisht, jo-komedogjene dhe pa irritues ✨ Për lëkurë më të pastër, më të ekuilibruar dhe pa akne – zgjidh Pharmaceris T, vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-16T11:44:37Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 3
 - [Dermatiti Atopik, EMOTOPIC, Pastrues Trupi - Amar Pharma -](https://amar.al/collections/dermatiti-atopik-emotopic-pastrues-trupi): - Amar Pharma
   Updated: 2025-11-16T11:44:37Z
@@ -3099,16 +3099,16 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-16T11:44:38Z
   Total Products: 105
 - [All Products | Amar.al – Zbulo të gjitha produktet e kujdesit personal dhe bukurisë - Amar Pharma -](https://amar.al/collections/all): Mirë se vini në seksionin “Të Gjitha Produktet” të Amar.al. Këtu do të gjeni një përzgjedhje të gjerë të produkteve më të mira për kujdesin e lëkurës, flokëve, trupit, higjienës personale dhe suplementëve ushqimorë. Ne bashkëpunojmë me marka të njohura si Pharmaceris, Lirene, Bioliq dhe shumë të tjera për të sjellë zgjidhje cilësore për nevojat e përditshme. Filtroni, zbuloni dhe zgjidhni produktin ideal për ju. - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 532
 - [Power of Plants Aloe | Qetësim & Hidratim Natyral me Aloe Vera – Amar.al - Amar Pharma -](https://amar.al/collections/power-of-plants-aloe): POWER OF PLANTS ALOE – Qetësim Natyral dhe Hidratim i Thellë me Aloe Vera Koleksioni Power of Plants Aloe është i bazuar në përbërësin natyral aloe vera, të njohur për vetitë e tij qetësuese, hidratuese dhe rigjeneruese. Produktet janë ideale për lëkurë të ndjeshme, të dehidratuar, pas ekspozimit në diell ose të prirur ndaj irritimeve. ✔ Aloe vera e pasur me vitamina dhe minerale✔ Qetëson skuqjet dhe ndihmon në rikuperimin e shpejtë të lëkurës✔ Hidraton në thellësi dhe rivendos balancën natyrale✔ Formula të lehta, të testuara dermatologjikisht dhe pa irritues ✨ Zgjidh fuqinë e bimëve për lëkurë të freskët dhe të shëndetshme me POWER OF PLANTS ALOE – vetëm në Amar.al! - Amar Pharma
   Updated: 2025-11-16T11:44:38Z
   Total Products: 8
 - [Lëkurat e Yndyrshme & Aknet | Produkte për Pastrim dhe Trajtim Efektiv – Amar.al - Amar Pharma -](https://amar.al/collections/lekurat-e-yndyrshme-aknet): Lëkurat e Yndyrshme & Aknet – Kujdes Profesional për një Lëkurë të Pastër dhe të Ekuilibruar Ky koleksion ofron zgjidhje të avancuara për pastrimin dhe trajtimin e lëkurës së yndyrshme me tendencë aknesh. Produktet ndihmojnë në kontrollimin e prodhimit të sebumit, pastrimin e poreve dhe luftimin e baktereve shkaktarë të puçrrave, duke rikthyer balancën natyrale të lëkurës. ✔ Pastrues, tonikë dhe serume anti-akne me përbërës aktivë si acid salicilik dhe niacinamid✔ Kremra matës dhe qetësues për reduktimin e shkëlqimit dhe irritimeve✔ Formula të testuara dermatologjikisht, të përshtatshme për përdorim të përditshëm✔ Ideale për lëkurë me akne aktive dhe për parandalimin e shfaqjeve të reja ✨ Kujdesi i duhur për lëkurë më të pastër dhe me vetëbesim – ekskluzivisht në Amar.al! - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 17
 - [Kujdes për Fytyrën | Pastrim, Hidratim dhe Trajtim – Amar.al - Amar Pharma -](https://amar.al/collections/fytyra): Në këtë koleksion gjeni gjithçka që i nevojitet lëkurës suaj të fytyrës për të qenë e pastër, e ushqyer dhe e mbrojtur. Nga rutina bazë e përditshme deri te trajtimet më të avancuara, produktet janë të formuluara për të përmbushur nevojat e çdo tipi lëkure. ✔ Pastrues fytyre për lëkurë të ndjeshme, mikse, të thatë apo me yndyrë✔ Kremra ditës dhe natës për hidratim, rigjenerim dhe mbrojtje✔ Serume me përbërës aktivë si acid hialuronik, niacinamid, vitaminë C dhe retinol✔ Trajtime specifike për akné, rrudha, pigmentim dhe kuperozë✔ SPF për mbrojtje ditore nga dielli ✨ Zgjidhje të sigurta, efektive dhe të testuara dermatologjikisht – për një fytyrë që rrezaton shëndet dhe bukuri – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 261
 - [Kujdes për Trupin | Hidratim, Higjienë dhe Trajtim – Amar.al - Amar Pharma -](https://amar.al/collections/trupi): Kujdes i Plotë për Trupin Tuaj – Çdo Ditë, Me Cilësi Dermatologjike Lëkura e trupit ka nevojë për kujdes po aq sa ajo e fytyrës. Ky koleksion përfshin gjithçka që ju nevojitet për të mbajtur trupin të pastër, të ushqyer dhe të mbrojtur – nga larja deri te trajtimi i problemeve si lëkura e thatë, iritimet apo ndjeshmëria. ✔ Xhele dhe locione dushi pa irritues për pastrim të butë✔ Kremra hidratues dhe ushqyes për çdo tip lëkure✔ Produkte qetësuese për lëkurë të ndjeshme apo me ekzemë✔ Trajtime të avancuara për zona specifike si bërrylat, thembrat apo duart ✨ Jepi trupit tënd kujdesin që meriton me formulime të sigurta dhe efikase – ekskluzivisht në Amar.al! - Amar Pharma
   Updated: 2025-11-25T12:12:48Z
@@ -3129,31 +3129,31 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-16T11:44:39Z
   Total Products: 10
 - [Pastrimi i Fytyrës | Xhel, Shkumë & Ujë Micelar – Amar.al - Amar Pharma -](https://amar.al/collections/pastrimi-i-fytyres): Pastrimi i Fytyrës – Hapi Themelor për Lëkurë të Shëndetshme dhe të Pastër Pastrimi i fytyrës është baza e çdo rutine të suksesshme për kujdesin e lëkurës. Koleksioni Pastrimi i Fytyrës ofron një gamë të gjerë produktesh të testuara dermatologjikisht, të përshtatura për çdo tip lëkure: të yndyrshme, të ndjeshme, mikse apo të thatë. ✔ Xhele dhe shkumë pastruese – për pastrim të thellë pa tharë lëkurën✔ Ujë micelar dhe qumësht pastrues – për heqjen e butë të make-up-it dhe yndyrës✔ Tonikë balancues – për rifreskim dhe mbyllje të poreve✔ Formulime me përbërës si aloe vera, niacinamid, acid salicilik, pantenol✔ Të përshtatshme për përdorim të përditshëm, në mëngjes dhe në mbrëmje ✨ Për një lëkurë të pastër, të ndritshme dhe të freskët – zgjidh Pastruesit e Fytyrës nga Amar.al dhe rifillo ditën me besim! - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 40
 - [Hidratimi i Lëkurës | Kremra & Serume Hidratues – Amar.al - Amar Pharma -](https://amar.al/collections/hidratimi): Hidratim i Thellë për Lëkurë të Shëndetshme dhe me Shkëlqim Lëkura e hidratuar është baza e një pamjeje të freskët, të shëndetshme dhe të rinovuar. Ky koleksion përmban produkte të formuluara për të rikthyer dhe ruajtur hidratimin e lëkurës, duke përmirësuar elasticitetin, reduktuar ndjeshmërinë dhe parandaluar shenjat e plakjes. ✔ Kremra të pasur me acid hialuronik, glicerinë dhe ceramide✔ Serume intensive për dehidratim akut dhe lëkurë të lodhur✔ Maska hidratuese për përdorim ditor ose trajtime javore✔ Të përshtatshme për lëkurë të thatë, mikse dhe të ndjeshme 💦 Jepi lëkurës freski dhe jetë me formulime profesionale – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 87
 - [BB & CC Krem | Kujdes dhe Mbrojtje me Ngjyrë Natyrale – Amar.al - Amar Pharma -](https://amar.al/collections/bb-cc-krem): BB & CC Krem – Kombinimi Ideal i Kujdesit dhe Bukurisë Kremrat BB dhe CC janë zgjidhja ideale për ato që duan të bashkojnë kujdesin për lëkurën me një mbulueshmëri të lehtë dhe uniforme. BB kremrat hidratonin dhe mbrojnë lëkurën, ndërsa CC kremrat korrigjojnë tonin dhe përsosnin pamjen, duke ofruar mbrojtje ndaj diellit me SPF. ✔ Hidratim i vazhdueshëm dhe mbrojtje SPF✔ Mbulesë natyrale për njolla, kuqe dhe pigmentime✔ Tekstura të lehta që përthithen shpejt dhe nuk ngarkojnë lëkurën✔ Ideale për përdorim ditor dhe për çdo tip lëkure ✨ Arrini një pamje të freskët dhe të përkryer me BB & CC kremrat më të mira – vetëm në Amar.al! - Amar Pharma
   Updated: 2025-11-23T12:11:57Z
   Total Products: 7
 - [Rrudhat e Para – Produkte Kundër Shenjave të Parë të Plakjes | Amar.al - Amar Pharma -](https://amar.al/collections/rrudhat-e-para): Shenjat e para të plakjes – si linjat e holla, humbja e elasticitetit dhe tharja e lehtë e lëkurës – shfaqen shpesh që në moshën 25+. Koleksioni “Rrudhat e Para” në amar.al përmban një përzgjedhje të kujdesshme të kremrave, serumëve dhe trajtimeve anti-age, të dizajnuara për të frenuar këto shenja dhe për të ruajtur një lëkurë të shëndetshme, të tonifikuar dhe me shkëlqim.Përbërës si acidi hialuronik, retinoli, peptidet dhe vitamina C veprojnë në thellësi për të hidratuar, rigjeneruar dhe mbrojtur lëkurën nga plakja e hershme. - Amar Pharma
-  Updated: 2025-11-25T12:12:48Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 28
 - [Kundër Rrudhave | Produkte Anti-Age për Rini dhe Elasticitet – Amar.al - Amar Pharma -](https://amar.al/collections/kunder-rrudhave): Kundër Rrudhave – Kujdes i Avancuar për Lëkurë më të Re dhe të Tonifikuar Koleksioni Kundër Rrudhave përmban produkte të specializuara që ndihmojnë në zvogëlimin e rrudhave ekzistuese, parandalimin e atyre të reja dhe përmirësimin e elasticitetit të lëkurës. Me përbërës aktivë si retinol, peptide, acid hialuronik dhe kolagjen, ky koleksion rigjeneron dhe ushqen në thellësi. ✔ Zbut dhe zvogëlon vijat e holla dhe rrudhat✔ Rrit elasticitetin dhe qëndrueshmërinë e lëkurës✔ Ndihmon në rigjenerimin e qelizave dhe stimulon prodhimin e kolagjenit✔ Ofron efekt lifting dhe hidratim të thellë✔ I përshtatshëm për të gjitha moshat dhe tipet e lëkurës ✨ Rikthe pamjen rinore të lëkurës suaj me produktet kundër rrudhave, të përzgjedhura me kujdes nga markat më të mira – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-25T12:12:48Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 58
 - [Krem Nate | Rigjenerim dhe Kujdes i Thellë për Lëkurën – Amar.al - Amar Pharma -](https://amar.al/collections/krem-nate): Krem Nate – Rigjenerim Gjatë Natës për Lëkurë të Freskët dhe të Shëndetshme Kremrat e natës janë thelbësorë për rikuperimin e lëkurës nga stresi dhe dëmtimet ditore. Gjatë natës, lëkura është më aktive në proceset e saj rigjeneruese, dhe një krem nate i përshtatshëm ndihmon në përmirësimin e elasticitetit, hidratimin dhe reduktimin e shenjave të plakjes. ✔ Hidratim i thellë gjatë natës✔ Ndihmon në rikuperimin e barrierës natyrale të lëkurës✔ Rigjeneron qelizat e dëmtuara dhe përmirëson strukturën e lëkurës✔ Zgjohemi me një lëkurë më të butë, më të freskët dhe me shkëlqim natyral✔ Formula të përshtatura për çdo lloj lëkure – nga e thatë në të yndyrshme ✨ Përkujdesuni për lëkurën tuaj ndërsa flini – zgjidhni kremrat e natës më të mirë vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-25T12:12:48Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 51
 - [Serume për Fytyrë | Kujdes Intensiv për Lëkurë të Shëndetshme – Amar.al - Amar Pharma -](https://amar.al/collections/serume): Koleksioni Serume përmban formulime të përqendruara me përbërës aktivë që depërtojnë thellë në lëkurë, duke ofruar rezultate të dukshme në një kohë të shkurtër. Çdo serum është dizajnuar për të adresuar nevoja të ndryshme të lëkurës, si: ✔ Hidratim i thellë me acid hialuronik dhe ceramide✔ Ndriçim dhe ton i njëtrajtshëm me vitaminë C✔ Trajtim anti-akne me niacinamid dhe acid salicilik✔ Anti-rrudhë dhe rigjenerim me retinol dhe peptide✔ Qetësim dhe mbrojtje për lëkurë të ndjeshme me aloe dhe pantenol Të testuar dermatologjikisht dhe të përshtatshëm për çdo tip lëkure, serumet janë hapi ideal për të përforcuar rutinën tuaj të përditshme të kujdesit për fytyrën. ✨ Jepi lëkurës suaj një dozë të përqendruar bukurie me Serumet e Amar.al – rezultatet flasin vetë! - Amar Pharma
-  Updated: 2025-11-24T12:10:52Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 32
 - [Kujdesi ndaj Diellit | Kremra & Mbrojtje SPF për Fytyrë dhe Trup – Amar.al - Amar Pharma -](https://amar.al/collections/kujdesi-ndaj-diellit): Kujdesi ndaj Diellit – Mbrojtje e Plotë për Lëkurën Tuaj në Çdo Stinë Në këtë koleksion do të gjeni gjithçka që ju nevojitet për të mbrojtur lëkurën nga dëmtimet e shkaktuara nga dielli. Produktet tona përmbajnë SPF të lartë, përbërës aktivë kundër plakjes së parakohshme dhe tekstura të lehta, të përshtatshme për çdo tip lëkure. ✔ Kremra dhe fluide SPF për fytyrën – të lehta dhe pa yndyrë✔ Kremra dielli për trupin – rezistentë ndaj ujit dhe djersës✔ Formula për fëmijë dhe lëkurë shumë të ndjeshme✔ After Sun – produkte qetësuese dhe rigjeneruese pas ekspozimit në diell 🌞 Mbro lëkurën sot për të ruajtur bukurinë nesër – vetëm me produkte të certifikuara nga Amar.al! - Amar Pharma
-  Updated: 2025-11-25T12:12:48Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 35
 - [Produkte Kundër Njollave | Trajtim për Pigmentim dhe Riformësim Lëkure – Amar.al - Amar Pharma -](https://amar.al/collections/kunder-njollave): Kundër Njollave – Zgjidhje Efektive për Njollat dhe Pigmentimin e Lëkurës Ky koleksion përmban produkte të avancuara për trajtimin dhe parandalimin e njollave të lëkurës, duke ndihmuar në rigjenerimin e qelizave dhe përmirësimin e një toni uniform. Formulat e tij përmbajnë përbërës aktivë që zbusin pigmentimin dhe rifreskojnë pamjen e lëkurës. ✔ Serume dhe kremra me përbërës zbardhues dhe rigjenerues✔ Produkte që luftojnë pigmentimin e tepërt dhe njollat e diellit✔ Formula të buta, të testuara dermatologjikisht✔ Ideal për përdorim të përditshëm dhe për të gjitha tipet e lëkurës ✨ Për një lëkurë të pastër dhe me ngjyrë të njëtrajtshme, zgjidhni produktet tona kundër njollave – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-25T12:12:48Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 27
 - [Maska & Eksfoliant për Fytyrë | Pastrim i Thellë & Rigjenerim – Amar.al - Amar Pharma -](https://amar.al/collections/maska-eksfoliant): Ky koleksion ofron zgjidhje të avancuara për pastrimin dhe rigjenerimin e lëkurës. Maskat ndihmojnë në qetësim, pastrim ose hidratim të thellë, ndërsa eksfoliantët largojnë qelizat e vdekura, duke përmirësuar teksturën dhe pamjen e lëkurës. ✔ Maska për çdo nevojë – hidratuese, pastruese, anti-akné dhe rigjeneruese✔ Eksfoliantë kimikë dhe fizikë me acid glikolik, laktik ose mikrogranula të buta✔ Të përshtatshme për lëkurë të ndjeshme, të yndyrshme, mikse apo të thatë✔ Përdorim 1–3 herë në javë për lëkurë të freskët dhe me shkëlqim natyral ✨ Jepi lëkurës suaj një moment SPA në shtëpi me produktet më të mira nga Amar.al! - Amar Pharma
   Updated: 2025-11-25T12:12:48Z
@@ -3177,10 +3177,10 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-16T11:44:40Z
   Total Products: 3
 - [C+E Vitamin Energy | Ndriçim dhe Antioksidantë për Lëkurë të Shëndetshme – Amar.al - Amar Pharma -](https://amar.al/collections/c-e-vitamin-energy): C+E Vitamin Energy – Fuqi e Dyfishtë për Ndriçim dhe Mbrojtje të Lëkurës Koleksioni C+E Vitamin Energy kombinon fuqinë rigjeneruese të vitaminës C me veprimin mbrojtës të vitaminës E, për të ndihmuar lëkurën të rifitojë shkëlqimin, elasticitetin dhe vitalitetin. Ideale për lëkurë të lodhur, të stresuar apo me shenja të para të plakjes. ✔ Vitaminë C – për ndriçim dhe ton të njëtrajtshëm të lëkurës✔ Vitaminë E – për mbrojtje antioksiduese dhe rigjenerim qelizor✔ Efekt energjizues dhe revitalizues i menjëhershëm✔ Për të gjitha tipet e lëkurës, edhe ato të ndjeshme ✨ Jepi lëkurës suaj një dozë energjie dhe mbrojtjeje me C+E Vitamin Energy – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-24T12:10:52Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 9
 - [Vitamin Energy C+D Pro | Fuqi Antioksiduese dhe Rigjallërim e Lëkurës – Amar.al - Amar Pharma -](https://amar.al/collections/vitamin-energy-с-d-pro): VITAMIN ENERGY C+D PRO – Energji, Shkëlqim dhe Mbrojtje për Lëkurën Koleksioni Vitamin Energy C+D Pro përmban formula të pasura me vitaminë C dhe D, që i japin lëkurës vitalitet, ndriçim dhe mbrojtje nga stresi oksidativ. I përshtatshëm për lëkurë të lodhur, pa shkëlqim dhe të stresuar nga faktorët mjedisorë, ky koleksion ofron një rigjallërim të menjëhershëm dhe afatgjatë. ✔ Vitaminë C për efekt ndriçues dhe antioksidant✔ Vitaminë D për forcim të barrierës mbrojtëse të lëkurës✔ Rigjallërim dhe tonifikim i menjëhershëm✔ Ideal për lëkurë të lodhur, pa jetë dhe me ngjyrë të pabarabartë ✨ Jepi lëkurës suaj energjinë që i nevojitet me Vitamin Energy C+D Pro – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-16T11:44:41Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 5
 - [City Matt | Efekt Mat & Mbrojtje Urbane për Lëkurën – Amar.al - Amar Pharma -](https://amar.al/collections/city-matt): CITY MATT – Kontroll i Yndyrës dhe Mbrojtje Urbane për Lëkurën Tuaj Koleksioni City Matt ofron zgjidhjen perfekte për ata që kërkojnë një pamje mat gjatë gjithë ditës, edhe në kushte të ndotjes dhe stresit urban. Formulat moderne jo vetëm që kontrollojnë prodhimin e yndyrës dhe reduktojnë shkëlqimin, por ofrojnë edhe një shtresë mbrojtëse kundër faktorëve të dëmshëm mjedisorë. ✔ Efekt matifikues afatgjatë – pa shkëlqim të tepërt✔ Kontroll i prodhimit të sebumit për lëkurë të yndyrshme dhe mikse✔ Mbrojtje kundër ndotjes urbane dhe stresit oksidativ✔ Tekstura të lehta dhe jo-komedogjene ✨ Përdor CITY MATT për një pamje të freskët, të pastër dhe të mbrojtur – vetëm në Amar.al! - Amar Pharma
   Updated: 2025-11-16T11:44:41Z
@@ -3195,22 +3195,22 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-16T11:44:41Z
   Total Products: 3
 - [Lëkurë e Thatë | Hidratim dhe Rigjenerim i Thellë – Amar.al - Amar Pharma -](https://amar.al/collections/lekure-e-thate): Hidratim i Thellë për Lëkurë të Thatë dhe të Dehidratuar Ky koleksion përmban produkte të specializuara për të ushqyer dhe rikthyer butësinë natyrale të lëkurës së thatë. Me përbërës aktivë si acid hialuronik, ceramide dhe vitamina, këto formula sigurojnë hidratim të qëndrueshëm dhe qetësim të menjëhershëm. ✔ Kremra të pasur për mbrojtje dhe rigjenerim të barrierës së lëkurës✔ Serume të thelluara për rikthim elasticiteti dhe shkëlqimi✔ Pastrues pa sulfate që nuk e thajnë më shumë lëkurën✔ Të përshtatshme për lëkurë të ndjeshme dhe të irrituar ✨ Jepi lëkurës tënde kujdesin që meriton – me produkte të testuara klinikisht nga Amar.al! - Amar Pharma
-  Updated: 2025-11-24T12:10:52Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 127
 - [Lëkurë e Yndyrshme | Produkte për Kontrollin e Sebumit dhe Pastrim – Amar.al - Amar Pharma -](https://amar.al/collections/e-yndyrshme): Lëkurë e Yndyrshme – Balancim dhe Pastrim për një Pamje të Freskët Ky koleksion përmban produkte të dizajnuara për të kontrolluar prodhimin e tepërt të yndyrës, duke parandaluar bllokimin e poreve dhe krijimin e puçrrave. Formulat janë të lehta, pa yndyrë, dhe ndihmojnë në pastrimin dhe matësimin e lëkurës për një pamje më të pastër dhe të ekuilibruar. ✔ Pastrues thelbësorë dhe tonikë për kontrollin e yndyrës✔ Kremra dhe serume matës që zvogëlojnë shkëlqimin✔ Produkte me përbërës anti-bakterialë dhe qetësues✔ Ideale për përdorim ditor dhe për lëkurë me prirje akneike ✨ Merrni kontrollin mbi lëkurën tuaj me produktet më të mira për yndyrën vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 46
 - [Lëkurë Mikse | Kujdes Balancues dhe Efektiv – Amar.al - Amar Pharma -](https://amar.al/collections/mikse): Kujdes i Përshtatur për Lëkurën mikse Lëkura e përzier kërkon një balancë të veçantë midis hidratimit dhe kontrollit të yndyrës. Në këtë koleksion do të gjeni produkte që ndihmojnë në menaxhimin e zonave të ndryshme të fytyrës, duke mbajtur lëkurën të freskët, të butë dhe të shëndetshme. ✔ Pastrues të butë dhe kremra me përbërës balancues✔ Serume që kontrollojnë yndyrën pa tharë lëkurën✔ Produkte të testuara dermatologjikisht për përdorim të përditshëm✔ Zgjidhje ideale për të parandaluar puçrrat dhe skuqjet në zonat më problematike ✨ Kujdes i personalizuar për lëkurë të përzier – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 165
 - [Lëkurë e Ndjeshme apo sensitive  | Produkte të Buta dhe Dermatologjike – Amar.al - Amar Pharma -](https://amar.al/collections/sensitive): Kujdes i Butë dhe Efektiv për Lëkurën e Ndjeshme Koleksioni Sensitive është krijuar për të përmbushur nevojat e lëkurës së ndjeshme, e cila kërkon produkte të buta, pa irritues dhe të testuara dermatologjikisht. Zgjidhjet tona ndihmojnë në qetësimin e skuqjeve, zvogëlimin e kruarjes dhe forcimin e barrierës natyrale të lëkurës. ✔ Formulime pa parfum dhe parabene✔ Kremra, pastrues dhe serume të pastruara thellë por të buta✔ Produkte për përdorim të përditshëm, edhe për lëkurë të shumë të ndjeshme✔ Ideale për lëkurë me kuperozë, skuqje apo irritime të tjera ✨ Jepi lëkurës tuaj ndjeshmëri të trajtuar me kujdes profesional – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-24T12:10:52Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 67
 - [Lëkurë Normale | Kujdes i Balancuar për Çdo Ditë – Amar.al - Amar Pharma -](https://amar.al/collections/normale): Lëkurë Normale – Kujdes i Balancuar për Lëkurë të Shëndetshme Edhe lëkura normale ka nevojë për kujdes të përditshëm për të ruajtur balancën natyrale, hidratimin dhe mbrojtjen nga faktorët e jashtëm. Në këtë koleksion do të gjeni produkte të përzgjedhura posaçërisht për mirëmbajtjen e lëkurës normale në gjendje optimale. 🔸 Pastrues të butë që respektojnë barrierën natyrale të lëkurës🔸 Kremra ditës dhe natës për hidratim dhe parandalim të plakjes🔸 SPF për mbrojtje ditore nga rrezet UV🔸 Serume me vitamina dhe antioksidantë për shkëlqim dhe mbrojtje 💧 Përkujdesuni për lëkurën tuaj normale me produkte profesionale dhe të testuara dermatologjikisht – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 196
 - [Akne | Produkte Kundër Puçrrave & Lëkurës me Yndyrë – Amar.al - Amar Pharma -](https://amar.al/collections/akne): Zgjidhje Efektive për Lëkurën me Akné Ky koleksion është krijuar posaçërisht për personat me lëkurë të prirur ndaj aknés, puçrrave dhe skuqjeve. Produktet janë të testuara dermatologjikisht dhe përmbajnë përbërës aktivë që luftojnë bakteret, reduktojnë yndyrën dhe pastrojnë thellësisht poret. ✔ Pastrues fytyre që largojnë sebumin dhe papastërtitë pa e tharë lëkurën✔ Kremra dhe serume me acid salicilik, niacinamid, zink dhe retinoidë✔ Trajtime lokale për puçrra aktive dhe plagë post-akné✔ Të përshtatshme për adoleshentë dhe të rritur me lëkurë të ndjeshme ose mikse ✨ Rruga drejt një lëkure më të pastër fillon këtu – me produkte profesionale në Amar.al! - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 23
 - [Ekzemë, Psoriazë & Vitiligo | Produkte Dermatologjike – Amar.al - Amar Pharma -](https://amar.al/collections/ekzeme-psoriaze-vitiligo): Zgjidhje të specializuara për Ekzemë, Psoriazë dhe Vitiligo Në këtë koleksion do të gjeni produkte të formuluara posaçërisht për të trajtuar dhe lehtësuar simptomat e ekzemës, psoriazës dhe vitiligos. Çdo produkt është i testuar dermatologjikisht dhe vjen nga marka të besueshme që fokusohen në kujdesin për lëkurën e ndjeshme dhe të dëmtuar. ✔ Kremra qetësues dhe hidratues për reduktimin e skuqjes dhe kruarjes✔ Solucione rigjeneruese për baraspeshimin e barrierës së lëkurës✔ Formula pa parfum dhe pa irritues të zakonshëm✔ Për përdorim të përditshëm dhe të sigurt tek të rriturit dhe fëmijët 💡 Kujdes i butë, efekt i qëndrueshëm – gjej trajtimin e duhur në Amar.al! - Amar Pharma
   Updated: 2025-11-16T11:44:42Z
@@ -3231,7 +3231,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-18T11:28:22Z
   Total Products: 24
 - [APPPlaza - Best Sellers - Amar Pharma -](https://amar.al/collections/appplaza-best-sellers): - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 425
 - [Rutina të Plotë të Kujdesit të Lëkurës | Pharmaceris](https://amar.al/collections/rutina-te-plote-te-kujdesit-te-lekures): Zbulon rutina&nbsp;të personalizuara të kujdesit të lëkurës nga&nbsp;Pharmaceris:&nbsp;për lëkurë të ndjeshme, aknestike, anti-aging dhe&nbsp;depigmentuese. Produkte profesionale për rezultate të garantuara
   Updated: 2025-11-16T11:44:43Z
@@ -3240,13 +3240,13 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-24T12:10:52Z
   Total Products: 29
 - [Uljet e Cmendura 60% - Amar Pharma -](https://amar.al/collections/uljet-e-cmendura-60): Uljet e Cmendura 60% - Amar Pharma
-  Updated: 2025-11-25T12:12:48Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 99
 - [Ultimate Search - Do not delete - Amar Pharma -](https://amar.al/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection. - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 425
 - [AVADA - Best Sellers - Amar Pharma -](https://amar.al/collections/avada-best-sellers): - Amar Pharma
-  Updated: 2025-11-26T12:12:30Z
+  Updated: 2025-11-27T12:12:36Z
   Total Products: 425
 
 ## Blogs
