@@ -10,7 +10,7 @@
 - Contact Email: reverbarberproducts@gmail.com
 - Contact Phone: 0767661863
 - Address: Paunesti, Vrancea, 077145 Vrancea, Romania
-- Updated At: 2025-11-27T00:01:46.193Z
+- Updated At: 2025-11-28T00:01:23.818Z
 
 ## Products
 
@@ -289,7 +289,7 @@
   Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/rovra-high-speed-barber-shaver-8800-rpm-black-front-view.jpg?v=1751972517
   Price: €120.00 EUR
 - [ROVRA X-SHAVE V2 Replacement Foil and Blades](https://rovra.com/products/rovra-x-shave-v2-replacement-foil): Get the ROVRA X-SHAVE V2 replacement foil from Rovra for precise, durable shaving performance. Perfect fit and cutting-edge design for your X-SHAVE V2.
-  Updated: 2025-09-05T09:33:18Z
+  Updated: 2025-11-27T22:53:22Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -503,7 +503,7 @@
   Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/rovra-defines-professional-trimmer-blade-model-rc104g.jpg?v=1751976899
   Price: €75.00 EUR
 - [Professional Barber Brush ROVRA Aero L-Green](https://rovra.com/products/professional-barber-brush-rovra-aero-l-green): Rovra's Aero L-Green professional barber brush offers precision and durability with a modern design, making it perfect for barbers and enthusiasts alike.
-  Updated: 2025-11-18T12:38:06Z
+  Updated: 2025-11-27T12:38:23Z
   Vendor: Rovra
   Product Type: Pieptene
   Availability: Available
