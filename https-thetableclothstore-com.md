@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-11-27T00:01:23.503Z
+- Updated At: 2025-11-28T00:01:08.281Z
 
 ## Products
 
@@ -14120,11 +14120,14 @@
     Availability: Available
     Price: $74.99 USD
 - [Red Vails Brocade Velvet Tablecloth – Custom Size Wedding & Home Décor Linen](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-red-the-tablecloth-store): Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock sergers for long-lasting durability, and edges are finished with a fine rolled hem. Some fabrics may feature a meadowed edge instead of a hem when it's not possible to make a hem. If your custom tablecloth exceeds the fabric’s width, it will be connected with a top-stitched seam. For tablecloths that can be used on both sides, we use a reversible seam. Please note that if the fabric has a printed design, the pattern alignment at the seam may not match perfectly.
-  Updated: 2025-11-22T14:30:50Z
+  Updated: 2025-11-27T19:57:17Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/5848/1377/files/VAILS-RED_1802dbf5-6acb-4c74-8465-082849446e67.jpg?v=1747596343
+  - [48 Round](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-red-the-tablecloth-store?variant=46843031781601)
+    Availability: Available
+    Price: $59.99 USD
   - [Fabric Sample](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-red-the-tablecloth-store?variant=46843031290081)
     Availability: Available
     Price: $1.00 USD
@@ -14170,9 +14173,6 @@
   - [70 x 126](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-red-the-tablecloth-store?variant=46843031748833)
     Availability: Available
     Price: $102.99 USD
-  - [48 Round](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-red-the-tablecloth-store?variant=46843031781601)
-    Availability: Available
-    Price: $59.99 USD
   - [54 Round](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-red-the-tablecloth-store?variant=46843031814369)
     Availability: Available
     Price: $68.99 USD
@@ -33810,6 +33810,9 @@
     Author: User
   - [An Insightful Guide to Layering Tablecloths for Extra Flair](https://thetableclothstore.com/blogs/news/an-insightful-guide-to-layering-tablecloths-for-extra-flair): An Insightful Guide to Layering Tablecloths for Extra Flair
     Updated: 2025-11-25T02:12:58Z
+    Author: User
+  - [How Proper Tablecloth Care Can Extend Its Lifespan](https://thetableclothstore.com/blogs/news/how-proper-tablecloth-care-can-extend-its-lifespan): How Proper Tablecloth Care Can Extend Its Lifespan
+    Updated: 2025-11-27T01:12:54Z
     Author: User
 
 ## Store Pages
