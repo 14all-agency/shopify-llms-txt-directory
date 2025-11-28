@@ -6,12 +6,12 @@
 - Timezone: Europe/Rome
 - Created At: 2025-07-12T12:43:54Z
 - Contact Email: lazywhiskers.store@gmail.com
-- Updated At: 2025-11-26T00:00:28.067Z
+- Updated At: 2025-11-28T00:00:28.242Z
 
 ## Products
 
 - [LazyWhiskers Unisex Black Tee | Sarcastic Cat Streetwear | Born to nap](https://lazywhiskers.shop/products/born-to-nap): Born to Nap - Enjoy breathable comfort with premium 100% cotton and durable reinforced crew neckline. A funny cat t-shirt humor Gen Z will love. Shop now!
-  Updated: 2025-11-25T17:46:05Z
+  Updated: 2025-11-26T05:47:15Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -89,7 +89,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/8670877d-5a85-4057-b6cb-790b04f0b449.webp?v=1757585991
     Price: €24.99 EUR
 - [LazyWhiskers Unisex Black Tee | Sarcastic Cat Streetwear | Blame the algorithm](https://lazywhiskers.shop/products/blame-the-algorithm): Perfect for cat lovers and streetwear fans: our Blame the algorithm t-shirt provides lasting comfort with a witty, ironic print. Shop today!
-  Updated: 2025-11-25T17:44:15Z
+  Updated: 2025-11-26T05:50:45Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -215,7 +215,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/93e70a5a-5171-42c7-a98f-07664aebda03.webp?v=1757586013
     Price: €24.99 EUR
 - [LazyWhiskers Unisex Black Tee | Sarcastic Cat Streetwear Today | I will do nothing](https://lazywhiskers.shop/products/today-i-will-do-nothing): Classic unisex black tee with bold cat-inspired graphic. Designed for rebels who’d rather be judged by their cat than society.
-  Updated: 2025-11-25T17:41:20Z
+  Updated: 2025-11-26T05:45:56Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -293,7 +293,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/cc93734e-a4e4-47c0-ac02-2d243b336fd3.webp?v=1757586028
     Price: €24.99 EUR
 - [LazyWhiskers Unisex Black Tee | Sarcastic Cat Streetwear | Multitasking](https://lazywhiskers.shop/products/multitasking): Perfect for cat lovers seeking humor and style: our Multitasking t-shirt provides lasting comfort with a witty LazyWhiskers print. Shop today!
-  Updated: 2025-11-25T17:38:57Z
+  Updated: 2025-11-26T05:38:26Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -395,7 +395,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/bdefcb8d-94fb-4994-b104-3733141be8ec.webp?v=1757586039
     Price: €24.99 EUR
 - [LazyWhiskers Unisex Tee | Sarcastic Cat Streetwear |This isn't even my prime](https://lazywhiskers.shop/products/this-isnt-even-my-prime): Perfect for cat lovers and streetwear fans: our This isn't even my prime tee provides lasting comfort with a funny twist. Shop today!
-  Updated: 2025-11-25T14:26:12Z
+  Updated: 2025-11-27T01:17:02Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -517,7 +517,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/462db593-d061-4bcb-8392-a717a1d6c798.webp?v=1757586064
     Price: €24.99 EUR
 - [LazyWhiskers Unisex Black Tee | Sarcastic Cat Streetwear| Overthinking](https://lazywhiskers.shop/products/overthinking-i-call-it-research): Perfect for cat lovers who enjoy humor: our Overthinking tee provides everyday comfort with unapologetic attitude. Shop today!
-  Updated: 2025-11-25T14:26:11Z
+  Updated: 2025-11-27T01:18:59Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -571,7 +571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f3c4e166-6d01-4ac5-b980-6f8c3a43c26c.webp?v=1757586072
     Price: €24.99 EUR
 - [LazyWhiskers Meme Tee | Cat Chaos Streetwear | All this for fish](https://lazywhiskers.shop/products/all-this-for-fish-1): Perfect for cat lovers and streetwear fans: our All this for fish provides everyday comfort with unapologetic attitude and ironic style. Shop today!
-  Updated: 2025-11-25T17:36:35Z
+  Updated: 2025-11-26T05:33:35Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -649,7 +649,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7c119e14-2bbd-449c-9597-e7295f2a076b.webp?v=1757586084
     Price: €24.99 EUR
 - [LazyWhiskers Women’s Black Tee | Feline Energy & Attitude| Shedding the patriarchy](https://lazywhiskers.shop/products/shedding-the-patriarchy-1): Women’s fit black tee with unapologetic feline graphic. Soft cotton, bold streetwear — 100% cat-approved sarcasm.
-  Updated: 2025-11-25T17:32:59Z
+  Updated: 2025-11-26T05:37:45Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -703,7 +703,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/8b1619ee-1fa2-4967-b440-80240367433a.webp?v=1757586090
     Price: €24.99 EUR
 - [LazyWhiskers Unisex Tee | Front & Back Cat Print | Peace inside](https://lazywhiskers.shop/products/outside-not-my-problem): Unisex cotton tee with bold LazyWhiskers front and back design. Twice the chaos, twice the attitude — Designed to Disobey
-  Updated: 2025-11-25T17:30:56Z
+  Updated: 2025-11-26T05:28:45Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -781,7 +781,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/df4577b4-30f8-4fc3-b957-5ae79d2b0160.webp?v=1758554500
     Price: €27.99 EUR
 - [LazyWhiskers Unisex White Tee | Sarcastic Cat Streetwear | I only fall asleep](https://lazywhiskers.shop/products/i-only-fall-asleep): Classic unisex white tee with bold cat-inspired graphic. Designed for rebels who’d rather be judged by their cat than society
-  Updated: 2025-11-25T17:27:46Z
+  Updated: 2025-11-26T05:28:02Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -883,7 +883,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f34bfcbe-70b7-4f86-a576-33922c124719.webp?v=1757586110
     Price: €24.99 EUR
 - [LazyWhiskers Unisex Black Tee | Sarcastic Cat Streetwear | We don't do fetch here](https://lazywhiskers.shop/products/we-don-do-fetch-here): Classic unisex black tee with bold cat-inspired graphic. Designed for rebels who’d rather be judged by their cat than society
-  Updated: 2025-11-25T17:24:06Z
+  Updated: 2025-11-26T05:28:54Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -985,7 +985,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/e7ba7d79-eea9-4bd0-8f12-9620f889e8d1.webp?v=1757586122
     Price: €24.99 EUR
 - [LazyWhiskers Unisex Tee | Sarcastic Cat Streetwear | I meditate](https://lazywhiskers.shop/products/i-meditate): Classic unisex tee with bold cat-inspired graphic. Designed for rebels who’d rather be judged by their cat than society
-  Updated: 2025-11-25T17:19:34Z
+  Updated: 2025-11-26T05:21:05Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1063,7 +1063,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/847945fb-0e5c-4002-b18c-c9d98deaef73.webp?v=1757586136
     Price: €24.99 EUR
 - [LazyWhiskers Women’s White Tee | Feline Energy & Attitude | Girl be serious](https://lazywhiskers.shop/products/girl-be-serious): Women’s fit white tee with unapologetic feline graphic. Soft cotton, bold streetwear — 100% cat-approved sarcasm
-  Updated: 2025-11-25T17:15:59Z
+  Updated: 2025-11-26T05:26:00Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1157,7 +1157,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2655ce34-5b5d-4f5f-97a3-6e309fb0ce39.webp?v=1757586148
     Price: €24.99 EUR
 - [LazyWhiskers Unisex Tee | Sarcastic Cat Streetwear | Will work for snacks](https://lazywhiskers.shop/products/will-work-for-snacks): Classic unisex tee with bold cat-inspired graphic. Designed for rebels who’d rather be judged by their cat than society
-  Updated: 2025-11-25T17:13:40Z
+  Updated: 2025-11-26T05:23:30Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1235,7 +1235,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/bf21f325-691f-4158-ba70-2af4081ae189.webp?v=1757586157
     Price: €24.99 EUR
 - [LazyWhiskers Unisex Tee | Front & Back Cat Print Streetwear](https://lazywhiskers.shop/products/just-kidding): Unisex cotton tee with bold LazyWhiskers front and back design. Twice the chaos, twice the attitude — Designed to Disobey.
-  Updated: 2025-11-25T17:09:42Z
+  Updated: 2025-11-26T05:10:46Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1337,7 +1337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/125c3261-7276-4f24-9a2d-d881559803de.webp?v=1758554153
     Price: €27.99 EUR
 - [LazyWhiskers Unisex Black Tee | Sarcastic Cat Streetwear | Red Flag](https://lazywhiskers.shop/products/i-saw-red-flags): Classic unisex black tee with bold cat-inspired graphic. Designed for rebels who’d rather be judged by their cat than society.
-  Updated: 2025-11-25T17:06:35Z
+  Updated: 2025-11-26T05:02:39Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1415,7 +1415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/6247031c-02c1-4d84-b0af-655d5ea28545.webp?v=1757586176
     Price: €24.99 EUR
 - [Certified Grinch Mate Hoodie – Sarcastic Christmas Hoodie](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie): Officially not in the holiday mood. The Certified Grinch Mate Hoodie features a smug festive cat and peak anti-Christmas energy. LazyWhiskers original.
-  Updated: 2025-11-25T17:00:50Z
+  Updated: 2025-11-26T05:01:00Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1501,7 +1501,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/cba52a23-443e-411b-b446-41854f83f869.webp?v=1762267809
     Price: €36.79 EUR
 - [Naughty By Choice Hoodie – Sarcastic Cat Christmas](https://lazywhiskers.shop/products/naughty-by-choice-hoodie): For the cat that chooses chaos. The Naughty By Choice Hoodie brings holiday sarcasm, cozy streetwear, and unapologetic attitude. Perfect for rule-breakers.
-  Updated: 2025-11-25T17:00:07Z
+  Updated: 2025-11-26T05:00:18Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1587,7 +1587,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3387b0ba-4aae-4553-86c5-cf96a392e895.webp?v=1762268443
     Price: €36.79 EUR
 - [Not Delulu Just Grinch Hoodie – Sarcastic Christmas Cat](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie): For the ones who don’t fake holiday cheer. The Not Delulu,Just Grinch Hoodie brings cozy streetwear attitude,festive sarcasm. Perfect for anti-Christmas energy.
-  Updated: 2025-11-25T16:59:37Z
+  Updated: 2025-11-26T04:59:34Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1673,7 +1673,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/88ef3eb6-b773-46a4-90bb-3637a72565f6.webp?v=1762268987
     Price: €36.79 EUR
 - [Santa Left Me On Read Hoodie – Sarcastic Christmas Cat](https://lazywhiskers.shop/products/santa-left-me-on-read-hoodie): For when even Santa can’t be bothered. The Santa Left Me On Read Hoodie serves festive sarcasm, cozy streetwear, and zero holiday enthusiasm.
-  Updated: 2025-11-25T16:58:37Z
+  Updated: 2025-11-26T04:58:37Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1739,7 +1739,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a0e28c54-ef66-4c0d-8216-803f869c753e.webp?v=1762269330
     Price: €36.79 EUR
 - [Christmas Lights Are Talking Again Hoodie – Sarcastic Cat Christmas](https://lazywhiskers.shop/products/christmas-lights-are-talking-again-hoodie): When the decorations start plotting. The Christmas Lights Are Talking Again Hoodie mixes cozy streetwear with festive chaos and cat-level attitude.
-  Updated: 2025-11-25T16:57:49Z
+  Updated: 2025-11-26T04:57:53Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1785,7 +1785,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1a37304e-f4d8-4835-ae4c-6541d195563c.webp?v=1762269578
     Price: €36.79 EUR
 - [Jingle Hell Hoodie – Sarcastic Christmas Cat](https://lazywhiskers.shop/products/jingle-hell-hoodie): Holiday chaos, but make it fashion.The Jingle Hell Hoodie features a sarcastic cat tangled in lights,perfect for anti-Christmas mood and cozy streetwear energy.
-  Updated: 2025-11-25T16:57:14Z
+  Updated: 2025-11-26T04:57:49Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1937,7 +1937,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3cf747b8-5a24-4fa2-b392-001a16fafa08.webp?v=1764095548
     Price: €36.79 EUR
 - [Loading CAT.exe Hoodie – Sarcastic Tech Christmas Cat](https://lazywhiskers.shop/products/loading-catexe-hoodie): System error:Christmas spirit not found. Cozy hoodie with glitch-cat graphic and holiday sarcasm. Perfect for tech lovers, cat people, and festive chaos energy.
-  Updated: 2025-11-25T16:56:13Z
+  Updated: 2025-11-26T04:56:07Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2023,7 +2023,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2f849a6b-b130-4c7e-93ca-81dd4e19f1bf.webp?v=1762269863
     Price: €36.79 EUR
 - [Merry Glithmas Hoodie – Sarcastic Cat Christmas Streetwear](https://lazywhiskers.shop/products/merry-glithmas-hoodie): Make Christmas a little glitchy. Cozy, bold, and sarcastic—perfect for cat lovers who prefer chaos over holiday cheer. Limited LazyWhiskers holiday drop.
-  Updated: 2025-11-25T16:55:13Z
+  Updated: 2025-11-26T04:55:20Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2089,7 +2089,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ec1209fc-d0db-4a5e-92e8-ae5949495647.webp?v=1762269908
     Price: €36.79 EUR
 - [Dear Santa Define Good Hoodie – Funny Christmas Cat Hoodie](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie): The “Dear Santa, Define Good” Hoodie is your official excuse for mischief this Christmas. Featuring a smug holiday cat with zero regrets. LazyWhiskers original.
-  Updated: 2025-11-25T16:54:22Z
+  Updated: 2025-11-26T04:54:34Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2261,7 +2261,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/e5f07557-7d1a-4eaf-b86e-9597985908a2.webp?v=1764064187
     Price: €36.79 EUR
 - [Telekinetic? Nah, Just Dramatic Hoodie | LazyWhiskers](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic): You say telekinetic — we say dramatic. This LazyWhiskers hoodie blends sarcasm, attitude, and cat-level chaos. Limited edition streetwear.
-  Updated: 2025-11-25T16:52:50Z
+  Updated: 2025-11-26T04:53:27Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2343,7 +2343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/70972d8c-f2b1-4f92-af3e-b2cb0b3f2a1a.webp?v=1762612667
     Price: €36.79 EUR
 - [Friends Don’t Lie. Cats Don’t Care T-Shirt | LazyWhiskers](https://lazywhiskers.shop/products/friends-dont-lie-cats-dont-care): Friends don’t lie. Cats don’t care. A sarcastic LazyWhiskers tee for unapologetic cat lovers — vintage-style, limited edition, and designed to disobey.
-  Updated: 2025-11-25T16:52:26Z
+  Updated: 2025-11-26T04:52:33Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2369,7 +2369,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1730edd8-7a70-4628-ba2e-1af5c1a151ae.webp?v=1762612718
     Price: €19.99 EUR
 - [Enter the Nap Side Down T-Shirt — Limited Edition | LazyWhiskers](https://lazywhiskers.shop/products/enter-the-nap-side-down): Step into the Nap Side Down — where naps rule and reality glitches. Retro rebellion meets cat energy in this Limited Edition LazyWhiskers tee.
-  Updated: 2025-11-25T16:51:16Z
+  Updated: 2025-11-26T04:51:26Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
