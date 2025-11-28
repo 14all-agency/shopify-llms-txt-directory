@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T09:00:11Z
 - Contact Email: info@heliusoriginals.com
-- Updated At: 2025-11-27T00:01:21.325Z
+- Updated At: 2025-11-28T00:00:32.496Z
 
 ## Products
 
 - [Smoke N’ Luxe Cocktail Smoker | Luxury Smoke Infusion Barware](https://heliusoriginals.com/products/smoke-n-luxe-cocktail-enhancement-set-deluxe): Elevate cocktails & cuisine with the Smoke N’ Luxe Set. Handcrafted smoker, torch, and premium Ontario wood shavings for luxury entertaining.
-  Updated: 2025-10-03T00:50:05Z
+  Updated: 2025-11-27T15:13:26Z
   Vendor: Helius Originals
   Product Type: 
   Availability: Available
@@ -59,7 +59,7 @@
     Availability: Available
     Price: $99.99 USD
 - [LuxeShavings Wood Collection | Premium Cocktail Smoking Woods](https://heliusoriginals.com/products/luxeshavings-wood-collection): Elevate cocktails with LuxeShavings Wood Collection. Four premium wood shavings for smoky flavors — a must-have for mixology lovers.
-  Updated: 2025-10-03T00:50:05Z
+  Updated: 2025-11-27T15:13:26Z
   Vendor: Helius Originals
   Product Type: 
   Availability: Available
