@@ -7,7 +7,7 @@
 - Created At: 2025-05-23T17:13:08Z
 - Contact Email: sklep@lunnea.pl
 - Address: Nowa Wola Gołębiowska 40, Radom 26-613 Polska
-- Updated At: 2025-11-26T00:00:27.613Z
+- Updated At: 2025-11-28T00:00:49.856Z
 
 ## Products
 
