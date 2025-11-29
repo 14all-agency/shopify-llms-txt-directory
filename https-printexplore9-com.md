@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-11-27T00:01:21.775Z
+- Updated At: 2025-11-29T00:00:35.516Z
 
 # Print & Explore 9 – Eco Apparel | Organic Skincare | Custom Gifts
 Print & Explore 9 is your destination for sustainable fashion, natural skincare, and meaningful custom gifts. We create eco-friendly apparel, organic skincare essentials, and personalized items designed to inspire wellness, creativity, and conscious living. Discover sustainable products that celebrate self-care and mindful style.
@@ -408,34 +408,34 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/ceramic-mug-heart.jpg?v=1759081818
   Price: $9.95 USD
 - [Cozy Warmth Hoodie | Soft Durable Sweatshirt for Everyday Comfort](https://printexplore9.com/products/unisex-heavy-blend-hooded-sweatshirt-print-explore): Stay warm and stylish with this cozy unisex hoodie featuring a soft fabric blend roomy pocket and adjustable hood for comfort on chilly days.
-  Updated: 2025-10-12T09:53:30Z
+  Updated: 2025-11-27T18:08:58Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-hooded-sweatshirt-printandexplore-1.jpg?v=1759081114
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-hooded-sweatshirt-printandexplore-1.jpg?v=1764266937
   - [White / S](https://printexplore9.com/products/unisex-heavy-blend-hooded-sweatshirt-print-explore?variant=45051803795723)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-hooded-sweatshirt-printandexplore-1.jpg?v=1759081114
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-hooded-sweatshirt-printandexplore-1.jpg?v=1764266937
     Price: $34.65 USD
   - [White / M](https://printexplore9.com/products/unisex-heavy-blend-hooded-sweatshirt-print-explore?variant=45051803828491)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-hooded-sweatshirt-printandexplore-1.jpg?v=1759081114
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-hooded-sweatshirt-printandexplore-1.jpg?v=1764266937
     Price: $34.65 USD
   - [White / L](https://printexplore9.com/products/unisex-heavy-blend-hooded-sweatshirt-print-explore?variant=45458770592011)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-hooded-sweatshirt-printandexplore-1.jpg?v=1759081114
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-hooded-sweatshirt-printandexplore-1.jpg?v=1764266937
     Price: $34.65 USD
   - [White / XL](https://printexplore9.com/products/unisex-heavy-blend-hooded-sweatshirt-print-explore?variant=45051803861259)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-hooded-sweatshirt-printandexplore-1.jpg?v=1759081114
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-hooded-sweatshirt-printandexplore-1.jpg?v=1764266937
     Price: $34.65 USD
   - [White / 2XL](https://printexplore9.com/products/unisex-heavy-blend-hooded-sweatshirt-print-explore?variant=45051803894027)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-hooded-sweatshirt-printandexplore-1.jpg?v=1759081114
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-hooded-sweatshirt-printandexplore-1.jpg?v=1764266937
     Price: $38.70 USD
   - [White / 3XL](https://printexplore9.com/products/unisex-heavy-blend-hooded-sweatshirt-print-explore?variant=45051803926795)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-hooded-sweatshirt-printandexplore-1.jpg?v=1759081114
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-hooded-sweatshirt-printandexplore-1.jpg?v=1764266937
     Price: $46.32 USD
 - [Women’s Boxy T-Shirt](https://printexplore9.com/products/womans-t-shirt-print-explore): Stand out in ultra-soft 100% Airlume cotton boxy tee with relaxed fit and dropped shoulders—effortless style and vibrant elegance all day long!
   Updated: 2025-11-10T02:46:38Z
@@ -736,65 +736,65 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/insulated-travel-mug-10oz.jpg?v=1759081873
   Price: $32.12 USD
 - [Unisex Heavy Blend™ Crewneck Sweatshirt](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt): Stand out with this Unisex Heavy Blend™ Crewneck Sweatshirt. Soft and cozy fabric for comfort. perfect for casual looks that make a statement.
-  Updated: 2025-11-09T06:20:12Z
+  Updated: 2025-11-28T03:27:30Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-6.jpg?v=1761745400
   - [S / Sand](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359390851339)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
   - [S / Sport Grey](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359390884107)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
   - [S / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359390916875)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
   - [M / Sand](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359390949643)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
   - [M / Sport Grey](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359390982411)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
   - [M / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391015179)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
   - [L / Sand](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391047947)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
   - [L / Sport Grey](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391080715)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
   - [L / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391113483)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
   - [XL / Sand](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391146251)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
   - [XL / Sport Grey](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391179019)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
   - [XL / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391211787)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
   - [2XL / Sand](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391244555)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
   - [2XL / Sport Grey](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391277323)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
   - [2XL / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391310091)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
   - [3XL / Sand](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391342859)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
   - [3XL / Sport Grey](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391375627)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
   - [3XL / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391408395)
     Availability: Available
-    Price: $39.95 USD
+    Price: $47.95 USD
 - [Ultra-Soft & Comfy Infant Baby Rib Bodysuit](https://printexplore9.com/products/pink-bears-infant-baby-rib-bodysuit-print-explore): Ultra-soft infant bodysuit with easy lap shoulders for quick changes. Made of 100% ring-spun cotton for ultimate comfort and gentle care. Perfect for your baby.
   Updated: 2025-11-09T06:19:01Z
   Vendor: Printify
@@ -990,7 +990,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Availability: Available
     Price: $49.95 USD
 - [Cute Bears Family Suitcase](https://printexplore9.com/products/suitcase): Travel in style with this cute pink bears suitcase. swivel wheels and built-in lock & comfy handle for smooth and secure adventures!
-  Updated: 2025-11-10T02:46:37Z
+  Updated: 2025-11-28T03:06:56Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -1958,14 +1958,18 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Updated: 2025-10-12T18:56:49Z
     Author: NAIRA AVALIANI
   - [Unleash Your Style Fearlessly | Bold & Guilt-Free Fashion](https://printexplore9.com/blogs/news/unleash-your-style-fearlessly-unique-designs-secure-shopping-sustainable-choices): Unleash Your Style Fearlessly | Bold & Guilt-Free Fashion
-    Updated: 2025-10-12T18:53:59Z
+    Updated: 2025-11-28T15:48:11Z
     Author: NAIRA AVALIANI
   - [Celebrate Mom: Exclusive Mother’s Day Discounts & Deals](https://printexplore9.com/blogs/news/make-moms-heart-sing-unique-designs-unbeatable-savings-the-gift-of-security): Celebrate Mom: Exclusive Mother’s Day Discounts & Deals
-    Updated: 2025-11-25T15:52:22Z
+    Updated: 2025-11-28T15:48:12Z
     Author: NAIRA AVALIANI
   - [Printexplore: US Sustainable Apparel & Organic Skincare](https://printexplore9.com/blogs/news/press-release-printexplore-usa-made-sustainable-apparel-skincare): Printexplore: US Sustainable Apparel & Organic Skincare
     Updated: 2025-10-12T18:50:09Z
     Author: NAIRA AVALIANI
+  - [7  Ways to Glow This Holiday  | Clean Skincare & Mindful Gifts](https://printexplore9.com/blogs/news/7-ways-to-enjoy-a-sustainable-holiday-glow-natural-skincare-self-care-mindful-gifts): 7  Ways to Glow This Holiday  | Clean Skincare & Mindful Gifts
+    Updated: 2025-11-28T15:48:13Z
+    Author: NAIRA AVALIANI
+    Tags: eco-friendly skincare, holiday beauty tips, mindful living, sustainable holiday gifts
 
 ## Store Pages
 
