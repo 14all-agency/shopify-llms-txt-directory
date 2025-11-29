@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-11-27T00:02:00.182Z
+- Updated At: 2025-11-29T00:01:32.052Z
 
 ## Products
 
@@ -25,13 +25,13 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/versatile-portable-air-pump-mini-powerful-and-rechargeable-550604.webp?v=1754435844
     Price: $19.95 USD
 - [Mint Green Handbags – Stylish Leather Purse for Essentials](https://ursupermart.com/products/mint-green-leather-handbag-organized-stylish): Mint green handbags offer stylish organization for your essentials, crafted from soft, durable leather with hands-free carrying. Shop this chic accessory today
-  Updated: 2025-11-26T10:55:30Z
+  Updated: 2025-11-27T00:12:11Z
   Vendor: S1B|S1|Make | Meta - Trendsi** + Blog
   Product Type: Leather handbag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mint-green-leather-handbag-back.webp?v=1736385332
   - [Creamy White](https://ursupermart.com/products/mint-green-leather-handbag-organized-stylish?variant=41409921810522)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cream-white-handbag-modern-design.webp?v=1736385332
     Price: $39.95 USD
   - [Black](https://ursupermart.com/products/mint-green-leather-handbag-organized-stylish?variant=41409921876058)
@@ -39,7 +39,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/black-leather-handbag-classic-design.webp?v=1736385332
     Price: $39.95 USD
   - [Silver](https://ursupermart.com/products/mint-green-leather-handbag-organized-stylish?variant=41409921908826)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/silver-leather-handbag-modern-look.webp?v=1736385332
     Price: $39.95 USD
 - [Women's Festive Christmas Tree Dress - Easy Holiday Fun](https://ursupermart.com/products/christmas-tree-dress-costume-ornaments-star-party): This women's festive Christmas tree dress is a complete, all-in-one outfit with pre-attached ornaments and a star; spread holiday cheer effortlessly and shop now!
@@ -937,8 +937,8 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/streaming-service-remote-control.webp?v=1728941307
   Price: $17.95 USD
 - [Fire TV Remote Protector Silicone Cover with Grip Lanyard](https://ursupermart.com/products/silicone-covers-for-fire-tv-stick-remotes): Fire TV remote protector provides a comfy grip, shock absorption, and bright color to prevent drops and loss; protect your remote now!
-  Updated: 2025-11-26T10:57:04Z
-  Vendor: S1B|S1|Meta - Dsers**
+  Updated: 2025-11-28T10:30:46Z
+  Vendor: S1B|S1|Meta - Dsers** + Blog
   Product Type: Remote cover
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/Light-Blue-silicone-covers-for-amazon-fire-tv-stick-remotes.webp?v=1728229864
@@ -1113,7 +1113,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/colorful-lips-print-tote-bag.webp?v=1728267615
     Price: $60.95 USD
 - [Women Handbags: Professional Vegan Leather Tote](https://ursupermart.com/products/women-handbags-professional-vegan-leather-tote): Women Handbags: Elevate your style with this structured vegan tote, perfect for work and travel, keeping essentials organized and secure. Shop now!
-  Updated: 2025-11-26T10:57:24Z
+  Updated: 2025-11-27T00:12:06Z
   Vendor: S1B|S1|S1B|Meta - Trendsi**-UP
   Product Type: Professional vegan leather tote
   Availability: Available
@@ -1135,13 +1135,13 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/beige-leather-designer-tote-front-view.webp?v=1736822487
     Price: $43.95 USD
 - [Women Handbags: Structured Faux Leather, Organized Style](https://ursupermart.com/products/women-handbags-structured-faux-leather-tote): Women handbags: Discover our structured faux leather bag, perfect for work or style, offering secure storage and versatile carrying. Elevate your look today!
-  Updated: 2025-11-26T10:57:26Z
+  Updated: 2025-11-27T00:12:11Z
   Vendor: S1B|S1|S1B|Meta - Trendsi**-UP
   Product Type: Women's structured faux leather handbag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-beige-leather-handbag-silver-clasp.jpg?v=1731816177
   - [Camel / One Size](https://ursupermart.com/products/women-handbags-structured-faux-leather-tote?variant=41440098353242)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-beige-leather-handbag-silver-clasp.jpg?v=1731816177
     Price: $47.95 USD
   - [Creamy White / One Size](https://ursupermart.com/products/women-handbags-structured-faux-leather-tote?variant=41440098386010)
@@ -1179,13 +1179,13 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/blush-pink-hobo-bag-braided-handle.webp?v=1728873153
     Price: $41.95 USD
 - [Women's Handbag - Structured Vegan Leather Work Bag](https://ursupermart.com/products/women-s-handbag-structured-vegan-leather-bag): Women's Handbag: Elevate your professional image with this stylish, structured vegan leather bag, keeping all essentials organized. Shop today!
-  Updated: 2025-11-26T10:57:30Z
+  Updated: 2025-11-27T00:12:11Z
   Vendor: S1B|S1|S1B|Meta - Trendsi**-UP
   Product Type: Women's handbag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/blue-leather-bag-back-zipper.webp?v=1730324008
   - [Blue](https://ursupermart.com/products/women-s-handbag-structured-vegan-leather-bag?variant=41440107102298)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/powder-blue-leather-handbag-silver-hardware.webp?v=1730324008
     Price: $42.95 USD
   - [L. Purple](https://ursupermart.com/products/women-s-handbag-structured-vegan-leather-bag?variant=41440107167834)
@@ -1975,14 +1975,14 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/single-beige-slipper-platform-sole-furry.webp?v=1731800244
     Price: $26.20 USD
 - [Sparkling Festive Tree Earrings for the Holidays](https://ursupermart.com/products/festive-tree-earrings): Dazzle this holiday season with our handmade festive tree earrings. Available in green, red, and blue, they're perfect for any celebration!
-  Updated: 2025-11-26T10:59:10Z
+  Updated: 2025-11-27T14:57:01Z
   Vendor: S1B|Meta - Trendsi
   Product Type: earring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2025-11-26T23:16:41Z
+  Updated: 2025-11-28T15:54:21Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -16509,7 +16509,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/dress-white-smocked-fit-shoulder-tie.webp?v=1751655345
     Price: $34.95 USD
 - [Maxi Dresses for Women Floral Print Maxi Dress](https://ursupermart.com/products/maxi-dresses-for-women-long-flowy-evening-gowns-online): Shop our collection of comfortable maxi dresses with tie waist and short sleeves, perfect for warm weather and travel, featuring printed designs and a flowy fit.
-  Updated: 2025-11-26T11:33:53Z
+  Updated: 2025-11-28T19:03:14Z
   Vendor: S1B|Updated - Trendsi
   Product Type: Printed Maxi Dress
   Availability: Available
@@ -16691,7 +16691,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/smocked-off-shoulder-floral-midi-dress-full.webp?v=1751920758
     Price: $41.95 USD
 - [Floral Dresses for Women Square Neck Style](https://ursupermart.com/products/floral-dresses-for-women-beautiful-flowy-designs-online): Floral cami dress with pockets, comfortable and versatile for everyday wear, made from easy-care polyester, perfect for summer.
-  Updated: 2025-11-26T11:34:15Z
+  Updated: 2025-11-27T10:00:36Z
   Vendor: S1B|Updated - Trendsi
   Product Type: Floral Square Neck Cami Dress with Pockets
   Availability: Available
@@ -17397,14 +17397,14 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/halterneck-fan-ivory-white-color.webp?v=1755274187
     Price: $19.95 USD
 - [Espresso Machine for Home Use Under $500](https://ursupermart.com/products/espresso-machine-automatic-coffee-maker-brewer-device): Experience the perfect shot with our 20 bar Espresso Machine, ideal for home baristas, featuring a built-in milk frother for lattes and cappuccinos.
-  Updated: 2025-11-26T11:35:47Z
+  Updated: 2025-11-28T10:25:22Z
   Vendor: S1B|Updated - CJ
   Product Type: Espresso Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/espresso-machine-stainless-steel-man-drinking.webp?v=1753071166
   Price: $174.95 USD
 - [Pizza Oven for Outdoor Pizza Cooking](https://ursupermart.com/products/pizza-oven-outdoor-portable-gas-wood-fired-cooking): Experience the best of outdoor cooking with our 4-in-1 pizza oven and grill, perfect for backyard gatherings and family events, offering a compact and durable iron design.
-  Updated: 2025-11-26T11:35:48Z
+  Updated: 2025-11-28T15:25:47Z
   Vendor: S1B|Updated - CJ
   Product Type: Outdoor Oven
   Availability: Available
@@ -17623,7 +17623,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/grip-strengthener-white-textured-grip-set.webp?v=1752592669
     Price: $22.95 USD
 - [Phone Stabilizer - Steady Shots. Shop Now!](https://ursupermart.com/products/best-phone-stabilizer-for-smooth-video): Capture smooth, steady videos with our phone stabilizer.  Perfect for vlogging & mobile photography, this multifunctional grip offers stability & convenience. Shop now!
-  Updated: 2025-11-26T11:36:23Z
+  Updated: 2025-11-28T00:25:27Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Multifunctional phone grip/stand with magnetic camera handle
   Availability: Available
@@ -18088,7 +18088,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/portable-magnetic-phone-holder-white-accessory.webp?v=1753896986
     Price: $29.95 USD
 - [Colombian Shapewear - Sculpt & Slim Instantly!](https://ursupermart.com/products/best-colombian-shapewear-body-shapers): Shop Colombian shapewear for ultimate tummy control.  Our fajas offer post-surgery support & a flattering silhouette.  Buy now!
-  Updated: 2025-11-26T11:37:37Z
+  Updated: 2025-11-27T06:26:47Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Colombian Shapewear (Fajas, Body Shaper, Tummy Control Shapewear, Post-Surgery Shapewear, Butt Lifter Shapewear, Melibelt Bodysuit)
   Availability: Available
@@ -18106,7 +18106,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/body-shaper-fajas-tummy-control-black.webp?v=1752771030
     Price: $34.95 USD
   - [Black / XL](https://ursupermart.com/products/best-colombian-shapewear-body-shapers?variant=41968196321370)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/body-shaper-fajas-tummy-control-black.webp?v=1752771030
     Price: $34.95 USD
   - [Black / 2XL](https://ursupermart.com/products/best-colombian-shapewear-body-shapers?variant=41968196157530)
@@ -18142,7 +18142,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/beige-colombian-fajas-body-shaper.webp?v=1752771030
     Price: $42.95 USD
 - [Wireless Charging Station - Charge Faster & Easier](https://ursupermart.com/products/best-wireless-charging-station-2024): Fast wireless charging station with alarm clock!  Charge your phone & wake up on time.  LED display & 15W fast charging. Shop now!
-  Updated: 2025-11-26T11:37:40Z
+  Updated: 2025-11-28T00:26:37Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: 5-in-1 Wireless Charging Station
   Availability: Available
@@ -18628,7 +18628,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-summer-slit-dress-pink-hibiscus.webp?v=1750951080
     Price: $34.95 USD
 - [Portable Garment Steamer - Wrinkle-Free, On-the-Go!](https://ursupermart.com/products/portable-garment-steamer-for-travel-wrinkle-remover): Wrinkle-free clothes on the go! This portable garment steamer is perfect for travel & removes wrinkles quickly.  Shop now!
-  Updated: 2025-11-26T11:38:37Z
+  Updated: 2025-11-28T04:26:41Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Travel steamer
   Availability: Available
@@ -19206,7 +19206,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-seamless-butt-lifting-sportswear.webp?v=1750367806
     Price: $54.95 USD
 - [Red Light for Eye Wrinkles - Therapy Reduces Fine Lines](https://ursupermart.com/products/red-light-therapy-eye-wrinkle-treatment-skin): Reduce eye wrinkles & dark circles naturally with our red light therapy device.  See visible results at home!
-  Updated: 2025-11-26T11:40:12Z
+  Updated: 2025-11-27T23:28:08Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: 
   Availability: Available
@@ -19430,7 +19430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-set-women-black-blue-style.webp?v=1750287681
     Price: $74.95 USD
 - [Rotating Kitchen Faucet - Flexible Sink Tap!](https://ursupermart.com/products/rotating-kitchen-faucet-with-sprayer-360): Upgrade your kitchen with our 360° rotating kitchen faucet!  Enjoy effortless sink access & a stylish, splash-proof design. Shop now!
-  Updated: 2025-11-26T11:40:58Z
+  Updated: 2025-11-27T18:27:01Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Multifunctional kitchen faucet attachment
   Availability: Available
@@ -19460,7 +19460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/multi-use-faucet-rotatable-head.webp?v=1749303466
     Price: $59.95 USD
 - [Laptop Lunch Bag for Women - Insulated & Stylish](https://ursupermart.com/products/womens-insulated-lunch-bag-laptop-pocket): Stylish women's insulated lunch bag with laptop pocket!  Large capacity, leak-proof, & perfect for work. Shop now!
-  Updated: 2025-11-26T11:41:02Z
+  Updated: 2025-11-27T19:26:58Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Stylish insulated laptop lunch bag for women.
   Availability: Available
@@ -21547,7 +21547,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2025-11-26T11:45:17Z
+  Updated: 2025-11-28T13:26:46Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -22531,7 +22531,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fleece-jogger-pink-women-soft-drawstring-pants.webp?v=1751594983
     Price: $38.95 USD
 - [Men's Trousers for Comfort and Style Everyday](https://ursupermart.com/products/mens-trousers-with-large-pockets-for-comfort-and-practicality): Comfortable men's trousers with large pockets and durable stitching, perfect for work, hiking, or everyday use.
-  Updated: 2025-11-26T11:48:20Z
+  Updated: 2025-11-28T03:25:26Z
   Vendor: S1B|@Updated - CJ
   Product Type: Men's Trousers
   Availability: Available
@@ -22730,7 +22730,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/659c82c8-d7e4-4b58-9740-6e2f8fcec335.jpg?v=1755830480
   Price: $649.95 USD
 - [Fairy Lights String Christmas Ribbon Bow Tie](https://ursupermart.com/products/fairy-lights-string-christmas-ribbon-bow-tie): Product information: Packing: OPP bag Item No.: Ribbon with colorful lights Material: Cloth + LED light Size: width 5CM Packing list: Lantern*1
-  Updated: 2025-11-26T11:48:38Z
+  Updated: 2025-11-28T16:25:28Z
   Vendor: S1B|@CJ
   Product Type: Ribbon Christmas Lights
   Availability: Available
@@ -22809,7 +22809,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/naughty-garden-gnome-close-up-details.webp?v=1758592253
   Price: $18.95 USD
 - [Desktop electric heater for fast, quiet warmth](https://ursupermart.com/products/desktop-electric-heater-fast-quiet-warmth-compact): Desktop electric heater offers 2-second fast, silent warmth for small spaces, with safety features and energy-saving design. Enjoy cozy comfort today!
-  Updated: 2025-11-26T11:48:47Z
+  Updated: 2025-11-28T06:25:26Z
   Vendor: S1B|S1B|S1|CJ
   Product Type: mini heater
   Availability: Available
@@ -22830,7 +22830,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/emergency-starting-power-car-jump-starter.webp?v=1758666704
   Price: $64.95 USD
 - [Wireless Earbuds with Noise Cancelling and Touch Screen](https://ursupermart.com/products/wireless-earbuds-noise-cancelling-touch-screen): Wireless earbuds with smart touch controls and active noise cancelling deliver crystal-clear hi-fi sound and 40 hours of total power. Experience them now!
-  Updated: 2025-11-26T11:48:51Z
+  Updated: 2025-11-28T05:26:53Z
   Vendor: S1B|S1|CJ
   Product Type: wireless earbuds
   Availability: Available
@@ -23416,7 +23416,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/callus-remover-kit-with-usb-cable.webp?v=1758555078
     Price: $37.95 USD
 - [Tactical bags: Durable 85L duffel for military & outdoor](https://ursupermart.com/products/tactical-bags-durable-85l-military-duffel-outdoor): Tactical bags built for adventure! This 85L military duffel offers 3-way carry, durable 600D nylon, and organized storage for all your gear. Get yours today!
-  Updated: 2025-11-26T11:50:01Z
+  Updated: 2025-11-28T03:25:26Z
   Vendor: S1B|S1|CJ
   Product Type: Tactical Duffel Bag
   Availability: Available
@@ -23473,7 +23473,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/anti-wrinkle-eye-massager-white-design.webp?v=1758140139
   Price: $39.95 USD
 - [Jade Roller & Gua Sha Set - Reduce Puffiness, Get Glowing Skin](https://ursupermart.com/products/jade-roller-gua-sha-set-reduce-puffiness-glow): This jade roller set reduces puffiness, improves skin tone, and boosts your natural glow for a refreshed look; grab yours to reveal radiant, healthy skin today!
-  Updated: 2025-11-26T11:50:08Z
+  Updated: 2025-11-27T14:26:47Z
   Vendor: S1B|S1|CJ
   Product Type: Jade roller and Gua Sha set
   Availability: Available
@@ -23487,7 +23487,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-power-hair-dryer-blue-design.webp?v=1758151046
   Price: $39.95 USD
 - [Hat Scarf Set Warm Winter Beanie & Neck Warmer](https://ursupermart.com/products/hat-scarf-set-warm-winter-beanie-neck-warmer): This Hat Scarf set keeps you cozy and stylish all winter long with soft fleece lining, a matching beanie, and neck warmer. Shop now!
-  Updated: 2025-11-26T11:50:11Z
+  Updated: 2025-11-28T06:25:30Z
   Vendor: S1B|S1B|S1|CJ
   Product Type: winter beanie hat scarf set
   Availability: Available
@@ -23573,7 +23573,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fat-burning-massager-led-body-device.webp?v=1758759194
   Price: $64.95 USD
 - [RC Drone Fighter Jet for Kids Easy to Fly Durable Safe Fun](https://ursupermart.com/products/rc-drone-fighter-jet-easy-fly-durable-fun): This RC drone fighter jet offers thrilling outdoor fun for kids with easy controls, LED lights, and amazing 360-degree flips. Grab yours now!
-  Updated: 2025-11-26T11:50:20Z
+  Updated: 2025-11-27T13:28:02Z
   Vendor: S1B|S1|CJ
   Product Type: RC Drone Fighter Jet
   Availability: Available
@@ -23669,7 +23669,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/memory-game-for-kids-with-lights.webp?v=1758768040
   Price: $17.95 USD
 - [Sleep Patches Natural Transdermal for Restful Sleep](https://ursupermart.com/products/natural-sleep-patches-for-restful-sleep-aid): Sleep patches with natural lavender and lemon extracts help you relax for deep, restful sleep; try these gentle, non-oral patches tonight for better rest.
-  Updated: 2025-11-26T11:50:34Z
+  Updated: 2025-11-27T14:26:47Z
   Vendor: S1B|S1|CJ
   Product Type: Sleep Aid Patches
   Availability: Available
@@ -23687,7 +23687,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sleep-patch-natural-ingredients-pack.webp?v=1758759422
     Price: $44.95 USD
 - [RFID Wallets for Men Slim Secure Leather Card Holder](https://ursupermart.com/products/rfid-wallets-for-men-slim-secure-leather-card-holder): RFID wallets for men provide ultimate security for your credit cards with a slim, genuine leather design; protect your data and stay organized, buy now!
-  Updated: 2025-11-26T11:50:35Z
+  Updated: 2025-11-28T03:25:29Z
   Vendor: S1B|S1|CJ
   Product Type: RFID blocking wallet
   Availability: Available
@@ -23704,13 +23704,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/rfid-leather-wallet-dark-brown-slim.webp?v=1758908891
     Price: $29.95 USD
-- [Camera Drones for Stunning HD Aerial Photos and Videos](https://ursupermart.com/products/camera-drones-hd-aerial-photos-videos-capture): Camera Drones offer stunning HD aerial photography and video. Capture breathtaking views with precision control and stable flight. Elevate your content, shop now!
-  Updated: 2025-11-26T11:50:37Z
-  Vendor: S1B|S1|CJ
-  Product Type: Camera Drone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fighter-jet-drone-hd-camera-closeup.webp?v=1759019186
-  Price: $49.95 USD
 - [Car Carriers Toy Truck Set with Launch Ramp for Kids](https://ursupermart.com/products/car-carriers-toy-truck-launch-ramp-set): Car carriers toy truck set offers imaginative play with two durable trucks, a launch ramp, and 10 mini cars for endless adventures. Discover the fun!
   Updated: 2025-11-26T11:50:37Z
   Vendor: S1B|S1|CJ
@@ -23719,7 +23712,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/toy-car-carrier-race-track-playset.webp?v=1759600284
   Price: $34.95 USD
 - [RC Tank Shoots Water, All Terrain, Gesture Control Fun](https://ursupermart.com/products/rc-tank-water-bullets-all-terrain-gesture-control): RC Tank with water bullets and gesture control conquers all terrains, offering thrilling 360-degree stunts and long playtime. Unleash the fun!
-  Updated: 2025-11-26T11:50:39Z
+  Updated: 2025-11-28T18:26:57Z
   Vendor: S1B|S1|CJ
   Product Type: RC Tank
   Availability: Available
@@ -25401,7 +25394,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/night-light-darkwood-sensor-lamp-design.webp?v=1758060755
     Price: $18.95 USD
 - [Cup warmer car cooler and baby bottle heater](https://ursupermart.com/products/cup-warmer-car-cooler-baby-bottle-heater-holder): This versatile cup warmer keeps your car drinks perfectly hot or refreshingly cold, and even warms baby bottles on the go. Grab yours today!
-  Updated: 2025-11-26T11:54:17Z
+  Updated: 2025-11-27T09:26:51Z
   Vendor: S1B|@S1|CJ
   Product Type: Car cup holder warmer and cooler
   Availability: Available
@@ -25510,7 +25503,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/jade-face-roller-spa.webp?v=1758549431
   Price: $22.95 USD
 - [Realistic Skull Mask Full Head Movable Jaw Halloween](https://ursupermart.com/products/realistic-skull-mask-movable-jaw-halloween-fun): Transform with this realistic Skull Mask featuring a movable jaw and clear vision for ultimate spooky fun; get yours for parties and scares today!
-  Updated: 2025-11-26T11:54:30Z
+  Updated: 2025-11-27T10:26:37Z
   Vendor: S1B|S1|CJ
   Product Type: Skull mask
   Availability: Available
@@ -26127,7 +26120,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/MeshPanelHigh-WaistActiveLeggings-Red.webp?v=1758892939
     Price: $29.95 USD
 - [Wart Remover Cream for Skin Tags & Moles. Clear Skin Fast.](https://ursupermart.com/products/wart-remover-cream-skin-tags-moles-fast-results): Wart Remover cream effectively eliminates skin tags, warts, and moles for clearer, smoother skin in just 7 days, suitable for all skin types. Get yours today!
-  Updated: 2025-11-26T11:55:48Z
+  Updated: 2025-11-27T09:26:54Z
   Vendor: S1B|S1|@S1B|UrSuperMart
   Product Type: Skin cream
   Availability: Available
@@ -26414,7 +26407,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/educational-flashcard-reader-with-cards.webp?v=1759350207
     Price: $22.95 USD
 - [Snowball Makers: Fun Shaped Toys for Winter Play](https://ursupermart.com/products/snowball-makers-winter-play-fun-shaped-toys): Snowball makers let you create fun duck, heart, snowman, and dinosaur shapes easily, keeping hands warm and dry for endless winter play. Get yours today!
-  Updated: 2025-11-26T11:56:23Z
+  Updated: 2025-11-28T06:25:26Z
   Vendor: @S1B|S1|CJ
   Product Type: Snowball makers
   Availability: Available
@@ -26584,7 +26577,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/plus-dinosaur-toy-three-sizes-shown.webp?v=1759602165
   Price: $19.95 USD
 - [Water Track Play Set for Kids Outdoor Fun & Learning](https://ursupermart.com/products/water-track-play-set-for-kids-outdoor-fun-learning): This water track play set offers endless outdoor fun for kids with a boat and crane, fostering imagination and motor skills; get yours today!
-  Updated: 2025-11-26T11:56:45Z
+  Updated: 2025-11-27T09:26:53Z
   Vendor: S1B|S1|CJ
   Product Type: Water play set
   Availability: Available
@@ -29943,6 +29936,13 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-full-body.webp?v=1762121178
     Price: $34.95 USD
+- [Garment Duffel Bag: Wrinkle-Free Travel & Organized Storage](https://ursupermart.com/products/garment-duffel-bag-wrinkle-free-travel-organized-storage-solution): This garment duffel bag keeps your formal wear perfectly wrinkle-free and all essentials neatly organized. Simplify your next trip, shop now!
+  Updated: 2025-11-28T07:54:44Z
+  Vendor: S1B|S1|CJ
+  Product Type: Garment duffel bag
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/garment-duffel-bag-travel-usage-modes.webp?v=1764271452
+  Price: $97.95 USD
 - [Women hoodie soft ribbed pullover with pocket for comfort](https://ursupermart.com/products/women-hoodie-soft-ribbed-pullover-with-pocket-comfort): This women hoodie offers ultimate comfort with its soft ribbed knit, cozy kangaroo pocket, and adjustable hood for effortless style. Shop now for yours!
   Updated: 2025-11-26T12:00:34Z
   Vendor: @S1B|S1|CJ
@@ -30475,6 +30475,93 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/654ab3e7-bdfa-4ebe-b4cf-e68b38ae26ea.jpg?v=1762443489
     Price: $124.95 USD
+- [Women's Quilted Puffer Jacket Warm and Flattering](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear): Womens quilted puffer jacket: Stay warm and stylish with this packable, flattering jacket featuring a tie-waist and wide collar. Shop now for versatile comfort
+  Updated: 2025-11-28T15:26:48Z
+  Vendor: S1B|S1|CJ
+  Product Type: Quilted puffer jacket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/quilted-puffer-jacket-beige-fall-city-style.webp?v=1764295147
+  - [Black / XS](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527981895770)
+    Availability: Available
+    Price: $74.95 USD
+  - [Black / S](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527981830234)
+    Availability: Available
+    Price: $74.95 USD
+  - [Black / M](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527981797466)
+    Availability: Available
+    Price: $74.95 USD
+  - [Black / L](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527981764698)
+    Availability: Available
+    Price: $74.95 USD
+  - [Black / XL](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527981863002)
+    Availability: Available
+    Price: $74.95 USD
+  - [Black / 2XL](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527981633626)
+    Availability: Available
+    Price: $74.95 USD
+  - [Black / 3XL](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527981666394)
+    Availability: Available
+    Price: $74.95 USD
+  - [Black / 4XL](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527981699162)
+    Availability: Available
+    Price: $74.95 USD
+  - [Black / 5XL](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527981731930)
+    Availability: Available
+    Price: $74.95 USD
+  - [Caramel / XS](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527982190682)
+    Availability: Available
+    Price: $74.95 USD
+  - [Caramel / S](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527982125146)
+    Availability: Available
+    Price: $74.95 USD
+  - [Caramel / M](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527982092378)
+    Availability: Available
+    Price: $74.95 USD
+  - [Caramel / L](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527982059610)
+    Availability: Available
+    Price: $74.95 USD
+  - [Caramel / XL](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527982157914)
+    Availability: Available
+    Price: $74.95 USD
+  - [Caramel / 2XL](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527981928538)
+    Availability: Available
+    Price: $74.95 USD
+  - [Caramel / 3XL](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527981961306)
+    Availability: Available
+    Price: $74.95 USD
+  - [Caramel / 4XL](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527981994074)
+    Availability: Available
+    Price: $74.95 USD
+  - [Caramel / 5XL](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527982026842)
+    Availability: Available
+    Price: $74.95 USD
+  - [Beige / XS](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527982485594)
+    Availability: Available
+    Price: $74.95 USD
+  - [Beige / S](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527982420058)
+    Availability: Available
+    Price: $74.95 USD
+  - [Beige / M](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527982387290)
+    Availability: Available
+    Price: $74.95 USD
+  - [Beige / L](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527982354522)
+    Availability: Available
+    Price: $74.95 USD
+  - [Beige / XL](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527982452826)
+    Availability: Available
+    Price: $74.95 USD
+  - [Beige / 2XL](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527982223450)
+    Availability: Available
+    Price: $74.95 USD
+  - [Beige / 3XL](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527982256218)
+    Availability: Available
+    Price: $74.95 USD
+  - [Beige / 4XL](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527982288986)
+    Availability: Available
+    Price: $74.95 USD
+  - [Beige / 5XL](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear?variant=42527982321754)
+    Availability: Available
+    Price: $74.95 USD
 - [Womens Jumpsuit Ribbed Knit for Active Comfort and Style](https://ursupermart.com/products/womens-jumpsuit-ribbed-knit-sleeveless-bodysuit-active-comfort): Find your perfect womens jumpsuit! This comfy ribbed knit one-piece is ideal for workouts, casual outings, or travel. Simplify your style and shop today.
   Updated: 2025-11-26T12:01:50Z
   Vendor: S1B|S1|CJ
@@ -30632,6 +30719,212 @@
   - [Wine Red / XXL](https://ursupermart.com/products/womens-jumpsuit-ribbed-knit-sleeveless-bodysuit-active-comfort?variant=42528004112474)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-red-outdoor.webp?v=1763521845
+    Price: $34.95 USD
+- [Ribbed Knit Jumpsuit for Flattering Comfort and Style](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes): Ribbed knit jumpsuit: Experience ultimate comfort and confidence in this flattering, form-fitting style with thumb holes. Shop now for effortless elegance!
+  Updated: 2025-11-28T03:27:42Z
+  Vendor: S1B|S1|CJ
+  Product Type: Jumpsuit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-sleek-grey-dumbbell-workout.webp?v=1764261135
+  - [Black / S](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010305626)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-classic-black-minimal.webp?v=1764261135
+    Price: $34.95 USD
+  - [Black / M](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010272858)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-classic-black-minimal.webp?v=1764261135
+    Price: $34.95 USD
+  - [Black / L](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010240090)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-classic-black-minimal.webp?v=1764261135
+    Price: $34.95 USD
+  - [Black / XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010338394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-classic-black-minimal.webp?v=1764261135
+    Price: $34.95 USD
+  - [Black / 2XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010174554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-classic-black-minimal.webp?v=1764261135
+    Price: $34.95 USD
+  - [Black / 3XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010207322)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-classic-black-minimal.webp?v=1764261135
+    Price: $34.95 USD
+  - [Blue / S](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010502234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-bold-blue-product-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Blue / M](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010469466)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-bold-blue-product-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Blue / L](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010436698)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-bold-blue-product-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Blue / XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010535002)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-bold-blue-product-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Blue / 2XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010371162)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-bold-blue-product-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Blue / 3XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010403930)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-bold-blue-product-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Brown / S](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010698842)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-rich-brown-front-style.webp?v=1764261135
+    Price: $34.95 USD
+  - [Brown / M](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010666074)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-rich-brown-front-style.webp?v=1764261135
+    Price: $34.95 USD
+  - [Brown / L](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010633306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-rich-brown-front-style.webp?v=1764261135
+    Price: $34.95 USD
+  - [Brown / XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010731610)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-rich-brown-front-style.webp?v=1764261135
+    Price: $34.95 USD
+  - [Brown / 2XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010567770)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-rich-brown-front-style.webp?v=1764261135
+    Price: $34.95 USD
+  - [Brown / 3XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010600538)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-rich-brown-front-style.webp?v=1764261135
+    Price: $34.95 USD
+  - [Coffee / S](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010895450)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-brown-active-walking-fit.webp?v=1764261135
+    Price: $34.95 USD
+  - [Coffee / M](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010862682)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-brown-active-walking-fit.webp?v=1764261135
+    Price: $34.95 USD
+  - [Coffee / L](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010829914)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-brown-active-walking-fit.webp?v=1764261135
+    Price: $34.95 USD
+  - [Coffee / XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010928218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-brown-active-walking-fit.webp?v=1764261135
+    Price: $34.95 USD
+  - [Coffee / 2XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010764378)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-brown-active-walking-fit.webp?v=1764261135
+    Price: $34.95 USD
+  - [Coffee / 3XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010797146)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-brown-active-walking-fit.webp?v=1764261135
+    Price: $34.95 USD
+  - [Dark Grey / S](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011092058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-classic-grey-product-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Dark Grey / M](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011059290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-classic-grey-product-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Dark Grey / L](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011026522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-classic-grey-product-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Dark Grey / XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011124826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-classic-grey-product-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Dark Grey / 2XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010960986)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-classic-grey-product-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Dark Grey / 3XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528010993754)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-classic-grey-product-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Grey / S](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011288666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-sleek-light-grey-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Grey / M](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011255898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-sleek-light-grey-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Grey / L](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011223130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-sleek-light-grey-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Grey / XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011321434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-sleek-light-grey-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Grey / 2XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011157594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-sleek-light-grey-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Grey / 3XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011190362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-sleek-light-grey-front.webp?v=1764261135
+    Price: $34.95 USD
+  - [Lead Blue / S](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011485274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-chic-sage-green-outfit.webp?v=1764261135
+    Price: $34.95 USD
+  - [Lead Blue / M](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011452506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-chic-sage-green-outfit.webp?v=1764261135
+    Price: $34.95 USD
+  - [Lead Blue / L](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011419738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-chic-sage-green-outfit.webp?v=1764261135
+    Price: $34.95 USD
+  - [Lead Blue / XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011518042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-chic-sage-green-outfit.webp?v=1764261135
+    Price: $34.95 USD
+  - [Lead Blue / 2XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011354202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-chic-sage-green-outfit.webp?v=1764261135
+    Price: $34.95 USD
+  - [Lead Blue / 3XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011386970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-chic-sage-green-outfit.webp?v=1764261135
+    Price: $34.95 USD
+  - [Orange / S](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011649114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-bold-red-statement-fit.webp?v=1764261135
+    Price: $34.95 USD
+  - [Orange / M](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011616346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-bold-red-statement-fit.webp?v=1764261135
+    Price: $34.95 USD
+  - [Orange / L](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011583578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-bold-red-statement-fit.webp?v=1764261135
+    Price: $34.95 USD
+  - [Orange / XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011681882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-bold-red-statement-fit.webp?v=1764261135
+    Price: $34.95 USD
+  - [Orange / 2XL](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011550810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-bold-red-statement-fit.webp?v=1764261135
+    Price: $34.95 USD
+  - [Pink / S](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011780186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-soft-peach-fitted-look.webp?v=1764261135
+    Price: $34.95 USD
+  - [Pink / M](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011747418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-soft-peach-fitted-look.webp?v=1764261135
+    Price: $34.95 USD
+  - [Pink / L](https://ursupermart.com/products/ribbed-knit-jumpsuit-flattering-comfort-and-style-thumb-holes?variant=42528011714650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-soft-peach-fitted-look.webp?v=1764261135
     Price: $34.95 USD
 - [Phone Cases: Stylish Leather Crocodile Texture Protection](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection): Phone cases with a luxurious crocodile texture offer full protection and sophisticated style for your device; shop now to elevate your look!
   Updated: 2025-11-26T12:02:27Z
@@ -31190,7 +31483,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-insulated-jacket-green-black.webp?v=1763558045
     Price: $59.95 USD
 - [Winter Parka for Women Warm Fur Hooded Stylish Coat](https://ursupermart.com/products/women-fur-hooded-warm-winter-parka-coat-stylish): Winter Parka for women: Stay warm and stylish in this versatile, fur-hooded coat with secure pockets and an adjustable waist for a perfect fit. Shop today!
-  Updated: 2025-11-26T12:03:30Z
+  Updated: 2025-11-28T13:26:54Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Winter Parka
   Availability: Available
@@ -32029,7 +32322,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-brown-front.webp?v=1763339377
     Price: $94.95 USD
 - [Arthritis Gloves Copper for Hand Pain Relief & Swelling](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling): Arthritis gloves provide soothing warmth and compression for hand pain, swelling, and stiffness. Regain comfort and tackle daily tasks with ease—shop now!
-  Updated: 2025-11-26T12:05:23Z
+  Updated: 2025-11-27T04:29:27Z
   Vendor: S1B|S1|CJ
   Product Type: Arthritis gloves
   Availability: Available
@@ -32177,7 +32470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-yellow-soft-plush-toy.webp?v=1763335565
     Price: $64.95 USD
 - [Women's Overcoats: Tailored Fit & Warm Winter Style](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style): Women's Overcoats deliver tailored style and cozy warmth for autumn and winter, perfect for any occasion. Elevate your look and feel confident; shop now!
-  Updated: 2025-11-26T12:06:21Z
+  Updated: 2025-11-27T00:26:43Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Overcoat
   Availability: Available
@@ -34526,7 +34819,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-pea-coat-camel-urban-style.webp?v=1763242254
     Price: $54.95 USD
 - [Women Coats: Warm & Stylish Belted Winter Outerwear](https://ursupermart.com/products/women-coats-warm-stylish-belted-winter-outerwear): Women coats provide stylish warmth with a flattering belted design, perfect for any occasion. Stay cozy and confident all winter long; find your perfect fit and color today!
-  Updated: 2025-11-26T12:11:49Z
+  Updated: 2025-11-28T13:26:52Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Coat
   Availability: Available
@@ -35975,6 +36268,44 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-red-velvet-dress-holiday-twirl.webp?v=1763520596
     Price: $54.95 USD
+- [Zipper Front Shapewear Bodysuit Easy On Off Smooths](https://ursupermart.com/products/zipper-front-shapewear-bodysuit-easy-on-off-smooth-figure): Zipper front shapewear bodysuit instantly sculpts your figure for a smoother, confident look. Enjoy easy on/off comfort and versatile style; shop now!
+  Updated: 2025-11-28T06:22:00Z
+  Vendor: S1B|S1|CJ
+  Product Type: Shapewear bodysuit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/v-neck-shapewear-bodysuit-grey-jeans-fit.webp?v=1764268375
+  - [Black / S](https://ursupermart.com/products/zipper-front-shapewear-bodysuit-easy-on-off-smooth-figure?variant=42582096019546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/v-neck-shapewear-bodysuit-black-sculpting-look.webp?v=1764268375
+    Price: $32.95 USD
+  - [Black / M](https://ursupermart.com/products/zipper-front-shapewear-bodysuit-easy-on-off-smooth-figure?variant=42582095986778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/v-neck-shapewear-bodysuit-black-sculpting-look.webp?v=1764268375
+    Price: $32.95 USD
+  - [Black / L](https://ursupermart.com/products/zipper-front-shapewear-bodysuit-easy-on-off-smooth-figure?variant=42582095954010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/v-neck-shapewear-bodysuit-black-sculpting-look.webp?v=1764268375
+    Price: $32.95 USD
+  - [Black / XL](https://ursupermart.com/products/zipper-front-shapewear-bodysuit-easy-on-off-smooth-figure?variant=42582096052314)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/v-neck-shapewear-bodysuit-black-sculpting-look.webp?v=1764268375
+    Price: $32.95 USD
+  - [Gray / S](https://ursupermart.com/products/zipper-front-shapewear-bodysuit-easy-on-off-smooth-figure?variant=42582096150618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/v-neck-shapewear-bodysuit-grey-posed-fit.webp?v=1764268375
+    Price: $32.95 USD
+  - [Gray / M](https://ursupermart.com/products/zipper-front-shapewear-bodysuit-easy-on-off-smooth-figure?variant=42582096117850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/v-neck-shapewear-bodysuit-grey-posed-fit.webp?v=1764268375
+    Price: $32.95 USD
+  - [Gray / L](https://ursupermart.com/products/zipper-front-shapewear-bodysuit-easy-on-off-smooth-figure?variant=42582096085082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/v-neck-shapewear-bodysuit-grey-posed-fit.webp?v=1764268375
+    Price: $32.95 USD
+  - [Gray / XL](https://ursupermart.com/products/zipper-front-shapewear-bodysuit-easy-on-off-smooth-figure?variant=42582096183386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/v-neck-shapewear-bodysuit-grey-posed-fit.webp?v=1764268375
+    Price: $32.95 USD
 - [Pearl Drop Earrings Gold - Elegant Dangle Studs for Women](https://ursupermart.com/products/pearl-drop-earrings-gold-elegant-dangle-studs-for-women): Pearl drop earrings gold add elegant sparkle to any outfit, perfect for special events or daily glamour; elevate your style and shop now!
   Updated: 2025-11-26T12:15:10Z
   Vendor: S1B|S1|CJ
@@ -35989,6 +36320,92 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/15a7d85f-0937-462b-aac5-0384bcbc9948.jpg?v=1763746053
     Price: $1.00 USD
+- [iPhone 17 MagSafe Case: Ring Stand & Clear Protection](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection): Protect your iPhone 17 with this MagSafe case, offering shockproof defense, a versatile stand for hands-free viewing, and effortless wireless charging. Shop now!
+  Updated: 2025-11-27T01:59:11Z
+  Vendor: S1B|S1|CJ
+  Product Type: Phone case
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-blue-set.webp?v=1764117559
+  - [Cherry Blossom Powder / Apple IPhone17](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582145990746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-pink.webp?v=1764117559
+    Price: $17.95 USD
+  - [Cherry Blossom Powder / Apple IPhone17AIR](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146023514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-pink.webp?v=1764117559
+    Price: $17.95 USD
+  - [Cherry Blossom Powder / Apple IPhone17PRO](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146056282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-pink.webp?v=1764117559
+    Price: $17.95 USD
+  - [Cherry Blossom Powder / Apple IPhone17PROMAX](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146089050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-pink.webp?v=1764117559
+    Price: $17.95 USD
+  - [Mint Green / Apple IPhone17](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146121818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-green.webp?v=1764117559
+    Price: $17.95 USD
+  - [Mint Green / Apple IPhone17AIR](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146154586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-green.webp?v=1764117559
+    Price: $17.95 USD
+  - [Mint Green / Apple IPhone17PRO](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146187354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-green.webp?v=1764117559
+    Price: $17.95 USD
+  - [Mint Green / Apple IPhone17PROMAX](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146220122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-green.webp?v=1764117559
+    Price: $17.95 USD
+  - [Sapphire Blue / Apple IPhone17](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146252890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-blue.webp?v=1764117559
+    Price: $17.95 USD
+  - [Sapphire Blue / Apple IPhone17AIR](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146285658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-blue.webp?v=1764117559
+    Price: $17.95 USD
+  - [Sapphire Blue / Apple IPhone17PRO](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146318426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-blue.webp?v=1764117559
+    Price: $17.95 USD
+  - [Sapphire Blue / Apple IPhone17PROMAX](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146351194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-blue.webp?v=1764117559
+    Price: $17.95 USD
+  - [Transparent Black / Apple IPhone17](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146383962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-gray.webp?v=1764117559
+    Price: $17.95 USD
+  - [Transparent Black / Apple IPhone17AIR](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146416730)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-gray.webp?v=1764117559
+    Price: $17.95 USD
+  - [Transparent Black / Apple IPhone17PRO](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146449498)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-gray.webp?v=1764117559
+    Price: $17.95 USD
+  - [Transparent Black / Apple IPhone17PROMAX](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146482266)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-gray.webp?v=1764117559
+    Price: $17.95 USD
+  - [Transparent / Apple IPhone17](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146515034)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-clear.webp?v=1764117559
+    Price: $17.95 USD
+  - [Transparent / Apple IPhone17AIR](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146547802)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-clear.webp?v=1764117559
+    Price: $17.95 USD
+  - [Transparent / Apple IPhone17PRO](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146580570)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-clear.webp?v=1764117559
+    Price: $17.95 USD
+  - [Transparent / Apple IPhone17PROMAX](https://ursupermart.com/products/iphone-17-magsafe-case-ring-stand-clear-protection?variant=42582146613338)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/iphone-17-magsafe-case-clear.webp?v=1764117559
+    Price: $17.95 USD
 - [Rose Gold Cat Ring: Cute Pink Cat, Sparkle & Style](https://ursupermart.com/products/rose-gold-cat-ring-cute-pink-cat-sparkle-style-crystal): This rose gold cat ring features a cute pink cat with sparkle stones and a double band. Express your feline love and unique style; get yours today!
   Updated: 2025-11-26T12:15:14Z
   Vendor: S1B|S1|CJ
@@ -36114,7 +36531,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/marbled-acrylic-bracelets-amber-single.webp?v=1763862379
     Price: $1.00 USD
 - [DIY Lash Extension Kit: Get Salon Lashes at Home Easily](https://ursupermart.com/products/diy-lash-extension-kit-get-salon-lashes-at-home-easily): This diy lash extension kit lets you create stunning, custom lashes at home, saving time and money; get yours today for a glamorous, confident look!
-  Updated: 2025-11-26T12:15:26Z
+  Updated: 2025-11-27T17:28:13Z
   Vendor: S1B|S1|CJ
   Product Type: DIY eyelash extension kit
   Availability: Available
@@ -36145,6 +36562,28 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-seashell-necklace-gift-box-display.webp?v=1763861093
   Price: $1.00 USD
+- [Keyboard Cleaning Kit: Keep All Your Devices Clean & New](https://ursupermart.com/products/keyboard-cleaning-kit-keep-devices-clean-11-in-1-tool): This keyboard cleaning kit keeps all your devices pristine with an 11-in-1 tool, including a retractable brush and keycap puller. Keep your tech looking new!
+  Updated: 2025-11-27T15:54:16Z
+  Vendor: S1B|S1|CJ
+  Product Type: PC cleaning kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/keyboard-cleaning-kit-versatile-tools.webp?v=1764215957
+  - [Blue](https://ursupermart.com/products/keyboard-cleaning-kit-keep-devices-clean-11-in-1-tool?variant=42582335291482)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/keyboard-cleaning-kit-blue-version.webp?v=1764215957
+    Price: $1.00 USD
+  - [Orange](https://ursupermart.com/products/keyboard-cleaning-kit-keep-devices-clean-11-in-1-tool?variant=42582335324250)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/keyboard-cleaning-kit-orange-version.webp?v=1764215957
+    Price: $1.00 USD
+  - [Purple](https://ursupermart.com/products/keyboard-cleaning-kit-keep-devices-clean-11-in-1-tool?variant=42582335357018)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/keyboard-cleaning-kit-purple-open-case.webp?v=1764215957
+    Price: $1.00 USD
+  - [White](https://ursupermart.com/products/keyboard-cleaning-kit-keep-devices-clean-11-in-1-tool?variant=42582335389786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/keyboard-cleaning-kit-white-version.webp?v=1764215957
+    Price: $1.00 USD
 - [Magnetic Wireless Charger - Fast 15W Power & Easy Use](https://ursupermart.com/products/magnetic-wireless-charger-fast-15w-power-easy-use-iphone): Magnetic wireless charger offers 15W fast, effortless power with perfect alignment, decluttering your space and protecting your phone. Get yours now!
   Updated: 2025-11-26T12:15:29Z
   Vendor: S1B|S1|CJ
@@ -36188,6 +36627,24 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/layered-silver-heart-necklace-closeup-display.jpg?v=1763860430
   Price: $1.00 USD
+- [Heart Stone Watch for Women - Fashion & Sparkle](https://ursupermart.com/products/heart-stone-watch-for-women-fashion-love-shape-bracelet-set): This beautiful heart stone watch adds sparkle and feminine charm to any look, offering a stylish way to tell time; shop now for your perfect accessory!
+  Updated: 2025-11-28T14:50:14Z
+  Vendor: S1B|S1|CJ
+  Product Type: Wristwatch
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/heart-stone-watch-multi-color-luxury.webp?v=1764298622
+  - [Black](https://ursupermart.com/products/heart-stone-watch-for-women-fashion-love-shape-bracelet-set?variant=42582530424922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/heart-stone-watch-black-dial-wrist.webp?v=1764298851
+    Price: $1.00 USD
+  - [Green](https://ursupermart.com/products/heart-stone-watch-for-women-fashion-love-shape-bracelet-set?variant=42582530457690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/heart-stone-watch-green-dial-wrist.webp?v=1764298878
+    Price: $1.00 USD
+  - [Red](https://ursupermart.com/products/heart-stone-watch-for-women-fashion-love-shape-bracelet-set?variant=42582530490458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/heart-stone-watch-red-dial-wrist.webp?v=1764298890
+    Price: $1.00 USD
 - [Gold Heart Earrings Dangle with Romantic Key & Lock Charms](https://ursupermart.com/products/gold-heart-earrings-dangle-romantic-key-lock-charms-for-her): Gold heart earrings with charming dangle designs add a sweet, romantic touch to any outfit. Express your style and shop this lovely pair today!
   Updated: 2025-11-26T12:15:35Z
   Vendor: S1B|S1|CJ
@@ -36217,6 +36674,212 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4c51d4e8-446e-4aa8-a92a-1158d6e06f48.jpg?v=1763759909
     Price: $1.00 USD
+- [Initial Knot Bracelet - Personalized & Elegant Steel](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot): Initial knot bracelet: Express your unique style or a special bond with this elegant, personalized titanium steel piece. Shop now for a meaningful gift!
+  Updated: 2025-11-28T20:41:16Z
+  Vendor: S1B|S1|CJ
+  Product Type: Bracelet set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/445dc91b-b339-4cf8-99fe-5fb237ee15ab.jpg?v=1763760087
+  - [Gold A](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578069594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/57013aa6-7749-4326-a880-aec936c6e4be.jpg?v=1764361564
+    Price: $1.00 USD
+  - [Gold B](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578102362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e432d034-8fc1-4c75-afa3-a4ce7136cd18.jpg?v=1764361578
+    Price: $1.00 USD
+  - [Gold C](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578135130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c82b3814-b519-4e7b-974a-a867cbb0c71c.jpg?v=1764361590
+    Price: $1.00 USD
+  - [Gold D](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578167898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/866d079c-db90-4c26-9e51-d2d355aadee3.jpg?v=1764361603
+    Price: $1.00 USD
+  - [Gold E](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578200666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/f8d47a4b-3ef2-4589-b699-74899cbfb77b.jpg?v=1764361619
+    Price: $1.00 USD
+  - [Gold F](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578233434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/b624f950-03c9-49b1-b3fa-e8058984c343.jpg?v=1764361634
+    Price: $1.00 USD
+  - [Gold G](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578266202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/276f18c8-0f0c-45c3-b01f-49c654f60e05.jpg?v=1764361648
+    Price: $1.00 USD
+  - [Gold H](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578298970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c5c225f4-90a0-4e02-99ff-9879c6c6befe.jpg?v=1764361687
+    Price: $1.00 USD
+  - [Gold I](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578331738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/650b0567-d4e4-4bff-b3eb-1dcbc976f27a.jpg?v=1764361676
+    Price: $1.00 USD
+  - [Gold J](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578364506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/a84aeef2-701c-475b-984c-039399ed27b6.jpg?v=1764361702
+    Price: $1.00 USD
+  - [Gold K](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578397274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d0c5c938-1ca7-406d-8dd6-469b15c0bc46.jpg?v=1764361715
+    Price: $1.00 USD
+  - [Gold L](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578430042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/26266f78-a049-4735-9d90-00b96de5cf3f.jpg?v=1764361729
+    Price: $1.00 USD
+  - [Gold M](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578462810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/79265fa9-1a76-4dd0-96b8-6bf4429264a5.jpg?v=1764361741
+    Price: $1.00 USD
+  - [Gold N](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578495578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/5d05bc01-6b6f-4c9e-a168-339f806bebc5.jpg?v=1764361755
+    Price: $1.00 USD
+  - [Gold O](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578528346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6198a77c-2193-484d-9354-3dae21945a4c.jpg?v=1764361768
+    Price: $1.00 USD
+  - [Gold P](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578561114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/32eae662-075d-4b02-a323-9ea2e41a69ff.jpg?v=1764361790
+    Price: $1.00 USD
+  - [Gold Q](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578593882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ffdff314-abed-4c8a-a22e-c9bc5fd6ae4a.jpg?v=1764361804
+    Price: $1.00 USD
+  - [Gold R](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578626650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c64b115b-0690-4226-8d03-78389f8dd303.jpg?v=1764361817
+    Price: $1.00 USD
+  - [Gold S](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578659418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ab6a2dd3-8c48-43c6-bf7e-617eab1e72f8.jpg?v=1764361836
+    Price: $1.00 USD
+  - [Gold T](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578692186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e756dd6c-0597-4742-8d7d-68ec1a1f3f0e.jpg?v=1764361848
+    Price: $1.00 USD
+  - [Gold U](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578724954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cea5c19e-10cc-449c-9029-bc798d093375.jpg?v=1764361861
+    Price: $1.00 USD
+  - [Gold W](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578757722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/5d5fe300-2efd-43fc-83c2-7be91a7e7446.jpg?v=1764361877
+    Price: $1.00 USD
+  - [Gold X](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578790490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d8f2ca91-36fe-4377-988b-76a0ff4565d2.jpg?v=1764361890
+    Price: $1.00 USD
+  - [Gold Y](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578823258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ae16918e-0a4b-466d-9241-5775a34e0750.jpg?v=1764361901
+    Price: $1.00 USD
+  - [Gold Z](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578856026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cc03bf45-aec9-4a8e-9b55-8295fd4a1616.jpg?v=1764361913
+    Price: $1.00 USD
+  - [Golden V](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578888794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/700b05c6-ed25-41f8-9474-bcec4cfe1f99.jpg?v=1764361924
+    Price: $1.00 USD
+  - [Silver A](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578921562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d409cd37-29c1-49bc-bfdb-acacf5735801.jpg?v=1764361936
+    Price: $1.00 USD
+  - [Silver B](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578954330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/97df769b-82e2-4f2f-9324-97d839115954.jpg?v=1764361951
+    Price: $1.00 USD
+  - [Silver C](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582578987098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/63575b19-ae02-49a0-b0bb-be16249e4a3a.jpg?v=1764361969
+    Price: $1.00 USD
+  - [Silver D](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579019866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/74f449d6-ec62-4b2e-9eed-498f7924615e.jpg?v=1764362010
+    Price: $1.00 USD
+  - [Silver E](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579052634)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/94fb0984-0182-48b7-9773-850ff8b6f115.jpg?v=1764362023
+    Price: $1.00 USD
+  - [Silver F](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579085402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/683130cc-b8b0-41d6-bb5a-99b104d856ad.jpg?v=1764362036
+    Price: $1.00 USD
+  - [Silver G](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579118170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/b35216c0-8608-4219-b853-390e825ba010.jpg?v=1764362049
+    Price: $1.00 USD
+  - [Silver H](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579150938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/686c3c88-a2f6-44e9-9fed-e30cd31cdc18.jpg?v=1764362062
+    Price: $1.00 USD
+  - [Silver I](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579183706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/a0671536-4ca8-4c0e-a0d9-e3f43b2efb81.jpg?v=1764362073
+    Price: $1.00 USD
+  - [Silver J](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579216474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1e051869-e299-4afa-bf6b-b261fee57114.jpg?v=1764362100
+    Price: $1.00 USD
+  - [Silver K](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579249242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/483f7017-4bbf-4e81-a13f-9d2b7d1c3cc6.jpg?v=1764362118
+    Price: $1.00 USD
+  - [Silver L](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579282010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/b072a410-d49d-4c36-ab43-eae662c858c0.jpg?v=1764362130
+    Price: $1.00 USD
+  - [Silver M](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579314778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/55f6bc16-658c-4bdd-8ea2-e3d42b010bf0.jpg?v=1764362143
+    Price: $1.00 USD
+  - [Silver N](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579347546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3083e924-7ae3-46b7-bed9-e7283af3ff1d.jpg?v=1764362158
+    Price: $1.00 USD
+  - [Silver O](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579380314)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3a11497a-793e-47c6-bc2e-c0a1fcc22a46.jpg?v=1764362171
+    Price: $1.00 USD
+  - [Silver P](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579413082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/7f95f04e-1f39-47ba-a62f-2f1501fbb175.jpg?v=1764362184
+    Price: $1.00 USD
+  - [Silver Q](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579445850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/Silver-Bracelet-Letter-Q.jpg?v=1764362229
+    Price: $1.00 USD
+  - [Silver R](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579478618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/Silver-Bracelet-Letter-R.jpg?v=1764362250
+    Price: $1.00 USD
+  - [Silver S](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579511386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/Silver-Bracelet-Letter-S.jpg?v=1764362278
+    Price: $1.00 USD
+  - [Silver T](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579544154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/Silver-Bracelet-Letter-T.jpg?v=1764362300
+    Price: $1.00 USD
+  - [Silver U](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579576922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/Silver-Bracelet-Letter-U.jpg?v=1764362319
+    Price: $1.00 USD
+  - [Silver V](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579609690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/Silver-Bracelet-Letter-V.jpg?v=1764362351
+    Price: $1.00 USD
+  - [Silver W](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579642458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/Silver-Bracelet-Letter-W.jpg?v=1764362372
+    Price: $1.00 USD
+  - [Silver X](https://ursupermart.com/products/initial-knot-bracelet-personalized-steel-elegant-love-knot?variant=42582579675226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/Silver-Bracelet-Letter-X.jpg?v=1764362391
+    Price: $1.00 USD
 - [Gold Hammered Heart Earrings Unique Studs for Women](https://ursupermart.com/products/gold-hammered-heart-earrings-unique-studs-for-women-trending): Gold hammered heart earrings add a unique, romantic touch to any outfit, boosting your confidence and style; find your perfect pair today!
   Updated: 2025-11-26T12:15:39Z
   Vendor: S1B|S1|CJ
@@ -36230,6 +36893,72 @@
   - [Silver](https://ursupermart.com/products/gold-hammered-heart-earrings-unique-studs-for-women-trending?variant=42582621257818)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-heart-earrings-silver-metal-heart-studs.webp?v=1763855912
+    Price: $1.00 USD
+- [Stackable Ring Set Dainty Zircon Rings Comfortable](https://ursupermart.com/products/stackable-ring-set-dainty-zircon-rings-affordable-luxury): Stackable ring set: Elevate your style with these dainty, versatile rings for any occasion. Express yourself with affordable luxury; get yours today!
+  Updated: 2025-11-28T14:19:53Z
+  Vendor: S1B|S1|CJ
+  Product Type: Stackable ring set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stackable-ring-set-multi-metal-luxury-design.webp?v=1764296525
+  - [Gold / No 10](https://ursupermart.com/products/stackable-ring-set-dainty-zircon-rings-affordable-luxury?variant=42582633349210)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stackable-ring-set-gold-layered-crystal.webp?v=1764296525
+    Price: $1.00 USD
+  - [Gold / No 6](https://ursupermart.com/products/stackable-ring-set-dainty-zircon-rings-affordable-luxury?variant=42582633381978)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stackable-ring-set-gold-layered-crystal.webp?v=1764296525
+    Price: $1.00 USD
+  - [Gold / No 7](https://ursupermart.com/products/stackable-ring-set-dainty-zircon-rings-affordable-luxury?variant=42582633414746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stackable-ring-set-gold-layered-crystal.webp?v=1764296525
+    Price: $1.00 USD
+  - [Gold / No 8](https://ursupermart.com/products/stackable-ring-set-dainty-zircon-rings-affordable-luxury?variant=42582633447514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stackable-ring-set-gold-layered-crystal.webp?v=1764296525
+    Price: $1.00 USD
+  - [Gold / No 9](https://ursupermart.com/products/stackable-ring-set-dainty-zircon-rings-affordable-luxury?variant=42582633480282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stackable-ring-set-gold-layered-crystal.webp?v=1764296525
+    Price: $1.00 USD
+  - [Rose Gold / No 10](https://ursupermart.com/products/stackable-ring-set-dainty-zircon-rings-affordable-luxury?variant=42582633513050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stackable-ring-set-rose-gold-dainty.webp?v=1764296526
+    Price: $1.00 USD
+  - [Rose Gold / No 6](https://ursupermart.com/products/stackable-ring-set-dainty-zircon-rings-affordable-luxury?variant=42582633545818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stackable-ring-set-rose-gold-dainty.webp?v=1764296526
+    Price: $1.00 USD
+  - [Rose Gold / No 7](https://ursupermart.com/products/stackable-ring-set-dainty-zircon-rings-affordable-luxury?variant=42582633578586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stackable-ring-set-rose-gold-dainty.webp?v=1764296526
+    Price: $1.00 USD
+  - [Rose Gold / No 8](https://ursupermart.com/products/stackable-ring-set-dainty-zircon-rings-affordable-luxury?variant=42582633611354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stackable-ring-set-rose-gold-dainty.webp?v=1764296526
+    Price: $1.00 USD
+  - [Rose Gold / No 9](https://ursupermart.com/products/stackable-ring-set-dainty-zircon-rings-affordable-luxury?variant=42582633644122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stackable-ring-set-rose-gold-dainty.webp?v=1764296526
+    Price: $1.00 USD
+  - [White Gold / No 10](https://ursupermart.com/products/stackable-ring-set-dainty-zircon-rings-affordable-luxury?variant=42582633676890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stackable-ring-set-silver-elegant-band.webp?v=1764296525
+    Price: $1.00 USD
+  - [White Gold / No 6](https://ursupermart.com/products/stackable-ring-set-dainty-zircon-rings-affordable-luxury?variant=42582633709658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stackable-ring-set-silver-elegant-band.webp?v=1764296525
+    Price: $1.00 USD
+  - [White Gold / No 7](https://ursupermart.com/products/stackable-ring-set-dainty-zircon-rings-affordable-luxury?variant=42582633742426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stackable-ring-set-silver-elegant-band.webp?v=1764296525
+    Price: $1.00 USD
+  - [White Gold / No 8](https://ursupermart.com/products/stackable-ring-set-dainty-zircon-rings-affordable-luxury?variant=42582633775194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stackable-ring-set-silver-elegant-band.webp?v=1764296525
+    Price: $1.00 USD
+  - [White Gold / No 9](https://ursupermart.com/products/stackable-ring-set-dainty-zircon-rings-affordable-luxury?variant=42582633807962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stackable-ring-set-silver-elegant-band.webp?v=1764296525
     Price: $1.00 USD
 - [Snowflake Hair Clips Sparkle & Shine for Winter Styles](https://ursupermart.com/products/snowflake-hair-clips-sparkle-shine-winter-styles-holiday-party): Snowflake hair clips add a sparkling, festive touch to any hairstyle, perfect for winter fun or special events. Elevate your look and shine bright this season!
   Updated: 2025-11-26T12:15:42Z
@@ -36317,6 +37046,13 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gothic-heart-necklace-silver-red-layered.webp?v=1764007368
     Price: $1.00 USD
+- [Anxiety Relief Ring: Calm Stress & Boost Focus](https://ursupermart.com/products/anxiety-relief-ring-calm-stress-focus-open-design-fidget-tool): Anxiety relief ring: find calm and focus with this stylish, discreet fidget ring featuring movable beads and an adjustable band. Take control of your day and shop now!
+  Updated: 2025-11-28T14:03:52Z
+  Vendor: S1B|S1|CJ
+  Product Type: fidget ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/anxiety-relief-ring-premium-silver-spinning-beads.webp?v=1764295803
+  Price: $1.00 USD
 - [Christmas Charm Necklaces Set - 7 Festive Holiday Styles](https://ursupermart.com/products/christmas-charm-necklaces-set-festive-holiday-style-jewelry): Christmas charm necklaces: a set of seven festive pieces with sparkling rhinestones to instantly elevate your holiday spirit; shop now for joyful style!
   Updated: 2025-11-26T12:15:58Z
   Vendor: S1B|S1|CJ
@@ -36391,8 +37127,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-jewelry-gift-box-necklace.webp?v=1764103218
     Price: $1.00 USD
+- [Convertible Heart Necklace: Clover & Hearts for Luck & Love](https://ursupermart.com/products/convertible-heart-necklace-clover-hearts-luck-and-love-pendant): This convertible heart necklace transforms from a lucky clover to four loving hearts, adding sparkling elegance to any outfit. Discover your versatile style today!
+  Updated: 2025-11-27T12:42:20Z
+  Vendor: S1B|S1|CJ
+  Product Type: Pendant necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/convertible-heart-necklace-silver-clover.webp?v=1764204379
+  - [Silver White Shell](https://ursupermart.com/products/convertible-heart-necklace-clover-hearts-luck-and-love-pendant?variant=42582741581914)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/convertible-heart-necklace-silver-clover.webp?v=1764204379
+    Price: $1.00 USD
+  - [Gold](https://ursupermart.com/products/convertible-heart-necklace-clover-hearts-luck-and-love-pendant?variant=42582741614682)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/convertible-heart-necklace-gold-clover.webp?v=1764204379
+    Price: $1.00 USD
 - [Trident Pendant Necklace - Show Your Style & Power](https://ursupermart.com/products/trident-pendant-necklace-style-power-mythical-steel-symbol): This trident pendant necklace lets you express your unique style with a durable steel mythical symbol, available in three cool colors. Get yours today!
-  Updated: 2025-11-26T12:15:59Z
+  Updated: 2025-11-28T16:26:42Z
   Vendor: S1B|S1|CJ
   Product Type: Pendant Necklace
   Availability: Available
@@ -36440,7 +37190,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/dumbbell-bracelet-gold-lava-beads.webp?v=1764111878
     Price: $1.00 USD
 - [Snowman Outline Earrings - Cute & Festive Winter Wear](https://ursupermart.com/products/snowman-outline-earrings-cute-festive-winter-wear-holiday-gift): Snowman outline earrings instantly elevate your holiday spirit, adding a whimsical touch to any outfit; express your festive style and grab your pair today!
-  Updated: 2025-11-26T21:13:35Z
+  Updated: 2025-11-27T09:08:04Z
   Vendor: S1B|S1|CJ
   Product Type: Earrings
   Availability: Available
@@ -36980,7 +37730,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/invisible-ink-pen-with-uv-light-purple.webp?v=1763873556
     Price: $1.00 USD
 - [Kawaii Cat Charms for Bags Phones Keys Cute & Fun](https://ursupermart.com/products/kawaii-cat-charms-for-bags-phones-keys-cute-and-fun-designs): Kawaii cat charms let you personalize your bags, phones, and keys with cute, glossy designs, expressing your unique style; find your favorite and shop now!
-  Updated: 2025-11-26T23:07:44Z
+  Updated: 2025-11-27T09:17:56Z
   Vendor: S1B|S1|eprolo
   Product Type: Cat Charms
   Availability: Available
@@ -37012,6 +37762,24 @@
   - [Black cat](https://ursupermart.com/products/kawaii-cat-charms-for-bags-phones-keys-cute-and-fun-designs?variant=42583537778778)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cat-phone-charm-black-tuxedo-set.webp?v=1764198093
+    Price: $1.00 USD
+- [Angel Wing Necklace Gift for Comfort & Protection](https://ursupermart.com/products/angel-wing-necklace-gift-for-comfort-and-protection-gold-charm): An angel wing necklace gift offers comfort and guidance, a delicate gold-plated charm to feel protected and inspired daily; find yours today.
+  Updated: 2025-11-28T14:34:22Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Angel wing necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/angel-wing-necklace-silver-gift-card.webp?v=1764297649
+  - [Gold Wings + Chain](https://ursupermart.com/products/angel-wing-necklace-gift-for-comfort-and-protection-gold-charm?variant=42583537844314)
+    Availability: Available
+    Price: $1.00 USD
+  - [Gold Wings +Card](https://ursupermart.com/products/angel-wing-necklace-gift-for-comfort-and-protection-gold-charm?variant=42583537877082)
+    Availability: Available
+    Price: $1.00 USD
+  - [Silver Wings Chain](https://ursupermart.com/products/angel-wing-necklace-gift-for-comfort-and-protection-gold-charm?variant=42583537909850)
+    Availability: Available
+    Price: $1.00 USD
+  - [Silver Wings +Card](https://ursupermart.com/products/angel-wing-necklace-gift-for-comfort-and-protection-gold-charm?variant=42583537942618)
+    Availability: Available
     Price: $1.00 USD
 - [Men's Magnetic Bracelet Titanium Style & Pain Relief](https://ursupermart.com/products/mens-magnetic-bracelet-titanium-style-pain-relief-for-men): Men's magnetic bracelet provides stylish comfort and potential relief from daily discomfort. Feel better and look great all day; get yours and experience the difference!
   Updated: 2025-11-26T00:50:04Z
@@ -37503,6 +38271,42 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4FDDDFDB64A2203898F21764A3FC9AF9.jpg?v=1763788106
     Price: $1.00 USD
+- [Adjustable Tablet Stand Hands-Free & Secure Viewing](https://ursupermart.com/products/adjustable-tablet-stand-hands-free-secure-viewing-ergonomic): An adjustable tablet stand offers hands-free convenience, preventing neck strain with versatile positioning; get yours for ultimate comfort and productivity!
+  Updated: 2025-11-28T15:34:16Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Adjustable tablet stand
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/adjustable-tablet-stand-kitchen-desk-mount.webp?v=1764301260
+  - [Silver](https://ursupermart.com/products/adjustable-tablet-stand-hands-free-secure-viewing-ergonomic?variant=42602523033690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/adjustable-tablet-stand-desktop-holder-white.webp?v=1764301265
+    Price: $37.95 USD
+  - [Black](https://ursupermart.com/products/adjustable-tablet-stand-hands-free-secure-viewing-ergonomic?variant=42602523066458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/adjustable-tablet-stand-holding-smartphone.webp?v=1764301265
+    Price: $37.95 USD
+- [Silicone Phone Holder for Hands-Free Viewing & Secure Mount](https://ursupermart.com/products/silicone-phone-holder-hands-free-viewing-secure-mount-solution): This silicone phone holder gives you a secure, hands-free grip on any smooth surface for easy viewing and navigation; enhance your daily convenience now.
+  Updated: 2025-11-28T16:29:17Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Silicone phone grip pad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/silicone-phone-holder-suction-pad-multicolor.webp?v=1764301957
+  - [Black](https://ursupermart.com/products/silicone-phone-holder-hands-free-viewing-secure-mount-solution?variant=42602523885658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/silicone-phone-holder-black-suction-pad.webp?v=1764301957
+    Price: $1.00 USD
+  - [White](https://ursupermart.com/products/silicone-phone-holder-hands-free-viewing-secure-mount-solution?variant=42602523918426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/silicone-phone-holder-white-suction-pad.webp?v=1764301957
+    Price: $1.00 USD
+  - [Pink](https://ursupermart.com/products/silicone-phone-holder-hands-free-viewing-secure-mount-solution?variant=42602523951194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/silicone-phone-holder-pink-suction-pad.webp?v=1764301957
+    Price: $1.00 USD
+  - [Blue](https://ursupermart.com/products/silicone-phone-holder-hands-free-viewing-secure-mount-solution?variant=42602523983962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/silicone-phone-holder-blue-suction-pad.webp?v=1764301957
+    Price: $1.00 USD
 
 ## Collections
 
@@ -37525,8 +38329,8 @@
   Updated: 2025-11-10T13:54:03Z
   Total Products: 35
 - [Smart Home Devices That Make Life Easier 2025: Complete](https://ursupermart.com/collections/smart-home-devices-make-life-easier): Smart home devices that make daily tasks easier. Security cameras, smart lights & kitchen gadgets $9-45. Free shipping, 14-day returns, expert support today!
-  Updated: 2025-11-16T20:47:03Z
-  Total Products: 91
+  Updated: 2025-11-28T03:43:33Z
+  Total Products: 92
 - [Amazing Cozy Christmas Decor Deals Starting at Just $12](https://ursupermart.com/collections/cozy-christmas-decor-deals-under-30): Transform your home with cozy christmas decor deals under $30. Budget friendly holiday decorating solutions for Instagram-worthy spaces. Shop now!
   Updated: 2025-11-26T12:07:37Z
   Total Products: 23
@@ -37549,14 +38353,14 @@
   Updated: 2025-11-26T12:07:37Z
   Total Products: 25
 - [Viral Tech Gadgets Under $50 TikTok Users Are Buying Now](https://ursupermart.com/collections/viral-tech-gadgets-under-50): Shop viral tech gadgets under $50 trending on TikTok 2025. Power banks, gaming consoles & flashlights with free shipping. Limited holiday deals now!
-  Updated: 2025-11-18T19:27:52Z
-  Total Products: 38
+  Updated: 2025-11-28T21:49:30Z
+  Total Products: 42
 - [Best Stocking Stuffers Under $15: Affordable Gift Ideas 2025](https://ursupermart.com/collections/stocking-stuffers-under-15-dollars): Stocking stuffers under $15 that look amazing. Budget gifts with free shipping. Quality items for everyone on your list. Shop smart and save money this holiday!
-  Updated: 2025-11-14T21:42:40Z
-  Total Products: 93
+  Updated: 2025-11-28T03:30:12Z
+  Total Products: 96
 - [Top Gift Ideas Under $25 That Look Expensive - Beauty & Tech](https://ursupermart.com/collections/best-gift-ideas-under-25): Best gift ideas under $25 that look expensive! Budget beauty gifts, tech accessories & holiday gifts under 25 for everyone. Quality guaranteed today!
-  Updated: 2025-11-24T08:03:10Z
-  Total Products: 93
+  Updated: 2025-11-28T03:30:11Z
+  Total Products: 95
 - [Affordable Luxury Jewelry - Necklaces, Earrings, Bracelets](https://ursupermart.com/collections/affordable-luxury-jewelry-necklaces-bracelets-earrings): Discover luxury fashion jewelry at affordable prices! Shop necklaces, earrings, bracelets, charms & pendants. Free shipping on quality jewelry pieces!
   Updated: 2025-10-24T13:31:42Z
   Total Products: 57
@@ -37564,20 +38368,20 @@
   Updated: 2025-11-17T01:29:38Z
   Total Products: 20
 - [TikTok Trending Gadgets That Solve Everyday Problems Now](https://ursupermart.com/collections/trending-gadgets-problem-solvers): Shop TikTok trending gadgets that solve your daily problems! Cool gadgets, problem solvers, gift ideas with free shipping. Christmas sale ends soon!
-  Updated: 2025-11-16T21:54:51Z
-  Total Products: 70
+  Updated: 2025-11-28T03:43:33Z
+  Total Products: 73
 - [2025 Beauty & Self Care Guide: Products That Really Work](https://ursupermart.com/collections/best-beauty-self-care-products-2025): Find beauty & self care products that work in 2025. Expert-tested skincare routines, anti-aging treatments, and wellness essentials. Free shipping!
   Updated: 2025-11-17T01:00:00Z
   Total Products: 45
 - [Phone Accessories Going Viral: Best TikTok Picks 2025](https://ursupermart.com/collections/viral-phone-accessories-tiktok-collection): Shop viral phone accessories from TikTok! Find wireless chargers, power banks, car mounts & cases. Free shipping, 14-day returns. Starting at $14!
-  Updated: 2025-11-07T22:35:38Z
-  Total Products: 58
+  Updated: 2025-11-28T12:07:11Z
+  Total Products: 59
 - [Affordable Quality Activewear - Squat-Proof Leggings $20-100](https://ursupermart.com/collections/best-womens-activewear-collection): Quality activewear that won't break the bank. Squat-proof leggings, inclusive sizing XS-3X, $20-100. Free shipping on all orders. Shop now!
-  Updated: 2025-11-19T03:13:23Z
+  Updated: 2025-11-27T16:39:13Z
   Total Products: 45
 - [Best Trendy Phone Cases for Teens Protection Meets Style Now](https://ursupermart.com/collections/trendy-phone-cases-teens): Shop trendy phone cases teens love today! Stylish protection under $25 that parents will approve of. Instagram-worthy designs with real drop protection features
-  Updated: 2025-11-26T00:31:01Z
-  Total Products: 56
+  Updated: 2025-11-28T03:30:08Z
+  Total Products: 57
 - [Best Summer Dresses | Cotton Maxi Mini Beach Styles XS-3X](https://ursupermart.com/collections/summer-dresses-maxi-mini-beach-xs-3x): Shop trendy 2025 summer dresses! Affordable cotton maxi, mini & beach styles XS-3X. Lightweight, breathable fabrics for vacation & everyday. Free shipping!
   Updated: 2025-11-18T19:28:43Z
   Total Products: 35
@@ -37588,8 +38392,8 @@
   Updated: 2025-10-01T23:31:57Z
   Total Products: 33
 - [Gift Ideas – Unique, Cool, and Affordable Picks](https://ursupermart.com/collections/gift-ideas): Explore Gift Ideas for every occasion. Find unique, cool, and affordable gifts for birthdays, holidays, and special moments, all in one place and free shipping.
-  Updated: 2025-11-26T12:07:37Z
-  Total Products: 47
+  Updated: 2025-11-28T03:43:33Z
+  Total Products: 48
 - [Top Mens Watches 2025: Luxury Waterproof Sales Under $125!](https://ursupermart.com/collections/best-mens-watches-luxury-waterproof): Shop trending mens watches 2025! Best waterproof luxury watches and stylish watches for men $15-$125. Free shipping, hassle-free returns!
   Updated: 2025-11-18T19:27:52Z
   Total Products: 32
@@ -37597,14 +38401,14 @@
   Updated: 2025-11-16T21:54:51Z
   Total Products: 21
 - [Shop Women's Shapewear | Comfortable Body Shapers $30-$100](https://ursupermart.com/collections/womens-shapewear-body-shapers-collection): Find comfortable women's shapewear for everyday wear. Tummy control bodysuits, seamless shorts & breathable body shapers. Free shipping on all orders.
-  Updated: 2025-11-21T17:14:02Z
+  Updated: 2025-11-27T18:31:32Z
   Total Products: 11
 - [Shop Women's Winter Coats: Warm, Stylish & Budget-Friendly](https://ursupermart.com/collections/womens-winter-coats-affordable-2026): Find affordable women's winter coats, jackets & sweaters for work and weekend. Cozy styles under $150 with free shipping. Shop winter clothing deals now!
-  Updated: 2025-11-26T23:58:13Z
+  Updated: 2025-11-28T02:01:16Z
   Total Products: 39
 - [Free Gifts for Everyone: Quality Jewelry Collection 2025](https://ursupermart.com/collections/free-gifts-for-everyone): Free gifts for everyone including chains, watches, rings and necklaces. Quality jewelry at zero cost for holiday gifting. Free shipping included.
-  Updated: 2025-11-26T23:15:37Z
-  Total Products: 87
+  Updated: 2025-11-28T20:41:15Z
+  Total Products: 92
 
 ## Blogs
 
@@ -37933,6 +38737,18 @@
     Updated: 2025-11-10T15:27:10Z
     Author: Angel C
     Tags: adult Deadpool mask, affordable cosplay mask, affordable Deadpool mask, authentic Deadpool mask design, best convention mask, best Deadpool mask for adults, breathable Deadpool mask, breathable full head mask, buy Deadpool mask cosplay, comfortable cosplay mask, comfortable Deadpool mask, comfortable full face mask, Deadpool cosplay, Deadpool cosplay mask, Deadpool costume, Deadpool fan content, Deadpool Halloween costume, Deadpool mask, Deadpool mask content creation, Deadpool mask for conventions, Deadpool mask for sale, Deadpool mask review, Deadpool mask social media, Deadpool mask tutorial., Deadpool mask unboxing, Deadpool mask with mesh eyes, easy cosplay mask, easy Halloween mask adult, fabric Deadpool mask, full face mask comfortable fit, full head Deadpool mask, Halloween Deadpool mask, high-quality Deadpool mask, perfect Deadpool costume mask, realistic Deadpool mask, realistic superhero mask, red and black costume mask, stretchable Deadpool mask, superhero head mask, where to buy Deadpool mask
+  - [Best Waterproof Speaker: Sing in the Shower Worry-Free!](https://ursupermart.com/blogs/ursupermart-news-updates/best-waterproof-shower-speaker-review): Best Waterproof Speaker: Sing in the Shower Worry-Free!
+    Updated: 2025-11-27T00:20:35Z
+    Author: Angel C
+    Tags: affordable shower speaker, best shower speaker, best sound shower speaker, best waterproof Bluetooth speaker, Bluetooth shower speaker, Bluetooth speaker for shower, Bluetooth speaker with suction cup, durable waterproof speaker, easy pairing shower speaker, easy to use shower speaker, hands-free shower speaker, kids bath time speaker, long lasting shower speaker, music in the shower, outdoor waterproof speaker, portable Bluetooth speaker, portable music player for shower., portable speaker for travel, portable waterproof speaker, safe shower speaker, shower speaker for calls, shower speaker for music, shower speaker with lights, shower tunes speaker, speaker for wet environments, speaker with bright buttons, speaker with simple controls, suction cup speaker, top rated shower speaker, water-resistant speaker, waterproof shower speaker, waterproof speaker for bath time, waterproof speaker for bathroom, waterproof speaker for camping, waterproof speaker for kids, waterproof speaker for pool, waterproof speaker reviews, wireless bathroom speaker, wireless shower speaker, wireless speaker for kayaking
+  - [Find Your Smart TV Remote | Simplify Entertainment Now!](https://ursupermart.com/blogs/ursupermart-news-updates/smart-tv-remote-guide-today): Find Your Smart TV Remote | Simplify Entertainment Now!
+    Updated: 2025-11-28T17:00:36Z
+    Author: Angel C
+    Tags: accessible TV remote, best streaming remote, best universal remote, clear button TV remote, easy remote for seniors, easy to use TV remote, find perfect streaming remote, hands-free TV remote, make streaming simple, modern TV remote features, new voice TV remote, one remote for all devices, quick app access remote, remote control for streaming, remote for comfortable use, remote for elderly, remote to talk to TV, remote with app buttons, remote with Hulu button, remote with Netflix button, remote with voice control, replacement fire TV remote, replacement TV remote, simple remote for smart TV., simple smart TV navigation, simplify TV remote, smart remote control, Smart TV remote, streaming device remote, streaming remote, universal remote, universal streaming remote, upgrade TV experience, voice activated remote, voice activated streaming remote, voice and app button remote, voice command TV remote, voice control remote, voice remote for streaming
+  - [TV Remote Case: The Ultimate Guide to Protection & Style](https://ursupermart.com/blogs/ursupermart-news-updates/tv-remote-case-guide-protector): TV Remote Case: The Ultimate Guide to Protection & Style
+    Updated: 2025-11-28T04:24:44Z
+    Author: Angel C
+    Tags: anti-drop remote case, anti-slip remote cover, best Fire TV remote case, best remote protection, bright color remote case, durable remote cover, easy to find remote cover, find my Fire TV remote, Fire Stick remote protector, Fire TV accessories, Fire TV remote cover, Fire TV remote grip, Fire TV remote holder, Fire TV remote loop, Fire TV remote mixed up, Fire TV remote with strap, Fire TV remote with wrist strap, flexible remote cover, identify my remote, non-slip Fire TV remote, prevent lost remote, protect Fire TV remote, protect remote from toddlers, remote always within reach, remote case for better grip, remote case for family, remote case for Fire Stick, remote case for kids, remote case with cutouts., remote control protection, remote cover for clumsy people, remote cover for spills, remote cover with lanyard, remote skin for Fire TV, secure remote control, shockproof remote cover, silicone Fire TV remote cover, soft silicone remote case, where to buy Fire TV remote cover
 - [Mom’s Cleaning Hacks: Smart Solutions for a Tidy Home](https://ursupermart.com/blogs/moms-cleaning-hacks): Discover time-saving, budget-friendly cleaning products and hacks for busy moms. Keep your home spotless with smart, easy-to-use solutions!
   - [Eco-Friendly Steel Mesh Dish Cloths – Durable & Sustainable](https://ursupermart.com/blogs/moms-cleaning-hacks/eco-friendly-steel-mesh-dish-cloths): Eco-Friendly Steel Mesh Dish Cloths – Durable & Sustainable
     Updated: 2025-08-07T23:11:00Z
@@ -38049,6 +38865,10 @@
     Updated: 2025-11-21T04:25:54Z
     Author: Angel Carbonell
     Tags: affordable fashion jewelry store, affordable jewelry gift for teens, affordable luxury jewelry necklaces bracelets earrings, ashion jewelry guide, best affordable necklaces for women, best jewelry for daily wear, best metals for sensitive skin, best trendy jewelry for Gen Z, budget luxury jewelry pieces, classy fashion jewelry for work, difference between 14k and 18k gold, easy return jewelry purchase, elegant pearl jewelry styling, everyday fashion jewelry tips, fashion jewelry collection perfect for date night, fashion jewelry for holiday parties, fashion jewelry trends 2025, fashion jewelry under50, fashion jewelry vs fine jewelry, gift ready jewelry set under 25 with free shipping, glowing crescent moon necklace style, heart crystal jewelry set rose gold, holiday party jewelry looks, how to care for plated jewelry, how to spot real jewelry, how to store necklaces tangle free, jewelry care and cleaning tips, jewelry care for beginners, jewelry trends for millennials, layered necklaces advice, meaning of 10k on jewelry, minimalist jewelry women, mix and match metals layered jewelry pieces women, mix metals jewelry trend, pearl drop earrings for holiday party, personalized charm pieces, quick shipping jewelry gift, romantic jewelry gift ideas, secret santa crystal bracelet set, stackable bracelet set under 50, stackable bracelets styling tips, statement accessories women, stylish statement necklace women, stylish women’s accessories online, trendy earring collection, what is fashion jewelry, what makes jewelry look cheap, women’s gift jewelry ideas
+  - [Posture Correcting Insoles: Men's Height Boost Guide](https://ursupermart.com/blogs/fashion/posture-correcting-insoles-mens-height-guide): Posture Correcting Insoles: Men's Height Boost Guide
+    Updated: 2025-11-28T20:09:30Z
+    Author: Angel Carbonell
+    Tags: adjustable height insoles, all day height insoles, back pain height insoles, best height insoles, best shoe lifts 2024, business meeting confidence boost, career advancement height help, casual height boost, confidence boosting insoles, dating app height advantage, dating confidence height boost, discreet height insoles, discreet shoe lifts, elevator shoes for men, first date confidence boost, height boost insoles, height increasing insoles, height increasing products men, height insoles comfort, height insoles for dating, height insoles for dress shoes, height insoles for interviews, height insoles for sneakers, height insoles for work, height insoles men, height insoles reviews, height psychology confidence, how to increase height with insoles, invisible height insoles, male height enhancement, memory foam height insoles, men's confidence insoles, men's height increasing shoes, men's wellness height boost, networking confidence boost, portable confidence boost, posture correcting insoles, posture improvement insoles, professional height insoles, professional image enhancement, professional presence enhancement, removable height insoles, self improvement height, shoe lifts for men, short men dating tips, social confidence height help, travel height insoles, workout height insoles
 - [Tips, Trends & Deals | UrSuperMart Blog](https://ursupermart.com/blogs/tips-trends-deals-ursupermart-blog): Explore shopping tips, product trends, gift ideas, and exclusive deals. Stay updated with fresh content from the UrSuperMart blog.
   - [Discover Ultimate Gadgets: Latest Phones, Reviews & Prices](https://ursupermart.com/blogs/tips-trends-deals-ursupermart-blog/ultimate-gadgets-guide-2025-top-tech): Discover Ultimate Gadgets: Latest Phones, Reviews & Prices
     Updated: 2025-08-07T23:04:47Z
@@ -38109,6 +38929,10 @@
     Updated: 2025-10-24T03:30:05Z
     Author: Angel Carbonell
     Tags: affordable beauty products black friday, affordable black friday deals, affordable gift ideas, affordable party gifts, affordable self care gifts, affordable tech deals, babysitter gift ideas, beauty gift sets cheap, best black friday bargains, black friday candles, black friday coworker gifts, black friday deals free shipping, black friday deals under 15, black friday electronics under 15, black friday fashion accessories, black friday gifts under 15 dollars, black friday home essentials, black friday jewelry under 15, black friday sales under 15, black friday savings, black friday stocking stuffers, black friday tech accessories, black friday under 15, black friday value deals, budget black friday shopping, budget christmas gifts, budget family gifts, budget friendly gifts, budget gift bundles, budget holiday shopping, budget skincare sets, cheap black friday finds, cheap black friday gifts, cheap holiday gifts, cheap makeup brushes, discount holiday gifts, gift ideas for coworkers, hairstylist thank you gifts, holiday gift guide budget, home decor deals, inexpensive black friday gifts, kitchen gadgets under 15, kitchen tools deals, last minute gift ideas, mail carrier gifts budget, neighbor gifts cheap, office gift exchange ideas, phone accessories deals, practical gifts under 15, quality budget items, scarves and accessories, secret santa gifts under 15, service provider gifts, stocking stuffers for adults, teacher gifts under 15, thoughtful cheap gifts, versatile gift ideas, wireless earbuds under 15
+  - [Real Black Friday Deals Guide: Avoid Fake Sales This Year](https://ursupermart.com/blogs/tips-trends-deals-ursupermart-blog/real-black-friday-deals-guide-professionals): Real Black Friday Deals Guide: Avoid Fake Sales This Year
+    Updated: 2025-11-28T22:52:20Z
+    Author: Angel Carbonell
+    Tags: authentic black friday offers, authentic retail deals, avoid fake sales, black friday consumer protection, black friday consumer tips, black friday deal analysis, black friday deal checker, black friday deal evaluation, black friday deal research, black friday deal verification, black friday deal warnings, black friday hidden fees, black friday inventory tricks, black friday marketing tricks, black friday price history, black friday price manipulation, black friday price tracking, black friday price tricks, black friday return policies, black friday scams, black friday shopping guide, black friday shopping strategy, black friday shopping tips, black friday truth exposed, deal authenticity guide, deal verification tools, fake black friday advertising, fake black friday sales, fake discount tactics, fake promotional pricing, fake sale red flags, fake sale warning signs, fake urgency tactics, genuine black friday savings, holiday shopping scams, honest black friday deals, how to spot fake deals, legitimate black friday deals, legitimate discount offers, minimum purchase requirements, price comparison black friday, professional shopping advice, real black friday deals, real savings vs fake discounts, real vs fake sales, retail price manipulation, smart black friday shopping
 - [Meaningful Gifts for Every Season: What's Hot This Year](https://ursupermart.com/blogs/meaningful-gifts-every-season): Discover meaningful and trending gifts for every season this year. Find the perfect seasonal present that’s thoughtful, unique and sure to impress.
   - [Top Halloween Decoration Ideas to Transform Your Home](https://ursupermart.com/blogs/meaningful-gifts-every-season/halloween-decoration-ideas-for-spooky-homes): Top Halloween Decoration Ideas to Transform Your Home
     Updated: 2025-09-04T17:30:55Z
@@ -38141,6 +38965,10 @@
     Updated: 2025-11-18T22:11:44Z
     Author: Angel C
     Tags: AI meeting recorder, AI summarization recorder, audio summarizer device, audio summarizer for journalists, audio summarizer for students, audio to text app, audio to text converter, audio transcription app, audio transcription for legal, audio transcription for research, audio transcription for students., best audio transcription software, best transcription device for meetings, buy audio to text converter, dual mic speech to text, EchoNote AI recorder, how to transcribe audio, improve meeting accountability, lecture recording device, meeting recorder with transcription, meeting recording device, portable recorder for writers, portable transcription device, portable voice recorder, real time transcription device, recorder for podcasts, review sales calls, Smart transcription device, speech to text converter, transcribe audio to text, transcription device benefits, transcription device for lawyers, transcription for research interviews, voice recording device, voice to text for professionals, voice to text recorder, wireless audio transcriber, wireless recording device for lectures, wireless voice recorder
+  - [Trendy Phone Cases for Teens: Style & Protection Under $25](https://ursupermart.com/blogs/tech-gadget-ideas/trendy-phone-cases-teens-style-protection): Trendy Phone Cases for Teens: Style & Protection Under $25
+    Updated: 2025-11-27T03:39:47Z
+    Author: Angel Carbonell
+    Tags: aesthetic iPhone cases, aesthetic phone cases under 25, affordable cute cases for iPhone, affordable phone cases, back to school phone case deals, back to school phone gear, budget friendly phone protection, budget phone cases, clear iPhone cases, clear phone cases with designs, customizable phone cases, cute durable cases for clumsy teens, cute phone cases, cute phone cases for teenage girls, drop protection cases for school, drop-proof teen accessories, durable teen cases, eco-friendly phone cases for students, express yourself phone cases, Gen Z phone style, gift ideas under $20 teens, hands-free phone accessories, Instagram aesthetic phone accessories, Instagram worthy phone case aesthetic, kawaii phone cases, kawaii phone cases with raised edges, MagSafe compatible teen cases, pastel phone cases, phone cases for teens, phone cases that photograph well, phone protection for teens, protective pastel cases for students, protective student cases, school phone cases, shockproof cases for high school, slim protective cases, social media ready cases, student device accessories, stylish iPhone cases for teens 2025, stylish teen cases, sustainable phone covers, teen friendly protective phone cases, teen phone case trends, TikTok famous phone cases, trendy phone protection, trendy protective cases for students, wireless charging compatible cases
 
 ## Store Pages
 
