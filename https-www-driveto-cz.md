@@ -12,7 +12,7 @@ Zprostředkováváme operativní leasing vozidel od všech značek a leasingový
 - Contact Email: info@driveto.cz
 - Contact Phone: +420790285631
 - Address: Jankovcova 1569/2c, Holešovice, 170 00 Praha 7
-- Updated At: 2025-11-26T00:02:28.365Z
+- Updated At: 2025-11-29T00:02:59.898Z
 
 ## Naše služby
 
@@ -318,90 +318,6 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
 
 ## Products
 
-- [Toyota Corolla Comfort 1.8 Hybrid 103 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-corolla-comfort-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka): Corolla je jméno, které ve světě zná snad každý. První generace vznikla už v roce 1968 a celosvětově se jich prodalo přes 50 milionů. Rovněž má na kontě několik vítězství v žebříčcích nejspolehlivějších vozů. Uvnitř Corolla boduje klasickou koncepcí, kde jsou moderní technologie v perfektní harmonii s klasickými tlačítky či kolečky. Díky tomu se velice dobře ovládá. Potěší i dostatek prostoru a kufr, který pojme 596 litrů zavazadel. Výbornou práci odvádí podvozek, který zajišťuje dobrý komfort, ale zároveň jistotu v zatáčkách, čemuž pomáhá i nízká hmotnost. Jedná se o klasický hybrid, což znamená, že je zde benzínový motor, ale také elektromotor, který bere energii z baterie, která se dobíjí brzděním. Jde o velice efektivní systém, který Toyota ve svých vozech používá přes 25 let. Mezi výhody se řadí nízká spotřeba, která se po městě dá držet kolem 4 litrů, ale zároveň nemusíte řešit dobíjení a pouze do vozu tankujete benzín. Nechybí ani automatická bezestupňová převodovka, díky které budou ranní kolony o poznání příjemnější.
-  Updated: 2025-10-29T18:41:41Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaCorollaComfort1.8foto1.webp?v=1761571858
-  - [10000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/toyota-corolla-comfort-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka?variant=58457197248861)
-    Availability: Available
-    Price: 7 452,00 Kč CZK
-  - [15000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/toyota-corolla-comfort-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka?variant=58457197281629)
-    Availability: Available
-    Price: 7 601,00 Kč CZK
-  - [20000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/toyota-corolla-comfort-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka?variant=58457197314397)
-    Availability: Available
-    Price: 7 745,00 Kč CZK
-  - [25000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/toyota-corolla-comfort-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka?variant=58457197347165)
-    Availability: Available
-    Price: 7 955,00 Kč CZK
-  - [30000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/toyota-corolla-comfort-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka?variant=58457197379933)
-    Availability: Available
-    Price: 8 151,00 Kč CZK
-- [Toyota Corolla Comfort TECH 1.8 Hybrid 103 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-corolla-comfort-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka-2): Corolla je jméno, které ve světě zná snad každý. První generace vznikla už v roce 1968 a celosvětově se jich prodalo přes 50 milionů. Rovněž má na kontě několik vítězství v žebříčcích nejspolehlivějších vozů. Uvnitř Corolla boduje klasickou koncepcí, kde jsou moderní technologie v perfektní harmonii s klasickými tlačítky či kolečky. Díky tomu se velice dobře ovládá. Potěší i dostatek prostoru a kufr, který pojme 596 litrů zavazadel. Výbornou práci odvádí podvozek, který zajišťuje dobrý komfort, ale zároveň jistotu v zatáčkách, čemuž pomáhá i nízká hmotnost. Jedná se o klasický hybrid, což znamená, že je zde benzínový motor, ale také elektromotor, který bere energii z baterie, která se dobíjí brzděním. Jde o velice efektivní systém, který Toyota ve svých vozech používá přes 25 let. Mezi výhody se řadí nízká spotřeba, která se po městě dá držet kolem 4 litrů, ale zároveň nemusíte řešit dobíjení a pouze do vozu tankujete benzín. Nechybí ani automatická bezestupňová převodovka, díky které budou ranní kolony o poznání příjemnější.
-  Updated: 2025-10-29T18:41:44Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaCorollaComfortTECHfoto1.webp?v=1761571891
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-comfort-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka-2?variant=58458604732765)
-    Availability: Available
-    Price: 8 046,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-comfort-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka-2?variant=58458604765533)
-    Availability: Available
-    Price: 8 208,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-comfort-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka-2?variant=58458604798301)
-    Availability: Available
-    Price: 8 365,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-comfort-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka-2?variant=58458604831069)
-    Availability: Available
-    Price: 8 591,00 Kč CZK
-  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-comfort-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka-2?variant=58458604863837)
-    Availability: Available
-    Price: 8 805,00 Kč CZK
-- [Toyota Corolla Style 1.8 Hybrid 103 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-corolla-style-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka): Corolla je pojem, který ve světě zná snad každý. První generace vznikla v roce 1968 a celosvětově se jich prodalo přes 50 milionů. Rovněž má na kontě několik vítězství v žebříčcích nejspolehlivějších vozů. Uvnitř Corolla boduje klasickou koncepcí, kde jsou moderní technologie v perfektní harmonii s klasickými tlačítky či kolečky. Díky tomu se velice dobře ovládá. Potěší i dostatek prostoru a kufr, který pojme 596 litrů zavazadel. Výbornou práci odvádí podvozek, který zajišťuje dobrý komfort, ale zároveň jistotu v zatáčkách, čemuž pomáhá i nízká hmotnost. Jedná se o klasický hybrid, což znamená, že je zde benzínový motor, ale také elektromotor, který bere energii z baterie, která se dobíjí brzděním. Jde o velice efektivní systém, který Toyota ve svých vozech používá přes 25 let. Mezi výhody se řadí nízká spotřeba, která se po městě dá držet kolem 4 litrů, ale zároveň nemusíte řešit dobíjení a pouze do vozu tankujete benzín. Nechybí ani automatická bezestupňová převodovka, díky které budou ranní kolony o poznání příjemnější.
-  Updated: 2025-11-10T12:30:54Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaCorollaStyle1.8foto1.webp?v=1761571925
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-style-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka?variant=58458619576669)
-    Availability: Available
-    Price: 8 758,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-style-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka?variant=58458619609437)
-    Availability: Available
-    Price: 8 935,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-style-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka?variant=58458619642205)
-    Availability: Available
-    Price: 9 107,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-style-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka?variant=58458619674973)
-    Availability: Available
-    Price: 9 356,00 Kč CZK
-  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-style-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka?variant=58458619707741)
-    Availability: Available
-    Price: 9 590,00 Kč CZK
-- [Toyota Corolla GR Sport 1.8 Hybrid 103 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-corolla-gr-sport-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka): Corolla je pojem, který ve světě zná snad každý. První generace vznikla v roce 1968 a celosvětově se jich prodalo přes 50 milionů. Rovněž má na kontě několik vítězství v žebříčcích nejspolehlivějších vozů. Tento kousek je ve výbavě GR Sport, která vozu dodává sportovní nádech a hezkou výbavu navíc. Uvnitř Corolla boduje klasickou koncepcí, kde jsou moderní technologie v perfektní harmonii s klasickými tlačítky či kolečky. Díky tomu se velice dobře ovládá. Potěší i dostatek prostoru a kufr, který pojme 596 litrů zavazadel. Výbornou práci odvádí podvozek, který zajišťuje dobrý komfort, ale zároveň jistotu v zatáčkách, čemuž pomáhá i nízká hmotnost. Jedná se o klasický hybrid, což znamená, že je zde benzínový motor, ale také elektromotor, který bere energii z baterie, která se dobíjí brzděním. Jde o velice efektivní systém, který Toyota ve svých vozech používá přes 25 let. Mezi výhody se řadí nízká spotřeba, která se po městě dá držet kolem 4 litrů, ale zároveň nemusíte řešit dobíjení a pouze do vozu tankujete benzín. Nechybí ani automatická bezestupňová převodovka, díky které budou ranní kolony o poznání příjemnější.
-  Updated: 2025-10-29T18:41:49Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaCorollaGRSportfoto1.webp?v=1761571949
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-gr-sport-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka?variant=58458631405917)
-    Availability: Available
-    Price: 9 067,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-gr-sport-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka?variant=58458631438685)
-    Availability: Available
-    Price: 9 251,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-gr-sport-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka?variant=58458631471453)
-    Availability: Available
-    Price: 9 430,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-gr-sport-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka?variant=58458631504221)
-    Availability: Available
-    Price: 9 689,00 Kč CZK
-  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-gr-sport-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka?variant=58458631536989)
-    Availability: Available
-    Price: 9 933,00 Kč CZK
 - [Škoda Superb IV L&K 2.0TDi 142kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka): Zcela nová čtvrtá generace Superbu byla představena světu na jaře roku 2024. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design vyřazuje obzvláště ve vrcholné výbavě Laurin & Klement mimořádné charisma. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde naprosto fantastická přední sedadla, která nabízí propracovanou masážní funkci a nechybí ani vyhřívání či klimatizování. Jedná se o opravdu velmi příjemné místo, kde budete trávit čas rádi. O pohon vozu se stará osvědčený dieselový motor, který byl decentně přepracován. Poskytuje výkon 142 kW a je spojen s automatickou převodovkou DSG. Nechybí ani pohon všech kol, který oceníte především v zimě. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
   Updated: 2025-11-17T16:55:47Z
   Vendor: Driveto
@@ -436,191 +352,38 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 16 397,00 Kč CZK
 - [Škoda Superb IV Selection 2.0TDi 142kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka): Tato zcela nová generace Superbu byla představena světu na počátku roku 2024. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design je moderní a líbivý.. Interiér je jedním z nejvíce pozměněných míst. Vynikajícím způsobem kombinuje moderní pojetí s jednoduchým ovládáním. Jsou zde naprosto úžasná přední sedadla, která nabízí propracovanou masážní funkci a nechybí ani vyhřívání či klimatizování. Jedná se o opravdu velmi příjemný prostor, kde je jízda relax. O pohon vozu se stará osvědčený dieselový motor, který byl decentně přepracován. Poskytuje výkon 142 kW a je spojen s automatickou převodovkou DSG. Nechybí ani pohon všech kol, který oceníte především v zimě. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velice komfortní.
-  Updated: 2025-11-12T19:39:28Z
+  Updated: 2025-11-28T13:58:02Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1.webp?v=1761572193
   - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411508573)
     Availability: Available
-    Price: 11 014,00 Kč CZK
+    Price: 9 981,00 Kč CZK
   - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411541341)
     Availability: Available
-    Price: 11 626,00 Kč CZK
+    Price: 10 592,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411574109)
     Availability: Available
-    Price: 12 207,00 Kč CZK
+    Price: 11 153,00 Kč CZK
   - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411606877)
     Availability: Available
-    Price: 12 713,00 Kč CZK
+    Price: 11 647,00 Kč CZK
   - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411639645)
     Availability: Available
-    Price: 13 591,00 Kč CZK
+    Price: 12 473,00 Kč CZK
   - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411672413)
     Availability: Available
-    Price: 14 192,00 Kč CZK
+    Price: 13 053,00 Kč CZK
   - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411705181)
     Availability: Available
-    Price: 14 901,00 Kč CZK
+    Price: 13 707,00 Kč CZK
   - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411737949)
     Availability: Available
-    Price: 15 377,00 Kč CZK
+    Price: 14 158,00 Kč CZK
   - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411770717)
     Availability: Available
-    Price: 16 057,00 Kč CZK
-- [Škoda Superb IV L&K 1.5 TSI m-HEV 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka): Zcela nová čtvrtá generace Superbu byla představena světu na jaře roku 2024. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design vyřazuje obzvláště ve vrcholné výbavě Laurin & Klement mimořádné charisma. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde naprosto fantastická přední sedadla, která nabízí propracovanou masážní funkci a nechybí ani vyhřívání či klimatizování. Jedná se o opravdu velmi příjemné místo, kde budete trávit čas rádi. Pod kapotou se nachází benzínový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
-  Updated: 2025-10-29T18:42:28Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVL_Kfoto1_ef694d97-722c-42a3-af69-8bdad99e14e6.webp?v=1761572248
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757413769565)
-    Availability: Available
-    Price: 10 805,00 Kč CZK
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757413802333)
-    Availability: Available
-    Price: 11 310,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757413867869)
-    Availability: Available
-    Price: 11 961,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757413966173)
-    Availability: Available
-    Price: 13 071,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757413998941)
-    Availability: Available
-    Price: 14 022,00 Kč CZK
-- [Škoda Superb IV L&K 2.0 TDi 110 kW Nafta Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka): Zcela nová čtvrtá generace Superbu byla představena světu na jaře roku 2024. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design vyřazuje obzvláště ve vrcholné výbavě Laurin & Klement mimořádné charisma. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde naprosto fantastická přední sedadla, která nabízí propracovanou masážní funkci a nechybí ani vyhřívání či klimatizování. Jedná se o opravdu velmi příjemné místo, kde budete trávit čas rádi. O pohon vozu se stará osvědčený dieselový motor se skvělou spotřebou, který byl decentně přepracován. Poskytuje výkon 110 kW a je spojen s automatickou převodovkou DSG. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
-  Updated: 2025-10-29T18:42:32Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVL_Kfoto1_46ec8510-bdc8-4c33-b443-9e3ae7f9da84.webp?v=1761572275
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757415965021)
-    Availability: Available
-    Price: 11 170,00 Kč CZK
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757416030557)
-    Availability: Available
-    Price: 11 483,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757415997789)
-    Availability: Available
-    Price: 11 428,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757416096093)
-    Availability: Available
-    Price: 12 151,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757416063325)
-    Availability: Available
-    Price: 12 107,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757416128861)
-    Availability: Available
-    Price: 13 413,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757416161629)
-    Availability: Available
-    Price: 13 079,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757416227165)
-    Availability: Available
-    Price: 14 436,00 Kč CZK
-  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757416194397)
-    Availability: Available
-    Price: 14 459,00 Kč CZK
-- [Škoda Superb IV Selection 2.0 TDi 110kW Nafta Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka): Zcela nová čtvrtá generace Superbu byla představena světu počátkem roku 2024. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design je moderní a líbivý. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde velmi pohodlná přední sedadla a pozici za volantem není co vytknout. Jedná se o opravdu velmi příjemné místo, kde budete rádi trávit čas. O pohon vozu se stará osvědčený dieselový motor, který byl decentně přepracován. Poskytuje výkon 110 kW a je spojen s automatickou převodovkou DSG. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
-  Updated: 2025-10-29T18:42:35Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_f389db78-f4be-491e-8e73-587c61d803fd.webp?v=1761572300
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757418226013)
-    Availability: Available
-    Price: 9 575,00 Kč CZK
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757418258781)
-    Availability: Available
-    Price: 9 811,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757418193245)
-    Availability: Available
-    Price: 9 795,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757418291549)
-    Availability: Available
-    Price: 10 405,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757418324317)
-    Availability: Available
-    Price: 10 403,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757418389853)
-    Availability: Available
-    Price: 11 530,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757418357085)
-    Availability: Available
-    Price: 11 249,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757418422621)
-    Availability: Available
-    Price: 12 423,00 Kč CZK
-  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757418455389)
-    Availability: Available
-    Price: 12 468,00 Kč CZK
-- [Škoda Superb IV Sportline 2.0 TDi 110 kW Nafta Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka): Čtvrtá generace Superbu byla představena světu na jaře roku 2024. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Tento kousek je ve sportovně střižené výbavě Sportline, která vypadá jednoduše skvěle. Design je navíc moderní a nadčasový. Interiér se dočkal značného přepracování, skvěle kombinuje moderní styl s intuitivním ovládáním. Sportovní přední sedadla jsou jak pohodlná, tak velice užitečná při svižnější jízdě v zatáčkách, kde perfektně drží tělo. Pozice za volantem je bezchybná, což vytváří příjemné prostředí, kde budete rádi trávit čas. Pod kapotou se nachází osvědčený dieselový motor, který byl decentně přepracován. Poskytuje výkon 110 kW a je spojen s automatickou převodovkou DSG. Celkově se jedná o všestranného parťáka s pořádným kufrem, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
-  Updated: 2025-10-29T18:42:39Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSportlinefoto1_12c87017-adb1-4e43-9b5b-f215422c20c3.webp?v=1761572327
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757420159325)
-    Availability: Available
-    Price: 10 554,00 Kč CZK
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757420093789)
-    Availability: Available
-    Price: 10 792,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757420126557)
-    Availability: Available
-    Price: 10 780,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757420224861)
-    Availability: Available
-    Price: 11 436,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757420192093)
-    Availability: Available
-    Price: 11 436,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757420290397)
-    Availability: Available
-    Price: 12 651,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757420257629)
-    Availability: Available
-    Price: 12 366,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757420355933)
-    Availability: Available
-    Price: 13 630,00 Kč CZK
-  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757420323165)
-    Availability: Available
-    Price: 13 692,00 Kč CZK
-- [Škoda Superb IV Sportline 1.5 TSI m-HEV 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka): Čtvrtá generace Superbu byla představena světu na jaře roku 2024. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Tento kousek je ve sportovně střižené výbavě Sportline, která vypadá jednoduše skvěle. Design je navíc moderní a nadčasový. Interiér se dočkal značného přepracování, skvěle kombinuje moderní styl s intuitivním ovládáním. Sportovní přední sedadla jsou jak pohodlná, tak velice užitečná při svižnější jízdě v zatáčkách, kde perfektně drží tělo. Pozice za volantem je bezchybná, což vytváří příjemné prostředí, kde budete rádi trávit čas. Pod kapotou pracuje benzínový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Celkově se jedná o všestranného parťáka s pořádným kufrem, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
-  Updated: 2025-10-29T18:42:42Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSportlinefoto1_4e33e123-2baf-4eb8-83b3-64c0e8a5ff18.webp?v=1761572353
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757422420317)
-    Availability: Available
-    Price: 10 167,00 Kč CZK
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757422453085)
-    Availability: Available
-    Price: 10 580,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757422485853)
-    Availability: Available
-    Price: 10 458,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757422551389)
-    Availability: Available
-    Price: 11 207,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757422518621)
-    Availability: Available
-    Price: 11 025,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757422584157)
-    Availability: Available
-    Price: 12 270,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757422616925)
-    Availability: Available
-    Price: 11 885,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757422682461)
-    Availability: Available
-    Price: 13 178,00 Kč CZK
-  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757422649693)
-    Availability: Available
-    Price: 13 180,00 Kč CZK
+    Price: 14 795,00 Kč CZK
 - [Škoda Superb IV Sportline 2.0TDi 142kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka): Čtvrtá generace Superbu byla světu představena na jaře roku 2024. Inovací se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Tento kousek je ve sportovně střižené výbavě Sportline, která vypadá velmi atraktivně. Design je navíc moderní a nadčasový. Interiér se dočkal značného přepracování, skvěle kombinuje moderní styl s intuitivním ovládáním. Sportovní přední sedadla jsou jak pohodlná, tak velice užitečná při svižnější jízdě v zatáčkách, kde perfektně drží tělo. Pozice za volantem je bezchybná, což vytváří příjemné prostředí, kde budete rádi trávit čas. O pohon vozu se stará osvědčený naftový motor, který byl decentně přepracován. Poskytuje výkon 142 kW a je spojen s automatickou převodovkou DSG. Nechybí ani pohon všech kol, který oceníte především v zimě. Celkově se tedy jedná o všestranného parťáka s pořádným kufrem, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
   Updated: 2025-10-29T18:42:45Z
   Vendor: Driveto
@@ -785,315 +548,150 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto9_bc620e0c-f83c-4a7c-bc95-df4a765f0f2c.webp?v=1761572632
     Price: 16 033,00 Kč CZK
-- [Škoda Kodiaq RS 2.0 TSI 195 kW Natural 95 4x4 Automatická převodovka](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka): Kodiaq je ve sportovně laděné verzi RS vrcholem, který si můžete dopřát. Jedná se o druhou generaci, která světlo světa spatřila roku 2024. Změn se zde odehrálo opravdu mnoho, což je na první pohled znát. Design působí modernějším a mohutnějším dojmem. Verze RS dodává vozu sportovní a agresivní nádech. Vypadá zkrátka skvěle. Přední přísný výraz formují LED světlomety a široká maska s chromovým dekorem. Pocit robustnosti navozují vytažené blatníky a zadní části dominují propojená světla s charakteristickým tvarem ve tvaru písmene C. Interiér je oblast, která byla pozměněna nejvíc. Za zmínku rozhodně stojí pohodlná sportovní sedadla se skvělým bočním vedením a celkově výborná pozice za volantem. Potěší také kvalitní materiály, bohatá výbava, snadné ovládání a veliká obrazovka zábavního systému. Odkládacích prostorů je zde stále velké množství a celkově je vnitřní prostor na špičkové úrovni. Narostl i objem zavazadlového prostoru (+ 75 litrů) na aktuálních 910 litrů. To je mimochodem více, než nabízí největší SUV od Audi - model Q7. Nový je i podvozek, který poskytuje vozu lepší komfort a jízdní vlastnosti v zatáčkách. Pod kapotou se nachází silný benzínový dvoulitr o výkonu 195 kW, který dodává vozu vynikající dynamiku. Nechybí ani pohon 4x4 a automatická převodovka. Všechny tyto atributy z nového Kodiaqu druhé generace dělají rychlé a praktické SUV, které se brzy stane novým českým ideálem.
-  Updated: 2025-11-20T08:03:15Z
+- [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka): Octavia se za dobu jejího působí stala naprostou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Tento konkrétní kousek je kombík, takže nabídne opravdu prostorný kufr - 640 litrů. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s šestistupňovou převodovkou. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky šestému rychlostnímu stupni zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná.
+  Updated: 2025-11-27T15:42:07Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqRS2.0foto1.webp?v=1761572806
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=62645349515613)
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaSelection1.5foto1_ce78963c-8014-4e0a-9b9c-e3085433114c.webp?v=1761573105
+  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka?variant=57757454696797)
     Availability: Available
-    Price: 12 575,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439426909)
+    Price: 6 314,00 Kč CZK
+  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka?variant=57757454729565)
     Availability: Available
-    Price: 13 286,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439459677)
+    Price: 6 760,00 Kč CZK
+  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka?variant=57757454827869)
     Availability: Available
-    Price: 14 159,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439492445)
+    Price: 7 480,00 Kč CZK
+  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka?variant=57757454893405)
     Availability: Available
-    Price: 14 867,00 Kč CZK
-  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439525213)
+    Price: 8 091,00 Kč CZK
+  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka?variant=62737026875741)
     Availability: Available
-    Price: 15 938,00 Kč CZK
-  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439557981)
+    Price: 8 786,00 Kč CZK
+  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka?variant=62737026908509)
     Availability: Available
-    Price: 16 737,00 Kč CZK
-  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439590749)
+    Price: 9 340,00 Kč CZK
+  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka?variant=62737026941277)
     Availability: Available
-    Price: 17 720,00 Kč CZK
-  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439623517)
+    Price: 10 360,00 Kč CZK
+  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka?variant=62737026974045)
     Availability: Available
-    Price: 18 430,00 Kč CZK
-  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439656285)
+    Price: 10 847,00 Kč CZK
+  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka?variant=62737027006813)
     Availability: Available
-    Price: 19 335,00 Kč CZK
-- [Škoda Kodiaq Sportline 1.5 TSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-1-5-tsi-110kw-natural-95-automaticka-prevodovka): Nový Kodiaq byl představen na jaře roku 2024. Změn se zde odehrálo opravdu mnoho, což je viditelné na první pohled. Tento kus je navíc v nejzajímavější variantě Sportline. Design působí modernějším a podstatně mohutnějším dojmem. Přední přísný výraz formují LED světlomety a široká maska s chromovým dekorem. Pocit robustnosti navozují vytažené blatníky a zadní části dominují propojená světla s charakteristickým tvarem ve tvaru písmene C. Interiér je oblast, která se změnila úplně nejvíc. Za zmínku rozhodně stojí pohodlná sedadla a výborná pozice za volantem. Potěší také kvalitní materiály, bohatá výbava, snadné ovládání a veliká obrazovka zábavního systému. Odkládacích prostorů je zde stále velké množství a celkově je vnitřní prostor na špičkové úrovni. Narostl i objem zavazadlového prostoru (+ 75 litrů) na aktuálních 910 litrů. To je mimochodem více, než nabízí největší SUV od Audi - Q7. Nový je i podvozek, který poskytuje vozu ještě lepší komfort a jízdní vlastnosti. Pod kapotou se nachází benzínový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Všechny tyto atributy z nového Kodiaqu druhé generace dělají prvotřídní SUV, které se brzy stane novým českým ideálem.
-  Updated: 2025-10-29T18:43:40Z
+    Price: 11 304,00 Kč CZK
+  - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka?variant=62737027039581)
+    Availability: Available
+    Price: 12 125,00 Kč CZK
+- [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-2): Škoda Octavia se za dobu jejího působí stala úplnou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Tento konkrétní kousek je kombík, takže nabídne opravdu prostorný kufr - 640 litrů. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s automatickou převodovkou DSG. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky 7 rychlostnímu automatu zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná. Tento vůz navíc disponuje i mild-hybridní technologií, která po městě snižuje spotřebu paliva.
+  Updated: 2025-11-27T15:29:31Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline1.5foto1.webp?v=1761572957
-  - [10000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-1-5-tsi-110kw-natural-95-automaticka-prevodovka?variant=57757447815517)
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaSelection1.5foto1_b2766245-f17c-4202-9ea3-1e19e63d2751.webp?v=1761573124
+  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-2?variant=57757456171357)
     Availability: Available
-    Price: 9 495,00 Kč CZK
-  - [15000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-1-5-tsi-110kw-natural-95-automaticka-prevodovka?variant=57757447848285)
+    Price: 6 561,00 Kč CZK
+  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-2?variant=57757456236893)
     Availability: Available
-    Price: 10 035,00 Kč CZK
-  - [20000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-1-5-tsi-110kw-natural-95-automaticka-prevodovka?variant=57757447881053)
+    Price: 7 014,00 Kč CZK
+  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-2?variant=57757456335197)
     Availability: Available
-    Price: 10 616,00 Kč CZK
-  - [25000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-1-5-tsi-110kw-natural-95-automaticka-prevodovka?variant=57757447913821)
+    Price: 7 747,00 Kč CZK
+  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-2?variant=57757456367965)
     Availability: Available
-    Price: 11 123,00 Kč CZK
-  - [40000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-1-5-tsi-110kw-natural-95-automaticka-prevodovka?variant=57757447946589)
+    Price: 8 372,00 Kč CZK
+  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-2?variant=62736954949981)
     Availability: Available
-    Price: 12 738,00 Kč CZK
-- [Škoda Kodiaq Selection 1.5 TSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-kodiaq-ii-selection-1-5-tsi-110kw-natural-95-automaticka-prevodovka): Nový Kodiaq byl představen na jaře roku 2024. Změn se zde odehrálo opravdu dost, což je viditelné na první pohled. Design působí modernějším a podstatně mohutnějším dojmem. Přední přísný výraz formují LED světlomety a široká maska s chromovým dekorem. Pocit robustnosti navozují vytažené blatníky a zadní části dominují propojená světla s charakteristickým tvarem ve tvaru písmene C. Interiér se inovoval snad úplně nejvíc. Za zmínku rozhodně stojí komfortní sedadla a výborná pozice za volantem, která zajišťuje skvělý výhled ven. Potěší také kvalitní materiály, bohatá výbava, snadné ovládání a veliká obrazovka zábavního systému. Odkládacích prostorů je zde stále velké množství a celkově je vnitřní prostor na špičkové úrovni. Narostl i objem zavazadlového prostoru (+ 75 litrů) na aktuálních 910 litrů. To je mimochodem více, než nabízí největší SUV od Audi - Q7. Nový je i podvozek, který poskytuje vozu ještě lepší komfort a jízdní vlastnosti. Pod kapotou pracuje čtyřválcový benzínový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Všechny tyto atributy z nového Kodiaqu druhé generace dělají prvotřídní SUV, které se brzy stane novým českým ideálem.
-  Updated: 2025-10-29T18:43:43Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSelection1.5foto1.webp?v=1761573022
-  - [10000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-kodiaq-ii-selection-1-5-tsi-110kw-natural-95-automaticka-prevodovka?variant=57757448667485)
+    Price: 9 078,00 Kč CZK
+  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-2?variant=62736954982749)
     Availability: Available
-    Price: 8 604,00 Kč CZK
-  - [15000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-kodiaq-ii-selection-1-5-tsi-110kw-natural-95-automaticka-prevodovka?variant=57757448700253)
+    Price: 9 646,00 Kč CZK
+  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-2?variant=62736955015517)
     Availability: Available
-    Price: 9 098,00 Kč CZK
-  - [20000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-kodiaq-ii-selection-1-5-tsi-110kw-natural-95-automaticka-prevodovka?variant=57757448733021)
+    Price: 10 681,00 Kč CZK
+  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-2?variant=62736955048285)
     Availability: Available
-    Price: 9 635,00 Kč CZK
-  - [25000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-kodiaq-ii-selection-1-5-tsi-110kw-natural-95-automaticka-prevodovka?variant=57757448765789)
+    Price: 11 175,00 Kč CZK
+  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-2?variant=62736955081053)
     Availability: Available
-    Price: 10 099,00 Kč CZK
-  - [30000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-kodiaq-ii-selection-1-5-tsi-110kw-natural-95-automaticka-prevodovka?variant=57757448798557)
+    Price: 11 638,00 Kč CZK
+  - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-2?variant=62736955113821)
     Availability: Available
-    Price: 10 577,00 Kč CZK
-  - [35000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-kodiaq-ii-selection-1-5-tsi-110kw-natural-95-automaticka-prevodovka?variant=57757448831325)
-    Availability: Available
-    Price: 11 073,00 Kč CZK
-  - [40000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-kodiaq-ii-selection-1-5-tsi-110kw-natural-95-automaticka-prevodovka?variant=57757448864093)
-    Availability: Available
-    Price: 11 592,00 Kč CZK
+    Price: 12 472,00 Kč CZK
 - [Škoda Octavia Sportline 1.5 TSI m-HEV 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka): Octavia se za dobu jejího působí stala legendou, kterou zná snad každý. Jedná se už o modernizovanou čtvrtou generaci tohoto mladoboleslavského bestselleru. Nedá se jí upřít, že skvěle a nadčasově vypadá. Tento konkrétní kousek je kombík ve sportovně střižené výbavě Sportline. Design zaujme na první pohled a kde kdo se za touto specifikací otočí. Nechybí ani prostorný kufr o velikosti 640 litrů. Uvnitř potěší pohodlná sedadla a bohatá výbava. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka, díky které se jedná o skvělou volbu pro každý den.
-  Updated: 2025-10-29T18:44:01Z
+  Updated: 2025-11-27T15:36:19Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaSportline1.5foto1.webp?v=1761573158
   - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757458628957)
     Availability: Available
-    Price: 7 337,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757458694493)
-    Availability: Available
-    Price: 7 592,00 Kč CZK
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757458661725)
-    Availability: Available
-    Price: 7 557,00 Kč CZK
+    Price: 7 654,00 Kč CZK
   - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757458760029)
     Availability: Available
-    Price: 7 861,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757458727261)
-    Availability: Available
-    Price: 8 052,00 Kč CZK
+    Price: 8 169,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757458792797)
     Availability: Available
-    Price: 8 700,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757458825565)
-    Availability: Available
-    Price: 8 735,00 Kč CZK
+    Price: 9 012,00 Kč CZK
   - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757458891101)
     Availability: Available
-    Price: 9 427,00 Kč CZK
-  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757458858333)
+    Price: 9 742,00 Kč CZK
+  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62736988307805)
     Availability: Available
-    Price: 9 719,00 Kč CZK
+    Price: 10 536,00 Kč CZK
+  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62736988340573)
+    Availability: Available
+    Price: 11 224,00 Kč CZK
+  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62736988373341)
+    Availability: Available
+    Price: 12 373,00 Kč CZK
+  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62736988406109)
+    Availability: Available
+    Price: 12 932,00 Kč CZK
+  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62736988438877)
+    Availability: Available
+    Price: 13 436,00 Kč CZK
+  - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62736988471645)
+    Availability: Available
+    Price: 14 377,00 Kč CZK
 - [Škoda Octavia RS 2.0 TSI 195 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka): Modernizovaná Octavia RS nabízí sportovní charakter, ale zároveň si zachovává jedinečnou praktičnost. S výkonem 195 kW (265 koní) se jedná o nejsilnější verzi v historii modelu. Tento sportovně pojatý kombík dokáže ohromit vynikající dynamikou a schopnostmi v zatáčkách. Z 0 na 100 km/h zrychlí za pouhých 6,5 sekundy a jeho maximální rychlost dosahuje 250 km/h. Nechybí zde ani elektronický samosvorný diferenciál VAQ, který zajišťuje perfektní přenos výkonu na vozovku a minimalizuje nedotáčivost, čímž vylepšuje chování vozu v zatáčkách. Díky tomu se Octavia RS skvěle ovládá a je radost s ní jezdit. Interiér je vybaven sportovními sedadly, která drží tělo pevně na místě i při ostřejší jízdě. Celkově se jedná o vůz, který skvěle kombinuje sportovní vlastnosti s každodenní využitelností, což z něj dělá ideální volbu pro ty, kteří hledají rychlost a praktičnost v jednom balení.
-  Updated: 2025-10-29T18:44:04Z
+  Updated: 2025-11-27T15:44:47Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaRS2.0foto1.webp?v=1761573197
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka?variant=57757459644765)
-    Availability: Available
-    Price: 9 733,00 Kč CZK
   - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka?variant=57757459677533)
     Availability: Available
-    Price: 9 834,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka?variant=57757459611997)
-    Availability: Available
-    Price: 9 944,00 Kč CZK
+    Price: 10 512,00 Kč CZK
   - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka?variant=57757459710301)
     Availability: Available
-    Price: 10 543,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka?variant=57757459743069)
-    Availability: Available
-    Price: 10 656,00 Kč CZK
+    Price: 11 097,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka?variant=57757459808605)
     Availability: Available
-    Price: 11 678,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka?variant=57757459775837)
-    Availability: Available
-    Price: 11 469,00 Kč CZK
+    Price: 12 235,00 Kč CZK
   - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka?variant=57757459841373)
     Availability: Available
-    Price: 12 471,00 Kč CZK
-  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka?variant=57757459874141)
+    Price: 13 097,00 Kč CZK
+  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka?variant=62737039753565)
     Availability: Available
-    Price: 12 420,00 Kč CZK
-- [Škoda Superb IV L&K 2.0 TDi 110 kW Nafta Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2): Zcela nová čtvrtá generace Superbu byla představena světu na jaře roku 2024, karosářská verze liftback byla představena o několik měsíců později. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Tento kousek je ve vrcholném provedení Laurin & Klement, které evokuje až prémiovou atmosféru. Design je moderní a líbivý. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde velice pohodlná přední sedadla a pozici za volantem není co vytknout. Jedná se o opravdu velmi příjemné místo, kde budete rádi trávit čas. O pohon vozu se stará osvědčený dieselový motor, který byl decentně přepracován. Poskytuje výkon 110 kW a je spojen s automatickou převodovkou DSG. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
-  Updated: 2025-10-29T18:44:08Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVL_Kfoto1_87becddf-67d4-4b95-b43b-aaf73da2a789.webp?v=1761573222
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757461021021)
+    Price: 14 117,00 Kč CZK
+  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka?variant=62737039786333)
     Availability: Available
-    Price: 10 929,00 Kč CZK
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757460988253)
+    Price: 14 939,00 Kč CZK
+  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka?variant=62737039819101)
     Availability: Available
-    Price: 11 321,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757461053789)
+    Price: 16 417,00 Kč CZK
+  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka?variant=62737039851869)
     Availability: Available
-    Price: 11 214,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757461119325)
+    Price: 17 066,00 Kč CZK
+  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka?variant=62737039884637)
     Availability: Available
-    Price: 11 974,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757461086557)
+    Price: 17 697,00 Kč CZK
+  - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka?variant=62737039917405)
     Availability: Available
-    Price: 11 879,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757461184861)
-    Availability: Available
-    Price: 13 206,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757461152093)
-    Availability: Available
-    Price: 12 824,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757461217629)
-    Availability: Available
-    Price: 14 203,00 Kč CZK
-  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757461250397)
-    Availability: Available
-    Price: 14 170,00 Kč CZK
-- [Škoda Superb IV Selection 2.0 TDi 110 kW Nafta Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2): Zcela nová čtvrtá generace Superbu byla představena světu na jaře roku 2024, karosářská verze liftback byla představena o několik měsíců později. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design je moderní a líbivý. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde velice pohodlná přední sedadla a pozici za volantem není co vytknout. Jedná se o opravdu velmi příjemné místo, kde budete rádi trávit čas. O pohon vozu se stará osvědčený dieselový motor, který byl decentně přepracován. Poskytuje výkon 110 kW a je spojen s automatickou převodovkou DSG. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
-  Updated: 2025-10-29T18:44:11Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_89268548-4c09-4b63-ba9a-873ba321fe56.webp?v=1761573253
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757463249245)
-    Availability: Available
-    Price: 9 303,00 Kč CZK
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757463282013)
-    Availability: Available
-    Price: 9 592,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757463216477)
-    Availability: Available
-    Price: 9 540,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757463347549)
-    Availability: Available
-    Price: 10 171,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757463314781)
-    Availability: Available
-    Price: 10 134,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757463380317)
-    Availability: Available
-    Price: 11 267,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757463413085)
-    Availability: Available
-    Price: 10 952,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757463445853)
-    Availability: Available
-    Price: 12 132,00 Kč CZK
-  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757463478621)
-    Availability: Available
-    Price: 12 138,00 Kč CZK
-- [Škoda Superb IV L&K 1.5 TSI m-HEV 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2): Zcela nová čtvrtá generace Superbu byla představena světu na jaře roku 2024, karosářská verze liftback byla představena o několik měsíců později. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Tento kousek je ve vrcholném provedení Laurin & Klement, které evokuje až prémiovou atmosféru. Design je moderní a líbivý. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde velice pohodlná přední sedadla a pozici za volantem není co vytknout. Jedná se o opravdu velmi příjemné místo, kde budete rádi trávit čas. O pohon vozu se stará benzínový čtyřválcový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
-  Updated: 2025-10-29T18:44:18Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVL_Kfoto1_54549cf5-1146-4b37-bbf9-053d24055b58.webp?v=1761573308
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757468328285)
-    Availability: Available
-    Price: 9 653,00 Kč CZK
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757468295517)
-    Availability: Available
-    Price: 9 732,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757468262749)
-    Availability: Available
-    Price: 9 840,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757468393821)
-    Availability: Available
-    Price: 10 289,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757468361053)
-    Availability: Available
-    Price: 10 415,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757468459357)
-    Availability: Available
-    Price: 11 369,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757468426589)
-    Availability: Available
-    Price: 11 291,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757468524893)
-    Availability: Available
-    Price: 12 292,00 Kč CZK
-  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757468492125)
-    Availability: Available
-    Price: 12 605,00 Kč CZK
-- [Škoda Superb IV Sportline 1.5 TSI m-HEV 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2): Zcela nová čtvrtá generace Superbu byla představena světu na jaře roku 2024, karosářská verze liftback byla představena o několik měsíců později. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Tento kousek je ve sportovně střižené výbavě Sportline, která vypadá jednoduše skvěle. Design je navíc moderní a nadčasový. Interiér se dočkal značného přepracování, skvěle kombinuje moderní styl s intuitivním ovládáním. Sportovní přední sedadla jsou jak pohodlná, tak velice užitečná při svižnější jízdě v zatáčkách, kde perfektně drží tělo. Pod kapotou pracuje benzínový čtyřválcový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
-  Updated: 2025-10-29T18:44:22Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSportlinefoto1_c5335355-a3c1-4d5e-b34a-952bc370e010.webp?v=1761573332
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757469081949)
-    Availability: Available
-    Price: 9 210,00 Kč CZK
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757469114717)
-    Availability: Available
-    Price: 9 129,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757469213021)
-    Availability: Available
-    Price: 9 598,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757469180253)
-    Availability: Available
-    Price: 9 762,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757469245789)
-    Availability: Available
-    Price: 10 633,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757469278557)
-    Availability: Available
-    Price: 10 596,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757469344093)
-    Availability: Available
-    Price: 11 511,00 Kč CZK
-  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757469311325)
-    Availability: Available
-    Price: 11 856,00 Kč CZK
-- [Škoda Superb IV Sportline 2.0 TDi 110 kW Nafta Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2): Zcela nová čtvrtá generace Superbu byla představena světu na jaře roku 2024, karosářská verze liftback byla představena o několik měsíců později. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Tento kousek je ve sportovně střižené výbavě Sportline, která vypadá jednoduše skvěle. Design je navíc moderní a nadčasový. Interiér se dočkal značného přepracování, skvěle kombinuje moderní styl s intuitivním ovládáním. Sportovní přední sedadla jsou jak pohodlná, tak velice užitečná při svižnější jízdě v zatáčkách, kde perfektně drží tělo. Pozice za volantem je bezchybná, což vytváří příjemné prostředí, kde budete rádi trávit čas. Pod kapotou se nachází osvědčený dieselový motor, který byl decentně přepracován. Poskytuje výkon 110 kW a je spojen s automatickou převodovkou DSG. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
-  Updated: 2025-10-29T18:44:25Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSportlinefoto1_e6f6855e-f1a1-4988-b77e-4c48d3ae9185.webp?v=1761573351
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757471179101)
-    Availability: Available
-    Price: 10 302,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757471211869)
-    Availability: Available
-    Price: 10 553,00 Kč CZK
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757471244637)
-    Availability: Available
-    Price: 10 611,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757471277405)
-    Availability: Available
-    Price: 11 195,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757471310173)
-    Availability: Available
-    Price: 11 240,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757471342941)
-    Availability: Available
-    Price: 12 097,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757471375709)
-    Availability: Available
-    Price: 12 426,00 Kč CZK
-  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757471408477)
-    Availability: Available
-    Price: 13 390,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757471441245)
-    Availability: Available
-    Price: 13 378,00 Kč CZK
+    Price: 18 785,00 Kč CZK
 - [Audi Q8 S line 3.0 TDi Quattro 210 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3): Audi Q8 přináší kombinaci elegance a sportovně střiženého vzhledu v rámci prémiového SUV. Proti lehce prostornější Q7 neposkytuje takovou míru praktičnosti, ale její styl a šarm to vyvažují. A nebojte - prostoru je zde stále dost. Navzdory svým rozměrům si stále zachovává výborné jízdní vlastnosti v zatáčkách, v městském provozu i v terénu. Díky vzduchovému podvozku a pohonu všech kol quattro se nemusíte obávat, že byste si netroufli do lehčího terénu. Vzduchový podvozek dodává pohodlí, ale zároveň však umožňuje úpravu světlé výšky dle aktuální potřeby. Spotřeba paliva se pohybuje kolem přijatelných 8 litrů v kombinovaném režimu. Pod kapotou Q8 najdeme silný naftový motor s výkonem 210 kW, který poskytuje vynikající dynamiku. Výbava vozu je opravdu bohatá, což dokazuje dlouhý výčet položek v nabídce. Tento konkrétní kousek navíc disponuje i panoramatickou střechou, tažným zařízením, LED Matrix světlomety, Bang & Olufsen ozvučením a mnoha dalšími pakety. Celková cena přesahuje 2,7 milionu.
   Updated: 2025-11-24T19:29:02Z
   Vendor: Driveto
@@ -1190,72 +788,78 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
     Price: 28 400,00 Kč CZK
-- [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3): Škoda Octavia se za dobu jejího působí stala úplnou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s automatickou převodovkou DSG. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky 7 rychlostnímu automatu zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná. Tento vůz navíc disponuje i mild-hybridní technologií, která po městě snižuje spotřebu paliva.
-  Updated: 2025-10-29T18:44:40Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaSelection1.5foto1_5b11d574-26c7-4769-be77-8c10798ecf04.webp?v=1761574302
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=57757484646749)
-    Availability: Available
-    Price: 6 048,00 Kč CZK
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=57757484679517)
-    Availability: Available
-    Price: 6 229,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=57757484712285)
-    Availability: Available
-    Price: 6 298,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=57757484745053)
-    Availability: Available
-    Price: 6 572,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=57757484777821)
-    Availability: Available
-    Price: 6 733,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=57757484810589)
-    Availability: Available
-    Price: 7 280,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=57757484843357)
-    Availability: Available
-    Price: 7 297,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=57757484876125)
-    Availability: Available
-    Price: 7 841,00 Kč CZK
-  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=57757484908893)
-    Availability: Available
-    Price: 7 948,00 Kč CZK
 - [Škoda Octavia RS 2.0 TSI 195 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka-2): Nová Octavia RS nabízí sportovní zážitek, který si však zachovává praktičnost rodinného vozu. S výkonem 195 kW (265 koní) se jedná o nejsilnější verzi v historii modelu. Tento sportovně pojatý liftback dokáže ohromit vynikající dynamikou a schopnostmi v zatáčkách. Z 0 na 100 km/h zrychlí za pouhých 6,4 sekundy a jeho maximální rychlost dosahuje 250 km/h. Nechybí zde ani elektronický samosvorný diferenciál VAQ, který zajišťuje perfektní přenos výkonu na vozovku a minimalizuje nedotáčivost, čímž vylepšuje chování vozu v zatáčkách. Díky tomu se Octavia RS skvěle ovládá a je radost s ní jezdit. Interiér je vybaven sportovními sedadly, která drží tělo pevně na místě i při ostřejší jízdě. Celkově se jedná o vůz, který skvěle kombinuje sportovní vlastnosti s každodenní využitelností, což z něj dělá ideální volbu pro ty, kteří hledají rychlost a praktičnost v jednom balení.
-  Updated: 2025-10-29T18:44:43Z
+  Updated: 2025-11-27T15:49:01Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaRS2.0foto1_b26dae07-5aa9-4783-9264-a6879bc74bb4.webp?v=1761575489
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka-2?variant=57757486023005)
-    Availability: Available
-    Price: 9 370,00 Kč CZK
   - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka-2?variant=57757486055773)
     Availability: Available
-    Price: 9 383,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka-2?variant=57757485990237)
-    Availability: Available
-    Price: 9 545,00 Kč CZK
+    Price: 10 473,00 Kč CZK
   - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka-2?variant=57757486088541)
     Availability: Available
-    Price: 10 078,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka-2?variant=57757486121309)
-    Availability: Available
-    Price: 10 244,00 Kč CZK
+    Price: 11 047,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka-2?variant=57757486154077)
     Availability: Available
-    Price: 11 192,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka-2?variant=57757486186845)
-    Availability: Available
-    Price: 11 039,00 Kč CZK
+    Price: 12 165,00 Kč CZK
   - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka-2?variant=57757486252381)
     Availability: Available
-    Price: 11 968,00 Kč CZK
-  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka-2?variant=57757486219613)
+    Price: 13 007,00 Kč CZK
+  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka-2?variant=62737053548893)
     Availability: Available
-    Price: 11 974,00 Kč CZK
+    Price: 14 009,00 Kč CZK
+  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka-2?variant=62737053581661)
+    Availability: Available
+    Price: 14 811,00 Kč CZK
+  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka-2?variant=62737053614429)
+    Availability: Available
+    Price: 16 266,00 Kč CZK
+  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka-2?variant=62737053647197)
+    Availability: Available
+    Price: 16 904,00 Kč CZK
+  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka-2?variant=62737053679965)
+    Availability: Available
+    Price: 17 528,00 Kč CZK
+  - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka-2?variant=62737053712733)
+    Availability: Available
+    Price: 18 594,00 Kč CZK
+- [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka-2): Octavia se za dobu jejího působí stala naprostou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s šestistupňovou převodovkou. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky šestému rychlostnímu stupni zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná.
+  Updated: 2025-11-27T16:05:24Z
+  Vendor: Driveto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaSelection1.5foto1_2fabef42-cc07-4256-9720-519150862bed.webp?v=1761575518
+  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka-2?variant=57757487890781)
+    Availability: Available
+    Price: 5 899,00 Kč CZK
+  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka-2?variant=57757487956317)
+    Availability: Available
+    Price: 6 584,00 Kč CZK
+  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka-2?variant=57757488021853)
+    Availability: Available
+    Price: 7 164,00 Kč CZK
+  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka-2?variant=57757488087389)
+    Availability: Available
+    Price: 7 821,00 Kč CZK
+  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka-2?variant=62737118757213)
+    Availability: Available
+    Price: 8 353,00 Kč CZK
+  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka-2?variant=62737118789981)
+    Availability: Available
+    Price: 9 336,00 Kč CZK
+  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka-2?variant=62737118822749)
+    Availability: Available
+    Price: 9 806,00 Kč CZK
+  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka-2?variant=62737118855517)
+    Availability: Available
+    Price: 10 252,00 Kč CZK
+  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka-2?variant=62737118888285)
+    Availability: Available
+    Price: 11 038,00 Kč CZK
+  - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka-2?variant=62737118921053)
+    Availability: Available
+    Price: 11 705,00 Kč CZK
 - [Škoda Karoq Top Selection 1.5 TSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-karoq-top-selection-1-5-tsi-110kw-natural-95-automaticka-prevodovka): Tento Karoq nedávno prošel modernizací. Jde o velmi populární středně velké SUV, které omlazením získalo ještě atraktivnější design. Interiér je prostorný a útulný, s výborně promyšleným uspořádáním ovládacích prvků, díky čemuž se v Karoqu rychle zorientujete. Z vozu je skvělý výhled a potěší také bohatá výbava a dostatek odkládacích prostorů. Zavazadlový prostor nabízí kapacitu 521 litrů, což je velmi slušné. Díky kompaktním rozměrům je jízda po městě snadná, a parkování je usnadněno kamerou a parkovacími senzory. Podvozek je laděn spíše pohodlně než sportovně, což přispívá k příjemné jízdě. Pod kapotou se nachází výkonný benzínový motor 1,5 TSI, spojený s automatickou převodovkou DSG. Tato kombinace zajišťuje, že vůz je ideální jak pro městský provoz, tak pro delší cesty. Při klidné jízdě se kombinovaná spotřeba pohybuje kolem 6 - 7 litrů. Škoda Karoq je ideální volbou pro ty, kteří hledají spolehlivý vůz s intuitivním ovládáním, líbivým exteriérem, dostatkem vnitřního prostoru a kompaktními rozměry.
   Updated: 2025-11-11T13:43:02Z
   Vendor: Driveto
@@ -1341,174 +945,8 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKaroqSportline1.5foto1_52cf0127-5e4e-4b10-aa41-5365cb52c7cf.webp?v=1761575693
   Price: 10 300,00 Kč CZK
-- [KIA Ceed TOP 1.5 T-GDI ISG 103 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka): Ceed SW je jedním z nejzajímavějších kombíků, který se dá pořídit. Stojí totiž ve srovnání s konkurencí méně peněz, ale v mnoha ohledech nabídne více. Design si zachovává perfektní balanc mezi odvážností a nadčasovostí. Uvnitř potěší hlavně snadné a intuitivní ovládání vozu. Dominují zde klasická tlačítka či kolečka. Použité materiály jsou vzhledem k ceně vozu nadprůměrně kvalitní. Nechybí ani pořádný kufr, který pojme 625 litrů zavazadel. Podvozek je naladěný tak akorát. To znamená, že poskytuje velmi dobrý komfort, ale zároveň není zbytečně houpavý a můžete se na něj spolehnout i při svižnějším průjezdu zatáčkou. Srovnáme-li jej s konkurencí, tak má rozhodně jedny z nejlepších jízdních vlastností, které se zavděčí jak klidným, tak rychlejším řidičům. Pod kapotou se nachází čtyřválcový benzinový motor s turbem. Je velmi dobře odhlučněn a potěší i nízká spotřeba, která se dá držet okolo 6 litrů. Výkon pohonné jednotky činí 103 kW, což vozu dodává solidní dynamiku. Jedná se zkrátka o skvělého parťáka pro každý den. Nechybí zde ani automatická převodovka, která poskytne ještě lepší komfort při každé cestě.
-  Updated: 2025-11-13T09:18:59Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
-  - [10000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152517981)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
-    Price: 5 776,00 Kč CZK
-  - [10000 km / 36 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242018653)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
-    Price: 5 911,00 Kč CZK
-  - [10000 km / 36 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242051421)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
-    Price: 5 911,00 Kč CZK
-  - [10000 km / 36 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242084189)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
-    Price: 5 911,00 Kč CZK
-  - [10000 km / 48 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152550749)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
-    Price: 5 802,00 Kč CZK
-  - [10000 km / 48 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242116957)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
-    Price: 5 933,00 Kč CZK
-  - [10000 km / 48 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242149725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
-    Price: 5 933,00 Kč CZK
-  - [10000 km / 48 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242182493)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
-    Price: 5 933,00 Kč CZK
-  - [15000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152616285)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
-    Price: 6 263,00 Kč CZK
-  - [15000 km / 36 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242215261)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
-    Price: 6 408,00 Kč CZK
-  - [15000 km / 36 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242248029)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
-    Price: 6 408,00 Kč CZK
-  - [15000 km / 36 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242280797)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
-    Price: 6 408,00 Kč CZK
-  - [15000 km / 48 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152649053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
-    Price: 6 587,00 Kč CZK
-  - [15000 km / 48 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242313565)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
-    Price: 6 733,00 Kč CZK
-  - [15000 km / 48 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242346333)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
-    Price: 6 733,00 Kč CZK
-  - [15000 km / 48 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242379101)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
-    Price: 6 733,00 Kč CZK
-  - [20000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152714589)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
-    Price: 6 958,00 Kč CZK
-  - [20000 km / 36 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242411869)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
-    Price: 7 118,00 Kč CZK
-  - [20000 km / 36 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242444637)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
-    Price: 7 118,00 Kč CZK
-  - [20000 km / 36 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242477405)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
-    Price: 7 118,00 Kč CZK
-  - [20000 km / 48 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152747357)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
-    Price: 6 901,00 Kč CZK
-  - [20000 km / 48 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242510173)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
-    Price: 7 054,00 Kč CZK
-  - [20000 km / 48 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242542941)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
-    Price: 7 054,00 Kč CZK
-  - [20000 km / 48 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242575709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
-    Price: 7 054,00 Kč CZK
-  - [25000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152812893)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
-    Price: 7 306,00 Kč CZK
-  - [25000 km / 36 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242608477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
-    Price: 7 473,00 Kč CZK
-  - [25000 km / 36 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242641245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
-    Price: 7 473,00 Kč CZK
-  - [25000 km / 36 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242674013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
-    Price: 7 473,00 Kč CZK
-  - [25000 km / 48 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152845661)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
-    Price: 7 203,00 Kč CZK
-  - [25000 km / 48 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242706781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
-    Price: 7 362,00 Kč CZK
-  - [25000 km / 48 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242739549)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
-    Price: 7 362,00 Kč CZK
-  - [25000 km / 48 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242772317)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
-    Price: 7 362,00 Kč CZK
-  - [30000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152911197)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
-    Price: 7 654,00 Kč CZK
-  - [30000 km / 36 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242805085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
-    Price: 7 828,00 Kč CZK
-  - [30000 km / 36 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242837853)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
-    Price: 7 828,00 Kč CZK
-  - [30000 km / 36 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242870621)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
-    Price: 7 828,00 Kč CZK
-  - [30000 km / 48 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152976733)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
-    Price: 7 493,00 Kč CZK
-  - [30000 km / 48 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242903389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
-    Price: 7 658,00 Kč CZK
-  - [30000 km / 48 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242936157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
-    Price: 7 658,00 Kč CZK
-  - [30000 km / 48 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242968925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
-    Price: 7 658,00 Kč CZK
 - [Cupra Formentor 1.5 TSI 110 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-tsi-110kw-natural-95-manualni-prevodovka): Formentor je prvním samostatným modelem značky Cupra. Jedná se o mimořádně oblíbené SUV s jedinečným designem. Přední část působí agresivně, čemuž napomáhají zamračené světlomety a zkosená maska se “zubatou” texturou. Interiér působí moderně a minimalisticky. Dotyková obrazovka je nakloněná k řidiči, což je příjemné. O prostor vpředu není nouze, situace je o chlup horší vzadu, kde je to o něco stísněnější, ale i tak se tam 185 cm vysoký člověk pohodlně vejde. Čtyři takové pasažéry Formentor pojme bez problému. Kufr pojme 450 litrů nákladu. Jízda je pohodlná, svižná a hezky tichá. O pohon vozu se stará benzínový čtyřválec, který je kombinovaný s manuální 6 stupňovou převodovkou, která má přesné dráhy a práce s ní je radost. Celkově tak podtrhuje sportovně střiženou auru, kterou Formentor nabízí.
-  Updated: 2025-10-29T18:45:59Z
+  Updated: 2025-11-26T20:09:01Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -1533,13 +971,58 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Price: 10 002,00 Kč CZK
   - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-tsi-110kw-natural-95-manualni-prevodovka?variant=57757525770589)
     Availability: Available
-    Price: 10 864,00 Kč CZK
+    Price: 10 883,00 Kč CZK
   - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-tsi-110kw-natural-95-manualni-prevodovka?variant=57757525803357)
     Availability: Available
     Price: 11 475,00 Kč CZK
   - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-tsi-110kw-natural-95-manualni-prevodovka?variant=57757525836125)
     Availability: Available
-    Price: 11 957,00 Kč CZK
+    Price: 11 956,00 Kč CZK
+  - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-tsi-110kw-natural-95-manualni-prevodovka?variant=62730906894685)
+    Availability: Available
+    Price: 12 598,00 Kč CZK
+  - [60000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-tsi-110kw-natural-95-manualni-prevodovka?variant=62730906927453)
+    Availability: Available
+    Price: 13 221,00 Kč CZK
+- [Cupra Formentor 1.5 eTSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka): Cupra Formentor je prvním samostatným modelem značky Cupra. Jedná se o mimořádně oblíbené SUV s jedinečným designem. Přední část působí agresivně, čemuž napomáhají zamračené světlomety a agresivně tvarovaný nárazník. Tento kousek je navíc po výraznější modernizaci, která poměrně výrazně dotkla exteriéru, ale změny nastaly i uvnitř. Interiér působí moderně a minimalisticky. Veliká dotyková obrazovka je nakloněná k řidiči, což je příjemné. O prostor vpředu není nouze, situace je o chlup horší vzadu, kde je to o něco stísněnější, ale i tak se tam 185 cm vysoký člověk pohodlně vejde. Čtyři takové pasažéry Formentor pojme bez problému. Kufr pojme 450 litrů nákladu. Jízda je pohodlná, svižná a se základním benzinovým motorem i úsporná. O pohon vozu se stará benzínový čtyřválec, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka DSG, díky které se jedná o vynikající volbu na každý den.
+  Updated: 2025-11-26T20:03:07Z
+  Vendor: Driveto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/CupraFormentor1.5eTSIfoto1.webp?v=1761576223
+  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757526786397)
+    Availability: Available
+    Price: 7 356,00 Kč CZK
+  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757526819165)
+    Availability: Available
+    Price: 8 107,00 Kč CZK
+  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757526851933)
+    Availability: Available
+    Price: 8 808,00 Kč CZK
+  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757526884701)
+    Availability: Available
+    Price: 9 591,00 Kč CZK
+  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757526917469)
+    Availability: Available
+    Price: 10 233,00 Kč CZK
+  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757526950237)
+    Availability: Available
+    Price: 11 214,00 Kč CZK
+  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757526983005)
+    Availability: Available
+    Price: 12 543,00 Kč CZK
+  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757527015773)
+    Availability: Available
+    Price: 12 756,00 Kč CZK
+  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757527048541)
+    Availability: Available
+    Price: 13 259,00 Kč CZK
+  - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=62730889298269)
+    Availability: Available
+    Price: 13 931,00 Kč CZK
+  - [60000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757527081309)
+    Availability: Available
+    Price: 14 583,00 Kč CZK
 - [Volvo XC40 Essential 2.0 B3 120 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/volvo-xc40-essential-2-0-b3-120kw-natural-95-automaticka-prevodovka): Volvo XC40 je nejmenší z rodiny „XC“ (cross country). Jedná se o charismatické kompaktní SUV s pořádnou dávkou šarmu. Na první pohled vypadá mohutně a honosně. Interiér je bytelný, prostorný a jsou zde použité velice kvalitní materiály, které mohou bez problému konkurovat německým prémiovkám. Kufr pojme solidních 460 litrů. Pod kapotou pracuje benzínový motor, který poskytuje vozu solidní dynamiku. Potěší také pohodlný podvozek, skvělé odhlučnění a automatická převodovka.
   Updated: 2025-11-10T09:25:44Z
   Vendor: Driveto
@@ -1555,75 +1038,6 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/volvo-xc40-essential-2-0-b3-120kw-natural-95-automaticka-prevodovka?variant=57757535404381)
     Availability: Available
     Price: 9 428,00 Kč CZK
-- [Cupra Terramar 1.5 e-HYBRID 150 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-e-hybrid-150kw-natural-95-automaticka-prevodovka): Terramar je novým modelem této mladé značky, který zaujme svým dynamickým designem a sportovním charakterem. Toto SUV si zachovává agresivní vzhled, přičemž přední části vozu dominuje ostrá zkosená maska a výrazné světlomety, které vozu dodávají nekompromisní výraz. Zadní propojená LED světla jsou moderním a stylovým prvkem, který dokonale ladí s celkovým designem vozu. Interiér Terramaru je stejně jako u ostatních modelů značky Cupra minimalistický a zaměřený na řidiče. Velká dotyková obrazovka je ergonomicky nakloněná směrem k řidiči a všechny ovládací prvky jsou snadno dostupné. Přední sedadla poskytují dostatek prostoru a komfortu. Zavazadlový prostor disponuje slušnou kapacitou, takže je Terramar praktickým parťákem na každodenní cesty. Jedná se o plug-in hybrid. O pohon vozu se tedy stará benzínový čtyřválcový motor, který je doplněn o elektromotor a baterii o kapacitě 19,7 kWh, díky čemuž by měl vůz ujet čistě na elektřinu až 118 km na jedno nabití. Nově zvládá nabíjecí výkon až 50 kW, díky čemuž by se měl nabít za necelou půl hodinku. Pokud však nemáte na nabíjení čas, je to úplně jedno, protože je zde stále klasický benzínový motor, který není na elektromotoru nijak závislý. Pro koho je tento plug-in hybrid určený? Primárně pro ty, kteří jezdí spíš kratší vzdálenosti a zároveň mají možnost doma či v práci levně dobíjet baterii, díky čemuž si mohou užívat velice levný provoz. Cupra Terramar je tedy ideálním SUV pro ty, kdo hledají prostorné SUV s jedinečným designem, povedenými jízdními vlastnostmi a zároveň nízkou spotřebou paliva.
-  Updated: 2025-10-29T18:46:22Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/CupraTerramar1.5e-HYBRIDfoto1.webp?v=1761576432
-  - [10000 km / 24 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-e-hybrid-150kw-natural-95-automaticka-prevodovka?variant=57757537075549)
-    Availability: Available
-    Price: 13 951,00 Kč CZK
-  - [15000 km / 24 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-e-hybrid-150kw-natural-95-automaticka-prevodovka?variant=57757537108317)
-    Availability: Available
-    Price: 14 675,00 Kč CZK
-  - [20000 km / 24 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-e-hybrid-150kw-natural-95-automaticka-prevodovka?variant=57757537141085)
-    Availability: Available
-    Price: 16 076,00 Kč CZK
-  - [25000 km / 24 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-e-hybrid-150kw-natural-95-automaticka-prevodovka?variant=57757537173853)
-    Availability: Available
-    Price: 16 749,00 Kč CZK
-  - [30000 km / 24 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-e-hybrid-150kw-natural-95-automaticka-prevodovka?variant=57757537206621)
-    Availability: Available
-    Price: 18 116,00 Kč CZK
-  - [35000 km / 24 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-e-hybrid-150kw-natural-95-automaticka-prevodovka?variant=57757537239389)
-    Availability: Available
-    Price: 19 274,00 Kč CZK
-  - [40000 km / 24 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-e-hybrid-150kw-natural-95-automaticka-prevodovka?variant=57757537272157)
-    Availability: Available
-    Price: 19 876,00 Kč CZK
-  - [45000 km / 24 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-e-hybrid-150kw-natural-95-automaticka-prevodovka?variant=57757537304925)
-    Availability: Available
-    Price: 20 999,00 Kč CZK
-  - [50000 km / 24 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-e-hybrid-150kw-natural-95-automaticka-prevodovka?variant=57757537337693)
-    Availability: Available
-    Price: 22 359,00 Kč CZK
-- [Cupra Terramar Cupra 1.5 eTSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-etsi-110kw-natural-95-automaticka-prevodovka): Cupra Terramar je novým modelem této mladé značky, který zaujme svým dynamickým designem a sportovním charakterem. Toto SUV si zachovává agresivní vzhled, přičemž přední části vozu dominuje ostrá zkosená maska a výrazné světlomety, které vozu dodávají nekompromisní výraz. Zadní propojená LED světla jsou moderním a stylovým prvkem, který dokonale ladí s celkovým designem vozu. Interiér Terramaru je stejně jako u ostatních modelů značky Cupra minimalistický a zaměřený na řidiče. Velká dotyková obrazovka je ergonomicky nakloněná směrem k řidiči a všechny ovládací prvky jsou snadno dostupné. Přední sedadla poskytují dostatek prostoru a komfortu. Zavazadlový prostor disponuje slušnou kapacitou, takže je Terramar praktickým parťákem na každodenní cesty. Pod kapotou se skrývá benzínový motor 1,5 eTSI s mild-hybridní technologií.Toto spojení zajišťuje dostatečnou dynamiku a nízkou spotřebu. Jakmile motor není zatížený, tak se vypíná a plachtí. Jeho chování potěší také v zatáčkách, kde nabídne skvělou stabilitu a jistotu. Automatická převodovka DSG zajišťuje plynulý chod a pohodlí při každodenním používání. Terramar je tedy ideálním SUV pro ty, kdo hledají prostorné SUV s jedinečným designem, povedenými jízdními vlastnostmi a zároveň nízkou spotřebou paliva.
-  Updated: 2025-10-29T18:46:30Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/CupraTerramarCupra1.5foto1_a50a7e91-213d-4871-86e2-8c962793971d.webp?v=1761576495
-  - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757542482269)
-    Availability: Available
-    Price: 8 717,00 Kč CZK
-  - [15000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757542515037)
-    Availability: Available
-    Price: 10 226,00 Kč CZK
-  - [20000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757542547805)
-    Availability: Available
-    Price: 11 187,00 Kč CZK
-  - [25000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757542580573)
-    Availability: Available
-    Price: 11 750,00 Kč CZK
-  - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757542613341)
-    Availability: Available
-    Price: 12 658,00 Kč CZK
-  - [35000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757542646109)
-    Availability: Available
-    Price: 13 711,00 Kč CZK
-  - [40000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757542678877)
-    Availability: Available
-    Price: 14 214,00 Kč CZK
-  - [45000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757542711645)
-    Availability: Available
-    Price: 15 242,00 Kč CZK
-  - [50000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757542744413)
-    Availability: Available
-    Price: 16 171,00 Kč CZK
-  - [60000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-terramar-cupra-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757542777181)
-    Availability: Available
-    Price: 17 883,00 Kč CZK
 - [Tesla Model 3 elektro 208 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/tesla-model-3-model-3-elektro-208kw-elektrina-automaticka-prevodovka): Tesla Model 3 je elegantní a technologicky vyspělý sedan, který nabízí perfektní rovnováhu mezi výkonem a efektivitou. Vůz se pyšní minimalistickým designem a čistými liniemi, které zlepšují aerodynamiku a dodávají mu moderní vzhled. Interiér je prostorný a uživatelsky přívětivý. Hlavní dominantou je zde dotykový displej, který slouží jako centrální ovládací panel pro všechny funkce vozu. S dojezdem až 513 km podle cyklu WLTP je Tesla Model 3 RWD skvělou volbou pro každodenní dojíždění i delší cesty. Nabíjení je rychlé a efektivní – na rychlonabíjecí stanici (DC) se baterie nabije z 10 % na 80 % za přibližně 30 minut. Domácí nabíjení pomocí Wallboxu (AC) pak trvá asi 8 hodin pro plné dobití. Díky elektromotoru s výkonem 208 kW poskytuje Tesla Model 3 RWD dynamickou jízdu s okamžitým nástupem výkonu a tichým chodem. Asistenční systémy a pokročilé technologie zajišťují vysokou úroveň bezpečnosti a komfortu na cestách. Tento sedan je ideální pro ty, kteří hledají stylový a ekologický vůz s vynikajícím dojezdem, rychlým nabíjením a pohodlným podvozkem.
   Updated: 2025-11-10T09:26:05Z
   Vendor: Driveto
@@ -1818,76 +1232,43 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [25000 km / 60 měsíců / Bílá](https://www.driveto.cz/products/tesla-model-y-standard-range-rwd-elektro-220kw-elektrina-automaticka-prevodovka?variant=57757559095645)
     Availability: Available
     Price: 14 648,00 Kč CZK
-- [Cupra Leon 1.5 TSI 110 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka): Leon Sportstourer je skvělou alternativou k Octavii či Golfu. Perfektně se hodí pro zákazníky, kteří ocení dravější a méně okoukaný design, ale zároveň vyžadují dostatek prostoru a vyvážené jízdní vlastnosti. Interiér je vzdušný a prostorný. Nechybí ani dostatečná porce odkládacích prostorů či USB portů. Infotainment nabízí velkou dotykovou obrazovku, skrze kterou se ovládá většina funkcí. Podvozek vozu dodává solidní komfort, ale zároveň se neztratí ani v zatáčkách, kde odvádí velmi dobrou práci. Jízda je pohodlná, svižná a se základním benzinovým motorem i úsporná. O pohon vozu se stará benzínový čtyřválec, který je kombinovaný s manuální 6 stupňovou převodovkou, která má přesné dráhy a práce s ní je radost. Celkově tak podtrhuje sportovně střiženou auru, kterou Leon nabízí.
-  Updated: 2025-10-29T18:47:19Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/CupraLeon1.5TSIfoto1.webp?v=1761576962
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka?variant=57757560930653)
-    Availability: Available
-    Price: 6 230,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka?variant=57757560963421)
-    Availability: Available
-    Price: 6 785,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka?variant=57757560996189)
-    Availability: Available
-    Price: 7 372,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka?variant=57757561028957)
-    Availability: Available
-    Price: 7 863,00 Kč CZK
-  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka?variant=57757561061725)
-    Availability: Available
-    Price: 8 399,00 Kč CZK
-  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka?variant=57757561094493)
-    Availability: Available
-    Price: 9 043,00 Kč CZK
-  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka?variant=57757561127261)
-    Availability: Available
-    Price: 9 867,00 Kč CZK
-  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka?variant=57757561160029)
-    Availability: Available
-    Price: 10 435,00 Kč CZK
-  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka?variant=57757561192797)
-    Availability: Available
-    Price: 10 971,00 Kč CZK
-  - [60000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka?variant=57757561225565)
-    Availability: Available
-    Price: 12 363,00 Kč CZK
 - [Cupra Leon 1.5 eTSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka): Cupra Leon SP je skvělou alternativou k Octavii či Golfu. Perfektně se hodí pro zákazníky, kteří ocení dravější a méně okoukaný design, ale zároveň vyžadují dostatek prostoru a vyvážené jízdní vlastnosti. Interiér je vzdušný a prostorný. Nechybí ani dostatečná porce odkládacích prostorů či USB portů. Infotainment nabízí velkou dotykovou obrazovku, skrze kterou se ovládá většina funkcí. Podvozek vozu dodává solidní komfort, ale zároveň se neztratí ani v zatáčkách, kde odvádí velmi dobrou práci. Jízda je pohodlná, svižná a se základním benzinovým motorem i úsporná. O pohon vozu se stará benzínový čtyřválec, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka, díky které se jedná o skvělou volbu pro každý den.
-  Updated: 2025-10-29T18:47:22Z
+  Updated: 2025-11-26T20:39:51Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/CupraLeon1.5eTSIfoto1.webp?v=1761576990
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563650397)
+  - [10000 km / 36 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563650397)
     Availability: Available
     Price: 7 478,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563683165)
+  - [15000 km / 36 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563683165)
     Availability: Available
     Price: 8 041,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563715933)
+  - [20000 km / 36 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563715933)
     Availability: Available
     Price: 8 676,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563748701)
+  - [25000 km / 36 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563748701)
     Availability: Available
     Price: 9 214,00 Kč CZK
-  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563781469)
+  - [30000 km / 36 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563781469)
     Availability: Available
     Price: 9 782,00 Kč CZK
-  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563814237)
+  - [35000 km / 36 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563814237)
     Availability: Available
     Price: 10 499,00 Kč CZK
-  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563847005)
+  - [40000 km / 36 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563847005)
     Availability: Available
     Price: 11 364,00 Kč CZK
-  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563879773)
+  - [45000 km / 36 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563879773)
     Availability: Available
     Price: 11 973,00 Kč CZK
-  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563912541)
+  - [50000 km / 36 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563912541)
     Availability: Available
     Price: 12 533,00 Kč CZK
-  - [60000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563945309)
+  - [55000 km / 36 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=62731031052637)
+    Availability: Available
+    Price: 13 161,00 Kč CZK
+  - [60000 km / 36 měsíců / Fiord Modrá](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-natural-95-automaticka-prevodovka?variant=57757563945309)
     Availability: Available
     Price: 13 995,00 Kč CZK
 - [Nissan X-Trail N-CONNECTA e-POWER e-Power e-4ORCE 213k 157 kW Natural 95 4x4 Automatická převodovka](https://www.driveto.cz/products/nissan-x-trail-n-connecta-e-power-e-power-e-4orce-213k-157kw-natural-95-4x4-automaticka-prevodovka): Nissan X-Trail je atraktivní SUV, kterých není mnoho, takže se perfektně hodí pro někoho, kdo nechce auto, kterých denně potkáme stovky. Tento model disponuje benzínovým motorem o výkonu 157 kW, který spolu s inovativním systémem e-POWER poskytuje plynulou jízdu s nízkou spotřebou paliva. Automatická převodovka přispívá k pohodlnému ovládání, zatímco pohon všech kol E-4ORCE zajišťuje stabilitu a jistotu za všech podmínek. Interiér vozu je precizně zpracovaný, prostorný a nabízí dostatek místa jak pro cestující, tak i pro jejich zavazadla. Díky kvalitním materiálům a modernímu designu působí kabina velmi příjemným dojmem. Potěší snadné a intuitivní ovládání. Pohodlný podvozek se skvěle vypořádává s nerovnostmi, což zajišťuje komfortní jízdu jak ve městě, tak na delších trasách. Nissan X-Trail je navíc dostupný za rozumnou cenu, což z něj dělá skvělou volbu v poměru cena / výkon.
@@ -2085,99 +1466,6 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [25000 km / 25 měsíců / Šedá metalíza](https://www.driveto.cz/products/nissan-juke-n-connecta-1-0-dig-t-84kw-benzin-automaticka-prevodovka?variant=57757581836637)
     Availability: Available
     Price: 8 140,00 Kč CZK
-- [Cupra Leon VZ 2.0 TSI 221 kW Natural 98 Automatická převodovka](https://www.driveto.cz/products/cupra-leon-vz-2-0-tsi-221kw-natural-98-automaticka-prevodovka): Cupra Leon ve verzi VZ s motorem 2,0 TSI představuje typického představitele ostrých hatchbacků neboli „hothatchů“. Nechybí zde pořádná dávka sportovního charakteru. Tento model se pyšní agresivním designem, který okamžitě upoutá pozornost – ostré linie, výrazná maska chladiče a sportovní detaily zdůrazňují jeho dynamiku. Interiér vozu zaujme sportovními sedadly, která jsou navržena tak, aby řidiče i spolujezdce pevně držela v zatáčkách a tím zvyšovala komfort i bezpečnost během rychlé jízdy. Leon je nejen esteticky přitažlivý, ale i celkem praktický. Nabídne dostatek prostoru pro cestující i zavazadla. Pod kapotou se skrývá silný motor o výkonu 221 kW, který posílá sílu na přední nápravu. Díky sportovnímu podvozku a samosvornému diferenciálu dokáže Leon nejen rychle akcelerovat, ale také precizně zvládat zatáčky, minimalizovat nedotáčivost a optimálně přenášet sílu na vozovku. Celkově lze Leon popsat jako krásné a rychlé auto, které nabízí nejen sportovní zážitky, ale i všestrannost a bezpečnost v jakýchkoli podmínkách. Tento model je ideální volbou pro ty, kteří hledají kombinaci výkonu a každodenní použitelnosti.
-  Updated: 2025-10-29T18:48:25Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/CupraLeonVZ2.0foto1_7a21d593-c6c7-42ef-bbe5-b8eebfb1fba0.webp?v=1761577566
-  - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-vz-2-0-tsi-221kw-natural-98-automaticka-prevodovka?variant=57757582295389)
-    Availability: Available
-    Price: 9 416,00 Kč CZK
-  - [15000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-vz-2-0-tsi-221kw-natural-98-automaticka-prevodovka?variant=57757582328157)
-    Availability: Available
-    Price: 9 921,00 Kč CZK
-  - [20000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-vz-2-0-tsi-221kw-natural-98-automaticka-prevodovka?variant=57757582360925)
-    Availability: Available
-    Price: 10 446,00 Kč CZK
-  - [25000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-vz-2-0-tsi-221kw-natural-98-automaticka-prevodovka?variant=57757582393693)
-    Availability: Available
-    Price: 10 999,00 Kč CZK
-  - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-vz-2-0-tsi-221kw-natural-98-automaticka-prevodovka?variant=57757582426461)
-    Availability: Available
-    Price: 11 574,00 Kč CZK
-  - [35000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-vz-2-0-tsi-221kw-natural-98-automaticka-prevodovka?variant=57757582459229)
-    Availability: Available
-    Price: 12 108,00 Kč CZK
-  - [40000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-vz-2-0-tsi-221kw-natural-98-automaticka-prevodovka?variant=57757582491997)
-    Availability: Available
-    Price: 12 641,00 Kč CZK
-- [Cupra Leon 1.5 TSI 110 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka-2): Leon je vynikající alternativou ke Scale či Golfu. Perfektně se hodí pro zákazníky, kteří ocení dravější a méně okoukaný design, ale zároveň vyžadují dostatek prostoru a vyvážené jízdní vlastnosti. Interiér je vzdušný a prostorný. Nechybí ani dostatečná porce odkládacích prostorů či USB portů. Infotainment nabízí velkou dotykovou obrazovku, skrze kterou se ovládá většina funkcí. Podvozek vozu dodává solidní komfort, ale zároveň se neztratí ani v zatáčkách, kde odvádí velmi dobrou práci. Jízda je pohodlná, svižná a se základním benzinovým motorem i úsporná. O pohon vozu se stará benzínový čtyřválec, který je kombinovaný s manuální 6 stupňovou převodovkou, která má přesné dráhy a práce s ní je radost. Celkově tak podtrhuje sportovně střiženou auru, kterou Leon nabízí.
-  Updated: 2025-10-29T18:48:29Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/CupraLeon1.5TSIfoto1_cdeb8abe-fcb6-40f6-981d-5fd3eddff818.webp?v=1761577591
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka-2?variant=57757582623069)
-    Availability: Available
-    Price: 6 820,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka-2?variant=57757582655837)
-    Availability: Available
-    Price: 7 202,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka-2?variant=57757582688605)
-    Availability: Available
-    Price: 7 773,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka-2?variant=57757582721373)
-    Availability: Available
-    Price: 8 249,00 Kč CZK
-  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka-2?variant=57757582754141)
-    Availability: Available
-    Price: 8 774,00 Kč CZK
-  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka-2?variant=57757582786909)
-    Availability: Available
-    Price: 9 393,00 Kč CZK
-  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka-2?variant=57757582819677)
-    Availability: Available
-    Price: 10 204,00 Kč CZK
-  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka-2?variant=57757582852445)
-    Availability: Available
-    Price: 10 759,00 Kč CZK
-  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-tsi-110kw-natural-95-manualni-prevodovka-2?variant=57757582885213)
-    Availability: Available
-    Price: 11 286,00 Kč CZK
-- [Cupra Leon 1.5 eTSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka): Cupra Leon je skvělou alternativou ke Scale či Golfu. Perfektně se hodí pro zákazníky, kteří ocení dravější a méně okoukaný design, ale zároveň vyžadují dostatek prostoru a vyvážené jízdní vlastnosti. Interiér je vzdušný a prostorný. Nechybí ani dostatečná porce odkládacích prostorů či USB portů. Infotainment nabízí velkou dotykovou obrazovku, skrze kterou se ovládá většina funkcí. Podvozek vozu dodává solidní komfort, ale zároveň se neztratí ani v zatáčkách, kde odvádí velmi dobrou práci. Jízda je pohodlná, svižná a se základním benzinovým motorem i úsporná. O pohon vozu se stará benzínový čtyřválec, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka, díky které se jedná o skvělou volbu pro každý den.
-  Updated: 2025-10-29T18:48:32Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/CupraLeon1.5eTSIfoto1_35dc090b-be17-4849-931d-fb50f9152de3.webp?v=1761577620
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757584392541)
-    Availability: Available
-    Price: 7 907,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757584425309)
-    Availability: Available
-    Price: 8 458,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757584458077)
-    Availability: Available
-    Price: 9 077,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757584490845)
-    Availability: Available
-    Price: 9 600,00 Kč CZK
-  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757584523613)
-    Availability: Available
-    Price: 10 157,00 Kč CZK
-  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757584556381)
-    Availability: Available
-    Price: 10 850,00 Kč CZK
-  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757584589149)
-    Availability: Available
-    Price: 11 700,00 Kč CZK
-  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757584621917)
-    Availability: Available
-    Price: 12 296,00 Kč CZK
-  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-leon-leon-1-5-etsi-110kw-110kw-natural-95-automaticka-prevodovka?variant=57757584654685)
-    Availability: Available
-    Price: 12 849,00 Kč CZK
 - [Alfa Romeo Junior Ibrida 136 1.2 Turbo Hybrid 100 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/alfa-romeo-junior-ibrida-136-1-2-turbo-hybrid-100kw-natural-95-automaticka-prevodovka): Nová Alfa Romeo Junior ve verzi 1.2 Turbo Hybrid Automat přináší moderní spojení elegance a efektivity. Tato varianta kombinuje benzínový motor o objemu 1.2 litru s výkonem 100 kW (přibližně 136 koní) a hybridní technologii, což zajišťuje plynulý a úsporný provoz. Motor je spojen s automatickou převodovkou, která zajišťuje hladké řazení a dynamickou jízdu. Model Junior zůstává věrný designové filozofii Alfa Romeo, která je synonymem pro sportovní linie a charismatický italský vzhled. Díky kompaktním rozměrům a inovativní technologii se tento vůz skvěle hodí do městského prostředí, ale nebojí se ani opustit brány města a vydat se za dobrodružstvím. Interiér vozu nabízí solidní prostornost s kvalitními materiály a intuitivními prvky pro snadné ovládání.
   Updated: 2025-11-10T09:27:42Z
   Vendor: Driveto
@@ -2376,186 +1664,6 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/bmw-rada-5-m-sport-20d-145kw-nafta-4x4-automaticka-prevodovka?variant=57757620961629)
     Availability: Available
     Price: 30 901,00 Kč CZK
-- [Škoda Elroq Selection 60 Elektro 150 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/skoda-elroq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka): Elroq je nové elektrické SUV, které se stává dalším přírůstkem do rozšiřující se elektrické řady značky Škoda. Tento model nabízí moderní design, výbornou efektivitu a ekologicky šetrný provoz, díky čemuž se stává ideální volbou pro městské i příměstské prostředí. Díky koeficientu odporu vzduchu pouhých 0,26 se vůz pyšní nízkou spotřebou energie a vyšší efektivitou. Kabina vozu s minimalistickým designem a použitím udržitelných materiálů působí velmi sympaticky a nabídne dostatek prostoru pro posádku. Standardně nabízí velkorysý 13" infotainment displej s intuitivním uživatelským rozhraním, který podporuje hlasového asistenta Laura propojeného s umělou inteligencí ChatGPT. Zavazadlový prostor poskytuje objem 470 litrů, který lze zvětšit až na 1 580 litrů sklopením zadních sedadel. Tento kousek disponuje motorem o výkonu 150 kW a baterií s kapacitou 63 kWh. Dojezd v ideálních podmínkách dle metodiky WLTP činí až 430 km. Baterii lze nabíjet na stejnosměrných nabíjecích stanicích maximálním výkonem 165 kW. Doba nabíjení činí z 10-80 % hezkých 24 minut. Jedná se o skvělého parťáka do města a okolí, který vám zajistí komfortní mobilitu a bude vás hýčkat tichou jízdou.
-  Updated: 2025-10-29T18:50:11Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaElroqSelection60foto1.webp?v=1761616748
-  - [10000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757628268893)
-    Availability: Available
-    Price: 10 234,00 Kč CZK
-  - [10000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757628301661)
-    Availability: Available
-    Price: 10 869,00 Kč CZK
-  - [10000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757628236125)
-    Availability: Available
-    Price: 11 556,00 Kč CZK
-  - [20000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757628498269)
-    Availability: Available
-    Price: 11 853,00 Kč CZK
-  - [20000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757628465501)
-    Availability: Available
-    Price: 12 136,00 Kč CZK
-  - [20000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757628432733)
-    Availability: Available
-    Price: 13 068,00 Kč CZK
-  - [30000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757628662109)
-    Availability: Available
-    Price: 13 406,00 Kč CZK
-  - [30000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757628629341)
-    Availability: Available
-    Price: 14 091,00 Kč CZK
-  - [30000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757628694877)
-    Availability: Available
-    Price: 14 606,00 Kč CZK
-  - [40000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757628858717)
-    Availability: Available
-    Price: 14 622,00 Kč CZK
-- [Škoda Elroq Selection 50 Elektro 125 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/skoda-elroq-selection-50-elektro-125kw-elektrina-automaticka-prevodovka): Škoda Elroq je nové elektrické SUV, které se stává dalším přírůstkem do rozšiřující se elektrické řady značky Škoda. Tento model nabízí moderní design, výbornou efektivitu a ekologicky šetrný provoz, díky čemuž se stává ideální volbou pro městské i příměstské prostředí. Díky koeficientu odporu vzduchu pouhých 0,26 se vůz pyšní nízkou spotřebou energie a vyšší efektivitou. Kabina vozu s minimalistickým designem a použitím udržitelných materiálů působí velmi sympaticky a nabídne dostatek prostoru pro posádku. Standardně nabízí velkorysý 13" infotainment displej s intuitivním uživatelským rozhraním, který podporuje hlasového asistenta Laura propojeného s umělou inteligencí ChatGPT. Zavazadlový prostor poskytuje objem 470 litrů, který lze zvětšit až na 1 580 litrů sklopením zadních sedadel. Tento kousek disponuje motorem o výkonu 125 kW a baterií s kapacitou 55 kWh. Dojezd v ideálních podmínkách dle metodiky WLTP činí až 377 km. Baterii lze nabíjet na stejnosměrných nabíjecích stanicích maximálním výkonem 145 kW. Doba nabíjení činí z 10-80 % hezkých 25 minut. Jedná se o skvělého parťáka do města a okolí, který vám zajistí komfortní mobilitu a bude vás hýčkat tichou jízdou.
-  Updated: 2025-10-29T18:50:15Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaElroqSelection50foto1.webp?v=1761616775
-  - [10000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-50-elektro-125kw-elektrina-automaticka-prevodovka?variant=57757631709533)
-    Availability: Available
-    Price: 9 854,00 Kč CZK
-  - [10000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-50-elektro-125kw-elektrina-automaticka-prevodovka?variant=57757631676765)
-    Availability: Available
-    Price: 10 571,00 Kč CZK
-  - [10000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-50-elektro-125kw-elektrina-automaticka-prevodovka?variant=57757631742301)
-    Availability: Available
-    Price: 11 417,00 Kč CZK
-  - [20000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-50-elektro-125kw-elektrina-automaticka-prevodovka?variant=57757631906141)
-    Availability: Available
-    Price: 11 365,00 Kč CZK
-  - [20000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-50-elektro-125kw-elektrina-automaticka-prevodovka?variant=57757631938909)
-    Availability: Available
-    Price: 11 750,00 Kč CZK
-  - [20000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-50-elektro-125kw-elektrina-automaticka-prevodovka?variant=57757631873373)
-    Availability: Available
-    Price: 12 827,00 Kč CZK
-  - [30000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-50-elektro-125kw-elektrina-automaticka-prevodovka?variant=57757632102749)
-    Availability: Available
-    Price: 12 812,00 Kč CZK
-  - [30000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-50-elektro-125kw-elektrina-automaticka-prevodovka?variant=57757632135517)
-    Availability: Available
-    Price: 13 573,00 Kč CZK
-  - [30000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-50-elektro-125kw-elektrina-automaticka-prevodovka?variant=57757632069981)
-    Availability: Available
-    Price: 14 262,00 Kč CZK
-  - [40000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-elroq-selection-50-elektro-125kw-elektrina-automaticka-prevodovka?variant=57757632299357)
-    Availability: Available
-    Price: 13 972,00 Kč CZK
-- [Škoda Enyaq Selection 60 Elektro 150 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/skoda-enyaq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka): Tento modernizovaný Enyaq byl představen na začátku roku 2025. Největší inovací je zde moderněji tvarovaná přední část vozu v novém designovém stylu nazvaném Modern Solid. Jde o vlajkovou lod z rodiny elektrických vozů od značky Škoda. Spojuje elegantní design s praktickými funkcemi a vysokou efektivitou. Interiér je prostorný a dobře promyšlený, s dostatkem místa pro všechny cestující i zavazadla. Sedadla jsou pohodlná a pozici za volantem rovněž není co vytknout. Potěší také moderní infotainment, skrze který se ovládá většina funkcí. S výkonem 150 kW se tento elektromobil vyznačuje svižnou a tichou jízdou, kterou oceníte jak ve městě, tak na delších cestách. Potěší také mimořádně pohodlný podvozek, který skvěle filtruje nerovnosti a díky nízkému těžišti (baterie v podlaze) i velice ochotně zatáčí. Kapacita baterie činí 63 kW, nabízí dojezd na jedno nabití až 434 kilometrů podle cyklu WLTP. Tento dojezd se může lišit v závislosti na stylu jízdy, počasí a dalších podmínkách. Poháněná je zde zadní náprava. Nabíjecí výkon činí 165 kW. Dobití baterie z 10 % na 80 % kapacity zabere pouhých 24 minut
-  Updated: 2025-10-29T18:50:20Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaEnyaqSelection60foto1.webp?v=1761616799
-  - [10000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757634625885)
-    Availability: Available
-    Price: 9 778,00 Kč CZK
-  - [10000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757634593117)
-    Availability: Available
-    Price: 10 367,00 Kč CZK
-  - [10000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757634658653)
-    Availability: Available
-    Price: 11 156,00 Kč CZK
-  - [20000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757634789725)
-    Availability: Available
-    Price: 11 563,00 Kč CZK
-  - [20000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757634822493)
-    Availability: Available
-    Price: 11 817,00 Kč CZK
-  - [20000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757634855261)
-    Availability: Available
-    Price: 12 727,00 Kč CZK
-  - [30000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757635019101)
-    Availability: Available
-    Price: 13 160,00 Kč CZK
-  - [30000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757634986333)
-    Availability: Available
-    Price: 13 839,00 Kč CZK
-  - [30000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757635051869)
-    Availability: Available
-    Price: 14 319,00 Kč CZK
-  - [40000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-60-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757635182941)
-    Availability: Available
-    Price: 14 413,00 Kč CZK
-- [Škoda Enyaq Selection 85 Elektro 210 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/skoda-enyaq-selection-85-elektro-210kw-elektrina-automaticka-prevodovka): Modernizovaná Škoda Enyaq byla světu představena na začátku roku 2025. Největší inovací je zde moderněji tvarovaná přední část vozu v novém designovém stylu nazvaném Modern Solid. Jde o vlajkovou lod z rodiny elektrických vozů od značky Škoda. Spojuje elegantní design s praktickými funkcemi a vysokou efektivitou. Interiér je prostorný a dobře promyšlený, s dostatkem místa pro všechny cestující i zavazadla. Sedadla jsou pohodlná a pozici za volantem rovněž není co vytknout. Potěší také moderní infotainment, skrze který se ovládá většina funkcí. S výkonem 210 kW se tento elektromobil vyznačuje svižnou a tichou jízdou, kterou oceníte jak ve městě, tak na delších cestách. Potěší také mimořádně pohodlný podvozek, který skvěle filtruje nerovnosti a díky nízkému těžišti (baterie v podlaze) i velice ochotně zatáčí. Kapacita baterie činí 82 kW, nabízí dojezd na jedno nabití až 581 kilometrů podle cyklu WLTP. Tento dojezd se může lišit v závislosti na stylu jízdy, počasí a dalších podmínkách. Poháněná je zde zadní náprava. Nabíjecí výkon činí 175 kW. Dobití baterie z 10 % na 80 % kapacity zabere pouhých 28 minut
-  Updated: 2025-10-29T18:50:24Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaEnyaqSelection85foto1.webp?v=1761616820
-  - [10000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757636460893)
-    Availability: Available
-    Price: 10 849,00 Kč CZK
-  - [10000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757636493661)
-    Availability: Available
-    Price: 11 500,00 Kč CZK
-  - [10000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757636428125)
-    Availability: Available
-    Price: 12 194,00 Kč CZK
-  - [20000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757636624733)
-    Availability: Available
-    Price: 12 726,00 Kč CZK
-  - [20000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757636657501)
-    Availability: Available
-    Price: 12 983,00 Kč CZK
-  - [20000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757636690269)
-    Availability: Available
-    Price: 13 946,00 Kč CZK
-  - [30000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757636854109)
-    Availability: Available
-    Price: 14 490,00 Kč CZK
-  - [30000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757636821341)
-    Availability: Available
-    Price: 15 219,00 Kč CZK
-  - [30000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757636886877)
-    Availability: Available
-    Price: 15 706,00 Kč CZK
-  - [40000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757637017949)
-    Availability: Available
-    Price: 15 874,00 Kč CZK
-- [Škoda Enyaq Selection 85x Elektro 210 kW Elektřina 4x4 Automatická převodovka](https://www.driveto.cz/products/skoda-enyaq-selection-85x-elektro-210kw-elektrina-4x4-automaticka-prevodovka): Modernizovaná Škoda Enyaq byla světu představena na začátku roku 2025. Největší inovací je zde moderněji tvarovaná přední část vozu v novém designovém stylu nazvaném Modern Solid. Jde o vlajkovou lod z rodiny elektrických vozů od značky Škoda. Spojuje elegantní design s praktickými funkcemi a vysokou efektivitou. Interiér je prostorný a dobře promyšlený, s dostatkem místa pro všechny cestující i zavazadla. Sedadla jsou pohodlná a pozici za volantem rovněž není co vytknout. Potěší také moderní infotainment, skrze který se ovládá většina funkcí. S výkonem 210 kW se tento elektromobil vyznačuje svižnou a tichou jízdou, kterou oceníte jak ve městě, tak na delších cestách. Potěší také mimořádně pohodlný podvozek, který skvěle filtruje nerovnosti a díky nízkému těžišti (baterie v podlaze) i velice ochotně zatáčí. Kapacita baterie činí 82 kW, nabízí dojezd na jedno nabití až 544 kilometrů podle cyklu WLTP. Tento dojezd se může lišit v závislosti na stylu jízdy, počasí a dalších podmínkách. Poháněná jsou zde všechna 4 kola. Nabíjecí výkon činí 175 kW. Dobití baterie z 10 % na 80 % kapacity zabere pouhých 28 minut.
-  Updated: 2025-10-29T18:50:27Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaEnyaqSelection85xfoto1.webp?v=1761616844
-  - [10000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85x-elektro-210kw-elektrina-4x4-automaticka-prevodovka?variant=57757638787421)
-    Availability: Available
-    Price: 11 465,00 Kč CZK
-  - [10000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85x-elektro-210kw-elektrina-4x4-automaticka-prevodovka?variant=57757638754653)
-    Availability: Available
-    Price: 12 168,00 Kč CZK
-  - [10000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85x-elektro-210kw-elektrina-4x4-automaticka-prevodovka?variant=57757638721885)
-    Availability: Available
-    Price: 12 944,00 Kč CZK
-  - [20000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85x-elektro-210kw-elektrina-4x4-automaticka-prevodovka?variant=57757638984029)
-    Availability: Available
-    Price: 13 410,00 Kč CZK
-  - [20000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85x-elektro-210kw-elektrina-4x4-automaticka-prevodovka?variant=57757638918493)
-    Availability: Available
-    Price: 13 710,00 Kč CZK
-  - [20000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85x-elektro-210kw-elektrina-4x4-automaticka-prevodovka?variant=57757638951261)
-    Availability: Available
-    Price: 14 759,00 Kč CZK
-  - [30000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85x-elektro-210kw-elektrina-4x4-automaticka-prevodovka?variant=57757639180637)
-    Availability: Available
-    Price: 16 028,00 Kč CZK
-  - [30000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85x-elektro-210kw-elektrina-4x4-automaticka-prevodovka?variant=57757639147869)
-    Availability: Available
-    Price: 16 588,00 Kč CZK
-  - [40000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85x-elektro-210kw-elektrina-4x4-automaticka-prevodovka?variant=57757639311709)
-    Availability: Available
-    Price: 16 664,00 Kč CZK
-  - [30000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-selection-85x-elektro-210kw-elektrina-4x4-automaticka-prevodovka?variant=58627373302109)
-    Availability: Available
-    Price: 15 232,00 Kč CZK
 - [Škoda Enyaq Sportline 85x Elektro 210 kW Elektřina 4x4 Automatická převodovka](https://www.driveto.cz/products/skoda-enyaq-sportline-85x-elektro-210kw-elektrina-4x4-automaticka-prevodovka): Omlazená Škoda Enyaq byla světu představena na začátku roku 2025. Největší inovací je zde moderněji tvarovaná přední část vozu v novém designovém stylu nazvaném Modern Solid. Jde o vlajkovou lod z rodiny elektrických vozů od značky Škoda. Spojuje elegantní design s praktickými funkcemi a vysokou efektivitou. Interiér je prostorný a dobře promyšlený, s dostatkem místa pro všechny cestující i zavazadla. Sedadla jsou pohodlná a pozici za volantem rovněž není co vytknout. Potěší také moderní infotainment, skrze který se ovládá většina funkcí. S výkonem 210 kW se tento elektromobil vyznačuje svižnou a tichou jízdou, kterou oceníte jak ve městě, tak na delších cestách. Potěší také mimořádně pohodlný podvozek, který skvěle filtruje nerovnosti a díky nízkému těžišti (baterie v podlaze) i velice ochotně zatáčí. Kapacita baterie činí 82 kW, nabízí dojezd na jedno nabití až 538 kilometrů podle cyklu WLTP. Tento dojezd se může lišit v závislosti na stylu jízdy, počasí a dalších podmínkách. Poháněná jsou zde všechna 4 kola. Nabíjecí výkon činí 175 kW. Dobití baterie z 10 % na 80 % kapacity zabere pouhých 28 minut.
   Updated: 2025-10-29T18:50:31Z
   Vendor: Driveto
@@ -2592,42 +1700,6 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [20000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-sportline-85x-elektro-210kw-elektrina-4x4-automaticka-prevodovka?variant=58627356983645)
     Availability: Available
     Price: 14 547,00 Kč CZK
-- [Škoda Enyaq Sportline 85 Elektro 210 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/skoda-enyaq-sportline-85-elektro-210kw-elektrina-automaticka-prevodovka): Omlazený Enyaq byl světu představen na počátku roku 2025. Největší inovací je zde moderněji tvarovaná přední část vozu v novém designovém stylu nazvaném Modern Solid. Jde o vlajkovou lod z rodiny elektrických vozů od značky Škoda. Spojuje elegantní design s praktickými funkcemi a vysokou efektivitou. Interiér je prostorný a dobře promyšlený, s dostatkem místa pro všechny cestující i zavazadla. Sedadla jsou pohodlná a pozici za volantem rovněž není co vytknout. Potěší také moderní infotainment, skrze který se ovládá většina funkcí. S výkonem 210 kW se tento elektromobil vyznačuje svižnou a tichou jízdou, kterou oceníte jak ve městě, tak na delších cestách. Potěší také mimořádně pohodlný podvozek, který skvěle filtruje nerovnosti a díky nízkému těžišti (baterie v podlaze) i velice ochotně zatáčí. Kapacita baterie činí 82 kW, nabízí dojezd na jedno nabití až 575 kilometrů podle cyklu WLTP. Tento dojezd se může lišit v závislosti na stylu jízdy, počasí a dalších podmínkách. Poháněná je zde zadní náprava. Nabíjecí výkon činí 175 kW. Dobití baterie z 10 % na 80 % kapacity zabere pouhých 28 minut.
-  Updated: 2025-10-29T18:50:34Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaEnyaqSportline85foto1.webp?v=1761616896
-  - [10000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-sportline-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757645242717)
-    Availability: Available
-    Price: 11 877,00 Kč CZK
-  - [10000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-sportline-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757645308253)
-    Availability: Available
-    Price: 12 615,00 Kč CZK
-  - [10000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-sportline-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757645275485)
-    Availability: Available
-    Price: 13 444,00 Kč CZK
-  - [20000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-sportline-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757645439325)
-    Availability: Available
-    Price: 13 864,00 Kč CZK
-  - [20000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-sportline-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757645472093)
-    Availability: Available
-    Price: 14 194,00 Kč CZK
-  - [20000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-sportline-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757645504861)
-    Availability: Available
-    Price: 15 300,00 Kč CZK
-  - [30000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-sportline-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757645668701)
-    Availability: Available
-    Price: 15 727,00 Kč CZK
-  - [30000 km / 48 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-sportline-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757645701469)
-    Availability: Available
-    Price: 16 566,00 Kč CZK
-  - [30000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-sportline-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757645635933)
-    Availability: Available
-    Price: 17 175,00 Kč CZK
-  - [40000 km / 60 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-enyaq-sportline-85-elektro-210kw-elektrina-automaticka-prevodovka?variant=57757645865309)
-    Availability: Available
-    Price: 17 190,00 Kč CZK
 - [Volkswagen Touareg R-Line 3.0 TDI 170 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/volkswagen-touareg-r-line-3-0-tdi-170kw-nafta-4x4-automaticka-prevodovka): Volkswagen Touareg je luxusní SUV, které kombinuje elegantní design, nejmodernější technologie a špičkové jízdní vlastnosti. Výbava R-Line přidává ke své luxusní povaze i sportovní nádech. S dynamicky tvarovanými nárazníky, lesklými černými detaily a 20" koly si získá pozornost na první pohled. Samozřejmostí jsou pokročilé LED světlomety IQ.Light s vynikajícím dosvitem. Uvnitř vozu na vás čeká sportovně laděný interiér s kvalitními materiály a ambientním osvětlením, které umocňuje moderní atmosféru. Skvělá ergonomie a pohodlná sportovní sedadla zajistí komfort i na delších cestách. Díky sofistikovanému podvozku je jízda velice pohodlná, ať už se vydáte na dlouhou dálniční trasu nebo do města. Pod kapotou pracuje osvědčený třílitrový turbodiesel s výkonem 170 kW (231 koní), který nabízí skvělý poměr mezi výkonem a nízkou spotřebou. S automatickou převodovkou a pohonem všech kol 4Motion je Touareg skvělou volbou pro ty, kteří hledají všestranné, komfortní a prémiové SUV.
   Updated: 2025-11-10T08:02:30Z
   Vendor: Driveto
@@ -2700,27 +1772,6 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/volkswagen-passat-elegance-1-5-tsi-150-kw-ehybrid-110kw-natural-95-automaticka-prevodovka?variant=57757679223133)
     Availability: Available
     Price: 16 525,00 Kč CZK
-- [Toyota Aygo X Comfort 1.0 VVT-i 53 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53kw-natural-95-manualni-prevodovka): Aygo je nejmenším modelem od Toyoty. Jedná se o atraktivní crossover s moderním designem, jehož revírem je primárně město. Díky velmi skromným rozměrům zaparkuje téměř kdekoliv. Na délku měří jen 3,7 metru. Hravě si poradí s podzemními garážemi či úzkými uličkami v centru města. Prostornost uvnitř dvě osoby na kratších trasách bohatě postačí a v případě potřeby odveze i další dva pasažéry vzadu. Kufr nabízí základní objem 231 litrů, což není mnoho, ale na běžný nákup je to akorát a alespoň vám nebudou tašky lítat ze strany na stranu. Pokud byste potřebovali naložit něco většího, dají se zde sklopit zadní sedadla, díky čemuž se objem zavazadlového prostoru zvětší až na neuvěřitelných 829 litrů. Pro srovnání - Škoda Octavia Combi nabídne základní objem kufru 640 litrů. Z toho plyne, že pakliže ve voze jezdí jen dva, dokáže být Aygo překvapivě praktické. Ve výbavě nechybí klimatizace, bezdrátové propojení telefonu s dotykovou obrazovkou (Apple Car Play / Android Auto), zadní parkovací kamera či multifunkční volant. Dalším plusem je nízká hmotnost a hravý podvozek, díky kterému je jízda hezky mrštná a zábavná. Nízká spotřeba paliva je zde samozřejmostí.
-  Updated: 2025-10-29T18:52:50Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaAygoXComfortfoto1.webp?v=1761617809
-  - [10000 km / 24 měsíců / Bílá](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53kw-natural-95-manualni-prevodovka?variant=57757700358493)
-    Availability: Available
-    Price: 4 760,00 Kč CZK
-  - [15000 km / 24 měsíců / Bílá](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53kw-natural-95-manualni-prevodovka?variant=57757700424029)
-    Availability: Available
-    Price: 4 849,00 Kč CZK
-  - [20000 km / 24 měsíců / Bílá](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53kw-natural-95-manualni-prevodovka?variant=57757700522333)
-    Availability: Available
-    Price: 4 938,00 Kč CZK
-  - [25000 km / 24 měsíců / Bílá](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53kw-natural-95-manualni-prevodovka?variant=57757700555101)
-    Availability: Available
-    Price: 5 059,00 Kč CZK
-  - [30000 km / 24 měsíců / Bílá](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53kw-natural-95-manualni-prevodovka?variant=58067835355485)
-    Availability: Available
-    Price: 5 176,00 Kč CZK
 - [Volvo V60 Plus Dark B4 Mild Hybrid 145 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/volvo-v60-plus-dark-b4-mild-hybrid-145kw-natural-95-automaticka-prevodovka): Volvo V60 je prémiové kombi, které spojuje elegantní skandinávský design s nejmodernějšími technologiemi a maximálním komfortem. V této verzi Plus Dark přináší sportovnější vzhled díky tmavě laděným detailům exteriéru, zatmavené masce chladiče a nechybí ani černé okenní lišty. Čisté linie karoserie, typická LED světla s motivem "Thorova kladiva" a atraktivní litá kola dělají z V60 nadčasový vůz, který stále upoutá pozornost. Pod kapotou pracuje dvoulitrový mild-hybridní benzínový motor s výkonem 145 kW (197 koní), který zajišťuje plynulý výkon a efektivní spotřebu paliva. Pohodlnou a hladkou jízdu doplňuje automatická převodovka Geartronic, která se skvěle hodí jak pro městský provoz, tak pro dálkové cestování. Interiér je mistrovským dílem minimalistického luxusu – kvalitní materiály, velký dotykový displej infotainmentu a prvotřídní sedadla dělají z každé jízdy pohodlný zážitek. Pokročilé asistenční systémy zajišťují bezpečnost na nejvyšší úrovni. Volvo V60 Plus Dark je perfektní volbou pro ty, kteří hledají kombinaci elegance, praktičnosti a pokročilých technologií v prémiovém balení.
   Updated: 2025-11-10T08:25:40Z
   Vendor: Driveto
@@ -2887,7 +1938,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 15 990,00 Kč CZK
 - [Audi Q5 Sportback S line 2.0 TDI 150 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka): Model Q5 je středně velké SUV, které si oblíbili zákazníci, kteří chtějí dostatek prostoru pro posádku a zavazadla, ale zároveň nechtějí přehnaně velké vozidlo, se kterým je už složitější parkování či jízda na úzkých silnicích. Jedná se o zcela nový model, který byl představen na konci roku 2024. Přídomek Sportback značí svažující-se záď, což je v dnešní době velmi populární a dodává to sportovní nádech. Pod kapotou pracuje osvědčený naftový motor o výkonu 150 kW, který dodává vozu slušnou dynamiku, ale zároveň je úsporný. Kombinovaně není problém jezdit s lehkou nohou okolo 6 litrů. Milovníky hor také potěší vyhlášený pohon všech kol quattro, díky kterému vůz dokáže vyjet i pořádně zasněžené kopce, čemuž pomáhá solidní světlá výška. Podvozek vozu dodává skvělé jízdní vlastnosti - je komfortní, ale zároveň stabilní v zatáčkách. Tento kousek je navíc krásně vybavený - celková cena včetně příplatků šplhá k 1,9 milionu.
-  Updated: 2025-11-20T10:15:35Z
+  Updated: 2025-11-27T09:02:52Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -2980,153 +2031,6 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sorento-top-nappa-1-6-t-gdi-phev-186kw-elektrina-4x4-automaticka-prevodovka?variant=57757722313053)
     Availability: Available
     Price: 22 010,00 Kč CZK
-- [Toyota Yaris Cross Executive 1.5 Hybrid 130 96 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-yaris-cross-executive-1-5-hybrid-130-96kw-natural-95-automaticka-prevodovka): Model Yaris je klasika mezi městskými vozy, která je tu s námi přes 20 let. Poslední roky jsou však podstatně oblíbenější vozy typu Crossovery či SUV a tak vznikl Yaris Cross. Design je líbivý a zásadně se odlišil od klasického Yarisu. Blatníky vozu jsou velmi robustní, což z vozu dělá takového zakrslého svalovce. Uvnitř potěší pohodlná sedadla se slušným bočním vedením a také je potřeba pochválit snadné ovládání a přehledný infotainment. Kufr pojme hezkých 397 litrů nákladu. Pohon vozu zajišťuje primárně benzínový motor o objemu 1,5 litru. Je zde bezestupňová převodovka e-CVT, jak to bývá u hybridů zvykem. Klasický spalovací motor je doplněn o malý elektromotor a akumulátor, který jej pohání a je nabíjen rekuperací. Je příjemné, že pocukávání v kolonách zvládá čistě na elektřinu, takže nehrozí vysoká spotřeba, jak to bývá u čistě spalovacích aut. Po městě zvládá jezdit s trochou snahy i pod 4 litry a to samé platí o okreskách. Na dálnici si nárokuje okolo 6,5 litrů, což je stále slušné. Yaris Cross je stylovka, která je skvělou volbou do města, se kterou se snadno parkuje a navíc nabízí velice nízkou spotřebu.
-  Updated: 2025-11-10T12:30:42Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaYarisCrossExecutivefoto1.webp?v=1761732620
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-yaris-cross-executive-1-5-hybrid-130-96kw-natural-95-automaticka-prevodovka?variant=58459080786269)
-    Availability: Available
-    Price: 8 755,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-yaris-cross-executive-1-5-hybrid-130-96kw-natural-95-automaticka-prevodovka?variant=58459080819037)
-    Availability: Available
-    Price: 8 900,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-yaris-cross-executive-1-5-hybrid-130-96kw-natural-95-automaticka-prevodovka?variant=58459080851805)
-    Availability: Available
-    Price: 9 042,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-yaris-cross-executive-1-5-hybrid-130-96kw-natural-95-automaticka-prevodovka?variant=58459080884573)
-    Availability: Available
-    Price: 9 243,00 Kč CZK
-  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-yaris-cross-executive-1-5-hybrid-130-96kw-natural-95-automaticka-prevodovka?variant=58459080917341)
-    Availability: Available
-    Price: 9 433,00 Kč CZK
-- [Toyota RAV4 GR Sport 2.5 Hybrid 163 kW Benzín 4x4 Automatická převodovka](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka): Toyota RAV4 je robustní SUV, které je ve světě naprostým hitem - prodalo se jich přes 11 milionů. Design páté generace zaujme na první pohled - ostře řezané hrany v kombinaci se svalnatými blatníky navozují jedinečné charisma. Uvnitř se pyšní nadprůměrnou prostorností a potěší také tradiční koncepce, která zahrnuje klasická tlačítka a další ovladače. Díky tomu se velice dobře ovládá. Dotykový displej tu je samozřejmě také. Nechybí ani možnost zrcadlení telefonu do infotainmentu. Pohon vozu má na starost velký benzínový motor o objemu 2,5 litru, který je doplněn o elektromotor a akumulátor. Jde tedy o hybrid, který umí jet čistě na elektřinu a brzděním dobíjí baterii. Díky tomu zvládá po městě jezdit se spotřebou okolo 4 - 5 litrů. Potěší také vysoký výkon, který dodává vozu velmi hezkou dynamiku. Tento kousek navíc disponuje i pohonem všech čtyř kol, díky čemuž snadněji zvládne i lehčí terén či zasněženou silnici.
-  Updated: 2025-11-06T11:45:30Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Toyota_RAV4_GR_Sport_foto1.webp?v=1761732779
-  - [10000 km / 24 měsíců / Šedá popelavá se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=57951071830365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Toyota_RAV4_GR_Sport_foto1.webp?v=1761732779
-    Price: 14 326,00 Kč CZK
-  - [10000 km / 24 měsíců / Červená karmínová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=57951071797597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cervena_karminova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport.webp?v=1761732779
-    Price: 14 326,00 Kč CZK
-  - [10000 km / 24 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=57951071895901)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport_2d24b652-5389-4916-89fb-c81c9fb9370a.webp?v=1761732779
-    Price: 14 326,00 Kč CZK
-  - [10000 km / 36 měsíců / Šedá popelavá se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=58427149812061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Toyota_RAV4_GR_Sport_foto1.webp?v=1761732779
-    Price: 13 837,00 Kč CZK
-  - [10000 km / 36 měsíců / Červená karmínová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=58427149779293)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cervena_karminova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport.webp?v=1761732779
-    Price: 13 837,00 Kč CZK
-  - [10000 km / 36 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=58427149844829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport_2d24b652-5389-4916-89fb-c81c9fb9370a.webp?v=1761732779
-    Price: 13 837,00 Kč CZK
-  - [15000 km / 24 měsíců / Šedá popelavá se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=57951072092509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Toyota_RAV4_GR_Sport_foto1.webp?v=1761732779
-    Price: 14 632,00 Kč CZK
-  - [15000 km / 24 měsíců / Červená karmínová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=57951072059741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cervena_karminova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport.webp?v=1761732779
-    Price: 14 632,00 Kč CZK
-  - [15000 km / 24 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=57951072158045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport_2d24b652-5389-4916-89fb-c81c9fb9370a.webp?v=1761732779
-    Price: 14 632,00 Kč CZK
-  - [15000 km / 36 měsíců / Šedá popelavá se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=58427149910365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Toyota_RAV4_GR_Sport_foto1.webp?v=1761732779
-    Price: 14 086,00 Kč CZK
-  - [15000 km / 36 měsíců / Červená karmínová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=58427149877597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cervena_karminova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport.webp?v=1761732779
-    Price: 14 086,00 Kč CZK
-  - [15000 km / 36 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=58427149943133)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport_2d24b652-5389-4916-89fb-c81c9fb9370a.webp?v=1761732779
-    Price: 14 086,00 Kč CZK
-  - [20000 km / 24 měsíců / Šedá popelavá se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=57951072223581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Toyota_RAV4_GR_Sport_foto1.webp?v=1761732779
-    Price: 14 923,00 Kč CZK
-  - [20000 km / 24 měsíců / Červená karmínová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=57951072190813)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cervena_karminova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport.webp?v=1761732779
-    Price: 14 923,00 Kč CZK
-  - [20000 km / 24 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=57951072289117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport_2d24b652-5389-4916-89fb-c81c9fb9370a.webp?v=1761732779
-    Price: 14 923,00 Kč CZK
-  - [20000 km / 36 měsíců / Šedá popelavá se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=58427150008669)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Toyota_RAV4_GR_Sport_foto1.webp?v=1761732779
-    Price: 14 325,00 Kč CZK
-  - [20000 km / 36 měsíců / Červená karmínová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=58427149975901)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cervena_karminova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport.webp?v=1761732779
-    Price: 14 325,00 Kč CZK
-  - [20000 km / 36 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=58427150041437)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport_2d24b652-5389-4916-89fb-c81c9fb9370a.webp?v=1761732779
-    Price: 14 325,00 Kč CZK
-  - [25000 km / 24 měsíců / Šedá popelavá se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=57951072485725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Toyota_RAV4_GR_Sport_foto1.webp?v=1761732779
-    Price: 15 337,00 Kč CZK
-  - [25000 km / 24 měsíců / Červená karmínová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=57951072452957)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cervena_karminova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport.webp?v=1761732779
-    Price: 15 337,00 Kč CZK
-  - [25000 km / 24 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=57951072551261)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport_2d24b652-5389-4916-89fb-c81c9fb9370a.webp?v=1761732779
-    Price: 15 337,00 Kč CZK
-  - [25000 km / 36 měsíců / Šedá popelavá se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=58427150106973)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Toyota_RAV4_GR_Sport_foto1.webp?v=1761732779
-    Price: 14 674,00 Kč CZK
-  - [25000 km / 36 měsíců / Červená karmínová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=58427150074205)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cervena_karminova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport.webp?v=1761732779
-    Price: 14 674,00 Kč CZK
-  - [25000 km / 36 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=58427150139741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport_2d24b652-5389-4916-89fb-c81c9fb9370a.webp?v=1761732779
-    Price: 14 674,00 Kč CZK
-  - [30000 km / 24 měsíců / Šedá popelavá se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=57951072616797)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Toyota_RAV4_GR_Sport_foto1.webp?v=1761732779
-    Price: 15 728,00 Kč CZK
-  - [30000 km / 24 měsíců / Červená karmínová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=57951072584029)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cervena_karminova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport.webp?v=1761732779
-    Price: 15 728,00 Kč CZK
-  - [30000 km / 24 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=57951072682333)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport_2d24b652-5389-4916-89fb-c81c9fb9370a.webp?v=1761732779
-    Price: 15 728,00 Kč CZK
-  - [30000 km / 36 měsíců / Šedá popelavá se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=58427150205277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Toyota_RAV4_GR_Sport_foto1.webp?v=1761732779
-    Price: 15 003,00 Kč CZK
-  - [30000 km / 36 měsíců / Červená karmínová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=58427150172509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cervena_karminova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport.webp?v=1761732779
-    Price: 15 003,00 Kč CZK
-  - [30000 km / 36 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163kw-benzin-4x4-automaticka-prevodovka?variant=58427150238045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport_2d24b652-5389-4916-89fb-c81c9fb9370a.webp?v=1761732779
-    Price: 15 003,00 Kč CZK
 - [Audi A6 S line Elektro 315 kW Elektřina 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-a6-s-line-elektro-315kw-elektrina-4x4-automaticka-prevodovka): Audi A6 Avant e-tron S line definuje novou éru elektrické mobility v segmentu prémiových kombi. Spojuje sportovní eleganci s mimořádnou praktičností a elektrickým výkonem. Elegantní linie, výrazné proporce a typická maska Singleframe podtrhují moderní charakter vozu, zatímco aerodynamika přispívá k vysoké efektivitě. Pohon všech kol quattro a systémový výkon 315 kW přinášejí působivou dynamiku. Akumulátor s vysokou kapacitou umožňuje dojezd až 678 km dle WLTP, což z A6 Avant e-tron činí ideální volbu pro dlouhé cesty. Nabíjení je stejně působivé – z 10 % na 80 % se baterie dobije za přibližně 21 minut, přičemž maximální nabíjecí výkon činí až 270 kW. Za 10 minut lze navíc dobít dojezd až 295 km. Tento model je perfektní ukázkou toho, jak může vypadat prémiové elektrické cestování bez kompromisů.
   Updated: 2025-11-10T09:30:17Z
   Vendor: Driveto
@@ -3199,120 +2103,6 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/audi-q6-s-line-elektro-285kw-elektrina-4x4-automaticka-prevodovka?variant=57757744759133)
     Availability: Available
     Price: 26 074,00 Kč CZK
-- [Škoda Kodiaq Exclusive Selection 2.0 TDI 142 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2): Jedná se o druhou generaci Kodiaqu, která světlo světa spatřila roku 2024. Změn se zde odehrálo opravdu mnoho, což je na první pohled znát. Design působí modernějším a mohutnějším dojmem. Přední přísný výraz formují LED světlomety a široká maska s chromovým dekorem. Pocit robustnosti navozují vytažené blatníky a zadní části dominují propojená světla s charakteristickým tvarem ve tvaru písmene C. Interiér je oblast, která byla pozměněna nejvíc. Za zmínku rozhodně stojí pohodlná sedadla a výborná pozice za volantem. Potěší také kvalitní materiály, bohatá výbava, snadné ovládání a veliká obrazovka zábavního systému. Odkládacích prostorů je zde stále velké množství a celkově je vnitřní prostor na špičkové úrovni. Narostl i objem zavazadlového prostoru (+ 75 litrů) na aktuálních 910 litrů. To je mimochodem více, než nabízí největší SUV od Audi - model Q7. Nový je i podvozek, který poskytuje vozu ještě lepší komfort a jízdní vlastnosti. Potěší i klasický dieselový motor s automatickou převodovkou a pohonem všech kol. Všechny tyto atributy z nového Kodiaqu druhé generace dělají prvotřídní SUV, které se brzy stane novým českým ideálem. Tento kousek navíc nabízí i tažné zařízení.
-  Updated: 2025-11-13T13:16:28Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto1_76dd5f7f-e2ad-45bb-af79-6a152d6edab9.webp?v=1761733125
-  - [10000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457099613)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
-    Price: 10 973,00 Kč CZK
-  - [10000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457165149)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
-    Price: 10 973,00 Kč CZK
-  - [10000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393111389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
-    Price: 10 973,00 Kč CZK
-  - [15000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457197917)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
-    Price: 11 154,00 Kč CZK
-  - [15000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457263453)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
-    Price: 11 154,00 Kč CZK
-  - [15000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393144157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
-    Price: 11 154,00 Kč CZK
-  - [20000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457296221)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
-    Price: 11 941,00 Kč CZK
-  - [20000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457361757)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
-    Price: 11 941,00 Kč CZK
-  - [20000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393176925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
-    Price: 11 941,00 Kč CZK
-  - [25000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457394525)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
-    Price: 12 605,00 Kč CZK
-  - [25000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457460061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
-    Price: 12 605,00 Kč CZK
-  - [25000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393209693)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
-    Price: 12 605,00 Kč CZK
-  - [30000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457492829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
-    Price: 13 654,00 Kč CZK
-  - [30000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457558365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
-    Price: 13 654,00 Kč CZK
-  - [30000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393242461)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
-    Price: 13 654,00 Kč CZK
-  - [35000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457591133)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
-    Price: 14 425,00 Kč CZK
-  - [35000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457656669)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
-    Price: 14 425,00 Kč CZK
-  - [35000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393275229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
-    Price: 14 425,00 Kč CZK
-  - [40000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457689437)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
-    Price: 15 260,00 Kč CZK
-  - [40000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457754973)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
-    Price: 15 260,00 Kč CZK
-  - [40000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393307997)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
-    Price: 15 260,00 Kč CZK
-  - [45000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457787741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
-    Price: 15 854,00 Kč CZK
-  - [45000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457853277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
-    Price: 15 854,00 Kč CZK
-  - [45000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393340765)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
-    Price: 15 854,00 Kč CZK
-  - [50000 km / 36 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457886045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto6.webp?v=1761733125
-    Price: 16 632,00 Kč CZK
-  - [50000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58028457951581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto7.webp?v=1761733125
-    Price: 16 632,00 Kč CZK
-  - [50000 km / 36 měsíců / Bílá Moon](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2?variant=58121393373533)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
-    Price: 16 632,00 Kč CZK
 - [Renault Master Extra EV87 105 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka): Renault Master ve verzi EV87 long range je elektrická varianta oblíbené dodávky, ideální pro městskou logistiku. S elektromotorem o výkonu 140 k (103 kW) a baterií o kapacitě 87 kWh nabízí dojezd až 200 km na jedno nabití. Maximální nabíjecí výkon dosahuje 50 kW, což umožňuje nabití z 20 % na 80 % za přibližně 2 hodiny. Prostorný nákladový prostor a tichý provoz činí z tohoto modelu ideálního partnera pro ekologickou přepravu zboží ve městě.
   Updated: 2025-11-10T09:32:01Z
   Vendor: Driveto
@@ -3355,30 +2145,6 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [30000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=58637575094621)
     Availability: Not Available
     Price: 14 269,00 Kč CZK
-- [Toyota Yaris GR Dynamic 1.6 Turbo 206 kW Natural 95 4x4 Manuální převodovka](https://www.driveto.cz/products/toyota-yaris-dynamic-1-6-turbo-206kw-natural-95-4x4-manualni-prevodovka): Toyota GR Yaris se sice na první pohled může prezentovat jako malé auto do města, kterým je klasický Yaris, ale sportovní verze GR je zcela jiná. Jedná se o čistokrevné sportovní auto, které bylo kompletně předělané a připomíná rally speciál. Má rozšířenou karoserii, která je podstatně tužší, rozšířil se i rozchod kol. Uvnitř zaujmou fantastická sportovní sedadla a zcela nová palubní deska orientovaná na řidiče. Pod kapotou se nachází silný benzínový motor, který vozu dodává jedinečnou dynamiku. Nechybí ani pohon všech kol a dvojice samosvorných diferenciálů, které zajistí obratnost a rychlost v zatáčkách. Jedná se o velice zábavné auto, které je opravdu rychlé a to bez ohledu na to, zda-li jedete po suché, mokré či zasněžené vozovce. Tento model se zapíše do dějin a stane se pravděpodobně posledním autem tohoto druhu na světě. Aktuálně máte jedinečnou příležitost si tuto kapesní raketu vzít na operativní leasing a užít si toto fenomenální dílo.
-  Updated: 2025-10-29T18:54:40Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaYarisGRDynamicfoto1.webp?v=1761733375
-  - [10000 km / 48 měsíců / Bílá](https://www.driveto.cz/products/toyota-yaris-dynamic-1-6-turbo-206kw-natural-95-4x4-manualni-prevodovka?variant=57757749444957)
-    Availability: Available
-    Price: 15 471,00 Kč CZK
-  - [10000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/toyota-yaris-dynamic-1-6-turbo-206kw-natural-95-4x4-manualni-prevodovka?variant=57757749412189)
-    Availability: Available
-    Price: 16 892,00 Kč CZK
-- [Toyota Yaris GR Dynamic 1.6 Turbo 206 kW Natural 95 4x4 Automatická převodovka](https://www.driveto.cz/products/toyota-yaris-dynamic-1-6-turbo-206kw-natural-95-4x4-automaticka-prevodovka): Toyota GR Yaris se sice na první pohled může prezentovat jako malé auto do města, kterým je klasický Yaris, ale sportovní verze GR je zcela jiná. Jedná se o čistokrevné sportovní auto, které bylo kompletně předělané a připomíná rally speciál. Má rozšířenou karoserii, která je podstatně tužší, rozšířil se i rozchod kol. Uvnitř zaujmou fantastická sportovní sedadla a zcela nová palubní deska orientovaná na řidiče. Pod kapotou se nachází silný benzínový motor, který vozu dodává jedinečnou dynamiku. Nechybí ani pohon všech kol a dvojice samosvorných diferenciálů, které zajistí obratnost a rychlost v zatáčkách. Tento kus navíc disponuje i skvělou automatickou převodovkou, díky které auto zrychlí z místa na 100 km/h za neuvěřitelných 5,2 vteřin. Jedná se o velice zábavné auto, které je opravdu rychlé a to bez ohledu na to, zda-li jedete po suché, mokré či zasněžené vozovce. Tento model se zapíše do dějin a stane se pravděpodobně posledním autem tohoto druhu na světě. Aktuálně máte jedinečnou příležitost si tuto kapesní raketu vzít na operativní leasing a užít si toto fenomenální dílo.
-  Updated: 2025-10-29T18:54:43Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaYarisGRDynamicfoto1_488f1fbd-f37d-47bc-841e-013d75472c7e.webp?v=1761733429
-  - [10000 km / 48 měsíců / Bílá](https://www.driveto.cz/products/toyota-yaris-dynamic-1-6-turbo-206kw-natural-95-4x4-automaticka-prevodovka?variant=57757750821213)
-    Availability: Available
-    Price: 16 516,00 Kč CZK
-  - [10000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/toyota-yaris-dynamic-1-6-turbo-206kw-natural-95-4x4-automaticka-prevodovka?variant=57757750788445)
-    Availability: Available
-    Price: 18 098,00 Kč CZK
 - [Renault Master Advance 2.0 dCi 110 kW Nafta Manuální převodovka](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka): Renault Master je robustní dodávka, která nabídne opravdu hodně prostoru. S 2,0 litrovým dieselovým motorem o výkonu 150 k (110 kW) nabízí spolehlivý výkon pro náročné úkoly. Výhodou je, že nabídne dlouhé dojezd a styl jízdy nijak zvlášť neovlivní efektivitu provozu. Prostorný nákladový prostor a ergonomicky navržená kabina zajišťují pohodlí. Moderní asistenční systémy a technologie zvyšují bezpečnost a usnadňují každodenní provoz. Jedná se o ideální a všestrannou dodávku určenou i na delší vzdálenosti.
   Updated: 2025-11-10T09:32:13Z
   Vendor: Driveto
@@ -3421,93 +2187,6 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [30000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka?variant=57757753901405)
     Availability: Not Available
     Price: 10 559,00 Kč CZK
-- [Toyota Yaris Cross Style 1.5 Hybrid 130 96 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-yaris-cross-style-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka): Model Yaris je klasika mezi městskými vozy, která je tu s námi přes 20 let. Poslední roky jsou však podstatně oblíbenější vozy typu Crossovery či SUV a tak vznikl Yaris Cross. Design je líbivý a zásadně se odlišil od klasického Yarisu. Blatníky vozu jsou velmi robustní, což z vozu dělá takového zakrslého svalovce. Uvnitř potěší pohodlná sedadla se slušným bočním vedením a také je potřeba pochválit snadné ovládání a přehledný infotainment. Kufr pojme hezkých 397 litrů nákladu. Pohon vozu zajišťuje primárně benzínový motor o objemu 1,5 litru. Je zde bezestupňová převodovka e-CVT, jak to bývá u hybridů zvykem. Klasický spalovací motor je doplněn o malý elektromotor a akumulátor, který jej pohání a je nabíjen rekuperací. Je příjemné, že pocukávání v kolonách zvládá čistě na elektřinu, takže nehrozí vysoká spotřeba, jak to bývá u čistě spalovacích aut. Po městě zvládá jezdit s trochou snahy i pod 4 litry a to samé platí o okreskách. Na dálnici si nárokuje okolo 6,5 litrů, což je stále slušné. Yaris Cross je stylovka, která je skvělou volbou do města, se kterou se snadno parkuje a navíc nabízí velice nízkou spotřebu.
-  Updated: 2025-11-04T11:58:34Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Toyota_Yaris_Cross_Style_foto1.webp?v=1761734492
-  - [10000 km / 36 měsíců / Šedá popelavá](https://www.driveto.cz/products/toyota-yaris-cross-style-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=57823732990301)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Toyota_Yaris_Cross_Style_foto1.webp?v=1761734492
-    Price: 8 227,00 Kč CZK
-  - [10000 km / 36 měsíců / Bronzovozelená](https://www.driveto.cz/products/toyota-yaris-cross-style-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=57823732924765)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bronzovozelena_Toyota_Yaris_Cross_Style.webp?v=1761734492
-    Price: 8 227,00 Kč CZK
-  - [10000 km / 36 měsíců / Bílá čistá](https://www.driveto.cz/products/toyota-yaris-cross-style-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=57823732957533)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_cista_Toyota_Yaris_Cross_Style.webp?v=1761734492
-    Price: 8 227,00 Kč CZK
-  - [15000 km / 36 měsíců / Šedá popelavá](https://www.driveto.cz/products/toyota-yaris-cross-style-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=57823733088605)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Toyota_Yaris_Cross_Style_foto1.webp?v=1761734492
-    Price: 8 352,00 Kč CZK
-  - [15000 km / 36 měsíců / Bronzovozelená](https://www.driveto.cz/products/toyota-yaris-cross-style-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=57823733023069)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bronzovozelena_Toyota_Yaris_Cross_Style.webp?v=1761734492
-    Price: 8 352,00 Kč CZK
-  - [15000 km / 36 měsíců / Bílá čistá](https://www.driveto.cz/products/toyota-yaris-cross-style-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=57823733055837)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_cista_Toyota_Yaris_Cross_Style.webp?v=1761734492
-    Price: 8 352,00 Kč CZK
-  - [20000 km / 36 měsíců / Šedá popelavá](https://www.driveto.cz/products/toyota-yaris-cross-style-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=57823733186909)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Toyota_Yaris_Cross_Style_foto1.webp?v=1761734492
-    Price: 8 491,00 Kč CZK
-  - [20000 km / 36 měsíců / Bronzovozelená](https://www.driveto.cz/products/toyota-yaris-cross-style-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=57823733121373)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bronzovozelena_Toyota_Yaris_Cross_Style.webp?v=1761734492
-    Price: 8 491,00 Kč CZK
-  - [20000 km / 36 měsíců / Bílá čistá](https://www.driveto.cz/products/toyota-yaris-cross-style-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=57823733154141)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_cista_Toyota_Yaris_Cross_Style.webp?v=1761734492
-    Price: 8 491,00 Kč CZK
-  - [25000 km / 36 měsíců / Šedá popelavá](https://www.driveto.cz/products/toyota-yaris-cross-style-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=57823733285213)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Toyota_Yaris_Cross_Style_foto1.webp?v=1761734492
-    Price: 8 680,00 Kč CZK
-  - [25000 km / 36 měsíců / Bronzovozelená](https://www.driveto.cz/products/toyota-yaris-cross-style-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=57823733219677)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bronzovozelena_Toyota_Yaris_Cross_Style.webp?v=1761734492
-    Price: 8 680,00 Kč CZK
-  - [25000 km / 36 měsíců / Bílá čistá](https://www.driveto.cz/products/toyota-yaris-cross-style-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=57823733252445)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_cista_Toyota_Yaris_Cross_Style.webp?v=1761734492
-    Price: 8 680,00 Kč CZK
-  - [30000 km / 36 měsíců / Šedá popelavá](https://www.driveto.cz/products/toyota-yaris-cross-style-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=57823733383517)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Toyota_Yaris_Cross_Style_foto1.webp?v=1761734492
-    Price: 8 860,00 Kč CZK
-  - [30000 km / 36 měsíců / Bronzovozelená](https://www.driveto.cz/products/toyota-yaris-cross-style-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=57823733317981)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bronzovozelena_Toyota_Yaris_Cross_Style.webp?v=1761734492
-    Price: 8 860,00 Kč CZK
-  - [30000 km / 36 měsíců / Bílá čistá](https://www.driveto.cz/products/toyota-yaris-cross-style-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=57823733350749)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_cista_Toyota_Yaris_Cross_Style.webp?v=1761734492
-    Price: 8 860,00 Kč CZK
-- [Toyota Proace MAX L3H2 Active 2.2 D-4D 103 kW 3.5 Heavy Nafta Manuální převodovka](https://www.driveto.cz/products/toyota-proace-max-l3h2-2-2-d-4d-103-kw-3-5-heavy-nafta-manualni-prevodovka-active): Toyota Proace MAX ve verzi L3H2 s výkonnějším motorem 2.2 D-4D o výkonu 103 kW a zvýšenou nosností (3,5t) je perfektním parťákem pro náročnější provoz a dálkové trasy. Díky dlouhému rozvoru a vysoké karoserii nabízí ještě větší nákladový prostor, ideální pro logistiku, stavebnictví nebo rozvoz objemnějšího zboží. Manuální převodovka a robustní konstrukce zaručují spolehlivost i při plném zatížení. Výbava Active kombinuje funkčnost a praktičnost, což z něj dělá ideální pracovní nástroj pro větší firmy i náročné živnostníky.
-  Updated: 2025-10-29T18:55:04Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaProaceMAXL3H2foto1.webp?v=1761734595
-  - [10000 km / 36 měsíců](https://www.driveto.cz/products/toyota-proace-max-l3h2-2-2-d-4d-103-kw-3-5-heavy-nafta-manualni-prevodovka-active?variant=57839924412765)
-    Availability: Available
-    Price: 11 335,00 Kč CZK
-  - [15000 km / 36 měsíců](https://www.driveto.cz/products/toyota-proace-max-l3h2-2-2-d-4d-103-kw-3-5-heavy-nafta-manualni-prevodovka-active?variant=58431065522525)
-    Availability: Available
-    Price: 11 559,00 Kč CZK
-  - [20000 km / 36 měsíců](https://www.driveto.cz/products/toyota-proace-max-l3h2-2-2-d-4d-103-kw-3-5-heavy-nafta-manualni-prevodovka-active?variant=57839924445533)
-    Availability: Available
-    Price: 11 773,00 Kč CZK
-  - [25000 km / 36 měsíců](https://www.driveto.cz/products/toyota-proace-max-l3h2-2-2-d-4d-103-kw-3-5-heavy-nafta-manualni-prevodovka-active?variant=58431065555293)
-    Availability: Available
-    Price: 12 087,00 Kč CZK
-  - [30000 km / 36 měsíců](https://www.driveto.cz/products/toyota-proace-max-l3h2-2-2-d-4d-103-kw-3-5-heavy-nafta-manualni-prevodovka-active?variant=57839924478301)
-    Availability: Available
-    Price: 12 381,00 Kč CZK
 - [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-manualni-prevodovka): Octavia se za dobu jejího působení stala naprostou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s šestistupňovou převodovkou. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky šestému rychlostnímu stupni zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná.
   Updated: 2025-11-24T17:57:17Z
   Vendor: Driveto
@@ -3689,544 +2368,6 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda-popelava-s-cernou-strechou-Toyota-RAV4-Selection.webp?v=1761735292
     Price: 12 990,00 Kč CZK
-- [Toyota Corolla Cross Comfort 1.8 Hybrid 103kw e-CVT 103 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-corolla-cross-comfort-1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka-1): Corolla Cross je odpověď na zvyšující se poptávku po středně velikých SUV. Jedná se o konkurenta například ke Škodě Karoq a v hierarchii Toyoty zaujímá místo mezi větší RAV4 a menším Yarisem Cross. Interiér působí velice sympaticky a většinu konkurentů kvalitou materiálů hravě strčí do kapsy. Na své si zde přijdou hlavně příznivci klasické koncepce interiéru, ve kterém převládají klasická tlačítka a kolečka. Někdo by mohl namítnout, že to působí archaicky, ale je mnoho lidí, kteří právě tuto koncepci preferují z důvodu snazšího ovládání. Pozitivní je rovněž prostor v kabině, kam se hravě poskládají čtyři vzrostlí cestující. Pohon vozu má na starost motor o objemu 1,8 litru, který je doplněn o elektromotor a akumulátor. Jde tedy o hybrid, který umí jet čistě na elektřinu a brzděním dobíjí baterii. Díky tomu zvládá po městě jezdit se spotřebou okolo 4 litrů. Corolla Cross je povedené SUV se skvělým podvozkem - jízda je opravdu komfortní, ale zároveň se neztratí ani v zatáčkách.
-  Updated: 2025-10-29T18:56:51Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaCorollaCrossComfortfoto1_d243c242-facf-464a-884f-2c8e0c942d86.webp?v=1761735500
-  - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-comfort-1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka-1?variant=58050681667933)
-    Availability: Available
-    Price: 8 332,00 Kč CZK
-  - [15000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-comfort-1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka-1?variant=58050728788317)
-    Availability: Available
-    Price: 8 550,00 Kč CZK
-  - [20000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-comfort-1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka-1?variant=58050681700701)
-    Availability: Available
-    Price: 8 760,00 Kč CZK
-  - [25000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-comfort-1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka-1?variant=58050728821085)
-    Availability: Available
-    Price: 9 059,00 Kč CZK
-  - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-comfort-1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka-1?variant=58050681733469)
-    Availability: Available
-    Price: 9 337,00 Kč CZK
-- [Toyota Corolla Cross Style 1.8 Hybrid 103kw e-CVT 103 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-corolla-cross-style1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka): Corolla Cross je odpověď na zvyšující se poptávku po středně velkých SUV. Jedná se o konkurenta například ke Škodě Karoq a v hierarchii Toyoty zaujímá místo mezi větší RAV4 a menším Yarisem Cross. Interiér působí velice sympaticky a většinu konkurentů kvalitou materiálů hravě předčí. Na své si zde přijdou hlavně příznivci klasické koncepce interiéru, kde převládají klasická tlačítka a kolečka. Někdo by mohl namítnout, že to působí archaicky, ale je mnoho lidí, kteří právě tuto koncepci preferují z důvodu snazšího ovládání. Pozitivní je rovněž prostor v kabině, kam se hravě poskládají čtyři vzrostlí cestující. Pohon vozu má na starost silnější motor o objemu 2 litrů, který je doplněn o elektromotor a akumulátor. Jde tedy o hybrid, který umí jet čistě na elektřinu a brzděním dobíjí baterii. Díky tomu zvládá po městě jezdit se spotřebou okolo 4 litrů. Corolla Cross je povedené SUV se skvělým podvozkem - jízda je opravdu komfortní, ale zároveň se neztratí ani v zatáčkách.
-  Updated: 2025-10-29T18:56:54Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaCorollaCrossStylefoto1_2a758c30-4e27-44e0-8145-5dcd6f4c9665.webp?v=1761735536
-  - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-style1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka?variant=58050783805789)
-    Availability: Available
-    Price: 8 974,00 Kč CZK
-  - [15000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-style1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka?variant=58050783871325)
-    Availability: Available
-    Price: 9 213,00 Kč CZK
-  - [20000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-style1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka?variant=58050783936861)
-    Availability: Available
-    Price: 9 439,00 Kč CZK
-  - [25000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-style1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka?variant=58050784002397)
-    Availability: Available
-    Price: 9 766,00 Kč CZK
-  - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-style1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka?variant=58050814673245)
-    Availability: Available
-    Price: 10 069,00 Kč CZK
-- [Toyota Corolla Cross Style 2.0 Hybrid 146kw e-CVT 146 kW Natural 95 Automatická převodovka 4x4](https://www.driveto.cz/products/toyota-corolla-cross-style-2-0-hybrid-146kw-e-cvt-146-kw-natural-95-automaticka-prevodovka-4x4): Corolla Cross je odpověď na zvyšující se poptávku po středně velkých SUV. Jedná se o konkurenta například ke Škodě Karoq a v hierarchii Toyoty zaujímá místo mezi větší RAV4 a menším Yarisem Cross. Interiér působí velice sympaticky a většinu konkurentů kvalitou materiálů hravě předčí. Na své si zde přijdou hlavně příznivci klasické koncepce interiéru, kde převládají klasická tlačítka a kolečka. Někdo by mohl namítnout, že to působí archaicky, ale je mnoho lidí, kteří právě tuto koncepci preferují z důvodu snazšího ovládání. Pozitivní je rovněž prostor v kabině, kam se hravě poskládají čtyři vzrostlí cestující. Pohon vozu má na starost silnější motor o objemu 2 litrů, který je doplněn o elektromotor a akumulátor. Jde tedy o hybrid, který umí jet čistě na elektřinu a brzděním dobíjí baterii. Díky tomu zvládá po městě jezdit se spotřebou okolo 4 litrů. Corolla Cross je povedené SUV se skvělým podvozkem - jízda je opravdu komfortní, ale zároveň se neztratí ani v zatáčkách.
-  Updated: 2025-10-29T18:56:57Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaCorollaCrossStylefoto1_2d50675c-60ec-423d-827e-a9fb21b1430e.webp?v=1761735565
-  - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-style-2-0-hybrid-146kw-e-cvt-146-kw-natural-95-automaticka-prevodovka-4x4?variant=58050892792157)
-    Availability: Available
-    Price: 9 067,00 Kč CZK
-  - [15000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-style-2-0-hybrid-146kw-e-cvt-146-kw-natural-95-automaticka-prevodovka-4x4?variant=58050892824925)
-    Availability: Available
-    Price: 9 333,00 Kč CZK
-  - [20000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-style-2-0-hybrid-146kw-e-cvt-146-kw-natural-95-automaticka-prevodovka-4x4?variant=58050892857693)
-    Availability: Available
-    Price: 9 592,00 Kč CZK
-  - [25000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-style-2-0-hybrid-146kw-e-cvt-146-kw-natural-95-automaticka-prevodovka-4x4?variant=58050892890461)
-    Availability: Available
-    Price: 9 955,00 Kč CZK
-  - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-style-2-0-hybrid-146kw-e-cvt-146-kw-natural-95-automaticka-prevodovka-4x4?variant=58050892923229)
-    Availability: Available
-    Price: 10 303,00 Kč CZK
-- [Toyota Corolla Cross Executive 2.0 Hybrid 146kw e-CVT 146 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-corolla-cross-executive-2-0-hybrid-146kw-e-cvt-146-kw-natural-95-automaticka-prevodovka): Corolla Cross je odpověď na zvyšující se poptávku po středně velkých SUV. Jedná se o konkurenta například ke Škodě Karoq a v hierarchii Toyoty zaujímá místo mezi větší RAV4 a menším Yarisem Cross. Interiér působí velice sympaticky a většinu konkurentů kvalitou materiálů hravě předčí. Na své si zde přijdou hlavně příznivci klasické koncepce interiéru, kde převládají klasická tlačítka a kolečka. Někdo by mohl namítnout, že to působí archaicky, ale je mnoho lidí, kteří právě tuto koncepci preferují z důvodu snazšího ovládání. Pozitivní je rovněž prostor v kabině, kam se hravě poskládají čtyři vzrostlí cestující. Pohon vozu má na starost silnější motor o objemu 2 litrů, který je doplněn o elektromotor a akumulátor. Jde tedy o hybrid, který umí jet čistě na elektřinu a brzděním dobíjí baterii. Díky tomu zvládá po městě jezdit se spotřebou okolo 4 litrů. Corolla Cross je povedené SUV se skvělým podvozkem - jízda je opravdu komfortní, ale zároveň se neztratí ani v zatáčkách.
-  Updated: 2025-10-29T18:57:02Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaCorollaCrossExecutivefoto1.webp?v=1761735633
-  - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-executive-2-0-hybrid-146kw-e-cvt-146-kw-natural-95-automaticka-prevodovka?variant=58053426512221)
-    Availability: Available
-    Price: 10 496,00 Kč CZK
-  - [15000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-executive-2-0-hybrid-146kw-e-cvt-146-kw-natural-95-automaticka-prevodovka?variant=58053426577757)
-    Availability: Available
-    Price: 10 775,00 Kč CZK
-  - [20000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-executive-2-0-hybrid-146kw-e-cvt-146-kw-natural-95-automaticka-prevodovka?variant=58053426643293)
-    Availability: Available
-    Price: 11 041,00 Kč CZK
-  - [25000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-executive-2-0-hybrid-146kw-e-cvt-146-kw-natural-95-automaticka-prevodovka?variant=58053426708829)
-    Availability: Available
-    Price: 11 421,00 Kč CZK
-  - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-corolla-cross-executive-2-0-hybrid-146kw-e-cvt-146-kw-natural-95-automaticka-prevodovka?variant=58062604665181)
-    Availability: Available
-    Price: 11 776,00 Kč CZK
-- [Toyota RAV4 Selection 2.5 Hybrid 163 kW Benzín 4x4 Automatická převodovka](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1): Toyota RAV4 je robustní SUV, které je ve světě naprostým hitem - prodalo se jich přes 11 milionů. Design páté generace zaujme na první pohled - ostře řezané hrany v kombinaci se svalnatými blatníky navozují jedinečné charisma. Uvnitř se pyšní nadprůměrnou prostorností a potěší také tradiční koncepce, která zahrnuje klasická tlačítka a další ovladače. Díky tomu se velice dobře ovládá. Dotykový displej tu je samozřejmě také. Nechybí ani možnost zrcadlení telefonu do infotainmentu. Pohon vozu má na starost velký benzínový motor o objemu 2,5 litru, který je doplněn o elektromotor a akumulátor. Jde tedy o hybrid, který umí jet čistě na elektřinu a brzděním dobíjí baterii. Díky tomu zvládá po městě jezdit se spotřebou okolo 4 - 5 litrů. Potěší také vysoký výkon, který dodává vozu velmi hezkou dynamiku. Tento kousek navíc disponuje i pohonem všech čtyř kol, díky čemuž snadněji zvládne i lehčí terén či zasněženou silnici.
-  Updated: 2025-11-04T11:12:57Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_temna_s_cernou_strechou_Toyota_RAV4_Selection_b76cb10c-255b-475a-a4de-70c3d460f57b.webp?v=1761735876
-  - [10000 km / 24 měsíců / Modrá temná s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062852784477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_temna_s_cernou_strechou_Toyota_RAV4_Selection_b76cb10c-255b-475a-a4de-70c3d460f57b.webp?v=1761735876
-    Price: 13 710,00 Kč CZK
-  - [10000 km / 24 měsíců / Stříbrná zirkonová s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062852751709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Stribrna-zirkonova-s-cernou-strechou-Toyota-RAV4-Selection_8375c0a2-2c5d-4ccf-a2b3-29744ea925b3.webp?v=1761735876
-    Price: 13 710,00 Kč CZK
-  - [10000 km / 24 měsíců / Šedá popelavá s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062852817245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda-popelava-s-cernou-strechou-Toyota-RAV4-Selection_4d473cf6-bf3d-4849-a9ed-f340c6cdbd12.webp?v=1761735876
-    Price: 13 710,00 Kč CZK
-  - [10000 km / 24 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062852850013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_Selection_c753eaa5-9beb-4bf1-82d1-17f0002f71fd.webp?v=1761735876
-    Price: 13 710,00 Kč CZK
-  - [10000 km / 36 měsíců / Modrá temná s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085160797)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_temna_s_cernou_strechou_Toyota_RAV4_Selection_b76cb10c-255b-475a-a4de-70c3d460f57b.webp?v=1761735876
-    Price: 13 241,00 Kč CZK
-  - [10000 km / 36 měsíců / Stříbrná zirkonová s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085128029)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Stribrna-zirkonova-s-cernou-strechou-Toyota-RAV4-Selection_8375c0a2-2c5d-4ccf-a2b3-29744ea925b3.webp?v=1761735876
-    Price: 13 241,00 Kč CZK
-  - [10000 km / 36 měsíců / Šedá popelavá s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085193565)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda-popelava-s-cernou-strechou-Toyota-RAV4-Selection_4d473cf6-bf3d-4849-a9ed-f340c6cdbd12.webp?v=1761735876
-    Price: 13 241,00 Kč CZK
-  - [10000 km / 36 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085226333)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_Selection_c753eaa5-9beb-4bf1-82d1-17f0002f71fd.webp?v=1761735876
-    Price: 13 241,00 Kč CZK
-  - [15000 km / 24 měsíců / Modrá temná s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062852915549)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_temna_s_cernou_strechou_Toyota_RAV4_Selection_b76cb10c-255b-475a-a4de-70c3d460f57b.webp?v=1761735876
-    Price: 14 000,00 Kč CZK
-  - [15000 km / 24 měsíců / Stříbrná zirkonová s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062852882781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Stribrna-zirkonova-s-cernou-strechou-Toyota-RAV4-Selection_8375c0a2-2c5d-4ccf-a2b3-29744ea925b3.webp?v=1761735876
-    Price: 14 000,00 Kč CZK
-  - [15000 km / 24 měsíců / Šedá popelavá s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062852948317)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda-popelava-s-cernou-strechou-Toyota-RAV4-Selection_4d473cf6-bf3d-4849-a9ed-f340c6cdbd12.webp?v=1761735876
-    Price: 14 000,00 Kč CZK
-  - [15000 km / 24 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062852981085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_Selection_c753eaa5-9beb-4bf1-82d1-17f0002f71fd.webp?v=1761735876
-    Price: 14 000,00 Kč CZK
-  - [15000 km / 36 měsíců / Modrá temná s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085291869)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_temna_s_cernou_strechou_Toyota_RAV4_Selection_b76cb10c-255b-475a-a4de-70c3d460f57b.webp?v=1761735876
-    Price: 13 477,00 Kč CZK
-  - [15000 km / 36 měsíců / Stříbrná zirkonová s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085259101)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Stribrna-zirkonova-s-cernou-strechou-Toyota-RAV4-Selection_8375c0a2-2c5d-4ccf-a2b3-29744ea925b3.webp?v=1761735876
-    Price: 13 477,00 Kč CZK
-  - [15000 km / 36 měsíců / Šedá popelavá s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085324637)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda-popelava-s-cernou-strechou-Toyota-RAV4-Selection_4d473cf6-bf3d-4849-a9ed-f340c6cdbd12.webp?v=1761735876
-    Price: 13 477,00 Kč CZK
-  - [15000 km / 36 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085357405)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_Selection_c753eaa5-9beb-4bf1-82d1-17f0002f71fd.webp?v=1761735876
-    Price: 13 477,00 Kč CZK
-  - [20000 km / 24 měsíců / Modrá temná s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062853046621)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_temna_s_cernou_strechou_Toyota_RAV4_Selection_b76cb10c-255b-475a-a4de-70c3d460f57b.webp?v=1761735876
-    Price: 14 275,00 Kč CZK
-  - [20000 km / 24 měsíců / Stříbrná zirkonová s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062853013853)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Stribrna-zirkonova-s-cernou-strechou-Toyota-RAV4-Selection_8375c0a2-2c5d-4ccf-a2b3-29744ea925b3.webp?v=1761735876
-    Price: 14 275,00 Kč CZK
-  - [20000 km / 24 měsíců / Šedá popelavá s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062853079389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda-popelava-s-cernou-strechou-Toyota-RAV4-Selection_4d473cf6-bf3d-4849-a9ed-f340c6cdbd12.webp?v=1761735876
-    Price: 14 275,00 Kč CZK
-  - [20000 km / 24 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062853112157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_Selection_c753eaa5-9beb-4bf1-82d1-17f0002f71fd.webp?v=1761735876
-    Price: 14 275,00 Kč CZK
-  - [20000 km / 36 měsíců / Modrá temná s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085422941)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_temna_s_cernou_strechou_Toyota_RAV4_Selection_b76cb10c-255b-475a-a4de-70c3d460f57b.webp?v=1761735876
-    Price: 13 706,00 Kč CZK
-  - [20000 km / 36 měsíců / Stříbrná zirkonová s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085390173)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Stribrna-zirkonova-s-cernou-strechou-Toyota-RAV4-Selection_8375c0a2-2c5d-4ccf-a2b3-29744ea925b3.webp?v=1761735876
-    Price: 13 706,00 Kč CZK
-  - [20000 km / 36 měsíců / Šedá popelavá s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085455709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda-popelava-s-cernou-strechou-Toyota-RAV4-Selection_4d473cf6-bf3d-4849-a9ed-f340c6cdbd12.webp?v=1761735876
-    Price: 13 706,00 Kč CZK
-  - [20000 km / 36 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085488477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_Selection_c753eaa5-9beb-4bf1-82d1-17f0002f71fd.webp?v=1761735876
-    Price: 13 706,00 Kč CZK
-  - [25000 km / 24 měsíců / Modrá temná s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062853144925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_temna_s_cernou_strechou_Toyota_RAV4_Selection_b76cb10c-255b-475a-a4de-70c3d460f57b.webp?v=1761735876
-    Price: 14 674,00 Kč CZK
-  - [25000 km / 24 měsíců / Stříbrná zirkonová s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062675050845)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Stribrna-zirkonova-s-cernou-strechou-Toyota-RAV4-Selection_8375c0a2-2c5d-4ccf-a2b3-29744ea925b3.webp?v=1761735876
-    Price: 14 674,00 Kč CZK
-  - [25000 km / 24 měsíců / Šedá popelavá s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062853177693)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda-popelava-s-cernou-strechou-Toyota-RAV4-Selection_4d473cf6-bf3d-4849-a9ed-f340c6cdbd12.webp?v=1761735876
-    Price: 14 674,00 Kč CZK
-  - [25000 km / 24 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062853210461)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_Selection_c753eaa5-9beb-4bf1-82d1-17f0002f71fd.webp?v=1761735876
-    Price: 14 674,00 Kč CZK
-  - [25000 km / 36 měsíců / Modrá temná s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085554013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_temna_s_cernou_strechou_Toyota_RAV4_Selection_b76cb10c-255b-475a-a4de-70c3d460f57b.webp?v=1761735876
-    Price: 14 040,00 Kč CZK
-  - [25000 km / 36 měsíců / Stříbrná zirkonová s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085521245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Stribrna-zirkonova-s-cernou-strechou-Toyota-RAV4-Selection_8375c0a2-2c5d-4ccf-a2b3-29744ea925b3.webp?v=1761735876
-    Price: 14 040,00 Kč CZK
-  - [25000 km / 36 měsíců / Šedá popelavá s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085586781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda-popelava-s-cernou-strechou-Toyota-RAV4-Selection_4d473cf6-bf3d-4849-a9ed-f340c6cdbd12.webp?v=1761735876
-    Price: 14 040,00 Kč CZK
-  - [25000 km / 36 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085619549)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_Selection_c753eaa5-9beb-4bf1-82d1-17f0002f71fd.webp?v=1761735876
-    Price: 14 040,00 Kč CZK
-  - [30000 km / 24 měsíců / Modrá temná s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062853275997)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_temna_s_cernou_strechou_Toyota_RAV4_Selection_b76cb10c-255b-475a-a4de-70c3d460f57b.webp?v=1761735876
-    Price: 15 046,00 Kč CZK
-  - [30000 km / 24 měsíců / Stříbrná zirkonová s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062853243229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Stribrna-zirkonova-s-cernou-strechou-Toyota-RAV4-Selection_8375c0a2-2c5d-4ccf-a2b3-29744ea925b3.webp?v=1761735876
-    Price: 15 046,00 Kč CZK
-  - [30000 km / 24 měsíců / Šedá popelavá s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062853308765)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda-popelava-s-cernou-strechou-Toyota-RAV4-Selection_4d473cf6-bf3d-4849-a9ed-f340c6cdbd12.webp?v=1761735876
-    Price: 15 046,00 Kč CZK
-  - [30000 km / 24 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58062853341533)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_Selection_c753eaa5-9beb-4bf1-82d1-17f0002f71fd.webp?v=1761735876
-    Price: 15 046,00 Kč CZK
-  - [30000 km / 36 měsíců / Modrá temná s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085685085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_temna_s_cernou_strechou_Toyota_RAV4_Selection_b76cb10c-255b-475a-a4de-70c3d460f57b.webp?v=1761735876
-    Price: 14 354,00 Kč CZK
-  - [30000 km / 36 měsíců / Stříbrná zirkonová s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085652317)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Stribrna-zirkonova-s-cernou-strechou-Toyota-RAV4-Selection_8375c0a2-2c5d-4ccf-a2b3-29744ea925b3.webp?v=1761735876
-    Price: 14 354,00 Kč CZK
-  - [30000 km / 36 měsíců / Šedá popelavá s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085717853)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda-popelava-s-cernou-strechou-Toyota-RAV4-Selection_4d473cf6-bf3d-4849-a9ed-f340c6cdbd12.webp?v=1761735876
-    Price: 14 354,00 Kč CZK
-  - [30000 km / 36 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka-1?variant=58427085750621)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_Selection_c753eaa5-9beb-4bf1-82d1-17f0002f71fd.webp?v=1761735876
-    Price: 14 354,00 Kč CZK
-- [Toyota Aygo X Comfort Business 1.0 VVT-i 53 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53-kw-natural-95-manualni-prevodovka): Aygo je nejmenším modelem od Toyoty. Jedná se o atraktivní crossover s moderním designem, jehož revírem je primárně město. Díky velmi skromným rozměrům zaparkuje téměř kdekoliv. Na délku měří jen 3,7 metru. Hravě si poradí s podzemními garážemi či úzkými uličkami v centru města. Prostornost uvnitř dvě osoby na kratších trasách bohatě postačí a v případě potřeby odveze i další dva pasažéry vzadu. Kufr nabízí základní objem 231 litrů, což není mnoho, ale na běžný nákup je to akorát a alespoň vám nebudou tašky lítat ze strany na stranu. Pokud byste potřebovali naložit něco většího, dají se zde sklopit zadní sedadla, díky čemuž se objem zavazadlového prostoru zvětší až na neuvěřitelných 829 litrů. Pro srovnání - Škoda Octavia Combi nabídne základní objem kufru 640 litrů. Z toho plyne, že pakliže ve voze jezdí jen dva, dokáže být Aygo překvapivě praktické. Ve výbavě nechybí klimatizace, bezdrátové propojení telefonu s dotykovou obrazovkou (Apple Car Play / Android Auto), zadní parkovací kamera či multifunkční volant. Dalším plusem je nízká hmotnost a hravý podvozek, díky kterému je jízda hezky mrštná a zábavná. Nízká spotřeba paliva je zde samozřejmostí.
-  Updated: 2025-10-29T18:57:08Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaAygoXComfortfoto1_90301055-dc0b-4fc4-aa73-f14e47c08f5f.webp?v=1761735926
-  - [10000 km / 24 měsíců / Bílá](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53-kw-natural-95-manualni-prevodovka?variant=58067875037533)
-    Availability: Available
-    Price: 4 865,00 Kč CZK
-  - [15000 km / 24 měsíců / Bílá](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53-kw-natural-95-manualni-prevodovka?variant=58067875070301)
-    Availability: Available
-    Price: 4 958,00 Kč CZK
-  - [20000 km / 24 měsíců / Bílá](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53-kw-natural-95-manualni-prevodovka?variant=58067875103069)
-    Availability: Available
-    Price: 5 047,00 Kč CZK
-  - [25000 km / 24 měsíců / Bílá](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53-kw-natural-95-manualni-prevodovka?variant=58067875135837)
-    Availability: Available
-    Price: 5 176,00 Kč CZK
-  - [30000 km / 24 měsíců / Bílá](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53-kw-natural-95-manualni-prevodovka?variant=58067875168605)
-    Availability: Available
-    Price: 5 293,00 Kč CZK
-- [Toyota Aygo X Comfort 1.0 VVT-i 53 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53-kw-natural-95-automaticka-prevodovka): Aygo je nejmenším modelem od Toyoty. Jedná se o atraktivní crossover s moderním designem, jehož revírem je primárně město. Díky velmi skromným rozměrům zaparkuje téměř kdekoliv. Na délku měří jen 3,7 metru. Hravě si poradí s podzemními garážemi či úzkými uličkami v centru města. Prostornost uvnitř dvě osoby na kratších trasách bohatě postačí a v případě potřeby odveze i další dva pasažéry vzadu. Kufr nabízí základní objem 231 litrů, což není mnoho, ale na běžný nákup je to akorát a alespoň vám nebudou tašky lítat ze strany na stranu. Pokud byste potřebovali naložit něco většího, dají se zde sklopit zadní sedadla, díky čemuž se objem zavazadlového prostoru zvětší až na neuvěřitelných 829 litrů. Pro srovnání - Škoda Octavia Combi nabídne základní objem kufru 640 litrů. Z toho plyne, že pakliže ve voze jezdí jen dva, dokáže být Aygo překvapivě praktické. Ve výbavě nechybí klimatizace, bezdrátové propojení telefonu s dotykovou obrazovkou (Apple Car Play / Android Auto), zadní parkovací kamera či multifunkční volant. Dalším plusem je nízká hmotnost a hravý podvozek, díky kterému je jízda hezky mrštná a zábavná. Nízká spotřeba paliva je zde samozřejmostí.
-  Updated: 2025-10-29T18:57:11Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaAygoXComfortfoto1_39f29959-2bce-4251-868b-755df072b482.webp?v=1761735978
-  - [10000 km / 24 měsíců / Bílá](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53-kw-natural-95-automaticka-prevodovka?variant=58068922827101)
-    Availability: Available
-    Price: 5 130,00 Kč CZK
-  - [15000 km / 24 měsíců / Bílá](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53-kw-natural-95-automaticka-prevodovka?variant=58068922859869)
-    Availability: Available
-    Price: 5 227,00 Kč CZK
-  - [20000 km / 24 měsíců / Bílá](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53-kw-natural-95-automaticka-prevodovka?variant=58068922892637)
-    Availability: Available
-    Price: 5 324,00 Kč CZK
-  - [25000 km / 24 měsíců / Bílá](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53-kw-natural-95-automaticka-prevodovka?variant=58068922925405)
-    Availability: Available
-    Price: 5 457,00 Kč CZK
-  - [30000 km / 24 měsíců / Bílá](https://www.driveto.cz/products/toyota-aygo-x-comfort-1-0-vvt-i-53-kw-natural-95-automaticka-prevodovka?variant=58069186904413)
-    Availability: Available
-    Price: 5 586,00 Kč CZK
-- [Toyota Aygo X Style 1.0 VVT-i 53 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/toyota-aygo-x-style-1-0-vvt-i-53-kw-natural-95-manualni-prevodovka): Aygo je nejmenším modelem od Toyoty. Jedná se o atraktivní crossover s moderním designem, jehož revírem je primárně město. Díky velmi skromným rozměrům zaparkuje téměř kdekoliv. Na délku měří jen 3,7 metru. Hravě si poradí s podzemními garážemi či úzkými uličkami v centru města. Prostornost uvnitř dvě osoby na kratších trasách bohatě postačí a v případě potřeby odveze i další dva pasažéry vzadu. Kufr nabízí základní objem 231 litrů, což není mnoho, ale na běžný nákup je to akorát a alespoň vám nebudou tašky lítat ze strany na stranu. Pokud byste potřebovali naložit něco většího, dají se zde sklopit zadní sedadla, díky čemuž se objem zavazadlového prostoru zvětší až na neuvěřitelných 829 litrů. Pro srovnání - Škoda Octavia Combi nabídne základní objem kufru 640 litrů. Z toho plyne, že pakliže ve voze jezdí jen dva, dokáže být Aygo překvapivě praktické. Ve výbavě nechybí klimatizace, bezdrátové propojení telefonu s dotykovou obrazovkou (Apple Car Play / Android Auto), zadní parkovací kamera či multifunkční volant. Dalším plusem je nízká hmotnost a hravý podvozek, díky kterému je jízda hezky mrštná a zábavná. Nízká spotřeba paliva je zde samozřejmostí.
-  Updated: 2025-10-29T18:57:14Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaAygoXStylefoto1.webp?v=1761736018
-  - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-aygo-x-style-1-0-vvt-i-53-kw-natural-95-manualni-prevodovka?variant=58069411135837)
-    Availability: Available
-    Price: 5 150,00 Kč CZK
-  - [15000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-aygo-x-style-1-0-vvt-i-53-kw-natural-95-manualni-prevodovka?variant=58069411168605)
-    Availability: Available
-    Price: 5 251,00 Kč CZK
-  - [20000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-aygo-x-style-1-0-vvt-i-53-kw-natural-95-manualni-prevodovka?variant=58069411201373)
-    Availability: Available
-    Price: 5 343,00 Kč CZK
-  - [25000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-aygo-x-style-1-0-vvt-i-53-kw-natural-95-manualni-prevodovka?variant=58069411234141)
-    Availability: Available
-    Price: 5 481,00 Kč CZK
-  - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-aygo-x-style-1-0-vvt-i-53-kw-natural-95-manualni-prevodovka?variant=58069411266909)
-    Availability: Available
-    Price: 5 606,00 Kč CZK
-- [Toyota Aygo X Style 1.0 VVT-i 53 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-aygo-x-style-1-0-vvt-i-53-kw-natural-95-automaticka-prevodovka): Aygo je nejmenším modelem od Toyoty. Jedná se o atraktivní crossover s moderním designem, jehož revírem je primárně město. Díky velmi skromným rozměrům zaparkuje téměř kdekoliv. Na délku měří jen 3,7 metru. Hravě si poradí s podzemními garážemi či úzkými uličkami v centru města. Prostornost uvnitř dvě osoby na kratších trasách bohatě postačí a v případě potřeby odveze i další dva pasažéry vzadu. Kufr nabízí základní objem 231 litrů, což není mnoho, ale na běžný nákup je to akorát a alespoň vám nebudou tašky lítat ze strany na stranu. Pokud byste potřebovali naložit něco většího, dají se zde sklopit zadní sedadla, díky čemuž se objem zavazadlového prostoru zvětší až na neuvěřitelných 829 litrů. Pro srovnání - Škoda Octavia Combi nabídne základní objem kufru 640 litrů. Z toho plyne, že pakliže ve voze jezdí jen dva, dokáže být Aygo překvapivě praktické. Ve výbavě nechybí klimatizace, bezdrátové propojení telefonu s dotykovou obrazovkou (Apple Car Play / Android Auto), zadní parkovací kamera či multifunkční volant. Dalším plusem je nízká hmotnost a hravý podvozek, díky kterému je jízda hezky mrštná a zábavná. Nízká spotřeba paliva je zde samozřejmostí.
-  Updated: 2025-10-29T18:57:16Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaAygoXStylefoto1_e00cdcee-340e-42df-a4c3-1de651e5ec59.webp?v=1761736044
-  - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-aygo-x-style-1-0-vvt-i-53-kw-natural-95-automaticka-prevodovka?variant=58069439218013)
-    Availability: Available
-    Price: 5 519,00 Kč CZK
-  - [15000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-aygo-x-style-1-0-vvt-i-53-kw-natural-95-automaticka-prevodovka?variant=58069439250781)
-    Availability: Available
-    Price: 5 624,00 Kč CZK
-  - [20000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-aygo-x-style-1-0-vvt-i-53-kw-natural-95-automaticka-prevodovka?variant=58069439283549)
-    Availability: Available
-    Price: 5 729,00 Kč CZK
-  - [25000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-aygo-x-style-1-0-vvt-i-53-kw-natural-95-automaticka-prevodovka?variant=58069439316317)
-    Availability: Available
-    Price: 5 879,00 Kč CZK
-  - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-aygo-x-style-1-0-vvt-i-53-kw-natural-95-automaticka-prevodovka?variant=58069439349085)
-    Availability: Available
-    Price: 6 016,00 Kč CZK
-- [Toyota C-HR Comfort Plus 2.0 PHEV 164 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-c-hr-comfort-2-0-phev-164-kw-natural-95-automaticka-prevodovka): Toyota C-HR druhé generace byla představena na konci roku 2023. Jedná se o zástupce ze segmentu kompaktních SUV, avšak rozhodně nejde o nějakou tuctovku. Na první pohled zaujme futuristickým designem, díky čemuž se za vozem kde kdo otočí. Uvnitř nabídne perfektní kombinaci moderního pojetí interiéru s intuitivním ovládáním a přítomností klasických tlačítek. Vyspělý podvozek poskytuje velice dobrý komfort a zároveň výbornou jistotu v zatáčkách. Jedná se o plug-in hybrid, což znamená, že je zde benzínový motor, ale také elektromotor, který bere energii z baterie, která se dobíjí brzděním, ale lze ji i dobít na nabíječce či doma z běžné zásuvky. Výhodou je, že zvládne po městě ujet čistě na elektřinu cca 80 km, což může značně ulevit vaší peněžence. Pokud auto nebudete nabíjet, bude fungovat jako klasický hybrid se spotřebou ve městě kolem 4 litrů / 100 km, což je taktéž krásné. Potěší také skvělá dynamika. Nechybí ani automatická bezestupňová převodovka, díky které budou ranní kolony o poznání příjemnější.
-  Updated: 2025-10-29T18:57:19Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaC-HRComfortPlusfoto1.webp?v=1761736070
-  - [10000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/toyota-c-hr-comfort-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58069877948765)
-    Availability: Available
-    Price: 10 529,00 Kč CZK
-  - [15000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/toyota-c-hr-comfort-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070032744797)
-    Availability: Available
-    Price: 10 771,00 Kč CZK
-  - [20000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/toyota-c-hr-comfort-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070032777565)
-    Availability: Available
-    Price: 11 002,00 Kč CZK
-  - [25000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/toyota-c-hr-comfort-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070032810333)
-    Availability: Available
-    Price: 11 337,00 Kč CZK
-  - [30000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/toyota-c-hr-comfort-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070032843101)
-    Availability: Available
-    Price: 11 648,00 Kč CZK
-- [Toyota C-HR Executive 2.0 PHEV 164 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-c-hr-executive-2-0-phev-164-kw-natural-95-automaticka-prevodovka): Toyota C-HR druhé generace byla představena na konci roku 2023. Jedná se o zástupce ze segmentu kompaktních SUV, avšak rozhodně nejde o nějakou tuctovku. Na první pohled zaujme futuristickým designem, díky čemuž se za vozem kde kdo otočí. Uvnitř nabídne perfektní kombinaci moderního pojetí interiéru s intuitivním ovládáním a přítomností klasických tlačítek. Vyspělý podvozek poskytuje velice dobrý komfort a zároveň výbornou jistotu v zatáčkách. Jedná se o plug-in hybrid, což znamená, že je zde benzínový motor, ale také elektromotor, který bere energii z baterie, která se dobíjí brzděním, ale lze ji i dobít na nabíječce či doma z běžné zásuvky. Výhodou je, že zvládne po městě ujet čistě na elektřinu cca 80 km, což může značně ulevit vaší peněžence. Pokud auto nebudete nabíjet, bude fungovat jako klasický hybrid se spotřebou ve městě kolem 4 litrů / 100 km, což je taktéž krásné. Potěší také skvělá dynamika. Nechybí ani automatická bezestupňová převodovka, díky které budou ranní kolony o poznání příjemnější.
-  Updated: 2025-10-29T18:57:25Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaC-HRExecutive2.0foto1.webp?v=1761736187
-  - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070106014045)
-    Availability: Not Available
-    Price: 11 548,00 Kč CZK
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58300377301341)
-    Availability: Available
-    Price: 9 317,00 Kč CZK
-  - [15000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070106046813)
-    Availability: Not Available
-    Price: 11 814,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58300377334109)
-    Availability: Available
-    Price: 9 546,00 Kč CZK
-  - [20000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070106079581)
-    Availability: Not Available
-    Price: 12 073,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58300377366877)
-    Availability: Available
-    Price: 9 764,00 Kč CZK
-  - [25000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070106112349)
-    Availability: Not Available
-    Price: 12 440,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58300377399645)
-    Availability: Available
-    Price: 10 083,00 Kč CZK
-  - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070106145117)
-    Availability: Not Available
-    Price: 12 787,00 Kč CZK
-  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58300377432413)
-    Availability: Available
-    Price: 10 384,00 Kč CZK
-- [Toyota C-HR GR Sport 2.0 PHEV 164 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-c-hr-gr-sport-2-0-phev-164-kw-natural-95-automaticka-prevodovka): Toyota C-HR druhé generace byla představena na konci roku 2023. Jedná se o zástupce ze segmentu kompaktních SUV, avšak rozhodně nejde o nějakou tuctovku. Na první pohled zaujme futuristickým designem, díky čemuž se za vozem kde kdo otočí. Uvnitř nabídne perfektní kombinaci moderního pojetí interiéru s intuitivním ovládáním a přítomností klasických tlačítek. Vyspělý podvozek poskytuje velice dobrý komfort a zároveň výbornou jistotu v zatáčkách. Jedná se o plug-in hybrid, což znamená, že je zde benzínový motor, ale také elektromotor, který bere energii z baterie, která se dobíjí brzděním, ale lze ji i dobít na nabíječce či doma z běžné zásuvky. Výhodou je, že zvládne po městě ujet čistě na elektřinu cca 80 km, což může značně ulevit vaší peněžence. Pokud auto nebudete nabíjet, bude fungovat jako klasický hybrid se spotřebou ve městě kolem 4 litrů / 100 km, což je taktéž krásné. Potěší také skvělá dynamika. Nechybí ani automatická bezestupňová převodovka, díky které budou ranní kolony o poznání příjemnější.
-  Updated: 2025-10-29T18:57:27Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaC-HRGRSportfoto1.webp?v=1761736221
-  - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-gr-sport-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070598648157)
-    Availability: Available
-    Price: 12 116,00 Kč CZK
-  - [15000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-gr-sport-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070598680925)
-    Availability: Available
-    Price: 12 399,00 Kč CZK
-  - [20000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-gr-sport-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070598713693)
-    Availability: Available
-    Price: 12 669,00 Kč CZK
-  - [25000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-gr-sport-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070598746461)
-    Availability: Available
-    Price: 13 057,00 Kč CZK
-  - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-gr-sport-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070598779229)
-    Availability: Available
-    Price: 13 425,00 Kč CZK
-- [Toyota C-HR Tokyo Edition 2.0 PHEV 164 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-c-hr-tokyo-edition-2-0-phev-164-kw-natural-95-automaticka-prevodovka): Toyota C-HR druhé generace byla představena na konci roku 2023. Jedná se o zástupce ze segmentu kompaktních SUV, avšak rozhodně nejde o nějakou tuctovku. Na první pohled zaujme futuristickým designem, díky čemuž se za vozem kde kdo otočí. Uvnitř nabídne perfektní kombinaci moderního pojetí interiéru s intuitivním ovládáním a přítomností klasických tlačítek. Vyspělý podvozek poskytuje velice dobrý komfort a zároveň výbornou jistotu v zatáčkách. Jedná se o plug-in hybrid, což znamená, že je zde benzínový motor, ale také elektromotor, který bere energii z baterie, která se dobíjí brzděním, ale lze ji i dobít na nabíječce či doma z běžné zásuvky. Výhodou je, že zvládne po městě ujet čistě na elektřinu cca 80 km, což může značně ulevit vaší peněžence. Pokud auto nebudete nabíjet, bude fungovat jako klasický hybrid se spotřebou ve městě kolem 4 litrů / 100 km, což je taktéž krásné. Potěší také skvělá dynamika. Nechybí ani automatická bezestupňová převodovka, díky které budou ranní kolony o poznání příjemnější.
-  Updated: 2025-10-29T18:57:30Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaC-HRTokyoEditionfoto1.webp?v=1761736248
-  - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-tokyo-edition-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070908502365)
-    Availability: Available
-    Price: 12 493,00 Kč CZK
-  - [15000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-tokyo-edition-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070908535133)
-    Availability: Available
-    Price: 12 787,00 Kč CZK
-  - [20000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-tokyo-edition-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070908567901)
-    Availability: Available
-    Price: 13 066,00 Kč CZK
-  - [25000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-tokyo-edition-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070908600669)
-    Availability: Available
-    Price: 13 470,00 Kč CZK
-  - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-tokyo-edition-2-0-phev-164-kw-natural-95-automaticka-prevodovka?variant=58070908633437)
-    Availability: Available
-    Price: 13 845,00 Kč CZK
-- [Toyota Yaris Cross GR Sport 1.5 Hybrid 130 96 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-yaris-cross-gr-sport-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka): Model Yaris je klasika mezi městskými vozy, která je tu s námi přes 20 let. Poslední roky jsou však podstatně oblíbenější vozy typu Crossovery či SUV a tak vznikl Yaris Cross. Design je líbivý a zásadně se odlišil od klasického Yarisu. Blatníky vozu jsou velmi robustní, což z vozu dělá takového zakrslého svalovce. Uvnitř potěší pohodlná sedadla se slušným bočním vedením a také je potřeba pochválit snadné ovládání a přehledný infotainment. Kufr pojme hezkých 397 litrů nákladu. Pohon vozu zajišťuje primárně benzínový motor o objemu 1,5 litru. Je zde bezestupňová převodovka e-CVT, jak to bývá u hybridů zvykem. Klasický spalovací motor je doplněn o malý elektromotor a akumulátor, který jej pohání a je nabíjen rekuperací. Je příjemné, že pocukávání v kolonách zvládá čistě na elektřinu, takže nehrozí vysoká spotřeba, jak to bývá u čistě spalovacích aut. Po městě zvládá jezdit s trochou snahy i pod 4 litry a to samé platí o okreskách. Na dálnici si nárokuje okolo 6,5 litrů, což je stále slušné. Yaris Cross je stylovka, která je skvělou volbou do města, se kterou se snadno parkuje a navíc nabízí velice nízkou spotřebu.
-  Updated: 2025-10-29T18:57:33Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaYarisCrossGRfoto1.webp?v=1761736279
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-yaris-cross-gr-sport-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=58459105034589)
-    Availability: Available
-    Price: 9 285,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-yaris-cross-gr-sport-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=58459105067357)
-    Availability: Available
-    Price: 9 440,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-yaris-cross-gr-sport-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=58459105100125)
-    Availability: Available
-    Price: 9 589,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-yaris-cross-gr-sport-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=58459105132893)
-    Availability: Available
-    Price: 9 803,00 Kč CZK
-  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-yaris-cross-gr-sport-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka?variant=58459105165661)
-    Availability: Available
-    Price: 10 007,00 Kč CZK
-- [Toyota C-HR Style 2.0 Hybrid 198k 145 kW Natural 95 4x4 Automatická převodovka](https://www.driveto.cz/products/toyota-c-hr-comfort-1-8-hybrid-140k-103-kw-natural-95-automaticka-prevodovka): Toyota C-HR druhé generace byla světu představena na konci roku 2023. Jedná se o zástupce ze segmentu kompaktních SUV, avšak rozhodně nejde o nějakou tuctovku. Na první pohled zaujme velice extravagantním designem, díky čemuž se za vozem kde kdo otočí. Uvnitř nabídne perfektní kombinaci moderního pojetí interiéru s intuitivním ovládáním a přítomností klasických tlačítek. Vyspělý podvozek poskytuje velice dobrý komfort a zároveň výbornou jistotu v zatáčkách. Jedná se o klasický hybrid, což znamená, že je zde benzínový motor, ale také elektromotor, který bere energii z baterie, která se dobíjí brzděním. Jde o velice efektivní systém, který Toyota ve svých vozech používá přes 25 let. Mezi výhody se řadí nízká spotřeba, která se po městě dá držet kolem 4 litrů, ale zároveň nemusíte řešit dobíjení a pouze do vozu tankujete benzín. Nechybí ani automatická bezestupňová převodovka, díky které už ranní kolony nebudou tak otravné.
-  Updated: 2025-10-29T18:57:40Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaC-HRStyle2.0foto1_ff622cb3-852a-40da-b536-06c88d124451.webp?v=1761736343
-  - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-comfort-1-8-hybrid-140k-103-kw-natural-95-automaticka-prevodovka?variant=58075865153885)
-    Availability: Available
-    Price: 11 428,00 Kč CZK
-  - [15000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-comfort-1-8-hybrid-140k-103-kw-natural-95-automaticka-prevodovka?variant=58075865186653)
-    Availability: Available
-    Price: 11 678,00 Kč CZK
-  - [20000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-comfort-1-8-hybrid-140k-103-kw-natural-95-automaticka-prevodovka?variant=58075865219421)
-    Availability: Available
-    Price: 11 913,00 Kč CZK
-  - [25000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-comfort-1-8-hybrid-140k-103-kw-natural-95-automaticka-prevodovka?variant=58075865252189)
-    Availability: Available
-    Price: 12 252,00 Kč CZK
-  - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-comfort-1-8-hybrid-140k-103-kw-natural-95-automaticka-prevodovka?variant=58075865284957)
-    Availability: Available
-    Price: 12 571,00 Kč CZK
-- [Toyota C-HR Executive 1.8 Hybrid 140k 103 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-c-hr-executive-1-8-hybrid-140k-103-kw-natural-95-automaticka-prevodovka): Toyota C-HR druhé generace byla světu představena na konci roku 2023. Jedná se o zástupce ze segmentu kompaktních SUV, avšak rozhodně nejde o nějakou tuctovku. Na první pohled zaujme velice extravagantním designem, díky čemuž se za vozem kde kdo otočí. Uvnitř nabídne perfektní kombinaci moderního pojetí interiéru s intuitivním ovládáním a přítomností klasických tlačítek. Vyspělý podvozek poskytuje velice dobrý komfort a zároveň výbornou jistotu v zatáčkách. Jedná se o klasický hybrid, což znamená, že je zde benzínový motor, ale také elektromotor, který bere energii z baterie, která se dobíjí brzděním. Jde o velice efektivní systém, který Toyota ve svých vozech používá přes 25 let. Mezi výhody se řadí nízká spotřeba, která se po městě dá držet kolem 4 litrů, ale zároveň nemusíte řešit dobíjení a pouze do vozu tankujete benzín. Nechybí ani automatická bezestupňová převodovka, díky které už ranní kolony nebudou tak otravné.
-  Updated: 2025-10-29T18:57:42Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaC-HRExecutive1.8foto1_07bd962e-6b55-4d1f-9f87-c69ec65ddb6a.webp?v=1761736367
-  - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-1-8-hybrid-140k-103-kw-natural-95-automaticka-prevodovka?variant=58075872428381)
-    Availability: Available
-    Price: 11 079,00 Kč CZK
-  - [15000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-1-8-hybrid-140k-103-kw-natural-95-automaticka-prevodovka?variant=58075872461149)
-    Availability: Available
-    Price: 11 321,00 Kč CZK
-  - [20000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-1-8-hybrid-140k-103-kw-natural-95-automaticka-prevodovka?variant=58075872493917)
-    Availability: Available
-    Price: 11 556,00 Kč CZK
-  - [25000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-1-8-hybrid-140k-103-kw-natural-95-automaticka-prevodovka?variant=58075872526685)
-    Availability: Available
-    Price: 11 891,00 Kč CZK
-  - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-1-8-hybrid-140k-103-kw-natural-95-automaticka-prevodovka?variant=58075872559453)
-    Availability: Available
-    Price: 12 206,00 Kč CZK
-- [Toyota C-HR Executive 2.0 Hybrid 198k 145 kW Natural 95 4x4 Automatická převodovka](https://www.driveto.cz/products/toyota-c-hr-executive-2-0-hybrid-198k-145-kw-natural-95-4x4-automaticka-prevodovka): Toyota C-HR druhé generace byla světu představena na konci roku 2023. Jedná se o zástupce ze segmentu kompaktních SUV, avšak rozhodně nejde o nějakou tuctovku. Na první pohled zaujme velice extravagantním designem, díky čemuž se za vozem kde kdo otočí. Uvnitř nabídne perfektní kombinaci moderního pojetí interiéru s intuitivním ovládáním a přítomností klasických tlačítek. Vyspělý podvozek poskytuje velice dobrý komfort a zároveň výbornou jistotu v zatáčkách. Jedná se o klasický hybrid, což znamená, že je zde benzínový motor, ale také elektromotor, který bere energii z baterie, která se dobíjí brzděním. Jde o velice efektivní systém, který Toyota ve svých vozech používá přes 25 let. Mezi výhody se řadí nízká spotřeba, která se po městě dá držet kolem 4 litrů, ale zároveň nemusíte řešit dobíjení a pouze do vozu tankujete benzín. Nechybí ani automatická bezestupňová převodovka, díky které už ranní kolony nebudou tak otravné.
-  Updated: 2025-10-29T18:57:45Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaC-HRExecutive2.0foto1_0bed4461-8e82-4444-af5a-9c3825e98947.webp?v=1761736689
-  - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-2-0-hybrid-198k-145-kw-natural-95-4x4-automaticka-prevodovka?variant=58075973943645)
-    Availability: Available
-    Price: 12 219,00 Kč CZK
-  - [15000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-2-0-hybrid-198k-145-kw-natural-95-4x4-automaticka-prevodovka?variant=58075973976413)
-    Availability: Available
-    Price: 12 482,00 Kč CZK
-  - [20000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-2-0-hybrid-198k-145-kw-natural-95-4x4-automaticka-prevodovka?variant=58075974009181)
-    Availability: Available
-    Price: 12 740,00 Kč CZK
-  - [25000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-2-0-hybrid-198k-145-kw-natural-95-4x4-automaticka-prevodovka?variant=58075974041949)
-    Availability: Available
-    Price: 13 103,00 Kč CZK
-  - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-executive-2-0-hybrid-198k-145-kw-natural-95-4x4-automaticka-prevodovka?variant=58075974074717)
-    Availability: Available
-    Price: 13 447,00 Kč CZK
-- [Toyota C-HR GR Sport 2.0 Hybrid 198k 145 kW Natural 95 4x4 Automatická převodovka](https://www.driveto.cz/products/toyota-c-hr-gr-sport-2-0-hybrid-198k-145-kw-natural-95-4x4-automaticka-prevodovka): Toyota C-HR druhé generace byla světu představena na konci roku 2023. Jedná se o zástupce ze segmentu kompaktních SUV, avšak rozhodně nejde o nějakou tuctovku. Na první pohled zaujme velice extravagantním designem, díky čemuž se za vozem kde kdo otočí. Uvnitř nabídne perfektní kombinaci moderního pojetí interiéru s intuitivním ovládáním a přítomností klasických tlačítek. Vyspělý podvozek poskytuje velice dobrý komfort a zároveň výbornou jistotu v zatáčkách. Jedná se o klasický hybrid, což znamená, že je zde benzínový motor, ale také elektromotor, který bere energii z baterie, která se dobíjí brzděním. Jde o velice efektivní systém, který Toyota ve svých vozech používá přes 25 let. Mezi výhody se řadí nízká spotřeba, která se po městě dá držet kolem 4 litrů, ale zároveň nemusíte řešit dobíjení a pouze do vozu tankujete benzín. Nechybí ani automatická bezestupňová převodovka, díky které už ranní kolony nebudou tak otravné.
-  Updated: 2025-10-29T18:57:48Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaC-HRGRSportfoto1_6b06ac6f-a0a0-42ba-9004-7a2f669997e6.webp?v=1761736717
-  - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-gr-sport-2-0-hybrid-198k-145-kw-natural-95-4x4-automaticka-prevodovka?variant=58076067103069)
-    Availability: Available
-    Price: 12 829,00 Kč CZK
-  - [15000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-gr-sport-2-0-hybrid-198k-145-kw-natural-95-4x4-automaticka-prevodovka?variant=58076067135837)
-    Availability: Available
-    Price: 13 108,00 Kč CZK
-  - [20000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-gr-sport-2-0-hybrid-198k-145-kw-natural-95-4x4-automaticka-prevodovka?variant=58076067168605)
-    Availability: Available
-    Price: 13 378,00 Kč CZK
-  - [25000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-gr-sport-2-0-hybrid-198k-145-kw-natural-95-4x4-automaticka-prevodovka?variant=58076067201373)
-    Availability: Available
-    Price: 13 762,00 Kč CZK
-  - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-c-hr-gr-sport-2-0-hybrid-198k-145-kw-natural-95-4x4-automaticka-prevodovka?variant=58076067234141)
-    Availability: Available
-    Price: 14 125,00 Kč CZK
 - [Škoda Fabia Monte Carlo 1.5 TSI DSG 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-fabia-monte-carlo-1-5-tsi-dsg-110-kw-natural-95-automaticka-prevodovka): Fabia čtvrté generace v této specifikaci nabízí nečekaně silnou motorizaci. Pod kapotou se ukrývá čtyřválcový motor 1.5 TSI s výkonem 110 kW, který spolu s automatickou převodovkou DSG zajišťuje svižnou, ale zároveň komfortní jízdu. Díky nízké hmotnosti vozu je dynamika opravdu velmi dobrá a zrychlení vás příjemně překvapí. Výhodou je i technologie vypínání dvou válců při mírné zátěži, díky které dokáže Fabia jezdit úsporně i při svižnějším tempu. Výsledkem je ideální kombinace zábavy a rozumné spotřeby, kterou oceníte ve městě i na delších trasách.
   Updated: 2025-10-30T10:32:18Z
   Vendor: Driveto
@@ -4656,39 +2797,6 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [40000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka?variant=58122501947741)
     Availability: Available
     Price: 11 547,00 Kč CZK
-- [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5): Škoda Octavia se za dobu jejího působí stala úplnou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s automatickou převodovkou DSG. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky 7 rychlostnímu automatu zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná. Tento vůz navíc disponuje i mild-hybridní technologií, která po městě snižuje spotřebu paliva.
-  Updated: 2025-11-24T15:07:54Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaSelection1.5foto1_a54c8005-6176-4c7c-b075-2ae6ff201ef0.webp?v=1761741779
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537107805)
-    Availability: Available
-    Price: 6 048,00 Kč CZK
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537140573)
-    Availability: Available
-    Price: 6 229,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537173341)
-    Availability: Available
-    Price: 6 298,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537206109)
-    Availability: Available
-    Price: 6 572,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537238877)
-    Availability: Available
-    Price: 6 733,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537271645)
-    Availability: Available
-    Price: 7 280,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537304413)
-    Availability: Available
-    Price: 7 297,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537337181)
-    Availability: Available
-    Price: 7 841,00 Kč CZK
-  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-5?variant=58122537369949)
-    Availability: Available
-    Price: 7 948,00 Kč CZK
 - [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-1): Škoda Octavia se za dobu jejího působí stala úplnou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Tento konkrétní kousek je kombík, takže nabídne opravdu prostorný kufr - 640 litrů. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s automatickou převodovkou DSG. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky 7 rychlostnímu automatu zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná. Tento vůz navíc disponuje i mild-hybridní technologií, která po městě snižuje spotřebu paliva.
   Updated: 2025-11-24T18:12:04Z
   Vendor: Driveto
@@ -4804,7 +2912,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 12 213,00 Kč CZK
 - [Audi Q5 S line 2.0 TDI 150 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka): Model Q5 je středně velké SUV, které si oblíbili zákazníci, kteří chtějí dostatek prostoru pro posádku a zavazadla, ale zároveň nechtějí přehnaně velké vozidlo, se kterým je už složitější parkování či jízda na úzkých silnicích. Jedná se o zcela nový model, který byl představen na konci roku 2024. Pod kapotou pracuje osvědčený naftový motor o výkonu 150 kW, který dodává vozu slušnou dynamiku, ale zároveň je úsporný. Kombinovaně není problém jezdit s lehkou nohou okolo 6 litrů. Milovníky hor také potěší vyhlášený pohon všech kol quattro, díky kterému vůz dokáže vyjet i pořádně zasněžené kopce, čemuž pomáhá solidní světlá výška. Podvozek vozu dodává skvělé jízdní vlastnosti - je komfortní, ale zároveň stabilní v zatáčkách. Tento kousek je navíc krásně vybavený - celková cena včetně příplatků přesáhla 1,8 milionu.
-  Updated: 2025-11-13T13:14:54Z
+  Updated: 2025-11-27T13:37:54Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -4814,99 +2922,117 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto1.webp?v=1761741972
     Price: 14 900,00 Kč CZK
   - [15000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251466077)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto6.webp?v=1761741972
     Price: 14 900,00 Kč CZK
   - [15000 km / 36 měsíců / Modrá Ultra metalíza](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251498845)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto7.webp?v=1761741972
     Price: 14 900,00 Kč CZK
   - [15000 km / 36 měsíců / Červená Grenadine](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58899307266397)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line.webp?v=1761741972
+    Price: 14 900,00 Kč CZK
+  - [15000 km / 36 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=62736298049885)
+    Availability: Available
     Price: 14 900,00 Kč CZK
   - [20000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251531613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto1.webp?v=1761741972
     Price: 15 700,00 Kč CZK
   - [20000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251564381)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto6.webp?v=1761741972
     Price: 15 700,00 Kč CZK
   - [20000 km / 36 měsíců / Modrá Ultra metalíza](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251597149)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto7.webp?v=1761741972
     Price: 15 700,00 Kč CZK
   - [20000 km / 36 měsíců / Červená Grenadine](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58899307299165)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line.webp?v=1761741972
+    Price: 15 700,00 Kč CZK
+  - [20000 km / 36 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=62736298082653)
+    Availability: Available
     Price: 15 700,00 Kč CZK
   - [25000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251629917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto1.webp?v=1761741972
     Price: 16 600,00 Kč CZK
   - [25000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251662685)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto6.webp?v=1761741972
     Price: 16 600,00 Kč CZK
   - [25000 km / 36 měsíců / Modrá Ultra metalíza](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251695453)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto7.webp?v=1761741972
     Price: 16 600,00 Kč CZK
   - [25000 km / 36 měsíců / Červená Grenadine](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58899307331933)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line.webp?v=1761741972
+    Price: 16 600,00 Kč CZK
+  - [25000 km / 36 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=62736298115421)
+    Availability: Available
     Price: 16 600,00 Kč CZK
   - [30000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251728221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto1.webp?v=1761741972
     Price: 17 800,00 Kč CZK
   - [30000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251760989)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto6.webp?v=1761741972
     Price: 17 800,00 Kč CZK
   - [30000 km / 36 měsíců / Modrá Ultra metalíza](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251793757)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto7.webp?v=1761741972
     Price: 17 800,00 Kč CZK
   - [30000 km / 36 měsíců / Červená Grenadine](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58899307364701)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line.webp?v=1761741972
+    Price: 17 800,00 Kč CZK
+  - [30000 km / 36 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=62736298148189)
+    Availability: Available
     Price: 17 800,00 Kč CZK
   - [35000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251826525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto1.webp?v=1761741972
     Price: 19 400,00 Kč CZK
   - [35000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251859293)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto6.webp?v=1761741972
     Price: 19 400,00 Kč CZK
   - [35000 km / 36 měsíců / Modrá Ultra metalíza](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251892061)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto7.webp?v=1761741972
     Price: 19 400,00 Kč CZK
   - [35000 km / 36 měsíců / Červená Grenadine](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58899307397469)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line.webp?v=1761741972
+    Price: 19 400,00 Kč CZK
+  - [35000 km / 36 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=62736298180957)
+    Availability: Available
     Price: 19 400,00 Kč CZK
   - [40000 km / 36 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251924829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto1.webp?v=1761741972
     Price: 20 400,00 Kč CZK
   - [40000 km / 36 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251957597)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto6.webp?v=1761741972
     Price: 20 400,00 Kč CZK
   - [40000 km / 36 měsíců / Modrá Ultra metalíza](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58136251990365)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line_foto7.webp?v=1761741972
     Price: 20 400,00 Kč CZK
   - [40000 km / 36 měsíců / Červená Grenadine](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=58899307430237)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_S_line.webp?v=1761741972
     Price: 20 400,00 Kč CZK
+  - [40000 km / 36 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka?variant=62736298213725)
+    Availability: Available
+    Price: 20 400,00 Kč CZK
 - [Audi Q5 Sportback S line 2.0 TFSI 150 kW Natural 95 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka): Model Q5 je středně velké SUV, které si oblíbili zákazníci, kteří chtějí dostatek prostoru pro posádku a zavazadla, ale zároveň nechtějí přehnaně velké vozidlo, se kterým je už složitější parkování či jízda na úzkých silnicích. Jedná se o zcela nový model, který byl představen na konci roku 2024. Přídomek Sportback značí svažující-se záď, což je v dnešní době velmi populární a dodává to sportovní nádech. Pod kapotou pracuje osvědčený benzínový motor o výkonu 150 kW, který dodává vozu slušnou dynamiku, ale zároveň je úsporný. Milovníky hor také potěší vyhlášený pohon všech kol quattro, díky kterému vůz dokáže vyjet i pořádně zasněžené kopce, čemuž pomáhá solidní světlá výška. Podvozek vozu dodává skvělé jízdní vlastnosti - je komfortní, ale zároveň stabilní v zatáčkách. Tento kousek je navíc krásně vybavený - celková cena včetně příplatků přesahuje 1,8 milionu.
-  Updated: 2025-11-04T11:01:27Z
+  Updated: 2025-11-27T09:02:24Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -4984,7 +3110,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cervena_Grenadine_Audi_Q5_Sportback.png?v=1762254029
     Price: 20 100,00 Kč CZK
 - [BMW X5 M Sport xDrive 30d 219 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka): X5 je luxusní SUV, které nabídne pořádnou dávku stylu a díky tomuto velkému dieselovému motoru i vynikající dynamiku a slušnou spotřebu. Skvěle se řídí, je pohodlné, prostorné a úspornější, než kdy dříve. Na první pohled je jasné, že se nejedná o nic obyčejného či malého. X5 je opravdu velké auto. Masivní přední ledvinky a LED světlomety dodávají vozu jedinečný výraz. Zadní části dominují vodorovně orientované svítilny a ve spodní části dvě koncovky výfuků, za kterými se opravdu nachází výfuky, takže žádné chromové rámečky jen „na oko“. Interiér je jedním slovem luxusní. Kožená sedadla zaujmou na první pohled. Jsou elektrická, vyhřívaná a velice pohodlná. Nechybí ani možnost prodloužení sedáku, což ocení především vyšší jedinci. Jízdnímu komfortu nelze nic vytknout. I veliké výmoly filtruje skvěle a do karoserie propouští jen minimum informací o tom, po jakých „krásných“ silnicích u nás jezdíme. Pod kapotou pracuje naftový šestiválec o výkonu 219 kW, který dodává vozu velmi dobrou dynamiku a pružnost. Je zde také použita mild-hybridní technologie, která ukládá energii z brzdění a následně je využívána například při rozjezdech z místa. Nechybí ani bohatá příplatková výbava. Pořizovací cena tohoto kousku přesáhla 2,4 milionu.
-  Updated: 2025-11-13T13:15:25Z
+  Updated: 2025-11-27T09:26:12Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -4992,83 +3118,83 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [10000 km / 36 měsíců / Bílá Mineral](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58141646881117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto1_d6097c62-bd67-4250-9d22-9df94d48f836.webp?v=1761742207
-    Price: 21 248,00 Kč CZK
+    Price: 22 041,00 Kč CZK
   - [10000 km / 36 měsíců / Black Sapphire](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58141667492189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto6.webp?v=1761742208
-    Price: 21 248,00 Kč CZK
+    Price: 22 041,00 Kč CZK
   - [10000 km / 36 měsíců / Skyscraper Grey](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58141667557725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto7.webp?v=1761742207
-    Price: 21 248,00 Kč CZK
+    Price: 22 041,00 Kč CZK
   - [10000 km / 36 měsíců / Manhattan](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58691641311581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto8.webp?v=1761742207
-    Price: 21 248,00 Kč CZK
+    Price: 22 041,00 Kč CZK
   - [15000 km / 36 měsíců / Bílá Mineral](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58141646913885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto1_d6097c62-bd67-4250-9d22-9df94d48f836.webp?v=1761742207
-    Price: 21 718,00 Kč CZK
+    Price: 22 608,00 Kč CZK
   - [15000 km / 36 měsíců / Black Sapphire](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58141667590493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto6.webp?v=1761742208
-    Price: 21 718,00 Kč CZK
+    Price: 22 608,00 Kč CZK
   - [15000 km / 36 měsíců / Skyscraper Grey](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58141667656029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto7.webp?v=1761742207
-    Price: 21 718,00 Kč CZK
+    Price: 22 608,00 Kč CZK
   - [15000 km / 36 měsíců / Manhattan](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58691641344349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto8.webp?v=1761742207
-    Price: 21 718,00 Kč CZK
+    Price: 22 608,00 Kč CZK
   - [20000 km / 36 měsíců / Bílá Mineral](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58141646946653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto1_d6097c62-bd67-4250-9d22-9df94d48f836.webp?v=1761742207
-    Price: 22 978,00 Kč CZK
+    Price: 23 783,00 Kč CZK
   - [20000 km / 36 měsíců / Black Sapphire](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58141667688797)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto6.webp?v=1761742208
-    Price: 22 978,00 Kč CZK
+    Price: 23 783,00 Kč CZK
   - [20000 km / 36 měsíců / Skyscraper Grey](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58141667754333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto7.webp?v=1761742207
-    Price: 22 978,00 Kč CZK
+    Price: 23 783,00 Kč CZK
   - [20000 km / 36 měsíců / Manhattan](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58691641377117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto8.webp?v=1761742207
-    Price: 22 978,00 Kč CZK
+    Price: 23 783,00 Kč CZK
   - [25000 km / 36 měsíců / Bílá Mineral](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58141646979421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto1_d6097c62-bd67-4250-9d22-9df94d48f836.webp?v=1761742207
-    Price: 24 233,00 Kč CZK
+    Price: 25 130,00 Kč CZK
   - [25000 km / 36 měsíců / Black Sapphire](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58141667787101)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto6.webp?v=1761742208
-    Price: 24 233,00 Kč CZK
+    Price: 25 130,00 Kč CZK
   - [25000 km / 36 měsíců / Skyscraper Grey](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58141667852637)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto7.webp?v=1761742207
-    Price: 24 233,00 Kč CZK
+    Price: 25 130,00 Kč CZK
   - [25000 km / 36 měsíců / Manhattan](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58691641409885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto8.webp?v=1761742207
-    Price: 24 233,00 Kč CZK
+    Price: 25 130,00 Kč CZK
   - [30000 km / 36 měsíců / Bílá Mineral](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58141647012189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto1_d6097c62-bd67-4250-9d22-9df94d48f836.webp?v=1761742207
-    Price: 25 075,00 Kč CZK
+    Price: 25 880,00 Kč CZK
   - [30000 km / 36 měsíců / Black Sapphire](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58141667885405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto6.webp?v=1761742208
-    Price: 25 075,00 Kč CZK
+    Price: 25 880,00 Kč CZK
   - [30000 km / 36 měsíců / Skyscraper Grey](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58141667950941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto7.webp?v=1761742207
-    Price: 25 075,00 Kč CZK
+    Price: 25 880,00 Kč CZK
   - [30000 km / 36 měsíců / Manhattan](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka?variant=58691641442653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto8.webp?v=1761742207
-    Price: 25 075,00 Kč CZK
+    Price: 25 880,00 Kč CZK
 - [Cupra Formentor 1.5 eTSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/cupra-formentor-1-5-etsi-110-kw-natural-95-automaticka-prevodovka): Cupra Formentor je prvním samostatným modelem značky Cupra. Jedná se o mimořádně oblíbené SUV s jedinečným designem. Přední část působí agresivně, čemuž napomáhají zamračené světlomety a agresivně tvarovaný nárazník. Tento kousek je navíc po výraznější modernizaci, která poměrně výrazně dotkla exteriéru, ale změny nastaly i uvnitř. Interiér působí moderně a minimalisticky. Veliká dotyková obrazovka je nakloněná k řidiči, což je příjemné. O prostor vpředu není nouze, situace je o chlup horší vzadu, kde je to o něco stísněnější, ale i tak se tam 185 cm vysoký člověk pohodlně vejde. Čtyři takové pasažéry Formentor pojme bez problému. Kufr pojme 450 litrů nákladu. Jízda je pohodlná, svižná a se základním benzinovým motorem i úsporná. O pohon vozu se stará benzínový čtyřválec, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka DSG, díky které se jedná o vynikající volbu na každý den.
   Updated: 2025-11-13T13:13:05Z
   Vendor: Driveto
@@ -5273,43 +3399,22 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/CupraTerramar2.0TSIfoto8.webp?v=1761742675
     Price: 13 912,00 Kč CZK
-- [Toyota Yaris Cross Comfort 1.5 Hybrid 116 85 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-yaris-cross-comfort-1-5-hybrid-116-85-kw-natural-95-automaticka-prevodovka): Model Yaris je klasika mezi městskými vozy, která je tu s námi přes 20 let. Poslední roky jsou však podstatně oblíbenější vozy typu Crossovery či SUV a tak vznikl Yaris Cross. Design je líbivý a zásadně se odlišil od klasického Yarisu. Blatníky vozu jsou velmi robustní, což z vozu dělá takového zakrslého svalovce. Uvnitř potěší pohodlná sedadla se slušným bočním vedením a také je potřeba pochválit snadné ovládání a přehledný infotainment. Kufr pojme hezkých 397 litrů nákladu. Pohon vozu zajišťuje primárně benzínový motor o objemu 1,5 litru. Je zde bezestupňová převodovka e-CVT, jak to bývá u hybridů zvykem. Klasický spalovací motor je doplněn o malý elektromotor a akumulátor, který jej pohání a je nabíjen rekuperací. Je příjemné, že pocukávání v kolonách zvládá čistě na elektřinu, takže nehrozí vysoká spotřeba, jak to bývá u čistě spalovacích aut. Po městě zvládá jezdit s trochou snahy i pod 4 litry a to samé platí o okreskách. Na dálnici si nárokuje okolo 6,5 litrů, což je stále slušné. Yaris Cross je stylovka, která je skvělou volbou do města, se kterou se snadno parkuje a navíc nabízí velice nízkou spotřebu.
-  Updated: 2025-10-29T18:59:47Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/ToyotaYarisCrossComfortfoto1.webp?v=1761742837
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-yaris-cross-comfort-1-5-hybrid-116-85-kw-natural-95-automaticka-prevodovka?variant=58141937107293)
-    Availability: Available
-    Price: 7 369,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-yaris-cross-comfort-1-5-hybrid-116-85-kw-natural-95-automaticka-prevodovka?variant=58141937172829)
-    Availability: Available
-    Price: 7 488,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-yaris-cross-comfort-1-5-hybrid-116-85-kw-natural-95-automaticka-prevodovka?variant=58141937238365)
-    Availability: Available
-    Price: 7 603,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-yaris-cross-comfort-1-5-hybrid-116-85-kw-natural-95-automaticka-prevodovka?variant=58141937303901)
-    Availability: Available
-    Price: 7 770,00 Kč CZK
-  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/toyota-yaris-cross-comfort-1-5-hybrid-116-85-kw-natural-95-automaticka-prevodovka?variant=58459043529053)
-    Availability: Available
-    Price: 7 929,00 Kč CZK
-[List Continued](https://www.driveto.cz/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTUzNzk0MTcwOTE0OSwibGFzdF92YWx1ZSI6IjE1NTM3OTQxNzA5MTQ5In0=)
+[List Continued](https://www.driveto.cz/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTUzNzk0MTc3NDY4NSwibGFzdF92YWx1ZSI6IjE1NTM3OTQxNzc0Njg1In0=)
 
 ## Collections
 
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/operativni-leasing): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-25T21:19:27Z
-  Total Products: 233
+  Updated: 2025-11-28T23:45:26Z
+  Total Products: 171
 - [Operativní leasing Škoda | Driveto.cz](https://www.driveto.cz/collections/skoda): Operativní leasing Škoda pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-25T12:25:24Z
-  Total Products: 72
+  Updated: 2025-11-28T13:58:03Z
+  Total Products: 57
 - [Elektromobily na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/elektromobily): Elektromobily na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-23T12:19:40Z
-  Total Products: 25
+  Updated: 2025-11-27T14:56:40Z
+  Total Products: 12
 - [Skladové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/skladove-vozy): Skladové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-25T21:18:07Z
-  Total Products: 170
+  Updated: 2025-11-28T23:45:26Z
+  Total Products: 173
 - [Operativní leasing Tesla | Driveto.cz](https://www.driveto.cz/collections/tesla): Operativní leasing Tesla pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-20T12:21:52Z
   Total Products: 2
@@ -5320,7 +3425,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-21T12:22:22Z
   Total Products: 2
 - [Operativní leasing BMW | Driveto.cz](https://www.driveto.cz/collections/bmw): Operativní leasing BMW pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-25T12:25:24Z
+  Updated: 2025-11-28T12:31:36Z
   Total Products: 12
 - [Operativní leasing Mini | Driveto.cz](https://www.driveto.cz/collections/mini): Operativní leasing Mini pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-27T12:08:11Z
@@ -5332,8 +3437,8 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-10-17T09:02:46Z
   Total Products: 0
 - [Operativní leasing Cupra | Driveto.cz](https://www.driveto.cz/collections/cupra): Operativní leasing Cupra pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-25T21:19:27Z
-  Total Products: 17
+  Updated: 2025-11-28T12:31:36Z
+  Total Products: 13
 - [Operativní leasing Nissan | Driveto.cz](https://www.driveto.cz/collections/nissan): Operativní leasing Nissan pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-21T12:22:22Z
   Total Products: 6
@@ -5341,62 +3446,65 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-10-01T08:36:13Z
   Total Products: 0
 - [Operativní leasing Seat | Driveto.cz](https://www.driveto.cz/collections/seat): Operativní leasing Seat pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-18T12:21:17Z
-  Total Products: 4
+  Updated: 2025-11-27T14:54:10Z
+  Total Products: 0
 - [Operativní leasing Toyota | Driveto.cz](https://www.driveto.cz/collections/toyota): Operativní leasing Toyota pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-25T12:25:24Z
-  Total Products: 44
+  Updated: 2025-11-28T13:49:26Z
+  Total Products: 3
 - [Operativní leasing Volvo | Driveto.cz](https://www.driveto.cz/collections/volvo): Operativní leasing Volvo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-25T12:25:24Z
-  Total Products: 11
+  Updated: 2025-11-28T23:45:26Z
+  Total Products: 12
 - [Operativní leasing Audi | Driveto.cz](https://www.driveto.cz/collections/audi): Operativní leasing Audi pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-25T12:25:24Z
+  Updated: 2025-11-28T12:31:36Z
   Total Products: 14
 - [Operativní leasing Peugeot | Driveto.cz](https://www.driveto.cz/collections/peugeot): Operativní leasing Peugeot pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-23T12:19:40Z
   Total Products: 3
 - [Operativní leasing Hyundai | Driveto.cz](https://www.driveto.cz/collections/hyundai): Operativní leasing Hyundai pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-25T12:25:24Z
+  Updated: 2025-11-28T12:31:36Z
   Total Products: 4
 - [Operativní leasing Kia | Driveto.cz](https://www.driveto.cz/collections/kia): Operativní leasing Kia pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-25T12:25:24Z
-  Total Products: 5
+  Updated: 2025-11-28T12:31:36Z
+  Total Products: 3
 - [Operativní leasing Volkswagen | Driveto.cz](https://www.driveto.cz/collections/volkswagen): Operativní leasing Volkswagen pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-24T12:25:05Z
+  Updated: 2025-11-26T12:25:21Z
   Total Products: 23
 - [Akční nabídky na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/akcni-nabidky): Akční nabídky na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-25T21:19:27Z
-  Total Products: 31
+  Updated: 2025-11-28T23:45:26Z
+  Total Products: 30
 - [Operativní leasing Renault | Driveto.cz](https://www.driveto.cz/collections/renault): Operativní leasing Renault pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-23T12:19:40Z
-  Total Products: 2
+  Updated: 2025-11-27T16:13:30Z
+  Total Products: 5
 - [Užitkové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/uzitkove-vozy): Užitkové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-23T12:19:40Z
+  Updated: 2025-11-26T12:25:21Z
   Total Products: 8
 - [Osobní vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/osobni-vozy): Osobní vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-25T21:19:27Z
-  Total Products: 235
+  Updated: 2025-11-28T23:45:26Z
+  Total Products: 173
 - [Plug-in vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/plug-in): Plug-in vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-25T12:25:24Z
-  Total Products: 10
+  Updated: 2025-11-28T12:31:36Z
+  Total Products: 11
 - [Mild hybridy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/mild-hybrid): Mild hybridy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-24T12:25:05Z
+  Updated: 2025-11-27T12:26:05Z
   Total Products: 4
 - [Operativní leasing se zimními pneumatikami | Driveto.cz](https://www.driveto.cz/collections/vcetne-zimnich-pneumatik): Operativní leasing se zimními pneumatikami pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-25T12:25:24Z
+  Updated: 2025-11-28T12:31:36Z
   Total Products: 4
 - [Operativní leasing Maxus | Driveto.cz](https://www.driveto.cz/collections/maxus): Operativní leasing Maxus pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-12T11:50:31Z
   Total Products: 0
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/all): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-25T21:19:27Z
-  Total Products: 233
+  Updated: 2025-11-28T23:45:26Z
+  Total Products: 171
 - [Operativní leasing Opel | Driveto.cz](https://www.driveto.cz/collections/opel): Operativní leasing Opel pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-25T12:25:24Z
+  Updated: 2025-11-28T12:31:36Z
   Total Products: 3
 - [BLACK FRIDAY | Driveto.cz](https://www.driveto.cz/collections/black-friday): Využijte Black Friday na Driveto. Operativní leasing na auta skladem nebo s rychlou dostupností. Nejlepší nabídky roku bez starostí a jednoduše online.
-  Updated: 2025-11-25T21:19:27Z
-  Total Products: 22
+  Updated: 2025-11-28T12:31:36Z
+  Total Products: 20
+- [Vánoční nadílka bez čekání](https://www.driveto.cz/collections/vanoce): Naše Vánoční nadílka bez čekání přináší vozy skladem a za skvělé ceny. Žádné dlouhé čekací lhůty a žádné složité podmínky - prostě si vyberte, podepíšete smlouvu a jezdíte.
+  Updated: 2025-11-27T14:12:21Z
+  Total Products: 1
 
 ## Blogs
 
@@ -6370,7 +4478,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Author: Jakub Dvoracek
     Tags: jak zapnout mlhovky, kdy zapnout mlhovky, mlhová světla, mlhovky, zadní mlhová světla, zadní mlhovky symbol
   - [Jak umýt auto v ruční myčce: správný postup krok za krokem](https://www.driveto.cz/blogs/clanky/jak-umyt-auto-v-rucni-mycce-spravny-postup-krok-za-krokem): <p class="p1">Jak umýt auto v samoobslužné myčce krok za krokem: pěna i první oplach odspodu nahoru, finální mytí a sušení shora dolů. Praktický návod pro dokonale čisté auto bez poškození laku.</p>
-    Updated: 2025-11-10T13:47:03Z
+    Updated: 2025-11-26T15:24:35Z
     Author: Jakub Dvoracek
     Tags: bezkontaktní myčka, jak umýt auto v myčce, myčka, ruční myčka, samoobslužná myčka
   - [Za jak dlouho vyprchá alkohol a kdy můžu řídit](https://www.driveto.cz/blogs/clanky/za-jak-dlouho-vyprcha-alkohol-a-kdy-muzu-ridit): <p class="p1">Za jak dlouho vyprchá alkohol a kdy můžete řídit? Přehledná tabulka podle typu piva, váhy a pohlaví. Jaká je tolerance alkoholu v sousedních zemích a proč pomůže jen čas.</p>
@@ -6386,9 +4494,17 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Author: Jakub Dvoracek
     Tags: jak odmlžit auto, mlžení čelního skla, operativní leasing, zamlžování oken v autě
   - [Komu se vyplatí operativní leasing? Kompletní vysvětlení](https://www.driveto.cz/blogs/clanky/komu-se-vyplati-operativni-leasing-kompletni-vysvetleni): <p data-start="1600" data-end="1923">Operativní leasing je dnes jedním z nejpohodlnějších způsobů, jak mít nové auto bez starostí. Vysvětlujeme, jak funguje, komu se vyplatí a v čem může být výhodnější než koupě auta - zejména pokud nechcete platit akontaci, chcete předvídatelné náklady a preferujete možnost jezdit v lepším voze za dostupnou měsíční splátku.</p>
-    Updated: 2025-11-25T13:06:15Z
+    Updated: 2025-11-26T15:23:23Z
     Author: Jakub Dvoracek
     Tags: jak vybrat auto, koupě vs operativni leasing, operativní leasing, výhody operativního leasingu
+  - [Co je to fleet management?](https://www.driveto.cz/blogs/clanky/co-je-to-fleet-management): <p data-start="297" data-end="741">Správa vozového parku - neboli fleet management - patří mezi klíčové oblasti každé firmy, která provozuje služební auta. Ať už jde o malé podnikání se dvěma vozy nebo velkou firmu s desítkami aut, efektivní fleet management rozhoduje o bezpečnosti řidičů, nákladech na provoz i spolehlivosti firemní mobility. V tomto článku vysvětlujeme, co to fleet management je, jak funguje a proč ho dnes stále více firem propojuje s operativním leasingem.</p>
+    Updated: 2025-11-26T19:30:03Z
+    Author: Jakub Dvoracek
+    Tags: fleet management, fleet manager, vozový park
+  - [Vrácení vozu z operativního leasingu: Jak to probíhá, na co si dát pozor a jak funguje odkup auta](https://www.driveto.cz/blogs/clanky/vraceni-vozu-z-operativniho-leasingu-jak-to-probiha-na-co-si-dat-pozor-a-jak-funguje-odkup-auta): <p data-start="426" data-end="788">Vrácení vozu z operativního leasingu je jednoduché, pokud víte, co očekávat. V článku vysvětlujeme, jak celý proces probíhá, co je potřeba před vrácením zkontrolovat, jak funguje odkup auta po operáku a jaké mohou být sankce za předčasné ukončení operativního leasingu. Součástí je i tabulka běžného a nadměrného opotřebení, aby vás při vrácení nic nepřekvapilo.</p>
+    Updated: 2025-11-28T14:25:45Z
+    Author: Jakub Dvoracek
+    Tags: poplatky při vrácení auta, vrácení auta po operáku, vrácení auta po operativním leasingu
 
 ## Store Pages
 
@@ -6400,8 +4516,8 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-07-14T16:45:31Z
 - [O nás | Driveto.cz](https://www.driveto.cz/pages/o-nas): 
   Updated: 2025-07-14T16:43:39Z
-- [Obchodní podmínky | Driveto.cz](https://www.driveto.cz/pages/obchodni-podminky): Níže uvedené odkazy na obchodní podmínky jsou určené pro smlouvy, které uzavřela společnost Driveto s.r.o. jakožto Poskytovatel. Obchodní podmínky ...
-  Updated: 2025-10-19T21:30:07Z
+- [Obchodní podmínky | Driveto.cz](https://www.driveto.cz/pages/obchodni-podminky): Všeobecné obchodní podmínky Všeobecné obchodní podmínky společnosti Driveto s.r.o. Archiv Obchodní podmínky pronájmů aut Všeobecné obchodní podmínk...
+  Updated: 2025-11-27T09:01:15Z
 - [Pravidla nakládání s osobními údaji](https://www.driveto.cz/pages/pravidla-nakladani-s-osobnimi-udaji): 
   Updated: 2025-05-12T12:40:24Z
 - [Pravidla používání cookies | Driveto.cz](https://www.driveto.cz/pages/nastaveni-souboru-cookies): Pravidla používání cookies Driveto s.r.o. Na stránkách www.driveto.cz (dále jen „Driveto.cz“) používáme tzv. cookies, které jsou při vaší návštěvě ...
@@ -6432,7 +4548,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
 ## Policies
 
 - [Privacy Policy](https://www.driveto.cz/policies/privacy-policy)
-  Updated: 2025-09-18T12:58:15+02:00
+  Updated: 2025-11-27T10:03:38+01:00
 - [Contact Information](https://www.driveto.cz/policies/contact-information)
   Updated: 2025-09-18T12:59:59+02:00
 
