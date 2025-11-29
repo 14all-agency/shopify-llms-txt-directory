@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-04-26T12:18:31Z
-- Updated At: 2025-11-27T00:00:25.151Z
+- Updated At: 2025-11-29T00:01:45.808Z
 
 ## Products
 
@@ -262,7 +262,7 @@
   Image: https://cdn.shopify.com/s/files/1/0622/1230/9053/files/portable-wireless-bluetooth-speaker-led-ipx4-waterproof-loudspeaker-outdoor-bathroom-large-suction-cup-mini-stereo-sound-box-268292.webp?v=1746599385
   Price: $46.26 USD
 - [Signature SmartFit Bluetooth Smart Watch for Fitness & Sleep Monitoring - Mullo Signature Collection](https://classicalwearable.com/products/smart-watch-for-women-men-wristwatch-bluetooth-connected-phone-player-music-fitness-sport-bracelet-sleep-monitor-digital-watches): Exclusive signature smartfit bluetooth smart watch for fitness & sleep monitoring from Mullo's premium collection. Limited availability.
-  Updated: 2025-11-26T21:27:01Z
+  Updated: 2025-11-28T09:35:15Z
   Vendor: Mullo Signature Collection
   Product Type: 
   Availability: Available
@@ -703,7 +703,7 @@
   Image: https://cdn.shopify.com/s/files/1/0622/1230/9053/files/19B5FD18957A4D81D100689D826889C2.jpg?v=1746608278
   Price: $57.45 USD
 - [Premium Elite ZL02 Smart Bracelet - Heart Rate & Blood Pressure Monitor with Pedometer - Mullo Signature Collection](https://classicalwearable.com/products/zl02-smart-bracelet-heart-rate-blood-pressure-blood-oxygen-monitoring-sports-pedometer-watch): Exclusive premium elite zl02 smart bracelet - heart rate & blood pressure monitor with pedometer from Mullo's premium collection. Limited availability.
-  Updated: 2025-11-26T21:28:01Z
+  Updated: 2025-11-28T09:33:23Z
   Vendor: Epro Luxe
   Product Type: 
   Availability: Available
@@ -1277,7 +1277,7 @@
   Image: https://cdn.shopify.com/s/files/1/0622/1230/9053/files/29e2ea30-bfee-4885-b0a0-f0d49dd3205b-Max.webp?v=1746932211
   Price: $108.25 USD
 - [Signature Stainless Steel Inlaid Zircon C-Hoop Earrings - Mullo Signature Collection](https://classicalwearable.com/products/stainless-steel-inlaid-zircon-c-hoop-earrings): Exclusive signature stainless steel inlaid zircon c-hoop earrings from Mullo's premium collection. Limited availability.
-  Updated: 2025-11-26T21:29:27Z
+  Updated: 2025-11-28T23:13:59Z
   Vendor: Trend Premier
   Product Type: 
   Availability: Available
