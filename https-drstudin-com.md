@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-12-01T14:02:49Z
 - Contact Email: drs@drstudin.com
-- Updated At: 2025-11-28T00:01:58.072Z
+- Updated At: 2025-11-29T00:01:20.121Z
 
 ## Collections
 
@@ -385,6 +385,9 @@
     Author: Javier Moraes
   - [Allenwood Park: Green Spaces and Community Spirit](https://drstudin.com/blogs/blog/allenwood-park-green-spaces-and-community-spirit)
     Updated: 2025-11-25T15:00:15Z
+    Author: Javier Moraes
+  - [Understanding Implant Rupture: What You Need to Know](https://drstudin.com/blogs/blog/understanding-implant-rupture-what-you-need-to-know)
+    Updated: 2025-11-28T15:00:01Z
     Author: Javier Moraes
 - [News](https://drstudin.com/blogs/news)
   - [Understanding the Postoperative Journey: A Look Into Recovery After Surgery](https://drstudin.com/blogs/news/understanding-the-postoperative-journey-a-look-into-recovery-after-surgery)
