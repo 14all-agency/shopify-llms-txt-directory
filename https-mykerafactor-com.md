@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2017-07-28T20:56:09Z
 - Contact Email: jenny@skinqri.com
-- Updated At: 2025-11-28T00:00:27.822Z
+- Updated At: 2025-11-29T00:01:47.663Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/ac-8.jpg?v=1763738995
   Price: $150.00 USD
 - [Take-Home : KeraFactor Scalp Stimulating Solution (Box of 6)](https://mykerafactor.com/products/take-home-kerafactor-scalp-stimulating-solution-box-of-6): This is a Box of 6 of Patient Take-Home KeraFactor Scalp Stimulating Solution. RRP per Bottle of Solution is $169.00 USD Each highly concentrated 50ml bottle of KeraFactor Solution contains the proprietary KeraFactor Peptide Complex (KFP™). KFP is unique in that it contains 7 Polypeptides that include both specifically selected growth factors and skin proteins to help with hair and scalp health. This patented complex helps to "turn on" weak or resting hair follicles, improve scalp circulation and nutrients to help produce thicker, longer healthy-looking hair. We are very happy to announce the next generation of our proprietary KeraFactor formula, Kerafactor with Nanofluorosomes. Nanofluorosomes are a technology that we have been working on for quite a while at KeraFactor and the new KeraFactor take-home solution is the first to include this new compound. What is a nanofluorosome and why are we so excited to add it into our products? Since the beginning of KeraFactor, we have strived to be the best fertilizer for the scalp, but we also know that being the fertilizer is not good enough alone you also have to try and reduce inflammation and follicle miniaturization. This is where the nanofluorosomes come in. We found a potent anti-inflammatory and anti-androgenic compound and wrapped it into our nanoliposome technology to create a nanofluorosome. What makes the compound even more special is that it is naturally fluorescent, which means this compound can be additionally activated with the correct laser or light source. This is why we call it a nanofluorosome and why this new formula has a yellowish glow to it. Nanofluorosomes can be activated by laser hair caps or machines in the 630-690nm range. Which is already used by many patients to improve hair and scalp circulation and inflammation, now they can add this new formula to their at-home laser routine for even better results. In addition to the solution, each bottle contains a dropper applicator for specific and efficient delivery of the KFP to the scalp and surrounding follicles. IF YOU ARE A LUTRONIC KERALASE CUSTOMER AND WANT THE STARTER KIT CONTAINING 2 OF EACH BOX OF SERUM, SOLUTION, AND SHAMPOO PLEASE ASK THE KERABOT FOR THE DISCOUNT CODE. Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze. List of Ingredients: Water, Pentylene Glycol, Niacinamide, Panthenol, Arginine, Glycerin, Polysorbate 60, p-Anisic Acid, Lecithin, Ascorbyl Glucoside, Phenoxyethanol, Disodium EDTA, Sodium Citrate, Copper Tripeptide-1, Citric Acid, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-1, sh-Polypeptide-11, sh-Polypeptide-71
-  Updated: 2025-11-26T15:05:46Z
+  Updated: 2025-11-28T14:29:16Z
   Vendor: SkinQRI
   Product Type: Hair Care
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/hairtipkera-12-opt.jpg?v=1751549921
   Price: $55.00 USD
 - [KeraFactor®MD In-Office Serum (Box of 5)](https://mykerafactor.com/products/kerafactor-2-0-serum): A specific selection and concentration of the 6 biomimetic growth factors, 2 skin proteins, and 2 compounds for Scalp Revitalization. An in-office hair treatment serum. This serum contains only a high concentration of the proprietary formulation of the Kerafactor Peptide Complex. The KeraFactor Peptide complex MD (KFP) plus we have added Follistatin, PolyDeoxyRiboNuculeotide, and NanoFluorosomes. Each specific peptide is wrapped in a nanoliposome-protected carrier for optimum absorption. This serum is designed for use during an in-office procedure and is NOT TO BE INJECTED. 5ml in a syringe with a silicone duckbill applicator. Easy to apply to the patient’s scalp. Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. For patients with fish allergies, please take a precautionary approach - watch after a cautionary test application. In rare cases, there could be an allergic reaction due to the PDRN in the formula. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. List of Ingredients for the Serum: Water, Pentylene Glycol, sh-Polypeptide-86, sh-Polypeptide-11, sh-Polypeptide-71, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-1, DNA(PDRN), Curcumin, Tetrahydrocurcumin, Lecithin, Arginine, Carbomer, Polysorbate 60, Citric Acid, Sodium Citrate, PhenoxyethanolWe are proudly registered with the FDA Cosmetics Direct portal under MoCRA requirements.
-  Updated: 2025-11-27T21:09:45Z
+  Updated: 2025-11-28T14:29:15Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -149,14 +149,14 @@
     Image: https://cdn.shopify.com/s/files/1/2226/4109/files/ac-31.jpg?v=1763738595
     Price: $108.00 USD
 - [KeraFlex Duo](https://mykerafactor.com/products/keraflex-duo): KeraDuo Laser Cap — Advanced Dual Wavelength Technology Engineered for Elite Hair Rejuvenation Step into the future of hair restoration with the KeraDuo Laser Cap, a next-generation solution engineered with 312 medical-grade laser diodes and dual wavelength technology to deliver unparalleled scalp revitalization. Designed for those who demand results backed by science and crafted with luxury in mind. Scientific Breakthroughs Built Into Every Detail: • 312 Precision-Calibrated Laser Diodes: Complete scalp coverage for maximum light energy delivery at clinically effective dosages. • Dual Wavelength Technology: • 272 diodes at 650nm: Penetrate the epidermis to stimulate follicular metabolism and reawaken dormant hair follicles. • 40 diodes at 808nm (Near Infrared Light): Penetrate deeper into the dermis, enhancing blood flow and delivering oxygen and nutrients at a cellular level. • Flexible Design: Adapts to the contours of your head. • Smart Sensor Activation: Auto-start technology initiates treatment seamlessly once the cap is properly positioned. • Timed 6-Minute Sessions: Designed to deliver therapeutic benefit without overexposure, with automatic shut-off for consistency and safety. • Sleek Protective Carrying Case: Tailored for modern lifestyles — secure, stylish, and ready for travel. The Dual Wavelength Advantage: KeraDuo’s integrated 650nm and 808nm wavelengths represent a synergistic therapeutic approach, simultaneously targeting both surface and deep scalp layers. • 650nm Red Light: Activates mitochondrial function within hair follicles, boosting ATP production for stronger, healthier hair strands. • 808nm Near-Infrared Light: Promotes angiogenesis (formation of new blood vessels) to enhance scalp nourishment and long-term follicle support. This two-tiered system enhances scalp vitality, strengthens hair from root to tip, and promotes visible improvements in thickness, density, and overall scalp health. Sizing Details: Engineered with flexible, comfort-fit materials. The cap’s opening measures approximately 8 inches long by 7 inches wide, flexing to comfortably fit a wide range of head sizes for optimal treatment precision. User Guide for KeraFlex DuoCap will not turn on? There are smart sensors designed to protect your eyes by ensuring the lasers only activate when the cap is correctly in place. Place the cap on your head — it contains smart sensors that prevent it from turning on unless it’s properly positioned. Press and hold the button on the battery pack until it beeps. While facing a mirror, gently lift the front edge of the cap just slightly. You should see a red glow if it’s functioning.
-  Updated: 2025-11-26T21:44:26Z
+  Updated: 2025-11-28T16:47:30Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/4_92fd65ad-ac39-4741-bbdd-48eb5c3823ac.png?v=1764098063
   Price: $1,000.00 USD
 - [KeraFactor® Toiletry Bag 6pk](https://mykerafactor.com/products/kerafactor-toiletry-bag): Elevate your patient experience with the new KeraFactor Toiletry Bag. This sleek black bag is ideal for bundling take-home products like the Scalp Stimulating Solution, 2-in-1 Shampoo & Conditioner, and Scalp Brush. A practical and stylish way to reinforce post-treatment care—and an excellent gift with purchase to boost satisfaction and loyalty. Perfect for: New treatment packages Post-procedure care kits Patient appreciation giveaways Retail bundles
-  Updated: 2025-11-27T21:09:46Z
+  Updated: 2025-11-28T14:29:16Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -184,21 +184,21 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/5_9c4de0f4-3ecf-4f9f-8ff7-33d92e4576d4.png?v=1760070719
   Price: $15.00 USD
 - [KeraFactorMD Buy 4 Get, 1 plus Toiletry Bags Save $560](https://mykerafactor.com/products/kerafactormd-buy-4-get-1-plus-toiletry-bags): Stock your practice with our best professional in office serum and receive a bonus. When you purchase 4 KeraFactorMD Serums for your clinic, you will receive 1 additional KeraFactorMD Serum at no cost plus a set of premium KeraFactor branded toiletry bags. Perfect for clinics who are actively recommending hair restoration treatments and want to have inventory ready for patients who are ready to begin. The KeraFactorMD serum is formulated with biomimetic growth factors, peptides, and copper tripeptides to support healthier looking hair. Our patented nanoliposome delivery helps drive actives where they are needed most by deeply nourishing the scalp to support a fuller, stronger, thicker appearance. This offer is great to promote in practice to increase your upsell revenue and provide patients with a take home product bundle aligned with their in office treatment plan. Includes Buy: 4 KeraFactorMD Serums Get: 1 KeraFactorMD Serum (Free) Get: Premium KeraFactor Toiletry Bags 6pk (Free)
-  Updated: 2025-11-27T21:09:50Z
+  Updated: 2025-11-28T14:29:20Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/ac-22.jpg?v=1763738389
   Price: $2,000.00 USD
 - [Scalp Restore Set](https://mykerafactor.com/products/scalp-restore-set): Reset and revive the scalp with this powerful at home set designed to promote healthier looking hair from the root. The Scalp Restore Set pairs our KeraFactor Scalp Stimulating Solution with the KeraRoller and a set of premium KeraFactor branded toiletry bags for a complete self care experience. The KeraRoller features ultra fine medical grade needles to gently condition the scalp and prep the skin for deeper absorption of the KeraFactor Solution. The Scalp Stimulating Solution is formulated with biomimetic growth factors, peptides, and copper tripeptides to nourish the scalp and support the look of fuller, stronger, more resilient hair. Perfect for maintaining results between in office treatments or as a standalone home care routine, this set makes it easy to elevate scalp health and improve the appearance of density over time. Includes • KeraRoller 6pk • KeraFactor Scalp Stimulating Solution 6pk Easy weekly at home use. No downtime. Consistent use supports visible improvement in scalp and hair vitality.
-  Updated: 2025-11-26T22:39:20Z
+  Updated: 2025-11-28T14:29:20Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/ac-5.jpg?v=1763738306
   Price: $492.15 USD
 - [Total Transformation Trio (KeraFlex Laser Cap plus Solution plus Roller)](https://mykerafactor.com/products/total-transformation-trio-keraflex-laser-cap-plus-solution-plus-roller-plus-toiletry-bags): Experience the most complete at home hair restoration system we offer. The Total Transformation Trio combines three powerful modalities working together to support the look of thicker, stronger, fuller hair. The KeraFlex Laser Cap provides consistent low level light therapy using medical grade laser diodes to support healthier looking hair through increased scalp stimulation. The KeraFactor Scalp Stimulating Solution delivers biomimetic growth factors, peptides, and copper tripeptides to nourish the scalp and support visible density. The KeraRoller gently conditions the scalp and helps enhance absorption of the Solution. This bundle was designed for patients who want the most comprehensive at home program for advanced scalp support and hair appearance improvement. Includes KeraFlex Laser Cap KeraFactor Scalp Stimulating Solution 6pk KeraRoller 6pk This set is perfect for creating a full at home protocol to complement your in office treatments.
-  Updated: 2025-11-26T22:39:21Z
+  Updated: 2025-11-28T14:29:20Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -212,7 +212,7 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/ac-12.jpg?v=1763738205
   Price: $349.35 USD
 - [Ultimate Regeneration Package](https://mykerafactor.com/products/ultimate-regeneration-package): The Ultimate Regeneration Package is designed for practices that want to elevate their hair and scalp treatment offerings with a complete, high performance system. This curated collection combines in-office stimulation, at-home support, and advanced low-level light therapy to help patients achieve fuller, thicker, healthier-looking hair.Save 20% for BFCM
-  Updated: 2025-11-26T22:39:20Z
+  Updated: 2025-11-28T16:47:35Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -229,7 +229,7 @@
 ## Collections
 
 - [Professional Store](https://mykerafactor.com/collections/all)
-  Updated: 2025-11-27T12:05:23Z
+  Updated: 2025-11-28T12:05:21Z
   Total Products: 29
 - [Patient Store](https://mykerafactor.com/collections/buy): buy kerafactor solution shampoo conditioner or keracap laser hair stimulation
   Updated: 2025-03-08T19:40:26Z
