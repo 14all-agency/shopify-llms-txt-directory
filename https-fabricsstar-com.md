@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-11-28T00:00:31.085Z
+- Updated At: 2025-11-29T00:00:35.115Z
 
 ## Products
 
@@ -217,7 +217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/61KKboPNG1L._AC.jpg?v=1757517100
     Price: $1.00 USD
 - [Sensory Wall Reversible Sequin Fabric - Arts & Crafts | Fabrics Star](https://fabricsstar.com/products/sensory-wall-reversible-sequin-fabric): Bring fun and creativity to your projects with Sensory Wall Reversible Sequin Fabric from Fabrics Star. Available in 5 colors, this fabric is easy to flip!
-  Updated: 2025-11-27T08:04:08Z
+  Updated: 2025-11-28T23:50:44Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FESTIVAL-TWILIGHT.jpg?v=1757517134
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Store](https://fabricsstar.com/products/soft-velvet-fabric-1): Soft Velvet Fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Shop now!
-  Updated: 2025-11-26T05:05:06Z
+  Updated: 2025-11-28T21:04:36Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/White.jpg?v=1757517222
     Price: $1.00 USD
 - [Brocade Velvet Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/brocade-scroll-velvet-fabric): Add a touch of sophistication to your upholstery projects with Brocade Scroll Velvet Fabric from Fabrics Star. Buy brocade velvet fabric for premium quality fabric.
-  Updated: 2025-11-25T18:30:15Z
+  Updated: 2025-11-28T22:24:29Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-11-26T22:42:23Z
+  Updated: 2025-11-28T22:43:51Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -8839,7 +8839,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CONFETTI-MULTI.jpg?v=1757518723
     Price: $1.00 USD
 - [CARNIVAL Color Changing Sensory Wall Reversible Sequin Fabric, 52 Inch. in Width](https://fabricsstar.com/products/carnival)
-  Updated: 2025-11-27T08:04:05Z
+  Updated: 2025-11-28T23:50:43Z
   Vendor: Fabrics Star
   Product Type: Reversible Sequin Fabric
   Availability: Available
@@ -9748,7 +9748,7 @@
   Updated: 2025-11-27T12:15:36Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-11-27T12:15:36Z
+  Updated: 2025-11-28T12:14:35Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-11-24T12:15:14Z
@@ -9763,19 +9763,19 @@
   Updated: 2025-11-20T23:16:59Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-11-27T12:15:36Z
+  Updated: 2025-11-28T12:14:35Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-11-27T12:15:36Z
+  Updated: 2025-11-28T12:14:35Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-11-27T12:15:36Z
+  Updated: 2025-11-28T12:14:35Z
   Total Products: 534
 - [72](https://fabricsstar.com/collections/72)
   Updated: 2025-11-27T12:15:36Z
   Total Products: 12
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-11-27T12:15:36Z
+  Updated: 2025-11-28T12:14:35Z
   Total Products: 666
 
 ## Blogs
