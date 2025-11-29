@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-29T12:00:33.478Z
+- Updated At: 2025-11-29T16:00:30.728Z
 
 ## Products
 
@@ -4783,7 +4783,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Midnight Oak Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/midnight-oak-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Experience the elegance of Affinati’s 13 oz Midnight Oak Candle. Featuring a crackling wooden wick and rich notes of oak, amber, and leather, this soy-blend candle delivers a bold, refined fragrance for modern luxury living.
-  Updated: 2025-11-29T01:27:57Z
+  Updated: 2025-11-29T13:28:03Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -4828,7 +4828,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Cinnamon Reserve Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/cinnamon-reserve-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Cozy up with Affinati’s 13 oz Cinnamon Reserve Candle. Hand-poured with a premium soy blend and a crackling wooden wick, this luxurious candle blends cinnamon, amber, and vanilla for a warm, refined fragrance perfect for every season.
-  Updated: 2025-11-29T01:27:57Z
+  Updated: 2025-11-29T13:28:03Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -4873,7 +4873,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Golden Fireside Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/golden-fireside-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Light up luxury with Affinati’s 13 oz Golden Fireside Candle. Crafted with a crackling wooden wick and a soy wax blend, its notes of amber, oak, and smoked vanilla create a warm, sophisticated ambiance.
-  Updated: 2025-11-29T01:27:57Z
+  Updated: 2025-11-29T13:28:03Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -4918,7 +4918,7 @@
     Availability: Available
     Price: $89.95 USD
 - [White Driftwood Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/white-driftwood-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Light up luxury with Affinati’s 13 oz Golden Fireside Candle. Crafted with a crackling wooden wick and a soy wax blend, its notes of amber, oak, and smoked vanilla create a warm, sophisticated ambiance.
-  Updated: 2025-11-29T01:27:57Z
+  Updated: 2025-11-29T13:28:03Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -4963,7 +4963,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Winter Spruce Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/winter-spruce-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Hand-poured with premium soy wax, our 13 oz Winter Spruce Candle fills your space with spruce, amber, and musk—crafted for calm, refined winter living.
-  Updated: 2025-11-29T01:27:56Z
+  Updated: 2025-11-29T13:28:02Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5008,7 +5008,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Pumpkin Cashmere Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/pumpkin-cashmere-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Experience warm pumpkin, amber, and vanilla bean in our 13 oz Pumpkin Cashmere Candle—crafted for elegant autumn comfort.
-  Updated: 2025-11-29T01:27:56Z
+  Updated: 2025-11-29T13:28:02Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5053,7 +5053,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Rose Amour Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/rose-amour-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Immerse in rose, amber, and musk with our 13 oz Rose Amour candle. Hand-poured luxury crafted for refined, romantic living.
-  Updated: 2025-11-29T01:27:56Z
+  Updated: 2025-11-29T13:28:01Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5098,7 +5098,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Vanilla Noir Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/vanilla-noir-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Hand-poured soy blend with smoked vanilla, suede, and amber. The 13 oz Vanilla Noir Candle radiates warmth and sophistication.
-  Updated: 2025-11-29T01:27:56Z
+  Updated: 2025-11-29T13:28:03Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5143,7 +5143,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Velvet Harvest Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/velvet-harvest-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Hand-poured soy blend with chestnut, amber, and vanilla musk. The 13 oz Velvet Harvest Candle brings warmth and sophistication to fall.
-  Updated: 2025-11-29T01:27:55Z
+  Updated: 2025-11-29T13:28:01Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5188,7 +5188,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Espresso Luxe Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/espresso-luxe-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Hand-poured soy blend with espresso, caramel, and vanilla santal. The 13 oz Espresso Luxe Candle delivers refined warmth and café-inspired comfort.
-  Updated: 2025-11-29T01:27:55Z
+  Updated: 2025-11-29T13:28:01Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5248,7 +5248,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Lemon Creme Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/lemon-creme-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Zesty lemon, amber sugar, and vanilla crème in our 13 oz Lemon Crème Candle — a fresh, refined fragrance for elevated living.
-  Updated: 2025-11-29T01:27:55Z
+  Updated: 2025-11-29T13:28:01Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5263,7 +5263,7 @@
     Availability: Available
     Price: $124.95 USD
 - [Golden Paloma Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/golden-paloma-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Infuse your home with radiant warmth. The 13 oz Golden Paloma Candle by Affinati blends grapefruit, pineapple, and amber with a soothing wooden wick for a clean, citrus-luxury burn.
-  Updated: 2025-11-29T01:27:55Z
+  Updated: 2025-11-29T13:28:02Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5323,7 +5323,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Applewood Luxe Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/applewood-luxe-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Warm, smooth, and sophisticated. The 13 oz Applewood Luxe Candle by Affinati blends applewood, pear, and amber in a soy-blend wax with a soothing crackling wooden wick.
-  Updated: 2025-11-29T02:52:19Z
+  Updated: 2025-11-29T13:27:59Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5368,7 +5368,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Lavender Kiss Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/lavender-kiss-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Calming meets luxury with Affinati’s 13 oz Lavender Kiss Candle. A soy-blend candle with lavender, amber, and vanilla tones and a soothing crackling wooden wick.
-  Updated: 2025-11-29T01:27:53Z
+  Updated: 2025-11-29T13:27:59Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5413,7 +5413,7 @@
     Availability: Available
     Price: $89.95 USD
 - [Amethyst Grove Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/amethyst-grove-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Relax and renew with the Amethyst Grove 13 oz Candle. A soy-blend wooden wick candle blending blackberry, sage, and lavender with warm amberwood tones.
-  Updated: 2025-11-29T01:27:53Z
+  Updated: 2025-11-29T13:28:02Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -5458,7 +5458,7 @@
     Availability: Available
     Price: $129.95 USD
 - [Smoked Bourbon Wooden Wick Candle – Luxury 13 oz Soy Blend | Affinati](https://affinatiliving.com/products/smoked-bourbon-wooden-wick-candle-luxury-15-oz-soy-blend-affinati): Smooth bourbon and smoked oak meet amber and vanilla in the 13 oz Smoked Bourbon Candle. Clean-burning soy blend with a soothing wooden wick.
-  Updated: 2025-11-29T01:27:53Z
+  Updated: 2025-11-29T13:28:01Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -7329,56 +7329,56 @@
     Availability: Available
     Price: $72.95 USD
 - [Butterscotch & Bourbon Whipped Soap - 64 oz](https://affinatiliving.com/products/butterscotch-bourbon-whipped-soap-64-oz): Indulge in rich Butterscotch & Bourbon Whipped Soap. A decadent 64 oz creamy lather perfect for daily use, shaving, and luxurious self-care.
-  Updated: 2025-11-29T01:34:14Z
+  Updated: 2025-11-29T13:34:01Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_28_2025_at_08_29_15_PM.png?v=1764380029
   Price: $59.95 USD
 - [Pina Colada Whipped Soap - 64 oz](https://affinatiliving.com/products/pina-colada-whipped-soap-64-oz): Experience tropical luxury with Pina Colada Whipped Soap. A creamy 64 oz blend of pineapple and coconut for daily cleansing, shaving, and self-care.
-  Updated: 2025-11-29T01:46:41Z
+  Updated: 2025-11-29T13:36:26Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_28_2025_at_08_35_05_PM.png?v=1764380166
   Price: $59.95 USD
 - [Apple Cinnamon Whipped Soap - 64 oz](https://affinatiliving.com/products/apple-cinnamon-whipped-soap-64-oz): Enjoy warm Apple Cinnamon Whipped Soap with crisp apple and spice. A cozy 64 oz creamy lather perfect for daily cleansing, shaving, and self-care.
-  Updated: 2025-11-29T01:54:48Z
+  Updated: 2025-11-29T13:54:50Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_28_2025_at_08_54_28_PM.png?v=1764381279
   Price: $59.95 USD
 - [Honey Lavender Whipped Soap - 64 oz](https://affinatiliving.com/products/honey-lavender-whipped-soap-64-oz): Relax with Honey Lavender Whipped Soap. A sweet, calming 64 oz creamy lather perfect for daily cleansing, shaving, and luxurious self-care.
-  Updated: 2025-11-29T01:58:13Z
+  Updated: 2025-11-29T13:58:15Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_28_2025_at_08_57_43_PM.png?v=1764381474
   Price: $59.95 USD
 - [Fruit Fusion Whipped Soap - 64 oz](https://affinatiliving.com/products/fruit-fusion-whipped-soap-64-oz): Brighten your routine with Fruit Fusion Whipped Soap. A juicy 64 oz blend of tropical fruits for daily cleansing, shaving, and luxurious self-care.
-  Updated: 2025-11-29T02:01:48Z
+  Updated: 2025-11-29T14:00:38Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_28_2025_at_09_01_33_PM.png?v=1764381703
   Price: $59.95 USD
 - [Christmas Tree Whipped Soap - 64 oz](https://affinatiliving.com/products/christmas-tree-whipped-soap-64-oz): Bring the holidays to your routine with Christmas Tree Whipped Soap. A fresh pine 64 oz lather perfect for daily cleansing, shaving, and winter self-care.
-  Updated: 2025-11-29T02:08:02Z
+  Updated: 2025-11-29T14:06:04Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_28_2025_at_09_07_36_PM.png?v=1764382069
   Price: $59.95 USD
 - [Blue Spruce Whipped Soap - 64 oz](https://affinatiliving.com/products/blue-spruce-whipped-soap-64-oz): Refresh your routine with Blue Spruce Whipped Soap. A crisp 64 oz blend of spruce, pine, and cedarwood for daily cleansing, shaving, and winter self-care.
-  Updated: 2025-11-29T02:14:29Z
+  Updated: 2025-11-29T14:12:18Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_28_2025_at_09_13_56_PM.png?v=1764382461
   Price: $59.95 USD
 - [Black Raspberry Vanilla Whipped Soap - 64 oz](https://affinatiliving.com/products/black-raspberry-vanilla-whipped-soap-64-oz): Enjoy sweet Black Raspberry Vanilla Whipped Soap. A creamy 64 oz blend of berries and vanilla perfect for daily cleansing, shaving, and luxurious self-care.
-  Updated: 2025-11-29T02:16:38Z
+  Updated: 2025-11-29T14:16:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7391,7 +7391,7 @@
   Updated: 2025-05-15T08:35:05Z
   Total Products: 0
 - [3-Wick Candles](https://affinatiliving.com/collections/3-wick-candles): Discover Affinati’s 3-Wick Candle Collection — luxury soy candles with powerful fragrance throw, clean burn, and elegant jars. Perfect for filling any room with long-lasting scent.
-  Updated: 2025-11-28T12:09:25Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 85
 - [Signature Candles](https://affinatiliving.com/collections/signature-candles): Shop Affinati’s Signature Candle Collection — hand-poured soy candles crafted for long-lasting fragrance and elegant design. Elevate your home with luxury scents made for everyday moments.
   Updated: 2025-11-28T12:09:25Z
@@ -7400,19 +7400,19 @@
   Updated: 2025-11-29T02:16:37Z
   Total Products: 24
 - [Body Lotions](https://affinatiliving.com/collections/body-lotions): Explore Affinati Body Lotions crafted with nourishing ingredients and luxurious scents. Hydrate your skin with eco-friendly, long-lasting moisture in every bottle.
-  Updated: 2025-11-26T14:15:27Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 29
 - [Face Creams](https://affinatiliving.com/collections/face-creams)
   Updated: 2025-11-09T23:34:08Z
   Total Products: 10
 - [Room & Linen Sprays](https://affinatiliving.com/collections/room-linen-sprays): Shop Affinati Room Sprays for long-lasting home fragrance. Premium, eco-friendly scents designed to refresh any room instantly. Luxury quality under $25.
-  Updated: 2025-11-27T16:15:06Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 42
 - [Reed Diffusers](https://affinatiliving.com/collections/reed-diffusers): Fill your home with lasting fragrance from Affinati’s Reed Diffuser Collection — elegant, flame-free diffusers crafted with premium oils for continuous scent.
   Updated: 2025-11-28T12:09:25Z
   Total Products: 39
 - [Body Scrubs](https://affinatiliving.com/collections/body-scrubs): Exfoliate and nourish with Affinati’s Body Scrubs Collection — whipped sugar scrubs crafted with skin-loving ingredients for smooth, glowing skin and long-lasting fragrance.
-  Updated: 2025-11-28T12:09:25Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 6
 - [Custom Whipped Soap](https://affinatiliving.com/collections/custom-whipped-soap)
   Updated: 2025-11-27T13:13:01Z
@@ -7424,16 +7424,16 @@
   Updated: 2025-11-16T12:08:28Z
   Total Products: 3
 - [All Candle Collections](https://affinatiliving.com/collections/all-candle-collections): Shop Affinati’s full Candle Collection — from Wooden Wick and 3-Wick candles to Signature and Original designs. Hand-poured soy candles with long-lasting, luxury fragrance for every space.
-  Updated: 2025-11-29T01:27:59Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 285
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
-  Updated: 2025-11-29T02:16:37Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 95
 - [All Home Care Collections](https://affinatiliving.com/collections/all-home-care-collections)
-  Updated: 2025-11-28T12:09:25Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 81
 - [Apothecary Candles](https://affinatiliving.com/collections/apothecary-candles)
-  Updated: 2025-11-28T12:09:25Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 12
 - [Candles on Sale](https://affinatiliving.com/collections/candles-on-sale)
   Updated: 2025-11-26T18:33:11Z
@@ -7448,64 +7448,64 @@
   Updated: 2025-05-15T08:35:07Z
   Total Products: 0
 - [Original Candles](https://affinatiliving.com/collections/original-candles): Explore Affinati’s Original Candle Collection — hand-poured soy candles designed for everyday luxury. Clean-burning, long-lasting scents that bring warmth and elegance to any space.
-  Updated: 2025-11-28T12:09:25Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 84
 - [Wooden Wick Candles](https://affinatiliving.com/collections/wooden-wick-candles): Discover Affinati’s Wooden Wick Candles — premium soy candles with a cozy crackling burn. Long-lasting, clean fragrance blends designed to create a warm, luxurious atmosphere for your home.
-  Updated: 2025-11-29T01:27:59Z
+  Updated: 2025-11-29T12:11:49Z
   Total Products: 48
 - [Summer Candle Scents](https://affinatiliving.com/collections/summer-scents)
-  Updated: 2025-11-29T01:27:59Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 98
 - [Winter Candle Scents](https://affinatiliving.com/collections/winter-candle-scents)
-  Updated: 2025-11-29T01:27:59Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 121
 - [Fall Candle Scents](https://affinatiliving.com/collections/fall-candle-scents)
-  Updated: 2025-11-29T01:27:59Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 109
 - [Spring Candle Scents](https://affinatiliving.com/collections/spring-candle-scents)
-  Updated: 2025-11-29T01:27:58Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 85
 - [Masculine Candle Scents](https://affinatiliving.com/collections/masculine-scents): Explore the Masculine Candle Collection — bold scents like Smoked Bourbon, Mahogany Teakwood, and Tobacco. Long-lasting 3-wick and wooden wick candles with rich, rugged aromas.
-  Updated: 2025-11-29T01:27:59Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 57
 - [Fruity Candle Scents](https://affinatiliving.com/collections/fruity): Explore the Fruity Scents Collection — candles, diffusers, and room sprays in vibrant aromas like Strawberry Bliss, Blackberry Sage, and Coconut Flakes. Sweet, juicy, long-lasting fragrance for every room.
-  Updated: 2025-11-29T01:27:57Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 60
 - [Nature Candle Scents](https://affinatiliving.com/collections/nature-candle-scents): Discover the Nature Candle Collection — fresh, earthy scents like Eucalyptus Tea, Driftwood & Sea Salt, and Blackberry Sage. Long-lasting candles inspired by the outdoors.
-  Updated: 2025-11-29T01:27:59Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 131
 - [Vanilla Candles](https://affinatiliving.com/collections/vanilla-candles): Indulge in Affinati’s Vanilla Candle Collection—luxury soy wax candles with rich, long-lasting fragrance. Shop 3-wick and signature vanilla candles for cozy nights, stress relief, and everyday comfort.
-  Updated: 2025-11-29T01:27:58Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 23
 - [Lavender Candles](https://affinatiliving.com/collections/lavender-candles): Discover Affinati’s Lavender Candle Collection—luxury soy wax candles crafted to calm, relax, and refresh your space. Shop 3-wick and signature lavender candles for stress relief, sleep, and everyday elegance.
-  Updated: 2025-11-27T16:05:56Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 7
 - [Eucalyptus Candles](https://affinatiliving.com/collections/eucalyptus-candles): Explore eucalyptus candles for relaxation and wellness. Shop Affinati’s eucalyptus mint candles — luxury soy blends with a fresh, calming scent.
   Updated: 2025-11-28T12:09:25Z
   Total Products: 7
 - [Woody Candle Scents](https://affinatiliving.com/collections/woody-candle-scents): Shop the Woody Scents Collection — candles, diffusers, and room sprays in rich aromas like Mahogany Teakwood, Tobacco, and Driftwood & Sea Salt. Warm, earthy, long-lasting fragrance for every space.
-  Updated: 2025-11-29T01:27:59Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 52
 - [Christmas Candles](https://affinatiliving.com/collections/christmas-candles): Discover the best Christmas candles— from peppermint and gingerbread to hot chocolate and White Christmas. Long-lasting candles for cozy holiday nights.
-  Updated: 2025-11-28T12:09:25Z
+  Updated: 2025-11-29T12:11:49Z
   Total Products: 45
 - [Halloween Candles](https://affinatiliving.com/collections/halloween-candles): Shop the Halloween Candle Collection — spooky scents like Pumpkin Spice, Smoked Vanilla, and Fire Roasted Marshmallow. Candles for fall nights.
-  Updated: 2025-11-28T12:09:25Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 30
 - [Thanksgiving Candles](https://affinatiliving.com/collections/thanksgiving-candles): Celebrate Thanksgiving with candles inspired by pumpkin pie, spiced bourbon, and warm vanilla. Long-lasting candles to make your holiday cozy.
-  Updated: 2025-11-28T12:09:25Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 77
 - [Valentine's Candles](https://affinatiliving.com/collections/valentines-candles): Celebrate love with the Valentine’s Day Candle Collection — romantic scents like Strawberry Bliss, Cocoa Butter Cashmere, and Hot Chocolate. Long-lasting 3-wick candles for gifting.
-  Updated: 2025-11-28T12:09:25Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 46
 - [Affinati Accessories](https://affinatiliving.com/collections/accessories): Explore Affinati Accessories — a curated collection of elegant essentials including signature pens, matchboxes, and décor pieces designed to complement your luxury candle experience. Refined, timeless, and made for modern living.
-  Updated: 2025-11-23T11:09:32Z
+  Updated: 2025-11-29T12:11:50Z
   Total Products: 3
 - [Scent Collection Bundles](https://affinatiliving.com/collections/scent-collection-bundles): Explore Affinati’s Scent Collection Bundles—each includes a 3-wick candle, room spray, and body lotion crafted in luxurious, signature fragrances.
   Updated: 2025-11-28T12:09:25Z
   Total Products: 12
 - [Bar Soap](https://affinatiliving.com/collections/bar-soap): Artisan-made 5 oz bar soap crafted with premium oils and natural exfoliants. Nourishing, long-lasting, and gentle on skin with a rich, luxurious lather.
-  Updated: 2025-11-28T12:09:25Z
+  Updated: 2025-11-29T12:11:49Z
   Total Products: 26
 
 ## Blogs
@@ -8111,8 +8111,17 @@
   - [Nécessaire Lotion Review + Best Affordable Luxury Alternative | Affinati](https://affinatiliving.com/blogs/news/necessaire-lotion-review-best-affordable-luxury-alternative-affinati)
     Updated: 2025-11-25T14:48:41Z
     Author: Gerard Collins
+  - [CeraVe Lotion vs Affinati: Best Skincare Alternative Guide | Affinati](https://affinatiliving.com/blogs/news/cerave-lotion-vs-affinati-best-skincare-alternative-guide)
+    Updated: 2025-11-29T15:17:30Z
+    Author: Gerard Collins
+  - [All About Aveeno Lotion – And Why Affinati Is Becoming the Premium Alternative | Affinati](https://affinatiliving.com/blogs/news/all-about-aveeno-lotion-and-why-affinati-is-becoming-the-premium-alternative)
+    Updated: 2025-11-29T15:58:57Z
+    Author: Gerard Collins
+  - [All About Jergens Lotion – Benefits, Ingredients & Best Alternatives](https://affinatiliving.com/blogs/news/all-about-jergens-lotion-benefits-ingredients-and-best-alternatives)
+    Updated: 2025-11-29T15:22:55Z
+    Author: Gerard Collins
   - [All About Hempz Lotion – Benefits, Ingredients & Modern Clean Alternatives](https://affinatiliving.com/blogs/news/all-about-hempz-lotion-benefits-ingredients-modern-clean-alternatives)
-    Updated: 2025-11-27T17:27:31Z
+    Updated: 2025-11-29T15:53:48Z
     Author: Gerard Collins
   - [All About Sol de Janeiro Lotion – Scents, Ingredients & Modern Clean Alternatives](https://affinatiliving.com/blogs/news/all-about-sol-de-janeiro-lotion-scents-ingredients-and-modern-clean-alternatives): All About Sol de Janeiro Lotion – Scents, Ingredients & Modern Clean Alternatives
     Updated: 2025-11-26T19:14:52Z
@@ -8134,6 +8143,9 @@
     Author: Gerard Collins
   - [Tree Hut Body Lotion Guide – Rich Hydration, Fun Fragrance & Modern Alternatives](https://affinatiliving.com/blogs/news/tree-hut-body-lotion-guide-rich-hydration-fun-fragrance-and-modern-alternatives)
     Updated: 2025-11-25T14:53:50Z
+    Author: Gerard Collins
+  - [Dove Body Lotion – Creamy Hydration, Gentle Moisture & Clean Luxury Alternative](https://affinatiliving.com/blogs/news/dove-body-lotion-creamy-hydration-gentle-moisture-and-clean-luxury-alternative)
+    Updated: 2025-11-29T15:25:39Z
     Author: Gerard Collins
 - [Deep Analysis](https://affinatiliving.com/blogs/deep-analysis)
   - [Why Soy Candles Are Better for Your Health (and Your Home)](https://affinatiliving.com/blogs/deep-analysis/why-soy-candles-are-better-for-your-health-and-your-home)
@@ -8701,6 +8713,9 @@
   - [Nécessaire Lotion vs Affinati – Complete Clean Body Care Comparison | Affinati](https://affinatiliving.com/blogs/deep-analysis/necessaire-lotion-vs-affinati-complete-clean-body-care-comparison-affinati)
     Updated: 2025-11-25T14:46:32Z
     Author: Gerard Collins
+  - [All About Aveeno Lotion – Benefits, Ingredients, and Why Affinati Is Becoming the Luxe Alternative for Everyday Skin Hydration | Affinati](https://affinatiliving.com/blogs/deep-analysis/all-about-aveeno-lotion-benefits-ingredients-and-why-affinati-is-becoming-the-luxe-alternative-for-everyday-skin-hydration)
+    Updated: 2025-11-29T15:20:30Z
+    Author: Gerard Collins
   - [Hempz Lotion Guide – Hydration, Ingredients, Best Scents & Modern Alternatives](https://affinatiliving.com/blogs/deep-analysis/hempz-lotion-guide-hydration-ingredients-best-scents-and-modern-alternatives)
     Updated: 2025-11-27T17:25:30Z
     Author: Gerard Collins
@@ -9157,7 +9172,7 @@
     Author: Affinati
     Tags: fitness, health, healthy living, mental wellness, natural wellness solutions, wellness, wellness routine ideas, wellness tips
   - [Beginner's Checklist to Start Your Wellness Journey](https://affinatiliving.com/blogs/affinati-articles/beginners-checklist-to-start-your-wellness-journey): Beginner's Checklist to Start Your Wellness Journey
-    Updated: 2025-11-28T01:35:01Z
+    Updated: 2025-11-29T15:14:44Z
     Author: Affinati
     Tags: balance, beginner wellness journey, health, how to start wellness, mindfulness practices, self-care strategies, wellness, wellness tips
 
