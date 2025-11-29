@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-11-27T00:00:36.694Z
+- Updated At: 2025-11-29T00:01:42.621Z
 
 ## Products
 
@@ -1217,78 +1217,78 @@ Substanta activa: flonicamid 500 g/kg
   Product Type: Seminte Profesionale
   Availability: Available
   Price: 12,99 lei RON
-- [Seminte Busuioc, AGROSEM - 3 GR](https://depozitulgradinarului.ro/products/seminte-busuioc-agrosem-3-gr): Planta viguroasa, foarte aromatica, cu frunze mari de culoare verde intens. Varietate cu frunze medii, netede, ovale și strălucitoare. Intens aromate și parfumate.
-  Updated: 2025-07-28T05:50:35Z
+- [Seminte Busuioc, AGROSEM - 3 GR | Frunze Mari și Aromate](https://depozitulgradinarului.ro/products/seminte-busuioc-agrosem-3-gr): Seminte Busuioc, AGROSEM - 3 GR, plantă anuală aromată cu frunze mari și parfumate, perfectă pentru salate, paste, pizza, pesto și cultură în grădină sau ghivece.
+  Updated: 2025-11-27T21:46:29Z
   Vendor: AGROSEM
   Product Type: Seminte Plante Aromatice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.04_6.jpg?v=1739733575
   Price: 2,99 lei RON
-- [Seminte Cimbru, AGROSEM – 0.4 GR](https://depozitulgradinarului.ro/products/seminte-cimbru-agrosem-0-4-gr): Plantă perenă de culoare verde închis, cu flori albe sau roz cu un puternic miros aromatic. Este folosit ca și condiment.
-  Updated: 2025-11-25T16:28:31Z
+- [Seminte Cimbru, AGROSEM – 0.4 GR | Frunze și Flori Parfumate](https://depozitulgradinarului.ro/products/seminte-cimbru-agrosem-0-4-gr): Seminte Cimbru, AGROSEM – 0.4 GR, plantă perenă aromatică cu frunze și flori parfumate, ideală pentru condimente, fitoterapie și cultivare ușoară în grădină sau ghiveci.
+  Updated: 2025-11-27T21:42:20Z
   Vendor: AGROSEM
   Product Type: Seminte Plante Aromatice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.04.jpg?v=1739733311
   Price: 2,99 lei RON
-- [Seminte Coriandru, AGROSEM – 5 GR](https://depozitulgradinarului.ro/products/seminte-coriandru-agrosem-5-gr): Planta medicinala anuala cu tulpina foarte ramificata, inalta de 50-80 cm, cu flori albe, seminte sferice de culoare gri, folosite la: ceaiuri, condimente, bauturi alcoolice etc. Se seamana la 20-25 cm intre randuri, 8-10 g/10mpatrat.
-  Updated: 2025-07-26T23:53:24Z
+- [Seminte Coriandru, AGROSEM – 5 GR | Frunze și Semințe Parfumate](https://depozitulgradinarului.ro/products/seminte-coriandru-agrosem-5-gr): Seminte Coriandru, AGROSEM – 5 GR, plantă anuală aromatică cu frunze și semințe parfumate, ideală pentru ceaiuri, condimente, băuturi și cultură în grădină sau ghiveci.
+  Updated: 2025-11-27T21:38:51Z
   Vendor: AGROSEM
   Product Type: Seminte Plante Aromatice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.03.jpg?v=1739733204
   Price: 2,99 lei RON
-- [Seminte Lavanda OFFICINALIS, AGROSEM – 0.3 GR](https://depozitulgradinarului.ro/products/seminte-lavanda-officinalis-agrosem-0-3-gr): Lavanda este o specie de plante din genul Lavandula, familia Lamiaceae. Este o plantă aromatică și medicinală, cu tulpini ramificate în tufă, înaltă de 30–50 cm, frunze mici, înguste și flori albastre parfumate. Lavanda perenă este un soi magnific de plante perene care formează tufe dense alcătuite din tije subțiri și flori de culoare mov. Ele apar în abundență pe tot parcursul lunii august, semințele soiului putând fi plantate atât în ghivece, cât și în teren deschis. PLANTARE ȘI ÎNGRIJIRE: Locurile ideale de plantare sunt cele însorite, foarte bine luminate, deoarce prezența soarelui favorizează înflorirea rapidă și dobândirea unor culori intense. Generalitati: Plantare februarie-aprilie Recoltare iulie-septembrie Vegetatie 150 zile
-  Updated: 2025-07-26T16:31:15Z
+- [Seminte LAVANDA Officinalis, AGROSEM – 0.3 GR | Plantă Perenă](https://depozitulgradinarului.ro/products/seminte-lavanda-officinalis-agrosem-0-3-gr): Seminte LAVANDA Officinalis, AGROSEM – plantă perenă aromatică și decorativă, flori mov parfumate, ideală pentru grădină, ghivece, uleiuri esențiale și ceaiuri.
+  Updated: 2025-11-27T21:24:36Z
   Vendor: AGROSEM
   Product Type: Seminte Plante Aromatice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.04_2.jpg?v=1739733410
   Price: 2,99 lei RON
-- [Seminte Leustean, AGROSEM – 0.6 GR](https://depozitulgradinarului.ro/products/seminte-leustean-agrosem-0-6-gr): Planta perena. Se preteaza la consum in stare proaspata, congelare, deshidratare. Se utilizeaza frunzele, lastarii si semintele
-  Updated: 2025-07-29T08:03:28Z
+- [Seminte Leustean, AGROSEM – 0.6 GR | Plantă Aromatică Perenă, Aromă Intensă](https://depozitulgradinarului.ro/products/seminte-leustean-agrosem-0-6-gr): Seminte Leustean, AGROSEM – 0.6 GR, plantă aromatică perenă cu aromă intensă, ideală pentru ciorbe, supe și cultură de lungă durată în grădină.
+  Updated: 2025-11-27T21:16:53Z
   Vendor: AGROSEM
   Product Type: Seminte Plante Aromatice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.04_1.jpg?v=1739733351
   Price: 2,99 lei RON
-- [Seminte Macris, AGROSEM – 1.5 GR](https://depozitulgradinarului.ro/products/seminte-macris-agrosem-1-5-gr): Planta perena pretentioasa la umiditate. Se seamana din martie pana in septembrie. Cultura dureaza 5 ani. Frunzele se consuma proaspete sau se congeleaza
-  Updated: 2025-07-29T07:26:17Z
+- [Seminte Macris, AGROSEM – 1.5 GR | Plantă Perenă cu Gust Acrișor](https://depozitulgradinarului.ro/products/seminte-macris-agrosem-1-5-gr): Seminte Macris, AGROSEM – 1.5 GR, plantă perenă cu frunze acrișoare, bogate în vitamine, ideală pentru salate, supe și cultură în zone umede.
+  Updated: 2025-11-27T19:26:39Z
   Vendor: AGROSEM
   Product Type: Seminte Plante Aromatice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.04_4.jpg?v=1739733496
   Price: 2,99 lei RON
-- [Seminte Marar, AGROSEM – 2 GR](https://depozitulgradinarului.ro/products/seminte-marar-agrosem-2-gr): Planta anuala,cu o inaltime de 50-60 cm, frunze crestate care au miros asemanator cu cel al feniculului. Semintele se folosesc pentru aromatizarea supelor si muraturilor.
-  Updated: 2025-07-28T23:57:27Z
+- [Seminte Marar, AGROSEM – 2 GR | Plantă Aromatică Anuală, Gust Intens](https://depozitulgradinarului.ro/products/seminte-marar-agrosem-2-gr): Seminte Marar, AGROSEM – 2 GR, plantă aromatică anuală cu frunze fine și semințe aromate, ideală pentru supe, murături și cultură în grădină sau ghiveci.
+  Updated: 2025-11-27T19:23:18Z
   Vendor: AGROSEM
   Product Type: Seminte Plante Aromatice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.03_1.jpg?v=1739733273
   Price: 2,99 lei RON
-- [Seminte Menta, AGROSEM – 0.1 GR](https://depozitulgradinarului.ro/products/seminte-menta-agrosem-0-1-gr): Planta perena de 50-60 cm, frunze fara perisori, alungite si zimtate, cu flori de culoare roz in forma de spic si tulpina in 4 muchii. Toate partile plantei au o aroma puternica si foarte placuta, bogate in mentol. Se foloseste in medicina, gastronomie, industria alcoolului, patiserie etc. Semanare in ghiveci.
-  Updated: 2025-07-28T16:38:08Z
+- [Seminte Menta, AGROSEM – 0.1 GR | Plantă Aromatică Perenă, Aromă Intensă](https://depozitulgradinarului.ro/products/seminte-menta-agrosem-0-1-gr): Seminte Menta, AGROSEM – 0.1 GR, plantă perenă aromatică cu aromă intensă, ideală pentru ceaiuri, deserturi, băuturi și cultură în ghivece sau grădină.
+  Updated: 2025-11-27T19:20:41Z
   Vendor: AGROSEM
   Product Type: Seminte Plante Aromatice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.04_8.jpg?v=1739733678
   Price: 2,99 lei RON
-- [Seminte Oregano, AGROSEM – 0.25 GR](https://depozitulgradinarului.ro/products/seminte-oregano-agrosem-0-25-gr): Planta anuala aromatica pentru frunze consumate in stare proaspata sau deshidratata. Este utilizata in industria alimentara, farmaceutica si cosmetica.
-  Updated: 2025-07-26T19:13:30Z
+- [Seminte OREGANO, Agrosem – 0.25 GR | Aromă Intensă](https://depozitulgradinarului.ro/products/seminte-oregano-agrosem-0-25-gr): Seminte Oregano, AGROSEM (0.25 GR) - plantă aromatică cu aromă intensă, ideală pentru pizza, paste, salate, sosuri, ușor de cultivat în grădină sau ghiveci.
+  Updated: 2025-11-27T19:41:54Z
   Vendor: AGROSEM
   Product Type: Seminte Plante Aromatice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.05.jpg?v=1739733737
   Price: 2,99 lei RON
-- [Seminte Rozmarin, AGROSEM – 0.05 GR](https://depozitulgradinarului.ro/products/seminte-rozmarin-agrosem-0-05-gr): Semiarbust peren, inalt de 100-150 cm, cu frunze verzi, inguste, cu flori de culoare albastru deschis, folosit ca planta aromatica in bucatarie, dar si in medicina si in industria parfumurilor. Se seamana in lazi de inmultire. Repicarea se face la 40*30 cm
-  Updated: 2025-07-27T21:47:12Z
+- [Seminte Rozmarin, AGROSEM – 0.05 GR | Plantă Aromatică Perenă](https://depozitulgradinarului.ro/products/seminte-rozmarin-agrosem-0-05-gr): Seminte Rozmarin, AGROSEM – 0.05 GR, plantă aromatică perenă cu frunze înguste, aromă intensă, ideală pentru gătit, ceaiuri și cultivare în grădină sau ghivece.
+  Updated: 2025-11-27T19:11:06Z
   Vendor: AGROSEM
   Product Type: Seminte Plante Aromatice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.12.04_5.jpg?v=1739733536
   Price: 2,99 lei RON
-- [Seminte Rucola, AGROSEM – 7GR](https://depozitulgradinarului.ro/products/seminte-rucola-agrosem-7gr): Planta de frunze cu gust placut pentru condimentare in supe, salate si pizza.
-  Updated: 2025-11-25T19:06:09Z
+- [Seminte Rucola, AGROSEM – 7 GR | Frunze Aromate](https://depozitulgradinarului.ro/products/seminte-rucola-agrosem-7gr): Seminte Rucola, AGROSEM (7 GR) - plante cu frunze verzi, gustoase, cu aromă ușor picantă, ideale pentru salate, creștere rapidă și recolte succesive.
+  Updated: 2025-11-27T19:07:29Z
   Vendor: AGROSEM
   Product Type: Seminte Plante Aromatice
   Availability: Available
@@ -4035,7 +4035,7 @@ Livrare rapidă!
   Updated: 2025-11-25T18:51:58Z
   Total Products: 7
 - [Semințe Plante Aromatice | Busuioc, Mentă, Rozmarin, Oregano, Cimbru, Tarhon, Lavamdă, Salvie, Rucola, Mărar, Măcriș, Leuștean, Coriandru](https://depozitulgradinarului.ro/collections/seminte-plante-aromatice): Descoperă semințe de plante aromatice pentru grădină sau balcon: busuioc, mentă, oregano, cimbru, rozmarin, lavandă și altele. Soiuri productive, gustoase și ușor de cultivat.
-  Updated: 2025-07-21T09:25:56Z
+  Updated: 2025-11-27T09:24:29Z
   Total Products: 13
 - [Semințe de Legume - Macroambalate](https://depozitulgradinarului.ro/collections/seminte-macroambalate): Descoperă gama noastră variată de semințe de legume: profesionale, hibrizi și tradiționale. Alege semințe de calitate superioară pentru o recoltă bogată și sănătoasă în grădina sau sera ta.
   Updated: 2025-11-19T15:43:11Z
@@ -4206,10 +4206,10 @@ Livrare rapidă!
   Updated: 2025-11-05T06:53:12Z
   Total Products: 28
 - [Insecticide Sistemice și de Contact | Combaterea dăunătorilor](https://depozitulgradinarului.ro/collections/insecticide): Alege insecticide sistemice și de contact, eficiente pentru combaterea dăunătorilor. Descoperă gama completă de insecticide agricole și de grădină – soluții avizate pentru combaterea insectelor în toate stadiile de dezvoltare.
-  Updated: 2025-11-16T12:28:50Z
+  Updated: 2025-11-28T12:45:22Z
   Total Products: 46
 - [Fungicide sistemice și de contact | Plante și Culturile Agricole](https://depozitulgradinarului.ro/collections/fungicide): Fungicide sistemice și de contact pentru plantele din grădină, pomi fructiferi, vița-de-vie și culturi agricole – soluții eficiente împotriva bolilor cauzate de ciuperci, pentru plante sănătoase și culturi productive.
-  Updated: 2025-11-16T12:28:50Z
+  Updated: 2025-11-28T12:45:22Z
   Total Products: 36
 - [Adjuvanți Agricoli – Eficiență Sporită pentru Tratamente](https://depozitulgradinarului.ro/collections/adjuvanti): Adjuvanți agricoli profesionali pentru eficiență sporită a  tratamentelor fitosanitare și a îngrășămintelor foliare. Soluții compatibile cu erbicide, fungicide și insecticide pentru eficiență maximă.
   Updated: 2025-07-30T04:25:06Z
@@ -4233,10 +4233,10 @@ Livrare rapidă!
   Updated: 2025-10-28T11:28:07Z
   Total Products: 4
 - [Pesticide Profesionale | Erbicide, Insecticide, Fungicide, ...](https://depozitulgradinarului.ro/collections/pesticide): Alege pesticide profesionale, precum erbicide, insecticide, fungicide, acaricide, dezinfectanți pentru sol, adjuvanti, pentru combaterea bolilor, dăunătorilor și buruienilor.
-  Updated: 2025-11-16T12:28:50Z
+  Updated: 2025-11-28T12:45:22Z
   Total Products: 131
 - [Semințe de Grădină – Legume, Fructe, Flori și Plante Aromatice](https://depozitulgradinarului.ro/collections/seminte-gradina): Explorează selecția noastră de semințe de grădină: legume sanatoase, fructe gustoase, flori colorate și plante aromatice - germinare rapidă. Alege semințe de calitate pentru o grădină roditoare și plină de culoare. Soiuri românești și profesionale pentru o grădină productivă și sănătoasă.
-  Updated: 2025-11-25T18:51:58Z
+  Updated: 2025-11-27T09:24:29Z
   Total Products: 206
 - [Semințe pentru Agricultură | Porumb, Floarea-Soarelui, Plante Furajere](https://depozitulgradinarului.ro/collections/seminte-agricultura): Cumpără semințe agricole profesionale: porumb, floarea-soarelui și plante furajere. Soiuri productive, rezistente la secetă și boli. 
 Livrare rapidă!
@@ -4312,7 +4312,7 @@ Livrare rapidă!
   Updated: 2025-10-27T08:15:28Z
   Total Products: 8
 - [Pachete Tratament Grădină & Agricultură | Pomi Fructiferi, Legume, Vita de Vie, Gazon, Tuia, Flori](https://depozitulgradinarului.ro/collections/pachete-tratament): Alege pachete complete de tratament grădină & agricultură, pentru viță-de-vie, legume, pomi fructiferi, flori, gazon sau tuia. Soluții eficiente împotriva bolilor și dăunătorilor.
-  Updated: 2025-11-18T12:32:03Z
+  Updated: 2025-11-28T12:45:22Z
   Total Products: 12
 - [Produse BIO | Legume, Flori, Pomi, Gazon, Dezinfectant sol, Raticide](https://depozitulgradinarului.ro/collections/produse-bio): Gama completă de produse BIO: tratamente naturale pentru legume, pomi, flori, gazon, sol și combaterea rozătoarelor. Alege soluții ecologice!
   Updated: 2025-10-16T11:31:08Z
@@ -4324,10 +4324,10 @@ Livrare rapidă!
   Updated: 2025-10-27T08:50:37Z
   Total Products: 9
 - [Semințe 2.99 RON](https://depozitulgradinarului.ro/collections/semințe-sub-2-99-ron)
-  Updated: 2025-11-25T18:51:58Z
+  Updated: 2025-11-27T09:24:29Z
   Total Products: 123
 - [Pachete Tratament Pomi Fructiferi – Protecție completă împotriva bolilor și dăunătorilor](https://depozitulgradinarului.ro/collections/pachete-tratament-pomi): Descperă pachetele tratament pentru pomi fructiferi, eficiente împotriva bolilor și dăunătorilor, pentru protejarea pomilor fructiferi și maximizarea producției. Descoperă pachete tratament pomi adaptate fiecărei faze de vegetație.
-  Updated: 2025-10-26T17:08:55Z
+  Updated: 2025-11-28T12:45:22Z
   Total Products: 4
 - [Pachete Tratament Viță de Vie – Protecție Completă pentru Culturi Sănătoase](https://depozitulgradinarului.ro/collections/pachete-tratament-vita-de-vie): Alege pachete tratament viță-de-vie pentru o protecție completă împotriva bolilor și dăunătorilor. Soluții profesionale pentru întreținerea și protejarea culturilor de viță de vie, de la butași la recolta finală.
   Updated: 2025-10-26T17:05:39Z
