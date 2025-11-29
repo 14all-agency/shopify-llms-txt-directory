@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-11-27T00:00:56.941Z
+- Updated At: 2025-11-29T00:01:45.906Z
 
 # Crystals Healing UK – LLMS Overview
 
@@ -1737,7 +1737,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/download_36_-PhotoRoom_8.jpg?v=1739738309
     Price: £26.00 GBP
 - [Root Chakra Bracelet - Grounding & Inner Strength](https://crystalshealing.co.uk/products/root-chakra-bracelet): Promote stability and balance with the Root Chakra Bracelet, designed to enhance grounding energy, emotional security, and resilience.
-  Updated: 2025-11-26T20:03:37Z
+  Updated: 2025-11-27T13:52:24Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -2899,7 +2899,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/Delete_2000x2000px_2_-min_5b8ec6f9-0105-4c0c-b6aa-70666e378481.jpg?v=1739739136
     Price: £37.00 GBP
 - [Aquamarine Jewelry Set – Peace & Courage in Style](https://crystalshealing.co.uk/products/aquamarine-jewelry-set): Discover the elegance of the Aquamarine Jewelry Set—a soothing combo that inspires peace, clarity, and courage. A perfect gift for any occasion.
-  Updated: 2025-11-18T16:34:12Z
+  Updated: 2025-11-27T02:31:13Z
   Vendor: Crystals Healing
   Product Type: Jewelry Sets
   Availability: Available
