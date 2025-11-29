@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-28T20:00:32.158Z
+- Updated At: 2025-11-29T00:02:27.021Z
 
 ## Products
 
@@ -6103,25 +6103,25 @@
   Availability: Available
   Price: $0.00 USD
 - [Medium Wooden Wick Candle Containers (12 Pack)](https://affinatiliving.com/products/medium-wooden-wick-candle-containers)
-  Updated: 2025-11-27T15:52:42Z
+  Updated: 2025-11-28T23:33:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Large Wooden Wick Candle Containers (12 Pack)](https://affinatiliving.com/products/large-wooden-wick-candle-containers)
-  Updated: 2025-11-27T15:53:17Z
+  Updated: 2025-11-28T23:33:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Apothecary Containers](https://affinatiliving.com/products/apothecary-containers)
-  Updated: 2025-11-24T19:47:41Z
+  Updated: 2025-11-28T23:34:17Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [12x12x6 Packing Boxes](https://affinatiliving.com/products/12x12x6-white-packing-boxes)
-  Updated: 2025-11-25T07:49:26Z
+  Updated: 2025-11-28T23:35:15Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6139,7 +6139,7 @@
   Availability: Available
   Price: $0.00 USD
 - [18x18x8 Packing Boxes](https://affinatiliving.com/products/18x18x8-packing-boxes)
-  Updated: 2025-11-24T19:49:12Z
+  Updated: 2025-11-28T23:35:01Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6157,7 +6157,7 @@
   Availability: Available
   Price: $0.00 USD
 - [4x4x4 Packing Boxes](https://affinatiliving.com/products/4x4x4-packing-boxes)
-  Updated: 2025-11-09T23:05:40Z
+  Updated: 2025-11-28T23:36:11Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6175,7 +6175,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Packing Peanuts (5 Cubic Feet Bag)](https://affinatiliving.com/products/packing-peanuts-cubic-feet)
-  Updated: 2025-11-27T03:52:17Z
+  Updated: 2025-11-28T23:34:56Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6339,7 +6339,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/43555DE0-3B0B-4887-ACF7-98B4F1C8F3C6.png?v=1763303900
   Price: $8.95 USD
 - [Vanilla Rose Silk Bar Soap](https://affinatiliving.com/products/vanilla-rose-silk-bar-soap): A romantic mix of vanilla bean and rose petal, whipped with olive and shea butter for a velvety cleanse.
-  Updated: 2025-11-23T14:11:30Z
+  Updated: 2025-11-28T21:09:21Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6668,7 +6668,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7628.png?v=1763384417
   Price: $17.95 USD
 - [50MM Round Product Label Rolls (White)](https://affinatiliving.com/products/50mm-x-80mm-product-label-rolls)
-  Updated: 2025-11-19T08:22:31Z
+  Updated: 2025-11-28T23:34:36Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7101,10 +7101,10 @@
     Availability: Available
     Price: $64.95 USD
 - [ECO 6 6” Wicks Box of 1000](https://affinatiliving.com/products/eco-6-6-wicks-box-of-1000): For 3 Wick.
-  Updated: 2025-11-27T15:51:30Z
+  Updated: 2025-11-28T23:33:25Z
   Vendor: Affinati
   Product Type: 
-  Availability: Not Available
+  Availability: Available
   Price: $0.00 USD
 - [Clean Cotton Whipped Soap - 64 oz](https://affinatiliving.com/products/clean-cotton-whipped-soap-64-oz): Clean Cotton whipped soap in a spacious 64 oz size. Fresh, airy, and crisp with a soft whipped texture. The largest whipped soap size available.
   Updated: 2025-11-28T02:24:06Z
