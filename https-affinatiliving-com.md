@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-29T16:00:30.728Z
+- Updated At: 2025-11-29T20:00:33.369Z
 
 ## Products
 
@@ -7384,6 +7384,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_28_2025_at_09_15_56_PM.png?v=1764382583
   Price: $59.95 USD
+- [Wooden Wick Bowl Lids (12 Pack)](https://affinatiliving.com/products/wooden-wick-bowl-lids-12-pack)
+  Updated: 2025-11-29T17:52:17Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Price: $0.00 USD
 
 ## Collections
 
@@ -8121,7 +8127,7 @@
     Updated: 2025-11-29T15:22:55Z
     Author: Gerard Collins
   - [All About Hempz Lotion – Benefits, Ingredients & Modern Clean Alternatives](https://affinatiliving.com/blogs/news/all-about-hempz-lotion-benefits-ingredients-modern-clean-alternatives)
-    Updated: 2025-11-29T15:53:48Z
+    Updated: 2025-11-29T17:08:40Z
     Author: Gerard Collins
   - [All About Sol de Janeiro Lotion – Scents, Ingredients & Modern Clean Alternatives](https://affinatiliving.com/blogs/news/all-about-sol-de-janeiro-lotion-scents-ingredients-and-modern-clean-alternatives): All About Sol de Janeiro Lotion – Scents, Ingredients & Modern Clean Alternatives
     Updated: 2025-11-26T19:14:52Z
@@ -8713,8 +8719,14 @@
   - [Nécessaire Lotion vs Affinati – Complete Clean Body Care Comparison | Affinati](https://affinatiliving.com/blogs/deep-analysis/necessaire-lotion-vs-affinati-complete-clean-body-care-comparison-affinati)
     Updated: 2025-11-25T14:46:32Z
     Author: Gerard Collins
+  - [CeraVe vs Affinati Lotion: Full Skincare Review | Affinati](https://affinatiliving.com/blogs/deep-analysis/cerave-vs-affinati-lotion-full-skincare-review)
+    Updated: 2025-11-29T17:03:06Z
+    Author: Gerard Collins
   - [All About Aveeno Lotion – Benefits, Ingredients, and Why Affinati Is Becoming the Luxe Alternative for Everyday Skin Hydration | Affinati](https://affinatiliving.com/blogs/deep-analysis/all-about-aveeno-lotion-benefits-ingredients-and-why-affinati-is-becoming-the-luxe-alternative-for-everyday-skin-hydration)
     Updated: 2025-11-29T15:20:30Z
+    Author: Gerard Collins
+  - [All About Jergens Lotion – Benefits, Ingredients, Hydration & Best Alternatives](https://affinatiliving.com/blogs/deep-analysis/all-about-jergens-lotion-benefits-ingredients-hydration-best-alternatives)
+    Updated: 2025-11-29T16:02:08Z
     Author: Gerard Collins
   - [Hempz Lotion Guide – Hydration, Ingredients, Best Scents & Modern Alternatives](https://affinatiliving.com/blogs/deep-analysis/hempz-lotion-guide-hydration-ingredients-best-scents-and-modern-alternatives)
     Updated: 2025-11-27T17:25:30Z
