@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-08-08T02:49:34Z
 - Contact Email: info@lekue.co.nz
-- Updated At: 2025-11-28T00:01:19.890Z
+- Updated At: 2025-11-29T00:00:28.202Z
 
 ## Products
 
@@ -220,27 +220,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/DeepMWSteamCookerwithTray3-4p.-Red-8710755881862Lekue_96dpi_1000x1000px_7_NR-33127.png?v=1737076974
   Price: $89.98 NZD
-- [Reusable Silicone Boxes, Set of 3](https://www.lekue.co.nz/products/set-of-3-reusable-silicone-boxes): Set of 3 reusable silicone food storage containers, replacing single-use plastics. Includes 3 containers with different capacities: 200 ml, 500 ml and 1000 ml, for different portions. Features Preserve food in the fridge and freezer in a hygienic and organized way! Designed to save storage space. They are modular and stackable, helping you keep your fridge and freezer clean and tidy. Perfect for storing fresh ingredients, freezing food in portions or starting your own Batch Cooking. Use them as many times as you want! An eco-friendly alternative to single-use plastic containers. Made of 100% Platinum Silicone, a hygienic, lightweight and resistant material. These containers are suitable for defrosting and heating food directly in the microwave and oven! They have a practical built-in lid and can be nested when empty. The container lid features a special window for noting the contents, making it easier to identify what's inside. Easy to clean and suitable for dishwasher.
-  Updated: 2025-07-15T23:38:26Z
-  Vendor: Lekue
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/ReusablesiliconeBoxesSetof3-Green-8710755881886Lekue_96dpi_1000x1000px_7_NR-33134.png?v=1737331006
-  Price: $44.98 NZD
 - [Reusable silicone Bags, Set of 3](https://www.lekue.co.nz/products/kit-3-reusable-silicone-bags): Reusable platinum silicone bags in 3 different sizes for airtight food storage (0,5L + 1L + 1,5L). Perfect for preserving solid and liquid foods in the fridge, freezer or on shelves. Features 100% leak-proof An eco-friendly alternative to disposable plastic bags and single-use plastic containers. They can even be used for bulk purchases! These bags can be stored in two positions for space optimization: in vertical or horizontal position. Feature an indication of the maximum amount to fill. They have a special area to write the contents or the storage date with a pen. Suitable for defrosting food in the microwave. Just be sure to remove the sealing strip before use. This Set includes 3 essential bags of different sizes. 500 ml: Perfect for preserving or storing small portions, sauces or nuts. 1000 ml: Perfect for preserving or storing 1 or 2 portions, vegetables, side dishes or medium-sized ingredients. 1500 ml: Perfect for preserving or storing soups, creamed vegetables, large ingredients or several servings.
-  Updated: 2025-07-15T23:38:26Z
+  Updated: 2025-11-28T20:40:11Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/Setof3ReusablesiliconeBags-Green-8710755881909Lekue_96dpi_1000x1000px_7_NR-33142.png?v=1737427321
   Price: $69.98 NZD
-- [Reusable Stretch Lids, Set of 3](https://www.lekue.co.nz/products/kit-reusable-flexible-lids-3-u): Reusable lid to preserve food. Smart alternative to food plastic wrap! Features The perfect alternative to single-use plastics like cling film or aluminum foil. Flexible and reusable 100% platinum silicone lid. It can be used to store food airtight in the fridge, with no leakage of smells, keeping food fresher for longer. The lid can be stretched to fit containers with different diameters. Perfect to keep containers, cans and even food like watermelons, oranges, onions… A hermetic seal is achieved by simply pressing down on the top.
-  Updated: 2025-09-22T22:59:45Z
-  Vendor: Lekue
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/ReusableStretchLidsSetof3-Transparent-8710755881985Lekue_96dpi_1000x1000px_7_NR-33170.png?v=1737430040
-  Price: $49.98 NZD
 - [Stackable Big Ice Lolly Moulds, Set of 4](https://www.lekue.co.nz/products/kit-of-4-stackable-popsicles-big): Kit of 4 big stackable moulds to make homemade ice lollies. Features With these large lolly-shaped moulds, you will prepare popsicles at home with the ingredients that you like the most. Its horizontal filling design makes it much more stable, easier and safer, so even the kids can make their own ice cream. The moulds contain a lid that will protect the preparation from smells and flavors. thanks to their shape and the same lid, they are stackable together to save space in the freezer or when storing them. They are very easy to unmould, thanks to the flexibility of platinum silicone, and are dishwasher safe. Dishwasher safe.
   Updated: 2025-07-15T23:38:26Z
   Vendor: Lekue
@@ -473,7 +459,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/SaltCellar-Grey-8710755883323Lekue_96dpi_1000x1000px_7_NR-32951.png?v=1737410115
   Price: $39.99 NZD
 - [Flat Reusable Bags, Set of 3](https://www.lekue.co.nz/products/set-of-3-flat-reusable-bags): Reusable platinum silicone bags in 3 different sizes to store solid food hermetically and preserve it in fridges and freezers. A sustainable alternative to disposable plastic wrapping, throw-away packaging, trays and cling wrap. Features 100% leak-proof. Reusable, they replace single-use plastic bags. Made from platinum silicone, a high quality, hygienic, light and strong material. The thickness of the silicone protects the food from frost. BPA-free. Available in 3 different sizes, they are suitable for all kinds of food. From small portions and small fillets of fish or meat, to medium-sized ingredients or large fillets of meat or fish. Ideal for marinades! Prepare your own marinade and spice blends, creating tastier, juicier dishes. As they don't have a flat bottom, liquids spread evenly over food items, producing a smooth, tasty emulsion. 3 sizes: Size: S: Perfect for storing small portions or a fillet of fish or meat. Size M: Perfect for storing 1 or 2 servings, medium-sized vegetables, garnishes or other ingredients. Size L: Perfect for storing 3-4 fillets of meat or fish
-  Updated: 2025-09-22T22:59:45Z
+  Updated: 2025-11-28T20:40:11Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
@@ -633,11 +619,11 @@
   Updated: 2025-07-15T23:38:19Z
   Total Products: 1
 - [Best Sellers Old](https://www.lekue.co.nz/collections/best-sellers)
-  Updated: 2025-11-08T12:23:21Z
-  Total Products: 89
+  Updated: 2025-11-28T20:40:41Z
+  Total Products: 87
 - [New Arrivals](https://www.lekue.co.nz/collections/new-arrivals)
-  Updated: 2025-11-08T12:23:21Z
-  Total Products: 89
+  Updated: 2025-11-28T20:40:41Z
+  Total Products: 87
 - [Bakeware](https://www.lekue.co.nz/collections/bakeware)
   Updated: 2025-10-28T11:29:09Z
   Total Products: 11
