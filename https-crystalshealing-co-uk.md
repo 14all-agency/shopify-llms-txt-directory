@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-11-29T00:01:45.906Z
+- Updated At: 2025-11-30T00:00:28.467Z
 
 # Crystals Healing UK – LLMS Overview
 
@@ -1000,7 +1000,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/DIGITALGIFTCARD_21.jpg?v=1739737641
   Price: £26.00 GBP
 - [April Birthstone Bracelet – Diamond & Spiritual Meaning](https://crystalshealing.co.uk/products/april-birthstone-bracelet): Celebrate April birthdays with the stunning April Birthstone Bracelet. Features diamonds for fearlessness, creativity & renewal. Adjustable size & gift-ready!
-  Updated: 2025-11-18T16:33:30Z
+  Updated: 2025-11-29T00:41:09Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
