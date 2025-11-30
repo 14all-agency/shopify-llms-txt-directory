@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-29T20:00:33.369Z
+- Updated At: 2025-11-30T04:00:32.542Z
 
 ## Products
 
@@ -5965,10 +5965,10 @@
     Availability: Available
     Price: $64.95 USD
 - [40lb IGI 6006 Wax](https://affinatiliving.com/products/40lb-igi-6006-wax)
-  Updated: 2025-11-24T19:49:40Z
+  Updated: 2025-11-30T00:28:01Z
   Vendor: Affinati
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Price: $0.00 USD
 - [Reed Diffuser Bottles (12 Pack)](https://affinatiliving.com/products/reed-diffuser-bottles)
   Updated: 2025-11-25T07:48:18Z
@@ -6073,25 +6073,25 @@
   Availability: Not Available
   Price: $0.00 USD
 - [3-Wick Red Jars (12 Pack)](https://affinatiliving.com/products/3-wick-red-jars)
-  Updated: 2025-11-27T03:51:51Z
+  Updated: 2025-11-30T00:27:36Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [3-Wick Black Jars (12 Pack)](https://affinatiliving.com/products/3-wick-black-jars)
-  Updated: 2025-11-27T03:52:05Z
+  Updated: 2025-11-30T01:35:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [3-Wick Amber Jars (12 Pack)](https://affinatiliving.com/products/3-wick-amber-jars)
-  Updated: 2025-11-24T19:44:01Z
+  Updated: 2025-11-30T00:27:21Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [3-Wick White Jars (12 Pack)](https://affinatiliving.com/products/3-wick-white-jars)
-  Updated: 2025-11-24T19:44:11Z
+  Updated: 2025-11-30T01:35:31Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6115,10 +6115,10 @@
   Availability: Available
   Price: $0.00 USD
 - [Apothecary Containers](https://affinatiliving.com/products/apothecary-containers)
-  Updated: 2025-11-28T23:34:17Z
+  Updated: 2025-11-30T00:26:06Z
   Vendor: Affinati
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Price: $0.00 USD
 - [12x12x6 Packing Boxes](https://affinatiliving.com/products/12x12x6-white-packing-boxes)
   Updated: 2025-11-28T23:35:15Z
@@ -6169,13 +6169,13 @@
   Availability: Available
   Price: $0.00 USD
 - [Packing Tape (Rolls)](https://affinatiliving.com/products/packing-tape)
-  Updated: 2025-11-24T19:46:56Z
+  Updated: 2025-11-30T00:27:51Z
   Vendor: Affinati
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Price: $0.00 USD
 - [Packing Peanuts (5 Cubic Feet Bag)](https://affinatiliving.com/products/packing-peanuts-cubic-feet)
-  Updated: 2025-11-28T23:34:56Z
+  Updated: 2025-11-30T00:41:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
