@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-30T16:00:32.867Z
+- Updated At: 2025-11-30T20:00:32.603Z
 
 ## Products
 
@@ -4066,7 +4066,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Affinati Luxury Matches | Elegant White Matchbox for Candles & Décor](https://affinatiliving.com/products/affinati-luxury-matches-elegant-white-matchbox-for-candles-decor): Light your candles in style with Affinati Luxury Matches — a sleek white matchbox featuring the signature Affinati logo. Minimal, refined, and perfect for gifting or display.
-  Updated: 2025-11-21T02:50:20Z
+  Updated: 2025-11-30T18:33:51Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6061,7 +6061,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Signature/Original/Sm & Lg Wooden Wick Black Lids (12 Pack)](https://affinatiliving.com/products/signature-black-lids)
-  Updated: 2025-11-23T07:15:48Z
+  Updated: 2025-11-30T16:36:00Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6091,13 +6091,13 @@
   Availability: Available
   Price: $0.00 USD
 - [3-Wick White Jars (12 Pack)](https://affinatiliving.com/products/3-wick-white-jars)
-  Updated: 2025-11-30T01:35:31Z
+  Updated: 2025-11-30T16:35:25Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [3-Wick Lids (12 Pack)](https://affinatiliving.com/products/3-wick-lids)
-  Updated: 2025-11-24T19:44:24Z
+  Updated: 2025-11-30T16:35:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6121,10 +6121,10 @@
   Availability: Not Available
   Price: $0.00 USD
 - [12x12x6 Packing Boxes](https://affinatiliving.com/products/12x12x6-white-packing-boxes)
-  Updated: 2025-11-28T23:35:15Z
+  Updated: 2025-11-30T16:36:15Z
   Vendor: Affinati
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Price: $0.00 USD
 - [8x8x6 White Packing Boxes](https://affinatiliving.com/products/8x8x6-white-packing-boxes)
   Updated: 2025-11-09T23:05:39Z
@@ -6139,7 +6139,7 @@
   Availability: Available
   Price: $0.00 USD
 - [18x18x8 Packing Boxes](https://affinatiliving.com/products/18x18x8-packing-boxes)
-  Updated: 2025-11-28T23:35:01Z
+  Updated: 2025-11-30T16:36:29Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7403,8 +7403,8 @@
   Updated: 2025-11-30T12:10:22Z
   Total Products: 65
 - [Whipped Soap](https://affinatiliving.com/collections/whipped-soap): Lather up with Affinati’s Whipped Soap Collection — creamy, cloud-like soaps that cleanse, hydrate, and leave skin silky smooth with long-lasting luxury fragrance.
-  Updated: 2025-11-29T02:16:37Z
-  Total Products: 24
+  Updated: 2025-11-30T18:19:08Z
+  Total Products: 28
 - [Body Lotions](https://affinatiliving.com/collections/body-lotions): Explore Affinati Body Lotions crafted with nourishing ingredients and luxurious scents. Hydrate your skin with eco-friendly, long-lasting moisture in every bottle.
   Updated: 2025-11-30T12:10:22Z
   Total Products: 29
@@ -7433,8 +7433,8 @@
   Updated: 2025-11-30T12:10:22Z
   Total Products: 285
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
-  Updated: 2025-11-30T12:10:22Z
-  Total Products: 95
+  Updated: 2025-11-30T18:19:08Z
+  Total Products: 99
 - [All Home Care Collections](https://affinatiliving.com/collections/all-home-care-collections)
   Updated: 2025-11-30T12:10:22Z
   Total Products: 81
