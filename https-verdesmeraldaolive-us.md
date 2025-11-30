@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-11-29T00:00:27.777Z
+- Updated At: 2025-11-30T00:01:24.292Z
 
 ## Products
 
@@ -87,7 +87,7 @@
   Updated: 2025-09-30T18:02:29Z
   Total Products: 0
 - [EVOO | Extra Virgin Olive Oil Premium](https://verdesmeraldaolive.us/collections/evoo): Explore our premium Extra Virgin Olive Oil (EVOO), crafted in Jaén, Spain. Award-winning gourmet flavor delivered fresh to your table. Shop online at Verde Esmeralda Olive.
-  Updated: 2025-11-27T12:18:10Z
+  Updated: 2025-11-29T12:25:23Z
   Total Products: 10
 - [Ibéricos](https://verdesmeraldaolive.us/collections/ibericos): Discover our selection of exquisite Iberian products, a journey through the culinary traditions of Spain. Each item is carefully chosen to offer an authentic gastronomic experience, from Iberian ham to chorizo, and the finest delicacies of the Iberian land. Come back soon to explore our full range.
   Updated: 2025-09-30T18:02:30Z
@@ -102,16 +102,16 @@
   Updated: 2025-11-24T12:15:34Z
   Total Products: 4
 - [Give away](https://verdesmeraldaolive.us/collections/give-away)
-  Updated: 2025-11-27T12:18:10Z
+  Updated: 2025-11-29T12:25:23Z
   Total Products: 10
 - [Feature Products](https://verdesmeraldaolive.us/collections/feature-products)
-  Updated: 2025-11-27T12:18:10Z
+  Updated: 2025-11-29T12:25:23Z
   Total Products: 10
 - [APPPlaza - Best Sellers](https://verdesmeraldaolive.us/collections/appplaza-best-sellers)
-  Updated: 2025-11-27T12:18:10Z
+  Updated: 2025-11-29T12:25:23Z
   Total Products: 10
 - [AVADA - Best Sellers](https://verdesmeraldaolive.us/collections/avada-best-sellers)
-  Updated: 2025-11-27T12:18:10Z
+  Updated: 2025-11-29T12:25:23Z
   Total Products: 10
 
 ## Blogs
