@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-11-29T00:01:05.616Z
+- Updated At: 2025-11-30T00:00:49.021Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
@@ -435,7 +435,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/grosse-blumen-brosche-la-strada-9.jpg?v=1719331925
     Price: 8,40 € EUR
 - [Elegantes Feinstrick-Shirt](https://lastradafashion.de/products/elegantes-feinstrick-shirt): Eleganz in ihrer pursten Form: Das Feinstrick-Shirt begeistert mit seiner cleanen Silhouette und dem edlen Look. Der weich fließende V-Ausschnitt bringt feminine Raffinesse ins Spiel, während der körpernahe, aber nicht anliegende Schnitt angenehm schmeichelt. Die glatte Feinstrick-Optik wirkt besonders hochwertig und sorgt in Kombination mit den schmalen, langen Ärmeln für eine stilvolle Linienführung. Dank des edlen Materials trägt sich das Shirt besonders angenehm auf der Haut und bietet hohen Tragekomfort – perfekt für den Alltag und elegante Anlässe. Ein dezentes Highlight, das in keiner stilbewussten Garderobe fehlen darf – ein echtes Must-have!
-  Updated: 2025-11-28T09:43:10Z
+  Updated: 2025-11-29T14:56:36Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -2065,7 +2065,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC0xNzAtNDA2ODM4MjE1MTkwNy1zY2h3YXJ6LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979838
     Price: 52,50 € EUR
 - [Bluse mit verdeckter Knopfleiste](https://lastradafashion.de/products/bluse-mit-verdeckter-knopfleiste-1): Zeitlose Eleganz trifft auf lässige Raffinesse – diese Bluse überzeugt mit klarer Linienführung und hochwertigen Details. Die verdeckte Knopfleiste sorgt für eine cleane Front, während der klassische Hemdkragen dem Look Struktur verleiht. Besonders raffiniert zeigt sich der Schnitt: Der abgerundete, hinten verlängerte Saum umspielt locker die Hüfte und sorgt für eine moderne, feminine Silhouette – perfekt auch zum Layern. Ob im Office mit Stoffhose oder casual zu Jeans – diese Bluse ist ein wandelbares Essential für stilbewusste Looks. Ein echtes Must-have für jede Saison. GrößeOne Size
-  Updated: 2025-11-25T07:55:54Z
+  Updated: 2025-11-29T15:58:00Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -2807,7 +2807,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS01MTctNDA2ODM4MjE1ODQ4Ny10YXVwZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_e80c898f-4e0c-40b2-ae3f-49fc3b0110bc.jpg?v=1761652540
     Price: 41,30 € EUR
 - [Mantel in Kunstfell-Optik](https://lastradafashion.de/products/mantel-in-kunstfell-optik): Dieser Mantel in edler Kunstfell-Optik ist ein Highlight für stilvolle Winter-Looks. Die samtig-weiche Oberfläche verleiht ihm eine luxuriöse Ausstrahlung, während der klassische Kragen und die durchgehende Knopfleiste für Eleganz und Struktur sorgen. Der gerade Schnitt mit mittlerer Länge macht ihn besonders vielseitig – perfekt zu Denim, schmalen Hosen oder eleganten Kleidern. Seitliche Eingrifftaschen unterstreichen die Alltagstauglichkeit und runden das Design ab. Ein kuscheliger Allrounder, der Wärme schenkt und zugleich modische Raffinesse verkörpert – ein Must-have für kalte Tage. Materialzusammensetzung Obermaterial 100 % Polyester Futter 100 % Polyester Pflegehinweis Schonwaschgang bei 30 °C nicht bleichen nicht im Trockner trocknen nicht bügeln nicht chemisch reinigen nicht auswringen HerstellungslandP.R.CPassform und SchnittGerader Schnitt, mittellang bis zum Oberschenkel klassischer KragenFit Guide4MaterialqualitätSehr weich, wärmend, voluminös, formstabil, Eingrifftaschen, KnopfleisteVerarbeitungHochwertige Kunstfell-Optik mit samtig-weicher Haptik, Eingrifftaschen, versteckte KnopfleisteModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-11-25T07:56:04Z
+  Updated: 2025-11-29T22:53:36Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -2829,7 +2829,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxMC03MDAyNTExLTQwNjgzODIxNjA2OTUtY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_9730e7bb-0084-4bef-8526-c01e07c52cd0.jpg?v=1761658570
     Price: 83,30 € EUR
   - [38 / CAMEL](https://lastradafashion.de/products/mantel-in-kunstfell-optik?variant=58841928630621)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcxMC03MDAyNTExLTQwNjgzODIxNjA2MzMtY2FtZWwtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_09fe6b6a-344c-4a16-9c4d-c19a33856518.jpg?v=1761658570
     Price: 83,30 € EUR
   - [38 / CREME](https://lastradafashion.de/products/mantel-in-kunstfell-optik?variant=58841928827229)
@@ -2970,7 +2970,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-11-24T18:33:41Z
   Total Products: 382
 - [Hosen](https://lastradafashion.de/collections/hosen): Hosen von La Strada La Strada präsentiert eine exquisite Auswahl an Hosen, die mit großer Sorgfalt und Liebe zum Detail entworfen wurden. Jede Hose verkörpert die perfekte Balance zwischen Stil und Komfort und bietet Ihnen einen unvergleichlichen Look für jede Gelegenheit. Die Designs unserer Hosen sind vielfältig und reichen von klassischen Schnitten bis hin zu modernen Interpretationen. Egal, ob Sie eine schlanke Silhouette, einen lässigen Boyfriend-Stil oder eine elegante Palazzohose bevorzugen - unsere Kollektion bietet Ihnen die perfekte Auswahl, um Ihren individuellen Stil zu unterstreichen.
-  Updated: 2025-11-28T12:22:17Z
+  Updated: 2025-11-29T12:21:18Z
   Total Products: 321
 - [Tops](https://lastradafashion.de/collections/tops): Tops von La Strada Die Tops von La Strada lassen sich leicht mit anderen Kleidungsstücken kombinieren und eignen sich für verschiedene Anlässe. Sie können sowohl zu Jeans und Sneakers für einen lässigen Look als auch zu einer eleganten Hose oder einem Rock für einen formellen Anlass getragen werden. Mit den Tops von La Strada sind Ihnen keine Grenzen gesetzt, wenn es darum geht, verschiedene Outfits zu kreieren. Die Tops von La Strada sind nicht nur modisch, sondern auch funktional. Sie bieten oft praktische Details wie verstellbare Träger, Knopfleisten oder spezielle Schnitte, die eine optimale Passform und Bewegungsfreiheit ermöglichen.
   Updated: 2025-10-25T18:03:24Z
@@ -2985,7 +2985,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-11-28T12:22:17Z
   Total Products: 399
 - [Italienische Jeans für Damen](https://lastradafashion.de/collections/jeans): Jeans für Damen ✔ Vielseitige Styles ✔ Hochwertiger Denim ✔ Aktuelle Trends ➤ Finden Sie Ihre perfekte Jeans bei La Strada – jetzt online shoppen!
-  Updated: 2025-11-25T12:17:46Z
+  Updated: 2025-11-29T12:21:18Z
   Total Products: 134
 - [Jumpsuits](https://lastradafashion.de/collections/jumpsuits): Jumpsuits von La Strada Die Jumpsuits der italienischen Damenmodemarke La Strada sind ein vielseitiges und trendiges Kleidungsstück, das den Look eines Einteilers verkörpert. Sie vereinen den Komfort einer Hose mit dem Stil eines Oberteils und bieten eine modische Alternative zu traditionellen Outfits. Die Jumpsuits von La Strada sind in verschiedenen Stilen erhältlich, von eleganten und femininen Designs bis hin zu lässigen und sportlichen Varianten. Sie bestehen aus hochwertigen Materialien, die angenehm auf der Haut liegen und eine gute Passform gewährleisten. Jumpsuits sind ein modisches Statement und eignen sich sowohl für formelle Anlässe als auch für entspannte Gelegenheiten. Sie können mit Accessoires und Schuhen kombiniert werden, um den Look zu vervollständigen und Ihren persönlichen Stil zu unterstreichen.
   Updated: 2025-10-21T18:58:58Z
@@ -3102,7 +3102,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T18:55:23Z
   Total Products: 15
 - [Hosen mit weitem Bein](https://lastradafashion.de/collections/hosen-mit-weitem-bein): Hosen mit weitem Bein von La Strada Die Hosen mit weitem Bein von La Strada zeichnen sich durch ihre lockere und fließende Passform aus. Sie bieten Ihnen einen trendigen Look und einen hohen Tragekomfort. Die Hosen mit weitem Bein von La Strada sind in verschiedenen Längen erhältlich, von knöchellang bis bodenlang. Sie können sie mit unterschiedlichen Oberteilen kombinieren, wie zum Beispiel Blusen, Shirts oder Pullovern, um Ihren individuellen Stil zu betonen. Mit ihrer vielseitigen Natur eignen sich die Hosen mit weitem Bein von La Strada für verschiedene Anlässe. Sie können sie sowohl im Büro als auch bei Freizeitaktivitäten tragen. Sie bieten Ihnen eine stilvolle Alternative zu eng anliegenden Hosen und verleihen Ihrem Look eine elegante und moderne Note.
-  Updated: 2025-11-28T12:22:17Z
+  Updated: 2025-11-29T12:21:18Z
   Total Products: 202
 - [High Waist Hosen](https://lastradafashion.de/collections/high-waist-hosen): High Waist Hosen von La Strada Die High Waist Hosen von La Strada sind ein zeitloses Kleidungsstück, das Ihre Figur vorteilhaft betont. Diese Hosen sitzen hoch in der Taille und betonen somit Ihre weiblichen Kurven auf elegante Weise. Mit ihrem klassischen Design und ihrer hochwertigen Verarbeitung sind die High Waist Hosen von La Strada eine stilvolle Wahl für verschiedene Anlässe. Sie können sie sowohl im Büro als auch bei formellen oder informellen Veranstaltungen tragen und immer eine modische Aussage machen. Die hohe Taille der Hosen kann dazu beitragen, Ihre Silhouette zu formen und Ihre Beine optisch zu verlängern. Sie können die High Waist Hosen mit verschiedenen Oberteilen wie Blusen, Shirts oder Pullovern kombinieren, um Ihren persönlichen Stil zum Ausdruck zu bringen.
   Updated: 2025-10-21T18:55:24Z
@@ -3165,7 +3165,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T09:41:05Z
   Total Products: 11
 - [Relaxed Fit Jeans](https://lastradafashion.de/collections/relaxed-fit-jeans): Relaxed Fit Jeans von La Strada Mit den Relaxed Fit Jeans von La Strada kann man einen lässigen und dennoch trendigen Look kreieren. Sie sind eine großartige Wahl für Frauen, die Wert auf Komfort, Stil und Qualität legen und dabei dennoch ihren individuellen Stil zum Ausdruck bringen möchten. Egal ob im Büro, bei Freizeitaktivitäten oder beim Treffen mit Freunden - mit den Relaxed Fit Jeans von La Strada ist man immer modisch gekleidet. Mit ihrem lässigen und zeitlosen Design passen diese Jeans zu vielen verschiedenen Outfits. Man kann sie sowohl casual mit einem T-Shirt und Sneakers tragen als auch etwas schicker mit einer Bluse und Absatzschuhen kombinieren. Die Möglichkeiten sind vielfältig und erlauben es, den individuellen Stil zum Ausdruck zu bringen.
-  Updated: 2025-11-25T12:17:46Z
+  Updated: 2025-11-29T12:21:18Z
   Total Products: 35
 - [Shirts](https://lastradafashion.de/collections/shirts): Shirts von La Strada Die Shirts von La Strada verkörpern das perfekte Zusammenspiel von hochwertigen Materialien, sorgfältiger Verarbeitung und stilvollem Design. Jedes Shirt wurde mit Liebe zum Detail entworfen, um Ihnen einen optimalen Tragekomfort und eine schmeichelhafte Passform zu bieten. Unsere Shirts werden aus erstklassigen Stoffen gefertigt, die sich durch ihre Weichheit, Geschmeidigkeit und Atmungsaktivität auszeichnen. Die sorgfältig ausgewählten Materialien gewährleisten höchsten Tragekomfort und eine lange Lebensdauer Ihrer Shirts. Die Designs unserer Shirts sind vielfältig und reichen von zeitlosen Basics bis hin zu modischen Prints und Verzierungen. Jedes Shirt verkörpert die unverwechselbare Ästhetik und den individuellen Stil, für den La Strada bekannt ist. Unsere Shirts lassen sich mühelos in verschiedene Outfits und Stilrichtungen integrieren. Ob Sie sie lässig zur Jeans oder elegant zu einer Hose kombinieren möchten - unsere Kollektion bietet Ihnen eine große Auswahl an Möglichkeiten.
   Updated: 2025-11-25T12:17:46Z
@@ -3255,7 +3255,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-11-25T12:17:46Z
   Total Products: 77
 - [Kleidung](https://lastradafashion.de/collections/kleidung): Entdecken Sie die inspirierende Welt der italienischen Damenmode mit der Kleidung von La Strada. Unsere exklusiven Kollektionen bieten Ihnen eine vielfältige Auswahl an stilvoller Bekleidung, die perfekt dazu geeignet ist, Ihren individuellen Stil zu unterstreichen. Mode, die Komfort und Stil vereint.
-  Updated: 2025-11-28T12:22:17Z
+  Updated: 2025-11-29T12:21:18Z
   Total Products: 2297
 - [Taschengurte](https://lastradafashion.de/collections/taschengurte): Taschengurte von La Strada Die Taschengurte von La Strada sind ein unverzichtbares Accessoire für alle, die ihre Taschenkollektion aufwerten und personalisieren möchten. Sie sind ein Ausdruck von Stil, Qualität und Praktikabilität, und tragen dazu bei, dass die Tasche zu einem unverwechselbaren und persönlichen Accessoire wird. Das Sortiment umfasst eine breite Auswahl an Taschengurten in verschiedenen Farben, Mustern und Stilen. Von schlichten und einfarbigen Gurten bis hin zu auffälligen Prints und Verzierungen bietet La Strada vielfältige Optionen, um den individuellen Geschmack und Stil jedes Kunden zu treffen.
   Updated: 2025-11-24T18:33:28Z
@@ -3267,7 +3267,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2024-09-04T14:12:32Z
   Total Products: 1
 - [Neu eingetroffene italienische Damenmode](https://lastradafashion.de/collections/neuheiten): Die Neuheiten spiegeln die aktuellen Modetrends wider und bieten den Kunden die Möglichkeit, immer up-to-date zu sein. Jetzt vorbeischauen!
-  Updated: 2025-11-28T12:22:17Z
+  Updated: 2025-11-29T12:21:18Z
   Total Products: 1583
 - [Italienische Abendmode für Damen](https://lastradafashion.de/collections/abend-looks): Italienische Abend-Outfits von La Strada entdecken. Lassen Sie sich von der neusten italienischen Damenmode inspirieren und bestellen Sie bequem, sicher & schnell.
   Updated: 2025-11-24T18:08:30Z
@@ -3309,7 +3309,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T09:41:53Z
   Total Products: 60
 - [Bestseller](https://lastradafashion.de/collections/bestseller): Entdecken Sie die beliebtesten und meistverkauften Stücke von La Strada. Unsere "Bestseller" sind die Favoriten unserer Kundinnen und verkörpern den einzigartigen Stil und die Qualität, für die La Strada bekannt ist. In der "Bestseller"-Kollektion finden Sie eine handverlesene Auswahl an Kleidungsstücken, die sich durch ihre zeitlose Eleganz, erstklassige Qualität und perfekte Passform auszeichnen. Jedes Stück wurde mit Liebe zum Detail entworfen, um Ihnen einen modischen Look und höchsten Tragekomfort zu bieten. Unsere Bestseller repräsentieren eine Vielfalt an Styles und Designs, die jedem Geschmack gerecht werden. Von klassischen Kleidern über vielseitige Blusen bis hin zu bequemen Hosen - unsere Kollektion bietet Ihnen die Möglichkeit, Ihren persönlichen Stil zum Ausdruck zu bringen und sich selbstbewusst zu präsentieren.
-  Updated: 2025-11-28T12:58:22Z
+  Updated: 2025-11-29T12:21:18Z
   Total Products: 104
 - [Italienische Sommerschuhe für Damen](https://lastradafashion.de/collections/homepage-sommerschuhe): Von Pantoletten und Sandalen bis hin zu Espadrilles und Sneakers haben wir für jeden Geschmack und Anlass den passenden Schuh. Jetzt entdecken!
   Updated: 2025-10-21T09:42:35Z
@@ -3360,7 +3360,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T09:39:13Z
   Total Products: 128
 - [Italienische Damenmode im Sale](https://lastradafashion.de/collections/sale): Entdecken Sie unwiderstehliche Angebote und exklusive Schnäppchen zu günstigen Preisen im großen La Strada Sommer Sale. Jetzt sparen!
-  Updated: 2025-11-28T12:22:17Z
+  Updated: 2025-11-29T12:21:18Z
   Total Products: 2297
 - [Luftige italienische Sommerkleider](https://lastradafashion.de/collections/sommerkleider): Die Sommerkleider von La Strada sind in vielen Farben verfügbar und aus leichten Materialien, die luftig und angenehm auf der Haut liegen. Jetzt entdecken!
   Updated: 2025-10-21T09:43:49Z
@@ -3498,7 +3498,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-11-25T12:17:46Z
   Total Products: 22
 - [Sortiment](https://lastradafashion.de/collections/sortiment): Angebote von La Strada La Strada präsentiert eine umfassende Auswahl an italienischer Damenmode, Schuhen und Accessoires. Unser Sortiment spiegelt die Vielfalt der italienischen Mode wider, von zeitlosen Schnitten bis zu modernen Designs. Sorgfältig ausgewählte Stücke betonen die Handwerkskunst und den Stil Italiens. Unsere Damenmode kombiniert klassische Eleganz mit zeitgemäßem Design. Die Schuhkollektion bietet sowohl traditionelle italienische Stiefel als auch moderne Sandalen, die auf Qualität und Komfort setzen. Unsere Accessoires, darunter Taschen, Schmuck und Tücher, runden das Angebot ab und setzen stilvolle Akzente. La Strada zeichnet sich durch ein Augenmerk auf Qualität und Stil aus. Unser Ziel ist es, Frauen jeden Alters zu inspirieren und ihnen die Möglichkeit zu bieten, ihre Persönlichkeit durch Mode auszudrücken. Bei uns finden Sie nicht nur Produkte, sondern ein Erlebnis, das die Eleganz und Kreativität der italienischen Mode betont. Willkommen bei La Strada, wo jedes Stück eine Geschichte erzählt und jede Kollektion die Vielfalt der Mode repräsentiert.
-  Updated: 2025-11-28T12:22:17Z
+  Updated: 2025-11-29T12:21:18Z
   Total Products: 2744
 - [discount_not-on-sale_cap-is-zero](https://lastradafashion.de/collections/not-on-sale)
   Updated: 2025-11-25T12:17:46Z
@@ -3549,7 +3549,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T18:57:17Z
   Total Products: 105
 - [Hosen, Jeans und Röcke online shoppen](https://lastradafashion.de/collections/hose-jeans-und-rocke): Entdecken Sie unsere Kollektion italienischer Hosen, Jeans und Röcke ✔ Vielseitige Styles ✔ Perfekte Passform ➤ Jetzt online shoppen!
-  Updated: 2025-11-25T12:17:46Z
+  Updated: 2025-11-29T12:21:18Z
   Total Products: 364
 - [Frühjahrsjacken](https://lastradafashion.de/collections/fruhjahrsjacken): Frühlingsjacken von La Strada Tauchen Sie ein in die Welt des italienischen Designs, wo jede Jacke nicht nur Funktionalität bietet, sondern auch Stil und Eleganz verkörpert. Unsere Kollektion italienischer Frühjahrsjacken umfasst eine Vielzahl von Stilen und Designs, die von leichten Trenchcoats über trendige Bomberjacken bis hin zu klassischen Blazern reichen. In unserer Kollektion finden Sie eine breite Palette von Jacken, die perfekt für die Übergangszeit geeignet sind. Entdecken Sie unsere Auswahl an Frühjahrsjacken für verschiedene Anlässe. Für einen eleganten und dennoch lässigen Look empfehlen wir unsere leichten Trenchcoats, die perfekt zu einem schicken Outfit für das Büro oder einen Stadtbummel passen. Sie bieten Schutz vor leichtem Regen und Wind und verleihen Ihrem Look eine zeitlose Eleganz. Wenn Sie nach einem trendigen Statement-Look suchen, sind unsere Bomberjacken die perfekte Wahl. Mit ihren coolen Prints und modernen Schnitten sind sie ideal für lässige Outfits am Wochenende oder einen Abend mit Freunden geeignet. Für einen klassischen und dennoch stilvollen Look bieten wir auch Blazer an, die perfekt zu einem schicken Kleid oder einer eleganten Hose passen und Ihrem Outfit eine raffinierte Note verleihen. Sie sind ideal für formelle Anlässe oder wichtige Geschäftstreffen geeignet. Egal, ob Sie sich für einen lässigen, trendigen oder eleganten Look entscheiden, unsere italienischen Frühjahrsjacken werden Ihnen dabei helfen, Ihren persönlichen Stil zum Ausdruck zu bringen und Ihren Look zu vervollständigen. Entdecken Sie jetzt unsere Auswahl an italienischen Frühjahrsjacken und lassen Sie sich von der Schönheit und Qualität des italienischen Designs verzaubern. Mit La Strada sind Sie immer bereit, stilvoll und selbstbewusst in die neue Saison zu starten.
   Updated: 2025-10-25T17:44:59Z
