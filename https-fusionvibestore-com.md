@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-11-27T00:00:45.415Z
+- Updated At: 2025-11-30T00:00:29.465Z
 
 ## Products
 
@@ -1592,7 +1592,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c2105949-4190-4040-911e-eb4ae86ba1b3.jpg?v=1761120612
     Price: $25.23 USD
 - [Women's Fashion Casual Pocket Top](https://fusionvibestore.com/products/womens-fashion-casual-pocket-top): Product information: Design: plants and flowers Style: Pullover Version type: Loose type Sleeve length: Long sleeves Sleeve type: Lantern sleeve Collar type: hooded Thickness: Medium Popular element: Pockets Process: Digital printing Main fabric: Polyester (polyester) Color: Khaki, light grey Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweatshirt X1PCS Product Image:
-  Updated: 2025-11-20T16:26:07Z
+  Updated: 2025-11-29T10:27:15Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -1668,7 +1668,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/722065577519.jpg?v=1761758782
     Price: $18.14 USD
 - [1Pc 150PSI Cordless Tire Inflator Digital Air Compressor With LED Light Emergency Power Bank For Cars Motorcycles Bicycles Balls](https://fusionvibestore.com/products/1pc-150psi-cordless-tire-inflator-digital-air-compressor-with-led-light-emergency-power-bank-for-cars-motorcycles-bicycles-balls): DHL Shipping for single product purchasing. Multiple pack would be fedex shipping, for reference only, the actual shipping carrier would be depended by the location, address, package dimension, product category, geographic location. *Features*: *Fast Inflation*: With a maximum pressure of 150PSI,it takes just a few minutes to pump up a flat tire with this tire inflator. Automatically stop working after completing the air inflation. *4 Inflation Modes*: Long press the Power Button to turn on the cordless tire inflator,short press Mode Button to select preferred modes(Car/Motorcycle/Bicycle/Ball),long press Mode Button to adjust different unit you need,like "PSI","BAR","KPA","KG /CM²" and press "+/-" to choose accurate pressure value. *Digital Display & LED Light*: Equipped with a clear display screen,you can easily check the tire pressure and preset the pressure value. The auto air pump also provides white light to support your inflating needs in low-light environment and red SOS light for seeking help. *Dual Power Supply & Power Bank*: Can be powered by car charger(Not Included) and any device with a USB port. Built-in 4000mAh rechargeable batteries,this portable air compressor can be functioned as an emergency bank to charge your phones,tablets,earphones etc.,which makes you less worried about the low battery condition. *Wide Application*: With 3 inflatable nozzles and 1 inflatable needle,this digital tire inflator is suitable for inflating the tires of cars,bikes,motorbikes,basketballs etc.. Also comes with a carry bag to store the air pump and other accessories. Friendly Reminder: 1.The tire inflator is not a toy,and it is forbidden for children to use it. Please keep a safe distance from children during use. 2.The built-in DC motor may generate electric sparks when working. Please do not use it in a flammable and explosive environment. 3.If abnormal noise or high temperature occurs during work,please turn off immediately. 4.Please confirm the correct measurement unit is selected,otherwise it may cause a tire burst. 5.Do not leave when inflating,and observe the inflation process to prevent the inflation pressure from being too high. 6.Keep the power cord plug away from water. *Specifications*: Product Type: Tire Inflator Material: ABS Color: Black Power Supply: Type-C Charging, Car Charger(Not Included) Built-in Battery: 2Pcs 2000mAh Rechargeable Batteries, 4000mAh In Total(Batteries are not for individual sale) Input: 7.4V/2A Power: 80W Cylinder Specification: 17mm Pressure Units: PSI, KPA, BAR, KG/CM2 Pressure Range: 0.2~10.3bar/3-150psi 4 Inflation Modes: Car, Motorcycle, Bicycle, Ball 3 Light Modes: White Light, Red & Blue Light Slow Flashing, Red Light Fast Flashing 3 Additional Functions: *Used As a 5V/1A Power Bank *Auto Shutoff After Full Air Inflation *Automatically Detect Tire Pressure Status Charging Time: 3-5Hrs Charging Cable Length: 49cm/19.29in Air Tube Length: 20cm/7.87in Carry Bag Size: 14.5×19cm/5.71×7.48in Item Size: 12×8.5×5cm /4.72×3.35×1.97in Item Weight: 379g/0.84 lbs Package Size: 20*20*6cm/7.87*7.87*2.36in Package Weight: 593g/1.31lbs *Package Lists*: 1 x Tire Inflator 1 x Air Tube 1 x Type-C USB Cable 3 x Inflatable Nozzles 1 x Inflatable Needle 1 x Carry Bag 1 x User Manual Actual Product Photo
-  Updated: 2025-11-17T12:26:57Z
+  Updated: 2025-11-28T07:27:09Z
   Vendor: z60ja0-0n
   Product Type: Car Accessories
   Availability: Available
@@ -2969,7 +2969,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61d2ca20-da74-4523-be49-4d850a34073e_92bd9e0e-c61b-4564-8895-ac0ab9f31377.jpg?v=1763534956
     Price: $30.45 USD
 - [High-stretch Dresses, New Summer Nude Anti-walking Sports Dresses](https://fusionvibestore.com/products/high-stretch-dresses-new-summer-nude-anti-walking-sports-dresses): 82.5 polyester 17.5 spandex
-  Updated: 2025-11-19T20:30:42Z
+  Updated: 2025-11-29T09:28:30Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -2995,7 +2995,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2f7ea97c-d000-4fcf-a811-574296378481_348f599c-710b-4a7f-aa8e-d64bee30bdb3.jpg?v=1763535095
     Price: $28.78 USD
 - [Sports Yoga Jumpsuit Sleeveless Quick-drying Thread Tight Fit Fitness One-piece Yoga Suit](https://fusionvibestore.com/products/sports-yoga-jumpsuit-sleeveless-quick-drying-thread-tight-fit-fitness-one-piece-yoga-suit): 90 nylon 10 spandex q
-  Updated: 2025-11-19T18:54:01Z
+  Updated: 2025-11-29T09:28:30Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -3013,7 +3013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c3f92284-06af-42fd-97d2-5f32fac02940_ebfbb34d-f6d6-4f13-8a73-147146c245b4.jpg?v=1763535248
     Price: $30.45 USD
 - [Ladies' Mid-length Solid Color Belt Coat, Casual Commuting Elegant Versatile Autumn And Winter Outerwear, Stand Collar Single-button Long Sleeve Coat.](https://fusionvibestore.com/products/ladies-mid-length-solid-color-belt-coat-casual-commuting-elegant-versatile-autumn-and-winter-outerwear-stand-collar-single-button-long-sleeve-coat): Composition:100.0% Polyester;
-  Updated: 2025-11-19T18:56:32Z
+  Updated: 2025-11-29T09:28:33Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
