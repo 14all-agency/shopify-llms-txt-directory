@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-11-29T00:00:28.442Z
+- Updated At: 2025-11-30T00:01:15.705Z
 
 ## Products
 
@@ -318,7 +318,7 @@
   Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/products/LOOKING_GOOD_ALL3_SQ_CHIC.jpg?v=1709910963
   Price: $22.95 USD
 - [The Blissful Dog Rich Bitch & Drama Queen Shampoo for Diva Dogs](https://theblissfulpets.com/products/drama-queen-shampoo-soap): Rich Bitch & Drama Queen Shampoo & Soap has moisturizing botanicals that infuse the coat with brilliance. Drama Queen label for PG bathing. FREE Shipping USA
-  Updated: 2025-10-05T02:11:59Z
+  Updated: 2025-11-29T21:06:35Z
   Vendor: The Blissful Dog
   Product Type: SHAMPOO
   Availability: Available
@@ -1597,10 +1597,10 @@
   Updated: 2025-11-19T18:35:54Z
   Total Products: 8
 - [Dog Grooming](https://theblissfulpets.com/collections/dog-grooming)
-  Updated: 2025-11-26T12:22:47Z
+  Updated: 2025-11-29T12:38:41Z
   Total Products: 19
 - [Shop All Dog](https://theblissfulpets.com/collections/shop-all-dog)
-  Updated: 2025-11-26T12:22:47Z
+  Updated: 2025-11-29T12:38:41Z
   Total Products: 37
 - [Sensitive Skin](https://theblissfulpets.com/collections/sensitive-skin)
   Updated: 2025-11-08T12:26:09Z
