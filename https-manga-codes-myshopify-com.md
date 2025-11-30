@@ -6,7 +6,7 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2025-10-02T13:46:43Z
 - Contact Email: me@manga.codes
-- Updated At: 2025-11-29T00:00:27.339Z
+- Updated At: 2025-11-30T00:00:28.231Z
 
 ## Collections
 
