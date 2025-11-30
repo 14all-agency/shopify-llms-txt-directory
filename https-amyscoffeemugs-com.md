@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2018-12-15T16:04:33Z
 - Contact Email: amy@amyscoffeemugs.com
-- Updated At: 2025-11-29T00:02:14.132Z
+- Updated At: 2025-11-30T00:02:08.728Z
 
 Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our collection includes artist-designed mugs, insulated tumbler cups, and travel mugs made to bring joy, warmth, and a personal touch to every sip.
 
@@ -12654,10 +12654,10 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
 ## Collections
 
 - [Ceramic Mugs, Travel Mugs, and Tumbler Cups | Gifts, Perfect for you!](https://amyscoffeemugs.com/collections/all-mugs-and-cups): Discover cute, stylish mugs, tumblers, and travel mugs featuring animals, gnomes, sports, patterns, hobbies, and more. Personalization options for gift-giving!
-  Updated: 2025-11-28T12:04:43Z
+  Updated: 2025-11-29T12:09:14Z
   Total Products: 977
 - [Ceramic Coffee Mugs | Unique Designs, Dishwasher and Microwave Safe](https://amyscoffeemugs.com/collections/ceramic-coffee-mugs): Shop 11oz or 15oz ceramic mugs with unique designs, including animals, seasonal, patterns, and personalized options. Dishwasher and microwave safe. Shop now!
-  Updated: 2025-11-28T12:04:43Z
+  Updated: 2025-11-29T12:09:14Z
   Total Products: 577
 - [Travel Mugs for Everyone | Stylish, Tapered, Stainless Steel Insulated](https://amyscoffeemugs.com/collections/travel-mugs): Shop stainless steel travel mugs with colorful or seasonal designs, personalization, & spill-resistant lids. Perfect for gifting and keeping drinks hot or cold.
   Updated: 2025-11-20T12:04:58Z
@@ -12675,7 +12675,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-11-19T12:05:27Z
   Total Products: 108
 - [Pattern Mugs, Travel Mugs, Tumbler Cups | Unique Designs for Everyone](https://amyscoffeemugs.com/collections/pattern): Discover pattern mugs and tumbler cups in seasonal, stylish, or cute animal designs. Find your favorite pattern and enjoy every sip. Shop the collection today!
-  Updated: 2025-11-28T12:04:43Z
+  Updated: 2025-11-29T12:09:14Z
   Total Products: 805
 - [Pink Mugs, Travel Mugs, and Tumbler Cups | Cute, Fun, and Stylish](https://amyscoffeemugs.com/collections/pink): Shop this collection of pink mugs and tumblers with cute animals, flowers, hearts, gnomes, hobbies, and more. Great for everyday use or as a cheerful gift.
   Updated: 2025-11-21T15:39:06Z
@@ -12696,7 +12696,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-11-24T12:04:30Z
   Total Products: 165
 - [Black and White Mugs, Travel Mugs, & Tumblers | Stylish Drinkware](https://amyscoffeemugs.com/collections/black-white): Shop black and white mugs and tumblers with patterns like polka dots, buffalo plaid, zebra, cow, and hearts. Perfect for gifts or stylish black and white decor!
-  Updated: 2025-11-21T17:49:51Z
+  Updated: 2025-11-29T12:09:14Z
   Total Products: 43
 - [Green Mugs, Travel Mugs, Tumbler Cups | Personalized & Stylish Designs](https://amyscoffeemugs.com/collections/green): Shop these green mugs, travel mugs, and tumblers with frogs, sports, clovers, polka dots, personalized gifts, and more. Perfect for coffee lovers everywhere!
   Updated: 2025-11-22T12:05:45Z
@@ -12726,7 +12726,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-11-09T12:06:53Z
   Total Products: 30
 - [Polka Dot Mugs and Tumbler Cups | Stylish Drinkware & Discounted Sets](https://amyscoffeemugs.com/collections/polka-dot): Explore our Polka Dot Mugs and Tumbler Cups collection. Stylish drinkware in many colors and styles. Perfect for any kitchen décor or coffee bar. Shop now!
-  Updated: 2025-11-28T12:04:43Z
+  Updated: 2025-11-29T12:09:14Z
   Total Products: 84
 - [Penguin Mugs, Travel Mugs, and Tumbler Cups | Fun Penguin Gifts](https://amyscoffeemugs.com/collections/penguin): Shop this collection of penguin coffee mugs and tumbler cups, perfect gifts for penguin lovers. Adorable designs bring joy with every sip, at home or on the go.
   Updated: 2025-11-06T13:42:07Z
