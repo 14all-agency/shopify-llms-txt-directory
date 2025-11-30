@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-11-29T00:00:33.425Z
+- Updated At: 2025-11-30T00:00:29.723Z
 
 ## Products
 
@@ -1464,7 +1464,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MEDVANCEBACKREST.jpg?v=1751478404
   Price: ₹2,400.00 INR
 - [Buy ​Medvance Koucher Artery Forceps - Surgismart](https://surgismart.in/products/medvance-koucher-artery-forceps): Introducing Medvance Koucher Artery Forceps - the ultimate tool for precision and control in your medical procedures. With its unique design and high-quality construction, this forceps allows for easier and more efficient artery clamping. Don't settle for less, choose Medvance Koucher for top-notch performance and superior results. - Surgismart
-  Updated: 2025-10-15T09:37:34Z
+  Updated: 2025-11-29T06:27:33Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
@@ -3277,7 +3277,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-11-28T12:18:35Z
+  Updated: 2025-11-29T12:28:15Z
   Total Products: 153
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-11-10T12:17:21Z
@@ -3460,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-11-28T12:18:35Z
+  Updated: 2025-11-29T12:28:15Z
   Total Products: 5
 
 ## Blogs
