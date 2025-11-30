@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2024-10-10T13:12:01Z
 - Contact Email: contact@droneagricole.ro
-- Updated At: 2025-11-27T00:01:02.290Z
+- Updated At: 2025-11-30T00:01:13.994Z
 
 ## Products
 
@@ -17,13 +17,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/660fbf1d449d7c63a55e652b_DronaAgricolaDJIAgrasT50Main_1.webp?v=1735566082
   Price: 67.455,20 lei RON
-- [DJI DB1560 Intelligent Flight Battery](https://droneagricole.ro/products/dji-db1560-intelligent-flight-battery)
-  Updated: 2025-08-20T07:46:40Z
-  Vendor: DJI
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/baterie.png?v=1728887256
-  Price: 13.399,00 lei RON
 - [Stație de răcirea acumulatorilor - DJI Agras T50](https://droneagricole.ro/products/stație-de-racirea-acumulatorilor-dji-agras-t50)
   Updated: 2025-08-20T07:47:41Z
   Vendor: DJI Agriculture
@@ -871,13 +864,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/MID_64941.png?v=1733484356
   Price: 2.236,00 lei RON
-- [Rezervor solutie 30l DJI Agras T30 YC.JG.CS000007.06](https://droneagricole.ro/products/rezervor-solutie-30l-dji-agras-t30-yc-jg-cs000007-06): Rezervor soluție 30l compatibil cu DJI Agras T30. Cod piesă: YC.JG.CS000007.06
-  Updated: 2025-08-21T18:53:53Z
-  Vendor: DJI Agriculture
-  Product Type: Piese de schimb
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/MID_64771.png?v=1733484635
-  Price: 786,50 lei RON
 - [Carcasa superioara spate DJI Agras T30 YC.JG.ZS001056.05](https://droneagricole.ro/products/carcasa-superioara-spate-dji-agras-t30-yc-jg-zs001056-05): Carcasă superioară spate compatibilă cu DJI Agras T30. Cod piesă: YC.JG.ZS001056.05
   Updated: 2025-10-15T07:56:20Z
   Vendor: DJI Agriculture
@@ -1173,12 +1159,12 @@
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/WhatsAppImage2024-12-20at08.42.51_1_7615453c-7f64-472f-a4ee-07657a4232df.jpg?v=1734680716
   Price: 31.711,50 lei RON
 - [Acumulator Inteligent de Zbor DB1560 DJI Agras T50](https://droneagricole.ro/products/test): Acumulator Inteligent de Zbor DB1560 este o baterie de înaltă performanță, proiectată special pentru dronele agricole DJI pentru a asigura o funcționare eficientă și de lungă durată. Model: BAX702-30000mAh-52.22V Capacitate mare: 30.000 mAh, ideală pentru operațiuni extinse de pulverizare sau împrăștiere. Tensiune nominală: 52,22 V, oferind stabilitate și putere optimă în timpul zborului. Greutate: Aproximativ 12,1 kg, construită pentru a echilibra performanța și portabilitatea.
-  Updated: 2025-08-20T07:47:05Z
+  Updated: 2025-11-27T07:40:11Z
   Vendor: DJI Agriculture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/riagro-168_ffad1734-9277-45cb-9521-f6058f466f21.jpg?v=1734866701
-  Price: 13.090,00 lei RON
+  Price: 13.399,00 lei RON
 - [Acumulator Inteligent de Zbor DB800 DJI Agras T25](https://droneagricole.ro/products/baterie-inteligenta-de-zbor-db1560-dji-agras-t50-copy): Compatibilitate: Dronele agricole DJI Agras T25Greutate: Aproximativ 6.6 kgCapacitate: 15.500 mAhTensiune nominală: 52.22 VCicluri de încărcare garantate: Până la 1.500 de cicluri (conform specificațiilor producătorului). Bateria inteligentă DJI DB800 este concepută pentru a asigura performanțe maxime și durabilitate pentru drona agricolă DJI Agras T25. Cu o capacitate generoasă de 15.500 mAh și o tensiune nominală de 52.22 V, această baterie susține zboruri lungi și eficiente. Sistemul de gestionare inteligentă a energiei protejează bateria împotriva supraîncărcării, descărcării excesive și altor posibile avarii, garantând astfel o durată de viață extinsă. Cu 1.500 de cicluri de încărcare garantate, bateria DB800 reprezintă o investiție de încredere pentru operatorii agricoli care au nevoie de fiabilitate și eficiență pe teren. Aceasta este soluția ideală pentru utilizatorii care doresc să maximizeze performanța și productivitatea dronei lor DJI Agras T25.
   Updated: 2025-08-20T07:47:30Z
   Vendor: DJI Agriculture
@@ -1186,6 +1172,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/riagro-171.jpg?v=1734896814
   Price: 8.860,00 lei RON
+- [Acumulator Inteligent de zbor DJI Agras T30](https://droneagricole.ro/products/adaptor-elice-inferior-dji-agras-t50-yc-jg-qx002177-07-copy): Acumulator Inteligent de zbor DJI Agras T30 - Model BAX 501 Optimizată pentru performanță și durabilitate, bateria inteligentă DJI Agras T30 (Model BAX 501) este esențială pentru a maximiza eficiența operațiunilor agricole. Cu o capacitate impresionantă și tehnologie avansată, această baterie oferă timpi de zbor extinși și fiabilitate ridicată pentru drona DJI Agras T30. Specificații tehnice: Model: BAX 501 (29,000 mAh - 51.8 V) Capacitate: 29,000 mAh, pentru zboruri extinse și productive. Tensiune nominală: 51.8 V, optimizată pentru DJI Agras T30. Tip baterie: Litiu-ion. Energie: 1,500 Wh. Greutate: Aproximativ 10.1 kg. Timp de încărcare: Doar 10 minute cu încărcătorul DJI Agras T30. Cicluri de viață: Peste 1.000 de cicluri în condiții standard. Interval de temperatură de funcționare: -10°C până la 40°C. Temperatura de încărcare: 0°C până la 40°C. Rată de descărcare: 11.5 C. Rezistență: Grad de protecție IP54. Compatibilitate: Concepută exclusiv pentru DJI Agras T30, această baterie asigură performanțe optime și integrare perfectă cu drona, fiind soluția ideală pentru utilizatorii din agricultură.
+  Updated: 2025-11-27T07:36:42Z
+  Vendor: DJI Agriculture
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/bateriet30.webp?v=1734897922
+  Price: 9.935,31 lei RON
 - [Stație inteligentă de încărcare DJI C8000](https://droneagricole.ro/products/acumulator-inteligent-de-zbor-db1560-dji-agras-t50-copy): Stația Inteligentă de Încărcare DJI C8000 Specificații: Putere maximă de ieșire: 7200 W (Intrare duală), 3600 W (Intrare unică) Tensiune de intrare: 90-264 V AC Tensiune de ieșire: 42-59.92 V DC Canale de ieșire: 2 Temperatura de operare: -20° până la 45°C Compatibilitate: Baterii DB2000 pentru DJI FlyCart 30 Baterii DB800 pentru DJI Agras T25 Baterii DB1560 pentru DJI Agras T50 Baterii BAX501-29000mAh pentru DJI Agras T30 Baterii BAX501-9500mAh pentru DJI Agras T10
   Updated: 2025-09-02T00:13:14Z
   Vendor: DJI Agriculture
@@ -1769,10 +1762,10 @@
   Updated: 2025-11-07T12:41:10Z
   Total Products: 31
 - [DJI Agras](https://droneagricole.ro/collections/dji-agras)
-  Updated: 2025-10-23T12:12:38Z
+  Updated: 2025-11-27T07:40:12Z
   Total Products: 35
 - [Accesorii Drone Agricole](https://droneagricole.ro/collections/accesorii-piese)
-  Updated: 2025-10-09T07:46:10Z
+  Updated: 2025-11-27T07:40:36Z
   Total Products: 9
 - [Piese Drone Agricole](https://droneagricole.ro/collections/piese-drone-agricole)
   Updated: 2025-10-16T07:28:42Z
@@ -1802,7 +1795,7 @@
   Updated: 2025-08-20T07:47:19Z
   Total Products: 5
 - [Acumulatori](https://droneagricole.ro/collections/acumulatori)
-  Updated: 2025-10-23T12:12:38Z
+  Updated: 2025-11-27T07:40:12Z
   Total Products: 3
 - [Stații de încărcare](https://droneagricole.ro/collections/stații-de-incarcare)
   Updated: 2025-10-01T15:00:01Z
