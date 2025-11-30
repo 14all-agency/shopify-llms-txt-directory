@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2023-05-31T17:47:33Z
 - Contact Email: propadeltoulouse@outlook.fr
-- Updated At: 2025-11-29T00:02:01.769Z
+- Updated At: 2025-11-30T00:01:50.204Z
 
 ## Products
 
@@ -333,7 +333,7 @@
     Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/IMG-2636.png?v=1725651639
     Price: 108,00 € EUR
 - [Sac de Padel Nox Pro Séries](https://www.mypropadelshop.fr/products/sac-de-padel-nox-pro-series): Nox Pro Series 2023 – Sac de padel fonctionnel, sobre et élégant Présentation La marque espagnole Nox dévoile la nouvelle édition de son célèbre sac de padel Pro Series 2023, l’un de ses modèles les plus plébiscités. Avec son design entièrement noir, il allie élégance, praticité et durabilité, incarnant le savoir-faire de Nox dans le monde du padel. Un sac pensé pour les joueurs exigeants qui veulent allier style et organisation optimale sur les courts. Design et conception Le Nox Pro Series 2023 se distingue par son look sobre et raffiné, idéal pour les joueurs souhaitant un accessoire à la fois professionnel et discret. Fabriqué à partir de matériaux résistants, il offre une excellente tenue dans le temps et une protection renforcée pour tout votre équipement. Son format spacieux et bien pensé assure une organisation parfaite de vos affaires de sport. Compartiments et fonctionnalités Un sac complet pour tout votre matériel Grand compartiment central : vaste espace permettant de ranger vêtements, serviettes et accessoires sans effort. Son volume généreux vous offre toute la place nécessaire pour vos entraînements ou tournois. Poche thermique latérale : dédiée à vos raquettes de padel (jusqu’à 2), cette poche bénéficie d’un revêtement isolant qui protège vos palas des variations de température. Poches latérales supplémentaires : parfaites pour vos petits accessoires, balles, téléphone ou objets personnels, elles permettent un rangement organisé et sécurisé. Compartiment ventilé pour chaussures : situé sous le sac, il isole vos chaussures du reste du contenu et assure une aération constante pour éviter les mauvaises odeurs. Confort et transport Le Thermo Pro Series 2023 a été conçu pour un confort de port optimal. Ses lanières ajustables type sac à dos facilitent le transport sur les épaules, tandis que sa poignée rembourrée permet de le porter facilement à la main. Un sac ergonomique et pratique, adapté aux déplacements fréquents. Avantages clés Design sobre et élégant pour un look professionnel sur le court. Grande capacité pour accueillir raquettes, vêtements, chaussures et accessoires. Poche thermique pour protéger vos raquettes des changements de température. Compartiment ventilé pour les chaussures ou vêtements humides. Transport confortable avec bretelles ajustables et poignée rembourrée. Caractéristiques techniques Modèle : Nox Pro Series 2023 Marque : Nox Type : Sac de padel thermique Couleur : Noir Compartiments : 1 principal + 1 thermique + 1 ventilé + poches latérales Capacité : Jusqu’à 2 raquettes + chaussures + vêtements Protection : Doublure thermique Transport : Lanières ajustables + poignée rembourrée Usage : Entraînement, compétition, déplacement Pour quel joueur ? Le Nox Pro Series 2023 s’adresse aux joueurs de padel réguliers à professionnels cherchant un sac robuste, spacieux et stylé. Grâce à son compartiment ventilé, sa poche thermique et sa grande capacité, il est idéal pour ceux qui veulent transporter leur équipement complet en toute sécurité. Passez à l’action Adoptez le sac de padel Nox Pro Series 2023 et profitez d’un alliage parfait entre élégance, confort et fonctionnalité – la référence des sacs Nox pour un jeu sans compromis.
-  Updated: 2025-10-10T15:42:15Z
+  Updated: 2025-11-29T00:21:00Z
   Vendor: Pro Padel Toulouse
   Product Type: Bagagerie
   Availability: Available
@@ -601,7 +601,7 @@
   Updated: 2025-11-05T14:22:53Z
   Total Products: 1
 - [Bagagerie](https://www.mypropadelshop.fr/collections/bagagerie): Découvrez notre gamme de sacs de padel conçus pour la performance alliant style, confort et praticité. Transportez vos raquettes, vêtements et accessoires avec efficacité, sur et en dehors du court.
-  Updated: 2025-11-05T09:24:25Z
+  Updated: 2025-11-29T12:24:06Z
   Total Products: 3
 - [Accessoires](https://www.mypropadelshop.fr/collections/accessoires): Explorez notre sélection d’accessoires et produits bien-être : chaussettes, balles, grips, récupération et nutrition. Pensés pour améliorer vos performances et votre confort, nos essentiels vous accompagnent avant, pendant et après le match. Optimisez votre expérience sur le court avec des produits de qualité sélectionnés pour vous.
   Updated: 2025-11-10T08:02:47Z
@@ -625,7 +625,7 @@
   Updated: 2025-11-05T11:05:26Z
   Total Products: 2
 - [Bagagerie Nox](https://www.mypropadelshop.fr/collections/bagagerie-nox): Explorez la bagagerie Nox : performance, confort et élégance pour accompagner chaque match. Conçus pour les joueurs exigeants, les sacs Nox allient résistance, organisation optimale et design sportif pour transporter votre équipement en toute confiance.
-  Updated: 2025-11-05T11:06:48Z
+  Updated: 2025-11-29T12:24:06Z
   Total Products: 3
 - [Raquettes Nox](https://www.mypropadelshop.fr/collections/raquettes-nox): Explorez l’univers Nox : des raquettes de padel alliant puissance, contrôle et innovation. Conçues pour offrir des performances de haut niveau, elles garantissent sensations, précision et durabilité à chaque frappe. Choisissez l’excellence signée Nox.
   Updated: 2025-11-12T18:57:06Z
@@ -667,7 +667,7 @@
   Updated: 2025-11-05T14:14:42Z
   Total Products: 2
 - [Tous les produits](https://www.mypropadelshop.fr/collections/tous-les-produits)
-  Updated: 2025-11-24T15:59:19Z
+  Updated: 2025-11-29T12:24:06Z
   Total Products: 49
 - [Edition Limitée](https://www.mypropadelshop.fr/collections/edition-limitee): Découvrez la collection Édition Limitée : exclusivité, style et performance réunis dans des produits d’exception. Conçus pour les passionnés en quête d’originalité et de technologie haut de gamme, ces modèles rares allient design unique et prestige sportif.
   Updated: 2025-11-06T08:47:49Z
