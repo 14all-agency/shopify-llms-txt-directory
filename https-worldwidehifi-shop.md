@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-11-27T00:00:37.276Z
+- Updated At: 2025-11-30T00:00:33.181Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -524,13 +524,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_f7616d9b-59eb-443a-bcc1-bfd3ee75b4ed.jpg?v=1745857314
   Price: 380,00 € EUR
-- [Restek Metric Tuner gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/restek-metric-tuner-gebraucht-kaufen): Restek Metric Tuner gebraucht kaufen ✅ Hochwertiger FM-Tuner geprüft und mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:36Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_53ac77b3-a984-498f-9ea6-4c111b6b7cb1.jpg?v=1745852995
-  Price: 1.480,00 € EUR
 - [Technics FM/AM Stereo Receiver SA-5360 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/technics-sa-5360-gebraucht-kaufen): Technics FM/AM Stereo Receiver SA-5360 gebraucht kaufen ✅ Geprüfte Vintage-HiFi Geräte mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:46Z
   Vendor: WorldWideHifi
@@ -595,7 +588,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_e784db67-397b-4ac1-885b-ac3bf313b00c.jpg?v=1745852583
   Price: 1.399,00 € EUR
 - [English Electric Valve QB 3,5/750 NOS Ersatz kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/english-electric-valve-qb-3-5-750-nos-kaufen): English Electric Valve QB 3,5/750 NOS kaufen ✅ Tetrode neu und unbenutzt kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-24T15:51:01Z
+  Updated: 2025-11-27T10:16:01Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -1274,13 +1267,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_22befc1a-6689-43d2-8365-abb43278cdb0.jpg?v=1748016924
   Price: 149,00 € EUR
-- [Oehlbach NF 13 Digital Balanced Interconnect Cinch Kabel RCA gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/wilbrand-acoustics-lautsprecherkabel-8si-silber-solid-gebraucht-kaufen-1): Oehlbach NF 13 Digital Balanced Interconnect Cinch Kabel RCA gebraucht kaufen ✅ Hochwertiges Kabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:31Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_4a824a35-2bc4-41a4-b10d-5e26d31ab970.jpg?v=1748017650
-  Price: 42,00 € EUR
 - [Crystal Cable Splitter Diamond Ultra Micro Speakercable gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/crystal-cable-splitter-diamond-ultra-micro-speakercable-gebraucht-kaufen): Crystal Cable Splitter Diamond Ultra Micro Speakercable gebraucht kaufen ✅ Lautsprecherkabel-Splitter mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:13Z
   Vendor: WorldWideHifi
@@ -1960,13 +1946,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_28fe8c7c-af28-4c55-bc31-552ff0b43027.jpg?v=1759251030
   Price: 1.280,00 € EUR
-- [Audiocraft SD-600 Disc Stabilizer gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/audiocraft-sd-600-gebraucht-kaufen): Audiocraft SD-600 Disc Stabilizer gebraucht kaufen ✅ Schallplatten-Beschwerer mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-06T06:48:29Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_4883f62f-451a-4902-ae43-aa590122a69e.jpg?v=1759251033
-  Price: 129,00 € EUR
 - [Martin Logan DEPTH-i gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/martin-logan-depth-i-gebraucht-kaufen): Martin Logan DEPTH-i gebraucht kaufen ✅ Geprüfter Subwoofer mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
   Updated: 2025-10-06T03:02:26Z
   Vendor: WorldWideHiFi
@@ -2471,13 +2450,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_8654fdf5-0236-4ed0-a23e-f04a16878bed.jpg?v=1763741226
   Price: 990,00 € EUR
-- [Sansui TU-X1 Super Integrated FM/AM Stereo Tuner gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/sansui-tu-x1-super-integrated-fm-am-stereo-tuner-gebraucht-kaufen): Sansui TU-X1 Super Integrated FM/AM Stereo Tuner gebraucht kaufen ✅ Geprüftes Gebrauchtgerät mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-22T04:07:15Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_bef2c6ad-1eda-4c6c-a931-e311efcb047d.jpg?v=1763741229
-  Price: 920,00 € EUR
 - [McIntosh MA 8900 AC Limited Edition gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/mcintosh-ma-8900-ac-limited-edition-gebraucht-kaufen): McIntosh MA 8900 AC Limited Edition gebraucht kaufen ✅ Geprüfter Verstärker mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
   Updated: 2025-11-22T04:07:18Z
   Vendor: WorldWideHiFi
@@ -2539,7 +2511,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-08-30T11:22:02Z
   Total Products: 2
 - [HiFi Verstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-verstaerker-gebraucht-kaufen): HiFi Verstärker gebraucht kaufen ✓ Vollverstärker, Vorstufen, Endstufen, Röhrenverstärker & mehr im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-11-26T12:21:12Z
+  Updated: 2025-11-27T12:23:56Z
   Total Products: 112
 - [Gebrauchte Vollverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-vollverstaerker-kaufen): Gebrauchte Vollverstärker kaufen ✓ Einsteigermodelle bis High-End Audio gebraucht im Top-Zustand ✓ Sicherer Versand ✓ Preiswerte High-End HiFi online bestellen
   Updated: 2025-11-21T17:01:53Z
@@ -2551,13 +2523,13 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-11-21T17:01:53Z
   Total Products: 36
 - [Gebrauchte Röhrenverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-roehrenverstaerker-kaufen): Gebrauchte Röhrenverstärker kaufen ✓ Röhrenverstärker im Top-Zustand gebraucht kaufen ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
-  Updated: 2025-11-25T12:21:13Z
+  Updated: 2025-11-27T12:23:56Z
   Total Products: 6
 - [Plattenspieler Zubehör & Tonarme gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/collections/plattenspieler-zubehoer-tonarme-gebraucht): Plattenspieler Zubehör & Tonarme gebraucht kaufen ✓ Plattenspieler Zubehör & Tonarme im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-11-22T12:23:24Z
+  Updated: 2025-11-29T12:36:02Z
   Total Products: 14
 - [Gebrauchte Plattenspieler kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-plattenspieler-kaufen): Gebrauchte Plattenspieler kaufen ✓ HiFi Schallplattenspeieler & Turntables im Top-Zustand ✓ Sicherer Versand weltweit ✓ Preiswertes High-End HiFi online bestellen
-  Updated: 2025-11-22T12:23:24Z
+  Updated: 2025-11-29T12:36:02Z
   Total Products: 43
 - [Gebrauchte Tapedecks kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-tapedecks-kaufen): Gebrauchte Tapedecks kaufen ✓ Gebrauchte Tapedecks / Kassettendecks & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-11-16T18:46:49Z
@@ -2572,13 +2544,13 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-11-16T16:16:19Z
   Total Products: 9
 - [HiFi Tuner gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/netzwerkplayer-gebraucht-kaufen): HiFi Tuner gebraucht kaufen ✓ Netzwerkplayer, HiFi-Tuner, HiFi-Streamer & mehr im Top-Zustand ✓ Weltweit sicherer Versand ✓ Preiswertes High-End HiFi bestellen
-  Updated: 2025-11-21T17:01:53Z
+  Updated: 2025-11-29T12:36:02Z
   Total Products: 17
 - [HiFi Möbel gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-moebel-gebraucht-kaufen): HiFi Möbel gebraucht kaufen ✓ Gebrauchte HiFi Möbel & HiFi Racks im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-11-21T10:50:57Z
   Total Products: 7
 - [Gebrauchte HiFi Kabel kaufen, Kabel für High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-kabel-gebraucht-kaufen): Gebrauchte HiFi Kabel kaufen ✓ Lautsprecherkabel & Kabel für High-End Geräte im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-11-22T12:23:24Z
+  Updated: 2025-11-27T12:23:56Z
   Total Products: 169
 - [Gebrauchte Lautsprecherkabel kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecherkabel-kaufen): Gebrauchte Lautsprecherkabel kaufen ✓ Gebrauchte Lautsprecherkabel & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-11-22T12:23:24Z
@@ -2599,14 +2571,14 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-11-22T09:26:16Z
   Total Products: 23
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-11-26T12:21:12Z
-  Total Products: 140
+  Updated: 2025-11-29T12:36:02Z
+  Total Products: 144
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-11-22T11:01:31Z
   Total Products: 25
 - [Neueste Produkte](https://worldwidehifi.shop/collections/neueste-produkte)
-  Updated: 2025-11-25T15:21:28Z
-  Total Products: 151
+  Updated: 2025-11-27T23:06:27Z
+  Total Products: 150
 
 ## Store Pages
 
