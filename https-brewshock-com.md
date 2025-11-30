@@ -17,12 +17,12 @@ Brew Shockalaka isn’t just another coffee—it’s a lifestyle movement for cl
 - Created At: 2025-02-26T15:41:09Z
 - Contact Email: info@brewshock.com
 - Address: Plano, Tx
-- Updated At: 2025-11-27T00:00:42.273Z
+- Updated At: 2025-11-30T00:00:46.098Z
 
 ## Products
 
 - [Nootropic Coffee - Brew Shockalaka | Boost Energy, Focus](https://brewshock.com/products/12-pack): Brew Shockalaka Nootropic Coffee RTD: The nootropic-infused, sugar-free drink boosts focus and energy without the crash. Experience bold flavor and all-day momentum.
-  Updated: 2025-11-26T17:42:31Z
+  Updated: 2025-11-29T17:08:52Z
   Vendor: brewshockalaka
   Product Type: 
   Availability: Available
@@ -293,10 +293,10 @@ Brew Shockalaka isn’t just another coffee—it’s a lifestyle movement for cl
 ## Collections
 
 - [Home page](https://brewshock.com/collections/frontpage)
-  Updated: 2025-11-26T12:26:48Z
+  Updated: 2025-11-29T12:43:36Z
   Total Products: 1
 - [Brew Shockalaka On the Go RTD](https://brewshock.com/collections/brew-shockalaka-on-the-go-rtd)
-  Updated: 2025-11-26T12:26:48Z
+  Updated: 2025-11-29T12:43:36Z
   Total Products: 3
 - [T-Shirts & Tops](https://brewshock.com/collections/gear)
   Updated: 2025-09-21T11:20:53Z
