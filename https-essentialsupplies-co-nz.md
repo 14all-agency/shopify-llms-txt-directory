@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-11-28T00:00:36.693Z
+- Updated At: 2025-11-30T00:01:24.085Z
 
 ## Products
 
@@ -1236,7 +1236,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/white-t-shirt-rags-white-20kg-compressed-bag-1-a-grade-quality-rags-essential-supplies-123906.jpg?v=1719445916
   Price: $16.00 NZD
 - [White T-Shirt Rags - White, 10.0kg Compressed Bag - 1 Bag - *A Grade Quality](https://essentialsupplies.co.nz/products/white-t-shirt-rags-white-10-0kg-compressed-bag-1-a-grade-quality): General purpose white economy rags.T-shirt rags provide a general purpose rugged interlocked material for heavy duty wiping. Ideal for many uses, specifically oil, paint and ink applications effective polishing cloth due to their low lint quality and soft feel. The white option is ideal for use with solvents and colour sensitive surfaces. White color Pack: 10kg
-  Updated: 2025-01-16T12:41:25Z
+  Updated: 2025-11-29T09:36:14Z
   Vendor: Mattews Packaging
   Product Type: Rags
   Availability: Available
@@ -1299,7 +1299,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fp-recycled-bin-liner-80l-black-800mm-x-1000mm-x-40mu-250-pack-rubbish-bin-liners-essential-supplies-559919.jpg?v=1719445061
   Price: $110.00 NZD
 - [FP Recycled Bin Liner 80L - Blue, 800mm x 1000mm x 30mu - 350 Pack](https://essentialsupplies.co.nz/products/fp-recycled-bin-liner-80l-blue-800mm-x-1000mm-x-30mu-350): Gusseted for effective waste collectionRecycled rubbish bin liners combine puncture strength and versatility to provide reliable, economical protection against leaking and odours.These bags are produced from post consumer plastic, which is then recycled and made into new bags. Recycled bin liners are the most cost effective as they reduce environmental impact, save energy and preserve natural resources. Tough, strong recycled bags Colour: Blue Size: 80 Litres 800mm x 1000mm x 30mu Pack of: 350
-  Updated: 2025-01-09T22:30:06Z
+  Updated: 2025-11-29T03:46:22Z
   Vendor: Mattews Packaging
   Product Type: Rubbish Bin Liners
   Availability: Available
@@ -1607,7 +1607,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/kraft-paper-packaging-tape-tan-48mm-x-50m-x-125mu-36-rolls-paper-packaging-tape-essential-supplies-592972.jpg?v=1719445407
   Price: $183.00 NZD
 - [Laminated CPE Boot Covers - White, 510mm - 120 Pieces -  *Double Sole*](https://essentialsupplies.co.nz/products/laminated-cpe-boot-covers-white-510mm-120-double-sole): Laminated CPE boot covers are designed to mitigate contamination by creating an effective barrier between footwear and flooring. Breathable fabric provides enhanced air movement. With a 510mm boot height and elasticated band to secure to clothing for complete coverage. Ideal for use in medical, health care, animal care and food processing environments. Designed to mitigate contamination by creating an effective barrier between footwear and flooring Breathable fabric for enhanced air movement with an elasticated top to secure Ideal for use in medical, health care, animal care and food processing environments Size: 510mm high Content: 120 pieces Colour: White
-  Updated: 2025-01-09T20:24:46Z
+  Updated: 2025-11-28T01:53:36Z
   Vendor: Mattews Packaging
   Product Type: Foot Protection
   Availability: Available
@@ -2048,7 +2048,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/sws-polyethylene-tubing-white-900mm-x-30kg-x-120mu-1-roll-polyethylene-tubing-essential-supplies-167463.jpg?v=1719445791
   Price: $242.00 NZD
 - [SWS Polyethylene Tubing - Clear, 1800mm x 30kg x 80mu - 1 Roll](https://essentialsupplies.co.nz/products/sws-polyethylene-tubing-clear-1800mm-x-30kg-x-80mu-1): Polyethylene tubing is a low density polyethylene film made into a continuous tubular form, suitable for creating the exact size bag required for protection, storage or transportation. The tubing is available in opaque white or transparent clear with a large range of size options, ideal for protecting anything from small toys to large curtains or equipment. Create the exact bag size you require Polyethylene film made into a continuous tubular form Suitable for creating the exact size bag required for protection, storage or transportation Size: 1800mm x 25kg x 80mu Colour: Clear
-  Updated: 2025-01-09T21:33:07Z
+  Updated: 2025-11-29T05:07:28Z
   Vendor: Mattews Packaging
   Product Type: Polyethylene Tubing
   Availability: Available
@@ -3252,7 +3252,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/acrylic-office-tape-clear-12mm-x-66m-x-45mu-762mm-core-large-core-office-tape-essential-supplies-143764.jpg?v=1719444762
   Price: $2.00 NZD
 - [Acrylic Office Tape - Clear, 18mm x 66m x 45mu, 76.2mm Core - *Large Core](https://essentialsupplies.co.nz/products/acrylic-office-tape-clear-18mm-x-66m-x-45mu-76-2mm-core-96-large-core): Transparent office tape is crystal clear with a glossy finish. Ideal for all home and office requirements, with good stickability and a smooth cut and flow when used with tape dispensers or by hand. Colour: Clear Size: 18mm x 66mt Content: 96 Rolls
-  Updated: 2025-01-19T02:50:45Z
+  Updated: 2025-11-29T05:42:42Z
   Vendor: Mattews Packaging
   Product Type: Office Tape
   Availability: Available
@@ -3322,7 +3322,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/urinal-floor-mat-black-520mm-x-450mm-10-pack-urinal-mats-essential-supplies-273367.jpg?v=1719445902
   Price: $161.00 NZD
 - [Pacvac Paper Vacuum Bag - Brown, For Backpack Models - 10 Pack](https://essentialsupplies.co.nz/products/pacvac-paper-vacuum-bag-brown-for-backpack-models-10): Vacuum bags for Pacvac vacuums are high capacity vacuum cleaner dust bags for designed for easy bag replacement in various vacuum cleaner makes and models. Fits DUO 700, MICRON 700, SUPERPRO 700, TRANS 700, WHISPA 700 Pack of 10
-  Updated: 2025-01-09T23:25:22Z
+  Updated: 2025-11-28T04:53:59Z
   Vendor: Mattews Packaging
   Product Type: Vacuum Bags
   Availability: Available
@@ -3607,7 +3607,7 @@
   Availability: Available
   Price: $199.00 NZD
 - [Automatic Cut Roll Feed Dispenser - White, 1 Roll Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/automatic-cut-roll-feed-dispenser-white-1-roll-capacity-1): Electronic automatic cut roll feed dispenser with no touch automatic paper towel dispensing action. Designed for ultimate hygiene and waste minimisation with no cross contamination between individual towels. Compatible with most roll feed paper towels and available in three colour finishes.
-  Updated: 2025-02-13T18:13:18Z
+  Updated: 2025-11-29T07:37:21Z
   Vendor: Mattews Packaging
   Product Type: Roll Towel Dispensers
   Availability: Available
@@ -4118,7 +4118,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/lobby-upright-brush-pan-set-green-360mm-x-275mm-x-820mm-brush-pan-sets-essential-supplies-749954.jpg?v=1719445388
   Price: $52.00 NZD
 - [Lobby Upright Brush & Pan Set - Red, 360mm x 275mm x 820mm](https://essentialsupplies.co.nz/products/lobby-upright-brush-pan-set-red-360mm-x-275mm-x-820mm-6): Lobby upright brush and pan set with durable steel and plastic construction is ideal for both indoor and outdoor use. Featuring a unique pistol grip to reduce excessive bending and easily scoop up dirt, dust and particles. Available in five vivid colours for easy identification.
-  Updated: 2025-02-18T17:45:56Z
+  Updated: 2025-11-28T07:26:49Z
   Vendor: Mattews Packaging
   Product Type: Brush & Pan Sets
   Availability: Available
@@ -4342,7 +4342,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/aluminium-mop-handle-blue-25mm-x-1500mm-mops-essential-supplies-664095.jpg?v=1719444763
   Price: $20.00 NZD
 - [Aluminium Mop Handle - Green, 25mm x 1500mm](https://essentialsupplies.co.nz/products/aluminium-mop-handle-green-25mm-x-1500mm-30): Socket mop handles constructed of durable commercial grade aluminium. Featuring an ergonomic swivel grip for comfortable cleaning. Universal socket attachment for use with cotton or microfibre mop heads. Match mop head colour to avoid cross contamination.
-  Updated: 2025-01-16T15:22:31Z
+  Updated: 2025-11-29T10:54:59Z
   Vendor: Mattews Packaging
   Product Type: Mops
   Availability: Available
