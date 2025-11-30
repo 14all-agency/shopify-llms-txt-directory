@@ -6,7 +6,7 @@
 - Timezone: Europe/Warsaw
 - Created At: 2025-09-10T09:13:47Z
 - Contact Email: support@urban-buy.store
-- Updated At: 2025-11-29T00:02:22.696Z
+- Updated At: 2025-11-30T00:01:54.274Z
 
 ## Products
 
@@ -1122,7 +1122,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/34c9913d-ab7f-475b-8cc8-bc4485c6421d.jpg?v=1764173425
     Price: $62.99 USD
 - [Christmas Crystal Ball - Festive Resin Decoration](https://www.urban-buy.store/products/christmas-crystal-ball): Enhance your festivities with our Christmas crystal ball, featuring a glowing snowman and tree for the perfect holiday charm.
-  Updated: 2025-11-27T23:16:58Z
+  Updated: 2025-11-29T16:18:11Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -1135,8 +1135,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/db31baae-98ac-481e-849c-34ceaf306db0.jpg?v=1764173504
     Price: $33.99 USD
-- [Retro Iron Christmas Candlestick Decorations](https://www.urban-buy.store/products/retro-iron-christmas-candlestick-decorations): Overview Christmas Theme: Perfect for festive decorations, enhancing holiday atmosphere. Elegant Design: Features intricate ironwork with retro and classical styles. Multiple Styles: Available in various designs like octagonal star, Christmas flower, elk, snowflake, and more. Lightweight: Weighs between 65g-72g (excluding candles), easy to place and move. Specifications Material: Wrought iron Weight: 65g (octagonal star, elk, snowflake, five-pointed star, Christmas tree), 72g (Christmas flower) Design Options: Octagonal star, Christmas flower, elk, snowflake, five-pointed star, Christmas tree Style: Classical, Southeast Asian, American country Packing List Christmas candlestick*1
-  Updated: 2025-11-28T05:24:20Z
+- [Retro Iron Christmas Candlestick – Vintage Holiday Candle Decor](https://www.urban-buy.store/products/retro-iron-christmas-candlestick-decorations): Discover Retro Iron Christmas decorations that elevate your festive decor with charm and elegance. Perfect for holiday celebrations!
+  Updated: 2025-11-29T16:37:37Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -1207,18 +1207,156 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/Santa_Claus_doll_christmas.jpg?v=1764322274
     Price: $41.36 USD
+- [Christmas Ceramic Mug – Festive Holiday Coffee Cup Gift](https://www.urban-buy.store/products/christmas-ceramic-mug-holiday-gift): Festive 360ml Christmas ceramic mug perfect for gifting, coffee, and cozy winter drinks. Comes in a ready gift box
+  Updated: 2025-11-29T16:18:11Z
+  Vendor: null
+  Product Type: Christmas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/7b042bef-e9c3-45df-951c-452516c5a402.jpg?v=1764419336
+  - [Red / 360ml](https://www.urban-buy.store/products/christmas-ceramic-mug-holiday-gift?variant=52514917187900)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/b8d31af0-d9a0-4ff0-8453-73dd87b63e82.jpg?v=1764419335
+    Price: $31.99 USD
+  - [Green / 360ml](https://www.urban-buy.store/products/christmas-ceramic-mug-holiday-gift?variant=52514917220668)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/106a5ec2-ea4a-44e2-b408-1517b3e6db58.jpg?v=1764419335
+    Price: $31.99 USD
+  - [Dark green / 360ml](https://www.urban-buy.store/products/christmas-ceramic-mug-holiday-gift?variant=52514917253436)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/4d3c5b2c-4d5b-4546-a162-86b9e183c0d8.jpg?v=1764419336
+    Price: $31.99 USD
+  - [Emerald green / 360ml](https://www.urban-buy.store/products/christmas-ceramic-mug-holiday-gift?variant=52514917286204)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/8c929dc1-8a61-4665-9447-dd92d082ac50.jpg?v=1764419336
+    Price: $31.99 USD
+  - [Ocean green / 360ml](https://www.urban-buy.store/products/christmas-ceramic-mug-holiday-gift?variant=52514917318972)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/0190391d-51a0-4f62-9c5b-5c6be6aefa2b.jpg?v=1764419336
+    Price: $31.99 USD
+  - [Christmas cup / 360ml](https://www.urban-buy.store/products/christmas-ceramic-mug-holiday-gift?variant=52514917351740)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/eb23fc02-efaf-44eb-98eb-8fa44ef555e2.jpg?v=1764419336
+    Price: $31.99 USD
+  - [Customized services / 360ml](https://www.urban-buy.store/products/christmas-ceramic-mug-holiday-gift?variant=52514917384508)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/O1CN01sSoNID1dGlzjk89fi__3838623709-0-cib.jpg?v=1764419336
+    Price: $31.99 USD
+- [Christmas Silicone Night Light – Cute Snowman & Tree Holiday Lamp](https://www.urban-buy.store/products/christmas-silicone-night-light-for-home-decor): Christmas silicone soft night light with Snowman, Tree & Boot designs. Safe, cozy, and perfect for holiday décor or gifting.
+  Updated: 2025-11-29T16:18:09Z
+  Vendor: null
+  Product Type: Christmas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/62391c74-58c2-4d42-b4a4-359522f9aa70.jpg?v=1764419470
+  Price: $22.49 USD
+- [Artificial Cypress Vine Christmas Garland with Optional LED Lights](https://www.urban-buy.store/products/artificial-cypress-vine-for-christmas-home-decoration): Realistic artificial cypress vine garland for Christmas décor, available in multiple lengths with optional LED lights for a cozy festive glow.
+  Updated: 2025-11-29T16:18:09Z
+  Vendor: null
+  Product Type: Christmas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/97caf0e1-45f8-4d59-b486-cba25222521f.jpg?v=1764419614
+  Price: $24.49 USD
+- [Christmas Kraft Gift Wrapping Paper – Eco Friendly Holiday Rolls](https://www.urban-buy.store/products/christmas-kraft-wrapping-paper-for-gifts): Christmas kraft wrapping, Eco-friendly paper with festive prints in 5m or 10m rolls. Durable, vibrant, and perfect for holiday gifts.
+  Updated: 2025-11-29T16:18:09Z
+  Vendor: null
+  Product Type: Christmas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/32f7b4f8-f82b-4c5f-8821-7cea37464ab2.png?v=1764427547
+  - [Snowman SD-001 43x5m](https://www.urban-buy.store/products/christmas-kraft-wrapping-paper-for-gifts?variant=52515123790140)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/5885ec6d-14d2-477c-ad16-ba4a9b788418.jpg?v=1764427546
+    Price: $20.40 USD
+  - [Snowman SD-001 43x10m](https://www.urban-buy.store/products/christmas-kraft-wrapping-paper-for-gifts?variant=52515123822908)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/53e16db9-ffc6-453c-a6c5-41d5f27ffe18.jpg?v=1764427546
+    Price: $20.40 USD
+  - [Wreath Tree SD-005 43x5m](https://www.urban-buy.store/products/christmas-kraft-wrapping-paper-for-gifts?variant=52515123855676)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/97dc742b-331f-4453-9057-53186e5bf797.jpg?v=1764427546
+    Price: $20.40 USD
+  - [Wreath Tree SD-005 43x10m](https://www.urban-buy.store/products/christmas-kraft-wrapping-paper-for-gifts?variant=52515123888444)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/ec3e7bc3-e57a-4d31-a213-7e7d7333b290.jpg?v=1764427546
+    Price: $20.40 USD
+  - [Deer SD-006 43x5m](https://www.urban-buy.store/products/christmas-kraft-wrapping-paper-for-gifts?variant=52515123921212)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/e5e31348-7334-49fc-a1a4-4ad72b2eec9a.jpg?v=1764427546
+    Price: $20.40 USD
+  - [Deer SD-006 43x10m](https://www.urban-buy.store/products/christmas-kraft-wrapping-paper-for-gifts?variant=52515123953980)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/3026c45d-f4b4-4fb9-9b4b-dcd6b03fac9a.jpg?v=1764427546
+    Price: $20.40 USD
+- [Christmas Resin Mini House Santa Shop Ornament](https://www.urban-buy.store/products/christmas-resin-mini-house-santa-shop-ornament): Overview Festive Decor: Perfect for Christmas celebrations, adding a festive touch to any space. Detailed : Features intricate micro-landscape designs of Santa Claus shops. Resin Material: Durable and lightweight, suitable for display purposes. Glitter Finish: Includes decorative glitter for a sparkling effect (note: some shedding may occur). Specifications Material: Resin Variants: A Coffee Shop B Candy Shop C Gift Shop Dimensions: Information missing Weight: Information missing Packing List Resin ornament*1 Overview Festive Decor: Perfect for Christmas celebrations, adding a festive touch to any space. Detailed Design: Features intricate micro-landscape designs of Santa Claus shops. Resin Material: Durable and lightweight, suitable for display purposes. Glitter Finish: Includes decorative glitter for a sparkling effect (note: some shedding may occur). Specifications Material: Resin Variants: A Coffee Shop B Candy Shop C Gift Shop Packing List Resin ornament*1
+  Updated: 2025-11-29T16:18:09Z
+  Vendor: null
+  Product Type: Christmas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/09634860-5d08-4e6e-8b37-812adfba1c51.jpg?v=1764427737
+  - [A coffee shop](https://www.urban-buy.store/products/christmas-resin-mini-house-santa-shop-ornament?variant=52515129426236)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/fe2905c4-8d5b-4c0e-b3f3-d5081542fbd1.jpg?v=1764427737
+    Price: $18.99 USD
+  - [B candy store](https://www.urban-buy.store/products/christmas-resin-mini-house-santa-shop-ornament?variant=52515129459004)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/f05ba0d7-137a-4939-aa41-9afd2295e9c1_8643b445-8ed5-44d4-9a96-23c32ab06745.jpg?v=1764427737
+    Price: $18.99 USD
+  - [C gift shop](https://www.urban-buy.store/products/christmas-resin-mini-house-santa-shop-ornament?variant=52515129491772)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/75769fdc-72ab-4c34-a085-4ae1a6b94ea3_d7483d3b-2987-4633-9ca3-11610edaa8b6.jpg?v=1764427738
+    Price: $18.99 USD
+- [DIY Felt Christmas Tree Wall Decoration with LED Lights](https://www.urban-buy.store/products/diy-felt-christmas-tree-wall-decoration-with-led-lights): Overview DIY Christmas Tree: Handcrafted felt Christmas tree perfect for DIY enthusiasts and children. Decorative Gift: Ideal as a festive decoration or small gift for Christmas. Wall-Mounted Design: Unique corner or wall decoration for homes during the holiday season. Specifications Material: Non-woven fabric (felt) Height: 1m Variants: Multiple options available (with/without LED string lights, different styles) Included Accessories: Hooks and nails for wall mounting Usage: Decorative wall hanging Packing List DIY felt Christmas tree*1 Hooks*1 Nails*1 LED string lights (if selected variant includes it)*1
+  Updated: 2025-11-29T16:11:34Z
+  Vendor: null
+  Product Type: Christmas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/bfc22162-d6d6-459f-9337-b9cc1c52ac2c.jpg?v=1764427849
+  - [DIY](https://www.urban-buy.store/products/diy-felt-christmas-tree-wall-decoration-with-led-lights?variant=52515133129020)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/018acef9-2872-4d71-9b5d-5973f5a7c076.jpg?v=1764427849
+    Price: $36.69 USD
+  - [DIY3](https://www.urban-buy.store/products/diy-felt-christmas-tree-wall-decoration-with-led-lights?variant=52515133161788)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/dccccada-cc34-4961-ab3b-56bc07d45af6.jpg?v=1764427849
+    Price: $36.69 USD
+  - [DIY5](https://www.urban-buy.store/products/diy-felt-christmas-tree-wall-decoration-with-led-lights?variant=52515133194556)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/9d8e3f94-3901-42c5-a770-3ccc471a9cec.jpg?v=1764427849
+    Price: $36.69 USD
+  - [A-DIY](https://www.urban-buy.store/products/diy-felt-christmas-tree-wall-decoration-with-led-lights?variant=52515133227324)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/04d5fc80-49f1-45e7-8ae5-d6d140d19a76.jpg?v=1764427849
+    Price: $36.69 USD
+  - [A-DIY3](https://www.urban-buy.store/products/diy-felt-christmas-tree-wall-decoration-with-led-lights?variant=52515133260092)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/f52585ed-f337-404e-ad22-11089a4f4de1.jpg?v=1764427849
+    Price: $36.69 USD
+  - [A-DIY5](https://www.urban-buy.store/products/diy-felt-christmas-tree-wall-decoration-with-led-lights?variant=52515133292860)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/ba06eb11-5422-4a75-b63c-cf48b8ed25c8.jpg?v=1764427849
+    Price: $36.69 USD
+  - [B-DIY](https://www.urban-buy.store/products/diy-felt-christmas-tree-wall-decoration-with-led-lights?variant=52515133325628)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/c02b151c-8d05-4469-931e-b493781cbfaf.jpg?v=1764427849
+    Price: $36.69 USD
+  - [B-DIY3](https://www.urban-buy.store/products/diy-felt-christmas-tree-wall-decoration-with-led-lights?variant=52515133358396)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/b41a6a16-a7f9-46d1-9c08-792213781c32.jpg?v=1764427849
+    Price: $36.69 USD
+  - [B-DIY5](https://www.urban-buy.store/products/diy-felt-christmas-tree-wall-decoration-with-led-lights?variant=52515133391164)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/ea86367a-2589-45da-8740-7ff3c7753c95.jpg?v=1764427849
+    Price: $36.69 USD
 
 ## Collections
 
 - [Christmas Gift Ideas for 2025 – Urban Buy](https://www.urban-buy.store/collections/christmas-gift): Find unique Christmas gift ideas at Urban Buy. Shop cozy, stylish, and thoughtful presents perfect for family, friends, or anyone who loves holiday cheer.
-  Updated: 2025-11-27T16:24:13Z
-  Total Products: 13
+  Updated: 2025-11-29T14:49:03Z
+  Total Products: 15
 - [Best Holiday Gift Essentials - Urban Buy](https://www.urban-buy.store/collections/best-holiday-gift-essentials-2025): Explore the Best Holiday Gift Essentials for 2025! Shop stylish and practical gifts that everyone will love this season.
-  Updated: 2025-11-27T16:24:13Z
-  Total Products: 11
+  Updated: 2025-11-29T12:31:15Z
+  Total Products: 13
 - [Cozy Home Vibes: Embrace the Best Christmas Comfort](https://www.urban-buy.store/collections/cozy-home-vibes): Discover the best Christmas cozy home vibes with Urban Buy. Shop warm blankets, soft loungewear, fuzzy socks, and winter essentials made for comfort and style.
-  Updated: 2025-11-27T17:26:24Z
-  Total Products: 14
+  Updated: 2025-11-29T14:50:54Z
+  Total Products: 16
 - [Top Selling Christmas Gifts this Year - Shop the Best!](https://www.urban-buy.store/collections/top-selling-products-this-christmas): Top Selling Products this Christmas include the best top selling Christmas gifts and more. Don't miss out on our festive favorites!
   Updated: 2025-11-27T16:24:13Z
   Total Products: 17
@@ -1263,6 +1401,10 @@
     Updated: 2025-11-28T09:04:01Z
     Author: Urban BUY
     Tags: christmas, christmas decor, cozy winter atmosphere, decor, decorations for homes, festive decorations, holiday decor, home decor, home essentials, home makeover, lights, unique xmas ideas
+  - [Unique Christmas Gift Ideas for 2025](https://www.urban-buy.store/blogs/best-christmas-gift-ideas-2025/unique-christmas-gift-ideas-for-2025): Unique Christmas Gift Ideas for 2025
+    Updated: 2025-11-29T09:04:47Z
+    Author: Urban BUY
+    Tags: 2025 gift ideas, christmas, christmas 2025, christmas gift ideas, christmas gifts, creative christmas gifts, gifts, gifts for christmas, gifts ideas, holiday presents, ideas, thoughtful presents for holidays, unique gifts
 
 ## Store Pages
 
