@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-11-04T08:50:09Z
 - Contact Email: djpoppops2015@gmail.com
-- Updated At: 2025-11-27T00:03:19.031Z
+- Updated At: 2025-11-30T00:01:43.184Z
 
 ## Products
 
@@ -629,7 +629,7 @@
     Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/9d4da2e1-76e1-42c3-b33a-e6ed5c8f1501_e3bb5556-3b72-441c-b872-17032a3f2812.jpg?v=1763677933
     Price: £89.90 GBP
 - [Winter Gloves Touch Screen Riding Motorcycle Sliding Waterproof Sports Gloves With Fleece](https://omni-shop-6958.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece): Overview: Unique design, stylish and beautiful. Good material, comfortable to wear. A variety of colors, more choice. Product information: Material: Polar fleece Usage classification: Riding Gloves Function: Antiskid Style: Finger Gloves Color: Blue, purple, black, orange Size: M, l, XL Package Contents: Gloves x1 pair
-  Updated: 2025-11-24T10:50:23Z
+  Updated: 2025-11-29T19:12:57Z
   Vendor: Tranquil Touch
   Product Type: gloves
   Availability: Available
@@ -683,7 +683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/3bb06181-c5df-444b-906b-7bb3b80be0f5.jpg?v=1763938228
     Price: £12.48 GBP
 - [Wireless Charger For IPhone Fast Charger For Phone Fast Charging Pad For Phone Watch 6 In 1 Charging Dock Station](https://omni-shop-6958.myshopify.com/products/wireless-charger-for-iphone-fast-charger-for-phone-fast-charging-pad-for-phone-watch-6-in-1-charging-dock-station): Product information: Input parameter: 5 (V) Output parameter: 5 (V) Type: wireless charging Charging current: 2000 (mA) Battery type: lithium battery Indication function: with the indication function Interface: USB Product size: length 23cm width 9cm height 5cm Packing list: Charger*1
-  Updated: 2025-11-26T22:07:50Z
+  Updated: 2025-11-27T10:37:40Z
   Vendor: Tranquil Touch
   Product Type: Phone charger
   Availability: Available
@@ -712,6 +712,169 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/9925af23-6ddd-4226-8ae4-e0746f5acb58.jpg?v=1764194803
     Price: £19.98 GBP
+- [Natural Ametista Amethyst Geode Quartz Cluster Crystal Specimen Energy Healing Thunder Egg](https://omni-shop-6958.myshopify.com/products/natural-ametista-amethyst-geode-quartz-cluster-crystal-specimen-energy-healing-thunder-egg): Product information Material: Amethyst Production process: Grinding Category: Amethyst Cave Material source: natural Surface technology: polishing Hanging form: ornaments Color: purple Size: 100-300g, 300-400g, 400-500g, 500-600g, 600-700g, 700-800g, 800-1000g, 1000-1200g Package: Amethyst cluster ornaments*1
+  Updated: 2025-11-29T07:53:48Z
+  Vendor: Tranquil Touch
+  Product Type: crystal amethyst
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/403aa526-83d3-40e0-a1b0-53d5010e3ba2.jpg?v=1764354587
+  - [Purple / 1000g](https://omni-shop-6958.myshopify.com/products/natural-ametista-amethyst-geode-quartz-cluster-crystal-specimen-energy-healing-thunder-egg?variant=52886630891784)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/e5d0e241-8808-406d-b857-9dbd2134c4ee.jpg?v=1764354594
+    Price: £180.00 GBP
+  - [Purple / 1200g](https://omni-shop-6958.myshopify.com/products/natural-ametista-amethyst-geode-quartz-cluster-crystal-specimen-energy-healing-thunder-egg?variant=52886630924552)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/e5d0e241-8808-406d-b857-9dbd2134c4ee.jpg?v=1764354594
+    Price: £205.00 GBP
+  - [Purple / 300g](https://omni-shop-6958.myshopify.com/products/natural-ametista-amethyst-geode-quartz-cluster-crystal-specimen-energy-healing-thunder-egg?variant=52886630957320)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/e5d0e241-8808-406d-b857-9dbd2134c4ee.jpg?v=1764354594
+    Price: £80.00 GBP
+  - [Purple / 400g](https://omni-shop-6958.myshopify.com/products/natural-ametista-amethyst-geode-quartz-cluster-crystal-specimen-energy-healing-thunder-egg?variant=52886630990088)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/e5d0e241-8808-406d-b857-9dbd2134c4ee.jpg?v=1764354594
+    Price: £80.00 GBP
+  - [Purple / 500g](https://omni-shop-6958.myshopify.com/products/natural-ametista-amethyst-geode-quartz-cluster-crystal-specimen-energy-healing-thunder-egg?variant=52886631022856)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/e5d0e241-8808-406d-b857-9dbd2134c4ee.jpg?v=1764354594
+    Price: £85.00 GBP
+  - [Purple / 600g](https://omni-shop-6958.myshopify.com/products/natural-ametista-amethyst-geode-quartz-cluster-crystal-specimen-energy-healing-thunder-egg?variant=52886631055624)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/e5d0e241-8808-406d-b857-9dbd2134c4ee.jpg?v=1764354594
+    Price: £100.00 GBP
+  - [Purple / 700g](https://omni-shop-6958.myshopify.com/products/natural-ametista-amethyst-geode-quartz-cluster-crystal-specimen-energy-healing-thunder-egg?variant=52886631088392)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/e5d0e241-8808-406d-b857-9dbd2134c4ee.jpg?v=1764354594
+    Price: £130.00 GBP
+  - [Purple / 800g](https://omni-shop-6958.myshopify.com/products/natural-ametista-amethyst-geode-quartz-cluster-crystal-specimen-energy-healing-thunder-egg?variant=52886631121160)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/e5d0e241-8808-406d-b857-9dbd2134c4ee.jpg?v=1764354594
+    Price: £150.00 GBP
+- [Epoxy Resin Crystal Stone Ornaments](https://omni-shop-6958.myshopify.com/products/epoxy-resin-crystal-stone-ornaments): Product information: Material: natural crystal Color: hair crystal, tiger eye stone, strawberry crystal, yellow crystal, dark colored glass, green fluorite Size: 108 * 74 * 73 Packing list: Pendant X1PCS
+  Updated: 2025-11-29T06:33:40Z
+  Vendor: Tranquil Touch
+  Product Type: Dog crystal
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/74c4b19a-c4fd-438f-9328-f5fb0c30ca6d.jpg?v=1764354816
+  - [Dark colored glass](https://omni-shop-6958.myshopify.com/products/epoxy-resin-crystal-stone-ornaments?variant=52886636495112)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/8dd17df1-0455-4c68-b071-5367f172cd20.jpg?v=1764354821
+    Price: £25.00 GBP
+  - [Green fluorite](https://omni-shop-6958.myshopify.com/products/epoxy-resin-crystal-stone-ornaments?variant=52886636527880)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/0f907b1c-87e3-4f79-a21f-77b9623cac25.jpg?v=1764354821
+    Price: £25.00 GBP
+  - [Hair crystal](https://omni-shop-6958.myshopify.com/products/epoxy-resin-crystal-stone-ornaments?variant=52886636560648)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/74c4b19a-c4fd-438f-9328-f5fb0c30ca6d_2612c65f-4205-4994-af0c-79a419b723f9.jpg?v=1764354821
+    Price: £25.00 GBP
+  - [Strawberry crystal](https://omni-shop-6958.myshopify.com/products/epoxy-resin-crystal-stone-ornaments?variant=52886636593416)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/12e7bb7d-4f44-4583-aead-4d8182c51347.jpg?v=1764354822
+    Price: £25.00 GBP
+  - [Tiger eye stone](https://omni-shop-6958.myshopify.com/products/epoxy-resin-crystal-stone-ornaments?variant=52886636626184)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/6a19a2eb-f0af-4b62-b05c-5214343e7d64.jpg?v=1764354821
+    Price: £25.00 GBP
+  - [Yellow crystal](https://omni-shop-6958.myshopify.com/products/epoxy-resin-crystal-stone-ornaments?variant=52886636658952)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/2d4b6b37-d890-4c26-a63e-c31bbcea54e2.jpg?v=1764354821
+    Price: £25.00 GBP
+- [Natural Crystal Butterfly Girl Sculpture Crystal Ornaments](https://omni-shop-6958.myshopify.com/products/natural-crystal-butterfly-girl-sculpture-crystal-ornaments): Product information: Material Source: Natural Material: Crystal Size: Spotted Stone, Opal, obsidian, red amphibole, blue aventurine, flame Stone, green aventurine, Qinghai Green Process: grinding Packing list: 1* Ornament Product Image:
+  Updated: 2025-11-29T06:42:25Z
+  Vendor: Tranquil Touch
+  Product Type: crystal angel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/cb07c869-7233-4142-9799-d1185a844065.jpg?v=1764355315
+  - [Blue Aventurine](https://omni-shop-6958.myshopify.com/products/natural-crystal-butterfly-girl-sculpture-crystal-ornaments?variant=52886646456584)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/37f0252d-ca8b-4fd7-8299-665c8893d3d4_trans.jpg?v=1764355322
+    Price: £7.98 GBP
+  - [Flame Stone](https://omni-shop-6958.myshopify.com/products/natural-crystal-butterfly-girl-sculpture-crystal-ornaments?variant=52886646489352)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/549e84c7-67f0-4f37-baf9-8af01895dff7_trans.jpg?v=1764355322
+    Price: £7.98 GBP
+  - [Green Aventurine](https://omni-shop-6958.myshopify.com/products/natural-crystal-butterfly-girl-sculpture-crystal-ornaments?variant=52886646522120)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/60e404f6-ce8d-4543-910b-53ca27c51c8e_trans.jpg?v=1764355322
+    Price: £7.98 GBP
+  - [Obsidian](https://omni-shop-6958.myshopify.com/products/natural-crystal-butterfly-girl-sculpture-crystal-ornaments?variant=52886646554888)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/e2678b0b-1abf-40b5-aab8-bea42569c3a5_trans.jpg?v=1764355322
+    Price: £7.98 GBP
+  - [Opal](https://omni-shop-6958.myshopify.com/products/natural-crystal-butterfly-girl-sculpture-crystal-ornaments?variant=52886646587656)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/09b6b30b-fdf8-4f3b-a5ff-b0e2dade1c02_trans.jpg?v=1764355323
+    Price: £7.98 GBP
+  - [Qinghai Green](https://omni-shop-6958.myshopify.com/products/natural-crystal-butterfly-girl-sculpture-crystal-ornaments?variant=52886646620424)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/9b162604-16c9-492d-a416-31793a394047_trans.jpg?v=1764355323
+    Price: £7.98 GBP
+  - [Red Flash Stone](https://omni-shop-6958.myshopify.com/products/natural-crystal-butterfly-girl-sculpture-crystal-ornaments?variant=52886646653192)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/d9d2ec8c-d127-4e7d-a83e-6604e619208b_trans.jpg?v=1764355322
+    Price: £7.98 GBP
+  - [Spotted Stone](https://omni-shop-6958.myshopify.com/products/natural-crystal-butterfly-girl-sculpture-crystal-ornaments?variant=52886646685960)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/98e11851-1116-4c77-bc4a-dd266fd88cc9_trans.jpg?v=1764355322
+    Price: £7.98 GBP
+- [Colorful Crystals Half Love Pearl Necklace](https://omni-shop-6958.myshopify.com/products/colorful-crystals-half-love-pearl-necklace): Product information: Color: colorful crystals half heart necklace, purple white diamond pearl necklace Pendant material: Alloy Style: Women's Chain style: Box chain Material: titanium steel Shape: heart shape Popular elements: Pearl Style: cold wind Packing list: Necklace *1 Product Image:
+  Updated: 2025-11-29T06:46:44Z
+  Vendor: Tranquil Touch
+  Product Type: necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/d4918b88-db76-4d65-8294-751b1a26299d.jpg?v=1764355585
+  - [Colorful Crystals Half Side](https://omni-shop-6958.myshopify.com/products/colorful-crystals-half-love-pearl-necklace?variant=52886653403400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/59215e4c-3a45-46ce-a0c1-b6a38689b34c.jpg?v=1764355589
+    Price: £8.00 GBP
+  - [Purple White Diamond](https://omni-shop-6958.myshopify.com/products/colorful-crystals-half-love-pearl-necklace?variant=52886653436168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/313d805c-e61b-4332-8763-7759f77517f0.jpg?v=1764355590
+    Price: £8.00 GBP
+- [Crystal Beads For DIY](https://omni-shop-6958.myshopify.com/products/crystal-beads-for-diy): crystal beads for DIY
+  Updated: 2025-11-29T06:57:44Z
+  Vendor: Tranquil Touch
+  Product Type: Crystal beads
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/504c0a13-0289-4994-8800-867b423ece45.jpg?v=1764356253
+  - [1Pack](https://omni-shop-6958.myshopify.com/products/crystal-beads-for-diy?variant=52886675915016)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/504c0a13-0289-4994-8800-867b423ece45_125556c6-7707-4834-9193-55bb4a3226fa.jpg?v=1764356253
+    Price: £39.98 GBP
+  - [2Packs](https://omni-shop-6958.myshopify.com/products/crystal-beads-for-diy?variant=52886675947784)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/504c0a13-0289-4994-8800-867b423ece45_125556c6-7707-4834-9193-55bb4a3226fa.jpg?v=1764356253
+    Price: £78.98 GBP
+- [Men's And Women's Long-lasting Fragrances, Niche Fragrances-100ml](https://omni-shop-6958.myshopify.com/products/mens-and-womens-long-lasting-fragrances-niche-fragrances-100ml)
+  Updated: 2025-11-29T09:39:18Z
+  Vendor: Tranquil Touch
+  Product Type: perfume
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/1defb5ef-2553-4442-92ca-fe814dd5172e.jpg?v=1764365946
+  Price: £10.00 GBP
+- [Valentine's Day Creative Scented Candles](https://omni-shop-6958.myshopify.com/products/valentines-day-creative-scented-candles): Product information: Variety: Rose Package: gift box Size: 25.5x25.5x9cm Color: Korean Pink, Classic Red, Bean Green, Advanced Grey Packing list: Aromatherapy candle X1 Set
+  Updated: 2025-11-29T09:44:16Z
+  Vendor: Tranquil Touch
+  Product Type: valentine
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/03ddc0f1-efc6-4470-bcf3-dbc1d0b3b03f.jpg?v=1764366251
+  - [Green](https://omni-shop-6958.myshopify.com/products/valentines-day-creative-scented-candles?variant=52887055106312)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/f4defe2e-f33e-4c2f-9c45-f3158b165736.jpg?v=1764366254
+    Price: £65.00 GBP
+  - [Grey](https://omni-shop-6958.myshopify.com/products/valentines-day-creative-scented-candles?variant=52887055139080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/03d587a2-7d80-4204-9a03-33b3be69b4b7.jpg?v=1764366253
+    Price: £65.00 GBP
+  - [Pink](https://omni-shop-6958.myshopify.com/products/valentines-day-creative-scented-candles?variant=52887055171848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/729a6c70-c5e5-4e06-b160-39607180d323.jpg?v=1764366254
+    Price: £65.00 GBP
+  - [Red](https://omni-shop-6958.myshopify.com/products/valentines-day-creative-scented-candles?variant=52887055204616)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/025c3be3-fe5c-4c63-9f9a-6cc728cc897c.jpg?v=1764366254
+    Price: £65.00 GBP
 
 ## Collections
 
