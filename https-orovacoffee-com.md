@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-07-08T18:58:24Z
-- Updated At: 2025-11-27T00:00:31.004Z
+- Updated At: 2025-11-30T00:01:13.533Z
 
 ## Products
 
@@ -234,6 +234,42 @@
   - [1kg](https://orovacoffee.com/products/liscio?variant=52155239268695)
     Availability: Available
     Price: £23.99 GBP
+- [Orova Hot chocolate powder](https://orovacoffee.com/products/orova-hot-chocolate-powder): Indulgent, café-style hot chocolate at home. Blend the powder into a paste, add steaming milk, and create a smooth, luxurious cup with every serving.
+  Updated: 2025-11-28T02:24:34Z
+  Vendor: Orovacoffee
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_79ec5422-a8a5-41d5-9e0d-036f6e0b3ff0.jpg?v=1764254329
+  - [1kg](https://orovacoffee.com/products/orova-hot-chocolate-powder?variant=52239512142167)
+    Availability: Available
+    Price: £12.99 GBP
+  - [250g](https://orovacoffee.com/products/orova-hot-chocolate-powder?variant=52239512174935)
+    Availability: Available
+    Price: £6.50 GBP
+- [Orova chocolate drops](https://orovacoffee.com/products/orova-chocolate-drops): Ideal for creating the most amazing hot chocolates. Simply melt the chocolate drops in a jug with a splash of boiling water to form a smooth paste, then add milk and steam together for a rich, velvety drink. You won’t be disappointed.Also perfect for baking and desserts!
+  Updated: 2025-11-28T02:34:36Z
+  Vendor: Orovacoffee
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_81d5fb7f-b018-4753-a262-a7dc958ba678.jpg?v=1764254542
+  - [1kg](https://orovacoffee.com/products/orova-chocolate-drops?variant=52239519383895)
+    Availability: Available
+    Price: £17.99 GBP
+  - [250g](https://orovacoffee.com/products/orova-chocolate-drops?variant=52239519416663)
+    Availability: Available
+    Price: £7.99 GBP
+- [Orova White chocolate drops](https://orovacoffee.com/products/orova-white-chocolate-drops): Craft café-style white chocolate mochas and velvety white hot chocolates with ease. These delicate curls melt beautifully for a luxurious finish. Also excellent for baking and sweet creations.
+  Updated: 2025-11-28T02:37:23Z
+  Vendor: Orovacoffee
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_60f5a492-53ea-4bae-a043-c63396d5f459.jpg?v=1764254642
+  - [1kg](https://orovacoffee.com/products/orova-white-chocolate-drops?variant=52239525347671)
+    Availability: Available
+    Price: £17.49 GBP
+  - [250g](https://orovacoffee.com/products/orova-white-chocolate-drops?variant=52239525380439)
+    Availability: Available
+    Price: £6.50 GBP
 
 ## Collections
 
@@ -3044,6 +3080,74 @@
     Updated: 2025-11-26T13:00:45Z
     Author: Orovacoffee
     Tags: blog, brazilian coffee gift set, coffee beans, coffee gift box, coffee gift box uk, coffee gift for him / her, coffee gift under £25, coffee sampler gift, coffee sampler gift box, fitness goals, health advice, how to live well, lifestyle, single-origin coffee gifts, specialty coffee gifts, sustainable coffee gift, top places to visit, travel, travel tips, where can i buy coffee gifts
+  - [Rwandan Single-Origin Coffee: The Perfect Gift Set from OrovaCoffee.com Featuring UK Roasted Beans and Ideal for Wild Campers](https://orovacoffee.com/blogs/news/rwandan-single-origin-coffee-the-perfect-gift-set-from-orovacoffee-com-featuring-uk-roasted-beans-and-ideal-for-wild-campers): Rwandan Single-Origin Coffee: The Perfect Gift Set from OrovaCoffee.com Featuring UK Roasted Beans and Ideal for Wild Campers
+    Updated: 2025-11-27T02:05:16Z
+    Author: Orovacoffee
+    Tags: beans, best coffee ever, brazil specialty coffee brewer, camping coffee gift ideas, camping gifts, coffee, coffee beans, coffee for wild campers, coffee gift sets orovacoffee.com, coffee sampler gift for him, colombian coffee, gourmet coffee set, ideal gift for campers, orova coffee, orova coffee reviews, rwanda, single-origin coffee, uk roasted coffee beans, where to find coffee gifts
+  - [Explore Coffee Gift Experiences Through Tastings and Sampling](https://orovacoffee.com/blogs/news/explore-coffee-gift-experiences-through-tastings-and-sampling): Explore Coffee Gift Experiences Through Tastings and Sampling
+    Updated: 2025-11-27T02:10:16Z
+    Author: Orovacoffee
+    Tags: artisanal coffee tastings, best coffee for hikers and campers, best coffee gift ideas uk, best coffee gifts for couples, camping coffee essentials, coffee, coffee gift ideas under £30, coffee gifts, coffee tasting gift experience, eco friendly birthday gifts uk, how to brew coffee without a machine, how to pick specialty coffee as a gift, how to tell if coffee is high quality, sampling experiences, specialty coffee sampling, sustainable coffee gift box, tasting, trends, unique coffee gift ideas, what is the best coffee for mornings
+  - [Excellence in Every Sip: Exploring where to buy premium coffee online](https://orovacoffee.com/blogs/news/excellence-in-every-sip-exploring-where-to-buy-premium-coffee-online): Excellence in Every Sip: Exploring where to buy premium coffee online
+    Updated: 2025-11-27T02:10:43Z
+    Author: Orovacoffee
+    Tags: best coffee beans online, best place to buy coffee, brewing, buy coffee, christmas gifts, coffee, coffee beans, coffee gift guide for birthdays, coffee gift ideas for christmas uk, coffee gifts, coffee gifts for her birthday, espresso, gifts, online coffee, premium coffee, specialty coffee vs supermarket coffee, sustainable gift ideas for new parents, where can i buy coffee online, where to purchase coffee online
+  - [Expert Tips on Buying Fresh Roasted Coffee for the Perfect Espresso Gift](https://orovacoffee.com/blogs/news/expert-tips-on-buying-fresh-roasted-coffee-for-the-perfect-espresso-gift): Expert Tips on Buying Fresh Roasted Coffee for the Perfect Espresso Gift
+    Updated: 2025-11-27T02:33:17Z
+    Author: Orovacoffee
+    Tags: adventure coffee gift pack, are coffee beans vegan?, best place to buy coffee beans?, coffee, coffee beans, coffee gift, espresso, fresh coffee, fresh roasted coffee, gift for someone who loves espresso, how to give coffee as a gift, roasted beans, roasting, selecting roasted coffee, specialty coffee beans, tips for espresso lovers, top coffee for outdoor lovers, travel-friendly coffee, where can i buy coffee beans uk?
+  - [Unwind with Mexican Water Process Decaf: The Eco-Friendly Single Origin Coffee Gift Perfect for Travelling Campers](https://orovacoffee.com/blogs/news/unwind-with-mexican-water-process-decaf-the-eco-friendly-single-origin-coffee-gift-perfect-for-travelling-campers): Unwind with Mexican Water Process Decaf: The Eco-Friendly Single Origin Coffee Gift Perfect for Travelling Campers
+    Updated: 2025-11-27T03:07:55Z
+    Author: Orovacoffee
+    Tags: camping coffee, coffee, coffee beans, coffee gift ideas for him, compostable coffee bags, decaf, eco coffee, eco-friendly, eco-friendly coffee gift set, organic coffee for campers, single origin, single origin coffee gifts, sustainable gift ideas, travel coffee, travel-friendly coffee, what is a coffee brewer bag?, what is the best coffee gift for campers, what's the best coffee gift?, where can i buy specialty coffee online?
+  - [Best Eco-Friendly Coffee Gift Box Under £25: A Guide to Sustainable Brazilian Single-Origin Delights](https://orovacoffee.com/blogs/news/best-eco-friendly-coffee-gift-box-under-25-a-guide-to-sustainable-brazilian-single-origin-delights): Best Eco-Friendly Coffee Gift Box Under £25: A Guide to Sustainable Brazilian Single-Origin Delights
+    Updated: 2025-11-27T03:08:16Z
+    Author: Orovacoffee
+    Tags: affordable coffee gifts, best eco gifts, brazilian coffee, brazilian coffee gift set, coffee, coffee beans, coffee gift box, coffee gift box uk, coffee gift for him / her, coffee gift under £25, coffee sampler gift, coffee sampler gift box, eco-friendly, gift box, single origin, single-origin coffee gifts, specialty coffee gifts, sustainable, sustainable coffee gift, where can i buy coffee gifts
+  - [Limu Sublime: Exploring OrovaCoffee.com's Coffee Gift Sets Featuring UK Roasted Beans Perfect for Camping Coffee and Xmas Surprises](https://orovacoffee.com/blogs/news/limu-sublime-exploring-orovacoffee-coms-coffee-gift-sets-featuring-uk-roasted-beans-perfect-for-camping-coffee-and-xmas-surprises): Limu Sublime: Exploring OrovaCoffee.com's Coffee Gift Sets Featuring UK Roasted Beans Perfect for Camping Coffee and Xmas Surprises
+    Updated: 2025-11-28T02:12:38Z
+    Author: Orovacoffee
+    Tags: beans, best coffee ever, brazil specialty coffee brewer, camping coffee, camping coffee gift ideas, christmas surprises, coffee, coffee beans, coffee for wild campers, coffee gift sets, coffee gift sets orovacoffee.com, coffee sampler gift for him, colombian coffee, gourmet coffee gifts, orova coffee reviews, roasting, uk roasted coffee beans, where to find coffee gifts
+  - [Optimal Coffee Picks for Morning Energy: A Guide for New Drinkers](https://orovacoffee.com/blogs/news/optimal-coffee-picks-for-morning-energy-a-guide-for-new-drinkers): Optimal Coffee Picks for Morning Energy: A Guide for New Drinkers
+    Updated: 2025-11-28T02:32:44Z
+    Author: Orovacoffee
+    Tags: best coffee choices, best coffee for hikers and campers, best coffee gift ideas uk, best coffee gifts for couples, camping coffee essentials, coffee, coffee consumption habits, coffee gift ideas under £30, coffee tasting gift experience, eco friendly birthday gifts uk, energy, how to brew coffee without a machine, how to pick specialty coffee as a gift, how to tell if coffee is high quality, morning coffee, new drinkers, optimal coffee picks, sustainable coffee gift box, trends, what is the best coffee for mornings
+  - [The Coffee Beans Guide: Brazil and Colombia's cherished gifts](https://orovacoffee.com/blogs/news/the-coffee-beans-guide-brazil-and-colombias-cherished-gifts): The Coffee Beans Guide: Brazil and Colombia's cherished gifts
+    Updated: 2025-11-28T02:33:16Z
+    Author: Orovacoffee
+    Tags: beans, best coffee beans from brazil, best place to buy coffee, brewing, christmas gifts, coffee, coffee beans, coffee brewing, coffee gift guide for birthdays, coffee gift ideas for christmas uk, coffee gifts, coffee gifts for her birthday, coffee guide, colombian coffee varieties, gifts, specialty coffee, specialty coffee vs supermarket coffee, sustainable gift ideas for new parents, where can i buy coffee online
+  - [Discovering Top Coffee for Outdoor Adventures: Specialty and Vegan Bean Options](https://orovacoffee.com/blogs/news/discovering-top-coffee-for-outdoor-adventures-specialty-and-vegan-bean-options): Discovering Top Coffee for Outdoor Adventures: Specialty and Vegan Bean Options
+    Updated: 2025-11-28T02:39:16Z
+    Author: Orovacoffee
+    Tags: adventure coffee gift pack, are coffee beans vegan?, beans, best coffee for camping, best place to buy coffee beans?, coffee, coffee beans, fresh roasted coffee, gift for someone who loves espresso, how to give coffee as a gift, outdoor coffee, roasting, specialty coffee, specialty coffee beans, top coffee for hiking, top coffee for outdoor lovers, travel-friendly coffee, vegan beans, where can i buy coffee beans uk?
+  - [Unlock Unique Coffee Gifts for Adventure Lovers: Mexican Water Process Decaf](https://orovacoffee.com/blogs/news/unlock-unique-coffee-gifts-for-adventure-lovers-mexican-water-process-decaf): Unlock Unique Coffee Gifts for Adventure Lovers: Mexican Water Process Decaf
+    Updated: 2025-11-28T03:11:12Z
+    Author: Orovacoffee
+    Tags: adventure, coffee, coffee beans, coffee gift ideas for him, coffee gifts for adventurers, compostable coffee bags, decaf coffee, eco coffee, eco-friendly coffee gift set, gifts, single origin coffee gifts, specialty coffee for outdoor enthusiasts, travel-friendly coffee, unique coffee, water process, what is a coffee brewer bag?, what is the best coffee gift for campers, what's the best coffee gift?, where can i buy specialty coffee online?
+  - [Discover Mexican Water Process Decaf Beans Brewing Tips and Eco-Friendly Gift Ideas in the UK](https://orovacoffee.com/blogs/news/discover-mexican-water-process-decaf-beans-brewing-tips-and-eco-friendly-gift-ideas-in-the-uk): Discover Mexican Water Process Decaf Beans Brewing Tips and Eco-Friendly Gift Ideas in the UK
+    Updated: 2025-11-28T03:11:30Z
+    Author: Orovacoffee
+    Tags: beans, brazilian coffee gift set, brewing, coffee beans, coffee gift box, coffee gift box uk, coffee gift for him / her, coffee gift under £25, coffee sampler gift, coffee sampler gift box, decaf, eco-friendly gifts, environmental gift suggestions, mexican coffee, single-origin coffee gifts, specialty coffee gifts, sustainable brewing tips, sustainable coffee gift, uk coffee brewing ideas, where can i buy coffee gifts
+  - [Best Practices for Travelers: Making Espresso on the Go](https://orovacoffee.com/blogs/news/best-practices-for-travelers-making-espresso-on-the-go): Best Practices for Travelers: Making Espresso on the Go
+    Updated: 2025-11-29T02:01:54Z
+    Author: Orovacoffee
+    Tags: best coffee for hikers and campers, best coffee gift ideas uk, best coffee gifts for couples, best coffee practices for travelers, brewing, camping coffee essentials, coffee, coffee gift ideas under £30, coffee tasting gift experience, coffee tips, eco friendly birthday gifts uk, espresso, how to brew coffee without a machine, how to pick specialty coffee as a gift, how to tell if coffee is high quality, on-the-go espresso, portable espresso maker, sustainable coffee gift box, travel coffee, what is the best coffee for mornings
+  - [Seasonal Joy: Find compelling coffee Christmas gifts that delight](https://orovacoffee.com/blogs/news/seasonal-joy-find-compelling-coffee-christmas-gifts-that-delight): Seasonal Joy: Find compelling coffee Christmas gifts that delight
+    Updated: 2025-11-29T02:02:18Z
+    Author: Orovacoffee
+    Tags: best coffee gifts, best place to buy coffee, brewing, christmas gifts, coffee, coffee beans, coffee gift guide for birthdays, coffee gift ideas for christmas uk, coffee gifts, coffee gifts for her birthday, coffee lovers, festive brews, gifts, holiday coffee ideas, specialty coffee vs supermarket coffee, sustainable gift ideas for new parents, where can i buy coffee online
+  - [How to Choose and Present Coffee as an Elegant Gift for Espresso Aficionados](https://orovacoffee.com/blogs/news/how-to-choose-and-present-coffee-as-an-elegant-gift-for-espresso-aficionados): How to Choose and Present Coffee as an Elegant Gift for Espresso Aficionados
+    Updated: 2025-11-29T02:08:32Z
+    Author: Orovacoffee
+    Tags: adventure coffee gift pack, are coffee beans vegan?, beans, best place to buy coffee beans?, coffee, coffee beans, coffee presentation, elegant gift, espresso lovers, fresh roasted coffee, gift for someone who loves espresso, gift ideas for coffee enthusiasts, how to gift espresso coffee, how to give coffee as a gift, roast, specialty coffee beans, top coffee for outdoor lovers, travel-friendly coffee, where can i buy coffee beans uk?
+  - [Single-Origin Rwanda Coffee Beans: The Eco-Friendly Gift Set Perfect for Travel and Camping](https://orovacoffee.com/blogs/news/single-origin-rwanda-coffee-beans-the-eco-friendly-gift-set-perfect-for-travel-and-camping): Single-Origin Rwanda Coffee Beans: The Eco-Friendly Gift Set Perfect for Travel and Camping
+    Updated: 2025-11-29T02:40:58Z
+    Author: Orovacoffee
+    Tags: beans, camping coffee, coffee, coffee beans, coffee gift ideas for him, compostable coffee bags, eco coffee, eco-friendly coffee gift set, eco-friendly gifts, rwanda, single origin coffee gifts, single-origin coffee beans, sustainable travel gifts, travel essentials, travel-friendly coffee, what is a coffee brewer bag?, what is the best coffee gift for campers, what's the best coffee gift?, where can i buy specialty coffee online?
+  - [Where Can You Buy the Best Single-Origin Rwanda Coffee Beans for the Ideal UK Coffee Gift Box?](https://orovacoffee.com/blogs/news/where-can-you-buy-the-best-single-origin-rwanda-coffee-beans-for-the-ideal-uk-coffee-gift-box): Where Can You Buy the Best Single-Origin Rwanda Coffee Beans for the Ideal UK Coffee Gift Box?
+    Updated: 2025-11-29T02:41:18Z
+    Author: Orovacoffee
+    Tags: beans, best rwandan coffee beans, brazilian coffee gift set, coffee, coffee beans, coffee gift box, coffee gift box uk, coffee gift for him / her, coffee gift under £25, coffee gifts, coffee sampler gift, coffee sampler gift box, gift box, rwanda, single-origin coffee, single-origin coffee gifts, specialty coffee gifts, sustainable coffee gift, where can i buy coffee gifts, where to buy coffee
 - [inceptions](https://orovacoffee.com/blogs/inceptions)
   - [WORLD'S FINEST Specialty Coffee Gift Box - Gift Guide](https://orovacoffee.com/blogs/inceptions/worlds-finest-specialty-coffee-gift-box-gift-guide)
     Updated: 2025-10-15T01:28:25Z
