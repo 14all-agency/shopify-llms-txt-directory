@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-11-29T00:01:24.967Z
+- Updated At: 2025-12-01T00:01:24.591Z
 
 ## Products
 
@@ -997,7 +997,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/familyjpg.jpg?v=1739743945
   Price: 8,00 € EUR
 - [Tappetino mouse ' Gatto' personalizzabile con nome, data o dedica](https://www.amashopstudio.it/products/tappetino-mouse-family-personalizzabile-con-nome-data-o-dedica-copia): Tappetino mouse stampato con colori brillanti . Fai un regalo unico . Personalizzato con stampa sublimatica. Personalizzalo con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care ! Misure: 23 x 19 cm - spessore 5 mm
-  Updated: 2025-09-17T14:59:29Z
+  Updated: 2025-11-30T09:57:00Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1289,7 +1289,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/casetta.jpg?v=1742503399
   Price: 5,00 € EUR
 - [Portachiavi 'spotify ' personalizzabile con foto e titolo canzone](https://www.amashopstudio.it/products/portachiavi-spotify-personalizzabile-con-foto-e-titolo-canzone): Portachivi Spotify Interattivo Personalizzabile Rendi omaggio alla tua musica preferita con il portachivi Spotify interattivo personalizzabile! Questo elegante supporto non è solo un accessorio, ma un modo innovativo per celebrare i tuoi brani del cuore. Caratteristiche: Interattivo: Scansiona il codice per ascoltare la canzone direttamente su Spotify. Personalizzazione: Aggiungi una foto e un testo della tua canzone preferita, rendendo ogni pezzo unico. Design Elegante: Realizzato con materiali di alta qualità, si adatta perfettamente a qualsiasi ambiente. Regalo Ideale: Perfetto per compleanni, anniversari o per sorprendere un amico amante della musica. Cattura i ricordi musicali in modo originale e creativo con il portachiavi Spotify interattivo!
-  Updated: 2025-11-23T07:43:40Z
+  Updated: 2025-11-29T18:10:20Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1901,7 +1901,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/BIANCA2.jpg?v=1746085528
     Price: 9,00 € EUR
 - [T-Shirt ‘NAPOLI’ chi ama non dimentica |Numero 10 |Maradona |bianca mod.2](https://www.amashopstudio.it/products/t-shirt-napoli-chi-ama-non-dimentica-numero-10-maradona-bianca-copia): T-Shirt ‘NAPOLI’ La t-shirt celebrativa ‘NAPOLI’ è un capo d'abbigliamento perfetto per chi ama e non dimentica. Ecco alcune delle sue caratteristiche principali: Caratteristiche della T-Shirt Materiale**: Realizzata in cotone di alta qualità per garantire comfort e durata.Colore**: Disponibile in un elegante colore bianco che si abbina facilmente a qualsiasi outfit.Taglie**: Offerta in una varietà di taglie per adattarsi a tutti. **Personalizzazione**: Possibilità di personalizzare la parte posteriore della maglietta con il nome che preferisci, rendendo così il capo unico e speciale. Questa t-shirt è un ottimo modo per esprimere il tuo amore e la tua passione per Napoli, con un design che si distingue e una qualità che non delude. È il regalo perfetto per te o per chi ami, un pensiero speciale che porta con sé un pezzo di Napoli.
-  Updated: 2025-09-17T14:59:39Z
+  Updated: 2025-11-29T09:58:17Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -2459,7 +2459,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/napolisito3.jpg?v=1746374758
     Price: 9,00 € EUR
 - [Adesivo ' Forza Napoli Signori si nasce | Supporter calcio | Napoli calcio](https://www.amashopstudio.it/products/adesivo-forza-napoli-tifoso-d-o-c-supporter-calcio-napoli-calcio-copia): . Adesivo in PVC ‘Napoli’ Adatto per Ogni Superficie Gli adesivi in PVC sono una scelta eccellente per chi cerca un'opzione versatile e resistente per decorare o personalizzare superfici diverse. Ecco perché l'adesivo in PVC ‘Napoli’ è ideale per ogni esigenza: Caratteristiche dell'Adesivo in PVC ‘Napoli’ Resistenza: Realizzato con materiali di alta qualità, l'adesivo in PVC ‘Napoli’ è resistente all'acqua, ai raggi UV e agli agenti atmosferici, garantendo una lunga durata nel tempo. Versatilità: Può essere applicato su una varietà di superfici, incluse pareti, vetri, metallo, plastica e molto altro. Facilità di Applicazione: Grazie al suo design autoadesivo, l'adesivo è semplice da applicare e rimuovere senza lasciare residui. Personalizzazione: Disponibile in diverse dimensioni e disegni per soddisfare ogni gusto e necessità.
-  Updated: 2025-09-17T14:59:42Z
+  Updated: 2025-11-30T04:27:47Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -3160,7 +3160,7 @@
   Updated: 2025-09-17T14:59:12Z
   Total Products: 2
 - [Ultimi arrivi](https://www.amashopstudio.it/collections/ultimi-arrivi)
-  Updated: 2025-11-23T12:23:52Z
+  Updated: 2025-11-30T12:30:58Z
   Total Products: 147
 - [Tote bag](https://www.amashopstudio.it/collections/tote-bag)
   Updated: 2025-09-17T14:59:12Z
@@ -3169,7 +3169,7 @@
   Updated: 2025-09-17T14:59:12Z
   Total Products: 6
 - [Portachiavi](https://www.amashopstudio.it/collections/portachiavi)
-  Updated: 2025-11-23T12:23:52Z
+  Updated: 2025-11-30T12:30:58Z
   Total Products: 8
 - [T-shirt](https://www.amashopstudio.it/collections/t-shirt)
   Updated: 2025-09-17T14:59:12Z
