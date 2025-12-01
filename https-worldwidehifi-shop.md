@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-11-30T00:00:33.181Z
+- Updated At: 2025-12-01T00:00:33.383Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -238,7 +238,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_a34932d7-3c38-4b8e-8825-c99214149349.jpg?v=1745166775
   Price: 980,00 € EUR
 - [Classé Vorstufe OMEGA-P gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/classe-omega-p-gebraucht-kaufen): Classé Vorstufe OMEGA-P gebraucht kaufen ✅ Geprüfte Vorstufe mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:11Z
+  Updated: 2025-11-30T06:09:28Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -2248,12 +2248,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_95fb3f5b-5a3c-482e-af1b-17e0df1cd55b.jpg?v=1762788614
   Price: 490,00 € EUR
-- [Cambridge Compact Disc Laufwerk CXC gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/cambridge-compact-disc-laufwerk-cxc-gebraucht-kaufen): Cambridge Compact Disc Laufwerk CXC gebraucht kaufen ✅ Top CD Laufwerk gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-11-19T04:15:14Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Price: 440,00 € EUR
 - [Isophon Europa Masterpiece Edition gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/isophon-europa-geprueft-kaufen): Isophon Europa Masterpiece Edition gebraucht kaufen ✅ Hochwertige Lautsprecher gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-11-16T19:26:17Z
   Vendor: WorldWideHiFi
@@ -2299,13 +2293,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_6ccff8da-ba32-4e69-84a8-9cc421585e8c.jpg?v=1763316718
   Price: 490,00 € EUR
-- [Rotel Michi S5 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/rotel-michi-s5-gebraucht-kaufen): Rotel Michi S5 gebraucht kaufen ✅ Geprüfte Stereo-Endstufe mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-21T10:56:39Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_1633c81d-b726-4d48-9195-e44d8338999a.jpg?v=1763481465
-  Price: 4.920,00 € EUR
 - [Thorens TD 124 DD kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/thorens-td-124-dd-140th-anniversary-gebraucht-kaufen): Thorens TD 124 DD kaufen ✅ Neuer Plattenspieler mit Zertifikat und Originalbox ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-11-21T10:56:39Z
   Vendor: WorldWideHiFi
@@ -2430,12 +2417,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Product Type: 
   Availability: Available
   Price: 590,00 € EUR
-- [Burmester 870 CD-Prozessor gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/burmester-870-cd-prozessor-vorstufe-gebraucht-kaufen): Burmester 870 CD-Prozessor gebraucht kaufen ✅ Geprüfter Preamplifier mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-22T00:22:23Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Price: 1.490,00 € EUR
 - [Bang & Olufsen Beolab 4 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/bang-olufsen-beolab-4-gebraucht-kaufen): Bang & Olufsen Beolab 4 gebraucht kaufen ✅ Aktiv-Lautsprecher geprüft mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-11-22T06:37:43Z
   Vendor: WorldWideHiFi
@@ -2501,17 +2482,45 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_f6648d32-1cac-42c0-aa51-dd2a5eecf7ed.jpg?v=1763808301
   Price: 16.900,00 € EUR
+- [Bowers & Wilkins 801 D4 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/bowers-wilkins-801-d4-gebraucht-kaufen): Bowers & Wilkins 801 D4 gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
+  Updated: 2025-11-30T16:53:46Z
+  Vendor: WorldWideHiFi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_f7bc0765-2053-448c-9dbb-5c24a0ba0513.jpg?v=1764520699
+  Price: 27.900,00 € EUR
+- [HAIGNER TAU gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/haigner-tau-gebraucht-kaufen-1): HAIGNER TAU gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
+  Updated: 2025-11-30T16:53:46Z
+  Vendor: WorldWideHiFi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_5b4aa7b9-e19b-4e2f-9c24-95e1aea69692.jpg?v=1764520703
+  Price: 3.900,00 € EUR
+- [Bang & Olufsen Beolab PENTA gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/bang-olufsen-beolab-penta-gebraucht-kaufen): Bang & Olufsen Beolab PENTA gebraucht kaufen ✅ Aktiv-Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
+  Updated: 2025-11-30T16:53:46Z
+  Vendor: WorldWideHiFi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_5bc5937d-ef91-407a-9e35-777904b5fad2.jpg?v=1764520708
+  Price: 720,00 € EUR
+- [Bang & Olufsen Beolab PENTA gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/bang-olufsen-beolab-penta-gebraucht-kaufen-1): Bang & Olufsen Beolab PENTA gebraucht kaufen ✅ Geprüfte Aktivlautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
+  Updated: 2025-11-30T16:53:46Z
+  Vendor: WorldWideHiFi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_14d7d205-dc11-4003-96ee-0a653f6f5c4b.jpg?v=1764520712
+  Price: 720,00 € EUR
 
 ## Collections
 
 - [Gebrauchte Lautsprecher kaufen, HiFi Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecher-kaufen): Gebrauchte Lautsprecher kaufen ✓ Standlautsprecher, Aktivlautsprecher, Lautsprecherboxen & mehr im Top-Zustand ✓ Sicherer Versand ✓ High-End HiFi günstig
-  Updated: 2025-11-22T12:23:24Z
-  Total Products: 56
+  Updated: 2025-11-30T16:53:47Z
+  Total Products: 60
 - [Gebrauchte Kopfhörer kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-kopfhoerer-kaufen): Gebrauchte Kopfhörer kaufen ✓ High-End-Kopfhörer, On-Ear-Kopfhörer & mehr im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
   Updated: 2025-08-30T11:22:02Z
   Total Products: 2
 - [HiFi Verstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-verstaerker-gebraucht-kaufen): HiFi Verstärker gebraucht kaufen ✓ Vollverstärker, Vorstufen, Endstufen, Röhrenverstärker & mehr im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-11-27T12:23:56Z
+  Updated: 2025-11-30T12:26:54Z
   Total Products: 112
 - [Gebrauchte Vollverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-vollverstaerker-kaufen): Gebrauchte Vollverstärker kaufen ✓ Einsteigermodelle bis High-End Audio gebraucht im Top-Zustand ✓ Sicherer Versand ✓ Preiswerte High-End HiFi online bestellen
   Updated: 2025-11-21T17:01:53Z
@@ -2520,7 +2529,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-11-21T10:50:55Z
   Total Products: 32
 - [HiFi Endverstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-endverstarker-gebraucht-kaufen): HiFi Endverstärker gebraucht kaufen ✓ Gebrauchte Endstufen & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-11-21T17:01:53Z
+  Updated: 2025-11-30T12:26:54Z
   Total Products: 36
 - [Gebrauchte Röhrenverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-roehrenverstaerker-kaufen): Gebrauchte Röhrenverstärker kaufen ✓ Röhrenverstärker im Top-Zustand gebraucht kaufen ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
   Updated: 2025-11-27T12:23:56Z
@@ -2538,7 +2547,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-11-22T12:23:24Z
   Total Products: 8
 - [Gebrauchte CD-Player kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-cd-player-kaufen): Gebrauchte CD-Player kaufen ✓ HiFi CD-Player & CD-Wechsler im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
-  Updated: 2025-11-22T11:01:31Z
+  Updated: 2025-11-30T12:26:54Z
   Total Products: 41
 - [Netzwerkplayer gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/nezwerkplayer-gebraucht-kaufen): Netzwerkplayer gebraucht kaufen ✓ Netzwerkplayer & Musikstreamer im Top-Zustand ✓ Sicherer Versand weltweit ✓ Preiswerte High-End HiFi online bestellen
   Updated: 2025-11-16T16:16:19Z
@@ -2571,13 +2580,13 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-11-22T09:26:16Z
   Total Products: 23
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-11-29T12:36:02Z
-  Total Products: 144
+  Updated: 2025-11-30T19:11:27Z
+  Total Products: 147
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
-  Updated: 2025-11-22T11:01:31Z
-  Total Products: 25
+  Updated: 2025-11-30T16:53:47Z
+  Total Products: 26
 - [Neueste Produkte](https://worldwidehifi.shop/collections/neueste-produkte)
-  Updated: 2025-11-27T23:06:27Z
+  Updated: 2025-11-30T19:11:27Z
   Total Products: 150
 
 ## Store Pages
