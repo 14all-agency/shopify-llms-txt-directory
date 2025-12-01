@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-11-27T00:00:31.207Z
+- Updated At: 2025-12-01T00:01:02.484Z
 
 ## Products
 
@@ -392,7 +392,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/5300C.png?v=1673534915
   Price: RM 600.00 MYR
 - [DOCASA 530mm Counter Top Wash Basin come with single pre-punched tap hole, overflow & cap](https://bath2u.com/products/docasa-530mm-counter-top-wash-basin-come-with-single-pre-punched-tap-hole-overflow-cap): Material: Ceramic Dimension: 530 (W) x 450 (L) x 155 (H) mm Type: Counter Top Colour: White Finish: Glossy Note: Tap is not included
-  Updated: 2025-03-07T01:03:15Z
+  Updated: 2025-11-28T01:33:34Z
   Vendor: DOCASA
   Product Type: Counter Top Basin
   Availability: Available
@@ -742,7 +742,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRTWB1419-BL4.png?v=1674057581
   Price: RM 540.00 MYR
 - [SORENTO 445mm Matte Black Counter Mounting Wash Basin come with single pre-punched tap hole](https://bath2u.com/products/sorento-445mm-matte-black-counter-mounting-wash-basin-come-with-single-pre-punched-tap-hole): Material: Ceramic Dimension: 445 (W) x 330 (L) x 130 (H) mm Type: Counter Top Colour: Black Finish: Matte Note: Tap is not included
-  Updated: 2025-03-06T12:10:00Z
+  Updated: 2025-11-30T08:25:07Z
   Vendor: SORENTO
   Product Type: Counter Top Basin
   Availability: Available
@@ -2607,7 +2607,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/G05K.png?v=1678434531
   Price: RM 330.00 MYR
 - [ALFRED VICTORIA 305mm Single Lever Basin Mixer Tap - Matt Black](https://bath2u.com/products/alfred-victoria-305mm-single-lever-basin-mixer-tap-matt-black): Specification : Core Material : Brass Dimension : 165 L x 42 W x 305 H mm High Quality Anodised Matt Black Finish 35mm Ceramic Cartridge Attached with Soft Output Aerator Complete with a pair of Flexible Hose One piece high body
-  Updated: 2025-01-20T20:54:21Z
+  Updated: 2025-11-29T00:13:20Z
   Vendor: ALFRED VICTORIA
   Product Type: Tall Tap
   Availability: Available
