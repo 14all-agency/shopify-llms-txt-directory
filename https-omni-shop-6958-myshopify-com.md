@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-11-04T08:50:09Z
 - Contact Email: djpoppops2015@gmail.com
-- Updated At: 2025-11-30T00:01:43.184Z
+- Updated At: 2025-12-01T00:01:25.724Z
 
 ## Products
 
@@ -629,7 +629,7 @@
     Image: https://cdn.shopify.com/s/files/1/0999/4846/2344/files/9d4da2e1-76e1-42c3-b33a-e6ed5c8f1501_e3bb5556-3b72-441c-b872-17032a3f2812.jpg?v=1763677933
     Price: £89.90 GBP
 - [Winter Gloves Touch Screen Riding Motorcycle Sliding Waterproof Sports Gloves With Fleece](https://omni-shop-6958.myshopify.com/products/winter-gloves-touch-screen-riding-motorcycle-sliding-waterproof-sports-gloves-with-fleece): Overview: Unique design, stylish and beautiful. Good material, comfortable to wear. A variety of colors, more choice. Product information: Material: Polar fleece Usage classification: Riding Gloves Function: Antiskid Style: Finger Gloves Color: Blue, purple, black, orange Size: M, l, XL Package Contents: Gloves x1 pair
-  Updated: 2025-11-29T19:12:57Z
+  Updated: 2025-11-30T23:16:43Z
   Vendor: Tranquil Touch
   Product Type: gloves
   Availability: Available
