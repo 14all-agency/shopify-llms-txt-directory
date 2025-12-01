@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2021-12-14T17:53:45Z
 - Contact Email: info@rugbranch.com
-- Updated At: 2025-11-30T00:02:18.278Z
+- Updated At: 2025-12-01T00:01:59.389Z
 
 ## Products
 
@@ -229,7 +229,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2917-Parent_19.png?v=1746826430
     Price: $30.97 CAD
 - [Savannah Boho Abstract Yellow Rug - Vibrant & Durable | Rug Branch](https://www.rugbranch.com/products/sp2916ml): Add color to your space with the Savannah Boho Abstract Yellow Rug, featuring bold hues and durable loom-made construction from Turkey.
-  Updated: 2025-11-29T23:14:38Z
+  Updated: 2025-11-30T22:50:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -625,7 +625,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912-Parent_16.jpg?v=1746820808
     Price: $102.45 CAD
 - [Savannah Geometric Beige Rug - Modern & Vibrant | Rug Branch](https://www.rugbranch.com/products/sp2911cr): Make a statement with the Savannah Geometric Beige Rug, featuring a bold abstract design, durable polypropylene, and jute backing. Made in Turkey.
-  Updated: 2025-11-28T17:07:08Z
+  Updated: 2025-11-30T00:51:47Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -729,7 +729,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2910-Parent_13.jpg?v=1746820642
     Price: $52.64 CAD
 - [Savannah Yellow Rug - Mid-Century Geometric | Rug Branch](https://www.rugbranch.com/products/sp2900yw): Brighten your space with the Savannah Yellow Rug. This loom-made polypropylene rug features a bold geometric pattern for a stylish mid-century modern look.
-  Updated: 2025-11-28T18:13:08Z
+  Updated: 2025-11-30T17:26:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1091,7 +1091,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2897-Parent_16.jpg?v=1746817470
     Price: $102.45 CAD
 - [Savannah Boho Contemporary Blue Rug | Rug Branch](https://www.rugbranch.com/products/sp2890cr): Boho blue rug from Turkey with a striking tribal pattern and durable jute backing. Perfect for modern and cozy spaces.
-  Updated: 2025-11-29T21:21:21Z
+  Updated: 2025-11-30T18:14:36Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1385,7 +1385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2845_BLUE_2_5b8efa2e-22b0-4fc4-9eea-2ee17bb87424.jpg?v=1710361681
     Price: $78.18 CAD
 - [Savannah Southwestern Blue Runner Rug | Rug Branch](https://www.rugbranch.com/products/sp2801ny): Southwestern blue runner rug from Turkey with a vibrant transitional design and durable jute backing. Perfect for hallways and narrow spaces.
-  Updated: 2025-11-29T02:45:17Z
+  Updated: 2025-11-30T22:50:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -1447,11 +1447,11 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2801_NAVY_1_a0e405a6-710d-47b6-a3d0-02f46559c4f0.jpg?v=1741845565
     Price: $52.64 CAD
   - [2' x 11'](https://www.rugbranch.com/products/sp2801ny?variant=42105360285719)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
     Price: $113.98 CAD
   - [2' x 12'](https://www.rugbranch.com/products/sp2801ny?variant=42105360318487)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
     Price: $119.39 CAD
   - [2' x 14'](https://www.rugbranch.com/products/sp2801ny?variant=42105360351255)
@@ -1487,11 +1487,11 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
     Price: $264.50 CAD
   - [2' x 7'](https://www.rugbranch.com/products/sp2801ny?variant=42105360613399)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
     Price: $77.91 CAD
   - [2' x 9'](https://www.rugbranch.com/products/sp2801ny?variant=42105360646167)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2801-Parent_16.jpg?v=1752036506
     Price: $102.45 CAD
 - [Oasis Abstract River Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/sy7769mlt): Elevate your decor with the Oasis Abstract River Grey Rug. Loom-made in Turkey, it features a fluid design with a soft cotton-polyester blend and jute backing.
@@ -1919,7 +1919,7 @@
     Availability: Available
     Price: $53.02 CAD
 - [Montage Geometric Grey Rug - Modern & Bold | Rug Branch](https://www.rugbranch.com/products/ve9706gy): Enhance your space with the Montage Geometric Grey Rug. This loom-made olefin rug features a striking wave pattern for a sleek, contemporary look.
-  Updated: 2025-11-27T18:54:46Z
+  Updated: 2025-11-30T16:21:31Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2099,7 +2099,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VEGAS-8973-BEIGE_c5c3c620-0216-4f5c-9228-eb10bfdcd462.jpg?v=1710357929
     Price: $280.59 CAD
 - [Montage Abstract Camo Brown Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ve7978bg): Montage Abstract Camo Brown Rug – A Turkish loom-made rug with a striking brown, beige, and black abstract pattern. Durable olefin heatset with jute backing.
-  Updated: 2025-11-27T22:25:46Z
+  Updated: 2025-11-30T21:45:18Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2193,7 +2193,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE7978-Parent_20.jpg?v=1746828199
     Price: $66.89 CAD
 - [Montage Geometric Checkered Black Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ve7443gy): Montage Geometric Checkered Black Rug – A modern Turkish rug with bold black, grey, and white circles and squares. Durable olefin heatset with jute backing.
-  Updated: 2025-11-29T05:35:38Z
+  Updated: 2025-11-30T05:12:17Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2323,7 +2323,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE7443-Parent_16.jpg?v=1746827893
     Price: $90.77 CAD
 - [Montage Abstract Modern Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ve7429gy): Enhance your space with the Montage Abstract Modern Grey Rug. A Turkish loom-made rug with bold red, grey, and black abstract patterns. Durable olefin heatset.
-  Updated: 2025-11-28T21:02:51Z
+  Updated: 2025-11-30T16:21:30Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2776,7 +2776,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/7_bbf9bfb0-6439-4ab1-8fdc-54b5a7c50db7.jpg?v=1741924779
     Price: $90.77 CAD
 - [Montage Abstract Swirls Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ve6687gy): Enhance your decor with the Montage Abstract Swirls Grey Rug. Its flowing swirl design adds elegance, while olefin and jute ensure lasting durability.
-  Updated: 2025-11-27T18:54:56Z
+  Updated: 2025-11-30T19:51:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2956,7 +2956,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/7_2ed092e2-d4a1-40ef-b479-684897284a62.jpg?v=1741924490
     Price: $90.77 CAD
 - [Montage Geometric Checkered Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ve5082gy): Enhance your space with the Montage Geometric Checkered Grey Rug. Its bold square pattern adds style, while olefin and jute ensure lasting durability.
-  Updated: 2025-11-27T18:54:56Z
+  Updated: 2025-11-30T16:21:30Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -2990,7 +2990,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE5082-Parent_16.jpg?v=1746829272
     Price: $115.62 CAD
   - [2' x 20'](https://www.rugbranch.com/products/ve5082gy?variant=40976937549847)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE5082-Parent_16.jpg?v=1746829272
     Price: $146.39 CAD
   - [3' x 10'](https://www.rugbranch.com/products/ve5082gy?variant=40976937582615)
@@ -3042,11 +3042,11 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE5082-Parent_16.jpg?v=1746829272
     Price: $147.79 CAD
   - [2' x 18'](https://www.rugbranch.com/products/ve5082gy?variant=42114168160279)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE5082-Parent_16.jpg?v=1746829272
     Price: $154.33 CAD
   - [2' x 19'](https://www.rugbranch.com/products/ve5082gy?variant=42114168193047)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE5082-Parent_16.jpg?v=1746829272
     Price: $160.83 CAD
   - [2' x 2'](https://www.rugbranch.com/products/ve5082gy?variant=42114168225815)
@@ -3054,7 +3054,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE5082-Parent_15.jpg?v=1741924288
     Price: $35.48 CAD
   - [2' x 25'](https://www.rugbranch.com/products/ve5082gy?variant=42114168258583)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE5082-Parent_16.jpg?v=1746829272
     Price: $207.36 CAD
   - [2' x 3'](https://www.rugbranch.com/products/ve5082gy?variant=42114168291351)
@@ -3062,7 +3062,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE5082-Parent_15.jpg?v=1741924288
     Price: $41.59 CAD
   - [2' x 30'](https://www.rugbranch.com/products/ve5082gy?variant=42114168324119)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE5082-Parent_16.jpg?v=1746829272
     Price: $247.56 CAD
   - [2' x 5'](https://www.rugbranch.com/products/ve5082gy?variant=42114168356887)
@@ -3082,7 +3082,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE5082-Parent_16.jpg?v=1746829272
     Price: $90.77 CAD
 - [Montage Abstract Lines Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ve1888gy): Upgrade your space with the Montage Abstract Lines Grey Rug. Its sleek curved design with red accents adds style, while olefin and jute ensure durability.
-  Updated: 2025-11-27T18:55:03Z
+  Updated: 2025-11-30T16:21:38Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3112,7 +3112,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE1888-Parent_16.jpg?v=1746827634
     Price: $115.62 CAD
   - [2' x 20'](https://www.rugbranch.com/products/ve1888gy?variant=40976936828951)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE1888-Parent_16.jpg?v=1746827634
     Price: $146.39 CAD
   - [3' x 10'](https://www.rugbranch.com/products/ve1888gy?variant=40976936861719)
@@ -3160,19 +3160,19 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE1888-Parent_16.jpg?v=1746827634
     Price: $124.40 CAD
   - [2' x 16'](https://www.rugbranch.com/products/ve1888gy?variant=42114148565015)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE1888-Parent_16.jpg?v=1746827634
     Price: $141.29 CAD
   - [2' x 17'](https://www.rugbranch.com/products/ve1888gy?variant=42114148597783)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE1888-Parent_16.jpg?v=1746827634
     Price: $147.79 CAD
   - [2' x 18'](https://www.rugbranch.com/products/ve1888gy?variant=42114148630551)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE1888-Parent_16.jpg?v=1746827634
     Price: $154.33 CAD
   - [2' x 19'](https://www.rugbranch.com/products/ve1888gy?variant=42114148663319)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE1888-Parent_16.jpg?v=1746827634
     Price: $160.83 CAD
   - [2' x 2'](https://www.rugbranch.com/products/ve1888gy?variant=42114148696087)
@@ -3180,7 +3180,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VEGAS-1888-GREY_db5aaeb6-6c81-4f1d-965b-a60d38ed35d6.jpg?v=1741924075
     Price: $35.48 CAD
   - [2' x 25'](https://www.rugbranch.com/products/ve1888gy?variant=42114148728855)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/VE1888-Parent_16.jpg?v=1746827634
     Price: $207.36 CAD
   - [2' x 3'](https://www.rugbranch.com/products/ve1888gy?variant=42114148761623)
@@ -3604,7 +3604,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/PUFFY-8662-BIGE_1_beac5d3c-be88-4f00-bded-d865e0012d90.jpg?v=1710365569
     Price: $358.76 CAD
 - [Retro Geometric Shag Beige Rug - Plush & Stylish | Rug Branch](https://www.rugbranch.com/products/pf8048gy): Retro Geometric Shag Beige Rug – a soft polyester rug with a bold abstract pattern in beige, black, and white. Plush, cozy, and durable with jute backing.
-  Updated: 2025-11-25T06:55:21Z
+  Updated: 2025-11-30T18:14:36Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3629,7 +3629,7 @@
     Availability: Available
     Price: $62.72 CAD
 - [Retro Abstract Shag Grey Rug - Plush & Modern | Rug Branch](https://www.rugbranch.com/products/pf8047iv): Retro Abstract Shag Grey Rug – a soft polyester rug with a bold abstract design in grey, black, and beige. Plush, stylish, and durable with jute backing.
-  Updated: 2025-11-27T22:25:46Z
+  Updated: 2025-11-30T00:51:46Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -3706,7 +3706,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/PUFFY-8023-IVORY_1_6923b0c1-c713-4bbe-9601-fb443c5acb9a.jpg?v=1710365582
     Price: $358.76 CAD
 - [Premium Non-Slip Rug Pad - Secure & Durable | Rug Branch](https://www.rugbranch.com/products/hpad): Enhance safety with the Premium Non-Slip Rug Pad. Made from durable PVC, this loom-made pad keeps rugs in place while protecting your floors.
-  Updated: 2025-11-29T21:21:26Z
+  Updated: 2025-11-30T19:51:16Z
   Vendor: Rug Branch
   Product Type: Rug Pads
   Availability: Available
@@ -3744,7 +3744,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/HPAD-Parent_16.jpg?v=1746738948
     Price: $25.49 CAD
 - [Supreme Non-Slip Rug Pad - Secure & Durable | Rug Branch](https://www.rugbranch.com/products/mpad): Keep your rugs in place with the Supreme Non-Slip Rug Pad. Made from durable PVC, this loom-made pad adds grip and protects your floors.
-  Updated: 2025-11-28T19:19:21Z
+  Updated: 2025-11-30T06:16:17Z
   Vendor: Rug Branch
   Product Type: Rug Pads
   Availability: Available
@@ -4967,7 +4967,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9998-Parent_16.jpg?v=1763109475
     Price: $204.57 CAD
 - [Havana Geometric Blue Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ca9994ny): Enhance your space with the Havana Geometric Blue Rug. Loom-made in Turkey, this stylish polypropylene rug features a contemporary mosaic design.
-  Updated: 2025-11-29T03:36:31Z
+  Updated: 2025-11-30T20:07:28Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5273,7 +5273,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9992-Parent_17.jpg?v=1763108800
     Price: $72.94 CAD
 - [Havana Abstract Contemporary Beige Rug | Rug Branch](https://www.rugbranch.com/products/ca9929iv): Elevate your space with the Havana Abstract Contemporary Beige Rug. Loom-made in Turkey with durable polypropylene, featuring a subtle distressed pattern.
-  Updated: 2025-11-29T05:18:43Z
+  Updated: 2025-11-30T21:45:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5371,7 +5371,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9929-Parent_16.jpg?v=1763108661
     Price: $72.94 CAD
 - [Havana Moroccan Contemporary Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ca9925gy): Enhance your decor with the Havana Moroccan Contemporary Grey Rug. Loom-made in Turkey with durable polypropylene, featuring a distressed Moroccan pattern.
-  Updated: 2025-11-29T19:44:26Z
+  Updated: 2025-11-30T15:49:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5465,7 +5465,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/CA9925-Parent_22.jpg?v=1763108415
     Price: $72.94 CAD
 - [Havana Abstract Contemporary Blue Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ca9924ny): Upgrade your space with the Havana Abstract Contemporary Blue Rug. Loom-made in Turkey with durable polypropylene, featuring a chic distressed pattern.
-  Updated: 2025-11-29T19:44:21Z
+  Updated: 2025-11-30T20:55:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -5951,7 +5951,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/5486-allure-collection-area-rugs-koshani-999176_7bd77b3f-f6b5-42cf-b36b-ee983dc403c0.jpg?v=1710368427
     Price: $598.83 CAD
 - [Vogue Abstract Green Rug | Rug Branch](https://www.rugbranch.com/products/all5465gr): Refresh your space with the Vogue Abstract Green Rug. This loom-made Turkish rug features a modern abstract design in green and beige. Stylish and durable.
-  Updated: 2025-11-27T18:54:01Z
+  Updated: 2025-11-30T15:49:20Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6213,7 +6213,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA1495-Parent_1.jpg?v=1710365906
     Price: $264.05 CAD
 - [Sakarya Modern Abstract Brown Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ha1911br): Upgrade your space with the Sakarya Abstract Brown Rug. This loom-made Turkish rug features a modern design, durable polypropylene, and jute backing.
-  Updated: 2025-11-29T14:07:06Z
+  Updated: 2025-11-30T17:26:22Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6283,7 +6283,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA2475-Parent_1.jpg?v=1710365898
     Price: $264.05 CAD
 - [Sakarya Distressed Oriental Brown Rug - Vintage & Durable | Rug Branch](https://www.rugbranch.com/products/ha2479cr): Add timeless elegance with the Sakarya Distressed Brown Rug. Loom-made in Turkey, this vintage-style polypropylene rug offers durability with a jute backing.
-  Updated: 2025-11-26T11:29:57Z
+  Updated: 2025-11-30T01:40:41Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6415,7 +6415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA8702-Parent_1.jpg?v=1745613410
     Price: $264.05 CAD
 - [Sakarya Abstract Splash Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ha8800cr): Elevate your space with the Sakarya Abstract Splash Grey Rug—Loom-made in Turkey with durable polypropylene and jute backing for a sleek, modern look.
-  Updated: 2025-11-29T23:14:37Z
+  Updated: 2025-11-30T21:45:17Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -6591,7 +6591,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/EL3244-Parent_1_dc158f26-e592-4347-a7bc-5e5736c24975.jpg?v=1710350864
     Price: $746.22 CAD
 - [Melo Modern Iceland Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/el3761bg): Turkish-made Melo Modern Iceland Beige Rug with an abstract design. Durable polyester with a jute backing.
-  Updated: 2025-11-27T22:49:27Z
+  Updated: 2025-11-30T01:08:17Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7044,7 +7044,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/EU8251BG-Parent_1.jpg?v=1710345727
     Price: $303.72 CAD
 - [Eclipse Abstract Geometric Cream Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/eu8252ml): Eclipse Abstract Geometric Cream Rug – A Chinese loom-made rug with bold organic shapes in cream, brown, and black. Durable polyester with canvas backing.
-  Updated: 2025-11-29T05:01:44Z
+  Updated: 2025-11-30T03:18:34Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7406,7 +7406,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/LE5102IV-Parent_1-min.jpg?v=1710350201
     Price: $485.09 CAD
 - [Maya Abstract Modern Beige Rug – Stylish & Soft | Rug Branch](https://www.rugbranch.com/products/le5103bg): Upgrade your space with the Maya Abstract Beige Rug, loom-made in India with soft polyester and durable canvas backing for modern elegance.
-  Updated: 2025-11-25T06:57:26Z
+  Updated: 2025-11-30T01:08:17Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7647,7 +7647,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VIENNA-1555-BEIGE_1_0e0e9efb-7838-41ed-b6bb-ccc4554a2cb9.jpg?v=1710338920
     Price: $666.69 CAD
 - [Amalfi South-Western Boho Grey Rug - Vintage & Durable | Rug Branch](https://www.rugbranch.com/products/vi1555ml): Amalfi South-Western Boho Grey Rug – A Turkish loom-made rug with a distressed tribal pattern in grey tones. Durable polyester-cotton blend with jute backing.
-  Updated: 2025-11-27T18:55:19Z
+  Updated: 2025-11-30T10:00:09Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7913,7 +7913,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/6898-arctic-collection-area-rugs-koshani-5-x-8-feet-cream-grey-914140_dcfbd0e2-864e-4729-811a-cad082868ccf.jpg?v=1710367010
     Price: $658.99 CAD
 - [Sakarya Modern Abstract Brown Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ha6703br): Enhance your space with the Sakarya Modern Abstract Brown Rug—Loom-made in Turkey with durable polypropylene and jute backing for lasting style.
-  Updated: 2025-11-29T03:36:30Z
+  Updated: 2025-11-30T21:45:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -7935,7 +7935,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/HA6703-Parent_1_32331fb5-9106-4ffc-ae5c-e5552d36e666.jpg?v=1710366119
     Price: $264.05 CAD
 - [Sakarya Modern Abstract Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ha6703gy): Upgrade your space with the Sakarya Modern Abstract Grey Rug. Featuring a sleek geometric design, this loom-made Turkish rug is durable and stylish.
-  Updated: 2025-11-29T23:14:30Z
+  Updated: 2025-11-30T13:57:01Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8129,7 +8129,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/SPLASH_2899_RUST_1_b6fa423c-ba8f-46d3-834b-cf8759c0b513.jpg?v=1710364978
     Price: $586.39 CAD
 - [Super Soft Plush Shag Grey Rug - Cozy & Luxurious | Rug Branch](https://www.rugbranch.com/products/ssgy): Experience ultimate comfort with the Super Soft Plush Shag Grey Rug. Made from polyester with a luxe feel, this loom-made rug adds warmth to any space.
-  Updated: 2025-11-29T04:10:32Z
+  Updated: 2025-11-30T16:53:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8178,7 +8178,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SSWH-Parent_1.jpg?v=1710367456
     Price: $93.49 CAD
 - [Retro Shag Beige Rug - Soft & Cozy | Rug Branch](https://www.rugbranch.com/products/pfpliv): Enjoy plush comfort with the Retro Shag Beige Rug. Made in Turkey from soft polyester with a durable jute backing. Perfect for any space.
-  Updated: 2025-11-26T22:31:36Z
+  Updated: 2025-11-30T21:45:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -8204,7 +8204,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/PUFFY-PLAIN-IVORY_1_1a37c548-f7fa-45c1-9a7e-17b6963c60e6.jpg?v=1710365658
     Price: $358.76 CAD
 - [Retro Shag Grey Rug - Soft & Cozy | Rug Branch](https://www.rugbranch.com/products/pfplgy): Add comfort with the Retro Shag Grey Rug. Made from super soft polyester, this loom-made rug offers a plush feel and a stylish, modern touch.
-  Updated: 2025-11-25T07:21:59Z
+  Updated: 2025-11-30T20:23:27Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9363,7 +9363,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2855-Parent_16.jpg?v=1761024372
     Price: $102.45 CAD
 - [Savannah Mid-Century Modern Rust Rug | Rug Branch](https://www.rugbranch.com/products/sp2855rt): Mid-century modern rust rug from Turkey with a vibrant floral pattern and durable jute backing. Perfect for contemporary and stylish spaces.
-  Updated: 2025-11-29T20:16:41Z
+  Updated: 2025-11-30T17:42:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9575,7 +9575,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/VE1166-Parent_15.jpg?v=1746827356
     Price: $37.25 CAD
 - [Montage Geometric Checkered Grey Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/ve1166gy): Upgrade your space with the Montage Geometric Checkered Grey Rug. Its bold checkered pattern adds modern style, while olefin and jute ensure lasting durability.
-  Updated: 2025-11-27T18:54:47Z
+  Updated: 2025-11-30T01:08:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -9683,7 +9683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/4470-comfort-collection-area-rugs-koshani-4-x-6-feet-grey-blue-754578_6162eec0-8ba0-420e-9117-f59fa4b69578.jpg?v=1710359729
     Price: $359.23 CAD
 - [Havana Geometric Grey Rug - Modern & Durable | Rug Branch](https://www.rugbranch.com/products/ca9994bg): Modern Havana Geometric Grey Rug from Turkey. Loom-made with durable polypropylene and jute backing, perfect for a stylish, contemporary space.
-  Updated: 2025-11-29T19:44:25Z
+  Updated: 2025-11-30T16:21:30Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10082,7 +10082,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/products/5452-allure-collection-area-rugs-koshani-10-x-16-feet-beige-175802_969b5b4e-d0ee-4494-965d-f924189b9345.jpg?v=1746641203
     Price: $598.83 CAD
 - [Vogue Abstract Contemporary Red Rug | Rug Branch](https://www.rugbranch.com/products/all5452rd): Vogue Collection by Rug Branch brings forth a palette of perfectly balanced contemporary colours. The richly detailed patterns add vintage finesse with a deft contemporary feel.
-  Updated: 2025-11-27T18:53:56Z
+  Updated: 2025-11-30T16:53:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10490,7 +10490,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8975bk-parent_1_45ca25ac-edc1-4366-b43e-f2fbb4cff67b.jpg?v=1714997688
     Price: $324.72 CAD
 - [Eclipse Mid-Century Modern Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/eu8976bg): Modern Eclipse Mid-Century Abstract Beige Rug from China. Durable polyester with canvas backing and a sleek geometric design.
-  Updated: 2025-11-27T03:09:47Z
+  Updated: 2025-11-30T16:53:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10690,7 +10690,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/AU9400CR_dbfdd14a-db9c-40cf-963b-dd5248772ae7.jpg?v=1719363793
     Price: $298.51 CAD
 - [Maise Abstract Modern Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/au9404bg): Enhance your decor with the Maise Abstract Modern Beige Rug from Turkey. Loom-made with 100% polypropylene and jute backing, featuring a geometric pattern.
-  Updated: 2025-11-28T19:19:17Z
+  Updated: 2025-11-30T18:46:43Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -10887,7 +10887,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/AU9416CR_e3b68555-a97a-4f22-bdd4-132d853935c6.jpg?v=1719394861
     Price: $298.51 CAD
 - [Maise Abstract Modern Cream Rug - Geometric & Durable | Rug Branch](https://www.rugbranch.com/products/au9419cr): Enhance your space with the Maise Abstract Modern Cream Rug. Loom-made in Turkey with durable polypropylene and jute backing, featuring a bold geometric design.
-  Updated: 2025-11-28T19:19:16Z
+  Updated: 2025-11-30T21:45:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11171,7 +11171,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ma2516bg-parent_1.jpg?v=1718118643
     Price: $335.90 CAD
 - [Maison Geometric Cream Rug – Modern & Elegant | Rug Branch](https://www.rugbranch.com/products/ma2518gy): Add a stylish touch with the Maison Geometric Cream Rug, loom-made in Turkey with soft polyester and durable jute backing for lasting beauty.
-  Updated: 2025-11-27T18:54:27Z
+  Updated: 2025-11-30T17:42:22Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11237,7 +11237,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/ma2551bg-parent_1.jpg?v=1718118683
     Price: $335.90 CAD
 - [Maison Abstract Beige Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/ma2554bg): Add a contemporary touch with the Maison Abstract Beige Rug. This loom-made polyester rug features a unique textured pattern for a sleek, modern look.
-  Updated: 2025-11-27T23:34:27Z
+  Updated: 2025-11-30T15:17:12Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11306,7 +11306,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/MI4408BG-Parent_1.jpg?v=1725648473
     Price: $387.23 CAD
 - [Casa Abstract Modern Grey Rug | Rug Branch](https://www.rugbranch.com/products/mi4408gy): Crafted with precision and care, these meticulously crafted area rugs offer not only a stylish foundation for your floors but also captivating decorative accents for your living space.
-  Updated: 2025-11-27T18:54:31Z
+  Updated: 2025-11-30T17:42:22Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11378,7 +11378,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/MI4421BG-Parent_1.jpg?v=1719365707
     Price: $387.23 CAD
 - [Casa Boho Beige Rug - Minimal & Stylish | Rug Branch](https://www.rugbranch.com/products/mi4427bg): Enhance your space with the Casa Boho Beige Rug. This loom-made polyester rug features a subtle abstract design, perfect for modern and bohemian décor.
-  Updated: 2025-11-28T16:34:13Z
+  Updated: 2025-11-30T23:23:02Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11595,7 +11595,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Modern Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/na8258bg): Nomad Abstract Modern Beige Rug – a loom-made polypropylene rug with a geometric beige pattern and sturdy jute backing. Perfect for modern interiors.
-  Updated: 2025-11-29T05:33:49Z
+  Updated: 2025-11-30T01:08:15Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11761,7 +11761,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Persian Oriental Grey Rug - Elegant & Durable | Rug Branch](https://www.rugbranch.com/products/na9943gy): Nomad Persian Oriental Grey Rug – a loom-made polypropylene rug with intricate Persian patterns in grey and beige. Durable with sturdy jute backing.
-  Updated: 2025-11-28T19:52:52Z
+  Updated: 2025-11-30T15:17:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11851,7 +11851,7 @@
     Availability: Available
     Price: $304.52 CAD
 - [Nomad Abstract Modern Beige Rug - Minimalist & Durable | Rug Branch](https://www.rugbranch.com/products/na9960cr): Nomad Abstract Modern Beige Rug – a loom-made polypropylene rug with a sleek linear pattern in beige tones. Durable with sturdy jute backing.
-  Updated: 2025-11-25T20:20:14Z
+  Updated: 2025-11-30T21:45:17Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -11959,7 +11959,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Abstract Blue Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/ri2120bl): Enhance your space with the Atlas Abstract Blue Rug. This loom-made polyester rug features a sleek linear pattern, perfect for a contemporary look.
-  Updated: 2025-11-28T22:12:41Z
+  Updated: 2025-11-30T06:16:17Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12067,7 +12067,7 @@
     Availability: Available
     Price: $286.38 CAD
 - [Atlas Mirage Blue Rug - Abstract & Modern | Rug Branch](https://www.rugbranch.com/products/ri2204bl): Elevate your space with the Atlas Mirage Blue Rug. This loom-made polyester rug features a bold abstract design, perfect for a stylish contemporary look.
-  Updated: 2025-11-26T04:34:01Z
+  Updated: 2025-11-30T19:51:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12319,7 +12319,7 @@
     Availability: Available
     Price: $234.96 CAD
 - [Cadence Abstract Modern Beige Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/si2004wh): Modern loom-made beige rug from Turkey with an abstract geometric pattern and durable jute backing. Perfect for contemporary and cozy spaces.
-  Updated: 2025-11-28T20:45:31Z
+  Updated: 2025-11-30T02:47:58Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12449,7 +12449,7 @@
     Availability: Not Available
     Price: $234.96 CAD
 - [Cadence Abstract Modern Brown Rug | Rug Branch](https://www.rugbranch.com/products/si2022wh): Modern brown rug from Turkey with a unique abstract pattern and durable jute backing. Perfect for stylish and contemporary spaces
-  Updated: 2025-11-24T23:42:42Z
+  Updated: 2025-11-30T17:26:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12525,7 +12525,7 @@
     Availability: Available
     Price: $234.96 CAD
 - [Domus Abstract Modern Cream Black Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/te7465cr): Enhance your decor with the Domus Abstract Modern Rug. Loom-made in Turkey, its bold cream and black design pairs with a durable polypropylene and jute backing.
-  Updated: 2025-11-28T19:19:22Z
+  Updated: 2025-11-30T18:46:42Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12561,7 +12561,7 @@
     Availability: Available
     Price: $351.49 CAD
 - [Domus Abstract Modern Cream Black Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/te7491cr): Enhance your decor with the Domus Abstract Modern Rug. Its cream and black grid design adds style, while durable polypropylene and jute ensure lasting quality.
-  Updated: 2025-11-28T22:12:43Z
+  Updated: 2025-11-30T07:20:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12615,7 +12615,7 @@
     Availability: Available
     Price: $351.49 CAD
 - [Domus Abstract Modern Cream Black Rug - Sleek & Durable | Rug Branch](https://www.rugbranch.com/products/te9007cr): Enhance your space with the Domus Abstract Rug. Its cream and black wavy line design adds modern style, while polypropylene and jute ensure lasting durability.
-  Updated: 2025-11-27T18:54:36Z
+  Updated: 2025-11-30T16:53:56Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12633,7 +12633,7 @@
     Availability: Available
     Price: $351.49 CAD
 - [Domus Abstract Modern Cream Black Rug - Stylish & Durable | Rug Branch](https://www.rugbranch.com/products/te9603cr): Upgrade your decor with the Domus Abstract Rug. Its cream and black geometric design adds modern style, while polypropylene and jute ensure lasting durability.
-  Updated: 2025-11-28T18:29:37Z
+  Updated: 2025-11-30T23:55:35Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12737,7 +12737,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/astra-modern-geometric-grey-rug-area-rugs-rugbranch-489216.jpg?v=1741923297
     Price: $587.55 CAD
 - [Astra Modern Abstract Cream Rug - Soft & Stylish | Rug Branch](https://www.rugbranch.com/products/tu1677cr): Enhance your space with the Astra Modern Abstract Cream Rug. Featuring a subtle geometric design, this soft, loom-made Turkish rug offers style and durability.
-  Updated: 2025-11-28T05:38:15Z
+  Updated: 2025-11-30T14:45:11Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12827,7 +12827,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/TU1735BG-Parent_1.jpg?v=1724184817
     Price: $341.07 CAD
 - [Astra Boho Beige Rug - Abstract & Cozy | Rug Branch](https://www.rugbranch.com/products/tu1946bg): Enhance your space with the Astra Boho Beige Rug. This loom-made polyester rug features a textured abstract design, perfect for a modern bohemian look.
-  Updated: 2025-11-29T20:16:40Z
+  Updated: 2025-11-30T04:39:51Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -12891,7 +12891,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/TU2104BG-Parent_1.jpg?v=1745608459
     Price: $587.55 CAD
 - [Astra Modern Abstract Beige Rug - Soft & Durable | Rug Branch](https://www.rugbranch.com/products/tu2121bg): Enhance your space with the Astra Modern Abstract Beige Rug. Featuring a subtle textured design, this soft, loom-made Turkish rug adds style and durability.
-  Updated: 2025-11-29T06:39:38Z
+  Updated: 2025-11-30T17:42:21Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -13860,7 +13860,7 @@
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/c2a55f2b8589440df2a159dd6fb64a318e9e5932.jpg?v=1757498217
   Price: $868.62 CAD
 - [Barstool (Set of 2) Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo109783): With its unique fusion of deco, glam, and contemporary and stylish minimalist design elements, the Barstool stands out as a true work of art. Its sleek lines and exquisite finishes exude an aura of timeless elegance, making it a seamless fit for a wide range of environments - from high-end restaurants and hotels to chic contemporary homes. When not in use, simply stack these elegant stools away to create more space, and when your guests arrive, bring them out to impress and delight.
-  Updated: 2025-11-28T10:40:13Z
+  Updated: 2025-11-30T23:55:07Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
@@ -14329,7 +14329,7 @@
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110353_1.jpg?v=1757498382
   Price: $858.04 CAD
 - [Bench Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110354): Introducing the Bench, where robust design meets contemporary and stylish elegance. This bench boasts a long-lasting and reliable steel frame coupled with a plush fabric seat, blending comfort with a contemporary aesthetic. Its sleek and versatile style effortlessly enhances various interior decors, adding both functionality and a touch of sophistication to any setting. The Bench is more than a seating solution; it's a statement piece that elevates the ambiance of any room. Transform your space with the Bench, a perfect marriage of strength and style.
-  Updated: 2025-11-28T10:41:51Z
+  Updated: 2025-11-30T10:04:07Z
   Vendor: RBZO
   Product Type: Benches
   Availability: Available
@@ -14672,7 +14672,7 @@
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/f38fed115f3295a612d674f61c0bdd5857903980.jpg?v=1757498500
   Price: $1,112.26 CAD
 - [Counter Stool (Set of 2) Black & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo101409): High design meets everyday casual. This handsome counter stool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort curved seat covered in black faux leather with dramatic stitching. Brushed Stainless Steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-28T10:43:12Z
+  Updated: 2025-11-30T23:39:48Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
@@ -16674,7 +16674,7 @@
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110079_1.jpg?v=1757497495
   Price: $2,488.50 CAD
 - [Sofa Cream - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110277): Presenting the Sofa, a luxurious addition to any living space that combines comfort with contemporary style. Upholstered in plush cord-style fabric, this sofa offers a unique texture and a cozy seating experience. Its design is both contemporary and stylish and inviting, making it an ideal choice for a variety of settings, from a trendy loft to a casual living room. The sofa not only provides an ergonomically designed place to relax but also adds a touch of sophistication to your space. Embrace the blend of contemporary and stylish elegance and inviting comfort with the sofa.
-  Updated: 2025-11-28T10:33:23Z
+  Updated: 2025-11-30T00:10:43Z
   Vendor: RBZO
   Product Type: Sofas
   Availability: Available
@@ -19308,7 +19308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Swift_4878A_HF62.jpg?v=1757496537
     Price: $459.00 CAD
 - [Contemporary Border Black Area Rug](https://www.rugbranch.com/products/rbkl-5052-0110): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-28T10:50:01Z
+  Updated: 2025-11-30T09:26:24Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -19510,7 +19510,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Cora_5382_74.jpg?v=1757496560
     Price: $599.00 CAD
 - [Modern Border Grey Area Rug](https://www.rugbranch.com/products/rbkl-5406-14): Country of Origin: Belgium Construction: Machine Made
-  Updated: 2025-11-28T10:50:17Z
+  Updated: 2025-11-30T01:50:57Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -20879,7 +20879,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Eclipse_J029_9646.jpg?v=1757496746
     Price: $419.00 CAD
 - [Mid-Century Geometric Grey Area Rug](https://www.rugbranch.com/products/rbkl-j032-9626): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-28T10:52:33Z
+  Updated: 2025-11-30T01:56:32Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
