@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-11-30T00:01:24.085Z
+- Updated At: 2025-12-01T00:00:36.611Z
 
 ## Products
 
@@ -1271,7 +1271,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/db-recycled-bin-liner-240l-black-1125mm-x-1500mm-x-35mu-50-pack-dispenser-box-dispenser-box-bin-liners-essential-supplies-684950.jpg?v=1719444963
   Price: $52.00 NZD
 - [DB Recycled Bin Liner 60L - Black, 650mm x 900mm x 30mu - 100 Pack - *Dispenser Box](https://essentialsupplies.co.nz/products/db-recycled-bin-liner-60l-black-650mm-x-900mm-x-30mu-100-dispenser-box): Gusseted for effective waste collectionRecycled rubbish bin liners combine puncture strength and versatility to provide reliable, economical protection against leaking and odours.These bags are produced from post consumer plastic, which is then recycled and made into new bags. Recycled bin liners are the most cost effective as they reduce environmental impact, save energy and preserve natural resources. Tough, strong recycled bags Colour: Black Size: 60 Litres 650mm x 900mm x 30mu Pack of: 100
-  Updated: 2025-02-16T17:30:47Z
+  Updated: 2025-11-30T05:26:20Z
   Vendor: Mattews Packaging
   Product Type: Dispenser Box Bin Liners
   Availability: Available
