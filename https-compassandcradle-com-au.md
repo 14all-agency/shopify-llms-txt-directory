@@ -8,7 +8,7 @@
 - Timezone: Australia/Perth
 - Created At: 2025-01-21T07:14:09Z
 - Contact Email: admin@compassandcradle.com.au
-- Updated At: 2025-11-30T00:01:11.005Z
+- Updated At: 2025-12-01T00:01:18.513Z
 
 ## Products
 
@@ -82,7 +82,7 @@
     Availability: Available
     Price: $9.00 AUD
 - [Kids Terry Toweling Shirt & Pants - Cray Cray on Vacay](https://compassandcradle.com.au/products/cray-cray-on-vacay-terry-toweling-shirt-and-pants): The kids Terry Toweling pants and top set will keep your little ones cool on warm summer days and cozy after a swim or evening beach strolls.
-  Updated: 2025-11-26T00:05:31Z
+  Updated: 2025-11-30T20:50:21Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -126,7 +126,7 @@
     Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/babyonboard2.jpg?v=1760425814
     Price: $9.00 AUD
 - [Beach Bag | Cray Cray on Vacay | Oversized Lobster/Crayfish Beige](https://compassandcradle.com.au/products/beach-bag): Made from durable, easy-to-clean beach bag, it’s built to handle the everyday chaos. With a handy external pocket for quick-grab items and a secure internal pocket, it keeps things organized!
-  Updated: 2025-11-20T14:12:01Z
+  Updated: 2025-11-30T20:50:21Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -140,7 +140,7 @@
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/DSC_0709.jpg?v=1761824106
   Price: $9.00 AUD
 - [Black Friday Bundle | Matching Snack Tee](https://compassandcradle.com.au/products/family-tshirt-bundle): Black Friday Matching Snack Tee Bundle For Parents + Their Snack-Obsessed Minis Make snack time (and family time!) even more fun with our limited-edition Black Friday Snack Tee Bundle — the perfect matching set for parents and their little snack monsters. What’s Inside Snack Provider Tee (Adults)For the legends who supply the snacks, wipe the crumbs, and keep the pantry stocked. Super soft, comfy, and built for everyday wear. Requires Snacks Tee (Kids)For the mini who always needs a snack… no matter how many they’ve already had. Playful, comfy, and perfect for every adventure. Why Parents Love This Bundle Match with your mini in the cutest, funniest snack-themed duo Perfect for family outings, picnics, travel days & weekend hangs Black Friday–only pricing — save more when you grab both together Soft, durable fabrics designed for busy parents & busy little snackers Makes a perfect gift for parents of toddlers, preschoolers, or snack-loving kids
-  Updated: 2025-11-26T04:41:03Z
+  Updated: 2025-11-30T20:50:13Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -266,7 +266,7 @@
     Availability: Available
     Price: $59.00 AUD
 - [Compass & Cradle Digital Gift Card – The Perfect Gift for Any Occasion](https://compassandcradle.com.au/products/compass-cradle-digital-gift-card-the-perfect-gift-for-any-occasion): Can’t decide what to get? Give them the gift of choice with a Compass & Cradle Digital Gift Card. Our gift cards are delivered instantly by email and can be redeemed online at checkout — no extra fees, no expiration dates. Perfect for birthdays, holidays, thank-yous, or last-minute surprises.Available in multiple denominations to fit every budget.
-  Updated: 2025-10-30T11:35:19Z
+  Updated: 2025-11-30T20:50:21Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -296,7 +296,7 @@
     Availability: Available
     Price: $223.36 AUD
 - [Kids Cap (Ages 1-6) | Barefoot Bandit](https://compassandcradle.com.au/products/acid-wash-kids-cap-barefoot-bandit-light-brown): Kids Cap (Ages 1–6) | Barefoot Bandit Add a touch of cool to your little one’s outfit with our Acid Wash Kids Cap — a stylish and comfortable toddler hat made for everyday adventures. Designed to fit children aged 1–6 years, this adjustable kids cap features a soft acid wash finish that gives it a trendy, lived-in look parents love. Made from breathable cotton, it keeps your child comfy while protecting them from the sun. The adjustable back strap ensures a perfect fit as they grow, making it a long-lasting favorite in your little one’s wardrobe. This acid wash kids hat is part of our upcoming matching kids set, so you can complete the look with coordinating pieces for effortless, everyday style. Features: Fits ages 1–6 years (50-54cm circumference) Adjustable back strap for a secure fit Soft, breathable cotton with an acid wash finish Unisex design — perfect for boys and girls Matches with our new kids clothing set (coming soon)
-  Updated: 2025-11-20T06:35:02Z
+  Updated: 2025-11-30T20:50:14Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -308,35 +308,35 @@
     Availability: Available
     Price: $19.00 AUD
 - [Mum Cap Pink | To the Shore Mi Amor](https://compassandcradle.com.au/products/to-the-shore-mi-amor-mum-cap-pink): To the Shore Mi Amor – Mum Cap Add a splash of coastal charm to your everyday style with the To the Shore Mi Amor Mum Cap — a soft, rose-pink mum hat designed for relaxed, beach-loving souls. Made from breathable, acid washed cotton, this comfy cap features our exclusive seaside-inspired design with pastel shells, starfish, and a mermaid tail — capturing the easy, joyful feel of days spent by the shore. Features: 100% premium cotton for a soft, lived-in feel Adjustable strap for a comfortable, custom fit Exclusive “To the Shore Mi Amor” design by Compass & Cradle Durable and lightweight — perfect for sunny days, coastal walks, and casual outings Pair it with your favourite summer outfit or wear it as a go-to accessory for busy days. This mum cap makes a thoughtful gift or a must-have for anyone who loves a touch of ocean-inspired style. ✨ Coming soon: a matching kids’ short and top set with the same charming seaside logo — perfect for creating that adorable mum and mini moment!
-  Updated: 2025-11-10T10:29:59Z
+  Updated: 2025-11-30T20:50:15Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/totheshore5.jpg?v=1762245545
   Price: $19.00 AUD
 - [Chill Mum Cap | Pink](https://compassandcradle.com.au/products/chill-mum-cap): Stay cool and carefree with our Chill Mum Cap — the perfect mum hat for relaxed summer days and easy weekend style. Made from soft, Acid washed cotton in a beautiful pastel pink tone, this cap is designed for comfort and fun
-  Updated: 2025-11-24T16:48:05Z
+  Updated: 2025-11-30T20:50:16Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/newchill_a5437bc7-0f3c-4c7b-a405-5edfd9860388.jpg?v=1762245470
   Price: $19.00 AUD
 - [Mum Cap Blue | Cray](https://compassandcradle.com.au/products/cray-mum-cap-ocean-blue): Mum Cap - Cray Add a pop of fun to your everyday look with our Cray Mum Cap — the perfect mum hat for sunny days, adventures, and everything in between. Crafted from soft, acid washed cotton in a rich blue tone, this cap brings effortless coastal style with a playful crayfish design and bold text. Whether you’re heading to the beach, the park, or brunch, it’s an easy go-to piece that keeps you cool and confident. 🦞 Features: 100% premium acid washed cotton for breathable comfort Adjustable strap for a relaxed, secure fit Lightweight and durable for all-day wear Designed by Compass & Cradle, inspired by relaxed coastal living ✨ Style it your way: The “Cray” design perfectly matches the current Compass & Cradle Cray Cray on Vacay sets, so you can create a coordinated mum and mini look or pair it with your favourite casual outfit.
-  Updated: 2025-11-24T16:38:22Z
+  Updated: 2025-11-30T20:50:19Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/cray2.jpg?v=1762245467
   Price: $19.00 AUD
 - [Mamacita Mum Cap | Blue](https://compassandcradle.com.au/products/mamacita-mum-cap-blue): Turn up the heat with our Mamacita Mum Cap – a fun, effortless essential for all the spicy mamas out there! this cap is your go-to for laidback style and comfort.
-  Updated: 2025-11-24T16:44:57Z
+  Updated: 2025-11-30T20:50:18Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/mummacita_blue_cap_beach.jpg?v=1763018419
   Price: $19.00 AUD
 - [The New Barefoot Bandit Kids Terry Toweling Shirt  - Coming Soon](https://compassandcradle.com.au/products/the-new-kids-barefoot-bandit-terry-toweling-shirt-coming-soon): Soft and comfy kids terry towelling shirt with our signature Barefoot Bandit logo. Perfect for sunny days and beach adventures. Matching shorts available.
-  Updated: 2025-11-14T18:11:50Z
+  Updated: 2025-11-30T20:50:14Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -402,7 +402,7 @@
     Availability: Available
     Price: $25.00 AUD
 - [Black Friday Bundle | Cray Cray on Vacay | Bag + Cap + Kids Set](https://compassandcradle.com.au/products/black-friday-bundle-cray-cray-on-vacay): 🦞 Black Friday: Cray Cray on Vacay Family Bundle Make your next beach trip extra cray cray with this limited-edition Black Friday bundle — pack love, style and sunshine into one perfect set. What’s Inside: Kids Terry Toweling Shirt & PantsSoft 100% terry cotton that dries quickly after swim-time and doubles as lounge-wear for those slow, dreamy vacay mornings. Oversized Lobster/Crayfish Beach Bag (Beige)Roomy and rugged, with an external pocket for quick-access items and a secure internal pouch for your phone or keys. Cray Mum Cap – Ocean BlueA laid-back cap for mum (or anyone!) — the perfect shade to match the sea and shield your eyes in style. Perfect For: Families planning a summer holiday Gift-givers looking for a thoughtful, coordinated present Mum (or Dad!) who wants to match their mini-me without going “too matching” Please choose a size for the Kids Terry Towelling Set, then click add to cart to receive the bundle
-  Updated: 2025-11-21T19:16:26Z
+  Updated: 2025-11-30T20:50:21Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -432,7 +432,7 @@
     Availability: Available
     Price: $89.00 AUD
 - [Black Friday Bundle | Buy 2 Cray Cray on Vacay Kids sets at 20% off](https://compassandcradle.com.au/products/black-friday-bundle-matching-cray-cray-on-vacay-sets): Treat your little adventurers (or matching siblings) with our cozy and super-soft Cray Cray on Vacay Terry Toweling Sets. For Black Friday, grab two full terry sets at a special bundle price.
-  Updated: 2025-11-24T16:35:49Z
+  Updated: 2025-11-30T20:50:21Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -588,7 +588,7 @@
     Availability: Available
     Price: $94.00 AUD
 - [Black Friday Bundle | Cray Cray on Vacay | Bag + Kids Set | 20% off](https://compassandcradle.com.au/products/black-friday-bundle-cray-cray-on-vacay-bag-kids-set): 🦞 Black Friday: Cray Cray on Vacay Family Bundle Make your next beach trip extra cray cray on vacay with this limited-edition Black Friday bundle — pack love, style and sunshine into one perfect set. What’s Inside: Kids Terry Toweling Shirt & PantsSoft 100% terry cotton that dries quickly after swim-time and doubles as lounge-wear for those slow, dreamy vacay mornings. Oversized Lobster/Crayfish Beach Bag (Beige)Roomy and rugged, with an external pocket for quick-access items and a secure internal pouch for your phone or keys. Save 20%! Was $84, now just $67. Perfect For: Families planning a summer holiday Gift-givers looking for a thoughtful, coordinated present Mum who wants to match their mini-me without going “too matching” Please choose a size for the Kids Terry Towelling Set, then click add to cart to receive the bundle
-  Updated: 2025-11-25T00:22:33Z
+  Updated: 2025-11-30T20:50:21Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
