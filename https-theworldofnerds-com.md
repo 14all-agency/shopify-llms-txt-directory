@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-11-30T00:01:25.854Z
+- Updated At: 2025-12-01T00:01:36.842Z
 
 ## Products
 
@@ -3021,7 +3021,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/s1000rr-551_2048x2048_7588fd21-38cd-4e13-b7b8-b339fa43d76b.webp?v=1738322670
   Price: ₹795.00 INR
 - [MAISTO DUCATI 1098 S SCALE - 1:18](https://theworldofnerds.com/products/maisto-ducati-diecast-1098-s-scale-1-18): Expertly crafted, the MAISTO DUCATI DIECAST 1098 S SCALE - 1:18 is a highly detailed replica of the iconic Ducati 1098 S motorcycle. With precise 1:18 scale, this diecast model boasts authentic design and intricate features that make it a standout piece for collectors and enthusiasts alike.
-  Updated: 2025-07-29T05:12:11Z
+  Updated: 2025-11-30T23:38:58Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6017,7 +6017,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7914copy.jpg?v=1740222494
   Price: ₹1,690.00 INR
 - [DILOPHOSAURUS](https://theworldofnerds.com/products/dilophosaurus): This DILOPHOSAURUS toy is a must-have for any dinosaur lover. Based on the fierce and iconic predator, this toy is perfect for imaginative play and learning about prehistoric creatures. Made with high-quality materials, this DILOPHOSAURUS toy is sure to provide hours of fun and educational entertainment.
-  Updated: 2025-07-29T05:14:01Z
+  Updated: 2025-11-30T08:34:40Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10126,61 +10126,61 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7519copy_6a257d8d-3819-43c0-a4ca-41f29f4bf0b2.jpg?v=1764415658
   Price: ₹1,999.00 INR
 - [Marvel Bundle](https://theworldofnerds.com/products/marvel-bundle)
-  Updated: 2025-11-29T13:08:39Z
+  Updated: 2025-11-30T01:08:42Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Price: ₹1,999.00 INR
 - [Frozen Anna Bundle](https://theworldofnerds.com/products/frozen-anna-bundle)
-  Updated: 2025-11-29T13:10:27Z
+  Updated: 2025-11-30T01:10:29Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Price: ₹1,199.00 INR
 - [Demon slayer Bundle](https://theworldofnerds.com/products/demon-slayer-bundle)
-  Updated: 2025-11-29T13:14:23Z
+  Updated: 2025-11-30T01:14:25Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Price: ₹1,999.00 INR
 - [Q-posket Bundle](https://theworldofnerds.com/products/q-posket-bundle)
-  Updated: 2025-11-29T13:17:16Z
+  Updated: 2025-11-30T01:17:18Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Price: ₹1,599.00 INR
 - [Q-Posket Ariel](https://theworldofnerds.com/products/q-posket-ariel)
-  Updated: 2025-11-29T13:19:21Z
+  Updated: 2025-11-30T01:19:22Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Price: ₹2,399.00 INR
 - [Booblehead Dc](https://theworldofnerds.com/products/booblehead-dc)
-  Updated: 2025-11-29T13:21:31Z
+  Updated: 2025-11-30T01:21:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Price: ₹1,199.00 INR
 - [One Piece Bobblehead](https://theworldofnerds.com/products/one-piece-bobblehead)
-  Updated: 2025-11-29T13:23:44Z
+  Updated: 2025-11-30T01:23:45Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Price: ₹1,599.00 INR
 - [Tom Bobblehead](https://theworldofnerds.com/products/tom-bobblehead-1)
-  Updated: 2025-11-29T13:25:19Z
+  Updated: 2025-11-30T01:25:19Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Price: ₹799.00 INR
 - [Naruto Bobblehead](https://theworldofnerds.com/products/naruto-bobblehead-1)
-  Updated: 2025-11-29T13:27:15Z
+  Updated: 2025-11-30T01:27:34Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Price: ₹1,199.00 INR
 - [jujutsu Bobblehead](https://theworldofnerds.com/products/jujutsu-bobblehead)
-  Updated: 2025-11-29T13:29:10Z
+  Updated: 2025-11-30T01:29:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
