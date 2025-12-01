@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2024-10-10T13:12:01Z
 - Contact Email: contact@droneagricole.ro
-- Updated At: 2025-11-30T00:01:13.994Z
+- Updated At: 2025-12-01T00:01:35.004Z
 
 ## Products
 
