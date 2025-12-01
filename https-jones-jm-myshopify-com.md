@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2025-11-30T20:00:23.679Z
+- Updated At: 2025-12-01T04:00:23.772Z
 
 ## Products
 
@@ -779,6 +779,9 @@
     Author: User
   - [Solving Common Snowboarding Problems for New Riders](https://jones-jm.myshopify.com/blogs/news/solving-common-snowboarding-problems-for-new-riders): Solving Common Snowboarding Problems for New Riders
     Updated: 2025-11-24T00:01:09Z
+    Author: User
+  - [Exploring Advanced Snowboarding Techniques for Seasoned Riders](https://jones-jm.myshopify.com/blogs/news/exploring-advanced-snowboarding-techniques-for-seasoned-riders): Exploring Advanced Snowboarding Techniques for Seasoned Riders
+    Updated: 2025-12-01T00:01:09Z
     Author: User
 
 ## Store Pages
