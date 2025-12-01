@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-11-26T00:00:41.715Z
+- Updated At: 2025-12-01T00:00:57.772Z
 
 ## Products
 
@@ -276,7 +276,7 @@
   Updated: 2025-11-20T18:23:40Z
   Total Products: 3
 - [Terrassenheizung, angenehme Wärme für den Outdoor-Bereich](https://www.pelios.de/collections/terassenheizung): Terrassenheizung, Elegant oder modern – ob Heizstrahler im klassischen Stil oder Heizbänder im minimalistischen Look: hier findet jeder sein Reichweitendesign
-  Updated: 2025-11-12T12:27:44Z
+  Updated: 2025-11-27T12:33:41Z
   Total Products: 8
 - [geeignet bis 15 qm](https://www.pelios.de/collections/geeignet-bis-15-qm)
   Updated: 2025-11-20T18:23:40Z
@@ -303,7 +303,7 @@
   Updated: 2025-11-20T18:39:54Z
   Total Products: 2
 - [außen](https://www.pelios.de/collections/aussen)
-  Updated: 2025-11-12T12:27:44Z
+  Updated: 2025-11-27T12:33:41Z
   Total Products: 7
 - [ohne Rauch](https://www.pelios.de/collections/ohne-rauch)
   Updated: 2025-11-20T18:39:54Z
