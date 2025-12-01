@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2025-05-20T11:59:09Z
 - Contact Email: 363305877@qq.com
-- Updated At: 2025-11-28T00:01:44.284Z
+- Updated At: 2025-12-01T00:01:19.214Z
 
 ## Products
 
@@ -1518,8 +1518,10 @@
 
 - [Privacy Policy](https://aovica.cn/policies/privacy-policy)
   Updated: 2025-05-20T19:59:20+08:00
+- [Shipping Policy](https://aovica.cn/policies/shipping-policy)
+  Updated: 2025-11-28T18:38:16+08:00
 - [Refund Policy](https://aovica.cn/policies/refund-policy)
-  Updated: 2025-09-06T16:08:53+08:00
+  Updated: 2025-11-28T18:20:22+08:00
 - [Terms of Service](https://aovica.cn/policies/terms-of-service)
   Updated: 2025-09-06T16:07:41+08:00
 - [Contact Information](https://aovica.cn/policies/contact-information)
