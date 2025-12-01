@@ -6,63 +6,63 @@
 - Timezone: Europe/Stockholm
 - Created At: 2024-11-08T10:55:56Z
 - Contact Email: hello@poppatea.com
-- Updated At: 2025-11-26T00:00:37.347Z
+- Updated At: 2025-12-01T00:01:23.547Z
 
 ## Products
 
 - [Matcha Tea Powder - Ceremonial Grade - Japanese Green Tea](https://poppatea.com/products/matcha-tea-ceremonial): Treat yourself to a cup of our ceremonial Matcha tea, sourced from the finest Japanese green tea leaves, for a high quality and eco-friendly experience. A reliable choice for your daily dose of antioxidants and a guilt-free indulgence. 50g tin/50g refill pouch/100g refill pouch options available.
-  Updated: 2025-11-25T23:56:07Z
+  Updated: 2025-11-30T23:42:41Z
   Vendor: PoppaTea
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/matcha_tea_ceremonial_grade.jpg?v=1761725057
+  Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/matcha_tea_ceremonial_grade.jpg?v=1764319755
   - [50g Tin (50 servings)](https://poppatea.com/products/matcha-tea-ceremonial?variant=49292502008150)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/matcha_tea_ceremonial_grade.jpg?v=1761725057
+    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/matcha_tea_ceremonial_grade.jpg?v=1764319755
     Price: 220,00 kr SEK
   - [50g Refill Pouch (50 servings)](https://poppatea.com/products/matcha-tea-ceremonial?variant=49292502040918)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/ceremonial_matcha_tea_in_a_pouch_3797c460-b6f7-4632-98e7-b1ef91a17194.jpg?v=1747924140
+    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/ceremonial_matcha_tea_in_a_pouch_3797c460-b6f7-4632-98e7-b1ef91a17194.jpg?v=1764319931
     Price: 190,00 kr SEK
   - [2 x 50g Refill Pouch (100 servings)](https://poppatea.com/products/matcha-tea-ceremonial?variant=49424366895446)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/2_x_matcha_tea_pouch_0e35918c-3916-4ace-8fcd-d4f87ee386ce.jpg?v=1747924140
+    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/2_x_matcha_tea_pouch_0e35918c-3916-4ace-8fcd-d4f87ee386ce.jpg?v=1764319982
     Price: 320,00 kr SEK
 - [Hojicha Tea Powder - High Quality Japanese Roasted Green Tea](https://poppatea.com/products/hojicha-tea-powder): Poppatea Hojicha tea powder has a rich & nutty taste with rich chocolate & smoky notes. A great option if you are looking for a low caffeine tea. Grown to EU standards. 50g tin/50g refill pouch/100g refill pouch options. All packaged in recyclable aluminium.
-  Updated: 2025-11-25T22:03:07Z
+  Updated: 2025-11-30T22:55:52Z
   Vendor: PoppaTea
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/hojicha-powder-tin-straight_view.jpg?v=1761724786
+  Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/hojicha-powder-tin-straight_view.jpg?v=1764319574
   - [50g Tin (50 servings)](https://poppatea.com/products/hojicha-tea-powder?variant=49424383836502)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/hojicha-powder-tin-straight_view.jpg?v=1761724786
+    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/hojicha-powder-tin-straight_view.jpg?v=1764319574
     Price: 190,00 kr SEK
   - [50g Refill Pouch (50 servings)](https://poppatea.com/products/hojicha-tea-powder?variant=49424383869270)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/hojicha_tea_powder_pouch_83c4c968-63f2-4003-a213-7c742615a38b.jpg?v=1761727952
+    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/hojicha_tea_powder_pouch_83c4c968-63f2-4003-a213-7c742615a38b.jpg?v=1764319682
     Price: 160,00 kr SEK
   - [2 x 50g Refill Pouch (100 servings)](https://poppatea.com/products/hojicha-tea-powder?variant=49424383902038)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/2_x_hojicha_tea_powder_60edc2f8-e943-4ef8-848e-81c8dcbf0036.jpg?v=1761727952
+    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/2_x_hojicha_tea_powder_60edc2f8-e943-4ef8-848e-81c8dcbf0036.jpg?v=1764319713
     Price: 260,00 kr SEK
 - [Matcha Tea With Chai - Ceremonial Grade - Japanese Green Tea Powder](https://poppatea.com/products/matcha-tea-with-chai-ceremonial): Treat yourself to a cup of our ceremonial Matcha tea with chai, sourced from the finest Japanese green tea leaves, for a high quality and eco-friendly experience. A reliable choice for your daily dose of antioxidants and a guilt-free indulgence. 3 options 50g tin/50g refill pouch/ 2 x50g(100g) refill pouch.
-  Updated: 2025-11-25T20:16:07Z
+  Updated: 2025-11-30T20:51:52Z
   Vendor: PoppaTea
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/matcha_tea_with_chai_tin_50g.jpg?v=1761724220
+  Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/matcha_tea_with_chai_tin_50g.jpg?v=1764319489
   - [50g Tin (50 servings)](https://poppatea.com/products/matcha-tea-with-chai-ceremonial?variant=49834388947286)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/matcha_tea_with_chai_tin_50g.jpg?v=1761724220
+    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/matcha_tea_with_chai_tin_50g.jpg?v=1764319489
     Price: 220,00 kr SEK
   - [50g Refill Pouch (50 servings)](https://poppatea.com/products/matcha-tea-with-chai-ceremonial?variant=49834388980054)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/ceremonial_chai_matcha_in_a_refil_pouch.jpg?v=1761724491
+    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/ceremonial_chai_matcha_in_a_refil_pouch.jpg?v=1764333447
     Price: 190,00 kr SEK
   - [2 x 50g Refill Pouch (100 servings)](https://poppatea.com/products/matcha-tea-with-chai-ceremonial?variant=49834389012822)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/2_x_matcha_tea_with_chai_refill_pouches.jpg?v=1761724540
+    Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/2_x_matcha_tea_with_chai_refill_pouches.jpg?v=1764333447
     Price: 320,00 kr SEK
 
 ## Collections
@@ -71,7 +71,7 @@
   Updated: 2025-11-06T08:56:51Z
   Total Products: 0
 - [All Teas](https://poppatea.com/collections/all-teas): Find your favourite tea here
-  Updated: 2025-11-25T12:26:14Z
+  Updated: 2025-11-30T12:29:00Z
   Total Products: 4
 
 ## Blogs
