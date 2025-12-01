@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-01T16:00:32.381Z
+- Updated At: 2025-12-01T20:00:32.538Z
 
 ## Products
 
@@ -6175,7 +6175,7 @@
   Availability: Not Available
   Price: $0.00 USD
 - [Packing Peanuts (5 Cubic Feet Bag)](https://affinatiliving.com/products/packing-peanuts-cubic-feet)
-  Updated: 2025-11-30T00:41:41Z
+  Updated: 2025-12-01T19:20:06Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6458,10 +6458,10 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/4AB28387-47CA-4A09-B37C-8238E04E538A.png?v=1763304499
   Price: $8.95 USD
 - [ECO 10 6” Wicks Box of 1000](https://affinatiliving.com/products/eco-12-6-wicks-box-of-1000): For Original & Signature.
-  Updated: 2025-11-27T15:52:27Z
+  Updated: 2025-12-01T19:17:39Z
   Vendor: Affinati
   Product Type: 
-  Availability: Not Available
+  Availability: Available
   Price: $0.00 USD
 - [Eucalyptus Pine Reed Diffuser](https://affinatiliving.com/products/eucalyptus-pine-reed-diffuser): Refresh your home with the Eucalyptus & Pine Reed Diffuser. Crisp eucalyptus and fresh pine create a clean, spa-like scent with long-lasting, flame-free fragrance.
   Updated: 2025-11-23T15:00:30Z
@@ -9064,6 +9064,15 @@
     Author: Gerard Collins
   - [Jo Malone vs Homesick: Full Comparison Guide](https://affinatiliving.com/blogs/debates/jo-malone-vs-homesick-full-comparison-guide)
     Updated: 2025-11-23T13:35:45Z
+    Author: Gerard Collins
+  - [Jergens vs CeraVe Lotion: Which Is Better for Your Skin? | Affinati](https://affinatiliving.com/blogs/debates/jergens-vs-cerave-lotion-which-is-better-for-your-skin)
+    Updated: 2025-12-01T19:40:56Z
+    Author: Gerard Collins
+  - [Jergens vs Dove Lotion: Which Is Better for Hydration & Sensitive Skin? (Ultimate Comparison Guide)](https://affinatiliving.com/blogs/debates/jergens-vs-dove-lotion-which-is-better-for-hydration-sensitive-skin-ultimate-comparison-guide)
+    Updated: 2025-12-01T19:10:05Z
+    Author: Gerard Collins
+  - [Jergens vs Hempz Lotion: Which Is Better for Moisture & Glow?](https://affinatiliving.com/blogs/debates/jergens-vs-hempz-lotion-which-is-better-for-moisture-and-glow)
+    Updated: 2025-12-01T19:40:38Z
     Author: Gerard Collins
 - [Affinati Spotlight: Product Feature](https://affinatiliving.com/blogs/affinati-spotlight-product-feature)
   - [Affinati Fresh Peaches 3-Wick Candle | Long-Lasting Summer Luxury](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/affinati-fresh-peaches-3-wick-candle-long-lasting-summer-luxury)
