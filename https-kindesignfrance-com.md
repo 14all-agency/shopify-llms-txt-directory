@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-11-09T14:00:17Z
 - Contact Email: isabelle.berthier@rocketmail.com
-- Updated At: 2025-11-30T00:01:55.295Z
+- Updated At: 2025-12-01T00:01:24.023Z
 
 ## Products
 
