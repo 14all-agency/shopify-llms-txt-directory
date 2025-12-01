@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-08-09T08:00:51Z
 - Contact Email: team@saanjhcollectives.in
-- Updated At: 2025-11-27T00:01:42.202Z
+- Updated At: 2025-12-01T00:01:29.771Z
 
 ## Products
 
@@ -246,6 +246,16 @@
 - [AVADA - Best Sellers](https://saanjhcollectives.in/collections/avada-best-sellers)
   Updated: 2025-11-25T12:22:25Z
   Total Products: 37
+
+## Blogs
+
+- [News & Updates | Saanjh Collectives](https://saanjhcollectives.in/blogs/news): Stay updated with the latest news, collaborations, and stories from Saanjh Collectives — where tradition meets contemporary craftsmanship.
+  - [Ceramic Wax Diffuser India | Flameless Home Fragrance - Saanjh](https://saanjhcollectives.in/blogs/news/best-wax-melts-diffuser-india): Ceramic Wax Diffuser India | Flameless Home Fragrance - Saanjh
+    Updated: 2025-11-27T06:50:48Z
+    Author: Saanjh Collectives
+  - [Christmas Gifts India 2025 | Luxury Candles & Hampers - Saanjh](https://saanjhcollectives.in/blogs/news/best-christmas-gifts-india-candles-hampers): Christmas Gifts India 2025 | Luxury Candles & Hampers - Saanjh
+    Updated: 2025-11-27T07:03:48Z
+    Author: Saanjh Collectives
 
 ## Store Pages
 
