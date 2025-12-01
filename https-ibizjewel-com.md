@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-11-29T00:01:20.033Z
+- Updated At: 2025-12-01T00:00:43.684Z
 
 ## Products
 
@@ -12990,7 +12990,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-62_1.jpg?v=1709881563
     Price: $962.00 USD
 - [Moissanite 1.60CT Emerald Diamond Art Deco Anniversary Ring](https://ibizjewel.com/products/moissanite-1-60ct-emerald-diamond-art-deco-anniversary-ring): Expertly Crafted In The Art Deco Style, This Elegant Ring Features A 1.60ct Emerald-cut Moissanite And Sparkling Diamond Accents. A Brilliant Choice For An Anniversary Gift, This Ring Offers All The Beauty And Durability Of A Natural Diamond At A Fraction Of The Cost.
-  Updated: 2025-10-02T10:30:48Z
+  Updated: 2025-11-30T02:39:21Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Emerald Diamond Ring
   Availability: Available
@@ -20262,7 +20262,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-120_3.jpg?v=1710505583
     Price: $989.00 USD
 - [Plain Silver Wedding Band | Anniversary Band | Handmade Band](https://ibizjewel.com/products/plain-silver-wedding-band-anniversary-band-handmade-band): This Plain Silver Wedding Band Is A Timeless And Elegant Choice For Any Couple. Handmade With Precision And Care, This Band Is Perfect For Both Weddings And Anniversaries. With Its Classic Design, It Will Remain A Symbol Of Love And Commitment For Years To Come.
-  Updated: 2025-10-02T10:30:55Z
+  Updated: 2025-11-30T10:55:27Z
   Vendor: IBIZ Special
   Product Type: Wedding Band Ring
   Availability: Available
@@ -21336,7 +21336,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDBA-41_1.jpg?v=1710841209
     Price: $757.00 USD
 - [Moissanite 0.26CT Round Diamond Art Deco Engagement Band](https://ibizjewel.com/products/moissanite-0-26ct-round-diamond-art-deco-engagement-band): Expertly Crafted With A 0.26ct Round Moissanite Diamond, This Art Deco Engagement Band Offers A Stunning And Timeless Design. The Unique Properties Of Moissanite Ensure A Brilliant Sparkle And Fire, Making It An Ideal Choice For An Engagement Ring That Will Last A Lifetime.
-  Updated: 2025-10-02T10:30:56Z
+  Updated: 2025-11-29T03:51:07Z
   Vendor: Moissanite Diamond Women's Bands
   Product Type: Moissanite Round Diamond Band
   Availability: Available
@@ -23604,7 +23604,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPBA-18_4.jpg?v=1710914887
     Price: $1,293.00 USD
 - [Natural Salt and Paper 0.40CT Pear Diamond Gothic Gift For Her Band](https://ibizjewel.com/products/natural-salt-and-paper-0-40ct-pear-diamond-gothic-gift-for-her-band): This Natural Salt And Paper 0.40ct Pear Diamond Gothic Band Is A Unique And Stunning Gift For Her. With A 0.40ct Pear Diamond, This Band Offers A Touch Of Elegance And Sophistication. Made With Natural Salt And Paper, It Is Also Environmentally Friendly And Sustainable. Upgrade Your Loved One's Style With This One-of-a-kind Band.
-  Updated: 2025-10-02T10:30:59Z
+  Updated: 2025-11-29T10:24:47Z
   Vendor: Natural Salt And Pepper Diamond Women's Bands
   Product Type: Natural Salt And Pepper Pear Diamond Band
   Availability: Available
@@ -29858,7 +29858,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDN-23_7.png?v=1711097271
     Price: $792.00 USD
 - [Moissanite 1.0CT Round Diamond Necklace](https://ibizjewel.com/products/moissanite-1-0ct-round-diamond-necklace-1): Crafted With A Stunning 1.0ct Round Moissanite Diamond, This Necklace Is The Perfect Accessory For Any Occasion. Its Dazzling Sparkle And Durability Make It A Great Alternative To Traditional Diamonds. Add Some Elegance And Sophistication To Your Jewelry Collection With This Expertly Crafted Necklace.
-  Updated: 2025-10-02T10:31:02Z
+  Updated: 2025-11-30T08:41:58Z
   Vendor: Moissanite Diamond Necklaces
   Product Type: Moissanite Round Diamond Necklace
   Availability: Available
@@ -33170,7 +33170,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDBA-71_1.jpg?v=1711188757
     Price: $744.00 USD
 - [Moissanite 0.25CT Round Diamond Minimalist Handmade Band](https://ibizjewel.com/products/moissanite-0-25ct-round-diamond-minimalist-handmade-band): This Moissanite 0.25ct Round Diamond Minimalist Handmade Band Offers A Stunning Combination Of Elegance And Durability. Crafted With High-quality Moissanite And A Delicate Handmade Band, This Ring Is Perfect For Those Seeking A Timeless And Minimalist Design. Enjoy The Brilliance And Fire Of A Diamond Without The Cost.
-  Updated: 2025-10-02T10:31:06Z
+  Updated: 2025-11-30T03:55:37Z
   Vendor: Moissanite Diamond Women's Bands
   Product Type: Moissanite Round Diamond Band
   Availability: Available
@@ -35168,7 +35168,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-148_1.jpg?v=1711520850
     Price: $1,119.00 USD
 - [Moisaanite 2.56CT Cushion Diamond Avant Garde Wedding Ring](https://ibizjewel.com/products/moisaanite-2-56ct-cushion-diamond-avant-garde-wedding-ring): Upgrade Your Wedding Ring To A Moisaanite 2.56ct Cushion Diamond Avant Garde Design. Featuring A Stunning Center Stone And Avant-garde Setting, This Ring Exudes Elegance And Modernity. With Moisaanite's Exceptional Brilliance And Durability, This Ring Is The Perfect Symbol Of Love And Commitment.
-  Updated: 2025-10-02T10:31:08Z
+  Updated: 2025-11-30T23:55:05Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Cushion Diamond Ring
   Availability: Available
