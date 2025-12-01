@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-11-28T00:01:19.261Z
+- Updated At: 2025-12-01T00:01:09.362Z
 
 ## Products
 
@@ -457,7 +457,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-premium-t-shirt-white-front-678cb132c3c77.jpg?v=1737273688
     Price: $37.00 USD
 - [Eco-Friendly Men's T-Shirt – Sustainable Cotton Staple](https://baskandweave.com/products/unisex-staple-eco-t-shirt): Choose sustainability with our Eco-Friendly Men's T-Shirt. Made from organic cotton for comfort, durability, and an eco-conscious lifestyle.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-28T23:08:46Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -19539,7 +19539,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-pullover-carbon-grey-front-2-67a68a761f683.jpg?v=1738968410
     Price: $49.00 USD
 - [Women's Faux Leather Bomber Jacket - Stylish & Trendy Look](https://baskandweave.com/products/womens-faux-leather-bomber-jacket): Elevate your style with our women's faux leather bomber jacket. Designed for comfort and edge, this trendy piece is perfect for a chic and confident look.
-  Updated: 2025-11-05T00:15:22Z
+  Updated: 2025-11-30T03:38:12Z
   Vendor: Bask & Weave
   Product Type: Jacket
   Availability: Available
@@ -22281,7 +22281,7 @@
 ## Collections
 
 - [Men's T-Shirts](https://baskandweave.com/collections/mens-premium-t-shirts): Discover our Premium T-Shirts, where comfort meets style. Each piece is crafted with high-quality fabrics and unique designs, perfect for anyone who values both fashion and quality.
-  Updated: 2025-11-09T02:56:40Z
+  Updated: 2025-11-29T12:32:15Z
   Total Products: 18
 - [Women's T-Shirts](https://baskandweave.com/collections/womens-t-shirts): Discover our collection of stylish and comfortable women's t-shirts, perfect for every occasion. From classic basics to trendy designs, our t-shirts are crafted with premium fabrics for a soft and flattering fit. Whether you’re dressing up or keeping it casual, find your new favorite tee today
   Updated: 2025-11-09T02:56:40Z
@@ -22383,7 +22383,7 @@
   Updated: 2025-11-09T02:56:41Z
   Total Products: 2
 - [All Men's Clothing](https://baskandweave.com/collections/all-mens-clothing): Bask & Weave Men's clothing collection, featuring a wide range of styles to suit every occasion. From casual staples to polished looks, our selection includes shirts, hoodies, bottoms, and more. Designed with comfort, durability, and modern fashion in mind, find your perfect fit today.
-  Updated: 2025-11-09T02:56:41Z
+  Updated: 2025-11-29T12:32:15Z
   Total Products: 93
 - [All Women’s Clothing](https://baskandweave.com/collections/all-women-s-clothing): Women’s clothing collection at Bask & Weave where style meets versatility. From casual essentials to chic statement pieces, our range includes dresses, tops, bottoms, outerwear, and more. Designed with comfort and modern trends in mind, find the perfect look for any occasion.
   Updated: 2025-11-09T02:56:41Z
