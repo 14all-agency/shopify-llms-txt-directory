@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-03T22:17:37Z
 - Contact Email: INFO.REBIRTH1@GMAIL.COM
-- Updated At: 2025-11-30T00:00:29.377Z
+- Updated At: 2025-12-01T00:01:02.018Z
 
 ## Products
 
@@ -3178,7 +3178,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/677651c1-f69f-4822-8f37-c2ecd90f43b0.jpg?v=1760713266
     Price: $81.41 USD
 - [Embroidered Flower Pullover Hoodie](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie-1): A heavy blend hoodie. Crafted from a soft blend of 50% cotton and 50% polyester. Features a double-lined hood with matching drawstring. The fabric's air jet yarn offers a softer feel and reduces pilling. Includes a front pouch pocket, and rib knit cuffs and waistband with spandex. Size guide S M L XL 2XL 3XL 4XL 5XL A) Length (cm) 68.6 71.1 73.7 76.2 78.7 81.3 84 86 B) Width (cm) 101.6 111.8 122 132 142.2 152.4 162 172 B) Half Chest (cm) 50.8 55.9 61 66 71.1 76.2 81 86 C) Sleeve Length (cm) 85.1 87.6 90.2 92.7 95.3 97.8 100 103 S M L XL 2XL 3XL 4XL 5XL A) Length (inches) 27 28 29 30 31 32 33.1 33.9 B) Width (inches) 40 44 48 52 56 60 63.8 67.7 B) Half Chest (inches) 20 22 24 26 28 30 31.9 33.9 C) Sleeve Length (inches) 33.5 34.5 35.5 36.5 37.5 38.5 39.4 40.6 Care Instructions General The Gildan 18500 hoodie is known for its robust fabric blend, comfort, and versatility, making it a popular choice for bulk orders and custom designs. Wash Machine wash with cold water is recommended to maintain the integrity of the fabric. Dry Tumble dry on medium setting. Store This hoodie is widely available online through various retailers, offering ease of purchase.
-  Updated: 2025-11-29T08:22:23Z
+  Updated: 2025-11-30T16:18:25Z
   Vendor: ReBirth.
   Product Type: Print Material
   Availability: Available
