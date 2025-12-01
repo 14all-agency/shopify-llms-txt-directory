@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-11-10T05:17:07Z
 - Contact Email: a16604485052@gmail.com
-- Updated At: 2025-11-30T00:01:23.660Z
+- Updated At: 2025-12-01T00:01:30.450Z
 
 ## Products
 
@@ -140,6 +140,17 @@
 - [Hydrogen](https://hander-test-store.myshopify.com/collections/hydrogen)
   Updated: 2025-11-18T10:51:03Z
   Total Products: 3
+
+## Blogs
+
+- [News](https://hander-test-store.myshopify.com/blogs/news)
+  - [The Collection Hydrogen 单板滑雪板：专为极致性能设计的雪板](https://hander-test-store.myshopify.com/blogs/news/the-collection-hydrogen-单板滑雪板-专为极致性能设计的雪板): The Collection Hydrogen 单板滑雪板：专为极致性能设计的雪板
+    Updated: 2025-11-30T11:18:48Z
+    Author: AI Blog Generator
+  - [The Multi-managed Snowboard: Ultimate Control & Speed](https://hander-test-store.myshopify.com/blogs/news/the-multi-managed-snowboard-ultimate-control-speed): Experience unparalleled responsiveness with the multi-managed snowboard. Its advanced tech delivers superior edge hold and power. Shop now and dominate the mountain!
+    Updated: 2025-11-30T11:48:04Z
+    Author: AI Blog Generator
+    Tags: all-mountain snowboard, multi-managed snowboard, premium snowboard, snowboard performance, snowboard technology
 
 ## Store Pages
 
