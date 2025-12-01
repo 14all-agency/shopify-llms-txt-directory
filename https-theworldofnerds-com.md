@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-12-01T00:01:36.842Z
+- Updated At: 2025-12-01T07:29:54.700Z
 
 ## Products
 
@@ -1621,7 +1621,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03862.jpg?v=1730035222
   Price: ₹399.00 INR
 - [HERMIONE GRANGER Q POSKET](https://theworldofnerds.com/products/hermione-granger-q-posket): Discover the enchanting world of Q Poskets, where charm meets artistry! These collectible figures feature a delightful range of beloved characters from anime, movies, and more, each meticulously designed with oversized heads and whimsical expressions. Perfect for fans and collectors alike, Q Poskets bring your favorite characters to life in a unique, stylized form. Key Features: Unique stylized designs High-quality craftsmanship Wide variety of characters Ideal for collectors and fans Start your Q Poskets collection today and celebrate your favorite characters in a whole new way!
-  Updated: 2025-07-29T05:11:24Z
+  Updated: 2025-12-01T01:00:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1726,7 +1726,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03730.jpg?v=1730204916
   Price: ₹399.00 INR
 - [SHIN CHAN BOBBLEHEAD](https://theworldofnerds.com/products/shin-chan-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy.
-  Updated: 2025-09-14T12:31:55Z
+  Updated: 2025-12-01T07:19:10Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2356,10 +2356,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_1fc74327-4e0c-4b92-b4c6-040fad7a4486.png?v=1731138017
   Price: ₹7,699.00 INR
 - [SOLIDO 1:18 ALPINE A110 R LE MANS](https://theworldofnerds.com/products/solido-1-18-alpine-a110-r-le-mans): The SOLIDO 1:18 Alpine A110 R Le Mans is a tribute to the iconic racing car with a design that captures its sleek, high-performance essence. This die-cast model showcases incredible attention to detail, from its aerodynamic body to its distinctive racing livery. A must-have for motorsport fans and collectors, it brings the thrill of Le Mans right to your display. Elevate your collection with this stunning Alpine A110 R today! Perfect for collectors and car enthusiasts alike.
-  Updated: 2025-07-29T05:11:51Z
+  Updated: 2025-12-01T06:10:45Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled-1_6335ff64-edd3-43a2-8315-034f38fc6860.png?v=1731138179
   Price: ₹6,699.00 INR
 - [SOLIDO 1:18 RENAULT 8S](https://theworldofnerds.com/products/solido-1-18-renault-8s): The SOLIDO 1:18 Renault 8S is a meticulously detailed model that perfectly captures the charm of this iconic French sedan. With its classic design and intricate features, this die-cast replica brings the Renault 8S to life. It is an excellent addition for collectors and car enthusiasts, serving as a tribute to automotive history. Add this vintage treasure to your collection and relive the golden era of Renault! This 1:18 scale model of the Renault 8S offers exceptional attention to detail and accuracy.
@@ -2391,17 +2391,17 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled-2_0100e2bc-b018-44be-a34f-38a5d9184166.png?v=1731138759
   Price: ₹6,699.00 INR
 - [SOLIDO 1:18 NISSAN SKYLINE GT-R(R35) LBWK BODY KIT TYPE 2](https://theworldofnerds.com/products/solido-1-18-nissan-skyline-gt-rr35-lbwk-body-kit-type-2): Unleash power and style with the SOLIDO 1:18 Nissan Skyline GT-R (R35) LBWK Body Kit Type 2. Featuring Liberty Walk's bold wide-body design and striking details, this die-cast model perfectly captures the essence of modern performance and aggressive aesthetics. A must-have for JDM fans and collectors, it’s a true statement piece. Elevate your display with this iconic masterpiece! Upgrade your collection with this stunning 1:18 scale replica.
-  Updated: 2025-08-10T17:18:27Z
+  Updated: 2025-12-01T06:11:46Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_3a047761-62b0-4d85-82ad-d95b30c223de.png?v=1731138909
   Price: ₹7,699.00 INR
 - [SOLIDO 1:18 SUBARU IMPREZA 22B](https://theworldofnerds.com/products/solido-subaru-imperza-22b): Experience the thrill of rally performance with the SOLIDO 1:18 Subaru Impreza 22B, a tribute to the legendary racing vehicle. This meticulously crafted die-cast model highlights the iconic design and bold stance of the 22B, renowned for its success in motorsport. It’s a must-have for car enthusiasts and collectors alike, capturing Subaru’s racing spirit. Bring home this high-performance icon today! Add it to your collection and experience the high performance and quality of this legendary car.
-  Updated: 2025-08-03T23:45:30Z
+  Updated: 2025-12-01T06:12:46Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_3f3606ac-866e-476f-a245-d1ff4c75e0ca.png?v=1731139204
   Price: ₹6,699.00 INR
 - [SOLIDO 1:18 ALFA ROMEO GIULIA GTA M](https://theworldofnerds.com/products/solido-1-18-alfa-romeo-giulia-gta-m): The SOLIDO 1:18 Alfa Romeo Giulia GTA M is a breathtaking replica of the modern performance icon. With its aggressive design, striking details, and authentic craftsmanship, this die-cast model perfectly captures the spirit of the Giulia GTA M. A must-have for collectors and racing enthusiasts, it showcases Alfa Romeo's passion for speed and style. Enhance your collection with this powerhouse today! Own a piece of history with SOLIDO.
@@ -2412,10 +2412,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled-2_5578831a-f6f5-4ea5-ade2-80d1287dcbaa.png?v=1731139346
   Price: ₹6,699.00 INR
 - [SOLIDO 1:18 OPEL OMEGA EVO 500](https://theworldofnerds.com/products/solido-1-18-opel-omega-evo-500): The SOLIDO 1:18 Opel Omega EVO 500 is a striking tribute to the performance and innovation of Opel's motorsport legacy. With its sleek design and detailed craftsmanship, this model perfectly captures the essence of the high-performance EVO 500. Ideal for collectors and racing fans, it's a must-have addition to any die-cast collection. Own a piece of racing history with this exceptional model! A high-performance car with sleek design and precision engineering.
-  Updated: 2025-09-03T11:46:14Z
+  Updated: 2025-12-01T06:12:11Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_067f36c5-02da-41ec-aaea-e0712be72bf1.png?v=1731139456
   Price: ₹6,699.00 INR
 - [SOLIDO 1:18 PEUGEOT 306 MAXI EIFFEL RALLY 2022](https://theworldofnerds.com/products/solido-1-18-peugeot-306-maxi-eifel-rally-2022): Relive the excitement of rally racing with the SOLIDO 1:18 Peugeot 306 Maxi Eiffel Rally 2022 edition. This detailed die-cast model captures the iconic rally car's bold design and racing livery. Perfect for collectors and motorsport fans, it’s a tribute to Peugeot’s thrilling rally legacy. Bring home the spirit of the track today! With its impressive solido peugeot design, this model is sure to bring your rally collection to new heights.
@@ -2433,10 +2433,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_b79ee75f-3439-41bc-8933-4517371b3d3b.png?v=1731143375
   Price: ₹6,699.00 INR
 - [SOLIDO 1:18 FORD SHELBY GT500](https://theworldofnerds.com/products/solido-1-18-ford-shelby-gt500): Unleash the power of American muscle with the SOLIDO 1:18 Ford Shelby GT500. This die-cast masterpiece captures the iconic Shelby's bold design and legendary performance. From its aggressive stance to its detailed interior, it’s a must-have for collectors and car enthusiasts. Bring home this symbol of speed and style today! Made with precision and expert craftsmanship
-  Updated: 2025-07-29T05:11:53Z
+  Updated: 2025-12-01T06:11:17Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_926dffbf-44b2-4301-91f8-842044708744.png?v=1731143506
   Price: ₹6,699.00 INR
 - [SOLIDO 1:18 PORSCHE 911(964) TURBO](https://theworldofnerds.com/products/solido-1-18-porsche-911964-turbo): Experience the thrill of precision engineering with the SOLIDO 1:18 Porsche 911 (964) Turbo. This stunning die-cast model captures every detail of the iconic sports car, from its aerodynamic curves to its signature turbocharged design. Perfect for collectors and enthusiasts, it's a true tribute to Porsche's legacy. Add this masterpiece to your collection today! Expertly crafted with SOLIDO's precision, the 1:18 PORSCHE 911(964) TURBO showcases the iconic design of this luxury car
@@ -6199,35 +6199,35 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_fa466bc8-1f48-44c6-ab9b-79614f337f90.jpg?v=1740572441
   Price: ₹2,259.00 INR
 - [HOT WHEELS MAZDA RX7 FC PANDEM](https://theworldofnerds.com/products/hot-wheels-mazda-rx7-fc-pandem): Experience the ultimate fusion of speed and style with the HOT WHEELS MAZDA RX7 FC PANDEM. This iconic race car features sleek design and precision engineering, delivering top performance on the track. Take your racing game to the next level and leave your competition in the dust with this high-quality model.
-  Updated: 2025-07-29T05:14:06Z
+  Updated: 2025-12-01T05:52:06Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250227_175823_505_1217608187.jpg?v=1740660479
   Price: ₹2,799.00 INR
 - [HOT WHEELS LB-ER34 SUPER SILHOUETTE NISSAN SKYLINE](https://theworldofnerds.com/products/hot-wheels-lb-er34-super-silhouette-nissan-skyline): Discover the thrill of speed with the HOT WHEELS LB-ER34 SUPER SILHOUETTE NISSAN SKYLINE. This expertly crafted 1:64 scale die-cast vehicle features stunning details and striking design, making it perfect for collectors and racing enthusiasts alike. With its sleek silhouette and powerful engine, this car is sure to turn heads on and off the track.
-  Updated: 2025-10-10T10:10:01Z
+  Updated: 2025-12-01T05:52:16Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250227_175751_066_1775107979.jpg?v=1740660594
   Price: ₹2,799.00 INR
 - [HOT WHEELS RWB PORSCHE 930](https://theworldofnerds.com/products/hot-wheels-rwb-porsche-930): Experience the thrill of speed with the HOT WHEELS RWB PORSCHE 930! This sleek and stylish toy car features realistic design and high-quality construction for a truly authentic experience. Perfect for collectors and racing enthusiasts alike, this HOT WHEELS car is sure to provide hours of entertainment.
-  Updated: 2025-10-18T12:58:26Z
+  Updated: 2025-12-01T05:51:55Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250227_175515_101_4_670924809.jpg?v=1740660641
   Price: ₹2,799.00 INR
 - [HOT WHEELS LB-WORKS McLAREN 720S](https://theworldofnerds.com/products/hot-wheels-lb-works-mclaren-720s): Introducing the HOT WHEELS LB-WORKS McLAREN 720S, a collectible model car featuring authentic design and intricate details. Made with precision and expertise, this 1:64 scale replica is a must-have for any car enthusiast. Experience the thrill of owning a piece of automotive history.
-  Updated: 2025-07-29T05:14:07Z
+  Updated: 2025-12-01T05:52:30Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1740659441795.jpg?v=1740660737
   Price: ₹2,799.00 INR
 - [HOT WHEELS NISSAN 300ZX](https://theworldofnerds.com/products/hot-wheels-nissan-300zx): This HOT WHEELS NISSAN 300ZX is a die-cast replica of the iconic sports car. With intricate detailing and a sleek design, it is perfect for collectors or car enthusiasts. Now you can bring a piece of automotive history into your own home.
-  Updated: 2025-07-29T05:14:07Z
+  Updated: 2025-12-01T05:52:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9181,7 +9181,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_215e517e-1e69-469f-ac5f-c2d3b01bdde2.jpg?v=1756472842
   Price: ₹599.00 INR
 - [Disney Classic Mickey Mouse Signature Pose Edition Figure](https://theworldofnerds.com/products/disney-classic-mickey-mouse-signature-pose-edition-figure): Framed against a rich maroon backdrop, a brightly colored Mickey Mouse figure stands confidently on a dark surface, measuring approximately 25cm in height and 14cm in width. With his trademark wide smile and vivid yellow shoes, Mickey playfully balances a shiny silver ball on his raised finger—his cheerful pose brimming with the magic of childhood and the spirit of adventure. The vibrant figure feels almost alive, radiating joy and mischief, yet seen in the soft shadow of adulthood, it also calls forth a tender longing for simpler times. This scene captures the bittersweet beauty of growing up: delight spun effortlessly atop nostalgia, where cherished memories and attainable happiness stand side by side, measured simply in centimeters yet carrying a lifetime of smiles.
-  Updated: 2025-08-29T13:10:47Z
+  Updated: 2025-12-01T05:51:16Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9349,168 +9349,168 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0f8e2c22-2270-48c9-bf56-2659bec06944.jpg?v=1756531123
   Price: ₹2,069.00 INR
 - [Deadpool: Dramatic Samurai Pose Before Chaos](https://theworldofnerds.com/products/deadpool-dramatic-samurai-pose-before-chaos): Deadpool stands mid-action, katana drawn in a dramatic stance that screams both danger and parody. His body language hints at a fierce battle-ready warrior, yet the finger-gun gesture to his own head undercuts the seriousness with his trademark dark humour. In this frozen moment, he balances between being a deadly assassin and the clown of the Marvel universe—leaving you unsure whether to laugh, be impressed, or a little bit of both.
-  Updated: 2025-09-19T09:52:50Z
+  Updated: 2025-12-01T05:59:50Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1DEADPOOLWOLVERINE.jpg?v=1758267650
   Price: ₹3,999.00 INR
 - [Iron Man Mark I: The Birth of a Legend Standard Version](https://theworldofnerds.com/products/iron-man-mark-i-the-birth-of-a-legend-standard-version): Iron Man Mark I rises from the desert dust, crude yet unstoppable, a suit built not from luxury but desperation. Sparks burst from its battered steel frame, each one a reminder of Tony Stark’s fight to live and to break free. The glowing arc reactor at its core symbolizes not just power, but rebirth—the moment Iron Man was truly born. Though clunky in design, the Iron Man Mark I marks the first step in a legacy that would change the world forever.
-  Updated: 2025-10-30T01:43:35Z
+  Updated: 2025-12-01T06:00:04Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3IronmanI.jpg?v=1761742365
   Price: ₹3,999.00 INR
 - [Iron Man Mark I: Forged in Fire, Born in Light Luminous Version](https://theworldofnerds.com/products/iron-man-mark-i-forged-in-fire-born-in-light-luminous-version): Amidst fire, dust, and chaos, Iron Man Mark I steps forward like a blazing titan. The crude steel plates glow with sparks of defiance, and at its core shines the arc reactor—a radiant beacon of survival and rebirth. What began in captivity emerges as destiny, a luminous birth of a hero who would one day rise as Iron Man. This is not just a machine of escape—it is the glowing beginning of a legend.
-  Updated: 2025-10-30T03:46:29Z
+  Updated: 2025-12-01T06:00:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3IronmanI_bf1068a8-98df-46fa-8b21-fd61615cb09e.jpg?v=1761742320
   Price: ₹4,999.00 INR
 - [Iron Man Mark 15: A Blaze in the Shadows](https://theworldofnerds.com/products/iron-man-mark-15-a-blaze-in-the-shadows): Blazing through the air with thrusters ignited, Iron Man Mark 15 glows like a streak of living fire. Built for stealth yet burning with brilliance, this armor carries the elegance of shadows and the fury of flames. Its sharp design gleams under the light, while the thrusters leave a trail of radiant power. A luminous symbol of evolution, the Mark 15 embodies Tony Stark’s genius—quiet in design, but unstoppable in action.
-  Updated: 2025-10-30T01:18:50Z
+  Updated: 2025-12-01T06:00:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_0ce31f3d-955b-4969-89cc-975494648062.jpg?v=1761743420
   Price: ₹3,999.00 INR
 - [Iron Man Mark 16 (Nightclub) – Iron Man 3 | Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/iron-man-mark-16-nightclub-iron-man-3-marvel-infinity-saga-collectible): This is the Iron Man Mark 16 armor, also known as "Nightclub", from Iron Man 3. Designed by Tony Stark, the Mark 16 features a striking red and gold finish with enhanced stealth capabilities. This collectible figure showcases the intricate detailing of the armor, complete with the arc reactor at the chest, capturing the essence of Marvel’s Infinity Saga.
-  Updated: 2025-09-19T07:59:10Z
+  Updated: 2025-12-01T06:00:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1XVIIronman3.jpg?v=1758268019
   Price: ₹3,999.00 INR
 - [Iron Man Mark 17 (Heartbreaker) – Iron Man 3 | Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/iron-man-mark-17-heartbreaker-iron-man-3-marvel-infinity-saga-collectible): The Iron Man Mark 17 armor, known as "Heartbreaker", is one of Tony Stark’s specialized suits from Iron Man 3. Built as a heavy-duty artillery unit, this armor features a distinctive chest-mounted arc reactor designed for high-powered energy blasts. The figure includes multiple interchangeable hands, repulsor effect pieces, and a display stand, making it a must-have addition to any Marvel Infinity Saga Iron Man collection.
-  Updated: 2025-10-30T01:54:52Z
+  Updated: 2025-12-01T06:00:50Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5IronmanXVII.jpg?v=1761743367
   Price: ₹3,999.00 INR
 - [Iron Man Mark 3 (Mark III) – Iron Man | Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/iron-man-mark-3-mark-iii-iron-man-marvel-infinity-saga-collectible): The Iron Man Mark 3 armor is the first iconic red-and-gold suit introduced in Marvel Studios’ Iron Man (2008). As Tony Stark’s first fully developed and weaponized armor, the Mark 3 established the foundation for all future Iron Man suits. This collectible figure captures the classic design and powerful presence of the armor that launched the Marvel Cinematic Universe, making it a must-have for any Marvel Infinity Saga collection.
-  Updated: 2025-09-19T08:39:54Z
+  Updated: 2025-12-01T06:01:00Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2IronmanIIILuminousversion.jpg?v=1758268203
   Price: ₹3,999.00 INR
 - [Iron Man Mark 3 (Mark III) – Luminous Version | Iron Man | Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/iron-man-mark-3-mark-iii-lightning-version-iron-man-marvel-infinity-saga-collectible): The Iron Man Mark 3 armor makes its debut in Marvel Studios’ Iron Man (2008) as Tony Stark’s first fully realized red-and-gold suit. This Luminous Version collectible features a chargeable light-up function that illuminates the arc reactor and eyes, bringing them to life and enhancing the display with dramatic, vibrant lighting. A true centerpiece of the Marvel Infinity Saga collection, the Mark 3 remains one of the most iconic suits in the Iron Man legacy.
-  Updated: 2025-10-30T02:07:11Z
+  Updated: 2025-12-01T06:01:16Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/6IronmanIIILuminousversion_2b7caa7c-71c7-4f49-98de-89998385764a.jpg?v=1761743388
   Price: ₹4,999.00 INR
 - [Iron Man Mark 30 Display Model for Collectors](https://theworldofnerds.com/products/iron-man-mark-30-display-model-for-collectors): A stunning collectible figure of Iron Man Mark 30, also known as "Blue Steel," stands proudly in a metallic blue and silver finish. The suit’s sleek design and battle-ready stance make it appear as though it’s about to launch into action, while the black backdrop highlights every armored detail. Perfect for collectors, this piece captures the essence of Tony Stark’s ingenuity from Iron Man 3 and the Infinity Saga.
-  Updated: 2025-09-19T07:54:39Z
+  Updated: 2025-12-01T06:01:25Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1Ironmanmark3XXX.jpg?v=1758268366
   Price: ₹3,999.00 INR
 - [Iron Man 3 – Silver Centurion Suit Display Model](https://theworldofnerds.com/products/iron-man-3-silver-centurion-suit-display-model): Iron Man Mark 33, famously known as the "Silver Centurion," is captured mid-action in a powerful stance, palms raised and ready to fire repulsor blasts. The striking red-and-silver armor gleams under the light, reflecting its aggressive design and upgraded combat capabilities. This collectible perfectly showcases the intensity of Tony Stark’s arsenal during the climactic battle of Iron Man 3, as if he’s moments away from unleashing a devastating attack.
-  Updated: 2025-09-19T08:19:33Z
+  Updated: 2025-12-01T06:01:40Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1XXXIIIIronman3.jpg?v=1758268447
   Price: ₹3,999.00 INR
 - [Iron Man Mark 35 Emergency Operations Figure](https://theworldofnerds.com/products/iron-man-mark-35-emergency-operations-figure): The Iron Man Mark 35, nicknamed "Red Snapper," stands tall with its massive mechanical pincers ready for action. Designed for heavy-duty rescue and disaster operations, the bright red-and-gold suit exudes raw power and durability. Its elongated arms and reinforced frame give it an industrial, almost intimidating presence, as if it’s about to tear through debris or engage in a high-risk rescue mission straight out of Iron Man 3.
-  Updated: 2025-09-19T08:18:23Z
+  Updated: 2025-12-01T06:01:51Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1XXXVIronman3.jpg?v=1758268522
   Price: ₹3,999.00 INR
 - [Iron Man Mark 39 Starboost Suit in Battle Display](https://theworldofnerds.com/products/iron-man-mark-39-starboost-suit-in-battle-display): Iron Man Mark 39, also known as "Starboost" or "Gemini," stands heroically amid the fiery wreckage of a battlefield. Its sleek white-and-gold space suit design with a vibrant blue arc reactor, radiating futuristic energy. The pose suggests readiness to launch into orbit or deliver a decisive strike, perfectly capturing Tony Stark’s interstellar ambition and the high-tech brilliance of Iron Man 3.
-  Updated: 2025-09-19T07:58:31Z
+  Updated: 2025-12-01T06:02:00Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/13InfiniteactionXIronman.jpg?v=1758268598
   Price: ₹3,999.00 INR
 - [Iron Man 3 – Mark 42 Battle-Ready Display](https://theworldofnerds.com/products/iron-man-3-mark-42-battle-ready-display): Iron Man Mark 42, the centerpiece armor of Iron Man 3, strikes a powerful pose amid blazing sparks and smoke. The iconic gold-and-red modular suit with piercing blue eyes and a arc reactor, capturing Tony Stark’s determination and ingenuity at the height of the Extremis battle. Its stance radiates confidence, as though it’s about to charge headlong into the chaos and take control of the fight.
-  Updated: 2025-09-19T08:14:59Z
+  Updated: 2025-12-01T06:02:15Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1Iron-Man-Mark-XLII.jpg?v=1758268683
   Price: ₹3,999.00 INR
 - [Iron Man Mark XLII: Luminous Legacy Ignited by Lightning ⚡](https://theworldofnerds.com/products/iron-man-mark-xlii-lightning-strikes-the-legacy): Amid the storm’s wrath, the Mark XLII rises—a luminous sentinel of red and gold beneath a sky aflame with lightning. Each bolt dances across his armor, casting him as both guardian and captive of the tempest. Shattered fragments at his feet gleam like echoes of past battles, each scar a testament to endurance. Above, the storm rages on—a mirror of his own radiant chaos, where brilliance, burden, and resolve collide in light. ⚡
-  Updated: 2025-10-30T01:57:26Z
+  Updated: 2025-12-01T06:02:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/13Iron-Man-Mark-XLII.jpg?v=1761742350
   Price: ₹4,999.00 INR
 - [Iron Man Mark V: The Suitcase Armor](https://theworldofnerds.com/products/iron-man-mark-v-the-suitcase-armor): Forged in the rush of desperation, the Mark V armour stands as a symbol of both fragility and resilience. Its sleek crimson and silver design reflects the urgency of battles fought not in preparation but in the heat of chaos. The suitcase at its side carries more than armour—it carries the weight of responsibility, the scars of fear, and the unyielding determination to rise, even when caught off guard.
-  Updated: 2025-10-30T04:29:53Z
+  Updated: 2025-12-01T06:02:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1Ironmanmark2V.jpg?v=1761742334
   Price: ₹3,999.00 INR
 - [Iron Man Mark III: Luminous Birth of a Hero ⚡](https://theworldofnerds.com/products/iron-man-mark-iii-birth-of-a-hero-lightning): Through fire and fury, the Mark III ascends—a radiant crimson silhouette blazing against the storm of destruction. The arc reactor glows with living light, each pulse a rhythm of determination and doubt. Every stride radiates brilliance and burden alike—the spark of genius entwined with the cost of creation. This is no mere armor—it is luminous resolve, forged in light and flame. ⚡
-  Updated: 2025-10-30T04:38:53Z
+  Updated: 2025-12-01T06:02:51Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5IronmanIIILuminousversion_5684fa98-d017-48ea-8a49-11ffafeffdc9.jpg?v=1761742380
   Price: ₹4,999.00 INR
 - [Iron Man Mark 85: The Final Armor](https://theworldofnerds.com/products/iron-man-mark-85-the-final-armor): The Mark 85 stands not just as a suit of armor, but as the culmination of every battle, every scar, and every choice that led to the Endgame. Its gleaming red and gold design carries the weight of finality, while the scattered weapons echo a war that demanded everything. Behind the steel is not invincibility, but a man ready to give the ultimate sacrifice—because saving the world meant more than surviving it.
-  Updated: 2025-10-30T03:13:52Z
+  Updated: 2025-12-01T06:03:01Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2AvengersendgameIronmanLXXXV.jpg?v=1761743404
   Price: ₹3,999.00 INR
 - [Mark IV: The Birth of Armor With Suit up gantry](https://theworldofnerds.com/products/mark-iv-the-birth-of-armor-with-suit-up-gantry): The gantry arms reach out like guardians of destiny, each mechanical motion a ritual of transformation. Flames of power linger nearby, waiting to ignite as the armor locks into place. In that suspended moment, Tony Stark stands between man and legend—vulnerable yet unstoppable, fragile yet armored. The gantry doesn’t just build the suit; it builds the myth of Iron Man.
-  Updated: 2025-10-30T01:31:42Z
+  Updated: 2025-12-01T06:03:15Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/ZDtoysIronman.jpg?v=1761742283
   Price: ₹9,999.00 INR
 - [Spider-Man: Black & Gold Suit Action Figure – No Way Home Edition](https://theworldofnerds.com/products/spider-man-black-gold-suit-action-figure-no-way-home-edition): This striking collectible captures Spider-Man mid-leap, wearing his iconic Black & Gold suit from No Way Home. Suspended on a sleek display stand, he strikes a dynamic action pose, one hand outstretched releasing a glowing, mystical web effect. The gold accents on his suit shimmer under the light, giving an intense and cinematic look. It feels like a moment frozen in time – as if Spidey has just activated Doctor Strange’s magic while preparing to swing into battle.
-  Updated: 2025-09-19T09:30:17Z
+  Updated: 2025-12-01T06:03:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1SpidermanBlackandgoldsuit.jpg?v=1758273637
   Price: ₹3,999.00 INR
 - [Marvel Spider-Man (Upgraded Suit) with Accessories – No Way Home](https://theworldofnerds.com/products/marvel-spider-man-upgraded-suit-with-accessories-no-way-home): This premium collectible features Spider-Man in his No Way Home upgraded suit, complete with multiple interchangeable hands and detailed web effects. The set includes a sturdy display stand, allowing you to pose Spidey in mid-air action or battle-ready stances. The figure’s bright red and black suit pops against the dark background, creating a cinematic feel. The accessories add a layer of realism, as if Spider-Man is gearing up for his next high-flying showdown across New York City.
-  Updated: 2025-09-19T09:41:20Z
+  Updated: 2025-12-01T06:03:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1SpidermanUpgradedsuit.jpg?v=1758273730
   Price: ₹3,999.00 INR
 - [Spider-Man No Way Home Integrated Suit Action Figure](https://theworldofnerds.com/products/spider-man-no-way-home-integrated-suit-action-figure): This collectible showcases Spider-Man in his stunning Integrated Suit from No Way Home, blending his Iron Spider and Upgraded suits into one heroic design. The metallic gold and red detailing gleam brilliantly, giving a battle-ready appearance. The set includes multiple interchangeable hands, web-shooting effects, and a sturdy display stand for posing. It feels like a scene right after Peter upgrades his suit for the multiversal showdown, ready to face villains from across dimensions.
-  Updated: 2025-10-30T01:28:18Z
+  Updated: 2025-12-01T06:03:51Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4SpidermanIntegratedsuit.jpg?v=1761743436
   Price: ₹3,999.00 INR
 - [Marvel War Machine (Mark II) with Interchangeable Hands](https://theworldofnerds.com/products/marvel-war-machine-mark-ii-with-interchangeable-hands): This figure captures War Machine Mark II in his heavy-duty, battle-ready armor as seen in Avengers: Age of Ultron. The matte black and silver finish gives a realistic, militaristic look, enhanced by interchangeable hands and powerful blast effects that can be posed mid-firing. The included display stand allows for dynamic aerial or ground combat poses, recreating War Machine’s iconic moments as he unleashes firepower against Ultron’s army.
-  Updated: 2025-09-19T09:37:43Z
+  Updated: 2025-12-01T06:04:06Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1Avengersageofultron.jpg?v=1758273978
   Price: ₹3,999.00 INR
 - [Marvel War Machine (Mark I) with Blast Effects & Display Stand](https://theworldofnerds.com/products/marvel-war-machine-mark-i-with-blast-effects-display-stand): This figure recreates War Machine’s first full appearance in Iron Man 2, complete with his iconic shoulder-mounted minigun and armored plating. The matte black and gunmetal finish gives him a powerful, military-grade look. The set includes interchangeable hands, blast effects, and a sturdy display stand to showcase him in mid-combat poses. It feels like War Machine has just stepped off the big screen, ready to unleash a barrage of firepower alongside Iron Man.
-  Updated: 2025-10-30T01:31:48Z
+  Updated: 2025-12-01T06:04:16Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5Ironmanmark2I.jpg?v=1761742306
   Price: ₹3,999.00 INR
 - [Marvel Wolverine Action Figure in Classic Yellow & Blue Suit](https://theworldofnerds.com/products/marvel-wolverine-action-figure-in-classic-yellow-blue-suit): This collectible brings Wolverine to life in his iconic yellow-and-blue suit as seen in Deadpool & Wolverine. The figure perfectly captures Logan’s fierce expression and battle-ready stance, with intricate suit textures and sharp detailing on the mask and gloves. The bold colors make him stand out, evoking the classic comic-book look while staying true to the cinematic version. It feels like Wolverine is about to unsheathe his adamantium claws and charge into battle, ready to fight alongside (or against) Deadpool.
-  Updated: 2025-09-19T10:14:11Z
+  Updated: 2025-12-01T06:04:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10070,7 +10070,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b022d54f-068a-44d5-b309-d9574990a9b6.jpg?v=1762343881
   Price: ₹899.00 INR
 - [Hot Wheels Back to the Future Part III Time Machine Die-Cast Car](https://theworldofnerds.com/products/hot-wheels-back-to-the-future-part-iii-time-machine-die-cast-car): Celebrate movie nostalgia with the Hot Wheels Premium Back to the Future Part III Time Machine (1955 Edition). This die-cast collectible features the iconic DeLorean with Real Riders wheels and a detailed metal body, inspired by the film’s classic time-travel adventure. A must-have for Back to the Future fans and Hot Wheels collectors alike, this Pop Culture series release combines cinematic history with Hot Wheels craftsmanship.
-  Updated: 2025-11-05T17:11:02Z
+  Updated: 2025-12-01T05:52:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10084,14 +10084,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_cdcbafc3-90a6-4005-9639-812b73ab21e6.jpg?v=1762345358
   Price: ₹1,199.00 INR
 - [Hot Wheels 2016 Ford GT Race – Forza Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-2016-ford-gt-race-forza-edition-diecast-car): Unleash gaming power with the Hot Wheels Forza 2016 Ford GT Race. Part of the Pop Culture series, this premium die-cast model showcases stunning Forza Motorsport graphics, a Metal/Metal body, and Real Riders rubber tires. A perfect collectible for Forza fans and car enthusiasts, celebrating the fusion of video game speed and Hot Wheels craftsmanship.
-  Updated: 2025-11-05T15:52:36Z
+  Updated: 2025-12-01T05:51:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_75ab873a-e0e4-42bd-8f1d-d8540a393424.jpg?v=1762345430
   Price: ₹1,199.00 INR
 - [Hot Wheels Lamborghini Huracán LP 620-2 Super Trofeo – Gran Turismo Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-lamborghini-huracan-lp-620-2-super-trofeo-gran-turismo-edition-diecast-car): Experience the thrill of racing with the Hot Wheels Gran Turismo Lamborghini Huracán LP 620-2 Super Trofeo. Part of the exclusive Pop Culture series, this premium die-cast car features detailed Gran Turismo graphics, a Metal/Metal body, and Real Riders tires for authenticity. Perfect for collectors and racing fans who love the blend of Italian speed and video game legacy.
-  Updated: 2025-11-05T20:35:59Z
+  Updated: 2025-12-01T05:53:15Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10118,73 +10118,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_542770f1-93bb-4488-880f-751b5793fc17.jpg?v=1762597589
   Price: ₹399.00 INR
-- [Q-Posket Belle](https://theworldofnerds.com/products/bundle)
-  Updated: 2025-11-29T23:26:55Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7519copy_6a257d8d-3819-43c0-a4ca-41f29f4bf0b2.jpg?v=1764415658
-  Price: ₹1,999.00 INR
-- [Marvel Bundle](https://theworldofnerds.com/products/marvel-bundle)
-  Updated: 2025-11-30T01:08:42Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Price: ₹1,999.00 INR
-- [Frozen Anna Bundle](https://theworldofnerds.com/products/frozen-anna-bundle)
-  Updated: 2025-11-30T01:10:29Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Price: ₹1,199.00 INR
-- [Demon slayer Bundle](https://theworldofnerds.com/products/demon-slayer-bundle)
-  Updated: 2025-11-30T01:14:25Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Price: ₹1,999.00 INR
-- [Q-posket Bundle](https://theworldofnerds.com/products/q-posket-bundle)
-  Updated: 2025-11-30T01:17:18Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Price: ₹1,599.00 INR
-- [Q-Posket Ariel](https://theworldofnerds.com/products/q-posket-ariel)
-  Updated: 2025-11-30T01:19:22Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Price: ₹2,399.00 INR
-- [Booblehead Dc](https://theworldofnerds.com/products/booblehead-dc)
-  Updated: 2025-11-30T01:21:31Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Price: ₹1,199.00 INR
-- [One Piece Bobblehead](https://theworldofnerds.com/products/one-piece-bobblehead)
-  Updated: 2025-11-30T01:23:45Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Price: ₹1,599.00 INR
-- [Tom Bobblehead](https://theworldofnerds.com/products/tom-bobblehead-1)
-  Updated: 2025-11-30T01:25:19Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Price: ₹799.00 INR
-- [Naruto Bobblehead](https://theworldofnerds.com/products/naruto-bobblehead-1)
-  Updated: 2025-11-30T01:27:34Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Price: ₹1,199.00 INR
-- [jujutsu Bobblehead](https://theworldofnerds.com/products/jujutsu-bobblehead)
-  Updated: 2025-11-30T01:29:11Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Price: ₹799.00 INR
 
 ## Collections
 
