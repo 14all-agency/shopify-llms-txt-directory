@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-11-30T00:00:29.723Z
+- Updated At: 2025-12-01T00:00:35.693Z
 
 ## Products
 
@@ -590,7 +590,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_frog_splint_e03_u_408592_0_0.jpg?v=1751478724
   Price: ₹130.00 INR
 - [Buy ​United Medicare Knee Support (F-01) - Surgismart](https://surgismart.in/products/f-01): Key Features:Demophillic cotton bi-layered structure ensures comfort in all weather conditions. The nylon exterior ensures durability, stunning appearance, and cloth fastness. Effective compression, comfort, and no fabric buckling are all provided by the four-way flexible knit. Thick knits keep the body warm, give therapeutic warmth, and provide support. Relieves the discomfort caused by ligament and muscular problems. Direction of use Slide your leg into the knee support. Pull upwards up to 34 inches above your knee joint. Ensure there are no creases. Safety information Hand washing with water and a mild detergent. Keep out of childrens reach. Do not dry clean. Do not double clean. Knee braces are supports that are worn when you have knee pain. Some people use them to prevent knee injuries while participating in sports.UM knee support is made of a blend of neoprene, nylon, and spandex. This material combination provides a pleasant and supportive fit for the knee.UM Knee Support is offered in five sizes: S, M, L, XL and XXL.Knee support can be used for long periods of time, but it should be removed on a regular basis to enable the skin to breathe and avoid discomfort.Yes, you can wear the Knee support during physical activities or sports to provide support and stability to your knee. However, get the guidance of a healthcare professional.Sold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:23Z
+  Updated: 2025-11-30T08:16:24Z
   Vendor: United Medicare
   Product Type: Knee Support
   Availability: Available
@@ -2274,7 +2274,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61bvte6enml.jpg?v=1751478179
   Price: ₹9,599.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Gray Tube, 27 in, 5621 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-gray-tube-27-in-5621): - Surgismart
-  Updated: 2025-10-15T09:36:36Z
+  Updated: 2025-11-30T09:07:54Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
@@ -2295,7 +2295,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61gvbv-zjrl.jpg?v=1751478177
   Price: ₹9,599.00 INR
 - [Buy ​Intra Cath IV Cannula - Surgismart](https://surgismart.in/products/intra-cath): I.V Cannula with wing, injection port and luer lock. Manufactured from fully automated CAD/ CAM process. Super sharp Japanese triple facetted beveled needle is designed with two cutting edges for smooth penetration. Kink resistant FEP-Teflon cannula has extremely smooth inner and outer surface to ensure smooth flow. Double tapered molded cannula tip. Transparent flashback chamber for blood detection. Sterile, individually packed in peel open blister pack. IV Cannula size ranging from 14 G to 24 G. IV Cannula color include orange, grey, green, pink, blue, and yellow IV Cannula Size and color Size Color Length EAN 14 G Orange 45 mm 18907265302100 16 G Grey 45 mm 18907265302117 18 G Green 45 mm 18907265302124 20 G Pink 32 mm 18907265302131 22 G Blue 25 mm 18907265302148 24 G Yellow 19 mm 18907265302155 Intracath Product Specifications: Brand Romsons Generic Name Intravenous Cannula with Injection Port Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-10-15T09:36:37Z
+  Updated: 2025-11-30T05:07:08Z
   Vendor: Romsons
   Product Type: Cannula
   Availability: Available
@@ -3277,7 +3277,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-11-29T12:28:15Z
+  Updated: 2025-11-30T12:24:20Z
   Total Products: 153
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-11-10T12:17:21Z
@@ -3460,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-11-29T12:28:15Z
+  Updated: 2025-11-30T12:24:20Z
   Total Products: 5
 
 ## Blogs
