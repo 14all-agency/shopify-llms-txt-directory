@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-05-03T12:56:46Z
 - Contact Email: bluenixiein23@gmail.com
-- Updated At: 2025-11-30T00:01:09.948Z
+- Updated At: 2025-12-01T00:01:17.762Z
 
 ## Products
 
@@ -5107,7 +5107,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/04_1.jpg?v=1746436681
     Price: ₹410.00 INR
 - [Bluenixie BN2514_Teesta_E Cups Full Coverage T Shirt Bra](https://bluenixie.com/products/bluenixie-bn2514_teesta_e-cups-full-coverage-t-shirt-bra): This E cup bra is made of pleated cotton rich fabric in molded cups with broad removable shoulder straps options. It has 3x3 broad eye hook for better grip.31mm broad band elastic for better support. Soft & non stretch cups for better bust hold.C & D Cups also available please search in search option as BN2514 C D Cups.
-  Updated: 2025-10-21T14:30:07Z
+  Updated: 2025-11-30T17:39:27Z
   Vendor: Blue Nixie 
   Product Type: Full coverage bra
   Availability: Available
@@ -5153,7 +5153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/B-1_2_abffdaec-8508-4bbf-b21f-6955cdd1663e.jpg?v=1746445399
     Price: ₹460.00 INR
   - [34E / Black / Back](https://bluenixie.com/products/bluenixie-bn2514_teesta_e-cups-full-coverage-t-shirt-bra?variant=51255226761530)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_2_6c64fdd0-1240-41b7-8737-078f848ae74b.jpg?v=1691502993
     Price: ₹460.00 INR
   - [34E / White / Back](https://bluenixie.com/products/bluenixie-bn2514_teesta_e-cups-full-coverage-t-shirt-bra?variant=51255226794298)
@@ -5169,7 +5169,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PEACH_1_3b8af887-61da-40fe-aeb2-cd5911366738.jpg?v=1691502998
     Price: ₹460.00 INR
   - [34E / Maroon / Back](https://bluenixie.com/products/bluenixie-bn2514_teesta_e-cups-full-coverage-t-shirt-bra?variant=51255226892602)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514_MAROON_6_2963baf8-d3c1-4b57-add7-8f6e5a411fd0.jpg?v=1746452230
     Price: ₹460.00 INR
   - [34E / Wine / Back](https://bluenixie.com/products/bluenixie-bn2514_teesta_e-cups-full-coverage-t-shirt-bra?variant=51259815919930)
