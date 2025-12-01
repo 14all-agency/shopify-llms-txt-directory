@@ -12,7 +12,7 @@ Zprostředkováváme operativní leasing vozidel od všech značek a leasingový
 - Contact Email: info@driveto.cz
 - Contact Phone: +420790285631
 - Address: Jankovcova 1569/2c, Holešovice, 170 00 Praha 7
-- Updated At: 2025-12-01T00:03:02.065Z
+- Updated At: 2025-12-01T10:25:46.822Z
 
 ## Naše služby
 
@@ -20,7 +20,7 @@ Zprostředkováváme operativní leasing vozidel od všech značek a leasingový
 - [Poptávka vozidla](https://www.driveto.cz/pages/vyberte-si-svoje-auto): Auto které nenabízíme můžete poptat zde
 - [Nejlevnější nabídky](https://www.driveto.cz/collections/operativni-leasing?sort_by=price-ascending): Aktuálně nejlevnější dostupné vozy
 - [Akční nabídky](https://www.driveto.cz/collections/akcni-nabidky?sort_by=best-selling): Speciální akce a slevy
-- [Black Friday nabídky](https://www.driveto.cz/collections/black-friday): Speciální akce na Black Friday
+- [Vánoční nadílka bez čekání](https://www.driveto.cz/collections/vanoce): Speciální akce auta pod stromeček
 
 ## Kompletní nabídka značek a modelů
 
@@ -693,7 +693,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 18 785,00 Kč CZK
 - [Audi Q8 S line 3.0 TDi Quattro 210 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3): Audi Q8 přináší kombinaci elegance a sportovně střiženého vzhledu v rámci prémiového SUV. Proti lehce prostornější Q7 neposkytuje takovou míru praktičnosti, ale její styl a šarm to vyvažují. A nebojte - prostoru je zde stále dost. Navzdory svým rozměrům si stále zachovává výborné jízdní vlastnosti v zatáčkách, v městském provozu i v terénu. Díky vzduchovému podvozku a pohonu všech kol quattro se nemusíte obávat, že byste si netroufli do lehčího terénu. Vzduchový podvozek dodává pohodlí, ale zároveň však umožňuje úpravu světlé výšky dle aktuální potřeby. Spotřeba paliva se pohybuje kolem přijatelných 8 litrů v kombinovaném režimu. Pod kapotou Q8 najdeme silný naftový motor s výkonem 210 kW, který poskytuje vynikající dynamiku. Výbava vozu je opravdu bohatá, což dokazuje dlouhý výčet položek v nabídce. Tento konkrétní kousek navíc disponuje i panoramatickou střechou, tažným zařízením, LED Matrix světlomety, Bang & Olufsen ozvučením a mnoha dalšími pakety. Celková cena přesahuje 2,7 milionu.
-  Updated: 2025-11-24T19:29:02Z
+  Updated: 2025-12-01T08:56:13Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -1566,7 +1566,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 29 546,00 Kč CZK
 - [BMW Řada 5 40d 223 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/bmw-rada-5-zakladni-40d-223kw-nafta-4x4-automaticka-prevodovka): BMW 540d xDrive kombinuje luxus, velice silný motor a nejnovější technologie, což z něj dělá prémiový sedan pro náročné řidiče. Design exteriéru působí sebevědomě díky robustní masce chladiče, elegantním liniím a precizně tvarovaným LED světlům. Uvnitř vás přivítá bohatě vybavený interiér s luxusními materiály, ergonomicky tvarovanými sedadly a nejnovějším systémem iDrive, který podporuje hlasové ovládání a integraci chytrých zařízení. Pod kapotou se skrývá šestiválcový dieselový motor, který ve spojení s pohonem všech kol xDrive zajišťuje vynikající trakci a jistotu i na kluzkém povrchu. Jízdní dynamika a komfort se zde snoubí do jednoho, což činí z modelu 540d ideálního společníka pro dlouhé cesty a svižnou jízdu po dálnicích.
-  Updated: 2025-11-12T19:36:44Z
+  Updated: 2025-12-01T08:54:51Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -1938,7 +1938,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 15 990,00 Kč CZK
 - [Audi Q5 Sportback S line 2.0 TDI 150 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka): Model Q5 je středně velké SUV, které si oblíbili zákazníci, kteří chtějí dostatek prostoru pro posádku a zavazadla, ale zároveň nechtějí přehnaně velké vozidlo, se kterým je už složitější parkování či jízda na úzkých silnicích. Jedná se o zcela nový model, který byl představen na konci roku 2024. Přídomek Sportback značí svažující-se záď, což je v dnešní době velmi populární a dodává to sportovní nádech. Pod kapotou pracuje osvědčený naftový motor o výkonu 150 kW, který dodává vozu slušnou dynamiku, ale zároveň je úsporný. Kombinovaně není problém jezdit s lehkou nohou okolo 6 litrů. Milovníky hor také potěší vyhlášený pohon všech kol quattro, díky kterému vůz dokáže vyjet i pořádně zasněžené kopce, čemuž pomáhá solidní světlá výška. Podvozek vozu dodává skvělé jízdní vlastnosti - je komfortní, ale zároveň stabilní v zatáčkách. Tento kousek je navíc krásně vybavený - celková cena včetně příplatků šplhá k 1,9 milionu.
-  Updated: 2025-11-27T09:02:52Z
+  Updated: 2025-12-01T08:53:58Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -2278,7 +2278,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Not Available
     Price: 17 853,00 Kč CZK
 - [Audi Q3 Sportback S line 1.5 TFSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/audi-q3-s-line-1-5-tfsi-110-kw-natural-95-automaticka-prevodovka): Model Q3 je populární SUV, které se hodí jak do města, tak mimo něj. Sportback v názvu znamená, že má sportovněji tvarovanou zadní část, díky čemuž se řadí mezi ostatní „SUV-kupé". Parkování je díky vyššímu podvozku, kompaktním vnějším rozměrům a parkovacím senzorům hračka. Zavazadelník pojme solidních 530 litrů nákladu a potěší i dostatečně silný benzínový motor o výkonu 110 kW, který je kombinovaný s automatickou převodovkou.
-  Updated: 2025-11-13T13:13:31Z
+  Updated: 2025-12-01T08:49:16Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -2329,7 +2329,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 11 990,00 Kč CZK
 - [Toyota RAV4 GR Sport 2.5 Hybrid 163 kW Benzín 4x4 Automatická převodovka](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka): Toyota RAV4 je robustní SUV, které je ve světě naprostým hitem - prodalo se jich přes 11 milionů. Design páté generace zaujme na první pohled - ostře řezané hrany v kombinaci se svalnatými blatníky navozují jedinečné charisma. Uvnitř se pyšní nadprůměrnou prostorností a potěší také tradiční koncepce, která zahrnuje klasická tlačítka a další ovladače. Díky tomu se velice dobře ovládá. Dotykový displej tu je samozřejmě také. Nechybí ani možnost zrcadlení telefonu do infotainmentu. Pohon vozu má na starost velký benzínový motor o objemu 2,5 litru, který je doplněn o elektromotor a akumulátor. Jde tedy o hybrid, který umí jet čistě na elektřinu a brzděním dobíjí baterii. Díky tomu zvládá po městě jezdit se spotřebou okolo 4 - 5 litrů. Potěší také vysoký výkon, který dodává vozu velmi hezkou dynamiku. Tento kousek navíc disponuje i pohonem všech čtyř kol, díky čemuž snadněji zvládne i lehčí terén či zasněženou silnici.
-  Updated: 2025-11-18T12:27:57Z
+  Updated: 2025-12-01T08:31:07Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -2347,7 +2347,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda_popelava_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport.webp?v=1761735238
     Price: 13 390,00 Kč CZK
 - [Toyota RAV4 Selection 2.5 Hybrid 163 kW Benzín 4x4 Automatická převodovka](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka): Toyota RAV4 je robustní SUV, které je ve světě naprostým hitem - prodalo se jich přes 11 milionů. Design páté generace zaujme na první pohled - ostře řezané hrany v kombinaci se svalnatými blatníky navozují jedinečné charisma. Uvnitř se pyšní nadprůměrnou prostorností a potěší také tradiční koncepce, která zahrnuje klasická tlačítka a další ovladače. Díky tomu se velice dobře ovládá. Dotykový displej tu je samozřejmě také. Nechybí ani možnost zrcadlení telefonu do infotainmentu. Pohon vozu má na starost velký benzínový motor o objemu 2,5 litru, který je doplněn o elektromotor a akumulátor. Jde tedy o hybrid, který umí jet čistě na elektřinu a brzděním dobíjí baterii. Díky tomu zvládá po městě jezdit se spotřebou okolo 4 - 5 litrů. Potěší také vysoký výkon, který dodává vozu velmi hezkou dynamiku. Tento kousek navíc disponuje i pohonem všech čtyř kol, díky čemuž snadněji zvládne i lehčí terén či zasněženou silnici.
-  Updated: 2025-11-18T10:28:48Z
+  Updated: 2025-12-01T08:53:07Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -2660,7 +2660,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 22 555,00 Kč CZK
 - [MG MG3 Essential 1.5 Hybrid+ 143 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/mg-mg3-essential-1-5-hybrid-143-kw-natural-95-automaticka-prevodovka): MG3 je stylový a dostupný hatchback z dílny automobilky MG, který osloví především řidiče hledající menší a cenově přístupné auto s nízkou spotřebou. Tento model je jedním z nejdostupnějších vozů ve své kategorii, přičemž nabízí atraktivní design, jednoduchou ovladatelnost a dostatečnou výbavu pro každodenní použití. Kompaktní rozměry zajišťují snadné manévrování a parkování. Uvnitř MG3 najdete jednoduchý, ale účelný interiér s dostatkem prostoru pro pět pasažérů. Tento kousek nabízí hybridní pohonné ústrojí, jehož základem je benzínový motor o objemu 1,5 litru, který spolupracuje s elektromotorem. Celkový systémový výkon činí 143 kW, což je na tento segment velký nadprůměr. Poskytuje tedy velmi dobrou dynamiku, kterou oceníte i mimo město. Potěší také přítomnost automatické převodovky. Jedná se o vynikající hatchback, který nabízí mnoho muziky za málo peněz.
-  Updated: 2025-10-29T18:58:43Z
+  Updated: 2025-12-01T09:48:03Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -2675,7 +2675,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 6 947,00 Kč CZK
 - [MG MG3 Emotion 1.5 Hybrid+ 143 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/mg-mg3-emotion-1-5-hybrid-143-kw-natural-95-automaticka-prevodovka): MG3 je stylový a dostupný hatchback z dílny automobilky MG, který osloví především řidiče hledající menší a cenově přístupné auto s nízkou spotřebou. Tento model je jedním z nejdostupnějších vozů ve své kategorii, přičemž nabízí atraktivní design, jednoduchou ovladatelnost a dostatečnou výbavu pro každodenní použití. Kompaktní rozměry zajišťují snadné manévrování a parkování. Uvnitř MG3 najdete jednoduchý, ale účelný interiér s dostatkem prostoru pro pět pasažérů. Tento kousek nabízí hybridní pohonné ústrojí, jehož základem je benzínový motor o objemu 1,5 litru, který spolupracuje s elektromotorem. Celkový systémový výkon činí 143 kW, což je na tento segment velký nadprůměr. Poskytuje tedy velmi dobrou dynamiku, kterou oceníte i mimo město. Potěší také přítomnost automatické převodovky. Jedná se o vynikající hatchback, který nabízí mnoho muziky za málo peněz.
-  Updated: 2025-10-29T18:36:27Z
+  Updated: 2025-12-01T09:46:43Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -2912,7 +2912,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 12 213,00 Kč CZK
 - [Audi Q5 S line 2.0 TDI 150 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150-kw-nafta-4x4-automaticka-prevodovka): Model Q5 je středně velké SUV, které si oblíbili zákazníci, kteří chtějí dostatek prostoru pro posádku a zavazadla, ale zároveň nechtějí přehnaně velké vozidlo, se kterým je už složitější parkování či jízda na úzkých silnicích. Jedná se o zcela nový model, který byl představen na konci roku 2024. Pod kapotou pracuje osvědčený naftový motor o výkonu 150 kW, který dodává vozu slušnou dynamiku, ale zároveň je úsporný. Kombinovaně není problém jezdit s lehkou nohou okolo 6 litrů. Milovníky hor také potěší vyhlášený pohon všech kol quattro, díky kterému vůz dokáže vyjet i pořádně zasněžené kopce, čemuž pomáhá solidní světlá výška. Podvozek vozu dodává skvělé jízdní vlastnosti - je komfortní, ale zároveň stabilní v zatáčkách. Tento kousek je navíc krásně vybavený - celková cena včetně příplatků přesáhla 1,8 milionu.
-  Updated: 2025-11-27T13:37:54Z
+  Updated: 2025-12-01T08:51:24Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -3032,7 +3032,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 20 400,00 Kč CZK
 - [Audi Q5 Sportback S line 2.0 TFSI 150 kW Natural 95 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q5-sportback-s-line-2-0-tfsi-150-kw-natural-95-4x4-automaticka-prevodovka): Model Q5 je středně velké SUV, které si oblíbili zákazníci, kteří chtějí dostatek prostoru pro posádku a zavazadla, ale zároveň nechtějí přehnaně velké vozidlo, se kterým je už složitější parkování či jízda na úzkých silnicích. Jedná se o zcela nový model, který byl představen na konci roku 2024. Přídomek Sportback značí svažující-se záď, což je v dnešní době velmi populární a dodává to sportovní nádech. Pod kapotou pracuje osvědčený benzínový motor o výkonu 150 kW, který dodává vozu slušnou dynamiku, ale zároveň je úsporný. Milovníky hor také potěší vyhlášený pohon všech kol quattro, díky kterému vůz dokáže vyjet i pořádně zasněžené kopce, čemuž pomáhá solidní světlá výška. Podvozek vozu dodává skvělé jízdní vlastnosti - je komfortní, ale zároveň stabilní v zatáčkách. Tento kousek je navíc krásně vybavený - celková cena včetně příplatků přesahuje 1,8 milionu.
-  Updated: 2025-11-27T09:02:24Z
+  Updated: 2025-12-01T08:52:13Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -3110,7 +3110,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Cervena_Grenadine_Audi_Q5_Sportback.png?v=1762254029
     Price: 20 100,00 Kč CZK
 - [BMW X5 M Sport xDrive 30d 219 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/bmw-x5-m-sport-xdrive-30d-219-kw-nafta-4x4-automaticka-prevodovka): X5 je luxusní SUV, které nabídne pořádnou dávku stylu a díky tomuto velkému dieselovému motoru i vynikající dynamiku a slušnou spotřebu. Skvěle se řídí, je pohodlné, prostorné a úspornější, než kdy dříve. Na první pohled je jasné, že se nejedná o nic obyčejného či malého. X5 je opravdu velké auto. Masivní přední ledvinky a LED světlomety dodávají vozu jedinečný výraz. Zadní části dominují vodorovně orientované svítilny a ve spodní části dvě koncovky výfuků, za kterými se opravdu nachází výfuky, takže žádné chromové rámečky jen „na oko“. Interiér je jedním slovem luxusní. Kožená sedadla zaujmou na první pohled. Jsou elektrická, vyhřívaná a velice pohodlná. Nechybí ani možnost prodloužení sedáku, což ocení především vyšší jedinci. Jízdnímu komfortu nelze nic vytknout. I veliké výmoly filtruje skvěle a do karoserie propouští jen minimum informací o tom, po jakých „krásných“ silnicích u nás jezdíme. Pod kapotou pracuje naftový šestiválec o výkonu 219 kW, který dodává vozu velmi dobrou dynamiku a pružnost. Je zde také použita mild-hybridní technologie, která ukládá energii z brzdění a následně je využívána například při rozjezdech z místa. Nechybí ani bohatá příplatková výbava. Pořizovací cena tohoto kousku přesáhla 2,4 milionu.
-  Updated: 2025-11-27T09:26:12Z
+  Updated: 2025-12-01T08:55:33Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -3196,7 +3196,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto8.webp?v=1761742207
     Price: 25 880,00 Kč CZK
 - [Cupra Formentor 1.5 eTSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/cupra-formentor-1-5-etsi-110-kw-natural-95-automaticka-prevodovka): Cupra Formentor je prvním samostatným modelem značky Cupra. Jedná se o mimořádně oblíbené SUV s jedinečným designem. Přední část působí agresivně, čemuž napomáhají zamračené světlomety a agresivně tvarovaný nárazník. Tento kousek je navíc po výraznější modernizaci, která poměrně výrazně dotkla exteriéru, ale změny nastaly i uvnitř. Interiér působí moderně a minimalisticky. Veliká dotyková obrazovka je nakloněná k řidiči, což je příjemné. O prostor vpředu není nouze, situace je o chlup horší vzadu, kde je to o něco stísněnější, ale i tak se tam 185 cm vysoký člověk pohodlně vejde. Čtyři takové pasažéry Formentor pojme bez problému. Kufr pojme 450 litrů nákladu. Jízda je pohodlná, svižná a se základním benzinovým motorem i úsporná. O pohon vozu se stará benzínový čtyřválec, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka DSG, díky které se jedná o vynikající volbu na každý den.
-  Updated: 2025-11-13T13:13:05Z
+  Updated: 2025-12-01T08:26:02Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -3298,7 +3298,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/CupraFormentor2.0TSIfoto6.webp?v=1761742487
     Price: 12 853,00 Kč CZK
 - [Cupra Terramar 2.0 TSI 150 kW Natural 95 4x4 Automatická převodovka](https://www.driveto.cz/products/cupra-terramar-cupra-2-0-tsi-150-kw-natural-95-4x4-automaticka-prevodovka): Terramar je novým modelem této mladé značky, který zaujme svým dynamickým designem a sportovním charakterem. Toto SUV si zachovává agresivní vzhled, přičemž přední části vozu dominuje ostrá zkosená maska a výrazné světlomety, které vozu dodávají nekompromisní výraz. Zadní propojená LED světla jsou moderním a stylovým prvkem, který dokonale ladí s celkovým designem vozu. Interiér Terramaru je stejně jako u ostatních modelů značky Cupra minimalistický a zaměřený na řidiče. Velká dotyková obrazovka je ergonomicky nakloněná směrem k řidiči a všechny ovládací prvky jsou snadno dostupné. Přední sedadla poskytují dostatek prostoru a komfortu. Zavazadlový prostor disponuje slušnou kapacitou, takže je Terramar praktickým parťákem na každodenní cesty. Pod kapotou se skrývá benzínový motor 2,0 TSI o výkonu 150 kW, který zajišťuje příjemnou dynamiku a kultivovaný projev. Výborně si vede nejen na rovinkách, ale také v zatáčkách, kde nabídne skvělou stabilitu a jistotu. Samozřejmostí je i pohon všech kol, který usnadňuje jízdu na kluzkém povrchu či v lehkém terénu. Automatická převodovka DSG zajišťuje plynulý chod a pohodlí při každodenním používání. Cupra Terramar je tedy ideálním SUV pro ty, kdo hledají dynamický design, praktičnost a skvělé jízdní vlastnosti na silnici i v terénu.
-  Updated: 2025-11-13T13:16:16Z
+  Updated: 2025-12-01T08:27:28Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -3404,8 +3404,8 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
 ## Collections
 
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/operativni-leasing): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-30T12:26:25Z
-  Total Products: 171
+  Updated: 2025-12-01T08:23:15Z
+  Total Products: 170
 - [Operativní leasing Škoda | Driveto.cz](https://www.driveto.cz/collections/skoda): Operativní leasing Škoda pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-30T12:26:25Z
   Total Products: 57
@@ -3452,8 +3452,8 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-30T12:26:25Z
   Total Products: 3
 - [Operativní leasing Volvo | Driveto.cz](https://www.driveto.cz/collections/volvo): Operativní leasing Volvo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-30T12:26:25Z
-  Total Products: 12
+  Updated: 2025-12-01T08:23:15Z
+  Total Products: 11
 - [Operativní leasing Audi | Driveto.cz](https://www.driveto.cz/collections/audi): Operativní leasing Audi pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-30T12:26:25Z
   Total Products: 14
@@ -3470,8 +3470,8 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-29T13:07:21Z
   Total Products: 23
 - [Akční nabídky na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/akcni-nabidky): Akční nabídky na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-30T12:26:25Z
-  Total Products: 30
+  Updated: 2025-12-01T08:23:15Z
+  Total Products: 29
 - [Operativní leasing Renault | Driveto.cz](https://www.driveto.cz/collections/renault): Operativní leasing Renault pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-27T16:13:30Z
   Total Products: 5
@@ -3479,8 +3479,8 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-29T13:07:17Z
   Total Products: 8
 - [Osobní vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/osobni-vozy): Osobní vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-30T12:26:25Z
-  Total Products: 173
+  Updated: 2025-12-01T08:23:15Z
+  Total Products: 172
 - [Plug-in vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/plug-in): Plug-in vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-30T12:26:25Z
   Total Products: 11
@@ -3494,17 +3494,17 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-12T11:50:31Z
   Total Products: 0
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/all): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-30T12:26:25Z
-  Total Products: 171
+  Updated: 2025-12-01T08:23:15Z
+  Total Products: 170
 - [Operativní leasing Opel | Driveto.cz](https://www.driveto.cz/collections/opel): Operativní leasing Opel pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-30T12:26:25Z
   Total Products: 3
 - [BLACK FRIDAY | Driveto.cz](https://www.driveto.cz/collections/black-friday): Využijte Black Friday na Driveto. Operativní leasing na auta skladem nebo s rychlou dostupností. Nejlepší nabídky roku bez starostí a jednoduše online.
-  Updated: 2025-11-30T12:26:25Z
-  Total Products: 20
+  Updated: 2025-12-01T08:32:13Z
+  Total Products: 0
 - [Vánoční nadílka bez čekání](https://www.driveto.cz/collections/vanoce): Naše Vánoční nadílka bez čekání přináší vozy skladem a za skvělé ceny. Žádné dlouhé čekací lhůty a žádné složité podmínky - prostě si vyberte, podepíšete smlouvu a jezdíte.
-  Updated: 2025-11-27T14:12:21Z
-  Total Products: 1
+  Updated: 2025-12-01T09:58:02Z
+  Total Products: 24
 
 ## Blogs
 
