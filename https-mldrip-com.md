@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-09-24T18:25:07Z
 - Contact Email: shopmegluffy@gmail.com
-- Updated At: 2025-11-30T00:01:15.736Z
+- Updated At: 2025-12-01T00:01:23.730Z
 
 ## Products
 
@@ -13922,7 +13922,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-1961_48d34dec-4fab-4232-bc4b-a036f41f2a13.png?v=1764176272
     Price: €90.00 EUR
 - [Polo Jackets](https://mldrip.com/products/polo-jackets): Level up your outerwear with the Polo Jacket, a perfect mix of classic style and modern street energy. Designed for comfort and confidence, this piece brings that clean, preppy look with a hint of luxury. 💨 Why You’ll Love It: Premium fabric blend – soft, durable, and built for all-day wear Classic Polo aesthetic – sleek silhouette with signature detailing Versatile fit – perfect for layering over hoodies, tees, or shirts All-season style – lightweight enough for spring, warm enough for fall From casual days to night outings, the Polo Jacket keeps your look sharp, simple, and effortlessly fresh. 👉 Cop yours now and rock that Polo energy with confidence. 🐎🔥
-  Updated: 2025-11-26T16:58:04Z
+  Updated: 2025-11-30T21:15:53Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
