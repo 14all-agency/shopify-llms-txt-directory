@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-11-09T14:00:17Z
 - Contact Email: isabelle.berthier@rocketmail.com
-- Updated At: 2025-12-01T00:01:24.023Z
+- Updated At: 2025-12-02T00:02:36.563Z
 
 ## Products
 
@@ -1414,6 +1414,134 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-unisex-button-shirt-white-front-69285219aeab5.jpg?v=1764250285
     Price: 50,00 € EUR
+- [Legging Pour Enfant/Ado "Fly like a bird" Vert](https://kindesignfrance.com/products/legging-pour-enfant-ado-fly-like-a-bird-vert): Ce legging pour ados est le confort personnifié. Élastique et doux, ses couleurs vives sont faites pour durer. Chaque legging est découpé avec précision et cousu à la main pour garantir un ajustement parfait. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/Mexique • 82 % polyester, 18 % élasthanne pour la production en Lettonie • Poids du tissu : 225 g/m² (6,64 oz/yd²) aux États-Unis/Mexique • Poids du tissu : 230 g/m² (6,78 oz/yd²) en Lettonie • Fil de microfibre lisse et confortable • Tissu élastique • Cousu avec une finition surjet et point de recouvrement • Composants vierges provenant du Mexique et de Chine • Traçabilité : - Tricotage : Chine - Teinture : Chine - Fabrication : Lettonie • Comprend 95 % de polyester recyclé • Comprend 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les enfants EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide HEIGHT (cm) WAIST (cm) 8 134 60 10 140 62 12 146 64 14 152 66 16 158 67
+  Updated: 2025-12-01T21:35:26Z
+  Vendor: Kin design France
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/IMG-6312.png?v=1764582857
+  - [8](https://kindesignfrance.com/products/legging-pour-enfant-ado-fly-like-a-bird-vert?variant=56287655100791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-youth-leggings-white-front-692d612037995.jpg?v=1764582857
+    Price: 29,00 € EUR
+  - [10](https://kindesignfrance.com/products/legging-pour-enfant-ado-fly-like-a-bird-vert?variant=56287655133559)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-youth-leggings-white-front-692d612037995.jpg?v=1764582857
+    Price: 29,00 € EUR
+  - [12](https://kindesignfrance.com/products/legging-pour-enfant-ado-fly-like-a-bird-vert?variant=56287655166327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-youth-leggings-white-front-692d612037995.jpg?v=1764582857
+    Price: 29,00 € EUR
+  - [14](https://kindesignfrance.com/products/legging-pour-enfant-ado-fly-like-a-bird-vert?variant=56287655199095)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-youth-leggings-white-front-692d612037995.jpg?v=1764582857
+    Price: 29,00 € EUR
+  - [16](https://kindesignfrance.com/products/legging-pour-enfant-ado-fly-like-a-bird-vert?variant=56287655231863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-youth-leggings-white-front-692d612037995.jpg?v=1764582857
+    Price: 29,00 € EUR
+- [Maillot de bain 2 pièces taille haute "Fly like a bird" Rouge Brique](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-rouge-brique): Il est trop facile de tomber amoureux de ce maillot de bain. Les coussinets amovibles et sa double superposition le rendent agréable à porter toute la journée au bord de la piscine ou à la plage. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/au Mexique. • 88 % polyester recyclé, 12 % élasthanne pour la production en Lettonie. • Poids du tissu : 225 g/m² (6,64 oz./yd.²) aux États-Unis/au Mexique. • Poids du tissu : 230 g/m² (7,37 oz./yd.²) en Lettonie. • Double couche et non réversible • Rembourrage amovible • Étiquette d'entretien détachable • Couture en zig-zag • Composants du produit vierge de l'UE provenant d'Espagne, d'Allemagne, de Taïwan, du Vietnam, du Cambodge et de Lituanie • Composants de produit vierge aux États-Unis provenant de Mexique et d'Espagne • Traçabilité : - Tricot : Chine - Teinture : Chine - Fabrication : Lettonie • Contient 88 % de polyester recyclé • Contient 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide CHEST (cm) WAIST (cm) HIPS (cm) XS 84 64 90 S 88 68 94 M 92 72 98 L 100 80 106 XL 108 88 114 2XL 116 96 122 3XL 124 104 130
+  Updated: 2025-12-01T21:40:35Z
+  Vendor: Kin design France
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/IMG-6313.png?v=1764583092
+  - [XS](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-rouge-brique?variant=56287816286583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d62699f1ac.jpg?v=1764583092
+    Price: 49,00 € EUR
+  - [S](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-rouge-brique?variant=56287816319351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d62699f1ac.jpg?v=1764583092
+    Price: 49,00 € EUR
+  - [M](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-rouge-brique?variant=56287816352119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d62699f1ac.jpg?v=1764583092
+    Price: 49,00 € EUR
+  - [L](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-rouge-brique?variant=56287816384887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d62699f1ac.jpg?v=1764583092
+    Price: 49,00 € EUR
+  - [XL](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-rouge-brique?variant=56287816417655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d62699f1ac.jpg?v=1764583092
+    Price: 49,00 € EUR
+  - [2 XL](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-rouge-brique?variant=56287816450423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d62699f1ac.jpg?v=1764583092
+    Price: 49,00 € EUR
+  - [3XL](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-rouge-brique?variant=56287816483191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d62699f1ac.jpg?v=1764583092
+    Price: 49,00 € EUR
+- [Maillot de bain 2 pièces taille haute "fly like a bird" Vert](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-vert): Il est trop facile de tomber amoureux de ce maillot de bain. Les coussinets amovibles et sa double superposition le rendent agréable à porter toute la journée au bord de la piscine ou à la plage. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/au Mexique. • 88 % polyester recyclé, 12 % élasthanne pour la production en Lettonie. • Poids du tissu : 225 g/m² (6,64 oz./yd.²) aux États-Unis/au Mexique. • Poids du tissu : 230 g/m² (7,37 oz./yd.²) en Lettonie. • Double couche et non réversible • Rembourrage amovible • Étiquette d'entretien détachable • Couture en zig-zag • Composants du produit vierge de l'UE provenant d'Espagne, d'Allemagne, de Taïwan, du Vietnam, du Cambodge et de Lituanie • Composants de produit vierge aux États-Unis provenant de Mexique et d'Espagne • Traçabilité : - Tricot : Chine - Teinture : Chine - Fabrication : Lettonie • Contient 88 % de polyester recyclé • Contient 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide CHEST (cm) WAIST (cm) HIPS (cm) XS 84 64 90 S 88 68 94 M 92 72 98 L 100 80 106 XL 108 88 114 2XL 116 96 122 3XL 124 104 130
+  Updated: 2025-12-01T21:46:12Z
+  Vendor: Kin design France
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/IMG-6316.png?v=1764583332
+  - [XS](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-vert?variant=56287980355959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d63d18705c.jpg?v=1764583332
+    Price: 49,00 € EUR
+  - [S](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-vert?variant=56287980388727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d63d18705c.jpg?v=1764583332
+    Price: 49,00 € EUR
+  - [M](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-vert?variant=56287980421495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d63d18705c.jpg?v=1764583332
+    Price: 49,00 € EUR
+  - [L](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-vert?variant=56287980454263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d63d18705c.jpg?v=1764583332
+    Price: 49,00 € EUR
+  - [XL](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-vert?variant=56287980487031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d63d18705c.jpg?v=1764583332
+    Price: 49,00 € EUR
+  - [2 XL](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-vert?variant=56287980519799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d63d18705c.jpg?v=1764583332
+    Price: 49,00 € EUR
+  - [3XL](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-vert?variant=56287980552567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d63d18705c.jpg?v=1764583332
+    Price: 49,00 € EUR
+- [Maillot de bain 2 pièces taille haute "Fly like a bird" Bleu](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-bleu): Il est trop facile de tomber amoureux de ce maillot de bain. Les coussinets amovibles et sa double superposition le rendent agréable à porter toute la journée au bord de la piscine ou à la plage. • 75 % polyester recyclé, 25 % élasthanne pour la production aux États-Unis/au Mexique. • 88 % polyester recyclé, 12 % élasthanne pour la production en Lettonie. • Poids du tissu : 225 g/m² (6,64 oz./yd.²) aux États-Unis/au Mexique. • Poids du tissu : 230 g/m² (7,37 oz./yd.²) en Lettonie. • Double couche et non réversible • Rembourrage amovible • Étiquette d'entretien détachable • Couture en zig-zag • Composants du produit vierge de l'UE provenant d'Espagne, d'Allemagne, de Taïwan, du Vietnam, du Cambodge et de Lituanie • Composants de produit vierge aux États-Unis provenant de Mexique et d'Espagne • Traçabilité : - Tricot : Chine - Teinture : Chine - Fabrication : Lettonie • Contient 88 % de polyester recyclé • Contient 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences relatives à l’inflammabilité et aux teneurs en formaldéhyde, colorants azoïques, plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide CHEST (cm) WAIST (cm) HIPS (cm) XS 84 64 90 S 88 68 94 M 92 72 98 L 100 80 106 XL 108 88 114 2XL 116 96 122 3XL 124 104 130
+  Updated: 2025-12-01T22:07:30Z
+  Vendor: Kin design France
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/IMG-6320.png?v=1764583869
+  - [XS](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-bleu?variant=56288060539255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d68b9cbb48.jpg?v=1764583869
+    Price: 49,00 € EUR
+  - [S](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-bleu?variant=56288060572023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d68b9cbb48.jpg?v=1764583869
+    Price: 49,00 € EUR
+  - [M](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-bleu?variant=56288060604791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d68b9cbb48.jpg?v=1764583869
+    Price: 49,00 € EUR
+  - [L](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-bleu?variant=56288060637559)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d68b9cbb48.jpg?v=1764583869
+    Price: 49,00 € EUR
+  - [XL](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-bleu?variant=56288060670327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d68b9cbb48.jpg?v=1764583869
+    Price: 49,00 € EUR
+  - [2 XL](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-bleu?variant=56288060703095)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d68b9cbb48.jpg?v=1764583869
+    Price: 49,00 € EUR
+  - [3XL](https://kindesignfrance.com/products/maillot-de-bain-2-pieces-taille-haute-fly-like-a-bird-bleu?variant=56288060735863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d68b9cbb48.jpg?v=1764583869
+    Price: 49,00 € EUR
 
 ## Collections
 
@@ -1424,14 +1552,14 @@
   Updated: 2025-11-26T12:49:13Z
   Total Products: 18
 - [Fly like a Bird](https://kindesignfrance.com/collections/fly-like-a-bird): 🕊️ Fly Like a Bird – La nouvelle collection de KIN Design Prenez votre envol avec Fly Like a Bird, la nouvelle collection signée KIN Design — un mélange poétique de liberté, de créativité et de design responsable pour hommes, femmes et enfants. Inspirée par la légèreté du ciel et la beauté du mouvement, chaque pièce allie confort et élégance grâce à des matières soigneusement sélectionnées — , en passant par des tissus imprimés sur demande. Chaque création est conçue en France avec la touche distinctive de KIN Design : des imprimés exclusifs, des modèles uniques et un engagement envers une mode durable qui respecte autant les personnes que la planète. Que vous exploriez la ville ou couriez après le vent, Fly Like a Bird vous invite à bouger librement, à vous habiller en conscience et à exprimer vos vraies couleurs. ✨ Fly Like a Bird – La liberté durable pour chaque génération. ✨
-  Updated: 2025-11-26T14:11:07Z
-  Total Products: 15
+  Updated: 2025-12-01T10:07:25Z
+  Total Products: 19
 - [Femme](https://kindesignfrance.com/collections/femme)
-  Updated: 2025-11-26T14:11:07Z
-  Total Products: 23
+  Updated: 2025-12-01T10:07:25Z
+  Total Products: 26
 - [Fille](https://kindesignfrance.com/collections/fille)
-  Updated: 2025-11-26T12:49:13Z
-  Total Products: 9
+  Updated: 2025-12-01T09:35:20Z
+  Total Products: 10
 - [Unisexe](https://kindesignfrance.com/collections/homme)
   Updated: 2025-11-27T13:29:19Z
   Total Products: 6
