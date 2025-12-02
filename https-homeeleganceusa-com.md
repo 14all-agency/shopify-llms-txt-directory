@@ -1,6 +1,6 @@
 # Home Elegance Furniture (https://homeeleganceusa.com)
 
-> Discover luxury furniture at Home Elegance USA. Shop stylish bedroom, living, dining, and office collections with premium quality and free nationwide shipping.
+> Discover luxury furniture at Home Elegance Furniture. Shop stylish bedroom, living, dining, and office collections with premium quality and free nationwide shipping.
 
 - Domain: https://homeeleganceusa.com
 - Locale: en
@@ -10,7 +10,7 @@
 - Contact Email: sales@homeeleganceusa.com
 - Contact Phone: 732-777-1100
 - Address: 850 Ridgewood Avenue, North Brunswick NJ 08902
-- Updated At: 2025-12-02T20:11:08.949Z
+- Updated At: 2025-12-02T20:15:07.320Z
 
 ## Products
 
