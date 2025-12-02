@@ -10,7 +10,7 @@
 - Contact Email: sales@homeeleganceusa.com
 - Contact Phone: 732-777-1100
 - Address: 850 Ridgewood Avenue, North Brunswick NJ 08902
-- Updated At: 2025-12-02T19:35:46.260Z
+- Updated At: 2025-12-02T20:11:08.949Z
 
 ## Products
 
@@ -832,7 +832,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T13:04:55Z
   Price: $4,297.99 USD
 - [Traditional Handpainted Floor Lamp 1303-FL | Artmax - LuxeHome](https://homeeleganceusa.com/products/1303-fl-floor-lamp): Experience the elegance of our Traditional Handpainted Floor Lamp. Crafted with attention to detail, this lamp adds a touch of sophistication to any space. Shop now for a timeless piece!
-  Updated: 2025-12-02T16:50:31Z
+  Updated: 2025-12-02T19:51:29Z
   Price: $2,075.00 USD
 - [Traditional Handpainted 78.5"H Floor Lamp | Artmax](https://homeeleganceusa.com/products/1968-fl-floor-lamp): Traditional Handpainted 78.5"H Floor Lamp | Artmax Description Floor Lamp by Artmax is a stunning piece that will light up any room with its warm glow. The
   Updated: 2025-11-25T13:04:56Z
@@ -23011,8 +23011,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-29T18:56:32Z
   Price: $3,119.00 USD
 - [Villa Valencia Decorative Mirror In Chestnut - 72041-55 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-villa-valencia-decorative-mirror-in-chestnut-72041-55): Shop the Villa Valencia Decorative Mirror In Chestnut - 72041-55 by Aico Furniture. Dimensions: 64.25"W x 1.75"D x 51.5"H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:56:34Z
-  Price: $939.00 USD
+  Updated: 2025-12-02T19:41:53Z
+  Price: $1,139.00 USD
 - [Metro Lights Midnight Bar - 9010500-809 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-metro-lights-midnight-bar-9010500-809): Shop the Metro Lights Midnight Bar - 9010500-809 by Aico Furniture. Dimensions: 76"W x 25"D x 42.5"H Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-25T14:32:41Z
   Price: $4,020.99 USD
@@ -23032,14 +23032,14 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:32:46Z
   Price: $2,387.99 USD
 - [State St. Arm Chairs Set of 2 Acrylic Back Satin White – AICO](https://homeeleganceusa.com/products/aico-furniture-state-st-arm-chair-in-white-set-of-2-n9016004a-116): Set of 2 State St. Arm Chairs by AICO with acrylic backrests, satin white vinyl seats, and stainless steel accents. Perfect for modern luxury dining.
-  Updated: 2025-11-29T18:56:39Z
-  Price: $1,198.00 USD
+  Updated: 2025-12-02T19:41:55Z
+  Price: $1,398.00 USD
 - [State St. Sideboard In Glossy White - N9016007-116 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-state-st-sideboard-in-glossy-white-n9016007-116): Shop the State St. Sideboard In Glossy White - N9016007-116 by Aico Furniture. Dimensions: 72.25"W x 18.25"D x 37"H Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-29T18:56:40Z
   Price: $2,879.00 USD
 - [Brooklyn Walk Side Chairs Set of 2 Gray Fabric Burnt Umber – AICO](https://homeeleganceusa.com/products/aico-furniture-brooklyn-walk-side-chair-in-burnt-umber-set-of-2-ki-brkw003-408): Set of 2 Brooklyn Walk Side Chairs by AICO, upholstered in gray woven fabric with curved backrests and Acacia wood legs in a Burnt Umber finish.
-  Updated: 2025-11-25T14:32:54Z
-  Price: $757.99 USD
+  Updated: 2025-12-02T19:41:56Z
+  Price: $957.99 USD
 - [Villa Valencia Dresser With Mirror - 72050SA-60-55 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-villa-valencia-dresser-with-mirror-lighting-box-72050-60lb-55): Shop the Villa Valencia Dresser With Mirror - 72050SA-60-55 by Aico Furniture. Dimensions: Overall Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-25T14:32:56Z
   Price: $7,432.99 USD
@@ -23077,8 +23077,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-29T18:56:50Z
   Price: $3,429.00 USD
 - [Villa Cherie Hazelnut Bench in Porcini Velvet – AICO](https://homeeleganceusa.com/products/aico-furniture-villa-cherie-bench-in-hazelnut-n9008904-410): Add luxury seating with the Villa Cherie Bench in Hazelnut. Upholstered in Porcini velvet with Chardonnay legs. Perfect for bedrooms, foyers, or lounges.
-  Updated: 2025-11-29T18:56:51Z
-  Price: $1,059.00 USD
+  Updated: 2025-12-02T19:41:57Z
+  Price: $1,259.00 USD
 - [Villa Cherie Oval Dining Table 80"–124" Hazelnut – AICO](https://homeeleganceusa.com/products/aico-furniture-villa-cherie-4-leg-oval-dining-table-in-hazelnut-n9008000-410): The Villa Cherie Oval Dining Table by AICO extends to 124" and features a swirl mahogany top, tapered legs, and Chardonnay rope motifs. Luxurious and versatile.
   Updated: 2025-11-29T18:56:52Z
   Price: $3,839.00 USD
@@ -23089,8 +23089,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:33:10Z
   Price: $3,066.99 USD
 - [Villa Cherie Tufted Vanity/Desk Chair In Naturally - N9008804-000 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-villa-cherie-tufted-vanity-desk-chair-in-naturally-n9008804-000): Shop the Villa Cherie Tufted Vanity/Desk Chair In Naturally - N9008804-000 by Aico Furniture. Dimensions: W 19.50" D 23.50" H 36.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:33:11Z
-  Price: $1,035.99 USD
+  Updated: 2025-12-02T19:41:58Z
+  Price: $1,235.99 USD
 - [Villa Cherie Hazelnut Vanity Desk – Aico](https://homeeleganceusa.com/products/aico-furniture-villa-cherie-vanity-desk-in-hazelnut-n9008058-410): Vanity or writing desk in Hazelnut with geometric inlay, velvet-lined drawers, and faux tassel pulls. Villa Cherie by Aico blends beauty and function.
   Updated: 2025-11-29T18:56:54Z
   Price: $2,259.00 USD
@@ -23131,14 +23131,14 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:33:24Z
   Price: $4,016.99 USD
 - [Villa Cherie End Table In Hazelnut - N9008202-410 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-villa-cherie-end-table-in-hazelnut-n9008202-410): Shop the Villa Cherie End Table In Hazelnut - N9008202-410 by Aico Furniture. Dimensions: W 24.50" D 24.50" H 23.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:57:01Z
-  Price: $1,149.00 USD
+  Updated: 2025-12-02T19:41:59Z
+  Price: $1,349.00 USD
 - [Villa Cherie Hazelnut Oval Cocktail Table with Glass Shelf – AICO](https://homeeleganceusa.com/products/aico-furniture-villa-cherie-oval-cocktail-table-in-hazelnut-n9008201-410): Elegant and refined, the Villa Cherie Oval Cocktail Table by AICO features a Hazelnut finish, glass bottom tier, and Chardonnay gold-finished details.
   Updated: 2025-11-29T18:57:02Z
   Price: $1,679.00 USD
 - [Villa Cherie Chairside Table In Hazelnut - N9008222-410 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-villa-cherie-chairside-table-in-hazelnut-n9008222-410): Shop the Villa Cherie Chairside Table In Hazelnut - N9008222-410 by Aico Furniture. Dimensions: W 16.00" D 16.00" H 24.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:57:03Z
-  Price: $1,079.00 USD
+  Updated: 2025-12-02T19:41:59Z
+  Price: $1,279.00 USD
 - [Villa Cherie Hazelnut Console Table with Velvet Lined Drawers – AICO](https://homeeleganceusa.com/products/aico-furniture-villa-cherie-console-table-in-hazelnut-n9008223-410): The Villa Cherie Console Table by AICO features a Hazelnut finish, soft-close velvet-lined drawers, Chardonnay trim, and elegant rope-motif legs.
   Updated: 2025-11-29T18:57:04Z
   Price: $1,679.00 USD
@@ -23185,8 +23185,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:33:42Z
   Price: $3,098.99 USD
 - [Villa Cherie Caramel Vanity Mirror In Chardonnay - N9008068-822 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-villa-cherie-caramel-vanity-mirror-in-chardonnay-n9008068-822): Shop the Villa Cherie Caramel Vanity Mirror In Chardonnay - N9008068-822 by Aico Furniture. Dimensions: W 27.00" D 3.00" H 38.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:57:12Z
-  Price: $699.00 USD
+  Updated: 2025-12-02T19:42:00Z
+  Price: $899.00 USD
 - [Villa Cherie Vanity Desk in Caramel Finish – AICO](https://homeeleganceusa.com/products/aico-furniture-villa-cherie-caramel-vanity-in-chardonnay-n9008058-134): The Villa Cherie Caramel Vanity Desk by AICO features a geometric inlay top, velvet-lined drawers, and Chardonnay-finished tapered legs—luxury style for vanity or writing use.
   Updated: 2025-11-29T18:57:13Z
   Price: $2,259.00 USD
@@ -23215,8 +23215,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:33:52Z
   Price: $3,044.99 USD
 - [Villa Cherie Caramel Sideboard Mirror In Chardonnay - N9008067-822 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-villa-cherie-caramel-sideboard-mirror-in-chardonnay-n9008067-822): Shop the Villa Cherie Caramel Sideboard Mirror In Chardonnay - N9008067-822 by Aico Furniture. Dimensions: W 74.00" D 18.75" H 38.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:57:17Z
-  Price: $709.00 USD
+  Updated: 2025-12-02T19:42:01Z
+  Price: $909.00 USD
 - [Villa Cherie Dining Arm Chairs Set of 2 in Caramel – AICO](https://homeeleganceusa.com/products/aico-furniture-villa-cherie-caramel-arm-chair-in-chardonnay-set-of-2-n9008004-134): Shop Villa Cherie Dining Arm Chairs in Caramel by AICO. Set of 2 with frosted linen, Chardonnay finish, tufted back, and elegant rope motifs.
   Updated: 2025-11-29T18:57:18Z
   Price: $2,358.00 USD
@@ -23227,11 +23227,11 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:33:56Z
   Price: $3,799.99 USD
 - [Villa Cherie Caramel Chairside Table In Chardonnay - N9008222-134 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-villa-cherie-caramel-chairside-table-in-chardonnay-n9008222-134): Shop the Villa Cherie Caramel Chairside Table In Chardonnay - N9008222-134 by Aico Furniture. Dimensions: W 16.00" D 16.00" H 24.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:57:22Z
-  Price: $1,079.00 USD
+  Updated: 2025-12-02T19:42:01Z
+  Price: $1,279.00 USD
 - [Villa Cherie Caramel End Table In Chardonnay - N9008202-134 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-villa-cherie-caramel-end-table-in-chardonnay-n9008202-134): Shop the Villa Cherie Caramel End Table In Chardonnay - N9008202-134 by Aico Furniture. Dimensions: W 24.50" D 24.50" H 23.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:57:23Z
-  Price: $1,149.00 USD
+  Updated: 2025-12-02T19:42:02Z
+  Price: $1,349.00 USD
 - [Villa Cherie Caramel Oval Cocktail Table with Glass Shelf – AICO](https://homeeleganceusa.com/products/aico-furniture-villa-cherie-caramel-oval-cocktail-table-in-chardonnay-n9008201-134): Elevate your living room with the Villa Cherie Caramel Oval Cocktail Table by AICO. Features a glass shelf, gold trim, and sculpted rope-motif legs.
   Updated: 2025-11-29T18:57:24Z
   Price: $1,679.00 USD
@@ -23311,8 +23311,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:34:24Z
   Price: $16,536.99 USD
 - [Roxbury Park Wall Mirror In Slate - N9006260-220 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-roxbury-park-wall-mirror-in-slate-n9006260-220): Shop the Roxbury Park Wall Mirror In Slate - N9006260-220 by Aico Furniture. Dimensions: W 54.00" D 1.50" H 37.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:57:34Z
-  Price: $669.00 USD
+  Updated: 2025-12-02T19:42:03Z
+  Price: $869.00 USD
 - [Roxbury Park Channel-Tufted Bench in Slate Velvet – AICO](https://homeeleganceusa.com/products/aico-furniture-roxbury-park-channel-tufted-bench-in-slate-n9006904-13): Add modern elegance with the Roxbury Park Channel-Tufted Bench in Slate. Features stainless steel frame and velvet seat—perfect for bedroom or entryway.
   Updated: 2025-11-29T18:57:35Z
   Price: $2,399.00 USD
@@ -23341,8 +23341,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-29T18:57:41Z
   Price: $2,379.00 USD
 - [Roxbury Park Vanity Mirror In Slate - N9006068-220 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-roxbury-park-vanity-mirror-in-slate-n9006068-220): Shop the Roxbury Park Vanity Mirror In Slate - N9006068-220 by Aico Furniture. Dimensions: W 48.00" D 1.50" H 38.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:57:42Z
-  Price: $889.00 USD
+  Updated: 2025-12-02T19:42:04Z
+  Price: $1,089.00 USD
 - [Roxbury Park 7-Piece Rectangular Dining Set Slate – AICO](https://homeeleganceusa.com/products/aico-furniture-roxbury-park-7-leg-rectangular-dining-table-set-in-slate-n9006000-220-7set): Roxbury Park 7-Piece Dining Set in Slate. Extendable 80.5–128.5" table with platinum trim, 4 side & 2 arm chairs, reeded legs, modern style, white-glove assembly included.
   Updated: 2025-11-25T14:34:37Z
   Price: $7,444.99 USD
@@ -23449,8 +23449,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:35:10Z
   Price: $1,312.99 USD
 - [Paris Chic Vanity Desk Chair In Espresso - N9003244-409 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-paris-chic-vanity-desk-chair-in-espresso-n9003244-409): Shop the Paris Chic Vanity Desk Chair In Espresso - N9003244-409 by Aico Furniture. Dimensions: W 44.75" D 1.50" H 42.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:35:11Z
-  Price: $1,193.99 USD
+  Updated: 2025-12-02T19:42:04Z
+  Price: $1,393.99 USD
 - [Paris Chic 3-Piece Vanity Desk, Mirror & Chair – AICO](https://homeeleganceusa.com/products/aico-furniture-paris-chic-3-piece-vanity-desk-set-in-espresso-n9003058-409-3set): The Paris Chic 3-Piece Vanity Desk Set by AICO features an espresso finish, platinum hardware, velvet-lined drawers, a matching wall mirror, and an upholstered chair—luxury for beauty or workspace.
   Updated: 2025-11-25T14:35:12Z
   Price: $4,710.99 USD
@@ -23497,8 +23497,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:35:26Z
   Price: $12,110.99 USD
 - [Paris Chic Wall Mirror In Espresso - N9003260-409 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-paris-chic-wall-mirror-in-espresso-n9003260-409): Shop the Paris Chic Wall Mirror In Espresso - N9003260-409 by Aico Furniture. Dimensions: W 55.00" D 1.75" H 36.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:35:27Z
-  Price: $911.99 USD
+  Updated: 2025-12-02T19:42:05Z
+  Price: $1,111.99 USD
 - [Paris Chic Sideboard In Espresso - N9003007-409 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-paris-chic-sideboard-in-espresso-n9003007-409): Michael Amini Paris Chic sideboard in Espresso with velvet-lined drawers, soft-close cabinets, and art deco detailing. Stylish storage for elegant interiors.
   Updated: 2025-11-29T18:58:05Z
   Price: $3,119.00 USD
@@ -23545,11 +23545,11 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:35:43Z
   Price: $4,506.99 USD
 - [London Place Vanity Mirror In Creamy Pearl - Nc9004068-112 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-london-place-vanity-mirror-in-creamy-pearl-nc9004068-112): Shop the London Place Vanity Mirror In Creamy Pearl - Nc9004068-112 by Aico Furniture. Dimensions: W 48.00" D 1.50" H 42.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:58:11Z
-  Price: $749.00 USD
+  Updated: 2025-12-02T19:42:06Z
+  Price: $949.00 USD
 - [London Place Bench – Creamy Pearl Velvet | AICO](https://homeeleganceusa.com/products/aico-furniture-london-place-bench-in-creamy-pearl-nc9004904-112): Add glamour with the London Place Bench by AICO. Finished in Creamy Pearl with velvet upholstery, tufted cushion, and nailhead trim. Stylish and elegant.
-  Updated: 2025-11-29T18:58:12Z
-  Price: $909.00 USD
+  Updated: 2025-12-02T19:42:07Z
+  Price: $1,109.00 USD
 - [London Place Tiered Chest in Creamy Pearl by AICO](https://homeeleganceusa.com/products/aico-furniture-london-place-tiered-vertical-storage-cabinets-chest-in-creamy-pearl-nc9004070-112): Add elegance with the London Place Tiered Chest—6 velvet-lined drawers, scalloped design, platinum trim, and a Creamy Pearl finish from AICO Furniture.
   Updated: 2025-11-25T14:35:46Z
   Price: $3,696.99 USD
@@ -23566,8 +23566,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:35:49Z
   Price: $4,316.99 USD
 - [London Place End Table In Creamy Pearl - Nc9004202-112 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-london-place-end-table-in-creamy-pearl-nc9004202-112): Shop the London Place End Table In Creamy Pearl - Nc9004202-112 by Aico Furniture. Dimensions: W 22.75" D 22.75" H 25.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:58:16Z
-  Price: $939.00 USD
+  Updated: 2025-12-02T19:42:07Z
+  Price: $1,139.00 USD
 - [London Place 3-Piece Table Set in Creamy Pearl | AICO](https://homeeleganceusa.com/products/aico-furniture-london-place-3-piece-occasional-table-set-in-creamy-pearl-nc9004201-202-112): Elegant 3-piece London Place set with creamy pearl finish, platinum trim, Birdseye maple veneer top—luxury cocktail & end tables by AICO Furniture.
   Updated: 2025-11-25T14:35:52Z
   Price: $3,483.99 USD
@@ -23584,8 +23584,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:35:55Z
   Price: $13,707.99 USD
 - [London Place Wall Mirror In Creamy Pearl - Nc9004260-112 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-london-place-wall-mirror-in-creamy-pearl-nc9004260-112): Shop the London Place Wall Mirror In Creamy Pearl - Nc9004260-112 by Aico Furniture. Dimensions: W 54.00" D 2.25" H 38.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:58:20Z
-  Price: $749.00 USD
+  Updated: 2025-12-02T19:42:08Z
+  Price: $949.00 USD
 - [London Place Sideboard In Creamy Pearl - Nc9004007-112 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-london-place-sideboard-in-creamy-pearl-nc9004007-112): Michael Amini London Place sideboard in Creamy Pearl with marble top, velvet drawers, silverware caddy, and soft-close doors. SKU N9004007-112.
   Updated: 2025-11-29T18:58:21Z
   Price: $2,639.00 USD
@@ -23602,8 +23602,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-29T18:58:23Z
   Price: $1,678.00 USD
 - [London Place Dining Side Chairs Set of 2 in Velvet & Platinum – AICO](https://homeeleganceusa.com/products/aico-furniture-london-place-side-chair-in-creamy-pearl-set-of-2-nc9004003a-112): Elevate your dining with London Place Side Chairs by AICO. Features velvet seats, diamond tufting, platinum legs, and sloped backs. Set of 2 included.
-  Updated: 2025-11-29T18:58:24Z
-  Price: $759.00 USD
+  Updated: 2025-12-02T19:42:09Z
+  Price: $959.00 USD
 - [London Place Creamy Pearl Display Cabinet with LED – AICO](https://homeeleganceusa.com/products/aico-furniture-london-place-display-cabinet-in-creamy-pearl-nc9004209-112): Display your dining treasures with the London Place Cabinet in Creamy Pearl, featuring LED lighting, mirrored back, glass shelves, and velvet-lined drawers.
   Updated: 2025-11-25T14:36:04Z
   Price: $3,617.99 USD
@@ -23632,8 +23632,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-29T18:58:29Z
   Price: $1,919.00 USD
 - [La Rachelle Chairside Table In Medium Champagne - 9034225-136 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-la-rachelle-chairside-table-in-medium-champagne-9034225-136): Shop the La Rachelle Chairside Table In Medium Champagne - 9034225-136 by Aico Furniture. Dimensions: W 15.25" D 16.00" H 25.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:58:30Z
-  Price: $769.00 USD
+  Updated: 2025-12-02T19:42:10Z
+  Price: $969.00 USD
 - [La Rachelle Round End Table W/ Marble Top In Medium Champagne - 9034224-136 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-la-rachelle-round-end-table-w-marble-top-in-medium-champagne-9034224-136): Shop the La Rachelle Round End Table W/ Marble Top In Medium Champagne - 9034224-136 by Aico Furniture. Dimensions: W 23.25" D 23.25" H 27.00" Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-29T18:58:31Z
   Price: $1,269.00 USD
@@ -23644,8 +23644,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-29T18:58:32Z
   Price: $1,919.00 USD
 - [La Rachelle Octagonal End Table W/Drawer In Medium Champagne - 9034202-136 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-la-rachelle-octagonal-end-table-w-drawer-in-medium-champagne-9034202-136): Shop the La Rachelle Octagonal End Table W/Drawer In Medium Champagne - 9034202-136 by Aico Furniture. Dimensions: W 19.50" D 27.50" H 25.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:58:33Z
-  Price: $1,129.00 USD
+  Updated: 2025-12-02T19:42:10Z
+  Price: $1,329.00 USD
 - [La Rachelle 3-Piece Hexagon Table Set in Medium Champagne | AICO](https://homeeleganceusa.com/products/aico-furniture-la-rachelle-3-piece-occasional-table-set-in-medium-champagne-9034201-222-136): La Rachelle 3-piece hexagon table set with beveled glass tops, Chardonnay accents, and medium champagne finish—modern elegance by AICO Furniture.
   Updated: 2025-11-25T14:36:18Z
   Price: $3,721.99 USD
@@ -23653,8 +23653,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:36:18Z
   Price: $4,253.99 USD
 - [La Rachelle Hexagon Accent Table In Medium Champagne - 9034222-136 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-la-rachelle-hexagon-accent-table-in-medium-champagne-9034222-136): Shop the La Rachelle Hexagon Accent Table In Medium Champagne - 9034222-136 by Aico Furniture. Dimensions: W 21.50" D 21.50" H 24.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:58:35Z
-  Price: $789.00 USD
+  Updated: 2025-12-02T19:42:11Z
+  Price: $989.00 USD
 - [La Rachelle 54" Round Glass Dining Table Champagne – AICO](https://homeeleganceusa.com/products/aico-furniture-la-rachelle-54-round-dining-table-in-medium-champagne-9034001rnd-136): The La Rachelle Round Dining Table by AICO features a 54" beveled glass top and cutout metal pedestal in Chardonnay finish. Sleek, modern, and effortlessly chic.
   Updated: 2025-11-25T14:36:21Z
   Price: $2,427.99 USD
@@ -23677,8 +23677,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:36:26Z
   Price: $10,281.99 USD
 - [La Rachelle Wall Mirror In Medium Champagne - 9034260-136 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-la-rachelle-wall-mirror-in-medium-champagne-9034260-136): Shop the La Rachelle Wall Mirror In Medium Champagne - 9034260-136 by Aico Furniture. Dimensions: W 58.00" D 4.00" H 36.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:58:38Z
-  Price: $819.00 USD
+  Updated: 2025-12-02T19:42:12Z
+  Price: $1,019.00 USD
 - [La Rachelle Arm Chairs Set of 2 in Jacquard & Chardonnay – AICO](https://homeeleganceusa.com/products/aico-furniture-la-rachelle-arm-chair-in-medium-champagne-set-of-2-9034004-136): Add couture elegance with the La Rachelle Arm Chairs by AICO. Featuring tufted jacquard backs, Chardonnay legs, and top handles. Sold as a set of 2.
   Updated: 2025-11-29T18:58:40Z
   Price: $1,918.00 USD
@@ -23692,17 +23692,17 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-29T18:58:43Z
   Price: $3,359.00 USD
 - [La Rachelle Bedroom Bench – Medium Champagne | AICO](https://homeeleganceusa.com/products/aico-furniture-la-rachelle-bench-in-medium-champagne-9034904-136): Add elegance to your bedroom with the La Rachelle Bench. Upholstered in shimmery fabric with Chardonnay legs, finished in Medium Champagne by AICO.
-  Updated: 2025-11-29T18:58:44Z
-  Price: $959.00 USD
+  Updated: 2025-12-02T19:42:13Z
+  Price: $1,159.00 USD
 - [La Rachelle Vanity Desk Chair In Medium Champagne - 9034244-136 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-la-rachelle-vanity-desk-chair-in-medium-champagne-9034244-136): Shop the La Rachelle Vanity Desk Chair In Medium Champagne - 9034244-136 by Aico Furniture. Dimensions: W 30.00" D 3.25" H 31.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:58:45Z
-  Price: $869.00 USD
+  Updated: 2025-12-02T19:42:13Z
+  Price: $1,069.00 USD
 - [La Rachelle Dining Table 80"–128" Champagne Finish – AICO](https://homeeleganceusa.com/products/aico-furniture-la-rachelle-rectangular-dining-table-in-medium-champagne-9034000-136): The La Rachelle Dining Table by AICO extends to 128" with 2 leaves, featuring white oak starburst veneers, Chardonnay accents, and a champagne finish.
   Updated: 2025-11-29T18:58:46Z
   Price: $3,359.00 USD
 - [La Rachelle Vanity Mirror In Medium Champagne - 9034068-136 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-la-rachelle-vanity-mirror-in-medium-champagne-9034068-136): Shop the La Rachelle Vanity Mirror In Medium Champagne - 9034068-136 by Aico Furniture. Dimensions: W 30.00" D 3.25" H 31.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:58:47Z
-  Price: $699.00 USD
+  Updated: 2025-12-02T19:42:14Z
+  Price: $899.00 USD
 - [La Rachelle Vanity Desk in Medium Champagne – AICO](https://homeeleganceusa.com/products/aico-furniture-la-rachelle-vanity-desk-in-medium-champagne-9034058-136): The La Rachelle Vanity Desk by AICO features a medium champagne finish, velvet-lined drawers, and acrylic pulls—luxury versatility as a vanity or writing desk.
   Updated: 2025-11-29T18:58:48Z
   Price: $2,279.00 USD
@@ -23719,8 +23719,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:36:40Z
   Price: $2,699.00 USD
 - [La Rachelle Nightstand in Medium Champagne Finish – AICO](https://homeeleganceusa.com/products/aico-furniture-la-rachelle-accent-cabinet-nightstand-in-medium-champagne-9034040-136): The La Rachelle 1-Drawer Nightstand by AICO features a champagne finish, velvet-lined drawer, white oak veneer, and acrylic pull. Ideal as a nightstand or end table.
-  Updated: 2025-11-29T18:58:51Z
-  Price: $1,179.00 USD
+  Updated: 2025-12-02T19:42:15Z
+  Price: $1,379.00 USD
 - [La Rachelle Eastern King Panel Bed in Champagne – AICO](https://homeeleganceusa.com/products/aico-furniture-la-rachelle-eastern-king-upholstered-panel-bed-in-medium-champagne-9034000ek-136): La Rachelle Eastern King Bed in shimmering champagne velvet with USB ports and Chardonnay trim—luxury meets comfort in modern glam design.
   Updated: 2025-11-25T14:36:42Z
   Price: $2,899.00 USD
@@ -23728,11 +23728,11 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-29T18:58:53Z
   Price: $1,849.00 USD
 - [Camden Court Vanity Mirror In Pearl - 9005068-126 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-camden-court-vanity-mirror-in-pearl-9005068-126): Shop the Camden Court Vanity Mirror In Pearl - 9005068-126 by Aico Furniture. Dimensions: W 42.00" D 1.25" H 36.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-12-02T19:32:44Z
-  Price: $939.00 USD
+  Updated: 2025-12-02T19:42:16Z
+  Price: $1,139.00 USD
 - [Camden Court Accent Cabinet-Nightstand In Pearl - 9005040-126 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-camden-court-accent-cabinet-nightstand-in-pearl-9005040-126): Shop the Camden Court Accent Cabinet-Nightstand In Pearl - 9005040-126 by Aico Furniture. Dimensions: W 29.00" D 19.00" H 28.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:58:54Z
-  Price: $1,029.00 USD
+  Updated: 2025-12-02T19:42:17Z
+  Price: $1,229.00 USD
 - [Camden Court Dresser Pearl Finish – AICO](https://homeeleganceusa.com/products/aico-furniture-camden-court-storage-console-dresser-in-pearl-9005050-126): Graceful and modern, the Camden Court Dresser in Pearl features velvet-lined drawers, marble top, and acrylic feet—perfect for chic, upscale bedroom storage.
   Updated: 2025-11-29T18:58:55Z
   Price: $2,399.00 USD
@@ -23743,23 +23743,23 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:36:49Z
   Price: $3,030.99 USD
 - [Camden Court Vanity/Side Chair In Pearl - 9005033-126 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-camden-court-vanity-side-chair-in-pearl-9005033-126): Shop the Camden Court Vanity/Side Chair In Pearl - 9005033-126 by Aico Furniture. Dimensions: W 25.50" D 27.00" H 42.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-30T05:56:12Z
-  Price: $599.00 USD
+  Updated: 2025-12-02T19:42:17Z
+  Price: $799.00 USD
 - [Camden Court Rectangular Dining Table In Pearl - 9005000-126 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-camden-court-rectangular-dining-table-in-pearl-9005000-126): Shop the Camden Court Rectangular Dining Table In Pearl - 9005000-126 by Aico Furniture. Dimensions: W 130.00" D 45.00" H 30.00" Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-25T14:36:50Z
   Price: $3,198.99 USD
 - [Camden Court Arm Chairs Set of 2 in Oyster with Crystal Inlay – AICO](https://homeeleganceusa.com/products/aico-furniture-camden-court-arm-chair-assembled-in-pearl-set-of-2-9005004a-126): The Camden Court Arm Chairs by AICO feature oyster silk-like fabric, platinum legs, and crystal inlay armrests. Sold as a set of 2 for glam dining.
-  Updated: 2025-11-29T18:58:58Z
-  Price: $958.00 USD
+  Updated: 2025-12-02T19:42:18Z
+  Price: $1,158.00 USD
 - [Camden Court Display Cabinet In Pearl - 9005209-126 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-camden-court-display-cabinet-in-pearl-9005209-126): Shop the Camden Court Display Cabinet In Pearl - 9005209-126 by Aico Furniture. Dimensions: W 32.00" D 20.00" H 79.00" Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-25T14:36:52Z
   Price: $2,702.99 USD
 - [Camden Court End Table In Pearl - 9005202-126 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-camden-court-end-table-in-pearl-9005202-126): Shop the Camden Court End Table In Pearl - 9005202-126 by Aico Furniture. Dimensions: W 27.00" D 22.00" H 26.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:58:59Z
-  Price: $959.00 USD
+  Updated: 2025-12-02T19:42:19Z
+  Price: $1,159.00 USD
 - [Lavelle Sideboard Mirror In Classic Pearl - 54067-113 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-lavelle-sideboard-mirror-in-classic-pearl-54067-113): Shop the Lavelle Sideboard Mirror In Classic Pearl - 54067-113 by Aico Furniture. Dimensions: W 51.50" D 1.50" H 43.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:36:54Z
-  Price: $1,078.99 USD
+  Updated: 2025-12-02T19:42:20Z
+  Price: $1,278.99 USD
 - [Lavelle Side Chair In Classic Pearl (Set Of 2) - 54003-113 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-lavelle-side-chair-in-classic-pearl-set-of-2-54003-113): Shop the Lavelle Side Chair In Classic Pearl (Set Of 2) - 54003-113 by Aico Furniture. Dimensions: W 24.25" D 27.00" H 43.50" Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-25T14:36:55Z
   Price: $1,359.99 USD
@@ -23809,20 +23809,20 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:37:13Z
   Price: $2,551.99 USD
 - [Vincennes 2 Light Wall Sconce - Lt-Wl006-2Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-vincennes-2-light-wall-sconce-lt-wl006-2clr): Shop the Vincennes 2 Light Wall Sconce - Lt-Wl006-2Clr by Aico Furniture. Dimensions: W 17.25" D 9.00" H 19.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:59:08Z
-  Price: $549.00 USD
+  Updated: 2025-12-02T19:42:20Z
+  Price: $749.00 USD
 - [Winter Palace 2 Light Wall Sconce - Lt-Wl003-2Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-winter-palace-2-light-wall-sconce-lt-wl003-2clr): Shop the Winter Palace 2 Light Wall Sconce - Lt-Wl003-2Clr by Aico Furniture. Dimensions: W 15.00" D 9.00" H 20.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:59:09Z
-  Price: $529.00 USD
+  Updated: 2025-12-02T19:42:21Z
+  Price: $729.00 USD
 - [Quill 2 Light Wall Sconce - Lt-Wl007-2Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-quill-2-light-wall-sconce-lt-wl007-2clr): Shop the Quill 2 Light Wall Sconce - Lt-Wl007-2Clr by Aico Furniture. Dimensions: W 9.00" D 5.50" H 11.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T08:37:33Z
-  Price: $878.99 USD
+  Updated: 2025-12-02T19:42:22Z
+  Price: $1,078.99 USD
 - [Vitoria 13 Light Chandelier - Lt-Ch943-13Smk by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-vitoria-13-light-chandelier-lt-ch943-13smk): Shop the Vitoria 13 Light Chandelier - Lt-Ch943-13Smk by Aico Furniture. Dimensions: W 25.25" D 25.25" H 26.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:59:10Z
-  Price: $1,029.00 USD
+  Updated: 2025-12-02T19:42:23Z
+  Price: $1,229.00 USD
 - [Garnier 2 Light Wall Sconce - Lt-Wl005-2Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-garnier-2-light-wall-sconce-lt-wl005-2clr): Shop the Garnier 2 Light Wall Sconce - Lt-Wl005-2Clr by Aico Furniture. Dimensions: W 13.00" D 13.00" H 23.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:59:11Z
-  Price: $529.00 USD
+  Updated: 2025-12-02T19:42:24Z
+  Price: $729.00 USD
 - [Winter Palace 18 Light Chandelier - Lt-Ch928-18Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-winter-palace-18-light-chandelier-lt-ch928-18gld): Shop the Winter Palace 18 Light Chandelier - Lt-Ch928-18Gld by Aico Furniture. Dimensions: W 39.75" D 39.75" H 40.75" Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-29T18:59:12Z
   Price: $4,799.00 USD
@@ -23833,8 +23833,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-29T18:59:14Z
   Price: $1,299.00 USD
 - [Vitoria 6 Light Chandelier - Lt-Ch941-6Smk by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-vitoria-6-light-chandelier-lt-ch941-6smk): Shop the Vitoria 6 Light Chandelier - Lt-Ch941-6Smk by Aico Furniture. Dimensions: W 25.25" D 25.25" H 26.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:37:22Z
-  Price: $1,109.99 USD
+  Updated: 2025-12-02T19:42:24Z
+  Price: $1,309.99 USD
 - [Stacked Bouquet 54 Light Chandelier 3 Piece Set - Lt-Ch1014-54Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-stacked-bouquet-54-light-chandelier-3-piece-set-lt-ch1014-54gld): Shop the Stacked Bouquet 54 Light Chandelier 3 Piece Set - Lt-Ch1014-54Gld by Aico Furniture. Dimensions: W 31.50" D 31.50" H 110.00" Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-25T14:37:23Z
   Price: $9,659.99 USD
@@ -23845,8 +23845,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-29T18:59:16Z
   Price: $1,539.00 USD
 - [Sheer Waves 8 Light Rect Led Chandelier Chrome - Lt-Ch1016Crm-8Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-sheer-waves-8-light-rect-led-chandelier-chrome-lt-ch1016crm-8clr): Shop the Sheer Waves 8 Light Rect Led Chandelier Chrome - Lt-Ch1016Crm-8Clr by Aico Furniture. Dimensions: W 39.50" D 10.00" H 59.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:59:17Z
-  Price: $769.00 USD
+  Updated: 2025-12-02T19:42:25Z
+  Price: $969.00 USD
 - [Symphony Round 24 Light Chandelier - Lt-Ch974-24Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-symphony-round-24-light-chandelier-lt-ch974-24clr): Shop the Symphony Round 24 Light Chandelier - Lt-Ch974-24Clr by Aico Furniture. Dimensions: W 31.50" D 31.50" H 35.50" Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-29T18:59:18Z
   Price: $2,879.00 USD
@@ -23875,8 +23875,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:37:35Z
   Price: $2,199.99 USD
 - [Portola Ii 8 Light Chandelier - Lt-Ch993-8Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-portola-ii-8-light-chandelier-lt-ch993-8clr): Shop the Portola Ii 8 Light Chandelier - Lt-Ch993-8Clr by Aico Furniture. Dimensions: W 25.75" D 25.75" H 17.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:59:25Z
-  Price: $1,109.00 USD
+  Updated: 2025-12-02T19:42:26Z
+  Price: $1,309.00 USD
 - [Octavious 6 Light Chandelier - Lt-Ch961-6Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-octavious-6-light-chandelier-lt-ch961-6clr): Shop the Octavious 6 Light Chandelier - Lt-Ch961-6Clr by Aico Furniture. Dimensions: W 22.00" D 22.00" H 14.00" Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-29T18:59:26Z
   Price: $1,249.00 USD
@@ -23923,8 +23923,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:37:52Z
   Price: $2,236.99 USD
 - [Gloucester 12 Light Chandelier - Lt-Ch956-12Blk by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-gloucester-12-light-chandelier-lt-ch956-12blk): Shop the Gloucester 12 Light Chandelier - Lt-Ch956-12Blk by Aico Furniture. Dimensions: W 47.50" D 17.00" H 19.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:59:40Z
-  Price: $1,109.00 USD
+  Updated: 2025-12-02T19:42:27Z
+  Price: $1,309.00 USD
 - [Facets 12 Light Chandelier - Lt-Ch966-12Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-facets-12-light-chandelier-lt-ch966-12clr): Shop the Facets 12 Light Chandelier - Lt-Ch966-12Clr by Aico Furniture. Dimensions: 27.5"W x 27.5"D x 11.75"H Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-29T18:59:41Z
   Price: $2,589.00 USD
@@ -23932,8 +23932,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-29T18:59:42Z
   Price: $1,389.00 USD
 - [Daisy Chandelier - Lt-Ch1007-Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-daisy-chandelier-lt-ch1007-gld): Shop the Daisy Chandelier - Lt-Ch1007-Gld by Aico Furniture. Dimensions: W 10.00" D 10.00" H 20.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:59:43Z
-  Price: $749.00 USD
+  Updated: 2025-12-02T19:42:27Z
+  Price: $949.00 USD
 - [Cubes Light Rectangular Chandelier - Lt-Ch1006-Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-cubes-light-rectangular-chandelier-lt-ch1006-gld): Shop the Cubes Light Rectangular Chandelier - Lt-Ch1006-Gld by Aico Furniture. Dimensions: W 9.25" D 40.50" H 9.25" Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-25T14:37:57Z
   Price: $4,598.99 USD
@@ -23956,8 +23956,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:38:03Z
   Price: $1,863.99 USD
 - [Solar Hoops Led Chandelier Small - Lt-Ch804 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-solar-hoops-led-chandelier-small-lt-ch804): Shop the Solar Hoops Led Chandelier Small - Lt-Ch804 by Aico Furniture. Dimensions: W 27.50" D 13.00" H 20.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:59:50Z
-  Price: $1,009.00 USD
+  Updated: 2025-12-02T19:42:28Z
+  Price: $1,209.00 USD
 - [Baguette 8 Light Chandelier - Lt-Ch968-8Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-baguette-8-light-chandelier-lt-ch968-8clr): Shop the Baguette 8 Light Chandelier - Lt-Ch968-8Clr by Aico Furniture. Dimensions: 23.75"W x 23.75"D x 10.5"H Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-29T18:59:51Z
   Price: $1,249.00 USD
@@ -23974,8 +23974,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:38:09Z
   Price: $1,431.99 USD
 - [Planetary Led Chandelier Small - Lt-Ch810S by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-planetary-led-chandelier-small-lt-ch810s): Shop the Planetary Led Chandelier Small - Lt-Ch810S by Aico Furniture. Dimensions: W 23.75" D 23.75" H 23.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:59:54Z
-  Price: $719.00 USD
+  Updated: 2025-12-02T19:42:29Z
+  Price: $919.00 USD
 - [Planetary Led Chandelier Large - Lt-Ch810L by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-planetary-led-chandelier-large-lt-ch810l): Shop the Planetary Led Chandelier Large - Lt-Ch810L by Aico Furniture. Dimensions: W 31.50" D 31.50" H 31.50" Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-25T14:38:10Z
   Price: $1,343.99 USD
@@ -23983,8 +23983,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:38:11Z
   Price: $1,599.99 USD
 - [Crossover Led Chandelier - Lt-Ch800 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-crossover-led-chandelier-lt-ch800): Shop the Crossover Led Chandelier - Lt-Ch800 by Aico Furniture. Dimensions: W 32.00" D 16.50" H 7.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:59:55Z
-  Price: $839.00 USD
+  Updated: 2025-12-02T19:42:29Z
+  Price: $1,039.00 USD
 - [Eclipse 18 Led Light Chandelier - Lt-Ch950-18Blk by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-eclipse-18-led-light-chandelier-lt-ch950-18blk): Shop the Eclipse 18 Led Light Chandelier - Lt-Ch950-18Blk by Aico Furniture. Dimensions: W 23.75" D 23.75" H 23.00" Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-25T14:38:14Z
   Price: $1,530.99 USD
@@ -23998,11 +23998,11 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-29T18:59:58Z
   Price: $1,249.00 USD
 - [Enterprise Led Chandelier - Lt-Ch805 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-enterprise-led-chandelier-lt-ch805): Shop the Enterprise Led Chandelier - Lt-Ch805 by Aico Furniture. Dimensions: W 35.00" D 20.50" H 9.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T18:59:59Z
-  Price: $1,009.00 USD
+  Updated: 2025-12-02T19:42:30Z
+  Price: $1,209.00 USD
 - [Crossover Led Chandelier Small - Lt-Ch802 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-crossover-led-chandelier-small-lt-ch802): Shop the Crossover Led Chandelier Small - Lt-Ch802 by Aico Furniture. Dimensions: W 41.00" D 23.75" H 7.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T19:00:00Z
-  Price: $1,009.00 USD
+  Updated: 2025-12-02T19:42:31Z
+  Price: $1,209.00 USD
 - [Base Camp Round Led Chandelier - Lt-Ch816 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-base-camp-round-led-chandelier-lt-ch816): Shop the Base Camp Round Led Chandelier - Lt-Ch816 by Aico Furniture. Dimensions: W 31.00" D 31.00" H 5.00" Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-29T19:00:01Z
   Price: $1,629.00 USD
@@ -24013,11 +24013,11 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:38:22Z
   Price: $1,599.99 USD
 - [Spiral 5 Light Wall Sconce - Lt-Wl008-5Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-spiral-5-light-wall-sconce-lt-wl008-5clr): Shop the Spiral 5 Light Wall Sconce - Lt-Wl008-5Clr by Aico Furniture. Dimensions: 27.75"W x 27.75"D x 25.75"H, Chain Included Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T19:00:04Z
-  Price: $579.00 USD
+  Updated: 2025-12-02T19:42:32Z
+  Price: $779.00 USD
 - [Asteroids Led Chandelier Round Rings - Lt-Ch806 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-asteroids-led-chandelier-round-rings-lt-ch806): Shop the Asteroids Led Chandelier Round Rings - Lt-Ch806 by Aico Furniture. Dimensions: W 24.00" D 24.00" H 13.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T19:00:05Z
-  Price: $909.00 USD
+  Updated: 2025-12-02T19:42:34Z
+  Price: $1,109.00 USD
 - [Hemispheres Gold 8 Light Chandelier - Lt-Ch702-8Gld by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-hemispheres-gold-8-light-chandelier-lt-ch702-8gld): Shop the Hemispheres Gold 8 Light Chandelier - Lt-Ch702-8Gld by Aico Furniture. Dimensions: 27.75"W x 27.75"D x 25.75"H, Chain Included Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-29T19:00:06Z
   Price: $1,559.00 USD
@@ -24031,8 +24031,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-29T19:00:09Z
   Price: $2,759.00 USD
 - [Autumn White 13 Light Chandelier - Lt-Ch971-13Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-autumn-white-13-light-chandelier-lt-ch971-13clr): Shop the Autumn White 13 Light Chandelier - Lt-Ch971-13Clr by Aico Furniture. Dimensions: 20"W x 20"D x 17.75"H, Chain Included Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T19:00:10Z
-  Price: $1,149.00 USD
+  Updated: 2025-12-02T19:42:34Z
+  Price: $1,349.00 USD
 - [Autumn White 21 Light Chandelier - Lt-Ch970-21Clr by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-autumn-white-21-light-chandelier-lt-ch970-21clr): Shop the Autumn White 21 Light Chandelier - Lt-Ch970-21Clr by Aico Furniture. Dimensions: 30.5"W x 30.5"D x 20.5"H, Chain Included Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-25T14:38:30Z
   Price: $2,127.99 USD
@@ -24124,20 +24124,20 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:38:58Z
   Price: $1,293.99 USD
 - [Crossings Wall Mirror In Reclaimed Barn - Ki-Crsg067-217 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-crossings-wall-mirror-in-reclaimed-barn-ki-crsg067-217): Shop the Crossings Wall Mirror In Reclaimed Barn - Ki-Crsg067-217 by Aico Furniture. Dimensions: W 50.50" D 1.75" H 42.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:38:59Z
-  Price: $728.99 USD
+  Updated: 2025-12-02T19:42:35Z
+  Price: $928.99 USD
 - [Crossings Console Table – Reclaimed Barn Finish | Aico](https://homeeleganceusa.com/products/aico-furniture-crossings-console-table-in-reclaimed-barn-ki-crsg223-217): Bring rustic charm to your entryway with the Crossings Console Table by Aico, featuring reclaimed barn wood, Acacia construction, and bold industrial flair.
-  Updated: 2025-11-25T14:39:00Z
-  Price: $842.99 USD
+  Updated: 2025-12-02T19:42:36Z
+  Price: $1,042.99 USD
 - [Crossings Side Table W- Drawer In Reclaimed Barn - Ki-Crsg040-217 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-crossings-side-table-w-drawer-in-reclaimed-barn-ki-crsg040-217): Shop the Crossings Side Table W- Drawer In Reclaimed Barn - Ki-Crsg040-217 by Aico Furniture. Dimensions: W 24.25" D 17.25" H 26.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:39:02Z
-  Price: $659.99 USD
+  Updated: 2025-12-02T19:42:37Z
+  Price: $859.99 USD
 - [Crossings Nightstand 3 Drawer In Reclaimed Barn - Ki-Crsg042-217 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-crossings-nightstand-3-drawer-in-reclaimed-barn-ki-crsg042-217): Shop the Crossings Nightstand 3 Drawer In Reclaimed Barn - Ki-Crsg042-217 by Aico Furniture. Dimensions: W 24.00" D 17.25" H 26.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:39:02Z
-  Price: $728.99 USD
+  Updated: 2025-12-02T19:42:37Z
+  Price: $928.99 USD
 - [Crossings Rolling File Cabinet In Reclaimed Barn - Ki-Crsg250-217 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-crossings-rolling-file-cabinet-in-reclaimed-barn-ki-crsg250-217): Shop the Crossings Rolling File Cabinet In Reclaimed Barn - Ki-Crsg250-217 by Aico Furniture. Dimensions: W 19.25" D 22.25" H 23.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:39:03Z
-  Price: $659.99 USD
+  Updated: 2025-12-02T19:42:38Z
+  Price: $859.99 USD
 - [Crossings Rustic Writing Desk Reclaimed Barn Finish – Aico](https://homeeleganceusa.com/products/aico-furniture-crossings-writing-desk-in-reclaimed-barn-ki-crsg277-217): Rustic writing desk with pipe-style legs, velvet-lined drawers, and reclaimed barn wood finish. Crossings by Aico delivers charm and function.
   Updated: 2025-11-25T14:39:04Z
   Price: $1,211.99 USD
@@ -24160,8 +24160,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:39:10Z
   Price: $1,319.99 USD
 - [Del Mar Sound Wall Mirror In Boardwalk - Ki-Delm260-215 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-del-mar-sound-wall-mirror-in-boardwalk-ki-delm260-215): Shop the Del Mar Sound Wall Mirror In Boardwalk - Ki-Delm260-215 by Aico Furniture. Dimensions: W 50.25" D 2.00" H 36.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:39:11Z
-  Price: $423.99 USD
+  Updated: 2025-12-02T19:42:39Z
+  Price: $623.99 USD
 - [Del Mar Sound Dresser with Wall Mirror in Boardwalk Finish – AICO](https://homeeleganceusa.com/products/aico-furniture-del-mar-sound-dresser-with-wall-mirror-in-boardwalk-ki-delm050-260-215): Bring coastal charm to your space with the Del Mar Sound Dresser and Mirror in Boardwalk. Features beveled edges, acacia wood, and relaxed traditional style.
   Updated: 2025-11-25T14:39:13Z
   Price: $2,040.99 USD
@@ -24169,26 +24169,26 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:39:13Z
   Price: $1,402.99 USD
 - [Del Mar Sound Square Cocktail Table in Boardwalk – Aico](https://homeeleganceusa.com/products/aico-furniture-del-mar-square-cocktail-table-in-boardwalk-ki-delm204-215): Enhance your living space with the Del Mar Sound square cocktail table by Aico, featuring a beveled glass top, crossbanded legs, and a weathered Boardwalk finish.
-  Updated: 2025-11-25T14:39:14Z
-  Price: $977.99 USD
+  Updated: 2025-12-02T19:42:39Z
+  Price: $1,177.99 USD
 - [Del Mar Sound 3-Piece Table Set in Boardwalk | AICO](https://homeeleganceusa.com/products/aico-furniture-del-mar-sound-3-piece-occasional-set-in-boardwalk-ki-delm204-202-215): Del Mar Sound 3-piece set in Boardwalk finish with square cocktail & end tables, beveled glass tops, undertier shelving—crafted by AICO Furniture.
   Updated: 2025-11-25T14:39:15Z
   Price: $1,680.99 USD
 - [Del Mar Sound 1-Drawer Nightstand in Boardwalk Finish with Shelf – AICO](https://homeeleganceusa.com/products/aico-furniture-del-mar-sound-nightstand-1-drawer-in-boardwalk-ki-delm040-215): The Del Mar Sound Nightstand by AICO features a carved wave pattern, Boardwalk finish, velvet-lined drawer, and bottom shelf for rustic coastal charm.
-  Updated: 2025-11-25T14:39:16Z
-  Price: $542.99 USD
+  Updated: 2025-12-02T19:42:40Z
+  Price: $742.99 USD
 - [Del Mar Square Console Table in Boardwalk – Aico](https://homeeleganceusa.com/products/aico-furniture-del-mar-square-console-table-in-boardwalk-ki-delm223-215): Add rustic charm with the Del Mar Square Console Table by Aico, featuring a beveled glass top, crossbanded legs, and Boardwalk finish—perfect for hallways and entryways.
-  Updated: 2025-11-25T14:39:18Z
-  Price: $842.99 USD
+  Updated: 2025-12-02T19:42:41Z
+  Price: $1,042.99 USD
 - [Del Mar Sound TV Console in Boardwalk Finish | AICO](https://homeeleganceusa.com/products/aico-furniture-del-mar-square-tv-console-in-boardwalk-ki-delm081-215): Balance storage and display with the Del Mar Sound TV Console by AICO. Features wave-carved wood, boardwalk finish, 3 cabinet doors, and media shelves.
   Updated: 2025-11-25T14:39:18Z
   Price: $1,299.00 USD
 - [Del Mar Sound End Table In Boardwalk - Ki-Delm202-215 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-del-mar-sound-end-table-in-boardwalk-ki-delm202-215): Shop the Del Mar Sound End Table In Boardwalk - Ki-Delm202-215 by Aico Furniture. Dimensions: W 24.25" D 24.25" H 22.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:39:19Z
-  Price: $542.99 USD
+  Updated: 2025-12-02T19:42:41Z
+  Price: $742.99 USD
 - [Del Mar Sound Rectangular Cocktail Table – Aico](https://homeeleganceusa.com/products/aico-furniture-del-mar-sound-rectangular-cocktail-table-in-boardwalk-ki-delm201-215): The Del Mar Sound cocktail table by Aico features a beveled glass top, crossbanded legs, and rustic Boardwalk finish—ideal for coastal and transitional spaces.
-  Updated: 2025-11-25T14:39:21Z
-  Price: $842.99 USD
+  Updated: 2025-12-02T19:42:42Z
+  Price: $1,042.99 USD
 - [Del Mar Sound 3-Piece Rectangular Table Set in Boardwalk | AICO](https://homeeleganceusa.com/products/aico-furniture-del-mar-sound-3-piece-occasional-set-in-boardwalk-ki-delm201-202-215): Del Mar Sound 3-piece set with rectangular cocktail table & end tables in Boardwalk finish, beveled glass tops, undertier shelving—by AICO Furniture.
   Updated: 2025-11-25T14:39:21Z
   Price: $1,567.99 USD
@@ -24208,11 +24208,11 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:39:26Z
   Price: $1,319.99 USD
 - [Menlo Station Side Chairs Set of 2 in Gray Faux Suede – AICO](https://homeeleganceusa.com/products/aico-furniture-menlo-station-side-chair-set-of-2-in-eucalyptus-ki-menp003a-123): The Menlo Station Side Chairs by AICO are upholstered in soft gray faux suede with cream zipper accents—sold as a set of 2 for stylish modern dining.
-  Updated: 2025-11-29T19:00:30Z
-  Price: $578.00 USD
+  Updated: 2025-12-02T19:42:43Z
+  Price: $778.00 USD
 - [Menlo Station TV Console in Eucalyptus Finish | AICO](https://homeeleganceusa.com/products/aico-furniture-menlo-station-tv-console-in-eucalyptus-ki-menp081-123): The Menlo Station TV Console by AICO features a pale eucalyptus wood finish, brushed silver accents, velvet-lined drawers, and campaign-style hardware.
-  Updated: 2025-11-29T19:00:31Z
-  Price: $989.00 USD
+  Updated: 2025-12-02T19:42:43Z
+  Price: $1,189.00 USD
 - [Menlo Station Sideboard In Eucalyptus - Ki-Menp007-123 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-menlo-station-sideboard-in-eucalyptus-ki-menp007-123): Michael Amini Menlo Station sideboard in eucalyptus finish, campaign hardware, velvet-lined drawers with silverware caddy. SKU KI‑MENP007‑123.
   Updated: 2025-11-29T19:00:32Z
   Price: $1,209.00 USD
@@ -24220,20 +24220,20 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:39:30Z
   Price: $1,888.99 USD
 - [Menlo Station Rectangular Cocktail Ottoman Gray Vinyl – Aico](https://homeeleganceusa.com/products/aico-furniture-menlo-station-rectangular-cocktail-ottoman-in-eucalyptus-ki-menp201-123): Discover the Menlo Station Cocktail Ottoman in distressed gray vinyl with brushed silver legs, eucalyptus frame, and bronze buckle accents—by Aico Furniture.
-  Updated: 2025-11-29T19:00:33Z
-  Price: $599.00 USD
+  Updated: 2025-12-02T19:42:44Z
+  Price: $799.00 USD
 - [Hudson Ferry Eastern King Panel Bed In Autumn Bronze - Ki-Hudf014Ekb-216 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-hudson-ferry-eastern-king-panel-bed-in-autumn-bronze-ki-hudf014ekb-216): Bring warmth and comfort to your space with the Hudson Ferry Eastern King Bed in Driftwood, featuring quilted upholstery and built-in USB charging ports.
   Updated: 2025-11-25T14:39:32Z
   Price: $1,319.99 USD
 - [Menlo Station End Table In Eucalyptus - Ki-Menp202-123 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-menlo-station-end-table-in-eucalyptus-ki-menp202-123): Shop the Menlo Station End Table In Eucalyptus - Ki-Menp202-123 by Aico Furniture. Dimensions: W 24.00" D 24.00" H 22.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T19:00:34Z
-  Price: $399.00 USD
+  Updated: 2025-12-02T19:42:45Z
+  Price: $599.00 USD
 - [Hudson Ferry Console Table Driftwood Finish with Glass Top – Aico](https://homeeleganceusa.com/products/aico-furniture-hudson-ferry-console-table-in-driftwood-ki-hudf223-216): Showcase your decor with the Hudson Ferry Console Table in Driftwood, featuring a beveled glass top, etched diamond pattern, and Acacia wood tiers.
-  Updated: 2025-11-25T14:39:34Z
-  Price: $758.99 USD
+  Updated: 2025-12-02T19:42:46Z
+  Price: $958.99 USD
 - [Hudson Ferry Chair Side Table In Driftwood - Ki-Hudf222-216 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-hudson-ferry-chair-side-table-in-driftwood-ki-hudf222-216): Shop the Hudson Ferry Chair Side Table In Driftwood - Ki-Hudf222-216 by Aico Furniture. Dimensions: W 26.00" D 13.00" H 23.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:39:35Z
-  Price: $327.99 USD
+  Updated: 2025-12-02T19:42:46Z
+  Price: $527.99 USD
 - [Hudson Ferry Sofa in Autumn Bronze – Michael Amini by AICO Furniture](https://homeeleganceusa.com/products/aico-furniture-hudson-ferry-sofa-in-driftwood-ki-hudf815-abr-216): Hudson Ferry Sofa by Michael Amini in Autumn Bronze with quilted fabric, Driftwood wood cutout sides, and faux fur accent pillows. Modern casual comfort.
   Updated: 2025-11-25T14:39:37Z
   Price: $1,389.99 USD
@@ -24241,32 +24241,32 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:39:37Z
   Price: $1,402.99 USD
 - [Hudson Ferry Arm Chair In Driftwood (Set Of 2) - Ki-Hudf004-216 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-hudson-ferry-arm-chair-in-driftwood-set-of-2-ki-hudf004-216): Shop the Hudson Ferry Arm Chair In Driftwood (Set Of 2) - Ki-Hudf004-216 by Aico Furniture. Dimensions: W 22.25" D 24.00" H 44.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:39:39Z
-  Price: $690.99 USD
+  Updated: 2025-12-02T19:42:47Z
+  Price: $890.99 USD
 - [Carrollton 1-Drawer Nightstand in Rustic Ranch with Open Shelf – AICO](https://homeeleganceusa.com/products/aico-furniture-carrollton-1-drawers-nightstand-in-rustic-ranch-ki-crln040-407n): The Carrollton Nightstand by AICO features a Rustic Ranch finish, open shelf, velvet-lined drawer, and aged metal hardware for modern rustic charm.
-  Updated: 2025-11-29T19:00:37Z
-  Price: $399.00 USD
+  Updated: 2025-12-02T19:42:48Z
+  Price: $599.00 USD
 - [Hudson Ferry End Table In Driftwood - Ki-Hudf202-216 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-hudson-ferry-end-table-in-driftwood-ki-hudf202-216): Shop the Hudson Ferry End Table In Driftwood - Ki-Hudf202-216 by Aico Furniture. Dimensions: W 24.00" D 24.00" H 22.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:39:40Z
-  Price: $642.99 USD
+  Updated: 2025-12-02T19:42:49Z
+  Price: $842.99 USD
 - [Carrollton Nightstand, 2 Drawers In Rustic Ranch - Ki-Crln042-407N by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-carrollton-nightstand-2-drawers-in-rustic-ranch-ki-crln042-407n): Shop the Carrollton Nightstand, 2 Drawers In Rustic Ranch - Ki-Crln042-407N by Aico Furniture. Dimensions: W 24.00" D 17.50" H 26.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:39:42Z
-  Price: $577.99 USD
+  Updated: 2025-12-02T19:42:49Z
+  Price: $777.99 USD
 - [Carrollton Dresser With Mirror In Rustic Ranch - Ki-Crln050-060-407N by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-carrollton-dresser-with-mirror-in-rustic-ranch-ki-crln050-060-407n): Shop the Carrollton Dresser With Mirror In Rustic Ranch - Ki-Crln050-060-407N by Aico Furniture. Dimensions: Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-25T14:39:42Z
   Price: $1,886.99 USD
 - [Carrollton 6 Drawer Chest in Rustic Ranch Finish with Cedar Drawer – Aico](https://homeeleganceusa.com/products/aico-furniture-carrollton-6-drawer-chest-in-rustic-ranch-ki-crln070-407n): Organize with rustic charm using the Carrollton 6 Drawer Chest in Rustic Ranch, featuring velvet-lined drawers, cedar bottom drawer, and aged metal accents.
-  Updated: 2025-11-29T19:00:39Z
-  Price: $989.00 USD
+  Updated: 2025-12-02T19:42:50Z
+  Price: $1,189.00 USD
 - [Carrollton 8-Drawer Dresser in Rustic Ranch Finish - Aico](https://homeeleganceusa.com/products/aico-furniture-carrollton-dresser-in-rustic-ranch-ki-crln050-407n): Bring home rustic charm with the Carrollton Dresser—featuring 8 velvet-lined drawers, cedar lining, and hidden storage in a warm Rustic Ranch finish.
-  Updated: 2025-11-29T19:00:40Z
-  Price: $1,099.00 USD
+  Updated: 2025-12-02T19:42:51Z
+  Price: $1,299.00 USD
 - [Carrollton Bench In Rustic Ranch - Ki-Crln904-407N by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-carrollton-bench-in-rustic-ranch-ki-crln904-407n): Shop the Carrollton Bench In Rustic Ranch - Ki-Crln904-407N by Aico Furniture. Dimensions: W 52.25" D 17.00" H 18.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T19:00:41Z
-  Price: $399.00 USD
+  Updated: 2025-12-02T19:42:51Z
+  Price: $599.00 USD
 - [Carrollton Console Table in Rustic Ranch Finish with Glass Top – Aico](https://homeeleganceusa.com/products/aico-furniture-carrollton-console-table-in-rustic-ranch-ki-crln223-407n): Bring home rustic charm with the Carrollton Console Table in Rustic Ranch, crafted from Spruce wood and topped with beveled glass—perfect for halls and entryways.
-  Updated: 2025-11-29T19:00:42Z
-  Price: $419.00 USD
+  Updated: 2025-12-02T19:42:52Z
+  Price: $619.00 USD
 - [Brooklyn Walk 3Pc King Bedroom Set in Burnt Umber – Aico](https://homeeleganceusa.com/products/aico-furniture-brooklyn-walk-3-piece-eastern-king-tufted-panel-bedroom-setin-burnt-umber-ki-brkw014ek-408-3set): 3Pc Eastern King Bedroom Set from Aico's Brooklyn Walk. Includes tufted bed and 2 nightstands with USB ports. Burnt Umber finish. Timeless and functional.
   Updated: 2025-11-25T14:39:47Z
   Price: $2,679.99 USD
@@ -24286,11 +24286,11 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:39:53Z
   Price: $1,710.99 USD
 - [Brooklyn Walk Sideboard Mirror In Burnt Umber - Ki-Brkw067-408 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-brooklyn-walk-sideboard-mirror-in-burnt-umber-ki-brkw067-408): Shop the Brooklyn Walk Sideboard Mirror In Burnt Umber - Ki-Brkw067-408 by Aico Furniture. Dimensions: W 49.50" D 1.75" H 40.75" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:39:53Z
-  Price: $577.99 USD
+  Updated: 2025-12-02T19:42:53Z
+  Price: $777.99 USD
 - [Brooklyn Walk Nightstand with 2 Drawers & Pullout Tray – AICO](https://homeeleganceusa.com/products/aico-furniture-brooklyn-walk-nightstand-in-burnt-umber-ki-brkw040-408): The Brooklyn Walk Nightstand by AICO features 2 velvet-lined drawers, a pullout tray, curved fronts, and Burnt Umber finish with metal accents.
-  Updated: 2025-11-25T14:39:54Z
-  Price: $659.99 USD
+  Updated: 2025-12-02T19:42:53Z
+  Price: $859.99 USD
 - [Brooklyn Walk Dresser With Mirror In Burnt Umber - Ki-Brkw050-060-408 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-brooklyn-walk-dresser-with-mirror-in-burnt-umber-ki-brkw050-060-408): Shop the Brooklyn Walk Dresser With Mirror In Burnt Umber - Ki-Brkw050-060-408 by Aico Furniture. Dimensions: Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-25T14:39:56Z
   Price: $2,110.99 USD
@@ -24298,14 +24298,14 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:39:56Z
   Price: $2,621.99 USD
 - [Brooklyn Walk End Table In Burnt Umber - Ki-Brkw202-408 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-brooklyn-walk-end-table-in-burnt-umber-ki-brkw202-408): Shop the Brooklyn Walk End Table In Burnt Umber - Ki-Brkw202-408 by Aico Furniture. Dimensions: W 24.00" D 24.75" H 22.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:39:57Z
-  Price: $577.99 USD
+  Updated: 2025-12-02T19:42:54Z
+  Price: $777.99 USD
 - [Brooklyn Walk Console Table in Burnt Umber with Nailhead Trim – Aico](https://homeeleganceusa.com/products/aico-furniture-brooklyn-walk-console-table-in-burnt-umber-ki-brkw223-408): Crafted from Acacia wood with a Burnt Umber finish, the Brooklyn Walk Console Table by Aico features nailhead trim, panel detailing, and decorative cutout legs.
-  Updated: 2025-11-25T14:39:59Z
-  Price: $842.99 USD
+  Updated: 2025-12-02T19:42:55Z
+  Price: $1,042.99 USD
 - [Brooklyn Walk Dining Bench In Burnt Umber - Ki-Brkw900-408 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-brooklyn-walk-dining-bench-in-burnt-umber-ki-brkw900-408): Shop the Brooklyn Walk Dining Bench In Burnt Umber - Ki-Brkw900-408 by Aico Furniture. Dimensions: W 50.00" D 16.50" H 19.50" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:39:59Z
-  Price: $542.99 USD
+  Updated: 2025-12-02T19:42:56Z
+  Price: $742.99 USD
 - [Brooklyn Walk Sideboard In Burnt Umber - Ki-Brkw007-408 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-brooklyn-walk-sideboard-in-burnt-umber-ki-brkw007-408): Shop the Brooklyn Walk Sideboard In Burnt Umber - Ki-Brkw007-408 by Aico Furniture. Dimensions: W 68.75" D 16.75" H 40.50" Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-25T14:40:01Z
   Price: $2,016.99 USD
@@ -24313,14 +24313,14 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:40:01Z
   Price: $2,461.99 USD
 - [Laguna Ridge Wall Mirror In Washed Oak - 9083260-129 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-laguna-ridge-wall-mirror-in-washed-oak-9083260-129): Shop the Laguna Ridge Wall Mirror In Washed Oak - 9083260-129 by Aico Furniture. Dimensions: W 48.00" D 2.25" H 42.25" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:40:02Z
-  Price: $746.99 USD
+  Updated: 2025-12-02T19:42:56Z
+  Price: $946.99 USD
 - [Laguna Ridge End Table In Washed Oak - 9083202-129 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-laguna-ridge-end-table-in-washed-oak-9083202-129): Shop the Laguna Ridge End Table In Washed Oak - 9083202-129 by Aico Furniture. Dimensions: W 26.00" D 20.00" H 22.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:40:04Z
-  Price: $1,109.99 USD
+  Updated: 2025-12-02T19:42:57Z
+  Price: $1,309.99 USD
 - [Laguna Round Chairside Table In Washed Oak - 9083222-129 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-laguna-round-chairside-table-in-washed-oak-9083222-129): Shop the Laguna Round Chairside Table In Washed Oak - 9083222-129 by Aico Furniture. Dimensions: W 18.00" D 18.00" H 24.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:40:04Z
-  Price: $794.99 USD
+  Updated: 2025-12-02T19:42:58Z
+  Price: $994.99 USD
 - [Laguna Console Table in Washed Oak with Acrylic Legs – Aico](https://homeeleganceusa.com/products/aico-furniture-laguna-console-table-in-washed-oak-9083223-129): The Laguna Console Table by Aico features a Washed Oak finish, acrylic legs, and platinum accents—ideal for stylish living rooms, halls, or entryways.
   Updated: 2025-11-25T14:40:05Z
   Price: $1,426.99 USD
@@ -24352,8 +24352,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:40:15Z
   Price: $2,551.99 USD
 - [Silverlake Village Sideboard Mirror In Washed Oak - Ki-Slvg067-129 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-silverlake-village-sideboard-mirror-in-washed-oak-ki-slvg067-129): Shop the Silverlake Village Sideboard Mirror In Washed Oak - Ki-Slvg067-129 by Aico Furniture. Dimensions: W 46.00" D 1.00" H 40.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:40:15Z
-  Price: $507.99 USD
+  Updated: 2025-12-02T19:42:58Z
+  Price: $707.99 USD
 - [Silverlake Village Footwear Cabinet In Washed Oak - Ki-Slvg099-129 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-silverlake-village-footwear-cabinet-in-washed-oak-ki-slvg099-129): Shop the Silverlake Village Footwear Cabinet In Washed Oak - Ki-Slvg099-129 by Aico Furniture. Dimensions: W 36.00 / 72.00" D 24.00" H71.75" Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-25T14:40:16Z
   Price: $3,240.99 USD
@@ -24397,14 +24397,14 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:40:29Z
   Price: $1,668.99 USD
 - [Discoveries Accent Table With White Planter - Acf-Act-Cltw-109 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-discoveries-accent-table-with-white-planter-acf-act-cltw-109): Shop the Discoveries Accent Table With White Planter - Acf-Act-Cltw-109 by Aico Furniture. Dimensions: 26"W X 11"D X 34"H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-26T08:42:12Z
-  Price: $591.99 USD
+  Updated: 2025-12-02T19:42:59Z
+  Price: $791.99 USD
 - [Lavelle Melange Dresser - 54050-34 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-lavelle-melange-dresser-54050-34): Shop the Lavelle Melange Dresser - 54050-34 by Aico Furniture. Dimensions: 68" W X 19" D X 38" H Designed for comfort, quality, and style—only at Home Elegance USA.
   Updated: 2025-11-25T14:40:31Z
   Price: $3,757.99 USD
 - [Discoveries 3 Piece Nesting Tables - Acf-Nst-Cret-83 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-discoveries-3-piece-nesting-tables-acf-nst-cret-83): Shop the Discoveries 3 Piece Nesting Tables - Acf-Nst-Cret-83 by Aico Furniture. Dimensions: 23.75" W X 15.75" D X 26" H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:40:33Z
-  Price: $1,146.99 USD
+  Updated: 2025-12-02T19:43:00Z
+  Price: $1,346.99 USD
 - [Discoveries Mirrored Console Table – Aico](https://homeeleganceusa.com/products/aico-furniture-discoveries-mirrored-console-table-acf-con-dvon-21): Reflect modern elegance with the Discoveries Mirrored Console Table by Aico. Features a sleek rectangular shape, mirrored finish, and a stylish contemporary design.
   Updated: 2025-11-25T14:40:33Z
   Price: $1,230.99 USD
@@ -24412,11 +24412,11 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:40:34Z
   Price: $1,400.99 USD
 - [Discoveries Horse Head W-Hand Applied Metal Accents - Acf-Arf-Hrshd-001 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-discoveries-horse-head-w-hand-applied-metal-accents-acf-arf-hrshd-001): Shop the Discoveries Horse Head W-Hand Applied Metal Accents - Acf-Arf-Hrshd-001 by Aico Furniture. Dimensions: 26.75W x 11.50D x 33.50H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T19:00:59Z
-  Price: $1,059.00 USD
+  Updated: 2025-12-02T19:43:00Z
+  Price: $1,259.00 USD
 - [Discoveries Dear Head W-Wood Antlers And Hand Applied Metal - Acf-Arf-Derhd-002 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-discoveries-dear-head-w-wood-antlers-and-hand-applied-metal-acf-arf-derhd-002): Shop the Discoveries Dear Head W-Wood Antlers And Hand Applied Metal - Acf-Arf-Derhd-002 by Aico Furniture. Dimensions: 19.75W x 19.75D x 32.25H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T19:01:01Z
-  Price: $459.00 USD
+  Updated: 2025-12-02T19:43:01Z
+  Price: $659.00 USD
 - [Winter Palace 8-Light Red & Gold Crystal Chandelier – Aico](https://homeeleganceusa.com/products/aico-furniture-winter-palace-8-light-chandelier-in-red-clear-and-gold-lt-ch926-8gld): Add regal charm with the Winter Palace 8-Light Chandelier by Aico—featuring clear glass, red and gold finish, traditional crystal styling, and elegant details.
   Updated: 2025-11-29T19:01:03Z
   Price: $2,139.00 USD
@@ -24433,8 +24433,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:40:41Z
   Price: $2,782.99 USD
 - [Pena 6-Light Clear Glass Chandelier in Chrome – Aico](https://homeeleganceusa.com/products/aico-furniture-pena-6-light-chandelier-lt-ch920-6clr): Brighten your room with the Pena 6-Light Chandelier by Aico—featuring clear glass, chrome finish, and a timeless traditional silhouette for any elegant space.
-  Updated: 2025-11-29T19:01:07Z
-  Price: $959.00 USD
+  Updated: 2025-12-02T19:43:02Z
+  Price: $1,159.00 USD
 - [Rundale 18-Light Clear Glass Chandelier in Chrome – Aico](https://homeeleganceusa.com/products/aico-furniture-rundale-18-light-chandelier-in-clear-and-chrome-lt-ch918-18clr): Elevate your home with the Rundale 18-Light Chandelier by Aico—featuring clear glass, chrome finish, and elegant traditional design for timeless sophistication.
   Updated: 2025-11-25T14:40:44Z
   Price: $1,863.99 USD
@@ -24472,8 +24472,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:40:54Z
   Price: $4,201.99 USD
 - [Illusions Folding Tray - Fs-Ilusn-546 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-illusions-folding-tray-fs-ilusn-546): Shop the Illusions Folding Tray - Fs-Ilusn-546 by Aico Furniture. Dimensions: W23.75" x D15.75" x H31.00" https://youtu.be/I-ab4Y51_u8 Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T19:01:17Z
-  Price: $459.00 USD
+  Updated: 2025-12-02T19:43:03Z
+  Price: $659.00 USD
 - [Illusions Round Chest Multi Finish FS-ILUSN-015-1 – Aico](https://homeeleganceusa.com/products/aico-furniture-illusions-round-chest-fs-ilusn-015-1): Illusions Round Chest FS-ILUSN-015-1 by Aico features hand-painted finishes, elegant curves, and classic artistry—timeless storage meets high-end design.
   Updated: 2025-11-29T19:01:17Z
   Price: $3,719.00 USD
@@ -24490,8 +24490,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:41:00Z
   Price: $2,236.99 USD
 - [Illusions Square End Table - Fs-Ilusn-013 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-illusions-square-end-table-fs-ilusn-013): Shop the Illusions Square End Table - Fs-Ilusn-013 by Aico Furniture. Dimensions: W19.75" x D19.75" x H22.00" Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T19:01:21Z
-  Price: $1,079.00 USD
+  Updated: 2025-12-02T19:43:04Z
+  Price: $1,279.00 USD
 - [Illusions Serving Cart Black/Gold – Aico Furniture FS-ILUSN-093](https://homeeleganceusa.com/products/aico-furniture-illusions-serving-cart-fs-ilusn-093): Add elegance with the Aico Illusions Serving Cart in Black/Gold. Features timeless design, traditional style, and designer details by Michael Amini.
   Updated: 2025-11-29T19:01:22Z
   Price: $1,849.00 USD
@@ -24502,8 +24502,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:41:05Z
   Price: $4,798.99 USD
 - [Tuscano Melange Sideboard Mirror - 34067-34 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-tuscano-melange-sideboard-mirror-34067-34): Shop the Tuscano Melange Sideboard Mirror - 34067-34 by Aico Furniture. Dimensions: 71"W x 19"D x 36"H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-25T14:41:05Z
-  Price: $1,092.99 USD
+  Updated: 2025-12-02T19:43:05Z
+  Price: $1,292.99 USD
 - [Windsor Court 7-Piece Rectangular Dining Set Vintage Fruitwood – AICO](https://homeeleganceusa.com/products/aico-furniture-windsor-court-7-piece-rectangular-dining-table-set-in-vintage-fruitwood-70002t-54-7set): Elegant Windsor Court 7-Piece Dining Set in Vintage Fruitwood. Extendable 84–124" table, 4 side & 2 arm chairs, inlaid marquetry, carved details, white-glove assembly included.
   Updated: 2025-11-25T14:41:06Z
   Price: $7,799.99 USD
@@ -24550,8 +24550,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:41:20Z
   Price: $25,760.99 USD
 - [Villa Valencia Sideboard Mirror - 72067-55 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-villa-valencia-sideboard-mirror-72067-55): Shop the Villa Valencia Sideboard Mirror - 72067-55 by Aico Furniture. Dimensions: 64.25"W x 1.75"D x 51.5"H Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T19:01:30Z
-  Price: $1,199.00 USD
+  Updated: 2025-12-02T19:43:06Z
+  Price: $1,399.00 USD
 - [Villa Valencia 4-Piece King Bedroom Set Chestnut – Aico](https://homeeleganceusa.com/products/aico-furniture-villa-valencia-4-piece-eastern-king-poster-bedroom-set-in-chestnut-72000ekp-55-4set): Villa Valencia 4-Piece King Bedroom Set by Aico features a chestnut finish, carved wood, marble pilasters & regal detail—Old World Spanish elegance redefined.
   Updated: 2025-11-25T14:41:22Z
   Price: $20,576.99 USD
@@ -24565,17 +24565,17 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T14:41:25Z
   Price: $21,678.99 USD
 - [Studio Camelia Oval Ottoman In Bright Gold - St-Cmlia79-Oro-806 by Aico Furniture | Home Elegance USA](https://homeeleganceusa.com/products/aico-furniture-studio-camelia-oval-ottoman-in-bright-gold-st-cmlia79-oro-806): Shop the Studio Camelia Oval Ottoman In Bright Gold - St-Cmlia79-Oro-806 by Aico Furniture. Dimensions: W34.50 x D18.00 x H53.00 Designed for comfort, quality, and style—only at Home Elegance USA.
-  Updated: 2025-11-29T19:01:33Z
-  Price: $799.00 USD
+  Updated: 2025-12-02T19:43:06Z
+  Price: $999.00 USD
 - [Trance Geo Rectangular Cocktail Table – Michael Amini by Aico](https://homeeleganceusa.com/products/aico-furniture-trance-geo-rectangular-cocktail-table-tr-geo201): Elevate your space with the Trance Geo Cocktail Table by Aico—featuring a sleek rectangular shape, durable design, off-white finish, and European modern flair.
-  Updated: 2025-11-29T19:01:34Z
-  Price: $909.00 USD
+  Updated: 2025-12-02T19:43:07Z
+  Price: $1,109.00 USD
 - [Trance Sector 3-Piece Table Set | Two-Tone Contemporary – AICO](https://homeeleganceusa.com/products/aico-furniture-trance-sector-3-piece-occasional-table-set-tr-sectr201t-202): Trance Sector 3-piece set with triangular coffee & end tables in two-tone finish, contemporary design, and durable build—by Michael Amini AICO Furniture.
   Updated: 2025-11-25T14:41:28Z
   Price: $1,985.99 USD
 - [Trance Sector Tall Triangular Cocktail Table – Michael Amini by Aico](https://homeeleganceusa.com/products/aico-furniture-trance-sector-triangular-cocktail-table-tall-tr-sectr201t): Add a bold modern accent with the Trance Sector Triangular Cocktail Table by Aico—featuring a tall profile, two-tone finish, and durable contemporary design.
-  Updated: 2025-11-25T14:41:29Z
-  Price: $1,045.99 USD
+  Updated: 2025-12-02T19:43:08Z
+  Price: $1,245.99 USD
 - [Sky Tower 7-Drawer Chest in White Cloud Finish – Aico](https://homeeleganceusa.com/products/aico-furniture-sky-tower-7-drawer-chest-9025670-108): Maximize storage with the Sky Tower 7-Drawer Chest by Michael Amini—crafted from Acacia wood with a White Cloud gloss finish and sleek contemporary style.
   Updated: 2025-11-29T19:01:35Z
   Price: $1,679.00 USD
@@ -29036,18 +29036,21 @@ Weight: 216.1 pounds
 - [Four Hands Duncan 6 Drawer Dresser - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-duncan-6-drawer-dresser): Organic in nature with mid-century undertones. Solid acacia forms a streamlined dresser, with six
   Updated: 2025-11-25T15:10:08Z
   Price: $2,146.99 USD
-[List Continued](https://homeeleganceusa.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2OTg4OTY4NTU4NjcxLCJsYXN0X3ZhbHVlIjoiNjk4ODk2ODU1ODY3MSJ9)
+- [Four Hands Duncan Tallboy - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-duncan-tallboy): Organic in nature with mid-century undertones. Solid acacia forms a streamlined dresser, with six
+  Updated: 2025-11-25T15:10:09Z
+  Price: $2,017.99 USD
+[List Continued](https://homeeleganceusa.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2OTg4OTY4NTkxNDM5LCJsYXN0X3ZhbHVlIjoiNjk4ODk2ODU5MTQzOSJ9)
 
 ## Collections
 
 - [Bedroom Furniture – Beds, Dressers & Nightstands | Home Elegance USA](https://homeeleganceusa.com/collections/bedroom-furniture): Discover stylish, affordable, modern, luxury, and rustic bedroom furniture sets at Home Elegance USA. Shop beds, dressers, nightstands & more.
-  Updated: 2025-12-02T12:19:04Z
+  Updated: 2025-12-02T19:42:52Z
   Total Products: 9217
 - [Shop Living Room Furniture Online – Sofas, Sectionals, Chairs & More](https://homeeleganceusa.com/collections/living-room-furniture): Discover luxury living room furniture at Home Elegance USA. Sofas, sectionals, accent chairs, and coffee tables crafted for style, comfort, and lasting quality.
-  Updated: 2025-12-02T17:01:24Z
+  Updated: 2025-12-02T20:00:44Z
   Total Products: 12710
 - [Dining Room Furniture | Tables, Chairs & Buffets – Home Elegance](https://homeeleganceusa.com/collections/dining-room): Shop dining room furniture including tables, chairs, buffets, and storage. Modern, classic, and luxury designs crafted for style, comfort, and everyday dining.
-  Updated: 2025-12-02T17:01:06Z
+  Updated: 2025-12-02T20:00:44Z
   Total Products: 5929
 - [Mattresses – Shop Memory Foam, Hybrid & Innerspring | Home Elegance USA](https://homeeleganceusa.com/collections/mattresses): Shop mattresses in memory foam, hybrid, and innerspring designs. Enjoy cooling comfort, durable support, and restful sleep for every bedroom.
   Updated: 2025-12-02T09:00:47Z
@@ -29071,10 +29074,10 @@ Weight: 216.1 pounds
   Updated: 2025-12-02T16:53:37Z
   Total Products: 374
 - [Accent Chairs – Modern, Contemporary & Classic Styles | Home Elegance USA](https://homeeleganceusa.com/collections/accent-chairs): Shop accent chairs in modern, traditional, and contemporary styles. Perfect for living rooms, bedrooms, and offices—stylish seating with comfort and durability.
-  Updated: 2025-12-01T15:52:16Z
+  Updated: 2025-12-02T19:43:51Z
   Total Products: 1639
 - [Sofa Tables – Modern & Classic Console Tables | Home Elegance USA](https://homeeleganceusa.com/collections/sofa-tables): Shop sofa tables in modern, contemporary, and traditional styles. Elegant console tables perfect for living rooms, entryways, and hallways with versatile storage and style.
-  Updated: 2025-12-01T15:53:08Z
+  Updated: 2025-12-02T19:43:41Z
   Total Products: 671
 - [Futons – Modern Convertible Sofas & Sofa Beds | Home Elegance](https://homeeleganceusa.com/collections/futons): Shop futons with modern design, sofa-to-bed conversion, and storage. Perfect for apartments, guest rooms, and multifunctional living spaces.
   Updated: 2025-12-01T15:41:12Z
@@ -29092,7 +29095,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-01T15:58:26Z
   Total Products: 3514
 - [Nightstands & Bedside Tables – Bedroom Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/nightstands): Shop nightstands and bedside tables in modern, traditional, and glam designs. Elegant storage solutions with drawers, shelves, and premium finishes. Free U.S. shipping.
-  Updated: 2025-12-02T19:29:41Z
+  Updated: 2025-12-02T19:43:27Z
   Total Products: 976
 - [Makeup Vanities – Dressing Tables with Storage | Home Elegance USA](https://homeeleganceusa.com/collections/makeup-vanities): Shop makeup vanities with mirrors, drawers, and lighting. Perfect for bedrooms and dressing rooms—blend beauty, storage, and style in your daily routine.
   Updated: 2025-12-01T15:53:36Z
@@ -29110,7 +29113,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-02T17:01:06Z
   Total Products: 1149
 - [Dining Chairs | Modern, Classic & Luxury Seating – Home Elegance](https://homeeleganceusa.com/collections/dining-chairs): Shop dining chairs in modern, classic, and luxury styles. Upholstered, wood, and metal seating for dining rooms. Elegant comfort, durable design, free shipping.
-  Updated: 2025-12-02T09:00:27Z
+  Updated: 2025-12-02T19:43:22Z
   Total Products: 2057
 - [Counter Height Dining Sets – Shop Modern & Rustic Styles | Home Elegance USA](https://homeeleganceusa.com/collections/counter-height-dining-sets): Shop counter height dining sets in wood, glass, and marble finishes. Perfect for kitchens, dining rooms, and casual entertaining. Modern, rustic, and traditional designs.
   Updated: 2025-12-02T09:00:28Z
@@ -29122,13 +29125,13 @@ Weight: 216.1 pounds
   Updated: 2025-12-01T15:55:11Z
   Total Products: 333
 - [Dining Servers & Buffets – Dining Room Storage | Home Elegance USA](https://homeeleganceusa.com/collections/dining-servers-and-buffets): Shop dining servers and buffets for elegant dining room storage. Perfect for hosting, entertaining, and organizing tableware in traditional or modern designs.
-  Updated: 2025-12-02T17:01:24Z
+  Updated: 2025-12-02T20:00:44Z
   Total Products: 705
 - [China Cabinets – Elegant Dining Room Storage | Home Elegance USA](https://homeeleganceusa.com/collections/china-cabinets): Shop china cabinets in glass-front, hutch, and buffet styles. Perfect for dining rooms or kitchens. Elegant storage, fast shipping at Home Elegance USA.
   Updated: 2025-11-29T19:38:11Z
   Total Products: 108
 - [Dining Benches – Wooden & Upholstered Seating | Home Elegance USA](https://homeeleganceusa.com/collections/dining-benches): Shop dining benches in wood, upholstered, and storage styles. Perfect for dining rooms, kitchens, or entryways, blending comfort, versatility, and timeless design.
-  Updated: 2025-12-01T15:59:27Z
+  Updated: 2025-12-02T19:42:57Z
   Total Products: 54
 - [Power Bases – Adjustable Bed Frames for Ultimate Comfort | Home Elegance USA](https://homeeleganceusa.com/collections/power-bases): Shop premium power bases at Home Elegance USA. Our adjustable bed frames offer customizable comfort and support, perfect for improving your sleep experience. Explore various sizes and features.
   Updated: 2025-12-01T15:34:58Z
@@ -29164,7 +29167,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-01T15:48:22Z
   Total Products: 187
 - [Bookcases – Wooden, Glass & Modern Bookshelves | Home Elegance USA](https://homeeleganceusa.com/collections/bookcases): Shop bookcases in wood, glass, and metal finishes. Available in tall, low, and modular designs—perfect for living rooms, offices, and home libraries.
-  Updated: 2025-12-02T16:52:17Z
+  Updated: 2025-12-02T20:00:07Z
   Total Products: 321
 - [Electric Fireplaces – Modern & Traditional Fireplaces | Home Elegance USA](https://homeeleganceusa.com/collections/electric-fireplaces): Shop electric fireplaces with realistic flame effects, modern heating, and stylish designs. Perfect for living rooms, bedrooms, and entertainment spaces.
   Updated: 2025-12-01T15:52:10Z
@@ -29176,19 +29179,19 @@ Weight: 216.1 pounds
   Updated: 2025-12-01T15:51:44Z
   Total Products: 12
 - [Coffee Tables – Modern & Classic Living Room Tables | Home Elegance USA](https://homeeleganceusa.com/collections/coffee-tables): Shop coffee tables in modern, traditional, and contemporary styles. Elegant living room tables crafted from wood, glass, and metal with style and functionality.
-  Updated: 2025-12-01T15:53:44Z
+  Updated: 2025-12-02T19:43:47Z
   Total Products: 1376
 - [End Tables – Modern & Classic Side Tables | Home Elegance USA](https://homeeleganceusa.com/collections/end-tables): Shop end tables in modern, traditional, and contemporary styles. Functional side tables for living rooms, bedrooms, and offices with stylish finishes and durable design.
-  Updated: 2025-12-01T15:53:43Z
+  Updated: 2025-12-02T19:43:48Z
   Total Products: 1401
 - [Accent Mirrors – Decorative Wall & Floor Mirrors](https://homeeleganceusa.com/collections/accent-mirrors): Shop accent mirrors in modern, rustic, and glam styles. Perfect for entryways, living rooms, and bedrooms. Wall-mounted or leaning floor designs available.
-  Updated: 2025-12-02T19:31:45Z
+  Updated: 2025-12-02T19:43:49Z
   Total Products: 778
 - [Accent Furniture | Decorative Cabinets, Tables & Benches – Home Elegance](https://homeeleganceusa.com/collections/accent-furniture): Shop accent furniture including cabinets, tables, benches, and decor. Modern, glam, rustic, and traditional pieces designed to add storage, style, and personality to any room.
-  Updated: 2025-12-02T17:01:24Z
+  Updated: 2025-12-02T20:00:44Z
   Total Products: 3275
 - [Dressers – Bedroom Storage Solutions | Home Elegance USA](https://homeeleganceusa.com/collections/dressers-1): Shop dressers in modern, rustic, glam, and traditional styles. Spacious storage, durable finishes, and elegant design for bedrooms. Free U.S. nationwide shipping.
-  Updated: 2025-12-02T09:00:24Z
+  Updated: 2025-12-02T19:42:52Z
   Total Products: 1423
 - [Bar Cabinets & Tables – Wine Storage & Entertaining Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/bar-tables-and-cabinets): Shop bar cabinets & tables with wine storage, shelves, & footrests. Perfect for home bars, game rooms & dining spaces. Fast shipping from Home Elegance USA.
   Updated: 2025-12-01T15:55:06Z
@@ -29203,7 +29206,7 @@ Weight: 216.1 pounds
   Updated: 2024-11-06T16:06:21Z
   Total Products: 0
 - [File Cabinets – Modern & Traditional Office Storage | Home Elegance USA](https://homeeleganceusa.com/collections/file-cabinets): Shop file cabinets in wood, metal, and modern finishes. Available in 2-drawer, 3-drawer, and lateral designs—perfect for home offices and professional workplaces.
-  Updated: 2025-12-01T15:51:41Z
+  Updated: 2025-12-02T19:42:39Z
   Total Products: 76
 - [Outdoor Seating Sets - Stylish & Comfortable Patio Furniture](https://homeeleganceusa.com/collections/outdoor-seating-sets): Shop outdoor seating sets at Home Elegance USA. Enjoy stylish, comfortable, and durable patio furniture perfect for any outdoor space. Free shipping.
   Updated: 2025-12-01T09:01:25Z
@@ -29233,10 +29236,10 @@ Weight: 216.1 pounds
   Updated: 2025-12-02T09:00:27Z
   Total Products: 111
 - [Office Furniture | Ergonomic Chairs, Desks & Storage](https://homeeleganceusa.com/collections/office-furniture): Shop office furniture at Home Elegance! Find ergonomic chairs, office desks, workstations, and storage solutions for home or corporate offices. Free shipping!
-  Updated: 2025-12-02T16:52:17Z
+  Updated: 2025-12-02T20:00:07Z
   Total Products: 1078
 - [Accent Cabinets & Credenzas – Modern & Classic Storage | Home Elegance](https://homeeleganceusa.com/collections/accent-cabinets-and-credenzas): Shop accent cabinets and credenzas in modern and traditional styles. Elegant storage solutions for living rooms, dining areas, and entryways—style meets functionality.
-  Updated: 2025-12-02T17:01:24Z
+  Updated: 2025-12-02T20:00:44Z
   Total Products: 827
 - [Ashley Furniture: Largest Furniture Manufacturer](https://homeeleganceusa.com/collections/ashley-furniture): Shop Ashley Furniture's huge selection of living room, bedroom, dining room, and more. Quality home furnishings at great prices. Free Shipping Nationwide.
   Updated: 2025-12-02T18:06:35Z
@@ -29266,7 +29269,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-29T12:23:50Z
   Total Products: 2317
 - [Artmax Furniture: Elevate Your Home with Artistic Elegance | Home Elegance USA](https://homeeleganceusa.com/collections/artmax-furniture): Express your style with Artmax Furniture. Discover captivating designs, high-quality craftsmanship, and artistic flair for a sophisticated home. | Home Elegance USA
-  Updated: 2025-12-02T17:01:24Z
+  Updated: 2025-12-02T20:00:44Z
   Total Products: 119
 - [ELK Home Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/elk-home): Shop stylish ELK Home products on sale at Home Elegance USA. Find the perfect pieces to complement your home decor.
   Updated: 2025-02-12T18:13:50Z
@@ -29296,7 +29299,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-21T23:25:32Z
   Total Products: 2371
 - [AICO Furniture by Michael Amini – Luxury Bedroom, Dining & Living](https://homeeleganceusa.com/collections/aico-furniture): Shop AICO Furniture by Michael Amini. Designer bedroom sets, dining, living & office furniture crafted with glamour, detail, and timeless luxury.
-  Updated: 2025-12-02T19:31:45Z
+  Updated: 2025-12-02T19:43:51Z
   Total Products: 846
 - [Caracole Furniture: Timeless Design & Exquisite Craftsmanship](https://homeeleganceusa.com/collections/caracole-furniture): Discover Caracole's exquisite collection of luxury furniture and home decor. Shop elegant and inspired designs for every space, from classic to contemporary.
   Updated: 2025-11-23T19:05:09Z
@@ -29341,13 +29344,13 @@ Weight: 216.1 pounds
   Updated: 2025-07-26T17:24:48Z
   Total Products: 375
 - [Chandeliers | Crystal, Modern & Rustic Lighting](https://homeeleganceusa.com/collections/chandeliers): Shop chandeliers at Home Elegance! Find modern, crystal, farmhouse & vintage chandeliers for dining rooms, bedrooms & foyers. Free shipping available!
-  Updated: 2025-12-02T09:00:27Z
+  Updated: 2025-12-02T19:43:04Z
   Total Products: 782
 - [ILVE Get it now - Home Elegance Furniture](https://homeeleganceusa.com/collections/ilve): - Home Elegance Furniture
   Updated: 2025-07-20T16:22:58Z
   Total Products: 0
 - [Accent Tables – Side, End, Entryway & Designer Styles | Home Elegance USA](https://homeeleganceusa.com/collections/accent-tables): Shop accent tables in modern, rustic, glam & minimalist designs. Round, square, end, side & hallway tables for every space. Fast shipping from Home Elegance USA
-  Updated: 2025-12-01T15:53:44Z
+  Updated: 2025-12-02T19:43:48Z
   Total Products: 3189
 - [Stools & Bar Stools Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/table-stools-bar-stools): Shop Stools & Bar Stools on sale at Home Elegance USA. Find stylish and comfortable seating for your kitchen island or bar.
   Updated: 2025-12-01T15:55:12Z
@@ -29377,7 +29380,7 @@ Weight: 216.1 pounds
   Updated: 2025-01-26T20:22:51Z
   Total Products: 464
 - [Lighting | Chandeliers, Floor & Table Lamps – Home Elegance](https://homeeleganceusa.com/collections/lighting): Shop lighting including chandeliers, floor lamps, table lamps, and wall fixtures. Modern, glam, and classic designs crafted to brighten and elevate any room.
-  Updated: 2025-12-02T16:50:32Z
+  Updated: 2025-12-02T19:43:04Z
   Total Products: 2202
 - [Fitness & Sports Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/fitness-sports): - Home Elegance USA
   Updated: 2024-11-06T16:06:26Z
@@ -29392,7 +29395,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T18:16:17Z
   Total Products: 166
 - [Ottomans – Stylish, Functional & Versatile Seating | Home Elegance USA](https://homeeleganceusa.com/collections/ottomans): Discover a wide selection of ottomans at Home Elegance USA. From storage ottomans to upholstered footrests, find the perfect piece to complement your living space. Shop now!
-  Updated: 2025-12-01T15:40:48Z
+  Updated: 2025-12-02T19:43:37Z
   Total Products: 267
 - [Trampolines – Safe & Durable Backyard Fun](https://homeeleganceusa.com/collections/trampolines): Discover trampolines built for safety and durability. Perfect for backyard fun, with sturdy frames and weather-resistant materials for all ages. Shop now!
   Updated: 2025-12-02T09:00:33Z
@@ -29425,13 +29428,13 @@ Weight: 216.1 pounds
   Updated: 2025-12-01T09:01:15Z
   Total Products: 1
 - [Home Decor | Wall Art, Lighting & Accent Furniture](https://homeeleganceusa.com/collections/decor): Shop home decor at Home Elegance! Find wall art, decorative mirrors, accent furniture, rugs & lighting to elevate your space. Free shipping available!
-  Updated: 2025-12-02T19:31:45Z
+  Updated: 2025-12-02T19:43:50Z
   Total Products: 2126
 - [Wall Arts | Buy Beautiful Wall Arts Online](https://homeeleganceusa.com/collections/wall-art): Browse a wide selection of beautiful wall arts online. Shop now and refresh your space!
   Updated: 2025-11-22T16:37:19Z
   Total Products: 159
 - [Clocks Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/clocks): Shop Clocks on sale at Home Elegance USA. Find the perfect clock to complement your home decor.
-  Updated: 2025-11-29T19:04:04Z
+  Updated: 2025-12-02T19:43:39Z
   Total Products: 27
 - [Offers Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/offers): Discover amazing deals and limited-time offers at Home Elegance USA. Save big on high-quality furniture, decor, and more.
   Updated: 2025-12-02T09:00:47Z
@@ -29464,7 +29467,7 @@ Weight: 216.1 pounds
   Updated: 2025-07-18T20:05:07Z
   Total Products: 0
 - [Sculptures & Statues | Modern & Classic Decorative Accents](https://homeeleganceusa.com/collections/sculptures): Shop sculptures & statues at Home Elegance. Find modern, abstract, figurative, & animal-inspired decorative sculptures for home & office spaces. Free shipping.
-  Updated: 2025-11-29T19:01:03Z
+  Updated: 2025-12-02T19:43:03Z
   Total Products: 547
 - [Durable and Affordable Storage Sheds | Shop Now](https://homeeleganceusa.com/collections/sheds-garages-carports): Find the perfect storage shed for your backyard. Durable and Affordable. Our sheds keep your belongings safe and organized. Shop Now!
   Updated: 2025-10-29T09:11:42Z
@@ -29509,7 +29512,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-29T12:23:50Z
   Total Products: 1305
 - [Coffee Table Sets – Modern & Classic Living Room Tables | Home Elegance](https://homeeleganceusa.com/collections/coffee-table-sets): Shop coffee table sets in modern, traditional, and contemporary styles. Complete living room sets with center tables and matching side tables.
-  Updated: 2025-12-01T15:53:11Z
+  Updated: 2025-12-02T19:43:47Z
   Total Products: 180
 - [Reclining Sofas for Living Rooms – Power & Manual | Home Elegance USA](https://homeeleganceusa.com/collections/reclining-sofas): Explore our premium reclining sofas collection featuring leather and fabric options, modern and classic designs, and ergonomic comfort. Perfect for living rooms, media rooms, and family spaces.
   Updated: 2025-12-01T15:59:36Z
@@ -29533,7 +29536,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-01T15:49:42Z
   Total Products: 5
 - [Living Room Chairs | Accent & Recliner Seating – Home Elegance](https://homeeleganceusa.com/collections/living-room-chairs): Shop living room chairs in modern, classic & luxury styles. Accent chairs, recliners, and lounge chairs crafted for comfort, durability, and timeless design.
-  Updated: 2025-12-02T16:53:37Z
+  Updated: 2025-12-02T19:43:51Z
   Total Products: 2335
 - [Platform Beds – Modern & Upholstered Low-Profile Frames | Home Elegance USA](https://homeeleganceusa.com/collections/platform-beds): Shop platform beds with sleek low profiles, storage options, and upholstered finishes. Perfect for modern bedrooms. Free shipping nationwide.
   Updated: 2025-12-02T09:00:26Z
@@ -29548,7 +29551,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-01T15:57:10Z
   Total Products: 33
 - [Chest of Drawers – Bedroom Storage Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/chest-of-drawers-1): Shop chests of drawers in modern, rustic, glam, and traditional styles. Elegant storage with durable finishes and spacious design. Free U.S. nationwide shipping.
-  Updated: 2025-12-01T15:58:22Z
+  Updated: 2025-12-02T19:42:51Z
   Total Products: 932
 - [Modern Bedroom Sets Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/modern-bedroom-sets): Create a stylish and modern bedroom oasis. Shop our Bedroom Sets on sale now at Home Elegance USA.
   Updated: 2025-11-25T16:46:03Z
@@ -29599,10 +29602,10 @@ Weight: 216.1 pounds
   Updated: 2025-11-22T16:04:10Z
   Total Products: 14
 - [Wall Clocks – Stylish & Functional Timepieces](https://homeeleganceusa.com/collections/wall-clocks): Discover wall clocks that blend style and function. From modern to vintage designs, find the perfect timepiece to enhance your home décor. Shop now!
-  Updated: 2025-11-29T19:04:04Z
+  Updated: 2025-12-02T19:43:39Z
   Total Products: 13
 - [Wall Lighting Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/wall-lighting): Shop Wall Lighting on sale at Home Elegance USA. Find stylish and functional wall lighting for every room in your home.
-  Updated: 2025-11-29T18:59:12Z
+  Updated: 2025-12-02T19:42:25Z
   Total Products: 154
 - [Outdoor Benches – Stylish & Durable Seating for Any Space](https://homeeleganceusa.com/collections/outdoor-benches): Enhance your patio, garden, or deck with outdoor benches designed for style and durability. Weather-resistant materials ensure long-lasting comfort. Shop now!
   Updated: 2025-11-25T13:35:26Z
@@ -29635,7 +29638,7 @@ Weight: 216.1 pounds
   Updated: 2025-10-24T15:29:46Z
   Total Products: 6
 - [Vanity Chairs & Stools – Elegant Bedroom & Dressing Room Seating](https://homeeleganceusa.com/collections/vanity-chairs-stools): Shop vanity chairs and stools in modern, glam, and traditional styles. Perfect for bedrooms, dressing rooms, and makeup stations—functional seating with style.
-  Updated: 2025-11-29T18:58:58Z
+  Updated: 2025-12-02T19:42:18Z
   Total Products: 78
 - [Office Accessories Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/office-accessories): Enhance your home office accessories with stylish and functional accessories. Shop the sale at Home Elegance USA today.
   Updated: 2025-09-27T15:49:04Z
@@ -29683,16 +29686,16 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T17:05:14Z
   Total Products: 422
 - [Quilts & Comforters Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/quilts-comforters): Shop Quilts & Comforters on sale at Home Elegance USA. Find cozy and stylish quilts and comforters for your bedroom.
-  Updated: 2025-11-29T19:31:00Z
+  Updated: 2025-12-02T19:43:35Z
   Total Products: 13
 - [Room Dividers Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/room-dividers): Shop Room Dividers on sale at Home Elegance USA. Find stylish and functional room dividers to define your space.
   Updated: 2025-07-01T00:19:32Z
   Total Products: 2
 - [Dining Armchairs – Upholstered & Wooden Dining Chairs | Home Elegance USA](https://homeeleganceusa.com/collections/dining-armchairs): Shop dining armchairs in upholstered, wood, and leather styles. Perfect for formal dining rooms, kitchen tables, and elegant entertaining with lasting comfort.
-  Updated: 2025-12-01T15:59:21Z
+  Updated: 2025-12-02T19:42:19Z
   Total Products: 224
 - [Dining Side Chairs – Modern & Upholstered Dining Seating | Home Elegance USA](https://homeeleganceusa.com/collections/dining-side-chairs): Shop dining side chairs in modern, rustic, and upholstered styles. Perfect for kitchens and dining rooms with comfort, durability, and timeless design.
-  Updated: 2025-12-02T09:00:27Z
+  Updated: 2025-12-02T19:43:22Z
   Total Products: 1223
 - [Youth Sleigh Beds Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/youth-sleigh-beds): Shop Youth Sleigh Beds on sale at Home Elegance USA. Find charming and durable sleigh beds perfect for your child's bedroom.
   Updated: 2025-11-25T12:31:25Z
@@ -29713,10 +29716,10 @@ Weight: 216.1 pounds
   Updated: 2025-12-02T09:00:22Z
   Total Products: 37
 - [Bedroom Storage | Dressers, Chests & Armoires – Home Elegance](https://homeeleganceusa.com/collections/bedroom-storage): Shop bedroom storage furniture including dressers, chests, armoires, and nightstands. Modern, classic, and luxury designs with durable finishes and smart organization.
-  Updated: 2025-12-02T19:29:41Z
+  Updated: 2025-12-02T19:43:28Z
   Total Products: 6206
 - [Bedroom Seating Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/bedroom-seating): Bedroom Seating on sale at Home Elegance USA. Shop now for stylish and comfortable seating.
-  Updated: 2025-12-01T15:56:25Z
+  Updated: 2025-12-02T19:43:28Z
   Total Products: 443
 - [Bar Furniture | Home Bars, Cabinets & Bar Stools – Home Elegance](https://homeeleganceusa.com/collections/bar-furniture): Shop bar furniture including home bars, cabinets, and stools. Modern, rustic, and luxury designs for kitchens, dining areas, and entertainment spaces.
   Updated: 2025-12-01T15:55:12Z
@@ -29737,7 +29740,7 @@ Weight: 216.1 pounds
   Updated: 2025-03-08T18:03:35Z
   Total Products: 0
 - [Decorative Accents | Vases, Sculptures & Home Accessories – Home Elegance](https://homeeleganceusa.com/collections/decorative-accents): Shop decorative accents including vases, sculptures, trays, and home accessories. Modern, glam, rustic, and luxury décor designed to complete any living space.
-  Updated: 2025-12-02T18:06:35Z
+  Updated: 2025-12-02T19:43:03Z
   Total Products: 796
 - [Outdoor Seating Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/outdoor-seating): Shop Outdoor Seating on sale now at Home Elegance USA. Find the perfect stylish and comfortable furniture for your patio or deck at discounted prices.
   Updated: 2025-12-02T09:00:34Z
@@ -29785,7 +29788,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-02T09:00:32Z
   Total Products: 52
 - [Wall Mirrors – Enhance Your Home Décor | Home Elegance USA](https://homeeleganceusa.com/collections/wall-mirrors): Browse our collection of stylish wall mirrors at Home Elegance USA. Perfect for brightening any space while adding elegance and function. Shop now for the best deals!
-  Updated: 2025-12-01T15:59:00Z
+  Updated: 2025-12-02T19:43:39Z
   Total Products: 442
 - [Wine Fridges Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/wine-fridges): Save on premium wine fridges at Home Elegance USA! Shop our sale now for the perfect way to store your collection.
   Updated: 2025-02-07T05:41:05Z
@@ -29803,7 +29806,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-01T15:48:01Z
   Total Products: 22
 - [Entertainment Centers & TV Stands – Stylish Media Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/entertainment-centers-and-tv-stands): Shop entertainment centers and TV stands in modern and classic styles. Functional media furniture with storage, cable management, and stylish finishes.
-  Updated: 2025-12-01T15:53:03Z
+  Updated: 2025-12-02T19:42:45Z
   Total Products: 523
 - [Game Room Furniture Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/game-room-furniture): Game Room Furniture on sale now at Home Elegance USA! Find the perfect pieces for your game room at amazing prices.
   Updated: 2025-12-01T15:51:44Z
@@ -29812,7 +29815,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-01T15:55:20Z
   Total Products: 85
 - [Entertainment Furniture | TV Stands, Consoles & Media Centers – Home Elegance](https://homeeleganceusa.com/collections/entertainment-furniture): Shop entertainment furniture including TV stands, media consoles, and home theater seating. Modern, classic, and luxury styles with storage, display, and durability.
-  Updated: 2025-12-01T15:53:03Z
+  Updated: 2025-12-02T19:42:45Z
   Total Products: 552
 - [Fireplace TV Stands – Media Consoles with Fireplaces | Home Elegance USA](https://homeeleganceusa.com/collections/fireplace-tv-stands): Shop fireplace TV stands with built-in electric fireplaces, media storage, and LED features. Perfect for living rooms and entertainment spaces with cozy ambiance.
   Updated: 2025-11-25T12:34:57Z
@@ -29821,7 +29824,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-21T22:47:39Z
   Total Products: 4
 - [Mirrors & Wall Art | Decorative Mirrors & Wall Decor – Home Elegance](https://homeeleganceusa.com/collections/mirrors-wall-art): Shop mirrors and wall art including decorative mirrors, wall panels, and statement art. Modern, glam, rustic, and luxury designs to enhance any room.
-  Updated: 2025-12-01T15:59:00Z
+  Updated: 2025-12-02T19:43:39Z
   Total Products: 694
 - [Outdoor Seating Furniture – Stylish & Weather-Resistant](https://homeeleganceusa.com/collections/outdoor-seating-furniture): Upgrade your patio with outdoor seating furniture. Shop sofas, sectionals, lounge chairs, and modular sets in weather-resistant designs for any space.
   Updated: 2025-12-02T09:00:34Z
@@ -29830,7 +29833,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T18:05:42Z
   Total Products: 8
 - [Michael Amini London Place Collection in Champagne‑Tone Glam - Aico](https://homeeleganceusa.com/collections/london-place-collection-by-aico-furniture): Luxury in champagne-tone finishes, sloping optics, stick‑to‑look accents, velvet upholstery, and built-in USB ports in the London Place Collection by Michael Amini.
-  Updated: 2025-11-29T19:04:22Z
+  Updated: 2025-12-02T19:42:10Z
   Total Products: 41
 - [Clearance Furniture | Designer Furniture at Unbeatable Price](https://homeeleganceusa.com/collections/clearance-furniture): Up to 70% off Clearance Furniture! 
 Upgrade your home without breaking the bank! Discover designer furniture at unbeatable prices in our Clearance Sale.
@@ -29855,58 +29858,58 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-05-24T19:49:39Z
   Total Products: 0
 - [Villa Cherie Caramel | Aico Furniture](https://homeeleganceusa.com/collections/villa-cherie-caramel-aico-furniture): Discover the enchanting Villa Cherie Caramel collection at Aico Furniture, available at Home Elegance USA. Experience luxurious comfort and timeless elegance.
-  Updated: 2025-11-29T19:05:01Z
+  Updated: 2025-12-02T19:43:21Z
   Total Products: 55
 - [Villa Cherie Hazelnut Collection | Aico Furniture](https://homeeleganceusa.com/collections/villa-cherie-hazelnut-collection-aico-furniture): Discover the luxurious Villa Cherie Hazelnut Collection by Aico Furniture. Experience elegant designs and exceptional craftsmanship.
-  Updated: 2025-11-29T19:44:54Z
+  Updated: 2025-12-02T19:42:00Z
   Total Products: 47
 - [Lisbon Collection Transitional Glam – Michael Amini - Aico](https://homeeleganceusa.com/collections/lisbon-collection-aico-furniture): Discover the Lisbon Collection by Michael Amini—curvaceous chenille seating, matte cream lacquer tables, gold metal accents & subtle shimmer in neutral tones.
-  Updated: 2025-11-29T19:04:47Z
+  Updated: 2025-12-02T19:43:47Z
   Total Products: 7
 - [Eclipse Contemporary Collection – LED & Floating Stainless Frames - Aico](https://homeeleganceusa.com/collections/eclipse-collection-aico-furniture): Explore the Eclipse Collection—curved silhouettes, floating stainless steel frames, LED lighting, ivory fabrics & moonlight finishes by Michael Amini - Aico
-  Updated: 2025-11-29T19:05:05Z
+  Updated: 2025-12-02T19:43:36Z
   Total Products: 10
 - [Ariana Collection | Aico Furniture](https://homeeleganceusa.com/collections/ariana-collection-aico-furniture): Experience the timeless beauty of the Ariana Collection. Aico Furniture brings you sophisticated pieces with exquisite craftsmanship and refined details.
-  Updated: 2025-11-29T19:04:36Z
+  Updated: 2025-12-02T19:43:45Z
   Total Products: 6
 - [Camden Court Collection | Aico Furniture](https://homeeleganceusa.com/collections/camden-court-collection-aico-furniture): Experience the sophistication of the Camden Court Collection. Aico Furniture brings you stylish and comfortable pieces with impeccable craftsmanship.
-  Updated: 2025-12-02T19:31:45Z
+  Updated: 2025-12-02T19:42:20Z
   Total Products: 12
 - [Michael Amini Malibu Crest Collection in Coastal Glam – Aico](https://homeeleganceusa.com/collections/malibu-crest-collection-aico-furniture): Explore the Malibu Crest Collection by Michael Amini—pearl marble tops, blush & chardonnay finishes, curved sofas, scalloped panel beds with USB ports and velvet-lined case goods.
-  Updated: 2025-11-29T19:04:15Z
+  Updated: 2025-12-02T19:43:30Z
   Total Products: 16
 - [Cortina Bedroom Collection – Honey Walnut Elegance by Michael Amini - Aico](https://homeeleganceusa.com/collections/cortina-collection-aico-furniture): Explore the Cortina Collection by Michael Amini—ornate sleigh beds, nightstands, dressers, and benches in honey walnut with marble inlays & blistering carved detail.
   Updated: 2025-11-29T19:03:03Z
   Total Products: 4
 - [Michael Amini Platine de Royale Champagne Collection – Aico](https://homeeleganceusa.com/collections/platine-de-royale-champagne-collection-aico-furniture): Discover the Platine de Royale Champagne Collection by Michael Amini—antique mirrored glass, carved wood, crystal accents, velvet-lined drawers and French‑Provincial sophistication.
-  Updated: 2025-11-29T19:04:56Z
+  Updated: 2025-12-02T19:43:50Z
   Total Products: 23
 - [Villa Valencia Collection | Aico Furniture](https://homeeleganceusa.com/collections/villa-valencia-collection-aico-furniture): Elevate your home with the Villa Valencia Collection from Aico Furniture. Indulge in luxurious comfort and timeless elegance with meticulously crafted furniture
-  Updated: 2025-11-29T19:38:11Z
+  Updated: 2025-12-02T19:43:27Z
   Total Products: 41
 - [Windsor Court Collection | Aico Furniture](https://homeeleganceusa.com/collections/windsor-court-collection-aico-furniture): Elevate your home with the Windsor Court Collection from Aico Furniture. Indulge in sophisticated comfort and timeless style with meticulously crafted pieces
   Updated: 2025-11-29T19:05:08Z
   Total Products: 19
 - [Brooklyn Walk Collection | Aico Furniture](https://homeeleganceusa.com/collections/brooklyn-walk-collection-aico-furniture): Elevate your home with the Brooklyn Walk Collection from Aico Furniture. Indulge in stylish comfort and urban chic with meticulously crafted pieces
-  Updated: 2025-10-08T21:43:54Z
+  Updated: 2025-12-02T19:42:57Z
   Total Products: 15
 - [Carrollton Rustic‑Ranch Collection – Michael Amini Bedroom & Dining - Aico](https://homeeleganceusa.com/collections/carrollton-collection-aico-furniture): Discover the Carrollton Collection by Michael Amini - Aico. Spruce wood in rustic ranch finish, soft heather fabrics, metal hardware, and warm reclaimed character.
-  Updated: 2025-11-29T19:00:43Z
+  Updated: 2025-12-02T19:42:53Z
   Total Products: 7
 - [Crossings Rustic‑Industrial Collection by Michael Amini – Dining & Bedroom](https://homeeleganceusa.com/collections/crossings-collection-aico-furniture): Discover the Crossings Collection by Michael Amini - Aico. Rustic reclaimed barn finishes with industrial gunmetal accents in dining, bedroom & office furniture.
-  Updated: 2025-10-08T21:43:12Z
+  Updated: 2025-12-02T19:42:39Z
   Total Products: 33
 - [Del Mar Sound Coastal‑Rustic Collection by Michael Amini - Aico](https://homeeleganceusa.com/collections/del-mar-sound-collection-aico-furniture): Explore the Del Mar Sound Collection by Michael Amini—acacia wood with Mindy veneer in boardwalk finish, carved wave details & antique pewter for coastal serenity.
-  Updated: 2025-11-13T17:58:48Z
+  Updated: 2025-12-02T19:42:43Z
   Total Products: 15
 - [Hudson Ferry Collection in Transitional Driftwood - Aico](https://homeeleganceusa.com/collections/hudson-ferry-collection-aico-furniture): Explore Hudson Ferry by Michael Amini—driftwood-finished acacia, diamond-quilted upholstery, metal accents, USB headboard ports, marshaled for relaxed coastal-luxe interiors.
-  Updated: 2025-10-08T21:43:39Z
+  Updated: 2025-12-02T19:42:50Z
   Total Products: 8
 - [Laguna Ridge Collection | Aico](https://homeeleganceusa.com/collections/laguna-ridge-collection-aico-furniture): Elevate your home with the Laguna Ridge Collection from Aico. Indulge in sophisticated comfort and coastal charm with meticulously crafted pieces.
-  Updated: 2025-10-08T21:47:33Z
+  Updated: 2025-12-02T19:43:42Z
   Total Products: 18
 - [Michael Amini Marin Collection in Greige Contemporary – Aico](https://homeeleganceusa.com/collections/marin-collection-aico-furniture): Explore the Marin Collection by Michael Amini - Aico. Greige maple veneer, cultured marble tops, stainless steel accents & clean-lined transitional bedroom, dining, and storage furniture.
-  Updated: 2025-11-29T19:04:01Z
+  Updated: 2025-12-02T19:43:38Z
   Total Products: 5
 - [Michael Amini Marquee Collection Modern-Lux in Cloud White - Aico](https://homeeleganceusa.com/collections/marquee-collection-aico-furniture): Discover the Marquee Collection by Michael Amini - Aico. Gleaming lacquer finishes, brushed stainless steel framing, diamond-tufted beds with USB ports, and matte glass storage.
   Updated: 2025-11-29T19:03:59Z
@@ -29915,31 +29918,31 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-11-29T19:05:12Z
   Total Products: 7
 - [Sky Tower Collection | Aico Furniture](https://homeeleganceusa.com/collections/sky-tower-collection-aico-furniture): Experience modern elegance with the Sky Tower Collection. Discover furniture that reflects your discerning taste and elevates your living experience.
-  Updated: 2025-12-02T19:29:41Z
+  Updated: 2025-12-02T19:43:18Z
   Total Products: 7
 - [Trance Collection | Aico furniture](https://homeeleganceusa.com/collections/trance-collection-aico-furniture): Experience modern design and effortless relaxation with the Trance Collection by Aico. Discover furniture that invites you to unwind.
-  Updated: 2025-11-29T19:03:10Z
+  Updated: 2025-12-02T19:43:29Z
   Total Products: 4
 - [Hollywood Loft Collection – Compact Mirrored Glam Furniture - Aico](https://homeeleganceusa.com/collections/hollywood-loft-collection-aico-furniture): Discover the Hollywood Loft Collection by Michael Amini—mirrored glam furniture in Frost, Pearl & Ganache finishes, scaled for smaller spaces.
-  Updated: 2025-11-29T19:04:19Z
+  Updated: 2025-12-02T19:43:22Z
   Total Products: 6
 - [Michael Amini Melrose Plaza Collection Glam Crystal-Accented - Aico](https://homeeleganceusa.com/collections/melrose-plaza-collection-aico-furniture): Shop the Melrose Plaza Collection—glossy dove vinyl upholstery, crystal insets, platinum legs, LED display lighting & glamorous modern dining & bedroom furniture.
   Updated: 2025-11-29T19:03:46Z
   Total Products: 12
 - [Carmela Collection in Zinc Silver & Almond Gold by Michael Amini - Aico](https://homeeleganceusa.com/collections/carmela-collection-aico-furniture): Shop the Carmela Collection by Michael Amini - Aico. Luxury sofas, tables, and décor in Zinc Silver & Almond Gold for glamorous, modern interiors.
-  Updated: 2025-11-29T19:04:32Z
+  Updated: 2025-12-02T19:43:43Z
   Total Products: 6
 - [La Rachelle Collection – Transitional Glam - Michael Amini - Aico](https://homeeleganceusa.com/collections/la-rachelle-collection-aico-furniture): Discover the La Rachelle Collection by Michael Amini—glowing champagne finishes, clipped corners, lounge seating, dining and bedroom furniture with pearly sheen.
-  Updated: 2025-11-29T19:03:43Z
+  Updated: 2025-12-02T19:42:16Z
   Total Products: 53
 - [Malibu Crest Crotch Mahogany Collection | Aico](https://homeeleganceusa.com/collections/malibu-crest-crotch-mahogany-collection-aico-furniture): Aico's Malibu Crest Crotch Mahogany Collection: Where timeless design meets exceptional craftsmanship. Discover luxurious furniture.
-  Updated: 2025-11-29T19:03:38Z
+  Updated: 2025-12-02T19:43:34Z
   Total Products: 6
 - [Michael Amini Paris Chic Collection in Espresso Finish - Aico](https://homeeleganceusa.com/collections/paris-chic-collection-aico-furniture): Transform your space with the Paris Chic Collection by Michael Amini - Aico. Platinum-trimmed espresso veneer, faux-suede upholstery & curved silhouettes.
-  Updated: 2025-11-29T19:04:24Z
+  Updated: 2025-12-02T19:43:30Z
   Total Products: 55
 - [Roxbury Park Collection | Aico Furniture](https://homeeleganceusa.com/collections/roxbury-park-collection-aico-furniture): Discover the elegant Roxbury Park Collection by Aico Furniture. Experience luxurious design and exceptional craftsmanship for your home.
-  Updated: 2025-11-29T19:04:21Z
+  Updated: 2025-12-02T19:42:05Z
   Total Products: 50
 - [Yvette Collection | Aico | Home Elegance USA](https://homeeleganceusa.com/collections/yvette-collection-aico-furniture): Discover Aico's Yvette Collection: Modern design meets feminine charm in luxurious sofas, chairs, and tables exuding elegance.
   Updated: 2025-11-29T19:05:03Z
@@ -30065,7 +30068,7 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-04-28T23:35:41Z
   Total Products: 0
 - [Nesting Tables – Modern & Contemporary Accent Tables | Home Elegance](https://homeeleganceusa.com/collections/nesting-tables): Shop nesting tables in modern and traditional styles. Space-saving accent tables designed for living rooms, bedrooms, and offices with versatile functionality.
-  Updated: 2025-12-01T15:53:11Z
+  Updated: 2025-12-02T19:43:01Z
   Total Products: 30
 - [Panel Beds – Traditional & Modern Framed Bed Styles | Home Elegance USA](https://homeeleganceusa.com/collections/panel-beds): Shop panel beds with framed headboards, wood and upholstered finishes, and timeless styles. Perfect for any bedroom. Free nationwide shipping.
   Updated: 2025-12-02T12:19:04Z
