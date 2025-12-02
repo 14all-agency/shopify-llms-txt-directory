@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-12-01T00:00:57.772Z
+- Updated At: 2025-12-02T00:00:58.551Z
 
 ## Products
 
@@ -336,6 +336,10 @@
   - [Kamine und Brennstoffe - Wärme und Gemütlichkeit für Ihr Zuhause](https://www.pelios.de/blogs/news/kamine-und-brennstoffe-warme-und-gemutlichkeit-fur-ihr-zuhause)
     Updated: 2025-11-08T21:22:27Z
     Author: Pelios Solutions GmbH
+  - [Kaminofen kaufen online: Der praktische Ratgeber für Auswahl, Preisvergleich und Installation](https://www.pelios.de/blogs/news/kaminofen-kaufen-online-der-praktische-ratgeber-fur-auswahl-preisvergleich-und-installation)
+    Updated: 2025-12-01T04:18:09Z
+    Author: ms@nova02.de
+    Tags: kaminofen kaufen online
 
 ## Store Pages
 
