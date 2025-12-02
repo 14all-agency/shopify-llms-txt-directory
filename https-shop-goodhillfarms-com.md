@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-08-03T17:48:05Z
 - Contact Email: support@goodhillfarms.com
-- Updated At: 2025-12-01T00:01:03.519Z
+- Updated At: 2025-12-02T00:00:30.381Z
 
 **Good Hill Farms** - Premium specialty fruit farmers in San Diego, CA who grow, source and deliver the best fruit varieties on earth direct to consumers nationwide. Family-owned farm in Fallbrook, California (10098 Gomez Creek Road, CA 92028) specializing in expert-curated specialty stone fruit, rare varieties and seasonal specialties, providing industry-best quality and service backed by the only 100% money back guarantee offered online.
 
