@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-03-05T09:19:25Z
 - Contact Email: hello@andcici.com
-- Updated At: 2025-11-30T00:00:26.708Z
+- Updated At: 2025-12-02T00:01:32.135Z
 
 ## Products
 
@@ -1013,7 +1013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0818/5223/6125/files/13_ae94d9ed-878b-416d-b866-891cccd1fe90.jpg?v=1723343613
     Price: £14.99 GBP
 - [Outside The Window Canvas Tote Bag with Zip](https://andcici.com/products/outside-the-window-canvas-tote-bag-with-zip): Outside The Window Aesthetic Canvas Art Tote Bag with Blue Strap, Zip Closure and Inner Zipped Pocket About the Art: "Outside the Window" is a serene and inviting painting that captures the beauty of a tranquil landscape as seen through an open window. The artwork features a picturesque view of a lush green landscape and a calm body of water framed by a grid of windowpanes. The soft light filtering through the window enhances the peaceful ambiance, inviting viewers to imagine stepping into the scene. The painting evokes a sense of calm and connection with nature, making it a perfect design for a canvas tote bag that brings a touch of tranquility to everyday life. About the bag: Dimensions: 36cm x 36cm x 10cmThick & durable, environmentally friendly synthetic cotton canvas material. Thick sturdy straps with a wide base to ensure it can carry all the daily essentials. Inner pocket for your small valuables, as well as zip closure for your bag so your things will be secure. Be it for school, shopping or a day out at the beach, our totes have got you covered.Material: organic/bio cotton - synthetically grown cotton to reduce our carbon footprint on the environment, canvasDesign: artwork printed on one side & both panels of the tote bag. *Disclaimer: dimensions & colours may vary slightly*Aftercare: DO NOT machine wash. To clean, take a damp towel and wipe the bag down. Ensure dry before storage. Shipping:Purchases will take about 2-3 weeks to arrive. Please refer to our shipping policy for a more accurate estimation.Policies:Exchange & refunds are allowed within 7 days of purchase with mailing cost at the expense of the customer. Cancellations are allowed within 24 hours of placing the order. Please refer to our refund/return policy for a more information If you have questions about our materials or our products, please do not hesitate to contact us at hello@andcici.com
-  Updated: 2025-03-22T17:39:07Z
+  Updated: 2025-11-30T11:26:37Z
   Vendor: Andcici
   Product Type: Canvas Tote Bag
   Availability: Available
@@ -1196,13 +1196,13 @@
   Updated: 2025-11-29T12:26:44Z
   Total Products: 62
 - [Art Revolution Collection](https://andcici.com/collections/art-revolution-collection): We would like to pay homage to the artists who revolutionised the art scene in today’s world and hope to bring awareness to our customers on the contributions these profound artists made.
-  Updated: 2025-11-28T12:27:24Z
+  Updated: 2025-12-01T12:26:36Z
   Total Products: 77
 - [Floral Collection](https://andcici.com/collections/floral-collection): Discover the beauty of nature with Andcici's Floral Tote Bag Collection, where art and elegance blossom together. Each bag in this collection features exquisite floral designs inspired by famous artworks, bringing the timeless charm of classic paintings into your daily life. Crafted with care and printed on high-quality materials, these totes are perfect for art lovers and nature enthusiasts alike. Carry a piece of art with you and let the vibrant, detailed floral patterns brighten your day.
   Updated: 2025-11-23T12:17:12Z
   Total Products: 15
 - [Claude Monet](https://andcici.com/collections/claude-monet): Oscar-Claude Monet was a French painter and founder of impressionist painting who is seen as a key precursor to modernism , especially in his attempts to paint nature as he perceived it. During his long career, he was the most consistent and prolific practitioner of impressionism's philosophy of expressing one's perceptions before nature. The term "Impressionism" is derived from the title of his painting Impression, Soleil levant, exhibited in 1874. Monet’s paintings are known for their focus on light and colour.
-  Updated: 2025-11-23T12:17:12Z
+  Updated: 2025-12-01T12:26:36Z
   Total Products: 17
 - [London Collection](https://andcici.com/collections/london-collection): Explore the city of London in our London Collection. Visit Daunt Books at Marylebone, take a trip to Tower Bridge & Buckingham Palace, all in one place.
   Updated: 2025-11-29T12:26:44Z
@@ -1217,13 +1217,13 @@
   Updated: 2025-05-18T09:50:50Z
   Total Products: 1
 - [AVADA - Best Sellers](https://andcici.com/collections/avada-best-sellers)
-  Updated: 2025-11-29T12:26:44Z
+  Updated: 2025-12-01T12:26:36Z
   Total Products: 149
 - [Shop All](https://andcici.com/collections/shop-all)
-  Updated: 2025-11-29T12:26:44Z
+  Updated: 2025-12-01T12:26:36Z
   Total Products: 149
 - [Best Sellers](https://andcici.com/collections/best-sellers)
-  Updated: 2025-11-29T12:26:44Z
+  Updated: 2025-12-01T12:26:36Z
   Total Products: 79
 - [Gustav Klimt](https://andcici.com/collections/gustav-klimt): Gustav Klimt (1862–1918) was an Austrian symbolist painter best known for his ornate, sensual works that often featured the female form. A founding member of the Vienna Secession movement, Klimt sought to break away from traditional academic art and embrace more modern, expressive styles. His most famous painting, The Kiss (1907–1908), exemplifies his signature use of gold leaf, intricate patterns, and emotional intensity. Klimt’s work blended symbolism, eroticism, and decorative art, making him a central figure in the development of early 20th-century modernism.
   Updated: 2025-08-14T09:45:02Z
