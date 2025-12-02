@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-12-01T00:01:02.484Z
+- Updated At: 2025-12-02T00:01:20.133Z
 
 ## Products
 
@@ -273,7 +273,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/B511.png?v=1673492219
   Price: RM 240.00 MYR
 - [DOCASA 420mm Self Rimming Wash Basin come with single pre-punched tap hole, overflow & cap](https://bath2u.com/products/docasa-420mm-self-rimming-wash-basin-come-with-single-pre-punched-tap-hole-overflow-cap): Material: Ceramic Size: 560 (W) x 420 (L) x 210 (H) mm Type: Under Counter Basin Colour: White Finish: Glossy Notes: Tap is not include
-  Updated: 2024-04-18T15:04:05Z
+  Updated: 2025-12-01T07:27:35Z
   Vendor: DOCASA
   Product Type: Under Counter Basin
   Availability: Available
