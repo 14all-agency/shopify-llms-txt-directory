@@ -5,12 +5,12 @@
 - Currency: USD
 - Timezone: America/Indiana/Indianapolis
 - Created At: 2025-11-08T22:46:01Z
-- Updated At: 2025-11-30T00:01:12.086Z
+- Updated At: 2025-12-02T00:01:05.282Z
 
 ## Products
 
 - [BiBi Bow Detail Sleeves Fleece Sweatshirt](https://the-stop-9142.myshopify.com/products/bibi-bow-detail-sleeves-fleece-sweatshirt): This sleeveless sweater top showcases a stylish Mardi Gras checker pattern, perfect for adding a festive touch to your wardrobe. The checker pattern captures the lively and colorful spirit of Mardi Gras celebrations. With its sleeveless design, this top is versatile for layering or wearing on its own. The unique checker pattern adds a modern and chic twist to a classic sweater style. Embrace the Mardi Gras festivities in style with this trendy and eye-catching sleeveless sweater top. Features:Bow Stretch:Slightly stretchy Material composition:SELF 76%POLYESTER 24%COTTON CONT1 100%POLYESTER CONT2 72%POLYESTER 24%COTTON 4%SPANDEX Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Waist S 33-35 25-27 M 35-38 27-30 L 38-40 30-32 XL 40-42 32-34
-  Updated: 2025-11-29T01:13:04Z
+  Updated: 2025-12-01T16:23:20Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -32,7 +32,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/f09a91c4-c8cf-450f-8870-bdfc788768eb-Max-Origin.webp?v=1763427410
     Price: $63.26 USD
 - [Zenana Acid Washed Batwing Sleeve Fleece Sweatshirt](https://the-stop-9142.myshopify.com/products/zenana-acid-washed-batwing-sleeve-fleece-sweatshirt): The Acid Washed Batwing Sleeve Fleece Sweatshirt is a cozy and trendy essential for the colder seasons. The acid-washed design gives it a unique and edgy look that stands out. With batwing sleeves, this sweatshirt offers a relaxed and comfortable fit. Made of fleece fabric, it provides warmth and softness for all-day comfort. Perfect for adding a stylish and casual vibe to your winter wardrobe. Features:Oversized,Ribbed Stretch:Slightly stretchy Material composition:60%COTTON, 40%POLYESTER Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Waist S/M 34-38 26-31 L/XL 39-42 32-35
-  Updated: 2025-11-28T19:01:52Z
+  Updated: 2025-11-30T18:45:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -90,7 +90,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/3c7d62b41e7a46909cd15144f9e35e8c-Max-Origin.webp?v=1763427458
     Price: $61.98 USD
 - [BiBi Christmas Wreath Merry Letter Knit Top](https://the-stop-9142.myshopify.com/products/bibi-christmas-wreath-merry-letter-knit-top): The Christmas Wreath Merry Letter Knit Top is a festive and joyful addition to your holiday wardrobe. Featuring a charming Christmas wreath design and cheerful "Merry" lettering, this knit top captures the spirit of the season. Made from cozy and comfortable knit fabric, it is perfect for staying warm during winter festivities. Whether you're celebrating with loved ones or spreading holiday cheer, this top is a merry and stylish choice. Embrace the magic of Christmas with this delightful knit top that will keep you feeling festive all season long. Features:Basic Style Stretch:Slightly stretchy Material composition:100%POLYESTER Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Top Length S 34 26.5 M 37 27 L 40 27.5 XL 41 28
-  Updated: 2025-11-28T19:01:55Z
+  Updated: 2025-12-01T20:18:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -168,7 +168,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/aa41162928e7485b9585f2fecd29d05c-Max-Origin.webp?v=1763427646
     Price: $65.99 USD
 - [SO ME Soft Touch Hairy Loose Fit Cozy Sweater Cardigan](https://the-stop-9142.myshopify.com/products/so-me-soft-touch-hairy-loose-fit-cozy-sweater-cardigan): This cozy sweater cardigan is designed with a soft touch and hairy texture for ultimate comfort. The loose fit silhouette allows for easy layering and a relaxed feel. With its cozy design, this cardigan is perfect for chilly days and cozy nights. Stay warm and stylish in this versatile piece that pairs well with any outfit. Elevate your loungewear collection with this soft touch hairy sweater cardigan for a cozy and chic look. Features:Buttoned Stretch:Slightly stretchy Material composition:70%POLYESTER 30%NYLON Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Sleeve Length Top Length S 35-36 21.5 22 M 37-38 22 23 L 39-40 22.5 23.5 XL 41-43 23 24
-  Updated: 2025-11-29T13:51:36Z
+  Updated: 2025-11-30T19:05:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -226,7 +226,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/e156c79c-6397-461c-8e00-4514de30fa9a-Max-Origin.webp?v=1763427899
     Price: $32.99 USD
 - [SO ME Merry Christmas Tinsel Lettering Sweater](https://the-stop-9142.myshopify.com/products/so-me-merry-christmas-tinsel-lettering-sweater): This Christmas sweater top features festive "Merry Christmas" tinsel lettering for a joyful and whimsical holiday look. The shimmering tinsel adds a touch of sparkle and fun to the sweater. Perfect for spreading holiday cheer, this top is ideal for Christmas gatherings or celebrations. Embrace the spirit of the season with this merry and stylish sweater top. Elevate your festive wardrobe with this standout piece that captures the magic of Christmas. Features:Basic Style Stretch:Slightly stretchy Material composition:62%ACRYLIC 38%POLYESTER Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Top Length S 34 26.5 M 37 27 L 40 27.5 XL 41 28
-  Updated: 2025-11-29T21:12:11Z
+  Updated: 2025-12-01T08:57:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -312,7 +312,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/2ce85d3cf1df421a8e09fcc19dc2c26b-Max-Origin.webp?v=1763428091
     Price: $64.99 USD
 - [Judy Blue Full Size High Rise Button Fly Skinny Jeans Plus Size](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-high-rise-button-fly-skinny-jeans-plus-size): The High Rise Button Fly Skinny Jeans are a stylish and flattering choice for any fashion-forward individual. With a high-rise waist, they provide a comfortable and flattering fit while elongating the legs. The button fly closure adds a retro and trendy touch to the classic skinny jean silhouette. Perfect for creating a sleek and polished look, these jeans are versatile and easy to style for any occasion. Show off your curves and stay on-trend with these chic and versatile skinny jeans. Features:Buttoned,Pocketed Stretch:Slightly stretchy Material composition:93% COTTON, 6% POLYESTER,1% SPANDEX Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0/24 24 31 10.5 28.5 1/25 25 32 10.5 28.5 3/26 26 33 10.5 28.5 5/27 27 34 11 28.5 7/28 28 35 11 28.5 9/29 29 36 11 28.5 11/30 30 37 11.5 28.5 13/31 31 38 11.5 28.5 15/32 32 39 11.5 28.5 14W 33 40 12 29 16W 34 41 12 29 18W 35 42 12 29 20W 36 43 12.5 29 22W 37 44 12.5 29 24W 38 45 12.5 29
-  Updated: 2025-11-28T19:02:14Z
+  Updated: 2025-11-30T03:38:18Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -436,7 +436,7 @@
   Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/8b76eacb-b0dd-4c6a-8e17-0838888fd407-Max-Origin.webp?v=1763428333
   Price: $39.99 USD
 - [Nicole Lee USA Bosque De Amor Denim Boston Bag](https://the-stop-9142.myshopify.com/products/nicole-lee-usa-bosque-de-amor-denim-boston-bag): Let your look tell a story with the "Bosque de Amor" Denim Boston Bag a mystical touch for bold, boho-chic souls. Cotton denim exterior with faux vegan leather accents Main zip top closure Front Vertical zipper pocket Back zipper pocket Dual top handles (6" drop) with Nicole Lee authentic circle charm Front is embellished with sequins, thread stitch detailing, studded with metal stones and patches of "Bosque de Amor" print satin Side D-rings for optional crossbody strap attachment Gold-tone hardware Logo engraved nameplate with diamond rhinestones Logo engraved zipper pulls Geometric print lining in polyester Back interior zip pocket with logo nameplate and key ring strap 2 front interior slip pockets for smartphone and wallet storage Includes adjustable, detachable shoulder strap Bag size:Medium Material:Cotton denim Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length Actual Width Actual Height OS 15 4.5 9
-  Updated: 2025-11-28T19:02:22Z
+  Updated: 2025-12-01T18:36:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -535,7 +535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/dbc3c20248984add92985f0bc4af35e9-Max-Origin.webp?v=1763428470
     Price: $64.99 USD
 - [Judy Blue Full Size Washed Thermal Skinny Jeans Plus Size](https://the-stop-9142.myshopify.com/products/judy-blue-full-size-washed-thermal-skinny-jeans-plus-size): These Washed Thermal Skinny Jeans combine style with functionality for a trendy look. Made from a stretchy thermal fabric, they provide both comfort and warmth in colder weather. The washed finish adds a cool, worn-in effect for a casual vibe. The skinny fit offers a flattering silhouette that can be easily dressed up or down. Stay cozy and fashionable while rocking these versatile and chic jeans. Features:Buttoned,Pocketed Stretch:Slightly stretchy Material composition:93.7%Cotton 5%Polyester 1.3%Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0/24 24 31 10 28.5 1/25 25 32 10 28.5 3/26 26 33 10 28.5 5/27 27 34 10 28.5 7/28 28 35 10 28.5 9/29 29 36 10 28.5 11/30 30 37 10 28.5 13/31 31 38 10 28.5 15/32 32 39 10 28.5 14W 33 40 11.8 28.5 16W 34 41 11.8 28.5 18W 35 42 11.8 28.5 20W 36 43 11.8 28.5 22W 37 44 11.8 28.5 24W 38 45 11.8 28.5
-  Updated: 2025-11-29T01:01:50Z
+  Updated: 2025-12-01T23:43:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -619,7 +619,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/feefc3cc-f897-49b0-a4ae-282bdc2d8b63-Max-Origin.webp?v=1763511481
     Price: $57.99 USD
 - [Zenana Acid Wash Fleece Sweatpants with Pockets](https://the-stop-9142.myshopify.com/products/zenana-acid-wash-fleece-sweatpants-with-pockets): These jogger pants offer a relaxed and comfortable fit, perfect for casual wear. The elastic waistband with an adjustable drawstring ensures a secure and customizable fit. Made from a soft and breathable fabric, these pants feature a vintage wash for a unique and stylish look. The ankle cuffs and side pockets add functionality, making them ideal for everyday activities. The versatile design allows for easy pairing with various tops and shoes. Features:Drawstring,Pocketed Material composition:60%COTTON, 40%POLYESTER Care instructions:Machine wash cold. Tumble dry low. Imported
-  Updated: 2025-11-24T19:23:02Z
+  Updated: 2025-12-01T19:14:31Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -637,7 +637,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/3d386481-6207-41b4-9da4-b7100b442dba-Max-Origin.webp?v=1763511535
     Price: $34.99 USD
 - [Western Aztec Half Zip Plush Sweatshirt](https://the-stop-9142.myshopify.com/products/western-aztec-half-zip-plush-sweatshirt): Features:Buttoned,Pocketed Stretch:Slightly stretchy Material composition:95%polyester,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.8 42.9 23.8 M 25.6 45.3 24.2 L 26.4 47.6 24.6 XL 27.2 50.8 25
-  Updated: 2025-11-29T23:20:52Z
+  Updated: 2025-12-01T23:50:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -801,7 +801,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1763511678
     Price: $39.06 USD
 - [Leopard Mock Neck Long Sleeve Mesh Top](https://the-stop-9142.myshopify.com/products/leopard-mock-neck-long-sleeve-mesh-top): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Waist S 24.4 31.5 24 28.3 M 25.2 33.9 24.4 30.7 L 26 36.2 24.8 33.1 XL 26.8 39.4 25.2 36.2
-  Updated: 2025-11-29T21:20:57Z
+  Updated: 2025-12-01T23:31:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -823,7 +823,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/4725/2480/files/03680892b04f4181bcb46b24a0860326-Max-Origin.webp?v=1763511719
     Price: $15.99 USD
 - [Textured Notched Raglan Sleeve Sweatshirt](https://the-stop-9142.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 24.8 39.4 M 25.2 40.9 L 25.6 43.3 XL 26 45.7 2XL 26.4 48
-  Updated: 2025-11-29T16:04:37Z
+  Updated: 2025-12-01T01:37:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
