@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-01T20:00:32.538Z
+- Updated At: 2025-12-02T00:02:50.486Z
 
 ## Products
 
@@ -6965,7 +6965,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Blackberry Sage - Shea Butter Body Lotion (10 oz)](https://affinatiliving.com/products/blackberry-sage-shea-butter-body-lotion-10-oz): Affinati Blackberry Sage Lotion hydrates with shea butter and vitamins while blending juicy blackberry and herbal sage for a calming, long-lasting fragrance.
-  Updated: 2025-11-24T15:30:43Z
+  Updated: 2025-12-01T21:39:57Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
@@ -9066,13 +9066,19 @@
     Updated: 2025-11-23T13:35:45Z
     Author: Gerard Collins
   - [Jergens vs CeraVe Lotion: Which Is Better for Your Skin? | Affinati](https://affinatiliving.com/blogs/debates/jergens-vs-cerave-lotion-which-is-better-for-your-skin)
-    Updated: 2025-12-01T19:40:56Z
+    Updated: 2025-12-01T21:07:04Z
     Author: Gerard Collins
   - [Jergens vs Dove Lotion: Which Is Better for Hydration & Sensitive Skin? (Ultimate Comparison Guide)](https://affinatiliving.com/blogs/debates/jergens-vs-dove-lotion-which-is-better-for-hydration-sensitive-skin-ultimate-comparison-guide)
     Updated: 2025-12-01T19:10:05Z
     Author: Gerard Collins
   - [Jergens vs Hempz Lotion: Which Is Better for Moisture & Glow?](https://affinatiliving.com/blogs/debates/jergens-vs-hempz-lotion-which-is-better-for-moisture-and-glow)
     Updated: 2025-12-01T19:40:38Z
+    Author: Gerard Collins
+  - [Jergens vs Bath & Body Works Lotion: Full Comparison of Hydration, Scents & Value | Affinati](https://affinatiliving.com/blogs/debates/jergens-vs-bath-body-works-lotion-full-comparison-of-hydration-scents-value-affinati)
+    Updated: 2025-12-01T21:08:10Z
+    Author: Gerard Collins
+  - [Jergens vs OUAI Lotion: Which Is Better for Soft, Hydrated Skin?](https://affinatiliving.com/blogs/debates/jergens-vs-ouai-lotion-which-is-better-for-soft-hydrated-skin)
+    Updated: 2025-12-01T21:42:03Z
     Author: Gerard Collins
 - [Affinati Spotlight: Product Feature](https://affinatiliving.com/blogs/affinati-spotlight-product-feature)
   - [Affinati Fresh Peaches 3-Wick Candle | Long-Lasting Summer Luxury](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/affinati-fresh-peaches-3-wick-candle-long-lasting-summer-luxury)
