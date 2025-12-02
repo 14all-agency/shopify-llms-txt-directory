@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-09-24T18:25:07Z
 - Contact Email: shopmegluffy@gmail.com
-- Updated At: 2025-12-01T00:01:23.730Z
+- Updated At: 2025-12-02T00:01:17.532Z
 
 ## Products
 
@@ -3685,210 +3685,210 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8547B594-35C5-4068-9159-6FC92D2E36E1.jpg?v=1763990006
     Price: €55.99 EUR
 - [B22 Dior](https://mldrip.com/products/b22-dior): Step up your drip with the iconic B22 Dior sneakers — where high fashion collides with streetwear energy. These kicks flex that bold, chunky silhouette everyone’s hyped about, crafted with premium materials that scream quality and style. Whether you’re hitting the city streets or pulling up to the squad, B22 Dior gives you that next-level vibe, turning heads and making moves. Why B22 Dior? Signature Dior craftsmanship with a modern chunky design Breathable, comfy fit for all-day flex Perfect for drip that slaps on and off the field Versatile enough to pair with anything, from fits to casual vibes Upgrade your sneaker game with B22 Dior — cuz you’re not just walking, you’re making a statement.
-  Updated: 2025-11-26T16:41:32Z
+  Updated: 2025-12-01T14:57:31Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880_ea275296-e4fc-4ccd-b3d9-38c798a01e0c.png?v=1764175289
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880_64116bdd-b874-4d7f-929b-a9d15f01416c.png?v=1764586838
   - [1 / 36](https://mldrip.com/products/b22-dior?variant=51965622321489)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764586793
     Price: €130.99 EUR
   - [2 / 36](https://mldrip.com/products/b22-dior?variant=51985160929617)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764586793
     Price: €130.99 EUR
   - [3 / 36](https://mldrip.com/products/b22-dior?variant=51985160962385)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764586793
     Price: €130.99 EUR
   - [4 / 36](https://mldrip.com/products/b22-dior?variant=51985160995153)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764586793
     Price: €130.99 EUR
   - [5 / 36](https://mldrip.com/products/b22-dior?variant=51985161027921)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0CB3A6F7-DB6A-41A6-B50C-1E77E45495B2.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0CB3A6F7-DB6A-41A6-B50C-1E77E45495B2.png?v=1764586793
     Price: €130.99 EUR
   - [6 / 36](https://mldrip.com/products/b22-dior?variant=51985161060689)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/86068205-A8FE-45DC-BFF1-A7B599458B7F.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/86068205-A8FE-45DC-BFF1-A7B599458B7F.png?v=1764586793
     Price: €130.99 EUR
   - [7 / 36](https://mldrip.com/products/b22-dior?variant=51985161093457)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2D32CE4A-6F27-4F1D-B5F4-8FDBB13D9A6E.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/2D32CE4A-6F27-4F1D-B5F4-8FDBB13D9A6E.png?v=1764586793
     Price: €130.99 EUR
   - [8 / 36](https://mldrip.com/products/b22-dior?variant=51985161126225)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/19042E65-E706-4DD9-9A59-B8E877E630BE.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/19042E65-E706-4DD9-9A59-B8E877E630BE.png?v=1764586793
     Price: €130.99 EUR
   - [9 / 36](https://mldrip.com/products/b22-dior?variant=51985161158993)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/175F4708-3956-43A5-AD4A-52B43AE0CF34.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/175F4708-3956-43A5-AD4A-52B43AE0CF34.png?v=1764586793
     Price: €130.99 EUR
   - [1 / 37](https://mldrip.com/products/b22-dior?variant=51985171906897)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764586793
     Price: €130.99 EUR
   - [1 / 38](https://mldrip.com/products/b22-dior?variant=51985171939665)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764586793
     Price: €130.99 EUR
   - [1 / 39](https://mldrip.com/products/b22-dior?variant=51985171972433)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764586793
     Price: €130.99 EUR
   - [1 / 40](https://mldrip.com/products/b22-dior?variant=51985172005201)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764586793
     Price: €130.99 EUR
   - [1 / 41](https://mldrip.com/products/b22-dior?variant=51985172037969)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764586793
     Price: €130.99 EUR
   - [1 / 42](https://mldrip.com/products/b22-dior?variant=51985172070737)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764586793
     Price: €130.99 EUR
   - [1 / 43](https://mldrip.com/products/b22-dior?variant=51985172103505)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764586793
     Price: €130.99 EUR
   - [1 / 44](https://mldrip.com/products/b22-dior?variant=51985172136273)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764586793
     Price: €130.99 EUR
   - [1 / 45](https://mldrip.com/products/b22-dior?variant=51985172169041)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764586793
     Price: €130.99 EUR
   - [2 / 37](https://mldrip.com/products/b22-dior?variant=51985172201809)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764586793
     Price: €130.99 EUR
   - [2 / 38](https://mldrip.com/products/b22-dior?variant=51985172234577)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764586793
     Price: €130.99 EUR
   - [2 / 39](https://mldrip.com/products/b22-dior?variant=51985172267345)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764586793
     Price: €130.99 EUR
   - [2 / 40](https://mldrip.com/products/b22-dior?variant=51985172300113)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764586793
     Price: €130.99 EUR
   - [2 / 41](https://mldrip.com/products/b22-dior?variant=51985172332881)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764586793
     Price: €130.99 EUR
   - [2 / 42](https://mldrip.com/products/b22-dior?variant=51985172365649)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764586793
     Price: €130.99 EUR
   - [2 / 43](https://mldrip.com/products/b22-dior?variant=51985172398417)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764586793
     Price: €130.99 EUR
   - [2 / 44](https://mldrip.com/products/b22-dior?variant=51985172431185)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764586793
     Price: €130.99 EUR
   - [2 / 45](https://mldrip.com/products/b22-dior?variant=51985172463953)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/95FF853E-045B-4BAE-B5CD-63FCEA905E79.png?v=1764586793
     Price: €130.99 EUR
   - [3 / 37](https://mldrip.com/products/b22-dior?variant=51985172496721)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764586793
     Price: €130.99 EUR
   - [3 / 38](https://mldrip.com/products/b22-dior?variant=51985172529489)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764586793
     Price: €130.99 EUR
   - [3 / 39](https://mldrip.com/products/b22-dior?variant=51985172562257)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764586793
     Price: €130.99 EUR
   - [3 / 40](https://mldrip.com/products/b22-dior?variant=51985172595025)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764586793
     Price: €130.99 EUR
   - [3 / 41](https://mldrip.com/products/b22-dior?variant=51985172627793)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764586793
     Price: €130.99 EUR
   - [3 / 42](https://mldrip.com/products/b22-dior?variant=51985172660561)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764586793
     Price: €130.99 EUR
   - [3 / 43](https://mldrip.com/products/b22-dior?variant=51985172693329)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764586793
     Price: €130.99 EUR
   - [3 / 44](https://mldrip.com/products/b22-dior?variant=51985172726097)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764586793
     Price: €130.99 EUR
   - [3 / 45](https://mldrip.com/products/b22-dior?variant=51985172758865)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/713C05CC-3D42-4B01-B4D4-5552623F06C5.png?v=1764586793
     Price: €130.99 EUR
   - [4 / 37](https://mldrip.com/products/b22-dior?variant=51985172791633)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764586793
     Price: €130.99 EUR
   - [4 / 38](https://mldrip.com/products/b22-dior?variant=51985172824401)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764586793
     Price: €130.99 EUR
   - [4 / 39](https://mldrip.com/products/b22-dior?variant=51985172857169)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764586793
     Price: €130.99 EUR
   - [4 / 40](https://mldrip.com/products/b22-dior?variant=51985172889937)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764586793
     Price: €130.99 EUR
   - [4 / 41](https://mldrip.com/products/b22-dior?variant=51985172922705)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764586793
     Price: €130.99 EUR
   - [4 / 42](https://mldrip.com/products/b22-dior?variant=51985172955473)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764586793
     Price: €130.99 EUR
   - [4 / 43](https://mldrip.com/products/b22-dior?variant=51985172988241)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764586793
     Price: €130.99 EUR
   - [4 / 44](https://mldrip.com/products/b22-dior?variant=51985173021009)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764586793
     Price: €130.99 EUR
   - [4 / 45](https://mldrip.com/products/b22-dior?variant=51985173053777)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/13AA931B-E78A-4E01-A2C6-AC5EDA68AA0A.png?v=1764586793
     Price: €130.99 EUR
   - [5 / 37](https://mldrip.com/products/b22-dior?variant=51985173086545)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0CB3A6F7-DB6A-41A6-B50C-1E77E45495B2.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0CB3A6F7-DB6A-41A6-B50C-1E77E45495B2.png?v=1764586793
     Price: €130.99 EUR
   - [5 / 38](https://mldrip.com/products/b22-dior?variant=51985173119313)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0CB3A6F7-DB6A-41A6-B50C-1E77E45495B2.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0CB3A6F7-DB6A-41A6-B50C-1E77E45495B2.png?v=1764586793
     Price: €130.99 EUR
   - [5 / 39](https://mldrip.com/products/b22-dior?variant=51985173152081)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0CB3A6F7-DB6A-41A6-B50C-1E77E45495B2.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0CB3A6F7-DB6A-41A6-B50C-1E77E45495B2.png?v=1764586793
     Price: €130.99 EUR
   - [5 / 40](https://mldrip.com/products/b22-dior?variant=51985173184849)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0CB3A6F7-DB6A-41A6-B50C-1E77E45495B2.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0CB3A6F7-DB6A-41A6-B50C-1E77E45495B2.png?v=1764586793
     Price: €130.99 EUR
   - [5 / 41](https://mldrip.com/products/b22-dior?variant=51985173217617)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0CB3A6F7-DB6A-41A6-B50C-1E77E45495B2.png?v=1764022750
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0CB3A6F7-DB6A-41A6-B50C-1E77E45495B2.png?v=1764586793
     Price: €130.99 EUR
 - [Dior B30 Sneakers](https://mldrip.com/products/dior-b30): Step into the future of fashion with the Dior B30 Sneakers – a bold blend of luxury design and athletic edge. Featuring the signature "CD" reflective logo, lightweight mesh construction, and a futuristic silhouette, these sneakers redefine what it means to walk in style. Perfect for streetwear lovers, high-fashion enthusiasts, or anyone who demands comfort and class – the B30 is more than just a sneaker, it’s a statement. Product Features: Iconic "CD" reflective logo for that bold Dior touch Lightweight & breathable mesh upper for all-day wear Cushioned sole with shock-absorbing support Sleek, aerodynamic design that turns heads Unisex sizing – versatile for any wardrobe Luxury Meets Performance. From the runway to the streets, the Dior B30 delivers unmatched comfort, quality, and style. Add to Cart Now and bring high-end fashion to your sneaker rotation today!
   Updated: 2025-11-26T16:41:41Z
@@ -4603,7 +4603,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1E397C16-BFD9-47D0-A737-4890FF098227.jpg?v=1758749109
     Price: €45.99 EUR
 - [Nike Air Force 1](https://mldrip.com/products/air-force): Classic. Clean. Unstoppable. The Nike Air Force 1 is a true icon in the sneaker world . With its timeless silhouette, crisp leather upper, and unbeatable comfort, this shoe has ruled the streets since 1982 – and it’s not slowing down anytime soon. Whether you're dressing up or keeping it casual, the AF1 delivers effortless drip, all-day comfort, and that legendary energy. Product Features: Premium leather upper for durability & a clean look Nike Air cushioning for lightweight comfort Rubber outsole for excellent traction & grip Perforated toe box for breathability Unisex sizing – made for everyone From Courts to Streets. The Air Force 1 isn’t just a sneaker – it’s a movement. Add to Cart Now and step into the legacy.
-  Updated: 2025-11-26T16:43:00Z
+  Updated: 2025-12-01T06:28:40Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -13922,7 +13922,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-1961_48d34dec-4fab-4232-bc4b-a036f41f2a13.png?v=1764176272
     Price: €90.00 EUR
 - [Polo Jackets](https://mldrip.com/products/polo-jackets): Level up your outerwear with the Polo Jacket, a perfect mix of classic style and modern street energy. Designed for comfort and confidence, this piece brings that clean, preppy look with a hint of luxury. 💨 Why You’ll Love It: Premium fabric blend – soft, durable, and built for all-day wear Classic Polo aesthetic – sleek silhouette with signature detailing Versatile fit – perfect for layering over hoodies, tees, or shirts All-season style – lightweight enough for spring, warm enough for fall From casual days to night outings, the Polo Jacket keeps your look sharp, simple, and effortlessly fresh. 👉 Cop yours now and rock that Polo energy with confidence. 🐎🔥
-  Updated: 2025-11-30T21:15:53Z
+  Updated: 2025-12-01T17:26:04Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -16194,13 +16194,13 @@
   Updated: 2025-11-29T12:47:44Z
   Total Products: 16
 - [Sneakers](https://mldrip.com/collections/sneakers)
-  Updated: 2025-11-26T16:39:15Z
+  Updated: 2025-12-01T12:45:51Z
   Total Products: 43
 - [All](https://mldrip.com/collections/all)
-  Updated: 2025-11-29T12:47:44Z
+  Updated: 2025-12-01T12:45:51Z
   Total Products: 135
 - [Jackets](https://mldrip.com/collections/jackets)
-  Updated: 2025-11-26T16:39:19Z
+  Updated: 2025-12-01T12:45:51Z
   Total Products: 20
 
 ## Blogs
