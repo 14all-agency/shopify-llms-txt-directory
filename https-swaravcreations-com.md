@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-28T22:10:57Z
 - Contact Email: contact@swaravcreations.com
-- Updated At: 2025-11-28T00:01:16.337Z
+- Updated At: 2025-12-02T00:00:27.001Z
 
 ## Products
 
@@ -25,18 +25,18 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4378_transformation_12018.png?v=1762182357
     Price: $69.99 CAD
 - [Forever Love Necklace - Luxury Box - Elegant Jewelry by Swarav Creations for You](https://swaravcreations.com/products/forever-love-necklace-luxury-box-white-or-yellow-gold-finish): Discover the stunning Forever Love Necklace by Swarav Creations. This elegant jewelry piece symbolizes endless love, making it the perfect gift for cherished moments.
-  Updated: 2025-11-24T09:21:45Z
+  Updated: 2025-11-30T10:15:13Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_1582_transformation_13989.png?v=1762182599
+  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_1582_transformation_13989__1_review.png?v=1764454506
   - [14k White Gold Finish / Luxury Box](https://swaravcreations.com/products/forever-love-necklace-luxury-box-white-or-yellow-gold-finish?variant=46963772948736)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_1582_transformation_13989.png?v=1762182599
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_1582_transformation_13989.png?v=1764454506
     Price: $84.99 CAD
   - [18k Yellow Gold Finish / Luxury Box](https://swaravcreations.com/products/forever-love-necklace-luxury-box-white-or-yellow-gold-finish?variant=46963773014272)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_1583_transformation_13451.png?v=1762182645
+    Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_1583_transformation_13451.png?v=1764454506
     Price: $94.99 CAD
 - [🌸 Alluring Beauty Necklace | Standard Box | Swarav Creations](https://swaravcreations.com/products/alluring-beauty-necklace-white-or-yellow-gold-finish): Discover the Alluring Beauty Necklace from Swarav Creations. Elevate your elegance with this stunning piece that adds charm and sophistication to any outfit. Perfect for every occasion!
   Updated: 2025-11-23T11:02:39Z
@@ -81,7 +81,7 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_149_transformation_14474.jpg?v=1762182905
     Price: $59.99 CAD
 - [Men's Cuban Link Chain Necklace - Luxury Gift for Him](https://swaravcreations.com/products/mens-cuban-link-chain-necklace-18k-gold-or-stainless-steel-adjustable-length-18-22-luxury-gift-for-him): Elevate his style with our Men's Cuban Link Chain Necklace, crafted from 18K gold and stainless steel. Adjustable 18-22" length makes it the perfect luxury gift for him!
-  Updated: 2025-11-06T02:11:22Z
+  Updated: 2025-11-30T13:12:06Z
   Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
@@ -90,16 +90,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4350_transformation_11570.png?v=1762182944
     Price: $54.99 CAD
-  - [Stainless Steel / Luxury Box](https://swaravcreations.com/products/mens-cuban-link-chain-necklace-18k-gold-or-stainless-steel-adjustable-length-18-22-luxury-gift-for-him?variant=46992339403008)
-    Availability: Available
-    Price: $79.99 CAD
   - [18K Yellow Gold Finish / Standard Box](https://swaravcreations.com/products/mens-cuban-link-chain-necklace-18k-gold-or-stainless-steel-adjustable-length-18-22-luxury-gift-for-him?variant=46992339435776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4349_transformation_11645.png?v=1762183026
     Price: $64.99 CAD
-  - [18K Yellow Gold Finish / Luxury Box](https://swaravcreations.com/products/mens-cuban-link-chain-necklace-18k-gold-or-stainless-steel-adjustable-length-18-22-luxury-gift-for-him?variant=46992339468544)
-    Availability: Available
-    Price: $89.99 CAD
 - [Shipping Protection by Route - Secure Your Orders Effortlessly](https://swaravcreations.com/products/shipping-protection-by-route): Shipping Protection by Route - Ensure your packages arrive safely with our Shipping Protection for Deliveries. Enjoy hassle-free deliveries and peace of mind. Protect your orders today with Route!
   Updated: 2025-11-06T02:11:22Z
   Vendor: Route
@@ -907,6 +901,18 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_783_transformation_10610.png?v=1764118051
     Price: $74.99 CAD
+- [Men's Cuban Link Chain Necklace - Luxury Gift for Him](https://swaravcreations.com/products/mens-cuban-link-chain-necklace-18k-gold-luxury-gift-for-him): Elevate his style with our Men's Cuban Link Chain Necklace, crafted from 18K gold and stainless steel. Adjustable 18-22" length makes it the perfect luxury gift for him!
+  Updated: 2025-11-30T13:05:15Z
+  Vendor: Swarav Creations
+  Product Type: Jewelry
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4350_transformation_11570.png?v=1762182944
+  - [Stainless Steel / Luxury Box](https://swaravcreations.com/products/mens-cuban-link-chain-necklace-18k-gold-luxury-gift-for-him?variant=47368378876160)
+    Availability: Available
+    Price: $79.99 CAD
+  - [18K Yellow Gold Finish / Luxury Box](https://swaravcreations.com/products/mens-cuban-link-chain-necklace-18k-gold-luxury-gift-for-him?variant=47368378941696)
+    Availability: Available
+    Price: $89.99 CAD
 
 ## Collections
 
@@ -914,26 +920,26 @@
   Updated: 2025-11-16T23:22:12Z
   Total Products: 7
 - [New Arrivals - Discover the Latest Styles and Trends Today!](https://swaravcreations.com/collections/new-arrivals): New Arrivals Collection  - Discover our exclusive New Arrivals Collection featuring the latest trends and must-have items. Elevate your style with fresh pieces designed for every occasion. Shop now!
-  Updated: 2025-11-23T21:26:17Z
-  Total Products: 22
+  Updated: 2025-11-30T01:12:19Z
+  Total Products: 23
 - [Best Sellers](https://swaravcreations.com/collections/best-sellers): Shop Swarav Creations Best Sellers—top-rated necklaces in 14k white or 18k yellow gold finishes, brilliant CZ stones, gift-ready packaging, and fast, tracked shipping.
-  Updated: 2025-11-23T21:26:17Z
-  Total Products: 18
+  Updated: 2025-11-30T01:12:19Z
+  Total Products: 19
 - [Gifts Under $60](https://swaravcreations.com/collections/gifts-under-60)
-  Updated: 2025-11-22T23:02:43Z
+  Updated: 2025-11-30T01:12:01Z
   Total Products: 11
 - [Gifts $60–$100](https://swaravcreations.com/collections/gifts-60-100)
-  Updated: 2025-11-23T21:26:17Z
-  Total Products: 18
+  Updated: 2025-11-30T01:12:19Z
+  Total Products: 19
 - [Gifts Over $100](https://swaravcreations.com/collections/gifts-over-100)
   Updated: 2025-11-10T03:00:01Z
   Total Products: 2
 - [Necklaces – Elegant & Meaningful Jewelry by Swarav Creations - Swarav Creations](https://swaravcreations.com/collections/necklaces-elegant-meaningful-jewelry-by-swarav-creations): Discover exquisite necklaces from Swarav Creations — where every piece is crafted with love, meaning, and timeless beauty. From sparkling pendants to personalized gifts, our necklace collection features elegant designs that make every moment special. Whether you’re celebrating love, friendship, or milestones, you’ll find the perfect necklace to express your heart. Handcrafted from premium materials and available in stunning finishes, these necklaces are ideal for birthdays, anniversaries, Valentine’s Day, and more. ✨ Designed with Heart. Crafted to Sparkle. - Swarav Creations
-  Updated: 2025-11-23T21:26:17Z
-  Total Products: 18
+  Updated: 2025-11-30T01:12:19Z
+  Total Products: 19
 - [Necklace & Earring - Swarav Creations](https://swaravcreations.com/collections/necklace-earring): - Swarav Creations
-  Updated: 2025-11-23T21:26:17Z
-  Total Products: 21
+  Updated: 2025-11-30T01:12:19Z
+  Total Products: 22
 - [Earring - Swarav Creations](https://swaravcreations.com/collections/earring): - Swarav Creations
   Updated: 2025-11-10T03:00:01Z
   Total Products: 2
@@ -989,6 +995,14 @@
     Updated: 2025-11-24T01:07:51Z
     Author: Swarav Creations
     Tags: anniversary jewelry gift, baby feet necklace, gift for her, gifts, gifts that speak to her heart, heartfelt gifts, jewelry, love knot necklace, meaningful, meaningful jewelry for her, meaningful jewelry gifts, mom jewelry gift, personalized gift, personalized jewelry, romantic gift for wife, romantic gift jewelry, romantic jewelry gift, sentimental jewelry, timeless necklace, unique jewelry
+  - [The Complete Guide to Romantic Gift Jewelry for Every Occasion](https://swaravcreations.com/blogs/news/the-complete-guide-to-romantic-gift-jewelry-for-every-occasion): The Complete Guide to Romantic Gift Jewelry for Every Occasion
+    Updated: 2025-11-28T00:13:49Z
+    Author: Swarav Creations
+    Tags: anniversary jewelry gift, baby feet necklace, gift for her, gift jewelry, gifts, jewelry, love knot necklace, meaningful gifts, meaningful jewelry for her, mom jewelry gift, personalized gift, personalized gift ideas, romantic, romantic gift for wife, romantic gift jewelry, romantic jewelry gift, sentimental jewelry, special occasions, timeless necklace, unique romantic jewelry
+  - [From Love Knot to Timeless Necklaces Discover Romantic Jewelry Trends](https://swaravcreations.com/blogs/news/from-love-knot-to-timeless-necklaces-discover-romantic-jewelry-trends): From Love Knot to Timeless Necklaces Discover Romantic Jewelry Trends
+    Updated: 2025-12-01T01:10:46Z
+    Author: Swarav Creations
+    Tags: anniversary jewelry gift, baby feet necklace, elegant jewelry styles, gift for her, jewelry, love knot necklace, love trends, meaningful jewelry for her, mom jewelry gift, necklaces, personalized gift, romance, romantic gift for wife, romantic gift jewelry, romantic jewelry, romantic jewelry gift, sentimental jewelry, timeless accessories, timeless necklace, unique necklace designs
 
 ## Store Pages
 
