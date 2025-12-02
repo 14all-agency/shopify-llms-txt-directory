@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-08-13T12:49:55Z
 - Contact Email: joseluisgonzalezarsb@gmail.com
-- Updated At: 2025-11-30T00:01:54.513Z
+- Updated At: 2025-12-02T00:01:59.096Z
 
 ## Products
 
@@ -160,7 +160,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/knit-beanie-white-front-6924c25a1636d.jpg?v=1764016742
   Price: €17.49 EUR
 - [Clear Case for iPhone®](https://goar.store/products/clear-case-for-iphone®): This sleek iPhone® case protects your phone from scratches, dust, oil, and dirt. It has a solid back and flexible sides that make it easy to take on and off, with precisely aligned port openings. • Solid polycarbonate back • Flexible, see-through polyurethane sides • .5 mm raised bezel • Precisely aligned port openings • Easy to take on and off • Wireless charging compatible • The SE case fits the 2020 iPhone® SE model • Blank product sourced from China or South Korea Disclaimer: The case may include a protective film on the inside that needs to be removed before use. Important: The iPhone 15 and iPhone 16 series can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different iPhone model. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2025-11-27T15:26:36Z
+  Updated: 2025-12-01T19:24:12Z
   Vendor: Goar Store 
   Product Type: 
   Availability: Available
@@ -576,6 +576,33 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/unisex-crew-neck-sweatshirt-black-front-69285f7353375.jpg?v=1764253571
     Price: €29.50 EUR
+- [Sudadera unisex de Black Wolf EDICION LIMITADA.](https://goar.store/products/sudadera-unisex-de-black-wolf-edicion-limitada): Introducing our limited edition Sudadera blackwolf. Designed for comfort and style, its sleek black design is both practical and fashionable. With its trendy look, you'll make a statement wherever you go. Crafted with high-quality material, this sweatshirt is a great addition to any wardrobe. Don't miss out on this bueno, bonito, and barato piece. Get yours now!
+  Updated: 2025-12-01T12:17:06Z
+  Vendor: Goar Store 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/rn-image_picker_lib_temp_3dec77f9-327e-4b84-8b1a-764cb91f5cd9.jpg?v=1764535647
+  - [3XL](https://goar.store/products/sudadera-unisex-de-black-wolf-edicion-limitada?variant=56034393424196)
+    Availability: Available
+    Price: €59.99 EUR
+  - [2XL](https://goar.store/products/sudadera-unisex-de-black-wolf-edicion-limitada?variant=56034393456964)
+    Availability: Available
+    Price: €59.99 EUR
+  - [XL](https://goar.store/products/sudadera-unisex-de-black-wolf-edicion-limitada?variant=56034393489732)
+    Availability: Available
+    Price: €59.99 EUR
+  - [L](https://goar.store/products/sudadera-unisex-de-black-wolf-edicion-limitada?variant=56034393522500)
+    Availability: Available
+    Price: €59.99 EUR
+  - [M](https://goar.store/products/sudadera-unisex-de-black-wolf-edicion-limitada?variant=56034393555268)
+    Availability: Available
+    Price: €59.99 EUR
+  - [S](https://goar.store/products/sudadera-unisex-de-black-wolf-edicion-limitada?variant=56034393588036)
+    Availability: Available
+    Price: €59.99 EUR
+  - [XS](https://goar.store/products/sudadera-unisex-de-black-wolf-edicion-limitada?variant=56034393620804)
+    Availability: Available
+    Price: €59.99 EUR
 
 ## Collections
 
@@ -583,11 +610,11 @@
   Updated: 2025-11-27T15:26:35Z
   Total Products: 0
 - [BLACK WOLF EDITION - Premium Collection | Goar Store](https://goar.store/collections/black-wolf-edition): Discover the BLACK WOLF EDITION collection with exclusive designs and premium quality products at Goar Store.
-  Updated: 2025-11-28T22:16:04Z
-  Total Products: 19
+  Updated: 2025-11-30T20:53:37Z
+  Total Products: 20
 - [Sale Products - Up to 30% Off | Goar Store](https://goar.store/collections/sale-products): Take advantage of our special offers with discounts up to 30% on selected products. Discover the best deals at Goar Store.
-  Updated: 2025-11-27T15:26:36Z
-  Total Products: 19
+  Updated: 2025-11-30T20:53:37Z
+  Total Products: 20
 
 ## Store Pages
 
