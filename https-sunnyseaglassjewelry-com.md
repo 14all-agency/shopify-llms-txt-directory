@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-22T04:17:36Z
 - Contact Email: Sunnymello810@gmail.com
-- Updated At: 2025-12-01T00:00:49.194Z
+- Updated At: 2025-12-02T00:00:40.404Z
 
 ## Products
 
@@ -4706,7 +4706,7 @@
   Availability: Available
   Price: $35.00 USD
 - [Angel Earrings - Unique Sea Glass Guardian Design](https://sunnyseaglassjewelry.com/products/angel-dangling-earrings): Explore our handcrafted angel earrings featuring beautiful sea glass. Perfect gifts to cherish your guardian angel.
-  Updated: 2025-11-17T01:59:58Z
+  Updated: 2025-12-01T00:53:41Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Holiday Sea Glass Necklace
   Availability: Available
@@ -4715,7 +4715,7 @@
     Availability: Available
     Price: $22.95 USD
   - [Peridot Green](https://sunnyseaglassjewelry.com/products/angel-dangling-earrings?variant=58306861596753)
-    Availability: Available
+    Availability: Not Available
     Price: $22.95 USD
   - [Purple](https://sunnyseaglassjewelry.com/products/angel-dangling-earrings?variant=58306861629521)
     Availability: Available
