@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-12-01T00:00:37.896Z
+- Updated At: 2025-12-02T00:00:35.830Z
 
 ## Products
 
@@ -33813,6 +33813,9 @@
     Author: User
   - [How Proper Tablecloth Care Can Extend Its Lifespan](https://thetableclothstore.com/blogs/news/how-proper-tablecloth-care-can-extend-its-lifespan): How Proper Tablecloth Care Can Extend Its Lifespan
     Updated: 2025-11-27T01:12:54Z
+    Author: User
+  - [Essential Questions Answered About Tablecloth Selection](https://thetableclothstore.com/blogs/news/essential-questions-answered-about-tablecloth-selection): Essential Questions Answered About Tablecloth Selection
+    Updated: 2025-12-01T01:04:34Z
     Author: User
 
 ## Store Pages
