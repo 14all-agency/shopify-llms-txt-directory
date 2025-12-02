@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-02T08:00:32.505Z
+- Updated At: 2025-12-02T12:00:33.766Z
 
 ## Products
 
@@ -6965,7 +6965,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Blackberry Sage - Shea Butter Body Lotion (10 oz)](https://affinatiliving.com/products/blackberry-sage-shea-butter-body-lotion-10-oz): Affinati Blackberry Sage Lotion hydrates with shea butter and vitamins while blending juicy blackberry and herbal sage for a calming, long-lasting fragrance.
-  Updated: 2025-12-01T21:39:57Z
+  Updated: 2025-12-02T09:40:15Z
   Vendor: Affinati
   Product Type: Body Lotions
   Availability: Available
