@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-12-01T00:00:43.684Z
+- Updated At: 2025-12-02T00:01:44.842Z
 
 ## Products
 
@@ -9504,7 +9504,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/products/2_1.jpg?v=1694603127
     Price: $2,609.00 USD
 - [Lab Grown 1.70CT Radiant Cut Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/lab-grown-1-70ct-radiant-cut-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): Be the envy of all with this one of a kind Lab Grown 1.70CT Radiant Cut Diamond Art Deco Unique Engagement Ring. Crafted with expert precision and skill, this handmade ring is sure to impress for any occasion, whether it be an engagement, anniversary, or just a special gift.
-  Updated: 2025-10-02T10:30:45Z
+  Updated: 2025-12-01T04:35:08Z
   Vendor: Lab Grown Diamond Ring
   Product Type: Lab Grown Radiant Diamond Ring
   Availability: Available
@@ -22146,7 +22146,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDBA-61_1.jpg?v=1710845928
     Price: $744.00 USD
 - [Moissanite 0.20CT Marquise Diamond Victorian Wedding Band](https://ibizjewel.com/products/moissanite-0-20ct-marquise-diamond-victorian-wedding-band): This Moissanite Wedding Band Features A Stunning 0.20 Carat Marquise Diamond In A Victorian Style Setting. With The Brilliance And Durability Of Moissanite, This Band Offers A Unique And Timeless Addition To Any Wedding Set. Expertly Crafted For A Truly Special Look.
-  Updated: 2025-10-02T10:30:57Z
+  Updated: 2025-12-01T10:07:08Z
   Vendor: Moissanite Diamond Women's Bands
   Product Type: Moissanite Marquise Diamond Band
   Availability: Available
@@ -31568,7 +31568,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDE-34_3.jpg?v=1711170989
     Price: $766.00 USD
 - [Moissanite 0.30CT Round Diamond Fashion Earring](https://ibizjewel.com/products/moissanite-0-30ct-round-diamond-fashion-earring): Upgrade Your Earring Game With Our Moissanite 0.30ct Round Diamond Fashion Earrings. Made With The Finest Quality, These Earrings Are The Perfect Blend Of Style And Sophistication. The Sparkling Moissanite Diamonds Add A Touch Of Elegance To Any Outfit. Elevate Your Look With These Stunning Earrings.
-  Updated: 2025-10-02T10:31:04Z
+  Updated: 2025-12-01T06:53:36Z
   Vendor: Moissanite Diamond Earring
   Product Type: Moissanite Round Diamond Earring
   Availability: Available
