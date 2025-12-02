@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-11-30T00:01:00.330Z
+- Updated At: 2025-12-02T00:00:31.644Z
 
 ## Products
 
 - [Stretch Velvet Sequin Fabric | Fabrics Star](https://fabricsstar.com/products/sequin-fabric): Sparkle and shine with Sequin Fabric from Fabrics Star. Perfect for adding glamour to dresses, costumes, and decor, this fabric is a must-have for any sewing enthusiast.
-  Updated: 2025-11-29T02:48:30Z
+  Updated: 2025-11-30T00:04:15Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FESTIVAL-TWILIGHT.jpg?v=1757517134
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Store](https://fabricsstar.com/products/soft-velvet-fabric-1): Soft Velvet Fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Shop now!
-  Updated: 2025-11-28T21:04:36Z
+  Updated: 2025-12-01T13:38:14Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/White.jpg?v=1757517222
     Price: $1.00 USD
 - [Brocade Velvet Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/brocade-scroll-velvet-fabric): Add a touch of sophistication to your upholstery projects with Brocade Scroll Velvet Fabric from Fabrics Star. Buy brocade velvet fabric for premium quality fabric.
-  Updated: 2025-11-29T23:54:35Z
+  Updated: 2025-11-30T22:13:24Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-11-29T22:27:53Z
+  Updated: 2025-12-01T22:16:35Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1283,7 +1283,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELVETEEN-MALAGA-1012.jpg?v=1757517288
     Price: $1.00 USD
 - [Shiny Crushed Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/shiny-crushed-velvet-fabric): Elevate your upholstery projects with Shiny Crushed Velvet Fabric from Fabrics Star. This luxurious fabric adds a touch of glamour and sophistication to coaches and chairs.
-  Updated: 2025-11-09T19:56:36Z
+  Updated: 2025-12-01T21:16:18Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -2891,7 +2891,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BEACONSFIELD-IVORY-SLVR-103.jpg?v=1712264726
     Price: $1.00 USD
 - [Lanora Jacquard Fabric | Fabrics Star](https://fabricsstar.com/products/copy-of-lanora-jacquard-fabric): Add a touch of elegance to your event with the Lenora fabric. The beautiful classy tablecloth will uplift any occasion and create a luxurious atmosphere for your guests.
-  Updated: 2025-11-29T06:28:10Z
+  Updated: 2025-12-01T09:07:04Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -6508,8 +6508,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NOBLE-WHITE-101.jpg?v=1757518392
     Price: $1.00 USD
-- [MEDLEY Cozy Crushed Fabric, 110 Inch. in Width](https://fabricsstar.com/products/medley)
-  Updated: 2025-10-23T20:17:36Z
+- [MEDLEY Cozy Crushed Fabric, 110 Inch. in Width - Dry Clean only](https://fabricsstar.com/products/medley): DIMENSION - Size of the fabric is 110 Inch. in width. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 110' x 36'. Order of 3 yards (Qty=3) is 110' x 108'. Orders can be customised to be cut in pieces by request SIZE: Velvet fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. MATERIAL - fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Wash with lukewarm water, no dryerUSEFUL - Ideal Velvet Material for Upholstery fabric for Coaches and chairs , drapery , pillows, slipcovers, tablecloths, sewing, DIY, handbags, tote bags, arts & crafts Etc
+  Updated: 2025-12-01T14:10:46Z
   Vendor: Fabrics Star
   Product Type: Crushed Fabric
   Availability: Available
@@ -6517,7 +6517,7 @@
   - [Black / Cut by the Yard](https://fabricsstar.com/products/medley?variant=50919191413017)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-BLACK-36.jpg?v=1757518411
-    Price: $27.50 USD
+    Price: $9.99 USD
   - [Black / Sample 3x3 Inch](https://fabricsstar.com/products/medley?variant=50898079809817)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-BLACK-36.jpg?v=1757518411
@@ -6525,7 +6525,7 @@
   - [Brown / Cut by the Yard](https://fabricsstar.com/products/medley?variant=50919377207577)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-BROWN-6.jpg?v=1757518411
-    Price: $27.50 USD
+    Price: $9.99 USD
   - [Brown / Sample 3x3 Inch](https://fabricsstar.com/products/medley?variant=50919377174809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-BROWN-6.jpg?v=1757518411
@@ -6533,7 +6533,7 @@
   - [Forest / Cut by the Yard](https://fabricsstar.com/products/medley?variant=50919377273113)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-FOREST-19.jpg?v=1757518410
-    Price: $27.50 USD
+    Price: $9.99 USD
   - [Forest / Sample 3x3 Inch](https://fabricsstar.com/products/medley?variant=50919377240345)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-FOREST-19.jpg?v=1757518410
@@ -6541,7 +6541,7 @@
   - [Cinnamon / Cut by the Yard](https://fabricsstar.com/products/medley?variant=50919377338649)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-CINNAMON-02.jpg?v=1757518409
-    Price: $27.50 USD
+    Price: $9.99 USD
   - [Cinnamon / Sample 3x3 Inch](https://fabricsstar.com/products/medley?variant=50919377305881)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-CINNAMON-02.jpg?v=1757518409
@@ -6549,7 +6549,7 @@
   - [Gold / Cut by the Yard](https://fabricsstar.com/products/medley?variant=50919377404185)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-GOLD-5.jpg?v=1757518408
-    Price: $27.50 USD
+    Price: $9.99 USD
   - [Gold / Sample 3x3 Inch](https://fabricsstar.com/products/medley?variant=50919377371417)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-GOLD-5.jpg?v=1757518408
@@ -6557,7 +6557,7 @@
   - [Natural / Cut by the Yard](https://fabricsstar.com/products/medley?variant=50919377469721)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-NATURAL-28.jpg?v=1757518409
-    Price: $27.50 USD
+    Price: $9.99 USD
   - [Natural / Sample 3x3 Inch](https://fabricsstar.com/products/medley?variant=50919377436953)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-NATURAL-28.jpg?v=1757518409
@@ -6565,7 +6565,7 @@
   - [Navy / Cut by the Yard](https://fabricsstar.com/products/medley?variant=50919377535257)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-NAVY-22.jpg?v=1757518405
-    Price: $27.50 USD
+    Price: $9.99 USD
   - [Navy / Sample 3x3 Inch](https://fabricsstar.com/products/medley?variant=50919377502489)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-NAVY-22.jpg?v=1757518405
@@ -6573,7 +6573,7 @@
   - [Silver / Cut by the Yard](https://fabricsstar.com/products/medley?variant=50919377666329)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-SILVER-30.jpg?v=1757518404
-    Price: $27.50 USD
+    Price: $9.99 USD
   - [Silver / Sample 3x3 Inch](https://fabricsstar.com/products/medley?variant=50919377633561)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-SILVER-30.jpg?v=1757518404
@@ -6581,7 +6581,7 @@
   - [Taupe / Cut by the Yard](https://fabricsstar.com/products/medley?variant=50919377731865)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-TAUPE-10.jpg?v=1757518402
-    Price: $27.50 USD
+    Price: $9.99 USD
   - [Taupe / Sample 3x3 Inch](https://fabricsstar.com/products/medley?variant=50919377699097)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-TAUPE-10.jpg?v=1757518402
@@ -6589,7 +6589,7 @@
   - [Tiffany / Cut by the Yard](https://fabricsstar.com/products/medley?variant=50919377797401)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-TIFFANY-24.jpg?v=1757518403
-    Price: $27.50 USD
+    Price: $9.99 USD
   - [Tiffany / Sample 3x3 Inch](https://fabricsstar.com/products/medley?variant=50919377764633)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-TIFFANY-24.jpg?v=1757518403
@@ -6597,7 +6597,7 @@
   - [White / Cut by the Yard](https://fabricsstar.com/products/medley?variant=50919377862937)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-WHITE-27-1.jpg?v=1757518401
-    Price: $27.50 USD
+    Price: $9.99 USD
   - [White / Sample 3x3 Inch](https://fabricsstar.com/products/medley?variant=50919377830169)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-WHITE-27-1.jpg?v=1757518401
@@ -6605,7 +6605,7 @@
   - [Pine Green / Cut by the Yard](https://fabricsstar.com/products/medley?variant=50919381762329)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-PINE-18.jpg?v=1757518406
-    Price: $27.50 USD
+    Price: $9.99 USD
   - [Pine Green / Sample 3x3 Inch](https://fabricsstar.com/products/medley?variant=50919381729561)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MEDLEY-PINE-18.jpg?v=1757518406
@@ -8839,7 +8839,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CONFETTI-MULTI.jpg?v=1757518723
     Price: $1.00 USD
 - [CARNIVAL Color Changing Sensory Wall Reversible Sequin Fabric, 52 Inch. in Width](https://fabricsstar.com/products/carnival)
-  Updated: 2025-11-28T23:50:43Z
+  Updated: 2025-12-01T03:20:18Z
   Vendor: Fabrics Star
   Product Type: Reversible Sequin Fabric
   Availability: Available
@@ -9745,10 +9745,10 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 1
 - [Buy Sequin Fabric Online | Sequins By The Yard - Fabrics Star](https://fabricsstar.com/collections/sequin-fabrics): Shop sequin fabrics online at Fabrics Star. Find dazzling & elegant sequins by the yard for your next project, offering sparkle and style in every design.
-  Updated: 2025-11-29T12:21:34Z
+  Updated: 2025-12-01T12:18:14Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-11-29T12:21:34Z
+  Updated: 2025-12-01T12:18:14Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-11-29T12:21:34Z
@@ -9757,25 +9757,25 @@
   Updated: 2025-11-29T12:21:34Z
   Total Products: 219
 - [Digital Print Fabric by the Yard | Digital Fabric Printing - Fabrics Star](https://fabricsstar.com/collections/digital-print-fabric): Discover stunning digital print fabric at Fabrics Star. Shop high-quality materials with vibrant designs, perfect for your creative projects and digital fabric printing.
-  Updated: 2025-11-20T23:16:54Z
+  Updated: 2025-11-30T12:20:17Z
   Total Products: 38
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard - Fabrics Star](https://fabricsstar.com/collections/jacquard-print-fabric): Shop elegant jacquard print fabric at Fabrics Star. Discover unique designs and premium-quality jacquard print materials for your creative projects!
   Updated: 2025-11-20T23:16:59Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-11-29T12:21:34Z
+  Updated: 2025-12-01T12:18:14Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-11-29T12:21:34Z
+  Updated: 2025-12-01T12:18:14Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-11-29T12:21:34Z
+  Updated: 2025-12-01T12:18:14Z
   Total Products: 534
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-11-29T12:21:34Z
+  Updated: 2025-11-30T12:20:17Z
   Total Products: 12
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-11-29T12:21:34Z
+  Updated: 2025-12-01T12:18:14Z
   Total Products: 666
 
 ## Blogs
@@ -9882,6 +9882,12 @@
     Author: User
   - [The Environmental Impact of Traditional vs. Recycled Fabric](https://fabricsstar.com/blogs/news/the-environmental-impact-of-traditional-vs-recycled-fabric): The Environmental Impact of Traditional vs. Recycled Fabric
     Updated: 2025-11-26T02:41:18Z
+    Author: User
+  - [Tips for Creating Stunning Patchwork with Fabrics](https://fabricsstar.com/blogs/news/tips-for-creating-stunning-patchwork-with-fabrics): Tips for Creating Stunning Patchwork with Fabrics
+    Updated: 2025-11-30T00:10:50Z
+    Author: User
+  - [The Art of Mixing Patterns and Colors in Fabric Design](https://fabricsstar.com/blogs/news/the-art-of-mixing-patterns-and-colors-in-fabric-design): The Art of Mixing Patterns and Colors in Fabric Design
+    Updated: 2025-12-01T03:33:50Z
     Author: User
 
 ## Store Pages
