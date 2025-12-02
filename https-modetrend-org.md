@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-04-13T04:01:57Z
 - Contact Email: info.modetrend@gmail.com
-- Updated At: 2025-11-29T00:01:44.011Z
+- Updated At: 2025-12-02T00:01:18.302Z
 
 ## Products
 
 - [Herren Quarzuhr im Militärstil | Doppelzeit & Canvas-Armband](https://modetrend.org/products/products-military-style-quartz-watch): Entdecken Sie die robuste Herren Quarzuhr im Militärstil mit großem Gehäuse, Doppelzeit-Anzeige und strapazierfähigem Canvas-Armband. Perfekt für Outdoor, Abenteuer und Reisen.
-  Updated: 2025-11-02T08:48:20Z
+  Updated: 2025-12-01T12:55:59Z
   Vendor: Modetrend
   Product Type: Wristwatches
   Availability: Available
@@ -29,7 +29,7 @@
     Availability: Available
     Price: 45,99 € EUR
 - [Moderne LED Digitaluhr | Quadratisch Edelstahl Unisex Uhr](https://modetrend.org/products/products-led-digital-square-steel-watch): Stilvolle moderne LED Digitaluhr im quadratischen Design aus Edelstahl. Unisex Armbanduhr mit klarem LED-Display  minimalistisch, robust und zeitlos elegant.
-  Updated: 2025-10-17T22:01:13Z
+  Updated: 2025-11-30T18:42:59Z
   Vendor: Modetrend
   Product Type: Wristwatches
   Availability: Available
@@ -76,7 +76,7 @@
     Availability: Available
     Price: 35,99 € EUR
 - [Nibosi Herren Automatikuhr | Militärstil mit Kalender & Wochentag](https://modetrend.org/products/products-nibosi-military-automatic-watch): Elegante Nibosi Herren Automatikuhr im Militärstil mit Kalender- und Wochentagsanzeige. Robuste und stilvolle Armbanduhr für Alltag und Abenteuer.
-  Updated: 2025-10-17T22:01:13Z
+  Updated: 2025-12-01T12:52:11Z
   Vendor: Modetrend
   Product Type: Wristwatches
   Availability: Available
@@ -100,7 +100,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/luxury-nibosi-automatic.webp?v=1758726042
     Price: 92,08 € EUR
 - [Pagani Design Herren Automatikuhr 43mm | Saphirglas & Keramiklünette](https://modetrend.org/products/products-pagani-design-automatic-43mm-sapphire-ceramic): Exklusive Pagani Design Herren Automatikuhr 43mm mit kratzfestem Saphirglas und Keramiklünette. Elegante Luxus-Armbanduhr für Männer, robust und präzise.
-  Updated: 2025-10-17T22:01:13Z
+  Updated: 2025-11-30T18:41:39Z
   Vendor: Modetrend
   Product Type: Wristwatches
   Availability: Available
@@ -124,7 +124,7 @@
     Availability: Available
     Price: 174,06 € EUR
 - [2er-Set Luxus Herrenuhr & Armband | Quarzuhr mit Kalender & Strass](https://modetrend.org/products/products-2er-set-luxus-herrenuhr-armband): Exklusives 2er-Set mit luxuriöser Herren Quarzuhr und passendem Armband. Mit Kalenderfunktion und funkelnden Strass-Details  stilvoll, elegant und perfekt als Geschenk.
-  Updated: 2025-11-02T08:45:03Z
+  Updated: 2025-11-30T18:43:20Z
   Vendor: Modetrend
   Product Type: Wristwatches
   Availability: Available
@@ -178,7 +178,7 @@
     Availability: Available
     Price: 95,55 € EUR
 - [Herren Freizeithemd kurzarm – knitterfrei & sommerleicht | Stilvoll & pflegeleicht](https://modetrend.org/products/herren-freizeithemd-kurzarm-knitterfrei-sommerkomfort): Entdecke das Herren Freizeithemd kurzarm: knitterfrei, atmungsaktiv und ideal für Sommerkomfort. Pflegeleichtes Hemd für Freizeit, Büro & Urlaub – stilvoll kombinierbar mit Jeans, Chinos oder Shorts.
-  Updated: 2025-11-28T11:10:56Z
+  Updated: 2025-11-30T18:44:27Z
   Vendor: Modetrend
   Product Type: 
   Availability: Available
@@ -282,7 +282,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/Sc08137a5b49c4ad5927c0caa87796357Q.webp?v=1751317453
     Price: 26,99 € EUR
 - [Lockeres Herren Blumenhemd im Oversize-Stil mit Kurzarm & Reverskragen](https://modetrend.org/products/lockeres-oversize-herren-blumenhemd-kurzarm-reverskragen): Modernes Oversize Herren Blumenhemd im Hongkong-Stil mit bequemem Kurzarm und klassischem Reverskragen. Ideal für den Sommer und Freizeit.
-  Updated: 2025-11-12T15:31:33Z
+  Updated: 2025-11-30T18:44:50Z
   Vendor: Modetrend
   Product Type: 
   Availability: Available
@@ -324,7 +324,7 @@
     Availability: Available
     Price: 36,58 € EUR
 - [Vintage Leinenhemd Herren  Kranichstickerei & Stehkragen](https://modetrend.org/products/products-vintage-leinenhemd-herren-kranichstickerei): Stilvolles Vintage Leinenhemd für Herren mit eleganter Kranichstickerei, Stehkragen und halben Ärmeln. Leicht, atmungsaktiv und perfekt für Sommer & Freizeit.
-  Updated: 2025-11-12T03:45:09Z
+  Updated: 2025-11-30T18:44:55Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
@@ -400,7 +400,7 @@
     Availability: Available
     Price: 50,35 € EUR
 - [Herren Sommerhemd mit Revers  Atmungsaktiv & Bürogeeignet](https://modetrend.org/products/leichtes-herren-sommerhemd-mit-revers-atmungsaktiv-lassig-und-ideal-fur-freizeit-und-buro-perfekt-fur-warme-tage-und-stilvolle-outfits): Leichtes Herren Sommerhemd mit Revers. Atmungsaktiv, lässig und ideal für Freizeit und Büro. Perfekt für warme Tage und stilvolle Outfits.
-  Updated: 2025-11-02T08:45:07Z
+  Updated: 2025-11-30T18:44:57Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
@@ -495,190 +495,190 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/Herren_Sommerhemd_mit_Revers_Atmungsaktiv_L_ssig_Vorderansicht.webp?v=1754945835
     Price: 40,59 € EUR
-- [Herren Sommerhemd mit Revers  Atmungsaktiv & Bürogeeignet](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet): Leichtes Herren Sommerhemd mit Revers. Atmungsaktiv, lässig und ideal für Freizeit und Büro. Perfekt für warme Tage und stilvolle Outfits.
-  Updated: 2025-11-02T08:52:53Z
+- [Herren Sommerhemd mit Revers  Atmungsaktiv](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv): Leichtes Herren Sommerhemd mit Revers. Atmungsaktiv, lässig und ideal für Freizeit und Büro. Perfekt für warme Tage und stilvolle Outfits.
+  Updated: 2025-11-30T08:04:02Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-frontansicht.webp?v=1754911295
-  - [DL0714 / M](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590155911513)
+  - [DL0714 / M](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590155911513)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-detail-kragen.webp?v=1754911437
     Price: 22,88 € EUR
-  - [DL0714 / L](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590155944281)
+  - [DL0714 / L](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590155944281)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-detail-kragen.webp?v=1754911437
     Price: 22,88 € EUR
-  - [DL0714 / XL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590155977049)
+  - [DL0714 / XL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590155977049)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-detail-kragen.webp?v=1754911437
     Price: 22,88 € EUR
-  - [DL0714 / XXL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156009817)
+  - [DL0714 / XXL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156009817)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-detail-kragen.webp?v=1754911437
     Price: 22,88 € EUR
-  - [DL0714 / XS](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156042585)
+  - [DL0714 / XS](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156042585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-detail-kragen.webp?v=1754911437
     Price: 22,88 € EUR
-  - [DL0714 / S](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156075353)
+  - [DL0714 / S](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156075353)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-detail-kragen.webp?v=1754911437
     Price: 22,88 € EUR
-  - [DL0716 / M](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156108121)
+  - [DL0716 / M](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156108121)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-im-buero.webp?v=1754911596
     Price: 22,88 € EUR
-  - [DL0716 / L](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156140889)
+  - [DL0716 / L](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156140889)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-im-buero.webp?v=1754911596
     Price: 22,88 € EUR
-  - [DL0716 / XL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156173657)
+  - [DL0716 / XL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156173657)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-im-buero.webp?v=1754911596
     Price: 22,88 € EUR
-  - [DL0716 / XXL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156206425)
+  - [DL0716 / XXL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156206425)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-im-buero.webp?v=1754911596
     Price: 22,88 € EUR
-  - [DL0715 / XXXL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156239193)
+  - [DL0715 / XXXL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156239193)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-frontansicht.webp?v=1754911295
     Price: 22,88 € EUR
-  - [DL0715 / 4XL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156271961)
+  - [DL0715 / 4XL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156271961)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-frontansicht.webp?v=1754911295
     Price: 22,88 € EUR
-  - [DL0716 / XS](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156304729)
+  - [DL0716 / XS](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156304729)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-im-buero.webp?v=1754911596
     Price: 22,88 € EUR
-  - [DL0716 / S](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156337497)
+  - [DL0716 / S](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156337497)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-im-buero.webp?v=1754911596
     Price: 22,88 € EUR
-  - [DL0715 / M](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156370265)
+  - [DL0715 / M](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156370265)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-frontansicht.webp?v=1754911295
     Price: 22,88 € EUR
-  - [DL0715 / L](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156403033)
+  - [DL0715 / L](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156403033)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-frontansicht.webp?v=1754911295
     Price: 22,88 € EUR
-  - [DL0715 / XL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156435801)
+  - [DL0715 / XL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156435801)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-frontansicht.webp?v=1754911295
     Price: 22,88 € EUR
-  - [DL0715 / XXL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156468569)
+  - [DL0715 / XXL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156468569)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-frontansicht.webp?v=1754911295
     Price: 22,88 € EUR
-  - [DL0714 / XXXL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156501337)
+  - [DL0714 / XXXL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156501337)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-detail-kragen.webp?v=1754911437
     Price: 22,88 € EUR
-  - [DL0714 / 4XL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156534105)
+  - [DL0714 / 4XL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156534105)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-detail-kragen.webp?v=1754911437
     Price: 22,88 € EUR
-  - [DL0715 / XS](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156566873)
+  - [DL0715 / XS](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156566873)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-frontansicht.webp?v=1754911295
     Price: 22,88 € EUR
-  - [DL0715 / S](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156599641)
+  - [DL0715 / S](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156599641)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-frontansicht.webp?v=1754911295
     Price: 22,88 € EUR
-  - [DL0718 / M](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156632409)
+  - [DL0718 / M](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156632409)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-am-strand..webp?v=1754911648
     Price: 22,88 € EUR
-  - [DL0718 / L](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156665177)
+  - [DL0718 / L](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156665177)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-am-strand..webp?v=1754911648
     Price: 22,88 € EUR
-  - [DL0718 / XL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156697945)
+  - [DL0718 / XL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156697945)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-am-strand..webp?v=1754911648
     Price: 22,88 € EUR
-  - [DL0718 / XXL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156730713)
+  - [DL0718 / XXL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156730713)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-am-strand..webp?v=1754911648
     Price: 22,88 € EUR
-  - [DL0717 / XXXL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156763481)
+  - [DL0717 / XXXL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156763481)
     Availability: Available
     Price: 22,88 € EUR
-  - [DL0717 / 4XL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156796249)
+  - [DL0717 / 4XL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156796249)
     Availability: Available
     Price: 22,88 € EUR
-  - [DL0718 / XS](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156829017)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-am-strand..webp?v=1754911648
-    Price: 22,88 € EUR
-  - [DL0718 / S](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156861785)
+  - [DL0718 / XS](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156829017)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-am-strand..webp?v=1754911648
     Price: 22,88 € EUR
-  - [DL0717 / M](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156894553)
+  - [DL0718 / S](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156861785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-am-strand..webp?v=1754911648
+    Price: 22,88 € EUR
+  - [DL0717 / M](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156894553)
     Availability: Available
     Price: 22,88 € EUR
-  - [DL0717 / L](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156927321)
+  - [DL0717 / L](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156927321)
     Availability: Available
     Price: 22,88 € EUR
-  - [DL0717 / XL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156960089)
+  - [DL0717 / XL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156960089)
     Availability: Available
     Price: 22,88 € EUR
-  - [DL0717 / XXL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590156992857)
+  - [DL0717 / XXL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590156992857)
     Availability: Available
     Price: 22,88 € EUR
-  - [DL0716 / XXXL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590157025625)
+  - [DL0716 / XXXL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590157025625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-im-buero.webp?v=1754911596
     Price: 22,88 € EUR
-  - [DL0716 / 4XL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590157058393)
+  - [DL0716 / 4XL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590157058393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-im-buero.webp?v=1754911596
     Price: 22,88 € EUR
-  - [DL0717 / XS](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590157091161)
+  - [DL0717 / XS](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590157091161)
     Availability: Available
     Price: 22,88 € EUR
-  - [DL0717 / S](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590157123929)
+  - [DL0717 / S](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590157123929)
     Availability: Available
     Price: 22,88 € EUR
-  - [DZ02 / XXXL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590157156697)
+  - [DZ02 / XXXL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590157156697)
     Availability: Available
     Price: 22,88 € EUR
-  - [DZ02 / 4XL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590157189465)
+  - [DZ02 / 4XL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590157189465)
     Availability: Available
     Price: 22,88 € EUR
-  - [DZ02 / M](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590157222233)
+  - [DZ02 / M](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590157222233)
     Availability: Available
     Price: 22,88 € EUR
-  - [DZ02 / L](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590157255001)
+  - [DZ02 / L](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590157255001)
     Availability: Available
     Price: 22,88 € EUR
-  - [DZ02 / XL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590157287769)
+  - [DZ02 / XL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590157287769)
     Availability: Available
     Price: 22,88 € EUR
-  - [DZ02 / XXL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590157320537)
+  - [DZ02 / XXL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590157320537)
     Availability: Available
     Price: 22,88 € EUR
-  - [DL0718 / XXXL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590157353305)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-am-strand..webp?v=1754911648
-    Price: 22,88 € EUR
-  - [DL0718 / 4XL](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590157386073)
+  - [DL0718 / XXXL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590157353305)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-am-strand..webp?v=1754911648
     Price: 22,88 € EUR
-  - [DZ02 / XS](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590157418841)
+  - [DL0718 / 4XL](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590157386073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sommerhemd-revers-atmungsaktiv-am-strand..webp?v=1754911648
+    Price: 22,88 € EUR
+  - [DZ02 / XS](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590157418841)
     Availability: Available
     Price: 22,88 € EUR
-  - [DZ02 / S](https://modetrend.org/products/products-herren-sommerhemd-revers-atmungsaktiv-buerogeeignet?variant=55590157451609)
+  - [DZ02 / S](https://modetrend.org/products/herren-sommerhemd-mit-revers-atmungsaktiv?variant=55590157451609)
     Availability: Available
     Price: 22,88 € EUR
 - [Herren Streetwear-Hemd – Stickerei & Blumenmuster, Lockerer Schnitt, Langarm](https://modetrend.org/products/products-herren-streetwear-hemd-stickerei-blumenmuster): Stylisches Herren Streetwear-Hemd mit Stickerei & Blumenmuster. Lockerer Schnitt, langärmlig und perfekt für einen trendigen Freizeit-Look.
-  Updated: 2025-11-02T08:52:54Z
+  Updated: 2025-11-30T18:45:32Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
@@ -700,7 +700,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-streetwear-hemd-stickerei-blumenmuster-aermeldetail.webp?v=1754910785
     Price: 41,78 € EUR
 - [Herren Arbeitsslipper  Rutschfest & Bequem für Garten & Bad](https://modetrend.org/products/products-herren-arbeitsslipper-blau-rutschfest): Rutschfeste Herren Arbeitsslipper in Blau  perfekt für Garten, Bad oder Freizeit. Bequem, leicht, wasserdicht und einfach zu reinigen.
-  Updated: 2025-11-02T09:26:53Z
+  Updated: 2025-11-30T18:46:45Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
@@ -866,7 +866,7 @@
     Availability: Available
     Price: 52,42 € EUR
 - [Herren Arbeitsslipper  Rutschfest, Bequem & Vielseitig für Garten & Bad](https://modetrend.org/products/products-herren-arbeitsslipper-rutschfest-garten-bad): Robuste und rutschfeste Herren Arbeitsslipper ideal für Gartenarbeit, Bad oder Freizeit. Leicht, bequem und einfach zu reinigen.
-  Updated: 2025-11-02T08:52:53Z
+  Updated: 2025-11-30T18:46:53Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
@@ -917,7 +917,7 @@
     Availability: Available
     Price: 39,94 € EUR
 - [Herren Freizeit-Sneaker  Schnürung & Sportlicher Plateau-Stil](https://modetrend.org/products/products-herren-freizeit-sneaker-schnuerung-plateau): Stylische Herren Freizeit-Sneaker mit moderner Schnürung und sportlichem Plateau-Stil. Bequem, vielseitig und perfekt für trendige Alltagslooks.
-  Updated: 2025-11-02T08:45:07Z
+  Updated: 2025-11-30T18:46:04Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
@@ -1004,7 +1004,7 @@
     Availability: Available
     Price: 49,38 € EUR
 - [Canvas-Sneaker – Atmungsaktiv, Leicht & Bequem mit Weicher Sohle](https://modetrend.org/products/products-canvas-sneaker-atmungsaktiv-leicht): Leichte Canvas-Sneaker mit atmungsaktivem Material und weicher Sohle für maximalen Komfort. Perfekt für Freizeit, Reisen & den täglichen Gebrauch.
-  Updated: 2025-11-02T08:45:05Z
+  Updated: 2025-11-30T18:46:24Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
@@ -1076,7 +1076,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/canvas-sneaker-weiss-atmungsaktiv-leicht-front.webp?v=1754761765
     Price: 35,99 € EUR
 - [Herren Outdoor-Sneaker Rutschfest, Wasserdicht & Atmungsaktiv](https://modetrend.org/products/products-herren-outdoor-sneaker-rutschfest-wasserdicht): Robuste Herren Outdoor-Sneaker mit rutschfester Sohle, wasserdichtem Material und atmungsaktivem Tragekomfort. Ideal für Wandern, Trekking & Freizeit.
-  Updated: 2025-11-02T08:48:20Z
+  Updated: 2025-11-30T18:46:25Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
@@ -1280,7 +1280,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/S4d5c5b4787f3401cafae3d337d681b40I.webp?v=1751317938
     Price: 44,54 € EUR
 - [Herren Sportsneaker  Bequem & Atmungsaktiv für Freizeit & Sport](https://modetrend.org/products/products-herren-sportsneaker-bequem-atmungsaktiv): Leichte Herren Sportsneaker mit atmungsaktivem Material und hohem Tragekomfort. Ideal für Freizeit, Fitness & Alltag. In mehreren Farben erhältlich.
-  Updated: 2025-11-02T08:52:53Z
+  Updated: 2025-11-30T18:47:14Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
@@ -1318,7 +1318,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sportsneaker-bequem-atmungsaktiv-schwarz-vorderansicht.webp?v=1754756814
     Price: 50,74 € EUR
 - [Herren Sneaker  Rutschfest & Modisch mit Dicker Sohle](https://modetrend.org/products/products-herren-sneaker-dicke-sohle-rutschfest-modisch): Stylische Herren Sneaker mit dicker, rutschfester Sohle. Bequem, langlebig und perfekt für Freizeit, Alltag & Streetwear. Jetzt in verschiedenen Farben.
-  Updated: 2025-11-02T08:52:53Z
+  Updated: 2025-11-30T18:46:34Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
@@ -1372,7 +1372,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/herren-sneaker-dicke-sohle-rutschfest-schwarz-vorderansicht.webp?v=1754755436
     Price: 61,18 € EUR
 - [Baseballkappe – Dünn, Atmungsaktiv & Ultraleicht | Modisches Design](https://modetrend.org/products/products-baseballkappe-duenn-atmungsaktiv-ultraleicht): Leichte & atmungsaktive Baseballkappe im modischen Design. Dünnes, ultraleichtes Material – perfekt für Sommer, Sport & Freizeit.
-  Updated: 2025-11-02T08:45:05Z
+  Updated: 2025-11-30T18:41:17Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
@@ -1397,8 +1397,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/leichte-baseballcap-schwarz-seitenprofil-sportlich.webp?v=1754753834
     Price: 113,18 € EUR
-- [unisex baseballkappe  retro stil mit buchstabenstickerei](https://modetrend.org/products/products-unisex-retro-baseballkappe-buchstabenstickerei): Unisex Baseballkappe im Retro Stil mit hochwertiger Buchstabenstickerei. Verstellbar, bequem und perfekt für Freizeit, Streetwear & Outdoor.
-  Updated: 2025-10-17T22:01:16Z
+- [Unisex Baseballkappe Retro mit Buchstabenstickerei | Verstellbar | Modetrend](https://modetrend.org/products/products-unisex-retro-baseballkappe-buchstabenstickerei): Unisex Baseballkappe im Retro Stil mit hochwertiger Buchstabenstickerei. Verstellbar, bequem und perfekt für Freizeit, Streetwear & Outdoor.
+  Updated: 2025-11-30T18:39:57Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
@@ -1419,7 +1419,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/retro-baseballcap-schwarz-seitenprofil-stickerei-detail.webp?v=1754753146
     Price: 26,38 € EUR
 - [Unisex Vintage Denim Baseball Cap  Verstellbar & Lässig für Draußen](https://modetrend.org/products/products-unisex-vintage-denim-baseball-cap-verstellbar-laessig): Unisex Baseball Cap aus hochwertigem Vintage Denim, verstellbar und lässig für Outdoor-Aktivitäten. Perfekt für Freizeit, Reisen & Streetwear.
-  Updated: 2025-10-17T22:01:16Z
+  Updated: 2025-11-30T18:40:28Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
@@ -1449,7 +1449,7 @@
     Availability: Available
     Price: 19,53 € EUR
 - [Unisex Cord Baseball Cap  Mit Bärenstickerei & Sonnenschutz](https://modetrend.org/products/products-unisex-cord-baseball-cap-baerenstickerei-sonnenschutz): Stylische Unisex Cord Baseball Cap mit niedlicher Bärenstickerei und effektivem Sonnenschutz. Perfekt für Freizeit, Outdoor & Streetwear.
-  Updated: 2025-10-17T22:01:16Z
+  Updated: 2025-11-30T18:40:43Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
@@ -1477,7 +1477,7 @@
     Availability: Available
     Price: 39,99 € EUR
 - [Herren Snapback Baseball Cap  Sommerlich & mit Sonnenschutz](https://modetrend.org/products/products-herren-snapback-baseball-cap-sommerlich-sonnenschutz): Leichte Herren Snapback Baseball Cap für den Sommer mit effektivem Sonnenschutz. Stylisch, verstellbar und ideal für Freizeit, Outdoor & Streetwear.
-  Updated: 2025-11-02T08:52:53Z
+  Updated: 2025-11-30T18:40:55Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
@@ -1492,7 +1492,7 @@
     Availability: Available
     Price: 19,99 € EUR
 - [Unisex Baseball Cap aus Cord  Bestickt & Lässig für Draußen](https://modetrend.org/products/products-unisex-baseball-cap-aus-cord-bestickt-laessig-draussen): Stylische Unisex Baseball Cap aus weichem Cord mit Stickerei. Lässiges Design, ideal für Outdoor, Streetwear und Freizeit. Jetzt entdecken!
-  Updated: 2025-10-17T22:01:17Z
+  Updated: 2025-11-30T18:41:06Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
@@ -1505,8 +1505,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/Sb9762ea8e0ad4127a32e81add34aa44eC.webp?v=1751318804
     Price: 24,99 € EUR
-- [Herren Baseball Cap  Lässig & Verstellbar im Hip-Hop-Stil](https://modetrend.org/products/herren-baseball-cap-lassig-verstellbar-im-hip-hop-stil): Stylische Herren Baseball Cap im lässigen Hip-Hop-Stil. Verstellbar, bequem & perfekt für Streetwear-Looks. Jetzt online entdecken!
-  Updated: 2025-11-02T08:45:07Z
+- [Herren Baseball Cap Hip-Hop Stil | Verstellbar & Lässig | Modetrend](https://modetrend.org/products/herren-baseball-cap-lassig-verstellbar-im-hip-hop-stil): Stylische Herren Baseball Cap im lässigen Hip-Hop-Stil. Verstellbar, bequem & perfekt für Streetwear-Looks. Jetzt online entdecken!
+  Updated: 2025-11-30T18:40:15Z
   Vendor: Modetrend
   Product Type: Baseball Cap / Kopfbedeckung
   Availability: Available
@@ -1556,7 +1556,7 @@
     Availability: Available
     Price: 33,14 € EUR
 - [Herren Poloshirt Langarm mit Streifen | Slim Fit | Modetrend](https://modetrend.org/products/products-herren-langarm-poloshirt-streifen-baumwolle-reissverschlussherren-langarm-poloshirt-mit-streifen-1-4-rei-verschluss-baumwolle-slim-fit-golfshirt): Sportliches Langarm-Poloshirt für Herren mit Streifen-Design und 1/4 Reißverschluss. Aus Baumwolle, Slim Fit - ideal für Golf, Freizeit und Alltag.
-  Updated: 2025-11-28T16:47:22Z
+  Updated: 2025-11-30T18:45:46Z
   Vendor: Modetrend 
   Product Type: Herren Langarm Poloshirt mit Streifen | 1/4 Reißverschluss, Baumwolle, Slim Fit Golfshirt
   Availability: Available
@@ -1707,7 +1707,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/Sfca500dfd1a14c63856408b3bd6f2a406.webp?v=1760193129
     Price: 24,99 € EUR
 - [Herren Poloshirt Kurzarm 100% Baumwolle](https://modetrend.org/products/products-klassisches-poloshirt-herren-100-baumwolle-mit-sticklogo): Klassisches Herren-Poloshirt aus 100% Baumwolle mit Sticklogo. Atmungsaktiv, bequem und zeitlos - perfekt für Sommer, Freizeit und Business-Casual.
-  Updated: 2025-11-28T16:43:29Z
+  Updated: 2025-11-30T18:46:02Z
   Vendor: Modetrend 
   Product Type: Klassisches Poloshirt für Herren 100 % Baumwolle, gesticktes Logo, lässiges Sommer-Kurzarmshirt
   Availability: Available
@@ -1856,10 +1856,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/Sd912555ca9724b8fb4807020106cbfa6C.webp?v=1760193130
     Price: 36,99 € EUR
-- [Damen Kniehohe Stiefel mit Spitzem Zeh  Elegante High-Heel Cowgirl-Optik](https://modetrend.org/products/women-knee-high-boots-2024-winter-pointed-toe-boots-fashion-lady-high-heels-shoes-zipper-western-cowgirl-tall-boots-botas-mujer): Stilvoll unterwegs Verleihe deinem Outfit mit diesen kniehohen Stiefeln mit spitzem Zeh eine elegante Note. Modernes Design trifft auf klassischen Western-Charme ideal zu Jeans, Röcken oder Kleidern. Eigenschaften Spitzer Zeh für eine schlanke, raffinierte Silhouette Praktischer Reißverschluss an der Seite für leichtes Anziehen Bequemer Absatz mit stabiler Sohle Weiches Innenfutter für angenehmen Tragekomfort Hochwertige Materialien für lange Haltbarkeit Warum du sie lieben wirst Diese Stiefel verbinden modisches Design mit Alltagstauglichkeit – ein vielseitiges Must-have, das jedem Look mehr Ausdruck verleiht. Pflege: Mit einem weichen Tuch abwischen. Längere Feuchtigkeit vermeiden. ✨ Begrenzte Verfügbarkeit sichere dir jetzt dein Paar! Kaufen mit Vertrauen: Sichere weltweite Zahlungen • Kostenloser Versand international • 30 Tage Rückgabe • 24/7 Support
-  Updated: 2025-11-03T03:11:41Z
+- [Damen High Heel Stiefel Kniehoch - Spitzer Zeh Cowgirl-Stil | Modetrend](https://modetrend.org/products/women-knee-high-boots-2024-winter-pointed-toe-boots-fashion-lady-high-heels-shoes-zipper-western-cowgirl-tall-boots-botas-mujer): Elegante kniehohe High Heel Stiefel mit spitzem Zeh im Cowgirl-Stil. Premium-Qualität, bequemer Reißverschluss, perfekt für Winter & Alltag. Jetzt shoppen!
+  Updated: 2025-12-01T12:50:24Z
   Vendor: Modetrend 
-  Product Type: 
+  Product Type: Damenstiefel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/S2dcc4f412a044065b7a28ac303c4f9ec6.webp?v=1761770347
   - [Brown / 37](https://modetrend.org/products/women-knee-high-boots-2024-winter-pointed-toe-boots-fashion-lady-high-heels-shoes-zipper-western-cowgirl-tall-boots-botas-mujer?variant=56508329197913)
@@ -1935,14 +1935,14 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/S72f541ff992846e3919dc5ecec56b40fK.webp?v=1761770347
     Price: 59,99 € EUR
 - [Übergroße Modebrille Neutral Design | Stylische Unisex Brille | ModeTrend](https://modetrend.org/products/products-uebergrosse-modebrille-neutral-design): Stylische übergroße Modebrille mit neutralem Design. Must-Have Accessoire für Damen & Herren – ideal für Casual Looks. Jetzt bei ModeTrend shoppen!
-  Updated: 2025-11-05T11:24:04Z
+  Updated: 2025-12-01T12:48:48Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/S24ea976b995943bd8cee10961ecccd629.webp?v=1761770539
   Price: 39,65 € EUR
 - [Damen Modebrille | Stylisches Accessoire im minimalistischen Design | ModeTrend](https://modetrend.org/products/products-damen-modebrille-minimalistisches-design): Stylische Damen Modebrille mit elegantem, minimalistischem Design. Perfektes Accessoire für Freizeit & Alltag. Jetzt Modebewusstsein zeigen – bei ModeTrend!
-  Updated: 2025-11-05T08:04:45Z
+  Updated: 2025-12-01T12:46:50Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -1971,7 +1971,7 @@
     Availability: Available
     Price: 29,99 € EUR
 - [Quadratische Mode Sonnenbrillen – Trendige Unisex Brillen mit Klarglas für Männer & FrauenQuadratische Mode Sonnenbrillen – Trendige Unisex Brillen mit Klarglas für Männer & FrauenQuadratische Mode Sonnenbrillen – Trendige Unisex Brillen mit Klarglas für Männer & Frauen](https://modetrend.org/products/products-quadratische-mode-sonnenbrillen-unisex): Moderne quadratische Sonnenbrillen für Männer & Frauen. Stylisches Unisex Design mit klaren Gläsern – perfekt für Alltag & Streetstyle. Jetzt bei ModeTrend!
-  Updated: 2025-11-28T17:08:13Z
+  Updated: 2025-12-01T12:44:52Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2015,14 +2015,14 @@
     Availability: Available
     Price: 35,99 € EUR
 - [Retro Oval Sonnenbrillen 4er Set | Festival Brillen Unisex | ModeTrend](https://modetrend.org/products/products-retro-oval-sonnenbrillen-4er-set): Stylische Retro Oval Sonnenbrillen im 4er Set. Bequem, trendig & perfekt für Festivals, Partys und Streetstyle. Jetzt bei ModeTrend entdecken!
-  Updated: 2025-11-05T02:26:58Z
+  Updated: 2025-12-01T12:43:42Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/S88e1f21b2b7c4bc88213007e0ebe68be3.webp?v=1761818568
   Price: 23,67 € EUR
 - [Unisex Mode-Accessoire | Must-Have für Männer & Frauen | ModeTrend](https://modetrend.org/products/products-unisex-mode-accessoire-must-have): Trendiges Mode-Accessoire für Männer & Frauen. Erhältlich in mehreren Farben – perfekt für Fotos, Reisen & stilvolle Outfits. Jetzt bei ModeTrend!
-  Updated: 2025-11-05T03:14:51Z
+  Updated: 2025-12-01T12:36:27Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2044,7 +2044,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/Scd7bc0be9e704cbeb324c3f9325144f1K.webp?v=1761770543
     Price: 18,99 € EUR
 - [Smartwatch Damen & Herren | Bluetooth Anrufe & Gesundheitsfunktionen | ModeTrend](https://modetrend.org/products/products-smartwatch-damen-herren-bluetooth-gesundheit): 1.44 Zoll Smartwatch für Damen & Herren mit Bluetooth-Anrufen, Blutdruck- & Sauerstoffmessung. Kompatibel mit Android & iOS  entdecke ModeTrend!
-  Updated: 2025-11-05T02:10:50Z
+  Updated: 2025-12-01T12:40:41Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2086,7 +2086,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/S72b22fda606949299b5826e0ce52b8ceM_7a87a711-ff4d-49a4-a000-8a1ae7a3e77d.webp?v=1761822498
     Price: 39,99 € EUR
 - [Damen Smartwatch 1.39 Zoll | Fitnessuhr mit Herzfrequenz & Zyklus-Tracking | ModeTrend](https://modetrend.org/products/products-damen-smartwatch-1-39-fitnessuhr-zyklus-tracking): Elegante Damen Smartwatch 1.39 Zoll mit Herzfrequenz-, Blutdruck- & Zyklus-Tracking. Wasserdicht & kompatibel mit Android & iOS  jetzt bei ModeTrend!
-  Updated: 2025-11-05T02:52:01Z
+  Updated: 2025-12-01T12:31:23Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2108,7 +2108,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/Sa4fda98179f348299b1d946e1df2c2b9W_8dd800dc-6551-4d71-8ba9-6ca48212c742.webp?v=1761822499
     Price: 54,08 € EUR
 - [Damen Smartwatch mit Bluetooth & IP68 Wasserschutz | Fitness Tracker Uhr | ModeTrend](https://modetrend.org/products/products-damen-smartwatch-bluetooth-ip68-fitnessuhr): Elegante Damen Smartwatch mit Bluetooth-Anrufen, IP68 Wasserschutz & Fitness-Tracking. Individuelles Watch Face & lange Akkulaufzeit – entdecke ModeTrend!
-  Updated: 2025-11-06T17:14:26Z
+  Updated: 2025-12-01T12:26:08Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2141,7 +2141,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/Sffbfe225d0eb46e1be27748b904858e78_fddfe158-8af4-4288-a80b-19142cbd40b0.webp?v=1761822500
     Price: 72,06 € EUR
 - [LIGE Damen Smartwatch mit Bluetooth | Wasserdichte Fitnessuhr | ModeTrend](https://modetrend.org/products/products-lige-damen-smartwatch-bluetooth-fitnessuhr): LIGE Smartwatch für Damen mit Bluetooth-Anrufen, Touchscreen & Fitness-Tracking. Wasserdicht, elegant & leistungsstark – entdecke ModeTrend!
-  Updated: 2025-11-24T10:36:18Z
+  Updated: 2025-12-01T12:23:11Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2167,7 +2167,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/S1451819bd7ef4267ab500a0fcce74168z_40da1a86-2cb9-4891-875f-2f8d3aec44b5.webp?v=1761822501
     Price: 47,55 € EUR
 - [Damen Smartwatch mit GPS & Bluetooth | Wasserdichte Fitnessuhr | ModeTrend](https://modetrend.org/products/products-damen-smartwatch-gps-bluetooth-fitnessuhr): Elegante Damen Smartwatch mit 2.01 Zoll Display, GPS, Bluetooth-Anrufen & Fitness-Tracking. Wasserdicht & stilvoll – jetzt bei ModeTrend entdecken!
-  Updated: 2025-11-05T01:01:52Z
+  Updated: 2025-12-01T12:21:09Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2192,10 +2192,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/S636600c450504e179135c2db1010b127i_e0bd8c03-6e60-479f-9469-6fde7d5af63b.webp?v=1761822502
     Price: 71,05 € EUR
-- [Damen Stiefel in Rosa Krokodiloptik mit High Heels | ModeTrend](https://modetrend.org/products/products-damen-stiefel-rosa-krokodiloptik-high-heels): Exklusive Damenstiefel in rosa Krokodiloptik mit spitzem Zeh und Stilettoabsatz. Elegant, auffällig & bequem – perfekt für Winter & Street Style
-  Updated: 2025-11-23T22:43:03Z
+- [High Heel Stiefeletten Krokodiloptik - Spitzer Zeh & Reißverschluss | Modetrend](https://modetrend.org/products/products-damen-stiefel-rosa-krokodiloptik-high-heels): Luxuriöse High Heel Stiefeletten in Krokodiloptik mit spitzem Zeh. Stiletto-Absatz, eleganter Reißverschluss, perfekt für besondere Anlässe. Premium-Qualität!
+  Updated: 2025-12-01T12:16:01Z
   Vendor: Modetrend 
-  Product Type: 
+  Product Type: Damenstiefel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/Se0784c0cea3e48e1a616590f16073d90L_0953d59b-1005-49ed-abf5-666ca5c28077.webp?v=1761822909
   - [Pink / 45](https://modetrend.org/products/products-damen-stiefel-rosa-krokodiloptik-high-heels?variant=56511503663449)
@@ -2251,7 +2251,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/S5873389b01804fdc85eee8d3a7f23d4an_81e30e5d-c14a-4eab-9e15-d9b3ea52e1de.webp?v=1761822908
     Price: 127,74 € EUR
 - [Damen Stiefeletten mit Spitzem Zeh & Blockabsatz | ModeTrend](https://modetrend.org/products/products-damen-spitzer-zeh-blockabsatz-stiefeletten): Elegante Damen Stiefeletten aus PU mit spitzem Zeh und Blockabsatz. Komfortabel, modern und vielseitig kombinierbar. Kostenloser Versand & 30 Tage Rückgabe.
-  Updated: 2025-11-24T10:41:27Z
+  Updated: 2025-12-01T12:10:52Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2321,7 +2321,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/Sfece280d4ffb4b68a3310abf123316911_dcc8b3cf-89b5-4134-a4d0-11c597822489.webp?v=1761822910
     Price: 45,99 € EUR
 - [Trendige Gothic-Boots für Damen – Elegante Stiefel](https://modetrend.org/products/damen-lederstiefel-mit-spitzem-zeh-elegant-gothic-winterbootsdamen-stiefel-mit-spitzem-zeh-modische-lederstiefel-mit-absatz-elegante-sexy-winterstiefel-niedriger-absatz-trendige-gothic-boots-f-r-damen): Entdecke die trendigen Gothic-Boots für Damen, elegante Damenstiefel mit spitzem Zeh für Herbst & Winter – bequem und stilvoll!
-  Updated: 2025-11-22T07:47:10Z
+  Updated: 2025-12-01T12:09:44Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2435,7 +2435,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/S0178db4fa8434c8c8162e254995c4e81H_aac1b506-3e70-47f9-b706-f7549bd36c0e.webp?v=1761822910
     Price: 55,40 € EUR
 - [Damen Oversize Hoodie Warmer Kapuzenpullover Winter 2025 | Modetrend](https://modetrend.org/products/products-damen-oversize-hoodie-winter-kapuzenpulloverdamen-oversize-hoodie-warmer-kapuzenpullover-f-r-herbst-winter-l-ssiges-sweatshirt-mit-langarm-streetwear-stil): Entdecke bequeme <strong>Damen Oversize Hoodies</strong> bei Modetrend. Dicke, warme Sweatshirts für Herbst & Winter perfekt für Freizeit, Alltag und Streetwea
-  Updated: 2025-11-22T07:42:52Z
+  Updated: 2025-12-01T12:04:59Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2489,7 +2489,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/oversize-hoodie-damen-outfit..webp?v=1762185013
     Price: 30,23 € EUR
 - [Damen Hoodie mit Aufdruck – Lässiger Kapuzenpullover Frühlin| Modetrend](https://modetrend.org/products/products-damen-hoodie-langarm-sportbluse-fashion-kapuzenpullover-locker-bequem): Entdecke trendige <strong>Damen Hoodies mit Aufdruck</strong> von Modetrend. Bequeme, stylische Sweatshirts für Frühling und Alltag – ideal für Freizeit & Fitness.
-  Updated: 2025-11-22T09:39:50Z
+  Updated: 2025-12-01T12:02:14Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2639,7 +2639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/damen-hoodie-langarm-aufdruck.webp?v=1762184045
     Price: 29,99 € EUR
 - [Damen Strickkleid mit Knopfleiste – Elegantes Zopfmuster-Minikleid für Herbst & Winter](https://modetrend.org/products/produkte-damen-strickkleid-elegantes-herbst-winter-outfit): Elegantes Damen Strickkleid mit Zopfmuster und Knopfleiste – langärmlig, figurbetont und perfekt für Herbst und Winter. Jetzt entdecken
-  Updated: 2025-11-22T10:48:48Z
+  Updated: 2025-12-01T11:59:42Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2657,7 +2657,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/damen-minikleid-knopfleiste-wintermode.webp?v=1762183420
     Price: 34,99 € EUR
 - [Damen Kleid mit quadratischem Ausschnitt  Figurbetontes Sommerkleid mit kurzen Ärmeln](https://modetrend.org/products/products-damenkleid-quadratischer-ausschnitt-figurbetont-sommerwomens-plain-square-neck-bodycon-dress-casual-short-sleeve-long-dress-for-summer-ladies-clothes-for-daily-wear-womens-dress): Sommerliches Damenkleid mit quadratischem Ausschnitt – figurbetont, kurzärmelig und perfekt für Alltag, Freizeit und Urlaub. Elegantes, schlichtes Design
-  Updated: 2025-11-22T07:41:36Z
+  Updated: 2025-12-01T11:55:11Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2694,34 +2694,34 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/Saab3a3635cd04b67bc739d765c9f6c05G_9f243d07-5f6c-4061-9a3d-51799fd75396.webp?v=1761823143
     Price: 29,99 € EUR
-- [Damen-Body mit V-Ausschnitt – Gerippt, figurbetont & stylisch für Herbst](https://modetrend.org/products/products-damen-body-v-ausschnitt-gerippt-herbstmodedamen-body-mit-v-ausschnitt-und-langen-rmeln-herbstmode-gerippt-figurbetont-l-ssiges-oberteil-f-r-alltag-date-streetwear-basic-leotards): Eleganter Damen-Body mit V-Ausschnitt – gerippt, figurbetont und perfekt für Herbstmode 2025. Ideal für Alltag, Dates und Streetstyle.
-  Updated: 2025-11-22T07:41:06Z
+- [Damen-Body mit V-Ausschnitt – Gerippt, figurbetont & stylisch für Herbst](https://modetrend.org/products/damen-body-mit-v-ausschnitt-und-langen-armeln): Eleganter Damen-Body mit V-Ausschnitt – gerippt, figurbetont und perfekt für Herbstmode 2025. Ideal für Alltag, Dates und Streetstyle.
+  Updated: 2025-12-01T11:50:49Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/damen-body-v-ausschnitt.webp?v=1762180685
-  - [apricot / XS](https://modetrend.org/products/products-damen-body-v-ausschnitt-gerippt-herbstmodedamen-body-mit-v-ausschnitt-und-langen-rmeln-herbstmode-gerippt-figurbetont-l-ssiges-oberteil-f-r-alltag-date-streetwear-basic-leotards?variant=56511512379737)
+  - [apricot / XS](https://modetrend.org/products/damen-body-mit-v-ausschnitt-und-langen-armeln?variant=56511512379737)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/damen-body-v-ausschnitt.webp?v=1762180685
     Price: 29,95 € EUR
-  - [apricot / M](https://modetrend.org/products/products-damen-body-v-ausschnitt-gerippt-herbstmodedamen-body-mit-v-ausschnitt-und-langen-rmeln-herbstmode-gerippt-figurbetont-l-ssiges-oberteil-f-r-alltag-date-streetwear-basic-leotards?variant=56511512412505)
+  - [apricot / M](https://modetrend.org/products/damen-body-mit-v-ausschnitt-und-langen-armeln?variant=56511512412505)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/damen-body-v-ausschnitt.webp?v=1762180685
     Price: 29,95 € EUR
-  - [apricot / S](https://modetrend.org/products/products-damen-body-v-ausschnitt-gerippt-herbstmodedamen-body-mit-v-ausschnitt-und-langen-rmeln-herbstmode-gerippt-figurbetont-l-ssiges-oberteil-f-r-alltag-date-streetwear-basic-leotards?variant=56511512445273)
+  - [apricot / S](https://modetrend.org/products/damen-body-mit-v-ausschnitt-und-langen-armeln?variant=56511512445273)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/damen-body-v-ausschnitt.webp?v=1762180685
     Price: 29,95 € EUR
-  - [apricot / XL](https://modetrend.org/products/products-damen-body-v-ausschnitt-gerippt-herbstmodedamen-body-mit-v-ausschnitt-und-langen-rmeln-herbstmode-gerippt-figurbetont-l-ssiges-oberteil-f-r-alltag-date-streetwear-basic-leotards?variant=56511512478041)
+  - [apricot / XL](https://modetrend.org/products/damen-body-mit-v-ausschnitt-und-langen-armeln?variant=56511512478041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/damen-body-v-ausschnitt.webp?v=1762180685
     Price: 29,95 € EUR
-  - [apricot / L](https://modetrend.org/products/products-damen-body-v-ausschnitt-gerippt-herbstmodedamen-body-mit-v-ausschnitt-und-langen-rmeln-herbstmode-gerippt-figurbetont-l-ssiges-oberteil-f-r-alltag-date-streetwear-basic-leotards?variant=56511512510809)
+  - [apricot / L](https://modetrend.org/products/damen-body-mit-v-ausschnitt-und-langen-armeln?variant=56511512510809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/damen-body-v-ausschnitt.webp?v=1762180685
     Price: 29,95 € EUR
 - [Figurbetontes Transparentes Minikleid – Modetrend](https://modetrend.org/products/products-schulterfreies-transparentes-minikleid-damenmodische-schulterfreie-transparente-minikleider-f-r-damen-hei-e-sexy-partykleider-mit-langen-rmeln-raffungen-und-figurbetonter-einfarbiger-robe): Heiße Partys? Dieses Schulterfreie Minikleid sorgt für Aufsehen✓ Jetzt entdecken & stilvoll auftreten!
-  Updated: 2025-11-22T07:40:43Z
+  Updated: 2025-12-01T11:46:08Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2791,7 +2791,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/schulterfreies-transparentes-minikleid-4.webp?v=1762179722
     Price: 24,99 € EUR
 - [Damen Boho A-Linie Minikleid – Modetrend](https://modetrend.org/products/products-sommerkleid-damen-boho-v-ausschnitt-rueschensommerkleid-f-r-damen-l-ssig-im-boho-stil-v-ausschnitt-kurze-rmel-r-schen-lockere-a-linie-minikleid-elegant-perfekt-f-r-strandpartys-und-streetstyle): Luftiges, elegantes Sommerkleid mit Rüschen & V-Ausschnitt✓ Für Streetstyle & Ferien – gleich entdecken!
-  Updated: 2025-11-22T07:40:18Z
+  Updated: 2025-12-01T11:40:31Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2897,7 +2897,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/damen-sommermode-boho.webp?v=1762178827
     Price: 27,99 € EUR
 - [Modetrend: Urlaubskleid mit Rundhalsausschnitt](https://modetrend.org/products/products-damenmode-einfarbiges-kurzarmkleid-rundhalsausschnittdamenmode-einfarbiges-kurz-rmeliges-kleid-mit-rundhalsausschnitt-l-ssig-elegant-locker-geschnitten-perfekt-f-r-strandpartys-und-urlaub): Locker geschnittenes Kurzarmkleid für Sommer & Ferien✓ Einfach anziehen & wohlfühlen – gleich sichern!
-  Updated: 2025-11-22T07:39:40Z
+  Updated: 2025-12-01T11:43:31Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2963,7 +2963,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/damen-rundhalskleid.webp?v=1762177471
     Price: 46,99 € EUR
 - [Vintage Chiffon Minikleid mit Rüschen](https://modetrend.org/products/schulterfreies-rueschenkleid-chiffon-sommer-vintage-chulterfreies-r-schenkleid-abendkleid-aus-chiffon-sommer-vintage-outfit-f-r-damen-sexy-figurbetontes-plissiertes-minikleid): Elegantes, schulterfreies Plissiertes Kleid aus Chiffon✓ Ideal für Sommer-Abende – klick & bestelle!
-  Updated: 2025-11-22T07:39:19Z
+  Updated: 2025-11-30T18:49:30Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2989,7 +2989,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/schulterfreies-rueschenkleid-vorderansicht..webp?v=1762176717
     Price: 39,99 € EUR
 - [Schulterfreies Minikleid mit halben Ärmeln für Damen | Elegant](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider): Entdecke ein figurbetontes, trägerloses Minikleid mit Schleife & Falten✓ Perfekt für deine nächste Party – jetzt shoppen!
-  Updated: 2025-11-23T07:05:19Z
+  Updated: 2025-12-01T11:23:26Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -3094,7 +3094,7 @@
 ## Collections
 
 - [Kleidungsstücke für jeden Anlass – APPPlaza Bestseller Trendmode](https://modetrend.org/collections/kleidungsstucke-fur-jeden-anlass): Entdecken Sie die APPPlaza-Kollektion: Kleidungsstücke für jeden Anlass. Von Bestseller-Trendmode bis zu zeitlosen Klassikern – finden Sie die perfekte Garderobe für jede Gelegenheit!
-  Updated: 2025-11-27T23:10:50Z
+  Updated: 2025-11-30T06:22:44Z
   Total Products: 53
 - [Einkauf - FreeWave Fashion](https://modetrend.org/collections/einkauf): - FreeWave Fashion
   Updated: 2025-06-18T04:42:38Z
@@ -3112,20 +3112,20 @@
   Updated: 2025-10-17T22:01:13Z
   Total Products: 6
 - [Vervevoll](https://modetrend.org/collections/vervevoll)
-  Updated: 2025-11-21T18:10:58Z
+  Updated: 2025-11-29T19:59:00Z
   Total Products: 10
-- [Sternentasche](https://modetrend.org/collections/sternentasche)
-  Updated: 2025-10-29T22:48:58Z
-  Total Products: 0
 - [Glanzsicht](https://modetrend.org/collections/glanzsicht)
-  Updated: 2025-11-04T17:38:24Z
-  Total Products: 3
+  Updated: 2025-12-01T00:13:00Z
+  Total Products: 5
 - [Traumtritt](https://modetrend.org/collections/traumtritt)
-  Updated: 2025-11-23T22:41:15Z
+  Updated: 2025-11-30T06:22:44Z
   Total Products: 4
 - [Zeitglanz](https://modetrend.org/collections/zeitglanz)
   Updated: 2025-11-23T22:36:05Z
   Total Products: 5
+- [Sommerhemden & Sweatshirts für Herren & Damen | Modetrend](https://modetrend.org/collections/sommerhemden-sweatshirts): Entdecken Sie atmungsaktive Sommerhemden, knitterfreie Freizeithemden & stylische Sweatshirts. Perfekt für Urlaub, Freizeit & Sommer. Jetzt bei Modetrend!
+  Updated: 2025-11-30T07:10:01Z
+  Total Products: 8
 
 ## Store Pages
 
