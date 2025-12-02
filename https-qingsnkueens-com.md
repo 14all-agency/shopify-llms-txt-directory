@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-09-14T12:12:19Z
 - Contact Email: golyoltd@gmail.com
-- Updated At: 2025-11-30T00:01:44.085Z
+- Updated At: 2025-12-02T00:02:10.398Z
 
 ## Products
 
@@ -1786,7 +1786,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_af2d89c1-8d5f-4072-ae47-478949448c16.png?v=1750535397
     Price: $25.99 USD
 - [Northern Echo Sweater](https://qingsnkueens.com/products/northern-echo-sweater): Wrap yourself in the heritage of the Highlands with the Northern Echo Sweater by Qings and Kueens — a tribute to traditional craftsmanship and rugged elegance. Handcrafted in Scotland from 100% pure Shetland wool, this sweater carries the legacy of the region's resilient sheep, bred to withstand the unforgiving winter chill. What sets this piece apart is its uniquely soft texture, achieved through the centuries-old Scottish brushing technique using natural teasels — a process that enhances both comfort and character. Finished with fine ribbing at the cuffs and hem to lock in warmth and structure, this sweater is as practical as it is timeless. Whether you're strolling through frost-laced woods or layering up in the city, the Northern Echo Sweater delivers unmatched warmth, texture, and a story woven into every stitch.
-  Updated: 2025-11-26T07:13:03Z
+  Updated: 2025-12-01T07:06:20Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -5092,7 +5092,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Foldable Decorated Pop Up Christmas Tree | Pre-Lit Artificial Tree](https://qingsnkueens.com/products/foldable-pop-up-decorated-chiristmas-tree): Add festive elegance with this pre-lit foldable pop-up Christmas tree, pre-decorated with ornaments, ribbons, and glowing LED lights easy setup and storage.
-  Updated: 2025-11-26T07:13:14Z
+  Updated: 2025-11-30T21:23:43Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -5114,7 +5114,7 @@
     Price: $109.00 USD
   - [Red / 1.8M (180cm)](https://qingsnkueens.com/products/foldable-pop-up-decorated-chiristmas-tree?variant=47244782731431)
     Availability: Available
-    Price: $135.00 USD
+    Price: $140.00 USD
 - [iPhone Pocket – Premium Knit Phone Pouch for All iPhones](https://qingsnkueens.com/products/iphone-pocket): Keep your iPhone safe in style with the iPhone Pocket – lightweight, durable knit phone pouch for travel, commuting, everyday use & gifting.
   Updated: 2025-11-26T07:13:15Z
   Vendor: Qings & Kueens
@@ -5340,7 +5340,7 @@
   Updated: 2025-11-26T07:12:58Z
   Total Products: 0
 - [Hoodies](https://qingsnkueens.com/collections/hoodies)
-  Updated: 2025-11-28T12:27:20Z
+  Updated: 2025-12-01T12:28:59Z
   Total Products: 13
 - [Jump suits](https://qingsnkueens.com/collections/jump-suits)
   Updated: 2025-11-26T07:12:58Z
@@ -5457,13 +5457,13 @@
   Updated: 2025-11-26T07:13:01Z
   Total Products: 10
 - [women](https://qingsnkueens.com/collections/women-1)
-  Updated: 2025-11-28T12:27:20Z
+  Updated: 2025-12-01T12:28:59Z
   Total Products: 45
 - [New Collection](https://qingsnkueens.com/collections/new-collection)
   Updated: 2025-11-26T07:13:01Z
   Total Products: 9
 - [Trendy Products](https://qingsnkueens.com/collections/trendy-products)
-  Updated: 2025-11-28T12:27:20Z
+  Updated: 2025-12-01T12:28:59Z
   Total Products: 5
 - [Jewellery](https://qingsnkueens.com/collections/jewellery)
   Updated: 2025-11-26T07:13:01Z
