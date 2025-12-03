@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-11-28T00:01:28.225Z
+- Updated At: 2025-12-03T00:00:32.656Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
@@ -445,7 +445,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-ghost-keychain-mockup.png?v=1762895005
   Price: 89,00 kr SEK
 - [Future Ghost Beanie](https://darkaestheticstudio.com/products/future-ghost-beanie): Omfamna det okända med vår Future Ghost beanie – där nutid möter det övernaturliga. Designad för de som vandrar mellan världarDenna unisex-mössa bär budskapet 'Future Ghost' – en påminnelse om att vi alla är tillfälliga besökare i denna dimension. Perfekt för dem som känner sig hemma i skymningen mellan dröm och verklighet. Detaljer: Unisex passform för alla själar Mjukt, bekvämt material som håller dig varm genom kalla nätter 'Future Ghost' broderi Mörk estetik som kompletterar din garderob Bär din existentiella identitet med stil. För de som förstår att vi alla är spöken i väntan. Leverans via postnord: 2-7 arbetsdagar
-  Updated: 2025-11-23T09:07:18Z
+  Updated: 2025-11-28T19:07:10Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
@@ -473,7 +473,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/ouija-planchette-v-ggdekoration.png?v=1763843107
   Price: 129,00 kr SEK
 - [Tarotkort Magneter Set - The Moon, Star, Sun - Dark Aesthetic](https://darkaestheticstudio.com/products/tarotkort-magneter-set-om-3): Mystiska tarotkort-magneter med The Moon, The Star och The Sun. Set om 3 magneter (8,6x5,4cm) med vintage tarot-design perfekt för dark aesthetic inredning.
-  Updated: 2025-11-23T09:12:03Z
+  Updated: 2025-11-28T19:07:10Z
   Vendor: Dark Aesthetic Studio
   Product Type: Hem & Inredning
   Availability: Available
@@ -685,8 +685,8 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/turquoise-hoodie-on-rack-dark-aesthetic_f8ba7379-f8b7-4aa1-8ec9-64c880791d6d.png?v=1763853683
     Price: 399,00 kr SEK
-- [Laserleksak för Katter – Interaktiv Jaktlek | Dark Aesthetic Studio](https://darkaestheticstudio.com/products/pet-laser-toy): Interaktiv laserleksak som aktiverar din katts jaktinstinkt. Håll din katt underhållen och aktiv med denna enkla, effektiva leksak. Fri frakt över 500 kr.
-  Updated: 2025-11-24T12:29:41Z
+- [Laserleksak för Katter – Interaktiv Jaktlek | Dark Aesthetic Studio](https://darkaestheticstudio.com/products/pet-laser-toy): Interaktiv laserleksak som aktiverar din katts jaktinstinkt. Håll din katt underhållen och aktiv med denna enkla, effektiva leksak.
+  Updated: 2025-11-29T18:53:08Z
   Vendor: Dark Aesthetic Studio
   Product Type: Djurleksak
   Availability: Available
@@ -703,8 +703,8 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/produktbild-med-m-rk-bakgrund_413e6aa3-91a7-4ec7-95d1-36d9598f379f.png?v=1763921383
     Price: 189,00 kr SEK
-- [Stickad Husdjurströja Halloween Pumpa - Dark Aesthetic Studio](https://darkaestheticstudio.com/products/knitted-pet-sweater-for-small-and-medium-dogs): Stickad husdjurströja med pumpadesign för små och medelstora hundar. Mysig, varm och perfekt för den mörka estetiken. Passar hundar och katter.
-  Updated: 2025-11-24T06:15:44Z
+- [Stickad Husdjurströja - Dark Aesthetic Studio](https://darkaestheticstudio.com/products/knitted-pet-sweater-for-small-and-medium-dogs): Stickad husdjurströja för små och medelstora djur. Mysig, varm och perfekt för den mörka estetiken. Passar hundar och katter.
+  Updated: 2025-11-29T18:52:46Z
   Vendor: Dark Aesthetic Studio
   Product Type: Djurkl�der
   Availability: Available
@@ -868,14 +868,14 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-orange-sandals_fbde39d3-bf6d-4745-a868-0bfc79a78ade.png?v=1763925635
     Price: 299,00 kr SEK
 - [Mini Gaia Harts Dekorativ Figur - Dark Aesthetic Studio](https://darkaestheticstudio.com/products/mini-gaia-resin-decorative-figurine): Handgjord mini Gaia-figur i harts med mörk gotisk estetik. Perfekt dekorativ skulptur för mystiska interiörer. Unik design från Dark Aesthetic Studio.
-  Updated: 2025-11-24T07:32:51Z
+  Updated: 2025-11-29T18:51:56Z
   Vendor: Dark Aesthetic Studio
   Product Type: Hem
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-mini-gaia-detail-shot.png?v=1763926563
   Price: 99,00 kr SEK
-- [Punk Dödskalle Kedjeväska - Little Book of Spells | Dark Aesthetic Studio](https://darkaestheticstudio.com/products/punk-style-skull-chain-crossbody-bag): Unik crossbody-väska med Little Book of Spells-design och pentagram. Svart punk-väska med guldkedja. Perfekt witchy accessoar från Dark Aesthetic Studio.
-  Updated: 2025-11-24T07:43:58Z
+- [Kedjeväska - Little Book of Spells | Dark Aesthetic Studio](https://darkaestheticstudio.com/products/punk-style-skull-chain-crossbody-bag): Unik crossbody-väska med Little Book of Spells-design och pentagram. Svart väska med guldkedja. Perfekt witchy accessoar från Dark Aesthetic Studio.
+  Updated: 2025-11-29T18:51:35Z
   Vendor: Dark Aesthetic Studio
   Product Type: V�ska
   Availability: Available
@@ -888,20 +888,167 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-little-book-of-spells-bag_6fe3a19e-2537-4f24-9c22-e63935457c0e.png?v=1763927488
     Price: 249,00 kr SEK
-- [IT'S PROBABLY FINE D20 Gaming Pin - Dark Aesthetic Enamel Pin](https://darkaestheticstudio.com/products/its-probably-fine-d20-pin): Premium D20 enamel pin för TTRPG-spelare. 3,3cm gaming pin med dark aesthetic design. Perfekt för rollspelare och D&D-fans. Högkvalitativ metallpin.
-  Updated: 2025-11-26T20:59:14Z
+- [IT'S PROBABLY FINE D20 - Dark Aesthetic](https://darkaestheticstudio.com/products/its-probably-fine-d20-pin): Premium D20 enamel pin för TTRPG-spelare. 3,3cm gaming pin med dark aesthetic design. Perfekt för rollspelare och D&D-fans. Högkvalitativ metallpin.
+  Updated: 2025-11-29T18:51:05Z
   Vendor: Dark Aesthetic Studio
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/d20-pin-i-hand.png?v=1764187947
   Price: 49,00 kr SEK
-- [I Am The Meowster Cat Wizard Gaming Pin - Enamel Pin](https://darkaestheticstudio.com/products/i-am-the-meowster-pin): Söt katt-trollkarl enamel pin för TTRPG-spelare. 3,7cm rund gaming pin med magiska detaljer. Perfekt för D&D-fans och kattälskare. Högkvalitativ metallpin.
-  Updated: 2025-11-26T21:19:35Z
+- [I Am The Meowster Pin](https://darkaestheticstudio.com/products/i-am-the-meowster-pin): Söt katt-trollkarl pin för TTRPG-spelare. 3,7cm rund gaming pin med magiska detaljer. Perfekt för D&D-fans och kattälskare. Högkvalitativ metallpin.
+  Updated: 2025-11-29T18:50:38Z
   Vendor: Dark Aesthetic Studio
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/i-am-the-meowster-pin-p-v-ska.png?v=1764188744
   Price: 49,00 kr SEK
+- [Djurkläder - Dark Aesthetic Studio](https://darkaestheticstudio.com/products/djurkl-der): Exklusiv djurkläder i dark aesthetic-stil. Premium kvalitet med gotisk elegans för den som uppskattar rolig design.
+  Updated: 2025-11-30T06:01:29Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Djurkl?der
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/grey-truck-sweater-helt-svart-bakgrund_dd927fab-c13c-43de-a47a-33c807ff166f.png?v=1764440273
+  - [Little red truck / XS](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988028759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/grey-truck-sweater-helt-svart-bakgrund_dd927fab-c13c-43de-a47a-33c807ff166f.png?v=1764440273
+    Price: 149,00 kr SEK
+  - [Little red truck / S](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988061527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/grey-truck-sweater-helt-svart-bakgrund_dd927fab-c13c-43de-a47a-33c807ff166f.png?v=1764440273
+    Price: 149,00 kr SEK
+  - [Little red truck / M](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988094295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/grey-truck-sweater-helt-svart-bakgrund_dd927fab-c13c-43de-a47a-33c807ff166f.png?v=1764440273
+    Price: 149,00 kr SEK
+  - [Little red truck / L](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988127063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/grey-truck-sweater-helt-svart-bakgrund_dd927fab-c13c-43de-a47a-33c807ff166f.png?v=1764440273
+    Price: 149,00 kr SEK
+  - [Black Red Santa / XS](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988159831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/black-christmas-sweater-cat_ad412a71-aa8d-49ea-9183-536dfac58470.png?v=1764440287
+    Price: 149,00 kr SEK
+  - [Black Red Santa / S](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988192599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/black-christmas-sweater-cat_ad412a71-aa8d-49ea-9183-536dfac58470.png?v=1764440287
+    Price: 149,00 kr SEK
+  - [Black Red Santa / M](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988225367)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/black-christmas-sweater-cat_ad412a71-aa8d-49ea-9183-536dfac58470.png?v=1764440287
+    Price: 149,00 kr SEK
+  - [Black Red Santa / L](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988258135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/black-christmas-sweater-cat_ad412a71-aa8d-49ea-9183-536dfac58470.png?v=1764440287
+    Price: 149,00 kr SEK
+  - [Elf dress / XS](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988290903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/green-elf-sweater-m-rk-bakgrund_ddb3ac25-1a48-44ba-ad68-aa766f03bb9a.png?v=1764440303
+    Price: 149,00 kr SEK
+  - [Elf dress / S](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988323671)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/green-elf-sweater-m-rk-bakgrund_ddb3ac25-1a48-44ba-ad68-aa766f03bb9a.png?v=1764440303
+    Price: 149,00 kr SEK
+  - [Elf dress / M](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988356439)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/green-elf-sweater-m-rk-bakgrund_ddb3ac25-1a48-44ba-ad68-aa766f03bb9a.png?v=1764440303
+    Price: 149,00 kr SEK
+  - [Elf dress / L](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988389207)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/green-elf-sweater-m-rk-bakgrund_ddb3ac25-1a48-44ba-ad68-aa766f03bb9a.png?v=1764440303
+    Price: 149,00 kr SEK
+  - [Rudolf / XS](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988421975)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/reindeer-sweater-m-rkare-bakgrund_9a2976ba-419b-480e-abf1-3c5d96c6f817.png?v=1764440316
+    Price: 149,00 kr SEK
+  - [Rudolf / S](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988454743)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/reindeer-sweater-m-rkare-bakgrund_9a2976ba-419b-480e-abf1-3c5d96c6f817.png?v=1764440316
+    Price: 149,00 kr SEK
+  - [Rudolf / M](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988487511)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/reindeer-sweater-m-rkare-bakgrund_9a2976ba-419b-480e-abf1-3c5d96c6f817.png?v=1764440316
+    Price: 149,00 kr SEK
+  - [Rudolf / L](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988520279)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/reindeer-sweater-m-rkare-bakgrund_9a2976ba-419b-480e-abf1-3c5d96c6f817.png?v=1764440316
+    Price: 149,00 kr SEK
+  - [Red Polka Dot Skirt / XS](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988553047)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/red-christmas-dog-dress_c8ed580a-77c2-4985-8466-65d49191bca6.png?v=1764440330
+    Price: 149,00 kr SEK
+  - [Red Polka Dot Skirt / S](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988585815)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/red-christmas-dog-dress_c8ed580a-77c2-4985-8466-65d49191bca6.png?v=1764440330
+    Price: 149,00 kr SEK
+  - [Red Polka Dot Skirt / M](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988618583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/red-christmas-dog-dress_c8ed580a-77c2-4985-8466-65d49191bca6.png?v=1764440330
+    Price: 149,00 kr SEK
+  - [Red Polka Dot Skirt / L](https://darkaestheticstudio.com/products/djurkl-der?variant=52253988651351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/red-christmas-dog-dress_c8ed580a-77c2-4985-8466-65d49191bca6.png?v=1764440330
+    Price: 149,00 kr SEK
+- [Husdjursbädd](https://darkaestheticstudio.com/products/pet-nest): Lyxig husdjursfristad med smaragdsammet och karmosinaccenter. För din mystiska följeslagare. Premium kvalitet, atmosfärisk design.
+  Updated: 2025-11-30T06:33:37Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: djurb�dd
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/pet-house-with-size-chart.png?v=1764441651
+  - [M](https://darkaestheticstudio.com/products/pet-nest?variant=52254112088407)
+    Availability: Available
+    Price: 299,00 kr SEK
+  - [L](https://darkaestheticstudio.com/products/pet-nest?variant=52254112121175)
+    Availability: Available
+    Price: 299,00 kr SEK
+  - [XL](https://darkaestheticstudio.com/products/pet-nest?variant=52254112153943)
+    Availability: Available
+    Price: 299,00 kr SEK
+- [Varsity Set Barn - Tvådelat Bomullsset | Dark Aesthetic Studio](https://darkaestheticstudio.com/products/baby-boys-cotton-two-piece-outfit-for-spring-and-autumn): Klassiskt varsity-set för barn i mjuk bomull. Jacka med kontrastärmar och matchande byxor. Perfekt för vår och höst. Flera färger tillgängliga.
+  Updated: 2025-11-30T12:18:40Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Barnkl�der
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/varsity-set-on-rack-brown_e689407f-cfd8-4fec-ba50-d3b42db13a97.png?v=1764443695
+  - [Brun / 80cm](https://darkaestheticstudio.com/products/baby-boys-cotton-two-piece-outfit-for-spring-and-autumn?variant=52254195089751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/varsity-set-on-rack-brown_e689407f-cfd8-4fec-ba50-d3b42db13a97.png?v=1764443695
+    Price: 349,00 kr SEK
+  - [Brun / 90cm](https://darkaestheticstudio.com/products/baby-boys-cotton-two-piece-outfit-for-spring-and-autumn?variant=52254195122519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/varsity-set-on-rack-brown_e689407f-cfd8-4fec-ba50-d3b42db13a97.png?v=1764443695
+    Price: 349,00 kr SEK
+  - [Brun / 100cm](https://darkaestheticstudio.com/products/baby-boys-cotton-two-piece-outfit-for-spring-and-autumn?variant=52254195155287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/varsity-set-on-rack-brown_e689407f-cfd8-4fec-ba50-d3b42db13a97.png?v=1764443695
+    Price: 349,00 kr SEK
+  - [Brun / 110cm](https://darkaestheticstudio.com/products/baby-boys-cotton-two-piece-outfit-for-spring-and-autumn?variant=52254195188055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/varsity-set-on-rack-brown_e689407f-cfd8-4fec-ba50-d3b42db13a97.png?v=1764443695
+    Price: 349,00 kr SEK
+  - [Brun / 120cm](https://darkaestheticstudio.com/products/baby-boys-cotton-two-piece-outfit-for-spring-and-autumn?variant=52254195220823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/varsity-set-on-rack-brown_e689407f-cfd8-4fec-ba50-d3b42db13a97.png?v=1764443695
+    Price: 349,00 kr SEK
+  - [Beige / 80cm](https://darkaestheticstudio.com/products/baby-boys-cotton-two-piece-outfit-for-spring-and-autumn?variant=52254195253591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/varsity-set-on-rack-beige_1080fa8d-1cf3-4fdf-aa17-763ff1ec44d7.png?v=1764443709
+    Price: 349,00 kr SEK
+  - [Beige / 90cm](https://darkaestheticstudio.com/products/baby-boys-cotton-two-piece-outfit-for-spring-and-autumn?variant=52254195286359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/varsity-set-on-rack-beige_1080fa8d-1cf3-4fdf-aa17-763ff1ec44d7.png?v=1764443709
+    Price: 349,00 kr SEK
+  - [Beige / 100cm](https://darkaestheticstudio.com/products/baby-boys-cotton-two-piece-outfit-for-spring-and-autumn?variant=52254195319127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/varsity-set-on-rack-beige_1080fa8d-1cf3-4fdf-aa17-763ff1ec44d7.png?v=1764443709
+    Price: 349,00 kr SEK
+  - [Beige / 110cm](https://darkaestheticstudio.com/products/baby-boys-cotton-two-piece-outfit-for-spring-and-autumn?variant=52254195351895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/varsity-set-on-rack-beige_1080fa8d-1cf3-4fdf-aa17-763ff1ec44d7.png?v=1764443709
+    Price: 349,00 kr SEK
+  - [Beige / 120cm](https://darkaestheticstudio.com/products/baby-boys-cotton-two-piece-outfit-for-spring-and-autumn?variant=52254195384663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/varsity-set-on-rack-beige_1080fa8d-1cf3-4fdf-aa17-763ff1ec44d7.png?v=1764443709
+    Price: 349,00 kr SEK
 
 ## Collections
 
@@ -909,32 +1056,35 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-10-23T19:24:21Z
   Total Products: 1
 - [Accessoarer](https://darkaestheticstudio.com/collections/accessoarer): Små detaljer, stor effekt. Våra accessoarer är skapade för att förstärka din stil och uttrycka din identitet – oavsett om det är genom metall, textil eller symbolik.Från nyckelringar med budskap till smycken med skuggor – varje objekt bär på en berättelse. 🕯️ Begränsade upplagor🕯️ Designade med känsla för mörker och estetik🕯️ Perfekta som gåvor eller personliga signature
-  Updated: 2025-11-26T20:29:49Z
+  Updated: 2025-11-29T12:50:17Z
   Total Products: 14
 - [Merch](https://darkaestheticstudio.com/collections/merch): 🖤 Darkness Queens Merch – För dig som vågar sticka utVälkommen till min merch-sida – ett litet hörn av internet där mörk estetik möter nördig passion. Här hittar du produkter med min logga, allt från hoodies med attityd till inredningsdetaljer som säger "nej tack" till beige.Alla produkter är noga utvalda med fokus på kvalitet, cruelty-free material och en känsla av att du är del av något större – en community av likasinnade som älskar det alternativa, det mystiska och det uttrycksfulla.🎁 Perfekt som present, till din egen samling eller för att göra vardagen lite mer magisk
   Updated: 2025-11-23T20:16:02Z
   Total Products: 1
 - [Hem](https://darkaestheticstudio.com/collections/hem): Välkommen till vår värld av kreativitet och estetik. Här hittar du noggrant utvalda produkter för dig som älskar att skapa, och älskar spel – oavsett om det handlar om att lägga ett 1500-bitars pussel i skymningsljus eller lyfta ditt hem med en liten detalj. 🖤
-  Updated: 2025-11-23T19:43:00Z
+  Updated: 2025-11-29T12:50:17Z
   Total Products: 9
 - [Alla produkter](https://darkaestheticstudio.com/collections/alla-produkter): Välkommen till Dark Aesthetic Studios samlingssida – en plats där skuggor möter skönhet och varje produkt bär på en berättelse. Här hittar du hela vårt kurerade sortiment: från konstnärliga prints och accessoarer till inredning och digitala verk, alla med en tydlig mörk estetik och själfull karaktär.
-  Updated: 2025-11-26T20:29:49Z
-  Total Products: 45
+  Updated: 2025-11-29T19:21:02Z
+  Total Products: 48
 - [Jul](https://darkaestheticstudio.com/collections/jul): A Darker December – Julkollektionen för De Som Firar i Skuggor🕯️ Glöm vita, beiga kulor och sockersöta tomtar. Den här kollektionen är för dig som vill att julen ska kännas – mystisk, vacker, och lite olydig. “A Darker December” är en samling dekorationer, textilier och figurer som förvandlar högtiden till ett visuellt ritualrum. Tänk mörkt vinrött, faceless figurer, skulpturala rosetter och plyschiga bakverk med en surrealistisk twist. Varje objekt är noga utvalt för att skapa kontrast: mellan ljus och skugga, tradition och dekadens, värme och distans. Det är en jul för dem som inte följer mallen – utan formar sin egen. Låt din jul bli ett uttryck för vem du är – inte vad du förväntas vara.
   Updated: 2025-11-26T20:05:40Z
   Total Products: 14
 - [Djur](https://darkaestheticstudio.com/collections/djur): I denna kollektion möter våra bästa vänner det märka och nördiga. 🐾 Den här kollektionen är för dig som vill att dina husdjur ska vara mer än bara söta. De ska vara ikoniska. Märkliga. Minnesvärda.
-  Updated: 2025-11-23T19:07:46Z
-  Total Products: 4
+  Updated: 2025-11-29T18:49:19Z
+  Total Products: 6
 - [Skuggnytt🕯️](https://darkaestheticstudio.com/collections/skuggnytt🕯️): Välkommen till Skuggnytt – Här samlas det senaste produkterna från vår studio.För dig som dras till det mystiska, det vackert udda och det visuellt djärva. Varje produkt är utvalt med omsorg – med känsla för detaljer, stämning och själ. Följ med in i skuggorna – där idéer föds, trender vrids och mörkret får tala.
-  Updated: 2025-11-26T20:29:49Z
-  Total Products: 40
+  Updated: 2025-11-29T19:21:02Z
+  Total Products: 43
 - [Dark Aesthetic Skor - Gothic & Edgy Footwear | Dark Aesthetic Studio](https://darkaestheticstudio.com/collections/skor): Upptäck vår kollektion av dark aesthetic skor. Platåsandaler, boots och mer med gotisk elegans och rebelliska detaljer. Premium kvalitet för din unika stil.
   Updated: 2025-11-23T19:31:21Z
   Total Products: 1
 - [Överdelar – Dark Aesthetic Kläder | Dark Aesthetic Studio](https://darkaestheticstudio.com/collections/overdelar): Utforska vår kollektion av dark aesthetic överdelar. Hoodies, t-shirts och jackor i mörk stil. Perfekt för din gotiska garderob.
   Updated: 2025-11-23T20:15:12Z
   Total Products: 3
+- [Barn Dark Aesthetic Kläder & Accessoarer - Dark Aesthetic Studio](https://darkaestheticstudio.com/collections/barn): Gotisk barnmode med premium kvalitet. Mörka estetiska kläder och accessoarer för barn som vågar sticka ut. Unika designs i mjuka material.
+  Updated: 2025-11-29T19:21:38Z
+  Total Products: 2
 
 ## Store Pages
 
