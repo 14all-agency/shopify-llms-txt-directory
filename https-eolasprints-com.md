@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-12-02T00:00:42.575Z
+- Updated At: 2025-12-03T00:01:01.119Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -95,7 +95,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-ingeo-870-filament-white-football-helmet-1-75-mm-1-kg-372.webp?v=1725009998
     Price: €30.50 EUR
 - [Pla Filament 1.75 Mm for Food Contact Applications](https://eolasprints.com/products/pla-filament-1-75-mm): Eolas Prints PLA filament in 1.75mm diameter offers premium quality in over 20 colors. A versatile material for 3D printing, suitable for food contact items.
-  Updated: 2025-12-01T18:03:02Z
+  Updated: 2025-12-02T13:22:12Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -609,7 +609,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-filament-spool-3d-printer-1-75-mm-250-g-natural-620.webp?v=1725009923
     Price: €147.02 EUR
 - [Tpu Flexible Filament 93a for 3d Printing](https://eolasprints.com/products/tpu-filament): Eolas Prints TPU Flex Filament 93A is a food-safe tpu flexible filament offering durability for printing flexible parts with a balance of strength and elasticity.
-  Updated: 2025-12-01T21:02:21Z
+  Updated: 2025-12-02T19:32:25Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -911,7 +911,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Availability: Available
     Price: €4.99 EUR
 - [Certified Uv Resistant Petg Filament](https://eolasprints.com/products/petg-filament-certified-uv-resistant): Eolas Prints certified UV resistant PETG filament provides exceptional durability. This professional grade material is ideal for indoor and outdoor applications.
-  Updated: 2025-11-29T09:06:30Z
+  Updated: 2025-12-02T12:33:55Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1525,7 +1525,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-s1-enclosed-diode-laser-cutter-engraver-bundle-40w-all-522.webp?v=1753101650
     Price: €3,099.00 EUR
 - [Flashforge Adventurer Ad5x Multi Colour 3d Printer](https://eolasprints.com/products/flashforge-ad5x-multi-colour): The Flashforge Adventurer AD5X delivers multi-colour printing with a dual filament direct extruder system, ensuring superior quality for prototypes and functional parts.
-  Updated: 2025-12-01T11:26:10Z
+  Updated: 2025-12-02T09:58:45Z
   Vendor: Flashforge
   Product Type: 3D Printer
   Availability: Available
@@ -1598,7 +1598,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver-machine-250.webp?v=1759190199
     Price: €7,399.00 EUR
 - [Prusa Core one Ultimate Edition E3d V6 Compatible](https://eolasprints.com/products/prusa-core-one-ultimate-edition): The Prusa Core One Ultimate Edition is a professional CoreXY 3D printer with an enclosed chamber, motors rpm monitoring, and an E3D V6 compatible system for speed.
-  Updated: 2025-12-01T22:14:11Z
+  Updated: 2025-12-02T09:57:27Z
   Vendor: Prusa Research
   Product Type: 3D Printer
   Availability: Available
@@ -1610,7 +1610,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Availability: Available
     Price: €1,499.00 EUR
 - [Bambu Lab P2S](https://eolasprints.com/products/bambu-lab-p2s)
-  Updated: 2025-11-29T22:10:29Z
+  Updated: 2025-12-02T01:45:10Z
   Vendor: Bambu Lab
   Product Type: 3D Printer
   Availability: Available
@@ -1714,7 +1714,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/prusa-pro-slx-msla-3d-printer-industrial-resin-black-617.webp?v=1763930175
   Price: €30,999.00 EUR
 - [Prusa Uss Drybox Protects Filament from Humid Air](https://eolasprints.com/products/prusa-uss-drybox): The Prusa USS Drybox from Eolas Prints is an airtight filament storage solution. Its unique central opening mounts on spool holders and minimizes internal humid air.
-  Updated: 2025-12-01T22:27:04Z
+  Updated: 2025-12-02T10:18:38Z
   Vendor: Prusa Research
   Product Type: 3D Printer Accessories
   Availability: Not Available
@@ -1724,13 +1724,13 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
 ## Collections
 
 - [Certified High Speed Pla and Transition Filament](https://eolasprints.com/collections/pla): Eolas Prints PLA provides high quality filaments including multi-colour and high speed PLA. Our materials are ISO certified and REACH compliant for consistent printing.
-  Updated: 2025-12-01T12:22:55Z
+  Updated: 2025-12-02T12:20:38Z
   Total Products: 12
 - [Petg and Transition Filament for 3d Prints](https://eolasprints.com/collections/petg): The Eolas Prints PETG collection offers premium multi-colour and petg transition filament. All materials are ISO and REACH certified for superior quality and safety.
-  Updated: 2025-11-30T12:19:41Z
+  Updated: 2025-12-02T12:20:38Z
   Total Products: 5
 - [Tpu Flex Filament and Tpu Transition Filament](https://eolasprints.com/collections/tpu): Eolas Prints TPU offers premium, multi-colour tpu flex filament for 3D printing. Our materials are ISO and REACH certified for high-quality, reliable results.
-  Updated: 2025-11-30T12:19:41Z
+  Updated: 2025-12-02T12:20:38Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://eolasprints.com/collections/orderlyemails-recommended-products): This collection features recommended products for the OrderlyEmails app. It is automatically updated with our best-selling Eolas Prints for notification emails.
   Updated: 2025-09-28T22:37:41Z
@@ -1748,7 +1748,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-12-01T22:24:38Z
   Total Products: 8
 - [3d Printer Filament Pla Tpu Petg Abs Asa](https://eolasprints.com/collections/3d-printer-filament): Eolas Prints offers a premium collection of certified 3D printer filaments, including our high-performance Eolas Prints PLA, durable PETG, and flexible TPU.
-  Updated: 2025-12-01T12:22:55Z
+  Updated: 2025-12-02T12:20:38Z
   Total Products: 22
 - [New 3d Printing Innovations by Thought3d Magigoo](https://eolasprints.com/collections/new-arrivals): The latest collection at Eolas Prints includes the new Flashforge AD5X Multi-Colour printer and Thought3D products, all certified to ISO and REACH standards.
   Updated: 2025-11-28T12:24:49Z
@@ -1757,13 +1757,13 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-11-29T12:24:39Z
   Total Products: 1
 - [Codigo Escuela 4.0: 3d Printing in Education](https://eolasprints.com/collections/codigo-escuela-4-0): The Codigo Escuela 4.0 collection from Eolas Prints provides 3D printers like Bambu Lab for modern education and digital literacy in Spain.
-  Updated: 2025-12-01T12:22:55Z
+  Updated: 2025-12-02T12:20:38Z
   Total Products: 9
 - [Craft Machines for Home Projects and 3d Printing](https://eolasprints.com/collections/craft-machines): This collection of craft machines from Eolas Prints includes the Flashforge AD5X. ISO quality and environment management download certificates are available.
   Updated: 2025-10-23T22:29:28Z
   Total Products: 9
 - [3d Printing Equipment and Supplies Online Store](https://eolasprints.com/collections/3d-printers): Eolas Prints offers a professional collection of 3D printers, including the Flashforge AD5X. Our certified machines meet ISO and REACH quality standards.
-  Updated: 2025-12-01T21:57:20Z
+  Updated: 2025-12-02T12:20:38Z
   Total Products: 20
 
 ## Blogs
