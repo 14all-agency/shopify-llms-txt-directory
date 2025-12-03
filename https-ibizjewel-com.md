@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-12-02T00:01:44.842Z
+- Updated At: 2025-12-03T00:01:15.871Z
 
 ## Products
 
@@ -3861,7 +3861,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-37_1.jpg?v=1690544465
     Price: $1,909.00 USD
 - [Natural Salt And Pepper 1.70CT hexagon Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-70ct-hexagon-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring-9): This natural salt and pepper hexagon diamond Art Deco ring is one-of-a-kind. With its 1.70CT solitaire hexagon diamond centerpiece and handmade design, it makes a perfect anniversary or engagement ring. Its intricate, unique design will make a statement for any special occasion.
-  Updated: 2025-10-02T10:30:40Z
+  Updated: 2025-12-02T04:58:43Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper hexagon Diamond Ring
   Availability: Available
@@ -12270,7 +12270,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-54_6.png?v=1709876344
     Price: $849.00 USD
 - [Moissanite 1.93CT Pear Diamond Minimalist Anniversary Ring](https://ibizjewel.com/products/moissanite-1-93ct-pear-diamond-minimalist-anniversary-ring): Discover a ring that combines elegance and modernity like no other. The Moissanite 1.93CT Pear Diamond Minimalist Anniversary Ring features a stunning pear-cut diamond that sparkles with a brilliance that rivals natural diamonds. Made with durable materials and expert craftsmanship, this ring will make a timeless addition to any jewelry collection.
-  Updated: 2025-10-02T10:30:48Z
+  Updated: 2025-12-02T04:14:09Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Pear Diamond Ring
   Availability: Available
@@ -18426,7 +18426,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-94_3.jpg?v=1710494520
     Price: $829.00 USD
 - [Natural Salt And Pepper 1.40CT Hexagon Diamond Art Nouveau Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-40ct-hexagon-diamond-art-nouveau-anniversary-ring): This Art Nouveau Anniversary Ring Features A Stunning 1.42ct Hexagon-shaped Natural Salt And Pepper Diamond, Showcasing Its Unique And Natural Characteristics. Crafted With Expert Precision, This Refined Ring Is A Perfect Representation Of Timeless Elegance. Make A Statement With This One-of-a-kind Piece.
-  Updated: 2025-10-02T10:30:54Z
+  Updated: 2025-12-02T06:38:04Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Hexagon Diamond Ring
   Availability: Available
@@ -39866,7 +39866,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPBA-30_4.jpg?v=1711782237
     Price: $897.00 USD
 - [Natural Salt and Paper 0.10CT Triangle Diamond Mid-Century Special Gift Band](https://ibizjewel.com/products/natural-salt-and-paper-0-10ct-triangle-diamond-mid-century-special-gift-band): Expertly Crafted With A 0.10ct Triangle Diamond And Unique Mid-century Design, This Special Gift Band Is Sure To Make A Statement. Made With Natural Salt And Paper, This Band Is Both Stylish And Eco-friendly. Treat Yourself Or A Loved One To A One-of-a-kind Piece That Will Last A Lifetime.
-  Updated: 2025-10-02T10:31:12Z
+  Updated: 2025-12-02T04:32:43Z
   Vendor: Natural Salt And Pepper Diamond Men's Bands
   Product Type: Natural Salt And Pepper Triangle Diamond Band
   Availability: Available
@@ -40514,7 +40514,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-159_2.jpg?v=1712318977
     Price: $916.00 USD
 - [Moissanite 3.70 CT Three Stone Princess Diamond Edwardian Wedding Ring](https://ibizjewel.com/products/moissanite-3-70-ct-three-stone-princess-diamond-edwardian-wedding-ring): Enhance your special day with our Moissanite 3.70 CT Three Stone Princess Diamond Edwardian Wedding Ring. Featuring a stunning moissanite gem, this ring sparkles with a luxurious and elegant design. With a total carat weight of 3.70, this ring will make an impression that will last a lifetime.
-  Updated: 2025-10-02T10:31:13Z
+  Updated: 2025-12-02T00:44:43Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Radiant Diamond Ring
   Availability: Available
@@ -44669,6 +44669,10 @@
   - [Black Friday Sparkle: Discover Unmatched Luxury with IbizJewels Finest Diamond Jewelry](https://ibizjewel.com/blogs/news/black-friday-sparkle-discover-unmatched-luxury-with-ibizjewels-finest-diamond-jewelry)
     Updated: 2025-11-27T11:45:07Z
     Author: work inventions
+  - [Why Salt & Pepper Diamonds Are the New Trend | IbizJewel Rings](https://ibizjewel.com/blogs/news/looking-for-a-unique-engagement-ring-here-s-why-salt-and-pepper-diamonds-are-winning-hearts): Why Salt & Pepper Diamonds Are the New Trend | IbizJewel Rings
+    Updated: 2025-12-02T04:35:56Z
+    Author: work inventions
+    Tags: allure of diamonds
 
 ## Store Pages
 
