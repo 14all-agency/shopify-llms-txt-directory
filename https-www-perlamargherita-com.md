@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-06T04:18:26Z
 - Contact Email: perla.marita815@gmail.com
-- Updated At: 2025-12-01T00:01:19.556Z
+- Updated At: 2025-12-03T00:00:28.995Z
 
 ## Products
 
@@ -1745,6 +1745,9 @@
     Author: Perla Margherita
   - [A Step-by-Step Tutorial on Mastering the Perfect Winged Eyeliner](https://www.perlamargherita.com/blogs/blogs/a-step-by-step-tutorial-on-mastering-the-perfect-winged-eyeliner): A Step-by-Step Tutorial on Mastering the Perfect Winged Eyeliner
     Updated: 2025-11-28T00:08:10Z
+    Author: Perla Margherita
+  - [The History of Denim Jeans from Workwear to High Fashion](https://www.perlamargherita.com/blogs/blogs/the-history-of-denim-jeans-from-workwear-to-high-fashion): The History of Denim Jeans from Workwear to High Fashion
+    Updated: 2025-12-01T00:31:26Z
     Author: Perla Margherita
 
 ## Store Pages
