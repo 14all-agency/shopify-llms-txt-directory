@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-12-02T00:00:58.551Z
+- Updated At: 2025-12-03T00:00:27.400Z
 
 ## Products
 
@@ -340,6 +340,10 @@
     Updated: 2025-12-01T04:18:09Z
     Author: ms@nova02.de
     Tags: kaminofen kaufen online
+  - [Heizstrahler Terrasse Gas: 7 Tipps für warme Abende im Freien](https://www.pelios.de/blogs/news/heizstrahler-terrasse-gas-7-tipps-fur-warme-abende-im-freien)
+    Updated: 2025-12-02T05:16:29Z
+    Author: ms@nova02.de
+    Tags: heizstrahler terrasse gas
 
 ## Store Pages
 
