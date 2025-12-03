@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-12-02T00:00:38.286Z
+- Updated At: 2025-12-03T00:01:04.968Z
 
 ## Products
 
@@ -17116,13 +17116,13 @@
 ## Collections
 
 - [THE BLISSFUL DOG ALL NATURAL HANDCRAFTED GOOD STUFF](https://theblissfuldog.com/collections/frontpage)
-  Updated: 2025-11-27T12:02:31Z
+  Updated: 2025-12-02T12:03:06Z
   Total Products: 110
 - [Dog Aromatherapy Sprays & Blends | Relaxing Spray for Dogs](https://theblissfuldog.com/collections/relax-dog-aromatherapy): Ease your dog's anxiety during stressful situations like rainstorms with our dog aromatherapy sprays! The essential oils help calm and relax frightened dogs.
   Updated: 2025-11-21T12:02:04Z
   Total Products: 116
 - [The Blissful Dog NOSE BUTTER® for Your Dog's Rough, Dry, Crusty Nose](https://theblissfuldog.com/collections/nose-butter): The Blissful Dog NOSE BUTTER® moisturizes your dog's rough, dry or crusty Nose. All natural, individually handcrafted in northern Minnesota in tins or tubes.
-  Updated: 2025-12-01T12:02:39Z
+  Updated: 2025-12-02T12:03:06Z
   Total Products: 120
 - [Blissful Dog Boo Boo Butter: Remedy for Dog Skin Irritation](https://theblissfuldog.com/collections/boo-boo-butter): Give your dog some relief from their minor skin irritations with our Boo Boo Butter! All-natural, the salve is great for issues like crusty ears and itchy skin.
   Updated: 2025-12-01T12:02:39Z
@@ -17260,7 +17260,7 @@
   Updated: 2025-11-27T12:02:31Z
   Total Products: 8
 - [The Blissful Dog Alaskan Malamute Shop for Your Mal's Skin & Coat Care](https://theblissfuldog.com/collections/malamute-collection): Alaskan Malamute Shop all natural balms for your Mal's dry nose, rough paws, elbow calluses & skin issues. Aromatherapy for anxiety + shampoos and conditioners.
-  Updated: 2025-11-27T12:02:31Z
+  Updated: 2025-12-02T12:03:06Z
   Total Products: 11
 - [Basset Collection for Your Basset's Nose, Paws, Elbows & Stress](https://theblissfuldog.com/collections/basset-hound-collection): Everything Blissful for your Basset! The Blissful Dog takes care of your Basset's dry nose, rough paws, elbow calluses and random itchy skin issues…naturally!
   Updated: 2025-11-24T12:02:01Z
@@ -17470,13 +17470,13 @@
   Updated: 2025-11-21T12:02:04Z
   Total Products: 3
 - [Blissfully Brand New Products for Your Dog's Health & Happiness](https://theblissfuldog.com/collections/blissfully-brand-new): Blissfully Brand New Products for Your Dog's Health & Happiness - When was the last time someone was on their way over to visit and one of your dogs had a heinous, smelly accident? An awful eye-watering smelly mess! We can handle that disastrous event - FAST! Simply Everything Fresh Deodorizing Spray & NO H20 Shampoo.
-  Updated: 2025-11-27T12:02:31Z
+  Updated: 2025-12-02T12:03:06Z
   Total Products: 32
 - [French Bulldog Nose Butter Collection](https://theblissfuldog.com/collections/french-bulldog-nose-butter-collection-1): French Bulldog Nose Butter Collection
   Updated: 2025-12-01T12:02:39Z
   Total Products: 8
 - [Every Dog Nose Butter Collection Moisturizer for Dry Dog Noses](https://theblissfuldog.com/collections/just-nose-butter-collection): Your dog's nose is crusty, maybe cracked and you want to get some dog Nose Butter® and have your dog's nose moisturized. You're at the right place!
-  Updated: 2025-12-01T12:02:39Z
+  Updated: 2025-12-02T12:03:06Z
   Total Products: 724
 - [Dog Colognes & Perfumes | Pet Deodorants | The Blissful Dog](https://theblissfuldog.com/collections/dog-cologne-sniffing-irresistible): Enhance your dog's scent with this set of colognes and perfumes! Not only do the deodorant sprays smell delightful, but they also detangle and condition coats!
   Updated: 2025-11-10T12:02:08Z
@@ -17485,7 +17485,7 @@
   Updated: 2025-11-27T12:02:31Z
   Total Products: 34
 - [The AMP for Shopify Collection](https://theblissfuldog.com/collections/the-amp-for-shopify-collection): This is just a sample collection ----This collection is not published. Edit this collection Feel free to edit this collection and play around with it. If you need any help, just reach out to our team. We're excited to help you get started with AMP! Note: This is the only collection that will contain unpublished products from your Shopify Online Store. It is just for example purposes :) ---- Every product in the AMP by Shop Sheriff collection comes with the finest materials 14% suede 3% elastane 77% organic cotton
-  Updated: 2025-11-27T12:02:31Z
+  Updated: 2025-12-02T12:03:06Z
   Total Products: 34
 - [Kuvasz Collection for Your Dog's Skin Care & Cleanliness](https://theblissfuldog.com/collections/kuvasz-collection): The Blissful Dog Kuvasz Collection showcases products featuring the Kuvasz on the label & those geared toward keeping these magnificent dogs looking their best.
   Updated: 2025-11-25T12:02:19Z
@@ -17537,16 +17537,16 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-10-16T15:39:35Z
   Total Products: 1
 - [Candy By The Cash Register | Dog Care With A Click](https://theblissfuldog.com/collections/candy-by-the-cash-register): Dog Care with a click is our version of how candy, magazines and must-have-stuff is right by the register in stores Wasn't it nice of them to put candy there?
-  Updated: 2025-11-27T12:02:31Z
+  Updated: 2025-12-02T12:03:06Z
   Total Products: 33
 - [Blissfully Clean Dog Shampoos, Soaps & Conditioner](https://theblissfuldog.com/collections/shampoo-soap): Blissfully Clean Dog Shampoos, Soaps & Conditioner offers a complete range of shampoos, soap, and one heckuva conditioner to get your filthy dog clean.
   Updated: 2025-11-27T12:02:31Z
   Total Products: 51
 - [Specialty Dog Grooming Sprays](https://theblissfuldog.com/collections/specialty-sprays): Spritz & Spray The Funk Away Simply Everything Fresh Deodorizing Spray - Simply Fresh doesn't mask odors, it busts smells apart & gets your abode fresh-smelling FAST.
-  Updated: 2025-11-27T12:02:31Z
+  Updated: 2025-12-02T12:03:06Z
   Total Products: 34
 - [All Products (Excluding Route+)](https://theblissfuldog.com/collections/all-products-excluding-route)
-  Updated: 2025-12-01T12:02:39Z
+  Updated: 2025-12-02T12:03:06Z
   Total Products: 723
 - [Lagotto Romagnolo Truffe Hunting Uber-Adorable Italian Floof](https://theblissfuldog.com/collections/lagotto-romagnolo): The Lagotto Romagnolo is one of those dog breeds that is a total package. Absolutely adorable, they are covered in soft silky, curls are usually around 35 pounds.
   Updated: 2025-11-18T12:01:58Z
@@ -17570,16 +17570,16 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-11-21T12:02:04Z
   Total Products: 11
 - [The Blissful Dog Brussels Griffon Collection for Your Griff's Needs](https://theblissfuldog.com/collections/brussels-griffon): Shop The Blissful Dog Everything Brussels Griffon Collection for your born to be spoiled Griff. Everything you need for the Brussels Griffon in your life
-  Updated: 2025-11-24T12:02:01Z
+  Updated: 2025-12-02T12:03:06Z
   Total Products: 18
 - [Spently - Recommended Products](https://theblissfuldog.com/collections/spently_products): This collection is used by the Spently app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the Spently app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-12-01T12:02:39Z
+  Updated: 2025-12-02T12:03:06Z
   Total Products: 725
 - [The Blissful Dog Keeshond Skin Care Collection](https://theblissfuldog.com/collections/keeshond-collection): Keeshond are known for #1-Spectacles, #2-Smile & #3-Coat. For your Kees having healthy skin is a must. Check out our skincare and bath collection for Keeshond.
   Updated: 2025-11-21T12:02:04Z
   Total Products: 8
 - [Blissfully Fresh® Face Wash Keeps Your Dog Kissably Fresh](https://theblissfuldog.com/collections/fresh-face-wash-for-blissfully-clean-faces): Blissfully Fresh® Face Wash for Blissfully Clean, Kissably Cuddly, Fresh Faces -  when your dog needs a quick freshen-up to feel and smell great again
-  Updated: 2025-11-27T12:02:31Z
+  Updated: 2025-12-02T12:03:06Z
   Total Products: 32
 - [Grooming](https://theblissfuldog.com/collections/grooming)
   Updated: 2025-10-16T15:39:36Z
@@ -18814,8 +18814,8 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2020-12-27T15:45:49Z
 - [The Blissful Dog | Payment & Security Info](https://theblissfuldog.com/pages/payment-info): The Blissful Payment & Security Info Larkan is here to handle all of our security! He jumps into Larkanator Mode for his security gig. Sorry, we ar...
   Updated: 2022-07-29T19:25:16Z
-- [The Blissful Dog SHIPPING INFO](https://theblissfuldog.com/pages/shipping-info): The Blissful Dog Shipping Quick Overview FREE SHIPPING USA only | FREE Upgrade to Priority With Orders Over $50 USA Only
-  Updated: 2022-08-13T20:06:07Z
+- [The Blissful Dog SHIPPING INFO](https://theblissfuldog.com/pages/shipping-info): The Blissful Dog Shipping Quick Overview FREE SHIPPING USA only With Orders Over $39 | FREE Upgrade to Priority With Orders Over $50 USA Only
+  Updated: 2025-12-02T20:10:04Z
 - [The Blissful Dog Wholesale Info - Contact For Information](https://theblissfuldog.com/pages/wholesale-info): 
   Updated: 2022-10-10T15:33:28Z
 - [The Blissful Dog Dry Dog Nose Info | A Bit Dry To Nasal Hyperkeratosis](https://theblissfuldog.com/pages/dry-dog-nose-info): 
