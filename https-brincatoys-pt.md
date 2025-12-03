@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-12-02T00:02:48.262Z
+- Updated At: 2025-12-03T00:01:18.415Z
 
 ## Products
 
@@ -214,7 +214,7 @@ Figura com aproximadamente 7 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/alce-femea-438082923-0095866180805-brincatoys-1178692697.jpg?v=1752826088
   Price: 9,50 € EUR
 - [Boneco PVC Toy Story - Alien para Colecionadores](https://brincatoys.pt/products/boneco-pvc-toy-story-alien): Boneco PVC Toy Story - Alien - reviva as aventuras intergalácticas! Ideal para fãs e colecionadores, com design autêntico.
-  Updated: 2025-11-07T03:47:20Z
+  Updated: 2025-12-02T08:29:32Z
   Vendor: Toy Story
   Product Type: + 3 anos
   Availability: Available
@@ -1736,7 +1736,7 @@ curta e roliça.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/coelho-de-peluche-521943421-brincatoys-1178693184.jpg?v=1752818763
   Price: 28,50 € EUR
 - [Coelho Creme de Peluche 15 cm - Amigo para Crianças](https://brincatoys.pt/products/coelho-de-peluche-15-cm): Coelho Creme de Peluche 15 cm, o brinquedo suave e seguro que encanta crianças e decora quartos. Este peluche promete conforto e companheirismo.
-  Updated: 2025-12-01T23:22:15Z
+  Updated: 2025-12-02T13:35:57Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -2903,7 +2903,7 @@ renascer das cinzas.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-arrow-felicity-smoak-23033315-0761941332796-dc-comics-1178693563.jpg?v=1752840842
   Price: 26,90 € EUR
 - [Figura Avengers Infinity War](https://brincatoys.pt/products/figura-avengers-infinity-war): Figura Black Widow da Marvel com 25 cm. Dimensão: 30 x 8 x 4 cm Idade recomendada: + de 4 anos.
-  Updated: 2025-11-07T03:47:36Z
+  Updated: 2025-12-02T10:22:11Z
   Vendor: Marvel
   Product Type: + 3 anos
   Availability: Available
@@ -3240,13 +3240,6 @@ do sul da
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/frozen-anna-621295916-princesas-disney-1178693661.png?v=1752842403
-  Price: 8,50 € EUR
-- [Frozen Anna](https://brincatoys.pt/products/frozen-anna-1): Figura em borracha termoplástica do filme Frozen.Figura com aproximadamente 9,8 cm.  Dimensão: 9,8 x 4,7 x 3,5 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-11-07T03:47:38Z
-  Vendor: Princesas Disney
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-disney-frozen-anna-viajante-para-brincar-621296025-4007176129609-brincatoys-1195041120.jpg?v=1759068252
   Price: 8,50 € EUR
 - [Frozen Anna](https://brincatoys.pt/products/frozen-anna-3): Figura em borracha termoplástica do filme Frozen.Figura com aproximadamente 9,8 cm. Dimensão: 9,8 x 4,7 x 3,5 cm. Idade recomendada: + de 3 anos.
   Updated: 2025-11-07T03:47:38Z
@@ -4623,7 +4616,7 @@ um(a) miniboneco(a), um(a) microboneco(a) ou um minimodelo para oferecer
 
 Todos os dias, crianças com mais de 6 anos descobrem um novo presente
  que combinam entre si ...
-  Updated: 2025-11-28T11:30:54Z
+  Updated: 2025-12-02T13:58:19Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -4691,7 +4684,7 @@ favoritos da plataforma do videojogo clássico: Sonic the Hedgehog™. Dê
 vida a pormenores autênticos tais como a palmeira, icónico laço da ponte
   e Eggmobile do Dr. Eggman. Lance Sonic do spring para Saltos Super 
 Sonic. Apanhe esmeraldas de caos enquanto constrói e coloque as 7 c...
-  Updated: 2025-11-07T03:47:53Z
+  Updated: 2025-12-02T14:47:02Z
   Vendor: LEGO
   Product Type: + 14 anos
   Availability: Available
@@ -4728,12 +4721,12 @@ cofre bancário e roubou o ouro - mas a ajuda está a caminho! Spider-Man
 chega rapidamente graças ao seu fixe jet pack carregado com mísseis. 
 Conduz o Spidey até à posição certa, faz pontaria e dispara. Sente o 
 chão a tremer quando o Hulk derruba o vilão com o camião giga...
-  Updated: 2025-12-01T16:37:45Z
+  Updated: 2025-12-02T20:35:17Z
   Vendor: LEGO
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-marvel-confronto-de-camioes-hulk-vs-rhino-661078222-5702017150659-lego-1178694136.jpg?v=1752851420
-  Price: 22,50 € EUR
+  Price: 29,99 € EUR
 - [LEGO Marvel 76298 Iron Spider-Man - Construção Articulada](https://brincatoys.pt/products/lego-marvel-76298-iron-spider-man): LEGO Marvel 76298 Iron Spider-Man e viva aventuras épicas montando a figura articulada do herói. Qualidade LEGO e infinitas possibilidades de brincadeira.
   Updated: 2025-11-07T03:47:47Z
   Vendor: LEGO
@@ -7880,7 +7873,7 @@ de aparência engraçada , usa os seus poderosos pés e garras para escavar
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-montmartre-1000-pcs-779383121-brincatoys-1178695203.jpg?v=1752870849
   Price: 13,99 € EUR
 - [Puzzle My Little Pony 2 x 24 peças](https://brincatoys.pt/products/puzzle-my-little-pony-2-x-24-pecas): A aventura aguarda Sunny, Izzy, Princesa Pipp, Princesa Zipp e Hitch nestes três puzzles coloridos My Little Pony de 49 peças. Cada um dos puzzles é impresso com um padrão diferente no verso, portanto, eles podem ser classificados antes da montagem. O puzzle de 3 x 49 peças é feito com qualidade premium e mede 17,8 x 17,8 cm quando completo. Ajuda
-  Updated: 2025-11-07T03:48:08Z
+  Updated: 2025-12-02T19:09:45Z
   Vendor: My Little Pony
   Product Type: + 4 anos
   Availability: Available
@@ -11035,7 +11028,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/homem-de-ferro-e-acessorios-brincatoys-90142623-marvel-1178696400.jpg?v=1752804606
   Price: 19,99 € EUR
 - [Jogo de tabuleiro Jenga Clássico - Diversão e Estratégia](https://brincatoys.pt/products/jogo-jenga-classico): Descubra o Joga de tabuleiro Jenga Clássico na nossa loja! Ideal para jogadores de todas as idades, oferece desafio, estratégia e diversão familiar.
-  Updated: 2025-11-29T18:06:06Z
+  Updated: 2025-12-02T20:12:17Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -12532,13 +12525,6 @@ do tempo a caçar no gelo marinho.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/princesa-disney-elsa-com-vestido-verde-elegancia-e-magia-770435523-0192995204355-princesas-disney-1178697101.jpg?v=1752904811
   Price: 42,50 € EUR
-- [Pinguim Musical sempre em pé](https://brincatoys.pt/products/pinguim-musical-sempre-em-pe): Com o Pinguim Musical Wobbler, as crianças podem experimentar o som e se deliciar com os sons suaves do tilintar e o gingado engraçado do pinguim.  Dimensão: 18 x 15 x 9,50 cm.Idade Recomendada: + de 6 meses.
-  Updated: 2025-11-07T03:48:40Z
-  Vendor: Seleção Brincatoys
-  Product Type: + 6 meses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pinguim-musical-sempre-em-pe-82033123-6943478017702-brincatoys-1178697103.jpg?v=1752904817
-  Price: 19,50 € EUR
 - [Lego Marvel - Figura de Construção de Wolverine](https://brincatoys.pt/products/lego-marvel-figura-de-construcao-de-wolverine): Faça parte da ação de Wolverine com o seu próprio mega mutante ajustável da Marvel! Tal como nos filmes, esta fantástica figura de Super-herói dobra, torce, vira e pisca as suas enormes garras enquanto salta de uma emocionante aventura para a próxima!Totalmente articulado e com mais de 22 cm de altura, a LEGO® Marvel Figura de Construção de Wolveri
   Updated: 2025-11-07T03:48:40Z
   Vendor: LEGO
@@ -12561,7 +12547,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-dc-comics-figura-de-construcao-de-batman-667625923-5702017419756-lego-1178697115.jpg?v=1752905051
   Price: 39,99 € EUR
 - [Lego Marvel - Motos de Viúva Negra e Capitão América](https://brincatoys.pt/products/lego-marvel-motos-de-viuva-negra-e-capitao-america): O Capitão América e a Black Widow estão a dar uma volta nas suas motos super potentes. Os 2 super-heróis têm disparadores presos às suas motos para lutar contra quaisquer bandidos que se metam no seu caminho. Que aventuras irão encontrar na sua moto de alta velocidade? A decisão é sua!                    Dê vida à ação cinematográfica icónica com o
-  Updated: 2025-12-01T23:46:11Z
+  Updated: 2025-12-02T13:37:35Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -13012,7 +12998,7 @@ Figura com aproximadamente 10,5 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lamborghini-aventador-coupe-laranja-689462723-4891761240332-brincatoys-1178697370.jpg?v=1752908891
   Price: 22,99 € EUR
 - [Lego Friends - Calendário do Advento 2023](https://brincatoys.pt/products/lego-friends-calendario-do-advento-2023): Os animais de estimação de Heartlake City estão a celebrar as férias no parque de recreio para animais. Ajude-os a fazer a contagem decrescente até ao grande dia com o Calendário de Advento Lego Friends. Descubra um personagem, brinquedo ou atividade diferente atrás de cada janela. Decore a árvore de Natal. Depois crie atividades para os animais desfrutarem, enquanto exploram o parque canino. Reorganize as construções para criar novas aventuras para os amigos animais. Dimensão: 38,50 x 26 x 6,80 cm. Idade Recomendada: + de 6 anos.
-  Updated: 2025-12-01T23:10:30Z
+  Updated: 2025-12-02T13:35:10Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -14192,7 +14178,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-pokemon-garchomp-brincatoys-23336724-pokemon-1178698177.jpg?v=1752921374
   Price: 21,99 € EUR
 - [Figura de batalha Pokémon Vaporeon](https://brincatoys.pt/products/figura-de-batalha-pokemon-vaporeon): Descubra a magia do mundo Pokémon com a Figura de batalha Pokémon Vaporeon, uma peça articulada com 7,50 cm perfeita para fãs.
-  Updated: 2025-12-01T12:20:22Z
+  Updated: 2025-12-02T13:41:02Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -14563,7 +14549,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-city-60415-perseguicao-de-carro-da-policia-a-muscle-car-666041525-5702017583679-lego-1178698462.jpg?v=1752926770
   Price: 22,90 € EUR
 - [Lego Ninjago 71801 O Ataque do Dragão em Ascensão do Kai](https://brincatoys.pt/products/lego-ninjago-71801-o-ataque-do-dragao-em-ascensao): Lego Ninjago 71801 O Ataque do Dragão em Ascensão do Kai para oferecer aventuras épicas e uma experiência de construção única aos fãs de LEGO.
-  Updated: 2025-11-07T03:48:54Z
+  Updated: 2025-12-02T13:39:03Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -14726,7 +14712,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-skar-king-gigante-233931624-0043377355533-godzilla-vs-kong-1178698569.jpg?v=1752929054
   Price: 42,50 € EUR
 - [Godzilla x Kong: Kong Gigante com luva B.E.A.S.T](https://brincatoys.pt/products/godzilla-x-kong-kong-gigante): Descubra o poder e a majestade do rei dos primatas com o incrível brinquedo Godzilla x Kong: Kong Gigante com luva B.E.A.S.T.! Com 28 centímetros de altura, a figura do Giant Kong está pronta para reinar em qualquer lugar. Esta impressionante figura de ação, inspirada no blockbuster cinematográfico, está pronta para reacender a batalha épica entre gigantes no conforto da sua casa. Com um design detalhado e robusto, Kong apresenta-se em uma escala massiva que captura a sua poderosa presença no universo Monsterverse. Inicialmente, os fãs serão atraídos pela autenticidade do visual de Kong, com a sua textura de pelo realista e articulações móveis que proporcionam uma variedade de poses imponentes. Adicionalmente, Kong vem equipado com a luva B.E.A.S.T. amovível, um acessório que aumenta a sua força e contribui para um jogo imaginativo mais dinâmico. As crianças poderão criar cenas de lutas emocionantes ou recriar momentos icónicos dos filmes. Por outro lado, coleccionadores irão apreciar a atenção ao detalhe e a qualidade de construção desta figura, tornando-a uma peça central magnífica para qualquer exposição dedicada ao Monsterverse. Complete sua monstruosa coleção com outras figuras e acessórios da nova linha Godzilla x Kong. Em suma... Figura grande e detalhada de Kong com design autêntico. Acessório luva B.E.A.S.T. removível para recriação de batalhas épicas. Articulações móveis que permitem várias poses e cenas de ação. Packaging atraente perfeito para colecionadores e entusiastas. Dimensão: 28 x 31,50 x 15 cm.Idade recomendada: + 4 anos.
-  Updated: 2025-11-07T03:48:55Z
+  Updated: 2025-12-02T13:50:05Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
@@ -15040,13 +15026,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-42169-technic-neom-mclaren-replica-autentica-664216924-5702017583549-lego-1178698878.jpg?v=1752794522
   Price: 58,50 € EUR
-- [LEGO 42178 Technic Surface Space Loader - Aventura Espacial](https://brincatoys.pt/products/lego-technic-surface-space-loader-lt78): Domine terrenos extraterrestres com o LEGO 42178 Technic Surface Space Loader! Engenho e técnica numa aventura cósmica fundem-se neste conjunto.
-  Updated: 2025-11-07T03:48:57Z
-  Vendor: LEGO
-  Product Type: + 8 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-42178-technic-surface-space-loader-aventura-espacial-664217824-5702017584126-lego-1178698881.jpg?v=1752794532
-  Price: 38,50 € EUR
 - [Lego 71812 Ninjago O Robô Trepador Ninja do Kai](https://brincatoys.pt/products/lego-ninjago-o-robo-trepador-ninja-do-kai): Lego 71812 Ninjago O Robô Trepador Ninja do Kai. Explore suas articulações dinâmicas e minifiguras inclusas. Ideal para entusiastas de Ninjago.
   Updated: 2025-11-07T03:48:57Z
   Vendor: LEGO
@@ -15264,13 +15243,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-cartas-five-alive-diversao-familiar-estrategica-90420524-2600000-brincatoys-1178699088.jpg?v=1752935782
   Price: 10,00 € EUR
-- [Jogo de tabuleiro Jenga Clássico - Diversão e Estratégia](https://brincatoys.pt/products/jogo-jenga-classico-1): Descubra o Joga de tabuleiro Jenga Clássico na nossa loja! Ideal para jogadores de todas as idades, oferece desafio, estratégia e diversão familiar.
-  Updated: 2025-10-31T12:29:13Z
-  Vendor: Seleção Brincatoys
-  Product Type: + 6 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-tabuleiro-jenga-classico-diversao-e-estrategia-90212024-brincatoys-1178699090.jpg?v=1752935886
-  Price: 24,99 € EUR
 - [Jogo de Tabuleiro Twister clássico - Diversão e Desafio](https://brincatoys.pt/products/jogo-de-tabuleiro-twister-classico): Descubra o Jogo de Tabuleiro Twister, um clássico para todas as idades que promete risadas e desafios em cada rodada. Torne as suas festas divertida!
   Updated: 2025-11-07T03:48:58Z
   Vendor: Seleção Brincatoys
@@ -16434,7 +16406,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-lamborghini-terzo-millennio-verde-139904924-4893993210947-bburago-1178700092.jpg?v=1752950773
   Price: 22,99 € EUR
 - [Carro de Brincar Mercedes 190 E 2.6](https://brincatoys.pt/products/carro-de-brincar-mercedes-190-e-2-6): Descubra o carro de brincar Mercedes 190 E 2.6 da Burago à escala 1/24. Réplica detalhada, qualidade superior e horas de diversão garantida.
-  Updated: 2025-11-28T15:00:48Z
+  Updated: 2025-12-02T13:41:22Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -16630,7 +16602,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-disney-43235-palco-de-musica-da-ariel-664323524-5702017602073-lego-1178700235.jpg?v=1752952700
   Price: 18,90 € EUR
 - [Lego Friends 42638 - Estadia e Pequeno-almoço no Castelo](https://brincatoys.pt/products/lego-friends-estadia-e-pequeno-almoco-no-castelo): Lego Friends 42638 - Estadia e Pequeno-almoço no Castelo. Um produto que garante horas de construção criativa e pura diversão.
-  Updated: 2025-12-01T23:33:05Z
+  Updated: 2025-12-02T13:37:28Z
   Vendor: LEGO
   Product Type: + 12 anos
   Availability: Available
@@ -17315,13 +17287,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-gabby-conjuto-de-beleza-entre-em-um-mundo-magico-770294324-8445484394757-brincatoys-1178700788.jpg?v=1752961220
   Price: 17,90 € EUR
-- [Boneca L.O.L. Surprise Loves Hello Kitty: Uma colaboração mágica](https://brincatoys.pt/products/boneca-l-o-l-surprise-loves-hello-kitty): Prepare-se para a diversão com a boneca L.O.L Surprise Loves Hello Kitty! Uma colaboração única que combina o melhor dos dois mundos.
-  Updated: 2025-11-15T15:56:45Z
-  Vendor: LOL Surprise
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-l-o-l-surprise-loves-hello-kitty-uma-colaboracao-magica-775038124-0035051503828-lol-surprise-1178700802.jpg?v=1752785304
-  Price: 16,90 € EUR
 - [Puzzle Stitch 104 Peças: Alegria e Diversão com Stitch e Angel](https://brincatoys.pt/products/puzzle-stitch-104-pecas): Leve para casa a magia da Disney com o Puzzle Stitch 104 Peças. Recrie a cena tropical de Stitch e Angel, os adoráveis extraterrestres de Lilo & Stitch. 🌺
   Updated: 2025-11-07T03:49:12Z
   Vendor: Seleção Brincatoys
@@ -17337,7 +17302,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/miniatura-ferrari-sf23-carlos-sainz-683683625-8719247866424-bburago-1178700808.jpg?v=1752961457
   Price: 16,99 € EUR
 - [Miniatura Ferrari F12 Berlinetta 1/24 - Engenharia e Design](https://brincatoys.pt/products/ferrari-f12-berlinetta): Leve para casa a miniatura Ferrari F12 Berlinetta 1/24. Uma peça de coleção deslumbrante que captura a essência do design italiano.
-  Updated: 2025-11-07T03:49:12Z
+  Updated: 2025-12-02T23:12:00Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -18296,7 +18261,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-de-cartas-uno-minecraft-diversao-para-todos-236067823-0887961606782-uno-1178697508.jpg?v=1752911406
   Price: 15,99 € EUR
 - [Lego Creator 31153 - Casa Moderna 3 em 1](https://brincatoys.pt/products/lego-creator-casa-moderna): Descubra o mundo dos dinossauros com o Lego Creator 31153 - Casa Moderna 3 em 1! Um conjunto 3 em 1 que oferece diversão e aprendizagem.
-  Updated: 2025-11-07T03:49:18Z
+  Updated: 2025-12-02T22:01:20Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -18555,7 +18520,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-triceratops-realista-238494825-0194735284948-jurassic-world-1178701689.jpg?v=1752781084
   Price: 24,90 € EUR
 - [Jurassic World Hammond Collection: Atrociraptor Detalhada](https://brincatoys.pt/products/jurassic-world-hammond-collection-atrociraptor): Sinta a emoção de Jurassic World com a figura Jurassic World Hammond Collection: Atrociraptor. Detalhes impressionantes que vão te surpreender!
-  Updated: 2025-12-01T20:07:15Z
+  Updated: 2025-12-02T13:33:16Z
   Vendor: Jurassic World
   Product Type: + 8 anos
   Availability: Available
@@ -18814,7 +18779,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60461-trator-agricola-vermelho-com-reboque-666046125-5702017812618-lego-1178701877.jpg?v=1752978741
   Price: 22,50 € EUR
 - [Jogo de Cartas Lobisomens d’Aldeia Velha: Diverte](https://brincatoys.pt/products/jogo-de-cartas-lobisomens-da-aldeia-velha): Descubra o emocionante Jogo de Cartas Lobisomens d’Aldeia Velha! Divirta-se em família ou com amigos enquanto desvenda mistérios escondidos.
-  Updated: 2025-11-07T03:49:21Z
+  Updated: 2025-12-02T13:38:27Z
   Vendor: Seleção Brincatoys
   Product Type: + 10 anos
   Availability: Available
@@ -18849,7 +18814,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-little-live-pets-lil-bird-tweet-twinkle-azul-641941624-little-live-pets-1178699445.jpg?v=1752941763
   Price: 23,99 € EUR
 - [Camião Basculante da Bluey e Bingo para Brincar!](https://brincatoys.pt/products/camiao-basculante-da-bluey): O Camião basculante da Bluey e Bingo traz diversão e aventura para as brincadeiras! Inclui figuras e bolas de lama para diversão garantida.
-  Updated: 2025-11-07T03:49:21Z
+  Updated: 2025-12-02T23:39:14Z
   Vendor: Bluey
   Product Type: + 3 anos
   Availability: Available
@@ -18891,7 +18856,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneca-baby-alive-dia-de-spa-diversao-e-magia-553564524-5010993933068-baby-alive-1178698257.jpg?v=1752922803
   Price: 33,50 € EUR
 - [Puzzle Clássicos Disney 3 x 48: Diversão em Família](https://brincatoys.pt/products/puzzle-classicos-disney-3-x-48): Divirta-se montando o Puzzle Clássicos Disney 3 x 48! Traga a magia da Disney para as mãos dos pequenos com cada peça vibrante.
-  Updated: 2025-11-07T03:49:21Z
+  Updated: 2025-12-02T20:02:15Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -19010,7 +18975,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-dragon-ball-300-pcs-diversao-para-todas-as-idades-852172625-8005125217267-dragon-ball-1178701998.jpg?v=1752980406
   Price: 12,99 € EUR
 - [Figura Marvel Legends Venom: Figura de Ação Icônica](https://brincatoys.pt/products/figura-marvel-legends-venom): Descubra a ferocidade da Figura Marvel Legends Venom! Com 15 cm, articulação avançada e diversos acessórios, esta figura é perfeita para colecionadores.
-  Updated: 2025-11-30T18:36:25Z
+  Updated: 2025-12-02T15:52:26Z
   Vendor: Marvel
   Product Type: + 4 anos
   Availability: Available
@@ -19059,7 +19024,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/hot-wheels-lb-works-mclaren-720s-modelo-premium-232622525-194735262250-hot-wheels-1178702026.jpg?v=1752980886
   Price: 14,99 € EUR
 - [Puzzle Patrulha Pata 3 x 48 pçs para Crianças Divertidas](https://brincatoys.pt/products/puzzle-patrulha-pata-3-x-48-pcs): Desperte a imaginação com o Puzzle Patrulha Pata 3 x 48 peças! Ideal para pequenos fãs, este jogo estimula o raciocínio lógico. Compre agora!
-  Updated: 2025-11-07T03:49:22Z
+  Updated: 2025-12-02T23:15:00Z
   Vendor: Patrulha Pata
   Product Type: + 5 anos
   Availability: Available
@@ -19878,21 +19843,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-splinter-233874125-0043377832867-tartarugas-ninja-1178692501.jpg?v=1752821541
   Price: 19,99 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Superfly](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-superfly): A figura Superfly Fly Guy da linha Teenage Mutant Ninja Turtles Mutant Mayhem traz toda a ousadia de um vilão mutante para a coleção de fãs e miúdos a partir dos 4 anos. Primeiramente, com escultura detalhada em PVC resistente, apresenta corpo texturizado em azul vibrante e olhos facetados em vermelho, recriando fielmente o visual do insecto mutante. Além disso, as asas translúcidas conferem dinamismo e realismo durante as brincadeiras. Ademais, para além do design arrojado, Superfly mede cerca de 10 cm de altura e dispõe de 12 pontos de articulação, o que permite criar poses de voo, ataque ou perseguição pelas ruas de Nova Iorque. Além disso, as mãos articuladas encaixam perfeitamente seis acessórios: um blaster futurista, lança-agulhas, granada tóxica, metralhadora leve, faca de lâmina dupla e bastão extensível. Dessa forma, a imaginação corre solta enquanto se encaixam armas e recriam-se cenas de confronto com as Tartarugas Ninja. Por outro lado, além de incentivar a criatividade, esta figura cumpre rigorosos padrões de segurança CE. Portanto, quer procure um brinquedo duradouro para brincadeiras diárias, quer deseje um item de valor para a sua vitrine, a figura Superfly Fly Guy garante robustez, versatilidade e autenticidade. Com ela, cada batalha contra o mal torna-se épica, enquanto se estimulam competências motoras finas e a coordenação mão-olho. Em suma... Altura: 10 cm (4”); 12 pontos de articulação Material: PVC resistente com pintura detalhada Acessórios: armas intercambiáveis (blaster, lança-agulhas, granada, metralhadora, faca, bastão) Dimensão: 19 x 21 x 5,50 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-10-31T12:31:05Z
+  Updated: 2025-12-02T13:40:01Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-superfly-233874025-0043377832874-tartarugas-ninja-1178692493.jpg?v=1752823323
   Price: 19,99 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Bebop](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-bebop): A figura Bebop da coleção Teenage Mutant Ninja Turtles Mutant Mayhem traz toda a energia e irreverência de um dos vilões mais icónicos da série diretamente para as mãos dos fãs. Em primeiro lugar, com design autêntico, inspirado no filme de animação Mutant Mayhem, apresenta pintura vibrante e escultura rica em detalhes que capturam as tatuagens, a jaqueta rasgada e o moicano rosa de Bebop. Além disso, cada peça é produzida em plástico PVC resistente, garantindo durabilidade para horas de brincadeira. Por outro lado, para maximizar a interatividade, a figura mede 11,5 cm e dispõe de 12 pontos de articulação, permitindo recriar poses de ação e cenas épicas de combate contra as Tartarugas Ninja. Além disso, inclui um conjunto de acessórios — entre eles uma arma principal com efeito de perfuração, faca, machado e bastão — todos compatíveis com os encaixes dos punhos de Bebop. Assim, as crianças podem explorar a criatividade ao montar diferentes cenários de luta. Portanto, quer procure um brinquedo robusto para brincadeiras diárias quer um item de colecionador, a figura Bebop Mutant Mayhem satisfaz ambos os desejos. Por fim, complemente a sua coleção de Tartarugas Ninja com este vilão ameaçador, estimule a motricidade fina e mergulhe num universo de combate e aventura em Nova York! Em suma... Medidas: 11,5 cm e 12 pontos de articulação Material: plástico PVC resistente, acabamento detalhado Acessórios: armas metálicas intercambiáveis Dimensão: 19 x 21 x 5,50 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-11-24T10:05:46Z
+  Updated: 2025-12-02T13:40:05Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-bebop-233874225-0043377832898-tartarugas-ninja-1178692497.jpg?v=1752821529
   Price: 19,99 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Rocksteady](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-rocksteady): A figura Rocksteady Mutant Muscle da coleção Teenage Mutant Ninja Turtles Mutant Mayhem traz toda a força bruta de um vilão lendário diretamente para as mãos dos fãs. Primeiramente, confeccionada em plástico PVC de elevada resistência, esta peça reproduz com fidelidade a pele rugosa, as cicatrizes de guerra e o chifrudo rosto de rinoceronte, realçados por pintura precisa em tons de cinza envelhecido. Além disso, o colete fluorescente e as calças camufladas complementam o visual urbano, inspirado nas ruas caóticas de Nova Iorque. Ademais, para maximizar a interatividade, Rocksteady mede aproximadamente 10,8 cm (4,25”) de altura e dispõe de 12 pontos de articulação, o que facilita recriar poses de ataque, bloqueio e comemoração de vitória. Por outro lado, os miúdos a partir dos 4 anos podem posicionar braços, pernas e cabeça em cenários de ação dinâmicos. Para estimular ainda mais a criatividade, o conjunto inclui acessórios em plástico resistente: uma metralhadora leve, um rifle de assalto, um martelo de combate, um escudo de bueiro, uma faca tática e um bastão reforçado. Todos encaixam com firmeza nas mãos articuladas, permitindo combinações variadas de equipamentos de batalha. Do mesmo modo, além de divertida, esta figura cumpre os padrões de segurança CE. Por fim, quer procure um brinquedo robusto para brincadeiras diárias quer um item de coleção de elevado valor, a figura Rocksteady Mutant Muscle oferece detalhe, durabilidade e versatilidade para fãs e colecionadores. Com ela, cada missão de combate torna-se ainda mais intensa e cheia de adrenalina! Em suma... Altura: 10,8 cm (4,25”) com 12 pontos de articulação Material: PVC resistente com pintura detalhada Acessórios: 6 armas intercambiáveis (metralhadora, rifle, martelo, escudo, faca, bastão) Dimensão: 19 x 21 x 5,50 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-11-28T01:34:57Z
+  Updated: 2025-12-02T13:40:10Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
@@ -21021,7 +20986,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/conjunto-de-6-figuras-de-banho-542068925-5420071705966-brincatoys-1192457700.jpg?v=1757677808
   Price: 19,99 € EUR
 - [Sonic The Hedgehog - Super Sonic: Figura Articulada 10 cm](https://brincatoys.pt/products/sonic-the-hedgehog-super-sonic): Acelere no mundo de Sonic com a figura Sonic The Hedgehog - Super Sonic! Com 13 pontos de articulação e a Esmeralda-Mestra, ele brilha!
-  Updated: 2025-11-12T13:21:36Z
+  Updated: 2025-12-02T22:05:20Z
   Vendor: Sonic the Hedgehog
   Product Type: + 3 anos
   Availability: Available
@@ -22257,19 +22222,19 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-24T11:23:51Z
   Total Products: 62
 - [Blocos de Construção](https://brincatoys.pt/collections/blocos-de-construcao)
-  Updated: 2025-11-29T19:21:06Z
-  Total Products: 38
+  Updated: 2025-12-02T19:49:18Z
+  Total Products: 37
 - [Cozinha e faz-de-conta](https://brincatoys.pt/collections/cozinha-e-faz-de-conta)
   Updated: 2025-11-27T22:03:43Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-12-01T12:38:07Z
+  Updated: 2025-12-02T12:44:53Z
   Total Products: 556
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
   Updated: 2025-11-30T11:36:48Z
   Total Products: 28
 - [Jogos educativos e de tabuleiro](https://brincatoys.pt/collections/jogos-educativos-e-de-tabuleiro)
-  Updated: 2025-11-30T12:29:59Z
+  Updated: 2025-12-02T20:05:52Z
   Total Products: 183
 - [Lego City](https://brincatoys.pt/collections/lego-city): Explora o mundo vibrante de LEGO® City onde há muito para fazer. Vai até à baixa da cidade, encena histórias emocionantes com os serviços de urgência e descobre as novas fronteiras, dos oceanos ao espaço. Constrói veículos fantásticos, viaja de comboio ou organiza incríveis espetáculos de acrobacias.
   Updated: 2025-11-24T11:20:54Z
@@ -22281,16 +22246,16 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-08T12:21:19Z
   Total Products: 13
 - [Lego Disney](https://brincatoys.pt/collections/lego-disney): Celebra 100 anos de encantamento mágico com os conjuntos LEGO® | Disney e as suas personagens icónicas. Os fãs podem recriar as cenas memoráveis, as atrações dos parques de diversões e construir os castelos encantados da Disney. Junta-te ao Mickey e Amigos, às Princesas Disney e a muitas outras personagens em brincadeiras criativas e divertidas.
-  Updated: 2025-11-28T12:39:04Z
+  Updated: 2025-12-02T12:31:10Z
   Total Products: 20
 - [Lego Duplo](https://brincatoys.pt/collections/lego-duplo): Quando os mais pequenos têm uma grande imaginação, as peças de construção LEGO® DUPLO® libertam a sua criatividade através da aprendizagem e desenvolvimento. Este conjuntos oferecem aos mais pequenos diversão ilimitada, autoexpressão e a felicidade da descoberta.
   Updated: 2025-11-29T12:36:29Z
   Total Products: 25
 - [Lego Friends](https://brincatoys.pt/collections/lego-friends): Celebra a amizade com um grupo de raparigas unidas que partilham aventuras em Heartlake City. Descobre os conjuntos que incluem novas personagens. Os jovens construtores podem criar histórias divertidas enquanto desenvolvem competências interpessoais e de perceção emocional através de representações.
-  Updated: 2025-11-25T21:33:24Z
+  Updated: 2025-12-02T12:31:10Z
   Total Products: 36
 - [Lego Harry Potter - Entre no mundo mágico](https://brincatoys.pt/collections/lego-harry-potter): Entra no mundo mágico de LEGO® Harry Potter™ e deixa-te encantar pela magia criativa e constrói modelos encantadores para expores.
-  Updated: 2025-11-25T12:29:29Z
+  Updated: 2025-12-02T12:33:37Z
   Total Products: 20
 - [Lego Hidden Side](https://brincatoys.pt/collections/lego-hidden-side)
   Updated: 2025-11-08T12:21:20Z
@@ -22299,13 +22264,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-08T12:21:20Z
   Total Products: 6
 - [Lego Marvel](https://brincatoys.pt/collections/lego-marvel): Recria as cenas emocionantes dos filmes do Universo Cinematográfico Marvel e participa na batalha do bem contra o mal nos conjuntos LEGO® Marvel. Junta-te a algumas das personagens favoritas, como os Guardiões da Galáxia, Homem-Formiga, Pantera Negra, Homem-Aranha, Hulk e muitos outros em emocionantes aventuras de encenação.
-  Updated: 2025-12-01T12:38:07Z
+  Updated: 2025-12-02T20:35:18Z
   Total Products: 36
 - [Lego Minecraft](https://brincatoys.pt/collections/lego-minecraft): Inspira infinitas aventuras de Minecraft® para os fãs recriarem os icónicos detalhes pixelizados do famoso videojogo. Utiliza a criatividade para dar vida às autênticas personagens de Minecraft® e constrói estruturas e cenas únicas para criares histórias divertidas e emocionantes.
   Updated: 2025-11-10T00:05:53Z
   Total Products: 22
 - [Lego Ninjago](https://brincatoys.pt/collections/lego-ninjago): Os conjuntos LEGO® NINJAGO® incluem divertidas representações repletas de ação, com ninjas giratórios, dragões esvoaçantes, poderosos robôs e muito mais. Constrói templos incrivelmente detalhados e veículos fantásticos com infinitas possibilidades de narrativas do bem contra o mal.
-  Updated: 2025-11-23T12:25:00Z
+  Updated: 2025-12-02T12:31:10Z
   Total Products: 22
 - [Lego Speed Champions](https://brincatoys.pt/collections/lego-speed-champions): Partida, largada, fugida! Os produtos LEGO® Speed Champions oferecem aos fãs de corridas de carros a oportunidade de recriar mini versões dos principais e mais conhecidos veículos do mundo. Constrói e expõe estas réplicas de modelos colecionáveis de marcas, como Ferrari, Aston Martin, Lamborghini, Dodge e Chevrolet.
   Updated: 2025-11-21T12:25:53Z
@@ -22326,10 +22291,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-29T23:05:14Z
   Total Products: 110
 - [Peluches](https://brincatoys.pt/collections/peluches)
-  Updated: 2025-11-29T23:22:53Z
-  Total Products: 112
+  Updated: 2025-12-02T12:33:41Z
+  Total Products: 111
 - [Outras categorias](https://brincatoys.pt/collections/brinquedos-outras-categorias)
-  Updated: 2025-12-01T12:38:07Z
+  Updated: 2025-12-02T12:45:18Z
   Total Products: 226
 - [Lego Avatar](https://brincatoys.pt/collections/lego-avatar): Explora o mundo de Pandora através dos emocionantes e desafiantes conjuntos LEGO inspirados no universo do filme Avatar. Recria cenas ou encena novas aventuras com conjuntos que incluem personagens icónicas e localizações familiares dos filmes.
   Updated: 2025-11-08T12:21:20Z
@@ -22338,10 +22303,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-29T19:56:28Z
   Total Products: 103
 - [Puzzle Adulto](https://brincatoys.pt/collections/puzzles-adulto)
-  Updated: 2025-11-30T12:29:59Z
+  Updated: 2025-12-02T12:31:10Z
   Total Products: 95
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-11-30T12:29:59Z
+  Updated: 2025-12-02T12:49:51Z
   Total Products: 253
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
   Updated: 2025-11-21T11:01:09Z
@@ -22353,16 +22318,16 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-21T19:39:04Z
   Total Products: 156
 - [Mundo Fantasia](https://brincatoys.pt/collections/bonecos-disney-mundo-fantasia)
-  Updated: 2025-12-01T12:38:07Z
+  Updated: 2025-12-02T12:47:29Z
   Total Products: 191
 - [Casa de Bonecas e acessórios](https://brincatoys.pt/collections/casa-de-bonecas-e-acessorios)
   Updated: 2025-11-08T12:21:20Z
   Total Products: 53
 - [Brinquedos para Bebé](https://brincatoys.pt/collections/primeira-infancia-brinquedos-para-bebe)
-  Updated: 2025-11-29T19:56:10Z
-  Total Products: 118
+  Updated: 2025-12-02T12:31:15Z
+  Total Products: 117
 - [Musicais](https://brincatoys.pt/collections/brinquedos-musicais-bebe)
-  Updated: 2025-11-13T12:25:47Z
+  Updated: 2025-12-02T12:22:40Z
   Total Products: 19
 - [Primeiros encaixes](https://brincatoys.pt/collections/primeira-infancia-primeiros-encaixes)
   Updated: 2025-11-29T19:54:25Z
@@ -22371,13 +22336,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-18T13:58:48Z
   Total Products: 44
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
-  Updated: 2025-12-01T12:38:07Z
+  Updated: 2025-12-02T12:31:10Z
   Total Products: 209
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
-  Updated: 2025-11-29T12:36:29Z
+  Updated: 2025-12-02T12:34:32Z
   Total Products: 179
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
-  Updated: 2025-11-30T12:29:59Z
+  Updated: 2025-12-02T12:48:27Z
   Total Products: 122
 - [Lego Sonic](https://brincatoys.pt/collections/lego-sonic): Acelera com o herói dos videojogos nos fantásticos conjuntos LEGO® Sonic the Hedgehog™. O Sonic junta-se aos amigos Tails e Amy em desafios emocionantes para apanharem anéis e enfrentarem o Dr. Eggman, o Cubot e os Badniks.
   Updated: 2025-11-08T12:21:21Z
@@ -22395,58 +22360,58 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-29T23:22:53Z
   Total Products: 106
 - [+ 10 anos](https://brincatoys.pt/collections/10-anos)
-  Updated: 2025-11-08T12:21:21Z
+  Updated: 2025-12-02T12:31:10Z
   Total Products: 29
 - [0 - 12 meses](https://brincatoys.pt/collections/0-12-meses)
-  Updated: 2025-11-30T10:54:45Z
-  Total Products: 347
+  Updated: 2025-12-02T12:33:41Z
+  Total Products: 346
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-12-01T12:38:07Z
-  Total Products: 1607
+  Updated: 2025-12-02T19:49:18Z
+  Total Products: 1606
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-12-01T12:38:07Z
+  Updated: 2025-12-02T20:35:18Z
   Total Products: 711
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-11-30T12:29:59Z
+  Updated: 2025-12-02T12:44:53Z
   Total Products: 340
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-11-14T22:04:41Z
   Total Products: 27
 - [+ 6 meses](https://brincatoys.pt/collections/6-meses)
-  Updated: 2025-11-29T16:19:06Z
+  Updated: 2025-12-02T12:31:10Z
   Total Products: 59
 - [+ 12 meses](https://brincatoys.pt/collections/12-meses)
   Updated: 2025-11-30T10:54:45Z
   Total Products: 127
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-12-01T12:38:07Z
+  Updated: 2025-12-02T12:46:20Z
   Total Products: 1296
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-12-01T12:53:03Z
-  Total Products: 2426
+  Updated: 2025-12-02T20:35:47Z
+  Total Products: 2424
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-12-01T21:22:06Z
-  Total Products: 2891
+  Updated: 2025-12-02T20:35:18Z
+  Total Products: 2890
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-12-01T21:22:06Z
-  Total Products: 3277
+  Updated: 2025-12-02T20:35:18Z
+  Total Products: 3274
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-12-01T21:22:06Z
-  Total Products: 3412
+  Updated: 2025-12-02T20:35:18Z
+  Total Products: 3409
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-12-01T21:22:06Z
-  Total Products: 3494
+  Updated: 2025-12-02T20:35:18Z
+  Total Products: 3491
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-12-01T21:22:06Z
-  Total Products: 3542
+  Updated: 2025-12-02T20:35:18Z
+  Total Products: 3539
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-12-01T12:38:07Z
+  Updated: 2025-12-02T12:44:53Z
   Total Products: 510
 - [Outlet](https://brincatoys.pt/collections/outlet): Oportunidades Outlet exclusivo online. Artigos limitados ao stock existente. Acumulável com outros descontos ou promoções.
   Updated: 2025-11-08T12:21:21Z
   Total Products: 59
 - [Bluey](https://brincatoys.pt/collections/bluey)
-  Updated: 2025-11-24T12:31:44Z
+  Updated: 2025-12-02T12:31:10Z
   Total Products: 15
 - [Barbie](https://brincatoys.pt/collections/barbie)
   Updated: 2025-11-28T19:44:21Z
@@ -22467,8 +22432,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-08T12:21:22Z
   Total Products: 0
 - [Cars](https://brincatoys.pt/collections/cars)
-  Updated: 2025-11-30T12:29:59Z
-  Total Products: 63
+  Updated: 2025-12-02T19:27:13Z
+  Total Products: 62
 - [Cartas Pokémon](https://brincatoys.pt/collections/pokemon-trading-card)
   Updated: 2025-11-29T12:36:29Z
   Total Products: 2
@@ -22500,10 +22465,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-08T12:21:22Z
   Total Products: 2
 - [Jurassic World](https://brincatoys.pt/collections/jurassic-world)
-  Updated: 2025-11-29T19:19:08Z
+  Updated: 2025-12-02T12:31:10Z
   Total Products: 36
 - [Marvel](https://brincatoys.pt/collections/marvel)
-  Updated: 2025-11-29T12:36:29Z
+  Updated: 2025-12-02T12:31:10Z
   Total Products: 114
 - [My Little Pony](https://brincatoys.pt/collections/my-little-pony)
   Updated: 2025-12-01T12:38:07Z
@@ -22518,13 +22483,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-08T12:21:22Z
   Total Products: 28
 - [Toy Story](https://brincatoys.pt/collections/toy-story)
-  Updated: 2025-12-01T12:38:07Z
+  Updated: 2025-12-02T12:31:10Z
   Total Products: 11
 - [Transformers](https://brincatoys.pt/collections/transformers)
   Updated: 2025-11-26T12:29:14Z
   Total Products: 51
 - [Star Wars](https://brincatoys.pt/collections/star-wars)
-  Updated: 2025-12-01T21:22:06Z
+  Updated: 2025-12-02T12:31:10Z
   Total Products: 30
 - [Trolls](https://brincatoys.pt/collections/trolls)
   Updated: 2025-11-08T12:21:22Z
@@ -22548,10 +22513,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-30T12:29:59Z
   Total Products: 38
 - [LEGO](https://brincatoys.pt/collections/lego)
-  Updated: 2025-12-01T12:38:07Z
+  Updated: 2025-12-02T20:35:18Z
   Total Products: 449
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
-  Updated: 2025-11-21T21:10:33Z
+  Updated: 2025-12-02T12:31:10Z
   Total Products: 14
 - [LadyBug](https://brincatoys.pt/collections/ladybug)
   Updated: 2025-11-08T12:21:23Z
@@ -22590,13 +22555,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-12-01T12:38:07Z
   Total Products: 117
 - [Pokémon](https://brincatoys.pt/collections/pokemon)
-  Updated: 2025-11-30T12:29:59Z
+  Updated: 2025-12-02T12:31:10Z
   Total Products: 93
 - [Polly Pocket](https://brincatoys.pt/collections/polly-pocket)
   Updated: 2025-11-08T12:21:23Z
   Total Products: 3
 - [Princesas Disney](https://brincatoys.pt/collections/princesas-disney)
-  Updated: 2025-11-23T14:10:51Z
+  Updated: 2025-12-02T12:47:29Z
   Total Products: 110
 - [Rainbow High](https://brincatoys.pt/collections/rainbow-high)
   Updated: 2025-11-30T12:29:59Z
@@ -22620,7 +22585,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-08T12:21:24Z
   Total Products: 6
 - [Tartarugas Ninja](https://brincatoys.pt/collections/tartarugas-ninja)
-  Updated: 2025-12-01T12:38:07Z
+  Updated: 2025-12-02T12:31:10Z
   Total Products: 39
 - [Vet Squad](https://brincatoys.pt/collections/vet-squad)
   Updated: 2025-11-08T12:21:24Z
@@ -22629,47 +22594,47 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-08T12:21:24Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-12-01T21:22:06Z
-  Total Products: 3575
+  Updated: 2025-12-02T20:35:18Z
+  Total Products: 3572
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-12-01T12:38:07Z
+  Updated: 2025-12-02T20:05:52Z
   Total Products: 293
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
-  Updated: 2025-11-30T12:29:59Z
+  Updated: 2025-12-02T12:44:49Z
   Total Products: 183
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
   Updated: 2025-11-29T19:56:28Z
   Total Products: 124
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-12-01T12:53:03Z
-  Total Products: 1280
+  Updated: 2025-12-02T19:27:13Z
+  Total Products: 1278
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-12-01T21:22:06Z
+  Updated: 2025-12-02T20:35:18Z
   Total Products: 521
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-11-30T12:29:59Z
   Total Products: 140
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
-  Updated: 2025-12-01T12:38:07Z
+  Updated: 2025-12-02T20:05:52Z
   Total Products: 188
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
   Updated: 2025-11-29T19:22:55Z
   Total Products: 83
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-11-30T12:29:59Z
-  Total Products: 228
+  Updated: 2025-12-02T14:13:48Z
+  Total Products: 227
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
-  Updated: 2025-11-30T17:53:22Z
+  Updated: 2025-12-02T12:31:10Z
   Total Products: 88
 - [+ 14 anos](https://brincatoys.pt/collections/14-anos)
-  Updated: 2025-12-01T11:53:50Z
+  Updated: 2025-12-02T12:31:10Z
   Total Products: 84
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-12-01T21:22:06Z
-  Total Products: 3576
+  Updated: 2025-12-02T20:35:18Z
+  Total Products: 3573
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-12-01T21:22:06Z
-  Total Products: 3576
+  Updated: 2025-12-02T20:35:18Z
+  Total Products: 3573
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-11-23T12:25:00Z
   Total Products: 21
@@ -22680,20 +22645,20 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-08T12:21:25Z
   Total Products: 7
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-12-01T23:33:36Z
-  Total Products: 3065
+  Updated: 2025-12-02T23:15:30Z
+  Total Products: 3059
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-11-14T22:04:42Z
   Total Products: 19
 - [Bburago](https://brincatoys.pt/collections/bburago)
-  Updated: 2025-11-29T12:36:29Z
+  Updated: 2025-12-02T12:34:32Z
   Total Products: 121
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-12-01T23:33:36Z
-  Total Products: 3065
+  Updated: 2025-12-02T23:15:30Z
+  Total Products: 3059
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-11-30T16:01:09Z
-  Total Products: 719
+  Updated: 2025-12-02T20:05:51Z
+  Total Products: 720
 
 ## Blogs
 
