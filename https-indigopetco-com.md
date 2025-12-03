@@ -6,7 +6,7 @@
 - Timezone: America/Phoenix
 - Created At: 2017-12-15T19:49:34Z
 - Contact Email: contact@Indigopetco.com
-- Updated At: 2025-12-01T00:01:57.298Z
+- Updated At: 2025-12-03T00:01:31.948Z
 
 ## Products
 
@@ -1724,14 +1724,14 @@
   Image: https://cdn.shopify.com/s/files/1/2646/1218/files/indigopetco-com-chameleon-cable-chomper-default-title-chameleon-cable-chomper-4464185606186.jpg?v=1712093751
   Price: $11.99 USD
 - [Pet DeShedding Glove](https://indigopetco.com/products/pet-deshedding-glove): Groom and de-shed your pet while you bond! The IndigoPetCo DeShedding Glove removes loose fur gently and effectively. Great for dogs, cats, and all coat types.
-  Updated: 2025-11-30T08:54:02Z
+  Updated: 2025-12-01T21:22:19Z
   Vendor: IndigoPetco.com
   Product Type: Pet DeShedding Glove
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2646/1218/files/IMG-2855.png?v=1748919619
   Price: $18.00 USD
 - [3-Pack Pet DeShedding Gloves](https://indigopetco.com/products/3-pack-pet-deshedding-gloves): Groom and de-shed your pet while you bond! The IndigoPetCo DeShedding Glove removes loose fur gently and effectively. Great for dogs, cats, and all coat types.
-  Updated: 2025-11-30T08:54:03Z
+  Updated: 2025-12-01T22:23:06Z
   Vendor: IndigoPetco.com
   Product Type: 3 Pack of DeShedding Gloves
   Availability: Available
@@ -1988,7 +1988,7 @@
     Image: https://cdn.shopify.com/s/files/1/2646/1218/products/image_5c04696b-0b9f-4da2-bcef-314099e7dde5.jpg?v=1632070225
     Price: $94.95 USD
 - [Custom Dog Bed - Indigopetco.com](https://indigopetco.com/products/custom-dog-bed): Send Us A Pic Of Your Pet & We Will Add It To Your Custom Product. Great For Gifts. Our artists hand design each order with a picture of your pet. Try it today! Multiple Payment Options. Sign Up For Updates. Shop Online. Types: Hoodies, Mugs, Pillows, Socks, T-Shirts, Dog Beds.
-  Updated: 2025-11-30T08:54:20Z
+  Updated: 2025-12-01T10:00:17Z
   Vendor: IndigoPetco.com
   Product Type: Custom Dog Bed
   Availability: Available
@@ -2185,7 +2185,7 @@
   Image: https://cdn.shopify.com/s/files/1/2646/1218/products/IMG_7578.PNG?v=1632068711
   Price: $14.99 USD
 - [Laundry Pet Hair Catcher](https://indigopetco.com/products/laundry-pet-hair-catcher): Reusable for 2,000 loads of wash. Recommended to buy two or more for higher-capacity washer (larger than 15lbs) Tired of finding pet hair and lint stuck to your freshly washed clothes? Now you can collect and remove even the finest pet hair, dirt, or residue from your laundry, effortlessly! Simply toss the Laundry Pet Hair Catcher into your washing machine or dryer (or both) to effectively remove hairs, lint, pet fur, and even those irritating, fluffy balls that collect on clothing and bedding! The secret... the innovative, inverted, cone-shaped net bag, that's specially designed to trap annoying dirt, hair, and residue as it flows through the hair catcher. FEATURES: Soft, tacky, flexible material that grabs hair, lint, dander and other debris Safe for all clothing Reusable- Each one is good for up to 2000 uses Easy to use! Simply put it into the washing machine when washing clothes to filter lint, pet hair, and dirt. Keep your washing machine clean and prevent clogged pipes. Works best in top-loading washing machines. Package Includes: 1 x Floating Lint Hair Catcher.
-  Updated: 2025-11-30T21:52:50Z
+  Updated: 2025-12-02T23:40:41Z
   Vendor: IndigoPetco.com
   Product Type: Laundry Pet Hair Catcher
   Availability: Available
@@ -2858,7 +2858,7 @@ Customer experience is our priority We are here for you with 24/7 customer servi
     Image: https://cdn.shopify.com/s/files/1/2646/1218/products/image_0658b2ed-1082-451d-8351-1bb4092d395c.jpg?v=1639031185
     Price: $29.99 USD
 - [Pet Hair Removal Broom](https://indigopetco.com/products/pet-hair-removal-broom): For carpet & rugs use the squeegee side for best results! :) Becoming a pet parent can quickly turn your home into the Wild West, but those shedding tumbleweeds have met their match with our Extendable Pet Hair Removal Broom. This unique, multi-surface extendable broom has soft bristles made from natural rubber, making it perfect for collecting the fur left behind by your critters. Our Pet Hair Removal Broom is the ideal tool for every pet owner. This broom sweeps up hair, lint, dust, dirt, and more from virtually any surface - not just your floors! Rescue your carpet, hardwood floors, tile, clothing, and upholstery from that layer of pet hair and dust without a scratch! Also includes a built-in squeegee that's perfect for cleaning carpet, rugs, windows, mirrors, cars, or other flat surfaces. Removes Fur: Our pet hair removal broom attracts pet hair like a magnet to easily remove fur from carpets, rugs, tile, hardwood, and linoleum. Telescopic Handle: The handle extends from 36 inches to 60 inches, making perfect for reaching those fur balls in high places without a ladder. Easy Cleanup: Wash away excess hair on the rubber broom bristles with soapy water. Built-In Squeegee: Includes a built-in rubber squeegee that's perfect for cleaning windows and spills. Frequently Asked Questions: Q: Why not just use a vacuum? A: Our broom lifts up your carpet with the soft rubber bristles and collects all the hair your vacuum cannot reach. Q: Why not use a broom for my tile or hardwood floors? A: Our broom has soft rubber bristles that act as a magnet to pet hair. Have you ever tried sweeping up pet hair and it just flies all over the house? With our broom that will not happen!
-  Updated: 2025-11-30T23:42:35Z
+  Updated: 2025-12-02T16:24:05Z
   Vendor: IndigoPetco.com
   Product Type: Brooms
   Availability: Available
@@ -2911,77 +2911,77 @@ Customer experience is our priority We are here for you with 24/7 customer servi
   Image: https://cdn.shopify.com/s/files/1/2646/1218/files/indigopetco-com-custom-pup-socks-unisize-custom-pet-socks-with-your-pet-39986004361494.png?v=1712094377
   Price: $33.99 USD
 - [Recycled plastic Lint and Pet Hair Remover Brush](https://indigopetco.com/products/recycled-plastic-lint-and-pet-hair-remover-brush): As pet parents, we understand the struggle of constantly brushing fur off of your clothes, having to vacuum it up off of the carpet, and continuously lint-rolling your couch, curtains, and clothes with a sticky lint roller. Did you know that 58% of pet fur-covered clothes get thrown away before any attempt to recondition them? What if we told you that there was a new pet hair remover that could do the job twice as fast and twice as effective, but without the sticky residue left behind? Our Amazing Pet Hair and Lint Remover isn’t just another plain pet hair roller. It’s a comprehensive pet hair solution specifically designed to help you remove pet hair from your clothes, your upholstery, and many other surfaces with ease. This unique product is the eco-friendly answer that we’ve all been waiting for. It is time to say goodbye to the battery-powered pet hair removers or the sticky lint roller that you leave in the linen closet. It is time to rid your home, clothing, and upholstery from pet hair with a real solution. 5 Reasons This Product Will Be Life Changing: Eco-Friendly – Say goodbye to the wasteful & battery-powered devices. The Amazing Pet Hair remover is entirely eco-friendly! It doesn’t require any batteries, and it features a Recycled wood and metal design. By taking plastic strips and sticky glue out of the equation, you can pick up hair effectively and with NO waste! No More Residue – Typical pet hair rollers and lint rollers use sticky glue paper to pick up hair. Not only do these products leave much to be desired, but they also leave behind a sticky residue that leaves your clothing and upholstery damaged with unwanted buildup. Our Pet Hair and Lint Remover takes that damaging residue right out of the equation. Effectively Removes All Types Of Hair – Long gone are the days where you’d go through a full lint-roller just trying to remove the pet hair from your couch. With our product, you never run out of sticky glue tape because it doesn’t require it! Simply use our Pet Hair and Lint Remover over and over again until you pick up every last strand of hair. Simple & Easy To Use – Simply swipe over any fabric surface to remove all types of pet hair and lint. Reuse it on multiple surfaces over and over again, giving you endless uses with a single brush. Easy To Clean – Cleaning The Pet Hair and Lint Remover is as simple as removing hair from its bristles and washing it under hot water. From there, you’re ready to use it again and again. It’s Time For You To Experience The New, Better Way To Remove Pet Hair Think about it – You love your fur babies, but you want your home to look a certain way, and you want your guests to experience hospitality at it’s best whenever you have company. There is one thing that you just can’t seem to get under control…. pet hair! It’s everywhere! It’s on your couch, it’s in your carpet, and it’s even on your curtains! You can’t even begin to comprehend how many lint rollers you’ve purchased over the years, and you simply don’t know what more to do! With our Pet Hair and Lint Remover, you can quickly and effectively keep your clothing, home, and even your car pet hair-free. Our Reusable Pet Hair and Lint Remover is the last hair removal product you will ever need! It is easy to use, easy to clean, and more effective than any sticky glue lint roller out there, you can rest assured that your home will be hair-free after every use!
-  Updated: 2025-11-30T08:55:06Z
+  Updated: 2025-12-02T18:28:07Z
   Vendor: IndigoPetco.com
   Product Type: Lint and Pet Hair Remover Brush
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2646/1218/files/indigopetco-com-lint-and-pet-hair-remover-brush-default-title-recycled-plastic-lint-and-pet-hair-remover-brush-40028734521622.jpg?v=1712094376
   Price: $12.00 USD
 - [Recycled plastic Pet Hair Removal Brush and Broom Set](https://indigopetco.com/products/recycled-plastic-pet-hair-removal-brush-and-broom-set): This set features our two most effective pet hair removal products just in time for summer, with a heavy discount! Pet Hair Removal Broom: Becoming a pet parent can quickly turn your home into the Wild West, but those shedding tumbleweeds have met their match with our Extendable Pet Hair Removal Broom. This unique, multi-surface extendable broom has soft bristles made from natural rubber, making it perfect for collecting the fur left behind by your critters. Our Pet Hair Removal Broom is the ideal tool for every pet owner. This broom sweeps up hair, lint, dust, dirt, and more from virtually any surface - not just your floors! Rescue your carpet, hardwood floors, tile, clothing, and upholstery from that layer of pet hair and dust without a scratch! Also includes a built-in squeegee that's perfect for cleaning windows, mirrors, cars, or other flat surfaces. Removes Fur: Our pet hair removal broom attracts pet hair like a magnet to easily remove fur from carpets, rugs, tile, hardwood, and linoleum. Telescopic Handle: The handle extends from 36 inches to 60 inches, making perfect for reaching those furballs in high places without a ladder. Easy Cleanup: Wash away excess hair on the rubber broom bristles with soapy water. Built-In Squeegee: Includes a built-in rubber squeegee that's perfect for cleaning windows and spills. Frequently Asked Questions: Q: Why not just use a vacuum? A: Our broom lifts up your carpet with the soft rubber bristles and collects all the hair your vacuum cannot reach. Q: Why not use a broom for my tile or hardwood floors? A: Our broom has soft rubber bristles that act as a magnet to pet hair. Have you ever tried sweeping up pet hair and it just flies all over the house? With our broom that will not happen! Lint and Pet Hair Remover Brush: As pet parents, we understand the struggle of constantly brushing fur off of your clothes, having to vacuum it up off of the carpet, and continuously lint-rolling your couch, curtains, and clothes with a sticky lint roller. Did you know that 58% of pet fur-covered clothes get thrown away before any attempt to recondition them? What if we told you that there was a new pet hair remover that could do the job twice as fast and twice as effective, but without the sticky residue left behind? Our Amazing Pet Hair and Lint Remover isn’t just another plain pet hair roller. It’s a comprehensive pet hair solution specifically designed to help you remove pet hair from your clothes, your upholstery, and many other surfaces with ease. This unique product is the eco-friendly answer that we’ve all been waiting for. It is time to say goodbye to the battery-powered pet hair removers or the sticky lint roller that you leave in the linen closet. It is time to rid your home, clothing, and upholstery from pet hair with a real solution. 5 Reasons This Product Will Be Life Changing: Eco-Friendly – Say goodbye to the wasteful & battery-powered devices. The Amazing Pet Hair remover is entirely eco-friendly! It doesn’t require any batteries, and it features a Recycled wood and metal design. By taking plastic and sticky glue out of the equation, you can pick up hair effectively and with NO waste! No More Residue – Typical pet hair rollers and lint rollers use sticky glue paper to pick up hair. Not only do these products leave much to be desired, but they also leave behind a sticky residue that leaves your clothing and upholstery damaged with unwanted buildup. Our Pet Hair and Lint Remover takes that damaging residue right out of the equation. Effectively Removes All Types Of Hair – Long gone are the days where you’d go through a full lint-roller just trying to remove the pet hair from your couch. With our product, you never run out of sticky glue tape because it doesn’t require it! Simply use our Pet Hair and Lint Remover over and over again until you pick up every last strand of hair. Simple & Easy To Use – Simply swipe over any fabric surface to remove all types of pet hair and lint. Reuse it on multiple surfaces over and over again, giving you endless uses with a single brush. Easy To Clean – Cleaning The Pet Hair and Lint Remover is as simple as removing hair from its bristles and washing it under hot water. From there, you’re ready to use it again and again. It’s Time For You To Experience The New, Better Way To Remove Pet Hair Think about it – You love your fur babies, but you want your home to look a certain way, and you want your guests to experience hospitality at it’s best whenever you have company. There is one thing that you just can’t seem to get under control…. pet hair! It’s everywhere! It’s on your couch, it’s in your carpet, and it’s even on your curtains! You can’t even begin to comprehend how many lint rollers you’ve purchased over the years, and you simply don’t know what more to do! With our Pet Hair and Lint Remover, you can quickly and effectively keep your clothing, home, and even your car pet hair-free. Our Reusable Pet Hair and Lint Remover is the last hair removal product you will ever need! It is easy to use, easy to clean, and more effective than any sticky glue lint roller out there, you can rest assured that your home will be hair-free after every use! This Set Includes: 1 x Lint and Pet Hair Remover Brush 1 x Pet Hair Remover Broom
-  Updated: 2025-11-30T08:55:07Z
+  Updated: 2025-12-02T18:28:52Z
   Vendor: IndigoPetco.com
   Product Type: Pet Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2646/1218/files/IMG_9528.jpg?v=1748646722
   Price: $32.95 USD
 - [2-Pack Laundry Pet Hair Catchers](https://indigopetco.com/products/2-pack-laundry-pet-hair-catchers): Reusable for 2,000 loads of wash. Recommended to buy two or more for higher-capacity washer (larger than 15lbs) Tired of finding pet hair and lint stuck to your freshly washed clothes? Now you can collect and remove even the finest pet hair, dirt, or residue from your laundry, effortlessly! Simply toss the Laundry Pet Hair Catcher into your washing machine or dryer (or both) to effectively remove hairs, lint, pet fur, and even those irritating, fluffy balls that collect on clothing and bedding! The secret... the innovative, inverted, cone-shaped net bag, that's specially designed to trap annoying dirt, hair, and residue as it flows through the hair catcher. FEATURES: Soft, tacky, flexible material that grabs hair, lint, dander and other debris Safe for all clothing Reusable- Each one is good for up to 2000 uses Easy to use! Simply put it into the washing machine when washing clothes to filter lint, pet hair, and dirt. Keep your washing machine clean and prevent clogged pipes. Works best in top-loading washing machines. Package Includes: 2-Pack Laundry Pet Hair Catchers
-  Updated: 2025-12-01T00:00:46Z
+  Updated: 2025-12-02T19:53:31Z
   Vendor: IndigoPetco.com
   Product Type: 2-Pack Laundry Pet Hair Catchers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2646/1218/files/indigopetco-com-2-pack-laundry-pet-hair-catchers-default-title-2-pack-laundry-pet-hair-catchers-40239744319766.jpg?v=1712094388
   Price: $23.97 USD
 - [Reusable Sticky Roller](https://indigopetco.com/products/reusable-sticky-roller): Pick up pet hair, lint, and dust with ease using our eco-friendly Reusable Sticky Roller. Washable, durable, and perfect for clothes, furniture, and car seats.
-  Updated: 2025-11-30T08:55:08Z
+  Updated: 2025-12-01T20:25:01Z
   Vendor: IndigoPetco.com
   Product Type: Reusable Sticky Roller
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2646/1218/files/indigopetco-com-reusable-sticky-roller-default-title-reusable-sticky-roller-40802960343318.jpg?v=1712094417
   Price: $24.95 USD
 - [IndigoPet Hair Removal Broom](https://indigopetco.com/products/indigopet-hair-removal-broom): Exceptional Quality & Unmatched Durability Our company's latest innovation, the Indigo Pet Hair Removal Broom, redefines cleanliness with its superior construction. Crafted from premium, eco-friendly materials, this broom offers unparalleled durability and effectiveness. The advanced bristle technology ensures a thorough sweep, effortlessly capturing even the most stubborn pet hair from all surfaces. Designed to withstand the test of time, our broom delivers consistent, high-performance cleaning, making it the ultimate tool for pet owners seeking a spotless, hair-free home. Experience the blend of luxury and functionality, and transform your cleaning routine with our state-of-the-art Pet Hair Removal Broom. Our Indigo Pet Hair Removal Broom also comes with a lifetime warranty. Removes Fur: Our pet hair removal broom attracts pet hair like a magnet to easily remove fur from carpets, rugs, tile, hardwood, and linoleum. Telescopic Handle: The handle extends from 29 inches to 50 inches giving it a total of 60" in length, making perfect for reaching those fur balls in high places without a ladder. Easy Cleanup: Wash away excess hair on the rubber broom bristles with soapy water. Built-In Squeegee: Includes a built-in rubber squeegee that's perfect for cleaning windows and spills. Frequently Asked Questions: Q: Why not just use a vacuum? A: Our broom lifts up your carpet with the soft rubber bristles and collects all the hair your vacuum cannot reach. Q: Why not use a broom for my tile or hardwood floors? A: Our broom has soft rubber bristles that act as a magnet to pet hair. Have you ever tried sweeping up pet hair and it just flies all over the house? With our broom that will not happen!
-  Updated: 2025-11-30T23:41:11Z
+  Updated: 2025-12-02T21:26:17Z
   Vendor: IndigoPetco.com
   Product Type: brooms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2646/1218/files/5F446E28-80BF-4AD4-890C-08FC8F43721F.png?v=1713774300
   Price: $33.95 USD
 - [Indigo Pro Lint and Pet Hair Remover](https://indigopetco.com/products/indigo-pro-lint-and-pet-hair-remover): As pet parents, we understand the struggle of constantly brushing fur off of your clothes, having to vacuum it up off of the carpet, and continuously lint-rolling your couch, curtains, and clothes with a sticky lint roller that wastes time and money. Did you know that 58% of pet fur-covered clothes get thrown away before any attempt to recondition them? What if we told you that there was a new pet hair remover that could do the job twice as fast and twice as effective, but without the sticky residue left behind? Our Indigo Pro Pet Hair and Lint Remover isn’t just another plain pet hair roller. It’s a comprehensive pet hair solution specifically designed to help you remove pet hair from your clothes, Carpets, Rugs, upholstery, and more with ease! This unique product is the eco-friendly answer that we’ve all been waiting for. It is time to say goodbye to the battery-powered pet hair removers or the sticky lint roller that you leave in the linen closet. It's time to rid your home, clothing, car, and upholstery from pet hair with a real solution. 5 Reasons The Indigo Pro Will Be Life Changing: Eco-Friendly – Say goodbye to the wasteful & battery-powered devices. The Indigo Pro Pet Hair remover is entirely eco-friendly! It doesn’t require any batteries, and it features a recycled rubber, plastic and metal. By taking paper and sticky glue out of the equation, you can pick up hair effectively and with NO waste! No More Residue – Typical pet hair rollers and lint rollers use sticky glue paper to pick up hair. Not only do these products leave much to be desired, but they also leave behind a sticky residue that leaves your clothing and upholstery damaged with unwanted buildup. Our Indigo Pro Lint and Pet Hair Remover takes that damaging residue right out of the equation. Effectively Removes All Types Of Hair – Long gone are the days where you’d go through a full lint-roller just trying to remove the pet hair from your couch. With our product, you never run out of sticky glue tape because it doesn’t require it! Simply use our Pet Hair and Lint Remover over and over again until you pick up every last strand of hair. Simple & Easy To Use – Simply swipe over any fabric surface to remove all types of pet hair and lint. Reuse it on multiple surfaces over and over again, giving you endless uses with a single brush. Easy To Clean – Cleaning The Indigo Pro Pet Hair and Lint Remover is as simple as removing hair from its bristles and washing it under hot water. From there, you’re ready to use it again and again. It’s Time For You To Experience The New, Better Way To Remove Pet Hair Think about it – You love your fur babies, but you want your home to look a certain way, and you want your guests to experience hospitality at it’s best whenever you have company. There is one thing that you just can’t seem to get under control…. pet hair! It’s everywhere! It’s on your couch, it’s in your carpet, and it’s even on your curtains! You can’t even begin to comprehend how many lint rollers you’ve purchased over the years, and you simply don’t know what more to do! With our Indigo Pro Pet Hair and Lint Remover, you can quickly and effectively keep your clothing, home, and even your carpet hair-free. Our Reusable Pet Hair and Lint Remover is the last hair removal product you will ever need! It is easy to use, easy to clean, and more effective than any sticky glue lint roller out there, you can rest assured that your home will be hair-free after every use!
-  Updated: 2025-11-30T08:55:09Z
+  Updated: 2025-12-02T18:28:51Z
   Vendor: IndigoPetco.com
   Product Type: Indigo Pro Lint and Pet Hair Remover
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2646/1218/files/indigopetco-com-indigo-pro-lint-and-pet-hair-remover-default-title-indigo-pro-lint-and-pet-hair-remover-44432494887190.jpg?v=1719596749
   Price: $20.00 USD
 - [Indigo Mini Lint and Pet Hair Remover](https://indigopetco.com/products/indigo-mini-lint-and-pet-hair-remover): Introducing the Indigo Mini, your reliable partner in maintaining a pet hair-free environment! Compact yet powerful, this tool excels at accessing tight spots and effortlessly cleans them, making it ideal for fast fur removal and quick cleanups throughout your home. Works on clothes, car mats, furniture, bedding, cat trees, & more. Made with recycled silicone, rubber, and metal. Compact yet powerful. Perfect for on the go! SPOT THE DIFFERENCE:
-  Updated: 2025-11-30T08:55:10Z
+  Updated: 2025-12-02T00:55:15Z
   Vendor: IndigoPetco.com
   Product Type: Indigo Mini Lint and Pet Hair Remover
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2646/1218/files/indigopetco-com-indigo-mini-lint-and-pet-hair-remover-default-title-indigo-mini-lint-and-pet-hair-remover-44432823124246.jpg?v=1719596712
   Price: $14.00 USD
 - [Indigo Pro V2 Pet Hair Survival Kit](https://indigopetco.com/products/indigo-pro-v2-pet-hair-survival-kit): Indigo Pet Hair Removal broom - best for carpet, rugs, tile, and vinyl. (60" Handle)! Indigo Pro - for clothes, cars, rugs, cat towers, & more! Indigo Mini - for small spaces & on the go! Bundle and save $14 The Indigo Pro V2 Pet Hair Survival Kit is a great set of tools to remove lint/pet hair from carpet, rugs, clothes, hardwood, tile, cars, furniture, bedding, & more!
-  Updated: 2025-11-30T23:42:31Z
+  Updated: 2025-12-02T21:27:06Z
   Vendor: IndigoPetco.com
   Product Type: Indigo Pro V2 Pet Hair Survival Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2646/1218/files/IMG_4586.jpg?v=1714114522
   Price: $49.95 USD
 - [Indigo Pet Grooming Kit | Easy At-Home Grooming for Dogs & Cats](https://indigopetco.com/products/indigo-pet-grooming-kit): Keep your pet looking their best with the Indigo Pet Grooming Kit — featuring pro-grade tools for brushing, de-shedding, and at-home grooming made easy.
-  Updated: 2025-11-30T08:55:11Z
+  Updated: 2025-12-02T09:02:51Z
   Vendor: IndigoPetco.com
   Product Type: Indigo Pet Grooming Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2646/1218/files/IMG_1838-transformed.jpg?v=1715749357
   Price: $79.95 USD
 - [Electrostatic Pet Hair Glove – Easy Fur Removal by Hand](https://indigopetco.com/products/pet-hair-removal-glove): The IndigoPet Electrostatic Glove lifts stubborn pet hair from bedding, clothes, couches, and more—no lint roller needed.
-  Updated: 2025-11-30T16:01:47Z
+  Updated: 2025-12-02T05:02:34Z
   Vendor: IndigoPetco.com
   Product Type: Pet Hair Removal Glove
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2646/1218/files/IMG_9593.jpg?v=1748908112
   Price: $12.95 USD
 - [Indigo Laundry Pet Hair Removal Fish - 6 Pack](https://indigopetco.com/products/indigo-laundry-pet-hair-removal-fish-6-pack): Indigo Laundry Pet Hair Catcher - 6 Pack Finally—Laundry Without the Fur! Tired of pet hair clinging to everything? Just toss these in your washer or dryer and watch the magic happen. No more lint rolling, no more re-washing. Your clothes come out actually clean. What Makes It a Game-Changer: ✓ 6-Pack Value – Multiple catchers = more hair trapped per load ✓ Works Double Duty – Grab hair in the wash AND the dryer✓ Saves Your Machines – Prevents clogs and costly repairs✓ Reusable – Just rinse and reuse (eco-friendly + money-saving)✓ Bonus Use – Wipe pet hair off couches, car seats, jackets—no water needed✓ Fabric-Safe – Gentle on everything from jeans to delicates Pro Tip: Use 2-3 for regular loads, more for pet blankets or heavily furred items. The Bottom Line: Less time de-furring, more time with your pet. It's that simple. FAQ❓ Q: How does it actually work?A: The specialized microfiber surface grabs pet hair, lint, and dander during the wash/dry cycle. Hair sticks to the catcher instead of your clothes. Q: Do I need to replace them?A: Nope! Just rinse under water, air dry, and they're ready to go again. Each catcher lasts hundreds of uses. Q: Will it work with my pet's hair type?A: Works great with most pet hair (dogs, cats, rabbits, etc.). Very short or fine hair may be trickier, but you'll still see major improvement. Q: Can I use it on delicate fabrics?A: Yes, but skip it for chunky knits or heavily textured sweaters—stick to regular clothing, bedding, and towels. Q: Why 6 catchers?A: More catchers = more surface area = better results! Plus, you'll always have clean ones ready while others are drying. Q: What if it doesn't work for me?A: Use 2-3 catchers per load for best results. The more hair your pet sheds, the more catchers you'll want to use. Ready for fur-free laundry? Add to cart now! 🛒
-  Updated: 2025-11-30T23:59:16Z
+  Updated: 2025-12-02T23:49:51Z
   Vendor: IndigoPetco.com
   Product Type: Indigo Laundry Pet Hair Catcher - 6 Pack
   Availability: Available
@@ -2991,31 +2991,31 @@ Customer experience is our priority We are here for you with 24/7 customer servi
 ## Collections
 
 - [Home page](https://indigopetco.com/collections/home-page)
-  Updated: 2025-11-30T12:02:48Z
+  Updated: 2025-12-02T12:02:32Z
   Total Products: 1
 - [Whether you're hitting the road or taking to the skies, the IndigoPetCo Pet Travel Collection makes adventures with your furry companion easier than ever. From portable grooming kits and hair removal tools to car-friendly cleaning solutions, this collection is designed for on-the-go pet parents who don’t want to compromise on cleanliness or comfort.](https://indigopetco.com/collections/pet-travel): Everything your Pet Needs on the go. Pet Seatbelt, Travel Pet Water Dispenser, Portable Pet Pool, Pet Tag Trackers and much more.
-  Updated: 2025-11-30T12:02:48Z
+  Updated: 2025-12-02T12:02:32Z
   Total Products: 25
 - [IndigoPetCo Pet & Owner Collection | Essentials for You and Your Furry Best Friend](https://indigopetco.com/collections/pet-owner): Explore IndigoPetCo’s Pet & Owner Collection — matching accessories, grooming tools, and everyday essentials designed to keep both pets and their humans happy.
-  Updated: 2025-11-30T12:02:48Z
+  Updated: 2025-12-02T12:02:32Z
   Total Products: 79
 - [IndigoPetCo Play Time Collection | Toys & Enrichment for Dogs & Cats](https://indigopetco.com/collections/play-time): Make playtime better with IndigoPetCo’s curated collection of fun, durable pet toys. Perfect for dogs and cats who love to chase, chew, scratch, and explore.
-  Updated: 2025-11-26T12:01:59Z
+  Updated: 2025-12-01T12:02:12Z
   Total Products: 24
 - [Pet Care | Pet Care Supplies | Indigopetco.com](https://indigopetco.com/collections/pet-care): Dog & Cat Grooming Supplies, Pet Dental Care Supplies, Calming Pet Supplies, Pet health & Wellness Supplies.
-  Updated: 2025-11-30T12:02:48Z
+  Updated: 2025-12-02T12:02:32Z
   Total Products: 47
 - [IndigoPetCo Dog Favorites | Viral Hair Removers, Grooming Tools & Everyday Must-Haves](https://indigopetco.com/collections/dogs): Shop IndigoPetCo’s must-have dog products — from powerful pet hair removers to grooming tools, travel gear, and everyday essentials for dog lovers.
-  Updated: 2025-11-30T12:02:48Z
+  Updated: 2025-12-02T12:02:32Z
   Total Products: 86
 - [IndigoPetCo Cat Essentials | Hair Removers, Grooming Tools & Daily Favorites for Cat Owners](https://indigopetco.com/collections/cats): Explore IndigoPetCo’s top cat care essentials — from pet hair removers to grooming tools, toys, and travel must-haves made for cat lovers and their companions.
-  Updated: 2025-11-30T12:02:48Z
+  Updated: 2025-12-02T12:02:32Z
   Total Products: 75
 - [Dogs & Cats Collection | Must-Have Products for Pets & Pet Parents – IndigoPetCo](https://indigopetco.com/collections/cats-and-dogs): Shop IndigoPetCo’s top picks for dogs and cats — from pet hair removers and grooming tools to travel gear, toys, and everyday essentials for your furry companions.
-  Updated: 2025-11-30T12:02:48Z
+  Updated: 2025-12-02T12:02:32Z
   Total Products: 62
 - [Shop IndigoPetCo’s Best Sellers Collection, featuring our most-loved, top-reviewed pet products trusted by thousands of happy customers. From the viral IndigoPet Hair Removal Broom to our must-have grooming kits and pet-safe cleaning tools, these bestsellers are proven to make pet care cleaner, easier, and more effective.](https://indigopetco.com/collections/best-sellers): Shop IndigoPetCo’s best sellers — from our viral Pet Hair Removal Broom to must-have grooming tools, cleaning hacks, and travel essentials for pet parents.
-  Updated: 2025-11-30T12:02:48Z
+  Updated: 2025-12-02T12:02:32Z
   Total Products: 87
 - [Collars, Leashes & Harnesses | Comfortable & Durable Gear – IndigoPetCo](https://indigopetco.com/collections/collars-leashes-harnesses): Shop IndigoPetCo’s collection of stylish, durable collars, leashes, and harnesses — designed for comfort, control, and everyday adventures with your pet.
   Updated: 2025-05-09T05:14:07Z
@@ -3024,10 +3024,10 @@ Customer experience is our priority We are here for you with 24/7 customer servi
   Updated: 2025-05-05T21:23:51Z
   Total Products: 20
 - [Rose Gold Pet Lover Jewelry | Indigopetco](https://indigopetco.com/collections/view-collection): Jewelry For Pet Lovers. Features: Rings, Necklaces, Bracelets, Earrings.
-  Updated: 2025-11-30T12:02:48Z
+  Updated: 2025-12-02T12:02:32Z
   Total Products: 21
 - [View Collection](https://indigopetco.com/collections/view-collection-1)
-  Updated: 2025-11-30T12:02:48Z
+  Updated: 2025-12-02T12:02:32Z
   Total Products: 12
 - [Cute Cable Chompers – Fun Cable Protectors | IndigoPetCo](https://indigopetco.com/collections/cable-chompers): Protect your charging cables in style with Cable Chompers — fun, bite-sized cable protectors that prevent fraying and add personality to your tech. Fits iPhone, Android, and more.
   Updated: 2025-05-09T04:55:50Z
@@ -3042,16 +3042,16 @@ Customer experience is our priority We are here for you with 24/7 customer servi
   Updated: 2025-05-09T05:06:04Z
   Total Products: 12
 - [Small & Large Dog Halloween Costumes | Indigopetco](https://indigopetco.com/collections/dog-costumes): Shop the best dog costumes for Halloween this year from Indigopetco. Find large and small, Funny and cute dog Halloween Costumes.
-  Updated: 2025-11-18T12:01:41Z
+  Updated: 2025-12-01T12:02:12Z
   Total Products: 11
 - [Dog Smile Ball](https://indigopetco.com/collections/dog-smile-ball)
-  Updated: 2025-11-18T12:01:41Z
+  Updated: 2025-12-01T12:02:12Z
   Total Products: 2
 - [Holiday Shop](https://indigopetco.com/collections/holiday-shop): Dog Gifts, Cat Gifts, Pet Parents Gifts, Personalized Gifts & More!
-  Updated: 2025-11-30T12:02:48Z
+  Updated: 2025-12-02T12:02:32Z
   Total Products: 45
 - [Holiday Shop](https://indigopetco.com/collections/holiday-shop-1)
-  Updated: 2025-11-30T12:02:48Z
+  Updated: 2025-12-02T12:02:32Z
   Total Products: 11
 - [IndigoPetCo Custom Photo Gifts | Personalized Keepsakes for Pet Lovers](https://indigopetco.com/collections/personalized-gifts-1): Create one-of-a-kind custom photo gifts at IndigoPetCo — from pet portraits to personalized accessories that celebrate your furry best friend in a meaningful way.
   Updated: 2025-05-05T21:23:52Z
@@ -3060,7 +3060,7 @@ Customer experience is our priority We are here for you with 24/7 customer servi
   Updated: 2025-05-05T21:23:52Z
   Total Products: 0
 - [Tackle shedding with IndigoPetCo’s Pet Hair Removal Collection — featuring our best-selling Hair Removal Broom, grooming tools, and cleaning solutions for carpets, furniture, clothes, and more. Perfect for homes with shedding pets](https://indigopetco.com/collections/pet-hair-removal): Discover IndigoPetCo’s top-rated pet hair removal tools of 2025 — including the viral Indigo Pet Hair Removal Broom, Indigo Pro Lint & Hair Remover, and the compact Indigo Mini for on-the-go cleanups. Powerful, reusable solutions trusted by pet owners everywhere.
-  Updated: 2025-11-30T12:02:48Z
+  Updated: 2025-12-02T12:02:32Z
   Total Products: 14
 
 ## Blogs
