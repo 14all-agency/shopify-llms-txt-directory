@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-07-09T09:16:05Z
 - Contact Email: softbold@softboldswim.com
-- Updated At: 2025-12-02T00:02:58.776Z
+- Updated At: 2025-12-03T00:01:14.362Z
 
 ## Products
 
 - [Women's Slimming Swimwear: Tummy Control Shapewear Swimsuit](https://softboldswim.com/products/slimming-swimwear-with-tummy-control): Flatter your figure in our slimming swimwear with tummy control. Shape and flatten your midsection while feeling supported and confident all day.
-  Updated: 2025-11-30T10:25:38Z
+  Updated: 2025-12-02T15:01:51Z
   Vendor: SoftBold
   Product Type: Plus Size Swimwear
   Availability: Available
@@ -19,299 +19,101 @@
   - [Black / L](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=43929179422835)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-7081754.jpg?v=1762751740
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Black / XL](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44050556321907)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-7081754.jpg?v=1762751740
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Black / 2XL](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44050556354675)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-7081754.jpg?v=1762751740
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Black / 3X](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44050556387443)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-7081754.jpg?v=1762751740
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Black / 4XL](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44050556420211)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-7081754.jpg?v=1762751740
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Black / 5XL](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44050556452979)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-7081754.jpg?v=1762751740
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Red / L](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=43929179750515)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-1154751.jpg?v=1762751740
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Red / XL](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44050556485747)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-1154751.jpg?v=1762751740
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Red / 2XL](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44050556518515)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-1154751.jpg?v=1762751740
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Red / 3X](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44050556551283)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-1154751.jpg?v=1762751740
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Red / 4XL](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44050556584051)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-1154751.jpg?v=1762751740
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Red / 5XL](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44050556616819)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-1154751.jpg?v=1762751740
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Blue / L](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44089547030643)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-5475627.jpg?v=1763367654
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Blue / XL](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44089547063411)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-5475627.jpg?v=1763367654
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Blue / 2XL](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44089547096179)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-5475627.jpg?v=1763367654
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Blue / 3X](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44089547128947)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-5475627.jpg?v=1763367654
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Blue / 4XL](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44089547161715)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-5475627.jpg?v=1763367654
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Blue / 5XL](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44089547194483)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-5475627.jpg?v=1763367654
-    Price: $45.90 USD
+    Price: $67.90 USD
   - [Orange / L](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44089547227251)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-4115083.jpg?v=1763367654
-    Price: $45.90 USD
+    Price: $67.00 USD
   - [Orange / XL](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44089547260019)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-4115083.jpg?v=1763367654
-    Price: $45.90 USD
+    Price: $67.00 USD
   - [Orange / 2XL](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44089547292787)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-4115083.jpg?v=1763367654
-    Price: $45.90 USD
+    Price: $67.00 USD
   - [Orange / 3X](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44089547325555)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-4115083.jpg?v=1763367654
-    Price: $45.90 USD
+    Price: $67.00 USD
   - [Orange / 4XL](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44089547358323)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-4115083.jpg?v=1763367654
-    Price: $45.90 USD
+    Price: $67.00 USD
   - [Orange / 5XL](https://softboldswim.com/products/slimming-swimwear-with-tummy-control?variant=44089547391091)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/slimming-swimwear-with-tummy-control-supportive-flattering-one-piece-4115083.jpg?v=1763367654
-    Price: $45.90 USD
-- [Elegant Tummy Control Swimsuit — Flattering & Comfortable](https://softboldswim.com/products/elegant-tummy-control-swimsuit): Look and feel your best in this elegant one-piece swimsuit with tummy control panel, V-neckline, and ruched detailing. Comfortable fit all day long.
-  Updated: 2025-11-30T10:25:38Z
-  Vendor: SoftBold
-  Product Type: one piece
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-3891325.jpg?v=1762751743
-  - [Gray Blue Striped / L](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43934373511283)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-3891325.jpg?v=1762751743
-    Price: $38.59 USD
-  - [Gray Blue Striped / XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43934373544051)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-3891325.jpg?v=1762751743
-    Price: $38.59 USD
-  - [Gray Blue Striped / 2XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43934373576819)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-3891325.jpg?v=1762751743
-    Price: $38.59 USD
-  - [Gray Blue Striped / 3XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43934373609587)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-3891325.jpg?v=1762751743
-    Price: $38.59 USD
-  - [Gray Blue Striped / 4XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43934373642355)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-3891325.jpg?v=1762751743
-    Price: $38.59 USD
-  - [Gray Blue Striped / 5XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43934373675123)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-3891325.jpg?v=1762751743
-    Price: $38.59 USD
-  - [Hot Pink  Black / L](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324092019)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-1750551.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Hot Pink  Black / XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324124787)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-1750551.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Hot Pink  Black / 2XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324157555)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-1750551.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Hot Pink  Black / 3XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324190323)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-1750551.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Hot Pink  Black / 4XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324223091)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-1750551.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Hot Pink  Black / 5XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324255859)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-1750551.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Light Pink Print / L](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324288627)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-8337935.jpg?v=1762751744
-    Price: $38.59 USD
-  - [Light Pink Print / XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324321395)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-8337935.jpg?v=1762751744
-    Price: $38.59 USD
-  - [Light Pink Print / 2XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324354163)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-8337935.jpg?v=1762751744
-    Price: $38.59 USD
-  - [Light Pink Print / 3XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324386931)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-8337935.jpg?v=1762751744
-    Price: $38.59 USD
-  - [Light Pink Print / 4XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324419699)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-8337935.jpg?v=1762751744
-    Price: $38.59 USD
-  - [Light Pink Print / 5XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324452467)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-8337935.jpg?v=1762751744
-    Price: $38.59 USD
-  - [Army Green Black / L](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324485235)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-8045009.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Army Green Black / XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324518003)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-8045009.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Army Green Black / 2XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324550771)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-8045009.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Army Green Black / 3XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324583539)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-8045009.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Army Green Black / 4XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324616307)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-8045009.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Army Green Black / 5XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324649075)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-8045009.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Black Floral Print / L](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324681843)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-6277128.jpg?v=1762751881
-    Price: $38.59 USD
-  - [Black Floral Print / XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324714611)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-6277128.jpg?v=1762751881
-    Price: $38.59 USD
-  - [Black Floral Print / 2XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324747379)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-6277128.jpg?v=1762751881
-    Price: $38.59 USD
-  - [Black Floral Print / 3XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324780147)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-6277128.jpg?v=1762751881
-    Price: $38.59 USD
-  - [Black Floral Print / 4XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324812915)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-6277128.jpg?v=1762751881
-    Price: $38.59 USD
-  - [Black Floral Print / 5XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324845683)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-6277128.jpg?v=1762751881
-    Price: $38.59 USD
-  - [Navy Blue Print / L](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324878451)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-9763068.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Navy Blue Print / XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324911219)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-9763068.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Navy Blue Print / 2XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324943987)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-9763068.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Navy Blue Print / 3XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936324976755)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-9763068.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Navy Blue Print / 4XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936325009523)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-9763068.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Navy Blue Print / 5XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936325042291)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-9763068.jpg?v=1762751742
-    Price: $38.59 USD
-  - [White Black Color Block / L](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936325075059)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-7573400.jpg?v=1762751742
-    Price: $38.59 USD
-  - [White Black Color Block / XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936325107827)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-7573400.jpg?v=1762751742
-    Price: $38.59 USD
-  - [White Black Color Block / 2XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936325140595)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-7573400.jpg?v=1762751742
-    Price: $38.59 USD
-  - [White Black Color Block / 3XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936325173363)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-7573400.jpg?v=1762751742
-    Price: $38.59 USD
-  - [White Black Color Block / 4XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936325206131)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-7573400.jpg?v=1762751742
-    Price: $38.59 USD
-  - [White Black Color Block / 5XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936325238899)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-7573400.jpg?v=1762751742
-    Price: $38.59 USD
-  - [Black Striped / L](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936325271667)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-5580289.jpg?v=1762751882
-    Price: $38.59 USD
-  - [Black Striped / XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936325304435)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-5580289.jpg?v=1762751882
-    Price: $38.59 USD
-  - [Black Striped / 2XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936325337203)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-5580289.jpg?v=1762751882
-    Price: $38.59 USD
-  - [Black Striped / 3XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936325369971)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-5580289.jpg?v=1762751882
-    Price: $38.59 USD
-  - [Black Striped / 4XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936325402739)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-5580289.jpg?v=1762751882
-    Price: $38.59 USD
-  - [Black Striped / 5XL](https://softboldswim.com/products/elegant-tummy-control-swimsuit?variant=43936325435507)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-tummy-control-one-piece-swimsuit-flattering-comfortable-fit-with-adjustable-straps-for-all-day-wear-5580289.jpg?v=1762751882
-    Price: $38.59 USD
+    Price: $67.00 USD
 - [Women's Elegant Ruffle Swimdress with Tummy Control](https://softboldswim.com/products/elegant-ruffle-swimdress): Shop the Elegant Ruffle Swimdress with tummy control and full coverage. Soft, stretchy fabric for comfort and confidence, perfect for postpartum bodies.
-  Updated: 2025-11-30T10:25:38Z
+  Updated: 2025-12-02T14:49:35Z
   Vendor: SoftBold
   Product Type: one piece
   Availability: Available
@@ -319,203 +121,203 @@
   - [L / Blue Stripe](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688054899)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-3692080.jpg?v=1762751748
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [L / Pink Black](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688087667)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-7101148.jpg?v=1762751721
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [L / Black White](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688120435)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-5343937.jpg?v=1762751720
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [L / Black Floral](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688153203)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-3715651.jpg?v=1762751747
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [L / Sea Green](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688185971)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-8627541.jpg?v=1762751748
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [L / Leopard Printed](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688218739)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-3064778.jpg?v=1762751720
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [L / Pink Color Block](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688251507)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-3173150.jpg?v=1763285119
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [L / Black Pink](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688284275)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-1049440.jpg?v=1762751748
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [L / Medium Blue](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688317043)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-1061949.jpg?v=1762751722
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [L / Black](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688349811)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-1311093.jpg?v=1762751721
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [L / Coffee](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688382579)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-5822111.jpg?v=1762751721
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [L / Green](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688415347)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-9751184.jpg?v=1762751722
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [L / Dark Grey](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688448115)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-6223148.jpg?v=1762751749
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [L / Hot Pink](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688480883)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-7238231.jpg?v=1762751747
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [XL / Blue Stripe](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688546419)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-3692080.jpg?v=1762751748
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [XL / Pink Black](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688579187)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-7101148.jpg?v=1762751721
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [XL / Black White](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688611955)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-5343937.jpg?v=1762751720
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [XL / Black Floral](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688644723)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-3715651.jpg?v=1762751747
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [XL / Sea Green](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688677491)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-8627541.jpg?v=1762751748
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [XL / Leopard Printed](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688710259)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-3064778.jpg?v=1762751720
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [XL / Pink Color Block](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688743027)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-3173150.jpg?v=1763285119
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [XL / Black Pink](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688775795)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-1049440.jpg?v=1762751748
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [XL / Medium Blue](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688808563)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-1061949.jpg?v=1762751722
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [XL / Black](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688841331)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-1311093.jpg?v=1762751721
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [XL / Coffee](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688874099)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-5822111.jpg?v=1762751721
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [XL / Green](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688906867)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-9751184.jpg?v=1762751722
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [XL / Dark Grey](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688939635)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-6223148.jpg?v=1762751749
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [XL / Hot Pink](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939688972403)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-7238231.jpg?v=1762751747
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [2XL / Blue Stripe](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689037939)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-3692080.jpg?v=1762751748
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [2XL / Pink Black](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689070707)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-7101148.jpg?v=1762751721
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [2XL / Black White](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689103475)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-5343937.jpg?v=1762751720
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [2XL / Black Floral](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689136243)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-3715651.jpg?v=1762751747
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [2XL / Sea Green](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689169011)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-8627541.jpg?v=1762751748
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [2XL / Leopard Printed](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689201779)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-3064778.jpg?v=1762751720
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [2XL / Pink Color Block](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689234547)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-3173150.jpg?v=1763285119
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [2XL / Black Pink](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689267315)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-1049440.jpg?v=1762751748
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [2XL / Medium Blue](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689300083)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-1061949.jpg?v=1762751722
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [2XL / Black](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689332851)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-1311093.jpg?v=1762751721
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [2XL / Coffee](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689365619)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-5822111.jpg?v=1762751721
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [2XL / Green](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689398387)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-9751184.jpg?v=1762751722
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [2XL / Dark Grey](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689431155)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-6223148.jpg?v=1762751749
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [2XL / Hot Pink](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689463923)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-7238231.jpg?v=1762751747
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [3XL / Blue Stripe](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689529459)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-3692080.jpg?v=1762751748
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [3XL / Pink Black](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689562227)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-7101148.jpg?v=1762751721
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [3XL / Black White](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689594995)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-5343937.jpg?v=1762751720
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [3XL / Black Floral](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689627763)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-3715651.jpg?v=1762751747
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [3XL / Sea Green](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689660531)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-8627541.jpg?v=1762751748
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [3XL / Leopard Printed](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689693299)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-3064778.jpg?v=1762751720
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [3XL / Pink Color Block](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689726067)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-3173150.jpg?v=1763285119
-    Price: $41.97 USD
+    Price: $44.97 USD
   - [3XL / Black Pink](https://softboldswim.com/products/elegant-ruffle-swimdress?variant=43939689758835)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/elegant-ruffle-swimdress-with-tummy-control-full-coverage-for-postpartum-bodies-1049440.jpg?v=1762751748
-    Price: $41.97 USD
+    Price: $44.97 USD
 - [High Waisted Tummy Control Bikini Set for Modest Coverage](https://softboldswim.com/products/chic-tummy-control-bikini-set): Get beach ready with our high-waisted bikini set! Featuring tummy control, crisscross cutout, and ruched design for a modest yet stylish look.
   Updated: 2025-11-30T10:25:39Z
   Vendor: SoftBold
@@ -723,7 +525,7 @@
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-bikini-set-with-tummy-control-crisscross-cutout-ruched-two-piece-swimsuit-for-modest-coverage-3143506.jpg?v=1762751837
     Price: $36.91 USD
 - [Ruffle Swimsuit with Tummy Control - V-Neck, Slimming](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women): Shop the Women’s Ruffle V-Neck One-Piece Swimsuit with tummy control and slimming design. Perfect for beach parties, pool days, and tropical vacations.
-  Updated: 2025-11-30T10:25:39Z
+  Updated: 2025-12-02T14:42:34Z
   Vendor: SoftBold
   Product Type: one piece
   Availability: Available
@@ -731,203 +533,203 @@
   - [Orange Blue Floral / L](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942969671795)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-5217032.jpg?v=1762751941
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Orange Blue Floral / XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942969704563)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-5217032.jpg?v=1762751941
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Orange Blue Floral / 2XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942969737331)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-5217032.jpg?v=1762751941
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Orange Blue Floral / 3XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942969770099)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-5217032.jpg?v=1762751941
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Orange Blue Floral / 4XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942969802867)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-5217032.jpg?v=1762751941
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Orange Blue Floral / 5XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=44089597591667)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-5217032.jpg?v=1762751941
-    Price: $34.90 USD
+    Price: $38.96 USD
   - [Black / L](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942969835635)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8095575.jpg?v=1762751838
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Black / XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942969868403)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8095575.jpg?v=1762751838
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Black / 2XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942969901171)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8095575.jpg?v=1762751838
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Black / 3XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942969933939)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8095575.jpg?v=1762751838
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Black / 4XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942969966707)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8095575.jpg?v=1762751838
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Black / 5XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=44089597624435)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8095575.jpg?v=1762751838
-    Price: $34.90 USD
+    Price: $38.96 USD
   - [Black and White / L](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942969999475)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8323152.jpg?v=1762751716
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Black and White / XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970032243)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8323152.jpg?v=1762751716
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Black and White / 2XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970065011)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8323152.jpg?v=1762751716
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Black and White / 3XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970097779)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8323152.jpg?v=1762751716
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Black and White / 4XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970130547)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8323152.jpg?v=1762751716
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Black and White / 5XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=44089597657203)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8323152.jpg?v=1762751716
-    Price: $34.90 USD
+    Price: $38.96 USD
   - [White and Pink / L](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970163315)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8976639.jpg?v=1762751716
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [White and Pink / XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970196083)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8976639.jpg?v=1762751716
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [White and Pink / 2XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970228851)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8976639.jpg?v=1762751716
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [White and Pink / 3XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970261619)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8976639.jpg?v=1762751716
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [White and Pink / 4XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970294387)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8976639.jpg?v=1762751716
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [White and Pink / 5XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=44089597689971)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-8976639.jpg?v=1762751716
-    Price: $34.90 USD
+    Price: $38.96 USD
   - [Apricot / L](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970327155)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-1258704.jpg?v=1762751717
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Apricot / XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970359923)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-1258704.jpg?v=1762751717
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Apricot / 2XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970392691)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-1258704.jpg?v=1762751717
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Apricot / 3XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970425459)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-1258704.jpg?v=1762751717
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Apricot / 4XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970458227)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-1258704.jpg?v=1762751717
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Apricot / 5XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=44089597722739)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-1258704.jpg?v=1762751717
-    Price: $34.90 USD
+    Price: $38.96 USD
   - [Dark Blue / L](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970654835)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-9353024.jpg?v=1762751717
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Dark Blue / XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970687603)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-9353024.jpg?v=1762751717
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Dark Blue / 2XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970720371)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-9353024.jpg?v=1762751717
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Dark Blue / 3XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970753139)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-9353024.jpg?v=1762751717
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Dark Blue / 4XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970785907)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-9353024.jpg?v=1762751717
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Dark Blue / 5XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=44089597755507)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-9353024.jpg?v=1762751717
-    Price: $34.90 USD
+    Price: $38.96 USD
   - [Blue Print / L](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970818675)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-2395278.jpg?v=1762751717
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Blue Print / XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970851443)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-2395278.jpg?v=1762751717
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Blue Print / 2XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970884211)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-2395278.jpg?v=1762751717
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Blue Print / 3XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970916979)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-2395278.jpg?v=1762751717
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Blue Print / 4XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970949747)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-2395278.jpg?v=1762751717
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Blue Print / 5XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=44089597788275)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-2395278.jpg?v=1762751717
-    Price: $34.90 USD
+    Price: $38.96 USD
   - [Red Print / L](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942970982515)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-6235084.jpg?v=1762751941
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Red Print / XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942971015283)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-6235084.jpg?v=1762751941
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Red Print / 2XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942971048051)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-6235084.jpg?v=1762751941
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Red Print / 3XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942971080819)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-6235084.jpg?v=1762751941
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Red Print / 4XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942971113587)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-6235084.jpg?v=1762751941
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Red Print / 5XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=44089597821043)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-6235084.jpg?v=1762751941
-    Price: $34.90 USD
+    Price: $38.96 USD
   - [Black Pink Flower / L](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942971146355)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-4005413.jpg?v=1762751838
-    Price: $34.96 USD
+    Price: $38.96 USD
   - [Black Pink Flower / XL](https://softboldswim.com/products/chic-ruffle-swimsuit-for-women?variant=43942971179123)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-ruffle-swimsuit-with-tummy-control-v-neck-shell-stitched-slimming-swimwear-4005413.jpg?v=1762751838
-    Price: $34.96 USD
+    Price: $38.96 USD
 - [Strapless Tummy Control Swimsuit with Push-Up Support](https://softboldswim.com/products/slimming-strapless-swimwear): Shop SoftBold’s Women’s Tummy Control One-Piece Swimsuit with removable straps for bandeau or halter style. Slimming effect, push-up support, and soft fabric.
   Updated: 2025-11-30T10:25:39Z
   Vendor: SoftBold
@@ -1341,220 +1143,219 @@
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-leopard-print-swimsuit-tummy-control-cheeky-high-cut-design-7611591.jpg?v=1762751726
     Price: $41.39 USD
 - [High-Waisted Tummy Control Bikini Set in Color Block](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit): Elevate your beach look with our Women's High-Waisted Tummy Control Bikini Set. Stay stylish and confident in this Color Block Two-Piece Swimsuit.
-  Updated: 2025-11-30T10:25:39Z
+  Updated: 2025-12-02T15:08:07Z
   Vendor: SoftBold
   Product Type: two-piece
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-5462332.jpg?v=1762751883
   - [L / Black062](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023091315)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6093235.jpg?v=1762751837
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6093235.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Blue Green Mesh](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023124083)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-5785057.jpg?v=1762751751
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-5785057.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Blue](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023156851)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2664581.jpg?v=1762751752
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2664581.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Blue Stripes](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023189619)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-1093115.jpg?v=1762751750
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-1093115.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Pink062](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023222387)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2979529.jpg?v=1762751838
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2979529.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Navy Blue Mesh](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023255155)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-7741458.jpg?v=1762751718
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-7741458.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Coral Pink](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023287923)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6015694.jpg?v=1762751941
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6015694.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Dark Blue](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023320691)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-9283164.jpg?v=1762751718
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-9283164.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Light Purple](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023353459)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-4457290.jpg?v=1762751751
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-4457290.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Haze Blue](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023386227)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6058241.jpg?v=1762751885
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6058241.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Brick Red](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023418995)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2285714.jpg?v=1762751752
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2285714.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Hot Pink- New](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023451763)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-7319242.jpg?v=1762751716
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-7319242.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Black Mesh](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023484531)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-9440571.jpg?v=1762751885
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-9440571.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Green Mesh](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023517299)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-4618731.jpg?v=1762751751
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-4618731.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Green](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023550067)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-5797365.jpg?v=1762751717
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-5797365.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Blue062](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023582835)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-9951690.jpg?v=1762751751
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-9951690.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Dark Green](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023615603)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-8710386.jpg?v=1762751838
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-8710386.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / White](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023648371)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-5392184.jpg?v=1762751838
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-5392184.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Black- New](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023681139)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-1267412.jpg?v=1762751718
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-1267412.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Bright Blue](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023713907)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6011745.jpg?v=1762751750
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6011745.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Blue- New](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023746675)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-5277603.jpg?v=1762751717
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-5277603.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / American Flag 2](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023779443)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2282372.jpg?v=1762751941
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2282372.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Royal Blue](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023812211)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-7718526.jpg?v=1762751838
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-7718526.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Navy Blue](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023844979)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2766618.jpg?v=1762751885
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2766618.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Neon Green](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023877747)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6676582.jpg?v=1762751750
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6676582.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Blue Green- New](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023910515)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-7277437.jpg?v=1762751884
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-7277437.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Black](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023943283)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-5121984.jpg?v=1762751884
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-5121984.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Blue Mesh](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972023976051)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2664581.jpg?v=1762751752
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2664581.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Orange](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972024008819)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-8559126.jpg?v=1762751717
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-8559126.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Wine Red](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972024041587)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2796145.jpg?v=1762751838
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2796145.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / White- New](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972024074355)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-4349785.jpg?v=1762751882
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-4349785.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Army Green- New](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972024107123)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-1990660.jpg?v=1762751718
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-1990660.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Purplish Red](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972024139891)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-3748279.jpg?v=1762751883
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-3748279.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Leopard Mesh](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972024172659)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6608837.jpg?v=1762751885
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6608837.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Navy Blue- New](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972024205427)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2181521.jpg?v=1762751751
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2181521.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Hot Pink](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972024238195)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-8990688.jpg?v=1762751838
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-8990688.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Turquoise](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972024270963)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6430149.jpg?v=1762751838
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6430149.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Light Pink](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972024303731)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-5733211.jpg?v=1762751836
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-5733211.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / American Flag 1](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972024336499)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-3589608.jpg?v=1762751718
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-3589608.jpg?v=1764685609
+    Price: $42.99 USD
   - [L / Yellow](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972024369267)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-5462332.jpg?v=1762751883
-    Price: $37.99 USD
+    Price: $42.99 USD
   - [XL / Black062](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972059889779)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6093235.jpg?v=1762751837
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6093235.jpg?v=1764685609
+    Price: $42.99 USD
   - [XL / Blue Green Mesh](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972059922547)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-5785057.jpg?v=1762751751
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-5785057.jpg?v=1764685609
+    Price: $42.99 USD
   - [XL / Blue](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972059955315)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2664581.jpg?v=1762751752
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2664581.jpg?v=1764685609
+    Price: $42.99 USD
   - [XL / Blue Stripes](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972059988083)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-1093115.jpg?v=1762751750
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-1093115.jpg?v=1764685609
+    Price: $42.99 USD
   - [XL / Pink062](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972060020851)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2979529.jpg?v=1762751838
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-2979529.jpg?v=1764685609
+    Price: $42.99 USD
   - [XL / Navy Blue Mesh](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972060053619)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-7741458.jpg?v=1762751718
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-7741458.jpg?v=1764685609
+    Price: $42.99 USD
   - [XL / Coral Pink](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972060086387)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6015694.jpg?v=1762751941
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6015694.jpg?v=1764685609
+    Price: $42.99 USD
   - [XL / Dark Blue](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972060119155)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-9283164.jpg?v=1762751718
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-9283164.jpg?v=1764685609
+    Price: $42.99 USD
   - [XL / Light Purple](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972060151923)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-4457290.jpg?v=1762751751
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-4457290.jpg?v=1764685609
+    Price: $42.99 USD
   - [XL / Haze Blue](https://softboldswim.com/products/women-high-waisted-bikini-sets-tummy-control-swimsuits-color-block-two-piece-drawstring-bathing-suit?variant=43972060184691)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6058241.jpg?v=1762751885
-    Price: $37.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-color-block-two-piece-bathing-suit-6058241.jpg?v=1764685609
+    Price: $42.99 USD
 - [Womens Tummy Control Push-Up Swimsuit - Slimming Design](https://softboldswim.com/products/womens-mesh-one-piece-swimsuit-tummy-control-sexy-bathing-suit-push-up-swim-suit-slimming-swimwear): Get beach-ready with our Women’s Mesh One-Piece Swimsuit! Featuring tummy control, push-up support, and a slimming design for a flattering fit.
-  Updated: 2025-11-30T10:25:39Z
+  Updated: 2025-12-02T14:23:22Z
   Vendor: SoftBold
   Product Type: one piece
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-mesh-one-piece-swimsuit-tummy-control-push-up-slimming-design-4110787.jpg?v=1762751747
   - [L / Army Green](https://softboldswim.com/products/womens-mesh-one-piece-swimsuit-tummy-control-sexy-bathing-suit-push-up-swim-suit-slimming-swimwear?variant=43972445667443)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-mesh-one-piece-swimsuit-tummy-control-push-up-slimming-design-1652724.jpg?v=1763300485
     Price: $41.69 USD
   - [L / Army Green Black](https://softboldswim.com/products/womens-mesh-one-piece-swimsuit-tummy-control-sexy-bathing-suit-push-up-swim-suit-slimming-swimwear?variant=43972445700211)
     Availability: Available
@@ -1562,7 +1363,6 @@
     Price: $41.69 USD
   - [L / Teal Green](https://softboldswim.com/products/womens-mesh-one-piece-swimsuit-tummy-control-sexy-bathing-suit-push-up-swim-suit-slimming-swimwear?variant=43972445732979)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-mesh-one-piece-swimsuit-tummy-control-push-up-slimming-design-7785450.jpg?v=1763300485
     Price: $41.69 USD
   - [L / Leopard Print](https://softboldswim.com/products/womens-mesh-one-piece-swimsuit-tummy-control-sexy-bathing-suit-push-up-swim-suit-slimming-swimwear?variant=43972445765747)
     Availability: Available
@@ -1618,7 +1418,6 @@
     Price: $41.69 USD
   - [2XL / Army Green](https://softboldswim.com/products/womens-mesh-one-piece-swimsuit-tummy-control-sexy-bathing-suit-push-up-swim-suit-slimming-swimwear?variant=43972446191731)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-mesh-one-piece-swimsuit-tummy-control-push-up-slimming-design-1652724.jpg?v=1763300485
     Price: $41.69 USD
   - [2XL / Army Green Black](https://softboldswim.com/products/womens-mesh-one-piece-swimsuit-tummy-control-sexy-bathing-suit-push-up-swim-suit-slimming-swimwear?variant=43972446224499)
     Availability: Available
@@ -1626,7 +1425,6 @@
     Price: $41.69 USD
   - [2XL / Teal Green](https://softboldswim.com/products/womens-mesh-one-piece-swimsuit-tummy-control-sexy-bathing-suit-push-up-swim-suit-slimming-swimwear?variant=43972446257267)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-mesh-one-piece-swimsuit-tummy-control-push-up-slimming-design-7785450.jpg?v=1763300485
     Price: $41.69 USD
   - [2XL / Leopard Print](https://softboldswim.com/products/womens-mesh-one-piece-swimsuit-tummy-control-sexy-bathing-suit-push-up-swim-suit-slimming-swimwear?variant=43972446290035)
     Availability: Available
@@ -1682,7 +1480,6 @@
     Price: $41.69 USD
   - [3XL / Army Green](https://softboldswim.com/products/womens-mesh-one-piece-swimsuit-tummy-control-sexy-bathing-suit-push-up-swim-suit-slimming-swimwear?variant=43972446716019)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-mesh-one-piece-swimsuit-tummy-control-push-up-slimming-design-1652724.jpg?v=1763300485
     Price: $41.69 USD
   - [3XL / Army Green Black](https://softboldswim.com/products/womens-mesh-one-piece-swimsuit-tummy-control-sexy-bathing-suit-push-up-swim-suit-slimming-swimwear?variant=43972446748787)
     Availability: Available
@@ -1690,7 +1487,6 @@
     Price: $41.69 USD
   - [3XL / Teal Green](https://softboldswim.com/products/womens-mesh-one-piece-swimsuit-tummy-control-sexy-bathing-suit-push-up-swim-suit-slimming-swimwear?variant=43972446781555)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-mesh-one-piece-swimsuit-tummy-control-push-up-slimming-design-7785450.jpg?v=1763300485
     Price: $41.69 USD
   - [3XL / Leopard Print](https://softboldswim.com/products/womens-mesh-one-piece-swimsuit-tummy-control-sexy-bathing-suit-push-up-swim-suit-slimming-swimwear?variant=43972446814323)
     Availability: Available
@@ -1746,7 +1542,6 @@
     Price: $41.69 USD
   - [4XL / Army Green](https://softboldswim.com/products/womens-mesh-one-piece-swimsuit-tummy-control-sexy-bathing-suit-push-up-swim-suit-slimming-swimwear?variant=43972447240307)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-mesh-one-piece-swimsuit-tummy-control-push-up-slimming-design-1652724.jpg?v=1763300485
     Price: $41.69 USD
   - [4XL / Army Green Black](https://softboldswim.com/products/womens-mesh-one-piece-swimsuit-tummy-control-sexy-bathing-suit-push-up-swim-suit-slimming-swimwear?variant=43972447273075)
     Availability: Available
@@ -1959,7 +1754,7 @@
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-cutout-design-high-waisted-bathing-suit-4541214.jpg?v=1762751838
     Price: $39.92 USD
 - [Tummy Control One-Piece Swimsuit - Slimming Push-Up Swimwear](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear): Get beach-ready with this one-piece swimsuit featuring a tummy control panel, cutout design, tie knot detail, and push-up cups for enhanced cleavage support.
-  Updated: 2025-11-30T10:25:39Z
+  Updated: 2025-12-02T13:57:21Z
   Vendor: SoftBold
   Product Type: one piece
   Availability: Available
@@ -1967,77 +1762,77 @@
   - [Black / L](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976026292339)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-3753184.jpg?v=1762751888
-    Price: $54.91 USD
+    Price: $60.91 USD
   - [Black / XL](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976026325107)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-3753184.jpg?v=1762751888
-    Price: $54.91 USD
+    Price: $60.91 USD
   - [Black / 2XL](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976026357875)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-3753184.jpg?v=1762751888
-    Price: $54.91 USD
+    Price: $60.91 USD
   - [Black / 3XL](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976026390643)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-3753184.jpg?v=1762751888
-    Price: $54.91 USD
+    Price: $60.91 USD
   - [Black / 4XL](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976026423411)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-3753184.jpg?v=1762751888
-    Price: $54.91 USD
+    Price: $60.91 USD
   - [Black / 5XL](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976026456179)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-3753184.jpg?v=1762751888
-    Price: $54.91 USD
+    Price: $60.91 USD
   - [Blue / L](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976025899123)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-2587941.jpg?v=1764333297
-    Price: $54.91 USD
+    Price: $60.91 USD
   - [Blue / XL](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976025931891)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-2587941.jpg?v=1764333297
-    Price: $54.91 USD
+    Price: $60.91 USD
   - [Blue / 2XL](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976025964659)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-2587941.jpg?v=1764333297
-    Price: $54.91 USD
+    Price: $60.91 USD
   - [Blue / 3XL](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976025997427)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-2587941.jpg?v=1764333297
-    Price: $54.91 USD
+    Price: $60.91 USD
   - [Blue / 4XL](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976026030195)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-2587941.jpg?v=1764333297
-    Price: $54.91 USD
+    Price: $60.91 USD
   - [Blue / 5XL](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976026062963)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-2587941.jpg?v=1764333297
-    Price: $54.91 USD
+    Price: $60.91 USD
   - [Orange / L](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976026095731)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-6694186.jpg?v=1764333297
-    Price: $54.91 USD
+    Price: $60.91 USD
   - [Orange / XL](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976026128499)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-6694186.jpg?v=1764333297
-    Price: $54.91 USD
+    Price: $60.91 USD
   - [Orange / 2XL](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976026161267)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-6694186.jpg?v=1764333297
-    Price: $54.91 USD
+    Price: $60.91 USD
   - [Orange / 3XL](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976026194035)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-6694186.jpg?v=1764333297
-    Price: $54.91 USD
+    Price: $60.91 USD
   - [Orange / 4XL](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976026226803)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-6694186.jpg?v=1764333297
-    Price: $54.91 USD
+    Price: $60.91 USD
   - [Orange / 5XL](https://softboldswim.com/products/women-s-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear?variant=43976026259571)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-tummy-control-one-piece-swimsuit-slimming-cutout-tie-knot-push-up-swimwear-6694186.jpg?v=1764333297
-    Price: $54.91 USD
+    Price: $60.91 USD
 - [Tummy Control Deep V Neck Swimsuit with Crisscross Back](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design): Flattering tummy control and stylish deep V neck design make our Women's One-Piece Swimsuit the perfect confidence booster for any beach day.
-  Updated: 2025-11-30T10:25:39Z
+  Updated: 2025-12-02T13:53:11Z
   Vendor: SoftBold
   Product Type: one piece
   Availability: Available
@@ -2045,205 +1840,205 @@
   - [L / Rust Orange](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798334067)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-4105290.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [L / Brick Red](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798366835)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-5018572.jpg?v=1762751717
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [L / Dark Blue](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798399603)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-1496630.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [L / Green](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798432371)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-3870228.jpg?v=1762751837
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [L / Stone Blue](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798465139)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-6198758.jpg?v=1762751837
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [L / Neon Pink](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798497907)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-6368402.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [L / White/Pink Floral](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798530675)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-7377723.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [L / Black/Floral](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798563443)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-6699763.jpg?v=1762751838
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [L / Black](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798596211)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-8721347.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [L / Purple Brown](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798628979)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-1971960.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [L / Cobalt Blue](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798661747)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-2425082.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [L / Dark Purple](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798694515)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-8371565.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [L / Moss Green/Tropical](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798727283)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-9829336.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [L / Black/Dusty Rose Pink](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798760051)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-3206829.jpg?v=1762751718
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [L / Magenta](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798792819)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-8826749.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [L / Royal Blue](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798825587)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-9845860.jpg?v=1762751836
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [L / Beige/Floral](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798858355)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-3168868.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [L / Wine Red](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798891123)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-7549163.jpg?v=1762751838
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / Rust Orange](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798923891)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-4105290.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / Brick Red](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798956659)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-5018572.jpg?v=1762751717
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / Dark Blue](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978798989427)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-1496630.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / Green](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799022195)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-3870228.jpg?v=1762751837
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / Stone Blue](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799054963)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-6198758.jpg?v=1762751837
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / Neon Pink](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799087731)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-6368402.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / White/Pink Floral](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799120499)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-7377723.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / Black/Floral](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799153267)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-6699763.jpg?v=1762751838
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / Black](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799186035)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-8721347.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / Purple Brown](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799218803)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-1971960.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / Cobalt Blue](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799251571)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-2425082.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / Dark Purple](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799284339)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-8371565.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / Moss Green/Tropical](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799317107)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-9829336.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / Black/Dusty Rose Pink](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799349875)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-3206829.jpg?v=1762751718
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / Magenta](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799382643)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-8826749.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / Royal Blue](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799415411)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-9845860.jpg?v=1762751836
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / Beige/Floral](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799448179)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-3168868.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [XL / Wine Red](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799480947)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-7549163.jpg?v=1762751838
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [2XL / Rust Orange](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799513715)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-4105290.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [2XL / Brick Red](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799546483)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-5018572.jpg?v=1762751717
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [2XL / Dark Blue](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799579251)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-1496630.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [2XL / Green](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799612019)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-3870228.jpg?v=1762751837
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [2XL / Stone Blue](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799644787)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-6198758.jpg?v=1762751837
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [2XL / Neon Pink](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799677555)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-6368402.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [2XL / White/Pink Floral](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799710323)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-7377723.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [2XL / Black/Floral](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799743091)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-6699763.jpg?v=1762751838
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [2XL / Black](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799775859)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-8721347.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [2XL / Purple Brown](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799808627)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-1971960.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [2XL / Cobalt Blue](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799841395)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-2425082.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [2XL / Dark Purple](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799874163)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-8371565.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [2XL / Moss Green/Tropical](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799906931)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-9829336.jpg?v=1763344433
-    Price: $41.99 USD
+    Price: $43.99 USD
   - [2XL / Black/Dusty Rose Pink](https://softboldswim.com/products/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design?variant=43978799939699)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-deep-v-neck-crisscross-back-tie-design-3206829.jpg?v=1762751718
-    Price: $41.99 USD
+    Price: $43.99 USD
 - [Women's Tankini Swimsuit - Tummy Control, Flowing Top](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit): Shop the Women’s Tankini Swimsuit with tummy control and boyshorts. Stylish, comfortable, and perfect for beach days, pool parties, and water sports.
-  Updated: 2025-11-30T10:25:39Z
+  Updated: 2025-12-02T13:51:12Z
   Vendor: SoftBold
   Product Type: two-piece
   Availability: Available
@@ -2251,205 +2046,201 @@
   - [L / Blackish Green](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050282512499)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-9769993.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [L / Black Blue Flower](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050282578035)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-4155140.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [L / Blue Gradient](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050282643571)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-5850485.jpg?v=1762751833
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [L / Green Blue Floral](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050282676339)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-7742118.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [L / Brick Red Tree](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050282709107)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-2706599.jpg?v=1762751743
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [L / Blue Pearl Flower](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050282774643)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-3159001.jpg?v=1762751743
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [L / Floral Black](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050282807411)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-1140874.jpg?v=1762751743
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [L / Ink Wash Painting](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050282872947)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-9632533.jpg?v=1762751744
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [L / Green Meteor](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050283135091)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-2712703.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [L / Black Orange Sunflower](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050283200627)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-2804569.jpg?v=1762751833
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [L / Blue Floral](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050283233395)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-2949147.jpg?v=1762751833
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [L / Leaves Green](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050283495539)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-7296376.jpg?v=1762751744
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [XL / Blackish Green](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050283561075)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-9769993.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [XL / Black Blue Flower](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050283626611)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-4155140.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [XL / Blue Gradient](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050283692147)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-5850485.jpg?v=1762751833
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [XL / Green Blue Floral](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050283724915)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-7742118.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [XL / Brick Red Tree](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050283757683)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-2706599.jpg?v=1762751743
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [XL / Blue Pearl Flower](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050283823219)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-3159001.jpg?v=1762751743
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [XL / Floral Black](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050283855987)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-1140874.jpg?v=1762751743
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [XL / Ink Wash Painting](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050283921523)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-9632533.jpg?v=1762751744
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [XL / Green Meteor](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050284183667)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-2712703.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [XL / Black Orange Sunflower](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050284249203)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-2804569.jpg?v=1762751833
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [XL / Blue Floral](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050284281971)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-2949147.jpg?v=1762751833
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [XL / Leaves Green](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050284544115)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-7296376.jpg?v=1762751744
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [2XL / Blackish Green](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050284609651)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-9769993.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [2XL / Black Blue Flower](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050284675187)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-4155140.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [2XL / Blue Gradient](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050284740723)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-5850485.jpg?v=1762751833
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [2XL / Green Blue Floral](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050284773491)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-7742118.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [2XL / Brick Red Tree](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050284806259)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-2706599.jpg?v=1762751743
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [2XL / Blue Pearl Flower](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050284871795)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-3159001.jpg?v=1762751743
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [2XL / Floral Black](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050284904563)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-1140874.jpg?v=1762751743
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [2XL / Ink Wash Painting](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050284970099)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-9632533.jpg?v=1762751744
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [2XL / Green Meteor](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050285232243)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-2712703.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [2XL / Black Orange Sunflower](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050285297779)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-2804569.jpg?v=1762751833
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [2XL / Blue Floral](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050285330547)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-2949147.jpg?v=1762751833
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [2XL / Leaves Green](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050285592691)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-7296376.jpg?v=1762751744
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [3X / Blackish Green](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050292441203)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-9769993.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [3X / Black Blue Flower](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050292473971)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-4155140.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [3X / Blue Gradient](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050292506739)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-5850485.jpg?v=1762751833
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [3X / Green Blue Floral](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050292539507)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-7742118.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [3X / Brick Red Tree](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050292572275)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-2706599.jpg?v=1762751743
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [3X / Blue Pearl Flower](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050292605043)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-3159001.jpg?v=1762751743
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [3X / Floral Black](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050292637811)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-1140874.jpg?v=1762751743
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [3X / Ink Wash Painting](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050292670579)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-9632533.jpg?v=1762751744
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [3X / Green Meteor](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050292703347)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-2712703.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [3X / Black Orange Sunflower](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050292736115)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-2804569.jpg?v=1762751833
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [3X / Blue Floral](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050292768883)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-2949147.jpg?v=1762751833
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [3X / Leaves Green](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050292801651)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-7296376.jpg?v=1762751744
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [4XL / Blackish Green](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050286510195)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-9769993.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
   - [4XL / Black Blue Flower](https://softboldswim.com/products/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit?variant=44050286575731)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-2025-tankini-swimsuit-tummy-control-flowing-tank-top-boyshorts-two-piece-bathing-suit-4155140.jpg?v=1762751742
-    Price: $37.92 USD
+    Price: $44.92 USD
 - [High Cut Ruched One-Piece Swimsuit - Tummy Control](https://softboldswim.com/products/women-s-ruched-high-cut-one-piece-swimsuit-tummy-control-backless-monokini): Enhance your curves with this flattering one-piece swimsuit. Ruched front, tummy control, high-cut legs, backless design for allure. Comfortable and stylish!
-  Updated: 2025-11-30T10:25:39Z
+  Updated: 2025-12-02T13:47:38Z
   Vendor: SoftBold
   Product Type: one piece
   Availability: Available
@@ -3479,7 +3270,7 @@
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-push-up-wrap-front-swimsuit-tummy-control-bandeau-design-2433556.jpg?v=1762751717
     Price: $39.59 USD
 - [Deep V Neck Cross Back High Cut One-Piece Swimsuit for Women](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design): Turn heads at the beach with this stylish deep V neck swimsuit. Flattering cut-out cross back tie design adds a modern twist to a classic silhouette.
-  Updated: 2025-11-30T10:25:39Z
+  Updated: 2025-12-02T08:59:37Z
   Vendor: SoftBold
   Product Type: one piece
   Availability: Available
@@ -3487,205 +3278,205 @@
   - [L / Red](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053514125427)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-9662237.jpg?v=1762751721
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [L / Lapis Blue](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053514158195)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-2902602.jpg?v=1762751721
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [L / Black/Stripe](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053514190963)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-2433222.jpg?v=1762751722
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [L / Brown/Beige](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053514223731)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-6381242.jpg?v=1762751723
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [L / Black](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053514256499)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-9676115.jpg?v=1762751738
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [L / Hot Magenta](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053514289267)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-8124731.jpg?v=1762751738
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [L / Apricot Orange](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053514322035)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-6400829.jpg?v=1762751721
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [L / Sapphire Blue](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053514354803)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-1452250.jpg?v=1762751722
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [L / Navy Blue](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053514387571)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-6710761.jpg?v=1762751722
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [XL / Red](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053521662067)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-9662237.jpg?v=1762751721
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [XL / Lapis Blue](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053521694835)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-2902602.jpg?v=1762751721
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [XL / Black/Stripe](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053521727603)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-2433222.jpg?v=1762751722
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [XL / Brown/Beige](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053521760371)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-6381242.jpg?v=1762751723
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [XL / Black](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053521793139)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-9676115.jpg?v=1762751738
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [XL / Hot Magenta](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053521825907)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-8124731.jpg?v=1762751738
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [XL / Apricot Orange](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053521858675)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-6400829.jpg?v=1762751721
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [XL / Sapphire Blue](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053521891443)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-1452250.jpg?v=1762751722
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [XL / Navy Blue](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053521924211)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-6710761.jpg?v=1762751722
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [2XL / Red](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053521956979)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-9662237.jpg?v=1762751721
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [2XL / Lapis Blue](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053521989747)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-2902602.jpg?v=1762751721
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [2XL / Black/Stripe](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522022515)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-2433222.jpg?v=1762751722
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [2XL / Brown/Beige](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522055283)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-6381242.jpg?v=1762751723
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [2XL / Black](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522088051)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-9676115.jpg?v=1762751738
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [2XL / Hot Magenta](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522120819)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-8124731.jpg?v=1762751738
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [2XL / Apricot Orange](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522153587)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-6400829.jpg?v=1762751721
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [2XL / Sapphire Blue](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522186355)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-1452250.jpg?v=1762751722
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [2XL / Navy Blue](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522219123)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-6710761.jpg?v=1762751722
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [3XL / Red](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522251891)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-9662237.jpg?v=1762751721
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [3XL / Lapis Blue](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522284659)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-2902602.jpg?v=1762751721
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [3XL / Black/Stripe](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522317427)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-2433222.jpg?v=1762751722
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [3XL / Brown/Beige](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522350195)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-6381242.jpg?v=1762751723
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [3XL / Black](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522382963)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-9676115.jpg?v=1762751738
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [3XL / Hot Magenta](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522415731)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-8124731.jpg?v=1762751738
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [3XL / Apricot Orange](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522448499)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-6400829.jpg?v=1762751721
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [3XL / Sapphire Blue](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522481267)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-1452250.jpg?v=1762751722
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [3XL / Navy Blue](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522514035)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-6710761.jpg?v=1762751722
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [4XL / Red](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522546803)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-9662237.jpg?v=1762751721
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [4XL / Lapis Blue](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522579571)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-2902602.jpg?v=1762751721
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [4XL / Black/Stripe](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522612339)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-2433222.jpg?v=1762751722
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [4XL / Brown/Beige](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522645107)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-6381242.jpg?v=1762751723
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [4XL / Black](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522677875)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-9676115.jpg?v=1762751738
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [4XL / Hot Magenta](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522710643)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-8124731.jpg?v=1762751738
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [4XL / Apricot Orange](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522743411)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-6400829.jpg?v=1762751721
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [4XL / Sapphire Blue](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522776179)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-1452250.jpg?v=1762751722
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [4XL / Navy Blue](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522808947)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-6710761.jpg?v=1762751722
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [5XL / Red](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522841715)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-9662237.jpg?v=1762751721
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [5XL / Lapis Blue](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522874483)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-2902602.jpg?v=1762751721
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [5XL / Black/Stripe](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522907251)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-2433222.jpg?v=1762751722
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [5XL / Brown/Beige](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522940019)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-6381242.jpg?v=1762751723
-    Price: $42.29 USD
+    Price: $44.29 USD
   - [5XL / Black](https://softboldswim.com/products/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design?variant=44053522972787)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/one-piece-swimsuit-for-women-deep-v-neck-cut-out-cross-back-tie-high-cut-design-9676115.jpg?v=1762751738
-    Price: $42.29 USD
+    Price: $44.29 USD
 - [Women's Swim Dress - Tummy Control Slimming One Piece](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap): Look and feel your best with our Women's One-Piece Swim Dress! Features tummy control and a slimming mesh sarong wrap for a flattering silhouette.
-  Updated: 2025-11-30T10:25:39Z
+  Updated: 2025-12-02T08:53:18Z
   Vendor: SoftBold
   Product Type: Plus Size Swimwear
   Availability: Available
@@ -3693,205 +3484,205 @@
   - [L / Royal Blue](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054111584371)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-8367487.jpg?v=1762751750
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Blue Green Mesh](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054111617139)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-8766933.jpg?v=1762751837
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Green Tropical](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054111649907)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-4447924.jpg?v=1762751749
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Army Green](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054111682675)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-7396202.jpg?v=1762751717
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Brick Red](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054111715443)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-4017826.jpg?v=1762751748
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Sky Blue](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054111780979)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-1525875.jpg?v=1762751837
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / American Flag 2](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054111813747)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-5217671.jpg?v=1762751715
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Black Tropical](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054111846515)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-3536868.jpg?v=1762751838
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Leopard/Black](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054111879283)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-8044949.jpg?v=1762751747
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Black Stripes](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054111912051)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-2769591.jpg?v=1762751718
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Tropical/Blue Green](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054111944819)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-8940821.jpg?v=1762751749
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Green and Black](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054111977587)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-9150778.jpg?v=1762751836
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Purple](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054112043123)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-6932209.jpg?v=1762751939
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Navy Blue Mesh](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054112108659)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-6443747.jpg?v=1762751748
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Blue Stripes](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054112141427)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-7978421.jpg?v=1762751836
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Red](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054112174195)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-3699392.jpg?v=1762751716
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Black](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054112206963)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-1239285.jpg?v=1762751716
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Hot Pink](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054112239731)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-8655095.jpg?v=1762751716
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Haze Blue](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054112272499)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-4540011.jpg?v=1762751837
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Black Mesh](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054112305267)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-1277565.jpg?v=1762751837
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Pink/Hot Pink](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054112338035)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-6157437.jpg?v=1762751717
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Pink/Black](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054112370803)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-5981763.jpg?v=1762751836
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Black Leopard](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054112403571)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-4939491.jpg?v=1762751938
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Blue Green/Black](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054112436339)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-8766933.jpg?v=1762751837
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / Blue/Black](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054112501875)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-1907545.jpg?v=1762751747
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [L / American Flag 1](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054112534643)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-5409489.jpg?v=1762751717
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Royal Blue](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121250931)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-8367487.jpg?v=1762751750
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Blue Green Mesh](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121283699)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-8766933.jpg?v=1762751837
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Green Tropical](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121316467)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-4447924.jpg?v=1762751749
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Army Green](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121349235)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-7396202.jpg?v=1762751717
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Brick Red](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121382003)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-4017826.jpg?v=1762751748
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Sky Blue](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121414771)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-1525875.jpg?v=1762751837
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / American Flag 2](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121447539)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-5217671.jpg?v=1762751715
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Black Tropical](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121480307)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-3536868.jpg?v=1762751838
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Leopard/Black](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121513075)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-8044949.jpg?v=1762751747
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Black Stripes](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121545843)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-2769591.jpg?v=1762751718
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Tropical/Blue Green](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121578611)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-8940821.jpg?v=1762751749
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Green and Black](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121611379)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-9150778.jpg?v=1762751836
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Purple](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121644147)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-6932209.jpg?v=1762751939
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Navy Blue Mesh](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121676915)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-6443747.jpg?v=1762751748
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Blue Stripes](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121709683)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-7978421.jpg?v=1762751836
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Red](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121742451)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-3699392.jpg?v=1762751716
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Black](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121775219)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-1239285.jpg?v=1762751716
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Hot Pink](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121807987)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-8655095.jpg?v=1762751716
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Haze Blue](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121840755)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-4540011.jpg?v=1762751837
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Black Mesh](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121873523)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-1277565.jpg?v=1762751837
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Pink/Hot Pink](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121906291)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-6157437.jpg?v=1762751717
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Pink/Black](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121939059)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-5981763.jpg?v=1762751836
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Black Leopard](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054121971827)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-4939491.jpg?v=1762751938
-    Price: $37.95 USD
+    Price: $41.95 USD
   - [XL / Blue Green/Black](https://softboldswim.com/products/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap?variant=44054122004595)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swim-dress-tummy-control-slimming-mesh-sarong-wrap-8766933.jpg?v=1762751837
-    Price: $37.95 USD
+    Price: $41.95 USD
 - [Tummy Control Halter One-Piece Swimsuit with Push-Up Feature](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit): Look stunning in this women's tummy control swimsuit. The halter design and push-up feature make it a sexy and flattering choice for the beach.
-  Updated: 2025-11-30T10:25:39Z
+  Updated: 2025-12-02T08:27:03Z
   Vendor: SoftBold
   Product Type: one piece
   Availability: Available
@@ -3899,203 +3690,203 @@
   - [L / #1 Green Floral](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135111795)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-7675044.jpg?v=1762751742
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Black Leopard](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135144563)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-5780427.jpg?v=1762751740
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Black Striped](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135177331)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-2088267.jpg?v=1762751840
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Light Purple](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135210099)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-8383031.jpg?v=1762751881
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 White Blue Striped](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135242867)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-3115346.jpg?v=1762751741
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Royal Blue Black](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135275635)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-8967285.jpg?v=1762751841
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Orange](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135308403)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-3219173.jpg?v=1762751883
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Dark Blue](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135341171)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-3281809.jpg?v=1762751742
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Red](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135373939)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-8320241.jpg?v=1762751841
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Hot Pink Black](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135406707)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-7351730.jpg?v=1762751717
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Retro Floral Black](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135439475)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-6215936.jpg?v=1762751841
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Striped Army Green](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135472243)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-1170191.jpg?v=1762751717
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Red Leopard](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135505011)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-4606121.jpg?v=1762751882
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Black Floral](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135537779)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-4581538.jpg?v=1762751882
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Black Gingham](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135570547)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-6573959.jpg?v=1762751881
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Blue Floral](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135603315)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-4891426.jpg?v=1762751717
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Leopard](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135636083)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-9219388.jpg?v=1762751883
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Pink Black](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135668851)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-2658917.jpg?v=1762751741
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Hot Pink](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135701619)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-6377582.jpg?v=1762751841
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Royal Blue](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135734387)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-7216309.jpg?v=1762751715
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Peacock Blue Floral](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135767155)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-9186688.jpg?v=1762751742
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Army Green Floral](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135799923)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-4673028.jpg?v=1762751716
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Dark Brown](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135832691)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-9704507.jpg?v=1762751841
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Navy Blue Floral](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135865459)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-8102382.jpg?v=1762751742
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Deep Green Black](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135898227)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-1418831.jpg?v=1762751716
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Navy Blue](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135930995)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-5867335.jpg?v=1762751741
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Coral Pink Leaf](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135963763)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-9053127.jpg?v=1762751716
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Brown](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054135996531)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-2968507.jpg?v=1762751742
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Wine Red](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054136029299)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-9133582.jpg?v=1762751842
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / Black](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054136062067)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-2045905.jpg?v=1762751882
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Tropical Floral Black](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054136094835)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-9506513.jpg?v=1762751842
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Army Green](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054136127603)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-1134087.jpg?v=1762751717
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Black White Polka Dots](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054136160371)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-7069896.jpg?v=1762751882
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [L / #1 Green Black](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054136193139)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-1418831.jpg?v=1762751716
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [XL / #1 Green Floral](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054138191987)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-7675044.jpg?v=1762751742
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [XL / #1 Black Leopard](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054138224755)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-5780427.jpg?v=1762751740
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [XL / #1 Black Striped](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054138257523)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-2088267.jpg?v=1762751840
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [XL / #1 Light Purple](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054138290291)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-8383031.jpg?v=1762751881
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [XL / #1 White Blue Striped](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054138323059)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-3115346.jpg?v=1762751741
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [XL / #1 Royal Blue Black](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054138355827)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-8967285.jpg?v=1762751841
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [XL / #1 Orange](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054138388595)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-3219173.jpg?v=1762751883
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [XL / #1 Dark Blue](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054138421363)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-3281809.jpg?v=1762751742
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [XL / #1 Red](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054138454131)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-8320241.jpg?v=1762751841
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [XL / #1 Hot Pink Black](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054138486899)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-7351730.jpg?v=1762751717
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [XL / #1 Retro Floral Black](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054138519667)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-6215936.jpg?v=1762751841
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [XL / #1 Striped Army Green](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054138552435)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-1170191.jpg?v=1762751717
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [XL / #1 Red Leopard](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054138585203)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-4606121.jpg?v=1762751882
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [XL / #1 Black Floral](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054138617971)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-4581538.jpg?v=1762751882
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [XL / #1 Black Gingham](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054138650739)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-6573959.jpg?v=1762751881
-    Price: $40.39 USD
+    Price: $47.39 USD
   - [XL / #1 Blue Floral](https://softboldswim.com/products/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit?variant=44054138683507)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-sexy-tummy-control-one-piece-swimsuit-halter-push-up-bathing-suit-4891426.jpg?v=1762751717
-    Price: $40.39 USD
+    Price: $47.39 USD
 - [2-Piece U-Wire Cutout Bikini Set with High-Waisted Bottom](https://softboldswim.com/products/bestselling-2-piece-bikini-set-u-wire-cutout-swimsuit-with-high-waisted-bottom): Get the bestselling U-Wire Swimsuit Set for your next beach getaway. Stylish design with cutout detail and high-waisted bottom for a flattering fit.
   Updated: 2025-11-30T10:25:39Z
   Vendor: SoftBold
@@ -4303,7 +4094,7 @@
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/bestselling-2-piece-bikini-set-u-wire-cutout-swimsuit-with-high-waisted-bottom-5539292.jpg?v=1762751741
     Price: $40.99 USD
 - [Deep V-Neck Women's One-Piece Swimsuit with Crisscross Back](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps): Shop the Women’s One-Piece Swimsuit with deep V-neck, crisscross back, and adjustable straps. Perfect for beach vacations, pool days, and tropical getaways.
-  Updated: 2025-11-30T10:25:39Z
+  Updated: 2025-12-02T08:22:12Z
   Vendor: SoftBold
   Product Type: one piece
   Availability: Available
@@ -4311,197 +4102,197 @@
   - [Brown/Geo / L](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056562434163)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-7517168.jpg?v=1762751941
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Brown/Geo / XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056592515187)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-7517168.jpg?v=1762751941
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Brown/Geo / 2XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056592547955)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-7517168.jpg?v=1762751941
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Brown/Geo / 3XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056592580723)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-7517168.jpg?v=1762751941
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Brown/Geo / 4XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056592613491)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-7517168.jpg?v=1762751941
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Brown/Geo / 5XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056592646259)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-7517168.jpg?v=1762751941
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Black/White / L](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056562466931)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-3356990.jpg?v=1762751716
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Black/White / XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056592679027)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-3356990.jpg?v=1762751716
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Black/White / 2XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056592711795)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-3356990.jpg?v=1762751716
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Black/White / 3XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056592744563)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-3356990.jpg?v=1762751716
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Black/White / 4XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056592777331)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-3356990.jpg?v=1762751716
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Black/White / 5XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056592810099)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-3356990.jpg?v=1762751716
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Tomato Red / L](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056562499699)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-7962726.jpg?v=1762751941
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Tomato Red / XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056592842867)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-7962726.jpg?v=1762751941
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Tomato Red / 2XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056592875635)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-7962726.jpg?v=1762751941
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Tomato Red / 3XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056592908403)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-7962726.jpg?v=1762751941
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Tomato Red / 4XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056592941171)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-7962726.jpg?v=1762751941
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Tomato Red / 5XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056592973939)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-7962726.jpg?v=1762751941
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Teal / L](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056562532467)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-3519291.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Teal / XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593006707)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-3519291.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Teal / 2XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593039475)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-3519291.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Teal / 3XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593072243)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-3519291.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Teal / 4XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593105011)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-3519291.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Teal / 5XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593137779)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-3519291.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Navy Floral / L](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056562565235)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-4026095.jpg?v=1762751718
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Navy Floral / XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593170547)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-4026095.jpg?v=1762751718
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Navy Floral / 2XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593203315)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-4026095.jpg?v=1762751718
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Navy Floral / 3XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593236083)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-4026095.jpg?v=1762751718
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Navy Floral / 4XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593268851)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-4026095.jpg?v=1762751718
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Navy Floral / 5XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593301619)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-4026095.jpg?v=1762751718
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Dark Blue / L](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056562696307)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-4278521.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Dark Blue / XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593334387)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-4278521.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Dark Blue / 2XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593367155)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-4278521.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Dark Blue / 3XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593399923)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-4278521.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Dark Blue / 4XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593432691)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-4278521.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Dark Blue / 5XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593465459)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-4278521.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Brick Red / L](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056562729075)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-1662037.jpg?v=1762751716
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Brick Red / XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593498227)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-1662037.jpg?v=1762751716
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Brick Red / 2XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593530995)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-1662037.jpg?v=1762751716
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Brick Red / 3XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593563763)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-1662037.jpg?v=1762751716
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Brick Red / 4XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593596531)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-1662037.jpg?v=1762751716
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Brick Red / 5XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593629299)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-1662037.jpg?v=1762751716
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Black / L](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056562794611)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-9867778.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Black / XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593662067)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-9867778.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Black / 2XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593694835)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-9867778.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Black / 3XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593727603)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-9867778.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Black / 4XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593760371)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-9867778.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
   - [Black / 5XL](https://softboldswim.com/products/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps?variant=44056593793139)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-deep-v-neck-crisscross-back-adjustable-straps-9867778.jpg?v=1762751717
-    Price: $34.65 USD
+    Price: $42.65 USD
 - [Tummy Control Plus Size Swimsuit - High Neck & Ruched](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design): Flatter your curves in style with our plus-size swimsuit featuring tummy control and a high neck with ruched design for a sophisticated look.
-  Updated: 2025-11-30T10:25:39Z
+  Updated: 2025-12-02T08:15:53Z
   Vendor: SoftBold
   Product Type: Plus Size Swimwear
   Availability: Available
@@ -4509,205 +4300,205 @@
   - [L / Black -1](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056602476659)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3469148.jpg?v=1762751717
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [L / Pink and Black](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056602509427)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3906324.jpg?v=1762751716
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [L / Black Floral](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056602542195)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-7984441.jpg?v=1762751717
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [L / Hot Pink](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056602574963)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3018814.jpg?v=1762751716
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [L / Black](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056602607731)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-2111851.jpg?v=1762751715
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [L / Black and White Stripe](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056602640499)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-1711484.jpg?v=1762751941
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [L / Solid Black](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056602673267)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-9993452.jpg?v=1762751715
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [L / Brown](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056602706035)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-5447667.jpg?v=1762751716
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [L / Black Dot](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056602738803)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-7438185.jpg?v=1762751715
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [XL / Black -1](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603426931)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3469148.jpg?v=1762751717
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [XL / Pink and Black](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603459699)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3906324.jpg?v=1762751716
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [XL / Black Floral](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603492467)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-7984441.jpg?v=1762751717
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [XL / Hot Pink](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603525235)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3018814.jpg?v=1762751716
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [XL / Black](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603558003)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-2111851.jpg?v=1762751715
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [XL / Black and White Stripe](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603590771)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-1711484.jpg?v=1762751941
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [XL / Solid Black](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603623539)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-9993452.jpg?v=1762751715
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [XL / Brown](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603656307)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-5447667.jpg?v=1762751716
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [XL / Black Dot](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603689075)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-7438185.jpg?v=1762751715
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [2XL / Black -1](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603721843)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3469148.jpg?v=1762751717
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [2XL / Pink and Black](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603754611)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3906324.jpg?v=1762751716
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [2XL / Black Floral](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603787379)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-7984441.jpg?v=1762751717
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [2XL / Hot Pink](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603820147)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3018814.jpg?v=1762751716
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [2XL / Black](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603852915)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-2111851.jpg?v=1762751715
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [2XL / Black and White Stripe](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603885683)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-1711484.jpg?v=1762751941
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [2XL / Solid Black](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603918451)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-9993452.jpg?v=1762751715
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [2XL / Brown](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603951219)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-5447667.jpg?v=1762751716
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [2XL / Black Dot](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056603983987)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-7438185.jpg?v=1762751715
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [3XL / Black -1](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604016755)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3469148.jpg?v=1762751717
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [3XL / Pink and Black](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604049523)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3906324.jpg?v=1762751716
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [3XL / Black Floral](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604082291)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-7984441.jpg?v=1762751717
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [3XL / Hot Pink](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604115059)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3018814.jpg?v=1762751716
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [3XL / Black](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604147827)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-2111851.jpg?v=1762751715
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [3XL / Black and White Stripe](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604180595)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-1711484.jpg?v=1762751941
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [3XL / Solid Black](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604213363)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-9993452.jpg?v=1762751715
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [3XL / Brown](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604246131)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-5447667.jpg?v=1762751716
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [3XL / Black Dot](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604278899)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-7438185.jpg?v=1762751715
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [4XL / Black -1](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604311667)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3469148.jpg?v=1762751717
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [4XL / Pink and Black](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604344435)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3906324.jpg?v=1762751716
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [4XL / Black Floral](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604377203)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-7984441.jpg?v=1762751717
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [4XL / Hot Pink](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604409971)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3018814.jpg?v=1762751716
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [4XL / Black](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604442739)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-2111851.jpg?v=1762751715
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [4XL / Black and White Stripe](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604475507)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-1711484.jpg?v=1762751941
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [4XL / Solid Black](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604508275)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-9993452.jpg?v=1762751715
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [4XL / Brown](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604541043)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-5447667.jpg?v=1762751716
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [4XL / Black Dot](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604573811)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-7438185.jpg?v=1762751715
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [5XL / Black -1](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604606579)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3469148.jpg?v=1762751717
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [5XL / Pink and Black](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604639347)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3906324.jpg?v=1762751716
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [5XL / Black Floral](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604672115)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-7984441.jpg?v=1762751717
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [5XL / Hot Pink](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604704883)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-3018814.jpg?v=1762751716
-    Price: $35.91 USD
+    Price: $37.91 USD
   - [5XL / Black](https://softboldswim.com/products/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design?variant=44056604737651)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-high-neck-ruched-design-2111851.jpg?v=1762751715
-    Price: $35.91 USD
+    Price: $37.91 USD
 - [Ruffle One-Shoulder Plus Size Swimsuit with Tummy Control](https://softboldswim.com/products/plus-size-one-piece-swimsuit-one-shoulder-ruffle-tummy-control-swimwear): Shop our stylish Plus-Size One-Shoulder Swimsuit with ruffle details for flattering tummy control. Feel confident and chic at the beach!
-  Updated: 2025-11-30T10:25:39Z
+  Updated: 2025-12-02T08:11:23Z
   Vendor: SoftBold
   Product Type: one piece
   Availability: Available
@@ -6299,7 +6090,7 @@
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/tummy-control-tankini-swimsuits-for-women-modest-two-piece-with-shorts-7010161.jpg?v=1762751957
     Price: $36.99 USD
 - [High-Waisted Tummy Control Bikini - Women's Swimwear](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece): Get full support with this one-shoulder bikini top. Flatter your belly with high-waisted bottoms for tummy control. Perfect for any occasion.
-  Updated: 2025-11-30T10:25:40Z
+  Updated: 2025-12-02T06:46:52Z
   Vendor: SoftBold
   Product Type: two-piece
   Availability: Available
@@ -6307,203 +6098,203 @@
   - [L / Lavender](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229401203)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-2547737.jpg?v=1762751880
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Black](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229433971)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-7833243.jpg?v=1762751717
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Teal and Green](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229466739)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-3406349.jpg?v=1762751717
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Aqua](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229499507)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-5617584.jpg?v=1762751837
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Black Woven](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229532275)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-2965360.jpg?v=1762751837
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Red and Dot](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229565043)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-1896619.jpg?v=1762751717
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Brown](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229597811)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-6073271.jpg?v=1762751716
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Navy](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229630579)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-6649402.jpg?v=1762751836
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Colorful Leaves](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229663347)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-3678413.jpg?v=1762751716
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / White](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229696115)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-2460417.jpg?v=1762751715
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Orange and Floral](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229728883)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-4900334.jpg?v=1762751836
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Pink](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229761651)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-6778109.jpg?v=1762751837
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Olive Green Woven](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229794419)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-3123145.jpg?v=1762751837
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Leopard](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229827187)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-8681071.jpg?v=1762751716
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Black White](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229859955)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-9874363.jpg?v=1762751880
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Blue Green](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229892723)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-4987908.jpg?v=1762751837
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Hot Pink](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229925491)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-6079794.jpg?v=1762751717
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Blush Red](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229958259)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-9187019.jpg?v=1762751836
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Blue](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067229991027)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-2736392.jpg?v=1762751715
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Teal Flower](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067230023795)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-2919534.jpg?v=1762751880
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [L / Beige](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067230056563)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-3806596.jpg?v=1762751879
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Lavender](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234283635)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-2547737.jpg?v=1762751880
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Black](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234316403)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-7833243.jpg?v=1762751717
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Teal and Green](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234349171)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-3406349.jpg?v=1762751717
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Aqua](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234381939)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-5617584.jpg?v=1762751837
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Black Woven](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234414707)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-2965360.jpg?v=1762751837
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Red and Dot](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234447475)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-1896619.jpg?v=1762751717
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Brown](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234480243)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-6073271.jpg?v=1762751716
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Navy](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234513011)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-6649402.jpg?v=1762751836
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Colorful Leaves](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234545779)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-3678413.jpg?v=1762751716
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / White](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234578547)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-2460417.jpg?v=1762751715
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Orange and Floral](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234611315)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-4900334.jpg?v=1762751836
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Pink](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234644083)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-6778109.jpg?v=1762751837
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Olive Green Woven](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234676851)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-3123145.jpg?v=1762751837
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Leopard](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234709619)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-8681071.jpg?v=1762751716
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Black White](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234742387)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-9874363.jpg?v=1762751880
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Blue Green](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234775155)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-4987908.jpg?v=1762751837
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Hot Pink](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234807923)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-6079794.jpg?v=1762751717
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Blush Red](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234840691)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-9187019.jpg?v=1762751836
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Blue](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234873459)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-2736392.jpg?v=1762751715
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Teal Flower](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234906227)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-2919534.jpg?v=1762751880
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [XL / Beige](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234938995)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-3806596.jpg?v=1762751879
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [2XL / Lavender](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067234971763)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-2547737.jpg?v=1762751880
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [2XL / Black](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067235004531)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-7833243.jpg?v=1762751717
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [2XL / Teal and Green](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067235037299)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-3406349.jpg?v=1762751717
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [2XL / Aqua](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067235070067)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-5617584.jpg?v=1762751837
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [2XL / Black Woven](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067235102835)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-2965360.jpg?v=1762751837
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [2XL / Red and Dot](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067235135603)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-1896619.jpg?v=1762751717
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [2XL / Brown](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067235168371)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-6073271.jpg?v=1762751716
-    Price: $35.95 USD
+    Price: $41.95 USD
   - [2XL / Navy](https://softboldswim.com/products/womens-one-shoulder-high-waisted-bikini-set-tummy-control-full-coverage-two-piece?variant=44067235201139)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-high-waisted-tummy-control-bikini-set-full-coverage-swimwear-6649402.jpg?v=1762751836
-    Price: $35.95 USD
+    Price: $41.95 USD
 - [One Shoulder Tummy Control Women's Swimsuit - Cut-Out Mesh](https://softboldswim.com/products/womens-mesh-one-piece-swimsuit-tummy-control-one-shoulder-cut-out-design): Flatter your figure in this women's one-shoulder swimsuit with tummy control, cut-out details, and mesh inserts for a sexy and confident look.
   Updated: 2025-11-30T10:25:40Z
   Vendor: SoftBold
@@ -7535,7 +7326,7 @@
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimsuit-tummy-control-gold-metal-tie-knot-swim-dress-2858849.jpg?v=1762870128
     Price: $36.49 USD
 - [Charmo Scalloped Swimsuit - Stylish Swimwear for Women](https://softboldswim.com/products/charmo-scalloped-swimsuit): Turn heads at the beach with the Charmo Scalloped Swimsuit. Stylish design and comfortable fit make it a must-have for any fashion-forward swimwear collection.
-  Updated: 2025-11-30T10:25:40Z
+  Updated: 2025-12-02T06:15:27Z
   Vendor: SoftBold
   Product Type: one piece
   Availability: Available
@@ -7543,123 +7334,123 @@
   - [Army Green / L](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077579042931)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-8441671.jpg?v=1762870126
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Army Green / XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077579665523)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-8441671.jpg?v=1762870126
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Army Green / 2XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077579698291)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-8441671.jpg?v=1762870126
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Army Green / 3XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077579731059)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-8441671.jpg?v=1762870126
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Army Green / 4XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077579763827)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-8441671.jpg?v=1762870126
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Army Green / 5XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077579796595)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-8441671.jpg?v=1762870126
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Teal / L](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077579075699)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-7450347.jpg?v=1762870126
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Teal / XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077579829363)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-7450347.jpg?v=1762870126
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Teal / 2XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077579862131)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-7450347.jpg?v=1762870126
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Teal / 3XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077579894899)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-7450347.jpg?v=1762870126
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Teal / 4XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077579927667)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-7450347.jpg?v=1762870126
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Teal / 5XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077579960435)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-7450347.jpg?v=1762870126
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Black / L](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077579108467)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-6429754.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Black / XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077579993203)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-6429754.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Black / 2XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077580025971)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-6429754.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Black / 3XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077580058739)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-6429754.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Black / 4XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077580091507)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-6429754.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Black / 5XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077580124275)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-6429754.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Royal Blue / L](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077579141235)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-4893216.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Royal Blue / XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077580157043)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-4893216.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Royal Blue / 2XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077580189811)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-4893216.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Royal Blue / 3XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077580222579)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-4893216.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Royal Blue / 4XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077580255347)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-4893216.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Royal Blue / 5XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077580288115)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-4893216.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Blue / L](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077579174003)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-1066151.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Blue / XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077580320883)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-1066151.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Blue / 2XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077580353651)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-1066151.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Blue / 3XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077580386419)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-1066151.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Blue / 4XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077580419187)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-1066151.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
   - [Blue / 5XL](https://softboldswim.com/products/charmo-scalloped-swimsuit?variant=44077580451955)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/plus-size-one-piece-swimsuit-tummy-control-scalloped-ribbed-design-ruched-modest-bathing-suit-1066151.jpg?v=1762870127
-    Price: $40.85 USD
+    Price: $45.85 USD
 - [Twist Front Tankini Set - Tummy Control & Bikini Bottoms](https://softboldswim.com/products/tankini-swimsuits-for-women-tummy-control-two-piece-with-twist-front-bikini-bottoms): Flattering tummy control tankini swimsuit with twist front design for a slimming and elegant beach look. Feel confident and fabulous all summer long.
   Updated: 2025-11-30T10:25:40Z
   Vendor: SoftBold
@@ -8485,7 +8276,7 @@
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-one-piece-swimdress-tummy-control-skirted-bathing-suit-5436224.jpg?v=1763367659
     Price: $43.99 USD
 - [Textured Twist-Front Bikini — High-Waisted Tummy-Control](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear): Elevate your beach look with our Women’s Textured Twist-Front Bikini Set. Unique twist-front detail and flattering high-waisted bottoms for tummy control.
-  Updated: 2025-11-30T10:25:40Z
+  Updated: 2025-12-02T13:29:06Z
   Vendor: SoftBold
   Product Type: Bikin
   Availability: Available
@@ -8516,179 +8307,179 @@
     Price: $40.79 USD
   - [Army Green / 5XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895178867)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-1163483.jpg?v=1763892452
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-1163483.jpg?v=1764653986
     Price: $40.79 USD
   - [Army Green / 4XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895211635)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-1163483.jpg?v=1763892452
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-1163483.jpg?v=1764653986
     Price: $40.79 USD
   - [Army Green / 3XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895244403)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-1163483.jpg?v=1763892452
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-1163483.jpg?v=1764653986
     Price: $40.79 USD
   - [Army Green / 2XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895277171)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-1163483.jpg?v=1763892452
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-1163483.jpg?v=1764653986
     Price: $40.79 USD
   - [Army Green / XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895309939)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-1163483.jpg?v=1763892452
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-1163483.jpg?v=1764653986
     Price: $40.79 USD
   - [Army Green / L](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895342707)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-1163483.jpg?v=1763892452
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-1163483.jpg?v=1764653986
     Price: $40.79 USD
   - [Beige / 5XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895375475)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8775655.jpg?v=1763892453
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8775655.jpg?v=1764653986
     Price: $40.79 USD
   - [Beige / 4XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895408243)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8775655.jpg?v=1763892453
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8775655.jpg?v=1764653986
     Price: $40.79 USD
   - [Beige / 3XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895441011)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8775655.jpg?v=1763892453
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8775655.jpg?v=1764653986
     Price: $40.79 USD
   - [Beige / 2XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895473779)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8775655.jpg?v=1763892453
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8775655.jpg?v=1764653986
     Price: $40.79 USD
   - [Beige / XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895506547)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8775655.jpg?v=1763892453
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8775655.jpg?v=1764653986
     Price: $40.79 USD
   - [Beige / L](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895539315)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8775655.jpg?v=1763892453
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8775655.jpg?v=1764653986
     Price: $40.79 USD
   - [Brown / 5XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895572083)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-9966722.jpg?v=1763892452
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-9966722.jpg?v=1764653986
     Price: $40.79 USD
   - [Brown / 4XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895604851)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-9966722.jpg?v=1763892452
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-9966722.jpg?v=1764653986
     Price: $40.79 USD
   - [Brown / 3XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895637619)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-9966722.jpg?v=1763892452
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-9966722.jpg?v=1764653986
     Price: $40.79 USD
   - [Brown / 2XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895670387)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-9966722.jpg?v=1763892452
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-9966722.jpg?v=1764653986
     Price: $40.79 USD
   - [Brown / XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895703155)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-9966722.jpg?v=1763892452
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-9966722.jpg?v=1764653986
     Price: $40.79 USD
   - [Brown / L](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895735923)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-9966722.jpg?v=1763892452
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-9966722.jpg?v=1764653986
     Price: $40.79 USD
   - [Burgundy / 5XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895768691)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-3575559.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-3575559.jpg?v=1764653986
     Price: $40.79 USD
   - [Burgundy / 4XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895801459)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-3575559.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-3575559.jpg?v=1764653986
     Price: $40.79 USD
   - [Burgundy / 3XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895834227)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-3575559.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-3575559.jpg?v=1764653986
     Price: $40.79 USD
   - [Burgundy / 2XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895866995)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-3575559.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-3575559.jpg?v=1764653986
     Price: $40.79 USD
   - [Burgundy / XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895899763)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-3575559.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-3575559.jpg?v=1764653986
     Price: $40.79 USD
   - [Burgundy / L](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895932531)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-3575559.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-3575559.jpg?v=1764653986
     Price: $40.79 USD
   - [Hot Pink / 5XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895965299)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-5458506.jpg?v=1763892375
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-5458506.jpg?v=1764653986
     Price: $40.79 USD
   - [Hot Pink / 4XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100895998067)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-5458506.jpg?v=1763892375
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-5458506.jpg?v=1764653986
     Price: $40.79 USD
   - [Hot Pink / 3XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896030835)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-5458506.jpg?v=1763892375
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-5458506.jpg?v=1764653986
     Price: $40.79 USD
   - [Hot Pink / 2XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896063603)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-5458506.jpg?v=1763892375
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-5458506.jpg?v=1764653986
     Price: $40.79 USD
   - [Hot Pink / XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896096371)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-5458506.jpg?v=1763892375
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-5458506.jpg?v=1764653986
     Price: $40.79 USD
   - [Hot Pink / L](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896129139)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-5458506.jpg?v=1763892375
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-5458506.jpg?v=1764653986
     Price: $40.79 USD
   - [Navy Blue / 5XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896161907)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-6741963.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-6741963.jpg?v=1764653986
     Price: $40.79 USD
   - [Navy Blue / 4XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896194675)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-6741963.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-6741963.jpg?v=1764653986
     Price: $40.79 USD
   - [Navy Blue / 3XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896227443)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-6741963.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-6741963.jpg?v=1764653986
     Price: $40.79 USD
   - [Navy Blue / 2XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896260211)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-6741963.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-6741963.jpg?v=1764653986
     Price: $40.79 USD
   - [Navy Blue / XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896292979)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-6741963.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-6741963.jpg?v=1764653986
     Price: $40.79 USD
   - [Navy Blue / L](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896325747)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-6741963.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-6741963.jpg?v=1764653986
     Price: $40.79 USD
   - [Nude Pink / 5XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896358515)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8338762.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8338762.jpg?v=1764653986
     Price: $40.79 USD
   - [Nude Pink / 4XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896391283)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8338762.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8338762.jpg?v=1764653986
     Price: $40.79 USD
   - [Nude Pink / 3XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896424051)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8338762.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8338762.jpg?v=1764653986
     Price: $40.79 USD
   - [Nude Pink / 2XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896456819)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8338762.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8338762.jpg?v=1764653986
     Price: $40.79 USD
   - [Nude Pink / XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896489587)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8338762.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8338762.jpg?v=1764653986
     Price: $40.79 USD
   - [Nude Pink / L](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896522355)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8338762.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-8338762.jpg?v=1764653986
     Price: $40.79 USD
   - [Orange / 5XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896555123)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-3736696.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-3736696.jpg?v=1764653986
     Price: $40.79 USD
   - [Orange / 4XL](https://softboldswim.com/products/women-s-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear?variant=44100896587891)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-3736696.jpg?v=1763892374
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/womens-textured-twist-front-bikini-set-high-waisted-tummy-control-swimwear-3736696.jpg?v=1764653986
     Price: $40.79 USD
 - [High-Waist Tummy-Control Bikini Set with Crisscross Tie-Back](https://softboldswim.com/products/high-waist-drawstring-bikini-tummy-control): Get the ultimate flattery with our High-Waist Drawstring Bikini Set. Features tummy-control, crisscross tie-back, and removable pads for a perfect fit.
   Updated: 2025-11-30T22:12:41Z
@@ -8897,133 +8688,133 @@
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/high-waist-drawstring-bikini-set-tummy-control-crisscross-tie-back-removable-pads-6488233.jpg?v=1764497768
     Price: $36.19 USD
 - [Ribbed Maternity One-Piece Swim Dress with Twist-Front](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout): Look stylish and feel comfortable in this Ruffle Ribbed Maternity One-Piece Twist-Front Push-Up Cutout Swim Dress. The perfect choice for expectant mothers.
-  Updated: 2025-12-01T19:22:46Z
+  Updated: 2025-12-02T15:54:04Z
   Vendor: SoftBold
   Product Type: Maternity
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-5442778.jpg?v=1764573548
+  Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-1352523.jpg?v=1764647630
   - [Dark Red / L](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119565566067)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-5442778.jpg?v=1764573548
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-5442778.jpg?v=1764647630
     Price: $49.69 USD
   - [Dark Red / XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119565598835)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-5442778.jpg?v=1764573548
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-5442778.jpg?v=1764647630
     Price: $49.69 USD
   - [Dark Red / 2XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119565631603)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-5442778.jpg?v=1764573548
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-5442778.jpg?v=1764647630
     Price: $49.69 USD
   - [Dark Red / 3XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119565664371)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-5442778.jpg?v=1764573548
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-5442778.jpg?v=1764647630
     Price: $49.69 USD
   - [Dark Red / 4XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119565697139)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-5442778.jpg?v=1764573548
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-5442778.jpg?v=1764647630
     Price: $49.69 USD
   - [Dark Red / 5XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119565729907)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-5442778.jpg?v=1764573548
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-5442778.jpg?v=1764647630
     Price: $49.69 USD
   - [Green / L](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119565762675)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-7679120.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-7679120.jpg?v=1764647630
     Price: $49.69 USD
   - [Green / XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119565795443)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-7679120.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-7679120.jpg?v=1764647630
     Price: $49.69 USD
   - [Green / 2XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119565828211)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-7679120.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-7679120.jpg?v=1764647630
     Price: $49.69 USD
   - [Green / 3XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119565860979)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-7679120.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-7679120.jpg?v=1764647630
     Price: $49.69 USD
   - [Green / 4XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119565893747)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-7679120.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-7679120.jpg?v=1764647630
     Price: $49.69 USD
   - [Green / 5XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119565926515)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-7679120.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-7679120.jpg?v=1764647630
     Price: $49.69 USD
   - [Black / L](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119565959283)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-1352523.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-1352523.jpg?v=1764647630
     Price: $49.69 USD
   - [Black / XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119565992051)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-1352523.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-1352523.jpg?v=1764647630
     Price: $49.69 USD
   - [Black / 2XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119566024819)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-1352523.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-1352523.jpg?v=1764647630
     Price: $49.69 USD
   - [Black / 3XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119566057587)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-1352523.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-1352523.jpg?v=1764647630
     Price: $49.69 USD
   - [Black / 4XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119566090355)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-1352523.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-1352523.jpg?v=1764647630
     Price: $49.69 USD
   - [Black / 5XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119566123123)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-1352523.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-1352523.jpg?v=1764647630
     Price: $49.69 USD
   - [Black Green / L](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119566155891)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6771822.jpg?v=1764573548
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6771822.jpg?v=1764647630
     Price: $49.69 USD
   - [Black Green / XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119566188659)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6771822.jpg?v=1764573548
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6771822.jpg?v=1764647630
     Price: $49.69 USD
   - [Black Green / 2XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119566221427)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6771822.jpg?v=1764573548
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6771822.jpg?v=1764647630
     Price: $49.69 USD
   - [Black Green / 3XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119566254195)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6771822.jpg?v=1764573548
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6771822.jpg?v=1764647630
     Price: $49.69 USD
   - [Black Green / 4XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119566286963)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6771822.jpg?v=1764573548
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6771822.jpg?v=1764647630
     Price: $49.69 USD
   - [Black Green / 5XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119566319731)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6771822.jpg?v=1764573548
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6771822.jpg?v=1764647630
     Price: $49.69 USD
   - [Coffee / L](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119566352499)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6191532.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6191532.jpg?v=1764647630
     Price: $49.69 USD
   - [Coffee / XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119566385267)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6191532.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6191532.jpg?v=1764647630
     Price: $49.69 USD
   - [Coffee / 2XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119566418035)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6191532.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6191532.jpg?v=1764647630
     Price: $49.69 USD
   - [Coffee / 3XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119566450803)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6191532.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6191532.jpg?v=1764647630
     Price: $49.69 USD
   - [Coffee / 4XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119566483571)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6191532.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6191532.jpg?v=1764647630
     Price: $49.69 USD
   - [Coffee / 5XL](https://softboldswim.com/products/ruffle-ribbed-maternity-one-piece-twist-cutout?variant=44119566516339)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6191532.jpg?v=1764573549
+    Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/ruffle-ribbed-maternity-one-piece-twist-front-push-up-cutout-swim-dress-6191532.jpg?v=1764647630
     Price: $49.69 USD
 - [Ruched Pregnancy Swimsuit - Front-Cross Maternity Suit](https://softboldswim.com/products/front-cross-maternity-one-piece-ruched-swimsuit): Stay stylish and comfortable during your pregnancy with our Front-Cross Maternity One-Piece swimsuit. Ruched design adds a flattering touch.
-  Updated: 2025-12-01T23:30:46Z
+  Updated: 2025-12-02T03:49:56Z
   Vendor: SoftBold
   Product Type: Maternity
   Availability: Available
@@ -9331,7 +9122,7 @@
     Image: https://cdn.shopify.com/s/files/1/0661/0973/5027/files/summer-mae-ruffle-maternity-one-piece-v-neck-lace-up-push-up-monokini-2834339.jpg?v=1764573549
     Price: $40.31 USD
 - [Maternity One-Piece Swimsuit with Detachable Buttons](https://softboldswim.com/products/summer-mae-maternity-button-neck-cross-back): Stay stylish and comfortable with our Summer Mae Maternity One-Piece Swimsuit, featuring a detachable button neck and cross-back design for easy nursing.
-  Updated: 2025-12-01T11:35:08Z
+  Updated: 2025-12-02T00:21:40Z
   Vendor: SoftBold
   Product Type: Maternity
   Availability: Available
@@ -9944,14 +9735,14 @@
 ## Collections
 
 - [SoftBold Black Friday Vacation Swimwear | 20% OFF Early-Bird](https://softboldswim.com/collections/softbold-black-friday-vacation): Plan your getaway now—SoftBold Black Friday plus-size swimwear is 20% off. UPF50+, eco-friendly fabrics, and supportive fits. Limited early-bird deals; free US shipping over $100. Shop today!
-  Updated: 2025-11-30T08:55:54Z
+  Updated: 2025-12-02T15:01:50Z
   Total Products: 16
 - [Bikinis — High-Waist & Tummy-Control Swimwear | SoftBold](https://softboldswim.com/collections/bikini-swimwear): Shop SoftBold bikinis: high-waist, tummy-control, ruched & push-up styles. Quick-dry, UPF50+, eco fabrics. Free US shipping on orders $100+.
-  Updated: 2025-11-30T10:11:15Z
+  Updated: 2025-12-02T15:01:50Z
   Total Products: 27
 - [High-Waist Swimwear — Flattering Bikinis & One-Pieces](https://softboldswim.com/collections/high-waisted-swimwear): Shop SoftBold high-waist swimwear: high-rise bikinis & ruched one-pieces with tummy control, full coverage and plus sizes. Quick-dry, UPF protection.
-  Updated: 2025-11-30T10:11:15Z
-  Total Products: 16
+  Updated: 2025-12-02T14:57:59Z
+  Total Products: 15
 - [Monokini Swimsuits — Cutout & Tummy Control | SoftBold](https://softboldswim.com/collections/monokini-swimsuits): Shop SoftBold’s monokini collection: cutout one-piece swimsuits with tummy control, adjustable fits, and quick-dry, fully-lined fabrics. Flattering styles for beach, pool, and vacations.
   Updated: 2025-11-30T08:55:54Z
   Total Products: 4
@@ -9959,11 +9750,11 @@
   Updated: 2025-12-01T07:13:34Z
   Total Products: 6
 - [Tankini Swimsuits — Tummy Control Two-Piece | SoftBold](https://softboldswim.com/collections/tankini-swimwear): Shop SoftBold tankini swimsuits: tummy-control tops with adjustable straps, boyshorts or high-waist bottoms. Quick-dry, UPF protection, plus-size options.
-  Updated: 2025-11-30T08:55:54Z
+  Updated: 2025-12-02T14:26:49Z
   Total Products: 10
 - [Curve Swimwear — Flattering Curvy & Plus-Size Styles](https://softboldswim.com/collections/curve-swimwear): Elevate your summer style with Curve Swimwear's collection of flattering curvy and plus-size styles. Look and feel confident at the beach.
-  Updated: 2025-11-30T08:55:54Z
-  Total Products: 33
+  Updated: 2025-12-02T15:01:50Z
+  Total Products: 32
 
 ## Blogs
 
@@ -10019,6 +9810,10 @@
   - [Embrace Your Curves: Flattering Plus-Size Swimwear for Confidence and Comfort](https://softboldswim.com/blogs/新闻/embrace-your-curves-flattering-plus-size-swimwear-for-confidence-and-comfort)
     Updated: 2025-11-30T10:14:27Z
     Author: SoftBold
+  - [Navigate Black Friday with These Tips for Best Plus-Size Swimwear Selection](https://softboldswim.com/blogs/新闻/navigate-black-friday-with-these-tips-for-best-plus-size-swimwear-selection): Navigate Black Friday with These Tips for Best Plus-Size Swimwear Selection
+    Updated: 2025-12-02T13:27:06Z
+    Author: SoftBold
+    Tags: big-bust swimwear, comfortable plus-size swimwear, curvy swimwear, eco-friendly swimwear, plus-size bikini, plus-size swimsuits, plus-size swimwear, supportive swimwear for big-bust women
 
 ## Store Pages
 
@@ -10040,8 +9835,8 @@
   Updated: 2025-11-28T06:04:54Z
 - [SoftBold Privacy Policy- Protecting Your Information](https://softboldswim.com/pages/privacy-policy-softbold): At SoftBold we respect your privacy and are committed to protecting the personal information you share with us. This Privacy Policy explains what d...
   Updated: 2025-11-28T06:03:08Z
-- [Shipping & Delivery — Fast, Reliable & Trackable](https://softboldswim.com/pages/shipping-delivery): At SoftBold we get your plus-size swimwear out fast. Orders are processed within 1–3 business days. Domestic delivery typically takes 3–7 business ...
-  Updated: 2025-12-01T11:44:14Z
+- [Shipping & Delivery — Fast, Reliable & Trackable](https://softboldswim.com/pages/shipping-delivery): Fast, Reliable Shipping Our shipping services are designed to ensure your packages reach their destination quickly and safely. With our efficient l...
+  Updated: 2025-12-02T15:08:13Z
 
 ## Policies
 
