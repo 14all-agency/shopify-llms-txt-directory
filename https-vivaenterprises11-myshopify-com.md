@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-10-22T16:52:50Z
 - Contact Email: vicky2more@gmail.com
-- Updated At: 2025-11-30T00:01:55.232Z
+- Updated At: 2025-12-03T00:01:23.553Z
 
 ## Products
 
@@ -30945,7 +30945,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_38_3b41256a-72a8-4a59-9945-ee759d03febf.jpg?v=1764245397
     Price: ₹599.00 INR
 - [Abstract Symmetric Graphic  T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-67): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-28T12:23:17Z
+  Updated: 2025-12-02T10:51:36Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -38172,8 +38172,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Left_Pocket_1_c_38_2de1ba65-48bc-4762-acf7-8d0470b1df18.jpg?v=1764332759
     Price: ₹479.00 INR
-- [Unisex Basic T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-77): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-29T00:34:18Z
+- [T-shirt with Purple Y-Heart Logo](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-77): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-12-02T22:09:14Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -38553,7 +38553,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_51_f2a7351a-e750-4e84-b737-679718671df0.jpg?v=1764332756
     Price: ₹499.00 INR
 - [Unisex Basic T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-78): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-29T15:56:46Z
+  Updated: 2025-11-30T03:56:25Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -38759,7 +38759,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_64_4d24366d-0663-4617-a1d4-be38c0042098.jpg?v=1764431796
     Price: ₹349.00 INR
 - [Unisex Basic T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-79): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-29T15:56:53Z
+  Updated: 2025-11-30T03:56:39Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -38964,8 +38964,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_64_0a93f27a-8fa0-4292-96f7-ea1b3daa658e.jpg?v=1764431799
     Price: ₹299.00 INR
-- [Unisex Basic T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-80): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-29T15:56:59Z
+- [Neon/Vibrant Eagle Mascot T-shirt](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-80): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-12-02T22:42:19Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -39171,7 +39171,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_64_3b42c657-c0bc-4b9b-a1d6-fcb2074cd0be.jpg?v=1764431802
     Price: ₹299.00 INR
 - [Unisex Basic T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-81): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-29T15:57:03Z
+  Updated: 2025-11-30T03:56:41Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -39376,8 +39376,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_64_2469e024-4012-4449-86a9-103a61922522.jpg?v=1764431804
     Price: ₹399.00 INR
-- [Unisex Basic T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-82): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-29T15:57:07Z
+- [Black T-shirt with Aqua Tribal Abstract Graphic](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-82): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-12-02T23:07:57Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -39583,7 +39583,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_64_0c964952-0123-406f-880f-005c923627f3.jpg?v=1764431809
     Price: ₹399.00 INR
 - [Unisex Basic T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-83): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-29T15:57:11Z
+  Updated: 2025-11-30T03:56:37Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -39788,8 +39788,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_64_a627e9db-77a7-49ad-870a-a110aa51b0f4.jpg?v=1764431811
     Price: ₹399.00 INR
-- [Unisex Basic T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-84): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-29T15:57:16Z
+- [Unisex Basic  Lion T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-84): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-12-02T22:01:43Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
