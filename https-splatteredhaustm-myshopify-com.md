@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-25T14:09:39Z
 - Contact Email: splatteredhaus@gmail.com
-- Updated At: 2025-12-02T00:01:11.379Z
+- Updated At: 2025-12-03T00:01:11.698Z
 
 ## Products
 
@@ -1745,7 +1745,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371439.jpg?v=1763232386
     Price: $81.33 USD
 - [Punk Rock Love Letter Round Square Pendant Chunky Necklace Lover](https://splatteredhaustm.myshopify.com/products/punk-rock-love-letter-round-square-pendant-chunky-necklace-lover-hip-hop-jewelry): Length:49cm - Splattered Haus TM
-  Updated: 2025-12-01T17:16:56Z
+  Updated: 2025-12-02T17:18:07Z
   Vendor: Feelontop Jewellery
   Product Type: n/a
   Availability: Available
