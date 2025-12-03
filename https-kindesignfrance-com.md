@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-11-09T14:00:17Z
 - Contact Email: isabelle.berthier@rocketmail.com
-- Updated At: 2025-12-02T00:02:36.563Z
+- Updated At: 2025-12-03T00:01:20.640Z
 
 ## Products
 
@@ -1542,6 +1542,234 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-recycled-high-waisted-bikini-white-front-692d68b9cbb48.jpg?v=1764583869
     Price: 49,00 € EUR
+- [T-shirt Unisexe à Manches Longues "A journey through life"](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life): Enrichissez votre garde-robe avec un t-shirt à manches longues polyvalent. Pour un look décontracté, combinez-le avec votre jean préféré et portez-le avec une chemise boutonnée, un sweat à capuche zippé ou une veste élégante. Habillez-le avec un pantalon formel ou un chino pour obtenir un look plus professionnel. • 100 % coton peigné airlume filé à l'anneau • Les couleurs chinées sont 52 % coton peigné et filé à l'anneau, 48 % polyester • Les coloris Athletic Heather et Black Heather sont 90 % coton peigné et filé à l'anneau, 10 % polyester • Poids du tissu : 142,4 g/m² (4,2 oz/yd²) • 32 fils simples • Coupe régulière • Construction cousue sur les côtés • Col surpiqué • Poignets côtelés de 5 cm (2″) • Produit vierge provenant du Nicaragua, du Honduras ou des États-Unis
+  Updated: 2025-12-02T22:50:27Z
+  Vendor: Kin design France
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/IMG-6335.png?v=1764673412
+  - [Noir / XS](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292490740087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-black-front-692ec3e0d9d4c.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Noir / S](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292490772855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-black-front-692ec3e0d9d4c.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Noir / M](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292490805623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-black-front-692ec3e0d9d4c.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Noir / L](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292490838391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-black-front-692ec3e0d9d4c.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Noir / XL](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292490871159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-black-front-692ec3e0d9d4c.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Noir / 2 XL](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292490903927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-black-front-692ec3e0d9d4c.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Bleu Marine / XS](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292490936695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-navy-front-692ec3e0dca55.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Bleu Marine / S](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292490969463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-navy-front-692ec3e0dca55.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Bleu Marine / M](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491002231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-navy-front-692ec3e0dca55.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Bleu Marine / L](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491034999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-navy-front-692ec3e0dca55.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Bleu Marine / XL](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491067767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-navy-front-692ec3e0dca55.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Bleu Marine / 2 XL](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491100535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-navy-front-692ec3e0dca55.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Rouge / XS](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491133303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-red-front-692ec3e0e0f7d.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Rouge / S](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491166071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-red-front-692ec3e0e0f7d.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Rouge / M](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491198839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-red-front-692ec3e0e0f7d.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Rouge / L](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491231607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-red-front-692ec3e0e0f7d.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Rouge / XL](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491264375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-red-front-692ec3e0e0f7d.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Rouge / 2 XL](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491297143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-red-front-692ec3e0e0f7d.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Bleu Roi Foncé / XS](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491329911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-true-royal-front-692ec3e0e6e1f.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Bleu Roi Foncé / S](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491362679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-true-royal-front-692ec3e0e6e1f.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Bleu Roi Foncé / M](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491395447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-true-royal-front-692ec3e0e6e1f.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Bleu Roi Foncé / L](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491428215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-true-royal-front-692ec3e0e6e1f.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Bleu Roi Foncé / XL](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491460983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-true-royal-front-692ec3e0e6e1f.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Bleu Roi Foncé / 2 XL](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491493751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-true-royal-front-692ec3e0e6e1f.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Vert Militaire / XS](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491526519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-military-green-front-692ec3e0f14c3.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Vert Militaire / S](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491559287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-military-green-front-692ec3e0f14c3.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Vert Militaire / M](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491592055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-military-green-front-692ec3e0f14c3.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Vert Militaire / L](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491624823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-military-green-front-692ec3e0f14c3.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Vert Militaire / XL](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491657591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-military-green-front-692ec3e0f14c3.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Vert Militaire / 2 XL](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491690359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-military-green-front-692ec3e0f14c3.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Tempête / XS](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491723127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-storm-front-692ec3e10c06d.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Tempête / S](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491755895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-storm-front-692ec3e10c06d.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Tempête / M](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491788663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-storm-front-692ec3e10c06d.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Tempête / L](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491821431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-storm-front-692ec3e10c06d.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Tempête / XL](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491854199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-storm-front-692ec3e10c06d.jpg?v=1764673412
+    Price: 29,00 € EUR
+  - [Tempête / 2 XL](https://kindesignfrance.com/products/t-shirt-unisexe-a-manches-longues-a-journey-through-life?variant=56292491886967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-long-sleeve-tee-storm-front-692ec3e10c06d.jpg?v=1764673412
+    Price: 29,00 € EUR
+- [Sweat Unisexe à Col Rond](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1): Un sweat robuste et épais pour vous garder au chaud pendant les mois les plus froids. Un pull pré-rétréci, de coupe classique, fabriqué avec du fil filé par jet d'air pour une sensation de douceur. • 50 % coton, 50 % polyester • Coupe classique • Col en tricot athlétique 1x1 avec élasthanne • Fil filé par jet d'air avec une sensation douce • Couture à double aiguille sur le col, épaules, emmanchures et ourlet Avertissement : • En raison des propriétés du tissu, la variante de couleur blanche peut apparaître ivoire plutôt que blanc brillant. • La variante de couleur orange peut révéler de subtiles différences de teintes orange en fonction de l'éclairage. • Traçabilité : - Tricot : Honduras, Bangladesh - Teinture : Honduras, Bangladesh - Fabrication : Nicaragua, Honduras, Bangladesh ou El Salvador • Contient 0 % de polyester recyclé • Contient 0 % de substances dangereuses • Cet article libère des microfibres en plastique dans l'environnement pendant le lavage Age restrictions: Pour les adultes EU Warranty: 2 ans Other compliance information: Répond aux exigences en matière d'inflammabilité, de teneur en plomb, cadmium, bisphénols et phtalates. En conformité avec le Règlement pour la Sécurité Générale des Produits (RSGP), kin design garantit que tous les produits de consommation proposés sont sûrs et conformes aux normes de l'UE. Pour toute question ou préoccupation liée à la sécurité des produits, veuillez nous contacter à isabelle.berthier@rocketmail.com ou nous écrire à 5, place du président Magnaud Saint Yrieix La Perche France.Size guide LENGTH (cm) WIDTH (cm) S 68.6 50.8 M 71.1 55.9 L 73.7 61 XL 76.2 66 2XL 78.7 71.1 3XL 81.3 76.2
+  Updated: 2025-12-02T23:27:26Z
+  Vendor: Kin design France
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/IMG-6339.png?v=1764675412
+  - [Bleu Marine / S](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701045111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-navy-front-692eccfcb9219.jpg?v=1764675412
+    Price: 39,00 € EUR
+  - [Bleu Marine / M](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701077879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-navy-front-692eccfcb9219.jpg?v=1764675412
+    Price: 39,00 € EUR
+  - [Bleu Marine / L](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701110647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-navy-front-692eccfcb9219.jpg?v=1764675412
+    Price: 39,00 € EUR
+  - [Bleu Marine / XL](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701143415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-navy-front-692eccfcb9219.jpg?v=1764675412
+    Price: 39,00 € EUR
+  - [Bleu Marine / 2 XL](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701176183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-navy-front-692eccfcb9219.jpg?v=1764675412
+    Price: 39,00 € EUR
+  - [Bleu Marine / 3XL](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701208951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-navy-front-692eccfcb9219.jpg?v=1764675412
+    Price: 39,00 € EUR
+  - [Bleu Indigo / S](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701241719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-indigo-blue-front-692eccfcbd33f.jpg?v=1764675412
+    Price: 39,00 € EUR
+  - [Bleu Indigo / M](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701274487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-indigo-blue-front-692eccfcbd33f.jpg?v=1764675412
+    Price: 39,00 € EUR
+  - [Bleu Indigo / L](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701307255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-indigo-blue-front-692eccfcbd33f.jpg?v=1764675412
+    Price: 39,00 € EUR
+  - [Bleu Indigo / XL](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701340023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-indigo-blue-front-692eccfcbd33f.jpg?v=1764675412
+    Price: 39,00 € EUR
+  - [Bleu Indigo / 2 XL](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701372791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-indigo-blue-front-692eccfcbd33f.jpg?v=1764675412
+    Price: 39,00 € EUR
+  - [Bleu Indigo / 3XL](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701405559)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-indigo-blue-front-692eccfcbd33f.jpg?v=1764675412
+    Price: 39,00 € EUR
+  - [Gris Sport / S](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701438327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-sport-grey-front-692eccfcc30ae.jpg?v=1764675412
+    Price: 39,00 € EUR
+  - [Gris Sport / M](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701471095)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-sport-grey-front-692eccfcc30ae.jpg?v=1764675412
+    Price: 39,00 € EUR
+  - [Gris Sport / L](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701503863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-sport-grey-front-692eccfcc30ae.jpg?v=1764675412
+    Price: 39,00 € EUR
+  - [Gris Sport / XL](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701536631)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-sport-grey-front-692eccfcc30ae.jpg?v=1764675412
+    Price: 39,00 € EUR
+  - [Gris Sport / 2 XL](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701569399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-sport-grey-front-692eccfcc30ae.jpg?v=1764675412
+    Price: 39,00 € EUR
+  - [Gris Sport / 3XL](https://kindesignfrance.com/products/sweat-unisexe-a-col-rond-1?variant=56292701602167)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/unisex-crew-neck-sweatshirt-sport-grey-front-692eccfcc30ae.jpg?v=1764675412
+    Price: 39,00 € EUR
 
 ## Collections
 
@@ -1555,14 +1783,14 @@
   Updated: 2025-12-01T10:07:25Z
   Total Products: 19
 - [Femme](https://kindesignfrance.com/collections/femme)
-  Updated: 2025-12-01T10:07:25Z
-  Total Products: 26
+  Updated: 2025-12-02T11:09:31Z
+  Total Products: 23
 - [Fille](https://kindesignfrance.com/collections/fille)
   Updated: 2025-12-01T09:35:20Z
   Total Products: 10
 - [Unisexe](https://kindesignfrance.com/collections/homme)
-  Updated: 2025-11-27T13:29:19Z
-  Total Products: 6
+  Updated: 2025-12-02T11:27:13Z
+  Total Products: 8
 
 ## Blogs
 
