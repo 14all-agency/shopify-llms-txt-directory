@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-07T00:48:50Z
 - Contact Email: freeoffice2@gmail.com
-- Updated At: 2025-12-02T00:01:08.971Z
+- Updated At: 2025-12-03T00:00:51.264Z
 
 ## Collections
 
@@ -78,7 +78,7 @@
     Author: Mohammed Hassen
     Tags: CDN Providers, Cloudflare Outage, Crazedo Weekly Trend, Edge Computing, google trending topics, Infrastructure Redundancy, Internet Reliability, Online Security, Tech Outage Analysis, Web Performance
   - [Stranger Things Season 5 Search Trend Surges | Crazedo](https://crazedo.com/blogs/weekly-google-trends/stranger-things-season-5-search-trend): Stranger Things Season 5 Search Trend Surges | Crazedo
-    Updated: 2025-12-01T20:23:54Z
+    Updated: 2025-12-02T23:28:41Z
     Author: Mohammed Hassen
     Tags: Crazedo Trends, entertainment trends 2025, google trends this week, netflix trending 2025, pop culture trends, season 5 ending predictions, stranger things season 5, stranger things trending, streaming trends netflix, viral tv trends
 
