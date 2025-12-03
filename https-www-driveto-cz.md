@@ -12,7 +12,7 @@ Zprostředkováváme operativní leasing vozidel od všech značek a leasingový
 - Contact Email: info@driveto.cz
 - Contact Phone: +420790285631
 - Address: Jankovcova 1569/2c, Holešovice, 170 00 Praha 7
-- Updated At: 2025-12-01T10:25:46.822Z
+- Updated At: 2025-12-03T00:02:13.722Z
 
 ## Naše služby
 
@@ -384,6 +384,114 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757411770717)
     Availability: Available
     Price: 14 795,00 Kč CZK
+- [Škoda Superb IV Selection 1.5 TSI m-HEV 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka): Nová čtvrtá generace Superbu byla představena světu počátkem roku 2024. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design je moderní a líbivý. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde velmi pohodlná přední sedadla a pozici za volantem není co vytknout. Jedná se o opravdu velmi příjemné místo, kde budete rádi trávit čas. Pod kapotou se nachází benzínový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velice pohodlný.
+  Updated: 2025-12-01T20:43:47Z
+  Vendor: Driveto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_c8f07a32-7723-47d6-8044-d247f307089d.webp?v=1761572219
+  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757413376349)
+    Availability: Available
+    Price: 9 860,00 Kč CZK
+  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757413474653)
+    Availability: Available
+    Price: 10 428,00 Kč CZK
+  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757413540189)
+    Availability: Available
+    Price: 11 404,00 Kč CZK
+  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757413605725)
+    Availability: Available
+    Price: 12 230,00 Kč CZK
+  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62764120375645)
+    Availability: Available
+    Price: 13 077,00 Kč CZK
+  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62764120408413)
+    Availability: Available
+    Price: 13 996,00 Kč CZK
+  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62764120441181)
+    Availability: Available
+    Price: 15 315,00 Kč CZK
+  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62764120473949)
+    Availability: Available
+    Price: 15 921,00 Kč CZK
+  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62764120506717)
+    Availability: Available
+    Price: 16 494,00 Kč CZK
+  - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62764120539485)
+    Availability: Available
+    Price: 17 622,00 Kč CZK
+- [Škoda Superb IV Selection 2.0 TDi 110kW Nafta Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka): Zcela nová čtvrtá generace Superbu byla představena světu počátkem roku 2024. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design je moderní a líbivý. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde velmi pohodlná přední sedadla a pozici za volantem není co vytknout. Jedná se o opravdu velmi příjemné místo, kde budete rádi trávit čas. O pohon vozu se stará osvědčený dieselový motor, který byl decentně přepracován. Poskytuje výkon 110 kW a je spojen s automatickou převodovkou DSG. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
+  Updated: 2025-12-01T20:43:10Z
+  Vendor: Driveto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_f389db78-f4be-491e-8e73-587c61d803fd.webp?v=1761572300
+  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757418258781)
+    Availability: Available
+    Price: 10 185,00 Kč CZK
+  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757418291549)
+    Availability: Available
+    Price: 10 769,00 Kč CZK
+  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757418389853)
+    Availability: Available
+    Price: 11 898,00 Kč CZK
+  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=57757418422621)
+    Availability: Available
+    Price: 12 797,00 Kč CZK
+  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=62764127125853)
+    Availability: Available
+    Price: 13 819,00 Kč CZK
+  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=62764127158621)
+    Availability: Available
+    Price: 14 616,00 Kč CZK
+  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=62764127191389)
+    Availability: Available
+    Price: 16 093,00 Kč CZK
+  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=62764127224157)
+    Availability: Available
+    Price: 16 750,00 Kč CZK
+  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=62764127256925)
+    Availability: Available
+    Price: 17 441,00 Kč CZK
+  - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka?variant=62764127289693)
+    Availability: Available
+    Price: 18 522,00 Kč CZK
+- [Škoda Superb IV Sportline 1.5 TSI m-HEV 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka): Čtvrtá generace Superbu byla představena světu na jaře roku 2024. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Tento kousek je ve sportovně střižené výbavě Sportline, která vypadá jednoduše skvěle. Design je navíc moderní a nadčasový. Interiér se dočkal značného přepracování, skvěle kombinuje moderní styl s intuitivním ovládáním. Sportovní přední sedadla jsou jak pohodlná, tak velice užitečná při svižnější jízdě v zatáčkách, kde perfektně drží tělo. Pozice za volantem je bezchybná, což vytváří příjemné prostředí, kde budete rádi trávit čas. Pod kapotou pracuje benzínový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Celkově se jedná o všestranného parťáka s pořádným kufrem, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
+  Updated: 2025-12-01T20:30:30Z
+  Vendor: Driveto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSportlinefoto1_4e33e123-2baf-4eb8-83b3-64c0e8a5ff18.webp?v=1761572353
+  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757422453085)
+    Availability: Available
+    Price: 11 083,00 Kč CZK
+  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757422551389)
+    Availability: Available
+    Price: 11 700,00 Kč CZK
+  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757422584157)
+    Availability: Available
+    Price: 12 788,00 Kč CZK
+  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=57757422682461)
+    Availability: Available
+    Price: 13 720,00 Kč CZK
+  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62764143935837)
+    Availability: Available
+    Price: 14 666,00 Kč CZK
+  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62764143968605)
+    Availability: Available
+    Price: 15 680,00 Kč CZK
+  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62764144001373)
+    Availability: Available
+    Price: 17 127,00 Kč CZK
+  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62764144034141)
+    Availability: Available
+    Price: 17 785,00 Kč CZK
+  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62764144066909)
+    Availability: Available
+    Price: 18 391,00 Kč CZK
+  - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka?variant=62764144099677)
+    Availability: Available
+    Price: 19 644,00 Kč CZK
 - [Škoda Superb IV Sportline 2.0TDi 142kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka): Čtvrtá generace Superbu byla světu představena na jaře roku 2024. Inovací se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Tento kousek je ve sportovně střižené výbavě Sportline, která vypadá velmi atraktivně. Design je navíc moderní a nadčasový. Interiér se dočkal značného přepracování, skvěle kombinuje moderní styl s intuitivním ovládáním. Sportovní přední sedadla jsou jak pohodlná, tak velice užitečná při svižnější jízdě v zatáčkách, kde perfektně drží tělo. Pozice za volantem je bezchybná, což vytváří příjemné prostředí, kde budete rádi trávit čas. O pohon vozu se stará osvědčený naftový motor, který byl decentně přepracován. Poskytuje výkon 142 kW a je spojen s automatickou převodovkou DSG. Nechybí ani pohon všech kol, který oceníte především v zimě. Celkově se tedy jedná o všestranného parťáka s pořádným kufrem, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
   Updated: 2025-10-29T18:42:45Z
   Vendor: Driveto
@@ -692,6 +800,236 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka?variant=62737039917405)
     Availability: Available
     Price: 18 785,00 Kč CZK
+- [Škoda Superb IV Selection 2.0 TDi 110 kW Nafta Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2): Zcela nová čtvrtá generace Superbu byla představena světu na jaře roku 2024, karosářská verze liftback byla představena o několik měsíců později. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design je moderní a líbivý. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde velice pohodlná přední sedadla a pozici za volantem není co vytknout. Jedná se o opravdu velmi příjemné místo, kde budete rádi trávit čas. O pohon vozu se stará osvědčený dieselový motor, který byl decentně přepracován. Poskytuje výkon 110 kW a je spojen s automatickou převodovkou DSG. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
+  Updated: 2025-12-01T20:41:31Z
+  Vendor: Driveto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_89268548-4c09-4b63-ba9a-873ba321fe56.webp?v=1761573253
+  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757463282013)
+    Availability: Available
+    Price: 9 948,00 Kč CZK
+  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757463347549)
+    Availability: Available
+    Price: 10 518,00 Kč CZK
+  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757463380317)
+    Availability: Available
+    Price: 11 616,00 Kč CZK
+  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757463445853)
+    Availability: Available
+    Price: 12 487,00 Kč CZK
+  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=62764329632093)
+    Availability: Available
+    Price: 13 459,00 Kč CZK
+  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=62764329664861)
+    Availability: Available
+    Price: 14 254,00 Kč CZK
+  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=62764329697629)
+    Availability: Available
+    Price: 15 696,00 Kč CZK
+  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=62764329730397)
+    Availability: Available
+    Price: 16 338,00 Kč CZK
+  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=62764329763165)
+    Availability: Available
+    Price: 17 020,00 Kč CZK
+  - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=62764329795933)
+    Availability: Available
+    Price: 18 070,00 Kč CZK
+- [Škoda Superb IV Selection 1.5 TSI m-HEV 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2): Zcela nová čtvrtá generace Superbu byla představena světu na jaře roku 2024, karosářská verze liftback byla představena o několik měsíců později. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design je moderní a líbivý. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde velice pohodlná přední sedadla a pozici za volantem není co vytknout. Jedná se o opravdu velmi příjemné místo, kde budete rádi trávit čas. Pod kapotou se nachází benzínový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
+  Updated: 2025-12-01T20:42:27Z
+  Vendor: Driveto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_63883139-6050-4436-86f1-81a83f9f51d6.webp?v=1761573281
+  - [10000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764209406301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto6.webp?v=1764619692
+    Price: 7 475,00 Kč CZK
+  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757465477469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_63883139-6050-4436-86f1-81a83f9f51d6.webp?v=1761573281
+    Price: 8 391,00 Kč CZK
+  - [15000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764209439069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto6.webp?v=1764619692
+    Price: 8 436,00 Kč CZK
+  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757465543005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_63883139-6050-4436-86f1-81a83f9f51d6.webp?v=1761573281
+    Price: 8 944,00 Kč CZK
+  - [20000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764209471837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto6.webp?v=1764619692
+    Price: 9 366,00 Kč CZK
+  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757465641309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_63883139-6050-4436-86f1-81a83f9f51d6.webp?v=1761573281
+    Price: 9 891,00 Kč CZK
+  - [25000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764209504605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto6.webp?v=1764619692
+    Price: 10 147,00 Kč CZK
+  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757465706845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_63883139-6050-4436-86f1-81a83f9f51d6.webp?v=1761573281
+    Price: 10 688,00 Kč CZK
+  - [30000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764209537373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto6.webp?v=1764619692
+    Price: 10 953,00 Kč CZK
+  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764209570141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_63883139-6050-4436-86f1-81a83f9f51d6.webp?v=1761573281
+    Price: 11 510,00 Kč CZK
+  - [35000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764209602909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto6.webp?v=1764619692
+    Price: 11 831,00 Kč CZK
+  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764209635677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_63883139-6050-4436-86f1-81a83f9f51d6.webp?v=1761573281
+    Price: 12 401,00 Kč CZK
+  - [40000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764209668445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto6.webp?v=1764619692
+    Price: 13 097,00 Kč CZK
+  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764209701213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_63883139-6050-4436-86f1-81a83f9f51d6.webp?v=1761573281
+    Price: 13 687,00 Kč CZK
+  - [45000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764209733981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto6.webp?v=1764619692
+    Price: 13 681,00 Kč CZK
+  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764209766749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_63883139-6050-4436-86f1-81a83f9f51d6.webp?v=1761573281
+    Price: 14 278,00 Kč CZK
+  - [50000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764209799517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto6.webp?v=1764619692
+    Price: 14 239,00 Kč CZK
+  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764209832285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_63883139-6050-4436-86f1-81a83f9f51d6.webp?v=1761573281
+    Price: 14 841,00 Kč CZK
+  - [55000 km / 36 měsíců / Modrá Energy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764209865053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto6.webp?v=1764619692
+    Price: 15 318,00 Kč CZK
+  - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764209897821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSelectionfoto1_63883139-6050-4436-86f1-81a83f9f51d6.webp?v=1761573281
+    Price: 15 939,00 Kč CZK
+- [Škoda Superb IV L&K 1.5 TSI m-HEV 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2): Zcela nová čtvrtá generace Superbu byla představena světu na jaře roku 2024, karosářská verze liftback byla představena o několik měsíců později. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Tento kousek je ve vrcholném provedení Laurin & Klement, které evokuje až prémiovou atmosféru. Design je moderní a líbivý. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde velice pohodlná přední sedadla a pozici za volantem není co vytknout. Jedná se o opravdu velmi příjemné místo, kde budete rádi trávit čas. O pohon vozu se stará benzínový čtyřválcový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
+  Updated: 2025-12-01T19:57:02Z
+  Vendor: Driveto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVL_Kfoto1_54549cf5-1146-4b37-bbf9-053d24055b58.webp?v=1761573308
+  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757468328285)
+    Availability: Available
+    Price: 10 056,00 Kč CZK
+  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757468393821)
+    Availability: Available
+    Price: 10 682,00 Kč CZK
+  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757468459357)
+    Availability: Available
+    Price: 11 768,00 Kč CZK
+  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757468524893)
+    Availability: Available
+    Price: 12 698,00 Kč CZK
+  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764178735453)
+    Availability: Available
+    Price: 13 633,00 Kč CZK
+  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764178768221)
+    Availability: Available
+    Price: 14 665,00 Kč CZK
+  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764178800989)
+    Availability: Available
+    Price: 16 099,00 Kč CZK
+  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764178833757)
+    Availability: Available
+    Price: 16 767,00 Kč CZK
+  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764178866525)
+    Availability: Available
+    Price: 17 378,00 Kč CZK
+  - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764178899293)
+    Availability: Available
+    Price: 18 616,00 Kč CZK
+- [Škoda Superb IV Sportline 1.5 TSI m-HEV 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2): Zcela nová čtvrtá generace Superbu byla představena světu na jaře roku 2024, karosářská verze liftback byla představena o několik měsíců později. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Tento kousek je ve sportovně střižené výbavě Sportline, která vypadá jednoduše skvěle. Design je navíc moderní a nadčasový. Interiér se dočkal značného přepracování, skvěle kombinuje moderní styl s intuitivním ovládáním. Sportovní přední sedadla jsou jak pohodlná, tak velice užitečná při svižnější jízdě v zatáčkách, kde perfektně drží tělo. Pod kapotou pracuje benzínový čtyřválcový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
+  Updated: 2025-12-02T12:14:21Z
+  Vendor: Driveto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSportlinefoto1_c5335355-a3c1-4d5e-b34a-952bc370e010.webp?v=1761573332
+  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764290376029)
+    Availability: Available
+    Price: 9 365,00 Kč CZK
+  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757469213021)
+    Availability: Available
+    Price: 9 967,00 Kč CZK
+  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757469245789)
+    Availability: Available
+    Price: 11 006,00 Kč CZK
+  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=57757469344093)
+    Availability: Available
+    Price: 11 892,00 Kč CZK
+  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764255707485)
+    Availability: Available
+    Price: 12 788,00 Kč CZK
+  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764255740253)
+    Availability: Available
+    Price: 13 774,00 Kč CZK
+  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764255773021)
+    Availability: Available
+    Price: 15 158,00 Kč CZK
+  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764255805789)
+    Availability: Available
+    Price: 15 801,00 Kč CZK
+  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764255838557)
+    Availability: Available
+    Price: 16 396,00 Kč CZK
+  - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-1-5-tsi-m-hev-110kw-natural-95-automaticka-prevodovka-2?variant=62764255871325)
+    Availability: Available
+    Price: 17 586,00 Kč CZK
+- [Škoda Superb IV Sportline 2.0 TDi 110 kW Nafta Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2): Zcela nová čtvrtá generace Superbu byla představena světu na jaře roku 2024, karosářská verze liftback byla představena o několik měsíců později. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Tento kousek je ve sportovně střižené výbavě Sportline, která vypadá jednoduše skvěle. Design je navíc moderní a nadčasový. Interiér se dočkal značného přepracování, skvěle kombinuje moderní styl s intuitivním ovládáním. Sportovní přední sedadla jsou jak pohodlná, tak velice užitečná při svižnější jízdě v zatáčkách, kde perfektně drží tělo. Pozice za volantem je bezchybná, což vytváří příjemné prostředí, kde budete rádi trávit čas. Pod kapotou se nachází osvědčený dieselový motor, který byl decentně přepracován. Poskytuje výkon 110 kW a je spojen s automatickou převodovkou DSG. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
+  Updated: 2025-12-01T20:33:06Z
+  Vendor: Driveto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSportlinefoto1_e6f6855e-f1a1-4988-b77e-4c48d3ae9185.webp?v=1761573351
+  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757471244637)
+    Availability: Available
+    Price: 11 012,00 Kč CZK
+  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757471310173)
+    Availability: Available
+    Price: 11 631,00 Kč CZK
+  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757471375709)
+    Availability: Available
+    Price: 12 820,00 Kč CZK
+  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=57757471441245)
+    Availability: Available
+    Price: 13 779,00 Kč CZK
+  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=62764297945437)
+    Availability: Available
+    Price: 14 852,00 Kč CZK
+  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=62764297978205)
+    Availability: Available
+    Price: 15 717,00 Kč CZK
+  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=62764298010973)
+    Availability: Available
+    Price: 17 257,00 Kč CZK
+  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=62764298043741)
+    Availability: Available
+    Price: 17 951,00 Kč CZK
+  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=62764298076509)
+    Availability: Available
+    Price: 18 665,00 Kč CZK
+  - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-superb-iv-sportline-2-0-tdi-110-kw-110kw-nafta-automaticka-prevodovka-2?variant=62764298109277)
+    Availability: Available
+    Price: 19 807,00 Kč CZK
 - [Audi Q8 S line 3.0 TDi Quattro 210 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3): Audi Q8 přináší kombinaci elegance a sportovně střiženého vzhledu v rámci prémiového SUV. Proti lehce prostornější Q7 neposkytuje takovou míru praktičnosti, ale její styl a šarm to vyvažují. A nebojte - prostoru je zde stále dost. Navzdory svým rozměrům si stále zachovává výborné jízdní vlastnosti v zatáčkách, v městském provozu i v terénu. Díky vzduchovému podvozku a pohonu všech kol quattro se nemusíte obávat, že byste si netroufli do lehčího terénu. Vzduchový podvozek dodává pohodlí, ale zároveň však umožňuje úpravu světlé výšky dle aktuální potřeby. Spotřeba paliva se pohybuje kolem přijatelných 8 litrů v kombinovaném režimu. Pod kapotou Q8 najdeme silný naftový motor s výkonem 210 kW, který poskytuje vynikající dynamiku. Výbava vozu je opravdu bohatá, což dokazuje dlouhý výčet položek v nabídce. Tento konkrétní kousek navíc disponuje i panoramatickou střechou, tažným zařízením, LED Matrix světlomety, Bang & Olufsen ozvučením a mnoha dalšími pakety. Celková cena přesahuje 2,7 milionu.
   Updated: 2025-12-01T08:56:13Z
   Vendor: Driveto
@@ -788,6 +1126,42 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
     Price: 28 400,00 Kč CZK
+- [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3): Škoda Octavia se za dobu jejího působí stala úplnou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s automatickou převodovkou DSG. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky 7 rychlostnímu automatu zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná. Tento vůz navíc disponuje i mild-hybridní technologií, která po městě snižuje spotřebu paliva.
+  Updated: 2025-12-01T19:38:26Z
+  Vendor: Driveto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaOctaviaSelection1.5foto1_5b11d574-26c7-4769-be77-8c10798ecf04.webp?v=1761574302
+  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=57757484646749)
+    Availability: Available
+    Price: 6 092,00 Kč CZK
+  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=57757484745053)
+    Availability: Available
+    Price: 6 534,00 Kč CZK
+  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=57757484810589)
+    Availability: Available
+    Price: 7 246,00 Kč CZK
+  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=57757484876125)
+    Availability: Available
+    Price: 7 852,00 Kč CZK
+  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=62764104581469)
+    Availability: Available
+    Price: 8 540,00 Kč CZK
+  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=62764104614237)
+    Availability: Available
+    Price: 9 088,00 Kč CZK
+  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=62764104647005)
+    Availability: Available
+    Price: 10 100,00 Kč CZK
+  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=62764104679773)
+    Availability: Available
+    Price: 10 583,00 Kč CZK
+  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=62764104712541)
+    Availability: Available
+    Price: 11 038,00 Kč CZK
+  - [55000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3?variant=62764104745309)
+    Availability: Available
+    Price: 11 852,00 Kč CZK
 - [Škoda Octavia RS 2.0 TSI 195 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-rs-2-0-tsi-195kw-natural-95-automaticka-prevodovka-2): Nová Octavia RS nabízí sportovní zážitek, který si však zachovává praktičnost rodinného vozu. S výkonem 195 kW (265 koní) se jedná o nejsilnější verzi v historii modelu. Tento sportovně pojatý liftback dokáže ohromit vynikající dynamikou a schopnostmi v zatáčkách. Z 0 na 100 km/h zrychlí za pouhých 6,4 sekundy a jeho maximální rychlost dosahuje 250 km/h. Nechybí zde ani elektronický samosvorný diferenciál VAQ, který zajišťuje perfektní přenos výkonu na vozovku a minimalizuje nedotáčivost, čímž vylepšuje chování vozu v zatáčkách. Díky tomu se Octavia RS skvěle ovládá a je radost s ní jezdit. Interiér je vybaven sportovními sedadly, která drží tělo pevně na místě i při ostřejší jízdě. Celkově se jedná o vůz, který skvěle kombinuje sportovní vlastnosti s každodenní využitelností, což z něj dělá ideální volbu pro ty, kteří hledají rychlost a praktičnost v jednom balení.
   Updated: 2025-11-27T15:49:01Z
   Vendor: Driveto
@@ -861,7 +1235,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 11 705,00 Kč CZK
 - [Škoda Karoq Top Selection 1.5 TSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-karoq-top-selection-1-5-tsi-110kw-natural-95-automaticka-prevodovka): Tento Karoq nedávno prošel modernizací. Jde o velmi populární středně velké SUV, které omlazením získalo ještě atraktivnější design. Interiér je prostorný a útulný, s výborně promyšleným uspořádáním ovládacích prvků, díky čemuž se v Karoqu rychle zorientujete. Z vozu je skvělý výhled a potěší také bohatá výbava a dostatek odkládacích prostorů. Zavazadlový prostor nabízí kapacitu 521 litrů, což je velmi slušné. Díky kompaktním rozměrům je jízda po městě snadná, a parkování je usnadněno kamerou a parkovacími senzory. Podvozek je laděn spíše pohodlně než sportovně, což přispívá k příjemné jízdě. Pod kapotou se nachází výkonný benzínový motor 1,5 TSI, spojený s automatickou převodovkou DSG. Tato kombinace zajišťuje, že vůz je ideální jak pro městský provoz, tak pro delší cesty. Při klidné jízdě se kombinovaná spotřeba pohybuje kolem 6 - 7 litrů. Škoda Karoq je ideální volbou pro ty, kteří hledají spolehlivý vůz s intuitivním ovládáním, líbivým exteriérem, dostatkem vnitřního prostoru a kompaktními rozměry.
-  Updated: 2025-11-11T13:43:02Z
+  Updated: 2025-12-01T10:59:59Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -3196,7 +3570,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto8.webp?v=1761742207
     Price: 25 880,00 Kč CZK
 - [Cupra Formentor 1.5 eTSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/cupra-formentor-1-5-etsi-110-kw-natural-95-automaticka-prevodovka): Cupra Formentor je prvním samostatným modelem značky Cupra. Jedná se o mimořádně oblíbené SUV s jedinečným designem. Přední část působí agresivně, čemuž napomáhají zamračené světlomety a agresivně tvarovaný nárazník. Tento kousek je navíc po výraznější modernizaci, která poměrně výrazně dotkla exteriéru, ale změny nastaly i uvnitř. Interiér působí moderně a minimalisticky. Veliká dotyková obrazovka je nakloněná k řidiči, což je příjemné. O prostor vpředu není nouze, situace je o chlup horší vzadu, kde je to o něco stísněnější, ale i tak se tam 185 cm vysoký člověk pohodlně vejde. Čtyři takové pasažéry Formentor pojme bez problému. Kufr pojme 450 litrů nákladu. Jízda je pohodlná, svižná a se základním benzinovým motorem i úsporná. O pohon vozu se stará benzínový čtyřválec, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka DSG, díky které se jedná o vynikající volbu na každý den.
-  Updated: 2025-12-01T08:26:02Z
+  Updated: 2025-12-01T10:59:35Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -3404,19 +3778,19 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
 ## Collections
 
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/operativni-leasing): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-12-01T08:23:15Z
-  Total Products: 170
+  Updated: 2025-12-02T12:36:36Z
+  Total Products: 187
 - [Operativní leasing Škoda | Driveto.cz](https://www.driveto.cz/collections/skoda): Operativní leasing Škoda pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-30T12:26:25Z
-  Total Products: 57
+  Updated: 2025-12-02T12:26:32Z
+  Total Products: 72
 - [Elektromobily na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/elektromobily): Elektromobily na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-29T17:07:42Z
+  Updated: 2025-12-01T12:30:06Z
   Total Products: 12
 - [Skladové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/skladove-vozy): Skladové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-30T12:26:25Z
-  Total Products: 173
+  Updated: 2025-12-02T12:26:32Z
+  Total Products: 181
 - [Operativní leasing Tesla | Driveto.cz](https://www.driveto.cz/collections/tesla): Operativní leasing Tesla pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-20T12:21:52Z
+  Updated: 2025-12-01T12:30:06Z
   Total Products: 2
 - [Operativní leasing Alfa Romeo | Driveto.cz](https://www.driveto.cz/collections/alfa-romeo): Operativní leasing Alfa Romeo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-06T15:33:05Z
@@ -3425,7 +3799,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-21T12:22:22Z
   Total Products: 2
 - [Operativní leasing BMW | Driveto.cz](https://www.driveto.cz/collections/bmw): Operativní leasing BMW pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-29T17:06:49Z
+  Updated: 2025-12-02T12:26:32Z
   Total Products: 12
 - [Operativní leasing Mini | Driveto.cz](https://www.driveto.cz/collections/mini): Operativní leasing Mini pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-27T12:08:11Z
@@ -3437,10 +3811,10 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-10-17T09:02:46Z
   Total Products: 0
 - [Operativní leasing Cupra | Driveto.cz](https://www.driveto.cz/collections/cupra): Operativní leasing Cupra pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-30T12:26:25Z
+  Updated: 2025-12-02T12:26:32Z
   Total Products: 13
 - [Operativní leasing Nissan | Driveto.cz](https://www.driveto.cz/collections/nissan): Operativní leasing Nissan pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-29T13:06:59Z
+  Updated: 2025-12-02T12:26:32Z
   Total Products: 6
 - [Operativní leasing Citroën | Driveto.cz](https://www.driveto.cz/collections/citroen): Operativní leasing Citroën pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-01T08:36:13Z
@@ -3449,62 +3823,62 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-27T14:54:10Z
   Total Products: 0
 - [Operativní leasing Toyota | Driveto.cz](https://www.driveto.cz/collections/toyota): Operativní leasing Toyota pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-30T12:26:25Z
+  Updated: 2025-12-02T12:26:31Z
   Total Products: 3
 - [Operativní leasing Volvo | Driveto.cz](https://www.driveto.cz/collections/volvo): Operativní leasing Volvo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-01T08:23:15Z
-  Total Products: 11
+  Updated: 2025-12-02T10:09:05Z
+  Total Products: 12
 - [Operativní leasing Audi | Driveto.cz](https://www.driveto.cz/collections/audi): Operativní leasing Audi pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-30T12:26:25Z
+  Updated: 2025-12-02T12:26:32Z
   Total Products: 14
 - [Operativní leasing Peugeot | Driveto.cz](https://www.driveto.cz/collections/peugeot): Operativní leasing Peugeot pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-23T12:19:40Z
+  Updated: 2025-12-02T12:26:32Z
   Total Products: 3
 - [Operativní leasing Hyundai | Driveto.cz](https://www.driveto.cz/collections/hyundai): Operativní leasing Hyundai pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-30T12:26:25Z
+  Updated: 2025-12-02T12:26:32Z
   Total Products: 4
 - [Operativní leasing Kia | Driveto.cz](https://www.driveto.cz/collections/kia): Operativní leasing Kia pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-29T13:06:43Z
+  Updated: 2025-12-02T12:26:32Z
   Total Products: 3
 - [Operativní leasing Volkswagen | Driveto.cz](https://www.driveto.cz/collections/volkswagen): Operativní leasing Volkswagen pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-29T13:07:21Z
+  Updated: 2025-12-02T12:26:32Z
   Total Products: 23
 - [Akční nabídky na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/akcni-nabidky): Akční nabídky na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-01T08:23:15Z
-  Total Products: 29
+  Updated: 2025-12-02T12:26:32Z
+  Total Products: 31
 - [Operativní leasing Renault | Driveto.cz](https://www.driveto.cz/collections/renault): Operativní leasing Renault pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-27T16:13:30Z
+  Updated: 2025-12-02T12:26:32Z
   Total Products: 5
 - [Užitkové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/uzitkove-vozy): Užitkové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-29T13:07:17Z
   Total Products: 8
 - [Osobní vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/osobni-vozy): Osobní vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-01T08:23:15Z
-  Total Products: 172
+  Updated: 2025-12-02T12:26:32Z
+  Total Products: 189
 - [Plug-in vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/plug-in): Plug-in vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-30T12:26:25Z
+  Updated: 2025-12-02T12:26:31Z
   Total Products: 11
 - [Mild hybridy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/mild-hybrid): Mild hybridy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-27T12:26:05Z
   Total Products: 4
 - [Operativní leasing se zimními pneumatikami | Driveto.cz](https://www.driveto.cz/collections/vcetne-zimnich-pneumatik): Operativní leasing se zimními pneumatikami pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-29T13:07:30Z
+  Updated: 2025-12-01T12:30:06Z
   Total Products: 4
 - [Operativní leasing Maxus | Driveto.cz](https://www.driveto.cz/collections/maxus): Operativní leasing Maxus pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-12T11:50:31Z
   Total Products: 0
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/all): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-12-01T08:23:15Z
-  Total Products: 170
+  Updated: 2025-12-02T12:26:32Z
+  Total Products: 187
 - [Operativní leasing Opel | Driveto.cz](https://www.driveto.cz/collections/opel): Operativní leasing Opel pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-30T12:26:25Z
-  Total Products: 3
+  Updated: 2025-12-02T12:26:31Z
+  Total Products: 4
 - [BLACK FRIDAY | Driveto.cz](https://www.driveto.cz/collections/black-friday): Využijte Black Friday na Driveto. Operativní leasing na auta skladem nebo s rychlou dostupností. Nejlepší nabídky roku bez starostí a jednoduše online.
   Updated: 2025-12-01T08:32:13Z
   Total Products: 0
 - [Vánoční nadílka bez čekání](https://www.driveto.cz/collections/vanoce): Naše Vánoční nadílka bez čekání přináší vozy skladem a za skvělé ceny. Žádné dlouhé čekací lhůty a žádné složité podmínky - prostě si vyberte, podepíšete smlouvu a jezdíte.
-  Updated: 2025-12-01T09:58:02Z
-  Total Products: 24
+  Updated: 2025-12-02T12:26:32Z
+  Total Products: 25
 
 ## Blogs
 
