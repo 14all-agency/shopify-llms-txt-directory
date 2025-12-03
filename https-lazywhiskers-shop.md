@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-07-12T12:43:54Z
 - Contact Email: lazywhiskers.store@gmail.com
-- Updated At: 2025-12-01T00:00:28.299Z
+- Updated At: 2025-12-03T00:00:33.715Z
 
 ## Products
 
@@ -1415,7 +1415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/6247031c-02c1-4d84-b0af-655d5ea28545.webp?v=1757586176
     Price: €24.99 EUR
 - [Certified Grinch Mate Hoodie – Sarcastic Christmas Hoodie](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie): Officially not in the holiday mood. The Certified Grinch Mate Hoodie features a smug festive cat and peak anti-Christmas energy. LazyWhiskers original.
-  Updated: 2025-11-26T05:01:00Z
+  Updated: 2025-12-01T12:51:14Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1423,85 +1423,85 @@
   - [Sand / S](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557177212)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/cd833ac3-f1ac-41f8-b011-1ad3832a9a3e.webp?v=1762267808
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Sand / M](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557209980)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/cd833ac3-f1ac-41f8-b011-1ad3832a9a3e.webp?v=1762267808
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Sand / L](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557242748)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/cd833ac3-f1ac-41f8-b011-1ad3832a9a3e.webp?v=1762267808
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Sand / XL](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557275516)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/cd833ac3-f1ac-41f8-b011-1ad3832a9a3e.webp?v=1762267808
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Sand / 2XL](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557308284)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/cd833ac3-f1ac-41f8-b011-1ad3832a9a3e.webp?v=1762267808
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Military Green / S](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557341052)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/57896baf-1e9d-476a-bb6a-c4cd296ef2da.webp?v=1762267811
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Military Green / M](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557373820)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/57896baf-1e9d-476a-bb6a-c4cd296ef2da.webp?v=1762267811
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Military Green / L](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557406588)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/57896baf-1e9d-476a-bb6a-c4cd296ef2da.webp?v=1762267811
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Military Green / XL](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557439356)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/57896baf-1e9d-476a-bb6a-c4cd296ef2da.webp?v=1762267811
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Military Green / 2XL](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557472124)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/57896baf-1e9d-476a-bb6a-c4cd296ef2da.webp?v=1762267811
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Cherry Red / S](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557504892)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3bb4da62-462e-49ab-8d5b-402d3b3665b0.webp?v=1762267810
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Cherry Red / M](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557537660)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3bb4da62-462e-49ab-8d5b-402d3b3665b0.webp?v=1762267810
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Cherry Red / L](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557570428)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3bb4da62-462e-49ab-8d5b-402d3b3665b0.webp?v=1762267810
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Cherry Red / XL](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557603196)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3bb4da62-462e-49ab-8d5b-402d3b3665b0.webp?v=1762267810
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Cherry Red / 2XL](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557635964)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3bb4da62-462e-49ab-8d5b-402d3b3665b0.webp?v=1762267810
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557668732)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/cba52a23-443e-411b-b446-41854f83f869.webp?v=1762267809
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557701500)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/cba52a23-443e-411b-b446-41854f83f869.webp?v=1762267809
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557734268)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/cba52a23-443e-411b-b446-41854f83f869.webp?v=1762267809
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557767036)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/cba52a23-443e-411b-b446-41854f83f869.webp?v=1762267809
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/certified-grinch-mate-hoodie?variant=55940557799804)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/cba52a23-443e-411b-b446-41854f83f869.webp?v=1762267809
-    Price: €36.79 EUR
+    Price: €44.99 EUR
 - [Naughty By Choice Hoodie – Sarcastic Cat Christmas](https://lazywhiskers.shop/products/naughty-by-choice-hoodie): For the cat that chooses chaos. The Naughty By Choice Hoodie brings holiday sarcasm, cozy streetwear, and unapologetic attitude. Perfect for rule-breakers.
-  Updated: 2025-11-26T05:00:18Z
+  Updated: 2025-12-01T12:51:14Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1509,85 +1509,85 @@
   - [Maroon / S](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655415676)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9264d585-ec37-4a3c-8d46-a922b4949a45.webp?v=1762268444
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Maroon / M](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655448444)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9264d585-ec37-4a3c-8d46-a922b4949a45.webp?v=1762268444
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Maroon / L](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655481212)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9264d585-ec37-4a3c-8d46-a922b4949a45.webp?v=1762268444
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Maroon / XL](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655513980)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9264d585-ec37-4a3c-8d46-a922b4949a45.webp?v=1762268444
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Maroon / 2XL](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655546748)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9264d585-ec37-4a3c-8d46-a922b4949a45.webp?v=1762268444
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / S](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655579516)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fa8226f4-9d47-4d71-8066-6ba6b9a1178d.webp?v=1762268441
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / M](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655612284)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fa8226f4-9d47-4d71-8066-6ba6b9a1178d.webp?v=1762268441
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / L](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655645052)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fa8226f4-9d47-4d71-8066-6ba6b9a1178d.webp?v=1762268441
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / XL](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655677820)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fa8226f4-9d47-4d71-8066-6ba6b9a1178d.webp?v=1762268441
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / 2XL](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655710588)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fa8226f4-9d47-4d71-8066-6ba6b9a1178d.webp?v=1762268441
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / S](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655743356)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1d25f376-11d7-4272-96e9-6a6622a9d43e.webp?v=1762268442
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / M](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655776124)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1d25f376-11d7-4272-96e9-6a6622a9d43e.webp?v=1762268442
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / L](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655808892)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1d25f376-11d7-4272-96e9-6a6622a9d43e.webp?v=1762268442
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / XL](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655841660)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1d25f376-11d7-4272-96e9-6a6622a9d43e.webp?v=1762268442
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / 2XL](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655874428)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1d25f376-11d7-4272-96e9-6a6622a9d43e.webp?v=1762268442
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655907196)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3387b0ba-4aae-4553-86c5-cf96a392e895.webp?v=1762268443
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655939964)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3387b0ba-4aae-4553-86c5-cf96a392e895.webp?v=1762268443
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940655972732)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3387b0ba-4aae-4553-86c5-cf96a392e895.webp?v=1762268443
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940656005500)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3387b0ba-4aae-4553-86c5-cf96a392e895.webp?v=1762268443
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/naughty-by-choice-hoodie?variant=55940656038268)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3387b0ba-4aae-4553-86c5-cf96a392e895.webp?v=1762268443
-    Price: €36.79 EUR
+    Price: €44.99 EUR
 - [Not Delulu Just Grinch Hoodie – Sarcastic Christmas Cat](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie): For the ones who don’t fake holiday cheer. The Not Delulu,Just Grinch Hoodie brings cozy streetwear attitude,festive sarcasm. Perfect for anti-Christmas energy.
-  Updated: 2025-11-26T04:59:34Z
+  Updated: 2025-12-01T12:51:14Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1595,85 +1595,85 @@
   - [Maroon / S](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714168700)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/0f33e206-61ae-4cd8-ad49-f90c45d07ad9.webp?v=1762268988
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Maroon / M](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714201468)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/0f33e206-61ae-4cd8-ad49-f90c45d07ad9.webp?v=1762268988
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Maroon / L](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714234236)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/0f33e206-61ae-4cd8-ad49-f90c45d07ad9.webp?v=1762268988
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Maroon / XL](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714267004)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/0f33e206-61ae-4cd8-ad49-f90c45d07ad9.webp?v=1762268988
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Maroon / 2XL](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714299772)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/0f33e206-61ae-4cd8-ad49-f90c45d07ad9.webp?v=1762268988
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / S](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714332540)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/60fccd68-ee04-405e-b28e-0b981447df60.webp?v=1762268987
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / M](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714365308)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/60fccd68-ee04-405e-b28e-0b981447df60.webp?v=1762268987
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / L](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714398076)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/60fccd68-ee04-405e-b28e-0b981447df60.webp?v=1762268987
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / XL](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714430844)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/60fccd68-ee04-405e-b28e-0b981447df60.webp?v=1762268987
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / 2XL](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714463612)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/60fccd68-ee04-405e-b28e-0b981447df60.webp?v=1762268987
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / S](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714496380)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a3f87db4-eef0-4060-9b06-a776e2bc6c22.webp?v=1762268986
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / M](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714529148)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a3f87db4-eef0-4060-9b06-a776e2bc6c22.webp?v=1762268986
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / L](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714561916)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a3f87db4-eef0-4060-9b06-a776e2bc6c22.webp?v=1762268986
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / XL](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714594684)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a3f87db4-eef0-4060-9b06-a776e2bc6c22.webp?v=1762268986
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / 2XL](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714627452)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a3f87db4-eef0-4060-9b06-a776e2bc6c22.webp?v=1762268986
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714660220)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/88ef3eb6-b773-46a4-90bb-3637a72565f6.webp?v=1762268987
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714692988)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/88ef3eb6-b773-46a4-90bb-3637a72565f6.webp?v=1762268987
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714725756)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/88ef3eb6-b773-46a4-90bb-3637a72565f6.webp?v=1762268987
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714758524)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/88ef3eb6-b773-46a4-90bb-3637a72565f6.webp?v=1762268987
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/not-delulu-just-grinch-hoodie?variant=55940714791292)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/88ef3eb6-b773-46a4-90bb-3637a72565f6.webp?v=1762268987
-    Price: €36.79 EUR
+    Price: €44.99 EUR
 - [Santa Left Me On Read Hoodie – Sarcastic Christmas Cat](https://lazywhiskers.shop/products/santa-left-me-on-read-hoodie): For when even Santa can’t be bothered. The Santa Left Me On Read Hoodie serves festive sarcasm, cozy streetwear, and zero holiday enthusiasm.
-  Updated: 2025-11-26T04:58:37Z
+  Updated: 2025-12-01T12:51:14Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1681,65 +1681,65 @@
   - [Forest Green / S](https://lazywhiskers.shop/products/santa-left-me-on-read-hoodie?variant=55940780786044)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/dcf82d85-b158-4f7a-b52d-a29baae0689c.webp?v=1762269329
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / M](https://lazywhiskers.shop/products/santa-left-me-on-read-hoodie?variant=55940780818812)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/dcf82d85-b158-4f7a-b52d-a29baae0689c.webp?v=1762269329
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / L](https://lazywhiskers.shop/products/santa-left-me-on-read-hoodie?variant=55940780851580)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/dcf82d85-b158-4f7a-b52d-a29baae0689c.webp?v=1762269329
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / XL](https://lazywhiskers.shop/products/santa-left-me-on-read-hoodie?variant=55940780884348)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/dcf82d85-b158-4f7a-b52d-a29baae0689c.webp?v=1762269329
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / 2XL](https://lazywhiskers.shop/products/santa-left-me-on-read-hoodie?variant=55940780917116)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/dcf82d85-b158-4f7a-b52d-a29baae0689c.webp?v=1762269329
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / S](https://lazywhiskers.shop/products/santa-left-me-on-read-hoodie?variant=55940780949884)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/6a7246f1-20f9-4769-b61d-cec5e034235a.webp?v=1762269329
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / M](https://lazywhiskers.shop/products/santa-left-me-on-read-hoodie?variant=55940780982652)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/6a7246f1-20f9-4769-b61d-cec5e034235a.webp?v=1762269329
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / L](https://lazywhiskers.shop/products/santa-left-me-on-read-hoodie?variant=55940781015420)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/6a7246f1-20f9-4769-b61d-cec5e034235a.webp?v=1762269329
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / XL](https://lazywhiskers.shop/products/santa-left-me-on-read-hoodie?variant=55940781048188)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/6a7246f1-20f9-4769-b61d-cec5e034235a.webp?v=1762269329
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / 2XL](https://lazywhiskers.shop/products/santa-left-me-on-read-hoodie?variant=55940781080956)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/6a7246f1-20f9-4769-b61d-cec5e034235a.webp?v=1762269329
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/santa-left-me-on-read-hoodie?variant=55940781113724)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a0e28c54-ef66-4c0d-8216-803f869c753e.webp?v=1762269330
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/santa-left-me-on-read-hoodie?variant=55940781146492)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a0e28c54-ef66-4c0d-8216-803f869c753e.webp?v=1762269330
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/santa-left-me-on-read-hoodie?variant=55940781179260)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a0e28c54-ef66-4c0d-8216-803f869c753e.webp?v=1762269330
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/santa-left-me-on-read-hoodie?variant=55940781212028)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a0e28c54-ef66-4c0d-8216-803f869c753e.webp?v=1762269330
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/santa-left-me-on-read-hoodie?variant=55940781244796)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a0e28c54-ef66-4c0d-8216-803f869c753e.webp?v=1762269330
-    Price: €36.79 EUR
+    Price: €44.99 EUR
 - [Christmas Lights Are Talking Again Hoodie – Sarcastic Cat Christmas](https://lazywhiskers.shop/products/christmas-lights-are-talking-again-hoodie): When the decorations start plotting. The Christmas Lights Are Talking Again Hoodie mixes cozy streetwear with festive chaos and cat-level attitude.
-  Updated: 2025-11-26T04:57:53Z
+  Updated: 2025-12-01T12:51:12Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1747,45 +1747,45 @@
   - [Dark Chocolate / S](https://lazywhiskers.shop/products/christmas-lights-are-talking-again-hoodie?variant=55940819878268)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2bea734c-f04d-4f9c-86b3-3b99be7cffd4.webp?v=1762269579
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / M](https://lazywhiskers.shop/products/christmas-lights-are-talking-again-hoodie?variant=55940819911036)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2bea734c-f04d-4f9c-86b3-3b99be7cffd4.webp?v=1762269579
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / L](https://lazywhiskers.shop/products/christmas-lights-are-talking-again-hoodie?variant=55940819943804)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2bea734c-f04d-4f9c-86b3-3b99be7cffd4.webp?v=1762269579
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / XL](https://lazywhiskers.shop/products/christmas-lights-are-talking-again-hoodie?variant=55940819976572)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2bea734c-f04d-4f9c-86b3-3b99be7cffd4.webp?v=1762269579
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / 2XL](https://lazywhiskers.shop/products/christmas-lights-are-talking-again-hoodie?variant=55940820009340)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2bea734c-f04d-4f9c-86b3-3b99be7cffd4.webp?v=1762269579
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/christmas-lights-are-talking-again-hoodie?variant=55940820042108)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1a37304e-f4d8-4835-ae4c-6541d195563c.webp?v=1762269578
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/christmas-lights-are-talking-again-hoodie?variant=55940820074876)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1a37304e-f4d8-4835-ae4c-6541d195563c.webp?v=1762269578
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/christmas-lights-are-talking-again-hoodie?variant=55940820107644)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1a37304e-f4d8-4835-ae4c-6541d195563c.webp?v=1762269578
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/christmas-lights-are-talking-again-hoodie?variant=55940820140412)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1a37304e-f4d8-4835-ae4c-6541d195563c.webp?v=1762269578
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/christmas-lights-are-talking-again-hoodie?variant=55940820173180)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1a37304e-f4d8-4835-ae4c-6541d195563c.webp?v=1762269578
-    Price: €36.79 EUR
+    Price: €44.99 EUR
 - [Jingle Hell Hoodie – Sarcastic Christmas Cat](https://lazywhiskers.shop/products/jingle-hell-hoodie): Holiday chaos, but make it fashion.The Jingle Hell Hoodie features a sarcastic cat tangled in lights,perfect for anti-Christmas mood and cozy streetwear energy.
-  Updated: 2025-11-26T04:57:49Z
+  Updated: 2025-12-01T12:51:12Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1793,85 +1793,85 @@
   - [Garnet / S](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827414908)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/877dccae-1239-431e-a970-70c62499c30a.webp?v=1762269659
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Garnet / M](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827447676)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/877dccae-1239-431e-a970-70c62499c30a.webp?v=1762269659
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Garnet / L](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827480444)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/877dccae-1239-431e-a970-70c62499c30a.webp?v=1762269659
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Garnet / XL](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827513212)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/877dccae-1239-431e-a970-70c62499c30a.webp?v=1762269659
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Garnet / 2XL](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827545980)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/877dccae-1239-431e-a970-70c62499c30a.webp?v=1762269659
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / S](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827578748)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c0d64e06-121f-4979-bb3c-968796eb6322.webp?v=1762269662
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / M](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827611516)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c0d64e06-121f-4979-bb3c-968796eb6322.webp?v=1762269662
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / L](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827644284)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c0d64e06-121f-4979-bb3c-968796eb6322.webp?v=1762269662
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / XL](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827677052)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c0d64e06-121f-4979-bb3c-968796eb6322.webp?v=1762269662
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / 2XL](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827709820)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c0d64e06-121f-4979-bb3c-968796eb6322.webp?v=1762269662
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / S](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827742588)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c83a3d3a-df97-4839-bc0f-cac964fcf847.webp?v=1762269660
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / M](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827775356)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c83a3d3a-df97-4839-bc0f-cac964fcf847.webp?v=1762269660
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / L](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827808124)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c83a3d3a-df97-4839-bc0f-cac964fcf847.webp?v=1762269660
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / XL](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827840892)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c83a3d3a-df97-4839-bc0f-cac964fcf847.webp?v=1762269660
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / 2XL](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827873660)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c83a3d3a-df97-4839-bc0f-cac964fcf847.webp?v=1762269660
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827906428)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fd1d4bb6-092e-405b-922d-c1cbd6398074.webp?v=1762269661
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827939196)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fd1d4bb6-092e-405b-922d-c1cbd6398074.webp?v=1762269661
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940827971964)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fd1d4bb6-092e-405b-922d-c1cbd6398074.webp?v=1762269661
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940828004732)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fd1d4bb6-092e-405b-922d-c1cbd6398074.webp?v=1762269661
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/jingle-hell-hoodie?variant=55940828037500)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fd1d4bb6-092e-405b-922d-c1cbd6398074.webp?v=1762269661
-    Price: €36.79 EUR
+    Price: €44.99 EUR
 - [All I Want for Christmas Is a Nap Hoodie – Lazy Cat Xmas Hoodie](https://lazywhiskers.shop/products/all-i-want-for-christmas-is-a-nap-hoodie): For those over holiday chaos. The “All I Want for Christmas Is a Nap” Hoodie features a sleepy festive cat and cozy anti-Christmas energy. LazyWhiskers original
-  Updated: 2025-11-25T22:08:50Z
+  Updated: 2025-12-01T12:51:12Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1879,65 +1879,65 @@
   - [Dark Chocolate / S](https://lazywhiskers.shop/products/all-i-want-for-christmas-is-a-nap-hoodie?variant=55940849762684)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/dbd6bac3-8514-417c-b727-71ae8c5d96a2.webp?v=1764095557
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / M](https://lazywhiskers.shop/products/all-i-want-for-christmas-is-a-nap-hoodie?variant=55940849795452)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/dbd6bac3-8514-417c-b727-71ae8c5d96a2.webp?v=1764095557
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / L](https://lazywhiskers.shop/products/all-i-want-for-christmas-is-a-nap-hoodie?variant=55940849828220)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/dbd6bac3-8514-417c-b727-71ae8c5d96a2.webp?v=1764095557
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / XL](https://lazywhiskers.shop/products/all-i-want-for-christmas-is-a-nap-hoodie?variant=55940849860988)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/dbd6bac3-8514-417c-b727-71ae8c5d96a2.webp?v=1764095557
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / 2XL](https://lazywhiskers.shop/products/all-i-want-for-christmas-is-a-nap-hoodie?variant=55940849893756)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/dbd6bac3-8514-417c-b727-71ae8c5d96a2.webp?v=1764095557
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / S](https://lazywhiskers.shop/products/all-i-want-for-christmas-is-a-nap-hoodie?variant=55940849926524)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9836599c-d334-45d7-a326-d6ee7cf07e65.webp?v=1764095555
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / M](https://lazywhiskers.shop/products/all-i-want-for-christmas-is-a-nap-hoodie?variant=55940849959292)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9836599c-d334-45d7-a326-d6ee7cf07e65.webp?v=1764095555
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / L](https://lazywhiskers.shop/products/all-i-want-for-christmas-is-a-nap-hoodie?variant=55940849992060)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9836599c-d334-45d7-a326-d6ee7cf07e65.webp?v=1764095555
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / XL](https://lazywhiskers.shop/products/all-i-want-for-christmas-is-a-nap-hoodie?variant=55940850024828)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9836599c-d334-45d7-a326-d6ee7cf07e65.webp?v=1764095555
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / 2XL](https://lazywhiskers.shop/products/all-i-want-for-christmas-is-a-nap-hoodie?variant=55940850057596)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9836599c-d334-45d7-a326-d6ee7cf07e65.webp?v=1764095555
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/all-i-want-for-christmas-is-a-nap-hoodie?variant=55940850090364)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3cf747b8-5a24-4fa2-b392-001a16fafa08.webp?v=1764095548
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/all-i-want-for-christmas-is-a-nap-hoodie?variant=55940850123132)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3cf747b8-5a24-4fa2-b392-001a16fafa08.webp?v=1764095548
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/all-i-want-for-christmas-is-a-nap-hoodie?variant=55940850155900)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3cf747b8-5a24-4fa2-b392-001a16fafa08.webp?v=1764095548
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/all-i-want-for-christmas-is-a-nap-hoodie?variant=55940850188668)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3cf747b8-5a24-4fa2-b392-001a16fafa08.webp?v=1764095548
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/all-i-want-for-christmas-is-a-nap-hoodie?variant=55940850221436)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3cf747b8-5a24-4fa2-b392-001a16fafa08.webp?v=1764095548
-    Price: €36.79 EUR
+    Price: €44.99 EUR
 - [Loading CAT.exe Hoodie – Sarcastic Tech Christmas Cat](https://lazywhiskers.shop/products/loading-catexe-hoodie): System error:Christmas spirit not found. Cozy hoodie with glitch-cat graphic and holiday sarcasm. Perfect for tech lovers, cat people, and festive chaos energy.
-  Updated: 2025-11-26T04:56:07Z
+  Updated: 2025-12-01T12:51:12Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -1945,85 +1945,85 @@
   - [Forest Green / S](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940865753468)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f8d6eb2b-42af-4644-b181-25904f72bd8c.webp?v=1762269859
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / M](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940865786236)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f8d6eb2b-42af-4644-b181-25904f72bd8c.webp?v=1762269859
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / L](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940865819004)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f8d6eb2b-42af-4644-b181-25904f72bd8c.webp?v=1762269859
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / XL](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940865851772)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f8d6eb2b-42af-4644-b181-25904f72bd8c.webp?v=1762269859
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / 2XL](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940865884540)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f8d6eb2b-42af-4644-b181-25904f72bd8c.webp?v=1762269859
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / S](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940865917308)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/0e9c957a-5a37-44b5-8e40-e8420a2c5f6c.webp?v=1762269862
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / M](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940865950076)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/0e9c957a-5a37-44b5-8e40-e8420a2c5f6c.webp?v=1762269862
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / L](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940865982844)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/0e9c957a-5a37-44b5-8e40-e8420a2c5f6c.webp?v=1762269862
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / XL](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940866015612)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/0e9c957a-5a37-44b5-8e40-e8420a2c5f6c.webp?v=1762269862
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / 2XL](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940866048380)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/0e9c957a-5a37-44b5-8e40-e8420a2c5f6c.webp?v=1762269862
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / S](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940866081148)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/86dab5d1-c5f9-42c6-82f8-87a2e15ef272.webp?v=1762269861
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / M](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940866113916)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/86dab5d1-c5f9-42c6-82f8-87a2e15ef272.webp?v=1762269861
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / L](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940866146684)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/86dab5d1-c5f9-42c6-82f8-87a2e15ef272.webp?v=1762269861
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / XL](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940866179452)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/86dab5d1-c5f9-42c6-82f8-87a2e15ef272.webp?v=1762269861
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / 2XL](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940866212220)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/86dab5d1-c5f9-42c6-82f8-87a2e15ef272.webp?v=1762269861
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940866244988)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2f849a6b-b130-4c7e-93ca-81dd4e19f1bf.webp?v=1762269863
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940866277756)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2f849a6b-b130-4c7e-93ca-81dd4e19f1bf.webp?v=1762269863
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940866310524)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2f849a6b-b130-4c7e-93ca-81dd4e19f1bf.webp?v=1762269863
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940866343292)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2f849a6b-b130-4c7e-93ca-81dd4e19f1bf.webp?v=1762269863
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/loading-catexe-hoodie?variant=55940866376060)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2f849a6b-b130-4c7e-93ca-81dd4e19f1bf.webp?v=1762269863
-    Price: €36.79 EUR
+    Price: €44.99 EUR
 - [Merry Glithmas Hoodie – Sarcastic Cat Christmas Streetwear](https://lazywhiskers.shop/products/merry-glithmas-hoodie): Make Christmas a little glitchy. Cozy, bold, and sarcastic—perfect for cat lovers who prefer chaos over holiday cheer. Limited LazyWhiskers holiday drop.
-  Updated: 2025-11-26T04:55:20Z
+  Updated: 2025-12-01T12:51:11Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2031,65 +2031,65 @@
   - [Forest Green / S](https://lazywhiskers.shop/products/merry-glithmas-hoodie?variant=55940872143228)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3acd9c4a-26a2-4f54-bd98-d96e32ed93f6.webp?v=1762269907
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / M](https://lazywhiskers.shop/products/merry-glithmas-hoodie?variant=55940872175996)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3acd9c4a-26a2-4f54-bd98-d96e32ed93f6.webp?v=1762269907
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / L](https://lazywhiskers.shop/products/merry-glithmas-hoodie?variant=55940872208764)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3acd9c4a-26a2-4f54-bd98-d96e32ed93f6.webp?v=1762269907
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / XL](https://lazywhiskers.shop/products/merry-glithmas-hoodie?variant=55940872241532)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3acd9c4a-26a2-4f54-bd98-d96e32ed93f6.webp?v=1762269907
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / 2XL](https://lazywhiskers.shop/products/merry-glithmas-hoodie?variant=55940872274300)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/3acd9c4a-26a2-4f54-bd98-d96e32ed93f6.webp?v=1762269907
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / S](https://lazywhiskers.shop/products/merry-glithmas-hoodie?variant=55940872307068)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/6c414201-e6bd-4e5c-9039-242d7324d14d.webp?v=1762269909
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / M](https://lazywhiskers.shop/products/merry-glithmas-hoodie?variant=55940872339836)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/6c414201-e6bd-4e5c-9039-242d7324d14d.webp?v=1762269909
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / L](https://lazywhiskers.shop/products/merry-glithmas-hoodie?variant=55940872372604)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/6c414201-e6bd-4e5c-9039-242d7324d14d.webp?v=1762269909
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / XL](https://lazywhiskers.shop/products/merry-glithmas-hoodie?variant=55940872405372)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/6c414201-e6bd-4e5c-9039-242d7324d14d.webp?v=1762269909
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / 2XL](https://lazywhiskers.shop/products/merry-glithmas-hoodie?variant=55940872438140)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/6c414201-e6bd-4e5c-9039-242d7324d14d.webp?v=1762269909
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/merry-glithmas-hoodie?variant=55940872470908)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ec1209fc-d0db-4a5e-92e8-ae5949495647.webp?v=1762269908
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/merry-glithmas-hoodie?variant=55940872503676)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ec1209fc-d0db-4a5e-92e8-ae5949495647.webp?v=1762269908
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/merry-glithmas-hoodie?variant=55940872536444)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ec1209fc-d0db-4a5e-92e8-ae5949495647.webp?v=1762269908
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/merry-glithmas-hoodie?variant=55940872569212)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ec1209fc-d0db-4a5e-92e8-ae5949495647.webp?v=1762269908
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/merry-glithmas-hoodie?variant=55940872601980)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/ec1209fc-d0db-4a5e-92e8-ae5949495647.webp?v=1762269908
-    Price: €36.79 EUR
+    Price: €44.99 EUR
 - [Dear Santa Define Good Hoodie – Funny Christmas Cat Hoodie](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie): The “Dear Santa, Define Good” Hoodie is your official excuse for mischief this Christmas. Featuring a smug holiday cat with zero regrets. LazyWhiskers original.
-  Updated: 2025-11-26T04:54:34Z
+  Updated: 2025-12-01T12:51:11Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2097,105 +2097,105 @@
   - [Maroon / S](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877058428)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/30d1bce3-0253-4b80-8704-a6c071eedb3f.webp?v=1762269972
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Maroon / M](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877091196)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/30d1bce3-0253-4b80-8704-a6c071eedb3f.webp?v=1762269972
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Maroon / L](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877123964)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/30d1bce3-0253-4b80-8704-a6c071eedb3f.webp?v=1762269972
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Maroon / XL](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877156732)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/30d1bce3-0253-4b80-8704-a6c071eedb3f.webp?v=1762269972
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Maroon / 2XL](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877189500)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/30d1bce3-0253-4b80-8704-a6c071eedb3f.webp?v=1762269972
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / S](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877222268)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/577322ee-214e-4042-891d-6ade89d6d37b.webp?v=1762269974
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / M](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877255036)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/577322ee-214e-4042-891d-6ade89d6d37b.webp?v=1762269974
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / L](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877287804)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/577322ee-214e-4042-891d-6ade89d6d37b.webp?v=1762269974
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / XL](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877320572)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/577322ee-214e-4042-891d-6ade89d6d37b.webp?v=1762269974
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / 2XL](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877353340)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/577322ee-214e-4042-891d-6ade89d6d37b.webp?v=1762269974
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / S](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877386108)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/5ce54d0d-d5bf-414e-afa6-5d1a01d649a4.webp?v=1762269975
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / M](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877418876)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/5ce54d0d-d5bf-414e-afa6-5d1a01d649a4.webp?v=1762269975
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / L](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877451644)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/5ce54d0d-d5bf-414e-afa6-5d1a01d649a4.webp?v=1762269975
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / XL](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877484412)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/5ce54d0d-d5bf-414e-afa6-5d1a01d649a4.webp?v=1762269975
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / 2XL](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877517180)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/5ce54d0d-d5bf-414e-afa6-5d1a01d649a4.webp?v=1762269975
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / S](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877549948)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1fd23f55-dc07-4d98-a05c-c772318ddb6b.webp?v=1762269971
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / M](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877582716)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1fd23f55-dc07-4d98-a05c-c772318ddb6b.webp?v=1762269971
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / L](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877615484)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1fd23f55-dc07-4d98-a05c-c772318ddb6b.webp?v=1762269971
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / XL](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877648252)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1fd23f55-dc07-4d98-a05c-c772318ddb6b.webp?v=1762269971
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / 2XL](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877681020)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1fd23f55-dc07-4d98-a05c-c772318ddb6b.webp?v=1762269971
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877713788)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/0481f4d4-88af-461a-9d0f-cf1494c7dc40.webp?v=1762269973
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877746556)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/0481f4d4-88af-461a-9d0f-cf1494c7dc40.webp?v=1762269973
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877779324)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/0481f4d4-88af-461a-9d0f-cf1494c7dc40.webp?v=1762269973
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877812092)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/0481f4d4-88af-461a-9d0f-cf1494c7dc40.webp?v=1762269973
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/dear-santa-define-good-hoodie?variant=55940877844860)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/0481f4d4-88af-461a-9d0f-cf1494c7dc40.webp?v=1762269973
-    Price: €36.79 EUR
+    Price: €44.99 EUR
 - [Carols Are a Hate Crime Hoodie – Sarcastic Christmas Hoodie](https://lazywhiskers.shop/products/carols-are-a-hate-crime-hoodie): For the ones who can’t stand forced holiday cheer. The “Carols Are a Hate Crime” Hoodie delivers peak seasonal sarcasm, coziness included. LazyWhiskers original
-  Updated: 2025-11-25T22:10:56Z
+  Updated: 2025-12-01T12:51:11Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2203,65 +2203,65 @@
   - [Forest Green / S](https://lazywhiskers.shop/products/carols-are-a-hate-crime-hoodie?variant=55940881940860)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/da96e4fe-f08b-4755-a27c-e8d20fde2b0c.webp?v=1764064198
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / M](https://lazywhiskers.shop/products/carols-are-a-hate-crime-hoodie?variant=55940881973628)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/da96e4fe-f08b-4755-a27c-e8d20fde2b0c.webp?v=1764064198
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / L](https://lazywhiskers.shop/products/carols-are-a-hate-crime-hoodie?variant=55940882006396)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/da96e4fe-f08b-4755-a27c-e8d20fde2b0c.webp?v=1764064198
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / XL](https://lazywhiskers.shop/products/carols-are-a-hate-crime-hoodie?variant=55940882039164)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/da96e4fe-f08b-4755-a27c-e8d20fde2b0c.webp?v=1764064198
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / 2XL](https://lazywhiskers.shop/products/carols-are-a-hate-crime-hoodie?variant=55940882071932)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/da96e4fe-f08b-4755-a27c-e8d20fde2b0c.webp?v=1764064198
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / S](https://lazywhiskers.shop/products/carols-are-a-hate-crime-hoodie?variant=55940882268540)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c85b524d-375e-4c4b-9e84-7072f7a4d1f5.webp?v=1764064195
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / M](https://lazywhiskers.shop/products/carols-are-a-hate-crime-hoodie?variant=55940882301308)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c85b524d-375e-4c4b-9e84-7072f7a4d1f5.webp?v=1764064195
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / L](https://lazywhiskers.shop/products/carols-are-a-hate-crime-hoodie?variant=55940882334076)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c85b524d-375e-4c4b-9e84-7072f7a4d1f5.webp?v=1764064195
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / XL](https://lazywhiskers.shop/products/carols-are-a-hate-crime-hoodie?variant=55940882366844)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c85b524d-375e-4c4b-9e84-7072f7a4d1f5.webp?v=1764064195
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / 2XL](https://lazywhiskers.shop/products/carols-are-a-hate-crime-hoodie?variant=55940882399612)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c85b524d-375e-4c4b-9e84-7072f7a4d1f5.webp?v=1764064195
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/carols-are-a-hate-crime-hoodie?variant=55940882432380)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/e5f07557-7d1a-4eaf-b86e-9597985908a2.webp?v=1764064187
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/carols-are-a-hate-crime-hoodie?variant=55940882465148)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/e5f07557-7d1a-4eaf-b86e-9597985908a2.webp?v=1764064187
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/carols-are-a-hate-crime-hoodie?variant=55940882497916)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/e5f07557-7d1a-4eaf-b86e-9597985908a2.webp?v=1764064187
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/carols-are-a-hate-crime-hoodie?variant=55940882530684)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/e5f07557-7d1a-4eaf-b86e-9597985908a2.webp?v=1764064187
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/carols-are-a-hate-crime-hoodie?variant=55940882563452)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/e5f07557-7d1a-4eaf-b86e-9597985908a2.webp?v=1764064187
-    Price: €36.79 EUR
+    Price: €44.99 EUR
 - [Telekinetic? Nah, Just Dramatic Hoodie | LazyWhiskers](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic): You say telekinetic — we say dramatic. This LazyWhiskers hoodie blends sarcasm, attitude, and cat-level chaos. Limited edition streetwear.
-  Updated: 2025-11-26T04:53:27Z
+  Updated: 2025-12-01T12:51:11Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2269,81 +2269,81 @@
   - [Forest Green / S](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952132833660)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/61288b33-db73-4696-8d40-1e35802e26e2.webp?v=1762612668
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / M](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952132866428)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/61288b33-db73-4696-8d40-1e35802e26e2.webp?v=1762612668
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / L](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952132899196)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/61288b33-db73-4696-8d40-1e35802e26e2.webp?v=1762612668
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / XL](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952132931964)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/61288b33-db73-4696-8d40-1e35802e26e2.webp?v=1762612668
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / S](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952132997500)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/35017a09-b231-41ad-96e1-5f4847c5e1dd.webp?v=1762612670
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / M](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952133030268)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/35017a09-b231-41ad-96e1-5f4847c5e1dd.webp?v=1762612670
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / L](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952133063036)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/35017a09-b231-41ad-96e1-5f4847c5e1dd.webp?v=1762612670
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / XL](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952133095804)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/35017a09-b231-41ad-96e1-5f4847c5e1dd.webp?v=1762612670
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / 2XL](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952133128572)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/35017a09-b231-41ad-96e1-5f4847c5e1dd.webp?v=1762612670
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / S](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952133161340)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/524a22dc-1a7b-4c49-bc76-0da7f120e3c0.webp?v=1762612669
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / M](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952133194108)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/524a22dc-1a7b-4c49-bc76-0da7f120e3c0.webp?v=1762612669
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / L](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952133226876)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/524a22dc-1a7b-4c49-bc76-0da7f120e3c0.webp?v=1762612669
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / XL](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952133259644)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/524a22dc-1a7b-4c49-bc76-0da7f120e3c0.webp?v=1762612669
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / 2XL](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952133292412)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/524a22dc-1a7b-4c49-bc76-0da7f120e3c0.webp?v=1762612669
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952133325180)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/70972d8c-f2b1-4f92-af3e-b2cb0b3f2a1a.webp?v=1762612667
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952133357948)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/70972d8c-f2b1-4f92-af3e-b2cb0b3f2a1a.webp?v=1762612667
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952133390716)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/70972d8c-f2b1-4f92-af3e-b2cb0b3f2a1a.webp?v=1762612667
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952133423484)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/70972d8c-f2b1-4f92-af3e-b2cb0b3f2a1a.webp?v=1762612667
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic?variant=55952133456252)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/70972d8c-f2b1-4f92-af3e-b2cb0b3f2a1a.webp?v=1762612667
-    Price: €36.79 EUR
+    Price: €44.99 EUR
 - [Friends Don’t Lie. Cats Don’t Care T-Shirt | LazyWhiskers](https://lazywhiskers.shop/products/friends-dont-lie-cats-dont-care): Friends don’t lie. Cats don’t care. A sarcastic LazyWhiskers tee for unapologetic cat lovers — vintage-style, limited edition, and designed to disobey.
-  Updated: 2025-11-26T04:52:33Z
+  Updated: 2025-12-01T12:51:10Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2351,25 +2351,25 @@
   - [S](https://lazywhiskers.shop/products/friends-dont-lie-cats-dont-care?variant=55952134078844)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1730edd8-7a70-4628-ba2e-1af5c1a151ae.webp?v=1762612718
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [M](https://lazywhiskers.shop/products/friends-dont-lie-cats-dont-care?variant=55952134111612)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1730edd8-7a70-4628-ba2e-1af5c1a151ae.webp?v=1762612718
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [L](https://lazywhiskers.shop/products/friends-dont-lie-cats-dont-care?variant=55952134144380)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1730edd8-7a70-4628-ba2e-1af5c1a151ae.webp?v=1762612718
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [XL](https://lazywhiskers.shop/products/friends-dont-lie-cats-dont-care?variant=55952134177148)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1730edd8-7a70-4628-ba2e-1af5c1a151ae.webp?v=1762612718
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [2XL](https://lazywhiskers.shop/products/friends-dont-lie-cats-dont-care?variant=55952134209916)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1730edd8-7a70-4628-ba2e-1af5c1a151ae.webp?v=1762612718
-    Price: €19.99 EUR
+    Price: €24.99 EUR
 - [Enter the Nap Side Down T-Shirt — Limited Edition | LazyWhiskers](https://lazywhiskers.shop/products/enter-the-nap-side-down): Step into the Nap Side Down — where naps rule and reality glitches. Retro rebellion meets cat energy in this Limited Edition LazyWhiskers tee.
-  Updated: 2025-11-26T04:51:26Z
+  Updated: 2025-12-01T12:51:10Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2377,65 +2377,65 @@
   - [Dark Chocolate / S](https://lazywhiskers.shop/products/enter-the-nap-side-down?variant=55952134570364)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7afb6ae4-d14d-43f3-800a-993548fe658c.webp?v=1762612758
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [Dark Chocolate / M](https://lazywhiskers.shop/products/enter-the-nap-side-down?variant=55952134603132)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7afb6ae4-d14d-43f3-800a-993548fe658c.webp?v=1762612758
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [Dark Chocolate / L](https://lazywhiskers.shop/products/enter-the-nap-side-down?variant=55952134635900)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7afb6ae4-d14d-43f3-800a-993548fe658c.webp?v=1762612758
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [Dark Chocolate / XL](https://lazywhiskers.shop/products/enter-the-nap-side-down?variant=55952134668668)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7afb6ae4-d14d-43f3-800a-993548fe658c.webp?v=1762612758
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [Dark Chocolate / 2XL](https://lazywhiskers.shop/products/enter-the-nap-side-down?variant=55952134701436)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7afb6ae4-d14d-43f3-800a-993548fe658c.webp?v=1762612758
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [Navy / S](https://lazywhiskers.shop/products/enter-the-nap-side-down?variant=55952134734204)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c9229c12-07bb-4150-8fba-7eec92a748d9.webp?v=1762612759
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [Navy / M](https://lazywhiskers.shop/products/enter-the-nap-side-down?variant=55952134766972)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c9229c12-07bb-4150-8fba-7eec92a748d9.webp?v=1762612759
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [Navy / L](https://lazywhiskers.shop/products/enter-the-nap-side-down?variant=55952134799740)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c9229c12-07bb-4150-8fba-7eec92a748d9.webp?v=1762612759
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [Navy / XL](https://lazywhiskers.shop/products/enter-the-nap-side-down?variant=55952134832508)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c9229c12-07bb-4150-8fba-7eec92a748d9.webp?v=1762612759
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [Navy / 2XL](https://lazywhiskers.shop/products/enter-the-nap-side-down?variant=55952134865276)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c9229c12-07bb-4150-8fba-7eec92a748d9.webp?v=1762612759
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/enter-the-nap-side-down?variant=55952134898044)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c11874ef-02d2-40b7-bdd6-e3c09549b81d.webp?v=1762612757
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/enter-the-nap-side-down?variant=55952134930812)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c11874ef-02d2-40b7-bdd6-e3c09549b81d.webp?v=1762612757
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/enter-the-nap-side-down?variant=55952134963580)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c11874ef-02d2-40b7-bdd6-e3c09549b81d.webp?v=1762612757
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/enter-the-nap-side-down?variant=55952134996348)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c11874ef-02d2-40b7-bdd6-e3c09549b81d.webp?v=1762612757
-    Price: €19.99 EUR
+    Price: €24.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/enter-the-nap-side-down?variant=55952135029116)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c11874ef-02d2-40b7-bdd6-e3c09549b81d.webp?v=1762612757
-    Price: €19.99 EUR
+    Price: €24.99 EUR
 - [Ho Ho Nope Hoodie | Funny Christmas Hoodie](https://lazywhiskers.shop/products/ho-ho-nope): Sarcastic Christmas hoodie for cat lovers who hate festive chaos. The “Ho Ho Nope” hoodie by LazyWhiskers turns holiday annoyance into style.
-  Updated: 2025-11-25T21:43:02Z
+  Updated: 2025-12-01T12:51:10Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2443,65 +2443,65 @@
   - [Dark Chocolate / S](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698214780)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fb21b0aa-de41-478b-b33b-409e5fb208a7.webp?v=1764063773
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / M](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698247548)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fb21b0aa-de41-478b-b33b-409e5fb208a7.webp?v=1764063773
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / L](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698280316)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fb21b0aa-de41-478b-b33b-409e5fb208a7.webp?v=1764063773
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / XL](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698313084)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fb21b0aa-de41-478b-b33b-409e5fb208a7.webp?v=1764063773
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Dark Chocolate / 2XL](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698345852)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fb21b0aa-de41-478b-b33b-409e5fb208a7.webp?v=1764063773
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / S](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698378620)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9ae3a5d0-6c79-4793-b996-dd4197e82f88.webp?v=1764063775
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / M](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698411388)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9ae3a5d0-6c79-4793-b996-dd4197e82f88.webp?v=1764063775
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / L](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698444156)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9ae3a5d0-6c79-4793-b996-dd4197e82f88.webp?v=1764063775
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / XL](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698476924)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9ae3a5d0-6c79-4793-b996-dd4197e82f88.webp?v=1764063775
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / 2XL](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698509692)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/9ae3a5d0-6c79-4793-b996-dd4197e82f88.webp?v=1764063775
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698542460)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a3e4c303-35a1-4f87-88fa-28ba8f9b6269.webp?v=1764063771
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698575228)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a3e4c303-35a1-4f87-88fa-28ba8f9b6269.webp?v=1764063771
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698607996)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a3e4c303-35a1-4f87-88fa-28ba8f9b6269.webp?v=1764063771
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698640764)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a3e4c303-35a1-4f87-88fa-28ba8f9b6269.webp?v=1764063771
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698673532)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/a3e4c303-35a1-4f87-88fa-28ba8f9b6269.webp?v=1764063771
-    Price: €36.79 EUR
+    Price: €44.99 EUR
 - [In My Grinch Era Hoodie | Funny Christmas Hoodie](https://lazywhiskers.shop/products/in-my-grinch-era): Sarcastic Christmas hoodie for Christmas haters. The “In My Grinch Era” hoodie by LazyWhiskers turns festive cynicism into a bold winter statement.
-  Updated: 2025-11-25T22:01:08Z
+  Updated: 2025-12-01T12:51:10Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2509,51 +2509,51 @@
   - [Forest Green / S](https://lazywhiskers.shop/products/in-my-grinch-era?variant=56010658382204)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fde07881-55bd-4615-acfb-dba8d671226e.webp?v=1764064847
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / M](https://lazywhiskers.shop/products/in-my-grinch-era?variant=56010658414972)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fde07881-55bd-4615-acfb-dba8d671226e.webp?v=1764064847
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / L](https://lazywhiskers.shop/products/in-my-grinch-era?variant=56010658447740)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fde07881-55bd-4615-acfb-dba8d671226e.webp?v=1764064847
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Forest Green / XL](https://lazywhiskers.shop/products/in-my-grinch-era?variant=56010658480508)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fde07881-55bd-4615-acfb-dba8d671226e.webp?v=1764064847
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / S](https://lazywhiskers.shop/products/in-my-grinch-era?variant=56010658513276)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/4672620c-48fe-4893-aa7e-dbfcec0ba90d.webp?v=1764064848
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / M](https://lazywhiskers.shop/products/in-my-grinch-era?variant=56010658546044)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/4672620c-48fe-4893-aa7e-dbfcec0ba90d.webp?v=1764064848
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / L](https://lazywhiskers.shop/products/in-my-grinch-era?variant=56010658578812)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/4672620c-48fe-4893-aa7e-dbfcec0ba90d.webp?v=1764064848
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Navy / XL](https://lazywhiskers.shop/products/in-my-grinch-era?variant=56010658611580)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/4672620c-48fe-4893-aa7e-dbfcec0ba90d.webp?v=1764064848
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/in-my-grinch-era?variant=56010658644348)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/76292e40-e4ed-4ce3-aa86-1d0ff2e248a6.webp?v=1764064849
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/in-my-grinch-era?variant=56010658677116)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/76292e40-e4ed-4ce3-aa86-1d0ff2e248a6.webp?v=1764064849
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/in-my-grinch-era?variant=56010658709884)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/76292e40-e4ed-4ce3-aa86-1d0ff2e248a6.webp?v=1764064849
-    Price: €36.79 EUR
+    Price: €44.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/in-my-grinch-era?variant=56010658742652)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/76292e40-e4ed-4ce3-aa86-1d0ff2e248a6.webp?v=1764064849
-    Price: €36.79 EUR
+    Price: €44.99 EUR
 
 ## Collections
 
@@ -2567,10 +2567,10 @@
   Updated: 2025-11-25T14:26:10Z
   Total Products: 7
 - [Christmas Collection — Designed to Disobey | LazyWhiskers](https://lazywhiskers.shop/collections/christmas-collection): A limited-edition Christmas drop for rebels and cat lovers. Funny tees, sarcastic hoodies, and anti-holiday attitude — because “Merry” isn’t mandatory.
-  Updated: 2025-11-25T14:26:09Z
+  Updated: 2025-12-01T12:51:15Z
   Total Products: 13
 - [The Upside Drop — Limited Edition | LazyWhiskers](https://lazywhiskers.shop/collections/the-upside-drop-limited-edition): Limited Edition drop from another dimension. Retro energy, eerie calm, and unapologetic cat-level rebellion. Each piece channels that 80s neon static vibe — designed to disobey.
-  Updated: 2025-11-25T14:26:07Z
+  Updated: 2025-12-01T12:51:13Z
   Total Products: 4
 
 ## Blogs
