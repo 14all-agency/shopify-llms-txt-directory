@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-10-16T16:13:42Z
 - Contact Email: tacomapartsoffice@yahoo.com
-- Updated At: 2025-11-29T00:01:45.377Z
+- Updated At: 2025-12-03T00:01:14.511Z
 
 ## Products
 
@@ -369,19 +369,19 @@
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/229.webp?v=1718004908
   Price: $199.99 USD
 - [15" Bumper With Fog Holes Chrome Aero Kenworth T800 T880](https://tacoma-truckparts.com/products/kozak-aftermarket-replacement-15-chrome-bumper-with-fog-light-holes-compatible-with-kenworth-t800-t880-plus-kenworth-logo-and-2x22-windshield-wipers-license-plate-frame-and-kozak-vest): 15" Chrome Bumper With Fog Light Holes Compatible With Kenworth T800 T880 Semi Truck Models High Quality Bumper Width: 15" Inches Easy to install Comes with Kenworth Logo, 2x 22" Wipers, License Plate Frame and KOZAK Reflective Vest
-  Updated: 2025-10-27T06:58:32Z
+  Updated: 2025-12-01T00:46:01Z
   Vendor: Tacoma Parts Corporation
   Product Type: Bumpers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/6_fd2e961a-180a-4b5a-ac21-e3960aafd955.webp?v=1717977780
-  Price: $549.99 USD
+  Price: $899.99 USD
 - [15" Bumper Without Fog Holes Chrome Aero Kenworth T800 T880](https://tacoma-truckparts.com/products/kozak-aftermarket-replacement-15-chrome-aero-bumper-without-fog-light-holes-compatible-with-kenworth-t800-t880-plus-kenworth-logo-and-2x22-windshield-wipers-license-plate-frame-and-kozak-vest): 15" Chrome Bumper Without Fog Light Holes Compatible With Kenworth T800 T880 Semi Truck Models High Quality Bumper Width: 15" Inches Easy to install Comes with Kenworth Logo, 2x 22" Wipers, License Plate Frame and KOZAK Reflective Vest
-  Updated: 2025-10-20T20:20:18Z
+  Updated: 2025-12-01T00:45:51Z
   Vendor: Tacoma Parts Corporation
   Product Type: Bumpers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/3_88fdb158-c37f-4376-a6df-2371853c77ff.webp?v=1717977806
-  Price: $799.99 USD
+  Price: $899.99 USD
 - [Bumper Extension Corners Chrome Plastic Set Kenworth T680](https://tacoma-truckparts.com/products/kozak-replacement-bumper-chrome-plastic-extension-corners-driver-left-passenger-right-side-pair-set-for-kenworth-t680-plus-2x-22-windshield-wipers-logo-license-plate-frame-and-vest): Replaces OE Number: 8N71-6116-20000 Bumper Extension Corners Pair For Kenworth T680 Left Driver & Right Passenger Side High quality parts made of chrome plastic. Durable and reliable in any weather conditions Easy to install Comes with Kenworth Logo, 2x 22" Windshield Wipers, License Plate Frame and KOZAK Vest Valid phone number and Comercial address should be provided for delivery.
   Updated: 2025-10-20T20:20:19Z
   Vendor: Tacoma Parts Corporation
@@ -482,12 +482,12 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/16copy_630321d0-72ce-4e88-8940-cff068b1471b.webp?v=1708401623
   Price: $249.99 USD
 - [Bumper Set No Fog Holes with Chrome Trim and Brackets 2018+ Volvo VNL VNR](https://tacoma-truckparts.com/products/plastic-bumper-set-with-chrome-trim-and-brackets-without-fog-light-holes-volvo-vnl-2018): Complete Bumper without Foglight Hole and chrome trim. Compatible with Volvo VNL 2018+ New Volvo VNL Style. Black finish already primed and ready to be painted. Bumper comes disassembled. Direct Aftermarket Replacement. High quality parts. Durable and reliable during poor weathers. Brackets are included.
-  Updated: 2025-10-20T20:20:21Z
+  Updated: 2025-12-01T03:19:00Z
   Vendor: Tacoma Parts Corporation
   Product Type: Bumpers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/113copy.webp?v=1706166186
-  Price: $999.99 USD
+  Price: $1,199.99 USD
 - [Bumper 12" with Fog Hole Chrome 2004-2017 Volvo VNL](https://tacoma-truckparts.com/products/volvo-vnl-12-clad-bumper-with-fog-light-hole-chrome-replacement-fits-models-2004-17-with-brackets-and-volvo-logo-windshield-wipers-and-kozak-reflective-vest): Chrome Clad Bumper 12" with Fog Light Hole Fits Volvo VNL 2004-2017 Save time and money with this direct fit replacement Precise Fitment,Easy installation No Drilling needed Quality Made Product Durable and reliable during poor weather Comes with Volvo Logo Emblem with Stripe, 2x 22" Windshield Wipers and Vest
   Updated: 2025-10-20T20:20:21Z
   Vendor: Tacoma Parts Corporation
@@ -561,7 +561,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/198_8f3b68b9-6f5e-42e6-a6fa-811f118fc5ab.webp?v=1718001074
   Price: $899.99 USD
 - [Headlights LED Black with Turn Signal Dual Set 2008-2018 Kenworth T660](https://tacoma-truckparts.com/products/kozak-black-housing-led-headlight-assembly-turn-signal-dual-projector-headlight-lamp-set-passenger-right-driver-left-side-for-kenworth-t660-plus-logo-wipers-frame-license-plate-and-vest): Black Housing LED Headlight Assembly + Turn Signal Dual Projector Headlight Lamp Set Fits Kenworth T660 2008-2018 Left Driver & Right Passenger Side Dual Projection High and Low Beams Black Housing Comes with Kenworth Logo, 2x 22" Windshield Wipers, Frame License Plate and KOZAK Reflective Vest
-  Updated: 2025-10-20T20:20:22Z
+  Updated: 2025-12-02T01:48:11Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -652,7 +652,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/InternationalLT625FrontFairingPanelRight277copy.webp?v=1707799723
   Price: $849.99 USD
 - [Front Fairing Panel Passenger International LT625](https://tacoma-truckparts.com/products/kozak-replacement-front-fairing-panel-right-passenger-side-for-international-lt625-plus-international-logo-emblem-2x-22-windshield-wipers-and-1x-kozak-reflective-vest): Replaces OE Number: 3770952C1, 3770950C1 Compatible with International LT625 Truck Models RIGHT Passenger Side Only No Modification Needed Comes with International Logo Emblem, 2x 22" Windshield Wipers and Reflective Vest
-  Updated: 2025-10-20T20:20:23Z
+  Updated: 2025-12-01T09:52:32Z
   Vendor: Tacoma Parts Corporation
   Product Type: Fairing Panels
   Availability: Available
@@ -952,7 +952,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/8_a4b2c5c0-a816-49d5-859c-d47663cbf549.jpg?v=1705278055
   Price: $399.99 USD
 - [Headlights Led Chrome With Turn Signal Set 2008-2018 Kenworth T660](https://tacoma-truckparts.com/products/kozak-chrome-housing-led-headlight-assembly-turn-signal-dual-projector-headlight-lamp-set-passenger-right-driver-left-for-kenworth-t660-plus-logo-wipers-frame-license-plate-and-vest): Chrome Housing LED Headlight Assembly + Turn Signal Dual Projector Headlight Lamp Set Fits Kenworth T660 2008-2018 Left Driver & Right Passenger Side Dual Projection High and Low Beams Chrome Housing Comes with Logo, Wipers, Frame License Plate and KOZAK Reflective Vest
-  Updated: 2025-10-20T20:20:28Z
+  Updated: 2025-12-02T01:48:04Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -1316,7 +1316,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/12copy_446e9c19-46b0-44a5-877b-df9628e635c5.webp?v=1707980616
   Price: $499.99 USD
 - [Bumper Corners Steel Chrome Set 2003-2012 Freightliner M2 Business Class 106 112](https://tacoma-truckparts.com/products/kozak-steel-chrome-bumper-corner-driver-left-and-passenger-right-sides-compatible-with-freightliner-m2-business-class-106-112-03-12-plus-logo-and-2x-22-windshield-wipers-and-kozak-reflective-vest): Steel Chrome Bumper Corners Сompatible with Freightliner M2 Business Class 106 112 2003-2012  High quality steel parts Easy to install Left Driver & Right Passenger Side Freightliner Logo, 2x 22" Windshield wipers, License Plate Frame and KOZAK Vest included
-  Updated: 2025-10-20T20:20:34Z
+  Updated: 2025-12-02T07:47:59Z
   Vendor: Tacoma Parts Corporation
   Product Type: Extension Corners
   Availability: Available
@@ -1589,12 +1589,12 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/103-Recovered_398846dd-b39d-4ba0-aba1-7ca249fa107f.webp?v=1733200587
   Price: $249.99 USD
 - [Volvo VNL 2018+ Bumper Set Without Fog Light Holes Chrome Trim & Air Flow Deflector Set + Brackets](https://tacoma-truckparts.com/products/bumper-set-without-fog-light-holes-chrome-trim-air-flow-deflector-set-brackets-volvo-vnl-2018): Complete Bumper without Foglight Hole with chrome trim and Bumper Air Flow Deflector Set With Brackets SET Compatible with Volvo VNL 2018+ New Volvo VNL Style Black finish already primed and ready to be painted Direct Aftermarket Replacement Comes with Volvo Logo Emblem with Stripe, 2x 22" Windshield Wipers.
-  Updated: 2025-11-24T15:45:39Z
+  Updated: 2025-12-01T03:18:51Z
   Vendor: Tacoma Parts Corporation
   Product Type: Bumpers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/4_687ae6aa-9607-423a-9e41-5be9ea2d62a5.webp?v=1763956084
-  Price: $1,299.99 USD
+  Price: $1,499.99 USD
 - [Bumper Air Flow Deflector Set 2018+ Volvo VNL VNR](https://tacoma-truckparts.com/products/kozak-bumper-air-flow-deflector-right-side-left-side-and-center-compatible-with-volvo-vnl-2018-and-newer-plus-volvo-logo-with-stripe-2x-22-windshield-wipers-and-2x-kozak-face-masks): Direct Aftermarket Replacement for 82750265, 82750277, 82750279. Bumper Air Flow Deflector: Left Driver Side, Right Passenger Side and Center. Compatible with Volvo VNL 300 400 740 760 860 year 2018 and newer. Made with Quality Plastic. Comes with Volvo Logo with Stripe, 2x 22" Windshield Wipers and KOZAK Vest
   Updated: 2025-10-30T20:08:14Z
   Vendor: Tacoma Parts Corporation
@@ -1652,19 +1652,19 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/15_a9d0c408-0d6a-4404-b70d-2360d5a82d70.jpg?v=1704870423
   Price: $399.99 USD
 - [Plastic Bumper Set Brackets Without Fog Light Holes Volvo VNL 2018+](https://tacoma-truckparts.com/products/kozak-plastic-bumper-set-with-brackets-without-fog-light-holes-volvo-vnl-2018): Complete Bumper Set: 1x Center Bumper, 1x Left Driver Side Bumper Extension Corner without Fog Light Hole, 1x Right Passenger Side Bumper Extension Corner without Fog Light Hole, 2x Center bumper tow hook cover Left and Right, 2x Corner bumper side cover Left and Right.
-  Updated: 2025-10-20T20:20:40Z
+  Updated: 2025-12-01T03:19:23Z
   Vendor: Tacoma Parts Corporation
   Product Type: Bumpers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/116copy.webp?v=1706166338
-  Price: $999.99 USD
+  Price: $1,099.99 USD
 - [Plastic Bumper Set + Brackets With Fog Light Holes for Volvo VNL 2018+](https://tacoma-truckparts.com/products/kozak-plastic-bumper-set-with-brackets-with-fog-light-holes-for-volvo-vnl-2018): Complete Bumper Set: 1x Center Bumper, 1x Left Driver Side Bumper Extension Corner with Fog Light Hole, 1x Right Passenger Side Bumper Extension Corner with Fog Light Hole, 2x Center bumper tow hook cover Left and Right, 2x Corner bumper side cover Left and Right Compatible with Volvo VNL 2018+
-  Updated: 2025-10-20T20:20:40Z
+  Updated: 2025-12-01T03:19:19Z
   Vendor: Tacoma Parts Corporation
   Product Type: Bumpers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/115copy.webp?v=1706166576
-  Price: $999.99 USD
+  Price: $1,099.99 USD
 - [Bumper Plastic No Fog Hole Set 2016-2017 Volvo VNL](https://tacoma-truckparts.com/products/kozak-plastic-bumper-set-compatible-with-volvo-vnl-semi-truck-2016-complete-center-bumper-left-and-right-corner-without-fog-light-holes-with-bracket-and-logo-and-stripe): Replaces OE Number: 82741337, 82741346, 82741344 Compatible with 2016-2017 Volvo VNL VN Trucks Center Bumper and Pair of Bumper Extension Corner without Fog Light Hole (Left Driver and Right Passenger Side) Comes with Volvo Logo Emblem with Stripe, 2x 22" Windshield Wipers, Brackets and Vest
   Updated: 2025-10-20T20:20:40Z
   Vendor: Tacoma Parts Corporation
@@ -1778,12 +1778,12 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/3_ef53f917-54de-4433-94c5-79759df83c8c.jpg?v=1705038675
   Price: $449.99 USD
 - [Bumper Set with Fog Holes with Chrome Trim and Brackets 2018+ Volvo VNL VNR](https://tacoma-truckparts.com/products/plastic-bumper-set-with-chrome-trim-and-brackets-with-fog-light-holes-volvo-vnl-2018): Complete Bumper with Foglight Hole and chrome trim Compatible with Volvo VNL 2018+ New Volvo VNL Style Black finish already primed and ready to be painted. Bumper comes disassembled. Direct Aftermarket Replacement. High quality parts. Durable and reliable during poor weathers. Brackets are included.
-  Updated: 2025-10-20T20:20:42Z
+  Updated: 2025-12-01T03:19:09Z
   Vendor: Tacoma Parts Corporation
   Product Type: Bumpers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/114copy.webp?v=1706166252
-  Price: $999.99 USD
+  Price: $1,199.99 USD
 - [Bumper Corner No Fog Hole Plastic Passenger 2018+ Volvo VNL VNR](https://tacoma-truckparts.com/products/plastic-side-bumper-corner-without-fog-light-hole-passenger-side-volvo-vnl-2018): Side Bumper Corner without Fog Light Hole. Right Passenger Side. Compatible with Volvo VNL 2018 and newer. High Quality Part. Easy to install. Comes with Volvo Logo Emblem and Stripe, 2x 22" Windshield Wipers, KOZAK Reflective Vest
   Updated: 2025-10-20T20:20:42Z
   Vendor: Tacoma Parts Corporation
@@ -1820,7 +1820,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/39_1c194a23-fd43-4cf4-af3f-3a80265cef3f.jpg?v=1704866742
   Price: $149.99 USD
 - [Headlights LED Bar Turn Signal Black Set 2008-2016 Kenworth T660 T700](https://tacoma-truckparts.com/products/black-projector-replacement-headlights-led-bar-turn-signal-set-for-kenworth-t660-t700-left-and-right-side-high-low-beam-bulb-included-plus-2x22-wipers-kenworth-logo-and-kozak-reflective-vest): Black Projector Replacement Headlights LED Bar Turn Signal Fits: 2008-2016 Kenworth T660 600 T370 T270 T170 T470 T440 T700 Left Driver & Right Passenger Side Meets or Exceeds DOT & SAE Standards No Modification Needed Please verify that your product shape and connector match photo Comes with 2x H7, 2x 9005 LED Bulbs, Logo, Wipers, License Plate Holder and Vest
-  Updated: 2025-10-20T20:20:43Z
+  Updated: 2025-12-02T01:47:59Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -1855,7 +1855,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Image: https://cdn.shopify.com/s/files/1/0671/4871/0123/files/34_afd1d611-6638-46ea-9a15-cf39bd134c9e.jpg?v=1704862210
   Price: $349.99 USD
 - [Headlights LED Bar Turn Signal Chrome Set 2008-2016 Kenworth T660 T700](https://tacoma-truckparts.com/products/kozak-chrome-projector-replacement-headlights-led-bar-turn-signal-set-right-left-pair-for-kenworth-t660-t700-high-low-beam-bulbs-included-plus-logo-wipers-frame-license-plate-and-vest): Chrome Projector Replacement Headlights LED Bar Turn Signal Fits: 2008-2016 Kenworth T660 T700 T170 T270 T300 T370 Left Driver & Right Passenger Side Meets or Exceeds DOT & SAE Standards No Modification Needed Comes with Logo, Wipers, License Plate Holder and Vest
-  Updated: 2025-10-20T20:20:43Z
+  Updated: 2025-12-02T01:47:53Z
   Vendor: Tacoma Parts Corporation
   Product Type: Headlights
   Availability: Available
@@ -1869,37 +1869,37 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:16:55Z
   Total Products: 6
 - [Freightliner Semi Truck Parts & Accessories](https://tacoma-truckparts.com/collections/freightliner-semi-truck-parts-accessories): Shop online for the best Freightliner Semi Truck Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-11-28T23:44:49Z
+  Updated: 2025-12-01T12:26:50Z
   Total Products: 572
 - [Bumper Semi Truck Grille Guards](https://tacoma-truckparts.com/collections/semi-truck-grille-guards): Shop online for the best Semi Truck Grille Guards only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-11-28T23:44:49Z
+  Updated: 2025-12-01T12:26:50Z
   Total Products: 490
 - [Semi Truck Bumpers & Accessories](https://tacoma-truckparts.com/collections/semi-truck-bumpers-accessories): Shop online for the best Semi Truck Bumpers & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-11-26T12:24:08Z
+  Updated: 2025-12-02T12:27:23Z
   Total Products: 441
 - [Semi Truck Headlights](https://tacoma-truckparts.com/collections/semi-truck-headlights): Shop online for the best Semi Truck Headlights only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-11-23T23:52:50Z
+  Updated: 2025-11-29T12:38:30Z
   Total Products: 202
 - [Semi Truck Grilles](https://tacoma-truckparts.com/collections/semi-truck-grilles): Shop online for the best Semi Truck Grilles only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-11-24T00:07:20Z
+  Updated: 2025-11-30T23:25:43Z
   Total Products: 59
 - [Heavy Duty Semi-Truck Radiators](https://tacoma-truckparts.com/collections/semi-truck-radiators): Shop online for the best heavy-duty semi-truck radiators only at Tacoma Semi Truck parts & accessories. We offer fast shipping across Canada & the United States.
-  Updated: 2025-10-20T20:16:55Z
-  Total Products: 34
+  Updated: 2025-12-02T20:02:06Z
+  Total Products: 35
 - [Kenworth Truck Parts & Accessories](https://tacoma-truckparts.com/collections/kenworth-truck-parts-accessories): Shop online for the best Kenworth Truck Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-11-28T23:41:14Z
+  Updated: 2025-12-01T00:46:02Z
   Total Products: 609
 - [Kenworth W900 Parts & Accessories](https://tacoma-truckparts.com/collections/kenworth-w900-truck-parts-accessories): Shop online for the best Kenworth W900 Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-10-20T20:17:00Z
   Total Products: 16
 - [Peterbilt Truck Parts](https://tacoma-truckparts.com/collections/peterbilt-truck-parts): Shop online for the best Peterbilt Truck Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-11-28T23:42:25Z
+  Updated: 2025-12-02T12:27:23Z
   Total Products: 313
 - [International Semi Truck Parts & Accessories](https://tacoma-truckparts.com/collections/international-semi-truck-parts): Shop online for the best International Semi Truck Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-11-28T12:24:21Z
+  Updated: 2025-12-02T12:27:23Z
   Total Products: 296
 - [Semi Truck Mirrors](https://tacoma-truckparts.com/collections/semi-truck-mirrors): Shop online for the best Semi Truck Mirrors only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-11-20T12:20:27Z
+  Updated: 2025-12-02T12:27:23Z
   Total Products: 202
 - [Semi Truck Panels, Fairings & Deflectors](https://tacoma-truckparts.com/collections/semi-truck-panels-fairing-deflectors): Shop online for the best Semi Truck Panels, Fairings & Deflectors only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-11-28T00:31:12Z
@@ -1947,7 +1947,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-11-10T00:32:36Z
   Total Products: 22
 - [Semi Truck Fog Lights & LED Upgrades](https://tacoma-truckparts.com/collections/semi-truck-fog-led-lights): Shop online for the best Semi Truck Fog Lights at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-11-14T12:19:32Z
+  Updated: 2025-12-02T12:27:23Z
   Total Products: 78
 - [Semi Truck Logo Emblems](https://tacoma-truckparts.com/collections/semi-truck-logo-emblems): Shop online for the best Semi Truck Logo Emblems only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-11-22T12:22:31Z
@@ -1956,10 +1956,10 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:16:54Z
   Total Products: 5
 - [Volvo VNL Semi Truck Bumpers](https://tacoma-truckparts.com/collections/bumpers-volvo-vnl): Shop online for the best high-quality aftermarket Volvo VNL bumpers, extension corners, ends, bumper trims, and much more at Tacoma Parts Corporation.
-  Updated: 2025-11-25T12:21:07Z
+  Updated: 2025-12-01T03:19:24Z
   Total Products: 52
 - [Kozak Semi Truck Parts & Accessories](https://tacoma-truckparts.com/collections/kozak-semi-truck-parts): Shop online for the best Kozak Semi Truck Parts & Accessories only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
-  Updated: 2025-11-28T23:44:49Z
+  Updated: 2025-12-02T12:27:23Z
   Total Products: 2545
 - [Autoterm Diesel Air Heaters](https://tacoma-truckparts.com/collections/autoterm-diesel-air-heaters): Shop online for the best Autoterm Diesel Air Heaters only at Tacoma Parts Corporation. We offer same-day delivery in the USA & Canada.
   Updated: 2025-11-26T04:31:40Z
@@ -1986,7 +1986,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-11-02T23:31:27Z
   Total Products: 4
 - [Volvo VNL Grille & Bumper Guards for Semi Trucks | Tacoma Truck Parts](https://tacoma-truckparts.com/collections/volvo-vnl-grille-bumper-guards): Shop online for the best & durable Volvo VNL Semi Truck Grille Bumper Guards at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.Premium deer guards for Volvo VNL trucks (1999–2025+). HERD & Kozak brands in stock. High-quality protection and fast nationwide shipping.
-  Updated: 2025-11-26T12:24:08Z
+  Updated: 2025-11-29T12:38:30Z
   Total Products: 97
 - [Volvo VNL Grille Guard Brackets](https://tacoma-truckparts.com/collections/volvo-vnl-grille-guard-brackets): Shop online for the best Volvo VNL Grille Guard Brackets at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
   Updated: 2025-11-05T12:18:29Z
@@ -2010,8 +2010,8 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:17:09Z
   Total Products: 1
 - [Volvo VNL Radiators 2003–2017 | Tacoma Parts Corporation](https://tacoma-truckparts.com/collections/volvo-vnl-radiators): Shop Radiators for Volvo VNL trucks (2003–2017). Models 21146404, 20984815, 20585506. OEM fit, with frame, durable cooling. Fast nationwide shipping.
-  Updated: 2025-10-20T20:16:56Z
-  Total Products: 3
+  Updated: 2025-12-02T20:02:06Z
+  Total Products: 4
 - [Volvo VNL Coolant Tanks 1996–2024 | Tacoma Parts Corporation](https://tacoma-truckparts.com/collections/volvo-vnl-coolant-tanks): Shop Coolant Tanks for Volvo VNL trucks (1996–2024). Heavy-duty overflow tanks with cap and sensor. OEM fit and fast nationwide shipping.
   Updated: 2025-10-20T20:17:09Z
   Total Products: 5
@@ -2022,7 +2022,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:17:04Z
   Total Products: 12
 - [Volvo VNL Hood Fenders 2004–2024 | Tacoma Parts Corporation](https://tacoma-truckparts.com/collections/for-volvo-vnl-semi-truck-hood-fenders): Shop Hood Fenders for Volvo VNL trucks (2004–2024). Durable fiberglass OEM-fit fenders. Strong, aerodynamic design and fast nationwide shipping.
-  Updated: 2025-11-12T12:21:16Z
+  Updated: 2025-11-30T12:31:33Z
   Total Products: 8
 - [Volvo VNL Hood Locks & Latches 2004–2017 | Tacoma Parts Corporation](https://tacoma-truckparts.com/collections/volvo-vnl-hood-latches): Shop Hood Locks and Latches for Volvo VNL trucks (2004–2017). OEM-fit locking assemblies for reliable, secure hood operation. Fast nationwide shipping.
   Updated: 2025-11-02T12:19:38Z
@@ -2139,7 +2139,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-11-21T18:15:46Z
   Total Products: 21
 - [Kenworth T660 Grilles & Logo Emblems](https://tacoma-truckparts.com/collections/kenworth-t660-grilles-logo-emblems): Shop online for the best Kenworth T660 Grilles & Logo Emblems only at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
-  Updated: 2025-11-24T00:07:20Z
+  Updated: 2025-11-30T23:25:43Z
   Total Products: 3
 - [Kenworth T660 Semi Truck Fairing Panels](https://tacoma-truckparts.com/collections/kenworth-t660-fairing-panels): Shop online for the best Kenworth T660 Semi Truck Fairing Panels at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
   Updated: 2025-10-20T20:17:01Z
@@ -2169,7 +2169,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:17:00Z
   Total Products: 2
 - [Kenworth T800 Semi Truck Bumpers](https://tacoma-truckparts.com/collections/kenworth-t800-bumpers): Shop online for the best replacement bumpers for Kenworth T800 Semi Truck at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
-  Updated: 2025-10-25T11:20:00Z
+  Updated: 2025-12-01T00:46:02Z
   Total Products: 2
 - [Kenworth T800 Deer Grille Guards](https://tacoma-truckparts.com/collections/kenworth-t800-deer-grille-guards): Shop online for the best Deer Grille Guards for Kenworth T800 from Kozak, EX-Guard, and Herd at Tacoma Parts Corporation. We offer same-day delivery.
   Updated: 2025-11-21T18:14:24Z
@@ -2187,7 +2187,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:17:00Z
   Total Products: 3
 - [Kenworth T880 Semi Truck Bumpers](https://tacoma-truckparts.com/collections/kenworth-t880-bumpers): Shop online for the best & highest semi truck bumpers for Kenworth T880 at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
-  Updated: 2025-10-25T11:20:00Z
+  Updated: 2025-12-01T00:46:02Z
   Total Products: 2
 - [Kenworth T880 Grilles & Logo Emblems](https://tacoma-truckparts.com/collections/kenworth-t880-grilles-logo-emblems): Shop online for the best replacement grilles & logo emblems for Kenworth T880 Semi Truck at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
   Updated: 2025-10-28T11:19:14Z
@@ -2313,7 +2313,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:17:08Z
   Total Products: 5
 - [Freightliner Cascadia Grille Guards](https://tacoma-truckparts.com/collections/freightliner-cascadia-grille-guards): Shop online for the best Freightliner Cascadia Grille Guards at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
-  Updated: 2025-11-02T12:19:38Z
+  Updated: 2025-12-01T12:26:50Z
   Total Products: 53
 - [Freightliner Cascadia Grille Guard Brackets](https://tacoma-truckparts.com/collections/freightliner-cascadia-grille-guard-brackets): Shop online for the best Freightliner Cascadia Grille Guard Brackets only at Tacoma Semi Truck parts & accessories. We offer fast shipping across Canada & the United States.
   Updated: 2025-11-21T12:19:04Z
@@ -2334,7 +2334,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:17:08Z
   Total Products: 1
 - [Freightliner Cascadia Semi Truck Radiators](https://tacoma-truckparts.com/collections/freightliner-cascadia-truck-radiators): Shop online for the best Freightliner Cascadia Semi Truck Radiators at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
-  Updated: 2025-10-20T20:17:07Z
+  Updated: 2025-11-29T12:38:30Z
   Total Products: 9
 - [Freightliner Cascadia Coolant Tanks](https://tacoma-truckparts.com/collections/freightliner-cascadia-coolant-tanks): Shop online for the best Freightliner Cascadia Coolant Tanks at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
   Updated: 2025-10-20T20:17:08Z
@@ -2391,7 +2391,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:17:06Z
   Total Products: 19
 - [Freightliner Classic LED DRL Headlights](https://tacoma-truckparts.com/collections/freightliner-classic-headlights): Shop online for the best Freightliner Classic LED DRL Headlights at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
-  Updated: 2025-10-20T20:17:06Z
+  Updated: 2025-11-29T12:38:30Z
   Total Products: 6
 - [Freightliner Classic Semi Truck Bumpers](https://tacoma-truckparts.com/collections/freightliner-classic-bumpers): Shop online for the best Freightliner Classic Bumpers at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
   Updated: 2025-10-20T20:17:06Z
@@ -2457,7 +2457,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:17:05Z
   Total Products: 2
 - [Freightliner FLD Radiators](https://tacoma-truckparts.com/collections/freightliner-fld-radiators): Shop online for the best & highest-quality Freightliner FLD Radiators at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
-  Updated: 2025-10-20T20:17:05Z
+  Updated: 2025-11-29T12:38:30Z
   Total Products: 5
 - [Freightliner FLD Grilles and Logo Emblems](https://tacoma-truckparts.com/collections/freightliner-fld-grilles-logo-emblems): Shop online for the best Freightliner FLD Grilles & Logo Emblems at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
   Updated: 2025-11-19T10:35:24Z
@@ -2481,7 +2481,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:17:05Z
   Total Products: 3
 - [Freightliner M2 Radiators](https://tacoma-truckparts.com/collections/freightliner-m2-radiators): Shop online for the best & highest-quality radiators for Freightliner M2 Trucks at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
-  Updated: 2025-10-20T20:17:04Z
+  Updated: 2025-11-29T12:38:30Z
   Total Products: 4
 - [Freightliner M2 Condensers](https://tacoma-truckparts.com/collections/freightliner-m2-condensers): Shop online for the best Freightliner M2 Condensers at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
   Updated: 2025-10-20T20:17:05Z
@@ -2541,7 +2541,7 @@ Easy to install. Comes with 2x 22" Wipers and Vest
   Updated: 2025-10-20T20:16:56Z
   Total Products: 6
 - [Peterbilt 587 Grille Guards](https://tacoma-truckparts.com/collections/peterbilt-587-grille-guards): Shop online for the best Peterbilt 587 Grille Guards at Tacoma Parts Corporation. We offer same-day delivery on all our parts.
-  Updated: 2025-10-20T20:16:56Z
+  Updated: 2025-11-29T12:38:30Z
   Total Products: 3
 - [Peterbilt 587 Fairing Panels](https://tacoma-truckparts.com/collections/peterbilt-587-fairing-panels): Shop online for the best Peterbilt 587 Fairing Panels at Tacoma Parts Corporation. We offer same-day delivery on all our truck parts.
   Updated: 2025-10-20T20:16:56Z
