@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-12-02T00:00:35.830Z
+- Updated At: 2025-12-03T00:00:38.574Z
 
 ## Products
 
@@ -33816,6 +33816,9 @@
     Author: User
   - [Essential Questions Answered About Tablecloth Selection](https://thetableclothstore.com/blogs/news/essential-questions-answered-about-tablecloth-selection): Essential Questions Answered About Tablecloth Selection
     Updated: 2025-12-01T01:04:34Z
+    Author: User
+  - [Must-Check Factors Before Purchasing a tablecloth](https://thetableclothstore.com/blogs/news/must-check-factors-before-purchasing-a-tablecloth): Must-Check Factors Before Purchasing a tablecloth
+    Updated: 2025-12-02T02:07:09Z
     Author: User
 
 ## Store Pages
