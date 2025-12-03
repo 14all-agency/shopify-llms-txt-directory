@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-12-18T15:55:45Z
 - Contact Email: support@hopsandpops.com
-- Updated At: 2025-12-02T00:01:15.697Z
+- Updated At: 2025-12-03T00:01:09.056Z
 
 Sitemap containing all images at this link: https://hopsandpops.com/image-sitemap.xml
 
