@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-12-01T00:00:36.611Z
+- Updated At: 2025-12-03T00:01:16.564Z
 
 ## Products
 
@@ -1740,7 +1740,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/microfibre-cloths-pink-400mm-x-400mm-300gsm-50-pack-dry-cloths-essential-supplies-856385.jpg?v=1719445333
   Price: $79.00 NZD
 - [Microfibre Cloths - Yellow, 400mm x 400mm, 300gsm - 50 Pack](https://essentialsupplies.co.nz/products/microfibre-cloths-yellow-400mm-x-400mm-300gsm-50): Microfibre cleaning cloths are ideal for general use cleaning and can be used wet or dry on a variety of hard surfaces. When used dry, the static attracts the smallest dust and dirt particles for an efficient clean. Available in a range of colours to avoid cross contamination. Can be used wet or dry on a variety of hard surfaces Size: 400mm x 400mm x 300gsm Pack of 50 Colour: Yellow
-  Updated: 2025-01-09T07:38:31Z
+  Updated: 2025-12-02T05:52:16Z
   Vendor: Mattews Packaging
   Product Type: Dry Cloths
   Availability: Available
@@ -2139,7 +2139,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/pp-machine-strapping-band-blue-12mm-x-3000m-x-065mm-120kgf-1-roll-machine-strapping-band-essential-supplies-962805.jpg?v=1719445811
   Price: $101.00 NZD
 - [PP Machine Strapping Band - Clear, 12mm x 3000m x 0.65mm, 120kgf - 1 Roll](https://essentialsupplies.co.nz/products/pp-machine-strapping-band-clear-12mm-x-3000m-x-0-65mm-120kgf-1): Polypropylene hand strapping band made from strong, flexible and lightweight material for easy an economical palletising or carton bundling. Designed for use with fully automatic and semi automatic strapping machines, ideal for high volume work. Economical securing method Designed for fully automatic and semi automatic strapping machines Strength: 120kgf (KILOGRAM-FORCE WEIGHT) Colour: Clear Size: 12mm x 3000mt
-  Updated: 2025-02-15T15:54:09Z
+  Updated: 2025-12-01T03:25:16Z
   Vendor: Mattews Packaging
   Product Type: Machine Strapping Band
   Availability: Available
@@ -2937,7 +2937,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/mini-slimfold-towel-dispenser-silver-300-sheet-capacity-1-dispenser-folded-towel-dispensers-essential-supplies-725074.jpg?v=1719445320
   Price: $55.00 NZD
 - [Mini Slimfold Towel Dispenser - White, 300 Sheet Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/mini-slimfold-towel-dispenser-white-300-sheet-capacity-1): Slimfold paper towel dispensers are designed for use with the complete slimfold paper towel range. Reduces contamination and encourages good hygiene practice. High gloss, easy clean finish, with a viewing window for easy refilling and a 300 sheet capacity. High gloss ergonomic design 300 sheets capacity Colour: White Suitable tissues: MPH27090, MPH27095, MPH27100, MPH27105, MPH27110, MPH27120, MPH27162
-  Updated: 2025-01-19T22:21:08Z
+  Updated: 2025-12-02T07:52:00Z
   Vendor: Mattews Packaging
   Product Type: Folded Towel Dispensers
   Availability: Available
@@ -5525,7 +5525,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/manual-aerosol-air-freshener-suddenly-spring-200g-manual-air-fresheners-essential-supplies-851555.jpg?v=1719445408
   Price: $9.00 NZD
 - [Automatic Aerosol Air Freshener Refill - Fresh Linen, 275ml Can](https://essentialsupplies.co.nz/products/automatic-aerosol-air-freshener-refill-fresh-linen-275ml-can-12): Automatic aerosol air fresheners are also environmentally safe, long lasting and economical, with each refill delivering 3000 metered releases. Automatic dispensers are a great air freshness solution for washrooms,foyers, fitness centres, aged care facilities, schools and public toilets.
-  Updated: 2025-01-08T17:55:53Z
+  Updated: 2025-12-02T05:20:45Z
   Vendor: Mattews Packaging
   Product Type: Automatic Air Fresheners
   Availability: Available
@@ -5770,7 +5770,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/nitrile-diamond-grip-gloves-powder-free-orange-s-240mm-cuff-90g-1000-gloves-nitrile-examination-gloves-essential-supplies-977178.jpg?v=1719445427
   Price: $161.00 NZD
 - [Nitrile Diamond Grip Gloves Powder Free - Orange, M, 240mm Cuff, 9.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/nitrile-diamond-grip-gloves-powder-free-orange-m-240mm-cuff-9-0g-1000)
-  Updated: 2025-01-26T03:09:36Z
+  Updated: 2025-12-01T23:35:32Z
   Vendor: Mattews Packaging
   Product Type: Nitrile Examination Gloves
   Availability: Available
@@ -6225,7 +6225,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polypropylene-sleeve-covers-blue-200mm-x-400mm-x-25gsm-400-sleeves-arm-protection-essential-supplies-514832.jpg?v=1719445582
   Price: $92.00 NZD
 - [Polyethylene Back Tie Apron - White, 800mm x 1250mm x 20mu - 700 Aprons - *Light Duty](https://essentialsupplies.co.nz/products/polyethylene-back-tie-apron-white-800mm-x-1250mm-x-20mu-700-light-duty): Disposable back tie aprons are designed from economic and lightweight polyethylene to protect against splashes and spills. Ideal for use in the medical, food processing and cleaning industries. Convenient and hygienic, removing the need for washing after each use. Available in blue or white colour options.
-  Updated: 2025-01-08T20:09:57Z
+  Updated: 2025-12-02T23:55:01Z
   Vendor: Mattews Packaging
   Product Type: Plastic Body Protection
   Availability: Available
@@ -7504,7 +7504,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/sws-polyethylene-sheet-black-4m-x-25m-x-250mu-1-roll-100-recycled-polyethylene-sheets-essential-supplies-425328.jpg?v=1719445912
   Price: $104.00 NZD
 - [FP Polyethylene Bag - Clear, 250mm x 300mm x 30mu - 3000 Bags](https://essentialsupplies.co.nz/products/fp-polyethylene-bag-clear-250mm-x-300mm-x-30mu-3000): Low density polyethylene bags are the workhorse of the plastic bag industry. Their usage can vary from packaging nuts and bolts to bulk grain storage. This product is also used as a dust cover for machinery. Choose from our wide range of sizes and thicknesses.
-  Updated: 2025-01-09T01:41:38Z
+  Updated: 2025-12-02T09:10:36Z
   Vendor: Mattews Packaging
   Product Type: Polyethylene Bags
   Availability: Available
@@ -7871,7 +7871,7 @@
   Updated: 2024-07-15T02:47:08Z
   Total Products: 7
 - [Bundling Stretch Film](https://essentialsupplies.co.nz/collections/bundling-stretch-film)
-  Updated: 2025-11-11T12:14:14Z
+  Updated: 2025-12-02T12:20:06Z
   Total Products: 3
 - [Corner Boards](https://essentialsupplies.co.nz/collections/corner-boards)
   Updated: 2024-07-15T02:47:08Z
@@ -7886,7 +7886,7 @@
   Updated: 2024-07-15T02:47:09Z
   Total Products: 3
 - [Hand Stretch Film](https://essentialsupplies.co.nz/collections/hand-stretch-film)
-  Updated: 2025-11-11T12:14:14Z
+  Updated: 2025-12-02T12:20:06Z
   Total Products: 12
 - [Kraft Paper Rolls](https://essentialsupplies.co.nz/collections/kraft-paper-rolls)
   Updated: 2024-07-15T02:47:09Z
@@ -7901,13 +7901,13 @@
   Updated: 2024-07-15T02:47:09Z
   Total Products: 3
 - [Machine Stretch Film](https://essentialsupplies.co.nz/collections/machine-stretch-film)
-  Updated: 2025-11-12T12:15:03Z
+  Updated: 2025-12-02T12:20:06Z
   Total Products: 7
 - [Newsprint Paper Rolls](https://essentialsupplies.co.nz/collections/newsprint-paper-rolls)
   Updated: 2024-07-15T02:47:09Z
   Total Products: 4
 - [Pallet Top Covers](https://essentialsupplies.co.nz/collections/pallet-top-covers)
-  Updated: 2025-10-24T11:13:10Z
+  Updated: 2025-12-02T12:20:06Z
   Total Products: 2
 - [PET Strapping Band](https://essentialsupplies.co.nz/collections/pet-strapping-band)
   Updated: 2024-07-15T02:47:09Z
@@ -7958,7 +7958,7 @@
   Updated: 2025-10-03T11:13:10Z
   Total Products: 5
 - [Premium Packaging Tape](https://essentialsupplies.co.nz/collections/premium-packaging-tape)
-  Updated: 2025-11-11T12:14:14Z
+  Updated: 2025-12-02T12:20:06Z
   Total Products: 4
 - [Printed Message Tape](https://essentialsupplies.co.nz/collections/printed-message-tape)
   Updated: 2024-07-15T02:47:11Z
