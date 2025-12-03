@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-08-03T22:28:06Z
 - Contact Email: info@upcreatinegummies.com.au
-- Updated At: 2025-12-02T00:00:45.854Z
+- Updated At: 2025-12-03T00:00:29.383Z
 
 ## Products
 
@@ -45,34 +45,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/UpCreatineGummies-Bottle.webp?v=1762998851
   Price: $22.00 AUD
-- [Strawberry Black Friday Sale](https://upcreatinegummies.com.au/products/strawberry-black-friday-sale): Sweet, smooth 5g creatine power. Fuels your hustle post-session or on the go, keeping your momentum alive for what matters most.
-  Updated: 2025-11-14T08:47:59Z
-  Vendor: Up Creatine Gummies
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/Up-Strawberry-Creatine-Gummies-1.webp?v=1756340618
-  Price: $47.60 AUD
-- [Lemonade Black Friday Sale](https://upcreatinegummies.com.au/products/lemonade-black-friday-sale): Refreshing citrus clarity with 5g creatine. Keeps you moving, recovering, and ready for what’s next—no fuss, just performance.
-  Updated: 2025-11-14T08:47:14Z
-  Vendor: Up Creatine Gummies
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/Up-Lemonade-Creatine-Gummies-1.webp?v=1756340510
-  Price: $47.60 AUD
-- [Orange Black Friday Sale](https://upcreatinegummies.com.au/products/orange-black-friday-sale): Bright, zesty 5g creatine boost. Reliable fuel for every session so you can train, recover, and show up stronger every day.
-  Updated: 2025-11-17T22:22:00Z
-  Vendor: Up Creatine Gummies
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/Up-Orange-Creatine-Gummies-1.webp?v=1756340537
-  Price: $47.60 AUD
-- [Sour Apple Black Friday Sale](https://upcreatinegummies.com.au/products/sour-apple-black-friday-sale): Bold green apple with 5g creatine. No mess, no prep—just pure momentum to train harder, recover faster, and keep chasing your next win.
-  Updated: 2025-11-28T08:35:16Z
-  Vendor: Up Creatine Gummies
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/Up-Sour-Apple-Creatine-Gummies-1.webp?v=1756340598
-  Price: $47.60 AUD
 
 ## Collections
 
@@ -83,13 +55,13 @@
   Updated: 2025-11-28T12:28:55Z
   Total Products: 4
 - [Get All Up](https://upcreatinegummies.com.au/collections/get-all-up): Power your performance with Up Creatine Gummies. Clean, convenient, and made for movers who want more from every session. With bold Sour Apple, zesty Orange, crisp Lemonade, or smooth Strawberry, each gummy delivers pure creatine monohydrate. No powders, no pills, no hassle. Sugar free, gluten free, vegan friendly, and made without GMOs or artificial colours or flavours, they make daily supplementation simple, delicious, and effective.
-  Updated: 2025-12-01T12:32:48Z
+  Updated: 2025-12-02T12:31:44Z
   Total Products: 5
 - [Up Bottle](https://upcreatinegummies.com.au/collections/up-bottle)
-  Updated: 2025-12-01T12:32:48Z
+  Updated: 2025-12-02T12:31:44Z
   Total Products: 1
 - [Black Friday Sale](https://upcreatinegummies.com.au/collections/black-friday-sale)
-  Updated: 2025-12-01T12:32:48Z
+  Updated: 2025-12-02T19:26:25Z
   Total Products: 4
 
 ## Blogs
