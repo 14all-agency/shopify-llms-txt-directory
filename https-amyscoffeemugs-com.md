@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2018-12-15T16:04:33Z
 - Contact Email: amy@amyscoffeemugs.com
-- Updated At: 2025-12-02T00:02:39.049Z
+- Updated At: 2025-12-03T00:01:24.535Z
 
 Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our collection includes artist-designed mugs, insulated tumbler cups, and travel mugs made to bring joy, warmth, and a personal touch to every sip.
 
@@ -11670,7 +11670,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/personalized-family-thanksgiving-dinner-mug-at-amys-coffee-mugs-232749.jpg?v=1724341900
     Price: $21.95 USD
 - [Funny Thanksgiving Not a Turkey Mug | Hilarious Holiday Gift Idea](https://amyscoffeemugs.com/products/funny-thanksgiving-not-a-turkey-mug): Add humor to your Thanksgiving with our Funny Not a Turkey Mug. Featuring a turkey hiding in a box, this ceramic mug is microwave and dishwasher-safe.
-  Updated: 2025-11-28T13:04:14Z
+  Updated: 2025-12-02T14:12:41Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11684,7 +11684,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/funny-thanksgiving-not-a-turkey-mug-at-amys-coffee-mugs-169490.jpg?v=1724601745
     Price: $19.95 USD
 - [Cute Modern Cupcakes Mug | Microwave & Dishwasher Safe Gift](https://amyscoffeemugs.com/products/cute-modern-cupcakes-mug): The Cute Modern Cupcakes Mug features colorful frosting designs and a wraparound cupcake pattern. Dishwasher and microwave safe. A fun gift for cupcake lovers.
-  Updated: 2025-11-28T13:04:16Z
+  Updated: 2025-12-02T14:07:09Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11698,7 +11698,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/cute-modern-cupcakes-mug-at-amys-coffee-mugs-928832.jpg?v=1724949449
     Price: $19.95 USD
 - [Black Pumpkins Bats and Spiders Pink Halloween Mug | Unique Drinkware](https://amyscoffeemugs.com/products/black-pumpkins-bats-spiders-pink-halloween-mug): Celebrate Halloween in style with the Black Pumpkins Bats and Spiders Pink Halloween Mug. Perfect gift for Halloween lovers and pink drinkware enthusiasts.
-  Updated: 2025-11-28T13:04:18Z
+  Updated: 2025-12-02T14:03:09Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11712,7 +11712,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/black-pumpkins-bats-and-spiders-pink-halloween-mug-at-amys-coffee-mugs-243855.jpg?v=1725753149
     Price: $19.95 USD
 - [Black Pumpkins Bats and Spiders Pink Halloween Tumbler Cup | Pink Gift](https://amyscoffeemugs.com/products/black-pumpkins-bats-spiders-pink-halloween-tumbler-cup): Celebrate Halloween with the Black Pumpkins Bats and Spiders Pink Halloween Tumbler Cup. A unique gift for pink lovers and Halloween fans. Dishwasher-safe.
-  Updated: 2025-11-28T13:04:20Z
+  Updated: 2025-12-02T14:02:28Z
   Vendor: Amy's Coffee Mugs
   Product Type: Insulated Tumbler Cup
   Availability: Available
@@ -11726,14 +11726,14 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/black-pumpkins-bats-and-spiders-pink-halloween-tumbler-cup-at-amys-coffee-mugs-172360.jpg?v=1725901503
     Price: $29.95 USD
 - [Black Pumpkins Bats and Spiders Pink Halloween Travel Mug | Spooky Mug](https://amyscoffeemugs.com/products/black-pumpkins-bats-spiders-pink-halloween-travel-mug): The Black Pumpkins Bats and Spiders Pink Halloween Travel Mug keeps drinks hot, has a spill-resistant lid, fits car cup holders, and is a unique Halloween gift!
-  Updated: 2025-11-28T13:04:21Z
+  Updated: 2025-12-02T14:01:43Z
   Vendor: Amy's Coffee Mugs
   Product Type: Travel Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/black-pumpkins-bats-and-spiders-pink-halloween-travel-mug-at-amys-coffee-mugs-425433.jpg?v=1759467165
   Price: $29.95 USD
 - [Owls Pumpkins and Stars Halloween Mug | Spooky Cute Halloween Gift](https://amyscoffeemugs.com/products/owls-pumpkins-stars-halloween-mug): Celebrate Halloween with the Owls Pumpkins and Stars Mug! Featuring owls, pumpkins, and stars, it’s dishwasher-safe and makes a great gift for Halloween lovers.
-  Updated: 2025-11-28T13:04:22Z
+  Updated: 2025-12-02T14:01:33Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11747,7 +11747,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/owls-pumpkins-and-stars-halloween-mug-at-amys-coffee-mugs-657110.jpg?v=1727369977
     Price: $19.95 USD
 - [Red Holiday Bird Season's Greetings Christmas Mug | Festive Drinkware](https://amyscoffeemugs.com/products/red-holiday-bird-seasons-greetings-christmas-mug): Sip holiday joy with the Red Holiday Bird Season’s Greetings Christmas Mug! Festive red bird design, microwave/dishwasher-safe, and perfect for gifting.
-  Updated: 2025-11-28T13:04:23Z
+  Updated: 2025-12-02T13:59:50Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11761,7 +11761,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/red-holiday-bird-seasons-greetings-christmas-mug-at-amys-coffee-mugs-615258.jpg?v=1730294855
     Price: $19.95 USD
 - [Rustic Wood Falling Leaves Autumn Mug | Fall Drinkware for Gifts](https://amyscoffeemugs.com/products/rustic-wood-falling-leaves-autumn-mug): Celebrate autumn with the Rustic Wood Falling Leaves Autumn Mug. Featuring a warm design with wood and fall leaves, it's perfect for coffee, tea, or hot cider.
-  Updated: 2025-11-28T13:04:25Z
+  Updated: 2025-12-02T13:58:26Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11775,7 +11775,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/rustic-wood-falling-leaves-autumn-mug-at-amys-coffee-mugs-780366.jpg?v=1730381701
     Price: $19.95 USD
 - [Navy Pink Paint Brush Strokes Mug | Artistic Coffee Mug Gift](https://amyscoffeemugs.com/products/navy-pink-paint-brush-strokes-mug): Explore the Navy Pink Paint Brush Strokes Mug. A stylish and artistic mug, perfect for coffee lovers and a thoughtful gift for any occasion. Dishwasher-safe.
-  Updated: 2025-11-28T13:04:27Z
+  Updated: 2025-12-02T13:56:59Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11789,7 +11789,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/navy-pink-paint-brush-strokes-mug-at-amys-coffee-mugs-949640.jpg?v=1730458216
     Price: $19.95 USD
 - [Winter Blue Silver Snowflake Mug | Seasonal Mug for Hot Drinks](https://amyscoffeemugs.com/products/winter-blue-silver-snowflake-mug): Celebrate winter with the Winter Blue Silver Snowflake Mug. Snowflakes in navy, aqua, and gray. Microwave and dishwasher safe, perfect for seasonal gifting.
-  Updated: 2025-11-28T13:04:28Z
+  Updated: 2025-12-02T13:54:18Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11803,7 +11803,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/winter-blue-silver-snowflake-mug-at-amys-coffee-mugs-261756.jpg?v=1730905467
     Price: $19.95 USD
 - [Personalized Candy Cane Mug | Custom Holiday Coffee Cup for Christmas](https://amyscoffeemugs.com/products/personalized-candy-cane-pattern-mug): Personalized Candy Cane Pattern Mug: Festive ceramic mug with customizable name in red or green. Durable, microwave-safe, & perfect as a gift or holiday treat.
-  Updated: 2025-11-06T13:44:44Z
+  Updated: 2025-12-02T13:50:27Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11825,7 +11825,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/personalized-candy-cane-pattern-mug-at-amys-coffee-mugs-157414.jpg?v=1731447935
     Price: $21.95 USD
 - [Personalized Candy Cane Stripe Mug | Holiday Drinkware & Gift Idea](https://amyscoffeemugs.com/products/personalized-candy-cane-stripe-mug): Add festive cheer with our Personalized Candy Cane Stripe Mug! Featuring your name, durable, and dishwasher-safe, it's the perfect holiday gift or keepsake.
-  Updated: 2025-11-06T13:44:44Z
+  Updated: 2025-12-02T13:50:14Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -11839,7 +11839,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/personalized-candy-cane-stripe-mug-at-amys-coffee-mugs-221751.jpg?v=1731508741
     Price: $21.95 USD
 - [Winter Red Silver Snowflake Mug | Festive Snowflake Drinkware Gift](https://amyscoffeemugs.com/products/winter-red-silver-snowflake-mug): Celebrate winter with the Winter Red Silver Snowflake Mug! Perfect for snowflake lovers, it's festive, gift-ready, durable, and dishwasher-safe.
-  Updated: 2025-11-28T13:04:29Z
+  Updated: 2025-12-02T13:45:28Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
@@ -12654,10 +12654,10 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
 ## Collections
 
 - [Ceramic Mugs, Travel Mugs, and Tumbler Cups | Gifts, Perfect for you!](https://amyscoffeemugs.com/collections/all-mugs-and-cups): Discover cute, stylish mugs, tumblers, and travel mugs featuring animals, gnomes, sports, patterns, hobbies, and more. Personalization options for gift-giving!
-  Updated: 2025-12-01T12:06:24Z
+  Updated: 2025-12-02T12:07:50Z
   Total Products: 977
 - [Ceramic Coffee Mugs | Unique Designs, Dishwasher and Microwave Safe](https://amyscoffeemugs.com/collections/ceramic-coffee-mugs): Shop 11oz or 15oz ceramic mugs with unique designs, including animals, seasonal, patterns, and personalized options. Dishwasher and microwave safe. Shop now!
-  Updated: 2025-12-01T12:06:24Z
+  Updated: 2025-12-02T12:07:50Z
   Total Products: 577
 - [Travel Mugs for Everyone | Stylish, Tapered, Stainless Steel Insulated](https://amyscoffeemugs.com/collections/travel-mugs): Shop stainless steel travel mugs with colorful or seasonal designs, personalization, & spill-resistant lids. Perfect for gifting and keeping drinks hot or cold.
   Updated: 2025-11-20T12:04:58Z
@@ -12681,7 +12681,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-11-30T12:07:33Z
   Total Products: 241
 - [Blue Mugs, Travel Mugs, Tumbler Cups | Unique Designs for Everyone](https://amyscoffeemugs.com/collections/blue): Shop unique blue mugs & tumblers with adorable animals, classic patterns, sports, winter designs, & more. Plus, personalized mug & cup options for gift-giving!
-  Updated: 2025-12-01T12:06:24Z
+  Updated: 2025-12-02T12:07:50Z
   Total Products: 316
 - [Brown Mugs, Travel Mugs, & Tumbler Cups | Cozy Gifts for Coffee Lovers](https://amyscoffeemugs.com/collections/brown): Shop stylish brown mugs and tumblers with owls, florals, plaid, and seasonal designs. Perfect for coffee lovers and gifting, they match brown-accented décor!
   Updated: 2025-11-30T12:07:33Z
@@ -12750,7 +12750,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-11-15T12:05:33Z
   Total Products: 37
 - [Winter Mugs, Travel Mugs, Tumbler Cups | Snowflakes, Snowmen, and More](https://amyscoffeemugs.com/collections/winter): Shop winter-themed mugs, including ceramic or travel mugs & tumbler cups. Perfect for hot drinks on chilly days. No minimum order, discounted sets, great gifts!
-  Updated: 2025-12-01T12:06:24Z
+  Updated: 2025-12-02T12:07:50Z
   Total Products: 54
 - [Gnome Mugs & Tumbler Cups | Seasonal & Holiday Gnome Drinkware](https://amyscoffeemugs.com/collections/gnome): Shop seasonal and holiday gnome mugs for winter, spring, fall, and summer. Explore fun gnome cups for Christmas, Halloween, occupations, and everyday joy.
   Updated: 2025-11-24T12:04:30Z
@@ -12774,7 +12774,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-11-30T12:07:33Z
   Total Products: 203
 - [Seasonal Mugs, Travel Mugs, and Tumbler Cups | All Seasons](https://amyscoffeemugs.com/collections/seasonal): Shop seasonal mugs, tumbler cups, and travel mugs with spring flowers, fall leaves, summer beach scenes, winter snowflakes, and more. Explore every season.
-  Updated: 2025-12-01T12:06:24Z
+  Updated: 2025-12-02T12:07:50Z
   Total Products: 298
 - [4th of July Mugs & Tumblers | Red White and Blue Drinkware](https://amyscoffeemugs.com/collections/4th-of-july): Shop our 4th of July mugs, tumbler cups, and travel mugs in red, white, and blue designs. Great for patriotic gifts, summer drinks, and everyday use.
   Updated: 2025-11-30T12:07:33Z
