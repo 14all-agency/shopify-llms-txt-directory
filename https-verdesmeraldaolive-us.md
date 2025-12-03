@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-11-30T00:01:24.292Z
+- Updated At: 2025-12-03T00:00:52.873Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/FGB_2666_EST.jpg?v=1750053125
   Price: $53.00 USD
 - [Blue Sapphire – Organic Extra Virgin Olive Oil](https://verdesmeraldaolive.us/products/green-emerald-picual-500ml-copia): 500 ml · Limited Edition · Cold-Pressed · USDA Organic Why You'll Love It - 100% Organic Picual – Grown without pesticides or chemicals. Pure, clean, and powerful. - Intense, Complex Flavor – Starts sweet, unfolds into a balanced bitterness and spice. - Tasting Notes – Fresh-cut grass, green tomato, almond, artichoke, and green apple. - Luxury Design – The bottle replicates the elegance of a blue sapphire. Designed to stand out on any table or as a memorable gift. - Cold-Pressed & Early Harvest – Ensures maximum antioxidants, flavor, and freshness. - Rich in Oleic Acid – Supports heart health and overall wellness. Inspired by the timeless beauty of the Blue Sapphire, this exclusive bottle holds more than just oil — it preserves a story of heritage, elegance, and purity. Crafted from 100% organic Picual olives, hand-harvested at night to protect their delicate aroma, Blue Sapphire is your gateway to a new standard of gourmet. A Gift Worth Giving Whether for yourself or someone special, this oil transforms everyday meals into elevated experiences. ⭐ Customer Favorites “This isn’t olive oil, this is liquid gold. The flavor, the bottle, the story — it’s perfection.” – Sophia M. (New York) “Impressive gift. My partner said it was the most elegant bottle they’d ever seen.” – Jake L. (Miami)
-  Updated: 2025-11-21T01:43:38Z
+  Updated: 2025-12-02T07:21:02Z
   Vendor: Verde Esmeralda
   Product Type: 
   Availability: Available
@@ -87,7 +87,7 @@
   Updated: 2025-09-30T18:02:29Z
   Total Products: 0
 - [EVOO | Extra Virgin Olive Oil Premium](https://verdesmeraldaolive.us/collections/evoo): Explore our premium Extra Virgin Olive Oil (EVOO), crafted in Jaén, Spain. Award-winning gourmet flavor delivered fresh to your table. Shop online at Verde Esmeralda Olive.
-  Updated: 2025-11-29T12:25:23Z
+  Updated: 2025-12-02T12:20:48Z
   Total Products: 10
 - [Ibéricos](https://verdesmeraldaolive.us/collections/ibericos): Discover our selection of exquisite Iberian products, a journey through the culinary traditions of Spain. Each item is carefully chosen to offer an authentic gastronomic experience, from Iberian ham to chorizo, and the finest delicacies of the Iberian land. Come back soon to explore our full range.
   Updated: 2025-09-30T18:02:30Z
@@ -102,16 +102,16 @@
   Updated: 2025-11-24T12:15:34Z
   Total Products: 4
 - [Give away](https://verdesmeraldaolive.us/collections/give-away)
-  Updated: 2025-11-29T12:25:23Z
+  Updated: 2025-12-02T12:20:48Z
   Total Products: 10
 - [Feature Products](https://verdesmeraldaolive.us/collections/feature-products)
-  Updated: 2025-11-29T12:25:23Z
+  Updated: 2025-12-02T12:20:48Z
   Total Products: 10
 - [APPPlaza - Best Sellers](https://verdesmeraldaolive.us/collections/appplaza-best-sellers)
-  Updated: 2025-11-29T12:25:23Z
+  Updated: 2025-12-02T12:20:48Z
   Total Products: 10
 - [AVADA - Best Sellers](https://verdesmeraldaolive.us/collections/avada-best-sellers)
-  Updated: 2025-11-29T12:25:23Z
+  Updated: 2025-12-02T12:20:48Z
   Total Products: 10
 
 ## Blogs
