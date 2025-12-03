@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-12-01T00:01:09.362Z
+- Updated At: 2025-12-03T00:00:35.782Z
 
 ## Products
 
@@ -1981,7 +1981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-heavyweight-tee-vintage-gold-right-front-678e370e6f51e.jpg?v=1737373673
     Price: $41.50 USD
 - [Garment-Dyed T-Shirt Men – Stylish Pocket Cotton Tee](https://baskandweave.com/products/mens-garment-dyed-pocket-t-shirt): Shop our garment-dyed t-shirt men love for its comfort and style. This pocket tee offers a relaxed fit, soft cotton fabric, and a timeless washed look.
-  Updated: 2025-11-05T15:11:21Z
+  Updated: 2025-12-01T06:21:28Z
   Vendor: Bask & Weave
   Product Type: Pocket T-Shirt
   Availability: Available
@@ -3347,7 +3347,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-muscle-shirt-white-front-678e4d3c78d11.jpg?v=1740363209
     Price: $33.50 USD
 - [Men's Muscle Shirts – Premium Gym & Workout Tank Tops](https://baskandweave.com/products/muscle-shirt-mens): Discover men's muscle shirts built for strength and comfort. Ideal for gym sessions or casual wear, these premium muscle fit tanks enhance your athletic look.
-  Updated: 2025-10-30T23:41:40Z
+  Updated: 2025-12-01T04:36:57Z
   Vendor: Bask & Weave
   Product Type: Tank Top
   Availability: Available
@@ -6157,13 +6157,13 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/basic-unisex-windbreaker-forest-green-front-6792312728b9b.jpg?v=1737634719
     Price: $42.00 USD
 - [Men's Sherpa Denim Jacket – Warm, Stylish & Comfortable](https://baskandweave.com/products/mens-denim-sherpa-jacket): Upgrade your wardrobe with our men's Sherpa denim jacket. This warm, stylish layer offers premium comfort and a timeless look for casual or cool-weather days.
-  Updated: 2025-11-02T00:51:52Z
+  Updated: 2025-12-02T21:53:46Z
   Vendor: Bask & Weave
   Product Type: Jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Sherpa_Denim_Jacket.jpg?v=1740361102
   - [Black Denim / XS](https://baskandweave.com/products/mens-denim-sherpa-jacket?variant=47073593262330)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Sherpa_Denim_Jacket.jpg?v=1740361102
     Price: $116.50 USD
   - [Black Denim / S](https://baskandweave.com/products/mens-denim-sherpa-jacket?variant=47073593295098)
@@ -6171,23 +6171,23 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Sherpa_Denim_Jacket.jpg?v=1740361102
     Price: $116.50 USD
   - [Black Denim / M](https://baskandweave.com/products/mens-denim-sherpa-jacket?variant=47073593327866)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Sherpa_Denim_Jacket.jpg?v=1740361102
     Price: $116.50 USD
   - [Black Denim / L](https://baskandweave.com/products/mens-denim-sherpa-jacket?variant=47073593360634)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Sherpa_Denim_Jacket.jpg?v=1740361102
     Price: $116.50 USD
   - [Black Denim / XL](https://baskandweave.com/products/mens-denim-sherpa-jacket?variant=47073593393402)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Sherpa_Denim_Jacket.jpg?v=1740361102
     Price: $116.50 USD
   - [Black Denim / 2XL](https://baskandweave.com/products/mens-denim-sherpa-jacket?variant=47073593426170)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Sherpa_Denim_Jacket.jpg?v=1740361102
     Price: $119.00 USD
   - [Black Denim / 3XL](https://baskandweave.com/products/mens-denim-sherpa-jacket?variant=47073593458938)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Sherpa_Denim_Jacket.jpg?v=1740361102
     Price: $121.50 USD
   - [Light Denim / XS](https://baskandweave.com/products/mens-denim-sherpa-jacket?variant=47073593491706)
@@ -6195,11 +6195,11 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-679232e1b2654.jpg?v=1737634537
     Price: $116.50 USD
   - [Light Denim / S](https://baskandweave.com/products/mens-denim-sherpa-jacket?variant=47073593524474)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-679232e1b2654.jpg?v=1737634537
     Price: $116.50 USD
   - [Light Denim / M](https://baskandweave.com/products/mens-denim-sherpa-jacket?variant=47073593557242)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-679232e1b2654.jpg?v=1737634537
     Price: $116.50 USD
   - [Light Denim / L](https://baskandweave.com/products/mens-denim-sherpa-jacket?variant=47073593590010)
@@ -6211,11 +6211,11 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-679232e1b2654.jpg?v=1737634537
     Price: $116.50 USD
   - [Light Denim / 2XL](https://baskandweave.com/products/mens-denim-sherpa-jacket?variant=47073593655546)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-679232e1b2654.jpg?v=1737634537
     Price: $119.00 USD
   - [Light Denim / 3XL](https://baskandweave.com/products/mens-denim-sherpa-jacket?variant=47073593688314)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-679232e1b2654.jpg?v=1737634537
     Price: $121.50 USD
 - [Premium Men's Hoodie – Soft, Stylish & Everyday Comfort](https://baskandweave.com/products/mens-hoodie): Shop the premium men's hoodie for ultimate comfort and timeless style. Crafted with soft fabric, it's perfect for layering and everyday casual wear.
@@ -7839,7 +7839,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-basic-zip-hoodie-french-navy-front-67951e77e8853.jpg?v=1737830902
     Price: $55.50 USD
 - [Heavy Blend Hoodie for Men – Warm, Durable Zip-Up Style](https://baskandweave.com/products/mens-heavy-blend-zip-hoodie): Stay warm in our Heavy Blend Hoodie for Men. This soft, durable zip-up hoodie offers everyday comfort and timeless style for any casual occasion.
-  Updated: 2025-11-02T22:48:48Z
+  Updated: 2025-12-02T15:53:30Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -7861,7 +7861,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Heavy_Blend_Zip_Hoodie.jpg?v=1740364003
     Price: $46.00 USD
   - [Black / 2XL](https://baskandweave.com/products/mens-heavy-blend-zip-hoodie?variant=47078548242682)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Heavy_Blend_Zip_Hoodie.jpg?v=1740364003
     Price: $49.00 USD
   - [Black / 3XL](https://baskandweave.com/products/mens-heavy-blend-zip-hoodie?variant=47078548275450)
@@ -13385,7 +13385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-muscle-shirt-white-front-679669847275d.jpg?v=1737910928
     Price: $33.50 USD
 - [Women's Crop Top – Trendy & Stylish Crop Tops for Women](https://baskandweave.com/products/womens-crop-top): Shop the latest women's crop top styles for every occasion. This trendy and comfortable crop top pairs perfectly with jeans or skirts for a chic everyday look.
-  Updated: 2025-11-03T23:03:55Z
+  Updated: 2025-12-01T15:52:06Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -13467,7 +13467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-crop-top-bubblegum-front-67966c222ce85.jpg?v=1737911612
     Price: $30.00 USD
   - [Bubblegum / XL](https://baskandweave.com/products/womens-crop-top?variant=47080244281594)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-crop-top-bubblegum-front-67966c222ce85.jpg?v=1737911612
     Price: $30.00 USD
   - [Pale Pink / XS](https://baskandweave.com/products/womens-crop-top?variant=47080244314362)
@@ -18241,7 +18241,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-basic-zip-hoodie-french-navy-front-6796de6d99137.jpg?v=1737941925
     Price: $54.00 USD
 - [Heavy Blend Zip Hoodie Women | Warm & Comfortable Style](https://baskandweave.com/products/womens-heavy-blend-zip-hoodie): Shop the heavy blend zip hoodie women love for cozy comfort and style. Crafted from soft, durable fabric for warmth in every season.
-  Updated: 2025-11-04T00:16:57Z
+  Updated: 2025-12-02T15:53:30Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -18263,7 +18263,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Heavy_Blend_Zip_Hoodie.jpg?v=1740879203
     Price: $45.00 USD
   - [Black / 2XL](https://baskandweave.com/products/womens-heavy-blend-zip-hoodie?variant=47081174597882)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Heavy_Blend_Zip_Hoodie.jpg?v=1740879203
     Price: $47.50 USD
   - [Black / 3XL](https://baskandweave.com/products/womens-heavy-blend-zip-hoodie?variant=47081174630650)
@@ -19701,13 +19701,13 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/basic-unisex-windbreaker-forest-green-front-67a68fba68b0c.jpg?v=1738971028
     Price: $45.50 USD
 - [Women's Sherpa Denim Jacket - Warm & Stylish Outerwear](https://baskandweave.com/products/womens-sherpa-denim-jacket): Stay cozy and chic with our Women's Sherpa Denim Jacket, blending classic denim with soft sherpa lining for warmth, comfort, and everyday style.
-  Updated: 2025-11-05T00:19:37Z
+  Updated: 2025-12-02T21:53:46Z
   Vendor: Bask & Weave
   Product Type: Jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Sherpa_Denim_Jacket.jpg?v=1740866072
   - [Black Denim / XS](https://baskandweave.com/products/womens-sherpa-denim-jacket?variant=47110942195962)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-black-denim-front-67a691e76466f.jpg?v=1739654987
     Price: $103.00 USD
   - [Black Denim / S](https://baskandweave.com/products/womens-sherpa-denim-jacket?variant=47110942228730)
@@ -19715,23 +19715,23 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-black-denim-front-67a691e76466f.jpg?v=1739654987
     Price: $103.00 USD
   - [Black Denim / M](https://baskandweave.com/products/womens-sherpa-denim-jacket?variant=47110942261498)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-black-denim-front-67a691e76466f.jpg?v=1739654987
     Price: $103.00 USD
   - [Black Denim / L](https://baskandweave.com/products/womens-sherpa-denim-jacket?variant=47110942294266)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-black-denim-front-67a691e76466f.jpg?v=1739654987
     Price: $103.00 USD
   - [Black Denim / XL](https://baskandweave.com/products/womens-sherpa-denim-jacket?variant=47110942327034)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-black-denim-front-67a691e76466f.jpg?v=1739654987
     Price: $103.00 USD
   - [Black Denim / 2XL](https://baskandweave.com/products/womens-sherpa-denim-jacket?variant=47110942359802)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-black-denim-front-67a691e76466f.jpg?v=1739654987
     Price: $105.00 USD
   - [Black Denim / 3XL](https://baskandweave.com/products/womens-sherpa-denim-jacket?variant=47110942392570)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-black-denim-front-67a691e76466f.jpg?v=1739654987
     Price: $107.00 USD
   - [Light Denim / XS](https://baskandweave.com/products/womens-sherpa-denim-jacket?variant=47110942425338)
@@ -19739,11 +19739,11 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-67a691e765e74.jpg?v=1738971162
     Price: $103.00 USD
   - [Light Denim / S](https://baskandweave.com/products/womens-sherpa-denim-jacket?variant=47110942458106)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-67a691e765e74.jpg?v=1738971162
     Price: $103.00 USD
   - [Light Denim / M](https://baskandweave.com/products/womens-sherpa-denim-jacket?variant=47110942490874)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-67a691e765e74.jpg?v=1738971162
     Price: $103.00 USD
   - [Light Denim / L](https://baskandweave.com/products/womens-sherpa-denim-jacket?variant=47110942523642)
@@ -19755,11 +19755,11 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-67a691e765e74.jpg?v=1738971162
     Price: $103.00 USD
   - [Light Denim / 2XL](https://baskandweave.com/products/womens-sherpa-denim-jacket?variant=47110942589178)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-67a691e765e74.jpg?v=1738971162
     Price: $105.00 USD
   - [Light Denim / 3XL](https://baskandweave.com/products/womens-sherpa-denim-jacket?variant=47110942621946)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-67a691e765e74.jpg?v=1738971162
     Price: $107.00 USD
 - [Women's Wide-Leg Joggers - All-Over Print Comfy Style](https://baskandweave.com/products/all-over-print-womens-wide-leg-joggers): Step into comfort with our women's wide-leg joggers. These all-over print joggers offer a perfect blend of relaxed fit, style, and everyday versatility.
