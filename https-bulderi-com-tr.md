@@ -10,7 +10,7 @@
 - Contact Email: info@bulderi.com.tr
 - Contact Phone: +908503089625
 - Address: Yakuplu Mah. Hürriyet Blv. Skyport Residence No:1/151 Beylikdüzü, İstanbul / Türkiye
-- Updated At: 2025-12-01T00:00:35.738Z
+- Updated At: 2025-12-03T00:00:27.063Z
 
 ## Products
 
@@ -298,7 +298,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Saraciye-Dikisli-Telefon-Bolmeli-Cuzdan1.png?v=1715104989
   Price: ₺1.749,90 TRY
 - [Hakiki Deri Anahtarlık - Bulderi](https://bulderi.com.tr/products/hakiki-deri-kahve-anahtarlik): Hakiki Deri Anahtarlık, hem kadınların hem de erkeklerin günlük kullanımına uygun bir tasarıma sahiptir. Üstün kaliteli 1. sınıf dana derisinden üretilmiş olup, sağlamlığı ve dayanıklılığıyla öne çıkar.
-  Updated: 2025-10-07T17:59:28Z
+  Updated: 2025-12-02T10:24:36Z
   Vendor: Bulderi
   Product Type: Anahtarlık
   Availability: Available
@@ -412,13 +412,13 @@
   Updated: 2025-05-11T17:37:18Z
   Total Products: 0
 - [İndirimdekiler](https://bulderi.com.tr/collections/i̇ndirimdekiler): Bulderi'nin İndirimdekiler koleksiyonu, harika fırsatları kaçırmamanız için tasarlanmıştır. Bu özel koleksiyon, indirimli fiyatlarla en sevilen ürünleri bir araya getirir. Moda, güzellik, ev dekorasyonu ve daha birçok kategoride geniş bir ürün yelpazesine sahiptir.
-  Updated: 2025-11-22T12:10:41Z
+  Updated: 2025-12-02T12:15:16Z
   Total Products: 36
 - [En Yeniler](https://bulderi.com.tr/collections/en-yeniler): Bulderi'nin En Yeniler koleksiyonu, son trendleri takip eden ve sürekli olarak güncellenen ürünleri bir araya getiriyor. Bu özel koleksiyon, en yeni ve özgün tasarımlarıyla dikkat çekiyor.
-  Updated: 2025-11-22T12:10:41Z
+  Updated: 2025-12-02T12:15:16Z
   Total Products: 37
 - [Çok Satanlar](https://bulderi.com.tr/collections/cok-satanlar): Bulderi'nin Çok Satanlar koleksiyonu, müşterilerimizin en çok tercih ettiği ve beğendiği ürünleri bir araya getiriyor. Bu özel koleksiyon, popülerliklerini kanıtlamış ve kalitesiyle öne çıkan ürünleri içerir.
-  Updated: 2025-11-22T12:10:41Z
+  Updated: 2025-12-02T12:15:16Z
   Total Products: 37
 - [Telefon Bölmeli Cüzdanlar](https://bulderi.com.tr/collections/telefon-bolmeli-cuzdanlar): Telefon Bölmeli Cüzdanlar, işlevselliği ve şıklığı bir araya getiren modern yaşamın vazgeçilmez aksesuarlarıdır. Her biri özenle seçilmiş yüksek kaliteli malzemelerden üretilen cüzdanlarımız, telefonunuza uygun bölmeleriyle pratik kullanım sunar.
   Updated: 2025-10-01T11:09:52Z
@@ -427,7 +427,7 @@
   Updated: 2025-11-22T12:10:41Z
   Total Products: 22
 - [Deri Aksesuarlar - Bulderi](https://bulderi.com.tr/collections/aksesuarlar): Stilinizi tamamlayacak özgün aksesuarlar Bulderi'de! Deri cüzdan, çanta, ve kartlık gibi günlük ihtiyaçlarınızı karşılayacak ürünlerimizle şıklığınıza şıklık katın. Her zevke uygun seçeneklerimizle öne çıkan Aksesuarlar kategorimiz, kalite ve zarafeti bir araya getiriyor.
-  Updated: 2025-11-13T12:09:46Z
+  Updated: 2025-12-02T12:15:16Z
   Total Products: 3
 - [Babalar Günü](https://bulderi.com.tr/collections/babalar-gunu): Bulderi’nin Babalar Günü koleksiyonunda, babanıza olan sevginizi ve takdirinizi gösterecek en zarif ve kaliteli deri ürünlerini keşfedin. Özenle tasarlanmış deri cüzdanlar, şık çantalar, pratik kartlıklar ve zarif aksesuarlar ile babalarınıza hem işlevsel hem de stil sahibi hediyeler sunun.
   Updated: 2025-11-22T12:10:41Z
