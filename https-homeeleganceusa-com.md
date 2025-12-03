@@ -10,7 +10,7 @@
 - Contact Email: sales@homeeleganceusa.com
 - Contact Phone: 732-777-1100
 - Address: 850 Ridgewood Avenue, North Brunswick NJ 08902
-- Updated At: 2025-12-02T20:15:07.320Z
+- Updated At: 2025-12-03T00:02:54.659Z
 
 ## Products
 
@@ -3820,7 +3820,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T12:49:14Z
   Price: $1,243.99 USD
 - [Maxi White Gloss Chair (Set Of 2) Vggujk414Sch-Wht](https://homeeleganceusa.com/products/vig-furniture-maxi-white-gloss-chair-set-of-2-vggujk414sch-wht): Maxi - White Gloss Chair (Set of 2) - VGGUJK414SCH-WHT | VIGDescription:The Maxi white gloss chair in veneer finish has a high backrest for extra support and a
-  Updated: 2025-11-25T12:49:15Z
+  Updated: 2025-12-02T23:33:54Z
   Price: $1,287.99 USD
 - [G509 Modern Two-Tone Oak Multi-Chest Vgwcg509](https://homeeleganceusa.com/products/vig-furniture-g509-modern-two-tone-oak-multi-chest-vgwcg509): Modrest Gamma Torino - Modern 2-Tone Oak 4-Drawer Multi-Chest - VGWCG509 | VIGDescription:The Geneva Chest features four spacious pull out drawers for clothing
   Updated: 2025-11-25T12:49:16Z
@@ -9874,7 +9874,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T16:35:20Z
   Price: $16,236.99 USD
 - [2566 Sectional Sofa In Light Grey - 2566-Sec | ESF](https://homeeleganceusa.com/products/esf-furniture-2566-sectional-sofa-in-light-grey-2566-sec): 2566 Leather sectional is fashionably and stylish. Seats and backs have medium-density foam to give you extra comfort and support. Features: 2566 Sectional Sofa
-  Updated: 2025-11-25T16:35:21Z
+  Updated: 2025-12-02T23:24:26Z
   Price: $5,211.99 USD
 - [Platinum 2-Door China - Platinum-2 Door China | ESF](https://homeeleganceusa.com/products/esf-furniture-platinum-2-door-china-platinum-2-door-china): ESF Furniture - Platinum 2-Door China - PLATINUM-2 DOOR CHINA Features: Platinum Collection 2-Door China Shiny Wood Finish Solid Construction Glass and Wood
   Updated: 2025-11-25T16:35:21Z
@@ -14851,7 +14851,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-25T18:31:16Z
   Price: $1,600.99 USD
 - [Cleo Velvet King Bed In Pink - Cleopink-K | Meridian](https://homeeleganceusa.com/products/meridian-furniture-cleo-velvet-king-bed-in-pink-cleopink-k): Meridian Furniture - Cleo Velvet King Bed in Pink - CleoPink-K Enjoy sweet dreams in this beautiful Cleo cream velvet queen size bed. The tall, luxurious velvet
-  Updated: 2025-11-25T18:31:16Z
+  Updated: 2025-12-02T23:29:24Z
   Price: $1,772.99 USD
 - [Cleo Velvet King Bed In Cream - Cleocream-K | Meridian](https://homeeleganceusa.com/products/meridian-furniture-cleo-velvet-king-bed-in-cream-cleocream-k): Meridian Furniture - Cleo Velvet King Bed in Cream - CleoCream-K Enjoy sweet dreams in this beautiful Cleo cream velvet queen size bed. The tall, luxurious
   Updated: 2025-11-25T18:31:17Z
@@ -27981,7 +27981,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-25T15:02:56Z
   Price: $2,859.99 USD
 - [Four Hands Fausto End Table - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-fausto-end-table): Clean and simple, with great impact. Made from beautiful bleached Guanacaste, shapely arches and
-  Updated: 2025-11-25T15:02:57Z
+  Updated: 2025-12-02T23:54:15Z
   Price: $1,952.99 USD
 - [Four Hands Fay Accent Table - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-fay-accent-table): Perfectly sized to keep a favorite book or drink within reach, Black/peach-finished solid marble
   Updated: 2025-11-25T15:02:59Z
