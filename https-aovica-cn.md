@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2025-05-20T11:59:09Z
 - Contact Email: 363305877@qq.com
-- Updated At: 2025-12-02T00:00:51.455Z
+- Updated At: 2025-12-03T00:00:49.054Z
 
 ## Products
 
@@ -75,19 +75,22 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/o34b871g_5eba9edd-80e0-4ca3-a0a5-2b6e09b0f6a7.png?v=1750158054
     Price: $40.00 USD
 - [African Dresses For Women Elegant Polyester 2025 New Muslim Fashion Abayas Dashiki Robe Kaftan Long Maxi Dress Turkish Africa](https://aovica.cn/products/african-dresses-for-women-elegant-polyester-2025-new-muslim-fashion-abayas-dashiki-robe-kaftan-long-maxi-dress-turkish-africa)
-  Updated: 2025-10-17T07:15:43Z
+  Updated: 2025-12-02T07:59:46Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Se6963983653c42bfa182e263eda3e029P.webp?v=1753932517
-  - [几何图形 / XL](https://aovica.cn/products/african-dresses-for-women-elegant-polyester-2025-new-muslim-fashion-abayas-dashiki-robe-kaftan-long-maxi-dress-turkish-africa?variant=44046549516333)
+  - [Yellow / XL](https://aovica.cn/products/african-dresses-for-women-elegant-polyester-2025-new-muslim-fashion-abayas-dashiki-robe-kaftan-long-maxi-dress-turkish-africa?variant=44046549516333)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Se6963983653c42bfa182e263eda3e029P.webp?v=1753932517
     Price: $49.00 USD
-  - [几何图形 / 2XL](https://aovica.cn/products/african-dresses-for-women-elegant-polyester-2025-new-muslim-fashion-abayas-dashiki-robe-kaftan-long-maxi-dress-turkish-africa?variant=44046549549101)
+  - [Yellow / 2XL](https://aovica.cn/products/african-dresses-for-women-elegant-polyester-2025-new-muslim-fashion-abayas-dashiki-robe-kaftan-long-maxi-dress-turkish-africa?variant=44046549549101)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Se6963983653c42bfa182e263eda3e029P.webp?v=1753932517
     Price: $49.00 USD
-  - [几何图形 / 3XL](https://aovica.cn/products/african-dresses-for-women-elegant-polyester-2025-new-muslim-fashion-abayas-dashiki-robe-kaftan-long-maxi-dress-turkish-africa?variant=44046549581869)
+  - [Yellow / 3XL](https://aovica.cn/products/african-dresses-for-women-elegant-polyester-2025-new-muslim-fashion-abayas-dashiki-robe-kaftan-long-maxi-dress-turkish-africa?variant=44046549581869)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Se6963983653c42bfa182e263eda3e029P.webp?v=1753932517
     Price: $49.00 USD
 - [3 Pieces Set Sexy 2025 Summer Spring Fashion Women Set Female Stripe 3/4 Sleeve Shirt Tops And Shorts Suit Matching Outfit](https://aovica.cn/products/3-pieces-set-sexy-2025-summer-spring-fashion-women-set-female-stripe-3-4-sleeve-shirt-tops-and-shorts-suit-matching-outfit)
   Updated: 2025-10-17T07:15:43Z
@@ -1521,11 +1524,11 @@
 - [Shipping Policy](https://aovica.cn/policies/shipping-policy)
   Updated: 2025-11-28T18:38:16+08:00
 - [Refund Policy](https://aovica.cn/policies/refund-policy)
-  Updated: 2025-11-28T18:20:22+08:00
+  Updated: 2025-12-02T09:56:52+08:00
 - [Terms of Service](https://aovica.cn/policies/terms-of-service)
-  Updated: 2025-12-01T22:19:02+08:00
+  Updated: 2025-12-02T15:14:04+08:00
 - [Contact Information](https://aovica.cn/policies/contact-information)
-  Updated: 2025-05-29T14:35:50+08:00
+  Updated: 2025-12-02T10:55:22+08:00
 
 ## Optional
 
