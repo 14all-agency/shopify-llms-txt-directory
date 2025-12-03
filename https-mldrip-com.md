@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-09-24T18:25:07Z
 - Contact Email: shopmegluffy@gmail.com
-- Updated At: 2025-12-02T00:01:17.532Z
+- Updated At: 2025-12-03T00:01:16.850Z
 
 ## Products
 
@@ -3685,7 +3685,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8547B594-35C5-4068-9159-6FC92D2E36E1.jpg?v=1763990006
     Price: €55.99 EUR
 - [B22 Dior](https://mldrip.com/products/b22-dior): Step up your drip with the iconic B22 Dior sneakers — where high fashion collides with streetwear energy. These kicks flex that bold, chunky silhouette everyone’s hyped about, crafted with premium materials that scream quality and style. Whether you’re hitting the city streets or pulling up to the squad, B22 Dior gives you that next-level vibe, turning heads and making moves. Why B22 Dior? Signature Dior craftsmanship with a modern chunky design Breathable, comfy fit for all-day flex Perfect for drip that slaps on and off the field Versatile enough to pair with anything, from fits to casual vibes Upgrade your sneaker game with B22 Dior — cuz you’re not just walking, you’re making a statement.
-  Updated: 2025-12-01T14:57:31Z
+  Updated: 2025-12-02T00:33:49Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -6552,7 +6552,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-1902.png?v=1764024059
     Price: €150.00 EUR
 - [Louis Vuitton Skate](https://mldrip.com/products/lv-skate-sneaker): Pull up in pure heat with the Louis Vuitton Skate Sneaker – where high fashion slides straight into streetwear. Designed for those who flex different, these kicks blend bold LV vibes with classic skate culture. Think chunky silhouette, premium materials, and that iconic monogram flex. Key Features: Luxury-grade leather & suede with LV monogram detailing Thick rubber outsole for max grip and street skater energy Padded collar + cushy insole = elite comfort all day Statement sneaker that turns heads wherever you go Whether you're rocking cargos, jeans, or oversized fits, this pair levels up your style game. Cop ‘em now and walk like you're on a Paris runway... or just flexing on the block. Limited pairs available. Real ones don’t wait.
-  Updated: 2025-11-26T16:44:53Z
+  Updated: 2025-12-02T13:51:06Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -7280,7 +7280,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1753901391129.jpg?v=1764027888
     Price: €100.00 EUR
 - [NOCTA Hot Step 2](https://mldrip.com/products/nocta-hot-step-2-bold-performance-meets-iconic-style): Step into the future with the NOCTA Hot Step 2 – where streetwear attitude meets cutting-edge performance. Co-designed by Drake and Nike, this silhouette pushes the boundaries of design with its futuristic curves, aggressive sole, and premium detailing. Crafted for comfort and built to stand out, the Hot Step 2 features a sculpted midsole with responsive cushioning, breathable mesh overlays, and reflective accents that light up every step. Whether you're hitting the streets or elevating your sneaker rotation, this shoe delivers unmatched swagger and all-day comfort. Sleek, athletic-inspired design Lightweight mesh with premium synthetic overlays Reflective details for night visibility Cushioned midsole for next-level comfort Signature NOCTA branding for an exclusive edge Limited stock – cop yours now before they’re gone.
-  Updated: 2025-11-26T16:45:31Z
+  Updated: 2025-12-02T00:42:36Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -16194,13 +16194,13 @@
   Updated: 2025-11-29T12:47:44Z
   Total Products: 16
 - [Sneakers](https://mldrip.com/collections/sneakers)
-  Updated: 2025-12-01T12:45:51Z
+  Updated: 2025-12-02T12:39:37Z
   Total Products: 43
 - [All](https://mldrip.com/collections/all)
-  Updated: 2025-12-01T12:45:51Z
+  Updated: 2025-12-02T12:39:37Z
   Total Products: 135
 - [Jackets](https://mldrip.com/collections/jackets)
-  Updated: 2025-12-01T12:45:51Z
+  Updated: 2025-12-02T12:39:37Z
   Total Products: 20
 
 ## Blogs
