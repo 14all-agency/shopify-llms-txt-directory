@@ -6,12 +6,12 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-10-13T01:12:45Z
 - Contact Email: info@owalalife.co.nz
-- Updated At: 2025-12-02T00:00:46.925Z
+- Updated At: 2025-12-04T00:00:36.041Z
 
 ## Products
 
 - [Owala SmoothSip Slider Coffe Mug  | NZ](https://www.owalalife.co.nz/products/smoothsip-slider): Owala SmoothSip Slider coffee mugs in two sizes, 355ml & 590ml. Durable stainless steel construction and insulation, keeps drinks hot or cold for longer.
-  Updated: 2025-11-30T20:15:46Z
+  Updated: 2025-12-03T07:18:51Z
   Vendor: Owalalife
   Product Type: SMOOTHSIP SLIDER
   Availability: Available
@@ -61,7 +61,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06752-20ozSmoothsipSliderMoonlitShadow-SC_52a7073b-9e91-4aaf-a2e6-3bbe71967814.png?v=1763515245
     Price: $59.99 NZD
 - [Owala 1185ML Tumbler | NZ](https://www.owalalife.co.nz/products/1185ml-tumbler): Stay hydrated with our 1185ml tumbler with handle! Featuring a removable straw, wide ice-friendly opening, and spill resistance, it's perfect for your busy life.
-  Updated: 2025-11-30T20:14:47Z
+  Updated: 2025-12-02T22:27:10Z
   Vendor: My Store
   Product Type: TUMBLER
   Availability: Available
@@ -107,7 +107,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07200-40-oz.CalmWatersTumbler-SC.png?v=1763504328
     Price: $79.99 NZD
 - [Owala 710ML Tumbler | NZ](https://www.owalalife.co.nz/products/710ml-tumbler): Sip in style with our 710ml tumbler, our insulated stainless steel design will keep your drinks ice-cold or hot for hours. Removable straw & cupholder friendly.
-  Updated: 2025-12-01T00:16:05Z
+  Updated: 2025-12-02T05:54:00Z
   Vendor: My Store
   Product Type: TUMBLER
   Availability: Available
@@ -145,7 +145,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07000-24ozSmelltheRosesTumbler-SC.png?v=1760489241
     Price: $59.99 NZD
 - [Owala Silicone Boot | NZ](https://www.owalalife.co.nz/products/silicone-boot): This silicone bottle boot cover acts like a phone case for your Owala Bottle - protecting it from damage and keeping it looking good as new.
-  Updated: 2025-12-01T16:01:07Z
+  Updated: 2025-12-03T02:01:06Z
   Vendor: My Store
   Product Type: SILICONE BOOT
   Availability: Available
@@ -227,7 +227,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/blue-removebg-preview.png?v=1763503039
     Price: $19.99 NZD
 - [Owala FreeSip Twist Bottle | NZ](https://www.owalalife.co.nz/products/freesip-twist): FreeSip Twist, available in NZ. Holds hot, cold, and carbonated drinks. Stainless steel, leak proof twist lid, and 2-in-1 straw design. Shop now!
-  Updated: 2025-12-01T23:01:05Z
+  Updated: 2025-12-03T21:49:47Z
   Vendor: Owalalife
   Product Type: 
   Availability: Available
@@ -293,7 +293,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06506_-_24oz_FreeSip_Twist_Sunny_Daze_Yellow_-_SC.png?v=1763516659
     Price: $54.99 NZD
 - [Owala FreeSip Water Bottle | NZ](https://www.owalalife.co.nz/products/freesip): Shop Owala FreeSip water bottles in NZ. Leak-proof, reusable, BPA-free plastic, with sip or swig 2 in 1 straw. Perfect for gym, work & everyday hydration.
-  Updated: 2025-12-01T23:55:56Z
+  Updated: 2025-12-03T23:38:41Z
   Vendor: My Store
   Product Type: FREESIP
   Availability: Available
@@ -391,7 +391,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/Water_in_the_Desert.png?v=1760489419
     Price: $74.99 NZD
   - [945ML / 32oz / CANDY COATED](https://www.owalalife.co.nz/products/freesip?variant=46919377059997)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06728_-_40oz_Candy_Coated_-_SC.png?v=1763425278
     Price: $74.99 NZD
   - [945ML / 32oz / SUNNY DAZE](https://www.owalalife.co.nz/products/freesip?variant=46919377158301)
@@ -502,25 +502,25 @@
 ## Collections
 
 - [Owala's Best Sellers | Bottles, Tumblers & Accessories | NZ](https://www.owalalife.co.nz/collections/best-selling-products): Shop Owala Best Sellers NZ - our most popular water bottles, tumblers & accessories. Fan favourites and show stoppers, stylish & durable hydration.
-  Updated: 2025-12-01T12:11:16Z
+  Updated: 2025-12-03T12:08:39Z
   Total Products: 28
 - [Owala Accessories NZ | Bottle Boots, Brushes & More](https://www.owalalife.co.nz/collections/accessories): Shop Owala accessories in NZ, silicone bottle boots, 2-in-1 brushes & pet bowls. Durable, practical add-ons to protect, clean & care for your bottles.
-  Updated: 2025-12-01T12:11:16Z
+  Updated: 2025-12-03T12:08:39Z
   Total Products: 5
 - [Shop Owala Drinkware | FreeSip, Twist, Coffee Mugs & Tumblers | NZ](https://www.owalalife.co.nz/collections/drinkware): Shop Owala Drinkware items in NZ - FreeSip, FreeSip Twist, SmoothSip Slider & Kids bottles. Stylish, reusable, BPA-free plastic bottles for everyday hydration.
-  Updated: 2025-12-01T12:11:16Z
+  Updated: 2025-12-03T12:08:39Z
   Total Products: 10
 - [Owala Tumblers | NZ](https://www.owalalife.co.nz/collections/tumblers): Shop Owala Tumblers NZ, 710ml & 1185ml insulated tumblers for hot or cold drinks. Cupholder friendly, perfect for coffee, tea, smoothies & water. Available now
-  Updated: 2025-11-30T20:14:48Z
+  Updated: 2025-12-02T12:11:34Z
   Total Products: 2
 - [Owala Kid's Products | NZ](https://www.owalalife.co.nz/collections/kids-products): Shop Owala Kids FreeSip Bottles & Tumblers in NZ, BPA free plastic & insulated stainless steel. Fun, durable, spill-resistant drinkware for life's adventures.
   Updated: 2025-11-30T20:15:08Z
   Total Products: 8
 - [Shop All Owala | Bottles, Tumblers & Accessories | NZ](https://www.owalalife.co.nz/collections/shop-all): Explore all Owala bottles & accessories in NZ, FreeSip, FreeSip Twist, SmoothSip Slider, Kids items & more. Stylish, durable hydration for every lifestyle.
-  Updated: 2025-12-01T12:11:16Z
+  Updated: 2025-12-03T12:08:39Z
   Total Products: 13
 - [Collection set up for discounts - All products not on sale](https://www.owalalife.co.nz/collections/collection-set-up-for-discounts-all-products-not-on-sale): Can only use discount on full price items
-  Updated: 2025-12-01T12:11:16Z
+  Updated: 2025-12-03T12:08:39Z
   Total Products: 27
 
 ## Store Pages
