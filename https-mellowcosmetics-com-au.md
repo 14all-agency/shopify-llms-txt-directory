@@ -1,12 +1,15 @@
 # Mellow Cosmetics (https://mellowcosmetics.com.au)
 
+> Mellow Cosmetics offers high-quality, vegan, and cruelty-free makeup designed to make you feel good. Shop long-wearing matte lipsticks, matte lip paints, eyeliners, blushes, and eyeshadows online. Our lipsticks and lip paints are infused with Vitamin E for a non-drying matte finish, while our lip pencils are waterproof and transfer-proof. We are one of the top 5 lipstick and lip paint brands in Australia, loved by customers worldwide.
+
 - Domain: https://mellowcosmetics.com.au
 - Locale: en
 - Currency: AUD
 - Timezone: Australia/Brisbane
 - Created At: 2017-12-20T22:59:48Z
 - Contact Email: info@mellowcosmetics.com
-- Updated At: 2025-12-04T07:28:53.175Z
+- Address: 18/71 Jijaws Street Sumner, QLD, Australia 4074
+- Updated At: 2025-12-04T07:36:49.814Z
 
 ## Products
 
