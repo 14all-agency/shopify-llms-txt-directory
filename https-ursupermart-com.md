@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-12-02T00:01:13.336Z
+- Updated At: 2025-12-04T00:00:57.913Z
 
 ## Products
 
@@ -1046,7 +1046,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/rustic-lift-top-coffee-table-setup.webp?v=1728436010
     Price: $89.95 USD
 - [Crossbody Bag Quilted Small for Hands-Free Style](https://ursupermart.com/products/crossbody-bag-quilted-small-hands-free-style): This stylish quilted crossbody bag offers hands-free convenience and secure storage for your daily essentials; get yours for effortless style and comfort on the go.
-  Updated: 2025-11-26T19:10:01Z
+  Updated: 2025-12-02T07:17:43Z
   Vendor: S1B|S1|S1B|Meta - Trendsi**-UP
   Product Type: Sling Backpack
   Availability: Available
@@ -1937,7 +1937,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-bracelet-diamond-wristwear.webp?v=1736043334
   Price: $74.95 USD
 - [Cozy Thick Bottom Fur Trim Slippers for Winter](https://ursupermart.com/products/weeboo-thick-bottom-fur-trim-snow-slippers-1): Discover ultimate comfort with our Thick Bottom Fur Trim Snow Slippers. Perfect for lounging or errands, these stylish slippers keep your feet warm.
-  Updated: 2025-11-26T10:59:04Z
+  Updated: 2025-12-03T02:43:02Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Slippers
   Availability: Available
@@ -1982,7 +1982,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2025-12-01T17:09:57Z
+  Updated: 2025-12-03T22:46:40Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -2068,7 +2068,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/trendy-plaid-winter-coat-street-style-fashion.webp?v=1737920110
     Price: $44.95 USD
   - [Peacock  Blue / XL](https://ursupermart.com/products/plaid-wool-coats-collection?variant=41504043040858)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/trendy-plaid-winter-coat-street-style-fashion.webp?v=1737920110
     Price: $49.95 USD
   - [Peacock  Blue / 2XL](https://ursupermart.com/products/plaid-wool-coats-collection?variant=41504043073626)
@@ -16001,7 +16001,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-workout-set-blue-seamless-shorts.webp?v=1744936700
     Price: $36.95 USD
 - [Formal Dresses – Elegant Styles for Every Occasion](https://ursupermart.com/products/formal-dresses-one-shoulder-sequin): Discover stunning formal dresses for every occasion. Shop one-shoulder, sequin, and long formal dresses in trending colors like royal blue and dusty pink.
-  Updated: 2025-11-26T11:32:55Z
+  Updated: 2025-12-03T19:49:45Z
   Vendor: S1B|Trendsi
   Product Type: Prom Dress
   Availability: Available
@@ -17188,7 +17188,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/249251441816.jpg?v=1746982058
     Price: $32.95 USD
 - [Beard growth kit for a thicker, fuller, healthy beard.](https://ursupermart.com/products/beard-growth-kit-thicker-fuller-healthy-beard-care): Beard growth kit helps you achieve a fuller, thicker, and healthier beard, addressing patchiness and dryness for a confident, impressive look; get yours today!
-  Updated: 2025-11-26T11:35:22Z
+  Updated: 2025-12-03T03:26:41Z
   Vendor: Make | CJ
   Product Type: Beard growth kit
   Availability: Available
@@ -17232,7 +17232,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/70964122881.jpg?v=1746983446
     Price: $44.95 USD
 - [Slotted cooking spoon: Multi-use tool for easy cooking](https://ursupermart.com/products/slotted-cooking-spoon-durable-multi-use-tool): Slotted cooking spoon: This durable, multi-use tool simplifies cooking by mashing, stirring, and straining, making meal prep effortless and organized. Shop now!
-  Updated: 2025-12-01T07:25:26Z
+  Updated: 2025-12-02T04:25:26Z
   Vendor: Make | CJ
   Product Type: Slotted cooking spoon
   Availability: Available
@@ -18066,7 +18066,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/multiway-dress-light-blue-halter-style.webp?v=1752518992
     Price: $47.95 USD
 - [Magnetic Phone Mount - Secure & Easy Car Use](https://ursupermart.com/products/magnetic-phone-mount-car-dashboard-holder): Secure your phone with our top-rated magnetic car phone mount.  Enjoy hands-free navigation & easy installation – no more shaky drives!
-  Updated: 2025-11-26T11:37:31Z
+  Updated: 2025-12-02T03:26:31Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Foldable Magnetic Car Phone Mount
   Availability: Available
@@ -21547,7 +21547,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2025-12-01T11:26:41Z
+  Updated: 2025-12-03T10:26:45Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -22816,7 +22816,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/desktop-electric-heater-500w-features.webp?v=1757031263
   Price: $34.95 USD
 - [Portable Dryer for Small Spaces UV Sterilization](https://ursupermart.com/products/portable-dryer-for-small-spaces-uv-sterilization): This portable dryer offers fast, UV-clean drying for your clothes in any space with multiple modes and timers; get yours for fresh, hygienic garments today!
-  Updated: 2025-11-29T19:26:43Z
+  Updated: 2025-12-03T00:26:52Z
   Vendor: S1B|S1|CJ
   Product Type: Portable clothes dryer
   Availability: Available
@@ -23423,7 +23423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/callus-remover-kit-with-usb-cable.webp?v=1758555078
     Price: $37.95 USD
 - [Tactical bags: Durable 85L duffel for military & outdoor](https://ursupermart.com/products/tactical-bags-durable-85l-military-duffel-outdoor): Tactical bags built for adventure! This 85L military duffel offers 3-way carry, durable 600D nylon, and organized storage for all your gear. Get yours today!
-  Updated: 2025-11-28T03:25:26Z
+  Updated: 2025-12-03T07:26:46Z
   Vendor: S1B|S1|CJ
   Product Type: Tactical Duffel Bag
   Availability: Available
@@ -23433,7 +23433,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gym-duffel-bag-black-camo-strap.webp?v=1758555738
     Price: $39.95 USD
   - [Camo](https://ursupermart.com/products/tactical-bags-durable-85l-military-duffel-outdoor?variant=42252397281370)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gym-duffel-bag-tan-camo-style.webp?v=1758555875
     Price: $39.95 USD
 - [Massage Gun for Deep Tissue Relief & Fast Recovery](https://ursupermart.com/products/deep-tissue-massage-gun-for-muscle-recovery): This massage gun provides deep tissue relief and muscle recovery, easing soreness with 8 heads and a 12-hour battery. Get yours for faster recovery!
@@ -23694,7 +23694,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sleep-patch-natural-ingredients-pack.webp?v=1758759422
     Price: $44.95 USD
 - [RFID Wallets for Men Slim Secure Leather Card Holder](https://ursupermart.com/products/rfid-wallets-for-men-slim-secure-leather-card-holder): RFID wallets for men provide ultimate security for your credit cards with a slim, genuine leather design; protect your data and stay organized, buy now!
-  Updated: 2025-11-28T03:25:29Z
+  Updated: 2025-12-03T23:26:57Z
   Vendor: S1B|S1|CJ
   Product Type: RFID blocking wallet
   Availability: Available
@@ -23704,7 +23704,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/rfid-leather-wallet-black-minimalist.webp?v=1758908891
     Price: $29.95 USD
   - [Brown](https://ursupermart.com/products/rfid-wallets-for-men-slim-secure-leather-card-holder?variant=42252486180954)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/rfid-leather-wallet-light-brown-slim.webp?v=1758908891
     Price: $29.95 USD
   - [Coffee](https://ursupermart.com/products/rfid-wallets-for-men-slim-secure-leather-card-holder?variant=42252486213722)
@@ -25446,7 +25446,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/heart-shoulder-bag-lavender-fluffy-style.webp?v=1758055294
     Price: $34.95 USD
 - [Moon Necklace Glowing Crescent Pendant for Unique Style](https://ursupermart.com/products/moon-necklace-glowing-crescent-pendant-unique-style): This moon necklace features a glowing crescent pendant and orb charm, perfect for expressing your unique style and adding magic to any look. Get yours today!
-  Updated: 2025-11-26T11:54:23Z
+  Updated: 2025-12-03T07:26:53Z
   Vendor: S1B|@S1|CJ
   Product Type: Glowing Crescent Moon Pendant Necklace
   Availability: Available
@@ -26127,7 +26127,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/MeshPanelHigh-WaistActiveLeggings-Red.webp?v=1758892939
     Price: $29.95 USD
 - [Wart Remover Cream for Skin Tags & Moles. Clear Skin Fast.](https://ursupermart.com/products/wart-remover-cream-skin-tags-moles-fast-results): Wart Remover cream effectively eliminates skin tags, warts, and moles for clearer, smoother skin in just 7 days, suitable for all skin types. Get yours today!
-  Updated: 2025-11-29T10:26:41Z
+  Updated: 2025-12-03T04:26:30Z
   Vendor: S1B|S1|@S1B|UrSuperMart
   Product Type: Skin cream
   Availability: Available
@@ -28185,7 +28185,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/satchel-handbag-red-leather-on-table.webp?v=1760191592
     Price: $68.97 USD
 - [Women Handbags Stylish Crocodile Detachable Shoulder Bag](https://ursupermart.com/products/women-handbags-stylish-crocodile-detachable-shoulder-bag): Women handbags featuring a luxurious crocodile print and detachable shoulder strap provide secure storage and versatile style for any occasion. Shop today!
-  Updated: 2025-11-26T11:57:04Z
+  Updated: 2025-12-02T06:00:06Z
   Vendor: S1B|S1|Trendsi
   Product Type: crocodile embossed handbag
   Availability: Available
@@ -29483,6 +29483,98 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/efficient-space-heater-wall-mounted-white.webp?v=1763325871
     Price: $32.95 USD
+- [Women's High Waist Shapewear Smooths & Lifts Your Figure](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper): Women's high waist shapewear instantly smooths your tummy and lifts your butt, creating a confident, sleek silhouette under any outfit. Shop now for your perfect look!
+  Updated: 2025-12-03T08:03:56Z
+  Vendor: S1B|S1|Dsers
+  Product Type: Shapewear set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-premium-models-showcase.webp?v=1764706847
+  - [Black / S](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785016410)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-black-flatlay.webp?v=1764705805
+    Price: $21.95 USD
+  - [Black / M](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785344090)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-black-flatlay.webp?v=1764705805
+    Price: $21.95 USD
+  - [Black / L](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785376858)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-black-flatlay.webp?v=1764705805
+    Price: $21.95 USD
+  - [Black / XL](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785409626)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-black-flatlay.webp?v=1764705805
+    Price: $21.95 USD
+  - [Black / XXL](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785442394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-black-flatlay.webp?v=1764705805
+    Price: $21.95 USD
+  - [Black / XXXL](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785081946)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-black-flatlay.webp?v=1764705805
+    Price: $21.95 USD
+  - [Coffee / S](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785573466)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-coffee-lace-detail.webp?v=1764705805
+    Price: $21.95 USD
+  - [Coffee / M](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785245786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-coffee-lace-detail.webp?v=1764705805
+    Price: $21.95 USD
+  - [Coffee / L](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785147482)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-coffee-lace-detail.webp?v=1764705805
+    Price: $21.95 USD
+  - [Coffee / XL](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785213018)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-coffee-lace-detail.webp?v=1764705805
+    Price: $21.95 USD
+  - [Coffee / XXL](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785180250)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-coffee-lace-detail.webp?v=1764705805
+    Price: $21.95 USD
+  - [Coffee / XXXL](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785049178)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-coffee-lace-detail.webp?v=1764705805
+    Price: $21.95 USD
+  - [Beige / S](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785311322)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-beige-flatlay.webp?v=1764705805
+    Price: $21.95 USD
+  - [Beige / M](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785475162)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-beige-flatlay.webp?v=1764705805
+    Price: $21.95 USD
+  - [Beige / L](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785507930)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-beige-flatlay.webp?v=1764705805
+    Price: $21.95 USD
+  - [Beige / XL](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785540698)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-beige-flatlay.webp?v=1764705805
+    Price: $21.95 USD
+  - [Beige / XXL](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785278554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-beige-flatlay.webp?v=1764705805
+    Price: $21.95 USD
+  - [Beige / XXXL](https://ursupermart.com/products/womens-high-waist-shapewear-smooths-lifts-your-figure-body-shaper?variant=42505785114714)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waisted-butt-lifting-shapewear-beige-flatlay.webp?v=1764705805
+    Price: $21.95 USD
+- [Snowflake Jewelry Set: Sparkle & Shine This Winter](https://ursupermart.com/products/snowflake-jewelry-set-winter-sparkle-gold-toned-necklace-earrings): This elegant snowflake jewelry set, featuring a gold-toned necklace and matching earrings with clear stones, adds festive sparkle to any winter look. Shop now!
+  Updated: 2025-12-03T12:55:44Z
+  Vendor: S1B|S1|CJ
+  Product Type: Jewelry set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-snowflake-necklace-earring-set-duo.webp?v=1764718773
+  - [Gold](https://ursupermart.com/products/snowflake-jewelry-set-winter-sparkle-gold-toned-necklace-earrings?variant=42506095067226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-snowflake-necklace-earring-set-classic.webp?v=1764718671
+    Price: $14.95 USD
+  - [Silver](https://ursupermart.com/products/snowflake-jewelry-set-winter-sparkle-gold-toned-necklace-earrings?variant=42506095099994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-snowflake-necklace-earring-set-silver-crystal.webp?v=1764718671
+    Price: $14.95 USD
 - [Christmas Bracelet for Women - Festive Holiday Charms](https://ursupermart.com/products/christmas-bracelet-for-women-festive-holiday-charms): Christmas bracelet with colorful holiday charms adds festive cheer to any outfit. Express your holiday spirit and get yours today!
   Updated: 2025-11-26T11:59:25Z
   Vendor: S1B|S1|CJ
@@ -29546,6 +29638,36 @@
   - [Mustard / 3XL](https://ursupermart.com/products/womens-double-breasted-overcoat-winter-stylish-warm?variant=42506333552730)
     Availability: Available
     Price: $49.95 USD
+- [Fur Trim Poncho for Women - Cozy & Elegant Knit Wrap](https://ursupermart.com/products/fur-trim-poncho-for-women-cozy-elegant-knit-wrap-style): This elegant fur trim poncho offers luxurious warmth and unparalleled comfort, effortlessly elevating your style for any occasion. Discover yours today!
+  Updated: 2025-12-03T23:20:50Z
+  Vendor: S1B|S1|CJ
+  Product Type: knit poncho
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-fur-trimmed-knit-poncho-color-chart.webp?v=1764803244
+  - [Cream](https://ursupermart.com/products/fur-trim-poncho-for-women-cozy-elegant-knit-wrap-style?variant=42506338664538)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-fur-trimmed-knit-poncho-cream.webp?v=1764803244
+    Price: $47.95 USD
+  - [Black](https://ursupermart.com/products/fur-trim-poncho-for-women-cozy-elegant-knit-wrap-style?variant=42506338697306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-fur-trimmed-knit-poncho-black.webp?v=1764803244
+    Price: $47.95 USD
+  - [Brown](https://ursupermart.com/products/fur-trim-poncho-for-women-cozy-elegant-knit-wrap-style?variant=42506338730074)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-fur-trimmed-knit-poncho-brown.webp?v=1764803244
+    Price: $47.95 USD
+  - [Gray](https://ursupermart.com/products/fur-trim-poncho-for-women-cozy-elegant-knit-wrap-style?variant=42506338762842)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-fur-trimmed-knit-poncho-gray.webp?v=1764803244
+    Price: $47.95 USD
+  - [Taupe](https://ursupermart.com/products/fur-trim-poncho-for-women-cozy-elegant-knit-wrap-style?variant=42506338795610)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-fur-trimmed-knit-poncho-taupe.webp?v=1764803244
+    Price: $47.95 USD
+  - [Burgundy](https://ursupermart.com/products/fur-trim-poncho-for-women-cozy-elegant-knit-wrap-style?variant=42506338828378)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-fur-trimmed-knit-poncho-burgundy.webp?v=1764803244
+    Price: $47.95 USD
 - [Santa Costumes for Adults - Complete Professional Set](https://ursupermart.com/products/santa-costumes-for-adults-complete-professional): Santa costumes for adults: this complete 7-piece set brings joy with vibrant red and faux fur trim, perfect for any event. Spread cheer, shop now!
   Updated: 2025-11-26T11:59:33Z
   Vendor: @S1B|S1|CJ
@@ -31020,7 +31142,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ribbed-knit-jumpsuit-soft-peach-fitted-look.webp?v=1764261135
     Price: $34.95 USD
 - [Men's Biodegradable Coat Lightweight Wrinkle-Free Style](https://ursupermart.com/products/mens-biodegradable-coat-lightweight-wrinkle-free-style-for-men): Men's biodegradable coat offers a slim-fit, wrinkle-resistant style for a sharp, eco-conscious look. Discover your perfect sustainable overcoat today!
-  Updated: 2025-12-01T21:49:29Z
+  Updated: 2025-12-02T07:53:17Z
   Vendor: S1B|S1|CJ
   Product Type: Men's overcoat
   Availability: Available
@@ -31782,7 +31904,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-insulated-jacket-green-black.webp?v=1763558045
     Price: $59.95 USD
 - [Winter Parka for Women Warm Fur Hooded Stylish Coat](https://ursupermart.com/products/women-fur-hooded-warm-winter-parka-coat-stylish): Winter Parka for women: Stay warm and stylish in this versatile, fur-hooded coat with secure pockets and an adjustable waist for a perfect fit. Shop today!
-  Updated: 2025-12-01T07:30:40Z
+  Updated: 2025-12-03T09:26:41Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Winter Parka
   Availability: Available
@@ -35118,7 +35240,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-pea-coat-camel-urban-style.webp?v=1763242254
     Price: $54.95 USD
 - [Women Coats: Warm & Stylish Belted Winter Outerwear](https://ursupermart.com/products/women-coats-warm-stylish-belted-winter-outerwear): Women coats provide stylish warmth with a flattering belted design, perfect for any occasion. Stay cozy and confident all winter long; find your perfect fit and color today!
-  Updated: 2025-11-28T13:26:52Z
+  Updated: 2025-12-02T07:29:36Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Coat
   Availability: Available
@@ -36567,6 +36689,212 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-red-velvet-dress-holiday-twirl.webp?v=1763520596
     Price: $54.95 USD
+- [Women's Wool Blend Hooded Coat - Warm Hooded Style with Pockets](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets): This women's  Wool Blend Hooded Coat offers warmth, style, and secure pockets for any occasion. Feel confident and shop this versatile hooded coat today!
+  Updated: 2025-12-03T09:24:06Z
+  Vendor: S1B|S1|CJ
+  Product Type: Women's coat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-snow-scene.webp?v=1764715814
+  - [Ant Dark Gray / XS](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055157850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style.webp?v=1764715814
+    Price: $64.95 USD
+  - [Ant Dark Gray / S](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055092314)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style.webp?v=1764715814
+    Price: $64.95 USD
+  - [Ant Dark Gray / M](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055059546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style.webp?v=1764715814
+    Price: $64.95 USD
+  - [Ant Dark Gray / L](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055026778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style.webp?v=1764715814
+    Price: $64.95 USD
+  - [Ant Dark Gray / XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055125082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style.webp?v=1764715814
+    Price: $64.95 USD
+  - [Ant Dark Gray / 2XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582054895706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style.webp?v=1764715814
+    Price: $64.95 USD
+  - [Ant Dark Gray / 3XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582054928474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style.webp?v=1764715814
+    Price: $71.95 USD
+  - [Ant Dark Gray / 4XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582054961242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style.webp?v=1764715814
+    Price: $71.95 USD
+  - [Ant Dark Gray / 5XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582054994010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style.webp?v=1764715814
+    Price: $71.95 USD
+  - [Ant Wine Red / XS](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055452762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-red-front-look.webp?v=1764715814
+    Price: $64.95 USD
+  - [Ant Wine Red / S](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055387226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-red-front-look.webp?v=1764715814
+    Price: $64.95 USD
+  - [Ant Wine Red / M](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055354458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-red-front-look.webp?v=1764715814
+    Price: $64.95 USD
+  - [Ant Wine Red / L](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055321690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-red-front-look.webp?v=1764715814
+    Price: $64.95 USD
+  - [Ant Wine Red / XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055419994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-red-front-look.webp?v=1764715814
+    Price: $64.95 USD
+  - [Ant Wine Red / 2XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055190618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-red-front-look.webp?v=1764715814
+    Price: $64.95 USD
+  - [Ant Wine Red / 3XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055223386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-red-front-look.webp?v=1764715814
+    Price: $71.95 USD
+  - [Ant Wine Red / 4XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055256154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-red-front-look.webp?v=1764715814
+    Price: $71.95 USD
+  - [Ant Wine Red / 5XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055288922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-red-front-look.webp?v=1764715814
+    Price: $71.95 USD
+  - [Black / S](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055682138)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-black-front-view.webp?v=1764715814
+    Price: $64.95 USD
+  - [Black / M](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055649370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-black-front-view.webp?v=1764715814
+    Price: $64.95 USD
+  - [Black / L](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055616602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-black-front-view.webp?v=1764715814
+    Price: $64.95 USD
+  - [Black / XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055714906)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-black-front-view.webp?v=1764715814
+    Price: $64.95 USD
+  - [Black / 2XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055485530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-black-front-view.webp?v=1764715814
+    Price: $64.95 USD
+  - [Black / 3XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055518298)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-black-front-view.webp?v=1764715814
+    Price: $71.95 USD
+  - [Black / 4XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055551066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-black-front-view.webp?v=1764715814
+    Price: $71.95 USD
+  - [Black / 5XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055583834)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-black-front-view.webp?v=1764715814
+    Price: $71.95 USD
+  - [Light Gray / XS](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582056009818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style_8ace7da2-b48c-422c-bedf-4035d4b6308c.webp?v=1764715814
+    Price: $64.95 USD
+  - [Light Gray / S](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055944282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style_8ace7da2-b48c-422c-bedf-4035d4b6308c.webp?v=1764715814
+    Price: $64.95 USD
+  - [Light Gray / M](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055911514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style_8ace7da2-b48c-422c-bedf-4035d4b6308c.webp?v=1764715814
+    Price: $64.95 USD
+  - [Light Gray / L](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055878746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style_8ace7da2-b48c-422c-bedf-4035d4b6308c.webp?v=1764715814
+    Price: $64.95 USD
+  - [Light Gray / XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055977050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style_8ace7da2-b48c-422c-bedf-4035d4b6308c.webp?v=1764715814
+    Price: $64.95 USD
+  - [Light Gray / 2XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055747674)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style_8ace7da2-b48c-422c-bedf-4035d4b6308c.webp?v=1764715814
+    Price: $64.95 USD
+  - [Light Gray / 3XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055780442)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style_8ace7da2-b48c-422c-bedf-4035d4b6308c.webp?v=1764715814
+    Price: $71.95 USD
+  - [Light Gray / 4XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055813210)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style_8ace7da2-b48c-422c-bedf-4035d4b6308c.webp?v=1764715814
+    Price: $71.95 USD
+  - [Light Gray / 5XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582055845978)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-grey-front-style_8ace7da2-b48c-422c-bedf-4035d4b6308c.webp?v=1764715814
+    Price: $71.95 USD
+  - [Navy Blue / XS](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582056304730)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-navy-front-style.webp?v=1764715814
+    Price: $64.95 USD
+  - [Navy Blue / S](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582056239194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-navy-front-style.webp?v=1764715814
+    Price: $64.95 USD
+  - [Navy Blue / M](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582056206426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-navy-front-style.webp?v=1764715814
+    Price: $64.95 USD
+  - [Navy Blue / L](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582056173658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-navy-front-style.webp?v=1764715814
+    Price: $64.95 USD
+  - [Navy Blue / XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582056271962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-navy-front-style.webp?v=1764715814
+    Price: $64.95 USD
+  - [Navy Blue / 2XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582056042586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-navy-front-style.webp?v=1764715814
+    Price: $64.95 USD
+  - [Navy Blue / 3XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582056075354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-navy-front-style.webp?v=1764715814
+    Price: $71.95 USD
+  - [Navy Blue / 4XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582056108122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-navy-front-style.webp?v=1764715814
+    Price: $71.95 USD
+  - [Navy Blue / 5XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582056140890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-navy-front-style.webp?v=1764715814
+    Price: $71.95 USD
+  - [Plush Black / XS](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582056599642)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-black-lined-style.webp?v=1764715814
+    Price: $64.95 USD
+  - [Plush Black / S](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582056534106)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-black-lined-style.webp?v=1764715814
+    Price: $64.95 USD
+  - [Plush Black / M](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582056501338)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-black-lined-style.webp?v=1764715814
+    Price: $64.95 USD
+  - [Plush Black / L](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582056468570)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-black-lined-style.webp?v=1764715814
+    Price: $64.95 USD
+  - [Plush Black / XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582056566874)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-black-lined-style.webp?v=1764715814
+    Price: $64.95 USD
+  - [Plush Black / 2XL](https://ursupermart.com/products/womens-wool-blend-hooded-zipper-coat-warm-style-with-pockets?variant=42582056337498)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-blend-hooded-coat-black-lined-style.webp?v=1764715814
+    Price: $64.95 USD
 - [Zipper Front Shapewear Bodysuit Easy On Off Smooths](https://ursupermart.com/products/zipper-front-shapewear-bodysuit-easy-on-off-smooth-figure): Zipper front shapewear bodysuit instantly sculpts your figure for a smoother, confident look. Enjoy easy on/off comfort and versatile style; shop now!
   Updated: 2025-11-28T06:22:00Z
   Vendor: S1B|S1|CJ
@@ -36854,6 +37182,238 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/silicone-utensil-holder-red-single.webp?v=1764115722
     Price: $1.00 USD
+- [Gold Leverback Earrings - Glittery Opal for Women](https://ursupermart.com/products/gold-leverback-earrings-glittery-opal-for-women-sparkly-fashion): Gold leverback earrings add a touch of sparkly glamour to any outfit, offering secure, comfortable wear for all occasions; shop now for your perfect pair!
+  Updated: 2025-12-03T20:59:21Z
+  Vendor: S1B|S1|CJ
+  Product Type: Leverback Earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/02c9ad4b-b56e-4104-8b0f-801737fd3710.jpg?v=1763752082
+  - [Navy Blue Opal](https://ursupermart.com/products/gold-leverback-earrings-glittery-opal-for-women-sparkly-fashion?variant=42582311895130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/opal-earrings-iridescent-premium-gold-dangle-radiant.webp?v=1764791495
+    Price: $0.75 USD
+  - [Petal Pink Opal](https://ursupermart.com/products/gold-leverback-earrings-glittery-opal-for-women-sparkly-fashion?variant=42582311927898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/opal-earrings-iridescent-glitter-leverback-dangle-gold-petal-pink.webp?v=1764792649
+    Price: $0.75 USD
+  - [Mocha Glow Opal](https://ursupermart.com/products/gold-leverback-earrings-glittery-opal-for-women-sparkly-fashion?variant=42582311960666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/opal-earrings-iridescent-glitter-leverback-dangle-gold-mocha-glow.webp?v=1764792582
+    Price: $0.75 USD
+  - [Lemon Burst Opal](https://ursupermart.com/products/gold-leverback-earrings-glittery-opal-for-women-sparkly-fashion?variant=42582311993434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/opal-earrings-iridescent-glitter-leverback-dangle-gold-lemon-burst.webp?v=1764792400
+    Price: $0.75 USD
+  - [Sky Blue Opal](https://ursupermart.com/products/gold-leverback-earrings-glittery-opal-for-women-sparkly-fashion?variant=42582312026202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/opal-earrings-iridescent-glitter-leverback-dangle-gold-sky-blue.webp?v=1764792303
+    Price: $0.75 USD
+  - [Snow Crystal Opal](https://ursupermart.com/products/gold-leverback-earrings-glittery-opal-for-women-sparkly-fashion?variant=42582312058970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/opal-earrings-iridescent-glitter-leverback-dangle-gold-snow-crystal.webp?v=1764792166
+    Price: $0.75 USD
+  - [Galaxy Opal](https://ursupermart.com/products/gold-leverback-earrings-glittery-opal-for-women-sparkly-fashion?variant=42582312124506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/opal-earrings-iridescent-glitter-leverback-dangle-gold-galaxy-black.webp?v=1764792789
+    Price: $0.75 USD
+  - [Bright Pink Opal](https://ursupermart.com/products/gold-leverback-earrings-glittery-opal-for-women-sparkly-fashion?variant=42582312157274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/opal-earrings-iridescent-glitter-leverback-dangle-gold-rose-pink.webp?v=1764792879
+    Price: $0.75 USD
+  - [Lavender Opal](https://ursupermart.com/products/gold-leverback-earrings-glittery-opal-for-women-sparkly-fashion?variant=42582312190042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/opal-earrings-iridescent-glitter-leverback-dangle-gold-lavender-opal.webp?v=1764792984
+    Price: $0.75 USD
+  - [Teal Opal](https://ursupermart.com/products/gold-leverback-earrings-glittery-opal-for-women-sparkly-fashion?variant=42582312222810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/opal-earrings-iridescent-luxury-teal-gold-dangle.webp?v=1764791611
+    Price: $0.75 USD
+- [Teardrop Gemstone Ring Gold Stainless Steel Many Colors](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant): Teardrop gemstone rings add a vibrant pop of color with a gold-toned band, offering affordable luxury to elevate your style. Express yourself and shop today!
+  Updated: 2025-12-03T22:22:28Z
+  Vendor: S1B|S1|CJ
+  Product Type: fashion rings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-set.webp?v=1764799360
+  - [Champagne / No 10](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582323462234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-smoky.webp?v=1764799514
+    Price: $0.75 USD
+  - [Champagne / No 6](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582323495002)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-smoky.webp?v=1764799514
+    Price: $0.75 USD
+  - [Champagne / No 7](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582323527770)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-smoky.webp?v=1764799514
+    Price: $0.75 USD
+  - [Champagne / No 8](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582323560538)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-smoky.webp?v=1764799514
+    Price: $0.75 USD
+  - [Champagne / No 9](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582323593306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-smoky.webp?v=1764799514
+    Price: $0.75 USD
+  - [Emerald Green / No 10](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582323626074)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-emerald.webp?v=1764799514
+    Price: $0.75 USD
+  - [Emerald Green / No 6](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582323658842)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-emerald.webp?v=1764799514
+    Price: $0.75 USD
+  - [Emerald Green / No 7](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582323691610)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-emerald.webp?v=1764799514
+    Price: $0.75 USD
+  - [Emerald Green / No 8](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582323724378)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-emerald.webp?v=1764799514
+    Price: $0.75 USD
+  - [Emerald Green / No 9](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582323757146)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-emerald.webp?v=1764799514
+    Price: $0.75 USD
+  - [Blush Pink / No 10](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582323789914)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-pink.webp?v=1764799597
+    Price: $0.75 USD
+  - [Blush Pink / No 6](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582323822682)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-pink.webp?v=1764799597
+    Price: $0.75 USD
+  - [Blush Pink / No 7](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582323855450)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-pink.webp?v=1764799597
+    Price: $0.75 USD
+  - [Blush Pink / No 8](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582323888218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-pink.webp?v=1764799597
+    Price: $0.75 USD
+  - [Blush Pink / No 9](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582323920986)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-pink.webp?v=1764799597
+    Price: $0.75 USD
+  - [Ruby Red / No 10](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582323953754)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-red-size.webp?v=1764799554
+    Price: $0.75 USD
+  - [Ruby Red / No 6](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582323986522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-red-size.webp?v=1764799554
+    Price: $0.75 USD
+  - [Ruby Red / No 7](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324019290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-red-size.webp?v=1764799554
+    Price: $0.75 USD
+  - [Ruby Red / No 8](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324052058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-red-size.webp?v=1764799554
+    Price: $0.75 USD
+  - [Ruby Red / No 9](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324084826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-red-size.webp?v=1764799554
+    Price: $0.75 USD
+  - [Ocean Blue Topaz / No 10](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324117594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-blue-oval.webp?v=1764799514
+    Price: $0.75 USD
+  - [Ocean Blue Topaz / No 6](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324150362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-blue-oval.webp?v=1764799514
+    Price: $0.75 USD
+  - [Ocean Blue Topaz / No 7](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324183130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-blue-oval.webp?v=1764799514
+    Price: $0.75 USD
+  - [Ocean Blue Topaz / No 8](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324215898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-blue-oval.webp?v=1764799514
+    Price: $0.75 USD
+  - [Ocean Blue Topaz / No 9](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324248666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-blue-oval.webp?v=1764799514
+    Price: $0.75 USD
+  - [Aquamarine Blue / No 10](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324281434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-blue.webp?v=1764799610
+    Price: $0.75 USD
+  - [Aquamarine Blue / No 6](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324314202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-blue.webp?v=1764799610
+    Price: $0.75 USD
+  - [Aquamarine Blue / No 7](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324346970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-blue.webp?v=1764799610
+    Price: $0.75 USD
+  - [Aquamarine Blue / No 8](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324379738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-blue.webp?v=1764799610
+    Price: $0.75 USD
+  - [Aquamarine Blue / No 9](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324412506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-blue.webp?v=1764799610
+    Price: $0.75 USD
+  - [Pale Mint / No 10](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324445274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-clear.webp?v=1764799569
+    Price: $0.75 USD
+  - [Pale Mint / No 6](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324478042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-clear.webp?v=1764799569
+    Price: $0.75 USD
+  - [Pale Mint / No 7](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324510810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-clear.webp?v=1764799569
+    Price: $0.75 USD
+  - [Pale Mint / No 8](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324543578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-clear.webp?v=1764799569
+    Price: $0.75 USD
+  - [Pale Mint / No 9](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324576346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-clear.webp?v=1764799569
+    Price: $0.75 USD
+  - [Lilac Amethyst / No 10](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324609114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-lilac.webp?v=1764799582
+    Price: $0.75 USD
+  - [Lilac Amethyst / No 6](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324641882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-lilac.webp?v=1764799582
+    Price: $0.75 USD
+  - [Lilac Amethyst / No 7](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324674650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-lilac.webp?v=1764799582
+    Price: $0.75 USD
+  - [Lilac Amethyst / No 8](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324707418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-lilac.webp?v=1764799582
+    Price: $0.75 USD
+  - [Lilac Amethyst / No 9](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324740186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-lilac.webp?v=1764799582
+    Price: $0.75 USD
+  - [Icy Crystal / No 10](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324772954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-clear-gem.webp?v=1764799644
+    Price: $0.75 USD
+  - [Icy Crystal / No 6](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324805722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-clear-gem.webp?v=1764799644
+    Price: $0.75 USD
+  - [Icy Crystal / No 7](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324838490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-clear-gem.webp?v=1764799644
+    Price: $0.75 USD
+  - [Icy Crystal / No 8](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324871258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-clear-gem.webp?v=1764799644
+    Price: $0.75 USD
+  - [Icy Crystal / No 9](https://ursupermart.com/products/teardrop-gemstone-ring-gold-stainless-steel-many-colors-vibrant?variant=42582324904026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-teardrop-birthstone-ring-clear-gem.webp?v=1764799644
+    Price: $0.75 USD
 - [Gold Seashell Necklace with Pearl & Adjustable Chain](https://ursupermart.com/products/gold-seashell-necklace-with-pearl-adjustable-chain-elegant): Discover this beautiful gold seashell necklace with a pearl, perfect for elevating your style and confidence on any occasion. Shop yours today!
   Updated: 2025-11-26T12:15:29Z
   Vendor: S1B|S1|CJ
@@ -36882,6 +37442,20 @@
   - [White](https://ursupermart.com/products/keyboard-cleaning-kit-keep-devices-clean-11-in-1-tool?variant=42582335389786)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/keyboard-cleaning-kit-white-version.webp?v=1764215957
+    Price: $1.00 USD
+- [Cross Heart Necklace Set Gold & Silver Faith Jewelry](https://ursupermart.com/products/cross-heart-necklace-set-gold-silver-faith-jewelry-for-women): This elegant cross heart necklace set, featuring gold and silver pendants with sparkling stones, beautifully expresses your faith and love. Shop now!
+  Updated: 2025-12-03T12:11:43Z
+  Vendor: S1B|S1|CJ
+  Product Type: cross pendant necklaces
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cross-heart-necklace-set-display.webp?v=1764717633
+  - [Golden Cross](https://ursupermart.com/products/cross-heart-necklace-set-gold-silver-faith-jewelry-for-women?variant=42582343745626)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cross-heart-necklace-set-gold-box.webp?v=1764717701
+    Price: $1.00 USD
+  - [Silver Cross](https://ursupermart.com/products/cross-heart-necklace-set-gold-silver-faith-jewelry-for-women?variant=42582343778394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cross-heart-necklace-set-silver-box.webp?v=1764717689
     Price: $1.00 USD
 - [Magnetic Wireless Charger - Fast 15W Power & Easy Use](https://ursupermart.com/products/magnetic-wireless-charger-fast-15w-power-easy-use-iphone): Magnetic wireless charger offers 15W fast, effortless power with perfect alignment, decluttering your space and protecting your phone. Get yours now!
   Updated: 2025-11-29T10:29:21Z
@@ -36943,6 +37517,24 @@
   - [Red](https://ursupermart.com/products/heart-stone-watch-for-women-fashion-love-shape-bracelet-set?variant=42582530490458)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/heart-stone-watch-red-dial-wrist.webp?v=1764298890
+    Price: $1.00 USD
+- [Gold Heart Dangle Earrings for Elegant & Unique Style](https://ursupermart.com/products/gold-heart-dangle-earrings-elegant-unique-style-for-romance): Gold heart dangle earrings with sparkling gemstones elevate your style and express your unique romantic flair. Shop now for a truly memorable look!
+  Updated: 2025-12-03T08:59:46Z
+  Vendor: S1B|S1|CJ
+  Product Type: dangling earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/emerald-sunburst-statement-earrings-gold-heart-design.webp?v=1764709051
+  - [Gold Sunburst](https://ursupermart.com/products/gold-heart-dangle-earrings-elegant-unique-style-for-romance?variant=42582547103834)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/emerald-sunburst-statement-earrings-gold-card-set.webp?v=1764709051
+    Price: $1.00 USD
+  - [Gold Heart](https://ursupermart.com/products/gold-heart-dangle-earrings-elegant-unique-style-for-romance?variant=42582547136602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/emerald-sunburst-statement-earrings-gold-heart-design.webp?v=1764709051
+    Price: $1.00 USD
+  - [Silver Sunburts](https://ursupermart.com/products/gold-heart-dangle-earrings-elegant-unique-style-for-romance?variant=42582547169370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/emerald-sunburst-statement-earrings-gold-card-set.webp?v=1764709051
     Price: $1.00 USD
 - [Gold Heart Earrings Dangle with Romantic Key & Lock Charms](https://ursupermart.com/products/gold-heart-earrings-dangle-romantic-key-lock-charms-for-her): Gold heart earrings with charming dangle designs add a sweet, romantic touch to any outfit. Express your style and shop this lovely pair today!
   Updated: 2025-11-26T12:15:35Z
@@ -37346,7 +37938,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gothic-heart-necklace-silver-red-layered.webp?v=1764007368
     Price: $1.00 USD
 - [Anxiety Relief Ring: Calm Stress & Boost Focus](https://ursupermart.com/products/anxiety-relief-ring-calm-stress-focus-open-design-fidget-tool): Anxiety relief ring: find calm and focus with this stylish, discreet fidget ring featuring movable beads and an adjustable band. Take control of your day and shop now!
-  Updated: 2025-11-28T14:03:52Z
+  Updated: 2025-12-02T14:28:12Z
   Vendor: S1B|S1|CJ
   Product Type: fidget ring
   Availability: Available
@@ -38844,8 +39436,62 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/zodiac-sign-bracelet-pisces-celestial-art.webp?v=1764390073
     Price: $1.00 USD
+- [Sunflower Pendant Necklace: Joyful & Elegant Design](https://ursupermart.com/products/sunflower-pendant-necklace-joyful-elegant-design-gift-for-her): Brighten your day with this sunflower pendant necklace, a symbol of joy and resilience, featuring a nature-inspired design; find your perfect adjustable fit today!
+  Updated: 2025-12-02T15:29:56Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Pendant necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sunflower-pendant-necklace-for-women-display-set.webp?v=1764648419
+  - [Gold](https://ursupermart.com/products/sunflower-pendant-necklace-joyful-elegant-design-gift-for-her?variant=42602512613466)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sunflower-pendant-necklace-for-women-gold-luxury.webp?v=1764648419
+    Price: $1.00 USD
+  - [Silver](https://ursupermart.com/products/sunflower-pendant-necklace-joyful-elegant-design-gift-for-her?variant=42602512646234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sunflower-pendant-necklace-for-women-silver-luxury.webp?v=1764648419
+    Price: $1.00 USD
+  - [Rose Gold](https://ursupermart.com/products/sunflower-pendant-necklace-joyful-elegant-design-gift-for-her?variant=42602512679002)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sunflower-pendant-necklace-for-women-rosegold-luxury.webp?v=1764648419
+    Price: $1.00 USD
+- [Teardrop Dangle Earrings Silver Gold Set for All Day](https://ursupermart.com/products/teardrop-dangle-earrings-silver-gold-set-for-all-day-versatile): Teardrop dangle earrings offer versatile elegance in silver or gold with sparkling stones; enhance any look effortlessly and discover your perfect pair today!
+  Updated: 2025-12-03T01:55:59Z
+  Vendor: S1B|S1|eprolo
+  Product Type: dangle earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/crystal-teardrop-dangle-earrings-silver-gold-set.webp?v=1764685178
+  - [Gold](https://ursupermart.com/products/teardrop-dangle-earrings-silver-gold-set-for-all-day-versatile?variant=42602513039450)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/crystal-teardrop-dangle-earrings-gold-blue-backdrop.webp?v=1764685178
+    Price: $1.00 USD
+  - [Silver](https://ursupermart.com/products/teardrop-dangle-earrings-silver-gold-set-for-all-day-versatile?variant=42602513072218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/crystal-teardrop-dangle-earrings-silver-blue-backdrop.webp?v=1764685178
+    Price: $1.00 USD
+- [Men's Black Leather Watch - Stylish Square Dial](https://ursupermart.com/products/mens-black-leather-watch-stylish-square-dial-for-confidence): This men's black leather watch, featuring a square dial and rose-gold accents, elevates your style and confidence for any occasion. Discover yours today!
+  Updated: 2025-12-03T01:29:40Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Men's wristwatch
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/square-leather-strap-watch-premium-black-dial.webp?v=1764682513
+  - [Black Watch Only](https://ursupermart.com/products/mens-black-leather-watch-stylish-square-dial-for-confidence?variant=42602513793114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/square-leather-strap-watch-premium-black-dial.webp?v=1764682513
+    Price: $14.95 USD
+  - [Brown Watch Only](https://ursupermart.com/products/mens-black-leather-watch-stylish-square-dial-for-confidence?variant=42602513825882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/square-leather-strap-watch-brown-angle-view.webp?v=1764682513
+    Price: $14.95 USD
+  - [Black Watch Set](https://ursupermart.com/products/mens-black-leather-watch-stylish-square-dial-for-confidence?variant=42602513858650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/square-leather-strap-watch-black-bundle-set.webp?v=1764682513
+    Price: $23.95 USD
+  - [Brown Watch Set](https://ursupermart.com/products/mens-black-leather-watch-stylish-square-dial-for-confidence?variant=42602513891418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/square-leather-strap-watch-brown-bundle-set.webp?v=1764682513
+    Price: $23.95 USD
 - [Durable Sport Watch - Waterproof & Anti-Fall for Active Life](https://ursupermart.com/products/durable-sport-watch-waterproof-anti-fall-digital-display-active): This durable sport watch features a digital display, stopwatch, alarm, date, and backlight, plus it's waterproof and anti-fall for your active life; shop now!
-  Updated: 2025-12-01T19:44:22Z
+  Updated: 2025-12-02T06:35:07Z
   Vendor: S1B|S1|eprolo
   Product Type: Digital sport watch
   Availability: Available
@@ -38883,7 +39529,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-rugged-digital-sports-watch-waterproof-shock-resistant-red-strap-tactical.webp?v=1764617992
     Price: $18.95 USD
 - [Men's Analog Digital Sport Watch - Water Resistant & Durable](https://ursupermart.com/products/mens-analog-digital-sport-watch-water-resistant-durable-tough): A men's analog digital sport watch built tough and water-resistant, featuring a light for clear viewing. Master your time and conquer any adventure, get yours today!
-  Updated: 2025-12-01T18:02:03Z
+  Updated: 2025-12-02T03:06:18Z
   Vendor: S1B|S1|eprolo
   Product Type: Men's sport watch
   Availability: Available
@@ -39125,7 +39771,7 @@
   Updated: 2025-12-01T02:03:49Z
   Total Products: 93
 - [Amazing Cozy Christmas Decor Deals Starting at Just $12](https://ursupermart.com/collections/cozy-christmas-decor-deals-under-30): Transform your home with cozy christmas decor deals under $30. Budget friendly holiday decorating solutions for Instagram-worthy spaces. Shop now!
-  Updated: 2025-11-30T12:07:47Z
+  Updated: 2025-12-02T12:08:17Z
   Total Products: 23
 - [LED Halloween Costumes & Masks | Spooky Accessories 2025](https://ursupermart.com/collections/spooky-wearable-tech-costumes): Shop LED Halloween costumes & masks that light up, move & make spooky sounds! Glow-in-the-dark Halloween accessories & decorations. Tech Halloween 2025!
   Updated: 2025-11-01T02:07:14Z
@@ -39137,28 +39783,28 @@
   Updated: 2025-12-01T23:19:23Z
   Total Products: 90
 - [Best Cyber Monday Deals Under 25 Tech Gifts & Free Shipping](https://ursupermart.com/collections/cyber-monday-deals-under-25): Discover cyber monday deals under 25 on quality tech gifts with free shipping today. Perfect holiday tech gifts under 25 that solve real problems for everyone.
-  Updated: 2025-12-01T19:43:02Z
+  Updated: 2025-12-02T12:08:17Z
   Total Products: 20
 - [Best Budget Tech Gifts Under $15: Viral TikTok Finds 2025](https://ursupermart.com/collections/tech-gifts-under-15-viral-tiktok): Shop 15 viral TikTok tech gifts under $15 that actually work. Budget wireless earbuds, phone accessories & trending gadgets. Free shipping. Limited stock!
   Updated: 2025-12-01T01:26:24Z
   Total Products: 87
 - [Secret Santa Gifts under $30: Unique Ideas That Won't Break the Bank](https://ursupermart.com/collections/christmas-gift-ideas-under-30): Christmas Gifts That Won't Break the Bank Discover the perfect Christmas gifts for everyone on your list without exceeding your budget! Our collection features a wide array of items, all priced under $30, making it easier than ever to find thoughtful gifts that won't strain your wallet. Whether you're shopping for friends, family, or co-workers, these budget-friendly options are ideal for Secret Santa gifts, stocking stuffers, and last-minute surprises. Plus, enjoy the added benefit of free shipping on all orders, ensuring that your holiday shopping is both convenient and cost-effective. Stocking Stuffers for Everyone Looking for stocking stuffers that are sure to delight? Our curated selection includes fun and practical items perfect for filling those stockings this holiday season. From stylish fashion accessories to quirky kitchen gadgets, there’s something for everyone. These unique gifts are not only affordable but also thoughtful, making them ideal for anyone from your office buddy to your favorite aunt. Explore our collection and find the perfect small treasures that will bring joy to your loved ones. Best Holiday Gift Ideas Under $30 Finding the best holiday gift ideas can be a challenge, especially when you're on a budget. Our collection is designed with this in mind, offering a variety of delightful options that cater to all tastes and interests. Choose from trendy women's clothing, sleek watches, or handy electronics that make great gifts for men and women alike. Each item is carefully selected to ensure quality and style while keeping prices low. This holiday season, impress your friends and family with thoughtful gifts that show you care without overspending. Christmas Gifts for Men and Women Searching for Christmas gifts for men or Christmas gifts for women? Look no further! Our diverse collection has something special for everyone. Whether you're shopping for a tech enthusiast who loves gadgets or a fashion-forward friend who appreciates stylish accessories, our range of products includes everything from phone cases to massagers. These gifts are perfect for all ages, making them suitable for friends, family members, or even co-workers participating in office gift exchanges. Stocking Stuffer Ideas That Shine When it comes to stocking stuffer ideas, creativity is key! Our collection features an assortment of small yet impactful gifts that are sure to impress. Consider fun toys, trendy glasses, or unique kitchen gadgets as delightful additions to any stocking. Each item is thoughtfully chosen to bring smiles without breaking the bank. These stocking stuffers are not just practical; they also add a touch of excitement to the holiday festivities. Secret Santa Gifts Everyone Will Love Participating in a Secret Santa exchange? Our selection of Secret Santa gifts is perfect for surprising your colleagues or friends with something unique and enjoyable. From stylish bags to charming Christmas ornaments, each gift is under $30 and designed to bring joy without the stress of overspending. Make your Secret Santa memorable with our thoughtful picks that cater to diverse tastes. Gift Ideas for Those Who Have Everything Struggling with what to buy for those who seem to have it all? Our collection includes gifts for men who have everything, offering practical yet fun items that they might not have thought to buy themselves. From innovative electronics to fashionable accessories, these unique finds will surely impress even the hardest-to-shop-for individuals on your list. Christmas Gifts for Mom That Show You Care Show your appreciation this holiday season with thoughtful Christmas gifts for mom. Our selection includes lovely fashion accessories and cozy items that she will cherish. Each gift is designed with love and care, ensuring that you can express how much she means to you without exceeding your budget. Celebrate her this Christmas with a gift that reflects her personality and style. Holiday Sales You Can't Miss Take advantage of our incredible holiday sales! With every item priced under $30 and free shipping included, you can shop confidently knowing you're getting the best deals this season. Don’t miss out on these fantastic offers—perfect for last-minute shoppers looking to spread some holiday cheer without spending too much. This holiday season, make your shopping experience enjoyable and stress-free with our extensive collection of budget-friendly gifts. Each item is selected not just for its affordability but also for its ability to bring joy and happiness during this festive time of year. Whether you're looking for stocking stuffers or meaningful presents, our collection has everything you need to make this Christmas unforgettable!
-  Updated: 2025-12-01T19:43:03Z
+  Updated: 2025-12-02T12:08:17Z
   Total Products: 29
 - [Viral Tech Gadgets Under $50 TikTok Users Are Buying Now](https://ursupermart.com/collections/viral-tech-gadgets-under-50): Shop viral tech gadgets under $50 trending on TikTok 2025. Power banks, gaming consoles & flashlights with free shipping. Limited holiday deals now!
   Updated: 2025-12-01T02:03:49Z
   Total Products: 42
 - [Best Stocking Stuffers Under $15: Affordable Gift Ideas 2025](https://ursupermart.com/collections/stocking-stuffers-under-15-dollars): Stocking stuffers under $15 that look amazing. Budget gifts with free shipping. Quality items for everyone on your list. Shop smart and save money this holiday!
-  Updated: 2025-12-01T01:26:24Z
+  Updated: 2025-12-03T22:22:11Z
   Total Products: 97
 - [Top Gift Ideas Under $25 That Look Expensive - Beauty & Tech](https://ursupermart.com/collections/best-gift-ideas-under-25): Best gift ideas under $25 that look expensive! Budget beauty gifts, tech accessories & holiday gifts under 25 for everyone. Quality guaranteed today!
   Updated: 2025-12-01T19:43:03Z
   Total Products: 95
 - [Affordable Luxury Jewelry - Necklaces, Earrings, Bracelets](https://ursupermart.com/collections/affordable-luxury-jewelry-necklaces-bracelets-earrings): Discover luxury fashion jewelry at affordable prices! Shop necklaces, earrings, bracelets, charms & pendants. Free shipping on quality jewelry pieces!
-  Updated: 2025-10-24T13:31:42Z
-  Total Products: 57
+  Updated: 2025-12-03T20:58:42Z
+  Total Products: 59
 - [Shop Affordable Valentine Jewelry Gifts She'll Actually Love](https://ursupermart.com/collections/affordable-valentine-jewelry-gifts-her): Find affordable valentine jewelry gifts under $50 she'll treasure. Heart necklaces, romantic jewelry sets & couples gifts. Free shipping & hassle free returns!
-  Updated: 2025-11-17T01:29:38Z
+  Updated: 2025-12-03T08:06:32Z
   Total Products: 20
 - [TikTok Trending Gadgets That Solve Everyday Problems Now](https://ursupermart.com/collections/trending-gadgets-problem-solvers): Shop TikTok trending gadgets that solve your daily problems! Cool gadgets, problem solvers, gift ideas with free shipping. Christmas sale ends soon!
   Updated: 2025-11-30T20:05:07Z
@@ -39185,8 +39831,8 @@
   Updated: 2025-10-01T23:31:57Z
   Total Products: 33
 - [Gift Ideas – Unique, Cool, and Affordable Picks](https://ursupermart.com/collections/gift-ideas): Explore Gift Ideas for every occasion. Find unique, cool, and affordable gifts for birthdays, holidays, and special moments, all in one place and free shipping.
-  Updated: 2025-12-01T19:43:03Z
-  Total Products: 54
+  Updated: 2025-12-02T23:40:51Z
+  Total Products: 55
 - [Top Mens Watches 2025: Luxury Waterproof Sales Under $125!](https://ursupermart.com/collections/best-mens-watches-luxury-waterproof): Shop trending mens watches 2025! Best waterproof luxury watches and stylish watches for men $15-$125. Free shipping, hassle-free returns!
   Updated: 2025-12-01T19:43:02Z
   Total Products: 35
@@ -39194,14 +39840,14 @@
   Updated: 2025-11-16T21:54:51Z
   Total Products: 21
 - [Shop Women's Shapewear | Comfortable Body Shapers $30-$100](https://ursupermart.com/collections/womens-shapewear-body-shapers-collection): Find comfortable women's shapewear for everyday wear. Tummy control bodysuits, seamless shorts & breathable body shapers. Free shipping on all orders.
-  Updated: 2025-11-27T18:31:32Z
-  Total Products: 11
+  Updated: 2025-12-02T20:24:48Z
+  Total Products: 12
 - [Shop Women's Winter Coats: Warm, Stylish & Budget-Friendly](https://ursupermart.com/collections/womens-winter-coats-affordable-2026): Find affordable women's winter coats, jackets & sweaters for work and weekend. Cozy styles under $150 with free shipping. Shop winter clothing deals now!
-  Updated: 2025-12-01T18:41:50Z
-  Total Products: 39
+  Updated: 2025-12-03T23:19:07Z
+  Total Products: 40
 - [Free Gifts for Everyone: Quality Jewelry Collection 2025](https://ursupermart.com/collections/free-gifts-for-everyone): Free gifts for everyone including chains, watches, rings and necklaces. Quality jewelry at zero cost for holiday gifting. Free shipping included.
-  Updated: 2025-11-29T04:26:58Z
-  Total Products: 92
+  Updated: 2025-12-03T22:20:41Z
+  Total Products: 91
 
 ## Blogs
 
@@ -39674,6 +40320,10 @@
     Updated: 2025-12-01T22:17:40Z
     Author: Angel Carbonell
     Tags: acetate fiber mens jacket, biodegradable acetate mens coat, biodegradable dress coat men, biodegradable mens jacket, biodegradable professional coat, biodegradable winter coat men, biodegradable winter outerwear, eco conscious mens clothing, eco conscious overcoat, eco friendly business wear, eco friendly dress coat, eco friendly mens jacket, eco friendly winter coat men, eco mens long coat, eco mens work outerwear, eco professional mens wear, eco winter coat for work, green business coat men, green mens business coat, green mens outerwear, green professional outerwear, green winter coat for men, lightweight mens dress coat, mens green fashion coat, plant based mens overcoat, renewable cellulose coat, renewable fabric overcoat, renewable fiber mens coat, renewable mens overcoat, renewable mens winter coat, slim fit long coat men, slim overcoat for work, sustainable business coat, sustainable city coat men, sustainable commuter coat, sustainable dress outerwear, sustainable mens fashion coat, sustainable mens overcoat, sustainable menswear outerwear, sustainable office coat, sustainable office wear men, sustainable professional wear, sustainable trench coat men, sustainable urban coat, sustainable work coat men
+  - [Sunflower Pendant Necklace: Why Women Love This Style](https://ursupermart.com/blogs/fashion/sunflower-pendant-necklace-guide-perfect-gift): Sunflower Pendant Necklace: Why Women Love This Style
+    Updated: 2025-12-02T04:28:06Z
+    Author: Angel Carbonell
+    Tags: adjustable length necklace, adjustable sunflower necklace, affordable meaningful jewelry, anniversary jewelry gift, birthday gift jewelry, boho sunflower pendant, botanical jewelry for women, bright cheerful jewelry, comfortable daily jewelry, confidence jewelry piece, cottage core necklace, cute necklace for her, dainty sunflower jewelry, delicate chain necklace, everyday sunflower jewelry, feminine floral jewelry, floral pendant jewelry, friendship necklace ideas, golden sunflower charm, graduation necklace gift, happiness symbol necklace, layering necklace women, leaf branch jewelry, lightweight pendant necklace, meaningful gift jewelry, mood boosting accessories, nature inspired necklace, nature lover gift, pearl accent necklace, photogenic necklace style, positive energy jewelry, quality costume jewelry, romantic pendant design, self care jewelry treat, social media jewelry, statement nature jewelry, summer necklace styles, sunflower charm necklace, sunflower jewelry meaning, sunflower necklace for women, sunflower necklace gift ideas, sunflower pendant necklace, trendy sunflower pendant, versatile pendant necklace, yellow flower necklace
 - [Tips, Trends & Deals | UrSuperMart Blog](https://ursupermart.com/blogs/tips-trends-deals-ursupermart-blog): Explore shopping tips, product trends, gift ideas, and exclusive deals. Stay updated with fresh content from the UrSuperMart blog.
   - [Discover Ultimate Gadgets: Latest Phones, Reviews & Prices](https://ursupermart.com/blogs/tips-trends-deals-ursupermart-blog/ultimate-gadgets-guide-2025-top-tech): Discover Ultimate Gadgets: Latest Phones, Reviews & Prices
     Updated: 2025-08-07T23:04:47Z
