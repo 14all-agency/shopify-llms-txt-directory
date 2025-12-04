@@ -9,7 +9,9 @@
 - Created At: 2025-06-11T12:50:48Z
 - Contact Email: help@rejuvenated.com
 - Address: Rejuvenated Limited, 6 Broadfield Court, Broadfield Way, Sheffield, S8 0XF, United Kingdom
-- Updated At: 2025-12-04T14:16:27.805Z
+- Updated At: 2025-12-04T14:18:36.943Z
+
+Discover Rejuvenated’s best-selling supplements, loved by customers worldwide for their proven results. From award-winning collagen drinks to essential wellness blends, these are the products our community trusts most for glowing skin, energy, and overall vitality.
 
 ## Products
 
@@ -102,7 +104,7 @@
   Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/Collagen-Shots-Pro-Pouch-Front-View.webp?v=1759935058
   Price: £52.50 GBP
 - [H3O Hydration | Cellular hydration from within](https://rejuvenated.com/products/h3o-hydration): Revitalise your skin and body with hypotonic ionic electrolytes to promote focus and energy and trans-resveratrol and inulin to support a healthy microbiome.
-  Updated: 2025-12-04T13:15:48Z
+  Updated: 2025-12-04T14:18:06Z
   Vendor: Rejuvenated
   Product Type: 
   Availability: Available
@@ -1248,6 +1250,13 @@
   Updated: 2025-10-06T10:14:04+01:00
 - [Contact Information](https://rejuvenated.com/policies/contact-information)
   Updated: 2025-10-03T15:45:33+01:00
+
+## Social Media
+- https://www.instagram.com/rejuvenateduk/
+- https://www.facebook.com/RejuvenatedLtd
+- https://x.com/Rejuvenateduk
+- https://uk.pinterest.com/Rejuvenateduk/
+- https://www.youtube.com/user/RejuvenatedLtd
 
 ## Optional
 
