@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-12-03T00:01:03.567Z
+- Updated At: 2025-12-04T00:00:33.008Z
 
 ## Products
 
@@ -495,66 +495,64 @@ Substanta activa: acetamiprid 200 g/kg
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-08at09.04.47_1.jpg?v=1738998904
   Price: 27,81 lei RON
-- [Insecticid TEPPEKI – 1.5 GR, ENO, Sistemic, Afide](https://depozitulgradinarului.ro/products/insecticid-teppeki-1-5-gr-eno-sistemic-afide): Insecticid Teppeki, aficid specific utilizat pentru tratamente foliare in culturile de Camp si Horticole.
-Substanta activa: flonicamid 500 g/kg
-  Updated: 2025-07-22T19:25:47Z
+- [Insecticid TEPPEKI – 1.5 GR, ENO, Sistemic, Afide, Pomi Fructiferi, Legume, Plante Ornamentale, Cereale](https://depozitulgradinarului.ro/products/insecticid-teppeki-1-5-gr-eno-sistemic-afide): Scapă rapid de afide cu insecticidul TEPPEKI - 1.5 gr! Eficiență garantată, sistemic și selectiv, protejează culturile fără să afecteze albinele sau prădătorii naturali.
+  Updated: 2025-12-03T20:20:14Z
   Vendor: ENO
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-08at09.04.47_2.jpg?v=1738999216
   Price: 5,99 lei RON
-- [Insecticid TEPPEKI - 15 GR, ENO, Sistemic, Afide](https://depozitulgradinarului.ro/products/insecticid-teppeki-15-gr-eno-sistemic-afide): Insecticid Teppeki, aficid specific utilizat pentru tratamente foliare in culturile de Camp si Horticole.
-Substanta activa: flonicamid 500 g/kg
-  Updated: 2025-07-25T21:03:33Z
+- [Insecticid TEPPEKI - 15 GR, ENO, Sistemic, Afide, Pomi Fructiferi, Legume, Plante Ornamentale, Cereale](https://depozitulgradinarului.ro/products/insecticid-teppeki-15-gr-eno-sistemic-afide): Scapă rapid de afide cu insecticidul TEPPEKI - 15 gr! Eficiență garantată, sistemic și selectiv, protejează culturile fără să afecteze albinele sau prădătorii naturali.
+  Updated: 2025-12-03T20:20:16Z
   Vendor: ENO
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-08at09.04.47_3.jpg?v=1739000796
   Price: 31,99 lei RON
-- [Fungicid MELODY COMPACT 49 WG - 200 GR, Bayer, Sistemic, Vita de vie](https://depozitulgradinarului.ro/products/fungicid-melody-compact-49-wg-200-gr-bayer-sistemic-vita-de-vie): Melody Compact 49 WG este un fungicid sistemic și de contact pe bază de iprovalicarb (8,4%) și oxiclorură de cupru (40,6%), utilizat pentru combaterea manei la vița de vie.
-  Updated: 2025-07-28T16:52:52Z
+- [Fungicid MELODY COMPACT 49 WG - 200 GR, Bayer, Sistemic, Vita-de-Vie](https://depozitulgradinarului.ro/products/fungicid-melody-compact-49-wg-200-gr-bayer-sistemic-vita-de-vie): Combaterea manei la vița de vie cu Melody Compact 49 WG. Eficiență dovedită, protecție completă și rezultate rapide în fiecare sezon. Depozitul Grădinarului!
+  Updated: 2025-12-03T20:11:42Z
   Vendor: Bayer
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-08at15.58.09.jpg?v=1739023272
-  Price: 49,00 lei RON
-- [Fierastrau profesional pentru gradinarit 350 MM](https://depozitulgradinarului.ro/products/fierastrau-profesional-pentru-gradinarit-350-mm): Lama din otel, curbata, lacuita. Dinti fatetati in 3 unghiuri alternativ. Maner ergonomic din PP+TPR pentru a preveni alunecarea mainii.
-  Updated: 2025-11-30T13:36:16Z
+  Price: 51,00 lei RON
+- [Fierăstrău Manual Profesional Grădină & Crengi – Lamă Oțel, 350 MM](https://depozitulgradinarului.ro/products/fierastrau-profesional-pentru-gradinarit-350-mm): Fierăstrău manual profesional pentru grădină și crengi, lamă oțel curbata 350 mm, dinți fațetați, maner ergonomic, ideal pentru tăieri precise și rapide.
+  Updated: 2025-12-03T19:39:39Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Fierastraukmttools.jpg?v=1739217747
   Price: 35,91 lei RON
-- [Fierastrau tip briceag](https://depozitulgradinarului.ro/products/fierastrau-tip-briceag): Fierastrau profesional tip briceag, cu blocare automata, dotat cu lama de otel curbata.
-  Updated: 2025-11-30T13:36:16Z
+- [Fierastrau Manual Pliabil pentru Gradina & Crengi | Lamă Oțel Profesională](https://depozitulgradinarului.ro/products/fierastrau-tip-briceag): Fierăstrău manual pliabil pentru grădină și crengi, cu lamă de oțel curbata și blocare automată. Ideal pentru tăiere precisă și rapidă. Depozitul Grădinarului!
+  Updated: 2025-12-03T19:30:35Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Ftipbriceag1.jpg?v=1739219269
-  Price: 22,50 lei RON
-- [Fierastrau de mana pentru gradinarit 350 MM](https://depozitulgradinarului.ro/products/fierastrau-de-mana-pentru-gradinarit-350-mm): Fierastrau de mana pentru gradinarit cu lama din otel.
-  Updated: 2025-11-30T13:36:15Z
+  Price: 20,70 lei RON
+- [Fierăstrău Manual Gradina 350 MM, Lama Oțel, Maner Plastic Ergonomic](https://depozitulgradinarului.ro/products/fierastrau-de-mana-pentru-gradinarit-350-mm): Fierăstrău manual de grădină 350 MM, lamă din oțel și mâner ergonomic, ideal pentru tăiat crengi, lemn subțire și întreținerea grădinii eficientă.
+  Updated: 2025-12-03T19:23:50Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Fgeolux.jpg?v=1739219394
   Price: 14,40 lei RON
-- [Sfoara iuta 150 GR](https://depozitulgradinarului.ro/products/sfoara-iuta-150-gr): Sfoara de iuta pentru utilizare casnica, industriala si agricola. Se poate utiliza in agricultura pentru legarea legumelor, a vitei-de-vie, a balotilor, cat si pentru confectionarea diferitelor lucruri ornamentale.
-  Updated: 2025-11-30T13:36:15Z
+- [Sfoară iută 150 GR pentru Legare și Ambalare | Grădinărit & Agricultură](https://depozitulgradinarului.ro/products/sfoara-iuta-150-gr): Sfoară de iută (150 GR) rezistentă pentru legare, ambalare și grădinărit. Ideală pentru vița de vie, plante, decoruri și uz casnic sau industrial. Practică și durabilă.
+  Updated: 2025-12-03T17:15:03Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Sfoaraiuta150GR.jpg?v=1739219653
   Price: 7,20 lei RON
-- [Sfoara rafie colorata 40 GR](https://depozitulgradinarului.ro/products/sfoara-rafie-colorata): Utilizare sfoara rafie: diverse aplicatii in constructii, agricultura, horticultura pentru ambalarea produselor in baloti sau pachete pentru palisarea plantelor in gradini, sere si solarii.
-  Updated: 2025-11-30T13:36:15Z
+- [Sfoara Rafie Colorata 40 GR | Rezistentă, Palisare, Ambalare, Agricultură](https://depozitulgradinarului.ro/products/sfoara-rafie-colorata): Sfoară din rafie rezistentă pentru palisare, ambalare și uz în construcții. Ideală pentru grădini, sere, solarii și legat diverse materiale. Depozitul Grădinarului!
+  Updated: 2025-12-03T16:54:27Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Sfoararafiecolorata1_7934c45d-0f59-428c-9d21-71e28eef8cef.jpg?v=1739220300
-  Price: 3,60 lei RON
+  Price: 3,00 lei RON
 - [Biostimulator ALBIT - 2 ML | Tratament Seminte, Ingrasamant Foliar Concentrat](https://depozitulgradinarului.ro/products/biostimulator-albit-2-ml-tratament-seminte-si-ingrasamant-foliar-concentrat): Albit – biostimulator antistres cu efect fungicid și regenerare rapidă. Îmbunătățește răsărirea, dezvoltarea radiculară și producția culturilor. Legume, Fructe, Gazon, Cereale, Vita-de-Vie
-  Updated: 2025-12-02T19:24:56Z
+  Updated: 2025-12-03T12:48:40Z
   Vendor: ENO
   Product Type: Ingrasamant
   Availability: Available
@@ -567,41 +565,41 @@ Substanta activa: flonicamid 500 g/kg
   Availability: Available
   Price: 0,00 lei RON
 - [Biostimulator ATONIK - 100 ML, AECTRA | Cereale, Legume, Pomi Fructiferi, Vita-de-Vie](https://depozitulgradinarului.ro/products/biostimulator-atonik-100-ml-aectra): Atonik – biostimulator pentru creștere, înrădăcinare și legarea fructelor. Sporește producția, îmbunătățește calitatea și ajută plantele să depășească stresul.
-  Updated: 2025-12-02T19:05:00Z
+  Updated: 2025-12-03T07:29:48Z
   Vendor: Atonik
   Product Type: Ingrasamant
   Availability: Available
   Price: 0,00 lei RON
 - [Ingrasamant Foliar FERTIMAXX Calciu - 100 ML, ENO | Legume, Fructe, Pomi, Vita-de-Vie](https://depozitulgradinarului.ro/products/ingrasamant-foliar-fertimaxx-calciu-100-ml): Fertimaxx Calciu – îngrășământ foliar lichid pentru roșii, legume, fructe, pomi, vita-de-vie.  Corectează rapid deficiențele de calciu și crește fermitatea și calitatea fructelor.
-  Updated: 2025-12-02T18:49:38Z
+  Updated: 2025-12-03T07:21:51Z
   Vendor: ENO
   Product Type: Ingrasamant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-12at15.33.09.jpg?v=1739367205
   Price: 4,90 lei RON
 - [Ingrasamant Foliar FERTIMAXX Calciu - 500 ML, ENO | Legume, Fructe, Pomi, Vita-de-Vie](https://depozitulgradinarului.ro/products/ingrasamant-foliar-fertimaxx-calciu-500-ml): Fertimaxx Calciu – îngrășământ foliar lichid pentru roșii, legume, fructe, pomi, vita-de-vie.  Corectează rapid deficiențele de calciu și crește fermitatea și calitatea fructelor.
-  Updated: 2025-12-02T18:49:33Z
+  Updated: 2025-12-03T06:49:38Z
   Vendor: ENO
   Product Type: Ingrasamant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Picture1_5741a53e-6988-4159-90cd-178efcdd450e.png?v=1739273575
   Price: 21,00 lei RON
 - [Ingrasamant Foliar Nutriplant Universal – 100 ML | Legume, Flori, Cereale](https://depozitulgradinarului.ro/products/ingrasamant-foliar-nutriplant-universal-100-ml): Nutriplant Universal – îngrășământ lichid pentru Flori, Legume, Cereale, Viță-de-vie, Pomi Fructiferi, Gazon, Tuia. Stimulează creșterea rapidă, înflorirea, dezvoltarea fructelor.
-  Updated: 2025-12-02T18:37:21Z
+  Updated: 2025-12-03T06:40:27Z
   Vendor: Nutriplant
   Product Type: Ingrasamant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-12at15.45.58.jpg?v=1739367986
   Price: 6,00 lei RON
 - [Ingrasamant Foliar Nutriplant Universal – 500 ML | Legume, Flori, Cereale](https://depozitulgradinarului.ro/products/ingrasamant-foliar-nutriplant-universal-500-ml): Nutriplant Universal – îngrășământ lichid pentru Flori, Legume, Cereale, Viță-de-vie, Pomi Fructiferi, Gazon, Tuia. Stimulează creșterea rapidă, înflorirea, dezvoltarea fructelor.
-  Updated: 2025-12-02T18:37:17Z
+  Updated: 2025-12-03T06:39:02Z
   Vendor: Nutriplant
   Product Type: Ingrasamant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-12at21.52.32.jpg?v=1739390003
   Price: 15,00 lei RON
 - [Ingrasamant Foliar Nutriplant Universal – 1 L | Legume, Flori, Cereale](https://depozitulgradinarului.ro/products/ingrasamant-foliar-nutriplant-universal-1-l): Nutriplant Universal – îngrășământ lichid pentru Flori, Legume, Cereale, Viță-de-vie, Pomi Fructiferi, Gazon, Tuia. Stimulează creșterea rapidă, înflorirea, dezvoltarea fructelor.
-  Updated: 2025-12-02T18:37:15Z
+  Updated: 2025-12-03T07:21:02Z
   Vendor: Nutriplant
   Product Type: Ingrasamant
   Availability: Available
@@ -3765,20 +3763,20 @@ Ideal pentru grădinari și fermieri care doresc producții uniforme, sănătoas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/furtunextensibil.webp?v=1752246375
   Price: 72,90 lei RON
-- [Sfoară iută 100 GR | Vița-de-vie, Legume, Baloți](https://depozitulgradinarului.ro/products/sfoara-iuta-100-gr): Sfoara de iuta pentru utilizare casnica, industriala si agricola. Se poate utiliza in agricultura pentru legarea legumelor, a vitei-de-vie, a balotilor, cat si pentru confectionarea diferitelor lucruri ornamentale.
-  Updated: 2025-11-30T13:33:34Z
+- [Sfoară iută 100 GR pentru Legare și Ambalare | Grădinărit & Agricultură](https://depozitulgradinarului.ro/products/sfoara-iuta-100-gr): Sfoară de iută (100 GR) rezistentă pentru legare, ambalare și grădinărit. Ideală pentru vița de vie, plante, decoruri și uz casnic sau industrial. Practică și durabilă.
+  Updated: 2025-12-03T17:11:49Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/IMG_9367.jpg?v=1753353480
   Price: 5,40 lei RON
-- [Sfoară iută 200 GR | Vița-de- vie, Legume, Baloți](https://depozitulgradinarului.ro/products/sfoara-iuta-200-gr): Sfoara de iuta pentru utilizare casnica, industriala si agricola. Se poate utiliza in agricultura pentru legarea legumelor, a vitei-de-vie, a balotilor, cat si pentru confectionarea diferitelor lucruri ornamentale.
-  Updated: 2025-11-30T13:33:34Z
+- [Sfoară iută 200 GR pentru Legare și Ambalare | Grădinărit & Agricultură](https://depozitulgradinarului.ro/products/sfoara-iuta-200-gr): Sfoară de iută (200 GR) rezistentă pentru legare, ambalare și grădinărit. Ideală pentru vița de vie, plante, decoruri și uz casnic sau industrial. Practică și durabilă.
+  Updated: 2025-12-03T17:14:03Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/IMG_9377.jpg?v=1753353704
-  Price: 9,00 lei RON
+  Price: 8,55 lei RON
 - [Sfoara rafie verde | Palisat, Legume](https://depozitulgradinarului.ro/products/sfoara-rafie-verde): Utilizare sfoara rafie: diverse aplicatii in constructii, agricultura, horticultura pentru ambalarea produselor in baloti sau pachete pentru palisarea plantelor in gradini, sere si solarii.
   Updated: 2025-11-30T13:33:34Z
   Vendor: Depozitul Grădinarului
@@ -4225,10 +4223,10 @@ Livrare rapidă!
   Updated: 2025-11-29T12:48:33Z
   Total Products: 28
 - [Insecticide Sistemice și de Contact | Combaterea dăunătorilor](https://depozitulgradinarului.ro/collections/insecticide): Alege insecticide sistemice și de contact, eficiente pentru combaterea dăunătorilor. Descoperă gama completă de insecticide agricole și de grădină – soluții avizate pentru combaterea insectelor în toate stadiile de dezvoltare.
-  Updated: 2025-11-30T13:21:33Z
+  Updated: 2025-12-03T20:20:16Z
   Total Products: 46
 - [Fungicide sistemice și de contact | Plante și Culturile Agricole](https://depozitulgradinarului.ro/collections/fungicide): Fungicide sistemice și de contact pentru plantele din grădină, pomi fructiferi, vița-de-vie și culturi agricole – soluții eficiente împotriva bolilor cauzate de ciuperci, pentru plante sănătoase și culturi productive.
-  Updated: 2025-11-28T12:45:22Z
+  Updated: 2025-12-03T20:11:42Z
   Total Products: 36
 - [Adjuvanți Agricoli – Eficiență Sporită pentru Tratamente](https://depozitulgradinarului.ro/collections/adjuvanti): Adjuvanți agricoli profesionali pentru eficiență sporită a  tratamentelor fitosanitare și a îngrășămintelor foliare. Soluții compatibile cu erbicide, fungicide și insecticide pentru eficiență maximă.
   Updated: 2025-07-30T04:25:06Z
@@ -4252,7 +4250,7 @@ Livrare rapidă!
   Updated: 2025-11-30T12:59:52Z
   Total Products: 4
 - [Pesticide Profesionale | Erbicide, Insecticide, Fungicide, ...](https://depozitulgradinarului.ro/collections/pesticide): Alege pesticide profesionale, precum erbicide, insecticide, fungicide, acaricide, dezinfectanți pentru sol, adjuvanti, pentru combaterea bolilor, dăunătorilor și buruienilor.
-  Updated: 2025-11-30T13:21:33Z
+  Updated: 2025-12-03T20:20:16Z
   Total Products: 131
 - [Semințe de Grădină – Legume, Fructe, Flori și Plante Aromatice](https://depozitulgradinarului.ro/collections/seminte-gradina): Explorează selecția noastră de semințe de grădină: legume sanatoase, fructe gustoase, flori colorate și plante aromatice - germinare rapidă. Alege semințe de calitate pentru o grădină roditoare și plină de culoare. Soiuri românești și profesionale pentru o grădină productivă și sănătoasă.
   Updated: 2025-11-30T13:28:27Z
@@ -4271,19 +4269,19 @@ Livrare rapidă!
   Updated: 2025-10-31T11:26:59Z
   Total Products: 11
 - [Accesorii Casă & Grădină | Unelte, Irigare, Gazon, Raticide](https://depozitulgradinarului.ro/collections/casa-gradina): Descoperă accesorii pentru grădinărit, unelte, sisteme de irigare, semințe de gazon și soluții eficiente pentru combaterea șoarecilor și șobolanilor.
-  Updated: 2025-12-02T19:55:59Z
+  Updated: 2025-12-03T19:39:39Z
   Total Products: 148
 - [Semințe Profesionale Legume și Fructe – Hibrizi Productivi](https://depozitulgradinarului.ro/collections/seminte-profesionale-hybrizi): Alege semințe profesionale de legume și fructe, hibrizi productivi, de calitate pentru grădină, solarii și câmp. Soiuri cu randament ridicat, ideale pentru cultivatori exigenți.
   Updated: 2025-11-30T13:19:14Z
   Total Products: 18
 - [Raticide Avizate | Eliminare Rozătoare din Gospodărie și Fermă](https://depozitulgradinarului.ro/collections/raticide-1): Raticide puternice pentru eliminarea rozătoarelor în spații comerciale, locuințe, ferme și depozite. Protejează-ți proprietatea eficient!
-  Updated: 2025-11-30T12:59:51Z
+  Updated: 2025-12-03T12:32:05Z
   Total Products: 8
 - [Sisteme de Irigat | Aspersoare, Furtune, Pistoale, Accesorii](https://depozitulgradinarului.ro/collections/sisteme-de-irigat): Sisteme de irigat pentru grădină: aspersoare, furtune, pistoale de stropit și accesorii. Soluții eficiente pentru udarea gazonului și plantelor.
   Updated: 2025-11-30T13:41:20Z
   Total Products: 47
 - [Unelte și Accesorii de Grădinărit | Foarfeci, Topoare, Greble și Sisteme de Irigare](https://depozitulgradinarului.ro/collections/unelte-accesorii-gradinarit): Descoperă o gamă variată de unelte și accesorii de grădinărit, inclusiv foarfeci, greble, ciocane, lopeți, furci și sisteme de irigare. Echipamente de calitate pentru toate nevoile tale de grădinărit.
-  Updated: 2025-12-02T19:55:59Z
+  Updated: 2025-12-03T19:39:39Z
   Total Products: 76
 - [Îngrășăminte Foliare Profesionale | Legume, Pomi, Culturi Agricole, Gazon, Cereale, Flori, Tuia, Plante Furajere](https://depozitulgradinarului.ro/collections/ingrasaminte-foliare): Îngrășăminte foliare profesionale pentru legume, pomi, flori, gazon, tuia, plante furajere și culturi agricole, precum: porumb, floarea-soarelui, grâu. Soluții lichide rapide, cu absorbție eficientă prin frunze, pentru plante viguroase.
   Updated: 2025-12-02T19:24:57Z
