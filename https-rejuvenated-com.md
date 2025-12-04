@@ -9,7 +9,7 @@
 - Created At: 2025-06-11T12:50:48Z
 - Contact Email: help@rejuvenated.com
 - Address: Rejuvenated Limited, 6 Broadfield Court, Broadfield Way, Sheffield, S8 0XF, United Kingdom
-- Updated At: 2025-12-04T14:21:31.426Z
+- Updated At: 2025-12-04T14:22:47.100Z
 
 Discover Rejuvenated’s best-selling supplements, loved by customers worldwide for their proven results. From award-winning collagen drinks to essential wellness blends, these are the products our community trusts most for glowing skin, energy, and overall vitality.
 
@@ -427,8 +427,8 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Updated: 2025-11-17T12:56:49Z
     Author: kathryn@rejuvenated.com User
     Tags: Ingredients
-  - [The benefits of astragalus, the powerhouse immune building plant](https://rejuvenated.com/blogs/journal/astragalus-benefits)
-    Updated: 2025-11-17T12:56:15Z
+  - [The benefits of astragalus, the immune building plant](https://rejuvenated.com/blogs/journal/astragalus-benefits): The benefits of astragalus, the immune building plant
+    Updated: 2025-12-04T14:21:58Z
     Author: kathryn@rejuvenated.com User
     Tags: Ingredients
   - [Açai berry health benefits for body and mind](https://rejuvenated.com/blogs/journal/acai-berry-benefits)
