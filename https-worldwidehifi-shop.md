@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-12-02T00:01:05.779Z
+- Updated At: 2025-12-04T00:00:40.254Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -867,13 +867,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_3518827d-3f46-41da-9385-080a97b34c69.jpg?v=1748016908
   Price: 229,00 € EUR
-- [WBT 2020 CCS mit 0144 Interconnect HiFi Cinch Kabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/wbt-2020-ccs-mit-0144-interconnect-hifi-cinch-kabel-gebraucht-kaufen): WBT 2020 CCS mit 0144 Interconnect HiFi Cinch Kabel gebraucht kaufen ✅ Geprüfte Kabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:57Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_87defe54-9bde-486a-a6e8-5b3ec6c8c291.jpg?v=1749051664
-  Price: 129,00 € EUR
 - [HMS Sestetto MK III HighEnd HiFi XLR Kabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/hms-sestetto-mk-iii-highend-hifi-xlr-kabel-gebraucht-kaufen): HMS Sestetto MK III HighEnd HiFi XLR Kabel gebraucht kaufen ✅ Geprüfte Kabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
   Updated: 2025-09-15T22:27:19Z
   Vendor: WorldWideHifi
@@ -2511,7 +2504,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-11-29T12:36:02Z
   Total Products: 14
 - [Gebrauchte Plattenspieler kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-plattenspieler-kaufen): Gebrauchte Plattenspieler kaufen ✓ HiFi Schallplattenspeieler & Turntables im Top-Zustand ✓ Sicherer Versand weltweit ✓ Preiswertes High-End HiFi online bestellen
-  Updated: 2025-11-29T12:36:02Z
+  Updated: 2025-12-02T12:27:05Z
   Total Products: 43
 - [Gebrauchte Tapedecks kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-tapedecks-kaufen): Gebrauchte Tapedecks kaufen ✓ Gebrauchte Tapedecks / Kassettendecks & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-11-16T18:46:49Z
@@ -2532,7 +2525,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-11-21T10:50:57Z
   Total Products: 7
 - [Gebrauchte HiFi Kabel kaufen, Kabel für High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-kabel-gebraucht-kaufen): Gebrauchte HiFi Kabel kaufen ✓ Lautsprecherkabel & Kabel für High-End Geräte im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-12-01T12:25:27Z
+  Updated: 2025-12-03T12:22:09Z
   Total Products: 169
 - [Gebrauchte Lautsprecherkabel kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecherkabel-kaufen): Gebrauchte Lautsprecherkabel kaufen ✓ Gebrauchte Lautsprecherkabel & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-11-22T12:23:24Z
@@ -2553,8 +2546,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-11-22T09:26:16Z
   Total Products: 23
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-12-01T20:31:34Z
-  Total Products: 151
+  Updated: 2025-12-03T12:22:09Z
+  Total Products: 152
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-11-30T16:53:47Z
   Total Products: 26
