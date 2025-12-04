@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-04T16:12:28.674Z
+- Updated At: 2025-12-04T20:00:37.615Z
 
 ## Products
 
@@ -392,7 +392,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/krooked-completes-blue-7-75-krooked-team-sweatpants-md-complete-skateboard-7-75-1183727017.jpg?v=1757388846
   Price: £89.95 GBP
 - [Polar Skate Co Big Boy Jeans | Dark Blue](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-dark-blue): Buy the Polar Big Boys Jeans in Dark Blue at The Vines. The famous Polar Big Boys with best prices and fast, free delivery at www.thevinessupply.co
-  Updated: 2025-12-03T12:07:28Z
+  Updated: 2025-12-04T16:45:07Z
   Vendor: Polar
   Product Type: Jeans
   Availability: Available
@@ -418,8 +418,11 @@
   - [Large](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-dark-blue?variant=48316908044623)
     Availability: Not Available
     Price: £89.95 GBP
-  - [Extra Large](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-dark-blue?variant=48316908077391)
+  - [Extra Large (XL)](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-dark-blue?variant=48316908077391)
     Availability: Not Available
+    Price: £89.95 GBP
+  - [Extra Extra Large (XXL)](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-dark-blue?variant=56553193734479)
+    Availability: Available
     Price: £89.95 GBP
 - [Bones STF V5 Retros Sidecuts Skate Wheels | 103A](https://thevinessupply.co/products/bones-stf-v5-retros-sidecuts-skate-wheels-103a-52mm): Buy the Bones STF V5 Retros Sidecuts Skate Wheels in 103A at The Vines. STF gives you more control to skate with confidence.
   Updated: 2025-10-25T00:01:04Z
@@ -887,7 +890,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/real-completes-8-25-real-be-free-fades-complete-skateboard-8-25-1183722276.png?v=1757296458
   Price: £89.95 GBP
 - [Vans Bail Shoulder Bag | Black](https://thevinessupply.co/products/vans-bail-shoulder-bag-black): Buy the Vans Bail Shoulder Bag in Black at The Vines. The Vans Skate Bail Shoulder Bag is a 100% nylon shoulder bag with a bungee and 100% polyester lining. The Cordura® Brand Fabrics in this bag are recognised for their long-lasting durability and resistance to abrasions, tears and scuffs.
-  Updated: 2025-11-02T20:16:25Z
+  Updated: 2025-12-04T19:57:57Z
   Vendor: Vans
   Product Type: Hip Bag
   Availability: Available
@@ -1680,41 +1683,41 @@
     Availability: Available
     Price: £79.95 GBP
 - [Polar Skate Co Big Boy Jeans | Mid Blue](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue): Buy the Polar Big Boys Jeans in Mid Blue at The Vines. The famous Polar Big Boys with best prices and fast, free delivery at www.thevinessupply.co
-  Updated: 2025-11-26T14:42:35Z
+  Updated: 2025-12-04T16:44:07Z
   Vendor: Polar
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/polar-jeans-polar-skate-co-big-boy-jeans-mid-blue-1183718411.png?v=1757230205
   - [Extra Extra Extra Small (XXXS)](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue?variant=56003782541647)
     Availability: Available
-    Price: £109.95 GBP
+    Price: £89.95 GBP
   - [Extra Extra Small (XXS)](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue?variant=49608790114639)
     Availability: Available
-    Price: £109.95 GBP
+    Price: £89.95 GBP
   - [Extra Small](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue?variant=49608790147407)
     Availability: Available
-    Price: £109.95 GBP
+    Price: £89.95 GBP
   - [Small Tall](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue?variant=55289018089807)
     Availability: Available
-    Price: £109.95 GBP
+    Price: £89.95 GBP
   - [Small](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue?variant=49608790180175)
     Availability: Available
-    Price: £109.95 GBP
+    Price: £89.95 GBP
   - [Medium](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue?variant=49608790212943)
     Availability: Available
-    Price: £109.95 GBP
+    Price: £89.95 GBP
   - [Medium Tall](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue?variant=55289018122575)
     Availability: Not Available
-    Price: £109.95 GBP
+    Price: £89.95 GBP
   - [Large](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue?variant=49608790278479)
     Availability: Available
-    Price: £109.95 GBP
+    Price: £89.95 GBP
   - [Extra Large (XL)](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue?variant=49608790311247)
     Availability: Available
-    Price: £109.95 GBP
+    Price: £89.95 GBP
   - [Extra Extra Large (XXL)](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue?variant=56003796959567)
     Availability: Not Available
-    Price: £109.95 GBP
+    Price: £89.95 GBP
 - [Shake Junt Night Train Skateboard Bearings](https://thevinessupply.co/products/shake-junt-night-train-skateboard-bearings): Buy the Shake Junt Night Train Skateboard Bearings at The Vines. This bearing was designed with quality and affordability in mind. No flair, No gimmicks, just a really good set of bearings for a really good price.
   Updated: 2025-11-21T13:35:31Z
   Vendor: Shake Junt
@@ -3950,7 +3953,7 @@
     Availability: Not Available
     Price: £71.95 GBP
 - [New Balance Numeric 508 NM508WID Brandon Westgate Skate Shoes | Sea Salt & Black](https://thevinessupply.co/products/new-balance-numeric-508-nm508wid-brandon-westgate-skate-shoes-sea-salt-black): Buy the New Balance Numeric 508 NM508ICY Brandon Westgate Skate Shoes in Sea Salt & Black at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-10-29T19:34:50Z
+  Updated: 2025-12-04T19:39:21Z
   Vendor: New Balance Numeric
   Product Type: Shoes
   Availability: Available
@@ -3971,7 +3974,7 @@
     Availability: Not Available
     Price: £74.95 GBP
   - [UK 10](https://thevinessupply.co/products/new-balance-numeric-508-nm508wid-brandon-westgate-skate-shoes-sea-salt-black?variant=55838509171023)
-    Availability: Available
+    Availability: Not Available
     Price: £74.95 GBP
   - [UK 10.5](https://thevinessupply.co/products/new-balance-numeric-508-nm508wid-brandon-westgate-skate-shoes-sea-salt-black?variant=55838509203791)
     Availability: Not Available
@@ -5854,7 +5857,7 @@
     Availability: Available
     Price: £114.95 GBP
 - [Polar Skate Co Big Boy Jeans | Black & Dark Olive](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-black-dark-olive): Buy the Polar Big Boys Jeans in Black & Dark Olive at The Vines, with fast, premium delivery & easy returns.
-  Updated: 2025-11-28T14:34:17Z
+  Updated: 2025-12-04T16:37:00Z
   Vendor: Polar
   Product Type: Jeans
   Availability: Available
@@ -6440,7 +6443,7 @@
     Availability: Available
     Price: £34.95 GBP
 - [Magenta Skateboards Paint T-Shirt | Green](https://thevinessupply.co/products/magenta-skateboards-paint-t-shirt-green): Buy the Magenta Skateboards Paint T-Shirt in Green at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-11-13T05:20:46Z
+  Updated: 2025-12-04T17:46:31Z
   Vendor: Magenta
   Product Type: Tees
   Availability: Available
@@ -6449,7 +6452,7 @@
     Availability: Not Available
     Price: £34.95 GBP
   - [Large](https://thevinessupply.co/products/magenta-skateboards-paint-t-shirt-green?variant=56195530654031)
-    Availability: Available
+    Availability: Not Available
     Price: £34.95 GBP
   - [Extra Large](https://thevinessupply.co/products/magenta-skateboards-paint-t-shirt-green?variant=56195530686799)
     Availability: Available
@@ -7036,7 +7039,7 @@
   Updated: 2025-10-11T11:15:50Z
   Total Products: 57
 - [Skate Clothing | Skate Wear | The Vines](https://thevinessupply.co/collections/skate-clothing): Shop Premium Skatewear / Skate Clothing from your favourite skateboard brands at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-04T15:59:09Z
+  Updated: 2025-12-04T16:44:08Z
   Total Products: 2884
 - [Sunglasses | The Vines](https://thevinessupply.co/collections/sunglasses): Shop our collection of sunglasses has a style to suit every taste at The Vines. Complete your look and stay shaded with a frame from the finest skate & street wear sunglasses brand. Shop Vans Sunglasses, Glassy Eyewear and more from the best in skateboarding.
   Updated: 2025-11-09T12:16:47Z
@@ -7093,7 +7096,7 @@
   Updated: 2025-05-09T15:48:47Z
   Total Products: 123
 - [Polar Skate Co. | Polar Skate Co T-Shirts, Hoodies & Jeans](https://thevinessupply.co/collections/polar-skate-co): Shop our collection of Polar Skate Co t-shirts, hoodies and jorts. Explore Polar Skate Co Big Boy Jeans, the most legendary denim pants in the game!
-  Updated: 2025-12-04T15:32:42Z
+  Updated: 2025-12-04T16:44:08Z
   Total Products: 442
 - [Magenta Skateboards | Magenta Clothing, Decks & Accessories](https://thevinessupply.co/collections/magenta-skateboards): Shop Magenta Skateboards Clothing, Decks & Accessories at The Vines. Browse the biggest UK collection and get best price guarantee on all Magenta skate wear.
   Updated: 2025-12-02T12:25:48Z
@@ -7207,10 +7210,10 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 165
 - [Jeans, Cargos & Trousers](https://thevinessupply.co/collections/jeans-cargos-trousers): From baggy to classy, shop denim jeans, trousers, tracksuit bottoms and cargos from your favourite skateboard brands, such as Polar Skate Co, Butter Goods, Vans, Santa Cruz and Dickies.
-  Updated: 2025-12-04T12:24:13Z
+  Updated: 2025-12-04T16:44:08Z
   Total Products: 157
 - [Latest Arrivals | The Vines](https://thevinessupply.co/collections/latest-arrivals): Here's the latest goods to arrive at The Vines skate shop. Straight out the box, fresh stock for the masses from the best international. Shop now...
-  Updated: 2025-12-04T15:59:10Z
+  Updated: 2025-12-04T16:44:08Z
   Total Products: 5716
 - [Palace Skateboards | Skateboard Decks | The Vines](https://thevinessupply.co/collections/palace-skateboards): Shop the latest collections of Palace Skateboards skateboard decks at The Vines, with quick delivery and a range of griptape options.
   Updated: 2025-10-02T10:47:32Z
@@ -7318,13 +7321,13 @@
   Updated: 2025-11-06T17:24:33Z
   Total Products: 15
 - [Polar Big Boy Jeans | Polar Skate Co Denim | The Vines](https://thevinessupply.co/collections/polar-skate-co-big-boy-denim-jeans): Buy Polar Big Boy Jeans at The Vines. Shop the latest colourways as well as the classics, we're always stocked up. Polar Big Boys have an ultra-baggy fit, high quality denim and tapering at the ankle. Get best price guarantee and fast delivery at The Vines.
-  Updated: 2025-12-04T12:24:13Z
+  Updated: 2025-12-04T16:44:08Z
   Total Products: 26
 - [Casino Skateboards | The Vines](https://thevinessupply.co/collections/casino-skateboards): Shop Casino Skateboards at The Vines. Fresh out of the West Midlands, Casino Skateboards rolls the dice with memorable graphics, a great team and high quality, affordable decks.
   Updated: 2025-11-06T17:21:58Z
   Total Products: 17
 - [Jeans, Shorts and Trousers | The Vines](https://thevinessupply.co/collections/jeans-shorts-and-trousers): Shop Bottoms, including Denim Jeans, Shorts, Trousers, Chinos and Tracksuit Bottoms at The Vines.From baggy to classy, shop denim jeans, shorts, trousers, tracksuit bottoms and cargos from your favourite skateboard brands, such as Polar Skate Co, Butter Goods, Vans, Santa Cruz and Dickies.
-  Updated: 2025-12-04T12:24:13Z
+  Updated: 2025-12-04T16:44:08Z
   Total Products: 259
 - [Hoodies and Crewnecks | The Vines](https://thevinessupply.co/collections/hoodies-crews): Our curated collection of hoodies, crewnecks and sweaters from your favourite skateboard brands from the UK and worldwide, including Polar Skate Co, Helas, Magenta, Dime MTL, Vans, Dickies, RIPNDIP, HUF, Santa Cruz, Fucking Awesome, Hockey, Quasi, GVNMNT Clothing Co.
   Updated: 2025-12-01T17:54:43Z
@@ -7369,7 +7372,7 @@
   Updated: 2025-07-10T23:57:12Z
   Total Products: 4
 - [Denim Skate Jeans | The Vines](https://thevinessupply.co/collections/skate-jeans): Shop Denim Jeans from your favourite skateboard brands at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-04T12:24:13Z
+  Updated: 2025-12-04T16:44:08Z
   Total Products: 148
 - [Cargos, Chinos & Joggers | Skatewear Cargo Pants & Tracksuit Bottoms](https://thevinessupply.co/collections/cargos-chinos-joggers-tracksuit-bottoms): From baggy to classy, shop Cargos, Chinos, Joggers and Tracksuit Bottoms from your favourite skateboard brands at The Vines.
   Updated: 2025-11-27T12:26:09Z
@@ -7474,7 +7477,7 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-04T15:59:10Z
+  Updated: 2025-12-04T16:44:08Z
   Total Products: 3231
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-11-30T12:26:12Z
@@ -7483,7 +7486,7 @@
   Updated: 2025-11-09T12:16:47Z
   Total Products: 14
 - [Polar Big Boy Jeans & Shorts | Polar Skate Co Denim | The Vines](https://thevinessupply.co/collections/polar-skate-co-big-boy-jeans-shorts): Buy Polar Big Boy Jeans and Shorts at The Vines. Shop the latest colourways as well as the classics, we're always stocked up. Polar Big Boys have an ultra-baggy fit, high quality denim and tapering at the ankle. Get best price guarantee and fast delivery at The Vines.
-  Updated: 2025-12-04T12:24:13Z
+  Updated: 2025-12-04T16:44:08Z
   Total Products: 34
 - [Polar Skate Co Big Boy Shorts | Polar Denim Jorts | The Vines](https://thevinessupply.co/collections/polar-skate-co-big-boy-denim-shorts): Buy Polar Big Boy Shorts at The Vines. Shop the latest colourways as well as the classics, we're always stocked up. Polar Big Boys have an ultra-baggy fit and high quality denim & embroidery. Get best price guarantee and fast delivery at The Vines.
   Updated: 2025-12-04T12:24:13Z
@@ -7522,8 +7525,8 @@
   Updated: 2025-12-04T12:24:13Z
   Total Products: 23
 - [UK 10 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-10-skate-shoes): Shop our curated selection of Skate Shoes. We stock premium pairs of both cupsole and vulcanised skate shoes. Whether looking for suede, leather or canvas skate shoes, find a pair to meet the concrete. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2025-12-04T15:06:06Z
-  Total Products: 16
+  Updated: 2025-12-04T19:39:51Z
+  Total Products: 15
 - [UK 11 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-11-skate-shoes): Shop our curated selection of Skate Shoes at The Vines. We stock premium pairs of both cupsole and vulcanised skate shoes. Whether looking for suede, leather or canvas skate shoes, find a pair to meet the concrete. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
   Updated: 2025-12-03T16:10:16Z
   Total Products: 11
@@ -7579,8 +7582,8 @@
   Updated: 2025-11-28T12:32:47Z
   Total Products: 8
 - [Full Price Items](https://thevinessupply.co/collections/full-price-items)
-  Updated: 2025-12-04T15:59:10Z
-  Total Products: 2892
+  Updated: 2025-12-04T16:44:37Z
+  Total Products: 2891
 - [Toy Machine | Skateboard Decks & Clothing | The Vines](https://thevinessupply.co/collections/toy-machine): Shop Toy Machine Skateboard Decks & Clothing at The Vines. Since being founded by Ed Templeton in 1993, Templeton has been the creative force behind Toy Machine, infusing the brand with his distinctive blend of art and humour.
   Updated: 2025-02-20T13:05:21Z
   Total Products: 2
@@ -7588,7 +7591,7 @@
   Updated: 2025-02-20T13:05:21Z
   Total Products: 2
 - [Polar Skate Co Jeans](https://thevinessupply.co/collections/polar-skate-co-jeans): Creators of the most infamous baggy jeans in skate wear, the Polar Skate Co Big Boy, Polar's selection of skate denim is unmatched. Check out the Polar 93 Jeans, 92 Jeans, the new 89 Jean and of course, the original Polar Big Boys Jeans and Cords.
-  Updated: 2025-12-04T12:24:13Z
+  Updated: 2025-12-04T16:44:08Z
   Total Products: 38
 - [Dime MTL Shorts](https://thevinessupply.co/collections/dime-mtl-shorts): Shop our collection of Dime MTL Shorts. Explore Dime shorts including denim jorts and sport-inspired pieces.
   Updated: 2025-11-27T12:26:09Z
@@ -7693,7 +7696,7 @@
   Updated: 2025-11-27T12:26:09Z
   Total Products: 3
 - [Denim Jeans & Shorts | Skate Denim Jeans & Shorts](https://thevinessupply.co/collections/denim-jeans-shorts): Shop premium quality Denim Jeans and Denim Shorts from your favourite skate brands at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-04T12:24:13Z
+  Updated: 2025-12-04T16:44:08Z
   Total Products: 133
 - [Magenta Skateboards Hoodies](https://thevinessupply.co/collections/magenta-skateboards-hoodies): Shop our collection of Magenta Skateboards hoodies. Enjoy fast, free UK premium delivery on orders over £70 and best prices, guaranteed.
   Updated: 2025-11-27T12:26:09Z
@@ -7756,8 +7759,8 @@
   Updated: 2025-12-04T12:24:13Z
   Total Products: 292
 - [Black Friday Skateboard Sale](https://thevinessupply.co/collections/black-friday-skateboard-sale): Shop our Black Friday Skateboard Sale, with the best deals on premium skateboard trucks, decks, and wheels. Skate deals with free delivery on order over £70
-  Updated: 2025-12-04T15:32:42Z
-  Total Products: 3109
+  Updated: 2025-12-04T16:44:37Z
+  Total Products: 3110
 - [Palace Decks](https://thevinessupply.co/collections/palace-decks): Shop Palace Decks at The Vines. Check out our exclusive collection of genuine Palace Skateboard Decks with free delivery options and best prices.
   Updated: 2025-11-11T16:45:30Z
   Total Products: 67
