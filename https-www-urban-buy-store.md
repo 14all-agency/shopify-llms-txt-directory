@@ -6,12 +6,12 @@
 - Timezone: Europe/Warsaw
 - Created At: 2025-09-10T09:13:47Z
 - Contact Email: support@urban-buy.store
-- Updated At: 2025-12-03T00:00:54.432Z
+- Updated At: 2025-12-04T00:00:22.474Z
 
 ## Products
 
 - [Christmas Fondue Mug Set – Cozy Tealight Chocolate Treat](https://www.urban-buy.store/products/christmas-fondue-mug-chococup): Warm chocolate and festive fun with this fondue mug set. Perfect gift or cozy holiday treat for family and friends.
-  Updated: 2025-12-02T23:21:57Z
+  Updated: 2025-12-03T10:59:58Z
   Vendor: Renfen
   Product Type: Christmas
   Availability: Available
@@ -28,7 +28,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/christmas-fondue-mug-red-with-fork-and-candle-holder.webp?v=1763869424
     Price: $24.99 USD
 - [Smart HD Home Projector – Christmas Movie Night Essentials](https://www.urban-buy.store/products/smart-hd-home-projector-for-christmas): HD home projector with bright visuals & built-in audio. Perfect for cozy Christmas movie nights & festive gatherings.
-  Updated: 2025-12-02T23:18:07Z
+  Updated: 2025-12-03T10:59:58Z
   Vendor: cj
   Product Type: Christmas
   Availability: Available
@@ -42,7 +42,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/smart-hd-home-projector-for-christmas-white-cylindrical-lens-side.webp?v=1763869429
     Price: $89.98 USD
 - [Flame Humidifier Christmas Gift – Cozy LED Fire Effect](https://www.urban-buy.store/products/flame-humidifier-christmas-gift): Cozy flame-effect humidifier with quiet mist, auto shut-off & festive glow. Perfect Christmas gift for warm, relaxing winter nights.
-  Updated: 2025-12-02T23:13:49Z
+  Updated: 2025-12-03T10:59:58Z
   Vendor: cj
   Product Type: Christmas
   Availability: Available
@@ -54,7 +54,7 @@
     Availability: Available
     Price: $55.45 USD
 - [Fireplace Aroma Diffuser with Simulation Flame & Aroma | Urb](https://www.urban-buy.store/products/fireplace-aroma-diffuser): Fireplace AromaFireplace AromaFireplace AromaFireplace AromaFireplace AromaFirpo
-  Updated: 2025-12-02T09:55:58Z
+  Updated: 2025-12-03T12:46:37Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -76,7 +76,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/3d-fireplace-aroma-diffuser-white-wood-effect-front.webp?v=1763869476
     Price: $59.16 USD
 - [Electric Coffee Mug Rechargeable USB Heated Travel Cup | Urb](https://www.urban-buy.store/products/electric-coffee-mug-rechargeable): Shop Urban Buy for the electric coffee mug rechargeable by CJ—USB rechargeable with temperature control, perfect for cozy Christmas mornings.
-  Updated: 2025-12-02T09:55:58Z
+  Updated: 2025-12-03T10:59:59Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -90,7 +90,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/electric-coffee-mug-rechargeable-intelligent-temperature-display.webp?v=1763869484
     Price: $31.40 USD
 - [Charging Smart Remote Control For Bedroom Bedside Moon Lamp](https://www.urban-buy.store/products/charging-smart-remote-control-for-bedroom-bedside-moon-lamp): Charging SmartCharging SmartCharging SmartCharging SmartCharging Smartetyuiiuyti
-  Updated: 2025-12-02T09:55:57Z
+  Updated: 2025-12-03T12:46:37Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -104,7 +104,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1613626082106.webp?v=1763869492
     Price: $56.52 USD
 - [LED Galaxy Projector Lamp Starry Night Sky with Remote | Urb](https://www.urban-buy.store/products/led-galaxy-projector-lamp): Shop Urban Buy's LED galaxy projector lamp, perfect for Christmas ambiance with vibrant starry lights and easy remote control. Bring festive magic home!
-  Updated: 2025-12-02T09:55:59Z
+  Updated: 2025-12-03T10:59:59Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -122,7 +122,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/led-galaxy-projector-lamp-clear-dome-with-usb-remote.webp?v=1763310074
     Price: $25.53 USD
 - [Red Christmas Throw Pillow Covers](https://www.urban-buy.store/products/red-christmas-throw-pillow-covers): Red Christmas Throw Pillow Covers - Festive Holiday Decor
-  Updated: 2025-12-02T09:56:01Z
+  Updated: 2025-12-03T10:59:59Z
   Vendor: cj
   Product Type: Christmas
   Availability: Available
@@ -144,7 +144,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/red-christmas-throw-pillow-covers-holly-jolly-snowflake-design.jpg?v=1763310072
     Price: $11.71 USD
 - [Remote ControlRemote ControlRemote ControlRemote Controlft](https://www.urban-buy.store/products/remote-control-christmas-string-lights): Shop Urban Buy's remote control Christmas string lights with timer function for easy on/off. Perfect for festive, customizable holiday decorating.
-  Updated: 2025-12-02T09:56:01Z
+  Updated: 2025-12-03T10:59:59Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -162,7 +162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/remote-control-christmas-string-lights-5m-waterproof-rgb-small.jpg?v=1763310074
     Price: $27.57 USD
 - [Home Fashion Home Fashion Home Fashion Home Fashion Home Fao](https://www.urban-buy.store/products/home-fashion-simple-drawstring-christmas-gift-bag-suit): Home Fashion Home Fashion Home Fashion Home Fashion Home Fashion Home Fashion Ho
-  Updated: 2025-12-02T09:56:00Z
+  Updated: 2025-12-03T12:46:37Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -272,7 +272,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/68bb8b98-d632-428f-a3cd-d2778f5f12c1.jpg?v=1763868783
     Price: $11.38 USD
 - [Christmas SantaChristmas SantaChristmas SantaChristmas Santa](https://www.urban-buy.store/products/christmas-santa-claus-snowman-socks): Christmas SantaChristmas SantaChristmas SantaChristmas SantaChristmas SantaChris
-  Updated: 2025-12-02T23:07:41Z
+  Updated: 2025-12-03T12:46:37Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -290,21 +290,21 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/3f2d5943-084d-4d12-9ae2-ca9ea7ac27e7.jpg?v=1763869104
     Price: $10.69 USD
 - [PVC PE FlockingPVC PE FlockingPVC PE FlockingPVC PE Flocking](https://www.urban-buy.store/products/pvc-pe-flocking-hinged-christmas-tree): PVC PE FlockingPVC PE FlockingPVC PE FlockingPVC PE FlockingPVC PE FlockingETYIUY
-  Updated: 2025-12-02T09:55:58Z
+  Updated: 2025-12-03T11:00:00Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1873924114889314304.jpg?v=1763869106
   Price: $99.99 USD
 - [Christmas Tree with Solar Powered LED Pathway Lights](https://www.urban-buy.store/products/solar-powered-pathway-christmas-tree-with-led-lights): Christmas Tree illuminates your outdoor space with solar powered LED lights, adding festive charm to pathways and gardens.
-  Updated: 2025-12-02T09:56:02Z
+  Updated: 2025-12-03T11:00:00Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/728416db-50ef-425f-a1e7-3b1531bab8d8.jpg?v=1763869115
   Price: $25.25 USD
 - [Fashionable WarmFashionable WarmFashionable WarmFashionable](https://www.urban-buy.store/products/fashionable-warm-knitted-wool-hat): Fashionable WarmFashionable WarmFashionable WarmFashionable WarmFashionable Warm
-  Updated: 2025-12-02T10:46:46Z
+  Updated: 2025-12-03T12:46:37Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -354,14 +354,14 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/3224e233-fe86-48ee-b31a-a4608ad8f189.jpg?v=1763869141
     Price: $25.32 USD
 - [Jewelry RealJewelry RealJewelry RealJewelry RealJewelry Real](https://www.urban-buy.store/products/jewelry-real-rose-flower-drawer-gift-box): Jewelry RealJewelry RealJewelry RealJewelry RealJewelry RealJewelry RealJewelry Real
-  Updated: 2025-12-02T09:56:01Z
+  Updated: 2025-12-03T11:00:00Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/692a023c-643a-485f-98ec-2b7077bcc8cd.jpg?v=1763869150
   Price: $81.09 USD
 - [LED Book ReadingLED Book ReadingLED Book ReadingLED Book Rea](https://www.urban-buy.store/products/led-book-reading-lamp-for-night-reading): gLED Book ReadingLED Book ReadingLED Book ReadingLED Book ReadingLED Book Reading
-  Updated: 2025-12-02T09:55:58Z
+  Updated: 2025-12-03T11:00:00Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -375,7 +375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/71c58c93-5148-4378-a5ba-759483f368ae.jpg?v=1764599210
     Price: $33.95 USD
 - [LeviMoon™ LeviMoon™ LeviMoon™ LeviMoon™ LeviMoon™ LeviMoon™G](https://www.urban-buy.store/products/magnetic-levitation-moon-light-3d-printing-moon-light): LeviMoon™ LeviMoon™ LeviMoon™ LeviMoon™ LeviMoon™ LeviMoon™ LeviMoon™ LeviMoon™V
-  Updated: 2025-12-02T09:56:01Z
+  Updated: 2025-12-03T11:00:01Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -413,14 +413,14 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1615192342673.jpg?v=1763869182
     Price: $89.98 USD
 - [Frosted Mini Christmas Tree | Urban Buy](https://www.urban-buy.store/products/mini-snow-flocked-christmas-tree): Frosted Mini Christmas Tree: Tabletop Christmas Tree Decor
-  Updated: 2025-12-02T12:49:13Z
+  Updated: 2025-12-03T11:00:01Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1718891203120074752.jpg?v=1763869183
   Price: $39.39 USD
 - [LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™H](https://www.urban-buy.store/products/rose-flowers-led-light-bluetooth-compatible-speaker-valentines-day-gift): LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™ LumiRose™C
-  Updated: 2025-12-02T09:55:57Z
+  Updated: 2025-12-03T11:00:01Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -466,7 +466,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/5a948263-1bb6-4090-9606-2161f13a0c84.jpg?v=1763869237
     Price: $43.33 USD
 - [Jellyfish Night Diffuser](https://www.urban-buy.store/products/aroma-jellyfish-air-humidifier): AquaMist™ Jellyfish Ultrasonic Aroma Night Diffuser
-  Updated: 2025-12-02T12:49:13Z
+  Updated: 2025-12-03T11:00:01Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -488,7 +488,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/3ea26531-056e-489a-a5be-55b3dc579ecd.jpg?v=1763869245
     Price: $69.45 USD
 - [Holiday Door Carpet – SantaGlow Christmas Welcome Mat](https://www.urban-buy.store/products/holiday-door-carpet-santaglow-christmas-welcome-mat): Holiday Door Carpet – SantaGlow Christmas Welcome Mat
-  Updated: 2025-12-02T09:56:02Z
+  Updated: 2025-12-03T11:00:01Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -506,7 +506,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/d0f126d2-0721-4087-ae24-4b69cf5c359d.jpg?v=1763869251
     Price: $25.44 USD
 - [LED Christmas Nordic Window Doll Decor](https://www.urban-buy.store/products/new-cross-border-dolls-window-dressing-props): ForestGlow™ Nordic LED Christmas Window Doll Decor - Urban Buy
-  Updated: 2025-12-02T09:55:59Z
+  Updated: 2025-12-03T11:00:01Z
   Vendor: Renfen
   Product Type: Christmas
   Availability: Available
@@ -536,7 +536,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/8874db16-4e75-4f0b-95b4-22b45acdfadf.jpg?v=1763869265
     Price: $16.21 USD
 - [LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™](https://www.urban-buy.store/products/led-green-leaf-copper-wire-lighting-chain-indoor-room-decoration): LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™ LeafGlow™JH
-  Updated: 2025-12-02T09:56:01Z
+  Updated: 2025-12-03T11:00:02Z
   Vendor: Renfen
   Product Type: Christmas
   Availability: Available
@@ -590,7 +590,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/67737dcb-bf81-43b0-ab95-92cd832b9447_f73a58eb-2284-4e98-96c4-9a1cccdccc75.jpg?v=1763869288
     Price: $17.88 USD
 - [GlowFest™GlowFest™GlowFest™GlowFest™GlowFest™GlowFest™GlowFe](https://www.urban-buy.store/products/holiday-lantern-string-curtain-lights): GlowFest™GlowFest™GlowFest™GlowFest™GlowFest™GlowFest™GlowFest™GlowFest™GlowFest™GlowF
-  Updated: 2025-12-02T09:55:57Z
+  Updated: 2025-12-03T11:00:02Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -620,7 +620,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1617762362880.jpg?v=1763869301
     Price: $48.41 USD
 - [Snowman Holiday Ornaments Set | Urban Buy](https://www.urban-buy.store/products/christmas-decorations-snowmen): FrostyCharm™ Snowman Christmas Decorations bring cozy, handcrafted charm to your holiday décor with soft premium flannel and cheerful detailing.
-  Updated: 2025-12-02T09:55:57Z
+  Updated: 2025-12-03T11:00:02Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -642,7 +642,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1852938515025_34e91da5-1f0b-4dd5-a324-9243b03d9366.jpg?v=1763869309
     Price: $13.21 USD
 - [Christmas Elk Cozy Slippers – Plush Winter Indoor Warmth](https://www.urban-buy.store/products/christmas-shoes-winter-home-slippers): Soft plush Christmas elk slippers with non-slip soles. Warm, festive, and perfect for holiday lounging or gifting.
-  Updated: 2025-12-02T22:58:04Z
+  Updated: 2025-12-03T11:00:02Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -680,7 +680,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/22bee520-0a07-43aa-ae00-04926f092e04.jpg?v=1763869353
     Price: $37.72 USD
 - [Christmas Socks: Festive Hanging Stockings Decor](https://www.urban-buy.store/products/christmas-socks-festive-hanging-stockings): Discover charming Christmas Socks to enhance your home décor with holiday cheer. Perfect for every festive celebration!
-  Updated: 2025-12-02T23:02:06Z
+  Updated: 2025-12-03T11:00:02Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -806,14 +806,14 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/2839800679894.jpg?v=1763869403
     Price: $7.85 USD
 - [LED Christmas Night Lamp - PearlGlow LED Tree Light](https://www.urban-buy.store/products/christmas-tree-light-pearlglow-led-lamp): Enhance your home with the Christmas Tree Light and enjoy the warm glow of the LED Christmas night lamp for a magical holiday ambience.
-  Updated: 2025-12-02T23:05:58Z
+  Updated: 2025-12-03T11:00:02Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/2530341432037.webp?v=1762854367
   Price: $49.12 USD
 - [Resin Christmas Gnome & Santa Ornament – Festive Decor](https://www.urban-buy.store/products/resin-christmas-gnome-doll-santa-snowman-decoration-ornament): Charming resin gnome, Santa & snowman decorations. Handcrafted, durable & perfect for cozy Christmas displays.
-  Updated: 2025-12-01T03:14:17Z
+  Updated: 2025-12-03T11:00:02Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -835,7 +835,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/90729f6c-aeef-4cfb-b746-d6cb4f5184fe.jpg?v=1764154438
     Price: $24.67 USD
 - [Christmas Letter Lights – Festive Holiday Decor](https://www.urban-buy.store/products/christmas-decorative-letter-lights): Brighten your holidays with colorful Christmas letter lights. Compact, lightweight & perfect for cozy festive displays.
-  Updated: 2025-12-01T03:10:52Z
+  Updated: 2025-12-03T11:00:03Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -853,7 +853,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/cad49f65-1946-4241-889d-4b6896cc5c9b.jpg?v=1764169318
     Price: $20.99 USD
 - [LED Christmas Lights - Vibrant & Energy-Efficient Decor](https://www.urban-buy.store/products/led-christmas-lights): Discover LED Christmas Lights for vibrant, easy-to-install decorations. Create a cozy holiday atmosphere with durable, festive designs.
-  Updated: 2025-12-01T03:06:47Z
+  Updated: 2025-12-03T11:00:03Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -902,8 +902,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/f03531c0-f61b-4515-addd-4e5460454ad6.jpg?v=1764171768
     Price: $20.99 USD
-- [Mirror Elk Horn Christmas Ball – Sparkly Christmas Tree Ornament](https://www.urban-buy.store/products/mirror-elk-horn-christmas-ball-tree-decoration-pendant): Shiny mirror-ball elk horn ornament for Christmas décor. Lightweight and festive — adds sparkle to any tree or holiday setup.
-  Updated: 2025-12-01T03:01:25Z
+- [Mirror Elk HornMirror Elk HornMirror Elk HornMirror Elk Horn](https://www.urban-buy.store/products/mirror-elk-horn-christmas-ball-tree-decoration-pendant): Mirror Elk HornMirror Elk HornMirror Elk HornMirror Elk HornMirror Elk HornMirror Elk Horn
+  Updated: 2025-12-03T18:41:04Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -933,21 +933,21 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/c3d4b626-4392-45ad-b814-613646f0c94f.jpg?v=1764172842
     Price: $19.99 USD
 - [Ice Transparent Snowflake Icicle Set – Acrylic Christmas Ornaments](https://www.urban-buy.store/products/ice-transparent-snowflake-icicle-set): Clear acrylic icicle & snowflake set with 10 pieces. Lightweight, durable and perfect for Christmas tree or holiday décor.
-  Updated: 2025-12-01T02:52:54Z
+  Updated: 2025-12-03T12:46:37Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/fcd17d82-e589-4563-802a-4238ba6b200a.jpg?v=1764173158
   Price: $17.99 USD
 - [Snowfall Christmas Crystal Lamp – LED Snow Globe Holiday Decor](https://www.urban-buy.store/products/snowfall-christmas-crystal-lamp): Magical LED crystal lamp with falling snow and festive characters. Creates the perfect cozy Christmas ambiance anywhere in your home.
-  Updated: 2025-12-01T02:39:00Z
+  Updated: 2025-12-03T11:00:03Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/ea3dcf25-a768-4f1b-9d3b-f87f1a981d35.jpg?v=1764173257
   Price: $24.99 USD
 - [Christmas Wreath Door Hanger Decoration | Festive Decor](https://www.urban-buy.store/products/christmas-wreath-door-hanger-decoration): Explore our Christmas Wreath Door Hanger Decoration for a festive touch! Multiple designs and sizes available to enhance your holiday spirit.
-  Updated: 2025-12-01T02:29:54Z
+  Updated: 2025-12-03T12:46:37Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -1053,7 +1053,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/34c9913d-ab7f-475b-8cc8-bc4485c6421d.jpg?v=1764173425
     Price: $35.99 USD
 - [Christmas Crystal Ball - Festive Resin Decoration](https://www.urban-buy.store/products/christmas-crystal-ball): Enhance your festivities with our Christmas crystal ball, featuring a glowing snowman and tree for the perfect holiday charm.
-  Updated: 2025-11-29T16:18:11Z
+  Updated: 2025-12-03T11:00:04Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -1067,7 +1067,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/db31baae-98ac-481e-849c-34ceaf306db0.jpg?v=1764173504
     Price: $33.99 USD
 - [Retro Iron Christmas Candlestick – Vintage Holiday Candle Decor](https://www.urban-buy.store/products/retro-iron-christmas-candlestick-decorations): Discover Retro Iron Christmas decorations that elevate your festive decor with charm and elegance. Perfect for holiday celebrations!
-  Updated: 2025-11-30T04:09:45Z
+  Updated: 2025-12-03T11:00:04Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -1089,7 +1089,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/0dd5e060-898b-451b-a14d-98bc9777f3fb.jpg?v=1764264240
     Price: $29.99 USD
 - [Santa Claus doll](https://www.urban-buy.store/products/santa-claus-doll): Overview Festive Decoration: Perfect for Christmas decorations, adding a festive atmosphere to any space. Variety of Designs: Available in multiple styles including chef, pink, golden, and plaid Santa Claus. Gift Option: Ideal as a gift for various occasions like birthdays, Christmas, and parties. Durable Material: Made from high-quality cloth for long-lasting use. Specifications Material: Cloth Size: 151032CM Colors: Chef Santa Claus, Pink Santa Claus, Golden Santa, Black Red Plaid Santa Claus, Black White Plaid Santa Claus, Santa Claus holding branches, Red Santa Claus, Blue Santa Claus, Red Gold Santa Claus, White Santa Claus, Red knitted Santa Claus Packaging: OPP bag Packing List Santa Claus doll*1
-  Updated: 2025-11-28T21:39:04Z
+  Updated: 2025-12-03T11:00:04Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -1139,7 +1139,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/Santa_Claus_doll_christmas.jpg?v=1764322274
     Price: $41.36 USD
 - [Christmas Ceramic Mug – Festive Holiday Coffee Cup Gift](https://www.urban-buy.store/products/christmas-ceramic-mug-holiday-gift): Festive 360ml Christmas ceramic mug perfect for gifting, coffee, and cozy winter drinks. Comes in a ready gift box
-  Updated: 2025-11-30T00:29:00Z
+  Updated: 2025-12-03T11:00:04Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -1173,21 +1173,21 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/O1CN01sSoNID1dGlzjk89fi__3838623709-0-cib.jpg?v=1764419336
     Price: $31.99 USD
 - [Christmas Silicone Night Light – Cute Snowman & Tree Holiday Lamp](https://www.urban-buy.store/products/christmas-silicone-night-light-for-home-decor): Christmas silicone soft night light with Snowman, Tree & Boot designs. Safe, cozy, and perfect for holiday décor or gifting.
-  Updated: 2025-11-30T00:31:17Z
+  Updated: 2025-12-03T11:00:04Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/62391c74-58c2-4d42-b4a4-359522f9aa70.jpg?v=1764419470
   Price: $22.49 USD
-- [Artificial Cypress Vine Christmas Garland with Optional LED Lights](https://www.urban-buy.store/products/artificial-cypress-vine-for-christmas-home-decoration): Realistic artificial cypress vine garland for Christmas décor, available in multiple lengths with optional LED lights for a cozy festive glow.
-  Updated: 2025-11-30T00:33:38Z
+- [Artificial Cypress Artificial Cypress Artificial Cypress re5](https://www.urban-buy.store/products/artificial-cypress-vine-for-christmas-home-decoration): Realistic artificial cypress vine garland for Christmas décor, available in multiple lengths with optional LED lights for a cozy festive glow.
+  Updated: 2025-12-03T18:36:55Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/97caf0e1-45f8-4d59-b486-cba25222521f.jpg?v=1764419614
   Price: $24.49 USD
-- [Christmas Kraft Gift Wrapping Paper – Eco Friendly Holiday Rolls](https://www.urban-buy.store/products/christmas-kraft-wrapping-paper-for-gifts): Christmas kraft wrapping, Eco-friendly paper with festive prints in 5m or 10m rolls. Durable, vibrant, and perfect for holiday gifts.
-  Updated: 2025-11-30T02:45:55Z
+- [Christmas Kraft Christmas Kraft Christmas Kraft Christmas Kr](https://www.urban-buy.store/products/christmas-kraft-wrapping-paper-for-gifts): Christmas kraft wrapping, Eco-friendly paper with festive prints in 5m or 10m rolls. Durable, vibrant, and perfect for holiday gifts.
+  Updated: 2025-12-03T18:34:36Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -1216,8 +1216,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/3026c45d-f4b4-4fb9-9b4b-dcd6b03fac9a.jpg?v=1764427546
     Price: $20.40 USD
-- [Christmas Resin Mini House Santa Shop Ornament](https://www.urban-buy.store/products/christmas-resin-mini-house-santa-shop-ornament): Overview Festive Decor: Perfect for Christmas celebrations, adding a festive touch to any space. Detailed : Features intricate micro-landscape designs of Santa Claus shops. Resin Material: Durable and lightweight, suitable for display purposes. Glitter Finish: Includes decorative glitter for a sparkling effect (note: some shedding may occur). Specifications Material: Resin Variants: A Coffee Shop B Candy Shop C Gift Shop Dimensions: Information missing Weight: Information missing Packing List Resin ornament*1 Overview Festive Decor: Perfect for Christmas celebrations, adding a festive touch to any space. Detailed Design: Features intricate micro-landscape designs of Santa Claus shops. Resin Material: Durable and lightweight, suitable for display purposes. Glitter Finish: Includes decorative glitter for a sparkling effect (note: some shedding may occur). Specifications Material: Resin Variants: A Coffee Shop B Candy Shop C Gift Shop Packing List Resin ornament*1
-  Updated: 2025-11-30T16:17:26Z
+- [Christmas ResinChristmas ResinChristmas ResinChristmas Resin](https://www.urban-buy.store/products/christmas-resin-mini-house-santa-shop-ornament): Christmas ResinChristmas ResinChristmas ResinChristmas ResinChristmas ResinChristmas Re
+  Updated: 2025-12-03T18:31:39Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -1234,8 +1234,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/75769fdc-72ab-4c34-a085-4ae1a6b94ea3_d7483d3b-2987-4633-9ca3-11610edaa8b6.jpg?v=1764427738
     Price: $18.99 USD
-- [DIY Felt Christmas Tree Wall Decoration with LED Lights](https://www.urban-buy.store/products/diy-felt-christmas-tree-wall-decoration-with-led-lights): Overview DIY Christmas Tree: Handcrafted felt Christmas tree perfect for DIY enthusiasts and children. Decorative Gift: Ideal as a festive decoration or small gift for Christmas. Wall-Mounted Design: Unique corner or wall decoration for homes during the holiday season. Specifications Material: Non-woven fabric (felt) Height: 1m Variants: Multiple options available (with/without LED string lights, different styles) Included Accessories: Hooks and nails for wall mounting Usage: Decorative wall hanging Packing List DIY felt Christmas tree*1 Hooks*1 Nails*1 LED string lights (if selected variant includes it)*1
-  Updated: 2025-11-30T02:50:57Z
+- [DIY Felt Christmas DIY Felt Christmas DIY Felt Christmasjhgf](https://www.urban-buy.store/products/diy-felt-christmas-tree-wall-decoration-with-led-lights): DIY Felt Christmas DIY Felt Christmas DIY Felt Christmas DIY Felt Christmas DIY Felt Chri
+  Updated: 2025-12-03T18:30:31Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -1276,15 +1276,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/ea86367a-2589-45da-8740-7ff3c7753c95.jpg?v=1764427849
     Price: $36.69 USD
-- [Adjustable Measuring Cup – Space-Saving Kitchen Essential](https://www.urban-buy.store/products/household-adjustable-measuring-cup): Compact, adjustable measuring cup with clear markings. Ideal for dry & liquid ingredients, easy to clean, and perfect for home cooking.
-  Updated: 2025-12-02T14:48:23Z
+- [Household adjustableHousehold adjustableHousehold adjustable](https://www.urban-buy.store/products/household-adjustable-measuring-cup): Household adjustableHousehold adjustableHousehold adjustableHousehold adjustable
+  Updated: 2025-12-03T18:28:45Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/71G2a0aKjfL._AC_SL1500.jpg?v=1764686860
   Price: $30.99 USD
-- [Minecraft Color-Changing Ore Lamp – LED Gamer Night Light](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift): Dynamic Minecraft-themed lamp with color-changing LEDs. USB powered, multi-mode, perfect for gamers, bedrooms, and gifts.
-  Updated: 2025-12-02T14:59:08Z
+- [Minecraft Color-Changing Minecraft Color-Changing Minecraft](https://www.urban-buy.store/products/ore-lamp-color-changing-medicine-bottle-torch-torch-model-birthday-gift): Minecraft Color-Changing Minecraft Color-Changing Minecraft Color-Changing Mingtu
+  Updated: 2025-12-03T18:24:49Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -1369,15 +1369,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/23131de5-f365-4a79-99c2-ae3bcfefc31f.jpg?v=1764687218
     Price: $46.99 USD
-- [Children’s Video Intercom Toy – Wireless Interactive Fun](https://www.urban-buy.store/products/childrens-video-intercom-toy): Wireless video intercom for kids. Fun parent-child interaction, compact design, and durable construction for playful communication anytime.
-  Updated: 2025-12-02T15:07:26Z
+- [Children's Video Children's Video Children's Video Children'](https://www.urban-buy.store/products/childrens-video-intercom-toy): Children's Video Children's Video Children's Video Children's Video Children's Video Chil
+  Updated: 2025-12-03T18:25:30Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/8ae18b4f-bc2e-4fd0-ae42-dfc1d7f6303e.jpg?v=1764687782
   Price: $44.99 USD
-- [Crystal Ball Video Music Player – Stylish Gift & Multimedia Sphere](https://www.urban-buy.store/products/crystal-ball-video-music-picture-player): Play videos, music, and photos in a crystal ball. Stylish, battery-powered, and gift-ready for birthdays, holidays, and special occasions.
-  Updated: 2025-12-02T15:16:26Z
+- [Crystal Ball VideoCrystal Ball VideoCrystal Ball VideoCrysta](https://www.urban-buy.store/products/crystal-ball-video-music-picture-player): Crystal Ball VideoCrystal Ball VideoCrystal Ball VideoCrystal Ball VideoCrystal Ball Video
+  Updated: 2025-12-03T18:24:35Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -1390,15 +1390,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/8c13f487-38d8-4ad4-a116-b4a0e409a007.jpg?v=1764688212
     Price: $61.34 USD
-- [USB Plush Foot Warmer – Cozy Heated Slippers for Home & Office](https://www.urban-buy.store/products/usb-powered-plush-foot-warmer): Soft, USB-powered foot warmer with plush rabbit fur. Removable, safe, and perfect for cozy winter days at home, office, or dorm.
-  Updated: 2025-12-02T15:28:23Z
+- [USB PoweredUSB PoweredUSB PoweredUSB USB PoweredUSB Poweredh](https://www.urban-buy.store/products/usb-powered-plush-foot-warmer): USB PoweredUSB PoweredUSB PoweredUSB PoweredUSB PoweredUSB PoweredUSB PoweredUSB
+  Updated: 2025-12-03T18:23:38Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/8705542b-2f0b-4b43-baa7-f768464680cf.jpg?v=1764688817
   Price: $35.59 USD
-- [Christmas Snowflake LED Projection Light – USB Holiday Decor](https://www.urban-buy.store/products/christmas-projection-snowflake-led-decoration-light): Festive LED projection light with snowflake, Christmas & Halloween patterns. USB-powered, easy to hang, and perfect for seasonal décor.
-  Updated: 2025-12-02T15:36:25Z
+- [Christmas Projection Christmas Projection Christmas Projecti](https://www.urban-buy.store/products/christmas-projection-snowflake-led-decoration-light): Christmas Projection Christmas Projection Christmas Projection Christmas Project
+  Updated: 2025-12-03T18:22:38Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
@@ -1423,23 +1423,26 @@
 ## Collections
 
 - [Christmas Gift Ideas for 2025 – Urban Buy](https://www.urban-buy.store/collections/christmas-gift): Find unique Christmas gift ideas at Urban Buy. Shop cozy, stylish, and thoughtful presents perfect for family, friends, or anyone who loves holiday cheer.
-  Updated: 2025-12-02T14:59:07Z
+  Updated: 2025-12-03T10:59:58Z
   Total Products: 17
 - [Best Holiday Gift Essentials - Urban Buy](https://www.urban-buy.store/collections/best-holiday-gift-essentials-2025): Explore the Best Holiday Gift Essentials for 2025! Shop stylish and practical gifts that everyone will love this season.
-  Updated: 2025-12-02T11:13:44Z
+  Updated: 2025-12-03T10:59:58Z
   Total Products: 7
 - [Cozy Home Vibes: Embrace the Best Christmas Comfort](https://www.urban-buy.store/collections/cozy-home-vibes): Discover the best Christmas cozy home vibes with Urban Buy. Shop warm blankets, soft loungewear, fuzzy socks, and winter essentials made for comfort and style.
-  Updated: 2025-12-02T15:23:19Z
+  Updated: 2025-12-03T10:59:58Z
   Total Products: 21
 - [Top Selling Christmas Gifts this Year - Shop the Best!](https://www.urban-buy.store/collections/top-selling-products-this-christmas): Top Selling Products this Christmas include the best top selling Christmas gifts and more. Don't miss out on our festive favorites!
-  Updated: 2025-12-02T15:20:22Z
+  Updated: 2025-12-03T10:59:58Z
   Total Products: 13
 - [Partner Products](https://www.urban-buy.store/collections/partner-products)
-  Updated: 2025-11-23T18:09:20Z
+  Updated: 2025-12-03T11:22:10Z
   Total Products: 0
 - [Kids & Family Christmas Fun](https://www.urban-buy.store/collections/kids-family-christmas-fun): Create unforgettable memories with family-friendly Christmas activities and decor. Celebrate together with our Kids & Family Christmas Fun Collection — packed with child-friendly decorations, creative DIY crafts, glowing night lights, playful ornaments, and festive home items designed to bring families closer. Perfect for decorating with kids, setting up interactive holiday displays, and making the season extra magical. Safe, fun, and unforgettable Christmas joy for the whole family.
-  Updated: 2025-12-02T15:03:07Z
+  Updated: 2025-12-03T10:59:58Z
   Total Products: 9
+- [Kids & Family Christmas Fun](https://www.urban-buy.store/collections/kids-family-christmas-fun-1): Create unforgettable memories with family-friendly Christmas activities and decor. Celebrate together with our Kids & Family Christmas Fun Collection — packed with child-friendly decorations, creative DIY crafts, glowing night lights, playful ornaments, and festive home items designed to bring families closer. Perfect for decorating with kids, setting up interactive holiday displays, and making the season extra magical. Safe, fun, and unforgettable Christmas joy for the whole family.
+  Updated: 2025-12-03T11:22:10Z
+  Total Products: 1
 
 ## Blogs
 
