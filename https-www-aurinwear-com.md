@@ -4,7 +4,7 @@
 
 - Contact Email: support@aurinwear.com
 - Address: Dallas, TX, USA
-- Updated At: 2025-12-03T00:01:13.341Z
+- Updated At: 2025-12-04T00:00:49.716Z
 
 ## Products
 
@@ -925,6 +925,126 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-classic-tee-yellow-haze-front-69257b1da21a3.png?v=1764064051
     Price: $31.50 USD
+- [Unisex Premium _Best Wishes Sweatshirt  Blue](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-blue): Product Description Spread positivity in style with this Best Wishes Graphic Sweatshirt, featuring bold purple, green, and yellow accents for a fun, uplifting look. Made with a soft cotton face and cozy fleece interior, this unisex premium crewneck delivers all-day comfort and a relaxed streetwear vibe. The tightly knit 3-end fleece, ribbed cuffs, and durable double-needle stitching ensure long-lasting quality. Perfect for layering or wearing solo, this everyday sweater adds warm energy and feel-good style to any outfit. • 100% cotton face• 65% cotton, 35% polyester (Charcoal Heather: 55% cotton, 45% polyester)• Fabric weight: 8.5 oz/yd² (288.2 g/m²)• Soft, premium fleece• Ribbed crew neck, cuffs, and hem• Side-seamed construction for a clean fit• Double-needle stitching for durability Key Description Bold “Best Wishes” graphic in vibrant purple, green, and yellow Unisex premium sweatshirt with a classic crewneck fit Soft fleece interior for everyday comfort and warmth 100% cotton face with a durable cotton–poly blend body Tightly knit 3-end fleece for a smooth, premium feel Double-needle stitched collar, cuffs & hem for long-lasting wear Side-seamed construction for a structured, high-quality fit Perfect for casual wear, gifting & positive streetwear looks
+  Updated: 2025-12-03T20:44:50Z
+  Vendor: Aurin Wear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693086b7c6b65.png?v=1764787918
+  - [S](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-blue?variant=45917277126806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693086b7c6b65.png?v=1764787918
+    Price: $33.50 USD
+  - [M](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-blue?variant=45917277159574)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693086b7c6b65.png?v=1764787918
+    Price: $33.50 USD
+  - [L](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-blue?variant=45917277192342)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693086b7c6b65.png?v=1764787918
+    Price: $33.50 USD
+  - [XL](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-blue?variant=45917277225110)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693086b7c6b65.png?v=1764787918
+    Price: $33.50 USD
+  - [2XL](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-blue?variant=45917277257878)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693086b7c6b65.png?v=1764787918
+    Price: $35.50 USD
+  - [3XL](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-blue?variant=45917277290646)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-693086b7c6b65.png?v=1764787918
+    Price: $38.00 USD
+- [Unisex Premium _Best Wishes Sweatshirt  Black](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-black): Product Description Spread positivity in style with this Best Wishes Graphic Sweatshirt, featuring bold purple, green, and yellow accents for a fun, uplifting look. Made with a soft cotton face and cozy fleece interior, this unisex premium crewneck delivers all-day comfort and a relaxed streetwear vibe. The tightly knit 3-end fleece, ribbed cuffs, and durable double-needle stitching ensure long-lasting quality. Perfect for layering or wearing solo, this everyday sweater adds warm energy and feel-good style to any outfit. • 100% cotton face• 65% cotton, 35% polyester (Charcoal Heather: 55% cotton, 45% polyester)• Fabric weight: 8.5 oz/yd² (288.2 g/m²)• Soft, premium fleece• Ribbed crew neck, cuffs, and hem• Side-seamed construction for a clean fit• Double-needle stitching for durability Key Description Bold “Best Wishes” graphic in vibrant purple, green, and yellow Unisex premium sweatshirt with a classic crewneck fit Soft fleece interior for everyday comfort and warmth 100% cotton face with a durable cotton–poly blend body Tightly knit 3-end fleece for a smooth, premium feel Double-needle stitched collar, cuffs & hem for long-lasting wear Side-seamed construction for a structured, high-quality fit Perfect for casual wear, gifting & positive streetwear looks
+  Updated: 2025-12-03T20:17:54Z
+  Vendor: Aurin Wear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69308af12f7a5.png?v=1764788991
+  - [S](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-black?variant=45917318086806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69308af12f7a5.png?v=1764788991
+    Price: $33.50 USD
+  - [M](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-black?variant=45917318119574)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69308af12f7a5.png?v=1764788991
+    Price: $33.50 USD
+  - [L](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-black?variant=45917318152342)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69308af12f7a5.png?v=1764788991
+    Price: $33.50 USD
+  - [XL](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-black?variant=45917318185110)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69308af12f7a5.png?v=1764788991
+    Price: $33.50 USD
+  - [2XL](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-black?variant=45917318217878)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69308af12f7a5.png?v=1764788991
+    Price: $35.50 USD
+  - [3XL](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-black?variant=45917318250646)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69308af12f7a5.png?v=1764788991
+    Price: $38.00 USD
+- [Unisex Premium _Best Wishes Sweatshirt  Green](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-green): Product Description Spread positivity in style with this Best Wishes Graphic Sweatshirt, featuring bold purple, green, and yellow accents for a fun, uplifting look. Made with a soft cotton face and cozy fleece interior, this unisex premium crewneck delivers all-day comfort and a relaxed streetwear vibe. The tightly knit 3-end fleece, ribbed cuffs, and durable double-needle stitching ensure long-lasting quality. Perfect for layering or wearing solo, this everyday sweater adds warm energy and feel-good style to any outfit. • 100% cotton face• 65% cotton, 35% polyester (Charcoal Heather: 55% cotton, 45% polyester)• Fabric weight: 8.5 oz/yd² (288.2 g/m²)• Soft, premium fleece• Ribbed crew neck, cuffs, and hem• Side-seamed construction for a clean fit• Double-needle stitching for durability Key Description Bold “Best Wishes” graphic in vibrant purple, green, and yellow Unisex premium sweatshirt with a classic crewneck fit Soft fleece interior for everyday comfort and warmth 100% cotton face with a durable cotton–poly blend body Tightly knit 3-end fleece for a smooth, premium feel Double-needle stitched collar, cuffs & hem for long-lasting wear recommend ordering one size larger than your usual size.
+  Updated: 2025-12-03T20:17:54Z
+  Vendor: Aurin Wear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69308bda71e84.png?v=1764789221
+  - [S](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-green?variant=45917322477718)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69308bda71e84.png?v=1764789221
+    Price: $33.50 USD
+  - [M](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-green?variant=45917322510486)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69308bda71e84.png?v=1764789221
+    Price: $33.50 USD
+  - [L](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-green?variant=45917322543254)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69308bda71e84.png?v=1764789221
+    Price: $33.50 USD
+  - [XL](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-green?variant=45917322576022)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69308bda71e84.png?v=1764789221
+    Price: $33.50 USD
+  - [2XL](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-green?variant=45917322608790)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69308bda71e84.png?v=1764789221
+    Price: $35.50 USD
+  - [3XL](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-green?variant=45917322641558)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-69308bda71e84.png?v=1764789221
+    Price: $38.00 USD
+- [Unisex Premium _Best Wishes Sweatshirt  stone](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-stone): Product Description Spread positivity in style with this Best Wishes Graphic Sweatshirt, featuring bold purple, green, and yellow accents for a fun, uplifting look. Made with a soft cotton face and cozy fleece interior, this unisex premium crewneck delivers all-day comfort and a relaxed streetwear vibe. The tightly knit 3-end fleece, ribbed cuffs, and durable double-needle stitching ensure long-lasting quality. Perfect for layering or wearing solo, this everyday sweater adds warm energy and feel-good style to any outfit. • 100% cotton face• 65% cotton, 35% polyester (Charcoal Heather: 55% cotton, 45% polyester)• Fabric weight: 8.5 oz/yd² (288.2 g/m²)• Soft, premium fleece• Ribbed crew neck, cuffs, and hem• Side-seamed construction for a clean fit• Double-needle stitching for durability Key Description Bold “Best Wishes” graphic in vibrant purple, green, and yellow Unisex premium sweatshirt with a classic crewneck fit Soft fleece interior for everyday comfort and warmth 100% cotton face with a durable cotton–poly blend body Tightly knit 3-end fleece for a smooth, premium feel Double-needle stitched collar, cuffs & hem for long-lasting wear
+  Updated: 2025-12-03T20:17:54Z
+  Vendor: Aurin Wear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-69308ceea1949.png?v=1764789498
+  - [S](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-stone?variant=45917328703638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-69308ceea1949.png?v=1764789498
+    Price: $32.50 USD
+  - [M](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-stone?variant=45917328736406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-69308ceea1949.png?v=1764789498
+    Price: $33.50 USD
+  - [L](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-stone?variant=45917328769174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-69308ceea1949.png?v=1764789498
+    Price: $33.50 USD
+  - [XL](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-stone?variant=45917328801942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-69308ceea1949.png?v=1764789498
+    Price: $33.50 USD
+  - [2XL](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-stone?variant=45917328834710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-69308ceea1949.png?v=1764789498
+    Price: $35.50 USD
+  - [3XL](https://www.aurinwear.com/products/unisex-premium-_best-wishes-sweatshirt-stone?variant=45917328867478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-69308ceea1949.png?v=1764789498
+    Price: $38.00 USD
 
 ## Collections
 
@@ -959,8 +1079,8 @@
   Updated: 2025-11-27T20:21:55Z
   Total Products: 9
 - [Aurin Wear Collection | Premium Stylish Clothing for Every Day](https://www.aurinwear.com/collections/all): Explore the Aurin Wear Collection featuring premium-quality, stylish, and comfortable apparel made for modern lifestyles. Shop trendy essentials, everyday favorites, and fashion pieces designed to elevate your style effortlessly.
-  Updated: 2025-11-27T20:05:37Z
-  Total Products: 31
+  Updated: 2025-12-03T20:11:35Z
+  Total Products: 35
 - [Best Selling Aurin Wear T-Shirts, Hoodies & Sweatshirts](https://www.aurinwear.com/collections/best-selling-aurin-wear-tshirts-hoodies-sweatshirts): Shop the best selling Aurin Wear T-shirts, hoodies and sweatshirts. Premium comfort, modern fits and everyday streetwear essentials loved by our customers.
   Updated: 2025-11-27T20:21:55Z
   Total Products: 9
