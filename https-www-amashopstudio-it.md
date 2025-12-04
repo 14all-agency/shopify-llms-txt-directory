@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-12-03T00:00:31.989Z
+- Updated At: 2025-12-04T00:00:34.900Z
 
 ## Products
 
@@ -787,7 +787,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/cvoaciort_2b63f46d-14cc-4d33-9036-45025cfc706a.jpg?v=1738885487
   Price: 8,00 € EUR
 - [Blocco note ''La famiglia '' personalizzabile](https://www.amashopstudio.it/products/blocco-note-la-famiglia-personalizzabile): Dai un tocco di originalità ai tuoi appunti , scegli il nostro blocco note personalizzato. Fai un regalo unico . Personalizzato con stampa sublimatica, questo blocco note sarà un regalo unico ed originale. Personalizzala con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care! Misure:14,7cm/21cm/1,5cm Contiene 100 fogli di carta comune.
-  Updated: 2025-09-17T14:59:25Z
+  Updated: 2025-12-03T07:18:08Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
