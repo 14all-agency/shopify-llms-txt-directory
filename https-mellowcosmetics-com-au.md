@@ -9,7 +9,7 @@
 - Created At: 2017-12-20T22:59:48Z
 - Contact Email: info@mellowcosmetics.com
 - Address: 18/71 Jijaws Street Sumner, QLD, Australia 4074
-- Updated At: 2025-12-04T07:37:16.227Z
+- Updated At: 2025-12-04T07:57:52.129Z
 
 ## Products
 
@@ -763,15 +763,6 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/OR8w256.png?v=1737382700
   Price: $2.00 AUD
 [List Continued](https://mellowcosmetics.com.au/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NjEzMzk0ODM3Nzk0LCJsYXN0X3ZhbHVlIjoiOTYxMzM5NDgzNzc5NCJ9)
-
-## Policies
-
-- [Privacy Policy](https://mellowcosmetics.com.au/policies/privacy-policy)
-  Updated: 2019-07-08T21:42:50+10:00
-- [Refund Policy](https://mellowcosmetics.com.au/policies/refund-policy)
-  Updated: 2019-07-08T21:42:50+10:00
-- [Terms of Service](https://mellowcosmetics.com.au/policies/terms-of-service)
-  Updated: 2019-07-08T21:42:50+10:00
 
 ## Optional
 
