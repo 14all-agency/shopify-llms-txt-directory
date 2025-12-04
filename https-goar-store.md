@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-08-13T12:49:55Z
 - Contact Email: joseluisgonzalezarsb@gmail.com
-- Updated At: 2025-12-02T00:01:59.096Z
+- Updated At: 2025-12-04T00:00:50.623Z
 
 ## Products
 
@@ -153,14 +153,14 @@
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/lane-seven-ls14003-i-premium-full-zip-hoodie-white-back-6924c0b4e275c.jpg?v=1764016328
     Price: €44.99 EUR
 - [Embroidered Beanie](https://goar.store/products/embroidered-beanie): The perfect beanie has arrived! This embroidered beauty has a snug fit that ensures you're going to feel cozy and warm whatever you're doing. • 60% cotton, 40% acrylic • Breathable cotton blend • Form-fitting shape • One size fits most This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2025-11-27T15:26:36Z
+  Updated: 2025-12-02T18:48:47Z
   Vendor: Goar Store 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/knit-beanie-white-front-6924c25a1636d.jpg?v=1764016742
-  Price: €17.49 EUR
+  Price: €49.99 EUR
 - [Clear Case for iPhone®](https://goar.store/products/clear-case-for-iphone®): This sleek iPhone® case protects your phone from scratches, dust, oil, and dirt. It has a solid back and flexible sides that make it easy to take on and off, with precisely aligned port openings. • Solid polycarbonate back • Flexible, see-through polyurethane sides • .5 mm raised bezel • Precisely aligned port openings • Easy to take on and off • Wireless charging compatible • The SE case fits the 2020 iPhone® SE model • Blank product sourced from China or South Korea Disclaimer: The case may include a protective film on the inside that needs to be removed before use. Important: The iPhone 15 and iPhone 16 series can’t be shipped to South Korea, Hong Kong, Taiwan, Japan, or Singapore. If your shipping address is in these regions, please choose a different iPhone model. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2025-12-01T19:24:12Z
+  Updated: 2025-12-02T13:25:10Z
   Vendor: Goar Store 
   Product Type: 
   Availability: Available
@@ -168,127 +168,127 @@
   - [iPhone 11 Pro Max](https://goar.store/products/clear-case-for-iphone®?variant=55997964058948)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-11-pro-max-case-on-phone-6924c35e02b09.jpg?v=1764017008
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 11 Pro](https://goar.store/products/clear-case-for-iphone®?variant=55997964091716)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-11-pro-case-on-phone-6924c35e01f58.jpg?v=1764017008
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 11](https://goar.store/products/clear-case-for-iphone®?variant=55997964124484)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-11-case-on-phone-6924c35e02cd6.jpg?v=1764017008
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 12 mini](https://goar.store/products/clear-case-for-iphone®?variant=55997964157252)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-12-mini-case-on-phone-6924c35e02db7.jpg?v=1764017008
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 12 Pro Max](https://goar.store/products/clear-case-for-iphone®?variant=55997964190020)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-12-pro-max-case-on-phone-6924c35e02e9b.jpg?v=1764017008
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 12 Pro](https://goar.store/products/clear-case-for-iphone®?variant=55997964222788)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-12-pro-case-on-phone-6924c35e02f7d.jpg?v=1764017009
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 12](https://goar.store/products/clear-case-for-iphone®?variant=55997964255556)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-12-case-on-phone-6924c35e0306e.jpg?v=1764017008
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 13 mini](https://goar.store/products/clear-case-for-iphone®?variant=55997964288324)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-13-mini-case-on-phone-6924c35e03153.jpg?v=1764017008
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 13 Pro Max](https://goar.store/products/clear-case-for-iphone®?variant=55997964321092)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-13-pro-max-case-on-phone-6924c35e0323b.jpg?v=1764017009
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 13 Pro](https://goar.store/products/clear-case-for-iphone®?variant=55997964353860)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-13-pro-case-on-phone-6924c35e03330.jpg?v=1764017009
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 13](https://goar.store/products/clear-case-for-iphone®?variant=55997964386628)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-13-case-on-phone-6924c35e0341f.jpg?v=1764017008
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 14 Plus](https://goar.store/products/clear-case-for-iphone®?variant=55997964419396)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-14-plus-case-on-phone-6924c35e034fd.jpg?v=1764017009
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 14 Pro Max](https://goar.store/products/clear-case-for-iphone®?variant=55997964452164)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-14-pro-max-case-on-phone-6924c35e035d8.jpg?v=1764017008
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 14 Pro](https://goar.store/products/clear-case-for-iphone®?variant=55997964484932)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-14-pro-case-on-phone-6924c35e036b6.jpg?v=1764017008
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 14](https://goar.store/products/clear-case-for-iphone®?variant=55997964517700)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-14-case-on-phone-6924c35e03790.jpg?v=1764017009
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 15 Plus](https://goar.store/products/clear-case-for-iphone®?variant=55997964550468)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-15-plus-case-on-phone-6924c35e03868.jpg?v=1764017009
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 15 Pro Max](https://goar.store/products/clear-case-for-iphone®?variant=55997964583236)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-15-pro-max-case-on-phone-6924c35e03941.jpg?v=1764017009
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 15 Pro](https://goar.store/products/clear-case-for-iphone®?variant=55997964616004)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-15-pro-case-on-phone-6924c35e03a22.jpg?v=1764017008
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 15](https://goar.store/products/clear-case-for-iphone®?variant=55997964648772)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-15-case-on-phone-6924c35e03afe.jpg?v=1764017009
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 16 Plus](https://goar.store/products/clear-case-for-iphone®?variant=55997964681540)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-16-plus-case-on-phone-6924c35e03bd5.jpg?v=1764017009
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 16 Pro Max](https://goar.store/products/clear-case-for-iphone®?variant=55997964714308)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-16-pro-max-case-on-phone-6924c35e03cb2.jpg?v=1764017009
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 16 Pro](https://goar.store/products/clear-case-for-iphone®?variant=55997964747076)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-16-pro-case-on-phone-6924c35e03d8c.jpg?v=1764017009
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 16](https://goar.store/products/clear-case-for-iphone®?variant=55997964779844)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-16-case-on-phone-6924c35e03e66.jpg?v=1764017009
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 17 Air](https://goar.store/products/clear-case-for-iphone®?variant=55997964812612)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-17-air-case-on-phone-6924c35e03f44.jpg?v=1764017009
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 17 Pro Max](https://goar.store/products/clear-case-for-iphone®?variant=55997964845380)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-17-pro-max-case-on-phone-6924c35e03f93.jpg?v=1764017008
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 17 Pro](https://goar.store/products/clear-case-for-iphone®?variant=55997964878148)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-17-pro-case-on-phone-6924c35e03fe1.jpg?v=1764017009
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 17](https://goar.store/products/clear-case-for-iphone®?variant=55997964910916)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-17-case-on-phone-6924c35e04036.jpg?v=1764017009
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone 7/8](https://goar.store/products/clear-case-for-iphone®?variant=55997964943684)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-7-8-case-on-phone-6924c35e04085.jpg?v=1764017008
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone SE](https://goar.store/products/clear-case-for-iphone®?variant=55997964976452)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-se-case-on-phone-6924c35e0414d.jpg?v=1764017008
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone X/XS](https://goar.store/products/clear-case-for-iphone®?variant=55997965009220)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-x-xs-case-on-phone-6924c35e04218.jpg?v=1764017008
-    Price: €11.00 EUR
+    Price: €15.99 EUR
   - [iPhone XR](https://goar.store/products/clear-case-for-iphone®?variant=55997965041988)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/clear-case-for-iphone-iphone-xr-case-on-phone-6924c35e04383.jpg?v=1764017008
-    Price: €11.00 EUR
+    Price: €15.99 EUR
 - [Unisex pique polo shirt](https://goar.store/products/unisex-pique-polo-shirt): Classic and made to last, this Unisex Pique Polo Shirt is for all occasions. It’s crafted from a durable cotton pique fabric. The relaxed and flattering fit is designed to complement any body type. With a classic cut and crisp collar, it can be dressed up or down for sporty, casual, or more formal styles. • 100% ring-spun cotton • Fabric weight: 5.2 oz/yd² (176 g/m²) • Semi-fitted • Side-seamed construction • Placket with dyed-to-match buttons • The fabric is OEKO-TEX Standard 100 certified Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
   Updated: 2025-11-27T15:26:36Z
   Vendor: Goar Store 
@@ -610,10 +610,10 @@
   Updated: 2025-11-27T15:26:35Z
   Total Products: 0
 - [BLACK WOLF EDITION - Premium Collection | Goar Store](https://goar.store/collections/black-wolf-edition): Discover the BLACK WOLF EDITION collection with exclusive designs and premium quality products at Goar Store.
-  Updated: 2025-11-30T20:53:37Z
+  Updated: 2025-12-02T18:48:48Z
   Total Products: 20
 - [Sale Products - Up to 30% Off | Goar Store](https://goar.store/collections/sale-products): Take advantage of our special offers with discounts up to 30% on selected products. Discover the best deals at Goar Store.
-  Updated: 2025-11-30T20:53:37Z
+  Updated: 2025-12-02T18:48:48Z
   Total Products: 20
 
 ## Store Pages
