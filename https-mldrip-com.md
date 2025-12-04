@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-09-24T18:25:07Z
 - Contact Email: shopmegluffy@gmail.com
-- Updated At: 2025-12-03T00:01:16.850Z
+- Updated At: 2025-12-04T00:00:35.813Z
 
 ## Products
 
@@ -3685,11 +3685,11 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8547B594-35C5-4068-9159-6FC92D2E36E1.jpg?v=1763990006
     Price: €55.99 EUR
 - [B22 Dior](https://mldrip.com/products/b22-dior): Step up your drip with the iconic B22 Dior sneakers — where high fashion collides with streetwear energy. These kicks flex that bold, chunky silhouette everyone’s hyped about, crafted with premium materials that scream quality and style. Whether you’re hitting the city streets or pulling up to the squad, B22 Dior gives you that next-level vibe, turning heads and making moves. Why B22 Dior? Signature Dior craftsmanship with a modern chunky design Breathable, comfy fit for all-day flex Perfect for drip that slaps on and off the field Versatile enough to pair with anything, from fits to casual vibes Upgrade your sneaker game with B22 Dior — cuz you’re not just walking, you’re making a statement.
-  Updated: 2025-12-02T00:33:49Z
+  Updated: 2025-12-03T20:48:42Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880_64116bdd-b874-4d7f-929b-a9d15f01416c.png?v=1764586838
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/175F4708-3956-43A5-AD4A-52B43AE0CF34_6a8a3b5e-bc41-47c2-a593-fbcaf4353f8f.png?v=1764794922
   - [1 / 36](https://mldrip.com/products/b22-dior?variant=51965622321489)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/A226C711-D3A6-4986-A745-F49080356880.png?v=1764586793
@@ -4603,7 +4603,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1E397C16-BFD9-47D0-A737-4890FF098227.jpg?v=1758749109
     Price: €45.99 EUR
 - [Nike Air Force 1](https://mldrip.com/products/air-force): Classic. Clean. Unstoppable. The Nike Air Force 1 is a true icon in the sneaker world . With its timeless silhouette, crisp leather upper, and unbeatable comfort, this shoe has ruled the streets since 1982 – and it’s not slowing down anytime soon. Whether you're dressing up or keeping it casual, the AF1 delivers effortless drip, all-day comfort, and that legendary energy. Product Features: Premium leather upper for durability & a clean look Nike Air cushioning for lightweight comfort Rubber outsole for excellent traction & grip Perforated toe box for breathability Unisex sizing – made for everyone From Courts to Streets. The Air Force 1 isn’t just a sneaker – it’s a movement. Add to Cart Now and step into the legacy.
-  Updated: 2025-12-01T06:28:40Z
+  Updated: 2025-12-03T22:14:02Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
