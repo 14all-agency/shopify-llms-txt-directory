@@ -9,7 +9,7 @@
 - Created At: 2025-06-11T12:50:48Z
 - Contact Email: help@rejuvenated.com
 - Address: Rejuvenated Limited, 6 Broadfield Court, Broadfield Way, Sheffield, S8 0XF, United Kingdom
-- Updated At: 2025-12-04T14:18:36.943Z
+- Updated At: 2025-12-04T14:20:45.249Z
 
 Discover Rejuvenated’s best-selling supplements, loved by customers worldwide for their proven results. From award-winning collagen drinks to essential wellness blends, these are the products our community trusts most for glowing skin, energy, and overall vitality.
 
@@ -514,7 +514,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: kathryn@rejuvenated.com User
     Tags: Wellness
   - [How to get the most antioxidant benefits for glowing skin](https://rejuvenated.com/blogs/journal/antioxidants-for-skin)
-    Updated: 2025-11-13T12:13:23Z
+    Updated: 2025-12-04T14:20:37Z
     Author: kathryn@rejuvenated.com User
     Tags: Beauty, Wellness
   - [Cellular hydration top tips for true hydration](https://rejuvenated.com/blogs/journal/cellular-hydration-tips): Cellular hydration top tips for true hydration
@@ -716,7 +716,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: kathryn@rejuvenated.com User
     Tags: Beauty, Wellness
   - [Alternatives to botox](https://rejuvenated.com/blogs/journal/alternatives-to-botox)
-    Updated: 2025-11-13T11:44:43Z
+    Updated: 2025-12-04T14:19:08Z
     Author: kathryn@rejuvenated.com User
     Tags: Beauty
   - [Collagen and pregnancy - is it safe to take it?](https://rejuvenated.com/blogs/journal/collagen-and-pregnancy): Collagen and pregnancy - is it safe to take it?
@@ -1262,3 +1262,11 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
 
 - [robots.txt](https://rejuvenated.com/robots.txt)
 - [sitemap.xml](https://rejuvenated.com/sitemap.xml)
+
+Our award-winning collagen drinks contain hydrolysed marine collagen peptides. These are broken down into small molecules that are easily absorbed by the body. Once in the bloodstream, they help to stimulate the body’s own collagen production, supporting skin elasticity, hydration, and overall skin health from within.
+
+Every ingredient we use is backed by published scientific studies or clinical trials for efficacy and safety. We also work with nutritionists and researchers to ensure each formula delivers results you can trust. Take a look at the results of our clinical trials.
+
+Everyone is unique, but most people begin to notice benefits—such as improved skin hydration and suppleness—within 4–8 weeks of consistent daily use. Long-term use helps to maintain and enhance these results.
+
+Multiple peer-reviewed studies have shown that hydrolysed collagen peptides can improve skin elasticity, reduce fine lines, and support joint and connective tissue health. Our formulations use clinically studied doses to deliver these benefits.
