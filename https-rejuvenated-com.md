@@ -9,7 +9,7 @@
 - Created At: 2025-06-11T12:50:48Z
 - Contact Email: help@rejuvenated.com
 - Address: Rejuvenated Limited, 6 Broadfield Court, Broadfield Way, Sheffield, S8 0XF, United Kingdom
-- Updated At: 2025-12-04T14:22:47.100Z
+- Updated At: 2025-12-04T15:03:37.557Z
 
 Discover Rejuvenated’s best-selling supplements, loved by customers worldwide for their proven results. From award-winning collagen drinks to essential wellness blends, these are the products our community trusts most for glowing skin, energy, and overall vitality.
 
@@ -303,7 +303,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: Carly Hill
     Tags: Ingredients
   - [The benefits of Turmeric](https://rejuvenated.com/blogs/journal/turmeric-benefits): The benefits of Turmeric
-    Updated: 2025-11-17T13:06:19Z
+    Updated: 2025-12-04T14:46:46Z
     Author: Carly Hill
   - [The benefits of beta glucans](https://rejuvenated.com/blogs/journal/beta-glucans-benefits): The benefits of beta glucans
     Updated: 2025-12-04T12:53:53Z
@@ -314,7 +314,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: Carly Hill
     Tags: Ingredients
   - [The health benefits of Zinc](https://rejuvenated.com/blogs/journal/zinc-benefits): The health benefits of Zinc
-    Updated: 2025-11-17T13:03:59Z
+    Updated: 2025-12-04T14:56:05Z
     Author: Carly Hill
     Tags: Ingredients
   - [The benefits of Glucomannan](https://rejuvenated.com/blogs/journal/glucomannan-benefits): The benefits of Glucomannan
@@ -401,7 +401,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: kathryn@rejuvenated.com User
     Tags: Ingredients, Science, Wellness
   - [What lactobacillus bacteria does and how it's beneficial](https://rejuvenated.com/blogs/journal/what-does-lactobacillus-bulgaricus-do): What lactobacillus bacteria does and how it's beneficial
-    Updated: 2025-11-17T13:14:06Z
+    Updated: 2025-12-04T14:49:24Z
     Author: kathryn@rejuvenated.com User
     Tags: Ingredients
   - [The benefits of magnesium for skin - how does it help?](https://rejuvenated.com/blogs/journal/magnesium-benefits-for-skin): The benefits of magnesium for skin - how does it help?
@@ -416,7 +416,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Updated: 2025-11-17T13:12:26Z
     Author: kathryn@rejuvenated.com User
   - [Copper benefits and the best sources of it](https://rejuvenated.com/blogs/journal/copper-benefits): Copper benefits and the best sources of it
-    Updated: 2025-11-17T13:11:49Z
+    Updated: 2025-12-04T14:35:52Z
     Author: kathryn@rejuvenated.com User
     Tags: Ingredients
   - [Chromium benefits and the best sources of it](https://rejuvenated.com/blogs/journal/chromium-benefits): Chromium benefits and the best sources of it
@@ -428,7 +428,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: kathryn@rejuvenated.com User
     Tags: Ingredients
   - [The benefits of astragalus, the immune building plant](https://rejuvenated.com/blogs/journal/astragalus-benefits): The benefits of astragalus, the immune building plant
-    Updated: 2025-12-04T14:21:58Z
+    Updated: 2025-12-04T14:23:48Z
     Author: kathryn@rejuvenated.com User
     Tags: Ingredients
   - [Açai berry health benefits for body and mind](https://rejuvenated.com/blogs/journal/acai-berry-benefits)
@@ -494,7 +494,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Updated: 2025-11-17T12:39:41Z
     Author: kathryn@rejuvenated.com User
   - [Boost your skin’s natural moisture factor](https://rejuvenated.com/blogs/journal/boost-natural-moisture-factor)
-    Updated: 2025-11-13T12:14:30Z
+    Updated: 2025-12-04T14:33:08Z
     Author: kathryn@rejuvenated.com User
     Tags: Beauty
   - [Pink superfoods to boost your mood and health](https://rejuvenated.com/blogs/journal/pink-superfoods)
@@ -502,7 +502,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: kathryn@rejuvenated.com User
     Tags: Mood, Wellness
   - [How does the circadian rhythm work?](https://rejuvenated.com/blogs/journal/how-circadian-rhythm-works)
-    Updated: 2025-11-17T12:38:15Z
+    Updated: 2025-12-04T14:40:10Z
     Author: kathryn@rejuvenated.com User
     Tags: Longevity, Science, Wellness
   - [The best foods to help you sleep better](https://rejuvenated.com/blogs/journal/foods-to-help-sleep)
@@ -526,7 +526,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: kathryn@rejuvenated.com User
     Tags: Beauty
   - [The best antioxidants for youthful skin](https://rejuvenated.com/blogs/journal/best-antioxidants-for-youthful-skin): The best antioxidants for youthful skin
-    Updated: 2025-11-13T11:59:31Z
+    Updated: 2025-12-04T14:29:11Z
     Author: kathryn@rejuvenated.com User
     Tags: Beauty
   - [Avoid dehydration while flying - 7 top tips](https://rejuvenated.com/blogs/journal/flying-dehydration-top-tips): Avoid dehydration while flying - 7 top tips
@@ -549,7 +549,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: kathryn@rejuvenated.com User
     Tags: Wellness
   - [Beat sugar cravings with protein packed lunches](https://rejuvenated.com/blogs/journal/beat-sugar-cravings-protein): Beat sugar cravings with protein packed lunches
-    Updated: 2025-11-17T12:32:42Z
+    Updated: 2025-12-04T14:27:18Z
     Author: kathryn@rejuvenated.com User
     Tags: Wellness
   - [Long haul flight skin care: our top tips](https://rejuvenated.com/blogs/journal/long-haul-flight-skin-care): Long haul flight skin care: our top tips
@@ -579,8 +579,8 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Updated: 2025-11-13T11:55:11Z
     Author: kathryn@rejuvenated.com User
     Tags: Beauty
-  - [How does the immune system fight illnesses and keep us healthy?](https://rejuvenated.com/blogs/journal/how-does-the-immune-system-fight-illnesses-and-keep-us-healthy)
-    Updated: 2025-11-17T12:17:10Z
+  - [How does the immune system fight illnesses?](https://rejuvenated.com/blogs/journal/how-does-the-immune-system-fight-illnesses): How does the immune system fight illnesses?
+    Updated: 2025-12-04T14:42:04Z
     Author: kathryn@rejuvenated.com User
   - [The best foods to eat for gut health](https://rejuvenated.com/blogs/journal/best-foods-for-gut-health): The best foods to eat for gut health
     Updated: 2025-11-17T12:14:43Z
@@ -606,7 +606,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: kathryn@rejuvenated.com User
     Tags: Beauty
   - [What is biohacking? Tips to help you to be more youthful](https://rejuvenated.com/blogs/journal/biohacking-tips): What is biohacking? Tips to help you to be more youthful
-    Updated: 2025-11-15T10:08:58Z
+    Updated: 2025-12-04T14:30:44Z
     Author: kathryn@rejuvenated.com User
     Tags: Longevity, Wellness
   - [Is collagen good post workout? How it can speed up recovery time](https://rejuvenated.com/blogs/journal/is-collagen-good-post-workout): Is collagen good post workout? How it can speed up recovery time
@@ -642,7 +642,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: kathryn@rejuvenated.com User
     Tags: Beauty, Wellness
   - [How to balance hormones naturally](https://rejuvenated.com/blogs/journal/how-to-balance-hormones-naturally): How to balance hormones naturally
-    Updated: 2025-11-15T07:52:39Z
+    Updated: 2025-12-04T14:44:01Z
     Author: kathryn@rejuvenated.com User
     Tags: Mood, Wellness
   - [Signs of a collagen deficiency and what to do](https://rejuvenated.com/blogs/journal/signs-of-collagen-deficiency): Signs of a collagen deficiency and what to do
@@ -660,11 +660,11 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: kathryn@rejuvenated.com User
     Tags: Wellness
   - [How to boost your Vitamin C intake in winter](https://rejuvenated.com/blogs/journal/vitamin-c-in-winter): How to boost your Vitamin C intake in winter
-    Updated: 2025-11-15T07:48:17Z
+    Updated: 2025-12-04T14:48:01Z
     Author: kathryn@rejuvenated.com User
     Tags: Ingredients
   - [Five reasons to develop good health habits now](https://rejuvenated.com/blogs/journal/good-health-habits-5-tips): Five reasons to develop good health habits now
-    Updated: 2025-11-15T07:39:19Z
+    Updated: 2025-12-04T14:39:33Z
     Author: kathryn@rejuvenated.com User
     Tags: Wellness
   - [Is dark chocolate a superfood? We look at the science](https://rejuvenated.com/blogs/journal/is-dark-chocolate-superfood): Is dark chocolate a superfood? We look at the science
@@ -736,7 +736,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: kathryn@rejuvenated.com User
     Tags: Beauty, Wellness
   - [What is cellular beauty and how do you get it?](https://rejuvenated.com/blogs/journal/what-is-cellular-beauty)
-    Updated: 2025-11-13T11:17:22Z
+    Updated: 2025-12-04T14:54:08Z
     Author: kathryn@rejuvenated.com User
     Tags: Beauty, Longevity, Wellness
   - [Does collagen help you sleep?](https://rejuvenated.com/blogs/journal/does-collagen-help-you-sleep): Does collagen help you sleep?
@@ -760,14 +760,14 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: kathryn@rejuvenated.com User
     Tags: Mood, Wellness
   - [Marine vs bovine collagen - what's the difference?](https://rejuvenated.com/blogs/journal/marine-vs-bovine-collagen): Marine vs bovine collagen - what's the difference?
-    Updated: 2025-11-12T18:08:44Z
+    Updated: 2025-12-04T14:45:11Z
     Author: kathryn@rejuvenated.com User
   - [Tap into your ultradian rhythms to boost energy and willpower](https://rejuvenated.com/blogs/journal/ultradian-rhythms): Tap into your ultradian rhythms to boost energy and willpower
     Updated: 2025-11-12T18:16:12Z
     Author: kathryn@rejuvenated.com User
     Tags: Mood, Science, Wellness
   - [Festival skin care - a survival guide](https://rejuvenated.com/blogs/journal/festival-skincare): Festival skin care - a survival guide
-    Updated: 2025-11-12T18:15:00Z
+    Updated: 2025-12-04T14:36:40Z
     Author: kathryn@rejuvenated.com User
     Tags: Beauty, Wellness
   - [How to repair skin damage from your youth](https://rejuvenated.com/blogs/journal/repair-skin-damage)
@@ -1201,12 +1201,10 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
   Updated: 2025-10-06T08:33:01Z
 - [Subscriptions | Save 20%, never run out](https://rejuvenated.com/pages/subscriptions): Enjoy effortless wellness with our subscription service, we deliver your favourite products straight to your door without the fuss. You pick the it...
   Updated: 2025-10-06T08:38:29Z
-- [Product Selector](https://rejuvenated.com/pages/product-selector): To be confirmed
-  Updated: 2025-07-25T08:52:50Z
 - [About Us  - Our Story, Mission and Awards](https://rejuvenated.com/pages/about-us): 
   Updated: 2025-10-06T08:55:47Z
-- [Our Story](https://rejuvenated.com/pages/about-rejuvenated): To be confirmed
-  Updated: 2025-09-11T08:32:18Z
+- [Our Story | About Rejuvenated](https://rejuvenated.com/pages/about-rejuvenated): 
+  Updated: 2025-12-04T14:57:30Z
 - [The science behind Collagen Shots](https://rejuvenated.com/pages/the-science): 
   Updated: 2025-10-06T08:41:26Z
 - [Our mission and values](https://rejuvenated.com/pages/our-mission): 
@@ -1215,14 +1213,10 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
   Updated: 2025-10-06T08:42:20Z
 - [Reviews and testimonies](https://rejuvenated.com/pages/reviews): 
   Updated: 2025-10-06T08:51:14Z
-- [Privacy Policy](https://rejuvenated.com/pages/privacy-policy): To be confirmed
-  Updated: 2025-07-25T08:51:37Z
-- [Cookie Policy](https://rejuvenated.com/pages/cookie-policy): To be confirmed
-  Updated: 2025-07-25T08:51:20Z
+- [Cookie Policy](https://rejuvenated.com/pages/cookie-policy): 
+  Updated: 2025-12-04T14:58:52Z
 - [Modern Slavery Statement](https://rejuvenated.com/pages/modern-slavery-statement): Modern Slavery and Human Trafficking Statement Effective date: 15th July 2025 To be reviewed: 15th July 2026 Applies to: All employees, suppliers, ...
   Updated: 2025-08-15T14:33:00Z
-- [FAQ](https://rejuvenated.com/pages/faq): To be confirmed
-  Updated: 2025-07-25T08:51:44Z
 - [Affiliates | Get in touch](https://rejuvenated.com/pages/affiliates): If you’d like to become an affiliate with Rejuvenated, you can register your interest via Awin (our merchant ID is 26549). Alternatively, feel free...
   Updated: 2025-10-03T14:49:50Z
 - [Stockists and partners](https://rejuvenated.com/pages/stockists): If you would like to become a Rejuvenated stockist, please contact help@rejuvenated.com including your business name, contact details, website if a...
