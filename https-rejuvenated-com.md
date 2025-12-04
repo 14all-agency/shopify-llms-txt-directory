@@ -9,7 +9,7 @@
 - Created At: 2025-06-11T12:50:48Z
 - Contact Email: help@rejuvenated.com
 - Address: Rejuvenated Limited, 6 Broadfield Court, Broadfield Way, Sheffield, S8 0XF, United Kingdom
-- Updated At: 2025-12-04T15:03:37.557Z
+- Updated At: 2025-12-04T15:07:54.706Z
 
 Discover Rejuvenated’s best-selling supplements, loved by customers worldwide for their proven results. From award-winning collagen drinks to essential wellness blends, these are the products our community trusts most for glowing skin, energy, and overall vitality.
 
@@ -494,7 +494,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Updated: 2025-11-17T12:39:41Z
     Author: kathryn@rejuvenated.com User
   - [Boost your skin’s natural moisture factor](https://rejuvenated.com/blogs/journal/boost-natural-moisture-factor)
-    Updated: 2025-12-04T14:33:08Z
+    Updated: 2025-12-04T15:07:50Z
     Author: kathryn@rejuvenated.com User
     Tags: Beauty
   - [Pink superfoods to boost your mood and health](https://rejuvenated.com/blogs/journal/pink-superfoods)
@@ -1229,8 +1229,8 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
   Updated: 2025-08-06T11:28:10Z
 - [Journal and Recipe Hub](https://rejuvenated.com/pages/journal-hub): 
   Updated: 2025-11-12T17:02:08Z
-- [eBooks](https://rejuvenated.com/pages/ebooks)
-  Updated: 2025-11-12T16:07:23Z
+- [eBooks | Discover youth and longevity](https://rejuvenated.com/pages/ebooks): 
+  Updated: 2025-12-04T15:04:53Z
 
 ## Policies
 
