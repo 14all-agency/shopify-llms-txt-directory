@@ -6,12 +6,12 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-12-03T00:00:40.835Z
+- Updated At: 2025-12-04T00:00:45.805Z
 
 ## Products
 
 - [Umbra Cubiko Shower Caddy - Black](https://everydayhome.co.nz/products/cubiko-shower-caddy-black): Cubiko Shower Caddy, Black
-  Updated: 2025-11-30T23:22:11Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -137,14 +137,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Glam-Hair-Tool-Organiser-White-Charcoal-9.jpg?v=1727659608
   Price: $47.99 NZD
 - [Umbra Glam Cosmetic Organiser - White/Grey](https://everydayhome.co.nz/products/glam-cosmetic-organiser-white-grey): Glam Cosmetic Organiser, White/Grey
-  Updated: 2025-12-01T14:37:08Z
+  Updated: 2025-12-03T22:07:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Glam-Cosmetic-Organiser-White-Grey-5.png?v=1727659177
   Price: $47.99 NZD
 - [Umbra Hubba Arched Full Length Wall Mirror - Brass](https://everydayhome.co.nz/products/hubba-arched-leaning-mirror-50-x-157cm-brass): Hubba Arched Leaning Mirror, (50 X 157Cm), Brass
-  Updated: 2025-11-16T22:02:10Z
+  Updated: 2025-12-03T16:07:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -193,7 +193,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hubba-Pebble-Mirror-Metallic-Titanium-1.jpg?v=1727659051
   Price: $148.99 NZD
 - [Umbra Cubiko Adhesive Shower Bins - Set of 2 Black](https://everydayhome.co.nz/products/cubiko-adhesive-shower-bins-black): Cubiko Adhesive Shower Bins, Black
-  Updated: 2025-12-02T07:25:03Z
+  Updated: 2025-12-03T19:07:13Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -214,7 +214,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Corner-Shower-Bins-White-8.png?v=1727659913
   Price: $54.99 NZD
 - [Umbra Bellwood Caddy - White/Natural](https://everydayhome.co.nz/products/bellwood-caddy-wht-ntrl): Bellwood Caddy, Wht/Ntrl
-  Updated: 2025-12-02T08:49:56Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -228,7 +228,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Glam-Organizer-Large-White-Gray-0.jpg?v=1727658974
   Price: $75.99 NZD
 - [Umbra Bellwood Three Tier Spice Shelf - White/Natural](https://everydayhome.co.nz/products/bellwood-3-tier-spice-rack-wht-ntrl): Bellwood 3 Tier Spice Rack, Wht/Ntrl
-  Updated: 2025-11-24T06:50:15Z
+  Updated: 2025-12-03T22:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -753,7 +753,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Ribbon-Wall-Clock-Steel-8.jpg?v=1727659533
   Price: $59.99 NZD
 - [Ribbonwood Wall Clock - Natural](https://everydayhome.co.nz/products/ribbonwood-wall-clock-50-8cm-natural): This gorgeous clock is made from bent beech wood that has been shaped into folded ribbon shapes. Its contrasting minute and hour hands make it easy to tell the time. Ribbonwood's bent wood is part of a complex process of molding bent plywood.
-  Updated: 2025-12-01T16:07:12Z
+  Updated: 2025-12-03T23:18:16Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -830,7 +830,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Woodrow-Trash-Can-Charcoal-7.jpg?v=1727658652
   Price: $31.99 NZD
 - [Bird Café - Grey](https://everydayhome.co.nz/products/bird-cafe-grey): Invite wild birds to dine in style-and satisfy your taste for modern design-with this hip new spin on the traditional bird feeder. The Bird Cafe bird feeder from Umbra features a cube-shaped architectural form with asymmetrical windows. When filled, seed is visible through the clear plastic windows and flows out of holes in the bottom into the wrap-around tray for birds to perch on and feast.
-  Updated: 2025-12-02T22:22:12Z
+  Updated: 2025-12-03T22:07:13Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -858,14 +858,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Dotsy-7-Hook-White-Natural-9.jpg?v=1727658893
   Price: $37.99 NZD
 - [Umbra Picket 5 Hook - Natural](https://everydayhome.co.nz/products/picket-5-hook-natural): Transform any room in your home with the Umbra Picket Wall Hook, a stylish and functional addition that doubles as a piece of art. Crafted from beautifully beveled pine wood, Picket's unique design adds a sophisticated touch to your decor. Picket seamlessly blends utility with elegance. When not in use, the hooks flip back up, maintaining a sleek, art-like appearance. Create an eye-catching display by arranging multiple
-  Updated: 2025-12-02T08:56:30Z
+  Updated: 2025-12-03T22:07:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Picket-5-Hook-Natural-8.png?v=1727660128
   Price: $63.99 NZD
 - [Umbra Picket 5 Hook - Aged Walnut](https://everydayhome.co.nz/products/picket-5-hook-aged-walnut): Transform any room in your home with the Umbra Picket Wall Hook, a stylish and functional addition that doubles as a piece of art. Crafted from beautifully beveled pine wood, Picket's unique design adds a sophisticated touch to your decor. Picket seamlessly blends utility with elegance. When not in use, the hooks flip back up, maintaining a sleek, art-like appearance. Create an eye-catching display by arranging multiple
-  Updated: 2025-11-25T03:07:11Z
+  Updated: 2025-12-03T22:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -893,7 +893,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sticks-Multi-Hook-Espresso-9.jpg?v=1727659002
   Price: $34.99 NZD
 - [Umbra Sticks 5 Hook - White](https://everydayhome.co.nz/products/sticks-multi-hook-white): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-12-01T14:37:10Z
+  Updated: 2025-12-03T23:18:15Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1061,14 +1061,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Roll-Top-Bread-Bin-Medium-Brilliant-Stee-0.png?v=1727658726
   Price: $73.99 NZD
 - [Brabantia Fall Front Bread Bin - Medium Matt Black](https://everydayhome.co.nz/products/fall-front-bread-bin-matt-black): Looking for a space saving solution to keep your bread fresh or your crisps crispy? Meet Brabantia's Fall Front Bread Bin. It fits up to two loaves, but thanks to its rectangular design, it does not need much room. Other top features: it has a flat top made to put your canisters on, the lid has a large grip for easy opening and a magnet for perfect closing. No counterspace to spare at all? Simply hang it on the wall by its hanging eyes on the back. A bread bin to fall for!
-  Updated: 2025-12-01T06:07:10Z
+  Updated: 2025-12-03T21:22:20Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Fall-Front-Bread-Bin-Matt-Black-5.png?v=1727660185
   Price: $73.99 NZD
 - [Brabantia Roll Top Bread Bin - Medium Matt Steel](https://everydayhome.co.nz/products/roll-top-bread-bin-matt-steel): Keep your bread handy and fresher for longer in Brabantia's Roll Top Bread Bin. This beauty of a bread bin can hold up to two loaves, or anything else you want it to, and has a large grip for easy opening. A practical and stylish addition to your kitchen!
-  Updated: 2025-11-22T06:45:46Z
+  Updated: 2025-12-03T16:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1089,7 +1089,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Sort-Go-Built-In-Bin-2-X-16L-Jade-Green-2.png?v=1727660138
   Price: $130.99 NZD
 - [Brabantia ProfileWooden Chopping for Board - Beech Wood](https://everydayhome.co.nz/products/wooden-chopping-board-meat-c): This stylish and sustainable Profile Wooden Chopping Board for Meat is cut out for carving meat. Made of sustainable beech wood, sizeable and with grooves that catch the juices, so no spillage. Done cutting? Use the back of this board for serving. A real multi-talent.
-  Updated: 2025-11-19T07:04:06Z
+  Updated: 2025-12-03T22:07:14Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1117,7 +1117,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Wooden-Chopping-Board-Medium-4.png?v=1727658636
   Price: $28.99 NZD
 - [Brabantia Profile Wooden Chopping Board Set - Beech Wood](https://everydayhome.co.nz/products/wooden-chopping-board-set-3-c): This set of 3 Brabantia Profile Wooden Chopping Boards is all you need in your kitchen when it comes to cutting. One board for vegetables, one for bread and one for meat. All made of sustainable beech wood, all made for double sided use. All aboard!
-  Updated: 2025-12-02T07:26:41Z
+  Updated: 2025-12-03T22:07:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1159,7 +1159,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Ironing-Board-B-Spring-Bubbles-3.png?v=1727658927
   Price: $148.99 NZD
 - [Brabantia Ironing Board B - Denim Black](https://everydayhome.co.nz/products/ironing-board-b-124x38cm-sir-22mm-black-frame-denim-black): Sturdy, stable and designed for easy ironing - this standard Brabantia Ironing Board B is setting the standards. It has a steam iron rest that is suitable for left and righthanded use, a sturdy and stable frame and more. Check out all those other nifty features that make this board great value for great ironing.
-  Updated: 2025-11-26T06:35:30Z
+  Updated: 2025-12-03T20:20:08Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1285,7 +1285,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Ringo-Chairs-Grey-Set-of-4-1_a576cdf5-35c3-4bee-aa31-337385321e91.jpg?v=1731547593
   Price: $399.99 NZD
 - [Anolon X SearTech - 10 Piece Cookware Set](https://everydayhome.co.nz/products/ano-x-s-tech-ns-10pc-cookware-set): Lock in flavour and throw away the key with exclusive SearTech technology: a cookware base and stainless steel mesh that keep oils in the middle of your pots and pans, uniting fat and heat for unparalleled caramelization and browning. This 10 piece cookware set features an ultra-durable, PFOA-free nonstick finish matched with unique, flat rivets for one of the smoothest cooking surfaces yet. Metal utensil safe, oven safe to 260°C degrees for the perfect finish, and dishwasher safe for the easiest cleanup.
-  Updated: 2025-11-29T06:49:45Z
+  Updated: 2025-12-03T07:49:51Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
@@ -1404,7 +1404,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Endurance-20-24-28cm-Skillet-Triple-Pack-An-6.jpg?v=1731902573
   Price: $161.99 NZD
 - [Anolon Endurance+ 20cm Open French Skillet](https://everydayhome.co.nz/products/anolon-endurance-20cm-open-french-skillet): Small is beautiful. When “just a little” is what you need, this is the pan to reach for. With less surface area to heat, it gets the job done quickly and holds the heat superbly. The SureGrip handle is comfortable to hold so you can transfer food eaily to another dish.
-  Updated: 2025-11-27T02:07:05Z
+  Updated: 2025-12-03T22:07:11Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
@@ -1488,7 +1488,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Endurance-6-Piece-Cookware-Set-Anolon-5.jpg?v=1731902398
   Price: $483.99 NZD
 - [Umbra Bellwood Cosmetic Organiser - White/Natural](https://everydayhome.co.nz/products/bellwood-cosmetic-organiser-white-natural): A versatile and modern organizer for cosmetics and other products, Bellwood Cosmetic Organizer features 3 trays with a wooden handle for easy transportation. Its removable cup is perfect for storing makeup brushes and other small beauty tools. With a modern, wooden finish, this cosmetic storage organizer looks great on a vanity or countertop, without needing to be tucked away.
-  Updated: 2025-12-01T07:07:06Z
+  Updated: 2025-12-03T22:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1579,14 +1579,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-OTD-Double-Hook-White-UMBRA-5.jpg?v=1731901764
   Price: $31.99 NZD
 - [Umbra Cappa Toilet Paper Holder - Black](https://everydayhome.co.nz/products/cappa-toilet-paper-stand-black): Cappa Toilet Paper Stand and Reserve is a minimalist, freestanding toilet paper stand with an integrated reserve for storing toilet paper rolls. Using often under-utilized vertical square footage, while maintaining a small footprint, Cappa holds up to three jumbo toilet paper rolls and dispenses one.
-  Updated: 2025-11-30T07:37:06Z
+  Updated: 2025-12-03T22:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Cappa-Toilet-Paper-Stand-Black-UMBRA-0.jpg?v=1731902721
   Price: $40.99 NZD
 - [Umbra Cappa Toilet Paper Holder - Nickel](https://everydayhome.co.nz/products/cappa-toilet-paper-stand-nickle): Cappa Toilet Paper Stand and Reserve is a minimalist, freestanding toilet paper stand with an integrated reserve for storing toilet paper rolls. Using often under-utilized vertical square footage, while maintaining a small footprint, Cappa holds up to three jumbo toilet paper rolls and dispenses one.
-  Updated: 2025-12-01T01:37:07Z
+  Updated: 2025-12-03T22:07:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -1600,7 +1600,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-SteelShield-C-Series-26cm-7-6L-Covered-St-9.jpg?v=1731902452
   Price: $144.99 NZD
 - [Circulon Scratchdefense A1 - 14cm/0.9L Open Milkpan](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-14cm-0-9l-open-milkpan-w-spout): Experience excellence with the Circulon Open Milkpan w/Spout 14cm/0.9L, a true kitchen masterpiece. This premium milkpan is crafted for lasting durability, boasting a metal utensil-safe interior that can handle your toughest cooking tasks. Its cast steel and silicone handles provide a secure grip and stay cool on the stovetop. Plus, the stain-resistant exterior nonstick finish ensures effortless cleanup. Whether you're making creamy sauces or warming milk, trust in Circulon's innovation for consistent, reliable performance.
-  Updated: 2025-12-02T03:37:10Z
+  Updated: 2025-12-03T04:26:35Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -1614,7 +1614,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-18cm-2-8L-Covered-Sauce-0.jpg?v=1731902998
   Price: $93.99 NZD
 - [Circulon Scratchdefense A1 - 21.5/25.4cm Skillet Twin Pack](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-21-5-25-4cm-skillet-twin-pack): The Frypan Twin Pack is your essential kitchen companion for perfecting your cooking skills. This premium set includes two frypans with a generous 21.5cm and 25.4cm diameter, ideal for a variety of culinary tasks.
-  Updated: 2025-12-02T03:07:06Z
+  Updated: 2025-12-03T04:26:36Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -1999,7 +1999,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Estique-Organiser-White-UMBRA-1.jpg?v=1731902268
   Price: $28.99 NZD
 - [Exhibit Photo Display (Set 5) - Black](https://everydayhome.co.nz/products/exhibit-photo-display-set-5-black): Exhibit Photo Display features a wall-mounted brushed metal ledge with clips and brackets to hold five gallery-style picture frames of various size, all while reducing the amount of damage typically left on walls. The brackets with the frames are suspended from the ledge, which allows them to be moved around to create various layouts. Its flexible horizontal hanging properties make Exhibit a great addition to your stairway due to its ability to be hung angled. Use Exhibit to set a décor accent in your living room, bedroom, entryway, office or studio and give it a modern update while curating your favorite photos and artwork.
-  Updated: 2025-12-01T08:07:10Z
+  Updated: 2025-12-03T22:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2013,14 +2013,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Flex-Drain-Stop-Hair-Catcher-Grey-UMBRA-7.jpg?v=1731903521
   Price: $11.99 NZD
 - [Umbra Flex Adhesive Bin - Black](https://everydayhome.co.nz/products/flex-adhesive-bin-black): This shower caddy has clever storage for your shower essentials including body wash, shampoo and conditioner, razors and loofas. Easy to install, Flex Adhesive Bin includes non-damaging, waterproof adhesive strips that can be applied on various surfaces such as tiles, dry wall, concrete, etc. (does not work on porous surfaces). The Flex Adhesive Bin allows shampoo and soap bottles to be stored flipped over so you can maximize how much of the product you are able to use.
-  Updated: 2025-12-01T14:37:07Z
+  Updated: 2025-12-03T19:07:13Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Flex-Adhesive-Bin-Black-UMBRA-5.jpg?v=1731902116
   Price: $25.99 NZD
 - [Umbra Flex Adhesive Corner Bin - White](https://everydayhome.co.nz/products/flex-adhesive-corner-bin-white): Flex Gel-Lock Corner Bin makes excellent use of the underutilized corner space in your shower – giving you more room, while keeping all the essentials on hand. Easy to install, Flex Adhesive Corner Bin includes non-damaging, waterproof adhesive strips that can be applied on various surfaces such as tiles, dry wall, concrete, etc. (does not work on porous surfaces). Flex Adhesive Bin has space for shampoo, conditioner, body wash, a razor and two hooks for loofahs and wash cloths. It's easy to remove and move to a different space if needed.
-  Updated: 2025-12-02T23:37:06Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2055,7 +2055,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Flip-8-Hook-Black-UMBRA-9.jpg?v=1731901896
   Price: $76.99 NZD
 - [Umbra Holster Dish Rack - White](https://everydayhome.co.nz/products/holster-dish-rack-white): This dish rack is made of molded plastic and has a stainless-steel frame making it both durable and easy to clean. Holster has a 15-plate capacity, utensil storage, moveable stemware holder, a multi-purpose side tray and dual position drain spot. With soft, curved lines, this low profile, molded plastic caddy is a modern but approachable piece for everyday kitchen use.
-  Updated: 2025-11-26T19:18:11Z
+  Updated: 2025-12-03T22:07:11Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -2076,7 +2076,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Hub-Oval-Mirror-45-x-61cm-Black-UMBRA-5.png?v=1731902521
   Price: $94.99 NZD
 - [Umbra Leana Ladder - Black](https://everydayhome.co.nz/products/leana-ladder-rack-black): Both decorative and functional, Leana Ladder features solid wood posts and 4 metal bars, providing you room to store blankets, clothes, towels and more. Easy to assemble, Leana provides a modern storage solution that can be used in a variety of rooms in your home. With a solid wood construction and powder-coated steel, this innovative storage solution is the ideal towel rack, blanket rack, or clothing organizer.
-  Updated: 2025-12-01T05:37:08Z
+  Updated: 2025-12-03T22:07:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2202,7 +2202,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Raco-Contemporary-24cm-Frypan-Raco-9.jpg?v=1731902715
   Price: $46.99 NZD
 - [Raco Contemporary - 24cm/5.7L Stockpot](https://everydayhome.co.nz/products/raco-contemporary-24cm-5-7l-ss-stockpot): Welcome to RACO Contemporary! Drawing on years of experience, we’ve designed cookware that combines the durability of stainless steel with the convenience of nonstick. Perfect for creating family meals, our range is dishwasher safe, oven safe up to 200ºC, and induction suitable. Versatile Size: The 5.7L Stainless Steel Induction Stockpot Our Stockpot is perfect for cooking soups, stocks, and more. Its versatile size makes it ideal for preparing delicious meals for your family.
-  Updated: 2025-11-16T22:01:44Z
+  Updated: 2025-12-03T22:07:11Z
   Vendor: Raco
   Product Type: Kitchenware
   Availability: Available
@@ -2265,7 +2265,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Raco-Universal-Steamer-with-Lid-16-18-20cm-Raco-0.jpg?v=1731902457
   Price: $46.99 NZD
 - [Raco Elements - 2.5L Stovetop Kettle](https://everydayhome.co.nz/products/raco-elements-2-5l-stovetop-kettle): You can enjoy more than just your morning cup of tea with the stylish and timeless design of the RACO Elements Stainless Steel Stovetop Kettle. Featuring a generous 2.5L Capacity and a wooden effect cool touch handle, the capsulated base provides even and rapid heating. The whistling feature and spring loaded spout alerts you when your water is boiled and assists with a safe and easy pour. Suitable for all cooktops, including induction.
-  Updated: 2025-11-30T22:23:56Z
+  Updated: 2025-12-03T22:07:12Z
   Vendor: Raco
   Product Type: Kitchenware
   Availability: Available
@@ -2321,7 +2321,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Squire-Paper-Towel-Holder-Black-UMBRA-2.jpg?v=1731901906
   Price: $11.99 NZD
 - [Umbra Step Soap Pump - White](https://everydayhome.co.nz/products/step-soap-sanitiser-dispenser-white): Step has sleek, shiny, and modern, creating a contemporary version of a typical soap pump. The product’s crisp clean lines make it a modern fixture for your space. Constructed of highly durable material melamine, Step has a low-risk for breakage and is long-lasting. With a capacity of 13 ounces (384 mL) and a wide opening, Step is both easy to refill and holds a large quantity of soap. The dispenser has a beautiful glossy finish and is an ideal addition to any washroom, laundry room, or kitchen. Pair this soap pump with other accessories from the Step Bathroom Collection for a more cohesive look.
-  Updated: 2025-11-30T23:22:11Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2342,7 +2342,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Stowit-Jewelry-Box-Black-Walnut-UMBRA-6.png?v=1731902487
   Price: $94.99 NZD
 - [Stowit Mini Jewelry Box - Black/Walnut](https://everydayhome.co.nz/products/stowit-mini-jewelry-box-black-walnut): Use Mini Stowit to keep all your favorite jewelry pieces in one place, making them easy to access. Multiple hidden compartments of various sizes allow you to store your rings, earrings, bracelets, watches, necklaces and other accessories in different configurations depending on what works best for you. Each drawer features a linen pad to keep your jewelry from shifting around or getting damaged. The simple, modern design of Mini Stowit is an attractive addition to your dresser, nightstand, desk, or wherever you choose to put it. Alternatively, Mini Stowit can also be used as a keepsake box, for storing small valuables and other trinkets from your adventures, or as a drawer organizer in your desk or nightstand.
-  Updated: 2025-12-01T05:37:07Z
+  Updated: 2025-12-03T22:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2419,7 +2419,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Udry-Mini-Drying-Rack-Drying-Mat-Charcoal-UMBRA-1.jpg?v=1731902669
   Price: $9.99 NZD
 - [Umbra Udry Over The Sink Dish Rack - Charcoal](https://everydayhome.co.nz/products/udry-over-the-sink-charcoal): UDry Over the Sink is a versatile 2-in-1 dish drying solution that provides ample storage space for quick drying of dishes and utensils. It features a bpa-free dish rack with 16 slots that can be positioned in the middle or side of the absorbent microfiber mat, or over the sink. When not in use, it easily folds up for compact storage.
-  Updated: 2025-12-01T14:37:10Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -2524,14 +2524,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/TouchBinNew_30L-MattSteelFingerprintProof-8710755115462Brabantia_96dpi_1000x1000px_7_NR-13425.png?v=1734406069
   Price: $189.99 NZD
 - [Brabantia Ironing Board D - Spring Bubbles](https://everydayhome.co.nz/products/ironing-board-d-135x45cm-hripz-35mm-black-frame-spring-bubbles): Need some space? The Brabantia Ironing Board D is so wide, you can iron a shirt in one go. Drape it over the boards shoulder shape to iron it to perfection. There's no iron rest in the way, you can just leave your iron on the heat resistant zone on the cover. A truly great ironing board, that you can even use sitting down.
-  Updated: 2025-11-29T07:53:16Z
+  Updated: 2025-12-03T22:07:12Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $214.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-12-01T21:22:12Z
+  Updated: 2025-12-03T22:07:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2587,7 +2587,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardC_124x45cm_SSIR-SpringBubbles-8710755134920Brabantia_96dpi_1000x1000px_7_NR-19942.png?v=1733870570
   Price: $178.99 NZD
 - [Brabantia Topspinner Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/topspinner-4-arm-clothesline-60m-metal-soil-spear-metallic-grey): The Brabantia Topspinner rotary dryer really spins like a top, even when the arms are fully loaded with wet laundry. But there’s more: it’s easy to open and has up to 60 metres of quality, UV-resistant non-slip washing lines. Thanks to the nifty retension-system, these lines are always taut. You’ll surely love the eye at the end of each arm to hang clothes hangers from and its sturdy hanging loop for easy storage. Top for you and the planet!
-  Updated: 2025-12-02T19:07:11Z
+  Updated: 2025-12-03T16:07:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2601,7 +2601,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/HangOnDryingRack_25mwithrod-MattBlack-8710755403521Brabantia_96dpi_1000x1000px_7_NR-23508.png?v=1733868877
   Price: $136.99 NZD
 - [Brabantia Topspinner Clothesline with Metal Ground Spike - 40m Metallic Grey](https://everydayhome.co.nz/products/topspinner-4-arm-clothesline-40m-metal-soil-spear-metallic-grey): A Brabantia rotary dryer that spins like a record, even with its arms full of wet laundry. But there’s more: like 40 metres of quality, UV-resistant non-slip washing lines. Thanks to the retension-system, these lines are always taut. And you know what's top too? The eye at the end of each arm to hang clothes hangers from and its sturdy hanging loop for easy storage. Top for you, top for the planet too.
-  Updated: 2025-12-01T21:22:11Z
+  Updated: 2025-12-03T22:37:12Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2685,19 +2685,12 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileDigitalKitchenScales_Round-MattSteel-8710755480560Brabantia_96dpi_1000x1000px_7_NR-5656.png?v=1734404799
   Price: $48.99 NZD
 - [Brabantia Tasty+ Digital Kitchen Scales - Dark Grey](https://everydayhome.co.nz/products/digital-kitchen-scale-dark-grey): Spice up your kitchen with this battery-operated Brabantia Tasty+ Digital Kitchen Scale. This cute kitchen helper has an LCD lit display and weighs everything from 1 gram to 5 kilos. Weighed out? Just wipe off the glass surface and hang your scale within easy reach from its loop. What else do you need to tip the scales in favour of this one?
-  Updated: 2025-11-23T23:07:10Z
+  Updated: 2025-12-03T22:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_DigitalKitchenScales-DarkGrey-8710755122644Brabantia_96dpi_1000x1000px_7_NR-15691.png?v=1733866488
   Price: $53.99 NZD
-- [Brabantia Kitchen Utensils Set Nonstick - Matt Steel](https://everydayhome.co.nz/products/kitchen-utensil-set-n-stick-c): No more sticky situations in your kitchen with this Profile Non-Stick Kitchen Utensils Set. This top-team consists of a Soup Ladle, Vegetable Spoon, Spatula and Skimmer. All with durable stainless steel grips and nylon non-stick tops. For cooking with confidence.
-  Updated: 2025-11-30T23:52:11Z
-  Vendor: BRABANTIA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileKitchenUtensilsSet_Non-Stick-MattSteel-8710755260285Brabantia_96dpi_1000x1000px_7_NR-21465.png?v=1733874059
-  Price: $43.99 NZD
 - [Brabantia Tasty+ Mixing Bowl Set - Mixed Colours](https://everydayhome.co.nz/products/mixing-bowl-set-w-bowls-colander-jug-w-juicer-mixed-colours): Great dishes start with great tools. Kickstart your cooking with this Tasty+ nestable Mixing Bowl set with a Mixing Bowl 3.2L, a Mixing Bowl 1.5L, a 2.4L Colander and a 0.5L Measuring Jug/Juicer. All you need for mixing, draining and juicing in one complete and space saving set. Nice to give, nice to get.
   Updated: 2025-11-30T18:52:11Z
   Vendor: BRABANTIA
@@ -2706,7 +2699,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_MixingBowlSet-Mixed-8710755122262Brabantia_96dpi_1000x1000px_7_NR-15462.png?v=1734403925
   Price: $48.99 NZD
 - [Brabantia Steam Iron Store - Dark Grey](https://everydayhome.co.nz/products/steam-iron-store-dark-grey): Done ironing? Don't let your iron cool on your ironing board, get everything out of the way quickly and safely with Brabantia’s Iron Store. Made from heat-resistant materials, so no cool-down required. Put away your hot iron, wind up the flex and hang the board on the sturdy hook. Kid-proof, neat and tidy in no time!
-  Updated: 2025-11-30T18:52:11Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2741,14 +2734,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_KitchenUtensilsSetplusStand-Mixed-8710755123184Brabantia_96dpi_1000x1000px_7_NR-28094.png?v=1733873130
   Price: $40.99 NZD
 - [Brabantia ReNew Toilet Brush and Holder - Matt Steel](https://everydayhome.co.nz/products/renew-toilet-brush-and-holder-matt-steel): Not too hot on cleaning the loo? Armed with this reliable Brabantia ReNew Toilet Brush and Holder, cleaning the toilet is a lot easier and faster. Bonus: the holder keeps your brush out of sight, but ready whenever you need it. Made of corrosion-resistant materials, the holder keeps its beauty - even in humid conditions. Designed to be discreet!
-  Updated: 2025-11-30T23:22:11Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewToiletBrushandHolder-MattSteel-8710755385285Brabantia_96dpi_1000x1000px_7_NR-24802.png?v=1734469205
   Price: $43.99 NZD
 - [Brabantia Tasty+ Chopping Board Set - Mixed Colours](https://everydayhome.co.nz/products/chopping-board-set-3-boards-mixed-colours): Dicing, slicing, chopping or cutting, it's easier on this Tasty+ Chopping Board Set. Three non-slip stylish chopping boards that can be used on both sides. There is a multifunctional M size board, a compact S size board and a roomy L size board. Easy to use, easy to clean and easy to nest. Get them on board now!
-  Updated: 2025-12-01T16:07:11Z
+  Updated: 2025-12-03T22:07:13Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -2769,21 +2762,21 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningCover2020_DenimBlue_96dpi_1000x1000px_7_NR-21471.png?v=1733871003
   Price: $17.99 NZD
 - [Brabantia ReNew Toilet Brush and Holder - Matt Black](https://everydayhome.co.nz/products/renew-toilet-brush-holder-matt-black): Not too hot on cleaning the loo? Armed with this reliable Brabantia ReNew Toilet Brush and Holder, cleaning the toilet is a lot easier and faster. Bonus: the holder keeps your brush out of sight, but ready whenever you need it. Made of corrosion-resistant materials, the holder keeps its beauty - even in humid conditions. Designed to be discreet!
-  Updated: 2025-12-01T06:15:20Z
+  Updated: 2025-12-03T19:07:13Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewToiletBrushandHolder-MattBlack-8710755108587Brabantia_96dpi_1000x1000px_7_NR-19967.png?v=1734469082
   Price: $43.99 NZD
 - [Brabantia ReNew Toilet Brush and Holder - Platinum](https://everydayhome.co.nz/products/renew-toilet-brush-and-holder-platinum): Not too hot on cleaning the loo? Armed with this reliable Brabantia ReNew Toilet Brush and Holder, cleaning the toilet is a lot easier and faster. Bonus: the holder keeps your brush out of sight, but ready whenever you need it. Made of corrosion-resistant materials, the holder keeps its beauty - even in humid conditions. Designed to be discreet!
-  Updated: 2025-11-30T20:37:11Z
+  Updated: 2025-12-03T19:07:10Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewToiletBrushandHolder-Platinum-8710755477324Brabantia_96dpi_1000x1000px_7_NR-20245.png?v=1734478231
   Price: $43.99 NZD
 - [Brabantia ReNew Toilet Brush and Holder - White](https://everydayhome.co.nz/products/renew-toilet-brush-and-holder-white): Not too hot on cleaning the loo? Armed with this reliable Brabantia ReNew Toilet Brush and Holder, cleaning the toilet is a lot easier and faster. Bonus: the holder keeps your brush out of sight, but ready whenever you need it. Made of corrosion-resistant materials, the holder keeps its beauty - even in humid conditions. Designed to be discreet!
-  Updated: 2025-11-30T23:22:11Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -2797,14 +2790,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileOrganiserforGadgets-MattSteel-8710755313066Brabantia_96dpi_1000x1000px_7_NR-1865.png?v=1733872346
   Price: $33.99 NZD
 - [Brabantia Ironing Board Cover B - Metallised Silver](https://everydayhome.co.nz/products/ironing-board-cover-b-124x38cm-2mm-foam-metallized-silver): You don't wear the same outfit all season, so why should your ironing board? Give it a new look with this fresh ironing board top layer. Durable and practical - a real top layer for your Brabantia Ironing Board B. Enjoy!
-  Updated: 2025-12-01T00:22:07Z
+  Updated: 2025-12-03T22:07:12Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardCoverB_124x38cm2mmFoam-Metallised-8710755317705Brabantia_96dpi_1000x1000px_7_NR-3060.png?v=1733871119
   Price: $17.99 NZD
 - [Brabantia Ironing Board Cover C - Metallised Silver](https://everydayhome.co.nz/products/ironing-board-cover-c-124x45cm-2mm-foam-metalised-silver): Better ironing without any extra effort - this Brabantia metallised cotton ironing board cover is a dream come true. It reflects the heat of your (steam) iron, giving you double ironing power!
-  Updated: 2025-11-25T22:20:16Z
+  Updated: 2025-12-03T22:07:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2839,18 +2832,11 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_ChoppingBoardplusServingTray-LightGrey-8710755123146Brabantia_96dpi_1000x1000px_7_NR-17716.png?v=1733802336
   Price: $23.99 NZD
 - [Brabantia ReNew Shower Squeegee - Dark Grey](https://everydayhome.co.nz/products/shower-squeegee-dark-grey): Finally, a squeegee to suit your stylish bathroom! This silicone Brabantia ReNew Shower Squeegee brings minimalist design together with maximum convenience. It has a brush on one side and a wiper on the other, to clean and effortlessly wipe off your shower door and tiles. All clear? Hang it from the shower door from the included hook. Handy!
-  Updated: 2025-12-01T07:56:07Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewShowerSqueegee-DarkGrey-8710755280160Brabantia_300dpi_4303x6455px_6_NR-20019_96dpi_1000x1000px_7_NR-22283.png?v=1734479174
-  Price: $24.99 NZD
-- [Brabantia ReNew Shower Squeegee - White](https://everydayhome.co.nz/products/shower-squeegee-white): Finally, a squeegee to suit your stylish bathroom! This silicone Brabantia ReNew Shower Squeegee brings minimalist design together with maximum convenience. It has a brush on one side and a wiper on the other, to clean and effortlessly wipe off your shower door and tiles. All clear? Hang it from the shower door from the included hook. Handy!
-  Updated: 2025-11-30T23:22:12Z
-  Vendor: BRABANTIA
-  Product Type: Bed & Bath
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewShowerSqueegee-White-8710755280184Brabantia_300dpi_4303x6455px_6_NR-20021_96dpi_1000x1000px_7_NR-22285.png?v=1734479270
   Price: $24.99 NZD
 - [Brabantia Universal Replacement Clotheslines - 65m Grey](https://everydayhome.co.nz/products/universal-replacement-clotheslines-65m-grey): Extend the life of your rotary dryer with this Brabantia replacement line. Just follow the step-by-step instructions and your rotary dryer will be like new again. Double green drying!
   Updated: 2025-11-24T22:52:06Z
@@ -2895,7 +2881,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_16L-Grey-8710755109966Brabantia_96dpi_1000x1000px_7_NR-1287.png?v=1734562203
   Price: $58.99 NZD
 - [Brabantia Sort & Go Waste Bin - 12L Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-12l-grey): Feed your empty packaging, bottles, cans or anything else you want sorted to the 12 litre Brabantia Sort & Go Recycle Bin. Put it in any corner, flat to the wall, or save even more floorspace and hang it from its included wall bracket. Time to empty it? Piece of cake, because of the large handle and bottom grip for easy carrying and emptying. Now that's organising!
-  Updated: 2025-12-01T00:37:11Z
+  Updated: 2025-12-03T07:55:01Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -3028,14 +3014,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SinkStyleSoapDispenserSet-MineralInfiniteGrey-8710755227943Brabantia_96dpi_1000x1000px_7_NR-32184.png?v=1734559922
   Price: $51.99 NZD
 - [Brabantia SinkStyle Soap Squeezer - 200ml Dark Grey](https://everydayhome.co.nz/products/sinkstyle-soap-squeezer-200ml-dark-grey): No need to hide your washing up liquid anymore. Just store 200 ml of your favourite dish soap in style with this Brabantia SinkStyle Soap Squeezer. A flexible non-slip and non-drip design, that releases dishwashing liquid when squeezing. Empty? Refill this squeezer easily with the removable screw top. Easy squeezy!
-  Updated: 2025-12-02T08:49:56Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SinkStyleSoapSqueezer-DarkGrey-8710755228049Brabantia_96dpi_1000x1000px_7_NR-32171.png?v=1734560103
   Price: $13.99 NZD
 - [Brabantia SinkStyle Soap Squeezer - 200ml Fresh White](https://everydayhome.co.nz/products/sinkstyle-soap-squeezer-200ml-fresh-white): No need to hide your washing up liquid anymore. Just store 200 ml of your favourite dish soap in style with this Brabantia SinkStyle Soap Squeezer. A flexible non-slip and non-drip design, that releases dishwashing liquid when squeezing. Empty? Refill this squeezer easily with the removable screw top. Easy squeezy!
-  Updated: 2025-11-30T17:37:11Z
+  Updated: 2025-12-03T19:07:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3063,14 +3049,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoBuilt-inBin_2x30L-DarkGrey-8710755232527Brabantia_96dpi_1000x1000px_7_NR-34737.png?v=1734561023
   Price: $208.99 NZD
 - [Brabantia Bra Wash Bag - White](https://everydayhome.co.nz/products/bra-wash-bag-wht-gry): Wash your delicates with care with a Brabantia Wash Bag. A strong mesh bag, protecting fine garments and small items of clothing during washing, rinsing or spinning. The easy to use zipper even has a special cover for the pull-tab to protect other laundry and your washing machine. Small item, great idea!
-  Updated: 2025-11-16T22:00:02Z
+  Updated: 2025-12-03T23:18:15Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BraWashBag-White-8710755149245Brabantia_96dpi_1000x1000px_7_NR-26300.png?v=1733789129
   Price: $10.99 NZD
 - [Brabantia Wash Bags - Set of 3 White](https://everydayhome.co.nz/products/wash-bags-set-3-wht-gry): Wash your delicates with care with a Brabantia Wash Bag. A strong mesh bag, protecting fine garments and small items of clothing during washing, rinsing or spinning. The easy to use zipper even has a special cover for the pull-tab to protect other laundry and your washing machine. Small item, great idea!
-  Updated: 2025-11-30T23:22:12Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3588,7 +3574,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/TouchBinNew_30L-MattBlack-8710755115301Brabantia_300dpi_2000x2000px_9_NR-13385.jpg?v=1755051049
   Price: $184.99 NZD
 - [Brabantia New Touch Bin - 30L Platnium](https://everydayhome.co.nz/products/touch-bin-new-30l-platnium): Ready for the next step in organising your home? Get your hands on the Brabantia Touch Bin 30 litre. Just touch the lid and it opens smoothly. It really is seriously easy – to open, to change the bin bags, to clean... This touch bin also has a round design, is sturdy, and protects your floor thanks to the protection rim. Bring on the years of intensive, problem free use with 30 litres of value for money.
-  Updated: 2025-12-02T16:07:07Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -3616,7 +3602,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_12L-MattBlack-8710755113741Brabantia_300dpi_2000x2000px_9_NR-1482.jpg?v=1755045777
   Price: $77.99 NZD
 - [Brabantia Newicon Pedal Bin - 12L Matt Steel Fingerprint Proof](https://everydayhome.co.nz/products/pedal-bin-newicon-12l-matt-steel-fpp): A Brabantia Pedal Bin NewIcon 12 litre is a great way to pick up waste management. Small enough to hide under your worktop, stylish enough to put in plain sight. And of course this hygienic NewIcon pedal bin comes with an odour-proof, soft closing lid and nifty anti-tilting block. A timeless design and handy addition to your home office, hobby room or kid's room - or any other room that could use a winning bin!
-  Updated: 2025-11-30T23:22:12Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -3630,14 +3616,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_12L-MetallicGold-8710755304446Brabantia_300dpi_2000x2000px_9_NR-20655.jpg?v=1754970564
   Price: $103.99 NZD
 - [Brabantia Newicon Pedal Bin - 12L Soft Beige](https://everydayhome.co.nz/products/pedal-bin-newicon-12l-soft-beige): A Brabantia Pedal Bin NewIcon 12 litre is a great way to pick up waste management. Small enough to hide under your worktop, stylish enough to put in plain sight. And of course this hygienic NewIcon pedal bin comes with an odour-proof, soft closing lid and nifty anti-tilting block. A timeless design and handy addition to your home office, hobby room or kid's room - or any other room that could use a winning bin!
-  Updated: 2025-11-30T20:37:11Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_12L-SoftBeige-8710755149924Brabantia_300dpi_2000x2000px_9_NR-27488.jpg?v=1754970222
   Price: $103.99 NZD
 - [Brabantia Newicon Pedal Bin - 12L White](https://everydayhome.co.nz/products/pedal-bin-newicon-12l-white): A Brabantia Pedal Bin NewIcon 12 litre is a great way to pick up waste management. Small enough to hide under your worktop, stylish enough to put in plain sight. And of course this hygienic NewIcon pedal bin comes with an odour-proof, soft closing lid and nifty anti-tilting block. A timeless design and handy addition to your home office, hobby room or kid's room - or any other room that could use a winning bin!
-  Updated: 2025-11-30T23:22:12Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -3658,7 +3644,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_20L-ConfidentGrey-8710755233500Brabantia_96dpi_2000x2000px_9_NR-36805.jpg?v=1754960770
   Price: $130.99 NZD
 - [Brabantia Newicon Pedal Bin - 20L Matt Black](https://everydayhome.co.nz/products/pedal-bin-newicon-20l-matt-black): Looking for the perfect bin for your kitchen? Or the perfect bin for any other room? Try your foot at the Brabantia Pedal Bin NewIcon 20 litre - a true all-rounder. This timeless bin is odour-proof and hygienic, with a tap of the toe pedal opening and soft-close feature. More plusses: the non-skid base, nifty anti-tilting block and of course its iconic looks. What's not to love?
-  Updated: 2025-11-30T23:22:11Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -3693,14 +3679,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_20L-Platinum-8710755114045Brabantia_300dpi_2000x2000px_9_NR-1489.jpg?v=1754957882
   Price: $130.99 NZD
 - [Brabantia Newicon Pedal Bin - 20L Soft Beige](https://everydayhome.co.nz/products/pedal-bin-newicon-20l-soft-beige): Looking for the perfect bin for your kitchen? Or the perfect bin for any other room? Try your foot at the Brabantia Pedal Bin NewIcon 20 litre - a true all-rounder. This timeless bin is odour-proof and hygienic, with a tap of the toe pedal opening and soft-close feature. More plusses: the non-skid base, nifty anti-tilting block and of course its iconic looks. What's not to love?
-  Updated: 2025-11-30T17:37:11Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_20L-SoftBeige-8710755149948Brabantia_300dpi_2000x2000px_9_NR-27495.jpg?v=1754957720
   Price: $130.99 NZD
 - [Brabantia Newicon Pedal Bin - 20L White](https://everydayhome.co.nz/products/pedal-bin-newicon-20l-white): Looking for the perfect bin for your kitchen? Or the perfect bin for any other room? Try your foot at the Brabantia Pedal Bin NewIcon 20 litre - a true all-rounder. This timeless bin is odour-proof and hygienic, with a tap of the toe pedal opening and soft-close feature. More plusses: the non-skid base, nifty anti-tilting block and of course its iconic looks. What's not to love?
-  Updated: 2025-11-30T23:22:12Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -3714,7 +3700,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_30L-BrilliantSteel-8710755114366Brabantia_300dpi_2000x2000px_9_NR-1497.jpg?v=1754954434
   Price: $154.99 NZD
 - [Brabantia Newicon Pedal Bin - 30L Confident Grey](https://everydayhome.co.nz/products/pedal-bin-newicon-30l-confident-grey): Brabantia’s 30 litre Pedal Bin NewIcon has an iconic design, and is a reliable worker too. Sturdy, and always standing strong because of its non-slip base and anti-tilting block. Thanks to the unique soft-closure feature, it closes smoothly. And of course this NewIcon Pedal Bin is hygienic, odour-proof, easy to open and to keep clean. Perfect for your kitchen or any other room that could use 30 litres of timeless design.
-  Updated: 2025-11-30T17:37:12Z
+  Updated: 2025-12-03T19:07:13Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -3742,7 +3728,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_30L-MattSteelFingerprintProof-8710755111822Brabantia_300dpi_2000x2000px_9_NR-7289.jpg?v=1754953742
   Price: $166.99 NZD
 - [Brabantia Newicon Pedal Bin - 30L Platinum](https://everydayhome.co.nz/products/pedal-bin-newicon-30l-platinum): Brabantia’s 30 litre Pedal Bin NewIcon has an iconic design, and is a reliable worker too. Sturdy, and always standing strong because of its non-slip base and anti-tilting block. Thanks to the unique soft-closure feature, it closes smoothly. And of course this NewIcon Pedal Bin is hygienic, odour-proof, easy to open and to keep clean. Perfect for your kitchen or any other room that could use 30 litres of timeless design.
-  Updated: 2025-11-30T23:22:13Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -3756,7 +3742,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_30L-SoftBeige-8710755149962Brabantia_300dpi_2000x2000px_9_NR-27502.jpg?v=1754953031
   Price: $154.99 NZD
 - [Brabantia Newicon Pedal Bin - 30L White](https://everydayhome.co.nz/products/pedal-bin-newicon-30l-white): Brabantia’s 30 litre Pedal Bin NewIcon has an iconic design, and is a reliable worker too. Sturdy, and always standing strong because of its non-slip base and anti-tilting block. Thanks to the unique soft-closure feature, it closes smoothly. And of course this NewIcon Pedal Bin is hygienic, odour-proof, easy to open and to keep clean. Perfect for your kitchen or any other room that could use 30 litres of timeless design.
-  Updated: 2025-11-30T23:22:12Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -3770,14 +3756,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_3L-BrilliantSteel-8710755113147Brabantia_300dpi_2000x2000px_9_NR-1456.jpg?v=1754952138
   Price: $46.99 NZD
 - [Brabantia Newicon Pedal Bin - 3L Confident Grey](https://everydayhome.co.nz/products/pedal-bin-newicon-3l-confident-grey): Add some style with the cute Brabantia Pedal Bin NewIcon 3 litre. Timeless design, with an odour-proof and soft closing lid. And of course this extra small NewIcon pedal bin is hygienic, easy to open and keep clean too. Perfect for your bathroom, toilet or any other room that could use a great little bin.
-  Updated: 2025-11-30T23:22:13Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_3L-ConfidentGrey-8710755233449Brabantia_96dpi_2000x2000px_9_NR-36786.jpg?v=1754950393
   Price: $46.99 NZD
 - [Brabantia Newicon Pedal Bin - 3L Matt Steel Fingerprint Proof](https://everydayhome.co.nz/products/pedal-bin-newicon-3l-matt-steel-fpp): Add some style with the cute Brabantia Pedal Bin NewIcon 3 litre. Timeless design, with an odour-proof and soft closing lid. And of course this extra small NewIcon pedal bin is hygienic, easy to open and keep clean too. Perfect for your bathroom, toilet or any other room that could use a great little bin.
-  Updated: 2025-11-30T23:22:11Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -3798,35 +3784,35 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_3L-Platinum-8710755113246Brabantia_300dpi_2000x2000px_9_NR-1462.jpg?v=1754624788
   Price: $46.99 NZD
 - [Brabantia Newicon Pedal Bin - 3L Soft Beige](https://everydayhome.co.nz/products/pedal-bin-newicon-3l-soft-beige): Add some style with the cute Brabantia Pedal Bin NewIcon 3 litre. Timeless design, with an odour-proof and soft closing lid. And of course this extra small NewIcon pedal bin is hygienic, easy to open and keep clean too. Perfect for your bathroom, toilet or any other room that could use a great little bin.
-  Updated: 2025-12-02T04:59:41Z
+  Updated: 2025-12-03T19:07:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_3L-SoftBeige-8710755149887Brabantia_300dpi_2000x2000px_9_NR-28696.jpg?v=1754623701
   Price: $46.99 NZD
 - [Brabantia Newicon Pedal Bin - 3L White](https://everydayhome.co.nz/products/pedal-bin-newicon-3l-white): Add some style with the cute Brabantia Pedal Bin NewIcon 3 litre. Timeless design, with an odour-proof and soft closing lid. And of course this extra small NewIcon pedal bin is hygienic, easy to open and keep clean too. Perfect for your bathroom, toilet or any other room that could use a great little bin.
-  Updated: 2025-12-01T00:22:07Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_3L-White-8710755112126Brabantia_300dpi_2000x2000px_9_NR-1390.jpg?v=1754623501
   Price: $46.99 NZD
 - [Brabantia Newicon Pedal Bin - 5L Brilliant Steel](https://everydayhome.co.nz/products/pedal-bin-newicon-5l-brilliant-steel): Brabantia’s Pedal Bin NewIcon 5 litre is not only stylish and hygienic, but a reliable worker too. Sturdy, and always standing strong because of its non-slip base and anti-tilting block. The lid is odour-proof, closes softly and opens at the lightest tap of your foot. A small touch of timeless design for your bathroom, toilet or nursery - or any other room that could use a great little bin!
-  Updated: 2025-11-16T22:00:49Z
+  Updated: 2025-12-03T06:49:30Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_5L-MellowYellow-8710755233784Brabantia_96dpi_2000x2000px_9_NR-35557_eac3f723-f5b3-4182-ba06-054775c364a6.jpg?v=1754623003
   Price: $64.99 NZD
 - [Brabantia Newicon Pedal Bin - 5L Confident Grey](https://everydayhome.co.nz/products/pedal-bin-newicon-5l-confident-grey): Brabantia’s Pedal Bin NewIcon 5 litre is not only stylish and hygienic, but a reliable worker too. Sturdy, and always standing strong because of its non-slip base and anti-tilting block. The lid is odour-proof, closes softly and opens at the lightest tap of your foot. A small touch of timeless design for your bathroom, toilet or nursery - or any other room that could use a great little bin!
-  Updated: 2025-11-30T20:37:11Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_5L-ConfidentGrey-8710755233463Brabantia_96dpi_2000x2000px_9_NR-36792.jpg?v=1754622771
   Price: $64.99 NZD
 - [Brabantia Newicon Pedal Bin - 5L Matt Black](https://everydayhome.co.nz/products/pedal-bin-newicon-5l-matt-black): Brabantia’s Pedal Bin NewIcon 5 litre is not only stylish and hygienic, but a reliable worker too. Sturdy, and always standing strong because of its non-slip base and anti-tilting block. The lid is odour-proof, closes softly and opens at the lightest tap of your foot. A small touch of timeless design for your bathroom, toilet or nursery - or any other room that could use a great little bin!
-  Updated: 2025-11-30T23:22:12Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -3840,21 +3826,21 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_5L-MattSteelFingerprintProof-8710755112102Brabantia_300dpi_2000x2000px_9_NR-1573.jpg?v=1754622039
   Price: $76.99 NZD
 - [Brabantia Newicon Pedal Bin - 5L Platinum](https://everydayhome.co.nz/products/pedal-bin-newicon-5l-platinum): Brabantia’s Pedal Bin NewIcon 5 litre is not only stylish and hygienic, but a reliable worker too. Sturdy, and always standing strong because of its non-slip base and anti-tilting block. The lid is odour-proof, closes softly and opens at the lightest tap of your foot. A small touch of timeless design for your bathroom, toilet or nursery - or any other room that could use a great little bin!
-  Updated: 2025-11-30T20:37:11Z
+  Updated: 2025-12-03T19:07:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_5L-Platinum-8710755112683Brabantia_300dpi_2000x2000px_9_NR-1426.jpg?v=1754621189
   Price: $64.99 NZD
 - [Brabantia Newicon Pedal Bin - 5L Soft Beige](https://everydayhome.co.nz/products/pedal-bin-newicon-5l-soft-beige): Brabantia’s Pedal Bin NewIcon 5 litre is not only stylish and hygienic, but a reliable worker too. Sturdy, and always standing strong because of its non-slip base and anti-tilting block. The lid is odour-proof, closes softly and opens at the lightest tap of your foot. A small touch of timeless design for your bathroom, toilet or nursery - or any other room that could use a great little bin!
-  Updated: 2025-11-16T22:00:52Z
+  Updated: 2025-12-03T22:07:12Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_5L-SoftBeige-8710755149900Brabantia_300dpi_2000x2000px_9_NR-28697.jpg?v=1754621023
   Price: $64.99 NZD
 - [Brabantia Newicon Pedal Bin - 5L White](https://everydayhome.co.nz/products/pedal-bin-newicon-5l-white): Brabantia’s Pedal Bin NewIcon 5 litre is not only stylish and hygienic, but a reliable worker too. Sturdy, and always standing strong because of its non-slip base and anti-tilting block. The lid is odour-proof, closes softly and opens at the lightest tap of your foot. A small touch of timeless design for your bathroom, toilet or nursery - or any other room that could use a great little bin!
-  Updated: 2025-11-30T23:22:11Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -3882,21 +3868,21 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_3L-Grey-8710755209888Brabantia_300dpi_2000x2000px_9_NR-17479.jpg?v=1754606819
   Price: $34.99 NZD
 - [Brabantia Sort & Go Waste Bin - 3L Light Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-3l-lght-gry): This cute 3 litre Brabantia Sort & Go Recycle Bin with stay-open lid is great for peels, scraps, leftovers... all organic kitchen-waste actually. Just display it on your worktop or hide it in a drawer. Full? Grab it by its handy handle and empty it on your compost heap or in your organic waste container. A great bin in XXS size!
-  Updated: 2025-12-02T04:59:42Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_3L-LightGrey-8710755213229Brabantia_300dpi_2000x2000px_9_NR-25842.jpg?v=1754607295
   Price: $34.99 NZD
 - [Brabantia Sort & Go Waste Bin - 6L Light Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-6l-lght-gry): This cute 6 litre Brabantia Sort & Go Recycle Bin with stay-open lid is great for peels, scraps, leftovers... all organic kitchen-waste actually. Just put it on your worktop, in a drawer or hang it on the wall with its included wall bracket. Full? Grab it by its handy handle and empty it. And do you want a bin liner with that? The PerfectFit 100% compostable bags, code S, are a perfect match - and easy to fit too! XS size, XL ease.
-  Updated: 2025-11-30T23:22:12Z
+  Updated: 2025-12-03T07:55:01Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_6L-LightGrey-8710755213267Brabantia_300dpi_2000x2000px_9_NR-25846.jpg?v=1754605417
   Price: $46.99 NZD
 - [Brabantia Sort & Go Waste Bin - 12L Light Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-12l-lght-gry): Feed your empty packaging, bottles, cans or anything else you want sorted to the 12 litre Brabantia Sort & Go Recycle Bin. Put it in any corner, flat to the wall, or save even more floorspace and hang it from its included wall bracket. Time to empty it? Piece of cake, because of the large handle and bottom grip for easy carrying and emptying. Now that's organising!
-  Updated: 2025-11-16T22:01:57Z
+  Updated: 2025-12-03T07:55:01Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -3924,28 +3910,28 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoRecycleBin_40L-Grey-8710755251047Brabantia_96dpi_886x1181px_E_NR-23245.jpg?v=1754539085
   Price: $106.99 NZD
 - [Brabantia Step Up Pedal Bin - 25L Light Grey](https://everydayhome.co.nz/products/step-up-pedal-bin-25l-light-grey): Step up your recycling with the Brabantia StepUp pedal bin 25L! Made from 91% recycled waste and made for recycling waste. With a click-on label holder for your own waste labels and handy bag storage inside the bin. If you love recycling, you will surely love this bin.
-  Updated: 2025-11-30T23:22:11Z
+  Updated: 2025-12-03T19:07:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Untitled-5_854aaf66-a399-475d-becc-f8027be169a9.jpg?v=1754535837
   Price: $64.99 NZD
 - [Brabantia ReNew Bathroom Caddy - Dark Grey](https://everydayhome.co.nz/products/brabantia-renew-bathroom-caddy-dark-grey): Whether it's for your hair, teeth or skin ... All your bathroom rituals are organised with this neat Brabantia ReNew Bathroom Caddy. A compact design, yet big enough to hold multiple (electrical) toothbrushes, tubes, brushes, and more. Made of corrosion-resistant materials, this caddy works wonders for your washbasin. Time- and space-saving!
-  Updated: 2025-11-30T21:07:12Z
+  Updated: 2025-12-03T19:07:13Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewBathroomCaddy-DarkGrey-8710755280085Brabantia_300dpi_2000x2000px_9_NR-22151.jpg?v=1756438443
   Price: $28.99 NZD
 - [Brabantia ReNew Bathroom Caddy - White](https://everydayhome.co.nz/products/brabantia-renew-bathroom-caddy-white): Whether it's for your hair, teeth or skin ... All your bathroom rituals are organised with this neat Brabantia ReNew Bathroom Caddy. A compact design, yet big enough to hold multiple (electrical) toothbrushes, tubes, brushes, and more. Made of corrosion-resistant materials, this caddy works wonders for your washbasin. Time- and space-saving!
-  Updated: 2025-11-30T23:22:12Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewBathroomCaddy-White-8710755280108Brabantia_300dpi_2000x2000px_9_NR-22156.jpg?v=1756438013
   Price: $28.99 NZD
 - [Brabantia ReNew Digital Bathroom Scale - White](https://everydayhome.co.nz/products/brabantia-renew-digital-bathroom-scale-white): Does the clutter in your bathroom weigh on you? This Brabantia ReNew Digital Bathroom Scale, with its truly minimalist design, will lighten your load! This battery powered digital scale is cleverly compact, but can take up to 180 kg. The large LED display is easy to read, but invisible when not in use. Slim, sleek and oh-so-stylish!
-  Updated: 2025-11-30T23:22:11Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3959,84 +3945,84 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/RollTopBreadBin-White-8710755306020Brabantia_300dpi_2000x2000px_9_NR-21282.jpg?v=1756436710
   Price: $73.99 NZD
 - [Brabantia Profile Can Opener - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-can-opener-matt-steel): Effortless opening of all standard tins without leaving any jagged edges? You can! This Brabantia Can Opener has a classic opening system and a large turning handle. A turn for the better!
-  Updated: 2025-12-01T00:52:07Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileCanOpener-MattSteel-8710755250187Brabantia_300dpi_2000x2000px_9_NR-19669.jpg?v=1756767159
   Price: $18.99 NZD
 - [Brabantia Profile Cheese Slicer - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-cheese-slicer-matt-steel): Cheese louise! This Brabantia Cheese Slicer is perfect for slicing all sorts of cheese. This sleek and stylish slicer has a sharp blade and great grip - made for easy slicing.
-  Updated: 2025-12-01T00:52:07Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileCheeseSlicer-MattSteel-8710755250200Brabantia_96dpi_2000x2000px_9_NR-19671.jpg?v=1756436090
   Price: $13.99 NZD
 - [Brabantia Profile Pizza/Pastry Cutter - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-pizza-pastry-cutter-matt-steel): The wheel reinvented! This Brabantia Pizza/Pastry Cutter cuts your pizza and pastry into perfect parts. The stainless-steel wheel is large and sharp - made for easy cutting, even thick bakes.
-  Updated: 2025-12-01T00:52:10Z
+  Updated: 2025-12-03T19:07:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfilePizza_PastryCutter-MattSteel-8710755250446Brabantia_300dpi_2000x2000px_9_NR-19702.jpg?v=1756435812
   Price: $12.99 NZD
 - [Brabantia Profile Potatoe Masher - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-potatoe-masher-matt-steel): Show those potatoes and vegetables who's the boss with this strong Brabantia Potato Masher! A strong tool, ideal for potatoes, vegetables and more. A smashing masher!
-  Updated: 2025-12-01T00:52:06Z
+  Updated: 2025-12-03T19:07:13Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfilePotatoMasher-MattSteel-8710755250484Brabantia_300dpi_2000x2000px_9_NR-19706.jpg?v=1756435278
   Price: $16.99 NZD
 - [Brabantia Profile Spatula Large Nonstick - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-spatula-large-nonstick): Eggs, meat, oven dishes… Flip them and serve them with this Brabantia Non-Stick Large Spatula. This sturdy spatula has smart slots through which fat can easily run off. And it's made of resilient nylon, so safe for your non-stick cookware too. A turn for the better!
-  Updated: 2025-12-02T16:07:06Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSpatula_Large_Non-Stick-MattSteel-8710755250705Brabantia_300dpi_2000x2000px_9_NR-19742.jpg?v=1756435037
   Price: $11.99 NZD
 - [Brabantia Profile Spatula Small - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-spatula-small-matt-steel): Eggs, meat, pancakes… Flip 'em and serve 'em with this Brabantia Profile Spatula, Small. This Matt Steel spatula has slots, so fat runs off easily. And it has no seams or welds, so it is also easy to clean and hygienic. A super spatula!
-  Updated: 2025-12-01T00:52:06Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSpatula_Small-MattSteel-8710755250729Brabantia_300dpi_2000x2000px_9_NR-19745.jpg?v=1756434802
   Price: $12.99 NZD
 - [Brabantia Profile Spatula Small Nonstick - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-spatula-small-nonstick): Flipping a burger or spreading veggies in the pan? Use this Small Non-Stick Brabantia Spatula. This spatula has smart slots through which fat can easily run off - great for serving. And it's made of resilient nylon, so safe for your cookware. Start the flipping.
-  Updated: 2025-12-01T00:52:06Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSpatula_Small_Non-Stick-MattSteel-8710755250743Brabantia_300dpi_2000x2000px_9_NR-19748.jpg?v=1756434570
   Price: $9.99 NZD
 - [Brabantia Profile Serving Spoon Nonstick -Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-serving-spoon-nonstick): Get everything out of great diners and your pans. Meet the Brabantia Non-Stick Serving Spoon that lets you serve your vegetables and more with ease. Made of non-stick and non-scratch nylon, with a long handle. A stirring spoon!
-  Updated: 2025-12-01T00:52:06Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileServingSpoon_NonStick-MattSteel-8710755250828Brabantia_300dpi_2000x2000px_9_NR-19764.jpg?v=1756434339
   Price: $11.99 NZD
 - [Brabantia Profile Whisk Small - Matt Steel](https://everydayhome.co.nz/products/brabantia-profile-whisk-small-matt-steel): Whip up your style with this unbeatable yet small whisk. This Brabantia Whisk Small fits a glass, cup or small bowl with ease. A great little helper!
-  Updated: 2025-12-01T00:52:07Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileWhisk_Small-MattSteel-8710755250880Brabantia_300dpi_2000x2000px_9_NR-19768.jpg?v=1756433360
   Price: $11.99 NZD
 - [Brabantia Essential Peeler - White](https://everydayhome.co.nz/products/brabantia-essential-peeler-white): Cooking is even more fun with this Brabantia Food Peeler. It skins fruits, potatoes and other veggies easily and very thin. Very a-peeling!
-  Updated: 2025-12-01T00:52:07Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineFoodPeeler-White-8710755400308Brabantia_300dpi_2000x2000px_9_NR-4548.jpg?v=1756433145
   Price: $7.99 NZD
 - [Brabantia Essential Ice Cream Scoop - White](https://everydayhome.co.nz/products/brabantia-essential-ice-cream-scoop-white): Your kitchen is screaming for this Brabantia Ice Cream Scoop. It's strongest point? Strength! This ice scoop is so robust, you can even scoop ice cream that comes straight out of the freezer. Cool!
-  Updated: 2025-12-01T00:52:10Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineIceCreamScoop-White-8710755400346Brabantia_300dpi_2000x2000px_9_NR-4550.jpg?v=1756432955
   Price: $13.99 NZD
 - [Brabantia Essential Silicone Pastry Brush Large - White](https://everydayhome.co.nz/products/brabantia-essential-silicone-pastry-brush-large-white): With this Brabantia Pastry Brush you turn your bakes into works of art. Made of soft silicone, this brush is ideal for buttering baking tins, glazing cakes, oiling veggies or basting meat. Boy, what a brush!
-  Updated: 2025-12-01T00:52:07Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4050,14 +4036,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLinePotatoMasher-White-8710755400483Brabantia_300dpi_2000x2000px_9_NR-4556.jpg?v=1756432332
   Price: $13.99 NZD
 - [Brabantia Essential Universal Opener - White](https://everydayhome.co.nz/products/brabantia-essential-universal-opener-white): Open your heart to this Brabantia Universal Opener. This multifunctional opener opens both lids and crown caps effortless. A turn for the better!
-  Updated: 2025-12-01T00:52:10Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineUniversalOpener-White-8710755400605Brabantia_300dpi_2000x2000px_9_NR-4562.jpg?v=1756432171
   Price: $14.99 NZD
 - [Brabantia Essential Can Opener - White](https://everydayhome.co.nz/products/brabantia-essential-can-opener-white): Effortless opening of all standard tins without leaving any jagged edges? You can! This Brabantia Can Opener has a classic opening system and a large turning handle. A turn for the better!
-  Updated: 2025-12-01T02:52:11Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4078,21 +4064,21 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningCover2020_DenimBlack_96dpi_630x1181px_E_NR-21470.jpg?v=1755820481
   Price: $17.99 NZD
 - [Brabantia Ironing Board Cover B - Denim Grey](https://everydayhome.co.nz/products/brabantia-ironing-board-cover-b-denim-grey): You don't wear the same outfit all season, so why should your ironing board? Give it a new look with this fresh ironing board top layer. Durable, practical and fair - all cotton is Fairtrade certified. A real top layer for your Brabantia Ironing Board B!
-  Updated: 2025-11-30T20:37:12Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardCoverB_124x38cm-DenimGrey_96dpi_2000x2000px_9_NR-35852.jpg?v=1755820384
   Price: $17.99 NZD
 - [Brabantia Ironing Board Cover B - New Dawn](https://everydayhome.co.nz/products/brabantia-ironing-board-cover-b-new-dawn): You don't wear the same outfit all season, so why should your ironing board? Give it a new look with this fresh ironing board top layer. Durable, practical and fair - all cotton is Fairtrade certified. A real top layer for your Brabantia Ironing Board B!
-  Updated: 2025-11-26T22:07:11Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardCoverB-NewDawn_96dpi_2000x2000px_9_NR-32405.jpg?v=1755819442
   Price: $17.99 NZD
 - [Brabantia Ironing Board Cover B - Soothing Sea](https://everydayhome.co.nz/products/brabantia-ironing-board-cover-b-soothing-sea): You don't wear the same outfit all season, so why should your ironing board? Give it a new look with this fresh ironing board top layer. Durable, practical and fair - all cotton is Fairtrade certified. A real top layer for your Brabantia Ironing Board B!
-  Updated: 2025-11-30T20:37:12Z
+  Updated: 2025-12-03T19:07:13Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -4127,35 +4113,35 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardCoverC-NewDawn_96dpi_2000x2000px_9_NR-32406.jpg?v=1756267199
   Price: $28.99 NZD
 - [Brabantia Ironing Board Cover C - Soothing Sea](https://everydayhome.co.nz/products/brabantia-ironing-board-cover-c-soothing-sea): Need a fresh take on ironing? Just dress your Brabantia Ironing Board C in this new cover. This 100% cotton top layer is Fairtrade certified, durable and practical - the perfect match to your ironing board. Smooth!
-  Updated: 2025-11-26T22:07:10Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardCoverC_124x45cm-SoothingSea_96dpi_2000x2000px_9_NR-35855_aeb1cdad-064a-4198-8a39-95384d8b2cfa.jpg?v=1756267111
   Price: $28.99 NZD
 - [Brabantia Ironing Board Cover D - Metalised Silver](https://everydayhome.co.nz/products/brabantia-ironing-board-cover-d-metalised-silver): Better ironing without any extra effort - this Brabantia metallised cotton ironing board cover is a dream come true. It reflects the heat of your (steam) iron, giving you double ironing power!
-  Updated: 2025-11-30T23:22:12Z
+  Updated: 2025-12-03T22:07:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardCoverD_135x45cm2mmFoam-Metallised-8710755264528Brabantia_800x800px_E_NR-2952.jpg?v=1756431930
   Price: $31.99 NZD
 - [Brabantia Kitchen Roll Holder - Brilliant Steel](https://everydayhome.co.nz/products/brabantia-kitchen-roll-holder-brilliant-steel): Take your kitchen paper to where it is actually needed with this freestanding Brabantia Kitchen Roll Holder. Fitted with the unique 'roll-stop', preventing the paper from accidentally unrolling. It's very easy to fill and suitable for all standard sizes of kitchen paper. A roll holder to hold on to!
-  Updated: 2025-12-01T00:52:10Z
+  Updated: 2025-12-03T19:07:13Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/KitchenRollHolder_FreeStanding-BrilliantSteel-8710755493546Brabantia_300dpi_2000x2000px_9_NR-6492.jpg?v=1756269963
   Price: $28.99 NZD
 - [Brabantia Ironing Board Felt Underlay - White](https://everydayhome.co.nz/products/brabantia-ironing-board-felt-underlay-white): Did you know that this extra thick, resilient underlay is the base of great ironing results? The polyester felt keeps your cover dry, for a smooth-gliding iron, even if you are a heavy steamer. And its resilience allows you to put extra pressure on those pesky creases, getting rid of them easier. Just what you need!
-  Updated: 2025-11-30T23:22:11Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardFeltUnderlayE_135x49cm-White-8710755196423Brabantia_300dpi_2000x2000px_9_NR-3688.jpg?v=1756269664
   Price: $16.99 NZD
 - [Brabantia SinkSide Microfiber Dish Drying Mat - Dark Grey](https://everydayhome.co.nz/products/brabantia-sinkside-microfiber-dish-drying-mat-dark-grey): Drying the dishes and keeping your countertop dry without even lifting a finger? Use the Brabantia SinkSide Microfibre Dish Drying Mat! This foldable mat absorbs 7 times its weight in water. And it's soft, so less chance of chipping. Done? Let it dry and fold it away, or put it in the washing machine first. Fibertastic!
-  Updated: 2025-12-02T16:07:11Z
+  Updated: 2025-12-03T19:07:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4323,7 +4309,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1005553-158_DACHSIERINGHOLDER_CHROME_CC01.jpg?v=1756178797
   Price: $22.99 NZD
 - [Umbra Buddy Doorstop - Set of 2 Charcoal](https://everydayhome.co.nz/products/umbra-buddy-doorstop-set-of-2-charcoal): A playful and helpful tool, the Buddy Doorstop features Umbra’s signature Buddy figurine. A new addition to the Buddy Family, this imaginative door stopper helps to keep your door open as it appears as if Buddy is stuck underneath the door.
-  Updated: 2025-12-01T00:37:11Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -4337,28 +4323,28 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1009571-040.jpg?v=1756178326
   Price: $52.99 NZD
 - [Umbra Bask Shower Caddy - White/Nickel](https://everydayhome.co.nz/products/umbra-bask-shower-caddy-white-nickel): Bask is a space-saving solution, providing ample storage within the 3 wide-brimmed, deep baskets. Stainless steel ball chains mean this caddy won’t rust and its three self-draining baskets make it easy to clean and maintain.
-  Updated: 2025-11-30T23:22:12Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/716R7vzKMML._AC_SX679.jpg?v=1756177900
   Price: $21.99 NZD
 - [Umbra Casa Tissue Box Cover - White](https://everydayhome.co.nz/products/umbra-casa-tissue-box-cover-white): Casa's playful design makes your standard square tissue box a lot less boring. Our tissue box holder is shaped like a house with a tiny chimney stack that dispenses your tissue, making it look like a little cloud of smoke. Perfect for disguising standard boutique (cube-shaped) tissue boxes and adding a decorative touch to your bathroom, bedroom, or any other room in your home or office.
-  Updated: 2025-12-02T04:59:41Z
+  Updated: 2025-12-03T19:07:13Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021415-040_FERRISRINGHOLDER_BLK_I022.jpg?v=1756183228
   Price: $8.99 NZD
 - [Umbra Flex Shower Caddy - Black](https://everydayhome.co.nz/products/umbra-flex-shower-caddy-black): Store all your shower essentials in one place with Umbra’s highly functional Flex Shower Caddy. Flex was designed to take up minimal space in the shower while still accommodating larger bottle sizes. Made of a rigid plastic frame, Flex Shower Caddy features flexible silicone bands that give plenty of storage options.
-  Updated: 2025-11-30T23:22:12Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/023460-1050_FLEXSHOWERCADDY_SLTBLUE_l01_1c00963b-5b8b-4d25-820c-1c7a7b15b774.jpg?v=1755823786
   Price: $26.99 NZD
 - [Umbra Flex Shower Caddy - Slate Blue](https://everydayhome.co.nz/products/umbra-flex-shower-caddy-slate-blue): Store all your shower essentials in one place with Umbra’s highly functional Flex Shower Caddy. Flex was designed to take up minimal space in the shower while still accommodating larger bottle sizes. Made of a rigid plastic frame, Flex Shower Caddy features flexible silicone bands that give plenty of storage options.
-  Updated: 2025-11-30T23:22:12Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -4372,7 +4358,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021303-660_BUDDYADHESIVESQUEEGEE_I0234_881c9617-9d28-4edd-9ab7-2c48aed48f8a.jpg?v=1755823048
   Price: $26.99 NZD
 - [Umbra Step Toilet Brush - White](https://everydayhome.co.nz/products/umbra-step-toilet-brush-white): The Umbra Step Toilet Brush in white features sleek, polished lines that add a contemporary touch to your bathroom. Crafted from melamine, it includes a removable brush head for easy cleaning and maintenance.
-  Updated: 2025-11-30T21:07:11Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -4386,49 +4372,49 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/023836-660_STEPTBHOLDER_WHITE_CC01.jpg?v=1756177174
   Price: $11.99 NZD
 - [Umbra Step Waste Can With Lid - White](https://everydayhome.co.nz/products/umbra-step-waste-can-with-lid-white): Step Can’s crisp, clean, lines and glossy finish give it an elegant and modern look. It has bottom detailing that elevates the main body of this piece from the surface it sits on, giving it a refined, raised aesthetic. Step features an easy to remove, swing-top lid that helps keep garbage out of sight.
-  Updated: 2025-12-01T00:22:10Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: UMBRA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/023840-660_STEP_CAN_WITH_LID_WHITE_FRONT_01.jpg?v=1756171224
   Price: $26.99 NZD
 - [Umbra Flex Adhesive Corner Bin - Slate Blue](https://everydayhome.co.nz/products/umbra-flex-adhesive-corner-bin-slate-blue): Flex Gel-Lock Corner Bin makes excellent use of the underutilized corner space in your shower – giving you more room, while keeping all the essentials on hand. Easy to install, Flex Adhesive Corner Bin includes non-damaging, waterproof adhesive strips that can be applied on various surfaces such as tiles, dry wall, concrete, etc. (does not work on porous surfaces). Flex Adhesive Bin has space for shampoo, conditioner, body wash, a razor and two hooks for loofahs and wash cloths. It's easy to remove and move to a different space if needed.
-  Updated: 2025-12-02T23:56:17Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1004435-1050_FLEXADHESIVECORNERBIN_SLTBLUE_CC01.jpg?v=1755824024
   Price: $25.99 NZD
 - [Umbra Flex Adhesive Bin - Slate Blue](https://everydayhome.co.nz/products/umbra-flex-adhesive-bin-slate-blue): This shower caddy has clever storage for your shower essentials including body wash, shampoo and conditioner, razors and loofas. Easy to install, Flex Adhesive Bin includes non-damaging, waterproof adhesive strips that can be applied on various surfaces such as tiles, dry wall, concrete, etc. (does not work on porous surfaces). The Flex Adhesive Bin allows shampoo and soap bottles to be stored flipped over so you can maximize how much of the product you are able to use.
-  Updated: 2025-11-30T23:22:11Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021300_1050_FLEXADHESIVEBIN_SLATE_CC01_EDITIED.jpg?v=1755824233
   Price: $25.99 NZD
 - [Umbra Flex Adhesive Soap Dish - White](https://everydayhome.co.nz/products/umbra-flex-adhesive-soap-dish-white): Soap dishes tend to pool water, with the Umbra Adhesive Soap Dish you don’t need to worry because the integrated drainage holes prevent water from collecting at the bottom of the dish.
-  Updated: 2025-11-30T21:07:11Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021302-660_FLEXADHESIVEDBLHOOK_WHITE_I01_a614b93c-ce01-46fb-aa39-10c0ac67da47.jpg?v=1756169577
   Price: $11.99 NZD
 - [Umbra Flex Adhesive Double Hook - White](https://everydayhome.co.nz/products/umbra-flex-adhesive-double-hook-white): Keep your small bath necessities elevated and easy to access with Flex Adhesive Double Hook. Flex Adhesive Double Hook is great for slim shower stalls where storage is limited. One simple hook can make a big difference by providing access to the items you need in the shower.
-  Updated: 2025-11-30T23:22:11Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021302-660_FLEXADHESIVEDBLHOOK_WHITE_I012.jpg?v=1756169017
   Price: $11.99 NZD
 - [Umbra Buddy Adhesive Squeegee - Black](https://everydayhome.co.nz/products/umbra-buddy-adhesive-squeegee-black): The Buddy Squeegee is a fun twist on a tedious task; the creativity of its design makes the process more enjoyable. Buddy cleans glass surfaces and wipes away fog, in addition to removing any general buildups on shower walls. Rust-proof, Buddy Squeegee will continue to look tidy and fresh in your washroom while remaining in good shape, thanks to its durable material.
-  Updated: 2025-11-30T23:22:11Z
+  Updated: 2025-12-03T19:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021303-660_BUDDYADHESIVESQUEEGEE_I02_157e8be1-937e-4913-b912-329688b04737.jpg?v=1755822314
   Price: $13.99 NZD
 - [Umbra Buddy Adhesive Squeegee - White](https://everydayhome.co.nz/products/umbra-buddy-adhesive-squeegee-white): The Buddy Squeegee is a fun twist on a tedious task; the creativity of its design makes the process more enjoyable. Buddy cleans glass surfaces and wipes away fog, in addition to removing any general buildups on shower walls. Rust-proof, Buddy Squeegee will continue to look tidy and fresh in your washroom while remaining in good shape, thanks to its durable material.
-  Updated: 2025-12-02T04:04:16Z
+  Updated: 2025-12-03T19:07:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -4687,7 +4673,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/PerfectFitBags_CodeJ_20-25L_40Bags-White-8710755115608Brabantia_96dpi_2000x2000px_9_NR-48946.jpg?v=1755565773
   Price: $19.99 NZD
 - [Brabantia PerfectFit Bags G - 23-30L Pack of 40](https://everydayhome.co.nz/products/brabantia-perfectfit-bags-g-23-30l-pack-of-40): Brabantia PerfectFit bin bags are perfectly tailored to fit your Brabantia waste bin, and made to make life easier. That's why they are extra strong, come in a convenient dispenser pack, and have a handy tie-tape too! Just pull it to remove the bag from the bin and seal it. Not certain of which size you need? Simply check the colour code on the inside of your waste bin's lid. Great bin bags, perfectly fitting your Brabantia bin.
-  Updated: 2025-11-16T22:03:04Z
+  Updated: 2025-12-03T19:15:05Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4883,13 +4869,13 @@
 ## Collections
 
 - [Bathroom Essentials | Everyday Home NZ](https://everydayhome.co.nz/collections/bathroom): Explore modern bathroom accessories, from storage to shower essentials. Free shipping across NZ on orders over $99*
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 133
 - [Furniture](https://everydayhome.co.nz/collections/furniture)
-  Updated: 2025-11-29T12:12:55Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 56
 - [New Arrivals](https://everydayhome.co.nz/collections/new-arrivals)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 22
 - [Office](https://everydayhome.co.nz/collections/office)
   Updated: 2025-09-23T12:12:59Z
@@ -4898,16 +4884,16 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T14:42:17Z
   Total Products: 1052
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T14:42:17Z
   Total Products: 1052
 - [Umbra Homewares | Everyday Home NZ](https://everydayhome.co.nz/collections/umbra): Shop Umbra at Everyday Home. Modern home décor, mirrors, hooks and smart storage designs. Free shipping across NZ on orders over $99*
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 279
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 364
 - [Bins](https://everydayhome.co.nz/collections/bins)
   Updated: 2025-09-23T12:13:18Z
@@ -4916,10 +4902,10 @@
   Updated: 2025-12-02T12:10:00Z
   Total Products: 58
 - [Mirrors](https://everydayhome.co.nz/collections/mirrors)
-  Updated: 2025-11-24T12:07:43Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 25
 - [Kitchen Storage](https://everydayhome.co.nz/collections/kitchen-storage)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 55
 - [Art & Decor](https://everydayhome.co.nz/collections/art-decor)
   Updated: 2025-09-23T12:13:00Z
@@ -4928,7 +4914,7 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [Home Décor](https://everydayhome.co.nz/collections/home-decor)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 139
 - [Ceramics](https://everydayhome.co.nz/collections/ceramics)
   Updated: 2025-09-23T12:13:34Z
@@ -4967,28 +4953,28 @@
   Updated: 2025-10-27T20:05:09Z
   Total Products: 6
 - [Kitchenware](https://everydayhome.co.nz/collections/kitchenware)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 361
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 237
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 164
 - [Waste Care](https://everydayhome.co.nz/collections/waste-care)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 144
 - [Laundry Care](https://everydayhome.co.nz/collections/laundry-care)
-  Updated: 2025-12-01T12:09:48Z
+  Updated: 2025-12-03T14:42:17Z
   Total Products: 130
 - [Pedal Bins](https://everydayhome.co.nz/collections/pedal-bins)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 63
 - [Touch Top Bins](https://everydayhome.co.nz/collections/touch-top-bins)
   Updated: 2025-12-02T12:10:00Z
   Total Products: 24
 - [Lift Top Bins](https://everydayhome.co.nz/collections/lift-top-bins)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 29
 - [Hooks & Organisation](https://everydayhome.co.nz/collections/hooks-organisation)
   Updated: 2025-12-02T12:10:00Z
@@ -4997,13 +4983,13 @@
   Updated: 2025-12-01T12:09:48Z
   Total Products: 31
 - [Cookware](https://everydayhome.co.nz/collections/cookware)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 156
 - [Racks & Stands](https://everydayhome.co.nz/collections/racks-stands)
   Updated: 2025-12-02T12:10:00Z
   Total Products: 15
 - [Clotheslines & Airers](https://everydayhome.co.nz/collections/clotheslines-airers): Our indoor drying airers and clotheslines are designed for energy-efficient drying. From space-saving folding airers to durable outdoor rotary clotheslines, we have just what you need to keep your laundry fresh and dry, indoors or outdoors. Eco-friendly, durable, and perfect for any size home. Shop our range now.
-  Updated: 2025-12-01T12:09:48Z
+  Updated: 2025-12-03T14:42:17Z
   Total Products: 90
 - [Laundry Bins & Hampers](https://everydayhome.co.nz/collections/laundry-bins-hampers)
   Updated: 2025-11-24T12:07:43Z
@@ -5036,10 +5022,10 @@
   Updated: 2025-10-27T20:05:09Z
   Total Products: 6
 - [Full Length/Leaning](https://everydayhome.co.nz/collections/full-length-leaning)
-  Updated: 2025-11-24T12:07:43Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 6
 - [Accessories](https://everydayhome.co.nz/collections/accessories)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 25
 - [Dish Racks](https://everydayhome.co.nz/collections/dish-racks)
   Updated: 2025-12-02T12:10:00Z
@@ -5060,7 +5046,7 @@
   Updated: 2025-12-02T12:10:00Z
   Total Products: 25
 - [Bread Bins](https://everydayhome.co.nz/collections/bread-bins)
-  Updated: 2025-11-22T12:08:22Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 14
 - [Cookware Accessories For Everyday Cooking | Shop Now](https://everydayhome.co.nz/collections/cookware-accessories): Cookware accessories to complement your kitchen. From stovetop kettles and universal steamers to cookware cleaning powders and liquids. We have a wide range of items to choose from. Free shipping across NZ on orders over 99*
   Updated: 2025-12-01T12:09:48Z
@@ -5075,10 +5061,10 @@
   Updated: 2025-11-29T12:12:55Z
   Total Products: 7
 - [Rotary Clotheslines](https://everydayhome.co.nz/collections/rotary-clotheslines): Premium rotary clotheslines for efficient use of your outdoor drying space. Our clotheslines feature adjustable height settings and are made of strong, weatherproof materials for energy-efficient air drying, from small to extra-large loads of laundry. Shop our range of rotary clotheslines for eco-friendly drying now.
-  Updated: 2025-12-01T12:09:48Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 7
 - [Stools & Chairs](https://everydayhome.co.nz/collections/stools-chairs)
-  Updated: 2025-11-29T12:12:55Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 9
 - [Mixing Bowls](https://everydayhome.co.nz/collections/mixing-bowls)
   Updated: 2025-11-16T21:58:45Z
@@ -5117,28 +5103,28 @@
   Updated: 2025-11-16T22:03:38Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 821
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 263
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 373
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
-  Updated: 2025-12-01T12:09:48Z
+  Updated: 2025-12-03T14:42:17Z
   Total Products: 130
 - [Shop All Bins](https://everydayhome.co.nz/collections/shop-all-bins)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 137
 - [Shop Premium Cookware Sets | Anolon, Circulon, Essteele & More](https://everydayhome.co.nz/collections/cookware-sets): Shop high-quality cookware sets from trusted brands Anolon, Circulon, Essteele, and Raco. Cook with confidence using durable, stylish, non-stick, stainless steel & ceramic coated designs. Free shipping across NZ on orders over 99*
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 22
 - [Shop Premium Pots & Saucepans | Anolon, Circulon, Essteele & More](https://everydayhome.co.nz/collections/pots-saucepans): Find the perfect pots and saucepans from leading brands in cookware, such as Anolon, Circulon, Essteele, and Raco at Everyday Home.  Offering, non-stick, stainless steel & ceramic coated cookware that meets your daily cooking needs, from sautéing to simmering. Free shipping across NZ on orders over $99*
-  Updated: 2025-12-01T12:09:48Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 55
 - [Frypans & Woks | Anolon, Circulon, Essteele & Raco | Shop Now](https://everydayhome.co.nz/collections/frypans-woks): Top-quality frypans and woks from leading brands Anolon, Circulon, Essteele, and Raco at Everyday Home. Explore non-stick, stainless steel & ceramic coated cookware designed for perfect frying, sautéing, and stir-frying. Free shipping across NZ on orders over 99*
-  Updated: 2025-12-01T12:09:48Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 59
 - [Durable Non-Stick Roasters & Ovenware – Anolon & Essteele](https://everydayhome.co.nz/collections/roasters-ovenware): Durable roasters and ovenware from brands like Anolon and Essteele in non-stick and ceramic coatings for ease in cooking and clean up. Perfect for Sunday roasts and holiday gatherings, these high-quality products guarantee perfect results time and again. Free shipping across NZ on orders over 99*
   Updated: 2025-11-16T22:01:34Z
@@ -5153,7 +5139,7 @@
   Updated: 2025-11-28T12:08:42Z
   Total Products: 6
 - [Stylish and Practical Toilet Accessories | Shop Now](https://everydayhome.co.nz/collections/toilet-accessories): Practical and stylish toilet accessories to keep your bathroom organised and clean. From toilet roll holders to brushes and more, these items offer both convenience and sleek designs. Free shipping across NZ on orders over 99*
-  Updated: 2025-12-01T12:09:48Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 13
 - [Stylish Wall and Desk Frames | Shop Now](https://everydayhome.co.nz/collections/wall-desk-frames): Showcase your favourite memories with our collection of wall and desk frames. Available in a variety of styles and sizes, these frames are perfect for adding a personal touch to any room. Free shipping across NZ on orders over 99*
   Updated: 2025-12-02T12:10:00Z
@@ -5165,19 +5151,19 @@
   Updated: 2025-12-02T12:10:00Z
   Total Products: 21
 - [Unbeatable Deals Everyday Home | Outlet](https://everydayhome.co.nz/collections/outlet): Score massive bargains on end-of-season favourites and bestsellers—prices slashed, stock limited, and deals you won't want to miss. Shop now before they're gone! Free shipping across NZ on orders over 99*
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 155
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-11-29T12:12:55Z
+  Updated: 2025-12-03T14:42:17Z
   Total Products: 246
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 22
 - [Anolon](https://everydayhome.co.nz/collections/anolon)
-  Updated: 2025-11-29T12:12:55Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 42
 - [Circulon](https://everydayhome.co.nz/collections/circulon)
-  Updated: 2025-12-01T12:09:48Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 24
 - [Raco](https://everydayhome.co.nz/collections/raco)
   Updated: 2025-12-01T12:09:48Z
@@ -5204,22 +5190,22 @@
   Updated: 2025-10-27T20:05:15Z
   Total Products: 9
 - [Clothesline Accessories](https://everydayhome.co.nz/collections/clothesline-accessories)
-  Updated: 2025-11-24T12:07:43Z
+  Updated: 2025-12-03T14:42:17Z
   Total Products: 40
 - [Clothing Protection & Storage](https://everydayhome.co.nz/collections/clothing-protection-storage)
   Updated: 2025-11-21T12:08:39Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T14:42:17Z
   Total Products: 1066
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-11-29T12:12:55Z
+  Updated: 2025-12-03T14:42:17Z
   Total Products: 246
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-12-02T12:10:00Z
   Total Products: 34
 - [SwiftDry Clothelines NZ](https://everydayhome.co.nz/collections/swiftdry-clothelines-nz)
-  Updated: 2025-11-24T12:07:43Z
+  Updated: 2025-12-03T14:42:17Z
   Total Products: 57
 - [Clothes Airers & Retractable Lines](https://everydayhome.co.nz/collections/clothes-airers-retractable-lines): Your solutions to indoor drying this winter.
   Updated: 2025-12-01T12:09:48Z
@@ -5231,19 +5217,19 @@
   Updated: 2025-11-27T12:09:07Z
   Total Products: 15
 - [Shop All Bed & Bath](https://everydayhome.co.nz/collections/shop-all-bed-bath)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 162
 - [Spring Sale](https://everydayhome.co.nz/collections/spring-sale): Spring Sale! Save up to 30% on waste care, kitchen cleaning, storage & laundry solutions. Refresh your home this season with stylish essentials.
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 240
 - [Shower Squeegees](https://everydayhome.co.nz/collections/shower-squeegees)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 4
 - [Gifting](https://everydayhome.co.nz/collections/gifting)
   Updated: 2025-12-02T12:10:00Z
   Total Products: 124
 - [All Products Excl. Swiftdry & Aromatherapy Co.](https://everydayhome.co.nz/collections/all-products-exclu-swiftdry-aromatherapy-co)
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 920
 - [Umbra Rodeo & Tipsy Buddy](https://everydayhome.co.nz/collections/umbra-rodeo-tipsy-buddy): For the host with the most. These aren't your average bottle openers - they balance, they entertain, and they kicks off cocktail hour with a whole lot of charm.
   Updated: 2025-11-30T12:10:50Z
@@ -5267,7 +5253,7 @@
   Updated: 2025-11-19T12:09:05Z
   Total Products: 6
 - [Black Friday Top Picks](https://everydayhome.co.nz/collections/black-friday-top-picks): Our Black Friday top sale picks for your home.
-  Updated: 2025-12-02T12:10:00Z
+  Updated: 2025-12-03T12:08:06Z
   Total Products: 23
 
 ## Store Pages
