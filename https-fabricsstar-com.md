@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-12-03T00:00:31.638Z
+- Updated At: 2025-12-04T00:00:41.041Z
 
 ## Products
 
 - [Stretch Velvet Sequin Fabric | Fabrics Star](https://fabricsstar.com/products/sequin-fabric): Sparkle and shine with Sequin Fabric from Fabrics Star. Perfect for adding glamour to dresses, costumes, and decor, this fabric is a must-have for any sewing enthusiast.
-  Updated: 2025-11-30T00:04:15Z
+  Updated: 2025-12-03T17:58:38Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -49,11 +49,11 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/81Vfmxzi81L._AC_SX522.jpg?v=1757517082
     Price: $1.00 USD
   - [Forest / Cut by the Yard](https://fabricsstar.com/products/sequin-fabric?variant=45908626931993)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/81Docm-QODL._AC_SX679.jpg?v=1757517113
     Price: $22.00 USD
   - [Forest / Sample 3x3 Inch](https://fabricsstar.com/products/sequin-fabric?variant=46043180794137)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/81Docm-QODL._AC_SX679.jpg?v=1757517113
     Price: $1.00 USD
   - [Blush / Cut by the Yard](https://fabricsstar.com/products/sequin-fabric?variant=45908626964761)
@@ -217,7 +217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/61KKboPNG1L._AC.jpg?v=1757517100
     Price: $1.00 USD
 - [Sensory Wall Reversible Sequin Fabric - Arts & Crafts | Fabrics Star](https://fabricsstar.com/products/sensory-wall-reversible-sequin-fabric): Bring fun and creativity to your projects with Sensory Wall Reversible Sequin Fabric from Fabrics Star. Available in 5 colors, this fabric is easy to flip!
-  Updated: 2025-12-02T01:10:23Z
+  Updated: 2025-12-03T05:56:11Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FESTIVAL-TWILIGHT.jpg?v=1757517134
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Store](https://fabricsstar.com/products/soft-velvet-fabric-1): Soft Velvet Fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Shop now!
-  Updated: 2025-12-02T00:51:16Z
+  Updated: 2025-12-03T18:07:22Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/White.jpg?v=1757517222
     Price: $1.00 USD
 - [Brocade Velvet Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/brocade-scroll-velvet-fabric): Add a touch of sophistication to your upholstery projects with Brocade Scroll Velvet Fabric from Fabrics Star. Buy brocade velvet fabric for premium quality fabric.
-  Updated: 2025-12-02T16:58:12Z
+  Updated: 2025-12-03T01:39:10Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-12-02T17:53:08Z
+  Updated: 2025-12-03T19:38:16Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1283,7 +1283,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELVETEEN-MALAGA-1012.jpg?v=1757517288
     Price: $1.00 USD
 - [Shiny Crushed Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/shiny-crushed-velvet-fabric): Elevate your upholstery projects with Shiny Crushed Velvet Fabric from Fabrics Star. This luxurious fabric adds a touch of glamour and sophistication to coaches and chairs.
-  Updated: 2025-12-01T21:16:18Z
+  Updated: 2025-12-03T16:05:35Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -1799,17 +1799,17 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHENILLE-WHITE-1.jpg?v=1757517390
     Price: $1.00 USD
 - [Selectra Waves Stretch Velvet Sequin Fabric | Fabrics Star](https://fabricsstar.com/products/selectra-waves-stretch-velvet-sequin-fabric-by-the-yard): The Selectra Waves Stretch Velvet Sequin Fabric by the Yard is made of 100% polyester. It has a soft stretch velvet base that is heavily embellished with sequins.
-  Updated: 2025-11-29T16:41:26Z
+  Updated: 2025-12-03T17:58:38Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-SELECTRA-WAVE-1.jpg?v=1757517391
   - [Black/Gold / Cut by the Yard](https://fabricsstar.com/products/selectra-waves-stretch-velvet-sequin-fabric-by-the-yard?variant=47556485251353)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SELECTRA-WAVES-BLACK-GOLD.jpg?v=1757517394
     Price: $24.20 USD
   - [Black/Gold / Sample 3x3 Inch](https://fabricsstar.com/products/selectra-waves-stretch-velvet-sequin-fabric-by-the-yard?variant=47556484890905)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SELECTRA-WAVES-BLACK-GOLD.jpg?v=1757517394
     Price: $1.00 USD
   - [Black/White / Cut by the Yard](https://fabricsstar.com/products/selectra-waves-stretch-velvet-sequin-fabric-by-the-yard?variant=47556485284121)
@@ -2421,7 +2421,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HILTON-WHITE-1.jpg?v=1757517503
     Price: $1.00 USD
 - [HOLIDAY Embroidered Mesh Fabric | Fabrics Star](https://fabricsstar.com/products/hilton-embroidered-mesh-fabric-1): Perfect HOLIDAY Embroidered Mesh Fabric for sewing, gowns, dresses, skirts, veils, DIY, Arts & Crafts, tablecloths, table runners, drapery, home décor and more.
-  Updated: 2025-12-02T13:03:19Z
+  Updated: 2025-12-03T16:26:14Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -3109,7 +3109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CAMBRIDGE-PURPLE-551-1.jpg?v=1757517618
     Price: $1.00 USD
 - [Vails Brocade Velvet Fabric, 72" Wide for Home Decor](https://fabricsstar.com/products/vails-brocade-velvet-fabric-72-inch-in-width-ideal-for-home-decor): Shop Vails Brocade Velvet Fabric, 72 Inch in Width. Ideal embossed material sold by the yard, cut to order for all your home decor needs.
-  Updated: 2025-11-26T01:12:52Z
+  Updated: 2025-12-03T00:40:37Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -4341,7 +4341,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GRANITE-WHITE.jpg?v=1757517936
     Price: $1.00 USD
 - [LILY - Digital Print Fabric - Cotton Hand - 58 Inch. in Width, | Home Décor](https://fabricsstar.com/products/lily-digital-print-fabric-cotton-hand-58-inch-in-width-home-decor): DIMENSION - Size of the fabric is 58 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Digital Print Fabric by the yard is medium weight and made of 100% polyester. PRINT: Experience the beauty and elegance of our fabric with its stunning digital print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, Upholstery for chairs, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts & crafts Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-10-23T20:17:24Z
+  Updated: 2025-12-03T11:52:40Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -5321,7 +5321,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GARDEN-SILVER-02.jpg?v=1757518169
     Price: $1.00 USD
 - [Classic Jacquard Fabric, 58 Inch. in Width, | Home Decor](https://fabricsstar.com/products/classic-jacquard-fabric-58-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 58 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - The classic jacquard fabric will add a touch of elegance to your event. The beautiful, classy tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-10-23T20:17:25Z
+  Updated: 2025-12-03T17:59:09Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -6725,7 +6725,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MOBILE-SILVER-062.jpg?v=1757518432
     Price: $1.00 USD
 - [MOWHAK Jacquard Fabric, 115 Inch. in Width](https://fabricsstar.com/products/mowhak)
-  Updated: 2025-10-23T20:17:28Z
+  Updated: 2025-12-03T17:59:38Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -6755,11 +6755,11 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MOWHAK-GOLD-NAVY.jpg?v=1757518449
     Price: $1.00 USD
   - [Silver/Grey / Cut by the Yard](https://fabricsstar.com/products/mowhak?variant=50919438909721)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MOWHAK-SILVER-GREY-B.jpg?v=1757518448
     Price: $37.40 USD
   - [Silver/Grey / Sample 3x3 Inch](https://fabricsstar.com/products/mowhak?variant=50919438713113)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MOWHAK-SILVER-GREY-B.jpg?v=1757518448
     Price: $1.00 USD
   - [White/Gold / Cut by the Yard](https://fabricsstar.com/products/mowhak?variant=50919438942489)
@@ -8143,7 +8143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BELLAIRE-B-IVORY.jpg?v=1757518651
     Price: $1.00 USD
 - [BEVERLY Embroidered Sheer With Sequins Fabric, 54 Inch. in Width](https://fabricsstar.com/products/beverly)
-  Updated: 2025-10-31T01:53:47Z
+  Updated: 2025-12-03T12:18:55Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -9597,7 +9597,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WALDORF-GREY-206.jpg?v=1757518830
     Price: $1.00 USD
 - [VELUXE Soft Velvet Fabric, 72 Inch. in Width, Ideal Material for Home](https://fabricsstar.com/products/veluxe-soft-velvet-fabric): DIMENSION - Size of the velvet fabric is 72 Inch. in width. Cut by the Yard Velvet Fabric is sold by the yard and cut to order. For example, the order of 1 yard
-  Updated: 2025-10-27T03:00:51Z
+  Updated: 2025-12-03T17:57:30Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -9651,11 +9651,11 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-EGGPLANT-L21-1.jpg?v=1757518848
     Price: $1.00 USD
   - [Forest / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316234009)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-FOREST-17-1.jpg?v=1757518849
     Price: $19.80 USD
   - [Forest / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316266777)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-FOREST-17-1.jpg?v=1757518849
     Price: $1.00 USD
   - [Gold / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316299545)
@@ -9745,13 +9745,13 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 1
 - [Buy Sequin Fabric Online | Sequins By The Yard - Fabrics Star](https://fabricsstar.com/collections/sequin-fabrics): Shop sequin fabrics online at Fabrics Star. Find dazzling & elegant sequins by the yard for your next project, offering sparkle and style in every design.
-  Updated: 2025-12-02T12:19:08Z
+  Updated: 2025-12-03T12:16:42Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-12-02T12:19:08Z
+  Updated: 2025-12-03T12:16:42Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
-  Updated: 2025-12-02T12:19:08Z
+  Updated: 2025-12-03T12:16:42Z
   Total Products: 32
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard](https://fabricsstar.com/collections/jacquards-fabrics): Explore premium jacquard fabrics at Fabrics Star. Buy jacquard fabric online for exquisite designs and top-notch quality, perfect for your next project!
   Updated: 2025-11-29T12:21:34Z
@@ -9763,19 +9763,19 @@
   Updated: 2025-11-20T23:16:59Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-12-02T12:19:08Z
+  Updated: 2025-12-03T12:16:42Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-12-02T12:19:08Z
+  Updated: 2025-12-03T12:16:42Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-12-02T12:19:08Z
+  Updated: 2025-12-03T12:16:42Z
   Total Products: 534
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-12-02T12:19:08Z
+  Updated: 2025-12-03T12:16:42Z
   Total Products: 12
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-12-02T12:19:08Z
+  Updated: 2025-12-03T12:16:42Z
   Total Products: 666
 
 ## Blogs
@@ -9888,6 +9888,9 @@
     Author: User
   - [The Art of Mixing Patterns and Colors in Fabric Design](https://fabricsstar.com/blogs/news/the-art-of-mixing-patterns-and-colors-in-fabric-design): The Art of Mixing Patterns and Colors in Fabric Design
     Updated: 2025-12-01T03:33:50Z
+    Author: User
+  - [Understanding the Role of Fabric in Modern Fashion Trends](https://fabricsstar.com/blogs/news/understanding-the-role-of-fabric-in-modern-fashion-trends): Understanding the Role of Fabric in Modern Fashion Trends
+    Updated: 2025-12-03T02:33:18Z
     Author: User
 
 ## Store Pages
