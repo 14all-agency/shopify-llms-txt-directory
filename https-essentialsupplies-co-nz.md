@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-12-03T00:01:16.564Z
+- Updated At: 2025-12-04T00:00:45.832Z
 
 ## Products
 
@@ -550,7 +550,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/tpe-embossed-gloves-powder-free-clear-s-240mm-cuff-20g-2000-gloves-plastic-gloves-essential-supplies-255777.jpg?v=1719445929
   Price: $74.00 NZD
 - [TPE Embossed Gloves Powder Free - Blue, L, 240mm Cuff, 2.0g - 2000 Gloves](https://essentialsupplies.co.nz/products/tpe-embossed-gloves-powder-free-blue-l-240mm-cuff-2-0g-2000): Clear TPE powder free gloves are made using a polyethylene based synthetic non-sterile polymer providing more stretch compared to vinyl and polyethylene gloves. Robust with a natural feel, allergy free, with a long shelf life and micro embossed for grip. Superior performance and feel 240mm cuff 2.0g Colour: Blue Size: Large Pack:10 packs x 200's Note:*Other sizes available: Small, Medium, Extra Large
-  Updated: 2025-01-09T19:24:35Z
+  Updated: 2025-12-03T11:17:45Z
   Vendor: Mattews Packaging
   Product Type: Plastic Gloves
   Availability: Available
@@ -1201,7 +1201,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/wire-buckles-light-duty-silver-19mm-25-gauge-1000-pieces-strapping-buckles-essential-supplies-429957.jpg?v=1719445917
   Price: $148.00 NZD
 - [Wire Buckles Heavy Duty - Silver, 19mm, 0.5 Gauge - 1000 Pieces](https://essentialsupplies.co.nz/products/wire-buckles-heavy-duty-silver-19mm-0-5-gauge-1000): Galvanised wire buckles are designed for heavier applications where extra strength is required. Designed for hand tensioning of polypropylene strapping in light duty (for blue strapping) or heavy duty (for black strapping) alternatives. For light to medium weight packages Designed for hand tensioning polypropylene strapping Colour: Silver Size: 19mm Gauge: 0.5 Pack of 1000 pieces
-  Updated: 2025-02-17T18:19:59Z
+  Updated: 2025-12-03T05:33:46Z
   Vendor: Mattews Packaging
   Product Type: Strapping Buckles
   Availability: Available
@@ -2244,7 +2244,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/cast-hand-stretch-film-black-500mm-x-300m-x-20mu-4-rolls-4-free-end-caps-hand-stretch-film-essential-supplies-516208.jpg?v=1719444780
   Price: $106.00 NZD
 - [Cast Hand Stretch Film - Clear, 500mm x 300m x 23mu - 4 Rolls + 4 Free End Caps](https://essentialsupplies.co.nz/products/cast-hand-stretch-film-clear-500mm-x-300m-x-23mu-4-4-free-end-caps): Premium grade hand stretch film is a top grade 15 micron film. It offers excellent value and superior strength when compared with conventional stretch film.This premium grade film offers reduced application noise, no pallet sticking and high clarity. Ideal for use in warehouses that need pallet wrapping on a daily basis with a roll size of 500mm wide by 400m long. Roll: 500mm x 300mt Strength: 23 micron Colour: Clear Pack of: 4 rolls Includes 4 end caps
-  Updated: 2025-01-09T11:40:10Z
+  Updated: 2025-12-03T00:42:28Z
   Vendor: Mattews Packaging
   Product Type: Hand Stretch Film
   Availability: Available
@@ -5217,7 +5217,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/automatic-dishwashing-liquid-clear-5l-refill-bottle-kitchen-care-essential-supplies-351254.jpg?v=1719444767
   Price: $60.00 NZD
 - [Automatic Glasswashing Liquid - Clear, 5L Refill Bottle](https://essentialsupplies.co.nz/products/automatic-glasswashing-liquid-clear-5l-refill-bottle-2)
-  Updated: 2025-02-18T23:18:02Z
+  Updated: 2025-12-03T05:02:19Z
   Vendor: Mattews Packaging
   Product Type: Kitchen Care
   Availability: Available
@@ -5707,7 +5707,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/nitrile-long-cuff-examination-gloves-powder-free-blue-m-300mm-cuff-60g-1000-gloves-nitrile-examination-gloves-essential-supplies-375826.jpg?v=1719445420
   Price: $115.00 NZD
 - [Nitrile Long Cuff Examination Gloves Powder Free - Blue, L, 300mm Cuff, 6.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/nitrile-long-cuff-examination-gloves-powder-free-blue-l-300mm-cuff-6-0g-1000): Blue powder free nitrile long cuff gloves offer premium snag, puncture, cut and abrasion resistance making them ideal for the chemical, tattooing, laboratories and meat processing industries. With a longer 300mm cuff to offer increased sleeve protection to the user.
-  Updated: 2025-01-29T00:11:18Z
+  Updated: 2025-12-03T00:20:43Z
   Vendor: Mattews Packaging
   Product Type: Nitrile Examination Gloves
   Availability: Available
