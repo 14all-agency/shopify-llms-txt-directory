@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-01-11T16:47:40Z
 - Contact Email: info@alhalalcosmetics.nl
-- Updated At: 2025-12-02T00:01:51.240Z
+- Updated At: 2025-12-04T00:00:22.855Z
 
 ## Products
 
@@ -31,8 +31,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/Eye-lashes.jpg?v=1741244998
   Price: 7,95 € EUR
-- [AL-319 WAFA (3D641)  Faux Mink Wimpers - Halal Cosmetica](https://alhalalcosmetics.nl/products/al-319-wafa-3d641-faux-mink-wimpers): Faux Mink Wimpers van Alhalal Cosmetics bieden een ethische upgrade voor uw look! De AL-319 Wafa Faux Mink Wimpers zijn vegan, halal en cruelty-free, en bootsen de weelde van nertswimpers
-  Updated: 2025-11-02T06:37:51Z
+- [Mink Wimpers](https://alhalalcosmetics.nl/products/mink-wimpers): Mink Wimpers van Alhalal Cosmetics bieden een ethische upgrade voor uw look! De AL-319 Wafa Faux Mink Wimpers zijn vegan, halal, natuurlijke en cruelty-free,
+  Updated: 2025-12-02T21:50:58Z
   Vendor: Alhalal cosmetics
   Product Type: Velvet Lipstick
   Availability: Available
@@ -319,7 +319,7 @@
   Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/alhalal-hahal-lippenstift-kopen-donkerbruine-lippenstift.jpg?v=1750300865
   Price: 12,02 € EUR
 - [Bruin Lippenstift AL-30 Faiqa Matte Bruine Lippen | Halal Cosmetics](https://alhalalcosmetics.nl/products/bruin-lippenstift-velvet-alhalal): Koop de AL-30 Faiqa matte en zachte bruin lippenstift bij Halal Cosmetics. 100% halal, vegan & dierproefvrij voor een stralende en verzorgde look.
-  Updated: 2025-11-02T06:37:56Z
+  Updated: 2025-12-02T08:58:22Z
   Vendor: Alhalal cosmetics
   Product Type: Velvet Lipstick
   Availability: Available
@@ -703,13 +703,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/NIS_3831copy.jpg?v=1764563729
   Price: 12,02 € EUR
-- [AL-29 RODE LIPPENSTIFT Mat Velvet Finish - 100% Halal & Diervrij.](https://alhalalcosmetics.nl/products/rode-lippenstift): Ontdek de AL-29 RIDA RODE LIPPENSTIFT van Halal Cosmetics. 100% halal, vegan & dierproefvrij met een rijke, fluweelzachte finish.
-  Updated: 2025-12-01T04:35:30Z
-  Vendor: Alhalal cosmetics
-  Product Type: Velvet Lipstick
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/RODE_LIPPENSTIFT.jpg?v=1764563729
-  Price: 12,02 € EUR
 - [AL-27 Donker Paarse Lippenstift Velvet Finish | Halal Cosmetics](https://alhalalcosmetics.nl/products/paarse-lippenstift-velvet-alhalal): Ontdek de donkere PAARSE LIPPENSTIFT van Halal Cosmetics. Velvet finish, 100% halal, vegan en dierproefvrij voor een stralende, verantwoorde look.
   Updated: 2025-12-01T04:35:27Z
   Vendor: Alhalal cosmetics
@@ -896,7 +889,7 @@
   Updated: 2025-12-01T07:26:44Z
   Total Products: 5
 - [Halal en Vegan Lippenstift – Natuurlijke & Biologische Lipstik](https://alhalalcosmetics.nl/collections/halal-vegan-natuurlijke-lippenstift): Halal en veganistische lippenstift gemaakt met natuurlijke en biologische ingrediënten. Alcoholvrije, ethische en diervriendelijke halalcosmetica met prachtige kleuren.
-  Updated: 2025-12-01T04:57:08Z
+  Updated: 2025-12-03T11:20:18Z
   Total Products: 30
 - [Matte Ink Lipstick | Halal,Vegan, Natuurlijke](https://alhalalcosmetics.nl/collections/matte-ink-lipstick): Onze bestverkochte matte ink lippenstift is halal, veganistisch en diervriendelijk. Shop nu matte lippenstift met inkt. shop nu inkt matte lippenstift.
   Updated: 2025-12-01T07:09:38Z
@@ -905,10 +898,10 @@
   Updated: 2025-12-01T07:15:40Z
   Total Products: 17
 - [Beste Natuurlijke Nepwimpers | Vegan & Halal – Halal Cosmetics](https://alhalalcosmetics.nl/collections/natuurlijke-nepwimpers): Bekijk onze bestverkochte natuurlijke nepwimpers. Veganistisch, halal en diervriendelijk. Al onze nepwimpers zijn 100% halal en goedgekeurd door de halalcommissie.
-  Updated: 2025-12-01T04:56:56Z
+  Updated: 2025-12-02T09:58:24Z
   Total Products: 8
 - [Halal & Vegan Nagellak – Natuurlijke, en  zuurstofdoorlatende nagellak](https://alhalalcosmetics.nl/collections/natuurlijke-en-halal-nagellak): Onze halal nagellak is ademend, veganistisch, wudu-vriendelijk en alcoholvrij. Verantwoord en natuurlijk mooi. Onze zuurstofdoorlatende nagellak is 100% natuurlijk.
-  Updated: 2025-12-01T06:20:57Z
+  Updated: 2025-12-02T09:27:55Z
   Total Products: 41
 - [Make-up kwastenset kopen – Professioneel & betaalbaar](https://alhalalcosmetics.nl/collections/make-up-kwastenset): Ontdek de beste make-up kwastensets voor beginners & professionals. Vegan, huidvriendelijk en zacht. Nu tot 30% korting bij Al Halal Cosmetics!
   Updated: 2025-12-01T07:23:43Z
