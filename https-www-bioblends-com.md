@@ -6,54 +6,54 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-10T04:36:55Z
 - Contact Email: info@bioblends.co.nz
-- Updated At: 2025-12-03T00:00:34.032Z
+- Updated At: 2025-12-04T00:00:37.314Z
 
 ## Products
 
 - [Liver Love](https://www.bioblends.com/products/liver-love): Your liver plays a crucial role in your energy, the detoxification and elimination of problematic substances (‘toxins’), hormone balance and clear skin — fundamentally shaping how you look and feel each day. Nourish and protect this vital organ with Liver Love, a potent blend designed for optimal liver health and detoxification. “Liver loaders” enter the body via what we eat, drink and absorb through our skin – helping them leave the body efficiently can make a significant difference to how we feel each day.
-  Updated: 2025-12-02T23:42:46Z
+  Updated: 2025-12-03T23:58:11Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Liver1_12dd3dd9-6f54-456a-a8f7-d856585cbfd9.jpg?v=1746054864
   Price: $69.95 NZD
 - [Cycle Essentials](https://www.bioblends.com/products/cycle-essentials): Cycle Essentials harnesses a potent blend of foods and botanicals (medicinal herbs) to support healthy progesterone production, easing challenges that can come with monthly hormonal shifts as well as those that can arise during perimenopause, fostering a smoother transition across this time. It is renown for reducing cycle-related anxiousness and mood lows, as well as bloating and fluid retention. This formula supports robust adrenal function for a milder stress response and aids in decreasing sweet cravings.
-  Updated: 2025-12-02T23:08:25Z
+  Updated: 2025-12-03T23:34:26Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Cycle1_04b1dd23-e2d5-48e0-bee8-8091daae833b.jpg?v=1743047443
   Price: $69.95 NZD
 - [Organic Daily Greens & Reds](https://www.bioblends.com/products/organic-daily-greens-reds): Nourish, energise, oxygenate and eliminate. The daily blend that is a powerhouse of concentrated, food-grown goodness. This nutrient-rich powder combines whole blackcurrants, wheatgrass, barley grass, broccoli, dandelion and beetroot, delivering a burst of antioxidants, vitamins, minerals and unique phytochemicals that the whole family will benefit from.
-  Updated: 2025-12-02T23:22:10Z
+  Updated: 2025-12-03T23:58:10Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Greens1_fa3078aa-1028-4491-ad52-90069ae7f000.jpg?v=1743047448
   Price: $69.95 NZD
 - [Organic Zinc](https://www.bioblends.com/products/organic-zinc-extract): Imagine you have a bucket inside you that can hold zinc. You want it nice and full, so zinc can be supplied when and where it’s needed. If the bucket doesn’t have much zinc in it, the body will have to prioritise where zinc goes, meaning numerous processes that require it, won’t be able to function well or at all. Zinc is an essential mineral that plays a pivotal role in maintaining so many aspects of health, particularly robust immune function, digestion, hormone production, mood, wound healing and skin clarity, as well as hair and nail quality – it’s indispensable to a wide range of physiological functions. Despite its importance, zinc deficiency is surprisingly common, typically due to inadequate dietary intake from diminished top soil quality.
-  Updated: 2025-12-02T23:38:40Z
+  Updated: 2025-12-03T23:58:11Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Zinc1_e04ac993-ab63-4327-a19a-93f8948ebf9e.jpg?v=1743047450
   Price: $59.95 NZD
 - [Calm Restore](https://www.bioblends.com/products/calm-restore): Calm Restore offers relief for a busy mind, and from both acute and chronic stress. You can use it during the day to help calm anxious feelings or use it at night for better sleep quality. It’s a natural, non-drowsy formula designed to soothe your nervous system and ease tension, containing a blend of five highly effective botanicals — magnolia, zizyphus, lemon balm, chamomile, and withania. They work synergistically to reduce anxious feelings, alleviate irritability and promote a deep sense of calm. It's perfect for anyone feeling 'tired but wired' or struggling to unwind.
-  Updated: 2025-12-02T23:55:30Z
+  Updated: 2025-12-03T23:34:26Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Calm1_7b0e0aae-4d7f-4a50-9d27-a4ece69051c6.jpg?v=1743047442
   Price: $69.95 NZD
 - [Meno Ease](https://www.bioblends.com/products/meno-magic): Meno Ease is for those seeking relief from hormone-related symptoms once menstruation has ceased or become highly irregular (such as three periods per year). Perimenopause has three stages, the last of which is the lead up to menopause, which is the 12 month anniversary of your last period. In this last stage of perimenopause as well as post-menopause, estrogen is low and ovulation has ceased, meaning progesterone is also low (only the adrenal production remains). Some women cruise through the menopausal transition while others suffer mildly or in a debilitating way.&nbsp;
-  Updated: 2025-12-02T00:13:05Z
+  Updated: 2025-12-03T20:28:48Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Meno1_3341f6ed-e46b-4e9b-bc47-24e71f86540e.jpg?v=1743047447
   Price: $69.95 NZD
 - [Skin Nutrition](https://www.bioblends.com/products/skin-nutrition-1): Our Skin Nutrition formula offers a unique, proprietary blend of meticulously sourced plants, herbs and foods, specifically designed to revitalise your skin from the inside out. The known and potent antioxidant action of the blend gives cells what they need to function and therefore look their best. Unlock your radiant skin with every capsule, feeding your cells the essential nutrition they crave.
-  Updated: 2025-12-02T22:36:45Z
+  Updated: 2025-12-03T23:34:27Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -81,7 +81,7 @@
     Availability: Available
     Price: $200.00 NZD
 - [Glow and Nourish Bundle](https://www.bioblends.com/products/beauty-bundle): YOUR ULTIMATE INSIDE-OUT SKIN SOLUTION. Get our limited edition bundle and receive Dr Libby’s The Beauty Guide FREE (valued at $39.95)! This powerful trio is designed to nourish your skin from the inside out, targeting the key foundations of radiant skin: optimal nutrient levels, hormone balance and effective detoxification. What’s inside? Skin Nutrition – Antioxidant-rich botanicals, wholefood vitamin C, silica and zinc to support collagen production and protect against oxidative stress. Liver Love – A blend of research-backed herbs including St Mary’s thistle, turmeric and gentian to support detoxification, hormone metabolism and clearer skin. Organic Zinc – Essential for skin repair, inflammation control and maintaining a strong skin barrier. Save 10% when you buy this bundle + receive a FREE copy of Dr Libby’s The Beauty Guide, packed with expert insights and strategies for glowing skin. Gift with purchase available while stocks last. Offer valid from Tuesday 25 March to Monday 31 March, ending at midnight.
-  Updated: 2025-12-02T23:42:50Z
+  Updated: 2025-12-03T23:58:17Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
@@ -95,21 +95,21 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/BeautyGuide.jpg?v=1743047454
   Price: $39.95 NZD
 - [Iconic Iron™](https://www.bioblends.com/products/iconic-iron): Your liver plays a crucial role in your energy, the detoxification and elimination of problematic substances (‘toxins’), hormone balance and clear skin — fundamentally shaping how you look and feel each day. Nourish and protect this vital organ with Liver Love, a potent blend designed for optimal liver health and detoxification. “Liver loaders” enter the body via what we eat, drink and absorb through our skin – helping them leave the body efficiently can make a significant difference to how we feel each day.
-  Updated: 2025-12-02T23:57:06Z
+  Updated: 2025-12-03T23:58:12Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/iinew.jpg?v=1747010129
   Price: $69.95 NZD
 - [Fix Iron First by Dr Libby](https://www.bioblends.com/products/fix-iron-first): Fix Iron First - Dr Libby's new book out now You don’t have to accept feeling flat, foggy, anxious or exhausted as your “new normal”. When iron levels are low, everything feels harder. Your energy fades. Your mood shifts. Your resilience diminishes. And your body simply cannot function at its best – because so many of its vital processes depend on robust iron stores. Yet too often, the true impact of low iron is missed or misunderstood. Many people know – or suspect — that their iron is low, but they don’t realise how deeply it could be affecting them. Some have tried to correct it, only to find themselves back where they started. Others haven’t truly addressed it yet, thinking it couldn’t possibly be behind how lousy they feel. What’s not recognised often enough is that low iron doesn’t just make you tired. It can alter your brain chemistry, slow your metabolism, impact your thyroid, disturb your sleep and lower your emotional resilience. It affects how you think, how you feel, how you show up in the world – every single day. Fix Iron First is a call to change that. This book is for anyone who has ever felt persistently tired, anxious, low in mood, or disconnected from their spark – and not known why. It’s for parents watching a child struggle with energy or concentration. It’s for women navigating the rhythms of their menstrual cycle or the shifts of perimenopause. It’s for anyone who feels like they’re “doing everything right” but still doesn’t feel like themselves – or who has tried, unsuccessfully, to restore their iron levels and is still searching for answers.
-  Updated: 2025-12-02T21:25:31Z
+  Updated: 2025-12-03T01:32:46Z
   Vendor: Dr Libby
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/FixIronFirst.jpg?v=1761853880
   Price: $39.95 NZD
 - [The Iron Reset](https://www.bioblends.com/products/iron-bundle): If you’ve been battling low energy, brain fog, heavy periods or relentless fatigue — and nothing seems to help — this bundle is for you. The Iron Reset bundle brings together Fix Iron First, Dr Libby’s illuminating new book, and Iconic Iron, our gentle, highly bioavailable ferritin-iron supplement. Together they offer a complete plan of attack: understand what’s really driving your symptoms, why your iron levels have been so hard to restore and how to support your body with a form of iron it can actually absorb and use — without the gut upset. Learn the why. Use what works. And finally start feeling like yourself again. Because when you give your body what it truly what it needs, everything begins to shift.
-  Updated: 2025-12-02T23:57:10Z
+  Updated: 2025-12-03T23:58:16Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
@@ -130,28 +130,28 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/RealFood.jpg?v=1750630389
   Price: $39.95 NZD
 - [Women’s Health Essentials](https://www.bioblends.com/products/women-s-health-essentials): Support for the natural rhythms of being a woman. Build strong foundations for energy, hormone balance and vitality. Cycle Essentials promotes healthy progesterone production via cyclical ovulation, Liver Love supports healthy estrogen metabolism (via detoxification and clearance) and Iconic Iron provides ground-breaking ferritin-iron to restore iron levels often depleted by monthly bleeding, without the typical gut-related side effects of old-school iron supplements. This trio is ideal for anyone experiencing PMS, bloating, heightened fatigue prior to menstruation, mood swings, or more anxious feelings around their period, navigating the ups and downs of perimenopause, or simply wanting to enjoy a more harmonious, energised and symptom-free cycle. 90 vege capsules / 3 per day / 30 day supply Free of: animal products, gluten, dairy, soy, preservatives, sweeteners, artificial flavours, colours, GMOs.
-  Updated: 2025-12-02T23:57:10Z
+  Updated: 2025-12-03T23:58:16Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/HealthEssentials.jpg?v=1760556981
   Price: $188.85 NZD
 - [Everyday Energy Stack](https://www.bioblends.com/products/everyday-energy-stack): Support energy at its source. Feel more alive, every day, with Iconic Iron, Organic Daily Greens + Reds and Organic Zinc — your go-to trio for clarity, vitality and resilience. Together, they support oxygen transport, energy production, immune and gut health, along with cellular nourishment, helping you feel brighter, stronger and more like yourself. This trio is ideal for anyone who regularly feels exhausted, flat or struggles to get through the day — or is looking to replenish their iron, support their immune system and restore everyday energy from the inside out. It’s also a terrific combo to beat sugar cravings.
-  Updated: 2025-12-02T23:57:11Z
+  Updated: 2025-12-03T23:58:16Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/EnergyStack.jpg?v=1760557149
   Price: $179.85 NZD
 - [Daily Vitality Stack](https://www.bioblends.com/products/daily-vitality-stack): Your essential foundation for whole-body wellness. Four of our most-loved formulas, working in harmony to support your health from every angle — morning, noon and night. Organic Daily Greens + Reds delivers nutrient-dense, concentrated plant foods for noticeable energy, gut health and immune support. Liver Love nourishes detoxification pathways to help clear what your body no longer needs. Iconic Iron restores vital iron stores without the usual gut-related side effects, supporting energy and mental clarity. And Calm Restore helps soothe the nervous system and build emotional resilience. A daily ritual for feeling clear, calm and well – from the inside out.
-  Updated: 2025-12-02T23:57:10Z
+  Updated: 2025-12-03T23:58:16Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/VitalityStack.jpg?v=1760557820
   Price: $259.80 NZD
 - [Organic Magnesium](https://www.bioblends.com/products/organic-magnesium): SUPPORT RESTFUL SLEEP. RELAX YOUR NERVOUS SYSTEM. AID MUSCLE RECOVERY. Magnesium is the quiet cornerstone of wellbeing, involved in more than 300 biochemical reactions in the body. It helps muscles release tension, the nervous system unwind, sleep deepen and energy flow naturally — all while supporting steady mood, digestion and bowel regularity. Yet it’s also one of the most common nutrient gaps in modern diets. Stress, caffeine, alcohol and processed foods all deplete magnesium stores, leaving many people running on empty. Before supplements, there was food — and that’s where we begin. Sourced entirely from organic pumpkin seeds, one of nature’s richest magnesium sources, Organic Magnesium delivers pure, concentrated, food-based magnesium your body instinctively knows how to absorb and use. No synthetic compounds. No confusing “forms”. No unnecessary fillers. Each daily serve provides a clinically relevant 180 mg of magnesium to nourish your mind, muscles and metabolism — helping you wake refreshed, unwind with ease and feel steady throughout your day. When your nervous system is nourished, life feels lighter. From seed to strength. From food to calm. As nature intended. 60 vege capsules / 2 per day / 30 day supply Free of: animal products, gluten, dairy, soy, preservatives, sweeteners, artificial flavours, colours or GMOs.
-  Updated: 2025-12-02T23:57:15Z
+  Updated: 2025-12-03T23:58:11Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
@@ -161,13 +161,13 @@
 ## Collections
 
 - [Home page](https://www.bioblends.com/collections/frontpage)
-  Updated: 2025-12-02T12:35:51Z
+  Updated: 2025-12-03T12:29:44Z
   Total Products: 2
 - [The Bio Blends Range](https://www.bioblends.com/collections/all)
-  Updated: 2025-12-02T23:00:01Z
+  Updated: 2025-12-03T12:29:44Z
   Total Products: 12
 - [FULL PRICED ITEMS](https://www.bioblends.com/collections/full-priced-items)
-  Updated: 2025-12-02T23:00:01Z
+  Updated: 2025-12-03T12:29:44Z
   Total Products: 14
 - [Bundles](https://www.bioblends.com/collections/bundles)
   Updated: 2025-10-30T19:58:37Z
@@ -491,6 +491,10 @@
     Updated: 2025-12-02T20:00:02Z
     Author: Libby Ellis
     Tags: Bio Blends
+  - [Organic Magnesium and Calm Restore, what’s the Difference?](https://www.bioblends.com/blogs/news/organic-magnesium-and-calm-restore-what-s-the-difference)
+    Updated: 2025-12-03T20:46:03Z
+    Author: Libby Ellis
+    Tags: Bio Blends, Sleep
 
 ## Store Pages
 
