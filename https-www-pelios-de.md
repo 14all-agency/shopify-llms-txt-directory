@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-12-03T00:00:27.400Z
+- Updated At: 2025-12-04T00:00:31.884Z
 
 ## Products
 
@@ -344,6 +344,10 @@
     Updated: 2025-12-02T05:16:29Z
     Author: ms@nova02.de
     Tags: heizstrahler terrasse gas
+  - [Kaminofen Genehmigung Schornsteinfeger: Schritt‑für‑Schritt‑Anleitung für Hausbesitzer](https://www.pelios.de/blogs/news/kaminofen-genehmigung-schornsteinfeger-schritt-fur-schritt-anleitung-fur-hausbesitzer)
+    Updated: 2025-12-03T05:14:49Z
+    Author: ms@nova02.de
+    Tags: kaminofen genehmigung schornsteinfeger
 
 ## Store Pages
 
