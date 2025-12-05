@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-05T16:00:35.403Z
+- Updated At: 2025-12-05T20:00:37.720Z
 
 ## Products
 
@@ -1447,7 +1447,7 @@
     Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/srf-dry-changing-robe-blue-medium-srf-dry-premium-long-sleeve-waterproof-changing-robe-mens-polar-edition-cobalt-blue-1183719286.png?v=1757242933
     Price: £54.95 GBP
 - [SRF DRY Waterproof Beach Changing Mat Drawstring Bag](https://thevinessupply.co/products/srf-dry-waterproof-beach-changing-mat-drawstring-bag): This waterproof, lightweight and versatile changing mat is an essential piece of kit for any water sport enthusiast or avid beach goer. Stand on the mat to change out of your wet clothes, whether it be a wetsuit, swimming costume, board shorts or trunks, then simply pull the drawstrings & carry away.
-  Updated: 2025-11-29T10:39:21Z
+  Updated: 2025-12-05T19:10:14Z
   Vendor: SRF DRY
   Product Type: Changing Mat
   Availability: Available
@@ -1676,7 +1676,7 @@
     Availability: Available
     Price: £79.95 GBP
 - [Polar Skate Co Big Boy Jeans | Mid Blue](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-mid-blue): Buy the Polar Big Boys Jeans in Mid Blue at The Vines. The famous Polar Big Boys with best prices and fast, free delivery at www.thevinessupply.co
-  Updated: 2025-12-05T08:42:17Z
+  Updated: 2025-12-05T17:57:18Z
   Vendor: Polar
   Product Type: Jeans
   Availability: Available
@@ -1923,7 +1923,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/pass-port-socks-pass-port-hi-sox-3-pack-socks-navy-white-grey-1183716885.png?v=1757207776
   Price: £19.95 GBP
 - [Stance Smilings My Favourite Socks | Green](https://thevinessupply.co/products/stance-smilings-my-favourite-socks-green): Buy the Stance Smilings My Favourite Socks at The Vines. Christmas is coming.... these feature the Christmas character Elf made famous by Will Farrell. Get free* delivery and easy returns at www.thevinessupply.co
-  Updated: 2025-11-28T11:08:43Z
+  Updated: 2025-12-05T19:37:21Z
   Vendor: Stance
   Product Type: Socks
   Availability: Available
@@ -3386,7 +3386,7 @@
     Availability: Not Available
     Price: £69.95 GBP
 - [Polar Skate Co Michael Polar Skate Club Cap | Black](https://thevinessupply.co/products/polar-skate-co-michael-polar-skate-club-cap-black): Buy the Polar Skate Co Michael Polar Skate Club Cap in Black at The Vines, with fast, premium delivery and easy returns.
-  Updated: 2025-12-04T15:32:41Z
+  Updated: 2025-12-05T17:32:55Z
   Vendor: Polar
   Product Type: Caps
   Availability: Available
@@ -4219,7 +4219,7 @@
     Availability: Available
     Price: £39.95 GBP
 - [Dime MTL CCTV T-Shirt | Black](https://thevinessupply.co/products/dime-mtl-cctv-t-shirt-black): Buy the Dime MTL CCTV T-Shirt in black at The Vines, with Fast, Premium Delivery & Easy 90 day returns. Best prices on Dime MTL guaranteed
-  Updated: 2025-11-18T13:50:30Z
+  Updated: 2025-12-05T19:37:21Z
   Vendor: Dime MTL
   Product Type: Tees
   Availability: Available
@@ -4234,7 +4234,7 @@
     Availability: Available
     Price: £49.95 GBP
   - [Extra Large](https://thevinessupply.co/products/dime-mtl-cctv-t-shirt-black?variant=55878939902287)
-    Availability: Available
+    Availability: Not Available
     Price: £49.95 GBP
 - [Dime MTL CCTV T-Shirt | White](https://thevinessupply.co/products/dime-mtl-cctv-t-shirt-white): Buy the Dime MTL CCTV T-Shirt in white at The Vines, with Fast, Premium Delivery & Easy 90 day returns. Best prices on Dime MTL guaranteed
   Updated: 2025-12-01T18:06:25Z
@@ -4255,7 +4255,7 @@
     Availability: Available
     Price: £49.95 GBP
 - [Dime MTL Baggy Denim Pants | Sandblasted Brown](https://thevinessupply.co/products/dime-mtl-baggy-denim-pants-sandblasted-brown): Buy the Dime MTL Baggy Denim Pants in Sandblasted Brown at The Vines, boasting custom western pockets with rivets as well as unique wavy patch pockets.
-  Updated: 2025-10-27T12:47:50Z
+  Updated: 2025-12-05T17:15:12Z
   Vendor: Dime MTL
   Product Type: Jeans
   Availability: Available
@@ -4270,10 +4270,10 @@
     Availability: Not Available
     Price: £114.95 GBP
   - [34W](https://thevinessupply.co/products/dime-mtl-baggy-denim-pants-sandblasted-brown?variant=55894821372239)
-    Availability: Available
+    Availability: Not Available
     Price: £114.95 GBP
   - [36W](https://thevinessupply.co/products/dime-mtl-baggy-denim-pants-sandblasted-brown?variant=55894824091983)
-    Availability: Available
+    Availability: Not Available
     Price: £114.95 GBP
 - [Dime MTL Baggy Denim Pants | Knowtomatic Blue](https://thevinessupply.co/products/dime-mtl-baggy-denim-pants-knowtomatic-blue): Buy the Dime MTL Baggy Denim Pants in Knowtomatic Blue at The Vines, boasting custom western pockets with rivets as well as unique wavy patch pockets.
   Updated: 2025-11-29T14:37:30Z
@@ -4429,21 +4429,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/dime-mtl-badges-dime-mtl-pin-pack-gold-silver-1192468921.png?v=1757685493
   Price: £9.95 GBP
-- [Butter Goods Beauty T-Shirt | White](https://thevinessupply.co/products/butter-goods-beauty-t-shirt-white): Buy the Butter Goods Beauty T-Shirt in White at The Vines, with fast, premium delivery & easy returns.
-  Updated: 2025-11-14T11:42:36Z
-  Vendor: Butter Goods
-  Product Type: Tees
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/butter-goods-tees-butter-goods-beauty-t-shirt-white-1192477666.png?v=1757692456
-  - [Medium](https://thevinessupply.co/products/butter-goods-beauty-t-shirt-white?variant=55926001598799)
-    Availability: Not Available
-    Price: £39.95 GBP
-  - [Large](https://thevinessupply.co/products/butter-goods-beauty-t-shirt-white?variant=55926001631567)
-    Availability: Not Available
-    Price: £39.95 GBP
-  - [Extra Large](https://thevinessupply.co/products/butter-goods-beauty-t-shirt-white?variant=55926001664335)
-    Availability: Available
-    Price: £39.95 GBP
 - [Butter Goods Aspect Crewneck | Fossil & Charcoal](https://thevinessupply.co/products/butter-goods-aspect-crewneck-fossil-charcoal): Buy the Butter Goods Aspect Crewneck in Fossil & Charcoal at The Vines, with fast, premium delivery & easy returns.
   Updated: 2025-10-28T11:31:36Z
   Vendor: Butter Goods
@@ -5146,7 +5131,7 @@
     Availability: Available
     Price: £54.95 GBP
 - [Hockey Liga T-Shirt | White](https://thevinessupply.co/products/hockey-liga-t-shirt-white): Buy the Hockey Liga T-Shirt in white at The Vines. With fast, premium delivery and easy 90 day returns in our online UK skate shop.
-  Updated: 2025-11-18T13:50:31Z
+  Updated: 2025-12-05T19:37:22Z
   Vendor: Hockey
   Product Type: Tees
   Availability: Available
@@ -5158,7 +5143,7 @@
     Availability: Available
     Price: £39.95 GBP
   - [Extra Large](https://thevinessupply.co/products/hockey-liga-t-shirt-white?variant=55963321205071)
-    Availability: Available
+    Availability: Not Available
     Price: £39.95 GBP
 - [Hockey Torn Skateboard Deck | 8.5"](https://thevinessupply.co/products/hockey-torn-skateboard-deck-8-5): Buy the Hockey Torn Skateboard Deck in 8.5" at The Vines. Get some fast ass delivery on your skate decks. SSAAAFFEEEE
   Updated: 2025-10-09T15:36:30Z
@@ -7000,6 +6985,48 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/footprint-insoles-uk-8-uk-13-footprint-kingfoam-elite-high-pro-jaws-mallgrab-man-insoles-1209713776.jpg?v=1764704768
   Price: £49.95 GBP
+- [DC Shoes Spectre Skate Shoes | Black, Grey & Blue](https://thevinessupply.co/products/dc-shoes-spectre-skate-shoes-black-grey-blue): Buy the DC Shoes Spectre Skate Shoes in Black, Grey & Blue at The Vines, with fast, premium delivery & easy returns within 90 days
+  Updated: 2025-12-05T18:18:43Z
+  Vendor: DC Shoes
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/1_abb01c42-890e-4b24-a555-f000cb9ec811.jpg?v=1764954129
+  - [UK 7](https://thevinessupply.co/products/dc-shoes-spectre-skate-shoes-black-grey-blue?variant=56560998121807)
+    Availability: Available
+    Price: £94.95 GBP
+  - [UK 8](https://thevinessupply.co/products/dc-shoes-spectre-skate-shoes-black-grey-blue?variant=56560245047631)
+    Availability: Available
+    Price: £94.95 GBP
+  - [UK 9](https://thevinessupply.co/products/dc-shoes-spectre-skate-shoes-black-grey-blue?variant=56560245080399)
+    Availability: Available
+    Price: £94.95 GBP
+  - [UK 10](https://thevinessupply.co/products/dc-shoes-spectre-skate-shoes-black-grey-blue?variant=56560245113167)
+    Availability: Not Available
+    Price: £94.95 GBP
+  - [UK 11](https://thevinessupply.co/products/dc-shoes-spectre-skate-shoes-black-grey-blue?variant=56560245145935)
+    Availability: Available
+    Price: £94.95 GBP
+- [DC Shoes Truth Skate Shoes | Black, Grey & Blue](https://thevinessupply.co/products/dc-shoes-truth-skate-shoes-black-grey-blue): Buy the DC Shoes Truth Skate Shoes in Black, Grey & Blue at The Vines, with fast, premium delivery & easy returns within 90 days
+  Updated: 2025-12-05T18:18:59Z
+  Vendor: DC Shoes
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/1_e66cd9cb-5569-4b84-89fe-3cb2f934ee0f.jpg?v=1764955131
+  - [UK 7](https://thevinessupply.co/products/dc-shoes-truth-skate-shoes-black-grey-blue?variant=56560988651855)
+    Availability: Available
+    Price: £99.95 GBP
+  - [UK 8](https://thevinessupply.co/products/dc-shoes-truth-skate-shoes-black-grey-blue?variant=56560951525711)
+    Availability: Available
+    Price: £99.95 GBP
+  - [UK 9](https://thevinessupply.co/products/dc-shoes-truth-skate-shoes-black-grey-blue?variant=56560951558479)
+    Availability: Available
+    Price: £99.95 GBP
+  - [UK 10](https://thevinessupply.co/products/dc-shoes-truth-skate-shoes-black-grey-blue?variant=56560951591247)
+    Availability: Not Available
+    Price: £99.95 GBP
+  - [UK 11](https://thevinessupply.co/products/dc-shoes-truth-skate-shoes-black-grey-blue?variant=56560951624015)
+    Availability: Available
+    Price: £99.95 GBP
 
 ## Collections
 
@@ -7130,8 +7157,8 @@
   Updated: 2025-11-22T12:21:05Z
   Total Products: 5
 - [Skate Shoes and Insoles | Skate Footwear | The Vines](https://thevinessupply.co/collections/skateboard-footwear-skate-shoes-insoles): Shop Skate Footwear at The Vines - Skate Shoes, and Insoles - with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-05T15:24:41Z
-  Total Products: 317
+  Updated: 2025-12-05T17:20:18Z
+  Total Products: 318
 - [Thrasher | The Vines](https://thevinessupply.co/collections/thrasher): Buy Thrasher at The Vines. Thrasher magazine is the world's longest running skate periodical and since its inception it has turned into a well respected skateboarding mecca. Shop Thrasher t-shirts, hoodies, jackets and caps at The Vines and show your Thrasher Skate Mag allegiance.
   Updated: 2025-05-08T18:45:26Z
   Total Products: 68
@@ -7154,8 +7181,8 @@
   Updated: 2025-10-18T12:27:57Z
   Total Products: 16
 - [Skate Shoes | The Vines](https://thevinessupply.co/collections/skate-shoes): Shop Skateboarding Shoes at The Vines. Skate shoes from your favourite brands such as Vans, Adidas Skateboarding, New Balance and Last Resort AB. Buy Skate Shoes now.
-  Updated: 2025-12-05T15:24:41Z
-  Total Products: 264
+  Updated: 2025-12-05T17:20:18Z
+  Total Products: 265
 - [Hélas | Helas | The Vines](https://thevinessupply.co/collections/helas): Shop Hélas Skate Clothing at The Vines. Shop Helas Caps with Fast, Premium Delivery & Easy Returns.
   Updated: 2025-12-01T17:54:39Z
   Total Products: 235
@@ -7199,8 +7226,8 @@
   Updated: 2025-12-05T12:22:18Z
   Total Products: 157
 - [Latest Arrivals | The Vines](https://thevinessupply.co/collections/latest-arrivals): Here's the latest goods to arrive at The Vines skate shop. Straight out the box, fresh stock for the masses from the best international. Shop now...
-  Updated: 2025-12-05T15:24:41Z
-  Total Products: 5716
+  Updated: 2025-12-05T17:20:18Z
+  Total Products: 5717
 - [Palace Skateboards | Skateboard Decks | The Vines](https://thevinessupply.co/collections/palace-skateboards): Shop the latest collections of Palace Skateboards skateboard decks at The Vines, with quick delivery and a range of griptape options.
   Updated: 2025-10-02T10:47:32Z
   Total Products: 68
@@ -7463,8 +7490,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-05T15:59:06Z
-  Total Products: 3229
+  Updated: 2025-12-05T17:30:04Z
+  Total Products: 3231
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-05T12:22:18Z
   Total Products: 110
@@ -7502,20 +7529,20 @@
   Updated: 2025-12-01T17:54:43Z
   Total Products: 111
 - [UK 7 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-7-skate-shoes): Shop our curated selection of Skate Shoes in UK 7 at The VInes. We stock premium pairs of both cupsole and vulcanised skate shoes. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2025-12-05T12:22:18Z
-  Total Products: 25
+  Updated: 2025-12-05T17:30:04Z
+  Total Products: 27
 - [UK 8 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-8-skate-shoes): Shop our curated selection of Skate Shoes in UK 8. We stock premium pairs of both cupsole and vulcanised skate shoes. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2025-12-05T12:22:18Z
-  Total Products: 24
+  Updated: 2025-12-05T17:30:04Z
+  Total Products: 26
 - [UK 9 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-9-skate-shoes): Shop our curated selection of Skate Shoes in UK 9 at The Vines. Whether looking for suede, leather or canvas skate shoes, find a pair to meet the concrete. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2025-12-05T12:22:18Z
-  Total Products: 23
+  Updated: 2025-12-05T17:30:35Z
+  Total Products: 25
 - [UK 10 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-10-skate-shoes): Shop our curated selection of Skate Shoes. We stock premium pairs of both cupsole and vulcanised skate shoes. Whether looking for suede, leather or canvas skate shoes, find a pair to meet the concrete. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2025-12-05T12:22:18Z
+  Updated: 2025-12-05T17:29:12Z
   Total Products: 15
 - [UK 11 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-11-skate-shoes): Shop our curated selection of Skate Shoes at The Vines. We stock premium pairs of both cupsole and vulcanised skate shoes. Whether looking for suede, leather or canvas skate shoes, find a pair to meet the concrete. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2025-12-05T12:22:18Z
-  Total Products: 11
+  Updated: 2025-12-05T17:30:35Z
+  Total Products: 13
 - [Mob Griptape | Skateboard Griptape | The Vines](https://thevinessupply.co/collections/mob-griptape): Grab a fresh sheet of MOB Griptape at The Vines, ready for a freshie or a regrip if you're skateboard deck has been through the wars.
   Updated: 2025-11-21T15:29:50Z
   Total Products: 1
@@ -7568,8 +7595,8 @@
   Updated: 2025-11-28T12:32:47Z
   Total Products: 8
 - [Full Price Items](https://thevinessupply.co/collections/full-price-items)
-  Updated: 2025-12-05T15:24:41Z
-  Total Products: 2892
+  Updated: 2025-12-05T17:20:18Z
+  Total Products: 2893
 - [Toy Machine | Skateboard Decks & Clothing | The Vines](https://thevinessupply.co/collections/toy-machine): Shop Toy Machine Skateboard Decks & Clothing at The Vines. Since being founded by Ed Templeton in 1993, Templeton has been the creative force behind Toy Machine, infusing the brand with his distinctive blend of art and humour.
   Updated: 2025-02-20T13:05:21Z
   Total Products: 2
@@ -7658,14 +7685,14 @@
   Updated: 2025-12-01T17:54:41Z
   Total Products: 12
 - [DC Shoes | DC Skate Shoes | The Vines](https://thevinessupply.co/collections/dc-shoes): Shop DC Skate Shoes at The Vines. The Best & Latest DC Trainers built for Skateboarding, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-05T15:24:41Z
-  Total Products: 4
+  Updated: 2025-12-05T17:20:18Z
+  Total Products: 5
 - [Black Skate Shoes](https://thevinessupply.co/collections/black-skate-shoes): Shop our selection of black skate shoes, including black Adidas skate shoes and black New Balance skate shoes.
-  Updated: 2025-11-28T12:32:47Z
-  Total Products: 7
-- [White Skate Shoes](https://thevinessupply.co/collections/white-skate-shoes): Shop our selection of white skate shoes, including white Adidas skate shoes and white New Balance skate shoes.
-  Updated: 2025-12-05T15:24:41Z
+  Updated: 2025-12-05T17:20:18Z
   Total Products: 9
+- [White Skate Shoes](https://thevinessupply.co/collections/white-skate-shoes): Shop our selection of white skate shoes, including white Adidas skate shoes and white New Balance skate shoes.
+  Updated: 2025-12-05T17:04:57Z
+  Total Products: 8
 - [Sale Footwear](https://thevinessupply.co/collections/sale-footwear): Shop our sale footwear, including sale skate shoes from Adidas, New Balance and Vans.
   Updated: 2025-11-28T12:32:47Z
   Total Products: 160
@@ -7676,8 +7703,8 @@
   Updated: 2025-10-02T09:36:17Z
   Total Products: 3
 - [DC Trainers](https://thevinessupply.co/collections/dc-trainers): Shop our collection of DC trainers, check out some of the best selling DC Shoes styles incoming the Kalynx, Lucien, JS1 and Truth OG
-  Updated: 2025-12-05T15:24:41Z
-  Total Products: 4
+  Updated: 2025-12-05T17:20:18Z
+  Total Products: 5
 - [Skate Football Shirts | Skate Jerseys](https://thevinessupply.co/collections/skate-football-shirts-jerseys): Shop Football Shirts / Jerseys from Skate brands at The Vines, with Fast, Premium Delivery & Easy Returns.
   Updated: 2025-11-27T12:26:09Z
   Total Products: 3
