@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-12-04T00:00:31.884Z
+- Updated At: 2025-12-05T00:00:32.527Z
 
 ## Products
 
@@ -348,6 +348,10 @@
     Updated: 2025-12-03T05:14:49Z
     Author: ms@nova02.de
     Tags: kaminofen genehmigung schornsteinfeger
+  - [Pelletofen mit WLAN: 5 smarte Tipps für effiziente Wärme](https://www.pelios.de/blogs/news/pelletofen-mit-wlan-5-smarte-tipps-fur-effiziente-warme)
+    Updated: 2025-12-04T04:57:20Z
+    Author: ms@nova02.de
+    Tags: pelletofen mit wlan
 
 ## Store Pages
 
