@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-05T08:00:35.074Z
+- Updated At: 2025-12-05T12:00:35.040Z
 
 ## Products
 
@@ -1279,7 +1279,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Fire Roasted Marshmallow Candle](https://affinatiliving.com/products/3-wick-fire-roasted-marshmallow-candle): Shop our XL Fire Roasted Marshmallow Candle – 3-wick, long-lasting, and strong scented. Perfect for cozy nights, gifting, or filling your space with sweet, smoky nostalgia.
-  Updated: 2025-12-04T16:57:17Z
+  Updated: 2025-12-05T08:31:39Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1294,7 +1294,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick White Tea Candle](https://affinatiliving.com/products/3-wick-white-tea-candle): Shop our XL White Tea Candle – 3-wick, long-lasting, and strong scented. Perfect for spa days, gifting, or bringing crisp, calming freshness to your space.
-  Updated: 2025-12-04T16:57:17Z
+  Updated: 2025-12-05T08:12:43Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -1399,7 +1399,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Cocoa Butter Cashmere Candle](https://affinatiliving.com/products/3-wick-cocoa-butter-cashmere-candle): Shop our XL Cocoa Butter Cashmere Candle – 3-wick, long-lasting, and strong scented. Perfect for self-care, gifting, or adding soft, luxurious warmth to any space.
-  Updated: 2025-12-04T16:57:18Z
+  Updated: 2025-12-05T08:54:22Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -2980,7 +2980,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Banana Creme Pie Candle](https://affinatiliving.com/products/3-wick-banana-creme-pie-candle): Treat your senses to the rich aroma of ripe banana, vanilla custard, and flaky crust. This 3-wick Banana Crème Pie candle is warm, sweet, and irresistible.
-  Updated: 2025-12-04T16:57:23Z
+  Updated: 2025-12-05T08:10:13Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3025,7 +3025,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Fresh Peaches Candle](https://affinatiliving.com/products/3-wick-fresh-peaches-candle): Fill your space with the sweet, juicy aroma of ripe peaches. This 3-wick Fresh Peaches candle offers a long-lasting, clean burn and vibrant summer scent.
-  Updated: 2025-12-04T15:47:20Z
+  Updated: 2025-12-05T08:05:09Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3070,7 +3070,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Fresh Watermelon Candle](https://affinatiliving.com/products/3-wick-fresh-watermelon-candle): Brighten your home with the Fresh Watermelon 3-Wick Candle. Hand-poured soy wax, 17 oz glass jar, and a juicy watermelon scent for a clean, even burn.
-  Updated: 2025-12-04T15:47:19Z
+  Updated: 2025-12-05T08:16:53Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3085,7 +3085,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Strawberry Bliss Candle](https://affinatiliving.com/products/3-wick-strawberry-bliss-candle): Indulge in the sweet scent of ripe strawberries with the Strawberry Bliss 3-Wick Candle. Clean soy wax, 17 oz jar, and long-lasting fragrance.
-  Updated: 2025-12-04T15:47:19Z
+  Updated: 2025-12-05T08:11:22Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3100,7 +3100,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Banana Nut Bread Candle](https://affinatiliving.com/products/3-wick-banana-nut-bread-candle): Indulge in the cozy scent of our Banana Nut Bread 3-Wick Candle. Hand-poured soy wax, 17 oz glass jar, and triple wicks for a warm, bakery-inspired fragrance.
-  Updated: 2025-12-04T15:47:19Z
+  Updated: 2025-12-05T08:40:55Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3115,7 +3115,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Strawberry Kiwi Candle](https://affinatiliving.com/products/3-wick-strawberry-kiwi-candle): Elevate your space with the Affinati Strawberry Kiwi Candle. This 17 oz luxury 3-wick candle blends the sweet aroma of ripe strawberries with the refreshing zest of kiwi for a bright, fruity fragrance. Perfect for refined living and long-lasting ambiance.
-  Updated: 2025-12-04T15:47:17Z
+  Updated: 2025-12-05T08:40:16Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3130,7 +3130,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Lemon Meringue Candle](https://affinatiliving.com/products/3-wick-banana-nut-bread-candle-copy): Brighten your home with the Lemon Meringue 3-Wick Candle. This 17 oz soy wax blend combines zesty lemon with creamy sweetness for a fresh, uplifting burn that lasts.
-  Updated: 2025-12-04T15:47:17Z
+  Updated: 2025-12-05T08:13:33Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3175,7 +3175,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Pink Lemonade Candle](https://affinatiliving.com/products/3-wick-pink-lemonade-candle): Brighten your home with the refreshing Pink Lemonade 3-Wick Candle. A 17 oz soy wax blend with a sweet citrus aroma and clean, even burn—perfect for uplifting any space.
-  Updated: 2025-12-04T15:47:16Z
+  Updated: 2025-12-05T08:22:33Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3220,7 +3220,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Lemon Drop Candle](https://affinatiliving.com/products/3-wick-lemon-drop-candle): Refresh your space with the Lemon Drop 3-Wick Candle. A 17 oz soy blend with zesty lemon and sugared sweetness for a clean, uplifting burn.
-  Updated: 2025-12-04T16:57:24Z
+  Updated: 2025-12-05T08:29:16Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3355,7 +3355,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Christmas Cookie Candle](https://affinatiliving.com/products/3-wick-christmas-cookie): Cozy up with the Christmas Cookie 3-Wick Candle – 17 oz. A sweet blend of buttery sugar cookies and creamy vanilla frosting in a long-lasting soy wax candle.
-  Updated: 2025-12-04T15:47:12Z
+  Updated: 2025-12-05T09:45:47Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -3370,7 +3370,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Baked Apple Pie Candle](https://affinatiliving.com/products/3-wick-baked-apple-pie-candle): Indulge in the warm, nostalgic aroma of the Affinati Baked Apple Pie 3-Wick Candle. Crisp apples, golden crust, and cinnamon spice create a cozy fragrance perfect for fall and holiday gatherings.
-  Updated: 2025-12-04T15:47:12Z
+  Updated: 2025-12-05T08:53:01Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -4338,7 +4338,7 @@
     Availability: Available
     Price: $29.95 USD
 - [3-Wick Candied Yams Candle](https://affinatiliving.com/products/3-wick-candied-yams): Experience autumn indulgence with Affinati’s Candied Yams 3-Wick Candle — a sweet blend of brown sugar, cinnamon spice & vanilla warmth that fills your home.
-  Updated: 2025-12-04T15:47:11Z
+  Updated: 2025-12-05T08:08:46Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -4368,7 +4368,7 @@
     Availability: Available
     Price: $109.95 USD
 - [3-Wick Pumpkin Pie Candle](https://affinatiliving.com/products/3-wick-pumpkin-pie-candle): Warm your home with Affinati’s Pumpkin Pie 3-Wick Candle — spiced pumpkin, vanilla, and brown sugar in a rich, long-lasting soy blend.
-  Updated: 2025-12-04T15:47:11Z
+  Updated: 2025-12-05T08:13:57Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
