@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-04-13T04:01:57Z
 - Contact Email: info.modetrend@gmail.com
-- Updated At: 2025-12-02T00:01:18.302Z
+- Updated At: 2025-12-05T00:00:23.916Z
 
 ## Products
 
@@ -2656,8 +2656,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/damen-minikleid-knopfleiste-wintermode.webp?v=1762183420
     Price: 34,99 € EUR
-- [Damen Kleid mit quadratischem Ausschnitt  Figurbetontes Sommerkleid mit kurzen Ärmeln](https://modetrend.org/products/products-damenkleid-quadratischer-ausschnitt-figurbetont-sommerwomens-plain-square-neck-bodycon-dress-casual-short-sleeve-long-dress-for-summer-ladies-clothes-for-daily-wear-womens-dress): Sommerliches Damenkleid mit quadratischem Ausschnitt – figurbetont, kurzärmelig und perfekt für Alltag, Freizeit und Urlaub. Elegantes, schlichtes Design
-  Updated: 2025-12-01T11:55:11Z
+- [Schlichtes, figurbetontes Kleid mit eckigem Ausschnitt für Damen](https://modetrend.org/products/products-damenkleid-quadratischer-ausschnitt-figurbetont-sommerwomens-plain-square-neck-bodycon-dress-casual-short-sleeve-long-dress-for-summer-ladies-clothes-for-daily-wear-womens-dress): Schlichtes figurbetontes Kleid mit eckigem Ausschnitt für Damen. Kurzarm und elegant, ideal für Freizeit und Sommer. Vielseitig kombinierbar.
+  Updated: 2025-12-04T19:26:31Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2694,8 +2694,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/Saab3a3635cd04b67bc739d765c9f6c05G_9f243d07-5f6c-4061-9a3d-51799fd75396.webp?v=1761823143
     Price: 29,99 € EUR
-- [Damen-Body mit V-Ausschnitt – Gerippt, figurbetont & stylisch für Herbst](https://modetrend.org/products/damen-body-mit-v-ausschnitt-und-langen-armeln): Eleganter Damen-Body mit V-Ausschnitt – gerippt, figurbetont und perfekt für Herbstmode 2025. Ideal für Alltag, Dates und Streetstyle.
-  Updated: 2025-12-01T11:50:49Z
+- [Damen Body V-Ausschnitt – Stylischer Herbst-Trend](https://modetrend.org/products/damen-body-mit-v-ausschnitt-und-langen-armeln): Damen Body V-Ausschnitt: Gerippt, figurbetont & perfekt für Herbstmode 2025. Vielseitig für Alltag und Streetstyle kombinierbar.
+  Updated: 2025-12-04T19:21:49Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2720,8 +2720,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/damen-body-v-ausschnitt.webp?v=1762180685
     Price: 29,95 € EUR
-- [Figurbetontes Transparentes Minikleid – Modetrend](https://modetrend.org/products/products-schulterfreies-transparentes-minikleid-damenmodische-schulterfreie-transparente-minikleider-f-r-damen-hei-e-sexy-partykleider-mit-langen-rmeln-raffungen-und-figurbetonter-einfarbiger-robe): Heiße Partys? Dieses Schulterfreie Minikleid sorgt für Aufsehen✓ Jetzt entdecken & stilvoll auftreten!
-  Updated: 2025-12-01T11:46:08Z
+- [schulterfreies transparentes Minikleid für Damen](https://modetrend.org/products/products-schulterfreies-transparentes-minikleid-damenmodische-schulterfreie-transparente-minikleider-f-r-damen-hei-e-sexy-partykleider-mit-langen-rmeln-raffungen-und-figurbetonter-einfarbiger-robe): Entdecken Sie schulterfreie transparente Minikleider für Damen. Sexy, elegant und perfekt für Partys, Clubs oder besondere Abende.
+  Updated: 2025-12-04T19:17:43Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2790,8 +2790,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/schulterfreies-transparentes-minikleid-4.webp?v=1762179722
     Price: 24,99 € EUR
-- [Damen Boho A-Linie Minikleid – Modetrend](https://modetrend.org/products/products-sommerkleid-damen-boho-v-ausschnitt-rueschensommerkleid-f-r-damen-l-ssig-im-boho-stil-v-ausschnitt-kurze-rmel-r-schen-lockere-a-linie-minikleid-elegant-perfekt-f-r-strandpartys-und-streetstyle): Luftiges, elegantes Sommerkleid mit Rüschen & V-Ausschnitt✓ Für Streetstyle & Ferien – gleich entdecken!
-  Updated: 2025-12-01T11:40:31Z
+- [Damen Boho Sommerkleid, lässig – Elegant](https://modetrend.org/products/products-sommerkleid-damen-boho-v-ausschnitt-rueschensommerkleid-f-r-damen-l-ssig-im-boho-stil-v-ausschnitt-kurze-rmel-r-schen-lockere-a-linie-minikleid-elegant-perfekt-f-r-strandpartys-und-streetstyle): Entdecken Sie das Damen Boho Sommerkleid. Perfekt für Strandpartys und Streetstyle, mit Rüschen und V-Ausschnitt!
+  Updated: 2025-12-04T05:07:46Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2896,8 +2896,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/damen-sommermode-boho.webp?v=1762178827
     Price: 27,99 € EUR
-- [Modetrend: Urlaubskleid mit Rundhalsausschnitt](https://modetrend.org/products/products-damenmode-einfarbiges-kurzarmkleid-rundhalsausschnittdamenmode-einfarbiges-kurz-rmeliges-kleid-mit-rundhalsausschnitt-l-ssig-elegant-locker-geschnitten-perfekt-f-r-strandpartys-und-urlaub): Locker geschnittenes Kurzarmkleid für Sommer & Ferien✓ Einfach anziehen & wohlfühlen – gleich sichern!
-  Updated: 2025-12-01T11:43:31Z
+- [kurzärmeliges Kleid mit Rundhalsausschnitt – Damenmode](https://modetrend.org/products/products-damenmode-einfarbiges-kurzarmkleid-rundhalsausschnittdamenmode-einfarbiges-kurz-rmeliges-kleid-mit-rundhalsausschnitt-l-ssig-elegant-locker-geschnitten-perfekt-f-r-strandpartys-und-urlaub): Entdecken Sie das kurzärmeliges Kleid mit Rundhalsausschnitt. Ideal für Strandpartys und entspannte Sommertage!
+  Updated: 2025-12-03T05:52:10Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2962,8 +2962,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/damen-rundhalskleid.webp?v=1762177471
     Price: 46,99 € EUR
-- [Vintage Chiffon Minikleid mit Rüschen](https://modetrend.org/products/schulterfreies-rueschenkleid-chiffon-sommer-vintage-chulterfreies-r-schenkleid-abendkleid-aus-chiffon-sommer-vintage-outfit-f-r-damen-sexy-figurbetontes-plissiertes-minikleid): Elegantes, schulterfreies Plissiertes Kleid aus Chiffon✓ Ideal für Sommer-Abende – klick & bestelle!
-  Updated: 2025-11-30T18:49:30Z
+- [Schulterfreies Rüschenkleid - Elegantes Abendkleid](https://modetrend.org/products/schulterfreies-rueschenkleid-chiffon-sommer-vintage-chulterfreies-r-schenkleid-abendkleid-aus-chiffon-sommer-vintage-outfit-f-r-damen-sexy-figurbetontes-plissiertes-minikleid): Schulterfreies Rüschenkleid aus Chiffon, ideal für Sommerabende. Elegantes, figurbetontes Minikleid im Vintage-Stil, jetzt bestellen!
+  Updated: 2025-12-03T05:53:45Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
@@ -2988,105 +2988,105 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/schulterfreies-rueschenkleid-vorderansicht..webp?v=1762176717
     Price: 39,99 € EUR
-- [Schulterfreies Minikleid mit halben Ärmeln für Damen | Elegant](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider): Entdecke ein figurbetontes, trägerloses Minikleid mit Schleife & Falten✓ Perfekt für deine nächste Party – jetzt shoppen!
-  Updated: 2025-12-01T11:23:26Z
+- [Schulterfreies elegantes Minikleid für die Sommerparty](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich): Schulterfreies elegantes Minikleid für Damen mit halben Ärmeln, perfekt für besondere Anlässe. Jetzt entdecken und die Sommerparty rocken!
+  Updated: 2025-12-04T19:15:37Z
   Vendor: Modetrend 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/sexy-schulterfreies-minikleid-vorderansicht.webp?v=1763489488
-  - [SKY BLUE / S](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511583453529)
+  - [SKY BLUE / S](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511583453529)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/sexy-schulterfreies-minikleid-vorderansicht.webp?v=1763489488
     Price: 27,99 € EUR
-  - [black / XXXL](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511583486297)
+  - [black / XXXL](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511583486297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/sommer-party-minikleid-outfit.webp?v=1762175780
     Price: 27,99 € EUR
-  - [SKY BLUE / L](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511583519065)
+  - [SKY BLUE / L](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511583519065)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/sexy-schulterfreies-minikleid-vorderansicht.webp?v=1763489488
     Price: 27,99 € EUR
-  - [SKY BLUE / M](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511583551833)
+  - [SKY BLUE / M](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511583551833)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/sexy-schulterfreies-minikleid-vorderansicht.webp?v=1763489488
     Price: 27,99 € EUR
-  - [SKY BLUE / XXL](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511583584601)
+  - [SKY BLUE / XXL](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511583584601)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/sexy-schulterfreies-minikleid-vorderansicht.webp?v=1763489488
     Price: 27,99 € EUR
-  - [SKY BLUE / XL](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511583617369)
+  - [SKY BLUE / XL](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511583617369)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/sexy-schulterfreies-minikleid-vorderansicht.webp?v=1763489488
     Price: 27,99 € EUR
-  - [Pink / S](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511583650137)
+  - [Pink / S](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511583650137)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/elegant-off-shoulder-dress-closeup.webp?v=1762175811
     Price: 27,99 € EUR
-  - [SKY BLUE / XXXL](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511583682905)
+  - [SKY BLUE / XXXL](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511583682905)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/sexy-schulterfreies-minikleid-vorderansicht.webp?v=1763489488
     Price: 27,99 € EUR
-  - [Beige / XXL](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511583715673)
+  - [Beige / XXL](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511583715673)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/schulterfreies-minikleid-rueckansicht.webp?v=1763881519
     Price: 27,99 € EUR
-  - [Beige / XL](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511583748441)
+  - [Beige / XL](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511583748441)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/schulterfreies-minikleid-rueckansicht.webp?v=1763881519
     Price: 27,99 € EUR
-  - [black / S](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511583781209)
+  - [black / S](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511583781209)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/sommer-party-minikleid-outfit.webp?v=1762175780
     Price: 27,99 € EUR
-  - [Beige / XXXL](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511583813977)
+  - [Beige / XXXL](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511583813977)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/schulterfreies-minikleid-rueckansicht.webp?v=1763881519
     Price: 27,99 € EUR
-  - [black / L](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511583846745)
+  - [black / L](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511583846745)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/sommer-party-minikleid-outfit.webp?v=1762175780
     Price: 27,99 € EUR
-  - [black / M](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511583879513)
+  - [black / M](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511583879513)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/sommer-party-minikleid-outfit.webp?v=1762175780
     Price: 27,99 € EUR
-  - [black / XXL](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511583912281)
+  - [black / XXL](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511583912281)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/sommer-party-minikleid-outfit.webp?v=1762175780
     Price: 27,99 € EUR
-  - [black / XL](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511583945049)
+  - [black / XL](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511583945049)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/sommer-party-minikleid-outfit.webp?v=1762175780
     Price: 27,99 € EUR
-  - [Beige / S](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511583977817)
+  - [Beige / S](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511583977817)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/schulterfreies-minikleid-rueckansicht.webp?v=1763881519
     Price: 27,99 € EUR
-  - [Beige / L](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511584010585)
+  - [Beige / L](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511584010585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/schulterfreies-minikleid-rueckansicht.webp?v=1763881519
     Price: 27,99 € EUR
-  - [Beige / M](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511584043353)
+  - [Beige / M](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511584043353)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/schulterfreies-minikleid-rueckansicht.webp?v=1763881519
     Price: 27,99 € EUR
-  - [Pink / L](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511584076121)
+  - [Pink / L](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511584076121)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/elegant-off-shoulder-dress-closeup.webp?v=1762175811
     Price: 27,99 € EUR
-  - [Pink / M](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511584108889)
+  - [Pink / M](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511584108889)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/elegant-off-shoulder-dress-closeup.webp?v=1762175811
     Price: 27,99 € EUR
-  - [Pink / XXL](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511584141657)
+  - [Pink / XXL](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511584141657)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/elegant-off-shoulder-dress-closeup.webp?v=1762175811
     Price: 27,99 € EUR
-  - [Pink / XL](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511584174425)
+  - [Pink / XL](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511584174425)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/elegant-off-shoulder-dress-closeup.webp?v=1762175811
     Price: 27,99 € EUR
-  - [Pink / XXXL](https://modetrend.org/products/sexy-schulterfreies-minikleidsommerliches-sexy-schulterfreies-minikleid-mit-halben-rmeln-f-r-damen-einfarbiges-partykleid-schulterfreies-figurbetontes-kleid-mit-schleife-modische-faltenkleider?variant=56511584207193)
+  - [Pink / XXXL](https://modetrend.org/products/schulterfreies-elegantes-minikleid-sommerlich?variant=56511584207193)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0826/3430/9977/files/elegant-off-shoulder-dress-closeup.webp?v=1762175811
     Price: 27,99 € EUR
@@ -3094,7 +3094,7 @@
 ## Collections
 
 - [Kleidungsstücke für jeden Anlass – APPPlaza Bestseller Trendmode](https://modetrend.org/collections/kleidungsstucke-fur-jeden-anlass): Entdecken Sie die APPPlaza-Kollektion: Kleidungsstücke für jeden Anlass. Von Bestseller-Trendmode bis zu zeitlosen Klassikern – finden Sie die perfekte Garderobe für jede Gelegenheit!
-  Updated: 2025-11-30T06:22:44Z
+  Updated: 2025-12-04T19:15:36Z
   Total Products: 53
 - [Einkauf - FreeWave Fashion](https://modetrend.org/collections/einkauf): - FreeWave Fashion
   Updated: 2025-06-18T04:42:38Z
@@ -3112,7 +3112,7 @@
   Updated: 2025-10-17T22:01:13Z
   Total Products: 6
 - [Vervevoll](https://modetrend.org/collections/vervevoll)
-  Updated: 2025-11-29T19:59:00Z
+  Updated: 2025-12-04T19:15:36Z
   Total Products: 10
 - [Glanzsicht](https://modetrend.org/collections/glanzsicht)
   Updated: 2025-12-01T00:13:00Z
