@@ -6,7 +6,7 @@
 - Timezone: Asia/Dhaka
 - Created At: 2025-11-11T03:32:35Z
 - Contact Email: elevrafashion@gmail.com
-- Updated At: 2025-12-02T00:02:17.607Z
+- Updated At: 2025-12-05T00:00:43.171Z
 
 ## Products
 
@@ -8246,7 +8246,7 @@
     Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/f1e05f65-4ada-4e92-9ad4-ddddf0d18951.jpg?v=1764057667
     Price: $75.19 USD
 - [womens denim vest women’s denim vest pants set](https://elevra.online/products/2pcs-casual-hollow-suit-with-short-sleeved-crop-top-and-elastic-slit-shorts-summer-fashion-sport-clothing-for-women): womens denim vest Stylish women’s denim vest top and wide-leg pants set with buttons and pockets—perfect for chic, modern, all-day fashion comfort.
-  Updated: 2025-11-27T14:06:56Z
+  Updated: 2025-12-04T04:30:40Z
   Vendor: null
   Product Type: 4
   Availability: Available
@@ -8905,22 +8905,2858 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/907fb415-779f-4169-abf0-65c6f16b79bf.jpg?v=1764252812
     Price: $79.45 USD
-[List Continued](https://elevra.online/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDAxMTQzNDc0NjE1MiwibGFzdF92YWx1ZSI6IjEwMDExNDM0NzQ2MTUyIn0=)
+- [Family Christmas Matching Pajamas Set Christmas Pajamas For Family Christmas PJS Xmas Sleepwear](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear): Product information: Applicable gender: unisex / both men and women Parent-child wear category: home wear Applicable people: family wear Fabric technology: soft treatment Thickness: General Elements: suit, plaid, pastoral, cartoon, cute, printing, color matching, parent-child, trendy fan, Europe and America AQL sampling standard: 2.5 Flat stitch gauge 12~14 stitches/3cm: yes Whether the hair/miscellaneous thread is trimmed: all trimmed clean Fabric name: cotton Main fabric composition: cotton Main fabric content: 95 (%) Safety level: Class A Color: picture color Suitable Height: Dad S, Dad M, Dad L, Dad XL, Dad 2XL, Dad 3XL, Dad 4XL, Mom S, Mom M, Mom L, Mom XL, Mom 2XL, Mom 3XL, Mom 4XL, Baby 6, Baby 9 , Baby 12, Baby 18, Child 2, Child 3, Child 4, Child 5, Child 6, Child 8, Child 10, Child 12, Child 14, Dog S, Dog M, Dog L, Dog XL Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Pajamas*1 Product Image:
+  Updated: 2025-12-03T22:39:59Z
+  Vendor: null
+  Product Type: 4
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c.jpg?v=1764758391
+  - [Picture color / Dad S](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138899476776)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $49.64 USD
+  - [Picture color / Dad M](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138899509544)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $49.64 USD
+  - [Picture color / Dad L](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138899542312)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $49.64 USD
+  - [Picture color / Dad XL](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138899575080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $49.64 USD
+  - [Picture color / Dad 2XL](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138899607848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $49.64 USD
+  - [Picture color / Dad 3XL](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138899640616)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $49.64 USD
+  - [Picture color / Dad 4XL](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138899673384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $49.64 USD
+  - [Picture color / Mom S](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138899706152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $49.64 USD
+  - [Picture color / Mom M](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138899738920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $49.64 USD
+  - [Picture color / Mom L](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138899771688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $49.64 USD
+  - [Picture color / Mom XL](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138899804456)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $49.64 USD
+  - [Picture color / Mom 2XL](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138899837224)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $49.64 USD
+  - [Picture color / Mom 3XL](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138899869992)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $49.64 USD
+  - [Picture color / Mom 4XL](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138899902760)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $49.64 USD
+  - [Picture color / Baby 6M](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138899935528)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $39.08 USD
+  - [Picture color / Baby 9M](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138899968296)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $39.08 USD
+  - [Picture color / Baby 12M](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138900001064)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $39.08 USD
+  - [Picture color / Baby 18M](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138900033832)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $39.08 USD
+  - [Picture color / Child 2T](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138900066600)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $40.92 USD
+  - [Picture color / Child 3T](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138900099368)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $40.92 USD
+  - [Picture color / Child 4T](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138900132136)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $40.92 USD
+  - [Picture color / Child 5T](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138900164904)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $40.92 USD
+  - [Picture color / Child 6T](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138900197672)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $40.92 USD
+  - [Picture color / Child 8T](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138900230440)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $40.92 USD
+  - [Picture color / Child 10T](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138900263208)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $40.92 USD
+  - [Picture color / Child 12T](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138900295976)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $40.92 USD
+  - [Picture color / Child 14T](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138900328744)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e9eac314-4bd0-44d9-9351-7dd8624a687c_cf0b6847-d4fc-4753-900e-c3a5b7ca0936.jpg?v=1764758395
+    Price: $40.92 USD
+  - [Picture color / Dog S](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138900361512)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/391ab600-8f6e-45f9-8825-ce33b8cd8f92.jpg?v=1764758395
+    Price: $30.18 USD
+  - [Picture color / Dog M](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138900394280)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/391ab600-8f6e-45f9-8825-ce33b8cd8f92.jpg?v=1764758395
+    Price: $30.18 USD
+  - [Picture color / Dog L](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138900427048)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/391ab600-8f6e-45f9-8825-ce33b8cd8f92.jpg?v=1764758395
+    Price: $31.57 USD
+  - [Picture color / Dog XL](https://elevra.online/products/family-christmas-matching-pajamas-set-christmas-pajamas-for-family-christmas-pjs-xmas-sleepwear?variant=51138900459816)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/391ab600-8f6e-45f9-8825-ce33b8cd8f92.jpg?v=1764758395
+    Price: $30.18 USD
+- [Family Christmas Pajamas Matching Sets Red Stripe Xmas Holiday Sleepwear Jammies Long Sleeve PJs Outfits](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits): Product information: Applicable gender: unisex / both men and women Parent-child wear category: home wear Applicable people: family wear Fabric technology: soft treatment Thickness: General Elements: suit, plaid, pastoral, cartoon, cute, printing, color matching, parent-child, trendy fan, Europe and America AQL sampling standard: 2.5 Flat stitch gauge 12~14 stitches/3cm: yes Whether the hair/miscellaneous thread is trimmed: all trimmed clean Fabric name: cotton Main fabric composition: cotton Main fabric content: 95 (%) Safety level: Class A Color: picture color Suitable Height: Dad S, Dad M, Dad L, Dad XL, Dad 2XL, Dad 3XL, Dad 4XL, Mom S, Mom M, Mom L, Mom XL, Mom 2XL, Mom 3XL, Mom 4XL, Baby 6, Baby 9 , Baby 12, Baby 18, Child 2, Child 3, Child 4, Child 5, Child 6, Child 8, Child 10, Child 12, Child 14, Dog S, Dog M, Dog L, Dog XL Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Pajamas*1 Product Image:
+  Updated: 2025-12-03T22:40:33Z
+  Vendor: null
+  Product Type: 4
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116.jpg?v=1764758423
+  - [Picture color / Dad S](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138900918568)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $49.64 USD
+  - [Picture color / Dad M](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138900951336)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $49.64 USD
+  - [Picture color / Dad L](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138900984104)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $49.64 USD
+  - [Picture color / Dad XL](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901016872)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $49.64 USD
+  - [Picture color / Dad 2XL](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901049640)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $49.64 USD
+  - [Picture color / Dad 3XL](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901082408)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $49.64 USD
+  - [Picture color / Dad 4XL](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901115176)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $49.64 USD
+  - [Picture color / Mom S](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901147944)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $49.64 USD
+  - [Picture color / Mom M](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901180712)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $49.64 USD
+  - [Picture color / Mom L](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901213480)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $49.64 USD
+  - [Picture color / Mom XL](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901246248)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $49.64 USD
+  - [Picture color / Mom 2XL](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901279016)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $49.64 USD
+  - [Picture color / Mom 3XL](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901311784)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $49.64 USD
+  - [Picture color / Mom 4XL](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901344552)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $49.64 USD
+  - [Picture color / Baby 6M](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901377320)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $39.08 USD
+  - [Picture color / Baby 9M](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901410088)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $39.08 USD
+  - [Picture color / Baby 12M](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901442856)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $39.08 USD
+  - [Picture color / Baby 18M](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901475624)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $39.08 USD
+  - [Picture color / Child 2T](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901508392)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $40.92 USD
+  - [Picture color / Child 3T](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901541160)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $40.92 USD
+  - [Picture color / Child 4T](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901573928)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $40.92 USD
+  - [Picture color / Child 5T](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901606696)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $40.92 USD
+  - [Picture color / Child 6T](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901639464)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $40.92 USD
+  - [Picture color / Child 8T](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901672232)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $40.92 USD
+  - [Picture color / Child 10T](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901705000)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $40.92 USD
+  - [Picture color / Child 12T](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901737768)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $40.92 USD
+  - [Picture color / Child 14T](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901770536)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $40.92 USD
+  - [Picture color / Dog S](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901803304)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $30.18 USD
+  - [Picture color / Dog M](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901836072)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $30.18 USD
+  - [Picture color / Dog L](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901868840)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $30.18 USD
+  - [Picture color / Dog XL](https://elevra.online/products/family-christmas-pajamas-matching-sets-red-stripe-xmas-holiday-sleepwear-jammies-long-sleeve-pjs-outfits?variant=51138901901608)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d142b048-cb03-4924-aac7-26333ac7d116_97e30b8d-5777-4d8e-921e-9f77caf4d881.jpg?v=1764758427
+    Price: $30.18 USD
+- [Family Christmas Pajamas Matching Sets Christmas Sleepwear Parent-Child Pjs Outfit For Christmas Holiday Xmas Party](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party): Product information: Applicable gender: unisex / both men and women Parent-child wear category: home wear Applicable people: family wear Fabric technology: soft treatment Thickness: General element: letter AQL sampling standard: 2.5 Flat stitch gauge 12~14 stitches/3cm: yes Whether the hair/miscellaneous thread is trimmed: all trimmed clean Fabric name: cotton Main fabric composition: cotton Main fabric content: 95 (%) Safety level: Class A Color: black and white Suitable height: Dad S, Dad M, Dad L, Dad XL, Dad 2XL, Dad 3XL, Mom S, Mom M, Mom L, Mom XL, Mom 2XL, Mom 3XL, Child 2, Child 3 , Child 4, Child 5, Child 6, Child 8, Child 10, Child 12, Child 14 Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Pajamas*1 Product Image:
+  Updated: 2025-12-04T01:10:04Z
+  Vendor: null
+  Product Type: 4
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2e4718f8-aea2-47fd-9e35-e5d1a7750718.jpg?v=1764758455
+  - [Black and white / Dad S](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902065448)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $28.93 USD
+  - [Black and white / Dad M](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902098216)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $28.93 USD
+  - [Black and white / Dad L](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902130984)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $28.93 USD
+  - [Black and white / Dad XL](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902163752)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $28.93 USD
+  - [Black and white / Dad 2XL](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902196520)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $28.93 USD
+  - [Black and white / Dad 3XL](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902229288)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $28.93 USD
+  - [Black and white / Mom S](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902262056)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $28.93 USD
+  - [Black and white / Mom M](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902294824)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $28.93 USD
+  - [Black and white / Mom L](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902327592)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $28.93 USD
+  - [Black and white / Mom XL](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902360360)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $28.93 USD
+  - [Black and white / Mom 2XL](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902393128)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $28.93 USD
+  - [Black and white / Mom 3XL](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902425896)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $28.93 USD
+  - [Black and white / Child 2T](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902458664)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $24.40 USD
+  - [Black and white / Child 3T](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902491432)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $24.40 USD
+  - [Black and white / Child 4T](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902524200)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $24.40 USD
+  - [Black and white / Child 5T](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902556968)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $24.40 USD
+  - [Black and white / Child 6T](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902589736)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $24.40 USD
+  - [Black and white / Child 8T](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902622504)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $24.40 USD
+  - [Black and white / Child 10T](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902655272)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $24.40 USD
+  - [Black and white / Child 12T](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902688040)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $24.40 USD
+  - [Black and white / Child 14T](https://elevra.online/products/family-christmas-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902720808)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a17d086-dc6f-4710-ab5a-e4b1d1cc28e5.jpg?v=1764758458
+    Price: $24.40 USD
+- [Christmas Family Pajamas Matching Sets Christmas Sleepwear Parent-Child Pjs Outfit For Christmas Holiday Xmas Party](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party): Product information: Applicable gender: unisex / both men and women Parent-child wear category: home wear Applicable people: family wear Fabric technology: soft treatment Thickness: General Elements: suit, plaid, pastoral, cartoon, cute, printing, color matching, parent-child, trendy fan, Europe and America AQL sampling standard: 2.5 Flat stitch gauge 12~14 stitches/3cm: yes Whether the hair/miscellaneous thread is trimmed: all trimmed clean Fabric name: cotton Main fabric composition: cotton Main fabric content: 95 (%) Safety level: Class A Color: red Suitable Height: Dad S, Dad M, Dad L, Dad XL, Dad 2XL, Dad 3XL, Dad 4XL, Mom S, Mom M, Mom L, Mom XL, Mom 2XL, Mom 3XL, Mom 4XL, Baby 6, Baby 9 , Baby 12, Baby 18, Child 2, Child 3, Child 4, Child 5, Child 6, Child 8, Child 10, Child 12, Child 14, Dog S, Dog M, Dog L, Dog XL Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Pajamas*1 Product Image:
+  Updated: 2025-12-03T23:32:16Z
+  Vendor: null
+  Product Type: 4
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a.jpg?v=1764758485
+  - [Red / Dad S](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902884648)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $29.46 USD
+  - [Red / Dad M](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902917416)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $29.46 USD
+  - [Red / Dad L](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902950184)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $29.46 USD
+  - [Red / Dad XL](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138902982952)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $45.13 USD
+  - [Red / Dad 2XL](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903015720)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $29.46 USD
+  - [Red / Dad 3XL](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903048488)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $29.46 USD
+  - [Red / Dad 4XL](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903081256)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $29.46 USD
+  - [Red / Mom S](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903114024)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $29.46 USD
+  - [Red / Mom M](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903146792)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $29.46 USD
+  - [Red / Mom L](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903179560)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $46.33 USD
+  - [Red / XL](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903212328)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $29.46 USD
+  - [Red / Mom 2XL](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903245096)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $29.46 USD
+  - [Red / Mom 3XL](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903277864)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $29.46 USD
+  - [Red / Mom 4XL](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903310632)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $29.46 USD
+  - [Red / Baby 6M](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903343400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $24.93 USD
+  - [Red / Baby 9M](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903376168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $24.93 USD
+  - [Red / Baby 12M](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903408936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $24.93 USD
+  - [Red / Baby 18M](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903441704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $24.93 USD
+  - [Red / Child 2T](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903474472)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $25.72 USD
+  - [Red / Child 3T](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903507240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $25.72 USD
+  - [Red / Child 4T](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903540008)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $34.60 USD
+  - [Red / Child 5T](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903572776)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $29.46 USD
+  - [Red / Child 6T](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903605544)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $25.72 USD
+  - [Red / Child 8T](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903638312)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $25.72 USD
+  - [Red / Child 10T](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903671080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $25.72 USD
+  - [Red / Child 12T](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903703848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $25.72 USD
+  - [Red / Child 14T](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903736616)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $25.72 USD
+  - [Red / Dog S](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903769384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $21.11 USD
+  - [Red / Dog M](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903802152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $21.11 USD
+  - [Red / Dog L](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903834920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $21.11 USD
+  - [Red / Dog XL](https://elevra.online/products/christmas-family-pajamas-matching-sets-christmas-sleepwear-parent-child-pjs-outfit-for-christmas-holiday-xmas-party?variant=51138903867688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ba9ff1-41fa-46d6-a283-e82e4aeb254a_39ac9508-7024-4d27-9920-0497bfaebc5c.jpg?v=1764758489
+    Price: $21.11 USD
+- [Christmas Cute Dog Cat Plush Ball Necklace Soft Elasticity Collar Pet Neck Accessories Dog Christmas Collar With Bow](https://elevra.online/products/christmas-cute-dog-cat-plush-ball-necklace-soft-elasticity-collar-pet-neck-accessories-dog-christmas-collar-with-bow): Overview: Dog Scarf ChristmasMaterial: Soft Plush: Crafted from plush material, this collar offers a soft, cozy touch for your pet's comfort. Design: Cute Dog Cat Plush Ball Necklace: Featuring a cute plush ball design, this collar adds a festive charm to your pet's look. Elasticity: Soft Elasticity: With soft elasticity, the collar provides a snug fit for your pet, ensuring safety and comfort. Type: Christmas Dog Accessory: Perfect as a Christmas dog accessory, this collar adds a festive touch to your pet's holiday outfit. Applicable People: Pet Owners: Designed for pet owners, this collar is a delightful addition to your pet's Christmas attire. Product information: Color: green leaves, golden leaves Specifications: S size 20cm,M size 25cm,L size 30cm,XL size 35cm Material: Polyester Applicable object: general Applicable holiday: Christmas Packing list: 1* Pet Collar Product Image:
+  Updated: 2025-12-04T01:26:52Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/02ba5e18-9ee9-434f-8da8-2a145f15a072.jpg?v=1764758520
+  - [Green Leaves / S Size 20cm](https://elevra.online/products/christmas-cute-dog-cat-plush-ball-necklace-soft-elasticity-collar-pet-neck-accessories-dog-christmas-collar-with-bow?variant=51138905637160)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9278c5af-b463-4884-80d3-47b9479fae78.jpg?v=1764758525
+    Price: $11.07 USD
+  - [Green Leaves / M Size 25cm](https://elevra.online/products/christmas-cute-dog-cat-plush-ball-necklace-soft-elasticity-collar-pet-neck-accessories-dog-christmas-collar-with-bow?variant=51138905669928)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9278c5af-b463-4884-80d3-47b9479fae78.jpg?v=1764758525
+    Price: $11.07 USD
+  - [Green Leaves / L Size 30cm](https://elevra.online/products/christmas-cute-dog-cat-plush-ball-necklace-soft-elasticity-collar-pet-neck-accessories-dog-christmas-collar-with-bow?variant=51138905702696)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9278c5af-b463-4884-80d3-47b9479fae78.jpg?v=1764758525
+    Price: $11.07 USD
+  - [Green Leaves / XL Size 35cm](https://elevra.online/products/christmas-cute-dog-cat-plush-ball-necklace-soft-elasticity-collar-pet-neck-accessories-dog-christmas-collar-with-bow?variant=51138905735464)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9278c5af-b463-4884-80d3-47b9479fae78.jpg?v=1764758525
+    Price: $11.07 USD
+  - [Golden Leaves / S Size 20cm](https://elevra.online/products/christmas-cute-dog-cat-plush-ball-necklace-soft-elasticity-collar-pet-neck-accessories-dog-christmas-collar-with-bow?variant=51138905768232)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2177e805-bfd8-40b5-96e0-472024a26f11.jpg?v=1764758525
+    Price: $11.07 USD
+  - [Golden Leaves / M Size 25cm](https://elevra.online/products/christmas-cute-dog-cat-plush-ball-necklace-soft-elasticity-collar-pet-neck-accessories-dog-christmas-collar-with-bow?variant=51138905801000)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2177e805-bfd8-40b5-96e0-472024a26f11.jpg?v=1764758525
+    Price: $11.07 USD
+  - [Golden Leaves / L Size 30cm](https://elevra.online/products/christmas-cute-dog-cat-plush-ball-necklace-soft-elasticity-collar-pet-neck-accessories-dog-christmas-collar-with-bow?variant=51138905833768)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2177e805-bfd8-40b5-96e0-472024a26f11.jpg?v=1764758525
+    Price: $11.07 USD
+  - [Golden Leaves / XL Size 35cm](https://elevra.online/products/christmas-cute-dog-cat-plush-ball-necklace-soft-elasticity-collar-pet-neck-accessories-dog-christmas-collar-with-bow?variant=51138905866536)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2177e805-bfd8-40b5-96e0-472024a26f11.jpg?v=1764758525
+    Price: $11.07 USD
+- [Pet Hat Christmas Tree Shape](https://elevra.online/products/pet-hat-christmas-tree-shape): Product information: Material: fluff, fur ball, gold silk Color: red, green Crown style: Dome Main fabric components: Other Size: S,M,L Suitable season: spring and autumn Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1 * pet hat Product Image:
+  Updated: 2025-12-03T22:42:39Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e90a236d-406f-47db-894f-24e10d8b5125.jpg?v=1764758550
+  - [Red / S](https://elevra.online/products/pet-hat-christmas-tree-shape?variant=51138906325288)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/aeb05d26-0f47-4448-b799-c4e023f95f20.jpg?v=1764758559
+    Price: $14.87 USD
+  - [Red / M](https://elevra.online/products/pet-hat-christmas-tree-shape?variant=51138906358056)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/aeb05d26-0f47-4448-b799-c4e023f95f20.jpg?v=1764758559
+    Price: $14.87 USD
+  - [Red / L](https://elevra.online/products/pet-hat-christmas-tree-shape?variant=51138906390824)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/aeb05d26-0f47-4448-b799-c4e023f95f20.jpg?v=1764758559
+    Price: $14.87 USD
+  - [Green / M](https://elevra.online/products/pet-hat-christmas-tree-shape?variant=51138906423592)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/55764897-dc9d-4627-ace5-9b9ddd3ab16f.jpg?v=1764758559
+    Price: $14.87 USD
+  - [Green / L](https://elevra.online/products/pet-hat-christmas-tree-shape?variant=51138906456360)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/55764897-dc9d-4627-ace5-9b9ddd3ab16f.jpg?v=1764758559
+    Price: $14.87 USD
+  - [Green / Drool bib](https://elevra.online/products/pet-hat-christmas-tree-shape?variant=51138906489128)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/83e1815f-00b0-4823-a574-47ea704e41e6.jpg?v=1764758559
+    Price: $8.90 USD
+  - [Red / Drool bib](https://elevra.online/products/pet-hat-christmas-tree-shape?variant=51138906521896)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0238842d-4284-4dad-a3a1-52868502655f.jpg?v=1764758559
+    Price: $8.90 USD
+  - [Green set / L](https://elevra.online/products/pet-hat-christmas-tree-shape?variant=51138906554664)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6d718d2a-0195-4684-9ca2-e3ee50abd56e.jpg?v=1764758559
+    Price: $18.27 USD
+  - [Green set / M](https://elevra.online/products/pet-hat-christmas-tree-shape?variant=51138906587432)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6d718d2a-0195-4684-9ca2-e3ee50abd56e.jpg?v=1764758559
+    Price: $18.27 USD
+  - [Red set / L](https://elevra.online/products/pet-hat-christmas-tree-shape?variant=51138906620200)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/46d96dee-1b5d-4d1c-a5ae-a36c0d9c25b4.jpg?v=1764758559
+    Price: $18.27 USD
+  - [Red set / M](https://elevra.online/products/pet-hat-christmas-tree-shape?variant=51138906652968)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/46d96dee-1b5d-4d1c-a5ae-a36c0d9c25b4.jpg?v=1764758559
+    Price: $18.27 USD
+  - [Red set / S](https://elevra.online/products/pet-hat-christmas-tree-shape?variant=51138906685736)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/46d96dee-1b5d-4d1c-a5ae-a36c0d9c25b4.jpg?v=1764758559
+    Price: $18.27 USD
+- [Fashion Christmas Clothes Green Elf Pet Dog Christmas Costume](https://elevra.online/products/fashion-christmas-clothes-green-elf-pet-dog-christmas-costume): Overview: 1.【Enjoy Christmas with Your Dog】Christmas is coming, Let your pup wear it now and get Santa running in the house. 2.【Suitable】Suitable for Spring Winter or Autumn. Keeps your pet warm and cozy throughout any outdoor activity. 3.【Convenient & Adjustable】Design of saddle-shaped clothes, it is easier to wear for your dog. Specification: Material: Cotton Product Category: Two-legged clothing Style: Casual Applicable gender: general Color: red, green Size: S bust can be adjusted 36-48cm, M bust can be adjusted 47-60cm, L bust can be adjusted 56-68cm, XL bust can be adjusted 64-80cm, XXL bust can be adjusted 76-94cm Size Information: S code Back length: 26cm Bust adjustable range: 36-48cm M size Back length: 32cm Bust adjustable range: 47-60cm L size Back length: 41cm Bust adjustable range: 56-68cm XL size Back length: 49cm Bust adjustable range: 64-80cm XXL code Back length: 59cm Bust adjustable range: 76-94cm Packing Content: Dog clothes*1 Product Image:
+  Updated: 2025-12-04T02:12:41Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/27579a9f-262a-4b92-95ac-d616dea146a7.jpg?v=1764758585
+  - [Red / S](https://elevra.online/products/fashion-christmas-clothes-green-elf-pet-dog-christmas-costume?variant=51138906915112)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/27579a9f-262a-4b92-95ac-d616dea146a7_c27698b8-2ebc-4c99-9b16-a54d1ea65832.jpg?v=1764758589
+    Price: $44.97 USD
+  - [Red / M](https://elevra.online/products/fashion-christmas-clothes-green-elf-pet-dog-christmas-costume?variant=51138906947880)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/27579a9f-262a-4b92-95ac-d616dea146a7_c27698b8-2ebc-4c99-9b16-a54d1ea65832.jpg?v=1764758589
+    Price: $45.88 USD
+  - [Red / L](https://elevra.online/products/fashion-christmas-clothes-green-elf-pet-dog-christmas-costume?variant=51138906980648)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/27579a9f-262a-4b92-95ac-d616dea146a7_c27698b8-2ebc-4c99-9b16-a54d1ea65832.jpg?v=1764758589
+    Price: $46.45 USD
+  - [Red / XL](https://elevra.online/products/fashion-christmas-clothes-green-elf-pet-dog-christmas-costume?variant=51138907013416)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/27579a9f-262a-4b92-95ac-d616dea146a7_c27698b8-2ebc-4c99-9b16-a54d1ea65832.jpg?v=1764758589
+    Price: $46.90 USD
+  - [Red / 2XL](https://elevra.online/products/fashion-christmas-clothes-green-elf-pet-dog-christmas-costume?variant=51138907046184)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/27579a9f-262a-4b92-95ac-d616dea146a7_c27698b8-2ebc-4c99-9b16-a54d1ea65832.jpg?v=1764758589
+    Price: $47.81 USD
+  - [Green / S](https://elevra.online/products/fashion-christmas-clothes-green-elf-pet-dog-christmas-costume?variant=51138907078952)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/1cab56ae-b42a-42b6-b46c-41f8d39ccdaa.jpg?v=1764758589
+    Price: $26.74 USD
+  - [Green / M](https://elevra.online/products/fashion-christmas-clothes-green-elf-pet-dog-christmas-costume?variant=51138907111720)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/1cab56ae-b42a-42b6-b46c-41f8d39ccdaa.jpg?v=1764758589
+    Price: $28.21 USD
+  - [Green / L](https://elevra.online/products/fashion-christmas-clothes-green-elf-pet-dog-christmas-costume?variant=51138907144488)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/1cab56ae-b42a-42b6-b46c-41f8d39ccdaa.jpg?v=1764758589
+    Price: $30.43 USD
+  - [Green / XL](https://elevra.online/products/fashion-christmas-clothes-green-elf-pet-dog-christmas-costume?variant=51138907177256)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/1cab56ae-b42a-42b6-b46c-41f8d39ccdaa.jpg?v=1764758589
+    Price: $32.98 USD
+  - [Green / 2XL](https://elevra.online/products/fashion-christmas-clothes-green-elf-pet-dog-christmas-costume?variant=51138907210024)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/1cab56ae-b42a-42b6-b46c-41f8d39ccdaa.jpg?v=1764758589
+    Price: $36.79 USD
+- [Men's Christmas Jacquard Sweater Button Cardigan Sweater Coat](https://elevra.online/products/mens-christmas-jacquard-sweater-button-cardigan-sweater-coat): Product information: Color: green, red, black Size: M,L,XL,3XL,2XL Thickness: thickening Fabric name: little lamb sunny Main fabric composition: Polyester Fiber (polyester) Applicable Gender: Male Sleeve length: long sleeve Craft: Jacquard Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1*Sweater Product Image:
+  Updated: 2025-12-04T06:11:48Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e41df8ca-2771-44ab-b8fb-a7c16c0f2446.jpg?v=1764758618
+  - [Green / M](https://elevra.online/products/mens-christmas-jacquard-sweater-button-cardigan-sweater-coat?variant=51138907439400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/8727d1b0-678e-4e11-a131-3a0322944242.jpg?v=1764758623
+    Price: $64.65 USD
+  - [Green / L](https://elevra.online/products/mens-christmas-jacquard-sweater-button-cardigan-sweater-coat?variant=51138907472168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/8727d1b0-678e-4e11-a131-3a0322944242.jpg?v=1764758623
+    Price: $64.65 USD
+  - [Green / XL](https://elevra.online/products/mens-christmas-jacquard-sweater-button-cardigan-sweater-coat?variant=51138907504936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/8727d1b0-678e-4e11-a131-3a0322944242.jpg?v=1764758623
+    Price: $64.65 USD
+  - [Green / 3XL](https://elevra.online/products/mens-christmas-jacquard-sweater-button-cardigan-sweater-coat?variant=51138907537704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/8727d1b0-678e-4e11-a131-3a0322944242.jpg?v=1764758623
+    Price: $64.65 USD
+  - [Green / 2XL](https://elevra.online/products/mens-christmas-jacquard-sweater-button-cardigan-sweater-coat?variant=51138907570472)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/8727d1b0-678e-4e11-a131-3a0322944242.jpg?v=1764758623
+    Price: $64.65 USD
+  - [Red / M](https://elevra.online/products/mens-christmas-jacquard-sweater-button-cardigan-sweater-coat?variant=51138907603240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/1c3ad172-b414-4686-88dc-4edb7aa96a9b.jpg?v=1764758624
+    Price: $64.65 USD
+  - [Red / L](https://elevra.online/products/mens-christmas-jacquard-sweater-button-cardigan-sweater-coat?variant=51138907636008)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/1c3ad172-b414-4686-88dc-4edb7aa96a9b.jpg?v=1764758624
+    Price: $64.65 USD
+  - [Red / XL](https://elevra.online/products/mens-christmas-jacquard-sweater-button-cardigan-sweater-coat?variant=51138907668776)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/1c3ad172-b414-4686-88dc-4edb7aa96a9b.jpg?v=1764758624
+    Price: $64.65 USD
+  - [Red / 3XL](https://elevra.online/products/mens-christmas-jacquard-sweater-button-cardigan-sweater-coat?variant=51138907701544)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/1c3ad172-b414-4686-88dc-4edb7aa96a9b.jpg?v=1764758624
+    Price: $64.65 USD
+  - [Red / 2XL](https://elevra.online/products/mens-christmas-jacquard-sweater-button-cardigan-sweater-coat?variant=51138907734312)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/1c3ad172-b414-4686-88dc-4edb7aa96a9b.jpg?v=1764758624
+    Price: $64.65 USD
+  - [Black / M](https://elevra.online/products/mens-christmas-jacquard-sweater-button-cardigan-sweater-coat?variant=51138907767080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/cc5f568f-71b6-48d8-9137-e02710fc2121.jpg?v=1764758624
+    Price: $64.65 USD
+  - [Black / L](https://elevra.online/products/mens-christmas-jacquard-sweater-button-cardigan-sweater-coat?variant=51138907799848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/cc5f568f-71b6-48d8-9137-e02710fc2121.jpg?v=1764758624
+    Price: $64.65 USD
+  - [Black / XL](https://elevra.online/products/mens-christmas-jacquard-sweater-button-cardigan-sweater-coat?variant=51138907832616)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/cc5f568f-71b6-48d8-9137-e02710fc2121.jpg?v=1764758624
+    Price: $64.65 USD
+  - [Black / 3XL](https://elevra.online/products/mens-christmas-jacquard-sweater-button-cardigan-sweater-coat?variant=51138907865384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/cc5f568f-71b6-48d8-9137-e02710fc2121.jpg?v=1764758624
+    Price: $64.65 USD
+  - [Black / 2XL](https://elevra.online/products/mens-christmas-jacquard-sweater-button-cardigan-sweater-coat?variant=51138907898152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/cc5f568f-71b6-48d8-9137-e02710fc2121.jpg?v=1764758624
+    Price: $64.65 USD
+- [Christmas Sweater Men's Round Neck Loose Jacquard Knitwear](https://elevra.online/products/christmas-sweater-mens-round-neck-loose-jacquard-knitwear): Product information: Color: Red, Navy Blue Size: S, M, L, XL, XXL Style: Sweater Thickness: Regular Fabric Name: Synthetic Fiber Blend Main Fabric Composition: Polyester Applicable Gender: Male Sleeve Length: Long Sleeve Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1*Knitwear Product Image:
+  Updated: 2025-12-03T22:44:18Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/543c4a79-8206-4af2-8e78-1f304db64a28.jpg?v=1764758652
+  - [Red / S](https://elevra.online/products/christmas-sweater-mens-round-neck-loose-jacquard-knitwear?variant=51138908324136)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/43e0fb2d-c60c-4a3c-ac05-a696e1c493ea.jpg?v=1764758657
+    Price: $46.28 USD
+  - [Red / M](https://elevra.online/products/christmas-sweater-mens-round-neck-loose-jacquard-knitwear?variant=51138908356904)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/43e0fb2d-c60c-4a3c-ac05-a696e1c493ea.jpg?v=1764758657
+    Price: $46.28 USD
+  - [Red / L](https://elevra.online/products/christmas-sweater-mens-round-neck-loose-jacquard-knitwear?variant=51138908389672)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/43e0fb2d-c60c-4a3c-ac05-a696e1c493ea.jpg?v=1764758657
+    Price: $46.28 USD
+  - [Red / XL](https://elevra.online/products/christmas-sweater-mens-round-neck-loose-jacquard-knitwear?variant=51138908422440)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/43e0fb2d-c60c-4a3c-ac05-a696e1c493ea.jpg?v=1764758657
+    Price: $46.28 USD
+  - [Red / 2XL](https://elevra.online/products/christmas-sweater-mens-round-neck-loose-jacquard-knitwear?variant=51138908455208)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/43e0fb2d-c60c-4a3c-ac05-a696e1c493ea.jpg?v=1764758657
+    Price: $46.28 USD
+  - [Purplish Blue / S](https://elevra.online/products/christmas-sweater-mens-round-neck-loose-jacquard-knitwear?variant=51138908487976)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/87641da4-2476-488e-adf9-1c530e2d18da.jpg?v=1764758657
+    Price: $46.28 USD
+  - [Purplish Blue / M](https://elevra.online/products/christmas-sweater-mens-round-neck-loose-jacquard-knitwear?variant=51138908520744)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/87641da4-2476-488e-adf9-1c530e2d18da.jpg?v=1764758657
+    Price: $46.28 USD
+  - [Purplish Blue / L](https://elevra.online/products/christmas-sweater-mens-round-neck-loose-jacquard-knitwear?variant=51138908553512)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/87641da4-2476-488e-adf9-1c530e2d18da.jpg?v=1764758657
+    Price: $46.28 USD
+  - [Purplish Blue / XL](https://elevra.online/products/christmas-sweater-mens-round-neck-loose-jacquard-knitwear?variant=51138908586280)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/87641da4-2476-488e-adf9-1c530e2d18da.jpg?v=1764758657
+    Price: $46.28 USD
+  - [Purplish Blue / 2XL](https://elevra.online/products/christmas-sweater-mens-round-neck-loose-jacquard-knitwear?variant=51138908619048)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/87641da4-2476-488e-adf9-1c530e2d18da.jpg?v=1764758657
+    Price: $46.28 USD
+- [Christmas Retro Round-neck Cable Knit Sweater](https://elevra.online/products/christmas-retro-round-neck-cable-knit-sweater): Product information: Color: Red Size: S, M, L, XL Style: Sweater Thickness: Thick Fabric Name: Acrylic Main Fabric Composition: Acrylic Sleeve Length: Long Sleeve Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1*Sweater Product Image:
+  Updated: 2025-12-03T23:39:59Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e2c202ff-3c80-457c-8246-e3b7df7427a2.jpg?v=1764758679
+  - [Red / S](https://elevra.online/products/christmas-retro-round-neck-cable-knit-sweater?variant=51138908750120)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/426c8d68-e8ba-4b18-b4de-251dc5436067.jpg?v=1764758683
+    Price: $54.94 USD
+  - [Red / M](https://elevra.online/products/christmas-retro-round-neck-cable-knit-sweater?variant=51138908782888)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/426c8d68-e8ba-4b18-b4de-251dc5436067.jpg?v=1764758683
+    Price: $54.94 USD
+  - [Red / L](https://elevra.online/products/christmas-retro-round-neck-cable-knit-sweater?variant=51138908815656)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/426c8d68-e8ba-4b18-b4de-251dc5436067.jpg?v=1764758683
+    Price: $54.94 USD
+  - [Red / XL](https://elevra.online/products/christmas-retro-round-neck-cable-knit-sweater?variant=51138908848424)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/426c8d68-e8ba-4b18-b4de-251dc5436067.jpg?v=1764758683
+    Price: $54.94 USD
+- [Men's New Fashion Knitted Jacquard Loose Round Neck Pullover Sweater For Autumn And Winter And Christmas](https://elevra.online/products/mens-new-fashion-knitted-jacquard-loose-round-neck-pullover-sweater-for-autumn-and-winter-and-christmas): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Color: green, white Size: M,L,XL,2XL,3XL Version: Loose Applicable people: Youth Main fabric composition: viscose Applicable Gender: Male Sleeve length: long sleeve Craft: Jacquard Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweater X1pcs Product Image:
+  Updated: 2025-12-03T23:39:36Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9c575440-aa1f-49bd-a8ce-79cac392ab35.jpg?v=1764758706
+  - [Green / M](https://elevra.online/products/mens-new-fashion-knitted-jacquard-loose-round-neck-pullover-sweater-for-autumn-and-winter-and-christmas?variant=51138908979496)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9c575440-aa1f-49bd-a8ce-79cac392ab35_66577295-6cb8-4115-b0c6-b4cbe9306e62.jpg?v=1764758709
+    Price: $57.72 USD
+  - [Green / L](https://elevra.online/products/mens-new-fashion-knitted-jacquard-loose-round-neck-pullover-sweater-for-autumn-and-winter-and-christmas?variant=51138909012264)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9c575440-aa1f-49bd-a8ce-79cac392ab35_66577295-6cb8-4115-b0c6-b4cbe9306e62.jpg?v=1764758709
+    Price: $57.72 USD
+  - [Green / XL](https://elevra.online/products/mens-new-fashion-knitted-jacquard-loose-round-neck-pullover-sweater-for-autumn-and-winter-and-christmas?variant=51138909045032)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9c575440-aa1f-49bd-a8ce-79cac392ab35_66577295-6cb8-4115-b0c6-b4cbe9306e62.jpg?v=1764758709
+    Price: $57.72 USD
+  - [Green / 2XL](https://elevra.online/products/mens-new-fashion-knitted-jacquard-loose-round-neck-pullover-sweater-for-autumn-and-winter-and-christmas?variant=51138909077800)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9c575440-aa1f-49bd-a8ce-79cac392ab35_66577295-6cb8-4115-b0c6-b4cbe9306e62.jpg?v=1764758709
+    Price: $57.72 USD
+  - [Green / 3XL](https://elevra.online/products/mens-new-fashion-knitted-jacquard-loose-round-neck-pullover-sweater-for-autumn-and-winter-and-christmas?variant=51138909110568)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9c575440-aa1f-49bd-a8ce-79cac392ab35_66577295-6cb8-4115-b0c6-b4cbe9306e62.jpg?v=1764758709
+    Price: $57.72 USD
+  - [White / M](https://elevra.online/products/mens-new-fashion-knitted-jacquard-loose-round-neck-pullover-sweater-for-autumn-and-winter-and-christmas?variant=51138909143336)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3a70e79c-0fe0-4447-bb2f-2f12474ec803.jpg?v=1764758709
+    Price: $57.72 USD
+  - [White / L](https://elevra.online/products/mens-new-fashion-knitted-jacquard-loose-round-neck-pullover-sweater-for-autumn-and-winter-and-christmas?variant=51138909176104)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3a70e79c-0fe0-4447-bb2f-2f12474ec803.jpg?v=1764758709
+    Price: $57.72 USD
+  - [White / XL](https://elevra.online/products/mens-new-fashion-knitted-jacquard-loose-round-neck-pullover-sweater-for-autumn-and-winter-and-christmas?variant=51138909208872)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3a70e79c-0fe0-4447-bb2f-2f12474ec803.jpg?v=1764758709
+    Price: $57.72 USD
+  - [White / 2XL](https://elevra.online/products/mens-new-fashion-knitted-jacquard-loose-round-neck-pullover-sweater-for-autumn-and-winter-and-christmas?variant=51138909241640)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3a70e79c-0fe0-4447-bb2f-2f12474ec803.jpg?v=1764758709
+    Price: $57.72 USD
+  - [White / 3XL](https://elevra.online/products/mens-new-fashion-knitted-jacquard-loose-round-neck-pullover-sweater-for-autumn-and-winter-and-christmas?variant=51138909274408)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3a70e79c-0fe0-4447-bb2f-2f12474ec803.jpg?v=1764758709
+    Price: $57.72 USD
+- [Round Neck Sweater Coat Men's Knitwear](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear): Product information: Color: khaki, white, dark gray, black, red Size: M, L, XL, 2XL, 3XL, 4XL Style: sweater Thickness: regular Fabric name: synthetic fiber blend Main fabric composition: polyester fiber (polyester) Applicable gender: male Sleeve length: long sleeve Process: jacquard Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1*Knitwear Product Image:
+  Updated: 2025-12-04T06:21:07Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/532b65b2-2c6c-4049-a8f0-f054695f8d43.jpg?v=1764758732
+  - [Khaki / M](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138909569320)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/705baa56-0b94-4376-a733-5620725107b5.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Khaki / L](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138909602088)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/705baa56-0b94-4376-a733-5620725107b5.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Khaki / XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138909634856)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/705baa56-0b94-4376-a733-5620725107b5.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Khaki / 2XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138909667624)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/705baa56-0b94-4376-a733-5620725107b5.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Khaki / 3XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138909700392)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/705baa56-0b94-4376-a733-5620725107b5.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Khaki / 4XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138909733160)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/705baa56-0b94-4376-a733-5620725107b5.jpg?v=1764758735
+    Price: $59.35 USD
+  - [White / M](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138909765928)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/eff63f9b-1ad0-444a-8c14-ae6605cf588f.jpg?v=1764758735
+    Price: $59.35 USD
+  - [White / L](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138909798696)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/eff63f9b-1ad0-444a-8c14-ae6605cf588f.jpg?v=1764758735
+    Price: $59.35 USD
+  - [White / XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138909831464)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/eff63f9b-1ad0-444a-8c14-ae6605cf588f.jpg?v=1764758735
+    Price: $59.35 USD
+  - [White / 2XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138909864232)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/eff63f9b-1ad0-444a-8c14-ae6605cf588f.jpg?v=1764758735
+    Price: $59.35 USD
+  - [White / 3XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138909897000)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/eff63f9b-1ad0-444a-8c14-ae6605cf588f.jpg?v=1764758735
+    Price: $59.35 USD
+  - [White / 4XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138909929768)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/eff63f9b-1ad0-444a-8c14-ae6605cf588f.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Dark Gray / M](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138909962536)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0951268b-9ab8-4dfc-9746-7af901bc8523.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Dark Gray / L](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138909995304)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0951268b-9ab8-4dfc-9746-7af901bc8523.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Dark Gray / XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138910028072)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0951268b-9ab8-4dfc-9746-7af901bc8523.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Dark Gray / 2XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138910060840)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0951268b-9ab8-4dfc-9746-7af901bc8523.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Dark Gray / 3XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138910093608)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0951268b-9ab8-4dfc-9746-7af901bc8523.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Dark Gray / 4XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138910126376)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0951268b-9ab8-4dfc-9746-7af901bc8523.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Black / M](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138910159144)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/771ea4bf-624d-4bc4-8859-14a8fff6f118.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Black / L](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138910191912)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/771ea4bf-624d-4bc4-8859-14a8fff6f118.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Black / XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138910224680)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/771ea4bf-624d-4bc4-8859-14a8fff6f118.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Black / 2XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138910257448)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/771ea4bf-624d-4bc4-8859-14a8fff6f118.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Black / 3XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138910290216)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/771ea4bf-624d-4bc4-8859-14a8fff6f118.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Black / 4XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138910322984)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/771ea4bf-624d-4bc4-8859-14a8fff6f118.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Red / M](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138910355752)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/532b65b2-2c6c-4049-a8f0-f054695f8d43_20fbbca7-a366-4be8-99c2-2d69143b4f36.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Red / L](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138910388520)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/532b65b2-2c6c-4049-a8f0-f054695f8d43_20fbbca7-a366-4be8-99c2-2d69143b4f36.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Red / XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138910421288)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/532b65b2-2c6c-4049-a8f0-f054695f8d43_20fbbca7-a366-4be8-99c2-2d69143b4f36.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Red / 2XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138910454056)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/532b65b2-2c6c-4049-a8f0-f054695f8d43_20fbbca7-a366-4be8-99c2-2d69143b4f36.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Red / 3XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138910486824)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/532b65b2-2c6c-4049-a8f0-f054695f8d43_20fbbca7-a366-4be8-99c2-2d69143b4f36.jpg?v=1764758735
+    Price: $59.35 USD
+  - [Red / 4XL](https://elevra.online/products/round-neck-sweater-coat-mens-knitwear?variant=51138910519592)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/532b65b2-2c6c-4049-a8f0-f054695f8d43_20fbbca7-a366-4be8-99c2-2d69143b4f36.jpg?v=1764758735
+    Price: $59.35 USD
+- [Men's Christmas Jacquard Loose-fitting Drop-shoulder Long-sleeve Sweater](https://elevra.online/products/mens-christmas-jacquard-loose-fitting-drop-shoulder-long-sleeve-sweater): Product information: Color: black, red Size: M,L,XL,2XL,3XL Style: pullover Thickness: ordinary Fabric name: Core-spun yarn Main fabric composition: viscose Applicable Gender: Male Sleeve length: long sleeve Craft: Jacquard Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1*Sweater Product Image:
+  Updated: 2025-12-03T23:44:49Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/183b82d7-32a4-45f4-9b7c-0f697630fc0a.jpg?v=1764758762
+  - [Black / M](https://elevra.online/products/mens-christmas-jacquard-loose-fitting-drop-shoulder-long-sleeve-sweater?variant=51138910748968)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/877cc69c-2f4e-4075-babe-f526f5a42888.jpg?v=1764758766
+    Price: $55.99 USD
+  - [Black / L](https://elevra.online/products/mens-christmas-jacquard-loose-fitting-drop-shoulder-long-sleeve-sweater?variant=51138910781736)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/877cc69c-2f4e-4075-babe-f526f5a42888.jpg?v=1764758766
+    Price: $55.99 USD
+  - [Black / XL](https://elevra.online/products/mens-christmas-jacquard-loose-fitting-drop-shoulder-long-sleeve-sweater?variant=51138910814504)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/877cc69c-2f4e-4075-babe-f526f5a42888.jpg?v=1764758766
+    Price: $55.99 USD
+  - [Black / 2XL](https://elevra.online/products/mens-christmas-jacquard-loose-fitting-drop-shoulder-long-sleeve-sweater?variant=51138910847272)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/877cc69c-2f4e-4075-babe-f526f5a42888.jpg?v=1764758766
+    Price: $55.99 USD
+  - [Black / 3XL](https://elevra.online/products/mens-christmas-jacquard-loose-fitting-drop-shoulder-long-sleeve-sweater?variant=51138910880040)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/877cc69c-2f4e-4075-babe-f526f5a42888.jpg?v=1764758766
+    Price: $55.99 USD
+  - [Red / M](https://elevra.online/products/mens-christmas-jacquard-loose-fitting-drop-shoulder-long-sleeve-sweater?variant=51138910912808)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e0d32be1-686d-43ab-b090-9952ddd584a2.jpg?v=1764758766
+    Price: $55.99 USD
+  - [Red / L](https://elevra.online/products/mens-christmas-jacquard-loose-fitting-drop-shoulder-long-sleeve-sweater?variant=51138910945576)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e0d32be1-686d-43ab-b090-9952ddd584a2.jpg?v=1764758766
+    Price: $55.99 USD
+  - [Red / XL](https://elevra.online/products/mens-christmas-jacquard-loose-fitting-drop-shoulder-long-sleeve-sweater?variant=51138910978344)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e0d32be1-686d-43ab-b090-9952ddd584a2.jpg?v=1764758766
+    Price: $55.99 USD
+  - [Red / 2XL](https://elevra.online/products/mens-christmas-jacquard-loose-fitting-drop-shoulder-long-sleeve-sweater?variant=51138911011112)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e0d32be1-686d-43ab-b090-9952ddd584a2.jpg?v=1764758766
+    Price: $55.99 USD
+  - [Red / 3XL](https://elevra.online/products/mens-christmas-jacquard-loose-fitting-drop-shoulder-long-sleeve-sweater?variant=51138911043880)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/e0d32be1-686d-43ab-b090-9952ddd584a2.jpg?v=1764758766
+    Price: $55.99 USD
+- [Loose Knitted Cardigan Sweater Coat Women's Casual Long-sleeved Christmas Sweater](https://elevra.online/products/loose-knitted-cardigan-sweater-coat-womens-casual-long-sleeved-christmas-sweater): Product information: Color: Black Christmas sweater coat, red Christmas sweater coat Size: S,M,L,XL,XXL Fabric name: acrylic Main fabric component: acrylic fiber Wearing style: Cardigan Length: normal (50cm Applicable Gender: Female Sleeve length: long sleeve Craft: Jacquard Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Sweater Product Image:
+  Updated: 2025-12-04T01:27:40Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2e24703d-fe10-4975-a1e6-16f42b24aa0b.jpg?v=1764758794
+  - [Black / S](https://elevra.online/products/loose-knitted-cardigan-sweater-coat-womens-casual-long-sleeved-christmas-sweater?variant=51138913501480)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b33c82f3-ca8c-4331-b042-ed8189aa615e.jpg?v=1764758797
+    Price: $56.30 USD
+  - [Black / M](https://elevra.online/products/loose-knitted-cardigan-sweater-coat-womens-casual-long-sleeved-christmas-sweater?variant=51138913534248)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b33c82f3-ca8c-4331-b042-ed8189aa615e.jpg?v=1764758797
+    Price: $56.30 USD
+  - [Black / L](https://elevra.online/products/loose-knitted-cardigan-sweater-coat-womens-casual-long-sleeved-christmas-sweater?variant=51138913567016)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b33c82f3-ca8c-4331-b042-ed8189aa615e.jpg?v=1764758797
+    Price: $56.30 USD
+  - [Black / XL](https://elevra.online/products/loose-knitted-cardigan-sweater-coat-womens-casual-long-sleeved-christmas-sweater?variant=51138913599784)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b33c82f3-ca8c-4331-b042-ed8189aa615e.jpg?v=1764758797
+    Price: $56.30 USD
+  - [Black / XXL](https://elevra.online/products/loose-knitted-cardigan-sweater-coat-womens-casual-long-sleeved-christmas-sweater?variant=51138913632552)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b33c82f3-ca8c-4331-b042-ed8189aa615e.jpg?v=1764758797
+    Price: $56.30 USD
+  - [Red / S](https://elevra.online/products/loose-knitted-cardigan-sweater-coat-womens-casual-long-sleeved-christmas-sweater?variant=51138913665320)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0a470172-89dd-46bb-9485-227ceff48b8c.jpg?v=1764758797
+    Price: $56.30 USD
+  - [Red / M](https://elevra.online/products/loose-knitted-cardigan-sweater-coat-womens-casual-long-sleeved-christmas-sweater?variant=51138913698088)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0a470172-89dd-46bb-9485-227ceff48b8c.jpg?v=1764758797
+    Price: $56.30 USD
+  - [Red / L](https://elevra.online/products/loose-knitted-cardigan-sweater-coat-womens-casual-long-sleeved-christmas-sweater?variant=51138913730856)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0a470172-89dd-46bb-9485-227ceff48b8c.jpg?v=1764758797
+    Price: $56.30 USD
+  - [Red / XL](https://elevra.online/products/loose-knitted-cardigan-sweater-coat-womens-casual-long-sleeved-christmas-sweater?variant=51138913763624)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0a470172-89dd-46bb-9485-227ceff48b8c.jpg?v=1764758797
+    Price: $56.30 USD
+  - [Red / XXL](https://elevra.online/products/loose-knitted-cardigan-sweater-coat-womens-casual-long-sleeved-christmas-sweater?variant=51138913796392)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0a470172-89dd-46bb-9485-227ceff48b8c.jpg?v=1764758797
+    Price: $56.30 USD
+- [Men's New Pullover Sweater Autumn And Winter Long Sleeved Christmas Casual Fashion Jacquard Knitted Sweater Clothing For Men](https://elevra.online/products/mens-new-pullover-sweater-autumn-and-winter-long-sleeved-christmas-casual-fashion-jacquard-knitted-sweater-clothing-for-men): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Color: green Size: M,L,XL,2XL,3XL Style: pullover Thickness: thickening Fabric name: little lamb sunny Main fabric composition: Polyester Fiber (polyester) Applicable Gender: Male Sleeve length: long sleeve Craft: Jacquard Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1*Sweater Product Image:
+  Updated: 2025-12-03T22:47:06Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b7c94f3e-5799-4cb9-a528-0fda2f470ba2.webp?v=1764758821
+  - [Green / M](https://elevra.online/products/mens-new-pullover-sweater-autumn-and-winter-long-sleeved-christmas-casual-fashion-jacquard-knitted-sweater-clothing-for-men?variant=51138913894696)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/dc00f80c-676a-472d-95ed-6d1c2857db7a.jpg?v=1764758826
+    Price: $72.98 USD
+  - [Green / L](https://elevra.online/products/mens-new-pullover-sweater-autumn-and-winter-long-sleeved-christmas-casual-fashion-jacquard-knitted-sweater-clothing-for-men?variant=51138913927464)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/dc00f80c-676a-472d-95ed-6d1c2857db7a.jpg?v=1764758826
+    Price: $72.98 USD
+  - [Green / XL](https://elevra.online/products/mens-new-pullover-sweater-autumn-and-winter-long-sleeved-christmas-casual-fashion-jacquard-knitted-sweater-clothing-for-men?variant=51138913960232)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/dc00f80c-676a-472d-95ed-6d1c2857db7a.jpg?v=1764758826
+    Price: $72.98 USD
+  - [Green / 2XL](https://elevra.online/products/mens-new-pullover-sweater-autumn-and-winter-long-sleeved-christmas-casual-fashion-jacquard-knitted-sweater-clothing-for-men?variant=51138913993000)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/dc00f80c-676a-472d-95ed-6d1c2857db7a.jpg?v=1764758826
+    Price: $72.98 USD
+  - [Green / 3XL](https://elevra.online/products/mens-new-pullover-sweater-autumn-and-winter-long-sleeved-christmas-casual-fashion-jacquard-knitted-sweater-clothing-for-men?variant=51138914025768)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/dc00f80c-676a-472d-95ed-6d1c2857db7a.jpg?v=1764758826
+    Price: $72.98 USD
+- [Christmas Casual Red Deer Jacquard Women's Long-sleeved Round Neck Sweater](https://elevra.online/products/christmas-casual-red-deer-jacquard-womens-long-sleeved-round-neck-sweater): Product information: Color: red Size: S,M,L Style: pullover Thickness: medium Fabric name: Polyester Sleeve length: long sleeve Craft: Jacquard Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Sweater Product Image:
+  Updated: 2025-12-04T01:43:12Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/bebe0d5b-fd62-442c-b1e3-01553e3b3a22.jpg?v=1764758851
+  - [Red / S](https://elevra.online/products/christmas-casual-red-deer-jacquard-womens-long-sleeved-round-neck-sweater?variant=51138914156840)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0c5b6d53-0a88-49fa-bfab-3c1be05329d8.jpg?v=1764758855
+    Price: $49.03 USD
+  - [Red / M](https://elevra.online/products/christmas-casual-red-deer-jacquard-womens-long-sleeved-round-neck-sweater?variant=51138914189608)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0c5b6d53-0a88-49fa-bfab-3c1be05329d8.jpg?v=1764758855
+    Price: $49.03 USD
+  - [Red / L](https://elevra.online/products/christmas-casual-red-deer-jacquard-womens-long-sleeved-round-neck-sweater?variant=51138914222376)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0c5b6d53-0a88-49fa-bfab-3c1be05329d8.jpg?v=1764758855
+    Price: $49.03 USD
+- [Fashion European And American Sweater New Couple Outfit](https://elevra.online/products/fashion-european-and-american-sweater-new-couple-outfit): Product information: Fabric name: polyester Pattern : Christmas Process : Jacquard Color: white-female, white-male, red-female, red-male Fabric name ：Polyester Size Information: Size: S, M, L, XL Note： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Women's top*1/Men's top*1
+  Updated: 2025-12-03T22:48:02Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/48949b2b-0a04-40e1-9ce4-b8d133b42b2e.jpg?v=1764758876
+  - [White female / S](https://elevra.online/products/fashion-european-and-american-sweater-new-couple-outfit?variant=51138914320680)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9525d3a3-f861-4a2d-821b-c15edf93a197.jpg?v=1764758882
+    Price: $51.71 USD
+  - [White female / M](https://elevra.online/products/fashion-european-and-american-sweater-new-couple-outfit?variant=51138914353448)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9525d3a3-f861-4a2d-821b-c15edf93a197.jpg?v=1764758882
+    Price: $51.71 USD
+  - [White female / L](https://elevra.online/products/fashion-european-and-american-sweater-new-couple-outfit?variant=51138914386216)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9525d3a3-f861-4a2d-821b-c15edf93a197.jpg?v=1764758882
+    Price: $51.71 USD
+  - [White female / XL](https://elevra.online/products/fashion-european-and-american-sweater-new-couple-outfit?variant=51138914418984)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9525d3a3-f861-4a2d-821b-c15edf93a197.jpg?v=1764758882
+    Price: $51.71 USD
+  - [White male / S](https://elevra.online/products/fashion-european-and-american-sweater-new-couple-outfit?variant=51138914451752)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/346b27ff-a2b8-4924-998d-f5b06d89a48e.jpg?v=1764758882
+    Price: $51.71 USD
+  - [White male / M](https://elevra.online/products/fashion-european-and-american-sweater-new-couple-outfit?variant=51138914484520)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/346b27ff-a2b8-4924-998d-f5b06d89a48e.jpg?v=1764758882
+    Price: $51.71 USD
+  - [White male / L](https://elevra.online/products/fashion-european-and-american-sweater-new-couple-outfit?variant=51138914517288)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/346b27ff-a2b8-4924-998d-f5b06d89a48e.jpg?v=1764758882
+    Price: $51.71 USD
+  - [White male / XL](https://elevra.online/products/fashion-european-and-american-sweater-new-couple-outfit?variant=51138914550056)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/346b27ff-a2b8-4924-998d-f5b06d89a48e.jpg?v=1764758882
+    Price: $51.71 USD
+  - [Red female / S](https://elevra.online/products/fashion-european-and-american-sweater-new-couple-outfit?variant=51138914582824)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9495dbca-33ad-4d59-8941-953c8eb83557.jpg?v=1764758882
+    Price: $51.71 USD
+  - [Red female / M](https://elevra.online/products/fashion-european-and-american-sweater-new-couple-outfit?variant=51138914615592)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9495dbca-33ad-4d59-8941-953c8eb83557.jpg?v=1764758882
+    Price: $51.71 USD
+  - [Red female / L](https://elevra.online/products/fashion-european-and-american-sweater-new-couple-outfit?variant=51138914648360)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9495dbca-33ad-4d59-8941-953c8eb83557.jpg?v=1764758882
+    Price: $51.71 USD
+  - [Red female / XL](https://elevra.online/products/fashion-european-and-american-sweater-new-couple-outfit?variant=51138914681128)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9495dbca-33ad-4d59-8941-953c8eb83557.jpg?v=1764758882
+    Price: $51.71 USD
+  - [Red male / S](https://elevra.online/products/fashion-european-and-american-sweater-new-couple-outfit?variant=51138914713896)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/fecc5bf7-dee8-4052-8a31-f861b96e9183.jpg?v=1764758882
+    Price: $51.71 USD
+  - [Red male / M](https://elevra.online/products/fashion-european-and-american-sweater-new-couple-outfit?variant=51138914746664)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/fecc5bf7-dee8-4052-8a31-f861b96e9183.jpg?v=1764758882
+    Price: $51.71 USD
+  - [Red male / L](https://elevra.online/products/fashion-european-and-american-sweater-new-couple-outfit?variant=51138914779432)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/fecc5bf7-dee8-4052-8a31-f861b96e9183.jpg?v=1764758882
+    Price: $51.71 USD
+  - [Red male / XL](https://elevra.online/products/fashion-european-and-american-sweater-new-couple-outfit?variant=51138914812200)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/fecc5bf7-dee8-4052-8a31-f861b96e9183.jpg?v=1764758882
+    Price: $51.71 USD
+- [Santa Embroidered Crew Neck Knit Sweater](https://elevra.online/products/santa-embroidered-crew-neck-knit-sweater): Product information: Fabric name: Acrylic The content of main fabric ingredients: 91%-99% Collar type: round neck Sleeve length: long sleeve Color: white, red, black Size Information: Size: S/M/L/XL/ Size Shoulder width (CM) Bust (CM) Sleeve length (CM) Length of clothes (CM) S 35.5 86 61 60 M 37 92 61.5 62 L 38.5 98 62 64 XL 40 104 62.5 66 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* sweater Product Image:
+  Updated: 2025-12-03T22:48:33Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/a744d569-34c8-4c24-b433-e04928b2a6d3.jpg?v=1764758907
+  - [White / S](https://elevra.online/products/santa-embroidered-crew-neck-knit-sweater?variant=51138915074344)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2c743adf-ce1f-448d-ab36-5361ead0d1df.jpg?v=1764758911
+    Price: $64.08 USD
+  - [White / M](https://elevra.online/products/santa-embroidered-crew-neck-knit-sweater?variant=51138915107112)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2c743adf-ce1f-448d-ab36-5361ead0d1df.jpg?v=1764758911
+    Price: $64.08 USD
+  - [White / L](https://elevra.online/products/santa-embroidered-crew-neck-knit-sweater?variant=51138915139880)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2c743adf-ce1f-448d-ab36-5361ead0d1df.jpg?v=1764758911
+    Price: $64.08 USD
+  - [White / XL](https://elevra.online/products/santa-embroidered-crew-neck-knit-sweater?variant=51138915172648)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2c743adf-ce1f-448d-ab36-5361ead0d1df.jpg?v=1764758911
+    Price: $64.08 USD
+  - [Red / S](https://elevra.online/products/santa-embroidered-crew-neck-knit-sweater?variant=51138915205416)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/35f433e8-a21a-4fde-9042-c3b8ea3325b3.jpg?v=1764758911
+    Price: $43.97 USD
+  - [Red / M](https://elevra.online/products/santa-embroidered-crew-neck-knit-sweater?variant=51138915238184)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/35f433e8-a21a-4fde-9042-c3b8ea3325b3.jpg?v=1764758911
+    Price: $43.97 USD
+  - [Red / L](https://elevra.online/products/santa-embroidered-crew-neck-knit-sweater?variant=51138915270952)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/35f433e8-a21a-4fde-9042-c3b8ea3325b3.jpg?v=1764758911
+    Price: $43.97 USD
+  - [Red / XL](https://elevra.online/products/santa-embroidered-crew-neck-knit-sweater?variant=51138915303720)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/35f433e8-a21a-4fde-9042-c3b8ea3325b3.jpg?v=1764758911
+    Price: $43.97 USD
+- [Christmas Women's Casual Plaid Deer Long Sleeve Pullover Sweater](https://elevra.online/products/christmas-womens-casual-plaid-deer-long-sleeve-pullover-sweater): Product information: Color: white, red, green, Size: S,M,L Fabric name: acrylic Sleeve type: Lantern sleeve Main fabric composition: acrylic fiber Wearing style: pullover Length: normal (50cm Applicable Gender: Female Sleeve length: long sleeve Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1*Sweater Product Image:
+  Updated: 2025-12-03T22:49:01Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/41778caf-5709-4258-918d-b2e4c0aa3610.jpg?v=1764758936
+  - [White / S](https://elevra.online/products/christmas-womens-casual-plaid-deer-long-sleeve-pullover-sweater?variant=51138915434792)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6b4763ee-71d2-4729-81b8-e2604a842863.jpg?v=1764758943
+    Price: $44.65 USD
+  - [White / M](https://elevra.online/products/christmas-womens-casual-plaid-deer-long-sleeve-pullover-sweater?variant=51138915467560)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6b4763ee-71d2-4729-81b8-e2604a842863.jpg?v=1764758943
+    Price: $44.65 USD
+  - [White / L](https://elevra.online/products/christmas-womens-casual-plaid-deer-long-sleeve-pullover-sweater?variant=51138915500328)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6b4763ee-71d2-4729-81b8-e2604a842863.jpg?v=1764758943
+    Price: $44.65 USD
+  - [Red / S](https://elevra.online/products/christmas-womens-casual-plaid-deer-long-sleeve-pullover-sweater?variant=51138915533096)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/13f25442-23d3-413a-8565-e9c631f8a5fc.jpg?v=1764758943
+    Price: $44.65 USD
+  - [Red / M](https://elevra.online/products/christmas-womens-casual-plaid-deer-long-sleeve-pullover-sweater?variant=51138915565864)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/13f25442-23d3-413a-8565-e9c631f8a5fc.jpg?v=1764758943
+    Price: $44.65 USD
+  - [Red / L](https://elevra.online/products/christmas-womens-casual-plaid-deer-long-sleeve-pullover-sweater?variant=51138915598632)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/13f25442-23d3-413a-8565-e9c631f8a5fc.jpg?v=1764758943
+    Price: $44.65 USD
+  - [Green / S](https://elevra.online/products/christmas-womens-casual-plaid-deer-long-sleeve-pullover-sweater?variant=51138915631400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/f4b219b4-c8b5-4ce4-b97f-16fa1ca8bd99.jpg?v=1764758943
+    Price: $44.65 USD
+  - [Green / M](https://elevra.online/products/christmas-womens-casual-plaid-deer-long-sleeve-pullover-sweater?variant=51138915664168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/f4b219b4-c8b5-4ce4-b97f-16fa1ca8bd99.jpg?v=1764758943
+    Price: $44.65 USD
+  - [Green / L](https://elevra.online/products/christmas-womens-casual-plaid-deer-long-sleeve-pullover-sweater?variant=51138915696936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/f4b219b4-c8b5-4ce4-b97f-16fa1ca8bd99.jpg?v=1764758943
+    Price: $44.65 USD
+- [2024 Christmas Clothes Women's Open Front Cardigan Knitwear Lantern Sleeve Xmas Printed Oversized Deer Sweater Pockets Knitted](https://elevra.online/products/2024-christmas-clothes-womens-open-front-cardigan-knitwear-lantern-sleeve-xmas-printed-oversized-deer-sweater-pockets-knitted): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Color: red, green, white Size: S,M,L Fabric name: acrylic Sleeve type: Lantern sleeve Main fabric composition: acrylic fiber Wearing style: Cardigan Length: medium length (65cm Applicable Gender: Female Sleeve length: long sleeve Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Coat Product Image:
+  Updated: 2025-12-04T06:09:53Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/f983dcdd-383d-4abd-9ce6-25e0498af4af.jpg?v=1764758966
+  - [Red / S](https://elevra.online/products/2024-christmas-clothes-womens-open-front-cardigan-knitwear-lantern-sleeve-xmas-printed-oversized-deer-sweater-pockets-knitted?variant=51138915860776)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/318d57d7-9367-40f4-98a3-e217dc3f69b9.jpg?v=1764758971
+    Price: $45.19 USD
+  - [Red / M](https://elevra.online/products/2024-christmas-clothes-womens-open-front-cardigan-knitwear-lantern-sleeve-xmas-printed-oversized-deer-sweater-pockets-knitted?variant=51138915893544)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/318d57d7-9367-40f4-98a3-e217dc3f69b9.jpg?v=1764758971
+    Price: $45.19 USD
+  - [Red / L](https://elevra.online/products/2024-christmas-clothes-womens-open-front-cardigan-knitwear-lantern-sleeve-xmas-printed-oversized-deer-sweater-pockets-knitted?variant=51138915926312)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/318d57d7-9367-40f4-98a3-e217dc3f69b9.jpg?v=1764758971
+    Price: $45.19 USD
+  - [Green / S](https://elevra.online/products/2024-christmas-clothes-womens-open-front-cardigan-knitwear-lantern-sleeve-xmas-printed-oversized-deer-sweater-pockets-knitted?variant=51138915959080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b609045b-84f4-4539-9cce-48b3e8fda6fe.jpg?v=1764758971
+    Price: $45.19 USD
+  - [Green / M](https://elevra.online/products/2024-christmas-clothes-womens-open-front-cardigan-knitwear-lantern-sleeve-xmas-printed-oversized-deer-sweater-pockets-knitted?variant=51138915991848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b609045b-84f4-4539-9cce-48b3e8fda6fe.jpg?v=1764758971
+    Price: $45.19 USD
+  - [Green / L](https://elevra.online/products/2024-christmas-clothes-womens-open-front-cardigan-knitwear-lantern-sleeve-xmas-printed-oversized-deer-sweater-pockets-knitted?variant=51138916024616)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b609045b-84f4-4539-9cce-48b3e8fda6fe.jpg?v=1764758971
+    Price: $45.19 USD
+  - [White / S](https://elevra.online/products/2024-christmas-clothes-womens-open-front-cardigan-knitwear-lantern-sleeve-xmas-printed-oversized-deer-sweater-pockets-knitted?variant=51138916057384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/54e1a4d5-0c63-4902-9813-6107080e290b.jpg?v=1764758971
+    Price: $45.19 USD
+  - [White / M](https://elevra.online/products/2024-christmas-clothes-womens-open-front-cardigan-knitwear-lantern-sleeve-xmas-printed-oversized-deer-sweater-pockets-knitted?variant=51138916090152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/54e1a4d5-0c63-4902-9813-6107080e290b.jpg?v=1764758971
+    Price: $45.19 USD
+  - [White / L](https://elevra.online/products/2024-christmas-clothes-womens-open-front-cardigan-knitwear-lantern-sleeve-xmas-printed-oversized-deer-sweater-pockets-knitted?variant=51138916122920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/54e1a4d5-0c63-4902-9813-6107080e290b.jpg?v=1764758971
+    Price: $45.19 USD
+- [Women's Mid-length Christmas Lazy Loose Bottoming Sweater](https://elevra.online/products/womens-mid-length-christmas-lazy-loose-bottoming-sweater): Product information: Material: Acrylic fiber, polyester fiber Style: simple and stylish Features:Jacquard Colour: red, green, black Size Information: Size/cm Lenght Bust Shoulder Sleeve One Size 70 124 60 52 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweater*1 Product Image:
+  Updated: 2025-12-04T01:37:29Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/962e0cc4-2a7d-4297-9800-e67465284d98.jpg?v=1764758994
+  - [Red / 1 Style / One size](https://elevra.online/products/womens-mid-length-christmas-lazy-loose-bottoming-sweater?variant=51138916286760)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0d70b209-decd-4505-aa17-042af1ae9863.jpg?v=1764758999
+    Price: $70.01 USD
+  - [Red / 2 Style / One size](https://elevra.online/products/womens-mid-length-christmas-lazy-loose-bottoming-sweater?variant=51138916319528)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/962e0cc4-2a7d-4297-9800-e67465284d98_7321c7fe-8423-4c67-980d-86e59d1c9459.jpg?v=1764758999
+    Price: $64.33 USD
+  - [Green / 1 Style / One size](https://elevra.online/products/womens-mid-length-christmas-lazy-loose-bottoming-sweater?variant=51138916352296)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/709afad1-92a2-4a88-8230-9e15a02435a0.jpg?v=1764758999
+    Price: $70.01 USD
+  - [Green / 2 Style / One size](https://elevra.online/products/womens-mid-length-christmas-lazy-loose-bottoming-sweater?variant=51138916385064)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/21a7a1d4-2e43-4fd3-be91-ab605ce10247.jpg?v=1764758999
+    Price: $64.33 USD
+  - [Black / 2 Style / One size](https://elevra.online/products/womens-mid-length-christmas-lazy-loose-bottoming-sweater?variant=51138916417832)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9473892a-d240-4f52-addb-d27d4cb7952b.jpg?v=1764758999
+    Price: $64.33 USD
+- [Women Ugly Christmas Sweaters Winter Long Sleeve Knitted Sweater Elk Snowflake Print Knitted Jumpers Knitwear Casual Soft Jacquard Pullover Xmas Look](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look): Overview: Unique design, stylish and beautiful. Good material, High quality. 100% Brand New. A variety of colors, any choice. Comfortable to wear. Specifications: Fabric name: Acrylic Main fabric composition 2: Cotton 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Package Content: 1*Sweater
+  Updated: 2025-12-03T22:50:30Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/487396427222.jpg?v=1764759023
+  - [Red / XL](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138916974888)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2050888405733.jpg?v=1764759029
+    Price: $41.18 USD
+  - [Green / S](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917007656)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/a6b3cb78-ee86-418a-b9b3-0be739f70fda.jpg?v=1764759029
+    Price: $47.69 USD
+  - [Green / M](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917040424)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/a6b3cb78-ee86-418a-b9b3-0be739f70fda.jpg?v=1764759029
+    Price: $47.69 USD
+  - [Green / L](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917073192)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/a6b3cb78-ee86-418a-b9b3-0be739f70fda.jpg?v=1764759029
+    Price: $47.69 USD
+  - [Green / XL](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917105960)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/a6b3cb78-ee86-418a-b9b3-0be739f70fda.jpg?v=1764759029
+    Price: $47.69 USD
+  - [Green / XXL](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917138728)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/a6b3cb78-ee86-418a-b9b3-0be739f70fda.jpg?v=1764759029
+    Price: $47.69 USD
+  - [Black / S](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917171496)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/580aa217-3a42-427e-b6e1-535d4cfd1a81.jpg?v=1764759029
+    Price: $47.69 USD
+  - [Black / M](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917204264)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/580aa217-3a42-427e-b6e1-535d4cfd1a81.jpg?v=1764759029
+    Price: $47.69 USD
+  - [Black / L](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917237032)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/580aa217-3a42-427e-b6e1-535d4cfd1a81.jpg?v=1764759029
+    Price: $47.69 USD
+  - [Black / XL](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917269800)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/580aa217-3a42-427e-b6e1-535d4cfd1a81.jpg?v=1764759029
+    Price: $47.69 USD
+  - [Black / XXL](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917302568)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/580aa217-3a42-427e-b6e1-535d4cfd1a81.jpg?v=1764759029
+    Price: $47.69 USD
+  - [Red / M](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917335336)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2050888405733.jpg?v=1764759029
+    Price: $41.18 USD
+  - [White / M](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917368104)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/485362455049.jpg?v=1764759029
+    Price: $41.18 USD
+  - [White / L](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917400872)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/485362455049.jpg?v=1764759029
+    Price: $41.18 USD
+  - [Red / S](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917433640)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2050888405733.jpg?v=1764759029
+    Price: $41.18 USD
+  - [White / XL](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917466408)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/485362455049.jpg?v=1764759029
+    Price: $41.18 USD
+  - [White / XXL](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917499176)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/485362455049.jpg?v=1764759029
+    Price: $41.18 USD
+  - [Red / XXL](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917531944)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2050888405733.jpg?v=1764759029
+    Price: $41.18 USD
+  - [White / S](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917564712)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/485362455049.jpg?v=1764759029
+    Price: $41.18 USD
+  - [Red / L](https://elevra.online/products/women-ugly-christmas-sweaters-winter-long-sleeve-knitted-sweater-elk-snowflake-print-knitted-jumpers-knitwear-casual-soft-jacquard-pullover-xmas-look?variant=51138917597480)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2050888405733.jpg?v=1764759029
+    Price: $41.18 USD
+- [Knitted Women Crew Neck Sweater Loose Pullover Female Jumper Elegant Spring Warm Spring New Year Trendy Christmas Sweater](https://elevra.online/products/knitted-women-crew-neck-sweater-loose-pullover-female-jumper-elegant-spring-warm-spring-new-year-trendy-christmas-sweater): Overview: Unique design, stylish and beautiful. Good material, High quality. 100% Brand New. A variety of colors, any choice. Comfortable to wear. Product information: Pattern: letters/numbers/text Color: red, dark green, apricot, Black Size: S,M,L,XL Version: Loose Style type: street fashion Popular elements: 3D/stereo pattern Style: pullover Thickness: medium Fabric name: acrylic Style: European and American style Craft: collage/stitching Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweater x1 Product Image:
+  Updated: 2025-12-03T22:51:01Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/066656ce-b3c0-423c-ba37-d5803873fdd8.jpg?v=1764759055
+  - [Red / S](https://elevra.online/products/knitted-women-crew-neck-sweater-loose-pullover-female-jumper-elegant-spring-warm-spring-new-year-trendy-christmas-sweater?variant=51138919694632)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/586dba48-d39b-46a0-8ec9-d4d484e6e0af.jpg?v=1764759059
+    Price: $53.47 USD
+  - [Red / M](https://elevra.online/products/knitted-women-crew-neck-sweater-loose-pullover-female-jumper-elegant-spring-warm-spring-new-year-trendy-christmas-sweater?variant=51138919727400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/586dba48-d39b-46a0-8ec9-d4d484e6e0af.jpg?v=1764759059
+    Price: $53.47 USD
+  - [Red / L](https://elevra.online/products/knitted-women-crew-neck-sweater-loose-pullover-female-jumper-elegant-spring-warm-spring-new-year-trendy-christmas-sweater?variant=51138919760168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/586dba48-d39b-46a0-8ec9-d4d484e6e0af.jpg?v=1764759059
+    Price: $53.47 USD
+  - [Red / XL](https://elevra.online/products/knitted-women-crew-neck-sweater-loose-pullover-female-jumper-elegant-spring-warm-spring-new-year-trendy-christmas-sweater?variant=51138919792936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/586dba48-d39b-46a0-8ec9-d4d484e6e0af.jpg?v=1764759059
+    Price: $53.47 USD
+  - [Dark Green / S](https://elevra.online/products/knitted-women-crew-neck-sweater-loose-pullover-female-jumper-elegant-spring-warm-spring-new-year-trendy-christmas-sweater?variant=51138919825704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/7d56b8f9-29e3-4fbe-9b9b-aa1211823d96.jpg?v=1764759059
+    Price: $53.47 USD
+  - [Dark Green / M](https://elevra.online/products/knitted-women-crew-neck-sweater-loose-pullover-female-jumper-elegant-spring-warm-spring-new-year-trendy-christmas-sweater?variant=51138919858472)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/7d56b8f9-29e3-4fbe-9b9b-aa1211823d96.jpg?v=1764759059
+    Price: $53.47 USD
+  - [Dark Green / L](https://elevra.online/products/knitted-women-crew-neck-sweater-loose-pullover-female-jumper-elegant-spring-warm-spring-new-year-trendy-christmas-sweater?variant=51138919891240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/7d56b8f9-29e3-4fbe-9b9b-aa1211823d96.jpg?v=1764759059
+    Price: $53.47 USD
+  - [Dark Green / XL](https://elevra.online/products/knitted-women-crew-neck-sweater-loose-pullover-female-jumper-elegant-spring-warm-spring-new-year-trendy-christmas-sweater?variant=51138919924008)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/7d56b8f9-29e3-4fbe-9b9b-aa1211823d96.jpg?v=1764759059
+    Price: $53.47 USD
+  - [Apricot / S](https://elevra.online/products/knitted-women-crew-neck-sweater-loose-pullover-female-jumper-elegant-spring-warm-spring-new-year-trendy-christmas-sweater?variant=51138919956776)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/82c60dee-7c80-4c22-9844-25675c22e52b.jpg?v=1764759059
+    Price: $53.47 USD
+  - [Apricot / M](https://elevra.online/products/knitted-women-crew-neck-sweater-loose-pullover-female-jumper-elegant-spring-warm-spring-new-year-trendy-christmas-sweater?variant=51138919989544)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/82c60dee-7c80-4c22-9844-25675c22e52b.jpg?v=1764759059
+    Price: $53.47 USD
+  - [Apricot / L](https://elevra.online/products/knitted-women-crew-neck-sweater-loose-pullover-female-jumper-elegant-spring-warm-spring-new-year-trendy-christmas-sweater?variant=51138920022312)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/82c60dee-7c80-4c22-9844-25675c22e52b.jpg?v=1764759059
+    Price: $53.47 USD
+  - [Apricot / XL](https://elevra.online/products/knitted-women-crew-neck-sweater-loose-pullover-female-jumper-elegant-spring-warm-spring-new-year-trendy-christmas-sweater?variant=51138920055080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/82c60dee-7c80-4c22-9844-25675c22e52b.jpg?v=1764759059
+    Price: $53.47 USD
+  - [Black / S](https://elevra.online/products/knitted-women-crew-neck-sweater-loose-pullover-female-jumper-elegant-spring-warm-spring-new-year-trendy-christmas-sweater?variant=51138920087848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/de81d80a-57f5-4f75-a0a9-96be925a0bb6.jpg?v=1764759059
+    Price: $53.47 USD
+  - [Black / M](https://elevra.online/products/knitted-women-crew-neck-sweater-loose-pullover-female-jumper-elegant-spring-warm-spring-new-year-trendy-christmas-sweater?variant=51138920120616)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/de81d80a-57f5-4f75-a0a9-96be925a0bb6.jpg?v=1764759059
+    Price: $53.47 USD
+  - [Black / L](https://elevra.online/products/knitted-women-crew-neck-sweater-loose-pullover-female-jumper-elegant-spring-warm-spring-new-year-trendy-christmas-sweater?variant=51138920153384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/de81d80a-57f5-4f75-a0a9-96be925a0bb6.jpg?v=1764759059
+    Price: $53.47 USD
+  - [Black / XL](https://elevra.online/products/knitted-women-crew-neck-sweater-loose-pullover-female-jumper-elegant-spring-warm-spring-new-year-trendy-christmas-sweater?variant=51138920186152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/de81d80a-57f5-4f75-a0a9-96be925a0bb6.jpg?v=1764759059
+    Price: $53.47 USD
+- [Little Snowflake Christmas Sweater Casual Off-the-shoulder Sweater Women](https://elevra.online/products/little-snowflake-christmas-sweater-casual-off-the-shoulder-sweater-women): Product information: Color: red Size: S,M,L,XL Style: pullover Thickness: thick Material: Polyester 80 Spandex 20 Wearing style: pullover Length: normal (50cm Applicable Gender: Female Sleeve length: long sleeve Craft: Jacquard Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Sweater Product Image:
+  Updated: 2025-12-03T22:51:32Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/ce7d46f1-d02c-41ca-9bcf-c8d95531173e.jpg?v=1764759086
+  - [Red / S](https://elevra.online/products/little-snowflake-christmas-sweater-casual-off-the-shoulder-sweater-women?variant=51138920481064)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6119eb82-59c8-4779-be62-c65f56e67076.jpg?v=1764759091
+    Price: $60.10 USD
+  - [Red / M](https://elevra.online/products/little-snowflake-christmas-sweater-casual-off-the-shoulder-sweater-women?variant=51138920513832)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6119eb82-59c8-4779-be62-c65f56e67076.jpg?v=1764759091
+    Price: $60.10 USD
+  - [Red / L](https://elevra.online/products/little-snowflake-christmas-sweater-casual-off-the-shoulder-sweater-women?variant=51138920546600)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6119eb82-59c8-4779-be62-c65f56e67076.jpg?v=1764759091
+    Price: $60.10 USD
+  - [Red / XL](https://elevra.online/products/little-snowflake-christmas-sweater-casual-off-the-shoulder-sweater-women?variant=51138920579368)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6119eb82-59c8-4779-be62-c65f56e67076.jpg?v=1764759091
+    Price: $60.10 USD
+- [Graceful Stand Collar Solid Color Velvet Long Sleeve Dress](https://elevra.online/products/graceful-stand-collar-solid-color-velvet-long-sleeve-dress): Product information: Pattern: solid color Skirt-type: Swing Color: black, wine red, green Waist Type: Mid waist Size: S,M,L,XL Style type: temperament commute Combination form: Single piece Skirt length: mid skirt Popular elements: puff sleeve smocking Style: Basic Fabric name: Mercerized Velvet Sleeve type: puff sleeve Main fabric composition: Polyester (polyester fiber) Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1*Dress Product Image:
+  Updated: 2025-12-04T06:13:04Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/075b9de8-363f-4bad-a1da-bf0698068e1b.jpg?v=1764759113
+  - [Black / S](https://elevra.online/products/graceful-stand-collar-solid-color-velvet-long-sleeve-dress?variant=51138922709288)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/994b606e-9b6f-4a91-a9d8-e4b194279cd3.jpg?v=1764759118
+    Price: $41.97 USD
+  - [Black / M](https://elevra.online/products/graceful-stand-collar-solid-color-velvet-long-sleeve-dress?variant=51138922742056)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/994b606e-9b6f-4a91-a9d8-e4b194279cd3.jpg?v=1764759118
+    Price: $41.97 USD
+  - [Black / L](https://elevra.online/products/graceful-stand-collar-solid-color-velvet-long-sleeve-dress?variant=51138922774824)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/994b606e-9b6f-4a91-a9d8-e4b194279cd3.jpg?v=1764759118
+    Price: $41.97 USD
+  - [Black / XL](https://elevra.online/products/graceful-stand-collar-solid-color-velvet-long-sleeve-dress?variant=51138922807592)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/994b606e-9b6f-4a91-a9d8-e4b194279cd3.jpg?v=1764759118
+    Price: $41.97 USD
+  - [Wine Red / S](https://elevra.online/products/graceful-stand-collar-solid-color-velvet-long-sleeve-dress?variant=51138922840360)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/ab271651-75a9-4c4a-871b-412dae311596.jpg?v=1764759118
+    Price: $41.97 USD
+  - [Wine Red / M](https://elevra.online/products/graceful-stand-collar-solid-color-velvet-long-sleeve-dress?variant=51138922873128)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/ab271651-75a9-4c4a-871b-412dae311596.jpg?v=1764759118
+    Price: $41.97 USD
+  - [Wine Red / L](https://elevra.online/products/graceful-stand-collar-solid-color-velvet-long-sleeve-dress?variant=51138922905896)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/ab271651-75a9-4c4a-871b-412dae311596.jpg?v=1764759118
+    Price: $41.97 USD
+  - [Wine Red / XL](https://elevra.online/products/graceful-stand-collar-solid-color-velvet-long-sleeve-dress?variant=51138922938664)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/ab271651-75a9-4c4a-871b-412dae311596.jpg?v=1764759118
+    Price: $41.97 USD
+  - [Green / S](https://elevra.online/products/graceful-stand-collar-solid-color-velvet-long-sleeve-dress?variant=51138922971432)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/aefc8229-5a13-4d66-8f67-ac7ece930132.jpg?v=1764759118
+    Price: $41.97 USD
+  - [Green / M](https://elevra.online/products/graceful-stand-collar-solid-color-velvet-long-sleeve-dress?variant=51138923004200)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/aefc8229-5a13-4d66-8f67-ac7ece930132.jpg?v=1764759118
+    Price: $41.97 USD
+  - [Green / L](https://elevra.online/products/graceful-stand-collar-solid-color-velvet-long-sleeve-dress?variant=51138923036968)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/aefc8229-5a13-4d66-8f67-ac7ece930132.jpg?v=1764759118
+    Price: $41.97 USD
+  - [Green / XL](https://elevra.online/products/graceful-stand-collar-solid-color-velvet-long-sleeve-dress?variant=51138923069736)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/aefc8229-5a13-4d66-8f67-ac7ece930132.jpg?v=1764759118
+    Price: $41.97 USD
+- [Elegant And Elegant Lady's Long Dress](https://elevra.online/products/elegant-and-elegant-ladys-long-dress): Product Details: Fabric name: Polyester Pattern: solid color Style: pullover Combination form: single piece Color: dark red, green, dark blue, black Size information: Size: S, M, L, XL, XXL Prevention: 1. Asian size is 1-2 sizes smaller than European and American size. If your size is between two sizes, please choose the larger size. Please allow 2-3cm difference due to manual measurement. 2. Please check the size chart carefully before purchasing goods. If you don't know how to choose a size, please contact our customer service. 3. As you know, different computers display different colors, and the color of the actual project may be slightly different from the following images. Package content: Dress X1
+  Updated: 2025-12-03T22:52:32Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/f8c08130-85cc-422a-a194-d5e78d5bfbb8.jpg?v=1764759143
+  - [Red / S](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923299112)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/23913585-3b0c-495e-8a49-fb3d6082d5be.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Red / M](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923331880)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/23913585-3b0c-495e-8a49-fb3d6082d5be.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Red / L](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923364648)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/23913585-3b0c-495e-8a49-fb3d6082d5be.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Red / XL](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923397416)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/23913585-3b0c-495e-8a49-fb3d6082d5be.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Red / 2XL](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923430184)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/23913585-3b0c-495e-8a49-fb3d6082d5be.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Green / S](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923462952)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5d543b8e-f008-4910-9c5d-3143ca25f3f9.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Green / M](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923495720)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5d543b8e-f008-4910-9c5d-3143ca25f3f9.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Green / L](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923528488)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5d543b8e-f008-4910-9c5d-3143ca25f3f9.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Green / XL](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923561256)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5d543b8e-f008-4910-9c5d-3143ca25f3f9.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Green / 2XL](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923594024)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5d543b8e-f008-4910-9c5d-3143ca25f3f9.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Navy Blue / S](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923626792)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9d7079db-d2d3-47a0-aff7-21e813334036.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Navy Blue / M](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923659560)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9d7079db-d2d3-47a0-aff7-21e813334036.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Navy Blue / L](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923692328)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9d7079db-d2d3-47a0-aff7-21e813334036.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Navy Blue / XL](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923725096)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9d7079db-d2d3-47a0-aff7-21e813334036.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Navy Blue / 2XL](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923757864)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9d7079db-d2d3-47a0-aff7-21e813334036.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Black / S](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923790632)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2f2a6ce7-9c46-4c06-8cdd-d9cb70b91c8d.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Black / M](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923823400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2f2a6ce7-9c46-4c06-8cdd-d9cb70b91c8d.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Black / L](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923856168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2f2a6ce7-9c46-4c06-8cdd-d9cb70b91c8d.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Black / XL](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923888936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2f2a6ce7-9c46-4c06-8cdd-d9cb70b91c8d.jpg?v=1764759146
+    Price: $55.63 USD
+  - [Black / 2XL](https://elevra.online/products/elegant-and-elegant-ladys-long-dress?variant=51138923921704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2f2a6ce7-9c46-4c06-8cdd-d9cb70b91c8d.jpg?v=1764759146
+    Price: $55.63 USD
+- [Autumn And Winter New Loose Dress Women](https://elevra.online/products/autumn-and-winter-new-loose-dress-women): Product information: Pattern: solid color Color: green, navy blue, khaki, wine red Size: XS,S,M,L,XL,2XL,3XL Fabric name: gold velvet Skirt Category: Dress Style: commuting style Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Women's dress *1 Product Image:
+  Updated: 2025-12-04T06:10:22Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d9c08381-5bf8-4efe-af73-2ed509c7f64e.jpg?v=1764759172
+  - [Green / XS](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924118312)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/29113633-c40e-4ad4-a449-b41b8756ad2d.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Green / S](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924151080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/29113633-c40e-4ad4-a449-b41b8756ad2d.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Green / M](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924183848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/29113633-c40e-4ad4-a449-b41b8756ad2d.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Green / L](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924216616)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/29113633-c40e-4ad4-a449-b41b8756ad2d.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Green / XL](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924249384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/29113633-c40e-4ad4-a449-b41b8756ad2d.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Green / 2XL](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924282152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/29113633-c40e-4ad4-a449-b41b8756ad2d.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Green / 3XL](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924314920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/29113633-c40e-4ad4-a449-b41b8756ad2d.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Navy Blue / XS](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924347688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3ebb223c-6cd5-4158-bd29-67ffa333b1c3.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Navy Blue / S](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924380456)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3ebb223c-6cd5-4158-bd29-67ffa333b1c3.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Navy Blue / M](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924413224)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3ebb223c-6cd5-4158-bd29-67ffa333b1c3.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Navy Blue / L](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924445992)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3ebb223c-6cd5-4158-bd29-67ffa333b1c3.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Navy Blue / XL](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924478760)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3ebb223c-6cd5-4158-bd29-67ffa333b1c3.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Navy Blue / 2XL](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924511528)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3ebb223c-6cd5-4158-bd29-67ffa333b1c3.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Navy Blue / 3XL](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924544296)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3ebb223c-6cd5-4158-bd29-67ffa333b1c3.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Khaki / XS](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924577064)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/4b02e855-0220-4b10-9f54-0544221534a5.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Khaki / S](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924609832)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/4b02e855-0220-4b10-9f54-0544221534a5.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Khaki / M](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924642600)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/4b02e855-0220-4b10-9f54-0544221534a5.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Khaki / L](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924675368)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/4b02e855-0220-4b10-9f54-0544221534a5.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Khaki / XL](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924708136)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/4b02e855-0220-4b10-9f54-0544221534a5.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Khaki / 2XL](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924740904)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/4b02e855-0220-4b10-9f54-0544221534a5.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Khaki / 3XL](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924773672)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/4b02e855-0220-4b10-9f54-0544221534a5.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Wine Red / XS](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924806440)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d9c08381-5bf8-4efe-af73-2ed509c7f64e_94d31ee2-ff73-4058-9af8-65148839484d.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Wine Red / S](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924839208)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d9c08381-5bf8-4efe-af73-2ed509c7f64e_94d31ee2-ff73-4058-9af8-65148839484d.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Wine Red / M](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924871976)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d9c08381-5bf8-4efe-af73-2ed509c7f64e_94d31ee2-ff73-4058-9af8-65148839484d.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Wine Red / L](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924904744)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d9c08381-5bf8-4efe-af73-2ed509c7f64e_94d31ee2-ff73-4058-9af8-65148839484d.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Wine Red / XL](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924937512)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d9c08381-5bf8-4efe-af73-2ed509c7f64e_94d31ee2-ff73-4058-9af8-65148839484d.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Wine Red / 2XL](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138924970280)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d9c08381-5bf8-4efe-af73-2ed509c7f64e_94d31ee2-ff73-4058-9af8-65148839484d.jpg?v=1764759178
+    Price: $57.52 USD
+  - [Wine Red / 3XL](https://elevra.online/products/autumn-and-winter-new-loose-dress-women?variant=51138925003048)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d9c08381-5bf8-4efe-af73-2ed509c7f64e_94d31ee2-ff73-4058-9af8-65148839484d.jpg?v=1764759178
+    Price: $57.52 USD
+- [Christmas Sexy Suspenders Lace-up Dress](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress): Product information: Pattern: Printing Color: red, green, black, customized pictures and samples Size: S,M,L,XL,XXL,XXXL Style type: Art retro Style: strap type Fabric name: polar fleece on one side Main fabric composition: Polyester Fiber Style: retro style Process: Printing/printing and dyeing Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress *1 Product Image:
+  Updated: 2025-12-03T22:53:37Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/47c0c73d-56c9-486e-a6c1-0b9c46a1b97e.jpg?v=1764759207
+  - [Red / S](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925134120)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/def9f192-9701-4ff5-a8a0-47cdbbe90a58.jpg?v=1764759210
+    Price: $40.91 USD
+  - [Red / M](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925166888)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/def9f192-9701-4ff5-a8a0-47cdbbe90a58.jpg?v=1764759210
+    Price: $40.91 USD
+  - [Red / L](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925199656)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/def9f192-9701-4ff5-a8a0-47cdbbe90a58.jpg?v=1764759210
+    Price: $40.91 USD
+  - [Red / XL](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925232424)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/def9f192-9701-4ff5-a8a0-47cdbbe90a58.jpg?v=1764759210
+    Price: $40.91 USD
+  - [Red / XXL](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925265192)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/def9f192-9701-4ff5-a8a0-47cdbbe90a58.jpg?v=1764759210
+    Price: $40.91 USD
+  - [Red / XXXL](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925297960)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/def9f192-9701-4ff5-a8a0-47cdbbe90a58.jpg?v=1764759210
+    Price: $40.91 USD
+  - [Green / S](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925330728)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/47c0c73d-56c9-486e-a6c1-0b9c46a1b97e_850e19a8-5f67-4e40-a159-8de837826768.jpg?v=1764759210
+    Price: $40.91 USD
+  - [Green / M](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925363496)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/47c0c73d-56c9-486e-a6c1-0b9c46a1b97e_850e19a8-5f67-4e40-a159-8de837826768.jpg?v=1764759210
+    Price: $40.91 USD
+  - [Green / L](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925396264)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/47c0c73d-56c9-486e-a6c1-0b9c46a1b97e_850e19a8-5f67-4e40-a159-8de837826768.jpg?v=1764759210
+    Price: $40.91 USD
+  - [Green / XL](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925429032)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/47c0c73d-56c9-486e-a6c1-0b9c46a1b97e_850e19a8-5f67-4e40-a159-8de837826768.jpg?v=1764759210
+    Price: $40.91 USD
+  - [Green / XXL](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925461800)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/47c0c73d-56c9-486e-a6c1-0b9c46a1b97e_850e19a8-5f67-4e40-a159-8de837826768.jpg?v=1764759210
+    Price: $40.91 USD
+  - [Green / XXXL](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925494568)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/47c0c73d-56c9-486e-a6c1-0b9c46a1b97e_850e19a8-5f67-4e40-a159-8de837826768.jpg?v=1764759210
+    Price: $40.91 USD
+  - [Black / S](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925527336)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9b0ab366-be11-408a-8d42-b7b20b73709b.jpg?v=1764759210
+    Price: $40.91 USD
+  - [Black / M](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925560104)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9b0ab366-be11-408a-8d42-b7b20b73709b.jpg?v=1764759210
+    Price: $40.91 USD
+  - [Black / L](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925592872)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9b0ab366-be11-408a-8d42-b7b20b73709b.jpg?v=1764759210
+    Price: $40.91 USD
+  - [Black / XL](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925625640)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9b0ab366-be11-408a-8d42-b7b20b73709b.jpg?v=1764759210
+    Price: $40.91 USD
+  - [Black / XXL](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925658408)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9b0ab366-be11-408a-8d42-b7b20b73709b.jpg?v=1764759210
+    Price: $40.91 USD
+  - [Black / XXXL](https://elevra.online/products/christmas-sexy-suspenders-lace-up-dress?variant=51138925691176)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9b0ab366-be11-408a-8d42-b7b20b73709b.jpg?v=1764759210
+    Price: $40.91 USD
+- [Lace irregular dress](https://elevra.online/products/lace-irregular-dress): Style: Sexy pattern: plain Craft: Collage/Stitching Style: sling Combination form: single piece Skirt length; mid-length skirt Skirt type: Irregular skirt Waist type: high waist 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2025-12-03T22:54:06Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/407174249993.jpg?v=1764759238
+  - [Green / 5XL](https://elevra.online/products/lace-irregular-dress?variant=51138925756712)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/407174249993_73b72db6-3ab3-4787-937d-2c81470f8284.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Red / XL](https://elevra.online/products/lace-irregular-dress?variant=51138925789480)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5335897300.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Black / 4XL](https://elevra.online/products/lace-irregular-dress?variant=51138925822248)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3697980036340.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Black / S](https://elevra.online/products/lace-irregular-dress?variant=51138925855016)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3697980036340.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Black / XXL](https://elevra.online/products/lace-irregular-dress?variant=51138925887784)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3697980036340.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Green / M](https://elevra.online/products/lace-irregular-dress?variant=51138925920552)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/407174249993_73b72db6-3ab3-4787-937d-2c81470f8284.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Red wine / XL](https://elevra.online/products/lace-irregular-dress?variant=51138925953320)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/715557590767.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Black / 5XL](https://elevra.online/products/lace-irregular-dress?variant=51138925986088)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3697980036340.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Green / XXL](https://elevra.online/products/lace-irregular-dress?variant=51138926018856)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/407174249993_73b72db6-3ab3-4787-937d-2c81470f8284.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Green / 4XL](https://elevra.online/products/lace-irregular-dress?variant=51138926051624)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/407174249993_73b72db6-3ab3-4787-937d-2c81470f8284.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Green / XL](https://elevra.online/products/lace-irregular-dress?variant=51138926084392)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/407174249993_73b72db6-3ab3-4787-937d-2c81470f8284.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Red / 5XL](https://elevra.online/products/lace-irregular-dress?variant=51138926117160)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5335897300.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Red / L](https://elevra.online/products/lace-irregular-dress?variant=51138926149928)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5335897300.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Red wine / S](https://elevra.online/products/lace-irregular-dress?variant=51138926182696)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/715557590767.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Green / 3XL](https://elevra.online/products/lace-irregular-dress?variant=51138926215464)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/407174249993_73b72db6-3ab3-4787-937d-2c81470f8284.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Red wine / XXL](https://elevra.online/products/lace-irregular-dress?variant=51138926248232)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/715557590767.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Red wine / M](https://elevra.online/products/lace-irregular-dress?variant=51138926281000)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/715557590767.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Black / M](https://elevra.online/products/lace-irregular-dress?variant=51138926313768)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3697980036340.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Red / XXL](https://elevra.online/products/lace-irregular-dress?variant=51138926346536)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5335897300.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Red wine / L](https://elevra.online/products/lace-irregular-dress?variant=51138926379304)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/715557590767.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Red wine / 4XL](https://elevra.online/products/lace-irregular-dress?variant=51138926412072)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/715557590767.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Black / 3XL](https://elevra.online/products/lace-irregular-dress?variant=51138926444840)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3697980036340.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Black / L](https://elevra.online/products/lace-irregular-dress?variant=51138926477608)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3697980036340.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Red / M](https://elevra.online/products/lace-irregular-dress?variant=51138926510376)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5335897300.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Red wine / 3XL](https://elevra.online/products/lace-irregular-dress?variant=51138926543144)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/715557590767.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Red / S](https://elevra.online/products/lace-irregular-dress?variant=51138926575912)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5335897300.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Black / XL](https://elevra.online/products/lace-irregular-dress?variant=51138926608680)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3697980036340.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Green / S](https://elevra.online/products/lace-irregular-dress?variant=51138926641448)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/407174249993_73b72db6-3ab3-4787-937d-2c81470f8284.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Green / L](https://elevra.online/products/lace-irregular-dress?variant=51138926674216)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/407174249993_73b72db6-3ab3-4787-937d-2c81470f8284.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Red / 4XL](https://elevra.online/products/lace-irregular-dress?variant=51138926706984)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5335897300.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Red / 3XL](https://elevra.online/products/lace-irregular-dress?variant=51138926739752)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5335897300.jpg?v=1764759240
+    Price: $40.48 USD
+  - [Red wine / 5XL](https://elevra.online/products/lace-irregular-dress?variant=51138926772520)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/715557590767.jpg?v=1764759240
+    Price: $40.48 USD
+- [Women's Deep V Strapless Swing Dress](https://elevra.online/products/womens-deep-v-strapless-swing-dress): Product information: Color: red, green, black, red grid, white flowers Waist Type: Mid waist Size: S,M,L,XL,XXL Sleeve type: regular sleeve Main fabric composition: Polyester (polyester fiber) Sleeve length: long sleeve Skirt Category: Dress Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1 Product Image:
+  Updated: 2025-12-03T22:54:38Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/154572c4-c213-4f26-9bb7-967f2de12e10.jpg?v=1764759271
+  - [Red / S](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138927853864)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/154572c4-c213-4f26-9bb7-967f2de12e10_1e53ba09-380b-42e7-b569-5e4debd10e9e.jpg?v=1764759275
+    Price: $38.94 USD
+  - [Red / M](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138927886632)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/154572c4-c213-4f26-9bb7-967f2de12e10_1e53ba09-380b-42e7-b569-5e4debd10e9e.jpg?v=1764759275
+    Price: $38.94 USD
+  - [Red / L](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138927919400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/154572c4-c213-4f26-9bb7-967f2de12e10_1e53ba09-380b-42e7-b569-5e4debd10e9e.jpg?v=1764759275
+    Price: $38.94 USD
+  - [Red / XL](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138927952168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/154572c4-c213-4f26-9bb7-967f2de12e10_1e53ba09-380b-42e7-b569-5e4debd10e9e.jpg?v=1764759275
+    Price: $38.94 USD
+  - [Red / XXL](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138927984936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/154572c4-c213-4f26-9bb7-967f2de12e10_1e53ba09-380b-42e7-b569-5e4debd10e9e.jpg?v=1764759275
+    Price: $38.94 USD
+  - [Green / S](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928017704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/4f0cd60b-a3de-4acb-8628-7f5e4d0e93f6.jpg?v=1764759275
+    Price: $38.94 USD
+  - [Green / M](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928050472)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/4f0cd60b-a3de-4acb-8628-7f5e4d0e93f6.jpg?v=1764759275
+    Price: $38.94 USD
+  - [Green / L](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928083240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/4f0cd60b-a3de-4acb-8628-7f5e4d0e93f6.jpg?v=1764759275
+    Price: $38.94 USD
+  - [Green / XL](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928116008)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/4f0cd60b-a3de-4acb-8628-7f5e4d0e93f6.jpg?v=1764759275
+    Price: $38.94 USD
+  - [Green / XXL](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928148776)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/4f0cd60b-a3de-4acb-8628-7f5e4d0e93f6.jpg?v=1764759275
+    Price: $38.94 USD
+  - [Black / S](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928181544)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/f4627951-3c1e-4521-b81f-2f557db3305f.jpg?v=1764759275
+    Price: $38.94 USD
+  - [Black / M](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928214312)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/f4627951-3c1e-4521-b81f-2f557db3305f.jpg?v=1764759275
+    Price: $38.94 USD
+  - [Black / L](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928247080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/f4627951-3c1e-4521-b81f-2f557db3305f.jpg?v=1764759275
+    Price: $38.94 USD
+  - [Black / XL](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928279848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/f4627951-3c1e-4521-b81f-2f557db3305f.jpg?v=1764759275
+    Price: $38.94 USD
+  - [Black / XXL](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928312616)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/f4627951-3c1e-4521-b81f-2f557db3305f.jpg?v=1764759275
+    Price: $38.94 USD
+  - [Red Plaid / S](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928345384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/373fd74e-03ec-47f8-bfde-5f07a2360067.jpg?v=1764759275
+    Price: $41.60 USD
+  - [Red Plaid / M](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928378152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/373fd74e-03ec-47f8-bfde-5f07a2360067.jpg?v=1764759275
+    Price: $41.60 USD
+  - [Red Plaid / L](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928410920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/373fd74e-03ec-47f8-bfde-5f07a2360067.jpg?v=1764759275
+    Price: $41.60 USD
+  - [Red Plaid / XL](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928443688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/373fd74e-03ec-47f8-bfde-5f07a2360067.jpg?v=1764759275
+    Price: $41.60 USD
+  - [Red Plaid / XXL](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928476456)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/373fd74e-03ec-47f8-bfde-5f07a2360067.jpg?v=1764759275
+    Price: $41.60 USD
+  - [White Flower / S](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928509224)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/75cb0e3d-c3a9-4467-9a18-2825f806c17a.jpg?v=1764759275
+    Price: $41.60 USD
+  - [White Flower / M](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928541992)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/75cb0e3d-c3a9-4467-9a18-2825f806c17a.jpg?v=1764759275
+    Price: $41.60 USD
+  - [White Flower / L](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928574760)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/75cb0e3d-c3a9-4467-9a18-2825f806c17a.jpg?v=1764759275
+    Price: $41.60 USD
+  - [White Flower / XL](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928607528)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/75cb0e3d-c3a9-4467-9a18-2825f806c17a.jpg?v=1764759275
+    Price: $41.60 USD
+  - [White Flower / XXL](https://elevra.online/products/womens-deep-v-strapless-swing-dress?variant=51138928640296)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/75cb0e3d-c3a9-4467-9a18-2825f806c17a.jpg?v=1764759275
+    Price: $41.60 USD
+- [Women's Vintage Christmas Party Long Sleeve Red Velvet Dress Square Collar Dress Elegant Slimming Waist Autumn Women's Clothing](https://elevra.online/products/womens-vintage-christmas-party-long-sleeve-red-velvet-dress-square-collar-dress-elegant-slimming-waist-autumn-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, High quality. 100% Brand New. A variety of colors, any choice. Comfortable to wear. Product information: Color: wine red Sleeve type: Lantern sleeve Size: S,M,L,XL Skirt length: long skirt Sleeve length: long sleeve Skirt Category: Dress Material: Polyester Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Dress Product Image:
+  Updated: 2025-12-04T06:26:47Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/4c1910f0-3c74-428c-add2-54973580c3bf.jpg?v=1764759305
+  - [Wine Red / S](https://elevra.online/products/womens-vintage-christmas-party-long-sleeve-red-velvet-dress-square-collar-dress-elegant-slimming-waist-autumn-womens-clothing?variant=51138928967976)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/1776712b-9cb4-4dba-af79-53a0701ce57c.jpg?v=1764759310
+    Price: $68.68 USD
+  - [Wine Red / M](https://elevra.online/products/womens-vintage-christmas-party-long-sleeve-red-velvet-dress-square-collar-dress-elegant-slimming-waist-autumn-womens-clothing?variant=51138929000744)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/1776712b-9cb4-4dba-af79-53a0701ce57c.jpg?v=1764759310
+    Price: $68.68 USD
+  - [Wine Red / L](https://elevra.online/products/womens-vintage-christmas-party-long-sleeve-red-velvet-dress-square-collar-dress-elegant-slimming-waist-autumn-womens-clothing?variant=51138929033512)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/1776712b-9cb4-4dba-af79-53a0701ce57c.jpg?v=1764759310
+    Price: $68.68 USD
+  - [Wine Red / XL](https://elevra.online/products/womens-vintage-christmas-party-long-sleeve-red-velvet-dress-square-collar-dress-elegant-slimming-waist-autumn-womens-clothing?variant=51138929066280)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/1776712b-9cb4-4dba-af79-53a0701ce57c.jpg?v=1764759310
+    Price: $68.68 USD
+- [Long Sleeve Christmas Skirt Velvet Cake Dresses With Puffy Sleeves And V-Neck Mini Skirt Elegant Short Dress For Women New Year Party Clothing](https://elevra.online/products/long-sleeve-christmas-skirt-velvet-cake-dresses-with-puffy-sleeves-and-v-neck-mini-skirt-elegant-short-dress-for-women-new-year-party-clothing): Overview: Unique design, stylish and beautiful. Good material, High quality. 100% Brand New. A variety of colors, any choice. Comfortable to wear. Product information: Color: dark green, wine red Waist type: wide waist Size: S,M,L,XL Skirt length: short skirt Fabric name: gold velvet Main fabric composition: Polyester Fiber Sleeve length: nine-quarter sleeve Skirt Category: Dress Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Dress Product Image:
+  Updated: 2025-12-03T22:55:42Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/74e17ce2-45ae-4f94-87c0-f3223cd9bf55.jpg?v=1764759336
+  - [Dark Green / S](https://elevra.online/products/long-sleeve-christmas-skirt-velvet-cake-dresses-with-puffy-sleeves-and-v-neck-mini-skirt-elegant-short-dress-for-women-new-year-party-clothing?variant=51138929262888)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/abbb385c-385a-4816-be0f-ab8eb138df2d.jpg?v=1764759342
+    Price: $53.89 USD
+  - [Dark Green / M](https://elevra.online/products/long-sleeve-christmas-skirt-velvet-cake-dresses-with-puffy-sleeves-and-v-neck-mini-skirt-elegant-short-dress-for-women-new-year-party-clothing?variant=51138929295656)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/abbb385c-385a-4816-be0f-ab8eb138df2d.jpg?v=1764759342
+    Price: $53.89 USD
+  - [Dark Green / L](https://elevra.online/products/long-sleeve-christmas-skirt-velvet-cake-dresses-with-puffy-sleeves-and-v-neck-mini-skirt-elegant-short-dress-for-women-new-year-party-clothing?variant=51138929328424)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/abbb385c-385a-4816-be0f-ab8eb138df2d.jpg?v=1764759342
+    Price: $53.89 USD
+  - [Dark Green / XL](https://elevra.online/products/long-sleeve-christmas-skirt-velvet-cake-dresses-with-puffy-sleeves-and-v-neck-mini-skirt-elegant-short-dress-for-women-new-year-party-clothing?variant=51138929361192)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/abbb385c-385a-4816-be0f-ab8eb138df2d.jpg?v=1764759342
+    Price: $53.89 USD
+  - [Wine Red / S](https://elevra.online/products/long-sleeve-christmas-skirt-velvet-cake-dresses-with-puffy-sleeves-and-v-neck-mini-skirt-elegant-short-dress-for-women-new-year-party-clothing?variant=51138929393960)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/22496eae-47b9-4735-b549-52dc7878c373.jpg?v=1764759342
+    Price: $53.89 USD
+  - [Wine Red / M](https://elevra.online/products/long-sleeve-christmas-skirt-velvet-cake-dresses-with-puffy-sleeves-and-v-neck-mini-skirt-elegant-short-dress-for-women-new-year-party-clothing?variant=51138929426728)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/22496eae-47b9-4735-b549-52dc7878c373.jpg?v=1764759342
+    Price: $53.89 USD
+  - [Wine Red / L](https://elevra.online/products/long-sleeve-christmas-skirt-velvet-cake-dresses-with-puffy-sleeves-and-v-neck-mini-skirt-elegant-short-dress-for-women-new-year-party-clothing?variant=51138929459496)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/22496eae-47b9-4735-b549-52dc7878c373.jpg?v=1764759342
+    Price: $53.89 USD
+  - [Wine Red / XL](https://elevra.online/products/long-sleeve-christmas-skirt-velvet-cake-dresses-with-puffy-sleeves-and-v-neck-mini-skirt-elegant-short-dress-for-women-new-year-party-clothing?variant=51138929492264)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/22496eae-47b9-4735-b549-52dc7878c373.jpg?v=1764759342
+    Price: $53.89 USD
+- [Elegant Velvet Dress European And American Evening Party Women](https://elevra.online/products/elegant-velvet-dress-european-and-american-evening-party-women): Pattern: solid color Skirt-type: A- line skirt Color: wine red Waist Type: Mid waist Size: S,M,L,XL Style type: temperament commute Combination form: Single piece Skirt length: mid skirt Popular elements: solid color Style: pullover Sleeve type: regular sleeve Sleeve length: long sleeve Skirt Category: Dress Style: Elegant style Craft: collage/stitching Material: Polyester Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress x 1 pcs Product Image:
+  Updated: 2025-12-03T23:46:39Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d77771ca-73c5-482c-bac9-213cf795f04f.jpg?v=1764759365
+  - [Wine Red / S](https://elevra.online/products/elegant-velvet-dress-european-and-american-evening-party-women?variant=51138929590568)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/f172b0cb-16a2-4315-b9cb-2375828aeef4.jpg?v=1764759369
+    Price: $59.49 USD
+  - [Wine Red / M](https://elevra.online/products/elegant-velvet-dress-european-and-american-evening-party-women?variant=51138929623336)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/f172b0cb-16a2-4315-b9cb-2375828aeef4.jpg?v=1764759369
+    Price: $59.49 USD
+  - [Wine Red / L](https://elevra.online/products/elegant-velvet-dress-european-and-american-evening-party-women?variant=51138929656104)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/f172b0cb-16a2-4315-b9cb-2375828aeef4.jpg?v=1764759369
+    Price: $59.49 USD
+  - [Wine Red / XL](https://elevra.online/products/elegant-velvet-dress-european-and-american-evening-party-women?variant=51138929688872)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/f172b0cb-16a2-4315-b9cb-2375828aeef4.jpg?v=1764759369
+    Price: $59.49 USD
+- [Women's Christmas Knitted Round Neck Sweater Dresses Lantern Sleeve Pullover Sheath Dress Elegant Loose New Year Party Dresses Fall Winter Knitted Sweater Jumper](https://elevra.online/products/womens-christmas-knitted-round-neck-sweater-dresses-lantern-sleeve-pullover-sheath-dress-elegant-loose-new-year-party-dresses-fall-winter-knitted-sweater-jumper): Overview: Unique design, stylish and beautiful. Good material, High quality. 100% Brand New. A variety of colors, any choice. Comfortable to wear. Product information: Color: red, dark green, black, gray, brown Waist Type: Mid waist Size: S,M,L Skirt length: short skirt Fabric name: Polyester (polyester fiber) Sleeve type: Lantern sleeve Main fabric composition: Polyester (polyester fiber) Sleeve length: long sleeve Skirt Category: Dress Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Dress Product Image:
+  Updated: 2025-12-03T22:56:40Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/decb31b7-3a96-43a5-ae7b-ee6540a04198.jpg?v=1764759394
+  - [Red / S](https://elevra.online/products/womens-christmas-knitted-round-neck-sweater-dresses-lantern-sleeve-pullover-sheath-dress-elegant-loose-new-year-party-dresses-fall-winter-knitted-sweater-jumper?variant=51138929918248)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/be5a84c3-a9cf-465e-b6f1-4aa3a5b07413.jpg?v=1764759397
+    Price: $67.17 USD
+  - [Red / M](https://elevra.online/products/womens-christmas-knitted-round-neck-sweater-dresses-lantern-sleeve-pullover-sheath-dress-elegant-loose-new-year-party-dresses-fall-winter-knitted-sweater-jumper?variant=51138929951016)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/be5a84c3-a9cf-465e-b6f1-4aa3a5b07413.jpg?v=1764759397
+    Price: $67.17 USD
+  - [Red / L](https://elevra.online/products/womens-christmas-knitted-round-neck-sweater-dresses-lantern-sleeve-pullover-sheath-dress-elegant-loose-new-year-party-dresses-fall-winter-knitted-sweater-jumper?variant=51138929983784)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/be5a84c3-a9cf-465e-b6f1-4aa3a5b07413.jpg?v=1764759397
+    Price: $67.17 USD
+  - [Dark Green / S](https://elevra.online/products/womens-christmas-knitted-round-neck-sweater-dresses-lantern-sleeve-pullover-sheath-dress-elegant-loose-new-year-party-dresses-fall-winter-knitted-sweater-jumper?variant=51138930016552)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b5e3b8ee-4db0-4e5d-a5e1-2c498f08404d.jpg?v=1764759397
+    Price: $67.17 USD
+  - [Dark Green / M](https://elevra.online/products/womens-christmas-knitted-round-neck-sweater-dresses-lantern-sleeve-pullover-sheath-dress-elegant-loose-new-year-party-dresses-fall-winter-knitted-sweater-jumper?variant=51138930049320)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b5e3b8ee-4db0-4e5d-a5e1-2c498f08404d.jpg?v=1764759397
+    Price: $67.17 USD
+  - [Dark Green / L](https://elevra.online/products/womens-christmas-knitted-round-neck-sweater-dresses-lantern-sleeve-pullover-sheath-dress-elegant-loose-new-year-party-dresses-fall-winter-knitted-sweater-jumper?variant=51138930082088)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b5e3b8ee-4db0-4e5d-a5e1-2c498f08404d.jpg?v=1764759397
+    Price: $67.17 USD
+  - [Black / S](https://elevra.online/products/womens-christmas-knitted-round-neck-sweater-dresses-lantern-sleeve-pullover-sheath-dress-elegant-loose-new-year-party-dresses-fall-winter-knitted-sweater-jumper?variant=51138930114856)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9b9b464c-0cf7-487c-8ff1-a6e0acc59e61.jpg?v=1764759397
+    Price: $67.17 USD
+  - [Black / M](https://elevra.online/products/womens-christmas-knitted-round-neck-sweater-dresses-lantern-sleeve-pullover-sheath-dress-elegant-loose-new-year-party-dresses-fall-winter-knitted-sweater-jumper?variant=51138930147624)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9b9b464c-0cf7-487c-8ff1-a6e0acc59e61.jpg?v=1764759397
+    Price: $67.17 USD
+  - [Black / L](https://elevra.online/products/womens-christmas-knitted-round-neck-sweater-dresses-lantern-sleeve-pullover-sheath-dress-elegant-loose-new-year-party-dresses-fall-winter-knitted-sweater-jumper?variant=51138930180392)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9b9b464c-0cf7-487c-8ff1-a6e0acc59e61.jpg?v=1764759397
+    Price: $67.17 USD
+  - [Gray / S](https://elevra.online/products/womens-christmas-knitted-round-neck-sweater-dresses-lantern-sleeve-pullover-sheath-dress-elegant-loose-new-year-party-dresses-fall-winter-knitted-sweater-jumper?variant=51138930213160)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/ba1950f3-b9c2-4ea9-bc2d-a8c9f7044b30.jpg?v=1764759397
+    Price: $67.17 USD
+  - [Gray / M](https://elevra.online/products/womens-christmas-knitted-round-neck-sweater-dresses-lantern-sleeve-pullover-sheath-dress-elegant-loose-new-year-party-dresses-fall-winter-knitted-sweater-jumper?variant=51138930245928)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/ba1950f3-b9c2-4ea9-bc2d-a8c9f7044b30.jpg?v=1764759397
+    Price: $67.17 USD
+  - [Gray / L](https://elevra.online/products/womens-christmas-knitted-round-neck-sweater-dresses-lantern-sleeve-pullover-sheath-dress-elegant-loose-new-year-party-dresses-fall-winter-knitted-sweater-jumper?variant=51138930278696)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/ba1950f3-b9c2-4ea9-bc2d-a8c9f7044b30.jpg?v=1764759397
+    Price: $67.17 USD
+  - [Coffee / S](https://elevra.online/products/womens-christmas-knitted-round-neck-sweater-dresses-lantern-sleeve-pullover-sheath-dress-elegant-loose-new-year-party-dresses-fall-winter-knitted-sweater-jumper?variant=51138930311464)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3cacc198-5d7a-4f92-a721-1e24c2c61bd6.jpg?v=1764759397
+    Price: $67.17 USD
+  - [Coffee / M](https://elevra.online/products/womens-christmas-knitted-round-neck-sweater-dresses-lantern-sleeve-pullover-sheath-dress-elegant-loose-new-year-party-dresses-fall-winter-knitted-sweater-jumper?variant=51138930344232)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3cacc198-5d7a-4f92-a721-1e24c2c61bd6.jpg?v=1764759397
+    Price: $67.17 USD
+  - [Coffee / L](https://elevra.online/products/womens-christmas-knitted-round-neck-sweater-dresses-lantern-sleeve-pullover-sheath-dress-elegant-loose-new-year-party-dresses-fall-winter-knitted-sweater-jumper?variant=51138930377000)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3cacc198-5d7a-4f92-a721-1e24c2c61bd6.jpg?v=1764759397
+    Price: $67.17 USD
+- [Fashion Non-slip Warm Christmas Elk Plush Shoes](https://elevra.online/products/fashion-non-slip-warm-christmas-elk-plush-shoes): Product information: Color: Christmas deer cotton slippers-Green, Christmas deer cotton slippers-pink, Christmas deer cotton slippers-Brown Size: 36-37 (suitable for 35-36),38-39 (suitable for 37-38),40-41 (suitable for 39-40) Sole craft: sewing shoes Sole material: PVC Applicable Gender: Female Packing list: A pair of slippers Product Image:
+  Updated: 2025-12-04T00:39:11Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/db62b6c4-a48a-4c5f-9c3a-b9ff3cf8e0a9.jpg?v=1764759425
+  - [Green / 36to37](https://elevra.online/products/fashion-non-slip-warm-christmas-elk-plush-shoes?variant=51138930508072)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/db62b6c4-a48a-4c5f-9c3a-b9ff3cf8e0a9_3ed2a9d6-4ca0-4f10-b5c4-2f66ddea9b07.jpg?v=1764759429
+    Price: $39.01 USD
+  - [Green / 38to39](https://elevra.online/products/fashion-non-slip-warm-christmas-elk-plush-shoes?variant=51138930540840)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/db62b6c4-a48a-4c5f-9c3a-b9ff3cf8e0a9_3ed2a9d6-4ca0-4f10-b5c4-2f66ddea9b07.jpg?v=1764759429
+    Price: $39.01 USD
+  - [Green / 40to41](https://elevra.online/products/fashion-non-slip-warm-christmas-elk-plush-shoes?variant=51138930573608)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/db62b6c4-a48a-4c5f-9c3a-b9ff3cf8e0a9_3ed2a9d6-4ca0-4f10-b5c4-2f66ddea9b07.jpg?v=1764759429
+    Price: $39.01 USD
+  - [Pink / 36to37](https://elevra.online/products/fashion-non-slip-warm-christmas-elk-plush-shoes?variant=51138930606376)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5c514749-20d2-434b-b017-7d3f5019057d.jpg?v=1764759429
+    Price: $39.01 USD
+  - [Pink / 38to39](https://elevra.online/products/fashion-non-slip-warm-christmas-elk-plush-shoes?variant=51138930639144)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5c514749-20d2-434b-b017-7d3f5019057d.jpg?v=1764759429
+    Price: $39.01 USD
+  - [Pink / 40to41](https://elevra.online/products/fashion-non-slip-warm-christmas-elk-plush-shoes?variant=51138930671912)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5c514749-20d2-434b-b017-7d3f5019057d.jpg?v=1764759429
+    Price: $39.01 USD
+  - [Brown / 36to37](https://elevra.online/products/fashion-non-slip-warm-christmas-elk-plush-shoes?variant=51138930704680)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/84ed40f1-e29d-41c8-94d9-6f9e73520681.jpg?v=1764759429
+    Price: $39.01 USD
+  - [Brown / 38to39](https://elevra.online/products/fashion-non-slip-warm-christmas-elk-plush-shoes?variant=51138930737448)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/84ed40f1-e29d-41c8-94d9-6f9e73520681.jpg?v=1764759429
+    Price: $39.01 USD
+  - [Brown / 40to41](https://elevra.online/products/fashion-non-slip-warm-christmas-elk-plush-shoes?variant=51138930770216)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/84ed40f1-e29d-41c8-94d9-6f9e73520681.jpg?v=1764759429
+    Price: $39.01 USD
+- [Christmas Shoes Winter Home Slippers Elk Soft Cozy Bedroom Slipper Slip On House Shoes](https://elevra.online/products/christmas-shoes-winter-home-slippers-elk-soft-cozy-bedroom-slipper-slip-on-house-shoes): Overview: Unique design, stylish and beautiful. Good material, comfortable feet. A variety of colors, any choice. Specification: Type of slippers: toe slippers Sole material: EVA Applicable gender: male/female Function: warm and wear-resistant Popular element: candy color Thickness: thickening Upper material: suede Applicable crowd type: lovers Sole technology: sewing shoes Style: cute Style: Baotou Midsole material: EVA midsole (one-time foaming) Sole thickness: 1.5cm (inclusive) - 3.5cm (exclusive) Color: antler (pink), antler (bright red), antler (green), antler (blue), antler (grey) Size: 36-37 (recommended 35-36), 38-39 (recommended 37-38), 40-41 (recommended 39-40), 42-43 (recommended 41-42), 44-45 (recommended 43-44) Package Content: 1 pair x shoes
+  Updated: 2025-12-03T23:45:05Z
+  Vendor: null
+  Product Type: 4
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3f61ed50-395c-4138-8b49-762891033019.jpg?v=1764759457
+  - [Pink / 36to37](https://elevra.online/products/christmas-shoes-winter-home-slippers-elk-soft-cozy-bedroom-slipper-slip-on-house-shoes?variant=51138930901288)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/41129857-c887-4344-854b-b01baba7667b.jpg?v=1764759466
+    Price: $66.83 USD
+  - [Bright red / 36to37](https://elevra.online/products/christmas-shoes-winter-home-slippers-elk-soft-cozy-bedroom-slipper-slip-on-house-shoes?variant=51138930934056)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3f61ed50-395c-4138-8b49-762891033019_7f7d8f97-e1fb-434a-b762-647fbe760eb9.jpg?v=1764759466
+    Price: $66.83 USD
+  - [Green / 36to37](https://elevra.online/products/christmas-shoes-winter-home-slippers-elk-soft-cozy-bedroom-slipper-slip-on-house-shoes?variant=51138930966824)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2d347542-d554-4198-ac6f-28cbf765132d.jpg?v=1764759466
+    Price: $66.83 USD
+  - [Pink / 38to39](https://elevra.online/products/christmas-shoes-winter-home-slippers-elk-soft-cozy-bedroom-slipper-slip-on-house-shoes?variant=51138930999592)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/41129857-c887-4344-854b-b01baba7667b.jpg?v=1764759466
+    Price: $66.83 USD
+  - [Bright red / 38to39](https://elevra.online/products/christmas-shoes-winter-home-slippers-elk-soft-cozy-bedroom-slipper-slip-on-house-shoes?variant=51138931032360)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3f61ed50-395c-4138-8b49-762891033019_7f7d8f97-e1fb-434a-b762-647fbe760eb9.jpg?v=1764759466
+    Price: $66.83 USD
+  - [Green / 38to39](https://elevra.online/products/christmas-shoes-winter-home-slippers-elk-soft-cozy-bedroom-slipper-slip-on-house-shoes?variant=51138931065128)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2d347542-d554-4198-ac6f-28cbf765132d.jpg?v=1764759466
+    Price: $66.83 USD
+  - [Pink / 40to41](https://elevra.online/products/christmas-shoes-winter-home-slippers-elk-soft-cozy-bedroom-slipper-slip-on-house-shoes?variant=51138931097896)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/41129857-c887-4344-854b-b01baba7667b.jpg?v=1764759466
+    Price: $66.83 USD
+  - [Bright red / 40to41](https://elevra.online/products/christmas-shoes-winter-home-slippers-elk-soft-cozy-bedroom-slipper-slip-on-house-shoes?variant=51138931130664)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3f61ed50-395c-4138-8b49-762891033019_7f7d8f97-e1fb-434a-b762-647fbe760eb9.jpg?v=1764759466
+    Price: $66.83 USD
+  - [Green / 40to41](https://elevra.online/products/christmas-shoes-winter-home-slippers-elk-soft-cozy-bedroom-slipper-slip-on-house-shoes?variant=51138931163432)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2d347542-d554-4198-ac6f-28cbf765132d.jpg?v=1764759466
+    Price: $66.83 USD
+  - [Blue / 40to41](https://elevra.online/products/christmas-shoes-winter-home-slippers-elk-soft-cozy-bedroom-slipper-slip-on-house-shoes?variant=51138931196200)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/04a344f0-cb40-4dd8-9f53-52f26a9844a7.jpg?v=1764759466
+    Price: $66.83 USD
+  - [Bright red / 42to43](https://elevra.online/products/christmas-shoes-winter-home-slippers-elk-soft-cozy-bedroom-slipper-slip-on-house-shoes?variant=51138931228968)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3f61ed50-395c-4138-8b49-762891033019_7f7d8f97-e1fb-434a-b762-647fbe760eb9.jpg?v=1764759466
+    Price: $66.83 USD
+  - [Green / 42to43](https://elevra.online/products/christmas-shoes-winter-home-slippers-elk-soft-cozy-bedroom-slipper-slip-on-house-shoes?variant=51138931261736)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2d347542-d554-4198-ac6f-28cbf765132d.jpg?v=1764759466
+    Price: $66.83 USD
+  - [Blue / 42to43](https://elevra.online/products/christmas-shoes-winter-home-slippers-elk-soft-cozy-bedroom-slipper-slip-on-house-shoes?variant=51138931294504)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/04a344f0-cb40-4dd8-9f53-52f26a9844a7.jpg?v=1764759466
+    Price: $66.83 USD
+  - [Bright red / 44to45](https://elevra.online/products/christmas-shoes-winter-home-slippers-elk-soft-cozy-bedroom-slipper-slip-on-house-shoes?variant=51138931327272)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3f61ed50-395c-4138-8b49-762891033019_7f7d8f97-e1fb-434a-b762-647fbe760eb9.jpg?v=1764759466
+    Price: $66.83 USD
+  - [Green / 44to45](https://elevra.online/products/christmas-shoes-winter-home-slippers-elk-soft-cozy-bedroom-slipper-slip-on-house-shoes?variant=51138931360040)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/2d347542-d554-4198-ac6f-28cbf765132d.jpg?v=1764759466
+    Price: $66.83 USD
+  - [Blue / 44to45](https://elevra.online/products/christmas-shoes-winter-home-slippers-elk-soft-cozy-bedroom-slipper-slip-on-house-shoes?variant=51138931392808)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/04a344f0-cb40-4dd8-9f53-52f26a9844a7.jpg?v=1764759466
+    Price: $66.83 USD
+- [Cute Christmas Santa Claus Home Slippers Winter Warm Indoor Non-slip Floor Plush Shoes For Women](https://elevra.online/products/cute-christmas-santa-claus-home-slippers-winter-warm-indoor-non-slip-floor-plush-shoes-for-women): Overview: Unique design, stylish and beautiful. Good material, comfortable feet. A variety of colors, any choice. Specification: Upper material: Plush Sole material: EVA Applicable gender: neutral/both male and female Thickness: Thickened Pattern: Color blocking Color: Santa Claus Size: 36-37, 38-39, 40-41, 42-43, 44-45 Package Content: 1 pair x shoes Product Image:
+  Updated: 2025-12-04T02:27:30Z
+  Vendor: null
+  Product Type: 4
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/67b3ab4a-243f-4eb2-b2f9-38885e2d3516.jpg?v=1764759493
+  - [Santa Claus / 36to37](https://elevra.online/products/cute-christmas-santa-claus-home-slippers-winter-warm-indoor-non-slip-floor-plush-shoes-for-women?variant=51138931851560)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5617deca-2ab3-417f-833d-5d71f2227476.jpg?v=1764759497
+    Price: $50.62 USD
+  - [Santa Claus / 38to39](https://elevra.online/products/cute-christmas-santa-claus-home-slippers-winter-warm-indoor-non-slip-floor-plush-shoes-for-women?variant=51138931884328)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5617deca-2ab3-417f-833d-5d71f2227476.jpg?v=1764759497
+    Price: $50.62 USD
+  - [Santa Claus / 40to41](https://elevra.online/products/cute-christmas-santa-claus-home-slippers-winter-warm-indoor-non-slip-floor-plush-shoes-for-women?variant=51138931917096)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5617deca-2ab3-417f-833d-5d71f2227476.jpg?v=1764759497
+    Price: $50.62 USD
+- [Christmas Snowflake Gingerbread Slippers Winter Indoor Non-slip Floor Bedroom Fuzzy House Shoes For Women Home Slippers](https://elevra.online/products/christmas-snowflake-gingerbread-slippers-winter-indoor-non-slip-floor-bedroom-fuzzy-house-shoes-for-women-home-slippers): Overview: Unique design, stylish and beautiful. Good material, comfortable feet. A variety of colors, any choice. Specification: Sole material: TPR Upper material: Plush Applicable gender: neutral/both male and female Thickness: Thickened Pattern: Color blocking Color: Snowflake gingerbread man Size: 36-37 (suitable for 35-36 feet), 38-39 (suitable for 37-38 feet), 40-41 (suitable for 39-40 feet), 42-43 (suitable for 41-42 feet), 44-45 (suitable for 43-44 feet) Package Content: 1 pair x shoes Product Image:
+  Updated: 2025-12-04T02:27:33Z
+  Vendor: null
+  Product Type: 4
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/8b745c76-ef44-4db6-9d32-a9be36216158.jpg?v=1764759520
+  - [Gingerbread Man / 36to37](https://elevra.online/products/christmas-snowflake-gingerbread-slippers-winter-indoor-non-slip-floor-bedroom-fuzzy-house-shoes-for-women-home-slippers?variant=51138932048168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0c443551-2a9b-4d09-ba1c-714e423042eb.jpg?v=1764759527
+    Price: $29.83 USD
+  - [Gingerbread Man / 380to39](https://elevra.online/products/christmas-snowflake-gingerbread-slippers-winter-indoor-non-slip-floor-bedroom-fuzzy-house-shoes-for-women-home-slippers?variant=51138932080936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0c443551-2a9b-4d09-ba1c-714e423042eb.jpg?v=1764759527
+    Price: $31.10 USD
+  - [Gingerbread Man / 40to41](https://elevra.online/products/christmas-snowflake-gingerbread-slippers-winter-indoor-non-slip-floor-bedroom-fuzzy-house-shoes-for-women-home-slippers?variant=51138932113704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0c443551-2a9b-4d09-ba1c-714e423042eb.jpg?v=1764759527
+    Price: $30.68 USD
+  - [Gingerbread Man / 42to43](https://elevra.online/products/christmas-snowflake-gingerbread-slippers-winter-indoor-non-slip-floor-bedroom-fuzzy-house-shoes-for-women-home-slippers?variant=51138932146472)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0c443551-2a9b-4d09-ba1c-714e423042eb.jpg?v=1764759527
+    Price: $30.85 USD
+  - [Gingerbread Man / 44to45](https://elevra.online/products/christmas-snowflake-gingerbread-slippers-winter-indoor-non-slip-floor-bedroom-fuzzy-house-shoes-for-women-home-slippers?variant=51138932179240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0c443551-2a9b-4d09-ba1c-714e423042eb.jpg?v=1764759527
+    Price: $29.83 USD
+- [Cute Cartoon Santa Claus Home Slippers Couple Indoor Floor Bedroom Slipper Christmas Warm Shoes Women Men](https://elevra.online/products/cute-cartoon-santa-claus-home-slippers-couple-indoor-floor-bedroom-slipper-christmas-warm-shoes-women-men): Overview: Unique design, stylish and beautiful. Good material, comfortable feet. A variety of colors, any choice. Specification: Upper material: Short plush Sole material: TPR Applicable gender: neutral/both male and female Popular element: Cartoon Santa Claus Thickness: Thickened Function: Anti slip, Warm, Wear resistant Size: Package Content: 1 pair x shoes Product Image:
+  Updated: 2025-12-03T22:59:20Z
+  Vendor: null
+  Product Type: 4
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/c4cf9807-3f9f-4b40-ba01-e1925d8d15ba.jpg?v=1764759553
+  - [White / CN 36to37](https://elevra.online/products/cute-cartoon-santa-claus-home-slippers-couple-indoor-floor-bedroom-slipper-christmas-warm-shoes-women-men?variant=51138932343080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/c3d2f0ad-5cad-4b99-b62c-bb6b8fef876a.jpg?v=1764759558
+    Price: $29.29 USD
+  - [White / CN 38to39](https://elevra.online/products/cute-cartoon-santa-claus-home-slippers-couple-indoor-floor-bedroom-slipper-christmas-warm-shoes-women-men?variant=51138932375848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/c3d2f0ad-5cad-4b99-b62c-bb6b8fef876a.jpg?v=1764759558
+    Price: $29.29 USD
+  - [White / CN 40to41](https://elevra.online/products/cute-cartoon-santa-claus-home-slippers-couple-indoor-floor-bedroom-slipper-christmas-warm-shoes-women-men?variant=51138932408616)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/c3d2f0ad-5cad-4b99-b62c-bb6b8fef876a.jpg?v=1764759558
+    Price: $29.29 USD
+  - [White / CN 42to43](https://elevra.online/products/cute-cartoon-santa-claus-home-slippers-couple-indoor-floor-bedroom-slipper-christmas-warm-shoes-women-men?variant=51138932441384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/c3d2f0ad-5cad-4b99-b62c-bb6b8fef876a.jpg?v=1764759558
+    Price: $29.29 USD
+  - [White / CN 44to45](https://elevra.online/products/cute-cartoon-santa-claus-home-slippers-couple-indoor-floor-bedroom-slipper-christmas-warm-shoes-women-men?variant=51138932474152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/c3d2f0ad-5cad-4b99-b62c-bb6b8fef876a.jpg?v=1764759558
+    Price: $29.29 USD
+  - [White / CN 46to47](https://elevra.online/products/cute-cartoon-santa-claus-home-slippers-couple-indoor-floor-bedroom-slipper-christmas-warm-shoes-women-men?variant=51138932506920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/c3d2f0ad-5cad-4b99-b62c-bb6b8fef876a.jpg?v=1764759558
+    Price: $29.29 USD
+  - [Red White / CN 36to37](https://elevra.online/products/cute-cartoon-santa-claus-home-slippers-couple-indoor-floor-bedroom-slipper-christmas-warm-shoes-women-men?variant=51138932539688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/235522ad-2bbc-41bd-bb5c-ec8f83c0c990.jpg?v=1764759558
+    Price: $29.29 USD
+  - [Red White / CN 38to39](https://elevra.online/products/cute-cartoon-santa-claus-home-slippers-couple-indoor-floor-bedroom-slipper-christmas-warm-shoes-women-men?variant=51138932572456)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/235522ad-2bbc-41bd-bb5c-ec8f83c0c990.jpg?v=1764759558
+    Price: $29.29 USD
+  - [Red White / CN 40to41](https://elevra.online/products/cute-cartoon-santa-claus-home-slippers-couple-indoor-floor-bedroom-slipper-christmas-warm-shoes-women-men?variant=51138932605224)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/235522ad-2bbc-41bd-bb5c-ec8f83c0c990.jpg?v=1764759558
+    Price: $29.29 USD
+  - [Red White / CN 42to43](https://elevra.online/products/cute-cartoon-santa-claus-home-slippers-couple-indoor-floor-bedroom-slipper-christmas-warm-shoes-women-men?variant=51138932637992)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/235522ad-2bbc-41bd-bb5c-ec8f83c0c990.jpg?v=1764759558
+    Price: $29.29 USD
+  - [Red White / CN 44to45](https://elevra.online/products/cute-cartoon-santa-claus-home-slippers-couple-indoor-floor-bedroom-slipper-christmas-warm-shoes-women-men?variant=51138932670760)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/235522ad-2bbc-41bd-bb5c-ec8f83c0c990.jpg?v=1764759558
+    Price: $29.29 USD
+  - [Red White / CN 46to47](https://elevra.online/products/cute-cartoon-santa-claus-home-slippers-couple-indoor-floor-bedroom-slipper-christmas-warm-shoes-women-men?variant=51138932703528)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/235522ad-2bbc-41bd-bb5c-ec8f83c0c990.jpg?v=1764759558
+    Price: $29.29 USD
+- [Santa Claus Home Thick-soled Non-slip Slippers](https://elevra.online/products/santa-claus-home-thick-soled-non-slip-slippers): Product information: Color: red, green Heel shape: flat heel Size: 36-37,38-39,40-41,42-43,44-45 Sole material: PVC Toe holder shape: round head Shoe Upper material: fabric Applicable gender: neutral/both men and women Packing list: 1*Slippers Product Image:
+  Updated: 2025-12-03T23:48:11Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/fc6c5f77-98aa-40db-8549-36122fddeedb.jpg?v=1764759586
+  - [Red / 36to37](https://elevra.online/products/santa-claus-home-thick-soled-non-slip-slippers?variant=51138932769064)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b7de8b40-e2ec-47ed-8e47-4bf7edd88024.jpg?v=1764759591
+    Price: $45.47 USD
+  - [Red / 38to39](https://elevra.online/products/santa-claus-home-thick-soled-non-slip-slippers?variant=51138932801832)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b7de8b40-e2ec-47ed-8e47-4bf7edd88024.jpg?v=1764759591
+    Price: $45.47 USD
+  - [Red / 40to41](https://elevra.online/products/santa-claus-home-thick-soled-non-slip-slippers?variant=51138932834600)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b7de8b40-e2ec-47ed-8e47-4bf7edd88024.jpg?v=1764759591
+    Price: $45.47 USD
+  - [Red / 42to43](https://elevra.online/products/santa-claus-home-thick-soled-non-slip-slippers?variant=51138932867368)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b7de8b40-e2ec-47ed-8e47-4bf7edd88024.jpg?v=1764759591
+    Price: $45.47 USD
+  - [Red / 44to45](https://elevra.online/products/santa-claus-home-thick-soled-non-slip-slippers?variant=51138932900136)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b7de8b40-e2ec-47ed-8e47-4bf7edd88024.jpg?v=1764759591
+    Price: $45.47 USD
+  - [Green / 36to37](https://elevra.online/products/santa-claus-home-thick-soled-non-slip-slippers?variant=51138932932904)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0a3731b9-41ee-4848-bb26-8024280de8d5.jpg?v=1764759591
+    Price: $45.47 USD
+  - [Green / 38to39](https://elevra.online/products/santa-claus-home-thick-soled-non-slip-slippers?variant=51138932965672)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0a3731b9-41ee-4848-bb26-8024280de8d5.jpg?v=1764759591
+    Price: $45.47 USD
+  - [Green / 40to41](https://elevra.online/products/santa-claus-home-thick-soled-non-slip-slippers?variant=51138932998440)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0a3731b9-41ee-4848-bb26-8024280de8d5.jpg?v=1764759591
+    Price: $45.47 USD
+  - [Green / 42to43](https://elevra.online/products/santa-claus-home-thick-soled-non-slip-slippers?variant=51138933031208)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0a3731b9-41ee-4848-bb26-8024280de8d5.jpg?v=1764759591
+    Price: $45.47 USD
+  - [Green / 44to45](https://elevra.online/products/santa-claus-home-thick-soled-non-slip-slippers?variant=51138933063976)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0a3731b9-41ee-4848-bb26-8024280de8d5.jpg?v=1764759591
+    Price: $45.47 USD
+- [Love Knitted Plush Floor Socks Winter Warm Non-slip Carpet Socks Christmas Home Women](https://elevra.online/products/love-knitted-plush-floor-socks-winter-warm-non-slip-carpet-socks-christmas-home-women): Specification: Fabric: Polyester Craftsmanship: Jacquard Material: Polyester Double needle socks: No: Single needle socks Boneless sewing: No: Machine sewing head Applicable seasons: Winter, Autumn Size: One size fits all Package Content: Socks * 1 pair Product Image:
+  Updated: 2025-12-03T23:00:24Z
+  Vendor: null
+  Product Type: 4
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/c8de15a1-5879-44fe-8460-9854259e8450.jpg?v=1764759620
+  - [Dark Grey / One size](https://elevra.online/products/love-knitted-plush-floor-socks-winter-warm-non-slip-carpet-socks-christmas-home-women?variant=51138933489960)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/c612aa78-1136-4f74-b85a-8da598327d8c.jpg?v=1764759625
+    Price: $30.49 USD
+  - [Pink / One size](https://elevra.online/products/love-knitted-plush-floor-socks-winter-warm-non-slip-carpet-socks-christmas-home-women?variant=51138933522728)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/68f8b280-d93a-446d-8304-02f1bb3f8f20.jpg?v=1764759626
+    Price: $30.49 USD
+  - [Big Red / One size](https://elevra.online/products/love-knitted-plush-floor-socks-winter-warm-non-slip-carpet-socks-christmas-home-women?variant=51138933555496)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3e1de2ba-295d-4235-8e3d-2d6a8c09e603.jpg?v=1764759625
+    Price: $30.49 USD
+  - [Black / One size](https://elevra.online/products/love-knitted-plush-floor-socks-winter-warm-non-slip-carpet-socks-christmas-home-women?variant=51138933588264)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/71581963-c041-4501-9ac1-2cb16c2cb102.jpg?v=1764759626
+    Price: $30.49 USD
+  - [Green / One size](https://elevra.online/products/love-knitted-plush-floor-socks-winter-warm-non-slip-carpet-socks-christmas-home-women?variant=51138933621032)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/a7fdbee5-f8d7-40bd-961a-93a67dd3966d.jpg?v=1764759626
+    Price: $30.49 USD
+  - [Blue / One size](https://elevra.online/products/love-knitted-plush-floor-socks-winter-warm-non-slip-carpet-socks-christmas-home-women?variant=51138933653800)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9c233cf3-4b5e-46d2-b25f-fd94b9dde1d2.jpg?v=1764759625
+    Price: $30.49 USD
+- [Christmas Magnetic Socks Cute Elk Santa Claus Snowman Hand-holding Socks For Couple](https://elevra.online/products/christmas-magnetic-socks-cute-elk-santa-claus-snowman-hand-holding-socks-for-couple): Product information: Fabric name: Cotton Function: Breathable, zodiac year Packing list: Socks * 1 pair Product Image:
+  Updated: 2025-12-03T23:00:56Z
+  Vendor: null
+  Product Type: 4
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/4b2ca4c8-09a8-4630-892f-0b404bcb10fa.jpg?v=1764759650
+  - [Red Santa Claus](https://elevra.online/products/christmas-magnetic-socks-cute-elk-santa-claus-snowman-hand-holding-socks-for-couple?variant=51138933784872)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/8a6b64d5-9638-4a61-98d0-f05a9803b282.jpg?v=1764759660
+    Price: $19.70 USD
+  - [Red Scarf Elk](https://elevra.online/products/christmas-magnetic-socks-cute-elk-santa-claus-snowman-hand-holding-socks-for-couple?variant=51138933817640)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/d0ef884f-3131-48ec-b386-544f7184e5e3.jpg?v=1764759660
+    Price: $19.70 USD
+  - [Red Black Santa](https://elevra.online/products/christmas-magnetic-socks-cute-elk-santa-claus-snowman-hand-holding-socks-for-couple?variant=51138933850408)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3501e6a2-a401-4aa6-9889-39ffeb222f15.jpg?v=1764759660
+    Price: $19.70 USD
+  - [Red Christmas Tree](https://elevra.online/products/christmas-magnetic-socks-cute-elk-santa-claus-snowman-hand-holding-socks-for-couple?variant=51138933883176)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/0f3d6bd7-5745-4f81-9115-5cabeb585a8b.jpg?v=1764759660
+    Price: $19.70 USD
+  - [Red Little Santa Claus](https://elevra.online/products/christmas-magnetic-socks-cute-elk-santa-claus-snowman-hand-holding-socks-for-couple?variant=51138933915944)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/95b977e6-69df-4f27-88d9-1f97125bce7c.jpg?v=1764759660
+    Price: $19.70 USD
+  - [Black Santa Claus](https://elevra.online/products/christmas-magnetic-socks-cute-elk-santa-claus-snowman-hand-holding-socks-for-couple?variant=51138933948712)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3dbb6046-fe89-4902-8173-1ee53d023d01.jpg?v=1764759660
+    Price: $19.70 USD
+  - [Black Elk](https://elevra.online/products/christmas-magnetic-socks-cute-elk-santa-claus-snowman-hand-holding-socks-for-couple?variant=51138933981480)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5aae9de9-17d2-4eec-882a-a4e6b0d5d9d9.jpg?v=1764759660
+    Price: $19.70 USD
+  - [Dark Grey Santa Claus](https://elevra.online/products/christmas-magnetic-socks-cute-elk-santa-claus-snowman-hand-holding-socks-for-couple?variant=51138934014248)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/53efe1e9-0a99-469b-ae1a-4bc821bb9a14.jpg?v=1764759660
+    Price: $19.70 USD
+  - [Light Grey Santa Claus](https://elevra.online/products/christmas-magnetic-socks-cute-elk-santa-claus-snowman-hand-holding-socks-for-couple?variant=51138934047016)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/894b219f-c816-46cc-a6d1-e252bc4408cd.jpg?v=1764759660
+    Price: $19.70 USD
+- [Cute Christmas Five-finger Socks Winter Elastic Sweat-absorbent Split-toe Socks For Women](https://elevra.online/products/cute-christmas-five-finger-socks-winter-elastic-sweat-absorbent-split-toe-socks-for-women): Product information: Fabric name: Acrylic Function: Sweat absorption, odor prevention Pattern: Animal pattern Color: Grey Penguin, Red Balloon, Green Penguin, Black Penguin, Black Stripe, HOI Elderly, Green Snowman Size: Young Student/Adult Main fabric composition: 70% (inclusive) -80% (exclusive) Packing list: Socks * 1 pair Product Image:
+  Updated: 2025-12-03T23:46:33Z
+  Vendor: null
+  Product Type: 4
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/1628ab3f-6566-4d1a-a45c-76f87509be92.jpg?v=1764759685
+  - [Grey Penguin](https://elevra.online/products/cute-christmas-five-finger-socks-winter-elastic-sweat-absorbent-split-toe-socks-for-women?variant=51138935947560)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/bddd15ac-070c-41f9-94a8-5df1c5fc2756.jpg?v=1764759691
+    Price: $18.48 USD
+  - [Red Balloon](https://elevra.online/products/cute-christmas-five-finger-socks-winter-elastic-sweat-absorbent-split-toe-socks-for-women?variant=51138935980328)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/122cec4b-a902-4b7f-958f-17ebd2e3a8a2.jpg?v=1764759691
+    Price: $18.48 USD
+  - [Green Penguin](https://elevra.online/products/cute-christmas-five-finger-socks-winter-elastic-sweat-absorbent-split-toe-socks-for-women?variant=51138936013096)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/10c60ff7-1852-4e27-b869-3c0a6ba6ce96.jpg?v=1764759691
+    Price: $18.48 USD
+  - [Black Penguin](https://elevra.online/products/cute-christmas-five-finger-socks-winter-elastic-sweat-absorbent-split-toe-socks-for-women?variant=51138936045864)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/21513d43-da61-45e5-9f22-0fd718c5e927.jpg?v=1764759691
+    Price: $18.48 USD
+  - [Black Stripe](https://elevra.online/products/cute-christmas-five-finger-socks-winter-elastic-sweat-absorbent-split-toe-socks-for-women?variant=51138936078632)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/7ee8f3b5-3b6f-4330-ac11-3057d529a43b.jpg?v=1764759691
+    Price: $18.48 USD
+  - [HOI Elderly](https://elevra.online/products/cute-christmas-five-finger-socks-winter-elastic-sweat-absorbent-split-toe-socks-for-women?variant=51138936111400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/1628ab3f-6566-4d1a-a45c-76f87509be92_b828b862-6a38-4b4d-a774-30bb794b2945.jpg?v=1764759691
+    Price: $18.48 USD
+  - [Green Snowman](https://elevra.online/products/cute-christmas-five-finger-socks-winter-elastic-sweat-absorbent-split-toe-socks-for-women?variant=51138936144168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/a5ba4132-d11e-423b-8d24-b041cfbacc4e.jpg?v=1764759691
+    Price: $18.48 USD
+- [Layout Supplies Decorative Decorations Knitted Pendant Gift Bag Twist Large](https://elevra.online/products/layout-supplies-decorative-decorations-knitted-pendant-gift-bag-twist-large): Product information: Color: purplish red, ivory white, dark green, linen, linen mixed ivory white, silver gray, silver gray mixed ivory white Suitable for gift-giving occasions: housewarming, party gathering, visiting and visiting, others Material: acrylic Size: 18 inches/46CM Applicable gift-giving relationship: Couples, elders, classmates, teachers Applicable holiday: Christmas Packing list: 1 piece of socks Product Image:
+  Updated: 2025-12-03T23:02:03Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/7b62c317-ec95-45c6-88f8-342fdf8a15f9_trans.jpg?v=1764759718
+  - [Purplish Red](https://elevra.online/products/layout-supplies-decorative-decorations-knitted-pendant-gift-bag-twist-large?variant=51138936406312)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/68c6def5-8578-408c-8166-007a572431d6_trans.jpg?v=1764759725
+    Price: $27.18 USD
+  - [Ivory White](https://elevra.online/products/layout-supplies-decorative-decorations-knitted-pendant-gift-bag-twist-large?variant=51138936439080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/80918d04-afb7-4a7f-9174-af7e6fc1a0bc_trans.jpg?v=1764759725
+    Price: $27.18 USD
+  - [Dark Green](https://elevra.online/products/layout-supplies-decorative-decorations-knitted-pendant-gift-bag-twist-large?variant=51138936471848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/c0c9dd88-3163-4c85-a3e1-1fe276950357_trans.jpg?v=1764759725
+    Price: $27.18 USD
+  - [Linen](https://elevra.online/products/layout-supplies-decorative-decorations-knitted-pendant-gift-bag-twist-large?variant=51138936504616)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/ab7aa12d-13dc-4e46-bb8a-0c284b7b2022_trans.jpg?v=1764759725
+    Price: $27.18 USD
+  - [Linen Mixed Ivory White](https://elevra.online/products/layout-supplies-decorative-decorations-knitted-pendant-gift-bag-twist-large?variant=51138936537384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6f1387e5-4934-41d3-9681-d6d4055b1271_trans.jpg?v=1764759725
+    Price: $27.18 USD
+  - [Silver Gray](https://elevra.online/products/layout-supplies-decorative-decorations-knitted-pendant-gift-bag-twist-large?variant=51138936570152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/a5ee7dba-7c1f-45dd-bd71-cbd1624bd175_trans.jpg?v=1764759725
+    Price: $27.18 USD
+  - [Silver Gray Mixed Ivory White](https://elevra.online/products/layout-supplies-decorative-decorations-knitted-pendant-gift-bag-twist-large?variant=51138936602920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/87d4b695-f195-4471-9c9c-575879d6f29b_trans.jpg?v=1764759725
+    Price: $27.18 USD
+- [Thickened Room Socks Indoor Non-slip Silicone Lambswool Socks](https://elevra.online/products/thickened-room-socks-indoor-non-slip-silicone-lambswool-socks): Product information: Color: Snowman, koala, panda, gingerbread man, Santa Claus, Fox, Strawberry bear, puppy, Elk Thickness: thickening Fabric name: Polyester Fiber Main fabric composition: Polyester Fiber (polyester) Applicable Gender: Female Craft: Jacquard Note: Packing list: 1pairs*Socks Product Image:
+  Updated: 2025-12-03T23:02:36Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/467e21ba-a0e6-4cfe-94d3-f8bcf8198e99_trans.jpg?v=1764759750
+  - [Snowman](https://elevra.online/products/thickened-room-socks-indoor-non-slip-silicone-lambswool-socks?variant=51138937422120)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/20165a9c-f5d4-4056-afbb-3c173236b243.jpg?v=1764759757
+    Price: $29.74 USD
+  - [Koala](https://elevra.online/products/thickened-room-socks-indoor-non-slip-silicone-lambswool-socks?variant=51138937454888)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42f7f3e6-c1a4-43a9-9e38-7c34dc496cce.jpg?v=1764759758
+    Price: $29.74 USD
+  - [Panda](https://elevra.online/products/thickened-room-socks-indoor-non-slip-silicone-lambswool-socks?variant=51138937487656)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6e99f8dd-3711-4989-8df6-67823d23488a.jpg?v=1764759757
+    Price: $29.74 USD
+  - [Gingerbread Man](https://elevra.online/products/thickened-room-socks-indoor-non-slip-silicone-lambswool-socks?variant=51138937520424)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/532a565e-73ec-4247-9ab6-7dbd2e5e2111.jpg?v=1764759758
+    Price: $29.74 USD
+  - [Santa Claus](https://elevra.online/products/thickened-room-socks-indoor-non-slip-silicone-lambswool-socks?variant=51138937553192)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b4d83548-0917-43f9-b745-a044150b710f.jpg?v=1764759758
+    Price: $29.74 USD
+  - [Fox](https://elevra.online/products/thickened-room-socks-indoor-non-slip-silicone-lambswool-socks?variant=51138937585960)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/4d67e19d-955e-44b9-b295-b0209fc76e47.jpg?v=1764759758
+    Price: $29.74 USD
+  - [Strawberry Bear](https://elevra.online/products/thickened-room-socks-indoor-non-slip-silicone-lambswool-socks?variant=51138937618728)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/87431d6c-0bcb-41d9-bfc0-890798052e94.jpg?v=1764759757
+    Price: $29.74 USD
+  - [Puppy](https://elevra.online/products/thickened-room-socks-indoor-non-slip-silicone-lambswool-socks?variant=51138937651496)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/8cb62a08-e021-44a2-b407-950c88f27771.jpg?v=1764759758
+    Price: $29.74 USD
+  - [Elk](https://elevra.online/products/thickened-room-socks-indoor-non-slip-silicone-lambswool-socks?variant=51138937684264)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/99181806-4de2-4aa1-ab1c-fb3042fce0f9.jpg?v=1764759758
+    Price: $29.74 USD
+- [Floor Winter Home Non-slip Slippers Socks](https://elevra.online/products/floor-winter-home-non-slip-slippers-socks): Product information: Fabric name: acrylic Color: Boots socks glaze blue, boots socks wine red, boots socks dark blue, boots socks light brown, boots socks dark gray, boots Socks Black Main fabric composition: acrylic fiber Size: 36-42 Packing list: 1pairs* Socks Product Image:
+  Updated: 2025-12-03T23:03:11Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/59b10836-c07c-4a65-a60e-7c82c2ec6fa3.jpg?v=1764759786
+  - [Boot Socks Glaze Blue / 36to42](https://elevra.online/products/floor-winter-home-non-slip-slippers-socks?variant=51138938372392)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/15769ee1-b36f-45f5-a7d6-3eb6b7495f4a.jpg?v=1764759793
+    Price: $33.15 USD
+  - [Boot Socks Wine Red / 36to42](https://elevra.online/products/floor-winter-home-non-slip-slippers-socks?variant=51138938405160)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/ae6d3483-a5fa-463a-841e-a8e54833b3e7.jpg?v=1764759793
+    Price: $31.12 USD
+  - [Boot Socks Navy Blue / 36to42](https://elevra.online/products/floor-winter-home-non-slip-slippers-socks?variant=51138938437928)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/44585c3f-466d-46a5-ad35-2021c1954680.jpg?v=1764759793
+    Price: $27.71 USD
+  - [Boot Socks Light Coffee / 36to42](https://elevra.online/products/floor-winter-home-non-slip-slippers-socks?variant=51138938470696)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6d4f27a2-b652-47ce-b043-050e67a1737a.jpg?v=1764759793
+    Price: $27.71 USD
+  - [Boot Socks Dark Gray / 36to42](https://elevra.online/products/floor-winter-home-non-slip-slippers-socks?variant=51138938503464)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/b9264910-1542-43b5-8de1-4260e8f367cf.jpg?v=1764759793
+    Price: $27.71 USD
+  - [Boot Socks Black / 36to42](https://elevra.online/products/floor-winter-home-non-slip-slippers-socks?variant=51138938536232)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/cc8d99be-8764-4102-9c2e-74a7955e8d41.jpg?v=1764759793
+    Price: $27.71 USD
+- [Winter Christmas Warm Knitted Women Stocking Beautiful Elk Snowflake Jacquard Over-the-knee Casual Long Socks For Ladies Gifts Free Size](https://elevra.online/products/winter-christmas-warm-knitted-women-stocking-beautiful-elk-snowflake-jacquard-over-the-knee-casual-long-socks-for-ladies-gifts-free-size): Overview: 1. Keep You Warm: Designed with the size of the sole is about 23cm/9.06in, and the height of the tube is 60cm/23.62in, these Christmas thigh-high stockings bring you warmth. 2. Soft and Comfortable: You will feel soft and comfortable the moment you wear these sub-knit Christmas thigh-high stockings, which are also skin-friendly, thick, and warm. 3. Simple Knitting Patterns: Simple knitting design with combined patterns of snowflakes and elk, Christmas element socks bring you a cute and casual look. 4. Universally Fit: Suitable for matching with mini dresses, skirts, shorts, sweaters, as home wear or outdoor wear, these Christmas socks fit most women and girls, which are easy to wear and take off. 5. Ideal Winter Gift: As a necessity in cold winter, these Christmas socks bring warmth and comfort to yourself or your family and friends as a Christmas gift. Product information: Pattern: Christmas Color: white, red, gray Fabric name: acrylic Applicable Gender: Female Function: breathable, sweat-absorbent Packing list: Stocking X1Pair Product Image:
+  Updated: 2025-12-04T00:04:19Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3c1c3b65-8e84-4bbe-9c8a-eacd4c5782e9.jpg?v=1764759822
+  - [White / Average Size](https://elevra.online/products/winter-christmas-warm-knitted-women-stocking-beautiful-elk-snowflake-jacquard-over-the-knee-casual-long-socks-for-ladies-gifts-free-size?variant=51138938929448)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/1afaafd1-147b-487b-884d-c31dfe73775a.jpg?v=1764759827
+    Price: $41.84 USD
+  - [Red / Average Size](https://elevra.online/products/winter-christmas-warm-knitted-women-stocking-beautiful-elk-snowflake-jacquard-over-the-knee-casual-long-socks-for-ladies-gifts-free-size?variant=51138938962216)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/dd867775-d21c-4e8a-a837-c1eeee71f775.jpg?v=1764759827
+    Price: $41.84 USD
+  - [Gray / Average Size](https://elevra.online/products/winter-christmas-warm-knitted-women-stocking-beautiful-elk-snowflake-jacquard-over-the-knee-casual-long-socks-for-ladies-gifts-free-size?variant=51138938994984)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/4e8cf328-9a17-422f-853a-fc244d9bffee.jpg?v=1764759827
+    Price: $41.84 USD
+  - [Set / Average Size](https://elevra.online/products/winter-christmas-warm-knitted-women-stocking-beautiful-elk-snowflake-jacquard-over-the-knee-casual-long-socks-for-ladies-gifts-free-size?variant=51138939027752)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3c1c3b65-8e84-4bbe-9c8a-eacd4c5782e9_0f0b2514-78bb-4eca-8fe6-d4c2536ba10f.jpg?v=1764759827
+    Price: $93.73 USD
+- [USB Electric Heating Warm Thickened Heating Room Socks](https://elevra.online/products/usb-electric-heating-warm-thickened-heating-room-socks): Product information: Pattern: cartoon color: red elk, blue elk, red Santa Claus Size: average size Thickness: medium Fabric name: acrylic Main fabric composition: acrylic fiber Applicable gender: neutral/both men and women Craft: Jacquard Packing list: A pair of socks Product Image:
+  Updated: 2025-12-03T23:04:20Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/86fc6ac2-6a72-49fb-afd1-fd87a2c810a8.jpg?v=1764759854
+  - [Red Elk / Average Size](https://elevra.online/products/usb-electric-heating-warm-thickened-heating-room-socks?variant=51138939912488)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/aa25a6e1-3107-49e8-b001-0974e6139a17.jpg?v=1764759857
+    Price: $56.85 USD
+  - [Blue Elk / Average Size](https://elevra.online/products/usb-electric-heating-warm-thickened-heating-room-socks?variant=51138939945256)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/c9d2890c-5c30-4e5c-a14c-748d97f02a2c.jpg?v=1764759857
+    Price: $56.85 USD
+  - [Red Santa Claus / Average Size](https://elevra.online/products/usb-electric-heating-warm-thickened-heating-room-socks?variant=51138939978024)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/42ce662d-e6f5-4dad-9a88-6e61f7b16b6c.jpg?v=1764759857
+    Price: $56.85 USD
+- [Christmas Tree Hat Party Dress Up Headdress For Taking Photos](https://elevra.online/products/christmas-tree-hat-party-dress-up-headdress-for-taking-photos): Product information: Color: Christmas tree hat, Alphabet sequins Christmas hat, knitted Santa snowflake hat, Bell flower antlers Christmas hat, red paillette elk Christmas hat, Santa Claus Christmas hat, furry reindeer Christmas hat, Rudolf Christmas hat, furry Beard Old Man Christmas hat, fur bow tie elk Christmas hat, fur bow tie snowman Christmas hat, Alphabet sequins antlers glasses, Christmas tree antlers glasses, Bell reindeer horn glasses, fur snowflake glasses, Elk Christmas tree-glasses, Christmas tree-glasses, snowman Christmas tree-glasses, red nose antlers-red, fur ball antlers glasses-Red Material: cloth Style: Christmas Packing list: Hat *1 Product Image:
+  Updated: 2025-12-04T06:43:58Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/fb758f85-d26f-4443-bee7-0722dd765882.jpg?v=1764759881
+  - [Christmas Tree Hat](https://elevra.online/products/christmas-tree-hat-party-dress-up-headdress-for-taking-photos?variant=51138940567848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/fb758f85-d26f-4443-bee7-0722dd765882_faa42d76-dece-4217-990f-6f25e249967f.jpg?v=1764759888
+    Price: $15.10 USD
+  - [Alphabet Sequins Christmas Hat](https://elevra.online/products/christmas-tree-hat-party-dress-up-headdress-for-taking-photos?variant=51138940600616)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/bd128f9a-a6c2-481a-a38b-61f7ab887a63.jpg?v=1764759888
+    Price: $14.22 USD
+  - [Red Sequined Elk Christmas Hat](https://elevra.online/products/christmas-tree-hat-party-dress-up-headdress-for-taking-photos?variant=51138940633384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/bddb5447-6b1e-44ab-8f72-ccb74e2aa5fd.jpg?v=1764759888
+    Price: $14.22 USD
+  - [Santa Claus Christmas Hat](https://elevra.online/products/christmas-tree-hat-party-dress-up-headdress-for-taking-photos?variant=51138940666152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/163f8510-29d9-4706-a53e-99d1bf1d249d.jpg?v=1764759888
+    Price: $14.22 USD
+  - [Furry Reindeer Christmas Hat](https://elevra.online/products/christmas-tree-hat-party-dress-up-headdress-for-taking-photos?variant=51138940698920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/79697a90-5914-4210-babf-22d51d9e21e5_trans.jpg?v=1764759888
+    Price: $11.49 USD
+  - [Rudolf Christmas Hat](https://elevra.online/products/christmas-tree-hat-party-dress-up-headdress-for-taking-photos?variant=51138940731688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/daa79d0d-affb-4e25-8104-c1d5050a672d_trans.jpg?v=1764759888
+    Price: $11.49 USD
+  - [Fur Bow Tie Elk Christmas Hat](https://elevra.online/products/christmas-tree-hat-party-dress-up-headdress-for-taking-photos?variant=51138940764456)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/54f59b68-4210-43cc-9130-768032fbb51e_trans.jpg?v=1764759888
+    Price: $11.49 USD
+- [Christmas Plush Hat With Pompom Cute Winter Hat For Women Men Child](https://elevra.online/products/christmas-plush-hat-with-pompom-cute-winter-hat-for-women-men-child): Material: wool hat Season: Winter
+  Updated: 2025-12-03T23:05:18Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/cb60eef1-01b6-479d-b419-dd40e05d43b9.jpg?v=1764759913
+  - [Green / Child](https://elevra.online/products/christmas-plush-hat-with-pompom-cute-winter-hat-for-women-men-child?variant=51138941649192)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9931f141-630e-42fe-bdf0-46d45e70b279.jpg?v=1764759919
+    Price: $24.39 USD
+  - [Scarlet / Child](https://elevra.online/products/christmas-plush-hat-with-pompom-cute-winter-hat-for-women-men-child?variant=51138941681960)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6edfee3f-c340-44e4-acb9-46d98b57b467.jpg?v=1764759919
+    Price: $24.39 USD
+  - [Claret / Adult](https://elevra.online/products/christmas-plush-hat-with-pompom-cute-winter-hat-for-women-men-child?variant=51138941714728)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/70685f92-488e-4209-bcfe-d9ca9247f91e.jpg?v=1764759919
+    Price: $25.20 USD
+  - [Wine red / Adult](https://elevra.online/products/christmas-plush-hat-with-pompom-cute-winter-hat-for-women-men-child?variant=51138941747496)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a8d52bd-aca5-427c-bd27-4a718b26bec1.jpg?v=1764759919
+    Price: $25.20 USD
+  - [Scarlet / Newborn](https://elevra.online/products/christmas-plush-hat-with-pompom-cute-winter-hat-for-women-men-child?variant=51138941780264)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6edfee3f-c340-44e4-acb9-46d98b57b467.jpg?v=1764759919
+    Price: $20.18 USD
+  - [Green / Adult](https://elevra.online/products/christmas-plush-hat-with-pompom-cute-winter-hat-for-women-men-child?variant=51138941813032)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9931f141-630e-42fe-bdf0-46d45e70b279.jpg?v=1764759919
+    Price: $25.20 USD
+  - [Scarlet / Adult](https://elevra.online/products/christmas-plush-hat-with-pompom-cute-winter-hat-for-women-men-child?variant=51138941845800)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6edfee3f-c340-44e4-acb9-46d98b57b467.jpg?v=1764759919
+    Price: $25.20 USD
+  - [Wine red / Newborn](https://elevra.online/products/christmas-plush-hat-with-pompom-cute-winter-hat-for-women-men-child?variant=51138941878568)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a8d52bd-aca5-427c-bd27-4a718b26bec1.jpg?v=1764759919
+    Price: $20.18 USD
+  - [Claret / Child](https://elevra.online/products/christmas-plush-hat-with-pompom-cute-winter-hat-for-women-men-child?variant=51138941911336)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/70685f92-488e-4209-bcfe-d9ca9247f91e.jpg?v=1764759919
+    Price: $24.39 USD
+  - [Green / Newborn](https://elevra.online/products/christmas-plush-hat-with-pompom-cute-winter-hat-for-women-men-child?variant=51138941944104)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/9931f141-630e-42fe-bdf0-46d45e70b279.jpg?v=1764759919
+    Price: $20.18 USD
+  - [Claret / Newborn](https://elevra.online/products/christmas-plush-hat-with-pompom-cute-winter-hat-for-women-men-child?variant=51138941976872)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/70685f92-488e-4209-bcfe-d9ca9247f91e.jpg?v=1764759919
+    Price: $20.18 USD
+  - [Wine red / Child](https://elevra.online/products/christmas-plush-hat-with-pompom-cute-winter-hat-for-women-men-child?variant=51138942009640)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6a8d52bd-aca5-427c-bd27-4a718b26bec1.jpg?v=1764759919
+    Price: $24.39 USD
+- [Novel Movable Christmas Hat Winter Cute Santa Claus Snowman Elk Hat](https://elevra.online/products/novel-movable-christmas-hat-winter-cute-santa-claus-snowman-elk-hat): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Color: New-Santa Claus, new-sequined Santa Claus, new-snowflake elk, new-snowman Applicable age: Youth (15-35 years old) Height: 60cm airbag cap, seven colors noctilucent Type: hat Size: Packing list: Headgear X1 Product Image:
+  Updated: 2025-12-03T23:05:54Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/ba397465-b806-4a1f-a567-5180018cf7fa.jpg?v=1764759950
+  - [New Santa Claus / 60cm Airbag Cap](https://elevra.online/products/novel-movable-christmas-hat-winter-cute-santa-claus-snowman-elk-hat?variant=51138942435624)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/fa142131-fd49-4369-bc12-dd057d7f9036.jpg?v=1764759954
+    Price: $25.60 USD
+  - [New Sequined Santa Claus / 60cm Airbag Cap](https://elevra.online/products/novel-movable-christmas-hat-winter-cute-santa-claus-snowman-elk-hat?variant=51138942468392)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/53914ef1-d3ac-458c-b634-514f826d3ef5.jpg?v=1764759954
+    Price: $25.60 USD
+  - [New Snowflake Elk / 60cm Airbag Cap](https://elevra.online/products/novel-movable-christmas-hat-winter-cute-santa-claus-snowman-elk-hat?variant=51138942501160)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/c25f7b97-3b56-4328-9d37-6c739ea2c669.jpg?v=1764759955
+    Price: $25.60 USD
+  - [New Snowman / 60cm Airbag Cap](https://elevra.online/products/novel-movable-christmas-hat-winter-cute-santa-claus-snowman-elk-hat?variant=51138942533928)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/6f77a582-5710-4924-91cc-fbed9ab5adae.jpg?v=1764759955
+    Price: $25.60 USD
+- [Christmas Hat LED Light Plush Children's Adult Christmas Decorations Christmas Supplies Luminous Santa Hat Home Decoracion](https://elevra.online/products/christmas-hat-led-light-plush-childrens-adult-christmas-decorations-christmas-supplies-luminous-santa-hat-home-decoracion): Overview: HOLIDAY READY - Mariah is incoming! The bells are jingling, the eggs are noggin, the gifts are wrapped, the tree is decked, and it’s time to don the ultimate in festive accessories - say a ho-ho-hello to our plush Santa hat! put on one of our Santa hats! You'll be the light of any Christmas party, holiday family photo, or annual ugly sweater contest. TWINKLE TWINKLE - Forget scratchy felt hats that don’t DO anything! This cozy, red, and white, pom-pom adorned Christmas hat has 20 LED colors and 9 LEDs Christmas Light Necklace Bulb -changing twinkling lights that dance from color to color all around this Christmas hat, with button cell powered(include). Simply turn them on with a switch and watch as they glow like Rudolph's nose! SOFT ENOUGH FOR SANTA - Our super soft Santa hats are made with stretchy spandex, so you'll be comfy, and toasty warm. This holiday season, gift yourself and your loved ones a light-up Santa hat made with soft oh-so-plush. Get ready for caroling, ice skating, and anything else the big man needs help with! Product Information : Material: cloth Color: plush luminous cap (warm light), plush luminous cap (colored light) Style: European, American Size Information: Packing list: Christmas hat *1
+  Updated: 2025-12-03T23:50:26Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/3a25df36-7483-4e6d-bf26-a8e6c111c30e.jpg?v=1764759979
+  Price: $14.14 USD
+- [Red Christmas Hat Plush Festival Dress Up Props Ornament](https://elevra.online/products/red-christmas-hat-plush-festival-dress-up-props-ornament): Product information: Color: red and black (32 * 45CM) Material: Polyester Size: 32 * 45CM Packing list: 1* Christmas Hat Product Image:
+  Updated: 2025-12-03T23:06:53Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/45bf6b53-b44e-4140-8b02-d1d9470138cc.jpg?v=1764760009
+  Price: $10.79 USD
+- [Plush Santa Hats Velvet Christmas Hat Thicken Plush Xmas Holiday Hat With Lined New Year Festive Party](https://elevra.online/products/plush-santa-hats-velvet-christmas-hat-thicken-plush-xmas-holiday-hat-with-lined-new-year-festive-party): Overview: Fashionable Design: Comfortable lining and furry green cuffs provide warmth and comfort, making them a perfect Christmas dress to easily create a Christmas atmosphere. Comfortable Material: These fluffy Santa hats are made of plush, fluffy, and soft fur for warmth. They bring warmth and happiness during cold winters and are suitable for most adults, men, and women. Meaningful Applications: Whether you're wearing them for a Christmas party, New Year's, birthday, Valentine's Day, Thanksgiving, Halloween, a family gathering, a masquerade, a theme party, a stage performance, or any other festive occasion, this women's Santa hat will make you the center of attention. Product information: Color: green raw edge Christmas hat Specification: 32 * 45cm Packing list: 1* Christmas Hat Product Image:
+  Updated: 2025-12-03T23:50:23Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/8ab31fd6-e621-4a5a-9faa-ef05d6d589f8.jpg?v=1764760035
+  Price: $11.49 USD
+- [Christmas Hat With Red Sequins And Bow Design Warm Plush Decorative Hat, Christmas Enlarged And Thickened Long Haired Hat](https://elevra.online/products/christmas-hat-with-red-sequins-and-bow-design-warm-plush-decorative-hat-christmas-enlarged-and-thickened-long-haired-hat): Overview: Unique design, stylish and beautiful. Good material, High quality. 100% Brand New. A variety of colors, any choice. Product information: Color: red paillette bow, green sequined bow Material: Polyester, cloth Specification: 32 * 45cm Packing list: 1* Christmas Hat Product Image:
+  Updated: 2025-12-03T23:07:47Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/97a33f0d-4330-4971-b1f5-c409157a565b.jpg?v=1764760063
+  - [Red / 32x45cm](https://elevra.online/products/christmas-hat-with-red-sequins-and-bow-design-warm-plush-decorative-hat-christmas-enlarged-and-thickened-long-haired-hat?variant=51138946335016)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/5f571537-73eb-460d-ad83-d91b4f1eb175.jpg?v=1764760067
+    Price: $12.94 USD
+  - [Green / 32x45cm](https://elevra.online/products/christmas-hat-with-red-sequins-and-bow-design-warm-plush-decorative-hat-christmas-enlarged-and-thickened-long-haired-hat?variant=51138946367784)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/01da161d-3f2a-42ba-adf4-1141190c8e00.jpg?v=1764760067
+    Price: $12.94 USD
+[List Continued](https://elevra.online/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDAyMTQ2MzgxODUzNiwibGFzdF92YWx1ZSI6IjEwMDIxNDYzODE4NTM2In0=)
 
 ## Collections
 
 - [Female Wear](https://elevra.online/collections/trendluxe-bags-wear): “Elevate your style with our curated collection of premium female wear. Elegant designs, soft textures, and timeless pieces crafted for a refined everyday look.”
-  Updated: 2025-11-26T16:09:37Z
-  Total Products: 89
+  Updated: 2025-12-02T17:19:20Z
+  Total Products: 86
 - [Elevra Jeans](https://elevra.online/collections/infinite-style-collection)
   Updated: 2025-11-26T16:09:37Z
   Total Products: 16
 - [T-Shirts and Jackets](https://elevra.online/collections/luxecarry-apparel)
-  Updated: 2025-11-26T16:09:37Z
+  Updated: 2025-12-02T16:55:55Z
   Total Products: 16
 - [Sneakers](https://elevra.online/collections/urbanmira-collection)
   Updated: 2025-11-26T16:09:37Z
   Total Products: 10
+- [Christmas Special](https://elevra.online/collections/christmas-special)
+  Updated: 2025-12-04T10:08:08Z
+  Total Products: 55
 
 ## Store Pages
 
