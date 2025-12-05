@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-09-14T12:12:19Z
 - Contact Email: golyoltd@gmail.com
-- Updated At: 2025-12-02T00:02:10.398Z
+- Updated At: 2025-12-05T00:00:41.304Z
 
 ## Products
 
@@ -893,7 +893,7 @@
     Availability: Available
     Price: $29.99 USD
 - [Wide Leg Pants](https://qingsnkueens.com/products/wide-leg-pants): So simple, yet so classy Designed to flow beautifully, these pants create a relaxed yet polished look, with the classic wide-leg silhouette that flatters every body type and pairs seamlessly with your favorite tops. Oversized fit Model is wearing size S regular length (32inch) and is 5ft8 (172cm)
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-04T02:07:48Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -2565,7 +2565,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6_399441b5-99c9-4349-a3f8-192d91100766.png?v=1751706289
     Price: $24.99 USD
 - [Midnight Dots Mini Dress](https://qingsnkueens.com/products/midnight-dots-mini-dress): Step into timeless elegance with the Midnight Dots Mini Dress by Qings and Kueens — a flirty, flattering piece that’s made to turn heads. Featuring a deep sprinkled with classic white polka dots, this sleeveless mini dress hugs you at the waist and flows into a playful skater-style hem. The high neckline adds a touch of grace, while the soft, breathable fabric keeps you comfortable all day. Perfect for café dates, city strolls, summer parties, or just a stylish day out, this dress is your new wardrobe essential. Bold yet minimal, the Midnight Dots Mini transitions effortlessly from day to night — just pair it with sneakers for daytime charm or heels for an evening glow-up.
-  Updated: 2025-11-26T07:13:05Z
+  Updated: 2025-12-02T11:23:48Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -5340,7 +5340,7 @@
   Updated: 2025-11-26T07:12:58Z
   Total Products: 0
 - [Hoodies](https://qingsnkueens.com/collections/hoodies)
-  Updated: 2025-12-01T12:28:59Z
+  Updated: 2025-12-02T12:29:47Z
   Total Products: 13
 - [Jump suits](https://qingsnkueens.com/collections/jump-suits)
   Updated: 2025-11-26T07:12:58Z
@@ -5457,13 +5457,13 @@
   Updated: 2025-11-26T07:13:01Z
   Total Products: 10
 - [women](https://qingsnkueens.com/collections/women-1)
-  Updated: 2025-12-01T12:28:59Z
+  Updated: 2025-12-02T12:29:47Z
   Total Products: 45
 - [New Collection](https://qingsnkueens.com/collections/new-collection)
   Updated: 2025-11-26T07:13:01Z
   Total Products: 9
 - [Trendy Products](https://qingsnkueens.com/collections/trendy-products)
-  Updated: 2025-12-01T12:28:59Z
+  Updated: 2025-12-02T12:29:47Z
   Total Products: 5
 - [Jewellery](https://qingsnkueens.com/collections/jewellery)
   Updated: 2025-11-26T07:13:01Z
