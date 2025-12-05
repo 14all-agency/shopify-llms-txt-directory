@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-12-02T00:00:49.372Z
+- Updated At: 2025-12-05T00:00:38.761Z
 
 ## Products
 
@@ -370,7 +370,7 @@
     Availability: Available
     Price: ₹690.00 INR
 - [Buy ​United Medicare Sling Strap (C-12) - Surgismart](https://surgismart.in/products/c-12): Key Features:UM sling strap is used to support and stabilize the arm for faster healing after a fracture. Sling strap aids in keeping the forearm and elbow in 90o flexion. It is commonly used for conservative and surgical management post arm fracture, sprain and strain. The sling strap comes in one size and can be worn on either the right or left arm. Sling strap comfortably fits and supports the elbow, and its sleek design ensures better ventilation. Direction of use Place the strap around the neck and arm. Keep the hand in 90o angle. Make sure your arm is in a neutral position at your side. Safety information Do not dry clean, iron or bleach. Use as per medical advice UMs Sling Strap helps to suspend the forearm and elbow in 90o flexion. It is a support to the arm and shoulder in cases of conservation and surgical management of strain sprain and fracture.UM sling straps are designed to use both arms. They can be used on the right or left arm.Using a sling strap supports the arm and shoulder and relieves pain. It comfortably fits and supports the elbow.UM sling strap is used for those who have mild shoulder injuries, humeral head fractures, post-surgeries.You can use the UM sling strap for post-surgery injuries, fractures, and bursitis, So you should wear your sling for as long as directed by your consultant.Sold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:29Z
+  Updated: 2025-12-04T23:33:36Z
   Vendor: United Medicare
   Product Type: Arm Support
   Availability: Available
@@ -1655,7 +1655,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/24_29953ff7-44af-40a5-993f-9a70efeac558.jpg?v=1751478391
   Price: ₹792.00 INR
 - [Buy ​Medvance Proctoscope - Surgismart](https://surgismart.in/products/medvance-proctoscope): As an industry expert, trust the precision and accuracy of the Medvance Proctoscope. Experience easy and efficient rectal exams with this state-of-the-art instrument that offers a 90% success rate and unmatched visibility. - Surgismart
-  Updated: 2025-10-15T09:37:03Z
+  Updated: 2025-12-03T08:27:54Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
@@ -2169,7 +2169,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6_b3483cd6-a683-4444-a215-0cc6cdf707ce.jpg?v=1751478353
     Price: ₹1,520.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Smoke Chestpiece, Lime Green Tube, Blue Stem,5875 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-smoke-chestpiece-lime-green-tube-blue-stem-5875): - Surgismart
-  Updated: 2025-10-15T09:37:09Z
+  Updated: 2025-12-04T23:29:21Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
@@ -3277,7 +3277,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-12-01T12:21:01Z
+  Updated: 2025-12-02T12:19:46Z
   Total Products: 153
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-11-10T12:17:21Z
@@ -3460,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-12-01T12:21:01Z
+  Updated: 2025-12-02T12:19:46Z
   Total Products: 5
 
 ## Blogs
