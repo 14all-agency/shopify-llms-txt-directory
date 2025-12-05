@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-05T04:00:36.201Z
+- Updated At: 2025-12-05T08:00:37.988Z
 
 ## Products
 
@@ -3407,7 +3407,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/polar-caps-polar-skate-co-michael-polar-skate-club-cap-black-1183714686.png?v=1757162534
   Price: £27.95 GBP
 - [Dime MTL Carpenter Denim Shorts | Sunblasted Black](https://thevinessupply.co/products/dime-mtl-carpenter-denim-shorts-sunblasted-black): Buy the Dime MTL Carpenter Denim Shorts in Sunblasted Black at The Vines, with Fast Premium Delivery & Easy Returns.
-  Updated: 2025-10-17T11:39:40Z
+  Updated: 2025-12-05T07:47:07Z
   Vendor: Dime MTL
   Product Type: Shorts
   Availability: Available
@@ -3422,7 +3422,7 @@
     Availability: Not Available
     Price: £49.95 GBP
   - [34W](https://thevinessupply.co/products/dime-mtl-carpenter-denim-shorts-sunblasted-black?variant=55406424555855)
-    Availability: Available
+    Availability: Not Available
     Price: £49.95 GBP
   - [36W](https://thevinessupply.co/products/dime-mtl-carpenter-denim-shorts-sunblasted-black?variant=55406424588623)
     Availability: Available
