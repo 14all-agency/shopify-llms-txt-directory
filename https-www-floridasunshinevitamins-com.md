@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-09-13T14:03:24Z
 - Contact Email: info@floridasunshine.co.uk
-- Updated At: 2025-12-03T00:01:05.460Z
+- Updated At: 2025-12-05T00:00:32.425Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/d3_small_ceb49d6a-3af2-48ed-836c-26ea4f64be5d.webp?v=1761300245
   Price: £14.44 GBP
 - [Lutein Complex - 60 Capsules (200mg)](https://www.floridasunshinevitamins.com/products/lutein-complex): Lutein is primarily found in green leafy vegetables like spinach and kale, as well as in other foods like eggs, corn, and oranges. While lutein supplements are available, it is often recommended to obtain this nutrient through a balanced diet rich in fruits and vegetables.
-  Updated: 2025-11-27T02:11:03Z
+  Updated: 2025-12-03T01:22:57Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/Liposomal_Vitamin_C_120_Capsules_500mg_and_D3_90_Capsules_150mcg_Bundle.webp?v=1761300342
   Price: £54.99 GBP
 - [Daily Defender Bundle](https://www.floridasunshinevitamins.com/products/daily-defender-bundle): The Daily Defender Bundle brings together three powerful supplements to support your immune system, boost cellular energy, and help you stay resilient, focused, and energized every day. With advanced liposomal delivery systems for maximized absorption, this trio works together to keep you feeling your best. Liposomal PureWay-CA fast-absorbing form of Vitamin C that plays a role in supporting the normal function of the immune system and providing antioxidant protection. Liposomal QuercetinKnown for its role in supporting the body’s natural defenses, Quercetin helps maintain balance and manage oxidative stress, ensuring you stay protected throughout the day. CoQ10Supports cellular energy production, contributing to heart health and overall vitality, so you can tackle daily demands with confidence. Ideal For: Adults looking for extra immune support in their daily routine. Those experiencing high levels of stress or fatigue. Frequent travelers in need of consistent wellness support on the go. With the Daily Defender Bundle, you’re not just supporting your immune system, you’re fueling your body with essential nutrients to stay strong, energized, and resilient. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
-  Updated: 2025-12-02T10:13:40Z
+  Updated: 2025-12-03T01:23:00Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/Core_Wellness_Bundle.webp?v=1761300623
   Price: £48.99 GBP
 - [Focus & Flow Bundle](https://www.floridasunshinevitamins.com/products/focus-flow-bundle): The Focus & Flow Bundle brings together three powerful supplements to support brain function, protect your eyes from digital strain, and fuel your body with lasting energy. This trio is perfect for today’s fast-paced, screen-heavy lifestyle, helping you stay sharp, energized, and focused throughout the day. CoQ10Supports cellular energy production and heart health, helping you stay energized and active throughout long hours. LuteinAn antioxidant that supports eye health and helps protect against the effects of prolonged screen time. Liposomal QuercetinSupports cognitive balance and helps the body manage daily stressors, contributing to resilience. Ideal For: Professionals needing focus and stamina during demanding workdays. Students looking for study support. Gamers who spend extended hours in front of screens. Anyone with high screen time seeking brain and eye wellness. The Focus & Flow Bundle supports mental clarity, energy levels, and eye health, helping you stay prepared for your daily tasks and challenges. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
-  Updated: 2025-12-01T11:44:15Z
+  Updated: 2025-12-03T01:23:00Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
@@ -102,7 +102,7 @@
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/2_a6803058-94f2-4a3c-b74e-71ffb0be4913.png?v=1764072218
   Price: £33.98 GBP
 - [Buy Lutein + Free Vitamin D3](https://www.floridasunshinevitamins.com/products/lutein-free-vitamin-d3): Key Benefits: Improved Bioavailability: Liposomal encapsulation helps Vitamin D3 bypass digestive barriers, leading to more efficient absorption into the bloodstream. Fat-Soluble Vitamin: Vitamin D3 is fat-soluble, and the liposomal delivery system uses phospholipids that mimic the body’s natural cell structure, allowing for better absorption and utilisation. Bone Health: Vitamin D3 plays a role in the absorption of calcium from the gut, which is important for maintaining healthy bones. Immune Function: Vitamin D3 is important for the normal function of the immune system. Muscle Function: Vitamin D3 supports normal muscle function. Adequate levels of Vitamin D3 are important for maintaining physical performance. Key Benefits: Maximized Absorption: BioPerine helps improve the absorption and bioavailability of lutein, ensuring efficient utilisation in the body. Antioxidant Support: Lutein and BioPerine both have antioxidant properties, helping to neutralise free radicals and reduce oxidative stress. Eye Health: Lutein plays a role in supporting normal eye function and protecting the eyes from oxidative stress. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
-  Updated: 2025-11-26T20:40:18Z
+  Updated: 2025-12-03T01:23:00Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
@@ -126,16 +126,16 @@
 ## Collections
 
 - [Home page](https://www.floridasunshinevitamins.com/collections/frontpage): Explore liposomal vitamins & supplements—C, D3, Quercetin, Lutein, CoQ10—vegan-friendly, gluten-free, made in Florida for enhanced absorption.
-  Updated: 2025-12-02T12:29:01Z
+  Updated: 2025-12-03T12:23:28Z
   Total Products: 5
 - [Liposomal Vitamins Collection](https://www.floridasunshinevitamins.com/collections/liposomal-vitamins): Radiant health starts here. With a daily dose of our powerful vitamins and supplements you can elevate your wellness journey with nature's finest ingredients to achieve your health goal.
-  Updated: 2025-12-02T12:29:01Z
+  Updated: 2025-12-03T12:23:28Z
   Total Products: 5
 - [Bundles](https://www.floridasunshinevitamins.com/collections/vitamin-bundles)
   Updated: 2025-11-07T14:58:45Z
   Total Products: 6
 - [Bestsellers](https://www.floridasunshinevitamins.com/collections/bestsellers)
-  Updated: 2025-12-02T12:29:01Z
+  Updated: 2025-12-03T12:23:28Z
   Total Products: 6
 - [Exclusive Winter Bundles – Buy One, Get One Free!](https://www.floridasunshinevitamins.com/collections/winter-bundles): Discover our limited-time BOGO bundles designed to keep you healthy and energized this season. Stock up now—once these bundles are gone, they’re gone!
   Updated: 2025-11-26T14:28:53Z
