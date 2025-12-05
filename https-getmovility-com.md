@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-19T20:57:54Z
 - Contact Email: info@getmovility.com
-- Updated At: 2025-12-04T00:00:24.738Z
+- Updated At: 2025-12-05T00:00:25.522Z
 
 # getMovility — Trusted Mobility, Comfort, and Home-Safety Essentials
 
@@ -1784,7 +1784,7 @@ We focus on private-pay accessibility products that support independence, comfor
   Updated: 2025-11-29T13:24:50Z
   Total Products: 156
 - [Skin Care & Wound Supplies for Healing | getMovility](https://getmovility.com/collections/skin-care-wound-supplies): Shop cleansers, dressings, bandages, tape & more for effective wound care. Clinically trusted supplies—CareMatch guides your best fit.
-  Updated: 2025-11-29T13:24:47Z
+  Updated: 2025-12-04T12:19:31Z
   Total Products: 1313
 - [Health Monitoring Tools for Comprehensive Wellness | getMovility](https://getmovility.com/collections/health-monitoring-tools): Shop blood pressure kits, thermometers & smart scales for accurate daily tracking. Trusted tools for seniors & caregivers—CareMatch guides your wellness plan.
   Updated: 2025-11-30T12:25:34Z
@@ -1820,7 +1820,7 @@ We focus on private-pay accessibility products that support independence, comfor
   Updated: 2025-11-29T13:24:25Z
   Total Products: 37
 - [Internal Collection - Not for Customer Use | getMovility](https://getmovility.com/collections/mckesson-products-internal): Internal inventory management collection. Not intended for customer browsing. Products are available through main category collections.
-  Updated: 2025-12-02T12:25:16Z
+  Updated: 2025-12-04T12:19:31Z
   Total Products: 6469
 - [Internal Collection - Not for Customer Use | getMovility](https://getmovility.com/collections/complete-medical-products-internal): Internal inventory management collection. Not intended for customer browsing. Products are available through main category collections.
   Updated: 2025-11-29T13:24:54Z
@@ -1829,7 +1829,7 @@ We focus on private-pay accessibility products that support independence, comfor
   Updated: 2025-11-23T17:38:30Z
   Total Products: 4
 - [Nutritional Supplements & Feeding Supplies | getMovility](https://getmovility.com/collections/nutritional-supplements-feeding-supplies): Shop supplements, protein shakes & adaptive feeding aids for strength and wellness. CareMatch guides you to personalized nutrition support.
-  Updated: 2025-11-29T13:02:16Z
+  Updated: 2025-12-04T12:19:31Z
   Total Products: 365
 - [Maternity & Motherhood Essentials | getMovility](https://getmovility.com/collections/maternity-motherhood-essentials): Shop baby formula, breast pump accessories, diapers & more. Essentials for comfort, nutrition, and confidence from pregnancy through motherhood—guided by CareMatch.
   Updated: 2025-11-23T17:30:44Z
@@ -1856,13 +1856,13 @@ We focus on private-pay accessibility products that support independence, comfor
   Updated: 2025-11-23T17:50:39Z
   Total Products: 119
 - [All Products (ChatGPT-AI Product Description)](https://getmovility.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2025-12-02T12:25:16Z
+  Updated: 2025-12-04T12:19:31Z
   Total Products: 5435
 - [Smart Products Filter Index - Do not delete](https://getmovility.com/collections/globofilter-best-selling-products-index)
-  Updated: 2025-12-02T12:25:16Z
+  Updated: 2025-12-04T12:19:31Z
   Total Products: 5435
 - [All Products](https://getmovility.com/collections/all-products-in-stock)
-  Updated: 2025-12-02T12:25:16Z
+  Updated: 2025-12-04T12:19:31Z
   Total Products: 5435
 
 ## Blogs
