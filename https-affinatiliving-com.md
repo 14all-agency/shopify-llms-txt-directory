@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-05T00:00:48.098Z
+- Updated At: 2025-12-05T04:00:33.832Z
 
 ## Products
 
@@ -6102,14 +6102,14 @@
   Product Type: 
   Availability: Available
   Price: $0.00 USD
-- [Medium Wooden Wick Candle Containers (12 Pack)](https://affinatiliving.com/products/medium-wooden-wick-candle-containers)
-  Updated: 2025-11-28T23:33:46Z
+- [Bowl Wooden Wick Candle Containers (12 Pack)](https://affinatiliving.com/products/medium-wooden-wick-candle-containers)
+  Updated: 2025-12-05T02:05:55Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
-- [Large Wooden Wick Candle Containers (12 Pack)](https://affinatiliving.com/products/large-wooden-wick-candle-containers)
-  Updated: 2025-11-28T23:33:41Z
+- [Tall Wooden Wick Candle Containers (12 Pack)](https://affinatiliving.com/products/large-wooden-wick-candle-containers)
+  Updated: 2025-12-05T02:05:39Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6121,10 +6121,10 @@
   Availability: Not Available
   Price: $0.00 USD
 - [12x12x6 Packing Boxes](https://affinatiliving.com/products/12x12x6-white-packing-boxes)
-  Updated: 2025-11-30T16:36:15Z
+  Updated: 2025-12-05T02:07:35Z
   Vendor: Affinati
   Product Type: 
-  Availability: Not Available
+  Availability: Available
   Price: $0.00 USD
 - [8x8x6 White Packing Boxes](https://affinatiliving.com/products/8x8x6-white-packing-boxes)
   Updated: 2025-12-03T01:45:07Z
@@ -6139,7 +6139,7 @@
   Availability: Available
   Price: $0.00 USD
 - [18x18x8 Packing Boxes](https://affinatiliving.com/products/18x18x8-packing-boxes)
-  Updated: 2025-11-30T16:36:29Z
+  Updated: 2025-12-05T02:07:20Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7385,7 +7385,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_28_2025_at_09_15_56_PM.png?v=1764382583
   Price: $59.95 USD
 - [Wooden Wick Bowl Lids (12 Pack)](https://affinatiliving.com/products/wooden-wick-bowl-lids-12-pack)
-  Updated: 2025-11-29T17:52:17Z
+  Updated: 2025-12-05T02:05:20Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7499,9 +7499,6 @@
 - [Body Scrubs](https://affinatiliving.com/collections/body-scrubs): Exfoliate and nourish with Affinati’s Body Scrubs Collection — whipped sugar scrubs crafted with skin-loving ingredients for smooth, glowing skin and long-lasting fragrance.
   Updated: 2025-12-01T12:11:33Z
   Total Products: 6
-- [Custom Whipped Soap](https://affinatiliving.com/collections/custom-whipped-soap)
-  Updated: 2025-11-27T13:13:01Z
-  Total Products: 0
 - [Featured Collection](https://affinatiliving.com/collections/featured-collection)
   Updated: 2025-11-30T12:10:22Z
   Total Products: 6
