@@ -6,7 +6,7 @@
 - Timezone: Europe/Warsaw
 - Created At: 2025-09-10T09:13:47Z
 - Contact Email: support@urban-buy.store
-- Updated At: 2025-12-04T00:00:22.474Z
+- Updated At: 2025-12-05T00:00:22.392Z
 
 ## Products
 
@@ -304,7 +304,7 @@
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/728416db-50ef-425f-a1e7-3b1531bab8d8.jpg?v=1763869115
   Price: $25.25 USD
 - [Fashionable WarmFashionable WarmFashionable WarmFashionable](https://www.urban-buy.store/products/fashionable-warm-knitted-wool-hat): Fashionable WarmFashionable WarmFashionable WarmFashionable WarmFashionable Warm
-  Updated: 2025-12-03T12:46:37Z
+  Updated: 2025-12-04T00:46:53Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -642,7 +642,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1852938515025_34e91da5-1f0b-4dd5-a324-9243b03d9366.jpg?v=1763869309
     Price: $13.21 USD
 - [Christmas Elk Cozy Slippers – Plush Winter Indoor Warmth](https://www.urban-buy.store/products/christmas-shoes-winter-home-slippers): Soft plush Christmas elk slippers with non-slip soles. Warm, festive, and perfect for holiday lounging or gifting.
-  Updated: 2025-12-03T11:00:02Z
+  Updated: 2025-12-04T07:48:26Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -1489,6 +1489,10 @@
     Updated: 2025-12-02T09:02:11Z
     Author: Urban BUY
     Tags: best gifts, christmas, christmas 2025, christmas gift ideas, christmas gifts, creative gift ideas, gifts, gifts for christmas, gifts ideas, holiday gifts, ideas, perfect christmas gifts, unique presents
+  - [Essential Christmas Gifts for Family 2025](https://www.urban-buy.store/blogs/best-christmas-gift-ideas-2025/essential-christmas-gifts-for-family-2025): Essential Christmas Gifts for Family 2025
+    Updated: 2025-12-04T09:01:38Z
+    Author: Urban BUY
+    Tags: best gifts for family, christmas, christmas 2025, christmas gift ideas, christmas gifts, christmas presents, family, gift ideas, gifts, gifts for christmas, gifts ideas, holiday gifts, unique christmas gift ideas
 
 ## Store Pages
 
