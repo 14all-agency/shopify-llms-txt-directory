@@ -6,31 +6,19 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-10-13T01:12:45Z
 - Contact Email: info@owalalife.co.nz
-- Updated At: 2025-12-04T00:00:36.041Z
+- Updated At: 2025-12-05T00:00:36.312Z
 
 ## Products
 
 - [Owala SmoothSip Slider Coffe Mug  | NZ](https://www.owalalife.co.nz/products/smoothsip-slider): Owala SmoothSip Slider coffee mugs in two sizes, 355ml & 590ml. Durable stainless steel construction and insulation, keeps drinks hot or cold for longer.
-  Updated: 2025-12-03T07:18:51Z
+  Updated: 2025-12-04T02:34:11Z
   Vendor: Owalalife
   Product Type: SMOOTHSIP SLIDER
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06741-12ozSmoothsipSliderCandyCoated-SC.png?v=1763515245
   - [355ML / 12oz / CANDY COATED](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680099979421)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06741-12ozSmoothsipSliderCandyCoated-SC.png?v=1763515245
-    Price: $49.99 NZD
-  - [355ML / 12oz / CAMPFIRE NIGHTS](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680100044957)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06742-12ozSmoothsipSliderCampfireNights-SC.png?v=1763515245
-    Price: $49.99 NZD
-  - [355ML / 12oz / GOLDEN QUEST](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680100110493)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06743-12ozSmoothsipSliderGoldenQuest-SC.png?v=1763515245
-    Price: $49.99 NZD
-  - [355ML / 12oz / MOONLIT SHADOW](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680121868445)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06746-12ozSmoothsipSliderMoonlitShadow-SC.png?v=1763515245
     Price: $49.99 NZD
   - [355ML / 12oz / LAKESIDE](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680122622109)
     Availability: Not Available
@@ -44,22 +32,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07055-12ozSmoothsipSliderVeryVeryDark-SC.png?v=1763515245
     Price: $49.99 NZD
-  - [590ML / 20oz / CANDY COATED](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680100012189)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/SSC06747-20ozSmoothsipSliderCandyCoated-SC_1.png?v=1763515245
-    Price: $59.99 NZD
-  - [590ML / 20oz / CAMPFIRE NIGHTS](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680100077725)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06748_-_20oz_Smoothsip_Slider_Campfire_Nights_-_SC.png?v=1763515245
-    Price: $59.99 NZD
-  - [590ML / 20oz / GOLDEN QUEST](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680100143261)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06749-20ozSmoothsipSliderGoldenQuest-SC.png?v=1763515245
-    Price: $59.99 NZD
-  - [590ML / 20oz / MOONLIT SHADOW](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680122196125)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06752-20ozSmoothsipSliderMoonlitShadow-SC_52a7073b-9e91-4aaf-a2e6-3bbe71967814.png?v=1763515245
-    Price: $59.99 NZD
 - [Owala 1185ML Tumbler | NZ](https://www.owalalife.co.nz/products/1185ml-tumbler): Stay hydrated with our 1185ml tumbler with handle! Featuring a removable straw, wide ice-friendly opening, and spill resistance, it's perfect for your busy life.
   Updated: 2025-12-02T22:27:10Z
   Vendor: My Store
@@ -145,7 +117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07000-24ozSmelltheRosesTumbler-SC.png?v=1760489241
     Price: $59.99 NZD
 - [Owala Silicone Boot | NZ](https://www.owalalife.co.nz/products/silicone-boot): This silicone bottle boot cover acts like a phone case for your Owala Bottle - protecting it from damage and keeping it looking good as new.
-  Updated: 2025-12-03T02:01:06Z
+  Updated: 2025-12-04T21:11:26Z
   Vendor: My Store
   Product Type: SILICONE BOOT
   Availability: Available
@@ -227,7 +199,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/blue-removebg-preview.png?v=1763503039
     Price: $19.99 NZD
 - [Owala FreeSip Twist Bottle | NZ](https://www.owalalife.co.nz/products/freesip-twist): FreeSip Twist, available in NZ. Holds hot, cold, and carbonated drinks. Stainless steel, leak proof twist lid, and 2-in-1 straw design. Shop now!
-  Updated: 2025-12-03T21:49:47Z
+  Updated: 2025-12-04T03:46:07Z
   Vendor: Owalalife
   Product Type: 
   Availability: Available
@@ -293,7 +265,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06506_-_24oz_FreeSip_Twist_Sunny_Daze_Yellow_-_SC.png?v=1763516659
     Price: $54.99 NZD
 - [Owala FreeSip Water Bottle | NZ](https://www.owalalife.co.nz/products/freesip): Shop Owala FreeSip water bottles in NZ. Leak-proof, reusable, BPA-free plastic, with sip or swig 2 in 1 straw. Perfect for gym, work & everyday hydration.
-  Updated: 2025-12-03T23:38:41Z
+  Updated: 2025-12-04T23:59:46Z
   Vendor: My Store
   Product Type: FREESIP
   Availability: Available
@@ -327,7 +299,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07033_-_24oz_Sunny_Daze_FreeSip_-_SC_1.png?v=1763428329
     Price: $64.99 NZD
   - [710ML / 24oz / COASTAL MIST](https://www.owalalife.co.nz/products/freesip?variant=46919377223837)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07035_-_24oz_Coastal_Mist_FreeSip_-_SC_1_20babeb8-ced0-47ec-b84c-ed1b4843f737.png?v=1764118316
     Price: $64.99 NZD
   - [710ML / 24oz / DOWN TO EARTH](https://www.owalalife.co.nz/products/freesip?variant=46919377322141)
@@ -502,13 +474,13 @@
 ## Collections
 
 - [Owala's Best Sellers | Bottles, Tumblers & Accessories | NZ](https://www.owalalife.co.nz/collections/best-selling-products): Shop Owala Best Sellers NZ - our most popular water bottles, tumblers & accessories. Fan favourites and show stoppers, stylish & durable hydration.
-  Updated: 2025-12-03T12:08:39Z
+  Updated: 2025-12-04T12:09:03Z
   Total Products: 28
 - [Owala Accessories NZ | Bottle Boots, Brushes & More](https://www.owalalife.co.nz/collections/accessories): Shop Owala accessories in NZ, silicone bottle boots, 2-in-1 brushes & pet bowls. Durable, practical add-ons to protect, clean & care for your bottles.
-  Updated: 2025-12-03T12:08:39Z
-  Total Products: 5
+  Updated: 2025-12-04T12:09:03Z
+  Total Products: 4
 - [Shop Owala Drinkware | FreeSip, Twist, Coffee Mugs & Tumblers | NZ](https://www.owalalife.co.nz/collections/drinkware): Shop Owala Drinkware items in NZ - FreeSip, FreeSip Twist, SmoothSip Slider & Kids bottles. Stylish, reusable, BPA-free plastic bottles for everyday hydration.
-  Updated: 2025-12-03T12:08:39Z
+  Updated: 2025-12-04T12:09:03Z
   Total Products: 10
 - [Owala Tumblers | NZ](https://www.owalalife.co.nz/collections/tumblers): Shop Owala Tumblers NZ, 710ml & 1185ml insulated tumblers for hot or cold drinks. Cupholder friendly, perfect for coffee, tea, smoothies & water. Available now
   Updated: 2025-12-02T12:11:34Z
@@ -517,10 +489,10 @@
   Updated: 2025-11-30T20:15:08Z
   Total Products: 8
 - [Shop All Owala | Bottles, Tumblers & Accessories | NZ](https://www.owalalife.co.nz/collections/shop-all): Explore all Owala bottles & accessories in NZ, FreeSip, FreeSip Twist, SmoothSip Slider, Kids items & more. Stylish, durable hydration for every lifestyle.
-  Updated: 2025-12-03T12:08:39Z
+  Updated: 2025-12-04T12:09:03Z
   Total Products: 13
 - [Collection set up for discounts - All products not on sale](https://www.owalalife.co.nz/collections/collection-set-up-for-discounts-all-products-not-on-sale): Can only use discount on full price items
-  Updated: 2025-12-03T12:08:39Z
+  Updated: 2025-12-04T12:09:03Z
   Total Products: 27
 
 ## Store Pages
