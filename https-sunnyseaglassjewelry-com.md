@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-22T04:17:36Z
 - Contact Email: Sunnymello810@gmail.com
-- Updated At: 2025-12-02T00:00:40.404Z
+- Updated At: 2025-12-05T00:00:34.762Z
 
 ## Products
 
@@ -4693,7 +4693,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Christmas Tree Earrings, Holiday Jewelry Gift Idea Christmas, Crystal](https://sunnyseaglassjewelry.com/products/tree-earrings): These handmade Christmas Tree Earrings are an ideal holiday gift for anyone who treasures festive, sparkling accessories. Crafted with genuine  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T14:43:23Z
+  Updated: 2025-12-02T21:54:48Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Wire Wrapped Earrings
   Availability: Available
@@ -4706,7 +4706,7 @@
   Availability: Available
   Price: $35.00 USD
 - [Angel Earrings - Unique Sea Glass Guardian Design](https://sunnyseaglassjewelry.com/products/angel-dangling-earrings): Explore our handcrafted angel earrings featuring beautiful sea glass. Perfect gifts to cherish your guardian angel.
-  Updated: 2025-12-01T00:53:41Z
+  Updated: 2025-12-02T21:54:09Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Holiday Sea Glass Necklace
   Availability: Available
@@ -4724,18 +4724,18 @@
     Availability: Available
     Price: $22.95 USD
 - [Stunning Handmade Christmas Earrings - Red & Green Crystals](https://sunnyseaglassjewelry.com/products/untitled-nov1_00-04): These crystal dangle earrings are the perfect holiday accessory and make an ideal Christmas gift for someone who appreciates handmade jewelry with  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T17:00:26Z
+  Updated: 2025-12-02T20:07:19Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Wire wrapped earrimgs
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Red-and-Green-Crystal-Dangle-Earrings_-Holiday-Accessory-Christmas-Gift_-Handmade-Christmas-Crystal-Dangling-Earrings_-Sunny-Sea-Glass-Jewelry-10121085.jpg?v=1762488038
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Red-and-Green-Crystal-Dangle-Earrings_-Holiday-Accessory-Christmas-Gift_-Handmade-Christmas-Crystal-Dangling-Earrings_-Sunny-Sea-Glass-Jewelry-10121085.jpg?v=1764706034
   Price: $22.95 USD
 - [Snowflake Pendant Necklace - Sparkly Holiday Jewelry](https://sunnyseaglassjewelry.com/products/christmas-tree-necklace-crystal-pendant-sterling-silver-holiday-jewelry-christmas-gift-festive-accessor-sparkly-green-crystal-tree-design-copy): Discover the stunning Snowflake Pendant Necklace, perfect for holiday gifts. Sparkly Swarovski crystals make it a unique Christmas accessory.
-  Updated: 2025-11-08T03:16:41Z
+  Updated: 2025-12-02T20:07:37Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire wrapped necklace
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Snowflake-Swarovski-Crystal-Pendant-Necklace_-Holiday-Jewelry_-Christmas-Gift-Idea_-Sparkly-Crystal-Necklace-Sunny-Sea-Glass-Jewelry-10121742.jpg?v=1762488053
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Snowflake-Swarovski-Crystal-Pendant-Necklace_-Holiday-Jewelry_-Christmas-Gift-Idea_-Sparkly-Crystal-Necklace-Sunny-Sea-Glass-Jewelry-10121742.jpg?v=1764706038
   Price: $38.95 USD
 - [Christmas Green Tree Earrings - Festive Handmade Jewelry, Perfect Holiday Gift](https://sunnyseaglassjewelry.com/products/christmas-tree-jewelry-set-necklace-earrings-bundle): Celebrate the season with Christmas Green Tree Earrings. These handcrafted holiday earrings feature green Czech beads, red star accents, and sterling silver components. Perfect gift!
   Updated: 2025-11-25T12:49:32Z
