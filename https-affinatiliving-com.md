@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-04T20:00:34.375Z
+- Updated At: 2025-12-05T00:00:48.098Z
 
 ## Products
 
@@ -7482,7 +7482,7 @@
   Updated: 2025-12-04T16:36:43Z
   Total Products: 66
 - [Whipped Soap](https://affinatiliving.com/collections/whipped-soap): Lather up with Affinati’s Whipped Soap Collection — creamy, cloud-like soaps that cleanse, hydrate, and leave skin silky smooth with long-lasting luxury fragrance.
-  Updated: 2025-12-04T15:09:14Z
+  Updated: 2025-12-04T21:12:03Z
   Total Products: 28
 - [Body Lotions](https://affinatiliving.com/collections/body-lotions): Explore Affinati Body Lotions crafted with nourishing ingredients and luxurious scents. Hydrate your skin with eco-friendly, long-lasting moisture in every bottle.
   Updated: 2025-11-30T12:10:22Z
