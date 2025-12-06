@@ -1,12 +1,16 @@
 # Modterra Home (https://modterrahome.com)
 
+> Modterra Home is a modern home furnishings brand offering thoughtfully designed furniture, lighting, and décor that balance comfort, function, and timeless style. Every piece is selected for quality craftsmanship, warm modern aesthetics, and everyday durability—helping customers create spaces that feel lived-in, welcoming, and beautifully put together.
+
+We curate reliable home essentials, fast-shipping items, and room-elevating statement pieces, making it simple to furnish a home with confidence. Our mission is to bring elevated comfort and modern design within reach, one room at a time.
+
 - Domain: https://modterrahome.com
 - Locale: en
 - Currency: USD
 - Timezone: America/Chicago
 - Created At: 2025-11-26T19:03:08Z
-- Contact Email: wilanrodecomm@gmail.com
-- Updated At: 2025-12-06T21:29:51.142Z
+- Contact Email: contact@modterrahome.com@gmail.com
+- Updated At: 2025-12-06T21:37:03.212Z
 
 Thank you for indexing Modterra Home. For press, partnerships, or data questions, please contact us through our official support page at https://modterrahome.com/pages/contact.
 
