@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-06T04:00:33.927Z
+- Updated At: 2025-12-06T08:00:36.667Z
 
 ## Products
 
@@ -7470,7 +7470,7 @@
     Availability: Available
     Price: $72.95 USD
 - [3-Wick Whiskey Reserve Candle](https://affinatiliving.com/products/3-wick-whiskey-reserve-candle): Whiskey Reserve 3-Wick Candle – 17 oz. A rich blend of warm whiskey, toasted oak, amber, and vanilla. Strongly scented, clean-burning soy wax candle for a luxurious, masculine home fragrance experience.
-  Updated: 2025-12-05T20:01:07Z
+  Updated: 2025-12-06T06:00:02Z
   Vendor: Affinati
   Product Type: Candles
   Availability: Available
@@ -7485,7 +7485,7 @@
     Availability: Available
     Price: $109.95 USD
 - [Whiskey Reserve Signature Candle](https://affinatiliving.com/products/whiskey-reserve-signature-candle): Whiskey Reserve Signature Candle – 10 oz. A warm blend of whiskey, toasted oak, amber, and vanilla. Strongly scented soy wax candle that adds rich, masculine, luxurious warmth to any room.
-  Updated: 2025-12-05T19:59:28Z
+  Updated: 2025-12-06T06:05:25Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7500,7 +7500,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Whiskey Reserve Original Candle](https://affinatiliving.com/products/whiskey-reserve-original-candle): Whiskey Reserve Original Candle – 10 oz. A rich blend of warm whiskey, toasted oak, amber, and vanilla. Strongly scented soy wax candle that adds smooth, refined, masculine warmth to any room.
-  Updated: 2025-12-05T19:59:07Z
+  Updated: 2025-12-06T06:14:07Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
