@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-12-05T00:00:26.043Z
+- Updated At: 2025-12-06T00:00:25.070Z
 
 # Crystals Healing UK – LLMS Overview
 
@@ -126,8 +126,8 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032139-Photoroom_64.jpg?v=1761061007
     Price: £27.00 GBP
-- [Menopause Bracelet - Support & Hormonal Balance](https://crystalshealing.co.uk/products/menopause-bracelet): Find relief and balance with the Menopause Bracelet, crafted to help ease symptoms, promote emotional calm, and support well-being.
-  Updated: 2025-11-18T16:33:22Z
+- [Menopause Bracelet | Crystals Healing UK](https://crystalshealing.co.uk/products/menopause-bracelet): Menopause Bracelet for intention-setting and calm daily rituals. Moonstone, lepidolite, citrine, carnelian and rose quartz. Free UK delivery available.
+  Updated: 2025-12-05T12:10:36Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -966,29 +966,29 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230503_123418-PhotoRoom_5.jpg?v=1739737593
     Price: £27.00 GBP
-- [Weight Loss Bracelet](https://crystalshealing.co.uk/products/weight-loss-bracelet): Achieve Your Weight Loss Goals with Our Unique Weight Loss Bracelet Combining Powerful Crystals in One Piece to Create 10X Stronger Result. Red Tiger's Eye is known to motivate and energize a person to achieve his/her goal. Red tiger's Eye is also known to speed up your metabolism.Amethyst one of the most beautiful crystals found on Earth―the lovely purple amethyst.Purple Amethyst can assist you in the process of detoxification, and also help you deal with your food addictions and also helps in reducing bloating.Sunstone, is named after the ultimate source of light―the Sun!If you are among those dieters who think that this whole lifestyle change is getting you nowhere around your goals, then a sunstone will give you that much-needed "kick" to boost your energy levels and look at the positive aspect of it.It uplifts your spirits and promotes good health as well. Mantra: I intentionally, lovingly + easefully create the healthy body I desire. Create a healthy body intention! Cup your bracelet between your hands. Close your eyes + take three consecutive breaths. Imagine yourself in your ideal body with optimal health. Get clear on your intention + goal. Take three more breaths. Slide your bracelet onto your right wrist. In times of stress or high emotions, allow your bracelet to remind you to stop, take a breath + make mindful choices about your food.Care for your Weight Loss Bracelet: Keep your Weight Loss Bracelet dry and remove slimming bracelet before bathing or swimming. Remember, wearing a Weight Loss Bracelet is not just about style; it's about incorporating a wellness accessory into your everyday life. Find a style that resonates with you and wear it with confidence as you embark on your journey to well-being.
-  Updated: 2025-11-18T16:33:29Z
+- [Motivation and Self-Control Bracelet | Crystals Healing UK](https://crystalshealing.co.uk/products/motivation-and-self-control-bracelet): A crystal bracelet designed for intention-setting, focus and mindful routines. Wear it as a daily reminder for motivation, self-control and steady habits.
+  Updated: 2025-12-05T12:04:56Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/CrystalsHealingLimited_1_-min_139a3872-ffd5-43f0-bd1e-15a27b36b1ff.jpg?v=1739737615
-  - [7 inches](https://crystalshealing.co.uk/products/weight-loss-bracelet?variant=41945301057761)
+  - [7 inches](https://crystalshealing.co.uk/products/motivation-and-self-control-bracelet?variant=41945301057761)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/CrystalsHealingLimited_2_-min_e397ae45-d110-4f84-a6d0-122774c38941.jpg?v=1739737618
     Price: £26.00 GBP
-  - [7.5 inches](https://crystalshealing.co.uk/products/weight-loss-bracelet?variant=41945301090529)
+  - [7.5 inches](https://crystalshealing.co.uk/products/motivation-and-self-control-bracelet?variant=41945301090529)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/CrystalsHealingLimited_2_-min_e397ae45-d110-4f84-a6d0-122774c38941.jpg?v=1739737618
     Price: £26.00 GBP
-  - [8 inches](https://crystalshealing.co.uk/products/weight-loss-bracelet?variant=41945301123297)
+  - [8 inches](https://crystalshealing.co.uk/products/motivation-and-self-control-bracelet?variant=41945301123297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/CrystalsHealingLimited_2_-min_e397ae45-d110-4f84-a6d0-122774c38941.jpg?v=1739737618
     Price: £26.00 GBP
-  - [8.5 inches](https://crystalshealing.co.uk/products/weight-loss-bracelet?variant=41945301156065)
+  - [8.5 inches](https://crystalshealing.co.uk/products/motivation-and-self-control-bracelet?variant=41945301156065)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/CrystalsHealingLimited_2_-min_e397ae45-d110-4f84-a6d0-122774c38941.jpg?v=1739737618
     Price: £27.00 GBP
-  - [9 inches](https://crystalshealing.co.uk/products/weight-loss-bracelet?variant=41945301188833)
+  - [9 inches](https://crystalshealing.co.uk/products/motivation-and-self-control-bracelet?variant=41945301188833)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/CrystalsHealingLimited_2_-min_e397ae45-d110-4f84-a6d0-122774c38941.jpg?v=1739737618
     Price: £27.00 GBP
@@ -3226,29 +3226,29 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20211210_125756-PhotoRoom_1_048e58f6-d05b-4b31-b4ee-21e0f0757d85.jpg?v=1739771192
   Price: £1.20 GBP
-- [Weight Loss Fusion - Handmade Bracelet](https://crystalshealing.co.uk/products/weight-loss-fusion-handmade-bracelet): Embark on a transformative weight loss journey with our Weight Loss Fusion Bracelet. Meticulously crafted to harmonize body and mind. Each crystal, thoughtfully selected, brings its unique properties to support your wellness goals. Sunstone, a radiant gem, infuses you with motivation and vitality, propelling you towards your weight loss aspirations. Sodalite, the stone of self-expression, fosters enhanced self-esteem and confidence, empowering you to embrace your inner strength as you shed pounds. Lepidolite, the soothing stone, alleviates stress and promotes emotional balance, curbing emotional eating and cravings. Rose quartz, the symbol of love, radiates self-acceptance and self-worth, inspiring a positive body image and fostering a compassionate relationship with yourself throughout your transformation. Magnetic hematite, known for its healing properties, enhances blood circulation and boosts energy levels, supporting your overall vitality and well-being during your weight loss journey. Infuse your weight loss practice with a powerful mantra: 'I embrace my body's wisdom and align it with my goals.' Repeat this affirmation while wearing the Weight Loss Fusion Bracelet, allowing the harmonizing energies of sunstone, sodalite, lepidolite, rose quartz, and magnetic hematite to surround you. Let the fusion of these powerful crystals and your intentional mantra guide you towards balance, self-love, emotional stability, and physical transformation. Embrace the synergy of nature and empower yourself to achieve your desired weight and holistic well-being.
-  Updated: 2025-11-18T16:34:18Z
+- [Motivation & Discipline Fusion Bracelet | Crystals Healing UK](https://crystalshealing.co.uk/products/motivation-discipline-fusion-bracelet): Motivation & Discipline Fusion Bracelet is designed for intention-setting, focus and consistent routines. A daily reminder for motivation and self-discipline.
+  Updated: 2025-12-05T11:58:17Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/ShopifySquare-PhotoRoom_2_d9d0511c-d4e0-4e07-ba29-49d0f3da55ae.jpg?v=1739739472
-  - [7 Inches](https://crystalshealing.co.uk/products/weight-loss-fusion-handmade-bracelet?variant=43884908019937)
+  - [7 Inches](https://crystalshealing.co.uk/products/motivation-discipline-fusion-bracelet?variant=43884908019937)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/ShopifySquare-PhotoRoom_1_becdb909-7b05-4578-9282-fba2717332b8.jpg?v=1739739476
     Price: £25.00 GBP
-  - [7.5 Inches](https://crystalshealing.co.uk/products/weight-loss-fusion-handmade-bracelet?variant=43884908052705)
+  - [7.5 Inches](https://crystalshealing.co.uk/products/motivation-discipline-fusion-bracelet?variant=43884908052705)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/ShopifySquare-PhotoRoom_1_becdb909-7b05-4578-9282-fba2717332b8.jpg?v=1739739476
     Price: £25.00 GBP
-  - [8 Inches](https://crystalshealing.co.uk/products/weight-loss-fusion-handmade-bracelet?variant=43884908085473)
+  - [8 Inches](https://crystalshealing.co.uk/products/motivation-discipline-fusion-bracelet?variant=43884908085473)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/ShopifySquare-PhotoRoom_1_becdb909-7b05-4578-9282-fba2717332b8.jpg?v=1739739476
     Price: £26.00 GBP
-  - [8.5 Inches](https://crystalshealing.co.uk/products/weight-loss-fusion-handmade-bracelet?variant=43884908118241)
+  - [8.5 Inches](https://crystalshealing.co.uk/products/motivation-discipline-fusion-bracelet?variant=43884908118241)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/ShopifySquare-PhotoRoom_1_becdb909-7b05-4578-9282-fba2717332b8.jpg?v=1739739476
     Price: £26.00 GBP
-  - [9 Inches](https://crystalshealing.co.uk/products/weight-loss-fusion-handmade-bracelet?variant=43884908151009)
+  - [9 Inches](https://crystalshealing.co.uk/products/motivation-discipline-fusion-bracelet?variant=43884908151009)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/ShopifySquare-PhotoRoom_1_becdb909-7b05-4578-9282-fba2717332b8.jpg?v=1739739476
     Price: £26.00 GBP
@@ -3577,7 +3577,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
   Updated: 2025-12-01T12:33:04Z
   Total Products: 50
 - [Healing Crystal Bracelets](https://crystalshealing.co.uk/collections/crystal-bracelets): Discover our healing crystal bracelets, handcrafted with ethically sourced stones. Wear daily to support emotional balance, protection, love, and inner strength
-  Updated: 2025-12-02T12:28:02Z
+  Updated: 2025-12-05T12:04:34Z
   Total Products: 178
 - [Zodiac Crystals Set](https://crystalshealing.co.uk/collections/zodiac-crystals-set): Discover crystal sets aligned with each zodiac sign — curated for energy, personality and purpose. Ethically sourced stones chosen to support your unique astrological journey.
   Updated: 2025-11-19T14:19:52Z
@@ -3586,7 +3586,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
   Updated: 2025-11-19T14:19:52Z
   Total Products: 5
 - [Amethyst Crystals](https://crystalshealing.co.uk/collections/amethyst-crystals): Each piece is crafted with care and carries the natural energy of amethyst. Learn more about its meaning and benefits here.
-  Updated: 2025-11-30T12:32:16Z
+  Updated: 2025-12-05T11:54:24Z
   Total Products: 32
 - [Spa Crystal Sets](https://crystalshealing.co.uk/collections/spa-crystal-sets): Transform your self-care with crystal spa sets. Each bundle blends healing stones, oils, tools or salts — designed to soothe your body, calm your mind, and elevate your ritual with energy and intention.
   Updated: 2025-12-02T12:28:02Z
@@ -3616,25 +3616,25 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
   Updated: 2025-11-19T14:19:52Z
   Total Products: 5
 - [Men Crystal Jewellery](https://crystalshealing.co.uk/collections/men-crystal-jewellery): Men crystal jewellery with purpose – handcrafted to support grounding, confidence, and spiritual focus. Clean design. Strong energy.
-  Updated: 2025-12-02T12:28:02Z
+  Updated: 2025-12-05T12:04:34Z
   Total Products: 53
 - [Carved Crystals](https://crystalshealing.co.uk/collections/carved-crystals): Discover carved crystals that unite sacred symbolism with healing energy. From hearts and angels to spheres and palm stones - each piece is ethically hand-carved for beauty and intention.
   Updated: 2025-11-30T12:32:16Z
   Total Products: 15
 - [Women's Crystal Jewellery](https://crystalshealing.co.uk/collections/womens-crystal-jewellery): Embrace feminine energy with crystal jewellery made for women. Explore handcrafted bracelets, necklaces & rings with stones like Rose Quartz, Amethyst & Moonstone — for love, intuition, balance & self-worth.
-  Updated: 2025-12-02T12:28:02Z
+  Updated: 2025-12-05T12:04:34Z
   Total Products: 229
 - [Manifest Intention Jewelry](https://crystalshealing.co.uk/collections/manifest-intention): Wear your intentions with purpose. Our crystal jewelry is designed to support manifestation, clarity, and alignment - featuring Citrine, Clear Quartz, and other high-vibration stones.
-  Updated: 2025-12-02T12:28:02Z
-  Total Products: 59
+  Updated: 2025-12-05T12:05:03Z
+  Total Products: 57
 - [Moonstone Crystals](https://crystalshealing.co.uk/collections/moonstone-crystals): Connect to feminine energy and intuition with Moonstone crystals. Explore raw stones, tumbled pieces, bracelets and pendants — perfect for new beginnings, inner balance, and emotional healing.
   Updated: 2025-12-01T12:33:04Z
   Total Products: 9
-- [Healing Crystals](https://crystalshealing.co.uk/collections/healing-crystals): Healing crystals are ethically sourced stones used to support balance, protection, love and clarity — in daily life and meditation. Amethyst • Rose Quartz • Citrine • Chakra Bracelets Discover how to choose healing crystals →
-  Updated: 2025-12-04T12:25:00Z
-  Total Products: 222
-- [Sale](https://crystalshealing.co.uk/collections/sale): Save on crystals and jewelry with intention. Discover discounted stones, bracelets, pendants & spiritual tools to empower your journey.
-  Updated: 2025-12-01T12:33:04Z
+- [Healing Crystals | Crystals Healing UK](https://crystalshealing.co.uk/collections/healing-crystals): Browse healing crystals and stones in the UK: amethyst, rose quartz, citrine, selenite, tourmaline, tumblestones and crystal kits. Free UK delivery available.
+  Updated: 2025-12-05T10:39:26Z
+  Total Products: 43
+- [Sale | Crystals Healing UK](https://crystalshealing.co.uk/collections/sale): Limited time offers on crystal jewellery, gifts and wellness tools. Browse discounted items while stocks last. Free UK delivery available.
+  Updated: 2025-12-05T11:27:03Z
   Total Products: 77
 - [Crystal Earrings](https://crystalshealing.co.uk/collections/crystal-earrings): Elevate your energy with crystal earrings. From minimalist studs to elegant drops — handcrafted pieces with Amethyst, Citrine, Rose Quartz & more. Stylish, intentional, and ethically made.
   Updated: 2025-11-19T14:19:53Z
@@ -3672,8 +3672,8 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
 - [Black Onyx Crystals](https://crystalshealing.co.uk/collections/black-onyx-crystals): Discover the grounding and protective power of Black Onyx. From raw stones to bracelets and keychains, each piece supports focus, strength, and emotional balance — ethically sourced for everyday resilience.
   Updated: 2025-11-19T14:19:54Z
   Total Products: 10
-- [Healing Stones](https://crystalshealing.co.uk/collections/healing-stones): Explore our full collection of natural Healing Stones – from raw stones to polished jewelry.
-  Updated: 2025-12-03T12:22:48Z
+- [Healing Stones & Crystal Sets | Crystals Healing UK](https://crystalshealing.co.uk/collections/healing-stones): Healing stones, crystal sets and decor pieces for meditation and gifting. Explore tumblestones, kits and zodiac sets with Free UK delivery available.
+  Updated: 2025-12-05T11:22:33Z
   Total Products: 55
 - [Agate Crystals](https://crystalshealing.co.uk/collections/agate-crystals): Ground your energy with Agate crystals — known for emotional stability, mental clarity and gentle protection. Explore a variety of natural agate forms, from tumbled stones and jewelry to unique display pieces for your sacred space.
   Updated: 2025-11-19T14:19:54Z
@@ -3708,11 +3708,11 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
 - [Jewellery Sets](https://crystalshealing.co.uk/collections/jewellery-sets): Explore crystal jewellery sets designed to harmonise energy and style. Featuring matching bracelets, necklaces & earrings — crafted with healing stones like Rose Quartz, Citrine, Amethyst & more. Perfect for gifting or intentional wear.
   Updated: 2025-12-03T12:22:48Z
   Total Products: 27
-- [Handmade Jewellery](https://crystalshealing.co.uk/collections/handmade-jewellery): Explore handmade jewellery created with care and crystal energy. Every piece is unique, ethically sourced, and spiritually meaningful.
-  Updated: 2025-12-02T12:28:02Z
-  Total Products: 227
+- [Handmade Crystal Jewellery | Healing Intention](https://crystalshealing.co.uk/collections/handmade-jewellery): Handmade crystal jewellery crafted with intention, designed for everyday wear and gifting. Explore a small curated edit for balance, protection and love.
+  Updated: 2025-12-05T10:59:03Z
+  Total Products: 10
 - [Valentine’s Day Crystals](https://crystalshealing.co.uk/collections/valentines-day-crystals): Celebrate love with crystals and jewelry made for connection, romance, and self-love. Discover heart-centered gifts crafted from Rose Quartz, Rhodonite, and Garnet.
-  Updated: 2025-12-03T12:22:48Z
+  Updated: 2025-12-05T11:54:24Z
   Total Products: 129
 - [Chakra Crystal Sets](https://crystalshealing.co.uk/collections/chakra-crystal-sets): Realign and recharge with chakra crystal sets. Each kit includes 7 energy-aligned stones selected to support the root to crown chakras. Perfect for meditation, reiki, yoga or spiritual rituals — comes with pouch & chakra card.
   Updated: 2025-11-19T14:19:55Z
@@ -3732,12 +3732,12 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
 - [Crystal Pouches](https://crystalshealing.co.uk/collections/crystal-pouches): Carry intention with you using crystal pouches. Each set combines hand-picked stones — for love, protection, abundance or clarity — in soft pouches for daily rituals, travel or thoughtful gifts.
   Updated: 2025-11-19T14:19:55Z
   Total Products: 4
-- [Shop Crystals](https://crystalshealing.co.uk/collections/shop-crystals): Shop our full crystal collection: raw stones, figurines, wands & sacred tools. Ethically sourced and intuitively selected for healing, manifestation and spiritual practice.
-  Updated: 2025-12-03T12:22:48Z
-  Total Products: 51
-- [Crystal Jewelry](https://crystalshealing.co.uk/collections/crystal-jewelry): Discover crystal jewelry crafted with purpose - for healing, intention and beauty. Explore ethically sourced bracelets, necklaces, rings & earrings made with stones like Amethyst, Rose Quartz and Citrine.
-  Updated: 2025-12-04T12:25:00Z
-  Total Products: 239
+- [Crystal Gifts & Sets | Crystals Healing UK](https://crystalshealing.co.uk/collections/crystal-gifts): Curated crystal gifts, sets and zodiac picks, including carved pieces and chakra spheres. Browse gift ready bundles with Free UK delivery available.
+  Updated: 2025-12-05T11:15:14Z
+  Total Products: 36
+- [Crystal Jewelry | Crystals Healing UK](https://crystalshealing.co.uk/collections/crystal-jewelry): Handcrafted crystal jewellery for intention & everyday wear. Browse bracelets, necklaces and rings, including gifts for women & men. Free UK delivery available
+  Updated: 2025-12-05T11:54:24Z
+  Total Products: 131
 - [Worry Stones](https://crystalshealing.co.uk/collections/worry-stones): Ease anxiety and invite calm with crystal worry stones. Smooth, polished and designed for gentle touch — perfect for pockets, meditation or on-the-go stress relief. Choose your stone by energy: Amethyst, Rose Quartz, Black Obsidian & more.
   Updated: 2025-11-19T14:19:55Z
   Total Products: 7
@@ -3757,7 +3757,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
   Updated: 2025-11-30T12:32:16Z
   Total Products: 10
 - [Intention Bracelets](https://crystalshealing.co.uk/collections/intention-bracelets): Set your goals in motion with intention bracelets. Handmade using healing crystals like Citrine, Amethyst, and Rose Quartz — each piece supports clarity, love, protection or abundance.
-  Updated: 2025-12-01T12:33:04Z
+  Updated: 2025-12-05T11:54:24Z
   Total Products: 30
 - [Selenite Crystals](https://crystalshealing.co.uk/collections/selenite-crystals): Discover the purifying power of Selenite crystals. Explore charging plates, wands, towers & jewelry — ideal for cleansing energy, protecting your aura, and amplifying spiritual clarity. Ethically sourced.
   Updated: 2025-12-02T12:28:02Z
@@ -3768,8 +3768,8 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
 - [Clear Quartz Crystals](https://crystalshealing.co.uk/collections/clear-quartz-crystals): Explore the amplifying power of Clear Quartz crystals — raw stones, tumbled pieces, jewelry & wands. Known as the “Master Healer,” Clear Quartz supports clarity, intention setting & energy alignment.
   Updated: 2025-11-30T12:32:16Z
   Total Products: 9
-- [All Crystal Products](https://crystalshealing.co.uk/collections/all): Discover our full range of ethically sourced crystal products – from healing stones to handmade jewelry. Ideal for energy balancing, meditation, and mindful gifting.
-  Updated: 2025-12-04T12:25:00Z
+- [All Crystal Products | Crystals Healing UK](https://crystalshealing.co.uk/collections/all): Browse all crystals, jewellery and wellness tools in one place. New arrivals, bestsellers, sets and gifts with UK delivery. Free UK delivery available.
+  Updated: 2025-12-05T12:04:34Z
   Total Products: 377
 - [Essential Oils](https://crystalshealing.co.uk/collections/essential-oils): Discover essential oils crafted for emotional healing, meditation and intention setting. From lavender and frankincense to energizing citrus blends — ethically sourced, pure and perfect for pairing with crystal rituals or self-care.
   Updated: 2025-11-19T14:19:56Z
@@ -3783,8 +3783,8 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
 - [Tourmaline Crystals](https://crystalshealing.co.uk/collections/tourmaline-crystals): Protect your energy with Tourmaline crystals. Explore raw stones, tumbled pieces, bracelets & jewelry — crafted for grounding, emotional stability and energetic defense. Ethically sourced for daily support.
   Updated: 2025-11-19T14:19:56Z
   Total Products: 14
-- [New Arrivals](https://crystalshealing.co.uk/collections/new-arrivals): Discover our latest arrivals – ethically sourced crystals, handmade jewelry, and healing tools. Fresh designs added regularly to inspire your energy journey.
-  Updated: 2025-12-04T12:25:00Z
+- [New Arrivals | Crystals Healing UK](https://crystalshealing.co.uk/collections/new-arrivals): Discover new crystal jewellery, sets and wellness tools added recently. Shop the latest arrivals with Free UK delivery available.
+  Updated: 2025-12-05T12:04:34Z
   Total Products: 376
 - [Sacred Imperfections](https://crystalshealing.co.uk/collections/sacred-imperfections): Crystals with small flaws and big energy. Sacred Imperfections offer healing, meaning, and sustainability – at a better price.
   Updated: 2025-12-03T12:22:48Z
@@ -3890,7 +3890,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Author: Cristian Maxim
     Tags: Aromatherapy scented candles with crystals, Crystal scented candles, Reiki charged scented candles
   - [Crystal Therapy - The New Age of Healing](https://crystalshealing.co.uk/blogs/crystals-tips/crystal-therapy-the-new-age-of-healing): Crystal Therapy - The New Age of Healing
-    Updated: 2025-09-24T09:21:32Z
+    Updated: 2025-12-05T12:23:34Z
     Author: Cristian Maxim
     Tags: CAM, Complementary and Alternative Medicine, Crystal healing, Crystal Healing for Beginners, Energy Healing, Holistic Healing, Natural Healing, Spiritual Healing
   - [Handmade Jewelry: Embrace Creativity & Unique Style](https://crystalshealing.co.uk/blogs/crystals-tips/handmade-jewelry): Handmade Jewelry: Embrace Creativity & Unique Style
@@ -3962,11 +3962,11 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Author: Cristian Maxim
     Tags: Agate, Agate Crystals
   - [Amethyst Stone Benefits, Meaning & Healing Properties](https://crystalshealing.co.uk/blogs/crystals-tips/the-mystical-beauty-of-amethyst-history-benefits-and-uses): Amethyst Stone Benefits, Meaning & Healing Properties
-    Updated: 2025-09-24T09:21:32Z
+    Updated: 2025-12-05T12:28:11Z
     Author: Cristian Maxim
     Tags: amethyst
   - [The Power of Rose Quartz: Unlock Love & Healing Energy](https://crystalshealing.co.uk/blogs/crystals-tips/the-powerful-benefits-of-rose-quartz-crystal-a-deep-dive-into-the-stone-of-love): The Power of Rose Quartz: Unlock Love & Healing Energy
-    Updated: 2025-09-24T09:21:32Z
+    Updated: 2025-12-05T12:26:11Z
     Author: Cristian Maxim
     Tags: Rose Quartz
   - [What Is Chakra Healing? A Beginner’s Guide to the 7 Chakras](https://crystalshealing.co.uk/blogs/crystals-tips/what-is-chakra-healing-a-beginner-s-guide-to-balancing-your-energy): What Is Chakra Healing? A Beginner’s Guide to the 7 Chakras
@@ -4001,7 +4001,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Updated: 2025-09-24T09:21:32Z
     Author: Cristian Maxim
   - [Best Crystals for Anxiety Relief | Healing Guide 2025](https://crystalshealing.co.uk/blogs/crystals-tips/best-crystals-for-anxiety-relief): Best Crystals for Anxiety Relief | Healing Guide 2025
-    Updated: 2025-09-24T09:21:32Z
+    Updated: 2025-12-05T12:20:54Z
     Author: Cristian Maxim
     Tags: amethyst, anxiety support, best crystals for anxiety relief, blue lace agate, calming crystals, crystal healing guide, emotional healing stones, healing crystals for stress, howlite, lepidolite, natural anxiety remedies, smoky quartz
   - [Crystal Jewelry Guide 2025 | Meaning, Benefits & Types](https://crystalshealing.co.uk/blogs/crystals-tips/crystal-jewelry-guide-meaning-types-benefits-how-to-choose): Crystal Jewelry Guide 2025 | Meaning, Benefits & Types
@@ -4013,7 +4013,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Author: Cristian Maxim
     Tags: Best Virgo Crystals for Balance, Clarity, Crystals for Balance, Healing, Healing & Clarity, Virgo
   - [What Are Healing Crystals? Benefits, Types & UK Jewelry](https://crystalshealing.co.uk/blogs/crystals-tips/healing-crystals-explained-benefits-types-jewelry): What Are Healing Crystals? Benefits, Types & UK Jewelry
-    Updated: 2025-09-24T09:21:32Z
+    Updated: 2025-12-05T12:17:26Z
     Author: Cristian Maxim
     Tags: Benefits, Best Crystals, crystals, Healing Crystals, Types & Jewelry
   - [Unlock Moonstone Meaning for Healing and Manifestation](https://crystalshealing.co.uk/blogs/crystals-tips/unlock-moonstone-meaning-for-healing-and-manifestation): Unlock Moonstone Meaning for Healing and Manifestation
@@ -4037,7 +4037,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
 - [Cookie Policy – Your Privacy Matters | Crystals Healing](https://crystalshealing.co.uk/pages/cookie-policy): Cookie Policy Last updated: 21 September 2025 What are cookies? Cookies are small text files stored on your device when you visit a website. They m...
   Updated: 2025-09-24T10:00:41Z
 - [Privacy Policy | Protecting Your Data & Crystal Purchases](https://crystalshealing.co.uk/pages/privacy-policy): Crystals Healing – Privacy Policy Last updated: 21 September 2025 At Crystals Healing, we respect your privacy. This notice explains what personal ...
-  Updated: 2025-09-24T10:00:41Z
+  Updated: 2025-12-05T13:03:01Z
 - [FAQ | Crystals Healing Support - Find Answers Here](https://crystalshealing.co.uk/pages/faq): Navigate through our Frequently Asked Questions. Get quick answers to your queries and understand our services better. We’re here to help you.
   Updated: 2025-10-08T21:40:17Z
 - [Contact Us – We're Here to Help | Crystals Healing Shop](https://crystalshealing.co.uk/pages/contact-us): Get in touch with us for any questions, support, or assistance with your crystal needs. We're here to help you on your healing journey. Contact us ...
@@ -4075,8 +4075,6 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
 - [How to Use Laybuy for Flexible Payments | Step-by-Step](https://crystalshealing.co.uk/pages/how-to-use-laybuy): Learn How to use LayBuy with our easy guide. Shop now, pay later, and take control of your budget. Make your shopping experience smooth and worry-f...
   Updated: 2025-09-24T10:00:41Z
 - [Disclaimer – Information & Usage Terms | Crystals Healing](https://crystalshealing.co.uk/pages/disclaimer): Disclaimer – Information, Safety & Medical Guidance (2025) Content on Crystals Healing is provided for educational and wellbeing purposes only. It ...
-  Updated: 2025-09-24T10:00:41Z
-- [HTML Sitemap for Easy Site Navigation](https://crystalshealing.co.uk/pages/html-sitemap): Products Crystals Kit Onyx Chakra Set Matte Aquamarine Bracelet Citrine and Amethyst Necklace Zodiac Crystals for Sagittarius Tigers Eye Leather Br...
   Updated: 2025-09-24T10:00:41Z
 - [Refer Friends. Get 10% Rewards | Crystals Healing](https://crystalshealing.co.uk/pages/affiliate-program): Refer Friends. Get Rewards – Exclusive Crystal Discounts (2025) We have retired our Affiliate Program and introduced a simpler, more rewarding way ...
   Updated: 2025-10-10T04:40:41Z
