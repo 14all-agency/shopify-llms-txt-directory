@@ -10,7 +10,7 @@
 - Contact Email: reverbarberproducts@gmail.com
 - Contact Phone: 0767661863
 - Address: Paunesti, Vrancea, 077145 Vrancea, Romania
-- Updated At: 2025-12-02T00:00:55.966Z
+- Updated At: 2025-12-06T00:00:33.142Z
 
 ## Products
 
@@ -170,11 +170,11 @@
   Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/ROVRA_BLADE_OIL_1200x1200_9db1eb30-01c8-41f1-9dc9-396702968385.jpg?v=1763464959
   Price: €10.00 EUR
 - [Professional Hair Styling Brush 8RPM Black for Precision](https://rovra.com/products/professional-brush-for-hair-styling-8rpm-black): Shop Rovra's professional hair styling brush with an 8RPM feature and ergonomic black design. Perfect for effortless, precise hair styling every day.
-  Updated: 2025-09-05T09:33:21Z
+  Updated: 2025-12-03T08:58:35Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/vendor-professional-hair-styling-brush-yellow-handle-round.jpg?v=1751970629
+  Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/paragon11200x1200.jpg?v=1764752294
   Price: €10.00 EUR
 - [ROVRA X-CLIP Cordless Hair Clipper 7200 RPM with Digital Display](https://rovra.com/products/rovra-hair-clipper-x-clip-7200-rpm-cordless): Shop Rovra's X-CLIP cordless hair clipper with 7200 RPM for precision and durability. Perfect for professionals seeking top performance and sleek design.
   Updated: 2025-09-05T09:33:20Z
@@ -909,7 +909,7 @@
   Updated: 2025-11-28T13:24:59Z
   Total Products: 8
 - [Professional Hair Trimmers for Precision Grooming | Rovra](https://rovra.com/collections/professional-hair-trimmers-rovra): Shop Rovra’s professional hair trimmers for precise grooming, clean edges, and maximum comfort. Perfect for detailed, irritation-free trimming.
-  Updated: 2025-11-16T13:02:53Z
+  Updated: 2025-12-02T12:28:38Z
   Total Products: 15
 - [Barber Capes for Professionals – Lightweight & Durable | Rovra](https://rovra.com/collections/barber-capes-for-professionals): Discover Rovra’s barber capes for professionals—lightweight, durable, and stylish capes designed for comfort and long-lasting use.
   Updated: 2025-11-25T13:08:25Z
@@ -918,22 +918,22 @@
   Updated: 2025-06-04T07:51:35Z
   Total Products: 0
 - [Professional Barber Tools for Precision & Durability | Rovra](https://rovra.com/collections/professional-barber-tools-collection): Discover Rovra’s professional barber tools collection offering modern, durable, and precise grooming devices designed for experts and enthusiasts alike.
-  Updated: 2025-11-28T13:23:08Z
+  Updated: 2025-12-02T13:00:51Z
   Total Products: 116
 - [VORON](https://rovra.com/collections/voron)
   Updated: 2025-10-19T11:21:12Z
   Total Products: 7
 - [Best Selling Cele Mai Vândute Aparate De Tuns | Rovra](https://rovra.com/collections/cele-mai-vandute-aparate-de-tuns-best): Discover Rovra’s best selling collection featuring cele mai vândute aparate de tuns that combine precision and innovation for perfect grooming every time.
-  Updated: 2025-11-28T13:23:52Z
+  Updated: 2025-12-02T13:01:15Z
   Total Products: 126
 - [LIMITED TIME OFFER - GET 20% OFF](https://rovra.com/collections/sale-collection)
-  Updated: 2025-11-28T13:26:52Z
+  Updated: 2025-12-02T13:01:50Z
   Total Products: 41
 - [test - please delete](https://rovra.com/collections/test)
-  Updated: 2025-11-28T12:35:42Z
+  Updated: 2025-12-02T12:28:38Z
   Total Products: 41
 - [TVA 21%](https://rovra.com/collections/tva-21)
-  Updated: 2025-11-28T13:31:02Z
+  Updated: 2025-12-02T13:03:54Z
   Total Products: 126
 
 ## Blogs
