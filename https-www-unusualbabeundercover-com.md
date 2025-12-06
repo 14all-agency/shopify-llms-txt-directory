@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2016-05-01T21:01:28Z
 - Contact Email: Hello@unusualbabeundercover.com
-- Updated At: 2025-12-03T00:01:13.127Z
+- Updated At: 2025-12-06T00:00:41.913Z
 
 ## Products
 
@@ -1324,7 +1324,7 @@
   Image: https://cdn.shopify.com/s/files/1/1274/1277/products/DSCF1859-2-800x800.jpg?v=1756868743
   Price: $30.99 USD
 - [Coastal Plaids Pajama Bottom](https://www.unusualbabeundercover.com/products/coastal-plaids-pajama-bottom): Unusual Babe Undercover Coastal Plaids Pajama Bottom Relax on the shores in our perfect Coastal Plaids pajama bottom. Our Coastal Plaids pajama bottoms are great for sleepwear or lounging. Easy Fit Cozy and Comfy Faux drawstring with elastic waist 100% Cotton
-  Updated: 2025-11-09T22:51:32Z
+  Updated: 2025-12-04T15:41:43Z
   Vendor: Unusual Babe Undercover
   Product Type: Pajamas
   Availability: Available
@@ -1737,7 +1737,7 @@
   Image: https://cdn.shopify.com/s/files/1/1274/1277/products/Paris_Boxer_7-2-800x800.jpg?v=1756868085
   Price: $30.99 USD
 - [Who's That Girl Paris Boxer](https://www.unusualbabeundercover.com/products/weekend-in-paris-boxer-8): Weekend In Paris Capri Easy Fit Fun and Comfy Elastic Waist Faux Drawstring 100% Cotton Colors: As Shown
-  Updated: 2025-11-23T23:11:27Z
+  Updated: 2025-12-04T03:51:52Z
   Vendor: Unusual Babe Undercover
   Product Type: Pajamas
   Availability: Available
@@ -1908,7 +1908,7 @@
   Image: https://cdn.shopify.com/s/files/1/1274/1277/products/Music_Boxer_6-2-800x800.jpg?v=1756867979
   Price: $30.99 USD
 - [Beer Boxers](https://www.unusualbabeundercover.com/products/beer-boxers): Happy Hour Boxer Short Easy Fit Elastic Waist Boxer Faux Drawstring 100% Cotton Colors: As Shown
-  Updated: 2025-11-09T22:51:41Z
+  Updated: 2025-12-05T09:53:17Z
   Vendor: Unusual Babe Undercover
   Product Type: Boxers
   Availability: Available
