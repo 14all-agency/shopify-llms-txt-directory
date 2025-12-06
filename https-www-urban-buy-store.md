@@ -6,7 +6,7 @@
 - Timezone: Europe/Warsaw
 - Created At: 2025-09-10T09:13:47Z
 - Contact Email: support@urban-buy.store
-- Updated At: 2025-12-05T00:00:22.392Z
+- Updated At: 2025-12-06T00:00:22.262Z
 
 ## Products
 
@@ -642,7 +642,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/1852938515025_34e91da5-1f0b-4dd5-a324-9243b03d9366.jpg?v=1763869309
     Price: $13.21 USD
 - [Christmas Elk Cozy Slippers – Plush Winter Indoor Warmth](https://www.urban-buy.store/products/christmas-shoes-winter-home-slippers): Soft plush Christmas elk slippers with non-slip soles. Warm, festive, and perfect for holiday lounging or gifting.
-  Updated: 2025-12-04T07:48:26Z
+  Updated: 2025-12-05T08:49:05Z
   Vendor: CJ
   Product Type: Christmas
   Availability: Available
@@ -1377,7 +1377,7 @@
   Image: https://cdn.shopify.com/s/files/1/0951/2946/9244/files/8ae18b4f-bc2e-4fd0-ae42-dfc1d7f6303e.jpg?v=1764687782
   Price: $44.99 USD
 - [Crystal Ball VideoCrystal Ball VideoCrystal Ball VideoCrysta](https://www.urban-buy.store/products/crystal-ball-video-music-picture-player): Crystal Ball VideoCrystal Ball VideoCrystal Ball VideoCrystal Ball VideoCrystal Ball Video
-  Updated: 2025-12-03T18:24:35Z
+  Updated: 2025-12-05T16:57:52Z
   Vendor: null
   Product Type: Christmas
   Availability: Available
