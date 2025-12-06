@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-09-30T12:20:15Z
 - Contact Email: info@aevitas-uk.co.uk
-- Updated At: 2025-12-03T00:00:55.810Z
+- Updated At: 2025-12-06T00:00:26.003Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Premium-8-Watch-Box-in-Brown-High-Gloss-Lacquered-Crocodile-Print-Finish-by-Aevitas.webp?v=1760446321
   Price: £199.95 GBP
 - [Green Genuine Leather Triple Watch Roll Travel Case by Aevitas](https://aevitas-uk.co.uk/products/green-genuine-leather-triple-watch-roll-travel-case-by-aevitas): 3 Watch Roll Travel Case by Aevitas. A great way to protect your watch when you travel or simply keep in from getting damaged in your safe. Made from Real Green leather
-  Updated: 2025-12-02T06:53:00Z
+  Updated: 2025-12-04T18:11:16Z
   Vendor: Aevitas
   Product Type: Watch Travel case
   Availability: Available
@@ -88,7 +88,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/8-Watch-Box-Cognac-Brown-Genuine-Leather-Velvet-Lining-by-Aevitas.webp?v=1760447163
   Price: £186.95 GBP
 - [Men's Large Brown Valet Tray with 8 Watch Holders by Aevitas](https://aevitas-uk.co.uk/products/cognac-brown-genuine-leather-watch-winder-slide-away-door-deep-brown-velvet-lining-by-aevitas): Men's Valet Tray Organiser by Aevitas is the perfect way to get your man organised. With more space than most other valet trays, great for all the things we need everyday
-  Updated: 2025-12-02T06:53:35Z
+  Updated: 2025-12-03T10:19:11Z
   Vendor: Aevitas
   Product Type: Watch Box
   Availability: Available
@@ -109,7 +109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Black-Genuine-Leather-Triple-Watch-Roll-Travel-Case-by-Aevitas.webp?v=1760447367
   Price: £159.95 GBP
 - [Watch Roll Travel Case Black Genuine Leather Single by Aevitas](https://aevitas-uk.co.uk/products/black-genuine-leather-single-watch-roll-travel-case-by-aevitas): Watch Travel Case by Aevitas. A great way to protect your watch when you travel or simply keep in from getting damaged in your safe. Made from Real Black
-  Updated: 2025-12-02T06:52:56Z
+  Updated: 2025-12-04T17:54:41Z
   Vendor: Aevitas
   Product Type: Watch Travel case
   Availability: Available
@@ -137,7 +137,7 @@
     Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/12-Watch-Box-Carbon-Fibre-or-Piano-Black-Premium-Quality-by-Aevitas-8.webp?v=1760445719
     Price: £299.95 GBP
 - [Watch Box for 6 Wrist Watches in Burl Walnut Wood by Aevitas](https://aevitas-uk.co.uk/products/watch-box-for-6-wrist-watches-in-burl-walnut-wood-by-aevitas): 6 Watch Box in Burl Walnut Protect and display your treasured watches in this luxurious burl walnut wood veneer finish watch box by Aevitas. With space for 6 wrist watches, this watch box combines practicality with elegance. Keep your watches safe while adding a touch of sophistication to your room. Get yours today! The cushion is best suited to wrist size between 6 1/2 to 8 Inches (15.5 to 20cm) with the removeable sleeve and watch heads upto 2 1/2 inches wide (50mm) wide. Complete with lock and key. Supplied with Quality Branded Gift Box. Watch Box Size 7.5W x 7.5D x 4H inches or 19 x 19 x 9.5 cm
-  Updated: 2025-12-02T20:27:17Z
+  Updated: 2025-12-04T16:49:25Z
   Vendor: Aevitas
   Product Type: Watch Box
   Availability: Available
@@ -200,7 +200,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/8-Watch-Box-in-Carbon-Fibre-Finish-Premium-Quality-by-Aevitas.webp?v=1760446032
   Price: £199.95 GBP
 - [Single Carbon Fibre Watch Winder Mains or Battery by Aevitas](https://aevitas-uk.co.uk/products/single-watch-winder-carbon-fibre-finish-mains-or-battery-by-aevitas): Single Carbon Fibre Watch Winder Mains or Battery by Aevitas a fantastic compact watch winder All Automatic Watches £219.95 Aevitas Luxury Free Delivery
-  Updated: 2025-12-02T22:48:50Z
+  Updated: 2025-12-03T07:26:11Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -423,7 +423,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/2-Watch-Winder-Black-Edition-with-Extra-Storage-Area-by-Aevitas.webp?v=1760446726
   Price: £439.95 GBP
 - [4 Watch Winder Black Edition Extra Storage Area by Aevitas](https://aevitas-uk.co.uk/products/4-watch-winder-black-edition-with-extra-storage-area-by-aevitas): 4 Watch Winder Black Edition with useful extra storage area above in lid. This Aevitas Watch Winders is what you need Our new Watch Holder is large for Men's Larger Wrist
-  Updated: 2025-11-28T02:06:00Z
+  Updated: 2025-12-03T12:10:51Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -451,7 +451,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Premium-Single-Watch-Roll-in-Brown-Leather-with-Super-Soft-Tan-Suede-Lining.webp?v=1760446942
   Price: £49.95 GBP
 - [Premium Double Watch Roll Brown Leather Super Soft Tan Suede Lining](https://aevitas-uk.co.uk/products/premium-double-watch-roll-in-brown-leather-with-super-soft-tan-suede-lining): Our superb Double Watch roll in Brown finest quality animal friendly leather, a great choice for the holiday or business trip allowing you safe storage
-  Updated: 2025-12-02T06:52:46Z
+  Updated: 2025-12-05T14:21:11Z
   Vendor: Aevitas
   Product Type: Watch Travel case
   Availability: Available
@@ -507,7 +507,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Single-Watch-Winder-Black-Edition-Mains-or-Battery-by-Aevitas.webp?v=1760447310
   Price: £219.95 GBP
 - [White Watch Winder Gloss finish Mains or Battery by Aevitas](https://aevitas-uk.co.uk/products/single-watch-winder-white-gloss-finish-mains-or-battery-by-aevitas): Single Watch Winder White Gloss finish Mains or Battery by Aevitas UK.A fantastic compact winder All Automatic Watch £179 with 2 Year Guarantee by Aevitas Luxury.
-  Updated: 2025-11-28T02:06:13Z
+  Updated: 2025-12-04T10:26:58Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -542,7 +542,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Watch-Winder-Safe-in-Orange-Leather-for-8-Watches-by-Aevitas.webp?v=1760447581
   Price: £2,995.00 GBP
 - [Premium Triple Watch Roll in Black Saffiano Leather by Aevitas](https://aevitas-uk.co.uk/products/premium-triple-watch-roll-in-black-saffiano-leather-super-soft-black-lining): Our superb Premium 3 Watch roll in Black Saffiano fine quality animal friendly leather with Black Super Soft lining and dark metal closures
-  Updated: 2025-12-02T06:52:52Z
+  Updated: 2025-12-04T17:10:10Z
   Vendor: Aevitas
   Product Type: Watch Travel case
   Availability: Available
@@ -619,7 +619,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Premium-Triple-Watch-Roll-Vintage-Brown-Leather-Super-Soft-Grey-Suede-Lining.webp?v=1760448670
   Price: £99.95 GBP
 - [Premium Single Watch Roll Vintage Brown Leather Super Soft Grey Lining](https://aevitas-uk.co.uk/products/single-watch-roll-vintage-brown-leather-super-soft-grey-suede-lining): Our superb Single Watch roll in Vintage Brown finest quality animal friendly leather, a great choice for the holiday or business trip. Watch storage
-  Updated: 2025-12-02T06:53:15Z
+  Updated: 2025-12-05T21:46:56Z
   Vendor: Aevitas
   Product Type: Watch Travel case
   Availability: Available
@@ -682,7 +682,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Single-Watch-Winder-Black-Leather-Red-Lining-Mains-or-Battery-by-Aevitas.webp?v=1760450577
   Price: £209.95 GBP
 - [Single Watch Winder - Brown Leather Finish by Aevitas](https://aevitas-uk.co.uk/products/single-watch-winder-brown-leather-white-stitching-mains-or-battery-by-aevitas): Keep your automatic watch running with our single watch winder in brown leather finish. Mains or battery operated for convenience.
-  Updated: 2025-11-28T02:06:42Z
+  Updated: 2025-12-04T14:24:46Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -731,7 +731,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/10-Watch-Box-in-Black-Vegan-Leather-with-Plush-Lining-by-Aevitas.webp?v=1760448097
   Price: £220.95 GBP
 - [Watch Travel Case - Premium Leather Protection](https://aevitas-uk.co.uk/products/premium-single-watch-roll-blue-leather-with-super-soft-suede-lining): Keep your watch safe with our premium leather watch travel case. Compact and stylish, it's perfect for travel.
-  Updated: 2025-12-02T06:52:48Z
+  Updated: 2025-12-04T22:28:41Z
   Vendor: Aevitas
   Product Type: Watch Travel case
   Availability: Available
@@ -773,7 +773,7 @@
     Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Carbon-Fibre-Leather-Watch-Box-Premium-Quality-6-Watches-by-Aevitas-10_6154a519.webp?v=1760448343
     Price: £169.95 GBP
 - [Leather Watch Box - Premium Storage for Your Timepieces](https://aevitas-uk.co.uk/products/brown-leather-watch-box-premium-quality-6-watches-by-aevitas): Brown Leather 6 Watch Box Organize and protect your watches with our leather watch box. Premium quality with a glass lid and spacious compartments.
-  Updated: 2025-12-02T06:53:19Z
+  Updated: 2025-12-03T17:06:51Z
   Vendor: Aevitas
   Product Type: Watch Box
   Availability: Available
@@ -787,14 +787,14 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Brown-Leather-6-Watch-Box-with-Solid-Lid-Premium-Quality-by-Aevitas.webp?v=1760448416
   Price: £169.95 GBP
 - [Men's Valet Tray Organiser in Brown Saffiano Leather Finish by Aevitas](https://aevitas-uk.co.uk/products/mens-valet-tray-organiser-in-brown-saffiano-leather-finish-by-aevitas): Men's Valet Tray Organiser by Aevitas is the perfect way to get your man organised. With more space than most other trays, this product is great for all the things
-  Updated: 2025-11-28T10:57:41Z
+  Updated: 2025-12-05T11:21:35Z
   Vendor: Aevitas
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Mens-Valet-Tray-Organiser-in-Brown-Saffiano-Leather-Finish-by-Aevitas.webp?v=1760448504
   Price: £119.95 GBP
 - [Watch Box for 6 Watches and Cufflinks Superb Quality Macassar Aevitas](https://aevitas-uk.co.uk/products/watch-box-for-6-watches-and-cufflinks-superb-quality-macassar-by-aevitas): This 6 Watch and Cufflinks Box Macassar Wood Finish is a beautiful and high quality collector's box for 6 wrist watches (diameter up to 60mm). Finished with a high gloss
-  Updated: 2025-12-02T06:53:49Z
+  Updated: 2025-12-05T11:53:29Z
   Vendor: Aevitas
   Product Type: Watch Box
   Availability: Available
@@ -815,14 +815,14 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Premium-Double-Watch-Roll-in-Black-Saffiano-Leather-Super-Soft-Black-Lining.webp?v=1760448558
   Price: £79.95 GBP
 - [Single Watch Roll Black Saffiano Leather Super Soft Lining Gift Boxed](https://aevitas-uk.co.uk/products/premium-single-watch-roll-in-black-saffiano-leather-super-soft-black-lining): Our superb Premium Single Watch roll in Black Saffiano fine quality animal friendly leather with Black Super Soft lining, a great choice for the holiday or business trip
-  Updated: 2025-12-02T13:10:51Z
+  Updated: 2025-12-04T07:52:56Z
   Vendor: Aevitas
   Product Type: Watch Travel case
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Premium-Single-Watch-Roll-in-Black-Saffiano-Leather-Super-Soft-Black-Lining.webp?v=1760448610
   Price: £49.95 GBP
 - [Premium Triple Watch Roll Carbon Fibre Leather Super Soft Green Lining](https://aevitas-uk.co.uk/products/premium-triple-watch-roll-in-carbon-fibre-leather-super-soft-teal-lining): Premium Triple Watch roll in Black Carbon Fibre fine quality animal friendly leather with Super Soft Green colour lining and dark metal closures, a great choice
-  Updated: 2025-12-02T06:52:53Z
+  Updated: 2025-12-05T15:01:41Z
   Vendor: Aevitas
   Product Type: Watch Travel case
   Availability: Available
@@ -892,7 +892,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/12-Watch-Winder-Safe-Luxury-Black-Leather-with-Contrast-Stitching-by-Aevitas.webp?v=1760449217
   Price: £3,495.00 GBP
 - [Premium Single Watch Roll Green Leather Super Soft Suede Lining](https://aevitas-uk.co.uk/products/premium-single-watch-roll-green-leather-with-super-soft-suede-lining): Premium Single Watch roll in Green finest quality animal friendly leather, a great choice for the holiday or business trip allowing stylish safe storage
-  Updated: 2025-12-02T06:52:47Z
+  Updated: 2025-12-05T13:20:25Z
   Vendor: Aevitas
   Product Type: Watch Travel case
   Availability: Available
@@ -1046,7 +1046,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Automatic-9-Watch-Winder-in-Dark-Green-Smooth-Leather-Finish-by-Aevitas.webp?v=1760449953
   Price: £1,449.00 GBP
 - [Single Watch Winder Black Leather Blue Lining Mains or Battery](https://aevitas-uk.co.uk/products/single-watch-winder-black-leather-blue-lining-mains-or-battery-by-aevitas): Single Watch Winder Black Leather Watch Winder for All Automatic Watches. Smart Black Leather (Vegan) finish with Blue Lining and Stitching. Free UK Delivery
-  Updated: 2025-12-02T09:18:01Z
+  Updated: 2025-12-05T10:28:31Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -1060,7 +1060,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Single-Watch-Winder-Black-Leather-Grey-Lining-Mains-or-Battery-by-Aevitas.webp?v=1760450073
   Price: £219.95 GBP
 - [Single Watch Winder Black Leather Green Lining Mains or Battery](https://aevitas-uk.co.uk/products/single-watch-winder-black-leather-green-lining-mains-or-battery-by-aevitas): Single Watch Winder Black Leather Watch Winder for All Automatic Watches. Smart Black Leather (Vegan) finish with Green Lining and Stitching. Free UK Delivery
-  Updated: 2025-12-01T21:08:39Z
+  Updated: 2025-12-03T18:26:21Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -1123,12 +1123,12 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Premium-Automatic-12-Watch-Winder-with-Touch-Screen-by-Aevitas.webp?v=1760450379
   Price: £2,249.00 GBP
 - [12 Watch Winder Safe Grade 3 with £350,000 Insurance Rating by Aevitas](https://aevitas-uk.co.uk/products/12-watch-winder-safe-grade-3-with-350-000-insurance-rating-by-aevitas): Watch Winder Safe for 12 Automatic Watches. Super Secure Numbered Key Code locking option. Euro Rated Grade 3 giving you up to £350,000 worth of Valuables cover
-  Updated: 2025-11-28T02:07:49Z
+  Updated: 2025-12-03T22:49:52Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/12-Watch-Winder-Safe-Grade-3-with-PS350000-Insurance-Rating-by-Aevitas.webp?v=1760450412
-  Price: £10,995.00 GBP
+  Price: £9,995.00 GBP
 - [Watch Winder Extension Cable 3 Metre for all Aevitas Watch Winders](https://aevitas-uk.co.uk/products/watch-winder-extension-cable-3-metre-for-all-aevitas-watch-winders): Introducing the Watch Winder Extension Cable 3 Metre for all Aevitas Watch Winders. This stylish and practical accessory is perfect for those who need to extend the reach
   Updated: 2025-11-28T02:07:50Z
   Vendor: Aevitas
@@ -1268,7 +1268,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/8-Watch-Box-in-Black-Leather-Finish-Fine-Quality-by-Aevitas.webp?v=1760451062
   Price: £169.95 GBP
 - [4 Watch Box in Black Leather Finish Fine Quality by Aevitas](https://aevitas-uk.co.uk/products/4-watch-box-in-black-leather-finish-fine-quality-by-aevitas): The Black Vegan Leather 4 Watch Box by Aevitas is a great quality and best design watch box. It can hold up to 4 wrist watches in the soft yet firm cushion in the position
-  Updated: 2025-12-02T06:53:22Z
+  Updated: 2025-12-05T12:09:41Z
   Vendor: Aevitas
   Product Type: Watch Box
   Availability: Available
@@ -1338,7 +1338,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/8-Watch-Roll-Case-Premium-Black-Nappa-Leather-with-Blue-Lining-by-Aevitas.webp?v=1760452724
   Price: £539.95 GBP
 - [Grey Leather 6 Watch Box with Glass Lid Premium Quality by Aevitas](https://aevitas-uk.co.uk/products/grey-leather-6-watch-box-with-glass-lid-premium-quality-by-aevitas): This Grey Leather 6 Watch Box with Glass Lid Premium Quality by Aevitas is the perfect choice for those looking for a stylish and attractive watch box
-  Updated: 2025-12-02T06:53:18Z
+  Updated: 2025-12-04T16:59:41Z
   Vendor: Aevitas
   Product Type: Watch Box
   Availability: Available
@@ -1458,7 +1458,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Premium-8-Watch-Box-in-Green-High-Gloss-Lacquered-Crocodile-Print-Finish-by-Aevitas.webp?v=1760451272
   Price: £199.95 GBP
 - [Premium 6 Watch Box Brown High Gloss Crocodile Print Finish by Aevitas](https://aevitas-uk.co.uk/products/premium-6-watch-box-in-brown-high-gloss-lacquered-crocodile-print-finish-by-aevitas): Aevitas brings you this luxurious 6 Watch Box made from wood with lavishing muli layer high gloss polished brown Crocodile Print finish.
-  Updated: 2025-11-29T18:53:02Z
+  Updated: 2025-12-03T21:41:22Z
   Vendor: Aevitas
   Product Type: Watch Box
   Availability: Available
@@ -1535,7 +1535,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/12-Watch-Winder-Safe-Grade-4-with-PS600000-Insurance-Rating-by-Aevitas.webp?v=1760451690
   Price: £16,995.00 GBP
 - [2 Watch Winder in Black and Blue Smooth Leather Finish by Aevitas](https://aevitas-uk.co.uk/products/2-watch-winder-in-black-and-blue-smooth-leather-finish-by-aevitas): 2 Watch Winder in Black Smooth Leather 2 Watch Winder in Black Vegan Leather Finish and smart Blue Lining. This Aevitas Watch Winders is what you need! Our Patented Watch Holder is large enough for Men's Larger Wrist Sizes yet versatile enough to set watches of smaller wrist sizes. Perfect for those really large face watches upto 70 mm wide and driven by the our latest German Motors. These Watch Winders will wind any brand of automatic watch, the Turns per Day settings are : 650, 750, 850, 1000, or 1950 in Either or Both Directions which is perfect for all Top Brand Watches include Rolex, Omega and Breitling etc. These rotations are 100% Accurate and Digitally counted. Each Rotor can be set and individually controlled. This is perfect for 100% of Automatic watch Brands. This 2 Watch Winder will never over wind your watches, it completes its intermittent winding program during a 12 hour period and then rests for 12 hours, allowing your watch to run as it would without being worn during night time. Perfectly mimicking natural winding whilst on your wrist. Smart Interior is finished in Blue with Contrasting Chromed trim. Fully Serviceable for exceptionally long life. 2 Year Guarantee.Size 27 x 21.5 x 18 cm Watch Winder Features Include 12 O'clock Stop Each Rotor can be set and individually controlled Holds Watches upto 70mm Wide Watch Holder for all wrist Sizes from 16cm to 22cm 12 Hour Sleep Cycle so yours will never be interrupted! Magnetically Shielded Motor with Near Silent Operation Fine Smooth Finish Auto Stop when Door Opened Internal LED Light Mains or Battery Operated (recommend general running on mains power) Fully Serviceable for exceptionally long life Very easy instructions to set the winder can be downloaded HERE
-  Updated: 2025-12-01T23:16:27Z
+  Updated: 2025-12-04T20:59:37Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -1549,7 +1549,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/4-Watch-Winder-in-Smooth-Black-and-Blue-Leather-Finish-by-Aevitas_f05f5824.webp?v=1760451900
   Price: £649.95 GBP
 - [6 Watch Winder in Smooth Black and Blue Leather Finish by Aevitas UK](https://aevitas-uk.co.uk/products/6-watch-winder-in-smooth-black-and-blue-leather-finish-by-aevitas): 6 Watch Winder in Black Smooth Leather 6 Watch Winder in Black Vegan Leather Finish with smart Blue lining. This Aevitas Watch Winders is what you need! Our Patented Watch Holder is large enough for Men's Larger Wrist Sizes yet versatile enough to set watches of smaller wrist sizes. Perfect for those really large face watches upto 70 mm wide and driven by the our latest German Motors. These Watch Winders will wind any brand of automatic watch, the Turns per Day settings are : 650, 750, 850, 1000, or 1950 in Either or Both Directions which is perfect for all Top Brand Watches include Rolex, Omega and Breitling etc. Each Rotor can be set and individually controlled. This is perfect for 100% of Automatic watch Brands. These rotations are 100% Accurate and Digitally counted. Our 6 Watch Winder will never over wind your watches, it completes its intermittent winding program during a 12 hour period and then rests for 12 hours, allowing your watch to run as it would without being worn during night time. Perfectly mimicking natural winding whilst on your wrist. Smart Interior is finished in Blue with Contrasting Chromed trim. Fully Serviceable for exceptionally long life. 2 Year Guarantee.Size 39 x 27 x 21.5 cm Features Include 12 O'clock Stop Each Rotor can be set and individually controlled Holds Watches upto 70mm Wide Watch Holder for all wrist Sizes from 16cm to 22cm 12 Hour Sleep Cycle so yours will never be interrupted! Magnetically Shielded Motor with Near Silent Operation Fine Smooth Finish Mains or Battery Powered (recommend general running on mains power) Auto Stop when Door Opened Internal LED Light Fully Serviceable for exceptionally long life Very easy instructions to set the winder can be downloaded HERE
-  Updated: 2025-11-28T02:08:51Z
+  Updated: 2025-12-03T16:40:33Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -1569,13 +1569,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/22-Watch-Winder-Safe-Grade-4-with-PS600000-Insurance-Rating-by-Aevitas.webp?v=1760452016
   Price: £18,995.00 GBP
-- [Watch Winder Packaging to Return Watch Winder for Repair](https://aevitas-uk.co.uk/products/watch-box-key): Watch Winder Packaging Parts - Watch Winder Motor or Power Adapter Watch Winder Parts as required, Prices Vary Please enquire  29.95 Aevitas Luxury
-  Updated: 2025-11-28T02:08:54Z
-  Vendor: Aevitas
-  Product Type: Watch Winder
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Watch-Box-Key.webp?v=1760452036
-  Price: £2.95 GBP
 - [Premium Single Watch Winder Black Genuine Leather Mains Powered by Aevitas](https://aevitas-uk.co.uk/products/single-watch-winder-black-genuine-leather-mains-powered-by-aevitas): Single Watch Winder for All Automatic Watches. Smart Black Genuine Top Grain Leather with Grey Lining and Glass Door. Simple slide controls on top easy access
   Updated: 2025-12-02T06:49:39Z
   Vendor: Aevitas
@@ -1711,30 +1704,37 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Grade-3-Watch-Winder-Safes-with-PS350000-Insurance-Rating-by-Aevitas-16.webp?v=1760452450
     Price: £8,495.00 GBP
-[List Continued](https://aevitas-uk.co.uk/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTI0OTYzMjg1NDM5MCwibGFzdF92YWx1ZSI6IjE1MjQ5NjMyODU0MzkwIn0=)
+- [Extra Large Premium Jewellery Box White Wood with Camel Colour Lining by Aevitas](https://aevitas-uk.co.uk/products/extra-large-premium-jewellery-box-white-wood-with-camel-colour-lining-by-aevitas): Premium Jewellery Box Glossy White Wood Finish with Camel Colour Lining by Aevitas Experience the sophistication of the Premium Extra Large Jewellery Box by Aevitas, showcasing a stunning glossy white wood finish enhanced by a multi-layered lacquer that accentuates its natural grain. The interior features a plush camel-coloured suedette lining, offering gentle protection for your valuable jewellery. Spacious enough to hold necklaces, watches, bracelets, and rings, this elegant box keeps all your treasures neatly organised. With dimensions of 35 cm wide, 26 cm deep, and 21 cm high, it provides generous storage while remaining compact. Crafted from strong, high-quality wood and presented in a branded gift box, it’s a perfect gift or a luxurious treat for yourself. Elevate your jewellery storage with this enduring classic. See matching 6 Watch box available here
+  Updated: 2025-11-28T02:09:08Z
+  Vendor: Aevitas Watch Winders
+  Product Type: Jewellery Box
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Extra-Large-Premium-Jewellery-Box-White-Wood-with-Camel-Colour-Lining-by-Aevitas.webp?v=1760452493
+  Price: £249.95 GBP
+[List Continued](https://aevitas-uk.co.uk/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTI5NjMxMDg3MDM5MCwibGFzdF92YWx1ZSI6IjE1Mjk2MzEwODcwMzkwIn0=)
 
 ## Collections
 
 - [Watch Winders Buy Online Aevitas Best Selling Watch Winder](https://aevitas-uk.co.uk/collections/watch-winders): Browse our Collection Automatic Watch Winders Buy Online free delivery, a Watch Winder  Rotates your automatic wristwatch keeping it ticking
-  Updated: 2025-12-02T12:28:03Z
+  Updated: 2025-12-05T12:20:41Z
   Total Products: 93
 - [Watch Boxes Shop Fine Quality Storage Online at Aevitas Luxury UK](https://aevitas-uk.co.uk/collections/watch-boxes): Watch Boxes Checkout this superb collection of High Quality Storage designs by Aevitas UK with decades of listening to customers requirements. Free UK Delivery
-  Updated: 2025-12-02T12:28:03Z
+  Updated: 2025-12-05T12:20:41Z
   Total Products: 83
 - [Elegant Jewellery Boxes by Aevitas UK](https://aevitas-uk.co.uk/collections/jewellery-boxes): Explore our elegant Jewellery Boxes, crafted with precision and style by Aevitas UK. Perfect for all your jewelry storage needs.
-  Updated: 2025-11-29T12:28:30Z
+  Updated: 2025-12-05T12:20:41Z
   Total Products: 11
 - [Buy Quality Luxury Leather Watch Boxes Online at Aevitas UK](https://aevitas-uk.co.uk/collections/leather-watch-boxes): Glance through our latest collection of Quality Luxury Leather Watch Boxes designed by Aevitas using high quality genuine leather and with unique design ideas
-  Updated: 2025-12-02T06:54:06Z
+  Updated: 2025-12-05T12:20:41Z
   Total Products: 40
 - [Luxury Leather Watch Winders | Automatic & Stylish](https://aevitas-uk.co.uk/collections/leather-watch-winders): Discover Aevitas Leather Watch Winders, UK's top choice for luxury automatic winding. Free UK delivery. Shop now!
-  Updated: 2025-12-02T12:28:03Z
+  Updated: 2025-12-05T12:20:41Z
   Total Products: 25
 - [Quality Watch Winders and Watch Boxes Cases on Sale by Aevitas](https://aevitas-uk.co.uk/collections/watch-winders-cases-clearance-sale): Automatic Watch Winders Watch Boxes and Watch Cases Sale section you will find our Special Offers with Big Savings. Best Quality Luxury Items - Hurry, Buy Now!
-  Updated: 2025-12-02T12:28:03Z
+  Updated: 2025-12-05T12:20:41Z
   Total Products: 189
 - [Watch Winder Safes Collection | Best Selling by Aevitas UK](https://aevitas-uk.co.uk/collections/watch-winder-safe): Watch Winder Safes Buy Best Selling Watch Winders Keep Watches Wound and Locked away. Buy the Best Quality by Aevitas UK today - Free UK Delivery
-  Updated: 2025-11-29T12:28:30Z
+  Updated: 2025-12-03T09:35:40Z
   Total Products: 27
 - [Quality British Watch Winders - Handmade in the UK](https://aevitas-uk.co.uk/collections/made-in-britain): Explore our 'Made In Britain' collection of quality British watch winders. Handcrafted with solid wood by local UK craftsmen. Elevate your style.
   Updated: 2025-08-13T13:48:48Z
@@ -1743,28 +1743,28 @@
   Updated: 2025-12-02T06:54:07Z
   Total Products: 14
 - [Luxury Carbon Fibre Watch Winders - Premium Selection](https://aevitas-uk.co.uk/collections/carbon-fibre-watch-winders): Discover our luxury Carbon Fibre Watch Winders collection. Perfect winding every time with customizable settings. Free UK delivery. Shop now!
-  Updated: 2025-12-02T12:28:03Z
+  Updated: 2025-12-03T12:18:58Z
   Total Products: 5
 - [Luxury Leather Watch Rolls and Travel Cases Online in the UK – Aevitas](https://aevitas-uk.co.uk/collections/leather-watch-rolls): Our superb new online collection of Watch Roll Travel Cases provides a necessary accessory for all watch enthusiasts. Designed to easily fit into your suitcase  luggage
-  Updated: 2025-12-02T12:28:03Z
+  Updated: 2025-12-05T12:20:41Z
   Total Products: 65
 - [Luxury Watch Stands | Italian Marble Watch Stand Aevitas UK](https://aevitas-uk.co.uk/collections/luxury-watch-stands): Finest Luxury Watch Stand collection by Aevitas UK. Italian Marble, these Watch Stands are both smart and functional, hang your prized wristwatch on a stand
   Updated: 2025-11-01T08:07:12Z
   Total Products: 8
 - [Premium 2 Watch Winders for Luxury Brands](https://aevitas-uk.co.uk/collections/double-watch-winders): Discover premium 2 watch winders with near-silent motors, perfect for brands like Rolex & Omega. Enjoy fast, free UK delivery today.
-  Updated: 2025-12-02T12:28:03Z
+  Updated: 2025-12-05T12:20:41Z
   Total Products: 11
 - [Multi Watch Winders | Luxury Watch Winder Supplier Aevitas UK](https://aevitas-uk.co.uk/collections/multi-watch-winders): Our multiple Luxury Watch Winders help maintain your Best automatic watches. Made for the avid watch collector by Aevitas Luxury UK. Free UK delivery. 2-3 Year Warranty
-  Updated: 2025-12-02T12:28:03Z
+  Updated: 2025-12-04T12:23:27Z
   Total Products: 55
 - [Watch Winder | Premium Automatic Watch Winders - Aevitas UK](https://aevitas-uk.co.uk/collections/premium-watch-winders): Watch Winder - See our Best Selling Premium Quality Automatic Watch Windersfrom Aevitas the UK Watch Winder Specialist - Free UK Delivery
   Updated: 2025-12-02T08:09:34Z
   Total Products: 23
 - [Elegant Wooden Watch Boxes - Organize & Protect Your Timepiece](https://aevitas-uk.co.uk/collections/wooden-watch-boxes): Discover premium Wooden Watch Boxes with diverse styles & finishes. Safeguard your collection & enhance durability with Aevitas' elegant solutions.
-  Updated: 2025-12-02T12:28:03Z
+  Updated: 2025-12-05T12:20:41Z
   Total Products: 49
 - [Father's Day Gifts | Watch Winders and Watch Storage and Travel Cases](https://aevitas-uk.co.uk/collections/fathers-day-gifts): Here we have a Special Selection of Father's Day Gifts for that special man in your family. Watch Winders, Watch Boxes, Watch Stands or Cases we have the perfect Gifts
-  Updated: 2025-12-02T12:28:03Z
+  Updated: 2025-12-05T12:20:41Z
   Total Products: 145
 - [Ladies Watch Roll Travel Cases Luxurious Quality Beautiful Designs](https://aevitas-uk.co.uk/collections/ladies-watch-rolls): Ladies Watch Roll Travel Cases Luxurious Quality Beautiful Designs. Here you can see our latest collection for the Ladies. These are a perfect gift for you
   Updated: 2025-12-02T06:53:21Z
@@ -1773,46 +1773,46 @@
   Updated: 2025-09-16T14:43:35Z
   Total Products: 4
 - [Premium Watch and Cufflink Storage Boxes - Aevitas](https://aevitas-uk.co.uk/collections/watch-cufflink-boxes): Discover high-quality Watch and Cufflink Storage Boxes by Aevitas. Organize & protect your collection with stylish, durable options. Free UK delivery!
-  Updated: 2025-12-02T06:54:02Z
+  Updated: 2025-12-03T12:18:58Z
   Total Products: 19
 - [Luxurious Valet Trays - Organize with Elegance | Aevitas](https://aevitas-uk.co.uk/collections/valet-trays-organise-your-man): Discover Aevitas Valet Trays for stylish organization. Efficiently store keys, watches & cash with premium designs. Shop Now for practical elegance!
-  Updated: 2025-12-02T06:53:42Z
+  Updated: 2025-12-05T12:20:41Z
   Total Products: 4
 - [Single Watch Winders for 1 Automatic Watch by Aevitas](https://aevitas-uk.co.uk/collections/watch-winders-for-1-single-automatic-watch): Single Watch Winders Collection of fully Automatic Watch Winders and feature programmable near silent running motors. These are perfect for all luxury watch brands
-  Updated: 2025-12-02T12:28:03Z
+  Updated: 2025-12-05T12:20:41Z
   Total Products: 17
 - [Premium 2 Watch Winders for Automatic Watches | Aevitas](https://aevitas-uk.co.uk/collections/2-watch-winders-for-automatic-watches): Discover Aevitas' 2 Watch Winders, designed for all luxury automatics like Rolex & Omega. Silent motors, customizable settings & 100% satisfaction guaranteed.
-  Updated: 2025-12-02T12:28:03Z
+  Updated: 2025-12-05T12:20:41Z
   Total Products: 12
 - [4 Watch Winders for Automatic Watches - Aevitas UK](https://aevitas-uk.co.uk/collections/4-watch-winders-for-automatic-watches): Discover premium 4 Watch Winders for Automatic Watches at Aevitas. Perfect for brands like Rolex & Omega, offering silent motors & worldwide shipping.
-  Updated: 2025-12-02T12:28:03Z
+  Updated: 2025-12-04T12:23:27Z
   Total Products: 12
 - [6 Watch Winders for Automatic Watches by Aevitas UK](https://aevitas-uk.co.uk/collections/6-watch-winders-for-automatic-watches-by-aevitas-uk): 6 Watch Winder Collection fully Automatic and feature programmable near silent running motors. These are perfect for all luxury watch brands including Breitling, Omega and Rolex
-  Updated: 2025-12-02T12:28:03Z
+  Updated: 2025-12-04T12:23:27Z
   Total Products: 15
 - [Luxury 8 Watch Winders for Automatic Watches by Aevitas](https://aevitas-uk.co.uk/collections/8-watch-winders-for-automatic-watches): Explore our premium 8 Watch Winders, perfect for luxury brands like Rolex & Omega. Enjoy silent motors, 2-year guarantee & free UK delivery.
-  Updated: 2025-12-02T06:49:50Z
+  Updated: 2025-12-03T12:18:58Z
   Total Products: 8
 - [9 Watch Winders for Automatic Watches by Aevitas](https://aevitas-uk.co.uk/collections/9-watch-winders-for-automatic-watches): We have a wide selection of 9 watch winders for automatic watches. Our collection consists of fully automatic and programmable winders, ensuring near silent running motors
   Updated: 2025-12-02T06:49:53Z
   Total Products: 7
 - [12 Watch Winders for Automatic Watches by Aevitas UK](https://aevitas-uk.co.uk/collections/12-watch-winders-for-automatic-watches): 12 Watch Winders Collection fully Automatic and feature programmable near silent running motors. These are perfect for all luxury watch brands
-  Updated: 2025-12-02T06:49:54Z
+  Updated: 2025-12-03T09:35:40Z
   Total Products: 14
 - [Premium Watch Winder Accessories & Power Supplies](https://aevitas-uk.co.uk/collections/accessories): Discover premium Watch Winder Accessories, Power Supplies, Multi Connectors & Extension Cables by Aevitas. Enhance functionality, ensuring reliability.
-  Updated: 2025-11-30T12:23:58Z
+  Updated: 2025-12-04T12:23:27Z
   Total Products: 8
 - [Watch Boxes and Storage Cases - Perfect Gifts by Aevitas](https://aevitas-uk.co.uk/collections/all-watch-boxes): Watch Box Perfect Gifts Ideas by Aevitas, we take pride in our extensive selection of watch boxes, offering a range of sizes and finishes to suit your preferences
-  Updated: 2025-12-02T12:28:03Z
+  Updated: 2025-12-05T12:20:41Z
   Total Products: 78
 - [15 Watch Winder and 24 Watch Winders for Automatic Watches](https://aevitas-uk.co.uk/collections/watch-winders-for-15-and-24-automatic-watches): 15 Watch Winders and  24 Watch Winders - Our Largest Watch Capacity for the Really large collectors of  Watches, all fully Automatic and feature fully programmable rotors
   Updated: 2025-12-02T06:49:54Z
   Total Products: 5
 - [Watch Case Selection Travel and Storage Cases](https://aevitas-uk.co.uk/collections/watch-case-selection-travel-and-storage-cases): Aevitas Watch Cases – Premium Storage & Travel Protection for Your Timepieces Discover the perfect solution for safeguarding your valuable timepieces with Aevitas Watch Cases. Whether you're at home or on the move, our collection of luxury watch storage cases and durable travel cases ensures your watches remain protected, organized, and in pristine condition. Luxury Watch Storage Cases Designed for serious collectors and enthusiasts, our watch storage cases provide a secure and elegant home for your watches. Crafted from high-quality materials such as premium leather, carbon fiber, and wood, these cases offer both style and security. With soft interior linings, padded compartments, and secure locking mechanisms, your timepieces are shielded from dust, scratches, and damage. Watch Travel Cases – Secure & Compact Protection For those on the go, our watch travel cases are the ultimate companion. Built with shock-resistant exteriors and plush interiors, these cases ensure your watches stay safe during transit. Whether you need a single-watch case for daily travel or a multi-watch roll for extended trips, Aevitas offers the ideal solution for your needs. Why Choose Aevitas Watch Cases? ✔ Premium craftsmanship – Built with superior materials for lasting durability✔ Ultimate protection – Secure, padded interiors to prevent scratches & impacts✔ Stylish & functional – Designed for both display & travel convenience✔ Versatile options – Available in single, double, and multi-watch capacities Protect your investment with Aevitas. Explore our premium watch storage and travel cases today and keep your timepieces in impeccable condition.
-  Updated: 2025-12-02T12:28:03Z
+  Updated: 2025-12-05T12:20:41Z
   Total Products: 124
 - [Aevitas Watch Boxes the Full Collection](https://aevitas-uk.co.uk/collections/all-watch-boxes-1): Here we find the Full collection of Aevitas Watch Boxes, multiple finished and sizes, available for immediate delivery, Free Worldwide no extra Taxes or Duty
-  Updated: 2025-12-02T12:28:03Z
+  Updated: 2025-12-05T12:20:41Z
   Total Products: 133
 
 ## Blogs
