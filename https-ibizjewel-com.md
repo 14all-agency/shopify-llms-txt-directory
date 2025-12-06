@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-12-04T00:00:53.860Z
+- Updated At: 2025-12-06T00:00:50.961Z
 
 ## Products
 
@@ -7269,7 +7269,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-77_1.jpg?v=1690621590
     Price: $2,399.00 USD
 - [Natural Salt And Pepper 1.90CT Marquise Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-90ct-marquise-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring-1): This Natural Salt and Pepper 1.90CT Marquise Diamond Art Deco Unique Engagement Ring is an exquisite piece for your special day. The handmade design includes a stunning 1.90CT marquise diamond, set in an elegant Art Deco-style setting perfect for commemorating a special occasion or anniversary.
-  Updated: 2025-10-02T10:30:43Z
+  Updated: 2025-12-04T23:37:24Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Marquise Diamond Ring
   Availability: Available
@@ -20640,7 +20640,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/IBIZ-08_1.jpg?v=1710567573
     Price: $499.00 USD
 - [Moissanite 1.70CT Lozenge Diamond Minimalist Engagement Ring](https://ibizjewel.com/products/moissanite-1-70ct-lozenge-diamond-minimalist-engagement-ring): Experience True Elegance With Our Moissanite 1.70ct Lozenge Diamond Minimalist Engagement Ring. The Exquisite Design Showcases A Unique Lozenge Diamond Set On A Delicate Band, Perfect For The Modern Bride. Crafted With The Finest Moissanite, This Ring Offers A Stunning Sparkle At A Fraction Of The Cost Of Traditional Diamonds. Make A Lasting Impression With This Timeless Piece.
-  Updated: 2025-10-02T10:30:56Z
+  Updated: 2025-12-04T07:19:27Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Lozenge Diamond Ring
   Availability: Available
