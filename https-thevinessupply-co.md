@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-06T16:00:37.334Z
+- Updated At: 2025-12-06T20:00:34.669Z
 
 ## Products
 
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/glassy-sunglasses-black-glassy-morrison-polarized-black-blue-1183729517.jpg?v=1757439960
   Price: £31.95 GBP
 - [5 Way Ultimate T-Tool For Skateboard | Black](https://thevinessupply.co/products/5-way-ultimate-t-tool-for-skateboard-black): Buy skate tools at The Vines Skate Shop in Solihull or online at www.thevinessupply.co. The perfect accompaniment to any skate session, our 5 way T-Tool is vital for any skateboard adjustments. Works on axel nuts, trucks bolts and kingpin nuts. With fast, free delivery available at www.thevinessupply.co
-  Updated: 2025-12-05T12:42:55Z
+  Updated: 2025-12-06T16:52:25Z
   Vendor: G-Tool
   Product Type: Skate Tool
   Availability: Available
@@ -163,7 +163,7 @@
     Availability: Not Available
     Price: £36.95 GBP
 - [Independent Trucks Skateboard Bolts | Phillips](https://thevinessupply.co/products/independent-trucks-skatebaord-bolts-phillips): Buy Independent Bolts Phillips at The Vines.
-  Updated: 2025-11-25T15:38:59Z
+  Updated: 2025-12-06T16:52:26Z
   Vendor: Independent
   Product Type: Nuts & Bolts
   Availability: Available
@@ -251,7 +251,7 @@
     Availability: Not Available
     Price: £39.95 GBP
 - [Independent Stage 11 Polished Trucks | Silver](https://thevinessupply.co/products/independent-stage-11-polished-skateboard-trucks-pair): Buy a pair of Independent Stage 11 Skateboard Trucks in Silver at The Vines.  With fast, premium delivery & easy returns.
-  Updated: 2025-12-05T15:58:40Z
+  Updated: 2025-12-06T16:06:31Z
   Vendor: Independent
   Product Type: Trucks
   Availability: Available
@@ -1693,13 +1693,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/shake-junt-bearings-black-shake-junt-night-train-skateboard-bearings-1183718390.png?v=1757229844
   Price: £17.95 GBP
-- [Spitfire Soft 90D Sapphire Radial Purple Skateboard Wheels | 58mm](https://thevinessupply.co/products/spitfire-soft-90d-sapphire-radial-purple-skateboard-wheels-58mm): Buy Spitfire Soft 90D Sapphire Radial Purple Skateboard Wheels in 58mm at The Vines.
-  Updated: 2025-10-25T00:11:25Z
-  Vendor: Spitfire Wheels
-  Product Type: Wheels
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/spitfire-wheels-wheels-58mm-spitfire-soft-90d-sapphire-radial-purple-skateboard-wheels-58mm-1183714661.png?v=1757161574
-  Price: £59.95 GBP
 - [Spitfire Burner 99A Skateboard Wheels | 56mm](https://thevinessupply.co/products/spitfire-burner-skateboard-wheels-99d-56mm): Buy the Spitfire Burner Skateboard Wheels 99D in 56mm at The Vines, with fast, premium delivery & easy returns.
   Updated: 2025-12-03T16:09:10Z
   Vendor: Spitfire Wheels
@@ -1922,7 +1915,7 @@
     Availability: Available
     Price: £15.95 GBP
 - [Stance Ron and Harry Crew Socks | Navy & Burgundy](https://thevinessupply.co/products/stance-ron-and-harry-crew-socks-navy-burgundy): Buy Stance Ron and Harry Crew Socks at The Vines. Shop our online skate shop with fast, free delivery available on all Stance Socks.
-  Updated: 2025-12-05T20:53:28Z
+  Updated: 2025-12-06T17:11:26Z
   Vendor: Stance
   Product Type: Socks
   Availability: Available
@@ -3507,7 +3500,7 @@
     Availability: Not Available
     Price: £79.95 GBP
 - [Magenta Skateboards Cruise Co T-Shirt | Natural](https://thevinessupply.co/products/magenta-skateboards-cruise-co-t-shirt-natural): Buy the Magenta Skateboards Cruise Co T-Shirt in Natural at The Vines, with Fast, Premium Delivery and Easy Returns.
-  Updated: 2025-09-24T22:25:19Z
+  Updated: 2025-12-06T18:38:10Z
   Vendor: Magenta
   Product Type: Tees
   Availability: Available
@@ -3516,7 +3509,7 @@
     Availability: Available
     Price: £34.95 GBP
   - [Medium](https://thevinessupply.co/products/magenta-skateboards-cruise-co-t-shirt-natural?variant=55662330380623)
-    Availability: Available
+    Availability: Not Available
     Price: £34.95 GBP
   - [Large](https://thevinessupply.co/products/magenta-skateboards-cruise-co-t-shirt-natural?variant=55662330413391)
     Availability: Available
@@ -3792,7 +3785,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/palace-skateboards-decks-8-palace-skateboards-brady-pro-s40-skateboard-deck-8-1191566690.png?v=1757446931
   Price: £64.95 GBP
 - [Palace Skateboards Lucas Pro S40 Skateboard Deck | 8.2"](https://thevinessupply.co/products/palace-skateboards-lucas-pro-s40-skateboard-deck-8-2): Buy the Palace Skateboards Lucas Pro S40 Skateboard Deck in 8" at The Vines, With Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-09-24T22:44:47Z
+  Updated: 2025-12-06T18:16:30Z
   Vendor: Palace Skateboards
   Product Type: Decks
   Availability: Available
@@ -3929,7 +3922,7 @@
     Availability: Available
     Price: £74.95 GBP
 - [New Balance Numeric 808 Lite NM808LBW Tiago Lemos Skate Shoes | Black & White](https://thevinessupply.co/products/new-balance-numeric-808-lite-nm808lbw-tiago-lemos-skate-shoes-black-white): Buy the New Balance Numeric Tiago Lemos 808 Lite in black and white at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-11-14T14:32:14Z
+  Updated: 2025-12-06T16:27:41Z
   Vendor: New Balance Numeric
   Product Type: Shoes
   Availability: Available
@@ -3938,7 +3931,7 @@
     Availability: Available
     Price: £69.95 GBP
   - [UK 8](https://thevinessupply.co/products/new-balance-numeric-808-lite-nm808lbw-tiago-lemos-skate-shoes-black-white?variant=55838576640335)
-    Availability: Available
+    Availability: Not Available
     Price: £69.95 GBP
   - [UK 8.5](https://thevinessupply.co/products/new-balance-numeric-808-lite-nm808lbw-tiago-lemos-skate-shoes-black-white?variant=55838576673103)
     Availability: Available
@@ -4740,18 +4733,6 @@
   - [Extra Large](https://thevinessupply.co/products/helas-rayo-striped-t-shirt-grey?variant=55931805860175)
     Availability: Available
     Price: £54.95 GBP
-- [Skateboard Cafe Gaurab Sketches Skateboard Deck White | C2 Shape](https://thevinessupply.co/products/skateboard-cafe-gaurab-sketches-skateboard-deck-white-c2-shape): Buy the Skateboard Cafe Gaurab Sketches Skateboard Deck in white at The Vines, featuring artwork by Gaurab Thakali.
-  Updated: 2025-11-25T12:40:56Z
-  Vendor: Skateboard Cafe
-  Product Type: Decks
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/skateboard-cafe-decks-skateboard-cafe-gaurab-sketches-skateboard-deck-white-c2-shape-1192697916.png?v=1757843761
-  - [8.125"](https://thevinessupply.co/products/skateboard-cafe-gaurab-sketches-skateboard-deck-white-c2-shape?variant=55933021716815)
-    Availability: Available
-    Price: £64.95 GBP
-  - [8.5"](https://thevinessupply.co/products/skateboard-cafe-gaurab-sketches-skateboard-deck-white-c2-shape?variant=55933021749583)
-    Availability: Not Available
-    Price: £64.95 GBP
 - [Helas Horses Cap | Navy](https://thevinessupply.co/products/helas-horses-cap-navy): Buy the Helas Horses Cap in navy blue at The Vines, with Fast, Premium Delivery & Easy Returns.
   Updated: 2025-10-15T14:09:11Z
   Vendor: Helas
@@ -6853,13 +6834,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/spitfire-wheels-wheels-58mm-spitfire-classics-99a-blue-skateboard-wheels-58mm-1209620260.jpg?v=1764625794
   Price: £51.95 GBP
-- [Chocolate Fiendin Jordan Trahan G052 Skateboard Deck | 8.25"](https://thevinessupply.co/products/chocolate-fiendin-jordan-trahan-skateboard-deck-8-25): Buy the Chocolate Fiendin Jordan Trahan G052 Skateboard Deck in 8.25" at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-05T10:37:45Z
-  Vendor: Chocolate
-  Product Type: Decks
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/chocolate-decks-8-25-chocolate-fiendin-jordan-trahan-g052-skateboard-deck-8-25-1209620255.jpg?v=1764625680
-  Price: £69.95 GBP
 - [Chocolate L8RGRL Doberman Carl Aikens G057 Skateboard Deck | 8.5"](https://thevinessupply.co/products/chocolate-l8rgrl-doberman-carl-aikens-g057-skateboard-deck-8-5): Buy the Chocolate L8RGRL Doberman Carl Aikens G057 Skateboard Deck in 8.5" at The Vines, with fast, premium delivery & easy returns within 90 days.
   Updated: 2025-12-05T10:43:09Z
   Vendor: Chocolate
@@ -6873,13 +6847,6 @@
   Product Type: Decks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/chocolate-decks-8-5-chocolate-l8rgrl-doberman-james-capps-g027-skateboard-deck-8-25-1209620248.jpg?v=1764625564
-  Price: £69.95 GBP
-- [Chocolate Worldwide James Capps G033 Skateboard Deck | 8.5"](https://thevinessupply.co/products/chocolate-worldwide-james-capps-g033-skateboard-deck-8-5): Buy the Chocolate Worldwide James Capps G033 Skateboard Deck in 8.5" at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-05T10:38:39Z
-  Vendor: Chocolate
-  Product Type: Decks
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/chocolate-decks-8-5-chocolate-worldwide-james-capps-g033-skateboard-deck-8-5-1209634009.jpg?v=1764640092
   Price: £69.95 GBP
 - [Chocolate Little Wins Stevie Perez G053 Skateboard Deck | 8.5"](https://thevinessupply.co/products/chocolate-little-wins-stevie-perez-g053-skateboard-deck-8-5): Buy the Chocolate Little Wins Stevie Perez G053 Skateboard Deck in 8.5" at The Vines, with fast, premium delivery & easy returns within 90 days.
   Updated: 2025-12-05T10:35:02Z
@@ -6976,7 +6943,7 @@
 ## Collections
 
 - [Skate T-Shirts | Skateboard Tees | The Vines](https://thevinessupply.co/collections/skate-t-shirts): Shop skate T-Shirts at The Vines. Buy mens skate tee's from the best UK and international skate t-shirt brands with fast, premium delivery and easy 90 day returns.
-  Updated: 2025-12-06T12:19:44Z
+  Updated: 2025-12-06T17:05:15Z
   Total Products: 1529
 - [Skateboard Hardware | The Vines](https://thevinessupply.co/collections/skateboard-hardware): Shop our collection of skateboard hardware at The Vines. From shapes to popsicles, soft wheels to hard... we've got what you need to keep rolling. See our collection of skateboard decks, trucks, wheels, nuts & bolts, protective gear, wax and more.
   Updated: 2025-12-06T12:19:44Z
@@ -6997,7 +6964,7 @@
   Updated: 2025-10-11T11:15:50Z
   Total Products: 57
 - [Skate Clothing | Skate Wear | The Vines](https://thevinessupply.co/collections/skate-clothing): Shop Premium Skatewear / Skate Clothing from your favourite skateboard brands at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-06T12:19:44Z
+  Updated: 2025-12-06T17:05:15Z
   Total Products: 2886
 - [Sunglasses | The Vines](https://thevinessupply.co/collections/sunglasses): Shop our collection of sunglasses has a style to suit every taste at The Vines. Complete your look and stay shaded with a frame from the finest skate & street wear sunglasses brand. Shop Vans Sunglasses, Glassy Eyewear and more from the best in skateboarding.
   Updated: 2025-11-09T12:16:47Z
@@ -7171,7 +7138,7 @@
   Updated: 2025-12-06T12:19:44Z
   Total Products: 157
 - [Latest Arrivals | The Vines](https://thevinessupply.co/collections/latest-arrivals): Here's the latest goods to arrive at The Vines skate shop. Straight out the box, fresh stock for the masses from the best international. Shop now...
-  Updated: 2025-12-06T13:39:47Z
+  Updated: 2025-12-06T17:05:15Z
   Total Products: 5719
 - [Palace Skateboards | Skateboard Decks | The Vines](https://thevinessupply.co/collections/palace-skateboards): Shop the latest collections of Palace Skateboards skateboard decks at The Vines, with quick delivery and a range of griptape options.
   Updated: 2025-12-06T12:19:44Z
@@ -7243,7 +7210,7 @@
   Updated: 2025-12-06T12:19:44Z
   Total Products: 365
 - [Vans Skate | Vans Shoes, T-Shirts & Accessories | The Vines](https://thevinessupply.co/collections/vans): Buy Vans Skateboarding clothing, shoes and accessories at The Vines. Shop Vans T-shirts, hoodies, crewnecks, Vans skate shoes and sunglasses.
-  Updated: 2025-12-06T12:19:44Z
+  Updated: 2025-12-06T17:05:15Z
   Total Products: 162
 - [GVNMNT Clothing Co | The Vines](https://thevinessupply.co/collections/gvnmnt-clothing-co): Buy GVNMNT Clothing Co at The Vines. GVNMNT's collections reflect struggles everyday people encounter regardless of their upbringing, surroundings, or circumstances, the company began as a streetwear brand and then entered the skateboarding realm naturally due what the brand stands for... taking outsiders in.
   Updated: 2025-12-03T12:22:05Z
@@ -7435,8 +7402,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-06T13:44:42Z
-  Total Products: 3232
+  Updated: 2025-12-06T17:05:15Z
+  Total Products: 3228
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-06T12:19:43Z
   Total Products: 110
@@ -7522,7 +7489,7 @@
   Updated: 2025-12-06T13:44:42Z
   Total Products: 76
 - [Vans T-Shirts](https://thevinessupply.co/collections/vans-t-shirts): Shop Vans T-Shirts at The Vines. Browse our collection of Mens Vans T Shirts, covering all styles from striped to backprint to longsleeve.
-  Updated: 2025-12-01T12:30:59Z
+  Updated: 2025-12-06T17:05:15Z
   Total Products: 39
 - [Lurpiv Truck Company | Skateboard Trucks UK](https://thevinessupply.co/collections/lurpiv-trucks): Buy Lurpiv Trucks at The Vines. Lurpiv Skateboard Trucks is back! A whole new factory, some tweaks on construction but the same amazing control and feel. All Lurpiv trucks are made with injected aluminium, no gravity pour, which means they last longer and grind faster than other skateboard trucks on the market.
   Updated: 2025-11-26T12:23:56Z
@@ -7540,7 +7507,7 @@
   Updated: 2025-11-28T12:32:47Z
   Total Products: 8
 - [Full Price Items](https://thevinessupply.co/collections/full-price-items)
-  Updated: 2025-12-06T12:19:44Z
+  Updated: 2025-12-06T17:05:15Z
   Total Products: 2894
 - [Toy Machine | Skateboard Decks & Clothing | The Vines](https://thevinessupply.co/collections/toy-machine): Shop Toy Machine Skateboard Decks & Clothing at The Vines. Since being founded by Ed Templeton in 1993, Templeton has been the creative force behind Toy Machine, infusing the brand with his distinctive blend of art and humour.
   Updated: 2025-02-20T13:05:21Z
@@ -7582,7 +7549,7 @@
   Updated: 2025-06-18T22:26:01Z
   Total Products: 1
 - [3 For 2 Tees | Add 3 T-shirts, get the 3rd FREE | Skate T-Shirts](https://thevinessupply.co/collections/3-for-2-t-shirts): Get 3 Skate T-shirts for the price of 2 at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-06T12:19:44Z
+  Updated: 2025-12-06T17:05:15Z
   Total Products: 1529
 - [Magenta](https://thevinessupply.co/collections/magenta)
   Updated: 2025-12-06T12:19:44Z
