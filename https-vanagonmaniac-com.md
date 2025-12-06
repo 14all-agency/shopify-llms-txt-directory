@@ -6,7 +6,7 @@
 - Timezone: Europe/Riga
 - Created At: 2022-09-15T15:01:28Z
 - Contact Email: vanagonmaniac@gmail.com
-- Updated At: 2025-11-28T00:01:55.167Z
+- Updated At: 2025-12-06T00:00:41.167Z
 
 ## Products
 
@@ -1900,12 +1900,12 @@
   - [Black / BLACK](https://vanagonmaniac.com/products/vw-t3-reimo-pop-top-roof-canvas-3-window?variant=50076365422934)
     Availability: Available
     Price: €480.00 EUR
-- [Opel Vivaro Pop Top Roof Tent Replacement Canvas for 2003 Model](https://vanagonmaniac.com/products/opel-vauxhall-vivaro-2003-pop-top-roof-tent-canvas): Upgrade your 2003 Opel Vivaro with our durable pop top roof tent replacement canvas. Enjoy comfort and style for your adventures with the perfect fit for your Opel Vivaro pop top roof tent.
-  Updated: 2025-11-11T07:50:38Z
+- [Pop-Top Roof Replacement Canvas compatible with Opel/Vauxhall Vivaro SCA 180 (2003)](https://vanagonmaniac.com/products/opel-vauxhall-vivaro-2003-pop-top-roof-tent-canvas): Upgrade your 2003 Opel/Vauxhall Vivaro SCA 180 with our durable pop top roof tent replacement canvas. Enjoy comfort and style for your adventures with the perfect fit for your Opel Vivaro pop top roof tent.
+  Updated: 2025-12-03T08:24:41Z
   Vendor: vanagonmaniac
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/coming_soon_19.png?v=1761642739
+  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/opel_vivaro_pop_top_roof_tent.png?v=1764750178
   - [BlanchedAlmond / GRAY](https://vanagonmaniac.com/products/opel-vauxhall-vivaro-2003-pop-top-roof-tent-canvas?variant=50143126880598)
     Availability: Available
     Price: €520.00 EUR
@@ -2033,7 +2033,7 @@
     Availability: Available
     Price: €520.00 EUR
 - [VW T3 Pop-Top Mushroom Canvas - Custom-Fit with Mesh Windows for Sale](https://vanagonmaniac.com/products/vw-t3-vanagon-sca-mushroom-pop-top-roof-canvas): Upgrade your VW T3 Pop-Top Mushroom Canvas  featuring mesh windows. Enjoy durability and style for your adventures. Perfect replacement for your T3!
-  Updated: 2025-11-11T07:52:39Z
+  Updated: 2025-12-05T12:30:00Z
   Vendor: vanagonmaniac
   Product Type: 
   Availability: Available
@@ -2176,7 +2176,7 @@
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/SWD_B0C6MV565M_PT06.jpg?v=1761642739
+  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/SWD_B0C6MV565M_PT06.jpg?v=1764750281
   Price: €25.00 EUR
 - [EuroVan 3-Window Pop-Top Canvas | Vanagon Maniac](https://vanagonmaniac.com/products/vw-t4-caravelle-3-window-pop-top-roof-canvas-1999): Vanagon Maniac offers a brand new replacement for VW T4 Westfalia Weekender 3-Window pop-top rear hinge roof canvas. It contains 3 half-round windows with a mosquito net.
   Updated: 2025-11-10T22:28:10Z
@@ -2633,11 +2633,11 @@
     Availability: Available
     Price: €111.00 EUR
 - [Ford Nugget L2 3-Window Pop-Top Canvas | Vanagon Maniac Replacement Tent](https://vanagonmaniac.com/products/ford-nugget-l2-pop-top-roof-canvas-3-window-replacement-roof-tent): Vanagon Maniac offers a brand-new replacement pop-top roof canvas for the Ford Nugget L2 long wheel base 2024 year model, featuring a 3-window pop-top rear hinge roof canvas.
-  Updated: 2025-11-10T22:28:11Z
+  Updated: 2025-12-05T10:43:45Z
   Vendor: vanagonmaniac
   Product Type: replacement canvas
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/blacksheep1.png?v=1759221996
+  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/Ford_Nugget_Plus_pop_top_roof_tent.png?v=1764931397
   - [BlanchedAlmond / White](https://vanagonmaniac.com/products/ford-nugget-l2-pop-top-roof-canvas-3-window-replacement-roof-tent?variant=51354868842838)
     Availability: Available
     Price: €600.00 EUR
@@ -2765,7 +2765,7 @@
     Availability: Available
     Price: €600.00 EUR
 - [Opel/Vauxhall Pop Top Canvas | Opel Vivaro Tent Replacement | Vanagon Maniac](https://vanagonmaniac.com/products/mercedes-benz-marco-polo-2001-pop-top-roof-canvas): Vanagon Maniac offers a brand-new, original-quality replacement for the Opel/Vauxhall Vivaro Campervan pop-top roof canvas. The canvas is water—and wind-resistant.
-  Updated: 2025-11-10T22:28:11Z
+  Updated: 2025-12-01T22:36:45Z
   Vendor: vanagonmaniac
   Product Type: 
   Availability: Available
@@ -2896,12 +2896,12 @@
   - [Black / BLACK](https://vanagonmaniac.com/products/mercedes-benz-marco-polo-2001-pop-top-roof-canvas?variant=51558474940758)
     Availability: Available
     Price: €500.00 EUR
-- [Insulation Set for VW T3 Cockpit - Side Windows & Windshield](https://vanagonmaniac.com/products/thermal-insulation-set-for-vw-t3-cockpit-side-windows-windshield): Premium 9-layer thermal insulation for VW T3 cockpit, side windows & windshield. Perfect fit, magnetic & suction-cup attachment, storage bag included.
-  Updated: 2025-11-24T09:22:03Z
+- [Insulation Set for VW T3 Cockpit - Side Windows & Windshield (3 panels)](https://vanagonmaniac.com/products/thermal-insulation-set-for-vw-t3-cockpit-side-windows-windshield): Premium 9-layer thermal insulation for VW T3 cockpit, side windows & windshield. Perfect fit, magnetic & suction-cup attachment, storage bag included.
+  Updated: 2025-12-05T12:22:16Z
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/window_insulation_for_vw_t3.png?v=1761505826
+  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/window_insulation_for_vw_t3.png?v=1764937483
   Price: €246.00 EUR
 - [Pop-Top Roof Insulation Compatible with VW T3 Westfalia 1979-1992](https://vanagonmaniac.com/products/pop-top-roof-insulation-for-vw-t3-westfalia): VW T3 Westfalia Pop-Top Roof Thermal Insulation Kit. Upgrade your Volkswagen T3 Westfalia comfort with our premium 9-layer pop-top roof insulation, designed and tested by VanagonManiac for a perfect OEM fit.
   Updated: 2025-11-10T22:28:11Z
@@ -2910,8 +2910,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/pop_top_roof_nsulation_t3_westfalia.png?v=1761653220
   Price: €570.00 EUR
-- [Insulation Set for VW T5 Cockpit - Side Windows & Windshield](https://vanagonmaniac.com/products/thermal-insulation-set-for-vw-t4-cockpit-side-windows-windshield): Premium 9-layer thermal insulation for VW T4 cockpit, side windows & windshield. Perfect fit, magnetic & suction-cup attachment, storage bag included.
-  Updated: 2025-11-10T22:28:12Z
+- [Insulation Set for VW T5 Cockpit - Side Windows & Windshield (3 panels)](https://vanagonmaniac.com/products/thermal-insulation-set-for-vw-t4-cockpit-side-windows-windshield): Premium 9-layer thermal insulation for VW T4 cockpit, side windows & windshield. Perfect fit, magnetic & suction-cup attachment, storage bag included.
+  Updated: 2025-12-05T12:22:30Z
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
@@ -2924,8 +2924,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/t4_california_pop_top_roof_insulation.png?v=1761654086
   Price: €570.00 EUR
-- [Insulation Set for VW T4 Cockpit - Side Windows & Windshield](https://vanagonmaniac.com/products/thermal-insulation-set-for-vw-t4-cockpit-side-windows-windshield-1): Premium 9-layer thermal insulation for VW T4 cockpit, side windows & windshield. Perfect fit, magnetic & suction-cup attachment, storage bag included.
-  Updated: 2025-11-24T13:36:27Z
+- [Insulation Set for VW T4 Cockpit - Side Windows & Windshield (3 panels)](https://vanagonmaniac.com/products/thermal-insulation-set-for-vw-t4-cockpit-side-windows-windshield-1): Premium 9-layer thermal insulation for VW T4 cockpit, side windows & windshield. Perfect fit, magnetic & suction-cup attachment, storage bag included.
+  Updated: 2025-12-05T12:21:46Z
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
@@ -3092,42 +3092,50 @@
   - [Rear access](https://vanagonmaniac.com/products/magnetic-mosquito-net-for-fiat-ducato-sliding-door-trunk-black?variant=51926682992982)
     Availability: Available
     Price: €111.00 EUR
+- [VW T3 Full Interior Thermal Insulation Set (8 panels) | Complete 9-Layer Thermal Blinds Kit by VanagonManiac](https://vanagonmaniac.com/products/vw-t3-full-interior-thermal-insulation-set-8-panels-complete-9-layer-thermal-blinds-kit-by-vanagonmaniac): Upgrade your entire Volkswagen T3 interior comfort with our premium 9-layer full-window thermal insulation kit, designed and test-fitted by VanagonManiac for a perfect OEM fit.
+This complete set includes full coverage for all VW T3 windows - cockpit, sliding door, side windows, rear hatch, and rear quarter windows - providing maximum insulation, privacy, and climate control in every season.
+  Updated: 2025-12-05T12:24:44Z
+  Vendor: Vanagon Maniac
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/coming_soon_35.png?v=1764937483
+  Price: €500.00 EUR
 
 ## Collections
 
 - [Home page](https://vanagonmaniac.com/collections/frontpage)
-  Updated: 2025-11-11T12:36:44Z
+  Updated: 2025-11-28T12:15:53Z
   Total Products: 9
 - [T25/T3](https://vanagonmaniac.com/collections/t25): Volkswagen T25/T3/VANAGON/SCA/REIMO pop-top replacement canvas. Brand new VW Westfalia pop-up camper replacement canvas weather weather-resistant, model fit and in 14 colours.
-  Updated: 2025-11-20T12:11:01Z
-  Total Products: 11
+  Updated: 2025-12-05T12:30:01Z
+  Total Products: 12
 - [T4](https://vanagonmaniac.com/collections/t4): Volkswagen T4 Replacement Pop Top Canvas for short wheel and long wheel base.
-  Updated: 2025-11-22T06:35:41Z
+  Updated: 2025-12-05T12:21:48Z
   Total Products: 12
 - [Accessories](https://vanagonmaniac.com/collections/accessories)
-  Updated: 2025-11-10T22:28:08Z
+  Updated: 2025-11-30T12:12:33Z
   Total Products: 7
 - [Ford nugget](https://vanagonmaniac.com/collections/ford): Ford Transit Nugget Replacement Pop Top Roof Tent Canvas
   Updated: 2025-11-11T12:36:44Z
   Total Products: 5
 - [OPEL](https://vanagonmaniac.com/collections/opel): Premium pop-top replacement canvases for Opel Vauxhall camper vans.Designed for a perfect fit, our canvases are made from durable, weather-resistant materials to keep you protected on every adventure. Whether you're upgrading a worn-out original or customizing your camper, our pop-top tents ensure reliable ventilation, shade, and style for your Opel van.
-  Updated: 2025-11-10T22:28:08Z
+  Updated: 2025-12-01T10:31:00Z
   Total Products: 1
 - [MOSQUITO NETS](https://vanagonmaniac.com/collections/mosquito-nets): VW camper mosquito nets for T3/T25, T4/Eurovan, and T5.No-see-um mesh. Sliding door, rear hatch, and cab options.Closures: zipper or magnetic. Model-specific fit. EU-made.DDP worldwide shipping (duties & taxes prepaid, no hidden fees).
   Updated: 2025-11-22T06:36:39Z
   Total Products: 5
 - [Top sellers](https://vanagonmaniac.com/collections/top-sellers)
-  Updated: 2025-11-10T22:28:08Z
+  Updated: 2025-11-29T12:16:56Z
   Total Products: 4
 - [Mercedes-Benz](https://vanagonmaniac.com/collections/merceds-benz): Upgrade your Mercedes-Benz campervan with our premium replacement pop-top canvas - water and wind resistant,14 vibrant colors available!
-  Updated: 2025-11-10T22:28:08Z
+  Updated: 2025-12-01T10:36:29Z
   Total Products: 1
 - [Insulation](https://vanagonmaniac.com/collections/insulation): Thermal Insulation Kits VW Pop-Top Roof & Windows! Upgrade your camper comfort with premium 9-layer thermal insulation, engineered for Volkswagen campervans and crafted by VanagonManiac. Our insulation kits are made in Latvia, Europe using top-quality materials that guarantee perfect fit, all-season comfort, and modern design.
-  Updated: 2025-11-20T12:11:01Z
-  Total Products: 6
+  Updated: 2025-12-05T12:22:31Z
+  Total Products: 7
 - [AVADA - Best Sellers](https://vanagonmaniac.com/collections/avada-best-sellers)
-  Updated: 2025-11-22T06:36:39Z
-  Total Products: 39
+  Updated: 2025-12-05T12:30:01Z
+  Total Products: 40
 
 ## Blogs
 
