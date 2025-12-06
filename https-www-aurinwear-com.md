@@ -4,7 +4,7 @@
 
 - Contact Email: support@aurinwear.com
 - Address: Dallas, TX, USA
-- Updated At: 2025-12-05T00:00:20.458Z
+- Updated At: 2025-12-06T00:00:19.660Z
 
 ## Products
 
@@ -1046,7 +1046,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-69308ceea1949.png?v=1764789498
     Price: $38.00 USD
 - [Unisex Best Wishes Premium Sweatshirt - Gray](https://www.aurinwear.com/products/unisex-best-wishes-premium-sweatshirt-gray): Bring positivity everywhere you go with our Unisex Best Wishes Premium Sweatshirt - Grey. Featuring a vibrant, hand-drawn “Best Wishes” design in bold purple, yellow, green, and white tones, this sweatshirt radiates uplifting energy and good vibes. Perfect for gifting, celebrating special occasions, or simply adding a cheerful touch to your everyday wardrobe, this cozy fleece pullover blends comfort, style, and heartfelt expression. Whether you're heading out or lounging at home, this sweatshirt keeps you warm while spreading positivity. Features Soft and comfortable premium material Unisex fit suitable for all body types Durable and vibrant print quality Perfect for casual wear, gifting, and seasonal outfits Available in multiple sizes 100% cotton face 65% cotton, 35% polyester Charcoal Heather is 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-04T10:43:54Z
+  Updated: 2025-12-05T00:33:05Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -1076,7 +1076,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-69315bd1b1692.png?v=1764842465
     Price: $38.00 USD
 - [Unisex You’re My Person Sweatshirt - Black](https://www.aurinwear.com/products/unisex-premium-sweatshirt-black): Celebrate love and connection with this "You’re My Person" heart sweatshirt — a soft, premium unisex fleece perfect for couples, anniversaries, or everyday cozy wear. Stylish, meaningful, and ideal as a gift for someone special.
-  Updated: 2025-12-04T20:28:32Z
+  Updated: 2025-12-05T20:44:09Z
   Vendor: Aurin Wear
   Product Type: 
   Availability: Available
@@ -1106,7 +1106,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-6931d08e43d0a.png?v=1764872357
     Price: $38.00 USD
 - [Unisex You’re My Person Sweatshirt -blue](https://www.aurinwear.com/products/unisex-premium-sweatshirt-blue): Celebrate love and connection with this "You’re My Person" heart sweatshirt — a soft, premium unisex fleece perfect for couples, anniversaries, or everyday cozy wear. Stylish, meaningful, and ideal as a gift for someone special.
-  Updated: 2025-12-04T19:09:15Z
+  Updated: 2025-12-05T09:38:32Z
   Vendor: Aurin Wear
   Product Type: 
   Availability: Available
@@ -1136,7 +1136,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-6931d17de9ac3.png?v=1764872586
     Price: $38.00 USD
 - [Unisex You’re My Person Sweatshirt - grey](https://www.aurinwear.com/products/unisex-premium-sweatshirt-grey): Celebrate love and connection with this "You’re My Person" heart sweatshirt — a soft, premium unisex fleece perfect for couples, anniversaries, or everyday cozy wear. Stylish, meaningful, and ideal as a gift for someone special.
-  Updated: 2025-12-04T19:10:20Z
+  Updated: 2025-12-05T21:09:10Z
   Vendor: Aurin Wear
   Product Type: 
   Availability: Available
@@ -1166,7 +1166,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-6931d205f1822.png?v=1764872721
     Price: $38.00 USD
 - [Unisex You’re My Person Sweatshirt - green](https://www.aurinwear.com/products/unisex-premium-sweatshirt-green): Celebrate love and connection with this "You’re My Person" heart sweatshirt — a soft, premium unisex fleece perfect for couples, anniversaries, or everyday cozy wear. Stylish, meaningful, and ideal as a gift for someone special.
-  Updated: 2025-12-04T19:09:51Z
+  Updated: 2025-12-05T22:56:28Z
   Vendor: Aurin Wear
   Product Type: 
   Availability: Available
