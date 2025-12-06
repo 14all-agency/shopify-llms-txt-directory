@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-06T00:00:53.510Z
+- Updated At: 2025-12-06T04:00:36.003Z
 
 ## Products
 
@@ -6958,7 +6958,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/girl-decks-8-375-girl-mouse-mike-carroll-g016-skateboard-deck-8-375-1209685057.jpg?v=1764683273
   Price: £69.95 GBP
 - [Girl Gospel Niels Bennett G027 Skateboard Deck | 8.25"](https://thevinessupply.co/products/girl-gospel-niels-bannett-g027-skateboard-deck-8-25): Buy the Girl Gospel Niels Bannett G027 Skateboard Deck in 8.25" at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-05T10:41:19Z
+  Updated: 2025-12-06T01:56:38Z
   Vendor: Girl
   Product Type: Decks
   Availability: Available
