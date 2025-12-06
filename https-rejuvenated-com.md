@@ -9,56 +9,56 @@
 - Created At: 2025-06-11T12:50:48Z
 - Contact Email: help@rejuvenated.com
 - Address: Rejuvenated Limited, 6 Broadfield Court, Broadfield Way, Sheffield, S8 0XF, United Kingdom
-- Updated At: 2025-12-04T15:07:54.706Z
+- Updated At: 2025-12-06T00:00:40.361Z
 
 Discover Rejuvenated’s best-selling supplements, loved by customers worldwide for their proven results. From award-winning collagen drinks to essential wellness blends, these are the products our community trusts most for glowing skin, energy, and overall vitality.
 
 ## Products
 
 - [Female Hormone Support Supplement](https://rejuvenated.com/products/female-hormone-support-60-capsules): Calm and alleviate symptoms of PMS, perimenopause, menopause and hormonal fluctuations.  Hormone support capsules for harmony and hormonal health.
-  Updated: 2025-12-04T13:40:06Z
+  Updated: 2025-12-05T13:34:05Z
   Vendor: Rejuvenated
   Product Type: Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/Female-Hormone-Support-Pouch-Front-View.webp?v=1756400813
   Price: £24.95 GBP
 - [Collagen Shots: Marine Collagen 10,000mg from £1.30 per Day](https://rejuvenated.com/products/collagen-shots): Award-winning marine collagen powder with vitamins for optimal results. Over 20 million sold worldwide, from just £1.30 per day.
-  Updated: 2025-12-04T12:15:41Z
+  Updated: 2025-12-05T20:08:57Z
   Vendor: Rejuvenated
   Product Type: Collagen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/Collagen-Shots-Pouch-Front-View_e909f3f1-7fe5-4b33-97da-8bf22e925155.webp?v=1756402358
   Price: £49.00 GBP
 - [Collagen Shots Sachets - perfect for travel](https://rejuvenated.com/products/collagen-shots-24-sachets): Individual sachets of award winning, skin firming Collagen Shots. Perfect for travelling. 100% natural. No animal testing. Clinically proven results.
-  Updated: 2025-12-04T11:15:41Z
+  Updated: 2025-12-05T14:17:30Z
   Vendor: Rejuvenated
   Product Type: Collagen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/Collagen-Shots-Box-Front-View_48628d6d-5dc4-4765-a2b5-75ed2e9a8265.webp?v=1756406755
   Price: £49.00 GBP
 - [NAD+ Supplement | Regenerate NAD+ Capsules](https://rejuvenated.com/products/regenerate-nad-30-capsules): Youth boosting formula combines powerful ingredients to boost cellular energy including NMN, Vitamin B2 and zinc. Vegan and gluten free. Order online.
-  Updated: 2025-12-04T12:16:06Z
+  Updated: 2025-12-05T14:17:50Z
   Vendor: Rejuvenated
   Product Type: Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/Regenerate-Pouch-Front-View.webp?v=1756400766
   Price: £48.50 GBP
 - [Re-set | Boost metabolism and increase energy](https://rejuvenated.com/products/re-set): The perfect formula to support a healthy metabolism, stabilise blood sugar levels, improve cellular energy and keep cravings at bay.
-  Updated: 2025-12-04T14:15:55Z
+  Updated: 2025-12-05T15:17:46Z
   Vendor: Rejuvenated
   Product Type: Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/Re-Set-Pouch-Front-View.webp?v=1756400630
   Price: £24.95 GBP
 - [H3O Night Repair | Hydrates and calms](https://rejuvenated.com/products/h3o-night-repair-30-capsules): Hydrate and repair your skin overnight with vitamins and antioxidants to hydrate and repair. With added minerals to promote peaceful sleep and recovery.
-  Updated: 2025-12-04T14:15:46Z
+  Updated: 2025-12-05T22:17:26Z
   Vendor: Rejuvenated
   Product Type: Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/H3O-Night-Repair-Pouch-Front-View.webp?v=1756400157
   Price: £30.00 GBP
 - [Immune Complex | Immune system and gut health support](https://rejuvenated.com/products/immune-complex-30-capsules): Immune support supplement containing a blend of pre and probiotics that also support healthy digestion, brain and heart health.
-  Updated: 2025-12-04T12:15:51Z
+  Updated: 2025-12-05T06:17:32Z
   Vendor: Rejuvenated
   Product Type: Supplement
   Availability: Available
@@ -72,14 +72,14 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
   Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/Radiant-skin-collection-grey-background.webp?v=1756406138
   Price: £95.50 GBP
 - [Metal Scoop for measuring Collagen Shots](https://rejuvenated.com/products/metal-scoop): This metal scoop is the perfect size for measuring out your daily Collagen Shots. Get the perfect dose every time.
-  Updated: 2025-12-04T11:32:13Z
+  Updated: 2025-12-05T20:08:57Z
   Vendor: Rejuvenated
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/Collagen-Stainless-Scoop.webp?v=1756404509
   Price: £3.25 GBP
 - [Protein Smoothie | Vegan protein powder](https://rejuvenated.com/products/protein-smoothie): Vegan protein smoothie made with pea protein. Available in delicious chocolate, banana or strawberry flavours. With healthy fibre and inulin.
-  Updated: 2025-12-02T13:16:00Z
+  Updated: 2025-12-05T13:41:06Z
   Vendor: Rejuvenated
   Product Type: Protein Smoothie
   Availability: Available
@@ -97,35 +97,35 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/Strawberry-Protein-Smoothie-Pouch-Front-View.webp?v=1756406430
     Price: £21.50 GBP
 - [Probiotioc Collagen Shots - Limited Edition](https://rejuvenated.com/products/probiotic-collagen-shots): A Limited Edition version of our best selling Collagen Shots with the addition of a probiotic strain of lactobacillus, for the ultimate skin and gut boost.
-  Updated: 2025-12-01T21:15:16Z
+  Updated: 2025-12-05T05:14:06Z
   Vendor: Rejuvenated
   Product Type: Collagen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/Collagen-Shots-Pro-Pouch-Front-View.webp?v=1759935058
   Price: £52.50 GBP
 - [H3O Hydration | Cellular hydration from within](https://rejuvenated.com/products/h3o-hydration): Revitalise your skin and body with hypotonic ionic electrolytes to promote focus and energy and trans-resveratrol and inulin to support a healthy microbiome.
-  Updated: 2025-12-04T14:18:06Z
+  Updated: 2025-12-05T14:17:37Z
   Vendor: Rejuvenated
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/H3O-Hydration-Pouch-Front-View.webp?v=1756400906
   Price: £27.50 GBP
 - [H3O Hydration Sachets - Travel Size](https://rejuvenated.com/products/h3o-hydration-sachets): Travel size sachets of our best selling H3O Hydration. Revitalise your skin and body, promote focus and energy and support a healthy microbiome.
-  Updated: 2025-12-04T11:15:51Z
+  Updated: 2025-12-05T14:17:37Z
   Vendor: Rejuvenated
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/H3O-Hydration-Box-Front-View.webp?v=1756402840
   Price: £27.50 GBP
 - [Collagen Shots Sachets 14 Day Supply](https://rejuvenated.com/products/collagen-shots-sachets): Two week supply of our award winning Collagen Shots sachets. 10,000 mg of hydrolysed marine collagen, antioxidants, vitamins and hyaluronic acid.
-  Updated: 2025-12-01T21:14:50Z
+  Updated: 2025-12-05T11:57:05Z
   Vendor: Rejuvenated
   Product Type: Collagen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/Collagen-shots-14-servings-grey-background.webp?v=1756407322
   Price: £32.50 GBP
 - [Collagen Shots Taster Pack](https://rejuvenated.com/products/collagen-shots-sachets-taster-pack): Convenient taster pack of our best selling Collagen Shots. Packed with hydrolysed marine collagen, hyaluronic acid, and skin-loving nutrients.
-  Updated: 2025-12-01T21:14:42Z
+  Updated: 2025-12-05T11:57:06Z
   Vendor: rejuvenated-collagen
   Product Type: 
   Availability: Available
@@ -139,7 +139,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
   Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/Rejuvenated-Shaker.webp?v=1756404474
   Price: £7.50 GBP
 - [Rejuvenated Tin](https://rejuvenated.com/products/rejuvenated-tin): Our 20-year anniversary tin has been created to look beautiful and also give you a refillable option. It’s the perfect way to store your Rejuvenated products.
-  Updated: 2025-12-04T11:36:25Z
+  Updated: 2025-12-05T17:44:10Z
   Vendor: Tinplate
   Product Type: Accessory
   Availability: Available
@@ -153,21 +153,21 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
   Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/Youth-Plan-Book.webp?v=1756404577
   Price: £9.95 GBP
 - [Skin Perfecting Complex | Vegan Collagen Supplement](https://rejuvenated.com/products/skin-perfecting-complex): Vegan collagen capsule containing our plant based collagen booster formulated with plant amino acids combined in the same ratio as conventional collagen.
-  Updated: 2025-12-04T12:16:07Z
+  Updated: 2025-12-05T06:17:42Z
   Vendor: Rejuvenated
   Product Type: Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/Skin-Perfecting-Complex-Pouch-Front-View_601866ed-83d1-4140-ba64-77c9e30b2cfd.webp?v=1756400568
   Price: £24.95 GBP
 - [Cellular Calm Complex Supplement](https://rejuvenated.com/products/cellular-calm-complex): Contains a unique blend of nootropics, adaptogens and vitamins to alleviate symptoms of physical and emotional stress and reverse biological ageing.
-  Updated: 2025-12-04T12:15:41Z
+  Updated: 2025-12-05T20:17:20Z
   Vendor: Rejuvenated
   Product Type: Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/2057/9165/files/Cellular-Calm-Complex-Pouch-Front-View_56e699cf-ee7e-4822-a337-90d5eb24554a.webp?v=1756401679
   Price: £24.95 GBP
-- [Bundle Builder](https://rejuvenated.com/products/bundle-builder)
-  Updated: 2025-12-01T21:36:47Z
+- [Bundle Builder](https://rejuvenated.com/products/bundle-builder): Build your own personalised bundle of Rejuvenated collagen and beauty supplements and find out how much you can save.
+  Updated: 2025-12-05T09:44:37Z
   Vendor: Rejuvenated Ltd
   Product Type: 
   Availability: Available
@@ -179,70 +179,70 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
   Updated: 2025-10-02T13:10:20Z
   Total Products: 0
 - [Health and beauty supplements](https://rejuvenated.com/collections/supplements): Browse our award winning collection of health and beauty supplements. Our high potency supplements are scientifically formulated for the best results.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 6
 - [Collections & Accessories](https://rejuvenated.com/collections/collections-accessories): Rejuvenated has created the perfect combinations to support beauty and health from within. Scientifically formulated, with 90 awards and counting, we know what works. So below, you will find our top blends... Read more
   Updated: 2025-10-22T09:53:07Z
   Total Products: 0
 - [Best Sellers | Beauty and Health Supplements](https://rejuvenated.com/collections/best-sellers): From award-winning collagen drinks to essential wellness blends, these are the products our community trust for glowing skin, energy and overall vitality.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 6
 - [Hydration Supplements](https://rejuvenated.com/collections/hydration): Stay refreshed and revitalised with our hydration-boosting supplements. Infused with electrolytes, minerals, and skin-loving ingredients.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 3
 - [Skincare Supplements](https://rejuvenated.com/collections/skincare): Support your beauty routine from the inside out with science-led nutrition designed to promote radiance, elasticity, and youthful skin.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 8
 - [Energy Supplements](https://rejuvenated.com/collections/energy): Boost your daily vitality with energy supplements to fight fatigue and restore balance. Packed with essential vitamins, minerals, and adaptogens.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 5
 - [Immunity Supplements](https://rejuvenated.com/collections/immunity): Strengthen your natural defences with immunity-boosting supplements rich in antioxidants, vitamins and minerals. Protect against everyday stressors.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 6
 - [Protein Supplements | Vegan Protein](https://rejuvenated.com/collections/protein): Fuel your body with high-quality, plant-based protein designed to support muscle recovery, energy and overall wellness. Smooth, satisfying and easy to digest.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 5
 - [Vegan Supplements | Collagen, Protein, Skin & Hair](https://rejuvenated.com/collections/vegan): Explore our vegan supplements crafted with plant-based ingredients to support beauty, energy and wellbeing to deliver powerful, science-backed results.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 10
 - [Travel Size Supplements](https://rejuvenated.com/collections/travel): Stay healthy and energised on the go with our travel-friendly supplements. These compact essentials are perfect for maintaining balance wherever life takes you.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 4
 - [Anti Aging Supplements](https://rejuvenated.com/collections/anti-aging): Help combat the visible signs of aging from within with collagen peptides, antioxidants and essential nutrients to support youthful skin and vitality.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 9
 - [Hair, Skin and Nails Supplements](https://rejuvenated.com/collections/hair-skin-and-nails): Nourish beauty from the inside with supplements formulated to strengthen hair, support glowing skin, and promote healthy nails.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 9
 - [Menopause Supplements](https://rejuvenated.com/collections/menopause-relief): Natural supplements formulated to ease symptoms such as hot flushes, fatigue and hormonal imbalance to help restore balance, comfort and overall wellbeing.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 7
 - [Longevity Supplements](https://rejuvenated.com/collections/longevity): Support healthy aging and long-term vitality with our longevity supplements. Rich in antioxidants, collagen, and nutrients to promote cellular health.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 9
 - [Sleep Supplements](https://rejuvenated.com/collections/sleep-support): Promote deep, restful sleep with supplements infused with calming botanicals and nutrients to support relaxation, balance and overall nighttime wellbeing.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 6
 - [Joint Supplements](https://rejuvenated.com/collections/joint-health): With anti-inflammatory ingredients and collagen peptides, our joint health supplements help ease stiffness and maintain strength as you stay active.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 6
 - [Brain Health Supplements](https://rejuvenated.com/collections/brain-health): Sharpen focus and support mental clarity with brain supplements designed to fuel cognitive performance. Packed with omega-rich and antioxidant ingredients.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 4
 - [Gut Health Supplements](https://rejuvenated.com/collections/gut-health): Restore balance from within with supplements rich in probiotics, fibre and digestive support nutrients to promote better digestion and overall wellbeing.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 6
 - [Hormone Balance Supplements](https://rejuvenated.com/collections/hormone-balance): Support hormonal harmony naturally with supplements to ease fluctuations. These blends can help manage mood, energy and overall vitality.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 5
 - [Weight Management Supplements](https://rejuvenated.com/collections/weight-management): Support healthy weight management through metabolism support with protein, fibre and targeted blends to keep you feeling energised and satisfied.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 3
 - [Supplement Bundles](https://rejuvenated.com/collections/bundles): Whether for beauty, energy or total body support, these money saving supplement sets combine our best-loved products for maximum results.
   Updated: 2025-12-01T21:04:49Z
   Total Products: 2
 - [Tasting Packs](https://rejuvenated.com/collections/tasting-packs): Try before you commit with our convenient tasting packs. These mini sachets let you enjoy the same award-winning nutrition in sample-friendly sizes.
-  Updated: 2025-10-16T11:09:14Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 2
 - [Accessories and Bottles](https://rejuvenated.com/collections/accessories): From shaker bottles to travel essentials, these tools make it easy to enjoy your Rejuvenated supplements anytime, anywhere.
   Updated: 2025-12-04T12:33:41Z
@@ -251,25 +251,25 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
   Updated: 2025-12-01T21:04:49Z
   Total Products: 2
 - [TaxExUK](https://rejuvenated.com/collections/taxexuk)
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 6
 - [Beauty and Wellness Supplements](https://rejuvenated.com/collections/all): Award-winning supplements and wellness essentials designed to nourish your body from within and support radiant skin, energy, and overall wellbeing.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 15
 - [Marine Collagen Supplements](https://rejuvenated.com/collections/collagen): The original Collagen Shots made with 10,000mg hydrolysed marine collagen, hyaluronic acid, antioxidants and vitamins. Highly effective and tastes great.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 5
 - [Award-Winners](https://rejuvenated.com/collections/award-winners): Discover our most loved and celebrated formulas, the award-winning supplements recognised by beauty experts and customers worldwide. From glowing skin to renewed energy and hydration, these products deliver proven results and embody the very best of Rejuvenated science and innovation.
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 15
 - [Curated Bundles](https://rejuvenated.com/collections/curated-bundles)
   Updated: 2025-12-01T20:05:51Z
   Total Products: 2
 - [All Products & Bundles](https://rejuvenated.com/collections/all-products-bundles)
-  Updated: 2025-12-04T12:33:41Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 21
 - [Christmas Sale](https://rejuvenated.com/collections/christmas-sale): We’re celebrating the season of giving with our Christmas Sale; enjoy special savings on your Rejuvenated favourites and share the gift of wellness.
-  Updated: 2025-12-01T21:04:49Z
+  Updated: 2025-12-05T12:30:16Z
   Total Products: 3
 
 ## Blogs
@@ -408,8 +408,8 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Updated: 2025-12-04T10:33:19Z
     Author: kathryn@rejuvenated.com User
     Tags: Beauty, Science
-  - [What is gynostemma pentaphyllum and how can this ancient herb help?](https://rejuvenated.com/blogs/journal/gynostemma-pentaphyllum)
-    Updated: 2025-11-17T13:12:57Z
+  - [What is gynostemma pentaphyllum and its benefits?](https://rejuvenated.com/blogs/journal/gynostemma-pentaphyllum): What is gynostemma pentaphyllum and its benefits?
+    Updated: 2025-12-05T09:41:59Z
     Author: kathryn@rejuvenated.com User
     Tags: Ingredients
   - [Elderberry benefits and how to use it](https://rejuvenated.com/blogs/journal/elderberry-benefits)
@@ -494,7 +494,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Updated: 2025-11-17T12:39:41Z
     Author: kathryn@rejuvenated.com User
   - [Boost your skin’s natural moisture factor](https://rejuvenated.com/blogs/journal/boost-natural-moisture-factor)
-    Updated: 2025-12-04T15:07:50Z
+    Updated: 2025-12-05T09:27:57Z
     Author: kathryn@rejuvenated.com User
     Tags: Beauty
   - [Pink superfoods to boost your mood and health](https://rejuvenated.com/blogs/journal/pink-superfoods)
@@ -502,7 +502,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: kathryn@rejuvenated.com User
     Tags: Mood, Wellness
   - [How does the circadian rhythm work?](https://rejuvenated.com/blogs/journal/how-circadian-rhythm-works)
-    Updated: 2025-12-04T14:40:10Z
+    Updated: 2025-12-05T09:33:31Z
     Author: kathryn@rejuvenated.com User
     Tags: Longevity, Science, Wellness
   - [The best foods to help you sleep better](https://rejuvenated.com/blogs/journal/foods-to-help-sleep)
@@ -514,7 +514,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: kathryn@rejuvenated.com User
     Tags: Wellness
   - [How to get the most antioxidant benefits for glowing skin](https://rejuvenated.com/blogs/journal/antioxidants-for-skin)
-    Updated: 2025-12-04T14:20:37Z
+    Updated: 2025-12-04T15:28:50Z
     Author: kathryn@rejuvenated.com User
     Tags: Beauty, Wellness
   - [Cellular hydration top tips for true hydration](https://rejuvenated.com/blogs/journal/cellular-hydration-tips): Cellular hydration top tips for true hydration
@@ -594,8 +594,8 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Updated: 2025-11-13T11:53:38Z
     Author: kathryn@rejuvenated.com User
     Tags: Beauty
-  - [Does collagen help rosacea? Skin care tips for rosacea sufferers](https://rejuvenated.com/blogs/journal/does-collagen-help-rosacea): Does collagen help rosacea? Skin care tips for rosacea sufferers
-    Updated: 2025-11-17T12:11:04Z
+  - [Does collagen help rosacea? Skin care tips for sufferers](https://rejuvenated.com/blogs/journal/does-collagen-help-rosacea): Does collagen help rosacea? Skin care tips for sufferers
+    Updated: 2025-12-05T09:41:07Z
     Author: kathryn@rejuvenated.com User
   - [Electrolytes benefits for skin](https://rejuvenated.com/blogs/journal/electrolytes-benefits-for-skin)
     Updated: 2025-11-13T11:53:04Z
@@ -724,7 +724,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: kathryn@rejuvenated.com User
     Tags: Wellness
   - [Protect your skin with SPF foods](https://rejuvenated.com/blogs/journal/spf-foods-protect-skin): Protect your skin with SPF foods
-    Updated: 2025-11-13T11:34:21Z
+    Updated: 2025-12-05T09:27:10Z
     Author: kathryn@rejuvenated.com User
     Tags: Beauty, Wellness
   - [How to calm summer skin irritation](https://rejuvenated.com/blogs/journal/how-to-calm-summer-skin-irritation): How to calm summer skin irritation
@@ -736,7 +736,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: kathryn@rejuvenated.com User
     Tags: Beauty, Wellness
   - [What is cellular beauty and how do you get it?](https://rejuvenated.com/blogs/journal/what-is-cellular-beauty)
-    Updated: 2025-12-04T14:54:08Z
+    Updated: 2025-12-05T09:29:38Z
     Author: kathryn@rejuvenated.com User
     Tags: Beauty, Longevity, Wellness
   - [Does collagen help you sleep?](https://rejuvenated.com/blogs/journal/does-collagen-help-you-sleep): Does collagen help you sleep?
@@ -760,7 +760,7 @@ Discover Rejuvenated’s best-selling supplements, loved by customers worldwide 
     Author: kathryn@rejuvenated.com User
     Tags: Mood, Wellness
   - [Marine vs bovine collagen - what's the difference?](https://rejuvenated.com/blogs/journal/marine-vs-bovine-collagen): Marine vs bovine collagen - what's the difference?
-    Updated: 2025-12-04T14:45:11Z
+    Updated: 2025-12-05T09:31:12Z
     Author: kathryn@rejuvenated.com User
   - [Tap into your ultradian rhythms to boost energy and willpower](https://rejuvenated.com/blogs/journal/ultradian-rhythms): Tap into your ultradian rhythms to boost energy and willpower
     Updated: 2025-11-12T18:16:12Z
