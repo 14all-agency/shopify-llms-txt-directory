@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2024-11-01T17:53:57Z
 - Contact Email: sglobalresorts@gmail.com
-- Updated At: 2025-12-04T00:00:40.589Z
+- Updated At: 2025-12-06T00:00:39.661Z
 
 ## Products
 
@@ -57,7 +57,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/7746328291622012982_2048.jpg?v=1754880292
     Price: $20.83 USD
 - [Vivid Tropical Rainforest Suitcase Cover for Vibrant Travel](https://oceanfrontproducts.com/products/suitcase-cover-tropical-rainforest-vivid-flowers): Enhance your travel experience with our Suitcase Cover Tropical Rainforest Vivid Flowers! Stand out with vibrant colors on your journey. Perfect for tropical
-  Updated: 2025-11-09T01:25:13Z
+  Updated: 2025-12-05T10:47:39Z
   Vendor: Oceanfront Products
   Product Type: Bags
   Availability: Available
@@ -4899,108 +4899,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/8B766749C811259E513BDD6720221254.jpg?v=1754882722
     Price: $14.28 USD
-- [Trump 2024 Tee for Patriotic Fashion Enthusiasts](https://oceanfrontproducts.com/products/trump-2024-tee): This MAGA 2024 themed Tee exudes a patriotic and political vibe, perfect for those interested in current events and elections. It can be worn casually or during political rallies and events.
-  Updated: 2025-11-09T01:25:29Z
-  Vendor: Printify
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12966828936667863654_2048.jpg?v=1736699155
-  - [Red / S](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903307735288)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/3256155023551379774_2048.jpg?v=1736699157
-    Price: $23.53 USD
-  - [Royal / S](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903307768056)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/15976986851915845635_2048.jpg?v=1736699156
-    Price: $23.53 USD
-  - [White / S](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903307800824)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12966828936667863654_2048.jpg?v=1736699155
-    Price: $23.53 USD
-  - [Red / M](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903307833592)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/3256155023551379774_2048.jpg?v=1736699157
-    Price: $23.53 USD
-  - [Royal / M](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903307866360)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/15976986851915845635_2048.jpg?v=1736699156
-    Price: $23.53 USD
-  - [White / M](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903307899128)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12966828936667863654_2048.jpg?v=1736699155
-    Price: $23.53 USD
-  - [Red / L](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903307931896)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/3256155023551379774_2048.jpg?v=1736699157
-    Price: $23.53 USD
-  - [Royal / L](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903307964664)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/15976986851915845635_2048.jpg?v=1736699156
-    Price: $23.53 USD
-  - [White / L](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903307997432)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12966828936667863654_2048.jpg?v=1736699155
-    Price: $23.53 USD
-  - [Red / XL](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903308030200)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/3256155023551379774_2048.jpg?v=1736699157
-    Price: $23.53 USD
-  - [Royal / XL](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903308062968)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/15976986851915845635_2048.jpg?v=1736699156
-    Price: $23.53 USD
-  - [White / XL](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903308095736)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12966828936667863654_2048.jpg?v=1736699155
-    Price: $23.53 USD
-  - [Red / 2XL](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903308128504)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/3256155023551379774_2048.jpg?v=1736699157
-    Price: $28.23 USD
-  - [Royal / 2XL](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903308161272)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/15976986851915845635_2048.jpg?v=1736699156
-    Price: $28.23 USD
-  - [White / 2XL](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903308194040)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12966828936667863654_2048.jpg?v=1736699155
-    Price: $28.23 USD
-  - [Red / 3XL](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903308226808)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/3256155023551379774_2048.jpg?v=1736699157
-    Price: $31.13 USD
-  - [Royal / 3XL](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903308259576)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/15976986851915845635_2048.jpg?v=1736699156
-    Price: $31.13 USD
-  - [White / 3XL](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903308292344)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12966828936667863654_2048.jpg?v=1736699155
-    Price: $31.13 USD
-  - [Red / 4XL](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903308325112)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/3256155023551379774_2048.jpg?v=1736699157
-    Price: $32.80 USD
-  - [Royal / 4XL](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903308357880)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/15976986851915845635_2048.jpg?v=1736699156
-    Price: $32.80 USD
-  - [White / 4XL](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903308390648)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12966828936667863654_2048.jpg?v=1736699155
-    Price: $32.80 USD
-  - [Red / 5XL](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903308423416)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/3256155023551379774_2048.jpg?v=1736699157
-    Price: $32.80 USD
-  - [Royal / 5XL](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903308456184)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/15976986851915845635_2048.jpg?v=1736699156
-    Price: $32.80 USD
-  - [White / 5XL](https://oceanfrontproducts.com/products/trump-2024-tee?variant=45903308488952)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12966828936667863654_2048.jpg?v=1736699155
-    Price: $32.80 USD
 - [Political Graphic Tee Trump 2024 Unisex T-shirt](https://oceanfrontproducts.com/products/political-graphic-tee-trump-usa-president-2024-unisex-t-shirt): Show your support for Trump as the 45th and 47th president with this unisex garment-dyed T-shirt. Perfect for political enthusiasts and supporters looking ahead to the 2024 election.
   Updated: 2025-11-09T01:25:29Z
   Vendor: Oceanfront Products
@@ -5237,7 +5135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/848500981280.jpg?v=1754882786
     Price: $22.92 USD
 - [Ps5 Wireless Gamepad Dual Charger for Electronics](https://oceanfrontproducts.com/products/ps5-gamepad-dual-charger-ps5-wireless-gamepad-charger): Color Box Applicable Ps5 Handle Scope Of Handle Charger Video Game Entry Level, Fever Level, Elite Level, Hardcore Level Abs Print Yes Processing No Times Ne.
-  Updated: 2025-11-09T01:25:30Z
+  Updated: 2025-12-05T01:56:30Z
   Vendor: Oceanfront Products
   Product Type: 
   Availability: Available
@@ -6252,7 +6150,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/d4762ad9-611d-4724-ba6c-f91e8928b88f.jpg?v=1736699598
     Price: $52.99 USD
 - [Warm Long Sleeve Plush Winter Coat in Solid Colors](https://oceanfrontproducts.com/products/winter-coat-zipper-closure-solid-color-long-sleeves-drawstring-with-hat-keep-warm-casual-thicken-plush-sweater-coat-for-daily): Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice.
-  Updated: 2025-11-09T01:25:36Z
+  Updated: 2025-12-05T09:47:57Z
   Vendor: Oceanfront Products
   Product Type: 
   Availability: Available
@@ -6658,7 +6556,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/e58-folding-aerial-drone-controller-carrying-case-oceanfront-products-570.webp?v=1754882967
     Price: $128.99 USD
 - [Travel Neck Pillow with Memory Foam for Comfort](https://oceanfrontproducts.com/products/travel-neck-pillow-non-deformed-airplane-pillow-travel-neck-cushion-durable-u-shaped-travel-memory-cotton-nap-neck-pillow): Say Goodbye to Uncomfortable Journeys Whether you're heading off on a long-haul flight or just commuting to work, our TRVL + Pillow has got you covered!
-  Updated: 2025-11-09T21:50:11Z
+  Updated: 2025-12-05T21:48:12Z
   Vendor: Oceanfront Products
   Product Type: 
   Availability: Available
@@ -13818,7 +13716,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/470fb79b-3a21-448f-9edf-fe62f36df277.jpg?v=1761015857
     Price: $24.99 USD
 - [Oceanfront™ CloudStep Insoles – Shock Absorbing Comfort for Travel & Training](https://oceanfrontproducts.com/products/insole-sports-shock-absorption-arch-support-high-elastic-running-military-training): Experience unparalleled comfort with Oceanfront CloudStep Insoles, where every step feels like walking on clouds. Designed with innovative 4D honeycomb cushioning, these insoles provide exceptional shock absorption and posture support, making them perfect for travelers and athletes alike. Indulge in the following features: - Shock-absorbing 4D air pockets that cradle your feet - Breathable, anti-sweat mesh for all-day freshness - Arch support designed for prolonged standing and movement - Convenient trim-to-fit sizing for a personalized fit Elevate your daily routines and adventures with Oceanfront CloudStep Insoles. Your feet deserve the luxury of comfort they provide, whether you're jet-setting across the globe or training for your next big challenge. Transform your walking experience today.
-  Updated: 2025-11-09T01:25:53Z
+  Updated: 2025-12-05T05:16:52Z
   Vendor: Oceanfront Products
   Product Type: Shoes
   Availability: Available
@@ -16873,11 +16771,11 @@
   Updated: 2025-11-12T23:34:45Z
   Total Products: 30
 - [Best Sellers Flame Humidifiers and Neck Pillows](https://oceanfrontproducts.com/collections/shop-best-sellers-including-flame-humidifier-and-neck-pillow): Oceanfront Products offers Best Sellers, including stylish accessories and unique gifts like flame humidifiers, perfect for busy moms and cherished memories.
-  Updated: 2025-12-02T00:54:39Z
-  Total Products: 300
+  Updated: 2025-12-05T12:20:53Z
+  Total Products: 299
 - [Oceanfront Apparel Collection Unisex T Shirts and Graphic Tees](https://oceanfrontproducts.com/collections/oceanfront-apparel-collection-featuring-unisex-t-shirts-and-graphic): Explore Oceanfront Products' Apparel Collection featuring stylish boss babe graphic tees, unisex t-shirts, and empowering designs perfect for confident individuals.
-  Updated: 2025-12-02T00:42:28Z
-  Total Products: 55
+  Updated: 2025-12-04T17:10:27Z
+  Total Products: 54
 - [Oceanfront Pajamas and T-Shirts Collection](https://oceanfrontproducts.com/collections/oceanfront-pajamas-and-t-shirts-collection): Oceanfront Products offers a cozy selection of pajamas and t-shirts in the Oceanfront Pajamas and T-Shirts Collection, perfect for relaxation by the shore.
   Updated: 2025-11-13T13:39:16Z
   Total Products: 50
@@ -16997,6 +16895,10 @@
     Updated: 2025-12-01T10:10:17Z
     Author: Oceanfront Products
     Tags: apparel, beach travel essentials, candle, coastal decor, effortless serenity, ocean, ocean-inspired lifestyle, sweatshirts, travel essentials, travel planner, travel vibes, tshirts
+  - [Embark on Luxurious Journeys with the Artistic Rome Spiral Notebook: Your New Essential in Mastering Effortless Coastal Style](https://oceanfrontproducts.com/blogs/journal/embark-on-luxurious-journeys-with-the-artistic-rome-spiral-notebook-your-new-essential-in-mastering-effortless-coastal-style): Embark on Luxurious Journeys with the Artistic Rome Spiral Notebook: Your New Essential in Mastering Effortless Coastal Style
+    Updated: 2025-12-05T10:02:17Z
+    Author: Oceanfront Products
+    Tags: apparel, artistic travel, coastal fashion, effortless living, journey essentials, luxury, notebook, rome spiral notebook, style, sweatshirts, travel essentials, travel planner, tshirts
 
 ## Store Pages
 
