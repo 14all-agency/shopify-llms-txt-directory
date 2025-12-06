@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-03-05T09:19:25Z
 - Contact Email: hello@andcici.com
-- Updated At: 2025-12-03T00:00:52.659Z
+- Updated At: 2025-12-06T00:00:23.597Z
 
 ## Products
 
@@ -1184,7 +1184,7 @@
 ## Collections
 
 - [Home page](https://andcici.com/collections/frontpage)
-  Updated: 2025-11-29T12:26:44Z
+  Updated: 2025-12-04T12:21:26Z
   Total Products: 13
 - [Alphonse Mucha](https://andcici.com/collections/alphonse-mucha): Alfons Maria Mucha known internationally as Alphonse Mucha, was a Czech painter, illustrator, and graphic artist, living in Paris during the Art Nouveau period, best known for his distinctly stylized and decorative theatrical posters, particularly those of Sarah Bernhardt. He produced illustrations, advertisements, decorative panels, as well as designs, which became among the best-known images of the period.
   Updated: 2025-11-14T12:20:06Z
@@ -1196,10 +1196,10 @@
   Updated: 2025-11-29T12:26:44Z
   Total Products: 62
 - [Art Revolution Collection](https://andcici.com/collections/art-revolution-collection): We would like to pay homage to the artists who revolutionised the art scene in today’s world and hope to bring awareness to our customers on the contributions these profound artists made.
-  Updated: 2025-12-01T12:26:36Z
+  Updated: 2025-12-04T12:21:26Z
   Total Products: 77
 - [Floral Collection](https://andcici.com/collections/floral-collection): Discover the beauty of nature with Andcici's Floral Tote Bag Collection, where art and elegance blossom together. Each bag in this collection features exquisite floral designs inspired by famous artworks, bringing the timeless charm of classic paintings into your daily life. Crafted with care and printed on high-quality materials, these totes are perfect for art lovers and nature enthusiasts alike. Carry a piece of art with you and let the vibrant, detailed floral patterns brighten your day.
-  Updated: 2025-11-23T12:17:12Z
+  Updated: 2025-12-04T12:21:26Z
   Total Products: 15
 - [Claude Monet](https://andcici.com/collections/claude-monet): Oscar-Claude Monet was a French painter and founder of impressionist painting who is seen as a key precursor to modernism , especially in his attempts to paint nature as he perceived it. During his long career, he was the most consistent and prolific practitioner of impressionism's philosophy of expressing one's perceptions before nature. The term "Impressionism" is derived from the title of his painting Impression, Soleil levant, exhibited in 1874. Monet’s paintings are known for their focus on light and colour.
   Updated: 2025-12-01T12:26:36Z
@@ -1211,19 +1211,19 @@
   Updated: 2025-11-28T12:27:24Z
   Total Products: 6
 - [Van Gogh](https://andcici.com/collections/van-gogh): Vincent Willem Van Gogh (30 March 1853 - 29 July 1890) was a Dutch Post-impressionist painter born in North Brabant, Netherlands. He was an influential Post-Impressionist painter who is still widely regarded as one of the most important figures in the history of art. After his passing, he became one of the most famous & influential figures in Western Art History. In a decade, he created about 2,100 artworks, including Starry Night, The Potato Eaters and Sunflowers
-  Updated: 2025-11-23T12:17:12Z
+  Updated: 2025-12-04T12:21:26Z
   Total Products: 28
 - [Johannes Vermeer](https://andcici.com/collections/johannes-vermeer): Johannes Vermeer was a Dutch painter who specialized in domestic interior scenes of middle-class life. He is considered one of the greatest painters of the Dutch Golden Age, famous for his intimate household scenes with amazing light. In other paintings by Vermeer, such as the famous Girl with a Pearl Earring and View of Delft, he managed to create a calm, almost timeless atmosphere.
   Updated: 2025-05-18T09:50:50Z
   Total Products: 1
 - [AVADA - Best Sellers](https://andcici.com/collections/avada-best-sellers)
-  Updated: 2025-12-01T12:26:36Z
+  Updated: 2025-12-04T12:21:26Z
   Total Products: 149
 - [Shop All](https://andcici.com/collections/shop-all)
-  Updated: 2025-12-01T12:26:36Z
+  Updated: 2025-12-04T12:21:26Z
   Total Products: 149
 - [Best Sellers](https://andcici.com/collections/best-sellers)
-  Updated: 2025-12-01T12:26:36Z
+  Updated: 2025-12-04T12:21:26Z
   Total Products: 79
 - [Gustav Klimt](https://andcici.com/collections/gustav-klimt): Gustav Klimt (1862–1918) was an Austrian symbolist painter best known for his ornate, sensual works that often featured the female form. A founding member of the Vienna Secession movement, Klimt sought to break away from traditional academic art and embrace more modern, expressive styles. His most famous painting, The Kiss (1907–1908), exemplifies his signature use of gold leaf, intricate patterns, and emotional intensity. Klimt’s work blended symbolism, eroticism, and decorative art, making him a central figure in the development of early 20th-century modernism.
   Updated: 2025-08-14T09:45:02Z
@@ -1416,6 +1416,10 @@
     Tags: Henri Matisse
   - [The Dessert: Harmony in Red (The Red Room), 1908](https://andcici.com/blogs/artworks/the-dessert-harmony-in-red-the-red-room-1908): <p class="p1">Henri Matisse’s The Dessert: Harmony in Red (The Red Room), 1908 transforms a simple dining scene into a bold exploration of colour and pattern, showcasing the artist’s pursuit of decorative unity and emotional expression.</p>
     Updated: 2025-11-28T00:00:08Z
+    Author: Andcici Admin
+    Tags: Henri Matisse
+  - [Open Window, Collioure, 1905](https://andcici.com/blogs/artworks/open-window-collioure-1905): <p class="p1">Henri Matisse’s Open Window, Collioure, 1905 captures a vivid harbour view transformed through expressive colour, marking a defining moment in the development of Fauvism and modern art.</p>
+    Updated: 2025-12-05T00:00:10Z
     Author: Andcici Admin
     Tags: Henri Matisse
 
