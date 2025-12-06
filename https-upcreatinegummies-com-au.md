@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-08-03T22:28:06Z
 - Contact Email: info@upcreatinegummies.com.au
-- Updated At: 2025-12-03T00:00:29.383Z
+- Updated At: 2025-12-06T00:00:30.977Z
 
 ## Products
 
@@ -38,8 +38,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/Up-Strawberry-Creatine-Gummies-1.webp?v=1756340618
   Price: $68.00 AUD
-- [Up Sports Bottle 850ml](https://upcreatinegummies.com.au/products/up-sports-bottle-850ml): Hydration made easy - whether you’re lifting, lounging or on the move. Convenient side-handle for carrying Colour: Black Volume: 850ml Note: Due to hygiene reasons, our bottles are non-refundable.
-  Updated: 2025-11-12T05:06:14Z
+- [Up Sports Bottle 850ml](https://upcreatinegummies.com.au/products/up-sports-bottle-850ml-1): Hydration made easy - whether you’re lifting, lounging or on the move. Convenient side-handle for carrying Colour: Black Volume: 850ml Note: Due to hygiene reasons, our bottles are non-refundable.
+  Updated: 2025-12-03T00:19:18Z
   Vendor: Up Creatine Gummies
   Product Type: 
   Availability: Available
@@ -52,14 +52,14 @@
   Updated: 2025-09-29T04:57:41Z
   Total Products: 0
 - [Get Up](https://upcreatinegummies.com.au/collections/get-up): Power your performance with Up Creatine Gummies – clean, convenient, and crafted for movers who want more from their routine.
-  Updated: 2025-11-28T12:28:55Z
+  Updated: 2025-12-05T12:26:29Z
   Total Products: 4
 - [Get All Up](https://upcreatinegummies.com.au/collections/get-all-up): Power your performance with Up Creatine Gummies. Clean, convenient, and made for movers who want more from every session. With bold Sour Apple, zesty Orange, crisp Lemonade, or smooth Strawberry, each gummy delivers pure creatine monohydrate. No powders, no pills, no hassle. Sugar free, gluten free, vegan friendly, and made without GMOs or artificial colours or flavours, they make daily supplementation simple, delicious, and effective.
-  Updated: 2025-12-02T12:31:44Z
-  Total Products: 5
+  Updated: 2025-12-05T12:26:29Z
+  Total Products: 6
 - [Up Bottle](https://upcreatinegummies.com.au/collections/up-bottle)
-  Updated: 2025-12-02T12:31:44Z
-  Total Products: 1
+  Updated: 2025-12-03T00:18:19Z
+  Total Products: 2
 - [Black Friday Sale](https://upcreatinegummies.com.au/collections/black-friday-sale)
   Updated: 2025-12-02T19:26:25Z
   Total Products: 4
