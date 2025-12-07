@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-12-04T00:00:33.008Z
+- Updated At: 2025-12-07T00:00:32.886Z
 
 ## Products
 
@@ -482,70 +482,70 @@ Substanta activa: acetamiprid 200 g/kg
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-07at22.52.15.jpg?v=1738962140
   Price: 4,00 lei RON
 - [Pachet DUO MERITUS OIL + DELTAGRI, ENO, 10 - 13 L apa |Pomi fructiferi](https://depozitulgradinarului.ro/products/pachet-duo-meritus-oil-deltagri-eno-tratament-pomi-fructiferi-10-13-l-apa): Pachetul pentru pomii fructiferi MERITUS OIL + DELTAGRI actioneaza prin asfixiere, contact si ingestie impotriva a numeroase insecte daunatoare.
-  Updated: 2025-11-30T13:21:32Z
+  Updated: 2025-12-04T15:13:14Z
   Vendor: ENO
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-08at09.04.47.jpg?v=1738998355
   Price: 8,09 lei RON
 - [Pachet DUO MERITUS OIL + DELTAGRI, ENO, 65 L apa |Pomi fructiferi](https://depozitulgradinarului.ro/products/pachet-duo-meritus-oil-deltagri-eno-tratament-pomi-fructiferi-65-l-apa): Pachetul pentru pomii fructiferi MERITUS OIL + DELTAGRI actioneaza prin asfixiere, contact si ingestie impotriva a numeroase insecte daunatoare.
-  Updated: 2025-11-30T13:21:32Z
+  Updated: 2025-12-04T15:13:01Z
   Vendor: ENO
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-08at09.04.47_1.jpg?v=1738998904
   Price: 27,81 lei RON
 - [Insecticid TEPPEKI – 1.5 GR, ENO, Sistemic, Afide, Pomi Fructiferi, Legume, Plante Ornamentale, Cereale](https://depozitulgradinarului.ro/products/insecticid-teppeki-1-5-gr-eno-sistemic-afide): Scapă rapid de afide cu insecticidul TEPPEKI - 1.5 gr! Eficiență garantată, sistemic și selectiv, protejează culturile fără să afecteze albinele sau prădătorii naturali.
-  Updated: 2025-12-03T20:20:14Z
+  Updated: 2025-12-04T12:21:35Z
   Vendor: ENO
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-08at09.04.47_2.jpg?v=1738999216
   Price: 5,99 lei RON
 - [Insecticid TEPPEKI - 15 GR, ENO, Sistemic, Afide, Pomi Fructiferi, Legume, Plante Ornamentale, Cereale](https://depozitulgradinarului.ro/products/insecticid-teppeki-15-gr-eno-sistemic-afide): Scapă rapid de afide cu insecticidul TEPPEKI - 15 gr! Eficiență garantată, sistemic și selectiv, protejează culturile fără să afecteze albinele sau prădătorii naturali.
-  Updated: 2025-12-03T20:20:16Z
+  Updated: 2025-12-04T08:20:26Z
   Vendor: ENO
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-08at09.04.47_3.jpg?v=1739000796
   Price: 31,99 lei RON
 - [Fungicid MELODY COMPACT 49 WG - 200 GR, Bayer, Sistemic, Vita-de-Vie](https://depozitulgradinarului.ro/products/fungicid-melody-compact-49-wg-200-gr-bayer-sistemic-vita-de-vie): Combaterea manei la vița de vie cu Melody Compact 49 WG. Eficiență dovedită, protecție completă și rezultate rapide în fiecare sezon. Depozitul Grădinarului!
-  Updated: 2025-12-03T20:11:42Z
+  Updated: 2025-12-04T12:02:33Z
   Vendor: Bayer
   Product Type: fungicid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-08at15.58.09.jpg?v=1739023272
   Price: 51,00 lei RON
 - [Fierăstrău Manual Profesional Grădină & Crengi – Lamă Oțel, 350 MM](https://depozitulgradinarului.ro/products/fierastrau-profesional-pentru-gradinarit-350-mm): Fierăstrău manual profesional pentru grădină și crengi, lamă oțel curbata 350 mm, dinți fațetați, maner ergonomic, ideal pentru tăieri precise și rapide.
-  Updated: 2025-12-03T19:39:39Z
+  Updated: 2025-12-04T07:33:10Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Fierastraukmttools.jpg?v=1739217747
   Price: 35,91 lei RON
 - [Fierastrau Manual Pliabil pentru Gradina & Crengi | Lamă Oțel Profesională](https://depozitulgradinarului.ro/products/fierastrau-tip-briceag): Fierăstrău manual pliabil pentru grădină și crengi, cu lamă de oțel curbata și blocare automată. Ideal pentru tăiere precisă și rapidă. Depozitul Grădinarului!
-  Updated: 2025-12-03T19:30:35Z
+  Updated: 2025-12-04T08:08:21Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Ftipbriceag1.jpg?v=1739219269
   Price: 20,70 lei RON
 - [Fierăstrău Manual Gradina 350 MM, Lama Oțel, Maner Plastic Ergonomic](https://depozitulgradinarului.ro/products/fierastrau-de-mana-pentru-gradinarit-350-mm): Fierăstrău manual de grădină 350 MM, lamă din oțel și mâner ergonomic, ideal pentru tăiat crengi, lemn subțire și întreținerea grădinii eficientă.
-  Updated: 2025-12-03T19:23:50Z
+  Updated: 2025-12-04T07:50:26Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Fgeolux.jpg?v=1739219394
   Price: 14,40 lei RON
 - [Sfoară iută 150 GR pentru Legare și Ambalare | Grădinărit & Agricultură](https://depozitulgradinarului.ro/products/sfoara-iuta-150-gr): Sfoară de iută (150 GR) rezistentă pentru legare, ambalare și grădinărit. Ideală pentru vița de vie, plante, decoruri și uz casnic sau industrial. Practică și durabilă.
-  Updated: 2025-12-03T17:15:03Z
+  Updated: 2025-12-04T05:01:29Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Sfoaraiuta150GR.jpg?v=1739219653
   Price: 7,20 lei RON
 - [Sfoara Rafie Colorata 40 GR | Rezistentă, Palisare, Ambalare, Agricultură](https://depozitulgradinarului.ro/products/sfoara-rafie-colorata): Sfoară din rafie rezistentă pentru palisare, ambalare și uz în construcții. Ideală pentru grădini, sere, solarii și legat diverse materiale. Depozitul Grădinarului!
-  Updated: 2025-12-03T16:54:27Z
+  Updated: 2025-12-04T06:49:19Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
@@ -3764,14 +3764,14 @@ Ideal pentru grădinari și fermieri care doresc producții uniforme, sănătoas
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/furtunextensibil.webp?v=1752246375
   Price: 72,90 lei RON
 - [Sfoară iută 100 GR pentru Legare și Ambalare | Grădinărit & Agricultură](https://depozitulgradinarului.ro/products/sfoara-iuta-100-gr): Sfoară de iută (100 GR) rezistentă pentru legare, ambalare și grădinărit. Ideală pentru vița de vie, plante, decoruri și uz casnic sau industrial. Practică și durabilă.
-  Updated: 2025-12-03T17:11:49Z
+  Updated: 2025-12-04T05:04:03Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/IMG_9367.jpg?v=1753353480
   Price: 5,40 lei RON
 - [Sfoară iută 200 GR pentru Legare și Ambalare | Grădinărit & Agricultură](https://depozitulgradinarului.ro/products/sfoara-iuta-200-gr): Sfoară de iută (200 GR) rezistentă pentru legare, ambalare și grădinărit. Ideală pentru vița de vie, plante, decoruri și uz casnic sau industrial. Practică și durabilă.
-  Updated: 2025-12-03T17:14:03Z
+  Updated: 2025-12-04T11:39:35Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
@@ -4034,7 +4034,7 @@ Livrare rapidă!
   Updated: 2025-10-27T08:15:08Z
   Total Products: 3
 - [Sămânță Porumb Saaten Union | Producție Ridicată & Toleranță Excelentă](https://depozitulgradinarului.ro/collections/samanta-porumb-saaten-union): Descoperă sămânța de porumb Saten Union – hibrizi performanți, producție ridicată, toleranță la secetă și adaptabilitate excelentă. Comandă online de la Depozitul Grădinarului!
-  Updated: 2025-12-01T11:43:23Z
+  Updated: 2025-12-06T12:28:37Z
   Total Products: 8
 - [Sămânță de Porumb Turda | Hibrizi Românești cu Producție Ridicată](https://depozitulgradinarului.ro/collections/samanta-porumb-turda): Cumpără sămânță de porumb Turda – hibrizi românești cu producție ridicată, adaptați solurilor din România, randament mare, rezistență la secetă și preț avantajos. Ideală pentru boabe. Livrare rapidă!
   Updated: 2025-12-01T12:27:54Z
@@ -4073,7 +4073,7 @@ Livrare rapidă!
   Updated: 2025-10-27T08:16:24Z
   Total Products: 16
 - [Sâmânță de Porumb](https://depozitulgradinarului.ro/collections/samanta-porumb): Descoperă gama noastră de sămânță porumb și hibrizi de înaltă performanță, ideale pentru o recoltă bogată. Alege semințe de calitate superioară pentru însămânțări eficiente și profitabile.
-  Updated: 2025-12-01T14:18:10Z
+  Updated: 2025-12-06T12:28:37Z
   Total Products: 49
 - [FAO 200 - 299 KWS](https://depozitulgradinarului.ro/collections/fao-200-299-kws)
   Updated: 2025-05-29T15:22:59Z
@@ -4172,7 +4172,7 @@ Livrare rapidă!
   Updated: 2025-07-08T16:30:54Z
   Total Products: 1
 - [FAO 300 - 399 Saaten Union](https://depozitulgradinarului.ro/collections/fao-300-399-saaten-union)
-  Updated: 2025-10-27T08:14:25Z
+  Updated: 2025-12-06T12:28:37Z
   Total Products: 8
 - [FAO 400 - 499 Saaten Union](https://depozitulgradinarului.ro/collections/fao-400-499-saaten-union)
   Updated: 2025-12-01T11:43:23Z
@@ -4296,7 +4296,7 @@ Livrare rapidă!
   Updated: 2025-12-01T14:03:54Z
   Total Products: 4
 - [Sămânță Porumb FAO 300 - 399](https://depozitulgradinarului.ro/collections/samanta-porumb-fao-300-399)
-  Updated: 2025-12-01T14:18:10Z
+  Updated: 2025-12-06T12:28:37Z
   Total Products: 34
 - [Sămânță Porumb FAO 400 - 499](https://depozitulgradinarului.ro/collections/samanta-porumb-fao-400-499)
   Updated: 2025-12-01T11:43:23Z
