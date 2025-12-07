@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-08-13T12:49:55Z
 - Contact Email: joseluisgonzalezarsb@gmail.com
-- Updated At: 2025-12-04T00:00:50.623Z
+- Updated At: 2025-12-07T00:00:40.103Z
 
 ## Products
 
