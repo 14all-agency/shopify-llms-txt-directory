@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-12-05T00:00:32.527Z
+- Updated At: 2025-12-07T00:00:32.382Z
 
 ## Products
 
@@ -276,7 +276,7 @@
   Updated: 2025-11-20T18:23:40Z
   Total Products: 3
 - [Terrassenheizung, angenehme Wärme für den Outdoor-Bereich](https://www.pelios.de/collections/terassenheizung): Terrassenheizung, Elegant oder modern – ob Heizstrahler im klassischen Stil oder Heizbänder im minimalistischen Look: hier findet jeder sein Reichweitendesign
-  Updated: 2025-11-27T12:33:41Z
+  Updated: 2025-12-05T12:31:04Z
   Total Products: 8
 - [geeignet bis 15 qm](https://www.pelios.de/collections/geeignet-bis-15-qm)
   Updated: 2025-11-20T18:23:40Z
@@ -303,7 +303,7 @@
   Updated: 2025-11-20T18:39:54Z
   Total Products: 2
 - [außen](https://www.pelios.de/collections/aussen)
-  Updated: 2025-11-27T12:33:41Z
+  Updated: 2025-12-05T12:31:04Z
   Total Products: 7
 - [ohne Rauch](https://www.pelios.de/collections/ohne-rauch)
   Updated: 2025-11-20T18:39:54Z
@@ -352,6 +352,14 @@
     Updated: 2025-12-04T04:57:20Z
     Author: ms@nova02.de
     Tags: pelletofen mit wlan
+  - [kaminofen bImSchV stufe 2: Alles, was Sie für Auswahl, Installation und Wartung wissen müssen](https://www.pelios.de/blogs/news/kaminofen-bimschv-stufe-2-alles-was-sie-fur-auswahl-installation-und-wartung-wissen-mussen)
+    Updated: 2025-12-05T05:12:09Z
+    Author: ms@nova02.de
+    Tags: kaminofen bImSchV stufe 2
+  - [Ethanol Kamin Wand: 6 kreative Ideen für stilvolle Wandmontage](https://www.pelios.de/blogs/news/ethanol-kamin-wand-6-kreative-ideen-fur-stilvolle-wandmontage)
+    Updated: 2025-12-06T02:18:55Z
+    Author: ms@nova02.de
+    Tags: ethanol kamin wand
 
 ## Store Pages
 
