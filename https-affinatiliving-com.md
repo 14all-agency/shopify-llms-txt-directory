@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-07T12:00:35.869Z
+- Updated At: 2025-12-07T16:00:33.092Z
 
 ## Products
 
@@ -7514,6 +7514,144 @@
   - [Pack of 5](https://affinatiliving.com/products/whiskey-reserve-original-candle?variant=58456936841297)
     Availability: Available
     Price: $64.95 USD
+- [Whiskey Reserve Room Spray](https://affinatiliving.com/products/whiskey-reserve-room-spray): Warm, rich, and refined. Whiskey Reserve room & linen spray brings notes of aged whiskey and toasted oak for a luxurious, long-lasting home fragrance.
+  Updated: 2025-12-07T13:52:54Z
+  Vendor: Affinati
+  Product Type: Room & Linen Spray
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageApr30_2025_01_27_00PM.png?v=1746034067
+  - [Single Order / Small (1 fl/oz)](https://affinatiliving.com/products/whiskey-reserve-room-spray?variant=58461815865425)
+    Availability: Available
+    Price: $6.95 USD
+  - [Single Order / Large (4 fl/oz)](https://affinatiliving.com/products/whiskey-reserve-room-spray?variant=58461815898193)
+    Availability: Available
+    Price: $8.95 USD
+  - [Pack of 3 / Small (1 fl/oz)](https://affinatiliving.com/products/whiskey-reserve-room-spray?variant=58461815930961)
+    Availability: Available
+    Price: $14.95 USD
+  - [Pack of 3 / Large (4 fl/oz)](https://affinatiliving.com/products/whiskey-reserve-room-spray?variant=58461815963729)
+    Availability: Available
+    Price: $19.95 USD
+  - [Pack of 5 / Small (1 fl/oz)](https://affinatiliving.com/products/whiskey-reserve-room-spray?variant=58461815996497)
+    Availability: Available
+    Price: $24.95 USD
+  - [Pack of 5 / Large (4 fl/oz)](https://affinatiliving.com/products/whiskey-reserve-room-spray?variant=58461816029265)
+    Availability: Available
+    Price: $29.95 USD
+- [Vanilla Chai Room Spray](https://affinatiliving.com/products/vanilla-chai-room-spray): Cozy and comforting. Vanilla Chai room & linen spray blends creamy vanilla and warm chai spices for a sweet, soothing, long-lasting home fragrance.
+  Updated: 2025-12-07T13:54:09Z
+  Vendor: Affinati
+  Product Type: Room & Linen Spray
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageApr30_2025_01_27_00PM.png?v=1746034067
+  - [Single Order / Small (1 fl/oz)](https://affinatiliving.com/products/vanilla-chai-room-spray?variant=58461828710481)
+    Availability: Available
+    Price: $6.95 USD
+  - [Single Order / Large (4 fl/oz)](https://affinatiliving.com/products/vanilla-chai-room-spray?variant=58461828743249)
+    Availability: Available
+    Price: $8.95 USD
+  - [Pack of 3 / Small (1 fl/oz)](https://affinatiliving.com/products/vanilla-chai-room-spray?variant=58461828776017)
+    Availability: Available
+    Price: $14.95 USD
+  - [Pack of 3 / Large (4 fl/oz)](https://affinatiliving.com/products/vanilla-chai-room-spray?variant=58461828808785)
+    Availability: Available
+    Price: $19.95 USD
+  - [Pack of 5 / Small (1 fl/oz)](https://affinatiliving.com/products/vanilla-chai-room-spray?variant=58461828841553)
+    Availability: Available
+    Price: $24.95 USD
+  - [Pack of 5 / Large (4 fl/oz)](https://affinatiliving.com/products/vanilla-chai-room-spray?variant=58461828874321)
+    Availability: Available
+    Price: $29.95 USD
+- [Vanilla Chai Reed Diffuser](https://affinatiliving.com/products/vanilla-chai-reed-diffuser): Warm and cozy Vanilla Chai reed diffuser with vanilla bean and chai spices. Long-lasting, non-toxic home fragrance that creates a soothing, aromatic retreat.
+  Updated: 2025-12-07T13:57:01Z
+  Vendor: Affinati
+  Product Type: Reed Diffuser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_7_2025_at_08_54_45_AM.png?v=1765115799
+  Price: $17.95 USD
+- [Whiskey Reserve Reed Diffuser](https://affinatiliving.com/products/whiskey-reserve-reed-diffuser): Luxurious Whiskey Reserve reed diffuser with aged whiskey, oak, and vanilla. A non-toxic, long-lasting home fragrance that adds warm, refined sophistication.
+  Updated: 2025-12-07T14:00:27Z
+  Vendor: Affinati
+  Product Type: Reed Diffuser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_7_2025_at_08_59_50_AM.png?v=1765116012
+  Price: $17.95 USD
+- [3-Wick Toasted Coconut Candle](https://affinatiliving.com/products/3-wick-toasted-coconut-candle): Indulge in warm, creamy island comfort with our Toasted Coconut 3-Wick Candle. A premium soy wax blend with rich notes of toasted sugar, vanilla cream, and fresh coconut. Smooth, even burn—perfect for adding tropical warmth to any room.
+  Updated: 2025-12-07T14:05:32Z
+  Vendor: Affinati
+  Product Type: Candles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_7_2025_at_08_49_44_AM.png?v=1765116262
+  - [Single Order](https://affinatiliving.com/products/3-wick-toasted-coconut-candle?variant=58461852532817)
+    Availability: Available
+    Price: $24.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/3-wick-toasted-coconut-candle?variant=58461852565585)
+    Availability: Available
+    Price: $69.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/3-wick-toasted-coconut-candle?variant=58461852598353)
+    Availability: Available
+    Price: $109.95 USD
+- [Toasted Coconut Signature Candle](https://affinatiliving.com/products/toasted-coconut-signature-candle): Indulge in creamy, warm sweetness with our Toasted Coconut Signature Candle. A rich 10 oz soy blend candle that fills your home with cozy, tropical luxury.
+  Updated: 2025-12-07T14:09:42Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_7_2025_at_09_05_43_AM.png?v=1765116522
+  - [Single Order](https://affinatiliving.com/products/toasted-coconut-signature-candle?variant=58461871767633)
+    Availability: Available
+    Price: $17.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/toasted-coconut-signature-candle?variant=58461871800401)
+    Availability: Available
+    Price: $44.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/toasted-coconut-signature-candle?variant=58461871833169)
+    Availability: Available
+    Price: $72.95 USD
+- [Toasted Coconut Original Candle](https://affinatiliving.com/products/toasted-coconut-original-candle): Experience creamy toasted coconut with our Affinati 10 oz Original Candle. Warm, sweet, and comforting with coconut milk, toasted sugar & vanilla. Strongly scented for a cozy, lasting burn.
+  Updated: 2025-12-07T14:12:40Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_7_2025_at_09_10_09_AM.png?v=1765116759
+  - [Single Order](https://affinatiliving.com/products/toasted-coconut-original-candle?variant=58461903847505)
+    Availability: Available
+    Price: $16.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/toasted-coconut-original-candle?variant=58461903880273)
+    Availability: Available
+    Price: $39.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/toasted-coconut-original-candle?variant=58461903913041)
+    Availability: Available
+    Price: $64.95 USD
+- [Toasted Coconut Room Spray](https://affinatiliving.com/products/toasted-coconut-room-spray): Warm, sweet, and beachy. Toasted Coconut room & linen spray blends creamy coconut milk and toasted coconut flakes for a long-lasting, comforting home fragrance.
+  Updated: 2025-12-07T14:22:51Z
+  Vendor: Affinati
+  Product Type: Room & Linen Spray
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageApr30_2025_01_27_00PM.png?v=1746034067
+  - [Single Order / Small (1 fl/oz)](https://affinatiliving.com/products/toasted-coconut-room-spray?variant=58461993730129)
+    Availability: Available
+    Price: $6.95 USD
+  - [Single Order / Large (4 fl/oz)](https://affinatiliving.com/products/toasted-coconut-room-spray?variant=58461993762897)
+    Availability: Available
+    Price: $8.95 USD
+  - [Pack of 3 / Small (1 fl/oz)](https://affinatiliving.com/products/toasted-coconut-room-spray?variant=58461993795665)
+    Availability: Available
+    Price: $14.95 USD
+  - [Pack of 3 / Large (4 fl/oz)](https://affinatiliving.com/products/toasted-coconut-room-spray?variant=58461993828433)
+    Availability: Available
+    Price: $19.95 USD
+  - [Pack of 5 / Small (1 fl/oz)](https://affinatiliving.com/products/toasted-coconut-room-spray?variant=58461993861201)
+    Availability: Available
+    Price: $24.95 USD
+  - [Pack of 5 / Large (4 fl/oz)](https://affinatiliving.com/products/toasted-coconut-room-spray?variant=58461993893969)
+    Availability: Available
+    Price: $29.95 USD
+- [Toasted Coconut Reed Diffuser](https://affinatiliving.com/products/toasted-coconut-reed-diffuser): Experience warm, cozy luxury with the Affinati Toasted Coconut Reed Diffuser. A non-toxic 7.0 fl oz blend of toasted coconut, vanilla, and soft woods for long-lasting, flame-free home fragrance.
+  Updated: 2025-12-07T14:25:22Z
+  Vendor: Affinati
+  Product Type: Reed Diffuser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Dec_7_2025_at_09_24_35_AM.png?v=1765117490
+  Price: $17.95 USD
 
 ## Collections
 
@@ -7521,11 +7659,11 @@
   Updated: 2025-05-15T08:35:05Z
   Total Products: 0
 - [3-Wick Candles](https://affinatiliving.com/collections/3-wick-candles): Discover Affinati’s 3-Wick Candle Collection — luxury soy candles with powerful fragrance throw, clean burn, and elegant jars. Perfect for filling any room with long-lasting scent.
-  Updated: 2025-12-06T12:10:51Z
-  Total Products: 87
+  Updated: 2025-12-07T14:05:30Z
+  Total Products: 88
 - [Signature Candles](https://affinatiliving.com/collections/signature-candles): Shop Affinati’s Signature Candle Collection — hand-poured soy candles crafted for long-lasting fragrance and elegant design. Elevate your home with luxury scents made for everyday moments.
-  Updated: 2025-12-05T19:59:26Z
-  Total Products: 67
+  Updated: 2025-12-07T14:09:41Z
+  Total Products: 68
 - [Whipped Soap](https://affinatiliving.com/collections/whipped-soap): Lather up with Affinati’s Whipped Soap Collection — creamy, cloud-like soaps that cleanse, hydrate, and leave skin silky smooth with long-lasting luxury fragrance.
   Updated: 2025-12-04T21:12:03Z
   Total Products: 28
@@ -7536,11 +7674,11 @@
   Updated: 2025-11-09T23:34:08Z
   Total Products: 10
 - [Room & Linen Sprays](https://affinatiliving.com/collections/room-linen-sprays): Shop Affinati Room Sprays for long-lasting home fragrance. Premium, eco-friendly scents designed to refresh any room instantly. Luxury quality under $25.
-  Updated: 2025-12-02T12:10:36Z
-  Total Products: 42
+  Updated: 2025-12-07T14:22:49Z
+  Total Products: 45
 - [Reed Diffusers](https://affinatiliving.com/collections/reed-diffusers): Fill your home with lasting fragrance from Affinati’s Reed Diffuser Collection — elegant, flame-free diffusers crafted with premium oils for continuous scent.
-  Updated: 2025-12-01T12:11:33Z
-  Total Products: 39
+  Updated: 2025-12-07T14:25:21Z
+  Total Products: 42
 - [Body Scrubs](https://affinatiliving.com/collections/body-scrubs): Exfoliate and nourish with Affinati’s Body Scrubs Collection — whipped sugar scrubs crafted with skin-loving ingredients for smooth, glowing skin and long-lasting fragrance.
   Updated: 2025-12-01T12:11:33Z
   Total Products: 6
@@ -7551,22 +7689,22 @@
   Updated: 2025-12-04T12:10:31Z
   Total Products: 3
 - [All Candle Collections](https://affinatiliving.com/collections/all-candle-collections): Shop Affinati’s full Candle Collection — from Wooden Wick and 3-Wick candles to Signature and Original designs. Hand-poured soy candles with long-lasting, luxury fragrance for every space.
-  Updated: 2025-12-06T12:10:51Z
-  Total Products: 291
+  Updated: 2025-12-07T14:12:37Z
+  Total Products: 294
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
   Updated: 2025-12-05T12:09:59Z
   Total Products: 99
 - [All Home Care Collections](https://affinatiliving.com/collections/all-home-care-collections)
-  Updated: 2025-12-02T12:10:36Z
-  Total Products: 81
+  Updated: 2025-12-07T14:25:21Z
+  Total Products: 87
 - [Apothecary Candles](https://affinatiliving.com/collections/apothecary-candles)
   Updated: 2025-12-01T12:11:33Z
   Total Products: 12
 - [Candles on Sale](https://affinatiliving.com/collections/candles-on-sale)
-  Updated: 2025-11-30T12:10:22Z
+  Updated: 2025-12-07T12:10:57Z
   Total Products: 3
 - [All Sale](https://affinatiliving.com/collections/all-sale)
-  Updated: 2025-11-30T12:10:22Z
+  Updated: 2025-12-07T12:10:57Z
   Total Products: 3
 - [Body Care on Sale](https://affinatiliving.com/collections/body-care-on-sale)
   Updated: 2025-05-15T08:35:07Z
@@ -7575,55 +7713,55 @@
   Updated: 2025-05-15T08:35:07Z
   Total Products: 0
 - [Original Candles](https://affinatiliving.com/collections/original-candles): Explore Affinati’s Original Candle Collection — hand-poured soy candles designed for everyday luxury. Clean-burning, long-lasting scents that bring warmth and elegance to any space.
-  Updated: 2025-12-06T12:10:51Z
-  Total Products: 86
+  Updated: 2025-12-07T14:12:37Z
+  Total Products: 87
 - [Wooden Wick Candles](https://affinatiliving.com/collections/wooden-wick-candles): Discover Affinati’s Wooden Wick Candles — premium soy candles with a cozy crackling burn. Long-lasting, clean fragrance blends designed to create a warm, luxurious atmosphere for your home.
-  Updated: 2025-12-02T12:10:36Z
+  Updated: 2025-12-07T12:10:57Z
   Total Products: 48
 - [Summer Candle Scents](https://affinatiliving.com/collections/summer-scents)
-  Updated: 2025-12-06T12:10:51Z
-  Total Products: 100
+  Updated: 2025-12-07T14:12:37Z
+  Total Products: 103
 - [Winter Candle Scents](https://affinatiliving.com/collections/winter-candle-scents)
-  Updated: 2025-12-06T12:10:51Z
+  Updated: 2025-12-07T14:12:37Z
   Total Products: 127
 - [Fall Candle Scents](https://affinatiliving.com/collections/fall-candle-scents)
-  Updated: 2025-12-06T12:10:51Z
-  Total Products: 115
+  Updated: 2025-12-07T14:12:37Z
+  Total Products: 116
 - [Spring Candle Scents](https://affinatiliving.com/collections/spring-candle-scents)
-  Updated: 2025-12-06T12:10:51Z
-  Total Products: 87
+  Updated: 2025-12-07T14:12:37Z
+  Total Products: 89
 - [Masculine Candle Scents](https://affinatiliving.com/collections/masculine-scents): Explore the Masculine Candle Collection — bold scents like Smoked Bourbon, Mahogany Teakwood, and Tobacco. Long-lasting 3-wick and wooden wick candles with rich, rugged aromas.
-  Updated: 2025-12-05T20:01:06Z
+  Updated: 2025-12-07T14:12:37Z
   Total Products: 59
 - [Fruity Candle Scents](https://affinatiliving.com/collections/fruity): Explore the Fruity Scents Collection — candles, diffusers, and room sprays in vibrant aromas like Strawberry Bliss, Blackberry Sage, and Coconut Flakes. Sweet, juicy, long-lasting fragrance for every room.
-  Updated: 2025-12-05T12:09:59Z
-  Total Products: 60
+  Updated: 2025-12-07T14:12:37Z
+  Total Products: 63
 - [Nature Candle Scents](https://affinatiliving.com/collections/nature-candle-scents): Discover the Nature Candle Collection — fresh, earthy scents like Eucalyptus Tea, Driftwood & Sea Salt, and Blackberry Sage. Long-lasting candles inspired by the outdoors.
-  Updated: 2025-12-06T12:10:51Z
+  Updated: 2025-12-07T12:10:57Z
   Total Products: 131
 - [Vanilla Candles](https://affinatiliving.com/collections/vanilla-candles): Indulge in Affinati’s Vanilla Candle Collection—luxury soy wax candles with rich, long-lasting fragrance. Shop 3-wick and signature vanilla candles for cozy nights, stress relief, and everyday comfort.
-  Updated: 2025-12-06T12:10:51Z
+  Updated: 2025-12-07T14:09:40Z
   Total Products: 27
 - [Lavender Candles](https://affinatiliving.com/collections/lavender-candles): Discover Affinati’s Lavender Candle Collection—luxury soy wax candles crafted to calm, relax, and refresh your space. Shop 3-wick and signature lavender candles for stress relief, sleep, and everyday elegance.
-  Updated: 2025-12-05T12:09:59Z
+  Updated: 2025-12-07T12:10:57Z
   Total Products: 7
 - [Eucalyptus Candles](https://affinatiliving.com/collections/eucalyptus-candles): Explore eucalyptus candles for relaxation and wellness. Shop Affinati’s eucalyptus mint candles — luxury soy blends with a fresh, calming scent.
   Updated: 2025-12-04T12:10:31Z
   Total Products: 7
 - [Woody Candle Scents](https://affinatiliving.com/collections/woody-candle-scents): Shop the Woody Scents Collection — candles, diffusers, and room sprays in rich aromas like Mahogany Teakwood, Tobacco, and Driftwood & Sea Salt. Warm, earthy, long-lasting fragrance for every space.
-  Updated: 2025-12-06T12:10:51Z
+  Updated: 2025-12-07T12:10:57Z
   Total Products: 52
 - [Christmas Candles](https://affinatiliving.com/collections/christmas-candles): Discover the best Christmas candles— from peppermint and gingerbread to hot chocolate and White Christmas. Long-lasting candles for cozy holiday nights.
   Updated: 2025-12-06T12:10:51Z
   Total Products: 45
 - [Halloween Candles](https://affinatiliving.com/collections/halloween-candles): Shop the Halloween Candle Collection — spooky scents like Pumpkin Spice, Smoked Vanilla, and Fire Roasted Marshmallow. Candles for fall nights.
-  Updated: 2025-12-06T12:10:51Z
+  Updated: 2025-12-07T12:10:57Z
   Total Products: 30
 - [Thanksgiving Candles](https://affinatiliving.com/collections/thanksgiving-candles): Celebrate Thanksgiving with candles inspired by pumpkin pie, spiced bourbon, and warm vanilla. Long-lasting candles to make your holiday cozy.
-  Updated: 2025-12-06T12:10:51Z
+  Updated: 2025-12-07T12:10:57Z
   Total Products: 77
 - [Valentine's Candles](https://affinatiliving.com/collections/valentines-candles): Celebrate love with the Valentine’s Day Candle Collection — romantic scents like Strawberry Bliss, Cocoa Butter Cashmere, and Hot Chocolate. Long-lasting 3-wick candles for gifting.
-  Updated: 2025-12-06T12:10:51Z
+  Updated: 2025-12-07T12:10:57Z
   Total Products: 46
 - [Affinati Accessories](https://affinatiliving.com/collections/accessories): Explore Affinati Accessories — a curated collection of elegant essentials including signature pens, matchboxes, and décor pieces designed to complement your luxury candle experience. Refined, timeless, and made for modern living.
   Updated: 2025-12-01T12:11:33Z
