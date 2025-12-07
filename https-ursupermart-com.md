@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-12-06T00:00:54.586Z
+- Updated At: 2025-12-07T00:00:59.712Z
 
 ## Products
 
@@ -974,7 +974,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-performance-gaming-chair-with-2125-wide-cushion-850453.webp?v=1728310481
   Price: $154.95 USD
 - [Gaming Chairs: Reclining Leather for Comfort & Support](https://ursupermart.com/products/gaming-chairs-reclining-leather-comfort-support): Gaming chairs provide ultimate comfort with a reclining back, footrest, and lumbar support for long sessions. Upgrade your setup and play without pain!
-  Updated: 2025-12-05T15:27:48Z
+  Updated: 2025-12-06T03:27:58Z
   Vendor: S1B|S1|S1B|Meta - Dsers****-UP + Blog
   Product Type: Gaming Chair
   Availability: Available
@@ -15390,7 +15390,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cute-summer-dress-tropical-vacation-wear.webp?v=1744044037
     Price: $57.95 USD
 - [Shop Sleeveless A-Line Midi Dress with Slit](https://ursupermart.com/products/sleeveless-midi-dress-with-slit): Casual Summer Style Meta Description: Order the best comfortable sleeveless midi dress with a side slit online. Multiple colors. Free shipping included
-  Updated: 2025-12-04T13:42:21Z
+  Updated: 2025-12-06T08:57:26Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Summer Dress
   Availability: Available
@@ -17276,7 +17276,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/994325327992.jpg?v=1746986553
     Price: $34.95 USD
 - [Stainless steel french fry cutter for easy homemade fries.](https://ursupermart.com/products/stainless-steel-french-fry-cutter-easy-homemade-fries): Stainless steel french fry cutter makes perfect homemade fries and preps veggies like carrots and cucumbers with two blades; simplify healthy meal prep and get yours today!
-  Updated: 2025-12-04T13:46:07Z
+  Updated: 2025-12-06T02:25:30Z
   Vendor: S1B|Make | CJ
   Product Type: French fry cutter
   Availability: Available
@@ -18135,7 +18135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/beige-colombian-fajas-body-shaper.webp?v=1752771030
     Price: $42.95 USD
 - [Wireless Charging Station - Charge Faster & Easier](https://ursupermart.com/products/best-wireless-charging-station-2024): Fast wireless charging station with alarm clock!  Charge your phone & wake up on time.  LED display & 15W fast charging. Shop now!
-  Updated: 2025-12-04T13:48:15Z
+  Updated: 2025-12-06T15:36:06Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: 5-in-1 Wireless Charging Station
   Availability: Available
@@ -21540,7 +21540,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2025-12-04T14:25:34Z
+  Updated: 2025-12-06T06:27:05Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -22723,7 +22723,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/659c82c8-d7e4-4b58-9740-6e2f8fcec335.jpg?v=1755830480
   Price: $649.95 USD
 - [Fairy Lights String Christmas Ribbon Bow Tie](https://ursupermart.com/products/fairy-lights-string-christmas-ribbon-bow-tie): Product information: Packing: OPP bag Item No.: Ribbon with colorful lights Material: Cloth + LED light Size: width 5CM Packing list: Lantern*1
-  Updated: 2025-12-05T11:25:35Z
+  Updated: 2025-12-06T17:26:36Z
   Vendor: S1B|@CJ
   Product Type: Ribbon Christmas Lights
   Availability: Available
@@ -22823,7 +22823,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/emergency-starting-power-car-jump-starter.webp?v=1758666704
   Price: $64.95 USD
 - [Wireless Earbuds with Noise Cancelling and Touch Screen](https://ursupermart.com/products/wireless-earbuds-noise-cancelling-touch-screen): Wireless earbuds with smart touch controls and active noise cancelling deliver crystal-clear hi-fi sound and 40 hours of total power. Experience them now!
-  Updated: 2025-12-04T13:59:25Z
+  Updated: 2025-12-06T20:27:01Z
   Vendor: S1B|S1|CJ
   Product Type: wireless earbuds
   Availability: Available
@@ -23409,7 +23409,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/callus-remover-kit-with-usb-cable.webp?v=1758555078
     Price: $37.95 USD
 - [Tactical bags: Durable 85L duffel for military & outdoor](https://ursupermart.com/products/tactical-bags-durable-85l-military-duffel-outdoor): Tactical bags built for adventure! This 85L military duffel offers 3-way carry, durable 600D nylon, and organized storage for all your gear. Get yours today!
-  Updated: 2025-12-04T14:00:37Z
+  Updated: 2025-12-06T18:26:50Z
   Vendor: S1B|S1|CJ
   Product Type: Tactical Duffel Bag
   Availability: Available
@@ -23423,7 +23423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gym-duffel-bag-tan-camo-style.webp?v=1758555875
     Price: $39.95 USD
 - [Massage Gun for Deep Tissue Relief & Fast Recovery](https://ursupermart.com/products/deep-tissue-massage-gun-for-muscle-recovery): This massage gun provides deep tissue relief and muscle recovery, easing soreness with 8 heads and a 12-hour battery. Get yours for faster recovery!
-  Updated: 2025-12-04T14:00:39Z
+  Updated: 2025-12-06T20:27:01Z
   Vendor: S1B|S1|CJ
   Product Type: cordless massage gun
   Availability: Available
@@ -23680,7 +23680,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sleep-patch-natural-ingredients-pack.webp?v=1758759422
     Price: $44.95 USD
 - [RFID Wallets for Men Slim Secure Leather Card Holder](https://ursupermart.com/products/rfid-wallets-for-men-slim-secure-leather-card-holder): RFID wallets for men provide ultimate security for your credit cards with a slim, genuine leather design; protect your data and stay organized, buy now!
-  Updated: 2025-12-05T14:26:41Z
+  Updated: 2025-12-06T18:26:51Z
   Vendor: S1B|S1|CJ
   Product Type: RFID blocking wallet
   Availability: Available
@@ -26570,7 +26570,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/plus-dinosaur-toy-three-sizes-shown.webp?v=1759602165
   Price: $19.95 USD
 - [Water Track Play Set for Kids Outdoor Fun & Learning](https://ursupermart.com/products/water-track-play-set-for-kids-outdoor-fun-learning): This water track play set offers endless outdoor fun for kids with a boat and crane, fostering imagination and motor skills; get yours today!
-  Updated: 2025-12-04T14:07:19Z
+  Updated: 2025-12-06T15:26:51Z
   Vendor: S1B|S1|CJ
   Product Type: Water play set
   Availability: Available
@@ -26810,7 +26810,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/digital-wristwatch-blue-black-backlight-style.webp?v=1761678351
     Price: $14.95 USD
 - [Minimalist Rotating Disc Watch - Unique Time Display](https://ursupermart.com/products/minimalist-rotating-disc-watch-unique-time-display-modern-design): Minimalist rotating disc watch: express your unique style with this innovative timepiece featuring a sleek design and mesh band. Discover yours today!
-  Updated: 2025-12-05T17:29:44Z
+  Updated: 2025-12-06T06:07:32Z
   Vendor: S1B|S1|eprolo
   Product Type: Wristwatch
   Availability: Available
@@ -27138,6 +27138,20 @@
   - [Rose Red / For Samsung S10 PLUS](https://ursupermart.com/products/selfie-case-samsung-s10-plus-led-lighted-phone?variant=42389456650330)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/selfie-case-pink-and-clear-s9-plus.webp?v=1760021415
+    Price: $22.95 USD
+- [65w Multiport Charger: Fast Charge All Your Devices](https://ursupermart.com/products/65w-multiport-charger-fast-charge-multiple-devices-efficiently): This 65w multiport charger powers up to 5 devices quickly and safely, eliminating clutter and charging anxiety. Experience ultimate convenience and peace of mind today!
+  Updated: 2025-12-06T17:06:06Z
+  Vendor: S1B|S1|eprolo
+  Product Type: 65W multiport charger
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/65w-fast-charging-multi-port-usb-c-charger-premium-dual-color.webp?v=1765040499
+  - [Black](https://ursupermart.com/products/65w-multiport-charger-fast-charge-multiple-devices-efficiently?variant=42389465825370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/65w-fast-charging-multi-port-usb-c-charger-black-high-efficiency.webp?v=1765039990
+    Price: $22.95 USD
+  - [White](https://ursupermart.com/products/65w-multiport-charger-fast-charge-multiple-devices-efficiently?variant=42389465858138)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/65w-fast-charging-multi-port-usb-c-charger-white-pro-power.webp?v=1765040499
     Price: $22.95 USD
 - [Wall Charger Fast Multiport for All Your Devices](https://ursupermart.com/products/wall-charger-fast-multiport-for-all-devices): This wall charger provides fast, safe 30W power for all your devices with multiple USB ports and robust protection. Charge all your gadgets simultaneously now!
   Updated: 2025-11-16T00:33:56Z
@@ -28156,7 +28170,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/anti-smudge-iphone-case-mint-green-flatlay.webp?v=1761083668
     Price: $16.95 USD
 - [Satchel Handbags for Women Large Secure and Stylish](https://ursupermart.com/products/large-secure-stylish-satchel-handbags-women): These large satchel handbags offer secure, organized storage for work or travel with a stylish design and comfy handles. Find your perfect bag today!
-  Updated: 2025-11-29T15:46:30Z
+  Updated: 2025-12-06T04:45:05Z
   Vendor: @Trendsi
   Product Type: Satchel Handbag
   Availability: Available
@@ -29460,7 +29474,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cordless-hair-straightener-fantasy-pink.webp?v=1762035591
     Price: $21.95 USD
 - [Measuring Cups: Adjustable Glass for Easy & Precise Use](https://ursupermart.com/products/adjustable-glass-measuring-cups-for-baking-precise): These adjustable measuring cups simplify baking with a 4-in-1 design, built-in scraper, and clear ml/cup markings. Get yours for precise, mess-free cooking!
-  Updated: 2025-12-04T14:09:55Z
+  Updated: 2025-12-06T14:26:47Z
   Vendor: S1B|S1|Dsers
   Product Type: Adjustable measuring cup
   Availability: Available
@@ -29576,6 +29590,204 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-snowflake-necklace-earring-set-silver-crystal.webp?v=1764718671
     Price: $14.95 USD
+- [Women's Trench Coat Flattering Warm Wool Blend](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style): Our women's trench coat offers versatile style, warmth, and a flattering silhouette for any occasion, boosting your confidence. Get yours today!
+  Updated: 2025-12-06T11:27:50Z
+  Vendor: S1B|S1|CJ
+  Product Type: Women's trench coat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-premium-brown-studio.webp?v=1764980840
+  - [Ivory White / S](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290135130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-beige-trendy-selfie.webp?v=1764980840
+    Price: $64.95 USD
+  - [Ivory White / M](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290102362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-beige-trendy-selfie.webp?v=1764980840
+    Price: $64.95 USD
+  - [Ivory White / L](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290069594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-beige-trendy-selfie.webp?v=1764980840
+    Price: $64.95 USD
+  - [Ivory White / XL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290167898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-beige-trendy-selfie.webp?v=1764980840
+    Price: $64.95 USD
+  - [Ivory White / XXL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290200666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-beige-trendy-selfie.webp?v=1764980840
+    Price: $64.95 USD
+  - [Ivory White / XXXL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290233434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-beige-trendy-selfie.webp?v=1764980840
+    Price: $64.95 USD
+  - [Beige / S](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290331738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-beige-luxury-streetwear.webp?v=1764981364
+    Price: $64.95 USD
+  - [Beige / M](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290298970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-beige-luxury-streetwear.webp?v=1764981364
+    Price: $64.95 USD
+  - [Beige / L](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290266202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-beige-luxury-streetwear.webp?v=1764981364
+    Price: $64.95 USD
+  - [Beige / XL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290364506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-beige-luxury-streetwear.webp?v=1764981364
+    Price: $64.95 USD
+  - [Beige / XXL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290397274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-beige-luxury-streetwear.webp?v=1764981364
+    Price: $64.95 USD
+  - [Beige / XXXL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290430042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-beige-luxury-streetwear.webp?v=1764981364
+    Price: $64.95 USD
+  - [Black / S](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290528346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-black-elegant-modern.webp?v=1764980840
+    Price: $64.95 USD
+  - [Black / M](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290495578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-black-elegant-modern.webp?v=1764980840
+    Price: $64.95 USD
+  - [Black / L](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290462810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-black-elegant-modern.webp?v=1764980840
+    Price: $64.95 USD
+  - [Black / XL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290561114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-black-elegant-modern.webp?v=1764980840
+    Price: $64.95 USD
+  - [Black / XXL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290593882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-black-elegant-modern.webp?v=1764980840
+    Price: $64.95 USD
+  - [Black / XXXL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290626650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-black-elegant-modern.webp?v=1764980840
+    Price: $64.95 USD
+  - [Blue / S](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290724954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-blue-bold-streetwear.webp?v=1764980840
+    Price: $64.95 USD
+  - [Blue / M](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290692186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-blue-bold-streetwear.webp?v=1764980840
+    Price: $64.95 USD
+  - [Blue / L](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290659418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-blue-bold-streetwear.webp?v=1764980840
+    Price: $64.95 USD
+  - [Blue / XL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290757722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-blue-bold-streetwear.webp?v=1764980840
+    Price: $64.95 USD
+  - [Blue / XXL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290790490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-blue-bold-streetwear.webp?v=1764980840
+    Price: $64.95 USD
+  - [Blue / XXXL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290823258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-blue-bold-streetwear.webp?v=1764980840
+    Price: $64.95 USD
+  - [Brown / S](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290921562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-premium-brown-luxury.webp?v=1764980840
+    Price: $64.95 USD
+  - [Brown / M](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290888794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-premium-brown-luxury.webp?v=1764980840
+    Price: $64.95 USD
+  - [Brown / L](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290856026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-premium-brown-luxury.webp?v=1764980840
+    Price: $64.95 USD
+  - [Brown / XL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290954330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-premium-brown-luxury.webp?v=1764980840
+    Price: $64.95 USD
+  - [Brown / XXL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506290987098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-premium-brown-luxury.webp?v=1764980840
+    Price: $64.95 USD
+  - [Brown / XXXL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291019866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-premium-brown-luxury.webp?v=1764980840
+    Price: $64.95 USD
+  - [Gray / S](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291118170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-grey-minimalist-chic.webp?v=1764980840
+    Price: $64.95 USD
+  - [Gray / M](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291085402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-grey-minimalist-chic.webp?v=1764980840
+    Price: $64.95 USD
+  - [Gray / L](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291052634)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-grey-minimalist-chic.webp?v=1764980840
+    Price: $64.95 USD
+  - [Gray / XL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291150938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-grey-minimalist-chic.webp?v=1764980840
+    Price: $64.95 USD
+  - [Gray / XXL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291183706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-grey-minimalist-chic.webp?v=1764980840
+    Price: $64.95 USD
+  - [Gray / XXXL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291216474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-grey-minimalist-chic.webp?v=1764980840
+    Price: $64.95 USD
+  - [Red / S](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291314778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-red-luxury-street-style.webp?v=1764980840
+    Price: $64.95 USD
+  - [Red / M](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291282010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-red-luxury-street-style.webp?v=1764980840
+    Price: $64.95 USD
+  - [Red / L](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291249242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-red-luxury-street-style.webp?v=1764980840
+    Price: $64.95 USD
+  - [Red / XL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291347546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-red-luxury-street-style.webp?v=1764980840
+    Price: $64.95 USD
+  - [Red / XXL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291380314)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-red-luxury-street-style.webp?v=1764980840
+    Price: $64.95 USD
+  - [Red / XXXL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291413082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-red-luxury-street-style.webp?v=1764980840
+    Price: $64.95 USD
+  - [White / S](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291511386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-white-winter-luxury.webp?v=1764980840
+    Price: $64.95 USD
+  - [White / M](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291478618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-white-winter-luxury.webp?v=1764980840
+    Price: $64.95 USD
+  - [White / L](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291445850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-white-winter-luxury.webp?v=1764980840
+    Price: $64.95 USD
+  - [White / XL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291544154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-white-winter-luxury.webp?v=1764980840
+    Price: $64.95 USD
+  - [White / XXL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291576922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-white-winter-luxury.webp?v=1764980840
+    Price: $64.95 USD
+  - [White / XXXL](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style?variant=42506291609690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-long-hooded-cardigan-coat-white-winter-luxury.webp?v=1764980840
+    Price: $64.95 USD
 - [Christmas Bracelet for Women - Festive Holiday Charms](https://ursupermart.com/products/christmas-bracelet-for-women-festive-holiday-charms): Christmas bracelet with colorful holiday charms adds festive cheer to any outfit. Express your holiday spirit and get yours today!
   Updated: 2025-12-04T14:10:10Z
   Vendor: S1B|S1|CJ
@@ -29670,7 +29882,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-fur-trimmed-knit-poncho-burgundy.webp?v=1764803244
     Price: $47.95 USD
 - [Faux Fur Vest Women - Stylish & Warm Sleeveless Design](https://ursupermart.com/products/faux-fur-vest-women-stylish-warm-sleeveless-design-for-autumn): Faux fur vest women: Elevate your style with luxurious warmth, a sleek sleeveless design, and chic leather-like trim. Discover yours today!
-  Updated: 2025-12-05T18:55:15Z
+  Updated: 2025-12-06T05:59:41Z
   Vendor: S1B|S1|CJ
   Product Type: Faux fur vest
   Availability: Available
@@ -29767,6 +29979,212 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/faux-fur-vest-with-collared-design-luxury-beige-front.webp?v=1764959362
     Price: $62.95 USD
+- [Plush Faux Fur Coat - Warm, Stylish & Ethical Outerwear](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women): Plush faux fur coat offers ethical warmth and chic style with its fluffy lapel and oversized collar; embrace luxurious fashion today!
+  Updated: 2025-12-06T13:57:39Z
+  Vendor: S1B|S1|CJ
+  Product Type: Faux fur coat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-multi-color-variant-showcase.webp?v=1764988716
+  - [Beige / XS](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379395162)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-beige-premium-style.webp?v=1764989139
+    Price: $64.95 USD
+  - [Beige / S](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379329626)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-beige-premium-style.webp?v=1764989139
+    Price: $64.95 USD
+  - [Beige / M](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379296858)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-beige-premium-style.webp?v=1764989139
+    Price: $64.95 USD
+  - [Beige / L](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379264090)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-beige-premium-style.webp?v=1764989139
+    Price: $64.95 USD
+  - [Beige / XL](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379362394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-beige-premium-style.webp?v=1764989139
+    Price: $64.95 USD
+  - [Beige / XXL](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379427930)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-beige-premium-style.webp?v=1764989139
+    Price: $64.95 USD
+  - [Black / XS](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379591770)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-black-rich-texture.webp?v=1764988745
+    Price: $64.95 USD
+  - [Black / S](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379526234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-black-rich-texture.webp?v=1764988745
+    Price: $64.95 USD
+  - [Black / M](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379493466)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-black-rich-texture.webp?v=1764988745
+    Price: $64.95 USD
+  - [Black / L](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379460698)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-black-rich-texture.webp?v=1764988745
+    Price: $64.95 USD
+  - [Black / XL](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379559002)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-black-rich-texture.webp?v=1764988745
+    Price: $64.95 USD
+  - [Black / XXL](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379624538)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-black-rich-texture.webp?v=1764988745
+    Price: $64.95 USD
+  - [Brown / XS](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379788378)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-brown-plush-classic.webp?v=1764988946
+    Price: $64.95 USD
+  - [Brown / S](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379722842)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-brown-plush-classic.webp?v=1764988946
+    Price: $64.95 USD
+  - [Brown / M](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379690074)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-brown-plush-classic.webp?v=1764988946
+    Price: $64.95 USD
+  - [Brown / L](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379657306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-brown-plush-classic.webp?v=1764988946
+    Price: $64.95 USD
+  - [Brown / XL](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379755610)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-brown-plush-classic.webp?v=1764988946
+    Price: $64.95 USD
+  - [Brown / XXL](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379821146)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-brown-plush-classic.webp?v=1764988946
+    Price: $64.95 USD
+  - [Camel / XS](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379952218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-camel-elegant-fit.webp?v=1764988963
+    Price: $64.95 USD
+  - [Camel / S](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379919450)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-camel-elegant-fit.webp?v=1764988963
+    Price: $64.95 USD
+  - [Camel / M](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379886682)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-camel-elegant-fit.webp?v=1764988963
+    Price: $64.95 USD
+  - [Camel / L](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379853914)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-camel-elegant-fit.webp?v=1764988963
+    Price: $64.95 USD
+  - [Gray / XS](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380116058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-grey-soft-winter.webp?v=1764989019
+    Price: $64.95 USD
+  - [Gray / S](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380050522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-grey-soft-winter.webp?v=1764989019
+    Price: $64.95 USD
+  - [Gray / M](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380017754)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-grey-soft-winter.webp?v=1764989019
+    Price: $64.95 USD
+  - [Gray / L](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506379984986)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-grey-soft-winter.webp?v=1764989019
+    Price: $64.95 USD
+  - [Gray / XL](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380083290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-grey-soft-winter.webp?v=1764989019
+    Price: $64.95 USD
+  - [Gray / XXL](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380148826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-grey-soft-winter.webp?v=1764989019
+    Price: $64.95 USD
+  - [Ivory White / XS](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380279898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-ivory-soft-luxury.webp?v=1764989139
+    Price: $64.95 USD
+  - [Ivory White / S](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380247130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-ivory-soft-luxury.webp?v=1764989139
+    Price: $64.95 USD
+  - [Ivory White / M](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380214362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-ivory-soft-luxury.webp?v=1764989139
+    Price: $64.95 USD
+  - [Ivory White / L](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380181594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-ivory-soft-luxury.webp?v=1764989139
+    Price: $64.95 USD
+  - [Light Gray / XS](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380443738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-grey-soft-classic.webp?v=1764989102
+    Price: $64.95 USD
+  - [Light Gray / S](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380378202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-grey-soft-classic.webp?v=1764989102
+    Price: $64.95 USD
+  - [Light Gray / M](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380345434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-grey-soft-classic.webp?v=1764989102
+    Price: $64.95 USD
+  - [Light Gray / L](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380312666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-grey-soft-classic.webp?v=1764989102
+    Price: $64.95 USD
+  - [Light Gray / XL](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380410970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-grey-soft-classic.webp?v=1764989102
+    Price: $64.95 USD
+  - [Light Gray / XXL](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380476506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-grey-soft-classic.webp?v=1764989102
+    Price: $64.95 USD
+  - [Light Pink / XS](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380607578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-light-pink-chic-design.webp?v=1764988946
+    Price: $64.95 USD
+  - [Light Pink / S](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380574810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-light-pink-chic-design.webp?v=1764988946
+    Price: $64.95 USD
+  - [Light Pink / M](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380542042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-light-pink-chic-design.webp?v=1764988946
+    Price: $64.95 USD
+  - [Light Pink / L](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380509274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-light-pink-chic-design.webp?v=1764988946
+    Price: $64.95 USD
+  - [Light Pink / XXL](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380640346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-light-pink-chic-design.webp?v=1764988946
+    Price: $64.95 USD
+  - [Pink / XS](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380705882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-pink-trendy-plush.webp?v=1764988745
+    Price: $64.95 USD
+  - [Pink / M](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380673114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-pink-trendy-plush.webp?v=1764988745
+    Price: $64.95 USD
+  - [Pink / XXL](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380738650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-pink-trendy-plush.webp?v=1764988745
+    Price: $64.95 USD
+  - [White / XS](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380902490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-white-premium-winter.webp?v=1764988827
+    Price: $64.95 USD
+  - [White / S](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380836954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-white-premium-winter.webp?v=1764988827
+    Price: $64.95 USD
+  - [White / M](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380804186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-white-premium-winter.webp?v=1764988827
+    Price: $64.95 USD
+  - [White / L](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women?variant=42506380771418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/luxury-faux-fur-coat-white-premium-winter.webp?v=1764988827
+    Price: $64.95 USD
 - [Santa Costumes for Adults - Complete Professional Set](https://ursupermart.com/products/santa-costumes-for-adults-complete-professional): Santa costumes for adults: this complete 7-piece set brings joy with vibrant red and faux fur trim, perfect for any event. Spread cheer, shop now!
   Updated: 2025-12-04T14:10:22Z
   Vendor: @S1B|S1|CJ
@@ -30789,6 +31207,180 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/654ab3e7-bdfa-4ebe-b4cf-e68b38ae26ea.jpg?v=1762443489
     Price: $124.95 USD
+- [Faux Fur Hooded Poncho - Warm & Stylish Outerwear](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho): This faux fur hooded poncho offers cozy warmth, stylish comfort, and practical pockets for any occasion; discover your perfect versatile layer today!
+  Updated: 2025-12-06T12:52:18Z
+  Vendor: S1B|S1|CJ
+  Product Type: Hooded poncho
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-multi-color-collection-showcase.webp?v=1764984607
+  - [Black / S](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890112602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-black-luxury-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [Black / M](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890079834)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-black-luxury-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [Black / L](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890047066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-black-luxury-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [Black / XL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890145370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-black-luxury-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [Black / XXL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890178138)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-black-luxury-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [Black / XXXL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890210906)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-black-luxury-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [Brown / S](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890309210)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-brown-classic-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [Brown / M](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890276442)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-brown-classic-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [Brown / L](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890243674)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-brown-classic-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [Brown / XL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890341978)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-brown-classic-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [Brown / XXL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890374746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-brown-classic-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [Brown / XXXL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890407514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-brown-classic-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [Gray / S](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890505818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-grey-soft-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Gray / M](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890473050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-grey-soft-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Gray / L](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890440282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-grey-soft-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Gray / XL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890538586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-grey-soft-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Gray / XXL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890571354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-grey-soft-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Gray / XXXL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890604122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-grey-soft-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Green / S](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890702426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-green-elegant-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Green / M](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890669658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-green-elegant-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Green / L](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890636890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-green-elegant-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Green / XL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890735194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-green-elegant-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Green / XXL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890767962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-green-elegant-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Green / XXXL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890800730)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-green-elegant-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Pink / S](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890899034)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-pink-trendy-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Pink / M](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890866266)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-pink-trendy-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Pink / L](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890833498)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-pink-trendy-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Pink / XL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890931802)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-pink-trendy-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Pink / XXL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890964570)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-pink-trendy-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Pink / XXXL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527890997338)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-pink-trendy-fur-hood.webp?v=1764984607
+    Price: $64.95 USD
+  - [Red / S](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527891095642)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-red-bold-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [Red / M](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527891062874)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-red-bold-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [Red / L](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527891030106)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-red-bold-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [Red / XL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527891128410)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-red-bold-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [Red / XXL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527891161178)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-red-bold-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [Red / XXXL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527891193946)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-red-bold-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [White / S](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527891292250)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-white-premium-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [White / M](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527891259482)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-white-premium-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [White / L](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527891226714)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-white-premium-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [White / XL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527891325018)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-white-premium-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [White / XXL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527891357786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-white-premium-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
+  - [White / XXXL](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho?variant=42527891390554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-cape-coat-white-premium-fur-trim.webp?v=1764984607
+    Price: $64.95 USD
 - [Women's Quilted Puffer Jacket Warm and Flattering](https://ursupermart.com/products/womens-quilted-puffer-jacket-warm-and-flattering-outerwear): Womens quilted puffer jacket: Stay warm and stylish with this packable, flattering jacket featuring a tie-waist and wide collar. Shop now for versatile comfort
   Updated: 2025-12-04T14:12:46Z
   Vendor: S1B|S1|CJ
@@ -32842,7 +33434,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-brown-front.webp?v=1763339377
     Price: $94.95 USD
 - [Arthritis Gloves Copper for Hand Pain Relief & Swelling](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling): Arthritis gloves provide soothing warmth and compression for hand pain, swelling, and stiffness. Regain comfort and tackle daily tasks with ease—shop now!
-  Updated: 2025-12-04T14:17:50Z
+  Updated: 2025-12-06T10:26:50Z
   Vendor: S1B|S1|CJ
   Product Type: Arthritis gloves
   Availability: Available
@@ -32920,7 +33512,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-small-size-compression.webp?v=1763336479
     Price: $23.95 USD
 - [Glow bears: Comforting light up teddy for kids sleep](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep): Glow bears offer soft, multi-colored comfort, perfect for kids afraid of the dark. Tap to light up this cuddly friend and bring home a soothing companion today!
-  Updated: 2025-12-04T14:17:59Z
+  Updated: 2025-12-06T05:26:42Z
   Vendor: S1B|S1|CJ
   Product Type: Light up teddy bear
   Availability: Available
@@ -33638,7 +34230,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/facial-steamer-skin-problems-promo.webp?v=1763254343
   Price: $38.95 USD
 - [Fur Jacket - Cozy Faux Hooded Warmth & Style](https://ursupermart.com/products/fur-jacket-cozy-faux-hooded-warmth-and-style): This cozy fur jacket offers warmth and style with its hooded, oversized design and soft faux fur; grab yours to stay comfy all season!
-  Updated: 2025-12-04T14:20:36Z
+  Updated: 2025-12-06T06:28:15Z
   Vendor: S1B|S1|CJ
   Product Type: Faux fur jacket
   Availability: Available
@@ -33950,7 +34542,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/waterproof-raincoat-women-navy-windbreaker-jacket.webp?v=1763265349
     Price: $46.95 USD
 - [Biker Jacket Women Suede Edgy Style Flattering Fit](https://ursupermart.com/products/womens-suede-biker-jacket-edgy-fall-flattering-fit): Biker jacket for women: Elevate your style with this edgy, flattering jacket, perfect for fall and any occasion; discover your perfect fit today!
-  Updated: 2025-12-04T14:21:17Z
+  Updated: 2025-12-06T05:26:41Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Biker Jacket
   Availability: Available
@@ -34415,7 +35007,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/indoor-putting-green-size-specs-view.webp?v=1762485223
   Price: $129.95 USD
 - [Christmas Elf Doll Funny Ozzy Rocker Holiday Gag Gift](https://ursupermart.com/products/christmas-elf-doll-funny-rocker-gag-gift-holiday-decor): This funny christmas elf doll, resembling a rock legend, brings humorous, poseable fun to your holidays. Grab this unique decoration and make everyone laugh!
-  Updated: 2025-12-05T00:24:37Z
+  Updated: 2025-12-06T22:45:53Z
   Vendor: S1B|S1|CJ
   Product Type: Novelty Doll
   Availability: Available
@@ -35133,7 +35725,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-wool-coat-blush-pink-feminine.webp?v=1762465043
     Price: $82.95 USD
 - [Wool Pea Coat for Women - Warm Winter Style & Slim Fit](https://ursupermart.com/products/womens-slim-fit-warm-wool-pea-coat-winter-style): This wool pea coat for women offers warmth and timeless style with a slim fit, stand collar, and pockets for fall and winter. Shop now for elegant comfort!
-  Updated: 2025-12-04T14:24:06Z
+  Updated: 2025-12-06T02:29:56Z
   Vendor: S1B|S1|CJ
   Product Type: Wool Pea Coat
   Availability: Available
@@ -35339,7 +35931,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wool-pea-coat-camel-urban-style.webp?v=1763242254
     Price: $54.95 USD
 - [Women Coats: Warm & Stylish Belted Winter Outerwear](https://ursupermart.com/products/women-coats-warm-stylish-belted-winter-outerwear): Women coats provide stylish warmth with a flattering belted design, perfect for any occasion. Stay cozy and confident all winter long; find your perfect fit and color today!
-  Updated: 2025-12-04T19:27:05Z
+  Updated: 2025-12-06T07:28:16Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Coat
   Availability: Available
@@ -36421,7 +37013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/padded-puffer-jacket-pink-flat-view.webp?v=1762527796
     Price: $67.95 USD
 - [Nativity Scene Decor - Soft Glow Christmas Light](https://ursupermart.com/products/nativity-scene-decor-soft-glow-christmas-light): Nativity scene light: Add a modern, artistic touch to your home with this layered Christmas decor, featuring illuminated stars and a soft glow. Shop now!
-  Updated: 2025-12-04T14:26:34Z
+  Updated: 2025-12-06T03:26:57Z
   Vendor: @S1B|S1|CJ
   Product Type: Nativity scene decor
   Availability: Available
@@ -36561,7 +37153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-cardigan-sweater-maroon-black-pattern.webp?v=1763084502
     Price: $54.95 USD
 - [Winter Jackets for Men - Warm & Windproof for Cold](https://ursupermart.com/products/winter-jackets-for-men-warm-windproof-cold-weather): Winter jackets for men keep you warm and dry with a plush lining, adjustable hood, and multiple pockets; stay comfortable in any cold weather. Shop now!
-  Updated: 2025-12-04T14:27:33Z
+  Updated: 2025-12-06T01:26:46Z
   Vendor: S1B|S1|CJ
   Product Type: Men's Outdoor Jacket
   Availability: Available
@@ -37652,7 +38244,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/94f53985-cab8-49e8-88ce-c7781ceea59a.jpg?v=1763756239
   Price: $1.00 USD
 - [Cardinal Bird Necklace - Meaningful Comforting Gift](https://ursupermart.com/products/cardinal-bird-necklace-heart-shaped-pendant-meaningful-comforting-gift): Cardinal bird necklace: Discover a comforting silver pendant, a beautiful reminder of cherished memories and loved ones. Find your meaningful connection here today!
-  Updated: 2025-12-04T14:29:35Z
+  Updated: 2025-12-06T02:29:56Z
   Vendor: S1B|S1|CJ
   Product Type: Necklace
   Availability: Available
@@ -38282,7 +38874,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/silver-snowman-necklace-pendant-on-table.webp?v=1764191428
     Price: $1.00 USD
 - [Christmas Tree Earrings Festive Gold Gemstone Sparkle](https://ursupermart.com/products/christmas-tree-earrings-festive-gold-gemstone-sparkle-shine): Christmas tree earrings instantly elevate your holiday look with festive sparkle and charm; express your spirit and shop now to shine bright this season!
-  Updated: 2025-12-04T14:30:51Z
+  Updated: 2025-12-06T00:26:51Z
   Vendor: S1B|S1|CJ
   Product Type: Earrings
   Availability: Available
@@ -39955,6 +40547,27 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/magnetic-4-in-1-wireless-charging-station-black-dark-mode.webp?v=1764548158
     Price: $47.95 USD
+- [Fur Hooded Coat Warm Stylish Cruelty Free](https://ursupermart.com/products/fur-hooded-coat-warm-stylish-cruelty-free-oversize): Stay warm and chic in our Fur Hooded Coat, featuring an oversized fit and large hood for ultimate comfort; shop now for cruelty-free style!
+  Updated: 2025-12-06T21:22:59Z
+  Vendor: S1B|S1|CJ
+  Product Type: fur hooded coat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fur-hooded-coat-premium-grey-oversized.webp?v=1765055755
+  - [Black / Free Size](https://ursupermart.com/products/fur-hooded-coat-warm-stylish-cruelty-free-oversize?variant=42635044946010)
+    Availability: Available
+    Price: $92.95 USD
+  - [Blue / Free Size](https://ursupermart.com/products/fur-hooded-coat-warm-stylish-cruelty-free-oversize?variant=42635044978778)
+    Availability: Available
+    Price: $92.95 USD
+  - [Gray / Free Size](https://ursupermart.com/products/fur-hooded-coat-warm-stylish-cruelty-free-oversize?variant=42635045011546)
+    Availability: Available
+    Price: $92.95 USD
+  - [Pink / Free Size](https://ursupermart.com/products/fur-hooded-coat-warm-stylish-cruelty-free-oversize?variant=42635045044314)
+    Availability: Available
+    Price: $92.95 USD
+  - [White / Free Size](https://ursupermart.com/products/fur-hooded-coat-warm-stylish-cruelty-free-oversize?variant=42635045077082)
+    Availability: Available
+    Price: $92.95 USD
 
 ## Collections
 
@@ -39974,13 +40587,13 @@
   Updated: 2025-12-01T21:48:01Z
   Total Products: 24
 - [Top Phone Accessories for Style, Charging & Protection](https://ursupermart.com/collections/top-phone-accessories-best-charging-cables): Shop phone accessories that combine function, fashion, and value. Free shipping and 10% off your first order. Stay charged and stylish every day.
-  Updated: 2025-11-29T23:22:11Z
-  Total Products: 38
+  Updated: 2025-12-06T17:02:23Z
+  Total Products: 39
 - [Smart Home Devices That Make Life Easier 2025: Complete](https://ursupermart.com/collections/smart-home-devices-make-life-easier): Smart home devices that make daily tasks easier. Security cameras, smart lights & kitchen gadgets $9-45. Free shipping, 14-day returns, expert support today!
-  Updated: 2025-12-01T02:03:49Z
-  Total Products: 93
+  Updated: 2025-12-06T17:02:23Z
+  Total Products: 94
 - [Amazing Cozy Christmas Decor Deals Starting at Just $12](https://ursupermart.com/collections/cozy-christmas-decor-deals-under-30): Transform your home with cozy christmas decor deals under $30. Budget friendly holiday decorating solutions for Instagram-worthy spaces. Shop now!
-  Updated: 2025-12-05T12:07:50Z
+  Updated: 2025-12-06T12:08:00Z
   Total Products: 23
 - [LED Halloween Costumes & Masks | Spooky Accessories 2025](https://ursupermart.com/collections/spooky-wearable-tech-costumes): Shop LED Halloween costumes & masks that light up, move & make spooky sounds! Glow-in-the-dark Halloween accessories & decorations. Tech Halloween 2025!
   Updated: 2025-11-01T02:07:14Z
@@ -39992,17 +40605,17 @@
   Updated: 2025-12-01T23:19:23Z
   Total Products: 90
 - [Best Cyber Monday Deals Under 25 Tech Gifts & Free Shipping](https://ursupermart.com/collections/cyber-monday-deals-under-25): Discover cyber monday deals under 25 on quality tech gifts with free shipping today. Perfect holiday tech gifts under 25 that solve real problems for everyone.
-  Updated: 2025-12-05T12:07:50Z
-  Total Products: 20
+  Updated: 2025-12-06T17:02:23Z
+  Total Products: 21
 - [Best Budget Tech Gifts Under $15: Viral TikTok Finds 2025](https://ursupermart.com/collections/tech-gifts-under-15-viral-tiktok): Shop 15 viral TikTok tech gifts under $15 that actually work. Budget wireless earbuds, phone accessories & trending gadgets. Free shipping. Limited stock!
   Updated: 2025-12-01T01:26:24Z
   Total Products: 87
 - [Secret Santa Gifts under $30: Unique Ideas That Won't Break the Bank](https://ursupermart.com/collections/christmas-gift-ideas-under-30): Christmas Gifts That Won't Break the Bank Discover the perfect Christmas gifts for everyone on your list without exceeding your budget! Our collection features a wide array of items, all priced under $30, making it easier than ever to find thoughtful gifts that won't strain your wallet. Whether you're shopping for friends, family, or co-workers, these budget-friendly options are ideal for Secret Santa gifts, stocking stuffers, and last-minute surprises. Plus, enjoy the added benefit of free shipping on all orders, ensuring that your holiday shopping is both convenient and cost-effective. Stocking Stuffers for Everyone Looking for stocking stuffers that are sure to delight? Our curated selection includes fun and practical items perfect for filling those stockings this holiday season. From stylish fashion accessories to quirky kitchen gadgets, there’s something for everyone. These unique gifts are not only affordable but also thoughtful, making them ideal for anyone from your office buddy to your favorite aunt. Explore our collection and find the perfect small treasures that will bring joy to your loved ones. Best Holiday Gift Ideas Under $30 Finding the best holiday gift ideas can be a challenge, especially when you're on a budget. Our collection is designed with this in mind, offering a variety of delightful options that cater to all tastes and interests. Choose from trendy women's clothing, sleek watches, or handy electronics that make great gifts for men and women alike. Each item is carefully selected to ensure quality and style while keeping prices low. This holiday season, impress your friends and family with thoughtful gifts that show you care without overspending. Christmas Gifts for Men and Women Searching for Christmas gifts for men or Christmas gifts for women? Look no further! Our diverse collection has something special for everyone. Whether you're shopping for a tech enthusiast who loves gadgets or a fashion-forward friend who appreciates stylish accessories, our range of products includes everything from phone cases to massagers. These gifts are perfect for all ages, making them suitable for friends, family members, or even co-workers participating in office gift exchanges. Stocking Stuffer Ideas That Shine When it comes to stocking stuffer ideas, creativity is key! Our collection features an assortment of small yet impactful gifts that are sure to impress. Consider fun toys, trendy glasses, or unique kitchen gadgets as delightful additions to any stocking. Each item is thoughtfully chosen to bring smiles without breaking the bank. These stocking stuffers are not just practical; they also add a touch of excitement to the holiday festivities. Secret Santa Gifts Everyone Will Love Participating in a Secret Santa exchange? Our selection of Secret Santa gifts is perfect for surprising your colleagues or friends with something unique and enjoyable. From stylish bags to charming Christmas ornaments, each gift is under $30 and designed to bring joy without the stress of overspending. Make your Secret Santa memorable with our thoughtful picks that cater to diverse tastes. Gift Ideas for Those Who Have Everything Struggling with what to buy for those who seem to have it all? Our collection includes gifts for men who have everything, offering practical yet fun items that they might not have thought to buy themselves. From innovative electronics to fashionable accessories, these unique finds will surely impress even the hardest-to-shop-for individuals on your list. Christmas Gifts for Mom That Show You Care Show your appreciation this holiday season with thoughtful Christmas gifts for mom. Our selection includes lovely fashion accessories and cozy items that she will cherish. Each gift is designed with love and care, ensuring that you can express how much she means to you without exceeding your budget. Celebrate her this Christmas with a gift that reflects her personality and style. Holiday Sales You Can't Miss Take advantage of our incredible holiday sales! With every item priced under $30 and free shipping included, you can shop confidently knowing you're getting the best deals this season. Don’t miss out on these fantastic offers—perfect for last-minute shoppers looking to spread some holiday cheer without spending too much. This holiday season, make your shopping experience enjoyable and stress-free with our extensive collection of budget-friendly gifts. Each item is selected not just for its affordability but also for its ability to bring joy and happiness during this festive time of year. Whether you're looking for stocking stuffers or meaningful presents, our collection has everything you need to make this Christmas unforgettable!
-  Updated: 2025-12-05T12:07:50Z
-  Total Products: 29
+  Updated: 2025-12-06T17:02:23Z
+  Total Products: 30
 - [Viral Tech Gadgets Under $50 TikTok Users Are Buying Now](https://ursupermart.com/collections/viral-tech-gadgets-under-50): Shop viral tech gadgets under $50 trending on TikTok 2025. Power banks, gaming consoles & flashlights with free shipping. Limited holiday deals now!
-  Updated: 2025-12-04T15:23:36Z
-  Total Products: 42
+  Updated: 2025-12-06T17:02:23Z
+  Total Products: 43
 - [Best Stocking Stuffers Under $15: Affordable Gift Ideas 2025](https://ursupermart.com/collections/stocking-stuffers-under-15-dollars): Stocking stuffers under $15 that look amazing. Budget gifts with free shipping. Quality items for everyone on your list. Shop smart and save money this holiday!
   Updated: 2025-12-03T22:22:11Z
   Total Products: 97
@@ -40016,14 +40629,14 @@
   Updated: 2025-12-04T04:43:15Z
   Total Products: 19
 - [TikTok Trending Gadgets That Solve Everyday Problems Now](https://ursupermart.com/collections/trending-gadgets-problem-solvers): Shop TikTok trending gadgets that solve your daily problems! Cool gadgets, problem solvers, gift ideas with free shipping. Christmas sale ends soon!
-  Updated: 2025-11-30T20:05:07Z
-  Total Products: 74
+  Updated: 2025-12-06T17:02:23Z
+  Total Products: 75
 - [2025 Beauty & Self Care Guide: Products That Really Work](https://ursupermart.com/collections/best-beauty-self-care-products-2025): Find beauty & self care products that work in 2025. Expert-tested skincare routines, anti-aging treatments, and wellness essentials. Free shipping!
   Updated: 2025-11-17T01:00:00Z
   Total Products: 45
 - [Phone Accessories Going Viral: Best TikTok Picks 2025](https://ursupermart.com/collections/viral-phone-accessories-tiktok-collection): Shop viral phone accessories from TikTok! Find wireless chargers, power banks, car mounts & cases. Free shipping, 14-day returns. Starting at $14!
-  Updated: 2025-12-01T19:43:02Z
-  Total Products: 63
+  Updated: 2025-12-06T17:02:23Z
+  Total Products: 64
 - [Affordable Quality Activewear - Squat-Proof Leggings $20-100](https://ursupermart.com/collections/best-womens-activewear-collection): Quality activewear that won't break the bank. Squat-proof leggings, inclusive sizing XS-3X, $20-100. Free shipping on all orders. Shop now!
   Updated: 2025-11-27T16:39:13Z
   Total Products: 45
@@ -40031,8 +40644,8 @@
   Updated: 2025-11-29T23:22:11Z
   Total Products: 58
 - [Best Summer Dresses | Cotton Maxi Mini Beach Styles XS-3X](https://ursupermart.com/collections/summer-dresses-maxi-mini-beach-xs-3x): Shop trendy 2025 summer dresses! Affordable cotton maxi, mini & beach styles XS-3X. Lightweight, breathable fabrics for vacation & everyday. Free shipping!
-  Updated: 2025-11-18T19:28:43Z
-  Total Products: 35
+  Updated: 2025-12-06T21:44:19Z
+  Total Products: 37
 - [Affordable Prom Dresses: Stunning Formal Wear Under $60 2025](https://ursupermart.com/collections/affordable-prom-dresses-2025-collection): Shop affordable prom dresses from $60! Gorgeous formal dresses & evening gowns in all sizes. Free shipping & returns. Find your perfect dress!
   Updated: 2025-10-05T20:15:57Z
   Total Products: 25
@@ -40040,7 +40653,7 @@
   Updated: 2025-10-01T23:31:57Z
   Total Products: 33
 - [Gift Ideas – Unique, Cool, and Affordable Picks](https://ursupermart.com/collections/gift-ideas): Explore Gift Ideas for every occasion. Find unique, cool, and affordable gifts for birthdays, holidays, and special moments, all in one place and free shipping.
-  Updated: 2025-12-05T12:07:50Z
+  Updated: 2025-12-06T12:08:00Z
   Total Products: 55
 - [Top Mens Watches 2025: Luxury Waterproof Sales Under $125!](https://ursupermart.com/collections/best-mens-watches-luxury-waterproof): Shop trending mens watches 2025! Best waterproof luxury watches and stylish watches for men $15-$125. Free shipping, hassle-free returns!
   Updated: 2025-12-05T17:23:30Z
@@ -40052,10 +40665,10 @@
   Updated: 2025-12-02T20:24:48Z
   Total Products: 12
 - [Shop Women's Winter Coats: Warm, Stylish & Budget-Friendly](https://ursupermart.com/collections/womens-winter-coats-affordable-2026): Find affordable women's winter coats, jackets & sweaters for work and weekend. Cozy styles under $150 with free shipping. Shop winter clothing deals now!
-  Updated: 2025-12-05T18:52:30Z
-  Total Products: 41
+  Updated: 2025-12-06T21:39:49Z
+  Total Products: 53
 - [Free Gifts for Everyone: Quality Jewelry Collection 2025](https://ursupermart.com/collections/free-gifts-for-everyone): Free gifts for everyone including chains, watches, rings and necklaces. Quality jewelry at zero cost for holiday gifting. Free shipping included.
-  Updated: 2025-12-05T03:25:24Z
+  Updated: 2025-12-06T17:50:24Z
   Total Products: 91
 
 ## Blogs
