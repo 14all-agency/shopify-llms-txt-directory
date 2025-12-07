@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2024-09-14T12:12:19Z
 - Contact Email: golyoltd@gmail.com
-- Updated At: 2025-12-05T00:00:41.304Z
+- Updated At: 2025-12-07T00:00:41.308Z
 
 ## Products
 
 - [Viral Milkmaid Corset Dress](https://qingsnkueens.com/products/viral-milkmaid-corset-dress): This corset-style dress merges modern appeal with timeless simplicity, featuring delicate straps and flowy silhouettes that create a refined yet relaxed vibe, ideal for day or night.
-  Updated: 2025-11-26T07:12:58Z
+  Updated: 2025-12-06T09:09:46Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -197,7 +197,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/carmen-21.jpg?v=1726984394
     Price: $19.99 USD
 - [Comfy Foot Heated Slippers](https://qingsnkueens.com/products/cozyfoot™-heated-slippers-detachable-usb-electric-foot-warmer-function-power-saving-safe-start-warm-foot-cover-feet-heating-pad-heater-shoes-heating-pads): Say Goodbye To Cold Feet! Introducing The Comfy Foot Heated Slippers - the easiest and coziest way to stay warm this winter! Our USB-powered electric foot warmer is the perfect solution for discomfort on those icy cold winter nights! The Perfect Gift For Winter! Searching for the perfect Christmas gift for your loved ones? Look no further! The Comfy Foot makes for the perfect gift for those who complain about those cold winter nights - or even those who just love to be cozy!
-  Updated: 2025-11-26T07:12:58Z
+  Updated: 2025-12-06T09:09:46Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -211,7 +211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5.jpg?v=1733430595
     Price: $29.95 USD
 - [The Viral Sweats](https://qingsnkueens.com/products/the-viral-sweats): - Ultra Comfy - Endless compliments - Limited fall edition
-  Updated: 2025-11-26T07:12:58Z
+  Updated: 2025-12-06T09:09:46Z
   Vendor: Qings & Kueens
   Product Type: Pants
   Availability: Available
@@ -247,14 +247,14 @@
     Availability: Available
     Price: $24.95 USD
 - [Grandma's Perfect Batch Christmas Gift - Personalized Wearable Blanket Hoodie](https://qingsnkueens.com/products/grandmas-perfect-batch-christmas-gift-personalized-wearable-blanket-hoodie): PRODUCT DETAILS: Material: Made from ultra-soft fleece fabric and premium cashmere that are gentle on the skin, offering a perfect combination of warmth and comfort. Size:+ Kids: 50 x 40 inches (~ 127 x 102 cm), not include hood length.+ Standard: 73 x 47 inches (~ 185.42 x 119.38 cm), not include hood length. 1-sided printed. The attached hood and mittens provide additional warmth for the head and hands, making it ideal for lounging or staying cozy during cold weather. Care Instruction: Machine wash separately in cold water, tumble dry on low heat.
-  Updated: 2025-11-26T07:12:58Z
+  Updated: 2025-12-06T09:09:46Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Grandmas-Perfect-Batch-Christmas-Gift-Personalized-Wearable-Hooded-Blanket_1.jpg?v=1733944782
   Price: $36.00 USD
 - [Hawaii Hibiscus" Oversized Hoodie](https://qingsnkueens.com/products/hawaii-hibiscus-oversized-hoodie): 🌺 Tropical Design ☁️ Thick & Comfy 🌴Affordable & Great Quality 🌺 "Hawaii Hibiscus" Oversized Hoodie 🌺 Embrace tropical vibes with our "Hawaii Hibiscus" Oversized Hoodie! 🌴 This cozy hoodie features a vibrant hibiscus flower design, capturing the essence of Hawaii's natural beauty. Crafted from ultra-soft, premium fabric, it offers warmth and exceptional comfort. 🥰 The oversized fit provides a stylish, relaxed look perfect for layering. With an adjustable drawstring hood and a spacious front pocket, it's ideal for beach walks 🏖️, casual outings 🛍️, or lounging at home 🏠. Add a splash of paradise to your wardrobe with this must-have hoodie! ✨
-  Updated: 2025-11-26T07:12:58Z
+  Updated: 2025-12-06T09:09:46Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -380,7 +380,7 @@
     Availability: Available
     Price: $36.99 USD
 - [Melania Sweater Dress](https://qingsnkueens.com/products/melania-sweater-dress): Machine wash cold, with like colorsOnly non-chlorine bleachReshape and lay flat to dryLow iron if neededDo not dry clean 52% Polyester25% Viscose23% Nylon
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T09:09:46Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -428,7 +428,7 @@
     Availability: Available
     Price: $29.99 USD
 - [Handbag Crossbody Bags For Women, Faux Fur Plush Zipper Satchels](https://qingsnkueens.com/products/handbag): Our Purse features ultra-soft faux fur, durable vegan leather straps, and elegant gold-tone hardware. Each purse is as functional as it is stylish, with a smooth, easy-to-clean interior and quality materials that capture the charm of your favorite feline in a cruelty-free design. MEASUREMENTS Fits iPhone Max, large wallet, make-up essentials, compact mirror + more Height: 12 cmLength: 23 cmWidth: 13.5 cm FEATURESLuxe Faux Leather strapCrossbody chainPaw Print ZipperLined with a cat pattern inside
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T09:09:47Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -461,7 +461,7 @@
     Availability: Available
     Price: $139.00 USD
 - [Sexy Sequined Black Mini Party Dress Women Short Sleeve O Neck Sleeveless Dress Fashion 2024 Summer Evening Club Dress](https://qingsnkueens.com/products/sexy-sequined-black-mini-party-dress-women-short-sleeve-o-neck-sleeveless-dress-fashion-2024-summer-evening-club-dress): Product Feature Shimmering Elegance: Crafted with premium sequins, this mini dress exudes opulence and glamour. The shiny fabric catches the light, making you the center of attention at any event. Flattering Silhouette: Designed with an O-neck and fly sleeves, this dress accentuates your curves while providing a comfortable and relaxed fit. The short length adds a touch of playfulness and femininity. Versatile Occasion Wear: Perfect for a variety of occasions, this dress is versatile enough to be dressed up or down. It's ideal for Christmas parties, evening events, cocktail hours, or a night out on the town. Quality Construction: Made with meticulous attention to detail, this dress is crafted from durable materials that ensure longevity. The high-quality construction ensures it will remain a staple in your wardrobe for seasons to come. Thoughtful Design: Featuring an elegant O-neck and chic fly sleeves, this dress offers both style and comfort. The short length adds a touch of playfulness, making it perfect for any occasion.
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T09:09:47Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -497,7 +497,7 @@
     Availability: Available
     Price: $29.99 USD
 - [ZANA MINI DRESSES](https://qingsnkueens.com/products/zana-mini-dresses): Introducing our most admirable mini dresses yet... fall in love with our 'Zana Mini Dresses' in Baby Pink. Cut from an Outcast exclusive floral lace fabrication, we're obsessed with the contoured corset feature that is complete with a lace up back for a vintage feel. Zana mini dresses has delicate lace off-the-shoulder straps to give the illusion of an elongated decolletage, along with an invisible zip closure at the side for easy on-off. She sits at a mini length and is fully lined for comfort and fit. Style with strappy heels and statement earrings for a complete look that will captivate all night long!
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T09:09:47Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -575,7 +575,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6FF22499-20E4-44DB-B75A-855D0F754FF62_1350x1800_adf6ca92-529f-45fc-a76e-8d36c3c4d387.webp?v=1734187927
     Price: $78.00 USD
 - [Fluffy Paws - Warm Over Knee Socks](https://qingsnkueens.com/products/fluffy-paws-warm-over-knee-socks): Women Floor Socks Warm Cozy Over-the-knee Velvet Floor Socks Thick Anti-slip Leg Warmers for Unisex Home Comfort Thick FloorDescription:Cozy and stylish over-the-knee socks made from a soft polyester blend.provides maximum comfort and warmth for winter or cooler days.highly elastic material ensures a for most sizes.unique design with an elastic top prevents the socks from falling off.can be worn as open-toed or toeless socks, suitable for all occasions.Item Name: Floor SocksMaterial: Double Sided VelvetGender: UnisexSeason: WinterFeatures: Thick, Elastic, WarmSize Detail:L: 55cm/21.65", W: 42cm/16.54", H: 26cm/10.24" (Approx.)Notes:Due to the light and screen setting difference, the item's color may be slightly different from the pictures.Please allow slight dimension difference due to different manual measurement.Package Includes:1 Pair of Floor Socks
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T09:09:47Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -593,7 +593,7 @@
     Availability: Available
     Price: $29.97 USD
 - [Alana Let Loose Mini Dress](https://qingsnkueens.com/products/alana-let-loose-mini-dress): Get ready to dazzle at your next holiday celebration with the stunning Alana Let Loose Mini Dress in Deep Red. This dress is the perfect blend of festive fun and elegant charm. Featuring a strapless design and flattering mini length, it’s a statement piece that ensures you stand out at any Christmas party. The gorgeous deep red tone evokes all the seasonal magic, while the folded hem design adds a chic touch. The hidden center-back zipper keeps the look sleek and polished, and the super soft, textured fabric makes this dress as comfortable as it is beautiful.
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T09:09:47Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -629,7 +629,7 @@
     Availability: Available
     Price: $34.95 USD
 - [NOIR MINI DRESS - BLACK/WHITE](https://qingsnkueens.com/products/noir-mini-dress-black-white): This romantic yet modern design is at the top of our wishlist. Stand out in the Noir Bloom, crafted with a contrasting Bardot neckline that highlights your shoulders and finished with a delicate bow detail at the back. Its playful mini length and rounded, bubble skirt complete this unforgettable look. •Colour: Black/White •Material: Premium non-stretch crepe •Lining: Fully lined •Neckline: Contrast Bardot •Back Detail: Bow accent •Skirt Style: Rounded, bubble shape •Closure: Invisible zipper fastening •Length: Mini
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:09:47Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -665,7 +665,7 @@
     Availability: Available
     Price: $29.99 USD
 - [MAMA Sequined Tie-back Dress](https://qingsnkueens.com/products/mama-sequined-tie-back-dress): Front Round neckline, low-cut V-neck at back with a wide grosgrain ribbon to tie at back of neck, and long sleeves. Sequin dress made of high quality polyester, comfortable and soft inside, adopts beautiful sequin, when dancing, it will sparkle, which makes you look sexy. Elegant and striking, a sparkly dress will show off your best features this party night. Elegant and eye-catching, the sequin dress will show your best side in this party night. Features: Model size: The model is 182cm/6'0" and wears a size S Sleeve Length: Long sleeve Fit: Regular fit Style: A-line, Plunge Back Neckline: White/sequins,Black/sequins,Pink Description: White, Solid-color Concept: EVERYDAY FASHION
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:09:47Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -713,7 +713,7 @@
     Availability: Available
     Price: $42.99 USD
 - [Viral Heart Hoodie](https://qingsnkueens.com/products/viral-heart-hoodie): Material: Cotton/Polyester BlendDesign: Printed GraphicFeatures: Kangaroo Pockets & HoodCare Instructions: Machine wash cold to preserve color and printed design.Note: Due to lighting and differences in screens/devices, the color and material may appear different from the pictures.
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:09:48Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -755,7 +755,7 @@
     Availability: Available
     Price: $24.99 USD
 - [Patchwork Fleece Hoodie](https://qingsnkueens.com/products/patchwork-fleece-hoodie): Fall Into Cozy Comfort Embrace cozy vibes with the Patchwork Fleece Hoodie, where comfort meets creativity! Crafted from premium mid-weight fleece, this hoodie boasts a vibrant patchwork logo that adds a pop of personality to your everyday look. With detailed contrast stitching along the hood and a relaxed fit, it’s perfect for layering on chilly days or lounging in style. Make this unique hoodie your go-to for warmth and standout style.
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:09:48Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -791,7 +791,7 @@
     Availability: Available
     Price: $14.99 USD
 - [Glimmering Grace Dress](https://qingsnkueens.com/products/glimmering-grace-dress): Upgrade Your Wardrobe with the Glimmering Grace Dress Introducing the Glimmering Grace Dress—a true statement of sophistication. Featuring a sleek, off-shoulder design and elegant long sleeves, this dress is the epitome of chic. Perfect for upscale events or that special dinner where making an unforgettable impression is key 🤎 Chic Off-Shoulder Design: Master the art of elegance with a neckline that gracefully frames the décolletage. 🤎 Flattering Fit: Expertly tailored to accentuate your figure, ensuring a look that's both striking and comfortable. 🤎 Versatile Style: Transitions effortlessly from daytime charm to evening elegance, making it perfect for any occasion. We’re confident you’ll love your new Glimmering Grace Dress. If for any reason it doesn’t meet your expectations, we’ll work with you to make it right. We offer easy returns and exchanges to ensure your shopping experience is always satisfying
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:09:48Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -806,7 +806,7 @@
     Availability: Available
     Price: $34.99 USD
 - [Qings & Kueens Soft Knit Set](https://qingsnkueens.com/products/qings-kueens-soft-knit-set): 🍂 Luxurious Soft Knit Fabric: Stay cosy and stylish with this two-piece set, crafted from a soft knit fabric that feels as good as it looks. 🍂 Rich Burgundy Colour: The deep burgundy shade brings warmth and sophistication, perfect for the autumn season. 🍂 Oversized Jumper: The loose-fit, oversized jumper adds a relaxed vibe while keeping you effortlessly chic. 🍂 Flattering Mini Skirt: The form-fitting mini skirt beautifully balances the outfit, ensuring a figure-flattering silhouette. 🍂 Perfect for Any Occasion: Whether you're out for brunch, meeting friends, or enjoying a day out, this set is versatile enough for any event.
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:09:48Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -872,28 +872,28 @@
     Availability: Available
     Price: $39.99 USD
 - [BOW HOODIE](https://qingsnkueens.com/products/bow-hoodie): For optimal care of your hoodie, wash it inside out in cold water to protect the embroidery and maintain the integrity of the colors. For drying, we recommend air-drying to preserve its shape and quality. If ironing is required, use a low-heat setting to avoid any potential damage.
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T16:58:21Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/396F6007-2566-4041-9901-80C7A9623C93.jpg?v=1734206444
   - [White / S](https://qingsnkueens.com/products/bow-hoodie?variant=46420961984679)
     Availability: Available
-    Price: $29.99 USD
+    Price: $40.00 USD
   - [White / M](https://qingsnkueens.com/products/bow-hoodie?variant=46427271692455)
     Availability: Available
-    Price: $29.99 USD
+    Price: $40.00 USD
   - [White / L](https://qingsnkueens.com/products/bow-hoodie?variant=46427271725223)
     Availability: Available
-    Price: $29.99 USD
+    Price: $40.00 USD
   - [White / XL](https://qingsnkueens.com/products/bow-hoodie?variant=46427271757991)
     Availability: Available
-    Price: $29.99 USD
+    Price: $40.00 USD
   - [White / 2XL](https://qingsnkueens.com/products/bow-hoodie?variant=46427271790759)
     Availability: Available
-    Price: $29.99 USD
+    Price: $40.00 USD
 - [Wide Leg Pants](https://qingsnkueens.com/products/wide-leg-pants): So simple, yet so classy Designed to flow beautifully, these pants create a relaxed yet polished look, with the classic wide-leg silhouette that flatters every body type and pairs seamlessly with your favorite tops. Oversized fit Model is wearing size S regular length (32inch) and is 5ft8 (172cm)
-  Updated: 2025-12-04T02:07:48Z
+  Updated: 2025-12-06T09:09:48Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -929,7 +929,7 @@
     Availability: Available
     Price: $44.95 USD
 - [My Ex Still Loves Me Hoodie](https://qingsnkueens.com/products/my-ex-still-loves-me-hoodie): Elevate your casual wardrobe with this loose-fit piece, crafted from high-quality polyester with a standard thickness. The knit weaving ensures a soft, breathable feel, perfect for all-day comfort. Designed with a relaxed fit and casual style, it's a versatile addition to your everyday essentials. Perfect for effortless style and ease!
-  Updated: 2025-11-26T07:13:01Z
+  Updated: 2025-12-06T09:09:48Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -950,7 +950,7 @@
     Availability: Available
     Price: $29.95 USD
 - [Loose Fit Urban Jersey 80](https://qingsnkueens.com/products/loose-fit-urban-jersey-80): This cropped varsity jersey combines sporty vibes with casual style. Featuring breathable mesh fabric, a pastel pink hue, and bold "80" graphics, it’s perfect for effortless, trendy looks. Pair it with skirts, jeans, or shorts for any occasion!
-  Updated: 2025-11-26T07:13:01Z
+  Updated: 2025-12-06T09:09:49Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -976,7 +976,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Viral Patched Sweatpants](https://qingsnkueens.com/products/viral-patched-sweatpants): These patched sweatpants feature bold, raw-edge applique detailing with "BSLM" stitched along one leg and a unique star emblem on the other. Made from soft, high-quality fabric, they offer a relaxed fit with an elastic waistband for ultimate comfort. Perfect for casual wear with a statement edge.
-  Updated: 2025-11-26T07:13:01Z
+  Updated: 2025-12-06T09:09:49Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -1078,7 +1078,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/A8DD2392-A9AF-4192-A141-3916E84E8A31.webp?v=1739093094
     Price: $19.99 USD
 - [Love PJ Set](https://qingsnkueens.com/products/love-pj-set): This cozy pajama set features a charming all-over heart print, offering a perfect blend of style and comfort. The long-sleeve top has a delicate lace trim along the neckline, while the matching shorts include a buttoned front detail and a contrast waistband for a playful touch. Made from soft, breathable fabric, this set is ideal for lounging or a restful night's sleep.
-  Updated: 2025-11-29T06:22:34Z
+  Updated: 2025-12-06T09:09:49Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -1108,7 +1108,7 @@
     Availability: Available
     Price: $24.99 USD
 - [Viral Tate Hoodie & Sweatpants](https://qingsnkueens.com/products/viral-tate-hoodie-sweatpants): Stay cozy and stylish with our ultra-soft hoodie and sweatpants. Designed for comfort, durability, and effortless streetwear vibes. Perfect for lounging or stepping out. Grab yours now!
-  Updated: 2025-11-26T07:13:01Z
+  Updated: 2025-12-06T09:09:49Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -1171,7 +1171,7 @@
     Availability: Available
     Price: $19.99 USD
 - [Lilium Halter Bloom Dress](https://qingsnkueens.com/products/lilium-halter-bloom-dress): The Lilium Halter Bloom Dress is a satin mini designed to captivate, featuring a floral print, adjustable halter straps, a partially open back, and zip-back closure. Crafted from 97% reclaimed polyester with a fully lined interior, this non-stretch piece falls 68cm (26.7in) from bust to hem in size US 2 / AU 6. Part of the Qings & Kueens Lower Impact range, it’s best cared for with a cold hand wash.
-  Updated: 2025-11-26T07:13:01Z
+  Updated: 2025-12-06T09:09:49Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -1195,7 +1195,7 @@
     Availability: Available
     Price: $24.99 USD
 - [Urban Snowfall Trousers](https://qingsnkueens.com/products/urban-snowfall): The Urban Snowfall is where streetwear edge meets untamed elegance. Crafted from 100% cotton, these wide-leg pants feature a low-rise fit that runs true to size, while sizing down offers a more defined mid-rise silhouette. Designed for comfort and individuality by Qings & Kueens , each pair showcases subtle wash variations, making every piece uniquely yours. With their relaxed structure and bold snow leopard-inspired print, The Urban Snowfall adds effortless impact to any look.
-  Updated: 2025-11-26T07:13:02Z
+  Updated: 2025-12-06T09:09:49Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -1219,7 +1219,7 @@
     Availability: Available
     Price: $23.99 USD
 - [Azure Blossom Breeze Skirt](https://qingsnkueens.com/products/azure-blossom-breeze): Step into effortless elegance with the Azure Blossom Breeze, a stunning Tatum Halterneck Skirt Set that captures the spirit of carefree sophistication. This coordinated ensemble features a flattering halterneck top that ties at the neck, beautifully framing the shoulders and neckline with a soft, feminine edge. The matching skirt drapes gracefully with a figure-skimming silhouette that enhances your natural curves and elongates the frame. Whether you're headed to a brunch, beachside gathering, or an evening soirée, this set transitions seamlessly from day to night. The fresh blue-and-white floral pattern evokes a breezy, coastal charm, while the versatile design makes styling a breeze. Dress it up with heels or keep it relaxed with sandals—the Azure Blossom Breeze is your new go-to for timeless style and modern comfort.
-  Updated: 2025-11-26T07:13:02Z
+  Updated: 2025-12-06T09:09:50Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -1273,7 +1273,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/WhatsApp_Image_2025-05-30_at_21.34.21_11362c27.jpg?v=1748627457
     Price: $23.99 USD
 - [Retro Bloom Romper](https://qingsnkueens.com/products/retro-bloom-romper): This effortlessly cool one-piece features a soft mineral wash finish and charming oversized lace flower appliqués that add a playful, vintage-inspired flair. The adjustable tie straps let you find your perfect fit, while hidden side pockets bring practicality to the pretty.Whether you're heading to a music festival, beach day, or brunch with the girls, the Retro Bloom Romper is your new go-to for laid-back style with a blooming twist.
-  Updated: 2025-11-26T07:13:02Z
+  Updated: 2025-12-06T09:09:50Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -1351,7 +1351,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/sfjseakKvdg_22bdfebc-e8c8-48c5-927a-2beda90208d5.png?v=1748690440
     Price: $29.99 USD
 - [Blackwood Haze Shirt](https://qingsnkueens.com/products/blackwood-haze-shirt): Rooted in the timeless grit of New England’s coastal heritage, the Blackwood Haze Shirt by QINGS AND KUEENS delivers rugged functionality with refined design. Built from an 11-oz. wool-nylon twill, this overshirt is warm yet breathable—ideal for unpredictable days. Featuring a straight silhouette for easy layering, oversized chest pockets, and our signature California collar, it's a dependable all-season staple that transitions seamlessly from the outdoors to the city.
-  Updated: 2025-11-26T07:13:02Z
+  Updated: 2025-12-06T09:09:50Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -1375,7 +1375,7 @@
     Availability: Available
     Price: $21.95 USD
 - [Sandstone Polo Shirt](https://qingsnkueens.com/products/sandstone-polo-shirt): The Sandstone Polo Shirt by Qings and Kueens is a modern essential with a laid-back yet polished vibe. Made from 100% soft cotton, this sweater-knit shirt features a relaxed fit with subtle striped texture and a clean Johnny collar for a button-free, effortlessly cool look. The banded hem and cuffs give it structure while maintaining comfort, making it perfect for casual hangouts or stylish everyday wear. Finished in a warm, neutral tone, it's an easy piece to pair with everything from tailored trousers to weekend denim.
-  Updated: 2025-11-26T07:13:02Z
+  Updated: 2025-12-06T09:09:50Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -1525,7 +1525,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/nnnnvvv.png?v=1750245484
     Price: $23.95 USD
 - [Shadow Drip Shorts](https://qingsnkueens.com/products/shadow-drip-shorts): ntroducing the Shadow Drip Shorts by Qings and Kueens – a luxurious upgrade to your everyday essentials. Crafted from a heavier-weight, high-quality fabric, these shorts offer a premium drape and ultra-soft hand feel that speaks sophistication with every step. The reengineered fit ensures elevated comfort and improved structure, while its breathable yet durable build makes it a timeless piece in any wardrobe. Finished with clean lines, deep functional pockets, and an elastic waistband with an adjustable drawcord, the Shadow Drip Shorts are designed for those who demand both style and substance.
-  Updated: 2025-11-26T07:13:02Z
+  Updated: 2025-12-06T09:09:50Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -1546,7 +1546,7 @@
     Availability: Available
     Price: $25.45 USD
 - [Empire Bold Zip Hoodie](https://qingsnkueens.com/products/empire-bold-zip-hoodie): Elevate your streetwear game with this Navy & Cream Zip Hoodie, crafted in Italy from 100% pure cotton for unmatched comfort and quality. The deep navy base is boldly contrasted by cream "NY" lettering on the chest, delivering a clean, confident look with a vintage athletic vibe.In Very Good condition, this hoodie shows little to no signs of wear — a near-pristine piece that blends premium craftsmanship with everyday versatility. A perfect addition to any wardrobe that values both style and substance.
-  Updated: 2025-11-26T07:13:02Z
+  Updated: 2025-12-06T09:09:50Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -1576,7 +1576,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_7cbd598c-41d7-4141-93c9-fa4e48c06ec2.png?v=1750364195
     Price: $29.99 USD
 - [Ocean Flagline Sweater](https://qingsnkueens.com/products/ocean-flagline-sweater): Set sail in style with the Ocean Flagline Sweater by Qings & Kueens—a soft, easy-fitting cardigan crafted from a premium blend of 60% cotton and 40% acrylic. Designed with bold nautical patchwork graphics, a smart button-up front, and finished with banded hems and cuffs, this imported sweater brings a wave of coastal character to your wardrobe. Built for comfort and care, it’s machine washable in cold water, safe with non-chlorine bleach, and best laid flat to dry after reshaping. No dry cleaning needed—just effortless, ocean-inspired fashion for every season.
-  Updated: 2025-11-26T07:13:03Z
+  Updated: 2025-12-06T09:09:51Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -1606,31 +1606,31 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_efbbb49a-6391-4b7d-a0be-50f57cc1c6c8.png?v=1750367722
     Price: $30.00 USD
 - [Skybound Stitch Sweaters](https://qingsnkueens.com/products/skybound-stitch-sweaters): Elevate your everyday look with the Skybound Stitch Sweater from Qings and Kueens — where classic craftsmanship meets contemporary edge. Made from soft, breathable cotton, this cable-knit essential delivers comfort with character. The textured weave and bold wide stripes create a striking contrast that feels both vintage-inspired and effortlessly modern. Designed with a classic crewneck, long sleeves with banded cuffs, and a ribbed hem for a refined fit, this sweater offers laid-back luxury for those who appreciate timeless style with a twist. Whether layered up or worn solo, the Skybound Stitch Sweater keeps your style grounded while your confidence takes flight.
-  Updated: 2025-11-26T07:13:03Z
+  Updated: 2025-12-06T11:50:00Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_dafa8dcc-88ef-46cd-9170-11aab74f784d.png?v=1750373216
   - [XS](https://qingsnkueens.com/products/skybound-stitch-sweaters?variant=46850421719207)
     Availability: Available
-    Price: $21.99 USD
+    Price: $42.00 USD
   - [S](https://qingsnkueens.com/products/skybound-stitch-sweaters?variant=46850421751975)
     Availability: Available
-    Price: $21.99 USD
+    Price: $42.00 USD
   - [M](https://qingsnkueens.com/products/skybound-stitch-sweaters?variant=46850421784743)
     Availability: Available
-    Price: $21.99 USD
+    Price: $42.00 USD
   - [L](https://qingsnkueens.com/products/skybound-stitch-sweaters?variant=46850421817511)
     Availability: Available
-    Price: $21.99 USD
+    Price: $42.00 USD
   - [XL](https://qingsnkueens.com/products/skybound-stitch-sweaters?variant=46850421850279)
     Availability: Available
-    Price: $21.99 USD
+    Price: $42.00 USD
   - [XXL](https://qingsnkueens.com/products/skybound-stitch-sweaters?variant=46850421883047)
     Availability: Available
-    Price: $21.99 USD
+    Price: $42.00 USD
 - [Modern Stretch Pants](https://qingsnkueens.com/products/modern-stretch-pants): A timeless essential, the Modern Stretch Pants by Qings and kueens blend classic military inspiration with modern-day comfort. Designed in our signature Full Saddle fit, these trousers feature a high-rise waist and a straight silhouette through the thigh and leg, staying true to the strong, confident look of vintage officer’s uniforms.Cut from durable 9.5 oz cotton twill, these pants are garment washed with natural enzymes to give them a perfectly lived-in feel from day one. The expertly crafted “Hollywood” one-piece waistband, paired with slash front pockets, buttoned flap back pockets, and a welted coin pocket, adds both form and function. Detailed with natural canvas lining, resorozo buttons, and a classic button fly, these pants are built to last—and made to move with modern style.
-  Updated: 2025-11-26T07:13:03Z
+  Updated: 2025-12-06T11:49:08Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -1638,53 +1638,53 @@
   - [Beige / XS](https://qingsnkueens.com/products/modern-stretch-pants?variant=46850453143719)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_1f4fb356-4bf0-4118-916e-b059551e8ac6.png?v=1750377310
-    Price: $35.00 USD
+    Price: $44.00 USD
   - [Beige / S](https://qingsnkueens.com/products/modern-stretch-pants?variant=46850453176487)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_1f4fb356-4bf0-4118-916e-b059551e8ac6.png?v=1750377310
-    Price: $35.00 USD
+    Price: $44.00 USD
   - [Beige / M](https://qingsnkueens.com/products/modern-stretch-pants?variant=46850453209255)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_1f4fb356-4bf0-4118-916e-b059551e8ac6.png?v=1750377310
-    Price: $35.00 USD
+    Price: $44.00 USD
   - [Beige / L](https://qingsnkueens.com/products/modern-stretch-pants?variant=46850453242023)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_1f4fb356-4bf0-4118-916e-b059551e8ac6.png?v=1750377310
-    Price: $35.00 USD
+    Price: $44.00 USD
   - [Beige / XL](https://qingsnkueens.com/products/modern-stretch-pants?variant=46850453274791)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_1f4fb356-4bf0-4118-916e-b059551e8ac6.png?v=1750377310
-    Price: $35.00 USD
+    Price: $44.00 USD
   - [Beige / XXL](https://qingsnkueens.com/products/modern-stretch-pants?variant=46850453307559)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_1f4fb356-4bf0-4118-916e-b059551e8ac6.png?v=1750377310
-    Price: $35.00 USD
+    Price: $44.00 USD
   - [Black / XS](https://qingsnkueens.com/products/modern-stretch-pants?variant=46850453340327)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/00000.png?v=1750378182
-    Price: $35.00 USD
+    Price: $44.00 USD
   - [Black / S](https://qingsnkueens.com/products/modern-stretch-pants?variant=46850453373095)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/00000.png?v=1750378182
-    Price: $35.00 USD
+    Price: $44.00 USD
   - [Black / M](https://qingsnkueens.com/products/modern-stretch-pants?variant=46850453405863)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/00000.png?v=1750378182
-    Price: $35.00 USD
+    Price: $44.00 USD
   - [Black / L](https://qingsnkueens.com/products/modern-stretch-pants?variant=46850453438631)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/00000.png?v=1750378182
-    Price: $35.00 USD
+    Price: $44.00 USD
   - [Black / XL](https://qingsnkueens.com/products/modern-stretch-pants?variant=46850453471399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/00000.png?v=1750378182
-    Price: $35.00 USD
+    Price: $44.00 USD
   - [Black / XXL](https://qingsnkueens.com/products/modern-stretch-pants?variant=46850453504167)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/00000.png?v=1750378182
-    Price: $35.00 USD
+    Price: $44.00 USD
 - [Mint Drift Runners](https://qingsnkueens.com/products/mint-drift-runners): Mint Drift Runners are perfect blend of retro inspiration and modern comfort. Designed with a breezy mesh fabric in a refreshing mint hue, these shorts feature a relaxed silhouette, curved hems, and contrast cream trimming for that vintage runner's vibe. The soft elastic waistband with an adjustable drawstring ensures a snug yet flexible fit, ideal for movement, lounging, or a stylish day out.Whether you're hitting the track, the street, or just chilling in the sun, these shorts bring effortless cool to every step. Subtle details like the embroidered emblem near the hem add a signature touch to this wardrobe essential — because Qings and Kueens is all about rewriting classics with edge.
-  Updated: 2025-11-26T07:13:03Z
+  Updated: 2025-12-06T11:48:05Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -1692,101 +1692,101 @@
   - [XS / Blue](https://qingsnkueens.com/products/mint-drift-runners?variant=46852260102311)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_b5ad91fd-2287-4d95-b4aa-d6f2334af986.png?v=1750535374
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [XS / Green](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279173287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_f3894806-2da2-48bf-b8ce-3e322c463b51.png?v=1750535351
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [XS / ocean blue](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279206055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_ba0af1ac-8771-40f2-9c89-c2d85b9d0a00.png?v=1750535393
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [XS / Purple](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279238823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_af2d89c1-8d5f-4072-ae47-478949448c16.png?v=1750535397
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [S / Blue](https://qingsnkueens.com/products/mint-drift-runners?variant=46852270850215)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_b5ad91fd-2287-4d95-b4aa-d6f2334af986.png?v=1750535374
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [S / Green](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279271591)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_f3894806-2da2-48bf-b8ce-3e322c463b51.png?v=1750535351
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [S / ocean blue](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279304359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_ba0af1ac-8771-40f2-9c89-c2d85b9d0a00.png?v=1750535393
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [S / Purple](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279337127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_af2d89c1-8d5f-4072-ae47-478949448c16.png?v=1750535397
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [M / Blue](https://qingsnkueens.com/products/mint-drift-runners?variant=46852270981287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_b5ad91fd-2287-4d95-b4aa-d6f2334af986.png?v=1750535374
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [M / Green](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279369895)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_f3894806-2da2-48bf-b8ce-3e322c463b51.png?v=1750535351
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [M / ocean blue](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279402663)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_ba0af1ac-8771-40f2-9c89-c2d85b9d0a00.png?v=1750535393
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [M / Purple](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279435431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_af2d89c1-8d5f-4072-ae47-478949448c16.png?v=1750535397
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [L / Blue](https://qingsnkueens.com/products/mint-drift-runners?variant=46852271112359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_b5ad91fd-2287-4d95-b4aa-d6f2334af986.png?v=1750535374
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [L / Green](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279468199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_f3894806-2da2-48bf-b8ce-3e322c463b51.png?v=1750535351
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [L / ocean blue](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279500967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_ba0af1ac-8771-40f2-9c89-c2d85b9d0a00.png?v=1750535393
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [L / Purple](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279533735)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_af2d89c1-8d5f-4072-ae47-478949448c16.png?v=1750535397
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [XL / Blue](https://qingsnkueens.com/products/mint-drift-runners?variant=46852271243431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_b5ad91fd-2287-4d95-b4aa-d6f2334af986.png?v=1750535374
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [XL / Green](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279566503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_f3894806-2da2-48bf-b8ce-3e322c463b51.png?v=1750535351
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [XL / ocean blue](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279599271)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_ba0af1ac-8771-40f2-9c89-c2d85b9d0a00.png?v=1750535393
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [XL / Purple](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279632039)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_af2d89c1-8d5f-4072-ae47-478949448c16.png?v=1750535397
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [XXL / Blue](https://qingsnkueens.com/products/mint-drift-runners?variant=46852271374503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_b5ad91fd-2287-4d95-b4aa-d6f2334af986.png?v=1750535374
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [XXL / Green](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279664807)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_f3894806-2da2-48bf-b8ce-3e322c463b51.png?v=1750535351
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [XXL / ocean blue](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279697575)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_ba0af1ac-8771-40f2-9c89-c2d85b9d0a00.png?v=1750535393
-    Price: $25.99 USD
+    Price: $32.00 USD
   - [XXL / Purple](https://qingsnkueens.com/products/mint-drift-runners?variant=46852279730343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_af2d89c1-8d5f-4072-ae47-478949448c16.png?v=1750535397
-    Price: $25.99 USD
+    Price: $32.00 USD
 - [Northern Echo Sweater](https://qingsnkueens.com/products/northern-echo-sweater): Wrap yourself in the heritage of the Highlands with the Northern Echo Sweater by Qings and Kueens — a tribute to traditional craftsmanship and rugged elegance. Handcrafted in Scotland from 100% pure Shetland wool, this sweater carries the legacy of the region's resilient sheep, bred to withstand the unforgiving winter chill. What sets this piece apart is its uniquely soft texture, achieved through the centuries-old Scottish brushing technique using natural teasels — a process that enhances both comfort and character. Finished with fine ribbing at the cuffs and hem to lock in warmth and structure, this sweater is as practical as it is timeless. Whether you're strolling through frost-laced woods or layering up in the city, the Northern Echo Sweater delivers unmatched warmth, texture, and a story woven into every stitch.
-  Updated: 2025-12-01T07:06:20Z
+  Updated: 2025-12-06T11:46:20Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -1794,53 +1794,53 @@
   - [XS / Navy](https://qingsnkueens.com/products/northern-echo-sweater?variant=46856651505831)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11.png?v=1750778507
-    Price: $39.00 USD
+    Price: $55.00 USD
   - [XS / White](https://qingsnkueens.com/products/northern-echo-sweater?variant=46856651538599)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_43c1eb88-a32e-4c05-a53e-b5974217bfca.png?v=1750778860
-    Price: $39.00 USD
+    Price: $55.00 USD
   - [S / Navy](https://qingsnkueens.com/products/northern-echo-sweater?variant=46856651571367)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11.png?v=1750778507
-    Price: $39.00 USD
+    Price: $55.00 USD
   - [S / White](https://qingsnkueens.com/products/northern-echo-sweater?variant=46856651604135)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_43c1eb88-a32e-4c05-a53e-b5974217bfca.png?v=1750778860
-    Price: $39.00 USD
+    Price: $55.00 USD
   - [M / Navy](https://qingsnkueens.com/products/northern-echo-sweater?variant=46856651636903)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11.png?v=1750778507
-    Price: $39.00 USD
+    Price: $55.00 USD
   - [M / White](https://qingsnkueens.com/products/northern-echo-sweater?variant=46856651669671)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_43c1eb88-a32e-4c05-a53e-b5974217bfca.png?v=1750778860
-    Price: $39.00 USD
+    Price: $55.00 USD
   - [L / Navy](https://qingsnkueens.com/products/northern-echo-sweater?variant=46856651702439)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11.png?v=1750778507
-    Price: $39.00 USD
+    Price: $55.00 USD
   - [L / White](https://qingsnkueens.com/products/northern-echo-sweater?variant=46856651735207)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_43c1eb88-a32e-4c05-a53e-b5974217bfca.png?v=1750778860
-    Price: $39.00 USD
+    Price: $55.00 USD
   - [XL / Navy](https://qingsnkueens.com/products/northern-echo-sweater?variant=46856651767975)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11.png?v=1750778507
-    Price: $39.00 USD
+    Price: $55.00 USD
   - [XL / White](https://qingsnkueens.com/products/northern-echo-sweater?variant=46856651800743)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_43c1eb88-a32e-4c05-a53e-b5974217bfca.png?v=1750778860
-    Price: $39.00 USD
+    Price: $55.00 USD
   - [XXL / Navy](https://qingsnkueens.com/products/northern-echo-sweater?variant=46856651833511)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11.png?v=1750778507
-    Price: $39.00 USD
+    Price: $55.00 USD
   - [XXL / White](https://qingsnkueens.com/products/northern-echo-sweater?variant=46856651866279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_43c1eb88-a32e-4c05-a53e-b5974217bfca.png?v=1750778860
-    Price: $39.00 USD
+    Price: $55.00 USD
 - [Jetstream Slim Pants](https://qingsnkueens.com/products/jetstream-slim-pants): Move smart, look sharp. The Jetstream Slim Pants by QINGS AND Kueens combine a sleek flat-front design with a modern slim fit and four-way stretch comfort. Built for versatility, they feature hidden zip pockets to securely stash your essentials—phone, keys, or cash—without bulk.Crafted from a durable, breathable performance blend, they’re machine washable and easy to care for. With smart tailoring and a refined silhouette, these pants take you from commute to cocktails without missing a beat.
-  Updated: 2025-11-26T07:13:03Z
+  Updated: 2025-12-06T11:44:34Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -1848,101 +1848,101 @@
   - [XS / Black](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857011953831)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_a1e40e0a-eff3-4098-a75c-c3b216135feb.png?v=1750798031
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [XS / light purple](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857011986599)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_ab8fa6d0-6d67-409c-a925-7efeb81447c7.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [XS / White](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012019367)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [XS / Ocean Blue](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012052135)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [S / Black](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012084903)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_a1e40e0a-eff3-4098-a75c-c3b216135feb.png?v=1750798031
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [S / light purple](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012117671)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_ab8fa6d0-6d67-409c-a925-7efeb81447c7.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [S / White](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012150439)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [S / Ocean Blue](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012183207)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [M / Black](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012215975)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_a1e40e0a-eff3-4098-a75c-c3b216135feb.png?v=1750798031
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [M / light purple](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012248743)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_ab8fa6d0-6d67-409c-a925-7efeb81447c7.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [M / White](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012281511)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [M / Ocean Blue](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012314279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [L / Black](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012347047)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_a1e40e0a-eff3-4098-a75c-c3b216135feb.png?v=1750798031
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [L / light purple](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012379815)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_ab8fa6d0-6d67-409c-a925-7efeb81447c7.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [L / White](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012412583)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [L / Ocean Blue](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012445351)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [XL / Black](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012478119)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_a1e40e0a-eff3-4098-a75c-c3b216135feb.png?v=1750798031
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [XL / light purple](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012510887)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_ab8fa6d0-6d67-409c-a925-7efeb81447c7.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [XL / White](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012543655)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [XL / Ocean Blue](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012576423)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [XXL / Black](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012609191)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_a1e40e0a-eff3-4098-a75c-c3b216135feb.png?v=1750798031
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [XXL / light purple](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012641959)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_ab8fa6d0-6d67-409c-a925-7efeb81447c7.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [XXL / White](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012674727)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
   - [XXL / Ocean Blue](https://qingsnkueens.com/products/jetstream-slim-pants?variant=46857012707495)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111.png?v=1750799392
-    Price: $45.00 USD
+    Price: $55.00 USD
 - [Rosy Flow Top](https://qingsnkueens.com/products/rosy-flow-top): Float through your day with effortless elegance in the Rosy Flow Top by Qings and Kueens. Crafted from a silky 100% polyester shell and softly lined with a touch of elastane for gentle stretch, this collarless beauty features a fluid drape that feels as dreamy as it looks. Designed for daily casual wear, its regular fit offers ease without compromising on charm, while the layered ruffle hem and delicate knotted detail add a soft, romantic edge. Finished in a solid blush tone, the Rosy Flow Top brings modern femininity to your everyday look—perfect for pairing with denim, linen, or sleek trousers for a relaxed yet refined vibe.
-  Updated: 2025-11-26T07:13:03Z
+  Updated: 2025-12-06T11:43:05Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -1950,53 +1950,53 @@
   - [XS / Pink](https://qingsnkueens.com/products/rosy-flow-top?variant=46862888501415)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_2b76fd55-23e4-46c0-b88b-e5f93eec9488.png?v=1751126183
-    Price: $19.99 USD
+    Price: $26.00 USD
   - [XS / Beige](https://qingsnkueens.com/products/rosy-flow-top?variant=46862888534183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11111.png?v=1751128954
-    Price: $19.99 USD
+    Price: $26.00 USD
   - [S / Pink](https://qingsnkueens.com/products/rosy-flow-top?variant=46862888566951)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_2b76fd55-23e4-46c0-b88b-e5f93eec9488.png?v=1751126183
-    Price: $19.99 USD
+    Price: $26.00 USD
   - [S / Beige](https://qingsnkueens.com/products/rosy-flow-top?variant=46862888599719)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11111.png?v=1751128954
-    Price: $19.99 USD
+    Price: $26.00 USD
   - [M / Pink](https://qingsnkueens.com/products/rosy-flow-top?variant=46862888632487)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_2b76fd55-23e4-46c0-b88b-e5f93eec9488.png?v=1751126183
-    Price: $19.99 USD
+    Price: $26.00 USD
   - [M / Beige](https://qingsnkueens.com/products/rosy-flow-top?variant=46862888665255)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11111.png?v=1751128954
-    Price: $19.99 USD
+    Price: $26.00 USD
   - [L / Pink](https://qingsnkueens.com/products/rosy-flow-top?variant=46862888698023)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_2b76fd55-23e4-46c0-b88b-e5f93eec9488.png?v=1751126183
-    Price: $19.99 USD
+    Price: $26.00 USD
   - [L / Beige](https://qingsnkueens.com/products/rosy-flow-top?variant=46862888730791)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11111.png?v=1751128954
-    Price: $19.99 USD
+    Price: $26.00 USD
   - [XL / Pink](https://qingsnkueens.com/products/rosy-flow-top?variant=46862888763559)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_2b76fd55-23e4-46c0-b88b-e5f93eec9488.png?v=1751126183
-    Price: $19.99 USD
+    Price: $26.00 USD
   - [XL / Beige](https://qingsnkueens.com/products/rosy-flow-top?variant=46862888796327)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11111.png?v=1751128954
-    Price: $19.99 USD
+    Price: $26.00 USD
   - [XXL / Pink](https://qingsnkueens.com/products/rosy-flow-top?variant=46862888829095)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_2b76fd55-23e4-46c0-b88b-e5f93eec9488.png?v=1751126183
-    Price: $19.99 USD
+    Price: $26.00 USD
   - [XXL / Beige](https://qingsnkueens.com/products/rosy-flow-top?variant=46862888861863)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11111.png?v=1751128954
-    Price: $19.99 USD
+    Price: $26.00 USD
 - [Whispering Petals Mini Dress](https://qingsnkueens.com/products/whispering-petals-dress): A romantic ode to craftsmanship, the Whispering Petals Mini Dress by Qings and Kueens is a breathtaking fusion of art and elegance. This sculpted mini silhouette is cut from a soft off-white canvas, serving as the perfect backdrop for intricate 3D floral embroidery that feels as though it’s blooming right off the fabric. Each petal and curve is designed to whisper femininity and grace, capturing the delicate essence of springtime in motion. Fully lined for a polished structure and superior comfort, it features a concealed back zipper to preserve its clean, seamless lines. Perfect for garden soirées, bridal events, or any moment where you want to make a soft yet stunning impression. Dry clean only to maintain its detailed beauty.
-  Updated: 2025-11-26T07:13:04Z
+  Updated: 2025-12-06T11:42:20Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -2004,53 +2004,53 @@
   - [XS / White](https://qingsnkueens.com/products/whispering-petals-dress?variant=46863013609639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_c5e4da05-ae68-4ae4-a959-95ffcee7ea67.png?v=1751143076
-    Price: $25.99 USD
+    Price: $35.00 USD
   - [S / White](https://qingsnkueens.com/products/whispering-petals-dress?variant=46863013642407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_c5e4da05-ae68-4ae4-a959-95ffcee7ea67.png?v=1751143076
-    Price: $25.99 USD
+    Price: $35.00 USD
   - [M / White](https://qingsnkueens.com/products/whispering-petals-dress?variant=46863013675175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_c5e4da05-ae68-4ae4-a959-95ffcee7ea67.png?v=1751143076
-    Price: $25.99 USD
+    Price: $35.00 USD
   - [L / White](https://qingsnkueens.com/products/whispering-petals-dress?variant=46863013707943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_c5e4da05-ae68-4ae4-a959-95ffcee7ea67.png?v=1751143076
-    Price: $25.99 USD
+    Price: $35.00 USD
   - [XL / White](https://qingsnkueens.com/products/whispering-petals-dress?variant=46863013740711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_c5e4da05-ae68-4ae4-a959-95ffcee7ea67.png?v=1751143076
-    Price: $25.99 USD
+    Price: $35.00 USD
   - [XXL / White](https://qingsnkueens.com/products/whispering-petals-dress?variant=46863013773479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_c5e4da05-ae68-4ae4-a959-95ffcee7ea67.png?v=1751143076
-    Price: $25.99 USD
+    Price: $35.00 USD
 - [Lust & Leopard Dress](https://qingsnkueens.com/products/lust-leopard-dress): Unleash your wild side with the Lust & Leopard Dress — a dangerously captivating slip designed to steal every gaze in the room. Crafted from a stretchy, figure-hugging mesh, this statement piece features an all-over bold leopard print that channels unapologetic confidence. Structured boning sculpts your silhouette, while an underwire bust with scalloped lace trim adds a romantic edge to the fierce vibe. The lace-trimmed hem brings softness to the sultry design, and the front hook-and-eye closures invite a vintage-inspired finish that feels both daring and elegant.Made with 95% polyester and 5% elastane, this dress offers both comfort and contour. For best results, hand wash cold and handle with care—because some things this wild need a gentle touch.
-  Updated: 2025-11-26T07:13:04Z
+  Updated: 2025-12-06T11:41:53Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_bb73b747-3aae-4c7a-9771-8e14995700f2.png?v=1751146513
   - [XS / Black](https://qingsnkueens.com/products/lust-leopard-dress?variant=46863044804775)
     Availability: Available
-    Price: $25.95 USD
+    Price: $39.00 USD
   - [S / Black](https://qingsnkueens.com/products/lust-leopard-dress?variant=46863044837543)
     Availability: Available
-    Price: $25.95 USD
+    Price: $39.00 USD
   - [M / Black](https://qingsnkueens.com/products/lust-leopard-dress?variant=46863044870311)
     Availability: Available
-    Price: $25.95 USD
+    Price: $39.00 USD
   - [L / Black](https://qingsnkueens.com/products/lust-leopard-dress?variant=46863044903079)
     Availability: Available
-    Price: $25.95 USD
+    Price: $39.00 USD
   - [XL / Black](https://qingsnkueens.com/products/lust-leopard-dress?variant=46863044935847)
     Availability: Available
-    Price: $25.95 USD
+    Price: $39.00 USD
   - [XXL / Black](https://qingsnkueens.com/products/lust-leopard-dress?variant=46863044968615)
     Availability: Available
-    Price: $25.95 USD
+    Price: $39.00 USD
 - [Honey Heat Dress](https://qingsnkueens.com/products/honey-heat-dress): Timeless design meets modern craftsmanship in the Honey Heat Dress by Qings & Kueens. Inspired by the golden days of iconic silhouettes, this piece is a nod to elegance with a bold twist. Crafted from a luxe bandage shell with advanced paneling and stretch technology, it contours the body in all the right places, creating a clean, sculpted silhouette. The scooped neckline and subtle under-bust seam offer structure and lift, while the vibrant honey hue adds a fresh burst of energy to your wardrobe. Made from a high-performance blend of 88% polyamide and 12% elastane, this mini dress delivers a flawless fit with maximum comfort. Designed for versatility, the Honey Heat Dress transitions effortlessly from upscale dinners to lively gatherings, making it the perfect companion for holidays, birthday celebrations, and stylish evenings out. It’s confidence, comfort, and charm—all in one refined look.
-  Updated: 2025-11-26T07:13:04Z
+  Updated: 2025-12-06T11:40:49Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -2058,53 +2058,53 @@
   - [XS / Orange](https://qingsnkueens.com/products/honey-heat-dress?variant=46865142120615)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_d7c9d865-cb16-4ba9-a0b2-de8212fc6d3b.png?v=1751274973
-    Price: $29.99 USD
+    Price: $40.00 USD
   - [XS / Pink](https://qingsnkueens.com/products/honey-heat-dress?variant=46875594916007)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/q_469ed27d-7c8c-4d62-a368-f87f8cb3a24e.png?v=1751624948
-    Price: $29.99 USD
+    Price: $40.00 USD
   - [S / Orange](https://qingsnkueens.com/products/honey-heat-dress?variant=46865142153383)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_d7c9d865-cb16-4ba9-a0b2-de8212fc6d3b.png?v=1751274973
-    Price: $29.99 USD
+    Price: $40.00 USD
   - [S / Pink](https://qingsnkueens.com/products/honey-heat-dress?variant=46875594948775)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/q.png?v=1751624018
-    Price: $29.99 USD
+    Price: $40.00 USD
   - [M / Orange](https://qingsnkueens.com/products/honey-heat-dress?variant=46865142186151)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_d7c9d865-cb16-4ba9-a0b2-de8212fc6d3b.png?v=1751274973
-    Price: $29.99 USD
+    Price: $40.00 USD
   - [M / Pink](https://qingsnkueens.com/products/honey-heat-dress?variant=46875594981543)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/q_469ed27d-7c8c-4d62-a368-f87f8cb3a24e.png?v=1751624948
-    Price: $29.99 USD
+    Price: $40.00 USD
   - [L / Orange](https://qingsnkueens.com/products/honey-heat-dress?variant=46865142218919)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_d7c9d865-cb16-4ba9-a0b2-de8212fc6d3b.png?v=1751274973
-    Price: $29.99 USD
+    Price: $40.00 USD
   - [L / Pink](https://qingsnkueens.com/products/honey-heat-dress?variant=46875595014311)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/q_469ed27d-7c8c-4d62-a368-f87f8cb3a24e.png?v=1751624948
-    Price: $29.99 USD
+    Price: $40.00 USD
   - [XL / Orange](https://qingsnkueens.com/products/honey-heat-dress?variant=46865142251687)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_d7c9d865-cb16-4ba9-a0b2-de8212fc6d3b.png?v=1751274973
-    Price: $29.99 USD
+    Price: $40.00 USD
   - [XL / Pink](https://qingsnkueens.com/products/honey-heat-dress?variant=46875595047079)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/q_469ed27d-7c8c-4d62-a368-f87f8cb3a24e.png?v=1751624948
-    Price: $29.99 USD
+    Price: $40.00 USD
   - [XXL / Orange](https://qingsnkueens.com/products/honey-heat-dress?variant=46865142284455)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_d7c9d865-cb16-4ba9-a0b2-de8212fc6d3b.png?v=1751274973
-    Price: $29.99 USD
+    Price: $40.00 USD
   - [XXL / Pink](https://qingsnkueens.com/products/honey-heat-dress?variant=46875595079847)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/q_469ed27d-7c8c-4d62-a368-f87f8cb3a24e.png?v=1751624948
-    Price: $29.99 USD
+    Price: $40.00 USD
 - [Two Tone Temptation Maxi Dress](https://qingsnkueens.com/products/two-tone-temptation): Daring yet refined, the Two Tone Temptation Maxi Dress is a masterclass in modern allure. Crafted from our signature matte satin, this slim-fitting maxi dress glides effortlessly over the body, highlighting your natural shape with a sleek, sculpted silhouette. Featuring a striking two-tone palette and subtle cutouts at the bust, it brings just the right touch of edge. The back is finished with bold metallic hardware and fully adjustable straps to ensure the perfect fit, every time. A statement piece designed to command attention — wherever the night takes you.
-  Updated: 2025-11-26T07:13:04Z
+  Updated: 2025-12-06T11:39:02Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -2112,232 +2112,232 @@
   - [XS / Beige](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826283687)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111_7d7bed8b-1e7d-4069-9886-f312413994d2.png?v=1751295171
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XS / Green](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826316455)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_a49722c3-a2ee-4086-ae1d-c7875b30d10e.png?v=1751295076
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XS / Hot Pink](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826349223)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/22_54f1549f-882e-4928-8b5a-9d30c7a5ddcd.png?v=1751295109
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XS / Black](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826381991)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111_33af6fae-5ed2-4c47-853e-760255d91d2c.png?v=1751295134
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XS / ocean blue](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826414759)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/33333_3d55e951-1211-4e8e-b0e3-830f89779ea5.png?v=1751295331
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XS / dark blue](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826447527)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111111.png?v=1751295356
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XS / Baby Pink](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826480295)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111111.png?v=1751295398
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [S / Beige](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826513063)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111_7d7bed8b-1e7d-4069-9886-f312413994d2.png?v=1751295171
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [S / Green](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826545831)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_a49722c3-a2ee-4086-ae1d-c7875b30d10e.png?v=1751295076
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [S / Hot Pink](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826578599)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/22_54f1549f-882e-4928-8b5a-9d30c7a5ddcd.png?v=1751295109
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [S / Black](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826611367)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111_33af6fae-5ed2-4c47-853e-760255d91d2c.png?v=1751295134
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [S / ocean blue](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826644135)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/33333_3d55e951-1211-4e8e-b0e3-830f89779ea5.png?v=1751295331
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [S / dark blue](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826676903)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111111.png?v=1751295356
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [S / Baby Pink](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826709671)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111111.png?v=1751295398
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [M / Beige](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826742439)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111_7d7bed8b-1e7d-4069-9886-f312413994d2.png?v=1751295171
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [M / Green](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826775207)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_a49722c3-a2ee-4086-ae1d-c7875b30d10e.png?v=1751295076
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [M / Hot Pink](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826807975)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/22_54f1549f-882e-4928-8b5a-9d30c7a5ddcd.png?v=1751295109
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [M / Black](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826840743)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111_33af6fae-5ed2-4c47-853e-760255d91d2c.png?v=1751295134
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [M / ocean blue](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826873511)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/33333_3d55e951-1211-4e8e-b0e3-830f89779ea5.png?v=1751295331
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [M / dark blue](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826906279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111111.png?v=1751295356
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [M / Baby Pink](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826939047)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111111.png?v=1751295398
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [L / Beige](https://qingsnkueens.com/products/two-tone-temptation?variant=46865826971815)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111_7d7bed8b-1e7d-4069-9886-f312413994d2.png?v=1751295171
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [L / Green](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827004583)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_a49722c3-a2ee-4086-ae1d-c7875b30d10e.png?v=1751295076
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [L / Hot Pink](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827037351)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/22_54f1549f-882e-4928-8b5a-9d30c7a5ddcd.png?v=1751295109
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [L / Black](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827070119)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111_33af6fae-5ed2-4c47-853e-760255d91d2c.png?v=1751295134
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [L / ocean blue](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827102887)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/33333_3d55e951-1211-4e8e-b0e3-830f89779ea5.png?v=1751295331
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [L / dark blue](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827135655)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111111.png?v=1751295356
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [L / Baby Pink](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827168423)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111111.png?v=1751295398
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XL / Beige](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827201191)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111_7d7bed8b-1e7d-4069-9886-f312413994d2.png?v=1751295171
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XL / Green](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827233959)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_a49722c3-a2ee-4086-ae1d-c7875b30d10e.png?v=1751295076
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XL / Hot Pink](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827266727)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/22_54f1549f-882e-4928-8b5a-9d30c7a5ddcd.png?v=1751295109
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XL / Black](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827299495)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111_33af6fae-5ed2-4c47-853e-760255d91d2c.png?v=1751295134
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XL / ocean blue](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827332263)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/33333_3d55e951-1211-4e8e-b0e3-830f89779ea5.png?v=1751295331
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XL / dark blue](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827365031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111111.png?v=1751295356
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XL / Baby Pink](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827397799)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111111.png?v=1751295398
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XXL / Beige](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827430567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111_7d7bed8b-1e7d-4069-9886-f312413994d2.png?v=1751295171
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XXL / Green](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827463335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_a49722c3-a2ee-4086-ae1d-c7875b30d10e.png?v=1751295076
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XXL / Hot Pink](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827496103)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/22_54f1549f-882e-4928-8b5a-9d30c7a5ddcd.png?v=1751295109
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XXL / Black](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827528871)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111_33af6fae-5ed2-4c47-853e-760255d91d2c.png?v=1751295134
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XXL / ocean blue](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827561639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/33333_3d55e951-1211-4e8e-b0e3-830f89779ea5.png?v=1751295331
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XXL / dark blue](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827594407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/111111.png?v=1751295356
-    Price: $25.00 USD
+    Price: $45.00 USD
   - [XXL / Baby Pink](https://qingsnkueens.com/products/two-tone-temptation?variant=46865827627175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111111.png?v=1751295398
-    Price: $25.00 USD
+    Price: $45.00 USD
 - [Velvet Bunny Wrap](https://qingsnkueens.com/products/velvet-bunny-wrap): Wrap yourself in whimsy and warmth with the Velvet Bunny Wrap – a statement accessory that's as functional as it is fantastical. Crafted from ultra-soft faux fur lined with silky blush pink satin, this oversized scrunchie-inspired wrap features long bunny-ear panels that drape elegantly over your shoulders or can be styled in multiple ways. Whether you're lounging at home or making a cozy fashion statement outdoors, it's the perfect blend of cute, cozy, and couture.
-  Updated: 2025-11-26T07:13:04Z
+  Updated: 2025-12-06T11:36:42Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_4cc19ab8-af10-49a3-9d6a-030a2671230b.png?v=1751307668
   - [White](https://qingsnkueens.com/products/velvet-bunny-wrap?variant=46866218680487)
     Availability: Available
-    Price: $19.99 USD
+    Price: $26.50 USD
   - [Brown](https://qingsnkueens.com/products/velvet-bunny-wrap?variant=46866218713255)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_26600389-2c7d-4d08-b43f-6556aa19fb3f.png?v=1751307668
-    Price: $19.99 USD
+    Price: $26.50 USD
 - [First Glimpse](https://qingsnkueens.com/products/first-glimpse): Celebrate life’s most precious beginning with First Glimpse, a stunning ultrasound video orb designed by Qings & Kueens. This elegant sphere brings your baby’s earliest moments—heartbeat, movements, and all—into a glowing crystal display that lights up your space and your heart.Just trim your video to 480x480, plug in via USB, and drag it into the orb. Prefer hands-free? Upload your files and we’ll handle the rest. Currently optimized for Windows (Mac/iOS support coming Q3 2025), it's the perfect keepsake for modern parents and a heartwarming gift for loved ones.
-  Updated: 2025-11-26T07:13:04Z
+  Updated: 2025-12-06T11:32:56Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_63e1b6e4-09cf-4387-b521-0d82ac375cc3.png?v=1751315759
-  Price: $32.00 USD
+  Price: $49.00 USD
 - [Glow Vase](https://qingsnkueens.com/products/glow-vase): Let sunshine bloom indoors with this elegant floral piece. Featuring a glowing sunflower surrounded by soft white and pink faux tulips, the Glow Vase is a beautiful mix of rustic warmth and gentle charm. The sunflower, known for always facing the sun, symbolizes joy and devotion — a quiet way of saying “you are my sunshine.” Only the sunflower lights up with a soft, warm LED glow, making it ideal as a cozy night lamp or a charming room accent. The tulips, though artificial, are crafted for a natural look and remain vibrant forever. With a simple push-button switch and two brightness levels, this vase brings both function and beauty to your space.
-  Updated: 2025-11-26T07:13:04Z
+  Updated: 2025-12-06T11:32:17Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_0d33bd4d-ff77-46f4-aa12-2c51f45a51d2.png?v=1751317459
   - [Orange](https://qingsnkueens.com/products/glow-vase?variant=46866410209447)
     Availability: Available
-    Price: $27.00 USD
+    Price: $45.00 USD
   - [White](https://qingsnkueens.com/products/glow-vase?variant=46866410242215)
     Availability: Available
-    Price: $27.00 USD
+    Price: $45.00 USD
   - [Pink](https://qingsnkueens.com/products/glow-vase?variant=46866410274983)
     Availability: Available
-    Price: $27.00 USD
+    Price: $45.00 USD
 - [Starlit Bloom Hoodie](https://qingsnkueens.com/products/starlit-bloom-hoodie): Unveil your artistic side with the Starlit Bloom Hoodie — a cozy masterpiece where streetwear meets nature. Crafted in a soft indigo-toned fabric with a galaxy-splattered finish, this hoodie stands out with its hand-drawn floral detailing cascading from the shoulder. Each flower is intricately inked in deep navy, adding a delicate contrast to the rugged speckle-dyed base. Whether you're lounging in a park or lighting up a chilly night out, the Starlit Bloom Hoodie blends warmth, individuality, and effortless style into one wearable canvas.
-  Updated: 2025-11-26T07:13:05Z
+  Updated: 2025-12-06T11:31:25Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_8f8c63c3-5d95-459d-b15c-d18be775339c.png?v=1751641309
   - [XS / ocean blue](https://qingsnkueens.com/products/starlit-bloom-hoodie?variant=46876593586343)
     Availability: Available
-    Price: $19.95 USD
+    Price: $34.00 USD
   - [S / ocean blue](https://qingsnkueens.com/products/starlit-bloom-hoodie?variant=46876593619111)
     Availability: Available
-    Price: $19.95 USD
+    Price: $34.00 USD
   - [M / ocean blue](https://qingsnkueens.com/products/starlit-bloom-hoodie?variant=46876593651879)
     Availability: Available
-    Price: $19.95 USD
+    Price: $34.00 USD
   - [L / ocean blue](https://qingsnkueens.com/products/starlit-bloom-hoodie?variant=46876593684647)
     Availability: Available
-    Price: $19.95 USD
+    Price: $34.00 USD
   - [XL / ocean blue](https://qingsnkueens.com/products/starlit-bloom-hoodie?variant=46876593717415)
     Availability: Available
-    Price: $19.95 USD
+    Price: $34.00 USD
   - [XXL / ocean blue](https://qingsnkueens.com/products/starlit-bloom-hoodie?variant=46876593750183)
     Availability: Available
-    Price: $19.95 USD
+    Price: $34.00 USD
 - [Cloudberry Charm Dress](https://qingsnkueens.com/products/cloudberry-charm-dress): The Cloudberry Charm Dress is your go-to for soft elegance and effortless style. Designed with a flattering A-line silhouette and airy, pastel-toned fabric, it gives you a floaty, feminine look that works beautifully across occasions. The delicate pleated bodice, ruffled sleeves, and flowing hemline make it both romantic and wearable—perfect for brunches, garden parties, casual weddings, or even a dreamy sunset date. Whether you're styling it with heels and soft curls for an event, or pairing it with white sneakers and a denim jacket for a daytime outing, this dress does it all. Its lightweight material keeps you cool in warmer weather, while the unique cloudberry hue adds a fresh twist to your wardrobe. Soft on the skin and flattering on every body type, it's a versatile piece that lets you glow wherever you go.
-  Updated: 2025-11-26T07:13:05Z
+  Updated: 2025-12-06T11:30:37Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -2345,149 +2345,149 @@
   - [floral print / XS](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785148071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_9d04c395-b8d2-40ab-ba5a-52f79047515e.png?v=1751644207
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [floral print / S](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785180839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_9d04c395-b8d2-40ab-ba5a-52f79047515e.png?v=1751644207
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [floral print / M](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785213607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_9d04c395-b8d2-40ab-ba5a-52f79047515e.png?v=1751644207
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [floral print / L](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785246375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_9d04c395-b8d2-40ab-ba5a-52f79047515e.png?v=1751644207
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [floral print / XL](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785279143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_9d04c395-b8d2-40ab-ba5a-52f79047515e.png?v=1751644207
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [floral print / XXL](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785311911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_9d04c395-b8d2-40ab-ba5a-52f79047515e.png?v=1751644207
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [White / XS](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785344679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_24a37965-21f8-4a1f-a596-d1f364ea2215.png?v=1751644224
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [White / S](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785377447)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_24a37965-21f8-4a1f-a596-d1f364ea2215.png?v=1751644224
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [White / M](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785410215)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_24a37965-21f8-4a1f-a596-d1f364ea2215.png?v=1751644224
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [White / L](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785442983)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_24a37965-21f8-4a1f-a596-d1f364ea2215.png?v=1751644224
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [White / XL](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785475751)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_24a37965-21f8-4a1f-a596-d1f364ea2215.png?v=1751644224
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [White / XXL](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785508519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_24a37965-21f8-4a1f-a596-d1f364ea2215.png?v=1751644224
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [cream / XS](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785541287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6_099156e5-d911-4e41-ac3e-e51398ba0668.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [cream / S](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785574055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6_099156e5-d911-4e41-ac3e-e51398ba0668.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [cream / M](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785606823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6_099156e5-d911-4e41-ac3e-e51398ba0668.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [cream / L](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785639591)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6_099156e5-d911-4e41-ac3e-e51398ba0668.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [cream / XL](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785672359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6_099156e5-d911-4e41-ac3e-e51398ba0668.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [cream / XXL](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785705127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6_099156e5-d911-4e41-ac3e-e51398ba0668.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [Rose Print / XS](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785737895)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/9_37f1bf11-6dae-40d4-82db-7222c5e0283c.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [Rose Print / S](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785770663)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/9_37f1bf11-6dae-40d4-82db-7222c5e0283c.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [Rose Print / M](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785803431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/9_37f1bf11-6dae-40d4-82db-7222c5e0283c.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [Rose Print / L](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785836199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/9_37f1bf11-6dae-40d4-82db-7222c5e0283c.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [Rose Print / XL](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785868967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/9_37f1bf11-6dae-40d4-82db-7222c5e0283c.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [Rose Print / XXL](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785901735)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/9_37f1bf11-6dae-40d4-82db-7222c5e0283c.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [Ocean Blue / XS](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785934503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/12.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [Ocean Blue / S](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876785967271)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/12.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [Ocean Blue / M](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876786000039)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/12.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [Ocean Blue / L](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876786032807)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/12.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [Ocean Blue / XL](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876786065575)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/12.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [Ocean Blue / XXL](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876786098343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/12.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [dark blue / XS](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876786131111)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/dasasa.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [dark blue / S](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876786163879)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/dasasa.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [dark blue / M](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876786196647)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/dasasa.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [dark blue / L](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876786229415)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/dasasa.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [dark blue / XL](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876786262183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/dasasa.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
   - [dark blue / XXL](https://qingsnkueens.com/products/cloudberry-charm-dress?variant=46876786294951)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/dasasa.png?v=1751647356
-    Price: $21.75 USD
+    Price: $59.00 USD
 - [Glam Whirl Mini Dress](https://qingsnkueens.com/products/glam-whirl-mini-dress): The GlamWhirl Mini by Qings & Kueens is a bold, flirty dress that’s all about fun, flare, and feminine charm. Designed with a lace overlay, a cutout back, and a whirling mini hem, it adds effortless glam to any look. Whether you're headed to a birthday party, college event, brunch with friends, Eid celebration, or a girls' night out, this dress has your back. Pair it with heels for an elegant edge or sneakers for a playful twist—either way, you'll shine in every color.
-  Updated: 2025-11-26T07:13:05Z
+  Updated: 2025-12-06T11:27:51Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -2495,77 +2495,77 @@
   - [Purple / XS](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878157832359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_5b6c3898-1a66-4001-acd5-ce9476a58b96.png?v=1751706237
-    Price: $24.99 USD
+    Price: $30.75 USD
   - [Purple / S](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878157865127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_5b6c3898-1a66-4001-acd5-ce9476a58b96.png?v=1751706237
-    Price: $24.99 USD
+    Price: $30.75 USD
   - [Purple / M](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878157897895)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_5b6c3898-1a66-4001-acd5-ce9476a58b96.png?v=1751706237
-    Price: $24.99 USD
+    Price: $30.75 USD
   - [Purple / L](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878157930663)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_5b6c3898-1a66-4001-acd5-ce9476a58b96.png?v=1751706237
-    Price: $24.99 USD
+    Price: $30.75 USD
   - [Purple / XL](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878157963431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_5b6c3898-1a66-4001-acd5-ce9476a58b96.png?v=1751706237
-    Price: $24.99 USD
+    Price: $30.75 USD
   - [Purple / XXL](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878157996199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_5b6c3898-1a66-4001-acd5-ce9476a58b96.png?v=1751706237
-    Price: $24.99 USD
+    Price: $30.75 USD
   - [ocean blue / XS](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878158028967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_93d4d41d-de09-4331-a112-b4ff15407013.png?v=1751706266
-    Price: $24.99 USD
+    Price: $30.75 USD
   - [ocean blue / S](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878158061735)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_93d4d41d-de09-4331-a112-b4ff15407013.png?v=1751706266
-    Price: $24.99 USD
+    Price: $30.75 USD
   - [ocean blue / M](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878158094503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_93d4d41d-de09-4331-a112-b4ff15407013.png?v=1751706266
-    Price: $24.99 USD
+    Price: $30.75 USD
   - [ocean blue / L](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878158127271)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_93d4d41d-de09-4331-a112-b4ff15407013.png?v=1751706266
-    Price: $24.99 USD
+    Price: $30.75 USD
   - [ocean blue / XL](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878158160039)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_93d4d41d-de09-4331-a112-b4ff15407013.png?v=1751706266
-    Price: $24.99 USD
+    Price: $30.75 USD
   - [ocean blue / XXL](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878158192807)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_93d4d41d-de09-4331-a112-b4ff15407013.png?v=1751706266
-    Price: $24.99 USD
+    Price: $30.75 USD
   - [Orange / XS](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878158225575)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6_399441b5-99c9-4349-a3f8-192d91100766.png?v=1751706289
-    Price: $24.99 USD
+    Price: $30.75 USD
   - [Orange / S](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878158258343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6_399441b5-99c9-4349-a3f8-192d91100766.png?v=1751706289
-    Price: $24.99 USD
+    Price: $30.75 USD
   - [Orange / M](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878158291111)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6_399441b5-99c9-4349-a3f8-192d91100766.png?v=1751706289
-    Price: $24.99 USD
+    Price: $30.75 USD
   - [Orange / L](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878158323879)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6_399441b5-99c9-4349-a3f8-192d91100766.png?v=1751706289
-    Price: $24.99 USD
+    Price: $30.75 USD
   - [Orange / XL](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878158356647)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6_399441b5-99c9-4349-a3f8-192d91100766.png?v=1751706289
-    Price: $24.99 USD
+    Price: $30.75 USD
   - [Orange / XXL](https://qingsnkueens.com/products/glam-whirl-mini-dress?variant=46878158389415)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6_399441b5-99c9-4349-a3f8-192d91100766.png?v=1751706289
-    Price: $24.99 USD
+    Price: $30.75 USD
 - [Midnight Dots Mini Dress](https://qingsnkueens.com/products/midnight-dots-mini-dress): Step into timeless elegance with the Midnight Dots Mini Dress by Qings and Kueens — a flirty, flattering piece that’s made to turn heads. Featuring a deep sprinkled with classic white polka dots, this sleeveless mini dress hugs you at the waist and flows into a playful skater-style hem. The high neckline adds a touch of grace, while the soft, breathable fabric keeps you comfortable all day. Perfect for café dates, city strolls, summer parties, or just a stylish day out, this dress is your new wardrobe essential. Bold yet minimal, the Midnight Dots Mini transitions effortlessly from day to night — just pair it with sneakers for daytime charm or heels for an evening glow-up.
-  Updated: 2025-12-02T11:23:48Z
+  Updated: 2025-12-06T11:25:54Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -2573,53 +2573,53 @@
   - [Navy / XS](https://qingsnkueens.com/products/midnight-dots-mini-dress?variant=46879295799463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_2d41cf7d-cb05-4eb2-8b4d-6c5126cc87d5.png?v=1751791444
-    Price: $23.15 USD
+    Price: $28.50 USD
   - [Navy / S](https://qingsnkueens.com/products/midnight-dots-mini-dress?variant=46879295832231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_2d41cf7d-cb05-4eb2-8b4d-6c5126cc87d5.png?v=1751791444
-    Price: $23.15 USD
+    Price: $28.50 USD
   - [Navy / M](https://qingsnkueens.com/products/midnight-dots-mini-dress?variant=46879295864999)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_2d41cf7d-cb05-4eb2-8b4d-6c5126cc87d5.png?v=1751791444
-    Price: $23.15 USD
+    Price: $28.50 USD
   - [Navy / L](https://qingsnkueens.com/products/midnight-dots-mini-dress?variant=46879295897767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_2d41cf7d-cb05-4eb2-8b4d-6c5126cc87d5.png?v=1751791444
-    Price: $23.15 USD
+    Price: $28.50 USD
   - [Navy / XL](https://qingsnkueens.com/products/midnight-dots-mini-dress?variant=46879295930535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_2d41cf7d-cb05-4eb2-8b4d-6c5126cc87d5.png?v=1751791444
-    Price: $23.15 USD
+    Price: $28.50 USD
   - [Navy / XXL](https://qingsnkueens.com/products/midnight-dots-mini-dress?variant=46879295963303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_2d41cf7d-cb05-4eb2-8b4d-6c5126cc87d5.png?v=1751791444
-    Price: $23.15 USD
+    Price: $28.50 USD
   - [Brown / XS](https://qingsnkueens.com/products/midnight-dots-mini-dress?variant=46879295996071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_274fb389-eeaa-4143-8c02-5cb7540316f6.png?v=1751791477
-    Price: $23.15 USD
+    Price: $28.50 USD
   - [Brown / S](https://qingsnkueens.com/products/midnight-dots-mini-dress?variant=46879296028839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_274fb389-eeaa-4143-8c02-5cb7540316f6.png?v=1751791477
-    Price: $23.15 USD
+    Price: $28.50 USD
   - [Brown / M](https://qingsnkueens.com/products/midnight-dots-mini-dress?variant=46879296061607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_274fb389-eeaa-4143-8c02-5cb7540316f6.png?v=1751791477
-    Price: $23.15 USD
+    Price: $28.50 USD
   - [Brown / L](https://qingsnkueens.com/products/midnight-dots-mini-dress?variant=46879296094375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_274fb389-eeaa-4143-8c02-5cb7540316f6.png?v=1751791477
-    Price: $23.15 USD
+    Price: $28.50 USD
   - [Brown / XL](https://qingsnkueens.com/products/midnight-dots-mini-dress?variant=46879296127143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_274fb389-eeaa-4143-8c02-5cb7540316f6.png?v=1751791477
-    Price: $23.15 USD
+    Price: $28.50 USD
   - [Brown / XXL](https://qingsnkueens.com/products/midnight-dots-mini-dress?variant=46879296159911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_274fb389-eeaa-4143-8c02-5cb7540316f6.png?v=1751791477
-    Price: $23.15 USD
+    Price: $28.50 USD
 - [Velora Petal Mini Dress](https://qingsnkueens.com/products/velora-petal-mini-dress): Unleash effortless elegance with the Cascade Charm Dress, a free-flowing masterpiece designed to move with you. Featuring a halter neckline and a softly layered asymmetric hem, this dress brings together modern grace and playful femininity in every step. Its breezy silhouette flatters all body types, while the delicate drape creates a mesmerizing flow that turns heads.
-  Updated: 2025-11-26T07:13:05Z
+  Updated: 2025-12-06T11:23:57Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -2627,149 +2627,149 @@
   - [ocean blue / XS](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879513510055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_0647684c-b363-4134-9779-169e2adc398a.png?v=1751814578
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [ocean blue / S](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879513542823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_0647684c-b363-4134-9779-169e2adc398a.png?v=1751814578
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [ocean blue / M](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879513575591)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_0647684c-b363-4134-9779-169e2adc398a.png?v=1751814578
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [ocean blue / L](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879513608359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_0647684c-b363-4134-9779-169e2adc398a.png?v=1751814578
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [ocean blue / XL](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879513641127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_0647684c-b363-4134-9779-169e2adc398a.png?v=1751814578
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [ocean blue / XXL](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879513673895)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_0647684c-b363-4134-9779-169e2adc398a.png?v=1751814578
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Black / XS](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879513706663)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_53a6c521-3a48-4561-9e39-5491fa6426eb.png?v=1751814589
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Black / S](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879513739431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_53a6c521-3a48-4561-9e39-5491fa6426eb.png?v=1751814589
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Black / M](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879513772199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_53a6c521-3a48-4561-9e39-5491fa6426eb.png?v=1751814589
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Black / L](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879513804967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_53a6c521-3a48-4561-9e39-5491fa6426eb.png?v=1751814589
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Black / XL](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879513837735)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_53a6c521-3a48-4561-9e39-5491fa6426eb.png?v=1751814589
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Black / XXL](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879513870503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_53a6c521-3a48-4561-9e39-5491fa6426eb.png?v=1751814589
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [White / XS](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879513903271)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_92193c5d-f50d-41f1-ba7b-855473537d72.png?v=1751814603
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [White / S](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879513936039)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_92193c5d-f50d-41f1-ba7b-855473537d72.png?v=1751814603
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [White / M](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879513968807)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_92193c5d-f50d-41f1-ba7b-855473537d72.png?v=1751814603
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [White / L](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514001575)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_92193c5d-f50d-41f1-ba7b-855473537d72.png?v=1751814603
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [White / XL](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514034343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_92193c5d-f50d-41f1-ba7b-855473537d72.png?v=1751814603
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [White / XXL](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514067111)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_92193c5d-f50d-41f1-ba7b-855473537d72.png?v=1751814603
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Baby Pink / XS](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514099879)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_0de3922f-a2aa-42e4-8aed-7e00222c95cb.png?v=1751814616
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Baby Pink / S](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514132647)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_0de3922f-a2aa-42e4-8aed-7e00222c95cb.png?v=1751814616
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Baby Pink / M](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514165415)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_0de3922f-a2aa-42e4-8aed-7e00222c95cb.png?v=1751814616
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Baby Pink / L](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514198183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_0de3922f-a2aa-42e4-8aed-7e00222c95cb.png?v=1751814616
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Baby Pink / XL](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514230951)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_0de3922f-a2aa-42e4-8aed-7e00222c95cb.png?v=1751814616
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Baby Pink / XXL](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514263719)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_0de3922f-a2aa-42e4-8aed-7e00222c95cb.png?v=1751814616
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Green / XS](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514296487)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/15_dbd50b87-e1c3-45d2-ab4c-b86f8873bbf3.png?v=1751814627
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Green / S](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514329255)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/15_dbd50b87-e1c3-45d2-ab4c-b86f8873bbf3.png?v=1751814627
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Green / M](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514362023)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/15_dbd50b87-e1c3-45d2-ab4c-b86f8873bbf3.png?v=1751814627
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Green / L](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514394791)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/15_dbd50b87-e1c3-45d2-ab4c-b86f8873bbf3.png?v=1751814627
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Green / XL](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514427559)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/15_dbd50b87-e1c3-45d2-ab4c-b86f8873bbf3.png?v=1751814627
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [Green / XXL](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514460327)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/15_dbd50b87-e1c3-45d2-ab4c-b86f8873bbf3.png?v=1751814627
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [darkRed / XS](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514493095)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/18.png?v=1751814643
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [darkRed / S](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514525863)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/18.png?v=1751814643
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [darkRed / M](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514558631)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/18.png?v=1751814643
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [darkRed / L](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514591399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/18.png?v=1751814643
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [darkRed / XL](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514624167)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/18.png?v=1751814643
-    Price: $21.99 USD
+    Price: $27.50 USD
   - [darkRed / XXL](https://qingsnkueens.com/products/velora-petal-mini-dress?variant=46879514656935)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/18.png?v=1751814643
-    Price: $21.99 USD
+    Price: $27.50 USD
 - [Sky Petal Shorts](https://qingsnkueens.com/products/sky-petal-shorts): Float through your day with the elegance of the Sky Petal Shorts by Qings and Kueens. Designed for those who want comfort without compromising on charm, these dreamy sky-blue shorts feature delicate lace layers that flutter like petals in the breeze. The high-waist band gives a flattering fit, while the tiered ruffles add a flirty, feminine touch perfect for brunch dates, dance classes, or just feeling beautiful at home.
-  Updated: 2025-11-26T07:13:05Z
+  Updated: 2025-12-06T11:20:12Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -2777,53 +2777,53 @@
   - [dark blue / XS](https://qingsnkueens.com/products/sky-petal-shorts?variant=46879740330151)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/slfvnfldndnvl.png?v=1751834329
-    Price: $25.99 USD
+    Price: $31.99 USD
   - [dark blue / S](https://qingsnkueens.com/products/sky-petal-shorts?variant=46879740362919)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/slfvnfldndnvl.png?v=1751834329
-    Price: $25.99 USD
+    Price: $31.99 USD
   - [dark blue / M](https://qingsnkueens.com/products/sky-petal-shorts?variant=46879740395687)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/slfvnfldndnvl.png?v=1751834329
-    Price: $25.99 USD
+    Price: $31.99 USD
   - [dark blue / L](https://qingsnkueens.com/products/sky-petal-shorts?variant=46879740428455)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/slfvnfldndnvl.png?v=1751834329
-    Price: $25.99 USD
+    Price: $31.99 USD
   - [dark blue / XL](https://qingsnkueens.com/products/sky-petal-shorts?variant=46879740461223)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/slfvnfldndnvl.png?v=1751834329
-    Price: $25.99 USD
+    Price: $31.99 USD
   - [dark blue / XXL](https://qingsnkueens.com/products/sky-petal-shorts?variant=46879740493991)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/slfvnfldndnvl.png?v=1751834329
-    Price: $25.99 USD
+    Price: $31.99 USD
   - [Ocean Blue / XS](https://qingsnkueens.com/products/sky-petal-shorts?variant=46879740526759)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/sdcscsd_vdssd.png?v=1751834366
-    Price: $25.99 USD
+    Price: $31.99 USD
   - [Ocean Blue / S](https://qingsnkueens.com/products/sky-petal-shorts?variant=46879740559527)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/sdcscsd_vdssd.png?v=1751834366
-    Price: $25.99 USD
+    Price: $31.99 USD
   - [Ocean Blue / M](https://qingsnkueens.com/products/sky-petal-shorts?variant=46879740592295)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/sdcscsd_vdssd.png?v=1751834366
-    Price: $25.99 USD
+    Price: $31.99 USD
   - [Ocean Blue / L](https://qingsnkueens.com/products/sky-petal-shorts?variant=46879740625063)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/sdcscsd_vdssd.png?v=1751834366
-    Price: $25.99 USD
+    Price: $31.99 USD
   - [Ocean Blue / XL](https://qingsnkueens.com/products/sky-petal-shorts?variant=46879740657831)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/sdcscsd_vdssd.png?v=1751834366
-    Price: $25.99 USD
+    Price: $31.99 USD
   - [Ocean Blue / XXL](https://qingsnkueens.com/products/sky-petal-shorts?variant=46879740690599)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/sdcscsd_vdssd.png?v=1751834366
-    Price: $25.99 USD
+    Price: $31.99 USD
 - [Leopard Hoodie | Oversized Unisex Streetwear Animal Print Pullover](https://qingsnkueens.com/products/leopard-hoodie): Stand out with the Leopard Hoodie – oversized unisex streetwear in bold animal print. Soft, comfy, and designed for everyday urban style,with our fast shipping...
-  Updated: 2025-11-26T07:13:05Z
+  Updated: 2025-12-06T09:09:54Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -2877,7 +2877,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/13_a79e0e92-dc65-4ba5-8b34-50f3743f812a.png?v=1751840847
     Price: $37.99 USD
 - [Heather Gray patchwork](https://qingsnkueens.com/products/heather-gray-patchwork): Where texture meets tone, the Heather Gray Patchwork Hoodie is a laid-back staple with unexpected edge. Designed in a cool heather gray, it features unique patchwork paneling that adds subtle depth to its minimalist look. Crafted from a soft cotton-blend fleece, this hoodie delivers next-level comfort with a relaxed drop-shoulder fit, double-lined hood, and cozy kangaroo pocket. Perfect for daily wear or layered fits, the Heather Gray Patchwork Hoodie blends urban utility with effortless street style. With its ribbed cuffs and hem, premium stitching, and all-season versatility, this hoodie isn't just comfort it's character.
-  Updated: 2025-11-26T07:13:06Z
+  Updated: 2025-12-06T09:09:54Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -2907,7 +2907,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_70867154-56ba-4e5f-9a22-03cea2b2e735.png?v=1751840810
     Price: $37.99 USD
 - [Flora Muse Midi Dress](https://qingsnkueens.com/products/flora-muse-midi-dress): The Flora Muse Midi Dress brings the sun-soaked charm of Sicily to your closet. Crafted in airy, structured cotton-poplin and blooming with a vibrant garden of florals, this dress evokes the essence of Mediterranean summers. The bustier-style bodice hugs the figure for a feminine silhouette, while the gathered waist flows effortlessly into a floaty, tiered midi skirt—perfect for sunlit strolls and warm city escapes.
-  Updated: 2025-11-26T07:13:06Z
+  Updated: 2025-12-06T09:09:54Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -2941,7 +2941,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/p3hfi5dt.ijh_IMG_02_2110099399362.jpg?v=1751925527
     Price: $309.00 USD
 - [Azure Midi Dress](https://qingsnkueens.com/products/azure-midi-dress): Bring the spirit of an Italian summer to your wardrobe with the Azure Midi Dress. Crafted in Italy from 100% crisp cotton, this sleeveless midi features a vivid multicolor palette bursting with citrus fruits, florals, and hand-painted tile motifs that echo the sun-drenched charm of the Amalfi Coast. The fitted bodice flatters your shape, while the full, gathered skirt adds elegant movement with every step. A concealed zipper ensures a seamless finish, while the lightweight fabric makes it perfect for warm-weather getaways or garden parties. Pair it with strappy sandals and bold earrings for a look that’s effortlessly joyful and timelessly chic.
-  Updated: 2025-11-26T07:13:06Z
+  Updated: 2025-12-06T09:09:54Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -2979,7 +2979,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Capture_11fd2f21-83f7-46dd-bb52-90fffb18bbb1.png?v=1751929793
     Price: $249.00 USD
 - [Dusky Rosewood Mini Dress](https://qingsnkueens.com/products/dusky-rosewood-mini-dress): The Dusky Rosewood Dress is a charming addition to your summer wardrobe, blending elegance with effortless flair. Crafted from 100% silk, it flows with grace, featuring a striking floral print that fades into deep, moody tones — evoking twilight blooms in full artistry. Wide, billowy sleeves offer a relaxed silhouette, while the cinched waist and ruffle-tiered hem bring a touch of playful femininity. Whether you're heading to a coastal escape, this mini dress ensures you'll float through summer in timeless style.
-  Updated: 2025-11-26T07:13:06Z
+  Updated: 2025-12-06T09:09:54Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3009,7 +3009,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_9df70390-caba-4fdc-b011-67a5051cb175.png?v=1752010101
     Price: $185.00 USD
 - [Golden Amalfi Maxi Dress](https://qingsnkueens.com/products/golden-amalfi-maxi-dress): A radiant ode to Mediterranean elegance, the Golden Amalfi Maxi Dress by Qings And Kueens captures the sun-drenched charm of coastal Italy. Crafted from 100% pure silk, it features a flowing silhouette adorned with intricate baroque-inspired golden-yellow patterns, evoking the opulence of ancient palazzos. The relaxed fit, draped sleeves, and ankle-grazing hem offer both comfort and glamour, perfect for sunlit strolls or breezy evening soirées.
-  Updated: 2025-11-26T07:13:06Z
+  Updated: 2025-12-06T09:09:54Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3039,7 +3039,7 @@
     Availability: Available
     Price: $295.00 USD
 - [Citrus Bloom Mini Dress](https://qingsnkueens.com/products/citrus-bloom-mini-dress): A vibrant ode to summer, the Citrus Bloom Mini Dress brings a burst of Mediterranean charm to any occasion. Made in Italy from 98% cotton and 2% elastane, it offers a breathable, flattering fit with a vivid multicolor palette of lemons and florals. Fully lined in a soft cotton-elastane blend, it ensures all-day comfort and a smooth silhouette. Perfect for vacations, garden brunches, or sunny strolls. Dry clean only to preserve its beauty.
-  Updated: 2025-11-26T07:13:06Z
+  Updated: 2025-12-06T09:09:54Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3069,7 +3069,7 @@
     Availability: Available
     Price: $275.00 USD
 - [Rio Echo Maxi Dress](https://qingsnkueens.com/products/rio-echo-maxi-dress): The Rio Echo Maxi Dress is a vibrant expression of movement, color, and freedom. Crafted from luxurious multicolored silk-twill, it captures the spirit of Rio’s carnival with every swirl and step. Designed for effortless elegance, this piece slips on easily and offers a relaxed silhouette that comfortably fits sizes XSmall to XLarge, making it ideal for all body shapes. The fluid drape of 100% silk adds a touch of luxury to its bold, artistic print, while the lightweight construction ensures all-day comfort. Whether you're dressing for a sunlit escape or a glamorous night out, the Rio Echo Maxi Dress delivers standout style with unmatched ease. Model is 177 cm / 5'10" and typically wears a size Small. Dry clean only.
-  Updated: 2025-11-26T07:13:06Z
+  Updated: 2025-12-06T09:09:54Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3099,7 +3099,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_a733e33f-ae5e-4608-bf67-32e283354416.png?v=1752144391
     Price: $349.00 USD
 - [Palm Candy Jumpsuit](https://qingsnkueens.com/products/palm-candy-jumpsuit): Bursting with joy and tropical flair, the Palm Candy Jumpsuit by Qings and Kueens captures the spirited energy of Rio de Janeiro. Crafted from a breathable linen-blend fabric, this vibrant piece is adorned with playful floral motifs that echo the colorful culture and lively rhythms of Brazil. The vivid swirl print and punchy palette make it a standout for beach strolls, city escapades, or sun-drenched getaways. Designed with a flattering self-tie belt to cinch the waist and comfortable shirring at the back, this one-piece offers both structure and ease. Whether you're dancing through street markets or sipping fresh coconut water seaside, this jumpsuit keeps you effortlessly cool and unmistakably stylish.
-  Updated: 2025-11-26T07:13:07Z
+  Updated: 2025-12-06T09:09:55Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3129,7 +3129,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_4f0bd060-17a3-436a-abf7-4f4bee1c9349.png?v=1752185049
     Price: $69.00 USD
 - [Midnight Florentina Jumpsuit](https://qingsnkueens.com/products/midnight-florentina-jumpsuit): The Midnight Florentina Jumpsuit by Qings and Kueens is a striking piece crafted from multicolored silk crepe de chine, showcasing a vivid blend of floral prints and geometric motifs inspired by blooming gardens and 19th-century architecture. The strapless design features a soft ruffled overlay that adds a touch of elegance, while the wide-leg silhouette flows gracefully with every movement. Designed to pull on with ease, it comes with a self-tie belt to cinch the waist and flatter the figure. Made from 100% silk, this jumpsuit is best kept pristine with dry cleaning—perfect for elegant evenings, summer events, or travel in style.
-  Updated: 2025-11-26T07:13:07Z
+  Updated: 2025-12-06T09:09:55Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3155,7 +3155,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_b6620d21-0b1c-4cee-a1f6-c95f90b9782f.png?v=1752188222
     Price: $239.00 USD
 - [Candy Chancellor Jacket](https://qingsnkueens.com/products/candy-chancellor-jacket): The Candy Chancellor Jacket by Qings and kueens blends playful charm with sophisticated tailoring. Crafted from pink cotton tweed in the designer’s signature Primrose Pink hue, it features slightly cropped sleeves, structured shoulder pads, and a sharp silhouette. The front is finished with a classic button placket, while a soft viscose lining ensures comfort and ease of wear. Made in Romania, this statement jacket is a standalone piece—perfect for adding polish and personality to any look. ONLY JACKET!!!
-  Updated: 2025-11-26T07:13:07Z
+  Updated: 2025-12-06T09:09:55Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3185,7 +3185,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_a9222ee6-b366-49c5-9b81-6b89b09bbb35.png?v=1752193069
     Price: $395.00 USD
 - [Velvet Panther Jacket](https://qingsnkueens.com/products/velvet-panther-jacket): Unleash your inner power with the Velvet Panther Jacket by qings and kueens—a bold fusion of wild style and refined craftsmanship. Made in Italy, this jacket boasts a rich off-brown leopard print crafted from 100% polyester faux fur with sleek leather accents. The plush texture is complemented by a smooth lining of viscose and cotton, ensuring supreme comfort and warmth during chilly evenings. Designed with a structured collar, slash pockets, and a two-way zipper, it merges utility with fashion-forward sensibility. Whether thrown over casual denim or paired with high boots for a night out, this cropped silhouette radiates unapologetic confidence. From its fierce pattern to its luxe feel, the Velvet Panther Jacket is a winter wardrobe statement.
-  Updated: 2025-11-26T07:13:07Z
+  Updated: 2025-12-06T09:09:55Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3215,7 +3215,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_bd0498e1-f78b-4d78-8c5f-b52ae7faa662.png?v=1752194768
     Price: $499.00 USD
 - [Ocean Poise Mini Dress](https://qingsnkueens.com/products/ocean-poise-mini-dress): Laidback by day, elevated by night — the Ocean Poise Mini Dress is your off-duty essential with after-dark energy. Designed in a rich navy hue with subtle stripe detailing, it brings quiet elegance to relaxed silhouettes. Whether it's golden hour hangs or low-key party plans, this piece fits every mood. With a collared neckline, front button opening, and a relaxed fit, it slips on with ease while making a refined statement. The soft blend of polyester, viscose, and spandex offers comfort and movement, making it the perfect mini for dressed-down days and effortless nights.
-  Updated: 2025-11-26T07:13:07Z
+  Updated: 2025-12-06T09:09:55Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3261,7 +3261,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_5bea57da-87c3-4d89-909e-499bb9e21da5.png?v=1752335803
     Price: $65.00 USD
 - [Sharp Edge Mini Dress](https://qingsnkueens.com/products/sharp-edge-mini-dress): Cut with precision and made to turn heads, the Sharp Edge Mini Dress is your go-to statement piece. This sleek, sleeveless mini features bold contrast trim that outlines the silhouette—highlighting your shape with clean, confident lines. Whether you choose a vibrant hue or a classic neutral, the sharp-edged design brings structure and modern flair to every color. Crafted for both comfort and versatility, this dress effortlessly blends minimalism with standout style. Pair it with sneakers for street-style ease, or elevate the look with heels and bold accessories. From day parties to dinner dates, this dress keeps your look crisp and cool from every angle.
-  Updated: 2025-11-26T07:13:07Z
+  Updated: 2025-12-06T11:00:59Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3269,96 +3269,96 @@
   - [Pink / XS](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186384039)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_0_56_0f.jpg?v=1752361829
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Pink / S](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186416807)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_0_56_0f.jpg?v=1752361829
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Pink / M](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186449575)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_0_56_0f.jpg?v=1752361829
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Pink / L](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186482343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_0_56_0f.jpg?v=1752361829
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Pink / XL](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186515111)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_0_56_0f.jpg?v=1752361829
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Pink / XXL](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186547879)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_0_56_0f.jpg?v=1752361829
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Pink / 3XL](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186580647)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_0_56_0f.jpg?v=1752361829
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Blue / XS](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186613415)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_1_07_17f.jpg?v=1752361938
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Blue / S](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186646183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_1_07_17f.jpg?v=1752361938
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Blue / M](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186678951)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_1_07_17f.jpg?v=1752361938
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Blue / L](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186711719)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_1_07_17f.jpg?v=1752361938
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Blue / XL](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186744487)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_1_07_17f.jpg?v=1752361938
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Blue / XXL](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186777255)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_1_07_17f.jpg?v=1752361938
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Blue / 3XL](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186810023)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_1_07_17f.jpg?v=1752361938
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Black / XS](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186842791)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_0_12_18f.jpg?v=1752361992
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Black / S](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186875559)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_0_12_18f.jpg?v=1752361992
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Black / M](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186908327)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_0_12_18f.jpg?v=1752361992
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Black / L](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186941095)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_0_12_18f.jpg?v=1752361992
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Black / XL](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893186973863)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_0_12_18f.jpg?v=1752361992
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Black / XXL](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893187006631)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_0_12_18f.jpg?v=1752361992
-    Price: $19.00 USD
+    Price: $31.99 USD
   - [Black / 3XL](https://qingsnkueens.com/products/sharp-edge-mini-dress?variant=46893187039399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ssstik_frame_0_12_18f.jpg?v=1752361992
-    Price: $19.00 USD
+    Price: $31.99 USD
 - [ClarityMax](https://qingsnkueens.com/products/claritymax): ClarityMax by Qings and Kueens is the ultimate solution for spotless, crystal-clear glass. With just one swipe, it removes stubborn oil film and grime, prevents future buildup, and instantly enhances visibility in any weather. Designed to repel water and eliminate fog, ClarityMax keeps your windscreens, windows, and mirrors perfectly clear without scrubbing or streaks. Whether it’s rain, dust, or humidity, this powerful formula ensures you see the road ahead with complete clarity — giving you the confidence to drive safely, no matter the conditions.
-  Updated: 2025-11-26T07:13:07Z
+  Updated: 2025-12-06T09:09:55Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_53205407-bee0-47cb-9947-857af8b59d46.png?v=1752576360
   Price: $15.00 USD
 - [TempLock Pro](https://qingsnkueens.com/products/templock-pro): Introducing the TempLock Pro – the ultimate drink guardian built for those who move fast and sip smart. This universal cup insulator fits all cups from 12oz to 30oz, locking in the perfect temperature whether you’re craving ice-cold refreshment or a piping hot boost. With TempLock VacuumSeal Technology, your drinks stay cold for over 24 hours and hot for 6+ hours. Its anti-slip neon grip ensures bold style and secure handling, while the sweat-proof and leak-proof body keeps your hands and bag mess-free. Plus, its cupholder-ready design makes it the perfect travel companion. TempLock Pro is not just a holder — it’s a statement. Lock it. Grip it. Own every sip.
-  Updated: 2025-11-26T07:13:08Z
+  Updated: 2025-12-06T10:59:45Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3366,105 +3366,105 @@
   - [Pink](https://qingsnkueens.com/products/templock-pro?variant=46897507565735)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_505283ed-a317-41d9-849c-0688d6b622e0.png?v=1752608223
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [Black](https://qingsnkueens.com/products/templock-pro?variant=46897507598503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_c80836f3-ae3e-42e7-9d06-5597fd5cb4be.png?v=1752608233
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [dark green](https://qingsnkueens.com/products/templock-pro?variant=46897507631271)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_2e837711-21c8-4c0d-ae40-27f04347fef7.png?v=1752608245
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [Baby Pink](https://qingsnkueens.com/products/templock-pro?variant=46897507664039)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_cd392f13-4e3e-4919-8129-e0e3d57458b0.png?v=1752608240
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [Pink And White](https://qingsnkueens.com/products/templock-pro?variant=46897507696807)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6_0aa4e117-44ab-496f-8169-50a79c7c8133.png?v=1752608246
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [red and orange](https://qingsnkueens.com/products/templock-pro?variant=46897507729575)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_efb2f347-b6df-4018-8931-cc49dcd7aec3.png?v=1752608249
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [White](https://qingsnkueens.com/products/templock-pro?variant=46897507762343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_021f7560-5d3e-481b-b539-dfa7d01b458c.png?v=1752608251
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [Red](https://qingsnkueens.com/products/templock-pro?variant=46897507795111)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/10_efeda5e7-2bb4-4320-83da-5cc396585b4c.png?v=1752608256
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [Green](https://qingsnkueens.com/products/templock-pro?variant=46897507827879)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_50cc972c-0470-43af-aac7-7e13914870a7.png?v=1752608258
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [Ocean Blue](https://qingsnkueens.com/products/templock-pro?variant=46897507860647)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/12_e8fa6c14-c56a-42d5-9d2b-9cada00b18de.png?v=1752608261
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [Gray](https://qingsnkueens.com/products/templock-pro?variant=46897507893415)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/13_d87935eb-6ecf-4490-a254-56dd75793cac.png?v=1752608264
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [Neon](https://qingsnkueens.com/products/templock-pro?variant=46897507926183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/15_66728c29-f01a-4a9e-95e3-d91fe4a45e4d.png?v=1752608269
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [light grey](https://qingsnkueens.com/products/templock-pro?variant=46897507958951)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/14_1586e1e6-7d95-4c20-9bed-b87df30dcf6b.png?v=1752608266
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [shark bite](https://qingsnkueens.com/products/templock-pro?variant=46897507991719)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/16_f4809577-94cd-466d-9483-b71ff7ee4901.png?v=1752608276
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [Rainbow](https://qingsnkueens.com/products/templock-pro?variant=46897508024487)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/17_f07efc33-d9cf-422d-affd-7b81656c5b5d.png?v=1752608279
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [Cow Skin](https://qingsnkueens.com/products/templock-pro?variant=46897508057255)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/18_e6ed74f9-18bf-40dc-80f6-3a43a94089f6.png?v=1752608282
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [Roket Pop](https://qingsnkueens.com/products/templock-pro?variant=46897508090023)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/20.png?v=1752608286
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [Dark Red](https://qingsnkueens.com/products/templock-pro?variant=46897508122791)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/21.png?v=1752608295
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [Flowers](https://qingsnkueens.com/products/templock-pro?variant=46897508155559)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/22_a6866977-6bd8-426b-b8b4-41132b476b56.png?v=1752608301
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [Dark Black](https://qingsnkueens.com/products/templock-pro?variant=46897508188327)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/23.png?v=1752608305
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [blue and orange](https://qingsnkueens.com/products/templock-pro?variant=46897508221095)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/24.png?v=1752608318
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [Navy Green](https://qingsnkueens.com/products/templock-pro?variant=46897508253863)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/25.png?v=1752608327
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [ocean blue](https://qingsnkueens.com/products/templock-pro?variant=46897508286631)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/26.png?v=1752608334
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [Yellow](https://qingsnkueens.com/products/templock-pro?variant=46897508319399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/27.png?v=1752608337
-    Price: $19.99 USD
+    Price: $29.99 USD
   - [Blue](https://qingsnkueens.com/products/templock-pro?variant=46897508352167)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/28.png?v=1752608340
-    Price: $19.99 USD
+    Price: $29.99 USD
 - [LeafLoom Hoodie](https://qingsnkueens.com/products/leafloom-hoodie): Step into comfort and nature-inspired style with the LeafLoom Hoodie, a cozy masterpiece woven to feel like your favorite blanket. Designed with an oversized hood, soft textured fabric, and an adjustable drawstring waist, it effortlessly blends laid-back charm with earthy elegance. The roomy fit and side pockets add both function and flair, making it perfect for breezy mornings, evening strolls, or slow days at home. Inspired by the gentle patterns of forest leaves and crafted for year-round comfort, the LeafLoom Hoodie wraps you in warmth and calm, wherever you go.
-  Updated: 2025-11-26T07:13:08Z
+  Updated: 2025-12-06T09:09:56Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3494,7 +3494,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_4b8025c5-36f0-4018-9fa4-222781e514f9.png?v=1752691376
     Price: $25.00 USD
 - [Butterfly Backless Shirt for Women | Festival & Night Out Top](https://qingsnkueens.com/products/midnight-butterfly-backless-top-women): Turn heads with the Midnight Butterfly Shirt – a chic backless top with butterfly detail, perfect for festivals, night outs, and party looks. Available in multiple sizes & colors.
-  Updated: 2025-11-26T07:13:08Z
+  Updated: 2025-12-06T09:09:56Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3700,7 +3700,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/9_29856b0f-573c-4bb6-82a6-822caa2a1f85.png?v=1752781214
     Price: $24.00 USD
 - [Royal Petal Bracelet](https://qingsnkueens.com/products/royal-petal-bracelet): Grace your wrist with timeless beauty. The Royal Petal Bracelet by Qings and Kueens is a luxurious blend of elegance and symbolism — designed to elevate every moment. Plated in radiant 18K gold and finished with delicate four-leaf clover charms, each petal represents love, hope, faith, and luck — turning a simple accessory into a meaningful keepsake. Crafted for comfort and style, its adjustable fit and vibrant color options make it a versatile choice for both everyday wear and special occasions. Whether you're gifting someone special or treating yourself, this bracelet adds a regal touch that never goes unnoticed.
-  Updated: 2025-11-26T07:13:08Z
+  Updated: 2025-12-06T11:14:28Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3708,41 +3708,41 @@
   - [Black](https://qingsnkueens.com/products/royal-petal-bracelet?variant=46916268851367)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/610AC0rP4kL._AC_SY535.jpg?v=1753354888
-    Price: $14.99 USD
+    Price: $19.99 USD
   - [ocean blue](https://qingsnkueens.com/products/royal-petal-bracelet?variant=46916268884135)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/61RHF6pMbdL._AC_SY535.jpg?v=1753355001
-    Price: $14.99 USD
+    Price: $19.99 USD
   - [dark blue](https://qingsnkueens.com/products/royal-petal-bracelet?variant=46916268916903)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/71ux05UHppL._AC_SY535.jpg?v=1753355382
-    Price: $14.99 USD
+    Price: $19.99 USD
   - [Navy Green](https://qingsnkueens.com/products/royal-petal-bracelet?variant=46916268949671)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/61D6nDwDiRL._AC_SY535.jpg?v=1753355563
-    Price: $14.99 USD
+    Price: $19.99 USD
   - [Baby Pink](https://qingsnkueens.com/products/royal-petal-bracelet?variant=46916268982439)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/61J8vTPZ_HL._AC_SY535.jpg?v=1753355620
-    Price: $14.99 USD
+    Price: $19.99 USD
   - [Purple](https://qingsnkueens.com/products/royal-petal-bracelet?variant=46916269015207)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/61U_01LKFTL._AC_SY535.jpg?v=1753355693
-    Price: $14.99 USD
+    Price: $19.99 USD
   - [Red](https://qingsnkueens.com/products/royal-petal-bracelet?variant=46916269047975)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6164KWTNckL._AC_SY535.jpg?v=1753359074
-    Price: $14.99 USD
+    Price: $19.99 USD
   - [White](https://qingsnkueens.com/products/royal-petal-bracelet?variant=46916269080743)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/61yKzac-YFL._AC_SY535.jpg?v=1753359109
-    Price: $14.99 USD
+    Price: $19.99 USD
   - [Black And White](https://qingsnkueens.com/products/royal-petal-bracelet?variant=46916269113511)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/61rcgVVCpuL._AC_SY535.jpg?v=1753359139
-    Price: $14.99 USD
+    Price: $19.99 USD
 - [UNCOOYEE Women’s Striped Two Piece Set – Summer Lounge Outfit](https://qingsnkueens.com/products/uncooyee-womens-striped-two-piece-set-summer-lounge): Stay stylish and comfy in the UNCOOYEE Women’s Striped Two Piece Set. Featuring a chic tube top and wide-leg pants, this summer lounge outfit is perfect for vacations, casual outings, or relaxing in style.
-  Updated: 2025-11-26T07:13:08Z
+  Updated: 2025-12-06T11:13:18Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3750,25 +3750,25 @@
   - [XS](https://qingsnkueens.com/products/uncooyee-womens-striped-two-piece-set-summer-lounge?variant=46919714504871)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_d86d3053-d358-4b5c-b5f1-4d92584fdf31.png?v=1753528415
-    Price: $24.00 USD
+    Price: $30.99 USD
   - [S](https://qingsnkueens.com/products/uncooyee-womens-striped-two-piece-set-summer-lounge?variant=46919714537639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_d86d3053-d358-4b5c-b5f1-4d92584fdf31.png?v=1753528415
-    Price: $24.00 USD
+    Price: $30.99 USD
   - [M](https://qingsnkueens.com/products/uncooyee-womens-striped-two-piece-set-summer-lounge?variant=46919714570407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_d86d3053-d358-4b5c-b5f1-4d92584fdf31.png?v=1753528415
-    Price: $24.00 USD
+    Price: $30.99 USD
   - [L](https://qingsnkueens.com/products/uncooyee-womens-striped-two-piece-set-summer-lounge?variant=46919714603175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_d86d3053-d358-4b5c-b5f1-4d92584fdf31.png?v=1753528415
-    Price: $24.00 USD
+    Price: $30.99 USD
   - [XL](https://qingsnkueens.com/products/uncooyee-womens-striped-two-piece-set-summer-lounge?variant=46919714635943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_d86d3053-d358-4b5c-b5f1-4d92584fdf31.png?v=1753528415
-    Price: $24.00 USD
+    Price: $30.99 USD
 - [Halter Bow Tie Back Ruched Bust Maxi Dress | Elegant & Chic](https://qingsnkueens.com/products/bow-tie-back-ruched-bust-maxi-dress): Shop the Halter Bow Tie Back Ruched Bust Maxi Dress – a flattering, elegant maxi perfect for weddings, parties, and special occasions with our fast shipping.
-  Updated: 2025-11-26T07:13:08Z
+  Updated: 2025-12-06T11:12:04Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3776,25 +3776,25 @@
   - [XS](https://qingsnkueens.com/products/bow-tie-back-ruched-bust-maxi-dress?variant=46920121876647)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_6e07320c-1957-4fca-8d03-d365e90c6eaf.png?v=1753566491
-    Price: $29.99 USD
+    Price: $33.99 USD
   - [S](https://qingsnkueens.com/products/bow-tie-back-ruched-bust-maxi-dress?variant=46920121909415)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_6e07320c-1957-4fca-8d03-d365e90c6eaf.png?v=1753566491
-    Price: $29.99 USD
+    Price: $33.99 USD
   - [M](https://qingsnkueens.com/products/bow-tie-back-ruched-bust-maxi-dress?variant=46920121942183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_6e07320c-1957-4fca-8d03-d365e90c6eaf.png?v=1753566491
-    Price: $29.99 USD
+    Price: $33.99 USD
   - [L](https://qingsnkueens.com/products/bow-tie-back-ruched-bust-maxi-dress?variant=46920121974951)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_6e07320c-1957-4fca-8d03-d365e90c6eaf.png?v=1753566491
-    Price: $29.99 USD
+    Price: $33.99 USD
   - [XL](https://qingsnkueens.com/products/bow-tie-back-ruched-bust-maxi-dress?variant=46920122007719)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_6e07320c-1957-4fca-8d03-d365e90c6eaf.png?v=1753566491
-    Price: $29.99 USD
+    Price: $33.99 USD
 - [Led Wooden Book Lamp | 3D  Foldable](https://qingsnkueens.com/products/foldable-led-wooden-book-lamp): LED wooden book lamp that opens like a book to glow warm and cozy. Perfect for bedside or study. Premium quality, fast shipping, and trusted service...
-  Updated: 2025-11-26T07:13:09Z
+  Updated: 2025-12-06T11:10:46Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3802,21 +3802,21 @@
   - [Mini 120*90*25mm](https://qingsnkueens.com/products/foldable-led-wooden-book-lamp?variant=46923662950567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_ae26a4bc-7daa-484a-8fdc-8bdddd7eae6d.png?v=1753717255
-    Price: $29.75 USD
+    Price: $35.75 USD
   - [Small 145*110*25mm](https://qingsnkueens.com/products/foldable-led-wooden-book-lamp?variant=46923662983335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_ae26a4bc-7daa-484a-8fdc-8bdddd7eae6d.png?v=1753717255
-    Price: $38.75 USD
+    Price: $53.75 USD
   - [Medium 165*125*25mm](https://qingsnkueens.com/products/foldable-led-wooden-book-lamp?variant=46923663016103)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_ae26a4bc-7daa-484a-8fdc-8bdddd7eae6d.png?v=1753717255
-    Price: $45.75 USD
+    Price: $69.75 USD
   - [Large 215*170*25mm](https://qingsnkueens.com/products/foldable-led-wooden-book-lamp?variant=46923663048871)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_ae26a4bc-7daa-484a-8fdc-8bdddd7eae6d.png?v=1753717255
-    Price: $60.75 USD
+    Price: $95.75 USD
 - [Loose Women's Denim Overalls Shorts Cross-border 2025 Independent Station Casual Women Rompers Pants Place of Origin China](https://qingsnkueens.com/products/womens-denim-casual-romper): Women’s loose denim overall shorts—stylish casual rompers for 2025 fashion. Trendy, comfortable, and versatile pants designed for modern everyday wear.
-  Updated: 2025-11-26T07:13:09Z
+  Updated: 2025-12-06T11:09:11Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3824,17 +3824,17 @@
   - [Small](https://qingsnkueens.com/products/womens-denim-casual-romper?variant=46923926798503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_74b52ae6-4250-4fd3-8202-752add78a0e2.png?v=1753730337
-    Price: $34.99 USD
+    Price: $44.99 USD
   - [Medium](https://qingsnkueens.com/products/womens-denim-casual-romper?variant=46923926831271)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_74b52ae6-4250-4fd3-8202-752add78a0e2.png?v=1753730337
-    Price: $34.99 USD
+    Price: $44.99 USD
   - [Large](https://qingsnkueens.com/products/womens-denim-casual-romper?variant=46923926864039)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_74b52ae6-4250-4fd3-8202-752add78a0e2.png?v=1753730337
-    Price: $34.99 USD
+    Price: $44.99 USD
 - [Coolane Women's & Men's Couple Same Style Streetwear Casual Knit Striped & Number Printed Oversized Jersey Cover Up Sweater Tops For School In Fall/Winter](https://qingsnkueens.com/products/oversized-striped-pullover-streetwear): Unisex sporty jersey with striped sleeves and a bold ‘29’ print for a vintage varsity look. Shop with us for premium quality, fast delivery, and easy returns.
-  Updated: 2025-11-26T07:13:09Z
+  Updated: 2025-12-06T11:08:28Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3842,72 +3842,72 @@
   - [Ocean Blue / XS](https://qingsnkueens.com/products/oversized-striped-pullover-streetwear?variant=46929095360679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_ac58ae92-79d4-40a7-87b1-07e028de5865.png?v=1753902940
-    Price: $18.95 USD
+    Price: $24.99 USD
   - [Ocean Blue / S](https://qingsnkueens.com/products/oversized-striped-pullover-streetwear?variant=46929095393447)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_ac58ae92-79d4-40a7-87b1-07e028de5865.png?v=1753902940
-    Price: $18.95 USD
+    Price: $24.99 USD
   - [Ocean Blue / M](https://qingsnkueens.com/products/oversized-striped-pullover-streetwear?variant=46929095426215)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_ac58ae92-79d4-40a7-87b1-07e028de5865.png?v=1753902940
-    Price: $18.95 USD
+    Price: $24.99 USD
   - [Ocean Blue / L](https://qingsnkueens.com/products/oversized-striped-pullover-streetwear?variant=46929095458983)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_ac58ae92-79d4-40a7-87b1-07e028de5865.png?v=1753902940
-    Price: $18.95 USD
+    Price: $24.99 USD
   - [Ocean Blue / XL](https://qingsnkueens.com/products/oversized-striped-pullover-streetwear?variant=46929095491751)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_ac58ae92-79d4-40a7-87b1-07e028de5865.png?v=1753902940
-    Price: $18.95 USD
+    Price: $24.99 USD
   - [white and red / XS](https://qingsnkueens.com/products/oversized-striped-pullover-streetwear?variant=46929095524519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/17_c28aa22a-1c97-4d40-85e6-00c1671ff6e5.png?v=1753902969
-    Price: $18.95 USD
+    Price: $24.99 USD
   - [white and red / S](https://qingsnkueens.com/products/oversized-striped-pullover-streetwear?variant=46929095557287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/17_c28aa22a-1c97-4d40-85e6-00c1671ff6e5.png?v=1753902969
-    Price: $18.95 USD
+    Price: $24.99 USD
   - [white and red / M](https://qingsnkueens.com/products/oversized-striped-pullover-streetwear?variant=46929095590055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/17_c28aa22a-1c97-4d40-85e6-00c1671ff6e5.png?v=1753902969
-    Price: $18.95 USD
+    Price: $24.99 USD
   - [white and red / L](https://qingsnkueens.com/products/oversized-striped-pullover-streetwear?variant=46929095622823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/17_c28aa22a-1c97-4d40-85e6-00c1671ff6e5.png?v=1753902969
-    Price: $18.95 USD
+    Price: $24.99 USD
   - [white and red / XL](https://qingsnkueens.com/products/oversized-striped-pullover-streetwear?variant=46929095655591)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/17_c28aa22a-1c97-4d40-85e6-00c1671ff6e5.png?v=1753902969
-    Price: $18.95 USD
+    Price: $24.99 USD
   - [White And Black / XS](https://qingsnkueens.com/products/oversized-striped-pullover-streetwear?variant=46929095688359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_a287cf66-04a9-4c92-bea3-3f7b902b74da.png?v=1753902983
-    Price: $18.95 USD
+    Price: $24.99 USD
   - [White And Black / S](https://qingsnkueens.com/products/oversized-striped-pullover-streetwear?variant=46929095721127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_a287cf66-04a9-4c92-bea3-3f7b902b74da.png?v=1753902983
-    Price: $18.95 USD
+    Price: $24.99 USD
   - [White And Black / M](https://qingsnkueens.com/products/oversized-striped-pullover-streetwear?variant=46929095753895)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_a287cf66-04a9-4c92-bea3-3f7b902b74da.png?v=1753902983
-    Price: $18.95 USD
+    Price: $24.99 USD
   - [White And Black / L](https://qingsnkueens.com/products/oversized-striped-pullover-streetwear?variant=46929095786663)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_a287cf66-04a9-4c92-bea3-3f7b902b74da.png?v=1753902983
-    Price: $18.95 USD
+    Price: $24.99 USD
   - [White And Black / XL](https://qingsnkueens.com/products/oversized-striped-pullover-streetwear?variant=46929095819431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_a287cf66-04a9-4c92-bea3-3f7b902b74da.png?v=1753902983
-    Price: $18.95 USD
+    Price: $24.99 USD
 - [Waterproof Shower Phone Holder with 480° Rotation and Angle Adjustable, Enhanced Sound Quality, Fits Phones up to 7 Inches（White）](https://qingsnkueens.com/products/waterproof-shower-phone-holder): Keep your phone safe with our waterproof, anti-fog bathroom wall phone mount stand—perfect for 4–7 inch smartphones and everyday convenience.
-  Updated: 2025-11-26T07:13:09Z
+  Updated: 2025-12-06T11:06:07Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_28c2a748-3110-41f5-a82e-ad37c20af044.png?v=1753983211
-  Price: $44.95 USD
+  Price: $49.95 USD
 - [PRETTYGARDEN Women's 2025 Fall Hooded Sweatshirts Long Sleeve Half Zip Cropped Hoodies Pullover Winter Fashion Clothes](https://qingsnkueens.com/products/prettygarden-hooded-sweatshirts): A cropped design that fuses comfort with modern elegance, PRETTYGARDEN Women's Hooded Sweatshirts brings versatile style to your everyday wardrobe.
-  Updated: 2025-11-26T07:13:09Z
+  Updated: 2025-12-06T11:03:09Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3915,29 +3915,29 @@
   - [XS](https://qingsnkueens.com/products/prettygarden-hooded-sweatshirts?variant=46932104380583)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/26fe2cd2-7aa3-4f51-8f09-a4b3f2cb6d64.8055bc98958a298b5c114f19ba1dd162.jpg?v=1753993261
-    Price: $33.95 USD
+    Price: $36.99 USD
   - [S](https://qingsnkueens.com/products/prettygarden-hooded-sweatshirts?variant=46932104413351)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/26fe2cd2-7aa3-4f51-8f09-a4b3f2cb6d64.8055bc98958a298b5c114f19ba1dd162.jpg?v=1753993261
-    Price: $33.95 USD
+    Price: $36.99 USD
   - [M](https://qingsnkueens.com/products/prettygarden-hooded-sweatshirts?variant=46932104446119)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/26fe2cd2-7aa3-4f51-8f09-a4b3f2cb6d64.8055bc98958a298b5c114f19ba1dd162.jpg?v=1753993261
-    Price: $33.95 USD
+    Price: $36.99 USD
   - [L](https://qingsnkueens.com/products/prettygarden-hooded-sweatshirts?variant=46932104478887)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/26fe2cd2-7aa3-4f51-8f09-a4b3f2cb6d64.8055bc98958a298b5c114f19ba1dd162.jpg?v=1753993261
-    Price: $33.95 USD
+    Price: $36.99 USD
   - [XL](https://qingsnkueens.com/products/prettygarden-hooded-sweatshirts?variant=46932104511655)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/26fe2cd2-7aa3-4f51-8f09-a4b3f2cb6d64.8055bc98958a298b5c114f19ba1dd162.jpg?v=1753993261
-    Price: $33.95 USD
+    Price: $36.99 USD
   - [XXL](https://qingsnkueens.com/products/prettygarden-hooded-sweatshirts?variant=46932104544423)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/26fe2cd2-7aa3-4f51-8f09-a4b3f2cb6d64.8055bc98958a298b5c114f19ba1dd162.jpg?v=1753993261
-    Price: $33.95 USD
+    Price: $36.99 USD
 - [Satin Front Lounge Set | Green Lounge Set](https://qingsnkueens.com/products/satin-front-lounge-set): Discover Light Green Lounge Set · Fuzzy Lounge Set. Satin Front Lounge Set brings a touch of chic comfort to your wardrobe. Shop worry-free with our EASY RETURNS and FAST SHIPPING.
-  Updated: 2025-11-26T07:13:09Z
+  Updated: 2025-12-06T09:09:57Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3955,7 +3955,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Capture_5d4c1b2e-8f06-4002-9165-d521b603f354.png?v=1754938230
     Price: $29.95 USD
 - [VMMAYBE Knit Cardigan| Light Grey](https://qingsnkueens.com/products/vmmaybe-knit-cardigan): VMMAYBE Knit Cardigan. 29.99 $. Grey. Fast delivery available. Shop worry-free with our Easy Return policy.
-  Updated: 2025-11-26T07:13:09Z
+  Updated: 2025-12-06T09:09:58Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3981,7 +3981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_fc574c34-a753-4b60-a1ee-2fba1c1bfb92.png?v=1755017372
     Price: $40.95 USD
 - [Polka Dots Maxi Dress | Long Black Dress For Women](https://qingsnkueens.com/products/polka-dots-maxi-dress): Discover the latest polka dot dress at Qings & Kueens . Shop for a range of polka dot dress styles including black and many other dresses online now. With fast SHIPPING And EASY RETURNS.
-  Updated: 2025-11-26T07:13:10Z
+  Updated: 2025-12-06T09:09:58Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4015,21 +4015,21 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_7e9cb47c-9389-4348-8daa-fa7abb393511.png?v=1755941335
     Price: $55.95 USD
 - [Metacrafts Baby Diaper Bag Backpack Large Capacity Nappy Changing Bag with Multi-Functional Storage Pockets](https://qingsnkueens.com/products/metacrafts-baby-diaper-backpack): Explore our versatile diaper bag backpack featuring a foldable crib, insulated bottle pocket, built-in USB charging port, and stroller straps in sleek black...
-  Updated: 2025-11-26T07:13:10Z
+  Updated: 2025-12-06T11:17:57Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_9d951e75-fae3-4b23-96e3-a3f4fdbf2d4c.png?v=1755960797
-  Price: $49.99 USD
+  Price: $55.99 USD
 - [Dr.Melaxin Cemenrete Calcium Volume Multi Balm 9g](https://qingsnkueens.com/products/dr-melaxin-cemenrete-calcium-multi-balm-9g): Discover Dr.Melaxin Cemenrete Calcium Multi Balm 9g—formulated with patented Ribornic to lift droopy eyes, brighten skin, and smooth fine lines with zero irritation.
-  Updated: 2025-11-26T07:13:10Z
+  Updated: 2025-12-06T09:09:58Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_39013e90-237b-429c-bb5b-5f08ec410bb9.png?v=1756044402
   Price: $39.95 USD
 - [Travel Backpack Hoodie | The Ultimate Travel Hoodie by Qings and Kueens](https://qingsnkueens.com/products/backpack-hoodie): Travel smarter with the ultimate Backpack Hoodie by Qings and Kueens. Stay hands-free with a built-in pack, waterproof fabric, and secure pockets. Shop the best travel hoodie now.
-  Updated: 2025-11-26T07:13:10Z
+  Updated: 2025-12-06T09:09:58Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4083,7 +4083,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_16cffd7b-590f-42ea-bcf5-944d2a1b15f4.png?v=1757414645
     Price: $39.95 USD
 - [Crystal Gear Shift Knob – Universal LED Car Shifter | Qings & Kueens](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter): Shop the Crystal Gear Shift Knob – universal fit, RGB LED, premium quality, and fast delivery from Qings & Kueens. Upgrade your car in style today!
-  Updated: 2025-11-26T07:13:10Z
+  Updated: 2025-12-06T09:09:58Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4153,7 +4153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/16_30be1fa4-2b76-4478-8a4e-994fea73f4f1.png?v=1757501306
     Price: $28.95 USD
 - [Bow Tote Bag – Smart Tote Bag for Women | Trendy Fashion Handbag](https://qingsnkueens.com/products/bow-tote-bag-stylish-trendy-handbag-for-women): Buy the Bow Tote Bag – stylish tote bag for women, trendy fashion handbag, chic shoulder tote, spacious everyday tote bag, casual tote, durable handbag.
-  Updated: 2025-11-26T07:13:10Z
+  Updated: 2025-12-06T09:09:59Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4183,7 +4183,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/BOW_TOTE_BAG.png?v=1758786646
     Price: $50.00 USD
 - [Suede Slip Clogs for Women – Comfortable Slip-On Clog Shoes with Cork Sole](https://qingsnkueens.com/products/suede-slip-clogs-for-women): Shop Suede Slip Clogs for Women – soft suede, cork insole, and lightweight slip-on comfort. Perfect for everyday wear with our reliable fast shipping.
-  Updated: 2025-11-26T07:13:11Z
+  Updated: 2025-12-06T09:09:59Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4273,7 +4273,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/12.jpg?v=1758906143
     Price: $39.95 USD
 - [Mini Platform Boots for Women – Chunky Suede Boots with Faux Fur Lining](https://qingsnkueens.com/products/mini-platform-boots-for-women): Shop Mini Platform Boots for Women with soft suede & plush faux fur lining. Fast shipping, chunky heel design & trendy winter fashion footwear.
-  Updated: 2025-11-26T07:13:11Z
+  Updated: 2025-12-06T09:09:59Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4407,7 +4407,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/10_72e13c0d-be9a-4664-82f7-ddf93bee303f.png?v=1759064412
     Price: $55.95 USD
 - [BAPE × Crocs Camo Universe – Limited Edition Streetwear Clogs 2025](https://qingsnkueens.com/products/bape-x-crocs-camo-universe): Shop the exclusive BAPE × Crocs Camo Universe clogs. Limited edition collaboration, premium comfort, perfect for sneakerheads and hypebeasts 2025.
-  Updated: 2025-11-26T07:13:11Z
+  Updated: 2025-12-06T09:09:59Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4509,7 +4509,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/18_a3d7e73b-d218-48ce-93e6-18c01cff6a4d.png?v=1759410082
     Price: $24.95 USD
 - [Garnet Self Love Adjustable Chain Ring | Healing Crystal Jewellery](https://qingsnkueens.com/products/garnet-self-love-adjustable-chain-ring): Embrace your power with our Garnet Self Love Adjustable Chain Ring. 14K gold over silver, real garnet crystal, adjustable fit — radiate confidence & healing energy.
-  Updated: 2025-11-26T07:13:11Z
+  Updated: 2025-12-06T09:09:59Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4551,7 +4551,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/13_38d90bbe-1024-487e-9bc2-ce80ed9d6748.png?v=1759672827
     Price: $25.95 USD
 - [Levitating Moon Lamp with Wireless Charger | Floating 3D Moon Light Decor](https://qingsnkueens.com/products/levitating-moon-lamp-with-wireless-charger): Bring the moon to your home with our Levitating Moon Lamp. 3D printed, adjustable LED, and wireless charging – perfect night light, decor & gift
-  Updated: 2025-11-26T07:13:11Z
+  Updated: 2025-12-06T09:09:59Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4565,7 +4565,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_f997f192-64cd-485c-947b-abbb568751b6.png?v=1759764109
     Price: $95.00 USD
 - [Jellycat Croissant Fluffy Unisex Slippers | Cosy Memory Foam Indoor Shoes](https://qingsnkueens.com/products/jellycat-croissant-fluffy-slippers): Stay cozy with Jellycat Croissant Fluffy Unisex Slippers — ultra-soft, fuzzy, non-slip indoor shoes with memory foam comfort. Perfect for men & women.
-  Updated: 2025-11-26T07:13:12Z
+  Updated: 2025-12-06T09:09:59Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4611,7 +4611,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_e008a11e-c562-4f6a-bce3-4ff62d26b63d.png?v=1760779070
     Price: $37.95 USD
 - [Jellycat Plush Fluffy Birkin Handbag | Cute Plush Tote](https://qingsnkueens.com/products/jellycat-plush-fluffy-birkin-handbag): Discover the viral Jellycat Plush Fluffy Birkin Handbag soft, stylish, and plush. Perfect tote for daily use or gifting. Shop the trend everyone loves.
-  Updated: 2025-11-26T07:13:12Z
+  Updated: 2025-12-06T09:10:00Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4641,7 +4641,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_ba926d84-5f17-44bb-a52f-489b28591923.jpg?v=1760860815
     Price: $95.00 USD
 - [Asymmetric Satin Midi Dress – Women’s Party & Evening Dress](https://qingsnkueens.com/products/asymmetric-satin-midi-dress): Shop the Asymmetric Satin Midi Dress – elegant satin party dress for women. Perfect evening wear, cocktail dress & special occasion outfit.
-  Updated: 2025-11-26T07:13:12Z
+  Updated: 2025-12-06T09:10:00Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4687,7 +4687,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/09178399600-p_39c61b0d-bfa4-4780-98b0-0f95b7c99762.jpg?v=1760877758
     Price: $48.00 USD
 - [Zyla Off Shoulder Mini Dress – Sexy Satin Bodycon Party Dress Women](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress): Slay every occasion in the Zyla Off Shoulder Mini Dress a sexy satin bodycon mini dress for women, perfect for parties, date nights & club outfits.
-  Updated: 2025-11-26T07:13:12Z
+  Updated: 2025-12-06T09:10:00Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4813,7 +4813,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Hot-Pink-Off-The-Shoulder-Mini-Dress_20250630_NL_1_2000x.progressive_39797c48-b571-43e5-a954-e9cd6f7bcc2b.webp?v=1760875598
     Price: $42.00 USD
 - [Babaton Mini Dress | Stylish Women’s Party & Casual Outfit](https://qingsnkueens.com/products/babaton-mini-dress): Shop the Babaton Mini Dress – soft, breathable, stylish in Black, Red & Cheetah prints. Ideal for parties, dates, or gifting. Fast delivery & premium quality!
-  Updated: 2025-11-26T07:13:12Z
+  Updated: 2025-12-06T09:10:00Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4879,14 +4879,14 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Babaton_Mini_Dress_xx.avif?v=1761080861
     Price: $42.00 USD
 - [I Believe In You Beaded Mini Dress – Chartreuse Event Dress](https://qingsnkueens.com/products/i-believe-in-you-beaded-mini-dress): Shop the I Believe In You Beaded Mini Dress in chartreuse. Sparkling beaded mini dress perfect for parties, events, cocktail nights, and glamorous occasions.
-  Updated: 2025-11-26T07:13:13Z
+  Updated: 2025-12-06T09:10:00Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_b365c4c9-e494-4f35-96d0-16ed7e826538.jpg?v=1761404764
   Price: $40.95 USD
 - [Thais Wool Blend Jacket | Women’s Mohair Coat in Dark Taupe](https://qingsnkueens.com/products/thais-wool-blend-jacket): Shop the Thais Wool Blend Jacket in Dark Taupe – a short, oversized women’s mohair and wool coat with long sleeves, teddy collar & front pockets.
-  Updated: 2025-11-26T07:13:13Z
+  Updated: 2025-12-06T09:10:00Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4912,7 +4912,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_c4d70273-93b9-44ad-b2c5-4c8c9db4c2d7.jpg?v=1761652890
     Price: $45.99 USD
 - [Chic Pink Matching Set | Cozy Two-Piece Hoodie & Trouser Outfit](https://qingsnkueens.com/products/chic-pink-matching-set): Soft blush-pink hoodie and trouser set for effortless comfort and chic style — perfect for lounging, travel, or casual everyday wear.
-  Updated: 2025-11-26T07:13:13Z
+  Updated: 2025-12-06T09:10:00Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4939,7 +4939,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Paco Rabanne Vintage Military Jacket – Black & Gold Couture](https://qingsnkueens.com/products/paco-rabanne-vintage-military-jacket): Discover the Paco Rabanne Vintage Military Jacket — black wool blazer with gold embroidery, red cuffs, and tailored fit. Luxury fashion meets timeless style.
-  Updated: 2025-11-26T07:13:13Z
+  Updated: 2025-12-06T09:10:01Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4963,7 +4963,7 @@
     Availability: Available
     Price: $99.00 USD
 - [Midnight Glitter Hoodie | Women’s Sparkle Streetwear 2025](https://qingsnkueens.com/products/midnight-glitter-hoodie): Shine in style with the Midnight Glitter Hoodie a black sparkle women’s sweatshirt perfect for winter fashion, comfort, and streetwear vibes.
-  Updated: 2025-11-26T07:13:13Z
+  Updated: 2025-12-06T09:10:01Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4987,14 +4987,14 @@
     Availability: Available
     Price: $38.00 USD
 - [Golden Shell Clutch Bag | Luxury Gold Evening Purse](https://qingsnkueens.com/products/golden-shell-clutch-bag): Add glamour with our Golden Shell Clutch Bag – a luxury gold round evening purse with crossbody chain, perfect for weddings, parties & events.
-  Updated: 2025-11-26T07:13:14Z
+  Updated: 2025-12-06T09:10:01Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_d341fb4a-4281-436b-8590-720205995d47.jpg?v=1762027303
   Price: $35.00 USD
 - [Mahogany Muse Midi Dress | Elegant Diamante Halter Dress](https://qingsnkueens.com/products/mahogany-muse-midi-dress): Turn heads in the Mahogany Muse Midi Dress a luxe diamante halter dress in rich mahogany, crafted to flatter your curves and shimmer with elegance.
-  Updated: 2025-11-26T07:13:14Z
+  Updated: 2025-12-06T09:10:01Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -5032,7 +5032,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_23016e34-8129-459f-ab05-a701037a5380.jpg?v=1762322512
     Price: $75.00 USD
 - [Chocolate Brown Asymmetric Scarf Midi Maxi Dress | One-Shoulder Glam](https://qingsnkueens.com/products/asymmetric-scarf-midi-maxi-dress): Elevate your look in our chocolate brown asymmetric scarf midi maxi dress — a luxe one-shoulder design with fishtail hem and stretch-jersey perfection.
-  Updated: 2025-11-26T07:13:14Z
+  Updated: 2025-12-06T09:10:01Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -5062,7 +5062,7 @@
     Availability: Available
     Price: $69.00 USD
 - [Twill Coat with Stand-Up Collar | Elegant Wool Blend Winter Coat](https://qingsnkueens.com/products/twill-coat-with-stand-up-collar): Stay warm in style with our beige twill coat. A premium wool-blend women’s winter coat featuring a stand-up collar, tailored fit & timeless elegance.
-  Updated: 2025-11-26T07:13:14Z
+  Updated: 2025-12-06T09:10:01Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -5092,7 +5092,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Foldable Decorated Pop Up Christmas Tree | Pre-Lit Artificial Tree](https://qingsnkueens.com/products/foldable-pop-up-decorated-chiristmas-tree): Add festive elegance with this pre-lit foldable pop-up Christmas tree, pre-decorated with ornaments, ribbons, and glowing LED lights easy setup and storage.
-  Updated: 2025-11-30T21:23:43Z
+  Updated: 2025-12-06T09:10:02Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -5116,7 +5116,7 @@
     Availability: Available
     Price: $140.00 USD
 - [iPhone Pocket – Premium Knit Phone Pouch for All iPhones](https://qingsnkueens.com/products/iphone-pocket): Keep your iPhone safe in style with the iPhone Pocket – lightweight, durable knit phone pouch for travel, commuting, everyday use & gifting.
-  Updated: 2025-11-26T07:13:15Z
+  Updated: 2025-12-06T09:10:02Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -5162,7 +5162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/HS8R2.jpg?v=1763444541
     Price: $29.00 USD
 - [Package Protection](https://qingsnkueens.com/products/shipguard-shipping-protection)
-  Updated: 2025-11-26T07:13:15Z
+  Updated: 2025-12-06T09:10:02Z
   Vendor: Qings & Kueens
   Product Type: Wenexus-Warranty
   Availability: Available
@@ -5322,169 +5322,169 @@
 ## Collections
 
 - [Home page](https://qingsnkueens.com/collections/frontpage)
-  Updated: 2025-11-26T07:12:58Z
+  Updated: 2025-12-06T09:20:07Z
   Total Products: 3
 - [Women's Luxury Clothes](https://qingsnkueens.com/collections/womens-luxury-clothes): Discover elegance without the extravagant price tag at Qings & Kueens. Our curated collection of luxurious women's fashion blends high-end style with affordability, so you can look like royalty without spending a fortune. Designed for confident, fashion-forward women, Qings & Kueens brings runway-inspired pieces to your wardrobe—because every queen deserves to shine.
-  Updated: 2025-11-26T07:12:58Z
+  Updated: 2025-12-06T09:20:07Z
   Total Products: 0
 - [Dresses](https://qingsnkueens.com/collections/women-dresses)
-  Updated: 2025-11-26T07:12:58Z
+  Updated: 2025-12-06T11:42:21Z
   Total Products: 24
 - [Lounge wear](https://qingsnkueens.com/collections/lounge-wear)
-  Updated: 2025-11-26T07:12:58Z
+  Updated: 2025-12-06T11:20:13Z
   Total Products: 4
 - [Pants](https://qingsnkueens.com/collections/pants)
-  Updated: 2025-11-26T07:12:58Z
+  Updated: 2025-12-06T09:20:07Z
   Total Products: 4
 - [Active wear](https://qingsnkueens.com/collections/active-wear)
-  Updated: 2025-11-26T07:12:58Z
+  Updated: 2025-12-06T09:20:07Z
   Total Products: 0
 - [Hoodies](https://qingsnkueens.com/collections/hoodies)
-  Updated: 2025-12-02T12:29:47Z
+  Updated: 2025-12-06T16:58:22Z
   Total Products: 13
 - [Jump suits](https://qingsnkueens.com/collections/jump-suits)
-  Updated: 2025-11-26T07:12:58Z
+  Updated: 2025-12-06T11:09:12Z
   Total Products: 2
 - [Skirts](https://qingsnkueens.com/collections/skirts)
-  Updated: 2025-11-26T07:12:58Z
+  Updated: 2025-12-06T09:20:07Z
   Total Products: 1
 - [Tops](https://qingsnkueens.com/collections/tops)
-  Updated: 2025-11-26T07:12:58Z
+  Updated: 2025-12-06T11:43:06Z
   Total Products: 3
 - [Sweaters](https://qingsnkueens.com/collections/sweaters)
-  Updated: 2025-11-26T07:12:58Z
+  Updated: 2025-12-06T11:08:29Z
   Total Products: 2
 - [Cord-Sets](https://qingsnkueens.com/collections/cord-sets)
-  Updated: 2025-11-26T07:12:58Z
+  Updated: 2025-12-06T09:20:08Z
   Total Products: 2
 - [Men shirts](https://qingsnkueens.com/collections/men-shirts)
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T09:20:08Z
   Total Products: 2
 - [men pants](https://qingsnkueens.com/collections/men-pants)
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T11:49:09Z
   Total Products: 2
 - [men hoodies](https://qingsnkueens.com/collections/men-hoodies)
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T11:31:26Z
   Total Products: 5
 - [men shorts](https://qingsnkueens.com/collections/men-shorts)
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T11:48:06Z
   Total Products: 2
 - [men sweaters](https://qingsnkueens.com/collections/men-sweaters)
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T11:50:01Z
   Total Products: 3
 - [totes](https://qingsnkueens.com/collections/totes)
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T09:20:08Z
   Total Products: 2
 - [Clutch Bags](https://qingsnkueens.com/collections/clutch-bags)
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T09:20:08Z
   Total Products: 1
 - [Mini Bags](https://qingsnkueens.com/collections/mini-bags)
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T09:20:08Z
   Total Products: 0
 - [Shoulder Bags](https://qingsnkueens.com/collections/shoulder-bags)
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T11:17:58Z
   Total Products: 2
 - [Sneakers](https://qingsnkueens.com/collections/sneakers)
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T09:20:08Z
   Total Products: 0
 - [Loafers](https://qingsnkueens.com/collections/loafers)
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T09:20:08Z
   Total Products: 0
 - [Heels](https://qingsnkueens.com/collections/heels)
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T09:20:08Z
   Total Products: 0
 - [Sandals](https://qingsnkueens.com/collections/sandals)
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T09:20:08Z
   Total Products: 0
 - [Fashion](https://qingsnkueens.com/collections/fashion)
-  Updated: 2025-11-26T07:12:59Z
+  Updated: 2025-12-06T09:20:08Z
   Total Products: 0
 - [Daily wear](https://qingsnkueens.com/collections/daily-wear)
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:20:08Z
   Total Products: 0
 - [Full Dress](https://qingsnkueens.com/collections/full-dress)
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:20:08Z
   Total Products: 0
 - [Mini Dress](https://qingsnkueens.com/collections/mini-dress)
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:20:08Z
   Total Products: 2
 - [Maxi Dress](https://qingsnkueens.com/collections/maxi-dress)
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:20:09Z
   Total Products: 2
 - [Jumpsuits](https://qingsnkueens.com/collections/jumpsuits)
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:20:09Z
   Total Products: 2
 - [Jackets](https://qingsnkueens.com/collections/jackets)
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:20:09Z
   Total Products: 3
 - [Belts men](https://qingsnkueens.com/collections/belts)
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:20:09Z
   Total Products: 0
 - [Glasses men](https://qingsnkueens.com/collections/glasses)
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:20:09Z
   Total Products: 0
 - [glasses woman](https://qingsnkueens.com/collections/glasses-woman)
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:20:09Z
   Total Products: 0
 - [Belts women](https://qingsnkueens.com/collections/belts-women)
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:20:09Z
   Total Products: 0
 - [Women](https://qingsnkueens.com/collections/women)
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:20:09Z
   Total Products: 2
 - [Men](https://qingsnkueens.com/collections/men)
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T09:20:09Z
   Total Products: 2
 - [women accessories](https://qingsnkueens.com/collections/women-acessories)
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T11:36:43Z
   Total Products: 13
 - [Men accessories](https://qingsnkueens.com/collections/men-accessories)
-  Updated: 2025-11-26T07:13:00Z
+  Updated: 2025-12-06T11:32:18Z
   Total Products: 9
 - [Midi Dress](https://qingsnkueens.com/collections/midi-dress)
-  Updated: 2025-11-26T07:13:01Z
+  Updated: 2025-12-06T09:20:09Z
   Total Products: 2
 - [testing men](https://qingsnkueens.com/collections/testing-men)
-  Updated: 2025-11-26T07:13:01Z
+  Updated: 2025-12-06T09:20:09Z
   Total Products: 0
 - [Men](https://qingsnkueens.com/collections/all-men-things)
-  Updated: 2025-11-26T07:13:01Z
+  Updated: 2025-12-06T11:50:01Z
   Total Products: 12
 - [Women Shirts](https://qingsnkueens.com/collections/women-shirts)
-  Updated: 2025-11-26T07:13:01Z
+  Updated: 2025-12-06T09:20:09Z
   Total Products: 0
 - [Exclusive Collection](https://qingsnkueens.com/collections/trendy-cloths)
-  Updated: 2025-11-26T07:13:01Z
+  Updated: 2025-12-06T09:20:09Z
   Total Products: 10
 - [women](https://qingsnkueens.com/collections/women-1)
-  Updated: 2025-12-02T12:29:47Z
+  Updated: 2025-12-06T16:58:22Z
   Total Products: 45
 - [New Collection](https://qingsnkueens.com/collections/new-collection)
-  Updated: 2025-11-26T07:13:01Z
+  Updated: 2025-12-06T11:01:00Z
   Total Products: 9
 - [Trendy Products](https://qingsnkueens.com/collections/trendy-products)
-  Updated: 2025-12-02T12:29:47Z
+  Updated: 2025-12-06T09:20:09Z
   Total Products: 5
 - [Jewellery](https://qingsnkueens.com/collections/jewellery)
-  Updated: 2025-11-26T07:13:01Z
+  Updated: 2025-12-06T11:14:29Z
   Total Products: 2
 - [Slippers](https://qingsnkueens.com/collections/slippers)
-  Updated: 2025-11-26T07:13:01Z
+  Updated: 2025-12-06T09:20:10Z
   Total Products: 1
 - [Boots](https://qingsnkueens.com/collections/boots)
-  Updated: 2025-11-26T07:13:01Z
+  Updated: 2025-12-06T09:20:10Z
   Total Products: 1
 - [All Dresses](https://qingsnkueens.com/collections/all-dresses)
-  Updated: 2025-11-26T07:13:01Z
+  Updated: 2025-12-06T11:42:21Z
   Total Products: 19
 - [Clogs](https://qingsnkueens.com/collections/clogs)
-  Updated: 2025-11-26T07:13:01Z
+  Updated: 2025-12-06T09:20:10Z
   Total Products: 2
 - [men coat](https://qingsnkueens.com/collections/men-coat)
-  Updated: 2025-11-26T07:13:02Z
+  Updated: 2025-12-06T09:20:10Z
   Total Products: 0
 - [women coat](https://qingsnkueens.com/collections/women-coat)
-  Updated: 2025-11-26T07:13:02Z
+  Updated: 2025-12-06T09:20:10Z
   Total Products: 1
 
 ## Store Pages
