@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-21T08:09:19Z
 - Contact Email: kaufivo@gmail.com
-- Updated At: 2025-12-06T00:00:29.752Z
+- Updated At: 2025-12-07T00:00:28.868Z
 
 ## Products
 
@@ -296,6 +296,9 @@
     Author: kaufivo Admin
   - [Adivasi Neelabari Herbal Hair Oil 2025 | Natural Remedy for Hair Growth & Scalp Health](https://kaufivo.store/blogs/news/future-of-hair-care-why-indigenous-adivasi-herbal-oils-like-neelabari-are-leading-the-natural-hair-growth-revolution): Adivasi Neelabari Herbal Hair Oil 2025 | Natural Remedy for Hair Growth & Scalp Health
     Updated: 2025-11-29T02:31:01Z
+    Author: kaufivo Admin
+  - [Adjustable Brightness Bedroom Night Lights | Energy-Efficient LED & Sensor Features](https://kaufivo.store/blogs/news/solve-your-nighttime-navigation-and-sleep-disruptions-with-stylish-compact-night-lights-featuring-customizable-colors-and-timers): Adjustable Brightness Bedroom Night Lights | Energy-Efficient LED & Sensor Features
+    Updated: 2025-12-06T02:31:10Z
     Author: kaufivo Admin
 
 ## Store Pages
