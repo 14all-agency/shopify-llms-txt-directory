@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-12-06T00:00:50.961Z
+- Updated At: 2025-12-07T00:00:52.652Z
 
 ## Products
 
@@ -17388,7 +17388,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPBA-04_1.jpg?v=1710407847
     Price: $1,309.00 USD
 - [Natural Salt and Paper 0.05CT Round Diamond Victorian Gift For Her Band](https://ibizjewel.com/products/natural-salt-and-paper-0-05ct-round-diamond-victorian-gift-for-her-band): Crafted With Natural Salt And Paper, This Victorian Gift For Her Showcases A 0.05ct Round Diamond For Added Elegance. Elevate Any Outfit With This Delicate And Timeless Band. Experience The Benefits Of Adding A Touch Of Vintage Charm To Your Jewelry Collection.
-  Updated: 2025-10-02T10:29:18Z
+  Updated: 2025-12-06T23:24:56Z
   Vendor: Natural Salt And Pepper Diamond Women's Bands
   Product Type: Natural Salt And Pepper Round Diamond Band
   Availability: Available
@@ -32540,7 +32540,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDE-09_6.jpg?v=1711182773
     Price: $777.00 USD
 - [Moissanite 1.0CT Emerald Diamond Four Prong Stud Earring](https://ibizjewel.com/products/moissanite-1-0ct-emerald-diamond-four-prong-stud-earring): As An Industry Expert, I Can Assure You That Our Moissanite 1.0ct Emerald Diamond Four Prong Stud Earring Is A Must-have For Any Jewelry Collection. With Its Stunning Emerald Cut And Four Prong Setting, This Earring Is Made With The Highest Quality Materials, Making It Durable And Long-lasting. Add A Touch Of Elegance And Sophistication To Any Outfit With This Timeless Piece.
-  Updated: 2025-10-02T10:31:05Z
+  Updated: 2025-12-06T23:27:23Z
   Vendor: Moissanite Diamond Earring
   Product Type: Moissanite Emerald Diamond Earring
   Availability: Available
