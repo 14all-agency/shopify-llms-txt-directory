@@ -6,7 +6,7 @@
 - Timezone: Europe/Warsaw
 - Created At: 2025-09-10T09:13:47Z
 - Contact Email: support@urban-buy.store
-- Updated At: 2025-12-06T00:00:22.262Z
+- Updated At: 2025-12-07T00:00:21.553Z
 
 ## Products
 
@@ -1423,25 +1423,25 @@
 ## Collections
 
 - [Christmas Gift Ideas for 2025 – Urban Buy](https://www.urban-buy.store/collections/christmas-gift): Find unique Christmas gift ideas at Urban Buy. Shop cozy, stylish, and thoughtful presents perfect for family, friends, or anyone who loves holiday cheer.
-  Updated: 2025-12-03T10:59:58Z
+  Updated: 2025-12-06T11:07:26Z
   Total Products: 17
 - [Best Holiday Gift Essentials - Urban Buy](https://www.urban-buy.store/collections/best-holiday-gift-essentials-2025): Explore the Best Holiday Gift Essentials for 2025! Shop stylish and practical gifts that everyone will love this season.
-  Updated: 2025-12-03T10:59:58Z
+  Updated: 2025-12-06T11:07:26Z
   Total Products: 7
 - [Cozy Home Vibes: Embrace the Best Christmas Comfort](https://www.urban-buy.store/collections/cozy-home-vibes): Discover the best Christmas cozy home vibes with Urban Buy. Shop warm blankets, soft loungewear, fuzzy socks, and winter essentials made for comfort and style.
-  Updated: 2025-12-03T10:59:58Z
+  Updated: 2025-12-06T11:07:26Z
   Total Products: 21
 - [Top Selling Christmas Gifts this Year - Shop the Best!](https://www.urban-buy.store/collections/top-selling-products-this-christmas): Top Selling Products this Christmas include the best top selling Christmas gifts and more. Don't miss out on our festive favorites!
-  Updated: 2025-12-03T10:59:58Z
+  Updated: 2025-12-06T11:07:26Z
   Total Products: 13
 - [Partner Products](https://www.urban-buy.store/collections/partner-products)
-  Updated: 2025-12-03T11:22:10Z
+  Updated: 2025-12-06T10:19:43Z
   Total Products: 0
 - [Kids & Family Christmas Fun](https://www.urban-buy.store/collections/kids-family-christmas-fun): Create unforgettable memories with family-friendly Christmas activities and decor. Celebrate together with our Kids & Family Christmas Fun Collection — packed with child-friendly decorations, creative DIY crafts, glowing night lights, playful ornaments, and festive home items designed to bring families closer. Perfect for decorating with kids, setting up interactive holiday displays, and making the season extra magical. Safe, fun, and unforgettable Christmas joy for the whole family.
-  Updated: 2025-12-03T10:59:58Z
+  Updated: 2025-12-06T11:07:26Z
   Total Products: 9
 - [Kids & Family Christmas Fun](https://www.urban-buy.store/collections/kids-family-christmas-fun-1): Create unforgettable memories with family-friendly Christmas activities and decor. Celebrate together with our Kids & Family Christmas Fun Collection — packed with child-friendly decorations, creative DIY crafts, glowing night lights, playful ornaments, and festive home items designed to bring families closer. Perfect for decorating with kids, setting up interactive holiday displays, and making the season extra magical. Safe, fun, and unforgettable Christmas joy for the whole family.
-  Updated: 2025-12-03T11:22:10Z
+  Updated: 2025-12-06T10:19:43Z
   Total Products: 1
 
 ## Blogs
@@ -1493,6 +1493,10 @@
     Updated: 2025-12-04T09:01:38Z
     Author: Urban BUY
     Tags: best gifts for family, christmas, christmas 2025, christmas gift ideas, christmas gifts, christmas presents, family, gift ideas, gifts, gifts for christmas, gifts ideas, holiday gifts, unique christmas gift ideas
+  - [Cozy Lifestyle Christmas Gift Ideas](https://www.urban-buy.store/blogs/best-christmas-gift-ideas-2025/cozy-lifestyle-christmas-gift-ideas): Cozy Lifestyle Christmas Gift Ideas
+    Updated: 2025-12-06T09:04:58Z
+    Author: Urban BUY
+    Tags: christmas 2025, christmas gift ideas, christmas gifts, cozy, cozy lifestyle gift ideas, gift ideas, gifts, gifts for christmas, gifts ideas, holiday, lifestyle gifts, unique christmas gifts
 
 ## Store Pages
 
