@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-12-04T00:00:45.832Z
+- Updated At: 2025-12-07T00:00:49.222Z
 
 ## Products
 
@@ -907,7 +907,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polypropylene-domed-laboratory-coat-white-2xl-45gsm-25-pieces-laboratory-coats-essential-supplies-602615.jpg?v=1719445553
   Price: $69.00 NZD
 - [Polypropylene Domed Laboratory Coat - White, XL, 45gsm - 25 Pieces](https://essentialsupplies.co.nz/products/polypropylene-domed-laboratory-coat-white-xl-45gsm-25): Disposable polypropylene laboratory coat with 45gsm anti leakage absorption properties to isolate alcohols, oils, water and blood. Ideal for use in the medical, health care and food processing industries. Featuring elasticated cuffs, neck collar, two side pockets and four dome button fasteners for added comfort and protection. 45gsm Anti leakage absorption properties to isolate alcohols, oils, water and blood Ideal for use in the medical, health care and food processing industries Featuring elasticated cuffs, neck collar, two side pockets and four dome button fasteners for added comfort and protection Size: Extra Large (XL) Content: 25 pieces Colour: White
-  Updated: 2024-11-16T14:10:14Z
+  Updated: 2025-12-05T01:37:44Z
   Vendor: Mattews Packaging
   Product Type: Laboratory Coats
   Availability: Available
@@ -1747,7 +1747,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/microfibre-cloths-yellow-400mm-x-400mm-300gsm-50-pack-dry-cloths-essential-supplies-622283.jpg?v=1719445394
   Price: $79.00 NZD
 - [Microfibre Cloths - White, 400mm x 400mm, 300gsm - 50 Pack](https://essentialsupplies.co.nz/products/microfibre-cloths-white-400mm-x-400mm-300gsm-50): Microfibre cleaning cloths are ideal for general use cleaning and can be used wet or dry on a variety of hard surfaces. When used dry, the static attracts the smallest dust and dirt particles for an efficient clean. Available in a range of colours to avoid cross contamination. Can be used wet or dry on a variety of hard surfaces Size: 400mm x 400mm x 300gsm Pack of 50 Dispenser pack Colour: White
-  Updated: 2025-01-09T06:08:34Z
+  Updated: 2025-12-05T00:08:40Z
   Vendor: Mattews Packaging
   Product Type: Dry Cloths
   Availability: Available
@@ -1929,7 +1929,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/por-polyethylene-sheet-blue-400mm-x-700mm-x-18mu-2500-sheets-polyethylene-sheets-essential-supplies-882129.jpg?v=1719445689
   Price: $120.00 NZD
 - [POR Polyethylene Sheet - Clear, 400mm x 700mm x 45mu - 1500 Sheets](https://essentialsupplies.co.nz/products/por-polyethylene-sheet-clear-400mm-x-700mm-x-45mu-1500): Polyethylene sheets offer great properties such as abrasion and chemical resistance, high impact strength and a low coefficient of friction.These sheets are also moisture, stain and odour resistant. It is one of the most versatile and durable plastic products available.It is widely recycled, and for a standard engineering material it has an amazingly high tensile strength. These sheets are moisture, stain and odour resistant Size: 400mm x 700mm x 45mu Content: 1500 sheets Colour: Clear
-  Updated: 2025-01-31T09:00:43Z
+  Updated: 2025-12-05T07:53:23Z
   Vendor: Mattews Packaging
   Product Type: Polyethylene Sheets
   Availability: Available
@@ -2678,7 +2678,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fp-recycled-bin-liner-120l-black-900mm-x-1330mm-x-30mu-200-pack-wheelie-bin-liners-essential-supplies-154836.jpg?v=1719445088
   Price: $100.00 NZD
 - [FP Recycled Bin Liner 120L - Blue, 900mm x 1330mm x 30mu - 200 Pack](https://essentialsupplies.co.nz/products/fp-recycled-bin-liner-120l-blue-900mm-x-1330mm-x-30mu-200): Recycled rubbish bin liners combine puncture strength and versatility to provide reliable, economical protection against leaking and odours.These bags are produced from post consumer plastic, which is then recycled and made into new bags. Recycled bin liners are the most cost effective as they reduce environmental impact, save energy and preserve natural. Tough, strong recycled bags Size: 120 Litres (900 x 1330mm) Strength: 30mu Pack of: 200
-  Updated: 2025-01-09T13:46:31Z
+  Updated: 2025-12-05T02:01:55Z
   Vendor: Mattews Packaging
   Product Type: Wheelie Bin Liners
   Availability: Available
@@ -2979,7 +2979,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/sms-coverall-type-56-white-xl-50gsm-12-pieces-breathable-coverall-sms-coveralls-essential-supplies-224825.jpg?v=1719445794
   Price: $75.00 NZD
 - [SMS Coverall Type 5/6 - White, L, 50gsm - 12 Pieces - *Breathable Coverall](https://essentialsupplies.co.nz/products/sms-coverall-type-5-6-white-l-50gsm-12-breathable-coverall): SMS 50gsm coveralls with a layer of meltblown polypropylene sandwiched between two layers of spunbound polypropylene to provide Type 5 and Type 6 anti static protection against fine particulates and liquid splashes. Designed for wood and metal processing, paint spraying, asbestos removal, silica dust and pharmaceutical processing industries. Superior breathability with fully elasticated hood, wrists and ankles. 50gsm Breathable Coverall Provides Type 5 and Type 6 anti static protection against fine particulates and liquid splashes Designed for wood and metal processing, paint spraying, asbestos removal, silica dust and pharmaceutical processing industries Superior breathability with fully elasticated hood, wrists and ankles Size: Large (L) Content: 12 pieces Colour: White
-  Updated: 2025-01-08T18:29:01Z
+  Updated: 2025-12-04T11:24:16Z
   Vendor: Mattews Packaging
   Product Type: SMS Coveralls
   Availability: Available
@@ -3880,7 +3880,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/pod-petite-fragranced-wipes-white-135mm-x-220mm-150-sheets-12-wipes-sanitary-hygiene-essential-supplies-447628.jpg?v=1719445557
   Price: $92.00 NZD
 - [Pod Classic Floor Stand - White, Anti Slip Design - *For Manual Units Only*](https://essentialsupplies.co.nz/products/pod-classic-floor-stand-white-anti-slip-design-6-for-manual-units-only)
-  Updated: 2025-01-09T00:25:45Z
+  Updated: 2025-12-06T23:58:56Z
   Vendor: Mattews Packaging
   Product Type: Sanitary Hygiene
   Availability: Available
@@ -4587,7 +4587,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/floor-squeegee-black-750mm-x-25mm-x-1350mm-floor-squeegees-essential-supplies-319665.jpg?v=1719445068
   Price: $69.00 NZD
 - [Contractor's Floor Squeegee - Orange, 600mm x 25mm x 1350mm](https://essentialsupplies.co.nz/products/contractors-floor-squeegee-orange-600mm-x-25mm-x-1350mm-4): Contractor's floor squeegees with a heavy duty galvanised steel handle bracket and an extra strong 28mm wood handle. Built for the toughest work with a hard-wearing rubber blade and aluminium splash guard. Available in bright orange with a 600mm head width.
-  Updated: 2025-02-09T17:27:11Z
+  Updated: 2025-12-04T00:47:19Z
   Vendor: Mattews Packaging
   Product Type: Floor Squeegees
   Availability: Available
@@ -4923,7 +4923,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/regular-tea-towels-red-500mm-x-750mm-72g-10-towels-100-cotton-tea-towels-essential-supplies-644602.jpg?v=1719445673
   Price: $46.00 NZD
 - [Deluxe Terry Tea Towels - Blue, 500mm x 750mm, 130g - 10 Towels - *100% Cotton](https://essentialsupplies.co.nz/products/deluxe-terry-tea-towels-blue-500mm-x-750mm-130g-10-100-cotton): Deluxe tea towels made from luxurious heavy weight blended cotton provide a durable cleaning solution. Towels are hard wearing with high absorbency, perfect for drying dishes and cleaning up kitchen spills. Available in red, blue or green to avoid cross contamination.
-  Updated: 2025-02-14T11:32:51Z
+  Updated: 2025-12-06T03:33:56Z
   Vendor: Mattews Packaging
   Product Type: Tea Towels
   Availability: Available
@@ -5049,7 +5049,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/stainless-steel-scourer-silver-30g-scourer-weight-60-scourers-individually-wrapped-stainless-scourers-essential-supplies-426683.jpg?v=1719445793
   Price: $179.00 NZD
 - [Stainless Steel Scourer - Silver, 50g Scourer Weight - 60 Scourers - *Individually Wrapped](https://essentialsupplies.co.nz/products/stainless-steel-scourer-silver-50g-scourer-weight-60-individually-wrapped): Stainless steel scourers are made from high quality stainless steel that won’t rust. Unique large size makes it easy to grip to give a more effective clean. Great for use in all kitchen or factory environments.
-  Updated: 2025-01-09T11:52:58Z
+  Updated: 2025-12-04T04:13:42Z
   Vendor: Mattews Packaging
   Product Type: Stainless Scourers
   Availability: Available
@@ -6841,7 +6841,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/kraft-paper-packaging-tape-white-48mm-x-50m-x-125mu-36-rolls-paper-packaging-tape-essential-supplies-744005.jpg?v=1719445324
   Price: $199.00 NZD
 - [General Purpose Masking Tape - Cream, 18mm x 50m x 130mu - 96 Rolls - *2 Day Removal](https://essentialsupplies.co.nz/products/general-purpose-masking-tape-cream-18mm-x-50m-x-130mu-96-2-day-removal): Economy masking tape made from quality paper with a high strength rubber adhesive that can be removed cleanly from surfaces. Ideal for general masking applications such as painting, sealing and light duty packaging.
-  Updated: 2024-11-20T20:30:48Z
+  Updated: 2025-12-04T12:01:22Z
   Vendor: Mattews Packaging
   Product Type: Crepe Masking Tape
   Availability: Available
@@ -6937,7 +6937,7 @@
   Availability: Available
   Price: $23.00 NZD
 - [Easy Load Tape Dispenser - Blue/Black, 76mm Core / 48mm Wide - 1 Dispenser](https://essentialsupplies.co.nz/products/easy-load-tape-dispenser-blue-black-76mm-core-48mm-wide-1): The easy load tape dispenser is a high quality metal framed dispenser with a comfortable gummed handle. This dispenser is very simple to load with a spring loaded bar that tensions against the core of the tape roll.
-  Updated: 2025-01-26T05:45:28Z
+  Updated: 2025-12-04T05:05:06Z
   Vendor: Mattews Packaging
   Product Type: Tape Dispensers
   Availability: Available
@@ -7315,7 +7315,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/newsprint-paper-roll-white-400mm-x-400m-45gsm-1-roll-newsprint-paper-rolls-essential-supplies-867687.jpg?v=1719445565
   Price: $69.00 NZD
 - [Newsprint Paper Roll - White, 600mm x 400m, 45gsm - 1 Roll](https://essentialsupplies.co.nz/products/newsprint-paper-roll-white-600mm-x-400m-45gsm-1): Newsprint paper rolls are 100% recyclable and are a cost effective product suitable for a wide range of uses around the home, office or warehouse. Can be used as a filler for boxes, for wrapping packages or for covering surfaces. Available in a 45gsm thickness with a range of widths for all packaging requirements.
-  Updated: 2025-02-06T22:50:48Z
+  Updated: 2025-12-05T11:11:47Z
   Vendor: Mattews Packaging
   Product Type: Newsprint Paper Rolls
   Availability: Available
@@ -7413,7 +7413,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/MPH18090.jpg?v=1718593606
   Price: $121.00 NZD
 - [Air Bubble Roll - Clear, 1500mm x 100m x 10mm - 1 Roll](https://essentialsupplies.co.nz/products/air-bubble-roll-clear-1500mm-x-100m-x-10mm-1): Air bubble rolls made from low density polyethylene to protect fragile items during packing, mailing and moving. Small bubbles of sealed air provide cost efficient light weight protection to reduce mailing and freight costs. Available in a cost-efficient 100m roll length in a range of widths for all uses.
-  Updated: 2025-01-09T00:36:47Z
+  Updated: 2025-12-05T00:47:44Z
   Vendor: Mattews Packaging
   Product Type: Air Bubble Rolls
   Availability: Available
