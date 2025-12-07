@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-07T00:00:48.279Z
+- Updated At: 2025-12-07T04:00:33.906Z
 
 ## Products
 
@@ -9219,6 +9219,9 @@
   - [Jergens vs Nécessaire Lotion: Full Comparison of Hydration, Ingredients & Skin Benefits](https://affinatiliving.com/blogs/debates/jergens-vs-necessaire-lotion-full-comparison-of-hydration-ingredients-and-skin-benefits)
     Updated: 2025-12-02T18:21:52Z
     Author: Gerard Collins
+  - [CeraVe vs Nécessaire Lotion: Which Body Lotion Is Best for Daily Skin Care?](https://affinatiliving.com/blogs/debates/cerave-vs-necessaire-lotion-which-body-lotion-is-best-for-daily-skin-care)
+    Updated: 2025-12-07T00:30:48Z
+    Author: Gerard Collins
   - [CeraVe vs Sol de Janeiro Lotion: The Ultimate Skincare Debate](https://affinatiliving.com/blogs/debates/cerave-vs-sol-de-janeiro-lotion-the-ultimate-skincare-debate)
     Updated: 2025-12-05T17:51:24Z
     Author: Gerard Collins
@@ -9227,6 +9230,24 @@
     Author: Gerard Collins
   - [CeraVe vs Cetaphil Lotion: Which Is Better for Your Skin?](https://affinatiliving.com/blogs/debates/cerave-vs-cetaphil-lotion-which-is-better-for-your-skin)
     Updated: 2025-12-05T17:53:08Z
+    Author: Gerard Collins
+  - [CeraVe Lotion vs Tree Hut Lotion: Full Comparison Guide](https://affinatiliving.com/blogs/debates/cerave-lotion-vs-tree-hut-lotion-full-comparison-guide)
+    Updated: 2025-12-07T00:34:49Z
+    Author: Gerard Collins
+  - [CeraVe vs Ouai Lotion: Full Comparison, Benefits & Which Is Better](https://affinatiliving.com/blogs/debates/cerave-vs-ouai-lotion-full-comparison-benefits-amp-which-is-better)
+    Updated: 2025-12-07T00:37:50Z
+    Author: Gerard Collins
+  - [CeraVe vs Bath & Body Works Lotion: Which Is Better? Hydration, Ingredients & Scent Comparison](https://affinatiliving.com/blogs/debates/cerave-vs-bath-body-works-lotion-which-is-better-hydration-ingredients-scent-comparison)
+    Updated: 2025-12-07T00:42:08Z
+    Author: Gerard Collins
+  - [CeraVe vs Hempz Lotion: Which Is Better for Skin Hydration, Moisture Barrier & Softness?](https://affinatiliving.com/blogs/debates/cerave-vs-hempz-lotion-which-is-better-for-skin-hydration-moisture-barrier-and-softness)
+    Updated: 2025-12-07T00:46:10Z
+    Author: Gerard Collins
+  - [CeraVe vs Dove Lotion — Which Moisturizer Is Better for Dry Skin?](https://affinatiliving.com/blogs/debates/cerave-vs-dove-lotion-which-moisturizer-is-better-for-dry-skin)
+    Updated: 2025-12-07T00:48:45Z
+    Author: Gerard Collins
+  - [CeraVe vs Vaseline Lotion: Which Is Better? Full Comparison, Benefits & Buying Guide](https://affinatiliving.com/blogs/debates/cerave-vs-vaseline-lotion-which-is-better-full-comparison-benefits-buying-guide)
+    Updated: 2025-12-07T00:32:57Z
     Author: Gerard Collins
 - [Affinati Spotlight: Product Feature](https://affinatiliving.com/blogs/affinati-spotlight-product-feature)
   - [Affinati Fresh Peaches 3-Wick Candle | Long-Lasting Summer Luxury](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/affinati-fresh-peaches-3-wick-candle-long-lasting-summer-luxury)
