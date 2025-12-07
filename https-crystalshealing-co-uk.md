@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-12-06T00:00:25.070Z
+- Updated At: 2025-12-07T00:00:25.875Z
 
 # Crystals Healing UK – LLMS Overview
 
@@ -127,7 +127,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032139-Photoroom_64.jpg?v=1761061007
     Price: £27.00 GBP
 - [Menopause Bracelet | Crystals Healing UK](https://crystalshealing.co.uk/products/menopause-bracelet): Menopause Bracelet for intention-setting and calm daily rituals. Moonstone, lepidolite, citrine, carnelian and rose quartz. Free UK delivery available.
-  Updated: 2025-12-05T12:10:36Z
+  Updated: 2025-12-06T02:13:06Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -967,7 +967,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230503_123418-PhotoRoom_5.jpg?v=1739737593
     Price: £27.00 GBP
 - [Motivation and Self-Control Bracelet | Crystals Healing UK](https://crystalshealing.co.uk/products/motivation-and-self-control-bracelet): A crystal bracelet designed for intention-setting, focus and mindful routines. Wear it as a daily reminder for motivation, self-control and steady habits.
-  Updated: 2025-12-05T12:04:56Z
+  Updated: 2025-12-06T02:59:42Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -3227,7 +3227,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20211210_125756-PhotoRoom_1_048e58f6-d05b-4b31-b4ee-21e0f0757d85.jpg?v=1739771192
   Price: £1.20 GBP
 - [Motivation & Discipline Fusion Bracelet | Crystals Healing UK](https://crystalshealing.co.uk/products/motivation-discipline-fusion-bracelet): Motivation & Discipline Fusion Bracelet is designed for intention-setting, focus and consistent routines. A daily reminder for motivation and self-discipline.
-  Updated: 2025-12-05T11:58:17Z
+  Updated: 2025-12-06T01:04:02Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
