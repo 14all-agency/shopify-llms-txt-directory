@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2024-11-01T17:53:57Z
 - Contact Email: sglobalresorts@gmail.com
-- Updated At: 2025-12-06T00:00:39.661Z
+- Updated At: 2025-12-07T00:00:41.463Z
 
 ## Products
 
@@ -6263,7 +6263,7 @@
   Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/65306fc2-7284-4e51-acdb-3cbfb4c46488.jpg?v=1736699608
   Price: $59.99 USD
 - [USB Charging Cable Bracelet for iPhone 14 and 13 Max](https://oceanfrontproducts.com/products/new-bracelet-charger-usb-charging-cable-data-cord-for-iphone14-13-max): Oceanfront Products offers stylish braided leather bracelets with built-in bracelet charger usb and usb c cable compatibility, combining fashion with convenient phone charging.
-  Updated: 2025-11-28T10:46:53Z
+  Updated: 2025-12-06T00:49:52Z
   Vendor: Oceanfront Products
   Product Type: Electronics
   Availability: Available
