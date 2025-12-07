@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-01-11T16:47:40Z
 - Contact Email: info@alhalalcosmetics.nl
-- Updated At: 2025-12-05T00:00:23.265Z
+- Updated At: 2025-12-07T00:00:24.147Z
 
 ## Products
 
@@ -340,7 +340,7 @@
   Image: https://cdn.shopify.com/s/files/1/0889/5214/4215/files/alhalal-rode-lippenstift-matte-velvet-nude.jpg?v=1750326426
   Price: 12,02 € EUR
 - [AL-145 FALAK Gellak Gel Kopen - Peel-Off Formule met Gezonde Look!](https://alhalalcosmetics.nl/products/al-145-falak-gele-nagellak): Experience the exclusive AL-145 FALAK GELE NAGELLAK, a halal-certified, water-permeable polish for a radiant manicure. Peel-off formula, free from harmful chemicals, vegan & cruelty-free. Ideal for wudu followers.
-  Updated: 2025-12-04T09:56:40Z
+  Updated: 2025-12-06T03:38:35Z
   Vendor: Alhalal cosmetics
   Product Type: Nail Polishes
   Availability: Available
