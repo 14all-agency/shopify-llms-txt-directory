@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-03-05T09:19:25Z
 - Contact Email: hello@andcici.com
-- Updated At: 2025-12-06T00:00:23.597Z
+- Updated At: 2025-12-07T00:00:22.637Z
 
 ## Products
 
@@ -380,13 +380,6 @@
   Product Type: Canvas Tote Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0818/5223/6125/files/O1CN01XvGkX11vr6KlYQ2rx__4158646225.jpg?v=1719627344
-  Price: £14.99 GBP
-- [Gustav Klimt The Kiss, 1908 Canvas Tote Bag with Zip](https://andcici.com/products/gustav-klimt-the-kiss-1908-canvas-tote-bag-with-zip): Gustav Klimt Austrian Symbolist Artist "The Kiss, 1908" Aesthetic Canvas Art Tote Bag with Zip Closure and Inner Zipped Pocket About the Art: The Kiss" is a renowned painting by Austrian Symbolist artist Gustav Klimt. Created between 1907 and 1908, this masterpiece is considered one of Klimt's most iconic works and a prime example of his distinctive style, which combines symbolism, decorative arts, and a penchant for exploring themes related to love and sensuality. "The Kiss" reflects his unique blend of symbolism and decorative aesthetics. The painting is characterized by intricate patterns, gold leaf embellishments, and a focus on symbolism. The painting depicts a couple locked in an intimate embrace and kiss. The male figure is embracing the female figure, who is adorned in a golden-patterned gown. The entire scene is set against a shimmering gold background. One of the distinctive features of "The Kiss" is Klimt's extensive use of gold leaf, which imparts a luxurious and decorative quality to the painting. The gold background and the ornamental patterns on the figures' clothing contribute to the overall opulence of the artwork. The painting is housed in the Österreichische Galerie Belvedere museum in Vienna, where it has become a major attraction and a symbol of Austrian art. About the bag: Dimensions: 36cm x 36cm x 10cmThick & durable, environmentally friendly synthetic cotton canvas material. Thick sturdy straps with a wide base to ensure it can carry all the daily essentials. Inner pocket for your small valuables, as well as zip closure for your bag so your things will be secure. Be it for school, shopping or a day out at the beach, our totes have got you covered.Material: organic/bio cotton - synthetically grown cotton to reduce our carbon footprint on the environment, canvasDesign: artwork printed on one side & both panels of the tote bag. *Disclaimer: dimensions & colours may vary slightly*Aftercare: DO NOT machine wash. To clean, take a damp towel and wipe the bag down. Ensure dry before storage. Shipping:Purchases will take about 2-3 weeks to arrive. Please refer to our shipping policy for a more accurate estimation.Policies:Exchange & refunds are allowed within 7 days of purchase with mailing cost at the expense of the customer. Cancellations are allowed within 24 hours of placing the order. Please refer to our refund/return policy for a more information If you have questions about our materials or our products, please do not hesitate to contact us at hello@andcici.com
-  Updated: 2025-08-14T09:45:02Z
-  Vendor: Andcici
-  Product Type: Canvas Tote Bag
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0818/5223/6125/files/O1CN01SSDsnk1vr6LB8yAsS__4158646225.jpg?v=1719627281
   Price: £14.99 GBP
 - [Katsushika Hokusai The Great Wave off Kanagawa, 1831 Canvas Tote Bag with Zip](https://andcici.com/products/katsushika-hokusai-the-great-wave-off-kanagawa-1831-canvas-tote-bag-with-zip): Katsushika Hokusai Japanese ukiyo-e Artist "The Great Wave off Kanagawa, 1831" Aesthetic Canvas Art Tote Bag with Zip Closure and Inner Zipped Pocket About the Art: "The Great Wave off Kanagawa," also known as "The Great Wave" or "Under the Wave off Kanagawa," is a woodblock print created by the Japanese ukiyo-e artist Katsushika Hokusai (1760–1849). It is part of his series "Thirty-Six Views of Mount Fuji" (Fugaku Sanjūrokkei), which he produced between 1830 and 1833 during the Edo period. The print depicts a towering wave with a curved form about to crash down on three small fishing boats. In the background, Mount Fuji rises majestically against the horizon. The Great Wave is often interpreted as a symbol of the power of nature, the transient nature of life, and the constant presence of Mount Fuji as a symbol of stability and endurance. The wave is both beautiful and threatening, capturing the dual nature of the natural world. The composition is dynamic, with the wave dominating the scene, its frothy crest forming a distinct shape that has become iconic. The use of perspective and scale emphasizes the overwhelming force of the wave. Hokusai used the traditional Japanese woodblock printing technique to create the artwork. The print is characterized by its vivid colors, intricate details, and the use of contrasting elements. "The Great Wave off Kanagawa" remains a masterpiece that showcases the skill and artistic vision of Katsushika Hokusai. It continues to captivate audiences worldwide and holds a significant place in the history of art. About the bag: Dimensions: 36cm x 36cm x 10cmThick & durable, environmentally friendly synthetic cotton canvas material. Thick sturdy straps with a wide base to ensure it can carry all the daily essentials. Inner pocket for your small valuables, as well as zip closure for your bag so your things will be secure. Be it for school, shopping or a day out at the beach, our totes have got you covered.Material: organic/bio cotton - synthetically grown cotton to reduce our carbon footprint on the environment, canvasDesign: artwork printed on one side & both panels of the tote bag. *Disclaimer: dimensions & colours may vary slightly*Aftercare: DO NOT machine wash. To clean, take a damp towel and wipe the bag down. Ensure dry before storage. Shipping:Purchases will take about 2-3 weeks to arrive. Please refer to our shipping policy for a more accurate estimation.Policies:Exchange & refunds are allowed within 7 days of purchase with mailing cost at the expense of the customer. Cancellations are allowed within 24 hours of placing the order. Please refer to our refund/return policy for a more information If you have questions about our materials or our products, please do not hesitate to contact us at hello@andcici.com
   Updated: 2025-07-30T08:03:04Z
@@ -1079,13 +1072,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0818/5223/6125/files/SKU-03_27bf5b71-ef7e-4312-b969-75341b2e279e.jpg?v=1723359094
     Price: £14.99 GBP
-- [Retro Automotive Canvas Tote Bag with Zip](https://andcici.com/products/retro-automotive-canvas-tote-bag-with-zip): Retro Automotive Aesthetic Canvas Art Tote Bag with Zip Closure and Inner Zipped Pocket About the Art: The retro automotive canvas tote bag features a classic car design that harks back to the golden age of motoring. With its vintage curves, chrome details, and timeless silhouette, this tote captures the essence of mid-20th-century automotive style. The vibrant colours and intricate details evoke a sense of nostalgia, celebrating the elegance and charm of retro vehicles. Perfect for car enthusiasts and lovers of classic design, this tote bag combines practicality with a touch of automotive history, making it a stylish accessory for everyday use. About the bag: Dimensions: 36cm x 36cm x 10cm Thick & durable, environmentally friendly synthetic cotton canvas material. Thick sturdy straps with a wide base to ensure it can carry all the daily essentials. Inner pocket for your small valuables, as well as zip closure for your bag so your things will be secure. Be it for school, shopping or a day out at the beach, our totes have got you covered.Material: organic/bio cotton - synthetically grown cotton to reduce our carbon footprint on the environment, canvasDesign: artwork printed on one side of the tote bag. *Disclaimer: dimensions & colours may vary slightly*Aftercare: DO NOT machine wash. To clean, take a damp towel and wipe the bag down. Ensure dry before storage. Shipping:Purchases will take about 2-3 weeks to arrive. Please refer to our shipping policy for a more accurate estimation.Policies:Exchange & refunds are allowed within 7 days of purchase with mailing cost at the expense of the customer. Cancellations are allowed within 24 hours of placing the order. Please refer to our refund/return policy for a more information If you have questions about our materials or our products, please do not hesitate to contact us at hello@andcici.com
-  Updated: 2025-03-22T17:39:28Z
-  Vendor: Andcici
-  Product Type: Canvas Tote Bag
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0818/5223/6125/files/01_4e1b37b6-7336-47f8-84d8-d5150279d45c.jpg?v=1723359714
-  Price: £14.99 GBP
 - [A Peach Tree Canvas Tote Bag with Zip](https://andcici.com/products/a-peach-tree-canvas-tote-bag-with-zip): A Peach Tree Aesthetic Canvas Art Tote Bag with Blue Strap, Zip Closure and Inner Zipped Pocket About the Art: The canvas tote bag featuring an artwork of a peach tree and the words "un arbre de pêche" combines natural beauty with a touch of French elegance. The delicate illustration of the peach tree, with its graceful branches and ripened fruit, captures the essence of nature's bounty. The soft, organic lines and gentle colors evoke a sense of calm and serenity, making the artwork both charming and timeless. The phrase "un arbre de pêche," meaning "a peach tree" in French, adds a poetic and sophisticated element to the design, making this tote bag a perfect accessory for those who appreciate art, nature, and a hint of French flair. About the bag: Dimensions: 36cm x 36cm x 10cmThick & durable, environmentally friendly synthetic cotton canvas material. Thick sturdy straps with a wide base to ensure it can carry all the daily essentials. Inner pocket for your small valuables, as well as zip closure for your bag so your things will be secure. Be it for school, shopping or a day out at the beach, our totes have got you covered.Material: organic/bio cotton - synthetically grown cotton to reduce our carbon footprint on the environment, canvasDesign: artwork printed on one side of the tote bag. *Disclaimer: dimensions & colours may vary slightly*Aftercare: DO NOT machine wash. To clean, take a damp towel and wipe the bag down. Ensure dry before storage. Shipping:Purchases will take about 2-3 weeks to arrive. Please refer to our shipping policy for a more accurate estimation.Policies:Exchange & refunds are allowed within 7 days of purchase with mailing cost at the expense of the customer. Cancellations are allowed within 24 hours of placing the order. Please refer to our refund/return policy for a more information If you have questions about our materials or our products, please do not hesitate to contact us at hello@andcici.com
   Updated: 2025-03-22T17:39:32Z
   Vendor: Andcici
@@ -1184,55 +1170,55 @@
 ## Collections
 
 - [Home page](https://andcici.com/collections/frontpage)
-  Updated: 2025-12-04T12:21:26Z
+  Updated: 2025-12-06T12:18:19Z
   Total Products: 13
 - [Alphonse Mucha](https://andcici.com/collections/alphonse-mucha): Alfons Maria Mucha known internationally as Alphonse Mucha, was a Czech painter, illustrator, and graphic artist, living in Paris during the Art Nouveau period, best known for his distinctly stylized and decorative theatrical posters, particularly those of Sarah Bernhardt. He produced illustrations, advertisements, decorative panels, as well as designs, which became among the best-known images of the period.
-  Updated: 2025-11-14T12:20:06Z
+  Updated: 2025-12-06T12:18:19Z
   Total Products: 8
 - [Henri Matisse](https://andcici.com/collections/henri-matisse): Henri Émile Benoît Matisse (31 December 1869 – 3 November 1954) was a French visual artist, known for both his use of colour and his fluid and original draughtsmanship. He is one of the artists who best helped to define the revolutionary developments in the visual arts throughout the opening decades of the twentieth century, responsible for significant developments in painting and sculpture. The intense colourism of the works he painted between 1900 and 1905 brought him notoriety as one of the Fauves (French for "wild beasts").
-  Updated: 2025-11-26T12:22:07Z
+  Updated: 2025-12-06T12:18:19Z
   Total Products: 5
 - [ANDCICI Originals](https://andcici.com/collections/andcici-originals): Artwork designed by ANDCICI. Discover the Andcici Original Design Tote Bag Collection, where timeless art meets modern elegance. Inspired by famous artworks, each tote bag in this collection features exclusive designs that capture the essence of masterpieces from renowned artists. Crafted with precision and care, these tote bags allow you to carry a piece of art with you wherever you go. Elevate your style and celebrate creativity with our unique, high-quality tote bags that blend functionality with artistic flair.
-  Updated: 2025-11-29T12:26:44Z
+  Updated: 2025-12-06T16:01:46Z
   Total Products: 62
 - [Art Revolution Collection](https://andcici.com/collections/art-revolution-collection): We would like to pay homage to the artists who revolutionised the art scene in today’s world and hope to bring awareness to our customers on the contributions these profound artists made.
-  Updated: 2025-12-04T12:21:26Z
+  Updated: 2025-12-06T12:18:19Z
   Total Products: 77
 - [Floral Collection](https://andcici.com/collections/floral-collection): Discover the beauty of nature with Andcici's Floral Tote Bag Collection, where art and elegance blossom together. Each bag in this collection features exquisite floral designs inspired by famous artworks, bringing the timeless charm of classic paintings into your daily life. Crafted with care and printed on high-quality materials, these totes are perfect for art lovers and nature enthusiasts alike. Carry a piece of art with you and let the vibrant, detailed floral patterns brighten your day.
-  Updated: 2025-12-04T12:21:26Z
+  Updated: 2025-12-06T12:18:19Z
   Total Products: 15
 - [Claude Monet](https://andcici.com/collections/claude-monet): Oscar-Claude Monet was a French painter and founder of impressionist painting who is seen as a key precursor to modernism , especially in his attempts to paint nature as he perceived it. During his long career, he was the most consistent and prolific practitioner of impressionism's philosophy of expressing one's perceptions before nature. The term "Impressionism" is derived from the title of his painting Impression, Soleil levant, exhibited in 1874. Monet’s paintings are known for their focus on light and colour.
-  Updated: 2025-12-01T12:26:36Z
+  Updated: 2025-12-06T12:18:19Z
   Total Products: 17
 - [London Collection](https://andcici.com/collections/london-collection): Explore the city of London in our London Collection. Visit Daunt Books at Marylebone, take a trip to Tower Bridge & Buckingham Palace, all in one place.
-  Updated: 2025-11-29T12:26:44Z
+  Updated: 2025-12-06T12:18:19Z
   Total Products: 12
 - [William Morris](https://andcici.com/collections/william-morris): William Morris was a British textile artist, writer, and designer who was a major leader in the Arts and Crafts Movement of the 19th century. He revolutionized the decorative arts with his intricate designs and notable use of color and pattern. His works included stained glass, wallpaper, furniture, and fabric, and his influence can still be seen today in many modern designs. His passion for craftsmanship and commitment to beauty remain an inspiration to artisans and designers everywhere.
-  Updated: 2025-11-28T12:27:24Z
+  Updated: 2025-12-06T12:18:19Z
   Total Products: 6
 - [Van Gogh](https://andcici.com/collections/van-gogh): Vincent Willem Van Gogh (30 March 1853 - 29 July 1890) was a Dutch Post-impressionist painter born in North Brabant, Netherlands. He was an influential Post-Impressionist painter who is still widely regarded as one of the most important figures in the history of art. After his passing, he became one of the most famous & influential figures in Western Art History. In a decade, he created about 2,100 artworks, including Starry Night, The Potato Eaters and Sunflowers
-  Updated: 2025-12-04T12:21:26Z
+  Updated: 2025-12-06T12:18:19Z
   Total Products: 28
 - [Johannes Vermeer](https://andcici.com/collections/johannes-vermeer): Johannes Vermeer was a Dutch painter who specialized in domestic interior scenes of middle-class life. He is considered one of the greatest painters of the Dutch Golden Age, famous for his intimate household scenes with amazing light. In other paintings by Vermeer, such as the famous Girl with a Pearl Earring and View of Delft, he managed to create a calm, almost timeless atmosphere.
   Updated: 2025-05-18T09:50:50Z
   Total Products: 1
 - [AVADA - Best Sellers](https://andcici.com/collections/avada-best-sellers)
-  Updated: 2025-12-04T12:21:26Z
+  Updated: 2025-12-06T16:01:46Z
   Total Products: 149
 - [Shop All](https://andcici.com/collections/shop-all)
-  Updated: 2025-12-04T12:21:26Z
+  Updated: 2025-12-06T16:01:46Z
   Total Products: 149
 - [Best Sellers](https://andcici.com/collections/best-sellers)
-  Updated: 2025-12-04T12:21:26Z
+  Updated: 2025-12-06T12:18:19Z
   Total Products: 79
 - [Gustav Klimt](https://andcici.com/collections/gustav-klimt): Gustav Klimt (1862–1918) was an Austrian symbolist painter best known for his ornate, sensual works that often featured the female form. A founding member of the Vienna Secession movement, Klimt sought to break away from traditional academic art and embrace more modern, expressive styles. His most famous painting, The Kiss (1907–1908), exemplifies his signature use of gold leaf, intricate patterns, and emotional intensity. Klimt’s work blended symbolism, eroticism, and decorative art, making him a central figure in the development of early 20th-century modernism.
-  Updated: 2025-08-14T09:45:02Z
+  Updated: 2025-12-06T12:18:19Z
   Total Products: 1
 - [John Singer Sargent](https://andcici.com/collections/john-singer-sargent): John Singer Sargent (1856–1925) was an American painter renowned for his exceptional portraiture and technical mastery. Born in Florence to American parents, Sargent trained in Paris and became one of the most sought-after portrait artists of his time. He is best known for his elegant, lifelike depictions of high society figures, such as Portrait of Madame X (1884), which caused a scandal in its day. In addition to portraits, Sargent created atmospheric landscapes and murals, showcasing his versatility. His fluid brushwork and keen observation made him a leading figure in late 19th and early 20th-century art.
-  Updated: 2025-11-10T12:18:09Z
+  Updated: 2025-12-06T12:18:19Z
   Total Products: 2
 - [Katsushika Hokusai](https://andcici.com/collections/katsushika-hokusai): Katsushika Hokusai (1760–1849) was a Japanese ukiyo-e artist, painter, and printmaker, best known for his iconic woodblock print The Great Wave off Kanagawa (1831). Active during the Edo period, Hokusai produced a vast body of work that included landscapes, nature studies, and scenes of everyday life. His most famous series, Thirty-Six Views of Mount Fuji, reflects his fascination with the mountain and showcases his innovative use of perspective and bold composition. Hokusai had a profound influence on both Japanese art and Western artists, particularly during the Japonisme movement in 19th-century Europe.
-  Updated: 2025-09-08T11:14:39Z
+  Updated: 2025-12-06T12:18:19Z
   Total Products: 3
 - [Pablo Picasso](https://andcici.com/collections/pablo-picasso): Pablo Picasso (1881–1973) was a Spanish painter, sculptor, and one of the most influential artists of the 20th century. He co-founded the Cubist movement and is best known for pioneering new artistic styles, including Cubism and Surrealism. Picasso’s vast body of work spans various periods, such as the Blue Period, Rose Period, and his later abstract experiments. Iconic works like Les Demoiselles d’Avignon (1907) and Guernica (1937) reflect his bold innovation and political engagement. Constantly reinventing his style, Picasso’s legacy transformed modern art and inspired generations of artists worldwide.
   Updated: 2025-05-18T09:52:14Z
