@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-12-06T00:00:43.231Z
+- Updated At: 2025-12-07T00:00:44.843Z
 
 ## Products
 
@@ -340,14 +340,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Toothbrush-Holder-White-6.jpg?v=1727659069
   Price: $34.99 NZD
 - [Brabantia SinkSide Replacement Dish Brush - Set of 2 Dark Grey](https://everydayhome.co.nz/products/replacement-dish-brush-set-2-dark-grey): Replacement Dish Brush, Set 2, Dark Grey
-  Updated: 2025-12-05T01:46:08Z
+  Updated: 2025-12-06T19:07:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Replacement-Dish-Brush-Set-of-2-Dark-Gre-6.jpg?v=1727659117
   Price: $19.99 NZD
 - [Brabantia SinkSide Soap Dispensing Dish Brush - Dark Grey](https://everydayhome.co.nz/products/soap-dispensing-dish-brush-dark-grey): Soap Dispensing Dish Brush, Dark Grey
-  Updated: 2025-12-05T01:46:08Z
+  Updated: 2025-12-06T19:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -858,7 +858,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Picket-5-Hook-Aged-Walnut-1.png?v=1727660144
   Price: $99.99 NZD
 - [Umbra Skyline Multi Hook Coat Rack - Black](https://everydayhome.co.nz/products/skyline-multi-hook-black): A piece of wall art that unexpectedly transforms into a collection of hooks that can be used for hanging scarves, accessories, bags and coats. This piece is designed to look like a window on a wall, with flip down hooks built into the skyline
-  Updated: 2025-12-05T01:45:13Z
+  Updated: 2025-12-06T20:07:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -886,7 +886,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sticks-Multi-Hook-White-5.jpg?v=1727660345
   Price: $54.99 NZD
 - [Umbra Sticks 5 Hook - Grey](https://everydayhome.co.nz/products/sticks-multi-hook-grey): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-12-05T01:45:09Z
+  Updated: 2025-12-06T02:07:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1236,7 +1236,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Linn-Steam-Board-Pepper-Black-9.png?v=1727659968
   Price: $139.99 NZD
 - [Brabantia Linn Steam Board - Grey](https://everydayhome.co.nz/products/linn-steam-board-grey): Steaming clothes gets rid of pesky wrinkles and takes less time and effort than ironing. And with the Brabantia Linn Steam Board, steaming is even faster and easier. This smart Steam Board helps you put pressure on the creases, for better results.
-  Updated: 2025-12-05T01:44:30Z
+  Updated: 2025-12-06T23:52:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1334,7 +1334,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Anolon-Ceramic-Reinforced-23-x-33cm-Rectangular-Ba-9.jpg?v=1731903070
   Price: $39.99 NZD
 - [Anolon Ceramic Reinforced - 24cm Fluted Cake Ring](https://everydayhome.co.nz/products/anolon-ceramic-reinforced-24cm-fluted-cake-ring): Turn out impressive looking bundt cakes with this easy release Fluted Cake Ring. After cooking, fill the centre with cream or fruit for something really special. Constructed from heavy duty carbon steel, this bakeware will resist warping. The 2 coat Ceramic Reinforced non-stick surface provides excellent food release and easy cleaning. The lighter colour interior promotes even baking and heat distribution crucial for optimal baking results. Dishwasher safe and oven safe to 240°C, this unique 2 tone bakeware is an elegant yet functional range and a must in any baker's kitchen.
-  Updated: 2025-12-05T01:44:22Z
+  Updated: 2025-12-06T04:33:01Z
   Vendor: Anolon
   Product Type: Kitchenware
   Availability: Available
@@ -1530,7 +1530,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Assorted-Grey-UMBRA-4.jpg?v=1731902503
   Price: $39.99 NZD
 - [Umbra Buddy Wall Hook - Set of 3 Black](https://everydayhome.co.nz/products/buddy-hook-set-3-black): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
-  Updated: 2025-12-05T01:43:51Z
+  Updated: 2025-12-06T21:22:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1579,7 +1579,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Cappa-Toilet-Paper-Stand-Black-UMBRA-0.jpg?v=1731902721
   Price: $69.99 NZD
 - [Umbra Cappa Toilet Paper Holder - Nickel](https://everydayhome.co.nz/products/cappa-toilet-paper-stand-nickle): Cappa Toilet Paper Stand and Reserve is a minimalist, freestanding toilet paper stand with an integrated reserve for storing toilet paper rolls. Using often under-utilized vertical square footage, while maintaining a small footprint, Cappa holds up to three jumbo toilet paper rolls and dispenses one.
-  Updated: 2025-12-05T01:43:45Z
+  Updated: 2025-12-06T21:22:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2307,7 +2307,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Step-Soap-Sanitiser-Dispenser-White-UMBRA-2.jpg?v=1731903201
   Price: $27.99 NZD
 - [Stowit Jewelry Box - White/Natural](https://everydayhome.co.nz/products/stowit-jewelry-box-white-natural): Use Stowit to keep all your favorite jewelry pieces in one place, making them easy to access. Each drawer features a linen pad to keep your jewelry from shifting around or getting damaged. The simple, modern design of Stowit is an attractive addition to your dresser, nightstand, desk, or wherever you choose to put it. Plus, the protective rubber feet keep it securely in place and ensure whichever surface you place it on won’t get scratched by the wood and metal design.
-  Updated: 2025-12-05T01:42:18Z
+  Updated: 2025-12-06T00:07:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2510,7 +2510,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $359.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-12-05T16:07:08Z
+  Updated: 2025-12-06T21:52:07Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2524,7 +2524,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewShowerCaddy-DarkGrey-8710755280740Brabantia_96dpi_1000x1000px_7_NR-22025.png?v=1734407693
   Price: $54.99 NZD
 - [Brabantia ReNew Shower Caddy - White](https://everydayhome.co.nz/products/renew-shower-caddy-white): Whether it's shampoo, shower gel, skin care products or razors... All your shower rituals are organised with this neat Brabantia ReNew Shower Caddy. Fix it easily to the shower rod and adjust the height until it is right for you. A pretty nifty trick to keeping your bathroom tidy and beautiful!
-  Updated: 2025-12-05T01:41:55Z
+  Updated: 2025-12-06T23:37:12Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -2902,7 +2902,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProtectiveClothesCover_L_setof2-Transparent-8710755148941Brabantia_96dpi_1000x1000px_7_NR-26291.png?v=1733802901
   Price: $32.99 NZD
 - [Brabantia Ground Spike Metal - 45mm Silver](https://everydayhome.co.nz/products/metal-soil-spear-45mm-silver): Keep your Brabantia rotary dryer in place with this smart metal ground spike – for anyone that wants sturdy anchorage without concrete. The spike has a closable cap and is made of galvanised steel plate, so corrosion resistant too.
-  Updated: 2025-12-01T21:22:11Z
+  Updated: 2025-12-06T06:37:12Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -4043,14 +4043,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1012271-040_INFINITY_PD_4x6_CLOSEDCROP_02copy.jpg?v=1755738808
   Price: $99.99 NZD
 - [Umbra Infinity Picture Frame - 4x6 Black](https://everydayhome.co.nz/products/umbra-infinity-picture-frame-4x6-black): An original design unlike any other picture frame, Infinity is a first of its kind. Its elegant design and sleek finish adds to the original make of this unique picture frame. Use your imagination to mix and match the different finishes of this picture frame to display a beautiful array of illustrations or personal pictures on your tables or walls.
-  Updated: 2025-12-05T01:39:28Z
+  Updated: 2025-12-06T17:07:08Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1012271-040_INFINITY_PD_4x6_CLOSEDCROP_01.jpg?v=1755738282
   Price: $49.99 NZD
 - [Umbra Infinity Picture Frame - 5x7 Black](https://everydayhome.co.nz/products/umbra-infinity-picture-frame-5x7-black): An original design unlike any other picture frame, Infinity is a first of its kind. Its elegant design and sleek finish adds to the original make of this unique picture frame. Use your imagination to mix and match the different sizes of this picture frame to display a beautiful array of illustrations or personal pictures on your tables or walls.
-  Updated: 2025-12-05T01:39:28Z
+  Updated: 2025-12-06T17:07:08Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -4323,7 +4323,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/299245-104_DACHSIERINGHOLDER_BRASS_CC02.jpg?v=1755558004
   Price: $39.99 NZD
 - [Umbra Tipsy Bottle Opener - Chrome](https://everydayhome.co.nz/products/umbra-tipsy-bottle-opener-chrome): This bar accessory is not just your average bottle opener, it's a decorative piece that will elevate any home bar setup. With its sleek cast metal construction and polished chrome finish, Tipsy is not only built to last, but it also exudes a sense of sophistication and elegance. But what sets Tipsy apart is its unique balancing stand (included), which allows it to stand upright on its own or on any edge surface. It's not just a bottle opener - it's a conversation starter and a sculptural masterpiece. Whether you're entertaining guests or enjoying a quiet drink by yourself, Tipsy is sure to impress.
-  Updated: 2025-12-05T17:58:05Z
+  Updated: 2025-12-06T06:17:51Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -4471,13 +4471,13 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-12-05T12:08:33Z
+  Updated: 2025-12-06T12:09:25Z
   Total Products: 1052
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-12-05T12:08:33Z
+  Updated: 2025-12-06T12:09:25Z
   Total Products: 1052
 - [Umbra Homewares | Everyday Home NZ](https://everydayhome.co.nz/collections/umbra): Shop Umbra at Everyday Home. Modern home décor, mirrors, hooks and smart storage designs. Free shipping across NZ on orders over $99*
-  Updated: 2025-12-05T12:08:33Z
+  Updated: 2025-12-06T12:09:25Z
   Total Products: 279
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
   Updated: 2025-12-05T12:08:33Z
@@ -4501,7 +4501,7 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [Home Décor](https://everydayhome.co.nz/collections/home-decor)
-  Updated: 2025-12-05T02:00:50Z
+  Updated: 2025-12-06T12:09:25Z
   Total Products: 139
 - [Ceramics](https://everydayhome.co.nz/collections/ceramics)
   Updated: 2025-09-23T12:13:34Z
@@ -4540,10 +4540,10 @@
   Updated: 2025-10-27T20:05:09Z
   Total Products: 6
 - [Kitchenware](https://everydayhome.co.nz/collections/kitchenware)
-  Updated: 2025-12-05T12:08:33Z
+  Updated: 2025-12-06T12:09:25Z
   Total Products: 361
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
-  Updated: 2025-12-05T12:08:33Z
+  Updated: 2025-12-06T12:09:25Z
   Total Products: 237
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
   Updated: 2025-12-05T12:08:33Z
@@ -4612,7 +4612,7 @@
   Updated: 2025-12-05T01:46:39Z
   Total Products: 6
 - [Accessories](https://everydayhome.co.nz/collections/accessories)
-  Updated: 2025-12-05T01:45:41Z
+  Updated: 2025-12-06T12:09:25Z
   Total Products: 25
 - [Dish Racks](https://everydayhome.co.nz/collections/dish-racks)
   Updated: 2025-12-05T12:08:33Z
@@ -4693,10 +4693,10 @@
   Updated: 2025-12-05T12:08:33Z
   Total Products: 185
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
-  Updated: 2025-12-05T12:08:33Z
+  Updated: 2025-12-06T12:09:25Z
   Total Products: 263
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
-  Updated: 2025-12-05T12:08:33Z
+  Updated: 2025-12-06T12:09:25Z
   Total Products: 373
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
   Updated: 2025-12-05T12:08:33Z
@@ -4717,7 +4717,7 @@
   Updated: 2025-12-05T01:44:27Z
   Total Products: 8
 - [Non-Stick Bakeware - Built to Last](https://everydayhome.co.nz/collections/bakeware): Shop our premium bakeware for all your baking needs, non-stick, durable and even heat distribution ranges. Baking cakes, muffins or homemade bread has never been easier, we have a range of products to suit. Free shipping across NZ on orders over 99*
-  Updated: 2025-12-05T01:44:45Z
+  Updated: 2025-12-06T12:09:25Z
   Total Products: 16
 - [Stylish and Functional Umbrella Stands | Shop Now](https://everydayhome.co.nz/collections/umbrella-stands): Neat and organised umbrella stands. Designed to hold multiple umbrellas these stands are both functional and aesthetically pleasing. Ideal for homes, offices, or any space needing a convenient storage solution. Free shipping across NZ on orders over 99*
   Updated: 2025-12-05T01:43:57Z
@@ -4741,13 +4741,13 @@
   Updated: 2025-12-05T00:47:46Z
   Total Products: 155
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-12-05T12:08:33Z
+  Updated: 2025-12-06T12:09:25Z
   Total Products: 882
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
   Updated: 2025-12-05T12:08:33Z
   Total Products: 22
 - [Anolon](https://everydayhome.co.nz/collections/anolon)
-  Updated: 2025-12-05T01:44:27Z
+  Updated: 2025-12-06T12:09:25Z
   Total Products: 42
 - [Circulon](https://everydayhome.co.nz/collections/circulon)
   Updated: 2025-12-05T01:43:45Z
@@ -4783,10 +4783,10 @@
   Updated: 2025-12-05T12:08:33Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-12-05T12:08:33Z
+  Updated: 2025-12-06T12:09:25Z
   Total Products: 1066
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-12-05T12:08:33Z
+  Updated: 2025-12-06T12:09:25Z
   Total Products: 882
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-12-05T01:46:24Z
@@ -4813,13 +4813,13 @@
   Updated: 2025-12-05T12:08:33Z
   Total Products: 4
 - [Gifting](https://everydayhome.co.nz/collections/gifting)
-  Updated: 2025-12-05T12:08:33Z
+  Updated: 2025-12-06T12:09:25Z
   Total Products: 124
 - [All Products Excl. Swiftdry & Aromatherapy Co.](https://everydayhome.co.nz/collections/all-products-exclu-swiftdry-aromatherapy-co)
-  Updated: 2025-12-05T12:08:33Z
+  Updated: 2025-12-06T12:09:25Z
   Total Products: 920
 - [Umbra Rodeo & Tipsy Buddy](https://everydayhome.co.nz/collections/umbra-rodeo-tipsy-buddy): For the host with the most. These aren't your average bottle openers - they balance, they entertain, and they kicks off cocktail hour with a whole lot of charm.
-  Updated: 2025-12-05T01:39:06Z
+  Updated: 2025-12-06T12:09:25Z
   Total Products: 2
 - [Dachsie & Ali Cat](https://everydayhome.co.nz/collections/dachsie-ali-cat)
   Updated: 2025-12-05T01:39:43Z
