@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-07T16:00:38.239Z
+- Updated At: 2025-12-07T20:00:37.412Z
 
 ## Products
 
@@ -1447,7 +1447,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/srf-dry-changing-mat-srf-dry-waterproof-beach-changing-mat-drawstring-bag-1183719270.png?v=1757242688
   Price: £13.95 GBP
 - [SRF DRY Towel Surf Dry Changing Robe | Surf, Swim & Triathlon Hooded Poncho](https://thevinessupply.co/products/srf-dry-towel-surf-dry-changing-robe-surf-swim-triathlon-hooded-poncho): The SRFDRY towel robe was designed by watersports enthusiasts to allow anyone to get changed in comfort and privacy, regardless of your chosen sport. The soft feel Terry-Towel changing robe has plenty of space to comfortably change inside, while keeping you covered and protecting you from the elements. Stay warm and get dry when changing outside. With its mid-length sleeve design and exclusive 'waist-entry pockets', you have the freedom of both hands to easily get into and remove your clothing and wet sports kit. Features: Ideal for changing in public, suitable for all sports and outdoor changing in spring, summer and early autumn 350gsm towelling Super absorbent and quick drying after surfing, swimming or other water sports Thick 700g weight to keep you warm 'Waist-entry pockets' for access to trouser/short fastenings, allowing easy undoing without the need to pull up the robe from the hem Embroidered SRFDRY logo on middle chest Washable Great Value Dryrobe alternative Sizing: Medium - 96cm (L) x 60cm (W): Recommended for anyone 5'3" to 5'11" Large - 110cm (L) x 75cm (W): Recommended for anyone 5'7" to 6'3" (Male model is 6'1" - Female model is 5'11")
-  Updated: 2025-11-30T19:40:11Z
+  Updated: 2025-12-07T18:41:26Z
   Vendor: SRF DRY
   Product Type: Changing Robe
   Availability: Available
@@ -2436,18 +2436,6 @@
   - [Large](https://thevinessupply.co/products/stance-smashed-crew-socks-black?variant=54535437517135)
     Availability: Available
     Price: £7.95 GBP
-- [Stance Sublime Crew Socks | Canvas](https://thevinessupply.co/products/stance-sublime-crew-socks-canvas): Buy Stance Sublime Crew Socks in canvas at The Vines. Shop skate socks in our online skateboard shop with fast, free delivery available on all Stance Socks.
-  Updated: 2025-11-27T17:57:22Z
-  Vendor: Stance
-  Product Type: Socks
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/stance-socks-stance-sublime-crew-socks-canvas-1183715955.png?v=1757187245
-  - [Medium](https://thevinessupply.co/products/stance-sublime-crew-socks-canvas?variant=54535465697615)
-    Availability: Not Available
-    Price: £9.95 GBP
-  - [Large](https://thevinessupply.co/products/stance-sublime-crew-socks-canvas?variant=54535465730383)
-    Availability: Available
-    Price: £9.95 GBP
 - [Butter Goods Arrangement T-Shirt | Black](https://thevinessupply.co/products/butter-goods-arrangement-t-shirt-black): Buy the Butter Goods Arrangement T-Shirt in Black. With free next day delivery available and easy returns at www.thevinessupply.co
   Updated: 2025-11-15T14:33:47Z
   Vendor: Butter Goods
@@ -3799,7 +3787,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/palace-skateboards-decks-8-2-palace-skateboards-jahmir-pro-s40-skateboard-deck-8-2-1191566686.png?v=1757446819
   Price: £64.95 GBP
 - [New Balance Numeric 480 NM480PRO Skate Shoes | Navy & White](https://thevinessupply.co/products/new-balance-numeric-480-nm480pro-skate-shoes-navy-white): Buy the New Balance Numeric 480 Skate Shoes in Navy & White at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-11-28T08:12:23Z
+  Updated: 2025-12-07T18:01:34Z
   Vendor: New Balance Numeric
   Product Type: Shoes
   Availability: Available
@@ -3862,7 +3850,7 @@
     Availability: Available
     Price: £79.95 GBP
 - [New Balance Numeric 508 NM508ICY Brandon Westgate Skate Shoes | Grey & Navy](https://thevinessupply.co/products/new-balance-numeric-508-nm508icy-brandon-westgate-skate-shoes-grey-navy): Buy the New Balance Numeric 508 NM508ICY Brandon Westgate Skate Shoes in Grey & Navy at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-04T12:02:34Z
+  Updated: 2025-12-07T19:32:30Z
   Vendor: New Balance Numeric
   Product Type: Shoes
   Availability: Available
@@ -3883,7 +3871,7 @@
     Availability: Not Available
     Price: £71.95 GBP
   - [UK 10](https://thevinessupply.co/products/new-balance-numeric-508-nm508icy-brandon-westgate-skate-shoes-grey-navy?variant=55838362075471)
-    Availability: Available
+    Availability: Not Available
     Price: £71.95 GBP
   - [UK 10.5](https://thevinessupply.co/products/new-balance-numeric-508-nm508icy-brandon-westgate-skate-shoes-grey-navy?variant=55838492197199)
     Availability: Not Available
@@ -6643,7 +6631,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/creature-completes-8-creature-logo-outline-stumps-complete-skateboard-kit-8-1207772358.jpg?v=1763653572
   Price: £74.95 GBP
 - [Palmah NZ Pulp Fiction T-Shirt | Charcoal](https://thevinessupply.co/products/palmah-nz-portrait-t-shirt-charcoal): Buy the Palmah NZ Pulp Fiction T-Shirt in Charcoal at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-07T14:11:56Z
+  Updated: 2025-12-07T17:04:16Z
   Vendor: Palmah NZ
   Product Type: Tees
   Availability: Available
@@ -6655,7 +6643,7 @@
     Availability: Available
     Price: £34.95 GBP
   - [Extra Large](https://thevinessupply.co/products/palmah-nz-portrait-t-shirt-charcoal?variant=56477104177487)
-    Availability: Available
+    Availability: Not Available
     Price: £34.95 GBP
 - [Palmah NZ Barbed Ballet Hoodie | Charcoal Grey](https://thevinessupply.co/products/palmah-barbed-ballet-hoodie-barbed-charcoal): Buy the Palmah NZ Barbed Ballet Hoodie in Charcoal Grey at The Vines, with fast, premium delivery & easy returns within 90 days
   Updated: 2025-12-07T14:11:56Z
@@ -7419,8 +7407,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-07T13:54:43Z
-  Total Products: 3228
+  Updated: 2025-12-07T19:34:22Z
+  Total Products: 3227
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-07T12:20:48Z
   Total Products: 110
@@ -7467,8 +7455,8 @@
   Updated: 2025-12-07T12:20:48Z
   Total Products: 25
 - [UK 10 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-10-skate-shoes): Shop our curated selection of Skate Shoes. We stock premium pairs of both cupsole and vulcanised skate shoes. Whether looking for suede, leather or canvas skate shoes, find a pair to meet the concrete. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2025-12-07T12:20:48Z
-  Total Products: 15
+  Updated: 2025-12-07T19:33:00Z
+  Total Products: 14
 - [UK 11 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-11-skate-shoes): Shop our curated selection of Skate Shoes at The Vines. We stock premium pairs of both cupsole and vulcanised skate shoes. Whether looking for suede, leather or canvas skate shoes, find a pair to meet the concrete. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
   Updated: 2025-12-07T12:20:48Z
   Total Products: 13
