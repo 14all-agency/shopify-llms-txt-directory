@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-04-13T04:01:57Z
 - Contact Email: info.modetrend@gmail.com
-- Updated At: 2025-12-06T00:00:24.660Z
+- Updated At: 2025-12-07T00:00:23.555Z
 
 ## Products
 
@@ -3094,13 +3094,13 @@
 ## Collections
 
 - [Kleidungsstücke für jeden Anlass – APPPlaza Bestseller Trendmode](https://www.modetrend.org/collections/kleidungsstucke-fur-jeden-anlass): Entdecken Sie die APPPlaza-Kollektion: Kleidungsstücke für jeden Anlass. Von Bestseller-Trendmode bis zu zeitlosen Klassikern – finden Sie die perfekte Garderobe für jede Gelegenheit!
-  Updated: 2025-12-04T19:15:36Z
-  Total Products: 53
+  Updated: 2025-12-06T00:23:46Z
+  Total Products: 57
 - [Einkauf - FreeWave Fashion](https://www.modetrend.org/collections/einkauf): - FreeWave Fashion
   Updated: 2025-06-18T04:42:38Z
   Total Products: 0
-- [Hemden](https://www.modetrend.org/collections/hemden): Modetrend
-  Updated: 2025-11-12T03:31:28Z
+- [Leder Kollektion (Hosen, Kleider, Jacken)](https://www.modetrend.org/collections/hemden): Modetrend
+  Updated: 2025-12-06T09:20:09Z
   Total Products: 5
 - [Watches - FreeWave Fashion](https://www.modetrend.org/collections/watches): - FreeWave Fashion
   Updated: 2025-10-30T12:17:03Z
@@ -3108,17 +3108,17 @@
 - [Cap - FreeWave Fashion](https://www.modetrend.org/collections/cap): - FreeWave Fashion
   Updated: 2025-10-17T22:01:13Z
   Total Products: 6
-- [schuhe](https://www.modetrend.org/collections/schuhe)
-  Updated: 2025-10-17T22:01:13Z
+- [Chunky Sneakers & Futuristische Schuhe](https://www.modetrend.org/collections/schuhe)
+  Updated: 2025-12-06T09:19:01Z
   Total Products: 6
-- [Damenkleid&Kapuzenpullover](https://www.modetrend.org/collections/vervevoll)
-  Updated: 2025-12-05T15:17:12Z
+- [Quiet Streetwear](https://www.modetrend.org/collections/vervevoll)
+  Updated: 2025-12-06T17:19:02Z
   Total Products: 10
 - [Glanzsicht](https://www.modetrend.org/collections/glanzsicht)
   Updated: 2025-12-01T00:13:00Z
   Total Products: 5
-- [Traumtritt](https://www.modetrend.org/collections/traumtritt)
-  Updated: 2025-11-30T06:22:44Z
+- [Schwarz & Rot Looks](https://www.modetrend.org/collections/traumtritt)
+  Updated: 2025-12-06T09:21:54Z
   Total Products: 4
 - [Zeitglanz](https://www.modetrend.org/collections/zeitglanz)
   Updated: 2025-11-23T22:36:05Z
@@ -3126,6 +3126,9 @@
 - [Sommerhemden & Sweatshirts für Herren & Damen | Modetrend](https://www.modetrend.org/collections/sommerhemden-sweatshirts): Entdecken Sie atmungsaktive Sommerhemden, knitterfreie Freizeithemden & stylische Sweatshirts. Perfekt für Urlaub, Freizeit & Sommer. Jetzt bei Modetrend!
   Updated: 2025-11-30T07:10:01Z
   Total Products: 8
+- [Animals And Pet Supplies example products](https://www.modetrend.org/collections/animals-and-pet-supplies-example-products)
+  Updated: 2025-12-06T00:23:16Z
+  Total Products: 4
 
 ## Store Pages
 
@@ -3155,7 +3158,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.modetrend.org/policies/privacy-policy)
-  Updated: 2025-12-05T18:28:08+01:00
+  Updated: 2025-12-06T05:00:25+01:00
 - [Shipping Policy](https://www.modetrend.org/policies/shipping-policy)
   Updated: 2025-07-08T01:42:42+02:00
 - [Refund Policy](https://www.modetrend.org/policies/refund-policy)
