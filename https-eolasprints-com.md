@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-12-06T00:00:38.635Z
+- Updated At: 2025-12-07T00:00:38.730Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -899,7 +899,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-matte-filament-bright-yellow-vase-1-75-mm-1-kg-484.webp?v=1724968476
     Price: €25.50 EUR
 - [3d Printer Filament Sample Pack with Pla Abs Petg](https://eolasprints.com/products/sample-3d-printer-filaments): Eolas Prints filament sample packs contain PLA filament, PETG, TPU, and ABS. This assortment is for testing new materials. Includes carbon-neutral shipping.
-  Updated: 2025-11-10T20:23:51Z
+  Updated: 2025-12-06T11:35:55Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1364,7 +1364,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-m1-ultra-the-worlds-first-4-in-1-craft-machine-laser-395.webp?v=1739443953
     Price: €3,499.00 EUR
 - [Bambu Lab P1s with Chamber Camera and Direct Drive](https://eolasprints.com/products/bambu-lab-p1s-combo): The Bambu Lab P1S Combo at Eolas Prints offers an extruder direct drive, chamber monitoring camera, and AMS for high-quality, multi-material 3D printing.
-  Updated: 2025-11-29T22:40:07Z
+  Updated: 2025-12-06T13:18:17Z
   Vendor: Bambu Lab
   Product Type: 3D Printer
   Availability: Available
@@ -1712,23 +1712,41 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/prusa-pro-slx-msla-3d-printer-industrial-resin-black-617.webp?v=1763930175
   Price: €30,999.00 EUR
 - [Prusa Uss Drybox Protects Filament from Humid Air](https://eolasprints.com/products/prusa-uss-drybox): The Prusa USS Drybox from Eolas Prints is an airtight filament storage solution. Its unique central opening mounts on spool holders and minimizes internal humid air.
-  Updated: 2025-12-02T10:18:38Z
+  Updated: 2025-12-06T01:06:50Z
   Vendor: Prusa Research
   Product Type: 3D Printer Accessories
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/prusa-uss-drybox-filament-spool-186.webp?v=1764627996
   Price: €39.99 EUR
+- [Xtool F2 Portable Laser Engraver 5w Ir 15w Diode](https://eolasprints.com/products/xtool-f2-5w-ir-15w-diode-portable-dual-laser-engraver): The xTool F2 portable dual laser engraver from Eolas Prints features a 5W IR and 15W diode laser for precise engraving on a wide range of materials.
+  Updated: 2025-12-06T23:56:09Z
+  Vendor: xTOOL
+  Product Type: Laser Engravers and Cutters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-f2-5w-ir-15w-diode-portable-dual-laser-engraver-orange-462.webp?v=1765061915
+  - [Standalone](https://eolasprints.com/products/xtool-f2-5w-ir-15w-diode-portable-dual-laser-engraver?variant=52907852398919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-f2-5w-ir-15w-diode-portable-dual-laser-engraver-orange-3d-482.webp?v=1765061921
+    Price: €1,549.00 EUR
+  - [Slide Extension Bundle](https://eolasprints.com/products/xtool-f2-5w-ir-15w-diode-portable-dual-laser-engraver?variant=52907852431687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-f2-5w-ir-15w-diode-portable-dual-laser-engraver-orange-962.webp?v=1765061968
+    Price: €1,749.00 EUR
+  - [Deluxe Bundle](https://eolasprints.com/products/xtool-f2-5w-ir-15w-diode-portable-dual-laser-engraver?variant=52907852464455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-f2-5w-ir-15w-diode-portable-dual-laser-engraver-orange-3d-477.webp?v=1765061974
+    Price: €2,449.00 EUR
 
 ## Collections
 
 - [Certified High Speed Pla and Transition Filament](https://eolasprints.com/collections/pla): Eolas Prints PLA provides high quality filaments including multi-colour and high speed PLA. Our materials are ISO certified and REACH compliant for consistent printing.
-  Updated: 2025-12-05T12:15:25Z
+  Updated: 2025-12-06T12:15:43Z
   Total Products: 12
 - [Petg and Transition Filament for 3d Prints](https://eolasprints.com/collections/petg): The Eolas Prints PETG collection offers premium multi-colour and petg transition filament. All materials are ISO and REACH certified for superior quality and safety.
-  Updated: 2025-12-05T12:15:25Z
+  Updated: 2025-12-06T12:15:43Z
   Total Products: 5
 - [Tpu Flex Filament and Tpu Transition Filament](https://eolasprints.com/collections/tpu): Eolas Prints TPU offers premium, multi-colour tpu flex filament for 3D printing. Our materials are ISO and REACH certified for high-quality, reliable results.
-  Updated: 2025-12-05T12:15:25Z
+  Updated: 2025-12-06T12:15:43Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://eolasprints.com/collections/orderlyemails-recommended-products): This collection features recommended products for the OrderlyEmails app. It is automatically updated with our best-selling Eolas Prints for notification emails.
   Updated: 2025-09-28T22:37:41Z
@@ -1746,7 +1764,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-12-01T22:24:38Z
   Total Products: 8
 - [3d Printer Filament Pla Tpu Petg Abs Asa](https://eolasprints.com/collections/3d-printer-filament): Eolas Prints offers a premium collection of certified 3D printer filaments, including our high-performance Eolas Prints PLA, durable PETG, and flexible TPU.
-  Updated: 2025-12-05T12:15:25Z
+  Updated: 2025-12-06T12:15:43Z
   Total Products: 22
 - [New 3d Printing Innovations by Thought3d Magigoo](https://eolasprints.com/collections/new-arrivals): The latest collection at Eolas Prints includes the new Flashforge AD5X Multi-Colour printer and Thought3D products, all certified to ISO and REACH standards.
   Updated: 2025-12-05T12:15:25Z
@@ -1758,8 +1776,8 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-12-05T12:15:25Z
   Total Products: 9
 - [Craft Machines for Home Projects and 3d Printing](https://eolasprints.com/collections/craft-machines): This collection of craft machines from Eolas Prints includes the Flashforge AD5X. ISO quality and environment management download certificates are available.
-  Updated: 2025-10-23T22:29:28Z
-  Total Products: 9
+  Updated: 2025-12-06T23:05:33Z
+  Total Products: 10
 - [3d Printing Equipment and Supplies Online Store](https://eolasprints.com/collections/3d-printers): Eolas Prints offers a professional collection of 3D printers, including the Flashforge AD5X. Our certified machines meet ISO and REACH quality standards.
   Updated: 2025-12-02T12:20:38Z
   Total Products: 20
@@ -1922,7 +1940,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
 - [Professional 3d Printing and Design Service](https://eolasprints.com/pages/3d-printing-service): Our professional printing services transform digital concepts into tangible objects, suitable for everything from detailed prototypes to functional...
   Updated: 2025-10-17T21:27:06Z
 - [Privacy Policy and Targeted Advertising Choices](https://eolasprints.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-11-22T09:04:16Z
+  Updated: 2025-12-06T09:04:03Z
 - [3d Printer Filament Spool Size Guide for Bambu Lab Ams](https://eolasprints.com/pages/size-guide-3d-printer-filament-spool): Our spools are compatible with all major 3D printer brands including Prusa, Bambu Lab (AMS & AMS Lite), Flashforge, and more. The standardised axle...
   Updated: 2025-10-25T01:18:33Z
 - [Eolas Prints Filaments Print Profiles](https://eolasprints.com/pages/print-profiles-for-eolas-prints-filaments): Achieve superior 3D printing results with our custom print profiles, expertly calibrated for Eolas Prints filaments. These profiles are meticulousl...
