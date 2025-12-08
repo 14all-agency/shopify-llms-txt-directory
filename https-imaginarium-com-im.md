@@ -10,7 +10,7 @@ Jigsaw puzzles and more  fascinating journals coming soon because extraordinary 
 - Timezone: Australia/Adelaide
 - Created At: 2025-07-30T03:40:26Z
 - Contact Email: imagineyourjournals@gmail.com
-- Updated At: 2025-12-07T00:00:40.837Z
+- Updated At: 2025-12-08T00:00:40.202Z
 
 Imaginarium blends imagination with the page, creating journals that celebrate what makes life worth pondering. 
 
@@ -965,6 +965,10 @@ For literature devotees, spiritual seekers, astrology enthusiasts, and anyone wh
   Updated: 2025-11-23T06:07:47Z
 - [The Benefits and Effects of Journaling](https://imaginarium.com.im/pages/the-benefits-and-effects-of-journaling): A Practice as Old as Writing Itself _ Some History First_Foundations of Journaling Journaling traces back thousands of years, evolving from ancient...
   Updated: 2025-12-05T02:39:33Z
+- [Journaling Statistics](https://imaginarium.com.im/pages/journaling-statistics): **Emotional Resilience & Mental Clarity** - Improved mood: 65% of daily journalers - Reduced anxiety symptoms: 20% - Enhanced self-awareness: 80% o...
+  Updated: 2025-12-07T08:14:09Z
+- [About Journaling](https://imaginarium.com.im/pages/about-journaling): An Intro to Journaling History, About Journaling Journaling traces back thousands of years, evolving from ancient philosophical reflections to mode...
+  Updated: 2025-12-07T07:58:05Z
 
 ## Policies
 
