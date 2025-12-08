@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-12-07T00:20:57.340Z
+- Updated At: 2025-12-08T00:00:38.919Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -95,7 +95,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-ingeo-870-filament-white-football-helmet-1-75-mm-1-kg-372.webp?v=1725009998
     Price: €30.50 EUR
 - [Pla Filament 1.75 Mm for Food Contact Applications](https://eolasprints.com/products/pla-filament-1-75-mm): Eolas Prints PLA filament in 1.75mm diameter offers premium quality in over 20 colors. A versatile material for 3D printing, suitable for food contact items.
-  Updated: 2025-12-05T09:40:03Z
+  Updated: 2025-12-07T11:34:01Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1719,7 +1719,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/prusa-uss-drybox-filament-spool-186.webp?v=1764627996
   Price: €39.99 EUR
 - [Xtool F2 Portable Laser Engraver 5w Ir 15w Diode](https://eolasprints.com/products/xtool-f2-5w-ir-15w-diode-portable-dual-laser-engraver): The xTool F2 portable dual laser engraver from Eolas Prints features a 5W IR and 15W diode laser for precise engraving on a wide range of materials.
-  Updated: 2025-12-06T23:56:09Z
+  Updated: 2025-12-07T10:48:25Z
   Vendor: xTOOL
   Product Type: Laser Engravers and Cutters
   Availability: Available
@@ -1740,7 +1740,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
 ## Collections
 
 - [Certified High Speed Pla and Transition Filament](https://eolasprints.com/collections/pla): Eolas Prints PLA provides high quality filaments including multi-colour and high speed PLA. Our materials are ISO certified and REACH compliant for consistent printing.
-  Updated: 2025-12-06T12:15:43Z
+  Updated: 2025-12-07T12:14:47Z
   Total Products: 12
 - [Petg and Transition Filament for 3d Prints](https://eolasprints.com/collections/petg): The Eolas Prints PETG collection offers premium multi-colour and petg transition filament. All materials are ISO and REACH certified for superior quality and safety.
   Updated: 2025-12-06T12:15:43Z
@@ -1764,7 +1764,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-12-01T22:24:38Z
   Total Products: 8
 - [3d Printer Filament Pla Tpu Petg Abs Asa](https://eolasprints.com/collections/3d-printer-filament): Eolas Prints offers a premium collection of certified 3D printer filaments, including our high-performance Eolas Prints PLA, durable PETG, and flexible TPU.
-  Updated: 2025-12-06T12:15:43Z
+  Updated: 2025-12-07T12:14:47Z
   Total Products: 22
 - [New 3d Printing Innovations by Thought3d Magigoo](https://eolasprints.com/collections/new-arrivals): The latest collection at Eolas Prints includes the new Flashforge AD5X Multi-Colour printer and Thought3D products, all certified to ISO and REACH standards.
   Updated: 2025-12-05T12:15:25Z
@@ -1773,7 +1773,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-11-29T12:24:39Z
   Total Products: 1
 - [Codigo Escuela 4.0: 3d Printing in Education](https://eolasprints.com/collections/codigo-escuela-4-0): The Codigo Escuela 4.0 collection from Eolas Prints provides 3D printers like Bambu Lab for modern education and digital literacy in Spain.
-  Updated: 2025-12-05T12:15:25Z
+  Updated: 2025-12-07T12:14:47Z
   Total Products: 9
 - [Craft Machines for Home Projects and 3d Printing](https://eolasprints.com/collections/craft-machines): This collection of craft machines from Eolas Prints includes the Flashforge AD5X. ISO quality and environment management download certificates are available.
   Updated: 2025-12-06T23:05:33Z
