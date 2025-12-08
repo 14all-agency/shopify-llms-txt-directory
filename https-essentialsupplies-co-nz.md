@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-12-07T00:00:49.222Z
+- Updated At: 2025-12-08T00:00:48.531Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/abrasive-cream-cleanser-white-5l-refill-bottle-heavy-duty-surface-care-essential-supplies-721118.jpg?v=1719444967
   Price: $110.00 NZD
 - [POR Compostable Bin Liner 18L - White, 450mm x 500mm x 15mu - 1500 Bags](https://essentialsupplies.co.nz/products/por-compostable-bin-liner-18l-white-450mm-x-500mm-x-15mu-1500): Annually renewable resource.Compostable bin liners are made from organic plant materials. They break down swiftly in a home or commercial compost environment in about the same time as a dry leaf. They offer the most practical and environmentally-friendly solution.Making bags from corn instead of petroleum by-products is a major advance in environmental technology. Corn is an annually renewable resource, which unlike trees, is grown and harvested in a single season. Capacity: 18 Litres 450mm x 500mm x 15mu50 bags per roll Pack of: 1500 bags
-  Updated: 2025-01-08T17:51:15Z
+  Updated: 2025-12-07T01:10:37Z
   Vendor: Mattews Packaging
   Product Type: Compostable Bin Liners
   Availability: Available
@@ -2601,7 +2601,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fp-recycled-bin-liner-60l-blue-650mm-x-900mm-x-30mu-450-pack-rubbish-bin-liners-essential-supplies-468512.jpg?v=1719445082
   Price: $131.00 NZD
 - [FP Recycled Bin Liner 60L - Clear, 650mm x 900mm x 30mu - 450 Pack](https://essentialsupplies.co.nz/products/fp-recycled-bin-liner-60l-clear-650mm-x-900mm-x-30mu-450): Recycled rubbish bin liners combine puncture strength and versatility to provide reliable, economical protection against leaking and odours.These bags are produced from post consumer plastic, which is then recycled and made into new bags. Recycled bin liners are the most cost effective as they reduce environmental impact, save energy and preserve natural. Tough, strong recycled bags Colour: Clear Size: 60 Litres 650mm x 900mm x 30mu Pack of: 450
-  Updated: 2025-01-09T15:13:44Z
+  Updated: 2025-12-07T09:48:37Z
   Vendor: Mattews Packaging
   Product Type: Rubbish Bin Liners
   Availability: Available
@@ -4419,7 +4419,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/looped-microfibre-mop-head-green-25mm-x-400g-330mm-mops-essential-supplies-936150.jpg?v=1719445329
   Price: $25.00 NZD
 - [Looped Microfibre Mop Head - Red, 25mm x 400g / 330mm](https://essentialsupplies.co.nz/products/looped-microfibre-mop-head-red-25mm-x-400g-330mm-12): Microfibre socket mops constructed of looped microfibre yarn to minimise tangling and linting. With a round skirt shape for maximum floor coverage and screw on handle attachment for easy replacement. Available in a range of colours to avoid cross contamination across workspace areas.
-  Updated: 2025-01-20T07:33:24Z
+  Updated: 2025-12-07T02:34:54Z
   Vendor: Mattews Packaging
   Product Type: Mops
   Availability: Available
@@ -7441,7 +7441,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/metal-stretch-film-dispenser-silver-fits-300mm-500mm-rolls-1-dispenser-stretch-film-dispensers-essential-supplies-302193.jpg?v=1719445408
   Price: $173.00 NZD
 - [Bolt Stretch Film Dispenser - Silver, Fits: Bolt Prestretch Rolls - 1 Dispenser - *Use With MPH8005 / MPH8015](https://essentialsupplies.co.nz/products/bolt-stretch-film-dispenser-silver-fits-bolt-prestretch-rolls-1-use-with-mph8005-mph8015)
-  Updated: 2025-01-09T10:07:10Z
+  Updated: 2025-12-07T12:03:50Z
   Vendor: Mattews Packaging
   Product Type: Hand Stretch Film
   Availability: Available
