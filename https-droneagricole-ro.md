@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2024-10-10T13:12:01Z
 - Contact Email: contact@droneagricole.ro
-- Updated At: 2025-12-07T00:00:29.705Z
+- Updated At: 2025-12-08T00:00:34.388Z
 
 ## Products
 
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/MID_65061_3cad1449-a875-48c4-865f-3357bf208822.png?v=1733140654
   Price: 266,20 lei RON
 - [Suport DJI Relay (trepied)](https://droneagricole.ro/products/suport-dji-relay-trepied-cp-ag-00000789-02): Trepied DJI Relay este un accesoriu stabil și ușor de utilizat, conceput pentru a susține dispozitivul DJI Relay. Ideal pentru utilizare pe terenuri variate, trepiedul este ușor de transportat și reglat, garantând o poziționare corectă a DJI Relay pentru o conexiune fiabilă.
-  Updated: 2025-10-01T12:08:01Z
+  Updated: 2025-12-07T00:59:35Z
   Vendor: DJI Agriculture
   Product Type: Drona Agricola Pulverizare
   Availability: Available
@@ -1131,7 +1131,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/PPD_-_16.png?v=1734605136
   Price: 7.405,00 lei RON
 - [Training Manual operational & Analiza de risc](https://droneagricole.ro/products/training-manual-operational-analiza-de-risc): Nu doar vindem drone de înaltă performanță, ci oferim și servicii esențiale de suport pentru utilizatorii care doresc să obțină autorizația de zbor în categoria specifică. Înțelegem cât de complex și consumator de timp poate fi procesul de conformare cu cerințele legale și suntem aici să vă simplificăm parcursul. Nu lăsați formalitățile să devină o barieră. Contactați-ne și beneficiați de un suport profesionist pentru înregistrarea și autorizarea dronei dvs. în categoria specifică.
-  Updated: 2025-08-26T06:51:02Z
+  Updated: 2025-12-07T11:40:26Z
   Vendor: Drone Agricole Riagro
   Product Type: 
   Availability: Available
