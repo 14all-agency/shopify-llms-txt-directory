@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-10-22T16:52:50Z
 - Contact Email: vicky2more@gmail.com
-- Updated At: 2025-12-07T00:00:51.955Z
+- Updated At: 2025-12-08T00:00:52.928Z
 
 ## Products
 
@@ -29091,7 +29091,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_45_a089c5a4-2a9e-4a1c-839b-f28cf55ed25a.jpg?v=1764245637
     Price: ₹550.00 INR
 - [Unisex Basic T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-70): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-28T00:16:47Z
+  Updated: 2025-12-07T15:32:42Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -31589,7 +31589,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_2_3014c011-8f96-418c-bb00-ec6841dd0949.jpg?v=1764245138
     Price: ₹599.00 INR
 - [t-shirt with a blue and black stylized dragon head graphic.](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-71): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-28T00:04:16Z
+  Updated: 2025-12-07T15:33:56Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -31795,7 +31795,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_39_52ebf8b7-16ce-48b2-b49d-7d5ab16aa186.jpg?v=1764244991
     Price: ₹499.00 INR
 - [Urban Wildlife/Hip-Hop Culture Oversized Tee](https://vivaenterprises11.myshopify.com/products/unisex-terry-oversized-tee): Fabric: 90/10 cotton polyester, 260 GSM Terry-knit texture with a premium hand-feel.Fit: Unisex oversized fit with drop shoulders – relaxed, roomy, and right on trend.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-11-28T00:13:47Z
+  Updated: 2025-12-07T15:09:03Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -42657,7 +42657,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_48_5c0d4197-8f9d-42f6-aa57-4253781840f1.jpg?v=1765021401
     Price: ₹449.00 INR
 - [Kerala Backwaters Houseboat T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-classic-crew-t-shirt-77): Fabric: 100% cotton with 180 GSM for lightweight comfort.Fit: Perfect unisex regular fit – your go-to everyday tee.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-12-06T23:42:51Z
+  Updated: 2025-12-07T15:22:16Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
@@ -44510,8 +44510,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/7660/1397/files/Front_1_c_64_c0ef0f95-59af-4fae-97c0-f58e972d82e0.jpg?v=1765021843
     Price: ₹399.00 INR
-- [Unisex Basic T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-103): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
-  Updated: 2025-12-06T23:50:01Z
+- [Sikh Gentleman Graphic T-Shirt](https://vivaenterprises11.myshopify.com/products/unisex-basic-t-shirt-103): Fabric: Poly-cotton blend, 180 GSM – lightweight, breathable, and silicon-washed for an ultra-soft, smooth finish.Fit: Unisex fit – relaxed, easy, and made to suit every body type.Style: Clean and minimal – the go-to tee for everyday comfort and effortless layering.Care: Wash inside-out in cold water, dry on low heat. Flip it inside out before ironing.
+  Updated: 2025-12-07T22:47:31Z
   Vendor: VIVA ENTERPRISES 
   Product Type: 
   Availability: Available
