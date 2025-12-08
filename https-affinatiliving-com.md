@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-07T20:00:34.898Z
+- Updated At: 2025-12-08T00:00:50.966Z
 
 ## Products
 
@@ -6121,7 +6121,7 @@
   Availability: Not Available
   Price: $0.00 USD
 - [12x12x6 Packing Boxes](https://affinatiliving.com/products/12x12x6-white-packing-boxes)
-  Updated: 2025-12-05T02:07:35Z
+  Updated: 2025-12-07T20:54:10Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6133,13 +6133,13 @@
   Availability: Available
   Price: $0.00 USD
 - [20x12x12 ECT 48 Packing Boxes](https://affinatiliving.com/products/20x12x12-ect-48-packing-boxes)
-  Updated: 2025-11-24T01:08:38Z
+  Updated: 2025-12-07T20:54:25Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [18x18x8 Packing Boxes](https://affinatiliving.com/products/18x18x8-packing-boxes)
-  Updated: 2025-12-05T02:07:20Z
+  Updated: 2025-12-07T20:54:20Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
