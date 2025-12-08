@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-12-04T00:00:34.900Z
+- Updated At: 2025-12-08T00:00:34.966Z
 
 ## Products
 
@@ -355,7 +355,7 @@
     Availability: Available
     Price: 9,00 € EUR
 - [Portachiavi in alluminio personalizzabile](https://www.amashopstudio.it/products/portachiavi-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Colore —. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:18Z
+  Updated: 2025-12-05T04:38:31Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -650,7 +650,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/bavaglinoorsettojpg.jpg?v=1738708855
   Price: 6,00 € EUR
 - [Bavaglino celeste''Personalizzalo come vuoi ''](https://www.amashopstudio.it/products/bavaglino-celesteorsetto-personalizzabile-con-dedica-vuoi-essere-la-mia-madrina-copia): CREA IL BAVAGLINO inserisci nomi,date,dediche Bavaglino in poliestere dal bordino colorato celeste . Puoi personalizzarlo aggiungendo le scritte in base alle tue esigenze .
-  Updated: 2025-09-17T14:59:22Z
+  Updated: 2025-12-06T02:09:37Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -773,7 +773,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/ripigliati.jpg?v=1738883894
   Price: 8,00 € EUR
 - [Shopper  in canvas ''L' eleganza'' personalizzabile con nome](https://www.amashopstudio.it/products/shopper-in-canvas-l-eleganza-personalizzabile-con-nome): La nostra shopper è stata pensata per fare la spesa o per portare con se i propri valori di uso quotidiano. Grazie al manico lungo è ottimale per ogni tipo di utilizzo! Personalizzala con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care!
-  Updated: 2025-09-17T14:59:24Z
+  Updated: 2025-12-04T12:33:51Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1289,7 +1289,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/casetta.jpg?v=1742503399
   Price: 5,00 € EUR
 - [Portachiavi 'spotify ' personalizzabile con foto e titolo canzone](https://www.amashopstudio.it/products/portachiavi-spotify-personalizzabile-con-foto-e-titolo-canzone): Portachivi Spotify Interattivo Personalizzabile Rendi omaggio alla tua musica preferita con il portachivi Spotify interattivo personalizzabile! Questo elegante supporto non è solo un accessorio, ma un modo innovativo per celebrare i tuoi brani del cuore. Caratteristiche: Interattivo: Scansiona il codice per ascoltare la canzone direttamente su Spotify. Personalizzazione: Aggiungi una foto e un testo della tua canzone preferita, rendendo ogni pezzo unico. Design Elegante: Realizzato con materiali di alta qualità, si adatta perfettamente a qualsiasi ambiente. Regalo Ideale: Perfetto per compleanni, anniversari o per sorprendere un amico amante della musica. Cattura i ricordi musicali in modo originale e creativo con il portachiavi Spotify interattivo!
-  Updated: 2025-11-29T18:10:20Z
+  Updated: 2025-12-05T10:24:31Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -3160,7 +3160,7 @@
   Updated: 2025-09-17T14:59:12Z
   Total Products: 2
 - [Ultimi arrivi](https://www.amashopstudio.it/collections/ultimi-arrivi)
-  Updated: 2025-11-30T12:30:58Z
+  Updated: 2025-12-05T12:23:56Z
   Total Products: 147
 - [Tote bag](https://www.amashopstudio.it/collections/tote-bag)
   Updated: 2025-09-17T14:59:12Z
@@ -3169,7 +3169,7 @@
   Updated: 2025-09-17T14:59:12Z
   Total Products: 6
 - [Portachiavi](https://www.amashopstudio.it/collections/portachiavi)
-  Updated: 2025-11-30T12:30:58Z
+  Updated: 2025-12-05T12:23:56Z
   Total Products: 8
 - [T-shirt](https://www.amashopstudio.it/collections/t-shirt)
   Updated: 2025-09-17T14:59:12Z
