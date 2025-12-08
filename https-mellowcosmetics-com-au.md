@@ -9,7 +9,7 @@
 - Created At: 2017-12-20T22:59:48Z
 - Contact Email: info@mellowcosmetics.com
 - Address: 18/71 Jijaws Street Sumner, QLD, Australia 4074
-- Updated At: 2025-12-07T00:00:38.082Z
+- Updated At: 2025-12-08T00:00:38.400Z
 
 ## Products
 
@@ -252,7 +252,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/NudePurpleLip.jpg?v=1736600812
   Price: $24.00 AUD
 - [Creamy Matte Lipstick - Passion](https://mellowcosmetics.com.au/products/creamy-matte-lipstick-passion): Mellow Matte Lipsticks are highly pigmented, richly formulated and long-wearing. The formula glides on smoothly, leaving a velvety-smooth, moisturising finish. Our products are Cruelty Free, Paraben Free and Vegan!
-  Updated: 2025-12-04T10:11:12Z
+  Updated: 2025-12-07T07:52:42Z
   Vendor: Mellow Cosmetics
   Product Type: Lipstick
   Availability: Available
@@ -294,14 +294,14 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/lip_pencil_jade_swatch_1f03192e-babf-47ef-8e19-e184d147ba53.png?v=1547701481
   Price: $19.00 AUD
 - [Gel Lip Pencil - Maya](https://mellowcosmetics.com.au/products/gel-lip-pencil-maya): Our gel formulated lip liner glides on fluidly and adheres instantly with a matte finish. Define your lips with an instant release of rich, saturated colour. Long wearing and transfer proof! Cruelty free, paraben free and vegan! The lip liner sharpens easily in most standard sized sharpeners - just make sure your sharpener is not dull. Mellow Gel Lip Pencil can be worn alone or layered with your favourite Mellow Cosmetics Liquid Lip Paint, Creamy Matte Lipstick, or Lip Gloss.
-  Updated: 2025-11-28T18:56:26Z
+  Updated: 2025-12-07T08:01:22Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Pencil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2660/5960/files/MayaLipPencilNew.jpg?v=1711615770
   Price: $19.00 AUD
 - [Gel Lip Pencil - Rose](https://mellowcosmetics.com.au/products/gel-lip-pencil-rose): Our gel formulated lip liner glides on fluidly and adheres instantly with a matte finish. Define your lips with an instant release of rich, saturated colour. Long wearing and transfer proof! Cruelty free, paraben free and vegan! The lip liner sharpens easily in most standard sized sharpeners - just make sure your sharpener is not dull. Mellow Gel Lip Pencil can be worn alone or layered with your favourite Mellow Cosmetics Liquid Lip Paint, Creamy Matte Lipstick, or Lip Gloss.
-  Updated: 2025-12-05T22:01:48Z
+  Updated: 2025-12-07T08:01:22Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Pencil
   Availability: Available
@@ -343,7 +343,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/London-600x600_c877d326-bb3e-4df8-afcf-e93ea8466060.jpg?v=1745042971
   Price: $24.00 AUD
 - [Liquid Lip Paint - Milan](https://mellowcosmetics.com.au/products/liquid-lip-paint-milan): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-06T00:17:37Z
+  Updated: 2025-12-07T08:01:22Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
@@ -357,7 +357,7 @@
   Image: https://cdn.shopify.com/s/files/1/2660/5960/products/New-York-Lip-600x600_31f2e920-a56c-4afb-acb1-88c7908a677a.jpg?v=1569421655
   Price: $24.00 AUD
 - [Liquid Lip Paint - Paris](https://mellowcosmetics.com.au/products/liquid-lip-paint-paris): Mellow's ultra smooth liquid lip paint will give your lips a velvet matte and high pigmented finish. Benefits: · Long wearing · Vitamin E infused – Hydrating · None drying light finish · Creamy formula · Vegan, Paraben free & Cruelty free Tips before use: exfoliate then apply to your lips! avoid food with oil and when you need to wipe off the Lip Paint you need to use an oil based makeup remover or a Lip Balm.
-  Updated: 2025-12-02T12:23:05Z
+  Updated: 2025-12-07T23:59:44Z
   Vendor: Mellow Cosmetics
   Product Type: Lip Paint
   Availability: Available
