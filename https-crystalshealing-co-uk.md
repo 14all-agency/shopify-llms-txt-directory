@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-12-07T00:00:25.875Z
+- Updated At: 2025-12-08T00:00:26.951Z
 
 # Crystals Healing UK – LLMS Overview
 
@@ -2460,7 +2460,7 @@ Crystals and crystal jewellery are spiritual and wellness tools and are **not** 
     Availability: Available
     Price: £6.20 GBP
 - [Amethyst Angel for Peace & Protection](https://crystalshealing.co.uk/products/amethyst-angel): Shop the Amethyst Angel – a Reiki-blessed crystal for peace, protection, and spiritual connection. Perfect for meditation or as a meaningful gift.
-  Updated: 2025-11-18T16:34:01Z
+  Updated: 2025-12-07T19:33:37Z
   Vendor: Crystals Healing
   Product Type: Carved Figurines
   Availability: Available
