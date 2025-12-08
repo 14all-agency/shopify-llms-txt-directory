@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-12-07T00:00:52.652Z
+- Updated At: 2025-12-08T00:00:55.455Z
 
 ## Products
 
@@ -7215,7 +7215,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-76_2.jpg?v=1690621488
     Price: $2,849.00 USD
 - [Natural Salt And Pepper 1.50CT Kite Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-50ct-kite-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring-3): This handmade engagement ring is a delight for those seeking a classic yet timeless style. Featuring a unique 1.50CT kite diamond, set within an Art Deco design, it makes a bold statement for any occasion. Crafted with natural salt and pepper diamonds, it radiates sophistication and luxury.
-  Updated: 2025-10-02T10:30:43Z
+  Updated: 2025-12-07T10:37:59Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Kite Diamond Ring
   Availability: Available
@@ -15498,7 +15498,7 @@
     Availability: Available
     Price: $1,879.00 USD
 - [Natural Salt And Pepper 1.41CT Hexagon Diamond Necklace](https://ibizjewel.com/products/natural-salt-and-pepper-1-41ct-hexagon-diamond-necklace): Impress With This Stunning Natural Salt And Pepper 1.41ct Hexagon Diamond Necklace. Expertly Crafted With Natural Salt And Pepper Diamonds, It's The Perfect Blend Of Beauty And Uniqueness. The Hexagon Shape Adds A Modern Touch To The Classic Design. Make A Statement With This One-of-a-kind Necklace.
-  Updated: 2025-10-02T10:30:51Z
+  Updated: 2025-12-07T10:00:47Z
   Vendor: Natural Salt And Pepper Diamond Necklace
   Product Type: Natural Salt And Pepper Hexagon Diamond Necklace
   Availability: Available
@@ -22470,7 +22470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDBA-62_1.jpg?v=1710848286
     Price: $731.00 USD
 - [Moissanite 0.14CT Round Diamond Gothic Engagement Band](https://ibizjewel.com/products/moissanite-0-14ct-round-diamond-gothic-engagement-band): Expertly Crafted With A Stunning 0.14ct Round Diamond, This Gothic Engagement Band Features Moissanite, Known For Its Brilliance And Durability. Its Unique Design Adds A Touch Of Sophistication To Any Look, Making It The Perfect Choice For Those Who Appreciate Both Style And Substance.
-  Updated: 2025-10-02T10:30:58Z
+  Updated: 2025-12-07T10:53:50Z
   Vendor: Moissanite Diamond Women's Bands
   Product Type: Moissanite Round Diamond Band
   Availability: Available
@@ -42182,7 +42182,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-193_7.jpg?v=1715937405
     Price: $986.00 USD
 - [Moissanite 3.65 CT Asscher Diamond Minimalist Anniversary Ring](https://ibizjewel.com/products/moissanite-3-65-ct-asscher-diamond-minimalist-anniversary-ring): The Moissanite Ring Boasts A Brilliant 3.65ct Asscher Diamond, Set In A Minimalist And Elegant Design. Crafted With Precision, This Anniversary Ring Offers A Timeless Yet Modern Look. Perfect For Celebrating Your Special Milestones, This Ring Is A Stunning Addition To Any Jewelry Collection.
-  Updated: 2025-10-02T10:30:08Z
+  Updated: 2025-12-07T01:13:55Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Asscher Diamond Ring
   Availability: Available
