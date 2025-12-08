@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-11T08:25:57Z
 - Contact Email: pikarufashion01@gmail.com
-- Updated At: 2025-12-05T00:00:41.935Z
+- Updated At: 2025-12-08T00:00:42.063Z
 
 ## Products
 
@@ -5766,7 +5766,7 @@
     Availability: Available
     Price: $18.00 USD
 - [Boho Tie-Dye Kimono Shrug for Women | Boho Beach Cover-Up](https://pikarufashion.com/products/boho-tie-dye-kimono-shrug-for-women): ✨ Lightweight boho tie-dye kimono for women. Perfect beach, travel & summer layering shrug with fringes. Free size. Premium soft fabric.
-  Updated: 2025-12-04T09:17:42Z
+  Updated: 2025-12-05T06:35:45Z
   Vendor: PIKARU FASHION
   Product Type: Tie Dye Kimono
   Availability: Available
@@ -5780,7 +5780,7 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/il_1588xN.4730096789_mn8t.webp?v=1764829434
     Price: $49.00 USD
 - [Cotton Printed Night Suit Set – Comfortable Button](https://pikarufashion.com/products/cotton-printed-night-suit-set-button-down-shirt-pyjama): Cotton Printed Night Suit Set offers cozy comfort with its stylish button-down shirt & matching pyjama. Sleep peacefully in elegant design.
-  Updated: 2025-12-04T09:26:49Z
+  Updated: 2025-12-05T02:05:10Z
   Vendor: PIKARU FASHION
   Product Type: Shirt & Pajama Set
   Availability: Available
@@ -5801,7 +5801,7 @@
     Availability: Not Available
     Price: $19.00 USD
 - [Black Floral Cotton Pyjama Set – Soft & Breathable](https://pikarufashion.com/products/black-floral-cotton-pyjama-set-soft-breathable): Shop the Women’s Black Floral Cotton Pyjama Set for soft, breathable comfort and stylish nighttime style that you will love.
-  Updated: 2025-12-04T09:54:27Z
+  Updated: 2025-12-05T02:21:03Z
   Vendor: PIKARU FASHION
   Product Type: Shirt & Pajama Set
   Availability: Available
@@ -5857,7 +5857,37 @@
   - [XL](https://pikarufashion.com/products/mustard-yellow-block-print-cotton-pajama-set?variant=61246694883698)
     Availability: Available
     Price: $19.99 USD
-[List Continued](https://pikarufashion.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDg1NDI1NDE5OTE1NCwibGFzdF92YWx1ZSI6IjE0ODU0MjU0MTk5MTU0In0=)
+- [Cream & Purple Floral Cotton Pyjama Set — Women’s 2-Piece Sleepwear](https://pikarufashion.com/products/cream-purple-floral-cotton-pyjama-set): Soft cream cotton pyjama set with purple floral print, button-up top & drawstring pants. Lightweight, breathable, perfect for sleep or lounging. Available S–XL.
+  Updated: 2025-12-06T10:18:29Z
+  Vendor: PIKARU FASHION
+  Product Type: Shirt & Pajama Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/05_6_e8fa0c8a-b642-4e20-b20a-ecf6a6a2e1ca.jpg?v=1765015881
+  - [L](https://pikarufashion.com/products/cream-purple-floral-cotton-pyjama-set?variant=61335028728178)
+    Availability: Available
+    Price: $19.99 USD
+  - [XL](https://pikarufashion.com/products/cream-purple-floral-cotton-pyjama-set?variant=61335028760946)
+    Availability: Available
+    Price: $19.99 USD
+- [Purple Geometric Block-Print Cotton Pyjama Set](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pajama-set): Beautiful purple cotton pyjama set with white geometric block-print, soft breathable fabric, button-down top & drawstring pants. Comfortable. Sizes L–XL.
+  Updated: 2025-12-06T10:25:51Z
+  Vendor: PIKARU FASHION
+  Product Type: Shirt & Pajama Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/04_5.jpg?v=1765016350
+  - [S](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pajama-set?variant=61335030137202)
+    Availability: Available
+    Price: $19.99 USD
+  - [M](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pajama-set?variant=61335030169970)
+    Availability: Available
+    Price: $19.99 USD
+  - [L](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pajama-set?variant=61335030202738)
+    Availability: Available
+    Price: $19.99 USD
+  - [XL](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pajama-set?variant=61335030235506)
+    Availability: Available
+    Price: $19.99 USD
+[List Continued](https://pikarufashion.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDg1NzgyMTAyODcyMiwibGFzdF92YWx1ZSI6IjE0ODU3ODIxMDI4NzIyIn0=)
 
 ## Collections
 
@@ -5895,8 +5925,8 @@
   Updated: 2025-12-02T10:13:35Z
   Total Products: 14
 - [Cord-Set |Trendy Women’s Co-Ord Sets for Daily & Party Wear](https://pikarufashion.com/collections/2-piece-set-stylish-matching-modern-co-ord-fashion): Shop stylish Cord-Sets featuring premium fabrics, trendy designs, and perfectly matching co-ord outfits. daily wear. Explore chic Cord-Sets at PIKARU Fashion
-  Updated: 2025-12-04T11:47:32Z
-  Total Products: 9
+  Updated: 2025-12-06T10:25:50Z
+  Total Products: 11
 - [Winter Sale | Up to 50% Off on Jackets, Dresses  |](https://pikarufashion.com/collections/winter-sale-big-discounts-on-seasonal-fashion): Winter sale: enjoy huge discounts on jackets, coats and more. Stylish, warm, and high-quality winter fashion at unbeatable prices — shop now and save big!
   Updated: 2025-11-29T18:40:46Z
   Total Products: 16
@@ -5964,14 +5994,14 @@
   Updated: 2025-11-29T18:34:16Z
   Total Products: 1
 - [OPEN - Best Sellers - Top Choices for You](https://pikarufashion.com/collections/open-best-sellers-top-choices-for-you): Discover the best-selling OPEN collection. Explore top choices that meet your needs and desires.OPEN - Best Sellers - Top Choices for You
-  Updated: 2025-12-04T11:47:57Z
-  Total Products: 193
+  Updated: 2025-12-06T10:26:15Z
+  Total Products: 195
 - [Suzzani Coats | Boho Embroidered Winter Jackets](https://pikarufashion.com/collections/suzzani-coats-boho-embroidered-winter-jackets): Explore our exquisite collection of handcrafted Suzzani Coats, featuring rich embroidery and traditional artisan designs.
   Updated: 2025-11-29T18:40:22Z
   Total Products: 18
 - [APPPlaza - Best Sellers](https://pikarufashion.com/collections/appplaza-best-sellers)
-  Updated: 2025-12-04T11:47:57Z
-  Total Products: 193
+  Updated: 2025-12-06T10:26:15Z
+  Total Products: 195
 
 ## Store Pages
 
