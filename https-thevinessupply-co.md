@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-08T08:00:37.564Z
+- Updated At: 2025-12-08T12:00:39.332Z
 
 ## Products
 
@@ -1739,13 +1739,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/pass-port-socks-pass-port-hi-sox-3-pack-socks-black-1183718331.png?v=1757228776
   Price: £19.95 GBP
-- [Spitfire x Grimple Lock In Full Formula Four 99A Skateboard Wheels | 54mm](https://thevinessupply.co/products/spitfire-x-grimple-lock-in-full-formula-four-99a-skateboard-wheels-54mm): Buy the Spitfire x Grimple Lock In Full Formula Four 99A Skateboard Wheels in 54mm at The Vines. These Spitfire Wheels are engineered with a cutting-edge formula for top-tier performance.
-  Updated: 2025-09-24T23:05:06Z
-  Vendor: Spitfire Wheels
-  Product Type: Wheels
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/spitfire-wheels-wheels-54mm-white-spitfire-x-grimple-lock-in-full-formula-four-99a-skateboard-wheels-54mm-1183718326.png?v=1757228761
-  Price: £64.95 GBP
 - [Spitfire Formula Four Classic 101A Skateboard Wheels | 53mm](https://thevinessupply.co/products/spitfire-formula-four-classic-101a-skateboard-wheels-53mm): Buy the Spitfire Formula Four Classic 101A Skateboard Wheels in 53mm at The Vines. Poured from a high quality urethane, they have a classic shape and like all our wheels are sold as a set of four. Often imitated and never duplicated.
   Updated: 2025-11-25T11:44:30Z
   Vendor: Spitfire Wheels
@@ -7377,8 +7370,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-07T23:22:26Z
-  Total Products: 3225
+  Updated: 2025-12-08T10:34:06Z
+  Total Products: 3224
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-07T12:20:48Z
   Total Products: 110
