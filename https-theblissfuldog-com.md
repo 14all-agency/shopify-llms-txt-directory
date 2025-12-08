@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-12-07T00:00:48.393Z
+- Updated At: 2025-12-08T00:00:47.787Z
 
 ## Products
 
@@ -14998,7 +14998,7 @@
     Availability: Available
     Price: $19.95 USD
 - [Embrace The Brachy | Loving & Living With Brachycephalic Dogs | Book](https://theblissfuldog.com/products/embrace-the-brachy-loving-living-with-brachycephalic-dogs-book): Embrace the Brachy | Loving & Living With Flat-Faced Dogs book by Kathy Dannel Vitcak. With 30+ years dedicated to flat-faced dogs, Kathy shares vital info.
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-12-07T05:25:24Z
   Vendor: The Blissful Dog
   Product Type: Book
   Availability: Available
@@ -17122,7 +17122,7 @@
   Updated: 2025-11-21T12:02:04Z
   Total Products: 116
 - [The Blissful Dog NOSE BUTTER® for Your Dog's Rough, Dry, Crusty Nose](https://theblissfuldog.com/collections/nose-butter): The Blissful Dog NOSE BUTTER® moisturizes your dog's rough, dry or crusty Nose. All natural, individually handcrafted in northern Minnesota in tins or tubes.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-07T12:03:12Z
   Total Products: 120
 - [Blissful Dog Boo Boo Butter: Remedy for Dog Skin Irritation](https://theblissfuldog.com/collections/boo-boo-butter): Give your dog some relief from their minor skin irritations with our Boo Boo Butter! All-natural, the salve is great for issues like crusty ears and itchy skin.
   Updated: 2025-12-04T12:02:56Z
@@ -17134,7 +17134,7 @@
   Updated: 2025-12-06T12:02:34Z
   Total Products: 228
 - [Shop The Blissful Dog Australian Shepherd Collection Nose to Tail Care](https://theblissfuldog.com/collections/australian-shepherd-collection): Australian Shepherd Collection for Nose to Tail Care. Handcrafted balms for dry noses, rough paws, skin issues and aromatherapy for anxiety, aging and training.
-  Updated: 2025-12-04T12:02:56Z
+  Updated: 2025-12-07T12:03:12Z
   Total Products: 12
 - [Shop Bernese Mountain Dog Collection for Your Berner's Care Needs](https://theblissfuldog.com/collections/bernese-mountain-dog-collection): Shop Blissful Dog Bernese Mountain Dog Collection: All natural, handcrafted balms for your Berner's dry nose, rough paws, elbow calluses, aromatherapy & more.
   Updated: 2025-12-04T12:02:56Z
@@ -17476,7 +17476,7 @@
   Updated: 2025-12-01T12:02:39Z
   Total Products: 8
 - [Every Dog Nose Butter Collection Moisturizer for Dry Dog Noses](https://theblissfuldog.com/collections/just-nose-butter-collection): Your dog's nose is crusty, maybe cracked and you want to get some dog Nose Butter® and have your dog's nose moisturized. You're at the right place!
-  Updated: 2025-12-06T12:02:34Z
+  Updated: 2025-12-07T12:03:12Z
   Total Products: 724
 - [Dog Colognes & Perfumes | Pet Deodorants | The Blissful Dog](https://theblissfuldog.com/collections/dog-cologne-sniffing-irresistible): Enhance your dog's scent with this set of colognes and perfumes! Not only do the deodorant sprays smell delightful, but they also detangle and condition coats!
   Updated: 2025-11-10T12:02:08Z
@@ -17546,7 +17546,7 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-12-04T12:02:56Z
   Total Products: 34
 - [All Products (Excluding Route+)](https://theblissfuldog.com/collections/all-products-excluding-route)
-  Updated: 2025-12-06T12:02:34Z
+  Updated: 2025-12-07T12:03:12Z
   Total Products: 723
 - [Lagotto Romagnolo Truffe Hunting Uber-Adorable Italian Floof](https://theblissfuldog.com/collections/lagotto-romagnolo): The Lagotto Romagnolo is one of those dog breeds that is a total package. Absolutely adorable, they are covered in soft silky, curls are usually around 35 pounds.
   Updated: 2025-12-04T12:02:56Z
@@ -17573,7 +17573,7 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-12-04T12:02:56Z
   Total Products: 18
 - [Spently - Recommended Products](https://theblissfuldog.com/collections/spently_products): This collection is used by the Spently app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the Spently app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-12-06T12:02:34Z
+  Updated: 2025-12-07T12:03:12Z
   Total Products: 725
 - [The Blissful Dog Keeshond Skin Care Collection](https://theblissfuldog.com/collections/keeshond-collection): Keeshond are known for #1-Spectacles, #2-Smile & #3-Coat. For your Kees having healthy skin is a must. Check out our skincare and bath collection for Keeshond.
   Updated: 2025-12-04T12:02:56Z
