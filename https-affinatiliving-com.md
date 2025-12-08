@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-08T16:00:31.928Z
+- Updated At: 2025-12-08T20:00:34.005Z
 
 ## Products
 
@@ -9379,13 +9379,25 @@
     Updated: 2025-12-07T00:42:08Z
     Author: Gerard Collins
   - [CeraVe vs Hempz Lotion: Which Is Better for Skin Hydration, Moisture Barrier & Softness?](https://affinatiliving.com/blogs/debates/cerave-vs-hempz-lotion-which-is-better-for-skin-hydration-moisture-barrier-and-softness)
-    Updated: 2025-12-07T00:46:10Z
+    Updated: 2025-12-08T19:11:21Z
     Author: Gerard Collins
   - [CeraVe vs Dove Lotion — Which Moisturizer Is Better for Dry Skin?](https://affinatiliving.com/blogs/debates/cerave-vs-dove-lotion-which-moisturizer-is-better-for-dry-skin)
     Updated: 2025-12-07T00:48:45Z
     Author: Gerard Collins
   - [CeraVe vs Vaseline Lotion: Which Is Better? Full Comparison, Benefits & Buying Guide](https://affinatiliving.com/blogs/debates/cerave-vs-vaseline-lotion-which-is-better-full-comparison-benefits-buying-guide)
     Updated: 2025-12-07T00:32:57Z
+    Author: Gerard Collins
+  - [Dove Lotion vs OUAI Lotion: Full Comparison, Ingredients, Scent & Best Alternatives](https://affinatiliving.com/blogs/debates/dove-lotion-vs-ouai-lotion-full-comparison-ingredients-scent-and-best-alternatives)
+    Updated: 2025-12-08T19:50:51Z
+    Author: Gerard Collins
+  - [Dove Lotion vs Nécessaire Lotion: Full Comparison & Best Alternative](https://affinatiliving.com/blogs/debates/dove-lotion-vs-necessaire-lotion-full-comparison-best-alternative)
+    Updated: 2025-12-08T16:45:39Z
+    Author: Gerard Collins
+  - [Dove vs Aveeno Lotion: Which Is Better for Dry & Sensitive Skin?](https://affinatiliving.com/blogs/debates/dove-vs-aveeno-lotion-which-is-better-for-dry-sensitive-skin)
+    Updated: 2025-12-08T16:29:44Z
+    Author: Gerard Collins
+  - [Dove Lotion vs Sol de Janeiro: Which Is Better? Ultimate Guide](https://affinatiliving.com/blogs/debates/dove-lotion-vs-sol-de-janeiro-which-is-better-ultimate-guide)
+    Updated: 2025-12-08T16:18:54Z
     Author: Gerard Collins
   - [Dove Lotion vs. Cetaphil Lotion: Dermatologist-Backed Comparison for Hydration, Ingredients & Skin Health](https://affinatiliving.com/blogs/debates/dove-lotion-vs-cetaphil-lotion-dermatologist-backed-comparison-for-hydration-ingredients-skin-health)
     Updated: 2025-12-08T15:26:42Z
