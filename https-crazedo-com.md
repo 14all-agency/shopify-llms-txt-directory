@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-07T00:48:50Z
 - Contact Email: freeoffice2@gmail.com
-- Updated At: 2025-12-04T00:00:23.195Z
+- Updated At: 2025-12-08T00:00:30.151Z
 
 ## Collections
 
@@ -88,8 +88,8 @@
   Updated: 2025-09-21T03:09:15Z
 - [Privacy Choices | Crazedo Data & Cookie Preferences](https://crazedo.com/pages/privacy-choices): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-09-16T03:01:18Z
-- [Weekly Google Trends #1 Live Fashion & AI Signals | Crazedo](https://crazedo.com/pages/weekly-google-trends): “Stay Updated Data Made Simple Weekly Google Trends, Live Fashion & AI Signals” At Crazedo, we go beyond simply showing Google Trends charts. Every...
-  Updated: 2025-11-12T19:27:33Z
+- [Weekly Google Trends & Live Signals | Crazedo AI 2.0](https://crazedo.com/pages/weekly-google-trends): “Stay Updated Data Made Simple Crazedo AI v2.0: Live Trends, Weekly Google Trends, Live Fashion & AI Signals” At Crazedo, we go beyond simply showi...
+  Updated: 2025-12-04T06:44:13Z
 - [About Crazedo — Weekly Google Trends Hub](https://crazedo.com/pages/about-crazedo): About Crazedo Crazedo is a weekly insights hub that tracks the world’s fastest-rising Google search trends. Every Monday, we publish clear, data-dr...
   Updated: 2025-09-19T03:28:48Z
 - [FAQ | Crazedo Weekly Google Trends Insights.](https://crazedo.com/pages/faq): Frequently Asked Questions (FAQ) 1.What is Crazedo?Crazedo is a weekly insights hub that highlights the #1 trending Google search of the week. Each...
