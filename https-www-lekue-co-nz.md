@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-08-08T02:49:34Z
 - Contact Email: info@lekue.co.nz
-- Updated At: 2025-12-02T00:00:46.730Z
+- Updated At: 2025-12-08T00:00:36.571Z
 
 ## Products
 
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/SiliconeBakingMat_60x40cm-Transparent-8710755880360Lekue_96dpi_1000x1000px_7_NR-33856.png?v=1737330341
   Price: $49.94 NZD
 - [Macaron Kit](https://www.lekue.co.nz/products/kit-macaron): Pick the colours and the flavours! Lékué provides all the utensils you need to bake 24 delicious macarons that will be perfect each time. The kit includes a special macaron baking sheet, a Decomax and a recipe booklet, so you will never run out of ideas. Get started now! Features Includes an easy-to-follow baking sheet made from 100% Platinum Silicone. Bake 24 macarons in one single batch. With six different nozzles for endless decorating possibilities. Discover your ideal nozzle for large balls, filling and preparing macaroons. Discover the recipes and cook sophisticated and delicious macarons at home.
-  Updated: 2025-11-07T17:20:06Z
+  Updated: 2025-12-02T04:04:55Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
@@ -619,10 +619,10 @@
   Updated: 2025-07-15T23:38:19Z
   Total Products: 1
 - [Best Sellers Old](https://www.lekue.co.nz/collections/best-sellers)
-  Updated: 2025-11-29T12:36:15Z
+  Updated: 2025-12-02T12:29:30Z
   Total Products: 87
 - [New Arrivals](https://www.lekue.co.nz/collections/new-arrivals)
-  Updated: 2025-11-29T12:36:15Z
+  Updated: 2025-12-02T12:29:30Z
   Total Products: 87
 - [Bakeware](https://www.lekue.co.nz/collections/bakeware)
   Updated: 2025-10-28T11:29:09Z
@@ -634,7 +634,7 @@
   Updated: 2025-11-29T12:36:15Z
   Total Products: 1
 - [Creative pastry](https://www.lekue.co.nz/collections/creative-pastry)
-  Updated: 2025-11-08T12:23:21Z
+  Updated: 2025-12-02T12:29:30Z
   Total Products: 4
 - [Egg cooking](https://www.lekue.co.nz/collections/egg-cooking)
   Updated: 2025-08-29T02:37:05Z
@@ -718,7 +718,7 @@
   Updated: 2025-07-15T23:38:21Z
   Total Products: 1
 - [Macarons](https://www.lekue.co.nz/collections/macarons)
-  Updated: 2025-11-08T12:23:21Z
+  Updated: 2025-12-02T12:29:30Z
   Total Products: 2
 - [Plum Cake Mould](https://www.lekue.co.nz/collections/plum-cake-mould)
   Updated: 2025-07-15T23:38:21Z
@@ -727,7 +727,7 @@
   Updated: 2025-08-29T02:37:07Z
   Total Products: 3
 - [Welcome Discount collection](https://www.lekue.co.nz/collections/welcome-discount-collection)
-  Updated: 2025-11-29T12:36:15Z
+  Updated: 2025-12-02T12:29:30Z
   Total Products: 90
 - [Best Sellers](https://www.lekue.co.nz/collections/best-sellers-1)
   Updated: 2025-11-29T12:36:15Z
