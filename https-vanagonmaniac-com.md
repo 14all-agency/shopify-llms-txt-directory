@@ -6,7 +6,7 @@
 - Timezone: Europe/Riga
 - Created At: 2022-09-15T15:01:28Z
 - Contact Email: vanagonmaniac@gmail.com
-- Updated At: 2025-12-06T00:00:41.167Z
+- Updated At: 2025-12-08T00:00:39.437Z
 
 ## Products
 
@@ -2033,7 +2033,7 @@
     Availability: Available
     Price: €520.00 EUR
 - [VW T3 Pop-Top Mushroom Canvas - Custom-Fit with Mesh Windows for Sale](https://vanagonmaniac.com/products/vw-t3-vanagon-sca-mushroom-pop-top-roof-canvas): Upgrade your VW T3 Pop-Top Mushroom Canvas  featuring mesh windows. Enjoy durability and style for your adventures. Perfect replacement for your T3!
-  Updated: 2025-12-05T12:30:00Z
+  Updated: 2025-12-06T03:01:25Z
   Vendor: vanagonmaniac
   Product Type: 
   Availability: Available
@@ -2897,7 +2897,7 @@
     Availability: Available
     Price: €500.00 EUR
 - [Insulation Set for VW T3 Cockpit - Side Windows & Windshield (3 panels)](https://vanagonmaniac.com/products/thermal-insulation-set-for-vw-t3-cockpit-side-windows-windshield): Premium 9-layer thermal insulation for VW T3 cockpit, side windows & windshield. Perfect fit, magnetic & suction-cup attachment, storage bag included.
-  Updated: 2025-12-05T12:22:16Z
+  Updated: 2025-12-06T01:10:25Z
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
@@ -2911,7 +2911,7 @@
   Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/pop_top_roof_nsulation_t3_westfalia.png?v=1761653220
   Price: €570.00 EUR
 - [Insulation Set for VW T5 Cockpit - Side Windows & Windshield (3 panels)](https://vanagonmaniac.com/products/thermal-insulation-set-for-vw-t4-cockpit-side-windows-windshield): Premium 9-layer thermal insulation for VW T4 cockpit, side windows & windshield. Perfect fit, magnetic & suction-cup attachment, storage bag included.
-  Updated: 2025-12-05T12:22:30Z
+  Updated: 2025-12-06T01:29:37Z
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
@@ -2925,7 +2925,7 @@
   Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/t4_california_pop_top_roof_insulation.png?v=1761654086
   Price: €570.00 EUR
 - [Insulation Set for VW T4 Cockpit - Side Windows & Windshield (3 panels)](https://vanagonmaniac.com/products/thermal-insulation-set-for-vw-t4-cockpit-side-windows-windshield-1): Premium 9-layer thermal insulation for VW T4 cockpit, side windows & windshield. Perfect fit, magnetic & suction-cup attachment, storage bag included.
-  Updated: 2025-12-05T12:21:46Z
+  Updated: 2025-12-06T02:03:21Z
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
@@ -3094,7 +3094,7 @@
     Price: €111.00 EUR
 - [VW T3 Full Interior Thermal Insulation Set (8 panels) | Complete 9-Layer Thermal Blinds Kit by VanagonManiac](https://vanagonmaniac.com/products/vw-t3-full-interior-thermal-insulation-set-8-panels-complete-9-layer-thermal-blinds-kit-by-vanagonmaniac): Upgrade your entire Volkswagen T3 interior comfort with our premium 9-layer full-window thermal insulation kit, designed and test-fitted by VanagonManiac for a perfect OEM fit.
 This complete set includes full coverage for all VW T3 windows - cockpit, sliding door, side windows, rear hatch, and rear quarter windows - providing maximum insulation, privacy, and climate control in every season.
-  Updated: 2025-12-05T12:24:44Z
+  Updated: 2025-12-06T00:20:24Z
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
