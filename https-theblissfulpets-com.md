@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-12-05T00:00:37.038Z
+- Updated At: 2025-12-08T00:00:36.609Z
 
 ## Products
 
@@ -1593,62 +1593,62 @@
 - [Home page](https://theblissfulpets.com/collections/frontpage)
   Updated: 2024-08-29T19:15:46Z
   Total Products: 0
-- [Dog Butters](https://theblissfulpets.com/collections/nose-butter)
-  Updated: 2025-11-19T18:35:54Z
+- [Dog Balms](https://theblissfulpets.com/collections/nose-butter): Since creating our original Nose Butter® in 2002, we’ve developed a full range of deep-moisturizing balms trusted by dog lovers worldwide.
+  Updated: 2025-12-05T22:06:12Z
   Total Products: 8
-- [Dog Grooming](https://theblissfulpets.com/collections/dog-grooming)
-  Updated: 2025-12-04T12:24:03Z
+- [Dog Grooming](https://theblissfulpets.com/collections/dog-grooming): Find the best dog shampoo and dog cologne in all-natural, groom-quality blends trusted by dog lovers for fresh, healthy coats.
+  Updated: 2025-12-05T21:34:12Z
   Total Products: 19
-- [Shop All Dog](https://theblissfulpets.com/collections/shop-all-dog)
-  Updated: 2025-12-04T12:24:03Z
+- [Shop All Dog](https://theblissfulpets.com/collections/shop-all-dog): Discover our complete line of dog care products—moisturizing balms, groom-quality shampoos, conditioners, colognes, and calming aromatherapy sprays.
+  Updated: 2025-12-05T21:17:40Z
   Total Products: 37
-- [Sensitive Skin](https://theblissfulpets.com/collections/sensitive-skin)
-  Updated: 2025-11-08T12:26:09Z
+- [Sensitive Skin](https://theblissfulpets.com/collections/sensitive-skin): Does your dog have hot spots? Shop our effective, soothing products formulated to calm irritation and support healthy skin.
+  Updated: 2025-12-05T22:10:31Z
   Total Products: 5
-- [Insect Control](https://theblissfulpets.com/collections/insect-control)
-  Updated: 2025-10-11T11:22:00Z
+- [Insect Control](https://theblissfulpets.com/collections/insect-control): Give your dog natural protection from black flies, fleas, and ticks with our gentle, all-natural bug-deterring formulas.
+  Updated: 2025-12-05T22:29:35Z
   Total Products: 4
-- [Cat Moisturizing Butters](https://theblissfulpets.com/collections/cat-moisturizing-butters)
-  Updated: 2025-12-04T12:24:03Z
+- [Cat Moisturizing Balms](https://theblissfulpets.com/collections/cat-moisturizing-butters): Discover handcrafted, deeply moisturizing balms for cats dealing with hot spots, dryness, and irritation—formulated for feline skin.
+  Updated: 2025-12-05T22:02:37Z
   Total Products: 4
-- [Cat Grooming](https://theblissfulpets.com/collections/cat-grooming)
-  Updated: 2025-12-04T12:24:03Z
+- [Cat Grooming](https://theblissfulpets.com/collections/cat-grooming): All-natural cat specific shampoo and soothing care for hot spots and sensitive skin. Handcrafted by cat lovers for cat lovers.
+  Updated: 2025-12-05T21:28:36Z
   Total Products: 14
-- [Cat Aromatherapy](https://theblissfulpets.com/collections/cat-aromatherapy)
-  Updated: 2025-08-24T11:19:59Z
+- [Cat Aromatherapy](https://theblissfulpets.com/collections/cat-aromatherapy): Relax Cat Aromatherapy is the best all-natural calming spray for cats, helping soothe stress and support relaxation.
+  Updated: 2025-12-05T22:33:37Z
   Total Products: 1
-- [Horse Grooming](https://theblissfulpets.com/collections/horse-grooming)
-  Updated: 2025-12-02T12:32:17Z
+- [Horse Grooming](https://theblissfulpets.com/collections/horse-grooming): Handcrafted, Minnesota-made horse grooming products created with your horse’s comfort, health, and shine in mind.
+  Updated: 2025-12-05T21:51:06Z
   Total Products: 7
-- [Equine Moisturizing Butters](https://theblissfulpets.com/collections/equine-moisturizing-butters)
-  Updated: 2025-11-03T12:20:04Z
+- [Equine Moisturizing Butters](https://theblissfulpets.com/collections/equine-moisturizing-butters): Handcrafted equine butters made for your horse’s comfort, plus all-natural sunscreen, bug repellent, and hoof balm.
+  Updated: 2025-12-05T22:19:26Z
   Total Products: 6
-- [Equine Aromatherapy](https://theblissfulpets.com/collections/equine-aromatherapy)
-  Updated: 2025-11-03T12:20:04Z
+- [Equine Aromatherapy](https://theblissfulpets.com/collections/equine-aromatherapy): Our three essential oil blends build upon the cornerstone of equine emotional well-being.
+  Updated: 2025-12-05T22:14:15Z
   Total Products: 3
-- [Equine Insect Control](https://theblissfulpets.com/collections/equine-insect-control)
-  Updated: 2025-10-20T11:17:52Z
+- [Equine Insect Control](https://theblissfulpets.com/collections/equine-insect-control): Skip the harsh chemical fly sprays! Our all-natural bug repellent keeps your horse protected the healthier way.
+  Updated: 2025-12-05T22:21:06Z
   Total Products: 3
-- [Equine Sensitive Skin](https://theblissfulpets.com/collections/equine-sensitive-skin)
-  Updated: 2025-12-02T12:32:17Z
+- [Equine Sensitive Skin](https://theblissfulpets.com/collections/equine-sensitive-skin): All-natural horse care products that offer a gentle alternative to harsh chemicals—ideal for sensitive skin, hot spots, cuts, scrapes, and more.
+  Updated: 2025-12-05T21:49:27Z
   Total Products: 4
-- [Cat Sensitive Skin](https://theblissfulpets.com/collections/cat-sensitive-skin)
-  Updated: 2025-12-04T12:24:03Z
+- [Cat Sensitive Skin](https://theblissfulpets.com/collections/cat-sensitive-skin): Gentle, moisturizing solutions for cats with hot spots or sensitive skin. All-natural and handcrafted by cat lovers.
+  Updated: 2025-12-05T21:21:47Z
   Total Products: 5
-- [Shop All Horse](https://theblissfulpets.com/collections/shop-all-horse)
-  Updated: 2025-12-02T12:32:17Z
+- [Shop All Horse](https://theblissfulpets.com/collections/shop-all-horse): Discover handcrafted, Minnesota-made horse grooming essentials designed with your horse’s health and well-being at heart.
+  Updated: 2025-12-05T21:44:23Z
   Total Products: 18
-- [Shop All Cat](https://theblissfulpets.com/collections/shop-all-cat)
-  Updated: 2025-12-04T12:24:03Z
+- [Shop All Cat](https://theblissfulpets.com/collections/shop-all-cat): Discover our complete line of cat care products—moisturizing balms, groom-quality shampoos, conditioners, colognes, and calming aromatherapy sprays.
+  Updated: 2025-12-05T21:18:20Z
   Total Products: 21
-- [Dog Aromatherapy](https://theblissfulpets.com/collections/dog-aromatherapy)
-  Updated: 2025-10-14T11:18:02Z
+- [Dog Aromatherapy](https://theblissfulpets.com/collections/dog-aromatherapy): Avoid chewables and choose our all-natural calming spray for dogs—made with pure aromatherapy ingredients to help calm anxious pups.
+  Updated: 2025-12-05T22:24:45Z
   Total Products: 3
-- [Blissful Bundles](https://theblissfulpets.com/collections/blissful-bundles)
-  Updated: 2025-11-19T18:44:34Z
+- [Blissful Bundles](https://theblissfulpets.com/collections/blissful-bundles): Get more bang for your buck! Shop our specially priced bundles made with your pet in mind—the perfect kits for your dog, cat, or even horse.
+  Updated: 2025-12-05T21:58:22Z
   Total Products: 14
-- [Holiday Combos](https://theblissfulpets.com/collections/holiday-combos)
-  Updated: 2025-11-19T18:44:34Z
+- [Holiday Combos](https://theblissfulpets.com/collections/holiday-combos): Discover holiday bundles that double as perfect stocking stuffers and great Christmas gifts for your dog.
+  Updated: 2025-12-05T21:54:34Z
   Total Products: 12
 
 ## Blogs
