@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2018-12-15T16:04:33Z
 - Contact Email: amy@amyscoffeemugs.com
-- Updated At: 2025-12-07T00:00:54.464Z
+- Updated At: 2025-12-08T00:00:52.880Z
 
 Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our collection includes artist-designed mugs, insulated tumbler cups, and travel mugs made to bring joy, warmth, and a personal touch to every sip.
 
@@ -6875,7 +6875,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/products/blue-fishing-plaid-pattern-tumbler-cup-at-amys-coffee-mugs-364708.jpg?v=1655434182
     Price: $29.95 USD
 - [Cute Sea Turtles Pattern Tumbler Cup | Sea Turtle Drinkware Gift](https://amyscoffeemugs.com/products/cute-sea-turtles-pattern-tumbler-cup): Cute Sea Turtles Pattern Tumbler Cup with cute-colored sea turtles. It's perfect gift for sea turtle fans, aquatic lovers, & beach enthusiasts. Dishwasher-safe.
-  Updated: 2025-11-28T12:57:00Z
+  Updated: 2025-12-07T12:13:17Z
   Vendor: Amy's Coffee Mugs
   Product Type: Insulated Tumbler Cup
   Availability: Available
@@ -12860,6 +12860,8 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
   Updated: 2025-06-23T14:17:17Z
 - [Mug Care Instructions | Cleaning Tips for Amy’s Coffee Mugs](https://amyscoffeemugs.com/pages/care-instructions): Important care and safety instructions for your coffee mugs, travel mugs, and tumbler cups. At Amy’s Coffee Mugs, I want you to enjoy your favorite...
   Updated: 2025-11-03T15:52:53Z
+- [Mug Affiliate Program for US Creators | Earn 8% Promoting Coffee Mugs](https://amyscoffeemugs.com/pages/affiliate-program): Affiliate Program – Earn Commission Promoting Artist-Designed Coffee Mugs Hi! I’m Amy, the artist behind Amy’s Coffee Mugs. Every mug and cup in my...
+  Updated: 2025-12-07T19:38:19Z
 
 ## Policies
 
