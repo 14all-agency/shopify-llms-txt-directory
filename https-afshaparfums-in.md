@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-06-07T09:35:30Z
 - Contact Email: afshaparfumsofficial@gmail.com
-- Updated At: 2025-12-06T00:00:36.503Z
+- Updated At: 2025-12-09T00:00:36.214Z
 
 ## Products
 
 - [Shop Now: Casanova by Afsha Parfums - Best Dubai Perfume in India for Unmatched Charisma](https://afshaparfums.in/products/casanova-luxury-perfume-in-india): Discover and shop Casanova by Afsha Parfums, a rare and alluring fragrance that embodies charisma like a crimson moon. Perfect for those who seek a unique scent experience. Explore the best Dubai perfume in India that leaves a lasting impression.
-  Updated: 2025-11-21T10:15:57Z
+  Updated: 2025-12-08T17:39:56Z
   Vendor: Afsha Parfums
   Product Type: 
   Availability: Available
