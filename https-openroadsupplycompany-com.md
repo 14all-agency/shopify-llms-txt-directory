@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-08-14T19:34:39Z
 - Contact Email: info@openroadsupplycompany.com
-- Updated At: 2025-12-09T21:47:30.320Z
+- Updated At: 2025-12-09T21:48:46.669Z
 
 ## Products
 
@@ -684,7 +684,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/image_891782a8-7fae-4d2d-840e-c0bf5b784321.jpg?v=1764258653
     Price: $1,999.00 USD
 - [L-Track Fittings & Accessories](https://openroadsupplycompany.com/products/l-track-fittings-accessories): On orders $150.00 and up, FREE shipping to lower 48 states. L-Track Fittings & Accessories
-  Updated: 2025-12-08T15:16:08Z
+  Updated: 2025-12-09T21:48:01Z
   Vendor: Tec Vanlife USA
   Product Type: 
   Availability: Available
@@ -2260,7 +2260,7 @@
   Image: https://cdn.shopify.com/s/files/1/0689/2489/9409/files/ignik-firecan-final-web-1080-1.jpg?v=1764633358
   Price: $229.95 USD
 - [Flipside Heated Bed Cover Fleece](https://openroadsupplycompany.com/products/flipside-heated-bed-cover-fleece): *12V BATTERY REQUIRED. NOT INCLUDED Luxurious Warmth in the Great Outdoors Experience the ultimate in outdoor comfort with the Flipside Fleece. We've taken our revolutionary heated bed cover and enhanced it with a premium soft-brushed fleece top for an extra touch of luxury. The same micro-suede backing helps keep the Flipside Fleece in place on your bed, while the soft Fleece is extra comfy and cozy. Great to sleep directly on top of with a camp quilt and or blanket. FITS 1 PERSON KEY FEATURES: PREMIUM SOFT SURFACE: Luxurious brushed fleece top layer for exceptional comfort POWERFUL WARMTH: 48W max heat output delivers consistent warmth even in freezing conditions SMART CONTROLLER: Intuitive interface remembers your preferred settings with built-in safety sensors ECO-CONSCIOUS DESIGN: 100% post-consumer recycled polyester shell and insulation ADVENTURE-READY: Includes 12V vehicle adapter for easy power from your vehicle or portable battery DURABLE CONSTRUCTION: Water-resistant outer shell with plush fleece top designed for outdoor use PORTABLE COMFORT: Easily packs down for transport and storage 6FT - 12V Vehicle Adapter Included *Not Compatible with Anker Solix C1000*
-  Updated: 2025-12-08T15:16:13Z
+  Updated: 2025-12-09T21:48:40Z
   Vendor: Ignik Outdoors
   Product Type: 
   Availability: Available
