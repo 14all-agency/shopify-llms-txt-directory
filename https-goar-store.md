@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-08-13T12:49:55Z
 - Contact Email: joseluisgonzalezarsb@gmail.com
-- Updated At: 2025-12-07T00:00:40.103Z
+- Updated At: 2025-12-09T00:00:37.685Z
 
 ## Products
 
@@ -577,7 +577,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/unisex-crew-neck-sweatshirt-black-front-69285f7353375.jpg?v=1764253571
     Price: €29.50 EUR
 - [Sudadera unisex de Black Wolf EDICION LIMITADA.](https://goar.store/products/sudadera-unisex-de-black-wolf-edicion-limitada): Introducing our limited edition Sudadera blackwolf. Designed for comfort and style, its sleek black design is both practical and fashionable. With its trendy look, you'll make a statement wherever you go. Crafted with high-quality material, this sweatshirt is a great addition to any wardrobe. Don't miss out on this bueno, bonito, and barato piece. Get yours now!
-  Updated: 2025-12-01T12:17:06Z
+  Updated: 2025-12-08T20:46:02Z
   Vendor: Goar Store 
   Product Type: 
   Availability: Available
@@ -603,6 +603,36 @@
   - [XS](https://goar.store/products/sudadera-unisex-de-black-wolf-edicion-limitada?variant=56034393620804)
     Availability: Available
     Price: €59.99 EUR
+- [Unisex Hoodie](https://goar.store/products/unisex-hoodie): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
+  Updated: 2025-12-08T21:06:19Z
+  Vendor: Goar Store 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-back-69373d41870c1.jpg?v=1765227870
+  - [S](https://goar.store/products/unisex-hoodie?variant=56079022588228)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-back-69373d41870c1.jpg?v=1765227870
+    Price: €49.44 EUR
+  - [M](https://goar.store/products/unisex-hoodie?variant=56079022620996)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-back-69373d41870c1.jpg?v=1765227870
+    Price: €49.44 EUR
+  - [L](https://goar.store/products/unisex-hoodie?variant=56079022653764)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-back-69373d41870c1.jpg?v=1765227870
+    Price: €49.44 EUR
+  - [XL](https://goar.store/products/unisex-hoodie?variant=56079022686532)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-back-69373d41870c1.jpg?v=1765227870
+    Price: €49.44 EUR
+  - [2XL](https://goar.store/products/unisex-hoodie?variant=56079022719300)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-back-69373d41870c1.jpg?v=1765227870
+    Price: €50.74 EUR
+  - [3XL](https://goar.store/products/unisex-hoodie?variant=56079022752068)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-back-69373d41870c1.jpg?v=1765227870
+    Price: €52.04 EUR
 
 ## Collections
 
@@ -610,8 +640,8 @@
   Updated: 2025-11-27T15:26:35Z
   Total Products: 0
 - [BLACK WOLF EDITION - Premium Collection | Goar Store](https://goar.store/collections/black-wolf-edition): Discover the BLACK WOLF EDITION collection with exclusive designs and premium quality products at Goar Store.
-  Updated: 2025-12-02T18:48:48Z
-  Total Products: 20
+  Updated: 2025-12-08T21:04:55Z
+  Total Products: 21
 - [Sale Products - Up to 30% Off | Goar Store](https://goar.store/collections/sale-products): Take advantage of our special offers with discounts up to 30% on selected products. Discover the best deals at Goar Store.
   Updated: 2025-12-02T18:48:48Z
   Total Products: 20
