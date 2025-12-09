@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-09T00:00:49.333Z
+- Updated At: 2025-12-09T04:00:33.969Z
 
 ## Products
 
@@ -9510,6 +9510,8 @@
   Updated: 2025-05-03T18:47:14Z
 - [About Us](https://affinatiliving.com/pages/about-us): About Affinati Luxury Candles & Natural Body Care for Everyday Self-Care At Affinati, we create handcrafted soy wax candles and natural body scrubs...
   Updated: 2025-08-06T23:38:00Z
+- [Your privacy choices](https://affinatiliving.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2025-12-09T02:37:27Z
 
 ## Policies
 
