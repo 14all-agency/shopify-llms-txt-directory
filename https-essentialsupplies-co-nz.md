@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-12-08T00:00:48.531Z
+- Updated At: 2025-12-09T00:00:47.893Z
 
 ## Products
 
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/antibacterial-wavy-wipes-green-300mm-x-500mm-90-sheets-80gsm-4-rolls-heavy-duty-dry-wipes-essential-supplies-398060.jpg?v=1719444761
   Price: $85.00 NZD
 - [Antibacterial Wavy Wipes - Yellow, 300mm x 500mm, 90 Sheets, 80gsm - 4 Rolls - *Heavy Duty](https://essentialsupplies.co.nz/products/antibacterial-wavy-wipes-yellow-300mm-x-500mm-90-sheets-80gsm-4-heavy-duty): Antibacterial wavy wipes are hygenic and highly absorbent.Dispensed on a perforated roll for convenience, they are reusable and machine washable. These wipes are made from a heavy duty 80gsm, 70% viscose, 30% polyester mix. Heavy duty strength and durability Made from strong duty 80gsm, 70% viscose, 30% polyester mix Reusable and machine washable Tissue size: 300mm x 500mm Roll length: 45 metres Pack: 4 rolls Colour: Yellow
-  Updated: 2025-01-08T21:21:03Z
+  Updated: 2025-12-08T04:41:33Z
   Vendor: Mattews Packaging
   Product Type: Dry Wipes
   Availability: Available
@@ -1292,7 +1292,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/db-recycled-bin-liner-80l-black-800mm-x-1000mm-x-35mu-100-pack-dispenser-box-dispenser-box-bin-liners-essential-supplies-447555.jpg?v=1719444952
   Price: $46.00 NZD
 - [FP Recycled Bin Liner 80L - Black, 800mm x 1000mm x 40mu - 250 Pack](https://essentialsupplies.co.nz/products/fp-recycled-bin-liner-80l-black-800mm-x-1000mm-x-40mu-250): Gusseted for effective waste collectionRecycled rubbish bin liners combine puncture strength and versatility to provide reliable, economical protection against leaking and odours.These bags are produced from post consumer plastic, which is then recycled and made into new bags. Recycled bin liners are the most cost effective as they reduce environmental impact, save energy and preserve natural resources. Tough, strong recycled bags Colour: Black Size: 80 Litres 800mm x 1000mm x 40mu Pack of: 250
-  Updated: 2025-01-09T05:40:11Z
+  Updated: 2025-12-08T08:53:20Z
   Vendor: Mattews Packaging
   Product Type: Rubbish Bin Liners
   Availability: Available
@@ -2692,7 +2692,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fp-recycled-bin-liner-120l-green-900mm-x-1330mm-x-30mu-200-pack-wheelie-bin-liners-essential-supplies-533290.jpg?v=1719445072
   Price: $120.00 NZD
 - [FP Recycled Bin Liner 120L - Clear, 900mm x 1330mm x 30mu - 200 Pack](https://essentialsupplies.co.nz/products/fp-recycled-bin-liner-120l-clear-900mm-x-1330mm-x-30mu-200): Recycled rubbish bin liners combine puncture strength and versatility to provide reliable, economical protection against leaking and odours.These bags are produced from post consumer plastic, which is then recycled and made into new bags. Recycled bin liners are the most cost effective as they reduce environmental impact, save energy and preserve natural. Tough, strong recycled bags Size: 120 Litres (900 x 1330mm) Strength: 30mu Pack of: 200
-  Updated: 2025-01-09T00:47:59Z
+  Updated: 2025-12-08T08:11:45Z
   Vendor: Mattews Packaging
   Product Type: Wheelie Bin Liners
   Availability: Available
@@ -3635,7 +3635,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/automatic-cut-roll-feed-dispenser-cable-black-ce-certified-1-cable-roll-towel-dispensers-essential-supplies-181827.jpg?v=1719444761
   Price: $12.00 NZD
 - [Flat Facial Tissues - White, 2 Ply, 150 Sheets, FSC Mix® - 30 Boxes](https://essentialsupplies.co.nz/products/flat-facial-tissues-white-2-ply-150-sheets-fsc-mix®-30): Facial tissues are softer in feel, made from premium pulp. The petite dispenser boxes are ideal for hotels, hospitality, and in the office or workplace. These tissues are hypoallergenic, making them gentle on sensitive skin. The paper used is certified which ensures you are making a sustainable paper choice. Convenient and affordable with a 2 ply, 205mm x 200mm sheet size. Available in 100 or 200 sheets within a sturdy and space saving dispenser
-  Updated: 2025-02-07T08:23:45Z
+  Updated: 2025-12-08T09:52:12Z
   Vendor: Mattews Packaging
   Product Type: Facial Tissues
   Availability: Available
@@ -3873,7 +3873,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/pod-petite-automatic-unit-black-253mm-x-177mm-x-420mm-refill-1-unit-sanitary-hygiene-essential-supplies-120406.jpg?v=1719445701
   Price: $253.00 NZD
 - [Pod Petite Fragranced Wipes - White, 135mm x 220mm, 150 Sheets - 12 Wipes](https://essentialsupplies.co.nz/products/pod-petite-fragranced-wipes-white-135mm-x-220mm-150-sheets-12): Pod petite wipes incorporate vapour phase technology from natural essential oils which are slowly released from the wipes and permeate throughout the unit even when it is full. The wipes are designed to clean and eliminate harmful bacteria on the outer surfaces as well as deodorise, sanitise and prevent the formation of malodour inside the unit. Pod petite wipes are easy to use, individual, antimicrobial wipes – leaving no mess, or residue.
-  Updated: 2025-01-09T10:15:54Z
+  Updated: 2025-12-08T04:35:55Z
   Vendor: Mattews Packaging
   Product Type: Sanitary Hygiene
   Availability: Available
@@ -4769,7 +4769,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/window-bucket-blue-12l-capacity-buckets-essential-supplies-762897.jpg?v=1719445922
   Price: $21.00 NZD
 - [Window Bucket - Green, 12L Capacity](https://essentialsupplies.co.nz/products/window-bucket-green-12l-capacity-12): Window cleaning buckets are ideal for general cleaning and window cleaning. They have a large 12 litre capacity and a handy rectangular shape, making it ideal for use with mop pads and squeegees. The handle makes it easy and convenient to carry as you move around.
-  Updated: 2025-01-25T13:44:30Z
+  Updated: 2025-12-08T09:35:01Z
   Vendor: Mattews Packaging
   Product Type: Buckets
   Availability: Available
@@ -5574,14 +5574,14 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/black-flag-insect-spray-rapid-kill-black-300g-1-can-pest-control-essential-supplies-716858.jpg?v=1719444768
   Price: $16.00 NZD
 - [Automatic Aerosol Pest Spray Refill - Green, 275ml Refill](https://essentialsupplies.co.nz/products/automatic-aerosol-pest-spray-refill-green-275ml-refill-12)
-  Updated: 2025-02-07T07:27:04Z
+  Updated: 2025-12-08T08:09:35Z
   Vendor: Mattews Packaging
   Product Type: Pest Control
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/automatic-aerosol-pest-spray-refill-green-275ml-refill-pest-control-essential-supplies-800453.jpg?v=1719444753
   Price: $21.00 NZD
 - [Automatic Aerosol Pest Dispenser - White, Fits 275ml Refill - 1 Dispenser](https://essentialsupplies.co.nz/products/automatic-aerosol-pest-dispenser-white-fits-275ml-refill-1)
-  Updated: 2025-02-15T06:36:46Z
+  Updated: 2025-12-08T01:29:45Z
   Vendor: Mattews Packaging
   Product Type: Pest Control
   Availability: Available
@@ -5679,7 +5679,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/nitrile-examination-gloves-powder-free-blue-l-240mm-cuff-30g-1000-gloves-nitrile-examination-gloves-essential-supplies-973450.jpg?v=1719445394
   Price: $81.00 NZD
 - [Nitrile Examination Gloves Powder Free - Blue, XL, 240mm Cuff, 3.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/nitrile-examination-gloves-powder-free-blue-xl-240mm-cuff-3-0g-1000): Blue powder free nitrile gloves offer cost effective snag, puncture, cut and abrasion resistance, making them ideal for the chemical, tattooing, laboratory, and meat processing industries. With a longer shelf life and three times greater durability when compared to latex.
-  Updated: 2025-02-07T10:29:40Z
+  Updated: 2025-12-08T02:46:48Z
   Vendor: Mattews Packaging
   Product Type: Nitrile Examination Gloves
   Availability: Available
@@ -6106,7 +6106,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/processing-cut-resistant-gloves-white-s-13-gauge-120-gloves-rating-en388-4x4xf-cut-resistant-food-gloves-essential-supplies-480013.jpg?v=1719445678
   Price: $1,700.00 NZD
 - [Processing Cut Resistant Gloves - White, M, 13 Gauge - 120 Gloves - *Rating - EN388: 3X4XF](https://essentialsupplies.co.nz/products/processing-cut-resistant-gloves-white-m-13-gauge-12-rating-en388-3x4xf): White cut resistant food processing gloves incorporate specially developed yarns designed to meet EN388 Cut Level 5 testing after 60+ launders. Anatomical shape to ensure flexibility, comfort and dexterity. Santised for ultra-fresh and anti-microbial protection.
-  Updated: 2025-02-12T14:38:45Z
+  Updated: 2025-12-08T09:33:53Z
   Vendor: Mattews Packaging
   Product Type: Cut Resistant Food Gloves
   Availability: Available
