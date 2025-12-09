@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-12-03T00:00:38.574Z
+- Updated At: 2025-12-09T00:00:45.382Z
 
 ## Products
 
@@ -13292,11 +13292,14 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Grey exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-grey-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-11-22T03:14:10Z
+  Updated: 2025-12-08T23:46:46Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/5848/1377/files/SWEDAN-GREY-344-1_441ef2a7-2a70-426b-abb0-c57c8ba620d7.jpg?v=1742575280
+  - [70 x 160](https://thetableclothstore.com/products/soft-velvet-tablecloth-grey-the-tablecloth-store?variant=46843020345569)
+    Availability: Available
+    Price: $126.99 USD
   - [Fabric Sample](https://thetableclothstore.com/products/soft-velvet-tablecloth-grey-the-tablecloth-store?variant=46843020116193)
     Availability: Available
     Price: $1.00 USD
@@ -13318,9 +13321,6 @@
   - [70 x 140](https://thetableclothstore.com/products/soft-velvet-tablecloth-grey-the-tablecloth-store?variant=46843020312801)
     Availability: Available
     Price: $109.99 USD
-  - [70 x 160](https://thetableclothstore.com/products/soft-velvet-tablecloth-grey-the-tablecloth-store?variant=46843020345569)
-    Availability: Available
-    Price: $126.99 USD
   - [70 x 180](https://thetableclothstore.com/products/soft-velvet-tablecloth-grey-the-tablecloth-store?variant=46843020378337)
     Availability: Available
     Price: $141.99 USD
@@ -33819,6 +33819,12 @@
     Author: User
   - [Must-Check Factors Before Purchasing a tablecloth](https://thetableclothstore.com/blogs/news/must-check-factors-before-purchasing-a-tablecloth): Must-Check Factors Before Purchasing a tablecloth
     Updated: 2025-12-02T02:07:09Z
+    Author: User
+  - [The Evolution of Tablecloths from Elegance to Necessity](https://thetableclothstore.com/blogs/news/the-evolution-of-tablecloths-from-elegance-to-necessity): The Evolution of Tablecloths from Elegance to Necessity
+    Updated: 2025-12-04T01:13:32Z
+    Author: User
+  - [Educational Overview of Tablecloth Fabrics and Their Benefits](https://thetableclothstore.com/blogs/news/educational-overview-of-tablecloth-fabrics-and-their-benefits): Educational Overview of Tablecloth Fabrics and Their Benefits
+    Updated: 2025-12-08T00:42:18Z
     Author: User
 
 ## Store Pages
