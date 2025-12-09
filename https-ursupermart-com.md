@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-12-08T00:01:02.140Z
+- Updated At: 2025-12-09T00:01:01.193Z
 
 ## Products
 
@@ -1046,7 +1046,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/rustic-lift-top-coffee-table-setup.webp?v=1728436010
     Price: $89.95 USD
 - [Crossbody Bag Quilted Small for Hands-Free Style](https://ursupermart.com/products/crossbody-bag-quilted-small-hands-free-style): This stylish quilted crossbody bag offers hands-free convenience and secure storage for your daily essentials; get yours for effortless style and comfort on the go.
-  Updated: 2025-12-04T13:07:54Z
+  Updated: 2025-12-08T14:40:31Z
   Vendor: S1B|S1|S1B|Meta - Trendsi**-UP
   Product Type: Sling Backpack
   Availability: Available
@@ -1982,7 +1982,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2025-12-05T20:49:15Z
+  Updated: 2025-12-08T16:41:56Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -2076,7 +2076,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/trendy-plaid-winter-coat-street-style-fashion.webp?v=1737920110
     Price: $49.95 USD
   - [Peacock  Blue / 3XL](https://ursupermart.com/products/plaid-wool-coats-collection?variant=41504043106394)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/trendy-plaid-winter-coat-street-style-fashion.webp?v=1737920110
     Price: $49.95 USD
   - [Black / S](https://ursupermart.com/products/plaid-wool-coats-collection?variant=41504043139162)
@@ -15795,7 +15795,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/silver-sequin-mini-dress-side-view.webp?v=1744747969
     Price: $91.45 USD
 - [Royal Blue Sparkle Dress | Plus Size Special Occasion Wear](https://ursupermart.com/products/plus-size-royal-blue-glitter-wrap-dress): Stunning plus size royal blue glitter wrap dress for special occasions. Features flattering V-neck, side slit, and easy care - machine wash cold. Free Shipping
-  Updated: 2025-12-04T13:43:01Z
+  Updated: 2025-12-08T12:35:15Z
   Vendor: S1B|Trendsi
   Product Type: Glitter Dress
   Availability: Available
@@ -18541,7 +18541,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sequin-mini-dress-pink-detail-inset.webp?v=1751477912
     Price: $39.95 USD
 - [Travel Backpack: Your Perfect Travel Companion!](https://ursupermart.com/products/travel-backpack-carry-on-flight-approved-bag): Durable & stylish travel backpack with multiple pockets & laptop compartment. Perfect for business trips or everyday use. Shop now!
-  Updated: 2025-12-04T13:49:03Z
+  Updated: 2025-12-08T12:25:26Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Large capacity, versatile, stylish business/laptop backpack
   Availability: Available
@@ -21540,7 +21540,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2025-12-07T10:26:41Z
+  Updated: 2025-12-08T12:26:41Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -23608,7 +23608,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/877cd568-979e-4a16-a377-38c938ecb3d0.jpg?v=1756925020
   Price: $64.95 USD
 - [Tote bags large capacity secure and stylish for daily use](https://ursupermart.com/products/large-capacity-tote-bags-secure-stylish-daily-use): Tote bags for work, school, or travel offer large capacity, comfy straps, and a secure snap closure to keep all your daily essentials safe; find your perfect one now!
-  Updated: 2025-12-04T14:01:03Z
+  Updated: 2025-12-08T09:26:41Z
   Vendor: S1B|S1|CJ
   Product Type: Tote bag
   Availability: Available
@@ -23733,7 +23733,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/amphibious-rc-car-green-tracked-kit.webp?v=1759021004
   Price: $38.95 USD
 - [RC boats: Fast remote control, anti-flip, night light](https://ursupermart.com/products/rc-boats-fast-remote-control-anti-flip-night-light): RC boats deliver thrilling water adventures with self-righting tech, night lights, and 20mph speed. Enjoy extended playtime; grab yours today!
-  Updated: 2025-12-04T14:01:17Z
+  Updated: 2025-12-08T05:26:36Z
   Vendor: S1B|S1|CJ
   Product Type: RC boat
   Availability: Available
@@ -26414,7 +26414,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/children-puzzle-diy-miniature-house.webp?v=1759421917
   Price: $54.95 USD
 - [Interactive Globe for Kids - Explore Earth with AR App](https://ursupermart.com/products/interactive-globe-for-kids-augmented-reality): Interactive globe for kids makes learning geography an exciting adventure with AR, LED lighting, and STEM activities; explore the world and spark curiosity!
-  Updated: 2025-12-04T14:07:00Z
+  Updated: 2025-12-08T09:26:46Z
   Vendor: @S1B|S1|CJ
   Product Type: Interactive globe
   Availability: Available
@@ -29591,7 +29591,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-snowflake-necklace-earring-set-silver-crystal.webp?v=1764718671
     Price: $14.95 USD
 - [Women's Trench Coat Flattering Warm Wool Blend](https://ursupermart.com/products/womens-trench-coat-flattering-warm-wool-blend-style): Our women's trench coat offers versatile style, warmth, and a flattering silhouette for any occasion, boosting your confidence. Get yours today!
-  Updated: 2025-12-06T11:27:50Z
+  Updated: 2025-12-08T20:26:58Z
   Vendor: S1B|S1|CJ
   Product Type: Women's trench coat
   Availability: Available
@@ -32595,7 +32595,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-insulated-jacket-green-black.webp?v=1763558045
     Price: $59.95 USD
 - [Winter Parka for Women Warm Fur Hooded Stylish Coat](https://ursupermart.com/products/women-fur-hooded-warm-winter-parka-coat-stylish): Winter Parka for women: Stay warm and stylish in this versatile, fur-hooded coat with secure pockets and an adjustable waist for a perfect fit. Shop today!
-  Updated: 2025-12-05T03:28:17Z
+  Updated: 2025-12-08T07:29:41Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Winter Parka
   Availability: Available
@@ -35429,7 +35429,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-jacket-grey-tailored-design.webp?v=1762549913
     Price: $64.95 USD
 - [Faux Fur Coat Womens Long Warm & Cozy Style](https://ursupermart.com/products/faux-fur-coat-womens-long-warm-plush-hooded): Faux Fur Coat: Stay wonderfully warm and protected from the cold in this long, ethical women's coat with an oversized hood; embrace luxurious style today!
-  Updated: 2025-12-04T14:22:51Z
+  Updated: 2025-12-08T23:51:44Z
   Vendor: @S1B|S1|CJ
   Product Type: Faux fur coat
   Availability: Available
@@ -38237,7 +38237,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c327d19f-74dc-4d26-90d8-265c6f4444f1.jpg?v=1763756152
   Price: $1.00 USD
 - [Layered Anklet Set Trendy Gold Chains for Summer Style](https://ursupermart.com/products/layered-anklet-set-trendy-gold-chains-for-summer-style-anklets): This layered anklet set instantly elevates your style with five trendy gold chains, perfect for any occasion. Shop now to express your unique personality!
-  Updated: 2025-12-04T14:29:33Z
+  Updated: 2025-12-08T12:26:51Z
   Vendor: S1B|S1|CJ
   Product Type: anklet set
   Availability: Available
@@ -40548,26 +40548,606 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/magnetic-4-in-1-wireless-charging-station-black-dark-mode.webp?v=1764548158
     Price: $47.95 USD
 - [Fur Hooded Coat Warm Stylish Cruelty Free](https://ursupermart.com/products/fur-hooded-coat-warm-stylish-cruelty-free-oversize): Stay warm and chic in our Fur Hooded Coat, featuring an oversized fit and large hood for ultimate comfort; shop now for cruelty-free style!
-  Updated: 2025-12-07T08:25:41Z
+  Updated: 2025-12-08T03:03:54Z
   Vendor: S1B|S1|CJ
   Product Type: fur hooded coat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fur-hooded-coat-premium-grey-oversized.webp?v=1765055755
   - [Black / Free Size](https://ursupermart.com/products/fur-hooded-coat-warm-stylish-cruelty-free-oversize?variant=42635044946010)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fur-hooded-coat-lux-black-plush-modern.webp?v=1765055757
     Price: $92.95 USD
   - [Blue / Free Size](https://ursupermart.com/products/fur-hooded-coat-warm-stylish-cruelty-free-oversize?variant=42635044978778)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fur-hooded-coat-soft-blue-oversized-trending.webp?v=1765055759
     Price: $92.95 USD
   - [Gray / Free Size](https://ursupermart.com/products/fur-hooded-coat-warm-stylish-cruelty-free-oversize?variant=42635045011546)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fur-hooded-coat-premium-grey-oversized.webp?v=1765055755
     Price: $92.95 USD
   - [Pink / Free Size](https://ursupermart.com/products/fur-hooded-coat-warm-stylish-cruelty-free-oversize?variant=42635045044314)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fur-hooded-coat-pink-cozy-ultra-soft.webp?v=1765055761
     Price: $92.95 USD
   - [White / Free Size](https://ursupermart.com/products/fur-hooded-coat-warm-stylish-cruelty-free-oversize?variant=42635045077082)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fur-hooded-coat-white-premium-fluffy-style.webp?v=1765055763
     Price: $92.95 USD
+- [Women's Double Breasted Trench Coat - Timeless Wool Style](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style): Women's double breasted trench coat: Elevate your style with this timeless wool-blend design, offering warmth and sophistication. Shop now for classic elegance!
+  Updated: 2025-12-08T17:06:54Z
+  Vendor: S1B|S1|CJ
+  Product Type: Trench coat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/omens-double-breasted-wool-coat-multi-color-variants-premium.webp?v=1765164247
+  - [Army Green / XS](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221106778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-army-green-classic.webp?v=1765164248
+    Price: $64.95 USD
+  - [Army Green / S](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221041242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-army-green-classic.webp?v=1765164248
+    Price: $64.95 USD
+  - [Army Green / M](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221008474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-army-green-classic.webp?v=1765164248
+    Price: $64.95 USD
+  - [Army Green / L](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635220975706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-army-green-classic.webp?v=1765164248
+    Price: $64.95 USD
+  - [Army Green / XL](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221074010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-army-green-classic.webp?v=1765164248
+    Price: $64.95 USD
+  - [Army Green / 2XL](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635220910170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-army-green-classic.webp?v=1765164248
+    Price: $64.95 USD
+  - [Army Green / 3XL](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635220942938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-army-green-classic.webp?v=1765164248
+    Price: $64.95 USD
+  - [Black / XS](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221336154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-black-elegant.webp?v=1765164247
+    Price: $64.95 USD
+  - [Black / S](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221270618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-black-elegant.webp?v=1765164247
+    Price: $64.95 USD
+  - [Black / M](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221237850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-black-elegant.webp?v=1765164247
+    Price: $64.95 USD
+  - [Black / L](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221205082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-black-elegant.webp?v=1765164247
+    Price: $64.95 USD
+  - [Black / XL](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221303386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-black-elegant.webp?v=1765164247
+    Price: $64.95 USD
+  - [Black / 2XL](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221139546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-black-elegant.webp?v=1765164247
+    Price: $64.95 USD
+  - [Black / 3XL](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221172314)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-black-elegant.webp?v=1765164247
+    Price: $64.95 USD
+  - [Blue / S](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221499994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-royal-blue-premium.webp?v=1765164247
+    Price: $64.95 USD
+  - [Blue / M](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221467226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-royal-blue-premium.webp?v=1765164247
+    Price: $64.95 USD
+  - [Blue / L](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221434458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-royal-blue-premium.webp?v=1765164247
+    Price: $64.95 USD
+  - [Blue / XL](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221532762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-royal-blue-premium.webp?v=1765164247
+    Price: $64.95 USD
+  - [Blue / 2XL](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221368922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-royal-blue-premium.webp?v=1765164247
+    Price: $64.95 USD
+  - [Blue / 3XL](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221401690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-royal-blue-premium.webp?v=1765164247
+    Price: $64.95 USD
+  - [Caramel / S](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221729370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-brown-modern.webp?v=1765164247
+    Price: $64.95 USD
+  - [Caramel / M](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221696602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-brown-modern.webp?v=1765164247
+    Price: $64.95 USD
+  - [Caramel / L](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221663834)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-brown-modern.webp?v=1765164247
+    Price: $64.95 USD
+  - [Caramel / XL](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221762138)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-brown-modern.webp?v=1765164247
+    Price: $64.95 USD
+  - [Caramel / 2XL](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221565530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-brown-modern.webp?v=1765164247
+    Price: $64.95 USD
+  - [Caramel / 3XL](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221598298)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-brown-modern.webp?v=1765164247
+    Price: $64.95 USD
+  - [Caramel / 4XL](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221631066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-brown-modern.webp?v=1765164247
+    Price: $64.95 USD
+  - [Red / S](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221925978)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-deep-red-luxe.webp?v=1765164247
+    Price: $64.95 USD
+  - [Red / M](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221893210)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-deep-red-luxe.webp?v=1765164247
+    Price: $64.95 USD
+  - [Red / L](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221860442)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-deep-red-luxe.webp?v=1765164247
+    Price: $64.95 USD
+  - [Red / XL](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221958746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-deep-red-luxe.webp?v=1765164247
+    Price: $64.95 USD
+  - [Red / 2XL](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221794906)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-deep-red-luxe.webp?v=1765164247
+    Price: $64.95 USD
+  - [Red / 3XL](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style?variant=42635221827674)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-double-breasted-wool-coat-deep-red-luxe.webp?v=1765164247
+    Price: $64.95 USD
+- [White Fur Trim Parka Luxurious Warmth & Weatherproof](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth): This white fur trim parka provides luxurious warmth and sophisticated style, perfect for winter. Stay cozy and chic; discover yours today!
+  Updated: 2025-12-08T03:59:29Z
+  Vendor: S1B|S1|CJ
+  Product Type: Jacket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-white-golden.webp?v=1765160667
+  - [All Black / L](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637652754522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-luxe-black.webp?v=1765160792
+    Price: $424.95 USD
+  - [All Black / M](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637652787290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-luxe-black.webp?v=1765160792
+    Price: $424.95 USD
+  - [All Black / S](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637652820058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-luxe-black.webp?v=1765160792
+    Price: $424.95 USD
+  - [All Black / XL](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637652852826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-luxe-black.webp?v=1765160792
+    Price: $424.95 USD
+  - [All Black / XS](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637652885594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-luxe-black.webp?v=1765160792
+    Price: $424.95 USD
+  - [All Black / XXL](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637652918362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-luxe-black.webp?v=1765160792
+    Price: $424.95 USD
+  - [All White / L](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637652951130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-all-white.webp?v=1765160667
+    Price: $424.95 USD
+  - [All White / M](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637652983898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-all-white.webp?v=1765160667
+    Price: $424.95 USD
+  - [All White / S](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653016666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-all-white.webp?v=1765160667
+    Price: $424.95 USD
+  - [All White / XL](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653049434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-all-white.webp?v=1765160667
+    Price: $424.95 USD
+  - [All White / XS](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653082202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-all-white.webp?v=1765160667
+    Price: $424.95 USD
+  - [All White / XXL](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653114970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-all-white.webp?v=1765160667
+    Price: $424.95 USD
+  - [Army Green Primary Color / L](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653147738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-army-natural.webp?v=1765161353
+    Price: $424.95 USD
+  - [Army Green Primary Color / M](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653180506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-army-natural.webp?v=1765161353
+    Price: $424.95 USD
+  - [Army Green Primary Color / S](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653213274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-army-natural.webp?v=1765161353
+    Price: $424.95 USD
+  - [Army Green Primary Color / XL](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653246042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-army-natural.webp?v=1765161353
+    Price: $424.95 USD
+  - [Army Green Primary Color / XS](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653278810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-army-natural.webp?v=1765161353
+    Price: $424.95 USD
+  - [Army Green Primary Color / XXL](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653311578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-army-natural.webp?v=1765161353
+    Price: $424.95 USD
+  - [Army Green Red Fox / L](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653344346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-army-golden.webp?v=1765160947
+    Price: $424.95 USD
+  - [Army Green Red Fox / M](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653377114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-army-golden.webp?v=1765160947
+    Price: $424.95 USD
+  - [Army Green Red Fox / S](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653409882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-army-golden.webp?v=1765160947
+    Price: $424.95 USD
+  - [Army Green Red Fox / XL](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653442650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-army-golden.webp?v=1765160947
+    Price: $424.95 USD
+  - [Army Green Red Fox / XS](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653475418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-army-golden.webp?v=1765160947
+    Price: $424.95 USD
+  - [Army Green Red Fox / XXL](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653508186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-army-golden.webp?v=1765160947
+    Price: $424.95 USD
+  - [Black Dark Coffee Spray Tip / L](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653540954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-dark-silver.webp?v=1765161276
+    Price: $424.95 USD
+  - [Black Dark Coffee Spray Tip / M](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653573722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-dark-silver.webp?v=1765161276
+    Price: $424.95 USD
+  - [Black Dark Coffee Spray Tip / S](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653606490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-dark-silver.webp?v=1765161276
+    Price: $424.95 USD
+  - [Black Dark Coffee Spray Tip / XL](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653639258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-dark-silver.webp?v=1765161276
+    Price: $424.95 USD
+  - [Black Dark Coffee Spray Tip / XS](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653672026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-dark-silver.webp?v=1765161276
+    Price: $424.95 USD
+  - [Black Dark Coffee Spray Tip / XXL](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653704794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-dark-silver.webp?v=1765161276
+    Price: $424.95 USD
+  - [Black Golden Edge Fox / L](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653737562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-natural-mix.webp?v=1765161109
+    Price: $424.95 USD
+  - [Black Golden Edge Fox / M](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653770330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-natural-mix.webp?v=1765161109
+    Price: $424.95 USD
+  - [Black Golden Edge Fox / S](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653803098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-natural-mix.webp?v=1765161109
+    Price: $424.95 USD
+  - [Black Golden Edge Fox / XL](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653835866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-natural-mix.webp?v=1765161109
+    Price: $424.95 USD
+  - [Black Golden Edge Fox / XS](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653868634)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-natural-mix.webp?v=1765161109
+    Price: $424.95 USD
+  - [Black Golden Edge Fox / XXL](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653901402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-natural-mix.webp?v=1765161109
+    Price: $424.95 USD
+  - [Black Primary Color / L](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653934170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-black-brown.webp?v=1765161353
+    Price: $424.95 USD
+  - [Black Primary Color / M](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653966938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-black-brown.webp?v=1765161353
+    Price: $424.95 USD
+  - [Black Primary Color / S](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637653999706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-black-brown.webp?v=1765161353
+    Price: $424.95 USD
+  - [Black Primary Color / XL](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637654032474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-black-brown.webp?v=1765161353
+    Price: $424.95 USD
+  - [Black Primary Color / XS](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637654065242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-black-brown.webp?v=1765161353
+    Price: $424.95 USD
+  - [Black Primary Color / XXL](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637654098010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-black-brown.webp?v=1765161353
+    Price: $424.95 USD
+  - [Black Red Fox / L](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637654130778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-black-golden.webp?v=1765160937
+    Price: $424.95 USD
+  - [Black Red Fox / M](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637654163546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-black-golden.webp?v=1765160937
+    Price: $424.95 USD
+  - [Black Red Fox / S](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637654196314)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-black-golden.webp?v=1765160937
+    Price: $424.95 USD
+  - [Black Red Fox / XL](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637654229082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-black-golden.webp?v=1765160937
+    Price: $424.95 USD
+  - [Black Red Fox / XS](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637654261850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-black-golden.webp?v=1765160937
+    Price: $424.95 USD
+  - [Black Red Fox / XXL](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637654294618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-black-golden.webp?v=1765160937
+    Price: $424.95 USD
+  - [Blue Gray Gray / L](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637654327386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-premium-grey.webp?v=1765160792
+    Price: $424.95 USD
+  - [Blue Gray Gray / M](https://ursupermart.com/products/white-fur-trim-parka-luxurious-warmth?variant=42637654360154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-premium-grey.webp?v=1765160792
+    Price: $424.95 USD
+- [Long Hooded Jacket for Cozy Warmth & Easy Style](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style): Find your perfect long hooded jacket, offering cozy warmth and effortless style for everyday comfort and versatile wear. Get yours today!
+  Updated: 2025-12-08T19:08:12Z
+  Vendor: S1B|S1|CJ
+  Product Type: Long hooded zip-up jacket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-multi-color-long-cozy.webp?v=1765165638
+  - [Black / S](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810139226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-black-long-fleece.webp?v=1765165638
+    Price: $42.95 USD
+  - [Black / M](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810106458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-black-long-fleece.webp?v=1765165638
+    Price: $42.95 USD
+  - [Black / L](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810073690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-black-long-fleece.webp?v=1765165638
+    Price: $42.95 USD
+  - [Black / XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810171994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-black-long-fleece.webp?v=1765165638
+    Price: $42.95 USD
+  - [Black / 2XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637809975386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-black-long-fleece.webp?v=1765165638
+    Price: $42.95 USD
+  - [Black / 3XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810008154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-black-long-fleece.webp?v=1765165638
+    Price: $42.95 USD
+  - [Black / 4XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637809680474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-black-long-fleece.webp?v=1765165638
+    Price: $42.95 USD
+  - [Black / 5XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810040922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-black-long-fleece.webp?v=1765165638
+    Price: $42.95 USD
+  - [Army Green / S](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637809909850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-army-green-relaxed.webp?v=1765165639
+    Price: $42.95 USD
+  - [Army Green / M](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637809877082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-army-green-relaxed.webp?v=1765165639
+    Price: $42.95 USD
+  - [Army Green / L](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637809844314)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-army-green-relaxed.webp?v=1765165639
+    Price: $42.95 USD
+  - [Army Green / XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637809942618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-army-green-relaxed.webp?v=1765165639
+    Price: $42.95 USD
+  - [Army Green / 2XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637809713242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-army-green-relaxed.webp?v=1765165639
+    Price: $42.95 USD
+  - [Army Green / 3XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637809746010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-army-green-relaxed.webp?v=1765165639
+    Price: $42.95 USD
+  - [Army Green / 4XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637809778778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-army-green-relaxed.webp?v=1765165639
+    Price: $42.95 USD
+  - [Army Green / 5XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637809811546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-army-green-relaxed.webp?v=1765165639
+    Price: $42.95 USD
+  - [Blue / S](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810663514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-blue-cozy-fleece.webp?v=1765165639
+    Price: $42.95 USD
+  - [Blue / M](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810630746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-blue-cozy-fleece.webp?v=1765165639
+    Price: $42.95 USD
+  - [Blue / L](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810597978)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-blue-cozy-fleece.webp?v=1765165639
+    Price: $42.95 USD
+  - [Blue / XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810696282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-blue-cozy-fleece.webp?v=1765165639
+    Price: $42.95 USD
+  - [Blue / 2XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810466906)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-blue-cozy-fleece.webp?v=1765165639
+    Price: $42.95 USD
+  - [Blue / 3XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810499674)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-blue-cozy-fleece.webp?v=1765165639
+    Price: $42.95 USD
+  - [Blue / 4XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810532442)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-blue-cozy-fleece.webp?v=1765165639
+    Price: $42.95 USD
+  - [Blue / 5XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810565210)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-blue-cozy-fleece.webp?v=1765165639
+    Price: $42.95 USD
+  - [Dark Grey / S](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810925658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-dark-grey-warm.webp?v=1765165638
+    Price: $42.95 USD
+  - [Dark Grey / M](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810892890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-dark-grey-warm.webp?v=1765165638
+    Price: $42.95 USD
+  - [Dark Grey / L](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810860122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-dark-grey-warm.webp?v=1765165638
+    Price: $42.95 USD
+  - [Dark Grey / XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810958426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-dark-grey-warm.webp?v=1765165638
+    Price: $42.95 USD
+  - [Dark Grey / 2XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810729050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-dark-grey-warm.webp?v=1765165638
+    Price: $42.95 USD
+  - [Dark Grey / 3XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810761818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-dark-grey-warm.webp?v=1765165638
+    Price: $42.95 USD
+  - [Dark Grey / 4XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810794586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-dark-grey-warm.webp?v=1765165638
+    Price: $42.95 USD
+  - [Dark Grey / 5XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810827354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-dark-grey-warm.webp?v=1765165638
+    Price: $42.95 USD
+  - [Dark Red / S](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637811187802)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-burgundy-soft-fleece.webp?v=1765165638
+    Price: $42.95 USD
+  - [Dark Red / M](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637811155034)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-burgundy-soft-fleece.webp?v=1765165638
+    Price: $42.95 USD
+  - [Dark Red / L](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637811122266)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-burgundy-soft-fleece.webp?v=1765165638
+    Price: $42.95 USD
+  - [Dark Red / XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637811220570)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-burgundy-soft-fleece.webp?v=1765165638
+    Price: $42.95 USD
+  - [Dark Red / 2XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637810991194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-burgundy-soft-fleece.webp?v=1765165638
+    Price: $42.95 USD
+  - [Dark Red / 3XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637811023962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-burgundy-soft-fleece.webp?v=1765165638
+    Price: $42.95 USD
+  - [Dark Red / 4XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637811056730)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-burgundy-soft-fleece.webp?v=1765165638
+    Price: $42.95 USD
+  - [Dark Red / 5XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637811089498)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-burgundy-soft-fleece.webp?v=1765165638
+    Price: $42.95 USD
+  - [Green / M](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637811286106)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-bright-green-classic.webp?v=1765165638
+    Price: $42.95 USD
+  - [Green / L](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637811253338)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-bright-green-classic.webp?v=1765165638
+    Price: $42.95 USD
+  - [Grey / S](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637811515482)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-light-grey-cozy.webp?v=1765165638
+    Price: $42.95 USD
+  - [Grey / M](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637811482714)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-light-grey-cozy.webp?v=1765165638
+    Price: $42.95 USD
+  - [Grey / L](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637811449946)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-light-grey-cozy.webp?v=1765165638
+    Price: $42.95 USD
+  - [Grey / XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637811548250)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-light-grey-cozy.webp?v=1765165638
+    Price: $42.95 USD
+  - [Grey / 2XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637811318874)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-light-grey-cozy.webp?v=1765165638
+    Price: $42.95 USD
+  - [Grey / 3XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637811351642)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-light-grey-cozy.webp?v=1765165638
+    Price: $42.95 USD
+  - [Grey / 4XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637811384410)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-light-grey-cozy.webp?v=1765165638
+    Price: $42.95 USD
+  - [Grey / 5XL](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style?variant=42637811417178)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-light-grey-cozy.webp?v=1765165638
+    Price: $42.95 USD
+- [Hands Free Neck Massager Deep Kneading Heat Relief](https://ursupermart.com/products/hands-free-neck-massager-deep-kneading-heat-relief): Hands free neck massager provides deep 4D kneading and soothing heat to melt away neck and shoulder tension. Experience relief and comfort; get yours today!
+  Updated: 2025-12-08T21:36:30Z
+  Vendor: S1B|S1|CJ
+  Product Type: neck massager
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/hands-free-neck-massager-premium-green-relief-strap.webp?v=1765229483
+  Price: $87.95 USD
+- [Muscle Relaxation Massager Multi-head Massage Gun Deep Tissue Body Fitness Muscle Electric Relax Massager For Back Shoulders Legs Foot 16 Heads](https://ursupermart.com/products/muscle-relaxation-massager-multi-head-massage-gun-deep-tissue-body-fitness-muscle-electric-relax-massager-for-back-shoulders-legs-foot-16-heads): Overview: Good material, High quality. 100% Brand New. Product information: Noise: 46-70db Color: Black 16 head, black 8 head, black 6 head Function: LED screen, multi-gear adjustment, intelligent power off, multi-gear frequency conversion Gear: above 5 gears Motor type: brushed motor Packing list: Massage gun *1+ data cable *1+ manual *1 Product Image:
+  Updated: 2025-12-08T21:38:17Z
+  Vendor: CJ
+  Product Type: 2.4G wireless mouse
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4432226f-028d-45e4-a75c-35da8ba9a0ba.jpg?v=1765229722
+  - [16 Heads](https://ursupermart.com/products/muscle-relaxation-massager-multi-head-massage-gun-deep-tissue-body-fitness-muscle-electric-relax-massager-for-back-shoulders-legs-foot-16-heads?variant=42641567481946)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/eb966c42-94bc-44a2-b55a-b5b0885e00e6_trans.jpg?v=1765229729
+    Price: $105.95 USD
+  - [6 Heads](https://ursupermart.com/products/muscle-relaxation-massager-multi-head-massage-gun-deep-tissue-body-fitness-muscle-electric-relax-massager-for-back-shoulders-legs-foot-16-heads?variant=42641567514714)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2bb1705e-14e0-4493-818b-944b4d2948bd_trans.jpg?v=1765229729
+    Price: $96.95 USD
+  - [8 Heads](https://ursupermart.com/products/muscle-relaxation-massager-multi-head-massage-gun-deep-tissue-body-fitness-muscle-electric-relax-massager-for-back-shoulders-legs-foot-16-heads?variant=42641567547482)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ae3d4862-f51b-4cf6-b7f6-9d2515893cfb_trans.jpg?v=1765229729
+    Price: $74.95 USD
 
 ## Collections
 
@@ -40584,16 +41164,16 @@
   Updated: 2025-11-19T02:51:11Z
   Total Products: 22
 - [Men's Fashion Accessories & Daily Essentials Collection](https://ursupermart.com/collections/mens-fashion): Shop men's watches, wallets, hoodies & accessories. Quality fashion pieces for everyday essentials. Free shipping, easy returns & great value pricing.
-  Updated: 2025-12-01T21:48:01Z
+  Updated: 2025-12-08T12:07:35Z
   Total Products: 24
 - [Top Phone Accessories for Style, Charging & Protection](https://ursupermart.com/collections/top-phone-accessories-best-charging-cables): Shop phone accessories that combine function, fashion, and value. Free shipping and 10% off your first order. Stay charged and stylish every day.
   Updated: 2025-12-06T17:02:23Z
   Total Products: 39
 - [Smart Home Devices That Make Life Easier 2025: Complete](https://ursupermart.com/collections/smart-home-devices-make-life-easier): Smart home devices that make daily tasks easier. Security cameras, smart lights & kitchen gadgets $9-45. Free shipping, 14-day returns, expert support today!
-  Updated: 2025-12-07T18:32:57Z
-  Total Products: 95
+  Updated: 2025-12-08T21:34:52Z
+  Total Products: 96
 - [Amazing Cozy Christmas Decor Deals Starting at Just $12](https://ursupermart.com/collections/cozy-christmas-decor-deals-under-30): Transform your home with cozy christmas decor deals under $30. Budget friendly holiday decorating solutions for Instagram-worthy spaces. Shop now!
-  Updated: 2025-12-07T12:07:24Z
+  Updated: 2025-12-08T12:07:35Z
   Total Products: 23
 - [LED Halloween Costumes & Masks | Spooky Accessories 2025](https://ursupermart.com/collections/spooky-wearable-tech-costumes): Shop LED Halloween costumes & masks that light up, move & make spooky sounds! Glow-in-the-dark Halloween accessories & decorations. Tech Halloween 2025!
   Updated: 2025-11-01T02:07:14Z
@@ -40605,13 +41185,13 @@
   Updated: 2025-12-01T23:19:23Z
   Total Products: 90
 - [Best Cyber Monday Deals Under 25 Tech Gifts & Free Shipping](https://ursupermart.com/collections/cyber-monday-deals-under-25): Discover cyber monday deals under 25 on quality tech gifts with free shipping today. Perfect holiday tech gifts under 25 that solve real problems for everyone.
-  Updated: 2025-12-07T12:07:24Z
+  Updated: 2025-12-08T12:07:35Z
   Total Products: 21
 - [Best Budget Tech Gifts Under $15: Viral TikTok Finds 2025](https://ursupermart.com/collections/tech-gifts-under-15-viral-tiktok): Shop 15 viral TikTok tech gifts under $15 that actually work. Budget wireless earbuds, phone accessories & trending gadgets. Free shipping. Limited stock!
   Updated: 2025-12-01T01:26:24Z
   Total Products: 87
 - [Secret Santa Gifts under $30: Unique Ideas That Won't Break the Bank](https://ursupermart.com/collections/christmas-gift-ideas-under-30): Christmas Gifts That Won't Break the Bank Discover the perfect Christmas gifts for everyone on your list without exceeding your budget! Our collection features a wide array of items, all priced under $30, making it easier than ever to find thoughtful gifts that won't strain your wallet. Whether you're shopping for friends, family, or co-workers, these budget-friendly options are ideal for Secret Santa gifts, stocking stuffers, and last-minute surprises. Plus, enjoy the added benefit of free shipping on all orders, ensuring that your holiday shopping is both convenient and cost-effective. Stocking Stuffers for Everyone Looking for stocking stuffers that are sure to delight? Our curated selection includes fun and practical items perfect for filling those stockings this holiday season. From stylish fashion accessories to quirky kitchen gadgets, there’s something for everyone. These unique gifts are not only affordable but also thoughtful, making them ideal for anyone from your office buddy to your favorite aunt. Explore our collection and find the perfect small treasures that will bring joy to your loved ones. Best Holiday Gift Ideas Under $30 Finding the best holiday gift ideas can be a challenge, especially when you're on a budget. Our collection is designed with this in mind, offering a variety of delightful options that cater to all tastes and interests. Choose from trendy women's clothing, sleek watches, or handy electronics that make great gifts for men and women alike. Each item is carefully selected to ensure quality and style while keeping prices low. This holiday season, impress your friends and family with thoughtful gifts that show you care without overspending. Christmas Gifts for Men and Women Searching for Christmas gifts for men or Christmas gifts for women? Look no further! Our diverse collection has something special for everyone. Whether you're shopping for a tech enthusiast who loves gadgets or a fashion-forward friend who appreciates stylish accessories, our range of products includes everything from phone cases to massagers. These gifts are perfect for all ages, making them suitable for friends, family members, or even co-workers participating in office gift exchanges. Stocking Stuffer Ideas That Shine When it comes to stocking stuffer ideas, creativity is key! Our collection features an assortment of small yet impactful gifts that are sure to impress. Consider fun toys, trendy glasses, or unique kitchen gadgets as delightful additions to any stocking. Each item is thoughtfully chosen to bring smiles without breaking the bank. These stocking stuffers are not just practical; they also add a touch of excitement to the holiday festivities. Secret Santa Gifts Everyone Will Love Participating in a Secret Santa exchange? Our selection of Secret Santa gifts is perfect for surprising your colleagues or friends with something unique and enjoyable. From stylish bags to charming Christmas ornaments, each gift is under $30 and designed to bring joy without the stress of overspending. Make your Secret Santa memorable with our thoughtful picks that cater to diverse tastes. Gift Ideas for Those Who Have Everything Struggling with what to buy for those who seem to have it all? Our collection includes gifts for men who have everything, offering practical yet fun items that they might not have thought to buy themselves. From innovative electronics to fashionable accessories, these unique finds will surely impress even the hardest-to-shop-for individuals on your list. Christmas Gifts for Mom That Show You Care Show your appreciation this holiday season with thoughtful Christmas gifts for mom. Our selection includes lovely fashion accessories and cozy items that she will cherish. Each gift is designed with love and care, ensuring that you can express how much she means to you without exceeding your budget. Celebrate her this Christmas with a gift that reflects her personality and style. Holiday Sales You Can't Miss Take advantage of our incredible holiday sales! With every item priced under $30 and free shipping included, you can shop confidently knowing you're getting the best deals this season. Don’t miss out on these fantastic offers—perfect for last-minute shoppers looking to spread some holiday cheer without spending too much. This holiday season, make your shopping experience enjoyable and stress-free with our extensive collection of budget-friendly gifts. Each item is selected not just for its affordability but also for its ability to bring joy and happiness during this festive time of year. Whether you're looking for stocking stuffers or meaningful presents, our collection has everything you need to make this Christmas unforgettable!
-  Updated: 2025-12-07T12:07:24Z
+  Updated: 2025-12-08T12:07:35Z
   Total Products: 30
 - [Viral Tech Gadgets Under $50 TikTok Users Are Buying Now](https://ursupermart.com/collections/viral-tech-gadgets-under-50): Shop viral tech gadgets under $50 trending on TikTok 2025. Power banks, gaming consoles & flashlights with free shipping. Limited holiday deals now!
   Updated: 2025-12-06T17:02:23Z
@@ -40653,7 +41233,7 @@
   Updated: 2025-10-01T23:31:57Z
   Total Products: 33
 - [Gift Ideas – Unique, Cool, and Affordable Picks](https://ursupermart.com/collections/gift-ideas): Explore Gift Ideas for every occasion. Find unique, cool, and affordable gifts for birthdays, holidays, and special moments, all in one place and free shipping.
-  Updated: 2025-12-07T12:07:24Z
+  Updated: 2025-12-08T12:07:35Z
   Total Products: 55
 - [Top Mens Watches 2025: Luxury Waterproof Sales Under $125!](https://ursupermart.com/collections/best-mens-watches-luxury-waterproof): Shop trending mens watches 2025! Best waterproof luxury watches and stylish watches for men $15-$125. Free shipping, hassle-free returns!
   Updated: 2025-12-05T17:23:30Z
@@ -40665,8 +41245,8 @@
   Updated: 2025-12-02T20:24:48Z
   Total Products: 12
 - [Shop Women's Winter Coats: Warm, Stylish & Budget-Friendly](https://ursupermart.com/collections/womens-winter-coats-affordable-2026): Find affordable women's winter coats, jackets & sweaters for work and weekend. Cozy styles under $150 with free shipping. Shop winter clothing deals now!
-  Updated: 2025-12-07T18:49:53Z
-  Total Products: 75
+  Updated: 2025-12-08T19:43:12Z
+  Total Products: 81
 - [Free Gifts for Everyone: Quality Jewelry Collection 2025](https://ursupermart.com/collections/free-gifts-for-everyone): Free gifts for everyone including chains, watches, rings and necklaces. Quality jewelry at zero cost for holiday gifting. Free shipping included.
   Updated: 2025-12-06T17:50:24Z
   Total Products: 91
