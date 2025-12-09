@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-08-09T08:00:51Z
 - Contact Email: team@saanjhcollectives.in
-- Updated At: 2025-12-08T00:00:23.241Z
+- Updated At: 2025-12-09T00:00:23.059Z
 
 ## Products
 
@@ -189,6 +189,9 @@
     Author: Saanjh Collectives
   - [Christmas Gifts India 2025 | Luxury Candles & Hampers - Saanjh](https://saanjhcollectives.in/blogs/news/best-christmas-gifts-india-candles-hampers): Christmas Gifts India 2025 | Luxury Candles & Hampers - Saanjh
     Updated: 2025-11-27T07:03:48Z
+    Author: Saanjh Collectives
+  - [Aromatherapy Benefits India | Natural Stress Relief - Saanjh](https://saanjhcollectives.in/blogs/news/aromatherapy-benefits-natural-stress-relief-india): <p>Explore the science-backed benefits of aromatherapy with Saanjh Collectives' luxury candles and essential oils. From stress relief to better sleep, discover how traditional Indian fragrances can transform your wellness routine. Natural healing starts here.</p>
+    Updated: 2025-12-08T04:30:06Z
     Author: Saanjh Collectives
 
 ## Store Pages
