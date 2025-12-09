@@ -6,7 +6,7 @@
 - Timezone: Asia/Dhaka
 - Created At: 2025-11-11T03:32:35Z
 - Contact Email: elevrafashion@gmail.com
-- Updated At: 2025-12-06T00:00:24.752Z
+- Updated At: 2025-12-09T00:00:24.958Z
 
 ## Products
 
@@ -8246,7 +8246,7 @@
     Image: https://cdn.shopify.com/s/files/1/0961/8001/1304/files/f1e05f65-4ada-4e92-9ad4-ddddf0d18951.jpg?v=1764057667
     Price: $75.19 USD
 - [womens denim vest women’s denim vest pants set](https://elevra.online/products/2pcs-casual-hollow-suit-with-short-sleeved-crop-top-and-elastic-slit-shorts-summer-fashion-sport-clothing-for-women): womens denim vest Stylish women’s denim vest top and wide-leg pants set with buttons and pockets—perfect for chic, modern, all-day fashion comfort.
-  Updated: 2025-12-04T04:30:40Z
+  Updated: 2025-12-08T02:28:17Z
   Vendor: null
   Product Type: 4
   Availability: Available
