@@ -5,8 +5,7 @@
 - Currency: RON
 - Timezone: Europe/Bucharest
 - Created At: 2024-10-10T13:12:01Z
-- Contact Email: contact@droneagricole.ro
-- Updated At: 2025-12-08T00:00:34.388Z
+- Updated At: 2025-12-09T18:29:19.796Z
 
 ## Products
 
@@ -1959,8 +1958,8 @@
   - [Răspundem întrebărilor primite de la fermieri: Interviu cu Mădălina- inginer agronom și expertă în drone agicole](https://droneagricole.ro/blogs/articole/raspundem-intrebarilor-primite-de-la-fermieri-interviu-cu-madalina-inginer-agronom-și-experta-in-drone-agicole-3)
     Updated: 2025-04-28T10:34:35Z
     Author: Tendo Studio
-  - [DJI Agras T50: De ce rămâne cea mai fiabilă alegere în fața modelului T100?](https://droneagricole.ro/blogs/articole/dji-agras-t50-de-ce-ramane-cea-mai-fiabila-alegere-in-fața-modelului-t100)
-    Updated: 2025-07-01T11:52:45Z
+  - [DJI Agras T50: De ce rămâne cea mai fiabilă alegere în fața modelului T100?](https://droneagricole.ro/blogs/articole/dji-agras-t50-de-ce-ramane-cea-mai-fiabila-alegere-in-fața-modelului-t100): <p>De obicei, nu ne grăbim să scriem despre produse care nu sunt lansate oficial sau nu sunt disponibile în România, însă în ultima perioadă am primit tot mai multe întrebări despre DJI Agras T100. Am căutat și noi la rândul nostru informații și ne-am documentat temeinic, pentru că înțelegem curiozitatea firească a celor care urmăresc evoluția dronelor agricole de ultimă generație.</p>
+    Updated: 2025-12-09T18:28:29Z
     Author: Tendo Studio
 
 ## Store Pages
