@@ -4,12 +4,12 @@
 
 - Contact Email: support@aurinwear.com
 - Address: Dallas, TX, USA
-- Updated At: 2025-12-08T00:00:20.793Z
+- Updated At: 2025-12-09T00:00:20.072Z
 
 ## Products
 
 - [Best Wishes Sweatshirt – Motivational Quote Unisex Premium Black Sweater](https://www.aurinwear.com/products/unisex-best-wishes-premium-printed-sweatshirt): Bring positivity wherever you go with our Unisex Best Wishes Premium Sweatshirt. Featuring a bold and colorful graphic design with vibrant purple, green, and yellow accents, this sweatshirt delivers an uplifting message perfect for daily wear, celebrations, or gifting. Its modern street-style aesthetic combined with a motivational theme makes it a standout piece for anyone who loves expressing good vibes through their wardrobe. Features: Soft and comfortable premium material Unisex fit suitable for all body types Durable, high-quality print that lasts Perfect for casual wear, gifting, and special occasions Available in multiple sizes 100% cotton face 65% cotton, 35% polyester Charcoal Heather option: 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-07T20:24:03Z
+  Updated: 2025-12-08T08:24:04Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -207,7 +207,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-6934a7a5d77ba.png?v=1765059636
     Price: $38.00 USD
 - [Unisex Eat Drink Be Thankful Fall Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-eat-drink-be-thankful-fall-premium-printed-sweatshirt): Celebrate the warmth of the season in style with our “Eat, Drink, and Be Thankful” Unisex Premium Sweatshirt. Featuring a bold vertical design with rich fall colors, this cozy crewneck captures the true spirit of gratitude, gathering, and good food. Perfect for Thanksgiving, Friendsgiving, fall festivals, or adding autumn vibes to your everyday wardrobe. Crafted with a 100% cotton face and a soft cotton-poly fleece blend, this sweatshirt delivers the perfect balance of durability and comfort. The tightly knit 3-end fleece, ribbed cuffs, and sturdy double-needle stitching make it a long-lasting favorite for chilly days. Its unisex fit pairs effortlessly with jeans, leggings, and casual fall outfits. Features Premium Fabric Blend: 100% cotton face 65% cotton, 35% polyester Charcoal Heather: 55% cotton, 45% polyester Medium-Heavy Weight: 8.5 oz/yd² (288.2 g/m²) for cozy autumn warmth Soft 3-End Fleece Interior for comfort Side-Seamed Construction for a clean, flattering fit Sturdy Rib Collar, Cuffs & Hem with double-needle stitching Stylish Self-Fabric Patch on the back Design: Vertical fall-tone bars reading Eat · Drink · and be · Thankful Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size.
-  Updated: 2025-12-07T20:27:33Z
+  Updated: 2025-12-08T01:05:04Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -405,7 +405,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-69357b591e980.png?v=1765113537
     Price: $38.00 USD
 - [Unisex Xmas Tree Retro Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-xmas-tree-retro-premium-printed-sweatshirt): Bring cheerful holiday vibes to your wardrobe with this Xmas Tree Retro Unisex Premium Sweatshirt. Featuring a playful grid of pixel-style Christmas trees in festive green tones and bold “XMAS TREE” lettering, this design is perfect for holiday parties, cozy winter days, or gifting to your favorite Christmas lover. Made with a 100% cotton face and a soft, durable cotton-poly blend, this sweatshirt offers warmth, comfort, and a modern streetwear fit. The tightly knit 3-end fleece, ribbed cuffs, and strong double-needle stitching ensure long-lasting wear through the entire holiday season. Features Premium Fabric: 100% cotton face 65% cotton, 35% polyester Charcoal Heather: 55% cotton, 45% polyester Mid-Heavy Fabric Weight: 8.5 oz/yd² (288.2 g/m²) Soft Interior: Tightly knit 3-end fleece for warmth Classic Build: Side-seamed construction for structure Durable Details: Double-needle stitched collar, cuffs & hem Premium Touch: Self-fabric patch on the back Design: Retro pixel Christmas trees with “XMAS TREE” text Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size.
-  Updated: 2025-12-07T20:27:40Z
+  Updated: 2025-12-08T01:29:20Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -603,7 +603,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693581073bb4f.png?v=1765114391
     Price: $38.00 USD
 - [Unisex Keep Going Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-keep-going-premium-printed-sweatshirt): Stay inspired no matter where life takes you with our Unisex Keep Going Motivational Quote Premium Sweatshirt. Designed with a bold red, white, and blue stacked text graphic, this sweatshirt delivers both style and encouragement. Perfect for anyone who loves motivational apparel, this cozy and uplifting piece keeps your mindset strong—whether you're at the gym, heading to work, studying, or relaxing at home. Crafted with premium materials and a unisex fit, it’s the ideal blend of comfort, durability, and positive energy. Features: Soft and comfortable premium material Unisex fit for everyday wear Durable motivational print that won't fade easily Available in multiple sizes Perfect inspirational gift for friends, family, or yourself 100% cotton face 65% cotton, 35% polyester Charcoal Heather is 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-07T20:27:36Z
+  Updated: 2025-12-08T01:45:51Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -801,7 +801,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-693584ecb1d6e.png?v=1765115738
     Price: $38.00 USD
 - [Unisex Work Hard Party Harder Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-work-hard-party-harder-premium-printed-sweatshirt): Celebrate the perfect balance of hustle and fun with our Unisex Work Hard Party Harder Premium Sweatshirt. Featuring bold and colorful dancing silhouettes on a sleek black background, this vibrant design captures the energy of motivation, celebration, and nightlife. Whether you're heading to a party, hanging out with friends, or simply expressing your fun-loving spirit, this sweatshirt offers the ideal blend of comfort, style, and personality. Made with premium materials and designed for everyday wear, it’s a standout piece for anyone who loves to work hard—and party even harder. Features Soft and comfortable premium material Unisex fit suitable for all body types Durable and vibrant print quality Perfect for parties, casual wear, or gifting Available in multiple sizes 100% cotton face 65% cotton, 35% polyester Charcoal Heather is 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-07T20:27:39Z
+  Updated: 2025-12-08T02:05:06Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -975,7 +975,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-6935896e90482.png?v=1765116843
     Price: $38.00 USD
 - [Unisex Let It Snow Winter Snowfall Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-let-it-snow-winter-snowfall-premium-printed-sweatshirt): Bring the magic of winter wherever you go with the Unisex Let It Snow Winter Snowfall Design Premium Sweatshirt. Featuring a charming snowfall graphic and the festive phrase “Let It Snow,” this cozy sweatshirt captures the joyful spirit of the holiday season. Perfect for winter outings, Christmas celebrations, holiday photos, or simply staying warm and stylish on cold days, this design adds a touch of seasonal cheer to any outfit. Features Soft and comfortable premium material Unisex fit for a relaxed and cozy feel Durable print quality for long-lasting wear Ideal for winter outfits, Christmas holidays, and festive gifting Available in multiple sizes 100% cotton face 65% cotton, 35% polyester Charcoal Heather: 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction for improved durability Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-07T20:27:37Z
+  Updated: 2025-12-08T04:05:52Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -1149,7 +1149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-bone-front-6935a5c072692.png?v=1765125995
     Price: $38.00 USD
 - [Unisex You’re My Person Heart Line Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-you-re-my-person-heart-line-premium-printed-sweatshirt): Celebrate love in its sweetest form with the Unisex You’re My Person Heart Line Romantic Quote Premium Sweatshirt. Designed with a minimalist heart-line illustration and the touching phrase “You’re My Person,” this sweatshirt captures deep connection, loyalty, and affection. Whether you're gifting it to a partner, spouse, best friend, or someone who holds a special place in your heart, this cozy and stylish sweatshirt delivers warmth, comfort, and meaningful sentiment in one perfect piece. Features Soft and comfortable premium material Unisex fit ideal for all body types High-quality, long-lasting print Perfect for couples, anniversaries, Valentine’s Day, and heartfelt gifts Available in multiple sizes 100% cotton face 65% cotton, 35% polyester Charcoal Heather: 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction for added durability Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-07T20:27:42Z
+  Updated: 2025-12-08T04:08:29Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -1299,7 +1299,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-carbon-grey-front-6935a663382d3.png?v=1765125331
     Price: $38.00 USD
 - [Unisex Yoga Dancer Pose Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-yoga-dancer-pose-premium-printed-sweatshirt): Embrace your love for mindfulness, flexibility, and inner balance with this Unisex Yoga Dancer Pose Minimalist Design Premium Sweatshirt. Featuring a modern silhouette of a yoga dancer pose against soft abstract shapes, this sweatshirt blends artistic style with the calming essence of yoga. Perfect for yoga enthusiasts, wellness lovers, and anyone who appreciates minimalist aesthetic apparel, this cozy sweatshirt delivers both comfort and inspiration for practice, relaxation, or everyday wear. Features Soft and comfortable premium material Unisex fit suitable for all body types Durable, high-quality print design Perfect for yoga lovers, fitness fans, and wellness gift ideas Available in multiple sizes 100% cotton face 65% cotton, 35% polyester Charcoal Heather: 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece for lasting warmth Side-seamed construction for improved durability Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-07T20:27:41Z
+  Updated: 2025-12-08T04:13:05Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -1497,7 +1497,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-6935a776047ae.png?v=1765125065
     Price: $38.00 USD
 - [Unisex Geometric Christmas Pattern Holiday Premium Sweatshirt | Festive Ugly Xmas Sweater Style](https://www.aurinwear.com/products/unisex-geometric-christmas-pattern-premium-printed-sweatshirt): Bring festive charm to your winter wardrobe with our Unisex Geometric Christmas Pattern Premium Sweatshirt. Featuring a bold red and green pixel-style design inspired by classic ugly Christmas sweaters, this piece blends cozy holiday spirit with a modern geometric aesthetic. Perfect for Christmas parties, winter outings, gift-giving, or simply enjoying the season in comfort and style, this premium sweatshirt offers warmth, softness, and long-lasting print quality. A must-have for anyone who loves unique holiday apparel and minimalist Christmas-themed fashion. Features: Soft and comfortable premium material Unisex fit suitable for all genders Durable, high-quality print that lasts Perfect for Christmas, winter outfits, and holiday gifting Available in multiple sizes 100% cotton face 65% cotton, 35% polyester Charcoal Heather is 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction for a structured fit Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
-  Updated: 2025-12-07T20:27:35Z
+  Updated: 2025-12-08T06:56:34Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -1671,7 +1671,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-front-6935cdbce0636.png?v=1765134902
     Price: $38.00 USD
 - [Unisex Santa’s Helper Christmas Raglan Printed Sweatshirt](https://www.aurinwear.com/products/unisex-santa-s-helper-christmas-raglan-printed-sweatshirt): Celebrate the magic of the holiday season with our Unisex Santa’s Helper Christmas Graphic Premium Sweatshirt. Featuring a charming Santa face illustration and festive typography, this cozy sweatshirt captures the joyful spirit of Christmas. Designed for comfort, style, and seasonal cheer, it’s the perfect holiday outfit for parties, family gatherings, Christmas photos, or thoughtful gift-giving. Made with premium eco-friendly materials and a soft brushed fleece interior, this Santa's Helper sweatshirt delivers warmth, durability, and timeless festive charm. Features: Soft and comfortable premium material Unisex fit suitable for all Durable print quality with festive Santa graphic Cozy brushed fleece lining for extra warmth Available in multiple sizes Side-seamed construction for better durability Raglan sleeves for a classic, relaxed look 2 × 2 ribbed cuffs, collar, and hem Eco-friendly and breathable fabric blend Fabric Details: 100% organic cotton exterior Charcoal Melange exterior: 60% organic cotton, 40% recycled polyester 80% organic cotton, 20% recycled polyester interior 97% organic cotton, 3% elastane ribs Fabric weight: 8.3 oz/yd² (280 g/m²) Charcoal Melange fabric weight: 10.3 oz/yd² (348 g/m²) Side-seamed construction Neck tape for added comfort Brushed fleece interior
-  Updated: 2025-12-07T20:27:38Z
+  Updated: 2025-12-08T07:33:55Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -1813,7 +1813,7 @@
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-organic-raglan-sweatshirt-charcoal-melange-front-6935d681d8929.png?v=1765137030
     Price: $38.50 USD
 - [Unisex Focus Motivational Quote Raglan Printed Sweatshirt](https://www.aurinwear.com/products/unisex-focus-motivational-quote-raglan-printed-sweatshirt): Stay inspired and driven every day with our Unisex Focus Motivational Quote Premium Printed Sweatshirt. Designed with a bold retro-style "FOCUS" graphic on a sleek black backdrop, this sweatshirt is perfect for anyone who values productivity, mental clarity, and personal growth. Whether you're studying, working, creating, or simply embracing a positive mindset, this cozy and stylish sweatshirt keeps your motivation front and center. Features Soft and comfortable premium material Unisex fit for all-day comfort Durable, high-quality print design Perfect for students, entrepreneurs, gym-goers, and creatives Available in multiple sizes 100% organic cotton exterior Charcoal Melange exterior: 60% organic cotton, 40% recycled polyester 80% organic cotton, 20% recycled polyester interior 97% organic cotton, 3% elastane ribs Fabric weight: 8.3 oz/yd² (280 g/m²) Fabric weight for Charcoal Melange: 10.3 oz/yd² (348 g/m²) Side-seamed construction Raglan sleeves for a relaxed fit Neck tape for added comfort Brushed fleece lining for warmth 2 × 2 ribbed cuffs, collar, and hem
-  Updated: 2025-12-07T20:27:34Z
+  Updated: 2025-12-08T08:05:37Z
   Vendor: Aurin Wear
   Product Type: Sweatshirts for Men's & Women's
   Availability: Available
@@ -1982,6 +1982,258 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-organic-raglan-sweatshirt-white-front-6935ddefac9c2.png?v=1765138366
     Price: $41.50 USD
+- [Unisex Pride Rainbow Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-premium-sweatshirt): Celebrate love, identity, and equality with our Unisex Pride Rainbow Typography Premium Printed Sweatshirt. Featuring a bold and vibrant rainbow “PRIDE” design, this sweatshirt is perfect for anyone who wants to express support for the LGBTQ community in a stylish and meaningful way. The minimalist geometric typography adds a modern touch, making it ideal for everyday wear, Pride events, or as a heartfelt gift for someone special. Crafted with premium materials, it offers incredible comfort, durability, and a unisex fit that looks great on everyone. Features Soft and comfortable premium material Unisex fit suitable for all genders High-quality, durable print Perfect for Pride events, casual wear, or gifting Available in multiple sizes 100% cotton face 65% cotton, 35% polyester Charcoal Heather: 55% cotton, 45% polyester Fabric weight: 8.5 oz/yd² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
+  Updated: 2025-12-08T22:22:03Z
+  Vendor: Aurin Wear
+  Product Type: Sweatshirts for Men's & Women's
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-6936ff140ef27.png?v=1765212922
+  - [Black / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998801846422)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765212922
+    Price: $33.50 USD
+  - [Black / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998801879190)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765212922
+    Price: $33.50 USD
+  - [Black / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998801911958)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765212922
+    Price: $33.50 USD
+  - [Black / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998801944726)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765212922
+    Price: $33.50 USD
+  - [Black / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998801977494)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765212922
+    Price: $35.50 USD
+  - [Black / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802010262)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-right-front-6936ff140fa34.png?v=1765212922
+    Price: $38.00 USD
+  - [Team Royal / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802239638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765232522
+    Price: $33.50 USD
+  - [Team Royal / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802272406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765232522
+    Price: $33.50 USD
+  - [Team Royal / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802305174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765232522
+    Price: $33.50 USD
+  - [Team Royal / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802337942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765232522
+    Price: $33.50 USD
+  - [Team Royal / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802370710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765232522
+    Price: $35.50 USD
+  - [Team Royal / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802403478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-right-front-6936ff141e38d.png?v=1765232522
+    Price: $38.00 USD
+  - [Forest Green / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802436246)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765232522
+    Price: $33.50 USD
+  - [Forest Green / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802469014)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765232522
+    Price: $33.50 USD
+  - [Forest Green / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802501782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765232522
+    Price: $33.50 USD
+  - [Forest Green / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802534550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765232522
+    Price: $33.50 USD
+  - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802567318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765232522
+    Price: $35.50 USD
+  - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802600086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-right-front-6936ff142b05f.png?v=1765232522
+    Price: $38.00 USD
+  - [Team Red / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802632854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765232522
+    Price: $33.50 USD
+  - [Team Red / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802665622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765232522
+    Price: $33.50 USD
+  - [Team Red / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802698390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765232522
+    Price: $33.50 USD
+  - [Team Red / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802731158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765232522
+    Price: $33.50 USD
+  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802763926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765232522
+    Price: $35.50 USD
+  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802796694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-right-front-6936ff143f348.png?v=1765232522
+    Price: $38.00 USD
+  - [White / S](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802829462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765232522
+    Price: $33.50 USD
+  - [White / M](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802862230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765232522
+    Price: $33.50 USD
+  - [White / L](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802894998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765232522
+    Price: $33.50 USD
+  - [White / XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802927766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765232522
+    Price: $33.50 USD
+  - [White / 2XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802960534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765232522
+    Price: $35.50 USD
+  - [White / 3XL](https://www.aurinwear.com/products/unisex-premium-sweatshirt?variant=45998802993302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-white-right-front-6936ff14075b0.png?v=1765232522
+    Price: $38.00 USD
+- [Unisex Hold My Crown Premium Printed Sweatshirt](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt): Celebrate pride, confidence, and bold self-expression with our Unisex Pride Rainbow Hold My Crown Premium Printed Sweatshirt. Featuring a powerful crown graphic and pride-inspired design, this sweatshirt blends style with comfort, making it the perfect choice for LGBTQ celebrations, everyday wear, or gifting. The soft fleece fabric and durable print ensure long-lasting quality, while the unisex fit flatters all body types. Show your pride in comfort and confidence! Features Soft and comfortable premium material Unisex fit suitable for all genders Vibrant and durable rainbow print quality Perfect for Pride Month, LGBTQ events, or casual wear Available in multiple sizes Front print placement Ideal as a meaningful LGBTQ pride gift Fabric Details 100% cotton face 65% cotton, 35% polyester Charcoal Heather: 55% cotton, 45% polyester Fabric weight: 8.5 oz/y² (288.2 g/m²) Tightly knit 3-end fleece Side-seamed construction Self-fabric patch on the back Double-needle stitched rib collar, cuffs, and hem
+  Updated: 2025-12-08T17:42:52Z
+  Vendor: Aurin Wear
+  Product Type: Sweatshirts for Men's & Women's
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765214121
+  - [Black / S](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831468694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765214121
+    Price: $33.50 USD
+  - [Black / M](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831501462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765214121
+    Price: $33.50 USD
+  - [Black / L](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831534230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765214121
+    Price: $33.50 USD
+  - [Black / XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831566998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765214121
+    Price: $33.50 USD
+  - [Black / 2XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831599766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765214121
+    Price: $35.50 USD
+  - [Black / 3XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831632534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-black-front-69370791e1350.png?v=1765214121
+    Price: $38.00 USD
+  - [Charcoal Heather / S](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831665302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765215241
+    Price: $33.50 USD
+  - [Charcoal Heather / M](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831698070)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765215241
+    Price: $33.50 USD
+  - [Charcoal Heather / L](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831730838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765215241
+    Price: $33.50 USD
+  - [Charcoal Heather / XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831763606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765215241
+    Price: $33.50 USD
+  - [Charcoal Heather / 2XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831796374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765215241
+    Price: $35.50 USD
+  - [Charcoal Heather / 3XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831829142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-charcoal-heather-front-69370791e801e.png?v=1765215241
+    Price: $38.00 USD
+  - [Team Royal / S](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831861910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-69370791f17fb.png?v=1765215241
+    Price: $33.50 USD
+  - [Team Royal / M](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831894678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-69370791f17fb.png?v=1765215241
+    Price: $33.50 USD
+  - [Team Royal / L](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831927446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-69370791f17fb.png?v=1765215241
+    Price: $33.50 USD
+  - [Team Royal / XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831960214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-69370791f17fb.png?v=1765215241
+    Price: $33.50 USD
+  - [Team Royal / 2XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998831992982)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-69370791f17fb.png?v=1765215241
+    Price: $35.50 USD
+  - [Team Royal / 3XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998832025750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-royal-front-69370791f17fb.png?v=1765215241
+    Price: $38.00 USD
+  - [Forest Green / S](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998832058518)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693707920d720.png?v=1765215241
+    Price: $33.50 USD
+  - [Forest Green / M](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998832091286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693707920d720.png?v=1765215241
+    Price: $33.50 USD
+  - [Forest Green / L](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998832124054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693707920d720.png?v=1765215241
+    Price: $33.50 USD
+  - [Forest Green / XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998832156822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693707920d720.png?v=1765215241
+    Price: $33.50 USD
+  - [Forest Green / 2XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998832189590)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693707920d720.png?v=1765215241
+    Price: $35.50 USD
+  - [Forest Green / 3XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998832222358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-forest-green-front-693707920d720.png?v=1765215241
+    Price: $38.00 USD
+  - [Team Red / S](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998832255126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693707921f5cb.png?v=1765215241
+    Price: $33.50 USD
+  - [Team Red / M](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998832287894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693707921f5cb.png?v=1765215241
+    Price: $33.50 USD
+  - [Team Red / L](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998832320662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693707921f5cb.png?v=1765215241
+    Price: $33.50 USD
+  - [Team Red / XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998832353430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693707921f5cb.png?v=1765215241
+    Price: $33.50 USD
+  - [Team Red / 2XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998832386198)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693707921f5cb.png?v=1765215241
+    Price: $35.50 USD
+  - [Team Red / 3XL](https://www.aurinwear.com/products/unisex-hold-my-crown-premium-printed-sweatshirt?variant=45998832418966)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0697/3086/1206/files/unisex-premium-sweatshirt-team-red-front-693707921f5cb.png?v=1765215241
+    Price: $38.00 USD
 
 ## Collections
 
@@ -2016,8 +2268,8 @@
   Updated: 2025-12-07T20:55:04Z
   Total Products: 0
 - [Aurin Wear Collection | Premium Stylish Clothing for Every Day](https://www.aurinwear.com/collections/all): Explore the Aurin Wear Collection featuring premium-quality, stylish, and comfortable apparel made for modern lifestyles. Shop trendy essentials, everyday favorites, and fashion pieces designed to elevate your style effortlessly.
-  Updated: 2025-12-07T20:24:04Z
-  Total Products: 11
+  Updated: 2025-12-08T17:21:05Z
+  Total Products: 13
 - [Best Selling Apparel | Top Streetwear & Trending Designs](https://www.aurinwear.com/collections/best-selling-aurin-wear-t-shirts-hoodies-sweatshirts): Shop our best-selling hoodies, shirts, and graphic apparel. Unisex styles inspired by streetwear, anime, and pet-lover designs. Explore top picks now.
   Updated: 2025-12-07T20:43:44Z
   Total Products: 1
@@ -2025,8 +2277,8 @@
   Updated: 2025-12-07T20:42:17Z
   Total Products: 8
 - [Streetwear Shirts & Hoodies | Trendy Urban Graphic Apparel](https://www.aurinwear.com/collections/streetwear-shirts-hoodies): Shop trendy streetwear shirts and hoodies with bold graphics, modern fits, and unique designs. Perfect for everyday urban style. Explore new drops now.
-  Updated: 2025-12-07T21:12:58Z
-  Total Products: 11
+  Updated: 2025-12-08T17:21:34Z
+  Total Products: 13
 
 ## Policies
 
