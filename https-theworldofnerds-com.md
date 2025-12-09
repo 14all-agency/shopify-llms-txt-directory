@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-12-08T13:17:35.002Z
+- Updated At: 2025-12-09T00:00:50.012Z
 
 ## Products
 
@@ -263,7 +263,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/546_1.jpg?v=1723379554
   Price: ₹589.00 INR
 - [ITACHI UCHIHA BOBBLEHEAD](https://theworldofnerds.com/products/itachi-uchiha-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. Elevate your decor and keep your mobile device handy with this whimsical and practical accessory.
-  Updated: 2025-12-08T13:00:31Z
+  Updated: 2025-12-08T18:21:00Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1313,7 +1313,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/654.jpg?v=1729958889
   Price: ₹149.00 INR
 - [TONY TONY CHOPPER KEYCHAIN](https://theworldofnerds.com/products/tony-tony-chopper-keychain-1): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-11-29T09:47:22Z
+  Updated: 2025-12-08T16:01:30Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1558,7 +1558,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03910.jpg?v=1730033923
   Price: ₹399.00 INR
 - [ZINETSU Q POSKET](https://theworldofnerds.com/products/zinetsu-q-posket): Discover the enchanting world of Q Poskets, where charm meets artistry! These collectible figures feature a delightful range of beloved characters from anime, movies, and more, each meticulously designed with oversized heads and whimsical expressions. Perfect for fans and collectors alike, Q Poskets bring your favorite characters to life in a unique, stylized form. Key Features: Unique stylized designs High-quality craftsmanship Wide variety of characters Ideal for collectors and fans Start your Q Poskets collection today and celebrate your favorite characters in a whole new way!
-  Updated: 2025-12-05T05:34:01Z
+  Updated: 2025-12-08T15:42:00Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5261,10 +5261,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC06137copy.jpg?v=1740056398
   Price: ₹399.00 INR
 - [RENGOKU Q POSKET](https://theworldofnerds.com/products/rengoku-q-posket): Introducing RENGOKU Q POSKET - the perfect solution for efficient and accurate point-of-sale transactions. With its advanced features, this product guarantees an increase in productivity and a decrease in errors. Boost your business and streamline your customer experience with RENGOKU Q POSKET.
-  Updated: 2025-09-20T17:09:45Z
+  Updated: 2025-12-08T13:40:15Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC06125copy.jpg?v=1740056456
   Price: ₹399.00 INR
 - [BELLE BEAUTY Q POSKET](https://theworldofnerds.com/products/belle-beauty-q-posket): Introducing the BELLE BEAUTY Q POSKET, a beauty essential for every makeup lover. This versatile and compact product features a sleek design, perfect for on-the-go touch-ups. With high-quality materials and precision-made, this is a must-have for any beauty expert.
@@ -7627,7 +7627,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_511fd054-5945-430c-a4c2-56cc7687b347.jpg?v=1751881057
   Price: ₹329.00 INR
 - [The Joker Hanging Upside Down  Chaos in Miniature](https://theworldofnerds.com/products/the-joker-hanging-upside-down-chaos-in-miniature): “A stormy Gotham night, city lights flicker—and there he is. Joker, approx. 5cm tall, hanging upside down by a black cord, swaying slightly like the calm before chaos. Against a vivid orange backdrop, this detailed figure brings edgy energy and dark charisma to your car, desk, or collector’s shelf—perfect for DC fans who live for a bit of madness.”
-  Updated: 2025-12-08T03:11:30Z
+  Updated: 2025-12-08T17:19:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7935,7 +7935,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_f829a1d1-c311-4158-aaf3-477d0f048d65.jpg?v=1751953092
   Price: ₹299.00 INR
 - [Deadpool Chill Mode Figurine](https://theworldofnerds.com/products/deadpool-chill-mode-figurine): Set against a striking red background, this compact Deadpool figure—about 8 cm long and 5 cm tall—reclines in classic “too cool to care” style. One hand casually supports him while the other throws a bold thumbs-up, adding his signature mix of sass and confidence. The moment feels playful yet smug, like he's just wrapped up a wild adventure and decided to take five. It’s equal parts comedy, charisma, and chaos—just like the merc himself. A fun collectible that brings personality to any shelf or workspace.
-  Updated: 2025-10-18T14:59:35Z
+  Updated: 2025-12-08T18:42:20Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7963,14 +7963,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_4b2d7ef3-905b-460b-94a4-6a6919fdfcc8.jpg?v=1751953639
   Price: ₹179.00 INR
 - [Deadpool Lying Pose – Hero on Break](https://theworldofnerds.com/products/deadpool-lying-pose-hero-on-break): Lying flat with his arms folded and chin resting, this approximately 8 cm Deadpool figurine looks oddly peaceful—like a mischievous warrior caught in a quiet moment. Framed by the same deep red as his suit, he stares upward with wide eyes, plotting his next move—or his next joke. It’s a playful yet introspective scene, mixing calmness with a hint of sarcasm, just like the character himself. Whether he's watching the clouds or silently judging the room, this mini collectible brings a quirky stillness that fans of the merc will absolutely love.
-  Updated: 2025-12-05T17:25:58Z
+  Updated: 2025-12-08T18:42:21Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_6e0122d8-4a60-41e8-bbed-820aadb42fe9.jpg?v=1751953712
   Price: ₹179.00 INR
 - [Bold Deadpool Figurine Holding Funny Sign](https://theworldofnerds.com/products/bold-deadpool-figurine-holding-funny-sign): In classic Deadpool fashion, this 10 cm figurine throws subtlety out the window. Standing with one foot cocked and sign in hand, he delivers a message that’s anything but polite—yet undeniably hilarious. The fiery red backdrop turns the moment into a theatrical spotlight, as if he's performing on his own sarcastic stage. With his tilted head and that smug body language, you can almost hear the imaginary mic drop. It’s bold, cheeky, and pure Deadpool—perfect for fans who like their collectibles with a side of attitude and zero filter.
-  Updated: 2025-12-05T17:25:58Z
+  Updated: 2025-12-08T18:42:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10140,7 +10140,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5740d3f7-9e00-4fb5-890e-1dc3eb1f6438.jpg?v=1764760561
   Price: ₹1,103.00 INR
 - [Demon slayer Bundle](https://theworldofnerds.com/products/demon-slayer-bundle): 🔥 Demon Slayer Chibi Figure Bundle – 6-Piece Collector Set Bring the world of Demon Slayer: Kimetsu no Yaiba to life with this 6-Piece Chibi Figure Bundle! Each figure features super-cute chibi styling, detailed sculpting, vibrant anime-accurate colors, and sturdy display bases. Perfect for desks, shelves, workspaces, and gifting to anime fans of all ages. ✨ Bundle Includes: Rengoku Kyojuro – Flame Hashira Edition Giyu Tomioka – Water Hashira Edition Inosuke Hashibira – Beast Breathing Edition Zenitsu Agatsuma – Thunder Breathing Edition Tanjiro Kamado – Water Breathing Edition Nezuko Kamado – Demon Form Chibi Edition 🔥 A must-have collectible set for every Demon Slayer fan — adorable, detailed, and perfect for display or gifting!
-  Updated: 2025-12-07T12:29:35Z
+  Updated: 2025-12-08T15:42:05Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Not Available
@@ -10182,7 +10182,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/001_02a8f6fc-eb0c-44cf-ab5d-d627babb9745.jpg?v=1764761939
   Price: ₹759.00 INR
 - [Naruto Bobblehead Bundle](https://theworldofnerds.com/products/naruto-bobblehead-1): 🍥 Naruto Chibi Bobblehead Bundle – 3-Piece Ninja Collector Set Bring the world of Naruto Shippuden to life with this 3-Piece Naruto Chibi Bobblehead Bundle! Each figure features adorable chibi styling, expressive faces, detailed paintwork, and a sturdy “NARUTO” display base. Perfect for desks, car dashboards, shelves, and gifting — these mini ninjas add fun, energy, and nostalgia to any space. ✨ Bundle Includes: Naruto Uzumaki – Orange Jumpsuit Bobble Edition Kakashi Hatake – Anbu Sensei Bobble Edition Itachi Uchiha – Akatsuki Sharingan Bobble Edition 🔥 A must-have collectible set for every Naruto fan — cute, iconic, and perfect for display or gifting!
-  Updated: 2025-12-08T13:00:35Z
+  Updated: 2025-12-08T18:21:05Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10322,14 +10322,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/shinchan00.jpg?v=1764678601
   Price: ₹1,584.00 INR
 - [Random Keychain](https://theworldofnerds.com/products/free-keychain)
-  Updated: 2025-12-08T11:43:25Z
+  Updated: 2025-12-08T23:26:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/RANDOM2_dd177907-0e47-4a41-a98d-e30077f80255.png?v=1765193982
   Price: ₹399.00 INR
 - [Random Action Figure](https://theworldofnerds.com/products/free-action-figure-random)
-  Updated: 2025-12-08T11:43:50Z
+  Updated: 2025-12-08T23:38:25Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
