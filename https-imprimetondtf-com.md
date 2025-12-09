@@ -6,30 +6,16 @@
 - Timezone: Europe/Paris
 - Created At: 2024-07-02T07:44:00Z
 - Contact Email: contact@imprimetondtf.com
-- Updated At: 2025-12-08T00:00:24.554Z
+- Updated At: 2025-12-09T00:00:26.554Z
 
 ## Products
 
-- [Je Crée mes Planches DTF A3/A4 - Personnalisation Facile](https://imprimetondtf.com/products/je-cree-ma-planche): Créez vos planches DTF A3 et A4 avec notre module innovant. Simple à utiliser, idéal pour des impressions personnalisées de haute qualité sur textiles et accessoires. Lancez vos projets créatifs dès aujourd'hui !
-  Updated: 2025-11-17T10:27:14Z
-  Vendor: Imprime Ton DTF
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/7_67aeb3c5-4c60-49c5-aa12-cc4dc8f2c778_1.webp?v=1751031078
-  - [A4 (21x28cm)](https://imprimetondtf.com/products/je-cree-ma-planche?variant=49198792180053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/7_67aeb3c5-4c60-49c5-aa12-cc4dc8f2c778_1.webp?v=1751031078
-    Price: 4,00 € EUR
-  - [A3 (28x42cm)](https://imprimetondtf.com/products/je-cree-ma-planche?variant=49198808072533)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/A3_1.webp?v=1751031078
-    Price: 6,50 € EUR
 - [Impression DTF A3 – Envoie ta planche prête | Imprime Ton DTF](https://imprimetondtf.com/products/impression-dtf-a3): Imprimez votre fichier DTF prêt en format A3 : couleurs vives, haute qualité et adhérence durable. Idéal pour textiles, logos et petites séries.
-  Updated: 2025-12-05T07:32:27Z
+  Updated: 2025-12-08T22:09:41Z
   Vendor: Imprime Ton DTF
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/A3_1.webp?v=1751031078
+  Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/Planche_DTF_A3_prete_a_imprimer_impression_DTF_haute_qualite.png?v=1765188575
   Price: 6,50 € EUR
 - [Presse à Chaud Manuelle pour Casquettes TMH 17-17D](https://imprimetondtf.com/products/tmh-17-17d): La Presse à chaud manuelle TMH 17-17D est idéale pour les casquettes. Elle offre une précision exceptionnelle pour des transferts de design impeccables et une utilisation facile. Parfaite pour des résultats professionnels et une production rapide de casquettes personnalisées.
   Updated: 2025-08-16T19:35:57Z
@@ -120,11 +106,11 @@
     Availability: Available
     Price: 254,20 € EUR
 - [Impression DTF au mètre – Envoie ta planche prête | Imprime Ton DTF](https://imprimetondtf.com/products/impression-dtf-au-metre): Imprimez vos fichiers DTF prêts à l’emploi au mètre : couleurs vives, haute qualité et livraison rapide. Idéal pour textiles et grandes séries.
-  Updated: 2025-12-05T10:44:43Z
+  Updated: 2025-12-08T22:09:23Z
   Vendor: Imprime Ton DTF
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/Metre_1_63a85d6e-1cb4-4e8b-86e9-80573a249872.webp?v=1751029751
+  Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/Planche_DTF_prete_a_imprimer_pour_impression_textile_au_metre.png?v=1765188558
   Price: 19,90 € EUR
 - [Forfait DTF 100 mètres – Prioritaire & prépayé | Imprime Ton DTF](https://imprimetondtf.com/products/forfait-dtf-100-metres): Forfait DTF 100 m : paiement unique, priorité de production et commandes via lien unique. Commandez en mètres linéaires à votre rythme pendant 12 mois.
   Updated: 2025-11-18T10:38:57Z
@@ -196,46 +182,60 @@
     Availability: Available
     Price: 890,00 € EUR
 - [Éditeur DTF UV en ligne – Planche A2/A3 objets | Imprime Ton DTF](https://imprimetondtf.com/products/createur-planche-dtf-uv): Crée ta planche DTF UV A2 ou A3 en ligne : placement auto, outils gratuits et fichier prêt à imprimer. Se colle à la main sur objets comme un sticker.
-  Updated: 2025-12-05T13:42:56Z
+  Updated: 2025-12-08T22:03:53Z
   Vendor: Imprime Ton DTF
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/P_e2974031-8063-488c-ae80-ed4490ec5231.webp?v=1751030054
+  Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/Editeur_DTF_UV_en_ligne_creation_de_planche_A4_A3_pour_objets_5df82d7b-2d0e-4c0a-8b35-4091b6c8cbce.png?v=1765188228
   - [A3 (28x42cm)](https://imprimetondtf.com/products/createur-planche-dtf-uv?variant=50134330147157)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/3_15630323-8e87-4e1f-b152-d28b0f6be5b1_1.webp?v=1751030054
+    Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/Envoie_ta_planche_DTF_UV_prete_-_A3_Objet_-_Imprime_Ton_DTF_f5c296f9-f852-4e03-b9f5-988245d5cae1.png?v=1765201203
     Price: 6,99 € EUR
   - [A2 (42x55cm)](https://imprimetondtf.com/products/createur-planche-dtf-uv?variant=50134330114389)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/A2_DTFUV.jpg?v=1764942074
+    Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/Envoie_ta_planche_DTF_UV_prete_-_A2_Objet_-_Imprime_Ton_DTF_8202f962-22b5-4dd5-b206-131fe49b1db0.png?v=1765188228
     Price: 13,50 € EUR
+- [DTF UV A3 – Envoie ta planche prête pour objets | Imprime Ton DTF](https://imprimetondtf.com/products/impression-dtf-uv-a3): Envoyez votre planche DTF UV A3 prête à imprimer. Sticker premium pour objets, sans presse. Couleurs éclatantes, haute adhérence et pose manuelle facile.
+  Updated: 2025-12-08T15:07:09Z
+  Vendor: Imprime Ton DTF
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/Design_sans_titre_9_1.png?v=1765201203
+  Price: 6,99 € EUR
 - [Impression DTF A4 – Envoie ta planche prête | Imprime Ton DTF](https://imprimetondtf.com/products/impression-dtf-a4): Imprimez votre fichier DTF prêt en format A4 : rendu précis, couleurs vives et qualité professionnelle. Idéal logos, petits visuels et tests de motifs.
-  Updated: 2025-12-05T11:30:49Z
+  Updated: 2025-12-08T22:09:08Z
   Vendor: Imprime Ton DTF
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/7_67aeb3c5-4c60-49c5-aa12-cc4dc8f2c778_1.webp?v=1751031078
+  Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/Planche_DTF_A4_prete_a_imprimer_impression_DTF_haute_qualite.png?v=1765188542
   Price: 4,00 € EUR
-- [Éditeur DTF en ligne – Crée ta planche A4/A3/au mètre | Imprime Ton DTF](https://imprimetondtf.com/products/createur-planche-dtf): Crée ta planche DTF gratuitement en ligne : A4, A3 ou au mètre. Place, organise et exporte ton fichier prêt à imprimer. Impression DTF pro et couleurs vibrantes.
-  Updated: 2025-12-05T07:32:27Z
+- [DTF UV A2 – Envoie ta planche prête pour objets | Imprime Ton DTF](https://imprimetondtf.com/products/impression-dtf-uv-a2): Envoyez votre planche DTF UV A2 prête à imprimer. Sticker premium pour objets, pose manuelle sans presse. Couleurs éclatantes, haute adhérence et rendu net.
+  Updated: 2025-12-08T15:07:01Z
   Vendor: Imprime Ton DTF
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/P_1_1.webp?v=1751029751
+  Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/Envoie_ta_planche_DTF_UV_prete_-_A2_Objet_-_Imprime_Ton_DTF_8202f962-22b5-4dd5-b206-131fe49b1db0.png?v=1765188228
+  Price: 13,50 € EUR
+- [Éditeur DTF en ligne – Crée ta planche A4/A3/au mètre | Imprime Ton DTF](https://imprimetondtf.com/products/createur-planche-dtf): Crée ta planche DTF gratuitement en ligne : A4, A3 ou au mètre. Place, organise et exporte ton fichier prêt à imprimer. Impression DTF pro et couleurs vibrantes.
+  Updated: 2025-12-08T22:08:11Z
+  Vendor: Imprime Ton DTF
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/Editeur_DTF_en_ligne_creation_de_planche_A4_A3_metre_pour_objets.png?v=1765188478
   - [A4 (21x28cm)](https://imprimetondtf.com/products/createur-planche-dtf?variant=50300477899093)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/7_67aeb3c5-4c60-49c5-aa12-cc4dc8f2c778_1.webp?v=1751031078
+    Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/Planche_DTF_A4_prete_a_imprimer_impression_DTF_haute_qualite.png?v=1765188542
     Price: 4,00 € EUR
   - [A3 (28x42cm)](https://imprimetondtf.com/products/createur-planche-dtf?variant=50300477931861)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/A3_1.webp?v=1751031078
+    Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/Planche_DTF_A3_prete_a_imprimer_impression_DTF_haute_qualite.png?v=1765188575
     Price: 6,50 € EUR
   - [Mètre (56x100cm)](https://imprimetondtf.com/products/createur-planche-dtf?variant=50300487369045)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/Metre_1_63a85d6e-1cb4-4e8b-86e9-80573a249872.webp?v=1751029751
+    Image: https://cdn.shopify.com/s/files/1/0881/5539/0293/files/Planche_DTF_prete_a_imprimer_pour_impression_textile_au_metre.png?v=1765188558
     Price: 19,90 € EUR
 - [Forfait DTF UV – 24 planches A3 (10 m) | Service prioritaire](https://imprimetondtf.com/products/forfait-dtf-uv): Forfait DTF UV : 24 planches A3 (≈10 m). Paiement unique, service prioritaire, commandes via lien unique. Stickers UV premium pour objets, pose manuelle.
-  Updated: 2025-11-18T12:15:18Z
+  Updated: 2025-12-08T13:33:26Z
   Vendor: Imprime Ton DTF
   Product Type: 
   Availability: Available
@@ -259,31 +259,31 @@
   Updated: 2025-12-05T12:17:16Z
   Total Products: 4
 - [DTF & UV à l’unité - A4, A3, A2, mètre & éditeurs | Imprime Ton DTF](https://imprimetondtf.com/collections/unite-dtf): Impressions DTF et DTF UV à l’unité : A4, A3, A2, au mètre, fichiers prêts ou via éditeur. Rendu pro, couleurs vives, compatible textiles & objets rigides.
-  Updated: 2025-12-05T12:17:16Z
+  Updated: 2025-12-08T12:18:15Z
   Total Products: 13
 - [Planches DTF & UV A2 / A3 / A4 - Textile & objets | Imprime Ton DTF](https://imprimetondtf.com/collections/planches-dtf): Planches DTF et DTF UV en formats A2, A3 et A4 : pour textiles ou objets, fichier prêt ou via éditeur. Qualité pro, couleurs vives et usage simple.
-  Updated: 2025-12-05T12:17:16Z
+  Updated: 2025-12-08T12:18:15Z
   Total Products: 10
 - [DTF au mètre – Impression professionnelle (fichier prêt ou éditeur) | Imprime Ton DTF](https://imprimetondtf.com/collections/dtf-au-metre): Impression DTF textile au mètre : la solution la plus économique. Fichier prêt ou planche via éditeur. Qualité pro, couleurs vives, tenue durable.
-  Updated: 2025-12-05T12:17:16Z
+  Updated: 2025-12-08T12:18:15Z
   Total Products: 4
 - [DTF UV pour objets – A2, A3, forfaits & outils | Imprime Ton DTF](https://imprimetondtf.com/collections/dtf-uv): DTF UV pour objets rigides : A2, A3, forfaits, éditeur en ligne. Stickers UV premium à coller à la main, haute définition, brillance et résistance.
   Updated: 2025-12-05T10:24:16Z
   Total Products: 3
 - [Planches DTF & DTF UV A3/A4/A2– Textiles & Objets | Imprime Ton DTF](https://imprimetondtf.com/collections/unite-a3-a4): Planches DTF textile et DTF UV en formats A2, A3 et A4. Impression pro pour vêtements et objets. Couleurs éclatantes, haute résistance et rendu précis.
-  Updated: 2025-12-05T12:17:16Z
+  Updated: 2025-12-08T12:18:15Z
   Total Products: 6
 - [Créateur de planches DTF & DTF UV en ligne – Outil gratuit | Imprime Ton DTF](https://imprimetondtf.com/collections/createur-de-planches-dtf): Créez vos planches DTF textile et DTF UV en A3, A4 ou au mètre grâce à notre éditeur gratuit. Placement automatique, outils intégrés et rendu prêt à imprimer.
-  Updated: 2025-12-05T12:17:16Z
+  Updated: 2025-12-08T12:18:15Z
   Total Products: 2
 - [Bestsellers DTF & DTF UV – Nos produits les plus vendus | Imprime Ton DTF](https://imprimetondtf.com/collections/best-selling-products): Découvrez nos bestsellers DTF textile et DTF UV : planches A4/A3, impressions au mètre et outils de création. Qualité pro, couleurs intenses et durabilité.
-  Updated: 2025-12-05T12:17:16Z
+  Updated: 2025-12-08T12:18:15Z
   Total Products: 13
 - [Commandez vos fichiers DTF UV pour objets](https://imprimetondtf.com/collections/envoi-de-fichier-dtf-uv): Impression DTF textile A2 et A3 avec votre fichier prêt. Couleurs vives, tenue durable et qualité pro. Idéal créateurs, marques et ateliers.
   Updated: 2025-12-05T10:23:12Z
   Total Products: 2
 - [DTF textile – A4, A3 & au mètre | Impressions professionnelles](https://imprimetondtf.com/collections/dtf-textile): Impressions DTF textile A4, A3 et au mètre. Fichier prêt ou création via éditeur gratuit. Couleurs intenses, rendu durable et application à la presse.
-  Updated: 2025-12-05T12:17:16Z
+  Updated: 2025-12-08T12:18:15Z
   Total Products: 9
 - [DTF UV pour objets – A4 & A3 | Stickers premium à poser à la main](https://imprimetondtf.com/collections/dtf-objet): Impressions DTF UV A4 et A3 pour objets : rendu brillant, haute résistance, application à la main. Créez ou importez votre fichier, qualité professionnelle.
   Updated: 2025-12-05T10:23:26Z
@@ -298,10 +298,10 @@
   Updated: 2025-12-05T12:17:16Z
   Total Products: 6
 - [Best Sellers Imprime Ton DTF](https://imprimetondtf.com/collections/best-selling-products-1): Nos meilleures ventes DTF, testées et approuvées par nos clients. Profitez des incontournables pour réussir vos impressions textile et objet.
-  Updated: 2025-12-07T12:18:10Z
+  Updated: 2025-12-08T12:18:15Z
   Total Products: 69
 - [Tous nos produits – DTF textile, DTF UV, outils & presses | Imprime Ton DTF](https://imprimetondtf.com/collections/all): Découvrez tous nos produits : DTF textile, DTF UV, éditeurs en ligne, forfaits, presses Transmatic et échantillons gratuits. Qualité pro pour créateurs et marques.
-  Updated: 2025-12-05T12:17:16Z
+  Updated: 2025-12-08T12:18:15Z
   Total Products: 16
 
 ## Blogs
