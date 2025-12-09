@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-12-07T00:00:32.382Z
+- Updated At: 2025-12-09T00:00:31.436Z
 
 ## Products
 
@@ -360,6 +360,14 @@
     Updated: 2025-12-06T02:18:55Z
     Author: ms@nova02.de
     Tags: ethanol kamin wand
+  - [Kaminofen 8 kW kaufen – Die besten Modelle im Vergleich](https://www.pelios.de/blogs/news/kaminofen-8-kw-kaufen-die-besten-modelle-im-vergleich)
+    Updated: 2025-12-07T03:55:29Z
+    Author: ms@nova02.de
+    Tags: kaminofen 8 kw kaufen
+  - [Wie Sie die Förderung für Ihren Pelletofen erfolgreich beantragen](https://www.pelios.de/blogs/news/wie-sie-die-forderung-fur-ihren-pelletofen-erfolgreich-beantragen)
+    Updated: 2025-12-08T04:18:08Z
+    Author: ms@nova02.de
+    Tags: pelletofen förderung
 
 ## Store Pages
 
