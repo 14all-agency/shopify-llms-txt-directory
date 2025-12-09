@@ -10,7 +10,7 @@ Jigsaw puzzles and more  fascinating journals coming soon because extraordinary 
 - Timezone: Australia/Adelaide
 - Created At: 2025-07-30T03:40:26Z
 - Contact Email: imagineyourjournals@gmail.com
-- Updated At: 2025-12-08T00:00:40.202Z
+- Updated At: 2025-12-09T00:00:39.469Z
 
 Imaginarium blends imagination with the page, creating journals that celebrate what makes life worth pondering. 
 
@@ -936,6 +936,9 @@ For literature devotees, spiritual seekers, astrology enthusiasts, and anyone wh
 - [Playing Cards](https://imaginarium.com.im/collections/playing-cards): Deal Yourself Into Something Extraordinary Explore our collection of beautifully designed playing cards that transform a simple deck into a work of art.From mystical tarot-inspired designs to Shakespeare and literary themes, each deck brings symbolism and beauty to your card games. Perfect for card players, collectors, or anyone who appreciates the blend of function and artistry. These aren't just playing cards—they're conversation pieces that make every game more memorable.
   Updated: 2025-12-01T09:25:59Z
   Total Products: 19
+- [Premium Journals - Literary, Tarot, Zodiac & More - Journal Your Imaginings](https://imaginarium.com.im/collections/journals): Discover luxury journals featuring Shakespeare, tarot, zodiac, and historical themes. Premium quality for writers, dreamers, and creative souls.
+  Updated: 2025-12-08T04:05:44Z
+  Total Products: 87
 
 ## Blogs
 
@@ -947,8 +950,8 @@ For literature devotees, spiritual seekers, astrology enthusiasts, and anyone wh
 
 ## Store Pages
 
-- [Contact](https://imaginarium.com.im/pages/contact): Join our Email list_We won't be spamming you!Just a quick email now and again when a new collection hits the store. Contact us at adielovesbooks@ya...
-  Updated: 2025-11-05T09:04:10Z
+- [Contact](https://imaginarium.com.im/pages/contact): Join our Email list_We won't be spamming you!Just a quick email now and again when a new collection hits the store. Contact us at imagineyourjourna...
+  Updated: 2025-12-08T04:18:57Z
 - [Your privacy choices](https://imaginarium.com.im/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-11-05T07:47:46Z
 - [About Us](https://imaginarium.com.im/pages/about-us): About Journal Your Imaginings Welcome to our space where imagination meets inspiration. Journal Your Imaginings was born from a simple belief: our ...
@@ -967,8 +970,8 @@ For literature devotees, spiritual seekers, astrology enthusiasts, and anyone wh
   Updated: 2025-12-05T02:39:33Z
 - [Journaling Statistics](https://imaginarium.com.im/pages/journaling-statistics): **Emotional Resilience & Mental Clarity** - Improved mood: 65% of daily journalers - Reduced anxiety symptoms: 20% - Enhanced self-awareness: 80% o...
   Updated: 2025-12-07T08:14:09Z
-- [About Journaling](https://imaginarium.com.im/pages/about-journaling): An Intro to Journaling History, About Journaling Journaling traces back thousands of years, evolving from ancient philosophical reflections to mode...
-  Updated: 2025-12-07T07:58:05Z
+- [About Journaling](https://imaginarium.com.im/pages/about-journaling): An Intro to Journaling History About Journaling Journaling traces back thousands of years, evolving from ancient philosophical reflections to moder...
+  Updated: 2025-12-08T07:06:56Z
 
 ## Policies
 
