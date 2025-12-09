@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-12-08T00:00:47.787Z
+- Updated At: 2025-12-09T00:00:47.207Z
 
 ## Products
 
@@ -7436,7 +7436,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SCHNAUZER_RELAX_SPRAY_2500.jpg?v=1623590800
     Price: $13.95 USD
 - [Is Your Tibetan Mastiff Afraid of Thunderstorms? Fireworks?](https://theblissfuldog.com/products/tibetan-mastiff-relax-dog-aromatherapy): The Blissful Dog Tibetan Mastiff Relax Dog Aromatherapy uses our custom blend of calming essential oils to ease your Tibetan Mastiff anxiety. FREE Shipping USA
-  Updated: 2025-10-16T15:40:24Z
+  Updated: 2025-12-08T02:29:13Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -16495,7 +16495,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/VISIBLY_VIBRANT_ALL4_2023_BKGND.jpg?v=1689357520
     Price: $72.95 USD
 - [Blissfully Fresh™ Cocker Spaniel Face Wash for Clean Cocker Faces](https://theblissfuldog.com/products/cocker-spaniel-blissfully-fresh-face-spray): Blissfully Fresh™ Cocker Spaniel Face Wash cleans & refreshes the messiest Spaniel face for up-close cuddles. American & English Cocker Spaniels on labels.
-  Updated: 2025-10-16T15:41:40Z
+  Updated: 2025-12-08T10:17:27Z
   Vendor: The Blissful Dog® Inc.
   Product Type: FACE WASH
   Availability: Available
