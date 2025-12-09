@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-12-08T00:00:55.455Z
+- Updated At: 2025-12-09T00:00:54.035Z
 
 ## Products
 
@@ -2229,7 +2229,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-13_1.jpg?v=1690541562
     Price: $2,349.00 USD
 - [Natural Salt And Pepper 1.45CT Pear Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-45ct-pear-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring-1): This Natural Salt and Pepper 1.45CT Pear Diamond Art Deco Unique Engagement Ring makes an exquisite statement. This handmade ring is crafted with a classic Art Deco style that will never go out of fashion and features a unique pear-cut diamond for a timeless look. Perfect for an anniversary or engagement.
-  Updated: 2025-10-02T10:30:39Z
+  Updated: 2025-12-08T08:23:50Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Pear Diamond Ring
   Availability: Available
@@ -5973,7 +5973,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-61_1.jpg?v=1703830743
     Price: $2,699.00 USD
 - [Natural Salt And Pepper 1.80CT Oval Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-80ct-oval-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This Natural Salt And Pepper 1.80CT Oval Diamond Art Deco Unique Engagement Ring is perfect for a lifetime of love. Crafted with a timeless design, it features an oval-cut diamond weighing 1.80CT. Each part of this handmade ring is carefully crafted to commemorate your meaningful milestone.
-  Updated: 2025-10-02T10:30:42Z
+  Updated: 2025-12-08T06:22:24Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Oval Diamond Ring
   Availability: Available
@@ -44673,6 +44673,10 @@
     Updated: 2025-12-02T04:35:56Z
     Author: work inventions
     Tags: allure of diamonds
+  - [How Ibiz Jewels Makes Premium Diamond Rings Affordable | Lab-Grown & Ethical](https://ibizjewel.com/blogs/news/how-ibiz-jewels-is-making-premium-diamond-rings-affordable-with-lab-grown-diamonds): How Ibiz Jewels Makes Premium Diamond Rings Affordable | Lab-Grown & Ethical
+    Updated: 2025-12-08T09:59:08Z
+    Author: work inventions
+    Tags: Affordable Diamond Rings
 
 ## Store Pages
 
