@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-11T08:25:57Z
 - Contact Email: pikarufashion01@gmail.com
-- Updated At: 2025-12-08T00:00:42.063Z
+- Updated At: 2025-12-09T00:00:41.635Z
 
 ## Products
 
@@ -5780,11 +5780,11 @@
     Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/il_1588xN.4730096789_mn8t.webp?v=1764829434
     Price: $49.00 USD
 - [Cotton Printed Night Suit Set – Comfortable Button](https://pikarufashion.com/products/cotton-printed-night-suit-set-button-down-shirt-pyjama): Cotton Printed Night Suit Set offers cozy comfort with its stylish button-down shirt & matching pyjama. Sleep peacefully in elegant design.
-  Updated: 2025-12-05T02:05:10Z
+  Updated: 2025-12-08T06:52:45Z
   Vendor: PIKARU FASHION
   Product Type: Shirt & Pajama Set
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/09_6_e7137529-fcdc-402a-826b-6bbe73259283.jpg?v=1764831078
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/09_6_e7137529-fcdc-402a-826b-6bbe73259283.jpg?v=1765176745
   - [S](https://pikarufashion.com/products/cotton-printed-night-suit-set-button-down-shirt-pyjama?variant=61234240422258)
     Availability: Not Available
     Price: $19.00 USD
@@ -5801,11 +5801,11 @@
     Availability: Not Available
     Price: $19.00 USD
 - [Black Floral Cotton Pyjama Set – Soft & Breathable](https://pikarufashion.com/products/black-floral-cotton-pyjama-set-soft-breathable): Shop the Women’s Black Floral Cotton Pyjama Set for soft, breathable comfort and stylish nighttime style that you will love.
-  Updated: 2025-12-05T02:21:03Z
+  Updated: 2025-12-08T06:52:31Z
   Vendor: PIKARU FASHION
   Product Type: Shirt & Pajama Set
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/08_5.jpg?v=1764839219
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/08_5.jpg?v=1765176737
   - [S](https://pikarufashion.com/products/black-floral-cotton-pyjama-set-soft-breathable?variant=61235824230770)
     Availability: Not Available
     Price: $19.00 USD
@@ -5821,12 +5821,12 @@
   - [2XL](https://pikarufashion.com/products/black-floral-cotton-pyjama-set-soft-breathable?variant=61235824361842)
     Availability: Available
     Price: $19.00 USD
-- [Pink Floral Cotton Quilted  Pyjama Set — Women’s Loungewear](https://pikarufashion.com/products/pink-floral-cotton-quilted-pyjama-set-women-s-loungewear-comfort-vintage-print): Soft cotton quilted pyjama set with vintage pink floral print, piped collar & pockets. Lightweight, breathable, true-to-size — perfect for lounging or sleep.
-  Updated: 2025-12-04T12:58:02Z
+- [Pink Floral Cotton Quilted Pyjama Set — Women’s Loungewear](https://pikarufashion.com/products/pink-floral-cotton-quilted-pyjama-set-women-s-loungewear-comfort-vintage-print): Pink Floral Cotton Quilted Pyjama Set with vintage pink floral print, piped collar & pockets. Lightweight, breathable, true-to-size — perfect for lounging
+  Updated: 2025-12-08T18:44:00Z
   Vendor: PIKARU FASHION
   Product Type: Shirt & Pajama Set
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/07_6.jpg?v=1764847490
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/07_6.jpg?v=1765176729
   - [S](https://pikarufashion.com/products/pink-floral-cotton-quilted-pyjama-set-women-s-loungewear-comfort-vintage-print?variant=61245988372850)
     Availability: Available
     Price: $19.00 USD
@@ -5839,55 +5839,83 @@
   - [XL](https://pikarufashion.com/products/pink-floral-cotton-quilted-pyjama-set-women-s-loungewear-comfort-vintage-print?variant=61245988471154)
     Availability: Available
     Price: $19.00 USD
-- [Mustard Yellow Block-Print Cotton Pajama Set](https://pikarufashion.com/products/mustard-yellow-block-print-cotton-pajama-set): Lightweight mustard yellow cotton pajama set with hand-block floral print, button-up top & drawstring pants. Breathable, soft. Available S–XL.
-  Updated: 2025-12-04T13:56:57Z
+- [Mustard Yellow Block-Print Cotton Pyjama Set](https://pikarufashion.com/products/mustard-yellow-block-print-cotton-pyjama-set): Mustard Yellow Block-Print Cotton Pyjama Set: Stay cozy with this soft and lightweight 2-piece set. Perfect for lounging at home!
+  Updated: 2025-12-08T18:51:01Z
   Vendor: PIKARU FASHION
   Product Type: Shirt & Pajama Set
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/06_2_d6ce94e0-6b08-4ae6-b194-891246a580a3.jpg?v=1764848508
-  - [S](https://pikarufashion.com/products/mustard-yellow-block-print-cotton-pajama-set?variant=61246694785394)
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/06_2_d6ce94e0-6b08-4ae6-b194-891246a580a3.jpg?v=1765176722
+  - [S](https://pikarufashion.com/products/mustard-yellow-block-print-cotton-pyjama-set?variant=61246694785394)
     Availability: Available
     Price: $19.99 USD
-  - [M](https://pikarufashion.com/products/mustard-yellow-block-print-cotton-pajama-set?variant=61246694818162)
+  - [M](https://pikarufashion.com/products/mustard-yellow-block-print-cotton-pyjama-set?variant=61246694818162)
     Availability: Available
     Price: $19.99 USD
-  - [L](https://pikarufashion.com/products/mustard-yellow-block-print-cotton-pajama-set?variant=61246694850930)
+  - [L](https://pikarufashion.com/products/mustard-yellow-block-print-cotton-pyjama-set?variant=61246694850930)
     Availability: Available
     Price: $19.99 USD
-  - [XL](https://pikarufashion.com/products/mustard-yellow-block-print-cotton-pajama-set?variant=61246694883698)
+  - [XL](https://pikarufashion.com/products/mustard-yellow-block-print-cotton-pyjama-set?variant=61246694883698)
     Availability: Available
     Price: $19.99 USD
-- [Cream & Purple Floral Cotton Pyjama Set — Women’s 2-Piece Sleepwear](https://pikarufashion.com/products/cream-purple-floral-cotton-pyjama-set): Soft cream cotton pyjama set with purple floral print, button-up top & drawstring pants. Lightweight, breathable, perfect for sleep or lounging. Available S–XL.
-  Updated: 2025-12-06T10:18:29Z
+- [Cream & Purple Floral Cotton Pyjama Set](https://pikarufashion.com/products/cream-purple-floral-cotton-pyjama-set): Shop the Cream & Purple Floral Cotton pyjama Set for cozy nights. This 2-piece sleepwear is stylish and comfortable at just $19.99!
+  Updated: 2025-12-08T18:48:52Z
   Vendor: PIKARU FASHION
   Product Type: Shirt & Pajama Set
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/05_6_e8fa0c8a-b642-4e20-b20a-ecf6a6a2e1ca.jpg?v=1765015881
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/05_6_e8fa0c8a-b642-4e20-b20a-ecf6a6a2e1ca.jpg?v=1765176707
   - [L](https://pikarufashion.com/products/cream-purple-floral-cotton-pyjama-set?variant=61335028728178)
     Availability: Available
     Price: $19.99 USD
   - [XL](https://pikarufashion.com/products/cream-purple-floral-cotton-pyjama-set?variant=61335028760946)
     Availability: Available
     Price: $19.99 USD
-- [Purple Geometric Block-Print Cotton Pyjama Set](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pajama-set): Beautiful purple cotton pyjama set with white geometric block-print, soft breathable fabric, button-down top & drawstring pants. Comfortable. Sizes L–XL.
-  Updated: 2025-12-06T10:25:51Z
+- [Purple Geometric Block-Print Cotton Pyjama Set](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pyjama-set): Beautiful Purple Geometric Block-Print Cotton Pyjama Set with white geometric block-print, soft breathable fabric, button-down top & drawstring pants.
+  Updated: 2025-12-08T18:47:09Z
   Vendor: PIKARU FASHION
   Product Type: Shirt & Pajama Set
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/04_5.jpg?v=1765016350
-  - [S](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pajama-set?variant=61335030137202)
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/04_5.jpg?v=1765176699
+  - [S](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pyjama-set?variant=61335030137202)
     Availability: Available
     Price: $19.99 USD
-  - [M](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pajama-set?variant=61335030169970)
+  - [M](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pyjama-set?variant=61335030169970)
     Availability: Available
     Price: $19.99 USD
-  - [L](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pajama-set?variant=61335030202738)
+  - [L](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pyjama-set?variant=61335030202738)
     Availability: Available
     Price: $19.99 USD
-  - [XL](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pajama-set?variant=61335030235506)
+  - [XL](https://pikarufashion.com/products/purple-geometric-block-print-cotton-pyjama-set?variant=61335030235506)
     Availability: Available
     Price: $19.99 USD
-[List Continued](https://pikarufashion.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDg1NzgyMTAyODcyMiwibGFzdF92YWx1ZSI6IjE0ODU3ODIxMDI4NzIyIn0=)
+- [Black Kashmiri Aari Embroidered Long Jacket](https://pikarufashion.com/products/black-kashmiri-aari-embroidered-long-jacket): Elegant black Kashmiri Aari embroidered long jacket with rich multicoloured floral handwork. Premium winter ethnic wear for women. Perfect for parties.
+  Updated: 2025-12-08T21:49:35Z
+  Vendor: PIKARU FASHION
+  Product Type: jacket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/Screenshot2025-12-08125811.jpg?v=1765196017
+  - [S](https://pikarufashion.com/products/black-kashmiri-aari-embroidered-long-jacket?variant=61339584070002)
+    Availability: Available
+    Price: $150.00 USD
+  - [M](https://pikarufashion.com/products/black-kashmiri-aari-embroidered-long-jacket?variant=61339584102770)
+    Availability: Available
+    Price: $150.00 USD
+  - [L](https://pikarufashion.com/products/black-kashmiri-aari-embroidered-long-jacket?variant=61339584135538)
+    Availability: Available
+    Price: $150.00 USD
+  - [XL](https://pikarufashion.com/products/black-kashmiri-aari-embroidered-long-jacket?variant=61339584168306)
+    Availability: Available
+    Price: $150.00 USD
+  - [2XL](https://pikarufashion.com/products/black-kashmiri-aari-embroidered-long-jacket?variant=61339584201074)
+    Availability: Available
+    Price: $170.00 USD
+- [Pink Ikat Boho Maxi Dress – Free Size| PIKARU FASHION](https://pikarufashion.com/products/pink-ikat-boho-maxi-dress): 🌺 Pink Ikat Printed Boho Maxi Dress – Free Size | Balloon Sleeves | 100% Soft Cotton Step into effortless elegance with our Handmade Pink Ikat Boho Maxi Dress
+  Updated: 2025-12-08T12:13:36Z
+  Vendor: PIKARU FASHION
+  Product Type: maxi dress
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0934/4421/1058/files/IMG_20251203_133311.jpg?v=1765195999
+  Price: $19.99 USD
+[List Continued](https://pikarufashion.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDg1ODY1Njg3NDg2NiwibGFzdF92YWx1ZSI6IjE0ODU4NjU2ODc0ODY2In0=)
 
 ## Collections
 
@@ -5898,14 +5926,14 @@
   Updated: 2025-12-02T13:13:17Z
   Total Products: 16
 - [Printed Dress | Trendy Women’s Printed Dresses for Everyday](https://pikarufashion.com/collections/printed-dress-trendy-vibrant-modern-fashion): Shop stylish Printed Dresses crafted with vibrant patterns, premium fabrics, and flattering fits. Perfect for casual outings, travel, and everyday use -
-  Updated: 2025-11-29T18:40:50Z
-  Total Products: 41
+  Updated: 2025-12-08T12:11:27Z
+  Total Products: 42
 - [Maxi Dress | Trendy Women’s Long Dresses for Every Occasion](https://pikarufashion.com/collections/maxi-dress-by-pikaru-fashion): Shop stylish Maxi Dresses crafted with premium fabrics, flattering fits, and elegant long silhouettes. Perfect for vacations and daily wear- PIKARU FASHION
-  Updated: 2025-12-02T10:13:03Z
-  Total Products: 69
+  Updated: 2025-12-08T12:11:27Z
+  Total Products: 70
 - [Boho Dress | Bohemian Women’s Dresses for Daily, & Travel](https://pikarufashion.com/collections/boho-dress-pikaru-fashion-store): Shop stylish Boho Dresses featuring flowy silhouettes, soft fabrics, and artistic bohemian designs. beach days, daily comfort, and festive occasions
-  Updated: 2025-12-02T10:12:01Z
-  Total Products: 24
+  Updated: 2025-12-08T12:11:27Z
+  Total Products: 25
 - [Blouses | Designer Women’s Tops for Daily & Party Wear |](https://pikarufashion.com/collections/blouses-elegant-modern-trendy-women-s-tops): Shop stylish Blouses crafted with premium fabrics, elegant cuts, and modern designs. Perfect for work, parties, and everyday wear - PIKARU FASHION
   Updated: 2025-11-29T18:34:33Z
   Total Products: 7
@@ -5925,7 +5953,7 @@
   Updated: 2025-12-02T10:13:35Z
   Total Products: 14
 - [Cord-Set |Trendy Women’s Co-Ord Sets for Daily & Party Wear](https://pikarufashion.com/collections/2-piece-set-stylish-matching-modern-co-ord-fashion): Shop stylish Cord-Sets featuring premium fabrics, trendy designs, and perfectly matching co-ord outfits. daily wear. Explore chic Cord-Sets at PIKARU Fashion
-  Updated: 2025-12-06T10:25:50Z
+  Updated: 2025-12-08T06:50:56Z
   Total Products: 11
 - [Winter Sale | Up to 50% Off on Jackets, Dresses  |](https://pikarufashion.com/collections/winter-sale-big-discounts-on-seasonal-fashion): Winter sale: enjoy huge discounts on jackets, coats and more. Stylish, warm, and high-quality winter fashion at unbeatable prices — shop now and save big!
   Updated: 2025-11-29T18:40:46Z
@@ -5937,11 +5965,11 @@
   Updated: 2025-12-01T11:06:06Z
   Total Products: 7
 - [Suzzani Jacket | Hand-Embroidered Boho Jackets | PIKARU](https://pikarufashion.com/collections/suzzani-jacket-handcrafted-artistic-premium-outerwear): hop handcrafted Suzzani Jackets featuring detailed embroidery, bold motifs, and premium fabrics. Perfect for boho styling, festive wear, and chic winter looks
-  Updated: 2025-12-01T10:48:01Z
-  Total Products: 20
+  Updated: 2025-12-08T12:09:41Z
+  Total Products: 21
 - [Embroidery Jacket – Premium Ethnic Layering for Women |](https://pikarufashion.com/collections/embroidery-jacket-handcrafted-stylish-premium-outerwear): Discover our Embroidery Jacket crafted with intricate threadwork, premium fabric, and stylish modern cuts. Perfect for festive styling, winter layering, partieS
-  Updated: 2025-12-01T10:48:01Z
-  Total Products: 13
+  Updated: 2025-12-08T12:09:41Z
+  Total Products: 14
 - [Valvet Jacket/Coats | Elegant Women’s Velvet Jackets & Coats](https://pikarufashion.com/collections/valvet-jacket-coats-luxurious-soft-premium-winter-fashion): Valvet Jacket crafted with soft velvet, rich colours, and elegant winter silhouettes. Perfect for festive wear, parties, and stylish winter outfits - PIKARU
   Updated: 2025-11-29T18:40:48Z
   Total Products: 10
@@ -5967,8 +5995,8 @@
   Updated: 2025-11-29T18:40:39Z
   Total Products: 0
 - [Winter Dresses | Elegant & Warm Women’s Winter Outfits |](https://pikarufashion.com/collections/winter-dresses-warm-stylish-cozy-women-s-fashion): Shop stylish Winter Dresses crafted with warm fabrics, elegant designs, and cosy fits.  everyday winter styling. Explore Winter Dresses at PIKARU Fashion
-  Updated: 2025-12-01T10:48:01Z
-  Total Products: 65
+  Updated: 2025-12-08T12:09:41Z
+  Total Products: 66
 - [Two Piece Stylish Two Piece Set for Modern Fashion](https://pikarufashion.com/collections/two-piece-set-stylish-modern-trendy-co-ord-fashion): Explore our trendy Two Piece Set collection. Stay fashionable and comfortable with these stylish outfits.
   Updated: 2025-12-01T11:06:06Z
   Total Products: 2
@@ -5993,15 +6021,9 @@
 - [Jumpsuits | Handmade & Western Jumpsuits Collection](https://pikarufashion.com/collections/jumpsuits-stylish-women-s-jumpsuits-by-pikaru-fashion): Explore PIKARU FASHION’s Women’s Jumpsuits collection featuring stylish, comfortable, and handcrafted designs. Premium fabrics, modern silhouettes.
   Updated: 2025-11-29T18:34:16Z
   Total Products: 1
-- [OPEN - Best Sellers - Top Choices for You](https://pikarufashion.com/collections/open-best-sellers-top-choices-for-you): Discover the best-selling OPEN collection. Explore top choices that meet your needs and desires.OPEN - Best Sellers - Top Choices for You
-  Updated: 2025-12-06T10:26:15Z
-  Total Products: 195
 - [Suzzani Coats | Boho Embroidered Winter Jackets](https://pikarufashion.com/collections/suzzani-coats-boho-embroidered-winter-jackets): Explore our exquisite collection of handcrafted Suzzani Coats, featuring rich embroidery and traditional artisan designs.
   Updated: 2025-11-29T18:40:22Z
   Total Products: 18
-- [APPPlaza - Best Sellers](https://pikarufashion.com/collections/appplaza-best-sellers)
-  Updated: 2025-12-06T10:26:15Z
-  Total Products: 195
 
 ## Store Pages
 
