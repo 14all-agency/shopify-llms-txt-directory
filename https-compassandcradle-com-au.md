@@ -8,7 +8,7 @@
 - Timezone: Australia/Perth
 - Created At: 2025-01-21T07:14:09Z
 - Contact Email: admin@compassandcradle.com.au
-- Updated At: 2025-12-09T00:00:30.254Z
+- Updated At: 2025-12-10T00:00:31.229Z
 
 ## Products
 
@@ -554,8 +554,8 @@
   - [5](https://compassandcradle.com.au/products/black-friday-bundle-cray-cray-on-vacay-bag-kids-set?variant=50643041911069)
     Availability: Available
     Price: $77.00 AUD
-- [To the Shore Por Favor Lemon Yellow Kids Set – Premium Kids Beach Wear](https://compassandcradle.com.au/products/lets-explore-por-favor-kids-terry-toweling-shirt-lemon-yellow): Shop the Lets Explore Por Favor Lemon Yellow Terry Towelling Kids Shirt & Shorts Set. Oversized, unisex, and soft, this kids beach wear set. Matching mums cap available, perfect for summer adventures
-  Updated: 2025-12-08T16:44:31Z
+- [Let's Explore Por Favor Lemon Yellow Kids Shirt & Short Set – Premium Kids Beach Wear](https://compassandcradle.com.au/products/lets-explore-por-favor-kids-terry-toweling-shirt-lemon-yellow): Shop the Lets Explore Por Favor Lemon Yellow Terry Towelling Kids Shirt & Shorts Set. Oversized, unisex, and soft, this kids beach wear set. Matching mums cap available, perfect for summer adventures
+  Updated: 2025-12-09T19:06:08Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -645,7 +645,7 @@ The perfect blend of safety and personality for your family car. Designed in Aus
   Total Products: 6
 - [Kids Summer Outfits - Terry Cotton Sets](https://compassandcradle.com.au/collections/kids-summer-outfits): The Perfect Kids Summer Outfits!
 Crafted from soft, terry Cotton, this kids' summer outfit is designed to be lightweight and breathable, perfect for those hot summer days.
-  Updated: 2025-12-08T12:22:15Z
+  Updated: 2025-12-09T12:22:16Z
   Total Products: 5
 - [Beach & Travel Bags](https://compassandcradle.com.au/collections/beach-travel-bags)
   Updated: 2025-12-04T13:51:46Z
@@ -657,10 +657,10 @@ Crafted from soft, terry Cotton, this kids' summer outfit is designed to be ligh
   Updated: 2025-11-02T12:22:01Z
   Total Products: 1
 - [Mum & Kids Caps](https://compassandcradle.com.au/collections/kids-caps)
-  Updated: 2025-12-08T12:22:15Z
+  Updated: 2025-12-09T11:33:45Z
   Total Products: 6
 - [Pre Sale| Barefoot Bandit Kids Terry Towelling Set](https://compassandcradle.com.au/collections/pre-sale-barefoot-bandit-kids-terry-towelling-set): Barefoot Bandit Kids Terry Towelling Set Let your little one embrace sunshine, salt air and play in comfort with our Barefoot Bandit Kids Terry Towelling Set — the ultimate everyday outfit for beach days, park hangs and laid-back adventures. Made from soft, absorbent 100% cotton terry towelling, this relaxed-fit set keeps kids cool and comfortable while adding that easy, coastal-Australian charm. Designed for movement and made to last, it’s perfect for post-swim chill time or all-day exploring. Why You’ll Love It Super soft, breathable terry towelling fabric — gentle on sensitive skin Relaxed, unisex fit for easy, carefree movement Signature barefoot bandit logo with wave design on front Ethically made for mindful, everyday wear Durable and easy-care — made to withstand play, wash after wash Perfect For ☀️ Summer adventures🏖️ Beach to backyard days🎁 Everyday comfort or a thoughtful gift Fabric: 100% cotton terry towellingCare: Cold gentle machine wash. Line dry in shade.
-  Updated: 2025-12-08T04:35:45Z
+  Updated: 2025-12-09T11:33:18Z
   Total Products: 1
 - [Black Friday Family Bundles](https://compassandcradle.com.au/collections/black-friday-bundle)
   Updated: 2025-12-02T06:03:56Z
@@ -672,10 +672,10 @@ Crafted from soft, terry Cotton, this kids' summer outfit is designed to be ligh
   Updated: 2025-12-08T05:13:30Z
   Total Products: 3
 - [New Arrivals](https://compassandcradle.com.au/collections/new-arrivals)
-  Updated: 2025-12-08T12:22:15Z
+  Updated: 2025-12-09T12:22:16Z
   Total Products: 5
 - [AVADA - Best Sellers](https://compassandcradle.com.au/collections/avada-best-sellers)
-  Updated: 2025-12-08T12:22:15Z
+  Updated: 2025-12-09T12:22:16Z
   Total Products: 24
 
 ## Blogs
