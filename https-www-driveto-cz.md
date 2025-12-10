@@ -12,7 +12,7 @@ Zprostředkováváme operativní leasing vozidel od všech značek a leasingový
 - Contact Email: info@driveto.cz
 - Contact Phone: +420790285631
 - Address: Jankovcova 1569/2c, Holešovice, 170 00 Praha 7
-- Updated At: 2025-12-09T00:02:03.061Z
+- Updated At: 2025-12-10T00:02:07.195Z
 
 ## Naše služby
 
@@ -506,156 +506,6 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSportlinefoto1_e0da6aa6-558e-4f73-bd8f-efc47ae2357e.webp?v=1761572408
   Price: 14 590,00 Kč CZK
-- [Škoda Kodiaq Sportline 2.0 TDI 142kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka): Nový Kodiaq se světu představil na jaře roku 2024. Inovací proti předchůdci se zde odehrálo opravdu dost, což je viditelné na první pohled. Tento kus je navíc v atraktivní variantě Sportline. Svěží design působí mohutnějším dojmem. Přední přísný výraz formují LED světlomety a široká maska s tmavými doplňky - maska, zrcátka, lišty atd. Pocit robustnosti navozují vytažené blatníky a zadní části dominují propojená světla s charakteristickým tvarem ve tvaru písmene C. Interiér je oblast, která se změnila nejvíce. Za zmínku rozhodně stojí pohodlná sportovní sedadla se solidním bočním vedením a výborná pozice za volantem. Potěší také kvalitní materiály, bohatá výbava, snadné ovládání a veliká obrazovka zábavního systému. Odkládacích prostorů je zde stále velké množství a celkově je vnitřní prostor na špičkové úrovni. Narostl i objem zavazadlového prostoru (+ 75 litrů) na aktuálních 910 litrů. To je mimochodem více, než nabízí největší SUV od Audi - Q7. Nový je i podvozek, který poskytuje vozu ještě lepší komfort a jízdní vlastnosti. Potěší i klasický dieselový motor s automatickou převodovkou a pohonem všech kol. Všechny tyto atributy z nového Kodiaqu druhé generace dělají fantastické SUV, které je novým českým ideálem.
-  Updated: 2025-11-10T09:17:38Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto1_04741a7e-28a6-4e0e-be28-14200e7a6c98.webp?v=1761572633
-  - [10000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757433594205)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto6_397d7191-6115-450c-8a12-acd440366556.webp?v=1761572633
-    Price: 10 225,00 Kč CZK
-  - [10000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757433659741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto7_a850f20e-823f-4ccd-94a8-f782d7b05f38.webp?v=1761572633
-    Price: 10 225,00 Kč CZK
-  - [10000 km / 36 měsíců / Modrá Race metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477229917)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto8_e43f9388-a0d2-441f-ab03-49e1a440c9c6.webp?v=1761572633
-    Price: 10 225,00 Kč CZK
-  - [10000 km / 36 měsíců / Šedá Steel](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477262685)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto9_bc620e0c-f83c-4a7c-bc95-df4a765f0f2c.webp?v=1761572632
-    Price: 10 225,00 Kč CZK
-  - [15000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757433692509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto6_397d7191-6115-450c-8a12-acd440366556.webp?v=1761572633
-    Price: 10 920,00 Kč CZK
-  - [15000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757433758045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto7_a850f20e-823f-4ccd-94a8-f782d7b05f38.webp?v=1761572633
-    Price: 10 920,00 Kč CZK
-  - [15000 km / 36 měsíců / Modrá Race metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477295453)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto8_e43f9388-a0d2-441f-ab03-49e1a440c9c6.webp?v=1761572633
-    Price: 10 920,00 Kč CZK
-  - [15000 km / 36 měsíců / Šedá Steel](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477328221)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto9_bc620e0c-f83c-4a7c-bc95-df4a765f0f2c.webp?v=1761572632
-    Price: 10 920,00 Kč CZK
-  - [20000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757433790813)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto6_397d7191-6115-450c-8a12-acd440366556.webp?v=1761572633
-    Price: 11 652,00 Kč CZK
-  - [20000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757433856349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto7_a850f20e-823f-4ccd-94a8-f782d7b05f38.webp?v=1761572633
-    Price: 11 652,00 Kč CZK
-  - [20000 km / 36 měsíců / Modrá Race metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477360989)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto8_e43f9388-a0d2-441f-ab03-49e1a440c9c6.webp?v=1761572633
-    Price: 11 652,00 Kč CZK
-  - [20000 km / 36 měsíců / Šedá Steel](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477393757)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto9_bc620e0c-f83c-4a7c-bc95-df4a765f0f2c.webp?v=1761572632
-    Price: 11 652,00 Kč CZK
-  - [25000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757433889117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto6_397d7191-6115-450c-8a12-acd440366556.webp?v=1761572633
-    Price: 12 267,00 Kč CZK
-  - [25000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757433954653)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto7_a850f20e-823f-4ccd-94a8-f782d7b05f38.webp?v=1761572633
-    Price: 12 267,00 Kč CZK
-  - [25000 km / 36 měsíců / Modrá Race metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477426525)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto8_e43f9388-a0d2-441f-ab03-49e1a440c9c6.webp?v=1761572633
-    Price: 12 267,00 Kč CZK
-  - [25000 km / 36 měsíců / Šedá Steel](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477459293)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto9_bc620e0c-f83c-4a7c-bc95-df4a765f0f2c.webp?v=1761572632
-    Price: 12 267,00 Kč CZK
-  - [30000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757433987421)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto6_397d7191-6115-450c-8a12-acd440366556.webp?v=1761572633
-    Price: 13 246,00 Kč CZK
-  - [30000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757434052957)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto7_a850f20e-823f-4ccd-94a8-f782d7b05f38.webp?v=1761572633
-    Price: 13 246,00 Kč CZK
-  - [30000 km / 36 měsíců / Modrá Race metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477492061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto8_e43f9388-a0d2-441f-ab03-49e1a440c9c6.webp?v=1761572633
-    Price: 13 246,00 Kč CZK
-  - [30000 km / 36 měsíců / Šedá Steel](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477524829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto9_bc620e0c-f83c-4a7c-bc95-df4a765f0f2c.webp?v=1761572632
-    Price: 13 246,00 Kč CZK
-  - [35000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757434085725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto6_397d7191-6115-450c-8a12-acd440366556.webp?v=1761572633
-    Price: 13 962,00 Kč CZK
-  - [35000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757434151261)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto7_a850f20e-823f-4ccd-94a8-f782d7b05f38.webp?v=1761572633
-    Price: 13 962,00 Kč CZK
-  - [35000 km / 36 měsíců / Modrá Race metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477557597)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto8_e43f9388-a0d2-441f-ab03-49e1a440c9c6.webp?v=1761572633
-    Price: 13 962,00 Kč CZK
-  - [35000 km / 36 měsíců / Šedá Steel](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477590365)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto9_bc620e0c-f83c-4a7c-bc95-df4a765f0f2c.webp?v=1761572632
-    Price: 13 962,00 Kč CZK
-  - [40000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757434184029)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto6_397d7191-6115-450c-8a12-acd440366556.webp?v=1761572633
-    Price: 14 752,00 Kč CZK
-  - [40000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757434249565)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto7_a850f20e-823f-4ccd-94a8-f782d7b05f38.webp?v=1761572633
-    Price: 14 752,00 Kč CZK
-  - [40000 km / 36 měsíců / Modrá Race metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477623133)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto8_e43f9388-a0d2-441f-ab03-49e1a440c9c6.webp?v=1761572633
-    Price: 14 752,00 Kč CZK
-  - [40000 km / 36 měsíců / Šedá Steel](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477655901)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto9_bc620e0c-f83c-4a7c-bc95-df4a765f0f2c.webp?v=1761572632
-    Price: 14 752,00 Kč CZK
-  - [45000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757434282333)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto6_397d7191-6115-450c-8a12-acd440366556.webp?v=1761572633
-    Price: 15 305,00 Kč CZK
-  - [45000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757434347869)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto7_a850f20e-823f-4ccd-94a8-f782d7b05f38.webp?v=1761572633
-    Price: 15 305,00 Kč CZK
-  - [45000 km / 36 měsíců / Modrá Race metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477688669)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto8_e43f9388-a0d2-441f-ab03-49e1a440c9c6.webp?v=1761572633
-    Price: 15 305,00 Kč CZK
-  - [45000 km / 36 měsíců / Šedá Steel](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477721437)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto9_bc620e0c-f83c-4a7c-bc95-df4a765f0f2c.webp?v=1761572632
-    Price: 15 305,00 Kč CZK
-  - [50000 km / 36 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757434380637)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto6_397d7191-6115-450c-8a12-acd440366556.webp?v=1761572633
-    Price: 16 033,00 Kč CZK
-  - [50000 km / 36 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=57757434446173)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto7_a850f20e-823f-4ccd-94a8-f782d7b05f38.webp?v=1761572633
-    Price: 16 033,00 Kč CZK
-  - [50000 km / 36 měsíců / Modrá Race metalíza](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477754205)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto8_e43f9388-a0d2-441f-ab03-49e1a440c9c6.webp?v=1761572633
-    Price: 16 033,00 Kč CZK
-  - [50000 km / 36 měsíců / Šedá Steel](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka?variant=58363477786973)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto9_bc620e0c-f83c-4a7c-bc95-df4a765f0f2c.webp?v=1761572632
-    Price: 16 033,00 Kč CZK
 - [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-manualni-prevodovka): Octavia se za dobu jejího působí stala naprostou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Tento konkrétní kousek je kombík, takže nabídne opravdu prostorný kufr - 640 litrů. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s šestistupňovou převodovkou. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky šestému rychlostnímu stupni zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná.
   Updated: 2025-11-27T15:42:07Z
   Vendor: Driveto
@@ -1319,6 +1169,172 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKaroqSportline1.5foto1_52cf0127-5e4e-4b10-aa41-5365cb52c7cf.webp?v=1761575693
   Price: 10 300,00 Kč CZK
+- [KIA Ceed TOP 1.5 T-GDI ISG 103 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka): Ceed SW je jedním z nejzajímavějších kombíků, který se dá pořídit. Stojí totiž ve srovnání s konkurencí méně peněz, ale v mnoha ohledech nabídne více. Design si zachovává perfektní balanc mezi odvážností a nadčasovostí. Uvnitř potěší hlavně snadné a intuitivní ovládání vozu. Dominují zde klasická tlačítka či kolečka. Použité materiály jsou vzhledem k ceně vozu nadprůměrně kvalitní. Nechybí ani pořádný kufr, který pojme 625 litrů zavazadel. Podvozek je naladěný tak akorát. To znamená, že poskytuje velmi dobrý komfort, ale zároveň není zbytečně houpavý a můžete se na něj spolehnout i při svižnějším průjezdu zatáčkou. Srovnáme-li jej s konkurencí, tak má rozhodně jedny z nejlepších jízdních vlastností, které se zavděčí jak klidným, tak rychlejším řidičům. Pod kapotou se nachází čtyřválcový benzinový motor s turbem. Je velmi dobře odhlučněn a potěší i nízká spotřeba, která se dá držet okolo 6 litrů. Výkon pohonné jednotky činí 103 kW, což vozu dodává solidní dynamiku. Jedná se zkrátka o skvělého parťáka pro každý den. Nechybí zde ani automatická převodovka, která poskytne ještě lepší komfort při každé cestě.
+  Updated: 2025-12-09T17:49:36Z
+  Vendor: Driveto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
+  - [10000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152517981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
+    Price: 5 776,00 Kč CZK
+  - [10000 km / 36 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242018653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
+    Price: 5 911,00 Kč CZK
+  - [10000 km / 36 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242051421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
+    Price: 5 911,00 Kč CZK
+  - [10000 km / 36 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242084189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
+    Price: 5 911,00 Kč CZK
+  - [10000 km / 48 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152550749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
+    Price: 5 802,00 Kč CZK
+  - [10000 km / 48 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242116957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
+    Price: 5 933,00 Kč CZK
+  - [10000 km / 48 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242149725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
+    Price: 5 933,00 Kč CZK
+  - [10000 km / 48 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242182493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
+    Price: 5 933,00 Kč CZK
+  - [15000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152616285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
+    Price: 6 263,00 Kč CZK
+  - [15000 km / 36 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242215261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
+    Price: 6 408,00 Kč CZK
+  - [15000 km / 36 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242248029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
+    Price: 6 408,00 Kč CZK
+  - [15000 km / 36 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242280797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
+    Price: 6 408,00 Kč CZK
+  - [15000 km / 48 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152649053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
+    Price: 6 587,00 Kč CZK
+  - [15000 km / 48 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242313565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
+    Price: 6 733,00 Kč CZK
+  - [15000 km / 48 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242346333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
+    Price: 6 733,00 Kč CZK
+  - [15000 km / 48 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242379101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
+    Price: 6 733,00 Kč CZK
+  - [20000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152714589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
+    Price: 6 958,00 Kč CZK
+  - [20000 km / 36 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242411869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
+    Price: 7 118,00 Kč CZK
+  - [20000 km / 36 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242444637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
+    Price: 7 118,00 Kč CZK
+  - [20000 km / 36 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242477405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
+    Price: 7 118,00 Kč CZK
+  - [20000 km / 48 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152747357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
+    Price: 6 901,00 Kč CZK
+  - [20000 km / 48 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242510173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
+    Price: 7 054,00 Kč CZK
+  - [20000 km / 48 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242542941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
+    Price: 7 054,00 Kč CZK
+  - [20000 km / 48 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242575709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
+    Price: 7 054,00 Kč CZK
+  - [25000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152812893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
+    Price: 7 306,00 Kč CZK
+  - [25000 km / 36 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242608477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
+    Price: 7 473,00 Kč CZK
+  - [25000 km / 36 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242641245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
+    Price: 7 473,00 Kč CZK
+  - [25000 km / 36 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242674013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
+    Price: 7 473,00 Kč CZK
+  - [25000 km / 48 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152845661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
+    Price: 7 203,00 Kč CZK
+  - [25000 km / 48 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242706781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
+    Price: 7 362,00 Kč CZK
+  - [25000 km / 48 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242739549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
+    Price: 7 362,00 Kč CZK
+  - [25000 km / 48 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242772317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
+    Price: 7 362,00 Kč CZK
+  - [30000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152911197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
+    Price: 7 654,00 Kč CZK
+  - [30000 km / 36 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242805085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
+    Price: 7 828,00 Kč CZK
+  - [30000 km / 36 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242837853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
+    Price: 7 828,00 Kč CZK
+  - [30000 km / 36 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242870621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
+    Price: 7 828,00 Kč CZK
+  - [30000 km / 48 měsíců / Bílá](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62458152976733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto1_35ea5b17-b669-4b7b-b4f4-011b055919f3.webp?v=1762436460
+    Price: 7 493,00 Kč CZK
+  - [30000 km / 48 měsíců / Zelená Experience](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242903389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto5.webp?v=1762436349
+    Price: 7 658,00 Kč CZK
+  - [30000 km / 48 měsíců / Šedá Yucca Steel](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242936157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto4_5f5a83de-7a92-403c-ac3c-b22442a82086.webp?v=1762436401
+    Price: 7 658,00 Kč CZK
+  - [30000 km / 48 měsíců / Stříbrná Lunar](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka?variant=62492242968925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
+    Price: 7 658,00 Kč CZK
 - [Cupra Formentor 1.5 TSI 110 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-tsi-110kw-natural-95-manualni-prevodovka): Formentor je prvním samostatným modelem značky Cupra. Jedná se o mimořádně oblíbené SUV s jedinečným designem. Přední část působí agresivně, čemuž napomáhají zamračené světlomety a zkosená maska se “zubatou” texturou. Interiér působí moderně a minimalisticky. Dotyková obrazovka je nakloněná k řidiči, což je příjemné. O prostor vpředu není nouze, situace je o chlup horší vzadu, kde je to o něco stísněnější, ale i tak se tam 185 cm vysoký člověk pohodlně vejde. Čtyři takové pasažéry Formentor pojme bez problému. Kufr pojme 450 litrů nákladu. Jízda je pohodlná, svižná a hezky tichá. O pohon vozu se stará benzínový čtyřválec, který je kombinovaný s manuální 6 stupňovou převodovkou, která má přesné dráhy a práce s ní je radost. Celkově tak podtrhuje sportovně střiženou auru, kterou Formentor nabízí.
   Updated: 2025-11-26T20:09:01Z
   Vendor: Driveto
@@ -3570,7 +3586,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX5MSportfoto8.webp?v=1761742207
     Price: 25 880,00 Kč CZK
 - [Cupra Formentor 1.5 eTSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/cupra-formentor-1-5-etsi-110-kw-natural-95-automaticka-prevodovka): Cupra Formentor je prvním samostatným modelem značky Cupra. Jedná se o mimořádně oblíbené SUV s jedinečným designem. Přední část působí agresivně, čemuž napomáhají zamračené světlomety a agresivně tvarovaný nárazník. Tento kousek je navíc po výraznější modernizaci, která poměrně výrazně dotkla exteriéru, ale změny nastaly i uvnitř. Interiér působí moderně a minimalisticky. Veliká dotyková obrazovka je nakloněná k řidiči, což je příjemné. O prostor vpředu není nouze, situace je o chlup horší vzadu, kde je to o něco stísněnější, ale i tak se tam 185 cm vysoký člověk pohodlně vejde. Čtyři takové pasažéry Formentor pojme bez problému. Kufr pojme 450 litrů nákladu. Jízda je pohodlná, svižná a se základním benzinovým motorem i úsporná. O pohon vozu se stará benzínový čtyřválec, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka DSG, díky které se jedná o vynikající volbu na každý den.
-  Updated: 2025-12-01T10:59:35Z
+  Updated: 2025-12-09T17:45:08Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -3778,17 +3794,17 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
 ## Collections
 
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/operativni-leasing): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-12-08T17:12:55Z
-  Total Products: 189
+  Updated: 2025-12-09T21:55:18Z
+  Total Products: 192
 - [Operativní leasing Škoda | Driveto.cz](https://www.driveto.cz/collections/skoda): Operativní leasing Škoda pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-08T12:24:08Z
+  Updated: 2025-12-09T21:55:18Z
   Total Products: 72
 - [Elektromobily na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/elektromobily): Elektromobily na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-03T12:23:23Z
   Total Products: 12
 - [Skladové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/skladove-vozy): Skladové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-08T16:27:42Z
-  Total Products: 192
+  Updated: 2025-12-09T21:55:18Z
+  Total Products: 197
 - [Operativní leasing Tesla | Driveto.cz](https://www.driveto.cz/collections/tesla): Operativní leasing Tesla pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-03T12:23:23Z
   Total Products: 2
@@ -3799,7 +3815,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-21T12:22:22Z
   Total Products: 2
 - [Operativní leasing BMW | Driveto.cz](https://www.driveto.cz/collections/bmw): Operativní leasing BMW pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-06T12:21:13Z
+  Updated: 2025-12-09T12:23:11Z
   Total Products: 12
 - [Operativní leasing Mini | Driveto.cz](https://www.driveto.cz/collections/mini): Operativní leasing Mini pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-27T12:08:11Z
@@ -3811,10 +3827,10 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-10-17T09:02:46Z
   Total Products: 0
 - [Operativní leasing Cupra | Driveto.cz](https://www.driveto.cz/collections/cupra): Operativní leasing Cupra pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-08T12:24:08Z
+  Updated: 2025-12-09T12:23:11Z
   Total Products: 13
 - [Operativní leasing Nissan | Driveto.cz](https://www.driveto.cz/collections/nissan): Operativní leasing Nissan pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-07T12:22:28Z
+  Updated: 2025-12-09T12:23:11Z
   Total Products: 6
 - [Operativní leasing Citroën | Driveto.cz](https://www.driveto.cz/collections/citroen): Operativní leasing Citroën pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-01T08:36:13Z
@@ -3823,13 +3839,13 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-27T14:54:10Z
   Total Products: 0
 - [Operativní leasing Toyota | Driveto.cz](https://www.driveto.cz/collections/toyota): Operativní leasing Toyota pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-08T12:24:08Z
-  Total Products: 3
+  Updated: 2025-12-09T18:17:18Z
+  Total Products: 4
 - [Operativní leasing Volvo | Driveto.cz](https://www.driveto.cz/collections/volvo): Operativní leasing Volvo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-08T12:24:08Z
-  Total Products: 14
+  Updated: 2025-12-09T13:06:21Z
+  Total Products: 15
 - [Operativní leasing Audi | Driveto.cz](https://www.driveto.cz/collections/audi): Operativní leasing Audi pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-08T17:12:55Z
+  Updated: 2025-12-09T12:23:11Z
   Total Products: 15
 - [Operativní leasing Peugeot | Driveto.cz](https://www.driveto.cz/collections/peugeot): Operativní leasing Peugeot pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-07T12:22:28Z
@@ -3838,47 +3854,47 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-12-08T12:24:08Z
   Total Products: 4
 - [Operativní leasing Kia | Driveto.cz](https://www.driveto.cz/collections/kia): Operativní leasing Kia pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-03T12:23:23Z
-  Total Products: 3
+  Updated: 2025-12-09T17:50:01Z
+  Total Products: 4
 - [Operativní leasing Volkswagen | Driveto.cz](https://www.driveto.cz/collections/volkswagen): Operativní leasing Volkswagen pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-08T12:24:08Z
+  Updated: 2025-12-09T12:23:11Z
   Total Products: 23
 - [Akční nabídky na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/akcni-nabidky): Akční nabídky na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-08T12:24:08Z
-  Total Products: 35
+  Updated: 2025-12-09T13:06:21Z
+  Total Products: 36
 - [Operativní leasing Renault | Driveto.cz](https://www.driveto.cz/collections/renault): Operativní leasing Renault pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-08T12:24:08Z
+  Updated: 2025-12-09T12:23:11Z
   Total Products: 5
 - [Užitkové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/uzitkove-vozy): Užitkové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-12-08T12:24:08Z
   Total Products: 8
 - [Osobní vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/osobni-vozy): Osobní vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-08T17:12:55Z
-  Total Products: 191
+  Updated: 2025-12-09T21:55:18Z
+  Total Products: 194
 - [Plug-in vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/plug-in): Plug-in vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-08T12:24:08Z
-  Total Products: 13
+  Updated: 2025-12-09T18:17:13Z
+  Total Products: 15
 - [Mild hybridy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/mild-hybrid): Mild hybridy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-05T12:21:56Z
-  Total Products: 4
+  Updated: 2025-12-09T18:17:13Z
+  Total Products: 5
 - [Operativní leasing se zimními pneumatikami | Driveto.cz](https://www.driveto.cz/collections/vcetne-zimnich-pneumatik): Operativní leasing se zimními pneumatikami pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-07T12:22:28Z
+  Updated: 2025-12-09T12:23:11Z
   Total Products: 4
 - [Operativní leasing Maxus | Driveto.cz](https://www.driveto.cz/collections/maxus): Operativní leasing Maxus pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-12T11:50:31Z
   Total Products: 0
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/all): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-12-08T17:12:55Z
-  Total Products: 189
+  Updated: 2025-12-09T21:55:18Z
+  Total Products: 192
 - [Operativní leasing Opel | Driveto.cz](https://www.driveto.cz/collections/opel): Operativní leasing Opel pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-12-08T12:24:08Z
+  Updated: 2025-12-09T12:23:11Z
   Total Products: 4
 - [BLACK FRIDAY | Driveto.cz](https://www.driveto.cz/collections/black-friday): Využijte Black Friday na Driveto. Operativní leasing na auta skladem nebo s rychlou dostupností. Nejlepší nabídky roku bez starostí a jednoduše online.
   Updated: 2025-12-01T08:32:13Z
   Total Products: 0
 - [Vánoční nadílka bez čekání](https://www.driveto.cz/collections/vanoce): Naše Vánoční nadílka bez čekání přináší vozy skladem a za skvělé ceny. Žádné dlouhé čekací lhůty a žádné složité podmínky - prostě si vyberte, podepíšete smlouvu a jezdíte.
-  Updated: 2025-12-08T12:24:08Z
-  Total Products: 25
+  Updated: 2025-12-09T18:19:53Z
+  Total Products: 28
 
 ## Blogs
 
