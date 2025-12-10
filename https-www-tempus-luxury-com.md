@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2020-01-17T12:09:09Z
 - Contact Email: info@tempus-luxury.com
-- Updated At: 2025-12-04T00:00:22.859Z
+- Updated At: 2025-12-10T00:00:25.221Z
 
 ## Products
 
 - [Watch Winder for 1 Automatic Watch with Remote Control by...](https://www.tempus-luxury.com/products/tempus-single-watch-winder-remote-control): Discover the Watch Winder for 1 Automatic Watch with Remote Control by Tempus — a premium Watch Winder designed by Tempus for collectors who value precision,...
-  Updated: 2025-11-29T07:59:14Z
+  Updated: 2025-12-04T03:58:22Z
   Vendor: Tempus Luxury watch Winders
   Product Type: Watch Winder
   Availability: Available
@@ -38,15 +38,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0313/6805/2868/files/6-Watch-Winder-for-Automatic-Watches-with-BioMetric-Technology-by-Tempus.webp?v=1744972679
   Price: £1,346.00 GBP
-- [12 Watch Winder for Automatic Watches for men with BioMet...](https://www.tempus-luxury.com/products/tempus-12-watch-winder-biometric): Discover the 12 Watch Winder for Automatic Watches for men with BioMetric Technology by Tempus — a premium Watch Winder designed by Tempus for collectors who...
-  Updated: 2025-11-29T07:59:18Z
-  Vendor: Tempus Luxury watch Winders
-  Product Type: Watch Winder
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0313/6805/2868/files/12-Watch-Winder-for-Automatic-Watches-for-men-with-BioMetric-Technology-by-Tempus.webp?v=1744972715
-  Price: £2,021.00 GBP
 - [Tempus 2 Watch Winder Automatic Watches with Touch Screen...](https://www.tempus-luxury.com/products/tempus-2-watch-winder-automatic-touchscreen): Discover the Tempus 2 Watch Winder Automatic Watches with Touch Screen — a premium Watch Winder designed by Tempus for collectors who value precision, crafts...
-  Updated: 2025-11-29T07:59:11Z
+  Updated: 2025-12-09T16:09:27Z
   Vendor: Tempus Luxury watch Winders
   Product Type: Watch Winder
   Availability: Available
@@ -384,13 +377,13 @@
 ## Collections
 
 - [High-Security Watch Winder Safes | Tempus UK](https://www.tempus-luxury.com/collections/watch-winder-safes): Discover Tempus luxury watch winder safes — combining silent winding, secure storage, and elegant presentation for serious collectors.
-  Updated: 2025-11-29T08:08:19Z
+  Updated: 2025-12-07T12:21:16Z
   Total Products: 23
 - [Luxury Watch Boxes for Collectors | Tempus](https://www.tempus-luxury.com/collections/watch-boxes): Discover handcrafted luxury watch boxes in carbon fibre, piano black, and more. Ideal for storage, gifting, and display — designed for collectors.
   Updated: 2025-11-29T08:01:00Z
   Total Products: 23
 - [Luxury Watch Winders for Automatic Watches | Tempus UK](https://www.tempus-luxury.com/collections/watch-winders): Explore Tempus luxury watch winders — ultra-quiet, programmable, and crafted in carbon fibre, piano black, and more. Ideal for collectors of automatic watches.
-  Updated: 2025-11-29T08:08:19Z
+  Updated: 2025-12-09T12:24:04Z
   Total Products: 39
 - [Luxury Marble Watch Stands & Holders | Tempus](https://www.tempus-luxury.com/collections/watch-stands): Shop luxury marble watch stands by Tempus — minimalist, solid, and hand-finished. Ideal for resting and displaying daily wearers in style.
   Updated: 2025-11-29T07:55:03Z
