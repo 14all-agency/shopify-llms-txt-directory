@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-10T04:00:35.843Z
+- Updated At: 2025-12-10T08:00:36.262Z
 
 ## Products
 
@@ -3418,21 +3418,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/vans-hip-bag-vans-ward-cross-body-bag-black-1183714350.png?v=1757154962
   Price: £34.95 GBP
-- [Baker Brand Logo Black & White Skateboard Deck](https://thevinessupply.co/products/baker-brand-logo-black-white-skateboard-deck): Buy the Baker Brand Logo Skateboard Deck in various sizes at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-11-29T22:12:25Z
-  Vendor: Baker
-  Product Type: Decks
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/baker-decks-baker-brand-logo-black-white-skateboard-deck-1183714520.png?v=1757157725
-  - [8"](https://thevinessupply.co/products/baker-brand-logo-black-white-skateboard-deck?variant=55848853012815)
-    Availability: Not Available
-    Price: £79.95 GBP
-  - [8.125"](https://thevinessupply.co/products/baker-brand-logo-black-white-skateboard-deck?variant=55608771805519)
-    Availability: Available
-    Price: £79.95 GBP
-  - [8.25"](https://thevinessupply.co/products/baker-brand-logo-black-white-skateboard-deck?variant=56508483469647)
-    Availability: Not Available
-    Price: £79.95 GBP
 - [Vans Earthbound T-Shirt | Asphalt](https://thevinessupply.co/products/vans-earthbound-t-shirt-asphalt): Buy the Vans Major Type tee in black at The Vines Skate Shop. Get best prices, free delivery and easy returns at www.thevinessupply.co
   Updated: 2025-11-30T13:13:05Z
   Vendor: Vans
@@ -7440,8 +7425,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-10T02:05:45Z
-  Total Products: 3233
+  Updated: 2025-12-10T07:10:00Z
+  Total Products: 3232
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-07T12:20:48Z
   Total Products: 110
