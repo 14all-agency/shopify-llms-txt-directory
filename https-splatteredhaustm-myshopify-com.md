@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-25T14:09:39Z
 - Contact Email: splatteredhaus@gmail.com
-- Updated At: 2025-12-08T00:00:23.980Z
+- Updated At: 2025-12-10T00:00:24.686Z
 
 ## Products
 
@@ -504,7 +504,7 @@
   Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/image-23182.png?v=1763089241
   Price: $159.00 USD
 - [Artistic T-Shirt - Chaos 1 | Abstract Splatter T-Shirt by Splattered Haus](https://splatteredhaustm.myshopify.com/products/artistic-t-shirt-chaos-1): Discover the Artistic T-Shirt - Chaos 1, featuring a unique hand-splattered abstract design on premium t-shirt. Perfect for making a bold statement. Vibrant print-on-demand from Splattered Haus – ideal gift for art lovers.
-  Updated: 2025-11-17T07:31:43Z
+  Updated: 2025-12-09T16:04:18Z
   Vendor: Splattered Haus™
   Product Type: 
   Availability: Available
@@ -528,7 +528,7 @@
     Availability: Available
     Price: $24.99 USD
 - [Vibrant Hoodie - Canvas 2 | Abstract Splatter Hoodie by Splattered Haus](https://splatteredhaustm.myshopify.com/products/vibrant-hoodie-canvas-2): Discover the Vibrant Hoodie - Canvas 2, featuring a unique hand-splattered abstract design on premium hoodie. Perfect for making a bold statement. Vibrant print-on-demand from Splattered Haus – ideal gift for art lovers.
-  Updated: 2025-11-17T07:31:46Z
+  Updated: 2025-12-09T16:04:21Z
   Vendor: Splattered Haus™
   Product Type: 
   Availability: Available
@@ -546,7 +546,7 @@
     Availability: Available
     Price: $49.99 USD
 - [Artistic Mug - Drip 3 | Abstract Splatter Mug by Splattered Haus](https://splatteredhaustm.myshopify.com/products/artistic-mug-drip-3): Discover the Artistic Mug - Drip 3, featuring a unique hand-splattered abstract design on premium mug. Perfect for making a bold statement. Vibrant print-on-demand from Splattered Haus – ideal gift for art lovers.
-  Updated: 2025-11-17T07:31:50Z
+  Updated: 2025-12-09T16:04:33Z
   Vendor: Splattered Haus™
   Product Type: 
   Availability: Available
@@ -955,14 +955,14 @@
   Availability: Available
   Price: $0.00 USD
 - [Animal dog head Necklace & Pendant with Tennis Chain Gold Color Bling](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry): Animal dog head Necklace &amp; Pendant with Tennis Chain Gold Color Bling Cubic Zircon Men's Hip hop  - Splattered Haus TM
-  Updated: 2025-12-06T05:46:46Z
+  Updated: 2025-12-09T16:05:00Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1211471995.jpg?v=1763231955
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1211471995.jpg?v=1765296276
   - [silver color / 5mm tennis chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129932017978)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006729.jpg?v=1763231959
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006729.jpg?v=1765296283
     Price: $74.44 USD
   - [silver / 5mm tennis chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129932050746)
     Availability: Available
@@ -975,7 +975,7 @@
     Price: $84.57 USD
   - [silver color / Cuban chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129932149050)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006729.jpg?v=1763231959
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006729.jpg?v=1765296283
     Price: $44.58 USD
   - [silver / Cuban chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129932181818)
     Availability: Available
@@ -988,7 +988,7 @@
     Price: $46.60 USD
   - [silver color / Rope chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129932280122)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006729.jpg?v=1763231959
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006729.jpg?v=1765296283
     Price: $44.58 USD
   - [silver / Rope chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129932312890)
     Availability: Available
@@ -1001,7 +1001,7 @@
     Price: $46.60 USD
   - [silver color / 4mm Tennis chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129932411194)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006729.jpg?v=1763231959
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006729.jpg?v=1765296283
     Price: $74.35 USD
   - [silver / 4mm Tennis chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129932443962)
     Availability: Available
@@ -1014,7 +1014,7 @@
     Price: $84.48 USD
   - [gold color / 5mm tennis chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129932542266)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006727.jpg?v=1763231961
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006727.jpg?v=1765296288
     Price: $74.44 USD
   - [gold / 5mm tennis chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129932575034)
     Availability: Available
@@ -1027,7 +1027,7 @@
     Price: $84.57 USD
   - [gold color / Cuban chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129932673338)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006727.jpg?v=1763231961
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006727.jpg?v=1765296288
     Price: $44.58 USD
   - [gold / Cuban chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129932706106)
     Availability: Available
@@ -1040,7 +1040,7 @@
     Price: $46.60 USD
   - [gold color / Rope chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129932804410)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006727.jpg?v=1763231961
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006727.jpg?v=1765296288
     Price: $44.58 USD
   - [gold / Rope chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129932837178)
     Availability: Available
@@ -1053,7 +1053,7 @@
     Price: $46.60 USD
   - [gold color / 4mm Tennis chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129932935482)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006727.jpg?v=1763231961
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006727.jpg?v=1765296288
     Price: $74.35 USD
   - [gold / 4mm Tennis chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129932968250)
     Availability: Available
@@ -1066,7 +1066,7 @@
     Price: $84.48 USD
   - [rose gold color / 5mm tennis chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129933066554)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006728.jpg?v=1763231957
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006728.jpg?v=1765296280
     Price: $74.44 USD
   - [rose gold / 5mm tennis chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129933099322)
     Availability: Available
@@ -1079,7 +1079,7 @@
     Price: $84.57 USD
   - [rose gold color / Cuban chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129933197626)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006728.jpg?v=1763231957
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006728.jpg?v=1765296280
     Price: $44.58 USD
   - [rose gold / Cuban chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129933230394)
     Availability: Available
@@ -1092,7 +1092,7 @@
     Price: $46.60 USD
   - [rose gold color / Rope chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129933328698)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006728.jpg?v=1763231957
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006728.jpg?v=1765296280
     Price: $44.58 USD
   - [rose gold / Rope chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129933361466)
     Availability: Available
@@ -1105,7 +1105,7 @@
     Price: $46.60 USD
   - [rose gold color / 4mm Tennis chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129933459770)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006728.jpg?v=1763231957
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1348006728.jpg?v=1765296280
     Price: $74.35 USD
   - [rose gold / 4mm Tennis chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry?variant=52129933492538)
     Availability: Available
@@ -1117,567 +1117,567 @@
     Availability: Available
     Price: $84.48 USD
 - [Men Jeans Hip Hop Graffiti Skull Letter Print Denim Pants Skinny Hole](https://splatteredhaustm.myshopify.com/products/men-jeans-hip-hop-graffiti-skull-letter-print-denim-pants-skinny-hole-high-street): Men  Hip Hop Graffiti Skull Letter Print Denim Pants Men Casual Skinny Hole High Street Fashion  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:01Z
+  Updated: 2025-12-09T16:05:27Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1473884824.jpg?v=1763232012
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1473884824.jpg?v=1765296304
   - [Black / XXL](https://splatteredhaustm.myshopify.com/products/men-jeans-hip-hop-graffiti-skull-letter-print-denim-pants-skinny-hole-high-street?variant=52129933951290)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1473884822.jpg?v=1763232013
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1473884822.jpg?v=1765296309
     Price: $121.86 USD
   - [Black / L](https://splatteredhaustm.myshopify.com/products/men-jeans-hip-hop-graffiti-skull-letter-print-denim-pants-skinny-hole-high-street?variant=52129933984058)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1473884822.jpg?v=1763232013
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1473884822.jpg?v=1765296309
     Price: $121.86 USD
   - [Black / XL](https://splatteredhaustm.myshopify.com/products/men-jeans-hip-hop-graffiti-skull-letter-print-denim-pants-skinny-hole-high-street?variant=52129934016826)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1473884822.jpg?v=1763232013
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1473884822.jpg?v=1765296309
     Price: $121.86 USD
   - [Black / M](https://splatteredhaustm.myshopify.com/products/men-jeans-hip-hop-graffiti-skull-letter-print-denim-pants-skinny-hole-high-street?variant=52129934049594)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1473884822.jpg?v=1763232013
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1473884822.jpg?v=1765296309
     Price: $121.86 USD
 - [12MM Baguette Zirconia Square Necklace Chain Men's Hip Hop Link Gold](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry): 12MM Baguette Zirconia Square Necklace Chain Men's Hip Hop Link Gold Color Plated Copper Bling  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:07Z
+  Updated: 2025-12-09T16:05:53Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-297087.jpg?v=1763232110
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-297087.jpg?v=1765296330
   - [Rose  gold / United States / 28inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129934999866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1763232112
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1765296334
     Price: $138.72 USD
   - [Rose  gold / United States / 20inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935032634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1763232112
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1765296334
     Price: $102.37 USD
   - [Rose  gold / United States / 22inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935065402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1763232112
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1765296334
     Price: $111.82 USD
   - [Rose  gold / United States / 16inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935098170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1763232112
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1765296334
     Price: $83.11 USD
   - [Rose  gold / United States / 24inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935130938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1763232112
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1765296334
     Price: $120.31 USD
   - [Rose  gold / United States / 18inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935163706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1763232112
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1765296334
     Price: $92.54 USD
   - [Rose  gold / China / 28inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935196474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1763232112
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1765296334
     Price: $138.72 USD
   - [Rose  gold / China / 20inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935229242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1763232112
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1765296334
     Price: $102.37 USD
   - [Silver color / United States / 28inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935262010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1763232121
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1765296351
     Price: $138.72 USD
   - [Silver color / United States / 20inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935294778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1763232121
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1765296351
     Price: $102.37 USD
   - [Silver color / United States / 22inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935327546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1763232121
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1765296351
     Price: $111.82 USD
   - [Silver color / United States / 16inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935360314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1763232121
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1765296351
     Price: $83.11 USD
   - [Silver color / United States / 24inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935393082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1763232121
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1765296351
     Price: $120.31 USD
   - [Silver color / United States / 18inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935425850)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1763232121
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1765296351
     Price: $92.54 USD
   - [Silver color / China / 28inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935458618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1763232121
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1765296351
     Price: $138.72 USD
   - [Silver color / China / 20inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935491386)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1763232121
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1765296351
     Price: $102.37 USD
   - [Silver color / China / 22inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935524154)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1763232121
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1765296351
     Price: $111.82 USD
   - [Silver color / China / 16inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935556922)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1763232121
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1765296351
     Price: $83.11 USD
   - [Silver color / China / 24inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935589690)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1763232121
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1765296351
     Price: $120.31 USD
   - [Silver color / China / 18inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935622458)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1763232121
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-248325.jpg?v=1765296351
     Price: $92.54 USD
   - [Rose  gold / China / 22inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935655226)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1763232112
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1765296334
     Price: $111.82 USD
   - [Rose  gold / China / 16inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935687994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1763232112
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1765296334
     Price: $83.11 USD
   - [Rose  gold / China / 24inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935720762)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1763232112
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1765296334
     Price: $120.31 USD
   - [Rose  gold / China / 18inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935753530)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1763232112
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-157574.jpg?v=1765296334
     Price: $92.54 USD
   - [Gold color / United States / 28inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935786298)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1763232113
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1765296337
     Price: $138.72 USD
   - [Gold color / United States / 20inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935819066)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1763232113
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1765296337
     Price: $102.37 USD
   - [Gold color / United States / 22inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935851834)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1763232113
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1765296337
     Price: $111.82 USD
   - [Gold color / United States / 16inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935884602)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1763232113
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1765296337
     Price: $83.11 USD
   - [Gold color / United States / 24inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935917370)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1763232113
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1765296337
     Price: $120.31 USD
   - [Gold color / United States / 18inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935950138)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1763232113
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1765296337
     Price: $92.54 USD
   - [Gold color / China / 28inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129935982906)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1763232113
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1765296337
     Price: $138.72 USD
   - [Gold color / China / 20inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129936015674)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1763232113
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1765296337
     Price: $102.37 USD
   - [Gold color / China / 22inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129936048442)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1763232113
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1765296337
     Price: $111.82 USD
   - [Gold color / China / 16inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129936081210)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1763232113
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1765296337
     Price: $83.11 USD
   - [Gold color / China / 24inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129936113978)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1763232113
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1765296337
     Price: $120.31 USD
   - [Gold color / China / 18inch](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry?variant=52129936146746)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1763232113
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1765296337
     Price: $92.54 USD
 - [14mm Square Miami Cuban Link Bracelet Gold Color Iced Out Cubic](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry): 14mm Square Miami Cuban Link Bracelet Gold Color Iced Out Cubic Zirconia Rock Hip hop Style Men's  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:24Z
+  Updated: 2025-12-09T16:06:16Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-572276.jpg?v=1763232059
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-572276.jpg?v=1765296357
   - [Gold color / China / 8inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936179514)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-171813.jpg?v=1763232061
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-171813.jpg?v=1765296363
     Price: $49.36 USD
   - [Gold color / China / 7inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936212282)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-171813.jpg?v=1763232061
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-171813.jpg?v=1765296363
     Price: $47.49 USD
   - [Gold color / United States / 7inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936245050)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-171813.jpg?v=1763232061
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-171813.jpg?v=1765296363
     Price: $47.49 USD
   - [Gold color / China / 9inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936277818)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-171813.jpg?v=1763232061
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-171813.jpg?v=1765296363
     Price: $54.82 USD
   - [Gold color / United States / 9inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936310586)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-171813.jpg?v=1763232061
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-171813.jpg?v=1765296363
     Price: $54.82 USD
   - [Gold color / United States / 8inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936343354)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-171813.jpg?v=1763232061
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-171813.jpg?v=1765296363
     Price: $49.36 USD
   - [Silver color / China / 8inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936376122)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-279503.jpg?v=1763232065
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-279503.jpg?v=1765296369
     Price: $49.36 USD
   - [Silver color / China / 7inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936408890)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-279503.jpg?v=1763232065
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-279503.jpg?v=1765296369
     Price: $47.49 USD
   - [Silver color / United States / 7inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936441658)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-279503.jpg?v=1763232065
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-279503.jpg?v=1765296369
     Price: $47.49 USD
   - [Silver color / China / 9inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936474426)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-279503.jpg?v=1763232065
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-279503.jpg?v=1765296369
     Price: $54.82 USD
   - [Silver color / United States / 9inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936507194)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-279503.jpg?v=1763232065
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-279503.jpg?v=1765296369
     Price: $54.82 USD
   - [Silver color / United States / 8inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936539962)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-279503.jpg?v=1763232065
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-279503.jpg?v=1765296369
     Price: $49.36 USD
   - [Rose gold color / China / 8inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936572730)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-939105.jpg?v=1763232063
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-939105.jpg?v=1765296366
     Price: $49.36 USD
   - [Rose gold color / China / 7inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936605498)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-939105.jpg?v=1763232063
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-939105.jpg?v=1765296366
     Price: $47.49 USD
   - [Rose gold color / United States / 7inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936638266)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-939105.jpg?v=1763232063
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-939105.jpg?v=1765296366
     Price: $47.49 USD
   - [Rose gold color / China / 9inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936671034)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-939105.jpg?v=1763232063
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-939105.jpg?v=1765296366
     Price: $54.82 USD
   - [Rose gold color / United States / 9inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936703802)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-939105.jpg?v=1763232063
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-939105.jpg?v=1765296366
     Price: $54.82 USD
   - [Rose gold color / United States / 8inch](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry?variant=52129936736570)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-939105.jpg?v=1763232063
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-939105.jpg?v=1765296366
     Price: $49.36 USD
 - [Solid 15mm Men's Hip Hop Cuban Chain Link Cubic Zirconia Gold Color](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry): Solid 15mm Men's Hip Hop Cuban Chain Link Cubic Zirconia Gold Color Necklace Choker Fashion Rock  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:17Z
+  Updated: 2025-12-09T16:06:35Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614869.jpg?v=1763232163
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614869.jpg?v=1765296378
   - [gold color / China / 16inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937293626)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1763232167
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1765296384
     Price: $81.48 USD
   - [gold color / China / 22inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937326394)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1763232167
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1765296384
     Price: $108.05 USD
   - [gold color / China / 18inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937359162)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1763232167
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1765296384
     Price: $90.43 USD
   - [gold color / China / 24inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937391930)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1763232167
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1765296384
     Price: $116.70 USD
   - [gold color / United States / 18inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937424698)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1763232167
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1765296384
     Price: $90.43 USD
   - [gold color / United States / 24inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937457466)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1763232167
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1765296384
     Price: $116.70 USD
   - [gold color / China / 20inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937490234)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1763232167
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1765296384
     Price: $99.30 USD
   - [gold color / China / 28inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937523002)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1763232167
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1765296384
     Price: $124.30 USD
   - [silver color / United States / 18inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937555770)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1763232180
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1765296388
     Price: $90.43 USD
   - [silver color / United States / 24inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937588538)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1763232180
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1765296388
     Price: $116.70 USD
   - [silver color / China / 20inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937621306)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1763232180
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1765296388
     Price: $99.30 USD
   - [silver color / China / 28inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937654074)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1763232180
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1765296388
     Price: $124.30 USD
   - [silver color / United States / 20inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937686842)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1763232180
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1765296388
     Price: $99.30 USD
   - [silver color / United States / 28inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937719610)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1763232180
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1765296388
     Price: $124.30 USD
   - [silver color / United States / 16inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937752378)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1763232180
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1765296388
     Price: $81.48 USD
   - [silver color / United States / 22inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937785146)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1763232180
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1765296388
     Price: $108.05 USD
   - [silver color / China / 16inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937817914)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1763232180
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1765296388
     Price: $81.48 USD
   - [silver color / China / 22inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937850682)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1763232180
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1765296388
     Price: $108.05 USD
   - [silver color / China / 18inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937883450)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1763232180
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1765296388
     Price: $90.43 USD
   - [silver color / China / 24inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937916218)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1763232180
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614847.jpg?v=1765296388
     Price: $116.70 USD
   - [gold color / United States / 20inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937948986)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1763232167
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1765296384
     Price: $99.30 USD
   - [gold color / United States / 28inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129937981754)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1763232167
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1765296384
     Price: $124.30 USD
   - [gold color / United States / 16inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129938014522)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1763232167
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1765296384
     Price: $81.48 USD
   - [gold color / United States / 22inch](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry?variant=52129938047290)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1763232167
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1765296384
     Price: $108.05 USD
 - [18mm Baguette Zirconia Cuban Chain Necklace Men's Hip Hop Link Gold](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry): 18mm Baguette Zirconia Cuban Chain Necklace Men's Hip Hop Link Gold Color Copper Bling Fashion Rock  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:11Z
+  Updated: 2025-12-09T16:06:55Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-489603.jpg?v=1763232212
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-489603.jpg?v=1765296397
   - [silver color / China / 20inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938080058)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1763232221
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1765296414
     Price: $165.09 USD
   - [silver color / China / 22inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938112826)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1763232221
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1765296414
     Price: $180.33 USD
   - [silver color / United States / 18inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938145594)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1763232221
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1765296414
     Price: $149.25 USD
   - [silver color / China / 28inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938178362)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1763232221
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1765296414
     Price: $223.74 USD
   - [silver color / United States / 16inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938211130)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1763232221
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1765296414
     Price: $134.02 USD
   - [silver color / United States / 24inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938243898)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1763232221
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1765296414
     Price: $194.04 USD
   - [silver color / United States / 20inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938276666)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1763232221
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1765296414
     Price: $165.09 USD
   - [silver color / United States / 22inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938309434)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1763232221
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1765296414
     Price: $180.33 USD
   - [silver color / China / 18inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938342202)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1763232221
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1765296414
     Price: $149.25 USD
   - [silver color / China / 16inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938374970)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1763232221
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1765296414
     Price: $134.02 USD
   - [silver color / China / 24inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938407738)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1763232221
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1765296414
     Price: $194.04 USD
   - [gold color / United States / 16inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938440506)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1763232220
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1765296412
     Price: $134.02 USD
   - [gold color / United States / 24inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938473274)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1763232220
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1765296412
     Price: $194.04 USD
   - [gold color / United States / 20inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938506042)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1763232220
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1765296412
     Price: $165.09 USD
   - [gold color / United States / 22inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938538810)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1763232220
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1765296412
     Price: $180.33 USD
   - [gold color / United States / 28inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938571578)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1763232220
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1765296412
     Price: $223.74 USD
   - [gold color / China / 18inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938604346)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1763232220
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1765296412
     Price: $149.25 USD
   - [silver color / United States / 28inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938637114)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1763232221
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-880793.jpg?v=1765296414
     Price: $223.74 USD
   - [gold color / China / 16inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938669882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1763232220
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1765296412
     Price: $134.02 USD
   - [gold color / China / 24inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938702650)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1763232220
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1765296412
     Price: $194.04 USD
   - [gold color / China / 20inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938735418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1763232220
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1765296412
     Price: $165.09 USD
   - [gold color / China / 22inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938768186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1763232220
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1765296412
     Price: $180.33 USD
   - [gold color / United States / 18inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938800954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1763232220
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1765296412
     Price: $149.25 USD
   - [gold color / China / 28inch](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938833722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1763232220
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1765296412
     Price: $223.74 USD
 - [9MM Baguette Zirconia Square Necklace Chain Men's Hip Hop Link Gold](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry): 9MM Baguette Zirconia Square Necklace Chain Men's Hip Hop Link Gold Color Copper Bling Fashion Rock  - Splattered Haus TM
-  Updated: 2025-12-06T05:46:58Z
+  Updated: 2025-12-09T16:07:13Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828579.jpg?v=1763232263
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828579.jpg?v=1765296420
   - [silver color / China / 18inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938866490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1763232268
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1765296429
     Price: $92.54 USD
   - [silver color / China / 22inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938899258)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1763232268
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1765296429
     Price: $111.82 USD
   - [silver color / China / 20inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938932026)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1763232268
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1765296429
     Price: $102.37 USD
   - [silver color / China / 24inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938964794)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1763232268
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1765296429
     Price: $120.31 USD
   - [silver color / China / 16inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129938997562)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1763232268
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1765296429
     Price: $83.11 USD
   - [silver color / United States / 24inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939030330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1763232268
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1765296429
     Price: $120.31 USD
   - [silver color / United States / 16inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939063098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1763232268
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1765296429
     Price: $83.11 USD
   - [silver color / China / 28inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939095866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1763232268
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1765296429
     Price: $138.72 USD
   - [silver color / United States / 18inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939128634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1763232268
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1765296429
     Price: $92.54 USD
   - [silver color / United States / 28inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939161402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1763232268
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1765296429
     Price: $138.72 USD
   - [gold color / China / 18inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939194170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1763232266
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1765296426
     Price: $92.54 USD
   - [silver color / United States / 22inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939226938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1763232268
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1765296429
     Price: $111.82 USD
   - [silver color / United States / 20inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939259706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1763232268
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828575.jpg?v=1765296429
     Price: $102.37 USD
   - [gold color / China / 22inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939292474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1763232266
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1765296426
     Price: $111.82 USD
   - [gold color / China / 20inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939325242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1763232266
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1765296426
     Price: $102.37 USD
   - [gold color / China / 24inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939358010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1763232266
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1765296426
     Price: $120.31 USD
   - [gold color / China / 16inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939390778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1763232266
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1765296426
     Price: $83.11 USD
   - [gold color / United States / 24inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939423546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1763232266
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1765296426
     Price: $120.31 USD
   - [gold color / United States / 16inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939456314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1763232266
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1765296426
     Price: $83.11 USD
   - [gold color / China / 28inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939489082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1763232266
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1765296426
     Price: $138.72 USD
   - [gold color / United States / 18inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939521850)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1763232266
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1765296426
     Price: $92.54 USD
   - [gold color / United States / 28inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939554618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1763232266
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1765296426
     Price: $138.72 USD
   - [gold color / United States / 22inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939587386)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1763232266
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1765296426
     Price: $111.82 USD
   - [gold color / United States / 20inch](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry?variant=52129939620154)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1763232266
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1765296426
     Price: $102.37 USD
 - [9mm Square Men's Bracelet Chain Hip Hop Link Finish Zirconia Copper](https://splatteredhaustm.myshopify.com/products/9mm-square-mens-bracelet-chain-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry): 9mm Square Men's Bracelet Chain Hip Hop Link Finish Zirconia Copper Gold Color Fashion Rock Jewelry  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:30Z
+  Updated: 2025-12-09T16:07:28Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1610871236.jpg?v=1763232319
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1610871236.jpg?v=1765296436
   - [Gold Color / China / 8inch](https://splatteredhaustm.myshopify.com/products/9mm-square-mens-bracelet-chain-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129939652922)
     Availability: Available
     Price: $47.76 USD
@@ -1715,204 +1715,204 @@
     Availability: Available
     Price: $47.76 USD
 - [Men High Street Elastic Waist Fashion Baggy Hip Hop Style Men](https://splatteredhaustm.myshopify.com/products/men-high-street-elastic-waist-fashion-baggy-hip-hop-style-men-streetwear): Sweatpants Funny Vintage Print Pants Men High Street Elastic Waist Fashion Baggy Hip Hop Style Men  - Splattered Haus TM
-  Updated: 2025-12-06T05:46:44Z
+  Updated: 2025-12-09T16:07:53Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371440.jpg?v=1763232377
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371440.jpg?v=1765296452
   - [black / L](https://splatteredhaustm.myshopify.com/products/men-high-street-elastic-waist-fashion-baggy-hip-hop-style-men-streetwear?variant=52129940308282)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371439.jpg?v=1763232386
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371439.jpg?v=1765296472
     Price: $81.33 USD
   - [black / M](https://splatteredhaustm.myshopify.com/products/men-high-street-elastic-waist-fashion-baggy-hip-hop-style-men-streetwear?variant=52129940341050)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371439.jpg?v=1763232386
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371439.jpg?v=1765296472
     Price: $81.33 USD
   - [white / XL](https://splatteredhaustm.myshopify.com/products/men-high-street-elastic-waist-fashion-baggy-hip-hop-style-men-streetwear?variant=52129940373818)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371440.jpg?v=1763232377
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371440.jpg?v=1765296452
     Price: $81.33 USD
   - [white / L](https://splatteredhaustm.myshopify.com/products/men-high-street-elastic-waist-fashion-baggy-hip-hop-style-men-streetwear?variant=52129940406586)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371440.jpg?v=1763232377
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371440.jpg?v=1765296452
     Price: $81.33 USD
   - [white / M](https://splatteredhaustm.myshopify.com/products/men-high-street-elastic-waist-fashion-baggy-hip-hop-style-men-streetwear?variant=52129940439354)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371440.jpg?v=1763232377
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371440.jpg?v=1765296452
     Price: $81.33 USD
   - [black / XL](https://splatteredhaustm.myshopify.com/products/men-high-street-elastic-waist-fashion-baggy-hip-hop-style-men-streetwear?variant=52129940472122)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371439.jpg?v=1763232386
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371439.jpg?v=1765296472
     Price: $81.33 USD
 - [Punk Rock Love Letter Round Square Pendant Chunky Necklace Lover](https://splatteredhaustm.myshopify.com/products/punk-rock-love-letter-round-square-pendant-chunky-necklace-lover-hip-hop-jewelry): Length:49cm - Splattered Haus TM
-  Updated: 2025-12-06T17:18:31Z
+  Updated: 2025-12-09T17:17:56Z
   Vendor: Feelontop Jewellery
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/6_9758178e-23aa-4ae7-85f9-d8a24ac7c459.jpg?v=1763232423
-  Price: $2.55 USD
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/6_9758178e-23aa-4ae7-85f9-d8a24ac7c459.jpg?v=1765296475
+  Price: $2.54 USD
 - [9mm Square Necklace Chain Men's Hip Hop Link Finish Zirconia Copper](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry): 9mm Square Necklace Chain Men's Hip Hop Link Finish Zirconia Copper Gold Color Fashion Rock Jewelry  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:04Z
+  Updated: 2025-12-09T16:08:31Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135672.jpg?v=1763232477
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135672.jpg?v=1765296492
   - [silver color / United States / 18inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941094714)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1763232485
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1765296507
     Price: $88.12 USD
   - [silver color / United States / 24inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941127482)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1763232485
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1765296507
     Price: $98.90 USD
   - [silver color / China / 20inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941160250)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1763232485
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1765296507
     Price: $84.15 USD
   - [silver color / China / 28inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941193018)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1763232485
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1765296507
     Price: $105.34 USD
   - [silver color / China / 16inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941225786)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1763232485
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1765296507
     Price: $79.40 USD
   - [silver color / China / 22inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941258554)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1763232485
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1765296507
     Price: $91.58 USD
   - [silver color / China / 18inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941291322)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1763232485
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1765296507
     Price: $88.12 USD
   - [silver color / China / 24inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941324090)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1763232485
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1765296507
     Price: $98.90 USD
   - [gold color / China / 16inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941356858)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1763232487
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1765296510
     Price: $79.40 USD
   - [gold color / China / 22inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941389626)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1763232487
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1765296510
     Price: $91.58 USD
   - [gold color / China / 18inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941422394)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1763232487
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1765296510
     Price: $88.12 USD
   - [gold color / China / 24inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941455162)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1763232487
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1765296510
     Price: $98.90 USD
   - [silver color / United States / 20inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941487930)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1763232485
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1765296507
     Price: $84.15 USD
   - [silver color / United States / 28inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941520698)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1763232485
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1765296507
     Price: $105.34 USD
   - [silver color / United States / 16inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941553466)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1763232485
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1765296507
     Price: $79.40 USD
   - [silver color / United States / 22inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941586234)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1763232485
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135655.jpg?v=1765296507
     Price: $91.58 USD
   - [gold color / United States / 20inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941619002)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1763232487
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1765296510
     Price: $84.15 USD
   - [gold color / United States / 28inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941651770)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1763232487
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1765296510
     Price: $105.34 USD
   - [gold color / United States / 16inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941684538)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1763232487
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1765296510
     Price: $79.40 USD
   - [gold color / United States / 22inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941717306)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1763232487
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1765296510
     Price: $91.58 USD
   - [gold color / United States / 18inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941750074)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1763232487
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1765296510
     Price: $88.12 USD
   - [gold color / United States / 24inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941782842)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1763232487
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1765296510
     Price: $98.90 USD
   - [gold color / China / 20inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941815610)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1763232487
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1765296510
     Price: $84.15 USD
   - [gold color / China / 28inch](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry?variant=52129941848378)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1763232487
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1765296510
     Price: $105.34 USD
 - [Baguette Zirconia Cuban Bracelet Chain Men's Trendy Cool Hip Hop Link](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm): Baguette Zirconia Cuban Bracelet Chain Men's Trendy Cool Hip Hop Link Copper Bling Rock Jewelry 18mm  - Splattered Haus TM
-  Updated: 2025-12-06T05:46:47Z
+  Updated: 2025-12-09T16:08:54Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-549852.jpg?v=1763232543
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-549852.jpg?v=1765296513
   - [Gold Color / China / 8inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129941946682)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1763232549
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1765296526
     Price: $88.68 USD
   - [Gold Color / China / 7inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129941979450)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1763232549
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1765296526
     Price: $90.12 USD
   - [Silver Color / United States / 9inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942012218)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1763232551
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1765296530
     Price: $81.10 USD
   - [Silver Color / United States / 8inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942044986)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1763232551
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1765296530
     Price: $84.91 USD
   - [Silver Color / China / 8inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942077754)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1763232551
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1765296530
     Price: $88.68 USD
   - [Silver Color / China / 7inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942110522)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1763232551
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1765296530
     Price: $90.12 USD
   - [Silver Color / United States / 7inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942143290)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1763232551
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1765296530
     Price: $75.09 USD
   - [Silver Color / China / 9inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942176058)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1763232551
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-943342.jpg?v=1765296530
     Price: $97.34 USD
   - [Gold Color / United States / 7inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942208826)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1763232549
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1765296526
     Price: $75.09 USD
   - [Gold Color / China / 9inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942241594)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1763232549
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1765296526
     Price: $97.34 USD
   - [Gold Color / United States / 9inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942274362)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1763232549
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1765296526
     Price: $81.10 USD
   - [Gold Color / United States / 8inch](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm?variant=52129942307130)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1763232549
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1765296526
     Price: $84.91 USD
 - [10mm Gold Color Miami Cuban Link Bracelet Bling Women Jewelry AAAA](https://splatteredhaustm.myshopify.com/products/10mm-gold-color-miami-cuban-link-bracelet-bling-women-jewelry-aaaa-zircon-charm-hip-hop-chain): 10mm Gold Color Miami Cuban Link Bracelet Bling Women Jewelry AAAA Zircon Charm Hip Hop Chain  - Splattered Haus TM
-  Updated: 2025-12-06T05:46:54Z
+  Updated: 2025-12-09T16:09:10Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-color-miami-cuban-link-bracelet-bling-women-jewelry-aaaa-zircon-charm-hip-hop-chain-964927.jpg?v=1763232571
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-color-miami-cuban-link-bracelet-bling-women-jewelry-aaaa-zircon-charm-hip-hop-chain-964927.jpg?v=1765296536
   - [Gold Color / United States / 8inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-color-miami-cuban-link-bracelet-bling-women-jewelry-aaaa-zircon-charm-hip-hop-chain?variant=52129942503738)
     Availability: Available
     Price: $45.29 USD
@@ -1968,249 +1968,249 @@
     Availability: Available
     Price: $45.29 USD
 - [10mm Gold Miami Cuban Link Necklace Bling AAAA Zircon Charm Men's Hip](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry): 10mm Gold Miami Cuban Link Necklace Bling AAAA Zircon Charm Men's Hip Hop Chain Women Jewelry Metals  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:23Z
+  Updated: 2025-12-09T16:09:26Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1763232615
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1765296552
   - [Silver color / United States / 18inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943126330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1763232623
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1765296562
     Price: $82.89 USD
   - [Silver color / China / 28inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943159098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1763232623
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1765296562
     Price: $99.79 USD
   - [Silver color / China / 24inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943191866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1763232623
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1765296562
     Price: $92.86 USD
   - [Silver color / China / 20inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943224634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1763232623
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1765296562
     Price: $90.85 USD
   - [Silver color / United States / 28inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943257402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1763232623
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1765296562
     Price: $99.79 USD
   - [Silver color / United States / 24inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943290170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1763232623
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1765296562
     Price: $92.86 USD
   - [Silver color / United States / 20inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943322938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1763232623
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1765296562
     Price: $90.85 USD
   - [Silver color / United States / 22inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943355706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1763232623
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1765296562
     Price: $85.93 USD
   - [Rose gold / China / 24inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943388474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1763232625
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1765296565
     Price: $92.86 USD
   - [Rose gold / China / 20inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943421242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1763232625
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1765296565
     Price: $90.85 USD
   - [Rose gold / China / 22inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943454010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1763232625
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1765296565
     Price: $85.93 USD
   - [Rose gold / China / 18inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943486778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1763232625
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1765296565
     Price: $82.89 USD
   - [Rose gold / United States / 20inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943519546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1763232625
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1765296565
     Price: $90.85 USD
   - [Rose gold / United States / 22inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943552314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1763232625
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1765296565
     Price: $85.93 USD
   - [Rose gold / United States / 18inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943585082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1763232625
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1765296565
     Price: $82.89 USD
   - [Rose gold / China / 28inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943617850)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1763232625
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1765296565
     Price: $99.79 USD
   - [Rose gold / China / 16inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943650618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1763232625
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1765296565
     Price: $74.91 USD
   - [Gold color / China / 24inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943683386)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1763232615
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1765296552
     Price: $92.86 USD
   - [Gold color / China / 20inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943716154)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1763232615
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1765296552
     Price: $90.85 USD
   - [Gold color / China / 22inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943748922)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1763232615
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1765296552
     Price: $85.93 USD
   - [Gold color / China / 18inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943781690)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1763232615
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1765296552
     Price: $82.89 USD
   - [Gold color / United States / 20inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943814458)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1763232615
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1765296552
     Price: $90.85 USD
   - [Gold color / United States / 22inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943847226)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1763232615
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1765296552
     Price: $85.93 USD
   - [Rose gold / United States / 16inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943879994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1763232625
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1765296565
     Price: $74.91 USD
   - [Gold color / United States / 18inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943912762)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1763232615
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1765296552
     Price: $82.89 USD
   - [Gold color / China / 28inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943945530)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1763232615
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1765296552
     Price: $99.79 USD
   - [Silver color / China / 22inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129943978298)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1763232623
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1765296562
     Price: $85.93 USD
   - [Silver color / China / 18inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129944011066)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1763232623
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1765296562
     Price: $82.74 USD
   - [Gold color / United States / 28inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129944043834)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1763232615
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1765296552
     Price: $99.79 USD
   - [Gold color / United States / 24inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129944076602)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1763232615
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1765296552
     Price: $92.86 USD
   - [Gold color / United States / 16inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129944109370)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1763232615
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1765296552
     Price: $74.91 USD
   - [Silver color / China / 16inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129944142138)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1763232623
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1765296562
     Price: $74.91 USD
   - [Silver color / United States / 16inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129944174906)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1763232623
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1438264503.jpg?v=1765296562
     Price: $74.91 USD
   - [Rose gold / United States / 28inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129944207674)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1763232625
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1765296565
     Price: $99.79 USD
   - [Rose gold / United States / 24inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129944240442)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1763232625
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-228712.jpg?v=1765296565
     Price: $92.86 USD
   - [Gold color / China / 16inch](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry?variant=52129944273210)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1763232615
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1765296552
     Price: $74.91 USD
 - [23mm Chunky Miami Cuban Chain Bracelet AAA Zirconia Men Hip hop](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8): 23mm Chunky Miami Cuban Chain Bracelet AAA Zirconia Men Hip hop Jewelry Gold Color Big Lock Bangle  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:04Z
+  Updated: 2025-12-09T16:09:48Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397785.jpg?v=1763232670
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397785.jpg?v=1765296567
   - [Gold color / China / 9inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129944666426)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397783.jpg?v=1763232682
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397783.jpg?v=1765296584
     Price: $78.87 USD
   - [Gold color / United States / 7inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129944699194)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397783.jpg?v=1763232682
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397783.jpg?v=1765296584
     Price: $68.96 USD
   - [Gold color / China / 7inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129944731962)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397783.jpg?v=1763232682
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397783.jpg?v=1765296584
     Price: $68.96 USD
   - [Gold color / China / 8inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129944764730)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397783.jpg?v=1763232682
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397783.jpg?v=1765296584
     Price: $71.68 USD
   - [Silver color / China / 7inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129944797498)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397784.jpg?v=1763232683
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397784.jpg?v=1765296587
     Price: $68.96 USD
   - [Silver color / China / 8inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129944830266)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397784.jpg?v=1763232683
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397784.jpg?v=1765296587
     Price: $71.68 USD
   - [Gold color / United States / 8inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129944863034)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397783.jpg?v=1763232682
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397783.jpg?v=1765296584
     Price: $71.68 USD
   - [Gold color / United States / 9inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129944895802)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397783.jpg?v=1763232682
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397783.jpg?v=1765296584
     Price: $78.87 USD
   - [Silver color / United States / 8inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129944928570)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397784.jpg?v=1763232683
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397784.jpg?v=1765296587
     Price: $71.68 USD
   - [Silver color / United States / 9inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129944961338)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397784.jpg?v=1763232683
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397784.jpg?v=1765296587
     Price: $78.87 USD
   - [Silver color / China / 9inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129944994106)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397784.jpg?v=1763232683
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397784.jpg?v=1765296587
     Price: $78.87 USD
   - [Silver color / United States / 7inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129945026874)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397784.jpg?v=1763232683
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397784.jpg?v=1765296587
     Price: $68.96 USD
   - [Rose gold color / China / 9inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129945059642)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397785.jpg?v=1763232670
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397785.jpg?v=1765296567
     Price: $78.87 USD
   - [Rose gold color / United States / 7inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129945092410)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397785.jpg?v=1763232670
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397785.jpg?v=1765296567
     Price: $68.96 USD
   - [Rose gold color / China / 7inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129945125178)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397785.jpg?v=1763232670
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397785.jpg?v=1765296567
     Price: $68.96 USD
   - [Rose gold color / China / 8inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129945157946)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397785.jpg?v=1763232670
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397785.jpg?v=1765296567
     Price: $71.68 USD
   - [Rose gold color / United States / 8inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129945190714)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397785.jpg?v=1763232670
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397785.jpg?v=1765296567
     Price: $71.68 USD
   - [Rose gold color / United States / 9inch](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8?variant=52129945223482)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397785.jpg?v=1763232670
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397785.jpg?v=1765296567
     Price: $78.87 USD
 - [Hand with Money Dollar Gold  Necklace & Pendant Tennis Chain Gold](https://splatteredhaustm.myshopify.com/products/hand-with-money-dollar-gold-color-necklace-pendant-tennis-chain-gold-color-aaa-cubic-zirconia-hip-hop-rock-jewelry): Hand with Money Dollar Gold Color Necklace &amp; Pendant Tennis Chain Gold Color AAA Cubic Zirconia  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:22Z
+  Updated: 2025-12-09T16:10:07Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1057311476.jpg?v=1763232725
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1057311476.jpg?v=1765296590
   - [Gold color / Rope chain / China, 20inch](https://splatteredhaustm.myshopify.com/products/hand-with-money-dollar-gold-color-necklace-pendant-tennis-chain-gold-color-aaa-cubic-zirconia-hip-hop-rock-jewelry?variant=52129945289018)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1347137329.jpg?v=1763232733
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1347137329.jpg?v=1765296603
     Price: $41.76 USD
   - [Gold / Rope chain / China, 30inch](https://splatteredhaustm.myshopify.com/products/hand-with-money-dollar-gold-color-necklace-pendant-tennis-chain-gold-color-aaa-cubic-zirconia-hip-hop-rock-jewelry?variant=52129945321786)
     Availability: Available
     Price: $41.76 USD
   - [Gold color / Cuban chain / China, 16inch](https://splatteredhaustm.myshopify.com/products/hand-with-money-dollar-gold-color-necklace-pendant-tennis-chain-gold-color-aaa-cubic-zirconia-hip-hop-rock-jewelry?variant=52129945354554)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1347137329.jpg?v=1763232733
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1347137329.jpg?v=1765296603
     Price: $41.76 USD
   - [Gold / Cuban chain / China, 18inch](https://splatteredhaustm.myshopify.com/products/hand-with-money-dollar-gold-color-necklace-pendant-tennis-chain-gold-color-aaa-cubic-zirconia-hip-hop-rock-jewelry?variant=52129945387322)
     Availability: Available
@@ -2226,7 +2226,7 @@
     Price: $41.76 USD
   - [Gold color / 4mm tennis chain / China, 18inch](https://splatteredhaustm.myshopify.com/products/hand-with-money-dollar-gold-color-necklace-pendant-tennis-chain-gold-color-aaa-cubic-zirconia-hip-hop-rock-jewelry?variant=52129945518394)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1347137329.jpg?v=1763232733
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1347137329.jpg?v=1765296603
     Price: $61.85 USD
   - [Gold / 4mm tennis chain / China, 20inch](https://splatteredhaustm.myshopify.com/products/hand-with-money-dollar-gold-color-necklace-pendant-tennis-chain-gold-color-aaa-cubic-zirconia-hip-hop-rock-jewelry?variant=52129945551162)
     Availability: Available
@@ -2251,11 +2251,11 @@
     Price: $41.76 USD
   - [Gold color / Rope chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/hand-with-money-dollar-gold-color-necklace-pendant-tennis-chain-gold-color-aaa-cubic-zirconia-hip-hop-rock-jewelry?variant=52129945780538)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1347137329.jpg?v=1763232733
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1347137329.jpg?v=1765296603
     Price: $41.76 USD
   - [Gold color / 5mm tennis chain / China, 24inch](https://splatteredhaustm.myshopify.com/products/hand-with-money-dollar-gold-color-necklace-pendant-tennis-chain-gold-color-aaa-cubic-zirconia-hip-hop-rock-jewelry?variant=52129945813306)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1347137329.jpg?v=1763232733
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1347137329.jpg?v=1765296603
     Price: $70.08 USD
   - [Gold / Rope chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/hand-with-money-dollar-gold-color-necklace-pendant-tennis-chain-gold-color-aaa-cubic-zirconia-hip-hop-rock-jewelry?variant=52129945846074)
     Availability: Available
@@ -2277,14 +2277,14 @@
     Price: $70.08 USD
   - [Gold color / Cuban chain / United States, 18inch](https://splatteredhaustm.myshopify.com/products/hand-with-money-dollar-gold-color-necklace-pendant-tennis-chain-gold-color-aaa-cubic-zirconia-hip-hop-rock-jewelry?variant=52129946042682)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1347137329.jpg?v=1763232733
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1347137329.jpg?v=1765296603
     Price: $41.76 USD
   - [Gold / Cuban chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/hand-with-money-dollar-gold-color-necklace-pendant-tennis-chain-gold-color-aaa-cubic-zirconia-hip-hop-rock-jewelry?variant=52129946075450)
     Availability: Available
     Price: $41.76 USD
   - [Gold color / 4mm tennis chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/hand-with-money-dollar-gold-color-necklace-pendant-tennis-chain-gold-color-aaa-cubic-zirconia-hip-hop-rock-jewelry?variant=52129946108218)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1347137329.jpg?v=1763232733
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1347137329.jpg?v=1765296603
     Price: $76.03 USD
   - [Gold / Cuban chain / United States, 16inch](https://splatteredhaustm.myshopify.com/products/hand-with-money-dollar-gold-color-necklace-pendant-tennis-chain-gold-color-aaa-cubic-zirconia-hip-hop-rock-jewelry?variant=52129946140986)
     Availability: Available
@@ -2303,7 +2303,7 @@
     Price: $41.76 USD
   - [Gold color / 5mm tennis chain / United States, 16inch](https://splatteredhaustm.myshopify.com/products/hand-with-money-dollar-gold-color-necklace-pendant-tennis-chain-gold-color-aaa-cubic-zirconia-hip-hop-rock-jewelry?variant=52129946304826)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1347137329.jpg?v=1763232733
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1347137329.jpg?v=1765296603
     Price: $57.97 USD
   - [Gold / 5mm tennis chain / United States, 18inch](https://splatteredhaustm.myshopify.com/products/hand-with-money-dollar-gold-color-necklace-pendant-tennis-chain-gold-color-aaa-cubic-zirconia-hip-hop-rock-jewelry?variant=52129946337594)
     Availability: Available
@@ -2330,864 +2330,864 @@
     Availability: Available
     Price: $57.97 USD
 - [Dropshipping Cross Pendant Necklace For Men Black Gold Silver color](https://splatteredhaustm.myshopify.com/products/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry): Dropshipping Cross Pendant Necklace For  Black Gold Silver color Stainless Steel Pendant Necklace  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:17Z
+  Updated: 2025-12-09T16:10:46Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry-825248.jpg?v=1763232782
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry-825248.jpg?v=1765296609
   - [Silver KP52 / United States](https://splatteredhaustm.myshopify.com/products/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry?variant=52129946665274)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry-409364.jpg?v=1763232798
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry-409364.jpg?v=1765296645
     Price: $23.75 USD
   - [Gold KP602 / United States](https://splatteredhaustm.myshopify.com/products/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry?variant=52129946698042)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry-336587.jpg?v=1763232791
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry-336587.jpg?v=1765296633
     Price: $24.24 USD
   - [Gold Silver KP603 / United States](https://splatteredhaustm.myshopify.com/products/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry?variant=52129946730810)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry-825248.jpg?v=1763232782
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry-825248.jpg?v=1765296609
     Price: $24.24 USD
   - [Black silver KP604 / United States](https://splatteredhaustm.myshopify.com/products/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry?variant=52129946763578)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry-442852.jpg?v=1763232793
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry-442852.jpg?v=1765296636
     Price: $24.24 USD
   - [Gold silver KP02 / United States](https://splatteredhaustm.myshopify.com/products/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry?variant=52129946796346)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry-641999.jpg?v=1763232784
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry-641999.jpg?v=1765296612
     Price: $24.24 USD
 - [Snake Winding Cross Pendant Necklace Iced Out Cubic Zirconia Pendant](https://splatteredhaustm.myshopify.com/products/snake-winding-cross-pendant-necklace-iced-out-cubic-zirconia-pendant-christmas-halloween-hip-hop-jewelry-gifts): Snake Winding Cross Pendant Necklace Iced Out Cubic Zirconia Pendant Christmas Halloween Hip Hop  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:07Z
+  Updated: 2025-12-09T16:11:04Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369359739.jpg?v=1763232824
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369359739.jpg?v=1765296648
   - [Gold / 4mm Tennis Chain / United States, 18inch](https://splatteredhaustm.myshopify.com/products/snake-winding-cross-pendant-necklace-iced-out-cubic-zirconia-pendant-christmas-halloween-hip-hop-jewelry-gifts?variant=52129946861882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369359738.jpg?v=1763232833
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369359738.jpg?v=1765296663
     Price: $80.19 USD
   - [Gold / Franco Chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/snake-winding-cross-pendant-necklace-iced-out-cubic-zirconia-pendant-christmas-halloween-hip-hop-jewelry-gifts?variant=52129946894650)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369359738.jpg?v=1763232833
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369359738.jpg?v=1765296663
     Price: $55.69 USD
   - [Gold / 4mm Tennis Chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/snake-winding-cross-pendant-necklace-iced-out-cubic-zirconia-pendant-christmas-halloween-hip-hop-jewelry-gifts?variant=52129946927418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369359738.jpg?v=1763232833
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369359738.jpg?v=1765296663
     Price: $92.07 USD
   - [Gold / 4mm Tennis Chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/snake-winding-cross-pendant-necklace-iced-out-cubic-zirconia-pendant-christmas-halloween-hip-hop-jewelry-gifts?variant=52129946960186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369359738.jpg?v=1763232833
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369359738.jpg?v=1765296663
     Price: $84.15 USD
   - [Gold / Franco Chain / United States, 18inch](https://splatteredhaustm.myshopify.com/products/snake-winding-cross-pendant-necklace-iced-out-cubic-zirconia-pendant-christmas-halloween-hip-hop-jewelry-gifts?variant=52129946992954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369359738.jpg?v=1763232833
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369359738.jpg?v=1765296663
     Price: $55.69 USD
 - [Baguette Zircon Men's Butterfly Ring Copper Charm Gold Color Iced RING](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women): Baguette Zircon Men's Butterfly Ring Copper Charm Gold Color Iced RING Fashion Hip Hop Jewelry For  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:21Z
+  Updated: 2025-12-09T16:11:25Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-132678.jpg?v=1763232878
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-132678.jpg?v=1765296667
   - [12 / silver color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947320634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1763232883
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1765296677
     Price: $41.30 USD
   - [11 / silver color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947353402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1763232883
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1765296677
     Price: $41.30 USD
   - [7 / gold color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947386170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1763232885
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1765296681
     Price: $41.30 USD
   - [12 / silver color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947418938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1763232883
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1765296677
     Price: $41.30 USD
   - [10 / silver color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947451706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1763232883
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1765296677
     Price: $41.30 USD
   - [9 / silver color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947484474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1763232883
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1765296677
     Price: $41.30 USD
   - [11 / silver color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947517242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1763232883
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1765296677
     Price: $41.30 USD
   - [10 / silver color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947550010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1763232883
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1765296677
     Price: $41.30 USD
   - [10 / gold color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947582778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1763232885
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1765296681
     Price: $41.30 USD
   - [9 / gold color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947615546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1763232885
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1765296681
     Price: $41.30 USD
   - [11 / gold color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947648314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1763232885
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1765296681
     Price: $41.30 USD
   - [10 / gold color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947681082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1763232885
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1765296681
     Price: $41.30 USD
   - [8 / gold color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947713850)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1763232885
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1765296681
     Price: $41.30 USD
   - [7 / gold color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947746618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1763232885
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1765296681
     Price: $41.30 USD
   - [9 / gold color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947779386)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1763232885
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1765296681
     Price: $41.30 USD
   - [8 / gold color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947812154)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1763232885
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1765296681
     Price: $41.30 USD
   - [12 / gold color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947844922)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1763232885
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1765296681
     Price: $41.30 USD
   - [11 / gold color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947877690)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1763232885
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1765296681
     Price: $41.30 USD
   - [12 / gold color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947910458)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1763232885
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-663035.jpg?v=1765296681
     Price: $41.30 USD
   - [7 / rose gold color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947943226)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1763232882
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1765296674
     Price: $41.30 USD
   - [10 / rose gold color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129947975994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1763232882
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1765296674
     Price: $41.30 USD
   - [9 / rose gold color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129948008762)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1763232882
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1765296674
     Price: $41.30 USD
   - [11 / rose gold color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129948041530)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1763232882
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1765296674
     Price: $41.30 USD
   - [10 / rose gold color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129948074298)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1763232882
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1765296674
     Price: $41.30 USD
   - [8 / rose gold color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129948107066)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1763232882
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1765296674
     Price: $41.30 USD
   - [7 / rose gold color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129948139834)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1763232882
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1765296674
     Price: $41.30 USD
   - [9 / rose gold color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129948172602)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1763232882
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1765296674
     Price: $41.30 USD
   - [8 / rose gold color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129948205370)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1763232882
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1765296674
     Price: $41.30 USD
   - [8 / silver color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129948238138)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1763232883
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1765296677
     Price: $41.30 USD
   - [7 / silver color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129948270906)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1763232883
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1765296677
     Price: $41.30 USD
   - [9 / silver color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129948303674)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1763232883
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1765296677
     Price: $41.30 USD
   - [8 / silver color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129948336442)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1763232883
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1765296677
     Price: $41.30 USD
   - [12 / rose gold color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129948369210)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1763232882
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1765296674
     Price: $41.30 USD
   - [11 / rose gold color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129948401978)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1763232882
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1765296674
     Price: $41.30 USD
   - [7 / silver color / China](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129948434746)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1763232883
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-844533.jpg?v=1765296677
     Price: $41.30 USD
   - [12 / rose gold color / United States](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women?variant=52129948467514)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1763232882
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1765296674
     Price: $41.30 USD
 - [Men's Star Ring 18 K Copper Charm Gold Color Full Zircon RING Fashion](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry): Men's Star Ring 18 K Copper Charm Gold Color Full Zircon RING Fashion Hip Hop Rock Jewelry Metals  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:35Z
+  Updated: 2025-12-09T16:11:43Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1601478520.jpg?v=1763232928
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1601478520.jpg?v=1765296688
   - [12 / gold color / United States](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129948500282)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1763232931
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1765296690
     Price: $43.30 USD
   - [10 / gold color / China](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129948533050)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1763232931
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1765296690
     Price: $43.30 USD
   - [9 / gold color / United States](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129948565818)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1763232931
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1765296690
     Price: $43.30 USD
   - [9 / gold color / China](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129948598586)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1763232931
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1765296690
     Price: $43.30 USD
   - [8 / gold color / United States](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129948631354)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1763232931
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1765296690
     Price: $43.30 USD
   - [12 / gold color / China](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129948664122)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1763232931
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1765296690
     Price: $43.30 USD
   - [11 / gold color / United States](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129948696890)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1763232931
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1765296690
     Price: $43.30 USD
   - [11 / gold color / China](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129948729658)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1763232931
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1765296690
     Price: $43.30 USD
   - [10 / gold color / United States](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129948762426)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1763232931
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1765296690
     Price: $43.30 USD
   - [12 / silver color / China](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129948795194)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1763232932
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1765296693
     Price: $43.30 USD
   - [11 / silver color / United States](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129948827962)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1763232932
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1765296693
     Price: $43.30 USD
   - [11 / silver color / China](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129948860730)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1763232932
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1765296693
     Price: $43.30 USD
   - [10 / silver color / United States](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129948893498)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1763232932
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1765296693
     Price: $43.30 USD
   - [8 / gold color / China](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129948926266)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1763232931
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1765296690
     Price: $43.30 USD
   - [7 / gold color / United States](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129948959034)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1763232931
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1765296690
     Price: $43.30 USD
   - [7 / gold color / China](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129948991802)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1763232931
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600703.jpg?v=1765296690
     Price: $43.30 USD
   - [12 / silver color / United States](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129949024570)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1763232932
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1765296693
     Price: $43.30 USD
   - [8 / silver color / China](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129949057338)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1763232932
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1765296693
     Price: $43.30 USD
   - [7 / silver color / United States](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129949090106)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1763232932
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1765296693
     Price: $43.30 USD
   - [7 / silver color / China](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129949122874)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1763232932
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1765296693
     Price: $43.30 USD
   - [10 / silver color / China](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129949155642)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1763232932
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1765296693
     Price: $43.30 USD
   - [9 / silver color / United States](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129949188410)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1763232932
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1765296693
     Price: $43.30 USD
   - [9 / silver color / China](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129949221178)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1763232932
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1765296693
     Price: $43.30 USD
   - [8 / silver color / United States](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry?variant=52129949253946)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1763232932
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1765296693
     Price: $43.30 USD
 - [17mm Miami Cuban Chain Bracelet High Quality Micro Pave Iced Out Cubic](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift): 17mm Miami Cuban Chain Bracelet High Quality Micro Pave Iced Out Cubic Zirconia Men's Hip Hop  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:11Z
+  Updated: 2025-12-09T16:12:08Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-750776.jpg?v=1763232976
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-750776.jpg?v=1765296706
   - [Rose gold and Silver / United States / 8inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129949909306)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-750776.jpg?v=1763232976
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-750776.jpg?v=1765296706
     Price: $190.08 USD
   - [Rose gold and Silver / United States / 9inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129949942074)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-750776.jpg?v=1763232976
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-750776.jpg?v=1765296706
     Price: $213.84 USD
   - [Rose gold and Silver / China / 7inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129949974842)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-750776.jpg?v=1763232976
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-750776.jpg?v=1765296706
     Price: $166.32 USD
   - [Rose gold and Silver / China / 8inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950007610)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-750776.jpg?v=1763232976
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-750776.jpg?v=1765296706
     Price: $190.08 USD
   - [Rose gold and Silver / China / 9inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950040378)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-750776.jpg?v=1763232976
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-750776.jpg?v=1765296706
     Price: $213.84 USD
   - [Rose gold and Silver / United States / 7inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950073146)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-750776.jpg?v=1763232976
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-750776.jpg?v=1765296706
     Price: $166.32 USD
   - [Gold / China / 7inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950105914)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-106305.jpg?v=1763232981
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-106305.jpg?v=1765296716
     Price: $166.32 USD
   - [Gold / China / 8inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950138682)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-106305.jpg?v=1763232981
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-106305.jpg?v=1765296716
     Price: $190.08 USD
   - [Silver / China / 7inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950171450)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-596732.jpg?v=1763232979
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-596732.jpg?v=1765296709
     Price: $166.32 USD
   - [Silver / China / 8inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950204218)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-596732.jpg?v=1763232979
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-596732.jpg?v=1765296709
     Price: $190.08 USD
   - [Silver / China / 9inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950236986)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-596732.jpg?v=1763232979
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-596732.jpg?v=1765296709
     Price: $213.84 USD
   - [Silver / United States / 7inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950269754)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-596732.jpg?v=1763232979
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-596732.jpg?v=1765296709
     Price: $166.32 USD
   - [Gold / China / 9inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950302522)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-106305.jpg?v=1763232981
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-106305.jpg?v=1765296716
     Price: $213.84 USD
   - [Gold / United States / 7inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950335290)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-106305.jpg?v=1763232981
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-106305.jpg?v=1765296716
     Price: $166.32 USD
   - [Gold / United States / 8inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950368058)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-106305.jpg?v=1763232981
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-106305.jpg?v=1765296716
     Price: $190.08 USD
   - [Gold / United States / 9inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950400826)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-106305.jpg?v=1763232981
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-106305.jpg?v=1765296716
     Price: $213.84 USD
   - [Rose gold / China / 9inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950433594)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-380994.jpg?v=1763232979
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-380994.jpg?v=1765296712
     Price: $213.84 USD
   - [Rose gold / United States / 7inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950466362)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-380994.jpg?v=1763232979
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-380994.jpg?v=1765296712
     Price: $166.32 USD
   - [Rose gold / United States / 8inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950499130)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-380994.jpg?v=1763232979
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-380994.jpg?v=1765296712
     Price: $190.08 USD
   - [Rose gold / United States / 9inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950531898)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-380994.jpg?v=1763232979
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-380994.jpg?v=1765296712
     Price: $213.84 USD
   - [Silver / United States / 8inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950564666)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-596732.jpg?v=1763232979
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-596732.jpg?v=1765296709
     Price: $190.08 USD
   - [Silver / United States / 9inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950597434)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-596732.jpg?v=1763232979
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-596732.jpg?v=1765296709
     Price: $213.84 USD
   - [Rose gold / China / 7inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950630202)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-380994.jpg?v=1763232979
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-380994.jpg?v=1765296712
     Price: $166.32 USD
   - [Rose gold / China / 8inch](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift?variant=52129950662970)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-380994.jpg?v=1763232979
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-380994.jpg?v=1765296712
     Price: $190.08 USD
 - [Solid 32mm Big Cuban Chain Men's Hip Hop Necklace Link Finish Zirconia](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry): Solid 32mm Big Cuban Chain Men's Hip Hop Necklace Link Finish Zirconia Gold Color Fashion Rock  - Splattered Haus TM
-  Updated: 2025-12-06T05:46:58Z
+  Updated: 2025-12-09T16:12:23Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1763233029
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1765296730
   - [silver color / China / 18inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129950728506)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1763233029
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1765296730
     Price: $116.47 USD
   - [silver color / China / 24inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129950761274)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1763233029
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1765296730
     Price: $150.33 USD
   - [silver color / China / 16inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129950794042)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1763233029
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1765296730
     Price: $104.96 USD
   - [gold color / United States / 28inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129950826810)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1763233032
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1765296733
     Price: $160.11 USD
   - [gold color / United States / 24inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129950859578)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1763233032
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1765296733
     Price: $150.33 USD
   - [gold color / United States / 16inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129950892346)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1763233032
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1765296733
     Price: $104.96 USD
   - [gold color / United States / 22inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129950925114)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1763233032
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1765296733
     Price: $139.19 USD
   - [gold color / United States / 20inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129950957882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1763233032
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1765296733
     Price: $127.91 USD
   - [gold color / China / 22inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129950990650)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1763233032
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1765296733
     Price: $139.19 USD
   - [gold color / China / 20inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129951023418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1763233032
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1765296733
     Price: $127.91 USD
   - [gold color / China / 28inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129951056186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1763233032
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1765296733
     Price: $160.11 USD
   - [gold color / United States / 18inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129951088954)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1763233032
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1765296733
     Price: $116.47 USD
   - [silver color / United States / 28inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129951121722)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1763233029
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1765296730
     Price: $160.11 USD
   - [gold color / China / 18inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129951154490)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1763233032
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1765296733
     Price: $116.47 USD
   - [gold color / China / 24inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129951187258)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1763233032
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1765296733
     Price: $150.33 USD
   - [gold color / China / 16inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129951220026)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1763233032
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151259.jpg?v=1765296733
     Price: $104.96 USD
   - [silver color / United States / 24inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129951252794)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1763233029
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1765296730
     Price: $150.33 USD
   - [silver color / United States / 16inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129951285562)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1763233029
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1765296730
     Price: $104.96 USD
   - [silver color / United States / 22inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129951318330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1763233029
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1765296730
     Price: $139.19 USD
   - [silver color / United States / 20inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129951351098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1763233029
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1765296730
     Price: $127.91 USD
   - [silver color / China / 22inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129951383866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1763233029
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1765296730
     Price: $139.19 USD
   - [silver color / China / 20inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129951416634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1763233029
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1765296730
     Price: $127.91 USD
   - [silver color / China / 28inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129951449402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1763233029
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1765296730
     Price: $160.11 USD
   - [silver color / United States / 18inch](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry?variant=52129951482170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1763233029
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1765296730
     Price: $116.47 USD
 - [Animal Scorpion Hip Hop Pendant Necklace Chain Gold Color Bling Cubic](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift): Brand Name: Bubble letter Metals Type: Copper Gender: Men Necklace Type: Chains Necklaces Style:  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:12Z
+  Updated: 2025-12-09T16:12:33Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525957.jpg?v=1763233083
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525957.jpg?v=1765296744
   - [gold color / Rope chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129951547706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $40.56 USD
   - [gold / Rope chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129951580474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $40.46 USD
   - [gold color / 4mm Tennis chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129951613242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $61.53 USD
   - [gold / 4mm Tennis chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129951646010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $73.79 USD
   - [gold color / Cuban chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129951678778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $40.56 USD
   - [gold / Cuban chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129951711546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $40.46 USD
   - [gold / Rope chain / United States, 18inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129951744314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $40.46 USD
   - [gold / Rope chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129951777082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $40.56 USD
   - [gold color / 4mm Tennis chain / China, 30inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129951809850)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $73.79 USD
   - [gold / 4mm Tennis chain / China, 20inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129951842618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $61.53 USD
   - [gold / Cuban chain / United States, 18inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129951875386)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $40.46 USD
   - [gold / Cuban chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129951908154)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $40.56 USD
   - [gold color / Rope chain / China, 30inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129951940922)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $40.56 USD
   - [gold / Rope chain / China, 20inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129951973690)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $40.46 USD
   - [gold / 4mm Tennis chain / China, 18inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129952006458)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $55.22 USD
   - [gold / 4mm Tennis chain / China, 30inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129952039226)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $73.79 USD
   - [gold color / Cuban chain / China, 30inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129952071994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $40.56 USD
   - [gold / Cuban chain / China, 20inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129952104762)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $40.46 USD
   - [gold / Rope chain / China, 18inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129952137530)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $40.46 USD
   - [gold / Rope chain / China, 30inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129952170298)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $40.56 USD
   - [gold / Cuban chain / China, 18inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129952203066)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $40.46 USD
   - [gold / Cuban chain / China, 30inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129952235834)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $40.56 USD
   - [gold / 4mm Tennis chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129952268602)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $67.81 USD
   - [gold / 4mm Tennis chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift?variant=52129952301370)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1765296746
     Price: $61.53 USD
 - [18mm Miami Cuban Chain Men's Hip Hop Necklace Link Solid Back Copper](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry): 18mm Miami Cuban Chain Men's Hip Hop Necklace Link Solid Back Copper Full Zircon Fashion Rock  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:01Z
+  Updated: 2025-12-09T16:12:50Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-593055.jpg?v=1763233129
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-593055.jpg?v=1765296753
   - [gold color / United States / 22inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952334138)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1763233146
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1765296758
     Price: $137.06 USD
   - [gold color / United States / 20inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952366906)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1763233146
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1765296758
     Price: $125.48 USD
   - [gold color / United States / 24inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952399674)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1763233146
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1765296758
     Price: $147.47 USD
   - [gold color / United States / 16inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952432442)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1763233146
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1765296758
     Price: $101.85 USD
   - [gold color / United States / 28inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952465210)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1763233146
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1765296758
     Price: $170.04 USD
   - [silver color / China / 24inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952497978)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1763233147
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1765296760
     Price: $147.47 USD
   - [silver color / China / 16inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952530746)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1763233147
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1765296760
     Price: $101.85 USD
   - [silver color / China / 18inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952563514)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1763233147
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1765296760
     Price: $113.43 USD
   - [silver color / China / 28inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952596282)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1763233147
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1765296760
     Price: $170.04 USD
   - [silver color / United States / 18inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952629050)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1763233147
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1765296760
     Price: $113.43 USD
   - [silver color / China / 22inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952661818)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1763233147
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1765296760
     Price: $137.06 USD
   - [silver color / China / 20inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952694586)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1763233147
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1765296760
     Price: $125.48 USD
   - [silver color / United States / 22inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952727354)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1763233147
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1765296760
     Price: $137.06 USD
   - [silver color / United States / 20inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952760122)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1763233147
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1765296760
     Price: $125.48 USD
   - [silver color / United States / 24inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952792890)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1763233147
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1765296760
     Price: $147.47 USD
   - [silver color / United States / 16inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952825658)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1763233147
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1765296760
     Price: $101.85 USD
   - [gold color / China / 24inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952858426)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1763233146
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1765296758
     Price: $147.47 USD
   - [gold color / China / 16inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952891194)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1763233146
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1765296758
     Price: $101.85 USD
   - [silver color / United States / 28inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952923962)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1763233147
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-242730.jpg?v=1765296760
     Price: $170.04 USD
   - [gold color / China / 18inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952956730)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1763233146
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1765296758
     Price: $113.43 USD
   - [gold color / China / 28inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129952989498)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1763233146
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1765296758
     Price: $170.04 USD
   - [gold color / United States / 18inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129953022266)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1763233146
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1765296758
     Price: $113.43 USD
   - [gold color / China / 22inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129953055034)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1763233146
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1765296758
     Price: $137.06 USD
   - [gold color / China / 20inch](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry?variant=52129953087802)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1763233146
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1765296758
     Price: $125.48 USD
 - [Hand holding Dollar Pouch Dripping Pendant Men's Gold Color Necklace](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry): Hand holding Dollar Pouch Dripping Pendant Men's Gold Color Necklace Charm Bling Bling Cubic Zircon  - Splattered Haus TM
-  Updated: 2025-12-06T05:46:47Z
+  Updated: 2025-12-09T16:13:11Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1182568086.jpg?v=1763233176
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1182568086.jpg?v=1765296772
   - [gold color / Cuban chain / United States, 18inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953284410)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1765296776
     Price: $40.90 USD
   - [gold color / Rope chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953317178)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1765296776
     Price: $40.90 USD
   - [gold color / Rope chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953349946)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1765296776
     Price: $41.03 USD
   - [gold color / 4mm tennis chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953382714)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1765296776
     Price: $70.54 USD
   - [gold color / 4mm tennis chain / United States, 18inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953415482)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1765296776
     Price: $57.42 USD
   - [gold color / 4mm tennis chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953448250)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1765296776
     Price: $70.59 USD
   - [gold color / 5mm tennis chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953481018)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1765296776
     Price: $70.74 USD
   - [gold color / 5mm tennis chain / United States, 18inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953513786)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1765296776
     Price: $57.65 USD
   - [gold color / 5mm tennis chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953546554)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1765296776
     Price: $70.79 USD
   - [gold color / Cuban chain / United States, 20inch](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry?variant=52129953579322)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1765296776
     Price: $40.90 USD
 - [Gold Color Pineapple shape Necklace & Pendant With 4mm Tennis Chain](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm): Brand Name: Bubble letter Metals Type: Copper Gender: Men Necklace Type: Pendant Necklaces Style:  - Splattered Haus TM
-  Updated: 2025-12-06T05:47:04Z
+  Updated: 2025-12-09T16:14:03Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859503.jpg?v=1763233228
+  Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859503.jpg?v=1765296816
   - [gold / Rope chain / China, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129953677626)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859509.jpg?v=1763233233
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859509.jpg?v=1765296828
     Price: $41.24 USD
   - [gold / Cuban chain / China, 30inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129953710394)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859509.jpg?v=1763233233
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859509.jpg?v=1765296828
     Price: $41.34 USD
   - [rose gold / 5mm tennis chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129953743162)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859508.jpg?v=1763233234
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859508.jpg?v=1765296831
     Price: $69.82 USD
   - [rose gold / 4mm tennis chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129953775930)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859508.jpg?v=1763233234
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859508.jpg?v=1765296831
     Price: $68.43 USD
   - [rose gold / Cuban chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129953808698)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859508.jpg?v=1763233234
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859508.jpg?v=1765296831
     Price: $41.24 USD
   - [gold / Rope chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129953841466)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859509.jpg?v=1763233233
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859509.jpg?v=1765296828
     Price: $41.24 USD
   - [gold / Cuban chain / United States, 30inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129953874234)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859509.jpg?v=1763233233
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859509.jpg?v=1765296828
     Price: $41.34 USD
   - [gold / 5mm tennis chain / China, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129953907002)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859509.jpg?v=1763233233
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859509.jpg?v=1765296828
     Price: $69.82 USD
   - [gold / 4mm tennis chain / China, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129953939770)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859509.jpg?v=1763233233
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859509.jpg?v=1765296828
     Price: $68.43 USD
   - [rose gold / Rope chain / China, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129953972538)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859508.jpg?v=1763233234
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859508.jpg?v=1765296831
     Price: $41.24 USD
   - [rose gold / Cuban chain / China, 30inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129954005306)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859508.jpg?v=1763233234
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859508.jpg?v=1765296831
     Price: $41.34 USD
   - [rose gold / Rope chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129954038074)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859508.jpg?v=1763233234
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859508.jpg?v=1765296831
     Price: $41.24 USD
   - [rose gold / 5mm tennis chain / China, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129954070842)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859508.jpg?v=1763233234
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859508.jpg?v=1765296831
     Price: $69.82 USD
   - [rose gold / 4mm tennis chain / China, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129954103610)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859508.jpg?v=1763233234
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859508.jpg?v=1765296831
     Price: $68.43 USD
   - [silver / 5mm tennis chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129954136378)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859510.jpg?v=1763233236
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859510.jpg?v=1765296836
     Price: $69.82 USD
   - [silver / 4mm tennis chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129954169146)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859510.jpg?v=1763233236
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859510.jpg?v=1765296836
     Price: $68.43 USD
   - [silver / Cuban chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129954201914)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859510.jpg?v=1763233236
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859510.jpg?v=1765296836
     Price: $41.24 USD
   - [silver / Rope chain / China, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129954234682)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859510.jpg?v=1763233236
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859510.jpg?v=1765296836
     Price: $41.24 USD
   - [silver / Cuban chain / China, 30inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129954267450)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859510.jpg?v=1763233236
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859510.jpg?v=1765296836
     Price: $41.34 USD
   - [gold / 5mm tennis chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129954300218)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859509.jpg?v=1763233233
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859509.jpg?v=1765296828
     Price: $69.82 USD
   - [gold / 4mm tennis chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129954332986)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859509.jpg?v=1763233233
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859509.jpg?v=1765296828
     Price: $68.43 USD
   - [silver / Rope chain / United States, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129954365754)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859510.jpg?v=1763233236
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859510.jpg?v=1765296836
     Price: $41.24 USD
   - [silver / 5mm tennis chain / China, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129954398522)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859510.jpg?v=1763233236
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859510.jpg?v=1765296836
     Price: $69.82 USD
   - [silver / 4mm tennis chain / China, 24inch](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm?variant=52129954431290)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859510.jpg?v=1763233236
+    Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355859510.jpg?v=1765296836
     Price: $68.43 USD
 [List Continued](https://splatteredhaustm.myshopify.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDA2ODU2Mzk4NDY5OCwibGFzdF92YWx1ZSI6IjEwMDY4NTYzOTg0Njk4In0=)
 
@@ -3218,7 +3218,7 @@
   Updated: 2025-11-15T06:38:09Z
   Total Products: 1
 - [OPEN - Best Sellers - Splattered Haus TM](https://splatteredhaustm.myshopify.com/collections/open-best-sellers): Explore the Best Sellers from OPEN Why You Should Check Out OPEN - Best Sellers OPEN - Best Sellers  - Splattered Haus TM
-  Updated: 2025-12-06T17:18:32Z
+  Updated: 2025-12-09T17:17:57Z
   Total Products: 77
 - [staff picks - Splattered Haus TM](https://splatteredhaustm.myshopify.com/collections/staff-picks): - Splattered Haus TM
   Updated: 2025-11-15T06:38:07Z
