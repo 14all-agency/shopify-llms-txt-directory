@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-10T16:00:36.896Z
+- Updated At: 2025-12-10T20:00:37.630Z
 
 ## Products
 
@@ -772,8 +772,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/shake-junt-grip-tape-black-shake-junt-og-spray-grip-tape-single-sheet-1183717800.png?v=1757218925
   Price: £14.95 GBP
-- [Sabbath Wheels Fast As Fuck Skate Bearings](https://thevinessupply.co/products/sabbath-wheels-fast-as-fuck-skate-bearings): Buy Sabbath Wheels Fast As Fuck Skate Bearings at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-10T15:53:28Z
+- [Sabbath Wheels Black Magic Skate Bearings](https://thevinessupply.co/products/sabbath-wheels-fast-as-fuck-skate-bearings): Buy Sabbath Wheels Fast As Fuck Skate Bearings at The Vines, with fast, premium delivery & easy returns within 90 days
+  Updated: 2025-12-10T16:44:00Z
   Vendor: Sabbath Wheels
   Product Type: Bearings
   Availability: Available
@@ -1161,6 +1161,13 @@
   - [Large](https://thevinessupply.co/products/hockey-sweat-shorts-black?variant=48352802734415)
     Availability: Not Available
     Price: £29.95 GBP
+- [Butter Goods Wharfie Beanie | Slate](https://thevinessupply.co/products/butter-goods-wharfie-beanie-slate): Buy the Butter Goods Wharfie Beanie Hat in Slate at The Vines. This Butter Goods Wharfie beanie hat is made with a loose knit acrylic material and features a short cut. It also has a white woven label on the front, making it an easy match with any fit.
+  Updated: 2025-12-10T16:44:39Z
+  Vendor: Butter Goods
+  Product Type: Beanies
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/butter-goods-beanies-butter-goods-wharfie-beanie-slate-1183718761.png?v=1757236684
+  Price: £27.95 GBP
 - [Hockey x Independent Puck The Rest Wax](https://thevinessupply.co/products/hockey-x-independent-puck-the-rest-wax): Buy the Hockey x Independent Puck The Rest Wax at The Vines. Hockey team up with Independent Trucks to create the worlds slippiest hockey puck. Turn the ledge to ice when you grace it with the presence of the Hockey x Independent Wax.
   Updated: 2025-08-13T00:14:09Z
   Vendor: Hockey
@@ -1256,7 +1263,7 @@
     Availability: Not Available
     Price: £49.95 GBP
 - [Powell Peralta Dragon Formula Skateboard Wheels | 93A](https://thevinessupply.co/products/powell-peralta-dragon-formula-skateboard-wheels-93a-off-white): Buy the Powell Peralta Dragon Formula 93A Skateboard Wheels at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-10T11:44:37Z
+  Updated: 2025-12-10T16:42:40Z
   Vendor: Powell Peralta
   Product Type: Wheels
   Availability: Available
@@ -2008,7 +2015,7 @@
     Availability: Available
     Price: £15.95 GBP
 - [Dime MTL Polar Fleece Sherpa Zip | Black](https://thevinessupply.co/products/dime-mtl-polar-fleece-sherpa-zip-black): Buy the Dime MTL Polar Fleece Sherpa Zip in Black at The Vines, with fast, premium delivery and 90 day returns.
-  Updated: 2025-11-11T15:28:58Z
+  Updated: 2025-12-10T18:06:16Z
   Vendor: Dime MTL
   Product Type: Fleece
   Availability: Available
@@ -6994,7 +7001,7 @@
   Updated: 2025-12-10T12:23:01Z
   Total Products: 1529
 - [Skateboard Hardware | The Vines](https://thevinessupply.co/collections/skateboard-hardware): Shop our collection of skateboard hardware at The Vines. From shapes to popsicles, soft wheels to hard... we've got what you need to keep rolling. See our collection of skateboard decks, trucks, wheels, nuts & bolts, protective gear, wax and more.
-  Updated: 2025-12-10T15:55:08Z
+  Updated: 2025-12-10T16:44:01Z
   Total Products: 1086
 - [Jackets | Skatewear Jackets | The Vines](https://thevinessupply.co/collections/jackets): Shop a collection of skatewear jackets at The Vines. Get Jackets & Coats from skateboard brands with fast, premium delivery & easy returns within 90 days.
   Updated: 2025-12-09T12:22:05Z
@@ -7003,7 +7010,7 @@
   Updated: 2025-12-07T12:20:48Z
   Total Products: 326
 - [£20 and under | The Vines](https://thevinessupply.co/collections/20-and-under): Shop our range of skate product under £20 at The Vines, perfect for presents for skateboarders or a present for yourself... you deserve it!
-  Updated: 2025-12-10T12:35:53Z
+  Updated: 2025-12-10T16:44:01Z
   Total Products: 1349
 - [Shorts | The Vines](https://thevinessupply.co/collections/shorts): Buy Shorts from skate wear brands at The Vines. Go from the beach to the bar, the skate park to the pub. We've got a curated collection of board and walk shorts from our the finest skate and street wear brands to keep you Summer & Gym ready.
   Updated: 2025-12-05T12:22:18Z
@@ -7027,7 +7034,7 @@
   Updated: 2025-12-08T17:36:18Z
   Total Products: 341
 - [Beanies | The Vines](https://thevinessupply.co/collections/beanies): Buy Beanies at The Vines. Shop our curated collection of Beanies. Top quality beanies for your headtop from the best international and UK skate wear brands, such as Helas, Vans, Dickies, Magenta, Butter Goods, HUF, Fucking Awesome, Hockey and Quasi.
-  Updated: 2025-12-10T00:38:24Z
+  Updated: 2025-12-10T16:44:30Z
   Total Products: 222
 - [Bags | Backpacks | Dealer Bags | Skate Bags](https://thevinessupply.co/collections/bags): Skate Backpacks, dealer bags, hip bags and bum bags. Shop our collection of skate bags from your favourite skateboard and streetwear brands.
   Updated: 2025-12-10T12:23:01Z
@@ -7162,7 +7169,7 @@
   Updated: 2025-12-10T12:48:57Z
   Total Products: 75
 - [Butter Goods | Clothing & Accessories](https://thevinessupply.co/collections/butter-goods): Shop Butter Goods Skate Clothing & Accessories at The Vines. Shop Butter Goods T-Shirts, Hoodies, Jeans and Caps with fast, free delivery at www.thevinesupply.co
-  Updated: 2025-12-10T01:09:36Z
+  Updated: 2025-12-10T16:44:30Z
   Total Products: 386
 - [Fucking Awesome | The Vines](https://thevinessupply.co/collections/fucking-awesome): Shop Fucking Awesome at The Vines. Fucking Awesome is a bold and boundary-pushing skateboard brand with strong links with Supreme and New York. Fucking Awesome embodies rebellious spirit and countercultural beliefs that have made FA a force to be reckoned with in the streetwear and skatewear scene.
   Updated: 2025-11-06T17:21:57Z
@@ -7186,7 +7193,7 @@
   Updated: 2025-12-06T12:19:44Z
   Total Products: 157
 - [Latest Arrivals | The Vines](https://thevinessupply.co/collections/latest-arrivals): Here's the latest goods to arrive at The Vines skate shop. Straight out the box, fresh stock for the masses from the best international. Shop now...
-  Updated: 2025-12-10T15:55:08Z
+  Updated: 2025-12-10T16:44:30Z
   Total Products: 5724
 - [Palace Skateboards | Skateboard Decks | The Vines](https://thevinessupply.co/collections/palace-skateboards): Shop the latest collections of Palace Skateboards skateboard decks at The Vines, with quick delivery and a range of griptape options.
   Updated: 2025-12-07T12:20:48Z
@@ -7222,10 +7229,10 @@
   Updated: 2025-12-08T16:10:46Z
   Total Products: 19
 - [Clothing Accessories | The Vines](https://thevinessupply.co/collections/clothing-accessories): Shop accessories from the finest international and UK skate brands from The Vines. Shop our curated collection of headwear, socks, underwear, belts and shades. As well as pin badges, keychains and air fresheners to spice up your life.
-  Updated: 2025-12-10T12:23:01Z
+  Updated: 2025-12-10T16:44:30Z
   Total Products: 1440
 - [Sabbath Wheels](https://thevinessupply.co/collections/sabbath-wheels): Sabbath Skateboard Wheels are here to shake up the skate wheels scene. Buy now with best price guarantee and free delivery.
-  Updated: 2025-12-10T15:55:08Z
+  Updated: 2025-12-10T16:44:01Z
   Total Products: 24
 - [Bucket Hats](https://thevinessupply.co/collections/bucket-hats): A summer and festival staple, complete your look with a Bucket Hat from our selection of the best skate brands including Fucking Awesome, Brixton, Rip N Dip & Helas. Get best price guarantee and same day dispatch on all orders and free delivery on orders over £50.
   Updated: 2025-11-06T17:20:35Z
@@ -7240,7 +7247,7 @@
   Updated: 2025-12-10T12:23:01Z
   Total Products: 48
 - [Hats | Skate Caps, Beanies & Bucket Hats | The Vines](https://thevinessupply.co/collections/hats): Browse our curated collection of Caps, Beanies and Bucket hats at The Vines from UK & international skate brands, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-10T00:38:25Z
+  Updated: 2025-12-10T16:44:30Z
   Total Products: 596
 - [Cash Only | The Vines](https://thevinessupply.co/collections/cash-only): Shop Cash Only at The Vines. Initially starting out as the distribution company for Butter Goods, Cash Only began making product under the same name back in 2018.
   Updated: 2025-12-05T12:22:18Z
@@ -7249,7 +7256,7 @@
   Updated: 2025-12-08T16:10:50Z
   Total Products: 35
 - [Skateboard Bearings | The Vines](https://thevinessupply.co/collections/skateboard-bearings): Buy Skateboard Bearings at The Vines. We stock a variety of skateboard bearings from bargain to luxury, from the best bearing brands such as Bones, Bronson, Modus and Sabbath to keep your wheels rolling. From the best spinning brands such as Bones Bearings, Bronson Speed Co, Sabbath Wheels, SKF Bearings and Girl Skateboards
-  Updated: 2025-12-10T12:05:02Z
+  Updated: 2025-12-10T16:44:01Z
   Total Products: 54
 - [Sliders & Flip Flops | The Vines](https://thevinessupply.co/collections/sliders-flip-flops): When the sun's out and the skate shoes come off, we've got you covered with our range of sliders and flip flops. Ready for the beach or the concrete slabs in your back garden, get the bbq on. Suns out, buns out.
   Updated: 2025-06-08T19:30:19Z
@@ -7384,7 +7391,7 @@
   Updated: 2025-12-10T12:23:01Z
   Total Products: 50
 - [spring-23-pdf](https://thevinessupply.co/collections/spring-23-pdf)
-  Updated: 2025-12-10T01:51:20Z
+  Updated: 2025-12-10T16:44:01Z
   Total Products: 146
 - [New Balance Numeric Q1 Spring 24 Collection](https://thevinessupply.co/collections/new-balance-numeric-q1-spring-24-collection): Shop New Balance Numeric's Q1 Spring collection of skate shoes at The Vines, with new styles of the Tiago Lemos 1010 and 808, Jamie Foy 306 and Brandon Westgate's 508.
   Updated: 2025-11-06T17:21:18Z
@@ -7408,7 +7415,7 @@
   Updated: 2025-05-22T17:02:33Z
   Total Products: 1
 - [Butter Goods Spring '24 Collection | The Vines](https://thevinessupply.co/collections/butter-goods-spring-24-collection): Shop Butter Goods Spring 2024 collection at The Vines, filled with deluxe quality from the Aussies. Snazzy, classy graphics on high quality tee's hoods, denim jeans and shorts inspired by art and music, as well as quality caps and beanies to keep your dome looking neat.
-  Updated: 2025-12-10T00:37:55Z
+  Updated: 2025-12-10T16:44:30Z
   Total Products: 55
 - [Butter Goods Jeans | Denim Butter Goods Jeans | The Vines](https://thevinessupply.co/collections/butter-goods-jeans-denim-butter-goods-jeans): Buy Butter Goods Jeans at The Vines. Known for their creative embroidery, deluxe quality and internal drawstring, Butter Goods Jeans have become a favourite amongst skateboarders due to their style and comfort.
   Updated: 2025-11-24T12:24:32Z
@@ -7423,7 +7430,7 @@
   Updated: 2025-11-30T12:26:12Z
   Total Products: 8
 - [Butter Goods Beanies | Butter Goods Beanie Hats | The Vines](https://thevinessupply.co/collections/butter-goods-beanies): Shop Butter Goods Beanies at The Vines in a variety of sick colours. The Butter Goods Beanies, such as the Butter Goods Wharfie Beanie, in a variety of sick colours. Butter Goods Beanies are loved for their high quality design and fit.
-  Updated: 2025-12-10T00:38:25Z
+  Updated: 2025-12-10T16:44:30Z
   Total Products: 41
 - [420 RELATED PRODUCTS | SMOKING EQUIPTMENT AND SKATEWEAR | THE VINES](https://thevinessupply.co/collections/420): USE CODE: HAPPY420 FOR 20% OFF All 420 related products are 20% off until the start of May. Ash it in style people﻿.
   Updated: 2025-12-10T11:48:16Z
@@ -7450,8 +7457,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-10T15:55:08Z
-  Total Products: 3234
+  Updated: 2025-12-10T16:45:09Z
+  Total Products: 3235
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-10T12:23:01Z
   Total Products: 110
@@ -7555,7 +7562,7 @@
   Updated: 2025-12-08T12:24:07Z
   Total Products: 8
 - [Full Price Items](https://thevinessupply.co/collections/full-price-items)
-  Updated: 2025-12-10T15:34:57Z
+  Updated: 2025-12-10T16:44:30Z
   Total Products: 2894
 - [Toy Machine | Skateboard Decks & Clothing | The Vines](https://thevinessupply.co/collections/toy-machine): Shop Toy Machine Skateboard Decks & Clothing at The Vines. Since being founded by Ed Templeton in 1993, Templeton has been the creative force behind Toy Machine, infusing the brand with his distinctive blend of art and humour.
   Updated: 2025-02-20T13:05:21Z
@@ -7711,7 +7718,7 @@
   Updated: 2025-10-14T14:32:12Z
   Total Products: 155
 - [Latest Skateboarding Hardware](https://thevinessupply.co/collections/latest-skateboarding-hardware): Shop the newest skateboard hardware products, including skateboard trucks, skate decks, skateboard wheels and more. A huge selection of skate decks from brands like Independent Trucks, Spitfire Wheels, and Bones Bearings
-  Updated: 2025-12-10T15:55:08Z
+  Updated: 2025-12-10T16:44:01Z
   Total Products: 1379
 - [Skateboard Hardware Sale](https://thevinessupply.co/collections/skateboard-hardware-sale): Shop our skateboard hardware sale, including big discounts on skateboard trucks, skate decks, skateboard wheels and more. A huge selection of sale skate hardware from brands like Independent Trucks, Spitfire Wheels, and Bones Bearings
   Updated: 2025-12-10T12:48:57Z
@@ -7726,10 +7733,10 @@
   Updated: 2025-10-19T11:17:45Z
   Total Products: 6
 - [Wheels, Bearings & Trucks](https://thevinessupply.co/collections/wheels-bearings-trucks)
-  Updated: 2025-12-10T15:55:08Z
+  Updated: 2025-12-10T16:44:01Z
   Total Products: 371
 - [Wheels & Bearings](https://thevinessupply.co/collections/wheels-bearings)
-  Updated: 2025-12-10T15:55:08Z
+  Updated: 2025-12-10T16:44:01Z
   Total Products: 294
 - [Black Friday Skateboard Sale](https://thevinessupply.co/collections/black-friday-skateboard-sale): Shop our Black Friday Skateboard Sale, with the best deals on premium skateboard trucks, decks, and wheels. Skate deals with free delivery on order over £70
   Updated: 2025-12-10T15:55:08Z
