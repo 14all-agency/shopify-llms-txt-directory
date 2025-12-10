@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-09T20:00:34.190Z
+- Updated At: 2025-12-10T04:00:34.396Z
 
 ## Products
 
@@ -5983,13 +5983,13 @@
   Availability: Available
   Price: $0.00 USD
 - [Large Room Sprays (30 Pack)](https://affinatiliving.com/products/room-sprays-large)
-  Updated: 2025-12-01T14:41:36Z
+  Updated: 2025-12-09T23:45:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Small Room Sprays (30 Pack)](https://affinatiliving.com/products/room-sprays-small)
-  Updated: 2025-11-24T17:05:20Z
+  Updated: 2025-12-09T23:45:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6019,7 +6019,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Original/Small Wooden Wick Candle Containers (12 Pack)](https://affinatiliving.com/products/original-small-wooden-wick-candle-containers)
-  Updated: 2025-12-05T22:44:15Z
+  Updated: 2025-12-09T23:44:39Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6061,7 +6061,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Signature/Original/Sm & Lg Wooden Wick Black Lids (12 Pack)](https://affinatiliving.com/products/signature-black-lids)
-  Updated: 2025-12-05T22:44:45Z
+  Updated: 2025-12-09T23:46:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6091,13 +6091,13 @@
   Availability: Available
   Price: $0.00 USD
 - [3-Wick White Jars (12 Pack)](https://affinatiliving.com/products/3-wick-white-jars)
-  Updated: 2025-11-30T16:35:25Z
+  Updated: 2025-12-09T23:44:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [3-Wick Lids (12 Pack)](https://affinatiliving.com/products/3-wick-lids)
-  Updated: 2025-12-08T15:07:05Z
+  Updated: 2025-12-09T23:46:20Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6121,7 +6121,7 @@
   Availability: Not Available
   Price: $0.00 USD
 - [12x12x6 Packing Boxes](https://affinatiliving.com/products/12x12x6-white-packing-boxes)
-  Updated: 2025-12-07T20:54:10Z
+  Updated: 2025-12-09T23:45:59Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6139,7 +6139,7 @@
   Availability: Available
   Price: $0.00 USD
 - [18x18x8 Packing Boxes](https://affinatiliving.com/products/18x18x8-packing-boxes)
-  Updated: 2025-12-07T20:54:20Z
+  Updated: 2025-12-09T23:45:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6169,16 +6169,16 @@
   Availability: Available
   Price: $0.00 USD
 - [Packing Tape (Rolls)](https://affinatiliving.com/products/packing-tape)
-  Updated: 2025-12-03T01:46:01Z
+  Updated: 2025-12-09T23:47:21Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Packing Peanuts (5 Cubic Feet Bag)](https://affinatiliving.com/products/packing-peanuts-cubic-feet)
-  Updated: 2025-12-08T15:06:50Z
+  Updated: 2025-12-09T23:47:11Z
   Vendor: Affinati
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Price: $0.00 USD
 - [Mahogany Teakwood Reed Diffuser](https://affinatiliving.com/products/mahogany-teakwood-reed-diffuser): Elevate your space with Affinati’s Mahogany Teakwood Reed Diffuser. A luxurious blend of mahogany, teakwood, and cedar with hints of lavender and oak moss—crafted for long-lasting, flame-free fragrance and timeless sophistication.
   Updated: 2025-11-23T15:00:31Z
@@ -9387,6 +9387,18 @@
   - [CeraVe vs Vaseline Lotion: Which Is Better? Full Comparison, Benefits & Buying Guide](https://affinatiliving.com/blogs/debates/cerave-vs-vaseline-lotion-which-is-better-full-comparison-benefits-buying-guide)
     Updated: 2025-12-07T00:32:57Z
     Author: Gerard Collins
+  - [Dove vs Bath & Body Works Lotion | Full Comparison & Best Pick | Affinati](https://affinatiliving.com/blogs/debates/dove-vs-bath-body-works-lotion-full-comparison-best-pick-affinati)
+    Updated: 2025-12-10T00:28:28Z
+    Author: Gerard Collins
+  - [Dove Lotion vs Hempz Lotion: Ingredients, Hydration & Best Alternative](https://affinatiliving.com/blogs/debates/dove-lotion-vs-hempz-lotion-ingredients-hydration-best-alternative)
+    Updated: 2025-12-10T00:24:17Z
+    Author: Gerard Collins
+  - [Dove Lotion vs Tree Hut Lotion: Full Comparison & Better Alternative](https://affinatiliving.com/blogs/debates/dove-lotion-vs-tree-hut-lotion-full-comparison-better-alternative)
+    Updated: 2025-12-10T00:13:32Z
+    Author: Gerard Collins
+  - [Dove Lotion vs Vaseline Lotion: Which Is Better for Your Skin?](https://affinatiliving.com/blogs/debates/dove-lotion-vs-vaseline-lotion-which-is-better-for-your-skin)
+    Updated: 2025-12-10T00:08:27Z
+    Author: Gerard Collins
   - [Dove Lotion vs OUAI Lotion: Full Comparison, Ingredients, Scent & Best Alternatives](https://affinatiliving.com/blogs/debates/dove-lotion-vs-ouai-lotion-full-comparison-ingredients-scent-and-best-alternatives)
     Updated: 2025-12-08T19:50:51Z
     Author: Gerard Collins
@@ -9400,7 +9412,7 @@
     Updated: 2025-12-08T16:18:54Z
     Author: Gerard Collins
   - [Dove Lotion vs. Cetaphil Lotion: Dermatologist-Backed Comparison for Hydration, Ingredients & Skin Health](https://affinatiliving.com/blogs/debates/dove-lotion-vs-cetaphil-lotion-dermatologist-backed-comparison-for-hydration-ingredients-skin-health)
-    Updated: 2025-12-08T15:26:42Z
+    Updated: 2025-12-10T01:28:34Z
     Author: Gerard Collins
 - [Affinati Spotlight: Product Feature](https://affinatiliving.com/blogs/affinati-spotlight-product-feature)
   - [Affinati Fresh Peaches 3-Wick Candle | Long-Lasting Summer Luxury](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/affinati-fresh-peaches-3-wick-candle-long-lasting-summer-luxury)
