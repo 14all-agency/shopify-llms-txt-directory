@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-07T00:48:50Z
 - Contact Email: freeoffice2@gmail.com
-- Updated At: 2025-12-08T00:00:30.151Z
+- Updated At: 2025-12-10T00:00:24.654Z
 
 ## Collections
 
@@ -81,6 +81,10 @@
     Updated: 2025-12-02T23:28:41Z
     Author: Mohammed Hassen
     Tags: Crazedo Trends, entertainment trends 2025, google trends this week, netflix trending 2025, pop culture trends, season 5 ending predictions, stranger things season 5, stranger things trending, streaming trends netflix, viral tv trends
+  - [World Cup 2026 Draw Searches Surge Worldwide](https://crazedo.com/blogs/weekly-google-trends/world-cup-2026-draw-searches): World Cup 2026 Draw Searches Surge Worldwide
+    Updated: 2025-12-09T01:46:25Z
+    Author: Mohammed Hassen
+    Tags: Canada, FIFA, Football News, Host Nations, Mexico, Soccer, Sports Marketing, USA, World Cup 2026, World Cup Draw
 
 ## Store Pages
 
