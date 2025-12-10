@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-12-07T00:00:32.886Z
+- Updated At: 2025-12-10T00:00:37.404Z
 
 ## Products
 
@@ -445,65 +445,65 @@
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-07at22.22.28_1.jpg?v=1738960333
   Price: 41,90 lei RON
 - [Ulei Horticol MERITUS OIL - 100 ML, ENO](https://depozitulgradinarului.ro/products/ulei-horticol-meritus-oil-100-ml-eno): Ulei Horticol MERITUS OIL - formulă specială destinată utilizării în amestec cu insecticide și acaricide care combat: Afide; Păduchele din San Jose; Acarianul roșu al pomilor; Păianjenul roșu comun; etc.
-  Updated: 2025-07-27T07:40:24Z
+  Updated: 2025-12-09T19:22:30Z
   Vendor: ENO
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-07at22.40.03.jpg?v=1738960819
   Price: 8,00 lei RON
 - [Ulei Horticol MERITUS OIL - 500 ML, ENO](https://depozitulgradinarului.ro/products/ulei-horticol-meritus-oil-500-ml-eno): Ulei Horticol MERITUS OIL - formulă specială destinată utilizării în amestec cu insecticide și acaricide care combat: Afide; Păduchele din San Jose; Acarianul roșu al pomilor; Păianjenul roșu comun; etc.
-  Updated: 2025-07-29T19:50:37Z
+  Updated: 2025-12-09T19:22:29Z
   Vendor: ENO
   Product Type: GRAD-AGRO-Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-07at22.40.03_1.jpg?v=1738961163
   Price: 24,00 lei RON
 - [Ulei Horticol MERITUS OIL - 1 L, ENO](https://depozitulgradinarului.ro/products/ulei-horticol-meritus-oil-1-l-eno): Ulei Horticol MERITUS OIL - formulă specială destinată utilizării în amestec cu insecticide și acaricide care combat: Afide; Păduchele din San Jose; Acarianul roșu al pomilor; Păianjenul roșu comun; etc.
-  Updated: 2025-07-27T02:12:09Z
+  Updated: 2025-12-09T19:22:27Z
   Vendor: ENO
   Product Type: GRAD-AGRO-Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-07at22.40.03_2.jpg?v=1738961288
   Price: 36,90 lei RON
-- [Insecticid MOSPILAN 20 SG – 1.5 GR, Sistemic, SUMI AGRO](https://depozitulgradinarului.ro/products/insecticid-mospilan-20-sg-1-5-gr-sistemic-sumi-agro): MOSPILAN 20 SG, insecticid sistemic cu efect de lunga durata si spectru larg de combatere.
+- [Insecticid MOSPILAN 20 SG – 1.5 GR, Sistemic, SUMI AGRO, Legume, Cereale, Pomi Fructiferi, Vita-de-Vie](https://depozitulgradinarului.ro/products/insecticid-mospilan-20-sg-1-5-gr-sistemic-sumi-agro): MOSPILAN 20 SG, insecticid sistemic cu efect de lunga durata si spectru larg de combatere.
 Substanta activa: acetamiprid 200 g/kg
-  Updated: 2025-07-29T01:16:05Z
+  Updated: 2025-12-09T18:26:36Z
   Vendor: Sumi Agro
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-07at22.55.23.jpg?v=1738961834
   Price: 2,99 lei RON
-- [Insecticid MOSPILAN 20 SG – 3 GR, Sistemic, SUMI AGRO](https://depozitulgradinarului.ro/products/insecticid-mospilan-20-sg-3-gr-sistemic-sumi-agro): MOSPILAN 20 SG, insecticid sistemic cu efect de lunga durata si spectru larg de combatere.
+- [Insecticid MOSPILAN 20 SG – 3 GR, Sistemic, SUMI AGRO, Legume, Cereale, Pomi Fructiferi, Vita-de-Vie](https://depozitulgradinarului.ro/products/insecticid-mospilan-20-sg-3-gr-sistemic-sumi-agro): MOSPILAN 20 SG, insecticid sistemic cu efect de lunga durata si spectru larg de combatere.
 Substanta activa: acetamiprid 200 g/kg
-  Updated: 2025-07-26T06:40:45Z
+  Updated: 2025-12-09T18:26:50Z
   Vendor: Sumi Agro
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-07at22.52.15.jpg?v=1738962140
   Price: 4,00 lei RON
-- [Pachet DUO MERITUS OIL + DELTAGRI, ENO, 10 - 13 L apa |Pomi fructiferi](https://depozitulgradinarului.ro/products/pachet-duo-meritus-oil-deltagri-eno-tratament-pomi-fructiferi-10-13-l-apa): Pachetul pentru pomii fructiferi MERITUS OIL + DELTAGRI actioneaza prin asfixiere, contact si ingestie impotriva a numeroase insecte daunatoare.
-  Updated: 2025-12-04T15:13:14Z
+- [Pachet DUO MERITUS OIL + DELTAGRI, ENO, 10-13 L Apa | Pomi Fructiferi](https://depozitulgradinarului.ro/products/pachet-duo-meritus-oil-deltagri-eno-tratament-pomi-fructiferi-10-13-l-apa): Pachetul pentru pomii fructiferi MERITUS OIL + DELTAGRI actioneaza prin asfixiere, contact si ingestie impotriva a numeroase insecte daunatoare. Rezultate rapide!
+  Updated: 2025-12-09T18:07:31Z
   Vendor: ENO
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-08at09.04.47.jpg?v=1738998355
   Price: 8,09 lei RON
-- [Pachet DUO MERITUS OIL + DELTAGRI, ENO, 65 L apa |Pomi fructiferi](https://depozitulgradinarului.ro/products/pachet-duo-meritus-oil-deltagri-eno-tratament-pomi-fructiferi-65-l-apa): Pachetul pentru pomii fructiferi MERITUS OIL + DELTAGRI actioneaza prin asfixiere, contact si ingestie impotriva a numeroase insecte daunatoare.
-  Updated: 2025-12-04T15:13:01Z
+- [Pachet DUO MERITUS OIL + DELTAGRI, ENO, 65 L Apa | Pomi Fructiferi](https://depozitulgradinarului.ro/products/pachet-duo-meritus-oil-deltagri-eno-tratament-pomi-fructiferi-65-l-apa): Pachetul pentru pomii fructiferi MERITUS OIL + DELTAGRI actioneaza prin asfixiere, contact si ingestie impotriva a numeroase insecte daunatoare. Rezultate rapide!
+  Updated: 2025-12-09T18:07:39Z
   Vendor: ENO
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-08at09.04.47_1.jpg?v=1738998904
   Price: 27,81 lei RON
-- [Insecticid TEPPEKI – 1.5 GR, ENO, Sistemic, Afide, Pomi Fructiferi, Legume, Plante Ornamentale, Cereale](https://depozitulgradinarului.ro/products/insecticid-teppeki-1-5-gr-eno-sistemic-afide): Scapă rapid de afide cu insecticidul TEPPEKI - 1.5 gr! Eficiență garantată, sistemic și selectiv, protejează culturile fără să afecteze albinele sau prădătorii naturali.
-  Updated: 2025-12-04T12:21:35Z
+- [Insecticid TEPPEKI – 1.5 GR, ENO | Sistemic, Afide](https://depozitulgradinarului.ro/products/insecticid-teppeki-1-5-gr-eno-sistemic-afide): Scapă rapid de afide cu insecticidul TEPPEKI - 1.5 gr! Eficiență garantată, sistemic și selectiv, protejează culturile fără să afecteze albinele sau prădătorii naturali.
+  Updated: 2025-12-09T17:50:46Z
   Vendor: ENO
   Product Type: Insecticid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-08at09.04.47_2.jpg?v=1738999216
   Price: 5,99 lei RON
-- [Insecticid TEPPEKI - 15 GR, ENO, Sistemic, Afide, Pomi Fructiferi, Legume, Plante Ornamentale, Cereale](https://depozitulgradinarului.ro/products/insecticid-teppeki-15-gr-eno-sistemic-afide): Scapă rapid de afide cu insecticidul TEPPEKI - 15 gr! Eficiență garantată, sistemic și selectiv, protejează culturile fără să afecteze albinele sau prădătorii naturali.
-  Updated: 2025-12-04T08:20:26Z
+- [Insecticid TEPPEKI - 15 GR, ENO | Sistemic, Afide](https://depozitulgradinarului.ro/products/insecticid-teppeki-15-gr-eno-sistemic-afide): Scapă rapid de afide cu insecticidul TEPPEKI - 15 gr! Eficiență garantată, sistemic și selectiv, protejează culturile fără să afecteze albinele sau prădătorii naturali.
+  Updated: 2025-12-09T17:50:55Z
   Vendor: ENO
   Product Type: Insecticid
   Availability: Available
@@ -4223,7 +4223,7 @@ Livrare rapidă!
   Updated: 2025-11-29T12:48:33Z
   Total Products: 28
 - [Insecticide Sistemice și de Contact | Combaterea dăunătorilor](https://depozitulgradinarului.ro/collections/insecticide): Alege insecticide sistemice și de contact, eficiente pentru combaterea dăunătorilor. Descoperă gama completă de insecticide agricole și de grădină – soluții avizate pentru combaterea insectelor în toate stadiile de dezvoltare.
-  Updated: 2025-12-03T20:20:16Z
+  Updated: 2025-12-09T18:26:50Z
   Total Products: 46
 - [Fungicide sistemice și de contact | Plante și Culturile Agricole](https://depozitulgradinarului.ro/collections/fungicide): Fungicide sistemice și de contact pentru plantele din grădină, pomi fructiferi, vița-de-vie și culturi agricole – soluții eficiente împotriva bolilor cauzate de ciuperci, pentru plante sănătoase și culturi productive.
   Updated: 2025-12-03T20:11:42Z
@@ -4250,7 +4250,7 @@ Livrare rapidă!
   Updated: 2025-11-30T12:59:52Z
   Total Products: 4
 - [Pesticide Profesionale | Erbicide, Insecticide, Fungicide, ...](https://depozitulgradinarului.ro/collections/pesticide): Alege pesticide profesionale, precum erbicide, insecticide, fungicide, acaricide, dezinfectanți pentru sol, adjuvanti, pentru combaterea bolilor, dăunătorilor și buruienilor.
-  Updated: 2025-12-03T20:20:16Z
+  Updated: 2025-12-09T18:26:50Z
   Total Products: 131
 - [Semințe de Grădină – Legume, Fructe, Flori și Plante Aromatice](https://depozitulgradinarului.ro/collections/seminte-gradina): Explorează selecția noastră de semințe de grădină: legume sanatoase, fructe gustoase, flori colorate și plante aromatice - germinare rapidă. Alege semințe de calitate pentru o grădină roditoare și plină de culoare. Soiuri românești și profesionale pentru o grădină productivă și sănătoasă.
   Updated: 2025-11-30T13:28:27Z
@@ -4263,13 +4263,13 @@ Livrare rapidă!
   Updated: 2025-12-02T19:24:57Z
   Total Products: 39
 - [Semințe de Gazon 1 kg & 10 kg | Universal, Soare, Umbră, Sport](https://depozitulgradinarului.ro/collections/gazon): Cumpără semințe de gazon pentru soare, umbră, sport și utilizare universală. Pachete de 1 kg și 10 kg pentru peluze dense, verzi și rezistente. Livrare rapidă!
-  Updated: 2025-10-29T07:25:44Z
+  Updated: 2025-12-08T12:35:21Z
   Total Products: 8
 - [Semințe Furajere | Lucernă, Trifoi, Lolium, Amestecuri](https://depozitulgradinarului.ro/collections/plante-furajere): Alege semințe furajere de calitate: lucernă, trifoi, lolium, mixuri profesionale pentru pășuni și fânețe. Soiuri selecționate pentru furaje animale de calitate.
   Updated: 2025-10-31T11:26:59Z
   Total Products: 11
 - [Accesorii Casă & Grădină | Unelte, Irigare, Gazon, Raticide](https://depozitulgradinarului.ro/collections/casa-gradina): Descoperă accesorii pentru grădinărit, unelte, sisteme de irigare, semințe de gazon și soluții eficiente pentru combaterea șoarecilor și șobolanilor.
-  Updated: 2025-12-03T19:39:39Z
+  Updated: 2025-12-08T12:35:21Z
   Total Products: 148
 - [Semințe Profesionale Legume și Fructe – Hibrizi Productivi](https://depozitulgradinarului.ro/collections/seminte-profesionale-hybrizi): Alege semințe profesionale de legume și fructe, hibrizi productivi, de calitate pentru grădină, solarii și câmp. Soiuri cu randament ridicat, ideale pentru cultivatori exigenți.
   Updated: 2025-11-30T13:19:14Z
@@ -4329,7 +4329,7 @@ Livrare rapidă!
   Updated: 2025-10-27T08:15:28Z
   Total Products: 8
 - [Pachete Tratament Grădină & Agricultură | Pomi Fructiferi, Legume, Vita de Vie, Gazon, Tuia, Flori](https://depozitulgradinarului.ro/collections/pachete-tratament): Alege pachete complete de tratament grădină & agricultură, pentru viță-de-vie, legume, pomi fructiferi, flori, gazon sau tuia. Soluții eficiente împotriva bolilor și dăunătorilor.
-  Updated: 2025-11-30T13:21:33Z
+  Updated: 2025-12-09T18:07:32Z
   Total Products: 12
 - [Produse BIO | Legume, Flori, Pomi, Gazon, Dezinfectant sol, Raticide](https://depozitulgradinarului.ro/collections/produse-bio): Gama completă de produse BIO: tratamente naturale pentru legume, pomi, flori, gazon, sol și combaterea rozătoarelor. Alege soluții ecologice!
   Updated: 2025-12-01T14:27:52Z
@@ -4344,7 +4344,7 @@ Livrare rapidă!
   Updated: 2025-11-30T13:28:56Z
   Total Products: 0
 - [Pachete Tratament Pomi Fructiferi – Protecție completă împotriva bolilor și dăunătorilor](https://depozitulgradinarului.ro/collections/pachete-tratament-pomi): Descperă pachetele tratament pentru pomi fructiferi, eficiente împotriva bolilor și dăunătorilor, pentru protejarea pomilor fructiferi și maximizarea producției. Descoperă pachete tratament pomi adaptate fiecărei faze de vegetație.
-  Updated: 2025-11-30T13:21:33Z
+  Updated: 2025-12-09T18:07:32Z
   Total Products: 4
 - [Pachete Tratament Viță de Vie – Protecție Completă pentru Culturi Sănătoase](https://depozitulgradinarului.ro/collections/pachete-tratament-vita-de-vie): Alege pachete tratament viță-de-vie pentru o protecție completă împotriva bolilor și dăunătorilor. Soluții profesionale pentru întreținerea și protejarea culturilor de viță de vie, de la butași la recolta finală.
   Updated: 2025-11-30T13:21:32Z
@@ -4469,6 +4469,18 @@ Livrare rapidă!
     Updated: 2025-11-25T19:34:43Z
     Author: Sântimbrean Marius
     Tags: fusarium, ofilirea vasculară, roșii, tomate, tratamente, verticillium
+  - [Musculița albă la roșii: cum o recunoști și cum o ții sub control](https://depozitulgradinarului.ro/blogs/articole/musculita-alba-la-rosii-tratamente-preventie-solar): <p>Musculița albă poate compromite rapid o cultură de roșii, mai ales în solar. În acest ghid afli cum o recunoști, ce condiții o favorizează și cum o ții sub control cu insecticide eficiente și soluții bio, plus măsuri de prevenție pe termen lung.</p>
+    Updated: 2025-12-07T15:37:20Z
+    Author: Sântimbrean Marius
+    Tags: roșii, roșii musculița albă, tratamente
+  - [Ghid BIO 2026: Reziduu-Zero, scheme și strategii de vânzare](https://depozitulgradinarului.ro/blogs/articole/ghid-produse-bio-2026): Ghid BIO 2026: Reziduu-Zero, scheme și strategii de vânzare
+    Updated: 2025-12-07T15:37:20Z
+    Author: Sântimbrean Marius
+    Tags: 2026, Depozitul Grădinarului, produse bio, Reziduu-Zero 2026, soluții ecologice
+  - [Conformitate B2B: Trasabilitate, SDS, retururi și garanții 2026](https://depozitulgradinarului.ro/blogs/articole/conformitate-b2b-trasabilitate-retururi-2026): Conformitate B2B: Trasabilitate, SDS, retururi și garanții 2026
+    Updated: 2025-12-07T15:37:20Z
+    Author: Sântimbrean Marius
+    Tags: condiții comerciale, Depozitul Grădinarului, Parteneriat B2B 2026
   - [Udarea corectă în solar 2026: Ghid Complet Fără Greșeli](https://depozitulgradinarului.ro/blogs/articole/udarea-corecta-in-solar-2026-ghid-complet-fara-greseli): Udarea corectă în solar 2026: Ghid Complet Fără Greșeli
     Updated: 2025-12-02T17:53:49Z
     Author: Sântimbrean Marius
@@ -4489,6 +4501,42 @@ Livrare rapidă!
     Updated: 2025-12-02T17:54:12Z
     Author: Sântimbrean Marius
     Tags: fungicid, piatră vânătă, zeama bordeleză
+  - [Melcii în Grădină 2026: Ce funcționează cu adevărat?](https://depozitulgradinarului.ro/blogs/articole/melci-limacsi-combatere-agrosan-b): Melcii în Grădină 2026: Ce funcționează cu adevărat?
+    Updated: 2025-12-07T15:37:20Z
+    Author: Sântimbrean Marius
+    Tags: melci de grădină
+  - [Ulei horticol la pomi primavara-iarna: cand si cum il folosesti](https://depozitulgradinarului.ro/blogs/articole/ulei-horticol-pomi-tratament-iarna-primavara-2026): Ulei horticol la pomi primavara-iarna: cand si cum il folosesti
+    Updated: 2025-12-07T15:37:20Z
+    Author: Sântimbrean Marius
+    Tags: tratamente, ulei horticol
+  - [Achiziții en-gros agro: cum reduci costurile](https://depozitulgradinarului.ro/blogs/articole/achizitii-en-gros-pesticide-furaje): Achiziții en-gros agro: cum reduci costurile
+    Updated: 2025-12-07T15:37:20Z
+    Author: Sântimbrean Marius
+    Tags: Depozitul Grădinarului, en-gros, furaje, pesticide
+  - [Conformitate fitofarmacie: etichete, timpi de pauză](https://depozitulgradinarului.ro/blogs/articole/conformitate-fitofarmacie-etichetare-timpi-pauza): Conformitate fitofarmacie: etichete, timpi de pauză
+    Updated: 2025-12-07T15:37:20Z
+    Author: Sântimbrean Marius
+    Tags: 2026, agro, fitofarmacie, retail
+  - [Pesticide Organice: Unde le găsești și Ce funcționează real în 2026](https://depozitulgradinarului.ro/blogs/articole/pesticide-organice-eficiente-2026): <p>Pesticidele organice nu mai înseamnă tratamente slabe și recolte pierdute. Zapex și Champ 77 WG te ajută să protejezi roșiile, castraveții și vița de vie cu produse potrivite pentru agricultura ecologică, comandate online, direct la poarta grădinii tale.</p>
+    Updated: 2025-12-07T15:37:20Z
+    Author: Sântimbrean Marius
+    Tags: biopesticide, pesticide, pesticide organice, produse bio
+  - [Gama esențială pentru o fitofarmacie nouă: stoc inițial](https://depozitulgradinarului.ro/blogs/articole/gama-esentiala-fitofarmacie-noua-stoc-initial): Gama esențială pentru o fitofarmacie nouă: stoc inițial
+    Updated: 2025-12-07T15:37:20Z
+    Author: Sântimbrean Marius
+    Tags: fitofarmacie
+  - [pH-ul Apei la Stropiri 2026: De ce nu funcționează pesticidele?](https://depozitulgradinarului.ro/blogs/articole/ph-apa-stropiri-ghid-2026): <p>De ce nu mai au pesticidele efectul așteptat, deși respecți dozele? În foarte multe solarii, problema este pH-ul și duritatea apei. Învață cum să o măsori, să o corectezi și să prepari corect soluția înainte de stropit.</p>
+    Updated: 2025-12-07T15:37:20Z
+    Author: Sântimbrean Marius
+    Tags: 2026, pesticide, ph-ul apei, stropiri
+  - [Erbicid Total în Curte: Ghid 2026 Roundup Extra](https://depozitulgradinarului.ro/blogs/articole/erbicid-total-in-curte-ghid-2026): Erbicid Total în Curte: Ghid 2026 Roundup Extra
+    Updated: 2025-12-07T15:37:20Z
+    Author: Sântimbrean Marius
+    Tags: erbicide
+  - [Cei mai buni raticizi pentru șoareci și șobolani (ghid 2025)](https://depozitulgradinarului.ro/blogs/articole/cei-mai-buni-raticizi-pentru-soareci-si-sobolani-ghid-2025): Cei mai buni raticizi pentru șoareci și șobolani (ghid 2025)
+    Updated: 2025-12-07T15:37:20Z
+    Author: Sântimbrean Marius
+    Tags: raticizi, șoareci, șobolani
 
 ## Store Pages
 
