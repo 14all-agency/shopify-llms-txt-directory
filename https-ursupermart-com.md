@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-12-09T00:01:01.193Z
+- Updated At: 2025-12-10T00:01:00.085Z
 
 ## Products
 
@@ -1982,7 +1982,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2025-12-08T16:41:56Z
+  Updated: 2025-12-09T19:59:55Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -15667,24 +15667,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/tye-dye-form-fitting-dress-blue.webp?v=1744599781
     Price: $57.95 USD
-- [Green Bodycon Midi Dress with Cutout Shoulders Design](https://ursupermart.com/products/green-bodycon-midi-dress-detached-sleeves): Discover our stunning green bodycon midi dress featuring a sweetheart neckline and detached sleeves. Machine washable and highly stretchy for all-night comfort
-  Updated: 2025-12-04T13:42:47Z
-  Vendor: S1B|Meta - Trendsi
-  Product Type: Bodycon Dress
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/green-bodycon-midi-dress-full-front.webp?v=1744684071
-  - [Green / S](https://ursupermart.com/products/green-bodycon-midi-dress-detached-sleeves?variant=41867315249242)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/green-bodycon-midi-dress-styled-look.webp?v=1744684074
-    Price: $117.95 USD
-  - [Green / L](https://ursupermart.com/products/green-bodycon-midi-dress-detached-sleeves?variant=41867315282010)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/green-bodycon-midi-dress-styled-look.webp?v=1744684074
-    Price: $117.95 USD
-  - [Green / M](https://ursupermart.com/products/green-bodycon-midi-dress-detached-sleeves?variant=41867315314778)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/green-bodycon-midi-dress-styled-look.webp?v=1744684074
-    Price: $117.95 USD
 - [Sequin Spliced Mesh Dress  Formal Gown with Thigh High Slit](https://ursupermart.com/products/sequin-spliced-mesh-dress-with-thigh-slit): Turn heads in our sequin spliced mesh evening gown. Featuring corset bodice, high thigh slit & curve-hugging fit. Perfect for special occasions.
   Updated: 2025-12-04T13:42:50Z
   Vendor: S1B|Meta - Trendsi
@@ -17361,7 +17343,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/pet-water-dispenser-cat-drinking-indoor.webp?v=1752292758
   Price: $49.95 USD
 - [Decorative wax lamp for a calming, mesmerizing glow](https://ursupermart.com/products/decorative-wax-lamp-calming-mesmerizing-glow): Decorative wax lamp creates a mesmerizing, tranquil glow, transforming any space into a relaxing oasis with its unique, captivating display. Enhance your mood and decor; shop now!
-  Updated: 2025-12-05T13:26:36Z
+  Updated: 2025-12-09T14:25:32Z
   Vendor: S1B|Make | CJ
   Product Type: Decorative wax lamp
   Availability: Available
@@ -18081,7 +18063,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/portable-magnetic-phone-holder-white-accessory.webp?v=1753896986
     Price: $29.95 USD
 - [Colombian Shapewear - Sculpt & Slim Instantly!](https://ursupermart.com/products/best-colombian-shapewear-body-shapers): Shop Colombian shapewear for ultimate tummy control.  Our fajas offer post-surgery support & a flattering silhouette.  Buy now!
-  Updated: 2025-12-07T06:25:31Z
+  Updated: 2025-12-09T17:25:32Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Colombian Shapewear (Fajas, Body Shaper, Tummy Control Shapewear, Post-Surgery Shapewear, Butt Lifter Shapewear, Melibelt Bodysuit)
   Availability: Available
@@ -18091,7 +18073,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/body-shaper-fajas-tummy-control-black.webp?v=1752771030
     Price: $34.95 USD
   - [Black / M](https://ursupermart.com/products/best-colombian-shapewear-body-shapers?variant=41968196255834)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/body-shaper-fajas-tummy-control-black.webp?v=1752771030
     Price: $34.95 USD
   - [Black / L](https://ursupermart.com/products/best-colombian-shapewear-body-shapers?variant=41968196223066)
@@ -25432,7 +25414,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/heart-shoulder-bag-lavender-fluffy-style.webp?v=1758055294
     Price: $34.95 USD
 - [Moon Necklace Glowing Crescent Pendant for Unique Style](https://ursupermart.com/products/moon-necklace-glowing-crescent-pendant-unique-style): This moon necklace features a glowing crescent pendant and orb charm, perfect for expressing your unique style and adding magic to any look. Get yours today!
-  Updated: 2025-12-04T14:04:58Z
+  Updated: 2025-12-09T05:25:42Z
   Vendor: S1B|@S1|CJ
   Product Type: Glowing Crescent Moon Pendant Necklace
   Availability: Available
@@ -26399,13 +26381,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/educational-flashcard-reader-with-cards.webp?v=1759350207
     Price: $22.95 USD
-- [Snowball Makers: Fun Shaped Toys for Winter Play](https://ursupermart.com/products/snowball-makers-winter-play-fun-shaped-toys): Snowball makers let you create fun duck, heart, snowman, and dinosaur shapes easily, keeping hands warm and dry for endless winter play. Get yours today!
-  Updated: 2025-12-04T14:06:59Z
-  Vendor: @S1B|S1|CJ
-  Product Type: Snowball makers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/snowball-makers-multi-shape-tool-kit.webp?v=1759420601
-  Price: $16.95 USD
 - [Architectural Model Miniature House Kit for Creative Play](https://ursupermart.com/products/architectural-model-miniature-house-kit-for-play): Architectural Model kit sparks imagination with a two-story house, figures, and car on a sturdy wooden base. Build your miniature world and create stories today!
   Updated: 2025-12-04T14:07:00Z
   Vendor: @S1B|S1|CJ
@@ -26584,7 +26559,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/tabletop-foosball-game-wood-mini.webp?v=1761260324
   Price: $44.95 USD
 - [Bath toys: Fun spraying whale lights for happy kids](https://ursupermart.com/products/spraying-whale-bath-toys-for-kids-happy): Bath toys for kids: this automatic spraying whale with colorful lights and music makes bath time a joyful, sensory adventure! Discover the fun.
-  Updated: 2025-12-07T23:26:41Z
+  Updated: 2025-12-09T18:26:48Z
   Vendor: @S1B|S1|CJ
   Product Type: Whale bath toy
   Availability: Available
@@ -29980,7 +29955,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/faux-fur-vest-with-collared-design-luxury-beige-front.webp?v=1764959362
     Price: $62.95 USD
 - [Plush Faux Fur Coat - Warm, Stylish & Ethical Outerwear](https://ursupermart.com/products/plush-faux-fur-coat-warm-stylish-ethical-outerwear-for-women): Plush faux fur coat offers ethical warmth and chic style with its fluffy lapel and oversized collar; embrace luxurious fashion today!
-  Updated: 2025-12-06T13:57:39Z
+  Updated: 2025-12-09T04:26:47Z
   Vendor: S1B|S1|CJ
   Product Type: Faux fur coat
   Availability: Available
@@ -31208,7 +31183,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/654ab3e7-bdfa-4ebe-b4cf-e68b38ae26ea.jpg?v=1762443489
     Price: $124.95 USD
 - [Faux Fur Hooded Poncho - Warm & Stylish Outerwear](https://ursupermart.com/products/faux-fur-hooded-poncho-warm-stylish-outerwear-plus-size-poncho): This faux fur hooded poncho offers cozy warmth, stylish comfort, and practical pockets for any occasion; discover your perfect versatile layer today!
-  Updated: 2025-12-06T12:52:18Z
+  Updated: 2025-12-09T00:26:54Z
   Vendor: S1B|S1|CJ
   Product Type: Hooded poncho
   Availability: Available
@@ -34542,7 +34517,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/waterproof-raincoat-women-navy-windbreaker-jacket.webp?v=1763265349
     Price: $46.95 USD
 - [Biker Jacket Women Suede Edgy Style Flattering Fit](https://ursupermart.com/products/womens-suede-biker-jacket-edgy-fall-flattering-fit): Biker jacket for women: Elevate your style with this edgy, flattering jacket, perfect for fall and any occasion; discover your perfect fit today!
-  Updated: 2025-12-06T05:26:41Z
+  Updated: 2025-12-09T16:33:26Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Biker Jacket
   Availability: Available
@@ -35725,7 +35700,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-wool-coat-blush-pink-feminine.webp?v=1762465043
     Price: $82.95 USD
 - [Wool Pea Coat for Women - Warm Winter Style & Slim Fit](https://ursupermart.com/products/womens-slim-fit-warm-wool-pea-coat-winter-style): This wool pea coat for women offers warmth and timeless style with a slim fit, stand collar, and pockets for fall and winter. Shop now for elegant comfort!
-  Updated: 2025-12-06T02:29:56Z
+  Updated: 2025-12-09T06:26:51Z
   Vendor: S1B|S1|CJ
   Product Type: Wool Pea Coat
   Availability: Available
@@ -37013,7 +36988,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/padded-puffer-jacket-pink-flat-view.webp?v=1762527796
     Price: $67.95 USD
 - [Nativity Scene Decor - Soft Glow Christmas Light](https://ursupermart.com/products/nativity-scene-decor-soft-glow-christmas-light): Nativity scene light: Add a modern, artistic touch to your home with this layered Christmas decor, featuring illuminated stars and a soft glow. Shop now!
-  Updated: 2025-12-06T03:26:57Z
+  Updated: 2025-12-09T07:26:41Z
   Vendor: @S1B|S1|CJ
   Product Type: Nativity scene decor
   Availability: Available
@@ -37153,7 +37128,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-cardigan-sweater-maroon-black-pattern.webp?v=1763084502
     Price: $54.95 USD
 - [Winter Jackets for Men - Warm & Windproof for Cold](https://ursupermart.com/products/winter-jackets-for-men-warm-windproof-cold-weather): Winter jackets for men keep you warm and dry with a plush lining, adjustable hood, and multiple pockets; stay comfortable in any cold weather. Shop now!
-  Updated: 2025-12-06T01:26:46Z
+  Updated: 2025-12-09T02:28:11Z
   Vendor: S1B|S1|CJ
   Product Type: Men's Outdoor Jacket
   Availability: Available
@@ -40574,7 +40549,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fur-hooded-coat-white-premium-fluffy-style.webp?v=1765055763
     Price: $92.95 USD
 - [Women's Double Breasted Trench Coat - Timeless Wool Style](https://ursupermart.com/products/womens-double-breasted-trench-coat-timeless-wool-style): Women's double breasted trench coat: Elevate your style with this timeless wool-blend design, offering warmth and sophistication. Shop now for classic elegance!
-  Updated: 2025-12-08T17:06:54Z
+  Updated: 2025-12-09T04:43:20Z
   Vendor: S1B|S1|CJ
   Product Type: Trench coat
   Availability: Available
@@ -40918,7 +40893,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-fox-fur-parka-with-oversized-hood-premium-grey.webp?v=1765160792
     Price: $424.95 USD
 - [Long Hooded Jacket for Cozy Warmth & Easy Style](https://ursupermart.com/products/long-hooded-jacket-cozy-warmth-effortless-style): Find your perfect long hooded jacket, offering cozy warmth and effortless style for everyday comfort and versatile wear. Get yours today!
-  Updated: 2025-12-08T19:08:12Z
+  Updated: 2025-12-09T06:52:50Z
   Vendor: S1B|S1|CJ
   Product Type: Long hooded zip-up jacket
   Availability: Available
@@ -41124,30 +41099,458 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/oversized-hoodie-for-women-light-grey-cozy.webp?v=1765165638
     Price: $42.95 USD
 - [Hands Free Neck Massager Deep Kneading Heat Relief](https://ursupermart.com/products/hands-free-neck-massager-deep-kneading-heat-relief): Hands free neck massager provides deep 4D kneading and soothing heat to melt away neck and shoulder tension. Experience relief and comfort; get yours today!
-  Updated: 2025-12-08T21:36:30Z
+  Updated: 2025-12-09T07:27:23Z
   Vendor: S1B|S1|CJ
   Product Type: neck massager
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/hands-free-neck-massager-premium-green-relief-strap.webp?v=1765229483
   Price: $87.95 USD
-- [Muscle Relaxation Massager Multi-head Massage Gun Deep Tissue Body Fitness Muscle Electric Relax Massager For Back Shoulders Legs Foot 16 Heads](https://ursupermart.com/products/muscle-relaxation-massager-multi-head-massage-gun-deep-tissue-body-fitness-muscle-electric-relax-massager-for-back-shoulders-legs-foot-16-heads): Overview: Good material, High quality. 100% Brand New. Product information: Noise: 46-70db Color: Black 16 head, black 8 head, black 6 head Function: LED screen, multi-gear adjustment, intelligent power off, multi-gear frequency conversion Gear: above 5 gears Motor type: brushed motor Packing list: Massage gun *1+ data cable *1+ manual *1 Product Image:
-  Updated: 2025-12-08T21:38:17Z
+- [8 Head Massage Gun for Deep Muscle Relief & Recovery](https://ursupermart.com/products/8-head-massage-gun-deep-muscle-relief-and-recovery): Get deep muscle relief with our 8 head massage gun, featuring quiet operation and 10 intensity levels for full-body recovery. Shop now for ultimate relaxation!
+  Updated: 2025-12-09T21:08:22Z
+  Vendor: S1B|S1|CJ
+  Product Type: massage gun
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/massage-gun-premium-16head-upgraded-relief.webp?v=1765308475
+  - [6 Heads](https://ursupermart.com/products/8-head-massage-gun-deep-muscle-relief-and-recovery?variant=42641567514714)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/massage-gun-6head-heated-prodeepmassager.webp?v=1765308475
+    Price: $96.95 USD
+  - [8 Heads](https://ursupermart.com/products/8-head-massage-gun-deep-muscle-relief-and-recovery?variant=42641567547482)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/massage-gun-advanced-16head-heavythrust.webp?v=1765308476
+    Price: $74.95 USD
+  - [16 Heads](https://ursupermart.com/products/8-head-massage-gun-deep-muscle-relief-and-recovery?variant=42641567481946)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/massage-gun-heated-16head-professionalunit.webp?v=1765308476
+    Price: $105.95 USD
+- [Women's Fashion Dot Fitness Yoga Outfit Five-Piece Set](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set): Product information: Pattern: Polka dot Color: Gray blue, sky blue, pink, linen red, linen gray, purple, fruit green, watermelon red, army green, rose red, lake blue, black Size: S, M, L, XL Wearing style: Pullover Garment length: Waist Function: Super stretch Fabric name: Spandex Sleeve length: Long sleeve Clothing style: Tight Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Long sleeves *1+trousers *1+ bra *1+short sleeves *1+shorts *1 Product Image:
+  Updated: 2025-12-09T19:45:00Z
+  Vendor: S1B|S1|S1B|Make | Meta - Dsers**-UP + Blog
+  Product Type: 2.4G wireless mouse
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/7f3b2acc-3ac7-4175-8026-def0a2496791_trans.jpg?v=1765309362
+  - [Army green / L](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645168750682)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4fc52a7f-564e-4c16-9c80-0ac3805088b4.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Army green / M](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645168783450)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4fc52a7f-564e-4c16-9c80-0ac3805088b4.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Army green / S](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645168816218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4fc52a7f-564e-4c16-9c80-0ac3805088b4.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Army green / XL](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645168848986)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4fc52a7f-564e-4c16-9c80-0ac3805088b4.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Black / L](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645168881754)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1fcb0b37-17cc-4a98-a673-d2773d8375c5.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Black / M](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645168914522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1fcb0b37-17cc-4a98-a673-d2773d8375c5.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Black / S](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645168947290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1fcb0b37-17cc-4a98-a673-d2773d8375c5.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Black / XL](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645168980058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1fcb0b37-17cc-4a98-a673-d2773d8375c5.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Blue Lake / L](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169012826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/865a2306-796b-4b80-b9ac-45da10d22e25.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Blue Lake / M](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169045594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/865a2306-796b-4b80-b9ac-45da10d22e25.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Blue Lake / S](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169078362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/865a2306-796b-4b80-b9ac-45da10d22e25.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Blue Lake / XL](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169111130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/865a2306-796b-4b80-b9ac-45da10d22e25.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Fruit Green / L](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169143898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/13b77a6e-3151-4fc1-b950-477078b267db.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Fruit Green / M](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169176666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/13b77a6e-3151-4fc1-b950-477078b267db.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Fruit Green / S](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169209434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/13b77a6e-3151-4fc1-b950-477078b267db.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Fruit Green / XL](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169242202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/13b77a6e-3151-4fc1-b950-477078b267db.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Gray And Blue / L](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169274970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/817be805-fa60-4e5f-a7a6-4b4fe31b841d.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Gray And Blue / M](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169307738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/817be805-fa60-4e5f-a7a6-4b4fe31b841d.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Gray And Blue / S](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169340506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/817be805-fa60-4e5f-a7a6-4b4fe31b841d.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Gray And Blue / XL](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169373274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/817be805-fa60-4e5f-a7a6-4b4fe31b841d.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Linen Gray / L](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169406042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e098e538-1ddb-418c-945f-0311183c4170.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Linen Gray / M](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169438810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e098e538-1ddb-418c-945f-0311183c4170.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Linen Gray / S](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169471578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e098e538-1ddb-418c-945f-0311183c4170.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Linen Gray / XL](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169504346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e098e538-1ddb-418c-945f-0311183c4170.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Linen red / L](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169537114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ce6e53bf-867f-4b4a-9bf5-e0a824ccaf84.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Linen red / M](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169569882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ce6e53bf-867f-4b4a-9bf5-e0a824ccaf84.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Linen red / S](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169602650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ce6e53bf-867f-4b4a-9bf5-e0a824ccaf84.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Linen red / XL](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169635418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ce6e53bf-867f-4b4a-9bf5-e0a824ccaf84.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Pink / L](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169668186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e91c8fd5-50a9-4022-937b-6792505e3cef.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Pink / M](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169700954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e91c8fd5-50a9-4022-937b-6792505e3cef.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Pink / S](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169733722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e91c8fd5-50a9-4022-937b-6792505e3cef.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Pink / XL](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169766490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/e91c8fd5-50a9-4022-937b-6792505e3cef.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Purple / L](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169799258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/8c91a4d7-a57c-48e6-b75b-963db91f51ea.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Purple / M](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169832026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/8c91a4d7-a57c-48e6-b75b-963db91f51ea.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Purple / S](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169864794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/8c91a4d7-a57c-48e6-b75b-963db91f51ea.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Purple / XL](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169897562)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/8c91a4d7-a57c-48e6-b75b-963db91f51ea.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Rose Red / L](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169930330)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/5252da13-ab89-4590-a983-4a7832f2452d.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Rose Red / M](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169963098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/5252da13-ab89-4590-a983-4a7832f2452d.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Rose Red / S](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645169995866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/5252da13-ab89-4590-a983-4a7832f2452d.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Rose Red / XL](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645170028634)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/5252da13-ab89-4590-a983-4a7832f2452d.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Sky Blue / L](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645170061402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/50683bd9-47ff-4853-9a7f-5991084aef1d.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Sky Blue / M](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645170094170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/50683bd9-47ff-4853-9a7f-5991084aef1d.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Sky Blue / S](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645170126938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/50683bd9-47ff-4853-9a7f-5991084aef1d.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Sky Blue / XL](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645170159706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/50683bd9-47ff-4853-9a7f-5991084aef1d.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Watermelon Red / L](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645170192474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d5cb3508-e813-489b-bbda-2dfc50499b77.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Watermelon Red / M](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645170225242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d5cb3508-e813-489b-bbda-2dfc50499b77.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Watermelon Red / S](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645170258010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d5cb3508-e813-489b-bbda-2dfc50499b77.jpg?v=1765309374
+    Price: $74.95 USD
+  - [Watermelon Red / XL](https://ursupermart.com/products/womens-fashion-dot-fitness-yoga-outfit-five-piece-set?variant=42645170290778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d5cb3508-e813-489b-bbda-2dfc50499b77.jpg?v=1765309374
+    Price: $74.95 USD
+- [Women's Suede-Look Trench Coat, Classic Notch Lapel Double-Breasted Jacket With Pockets And Plush Lining](https://ursupermart.com/products/womens-suede-look-trench-coat-classic-notch-lapel-double-breasted-jacket-with-pockets-and-plush-lining): Women's Suede-Look Trench Coat, Classic Notch Lapel Double-Breasted Jacket with Pockets and Plush Lining Embrace timeless sophistication with our Women's Suede-Look Trench Coat, where classic tailoring meets contemporary comfort. This elegant mid-length jacket features a luxurious suede-like texture, a sharp notch lapel collar, and a sophisticated double-breasted button design that creates a powerful silhouette. The practical side pockets and plush fleece lining provide both functionality and exceptional warmth, making it an ideal choice for autumn and winter wear. Whether you're heading to the office, attending formal events, or enjoying weekend outings, this coat delivers both style and substance. Crafted from 100% high-quality polyester with a premium suede finish, this coat offers the rich appearance of genuine suede with practical easy-care benefits. The fabric maintains its structured shape and luxurious texture through seasons of wear. Highlighted Features: Luxurious Suede-Like Finish: Premium texture that mimics genuine suede with easy maintenance Classic Double-Breasted Design: Two rows of buttons create a timeless, authoritative look Warm Plush Lining: Soft fleece interior provides exceptional insulation against cold weather Functional Pockets: Side seam pockets offer both style and practicality Versatile Mid-Length Cut: Provides ample coverage while maintaining elegant proportions Available in sizes S to XXL. This coat is the perfect investment for the discerning woman who values enduring style, quality craftsmanship, and seasonal versatility in her outerwear collection.
+  Updated: 2025-12-09T22:27:01Z
   Vendor: CJ
   Product Type: 2.4G wireless mouse
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4432226f-028d-45e4-a75c-35da8ba9a0ba.jpg?v=1765229722
-  - [16 Heads](https://ursupermart.com/products/muscle-relaxation-massager-multi-head-massage-gun-deep-tissue-body-fitness-muscle-electric-relax-massager-for-back-shoulders-legs-foot-16-heads?variant=42641567481946)
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2c7eb6f7-9a34-4002-97b8-5cf1c5908ece.jpg?v=1765309893
+  - [Brown / L](https://ursupermart.com/products/womens-suede-look-trench-coat-classic-notch-lapel-double-breasted-jacket-with-pockets-and-plush-lining?variant=42645180219482)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/eb966c42-94bc-44a2-b55a-b5b0885e00e6_trans.jpg?v=1765229729
-    Price: $105.95 USD
-  - [6 Heads](https://ursupermart.com/products/muscle-relaxation-massager-multi-head-massage-gun-deep-tissue-body-fitness-muscle-electric-relax-massager-for-back-shoulders-legs-foot-16-heads?variant=42641567514714)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2c7eb6f7-9a34-4002-97b8-5cf1c5908ece_c13fcfa3-6a76-4173-bebd-4861506e7211.jpg?v=1765309897
+    Price: $64.95 USD
+  - [Brown / M](https://ursupermart.com/products/womens-suede-look-trench-coat-classic-notch-lapel-double-breasted-jacket-with-pockets-and-plush-lining?variant=42645180252250)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2bb1705e-14e0-4493-818b-944b4d2948bd_trans.jpg?v=1765229729
-    Price: $96.95 USD
-  - [8 Heads](https://ursupermart.com/products/muscle-relaxation-massager-multi-head-massage-gun-deep-tissue-body-fitness-muscle-electric-relax-massager-for-back-shoulders-legs-foot-16-heads?variant=42641567547482)
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2c7eb6f7-9a34-4002-97b8-5cf1c5908ece_c13fcfa3-6a76-4173-bebd-4861506e7211.jpg?v=1765309897
+    Price: $64.95 USD
+  - [Brown / S](https://ursupermart.com/products/womens-suede-look-trench-coat-classic-notch-lapel-double-breasted-jacket-with-pockets-and-plush-lining?variant=42645180285018)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ae3d4862-f51b-4cf6-b7f6-9d2515893cfb_trans.jpg?v=1765229729
-    Price: $74.95 USD
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2c7eb6f7-9a34-4002-97b8-5cf1c5908ece_c13fcfa3-6a76-4173-bebd-4861506e7211.jpg?v=1765309897
+    Price: $64.95 USD
+  - [Brown / XL](https://ursupermart.com/products/womens-suede-look-trench-coat-classic-notch-lapel-double-breasted-jacket-with-pockets-and-plush-lining?variant=42645180317786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2c7eb6f7-9a34-4002-97b8-5cf1c5908ece_c13fcfa3-6a76-4173-bebd-4861506e7211.jpg?v=1765309897
+    Price: $64.95 USD
+  - [Brown / XXL](https://ursupermart.com/products/womens-suede-look-trench-coat-classic-notch-lapel-double-breasted-jacket-with-pockets-and-plush-lining?variant=42645180350554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2c7eb6f7-9a34-4002-97b8-5cf1c5908ece_c13fcfa3-6a76-4173-bebd-4861506e7211.jpg?v=1765309897
+    Price: $64.95 USD
+- [Plus Size Women's Vintage Sherpa Hooded Cardigan Plush Lined Button Up Jacket For Autumn And Winter](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter): Plus Size Women's Vintage Sherpa Hooded Cardigan Plush Lined Button Up Jacket for Autumn and Winter Step into cozy vintage charm with our Plus Size Women's Sherpa Hooded Cardigan, designed for ultimate comfort during crisp autumn and winter days. This stylish open-front jacket features a plush sherpa lining throughout, a practical hood, and a full button-up closure that makes layering effortless. The relaxed fit and soft, textured fabric create a nostalgic retro vibe while providing genuine warmth against the chill. Perfect for casual outings, weekend wear, or cozying up at home, this cardigan combines timeless appeal with modern plus-size comfort. Crafted from a premium blend of 95% Polyester and 5% Spandex , this jacket offers stretchy ease and durable wear. The sherpa interior feels luxuriously soft against the skin while the outer fabric maintains its shape and texture season after season. Highlighted Features: Plush All-Over Sherpa: Cozy brushed lining provides exceptional warmth without heaviness Vintage-Inspired Design: Classic silhouette with modern comfort and inclusive sizing Functional Hood & Buttons: Adjustable coverage and secure closure for changing weather Generous Plus Size Fit: Designed specifically for curves with comfortable ease through body and sleeves Soft Stretch Fabric: Moves with you while maintaining its cozy structure Available in sizes S to 5XL. Whether you're running errands, enjoying outdoor activities, or relaxing at home, this sherpa cardigan delivers both style and comfort for your cold-weather wardrobe.
+  Updated: 2025-12-09T21:28:52Z
+  Vendor: CJ
+  Product Type: 2.4G wireless mouse
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3afc6290-e60b-4676-b5dc-1f617b64051a.jpg?v=1765313259
+  - [Black / 2XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285404762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/737c3900-4cc4-49b3-8539-e0e01e29f1a2.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Black / 3XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285437530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/737c3900-4cc4-49b3-8539-e0e01e29f1a2.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Black / 4XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285470298)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/737c3900-4cc4-49b3-8539-e0e01e29f1a2.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Black / 5XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285503066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/737c3900-4cc4-49b3-8539-e0e01e29f1a2.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Black / L](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285535834)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/737c3900-4cc4-49b3-8539-e0e01e29f1a2.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Black / M](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285568602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/737c3900-4cc4-49b3-8539-e0e01e29f1a2.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Black / S](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285601370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/737c3900-4cc4-49b3-8539-e0e01e29f1a2.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Black / XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285634138)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/737c3900-4cc4-49b3-8539-e0e01e29f1a2.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Coffee / 2XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285666906)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2b694417-2965-4c00-8d5e-ede87816ca42.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Coffee / 3XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285699674)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2b694417-2965-4c00-8d5e-ede87816ca42.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Coffee / 4XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285732442)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2b694417-2965-4c00-8d5e-ede87816ca42.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Coffee / 5XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285765210)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2b694417-2965-4c00-8d5e-ede87816ca42.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Coffee / L](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285797978)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2b694417-2965-4c00-8d5e-ede87816ca42.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Coffee / M](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285830746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2b694417-2965-4c00-8d5e-ede87816ca42.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Coffee / S](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285863514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2b694417-2965-4c00-8d5e-ede87816ca42.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Coffee / XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285896282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2b694417-2965-4c00-8d5e-ede87816ca42.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Pink / 2XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285929050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3afc6290-e60b-4676-b5dc-1f617b64051a_2a495606-b356-4c1f-8bc5-f067cb70782b.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Pink / 3XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285961818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3afc6290-e60b-4676-b5dc-1f617b64051a_2a495606-b356-4c1f-8bc5-f067cb70782b.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Pink / 4XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645285994586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3afc6290-e60b-4676-b5dc-1f617b64051a_2a495606-b356-4c1f-8bc5-f067cb70782b.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Pink / 5XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645286027354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3afc6290-e60b-4676-b5dc-1f617b64051a_2a495606-b356-4c1f-8bc5-f067cb70782b.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Pink / L](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645286060122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3afc6290-e60b-4676-b5dc-1f617b64051a_2a495606-b356-4c1f-8bc5-f067cb70782b.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Pink / M](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645286092890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3afc6290-e60b-4676-b5dc-1f617b64051a_2a495606-b356-4c1f-8bc5-f067cb70782b.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Pink / S](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645286125658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3afc6290-e60b-4676-b5dc-1f617b64051a_2a495606-b356-4c1f-8bc5-f067cb70782b.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Pink / XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645286158426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3afc6290-e60b-4676-b5dc-1f617b64051a_2a495606-b356-4c1f-8bc5-f067cb70782b.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Wine Red / 2XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645286191194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c4b4ca0b-9307-4c88-a6ec-5c510f43253b.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Wine Red / 3XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645286223962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c4b4ca0b-9307-4c88-a6ec-5c510f43253b.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Wine Red / 4XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645286256730)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c4b4ca0b-9307-4c88-a6ec-5c510f43253b.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Wine Red / 5XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645286289498)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c4b4ca0b-9307-4c88-a6ec-5c510f43253b.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Wine Red / L](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645286322266)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c4b4ca0b-9307-4c88-a6ec-5c510f43253b.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Wine Red / M](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645286355034)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c4b4ca0b-9307-4c88-a6ec-5c510f43253b.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Wine Red / S](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645286387802)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c4b4ca0b-9307-4c88-a6ec-5c510f43253b.jpg?v=1765313268
+    Price: $57.95 USD
+  - [Wine Red / XL](https://ursupermart.com/products/plus-size-womens-vintage-sherpa-hooded-cardigan-plush-lined-button-up-jacket-for-autumn-and-winter?variant=42645286420570)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/c4b4ca0b-9307-4c88-a6ec-5c510f43253b.jpg?v=1765313268
+    Price: $57.95 USD
+- [New Women's Cashmere Long-sleeved Solid Color Long Coat Woolen Coat](https://ursupermart.com/products/new-womens-cashmere-long-sleeved-solid-color-long-coat-woolen-coat): Product Information： Fabric name: woolen cloth Main fabric composition: wool The content of the main fabric ingredient: 71%-80% Main fabric composition 2: polyester fiber (polyester) pattern: plain style: Casual Version: Straight type Combination form: single set Thickness: thicker Length: Medium length (65cm＜length≤80cm) Sleeve length: long sleeve Sleeve type: conventional sleeve Collar type: lapel Clothing placket: a button Popular elements: stitching Color: gray, black, milky white, army green, spot Size: S, M, L, XL Size Information： size chest(cm) length(cm） sleeve（cm） shoulder（cm） S 110 93 48 58 M 114 94 49 59 L 118 95 50 60 XL 122 96 51 61 Manual measurement error 1 to 3cm Note： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2025-12-09T21:28:49Z
+  Vendor: CJ
+  Product Type: 2.4G wireless mouse
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2466477255952.jpg?v=1765315043
+  - [Green / S](https://ursupermart.com/products/new-womens-cashmere-long-sleeved-solid-color-long-coat-woolen-coat?variant=42645328789594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3423733056996.jpg?v=1765315048
+    Price: $64.95 USD
+  - [Green / M](https://ursupermart.com/products/new-womens-cashmere-long-sleeved-solid-color-long-coat-woolen-coat?variant=42645328756826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3423733056996.jpg?v=1765315048
+    Price: $64.95 USD
+  - [Green / L](https://ursupermart.com/products/new-womens-cashmere-long-sleeved-solid-color-long-coat-woolen-coat?variant=42645328724058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3423733056996.jpg?v=1765315048
+    Price: $64.95 USD
+  - [Green / XL](https://ursupermart.com/products/new-womens-cashmere-long-sleeved-solid-color-long-coat-woolen-coat?variant=42645328822362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/3423733056996.jpg?v=1765315048
+    Price: $64.95 USD
+  - [White / S](https://ursupermart.com/products/new-womens-cashmere-long-sleeved-solid-color-long-coat-woolen-coat?variant=42645328920666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/569820739664.jpg?v=1765315049
+    Price: $64.95 USD
+  - [White / M](https://ursupermart.com/products/new-womens-cashmere-long-sleeved-solid-color-long-coat-woolen-coat?variant=42645328887898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/569820739664.jpg?v=1765315049
+    Price: $64.95 USD
+  - [White / L](https://ursupermart.com/products/new-womens-cashmere-long-sleeved-solid-color-long-coat-woolen-coat?variant=42645328855130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/569820739664.jpg?v=1765315049
+    Price: $64.95 USD
+  - [White / XL](https://ursupermart.com/products/new-womens-cashmere-long-sleeved-solid-color-long-coat-woolen-coat?variant=42645328953434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/569820739664.jpg?v=1765315049
+    Price: $64.95 USD
+  - [black / S](https://ursupermart.com/products/new-womens-cashmere-long-sleeved-solid-color-long-coat-woolen-coat?variant=42645329051738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2466477255952_21ae17e4-0443-4c43-8cd8-3ad335cff8fb.jpg?v=1765315048
+    Price: $64.95 USD
+  - [black / M](https://ursupermart.com/products/new-womens-cashmere-long-sleeved-solid-color-long-coat-woolen-coat?variant=42645329018970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2466477255952_21ae17e4-0443-4c43-8cd8-3ad335cff8fb.jpg?v=1765315048
+    Price: $64.95 USD
+  - [black / L](https://ursupermart.com/products/new-womens-cashmere-long-sleeved-solid-color-long-coat-woolen-coat?variant=42645328986202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2466477255952_21ae17e4-0443-4c43-8cd8-3ad335cff8fb.jpg?v=1765315048
+    Price: $64.95 USD
+  - [black / XL](https://ursupermart.com/products/new-womens-cashmere-long-sleeved-solid-color-long-coat-woolen-coat?variant=42645329084506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2466477255952_21ae17e4-0443-4c43-8cd8-3ad335cff8fb.jpg?v=1765315048
+    Price: $64.95 USD
+  - [gray / S](https://ursupermart.com/products/new-womens-cashmere-long-sleeved-solid-color-long-coat-woolen-coat?variant=42645329182810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/527480576696.jpg?v=1765315049
+    Price: $64.95 USD
+  - [gray / M](https://ursupermart.com/products/new-womens-cashmere-long-sleeved-solid-color-long-coat-woolen-coat?variant=42645329150042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/527480576696.jpg?v=1765315049
+    Price: $64.95 USD
+  - [gray / L](https://ursupermart.com/products/new-womens-cashmere-long-sleeved-solid-color-long-coat-woolen-coat?variant=42645329117274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/527480576696.jpg?v=1765315049
+    Price: $64.95 USD
+  - [gray / XL](https://ursupermart.com/products/new-womens-cashmere-long-sleeved-solid-color-long-coat-woolen-coat?variant=42645329215578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/527480576696.jpg?v=1765315049
+    Price: $64.95 USD
 
 ## Collections
 
@@ -41218,14 +41621,14 @@
   Updated: 2025-12-07T12:07:24Z
   Total Products: 64
 - [Affordable Quality Activewear - Squat-Proof Leggings $20-100](https://ursupermart.com/collections/best-womens-activewear-collection): Quality activewear that won't break the bank. Squat-proof leggings, inclusive sizing XS-3X, $20-100. Free shipping on all orders. Shop now!
-  Updated: 2025-12-07T18:22:21Z
-  Total Products: 46
+  Updated: 2025-12-09T20:13:32Z
+  Total Products: 47
 - [Best Trendy Phone Cases for Teens Protection Meets Style Now](https://ursupermart.com/collections/trendy-phone-cases-teens): Shop trendy phone cases teens love today! Stylish protection under $25 that parents will approve of. Instagram-worthy designs with real drop protection features
   Updated: 2025-11-29T23:22:11Z
   Total Products: 58
 - [Best Summer Dresses | Cotton Maxi Mini Beach Styles XS-3X](https://ursupermart.com/collections/summer-dresses-maxi-mini-beach-xs-3x): Shop trendy 2025 summer dresses! Affordable cotton maxi, mini & beach styles XS-3X. Lightweight, breathable fabrics for vacation & everyday. Free shipping!
-  Updated: 2025-12-06T21:44:19Z
-  Total Products: 37
+  Updated: 2025-12-09T18:38:29Z
+  Total Products: 38
 - [Affordable Prom Dresses: Stunning Formal Wear Under $60 2025](https://ursupermart.com/collections/affordable-prom-dresses-2025-collection): Shop affordable prom dresses from $60! Gorgeous formal dresses & evening gowns in all sizes. Free shipping & returns. Find your perfect dress!
   Updated: 2025-10-05T20:15:57Z
   Total Products: 25
@@ -41239,17 +41642,20 @@
   Updated: 2025-12-05T17:23:30Z
   Total Products: 36
 - [Wellness Collection – Skincare, Supplements & Self-Care](https://ursupermart.com/collections/wellness-tech-collection): Discover our Wellness collection with skincare, supplements, and self-care essentials to support a balanced lifestyle and healthy, glowing skin every day
-  Updated: 2025-11-16T21:54:51Z
-  Total Products: 21
+  Updated: 2025-12-09T21:08:22Z
+  Total Products: 22
 - [Shop Women's Shapewear | Comfortable Body Shapers $30-$100](https://ursupermart.com/collections/womens-shapewear-body-shapers-collection): Find comfortable women's shapewear for everyday wear. Tummy control bodysuits, seamless shorts & breathable body shapers. Free shipping on all orders.
   Updated: 2025-12-02T20:24:48Z
   Total Products: 12
 - [Shop Women's Winter Coats: Warm, Stylish & Budget-Friendly](https://ursupermart.com/collections/womens-winter-coats-affordable-2026): Find affordable women's winter coats, jackets & sweaters for work and weekend. Cozy styles under $150 with free shipping. Shop winter clothing deals now!
-  Updated: 2025-12-08T19:43:12Z
-  Total Products: 81
+  Updated: 2025-12-09T21:28:02Z
+  Total Products: 93
 - [Free Gifts for Everyone: Quality Jewelry Collection 2025](https://ursupermart.com/collections/free-gifts-for-everyone): Free gifts for everyone including chains, watches, rings and necklaces. Quality jewelry at zero cost for holiday gifting. Free shipping included.
   Updated: 2025-12-06T17:50:24Z
   Total Products: 91
+- [Women's Fall Sweaters & Loungewear | Cozy Autumn Knitwear](https://ursupermart.com/collections/comfortable-autumn-sweaters-loungewear-women-fall): Shop cozy comfortable autumn sweaters and loungewear for women. Discover trendy fall wear essentials perfect for layering. Quality knitwear for effortless style
+  Updated: 2025-12-09T21:28:02Z
+  Total Products: 1
 
 ## Blogs
 
