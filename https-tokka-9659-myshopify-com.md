@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2025-11-18T17:22:50Z
 - Contact Email: style_tattoo@hotmail.com
-- Updated At: 2025-12-09T00:00:21.122Z
+- Updated At: 2025-12-10T00:00:21.343Z
 
 ## Products
 
