@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-12-05T00:00:34.181Z
+- Updated At: 2025-12-10T00:00:34.342Z
 
 ## Products
 
@@ -38,8 +38,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/FGB_2800_EST.jpg?v=1750053002
   Price: $43.00 USD
-- [Imagine Organic Picual Biologico 500ml](https://verdesmeraldaolive.us/products/imagine-organic-picual-biologico-500ml): "Imagine Organic" is a certified organic extra virgin olive oil from the prestigious Imagine Line by Verde Esmeralda Olive. Made exclusively from Picual olives, it is produced according to strict organic farming standards, without the use of pesticides or chemical fertilizers. This oil stands out for its intense and authentic aromatic profile, with a perfect balance between bitterness and spiciness. Its sophisticated design—featuring a matte black bottle with golden details—embodies the fusion of tradition and innovation, symbolizing the highest standard of culinary excellence. Thanks to organic cultivation, the oil is distinguished by its freshness and the purity of the fruit, without the use of pesticides or chemical fertilizers. Cold pressing preserves all organoleptic properties intact, ensuring a product with an intense flavor and rich aroma profile.
-  Updated: 2025-11-25T15:10:02Z
+- [Imagine Organic Picual 500ml](https://verdesmeraldaolive.us/products/imagine-organic-picual-biologico-500ml): "Imagine Organic" is a certified organic extra virgin olive oil from the prestigious Imagine Line by Verde Esmeralda Olive. Made exclusively from Picual olives, it is produced according to strict organic farming standards, without the use of pesticides or chemical fertilizers. This oil stands out for its intense and authentic aromatic profile, with a perfect balance between bitterness and spiciness. Its sophisticated design—featuring a matte black bottle with golden details—embodies the fusion of tradition and innovation, symbolizing the highest standard of culinary excellence. Thanks to organic cultivation, the oil is distinguished by its freshness and the purity of the fruit, without the use of pesticides or chemical fertilizers. Cold pressing preserves all organoleptic properties intact, ensuring a product with an intense flavor and rich aroma profile.
+  Updated: 2025-12-05T23:08:11Z
   Vendor: Verde Esmeralda Tienda
   Product Type: 
   Availability: Available
@@ -87,7 +87,7 @@
   Updated: 2025-09-30T18:02:29Z
   Total Products: 0
 - [EVOO | Extra Virgin Olive Oil Premium](https://verdesmeraldaolive.us/collections/evoo): Explore our premium Extra Virgin Olive Oil (EVOO), crafted in Jaén, Spain. Award-winning gourmet flavor delivered fresh to your table. Shop online at Verde Esmeralda Olive.
-  Updated: 2025-12-02T12:20:48Z
+  Updated: 2025-12-08T12:17:15Z
   Total Products: 10
 - [Ibéricos](https://verdesmeraldaolive.us/collections/ibericos): Discover our selection of exquisite Iberian products, a journey through the culinary traditions of Spain. Each item is carefully chosen to offer an authentic gastronomic experience, from Iberian ham to chorizo, and the finest delicacies of the Iberian land. Come back soon to explore our full range.
   Updated: 2025-09-30T18:02:30Z
@@ -98,20 +98,20 @@
 - [Wines](https://verdesmeraldaolive.us/collections/vinos): A great meal is never complete without the right wine. We are selecting the best wines from various regions to perfectly complement every dish. Soon, you’ll find our collection, designed to satisfy even the most discerning palates.
   Updated: 2025-09-30T18:02:31Z
   Total Products: 0
-- [Packs Gourmet Olive Oil  | Gift Sets ⋆ Verde Esmeralda Olive](https://verdesmeraldaolive.us/collections/packs-gourmet): Discover our exclusive Gourmet Packs Olive Oil— the perfect gift for food lovers. Enjoy award-winning extra virgin olive oils beautifully packaged and delivered to your door. Shop now at Verde Esmeralda Olive.
-  Updated: 2025-11-24T12:15:34Z
+- [Extra virgin olive oil pack  | Gift Sets ⋆ Verde Esmeralda Olive](https://verdesmeraldaolive.us/collections/packs-gourmet): Discover our exclusive extra virgin olive oil pack— the perfect gift for food lovers. Enjoy award-winning extra virgin olive oils beautifully packaged and delivered to your door.
+  Updated: 2025-12-05T16:33:44Z
   Total Products: 4
 - [Give away](https://verdesmeraldaolive.us/collections/give-away)
-  Updated: 2025-12-02T12:20:48Z
+  Updated: 2025-12-08T12:17:15Z
   Total Products: 10
 - [Feature Products](https://verdesmeraldaolive.us/collections/feature-products)
-  Updated: 2025-12-02T12:20:48Z
+  Updated: 2025-12-08T12:17:15Z
   Total Products: 10
 - [APPPlaza - Best Sellers](https://verdesmeraldaolive.us/collections/appplaza-best-sellers)
-  Updated: 2025-12-02T12:20:48Z
+  Updated: 2025-12-08T12:17:15Z
   Total Products: 10
 - [AVADA - Best Sellers](https://verdesmeraldaolive.us/collections/avada-best-sellers)
-  Updated: 2025-12-02T12:20:48Z
+  Updated: 2025-12-08T12:17:15Z
   Total Products: 10
 
 ## Blogs
