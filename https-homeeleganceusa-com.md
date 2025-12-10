@@ -10,7 +10,7 @@
 - Contact Email: sales@homeeleganceusa.com
 - Contact Phone: 732-777-1100
 - Address: 850 Ridgewood Avenue, North Brunswick NJ 08902
-- Updated At: 2025-12-10T00:03:00.262Z
+- Updated At: 2025-12-10T19:31:25.218Z
 
 ## Products
 
@@ -18343,7 +18343,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-12-03T11:57:34Z
   Price: $3,699.00 USD
 - [Catalonia 6 Piece Queen Bedroom Set In Dark Cherry 1824-1-6Set | Homelegance](https://homeeleganceusa.com/products/homelegance-catalonia-6-piece-queen-bedroom-set-in-dark-cherry-1824-1-6set): Homelegance - Catalonia 6 Piece Queen Bedroom Set in Dark Cherry - 1824-1-6SETOld-World European styling is captured in the dramatically elegant Catalonia
-  Updated: 2025-12-08T20:56:32Z
+  Updated: 2025-12-10T15:14:23Z
   Price: $4,499.00 USD
 - [Raku 3 Piece Queen Platform Bedroom Set In Gray And Black 1711-1-3Set | Homelegance](https://homeeleganceusa.com/products/homelegance-raku-3-piece-queen-platform-bedroom-set-in-gray-and-black-1711-1-3set): Homelegance - Raku 3 Piece Queen Platform Bedroom Set in Gray and Black - 1711-1-3SETRefined elegance is exemplified in the design of the Raku Collection.
   Updated: 2025-12-03T11:57:36Z
@@ -29029,11 +29029,11 @@ Weight: 216.1 pounds
   Updated: 2025-12-09T15:09:23Z
   Total Products: 9416
 - [Shop Living Room Furniture Online – Sofas, Sectionals, Chairs & More](https://homeeleganceusa.com/collections/living-room-furniture): Discover luxury living room furniture at Home Elegance USA. Sofas, sectionals, accent chairs, and coffee tables crafted for style, comfort, and lasting quality.
-  Updated: 2025-12-09T18:49:51Z
-  Total Products: 12860
+  Updated: 2025-12-10T16:29:40Z
+  Total Products: 12859
 - [Dining Room Furniture | Tables, Chairs & Buffets – Home Elegance](https://homeeleganceusa.com/collections/dining-room): Shop dining room furniture including tables, chairs, buffets, and storage. Modern, classic, and luxury designs crafted for style, comfort, and everyday dining.
-  Updated: 2025-12-09T21:15:59Z
-  Total Products: 6639
+  Updated: 2025-12-10T17:02:10Z
+  Total Products: 6864
 - [Mattresses – Shop Memory Foam, Hybrid & Innerspring | Home Elegance USA](https://homeeleganceusa.com/collections/mattresses): Shop mattresses in memory foam, hybrid, and innerspring designs. Enjoy cooling comfort, durable support, and restful sleep for every bedroom.
   Updated: 2025-12-08T18:04:00Z
   Total Products: 633
@@ -29041,14 +29041,14 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T18:18:49Z
   Total Products: 358
 - [Shop Sofas Online – Leather, Fabric, Sectionals & Recliners](https://homeeleganceusa.com/collections/sofas): Discover premium sofas at Home Elegance USA. Curated leather, fabric, and sectional sofas designed for comfort, style, and lasting quality in your living space.
-  Updated: 2025-12-09T18:21:40Z
-  Total Products: 4489
+  Updated: 2025-12-10T16:29:41Z
+  Total Products: 4488
 - [Loveseats – Stylish & Comfortable Two-Seater Sofas | Home Elegance USA](https://homeeleganceusa.com/collections/loveseats): Discover our Loveseats collection featuring leather and fabric two-seater sofas. Perfect for modern, traditional, and contemporary living rooms, offering style, comfort, and premium durability for everyday use.
   Updated: 2025-12-09T18:21:40Z
   Total Products: 865
 - [Sectionals – Luxury Modular & L-Shaped Sofas | Home Elegance USA](https://homeeleganceusa.com/collections/sectionals): Explore our Sectionals collection featuring modular, L-shaped, and U-shaped sofas in leather and fabric. Perfect for modern, contemporary, and traditional living rooms, offering versatile seating, premium comfort, and lasting durability.
-  Updated: 2025-12-09T09:05:25Z
-  Total Products: 2212
+  Updated: 2025-12-10T16:29:41Z
+  Total Products: 2211
 - [Sleepers – Convertible Sofa Beds & Pull-Out Couches | Home Elegance USA](https://homeeleganceusa.com/collections/sleepers): Explore our Sleepers collection featuring high-quality sofa beds, pull-out couches, and convertible sleepers in leather and fabric. Perfect for modern and traditional living rooms, guest rooms, and multifunctional spaces—offering comfort, style, and durability.
   Updated: 2025-12-08T15:57:11Z
   Total Products: 78
@@ -29089,14 +29089,14 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T13:30:58Z
   Total Products: 7
 - [Dining Room Sets – Shop Modern, Rustic & Luxury Styles | Home Elegance USA](https://homeeleganceusa.com/collections/dining-room-sets): Shop dining room sets in wood, glass, and marble finishes. Available in 5-piece, 7-piece, and 9-piece options. Perfect for family dining, entertaining, and modern living.
-  Updated: 2025-12-09T21:15:59Z
-  Total Products: 1930
+  Updated: 2025-12-10T17:02:10Z
+  Total Products: 2158
 - [Dining Tables – Shop Modern, Rustic & Traditional | Home Elegance USA](https://homeeleganceusa.com/collections/dining-tables): Discover dining tables in wood, glass, and marble finishes. Shop round, rectangular, and extendable tables perfect for family dining, entertaining, and modern living.
-  Updated: 2025-12-08T18:10:37Z
-  Total Products: 1149
+  Updated: 2025-12-10T16:29:41Z
+  Total Products: 1147
 - [Dining Chairs | Modern, Classic & Luxury Seating – Home Elegance](https://homeeleganceusa.com/collections/dining-chairs): Shop dining chairs in modern, classic, and luxury styles. Upholstered, wood, and metal seating for dining rooms. Elegant comfort, durable design, free shipping.
-  Updated: 2025-12-08T18:19:54Z
-  Total Products: 2057
+  Updated: 2025-12-10T16:29:38Z
+  Total Products: 2056
 - [Counter Height Dining Sets – Shop Modern & Rustic Styles | Home Elegance USA](https://homeeleganceusa.com/collections/counter-height-dining-sets): Shop counter height dining sets in wood, glass, and marble finishes. Perfect for kitchens, dining rooms, and casual entertaining. Modern, rustic, and traditional designs.
   Updated: 2025-12-08T18:08:06Z
   Total Products: 84
@@ -29419,7 +29419,7 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T18:05:57Z
   Total Products: 27
 - [Offers Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/offers): Discover amazing deals and limited-time offers at Home Elegance USA. Save big on high-quality furniture, decor, and more.
-  Updated: 2025-12-09T15:38:06Z
+  Updated: 2025-12-10T17:01:41Z
   Total Products: 1456
 - [Massage Chairs – Full Body & Zero Gravity Recliners | Home Elegance](https://homeeleganceusa.com/collections/massage-chairs): Shop massage chairs with full-body relief, zero gravity recline, and advanced features. Perfect for living rooms, offices, and wellness spaces.
   Updated: 2025-12-08T13:39:14Z
@@ -29548,8 +29548,8 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T18:03:57Z
   Total Products: 32
 - [Rectangular Dining Tables in Wood, Marble & Extendable Styles](https://homeeleganceusa.com/collections/rectangular-dining-tables): Shop rectangular dining tables in solid wood, glass, and marble tops. Extendable and fixed styles for 4–10 guests. Perfect for any dining room or kitchen.
-  Updated: 2025-12-08T18:09:13Z
-  Total Products: 753
+  Updated: 2025-12-10T16:29:41Z
+  Total Products: 751
 - [Round Dining Tables for Small Spaces, Kitchens & Modern Dining Rooms](https://homeeleganceusa.com/collections/round-dining-tables): Shop round dining tables for small spaces, kitchens, and open dining rooms. Fixed and extendable styles in wood, glass, and marble—ideal for 2 to 6 guests.
   Updated: 2025-12-08T18:10:37Z
   Total Products: 308
@@ -29677,8 +29677,8 @@ Weight: 216.1 pounds
   Updated: 2025-12-08T18:19:50Z
   Total Products: 224
 - [Dining Side Chairs – Modern & Upholstered Dining Seating | Home Elegance USA](https://homeeleganceusa.com/collections/dining-side-chairs): Shop dining side chairs in modern, rustic, and upholstered styles. Perfect for kitchens and dining rooms with comfort, durability, and timeless design.
-  Updated: 2025-12-08T18:19:54Z
-  Total Products: 1223
+  Updated: 2025-12-10T16:29:38Z
+  Total Products: 1222
 - [Youth Sleigh Beds Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/youth-sleigh-beds): Shop Youth Sleigh Beds on sale at Home Elegance USA. Find charming and durable sleigh beds perfect for your child's bedroom.
   Updated: 2025-12-08T13:35:27Z
   Total Products: 3
@@ -30041,8 +30041,8 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-12-08T17:46:58Z
   Total Products: 3
 - [Couches & Sofa Sets | Modern & Luxury Living Room Seating – Home Elegance](https://homeeleganceusa.com/collections/couches-sofa-sets): Shop couches & sofa sets in modern, traditional & luxury designs. Leather, fabric & sectional seating for living rooms. Stylish comfort with free nationwide shipping.
-  Updated: 2025-12-09T18:21:40Z
-  Total Products: 5404
+  Updated: 2025-12-10T16:29:41Z
+  Total Products: 5403
 - [Tall Display Cabinets – Glass & Wood Display Cases | Home Elegance](https://homeeleganceusa.com/collections/tall-display-cabinets): Shop tall display cabinets in glass, wood, and modern finishes. Perfect for showcasing décor, china, or collectibles in dining rooms, living rooms, and offices.
   Updated: 2025-12-08T18:10:14Z
   Total Products: 77
