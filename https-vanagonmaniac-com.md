@@ -6,7 +6,7 @@
 - Timezone: Europe/Riga
 - Created At: 2022-09-15T15:01:28Z
 - Contact Email: vanagonmaniac@gmail.com
-- Updated At: 2025-12-09T00:00:38.963Z
+- Updated At: 2025-12-10T00:00:40.102Z
 
 ## Products
 
@@ -311,7 +311,7 @@
     Availability: Available
     Price: €500.00 EUR
 - [VW T25 Westfalia Canvas Replacement for Pop-Top Roof 86-91 | Quality Fit](https://vanagonmaniac.com/products/vw-t25-westfalia-pop-top-canvas-rear-hinge-replacement-vw-t3-camper-pop-top-tent-vw-t3-replacement-roof-canvas-3-window-camping-canvas): Upgrade your VW T25 with our high-quality Westfalia Canvas Replacement for Pop-Top Roof (86-91). Enhance comfort and style for your adventures. Order now!
-  Updated: 2025-11-11T07:21:31Z
+  Updated: 2025-12-09T12:31:25Z
   Vendor: vanagonmaniac
   Product Type: 
   Availability: Available
@@ -2176,14 +2176,14 @@
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/SWD_B0C6MV565M_PT06.jpg?v=1764750281
+  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/SWD_B0C6MV565M_PT06.jpg?v=1765283485
   Price: €25.00 EUR
 - [EuroVan 3-Window Pop-Top Canvas | Vanagon Maniac](https://vanagonmaniac.com/products/vw-t4-caravelle-3-window-pop-top-roof-canvas-1999): Vanagon Maniac offers a brand new replacement for VW T4 Westfalia Weekender 3-Window pop-top rear hinge roof canvas. It contains 3 half-round windows with a mosquito net.
   Updated: 2025-11-10T22:28:10Z
   Vendor: vanagonmaniac
   Product Type: replacement canvas
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/IMG_4433.jpg?v=1762864606
+  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/IMG_4433.jpg?v=1765283485
   - [BlanchedAlmond / White](https://vanagonmaniac.com/products/vw-t4-caravelle-3-window-pop-top-roof-canvas-1999?variant=50626314338646)
     Availability: Available
     Price: €515.00 EUR
@@ -2929,7 +2929,7 @@
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/vw_t4_insulation.png?v=1761653710
+  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/vw_t4_insulation.png?v=1765286165
   Price: €246.00 EUR
 - [Bug screen front door set compatible with all VW T3 models](https://vanagonmaniac.com/products/magnetic-mosquito-window-screens-for-vw-t3-driver-passenger-side-set): Enhance your VW T3 with our bug screen front door set compatible with all VW T3 models. Easy installation & high airflow, keeping insects out!
   Updated: 2025-11-10T22:28:12Z
@@ -3092,13 +3092,20 @@
   - [Rear access](https://vanagonmaniac.com/products/magnetic-mosquito-net-for-fiat-ducato-sliding-door-trunk-black?variant=51926682992982)
     Availability: Available
     Price: €111.00 EUR
-- [VW T3 Full Interior Thermal Insulation Set (8 panels) | Complete 9-Layer Thermal Blinds Kit by VanagonManiac](https://vanagonmaniac.com/products/vw-t3-full-interior-thermal-insulation-set-8-panels-complete-9-layer-thermal-blinds-kit-by-vanagonmaniac): Upgrade your entire Volkswagen T3 interior comfort with our premium 9-layer full-window thermal insulation kit, designed and test-fitted by VanagonManiac for a perfect OEM fit.
+- [VW T3 Full Interior 8-Panel Insulation Set | Complete 9-Layer Thermal Blinds Kit by VanagonManiac](https://vanagonmaniac.com/products/vw-t3-full-interior-thermal-insulation-set-8-panels-complete-9-layer-thermal-blinds-kit-by-vanagonmaniac): Upgrade your entire Volkswagen T3 interior comfort with our premium 9-layer full-window thermal insulation kit, designed and test-fitted by VanagonManiac for a perfect OEM fit.
 This complete set includes full coverage for all VW T3 windows - cockpit, sliding door, side windows, rear hatch, and rear quarter windows - providing maximum insulation, privacy, and climate control in every season.
-  Updated: 2025-12-06T00:20:24Z
+  Updated: 2025-12-09T13:17:00Z
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/coming_soon_35.png?v=1764937483
+  Price: €500.00 EUR
+- [VW T4 Full Interior 8-Panel Thermal Insulation Kit (Complete Camper Set)](https://vanagonmaniac.com/products/vw-t4-full-interior-thermal-insulation-set-8-panels-complete-9-layer-thermal-blinds-kit-by-vanagonmaniac): Upgrade your Volkswagen T4 comfort instantly with our premium 9-layer full interior insulation system, engineered by VanagonManiac for an exact OEM-fit across all T4 models.
+  Updated: 2025-12-09T13:16:06Z
+  Vendor: Vanagon Maniac
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/coming_soon_38.png?v=1765286165
   Price: €500.00 EUR
 
 ## Collections
@@ -3107,11 +3114,11 @@ This complete set includes full coverage for all VW T3 windows - cockpit, slidin
   Updated: 2025-11-28T12:15:53Z
   Total Products: 9
 - [T25/T3](https://vanagonmaniac.com/collections/t25): Volkswagen T25/T3/VANAGON/SCA/REIMO pop-top replacement canvas. Brand new VW Westfalia pop-up camper replacement canvas weather weather-resistant, model fit and in 14 colours.
-  Updated: 2025-12-05T12:30:01Z
+  Updated: 2025-12-09T13:17:02Z
   Total Products: 12
 - [T4](https://vanagonmaniac.com/collections/t4): Volkswagen T4 Replacement Pop Top Canvas for short wheel and long wheel base.
-  Updated: 2025-12-05T12:21:48Z
-  Total Products: 12
+  Updated: 2025-12-09T13:12:27Z
+  Total Products: 13
 - [Accessories](https://vanagonmaniac.com/collections/accessories)
   Updated: 2025-11-30T12:12:33Z
   Total Products: 7
@@ -3131,11 +3138,11 @@ This complete set includes full coverage for all VW T3 windows - cockpit, slidin
   Updated: 2025-12-01T10:36:29Z
   Total Products: 1
 - [Insulation](https://vanagonmaniac.com/collections/insulation): Thermal Insulation Kits VW Pop-Top Roof & Windows! Upgrade your camper comfort with premium 9-layer thermal insulation, engineered for Volkswagen campervans and crafted by VanagonManiac. Our insulation kits are made in Latvia, Europe using top-quality materials that guarantee perfect fit, all-season comfort, and modern design.
-  Updated: 2025-12-05T12:22:31Z
-  Total Products: 7
+  Updated: 2025-12-09T13:17:02Z
+  Total Products: 8
 - [AVADA - Best Sellers](https://vanagonmaniac.com/collections/avada-best-sellers)
-  Updated: 2025-12-05T12:30:01Z
-  Total Products: 40
+  Updated: 2025-12-09T13:17:02Z
+  Total Products: 41
 
 ## Blogs
 
