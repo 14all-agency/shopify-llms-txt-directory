@@ -1,12 +1,16 @@
 # Printable Planning (https://printableplanning.com)
 
+> Printable Planning offers digital, printable PDF forms and checklists designed for everyday life organization. Products focus on practical planning needs such as meal planning, budgeting, bill tracking, home and family organization, care logs, financial records, and personal management. All items are digital downloads delivered after purchase; no physical products are shipped. Files are intended for personal use to help simplify routines, stay organized, and manage real-world responsibilities.
+
 - Domain: https://printableplanning.com
 - Locale: en
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-10T19:19:28.641Z
+- Updated At: 2025-12-10T19:30:15.214Z
+
+Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
 ## Products
 
@@ -1831,16 +1835,18 @@
 
 - [Privacy Policy](https://printableplanning.com/policies/privacy-policy)
   Updated: 2024-10-20T15:32:19-04:00
-- [Shipping Policy](https://printableplanning.com/policies/shipping-policy)
-  Updated: 2023-06-07T15:46:22-04:00
-- [Refund Policy](https://printableplanning.com/policies/refund-policy)
-  Updated: 2025-08-12T11:35:28-04:00
-- [Terms of Service](https://printableplanning.com/policies/terms-of-service)
-  Updated: 2019-07-08T05:03:04-04:00
 - [Contact Information](https://printableplanning.com/policies/contact-information)
   Updated: 2025-06-24T17:58:22-04:00
+
+## Social Media
+- https://www.facebook.com/printableplanning/
+- http://instagram.com/PrintablePlanning
+- https://pinterest.com/PrintablePlanning
+
 
 ## Optional
 
 - [robots.txt](https://printableplanning.com/robots.txt)
 - [sitemap.xml](https://printableplanning.com/sitemap.xml)
+
+All products on Printable Planning are digital downloads for personal use only. Files may not be redistributed, resold, shared, or used commercially. Printable Planning does not ship physical products.
