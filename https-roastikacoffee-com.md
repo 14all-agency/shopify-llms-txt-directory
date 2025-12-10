@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-09-11T02:03:25Z
 - Contact Email: info@roastikacoffee.com
-- Updated At: 2025-12-04T00:00:49.465Z
+- Updated At: 2025-12-10T00:00:39.999Z
 
 ## Products
 
@@ -273,6 +273,15 @@
     Author: Roastika
   - [Streamline Your Coffee Orders Best Harvesting Practices](https://roastikacoffee.com/blogs/news/streamline-your-coffee-orders-best-harvesting-practices): Streamline Your Coffee Orders Best Harvesting Practices
     Updated: 2025-11-30T20:00:49Z
+    Author: Roastika
+  - [Unearth the Secrets of Green Coffee Seasons Across Countries](https://roastikacoffee.com/blogs/news/unearth-the-secrets-of-green-coffee-seasons-across-countries): Unearth the Secrets of Green Coffee Seasons Across Countries
+    Updated: 2025-12-05T20:01:04Z
+    Author: Roastika
+  - [Decoding Green Coffee Harvesting Know When and Where](https://roastikacoffee.com/blogs/news/decoding-green-coffee-harvesting-know-when-and-where): Decoding Green Coffee Harvesting Know When and Where
+    Updated: 2025-12-06T20:01:48Z
+    Author: Roastika
+  - [Aligning Shipments with Harvest Fast Facts You Need](https://roastikacoffee.com/blogs/news/aligning-shipments-with-harvest-fast-facts-you-need): Aligning Shipments with Harvest Fast Facts You Need
+    Updated: 2025-12-07T20:00:48Z
     Author: Roastika
 
 ## Store Pages
