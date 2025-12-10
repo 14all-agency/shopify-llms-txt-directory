@@ -5,7 +5,7 @@
 - Currency: EUR
 - Timezone: Europe/Athens
 - Created At: 2022-01-05T10:38:51Z
-- Updated At: 2025-12-10T23:35:11.887Z
+- Updated At: 2025-12-10T23:40:30.901Z
 
 ## Products
 
