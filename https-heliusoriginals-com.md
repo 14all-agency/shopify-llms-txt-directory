@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T09:00:11Z
 - Contact Email: info@heliusoriginals.com
-- Updated At: 2025-12-10T00:00:36.424Z
+- Updated At: 2025-12-11T00:00:35.550Z
 
 ## Products
 
@@ -23,7 +23,7 @@
     Availability: Available
     Price: $139.99 USD
 - [LuxeBlush Smoke Cocktail Kit | Pink Mixology Set by Helius Originals](https://heliusoriginals.com/products/luxeblush-smoke-cocktail-kit): Discover the LuxeBlush Smoke Cocktail Kit. Premium tools and pink wood shavings for crafting elegant, smoke-infused cocktails at home or events.
-  Updated: 2025-10-03T00:50:05Z
+  Updated: 2025-12-10T21:35:16Z
   Vendor: Helius Originals
   Product Type: 
   Availability: Available
