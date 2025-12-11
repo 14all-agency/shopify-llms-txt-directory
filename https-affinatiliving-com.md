@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-10T20:00:33.389Z
+- Updated At: 2025-12-11T00:00:50.530Z
 
 ## Products
 
@@ -6139,7 +6139,7 @@
   Availability: Available
   Price: $0.00 USD
 - [18x18x8 Packing Boxes](https://affinatiliving.com/products/18x18x8-packing-boxes)
-  Updated: 2025-12-09T23:45:40Z
+  Updated: 2025-12-10T22:00:09Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6175,10 +6175,10 @@
   Availability: Available
   Price: $0.00 USD
 - [Packing Peanuts (5 Cubic Feet Bag)](https://affinatiliving.com/products/packing-peanuts-cubic-feet)
-  Updated: 2025-12-09T23:47:11Z
+  Updated: 2025-12-10T21:59:51Z
   Vendor: Affinati
   Product Type: 
-  Availability: Not Available
+  Availability: Available
   Price: $0.00 USD
 - [Mahogany Teakwood Reed Diffuser](https://affinatiliving.com/products/mahogany-teakwood-reed-diffuser): Elevate your space with Affinati’s Mahogany Teakwood Reed Diffuser. A luxurious blend of mahogany, teakwood, and cedar with hints of lavender and oak moss—crafted for long-lasting, flame-free fragrance and timeless sophistication.
   Updated: 2025-12-10T19:05:53Z
