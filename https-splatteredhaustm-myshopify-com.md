@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-25T14:09:39Z
 - Contact Email: splatteredhaus@gmail.com
-- Updated At: 2025-12-10T00:00:24.686Z
+- Updated At: 2025-12-11T00:00:28.187Z
 
 ## Products
 
@@ -1745,12 +1745,12 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371439.jpg?v=1765296472
     Price: $81.33 USD
 - [Punk Rock Love Letter Round Square Pendant Chunky Necklace Lover](https://splatteredhaustm.myshopify.com/products/punk-rock-love-letter-round-square-pendant-chunky-necklace-lover-hip-hop-jewelry): Length:49cm - Splattered Haus TM
-  Updated: 2025-12-09T17:17:56Z
+  Updated: 2025-12-10T17:16:52Z
   Vendor: Feelontop Jewellery
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/6_9758178e-23aa-4ae7-85f9-d8a24ac7c459.jpg?v=1765296475
-  Price: $2.54 USD
+  Price: $2.55 USD
 - [9mm Square Necklace Chain Men's Hip Hop Link Finish Zirconia Copper](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry): 9mm Square Necklace Chain Men's Hip Hop Link Finish Zirconia Copper Gold Color Fashion Rock Jewelry  - Splattered Haus TM
   Updated: 2025-12-09T16:08:31Z
   Vendor: Vimost Shop
@@ -3218,7 +3218,7 @@
   Updated: 2025-11-15T06:38:09Z
   Total Products: 1
 - [OPEN - Best Sellers - Splattered Haus TM](https://splatteredhaustm.myshopify.com/collections/open-best-sellers): Explore the Best Sellers from OPEN Why You Should Check Out OPEN - Best Sellers OPEN - Best Sellers  - Splattered Haus TM
-  Updated: 2025-12-09T17:17:57Z
+  Updated: 2025-12-10T17:16:53Z
   Total Products: 77
 - [staff picks - Splattered Haus TM](https://splatteredhaustm.myshopify.com/collections/staff-picks): - Splattered Haus TM
   Updated: 2025-11-15T06:38:07Z
