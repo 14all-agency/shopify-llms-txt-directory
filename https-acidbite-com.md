@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2020-09-11T12:24:18Z
 - Contact Email: contact@acidbite.com
-- Updated At: 2025-12-09T08:12:07.303Z
+- Updated At: 2025-12-11T00:00:20.110Z
 
 ## Products
 
@@ -328,7 +328,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/CINEMARKERS2_RESIZED_d5fc06ff-a6be-4fac-9b4e-0593d199cefc.png?v=1747134764
   Price: $29.00 USD
 - [All our assets, huge savings](https://acidbite.com/products/complete-collection): The all-in-one bundle of handcrafted video assets – easy to use, built to transform your edits.
-  Updated: 2025-12-05T19:00:38Z
+  Updated: 2025-12-09T14:53:53Z
   Vendor: ACIDBITE
   Product Type: Bundles
   Availability: Available
@@ -351,40 +351,40 @@
   Updated: 2023-10-06T09:01:57Z
   Total Products: 0
 - [Bundles](https://acidbite.com/collections/bundles): Go all in and benefit from the highest possible discounts!
-  Updated: 2025-12-08T12:10:47Z
+  Updated: 2025-12-10T12:12:05Z
   Total Products: 33
 - [Transitions](https://acidbite.com/collections/transitions)
-  Updated: 2025-12-08T12:10:47Z
+  Updated: 2025-12-10T12:12:05Z
   Total Products: 23
 - [Textures](https://acidbite.com/collections/textures)
-  Updated: 2025-12-08T12:10:47Z
+  Updated: 2025-12-10T12:12:05Z
   Total Products: 10
 - [Overlays](https://acidbite.com/collections/overlays)
-  Updated: 2025-12-08T12:10:47Z
+  Updated: 2025-12-10T12:12:05Z
   Total Products: 6
 - [Animations](https://acidbite.com/collections/animations)
-  Updated: 2025-12-05T12:09:27Z
+  Updated: 2025-12-10T12:12:05Z
   Total Products: 6
 - [LUTs](https://acidbite.com/collections/luts)
-  Updated: 2025-12-08T12:10:47Z
+  Updated: 2025-12-10T12:12:05Z
   Total Products: 5
 - [Audio](https://acidbite.com/collections/audio)
-  Updated: 2025-12-08T12:10:47Z
+  Updated: 2025-12-09T12:11:54Z
   Total Products: 2
 - [Courses](https://acidbite.com/collections/courses)
   Updated: 2025-01-08T14:13:35Z
   Total Products: 2
 - [See All](https://acidbite.com/collections/all)
-  Updated: 2025-12-08T12:10:47Z
+  Updated: 2025-12-10T12:12:05Z
   Total Products: 62
 - [Active](https://acidbite.com/collections/active)
-  Updated: 2025-12-08T12:10:47Z
+  Updated: 2025-12-10T12:12:05Z
   Total Products: 79
 - [All Access](https://acidbite.com/collections/all-access)
   Updated: 2025-12-05T12:09:27Z
   Total Products: 4
 - [All (dummy)](https://acidbite.com/collections/all-dummy)
-  Updated: 2025-12-08T12:10:47Z
+  Updated: 2025-12-10T12:12:05Z
   Total Products: 114
 
 ## Policies
