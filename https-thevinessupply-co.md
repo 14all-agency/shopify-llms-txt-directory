@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-12-11T08:00:37.555Z
+- Updated At: 2025-12-11T12:00:37.222Z
 
 ## Products
 
@@ -427,7 +427,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/krooked-completes-blue-7-75-krooked-team-sweatpants-md-complete-skateboard-7-75-1183727017.jpg?v=1757388846
   Price: £89.95 GBP
 - [Polar Skate Co Big Boy Jeans | Dark Blue](https://thevinessupply.co/products/polar-skate-co-big-boy-jeans-dark-blue): Buy the Polar Big Boys Jeans in Dark Blue at The Vines. The famous Polar Big Boys with best prices and fast, free delivery at www.thevinessupply.co
-  Updated: 2025-12-06T11:49:19Z
+  Updated: 2025-12-11T08:41:13Z
   Vendor: Polar
   Product Type: Jeans
   Availability: Available
@@ -716,7 +716,7 @@
     Availability: Not Available
     Price: £69.95 GBP
 - [Skateboard Stickers | Skate Brand Stickers & Slaps](https://thevinessupply.co/products/skateboard-stickers-skate-brand-stickers-slaps): A selection of skateboard brand stickers including brands like Thrasher, Santa Cruz, Spitfire Wheels, Independent Trucks, Alien Workshop, Zero Skateboards, Blind Skateboards, Polar Skate Co, Real Skateboards, Anti-Hero Skateboards and more. These skate stickers are perfect for customising your board and showing off your style. Represent popular brands and add even more personality to your ride.
-  Updated: 2025-12-09T21:54:31Z
+  Updated: 2025-12-11T09:43:17Z
   Vendor: The Vines
   Product Type: Skateboarding
   Availability: Available
@@ -1509,7 +1509,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/srf-dry-changing-robe-pink-one-size-srf-dry-microfibre-changing-robe-unisex-quick-dry-hooded-poncho-pink-1183719318.png?v=1757243539
   Price: £24.95 GBP
 - [SRF DRY Premium Long Sleeve Waterproof Changing Robe Unisex | Polar Edition Red](https://thevinessupply.co/products/srf-dry-premium-long-sleeve-waterproof-changing-robe-mens-polar-edition-vivid-red): The Premium Edition of our best selling Polar SRF DRY® Changing Robe is designed to keep you even warmer and dryer in the harshest of environments. Highly waterproof & windproof, the improved thick sherpa fleece lining, two way zip & oversized fit allows you to change out of wet clothes on the go whilst being protected from the elements. Features: Our premium SRF-TEK outer material with a super waterproof 15000mm water column Premium warm & soft sherpa lining Critical taped seams for improved water-proofing 1250g weight Thick, Sherpa-fleece lining which draws the water away from your skin, drying you quickly while insulating you and making you feel warmer. Minimal styling, including embroidered SRFDRY logo on rear right shoulder Large, anatomical fit fleece lined hood Suitable for September - May use, in cold and wet conditions 80% Polyester Fibre & 20% Polyamide water resistant outer Long sleeves with adjustable cuffs Water and wind resistant shell Full length two way YKK zip entry with zip-pulls for easy changing Larger internal zip poacher/media pocket Two large side zip up pockets Great value Dryrobe Advance alternative Sizing: Small - 104cm (L) x 75cm (W): Recommended for anyone 5'0" to 5'8" Medium - 108cm (L) x 75cm (W): Recommended for anyone 5'3" to 5'11" Large - 112cm (L) x 80cm (W): Recommended for anyone 5'7" to 6'3"
-  Updated: 2025-12-10T08:20:38Z
+  Updated: 2025-12-11T08:35:36Z
   Vendor: SRF DRY
   Product Type: Changing Robe
   Availability: Available
@@ -1964,6 +1964,24 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/magenta-pin-badge-magenta-enamel-pin-badge-burnt-orange-1183717810.png?v=1757219053
   Price: £12.95 GBP
+- [Magenta Skateboard OG Denim Jeans | Washed Denim](https://thevinessupply.co/products/magenta-skateboard-og-denim-jeans-washed-denim): Buy the Magenta Skateboard OG Denim Jeans in Washed Denim at The Vines, with fast, premium delivery & easy returns within 90 days
+  Updated: 2025-12-11T11:50:18Z
+  Vendor: Magenta
+  Product Type: Jeans
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/magenta-jeans-magenta-skateboard-og-denim-stitch-jeans-washed-denim-1183717766.png?v=1757218206
+  - [Extra Small](https://thevinessupply.co/products/magenta-skateboard-og-denim-jeans-washed-denim?variant=49864191738191)
+    Availability: Available
+    Price: £99.95 GBP
+  - [Small](https://thevinessupply.co/products/magenta-skateboard-og-denim-jeans-washed-denim?variant=49864191770959)
+    Availability: Available
+    Price: £99.95 GBP
+  - [Medium](https://thevinessupply.co/products/magenta-skateboard-og-denim-jeans-washed-denim?variant=49864191803727)
+    Availability: Available
+    Price: £99.95 GBP
+  - [Large](https://thevinessupply.co/products/magenta-skateboard-og-denim-jeans-washed-denim?variant=49864191836495)
+    Availability: Available
+    Price: £99.95 GBP
 - [Coca Cola x Oreo Can](https://thevinessupply.co/products/coca-cola-x-oreo-can)
   Updated: 2025-09-06T00:53:26Z
   Vendor: The Vines Supply Co
@@ -3766,7 +3784,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/dime-mtl-water-bottles-dime-mtl-plein-air-water-bottle-clear-1183714343.png?v=1757154721
   Price: £19.95 GBP
 - [Vans Classic Strapback Cap | Black](https://thevinessupply.co/products/vans-classic-strapback-cap-black): Buy the Vans Classic Strapback Cap in Black at The Vines. Buy Vans Skate Caps at The Vines online skate shop and get fast, free delivery.
-  Updated: 2025-09-24T22:25:15Z
+  Updated: 2025-12-11T10:08:42Z
   Vendor: Vans
   Product Type: Caps
   Availability: Available
@@ -6429,7 +6447,7 @@
     Availability: Available
     Price: £99.95 GBP
 - [Magenta Skateboards OG Denim Jeans | Black](https://thevinessupply.co/products/magenta-skateboards-og-denim-jeans-black): Buy the Magenta Skateboard OG Denim Pants in Black at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-12-04T20:56:56Z
+  Updated: 2025-12-11T11:41:56Z
   Vendor: Magenta
   Product Type: Jeans
   Availability: Available
@@ -6438,16 +6456,16 @@
     Availability: Not Available
     Price: £99.95 GBP
   - [Small](https://thevinessupply.co/products/magenta-skateboards-og-denim-jeans-black?variant=56199935918415)
-    Availability: Not Available
+    Availability: Available
     Price: £99.95 GBP
   - [Medium](https://thevinessupply.co/products/magenta-skateboards-og-denim-jeans-black?variant=56199935951183)
     Availability: Available
     Price: £99.95 GBP
   - [Large](https://thevinessupply.co/products/magenta-skateboards-og-denim-jeans-black?variant=56199935983951)
-    Availability: Not Available
+    Availability: Available
     Price: £99.95 GBP
   - [Extra Large](https://thevinessupply.co/products/magenta-skateboards-og-denim-jeans-black?variant=56199936016719)
-    Availability: Not Available
+    Availability: Available
     Price: £99.95 GBP
 - [Pepsi Max Cherry](https://thevinessupply.co/products/pepsi-max-cherry)
   Updated: 2025-11-13T05:20:50Z
@@ -6988,11 +7006,18 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/sabbath-wheels-wheels-54mm-sabbath-wheels-reaper-99a-conical-skateboard-wheels-54mm-1210668493.jpg?v=1765338372
   Price: £35.95 GBP
 - [WKND Wendy Babe Series Skateboard Deck | 8.25" (MC)](https://thevinessupply.co/products/wknd-wendy-babe-series-skateboard-deck-8-25-mc): Buy the WKND Wendy Babe Series Skateboard Deck IN 8.25" MC at The Vines, with free griptape & fast, premium delivery.
-  Updated: 2025-12-10T14:07:05Z
+  Updated: 2025-12-11T11:35:51Z
   Vendor: WKND Skateboards
   Product Type: Decks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/wknd-skateboards-decks-8-25-wknd-wendy-babe-series-skateboard-deck-8-25-mc-1210668484.png?v=1765338364
+  Price: £79.95 GBP
+- [WKND 'SD2' Filip Almqvist Grey Skateboard Deck | 8.375" (WB)](https://thevinessupply.co/products/wknd-sd2-filip-almqvist-grey-skateboard-deck-8-375-wb): Buy the WKND 'SD2' Filip Almqvist Grey Skateboard Deck in 8.375" (WB) at The Vines, with free griptape & fast, premium delivery.
+  Updated: 2025-12-11T11:35:35Z
+  Vendor: WKND Skateboards
+  Product Type: Decks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/1_f4cd65f0-2ccd-4e73-a76f-c81e4a454ad3.jpg?v=1765452718
   Price: £79.95 GBP
 
 ## Collections
@@ -7001,8 +7026,8 @@
   Updated: 2025-12-10T12:23:01Z
   Total Products: 1529
 - [Skateboard Hardware | The Vines](https://thevinessupply.co/collections/skateboard-hardware): Shop our collection of skateboard hardware at The Vines. From shapes to popsicles, soft wheels to hard... we've got what you need to keep rolling. See our collection of skateboard decks, trucks, wheels, nuts & bolts, protective gear, wax and more.
-  Updated: 2025-12-10T16:44:01Z
-  Total Products: 1086
+  Updated: 2025-12-11T11:23:52Z
+  Total Products: 1087
 - [Jackets | Skatewear Jackets | The Vines](https://thevinessupply.co/collections/jackets): Shop a collection of skatewear jackets at The Vines. Get Jackets & Coats from skateboard brands with fast, premium delivery & easy returns within 90 days.
   Updated: 2025-12-09T12:22:05Z
   Total Products: 77
@@ -7019,7 +7044,7 @@
   Updated: 2025-10-11T11:15:50Z
   Total Products: 57
 - [Skate Clothing | Skate Wear | The Vines](https://thevinessupply.co/collections/skate-clothing): Shop Premium Skatewear / Skate Clothing from your favourite skateboard brands at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-10T12:23:01Z
+  Updated: 2025-12-11T11:50:12Z
   Total Products: 2887
 - [Sunglasses | The Vines](https://thevinessupply.co/collections/sunglasses): Shop our collection of sunglasses has a style to suit every taste at The Vines. Complete your look and stay shaded with a frame from the finest skate & street wear sunglasses brand. Shop Vans Sunglasses, Glassy Eyewear and more from the best in skateboarding.
   Updated: 2025-11-09T12:16:47Z
@@ -7046,8 +7071,8 @@
   Updated: 2025-05-22T17:17:34Z
   Total Products: 0
 - [Skateboard Decks | The Vines](https://thevinessupply.co/collections/skateboard-decks): Buy Skateboard Decks at The Vines. Browse a huge range of skate decks from international and UK brands. Get fast, free delivery at www.thevinessupply.co
-  Updated: 2025-12-10T12:23:01Z
-  Total Products: 980
+  Updated: 2025-12-11T11:23:52Z
+  Total Products: 981
 - [Isle Skateboards | Skateboard Decks & Clothing | The Vines](https://thevinessupply.co/collections/isle-skateboards): Shop Isle Skateboards at The Vines. Isle Skateboards is a British-born skate brand brought to you by Paul Shier and Nick Jensen, born from the ashes of the Blueprint skate team. Combining skate and art to bring visually stunning decks and apparel. Check out the latest Isle collection now.
   Updated: 2025-09-12T10:49:37Z
   Total Products: 32
@@ -7079,7 +7104,7 @@
   Updated: 2025-12-10T12:23:01Z
   Total Products: 442
 - [Magenta Skateboards | Magenta Clothing, Decks & Accessories](https://thevinessupply.co/collections/magenta-skateboards): Shop Magenta Skateboards Clothing, Decks & Accessories at The Vines. Browse the biggest UK collection and get best price guarantee on all Magenta skate wear.
-  Updated: 2025-12-10T12:23:01Z
+  Updated: 2025-12-11T11:50:12Z
   Total Products: 344
 - [Levi's Skateboarding](https://thevinessupply.co/collections/levis-skateboarding): Levi's have been manufacturing denim for well over a century and are recognized for their quality, originality & integrity. Levi's jeans have been worn by skateboarders for decades and have now created a dedicated skateboarding collection, focused on superior construction, durability & comfort. Shop Levi's Skateboarding at The Vines now.
   Updated: 2025-02-20T13:05:10Z
@@ -7190,11 +7215,11 @@
   Updated: 2025-12-06T12:19:44Z
   Total Products: 165
 - [Jeans, Cargos & Trousers](https://thevinessupply.co/collections/jeans-cargos-trousers): From baggy to classy, shop denim jeans, trousers, tracksuit bottoms and cargos from your favourite skateboard brands, such as Polar Skate Co, Butter Goods, Vans, Santa Cruz and Dickies.
-  Updated: 2025-12-06T12:19:44Z
-  Total Products: 157
+  Updated: 2025-12-11T11:49:33Z
+  Total Products: 156
 - [Latest Arrivals | The Vines](https://thevinessupply.co/collections/latest-arrivals): Here's the latest goods to arrive at The Vines skate shop. Straight out the box, fresh stock for the masses from the best international. Shop now...
-  Updated: 2025-12-10T16:44:30Z
-  Total Products: 5724
+  Updated: 2025-12-11T11:50:12Z
+  Total Products: 5725
 - [Palace Skateboards | Skateboard Decks | The Vines](https://thevinessupply.co/collections/palace-skateboards): Shop the latest collections of Palace Skateboards skateboard decks at The Vines, with quick delivery and a range of griptape options.
   Updated: 2025-12-07T12:20:48Z
   Total Products: 68
@@ -7307,7 +7332,7 @@
   Updated: 2025-11-06T17:21:58Z
   Total Products: 17
 - [Jeans, Shorts and Trousers | The Vines](https://thevinessupply.co/collections/jeans-shorts-and-trousers): Shop Bottoms, including Denim Jeans, Shorts, Trousers, Chinos and Tracksuit Bottoms at The Vines.From baggy to classy, shop denim jeans, shorts, trousers, tracksuit bottoms and cargos from your favourite skateboard brands, such as Polar Skate Co, Butter Goods, Vans, Santa Cruz and Dickies.
-  Updated: 2025-12-10T12:23:01Z
+  Updated: 2025-12-11T11:50:12Z
   Total Products: 259
 - [Hoodies and Crewnecks | The Vines](https://thevinessupply.co/collections/hoodies-crews): Our curated collection of hoodies, crewnecks and sweaters from your favourite skateboard brands from the UK and worldwide, including Polar Skate Co, Helas, Magenta, Dime MTL, Vans, Dickies, RIPNDIP, HUF, Santa Cruz, Fucking Awesome, Hockey, Quasi, GVNMNT Clothing Co.
   Updated: 2025-12-10T01:09:36Z
@@ -7352,7 +7377,7 @@
   Updated: 2025-07-10T23:57:12Z
   Total Products: 4
 - [Denim Skate Jeans | The Vines](https://thevinessupply.co/collections/skate-jeans): Shop Denim Jeans from your favourite skateboard brands at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-12-10T12:23:01Z
+  Updated: 2025-12-11T11:50:12Z
   Total Products: 148
 - [Cargos, Chinos & Joggers | Skatewear Cargo Pants & Tracksuit Bottoms](https://thevinessupply.co/collections/cargos-chinos-joggers-tracksuit-bottoms): From baggy to classy, shop Cargos, Chinos, Joggers and Tracksuit Bottoms from your favourite skateboard brands at The Vines.
   Updated: 2025-11-27T12:26:09Z
@@ -7424,8 +7449,8 @@
   Updated: 2025-09-26T11:16:26Z
   Total Products: 6
 - [WKND Skateboards | The Vines](https://thevinessupply.co/collections/wknd-skateboards): Shop WKND Skateboards at The Vines. WKND Skateboards came from a crew of friends making skate videos. They started as “Weekendtage”, featured on The Berrics and created by WKND owner Grant Yansura after he parted ways with clothing brand Rip N Dip.
-  Updated: 2025-12-10T01:53:55Z
-  Total Products: 14
+  Updated: 2025-12-11T11:23:52Z
+  Total Products: 15
 - [Skateboard Griptape | The Vines](https://thevinessupply.co/collections/griptape): Shop Skateboard griptape at The Vines. Shop our range of Griptape, grab a Deck to go with it!
   Updated: 2025-11-30T12:26:12Z
   Total Products: 8
@@ -7457,8 +7482,8 @@
   Updated: 2025-12-01T17:54:25Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-12-10T16:45:09Z
-  Total Products: 3235
+  Updated: 2025-12-11T11:50:12Z
+  Total Products: 3236
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-12-10T12:23:01Z
   Total Products: 110
@@ -7562,8 +7587,8 @@
   Updated: 2025-12-08T12:24:07Z
   Total Products: 8
 - [Full Price Items](https://thevinessupply.co/collections/full-price-items)
-  Updated: 2025-12-10T16:44:30Z
-  Total Products: 2894
+  Updated: 2025-12-11T11:50:12Z
+  Total Products: 2896
 - [Toy Machine | Skateboard Decks & Clothing | The Vines](https://thevinessupply.co/collections/toy-machine): Shop Toy Machine Skateboard Decks & Clothing at The Vines. Since being founded by Ed Templeton in 1993, Templeton has been the creative force behind Toy Machine, infusing the brand with his distinctive blend of art and humour.
   Updated: 2025-02-20T13:05:21Z
   Total Products: 2
@@ -7607,7 +7632,7 @@
   Updated: 2025-12-10T12:23:01Z
   Total Products: 1529
 - [Magenta](https://thevinessupply.co/collections/magenta)
-  Updated: 2025-12-10T12:23:01Z
+  Updated: 2025-12-11T11:50:12Z
   Total Products: 344
 - [Hockey Skateboards T-Shirts | The Vines](https://thevinessupply.co/collections/hockey-skateboards-t-shirts): Shop Hockey Skateboards T-Shirts at The Vines.
   Updated: 2025-12-06T12:19:44Z
@@ -7676,8 +7701,8 @@
   Updated: 2025-11-27T12:26:09Z
   Total Products: 3
 - [Denim Jeans & Shorts | Skate Denim Jeans & Shorts](https://thevinessupply.co/collections/denim-jeans-shorts): Shop premium quality Denim Jeans and Denim Shorts from your favourite skate brands at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-12-10T12:23:01Z
-  Total Products: 133
+  Updated: 2025-12-11T11:50:12Z
+  Total Products: 134
 - [Magenta Skateboards Hoodies](https://thevinessupply.co/collections/magenta-skateboards-hoodies): Shop our collection of Magenta Skateboards hoodies. Enjoy fast, free UK premium delivery on orders over £70 and best prices, guaranteed.
   Updated: 2025-11-27T12:26:09Z
   Total Products: 34
@@ -7691,11 +7716,11 @@
   Updated: 2025-12-10T12:23:01Z
   Total Products: 38
 - [8.25" Skateboard Decks](https://thevinessupply.co/collections/8-25-skateboard-decks)
-  Updated: 2025-12-10T12:23:01Z
+  Updated: 2025-12-11T11:26:23Z
   Total Products: 191
 - [8.375" Skateboard Decks](https://thevinessupply.co/collections/8-375-skateboard-decks)
-  Updated: 2025-12-08T16:10:50Z
-  Total Products: 25
+  Updated: 2025-12-11T11:26:23Z
+  Total Products: 26
 - [7.75" Skateboard Decks](https://thevinessupply.co/collections/7-75-skateboard-decks)
   Updated: 2025-08-13T11:41:29Z
   Total Products: 1
@@ -7709,17 +7734,17 @@
   Updated: 2025-11-06T17:21:58Z
   Total Products: 6
 - [Latest Skateboard Decks](https://thevinessupply.co/collections/latest-skateboard-decks): Shop our selection of the newest skateboard decks, including cruisers, pool shapes and more. A huge selection of skate decks from brands like Baker Skateboards, Palace Skateboards, Girl Skateboards and more
-  Updated: 2025-12-10T12:23:01Z
-  Total Products: 980
+  Updated: 2025-12-11T11:23:52Z
+  Total Products: 981
 - [Best Selling Skateboard Decks](https://thevinessupply.co/collections/best-selling-skateboard-decks): Shop our best selling skateboard decks. A huge selection of popular shapes and sizes skate decks from brands like Baker Skateboards, Palace Skateboards, Girl Skateboards and more
-  Updated: 2025-12-10T12:23:01Z
-  Total Products: 980
+  Updated: 2025-12-11T11:23:52Z
+  Total Products: 981
 - [Skateboard Decks Sale](https://thevinessupply.co/collections/skateboard-decks-sale): Shop our selection of sale skateboard decks, including cruisers, pool shapes and more. A huge selection of skate decks sale with discounts from brands like Baker Skateboards, Palace Skateboards, Girl Skateboards and more.
   Updated: 2025-10-14T14:32:12Z
   Total Products: 155
 - [Latest Skateboarding Hardware](https://thevinessupply.co/collections/latest-skateboarding-hardware): Shop the newest skateboard hardware products, including skateboard trucks, skate decks, skateboard wheels and more. A huge selection of skate decks from brands like Independent Trucks, Spitfire Wheels, and Bones Bearings
-  Updated: 2025-12-10T16:44:01Z
-  Total Products: 1379
+  Updated: 2025-12-11T11:23:52Z
+  Total Products: 1380
 - [Skateboard Hardware Sale](https://thevinessupply.co/collections/skateboard-hardware-sale): Shop our skateboard hardware sale, including big discounts on skateboard trucks, skate decks, skateboard wheels and more. A huge selection of sale skate hardware from brands like Independent Trucks, Spitfire Wheels, and Bones Bearings
   Updated: 2025-12-10T12:48:57Z
   Total Products: 236
@@ -7739,8 +7764,8 @@
   Updated: 2025-12-10T16:44:01Z
   Total Products: 294
 - [Black Friday Skateboard Sale](https://thevinessupply.co/collections/black-friday-skateboard-sale): Shop our Black Friday Skateboard Sale, with the best deals on premium skateboard trucks, decks, and wheels. Skate deals with free delivery on order over £70
-  Updated: 2025-12-10T15:55:08Z
-  Total Products: 3117
+  Updated: 2025-12-11T11:49:33Z
+  Total Products: 3116
 - [Palace Decks](https://thevinessupply.co/collections/palace-decks): Shop Palace Decks at The Vines. Check out our exclusive collection of genuine Palace Skateboard Decks with free delivery options and best prices.
   Updated: 2025-12-07T12:20:48Z
   Total Products: 67
