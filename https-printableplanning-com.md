@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-10T19:30:33.808Z
+- Updated At: 2025-12-11T18:44:31.083Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -1769,28 +1769,28 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2025-12-09T12:01:15Z
+  Updated: 2025-12-11T14:27:14Z
   Total Products: 407
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
-  Updated: 2025-12-09T12:01:15Z
+  Updated: 2025-12-11T14:27:14Z
   Total Products: 238
 - [All](https://printableplanning.com/collections/all)
-  Updated: 2025-12-09T12:01:15Z
+  Updated: 2025-12-11T14:27:14Z
   Total Products: 407
 - [Miscellaneous Organizational Pages online at Printable Planning](https://printableplanning.com/collections/miscellaneous-organization-pages): Stay organized on a daily basis with these miscellaneous helpful printable pages. Printable Planning brings you a collection of printable pages for organizing your daily life such as call message logs, online website password lists, vitamin calendar stickers, and more. As our daily lives get more involved and complicated it becomes more and more important to stay as organized as we can. These printable sheets were designed to help you with your miscellaneous daily needs, as well as offering odd-and-ends fun printables such as printable sheet music. (To-do lists and task checklists as well as small business sheets were moved to their own categories in the menu. Check them out!) • 8.5" x 11" printable PDF pages.• Print as many times as you need.
-  Updated: 2025-12-07T12:01:53Z
+  Updated: 2025-12-10T22:04:10Z
   Total Products: 13
 - [Caregivers, Health, Housekeeping, and Pet forms at Printable Planning](https://printableplanning.com/collections/caregivers-health-housekeeping): A collection of printable forms designed for caregivers of both people and pets. Our comprehensive suite includes baby logs, nanny logs, health information sheets, and specialized forms for elderly and disability care. You'll also find a range of forms for housekeeping and cleaning tasks. Perfect for organizing and streamlining your caregiving responsibilities.
-  Updated: 2025-11-17T12:01:34Z
+  Updated: 2025-12-10T22:13:59Z
   Total Products: 41
 - [Printable Financial Sheets online at Printable Planning](https://printableplanning.com/collections/financial-sheets): Get your money organized with financial sheets. Printable Planning provides a collection of printable financial sheets and logs. Your money is one of your most important assets. It is important to keep track of your finances and follow your expenses. These financial sheets are designed to help you with various money-related areas of your life, from keep track of your finances, to help you keep track of your monthly bills, to help you with saving money, to help you with paying off debt. Find the printable financial sheets that will help you the most. • 8.5" x 11" printable PDF pages.• Print as many times as you need.
   Updated: 2025-11-22T12:01:12Z
   Total Products: 43
 - [Holiday and Occasion Printables: Gift Tags, RSVP Organizers & More](https://printableplanning.com/collections/holiday-and-occasion-printable-pages): Discover DIY Christmas gift tags, holiday bookmarks, RSVP organizers, and more, perfect for your holiday events, special occasions, or other celebrations.
-  Updated: 2025-12-09T12:01:15Z
-  Total Products: 64
+  Updated: 2025-12-10T21:14:25Z
+  Total Products: 65
 - [Printable Calendars and Planner Pages | Letter Size and Undated](https://printableplanning.com/collections/calendars-and-planner-pages): Get organized with blank and undated printable calendars and planner pages. Perfect for home, work, or on-the-go. Perfect for professional or personal use.
-  Updated: 2025-10-07T11:01:13Z
+  Updated: 2025-12-10T21:41:06Z
   Total Products: 27
 - [Printable Address Labels online at Printable Planning](https://printableplanning.com/collections/address-labels): Personalize your favorite printable address labels. Printable Planning provides a collection of printable address labels. These printable address labels are made in a variety of designs, in DIY editable PDF file downloads that you personalize yourself, for common address label templates that you find at your local store. • 8.5" x 11" printable PDF pages.• Print as many times as you need. • Editable PDF files for download that you personalize yourself (fonts, colors, and sizes as shown). • Use Avery template 5160 (or comparable, such as 5520, 5260, 5960, 8160, 8250, 8460, 18160, 45160, 48160, 48460). • Label size: 2 5/8" x 1".• 30 Labels per page.
   Updated: 2025-11-14T12:01:05Z
@@ -1799,13 +1799,13 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2025-09-12T11:01:24Z
   Total Products: 27
 - [Printable Bookmarks and Bookplates online at Printable Planning](https://printableplanning.com/collections/bookmarks-and-bookplates): Personalized DIY printable bookmarks and bookplates. The printable bookmarks are a favorite for parents and teachers to give to their young readers as gifts. The printable bookplate labels and stickers are great for labeling your books, and excellent for young readers to get excited about their books and reading.
-  Updated: 2025-06-13T13:42:24Z
+  Updated: 2025-12-11T14:27:14Z
   Total Products: 53
 - [Printable goodies for School and Teachers online at Printable Planning](https://printableplanning.com/collections/school-and-teachers): Grading forms, homework assignments, name labels for school supplies, and more! Printable Planning brings you a collection of printable forms and labels for back to school, the school year, and teacher forms and labels. Popular listings include the name labels for school supplies. You'll also find organizational pages for your homework, for teachers to grade their students, school supplies shopping lists, and more. • 8.5" x 11" printable PDF pages and label sheets.• Print as many times as you need once you have your download.
-  Updated: 2025-11-08T12:01:14Z
+  Updated: 2025-12-10T21:41:06Z
   Total Products: 42
 - [Children's Printable Pages online at Printable Planning](https://printableplanning.com/collections/childrens-printable-pages): Printable pages, chore charts, and goodies for children. Printable Planning provides a collection of fun and useful printable chore charts, organizational pages, and goodies such as bowling sheets for children. Children need organization, and having kids means parents sometimes need organizational tools too. Shop this collection of highly affordable pages, charts, and goodies. • 8.5" x 11" printable PDF pages.• Print as many times as you need. • Some of the charts and goodies require DIY crafting to utilize their full use.
-  Updated: 2025-06-13T13:42:25Z
+  Updated: 2025-12-10T21:05:57Z
   Total Products: 29
 - [Printable Diet and Exercise Sheets online at Printable Planning](https://printableplanning.com/collections/diet-and-exercise-sheets): Stay on track with your health goals with Diet and Exercise Sheets. Printable Planning brings you a collection of printable diet tracking sheets and exercise logs. Whether you're making your New Years resolutions to get healthy and fit, or if you're looking for a better way to keep track of your diet and exercise goals, these printable tracking sheets and logs will help you stay organized. • 8.5" x 11" printable PDF pages.• Print as many times as you need. * Please consult a doctor or health professional before beginning any diet or exercise regimen. These printables are in no way an endorsement by Printable Planning of any diet or exercise routine.
   Updated: 2025-11-23T12:01:17Z
@@ -1814,10 +1814,10 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2025-09-30T16:43:18Z
   Total Products: 0
 - [Printable Small Business Sheets and Forms](https://printableplanning.com/collections/small-business-sheets-and-forms): Printable sheets and forms to help you with your small business. Explore this collection of printable forms, sheets, and tools that you can use to help you with your small business. Printable Planning loves being able to help sole-proprietors and small businesses! From invoice templates, to profit loss statements with auto-calculations, to schedule / appointment sheets, and more. Browse these affordable printable files and find the sheets or forms that can help you with your small business. Take a look at our To-Do Lists and Task Checklists section to find more useful sheets to help organize your small business. • 8.5" x 11" printable PDF pages.• Print as many times as you need.
-  Updated: 2025-12-06T12:01:32Z
+  Updated: 2025-12-10T22:04:10Z
   Total Products: 15
 - [Printable To-Do Lists and Task Checklists](https://printableplanning.com/collections/to-do-lists-and-task-checklists): To-do lists and task checklists to organize your life. Printable Planning brings you a collection of printable to-do lists and task checklists for organizing each day or week of your life. Use these printable lists and sheets to keep track of all of your tasks and to-dos that you have on a daily or weekly basis, or keep a running list. These affordable sheets are available as an instant download when you purchase, and as long as you keep your file(s) you can print them forever. Find the printable list or checklist that works for you! • 8.5" x 11" printable PDF pages.• Print as many times as you need.
-  Updated: 2025-10-19T11:01:53Z
+  Updated: 2025-12-10T20:55:28Z
   Total Products: 26
 
 ## Store Pages
@@ -1825,7 +1825,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 - [About Printable Planning | Organized Life Starts Here](https://printableplanning.com/pages/about-us): Printable Planning was founded in 2013 with a simple goal: to create high-quality printables that make life easier. In 2015, I launched a full onli...
   Updated: 2025-08-05T16:37:13Z
 - [Reviews and customer experiences at Printable Planning](https://printableplanning.com/pages/reviews): Reviews and Customer experiences at Printable Planning. Read the reviews past customers have left on their printable products at Printable Planning...
-  Updated: 2020-10-19T13:14:56Z
+  Updated: 2025-12-11T14:55:26Z
 - [Terms of Use | Printable File License & Usage Guidelines](https://printableplanning.com/pages/terms-of-use): Thank you for choosing Printable Planning! I truly hope you enjoy and get great value from the printables offered here. Below are the Terms of Use ...
   Updated: 2025-08-05T16:52:45Z
 - [FAQs & Troubleshooting | Printable Planning Help Page](https://printableplanning.com/pages/faqs-and-important-details): IMPORTANT DETAILS: Fonts, colors, and layouts are only available as shown in each listing. Customizations are not included with standard purchases....
