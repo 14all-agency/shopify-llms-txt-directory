@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2025-12-11T18:46:00.708Z
+- Updated At: 2025-12-11T20:00:28.291Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -2618,36 +2618,36 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ModernBlankMonthlyCalendar-Rainbow-FullPage-PrintablePlanning.jpg?v=1687190214
   Price: $5.95 USD
-- [Personalized Happy Sun Bookmarks | Printable Reading Gift](https://printableplanning.com/products/personalized-happy-sun-bookmarks-printable): Personalized Happy Sun Bookmarks with editable names, a smiling sun, and yellow background. Perfect summer reading gift for kids or classrooms. Print today!
-  Updated: 2025-09-01T11:21:04Z
+- [Personalized Happy Sun Bookmarks | Printable PDF for Kids](https://printableplanning.com/products/personalized-happy-sun-bookmarks-printable): Personalized happy sun bookmarks for kids and classrooms. Add names in the PDF, print on card stock, and create cheerful reading gifts for summer or school.
+  Updated: 2025-12-11T19:30:35Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedHappySunBookmarks5-up-PrintablePlanning.jpg?v=1687790962
   Price: $5.95 USD
-- [Colorful Teacher Thank You Notes | Printable End of Year PDF](https://printableplanning.com/products/colorful-teacher-thank-you-notes-printable): The Colorful Teacher Thank You Notes have a rainbow gradient frame with two notes per page. Print, cut, and have students write memories for end-of-year gifts.
-  Updated: 2025-09-01T11:00:14Z
+- [Colorful Teacher Thank You Notes | Printable PDF Cards for Kids](https://printableplanning.com/products/colorful-teacher-thank-you-notes-printable): Printable teacher thank you notes with guided prompts. Kids write memories and messages for end-of-year or Teacher Appreciation gifts. Two cards per sheet.
+  Updated: 2025-12-11T19:18:03Z
   Vendor: Artistically Invited
   Product Type: Miscellaneous
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PrintableTeacherThankYouCOLORFUL-individuals-PrintablePlanning.jpg?v=1687790958
   Price: $5.95 USD
-- [Personalized Pumpkin and Leaves Bookmarks | Printable Reading Gift](https://printableplanning.com/products/personalized-pumpkin-and-leaves-bookmarks-printable): The Personalized Pumpkin and Leaves Bookmarks feature editable names with a festive fall design. Perfect for kids, classrooms, or autumn reading. Print today!
-  Updated: 2025-09-01T06:57:57Z
+- [Personalized Pumpkin and Leaves Bookmarks | Printable PDF](https://printableplanning.com/products/personalized-pumpkin-and-leaves-bookmarks-printable): Personalized pumpkin and leaves bookmarks for fall reading. Add names, print on card stock, and create seasonal gifts for classrooms and autumn events.
+  Updated: 2025-12-11T19:08:41Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/FallPumpkinandLeavesBookmarks5-up-PrintablePlanning.jpg?v=1688037382
   Price: $5.95 USD
-- [Personalized Coffee Shark Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-coffee-shark-bookmarks-printable): Create personalized coffee shark bookmarks with an editable printable PDF. Add names, print 5 per page, and use for classrooms, libraries, or summer reading.
-  Updated: 2025-12-11T14:27:13Z
+- [Personalized Coffee Shark Bookmarks | Printable PDF](https://printableplanning.com/products/personalized-coffee-shark-bookmarks-printable): Personalized coffee shark bookmarks for kids and classrooms. Add names in the editable PDF, print on card stock, and create fun custom shark reading gifts.
+  Updated: 2025-12-11T19:03:41Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedCoffeeSharkBookmarks5-up-PrintablePlanning.jpg?v=1688233118
   Price: $5.95 USD
-- [Personalized Watermelon Slices Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-watermelon-slices-bookmarks-printable): Create personalized watermelon slice bookmarks with an editable printable PDF. Add names, print five per page, and use for classrooms or summer reading.
-  Updated: 2025-12-11T10:19:11Z
+- [Personalized Watermelon Bookmarks | Printable PDF](https://printableplanning.com/products/personalized-watermelon-slices-bookmarks-printable): Personalized watermelon bookmarks for kids & classrooms. Add names in the editable PDF, print on card stock, and create fun, colorful reading gifts for summer.
+  Updated: 2025-12-11T19:02:59Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
@@ -2688,15 +2688,15 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SignInandSignOutSheet-PrintablePlanning.jpg?v=1689923961
   Price: $5.95 USD
-- [Personalized Cherries Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-cherries-bookmarks-printable): Create personalized cherries bookmarks with an editable printable PDF. Add names, print five per page, and use for classrooms, libraries, or gifts.
-  Updated: 2025-12-11T09:50:39Z
+- [Personalized Cherries Bookmarks | Printable PDF](https://printableplanning.com/products/personalized-cherries-bookmarks-printable): Personalized cherry bookmarks for kids and classrooms. Add names in the PDF, print on card stock, and create sweet reading gifts for students and libraries.
+  Updated: 2025-12-11T19:08:13Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedCherriesBookmarks5-up-PrintablePlanning.jpg?v=1690141396
   Price: $5.95 USD
-- [Personalized Fall Pumpkin Gnome Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-fall-pumpkin-gnome-bookmarks-printable): Create personalized fall pumpkin gnome bookmarks with an editable printable PDF. Add names, print five per page, and use for classrooms or seasonal reading.
-  Updated: 2025-12-11T09:45:44Z
+- [Personalized Fall Pumpkin Gnome Bookmarks | Printable PDF](https://printableplanning.com/products/personalized-fall-pumpkin-gnome-bookmarks-printable): Personalized fall pumpkin gnome bookmarks for kids and classrooms. Add names, print on card stock, and create cute seasonal reading rewards for autumn.
+  Updated: 2025-12-11T19:07:47Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
@@ -2786,36 +2786,36 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/MedicalInformationForm-Pages1and2-PrintablePlanning.jpg?v=1714233804
   Price: $5.95 USD
-- [Personalized Red Soccer Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-red-soccer-ball-bookmarks-printable): Make personalized red soccer bookmarks with an editable printable PDF. Add names, print five per page, and use for teams, classrooms, or gifts.
-  Updated: 2025-12-11T08:23:49Z
+- [Personalized Red Soccer Bookmarks | Printable PDF](https://printableplanning.com/products/personalized-red-soccer-ball-bookmarks-printable): Personalized red soccer bookmarks for kids and teams. Add names in the PDF, print on card stock, and create fun reading rewards for classrooms or teams.
+  Updated: 2025-12-11T19:11:03Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SoccerBallRedPersonalizedBookmarks5-up-PrintablePlanning.jpg?v=1714630076
   Price: $5.95 USD
-- [Personalized Blue Soccer Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-blue-soccer-ball-bookmarks-printable): Create personalized blue soccer bookmarks with an editable printable PDF. Add names, print five per page, and use for classrooms, teams, or gifts.
-  Updated: 2025-12-11T08:21:25Z
+- [Personalized Blue Soccer Bookmarks | Printable PDF](https://printableplanning.com/products/personalized-blue-soccer-ball-bookmarks-printable): Personalized blue soccer bookmarks for kids and teams. Add names in the PDF, print on card stock, and create fun reading rewards for classrooms and teams.
+  Updated: 2025-12-11T19:10:36Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SoccerBallBluePersonalizedBookmarks5-up-PrintablePlanning.jpg?v=1714630086
   Price: $5.95 USD
-- [Personalized Green Soccer Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-green-soccer-ball-bookmarks-printable): Make personalized green soccer bookmarks with an editable printable PDF. Add names, print five per page, and use for teams, classrooms, or gifts.
-  Updated: 2025-12-11T08:19:19Z
+- [Personalized Green Soccer Bookmarks | Printable PDF](https://printableplanning.com/products/personalized-green-soccer-ball-bookmarks-printable): Personalized green soccer bookmarks for kids and teams. Add names in the PDF, print on card stock, and create fun reading rewards for classrooms or teams.
+  Updated: 2025-12-11T19:10:10Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SoccerBallGreenPersonalizedBookmarks5-up-PrintablePlanning.jpg?v=1714630060
   Price: $5.95 USD
-- [Personalized Pink Soccer Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-pink-soccer-ball-bookmarks-printable): Create personalized pink soccer bookmarks with an editable printable PDF. Add names, print five per page, and use for classrooms, teams, or gifts.
-  Updated: 2025-12-11T08:15:20Z
+- [Personalized Pink Soccer Bookmarks | Printable PDF](https://printableplanning.com/products/personalized-pink-soccer-ball-bookmarks-printable): Personalized pink soccer bookmarks for kids and teams. Add names in the PDF, print on card stock, and create fun reading rewards for classrooms and teams.
+  Updated: 2025-12-11T19:09:47Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/SoccerBallPinkPersonalizedBookmarks5-up-PrintablePlanning.jpg?v=1714630051
   Price: $5.95 USD
-- [Personalized Purple Soccer Bookmarks | Editable Printable PDF](https://printableplanning.com/products/personalized-purple-soccer-ball-bookmarks-printable): Create personalized purple soccer bookmarks with this editable printable PDF. Add names, print five per page, and use for classrooms, teams, or gifts.
-  Updated: 2025-12-11T08:13:59Z
+- [Personalized Purple Soccer Bookmarks | Printable PDF](https://printableplanning.com/products/personalized-purple-soccer-ball-bookmarks-printable): Personalized purple soccer bookmarks for kids and teams. Add names in the PDF, print on card stock, and create fun reading rewards for classrooms or teams.
+  Updated: 2025-12-11T19:09:21Z
   Vendor: Artistically Invited
   Product Type: Bookmarks
   Availability: Available
@@ -2839,13 +2839,13 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2025-12-11T14:27:14Z
+  Updated: 2025-12-11T19:30:36Z
   Total Products: 407
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
-  Updated: 2025-12-11T14:27:14Z
+  Updated: 2025-12-11T19:30:36Z
   Total Products: 238
 - [All](https://printableplanning.com/collections/all)
-  Updated: 2025-12-11T14:27:14Z
+  Updated: 2025-12-11T19:30:36Z
   Total Products: 407
 - [Miscellaneous Organizational Pages online at Printable Planning](https://printableplanning.com/collections/miscellaneous-organization-pages): Stay organized on a daily basis with these miscellaneous helpful printable pages. Printable Planning brings you a collection of printable pages for organizing your daily life such as call message logs, online website password lists, vitamin calendar stickers, and more. As our daily lives get more involved and complicated it becomes more and more important to stay as organized as we can. These printable sheets were designed to help you with your miscellaneous daily needs, as well as offering odd-and-ends fun printables such as printable sheet music. (To-do lists and task checklists as well as small business sheets were moved to their own categories in the menu. Check them out!) • 8.5" x 11" printable PDF pages.• Print as many times as you need.
   Updated: 2025-12-10T22:04:10Z
@@ -2869,10 +2869,10 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2025-09-12T11:01:24Z
   Total Products: 27
 - [Printable Bookmarks and Bookplates online at Printable Planning](https://printableplanning.com/collections/bookmarks-and-bookplates): Personalized DIY printable bookmarks and bookplates. The printable bookmarks are a favorite for parents and teachers to give to their young readers as gifts. The printable bookplate labels and stickers are great for labeling your books, and excellent for young readers to get excited about their books and reading.
-  Updated: 2025-12-11T14:27:14Z
+  Updated: 2025-12-11T19:30:36Z
   Total Products: 53
 - [Printable goodies for School and Teachers online at Printable Planning](https://printableplanning.com/collections/school-and-teachers): Grading forms, homework assignments, name labels for school supplies, and more! Printable Planning brings you a collection of printable forms and labels for back to school, the school year, and teacher forms and labels. Popular listings include the name labels for school supplies. You'll also find organizational pages for your homework, for teachers to grade their students, school supplies shopping lists, and more. • 8.5" x 11" printable PDF pages and label sheets.• Print as many times as you need once you have your download.
-  Updated: 2025-12-10T21:41:06Z
+  Updated: 2025-12-11T19:18:05Z
   Total Products: 42
 - [Children's Printable Pages online at Printable Planning](https://printableplanning.com/collections/childrens-printable-pages): Printable pages, chore charts, and goodies for children. Printable Planning provides a collection of fun and useful printable chore charts, organizational pages, and goodies such as bowling sheets for children. Children need organization, and having kids means parents sometimes need organizational tools too. Shop this collection of highly affordable pages, charts, and goodies. • 8.5" x 11" printable PDF pages.• Print as many times as you need. • Some of the charts and goodies require DIY crafting to utilize their full use.
   Updated: 2025-12-10T21:05:57Z
