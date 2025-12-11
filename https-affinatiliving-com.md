@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-12-11T08:00:35.130Z
+- Updated At: 2025-12-11T12:00:35.167Z
 
 ## Products
 
@@ -4066,7 +4066,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Affinati Luxury Matches | Elegant White Matchbox for Candles & Décor](https://affinatiliving.com/products/affinati-luxury-matches-elegant-white-matchbox-for-candles-decor): Light your candles in style with Affinati Luxury Matches — a sleek white matchbox featuring the signature Affinati logo. Minimal, refined, and perfect for gifting or display.
-  Updated: 2025-12-10T19:05:31Z
+  Updated: 2025-12-11T11:43:16Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
